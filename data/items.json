@@ -1,5 +1,68 @@
 [
   {
+    "description": "Evaluation harness for LLM browser agents \u2014 real Chromium tasks, DOM-based verifiers, step-level tracing, multi-provider",
+    "id": "Ilyat9/Agentalyze",
+    "language": "Python",
+    "name": "Ilyat9/Agentalyze",
+    "stars": 1,
+    "updated_at": "2026-08-29T18:13:58Z",
+    "url": "https://github.com/Ilyat9/Agentalyze"
+  },
+  {
+    "description": "The LLM Anti-Framework",
+    "id": "Mirascope/mirascope",
+    "language": "Python",
+    "name": "Mirascope/mirascope",
+    "stars": 1524,
+    "updated_at": "2026-08-29T18:13:46Z",
+    "url": "https://github.com/Mirascope/mirascope"
+  },
+  {
+    "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
+    "id": "ChanTso/citybuddy",
+    "language": "Java",
+    "name": "ChanTso/citybuddy",
+    "stars": 0,
+    "updated_at": "2026-08-29T18:12:59Z",
+    "url": "https://github.com/ChanTso/citybuddy"
+  },
+  {
+    "description": "Lightweight Swift terminal UI library for streaming AI transcripts with in-place updates and tool placeholders.",
+    "id": "BiBoyang/ForgeLoopTUI",
+    "language": "Swift",
+    "name": "BiBoyang/ForgeLoopTUI",
+    "stars": 1,
+    "updated_at": "2026-08-29T18:12:04Z",
+    "url": "https://github.com/BiBoyang/ForgeLoopTUI"
+  },
+  {
+    "description": "\ud83e\uddec \u5782\u76f4\u9886\u57df\u5f02\u6b65 AI Agent \u7f16\u6392\u7cfb\u7edf\uff1aFastAPI + Celery + Redis + Router LLM + \u86cb\u767d\u9886\u57df RAG\uff08\u591a\u80bd\u751f\u6210 / \u9002\u914d\u4f53\u751f\u6210 / \u86cb\u767d\u9884\u6d4b\uff09",
+    "id": "Alakazamc/ProteinAgent",
+    "language": "Python",
+    "name": "Alakazamc/ProteinAgent",
+    "stars": 0,
+    "updated_at": "2026-08-29T18:10:23Z",
+    "url": "https://github.com/Alakazamc/ProteinAgent"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 5,
+    "updated_at": "2026-08-29T18:07:53Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4403,
+    "updated_at": "2026-08-29T18:07:26Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
     "description": "Local-first AI client and agent runtime. Provider-neutral (Ollama, LM Studio, Lemonade, OpenAI, Anthropic, xAI), sandbox",
     "id": "kawaiipantsu/boop",
     "language": "Go",
@@ -18,15 +81,6 @@
     "url": "https://github.com/EauDoon/hermes-parallel-followups"
   },
   {
-    "description": "Evaluation harness for LLM browser agents \u2014 real Chromium tasks, DOM-based verifiers, step-level tracing, multi-provider",
-    "id": "Ilyat9/Agentalyze",
-    "language": "Python",
-    "name": "Ilyat9/Agentalyze",
-    "stars": 1,
-    "updated_at": "2026-08-29T17:49:55Z",
-    "url": "https://github.com/Ilyat9/Agentalyze"
-  },
-  {
     "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
     "id": "Om-Khode/TENKA",
     "language": "Python",
@@ -43,24 +97,6 @@
     "stars": 35,
     "updated_at": "2026-08-29T17:29:25Z",
     "url": "https://github.com/kriss-b/llm-iso27001"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 5,
-    "updated_at": "2026-08-29T17:26:29Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4403,
-    "updated_at": "2026-08-29T18:00:07Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -88,6 +124,15 @@
     "stars": 552,
     "updated_at": "2026-08-29T17:09:37Z",
     "url": "https://github.com/BlockRunAI/Franklin"
+  },
+  {
+    "description": "Assistente Virtual Localhosted",
+    "id": "HercoZauZau/Baghdad",
+    "language": "Python",
+    "name": "HercoZauZau/Baghdad",
+    "stars": 1,
+    "updated_at": "2026-08-29T16:55:42Z",
+    "url": "https://github.com/HercoZauZau/Baghdad"
   },
   {
     "description": "A local-first personal AI agent with a living memory: remembers you, uses your computer, and builds automations you can ",
@@ -178,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T16:12:43Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
-    "id": "ChanTso/citybuddy",
-    "language": "Java",
-    "name": "ChanTso/citybuddy",
-    "stars": 0,
-    "updated_at": "2026-08-29T18:00:17Z",
-    "url": "https://github.com/ChanTso/citybuddy"
   },
   {
     "description": "Claude Code skill that generates a tailored autonomous dev loop for any git repository",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-29T14:19:27Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
-    "id": "brittewestafrican981/ComfyUI-YinChao",
-    "language": "Python",
-    "name": "brittewestafrican981/ComfyUI-YinChao",
-    "stars": 0,
-    "updated_at": "2026-08-29T14:17:37Z",
-    "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
-  },
-  {
-    "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
-    "id": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
-    "language": "Python",
-    "name": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
-    "stars": 4,
-    "updated_at": "2026-08-29T14:16:15Z",
-    "url": "https://github.com/mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo"
-  },
-  {
-    "description": "point an agent at your data: it writes the OpenZL description, trains a compressor, and proves the savings against zstd ",
-    "id": "avionicharshit-byte/openzl-agent",
-    "language": "Shell",
-    "name": "avionicharshit-byte/openzl-agent",
-    "stars": 0,
-    "updated_at": "2026-08-29T14:15:32Z",
-    "url": "https://github.com/avionicharshit-byte/openzl-agent"
-  },
-  {
-    "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
-    "id": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
-    "language": "Python",
-    "name": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
-    "stars": 2,
-    "updated_at": "2026-08-29T14:15:15Z",
-    "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
   }
 ]
