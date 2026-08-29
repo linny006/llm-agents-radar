@@ -1,5 +1,50 @@
 [
   {
+    "description": "Local-first AI client and agent runtime. Provider-neutral (Ollama, LM Studio, Lemonade, OpenAI, Anthropic, xAI), sandbox",
+    "id": "kawaiipantsu/boop",
+    "language": "Go",
+    "name": "kawaiipantsu/boop",
+    "stars": 0,
+    "updated_at": "2026-08-29T16:45:02Z",
+    "url": "https://github.com/kawaiipantsu/boop"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4403,
+    "updated_at": "2026-08-29T16:37:02Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Knowledge-base agent demonstrating local embeddings, retrieval, tool use, and OpenAI-compatible loops.",
+    "id": "C10udsea/kb-agent",
+    "language": "Python",
+    "name": "C10udsea/kb-agent",
+    "stars": 2,
+    "updated_at": "2026-08-29T16:34:40Z",
+    "url": "https://github.com/C10udsea/kb-agent"
+  },
+  {
+    "description": "Self-evolving agent memory that distills, retrieves, and evaluates reusable reasoning strategies.",
+    "id": "C10udsea/evolvebank",
+    "language": "Python",
+    "name": "C10udsea/evolvebank",
+    "stars": 1,
+    "updated_at": "2026-08-29T16:34:38Z",
+    "url": "https://github.com/C10udsea/evolvebank"
+  },
+  {
+    "description": "Evaluation harness for LLM browser agents \u2014 real Chromium tasks, DOM-based verifiers, step-level tracing, multi-provider",
+    "id": "Ilyat9/Agentalyze",
+    "language": "Python",
+    "name": "Ilyat9/Agentalyze",
+    "stars": 1,
+    "updated_at": "2026-08-29T16:31:37Z",
+    "url": "https://github.com/Ilyat9/Agentalyze"
+  },
+  {
     "description": "Capability-first CLI agent for evidence-backed power-system static analysis with pandapower.",
     "id": "uukuguy/grid-static-analysis",
     "language": "Python",
@@ -9,31 +54,13 @@
     "url": "https://github.com/uukuguy/grid-static-analysis"
   },
   {
-    "description": "Evaluation harness for LLM browser agents \u2014 real Chromium tasks, DOM-based verifiers, step-level tracing, multi-provider",
-    "id": "Ilyat9/Agentalyze",
-    "language": "Python",
-    "name": "Ilyat9/Agentalyze",
-    "stars": 1,
-    "updated_at": "2026-08-29T16:28:34Z",
-    "url": "https://github.com/Ilyat9/Agentalyze"
-  },
-  {
-    "description": "Local-first AI client and agent runtime. Provider-neutral (Ollama, LM Studio, Lemonade, OpenAI, Anthropic, xAI), sandbox",
-    "id": "kawaiipantsu/boop",
-    "language": "Go",
-    "name": "kawaiipantsu/boop",
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
     "stars": 0,
-    "updated_at": "2026-08-29T16:28:05Z",
-    "url": "https://github.com/kawaiipantsu/boop"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4403,
-    "updated_at": "2026-08-29T16:29:20Z",
-    "url": "https://github.com/gptme/gptme"
+    "updated_at": "2026-08-29T16:25:32Z",
+    "url": "https://github.com/ljedrz/nachalnik"
   },
   {
     "description": "A tribute to the best software in the world.",
@@ -239,7 +266,7 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-08-29T15:06:28Z",
+    "updated_at": "2026-08-29T16:37:00Z",
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-29T14:05:09Z",
     "url": "https://github.com/Arjunadh5305/ios-skills-collection"
-  },
-  {
-    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
-    "id": "oxidizable-malinois605/bridge-suite-mcp",
-    "language": "TypeScript",
-    "name": "oxidizable-malinois605/bridge-suite-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-29T14:05:05Z",
-    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
-  },
-  {
-    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
-    "id": "Stolas34/voice-input-src",
-    "language": "\u2014",
-    "name": "Stolas34/voice-input-src",
-    "stars": 0,
-    "updated_at": "2026-08-29T14:04:42Z",
-    "url": "https://github.com/Stolas34/voice-input-src"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 205,
-    "updated_at": "2026-08-29T14:36:57Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   }
 ]
