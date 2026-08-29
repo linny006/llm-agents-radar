@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-29 23:28 UTC
+> ⏰ Last updated: 2026-08-29 23:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [alexenti-code/matryoshka-mmi](https://github.com/alexenti-code/matryoshka-mmi) | 0 | Python | 2026-08-29 | Persistent plastic memory for coding agents (Claude Code, OpenCode, Prime Agent) via MCP. One-command install. |
-| 2 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-29 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 3 | [Ilyat9/Agentalyze](https://github.com/Ilyat9/Agentalyze) | 1 | Python | 2026-08-29 | Evaluation harness for LLM browser agents — real Chromium tasks, DOM-based verifiers, step-level tracing, multi-provider |
-| 4 | [kriss-b/llm-iso27001](https://github.com/kriss-b/llm-iso27001) | 35 | — | 2026-08-29 | ISO 27001 (+42001 + NIS2) ISMS framework designed to be instantiated and maintained by LLM Agents |
-| 5 | [sydches/yuj](https://github.com/sydches/yuj) | 1 | Python | 2026-08-29 | Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L |
+| 1 | [sydches/yuj](https://github.com/sydches/yuj) | 1 | Python | 2026-08-29 | Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L |
+| 2 | [kriss-b/llm-iso27001](https://github.com/kriss-b/llm-iso27001) | 35 | — | 2026-08-29 | ISO 27001 (+42001 + NIS2) ISMS framework designed to be instantiated and maintained by LLM Agents |
+| 3 | [alexenti-code/matryoshka-mmi](https://github.com/alexenti-code/matryoshka-mmi) | 0 | Python | 2026-08-29 | Persistent plastic memory for coding agents (Claude Code, OpenCode, Prime Agent) via MCP. One-command install. |
+| 4 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-29 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 5 | [Ilyat9/Agentalyze](https://github.com/Ilyat9/Agentalyze) | 1 | Python | 2026-08-29 | Evaluation harness for LLM browser agents — real Chromium tasks, DOM-based verifiers, step-level tracing, multi-provider |
 | 6 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-29 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
 | 7 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 32 | Python | 2026-08-29 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
 | 8 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 5 | Swift | 2026-08-29 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
