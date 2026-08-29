@@ -1,5 +1,41 @@
 [
   {
+    "description": "Self-hosted multi-tenant agent platform for teams: skills, knowledge, API contracts and MCP servers live in the database",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 22,
+    "updated_at": "2026-08-29T20:42:41Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 1,
+    "updated_at": "2026-08-29T20:41:33Z",
+    "url": "https://github.com/sydches/yuj"
+  },
+  {
+    "description": "Evaluation harness for LLM browser agents \u2014 real Chromium tasks, DOM-based verifiers, step-level tracing, multi-provider",
+    "id": "Ilyat9/Agentalyze",
+    "language": "Python",
+    "name": "Ilyat9/Agentalyze",
+    "stars": 1,
+    "updated_at": "2026-08-29T20:38:29Z",
+    "url": "https://github.com/Ilyat9/Agentalyze"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7048,
+    "updated_at": "2026-08-29T20:39:47Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "GPT autonomous research and investigation using starintel",
     "id": "lost-rob0t/starintel-gpt-auto-dig",
     "language": "Python",
@@ -9,15 +45,6 @@
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
-    "description": "Self-hosted multi-tenant agent platform for teams: skills, knowledge, API contracts and MCP servers live in the database",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 22,
-    "updated_at": "2026-08-29T20:23:52Z",
-    "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
     "id": "b-macker/NAAb",
     "language": "C++",
@@ -25,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T20:15:49Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Evaluation harness for LLM browser agents \u2014 real Chromium tasks, DOM-based verifiers, step-level tracing, multi-provider",
-    "id": "Ilyat9/Agentalyze",
-    "language": "Python",
-    "name": "Ilyat9/Agentalyze",
-    "stars": 1,
-    "updated_at": "2026-08-29T20:14:34Z",
-    "url": "https://github.com/Ilyat9/Agentalyze"
   },
   {
     "description": "A local-first personal AI agent with a living memory: remembers you, uses your computer, and builds automations you can ",
@@ -142,15 +160,6 @@
     "stars": 16,
     "updated_at": "2026-08-29T19:24:09Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 1,
-    "updated_at": "2026-08-29T19:04:54Z",
-    "url": "https://github.com/sydches/yuj"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -439,14 +448,5 @@
     "stars": 7,
     "updated_at": "2026-08-29T15:40:38Z",
     "url": "https://github.com/Sigmanih/SigmaStudio"
-  },
-  {
-    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
-    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "language": "Python",
-    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "stars": 1,
-    "updated_at": "2026-08-29T15:29:37Z",
-    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
   }
 ]
