@@ -1,5 +1,14 @@
 [
   {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 5,
+    "updated_at": "2026-08-29T22:53:40Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
     "description": "Keep agent CLIs running 7\u00d724 \u2014 supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure",
     "id": "wan9yu/cli-agent-runner",
     "language": "Python",
@@ -40,7 +49,7 @@
     "id": "khudayarovich/onflip-agent",
     "language": "TypeScript",
     "name": "khudayarovich/onflip-agent",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-29T22:18:30Z",
     "url": "https://github.com/khudayarovich/onflip-agent"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-29T20:11:22Z",
     "url": "https://github.com/vesslina/mikrotik-harness"
-  },
-  {
-    "description": "A small Python agent framework \u2014 tool-calling loop, YAML config, pluggable transports.",
-    "id": "islavutin-oss/agentino",
-    "language": "Python",
-    "name": "islavutin-oss/agentino",
-    "stars": 0,
-    "updated_at": "2026-08-29T19:58:24Z",
-    "url": "https://github.com/islavutin-oss/agentino"
   }
 ]
