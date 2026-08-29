@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
     "stars": 1,
-    "updated_at": "2026-08-29T04:59:44Z",
+    "updated_at": "2026-08-29T05:14:32Z",
     "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
+  },
+  {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 5,
+    "updated_at": "2026-08-29T05:14:14Z",
+    "url": "https://github.com/bigduu/Zenith"
   },
   {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
@@ -14,8 +23,35 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-08-29T04:58:42Z",
+    "updated_at": "2026-08-29T05:11:50Z",
     "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
+    "id": "Om-Khode/TENKA",
+    "language": "Python",
+    "name": "Om-Khode/TENKA",
+    "stars": 7,
+    "updated_at": "2026-08-29T05:08:35Z",
+    "url": "https://github.com/Om-Khode/TENKA"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 16,
+    "updated_at": "2026-08-29T05:04:24Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
+    "id": "wq19901103wq/wechat-mac-rpa",
+    "language": "Python",
+    "name": "wq19901103wq/wechat-mac-rpa",
+    "stars": 88,
+    "updated_at": "2026-08-29T05:00:59Z",
+    "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -68,7 +104,7 @@
     "language": "CSS",
     "name": "noahhps/Courier",
     "stars": 0,
-    "updated_at": "2026-08-29T04:35:57Z",
+    "updated_at": "2026-08-29T05:14:00Z",
     "url": "https://github.com/noahhps/Courier"
   },
   {
@@ -79,15 +115,6 @@
     "stars": 27,
     "updated_at": "2026-08-29T04:21:29Z",
     "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 5,
-    "updated_at": "2026-08-29T04:17:49Z",
-    "url": "https://github.com/bigduu/Zenith"
   },
   {
     "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-29T00:20:23Z",
     "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "LLM-triaged good-first-issue digest for GitHub repos, delivered by email. Runs on GitHub Actions, no server required.",
-    "id": "tmtabor/oss-notifier-agent",
-    "language": "Python",
-    "name": "tmtabor/oss-notifier-agent",
-    "stars": 0,
-    "updated_at": "2026-08-29T00:18:40Z",
-    "url": "https://github.com/tmtabor/oss-notifier-agent"
-  },
-  {
-    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
-    "id": "chadwickhyperboloidal943/knowl",
-    "language": "TypeScript",
-    "name": "chadwickhyperboloidal943/knowl",
-    "stars": 0,
-    "updated_at": "2026-08-29T00:16:34Z",
-    "url": "https://github.com/chadwickhyperboloidal943/knowl"
-  },
-  {
-    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
-    "id": "Laurenfeminine36/google-jules-skill",
-    "language": "Python",
-    "name": "Laurenfeminine36/google-jules-skill",
-    "stars": 1,
-    "updated_at": "2026-08-29T00:16:24Z",
-    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
   }
 ]
