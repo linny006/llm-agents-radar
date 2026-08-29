@@ -1,5 +1,32 @@
 [
   {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 5,
+    "updated_at": "2026-08-29T17:26:29Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4403,
+    "updated_at": "2026-08-29T17:29:56Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Evaluation harness for LLM browser agents \u2014 real Chromium tasks, DOM-based verifiers, step-level tracing, multi-provider",
+    "id": "Ilyat9/Agentalyze",
+    "language": "Python",
+    "name": "Ilyat9/Agentalyze",
+    "stars": 1,
+    "updated_at": "2026-08-29T17:16:35Z",
+    "url": "https://github.com/Ilyat9/Agentalyze"
+  },
+  {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
     "id": "Cyrax321/CONTINUUM",
     "language": "Python",
@@ -32,7 +59,7 @@
     "language": "\u2014",
     "name": "kriss-b/llm-iso27001",
     "stars": 35,
-    "updated_at": "2026-08-29T17:04:56Z",
+    "updated_at": "2026-08-29T17:29:25Z",
     "url": "https://github.com/kriss-b/llm-iso27001"
   },
   {
@@ -41,7 +68,7 @@
     "language": "Go",
     "name": "kawaiipantsu/boop",
     "stars": 0,
-    "updated_at": "2026-08-29T17:01:17Z",
+    "updated_at": "2026-08-29T17:22:04Z",
     "url": "https://github.com/kawaiipantsu/boop"
   },
   {
@@ -90,15 +117,6 @@
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4403,
-    "updated_at": "2026-08-29T17:05:26Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
     "description": "A typed Python tool-calling service that turns work-order photos into dispatch and follow-up decisions.",
     "id": "Lyle-0015/photo-guided-field-dispatch-agent",
     "language": "Python",
@@ -106,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T16:45:30Z",
     "url": "https://github.com/Lyle-0015/photo-guided-field-dispatch-agent"
-  },
-  {
-    "description": "Evaluation harness for LLM browser agents \u2014 real Chromium tasks, DOM-based verifiers, step-level tracing, multi-provider",
-    "id": "Ilyat9/Agentalyze",
-    "language": "Python",
-    "name": "Ilyat9/Agentalyze",
-    "stars": 1,
-    "updated_at": "2026-08-29T16:31:37Z",
-    "url": "https://github.com/Ilyat9/Agentalyze"
   },
   {
     "description": "Capability-first CLI agent for evidence-backed power-system static analysis with pandapower.",
@@ -169,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T16:00:28Z",
     "url": "https://github.com/ChanTso/citybuddy"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 5,
-    "updated_at": "2026-08-29T15:57:47Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "Claude Code skill that generates a tailored autonomous dev loop for any git repository",

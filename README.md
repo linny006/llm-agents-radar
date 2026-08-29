@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-29 17:15 UTC
+> ⏰ Last updated: 2026-08-29 17:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,26 +42,26 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Cyrax321/CONTINUUM](https://github.com/Cyrax321/CONTINUUM) | 27 | Python | 2026-08-29 | CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id |
-| 2 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-29 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 3 | [BlockRunAI/Franklin](https://github.com/BlockRunAI/Franklin) | 552 | TypeScript | 2026-08-29 | The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript. |
-| 4 | [kriss-b/llm-iso27001](https://github.com/kriss-b/llm-iso27001) | 35 | — | 2026-08-29 | ISO 27001 (+42001 + NIS2) ISMS framework designed to be instantiated and maintained by LLM Agents |
-| 5 | [kawaiipantsu/boop](https://github.com/kawaiipantsu/boop) | 0 | Go | 2026-08-29 | Local-first AI client and agent runtime. Provider-neutral (Ollama, LM Studio, Lemonade, OpenAI, Anthropic, xAI), sandbox |
-| 6 | [EauDoon/hermes-parallel-followups](https://github.com/EauDoon/hermes-parallel-followups) | 0 | Python | 2026-08-29 | Two MIT patches for Nous Research Hermes: stop busy-queue messages merging into one jumbled turn, and optionally run sel |
-| 7 | [fatihkutuk/neo](https://github.com/fatihkutuk/neo) | 2 | Python | 2026-08-29 | A local-first personal AI agent with a living memory: remembers you, uses your computer, and builds automations you can  |
-| 8 | [C10udsea/kb-agent](https://github.com/C10udsea/kb-agent) | 2 | Python | 2026-08-29 | Knowledge-base agent demonstrating local embeddings, retrieval, tool use, and OpenAI-compatible loops. |
-| 9 | [C10udsea/evolvebank](https://github.com/C10udsea/evolvebank) | 1 | Python | 2026-08-29 | Self-evolving agent memory that distills, retrieves, and evaluates reusable reasoning strategies. |
-| 10 | [rohithkandula19/Ronin](https://github.com/rohithkandula19/Ronin) | 1 | Python | 2026-08-29 | Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq |
-| 11 | [gptme/gptme](https://github.com/gptme/gptme) | 4403 | Python | 2026-08-29 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
-| 12 | [Lyle-0015/photo-guided-field-dispatch-agent](https://github.com/Lyle-0015/photo-guided-field-dispatch-agent) | 0 | Python | 2026-08-29 | A typed Python tool-calling service that turns work-order photos into dispatch and follow-up decisions. |
-| 13 | [Ilyat9/Agentalyze](https://github.com/Ilyat9/Agentalyze) | 1 | Python | 2026-08-29 | Evaluation harness for LLM browser agents — real Chromium tasks, DOM-based verifiers, step-level tracing, multi-provider |
-| 14 | [uukuguy/grid-static-analysis](https://github.com/uukuguy/grid-static-analysis) | 0 | Python | 2026-08-29 | Capability-first CLI agent for evidence-backed power-system static analysis with pandapower. |
-| 15 | [ljedrz/nachalnik](https://github.com/ljedrz/nachalnik) | 0 | Rust | 2026-08-29 | A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and  |
-| 16 | [markdr-hue/open-fabrica](https://github.com/markdr-hue/open-fabrica) | 1 | Go | 2026-08-29 | A tribute to the best software in the world. |
-| 17 | [Amaan9136/portable-usb-llm-agent](https://github.com/Amaan9136/portable-usb-llm-agent) | 0 | Python | 2026-08-29 | A portable, offline coding agent that runs entirely from a USB drive on Windows. It uses a local LLM through llama.cpp f |
-| 18 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-29 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 19 | [ChanTso/citybuddy](https://github.com/ChanTso/citybuddy) | 0 | Java | 2026-08-29 | Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de |
-| 20 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 5 | Swift | 2026-08-29 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
+| 1 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 5 | Swift | 2026-08-29 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
+| 2 | [gptme/gptme](https://github.com/gptme/gptme) | 4403 | Python | 2026-08-29 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
+| 3 | [Ilyat9/Agentalyze](https://github.com/Ilyat9/Agentalyze) | 1 | Python | 2026-08-29 | Evaluation harness for LLM browser agents — real Chromium tasks, DOM-based verifiers, step-level tracing, multi-provider |
+| 4 | [Cyrax321/CONTINUUM](https://github.com/Cyrax321/CONTINUUM) | 27 | Python | 2026-08-29 | CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id |
+| 5 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-29 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 6 | [BlockRunAI/Franklin](https://github.com/BlockRunAI/Franklin) | 552 | TypeScript | 2026-08-29 | The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript. |
+| 7 | [kriss-b/llm-iso27001](https://github.com/kriss-b/llm-iso27001) | 35 | — | 2026-08-29 | ISO 27001 (+42001 + NIS2) ISMS framework designed to be instantiated and maintained by LLM Agents |
+| 8 | [kawaiipantsu/boop](https://github.com/kawaiipantsu/boop) | 0 | Go | 2026-08-29 | Local-first AI client and agent runtime. Provider-neutral (Ollama, LM Studio, Lemonade, OpenAI, Anthropic, xAI), sandbox |
+| 9 | [EauDoon/hermes-parallel-followups](https://github.com/EauDoon/hermes-parallel-followups) | 0 | Python | 2026-08-29 | Two MIT patches for Nous Research Hermes: stop busy-queue messages merging into one jumbled turn, and optionally run sel |
+| 10 | [fatihkutuk/neo](https://github.com/fatihkutuk/neo) | 2 | Python | 2026-08-29 | A local-first personal AI agent with a living memory: remembers you, uses your computer, and builds automations you can  |
+| 11 | [C10udsea/kb-agent](https://github.com/C10udsea/kb-agent) | 2 | Python | 2026-08-29 | Knowledge-base agent demonstrating local embeddings, retrieval, tool use, and OpenAI-compatible loops. |
+| 12 | [C10udsea/evolvebank](https://github.com/C10udsea/evolvebank) | 1 | Python | 2026-08-29 | Self-evolving agent memory that distills, retrieves, and evaluates reusable reasoning strategies. |
+| 13 | [rohithkandula19/Ronin](https://github.com/rohithkandula19/Ronin) | 1 | Python | 2026-08-29 | Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq |
+| 14 | [Lyle-0015/photo-guided-field-dispatch-agent](https://github.com/Lyle-0015/photo-guided-field-dispatch-agent) | 0 | Python | 2026-08-29 | A typed Python tool-calling service that turns work-order photos into dispatch and follow-up decisions. |
+| 15 | [uukuguy/grid-static-analysis](https://github.com/uukuguy/grid-static-analysis) | 0 | Python | 2026-08-29 | Capability-first CLI agent for evidence-backed power-system static analysis with pandapower. |
+| 16 | [ljedrz/nachalnik](https://github.com/ljedrz/nachalnik) | 0 | Rust | 2026-08-29 | A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and  |
+| 17 | [markdr-hue/open-fabrica](https://github.com/markdr-hue/open-fabrica) | 1 | Go | 2026-08-29 | A tribute to the best software in the world. |
+| 18 | [Amaan9136/portable-usb-llm-agent](https://github.com/Amaan9136/portable-usb-llm-agent) | 0 | Python | 2026-08-29 | A portable, offline coding agent that runs entirely from a USB drive on Windows. It uses a local LLM through llama.cpp f |
+| 19 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-29 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
+| 20 | [ChanTso/citybuddy](https://github.com/ChanTso/citybuddy) | 0 | Java | 2026-08-29 | Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de |
 | 21 | [Stephenson-Software/create-dev-loop](https://github.com/Stephenson-Software/create-dev-loop) | 1 | Python | 2026-08-29 | Claude Code skill that generates a tailored autonomous dev loop for any git repository |
 | 22 | [merdemkoc/llm-spatial-context](https://github.com/merdemkoc/llm-spatial-context) | 3 | TypeScript | 2026-08-29 | An experiment in giving an LLM grounded spatial context on a tldraw canvas plus an AI companion that observes, reflects, |
 | 23 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 475 | JavaScript | 2026-08-29 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
