@@ -1,5 +1,104 @@
 [
   {
+    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
+    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "language": "Python",
+    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "stars": 3,
+    "updated_at": "2026-08-29T21:43:56Z",
+    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
+  },
+  {
+    "description": "Evaluation harness for LLM browser agents \u2014 real Chromium tasks, DOM-based verifiers, step-level tracing, multi-provider",
+    "id": "Ilyat9/Agentalyze",
+    "language": "Python",
+    "name": "Ilyat9/Agentalyze",
+    "stars": 1,
+    "updated_at": "2026-08-29T21:43:00Z",
+    "url": "https://github.com/Ilyat9/Agentalyze"
+  },
+  {
+    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
+    "id": "mohahasan/ios-agentic-skills",
+    "language": "JavaScript",
+    "name": "mohahasan/ios-agentic-skills",
+    "stars": 4,
+    "updated_at": "2026-08-29T21:40:34Z",
+    "url": "https://github.com/mohahasan/ios-agentic-skills"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-08-29T21:44:54Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
+    "description": "An open-sourced research agent system deeply rooted in your Zotero library.",
+    "id": "yilewang/llm-for-zotero",
+    "language": "TypeScript",
+    "name": "yilewang/llm-for-zotero",
+    "stars": 2792,
+    "updated_at": "2026-08-29T21:38:05Z",
+    "url": "https://github.com/yilewang/llm-for-zotero"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 125,
+    "updated_at": "2026-08-29T21:36:14Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
+    "id": "Danisxxx/comfyUI-LongLook",
+    "language": "Python",
+    "name": "Danisxxx/comfyUI-LongLook",
+    "stars": 2,
+    "updated_at": "2026-08-29T21:35:52Z",
+    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-29T21:35:43Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
+    "id": "axxafo/awesome-agent-benchmarks",
+    "language": "\u2014",
+    "name": "axxafo/awesome-agent-benchmarks",
+    "stars": 3,
+    "updated_at": "2026-08-29T21:35:03Z",
+    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 32,
+    "updated_at": "2026-08-29T21:33:51Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Run Aulthium AI Agent instantly in Termux, Linux, or any terminal with a single command.",
+    "id": "d3stiny-io/aulthium",
+    "language": "Shell",
+    "name": "d3stiny-io/aulthium",
+    "stars": 5,
+    "updated_at": "2026-08-29T21:31:25Z",
+    "url": "https://github.com/d3stiny-io/aulthium"
+  },
+  {
     "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
     "id": "yigido41/agentic-ai",
     "language": "Python",
@@ -16,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-08-29T21:27:57Z",
     "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "Evaluation harness for LLM browser agents \u2014 real Chromium tasks, DOM-based verifiers, step-level tracing, multi-provider",
-    "id": "Ilyat9/Agentalyze",
-    "language": "Python",
-    "name": "Ilyat9/Agentalyze",
-    "stars": 1,
-    "updated_at": "2026-08-29T21:26:52Z",
-    "url": "https://github.com/Ilyat9/Agentalyze"
   },
   {
     "description": "",
@@ -52,15 +142,6 @@
     "stars": 3,
     "updated_at": "2026-08-29T21:20:37Z",
     "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "An open-sourced research agent system deeply rooted in your Zotero library.",
-    "id": "yilewang/llm-for-zotero",
-    "language": "TypeScript",
-    "name": "yilewang/llm-for-zotero",
-    "stars": 2792,
-    "updated_at": "2026-08-29T21:20:15Z",
-    "url": "https://github.com/yilewang/llm-for-zotero"
   },
   {
     "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
@@ -140,7 +221,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-29T20:25:47Z",
+    "updated_at": "2026-08-29T21:36:55Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -257,7 +338,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 16,
-    "updated_at": "2026-08-29T20:52:49Z",
+    "updated_at": "2026-08-29T21:39:20Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -304,24 +385,6 @@
     "stars": 5,
     "updated_at": "2026-08-29T18:27:28Z",
     "url": "https://github.com/honestDS/MonoLight"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 125,
-    "updated_at": "2026-08-29T18:16:54Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-29T18:16:06Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "The LLM Anti-Framework",
@@ -385,68 +448,5 @@
     "stars": 259,
     "updated_at": "2026-08-29T17:20:57Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 27,
-    "updated_at": "2026-08-29T17:13:08Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "Assistente Virtual Localhosted",
-    "id": "HercoZauZau/Baghdad",
-    "language": "Python",
-    "name": "HercoZauZau/Baghdad",
-    "stars": 1,
-    "updated_at": "2026-08-29T16:55:42Z",
-    "url": "https://github.com/HercoZauZau/Baghdad"
-  },
-  {
-    "description": "Knowledge-base agent demonstrating local embeddings, retrieval, tool use, and OpenAI-compatible loops.",
-    "id": "C10udsea/kb-agent",
-    "language": "Python",
-    "name": "C10udsea/kb-agent",
-    "stars": 2,
-    "updated_at": "2026-08-29T16:52:07Z",
-    "url": "https://github.com/C10udsea/kb-agent"
-  },
-  {
-    "description": "Self-evolving agent memory that distills, retrieves, and evaluates reusable reasoning strategies.",
-    "id": "C10udsea/evolvebank",
-    "language": "Python",
-    "name": "C10udsea/evolvebank",
-    "stars": 1,
-    "updated_at": "2026-08-29T16:52:05Z",
-    "url": "https://github.com/C10udsea/evolvebank"
-  },
-  {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-08-29T16:48:29Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
-  },
-  {
-    "description": "A typed Python tool-calling service that turns work-order photos into dispatch and follow-up decisions.",
-    "id": "Lyle-0015/photo-guided-field-dispatch-agent",
-    "language": "Python",
-    "name": "Lyle-0015/photo-guided-field-dispatch-agent",
-    "stars": 0,
-    "updated_at": "2026-08-29T16:45:30Z",
-    "url": "https://github.com/Lyle-0015/photo-guided-field-dispatch-agent"
-  },
-  {
-    "description": "Capability-first CLI agent for evidence-backed power-system static analysis with pandapower.",
-    "id": "uukuguy/grid-static-analysis",
-    "language": "Python",
-    "name": "uukuguy/grid-static-analysis",
-    "stars": 0,
-    "updated_at": "2026-08-29T16:29:03Z",
-    "url": "https://github.com/uukuguy/grid-static-analysis"
   }
 ]
