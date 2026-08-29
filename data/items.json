@@ -1,5 +1,41 @@
 [
   {
+    "description": "A portable, offline coding agent that runs entirely from a USB drive on Windows. It uses a local LLM through llama.cpp f",
+    "id": "Amaan9136/portable-usb-llm-agent",
+    "language": "Python",
+    "name": "Amaan9136/portable-usb-llm-agent",
+    "stars": 0,
+    "updated_at": "2026-08-29T08:39:16Z",
+    "url": "https://github.com/Amaan9136/portable-usb-llm-agent"
+  },
+  {
+    "description": "\u900f\u660e\u53ef\u5ba1\u8ba1\u7684\u672c\u5730\u667a\u80fd\u4f53\u7ec8\u7aef\uff1a\u5bf9\u5f00\u6e90 agent \u6846\u67b6\u505a\u5b89\u5168\u5ba1\u8ba1\u4e0e\u52a0\u56fa\uff08RCE/\u6c99\u76d2\u7ed5\u8fc7/\u6ce8\u5165\uff09\uff0c\u5e76\u4ee5 50 \u6761\u6ce8\u5165\u57fa\u51c6 \u00d7 37 \u6761\u80fd\u529b\u57fa\u51c6\u53cc\u7ef4\u5ea6\u91cf\u5b89\u5168\u8fb9\u754c",
+    "id": "Canyon-Li/AuditronClaw",
+    "language": "Python",
+    "name": "Canyon-Li/AuditronClaw",
+    "stars": 2,
+    "updated_at": "2026-08-29T08:34:27Z",
+    "url": "https://github.com/Canyon-Li/AuditronClaw"
+  },
+  {
+    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
+    "id": "haibingzhao/easyai",
+    "language": "Kotlin",
+    "name": "haibingzhao/easyai",
+    "stars": 1,
+    "updated_at": "2026-08-29T08:32:13Z",
+    "url": "https://github.com/haibingzhao/easyai"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 803,
+    "updated_at": "2026-08-29T08:32:00Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
     "id": "SuperdeMan/cockpit-agent",
     "language": "Python",
@@ -23,7 +59,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-08-29T08:28:36Z",
+    "updated_at": "2026-08-29T08:43:10Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -31,7 +67,7 @@
     "id": "NicoGenti/opencode-orchestrator-kit",
     "language": "TypeScript",
     "name": "NicoGenti/opencode-orchestrator-kit",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-08-29T08:27:56Z",
     "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
   },
@@ -41,7 +77,7 @@
     "language": "Rust",
     "name": "citizenhicks/mobius",
     "stars": 1,
-    "updated_at": "2026-08-29T08:26:07Z",
+    "updated_at": "2026-08-29T08:33:17Z",
     "url": "https://github.com/citizenhicks/mobius"
   },
   {
@@ -59,7 +95,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 27,
-    "updated_at": "2026-08-29T08:24:24Z",
+    "updated_at": "2026-08-29T08:38:19Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -79,15 +115,6 @@
     "stars": 1645,
     "updated_at": "2026-08-29T08:19:20Z",
     "url": "https://github.com/AgentEra/Agently"
-  },
-  {
-    "description": "A portable, offline coding agent that runs entirely from a USB drive on Windows. It uses a local LLM through llama.cpp f",
-    "id": "Amaan9136/portable-usb-llm-agent",
-    "language": "Python",
-    "name": "Amaan9136/portable-usb-llm-agent",
-    "stars": 0,
-    "updated_at": "2026-08-29T08:16:59Z",
-    "url": "https://github.com/Amaan9136/portable-usb-llm-agent"
   },
   {
     "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
@@ -122,7 +149,7 @@
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
     "stars": 205,
-    "updated_at": "2026-08-29T08:05:34Z",
+    "updated_at": "2026-08-29T08:39:56Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-29T07:01:00Z",
     "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
-    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "language": "HTML",
-    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "stars": 0,
-    "updated_at": "2026-08-29T06:57:06Z",
-    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
-  },
-  {
-    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
-    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "language": "JavaScript",
-    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "stars": 0,
-    "updated_at": "2026-08-29T06:55:42Z",
-    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-29T06:55:23Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   }
 ]
