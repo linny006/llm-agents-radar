@@ -1,5 +1,167 @@
 [
   {
+    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 27,
+    "updated_at": "2026-08-29T07:28:52Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-29T07:27:32Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "AI SKILL.md files",
+    "id": "fernandotellado/ai-skills",
+    "language": "\u2014",
+    "name": "fernandotellado/ai-skills",
+    "stars": 37,
+    "updated_at": "2026-08-29T07:25:01Z",
+    "url": "https://github.com/fernandotellado/ai-skills"
+  },
+  {
+    "description": "Incubating a governed, evidence-driven AIOps control plane for ClickHouse and Apache Doris.",
+    "id": "jiangxt2/Yamazaki-incubator",
+    "language": "Shell",
+    "name": "jiangxt2/Yamazaki-incubator",
+    "stars": 0,
+    "updated_at": "2026-08-29T07:24:48Z",
+    "url": "https://github.com/jiangxt2/Yamazaki-incubator"
+  },
+  {
+    "description": "A self-sustaining AI companion core \u2014 continuous stream of consciousness, autonomous agent, layered memory.",
+    "id": "T-80BVVD/kiri",
+    "language": "Python",
+    "name": "T-80BVVD/kiri",
+    "stars": 1,
+    "updated_at": "2026-08-29T07:24:45Z",
+    "url": "https://github.com/T-80BVVD/kiri"
+  },
+  {
+    "description": "Autonomous Kubernetes incident triage agent built on TrueForge \u2014 real MCP tools, sandboxed analysis, subagent parallel d",
+    "id": "gitanshulbisht/k8s-sentinel",
+    "language": "Python",
+    "name": "gitanshulbisht/k8s-sentinel",
+    "stars": 0,
+    "updated_at": "2026-08-29T07:27:36Z",
+    "url": "https://github.com/gitanshulbisht/k8s-sentinel"
+  },
+  {
+    "description": "Sort your Downloads by project, not file type \u2014 with one-command undo. No delete, ever.",
+    "id": "verniceunleaded6135/tidy-undo",
+    "language": "Python",
+    "name": "verniceunleaded6135/tidy-undo",
+    "stars": 0,
+    "updated_at": "2026-08-29T07:23:59Z",
+    "url": "https://github.com/verniceunleaded6135/tidy-undo"
+  },
+  {
+    "description": "Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node\u2014no complex workflows needed.",
+    "id": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
+    "language": "JavaScript",
+    "name": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
+    "stars": 2,
+    "updated_at": "2026-08-29T07:23:14Z",
+    "url": "https://github.com/Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-08-29T07:23:06Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Control your Windows laptop remotely via Discord with AI-powered voice and text commands in English or Urdu.",
+    "id": "Ottoman-reticule726/zara-ai-laptop-agent",
+    "language": "Python",
+    "name": "Ottoman-reticule726/zara-ai-laptop-agent",
+    "stars": 0,
+    "updated_at": "2026-08-29T07:22:24Z",
+    "url": "https://github.com/Ottoman-reticule726/zara-ai-laptop-agent"
+  },
+  {
+    "description": "Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons.",
+    "id": "alejandrogg15/Minimax-H3-Turbo",
+    "language": "Python",
+    "name": "alejandrogg15/Minimax-H3-Turbo",
+    "stars": 0,
+    "updated_at": "2026-08-29T07:22:20Z",
+    "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
+  },
+  {
+    "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
+    "id": "Aureliedumbfounding630/agent-governance-toolkit",
+    "language": "\u2014",
+    "name": "Aureliedumbfounding630/agent-governance-toolkit",
+    "stars": 0,
+    "updated_at": "2026-08-29T07:21:07Z",
+    "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
+  },
+  {
+    "description": "Automate Elytra flight, navigation, and landing for Meteor Client with intelligent pathfinding and rocket management.",
+    "id": "222394/SkyPilot",
+    "language": "Java",
+    "name": "222394/SkyPilot",
+    "stars": 0,
+    "updated_at": "2026-08-29T07:20:58Z",
+    "url": "https://github.com/222394/SkyPilot"
+  },
+  {
+    "description": "Build open source deep research agents using multiple models, search tools, and MCP servers.",
+    "id": "randomvariablewhitepelican129/open_deep_research",
+    "language": "Python",
+    "name": "randomvariablewhitepelican129/open_deep_research",
+    "stars": 0,
+    "updated_at": "2026-08-29T07:20:18Z",
+    "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
+  },
+  {
+    "description": "Self-hosted AI agent living inside Zalo (personal account). Multi-account, 15 tools + external MCP servers, web dashboar",
+    "id": "vuhai2002/zalo-agent",
+    "language": "TypeScript",
+    "name": "vuhai2002/zalo-agent",
+    "stars": 0,
+    "updated_at": "2026-08-29T07:19:24Z",
+    "url": "https://github.com/vuhai2002/zalo-agent"
+  },
+  {
+    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 209,
+    "updated_at": "2026-08-29T07:19:07Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "Automate file management and coding tasks in your local directory using small language models.",
+    "id": "pruthviraj00007/VibeHarness",
+    "language": "Python",
+    "name": "pruthviraj00007/VibeHarness",
+    "stars": 0,
+    "updated_at": "2026-08-29T07:17:39Z",
+    "url": "https://github.com/pruthviraj00007/VibeHarness"
+  },
+  {
+    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
+    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "language": "Go",
+    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "stars": 0,
+    "updated_at": "2026-08-29T07:15:59Z",
+    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
+  },
+  {
     "description": "A local-first personal AI agent with a living memory: remembers you, uses your computer, and builds automations you can ",
     "id": "fatihkutuk/neo",
     "language": "Python",
@@ -34,15 +196,6 @@
     "stars": 3,
     "updated_at": "2026-08-29T07:11:56Z",
     "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "Autonomous Kubernetes incident triage agent built on TrueForge \u2014 real MCP tools, sandboxed analysis, subagent parallel d",
-    "id": "gitanshulbisht/k8s-sentinel",
-    "language": "Python",
-    "name": "gitanshulbisht/k8s-sentinel",
-    "stars": 0,
-    "updated_at": "2026-08-29T07:11:02Z",
-    "url": "https://github.com/gitanshulbisht/k8s-sentinel"
   },
   {
     "description": "AI-powered image generation and chat studio",
@@ -108,15 +261,6 @@
     "url": "https://github.com/Tonyx79/clov-ai"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-08-29T07:08:59Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
     "id": "SuperdeMan/cockpit-agent",
     "language": "Python",
@@ -151,15 +295,6 @@
     "stars": 2,
     "updated_at": "2026-08-29T07:01:00Z",
     "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "Self-hosted AI agent living inside Zalo (personal account). Multi-account, 15 tools + external MCP servers, web dashboar",
-    "id": "vuhai2002/zalo-agent",
-    "language": "TypeScript",
-    "name": "vuhai2002/zalo-agent",
-    "stars": 0,
-    "updated_at": "2026-08-29T06:58:25Z",
-    "url": "https://github.com/vuhai2002/zalo-agent"
   },
   {
     "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
@@ -270,15 +405,6 @@
     "url": "https://github.com/Om-Khode/TENKA"
   },
   {
-    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 209,
-    "updated_at": "2026-08-29T07:14:47Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
     "description": "\u94c1\u9508\u6218\u4e89\u5355\u673a LLM \u6307\u6325\u94fe\uff1ajavaagent \u5b9e\u65f6\u53d6\u6570 + Python \u5206\u5c42\u591a agent \u51b3\u7b56\uff08\u7eaf\u5355\u673a\u7814\u7a76\u9879\u76ee\uff0c\u4e25\u7981\u7528\u4e8e\u591a\u4eba\u5bf9\u6218\uff09",
     "id": "Crystalhihihi/rusted-warfare-llm-pilot",
     "language": "Python",
@@ -288,15 +414,6 @@
     "url": "https://github.com/Crystalhihihi/rusted-warfare-llm-pilot"
   },
   {
-    "description": "A self-sustaining AI companion core \u2014 continuous stream of consciousness, autonomous agent, layered memory.",
-    "id": "T-80BVVD/kiri",
-    "language": "Python",
-    "name": "T-80BVVD/kiri",
-    "stars": 1,
-    "updated_at": "2026-08-29T06:21:21Z",
-    "url": "https://github.com/T-80BVVD/kiri"
-  },
-  {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
@@ -304,15 +421,6 @@
     "stars": 5841,
     "updated_at": "2026-08-29T06:11:07Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 27,
-    "updated_at": "2026-08-29T06:07:40Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -340,113 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-29T05:46:48Z",
     "url": "https://github.com/sydches/yuj"
-  },
-  {
-    "description": "Unified LLM Platform that allows you to host your own models locally and access them from across the world",
-    "id": "noahhps/Courier",
-    "language": "CSS",
-    "name": "noahhps/Courier",
-    "stars": 0,
-    "updated_at": "2026-08-29T05:39:35Z",
-    "url": "https://github.com/noahhps/Courier"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-08-29T05:39:17Z",
-    "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-08-29T05:22:29Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
-  },
-  {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 5,
-    "updated_at": "2026-08-29T05:14:14Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 16,
-    "updated_at": "2026-08-29T05:48:10Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
-    "id": "wq19901103wq/wechat-mac-rpa",
-    "language": "Python",
-    "name": "wq19901103wq/wechat-mac-rpa",
-    "stars": 88,
-    "updated_at": "2026-08-29T05:00:59Z",
-    "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 6,
-    "updated_at": "2026-08-29T04:58:35Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "\u4e13\u5229\u4fb5\u6743\u5206\u6790\u7cfb\u7edf \u2014\u2014 \u8f93\u5165\u4e13\u5229\u516c\u5f00\u53f7\uff0c\u4ea7\u51fa\u7ade\u54c1\u4fb5\u6743\u5206\u6790\u62a5\u544a\uff1b\u540c\u65f6\u6253\u5305\u6210 skill\uff0c\u53ef\u88ab\u4efb\u610f agent\uff08dsh, codex, claudecode \u7b49\uff09 \u8c03\u7528\u3002",
-    "id": "yuc16/PatentRadar",
-    "language": "Python",
-    "name": "yuc16/PatentRadar",
-    "stars": 57,
-    "updated_at": "2026-08-29T04:42:45Z",
-    "url": "https://github.com/yuc16/PatentRadar"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 32,
-    "updated_at": "2026-08-29T04:36:29Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Run Aulthium AI Agent instantly in Termux, Linux, or any terminal with a single command.",
-    "id": "d3stiny-io/aulthium",
-    "language": "Shell",
-    "name": "d3stiny-io/aulthium",
-    "stars": 5,
-    "updated_at": "2026-08-29T04:09:31Z",
-    "url": "https://github.com/d3stiny-io/aulthium"
-  },
-  {
-    "description": "Scrapling \u98ce\u683c\u9690\u8eab\u722c\u866b\u5e93\uff1a\u81ea\u9002\u5e94\u9009\u62e9\u5668 \u00b7 TLS \u6307\u7eb9 HTTP \u00b7 JS \u6e32\u67d3 \u00b7 \u56de\u8c03\u5f0f Spider \u6846\u67b6\uff08\u91cd\u8bd5/robots/\u53bb\u91cd/\u4e2d\u95f4\u4ef6\u7ba1\u9053\uff09\u00b7 JS \u9006\u5411 Agent \u00b7 \u9a8c\u8bc1\u7801\u8bc6\u522b \u00b7 MCP \u670d\u52a1 \u00b7 \u672c\u5730 We",
-    "id": "xiaomaozjj666/web-crawler",
-    "language": "Python",
-    "name": "xiaomaozjj666/web-crawler",
-    "stars": 1,
-    "updated_at": "2026-08-29T04:02:14Z",
-    "url": "https://github.com/xiaomaozjj666/web-crawler"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-29T03:44:39Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   }
 ]
