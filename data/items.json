@@ -1,12 +1,48 @@
 [
   {
+    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
+    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "language": "Python",
+    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "stars": 1,
+    "updated_at": "2026-08-29T05:41:30Z",
+    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 27,
+    "updated_at": "2026-08-29T05:39:46Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
     "description": "Unified LLM Platform that allows you to host your own models locally and access them from across the world",
     "id": "noahhps/Courier",
     "language": "CSS",
     "name": "noahhps/Courier",
     "stars": 0,
-    "updated_at": "2026-08-29T05:28:43Z",
+    "updated_at": "2026-08-29T05:39:35Z",
     "url": "https://github.com/noahhps/Courier"
+  },
+  {
+    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 27,
+    "updated_at": "2026-08-29T05:35:50Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
+    "description": "A local-first personal AI agent with a living memory: remembers you, uses your computer, and builds automations you can ",
+    "id": "fatihkutuk/neo",
+    "language": "Python",
+    "name": "fatihkutuk/neo",
+    "stars": 2,
+    "updated_at": "2026-08-29T05:35:37Z",
+    "url": "https://github.com/fatihkutuk/neo"
   },
   {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
@@ -14,7 +50,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-08-29T05:29:33Z",
+    "updated_at": "2026-08-29T05:39:17Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -34,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T05:22:29Z",
     "url": "https://github.com/rohithkandula19/Ronin"
-  },
-  {
-    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
-    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "language": "Python",
-    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "stars": 1,
-    "updated_at": "2026-08-29T05:22:03Z",
-    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
   },
   {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
@@ -81,15 +108,6 @@
     "url": "https://github.com/ljchang/mecha"
   },
   {
-    "description": "A local-first personal AI agent with a living memory: remembers you, uses your computer, and builds automations you can ",
-    "id": "fatihkutuk/neo",
-    "language": "Python",
-    "name": "fatihkutuk/neo",
-    "stars": 2,
-    "updated_at": "2026-08-29T04:47:20Z",
-    "url": "https://github.com/fatihkutuk/neo"
-  },
-  {
     "description": "\u4e13\u5229\u4fb5\u6743\u5206\u6790\u7cfb\u7edf \u2014\u2014 \u8f93\u5165\u4e13\u5229\u516c\u5f00\u53f7\uff0c\u4ea7\u51fa\u7ade\u54c1\u4fb5\u6743\u5206\u6790\u62a5\u544a\uff1b\u540c\u65f6\u6253\u5305\u6210 skill\uff0c\u53ef\u88ab\u4efb\u610f agent\uff08dsh, codex, claudecode \u7b49\uff09 \u8c03\u7528\u3002",
     "id": "yuc16/PatentRadar",
     "language": "Python",
@@ -115,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T04:54:20Z",
     "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
-    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 27,
-    "updated_at": "2026-08-29T04:21:29Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
     "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-29T00:20:47Z",
     "url": "https://github.com/Samuelcluttered613/paper2code"
-  },
-  {
-    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
-    "id": "Bastioned-successor320/learn-nanobot",
-    "language": "Python",
-    "name": "Bastioned-successor320/learn-nanobot",
-    "stars": 9,
-    "updated_at": "2026-08-29T00:20:34Z",
-    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
   }
 ]
