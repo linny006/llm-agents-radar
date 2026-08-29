@@ -1,5 +1,32 @@
 [
   {
+    "description": "Local-first AI client and agent runtime. Provider-neutral (Ollama, LM Studio, Lemonade, OpenAI, Anthropic, xAI), sandbox",
+    "id": "kawaiipantsu/boop",
+    "language": "Go",
+    "name": "kawaiipantsu/boop",
+    "stars": 0,
+    "updated_at": "2026-08-29T17:39:04Z",
+    "url": "https://github.com/kawaiipantsu/boop"
+  },
+  {
+    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
+    "id": "Om-Khode/TENKA",
+    "language": "Python",
+    "name": "Om-Khode/TENKA",
+    "stars": 7,
+    "updated_at": "2026-08-29T17:31:56Z",
+    "url": "https://github.com/Om-Khode/TENKA"
+  },
+  {
+    "description": "ISO 27001 (+42001 + NIS2) ISMS framework designed to be instantiated and maintained by LLM Agents",
+    "id": "kriss-b/llm-iso27001",
+    "language": "\u2014",
+    "name": "kriss-b/llm-iso27001",
+    "stars": 35,
+    "updated_at": "2026-08-29T17:29:25Z",
+    "url": "https://github.com/kriss-b/llm-iso27001"
+  },
+  {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
     "id": "gerardogrisolini/ZenCODE",
     "language": "Swift",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4403,
-    "updated_at": "2026-08-29T17:29:56Z",
+    "updated_at": "2026-08-29T17:43:48Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -52,24 +79,6 @@
     "stars": 552,
     "updated_at": "2026-08-29T17:09:37Z",
     "url": "https://github.com/BlockRunAI/Franklin"
-  },
-  {
-    "description": "ISO 27001 (+42001 + NIS2) ISMS framework designed to be instantiated and maintained by LLM Agents",
-    "id": "kriss-b/llm-iso27001",
-    "language": "\u2014",
-    "name": "kriss-b/llm-iso27001",
-    "stars": 35,
-    "updated_at": "2026-08-29T17:29:25Z",
-    "url": "https://github.com/kriss-b/llm-iso27001"
-  },
-  {
-    "description": "Local-first AI client and agent runtime. Provider-neutral (Ollama, LM Studio, Lemonade, OpenAI, Anthropic, xAI), sandbox",
-    "id": "kawaiipantsu/boop",
-    "language": "Go",
-    "name": "kawaiipantsu/boop",
-    "stars": 0,
-    "updated_at": "2026-08-29T17:22:04Z",
-    "url": "https://github.com/kawaiipantsu/boop"
   },
   {
     "description": "Two MIT patches for Nous Research Hermes: stop busy-queue messages merging into one jumbled turn, and optionally run sel",
@@ -275,7 +284,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-08-29T17:14:16Z",
+    "updated_at": "2026-08-29T17:31:23Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-29T14:15:15Z",
     "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
-  },
-  {
-    "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
-    "id": "EpsteinF1les/tts",
-    "language": "\u2014",
-    "name": "EpsteinF1les/tts",
-    "stars": 0,
-    "updated_at": "2026-08-29T14:14:33Z",
-    "url": "https://github.com/EpsteinF1les/tts"
   }
 ]
