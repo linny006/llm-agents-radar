@@ -1,5 +1,68 @@
 [
   {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-08-29T21:24:51Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 209,
+    "updated_at": "2026-08-29T21:22:00Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-08-29T21:20:37Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "An open-sourced research agent system deeply rooted in your Zotero library.",
+    "id": "yilewang/llm-for-zotero",
+    "language": "TypeScript",
+    "name": "yilewang/llm-for-zotero",
+    "stars": 2792,
+    "updated_at": "2026-08-29T21:20:15Z",
+    "url": "https://github.com/yilewang/llm-for-zotero"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-08-29T21:20:03Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 1,
+    "updated_at": "2026-08-29T21:19:26Z",
+    "url": "https://github.com/sydches/yuj"
+  },
+  {
+    "description": "Evaluation harness for LLM browser agents \u2014 real Chromium tasks, DOM-based verifiers, step-level tracing, multi-provider",
+    "id": "Ilyat9/Agentalyze",
+    "language": "Python",
+    "name": "Ilyat9/Agentalyze",
+    "stars": 1,
+    "updated_at": "2026-08-29T21:17:06Z",
+    "url": "https://github.com/Ilyat9/Agentalyze"
+  },
+  {
     "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
     "id": "mark-weeks/hello-nested-worlds-adventure",
     "language": "Python",
@@ -36,15 +99,6 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "Evaluation harness for LLM browser agents \u2014 real Chromium tasks, DOM-based verifiers, step-level tracing, multi-provider",
-    "id": "Ilyat9/Agentalyze",
-    "language": "Python",
-    "name": "Ilyat9/Agentalyze",
-    "stars": 1,
-    "updated_at": "2026-08-29T20:56:03Z",
-    "url": "https://github.com/Ilyat9/Agentalyze"
-  },
-  {
     "description": "Self-hosted multi-tenant agent platform for teams: skills, knowledge, API contracts and MCP servers live in the database",
     "id": "dmirain/OctoForge",
     "language": "Python",
@@ -52,15 +106,6 @@
     "stars": 22,
     "updated_at": "2026-08-29T20:50:25Z",
     "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 1,
-    "updated_at": "2026-08-29T20:41:33Z",
-    "url": "https://github.com/sydches/yuj"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-29T16:19:46Z",
     "url": "https://github.com/markdr-hue/open-fabrica"
-  },
-  {
-    "description": "A portable, offline coding agent that runs entirely from a USB drive on Windows. It uses a local LLM through llama.cpp f",
-    "id": "Amaan9136/portable-usb-llm-agent",
-    "language": "Python",
-    "name": "Amaan9136/portable-usb-llm-agent",
-    "stars": 0,
-    "updated_at": "2026-08-29T16:12:43Z",
-    "url": "https://github.com/Amaan9136/portable-usb-llm-agent"
-  },
-  {
-    "description": "Claude Code skill that generates a tailored autonomous dev loop for any git repository",
-    "id": "Stephenson-Software/create-dev-loop",
-    "language": "Python",
-    "name": "Stephenson-Software/create-dev-loop",
-    "stars": 1,
-    "updated_at": "2026-08-29T15:46:54Z",
-    "url": "https://github.com/Stephenson-Software/create-dev-loop"
-  },
-  {
-    "description": "An experiment in giving an LLM grounded spatial context on a tldraw canvas plus an AI companion that observes, reflects,",
-    "id": "merdemkoc/llm-spatial-context",
-    "language": "TypeScript",
-    "name": "merdemkoc/llm-spatial-context",
-    "stars": 4,
-    "updated_at": "2026-08-29T15:46:41Z",
-    "url": "https://github.com/merdemkoc/llm-spatial-context"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 475,
-    "updated_at": "2026-08-29T17:01:10Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
-    "id": "Sigmanih/SigmaStudio",
-    "language": "Python",
-    "name": "Sigmanih/SigmaStudio",
-    "stars": 7,
-    "updated_at": "2026-08-29T15:40:38Z",
-    "url": "https://github.com/Sigmanih/SigmaStudio"
   }
 ]
