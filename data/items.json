@@ -1,5 +1,14 @@
 [
   {
+    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+    "id": "BlockRunAI/Franklin",
+    "language": "TypeScript",
+    "name": "BlockRunAI/Franklin",
+    "stars": 552,
+    "updated_at": "2026-08-29T18:48:31Z",
+    "url": "https://github.com/BlockRunAI/Franklin"
+  },
+  {
     "description": "Local-first AI client and agent runtime. Provider-neutral (Ollama, LM Studio, Lemonade, OpenAI, Anthropic, xAI), sandbox",
     "id": "kawaiipantsu/boop",
     "language": "Go",
@@ -7,15 +16,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T18:40:55Z",
     "url": "https://github.com/kawaiipantsu/boop"
-  },
-  {
-    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-    "id": "BlockRunAI/Franklin",
-    "language": "TypeScript",
-    "name": "BlockRunAI/Franklin",
-    "stars": 552,
-    "updated_at": "2026-08-29T18:42:13Z",
-    "url": "https://github.com/BlockRunAI/Franklin"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -131,7 +131,7 @@
     "language": "Python",
     "name": "EauDoon/hermes-parallel-followups",
     "stars": 0,
-    "updated_at": "2026-08-29T17:51:40Z",
+    "updated_at": "2026-08-29T18:48:56Z",
     "url": "https://github.com/EauDoon/hermes-parallel-followups"
   },
   {
