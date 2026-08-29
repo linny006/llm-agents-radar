@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 27,
-    "updated_at": "2026-08-29T12:58:55Z",
+    "updated_at": "2026-08-29T13:12:39Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
+    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "language": "Python",
+    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "stars": 1,
+    "updated_at": "2026-08-29T13:11:20Z",
+    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
+  },
+  {
+    "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
+    "id": "ChanTso/citybuddy",
+    "language": "Java",
+    "name": "ChanTso/citybuddy",
+    "stars": 0,
+    "updated_at": "2026-08-29T13:11:01Z",
+    "url": "https://github.com/ChanTso/citybuddy"
   },
   {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
@@ -14,8 +32,44 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 472,
-    "updated_at": "2026-08-29T12:58:51Z",
+    "updated_at": "2026-08-29T13:07:44Z",
     "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "Automated Cyber Reasoning & Remediation System (ACRRS): an autonomous loop that finds a vulnerability, patches it, and p",
+    "id": "Sohammshheth27/Chakravyuh-ACRRS",
+    "language": "Python",
+    "name": "Sohammshheth27/Chakravyuh-ACRRS",
+    "stars": 0,
+    "updated_at": "2026-08-29T13:07:24Z",
+    "url": "https://github.com/Sohammshheth27/Chakravyuh-ACRRS"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 5,
+    "updated_at": "2026-08-29T13:06:05Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 4,
+    "updated_at": "2026-08-29T13:03:25Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "Lightweight Swift terminal UI library for streaming AI transcripts with in-place updates and tool placeholders.",
+    "id": "BiBoyang/ForgeLoopTUI",
+    "language": "Swift",
+    "name": "BiBoyang/ForgeLoopTUI",
+    "stars": 1,
+    "updated_at": "2026-08-29T13:00:51Z",
+    "url": "https://github.com/BiBoyang/ForgeLoopTUI"
   },
   {
     "description": "GPT autonomous research and investigation using starintel",
@@ -23,7 +77,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-29T12:58:49Z",
+    "updated_at": "2026-08-29T13:05:51Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -34,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T12:57:27Z",
     "url": "https://github.com/Furox-Art/axiomize"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 4,
-    "updated_at": "2026-08-29T12:51:38Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
@@ -162,15 +207,6 @@
     "url": "https://github.com/langroid/langroid"
   },
   {
-    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
-    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "language": "Python",
-    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "stars": 1,
-    "updated_at": "2026-08-29T12:01:14Z",
-    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
-  },
-  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -196,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T11:34:52Z",
     "url": "https://github.com/Avien/users-portal"
-  },
-  {
-    "description": "Lightweight Swift terminal UI library for streaming AI transcripts with in-place updates and tool placeholders.",
-    "id": "BiBoyang/ForgeLoopTUI",
-    "language": "Swift",
-    "name": "BiBoyang/ForgeLoopTUI",
-    "stars": 1,
-    "updated_at": "2026-08-29T11:28:22Z",
-    "url": "https://github.com/BiBoyang/ForgeLoopTUI"
   },
   {
     "description": "Multi-agent job discovery, independent LLM judging, read-only application-form drafting, and local Excel tracking for Co",
@@ -257,7 +284,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-29T12:55:07Z",
+    "updated_at": "2026-08-29T13:07:25Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -286,24 +313,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T10:37:44Z",
     "url": "https://github.com/langyuxin616/ai-pentest-agent"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 5,
-    "updated_at": "2026-08-29T10:37:20Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
-    "id": "ChanTso/citybuddy",
-    "language": "Java",
-    "name": "ChanTso/citybuddy",
-    "stars": 0,
-    "updated_at": "2026-08-29T12:57:40Z",
-    "url": "https://github.com/ChanTso/citybuddy"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -383,7 +392,7 @@
     "language": "Python",
     "name": "Om-Khode/TENKA",
     "stars": 7,
-    "updated_at": "2026-08-29T12:27:00Z",
+    "updated_at": "2026-08-29T13:01:14Z",
     "url": "https://github.com/Om-Khode/TENKA"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-29T08:32:13Z",
     "url": "https://github.com/haibingzhao/easyai"
-  },
-  {
-    "description": "MikroTik Harness - AI Agents A tool designed to configure MikroTik hardware using the LLM Agent, add your OpenAI compati",
-    "id": "vesslina/mikrotik-harness",
-    "language": "Python",
-    "name": "vesslina/mikrotik-harness",
-    "stars": 1,
-    "updated_at": "2026-08-29T08:22:52Z",
-    "url": "https://github.com/vesslina/mikrotik-harness"
   }
 ]
