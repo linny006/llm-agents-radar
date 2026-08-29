@@ -1,12 +1,57 @@
 [
   {
+    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
+    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "language": "Python",
+    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "stars": 1,
+    "updated_at": "2026-08-29T11:29:19Z",
+    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
+  },
+  {
     "description": "Lightweight Swift terminal UI library for streaming AI transcripts with in-place updates and tool placeholders.",
     "id": "BiBoyang/ForgeLoopTUI",
     "language": "Swift",
     "name": "BiBoyang/ForgeLoopTUI",
     "stars": 1,
-    "updated_at": "2026-08-29T11:11:03Z",
+    "updated_at": "2026-08-29T11:28:22Z",
     "url": "https://github.com/BiBoyang/ForgeLoopTUI"
+  },
+  {
+    "description": "Multi-agent job discovery, independent LLM judging, read-only application-form drafting, and local Excel tracking for Co",
+    "id": "mehboobali98/job-search-agent",
+    "language": "JavaScript",
+    "name": "mehboobali98/job-search-agent",
+    "stars": 0,
+    "updated_at": "2026-08-29T11:24:44Z",
+    "url": "https://github.com/mehboobali98/job-search-agent"
+  },
+  {
+    "description": "Harness LLMs with Multi-Agent Programming",
+    "id": "langroid/langroid",
+    "language": "Python",
+    "name": "langroid/langroid",
+    "stars": 4101,
+    "updated_at": "2026-08-29T11:23:47Z",
+    "url": "https://github.com/langroid/langroid"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-08-29T11:20:47Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
+    "description": "Source-grounded deep research, writing, and learning plugin for DeepSeek Harness (dsh): steerable checkpoints, mid-run s",
+    "id": "wxxb789/dsh-raven-research",
+    "language": "TypeScript",
+    "name": "wxxb789/dsh-raven-research",
+    "stars": 2,
+    "updated_at": "2026-08-29T11:19:12Z",
+    "url": "https://github.com/wxxb789/dsh-raven-research"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -14,7 +59,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-08-29T11:13:34Z",
+    "updated_at": "2026-08-29T11:28:12Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -45,15 +90,6 @@
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
-    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
-    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "language": "Python",
-    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "stars": 1,
-    "updated_at": "2026-08-29T10:59:01Z",
-    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
-  },
-  {
     "description": "\ub193\uce58\uba74 \uc548 \ub418\ub294 \uac83\uc744 \ub300\uc2e0 \uc9c0\ucf1c\ubcf4\ub2e4\uac00 \uc870\uac74\uc774 \ub9de\uc73c\uba74 \ud3f0\uc73c\ub85c \ucc14\ub7ec\uc8fc\ub294 \uac1c\uc778 \uc54c\ub9bc \ud5c8\ube0c \u2014 changedetection.io + MCP \uc11c\ubc84 + ntfy (\uad6c MyPlayScheduler)",
     "id": "silver-ring-data/watchog",
     "language": "Python",
@@ -63,21 +99,12 @@
     "url": "https://github.com/silver-ring-data/watchog"
   },
   {
-    "description": "Multi-agent job discovery, independent LLM judging, read-only application-form drafting, and local Excel tracking for Co",
-    "id": "mehboobali98/job-search-agent",
-    "language": "JavaScript",
-    "name": "mehboobali98/job-search-agent",
-    "stars": 0,
-    "updated_at": "2026-08-29T10:52:28Z",
-    "url": "https://github.com/mehboobali98/job-search-agent"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-29T11:11:27Z",
+    "updated_at": "2026-08-29T11:22:25Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -315,15 +342,6 @@
     "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
   },
   {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-08-29T08:33:17Z",
-    "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
     "description": "Autonomous Kubernetes incident triage agent built on TrueForge \u2014 real MCP tools, sandboxed analysis, subagent parallel d",
     "id": "gitanshulbisht/k8s-sentinel",
     "language": "Python",
@@ -367,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T08:14:30Z",
     "url": "https://github.com/xbsheng/ai-from-scratch"
-  },
-  {
-    "description": "Source-grounded deep research, writing, and learning plugin for DeepSeek Harness (dsh): steerable checkpoints, mid-run s",
-    "id": "wxxb789/dsh-raven-research",
-    "language": "TypeScript",
-    "name": "wxxb789/dsh-raven-research",
-    "stars": 2,
-    "updated_at": "2026-08-29T11:07:09Z",
-    "url": "https://github.com/wxxb789/dsh-raven-research"
   },
   {
     "description": "Zero-dependency LLM agent runtime \u2014 tool use, MCP, sandboxed self-written tools, checkpoint/resume, approval gates, bi-t",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-29T07:23:59Z",
     "url": "https://github.com/verniceunleaded6135/tidy-undo"
-  },
-  {
-    "description": "Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node\u2014no complex workflows needed.",
-    "id": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
-    "language": "JavaScript",
-    "name": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
-    "stars": 2,
-    "updated_at": "2026-08-29T07:23:14Z",
-    "url": "https://github.com/Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3"
   }
 ]
