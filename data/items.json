@@ -1,11 +1,29 @@
 [
   {
+    "description": "Cost-aware multi-agent orchestrator kit for OpenCode CLI \u2014 one routing agent, 14 specialized subagents, zero application",
+    "id": "NicoGenti/opencode-orchestrator-kit",
+    "language": "TypeScript",
+    "name": "NicoGenti/opencode-orchestrator-kit",
+    "stars": 4,
+    "updated_at": "2026-08-29T11:54:30Z",
+    "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-08-29T11:46:42Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "",
     "id": "apolmig/fronteraeval",
     "language": "JavaScript",
     "name": "apolmig/fronteraeval",
     "stars": 0,
-    "updated_at": "2026-08-29T11:44:09Z",
+    "updated_at": "2026-08-29T11:45:25Z",
     "url": "https://github.com/apolmig/fronteraeval"
   },
   {
@@ -50,7 +68,7 @@
     "language": "Python",
     "name": "langroid/langroid",
     "stars": 4101,
-    "updated_at": "2026-08-29T11:37:27Z",
+    "updated_at": "2026-08-29T11:51:20Z",
     "url": "https://github.com/langroid/langroid"
   },
   {
@@ -70,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-08-29T11:19:12Z",
     "url": "https://github.com/wxxb789/dsh-raven-research"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-08-29T11:45:04Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
@@ -122,7 +131,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-29T11:38:14Z",
+    "updated_at": "2026-08-29T11:58:28Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -349,15 +358,6 @@
     "stars": 35,
     "updated_at": "2026-08-29T08:28:48Z",
     "url": "https://github.com/kriss-b/llm-iso27001"
-  },
-  {
-    "description": "Cost-aware multi-agent orchestrator kit for OpenCode CLI \u2014 one routing agent, 14 specialized subagents, zero application",
-    "id": "NicoGenti/opencode-orchestrator-kit",
-    "language": "TypeScript",
-    "name": "NicoGenti/opencode-orchestrator-kit",
-    "stars": 4,
-    "updated_at": "2026-08-29T11:43:44Z",
-    "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
   },
   {
     "description": "Autonomous Kubernetes incident triage agent built on TrueForge \u2014 real MCP tools, sandboxed analysis, subagent parallel d",
