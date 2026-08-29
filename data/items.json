@@ -1,21 +1,66 @@
 [
   {
-    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
-    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "language": "Python",
-    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "stars": 1,
-    "updated_at": "2026-08-29T02:44:48Z",
-    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
-  },
-  {
     "description": "",
     "id": "apolmig/fronteraeval",
     "language": "JavaScript",
     "name": "apolmig/fronteraeval",
     "stars": 0,
-    "updated_at": "2026-08-29T02:43:01Z",
+    "updated_at": "2026-08-29T02:59:07Z",
     "url": "https://github.com/apolmig/fronteraeval"
+  },
+  {
+    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
+    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "language": "Python",
+    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "stars": 1,
+    "updated_at": "2026-08-29T02:57:48Z",
+    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-08-29T02:54:57Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
+    "description": "\u57fa\u4e8e LLM Agent + MCP \u7684\u81ea\u52a8\u5316\u5b89\u5168\u4fa6\u5bdf\u6846\u67b6\uff1a\u81ea\u7136\u8bed\u8a00\u9a71\u52a8 nmap / subfinder / httpx\uff0c\u5b8c\u6210\u5b50\u57df\u679a\u4e3e \u2192 Web \u63a2\u6d4b \u2192 \u7aef\u53e3\u626b\u63cf \u2192 \u4e2d\u6587\u62a5\u544a\u95ed\u73af\uff08\u4ec5\u9650\u5df2\u6388\u6743\u573a\u666f\uff0c\u53ea\u505a\u4fa6\u5bdf\u4e0d\u505a\u5229\u7528\uff09",
+    "id": "langyuxin616/ai-pentest-agent",
+    "language": "Python",
+    "name": "langyuxin616/ai-pentest-agent",
+    "stars": 0,
+    "updated_at": "2026-08-29T02:50:55Z",
+    "url": "https://github.com/langyuxin616/ai-pentest-agent"
+  },
+  {
+    "description": "Connect Claude Code, Cursor, and Codex to Workflow (workflow.games): your AI coding agent plans requirements, files bugs",
+    "id": "Go1c/workflow-plugin",
+    "language": "JavaScript",
+    "name": "Go1c/workflow-plugin",
+    "stars": 2,
+    "updated_at": "2026-08-29T02:50:49Z",
+    "url": "https://github.com/Go1c/workflow-plugin"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-08-29T02:59:34Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Run Aulthium AI Agent instantly in Termux, Linux, or any terminal with a single command.",
+    "id": "d3stiny-io/aulthium",
+    "language": "Shell",
+    "name": "d3stiny-io/aulthium",
+    "stars": 5,
+    "updated_at": "2026-08-29T02:47:43Z",
+    "url": "https://github.com/d3stiny-io/aulthium"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -81,15 +126,6 @@
     "url": "https://github.com/Canyon-Li/AuditronClaw"
   },
   {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 6,
-    "updated_at": "2026-08-29T02:28:36Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -106,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-08-29T01:38:16Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Connect Claude Code, Cursor, and Codex to Workflow (workflow.games): your AI coding agent plans requirements, files bugs",
-    "id": "Go1c/workflow-plugin",
-    "language": "JavaScript",
-    "name": "Go1c/workflow-plugin",
-    "stars": 2,
-    "updated_at": "2026-08-29T02:44:35Z",
-    "url": "https://github.com/Go1c/workflow-plugin"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -409,7 +436,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7040,
+    "stars": 7041,
     "updated_at": "2026-08-28T23:11:54Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-28T22:51:08Z",
     "url": "https://github.com/nanoinfraorg/skills-server"
-  },
-  {
-    "description": "Run Aulthium AI Agent instantly in Termux, Linux, or any terminal with a single command.",
-    "id": "d3stiny-io/aulthium",
-    "language": "Shell",
-    "name": "d3stiny-io/aulthium",
-    "stars": 5,
-    "updated_at": "2026-08-28T22:50:08Z",
-    "url": "https://github.com/d3stiny-io/aulthium"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 27,
-    "updated_at": "2026-08-28T22:33:46Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "A local-first personal AI agent with a living memory: remembers you, uses your computer, and builds automations you can ",
-    "id": "fatihkutuk/neo",
-    "language": "Python",
-    "name": "fatihkutuk/neo",
-    "stars": 2,
-    "updated_at": "2026-08-28T22:26:37Z",
-    "url": "https://github.com/fatihkutuk/neo"
   }
 ]
