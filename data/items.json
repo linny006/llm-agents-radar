@@ -1,5 +1,41 @@
 [
   {
+    "description": "Lightweight Swift terminal UI library for streaming AI transcripts with in-place updates and tool placeholders.",
+    "id": "BiBoyang/ForgeLoopTUI",
+    "language": "Swift",
+    "name": "BiBoyang/ForgeLoopTUI",
+    "stars": 1,
+    "updated_at": "2026-08-29T11:11:03Z",
+    "url": "https://github.com/BiBoyang/ForgeLoopTUI"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-08-29T11:13:34Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
+    "id": "sky-valley/pi",
+    "language": "Go",
+    "name": "sky-valley/pi",
+    "stars": 42,
+    "updated_at": "2026-08-29T11:08:42Z",
+    "url": "https://github.com/sky-valley/pi"
+  },
+  {
+    "description": "Run Aulthium AI Agent instantly in Termux, Linux, or any terminal with a single command.",
+    "id": "d3stiny-io/aulthium",
+    "language": "Shell",
+    "name": "d3stiny-io/aulthium",
+    "stars": 5,
+    "updated_at": "2026-08-29T11:02:31Z",
+    "url": "https://github.com/d3stiny-io/aulthium"
+  },
+  {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
@@ -16,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T10:59:01Z",
     "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
-  },
-  {
-    "description": "Run Aulthium AI Agent instantly in Termux, Linux, or any terminal with a single command.",
-    "id": "d3stiny-io/aulthium",
-    "language": "Shell",
-    "name": "d3stiny-io/aulthium",
-    "stars": 5,
-    "updated_at": "2026-08-29T11:02:31Z",
-    "url": "https://github.com/d3stiny-io/aulthium"
   },
   {
     "description": "\ub193\uce58\uba74 \uc548 \ub418\ub294 \uac83\uc744 \ub300\uc2e0 \uc9c0\ucf1c\ubcf4\ub2e4\uac00 \uc870\uac74\uc774 \ub9de\uc73c\uba74 \ud3f0\uc73c\ub85c \ucc14\ub7ec\uc8fc\ub294 \uac1c\uc778 \uc54c\ub9bc \ud5c8\ube0c \u2014 changedetection.io + MCP \uc11c\ubc84 + ntfy (\uad6c MyPlayScheduler)",
@@ -50,7 +77,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-29T10:59:00Z",
+    "updated_at": "2026-08-29T11:11:27Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -70,15 +97,6 @@
     "stars": 128,
     "updated_at": "2026-08-29T10:47:16Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-08-29T10:47:13Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
@@ -356,7 +374,7 @@
     "language": "TypeScript",
     "name": "wxxb789/dsh-raven-research",
     "stars": 2,
-    "updated_at": "2026-08-29T10:47:40Z",
+    "updated_at": "2026-08-29T11:07:09Z",
     "url": "https://github.com/wxxb789/dsh-raven-research"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-29T07:23:14Z",
     "url": "https://github.com/Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3"
-  },
-  {
-    "description": "Control your Windows laptop remotely via Discord with AI-powered voice and text commands in English or Urdu.",
-    "id": "Ottoman-reticule726/zara-ai-laptop-agent",
-    "language": "Python",
-    "name": "Ottoman-reticule726/zara-ai-laptop-agent",
-    "stars": 0,
-    "updated_at": "2026-08-29T07:22:24Z",
-    "url": "https://github.com/Ottoman-reticule726/zara-ai-laptop-agent"
-  },
-  {
-    "description": "Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons.",
-    "id": "alejandrogg15/Minimax-H3-Turbo",
-    "language": "Python",
-    "name": "alejandrogg15/Minimax-H3-Turbo",
-    "stars": 0,
-    "updated_at": "2026-08-29T07:22:20Z",
-    "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
   }
 ]
