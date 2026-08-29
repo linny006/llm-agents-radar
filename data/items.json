@@ -1,12 +1,66 @@
 [
   {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-08-29T03:15:00Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Scrapling \u98ce\u683c\u9690\u8eab\u722c\u866b\u5e93\uff1a\u81ea\u9002\u5e94\u9009\u62e9\u5668 \u00b7 TLS \u6307\u7eb9 HTTP \u00b7 JS \u6e32\u67d3 \u00b7 \u56de\u8c03\u5f0f Spider \u6846\u67b6\uff08\u91cd\u8bd5/robots/\u53bb\u91cd/\u4e2d\u95f4\u4ef6\u7ba1\u9053\uff09\u00b7 JS \u9006\u5411 Agent \u00b7 \u9a8c\u8bc1\u7801\u8bc6\u522b \u00b7 MCP \u670d\u52a1 \u00b7 \u672c\u5730 We",
+    "id": "xiaomaozjj666/web-crawler",
+    "language": "Python",
+    "name": "xiaomaozjj666/web-crawler",
+    "stars": 1,
+    "updated_at": "2026-08-29T03:11:24Z",
+    "url": "https://github.com/xiaomaozjj666/web-crawler"
+  },
+  {
+    "description": "AI-driven Abaqus workbench: describe a model in a spec, get a real solved one back. Every capability is backed by a chec",
+    "id": "Tomsabay/abaqus_agent",
+    "language": "Python",
+    "name": "Tomsabay/abaqus_agent",
+    "stars": 21,
+    "updated_at": "2026-08-29T03:09:51Z",
+    "url": "https://github.com/Tomsabay/abaqus_agent"
+  },
+  {
+    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 26,
+    "updated_at": "2026-08-29T03:06:32Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
+    "description": "Autonomous on-chain AI audit agent for Mantle with ERC-8004 identity. Mantle Turing Test hackathon.",
+    "id": "RECTOR-LABS/conatus",
+    "language": "Solidity",
+    "name": "RECTOR-LABS/conatus",
+    "stars": 1,
+    "updated_at": "2026-08-29T03:05:12Z",
+    "url": "https://github.com/RECTOR-LABS/conatus"
+  },
+  {
     "description": "",
     "id": "apolmig/fronteraeval",
     "language": "JavaScript",
     "name": "apolmig/fronteraeval",
     "stars": 0,
-    "updated_at": "2026-08-29T02:59:07Z",
+    "updated_at": "2026-08-29T03:14:57Z",
     "url": "https://github.com/apolmig/fronteraeval"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-29T03:00:09Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
@@ -23,7 +77,7 @@
     "language": "Rust",
     "name": "citizenhicks/mobius",
     "stars": 1,
-    "updated_at": "2026-08-29T02:54:57Z",
+    "updated_at": "2026-08-29T03:08:25Z",
     "url": "https://github.com/citizenhicks/mobius"
   },
   {
@@ -43,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-08-29T02:50:49Z",
     "url": "https://github.com/Go1c/workflow-plugin"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 6,
-    "updated_at": "2026-08-29T02:59:34Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Run Aulthium AI Agent instantly in Termux, Linux, or any terminal with a single command.",
@@ -97,24 +142,6 @@
     "stars": 205,
     "updated_at": "2026-08-29T02:07:45Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "Autonomous on-chain AI audit agent for Mantle with ERC-8004 identity. Mantle Turing Test hackathon.",
-    "id": "RECTOR-LABS/conatus",
-    "language": "Solidity",
-    "name": "RECTOR-LABS/conatus",
-    "stars": 1,
-    "updated_at": "2026-08-29T02:03:36Z",
-    "url": "https://github.com/RECTOR-LABS/conatus"
-  },
-  {
-    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 26,
-    "updated_at": "2026-08-29T02:03:16Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
     "description": "\u900f\u660e\u53ef\u5ba1\u8ba1\u7684\u672c\u5730\u667a\u80fd\u4f53\u7ec8\u7aef\uff1a\u5bf9\u5f00\u6e90 agent \u6846\u67b6\u505a\u5b89\u5168\u5ba1\u8ba1\u4e0e\u52a0\u56fa\uff08RCE/\u6c99\u76d2\u7ed5\u8fc7/\u6ce8\u5165\uff09\uff0c\u5e76\u4ee5 50 \u6761\u6ce8\u5165\u57fa\u51c6 \u00d7 37 \u6761\u80fd\u529b\u57fa\u51c6\u53cc\u7ef4\u5ea6\u91cf\u5b89\u5168\u8fb9\u754c",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-28T23:59:42Z",
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "An AI-powered EEG classifier that detects emotional states during music listening and curates Spotify playlists grounded",
-    "id": "LukeMainwaring/cortexdj",
-    "language": "Python",
-    "name": "LukeMainwaring/cortexdj",
-    "stars": 2,
-    "updated_at": "2026-08-28T23:21:08Z",
-    "url": "https://github.com/LukeMainwaring/cortexdj"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7041,
-    "updated_at": "2026-08-28T23:11:54Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "A self-hosted Agent Skills marketplace",
-    "id": "nanoinfraorg/skills-server",
-    "language": "Go",
-    "name": "nanoinfraorg/skills-server",
-    "stars": 0,
-    "updated_at": "2026-08-28T22:51:08Z",
-    "url": "https://github.com/nanoinfraorg/skills-server"
   }
 ]
