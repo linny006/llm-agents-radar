@@ -1,5 +1,23 @@
 [
   {
+    "description": "",
+    "id": "apolmig/fronteraeval",
+    "language": "JavaScript",
+    "name": "apolmig/fronteraeval",
+    "stars": 0,
+    "updated_at": "2026-08-29T11:44:09Z",
+    "url": "https://github.com/apolmig/fronteraeval"
+  },
+  {
+    "description": "Cross-framework Nx architecture lab using Angular, React, NgRx, Signals, TanStack Query and the Facade pattern",
+    "id": "Avien/users-portal",
+    "language": "TypeScript",
+    "name": "Avien/users-portal",
+    "stars": 0,
+    "updated_at": "2026-08-29T11:34:52Z",
+    "url": "https://github.com/Avien/users-portal"
+  },
+  {
     "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
     "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
     "language": "Python",
@@ -32,7 +50,7 @@
     "language": "Python",
     "name": "langroid/langroid",
     "stars": 4101,
-    "updated_at": "2026-08-29T11:23:47Z",
+    "updated_at": "2026-08-29T11:37:27Z",
     "url": "https://github.com/langroid/langroid"
   },
   {
@@ -59,7 +77,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-08-29T11:28:12Z",
+    "updated_at": "2026-08-29T11:45:04Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -104,7 +122,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-29T11:22:25Z",
+    "updated_at": "2026-08-29T11:38:14Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -338,7 +356,7 @@
     "language": "TypeScript",
     "name": "NicoGenti/opencode-orchestrator-kit",
     "stars": 4,
-    "updated_at": "2026-08-29T10:26:10Z",
+    "updated_at": "2026-08-29T11:43:44Z",
     "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-29T07:24:48Z",
     "url": "https://github.com/jiangxt2/Yamazaki-incubator"
-  },
-  {
-    "description": "A self-sustaining AI companion core \u2014 continuous stream of consciousness, autonomous agent, layered memory.",
-    "id": "T-80BVVD/kiri",
-    "language": "Python",
-    "name": "T-80BVVD/kiri",
-    "stars": 1,
-    "updated_at": "2026-08-29T07:24:45Z",
-    "url": "https://github.com/T-80BVVD/kiri"
-  },
-  {
-    "description": "Sort your Downloads by project, not file type \u2014 with one-command undo. No delete, ever.",
-    "id": "verniceunleaded6135/tidy-undo",
-    "language": "Python",
-    "name": "verniceunleaded6135/tidy-undo",
-    "stars": 0,
-    "updated_at": "2026-08-29T07:23:59Z",
-    "url": "https://github.com/verniceunleaded6135/tidy-undo"
   }
 ]
