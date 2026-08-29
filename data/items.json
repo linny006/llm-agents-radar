@@ -1,11 +1,110 @@
 [
   {
+    "description": "Self-hosted AI agent living inside Zalo (personal account). Multi-account, 13 tools, web dashboard, scheduler, durable m",
+    "id": "vuhai2002/zalo-agent",
+    "language": "TypeScript",
+    "name": "vuhai2002/zalo-agent",
+    "stars": 0,
+    "updated_at": "2026-08-29T06:58:25Z",
+    "url": "https://github.com/vuhai2002/zalo-agent"
+  },
+  {
+    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
+    "id": "AgentEra/Agently",
+    "language": "Python",
+    "name": "AgentEra/Agently",
+    "stars": 1645,
+    "updated_at": "2026-08-29T06:58:13Z",
+    "url": "https://github.com/AgentEra/Agently"
+  },
+  {
+    "description": "Autonomous Kubernetes incident triage agent built on TrueForge \u2014 real MCP tools, sandboxed analysis, subagent parallel d",
+    "id": "gitanshulbisht/k8s-sentinel",
+    "language": "Python",
+    "name": "gitanshulbisht/k8s-sentinel",
+    "stars": 0,
+    "updated_at": "2026-08-29T06:57:28Z",
+    "url": "https://github.com/gitanshulbisht/k8s-sentinel"
+  },
+  {
+    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
+    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "language": "HTML",
+    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "stars": 0,
+    "updated_at": "2026-08-29T06:57:06Z",
+    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
+  },
+  {
+    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
+    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "language": "JavaScript",
+    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "stars": 0,
+    "updated_at": "2026-08-29T06:55:42Z",
+    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-29T06:55:23Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-08-29T06:57:31Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
+    "description": "In-game coding agent that autonomously plans, builds and self-inspects Minecraft structures (custom MCP bridge, determin",
+    "id": "Crystalhihihi/minecraft-ai-building",
+    "language": "Python",
+    "name": "Crystalhihihi/minecraft-ai-building",
+    "stars": 1,
+    "updated_at": "2026-08-29T06:53:52Z",
+    "url": "https://github.com/Crystalhihihi/minecraft-ai-building"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
+    "id": "hasting323/AutoGLM-For-Android",
+    "language": "Kotlin",
+    "name": "hasting323/AutoGLM-For-Android",
+    "stars": 9,
+    "updated_at": "2026-08-29T06:53:44Z",
+    "url": "https://github.com/hasting323/AutoGLM-For-Android"
+  },
+  {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 1,
+    "updated_at": "2026-08-29T06:52:18Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-08-29T06:50:43Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
     "description": "Evaluation harness for LLM browser agents \u2014 real Chromium tasks, DOM-based verifiers, step-level tracing, multi-provider",
     "id": "Ilyat9/Agentalyze",
     "language": "Python",
     "name": "Ilyat9/Agentalyze",
     "stars": 1,
-    "updated_at": "2026-08-29T06:44:54Z",
+    "updated_at": "2026-08-29T06:50:22Z",
     "url": "https://github.com/Ilyat9/Agentalyze"
   },
   {
@@ -14,17 +113,17 @@
     "language": "Python",
     "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
     "stars": 1,
-    "updated_at": "2026-08-29T06:43:22Z",
+    "updated_at": "2026-08-29T06:49:44Z",
     "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
+    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
+    "id": "Om-Khode/TENKA",
     "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-29T06:41:34Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
+    "name": "Om-Khode/TENKA",
+    "stars": 7,
+    "updated_at": "2026-08-29T06:53:17Z",
+    "url": "https://github.com/Om-Khode/TENKA"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -32,7 +131,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-08-29T06:41:29Z",
+    "updated_at": "2026-08-29T06:49:27Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -41,17 +140,8 @@
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 209,
-    "updated_at": "2026-08-29T06:39:20Z",
+    "updated_at": "2026-08-29T06:57:48Z",
     "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
-    "description": "In-game coding agent that autonomously plans, builds and self-inspects Minecraft structures (custom MCP bridge, determin",
-    "id": "Crystalhihihi/minecraft-ai-building",
-    "language": "Python",
-    "name": "Crystalhihihi/minecraft-ai-building",
-    "stars": 1,
-    "updated_at": "2026-08-29T06:39:09Z",
-    "url": "https://github.com/Crystalhihihi/minecraft-ai-building"
   },
   {
     "description": "\u94c1\u9508\u6218\u4e89\u5355\u673a LLM \u6307\u6325\u94fe\uff1ajavaagent \u5b9e\u65f6\u53d6\u6570 + Python \u5206\u5c42\u591a agent \u51b3\u7b56\uff08\u7eaf\u5355\u673a\u7814\u7a76\u9879\u76ee\uff0c\u4e25\u7981\u7528\u4e8e\u591a\u4eba\u5bf9\u6218\uff09",
@@ -72,15 +162,6 @@
     "url": "https://github.com/fatihkutuk/neo"
   },
   {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-08-29T06:27:22Z",
-    "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
     "description": "A self-sustaining AI companion core \u2014 continuous stream of consciousness, autonomous agent, layered memory.",
     "id": "T-80BVVD/kiri",
     "language": "Python",
@@ -88,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T06:21:21Z",
     "url": "https://github.com/T-80BVVD/kiri"
-  },
-  {
-    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
-    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "language": "JavaScript",
-    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "stars": 0,
-    "updated_at": "2026-08-29T06:18:28Z",
-    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
   },
   {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
@@ -160,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T05:39:17Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
-    "id": "Om-Khode/TENKA",
-    "language": "Python",
-    "name": "Om-Khode/TENKA",
-    "stars": 7,
-    "updated_at": "2026-08-29T06:06:13Z",
-    "url": "https://github.com/Om-Khode/TENKA"
   },
   {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
@@ -342,11 +405,20 @@
     "url": "https://github.com/Go1c/workflow-plugin"
   },
   {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4402,
+    "updated_at": "2026-08-29T02:41:42Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
     "description": "Benzi is code intelligence infrastructure for AI models.  Claude Code greps; Cursor embeds; Aider maps signatures; Benzi",
     "id": "oooscoos/Benzi",
     "language": "Python",
     "name": "oooscoos/Benzi",
-    "stars": 37,
+    "stars": 39,
     "updated_at": "2026-08-29T02:33:40Z",
     "url": "https://github.com/oooscoos/Benzi"
   },
@@ -376,77 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-29T02:11:52Z",
     "url": "https://github.com/Canyon-Li/AuditronClaw"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 125,
-    "updated_at": "2026-08-29T01:39:16Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-29T01:38:16Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 5,
-    "updated_at": "2026-08-29T00:50:15Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 14,
-    "updated_at": "2026-08-29T00:50:09Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-29T00:46:37Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
-    "id": "sunnnn2005/data-quality-agent",
-    "language": "Python",
-    "name": "sunnnn2005/data-quality-agent",
-    "stars": 0,
-    "updated_at": "2026-08-29T00:34:52Z",
-    "url": "https://github.com/sunnnn2005/data-quality-agent"
-  },
-  {
-    "description": "Sort your Downloads by project, not file type \u2014 with one-command undo. No delete, ever.",
-    "id": "verniceunleaded6135/tidy-undo",
-    "language": "Python",
-    "name": "verniceunleaded6135/tidy-undo",
-    "stars": 0,
-    "updated_at": "2026-08-29T00:31:54Z",
-    "url": "https://github.com/verniceunleaded6135/tidy-undo"
-  },
-  {
-    "description": "Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node\u2014no complex workflows needed.",
-    "id": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
-    "language": "JavaScript",
-    "name": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
-    "stars": 2,
-    "updated_at": "2026-08-29T00:31:16Z",
-    "url": "https://github.com/Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3"
   }
 ]
