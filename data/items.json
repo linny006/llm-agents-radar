@@ -1,5 +1,23 @@
 [
   {
+    "description": "Evaluation harness for LLM browser agents \u2014 real Chromium tasks, DOM-based verifiers, step-level tracing, multi-provider",
+    "id": "Ilyat9/Agentalyze",
+    "language": "Python",
+    "name": "Ilyat9/Agentalyze",
+    "stars": 1,
+    "updated_at": "2026-08-29T18:56:28Z",
+    "url": "https://github.com/Ilyat9/Agentalyze"
+  },
+  {
+    "description": "Two MIT patches for Nous Research Hermes: stop busy-queue messages merging into one jumbled turn, and optionally run sel",
+    "id": "EauDoon/hermes-parallel-followups",
+    "language": "Python",
+    "name": "EauDoon/hermes-parallel-followups",
+    "stars": 0,
+    "updated_at": "2026-08-29T18:48:56Z",
+    "url": "https://github.com/EauDoon/hermes-parallel-followups"
+  },
+  {
     "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
     "id": "BlockRunAI/Franklin",
     "language": "TypeScript",
@@ -63,15 +81,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "Evaluation harness for LLM browser agents \u2014 real Chromium tasks, DOM-based verifiers, step-level tracing, multi-provider",
-    "id": "Ilyat9/Agentalyze",
-    "language": "Python",
-    "name": "Ilyat9/Agentalyze",
-    "stars": 1,
-    "updated_at": "2026-08-29T18:13:58Z",
-    "url": "https://github.com/Ilyat9/Agentalyze"
-  },
-  {
     "description": "The LLM Anti-Framework",
     "id": "Mirascope/mirascope",
     "language": "Python",
@@ -126,15 +135,6 @@
     "url": "https://github.com/gptme/gptme"
   },
   {
-    "description": "Two MIT patches for Nous Research Hermes: stop busy-queue messages merging into one jumbled turn, and optionally run sel",
-    "id": "EauDoon/hermes-parallel-followups",
-    "language": "Python",
-    "name": "EauDoon/hermes-parallel-followups",
-    "stars": 0,
-    "updated_at": "2026-08-29T18:48:56Z",
-    "url": "https://github.com/EauDoon/hermes-parallel-followups"
-  },
-  {
     "description": "A small Python agent framework \u2014 tool-calling loop, YAML config, pluggable transports.",
     "id": "islavutin-oss/agentino",
     "language": "Python",
@@ -149,7 +149,7 @@
     "language": "Python",
     "name": "Om-Khode/TENKA",
     "stars": 7,
-    "updated_at": "2026-08-29T17:31:56Z",
+    "updated_at": "2026-08-29T18:52:37Z",
     "url": "https://github.com/Om-Khode/TENKA"
   },
   {
@@ -446,7 +446,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-29T18:27:54Z",
+    "updated_at": "2026-08-29T18:55:49Z",
     "url": "https://github.com/ljchang/mecha"
   }
 ]

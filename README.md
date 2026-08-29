@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-29 18:51 UTC
+> ⏰ Last updated: 2026-08-29 19:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,21 +42,21 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [BlockRunAI/Franklin](https://github.com/BlockRunAI/Franklin) | 552 | TypeScript | 2026-08-29 | The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript. |
-| 2 | [kawaiipantsu/boop](https://github.com/kawaiipantsu/boop) | 0 | Go | 2026-08-29 | Local-first AI client and agent runtime. Provider-neutral (Ollama, LM Studio, Lemonade, OpenAI, Anthropic, xAI), sandbox |
-| 3 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-29 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 4 | [honestDS/MonoLight](https://github.com/honestDS/MonoLight) | 5 | Python | 2026-08-29 | MonoLight 是一个专注于安全执行与人机协同的通用自主智能体（General Autonomous Agent）运行时。 |
-| 5 | [mark-weeks/hello-nested-worlds-adventure](https://github.com/mark-weeks/hello-nested-worlds-adventure) | 5 | Python | 2026-08-29 | Enfolded: Nested World Adventure — a shared persistent multiverse where humans and AI agents traverse nested scales of r |
-| 6 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 125 | HTML | 2026-08-29 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 7 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-29 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 8 | [Ilyat9/Agentalyze](https://github.com/Ilyat9/Agentalyze) | 1 | Python | 2026-08-29 | Evaluation harness for LLM browser agents — real Chromium tasks, DOM-based verifiers, step-level tracing, multi-provider |
-| 9 | [Mirascope/mirascope](https://github.com/Mirascope/mirascope) | 1524 | Python | 2026-08-29 | The LLM Anti-Framework |
-| 10 | [ChanTso/citybuddy](https://github.com/ChanTso/citybuddy) | 0 | Java | 2026-08-29 | Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de |
-| 11 | [BiBoyang/ForgeLoopTUI](https://github.com/BiBoyang/ForgeLoopTUI) | 1 | Swift | 2026-08-29 | Lightweight Swift terminal UI library for streaming AI transcripts with in-place updates and tool placeholders. |
-| 12 | [Alakazamc/ProteinAgent](https://github.com/Alakazamc/ProteinAgent) | 0 | Python | 2026-08-29 | 🧬 垂直领域异步 AI Agent 编排系统：FastAPI + Celery + Redis + Router LLM + 蛋白领域 RAG（多肽生成 / 适配体生成 / 蛋白预测） |
-| 13 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 5 | Swift | 2026-08-29 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
-| 14 | [gptme/gptme](https://github.com/gptme/gptme) | 4403 | Python | 2026-08-29 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
-| 15 | [EauDoon/hermes-parallel-followups](https://github.com/EauDoon/hermes-parallel-followups) | 0 | Python | 2026-08-29 | Two MIT patches for Nous Research Hermes: stop busy-queue messages merging into one jumbled turn, and optionally run sel |
+| 1 | [Ilyat9/Agentalyze](https://github.com/Ilyat9/Agentalyze) | 1 | Python | 2026-08-29 | Evaluation harness for LLM browser agents — real Chromium tasks, DOM-based verifiers, step-level tracing, multi-provider |
+| 2 | [EauDoon/hermes-parallel-followups](https://github.com/EauDoon/hermes-parallel-followups) | 0 | Python | 2026-08-29 | Two MIT patches for Nous Research Hermes: stop busy-queue messages merging into one jumbled turn, and optionally run sel |
+| 3 | [BlockRunAI/Franklin](https://github.com/BlockRunAI/Franklin) | 552 | TypeScript | 2026-08-29 | The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript. |
+| 4 | [kawaiipantsu/boop](https://github.com/kawaiipantsu/boop) | 0 | Go | 2026-08-29 | Local-first AI client and agent runtime. Provider-neutral (Ollama, LM Studio, Lemonade, OpenAI, Anthropic, xAI), sandbox |
+| 5 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-29 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 6 | [honestDS/MonoLight](https://github.com/honestDS/MonoLight) | 5 | Python | 2026-08-29 | MonoLight 是一个专注于安全执行与人机协同的通用自主智能体（General Autonomous Agent）运行时。 |
+| 7 | [mark-weeks/hello-nested-worlds-adventure](https://github.com/mark-weeks/hello-nested-worlds-adventure) | 5 | Python | 2026-08-29 | Enfolded: Nested World Adventure — a shared persistent multiverse where humans and AI agents traverse nested scales of r |
+| 8 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 125 | HTML | 2026-08-29 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 9 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-29 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 10 | [Mirascope/mirascope](https://github.com/Mirascope/mirascope) | 1524 | Python | 2026-08-29 | The LLM Anti-Framework |
+| 11 | [ChanTso/citybuddy](https://github.com/ChanTso/citybuddy) | 0 | Java | 2026-08-29 | Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de |
+| 12 | [BiBoyang/ForgeLoopTUI](https://github.com/BiBoyang/ForgeLoopTUI) | 1 | Swift | 2026-08-29 | Lightweight Swift terminal UI library for streaming AI transcripts with in-place updates and tool placeholders. |
+| 13 | [Alakazamc/ProteinAgent](https://github.com/Alakazamc/ProteinAgent) | 0 | Python | 2026-08-29 | 🧬 垂直领域异步 AI Agent 编排系统：FastAPI + Celery + Redis + Router LLM + 蛋白领域 RAG（多肽生成 / 适配体生成 / 蛋白预测） |
+| 14 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 5 | Swift | 2026-08-29 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
+| 15 | [gptme/gptme](https://github.com/gptme/gptme) | 4403 | Python | 2026-08-29 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
 | 16 | [islavutin-oss/agentino](https://github.com/islavutin-oss/agentino) | 0 | Python | 2026-08-29 | A small Python agent framework — tool-calling loop, YAML config, pluggable transports. |
 | 17 | [Om-Khode/TENKA](https://github.com/Om-Khode/TENKA) | 7 | Python | 2026-08-29 | Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows. |
 | 18 | [kriss-b/llm-iso27001](https://github.com/kriss-b/llm-iso27001) | 35 | — | 2026-08-29 | ISO 27001 (+42001 + NIS2) ISMS framework designed to be instantiated and maintained by LLM Agents |
