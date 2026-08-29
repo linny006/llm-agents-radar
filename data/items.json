@@ -5,8 +5,26 @@
     "language": "Go",
     "name": "kawaiipantsu/boop",
     "stars": 0,
-    "updated_at": "2026-08-29T17:39:04Z",
+    "updated_at": "2026-08-29T17:57:02Z",
     "url": "https://github.com/kawaiipantsu/boop"
+  },
+  {
+    "description": "Two MIT patches for Nous Research Hermes: stop busy-queue messages merging into one jumbled turn, and optionally run sel",
+    "id": "EauDoon/hermes-parallel-followups",
+    "language": "Python",
+    "name": "EauDoon/hermes-parallel-followups",
+    "stars": 0,
+    "updated_at": "2026-08-29T17:51:40Z",
+    "url": "https://github.com/EauDoon/hermes-parallel-followups"
+  },
+  {
+    "description": "Evaluation harness for LLM browser agents \u2014 real Chromium tasks, DOM-based verifiers, step-level tracing, multi-provider",
+    "id": "Ilyat9/Agentalyze",
+    "language": "Python",
+    "name": "Ilyat9/Agentalyze",
+    "stars": 1,
+    "updated_at": "2026-08-29T17:49:55Z",
+    "url": "https://github.com/Ilyat9/Agentalyze"
   },
   {
     "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
@@ -41,17 +59,8 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4403,
-    "updated_at": "2026-08-29T17:43:48Z",
+    "updated_at": "2026-08-29T18:00:07Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Evaluation harness for LLM browser agents \u2014 real Chromium tasks, DOM-based verifiers, step-level tracing, multi-provider",
-    "id": "Ilyat9/Agentalyze",
-    "language": "Python",
-    "name": "Ilyat9/Agentalyze",
-    "stars": 1,
-    "updated_at": "2026-08-29T17:16:35Z",
-    "url": "https://github.com/Ilyat9/Agentalyze"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -79,15 +88,6 @@
     "stars": 552,
     "updated_at": "2026-08-29T17:09:37Z",
     "url": "https://github.com/BlockRunAI/Franklin"
-  },
-  {
-    "description": "Two MIT patches for Nous Research Hermes: stop busy-queue messages merging into one jumbled turn, and optionally run sel",
-    "id": "EauDoon/hermes-parallel-followups",
-    "language": "Python",
-    "name": "EauDoon/hermes-parallel-followups",
-    "stars": 0,
-    "updated_at": "2026-08-29T16:53:28Z",
-    "url": "https://github.com/EauDoon/hermes-parallel-followups"
   },
   {
     "description": "A local-first personal AI agent with a living memory: remembers you, uses your computer, and builds automations you can ",
@@ -185,7 +185,7 @@
     "language": "Java",
     "name": "ChanTso/citybuddy",
     "stars": 0,
-    "updated_at": "2026-08-29T16:00:28Z",
+    "updated_at": "2026-08-29T18:00:17Z",
     "url": "https://github.com/ChanTso/citybuddy"
   },
   {
@@ -202,7 +202,7 @@
     "id": "merdemkoc/llm-spatial-context",
     "language": "TypeScript",
     "name": "merdemkoc/llm-spatial-context",
-    "stars": 3,
+    "stars": 4,
     "updated_at": "2026-08-29T15:46:41Z",
     "url": "https://github.com/merdemkoc/llm-spatial-context"
   },
@@ -338,7 +338,7 @@
     "language": "Python",
     "name": "mark-weeks/hello-nested-worlds-adventure",
     "stars": 5,
-    "updated_at": "2026-08-29T15:21:54Z",
+    "updated_at": "2026-08-29T17:59:54Z",
     "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
   },
   {
