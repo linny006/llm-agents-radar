@@ -1,12 +1,75 @@
 [
   {
+    "description": "Magpie (\u9e4a) \u2014 the bridge between IM platforms and Bamboo. Drives agent sessions from Telegram/Feishu over Bamboo's public",
+    "id": "bigduu/Magpie",
+    "language": "Rust",
+    "name": "bigduu/Magpie",
+    "stars": 1,
+    "updated_at": "2026-08-30T17:00:14Z",
+    "url": "https://github.com/bigduu/Magpie"
+  },
+  {
     "description": "Local-first, self-hosted AI agent runtime with MCP tools, sandboxed sessions, memory, credentials, audit/replay, and a l",
     "id": "sandbaseai/sandbase-harness",
     "language": "TypeScript",
     "name": "sandbaseai/sandbase-harness",
     "stars": 638,
-    "updated_at": "2026-08-30T16:44:23Z",
+    "updated_at": "2026-08-30T16:58:55Z",
     "url": "https://github.com/sandbaseai/sandbase-harness"
+  },
+  {
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 8,
+    "updated_at": "2026-08-30T16:55:43Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "Static system dashboard for a Hermes Agent installation: host status, security, model routing, honest cost, memory, cron",
+    "id": "itpartypattaya/hermes-dashboard",
+    "language": "Python",
+    "name": "itpartypattaya/hermes-dashboard",
+    "stars": 4,
+    "updated_at": "2026-08-30T16:51:56Z",
+    "url": "https://github.com/itpartypattaya/hermes-dashboard"
+  },
+  {
+    "description": "The living React + Vite interface for Bamboo agents: streams reasoning, tool calls, and task progress over WebSocket, wi",
+    "id": "bigduu/Lotus",
+    "language": "TypeScript",
+    "name": "bigduu/Lotus",
+    "stars": 3,
+    "updated_at": "2026-08-30T16:50:40Z",
+    "url": "https://github.com/bigduu/Lotus"
+  },
+  {
+    "description": "Bodhi \u2014 a local-first desktop AI agent that actually does the work: it breaks down tasks, calls tools, streams every ste",
+    "id": "bigduu/Bodhi-AI",
+    "language": "Rust",
+    "name": "bigduu/Bodhi-AI",
+    "stars": 17,
+    "updated_at": "2026-08-30T16:50:40Z",
+    "url": "https://github.com/bigduu/Bodhi-AI"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-30T16:49:01Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 0,
+    "updated_at": "2026-08-30T16:45:06Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
@@ -23,7 +86,7 @@
     "language": "Go",
     "name": "kawaiipantsu/boop",
     "stars": 0,
-    "updated_at": "2026-08-30T16:36:29Z",
+    "updated_at": "2026-08-30T16:48:38Z",
     "url": "https://github.com/kawaiipantsu/boop"
   },
   {
@@ -34,24 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T16:32:11Z",
     "url": "https://github.com/Boe777/queryquarry"
-  },
-  {
-    "description": "Static system dashboard for a Hermes Agent installation: host status, security, model routing, honest cost, memory, cron",
-    "id": "itpartypattaya/hermes-dashboard",
-    "language": "Python",
-    "name": "itpartypattaya/hermes-dashboard",
-    "stars": 4,
-    "updated_at": "2026-08-30T16:29:58Z",
-    "url": "https://github.com/itpartypattaya/hermes-dashboard"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 0,
-    "updated_at": "2026-08-30T16:45:06Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "\u9762\u5411 CTF \u7ade\u8d5b\u8bc4\u6d4b\u5e73\u53f0\uff08TSec Benchmark\uff09\u7684\u81ea\u52a8\u5316 Web/\u903b\u8f91\u6f0f\u6d1e\u6316\u6398\u4e0e\u5229\u7528 Agent\uff1a\u5206\u5c42\u8c03\u5ea6 + \u591a\u4f1a\u8bdd\u5e76\u53d1 + \u8de8\u4f1a\u8bdd\u5171\u4eab\u9ed1\u677f + \u5e73\u53f0\u6743\u5a01\u6821\u9a8c",
@@ -356,7 +401,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-30T13:42:16Z",
+    "updated_at": "2026-08-30T16:48:06Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -376,15 +421,6 @@
     "stars": 128,
     "updated_at": "2026-08-30T13:32:39Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
-    "id": "metric-space-ai/greppy",
-    "language": "Rust",
-    "name": "metric-space-ai/greppy",
-    "stars": 8,
-    "updated_at": "2026-08-30T13:25:43Z",
-    "url": "https://github.com/metric-space-ai/greppy"
   },
   {
     "description": "A curated list of resources for designing multi-agent AI systems as graphs \u2014 topology patterns, orchestration frameworks",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-30T13:21:16Z",
     "url": "https://github.com/anh737/resumatch-ai"
-  },
-  {
-    "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
-    "id": "EvoMap/awesome-agent-evolution",
-    "language": "JavaScript",
-    "name": "EvoMap/awesome-agent-evolution",
-    "stars": 202,
-    "updated_at": "2026-08-30T13:18:22Z",
-    "url": "https://github.com/EvoMap/awesome-agent-evolution"
-  },
-  {
-    "description": "CAE toolchain for IPM traction motors: geometry \u2192 EM field \u2192 structural FEM \u2192 thermal \u2192 drive cycle \u2192 PDF report. Every ",
-    "id": "ThomasSchmiegelt/ema-motor-analysis",
-    "language": "Python",
-    "name": "ThomasSchmiegelt/ema-motor-analysis",
-    "stars": 0,
-    "updated_at": "2026-08-30T13:11:39Z",
-    "url": "https://github.com/ThomasSchmiegelt/ema-motor-analysis"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 207,
-    "updated_at": "2026-08-30T13:04:49Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "AI-driven Abaqus workbench: describe a model in a spec, get a real solved one back. Every capability is backed by a chec",
-    "id": "Tomsabay/abaqus_agent",
-    "language": "Python",
-    "name": "Tomsabay/abaqus_agent",
-    "stars": 21,
-    "updated_at": "2026-08-30T13:04:37Z",
-    "url": "https://github.com/Tomsabay/abaqus_agent"
   }
 ]
