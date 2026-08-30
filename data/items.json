@@ -1,5 +1,32 @@
 [
   {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-08-30T02:28:07Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Persistent plastic memory for coding agents (Claude Code, OpenCode, Prime Agent) via MCP. One-command install.",
+    "id": "alexenti-code/matryoshka-mmi",
+    "language": "Python",
+    "name": "alexenti-code/matryoshka-mmi",
+    "stars": 0,
+    "updated_at": "2026-08-30T02:23:54Z",
+    "url": "https://github.com/alexenti-code/matryoshka-mmi"
+  },
+  {
+    "description": "Autonomous vulnerability discovery engine. An LLM fleet proposes; eight deterministic oracles prove. Findings are report",
+    "id": "eobi/nemesisforge",
+    "language": "Python",
+    "name": "eobi/nemesisforge",
+    "stars": 1,
+    "updated_at": "2026-08-30T02:23:26Z",
+    "url": "https://github.com/eobi/nemesisforge"
+  },
+  {
     "description": "OpenAI-compatible proxy enforcing SKILL.state (arXiv:2608.26263) \u2014 bounded O(1) prompts, O(T) total tokens for long-hori",
     "id": "NosytLabs/skillstate-proxy",
     "language": "TypeScript",
@@ -7,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T02:14:40Z",
     "url": "https://github.com/NosytLabs/skillstate-proxy"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-08-30T02:13:24Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
@@ -79,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T01:55:13Z",
     "url": "https://github.com/guuzaa/oven-llm"
-  },
-  {
-    "description": "Persistent plastic memory for coding agents (Claude Code, OpenCode, Prime Agent) via MCP. One-command install.",
-    "id": "alexenti-code/matryoshka-mmi",
-    "language": "Python",
-    "name": "alexenti-code/matryoshka-mmi",
-    "stars": 0,
-    "updated_at": "2026-08-30T01:44:09Z",
-    "url": "https://github.com/alexenti-code/matryoshka-mmi"
   },
   {
     "description": "\u81ea\u6f14\u8fdb\u7684\u756a\u5267\u5a92\u4f53\u5e93\u6cbb\u7406 agent\uff1a\u67e5\u91cd/\u6539\u540d/TMDB\u5bf9\u9f50/\u6b7b\u79cd\u6e05\u7406\uff0c\u80fd\u53d1\u73b0\u89c4\u5219\u76f2\u533a\u5e76\u81ea\u52a8\u6f14\u8fdb\u51fa\u65b0\u89c4\u5219",
@@ -439,14 +448,5 @@
     "stars": 2792,
     "updated_at": "2026-08-29T21:38:05Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
-  },
-  {
-    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
-    "id": "Danisxxx/comfyUI-LongLook",
-    "language": "Python",
-    "name": "Danisxxx/comfyUI-LongLook",
-    "stars": 2,
-    "updated_at": "2026-08-29T21:35:52Z",
-    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
   }
 ]
