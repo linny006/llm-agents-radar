@@ -1,5 +1,50 @@
 [
   {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 2,
+    "updated_at": "2026-08-30T19:57:53Z",
+    "url": "https://github.com/sydches/yuj"
+  },
+  {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 540,
+    "updated_at": "2026-08-30T19:59:16Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
+  },
+  {
+    "description": "Multi-agent job discovery, independent LLM judging, read-only application-form drafting, and local Excel tracking for Co",
+    "id": "mehboobali98/job-search-agent",
+    "language": "JavaScript",
+    "name": "mehboobali98/job-search-agent",
+    "stars": 0,
+    "updated_at": "2026-08-30T19:52:35Z",
+    "url": "https://github.com/mehboobali98/job-search-agent"
+  },
+  {
+    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 5,
+    "updated_at": "2026-08-30T19:51:29Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "Easy-to-use, easy-to-customize, and high-quality secure code review skills for AI agents.",
+    "id": "ivan-sincek/secure-code-review-agent-skills",
+    "language": "\u2014",
+    "name": "ivan-sincek/secure-code-review-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-08-30T19:50:39Z",
+    "url": "https://github.com/ivan-sincek/secure-code-review-agent-skills"
+  },
+  {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
     "id": "gerardogrisolini/ZenCODE",
     "language": "Swift",
@@ -207,15 +252,6 @@
     "url": "https://github.com/lukky262/ARE"
   },
   {
-    "description": "Multi-agent job discovery, independent LLM judging, read-only application-form drafting, and local Excel tracking for Co",
-    "id": "mehboobali98/job-search-agent",
-    "language": "JavaScript",
-    "name": "mehboobali98/job-search-agent",
-    "stars": 0,
-    "updated_at": "2026-08-30T19:18:08Z",
-    "url": "https://github.com/mehboobali98/job-search-agent"
-  },
-  {
     "description": "",
     "id": "hichamnes-prog/exforum-auto-poster",
     "language": "Python",
@@ -306,15 +342,6 @@
     "url": "https://github.com/gptme/gptme"
   },
   {
-    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
-    "id": "mnemon-dev/mnemon",
-    "language": "Go",
-    "name": "mnemon-dev/mnemon",
-    "stars": 540,
-    "updated_at": "2026-08-30T19:48:35Z",
-    "url": "https://github.com/mnemon-dev/mnemon"
-  },
-  {
     "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
@@ -329,7 +356,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 16,
-    "updated_at": "2026-08-30T18:34:20Z",
+    "updated_at": "2026-08-30T19:58:58Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -338,7 +365,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-08-30T19:36:23Z",
+    "updated_at": "2026-08-30T19:53:50Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 128,
     "updated_at": "2026-08-30T17:54:22Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Autonomous AI engineer on the Databricks AI runtime \u2014 reads papers, ingests Unity Catalog datasets, runs Mosaic AI jobs,",
-    "id": "Praneeth16/databricks-ai-intern",
-    "language": "Python",
-    "name": "Praneeth16/databricks-ai-intern",
-    "stars": 0,
-    "updated_at": "2026-08-30T17:50:21Z",
-    "url": "https://github.com/Praneeth16/databricks-ai-intern"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 6,
-    "updated_at": "2026-08-30T19:33:35Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 32,
-    "updated_at": "2026-08-30T17:42:25Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   }
 ]
