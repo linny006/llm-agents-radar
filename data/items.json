@@ -1,12 +1,66 @@
 [
   {
+    "description": "Harness LLMs with Multi-Agent Programming",
+    "id": "langroid/langroid",
+    "language": "Python",
+    "name": "langroid/langroid",
+    "stars": 4100,
+    "updated_at": "2026-08-30T13:28:46Z",
+    "url": "https://github.com/langroid/langroid"
+  },
+  {
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 8,
+    "updated_at": "2026-08-30T13:25:43Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "A curated list of resources for designing multi-agent AI systems as graphs \u2014 topology patterns, orchestration frameworks",
+    "id": "adventurewave-labs/awesome-graph-engineering",
+    "language": "HTML",
+    "name": "adventurewave-labs/awesome-graph-engineering",
+    "stars": 0,
+    "updated_at": "2026-08-30T13:25:01Z",
+    "url": "https://github.com/adventurewave-labs/awesome-graph-engineering"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3167,
+    "updated_at": "2026-08-30T13:23:57Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
     "description": "AI recruiting assistant that matches resumes to job descriptions through chat \u2014 event-driven microservices with Kafka, Q",
     "id": "anh737/resumatch-ai",
     "language": "Jupyter Notebook",
     "name": "anh737/resumatch-ai",
     "stars": 0,
-    "updated_at": "2026-08-30T13:14:42Z",
+    "updated_at": "2026-08-30T13:21:16Z",
     "url": "https://github.com/anh737/resumatch-ai"
+  },
+  {
+    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
+    "id": "Sigmanih/SigmaStudio",
+    "language": "Python",
+    "name": "Sigmanih/SigmaStudio",
+    "stars": 7,
+    "updated_at": "2026-08-30T13:19:43Z",
+    "url": "https://github.com/Sigmanih/SigmaStudio"
+  },
+  {
+    "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
+    "id": "EvoMap/awesome-agent-evolution",
+    "language": "JavaScript",
+    "name": "EvoMap/awesome-agent-evolution",
+    "stars": 202,
+    "updated_at": "2026-08-30T13:18:22Z",
+    "url": "https://github.com/EvoMap/awesome-agent-evolution"
   },
   {
     "description": "CAE toolchain for IPM traction motors: geometry \u2192 EM field \u2192 structural FEM \u2192 thermal \u2192 drive cycle \u2192 PDF report. Every ",
@@ -275,7 +329,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 16,
-    "updated_at": "2026-08-30T11:59:33Z",
+    "updated_at": "2026-08-30T13:28:45Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -286,15 +340,6 @@
     "stars": 14,
     "updated_at": "2026-08-30T11:58:46Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
-    "id": "EvoMap/awesome-agent-evolution",
-    "language": "JavaScript",
-    "name": "EvoMap/awesome-agent-evolution",
-    "stars": 202,
-    "updated_at": "2026-08-30T13:07:11Z",
-    "url": "https://github.com/EvoMap/awesome-agent-evolution"
   },
   {
     "description": "Self-hosted AI agent living inside Zalo (personal account). Multi-account, 15 tools + external MCP servers, web dashboar",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-30T11:39:25Z",
     "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
-    "id": "HELLOCODINGTR/AgentForge",
-    "language": "\u2014",
-    "name": "HELLOCODINGTR/AgentForge",
-    "stars": 1,
-    "updated_at": "2026-08-30T11:35:20Z",
-    "url": "https://github.com/HELLOCODINGTR/AgentForge"
-  },
-  {
-    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
-    "id": "strobilevitellus470/argus-ai",
-    "language": "Python",
-    "name": "strobilevitellus470/argus-ai",
-    "stars": 1,
-    "updated_at": "2026-08-30T11:34:39Z",
-    "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-08-30T11:32:02Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-08-30T11:31:49Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-08-30T11:29:59Z",
-    "url": "https://github.com/heba-ramdan/harness"
   }
 ]
