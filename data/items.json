@@ -1,12 +1,39 @@
 [
   {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
+    "description": "ISO 27001 (+42001 + NIS2) ISMS framework designed to be instantiated and maintained by LLM Agents",
+    "id": "kriss-b/llm-iso27001",
+    "language": "\u2014",
+    "name": "kriss-b/llm-iso27001",
+    "stars": 36,
+    "updated_at": "2026-08-30T20:11:58Z",
+    "url": "https://github.com/kriss-b/llm-iso27001"
+  },
+  {
+    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
+    "id": "watchcat/scout",
+    "language": "Rust",
+    "name": "watchcat/scout",
+    "stars": 0,
+    "updated_at": "2026-08-30T20:10:18Z",
+    "url": "https://github.com/watchcat/scout"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-08-30T20:10:11Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Assistente Virtual Localhosted",
+    "id": "HercoZauZau/Baghdad",
     "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 2,
-    "updated_at": "2026-08-30T19:57:53Z",
-    "url": "https://github.com/sydches/yuj"
+    "name": "HercoZauZau/Baghdad",
+    "stars": 1,
+    "updated_at": "2026-08-30T20:08:22Z",
+    "url": "https://github.com/HercoZauZau/Baghdad"
   },
   {
     "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
@@ -14,8 +41,17 @@
     "language": "Go",
     "name": "mnemon-dev/mnemon",
     "stars": 540,
-    "updated_at": "2026-08-30T19:59:16Z",
+    "updated_at": "2026-08-30T20:10:36Z",
     "url": "https://github.com/mnemon-dev/mnemon"
+  },
+  {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 2,
+    "updated_at": "2026-08-30T20:03:23Z",
+    "url": "https://github.com/sydches/yuj"
   },
   {
     "description": "Multi-agent job discovery, independent LLM judging, read-only application-form drafting, and local Excel tracking for Co",
@@ -32,8 +68,17 @@
     "language": "Shell",
     "name": "bigduu/Zenith",
     "stars": 5,
-    "updated_at": "2026-08-30T19:51:29Z",
+    "updated_at": "2026-08-30T20:06:51Z",
     "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "Local-first AI client and agent runtime. Provider-neutral (Ollama, LM Studio, Lemonade, OpenAI, Anthropic, xAI), sandbox",
+    "id": "kawaiipantsu/boop",
+    "language": "Go",
+    "name": "kawaiipantsu/boop",
+    "stars": 0,
+    "updated_at": "2026-08-30T19:51:03Z",
+    "url": "https://github.com/kawaiipantsu/boop"
   },
   {
     "description": "Easy-to-use, easy-to-customize, and high-quality secure code review skills for AI agents.",
@@ -365,7 +410,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-08-30T19:53:50Z",
+    "updated_at": "2026-08-30T20:11:15Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -396,24 +441,6 @@
     "url": "https://github.com/bigduu/Nova"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-08-30T18:17:44Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "Assistente Virtual Localhosted",
-    "id": "HercoZauZau/Baghdad",
-    "language": "Python",
-    "name": "HercoZauZau/Baghdad",
-    "stars": 1,
-    "updated_at": "2026-08-30T18:17:21Z",
-    "url": "https://github.com/HercoZauZau/Baghdad"
-  },
-  {
     "description": "Cross-agent plugin for manually excluding and editing AI conversation context, with search, filtering, hide/restore, und",
     "id": "jermaine123123/agent-context-editor",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 33,
     "updated_at": "2026-08-30T18:16:30Z",
     "url": "https://github.com/jermaine123123/agent-context-editor"
-  },
-  {
-    "description": "The living React + Vite interface for Bamboo agents: streams reasoning, tool calls, and task progress over WebSocket, wi",
-    "id": "bigduu/Lotus",
-    "language": "TypeScript",
-    "name": "bigduu/Lotus",
-    "stars": 3,
-    "updated_at": "2026-08-30T18:05:13Z",
-    "url": "https://github.com/bigduu/Lotus"
-  },
-  {
-    "description": "AI SKILL.md files",
-    "id": "fernandotellado/ai-skills",
-    "language": "\u2014",
-    "name": "fernandotellado/ai-skills",
-    "stars": 39,
-    "updated_at": "2026-08-30T18:04:00Z",
-    "url": "https://github.com/fernandotellado/ai-skills"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 128,
-    "updated_at": "2026-08-30T17:54:22Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   }
 ]
