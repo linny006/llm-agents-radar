@@ -1,5 +1,50 @@
 [
   {
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
+    "language": "Python",
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-08-30T01:28:16Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "RETECO: A SemEval-2027 Shared Task on Reasoning-Oriented Retrieval",
+    "id": "DataScienceUIBK/RETECO",
+    "language": "Python",
+    "name": "DataScienceUIBK/RETECO",
+    "stars": 1,
+    "updated_at": "2026-08-30T01:27:10Z",
+    "url": "https://github.com/DataScienceUIBK/RETECO"
+  },
+  {
+    "description": "Persistent plastic memory for coding agents (Claude Code, OpenCode, Prime Agent) via MCP. One-command install.",
+    "id": "alexenti-code/matryoshka-mmi",
+    "language": "Python",
+    "name": "alexenti-code/matryoshka-mmi",
+    "stars": 0,
+    "updated_at": "2026-08-30T01:20:06Z",
+    "url": "https://github.com/alexenti-code/matryoshka-mmi"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-30T01:19:38Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 32,
+    "updated_at": "2026-08-30T01:15:27Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
     "id": "kangkukjin/indiebizOS",
     "language": "Python",
@@ -16,15 +61,6 @@
     "stars": 16,
     "updated_at": "2026-08-30T01:12:39Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Persistent plastic memory for coding agents (Claude Code, OpenCode, Prime Agent) via MCP. One-command install.",
-    "id": "alexenti-code/matryoshka-mmi",
-    "language": "Python",
-    "name": "alexenti-code/matryoshka-mmi",
-    "stars": 0,
-    "updated_at": "2026-08-30T01:12:18Z",
-    "url": "https://github.com/alexenti-code/matryoshka-mmi"
   },
   {
     "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
@@ -144,15 +180,6 @@
     "url": "https://github.com/sohaibsohail98/mcp-context-inspector"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-29T23:18:26Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Evaluation harness for LLM browser agents \u2014 real Chromium tasks, DOM-based verifiers, step-level tracing, multi-provider",
     "id": "Ilyat9/Agentalyze",
     "language": "Python",
@@ -169,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T23:10:02Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 32,
-    "updated_at": "2026-08-30T01:11:06Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-29T21:20:37Z",
     "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
-    "id": "WP2-Danikusuma/AgentX",
-    "language": "HTML",
-    "name": "WP2-Danikusuma/AgentX",
-    "stars": 2,
-    "updated_at": "2026-08-29T21:20:03Z",
-    "url": "https://github.com/WP2-Danikusuma/AgentX"
-  },
-  {
-    "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
-    "id": "mark-weeks/hello-nested-worlds-adventure",
-    "language": "Python",
-    "name": "mark-weeks/hello-nested-worlds-adventure",
-    "stars": 5,
-    "updated_at": "2026-08-29T22:04:54Z",
-    "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
   }
 ]
