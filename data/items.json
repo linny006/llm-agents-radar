@@ -1,5 +1,41 @@
 [
   {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 27,
+    "updated_at": "2026-08-30T08:13:39Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 2,
+    "updated_at": "2026-08-30T08:08:43Z",
+    "url": "https://github.com/sydches/yuj"
+  },
+  {
+    "description": "TaskWizard\uff1a\u8584\u73af\uff08thin-loop\uff09LLM \u5b89\u5353\u624b\u673a\u667a\u80fd\u4f53 \u2014 \u6bcf\u6b65\u4e00\u6b21\u6a21\u578b\u8c03\u7528\u3001marks-first \u843d\u5730\u3001\u5b89\u5168\u9884\u8b66\u5236\u3001App-KB \u81ea\u79ef\u7d2f\u8bb0\u5fc6\u3001\u7ecf\u9a8c\u56de\u60f3\uff08RAG shadow\uff09\u3002Thin-loop LLM Android ",
+    "id": "tom-cat-mao/TaskWizard",
+    "language": "Python",
+    "name": "tom-cat-mao/TaskWizard",
+    "stars": 0,
+    "updated_at": "2026-08-30T08:04:25Z",
+    "url": "https://github.com/tom-cat-mao/TaskWizard"
+  },
+  {
+    "description": "Self-hosted runtime for a long-lived companion agent. Python, SQLite, any OpenAI-compatible model.",
+    "id": "qiqi-xingyi/Hearth_Friend",
+    "language": "Python",
+    "name": "qiqi-xingyi/Hearth_Friend",
+    "stars": 0,
+    "updated_at": "2026-08-30T08:02:58Z",
+    "url": "https://github.com/qiqi-xingyi/Hearth_Friend"
+  },
+  {
     "description": "An agent is a prompt, a model and a list of tools; a tool is an async function with a decorator. No graphs, no DSLs, no ",
     "id": "islavutin-oss/agentino",
     "language": "Python",
@@ -16,15 +52,6 @@
     "stars": 3,
     "updated_at": "2026-08-30T07:57:20Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 27,
-    "updated_at": "2026-08-30T07:52:36Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -45,15 +72,6 @@
     "url": "https://github.com/wan9yu/cli-agent-runner"
   },
   {
-    "description": "Self-hosted runtime for a long-lived companion agent. Python, SQLite, any OpenAI-compatible model.",
-    "id": "qiqi-xingyi/Hearth_Friend",
-    "language": "Python",
-    "name": "qiqi-xingyi/Hearth_Friend",
-    "stars": 0,
-    "updated_at": "2026-08-30T07:47:23Z",
-    "url": "https://github.com/qiqi-xingyi/Hearth_Friend"
-  },
-  {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
     "id": "kangkukjin/indiebizOS",
     "language": "Python",
@@ -61,15 +79,6 @@
     "stars": 4,
     "updated_at": "2026-08-30T07:42:10Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "TaskWizard\uff1a\u8584\u73af\uff08thin-loop\uff09LLM \u5b89\u5353\u624b\u673a\u667a\u80fd\u4f53 \u2014 \u6bcf\u6b65\u4e00\u6b21\u6a21\u578b\u8c03\u7528\u3001marks-first \u843d\u5730\u3001\u5b89\u5168\u9884\u8b66\u5236\u3001App-KB \u81ea\u79ef\u7d2f\u8bb0\u5fc6\u3001\u7ecf\u9a8c\u56de\u60f3\uff08RAG shadow\uff09\u3002Thin-loop LLM Android ",
-    "id": "tom-cat-mao/TaskWizard",
-    "language": "Python",
-    "name": "tom-cat-mao/TaskWizard",
-    "stars": 0,
-    "updated_at": "2026-08-30T07:41:55Z",
-    "url": "https://github.com/tom-cat-mao/TaskWizard"
   },
   {
     "description": "SRE Agent - CNCF Sandbox Project",
@@ -239,7 +248,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 16,
-    "updated_at": "2026-08-30T07:32:05Z",
+    "updated_at": "2026-08-30T08:02:44Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -247,7 +256,7 @@
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 206,
+    "stars": 207,
     "updated_at": "2026-08-30T06:01:50Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
@@ -274,7 +283,7 @@
     "id": "Mr-remon219/pi-search-boost",
     "language": "TypeScript",
     "name": "Mr-remon219/pi-search-boost",
-    "stars": 6,
+    "stars": 7,
     "updated_at": "2026-08-30T05:26:00Z",
     "url": "https://github.com/Mr-remon219/pi-search-boost"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-30T04:42:26Z",
     "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-08-30T04:41:06Z",
-    "url": "https://github.com/mriazi1982/octopai"
   }
 ]
