@@ -1,12 +1,75 @@
 [
   {
+    "description": "Local-first, self-hosted AI agent runtime with MCP tools, sandboxed sessions, memory, credentials, audit/replay, and a l",
+    "id": "sandbaseai/sandbase-harness",
+    "language": "TypeScript",
+    "name": "sandbaseai/sandbase-harness",
+    "stars": 638,
+    "updated_at": "2026-08-30T17:58:03Z",
+    "url": "https://github.com/sandbaseai/sandbase-harness"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 128,
+    "updated_at": "2026-08-30T17:54:22Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
     "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
     "stars": 1,
-    "updated_at": "2026-08-30T17:43:06Z",
+    "updated_at": "2026-08-30T17:52:41Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "Autonomous AI engineer on the Databricks AI runtime \u2014 reads papers, ingests Unity Catalog datasets, runs Mosaic AI jobs,",
+    "id": "Praneeth16/databricks-ai-intern",
+    "language": "Python",
+    "name": "Praneeth16/databricks-ai-intern",
+    "stars": 0,
+    "updated_at": "2026-08-30T17:50:21Z",
+    "url": "https://github.com/Praneeth16/databricks-ai-intern"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-08-30T17:51:29Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 28,
+    "updated_at": "2026-08-30T17:46:47Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Cross-agent plugin for manually excluding and editing AI conversation context, with search, filtering, hide/restore, und",
+    "id": "jermaine123123/agent-context-editor",
+    "language": "TypeScript",
+    "name": "jermaine123123/agent-context-editor",
+    "stars": 32,
+    "updated_at": "2026-08-30T17:46:11Z",
+    "url": "https://github.com/jermaine123123/agent-context-editor"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-08-30T17:45:49Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -25,33 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T17:35:55Z",
     "url": "https://github.com/mehboobali98/job-search-agent"
-  },
-  {
-    "description": "Local-first, self-hosted AI agent runtime with MCP tools, sandboxed sessions, memory, credentials, audit/replay, and a l",
-    "id": "sandbaseai/sandbase-harness",
-    "language": "TypeScript",
-    "name": "sandbaseai/sandbase-harness",
-    "stars": 638,
-    "updated_at": "2026-08-30T17:45:01Z",
-    "url": "https://github.com/sandbaseai/sandbase-harness"
-  },
-  {
-    "description": "Cross-agent plugin for manually excluding and editing AI conversation context, with search, filtering, hide/restore, und",
-    "id": "jermaine123123/agent-context-editor",
-    "language": "TypeScript",
-    "name": "jermaine123123/agent-context-editor",
-    "stars": 32,
-    "updated_at": "2026-08-30T17:34:30Z",
-    "url": "https://github.com/jermaine123123/agent-context-editor"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-08-30T17:34:22Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
@@ -133,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-08-30T17:16:35Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 28,
-    "updated_at": "2026-08-30T17:14:09Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "\u300a\u4f01\u4e1a\u7ea7 Agent \u4ece\u5165\u95e8\u5230\u4e13\u5bb6\uff082026\u7248\uff09\u300b\u2014\u2014\u4ece\u5355 Agent \u6838\u5fc3\u673a\u5236\u5230\u591a Agent \u4e0e\u4f01\u4e1a\u843d\u5730\u7684\u5de5\u7a0b\u5316\u5b9e\u6218\u6559\u7a0b\uff0c\u914d\u5957\u53ef\u8fd0\u884c\u8d2f\u7a7f\u9879\u76ee\u4e0e CI \u9a8c\u8bc1\u95e8\u7981\u3002",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-30T14:25:47Z",
     "url": "https://github.com/T-80BVVD/kiri"
-  },
-  {
-    "description": "Fast, thread-safe, and persistent vector database engine implemented in Go.",
-    "id": "prism0-go/AgentVec",
-    "language": "Go",
-    "name": "prism0-go/AgentVec",
-    "stars": 0,
-    "updated_at": "2026-08-30T14:21:57Z",
-    "url": "https://github.com/prism0-go/AgentVec"
-  },
-  {
-    "description": "\u900f\u660e\u53ef\u5ba1\u8ba1\u7684\u672c\u5730\u667a\u80fd\u4f53\u7ec8\u7aef\uff1a\u5bf9\u5f00\u6e90 agent \u6846\u67b6\u505a\u5b89\u5168\u5ba1\u8ba1\u4e0e\u52a0\u56fa\uff08RCE/\u6c99\u76d2\u7ed5\u8fc7/\u6ce8\u5165\uff09\uff0c\u5e76\u4ee5 50 \u6761\u6ce8\u5165\u57fa\u51c6 \u00d7 37 \u6761\u80fd\u529b\u57fa\u51c6\u53cc\u7ef4\u5ea6\u91cf\u5b89\u5168\u8fb9\u754c",
-    "id": "Canyon-Li/AuditronClaw",
-    "language": "Python",
-    "name": "Canyon-Li/AuditronClaw",
-    "stars": 2,
-    "updated_at": "2026-08-30T14:18:26Z",
-    "url": "https://github.com/Canyon-Li/AuditronClaw"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-08-30T17:39:54Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   }
 ]
