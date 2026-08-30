@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-30 23:00 UTC
+> ⏰ Last updated: 2026-08-30 23:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,36 +42,36 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [555cute/r20-quantum-trader](https://github.com/555cute/r20-quantum-trader) | 6 | Python | 2026-08-30 | ⚡ LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI  |
-| 2 | [d3stiny-io/aulthium](https://github.com/d3stiny-io/aulthium) | 5 | Shell | 2026-08-30 | Run Aulthium AI Agent instantly in Termux, Linux, or any terminal with a single command. |
-| 3 | [ulysseLeclanche/EDAM_ground_truth](https://github.com/ulysseLeclanche/EDAM_ground_truth) | 0 | Jupyter Notebook | 2026-08-30 | Ground truth dataset of bioinformatics software, including 44 analyzed tools. The annotations are compared with those in |
-| 4 | [genaforvena/lte-workstation](https://github.com/genaforvena/lte-workstation) | 8 | Shell | 2026-08-30 | An autopoiesic kefir for computing machines |
-| 5 | [watchcat/scout](https://github.com/watchcat/scout) | 0 | Rust | 2026-08-30 | A Telegram shopping researcher that verifies prices and links instead of inventing them |
-| 6 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 5 | Swift | 2026-08-30 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
-| 7 | [aviskaar/zorp](https://github.com/aviskaar/zorp) | 3 | Rust | 2026-08-30 | A research agent for scientific discovery — part of Aviskaar's applied AI research suite. |
-| 8 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 16 | Rust | 2026-08-30 | Bamboo — a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule |
-| 9 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-30 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 10 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 5 | Shell | 2026-08-30 | Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use,  |
-| 11 | [sydches/yuj](https://github.com/sydches/yuj) | 2 | Python | 2026-08-30 | Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L |
-| 12 | [mark-weeks/hello-nested-worlds-adventure](https://github.com/mark-weeks/hello-nested-worlds-adventure) | 5 | Python | 2026-08-30 | Enfolded: Nested World Adventure — a shared persistent multiverse where humans and AI agents traverse nested scales of r |
-| 13 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 28 | JavaScript | 2026-08-30 | Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies  |
-| 14 | [TJR181/Cruiser-Agent](https://github.com/TJR181/Cruiser-Agent) | 4 | Python | 2026-08-30 | 面向 CTF 竞赛评测平台（TSec Benchmark）的自动化 Web/逻辑漏洞挖掘与利用 Agent：分层调度 + 多会话并发 + 跨会话共享黑板 + 平台权威校验 |
-| 15 | [Lethe044/hermes-incident-commander](https://github.com/Lethe044/hermes-incident-commander) | 68 | Python | 2026-08-30 | Autonomous SRE agent that detects, diagnoses, and self-heals production incidents - with a standalone watchdog that need |
-| 16 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-30 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 17 | [node9-ai/node9-proxy](https://github.com/node9-ai/node9-proxy) | 209 | TypeScript | 2026-08-30 | The Execution Security Layer for the Agentic Era. Providing deterministic "Sudo" governance and audit logs for autonomou |
-| 18 | [kriss-b/llm-iso27001](https://github.com/kriss-b/llm-iso27001) | 36 | — | 2026-08-30 | ISO 27001 (+42001 + NIS2) ISMS framework designed to be instantiated and maintained by LLM Agents |
-| 19 | [NicoGenti/opencode-orchestrator-kit](https://github.com/NicoGenti/opencode-orchestrator-kit) | 5 | TypeScript | 2026-08-30 | Cost-aware multi-agent orchestrator kit for OpenCode CLI — one routing agent, 14 specialized subagents, zero application |
-| 20 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-30 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 21 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 125 | HTML | 2026-08-30 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 22 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-30 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 23 | [harthurhenrique/invest-assistant-llm](https://github.com/harthurhenrique/invest-assistant-llm) | 0 | Jupyter Notebook | 2026-08-30 | MVP of an LLM-based investment assistant with RAG |
-| 24 | [Cyrax321/CONTINUUM](https://github.com/Cyrax321/CONTINUUM) | 28 | Python | 2026-08-30 | CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id |
-| 25 | [alexenti-code/matryoshka-mmi](https://github.com/alexenti-code/matryoshka-mmi) | 0 | Python | 2026-08-30 | Persistent plastic memory for coding agents (Claude Code, OpenCode, Prime Agent) via MCP. One-command install. |
-| 26 | [itpartypattaya/hermes-dashboard](https://github.com/itpartypattaya/hermes-dashboard) | 4 | Python | 2026-08-30 | Static system dashboard for a Hermes Agent installation: host status, security, model routing, honest cost, memory, cron |
-| 27 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 128 | HTML | 2026-08-30 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 28 | [ivan-sincek/threat-modeling-agent-skills](https://github.com/ivan-sincek/threat-modeling-agent-skills) | 2 | — | 2026-08-30 | Easy-to-use, easy-to-customize, and high-quality threat modeling skills for AI agents. |
-| 29 | [ivan-sincek/secure-code-review-agent-skills](https://github.com/ivan-sincek/secure-code-review-agent-skills) | 0 | — | 2026-08-30 | Easy-to-use, easy-to-customize, and high-quality secure code review skills for AI agents. |
-| 30 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-30 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 1 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-30 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
+| 2 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 128 | HTML | 2026-08-30 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 3 | [mark-weeks/hello-nested-worlds-adventure](https://github.com/mark-weeks/hello-nested-worlds-adventure) | 5 | Python | 2026-08-30 | Enfolded: Nested World Adventure — a shared persistent multiverse where humans and AI agents traverse nested scales of r |
+| 4 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 5 | Swift | 2026-08-30 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
+| 5 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-30 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 6 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 16 | Rust | 2026-08-30 | Bamboo — a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule |
+| 7 | [555cute/r20-quantum-trader](https://github.com/555cute/r20-quantum-trader) | 6 | Python | 2026-08-30 | ⚡ LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI  |
+| 8 | [d3stiny-io/aulthium](https://github.com/d3stiny-io/aulthium) | 5 | Shell | 2026-08-30 | Run Aulthium AI Agent instantly in Termux, Linux, or any terminal with a single command. |
+| 9 | [ulysseLeclanche/EDAM_ground_truth](https://github.com/ulysseLeclanche/EDAM_ground_truth) | 0 | Jupyter Notebook | 2026-08-30 | Ground truth dataset of bioinformatics software, including 44 analyzed tools. The annotations are compared with those in |
+| 10 | [genaforvena/lte-workstation](https://github.com/genaforvena/lte-workstation) | 8 | Shell | 2026-08-30 | An autopoiesic kefir for computing machines |
+| 11 | [watchcat/scout](https://github.com/watchcat/scout) | 0 | Rust | 2026-08-30 | A Telegram shopping researcher that verifies prices and links instead of inventing them |
+| 12 | [aviskaar/zorp](https://github.com/aviskaar/zorp) | 3 | Rust | 2026-08-30 | A research agent for scientific discovery — part of Aviskaar's applied AI research suite. |
+| 13 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-30 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 14 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 5 | Shell | 2026-08-30 | Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use,  |
+| 15 | [sydches/yuj](https://github.com/sydches/yuj) | 2 | Python | 2026-08-30 | Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L |
+| 16 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 28 | JavaScript | 2026-08-30 | Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies  |
+| 17 | [TJR181/Cruiser-Agent](https://github.com/TJR181/Cruiser-Agent) | 4 | Python | 2026-08-30 | 面向 CTF 竞赛评测平台（TSec Benchmark）的自动化 Web/逻辑漏洞挖掘与利用 Agent：分层调度 + 多会话并发 + 跨会话共享黑板 + 平台权威校验 |
+| 18 | [Lethe044/hermes-incident-commander](https://github.com/Lethe044/hermes-incident-commander) | 68 | Python | 2026-08-30 | Autonomous SRE agent that detects, diagnoses, and self-heals production incidents - with a standalone watchdog that need |
+| 19 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-30 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 20 | [node9-ai/node9-proxy](https://github.com/node9-ai/node9-proxy) | 209 | TypeScript | 2026-08-30 | The Execution Security Layer for the Agentic Era. Providing deterministic "Sudo" governance and audit logs for autonomou |
+| 21 | [kriss-b/llm-iso27001](https://github.com/kriss-b/llm-iso27001) | 36 | — | 2026-08-30 | ISO 27001 (+42001 + NIS2) ISMS framework designed to be instantiated and maintained by LLM Agents |
+| 22 | [NicoGenti/opencode-orchestrator-kit](https://github.com/NicoGenti/opencode-orchestrator-kit) | 5 | TypeScript | 2026-08-30 | Cost-aware multi-agent orchestrator kit for OpenCode CLI — one routing agent, 14 specialized subagents, zero application |
+| 23 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 125 | HTML | 2026-08-30 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 24 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-30 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 25 | [harthurhenrique/invest-assistant-llm](https://github.com/harthurhenrique/invest-assistant-llm) | 0 | Jupyter Notebook | 2026-08-30 | MVP of an LLM-based investment assistant with RAG |
+| 26 | [Cyrax321/CONTINUUM](https://github.com/Cyrax321/CONTINUUM) | 28 | Python | 2026-08-30 | CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id |
+| 27 | [alexenti-code/matryoshka-mmi](https://github.com/alexenti-code/matryoshka-mmi) | 0 | Python | 2026-08-30 | Persistent plastic memory for coding agents (Claude Code, OpenCode, Prime Agent) via MCP. One-command install. |
+| 28 | [itpartypattaya/hermes-dashboard](https://github.com/itpartypattaya/hermes-dashboard) | 4 | Python | 2026-08-30 | Static system dashboard for a Hermes Agent installation: host status, security, model routing, honest cost, memory, cron |
+| 29 | [ivan-sincek/threat-modeling-agent-skills](https://github.com/ivan-sincek/threat-modeling-agent-skills) | 2 | — | 2026-08-30 | Easy-to-use, easy-to-customize, and high-quality threat modeling skills for AI agents. |
+| 30 | [ivan-sincek/secure-code-review-agent-skills](https://github.com/ivan-sincek/secure-code-review-agent-skills) | 0 | — | 2026-08-30 | Easy-to-use, easy-to-customize, and high-quality secure code review skills for AI agents. |
 | 31 | [dmirain/OctoForge](https://github.com/dmirain/OctoForge) | 22 | Python | 2026-08-30 | Self-hosted multi-tenant agent platform for teams: skills, knowledge, API contracts and MCP servers live in the database |
 | 32 | [HercoZauZau/Baghdad](https://github.com/HercoZauZau/Baghdad) | 1 | Python | 2026-08-30 | Assistente Virtual Localhosted |
 | 33 | [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) | 540 | Go | 2026-08-30 | LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with  |
