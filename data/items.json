@@ -1,12 +1,12 @@
 [
   {
-    "description": "Autonomous AI agent & benchmarking CLI for Claude Code and Cursor. Build, validate, and ship research hypotheses repos \u2014",
-    "id": "forger-labs-hq/researchforge",
-    "language": "Python",
-    "name": "forger-labs-hq/researchforge",
-    "stars": 6,
-    "updated_at": "2026-08-30T08:45:11Z",
-    "url": "https://github.com/forger-labs-hq/researchforge"
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 0,
+    "updated_at": "2026-08-30T08:52:25Z",
+    "url": "https://github.com/ljedrz/nachalnik"
   },
   {
     "description": "\u8bc1\u636e\u7ea6\u675f\u7684\u4ee3\u7801\u8bca\u65ad\u5de5\u4f5c\u53f0\uff1a\u786e\u5b9a\u6027\u9759\u6001\u5206\u6790\u62e5\u6709\u6e90\u7801\u4e8b\u5b9e\uff0cLLM \u53ea\u63d0\u5047\u8bbe\uff0cresolver/validator \u51b3\u5b9a\u80fd\u5426\u7ed1\u5b9a\u56de\u771f\u5b9e\u64cd\u4f5c\u2014\u2014\u8bc1\u636e\u4e0d\u8db3\u4fdd\u6301 unknown/abstained\uff0c\u4ece\u67b6\u6784\u6291\u5236\u5e7b\u89c9\u3002\u5df2\u5728\u771f\u5b9e\u5f00\u6e90\u9879\u76ee\u53d1\u73b0 bug\uff08stun",
@@ -14,8 +14,26 @@
     "language": "Python",
     "name": "xianyu-sheng/SmartBench",
     "stars": 1,
-    "updated_at": "2026-08-30T08:43:20Z",
+    "updated_at": "2026-08-30T08:52:03Z",
     "url": "https://github.com/xianyu-sheng/SmartBench"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4403,
+    "updated_at": "2026-08-30T08:51:53Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Autonomous AI agent & benchmarking CLI for Claude Code and Cursor. Build, validate, and ship research hypotheses repos \u2014",
+    "id": "forger-labs-hq/researchforge",
+    "language": "Python",
+    "name": "forger-labs-hq/researchforge",
+    "stars": 6,
+    "updated_at": "2026-08-30T08:45:11Z",
+    "url": "https://github.com/forger-labs-hq/researchforge"
   },
   {
     "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
@@ -43,15 +61,6 @@
     "stars": 259,
     "updated_at": "2026-08-30T08:34:06Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4403,
-    "updated_at": "2026-08-30T08:30:27Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "",
@@ -185,7 +194,7 @@
     "language": "Python",
     "name": "Canyon-Li/AuditronClaw",
     "stars": 2,
-    "updated_at": "2026-08-30T07:18:32Z",
+    "updated_at": "2026-08-30T08:58:41Z",
     "url": "https://github.com/Canyon-Li/AuditronClaw"
   },
   {
@@ -266,17 +275,8 @@
     "language": "TypeScript",
     "name": "wxxb789/dsh-raven-research",
     "stars": 2,
-    "updated_at": "2026-08-30T06:43:51Z",
+    "updated_at": "2026-08-30T08:48:59Z",
     "url": "https://github.com/wxxb789/dsh-raven-research"
-  },
-  {
-    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
-    "id": "ljedrz/nachalnik",
-    "language": "Rust",
-    "name": "ljedrz/nachalnik",
-    "stars": 0,
-    "updated_at": "2026-08-30T06:32:14Z",
-    "url": "https://github.com/ljedrz/nachalnik"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
