@@ -1,5 +1,50 @@
 [
   {
+    "description": "Self-evolving pain memory for AI agents: detect tool-call failures, match past pain via local embedding, inject behavior",
+    "id": "DanDingBenShao/pain-memory",
+    "language": "Python",
+    "name": "DanDingBenShao/pain-memory",
+    "stars": 0,
+    "updated_at": "2026-08-30T09:43:55Z",
+    "url": "https://github.com/DanDingBenShao/pain-memory"
+  },
+  {
+    "description": "AI-driven Abaqus workbench: describe a model in a spec, get a real solved one back. Every capability is backed by a chec",
+    "id": "Tomsabay/abaqus_agent",
+    "language": "Python",
+    "name": "Tomsabay/abaqus_agent",
+    "stars": 21,
+    "updated_at": "2026-08-30T09:40:10Z",
+    "url": "https://github.com/Tomsabay/abaqus_agent"
+  },
+  {
+    "description": "A local-first personal AI agent with a living memory: remembers you, uses your computer, and builds automations you can ",
+    "id": "fatihkutuk/neo",
+    "language": "Python",
+    "name": "fatihkutuk/neo",
+    "stars": 2,
+    "updated_at": "2026-08-30T09:40:04Z",
+    "url": "https://github.com/fatihkutuk/neo"
+  },
+  {
+    "description": "Self-hosted multi-tenant agent platform for teams: skills, knowledge, API contracts and MCP servers live in the database",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 22,
+    "updated_at": "2026-08-30T09:36:59Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "ICCAD 2026 CAD Contest Problem A. Natural-language netlist exploration where the LLM routes and a deterministic EDA engi",
+    "id": "zcgilbert/iccad-2026-llm-netlist-agent",
+    "language": "Python",
+    "name": "zcgilbert/iccad-2026-llm-netlist-agent",
+    "stars": 0,
+    "updated_at": "2026-08-30T09:35:49Z",
+    "url": "https://github.com/zcgilbert/iccad-2026-llm-netlist-agent"
+  },
+  {
     "description": "Self-hosted AI agent living inside Zalo (personal account). Multi-account, 15 tools + external MCP servers, web dashboar",
     "id": "vuhai2002/zalo-agent",
     "language": "TypeScript",
@@ -7,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T09:29:24Z",
     "url": "https://github.com/vuhai2002/zalo-agent"
-  },
-  {
-    "description": "ICCAD 2026 CAD Contest Problem A. Natural-language netlist exploration where the LLM routes and a deterministic EDA engi",
-    "id": "zcgilbert/iccad-2026-llm-netlist-agent",
-    "language": "Verilog",
-    "name": "zcgilbert/iccad-2026-llm-netlist-agent",
-    "stars": 0,
-    "updated_at": "2026-08-30T09:28:30Z",
-    "url": "https://github.com/zcgilbert/iccad-2026-llm-netlist-agent"
   },
   {
     "description": "Assessment-driven, local-first learning agent built on an observable Agent Runtime and eval harness\u2014grounded ingestion, ",
@@ -194,7 +230,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-30T09:11:22Z",
+    "updated_at": "2026-08-30T09:31:22Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -286,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T06:57:18Z",
     "url": "https://github.com/ThomasSchmiegelt/ema-motor-analysis"
-  },
-  {
-    "description": "Self-hosted multi-tenant agent platform for teams: skills, knowledge, API contracts and MCP servers live in the database",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 22,
-    "updated_at": "2026-08-30T06:49:59Z",
-    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-30T05:31:57Z",
     "url": "https://github.com/yo4e/sudachi-life"
-  },
-  {
-    "description": "Two MIT patches for Nous Research Hermes: stop busy-queue messages merging into one jumbled turn, and optionally run sel",
-    "id": "EauDoon/hermes-parallel-followups",
-    "language": "Python",
-    "name": "EauDoon/hermes-parallel-followups",
-    "stars": 0,
-    "updated_at": "2026-08-30T04:57:44Z",
-    "url": "https://github.com/EauDoon/hermes-parallel-followups"
-  },
-  {
-    "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
-    "id": "brittewestafrican981/ComfyUI-YinChao",
-    "language": "Python",
-    "name": "brittewestafrican981/ComfyUI-YinChao",
-    "stars": 0,
-    "updated_at": "2026-08-30T04:56:27Z",
-    "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
-  },
-  {
-    "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
-    "id": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
-    "language": "Python",
-    "name": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
-    "stars": 4,
-    "updated_at": "2026-08-30T04:55:22Z",
-    "url": "https://github.com/mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo"
   }
 ]
