@@ -5,8 +5,26 @@
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 8,
-    "updated_at": "2026-08-30T22:21:41Z",
+    "updated_at": "2026-08-30T22:38:00Z",
     "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
+    "id": "watchcat/scout",
+    "language": "Rust",
+    "name": "watchcat/scout",
+    "stars": 0,
+    "updated_at": "2026-08-30T22:37:38Z",
+    "url": "https://github.com/watchcat/scout"
+  },
+  {
+    "description": "Ground truth dataset of bioinformatics software, including 44 analyzed tools. The annotations are compared with those in",
+    "id": "ulysseLeclanche/EDAM_ground_truth",
+    "language": "Jupyter Notebook",
+    "name": "ulysseLeclanche/EDAM_ground_truth",
+    "stars": 0,
+    "updated_at": "2026-08-30T22:32:10Z",
+    "url": "https://github.com/ulysseLeclanche/EDAM_ground_truth"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -32,7 +50,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 16,
-    "updated_at": "2026-08-30T22:02:40Z",
+    "updated_at": "2026-08-30T22:37:21Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -61,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-08-30T21:57:32Z",
     "url": "https://github.com/sydches/yuj"
-  },
-  {
-    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
-    "id": "watchcat/scout",
-    "language": "Rust",
-    "name": "watchcat/scout",
-    "stars": 0,
-    "updated_at": "2026-08-30T21:56:44Z",
-    "url": "https://github.com/watchcat/scout"
   },
   {
     "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-30T19:21:21Z",
     "url": "https://github.com/sunnnn2005/data-quality-agent"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-08-30T19:20:39Z",
-    "url": "https://github.com/heba-ramdan/harness"
   }
 ]
