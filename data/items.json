@@ -1,5 +1,32 @@
 [
   {
+    "description": "Self-hosted runtime for a long-lived companion agent. Python, SQLite, any OpenAI-compatible model.",
+    "id": "qiqi-xingyi/Hearth_Friend",
+    "language": "Python",
+    "name": "qiqi-xingyi/Hearth_Friend",
+    "stars": 0,
+    "updated_at": "2026-08-30T03:59:12Z",
+    "url": "https://github.com/qiqi-xingyi/Hearth_Friend"
+  },
+  {
+    "description": "Agent-agnostic skill: turn 1 idea into a full production repo. 5 roles x 5 gates x progress memory, auto fallback across",
+    "id": "ivercurry99/everyone-can-projects",
+    "language": "Python",
+    "name": "ivercurry99/everyone-can-projects",
+    "stars": 0,
+    "updated_at": "2026-08-30T03:58:08Z",
+    "url": "https://github.com/ivercurry99/everyone-can-projects"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-08-30T03:51:08Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
     "description": "Fix context rot & pollution in long AI agent sessions. Subagents run in isolated processes \u2014 main agent stays read-only.",
     "id": "Wolido/async-subagent-isolation",
     "language": "TypeScript",
@@ -36,15 +63,6 @@
     "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-08-30T03:33:04Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "A self-sustaining AI companion core \u2014 continuous stream of consciousness, autonomous agent, layered memory.",
     "id": "T-80BVVD/kiri",
     "language": "Python",
@@ -61,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-08-30T03:26:56Z",
     "url": "https://github.com/eobi/nemesisforge"
-  },
-  {
-    "description": "Self-hosted runtime for a long-lived companion agent. Python, SQLite, any OpenAI-compatible model.",
-    "id": "qiqi-xingyi/Hearth_Friend",
-    "language": "Python",
-    "name": "qiqi-xingyi/Hearth_Friend",
-    "stars": 0,
-    "updated_at": "2026-08-30T03:26:29Z",
-    "url": "https://github.com/qiqi-xingyi/Hearth_Friend"
   },
   {
     "description": "Thin-loop LLM Android phone agent: one model call per step, marks-first grounding, safety warning flow, self-accumulatin",
@@ -439,14 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-29T21:54:44Z",
     "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
-  },
-  {
-    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
-    "id": "oxidizable-malinois605/bridge-suite-mcp",
-    "language": "TypeScript",
-    "name": "oxidizable-malinois605/bridge-suite-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-29T21:52:51Z",
-    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
   }
 ]
