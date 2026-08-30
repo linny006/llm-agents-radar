@@ -1,5 +1,50 @@
 [
   {
+    "description": "Local-first, self-hosted AI agent runtime with MCP tools, sandboxed sessions, memory, credentials, audit/replay, and a l",
+    "id": "sandbaseai/sandbase-harness",
+    "language": "TypeScript",
+    "name": "sandbaseai/sandbase-harness",
+    "stars": 638,
+    "updated_at": "2026-08-30T18:44:09Z",
+    "url": "https://github.com/sandbaseai/sandbase-harness"
+  },
+  {
+    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 28,
+    "updated_at": "2026-08-30T18:43:14Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4403,
+    "updated_at": "2026-08-30T18:44:24Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 28,
+    "updated_at": "2026-08-30T18:40:39Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 540,
+    "updated_at": "2026-08-30T18:38:02Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
+  },
+  {
     "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
@@ -9,21 +54,12 @@
     "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
-    "description": "Local-first, self-hosted AI agent runtime with MCP tools, sandboxed sessions, memory, credentials, audit/replay, and a l",
-    "id": "sandbaseai/sandbase-harness",
-    "language": "TypeScript",
-    "name": "sandbaseai/sandbase-harness",
-    "stars": 638,
-    "updated_at": "2026-08-30T18:29:09Z",
-    "url": "https://github.com/sandbaseai/sandbase-harness"
-  },
-  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 16,
-    "updated_at": "2026-08-30T18:29:06Z",
+    "updated_at": "2026-08-30T18:34:20Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -34,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-08-30T18:28:52Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4403,
-    "updated_at": "2026-08-30T18:28:30Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -61,15 +88,6 @@
     "stars": 70,
     "updated_at": "2026-08-30T18:23:53Z",
     "url": "https://github.com/HarryHsing/OmniAgent"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 28,
-    "updated_at": "2026-08-30T18:22:09Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "Cross-platform Rust computer-use MCP server for macOS and Windows: AX/UIA, screenshots, OCR, pointer and keyboard input,",
@@ -149,7 +167,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-30T18:04:05Z",
+    "updated_at": "2026-08-30T18:31:59Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -169,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T17:35:55Z",
     "url": "https://github.com/mehboobali98/job-search-agent"
-  },
-  {
-    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 28,
-    "updated_at": "2026-08-30T17:33:55Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
     "description": "Local-first AI client and agent runtime. Provider-neutral (Ollama, LM Studio, Lemonade, OpenAI, Anthropic, xAI), sandbox",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-30T14:53:36Z",
     "url": "https://github.com/EauDoon/hermes-parallel-followups"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 14,
-    "updated_at": "2026-08-30T14:50:59Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
   }
 ]
