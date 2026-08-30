@@ -5,8 +5,53 @@
     "language": "\u2014",
     "name": "kriss-b/llm-iso27001",
     "stars": 36,
-    "updated_at": "2026-08-30T20:11:58Z",
+    "updated_at": "2026-08-30T20:29:26Z",
     "url": "https://github.com/kriss-b/llm-iso27001"
+  },
+  {
+    "description": "Easy-to-use, easy-to-customize, and high-quality threat modeling skills for AI agents.",
+    "id": "ivan-sincek/threat-modeling-agent-skills",
+    "language": "\u2014",
+    "name": "ivan-sincek/threat-modeling-agent-skills",
+    "stars": 2,
+    "updated_at": "2026-08-30T20:25:58Z",
+    "url": "https://github.com/ivan-sincek/threat-modeling-agent-skills"
+  },
+  {
+    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 5,
+    "updated_at": "2026-08-30T20:24:46Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "Easy-to-use, easy-to-customize, and high-quality secure code review skills for AI agents.",
+    "id": "ivan-sincek/secure-code-review-agent-skills",
+    "language": "\u2014",
+    "name": "ivan-sincek/secure-code-review-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-08-30T20:27:04Z",
+    "url": "https://github.com/ivan-sincek/secure-code-review-agent-skills"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-30T20:23:20Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Self-hosted multi-tenant agent platform for teams: skills, knowledge, API contracts and MCP servers live in the database",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 22,
+    "updated_at": "2026-08-30T20:22:05Z",
+    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
@@ -63,15 +108,6 @@
     "url": "https://github.com/mehboobali98/job-search-agent"
   },
   {
-    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 5,
-    "updated_at": "2026-08-30T20:06:51Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
     "description": "Local-first AI client and agent runtime. Provider-neutral (Ollama, LM Studio, Lemonade, OpenAI, Anthropic, xAI), sandbox",
     "id": "kawaiipantsu/boop",
     "language": "Go",
@@ -79,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T19:51:03Z",
     "url": "https://github.com/kawaiipantsu/boop"
-  },
-  {
-    "description": "Easy-to-use, easy-to-customize, and high-quality secure code review skills for AI agents.",
-    "id": "ivan-sincek/secure-code-review-agent-skills",
-    "language": "\u2014",
-    "name": "ivan-sincek/secure-code-review-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-08-30T19:50:39Z",
-    "url": "https://github.com/ivan-sincek/secure-code-review-agent-skills"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -391,7 +418,7 @@
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-08-30T18:29:18Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-30T18:24:23Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "OmniAgent (ICML 2026): the first native omni-modal agent for active video perception \u2014 a 7B agent that beats Qwen2.5-VL-",
-    "id": "HarryHsing/OmniAgent",
-    "language": "Python",
-    "name": "HarryHsing/OmniAgent",
-    "stars": 70,
-    "updated_at": "2026-08-30T18:23:53Z",
-    "url": "https://github.com/HarryHsing/OmniAgent"
-  },
-  {
-    "description": "Cross-platform Rust computer-use MCP server for macOS and Windows: AX/UIA, screenshots, OCR, pointer and keyboard input,",
-    "id": "bigduu/Nova",
-    "language": "Rust",
-    "name": "bigduu/Nova",
-    "stars": 17,
-    "updated_at": "2026-08-30T18:19:21Z",
-    "url": "https://github.com/bigduu/Nova"
-  },
-  {
-    "description": "Cross-agent plugin for manually excluding and editing AI conversation context, with search, filtering, hide/restore, und",
-    "id": "jermaine123123/agent-context-editor",
-    "language": "TypeScript",
-    "name": "jermaine123123/agent-context-editor",
-    "stars": 33,
-    "updated_at": "2026-08-30T18:16:30Z",
-    "url": "https://github.com/jermaine123123/agent-context-editor"
   }
 ]
