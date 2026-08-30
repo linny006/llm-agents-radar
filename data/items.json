@@ -1,5 +1,32 @@
 [
   {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 6,
+    "updated_at": "2026-08-30T22:58:12Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "Run Aulthium AI Agent instantly in Termux, Linux, or any terminal with a single command.",
+    "id": "d3stiny-io/aulthium",
+    "language": "Shell",
+    "name": "d3stiny-io/aulthium",
+    "stars": 5,
+    "updated_at": "2026-08-30T22:54:15Z",
+    "url": "https://github.com/d3stiny-io/aulthium"
+  },
+  {
+    "description": "Ground truth dataset of bioinformatics software, including 44 analyzed tools. The annotations are compared with those in",
+    "id": "ulysseLeclanche/EDAM_ground_truth",
+    "language": "Jupyter Notebook",
+    "name": "ulysseLeclanche/EDAM_ground_truth",
+    "stars": 0,
+    "updated_at": "2026-08-30T22:53:08Z",
+    "url": "https://github.com/ulysseLeclanche/EDAM_ground_truth"
+  },
+  {
     "description": "An autopoiesic kefir for computing machines",
     "id": "genaforvena/lte-workstation",
     "language": "Shell",
@@ -16,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T22:37:38Z",
     "url": "https://github.com/watchcat/scout"
-  },
-  {
-    "description": "Ground truth dataset of bioinformatics software, including 44 analyzed tools. The annotations are compared with those in",
-    "id": "ulysseLeclanche/EDAM_ground_truth",
-    "language": "Jupyter Notebook",
-    "name": "ulysseLeclanche/EDAM_ground_truth",
-    "stars": 0,
-    "updated_at": "2026-08-30T22:32:10Z",
-    "url": "https://github.com/ulysseLeclanche/EDAM_ground_truth"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -97,15 +115,6 @@
     "stars": 28,
     "updated_at": "2026-08-30T21:39:47Z",
     "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 6,
-    "updated_at": "2026-08-30T21:36:39Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "\u9762\u5411 CTF \u7ade\u8d5b\u8bc4\u6d4b\u5e73\u53f0\uff08TSec Benchmark\uff09\u7684\u81ea\u52a8\u5316 Web/\u903b\u8f91\u6f0f\u6d1e\u6316\u6398\u4e0e\u5229\u7528 Agent\uff1a\u5206\u5c42\u8c03\u5ea6 + \u591a\u4f1a\u8bdd\u5e76\u53d1 + \u8de8\u4f1a\u8bdd\u5171\u4eab\u9ed1\u677f + \u5e73\u53f0\u6743\u5a01\u6821\u9a8c",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-30T19:22:08Z",
     "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
-    "id": "sunnnn2005/data-quality-agent",
-    "language": "Python",
-    "name": "sunnnn2005/data-quality-agent",
-    "stars": 0,
-    "updated_at": "2026-08-30T19:21:21Z",
-    "url": "https://github.com/sunnnn2005/data-quality-agent"
   }
 ]
