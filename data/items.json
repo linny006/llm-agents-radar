@@ -1,5 +1,59 @@
 [
   {
+    "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
+    "id": "ChanTso/citybuddy",
+    "language": "Java",
+    "name": "ChanTso/citybuddy",
+    "stars": 0,
+    "updated_at": "2026-08-30T10:57:04Z",
+    "url": "https://github.com/ChanTso/citybuddy"
+  },
+  {
+    "description": "A tribute to the best software in the world.",
+    "id": "markdr-hue/open-fabrica",
+    "language": "Go",
+    "name": "markdr-hue/open-fabrica",
+    "stars": 1,
+    "updated_at": "2026-08-30T10:56:33Z",
+    "url": "https://github.com/markdr-hue/open-fabrica"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-08-30T10:55:53Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Persistent plastic memory for coding agents (Claude Code, OpenCode, Prime Agent) via MCP. One-command install.",
+    "id": "alexenti-code/matryoshka-mmi",
+    "language": "Python",
+    "name": "alexenti-code/matryoshka-mmi",
+    "stars": 0,
+    "updated_at": "2026-08-30T10:51:46Z",
+    "url": "https://github.com/alexenti-code/matryoshka-mmi"
+  },
+  {
+    "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
+    "id": "EvoMap/awesome-agent-evolution",
+    "language": "JavaScript",
+    "name": "EvoMap/awesome-agent-evolution",
+    "stars": 202,
+    "updated_at": "2026-08-30T10:48:16Z",
+    "url": "https://github.com/EvoMap/awesome-agent-evolution"
+  },
+  {
+    "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
+    "id": "xhqing/DayTradingAgent",
+    "language": "Python",
+    "name": "xhqing/DayTradingAgent",
+    "stars": 2,
+    "updated_at": "2026-08-30T10:46:07Z",
+    "url": "https://github.com/xhqing/DayTradingAgent"
+  },
+  {
     "description": "Cross-session long-term memory for LLM agents \u2014 TagMemo V9.1 wave algorithm ported to DeepSeek Harness. Zero-dependency ",
     "id": "reedflame40224/vcp-memo",
     "language": "JavaScript",
@@ -266,7 +320,7 @@
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 259,
-    "updated_at": "2026-08-30T10:23:56Z",
+    "updated_at": "2026-08-30T10:50:05Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
@@ -322,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T07:58:35Z",
     "url": "https://github.com/islavutin-oss/agentino"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-08-30T10:45:17Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-30T06:59:33Z",
     "url": "https://github.com/xhqing/ExecutiveAssistantAgent"
-  },
-  {
-    "description": "An open-source agent that designs and verifies digital hardware, recording every attempt as an open dataset of Verilog d",
-    "id": "marianotorres-code/tecpatl",
-    "language": "Python",
-    "name": "marianotorres-code/tecpatl",
-    "stars": 0,
-    "updated_at": "2026-08-30T06:58:30Z",
-    "url": "https://github.com/marianotorres-code/tecpatl"
-  },
-  {
-    "description": "CAE toolchain for IPM traction motors: geometry \u2192 EM field \u2192 structural FEM \u2192 thermal \u2192 drive cycle \u2192 PDF report. Every ",
-    "id": "ThomasSchmiegelt/ema-motor-analysis",
-    "language": "Python",
-    "name": "ThomasSchmiegelt/ema-motor-analysis",
-    "stars": 0,
-    "updated_at": "2026-08-30T06:57:18Z",
-    "url": "https://github.com/ThomasSchmiegelt/ema-motor-analysis"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-30T06:49:35Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Source-grounded deep research, writing, and learning plugin for DeepSeek Harness (dsh): steerable checkpoints, mid-run s",
-    "id": "wxxb789/dsh-raven-research",
-    "language": "TypeScript",
-    "name": "wxxb789/dsh-raven-research",
-    "stars": 2,
-    "updated_at": "2026-08-30T09:10:58Z",
-    "url": "https://github.com/wxxb789/dsh-raven-research"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 125,
-    "updated_at": "2026-08-30T06:24:55Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
   }
 ]
