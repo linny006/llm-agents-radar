@@ -1,11 +1,20 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-30T12:29:43Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
     "id": "Cyrax321/CONTINUUM",
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 27,
-    "updated_at": "2026-08-30T12:14:07Z",
+    "updated_at": "2026-08-30T12:27:36Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -14,8 +23,80 @@
     "language": "Python",
     "name": "mystxcal/flourite",
     "stars": 0,
-    "updated_at": "2026-08-30T12:14:04Z",
+    "updated_at": "2026-08-30T12:27:02Z",
     "url": "https://github.com/mystxcal/flourite"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-08-30T12:23:25Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Reproducible AI4SE agent with multi-tool planning, hybrid RAG, evaluation, and PostgreSQL operations.",
+    "id": "Isoldelu/software-engineering-agent",
+    "language": "Python",
+    "name": "Isoldelu/software-engineering-agent",
+    "stars": 0,
+    "updated_at": "2026-08-30T12:23:08Z",
+    "url": "https://github.com/Isoldelu/software-engineering-agent"
+  },
+  {
+    "description": "Open-source Claude Code for academic papers \u2014 translate, write, review, and export research papers locally",
+    "id": "zuowen7/scholar-assistant-agent",
+    "language": "Python",
+    "name": "zuowen7/scholar-assistant-agent",
+    "stars": 4,
+    "updated_at": "2026-08-30T12:22:34Z",
+    "url": "https://github.com/zuowen7/scholar-assistant-agent"
+  },
+  {
+    "description": "Source-grounded deep research, writing, and learning plugin for DeepSeek Harness (dsh): steerable checkpoints, mid-run s",
+    "id": "wxxb789/dsh-raven-research",
+    "language": "TypeScript",
+    "name": "wxxb789/dsh-raven-research",
+    "stars": 2,
+    "updated_at": "2026-08-30T12:24:13Z",
+    "url": "https://github.com/wxxb789/dsh-raven-research"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-30T12:19:16Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "A self-sustaining AI companion core \u2014 continuous stream of consciousness, autonomous agent, layered memory.",
+    "id": "T-80BVVD/kiri",
+    "language": "Python",
+    "name": "T-80BVVD/kiri",
+    "stars": 1,
+    "updated_at": "2026-08-30T12:18:18Z",
+    "url": "https://github.com/T-80BVVD/kiri"
+  },
+  {
+    "description": "Capability-first CLI agent for evidence-backed power-system static analysis with pandapower.",
+    "id": "uukuguy/grid-static-analysis",
+    "language": "Python",
+    "name": "uukuguy/grid-static-analysis",
+    "stars": 0,
+    "updated_at": "2026-08-30T12:18:06Z",
+    "url": "https://github.com/uukuguy/grid-static-analysis"
+  },
+  {
+    "description": "\u8bc1\u636e\u7ea6\u675f\u7684\u4ee3\u7801\u8bca\u65ad\u5de5\u4f5c\u53f0\uff1a\u786e\u5b9a\u6027\u9759\u6001\u5206\u6790\u62e5\u6709\u6e90\u7801\u4e8b\u5b9e\uff0cLLM \u53ea\u63d0\u5047\u8bbe\uff0cresolver/validator \u51b3\u5b9a\u80fd\u5426\u7ed1\u5b9a\u56de\u771f\u5b9e\u64cd\u4f5c\u2014\u2014\u8bc1\u636e\u4e0d\u8db3\u4fdd\u6301 unknown/abstained\uff0c\u4ece\u67b6\u6784\u6291\u5236\u5e7b\u89c9\u3002\u5df2\u5728\u771f\u5b9e\u5f00\u6e90\u9879\u76ee\u53d1\u73b0 bug\uff08stun",
+    "id": "xianyu-sheng/SmartBench",
+    "language": "Python",
+    "name": "xianyu-sheng/SmartBench",
+    "stars": 1,
+    "updated_at": "2026-08-30T12:16:37Z",
+    "url": "https://github.com/xianyu-sheng/SmartBench"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -70,15 +151,6 @@
     "stars": 202,
     "updated_at": "2026-08-30T11:58:31Z",
     "url": "https://github.com/EvoMap/awesome-agent-evolution"
-  },
-  {
-    "description": "Reproducible AI4SE agent with multi-tool planning, hybrid RAG, evaluation, and PostgreSQL operations.",
-    "id": "Isoldelu/software-engineering-agent",
-    "language": "Python",
-    "name": "Isoldelu/software-engineering-agent",
-    "stars": 0,
-    "updated_at": "2026-08-30T11:58:03Z",
-    "url": "https://github.com/Isoldelu/software-engineering-agent"
   },
   {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
@@ -333,15 +405,6 @@
     "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
   },
   {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 6,
-    "updated_at": "2026-08-30T12:15:15Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
     "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
     "id": "amineeng/scraping-browser",
     "language": "\u2014",
@@ -385,68 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-30T11:08:09Z",
     "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-08-30T11:05:16Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
-    "id": "ChanTso/citybuddy",
-    "language": "Java",
-    "name": "ChanTso/citybuddy",
-    "stars": 0,
-    "updated_at": "2026-08-30T10:57:04Z",
-    "url": "https://github.com/ChanTso/citybuddy"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-08-30T12:12:16Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Persistent plastic memory for coding agents (Claude Code, OpenCode, Prime Agent) via MCP. One-command install.",
-    "id": "alexenti-code/matryoshka-mmi",
-    "language": "Python",
-    "name": "alexenti-code/matryoshka-mmi",
-    "stars": 0,
-    "updated_at": "2026-08-30T10:51:46Z",
-    "url": "https://github.com/alexenti-code/matryoshka-mmi"
-  },
-  {
-    "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
-    "id": "xhqing/DayTradingAgent",
-    "language": "Python",
-    "name": "xhqing/DayTradingAgent",
-    "stars": 2,
-    "updated_at": "2026-08-30T10:46:07Z",
-    "url": "https://github.com/xhqing/DayTradingAgent"
-  },
-  {
-    "description": "Cross-session long-term memory for LLM agents \u2014 TagMemo V9.1 wave algorithm ported to DeepSeek Harness. Zero-dependency ",
-    "id": "reedflame40224/vcp-memo",
-    "language": "JavaScript",
-    "name": "reedflame40224/vcp-memo",
-    "stars": 1,
-    "updated_at": "2026-08-30T10:41:31Z",
-    "url": "https://github.com/reedflame40224/vcp-memo"
-  },
-  {
-    "description": "OpenAI-compatible proxy enforcing SKILL.state (arXiv:2608.26263) \u2014 bounded O(1) prompts, O(T) total tokens for long-hori",
-    "id": "NosytLabs/skillstate-proxy",
-    "language": "TypeScript",
-    "name": "NosytLabs/skillstate-proxy",
-    "stars": 1,
-    "updated_at": "2026-08-30T10:39:54Z",
-    "url": "https://github.com/NosytLabs/skillstate-proxy"
   }
 ]
