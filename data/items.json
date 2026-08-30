@@ -1,12 +1,66 @@
 [
   {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 4,
+    "updated_at": "2026-08-30T09:58:03Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
     "description": "Self-evolving pain memory for AI agents: detect tool-call failures, match past pain via local embedding, inject behavior",
     "id": "DanDingBenShao/pain-memory",
     "language": "Python",
     "name": "DanDingBenShao/pain-memory",
     "stars": 0,
-    "updated_at": "2026-08-30T09:43:55Z",
+    "updated_at": "2026-08-30T09:54:51Z",
     "url": "https://github.com/DanDingBenShao/pain-memory"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 803,
+    "updated_at": "2026-08-30T09:54:51Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 27,
+    "updated_at": "2026-08-30T09:54:43Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 14,
+    "updated_at": "2026-08-30T09:50:43Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 16,
+    "updated_at": "2026-08-30T09:48:43Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 485,
+    "updated_at": "2026-08-30T09:48:06Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "AI-driven Abaqus workbench: describe a model in a spec, get a real solved one back. Every capability is backed by a chec",
@@ -23,7 +77,7 @@
     "language": "Python",
     "name": "fatihkutuk/neo",
     "stars": 2,
-    "updated_at": "2026-08-30T09:40:04Z",
+    "updated_at": "2026-08-30T09:51:01Z",
     "url": "https://github.com/fatihkutuk/neo"
   },
   {
@@ -144,15 +198,6 @@
     "url": "https://github.com/ravisinghrajput95/kubewhy"
   },
   {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 16,
-    "updated_at": "2026-08-30T09:07:16Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
     "id": "410979729/scope-recall-hermes",
     "language": "Python",
@@ -178,15 +223,6 @@
     "stars": 5,
     "updated_at": "2026-08-30T08:19:30Z",
     "url": "https://github.com/d3stiny-io/aulthium"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 27,
-    "updated_at": "2026-08-30T08:13:39Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
@@ -252,13 +288,13 @@
     "url": "https://github.com/wan9yu/cli-agent-runner"
   },
   {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
+    "description": "Harness LLMs with Multi-Agent Programming",
+    "id": "langroid/langroid",
     "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 4,
-    "updated_at": "2026-08-30T07:42:10Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
+    "name": "langroid/langroid",
+    "stars": 4100,
+    "updated_at": "2026-08-30T07:47:40Z",
+    "url": "https://github.com/langroid/langroid"
   },
   {
     "description": "SRE Agent - CNCF Sandbox Project",
@@ -364,7 +400,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 14077,
+    "stars": 14076,
     "updated_at": "2026-08-30T06:21:51Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -405,15 +441,6 @@
     "url": "https://github.com/Mr-remon219/pi-search-boost"
   },
   {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 14,
-    "updated_at": "2026-08-30T05:18:47Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-30T05:16:38Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-08-30T05:14:28Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
-  },
-  {
-    "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
-    "id": "ChanTso/citybuddy",
-    "language": "Java",
-    "name": "ChanTso/citybuddy",
-    "stars": 0,
-    "updated_at": "2026-08-30T05:13:24Z",
-    "url": "https://github.com/ChanTso/citybuddy"
-  },
-  {
-    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
-    "id": "yo4e/sudachi-life",
-    "language": "Python",
-    "name": "yo4e/sudachi-life",
-    "stars": 0,
-    "updated_at": "2026-08-30T05:31:57Z",
-    "url": "https://github.com/yo4e/sudachi-life"
   }
 ]
