@@ -1,5 +1,50 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-30T03:14:06Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
+    "id": "yo4e/sudachi-life",
+    "language": "Python",
+    "name": "yo4e/sudachi-life",
+    "stars": 0,
+    "updated_at": "2026-08-30T03:13:08Z",
+    "url": "https://github.com/yo4e/sudachi-life"
+  },
+  {
+    "description": "Self-hosted runtime for a long-lived companion agent. Python, SQLite, any OpenAI-compatible model.",
+    "id": "qiqi-xingyi/Hearth_Friend",
+    "language": "Python",
+    "name": "qiqi-xingyi/Hearth_Friend",
+    "stars": 0,
+    "updated_at": "2026-08-30T03:11:26Z",
+    "url": "https://github.com/qiqi-xingyi/Hearth_Friend"
+  },
+  {
+    "description": "Rebuild AI building blocks from scratch for learning: transformer, tokenizer, agent, RAG, vector DB. \u4ece\u96f6\u5b9e\u73b0 AI \u76f8\u5173\u7684\u5de5\u5177\u4e0e\u6846\u67b6",
+    "id": "xbsheng/ai-from-scratch",
+    "language": "Python",
+    "name": "xbsheng/ai-from-scratch",
+    "stars": 0,
+    "updated_at": "2026-08-30T03:05:32Z",
+    "url": "https://github.com/xbsheng/ai-from-scratch"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-08-30T03:04:32Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
     "description": "OpenAI-compatible proxy enforcing SKILL.state (arXiv:2608.26263) \u2014 bounded O(1) prompts, O(T) total tokens for long-hori",
     "id": "NosytLabs/skillstate-proxy",
     "language": "TypeScript",
@@ -14,7 +59,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 16,
-    "updated_at": "2026-08-30T02:56:50Z",
+    "updated_at": "2026-08-30T03:00:26Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -36,15 +81,6 @@
     "url": "https://github.com/Rekin226/Agronaut"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-08-30T02:41:07Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
     "id": "rsalmn/ExtremeRouter",
     "language": "JavaScript",
@@ -52,15 +88,6 @@
     "stars": 27,
     "updated_at": "2026-08-30T02:37:20Z",
     "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
-    "description": "Self-hosted runtime for a long-lived companion agent. Python, SQLite, any OpenAI-compatible model.",
-    "id": "qiqi-xingyi/Hearth_Friend",
-    "language": "Python",
-    "name": "qiqi-xingyi/Hearth_Friend",
-    "stars": 0,
-    "updated_at": "2026-08-30T02:29:00Z",
-    "url": "https://github.com/qiqi-xingyi/Hearth_Friend"
   },
   {
     "description": "Persistent plastic memory for coding agents (Claude Code, OpenCode, Prime Agent) via MCP. One-command install.",
@@ -229,7 +256,7 @@
     "id": "kriss-b/llm-iso27001",
     "language": "\u2014",
     "name": "kriss-b/llm-iso27001",
-    "stars": 35,
+    "stars": 36,
     "updated_at": "2026-08-30T00:43:29Z",
     "url": "https://github.com/kriss-b/llm-iso27001"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-29T21:50:28Z",
     "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-08-29T21:49:03Z",
-    "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-08-29T21:46:09Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-08-29T21:45:57Z",
-    "url": "https://github.com/Bowotria/aethercore"
   }
 ]
