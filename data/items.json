@@ -1,5 +1,14 @@
 [
   {
+    "description": "MikroTik Harness - AI Agents A tool designed to configure MikroTik hardware using the LLM Agent, add your OpenAI compati",
+    "id": "vesslina/mikrotik-harness",
+    "language": "Python",
+    "name": "vesslina/mikrotik-harness",
+    "stars": 1,
+    "updated_at": "2026-08-30T10:01:46Z",
+    "url": "https://github.com/vesslina/mikrotik-harness"
+  },
+  {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
     "id": "kangkukjin/indiebizOS",
     "language": "Python",
@@ -23,7 +32,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 803,
-    "updated_at": "2026-08-30T09:54:51Z",
+    "updated_at": "2026-08-30T10:09:51Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -58,7 +67,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 485,
+    "stars": 486,
     "updated_at": "2026-08-30T09:48:06Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -439,14 +448,5 @@
     "stars": 7,
     "updated_at": "2026-08-30T05:26:00Z",
     "url": "https://github.com/Mr-remon219/pi-search-boost"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-30T05:16:38Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   }
 ]
