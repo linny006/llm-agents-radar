@@ -1,5 +1,23 @@
 [
   {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 1,
+    "updated_at": "2026-08-29T23:51:00Z",
+    "url": "https://github.com/sydches/yuj"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-08-29T23:45:54Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
     "description": "",
     "id": "agent-axiom/agent-arch",
     "language": "Python",
@@ -16,15 +34,6 @@
     "stars": 2,
     "updated_at": "2026-08-29T23:41:28Z",
     "url": "https://github.com/sohaibsohail98/mcp-context-inspector"
-  },
-  {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 1,
-    "updated_at": "2026-08-29T23:40:07Z",
-    "url": "https://github.com/sydches/yuj"
   },
   {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
@@ -439,14 +448,5 @@
     "stars": 7048,
     "updated_at": "2026-08-29T20:39:47Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 0,
-    "updated_at": "2026-08-29T22:07:57Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   }
 ]
