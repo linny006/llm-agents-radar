@@ -1,12 +1,48 @@
 [
   {
+    "description": "An agent is a prompt, a model and a list of tools; a tool is an async function with a decorator. No graphs, no DSLs, no ",
+    "id": "islavutin-oss/agentino",
+    "language": "Python",
+    "name": "islavutin-oss/agentino",
+    "stars": 0,
+    "updated_at": "2026-08-30T07:58:35Z",
+    "url": "https://github.com/islavutin-oss/agentino"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-08-30T07:57:20Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
     "id": "Cyrax321/CONTINUUM",
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 27,
-    "updated_at": "2026-08-30T07:43:35Z",
+    "updated_at": "2026-08-30T07:52:36Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 128,
+    "updated_at": "2026-08-30T07:52:35Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Keep agent CLIs running 7\u00d724 \u2014 supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure",
+    "id": "wan9yu/cli-agent-runner",
+    "language": "Python",
+    "name": "wan9yu/cli-agent-runner",
+    "stars": 4,
+    "updated_at": "2026-08-30T07:49:50Z",
+    "url": "https://github.com/wan9yu/cli-agent-runner"
   },
   {
     "description": "Self-hosted runtime for a long-lived companion agent. Python, SQLite, any OpenAI-compatible model.",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "qiqi-xingyi/Hearth_Friend",
     "stars": 0,
-    "updated_at": "2026-08-30T07:42:49Z",
+    "updated_at": "2026-08-30T07:47:23Z",
     "url": "https://github.com/qiqi-xingyi/Hearth_Friend"
   },
   {
@@ -41,7 +77,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3167,
-    "updated_at": "2026-08-30T07:42:05Z",
+    "updated_at": "2026-08-30T07:58:07Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -52,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T07:41:38Z",
     "url": "https://github.com/mehboobali98/job-search-agent"
-  },
-  {
-    "description": "A small Python agent framework \u2014 tool-calling loop, YAML config, pluggable transports.",
-    "id": "islavutin-oss/agentino",
-    "language": "Python",
-    "name": "islavutin-oss/agentino",
-    "stars": 0,
-    "updated_at": "2026-08-30T07:37:44Z",
-    "url": "https://github.com/islavutin-oss/agentino"
   },
   {
     "description": "Self-hosted AI agent living inside Zalo (personal account). Multi-account, 15 tools + external MCP servers, web dashboar",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-30T04:41:06Z",
     "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-08-30T04:38:12Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-08-30T04:37:55Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 3,
-    "updated_at": "2026-08-30T04:36:02Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
   }
 ]
