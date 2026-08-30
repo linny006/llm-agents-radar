@@ -1,5 +1,41 @@
 [
   {
+    "description": "A question-first, step-verified, self-improving agent skill for systematic reviews and meta-analysis",
+    "id": "fsy2004/MetaWingman",
+    "language": "Python",
+    "name": "fsy2004/MetaWingman",
+    "stars": 0,
+    "updated_at": "2026-08-30T12:55:50Z",
+    "url": "https://github.com/fsy2004/MetaWingman"
+  },
+  {
+    "description": "Autonomous vulnerability discovery engine. An LLM fleet proposes; eight deterministic oracles prove. Findings are report",
+    "id": "eobi/nemesisforge",
+    "language": "Python",
+    "name": "eobi/nemesisforge",
+    "stars": 1,
+    "updated_at": "2026-08-30T12:54:28Z",
+    "url": "https://github.com/eobi/nemesisforge"
+  },
+  {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 5,
+    "updated_at": "2026-08-30T12:54:06Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "Persistent plastic memory for coding agents (Claude Code, OpenCode, Prime Agent) via MCP. One-command install.",
+    "id": "alexenti-code/matryoshka-mmi",
+    "language": "Python",
+    "name": "alexenti-code/matryoshka-mmi",
+    "stars": 0,
+    "updated_at": "2026-08-30T12:51:09Z",
+    "url": "https://github.com/alexenti-code/matryoshka-mmi"
+  },
+  {
     "description": "Multi-agent job discovery, independent LLM judging, read-only application-form drafting, and local Excel tracking for Co",
     "id": "mehboobali98/job-search-agent",
     "language": "JavaScript",
@@ -61,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T12:45:03Z",
     "url": "https://github.com/ChanTso/citybuddy"
-  },
-  {
-    "description": "Autonomous vulnerability discovery engine. An LLM fleet proposes; eight deterministic oracles prove. Findings are report",
-    "id": "eobi/nemesisforge",
-    "language": "Python",
-    "name": "eobi/nemesisforge",
-    "stars": 1,
-    "updated_at": "2026-08-30T12:44:33Z",
-    "url": "https://github.com/eobi/nemesisforge"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -241,15 +268,6 @@
     "stars": 202,
     "updated_at": "2026-08-30T11:58:31Z",
     "url": "https://github.com/EvoMap/awesome-agent-evolution"
-  },
-  {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 5,
-    "updated_at": "2026-08-30T12:48:59Z",
-    "url": "https://github.com/bigduu/Zenith"
   },
   {
     "description": "Self-hosted AI agent living inside Zalo (personal account). Multi-account, 15 tools + external MCP servers, web dashboar",
@@ -430,23 +448,5 @@
     "stars": 259,
     "updated_at": "2026-08-30T11:28:10Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 803,
-    "updated_at": "2026-08-30T12:12:49Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-08-30T11:26:48Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
   }
 ]
