@@ -1,12 +1,75 @@
 [
   {
+    "description": "LangGraph agent that plans, writes, validates and runs SQL from plain-language questions. Postgres, Groq, FastAPI, Strea",
+    "id": "Boe777/queryquarry",
+    "language": "Python",
+    "name": "Boe777/queryquarry",
+    "stars": 0,
+    "updated_at": "2026-08-30T16:00:04Z",
+    "url": "https://github.com/Boe777/queryquarry"
+  },
+  {
+    "description": "TaskWizard\uff1a\u8584\u73af\uff08thin-loop\uff09LLM \u5b89\u5353\u624b\u673a\u667a\u80fd\u4f53 \u2014 \u6bcf\u6b65\u4e00\u6b21\u6a21\u578b\u8c03\u7528\u3001marks-first \u843d\u5730\u3001\u5b89\u5168\u9884\u8b66\u5236\u3001App-KB \u81ea\u79ef\u7d2f\u8bb0\u5fc6\u3001\u7ecf\u9a8c\u56de\u60f3\uff08RAG shadow\uff09\u3002Thin-loop LLM Android ",
+    "id": "tom-cat-mao/TaskWizard",
+    "language": "Python",
+    "name": "tom-cat-mao/TaskWizard",
+    "stars": 0,
+    "updated_at": "2026-08-30T15:59:52Z",
+    "url": "https://github.com/tom-cat-mao/TaskWizard"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 16,
+    "updated_at": "2026-08-30T15:58:44Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Self-hosted multi-tenant agent platform for teams: skills, knowledge, API contracts and MCP servers live in the database",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 22,
+    "updated_at": "2026-08-30T15:58:09Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "Local-first, self-hosted AI agent runtime with MCP tools, sandboxed sessions, memory, credentials, audit/replay, and a l",
+    "id": "sandbaseai/sandbase-harness",
+    "language": "TypeScript",
+    "name": "sandbaseai/sandbase-harness",
+    "stars": 638,
+    "updated_at": "2026-08-30T15:59:37Z",
+    "url": "https://github.com/sandbaseai/sandbase-harness"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 4,
+    "updated_at": "2026-08-30T15:56:18Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
     "description": "\u300a\u4f01\u4e1a\u7ea7 Agent \u4ece\u5165\u95e8\u5230\u4e13\u5bb6\uff082026\u7248\uff09\u300b\u2014\u2014\u4ece\u5355 Agent \u6838\u5fc3\u673a\u5236\u5230\u591a Agent \u4e0e\u4f01\u4e1a\u843d\u5730\u7684\u5de5\u7a0b\u5316\u5b9e\u6218\u6559\u7a0b\uff0c\u914d\u5957\u53ef\u8fd0\u884c\u8d2f\u7a7f\u9879\u76ee\u4e0e CI \u9a8c\u8bc1\u95e8\u7981\u3002",
     "id": "cdavid817/awesome-agent-tutorial",
     "language": "Python",
     "name": "cdavid817/awesome-agent-tutorial",
     "stars": 12,
-    "updated_at": "2026-08-30T15:44:24Z",
+    "updated_at": "2026-08-30T15:51:08Z",
     "url": "https://github.com/cdavid817/awesome-agent-tutorial"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 0,
+    "updated_at": "2026-08-30T15:49:54Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "An autopoiesic kefir for computing machines",
@@ -16,15 +79,6 @@
     "stars": 8,
     "updated_at": "2026-08-30T15:43:17Z",
     "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "Local-first, self-hosted AI agent runtime with MCP tools, sandboxed sessions, memory, credentials, audit/replay, and a l",
-    "id": "sandbaseai/sandbase-harness",
-    "language": "TypeScript",
-    "name": "sandbaseai/sandbase-harness",
-    "stars": 638,
-    "updated_at": "2026-08-30T15:43:16Z",
-    "url": "https://github.com/sandbaseai/sandbase-harness"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -45,15 +99,6 @@
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 16,
-    "updated_at": "2026-08-30T15:31:58Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "An agent is a prompt, a model and a list of tools; a tool is an async function with a decorator. No graphs, no DSLs, no ",
     "id": "islavutin-oss/agentino",
     "language": "Python",
@@ -61,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T15:25:23Z",
     "url": "https://github.com/islavutin-oss/agentino"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 0,
-    "updated_at": "2026-08-30T15:24:53Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
@@ -223,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T13:59:53Z",
     "url": "https://github.com/ChanTso/citybuddy"
-  },
-  {
-    "description": "TaskWizard\uff1a\u8584\u73af\uff08thin-loop\uff09LLM \u5b89\u5353\u624b\u673a\u667a\u80fd\u4f53 \u2014 \u6bcf\u6b65\u4e00\u6b21\u6a21\u578b\u8c03\u7528\u3001marks-first \u843d\u5730\u3001\u5b89\u5168\u9884\u8b66\u5236\u3001App-KB \u81ea\u79ef\u7d2f\u8bb0\u5fc6\u3001\u7ecf\u9a8c\u56de\u60f3\uff08RAG shadow\uff09\u3002Thin-loop LLM Android ",
-    "id": "tom-cat-mao/TaskWizard",
-    "language": "Python",
-    "name": "tom-cat-mao/TaskWizard",
-    "stars": 0,
-    "updated_at": "2026-08-30T13:59:50Z",
-    "url": "https://github.com/tom-cat-mao/TaskWizard"
   },
   {
     "description": "\u8bc1\u636e\u7ea6\u675f\u7684\u4ee3\u7801\u8bca\u65ad\u5de5\u4f5c\u53f0\uff1a\u786e\u5b9a\u6027\u9759\u6001\u5206\u6790\u62e5\u6709\u6e90\u7801\u4e8b\u5b9e\uff0cLLM \u53ea\u63d0\u5047\u8bbe\uff0cresolver/validator \u51b3\u5b9a\u80fd\u5426\u7ed1\u5b9a\u56de\u771f\u5b9e\u64cd\u4f5c\u2014\u2014\u8bc1\u636e\u4e0d\u8db3\u4fdd\u6301 unknown/abstained\uff0c\u4ece\u67b6\u6784\u6291\u5236\u5e7b\u89c9\u3002\u5df2\u5728\u771f\u5b9e\u5f00\u6e90\u9879\u76ee\u53d1\u73b0 bug\uff08stun",
@@ -421,32 +448,5 @@
     "stars": 125,
     "updated_at": "2026-08-30T12:43:12Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-30T12:42:40Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-30T12:29:43Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "An AI agent harness for hard, exact tasks. Keeps one evolving artifact, spends compute only on decisions that can change",
-    "id": "mystxcal/flourite",
-    "language": "Python",
-    "name": "mystxcal/flourite",
-    "stars": 0,
-    "updated_at": "2026-08-30T12:27:02Z",
-    "url": "https://github.com/mystxcal/flourite"
   }
 ]
