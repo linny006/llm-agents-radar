@@ -1,5 +1,41 @@
 [
   {
+    "description": "Local-first, self-hosted AI agent runtime with MCP tools, sandboxed sessions, memory, credentials, audit/replay, and a l",
+    "id": "sandbaseai/sandbase-harness",
+    "language": "TypeScript",
+    "name": "sandbaseai/sandbase-harness",
+    "stars": 638,
+    "updated_at": "2026-08-30T16:44:23Z",
+    "url": "https://github.com/sandbaseai/sandbase-harness"
+  },
+  {
+    "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
+    "id": "mark-weeks/hello-nested-worlds-adventure",
+    "language": "Python",
+    "name": "mark-weeks/hello-nested-worlds-adventure",
+    "stars": 5,
+    "updated_at": "2026-08-30T16:35:04Z",
+    "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
+  },
+  {
+    "description": "Local-first AI client and agent runtime. Provider-neutral (Ollama, LM Studio, Lemonade, OpenAI, Anthropic, xAI), sandbox",
+    "id": "kawaiipantsu/boop",
+    "language": "Go",
+    "name": "kawaiipantsu/boop",
+    "stars": 0,
+    "updated_at": "2026-08-30T16:36:29Z",
+    "url": "https://github.com/kawaiipantsu/boop"
+  },
+  {
+    "description": "LangGraph agent that plans, writes, validates and runs SQL from plain-language questions. Postgres, Groq, FastAPI, Strea",
+    "id": "Boe777/queryquarry",
+    "language": "Python",
+    "name": "Boe777/queryquarry",
+    "stars": 0,
+    "updated_at": "2026-08-30T16:32:11Z",
+    "url": "https://github.com/Boe777/queryquarry"
+  },
+  {
     "description": "Static system dashboard for a Hermes Agent installation: host status, security, model routing, honest cost, memory, cron",
     "id": "itpartypattaya/hermes-dashboard",
     "language": "Python",
@@ -9,21 +45,12 @@
     "url": "https://github.com/itpartypattaya/hermes-dashboard"
   },
   {
-    "description": "Local-first, self-hosted AI agent runtime with MCP tools, sandboxed sessions, memory, credentials, audit/replay, and a l",
-    "id": "sandbaseai/sandbase-harness",
-    "language": "TypeScript",
-    "name": "sandbaseai/sandbase-harness",
-    "stars": 638,
-    "updated_at": "2026-08-30T16:29:40Z",
-    "url": "https://github.com/sandbaseai/sandbase-harness"
-  },
-  {
     "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
     "stars": 0,
-    "updated_at": "2026-08-30T16:24:58Z",
+    "updated_at": "2026-08-30T16:45:06Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
@@ -52,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T16:15:29Z",
     "url": "https://github.com/vuhai2002/zalo-agent"
-  },
-  {
-    "description": "LangGraph agent that plans, writes, validates and runs SQL from plain-language questions. Postgres, Groq, FastAPI, Strea",
-    "id": "Boe777/queryquarry",
-    "language": "Python",
-    "name": "Boe777/queryquarry",
-    "stars": 0,
-    "updated_at": "2026-08-30T16:14:14Z",
-    "url": "https://github.com/Boe777/queryquarry"
   },
   {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
@@ -113,7 +131,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 16,
-    "updated_at": "2026-08-30T16:08:17Z",
+    "updated_at": "2026-08-30T16:35:03Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -297,15 +315,6 @@
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
-    "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
-    "id": "mark-weeks/hello-nested-worlds-adventure",
-    "language": "Python",
-    "name": "mark-weeks/hello-nested-worlds-adventure",
-    "stars": 5,
-    "updated_at": "2026-08-30T16:20:18Z",
-    "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
-  },
-  {
     "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
     "id": "ChanTso/citybuddy",
     "language": "Java",
@@ -439,14 +448,5 @@
     "stars": 21,
     "updated_at": "2026-08-30T13:04:37Z",
     "url": "https://github.com/Tomsabay/abaqus_agent"
-  },
-  {
-    "description": "Autonomous vulnerability discovery engine. An LLM fleet proposes; eight deterministic oracles prove. Findings are report",
-    "id": "eobi/nemesisforge",
-    "language": "Python",
-    "name": "eobi/nemesisforge",
-    "stars": 1,
-    "updated_at": "2026-08-30T12:54:28Z",
-    "url": "https://github.com/eobi/nemesisforge"
   }
 ]
