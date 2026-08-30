@@ -1,5 +1,14 @@
 [
   {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 5,
+    "updated_at": "2026-08-30T19:47:02Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
     "id": "Cyrax321/CONTINUUM",
     "language": "Python",
@@ -302,7 +311,7 @@
     "language": "Go",
     "name": "mnemon-dev/mnemon",
     "stars": 540,
-    "updated_at": "2026-08-30T19:35:09Z",
+    "updated_at": "2026-08-30T19:48:35Z",
     "url": "https://github.com/mnemon-dev/mnemon"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 32,
     "updated_at": "2026-08-30T17:42:25Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Local-first AI client and agent runtime. Provider-neutral (Ollama, LM Studio, Lemonade, OpenAI, Anthropic, xAI), sandbox",
-    "id": "kawaiipantsu/boop",
-    "language": "Go",
-    "name": "kawaiipantsu/boop",
-    "stars": 0,
-    "updated_at": "2026-08-30T17:33:20Z",
-    "url": "https://github.com/kawaiipantsu/boop"
   }
 ]
