@@ -1,5 +1,59 @@
 [
   {
+    "description": "Fix context rot & pollution in long AI agent sessions. Subagents run in isolated processes \u2014 main agent stays read-only.",
+    "id": "Wolido/async-subagent-isolation",
+    "language": "TypeScript",
+    "name": "Wolido/async-subagent-isolation",
+    "stars": 4,
+    "updated_at": "2026-08-30T03:43:43Z",
+    "url": "https://github.com/Wolido/async-subagent-isolation"
+  },
+  {
+    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
+    "id": "yo4e/sudachi-life",
+    "language": "Python",
+    "name": "yo4e/sudachi-life",
+    "stars": 0,
+    "updated_at": "2026-08-30T03:39:36Z",
+    "url": "https://github.com/yo4e/sudachi-life"
+  },
+  {
+    "description": "OpenAI-compatible proxy enforcing SKILL.state (arXiv:2608.26263) \u2014 bounded O(1) prompts, O(T) total tokens for long-hori",
+    "id": "NosytLabs/skillstate-proxy",
+    "language": "TypeScript",
+    "name": "NosytLabs/skillstate-proxy",
+    "stars": 0,
+    "updated_at": "2026-08-30T03:39:26Z",
+    "url": "https://github.com/NosytLabs/skillstate-proxy"
+  },
+  {
+    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 27,
+    "updated_at": "2026-08-30T03:39:18Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-08-30T03:33:04Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "A self-sustaining AI companion core \u2014 continuous stream of consciousness, autonomous agent, layered memory.",
+    "id": "T-80BVVD/kiri",
+    "language": "Python",
+    "name": "T-80BVVD/kiri",
+    "stars": 1,
+    "updated_at": "2026-08-30T03:30:52Z",
+    "url": "https://github.com/T-80BVVD/kiri"
+  },
+  {
     "description": "Autonomous vulnerability discovery engine. An LLM fleet proposes; eight deterministic oracles prove. Findings are report",
     "id": "eobi/nemesisforge",
     "language": "Python",
@@ -36,15 +90,6 @@
     "url": "https://github.com/b-macker/NAAb"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-08-30T03:20:42Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -54,15 +99,6 @@
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
-    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
-    "id": "yo4e/sudachi-life",
-    "language": "Python",
-    "name": "yo4e/sudachi-life",
-    "stars": 0,
-    "updated_at": "2026-08-30T03:13:08Z",
-    "url": "https://github.com/yo4e/sudachi-life"
-  },
-  {
     "description": "Rebuild AI building blocks from scratch for learning: transformer, tokenizer, agent, RAG, vector DB. \u4ece\u96f6\u5b9e\u73b0 AI \u76f8\u5173\u7684\u5de5\u5177\u4e0e\u6846\u67b6",
     "id": "xbsheng/ai-from-scratch",
     "language": "Python",
@@ -70,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T03:05:32Z",
     "url": "https://github.com/xbsheng/ai-from-scratch"
-  },
-  {
-    "description": "OpenAI-compatible proxy enforcing SKILL.state (arXiv:2608.26263) \u2014 bounded O(1) prompts, O(T) total tokens for long-hori",
-    "id": "NosytLabs/skillstate-proxy",
-    "language": "TypeScript",
-    "name": "NosytLabs/skillstate-proxy",
-    "stars": 0,
-    "updated_at": "2026-08-30T02:58:32Z",
-    "url": "https://github.com/NosytLabs/skillstate-proxy"
   },
   {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
@@ -97,15 +124,6 @@
     "stars": 3,
     "updated_at": "2026-08-30T02:45:34Z",
     "url": "https://github.com/Rekin226/Agronaut"
-  },
-  {
-    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 27,
-    "updated_at": "2026-08-30T02:37:20Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
     "description": "Persistent plastic memory for coding agents (Claude Code, OpenCode, Prime Agent) via MCP. One-command install.",
@@ -151,15 +169,6 @@
     "stars": 53,
     "updated_at": "2026-08-30T02:03:34Z",
     "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "A self-sustaining AI companion core \u2014 continuous stream of consciousness, autonomous agent, layered memory.",
-    "id": "T-80BVVD/kiri",
-    "language": "Python",
-    "name": "T-80BVVD/kiri",
-    "stars": 1,
-    "updated_at": "2026-08-30T02:02:47Z",
-    "url": "https://github.com/T-80BVVD/kiri"
   },
   {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-29T21:52:51Z",
     "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
-  },
-  {
-    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
-    "id": "Arjunadh5305/ios-skills-collection",
-    "language": "\u2014",
-    "name": "Arjunadh5305/ios-skills-collection",
-    "stars": 1,
-    "updated_at": "2026-08-29T21:52:47Z",
-    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
   }
 ]
