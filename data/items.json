@@ -1,5 +1,50 @@
 [
   {
+    "description": "AI recruiting assistant that matches resumes to job descriptions through chat \u2014 event-driven microservices with Kafka, Q",
+    "id": "anh737/resumatch-ai",
+    "language": "Jupyter Notebook",
+    "name": "anh737/resumatch-ai",
+    "stars": 0,
+    "updated_at": "2026-08-30T13:14:42Z",
+    "url": "https://github.com/anh737/resumatch-ai"
+  },
+  {
+    "description": "CAE toolchain for IPM traction motors: geometry \u2192 EM field \u2192 structural FEM \u2192 thermal \u2192 drive cycle \u2192 PDF report. Every ",
+    "id": "ThomasSchmiegelt/ema-motor-analysis",
+    "language": "Python",
+    "name": "ThomasSchmiegelt/ema-motor-analysis",
+    "stars": 0,
+    "updated_at": "2026-08-30T13:11:39Z",
+    "url": "https://github.com/ThomasSchmiegelt/ema-motor-analysis"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 207,
+    "updated_at": "2026-08-30T13:04:49Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "AI-driven Abaqus workbench: describe a model in a spec, get a real solved one back. Every capability is backed by a chec",
+    "id": "Tomsabay/abaqus_agent",
+    "language": "Python",
+    "name": "Tomsabay/abaqus_agent",
+    "stars": 21,
+    "updated_at": "2026-08-30T13:04:37Z",
+    "url": "https://github.com/Tomsabay/abaqus_agent"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 5,
+    "updated_at": "2026-08-30T13:02:33Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
     "description": "A question-first, step-verified, self-improving agent skill for systematic reviews and meta-analysis",
     "id": "fsy2004/MetaWingman",
     "language": "Python",
@@ -52,15 +97,6 @@
     "stars": 6,
     "updated_at": "2026-08-30T12:49:25Z",
     "url": "https://github.com/forger-labs-hq/researchforge"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 5,
-    "updated_at": "2026-08-30T12:48:46Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
@@ -124,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-08-30T12:42:40Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "CAE toolchain for IPM traction motors: geometry \u2192 EM field \u2192 structural FEM \u2192 thermal \u2192 drive cycle \u2192 PDF report. Every ",
-    "id": "ThomasSchmiegelt/ema-motor-analysis",
-    "language": "Python",
-    "name": "ThomasSchmiegelt/ema-motor-analysis",
-    "stars": 0,
-    "updated_at": "2026-08-30T12:42:22Z",
-    "url": "https://github.com/ThomasSchmiegelt/ema-motor-analysis"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -266,7 +293,7 @@
     "language": "JavaScript",
     "name": "EvoMap/awesome-agent-evolution",
     "stars": 202,
-    "updated_at": "2026-08-30T11:58:31Z",
+    "updated_at": "2026-08-30T13:07:11Z",
     "url": "https://github.com/EvoMap/awesome-agent-evolution"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-30T11:29:59Z",
     "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-08-30T11:29:14Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-08-30T11:28:13Z",
-    "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 259,
-    "updated_at": "2026-08-30T11:28:10Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
   }
 ]
