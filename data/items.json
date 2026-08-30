@@ -1,12 +1,39 @@
 [
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-08-30T05:48:30Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
+    "description": "An open-source agent that designs and verifies digital hardware, recording every attempt as an open dataset of Verilog d",
+    "id": "marianotorres-code/tecpatl",
+    "language": "Python",
+    "name": "marianotorres-code/tecpatl",
+    "stars": 0,
+    "updated_at": "2026-08-30T06:13:51Z",
+    "url": "https://github.com/marianotorres-code/tecpatl"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-30T06:13:06Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 27,
+    "updated_at": "2026-08-30T06:13:28Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 16,
+    "updated_at": "2026-08-30T06:06:16Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "TaskWizard\uff1a\u8584\u73af\uff08thin-loop\uff09LLM \u5b89\u5353\u624b\u673a\u667a\u80fd\u4f53 \u2014 \u6bcf\u6b65\u4e00\u6b21\u6a21\u578b\u8c03\u7528\u3001marks-first \u843d\u5730\u3001\u5b89\u5168\u9884\u8b66\u5236\u3001App-KB \u81ea\u79ef\u7d2f\u8bb0\u5fc6\u3001\u7ecf\u9a8c\u56de\u60f3\uff08RAG shadow\uff09\u3002Thin-loop LLM Android ",
@@ -14,8 +41,26 @@
     "language": "Python",
     "name": "tom-cat-mao/TaskWizard",
     "stars": 0,
-    "updated_at": "2026-08-30T05:47:14Z",
+    "updated_at": "2026-08-30T06:05:37Z",
     "url": "https://github.com/tom-cat-mao/TaskWizard"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-08-30T06:03:20Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 206,
+    "updated_at": "2026-08-30T06:01:50Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
     "description": "\u900f\u660e\u53ef\u5ba1\u8ba1\u7684\u672c\u5730\u667a\u80fd\u4f53\u7ec8\u7aef\uff1a\u5bf9\u5f00\u6e90 agent \u6846\u67b6\u505a\u5b89\u5168\u5ba1\u8ba1\u4e0e\u52a0\u56fa\uff08RCE/\u6c99\u76d2\u7ed5\u8fc7/\u6ce8\u5165\uff09\uff0c\u5e76\u4ee5 50 \u6761\u6ce8\u5165\u57fa\u51c6 \u00d7 37 \u6761\u80fd\u529b\u57fa\u51c6\u53cc\u7ef4\u5ea6\u91cf\u5b89\u5168\u8fb9\u754c",
@@ -25,15 +70,6 @@
     "stars": 2,
     "updated_at": "2026-08-30T05:47:11Z",
     "url": "https://github.com/Canyon-Li/AuditronClaw"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 27,
-    "updated_at": "2026-08-30T05:55:26Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "\u81ea\u6f14\u8fdb\u7684\u756a\u5267\u5a92\u4f53\u5e93\u6cbb\u7406 agent\uff1a\u67e5\u91cd/\u6539\u540d/TMDB\u5bf9\u9f50/\u6b7b\u79cd\u6e05\u7406\uff0c\u80fd\u53d1\u73b0\u89c4\u5219\u76f2\u533a\u5e76\u81ea\u52a8\u6f14\u8fdb\u51fa\u65b0\u89c4\u5219",
@@ -346,7 +382,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5851,
+    "stars": 5852,
     "updated_at": "2026-08-30T04:19:17Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -396,15 +432,6 @@
     "url": "https://github.com/b-macker/NAAb"
   },
   {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 206,
-    "updated_at": "2026-08-30T04:36:39Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
     "description": "Fix context rot & pollution in long AI agent sessions. Subagents run in isolated processes \u2014 main agent stays read-only.",
     "id": "Wolido/async-subagent-isolation",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-30T03:30:52Z",
     "url": "https://github.com/T-80BVVD/kiri"
-  },
-  {
-    "description": "Autonomous vulnerability discovery engine. An LLM fleet proposes; eight deterministic oracles prove. Findings are report",
-    "id": "eobi/nemesisforge",
-    "language": "Python",
-    "name": "eobi/nemesisforge",
-    "stars": 1,
-    "updated_at": "2026-08-30T03:26:56Z",
-    "url": "https://github.com/eobi/nemesisforge"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-30T03:20:47Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Rebuild AI building blocks from scratch for learning: transformer, tokenizer, agent, RAG, vector DB. \u4ece\u96f6\u5b9e\u73b0 AI \u76f8\u5173\u7684\u5de5\u5177\u4e0e\u6846\u67b6",
-    "id": "xbsheng/ai-from-scratch",
-    "language": "Python",
-    "name": "xbsheng/ai-from-scratch",
-    "stars": 0,
-    "updated_at": "2026-08-30T03:05:32Z",
-    "url": "https://github.com/xbsheng/ai-from-scratch"
   }
 ]
