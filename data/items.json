@@ -5,8 +5,26 @@
     "language": "TypeScript",
     "name": "sandbaseai/sandbase-harness",
     "stars": 638,
-    "updated_at": "2026-08-30T18:44:09Z",
+    "updated_at": "2026-08-30T19:00:11Z",
     "url": "https://github.com/sandbaseai/sandbase-harness"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 3,
+    "updated_at": "2026-08-30T18:58:48Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-08-30T18:55:54Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
   },
   {
     "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-30T15:25:23Z",
     "url": "https://github.com/islavutin-oss/agentino"
-  },
-  {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-08-30T15:16:14Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
-  },
-  {
-    "description": "Two MIT patches for Nous Research Hermes: stop busy-queue messages merging into one jumbled turn, and optionally run sel",
-    "id": "EauDoon/hermes-parallel-followups",
-    "language": "Python",
-    "name": "EauDoon/hermes-parallel-followups",
-    "stars": 0,
-    "updated_at": "2026-08-30T14:53:36Z",
-    "url": "https://github.com/EauDoon/hermes-parallel-followups"
   }
 ]
