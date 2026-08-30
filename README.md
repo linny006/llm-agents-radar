@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-30 22:15 UTC
+> ⏰ Last updated: 2026-08-30 22:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,24 +42,24 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 5 | Swift | 2026-08-30 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
-| 2 | [aviskaar/zorp](https://github.com/aviskaar/zorp) | 3 | Rust | 2026-08-30 | A research agent for scientific discovery — part of Aviskaar's applied AI research suite. |
-| 3 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 16 | Rust | 2026-08-30 | Bamboo — a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule |
-| 4 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-30 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 5 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 5 | Shell | 2026-08-30 | Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use,  |
-| 6 | [sydches/yuj](https://github.com/sydches/yuj) | 2 | Python | 2026-08-30 | Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L |
-| 7 | [watchcat/scout](https://github.com/watchcat/scout) | 0 | Rust | 2026-08-30 | A Telegram shopping researcher that verifies prices and links instead of inventing them |
-| 8 | [mark-weeks/hello-nested-worlds-adventure](https://github.com/mark-weeks/hello-nested-worlds-adventure) | 5 | Python | 2026-08-30 | Enfolded: Nested World Adventure — a shared persistent multiverse where humans and AI agents traverse nested scales of r |
-| 9 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 28 | JavaScript | 2026-08-30 | Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies  |
-| 10 | [555cute/r20-quantum-trader](https://github.com/555cute/r20-quantum-trader) | 6 | Python | 2026-08-30 | ⚡ LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI  |
-| 11 | [TJR181/Cruiser-Agent](https://github.com/TJR181/Cruiser-Agent) | 4 | Python | 2026-08-30 | 面向 CTF 竞赛评测平台（TSec Benchmark）的自动化 Web/逻辑漏洞挖掘与利用 Agent：分层调度 + 多会话并发 + 跨会话共享黑板 + 平台权威校验 |
-| 12 | [Lethe044/hermes-incident-commander](https://github.com/Lethe044/hermes-incident-commander) | 68 | Python | 2026-08-30 | Autonomous SRE agent that detects, diagnoses, and self-heals production incidents - with a standalone watchdog that need |
-| 13 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-30 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 14 | [node9-ai/node9-proxy](https://github.com/node9-ai/node9-proxy) | 209 | TypeScript | 2026-08-30 | The Execution Security Layer for the Agentic Era. Providing deterministic "Sudo" governance and audit logs for autonomou |
-| 15 | [kriss-b/llm-iso27001](https://github.com/kriss-b/llm-iso27001) | 36 | — | 2026-08-30 | ISO 27001 (+42001 + NIS2) ISMS framework designed to be instantiated and maintained by LLM Agents |
-| 16 | [NicoGenti/opencode-orchestrator-kit](https://github.com/NicoGenti/opencode-orchestrator-kit) | 5 | TypeScript | 2026-08-30 | Cost-aware multi-agent orchestrator kit for OpenCode CLI — one routing agent, 14 specialized subagents, zero application |
-| 17 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-30 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 18 | [genaforvena/lte-workstation](https://github.com/genaforvena/lte-workstation) | 8 | Shell | 2026-08-30 | An autopoiesic kefir for computing machines |
+| 1 | [genaforvena/lte-workstation](https://github.com/genaforvena/lte-workstation) | 8 | Shell | 2026-08-30 | An autopoiesic kefir for computing machines |
+| 2 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 5 | Swift | 2026-08-30 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
+| 3 | [aviskaar/zorp](https://github.com/aviskaar/zorp) | 3 | Rust | 2026-08-30 | A research agent for scientific discovery — part of Aviskaar's applied AI research suite. |
+| 4 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 16 | Rust | 2026-08-30 | Bamboo — a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule |
+| 5 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-30 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 6 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 5 | Shell | 2026-08-30 | Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use,  |
+| 7 | [sydches/yuj](https://github.com/sydches/yuj) | 2 | Python | 2026-08-30 | Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L |
+| 8 | [watchcat/scout](https://github.com/watchcat/scout) | 0 | Rust | 2026-08-30 | A Telegram shopping researcher that verifies prices and links instead of inventing them |
+| 9 | [mark-weeks/hello-nested-worlds-adventure](https://github.com/mark-weeks/hello-nested-worlds-adventure) | 5 | Python | 2026-08-30 | Enfolded: Nested World Adventure — a shared persistent multiverse where humans and AI agents traverse nested scales of r |
+| 10 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 28 | JavaScript | 2026-08-30 | Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies  |
+| 11 | [555cute/r20-quantum-trader](https://github.com/555cute/r20-quantum-trader) | 6 | Python | 2026-08-30 | ⚡ LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI  |
+| 12 | [TJR181/Cruiser-Agent](https://github.com/TJR181/Cruiser-Agent) | 4 | Python | 2026-08-30 | 面向 CTF 竞赛评测平台（TSec Benchmark）的自动化 Web/逻辑漏洞挖掘与利用 Agent：分层调度 + 多会话并发 + 跨会话共享黑板 + 平台权威校验 |
+| 13 | [Lethe044/hermes-incident-commander](https://github.com/Lethe044/hermes-incident-commander) | 68 | Python | 2026-08-30 | Autonomous SRE agent that detects, diagnoses, and self-heals production incidents - with a standalone watchdog that need |
+| 14 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-30 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 15 | [node9-ai/node9-proxy](https://github.com/node9-ai/node9-proxy) | 209 | TypeScript | 2026-08-30 | The Execution Security Layer for the Agentic Era. Providing deterministic "Sudo" governance and audit logs for autonomou |
+| 16 | [kriss-b/llm-iso27001](https://github.com/kriss-b/llm-iso27001) | 36 | — | 2026-08-30 | ISO 27001 (+42001 + NIS2) ISMS framework designed to be instantiated and maintained by LLM Agents |
+| 17 | [NicoGenti/opencode-orchestrator-kit](https://github.com/NicoGenti/opencode-orchestrator-kit) | 5 | TypeScript | 2026-08-30 | Cost-aware multi-agent orchestrator kit for OpenCode CLI — one routing agent, 14 specialized subagents, zero application |
+| 18 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-30 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
 | 19 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 125 | HTML | 2026-08-30 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
 | 20 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-30 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
 | 21 | [harthurhenrique/invest-assistant-llm](https://github.com/harthurhenrique/invest-assistant-llm) | 0 | Jupyter Notebook | 2026-08-30 | MVP of an LLM-based investment assistant with RAG |

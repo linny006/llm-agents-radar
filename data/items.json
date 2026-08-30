@@ -1,5 +1,14 @@
 [
   {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-08-30T22:21:41Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
     "id": "gerardogrisolini/ZenCODE",
     "language": "Swift",
@@ -151,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T21:10:02Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-08-30T21:01:49Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
