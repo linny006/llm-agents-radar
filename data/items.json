@@ -1,5 +1,50 @@
 [
   {
+    "description": "\u8bc1\u636e\u7ea6\u675f\u7684\u4ee3\u7801\u8bca\u65ad\u5de5\u4f5c\u53f0\uff1a\u786e\u5b9a\u6027\u9759\u6001\u5206\u6790\u62e5\u6709\u6e90\u7801\u4e8b\u5b9e\uff0cLLM \u53ea\u63d0\u5047\u8bbe\uff0cresolver/validator \u51b3\u5b9a\u80fd\u5426\u7ed1\u5b9a\u56de\u771f\u5b9e\u64cd\u4f5c\u2014\u2014\u8bc1\u636e\u4e0d\u8db3\u4fdd\u6301 unknown/abstained\uff0c\u4ece\u67b6\u6784\u6291\u5236\u5e7b\u89c9\u3002\u5df2\u5728\u771f\u5b9e\u5f00\u6e90\u9879\u76ee\u53d1\u73b0 bug\uff08stun",
+    "id": "xianyu-sheng/SmartBench",
+    "language": "Python",
+    "name": "xianyu-sheng/SmartBench",
+    "stars": 1,
+    "updated_at": "2026-08-30T08:28:12Z",
+    "url": "https://github.com/xianyu-sheng/SmartBench"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4403,
+    "updated_at": "2026-08-30T08:27:40Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Autonomous AI agent & benchmarking CLI for Claude Code and Cursor. Build, validate, and ship research hypotheses repos \u2014",
+    "id": "forger-labs-hq/researchforge",
+    "language": "Python",
+    "name": "forger-labs-hq/researchforge",
+    "stars": 6,
+    "updated_at": "2026-08-30T08:25:59Z",
+    "url": "https://github.com/forger-labs-hq/researchforge"
+  },
+  {
+    "description": "",
+    "id": "apolmig/fronteraeval",
+    "language": "JavaScript",
+    "name": "apolmig/fronteraeval",
+    "stars": 0,
+    "updated_at": "2026-08-30T08:25:02Z",
+    "url": "https://github.com/apolmig/fronteraeval"
+  },
+  {
+    "description": "Run Aulthium AI Agent instantly in Termux, Linux, or any terminal with a single command.",
+    "id": "d3stiny-io/aulthium",
+    "language": "Shell",
+    "name": "d3stiny-io/aulthium",
+    "stars": 5,
+    "updated_at": "2026-08-30T08:19:30Z",
+    "url": "https://github.com/d3stiny-io/aulthium"
+  },
+  {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
     "id": "Cyrax321/CONTINUUM",
     "language": "Python",
@@ -86,7 +131,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3167,
-    "updated_at": "2026-08-30T07:58:07Z",
+    "updated_at": "2026-08-30T08:21:55Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-30T04:48:28Z",
     "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
-    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "language": "Python",
-    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "stars": 5,
-    "updated_at": "2026-08-30T04:46:45Z",
-    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
-  },
-  {
-    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
-    "id": "oxidizable-malinois605/bridge-suite-mcp",
-    "language": "TypeScript",
-    "name": "oxidizable-malinois605/bridge-suite-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-30T04:44:56Z",
-    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
-  },
-  {
-    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
-    "id": "Arjunadh5305/ios-skills-collection",
-    "language": "\u2014",
-    "name": "Arjunadh5305/ios-skills-collection",
-    "stars": 1,
-    "updated_at": "2026-08-30T04:44:48Z",
-    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
-  },
-  {
-    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
-    "id": "Stolas34/voice-input-src",
-    "language": "\u2014",
-    "name": "Stolas34/voice-input-src",
-    "stars": 0,
-    "updated_at": "2026-08-30T04:44:27Z",
-    "url": "https://github.com/Stolas34/voice-input-src"
-  },
-  {
-    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
-    "id": "Screwtopped-annapavlova802/SparkLabs",
-    "language": "C++",
-    "name": "Screwtopped-annapavlova802/SparkLabs",
-    "stars": 1,
-    "updated_at": "2026-08-30T04:42:26Z",
-    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
   }
 ]
