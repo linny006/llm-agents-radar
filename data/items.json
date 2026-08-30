@@ -1,5 +1,32 @@
 [
   {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 2,
+    "updated_at": "2026-08-30T21:57:32Z",
+    "url": "https://github.com/sydches/yuj"
+  },
+  {
+    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
+    "id": "watchcat/scout",
+    "language": "Rust",
+    "name": "watchcat/scout",
+    "stars": 0,
+    "updated_at": "2026-08-30T21:56:44Z",
+    "url": "https://github.com/watchcat/scout"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 5,
+    "updated_at": "2026-08-30T21:56:19Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
     "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
     "id": "mark-weeks/hello-nested-worlds-adventure",
     "language": "Python",
@@ -23,7 +50,7 @@
     "language": "Shell",
     "name": "bigduu/Zenith",
     "stars": 5,
-    "updated_at": "2026-08-30T21:38:08Z",
+    "updated_at": "2026-08-30T21:49:23Z",
     "url": "https://github.com/bigduu/Zenith"
   },
   {
@@ -216,15 +243,6 @@
     "url": "https://github.com/dmirain/OctoForge"
   },
   {
-    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
-    "id": "watchcat/scout",
-    "language": "Rust",
-    "name": "watchcat/scout",
-    "stars": 0,
-    "updated_at": "2026-08-30T20:10:18Z",
-    "url": "https://github.com/watchcat/scout"
-  },
-  {
     "description": "Assistente Virtual Localhosted",
     "id": "HercoZauZau/Baghdad",
     "language": "Python",
@@ -243,15 +261,6 @@
     "url": "https://github.com/mnemon-dev/mnemon"
   },
   {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 2,
-    "updated_at": "2026-08-30T20:03:23Z",
-    "url": "https://github.com/sydches/yuj"
-  },
-  {
     "description": "Multi-agent job discovery, independent LLM judging, read-only application-form drafting, and local Excel tracking for Co",
     "id": "mehboobali98/job-search-agent",
     "language": "JavaScript",
@@ -266,17 +275,8 @@
     "language": "Go",
     "name": "kawaiipantsu/boop",
     "stars": 0,
-    "updated_at": "2026-08-30T21:42:45Z",
+    "updated_at": "2026-08-30T21:50:47Z",
     "url": "https://github.com/kawaiipantsu/boop"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 5,
-    "updated_at": "2026-08-30T19:47:02Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "Self-evolving autonomous loops for Claude Code. A Stop-hook engine that iterates an agent toward a verifiable goal \u2014 evo",
