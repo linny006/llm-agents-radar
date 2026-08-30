@@ -1,12 +1,39 @@
 [
   {
-    "description": "Easy-to-use, easy-to-customize, and high-quality secure code review skills for AI agents.",
-    "id": "ivan-sincek/secure-code-review-agent-skills",
-    "language": "\u2014",
-    "name": "ivan-sincek/secure-code-review-agent-skills",
+    "description": "Cross-session long-term memory for LLM agents \u2014 TagMemo V9.1 wave algorithm ported to DeepSeek Harness. Zero-dependency ",
+    "id": "reedflame40224/vcp-memo",
+    "language": "JavaScript",
+    "name": "reedflame40224/vcp-memo",
+    "stars": 1,
+    "updated_at": "2026-08-30T10:41:31Z",
+    "url": "https://github.com/reedflame40224/vcp-memo"
+  },
+  {
+    "description": "OpenAI-compatible proxy enforcing SKILL.state (arXiv:2608.26263) \u2014 bounded O(1) prompts, O(T) total tokens for long-hori",
+    "id": "NosytLabs/skillstate-proxy",
+    "language": "TypeScript",
+    "name": "NosytLabs/skillstate-proxy",
+    "stars": 1,
+    "updated_at": "2026-08-30T10:39:54Z",
+    "url": "https://github.com/NosytLabs/skillstate-proxy"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-30T10:28:18Z",
-    "url": "https://github.com/ivan-sincek/secure-code-review-agent-skills"
+    "updated_at": "2026-08-30T10:37:03Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "Multi-agent job discovery, independent LLM judging, read-only application-form drafting, and local Excel tracking for Co",
+    "id": "mehboobali98/job-search-agent",
+    "language": "JavaScript",
+    "name": "mehboobali98/job-search-agent",
+    "stars": 0,
+    "updated_at": "2026-08-30T10:34:39Z",
+    "url": "https://github.com/mehboobali98/job-search-agent"
   },
   {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
@@ -14,8 +41,26 @@
     "language": "Python",
     "name": "kangkukjin/indiebizOS",
     "stars": 4,
-    "updated_at": "2026-08-30T10:27:38Z",
+    "updated_at": "2026-08-30T10:30:48Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-30T10:30:42Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Easy-to-use, easy-to-customize, and high-quality secure code review skills for AI agents.",
+    "id": "ivan-sincek/secure-code-review-agent-skills",
+    "language": "\u2014",
+    "name": "ivan-sincek/secure-code-review-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-08-30T10:28:18Z",
+    "url": "https://github.com/ivan-sincek/secure-code-review-agent-skills"
   },
   {
     "description": "Connect Claude Code, Cursor, and Codex to Workflow (workflow.games): your AI coding agent plans requirements, files bugs",
@@ -68,7 +113,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 27,
-    "updated_at": "2026-08-30T09:54:43Z",
+    "updated_at": "2026-08-30T10:31:16Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -142,15 +187,6 @@
     "stars": 33,
     "updated_at": "2026-08-30T09:26:57Z",
     "url": "https://github.com/Hyr1sky/TheGrandQuiz"
-  },
-  {
-    "description": "Multi-agent job discovery, independent LLM judging, read-only application-form drafting, and local Excel tracking for Co",
-    "id": "mehboobali98/job-search-agent",
-    "language": "JavaScript",
-    "name": "mehboobali98/job-search-agent",
-    "stars": 0,
-    "updated_at": "2026-08-30T09:25:32Z",
-    "url": "https://github.com/mehboobali98/job-search-agent"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -293,7 +329,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-30T10:23:34Z",
+    "updated_at": "2026-08-30T10:45:17Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -329,7 +365,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3167,
-    "updated_at": "2026-08-30T08:21:55Z",
+    "updated_at": "2026-08-30T10:37:34Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 125,
     "updated_at": "2026-08-30T06:24:55Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-30T06:23:51Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "id": "lsdefine/GenericAgent",
-    "language": "Python",
-    "name": "lsdefine/GenericAgent",
-    "stars": 14076,
-    "updated_at": "2026-08-30T06:21:51Z",
-    "url": "https://github.com/lsdefine/GenericAgent"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-30T06:13:06Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "\u81ea\u6f14\u8fdb\u7684\u756a\u5267\u5a92\u4f53\u5e93\u6cbb\u7406 agent\uff1a\u67e5\u91cd/\u6539\u540d/TMDB\u5bf9\u9f50/\u6b7b\u79cd\u6e05\u7406\uff0c\u80fd\u53d1\u73b0\u89c4\u5219\u76f2\u533a\u5e76\u81ea\u52a8\u6f14\u8fdb\u51fa\u65b0\u89c4\u5219",
-    "id": "wzh4464/self-evolving-media-agent",
-    "language": "Python",
-    "name": "wzh4464/self-evolving-media-agent",
-    "stars": 0,
-    "updated_at": "2026-08-30T05:40:16Z",
-    "url": "https://github.com/wzh4464/self-evolving-media-agent"
   }
 ]
