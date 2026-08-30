@@ -1,5 +1,32 @@
 [
   {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-08-30T17:03:04Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 16,
+    "updated_at": "2026-08-30T17:02:06Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Static system dashboard for a Hermes Agent installation: host status, security, model routing, honest cost, memory, cron",
+    "id": "itpartypattaya/hermes-dashboard",
+    "language": "Python",
+    "name": "itpartypattaya/hermes-dashboard",
+    "stars": 4,
+    "updated_at": "2026-08-30T17:01:48Z",
+    "url": "https://github.com/itpartypattaya/hermes-dashboard"
+  },
+  {
     "description": "Magpie (\u9e4a) \u2014 the bridge between IM platforms and Bamboo. Drives agent sessions from Telegram/Feishu over Bamboo's public",
     "id": "bigduu/Magpie",
     "language": "Rust",
@@ -14,7 +41,7 @@
     "language": "TypeScript",
     "name": "sandbaseai/sandbase-harness",
     "stars": 638,
-    "updated_at": "2026-08-30T16:58:55Z",
+    "updated_at": "2026-08-30T17:04:58Z",
     "url": "https://github.com/sandbaseai/sandbase-harness"
   },
   {
@@ -25,15 +52,6 @@
     "stars": 8,
     "updated_at": "2026-08-30T16:55:43Z",
     "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
-    "description": "Static system dashboard for a Hermes Agent installation: host status, security, model routing, honest cost, memory, cron",
-    "id": "itpartypattaya/hermes-dashboard",
-    "language": "Python",
-    "name": "itpartypattaya/hermes-dashboard",
-    "stars": 4,
-    "updated_at": "2026-08-30T16:51:56Z",
-    "url": "https://github.com/itpartypattaya/hermes-dashboard"
   },
   {
     "description": "The living React + Vite interface for Bamboo agents: streams reasoning, tool calls, and task progress over WebSocket, wi",
@@ -86,7 +104,7 @@
     "language": "Go",
     "name": "kawaiipantsu/boop",
     "stars": 0,
-    "updated_at": "2026-08-30T16:48:38Z",
+    "updated_at": "2026-08-30T17:04:43Z",
     "url": "https://github.com/kawaiipantsu/boop"
   },
   {
@@ -153,15 +171,6 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-08-30T16:07:41Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
     "id": "Cyrax321/CONTINUUM",
     "language": "Python",
@@ -169,15 +178,6 @@
     "stars": 28,
     "updated_at": "2026-08-30T16:04:44Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 16,
-    "updated_at": "2026-08-30T16:35:03Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "TaskWizard\uff1a\u8584\u73af\uff08thin-loop\uff09LLM \u5b89\u5353\u624b\u673a\u667a\u80fd\u4f53 \u2014 \u6bcf\u6b65\u4e00\u6b21\u6a21\u578b\u8c03\u7528\u3001marks-first \u843d\u5730\u3001\u5b89\u5168\u9884\u8b66\u5236\u3001App-KB \u81ea\u79ef\u7d2f\u8bb0\u5fc6\u3001\u7ecf\u9a8c\u56de\u60f3\uff08RAG shadow\uff09\u3002Thin-loop LLM Android ",
