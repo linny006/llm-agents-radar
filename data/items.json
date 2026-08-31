@@ -1,5 +1,41 @@
 [
   {
+    "description": "Static system dashboard for a Hermes Agent installation: host status, security, model routing, honest cost, memory, cron",
+    "id": "itpartypattaya/hermes-dashboard",
+    "language": "Python",
+    "name": "itpartypattaya/hermes-dashboard",
+    "stars": 4,
+    "updated_at": "2026-08-31T01:29:26Z",
+    "url": "https://github.com/itpartypattaya/hermes-dashboard"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-08-31T01:27:38Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 16,
+    "updated_at": "2026-08-31T01:22:06Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 10,
+    "updated_at": "2026-08-31T01:21:14Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
     "description": "Competing-risks survival analysis for customer churn \u2014 five models from a naive baseline to Aalen-Johansen, Cox, and Ran",
     "id": "reggGrammer7/competing-risks-churn-agent",
     "language": "Python",
@@ -27,15 +63,6 @@
     "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-08-31T01:12:26Z",
-    "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
     "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
     "id": "sydches/yuj",
     "language": "Python",
@@ -43,15 +70,6 @@
     "stars": 2,
     "updated_at": "2026-08-31T00:53:32Z",
     "url": "https://github.com/sydches/yuj"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 10,
-    "updated_at": "2026-08-31T00:39:07Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
@@ -97,15 +115,6 @@
     "stars": 8,
     "updated_at": "2026-08-30T23:55:23Z",
     "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 16,
-    "updated_at": "2026-08-31T00:55:21Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -248,7 +257,7 @@
     "language": "Shell",
     "name": "bigduu/Zenith",
     "stars": 5,
-    "updated_at": "2026-08-30T22:00:35Z",
+    "updated_at": "2026-08-31T01:28:15Z",
     "url": "https://github.com/bigduu/Zenith"
   },
   {
@@ -322,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T20:41:58Z",
     "url": "https://github.com/alexenti-code/matryoshka-mmi"
-  },
-  {
-    "description": "Static system dashboard for a Hermes Agent installation: host status, security, model routing, honest cost, memory, cron",
-    "id": "itpartypattaya/hermes-dashboard",
-    "language": "Python",
-    "name": "itpartypattaya/hermes-dashboard",
-    "stars": 4,
-    "updated_at": "2026-08-30T20:36:26Z",
-    "url": "https://github.com/itpartypattaya/hermes-dashboard"
   },
   {
     "description": "Easy-to-use, easy-to-customize, and high-quality threat modeling skills for AI agents.",
