@@ -1,5 +1,41 @@
 [
   {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-08-31T03:43:51Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "T2AG \u662f\u4e00\u5957\u4e0d\u7ed1\u5b9a\u5355\u4e00 GUI \u6216 agent \u7684\u6587\u4ef6\u5f0f\u5b66\u4e60\u7cfb\u7edf\u3002\u5b83\u63d0\u4f9b\u591a\u79cd\u5b66\u4e60\u6d41\u7a0b\uff0c\u642d\u8f7d\u591a\u6761\u5f7c\u6b64\u56de\u6d41\u7684\u590d\u5229\u94fe\uff0c\u4f7f\u6a21\u578b\u80fd\u591f\u6301\u7eed\u3001\u53ef\u8ffd\u6eaf\u5730\u638c\u63e1\u5b66\u751f\u72b6\u6001\uff0c\u4ece\u800c\u964d\u4f4e\u5b66\u4e60\u6469\u64e6\u3001\u51cf\u5c11\u91cd\u590d\u52b3\u52a8\uff0c\u5e76\u63d0\u9ad8\u5b66\u4e60\u4e0e\u534f\u4f5c\u6548\u7387\u3002\u5bf9\u8bdd\u53ea\u662f\u6267\u884c\u754c\u9762\uff1b\u78c1\u76d8\u4e0a\u7684\u89c4\u5219\u3001",
+    "id": "lungstrahv/T2AG",
+    "language": "Python",
+    "name": "lungstrahv/T2AG",
+    "stars": 0,
+    "updated_at": "2026-08-31T03:42:07Z",
+    "url": "https://github.com/lungstrahv/T2AG"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 128,
+    "updated_at": "2026-08-31T03:42:05Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-08-31T03:40:35Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
     "description": "Reproducible AI4SE agent with multi-tool planning, hybrid RAG, evaluation, and PostgreSQL operations.",
     "id": "Isoldelu/software-engineering-agent",
     "language": "Python",
@@ -41,7 +77,7 @@
     "language": "Rust",
     "name": "citizenhicks/mobius",
     "stars": 1,
-    "updated_at": "2026-08-31T03:29:15Z",
+    "updated_at": "2026-08-31T03:35:08Z",
     "url": "https://github.com/citizenhicks/mobius"
   },
   {
@@ -52,15 +88,6 @@
     "stars": 938,
     "updated_at": "2026-08-31T03:21:02Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-08-31T03:18:04Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": " Where intent meets code \u2014 a local AI coding agent         ",
@@ -124,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T02:58:07Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-08-31T02:58:44Z",
-    "url": "https://github.com/JSL107/personal_agents"
   },
   {
     "description": "Run Aulthium AI Agent instantly in Termux, Linux, or any terminal with a single command.",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-31T01:51:18Z",
     "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "An autonomous sports agent with a personality and a memory \u2014 scores, news & takes across the major leagues, that also te",
-    "id": "madhavnair2009-arch/ronin",
-    "language": "Python",
-    "name": "madhavnair2009-arch/ronin",
-    "stars": 0,
-    "updated_at": "2026-08-31T01:51:09Z",
-    "url": "https://github.com/madhavnair2009-arch/ronin"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-08-31T01:48:33Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
   }
 ]
