@@ -1,5 +1,32 @@
 [
   {
+    "description": "A local-first personal AI agent with a living memory: remembers you, uses your computer, and builds automations you can ",
+    "id": "fatihkutuk/neo",
+    "language": "Python",
+    "name": "fatihkutuk/neo",
+    "stars": 2,
+    "updated_at": "2026-08-31T13:38:08Z",
+    "url": "https://github.com/fatihkutuk/neo"
+  },
+  {
+    "description": "The Agent Knowledge Cycle as a single behavioral rules file \u2014 install all six phases without the six standalone skills.",
+    "id": "shimo4228/akc-cycle",
+    "language": "Python",
+    "name": "shimo4228/akc-cycle",
+    "stars": 1,
+    "updated_at": "2026-08-31T13:29:12Z",
+    "url": "https://github.com/shimo4228/akc-cycle"
+  },
+  {
+    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
+    "id": "Rekin226/Agronaut",
+    "language": "Python",
+    "name": "Rekin226/Agronaut",
+    "stars": 3,
+    "updated_at": "2026-08-31T13:24:56Z",
+    "url": "https://github.com/Rekin226/Agronaut"
+  },
+  {
     "description": "Multi-agent job discovery, independent LLM judging, read-only application-form drafting, and local Excel tracking for Co",
     "id": "mehboobali98/job-search-agent",
     "language": "JavaScript",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4403,
-    "updated_at": "2026-08-31T13:29:44Z",
+    "updated_at": "2026-08-31T13:33:25Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -27,13 +54,40 @@
     "url": "https://github.com/lijiajia96/llm-local"
   },
   {
+    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
+    "id": "AgentEra/Agently",
+    "language": "Python",
+    "name": "AgentEra/Agently",
+    "stars": 1644,
+    "updated_at": "2026-08-31T13:22:33Z",
+    "url": "https://github.com/AgentEra/Agently"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 125,
+    "updated_at": "2026-08-31T13:21:09Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7079,
+    "stars": 7080,
     "updated_at": "2026-08-31T13:20:57Z",
     "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-31T13:17:54Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
@@ -58,7 +112,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 30222,
+    "stars": 30223,
     "updated_at": "2026-08-31T13:11:16Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -189,15 +243,6 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "A local-first personal AI agent with a living memory: remembers you, uses your computer, and builds automations you can ",
-    "id": "fatihkutuk/neo",
-    "language": "Python",
-    "name": "fatihkutuk/neo",
-    "stars": 2,
-    "updated_at": "2026-08-31T12:01:53Z",
-    "url": "https://github.com/fatihkutuk/neo"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -230,7 +275,7 @@
     "language": "Python",
     "name": "AdrianDonohoe/5G_PCAP",
     "stars": 1,
-    "updated_at": "2026-08-31T11:52:15Z",
+    "updated_at": "2026-08-31T13:45:11Z",
     "url": "https://github.com/AdrianDonohoe/5G_PCAP"
   },
   {
@@ -277,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T11:30:31Z",
     "url": "https://github.com/dobrinsm/darwin"
-  },
-  {
-    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
-    "id": "Rekin226/Agronaut",
-    "language": "Python",
-    "name": "Rekin226/Agronaut",
-    "stars": 3,
-    "updated_at": "2026-08-31T13:24:56Z",
-    "url": "https://github.com/Rekin226/Agronaut"
   },
   {
     "description": "Connect Claude Code, Cursor, and Codex to Workflow (workflow.games): your AI coding agent plans requirements, files bugs",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-31T10:24:29Z",
     "url": "https://github.com/Whereis-Alice/astrbot_plugin_aitaolun"
-  },
-  {
-    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
-    "id": "uukuguy/capstone",
-    "language": "Python",
-    "name": "uukuguy/capstone",
-    "stars": 0,
-    "updated_at": "2026-08-31T10:08:15Z",
-    "url": "https://github.com/uukuguy/capstone"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5860,
-    "updated_at": "2026-08-31T09:44:43Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "TaskWizard\uff1a\u8584\u73af\uff08thin-loop\uff09LLM \u5b89\u5353\u624b\u673a\u667a\u80fd\u4f53 \u2014 \u6bcf\u6b65\u4e00\u6b21\u6a21\u578b\u8c03\u7528\u3001marks-first \u843d\u5730\u3001\u5b89\u5168\u9884\u8b66\u5236\u3001App-KB \u81ea\u79ef\u7d2f\u8bb0\u5fc6\u3001\u7ecf\u9a8c\u56de\u60f3\uff08RAG shadow\uff09\u3002Thin-loop LLM Android ",
-    "id": "tom-cat-mao/TaskWizard",
-    "language": "Python",
-    "name": "tom-cat-mao/TaskWizard",
-    "stars": 0,
-    "updated_at": "2026-08-31T09:44:17Z",
-    "url": "https://github.com/tom-cat-mao/TaskWizard"
-  },
-  {
-    "description": "Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generatio",
-    "id": "larlarua/AutoCVE",
-    "language": "Python",
-    "name": "larlarua/AutoCVE",
-    "stars": 1386,
-    "updated_at": "2026-08-31T09:41:30Z",
-    "url": "https://github.com/larlarua/AutoCVE"
   }
 ]
