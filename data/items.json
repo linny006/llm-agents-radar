@@ -1,11 +1,38 @@
 [
   {
+    "description": "Autonomous AI agent & benchmarking CLI for Claude Code and Cursor. Build, validate, and ship research hypotheses repos \u2014",
+    "id": "forger-labs-hq/researchforge",
+    "language": "Python",
+    "name": "forger-labs-hq/researchforge",
+    "stars": 7,
+    "updated_at": "2026-08-31T19:38:37Z",
+    "url": "https://github.com/forger-labs-hq/researchforge"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 36,
+    "updated_at": "2026-08-31T19:33:12Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-31T19:31:51Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
     "id": "gabrielmaialva33/winx-code-agent",
     "language": "Rust",
     "name": "gabrielmaialva33/winx-code-agent",
     "stars": 34,
-    "updated_at": "2026-08-31T19:23:12Z",
+    "updated_at": "2026-08-31T19:30:22Z",
     "url": "https://github.com/gabrielmaialva33/winx-code-agent"
   },
   {
@@ -50,15 +77,24 @@
     "language": "Python",
     "name": "Maximilian-Winter/ToolAgents",
     "stars": 38,
-    "updated_at": "2026-08-31T18:57:11Z",
+    "updated_at": "2026-08-31T19:40:21Z",
     "url": "https://github.com/Maximilian-Winter/ToolAgents"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4404,
+    "updated_at": "2026-08-31T18:49:32Z",
+    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7082,
+    "stars": 7083,
     "updated_at": "2026-08-31T18:40:19Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-31T17:08:23Z",
     "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-08-31T17:08:10Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-08-31T17:07:00Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
-    "id": "watchcat/scout",
-    "language": "Rust",
-    "name": "watchcat/scout",
-    "stars": 0,
-    "updated_at": "2026-08-31T17:03:11Z",
-    "url": "https://github.com/watchcat/scout"
-  },
-  {
-    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
-    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "language": "HTML",
-    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "stars": 0,
-    "updated_at": "2026-08-31T17:02:39Z",
-    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
   }
 ]
