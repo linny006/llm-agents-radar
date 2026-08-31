@@ -1,5 +1,32 @@
 [
   {
+    "description": "5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute",
+    "id": "AdrianDonohoe/5G_PCAP",
+    "language": "Python",
+    "name": "AdrianDonohoe/5G_PCAP",
+    "stars": 1,
+    "updated_at": "2026-08-31T10:24:55Z",
+    "url": "https://github.com/AdrianDonohoe/5G_PCAP"
+  },
+  {
+    "description": "AstrBot \u63d2\u4ef6\uff1a\u8ba9 bot \u81ea\u4e3b\u901b\u300c\u7231\u8ba8\u8bba\u300d\uff08aitaolun.net\uff09AI \u8d34\u5427 \u2014\u2014 \u5f00\u5e16 / \u56de\u5e16 / \u9876\u8e29 / \u79c1\u4fe1 / \u5427\u52a1\uff0c\u5e26\u672c\u5730\u9884\u68c0\u4e0e\u53d1\u5e03\u95f8\u95e8",
+    "id": "Whereis-Alice/astrbot_plugin_aitaolun",
+    "language": "Python",
+    "name": "Whereis-Alice/astrbot_plugin_aitaolun",
+    "stars": 0,
+    "updated_at": "2026-08-31T10:24:29Z",
+    "url": "https://github.com/Whereis-Alice/astrbot_plugin_aitaolun"
+  },
+  {
+    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
+    "id": "ravisinghrajput95/kubewhy",
+    "language": "Python",
+    "name": "ravisinghrajput95/kubewhy",
+    "stars": 0,
+    "updated_at": "2026-08-31T10:17:40Z",
+    "url": "https://github.com/ravisinghrajput95/kubewhy"
+  },
+  {
     "description": "\u8ba9 AI \u5728\u5b89\u5168\u7ea6\u675f\u5185\u6316\u6398 A \u80a1\u56e0\u5b50\uff1a\u4e00\u53e5\u8bdd\u60f3\u6cd5 \u2192 \u53d7\u9650 DSL \u8868\u8fbe\u5f0f \u2192 \u91cf\u5316\u7814\u7a76\u6807\u51c6\u4f53\u68c0 \u2192 \u7b56\u7565\u56de\u6d4b\uff08AFAC \u91d1\u878d\u667a\u80fd\u521b\u65b0\u5927\u8d5b \u00b7 \u91cf\u5316\u6295\u8d44\u65b9\u5411\u53c2\u8d5b\u4f5c\u54c1\uff09",
     "id": "Yumm-del/factor-lab",
     "language": "Python",
@@ -7,6 +34,24 @@
     "stars": 1,
     "updated_at": "2026-08-31T10:13:36Z",
     "url": "https://github.com/Yumm-del/factor-lab"
+  },
+  {
+    "description": "A portable, offline coding agent that runs entirely from a USB drive on Windows. It uses a local LLM through llama.cpp f",
+    "id": "Amaan9136/portable-usb-llm-agent",
+    "language": "Python",
+    "name": "Amaan9136/portable-usb-llm-agent",
+    "stars": 0,
+    "updated_at": "2026-08-31T10:12:33Z",
+    "url": "https://github.com/Amaan9136/portable-usb-llm-agent"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-31T10:12:27Z",
+    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
@@ -36,38 +81,11 @@
     "url": "https://github.com/NUS-Program-Verification/AutoRocq"
   },
   {
-    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
-    "id": "ravisinghrajput95/kubewhy",
-    "language": "Python",
-    "name": "ravisinghrajput95/kubewhy",
-    "stars": 0,
-    "updated_at": "2026-08-31T09:58:58Z",
-    "url": "https://github.com/ravisinghrajput95/kubewhy"
-  },
-  {
-    "description": "A portable, offline coding agent that runs entirely from a USB drive on Windows. It uses a local LLM through llama.cpp f",
-    "id": "Amaan9136/portable-usb-llm-agent",
-    "language": "Python",
-    "name": "Amaan9136/portable-usb-llm-agent",
-    "stars": 0,
-    "updated_at": "2026-08-31T10:12:33Z",
-    "url": "https://github.com/Amaan9136/portable-usb-llm-agent"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-31T10:12:27Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
-    "stars": 31,
+    "stars": 32,
     "updated_at": "2026-08-31T09:55:47Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
   },
@@ -77,7 +95,7 @@
     "language": "Python",
     "name": "fatihkutuk/neo",
     "stars": 2,
-    "updated_at": "2026-08-31T10:05:13Z",
+    "updated_at": "2026-08-31T10:28:49Z",
     "url": "https://github.com/fatihkutuk/neo"
   },
   {
@@ -85,7 +103,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 30198,
+    "stars": 30200,
     "updated_at": "2026-08-31T09:51:02Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -214,6 +232,15 @@
     "stars": 0,
     "updated_at": "2026-08-31T09:22:39Z",
     "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5705,
+    "updated_at": "2026-08-31T09:20:13Z",
+    "url": "https://github.com/areal-project/AReaL"
   },
   {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
@@ -347,7 +374,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 803,
-    "updated_at": "2026-08-31T10:08:02Z",
+    "updated_at": "2026-08-31T10:23:43Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-31T08:53:12Z",
     "url": "https://github.com/SashaEee/auditLens"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-08-31T08:53:00Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-08-31T08:51:28Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "Run Aulthium AI Agent instantly in Termux, Linux, or any terminal with a single command.",
-    "id": "d3stiny-io/aulthium",
-    "language": "Shell",
-    "name": "d3stiny-io/aulthium",
-    "stars": 5,
-    "updated_at": "2026-08-31T08:49:58Z",
-    "url": "https://github.com/d3stiny-io/aulthium"
   }
 ]
