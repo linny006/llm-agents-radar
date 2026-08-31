@@ -1,11 +1,20 @@
 [
   {
+    "description": "A local-first personal AI agent with a living memory: remembers you, uses your computer, and builds automations you can ",
+    "id": "fatihkutuk/neo",
+    "language": "Python",
+    "name": "fatihkutuk/neo",
+    "stars": 2,
+    "updated_at": "2026-08-31T05:43:38Z",
+    "url": "https://github.com/fatihkutuk/neo"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-31T05:27:43Z",
+    "updated_at": "2026-08-31T05:39:39Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -95,7 +104,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-08-31T05:24:57Z",
+    "updated_at": "2026-08-31T05:40:20Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -113,7 +122,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4403,
-    "updated_at": "2026-08-31T04:40:27Z",
+    "updated_at": "2026-08-31T05:33:53Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -185,7 +194,7 @@
     "language": "Python",
     "name": "kangkukjin/indiebizOS",
     "stars": 4,
-    "updated_at": "2026-08-31T03:51:57Z",
+    "updated_at": "2026-08-31T05:45:27Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-31T02:16:34Z",
     "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-08-31T02:14:09Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
   }
 ]
