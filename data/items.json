@@ -1,5 +1,41 @@
 [
   {
+    "description": "\u300a\u4f01\u4e1a\u7ea7 Agent \u4ece\u5165\u95e8\u5230\u4e13\u5bb6\uff082026\u7248\uff09\u300b\u2014\u2014\u4ece\u5355 Agent \u6838\u5fc3\u673a\u5236\u5230\u591a Agent \u4e0e\u4f01\u4e1a\u843d\u5730\u7684\u5de5\u7a0b\u5316\u5b9e\u6218\u6559\u7a0b\uff0c\u914d\u5957\u53ef\u8fd0\u884c\u8d2f\u7a7f\u9879\u76ee\u4e0e CI \u9a8c\u8bc1\u95e8\u7981\u3002",
+    "id": "cdavid817/awesome-agent-tutorial",
+    "language": "Python",
+    "name": "cdavid817/awesome-agent-tutorial",
+    "stars": 12,
+    "updated_at": "2026-08-31T14:55:39Z",
+    "url": "https://github.com/cdavid817/awesome-agent-tutorial"
+  },
+  {
+    "description": "Project-local Markdown progress tracking for Codex, Claude Code, and MCP-compatible agents \u2014 resumable memory across ses",
+    "id": "AndriiLavrekha/awesome-progress-tracker",
+    "language": "TypeScript",
+    "name": "AndriiLavrekha/awesome-progress-tracker",
+    "stars": 0,
+    "updated_at": "2026-08-31T14:56:58Z",
+    "url": "https://github.com/AndriiLavrekha/awesome-progress-tracker"
+  },
+  {
+    "description": "A multi-tool LLM agent (LangGraph + AWS Bedrock) that pairs Ecuador's official INEC price statistics with its consumer-p",
+    "id": "karisaylema/consumer-price-guardian",
+    "language": "Python",
+    "name": "karisaylema/consumer-price-guardian",
+    "stars": 0,
+    "updated_at": "2026-08-31T14:54:16Z",
+    "url": "https://github.com/karisaylema/consumer-price-guardian"
+  },
+  {
+    "description": "\u900f\u660e\u53ef\u5ba1\u8ba1\u7684\u672c\u5730\u667a\u80fd\u4f53\u7ec8\u7aef\uff1a\u5bf9\u5f00\u6e90 agent \u6846\u67b6\u505a\u5b89\u5168\u5ba1\u8ba1\u4e0e\u52a0\u56fa\uff08RCE/\u6c99\u76d2\u7ed5\u8fc7/\u6ce8\u5165\uff09\uff0c\u5e76\u4ee5 50 \u6761\u6ce8\u5165\u57fa\u51c6 \u00d7 37 \u6761\u80fd\u529b\u57fa\u51c6\u53cc\u7ef4\u5ea6\u91cf\u5b89\u5168\u8fb9\u754c",
+    "id": "Canyon-Li/AuditronClaw",
+    "language": "Python",
+    "name": "Canyon-Li/AuditronClaw",
+    "stars": 2,
+    "updated_at": "2026-08-31T14:46:02Z",
+    "url": "https://github.com/Canyon-Li/AuditronClaw"
+  },
+  {
     "description": "AutoSRE \u2014 an autonomous on-call SRE agent. Reads real user reports, investigates real logs, opens a fix PR, and verifies",
     "id": "BERORINPO/AutoSRE",
     "language": "TypeScript",
@@ -9,13 +45,22 @@
     "url": "https://github.com/BERORINPO/AutoSRE"
   },
   {
-    "description": "\u300a\u4f01\u4e1a\u7ea7 Agent \u4ece\u5165\u95e8\u5230\u4e13\u5bb6\uff082026\u7248\uff09\u300b\u2014\u2014\u4ece\u5355 Agent \u6838\u5fc3\u673a\u5236\u5230\u591a Agent \u4e0e\u4f01\u4e1a\u843d\u5730\u7684\u5de5\u7a0b\u5316\u5b9e\u6218\u6559\u7a0b\uff0c\u914d\u5957\u53ef\u8fd0\u884c\u8d2f\u7a7f\u9879\u76ee\u4e0e CI \u9a8c\u8bc1\u95e8\u7981\u3002",
-    "id": "cdavid817/awesome-agent-tutorial",
+    "description": "5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute",
+    "id": "AdrianDonohoe/5G_PCAP",
     "language": "Python",
-    "name": "cdavid817/awesome-agent-tutorial",
-    "stars": 12,
-    "updated_at": "2026-08-31T14:32:37Z",
-    "url": "https://github.com/cdavid817/awesome-agent-tutorial"
+    "name": "AdrianDonohoe/5G_PCAP",
+    "stars": 1,
+    "updated_at": "2026-08-31T14:39:02Z",
+    "url": "https://github.com/AdrianDonohoe/5G_PCAP"
+  },
+  {
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 8,
+    "updated_at": "2026-08-31T14:36:55Z",
+    "url": "https://github.com/metric-space-ai/greppy"
   },
   {
     "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
@@ -25,6 +70,15 @@
     "stars": 552,
     "updated_at": "2026-08-31T14:22:16Z",
     "url": "https://github.com/BlockRunAI/Franklin"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 5,
+    "updated_at": "2026-08-31T14:20:03Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "Cost-aware multi-agent orchestrator kit for OpenCode CLI \u2014 one routing agent, 14 specialized subagents, zero application",
@@ -52,15 +106,6 @@
     "stars": 2813,
     "updated_at": "2026-08-31T14:12:22Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
-  },
-  {
-    "description": "5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute",
-    "id": "AdrianDonohoe/5G_PCAP",
-    "language": "Python",
-    "name": "AdrianDonohoe/5G_PCAP",
-    "stars": 1,
-    "updated_at": "2026-08-31T14:39:02Z",
-    "url": "https://github.com/AdrianDonohoe/5G_PCAP"
   },
   {
     "description": "Rebuild AI building blocks from scratch for learning: transformer, tokenizer, agent, RAG, vector DB. \u4ece\u96f6\u5b9e\u73b0 AI \u76f8\u5173\u7684\u5de5\u5177\u4e0e\u6846\u67b6",
@@ -158,7 +203,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4403,
-    "updated_at": "2026-08-31T13:33:25Z",
+    "updated_at": "2026-08-31T14:46:29Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -185,7 +230,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 7080,
-    "updated_at": "2026-08-31T13:20:57Z",
+    "updated_at": "2026-08-31T14:54:47Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -221,7 +266,7 @@
     "language": "Python",
     "name": "T-80BVVD/kiri",
     "stars": 1,
-    "updated_at": "2026-08-31T13:10:32Z",
+    "updated_at": "2026-08-31T14:59:18Z",
     "url": "https://github.com/T-80BVVD/kiri"
   },
   {
@@ -274,7 +319,7 @@
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
-    "stars": 34,
+    "stars": 35,
     "updated_at": "2026-08-31T12:58:04Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
   },
@@ -342,15 +387,6 @@
     "url": "https://github.com/tomcounsell/ai"
   },
   {
-    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
-    "id": "metric-space-ai/greppy",
-    "language": "Rust",
-    "name": "metric-space-ai/greppy",
-    "stars": 8,
-    "updated_at": "2026-08-31T14:36:55Z",
-    "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
     "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
     "id": "amemhq/amem",
     "language": "TypeScript",
@@ -405,15 +441,6 @@
     "url": "https://github.com/Go1c/workflow-plugin"
   },
   {
-    "description": "\u900f\u660e\u53ef\u5ba1\u8ba1\u7684\u672c\u5730\u667a\u80fd\u4f53\u7ec8\u7aef\uff1a\u5bf9\u5f00\u6e90 agent \u6846\u67b6\u505a\u5b89\u5168\u5ba1\u8ba1\u4e0e\u52a0\u56fa\uff08RCE/\u6c99\u76d2\u7ed5\u8fc7/\u6ce8\u5165\uff09\uff0c\u5e76\u4ee5 50 \u6761\u6ce8\u5165\u57fa\u51c6 \u00d7 37 \u6761\u80fd\u529b\u57fa\u51c6\u53cc\u7ef4\u5ea6\u91cf\u5b89\u5168\u8fb9\u754c",
-    "id": "Canyon-Li/AuditronClaw",
-    "language": "Python",
-    "name": "Canyon-Li/AuditronClaw",
-    "stars": 2,
-    "updated_at": "2026-08-31T14:42:56Z",
-    "url": "https://github.com/Canyon-Li/AuditronClaw"
-  },
-  {
     "description": "RAG + tool-calling support agent for a fictional ecommerce company \u2014 BM25 retrieval, Gemini function calling, no framewo",
     "id": "VinayakTiwari7/Aster-Row-Agent",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-31T11:24:30Z",
     "url": "https://github.com/VinayakTiwari7/Aster-Row-Agent"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 948,
-    "updated_at": "2026-08-31T11:20:17Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "Harness LLMs with Multi-Agent Programming",
-    "id": "langroid/langroid",
-    "language": "Python",
-    "name": "langroid/langroid",
-    "stars": 4101,
-    "updated_at": "2026-08-31T11:09:13Z",
-    "url": "https://github.com/langroid/langroid"
-  },
-  {
-    "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 259,
-    "updated_at": "2026-08-31T11:07:42Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
   }
 ]
