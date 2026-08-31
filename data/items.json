@@ -1,12 +1,12 @@
 [
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
+    "description": "Drop-in MCP server that records real per-session agent cost/token/tool metrics and renders a Context Window Explorer ove",
+    "id": "sohaibsohail98/mcp-context-inspector",
     "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-31T18:29:08Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
+    "name": "sohaibsohail98/mcp-context-inspector",
+    "stars": 2,
+    "updated_at": "2026-08-31T18:41:34Z",
+    "url": "https://github.com/sohaibsohail98/mcp-context-inspector"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -14,17 +14,35 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 7082,
-    "updated_at": "2026-08-31T18:23:56Z",
+    "updated_at": "2026-08-31T18:40:19Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "Drop-in MCP server that records real per-session agent cost/token/tool metrics and renders a Context Window Explorer ove",
-    "id": "sohaibsohail98/mcp-context-inspector",
+    "description": "5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute",
+    "id": "AdrianDonohoe/5G_PCAP",
     "language": "Python",
-    "name": "sohaibsohail98/mcp-context-inspector",
-    "stars": 2,
-    "updated_at": "2026-08-31T18:29:52Z",
-    "url": "https://github.com/sohaibsohail98/mcp-context-inspector"
+    "name": "AdrianDonohoe/5G_PCAP",
+    "stars": 1,
+    "updated_at": "2026-08-31T18:34:54Z",
+    "url": "https://github.com/AdrianDonohoe/5G_PCAP"
+  },
+  {
+    "description": "Easy-to-use, easy-to-customize, and high-quality secure code review skills for AI agents.",
+    "id": "ivan-sincek/secure-code-review-agent-skills",
+    "language": "\u2014",
+    "name": "ivan-sincek/secure-code-review-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-08-31T18:29:58Z",
+    "url": "https://github.com/ivan-sincek/secure-code-review-agent-skills"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-31T18:29:08Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "ToolAgents is a lightweight and flexible framework for creating function-calling agents with various language models and",
@@ -86,7 +104,7 @@
     "language": "Go",
     "name": "sky-valley/pi",
     "stars": 44,
-    "updated_at": "2026-08-31T17:53:02Z",
+    "updated_at": "2026-08-31T18:32:01Z",
     "url": "https://github.com/sky-valley/pi"
   },
   {
@@ -124,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-08-31T17:43:53Z",
     "url": "https://github.com/sydches/yuj"
-  },
-  {
-    "description": "5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute",
-    "id": "AdrianDonohoe/5G_PCAP",
-    "language": "Python",
-    "name": "AdrianDonohoe/5G_PCAP",
-    "stars": 1,
-    "updated_at": "2026-08-31T17:41:09Z",
-    "url": "https://github.com/AdrianDonohoe/5G_PCAP"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-31T16:57:34Z",
     "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-08-31T16:55:32Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
   }
 ]
