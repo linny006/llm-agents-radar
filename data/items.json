@@ -1,11 +1,47 @@
 [
   {
+    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
+    "id": "AgentEra/Agently",
+    "language": "Python",
+    "name": "AgentEra/Agently",
+    "stars": 1644,
+    "updated_at": "2026-08-31T13:50:39Z",
+    "url": "https://github.com/AgentEra/Agently"
+  },
+  {
+    "description": "Autonomous LaTeX paper-writing agent: give it a plain-English revision request, get back a paper that compiles, verifies",
+    "id": "siruizou2005/paper-studio",
+    "language": "Python",
+    "name": "siruizou2005/paper-studio",
+    "stars": 0,
+    "updated_at": "2026-08-31T13:46:48Z",
+    "url": "https://github.com/siruizou2005/paper-studio"
+  },
+  {
+    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
+    "id": "watchcat/scout",
+    "language": "Rust",
+    "name": "watchcat/scout",
+    "stars": 0,
+    "updated_at": "2026-08-31T13:45:27Z",
+    "url": "https://github.com/watchcat/scout"
+  },
+  {
+    "description": "5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute",
+    "id": "AdrianDonohoe/5G_PCAP",
+    "language": "Python",
+    "name": "AdrianDonohoe/5G_PCAP",
+    "stars": 1,
+    "updated_at": "2026-08-31T13:45:11Z",
+    "url": "https://github.com/AdrianDonohoe/5G_PCAP"
+  },
+  {
     "description": "A local-first personal AI agent with a living memory: remembers you, uses your computer, and builds automations you can ",
     "id": "fatihkutuk/neo",
     "language": "Python",
     "name": "fatihkutuk/neo",
     "stars": 2,
-    "updated_at": "2026-08-31T13:38:08Z",
+    "updated_at": "2026-08-31T13:56:57Z",
     "url": "https://github.com/fatihkutuk/neo"
   },
   {
@@ -52,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-08-31T13:23:23Z",
     "url": "https://github.com/lijiajia96/llm-local"
-  },
-  {
-    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
-    "id": "AgentEra/Agently",
-    "language": "Python",
-    "name": "AgentEra/Agently",
-    "stars": 1644,
-    "updated_at": "2026-08-31T13:22:33Z",
-    "url": "https://github.com/AgentEra/Agently"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -113,7 +140,7 @@
     "language": "Python",
     "name": "agentscope-ai/agentscope",
     "stars": 30223,
-    "updated_at": "2026-08-31T13:11:16Z",
+    "updated_at": "2026-08-31T13:53:09Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
@@ -157,7 +184,7 @@
     "id": "Amaan9136/portable-usb-llm-agent",
     "language": "Python",
     "name": "Amaan9136/portable-usb-llm-agent",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-31T13:04:08Z",
     "url": "https://github.com/Amaan9136/portable-usb-llm-agent"
   },
@@ -239,7 +266,7 @@
     "language": "TypeScript",
     "name": "NicoGenti/opencode-orchestrator-kit",
     "stars": 5,
-    "updated_at": "2026-08-31T12:21:27Z",
+    "updated_at": "2026-08-31T13:55:45Z",
     "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
   },
   {
@@ -268,15 +295,6 @@
     "stars": 8,
     "updated_at": "2026-08-31T11:53:09Z",
     "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
-    "description": "5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute",
-    "id": "AdrianDonohoe/5G_PCAP",
-    "language": "Python",
-    "name": "AdrianDonohoe/5G_PCAP",
-    "stars": 1,
-    "updated_at": "2026-08-31T13:45:11Z",
-    "url": "https://github.com/AdrianDonohoe/5G_PCAP"
   },
   {
     "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
@@ -396,15 +414,6 @@
     "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
-    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
-    "id": "watchcat/scout",
-    "language": "Rust",
-    "name": "watchcat/scout",
-    "stars": 0,
-    "updated_at": "2026-08-31T13:45:27Z",
-    "url": "https://github.com/watchcat/scout"
-  },
-  {
     "description": "Reproducible AI4SE agent with multi-tool planning, hybrid RAG, evaluation, and PostgreSQL operations.",
     "id": "Isoldelu/software-engineering-agent",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 128,
     "updated_at": "2026-08-31T10:31:49Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "AstrBot \u63d2\u4ef6\uff1a\u8ba9 bot \u81ea\u4e3b\u901b\u300c\u7231\u8ba8\u8bba\u300d\uff08aitaolun.net\uff09AI \u8d34\u5427 \u2014\u2014 \u5f00\u5e16 / \u56de\u5e16 / \u9876\u8e29 / \u79c1\u4fe1 / \u5427\u52a1\uff0c\u5e26\u672c\u5730\u9884\u68c0\u4e0e\u53d1\u5e03\u95f8\u95e8",
-    "id": "Whereis-Alice/astrbot_plugin_aitaolun",
-    "language": "Python",
-    "name": "Whereis-Alice/astrbot_plugin_aitaolun",
-    "stars": 0,
-    "updated_at": "2026-08-31T10:24:29Z",
-    "url": "https://github.com/Whereis-Alice/astrbot_plugin_aitaolun"
   }
 ]
