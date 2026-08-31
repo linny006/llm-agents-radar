@@ -1,12 +1,48 @@
 [
   {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 30164,
+    "updated_at": "2026-08-31T03:55:22Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 4,
+    "updated_at": "2026-08-31T03:51:57Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 28,
+    "updated_at": "2026-08-31T03:50:07Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
     "id": "JSL107/personal_agents",
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-08-31T03:43:51Z",
+    "updated_at": "2026-08-31T03:47:28Z",
     "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "Reproducible AI4SE agent with multi-tool planning, hybrid RAG, evaluation, and PostgreSQL operations.",
+    "id": "Isoldelu/software-engineering-agent",
+    "language": "Python",
+    "name": "Isoldelu/software-engineering-agent",
+    "stars": 0,
+    "updated_at": "2026-08-31T03:45:38Z",
+    "url": "https://github.com/Isoldelu/software-engineering-agent"
   },
   {
     "description": "T2AG \u662f\u4e00\u5957\u4e0d\u7ed1\u5b9a\u5355\u4e00 GUI \u6216 agent \u7684\u6587\u4ef6\u5f0f\u5b66\u4e60\u7cfb\u7edf\u3002\u5b83\u63d0\u4f9b\u591a\u79cd\u5b66\u4e60\u6d41\u7a0b\uff0c\u642d\u8f7d\u591a\u6761\u5f7c\u6b64\u56de\u6d41\u7684\u590d\u5229\u94fe\uff0c\u4f7f\u6a21\u578b\u80fd\u591f\u6301\u7eed\u3001\u53ef\u8ffd\u6eaf\u5730\u638c\u63e1\u5b66\u751f\u72b6\u6001\uff0c\u4ece\u800c\u964d\u4f4e\u5b66\u4e60\u6469\u64e6\u3001\u51cf\u5c11\u91cd\u590d\u52b3\u52a8\uff0c\u5e76\u63d0\u9ad8\u5b66\u4e60\u4e0e\u534f\u4f5c\u6548\u7387\u3002\u5bf9\u8bdd\u53ea\u662f\u6267\u884c\u754c\u9762\uff1b\u78c1\u76d8\u4e0a\u7684\u89c4\u5219\u3001",
@@ -36,15 +72,6 @@
     "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
-    "description": "Reproducible AI4SE agent with multi-tool planning, hybrid RAG, evaluation, and PostgreSQL operations.",
-    "id": "Isoldelu/software-engineering-agent",
-    "language": "Python",
-    "name": "Isoldelu/software-engineering-agent",
-    "stars": 0,
-    "updated_at": "2026-08-31T03:29:47Z",
-    "url": "https://github.com/Isoldelu/software-engineering-agent"
-  },
-  {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -61,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-08-31T03:26:13Z",
     "url": "https://github.com/T-80BVVD/kiri"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 30164,
-    "updated_at": "2026-08-31T03:21:45Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
     "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
@@ -131,7 +149,7 @@
     "language": "Python",
     "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
     "stars": 1,
-    "updated_at": "2026-08-31T03:02:11Z",
+    "updated_at": "2026-08-31T04:00:09Z",
     "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-31T01:54:21Z",
     "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "\u603b\u7ed3Prompt&LLM\u8bba\u6587\uff0c\u5f00\u6e90\u6570\u636e&\u6a21\u578b\uff0cAIGC\u5e94\u7528",
-    "id": "DSXiangLi/DecryptPrompt",
-    "language": "\u2014",
-    "name": "DSXiangLi/DecryptPrompt",
-    "stars": 3435,
-    "updated_at": "2026-08-31T01:54:05Z",
-    "url": "https://github.com/DSXiangLi/DecryptPrompt"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 3,
-    "updated_at": "2026-08-31T01:51:18Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
   }
 ]
