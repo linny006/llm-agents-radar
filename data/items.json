@@ -1,5 +1,23 @@
 [
   {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 0,
+    "updated_at": "2026-08-31T20:11:35Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "ToolAgents is a lightweight and flexible framework for creating function-calling agents with various language models and",
+    "id": "Maximilian-Winter/ToolAgents",
+    "language": "Python",
+    "name": "Maximilian-Winter/ToolAgents",
+    "stars": 38,
+    "updated_at": "2026-08-31T20:02:26Z",
+    "url": "https://github.com/Maximilian-Winter/ToolAgents"
+  },
+  {
     "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
     "id": "the-priest/PriestsBasilisk",
     "language": "Python",
@@ -25,15 +43,6 @@
     "stars": 7,
     "updated_at": "2026-08-31T19:49:31Z",
     "url": "https://github.com/forger-labs-hq/researchforge"
-  },
-  {
-    "description": "ToolAgents is a lightweight and flexible framework for creating function-calling agents with various language models and",
-    "id": "Maximilian-Winter/ToolAgents",
-    "language": "Python",
-    "name": "Maximilian-Winter/ToolAgents",
-    "stars": 38,
-    "updated_at": "2026-08-31T19:40:21Z",
-    "url": "https://github.com/Maximilian-Winter/ToolAgents"
   },
   {
     "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
@@ -338,7 +347,7 @@
     "language": "Python",
     "name": "rekursiv-ai/sagent",
     "stars": 32,
-    "updated_at": "2026-08-31T17:25:24Z",
+    "updated_at": "2026-08-31T20:11:55Z",
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-31T17:14:29Z",
     "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-08-31T17:11:58Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
   }
 ]
