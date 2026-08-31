@@ -1,5 +1,23 @@
 [
   {
+    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
+    "id": "sky-valley/pi",
+    "language": "Go",
+    "name": "sky-valley/pi",
+    "stars": 44,
+    "updated_at": "2026-08-31T17:53:02Z",
+    "url": "https://github.com/sky-valley/pi"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3173,
+    "updated_at": "2026-08-31T17:58:03Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
     "description": "5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute",
     "id": "AdrianDonohoe/5G_PCAP",
     "language": "Python",
@@ -16,6 +34,15 @@
     "stars": 5,
     "updated_at": "2026-08-31T17:37:10Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
+    "id": "ravisinghrajput95/kubewhy",
+    "language": "Python",
+    "name": "ravisinghrajput95/kubewhy",
+    "stars": 0,
+    "updated_at": "2026-08-31T17:36:32Z",
+    "url": "https://github.com/ravisinghrajput95/kubewhy"
   },
   {
     "description": "Sort your Downloads by project, not file type \u2014 with one-command undo. No delete, ever.",
@@ -63,22 +90,22 @@
     "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
   },
   {
-    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
-    "id": "ravisinghrajput95/kubewhy",
-    "language": "Python",
-    "name": "ravisinghrajput95/kubewhy",
-    "stars": 0,
-    "updated_at": "2026-08-31T17:36:32Z",
-    "url": "https://github.com/ravisinghrajput95/kubewhy"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 7081,
-    "updated_at": "2026-08-31T17:29:34Z",
+    "updated_at": "2026-08-31T17:56:04Z",
     "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
+    "id": "Aureliedumbfounding630/agent-governance-toolkit",
+    "language": "\u2014",
+    "name": "Aureliedumbfounding630/agent-governance-toolkit",
+    "stars": 0,
+    "updated_at": "2026-08-31T17:29:01Z",
+    "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
   },
   {
     "description": "Automate Elytra flight, navigation, and landing for Meteor Client with intelligent pathfinding and rocket management.",
@@ -338,7 +365,7 @@
     "language": "Swift",
     "name": "BiBoyang/ForgeLoopTUI",
     "stars": 1,
-    "updated_at": "2026-08-31T16:51:13Z",
+    "updated_at": "2026-08-31T17:48:16Z",
     "url": "https://github.com/BiBoyang/ForgeLoopTUI"
   },
   {
@@ -419,34 +446,7 @@
     "language": "Rust",
     "name": "metric-space-ai/greppy",
     "stars": 8,
-    "updated_at": "2026-08-31T16:17:41Z",
+    "updated_at": "2026-08-31T17:47:44Z",
     "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-08-31T16:15:14Z",
-    "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
-    "id": "Om-Khode/TENKA",
-    "language": "Python",
-    "name": "Om-Khode/TENKA",
-    "stars": 7,
-    "updated_at": "2026-08-31T16:09:20Z",
-    "url": "https://github.com/Om-Khode/TENKA"
-  },
-  {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 1025,
-    "updated_at": "2026-08-31T15:59:22Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
   }
 ]
