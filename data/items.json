@@ -1,5 +1,50 @@
 [
   {
+    "description": "Agentic Theorem Prover for Rocq for Program Verification",
+    "id": "NUS-Program-Verification/AutoRocq",
+    "language": "Python",
+    "name": "NUS-Program-Verification/AutoRocq",
+    "stars": 26,
+    "updated_at": "2026-08-31T11:43:27Z",
+    "url": "https://github.com/NUS-Program-Verification/AutoRocq"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-08-31T11:42:53Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-31T11:32:39Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "DARWIN \u2014 evolutionary strategy foundry: an LLM proposes crypto trading strategies, a leakage-proof gauntlet kills 90% of",
+    "id": "dobrinsm/darwin",
+    "language": "Python",
+    "name": "dobrinsm/darwin",
+    "stars": 0,
+    "updated_at": "2026-08-31T11:30:31Z",
+    "url": "https://github.com/dobrinsm/darwin"
+  },
+  {
+    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
+    "id": "Rekin226/Agronaut",
+    "language": "Python",
+    "name": "Rekin226/Agronaut",
+    "stars": 3,
+    "updated_at": "2026-08-31T11:30:12Z",
+    "url": "https://github.com/Rekin226/Agronaut"
+  },
+  {
     "description": "Connect Claude Code, Cursor, and Codex to Workflow (workflow.games): your AI coding agent plans requirements, files bugs",
     "id": "Go1c/workflow-plugin",
     "language": "JavaScript",
@@ -18,12 +63,21 @@
     "url": "https://github.com/Canyon-Li/AuditronClaw"
   },
   {
+    "description": "RAG + tool-calling support agent for a fictional ecommerce company \u2014 BM25 retrieval, Gemini function calling, no framewo",
+    "id": "VinayakTiwari7/Aster-Row-Agent",
+    "language": "Python",
+    "name": "VinayakTiwari7/Aster-Row-Agent",
+    "stars": 0,
+    "updated_at": "2026-08-31T11:24:30Z",
+    "url": "https://github.com/VinayakTiwari7/Aster-Row-Agent"
+  },
+  {
     "description": "A local-first personal AI agent with a living memory: remembers you, uses your computer, and builds automations you can ",
     "id": "fatihkutuk/neo",
     "language": "Python",
     "name": "fatihkutuk/neo",
     "stars": 2,
-    "updated_at": "2026-08-31T11:24:14Z",
+    "updated_at": "2026-08-31T11:40:16Z",
     "url": "https://github.com/fatihkutuk/neo"
   },
   {
@@ -43,15 +97,6 @@
     "stars": 33,
     "updated_at": "2026-08-31T11:19:53Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 6,
-    "updated_at": "2026-08-31T11:27:57Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Harness LLMs with Multi-Agent Programming",
@@ -104,7 +149,7 @@
     "language": "TypeScript",
     "name": "amemhq/amem",
     "stars": 3,
-    "updated_at": "2026-08-31T10:54:47Z",
+    "updated_at": "2026-08-31T11:44:08Z",
     "url": "https://github.com/amemhq/amem"
   },
   {
@@ -176,7 +221,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-31T10:12:27Z",
+    "updated_at": "2026-08-31T11:41:14Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -187,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T10:08:15Z",
     "url": "https://github.com/uukuguy/capstone"
-  },
-  {
-    "description": "Agentic Theorem Prover for Rocq for Program Verification",
-    "id": "NUS-Program-Verification/AutoRocq",
-    "language": "Python",
-    "name": "NUS-Program-Verification/AutoRocq",
-    "stars": 26,
-    "updated_at": "2026-08-31T10:02:00Z",
-    "url": "https://github.com/NUS-Program-Verification/AutoRocq"
   },
   {
     "description": "Build and run agents you can see, understand and trust.",
@@ -232,15 +268,6 @@
     "stars": 1386,
     "updated_at": "2026-08-31T09:41:30Z",
     "url": "https://github.com/larlarua/AutoCVE"
-  },
-  {
-    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
-    "id": "Rekin226/Agronaut",
-    "language": "Python",
-    "name": "Rekin226/Agronaut",
-    "stars": 3,
-    "updated_at": "2026-08-31T11:30:12Z",
-    "url": "https://github.com/Rekin226/Agronaut"
   },
   {
     "description": "Browser-based vLLM Chat Agent with local Memory, Skills, ReAct tools, and session isolation",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-31T09:09:27Z",
     "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
-    "id": "Laurenfeminine36/google-jules-skill",
-    "language": "Python",
-    "name": "Laurenfeminine36/google-jules-skill",
-    "stars": 1,
-    "updated_at": "2026-08-31T09:09:11Z",
-    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 210,
-    "updated_at": "2026-08-31T09:08:53Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-08-31T09:06:34Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
   }
 ]
