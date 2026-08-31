@@ -1,12 +1,84 @@
 [
   {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 30,
+    "updated_at": "2026-08-31T09:55:47Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "A local-first personal AI agent with a living memory: remembers you, uses your computer, and builds automations you can ",
+    "id": "fatihkutuk/neo",
+    "language": "Python",
+    "name": "fatihkutuk/neo",
+    "stars": 2,
+    "updated_at": "2026-08-31T09:53:28Z",
+    "url": "https://github.com/fatihkutuk/neo"
+  },
+  {
+    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
+    "id": "watchcat/scout",
+    "language": "Rust",
+    "name": "watchcat/scout",
+    "stars": 0,
+    "updated_at": "2026-08-31T09:51:54Z",
+    "url": "https://github.com/watchcat/scout"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 30198,
+    "updated_at": "2026-08-31T09:51:02Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
     "description": "A portable, offline coding agent that runs entirely from a USB drive on Windows. It uses a local LLM through llama.cpp f",
     "id": "Amaan9136/portable-usb-llm-agent",
     "language": "Python",
     "name": "Amaan9136/portable-usb-llm-agent",
     "stars": 0,
-    "updated_at": "2026-08-31T09:44:57Z",
+    "updated_at": "2026-08-31T09:56:58Z",
     "url": "https://github.com/Amaan9136/portable-usb-llm-agent"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5860,
+    "updated_at": "2026-08-31T09:44:43Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "TaskWizard\uff1a\u8584\u73af\uff08thin-loop\uff09LLM \u5b89\u5353\u624b\u673a\u667a\u80fd\u4f53 \u2014 \u6bcf\u6b65\u4e00\u6b21\u6a21\u578b\u8c03\u7528\u3001marks-first \u843d\u5730\u3001\u5b89\u5168\u9884\u8b66\u5236\u3001App-KB \u81ea\u79ef\u7d2f\u8bb0\u5fc6\u3001\u7ecf\u9a8c\u56de\u60f3\uff08RAG shadow\uff09\u3002Thin-loop LLM Android ",
+    "id": "tom-cat-mao/TaskWizard",
+    "language": "Python",
+    "name": "tom-cat-mao/TaskWizard",
+    "stars": 0,
+    "updated_at": "2026-08-31T09:44:17Z",
+    "url": "https://github.com/tom-cat-mao/TaskWizard"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-31T09:56:34Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generatio",
+    "id": "larlarua/AutoCVE",
+    "language": "Python",
+    "name": "larlarua/AutoCVE",
+    "stars": 1386,
+    "updated_at": "2026-08-31T09:41:30Z",
+    "url": "https://github.com/larlarua/AutoCVE"
   },
   {
     "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
@@ -16,15 +88,6 @@
     "stars": 3,
     "updated_at": "2026-08-31T09:40:10Z",
     "url": "https://github.com/Rekin226/Agronaut"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-31T09:42:13Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Browser-based vLLM Chat Agent with local Memory, Skills, ReAct tools, and session isolation",
@@ -61,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T09:26:50Z",
     "url": "https://github.com/verniceunleaded6135/tidy-undo"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 30,
-    "updated_at": "2026-08-31T09:26:15Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node\u2014no complex workflows needed.",
@@ -124,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T09:22:39Z",
     "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
-  },
-  {
-    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
-    "id": "watchcat/scout",
-    "language": "Rust",
-    "name": "watchcat/scout",
-    "stars": 0,
-    "updated_at": "2026-08-31T09:20:32Z",
-    "url": "https://github.com/watchcat/scout"
   },
   {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
@@ -198,15 +243,6 @@
     "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
   },
   {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 30196,
-    "updated_at": "2026-08-31T09:10:58Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
     "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
     "id": "chadwickhyperboloidal943/knowl",
     "language": "TypeScript",
@@ -270,21 +306,12 @@
     "url": "https://github.com/Tonyx79/clov-ai"
   },
   {
-    "description": "A local-first personal AI agent with a living memory: remembers you, uses your computer, and builds automations you can ",
-    "id": "fatihkutuk/neo",
-    "language": "Python",
-    "name": "fatihkutuk/neo",
-    "stars": 2,
-    "updated_at": "2026-08-31T09:14:58Z",
-    "url": "https://github.com/fatihkutuk/neo"
-  },
-  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
     "name": "helixml/helix",
     "stars": 803,
-    "updated_at": "2026-08-31T09:44:22Z",
+    "updated_at": "2026-08-31T09:51:43Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-31T08:42:33Z",
     "url": "https://github.com/karvidsson/kbots"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 16,
-    "updated_at": "2026-08-31T08:55:56Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
-    "id": "uukuguy/capstone",
-    "language": "Python",
-    "name": "uukuguy/capstone",
-    "stars": 0,
-    "updated_at": "2026-08-31T08:37:36Z",
-    "url": "https://github.com/uukuguy/capstone"
-  },
-  {
-    "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 259,
-    "updated_at": "2026-08-31T08:35:08Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
   }
 ]
