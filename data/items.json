@@ -1,5 +1,41 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-31T18:29:08Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7082,
+    "updated_at": "2026-08-31T18:23:56Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Drop-in MCP server that records real per-session agent cost/token/tool metrics and renders a Context Window Explorer ove",
+    "id": "sohaibsohail98/mcp-context-inspector",
+    "language": "Python",
+    "name": "sohaibsohail98/mcp-context-inspector",
+    "stars": 2,
+    "updated_at": "2026-08-31T18:29:52Z",
+    "url": "https://github.com/sohaibsohail98/mcp-context-inspector"
+  },
+  {
+    "description": "ToolAgents is a lightweight and flexible framework for creating function-calling agents with various language models and",
+    "id": "Maximilian-Winter/ToolAgents",
+    "language": "Python",
+    "name": "Maximilian-Winter/ToolAgents",
+    "stars": 38,
+    "updated_at": "2026-08-31T18:16:06Z",
+    "url": "https://github.com/Maximilian-Winter/ToolAgents"
+  },
+  {
     "description": "Multi-agent job discovery, independent LLM judging, read-only application-form drafting, and local Excel tracking for Co",
     "id": "mehboobali98/job-search-agent",
     "language": "JavaScript",
@@ -23,7 +59,7 @@
     "language": "TypeScript",
     "name": "khudayarovich/onflip-agent",
     "stars": 1,
-    "updated_at": "2026-08-31T18:07:53Z",
+    "updated_at": "2026-08-31T18:28:32Z",
     "url": "https://github.com/khudayarovich/onflip-agent"
   },
   {
@@ -43,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-08-31T18:02:02Z",
     "url": "https://github.com/Canyon-Li/AuditronClaw"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7082,
-    "updated_at": "2026-08-31T17:56:04Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-31T16:55:32Z",
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "Controllable and Transparent LLM Application Framework",
-    "id": "gumblex/aitoolman",
-    "language": "Python",
-    "name": "gumblex/aitoolman",
-    "stars": 4,
-    "updated_at": "2026-08-31T16:49:03Z",
-    "url": "https://github.com/gumblex/aitoolman"
-  },
-  {
-    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
-    "id": "mnemon-dev/mnemon",
-    "language": "Go",
-    "name": "mnemon-dev/mnemon",
-    "stars": 542,
-    "updated_at": "2026-08-31T16:37:54Z",
-    "url": "https://github.com/mnemon-dev/mnemon"
-  },
-  {
-    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
-    "id": "gabrielmaialva33/winx-code-agent",
-    "language": "Rust",
-    "name": "gabrielmaialva33/winx-code-agent",
-    "stars": 34,
-    "updated_at": "2026-08-31T16:36:00Z",
-    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
   }
 ]
