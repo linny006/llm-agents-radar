@@ -1,12 +1,12 @@
 [
   {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
+    "description": "Open-source Claude Code for academic papers \u2014 translate, write, review, and export research papers locally",
+    "id": "zuowen7/scholar-assistant-agent",
     "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 17,
-    "updated_at": "2026-08-31T06:57:50Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
+    "name": "zuowen7/scholar-assistant-agent",
+    "stars": 4,
+    "updated_at": "2026-08-31T07:12:28Z",
+    "url": "https://github.com/zuowen7/scholar-assistant-agent"
   },
   {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
@@ -14,8 +14,44 @@
     "language": "Python",
     "name": "kangkukjin/indiebizOS",
     "stars": 4,
-    "updated_at": "2026-08-31T06:57:09Z",
+    "updated_at": "2026-08-31T07:11:30Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 17,
+    "updated_at": "2026-08-31T07:10:08Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-08-31T07:08:35Z",
+    "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
+    "description": "Self-hosted multi-tenant agent platform for teams: skills, knowledge, API contracts and MCP servers live in the database",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 22,
+    "updated_at": "2026-08-31T07:05:51Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
+    "id": "ChanTso/citybuddy",
+    "language": "Java",
+    "name": "ChanTso/citybuddy",
+    "stars": 0,
+    "updated_at": "2026-08-31T06:59:56Z",
+    "url": "https://github.com/ChanTso/citybuddy"
   },
   {
     "description": "\u5267\u672c\u5206\u955c\u5de5\u5177\u667a\u80fd\u4f53\uff08PenShot\uff09\uff1a\u7535\u5f71/\u52a8\u6f2b/\u77ed\u5267/\u5c0f\u8bf4/\u5267\u672c\u2192\u5206\u955c\u2192\u7247\u6bb5\u2192prompt | \u57fa\u4e8e LangGraph+LLM\uff0c\u81ea\u52a8\u89e3\u6790\u4efb\u610f\u683c\u5f0f\u5267\u672c\uff0c\u751f\u6210 Sora/Veo/Runway \u7b49\u6a21\u578b\u53ef\u7528\u7684\u8fde\u8d2ftext-to-video\u63d0\u793a\u8bcd",
@@ -32,7 +68,7 @@
     "language": "Rust",
     "name": "citizenhicks/mobius",
     "stars": 1,
-    "updated_at": "2026-08-31T06:58:40Z",
+    "updated_at": "2026-08-31T07:08:35Z",
     "url": "https://github.com/citizenhicks/mobius"
   },
   {
@@ -77,7 +113,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-31T06:44:40Z",
+    "updated_at": "2026-08-31T07:09:01Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -103,7 +139,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 30173,
+    "stars": 30176,
     "updated_at": "2026-08-31T06:39:30Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -337,7 +373,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 939,
+    "stars": 940,
     "updated_at": "2026-08-31T03:21:02Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -349,15 +385,6 @@
     "stars": 7,
     "updated_at": "2026-08-31T03:16:58Z",
     "url": "https://github.com/alex8224/synapse-agent"
-  },
-  {
-    "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
-    "id": "ChanTso/citybuddy",
-    "language": "Java",
-    "name": "ChanTso/citybuddy",
-    "stars": 0,
-    "updated_at": "2026-08-31T06:59:56Z",
-    "url": "https://github.com/ChanTso/citybuddy"
   },
   {
     "description": "Browser-based vLLM Chat Agent with local Memory, Skills, ReAct tools, and session isolation",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-31T02:30:23Z",
     "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
-  },
-  {
-    "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
-    "id": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
-    "language": "JavaScript",
-    "name": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
-    "stars": 1,
-    "updated_at": "2026-08-31T02:29:37Z",
-    "url": "https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder"
-  },
-  {
-    "description": "Verify area values quickly with this web-based HTML calculator tool.",
-    "id": "passive-hotpepper515/area-checker-html-tool",
-    "language": "HTML",
-    "name": "passive-hotpepper515/area-checker-html-tool",
-    "stars": 0,
-    "updated_at": "2026-08-31T02:29:13Z",
-    "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
-  },
-  {
-    "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
-    "id": "Blondieredistributed612/pocket-agent",
-    "language": "Python",
-    "name": "Blondieredistributed612/pocket-agent",
-    "stars": 1,
-    "updated_at": "2026-08-31T02:28:03Z",
-    "url": "https://github.com/Blondieredistributed612/pocket-agent"
   }
 ]
