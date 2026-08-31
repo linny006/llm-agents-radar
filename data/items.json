@@ -1,11 +1,20 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-31T06:13:49Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "Reproducible AI4SE agent with multi-tool planning, hybrid RAG, evaluation, and PostgreSQL operations.",
     "id": "Isoldelu/software-engineering-agent",
     "language": "Python",
     "name": "Isoldelu/software-engineering-agent",
     "stars": 0,
-    "updated_at": "2026-08-31T06:11:50Z",
+    "updated_at": "2026-08-31T06:13:41Z",
     "url": "https://github.com/Isoldelu/software-engineering-agent"
   },
   {
@@ -52,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T05:48:52Z",
     "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-31T05:39:39Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "T2AG \u662f\u8003\u4f60\u800c\u4e0d\u662f\u66ff\u4f60\u7b54\u7684 AI \u5b66\u4e60\u6846\u67b6\uff1a\u9519\u9898\u3001\u8bc1\u660e\u4e0e\u6bcf\u4e00\u6b21\u88c1\u51b3\u90fd\u5b58\u5728\u5f52\u4f60\u6240\u6709\u7684\u7eaf\u6587\u672c\u91cc\uff0c\u4efb\u4f55 agent \u53ef\u8bfb\u53ef\u5e26\u8d70\uff1b\u73af\u4e0a\u7684\u88c1\u51b3\u8005\u662f\u4f60\u3002An AI learning harness that tests you instead of",
