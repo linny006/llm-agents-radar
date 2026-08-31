@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "cdavid817/awesome-agent-tutorial",
     "stars": 12,
-    "updated_at": "2026-08-31T14:55:39Z",
+    "updated_at": "2026-08-31T15:07:34Z",
     "url": "https://github.com/cdavid817/awesome-agent-tutorial"
+  },
+  {
+    "description": "A multi-tool LLM agent (LangGraph + AWS Bedrock) that pairs Ecuador's official INEC price statistics with its consumer-p",
+    "id": "karisaylema/consumer-price-guardian",
+    "language": "Python",
+    "name": "karisaylema/consumer-price-guardian",
+    "stars": 0,
+    "updated_at": "2026-08-31T15:00:36Z",
+    "url": "https://github.com/karisaylema/consumer-price-guardian"
   },
   {
     "description": "Project-local Markdown progress tracking for Codex, Claude Code, and MCP-compatible agents \u2014 resumable memory across ses",
@@ -16,15 +25,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T14:56:58Z",
     "url": "https://github.com/AndriiLavrekha/awesome-progress-tracker"
-  },
-  {
-    "description": "A multi-tool LLM agent (LangGraph + AWS Bedrock) that pairs Ecuador's official INEC price statistics with its consumer-p",
-    "id": "karisaylema/consumer-price-guardian",
-    "language": "Python",
-    "name": "karisaylema/consumer-price-guardian",
-    "stars": 0,
-    "updated_at": "2026-08-31T14:54:16Z",
-    "url": "https://github.com/karisaylema/consumer-price-guardian"
   },
   {
     "description": "\u900f\u660e\u53ef\u5ba1\u8ba1\u7684\u672c\u5730\u667a\u80fd\u4f53\u7ec8\u7aef\uff1a\u5bf9\u5f00\u6e90 agent \u6846\u67b6\u505a\u5b89\u5168\u5ba1\u8ba1\u4e0e\u52a0\u56fa\uff08RCE/\u6c99\u76d2\u7ed5\u8fc7/\u6ce8\u5165\uff09\uff0c\u5e76\u4ee5 50 \u6761\u6ce8\u5165\u57fa\u51c6 \u00d7 37 \u6761\u80fd\u529b\u57fa\u51c6\u53cc\u7ef4\u5ea6\u91cf\u5b89\u5168\u8fb9\u754c",
@@ -86,7 +86,7 @@
     "language": "TypeScript",
     "name": "NicoGenti/opencode-orchestrator-kit",
     "stars": 5,
-    "updated_at": "2026-08-31T14:16:54Z",
+    "updated_at": "2026-08-31T15:06:18Z",
     "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
   },
   {
@@ -203,7 +203,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4403,
-    "updated_at": "2026-08-31T14:46:29Z",
+    "updated_at": "2026-08-31T15:11:33Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -230,7 +230,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 7080,
-    "updated_at": "2026-08-31T14:54:47Z",
+    "updated_at": "2026-08-31T15:13:04Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
