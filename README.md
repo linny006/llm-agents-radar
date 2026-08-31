@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-31 10:45 UTC
+> ⏰ Last updated: 2026-08-31 11:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,23 +42,23 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Isoldelu/software-engineering-agent](https://github.com/Isoldelu/software-engineering-agent) | 0 | Python | 2026-08-31 | Reproducible AI4SE agent with multi-tool planning, hybrid RAG, evaluation, and PostgreSQL operations. |
-| 2 | [dsswift/ion](https://github.com/dsswift/ion) | 4 | TypeScript | 2026-08-31 | Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions. |
-| 3 | [amemhq/amem](https://github.com/amemhq/amem) | 3 | TypeScript | 2026-08-31 | Agentic-memory stack for LLM agents — memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven  |
-| 4 | [ljchang/mecha](https://github.com/ljchang/mecha) | 6 | Rust | 2026-08-31 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
-| 5 | [AdrianDonohoe/5G_PCAP](https://github.com/AdrianDonohoe/5G_PCAP) | 1 | Python | 2026-08-31 | 5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute |
-| 6 | [Yumm-del/factor-lab](https://github.com/Yumm-del/factor-lab) | 1 | Python | 2026-08-31 | 让 AI 在安全约束内挖掘 A 股因子：一句话想法 → 受限 DSL 表达式 → 量化研究标准体检 → 策略回测（AFAC 金融智能创新大赛 · 量化投资方向参赛作品） |
-| 7 | [555cute/r20-quantum-trader](https://github.com/555cute/r20-quantum-trader) | 33 | Python | 2026-08-31 | ⚡ LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI  |
-| 8 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 128 | HTML | 2026-08-31 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 9 | [fatihkutuk/neo](https://github.com/fatihkutuk/neo) | 2 | Python | 2026-08-31 | A local-first personal AI agent with a living memory: remembers you, uses your computer, and builds automations you can  |
-| 10 | [Whereis-Alice/astrbot_plugin_aitaolun](https://github.com/Whereis-Alice/astrbot_plugin_aitaolun) | 0 | Python | 2026-08-31 | AstrBot 插件：让 bot 自主逛「爱讨论」（aitaolun.net）AI 贴吧 —— 开帖 / 回帖 / 顶踩 / 私信 / 吧务，带本地预检与发布闸门 |
-| 11 | [ravisinghrajput95/kubewhy](https://github.com/ravisinghrajput95/kubewhy) | 0 | Python | 2026-08-31 | Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why — a local LLM read |
-| 12 | [Amaan9136/portable-usb-llm-agent](https://github.com/Amaan9136/portable-usb-llm-agent) | 0 | Python | 2026-08-31 | A portable, offline coding agent that runs entirely from a USB drive on Windows. It uses a local LLM through llama.cpp f |
-| 13 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-08-31 | A productive AI coworker that learns, self-improves, and ships work. |
-| 14 | [uukuguy/capstone](https://github.com/uukuguy/capstone) | 0 | Python | 2026-08-31 | Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio |
-| 15 | [watchcat/scout](https://github.com/watchcat/scout) | 0 | Rust | 2026-08-31 | A Telegram shopping researcher that verifies prices and links instead of inventing them |
+| 1 | [watchcat/scout](https://github.com/watchcat/scout) | 0 | Rust | 2026-08-31 | A Telegram shopping researcher that verifies prices and links instead of inventing them |
+| 2 | [amemhq/amem](https://github.com/amemhq/amem) | 3 | TypeScript | 2026-08-31 | Agentic-memory stack for LLM agents — memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven  |
+| 3 | [Amaan9136/portable-usb-llm-agent](https://github.com/Amaan9136/portable-usb-llm-agent) | 0 | Python | 2026-08-31 | A portable, offline coding agent that runs entirely from a USB drive on Windows. It uses a local LLM through llama.cpp f |
+| 4 | [Isoldelu/software-engineering-agent](https://github.com/Isoldelu/software-engineering-agent) | 0 | Python | 2026-08-31 | Reproducible AI4SE agent with multi-tool planning, hybrid RAG, evaluation, and PostgreSQL operations. |
+| 5 | [Yumm-del/factor-lab](https://github.com/Yumm-del/factor-lab) | 1 | Python | 2026-08-31 | 让 AI 在安全约束内挖掘 A 股因子：一句话想法 → 受限 DSL 表达式 → 量化研究标准体检 → 策略回测（AFAC 金融智能创新大赛 · 量化投资方向参赛作品） |
+| 6 | [dsswift/ion](https://github.com/dsswift/ion) | 4 | TypeScript | 2026-08-31 | Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions. |
+| 7 | [ljchang/mecha](https://github.com/ljchang/mecha) | 6 | Rust | 2026-08-31 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
+| 8 | [AdrianDonohoe/5G_PCAP](https://github.com/AdrianDonohoe/5G_PCAP) | 1 | Python | 2026-08-31 | 5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute |
+| 9 | [555cute/r20-quantum-trader](https://github.com/555cute/r20-quantum-trader) | 33 | Python | 2026-08-31 | ⚡ LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI  |
+| 10 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 128 | HTML | 2026-08-31 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 11 | [fatihkutuk/neo](https://github.com/fatihkutuk/neo) | 2 | Python | 2026-08-31 | A local-first personal AI agent with a living memory: remembers you, uses your computer, and builds automations you can  |
+| 12 | [Whereis-Alice/astrbot_plugin_aitaolun](https://github.com/Whereis-Alice/astrbot_plugin_aitaolun) | 0 | Python | 2026-08-31 | AstrBot 插件：让 bot 自主逛「爱讨论」（aitaolun.net）AI 贴吧 —— 开帖 / 回帖 / 顶踩 / 私信 / 吧务，带本地预检与发布闸门 |
+| 13 | [ravisinghrajput95/kubewhy](https://github.com/ravisinghrajput95/kubewhy) | 0 | Python | 2026-08-31 | Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why — a local LLM read |
+| 14 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-08-31 | A productive AI coworker that learns, self-improves, and ships work. |
+| 15 | [uukuguy/capstone](https://github.com/uukuguy/capstone) | 0 | Python | 2026-08-31 | Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio |
 | 16 | [NUS-Program-Verification/AutoRocq](https://github.com/NUS-Program-Verification/AutoRocq) | 26 | Python | 2026-08-31 | Agentic Theorem Prover for Rocq for Program Verification |
-| 17 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 30201 | Python | 2026-08-31 | Build and run agents you can see, understand and trust. |
+| 17 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 30203 | Python | 2026-08-31 | Build and run agents you can see, understand and trust. |
 | 18 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 5860 | Python | 2026-08-31 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
 | 19 | [tom-cat-mao/TaskWizard](https://github.com/tom-cat-mao/TaskWizard) | 0 | Python | 2026-08-31 | TaskWizard：薄环（thin-loop）LLM 安卓手机智能体 — 每步一次模型调用、marks-first 落地、安全预警制、App-KB 自积累记忆、经验回想（RAG shadow）。Thin-loop LLM Android  |
 | 20 | [larlarua/AutoCVE](https://github.com/larlarua/AutoCVE) | 1386 | Python | 2026-08-31 | Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generatio |
