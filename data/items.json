@@ -1,11 +1,29 @@
 [
   {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 2,
+    "updated_at": "2026-08-31T00:53:32Z",
+    "url": "https://github.com/sydches/yuj"
+  },
+  {
+    "description": "Competing-risks survival analysis for customer churn \u2014 five models from a naive baseline to Aalen-Johansen, Cox, and Ran",
+    "id": "reggGrammer7/competing-risks-churn-agent",
+    "language": "Python",
+    "name": "reggGrammer7/competing-risks-churn-agent",
+    "stars": 1,
+    "updated_at": "2026-08-31T00:49:45Z",
+    "url": "https://github.com/reggGrammer7/competing-risks-churn-agent"
+  },
+  {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
     "id": "JSL107/personal_agents",
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-08-31T00:44:06Z",
+    "updated_at": "2026-08-31T00:58:09Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -77,7 +95,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 16,
-    "updated_at": "2026-08-30T23:53:43Z",
+    "updated_at": "2026-08-31T00:55:21Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -223,15 +241,6 @@
     "stars": 5,
     "updated_at": "2026-08-30T22:00:35Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 2,
-    "updated_at": "2026-08-30T21:57:32Z",
-    "url": "https://github.com/sydches/yuj"
   },
   {
     "description": "\u9762\u5411 CTF \u7ade\u8d5b\u8bc4\u6d4b\u5e73\u53f0\uff08TSec Benchmark\uff09\u7684\u81ea\u52a8\u5316 Web/\u903b\u8f91\u6f0f\u6d1e\u6316\u6398\u4e0e\u5229\u7528 Agent\uff1a\u5206\u5c42\u8c03\u5ea6 + \u591a\u4f1a\u8bdd\u5e76\u53d1 + \u8de8\u4f1a\u8bdd\u5171\u4eab\u9ed1\u677f + \u5e73\u53f0\u6743\u5a01\u6821\u9a8c",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-30T19:32:24Z",
     "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
-    "id": "Indrasclerotinia71/local-ai-research-assistant",
-    "language": "Python",
-    "name": "Indrasclerotinia71/local-ai-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-30T19:31:19Z",
-    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
   }
 ]
