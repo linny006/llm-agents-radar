@@ -1,5 +1,59 @@
 [
   {
+    "description": "\u300a\u4f01\u4e1a\u7ea7 Agent \u4ece\u5165\u95e8\u5230\u4e13\u5bb6\uff082026\u7248\uff09\u300b\u2014\u2014\u4ece\u5355 Agent \u6838\u5fc3\u673a\u5236\u5230\u591a Agent \u4e0e\u4f01\u4e1a\u843d\u5730\u7684\u5de5\u7a0b\u5316\u5b9e\u6218\u6559\u7a0b\uff0c\u914d\u5957\u53ef\u8fd0\u884c\u8d2f\u7a7f\u9879\u76ee\u4e0e CI \u9a8c\u8bc1\u95e8\u7981\u3002",
+    "id": "cdavid817/awesome-agent-tutorial",
+    "language": "Python",
+    "name": "cdavid817/awesome-agent-tutorial",
+    "stars": 12,
+    "updated_at": "2026-08-31T14:14:35Z",
+    "url": "https://github.com/cdavid817/awesome-agent-tutorial"
+  },
+  {
+    "description": "Cost-aware multi-agent orchestrator kit for OpenCode CLI \u2014 one routing agent, 14 specialized subagents, zero application",
+    "id": "NicoGenti/opencode-orchestrator-kit",
+    "language": "TypeScript",
+    "name": "NicoGenti/opencode-orchestrator-kit",
+    "stars": 5,
+    "updated_at": "2026-08-31T14:07:26Z",
+    "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
+  },
+  {
+    "description": "Rebuild AI building blocks from scratch for learning: transformer, tokenizer, agent, RAG, vector DB. \u4ece\u96f6\u5b9e\u73b0 AI \u76f8\u5173\u7684\u5de5\u5177\u4e0e\u6846\u67b6",
+    "id": "xbsheng/ai-from-scratch",
+    "language": "Python",
+    "name": "xbsheng/ai-from-scratch",
+    "stars": 0,
+    "updated_at": "2026-08-31T14:02:23Z",
+    "url": "https://github.com/xbsheng/ai-from-scratch"
+  },
+  {
+    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
+    "id": "gabrielmaialva33/winx-code-agent",
+    "language": "Rust",
+    "name": "gabrielmaialva33/winx-code-agent",
+    "stars": 34,
+    "updated_at": "2026-08-31T14:00:24Z",
+    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
+  },
+  {
+    "description": "A local-first personal AI agent with a living memory: remembers you, uses your computer, and builds automations you can ",
+    "id": "fatihkutuk/neo",
+    "language": "Python",
+    "name": "fatihkutuk/neo",
+    "stars": 2,
+    "updated_at": "2026-08-31T14:08:20Z",
+    "url": "https://github.com/fatihkutuk/neo"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 30224,
+    "updated_at": "2026-08-31T13:53:09Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
     "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
     "id": "AgentEra/Agently",
     "language": "Python",
@@ -32,17 +86,8 @@
     "language": "Python",
     "name": "AdrianDonohoe/5G_PCAP",
     "stars": 1,
-    "updated_at": "2026-08-31T13:45:11Z",
+    "updated_at": "2026-08-31T14:04:06Z",
     "url": "https://github.com/AdrianDonohoe/5G_PCAP"
-  },
-  {
-    "description": "A local-first personal AI agent with a living memory: remembers you, uses your computer, and builds automations you can ",
-    "id": "fatihkutuk/neo",
-    "language": "Python",
-    "name": "fatihkutuk/neo",
-    "stars": 2,
-    "updated_at": "2026-08-31T13:56:57Z",
-    "url": "https://github.com/fatihkutuk/neo"
   },
   {
     "description": "The Agent Knowledge Cycle as a single behavioral rules file \u2014 install all six phases without the six standalone skills.",
@@ -135,15 +180,6 @@
     "url": "https://github.com/lostinheaven-knt/chatbi-harness"
   },
   {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 30223,
-    "updated_at": "2026-08-31T13:53:09Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
     "description": "A self-sustaining AI companion core \u2014 continuous stream of consciousness, autonomous agent, layered memory.",
     "id": "T-80BVVD/kiri",
     "language": "Python",
@@ -212,7 +248,7 @@
     "language": "TypeScript",
     "name": "sergezuber/FABULA-LLM-5",
     "stars": 84,
-    "updated_at": "2026-08-31T12:47:23Z",
+    "updated_at": "2026-08-31T14:15:12Z",
     "url": "https://github.com/sergezuber/FABULA-LLM-5"
   },
   {
@@ -259,15 +295,6 @@
     "stars": 3,
     "updated_at": "2026-08-31T12:17:27Z",
     "url": "https://github.com/kasparovabi/dsh-studio"
-  },
-  {
-    "description": "Cost-aware multi-agent orchestrator kit for OpenCode CLI \u2014 one routing agent, 14 specialized subagents, zero application",
-    "id": "NicoGenti/opencode-orchestrator-kit",
-    "language": "TypeScript",
-    "name": "NicoGenti/opencode-orchestrator-kit",
-    "stars": 5,
-    "updated_at": "2026-08-31T13:55:45Z",
-    "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-31T10:51:29Z",
     "url": "https://github.com/Isoldelu/software-engineering-agent"
-  },
-  {
-    "description": "\u8ba9 AI \u5728\u5b89\u5168\u7ea6\u675f\u5185\u6316\u6398 A \u80a1\u56e0\u5b50\uff1a\u4e00\u53e5\u8bdd\u60f3\u6cd5 \u2192 \u53d7\u9650 DSL \u8868\u8fbe\u5f0f \u2192 \u91cf\u5316\u7814\u7a76\u6807\u51c6\u4f53\u68c0 \u2192 \u7b56\u7565\u56de\u6d4b\uff08AFAC \u91d1\u878d\u667a\u80fd\u521b\u65b0\u5927\u8d5b \u00b7 \u91cf\u5316\u6295\u8d44\u65b9\u5411\u53c2\u8d5b\u4f5c\u54c1\uff09",
-    "id": "Yumm-del/factor-lab",
-    "language": "Python",
-    "name": "Yumm-del/factor-lab",
-    "stars": 1,
-    "updated_at": "2026-08-31T10:51:14Z",
-    "url": "https://github.com/Yumm-del/factor-lab"
-  },
-  {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "TypeScript",
-    "name": "dsswift/ion",
-    "stars": 4,
-    "updated_at": "2026-08-31T10:42:40Z",
-    "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 128,
-    "updated_at": "2026-08-31T10:31:49Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   }
 ]
