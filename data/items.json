@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 26,
-    "updated_at": "2026-08-31T21:29:36Z",
+    "updated_at": "2026-08-31T21:44:59Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 332,
+    "updated_at": "2026-08-31T21:41:05Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "A self-hosted Agent Skills marketplace",
+    "id": "nanoinfraorg/skills-server",
+    "language": "Go",
+    "name": "nanoinfraorg/skills-server",
+    "stars": 0,
+    "updated_at": "2026-08-31T21:42:42Z",
+    "url": "https://github.com/nanoinfraorg/skills-server"
+  },
+  {
+    "description": "An agent for coding and everyday tasks, powered by the ChatGPT account you already pay for. No API key, no per-token bil",
+    "id": "khudayarovich/onflip-agent",
+    "language": "TypeScript",
+    "name": "khudayarovich/onflip-agent",
+    "stars": 1,
+    "updated_at": "2026-08-31T21:32:28Z",
+    "url": "https://github.com/khudayarovich/onflip-agent"
+  },
+  {
+    "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
+    "id": "sunnnn2005/data-quality-agent",
+    "language": "Python",
+    "name": "sunnnn2005/data-quality-agent",
+    "stars": 0,
+    "updated_at": "2026-08-31T21:30:12Z",
+    "url": "https://github.com/sunnnn2005/data-quality-agent"
+  },
+  {
+    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
+    "id": "Sigmanih/SigmaStudio",
+    "language": "Python",
+    "name": "Sigmanih/SigmaStudio",
+    "stars": 7,
+    "updated_at": "2026-08-31T21:27:54Z",
+    "url": "https://github.com/Sigmanih/SigmaStudio"
   },
   {
     "description": "Drop-in MCP server that records real per-session agent cost/token/tool metrics and renders a Context Window Explorer ove",
@@ -25,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T21:18:33Z",
     "url": "https://github.com/watchcat/scout"
-  },
-  {
-    "description": "An agent for coding and everyday tasks, powered by the ChatGPT account you already pay for. No API key, no per-token bil",
-    "id": "khudayarovich/onflip-agent",
-    "language": "TypeScript",
-    "name": "khudayarovich/onflip-agent",
-    "stars": 1,
-    "updated_at": "2026-08-31T21:17:23Z",
-    "url": "https://github.com/khudayarovich/onflip-agent"
   },
   {
     "description": "Lightweight Swift terminal UI library for streaming AI transcripts with in-place updates and tool placeholders.",
@@ -72,20 +108,11 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
-    "id": "Sigmanih/SigmaStudio",
-    "language": "Python",
-    "name": "Sigmanih/SigmaStudio",
-    "stars": 7,
-    "updated_at": "2026-08-31T21:27:54Z",
-    "url": "https://github.com/Sigmanih/SigmaStudio"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7085,
+    "stars": 7086,
     "updated_at": "2026-08-31T20:41:20Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -239,7 +266,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-08-31T20:29:10Z",
+    "updated_at": "2026-08-31T21:31:09Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-31T17:23:41Z",
     "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 514,
-    "updated_at": "2026-08-31T17:23:22Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "A local-first personal AI agent with a living memory: remembers you, uses your computer, and builds automations you can ",
-    "id": "fatihkutuk/neo",
-    "language": "Python",
-    "name": "fatihkutuk/neo",
-    "stars": 2,
-    "updated_at": "2026-08-31T17:37:53Z",
-    "url": "https://github.com/fatihkutuk/neo"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-31T17:20:38Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   }
 ]
