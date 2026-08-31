@@ -1,5 +1,86 @@
 [
   {
+    "description": "Multi-agent job discovery, independent LLM judging, read-only application-form drafting, and local Excel tracking for Co",
+    "id": "mehboobali98/job-search-agent",
+    "language": "JavaScript",
+    "name": "mehboobali98/job-search-agent",
+    "stars": 0,
+    "updated_at": "2026-08-31T13:24:49Z",
+    "url": "https://github.com/mehboobali98/job-search-agent"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4403,
+    "updated_at": "2026-08-31T13:29:44Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Browser-based vLLM Chat Agent with local Memory, Skills, ReAct tools, and session isolation",
+    "id": "lijiajia96/llm-local",
+    "language": "TypeScript",
+    "name": "lijiajia96/llm-local",
+    "stars": 1,
+    "updated_at": "2026-08-31T13:23:23Z",
+    "url": "https://github.com/lijiajia96/llm-local"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7079,
+    "updated_at": "2026-08-31T13:20:57Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-31T13:17:07Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g",
+    "id": "lostinheaven-knt/chatbi-harness",
+    "language": "Python",
+    "name": "lostinheaven-knt/chatbi-harness",
+    "stars": 0,
+    "updated_at": "2026-08-31T13:11:42Z",
+    "url": "https://github.com/lostinheaven-knt/chatbi-harness"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 30222,
+    "updated_at": "2026-08-31T13:11:16Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "A self-sustaining AI companion core \u2014 continuous stream of consciousness, autonomous agent, layered memory.",
+    "id": "T-80BVVD/kiri",
+    "language": "Python",
+    "name": "T-80BVVD/kiri",
+    "stars": 1,
+    "updated_at": "2026-08-31T13:10:32Z",
+    "url": "https://github.com/T-80BVVD/kiri"
+  },
+  {
+    "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
+    "id": "mark-weeks/hello-nested-worlds-adventure",
+    "language": "Python",
+    "name": "mark-weeks/hello-nested-worlds-adventure",
+    "stars": 5,
+    "updated_at": "2026-08-31T13:07:09Z",
+    "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
+  },
+  {
     "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
     "id": "ChanTso/citybuddy",
     "language": "Java",
@@ -45,42 +126,6 @@
     "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
-    "description": "A self-sustaining AI companion core \u2014 continuous stream of consciousness, autonomous agent, layered memory.",
-    "id": "T-80BVVD/kiri",
-    "language": "Python",
-    "name": "T-80BVVD/kiri",
-    "stars": 1,
-    "updated_at": "2026-08-31T13:10:32Z",
-    "url": "https://github.com/T-80BVVD/kiri"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 30218,
-    "updated_at": "2026-08-31T13:11:16Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "Multi-agent job discovery, independent LLM judging, read-only application-form drafting, and local Excel tracking for Co",
-    "id": "mehboobali98/job-search-agent",
-    "language": "JavaScript",
-    "name": "mehboobali98/job-search-agent",
-    "stars": 0,
-    "updated_at": "2026-08-31T12:53:32Z",
-    "url": "https://github.com/mehboobali98/job-search-agent"
-  },
-  {
-    "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
-    "id": "mark-weeks/hello-nested-worlds-adventure",
-    "language": "Python",
-    "name": "mark-weeks/hello-nested-worlds-adventure",
-    "stars": 5,
-    "updated_at": "2026-08-31T13:07:09Z",
-    "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
-  },
-  {
     "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
     "id": "sergezuber/FABULA-LLM-5",
     "language": "TypeScript",
@@ -115,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-08-31T12:28:18Z",
     "url": "https://github.com/SashaEee/auditLens"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7078,
-    "updated_at": "2026-08-31T12:19:44Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "An unofficial native macOS (SwiftUI) client for dsh, the DeepSeek agent harness \u2014 sessions, live trajectory, tool approv",
@@ -248,7 +284,7 @@
     "language": "Python",
     "name": "Rekin226/Agronaut",
     "stars": 3,
-    "updated_at": "2026-08-31T11:30:12Z",
+    "updated_at": "2026-08-31T13:24:56Z",
     "url": "https://github.com/Rekin226/Agronaut"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1386,
     "updated_at": "2026-08-31T09:41:30Z",
     "url": "https://github.com/larlarua/AutoCVE"
-  },
-  {
-    "description": "Browser-based vLLM Chat Agent with local Memory, Skills, ReAct tools, and session isolation",
-    "id": "lijiajia96/llm-local",
-    "language": "TypeScript",
-    "name": "lijiajia96/llm-local",
-    "stars": 1,
-    "updated_at": "2026-08-31T09:29:39Z",
-    "url": "https://github.com/lijiajia96/llm-local"
-  },
-  {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-08-31T09:42:44Z",
-    "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-31T09:27:13Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Sort your Downloads by project, not file type \u2014 with one-command undo. No delete, ever.",
-    "id": "verniceunleaded6135/tidy-undo",
-    "language": "Python",
-    "name": "verniceunleaded6135/tidy-undo",
-    "stars": 0,
-    "updated_at": "2026-08-31T09:26:50Z",
-    "url": "https://github.com/verniceunleaded6135/tidy-undo"
   }
 ]
