@@ -1,5 +1,41 @@
 [
   {
+    "description": "Competing-risks survival analysis for customer churn \u2014 five models from a naive baseline to Aalen-Johansen, Cox, and Ran",
+    "id": "reggGrammer7/competing-risks-churn-agent",
+    "language": "Python",
+    "name": "reggGrammer7/competing-risks-churn-agent",
+    "stars": 1,
+    "updated_at": "2026-08-31T01:08:21Z",
+    "url": "https://github.com/reggGrammer7/competing-risks-churn-agent"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 207,
+    "updated_at": "2026-08-31T01:04:21Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-08-31T01:04:06Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-08-31T01:12:26Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
     "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
     "id": "sydches/yuj",
     "language": "Python",
@@ -9,29 +45,11 @@
     "url": "https://github.com/sydches/yuj"
   },
   {
-    "description": "Competing-risks survival analysis for customer churn \u2014 five models from a naive baseline to Aalen-Johansen, Cox, and Ran",
-    "id": "reggGrammer7/competing-risks-churn-agent",
-    "language": "Python",
-    "name": "reggGrammer7/competing-risks-churn-agent",
-    "stars": 1,
-    "updated_at": "2026-08-31T00:49:45Z",
-    "url": "https://github.com/reggGrammer7/competing-risks-churn-agent"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-08-31T00:58:09Z",
-    "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
     "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
-    "stars": 9,
+    "stars": 10,
     "updated_at": "2026-08-31T00:39:07Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
   },
@@ -54,15 +72,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-08-31T00:20:46Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
     "id": "watchcat/scout",
     "language": "Rust",
@@ -77,7 +86,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-30T23:58:59Z",
+    "updated_at": "2026-08-31T01:07:21Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-30T19:32:52Z",
     "url": "https://github.com/Blaz742/web-pentest-lab"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 1,
-    "updated_at": "2026-08-30T19:32:24Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
   }
 ]
