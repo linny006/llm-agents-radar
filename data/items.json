@@ -1,5 +1,23 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-31T01:34:57Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 5,
+    "updated_at": "2026-08-31T01:33:32Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
     "description": "Static system dashboard for a Hermes Agent installation: host status, security, model routing, honest cost, memory, cron",
     "id": "itpartypattaya/hermes-dashboard",
     "language": "Python",
@@ -23,7 +41,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 16,
-    "updated_at": "2026-08-31T01:22:06Z",
+    "updated_at": "2026-08-31T01:39:19Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -104,7 +122,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-31T01:07:21Z",
+    "updated_at": "2026-08-31T01:35:04Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -115,15 +133,6 @@
     "stars": 8,
     "updated_at": "2026-08-30T23:55:23Z",
     "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-30T23:36:22Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
@@ -252,15 +261,6 @@
     "url": "https://github.com/aviskaar/zorp"
   },
   {
-    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 5,
-    "updated_at": "2026-08-31T01:28:15Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
     "description": "\u9762\u5411 CTF \u7ade\u8d5b\u8bc4\u6d4b\u5e73\u53f0\uff08TSec Benchmark\uff09\u7684\u81ea\u52a8\u5316 Web/\u903b\u8f91\u6f0f\u6d1e\u6316\u6398\u4e0e\u5229\u7528 Agent\uff1a\u5206\u5c42\u8c03\u5ea6 + \u591a\u4f1a\u8bdd\u5e76\u53d1 + \u8de8\u4f1a\u8bdd\u5171\u4eab\u9ed1\u677f + \u5e73\u53f0\u6743\u5a01\u6821\u9a8c",
     "id": "TJR181/Cruiser-Agent",
     "language": "Python",
@@ -364,7 +364,7 @@
     "id": "mnemon-dev/mnemon",
     "language": "Go",
     "name": "mnemon-dev/mnemon",
-    "stars": 540,
+    "stars": 541,
     "updated_at": "2026-08-30T20:10:36Z",
     "url": "https://github.com/mnemon-dev/mnemon"
   },
