@@ -1,20 +1,65 @@
 [
   {
+    "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
+    "id": "ChanTso/citybuddy",
+    "language": "Java",
+    "name": "ChanTso/citybuddy",
+    "stars": 0,
+    "updated_at": "2026-08-31T13:05:55Z",
+    "url": "https://github.com/ChanTso/citybuddy"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 210,
+    "updated_at": "2026-08-31T13:04:15Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "A portable, offline coding agent that runs entirely from a USB drive on Windows. It uses a local LLM through llama.cpp f",
+    "id": "Amaan9136/portable-usb-llm-agent",
+    "language": "Python",
+    "name": "Amaan9136/portable-usb-llm-agent",
+    "stars": 0,
+    "updated_at": "2026-08-31T13:04:08Z",
+    "url": "https://github.com/Amaan9136/portable-usb-llm-agent"
+  },
+  {
+    "description": "Minimal prompt x full PTC tools for DeepSeek Harness - aligned with the Project2 we/let's trajectory (Minimal 99/96).",
+    "id": "STARDUSTLC666/dsh-minimal-ptc",
+    "language": "JavaScript",
+    "name": "STARDUSTLC666/dsh-minimal-ptc",
+    "stars": 2,
+    "updated_at": "2026-08-31T13:01:39Z",
+    "url": "https://github.com/STARDUSTLC666/dsh-minimal-ptc"
+  },
+  {
     "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
-    "stars": 33,
+    "stars": 34,
     "updated_at": "2026-08-31T12:58:04Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "A self-sustaining AI companion core \u2014 continuous stream of consciousness, autonomous agent, layered memory.",
+    "id": "T-80BVVD/kiri",
+    "language": "Python",
+    "name": "T-80BVVD/kiri",
+    "stars": 1,
+    "updated_at": "2026-08-31T13:10:32Z",
+    "url": "https://github.com/T-80BVVD/kiri"
   },
   {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 30216,
-    "updated_at": "2026-08-31T12:53:48Z",
+    "stars": 30218,
+    "updated_at": "2026-08-31T13:11:16Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
@@ -27,6 +72,15 @@
     "url": "https://github.com/mehboobali98/job-search-agent"
   },
   {
+    "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
+    "id": "mark-weeks/hello-nested-worlds-adventure",
+    "language": "Python",
+    "name": "mark-weeks/hello-nested-worlds-adventure",
+    "stars": 5,
+    "updated_at": "2026-08-31T13:07:09Z",
+    "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
+  },
+  {
     "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
     "id": "sergezuber/FABULA-LLM-5",
     "language": "TypeScript",
@@ -34,15 +88,6 @@
     "stars": 84,
     "updated_at": "2026-08-31T12:47:23Z",
     "url": "https://github.com/sergezuber/FABULA-LLM-5"
-  },
-  {
-    "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
-    "id": "mark-weeks/hello-nested-worlds-adventure",
-    "language": "Python",
-    "name": "mark-weeks/hello-nested-worlds-adventure",
-    "stars": 5,
-    "updated_at": "2026-08-31T12:52:16Z",
-    "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -99,15 +144,6 @@
     "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
   },
   {
-    "description": "A portable, offline coding agent that runs entirely from a USB drive on Windows. It uses a local LLM through llama.cpp f",
-    "id": "Amaan9136/portable-usb-llm-agent",
-    "language": "Python",
-    "name": "Amaan9136/portable-usb-llm-agent",
-    "stars": 0,
-    "updated_at": "2026-08-31T12:07:33Z",
-    "url": "https://github.com/Amaan9136/portable-usb-llm-agent"
-  },
-  {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
     "id": "g761007/daily-dispatch",
     "language": "Python",
@@ -142,15 +178,6 @@
     "stars": 8,
     "updated_at": "2026-08-31T11:53:09Z",
     "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
-    "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
-    "id": "ChanTso/citybuddy",
-    "language": "Java",
-    "name": "ChanTso/citybuddy",
-    "stars": 0,
-    "updated_at": "2026-08-31T12:52:10Z",
-    "url": "https://github.com/ChanTso/citybuddy"
   },
   {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
@@ -194,7 +221,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 803,
-    "updated_at": "2026-08-31T12:49:01Z",
+    "updated_at": "2026-08-31T13:14:46Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -268,15 +295,6 @@
     "stars": 4101,
     "updated_at": "2026-08-31T11:09:13Z",
     "url": "https://github.com/langroid/langroid"
-  },
-  {
-    "description": "Minimal prompt x full PTC tools for DeepSeek Harness - aligned with the Project2 we/let's trajectory (Minimal 99/96).",
-    "id": "STARDUSTLC666/dsh-minimal-ptc",
-    "language": "JavaScript",
-    "name": "STARDUSTLC666/dsh-minimal-ptc",
-    "stars": 2,
-    "updated_at": "2026-08-31T11:07:55Z",
-    "url": "https://github.com/STARDUSTLC666/dsh-minimal-ptc"
   },
   {
     "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-31T09:26:50Z",
     "url": "https://github.com/verniceunleaded6135/tidy-undo"
-  },
-  {
-    "description": "Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node\u2014no complex workflows needed.",
-    "id": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
-    "language": "JavaScript",
-    "name": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
-    "stars": 3,
-    "updated_at": "2026-08-31T09:25:58Z",
-    "url": "https://github.com/Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3"
-  },
-  {
-    "description": "Control your Windows laptop remotely via Discord with AI-powered voice and text commands in English or Urdu.",
-    "id": "Ottoman-reticule726/zara-ai-laptop-agent",
-    "language": "Python",
-    "name": "Ottoman-reticule726/zara-ai-laptop-agent",
-    "stars": 0,
-    "updated_at": "2026-08-31T09:25:03Z",
-    "url": "https://github.com/Ottoman-reticule726/zara-ai-laptop-agent"
   }
 ]
