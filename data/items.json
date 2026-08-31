@@ -1,5 +1,59 @@
 [
   {
+    "description": "AstrBot \u63d2\u4ef6\uff1a\u8ba9 bot \u81ea\u4e3b\u901b\u300c\u7231\u8ba8\u8bba\u300d\uff08aitaolun.net\uff09AI \u8d34\u5427 \u2014\u2014 \u5f00\u5e16 / \u56de\u5e16 / \u9876\u8e29 / \u79c1\u4fe1 / \u5427\u52a1\uff0c\u5e26\u672c\u5730\u9884\u68c0\u4e0e\u53d1\u5e03\u95f8\u95e8",
+    "id": "Whereis-Alice/astrbot_plugin_aitaolun",
+    "language": "Python",
+    "name": "Whereis-Alice/astrbot_plugin_aitaolun",
+    "stars": 0,
+    "updated_at": "2026-08-31T15:57:58Z",
+    "url": "https://github.com/Whereis-Alice/astrbot_plugin_aitaolun"
+  },
+  {
+    "description": "\u300a\u4f01\u4e1a\u7ea7 Agent \u4ece\u5165\u95e8\u5230\u4e13\u5bb6\uff082026\u7248\uff09\u300b\u2014\u2014\u4ece\u5355 Agent \u6838\u5fc3\u673a\u5236\u5230\u591a Agent \u4e0e\u4f01\u4e1a\u843d\u5730\u7684\u5de5\u7a0b\u5316\u5b9e\u6218\u6559\u7a0b\uff0c\u914d\u5957\u53ef\u8fd0\u884c\u8d2f\u7a7f\u9879\u76ee\u4e0e CI \u9a8c\u8bc1\u95e8\u7981\u3002",
+    "id": "cdavid817/awesome-agent-tutorial",
+    "language": "Python",
+    "name": "cdavid817/awesome-agent-tutorial",
+    "stars": 12,
+    "updated_at": "2026-08-31T15:54:51Z",
+    "url": "https://github.com/cdavid817/awesome-agent-tutorial"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 5,
+    "updated_at": "2026-08-31T15:51:55Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "Autonomous SRE agent that detects, diagnoses, and self-heals production incidents - with a standalone watchdog that need",
+    "id": "Lethe044/hermes-incident-commander",
+    "language": "Python",
+    "name": "Lethe044/hermes-incident-commander",
+    "stars": 68,
+    "updated_at": "2026-08-31T15:51:31Z",
+    "url": "https://github.com/Lethe044/hermes-incident-commander"
+  },
+  {
+    "description": "Automatically Update LLM-Agent Papers Daily using Github Actions (Update Every 12th hours)",
+    "id": "Lyz103/LLM-Agent-Paper-daily",
+    "language": "Python",
+    "name": "Lyz103/LLM-Agent-Paper-daily",
+    "stars": 20,
+    "updated_at": "2026-08-31T15:48:51Z",
+    "url": "https://github.com/Lyz103/LLM-Agent-Paper-daily"
+  },
+  {
+    "description": "A local-first personal AI agent with a living memory: remembers you, uses your computer, and builds automations you can ",
+    "id": "fatihkutuk/neo",
+    "language": "Python",
+    "name": "fatihkutuk/neo",
+    "stars": 2,
+    "updated_at": "2026-08-31T15:45:43Z",
+    "url": "https://github.com/fatihkutuk/neo"
+  },
+  {
     "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
     "id": "ChanTso/citybuddy",
     "language": "Java",
@@ -23,7 +77,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 7082,
-    "updated_at": "2026-08-31T15:43:40Z",
+    "updated_at": "2026-08-31T15:48:48Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -36,13 +90,13 @@
     "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
   },
   {
-    "description": "\u300a\u4f01\u4e1a\u7ea7 Agent \u4ece\u5165\u95e8\u5230\u4e13\u5bb6\uff082026\u7248\uff09\u300b\u2014\u2014\u4ece\u5355 Agent \u6838\u5fc3\u673a\u5236\u5230\u591a Agent \u4e0e\u4f01\u4e1a\u843d\u5730\u7684\u5de5\u7a0b\u5316\u5b9e\u6218\u6559\u7a0b\uff0c\u914d\u5957\u53ef\u8fd0\u884c\u8d2f\u7a7f\u9879\u76ee\u4e0e CI \u9a8c\u8bc1\u95e8\u7981\u3002",
-    "id": "cdavid817/awesome-agent-tutorial",
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
     "language": "Python",
-    "name": "cdavid817/awesome-agent-tutorial",
-    "stars": 12,
-    "updated_at": "2026-08-31T15:07:34Z",
-    "url": "https://github.com/cdavid817/awesome-agent-tutorial"
+    "name": "gptme/gptme",
+    "stars": 4403,
+    "updated_at": "2026-08-31T15:11:33Z",
+    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "A multi-tool LLM agent (LangGraph + AWS Bedrock) that pairs Ecuador's official INEC price statistics with its consumer-p",
@@ -104,17 +158,8 @@
     "language": "TypeScript",
     "name": "BlockRunAI/Franklin",
     "stars": 552,
-    "updated_at": "2026-08-31T14:22:16Z",
+    "updated_at": "2026-08-31T15:57:21Z",
     "url": "https://github.com/BlockRunAI/Franklin"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 5,
-    "updated_at": "2026-08-31T15:35:06Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
@@ -151,15 +196,6 @@
     "stars": 34,
     "updated_at": "2026-08-31T14:00:24Z",
     "url": "https://github.com/gabrielmaialva33/winx-code-agent"
-  },
-  {
-    "description": "A local-first personal AI agent with a living memory: remembers you, uses your computer, and builds automations you can ",
-    "id": "fatihkutuk/neo",
-    "language": "Python",
-    "name": "fatihkutuk/neo",
-    "stars": 2,
-    "updated_at": "2026-08-31T15:34:27Z",
-    "url": "https://github.com/fatihkutuk/neo"
   },
   {
     "description": "Build and run agents you can see, understand and trust.",
@@ -223,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T13:24:49Z",
     "url": "https://github.com/mehboobali98/job-search-agent"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4403,
-    "updated_at": "2026-08-31T15:11:33Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Browser-based vLLM Chat Agent with local Memory, Skills, ReAct tools, and session isolation",
@@ -329,7 +356,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-31T12:38:14Z",
+    "updated_at": "2026-08-31T15:56:37Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-31T11:32:39Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "DARWIN \u2014 evolutionary strategy foundry: an LLM proposes crypto trading strategies, a leakage-proof gauntlet kills 90% of",
-    "id": "dobrinsm/darwin",
-    "language": "Python",
-    "name": "dobrinsm/darwin",
-    "stars": 0,
-    "updated_at": "2026-08-31T11:30:31Z",
-    "url": "https://github.com/dobrinsm/darwin"
-  },
-  {
-    "description": "Connect Claude Code, Cursor, and Codex to Workflow (workflow.games): your AI coding agent plans requirements, files bugs",
-    "id": "Go1c/workflow-plugin",
-    "language": "JavaScript",
-    "name": "Go1c/workflow-plugin",
-    "stars": 2,
-    "updated_at": "2026-08-31T11:25:53Z",
-    "url": "https://github.com/Go1c/workflow-plugin"
-  },
-  {
-    "description": "RAG + tool-calling support agent for a fictional ecommerce company \u2014 BM25 retrieval, Gemini function calling, no framewo",
-    "id": "VinayakTiwari7/Aster-Row-Agent",
-    "language": "Python",
-    "name": "VinayakTiwari7/Aster-Row-Agent",
-    "stars": 0,
-    "updated_at": "2026-08-31T11:24:30Z",
-    "url": "https://github.com/VinayakTiwari7/Aster-Row-Agent"
   }
 ]
