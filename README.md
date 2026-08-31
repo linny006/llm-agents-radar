@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-31 13:45 UTC
+> ⏰ Last updated: 2026-08-31 13:47 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -64,14 +64,14 @@ expired items removed — so you can rely on what you see being current.
 | 20 | [555cute/r20-quantum-trader](https://github.com/555cute/r20-quantum-trader) | 34 | Python | 2026-08-31 | ⚡ LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI  |
 | 21 | [sergezuber/FABULA-LLM-5](https://github.com/sergezuber/FABULA-LLM-5) | 84 | TypeScript | 2026-08-31 | The agent harness that makes small local models finish hard tasks — and prove it. Done is enforced by the engine, not th |
 | 22 | [ljchang/mecha](https://github.com/ljchang/mecha) | 6 | Rust | 2026-08-31 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
-| 23 | [hay-chat/hay-core](https://github.com/hay-chat/hay-core) | 3 | TypeScript | 2026-08-31 | AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b |
-| 24 | [SashaEee/auditLens](https://github.com/SashaEee/auditLens) | 2 | Python | 2026-08-31 | Deep-research LLM agent + RAG platform for internal bank-product audit — cited reports, PDF export, pgvector |
-| 25 | [kasparovabi/dsh-studio](https://github.com/kasparovabi/dsh-studio) | 3 | Swift | 2026-08-31 | An unofficial native macOS (SwiftUI) client for dsh, the DeepSeek agent harness — sessions, live trajectory, tool approv |
-| 26 | [NicoGenti/opencode-orchestrator-kit](https://github.com/NicoGenti/opencode-orchestrator-kit) | 5 | TypeScript | 2026-08-31 | Cost-aware multi-agent orchestrator kit for OpenCode CLI — one routing agent, 14 specialized subagents, zero application |
-| 27 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-31 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 28 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-08-31 | A productive AI coworker that learns, self-improves, and ships work. |
-| 29 | [metric-space-ai/greppy](https://github.com/metric-space-ai/greppy) | 8 | Rust | 2026-08-31 | Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact  |
-| 30 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 510 | JavaScript | 2026-08-31 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
+| 23 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 511 | JavaScript | 2026-08-31 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
+| 24 | [hay-chat/hay-core](https://github.com/hay-chat/hay-core) | 3 | TypeScript | 2026-08-31 | AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b |
+| 25 | [SashaEee/auditLens](https://github.com/SashaEee/auditLens) | 2 | Python | 2026-08-31 | Deep-research LLM agent + RAG platform for internal bank-product audit — cited reports, PDF export, pgvector |
+| 26 | [kasparovabi/dsh-studio](https://github.com/kasparovabi/dsh-studio) | 3 | Swift | 2026-08-31 | An unofficial native macOS (SwiftUI) client for dsh, the DeepSeek agent harness — sessions, live trajectory, tool approv |
+| 27 | [NicoGenti/opencode-orchestrator-kit](https://github.com/NicoGenti/opencode-orchestrator-kit) | 5 | TypeScript | 2026-08-31 | Cost-aware multi-agent orchestrator kit for OpenCode CLI — one routing agent, 14 specialized subagents, zero application |
+| 28 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-31 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
+| 29 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-08-31 | A productive AI coworker that learns, self-improves, and ships work. |
+| 30 | [metric-space-ai/greppy](https://github.com/metric-space-ai/greppy) | 8 | Rust | 2026-08-31 | Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact  |
 | 31 | [AdrianDonohoe/5G_PCAP](https://github.com/AdrianDonohoe/5G_PCAP) | 1 | Python | 2026-08-31 | 5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute |
 | 32 | [amemhq/amem](https://github.com/amemhq/amem) | 3 | TypeScript | 2026-08-31 | Agentic-memory stack for LLM agents — memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven  |
 | 33 | [NUS-Program-Verification/AutoRocq](https://github.com/NUS-Program-Verification/AutoRocq) | 26 | Python | 2026-08-31 | Agentic Theorem Prover for Rocq for Program Verification |
