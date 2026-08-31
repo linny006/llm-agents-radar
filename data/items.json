@@ -1,12 +1,66 @@
 [
   {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-08-31T00:00:01Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-08-30T23:58:59Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
+    "id": "watchcat/scout",
+    "language": "Rust",
+    "name": "watchcat/scout",
+    "stars": 0,
+    "updated_at": "2026-08-30T23:58:47Z",
+    "url": "https://github.com/watchcat/scout"
+  },
+  {
     "description": "An autopoiesic kefir for computing machines",
     "id": "genaforvena/lte-workstation",
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 8,
-    "updated_at": "2026-08-30T23:40:37Z",
+    "updated_at": "2026-08-30T23:56:02Z",
     "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 8,
+    "updated_at": "2026-08-30T23:55:23Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 7,
+    "updated_at": "2026-08-30T23:54:50Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 16,
+    "updated_at": "2026-08-30T23:53:43Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -27,15 +81,6 @@
     "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
-    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
-    "id": "metric-space-ai/greppy",
-    "language": "Rust",
-    "name": "metric-space-ai/greppy",
-    "stars": 8,
-    "updated_at": "2026-08-30T23:34:59Z",
-    "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -52,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-08-30T23:33:19Z",
     "url": "https://github.com/HercoZauZau/Baghdad"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 6,
-    "updated_at": "2026-08-30T23:27:58Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
@@ -135,24 +171,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 16,
-    "updated_at": "2026-08-30T23:31:53Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 6,
-    "updated_at": "2026-08-30T22:58:12Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
-  },
-  {
     "description": "Run Aulthium AI Agent instantly in Termux, Linux, or any terminal with a single command.",
     "id": "d3stiny-io/aulthium",
     "language": "Shell",
@@ -169,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T22:53:08Z",
     "url": "https://github.com/ulysseLeclanche/EDAM_ground_truth"
-  },
-  {
-    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
-    "id": "watchcat/scout",
-    "language": "Rust",
-    "name": "watchcat/scout",
-    "stars": 0,
-    "updated_at": "2026-08-30T22:37:38Z",
-    "url": "https://github.com/watchcat/scout"
   },
   {
     "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-30T19:30:00Z",
     "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
-  },
-  {
-    "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
-    "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "language": "\u2014",
-    "name": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "stars": 1,
-    "updated_at": "2026-08-30T19:29:28Z",
-    "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
   }
 ]
