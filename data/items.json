@@ -1,5 +1,23 @@
 [
   {
+    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
+    "id": "gabrielmaialva33/winx-code-agent",
+    "language": "Rust",
+    "name": "gabrielmaialva33/winx-code-agent",
+    "stars": 34,
+    "updated_at": "2026-08-31T19:23:12Z",
+    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 26,
+    "updated_at": "2026-08-31T19:23:05Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
     "description": "OrcaLoca: An LLM Agent Framework for  Software Issue Localization [ICML 25]",
     "id": "fishmingyu/OrcaLoca",
     "language": "Python",
@@ -13,7 +31,7 @@
     "id": "sohaibsohail98/mcp-context-inspector",
     "language": "Python",
     "name": "sohaibsohail98/mcp-context-inspector",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-08-31T19:13:49Z",
     "url": "https://github.com/sohaibsohail98/mcp-context-inspector"
   },
@@ -34,15 +52,6 @@
     "stars": 38,
     "updated_at": "2026-08-31T18:57:11Z",
     "url": "https://github.com/Maximilian-Winter/ToolAgents"
-  },
-  {
-    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
-    "id": "gabrielmaialva33/winx-code-agent",
-    "language": "Rust",
-    "name": "gabrielmaialva33/winx-code-agent",
-    "stars": 34,
-    "updated_at": "2026-08-31T18:56:31Z",
-    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-31T17:02:39Z",
     "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
-  },
-  {
-    "description": "AutoSRE \u2014 an autonomous on-call SRE agent. Reads real user reports, investigates real logs, opens a fix PR, and verifies",
-    "id": "BERORINPO/AutoSRE",
-    "language": "TypeScript",
-    "name": "BERORINPO/AutoSRE",
-    "stars": 1,
-    "updated_at": "2026-08-31T17:01:12Z",
-    "url": "https://github.com/BERORINPO/AutoSRE"
   }
 ]
