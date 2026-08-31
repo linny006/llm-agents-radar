@@ -1,5 +1,23 @@
 [
   {
+    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 28,
+    "updated_at": "2026-08-31T20:41:11Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
+    "description": "Lightweight Swift terminal UI library for streaming AI transcripts with in-place updates and tool placeholders.",
+    "id": "BiBoyang/ForgeLoopTUI",
+    "language": "Swift",
+    "name": "BiBoyang/ForgeLoopTUI",
+    "stars": 1,
+    "updated_at": "2026-08-31T20:25:20Z",
+    "url": "https://github.com/BiBoyang/ForgeLoopTUI"
+  },
+  {
     "description": "GPT autonomous research and investigation using starintel",
     "id": "lost-rob0t/starintel-gpt-auto-dig",
     "language": "Python",
@@ -7,6 +25,15 @@
     "stars": 0,
     "updated_at": "2026-08-31T20:20:46Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Drop-in MCP server that records real per-session agent cost/token/tool metrics and renders a Context Window Explorer ove",
+    "id": "sohaibsohail98/mcp-context-inspector",
+    "language": "Python",
+    "name": "sohaibsohail98/mcp-context-inspector",
+    "stars": 3,
+    "updated_at": "2026-08-31T20:20:22Z",
+    "url": "https://github.com/sohaibsohail98/mcp-context-inspector"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -99,15 +126,6 @@
     "url": "https://github.com/fishmingyu/OrcaLoca"
   },
   {
-    "description": "Drop-in MCP server that records real per-session agent cost/token/tool metrics and renders a Context Window Explorer ove",
-    "id": "sohaibsohail98/mcp-context-inspector",
-    "language": "Python",
-    "name": "sohaibsohail98/mcp-context-inspector",
-    "stars": 3,
-    "updated_at": "2026-08-31T20:20:22Z",
-    "url": "https://github.com/sohaibsohail98/mcp-context-inspector"
-  },
-  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -130,8 +148,8 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7083,
-    "updated_at": "2026-08-31T18:40:19Z",
+    "stars": 7084,
+    "updated_at": "2026-08-31T20:41:20Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -232,15 +250,6 @@
     "stars": 128,
     "updated_at": "2026-08-31T17:52:37Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Lightweight Swift terminal UI library for streaming AI transcripts with in-place updates and tool placeholders.",
-    "id": "BiBoyang/ForgeLoopTUI",
-    "language": "Swift",
-    "name": "BiBoyang/ForgeLoopTUI",
-    "stars": 1,
-    "updated_at": "2026-08-31T20:25:20Z",
-    "url": "https://github.com/BiBoyang/ForgeLoopTUI"
   },
   {
     "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-31T17:14:39Z",
     "url": "https://github.com/Laurenfeminine36/google-jules-skill"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-08-31T17:14:29Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
   }
 ]
