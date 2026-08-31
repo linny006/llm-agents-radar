@@ -1,5 +1,77 @@
 [
   {
+    "description": "Reproducible AI4SE agent with multi-tool planning, hybrid RAG, evaluation, and PostgreSQL operations.",
+    "id": "Isoldelu/software-engineering-agent",
+    "language": "Python",
+    "name": "Isoldelu/software-engineering-agent",
+    "stars": 0,
+    "updated_at": "2026-08-31T03:29:47Z",
+    "url": "https://github.com/Isoldelu/software-engineering-agent"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 32,
+    "updated_at": "2026-08-31T03:29:29Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "A self-sustaining AI companion core \u2014 continuous stream of consciousness, autonomous agent, layered memory.",
+    "id": "T-80BVVD/kiri",
+    "language": "Python",
+    "name": "T-80BVVD/kiri",
+    "stars": 1,
+    "updated_at": "2026-08-31T03:26:13Z",
+    "url": "https://github.com/T-80BVVD/kiri"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 30164,
+    "updated_at": "2026-08-31T03:21:45Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-08-31T03:29:15Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 938,
+    "updated_at": "2026-08-31T03:21:02Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-08-31T03:18:04Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 7,
+    "updated_at": "2026-08-31T03:16:58Z",
+    "url": "https://github.com/alex8224/synapse-agent"
+  },
+  {
     "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
     "id": "ChanTso/citybuddy",
     "language": "Java",
@@ -25,15 +97,6 @@
     "stars": 28,
     "updated_at": "2026-08-31T03:14:01Z",
     "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-08-31T03:03:03Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
@@ -90,15 +153,6 @@
     "url": "https://github.com/lachlan-kelly/Elucidate"
   },
   {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 30161,
-    "updated_at": "2026-08-31T02:46:59Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
     "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
     "id": "aviskaar/zorp",
     "language": "Rust",
@@ -151,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-08-31T02:28:03Z",
     "url": "https://github.com/Blondieredistributed612/pocket-agent"
-  },
-  {
-    "description": " Where intent meets code \u2014 a local AI coding agent         ",
-    "id": "alex8224/synapse-agent",
-    "language": "Python",
-    "name": "alex8224/synapse-agent",
-    "stars": 7,
-    "updated_at": "2026-08-31T02:25:49Z",
-    "url": "https://github.com/alex8224/synapse-agent"
   },
   {
     "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
@@ -396,15 +441,6 @@
     "url": "https://github.com/madhavnair2009-arch/ronin"
   },
   {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-08-31T02:10:50Z",
-    "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
     "description": "",
     "id": "JortegaR/ai-notes-api",
     "language": "JavaScript",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-31T01:48:33Z",
     "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
-    "id": "metric-space-ai/greppy",
-    "language": "Rust",
-    "name": "metric-space-ai/greppy",
-    "stars": 8,
-    "updated_at": "2026-08-31T01:47:25Z",
-    "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
-    "description": "Assessment-driven, local-first learning agent built on an observable Agent Runtime and eval harness\u2014grounded ingestion, ",
-    "id": "Hyr1sky/TheGrandQuiz",
-    "language": "Python",
-    "name": "Hyr1sky/TheGrandQuiz",
-    "stars": 33,
-    "updated_at": "2026-08-31T01:47:23Z",
-    "url": "https://github.com/Hyr1sky/TheGrandQuiz"
-  },
-  {
-    "description": "Local-first engineering agent that deploys, benchmarks and tunes vLLM/SGLang inference services on your own GPUs, with a",
-    "id": "bitcloud-ai/Bittune",
-    "language": "TypeScript",
-    "name": "bitcloud-ai/Bittune",
-    "stars": 5,
-    "updated_at": "2026-08-31T01:38:12Z",
-    "url": "https://github.com/bitcloud-ai/Bittune"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-31T01:34:57Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   }
 ]
