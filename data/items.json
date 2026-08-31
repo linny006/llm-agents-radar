@@ -1,11 +1,20 @@
 [
   {
+    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
+    "id": "gabrielmaialva33/winx-code-agent",
+    "language": "Rust",
+    "name": "gabrielmaialva33/winx-code-agent",
+    "stars": 34,
+    "updated_at": "2026-08-31T18:56:31Z",
+    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
+  },
+  {
     "description": "Drop-in MCP server that records real per-session agent cost/token/tool metrics and renders a Context Window Explorer ove",
     "id": "sohaibsohail98/mcp-context-inspector",
     "language": "Python",
     "name": "sohaibsohail98/mcp-context-inspector",
     "stars": 2,
-    "updated_at": "2026-08-31T18:41:34Z",
+    "updated_at": "2026-08-31T19:00:06Z",
     "url": "https://github.com/sohaibsohail98/mcp-context-inspector"
   },
   {
@@ -27,6 +36,15 @@
     "url": "https://github.com/AdrianDonohoe/5G_PCAP"
   },
   {
+    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
+    "id": "sky-valley/pi",
+    "language": "Go",
+    "name": "sky-valley/pi",
+    "stars": 44,
+    "updated_at": "2026-08-31T18:32:01Z",
+    "url": "https://github.com/sky-valley/pi"
+  },
+  {
     "description": "Easy-to-use, easy-to-customize, and high-quality secure code review skills for AI agents.",
     "id": "ivan-sincek/secure-code-review-agent-skills",
     "language": "\u2014",
@@ -45,12 +63,21 @@
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
+    "description": "An agent for coding and everyday tasks, powered by the ChatGPT account you already pay for. No API key, no per-token bil",
+    "id": "khudayarovich/onflip-agent",
+    "language": "TypeScript",
+    "name": "khudayarovich/onflip-agent",
+    "stars": 1,
+    "updated_at": "2026-08-31T18:28:32Z",
+    "url": "https://github.com/khudayarovich/onflip-agent"
+  },
+  {
     "description": "ToolAgents is a lightweight and flexible framework for creating function-calling agents with various language models and",
     "id": "Maximilian-Winter/ToolAgents",
     "language": "Python",
     "name": "Maximilian-Winter/ToolAgents",
     "stars": 38,
-    "updated_at": "2026-08-31T18:16:06Z",
+    "updated_at": "2026-08-31T18:57:11Z",
     "url": "https://github.com/Maximilian-Winter/ToolAgents"
   },
   {
@@ -72,15 +99,6 @@
     "url": "https://github.com/mrdron1314-afk/jupyter-llm-assistant"
   },
   {
-    "description": "An agent for coding and everyday tasks, powered by the ChatGPT account you already pay for. No API key, no per-token bil",
-    "id": "khudayarovich/onflip-agent",
-    "language": "TypeScript",
-    "name": "khudayarovich/onflip-agent",
-    "stars": 1,
-    "updated_at": "2026-08-31T18:28:32Z",
-    "url": "https://github.com/khudayarovich/onflip-agent"
-  },
-  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
@@ -97,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-08-31T18:02:02Z",
     "url": "https://github.com/Canyon-Li/AuditronClaw"
-  },
-  {
-    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
-    "id": "sky-valley/pi",
-    "language": "Go",
-    "name": "sky-valley/pi",
-    "stars": 44,
-    "updated_at": "2026-08-31T18:32:01Z",
-    "url": "https://github.com/sky-valley/pi"
   },
   {
     "description": "SRE Agent - CNCF Sandbox Project",
@@ -274,7 +283,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 513,
+    "stars": 514,
     "updated_at": "2026-08-31T17:23:22Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -439,14 +448,5 @@
     "stars": 10,
     "updated_at": "2026-08-31T16:58:49Z",
     "url": "https://github.com/hasting323/AutoGLM-For-Android"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-08-31T16:57:34Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
   }
 ]
