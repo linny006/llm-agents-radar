@@ -1,5 +1,32 @@
 [
   {
+    "description": "A portable, offline coding agent that runs entirely from a USB drive on Windows. It uses a local LLM through llama.cpp f",
+    "id": "Amaan9136/portable-usb-llm-agent",
+    "language": "Python",
+    "name": "Amaan9136/portable-usb-llm-agent",
+    "stars": 0,
+    "updated_at": "2026-08-31T09:44:57Z",
+    "url": "https://github.com/Amaan9136/portable-usb-llm-agent"
+  },
+  {
+    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
+    "id": "Rekin226/Agronaut",
+    "language": "Python",
+    "name": "Rekin226/Agronaut",
+    "stars": 3,
+    "updated_at": "2026-08-31T09:40:10Z",
+    "url": "https://github.com/Rekin226/Agronaut"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-31T09:42:13Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "Browser-based vLLM Chat Agent with local Memory, Skills, ReAct tools, and session isolation",
     "id": "lijiajia96/llm-local",
     "language": "TypeScript",
@@ -9,6 +36,15 @@
     "url": "https://github.com/lijiajia96/llm-local"
   },
   {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-08-31T09:42:44Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -16,6 +52,15 @@
     "stars": 0,
     "updated_at": "2026-08-31T09:27:13Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Sort your Downloads by project, not file type \u2014 with one-command undo. No delete, ever.",
+    "id": "verniceunleaded6135/tidy-undo",
+    "language": "Python",
+    "name": "verniceunleaded6135/tidy-undo",
+    "stars": 0,
+    "updated_at": "2026-08-31T09:26:50Z",
+    "url": "https://github.com/verniceunleaded6135/tidy-undo"
   },
   {
     "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
@@ -36,15 +81,6 @@
     "url": "https://github.com/Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3"
   },
   {
-    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
-    "id": "Rekin226/Agronaut",
-    "language": "Python",
-    "name": "Rekin226/Agronaut",
-    "stars": 3,
-    "updated_at": "2026-08-31T09:25:38Z",
-    "url": "https://github.com/Rekin226/Agronaut"
-  },
-  {
     "description": "Control your Windows laptop remotely via Discord with AI-powered voice and text commands in English or Urdu.",
     "id": "Ottoman-reticule726/zara-ai-laptop-agent",
     "language": "Python",
@@ -52,6 +88,15 @@
     "stars": 0,
     "updated_at": "2026-08-31T09:25:03Z",
     "url": "https://github.com/Ottoman-reticule726/zara-ai-laptop-agent"
+  },
+  {
+    "description": "Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons.",
+    "id": "alejandrogg15/Minimax-H3-Turbo",
+    "language": "Python",
+    "name": "alejandrogg15/Minimax-H3-Turbo",
+    "stars": 0,
+    "updated_at": "2026-08-31T09:24:43Z",
+    "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
   },
   {
     "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
@@ -153,20 +198,11 @@
     "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-31T09:24:59Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 30192,
+    "stars": 30196,
     "updated_at": "2026-08-31T09:10:58Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -248,7 +284,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 803,
-    "updated_at": "2026-08-31T09:04:39Z",
+    "updated_at": "2026-08-31T09:44:22Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 259,
     "updated_at": "2026-08-31T08:35:08Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 505,
-    "updated_at": "2026-08-31T08:31:45Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "WAIT \u2014 Wiki Aware Intelligent Tool: an agent helping Wikipedia editors navigate policy, templates, and small JS/CSS/Lua ",
-    "id": "schiste/wiki-assistant",
-    "language": "Python",
-    "name": "schiste/wiki-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-31T08:30:01Z",
-    "url": "https://github.com/schiste/wiki-assistant"
-  },
-  {
-    "description": "A portable, offline coding agent that runs entirely from a USB drive on Windows. It uses a local LLM through llama.cpp f",
-    "id": "Amaan9136/portable-usb-llm-agent",
-    "language": "Python",
-    "name": "Amaan9136/portable-usb-llm-agent",
-    "stars": 0,
-    "updated_at": "2026-08-31T08:16:43Z",
-    "url": "https://github.com/Amaan9136/portable-usb-llm-agent"
-  },
-  {
-    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
-    "id": "kangwoo/aimon-core",
-    "language": "Java",
-    "name": "kangwoo/aimon-core",
-    "stars": 0,
-    "updated_at": "2026-08-31T08:16:11Z",
-    "url": "https://github.com/kangwoo/aimon-core"
   }
 ]
