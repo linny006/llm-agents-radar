@@ -1,5 +1,59 @@
 [
   {
+    "description": "Agent Knowledge Cycle (AKC) \u2014 a knowledge cycle for AI agents: agent behavior compounds, human judgment sharpens. Six ph",
+    "id": "shimo4228/agent-knowledge-cycle",
+    "language": "\u2014",
+    "name": "shimo4228/agent-knowledge-cycle",
+    "stars": 3,
+    "updated_at": "2026-08-31T22:45:03Z",
+    "url": "https://github.com/shimo4228/agent-knowledge-cycle"
+  },
+  {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 2,
+    "updated_at": "2026-08-31T22:44:09Z",
+    "url": "https://github.com/sydches/yuj"
+  },
+  {
+    "description": "Website based application for creating a bridge between Canvas (instructure.com) and your choice of LLM",
+    "id": "lachlan-kelly/Elucidate",
+    "language": "JavaScript",
+    "name": "lachlan-kelly/Elucidate",
+    "stars": 0,
+    "updated_at": "2026-08-31T22:40:58Z",
+    "url": "https://github.com/lachlan-kelly/Elucidate"
+  },
+  {
+    "description": "A chat bot which makes use of multiple RAG collections/metadata field filtering, and multiple LLMs for model orchestrati",
+    "id": "milljm/dynamic-rag-chat",
+    "language": "Python",
+    "name": "milljm/dynamic-rag-chat",
+    "stars": 3,
+    "updated_at": "2026-08-31T22:34:14Z",
+    "url": "https://github.com/milljm/dynamic-rag-chat"
+  },
+  {
+    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
+    "id": "Sigmanih/SigmaStudio",
+    "language": "Python",
+    "name": "Sigmanih/SigmaStudio",
+    "stars": 7,
+    "updated_at": "2026-08-31T22:33:31Z",
+    "url": "https://github.com/Sigmanih/SigmaStudio"
+  },
+  {
+    "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
+    "id": "Ven0m0/gemini-web-wrapper",
+    "language": "TypeScript",
+    "name": "Ven0m0/gemini-web-wrapper",
+    "stars": 5,
+    "updated_at": "2026-08-31T22:31:31Z",
+    "url": "https://github.com/Ven0m0/gemini-web-wrapper"
+  },
+  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -16,15 +70,6 @@
     "stars": 3,
     "updated_at": "2026-08-31T22:24:37Z",
     "url": "https://github.com/sohaibsohail98/mcp-context-inspector"
-  },
-  {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 2,
-    "updated_at": "2026-08-31T22:23:36Z",
-    "url": "https://github.com/sydches/yuj"
   },
   {
     "description": "A local-first personal AI agent with a living memory: remembers you, uses your computer, and builds automations you can ",
@@ -68,7 +113,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-08-31T22:27:15Z",
+    "updated_at": "2026-08-31T22:36:43Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -115,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T21:30:12Z",
     "url": "https://github.com/sunnnn2005/data-quality-agent"
-  },
-  {
-    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
-    "id": "Sigmanih/SigmaStudio",
-    "language": "Python",
-    "name": "Sigmanih/SigmaStudio",
-    "stars": 7,
-    "updated_at": "2026-08-31T21:27:54Z",
-    "url": "https://github.com/Sigmanih/SigmaStudio"
   },
   {
     "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
@@ -279,15 +315,6 @@
     "url": "https://github.com/gptme/gptme"
   },
   {
-    "description": "A chat bot which makes use of multiple RAG collections/metadata field filtering, and multiple LLMs for model orchestrati",
-    "id": "milljm/dynamic-rag-chat",
-    "language": "Python",
-    "name": "milljm/dynamic-rag-chat",
-    "stars": 3,
-    "updated_at": "2026-08-31T22:17:29Z",
-    "url": "https://github.com/milljm/dynamic-rag-chat"
-  },
-  {
     "description": "5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute",
     "id": "AdrianDonohoe/5G_PCAP",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-31T17:30:20Z",
     "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
-  },
-  {
-    "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
-    "id": "Aureliedumbfounding630/agent-governance-toolkit",
-    "language": "\u2014",
-    "name": "Aureliedumbfounding630/agent-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-08-31T17:29:01Z",
-    "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
-  },
-  {
-    "description": "Automate Elytra flight, navigation, and landing for Meteor Client with intelligent pathfinding and rocket management.",
-    "id": "222394/SkyPilot",
-    "language": "Java",
-    "name": "222394/SkyPilot",
-    "stars": 0,
-    "updated_at": "2026-08-31T17:28:58Z",
-    "url": "https://github.com/222394/SkyPilot"
-  },
-  {
-    "description": "Build open source deep research agents using multiple models, search tools, and MCP servers.",
-    "id": "randomvariablewhitepelican129/open_deep_research",
-    "language": "Python",
-    "name": "randomvariablewhitepelican129/open_deep_research",
-    "stars": 0,
-    "updated_at": "2026-08-31T17:28:17Z",
-    "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
   }
 ]
