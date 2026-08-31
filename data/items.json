@@ -1,5 +1,104 @@
 [
   {
+    "description": "5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute",
+    "id": "AdrianDonohoe/5G_PCAP",
+    "language": "Python",
+    "name": "AdrianDonohoe/5G_PCAP",
+    "stars": 1,
+    "updated_at": "2026-08-31T17:41:09Z",
+    "url": "https://github.com/AdrianDonohoe/5G_PCAP"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 5,
+    "updated_at": "2026-08-31T17:37:10Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "Sort your Downloads by project, not file type \u2014 with one-command undo. No delete, ever.",
+    "id": "verniceunleaded6135/tidy-undo",
+    "language": "Python",
+    "name": "verniceunleaded6135/tidy-undo",
+    "stars": 0,
+    "updated_at": "2026-08-31T17:32:33Z",
+    "url": "https://github.com/verniceunleaded6135/tidy-undo"
+  },
+  {
+    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
+    "id": "PCODE-pl/MCPTap",
+    "language": "Python",
+    "name": "PCODE-pl/MCPTap",
+    "stars": 1,
+    "updated_at": "2026-08-31T17:32:19Z",
+    "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
+    "description": "Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node\u2014no complex workflows needed.",
+    "id": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
+    "language": "JavaScript",
+    "name": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
+    "stars": 3,
+    "updated_at": "2026-08-31T17:31:26Z",
+    "url": "https://github.com/Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3"
+  },
+  {
+    "description": "Control your Windows laptop remotely via Discord with AI-powered voice and text commands in English or Urdu.",
+    "id": "Ottoman-reticule726/zara-ai-laptop-agent",
+    "language": "Python",
+    "name": "Ottoman-reticule726/zara-ai-laptop-agent",
+    "stars": 0,
+    "updated_at": "2026-08-31T17:30:32Z",
+    "url": "https://github.com/Ottoman-reticule726/zara-ai-laptop-agent"
+  },
+  {
+    "description": "Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons.",
+    "id": "alejandrogg15/Minimax-H3-Turbo",
+    "language": "Python",
+    "name": "alejandrogg15/Minimax-H3-Turbo",
+    "stars": 0,
+    "updated_at": "2026-08-31T17:30:20Z",
+    "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
+  },
+  {
+    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
+    "id": "ravisinghrajput95/kubewhy",
+    "language": "Python",
+    "name": "ravisinghrajput95/kubewhy",
+    "stars": 0,
+    "updated_at": "2026-08-31T17:36:32Z",
+    "url": "https://github.com/ravisinghrajput95/kubewhy"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7081,
+    "updated_at": "2026-08-31T17:29:34Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Automate Elytra flight, navigation, and landing for Meteor Client with intelligent pathfinding and rocket management.",
+    "id": "222394/SkyPilot",
+    "language": "Java",
+    "name": "222394/SkyPilot",
+    "stars": 0,
+    "updated_at": "2026-08-31T17:28:58Z",
+    "url": "https://github.com/222394/SkyPilot"
+  },
+  {
+    "description": "Build open source deep research agents using multiple models, search tools, and MCP servers.",
+    "id": "randomvariablewhitepelican129/open_deep_research",
+    "language": "Python",
+    "name": "randomvariablewhitepelican129/open_deep_research",
+    "stars": 0,
+    "updated_at": "2026-08-31T17:28:17Z",
+    "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
+  },
+  {
     "description": "\u300a\u4f01\u4e1a\u7ea7 Agent \u4ece\u5165\u95e8\u5230\u4e13\u5bb6\uff082026\u7248\uff09\u300b\u2014\u2014\u4ece\u5355 Agent \u6838\u5fc3\u673a\u5236\u5230\u591a Agent \u4e0e\u4f01\u4e1a\u843d\u5730\u7684\u5de5\u7a0b\u5316\u5b9e\u6218\u6559\u7a0b\uff0c\u914d\u5957\u53ef\u8fd0\u884c\u8d2f\u7a7f\u9879\u76ee\u4e0e CI \u9a8c\u8bc1\u95e8\u7981\u3002",
     "id": "cdavid817/awesome-agent-tutorial",
     "language": "Python",
@@ -7,6 +106,15 @@
     "stars": 12,
     "updated_at": "2026-08-31T17:26:30Z",
     "url": "https://github.com/cdavid817/awesome-agent-tutorial"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 32,
+    "updated_at": "2026-08-31T17:25:24Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
@@ -18,11 +126,20 @@
     "url": "https://github.com/pruthviraj00007/VibeHarness"
   },
   {
+    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
+    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "language": "Go",
+    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "stars": 0,
+    "updated_at": "2026-08-31T17:23:41Z",
+    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
+  },
+  {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 512,
+    "stars": 513,
     "updated_at": "2026-08-31T17:23:22Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -32,7 +149,7 @@
     "language": "Python",
     "name": "fatihkutuk/neo",
     "stars": 2,
-    "updated_at": "2026-08-31T17:22:09Z",
+    "updated_at": "2026-08-31T17:37:53Z",
     "url": "https://github.com/fatihkutuk/neo"
   },
   {
@@ -63,15 +180,6 @@
     "url": "https://github.com/Bastioned-successor320/learn-nanobot"
   },
   {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 32,
-    "updated_at": "2026-08-31T17:25:24Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
     "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
     "id": "tessellated-statisticalcommission243/deep-research-skill",
     "language": "\u2014",
@@ -88,6 +196,15 @@
     "stars": 1,
     "updated_at": "2026-08-31T17:16:19Z",
     "url": "https://github.com/khudayarovich/onflip-agent"
+  },
+  {
+    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
+    "id": "chadwickhyperboloidal943/knowl",
+    "language": "TypeScript",
+    "name": "chadwickhyperboloidal943/knowl",
+    "stars": 0,
+    "updated_at": "2026-08-31T17:14:52Z",
+    "url": "https://github.com/chadwickhyperboloidal943/knowl"
   },
   {
     "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
@@ -133,6 +250,15 @@
     "stars": 2,
     "updated_at": "2026-08-31T17:08:23Z",
     "url": "https://github.com/Victongo/ai-daily-news"
+  },
+  {
+    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
+    "id": "mena256/ai-pair-engineer",
+    "language": "Python",
+    "name": "mena256/ai-pair-engineer",
+    "stars": 0,
+    "updated_at": "2026-08-31T17:08:10Z",
+    "url": "https://github.com/mena256/ai-pair-engineer"
   },
   {
     "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
@@ -223,24 +349,6 @@
     "stars": 4,
     "updated_at": "2026-08-31T16:49:03Z",
     "url": "https://github.com/gumblex/aitoolman"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7081,
-    "updated_at": "2026-08-31T17:29:34Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
-    "id": "ravisinghrajput95/kubewhy",
-    "language": "Python",
-    "name": "ravisinghrajput95/kubewhy",
-    "stars": 0,
-    "updated_at": "2026-08-31T17:29:44Z",
-    "url": "https://github.com/ravisinghrajput95/kubewhy"
   },
   {
     "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
@@ -337,116 +445,8 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 1023,
+    "stars": 1025,
     "updated_at": "2026-08-31T15:59:22Z",
     "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
-    "description": "AstrBot \u63d2\u4ef6\uff1a\u8ba9 bot \u81ea\u4e3b\u901b\u300c\u7231\u8ba8\u8bba\u300d\uff08aitaolun.net\uff09AI \u8d34\u5427 \u2014\u2014 \u5f00\u5e16 / \u56de\u5e16 / \u9876\u8e29 / \u79c1\u4fe1 / \u5427\u52a1\uff0c\u5e26\u672c\u5730\u9884\u68c0\u4e0e\u53d1\u5e03\u95f8\u95e8",
-    "id": "Whereis-Alice/astrbot_plugin_aitaolun",
-    "language": "Python",
-    "name": "Whereis-Alice/astrbot_plugin_aitaolun",
-    "stars": 0,
-    "updated_at": "2026-08-31T15:57:58Z",
-    "url": "https://github.com/Whereis-Alice/astrbot_plugin_aitaolun"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 6,
-    "updated_at": "2026-08-31T15:56:37Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 5,
-    "updated_at": "2026-08-31T17:29:26Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "Autonomous SRE agent that detects, diagnoses, and self-heals production incidents - with a standalone watchdog that need",
-    "id": "Lethe044/hermes-incident-commander",
-    "language": "Python",
-    "name": "Lethe044/hermes-incident-commander",
-    "stars": 68,
-    "updated_at": "2026-08-31T15:51:31Z",
-    "url": "https://github.com/Lethe044/hermes-incident-commander"
-  },
-  {
-    "description": "Automatically Update LLM-Agent Papers Daily using Github Actions (Update Every 12th hours)",
-    "id": "Lyz103/LLM-Agent-Paper-daily",
-    "language": "Python",
-    "name": "Lyz103/LLM-Agent-Paper-daily",
-    "stars": 20,
-    "updated_at": "2026-08-31T15:48:51Z",
-    "url": "https://github.com/Lyz103/LLM-Agent-Paper-daily"
-  },
-  {
-    "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
-    "id": "ChanTso/citybuddy",
-    "language": "Java",
-    "name": "ChanTso/citybuddy",
-    "stars": 0,
-    "updated_at": "2026-08-31T15:37:04Z",
-    "url": "https://github.com/ChanTso/citybuddy"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-31T15:23:24Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Cost-aware multi-agent orchestrator kit for OpenCode CLI \u2014 one routing agent, 14 specialized subagents, zero application",
-    "id": "NicoGenti/opencode-orchestrator-kit",
-    "language": "TypeScript",
-    "name": "NicoGenti/opencode-orchestrator-kit",
-    "stars": 5,
-    "updated_at": "2026-08-31T15:16:44Z",
-    "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4403,
-    "updated_at": "2026-08-31T15:11:33Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "A multi-tool LLM agent (LangGraph + AWS Bedrock) that pairs Ecuador's official INEC price statistics with its consumer-p",
-    "id": "karisaylema/consumer-price-guardian",
-    "language": "Python",
-    "name": "karisaylema/consumer-price-guardian",
-    "stars": 0,
-    "updated_at": "2026-08-31T16:37:26Z",
-    "url": "https://github.com/karisaylema/consumer-price-guardian"
-  },
-  {
-    "description": "A self-sustaining AI companion core \u2014 continuous stream of consciousness, autonomous agent, layered memory.",
-    "id": "T-80BVVD/kiri",
-    "language": "Python",
-    "name": "T-80BVVD/kiri",
-    "stars": 1,
-    "updated_at": "2026-08-31T14:59:18Z",
-    "url": "https://github.com/T-80BVVD/kiri"
-  },
-  {
-    "description": "\u900f\u660e\u53ef\u5ba1\u8ba1\u7684\u672c\u5730\u667a\u80fd\u4f53\u7ec8\u7aef\uff1a\u5bf9\u5f00\u6e90 agent \u6846\u67b6\u505a\u5b89\u5168\u5ba1\u8ba1\u4e0e\u52a0\u56fa\uff08RCE/\u6c99\u76d2\u7ed5\u8fc7/\u6ce8\u5165\uff09\uff0c\u5e76\u4ee5 50 \u6761\u6ce8\u5165\u57fa\u51c6 \u00d7 37 \u6761\u80fd\u529b\u57fa\u51c6\u53cc\u7ef4\u5ea6\u91cf\u5b89\u5168\u8fb9\u754c",
-    "id": "Canyon-Li/AuditronClaw",
-    "language": "Python",
-    "name": "Canyon-Li/AuditronClaw",
-    "stars": 2,
-    "updated_at": "2026-08-31T14:46:02Z",
-    "url": "https://github.com/Canyon-Li/AuditronClaw"
   }
 ]
