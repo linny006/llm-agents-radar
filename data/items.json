@@ -5,17 +5,26 @@
     "language": "Python",
     "name": "marianotorres-code/tecpatl",
     "stars": 0,
-    "updated_at": "2026-09-01T03:13:54Z",
+    "updated_at": "2026-09-01T03:27:48Z",
     "url": "https://github.com/marianotorres-code/tecpatl"
   },
   {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 16,
-    "updated_at": "2026-09-01T03:11:45Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 952,
+    "updated_at": "2026-09-01T03:25:41Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "\u5267\u672c\u5206\u955c\u5de5\u5177\u667a\u80fd\u4f53\uff08PenShot\uff09\uff1a\u7535\u5f71/\u52a8\u6f2b/\u77ed\u5267/\u5c0f\u8bf4/\u5267\u672c\u2192\u5206\u955c\u2192\u7247\u6bb5\u2192prompt | \u57fa\u4e8e LangGraph+LLM\uff0c\u81ea\u52a8\u89e3\u6790\u4efb\u610f\u683c\u5f0f\u5267\u672c\uff0c\u751f\u6210 Sora/Veo/Runway \u7b49\u6a21\u578b\u53ef\u7528\u7684\u8fde\u8d2ftext-to-video\u63d0\u793a\u8bcd",
+    "id": "neopen/story-shot-agent",
+    "language": "Python",
+    "name": "neopen/story-shot-agent",
+    "stars": 155,
+    "updated_at": "2026-09-01T03:22:46Z",
+    "url": "https://github.com/neopen/story-shot-agent"
   },
   {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
@@ -23,8 +32,35 @@
     "language": "Python",
     "name": "kangkukjin/indiebizOS",
     "stars": 4,
-    "updated_at": "2026-09-01T03:06:52Z",
+    "updated_at": "2026-09-01T03:21:46Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "InstantNeo: Instant agents as the building blocks of intelligent systems. A Python library for creating LLM-based agents",
+    "id": "InstantNeo/instantneo",
+    "language": "Python",
+    "name": "InstantNeo/instantneo",
+    "stars": 11,
+    "updated_at": "2026-09-01T03:21:18Z",
+    "url": "https://github.com/InstantNeo/instantneo"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-09-01T03:20:02Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 16,
+    "updated_at": "2026-09-01T03:20:08Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
@@ -43,15 +79,6 @@
     "stars": 90,
     "updated_at": "2026-09-01T02:54:15Z",
     "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
-  },
-  {
-    "description": "InstantNeo: Instant agents as the building blocks of intelligent systems. A Python library for creating LLM-based agents",
-    "id": "InstantNeo/instantneo",
-    "language": "Python",
-    "name": "InstantNeo/instantneo",
-    "stars": 11,
-    "updated_at": "2026-09-01T02:51:52Z",
-    "url": "https://github.com/InstantNeo/instantneo"
   },
   {
     "description": "Run Aulthium AI Agent instantly in Termux, Linux, or any terminal with a single command.",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-01T00:05:03Z",
     "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-09-01T00:05:00Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-09-01T00:03:45Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
-    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "language": "HTML",
-    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "stars": 0,
-    "updated_at": "2026-08-31T23:59:36Z",
-    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
   }
 ]
