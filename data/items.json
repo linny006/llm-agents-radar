@@ -1,12 +1,48 @@
 [
   {
+    "description": "AgentBypass \u2014 Omni Operator LLM Agent Skill (Cknb): Turn any LLM into RE / Pwn / CTF / Pentest / Protocol / Crypto / Mob",
+    "id": "1837620622/Agent-Bypass",
+    "language": "\u2014",
+    "name": "1837620622/Agent-Bypass",
+    "stars": 0,
+    "updated_at": "2026-09-01T04:43:35Z",
+    "url": "https://github.com/1837620622/Agent-Bypass"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 125,
+    "updated_at": "2026-09-01T04:41:33Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
     "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
     "id": "citizenhicks/mobius",
     "language": "Rust",
     "name": "citizenhicks/mobius",
     "stars": 1,
-    "updated_at": "2026-09-01T04:26:08Z",
+    "updated_at": "2026-09-01T04:41:02Z",
     "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-09-01T04:38:42Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "A chat bot which makes use of multiple RAG collections/metadata field filtering, and multiple LLMs for model orchestrati",
+    "id": "milljm/dynamic-rag-chat",
+    "language": "Python",
+    "name": "milljm/dynamic-rag-chat",
+    "stars": 3,
+    "updated_at": "2026-09-01T04:33:24Z",
+    "url": "https://github.com/milljm/dynamic-rag-chat"
   },
   {
     "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
@@ -58,7 +94,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5863,
+    "stars": 5864,
     "updated_at": "2026-09-01T04:08:12Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -185,7 +221,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-01T04:26:45Z",
+    "updated_at": "2026-09-01T04:43:27Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -270,15 +306,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "Agentbypass skill - Cknb, \u5168\u80fd\u6280\u672f\u64cd\u4f5c\u5458 Agent / Omni technical operator Agent skill",
-    "id": "1837620622/Agent-Bypass",
-    "language": "Shell",
-    "name": "1837620622/Agent-Bypass",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:48:19Z",
-    "url": "https://github.com/1837620622/Agent-Bypass"
-  },
-  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -311,7 +338,7 @@
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
     "stars": 212,
-    "updated_at": "2026-09-01T01:12:01Z",
+    "updated_at": "2026-09-01T04:38:23Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 9,
     "updated_at": "2026-09-01T00:15:22Z",
     "url": "https://github.com/Bastioned-successor320/learn-nanobot"
-  },
-  {
-    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
-    "id": "Samuelcluttered613/paper2code",
-    "language": "Python",
-    "name": "Samuelcluttered613/paper2code",
-    "stars": 1,
-    "updated_at": "2026-09-01T00:15:22Z",
-    "url": "https://github.com/Samuelcluttered613/paper2code"
-  },
-  {
-    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
-    "id": "tessellated-statisticalcommission243/deep-research-skill",
-    "language": "\u2014",
-    "name": "tessellated-statisticalcommission243/deep-research-skill",
-    "stars": 3,
-    "updated_at": "2026-09-01T00:14:57Z",
-    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
-    "id": "chadwickhyperboloidal943/knowl",
-    "language": "TypeScript",
-    "name": "chadwickhyperboloidal943/knowl",
-    "stars": 0,
-    "updated_at": "2026-09-01T00:11:00Z",
-    "url": "https://github.com/chadwickhyperboloidal943/knowl"
   }
 ]
