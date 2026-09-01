@@ -1,11 +1,56 @@
 [
   {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 32,
+    "updated_at": "2026-09-01T01:58:07Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-09-01T01:53:39Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 28,
+    "updated_at": "2026-09-01T01:53:38Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-09-01T01:54:45Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-09-01T01:52:22Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Agentbypass skill - Cknb, \u5168\u80fd\u6280\u672f\u64cd\u4f5c\u5458 Agent / Omni technical operator Agent skill",
     "id": "1837620622/Agent-Bypass",
-    "language": "\u2014",
+    "language": "Shell",
     "name": "1837620622/Agent-Bypass",
     "stars": 0,
-    "updated_at": "2026-09-01T01:40:48Z",
+    "updated_at": "2026-09-01T01:48:19Z",
     "url": "https://github.com/1837620622/Agent-Bypass"
   },
   {
@@ -14,7 +59,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-01T01:39:20Z",
+    "updated_at": "2026-09-01T01:55:54Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -61,15 +106,6 @@
     "stars": 4,
     "updated_at": "2026-09-01T01:08:00Z",
     "url": "https://github.com/wan9yu/cli-agent-runner"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-09-01T01:44:28Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Sort your Downloads by project, not file type \u2014 with one-command undo. No delete, ever.",
@@ -360,15 +396,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 28,
-    "updated_at": "2026-08-31T23:27:25Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
     "description": "Drop-in MCP server that records real per-session agent cost/token/tool metrics and renders a Context Window Explorer ove",
     "id": "sohaibsohail98/mcp-context-inspector",
     "language": "Python",
@@ -376,15 +403,6 @@
     "stars": 3,
     "updated_at": "2026-08-31T23:23:06Z",
     "url": "https://github.com/sohaibsohail98/mcp-context-inspector"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-31T23:19:23Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-31T22:59:26Z",
     "url": "https://github.com/lachlan-kelly/Elucidate"
-  },
-  {
-    "description": "Autonomous SRE agent that detects, diagnoses, and self-heals production incidents - with a standalone watchdog that need",
-    "id": "Lethe044/hermes-incident-commander",
-    "language": "Python",
-    "name": "Lethe044/hermes-incident-commander",
-    "stars": 68,
-    "updated_at": "2026-08-31T23:07:31Z",
-    "url": "https://github.com/Lethe044/hermes-incident-commander"
-  },
-  {
-    "description": "A local-first personal AI agent with a living memory: remembers you, uses your computer, and builds automations you can ",
-    "id": "fatihkutuk/neo",
-    "language": "Python",
-    "name": "fatihkutuk/neo",
-    "stars": 2,
-    "updated_at": "2026-08-31T23:09:45Z",
-    "url": "https://github.com/fatihkutuk/neo"
   }
 ]
