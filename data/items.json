@@ -1,5 +1,50 @@
 [
   {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-09-01T04:26:08Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
+    "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
+    "id": "xhqing/DayTradingAgent",
+    "language": "Python",
+    "name": "xhqing/DayTradingAgent",
+    "stars": 2,
+    "updated_at": "2026-09-01T04:24:32Z",
+    "url": "https://github.com/xhqing/DayTradingAgent"
+  },
+  {
+    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
+    "id": "AlanFokCo/agentscope-go",
+    "language": "Go",
+    "name": "AlanFokCo/agentscope-go",
+    "stars": 34,
+    "updated_at": "2026-09-01T04:20:57Z",
+    "url": "https://github.com/AlanFokCo/agentscope-go"
+  },
+  {
+    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 5,
+    "updated_at": "2026-09-01T04:20:56Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 28,
+    "updated_at": "2026-09-01T04:19:35Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
     "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
     "id": "ChanTso/citybuddy",
     "language": "Java",
@@ -16,15 +61,6 @@
     "stars": 5863,
     "updated_at": "2026-09-01T04:08:12Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-09-01T04:04:00Z",
-    "url": "https://github.com/citizenhicks/mobius"
   },
   {
     "description": "\u81ea\u6f14\u8fdb\u7684\u756a\u5267\u5a92\u4f53\u5e93\u6cbb\u7406 agent\uff1a\u67e5\u91cd/\u6539\u540d/TMDB\u5bf9\u9f50/\u6b7b\u79cd\u6e05\u7406\uff0c\u80fd\u53d1\u73b0\u89c4\u5219\u76f2\u533a\u5e76\u81ea\u52a8\u6f14\u8fdb\u51fa\u65b0\u89c4\u5219",
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-01T04:13:45Z",
+    "updated_at": "2026-09-01T04:26:45Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -225,15 +261,6 @@
     "url": "https://github.com/tomcounsell/ai"
   },
   {
-    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 28,
-    "updated_at": "2026-09-01T01:53:38Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -266,7 +293,7 @@
     "language": "Rust",
     "name": "aviskaar/zorp",
     "stars": 3,
-    "updated_at": "2026-09-01T04:15:00Z",
+    "updated_at": "2026-09-01T04:29:54Z",
     "url": "https://github.com/aviskaar/zorp"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-01T00:11:00Z",
     "url": "https://github.com/chadwickhyperboloidal943/knowl"
-  },
-  {
-    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
-    "id": "Laurenfeminine36/google-jules-skill",
-    "language": "Python",
-    "name": "Laurenfeminine36/google-jules-skill",
-    "stars": 1,
-    "updated_at": "2026-09-01T00:10:47Z",
-    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-09-01T00:10:40Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 0,
-    "updated_at": "2026-09-01T00:08:31Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
   }
 ]
