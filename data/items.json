@@ -9,6 +9,15 @@
     "url": "https://github.com/mintuz/skills"
   },
   {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-09-01T12:58:21Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
     "description": "A tribute to the best software in the world.",
     "id": "markdr-hue/open-fabrica",
     "language": "Go",
@@ -90,15 +99,6 @@
     "url": "https://github.com/ravisinghrajput95/kubewhy"
   },
   {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-09-01T12:47:01Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
     "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
     "id": "areal-project/AReaL",
     "language": "Python",
@@ -176,7 +176,7 @@
     "language": "Python",
     "name": "sagirimo/BioDSH",
     "stars": 3,
-    "updated_at": "2026-09-01T11:58:28Z",
+    "updated_at": "2026-09-01T12:55:57Z",
     "url": "https://github.com/sagirimo/BioDSH"
   },
   {
@@ -230,7 +230,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-09-01T12:54:43Z",
+    "updated_at": "2026-09-01T13:00:17Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
