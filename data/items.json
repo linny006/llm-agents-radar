@@ -1,11 +1,38 @@
 [
   {
+    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 210,
+    "updated_at": "2026-09-01T17:59:19Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-09-01T17:54:09Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "Google Search Console analysis and SEO workflows for Grok, Grok Bots and Grok Build: rankings, content decay, cannibaliz",
+    "id": "gscwizard/grok-plugin",
+    "language": "\u2014",
+    "name": "gscwizard/grok-plugin",
+    "stars": 0,
+    "updated_at": "2026-09-01T17:42:25Z",
+    "url": "https://github.com/gscwizard/grok-plugin"
+  },
+  {
     "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
     "id": "ravisinghrajput95/kubewhy",
     "language": "Python",
     "name": "ravisinghrajput95/kubewhy",
     "stars": 0,
-    "updated_at": "2026-09-01T17:38:39Z",
+    "updated_at": "2026-09-01T17:53:13Z",
     "url": "https://github.com/ravisinghrajput95/kubewhy"
   },
   {
@@ -18,12 +45,21 @@
     "url": "https://github.com/cdavid817/awesome-agent-tutorial"
   },
   {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 128,
+    "updated_at": "2026-09-01T17:35:57Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 7091,
-    "updated_at": "2026-09-01T17:35:06Z",
+    "updated_at": "2026-09-01T17:49:40Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -103,7 +139,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 533,
+    "stars": 534,
     "updated_at": "2026-09-01T16:36:21Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -167,7 +203,7 @@
     "language": "Shell",
     "name": "bigduu/Zenith",
     "stars": 5,
-    "updated_at": "2026-09-01T16:02:38Z",
+    "updated_at": "2026-09-01T17:49:40Z",
     "url": "https://github.com/bigduu/Zenith"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 16,
     "updated_at": "2026-09-01T15:13:00Z",
     "url": "https://github.com/sehoon787/my-claude"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-09-01T15:12:08Z",
-    "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-09-01T15:10:06Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-09-01T15:06:38Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
-    "id": "SHUKLAO/call-with-ai-agent",
-    "language": "\u2014",
-    "name": "SHUKLAO/call-with-ai-agent",
-    "stars": 3,
-    "updated_at": "2026-09-01T15:02:03Z",
-    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
   }
 ]
