@@ -1,5 +1,23 @@
 [
   {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 1,
+    "updated_at": "2026-09-01T14:21:47Z",
+    "url": "https://github.com/ljedrz/nachalnik"
+  },
+  {
+    "description": "Talk to your organization's data \u2014 agentic analytics assistant over StarRocks, with Claude via Azure AI Foundry and an O",
+    "id": "leonardomb1/perguntai",
+    "language": "TypeScript",
+    "name": "leonardomb1/perguntai",
+    "stars": 0,
+    "updated_at": "2026-09-01T14:16:29Z",
+    "url": "https://github.com/leonardomb1/perguntai"
+  },
+  {
     "description": "Agent \u81ea\u52a8\u6d4b\u8bd5\u7cfb\u7edf\uff1aLangGraph + LLM \u7f16\u6392\u7684 API/Web UI \u81ea\u52a8\u5316\u6d4b\u8bd5\uff08\u8f6f\u4ef6\u6d4b\u8bd5\u5de5\u7a0b\u5e08 & Agent \u5f00\u53d1\u5de5\u7a0b\u5e08\u53cc\u5c97\u4f4d\u7b80\u5386\u9879\u76ee\uff09",
     "id": "lefan17/agent-test-hub",
     "language": "Python",
@@ -14,7 +32,7 @@
     "language": "\u2014",
     "name": "17861102832/fleet-os",
     "stars": 1,
-    "updated_at": "2026-09-01T14:12:15Z",
+    "updated_at": "2026-09-01T14:19:08Z",
     "url": "https://github.com/17861102832/fleet-os"
   },
   {
@@ -45,15 +63,6 @@
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
   {
-    "description": "Talk to your organization's data \u2014 agentic analytics assistant over StarRocks, with Claude via Azure AI Foundry and an O",
-    "id": "leonardomb1/perguntai",
-    "language": "TypeScript",
-    "name": "leonardomb1/perguntai",
-    "stars": 0,
-    "updated_at": "2026-09-01T13:57:44Z",
-    "url": "https://github.com/leonardomb1/perguntai"
-  },
-  {
     "description": "TaskWizard\uff1a\u8584\u73af\uff08thin-loop\uff09LLM \u5b89\u5353\u624b\u673a\u667a\u80fd\u4f53 \u2014 \u6bcf\u6b65\u4e00\u6b21\u6a21\u578b\u8c03\u7528\u3001marks-first \u843d\u5730\u3001\u5b89\u5168\u9884\u8b66\u5236\u3001App-KB \u81ea\u79ef\u7d2f\u8bb0\u5fc6\u3001\u7ecf\u9a8c\u56de\u60f3\uff08RAG shadow\uff09\u3002Thin-loop LLM Android ",
     "id": "tom-cat-mao/TaskWizard",
     "language": "Python",
@@ -67,7 +76,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 30326,
+    "stars": 30328,
     "updated_at": "2026-09-01T13:51:39Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -90,12 +99,21 @@
     "url": "https://github.com/zoyluoblue/mc_aiplayer"
   },
   {
+    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 5,
+    "updated_at": "2026-09-01T13:48:53Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
     "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
     "id": "node9-ai/node9-proxy",
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 210,
-    "updated_at": "2026-09-01T13:45:08Z",
+    "updated_at": "2026-09-01T14:27:27Z",
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
@@ -104,7 +122,7 @@
     "language": "Python",
     "name": "Canyon-Li/AuditronClaw",
     "stars": 2,
-    "updated_at": "2026-09-01T13:43:06Z",
+    "updated_at": "2026-09-01T14:16:20Z",
     "url": "https://github.com/Canyon-Li/AuditronClaw"
   },
   {
@@ -184,7 +202,7 @@
     "id": "sagirimo/BioDSH",
     "language": "Python",
     "name": "sagirimo/BioDSH",
-    "stars": 5,
+    "stars": 6,
     "updated_at": "2026-09-01T13:05:17Z",
     "url": "https://github.com/sagirimo/BioDSH"
   },
@@ -270,6 +288,15 @@
     "url": "https://github.com/sehoon787/my-claude"
   },
   {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5708,
+    "updated_at": "2026-09-01T12:31:29Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -297,15 +324,6 @@
     "url": "https://github.com/ravisinghrajput95/kubewhy"
   },
   {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5707,
-    "updated_at": "2026-09-01T12:31:29Z",
-    "url": "https://github.com/areal-project/AReaL"
-  },
-  {
     "description": "Lightweight Swift terminal UI library for streaming AI transcripts with in-place updates and tool placeholders.",
     "id": "BiBoyang/ForgeLoopTUI",
     "language": "Swift",
@@ -319,7 +337,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 527,
+    "stars": 529,
     "updated_at": "2026-09-01T12:17:59Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-01T11:22:17Z",
     "url": "https://github.com/ChanTso/citybuddy"
-  },
-  {
-    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 5,
-    "updated_at": "2026-09-01T13:48:53Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 16,
-    "updated_at": "2026-09-01T11:23:18Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   }
 ]
