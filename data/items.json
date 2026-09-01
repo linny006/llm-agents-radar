@@ -1,12 +1,39 @@
 [
   {
-    "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
-    "id": "DylPorter/claude-telegram",
+    "description": "From thought to skill. From signal to structure.",
+    "id": "agentsope/SkillAlchemy",
     "language": "Python",
-    "name": "DylPorter/claude-telegram",
-    "stars": 1,
-    "updated_at": "2026-09-01T10:26:32Z",
-    "url": "https://github.com/DylPorter/claude-telegram"
+    "name": "agentsope/SkillAlchemy",
+    "stars": 344,
+    "updated_at": "2026-09-01T10:40:20Z",
+    "url": "https://github.com/agentsope/SkillAlchemy"
+  },
+  {
+    "description": "My collection of Claude Code Agents & Skills for web and iOS Development",
+    "id": "mintuz/skills",
+    "language": "Go",
+    "name": "mintuz/skills",
+    "stars": 24,
+    "updated_at": "2026-09-01T10:34:51Z",
+    "url": "https://github.com/mintuz/skills"
+  },
+  {
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 8,
+    "updated_at": "2026-09-01T10:34:00Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
+    "id": "AlanFokCo/agentscope-go",
+    "language": "Go",
+    "name": "AlanFokCo/agentscope-go",
+    "stars": 35,
+    "updated_at": "2026-09-01T10:33:42Z",
+    "url": "https://github.com/AlanFokCo/agentscope-go"
   },
   {
     "description": "Community registry of AI agent manifests, capabilities, skills, and workflows for Octomind \u2014 run a fully-configured spec",
@@ -16,6 +43,15 @@
     "stars": 3,
     "updated_at": "2026-09-01T10:26:33Z",
     "url": "https://github.com/Muvon/octomind-tap"
+  },
+  {
+    "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
+    "id": "DylPorter/claude-telegram",
+    "language": "Python",
+    "name": "DylPorter/claude-telegram",
+    "stars": 1,
+    "updated_at": "2026-09-01T10:26:32Z",
+    "url": "https://github.com/DylPorter/claude-telegram"
   },
   {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
@@ -63,15 +99,6 @@
     "url": "https://github.com/b-macker/NAAb"
   },
   {
-    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
-    "id": "AlanFokCo/agentscope-go",
-    "language": "Go",
-    "name": "AlanFokCo/agentscope-go",
-    "stars": 35,
-    "updated_at": "2026-09-01T09:56:59Z",
-    "url": "https://github.com/AlanFokCo/agentscope-go"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -112,7 +139,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 30307,
+    "stars": 30309,
     "updated_at": "2026-09-01T09:50:46Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -133,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T09:38:49Z",
     "url": "https://github.com/hunterjreid/AgentFL"
-  },
-  {
-    "description": "My collection of Claude Code Agents & Skills for web and iOS Development",
-    "id": "mintuz/skills",
-    "language": "Go",
-    "name": "mintuz/skills",
-    "stars": 24,
-    "updated_at": "2026-09-01T09:38:48Z",
-    "url": "https://github.com/mintuz/skills"
   },
   {
     "description": "\u4ece\u96f6\u5b9e\u73b0 AI \u6838\u5fc3\u7ec4\u4ef6\uff08mini-* \u7cfb\u5217\uff09\uff1aTransformer / Qwen3 / BPE / Agent / RAG / Vector DB\u3002Rebuild AI building blocks from scratch.",
@@ -194,7 +212,7 @@
     "language": "TypeScript",
     "name": "amemhq/amem",
     "stars": 3,
-    "updated_at": "2026-09-01T09:10:40Z",
+    "updated_at": "2026-09-01T10:33:09Z",
     "url": "https://github.com/amemhq/amem"
   },
   {
@@ -230,7 +248,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 16,
-    "updated_at": "2026-09-01T09:03:53Z",
+    "updated_at": "2026-09-01T10:43:55Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -367,24 +385,6 @@
     "stars": 6,
     "updated_at": "2026-09-01T07:56:24Z",
     "url": "https://github.com/aegntic/cognitive-os"
-  },
-  {
-    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
-    "id": "metric-space-ai/greppy",
-    "language": "Rust",
-    "name": "metric-space-ai/greppy",
-    "stars": 8,
-    "updated_at": "2026-09-01T07:45:04Z",
-    "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
-    "description": "From thought to skill. From signal to structure.",
-    "id": "agentsope/SkillAlchemy",
-    "language": "Python",
-    "name": "agentsope/SkillAlchemy",
-    "stars": 344,
-    "updated_at": "2026-09-01T07:41:46Z",
-    "url": "https://github.com/agentsope/SkillAlchemy"
   },
   {
     "description": "Unified LLM Platform that allows you to host your own models locally and access them from across the world",
