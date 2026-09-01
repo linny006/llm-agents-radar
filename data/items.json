@@ -1,5 +1,14 @@
 [
   {
+    "description": "LLM application engineering projects: RAG, LangGraph Agents, MCP, evaluation, FastAPI, Redis, and deployment.",
+    "id": "justin-zhong/ai-deployment-project",
+    "language": "Python",
+    "name": "justin-zhong/ai-deployment-project",
+    "stars": 0,
+    "updated_at": "2026-09-01T19:44:39Z",
+    "url": "https://github.com/justin-zhong/ai-deployment-project"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -68,7 +77,7 @@
     "language": "Rust",
     "name": "aviskaar/zorp",
     "stars": 3,
-    "updated_at": "2026-09-01T19:00:35Z",
+    "updated_at": "2026-09-01T19:47:35Z",
     "url": "https://github.com/aviskaar/zorp"
   },
   {
@@ -230,7 +239,7 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 343,
-    "updated_at": "2026-09-01T19:09:40Z",
+    "updated_at": "2026-09-01T19:49:43Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-01T15:37:42Z",
     "url": "https://github.com/Stolas34/voice-input-src"
-  },
-  {
-    "description": "Policy-driven autopilot for Dependabot PRs and patch releases, with Slack/Discord/Matrix digests",
-    "id": "no42-org/twiki",
-    "language": "TypeScript",
-    "name": "no42-org/twiki",
-    "stars": 0,
-    "updated_at": "2026-09-01T15:36:57Z",
-    "url": "https://github.com/no42-org/twiki"
   }
 ]
