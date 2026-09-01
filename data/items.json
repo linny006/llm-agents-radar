@@ -1,12 +1,66 @@
 [
   {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5866,
+    "updated_at": "2026-09-01T11:25:36Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
     "description": "GPT autonomous research and investigation using starintel",
     "id": "lost-rob0t/starintel-gpt-auto-dig",
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-09-01T11:11:52Z",
+    "updated_at": "2026-09-01T11:26:57Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "\u5267\u672c\u5206\u955c\u5de5\u5177\u667a\u80fd\u4f53\uff08PenShot\uff09\uff1a\u7535\u5f71/\u52a8\u6f2b/\u77ed\u5267/\u5c0f\u8bf4/\u5267\u672c\u2192\u5206\u955c\u2192\u7247\u6bb5\u2192prompt | \u57fa\u4e8e LangGraph+LLM\uff0c\u81ea\u52a8\u89e3\u6790\u4efb\u610f\u683c\u5f0f\u5267\u672c\uff0c\u751f\u6210 Sora/Veo/Runway \u7b49\u6a21\u578b\u53ef\u7528\u7684\u8fde\u8d2ftext-to-video\u63d0\u793a\u8bcd",
+    "id": "neopen/story-shot-agent",
+    "language": "Python",
+    "name": "neopen/story-shot-agent",
+    "stars": 155,
+    "updated_at": "2026-09-01T11:23:17Z",
+    "url": "https://github.com/neopen/story-shot-agent"
+  },
+  {
+    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
+    "id": "watchcat/scout",
+    "language": "Rust",
+    "name": "watchcat/scout",
+    "stars": 0,
+    "updated_at": "2026-09-01T11:22:24Z",
+    "url": "https://github.com/watchcat/scout"
+  },
+  {
+    "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
+    "id": "ChanTso/citybuddy",
+    "language": "Java",
+    "name": "ChanTso/citybuddy",
+    "stars": 0,
+    "updated_at": "2026-09-01T11:22:17Z",
+    "url": "https://github.com/ChanTso/citybuddy"
+  },
+  {
+    "description": "The bioinformatics agent desktop for clinicians and wet-lab scientists \u2014 built on DeepSeek Harness. One-click installers",
+    "id": "sagirimo/BioDSH",
+    "language": "Python",
+    "name": "sagirimo/BioDSH",
+    "stars": 0,
+    "updated_at": "2026-09-01T11:20:30Z",
+    "url": "https://github.com/sagirimo/BioDSH"
+  },
+  {
+    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 5,
+    "updated_at": "2026-09-01T11:20:06Z",
+    "url": "https://github.com/bigduu/Zenith"
   },
   {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
@@ -14,7 +68,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 16,
-    "updated_at": "2026-09-01T11:13:15Z",
+    "updated_at": "2026-09-01T11:23:18Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -32,7 +86,7 @@
     "language": "Go",
     "name": "AlanFokCo/agentscope-go",
     "stars": 35,
-    "updated_at": "2026-09-01T11:02:40Z",
+    "updated_at": "2026-09-01T11:26:20Z",
     "url": "https://github.com/AlanFokCo/agentscope-go"
   },
   {
@@ -52,15 +106,6 @@
     "stars": 13,
     "updated_at": "2026-09-01T10:59:20Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "The bioinformatics agent desktop for clinicians and wet-lab scientists \u2014 built on DeepSeek Harness. One-click installers",
-    "id": "sagirimo/BioDSH",
-    "language": "Python",
-    "name": "sagirimo/BioDSH",
-    "stars": 0,
-    "updated_at": "2026-09-01T10:57:34Z",
-    "url": "https://github.com/sagirimo/BioDSH"
   },
   {
     "description": "Assessment-driven, local-first learning agent built on an observable Agent Runtime and eval harness\u2014grounded ingestion, ",
@@ -238,7 +283,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 30310,
+    "stars": 30312,
     "updated_at": "2026-09-01T09:50:46Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -304,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T09:11:19Z",
     "url": "https://github.com/mystxcal/flourite"
-  },
-  {
-    "description": "\u5267\u672c\u5206\u955c\u5de5\u5177\u667a\u80fd\u4f53\uff08PenShot\uff09\uff1a\u7535\u5f71/\u52a8\u6f2b/\u77ed\u5267/\u5c0f\u8bf4/\u5267\u672c\u2192\u5206\u955c\u2192\u7247\u6bb5\u2192prompt | \u57fa\u4e8e LangGraph+LLM\uff0c\u81ea\u52a8\u89e3\u6790\u4efb\u610f\u683c\u5f0f\u5267\u672c\uff0c\u751f\u6210 Sora/Veo/Runway \u7b49\u6a21\u578b\u53ef\u7528\u7684\u8fde\u8d2ftext-to-video\u63d0\u793a\u8bcd",
-    "id": "neopen/story-shot-agent",
-    "language": "Python",
-    "name": "neopen/story-shot-agent",
-    "stars": 155,
-    "updated_at": "2026-09-01T09:09:11Z",
-    "url": "https://github.com/neopen/story-shot-agent"
   },
   {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-01T08:22:57Z",
     "url": "https://github.com/markdr-hue/open-fabrica"
-  },
-  {
-    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
-    "id": "Rekin226/Agronaut",
-    "language": "Python",
-    "name": "Rekin226/Agronaut",
-    "stars": 3,
-    "updated_at": "2026-09-01T08:22:02Z",
-    "url": "https://github.com/Rekin226/Agronaut"
-  },
-  {
-    "description": "Tool-boundary enforcement for pi: routes codebase exploration onto bounded search and read tools, keeping the prompt-cac",
-    "id": "ZhenHuangLab/pi-better-explore",
-    "language": "TypeScript",
-    "name": "ZhenHuangLab/pi-better-explore",
-    "stars": 0,
-    "updated_at": "2026-09-01T08:16:59Z",
-    "url": "https://github.com/ZhenHuangLab/pi-better-explore"
-  },
-  {
-    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 5,
-    "updated_at": "2026-09-01T11:15:02Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7088,
-    "updated_at": "2026-09-01T08:03:31Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   }
 ]
