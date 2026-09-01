@@ -1,5 +1,23 @@
 [
   {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-09-01T13:45:14Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "TaskWizard\uff1a\u8584\u73af\uff08thin-loop\uff09LLM \u5b89\u5353\u624b\u673a\u667a\u80fd\u4f53 \u2014 \u6bcf\u6b65\u4e00\u6b21\u6a21\u578b\u8c03\u7528\u3001marks-first \u843d\u5730\u3001\u5b89\u5168\u9884\u8b66\u5236\u3001App-KB \u81ea\u79ef\u7d2f\u8bb0\u5fc6\u3001\u7ecf\u9a8c\u56de\u60f3\uff08RAG shadow\uff09\u3002Thin-loop LLM Android ",
+    "id": "tom-cat-mao/TaskWizard",
+    "language": "Python",
+    "name": "tom-cat-mao/TaskWizard",
+    "stars": 0,
+    "updated_at": "2026-09-01T13:39:43Z",
+    "url": "https://github.com/tom-cat-mao/TaskWizard"
+  },
+  {
     "description": "\u8ba9 AI \u5728\u5b89\u5168\u7ea6\u675f\u5185\u6316\u6398 A \u80a1\u56e0\u5b50\uff1a\u4e00\u53e5\u8bdd\u60f3\u6cd5 \u2192 \u53d7\u9650 DSL \u8868\u8fbe\u5f0f \u2192 \u91cf\u5316\u7814\u7a76\u6807\u51c6\u4f53\u68c0 \u2192 \u7b56\u7565\u56de\u6d4b\uff08AFAC \u91d1\u878d\u667a\u80fd\u521b\u65b0\u5927\u8d5b \u00b7 \u91cf\u5316\u6295\u8d44\u65b9\u5411\u53c2\u8d5b\u4f5c\u54c1\uff09",
     "id": "Yumm-del/factor-lab",
     "language": "Python",
@@ -27,12 +45,21 @@
     "url": "https://github.com/cdavid817/awesome-agent-tutorial"
   },
   {
+    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
+    "id": "PCODE-pl/MCPTap",
+    "language": "Python",
+    "name": "PCODE-pl/MCPTap",
+    "stars": 1,
+    "updated_at": "2026-09-01T13:17:55Z",
+    "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-09-01T13:29:15Z",
+    "updated_at": "2026-09-01T13:38:37Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -59,7 +86,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 7089,
-    "updated_at": "2026-09-01T13:08:52Z",
+    "updated_at": "2026-09-01T13:41:39Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -211,7 +238,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 525,
+    "stars": 526,
     "updated_at": "2026-09-01T12:17:59Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -329,7 +356,7 @@
     "language": "Shell",
     "name": "bigduu/Zenith",
     "stars": 5,
-    "updated_at": "2026-09-01T11:20:06Z",
+    "updated_at": "2026-09-01T13:42:14Z",
     "url": "https://github.com/bigduu/Zenith"
   },
   {
@@ -356,17 +383,8 @@
     "language": "Python",
     "name": "Canyon-Li/AuditronClaw",
     "stars": 2,
-    "updated_at": "2026-09-01T11:01:19Z",
+    "updated_at": "2026-09-01T13:43:06Z",
     "url": "https://github.com/Canyon-Li/AuditronClaw"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-09-01T13:28:47Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Assessment-driven, local-first learning agent built on an observable Agent Runtime and eval harness\u2014grounded ingestion, ",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-01T10:26:32Z",
     "url": "https://github.com/DylPorter/claude-telegram"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 961,
-    "updated_at": "2026-09-01T12:11:51Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-09-01T10:14:58Z",
-    "url": "https://github.com/citizenhicks/mobius"
   }
 ]
