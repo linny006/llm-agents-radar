@@ -1,11 +1,29 @@
 [
   {
+    "description": "Lightweight Swift terminal UI library for streaming AI transcripts with in-place updates and tool placeholders.",
+    "id": "BiBoyang/ForgeLoopTUI",
+    "language": "Swift",
+    "name": "BiBoyang/ForgeLoopTUI",
+    "stars": 1,
+    "updated_at": "2026-09-01T11:56:55Z",
+    "url": "https://github.com/BiBoyang/ForgeLoopTUI"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-09-01T11:49:36Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
     "description": "The bioinformatics agent desktop for clinicians and wet-lab scientists \u2014 built on DeepSeek Harness. One-click installers",
     "id": "sagirimo/BioDSH",
     "language": "Python",
     "name": "sagirimo/BioDSH",
     "stars": 0,
-    "updated_at": "2026-09-01T11:40:23Z",
+    "updated_at": "2026-09-01T11:58:28Z",
     "url": "https://github.com/sagirimo/BioDSH"
   },
   {
@@ -279,15 +297,6 @@
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
-    "description": "Lightweight Swift terminal UI library for streaming AI transcripts with in-place updates and tool placeholders.",
-    "id": "BiBoyang/ForgeLoopTUI",
-    "language": "Swift",
-    "name": "BiBoyang/ForgeLoopTUI",
-    "stars": 1,
-    "updated_at": "2026-09-01T09:55:02Z",
-    "url": "https://github.com/BiBoyang/ForgeLoopTUI"
-  },
-  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -310,7 +319,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 30313,
+    "stars": 30314,
     "updated_at": "2026-09-01T09:50:46Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -358,15 +367,6 @@
     "stars": 3,
     "updated_at": "2026-09-01T10:28:59Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-09-01T09:13:05Z",
-    "url": "https://github.com/SashaEee/auditLens"
   },
   {
     "description": "An AI agent harness for hard, exact tasks. Keeps one evolving artifact, spends compute only on decisions that can change",
