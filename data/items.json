@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-09-01T05:59:27Z",
+    "updated_at": "2026-09-01T06:14:40Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 28,
+    "updated_at": "2026-09-01T06:07:57Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 953,
+    "updated_at": "2026-09-01T06:01:34Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
+    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "language": "JavaScript",
+    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "stars": 0,
+    "updated_at": "2026-09-01T06:00:09Z",
+    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
+  },
+  {
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 8,
+    "updated_at": "2026-09-01T05:59:42Z",
+    "url": "https://github.com/metric-space-ai/greppy"
   },
   {
     "description": "\u591a\u6a21\u6001 RAG \u667a\u80fd\u4f53\uff1aMCP \u534f\u8bae + GraphRAG + Cross-Encoder \u7cbe\u6392 + \u591a Agent \u7f16\u6392 + RAGAS \u8bc4\u4f30",
@@ -23,7 +59,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-09-01T05:54:04Z",
+    "updated_at": "2026-09-01T06:14:20Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -36,21 +72,12 @@
     "url": "https://github.com/bigduu/Zenith"
   },
   {
-    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
-    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "language": "JavaScript",
-    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "stars": 0,
-    "updated_at": "2026-09-01T06:00:09Z",
-    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-01T05:47:05Z",
+    "updated_at": "2026-09-01T06:12:03Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -90,21 +117,12 @@
     "url": "https://github.com/xbsheng/ai-from-scratch"
   },
   {
-    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
-    "id": "metric-space-ai/greppy",
-    "language": "Rust",
-    "name": "metric-space-ai/greppy",
-    "stars": 8,
-    "updated_at": "2026-09-01T05:59:42Z",
-    "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
     "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
     "id": "ChanTso/citybuddy",
     "language": "Java",
     "name": "ChanTso/citybuddy",
     "stars": 0,
-    "updated_at": "2026-09-01T05:39:59Z",
+    "updated_at": "2026-09-01T06:04:29Z",
     "url": "https://github.com/ChanTso/citybuddy"
   },
   {
@@ -243,15 +261,6 @@
     "url": "https://github.com/xhqing/DayTradingAgent"
   },
   {
-    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 28,
-    "updated_at": "2026-09-01T04:19:35Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
@@ -259,15 +268,6 @@
     "stars": 5864,
     "updated_at": "2026-09-01T04:08:12Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 953,
-    "updated_at": "2026-09-01T05:55:57Z",
-    "url": "https://github.com/ongridio/ongrid"
   },
   {
     "description": "\u81ea\u6f14\u8fdb\u7684\u756a\u5267\u5a92\u4f53\u5e93\u6cbb\u7406 agent\uff1a\u67e5\u91cd/\u6539\u540d/TMDB\u5bf9\u9f50/\u6b7b\u79cd\u6e05\u7406\uff0c\u80fd\u53d1\u73b0\u89c4\u5219\u76f2\u533a\u5e76\u81ea\u52a8\u6f14\u8fdb\u51fa\u65b0\u89c4\u5219",
