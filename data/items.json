@@ -1,5 +1,23 @@
 [
   {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-09-01T20:12:38Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 537,
+    "updated_at": "2026-09-01T20:05:26Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
     "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
     "id": "karvidsson/kbots",
     "language": "Python",
@@ -7,6 +25,24 @@
     "stars": 0,
     "updated_at": "2026-09-01T19:58:17Z",
     "url": "https://github.com/karvidsson/kbots"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-09-01T19:50:33Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 344,
+    "updated_at": "2026-09-01T19:49:43Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "LLM application engineering projects: RAG, LangGraph Agents, MCP, evaluation, FastAPI, Redis, and deployment.",
@@ -41,7 +77,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-01T19:36:09Z",
+    "updated_at": "2026-09-01T20:09:45Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -86,7 +122,7 @@
     "language": "Rust",
     "name": "aviskaar/zorp",
     "stars": 3,
-    "updated_at": "2026-09-01T19:47:35Z",
+    "updated_at": "2026-09-01T20:02:47Z",
     "url": "https://github.com/aviskaar/zorp"
   },
   {
@@ -97,15 +133,6 @@
     "stars": 492,
     "updated_at": "2026-09-01T19:40:39Z",
     "url": "https://github.com/expectedparrot/edsl"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-09-01T18:37:55Z",
-    "url": "https://github.com/SashaEee/auditLens"
   },
   {
     "description": "AI event probability prediction engine",
@@ -243,15 +270,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 343,
-    "updated_at": "2026-09-01T19:49:43Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -286,15 +304,6 @@
     "stars": 337,
     "updated_at": "2026-09-01T16:48:55Z",
     "url": "https://github.com/monocle2ai/monocle"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 537,
-    "updated_at": "2026-09-01T16:36:21Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "GPT autonomous research and investigation using starintel",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-01T15:38:08Z",
     "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
-  },
-  {
-    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
-    "id": "Arjunadh5305/ios-skills-collection",
-    "language": "\u2014",
-    "name": "Arjunadh5305/ios-skills-collection",
-    "stars": 1,
-    "updated_at": "2026-09-01T15:38:07Z",
-    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
   }
 ]
