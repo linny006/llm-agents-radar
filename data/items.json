@@ -1,5 +1,41 @@
 [
   {
+    "description": "TaskWizard\uff1a\u8584\u73af\uff08thin-loop\uff09LLM \u5b89\u5353\u624b\u673a\u667a\u80fd\u4f53 \u2014 \u6bcf\u6b65\u4e00\u6b21\u6a21\u578b\u8c03\u7528\u3001marks-first \u843d\u5730\u3001\u5b89\u5168\u9884\u8b66\u5236\u3001App-KB \u81ea\u79ef\u7d2f\u8bb0\u5fc6\u3001\u7ecf\u9a8c\u56de\u60f3\uff08RAG shadow\uff09\u3002Thin-loop LLM Android ",
+    "id": "tom-cat-mao/TaskWizard",
+    "language": "Python",
+    "name": "tom-cat-mao/TaskWizard",
+    "stars": 0,
+    "updated_at": "2026-09-01T07:59:28Z",
+    "url": "https://github.com/tom-cat-mao/TaskWizard"
+  },
+  {
+    "description": "Cognitive OS v3.0 \u2014 Universal AI agent operating system specification. 16-section cognitive architecture for Claude Code",
+    "id": "aegntic/cognitive-os",
+    "language": "Kotlin",
+    "name": "aegntic/cognitive-os",
+    "stars": 6,
+    "updated_at": "2026-09-01T07:56:24Z",
+    "url": "https://github.com/aegntic/cognitive-os"
+  },
+  {
+    "description": "Local coding agent with native Zhipu GLM / StepFun Step Coding-Plan support. Four hard gates \u2014 the agent can't claim don",
+    "id": "Lion-1209/coderio",
+    "language": "Python",
+    "name": "Lion-1209/coderio",
+    "stars": 9,
+    "updated_at": "2026-09-01T07:50:55Z",
+    "url": "https://github.com/Lion-1209/coderio"
+  },
+  {
+    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 5,
+    "updated_at": "2026-09-01T07:59:32Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
     "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
     "id": "metric-space-ai/greppy",
     "language": "Rust",
@@ -7,6 +43,15 @@
     "stars": 8,
     "updated_at": "2026-09-01T07:45:04Z",
     "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
+    "id": "Rekin226/Agronaut",
+    "language": "Python",
+    "name": "Rekin226/Agronaut",
+    "stars": 3,
+    "updated_at": "2026-09-01T07:42:46Z",
+    "url": "https://github.com/Rekin226/Agronaut"
   },
   {
     "description": "From thought to skill. From signal to structure.",
@@ -32,7 +77,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-01T07:34:46Z",
+    "updated_at": "2026-09-01T07:52:24Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -76,7 +121,7 @@
     "id": "AlanFokCo/agentscope-go",
     "language": "Go",
     "name": "AlanFokCo/agentscope-go",
-    "stars": 34,
+    "stars": 35,
     "updated_at": "2026-09-01T07:27:48Z",
     "url": "https://github.com/AlanFokCo/agentscope-go"
   },
@@ -104,7 +149,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-01T07:36:55Z",
+    "updated_at": "2026-09-01T07:52:01Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -160,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T07:18:42Z",
     "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
-  },
-  {
-    "description": "Local coding agent with native Zhipu GLM / StepFun Step Coding-Plan support. Four hard gates \u2014 the agent can't claim don",
-    "id": "Lion-1209/coderio",
-    "language": "Python",
-    "name": "Lion-1209/coderio",
-    "stars": 9,
-    "updated_at": "2026-09-01T07:16:41Z",
-    "url": "https://github.com/Lion-1209/coderio"
   },
   {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
@@ -342,15 +378,6 @@
     "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
   },
   {
-    "description": "Cognitive OS v3.0 \u2014 Universal AI agent operating system specification. 16-section cognitive architecture for Claude Code",
-    "id": "aegntic/cognitive-os",
-    "language": "Kotlin",
-    "name": "aegntic/cognitive-os",
-    "stars": 6,
-    "updated_at": "2026-09-01T06:55:19Z",
-    "url": "https://github.com/aegntic/cognitive-os"
-  },
-  {
     "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
     "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
     "language": "HTML",
@@ -410,7 +437,7 @@
     "language": "Python",
     "name": "Muvon/octomind-tap",
     "stars": 3,
-    "updated_at": "2026-09-01T06:38:28Z",
+    "updated_at": "2026-09-01T07:51:48Z",
     "url": "https://github.com/Muvon/octomind-tap"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 237,
     "updated_at": "2026-09-01T06:37:44Z",
     "url": "https://github.com/shenmintao/marginalia"
-  },
-  {
-    "description": "A self-hosted Agent Skills marketplace",
-    "id": "nanoinfraorg/skills-server",
-    "language": "Go",
-    "name": "nanoinfraorg/skills-server",
-    "stars": 0,
-    "updated_at": "2026-09-01T06:33:08Z",
-    "url": "https://github.com/nanoinfraorg/skills-server"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-09-01T07:11:53Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 955,
-    "updated_at": "2026-09-01T06:22:14Z",
-    "url": "https://github.com/ongridio/ongrid"
   }
 ]
