@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "marianotorres-code/tecpatl",
     "stars": 0,
-    "updated_at": "2026-09-01T03:27:48Z",
+    "updated_at": "2026-09-01T03:40:57Z",
     "url": "https://github.com/marianotorres-code/tecpatl"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 4,
+    "updated_at": "2026-09-01T03:31:50Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
@@ -25,15 +34,6 @@
     "stars": 155,
     "updated_at": "2026-09-01T03:22:46Z",
     "url": "https://github.com/neopen/story-shot-agent"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 4,
-    "updated_at": "2026-09-01T03:21:46Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
     "description": "InstantNeo: Instant agents as the building blocks of intelligent systems. A Python library for creating LLM-based agents",

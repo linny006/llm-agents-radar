@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-01 03:30 UTC
+> ⏰ Last updated: 2026-09-01 03:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,9 +43,9 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [marianotorres-code/tecpatl](https://github.com/marianotorres-code/tecpatl) | 0 | Python | 2026-09-01 | An open-source agent that designs and verifies digital hardware, recording every attempt as an open dataset of Verilog d |
-| 2 | [ongridio/ongrid](https://github.com/ongridio/ongrid) | 952 | Go | 2026-09-01 | An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, L |
-| 3 | [neopen/story-shot-agent](https://github.com/neopen/story-shot-agent) | 155 | Python | 2026-09-01 | 剧本分镜工具智能体（PenShot）：电影/动漫/短剧/小说/剧本→分镜→片段→prompt \| 基于 LangGraph+LLM，自动解析任意格式剧本，生成 Sora/Veo/Runway 等模型可用的连贯text-to-video提示词 |
-| 4 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 4 | Python | 2026-09-01 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
+| 2 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 4 | Python | 2026-09-01 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
+| 3 | [ongridio/ongrid](https://github.com/ongridio/ongrid) | 952 | Go | 2026-09-01 | An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, L |
+| 4 | [neopen/story-shot-agent](https://github.com/neopen/story-shot-agent) | 155 | Python | 2026-09-01 | 剧本分镜工具智能体（PenShot）：电影/动漫/短剧/小说/剧本→分镜→片段→prompt \| 基于 LangGraph+LLM，自动解析任意格式剧本，生成 Sora/Veo/Runway 等模型可用的连贯text-to-video提示词 |
 | 5 | [InstantNeo/instantneo](https://github.com/InstantNeo/instantneo) | 11 | Python | 2026-09-01 | InstantNeo: Instant agents as the building blocks of intelligent systems. A Python library for creating LLM-based agents |
 | 6 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 1 | C++ | 2026-09-01 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
 | 7 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 16 | Rust | 2026-09-01 | Bamboo — a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule |
