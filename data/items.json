@@ -1,5 +1,14 @@
 [
   {
+    "description": "\u900f\u660e\u53ef\u5ba1\u8ba1\u7684\u672c\u5730\u667a\u80fd\u4f53\u7ec8\u7aef\uff1a\u5bf9\u5f00\u6e90 agent \u6846\u67b6\u505a\u5b89\u5168\u5ba1\u8ba1\u4e0e\u52a0\u56fa\uff08RCE/\u6c99\u76d2\u7ed5\u8fc7/\u6ce8\u5165\uff09\uff0c\u5e76\u4ee5 50 \u6761\u6ce8\u5165\u57fa\u51c6 \u00d7 37 \u6761\u80fd\u529b\u57fa\u51c6\u53cc\u7ef4\u5ea6\u91cf\u5b89\u5168\u8fb9\u754c",
+    "id": "Canyon-Li/AuditronClaw",
+    "language": "Python",
+    "name": "Canyon-Li/AuditronClaw",
+    "stars": 2,
+    "updated_at": "2026-09-01T17:10:17Z",
+    "url": "https://github.com/Canyon-Li/AuditronClaw"
+  },
+  {
     "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
     "id": "metric-space-ai/greppy",
     "language": "Rust",
@@ -7,6 +16,15 @@
     "stars": 8,
     "updated_at": "2026-09-01T17:05:58Z",
     "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-09-01T16:52:18Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
@@ -133,15 +151,6 @@
     "stars": 5,
     "updated_at": "2026-09-01T15:56:24Z",
     "url": "https://github.com/scrapfly/scrapfly-cli"
-  },
-  {
-    "description": "\u900f\u660e\u53ef\u5ba1\u8ba1\u7684\u672c\u5730\u667a\u80fd\u4f53\u7ec8\u7aef\uff1a\u5bf9\u5f00\u6e90 agent \u6846\u67b6\u505a\u5b89\u5168\u5ba1\u8ba1\u4e0e\u52a0\u56fa\uff08RCE/\u6c99\u76d2\u7ed5\u8fc7/\u6ce8\u5165\uff09\uff0c\u5e76\u4ee5 50 \u6761\u6ce8\u5165\u57fa\u51c6 \u00d7 37 \u6761\u80fd\u529b\u57fa\u51c6\u53cc\u7ef4\u5ea6\u91cf\u5b89\u5168\u8fb9\u754c",
-    "id": "Canyon-Li/AuditronClaw",
-    "language": "Python",
-    "name": "Canyon-Li/AuditronClaw",
-    "stars": 2,
-    "updated_at": "2026-09-01T17:10:17Z",
-    "url": "https://github.com/Canyon-Li/AuditronClaw"
   },
   {
     "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
@@ -284,7 +293,7 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 342,
-    "updated_at": "2026-09-01T15:31:24Z",
+    "updated_at": "2026-09-01T17:20:47Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -347,7 +356,7 @@
     "language": "Rust",
     "name": "aviskaar/zorp",
     "stars": 3,
-    "updated_at": "2026-09-01T16:46:26Z",
+    "updated_at": "2026-09-01T17:16:34Z",
     "url": "https://github.com/aviskaar/zorp"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 24,
     "updated_at": "2026-09-01T14:56:21Z",
     "url": "https://github.com/mintuz/skills"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-09-01T14:55:24Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   }
 ]
