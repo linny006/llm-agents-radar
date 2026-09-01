@@ -1,8 +1,62 @@
 [
   {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 0,
+    "updated_at": "2026-09-01T11:11:52Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 16,
+    "updated_at": "2026-09-01T11:13:15Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "\u53e3\u8ff0\u53f2\u5f55\u97f3\u8f6c\u5199\u7a3f \u2192 \u5fe0\u5b9e\u6574\u7406\u7a3f\u7684\u5de5\u5177\u7bb1\uff08Claude Skill\uff09\uff1a\u53bb\u53e3\u8bed\u5316 Pass1 + \u5bf9\u6297\u5f0f\u5fe0\u5b9e\u5ea6\u8d28\u91cf\u95e8\uff0c\u5b58\u771f\u4f18\u5148\uff0c\u6570\u636e\u5168\u7a0b\u672c\u5730\u4e0d\u5916\u4f20",
+    "id": "LeoLin990405/oral-interview-transcription-skill",
+    "language": "Python",
+    "name": "LeoLin990405/oral-interview-transcription-skill",
+    "stars": 10,
+    "updated_at": "2026-09-01T11:10:09Z",
+    "url": "https://github.com/LeoLin990405/oral-interview-transcription-skill"
+  },
+  {
+    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
+    "id": "AlanFokCo/agentscope-go",
+    "language": "Go",
+    "name": "AlanFokCo/agentscope-go",
+    "stars": 35,
+    "updated_at": "2026-09-01T11:02:40Z",
+    "url": "https://github.com/AlanFokCo/agentscope-go"
+  },
+  {
+    "description": "\u900f\u660e\u53ef\u5ba1\u8ba1\u7684\u672c\u5730\u667a\u80fd\u4f53\u7ec8\u7aef\uff1a\u5bf9\u5f00\u6e90 agent \u6846\u67b6\u505a\u5b89\u5168\u5ba1\u8ba1\u4e0e\u52a0\u56fa\uff08RCE/\u6c99\u76d2\u7ed5\u8fc7/\u6ce8\u5165\uff09\uff0c\u5e76\u4ee5 50 \u6761\u6ce8\u5165\u57fa\u51c6 \u00d7 37 \u6761\u80fd\u529b\u57fa\u51c6\u53cc\u7ef4\u5ea6\u91cf\u5b89\u5168\u8fb9\u754c",
+    "id": "Canyon-Li/AuditronClaw",
+    "language": "Python",
+    "name": "Canyon-Li/AuditronClaw",
+    "stars": 2,
+    "updated_at": "2026-09-01T11:01:19Z",
+    "url": "https://github.com/Canyon-Li/AuditronClaw"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-09-01T10:59:20Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "The bioinformatics agent desktop for clinicians and wet-lab scientists \u2014 built on DeepSeek Harness. One-click installers",
     "id": "sagirimo/BioDSH",
-    "language": "\u2014",
+    "language": "Python",
     "name": "sagirimo/BioDSH",
     "stars": 0,
     "updated_at": "2026-09-01T10:57:34Z",
@@ -16,6 +70,24 @@
     "stars": 33,
     "updated_at": "2026-09-01T10:56:07Z",
     "url": "https://github.com/Hyr1sky/TheGrandQuiz"
+  },
+  {
+    "description": "Daily job-scanning agent: fetches postings from multiple sources, filters/scores against a candidate profile with an LLM",
+    "id": "tmtabor/job-agent",
+    "language": "Python",
+    "name": "tmtabor/job-agent",
+    "stars": 0,
+    "updated_at": "2026-09-01T10:55:45Z",
+    "url": "https://github.com/tmtabor/job-agent"
+  },
+  {
+    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
+    "id": "ravisinghrajput95/kubewhy",
+    "language": "Python",
+    "name": "ravisinghrajput95/kubewhy",
+    "stars": 0,
+    "updated_at": "2026-09-01T10:54:11Z",
+    "url": "https://github.com/ravisinghrajput95/kubewhy"
   },
   {
     "description": "5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute",
@@ -70,15 +142,6 @@
     "stars": 8,
     "updated_at": "2026-09-01T10:34:00Z",
     "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
-    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
-    "id": "AlanFokCo/agentscope-go",
-    "language": "Go",
-    "name": "AlanFokCo/agentscope-go",
-    "stars": 35,
-    "updated_at": "2026-09-01T10:33:42Z",
-    "url": "https://github.com/AlanFokCo/agentscope-go"
   },
   {
     "description": "Community registry of AI agent manifests, capabilities, skills, and workflows for Octomind \u2014 run a fully-configured spec",
@@ -265,18 +328,9 @@
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 214,
+    "stars": 215,
     "updated_at": "2026-09-01T09:05:17Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 16,
-    "updated_at": "2026-09-01T10:43:55Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "A chat bot which makes use of multiple RAG collections/metadata field filtering, and multiple LLMs for model orchestrati",
@@ -313,6 +367,15 @@
     "stars": 84,
     "updated_at": "2026-09-01T08:43:13Z",
     "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 337,
+    "updated_at": "2026-09-01T08:40:51Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Multimodal AI testing agent for Web apps: Qwen-VL screenshot/video analysis, DeepSeek review, bug localization, log/code",
@@ -369,21 +432,12 @@
     "url": "https://github.com/ZhenHuangLab/pi-better-explore"
   },
   {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 336,
-    "updated_at": "2026-09-01T08:40:51Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
     "id": "bigduu/Zenith",
     "language": "Shell",
     "name": "bigduu/Zenith",
     "stars": 5,
-    "updated_at": "2026-09-01T08:11:02Z",
+    "updated_at": "2026-09-01T11:15:02Z",
     "url": "https://github.com/bigduu/Zenith"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 7088,
     "updated_at": "2026-09-01T08:03:31Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "TaskWizard\uff1a\u8584\u73af\uff08thin-loop\uff09LLM \u5b89\u5353\u624b\u673a\u667a\u80fd\u4f53 \u2014 \u6bcf\u6b65\u4e00\u6b21\u6a21\u578b\u8c03\u7528\u3001marks-first \u843d\u5730\u3001\u5b89\u5168\u9884\u8b66\u5236\u3001App-KB \u81ea\u79ef\u7d2f\u8bb0\u5fc6\u3001\u7ecf\u9a8c\u56de\u60f3\uff08RAG shadow\uff09\u3002Thin-loop LLM Android ",
-    "id": "tom-cat-mao/TaskWizard",
-    "language": "Python",
-    "name": "tom-cat-mao/TaskWizard",
-    "stars": 0,
-    "updated_at": "2026-09-01T08:01:45Z",
-    "url": "https://github.com/tom-cat-mao/TaskWizard"
-  },
-  {
-    "description": "Cognitive OS v3.0 \u2014 Universal AI agent operating system specification. 16-section cognitive architecture for Claude Code",
-    "id": "aegntic/cognitive-os",
-    "language": "Kotlin",
-    "name": "aegntic/cognitive-os",
-    "stars": 6,
-    "updated_at": "2026-09-01T07:56:24Z",
-    "url": "https://github.com/aegntic/cognitive-os"
-  },
-  {
-    "description": "Unified LLM Platform that allows you to host your own models locally and access them from across the world",
-    "id": "noahhps/Courier",
-    "language": "Python",
-    "name": "noahhps/Courier",
-    "stars": 0,
-    "updated_at": "2026-09-01T07:33:05Z",
-    "url": "https://github.com/noahhps/Courier"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-09-01T07:28:00Z",
-    "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
-    "id": "xhqing/DayTradingAgent",
-    "language": "Python",
-    "name": "xhqing/DayTradingAgent",
-    "stars": 2,
-    "updated_at": "2026-09-01T07:24:28Z",
-    "url": "https://github.com/xhqing/DayTradingAgent"
-  },
-  {
-    "description": "Sort your Downloads by project, not file type \u2014 with one-command undo. No delete, ever.",
-    "id": "verniceunleaded6135/tidy-undo",
-    "language": "Python",
-    "name": "verniceunleaded6135/tidy-undo",
-    "stars": 0,
-    "updated_at": "2026-09-01T07:22:34Z",
-    "url": "https://github.com/verniceunleaded6135/tidy-undo"
   }
 ]
