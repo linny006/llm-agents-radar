@@ -1,11 +1,56 @@
 [
   {
+    "description": "A library-science-inspired personal knowledge management system with LLM agents",
+    "id": "shenmintao/marginalia",
+    "language": "Python",
+    "name": "shenmintao/marginalia",
+    "stars": 237,
+    "updated_at": "2026-09-01T09:41:05Z",
+    "url": "https://github.com/shenmintao/marginalia"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 961,
+    "updated_at": "2026-09-01T09:39:40Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "Drive FL Studio the way an agent drives a browser: inject Python into FL's live interpreter, no restarts, no stolen mous",
+    "id": "hunterjreid/AgentFL",
+    "language": "Python",
+    "name": "hunterjreid/AgentFL",
+    "stars": 0,
+    "updated_at": "2026-09-01T09:38:49Z",
+    "url": "https://github.com/hunterjreid/AgentFL"
+  },
+  {
+    "description": "My collection of Claude Code Agents & Skills for web and iOS Development",
+    "id": "mintuz/skills",
+    "language": "Go",
+    "name": "mintuz/skills",
+    "stars": 24,
+    "updated_at": "2026-09-01T09:38:48Z",
+    "url": "https://github.com/mintuz/skills"
+  },
+  {
+    "description": "\u4ece\u96f6\u5b9e\u73b0 AI \u6838\u5fc3\u7ec4\u4ef6\uff08mini-* \u7cfb\u5217\uff09\uff1aTransformer / Qwen3 / BPE / Agent / RAG / Vector DB\u3002Rebuild AI building blocks from scratch.",
+    "id": "xbsheng/ai-from-scratch",
+    "language": "Python",
+    "name": "xbsheng/ai-from-scratch",
+    "stars": 0,
+    "updated_at": "2026-09-01T09:35:37Z",
+    "url": "https://github.com/xbsheng/ai-from-scratch"
+  },
+  {
     "description": "Local coding agent with native Zhipu GLM / StepFun Step Coding-Plan support. Four hard gates \u2014 the agent can't claim don",
     "id": "Lion-1209/coderio",
     "language": "Python",
     "name": "Lion-1209/coderio",
     "stars": 9,
-    "updated_at": "2026-09-01T09:28:24Z",
+    "updated_at": "2026-09-01T09:34:16Z",
     "url": "https://github.com/Lion-1209/coderio"
   },
   {
@@ -25,15 +70,6 @@
     "stars": 2,
     "updated_at": "2026-09-01T09:13:05Z",
     "url": "https://github.com/SashaEee/auditLens"
-  },
-  {
-    "description": "Drive FL Studio the way an agent drives a browser: inject Python into FL's live interpreter, no restarts, no stolen mous",
-    "id": "hunterjreid/AgentFL",
-    "language": "Python",
-    "name": "hunterjreid/AgentFL",
-    "stars": 0,
-    "updated_at": "2026-09-01T09:12:21Z",
-    "url": "https://github.com/hunterjreid/AgentFL"
   },
   {
     "description": "An AI agent harness for hard, exact tasks. Keeps one evolving artifact, spends compute only on decisions that can change",
@@ -94,7 +130,7 @@
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 213,
+    "stars": 214,
     "updated_at": "2026-09-01T09:05:17Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
@@ -153,15 +189,6 @@
     "url": "https://github.com/sergezuber/FABULA-LLM-5"
   },
   {
-    "description": "A library-science-inspired personal knowledge management system with LLM agents",
-    "id": "shenmintao/marginalia",
-    "language": "Python",
-    "name": "shenmintao/marginalia",
-    "stars": 237,
-    "updated_at": "2026-09-01T08:37:09Z",
-    "url": "https://github.com/shenmintao/marginalia"
-  },
-  {
     "description": "Multimodal AI testing agent for Web apps: Qwen-VL screenshot/video analysis, DeepSeek review, bug localization, log/code",
     "id": "jiuguandemao/multimodal-bug-agent",
     "language": "Python",
@@ -187,15 +214,6 @@
     "stars": 5,
     "updated_at": "2026-09-01T08:26:18Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "\u4ece\u96f6\u5b9e\u73b0 AI \u6838\u5fc3\u7ec4\u4ef6\uff08mini-* \u7cfb\u5217\uff09\uff1aTransformer / Qwen3 / BPE / Agent / RAG / Vector DB\u3002Rebuild AI building blocks from scratch.",
-    "id": "xbsheng/ai-from-scratch",
-    "language": "Python",
-    "name": "xbsheng/ai-from-scratch",
-    "stars": 0,
-    "updated_at": "2026-09-01T08:25:55Z",
-    "url": "https://github.com/xbsheng/ai-from-scratch"
   },
   {
     "description": "A tribute to the best software in the world.",
@@ -329,7 +347,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-01T09:28:32Z",
+    "updated_at": "2026-09-01T09:43:30Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-01T07:10:26Z",
     "url": "https://github.com/Samuelcluttered613/paper2code"
-  },
-  {
-    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
-    "id": "Bastioned-successor320/learn-nanobot",
-    "language": "Python",
-    "name": "Bastioned-successor320/learn-nanobot",
-    "stars": 9,
-    "updated_at": "2026-09-01T07:10:15Z",
-    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
-  },
-  {
-    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
-    "id": "tessellated-statisticalcommission243/deep-research-skill",
-    "language": "\u2014",
-    "name": "tessellated-statisticalcommission243/deep-research-skill",
-    "stars": 3,
-    "updated_at": "2026-09-01T07:09:58Z",
-    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
   }
 ]
