@@ -1,5 +1,41 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-09-01T09:56:17Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 126,
+    "updated_at": "2026-09-01T09:52:52Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-09-01T09:52:10Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 30304,
+    "updated_at": "2026-09-01T09:50:46Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
     "description": "A library-science-inspired personal knowledge management system with LLM agents",
     "id": "shenmintao/marginalia",
     "language": "Python",
@@ -14,7 +50,7 @@
     "language": "Go",
     "name": "ongridio/ongrid",
     "stars": 961,
-    "updated_at": "2026-09-01T09:39:40Z",
+    "updated_at": "2026-09-01T09:49:04Z",
     "url": "https://github.com/ongridio/ongrid"
   },
   {
@@ -104,7 +140,7 @@
     "language": "Python",
     "name": "Hyr1sky/TheGrandQuiz",
     "stars": 33,
-    "updated_at": "2026-09-01T09:08:34Z",
+    "updated_at": "2026-09-01T09:51:19Z",
     "url": "https://github.com/Hyr1sky/TheGrandQuiz"
   },
   {
@@ -113,7 +149,7 @@
     "language": "Go",
     "name": "AlanFokCo/agentscope-go",
     "stars": 35,
-    "updated_at": "2026-09-01T09:08:33Z",
+    "updated_at": "2026-09-01T09:56:59Z",
     "url": "https://github.com/AlanFokCo/agentscope-go"
   },
   {
@@ -342,15 +378,6 @@
     "url": "https://github.com/verniceunleaded6135/tidy-undo"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-09-01T09:43:30Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node\u2014no complex workflows needed.",
     "id": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
     "language": "JavaScript",
@@ -421,32 +448,5 @@
     "stars": 128,
     "updated_at": "2026-09-01T07:16:00Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
-    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
-    "language": "Go",
-    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
-    "stars": 0,
-    "updated_at": "2026-09-01T07:14:15Z",
-    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5706,
-    "updated_at": "2026-09-01T07:12:57Z",
-    "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
-    "id": "Samuelcluttered613/paper2code",
-    "language": "Python",
-    "name": "Samuelcluttered613/paper2code",
-    "stars": 1,
-    "updated_at": "2026-09-01T07:10:26Z",
-    "url": "https://github.com/Samuelcluttered613/paper2code"
   }
 ]
