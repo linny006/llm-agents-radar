@@ -1,5 +1,41 @@
 [
   {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-09-01T21:59:34Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+    "id": "BlockRunAI/Franklin",
+    "language": "TypeScript",
+    "name": "BlockRunAI/Franklin",
+    "stars": 552,
+    "updated_at": "2026-09-01T21:53:54Z",
+    "url": "https://github.com/BlockRunAI/Franklin"
+  },
+  {
+    "description": "Agente aut\u00f3nomo para LALIGA Fantasy: lee el juego, decide y act\u00faa (pujas, ventas, clausulazos, alineaci\u00f3n). Python stdli",
+    "id": "jonortega20/fantasybot",
+    "language": "Python",
+    "name": "jonortega20/fantasybot",
+    "stars": 21,
+    "updated_at": "2026-09-01T21:51:25Z",
+    "url": "https://github.com/jonortega20/fantasybot"
+  },
+  {
+    "description": "AstrBot \u63d2\u4ef6\uff1a\u8ba9 bot \u81ea\u4e3b\u901b\u300c\u7231\u8ba8\u8bba\u300d\uff08aitaolun.net\uff09AI \u8d34\u5427 \u2014\u2014 \u5f00\u5e16 / \u56de\u5e16 / \u9876\u8e29 / \u79c1\u4fe1 / \u5427\u52a1\uff0c\u5e26\u672c\u5730\u9884\u68c0\u4e0e\u53d1\u5e03\u95f8\u95e8",
+    "id": "Whereis-Alice/astrbot_plugin_aitaolun",
+    "language": "Python",
+    "name": "Whereis-Alice/astrbot_plugin_aitaolun",
+    "stars": 0,
+    "updated_at": "2026-09-01T21:50:45Z",
+    "url": "https://github.com/Whereis-Alice/astrbot_plugin_aitaolun"
+  },
+  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -18,15 +54,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-    "id": "BlockRunAI/Franklin",
-    "language": "TypeScript",
-    "name": "BlockRunAI/Franklin",
-    "stars": 552,
-    "updated_at": "2026-09-01T21:39:28Z",
-    "url": "https://github.com/BlockRunAI/Franklin"
-  },
-  {
     "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
     "id": "ljedrz/nachalnik",
     "language": "Rust",
@@ -43,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T21:35:59Z",
     "url": "https://github.com/ivan-sincek/secure-code-review-agent-skills"
-  },
-  {
-    "description": "AstrBot \u63d2\u4ef6\uff1a\u8ba9 bot \u81ea\u4e3b\u901b\u300c\u7231\u8ba8\u8bba\u300d\uff08aitaolun.net\uff09AI \u8d34\u5427 \u2014\u2014 \u5f00\u5e16 / \u56de\u5e16 / \u9876\u8e29 / \u79c1\u4fe1 / \u5427\u52a1\uff0c\u5e26\u672c\u5730\u9884\u68c0\u4e0e\u53d1\u5e03\u95f8\u95e8",
-    "id": "Whereis-Alice/astrbot_plugin_aitaolun",
-    "language": "Python",
-    "name": "Whereis-Alice/astrbot_plugin_aitaolun",
-    "stars": 0,
-    "updated_at": "2026-09-01T21:24:48Z",
-    "url": "https://github.com/Whereis-Alice/astrbot_plugin_aitaolun"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
@@ -149,7 +167,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-01T21:28:58Z",
+    "updated_at": "2026-09-01T21:56:15Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -221,7 +239,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-01T21:26:30Z",
+    "updated_at": "2026-09-01T21:58:02Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -410,7 +428,7 @@
     "language": "Rust",
     "name": "metric-space-ai/greppy",
     "stars": 8,
-    "updated_at": "2026-09-01T20:55:30Z",
+    "updated_at": "2026-09-01T21:57:35Z",
     "url": "https://github.com/metric-space-ai/greppy"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-01T16:34:37Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
-    "description": "The bioinformatics agent desktop for clinicians and wet-lab scientists \u2014 built on DeepSeek Harness. One-click installers",
-    "id": "sagirimo/BioDSH",
-    "language": "Python",
-    "name": "sagirimo/BioDSH",
-    "stars": 7,
-    "updated_at": "2026-09-01T16:21:57Z",
-    "url": "https://github.com/sagirimo/BioDSH"
-  },
-  {
-    "description": "Autonomous AI engineer on the Databricks AI runtime \u2014 reads papers, ingests Unity Catalog datasets, runs Mosaic AI jobs,",
-    "id": "Praneeth16/databricks-ai-intern",
-    "language": "Python",
-    "name": "Praneeth16/databricks-ai-intern",
-    "stars": 0,
-    "updated_at": "2026-09-01T16:10:41Z",
-    "url": "https://github.com/Praneeth16/databricks-ai-intern"
   }
 ]
