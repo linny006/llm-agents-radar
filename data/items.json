@@ -1,5 +1,50 @@
 [
   {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 16,
+    "updated_at": "2026-09-01T05:44:36Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Rebuild AI building blocks from scratch for learning: transformer, tokenizer, agent, RAG, vector DB. \u4ece\u96f6\u5b9e\u73b0 AI \u76f8\u5173\u7684\u5de5\u5177\u4e0e\u6846\u67b6",
+    "id": "xbsheng/ai-from-scratch",
+    "language": "Python",
+    "name": "xbsheng/ai-from-scratch",
+    "stars": 0,
+    "updated_at": "2026-09-01T05:43:54Z",
+    "url": "https://github.com/xbsheng/ai-from-scratch"
+  },
+  {
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 8,
+    "updated_at": "2026-09-01T05:43:10Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
+    "id": "ChanTso/citybuddy",
+    "language": "Java",
+    "name": "ChanTso/citybuddy",
+    "stars": 0,
+    "updated_at": "2026-09-01T05:39:59Z",
+    "url": "https://github.com/ChanTso/citybuddy"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 0,
+    "updated_at": "2026-09-01T05:34:00Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
     "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
     "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
     "language": "Python",
@@ -27,15 +72,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 0,
-    "updated_at": "2026-09-01T05:24:44Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
     "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
     "id": "citizenhicks/mobius",
     "language": "Rust",
@@ -43,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-09-01T05:15:54Z",
     "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
-    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
-    "id": "metric-space-ai/greppy",
-    "language": "Rust",
-    "name": "metric-space-ai/greppy",
-    "stars": 8,
-    "updated_at": "2026-09-01T05:15:23Z",
-    "url": "https://github.com/metric-space-ai/greppy"
   },
   {
     "description": "AgentBypass \u2014 Omni Operator LLM Agent Skill (Cknb): Turn any LLM into RE / Pwn / CTF / Pentest / Protocol / Crypto / Mob",
@@ -113,7 +140,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-01T05:30:12Z",
+    "updated_at": "2026-09-01T05:30:56Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "milljm/dynamic-rag-chat",
     "stars": 3,
-    "updated_at": "2026-09-01T04:33:24Z",
+    "updated_at": "2026-09-01T05:43:13Z",
     "url": "https://github.com/milljm/dynamic-rag-chat"
   },
   {
@@ -178,15 +205,6 @@
     "stars": 28,
     "updated_at": "2026-09-01T04:19:35Z",
     "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
-    "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
-    "id": "ChanTso/citybuddy",
-    "language": "Java",
-    "name": "ChanTso/citybuddy",
-    "stars": 0,
-    "updated_at": "2026-09-01T05:21:26Z",
-    "url": "https://github.com/ChanTso/citybuddy"
   },
   {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
@@ -261,20 +279,11 @@
     "url": "https://github.com/b-macker/NAAb"
   },
   {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 16,
-    "updated_at": "2026-09-01T04:48:16Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
     "id": "wq19901103wq/wechat-mac-rpa",
     "language": "Python",
     "name": "wq19901103wq/wechat-mac-rpa",
-    "stars": 90,
+    "stars": 91,
     "updated_at": "2026-09-01T02:54:15Z",
     "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
   },
@@ -293,7 +302,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-01T05:24:19Z",
+    "updated_at": "2026-09-01T05:40:01Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -301,7 +310,7 @@
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
-    "stars": 39,
+    "stars": 40,
     "updated_at": "2026-09-01T02:37:37Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-01T00:25:33Z",
     "url": "https://github.com/Ottoman-reticule726/zara-ai-laptop-agent"
-  },
-  {
-    "description": "Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons.",
-    "id": "alejandrogg15/Minimax-H3-Turbo",
-    "language": "Python",
-    "name": "alejandrogg15/Minimax-H3-Turbo",
-    "stars": 0,
-    "updated_at": "2026-09-01T00:25:20Z",
-    "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
   }
 ]
