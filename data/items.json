@@ -1,11 +1,65 @@
 [
   {
+    "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
+    "id": "DylPorter/claude-telegram",
+    "language": "Python",
+    "name": "DylPorter/claude-telegram",
+    "stars": 1,
+    "updated_at": "2026-09-01T10:26:32Z",
+    "url": "https://github.com/DylPorter/claude-telegram"
+  },
+  {
+    "description": "Community registry of AI agent manifests, capabilities, skills, and workflows for Octomind \u2014 run a fully-configured spec",
+    "id": "Muvon/octomind-tap",
+    "language": "Python",
+    "name": "Muvon/octomind-tap",
+    "stars": 3,
+    "updated_at": "2026-09-01T10:26:33Z",
+    "url": "https://github.com/Muvon/octomind-tap"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 961,
+    "updated_at": "2026-09-01T10:19:39Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-09-01T10:14:58Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-01T10:13:51Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Assessment-driven, local-first learning agent built on an observable Agent Runtime and eval harness\u2014grounded ingestion, ",
+    "id": "Hyr1sky/TheGrandQuiz",
+    "language": "Python",
+    "name": "Hyr1sky/TheGrandQuiz",
+    "stars": 33,
+    "updated_at": "2026-09-01T10:13:36Z",
+    "url": "https://github.com/Hyr1sky/TheGrandQuiz"
+  },
+  {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
     "id": "b-macker/NAAb",
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-09-01T10:08:04Z",
+    "updated_at": "2026-09-01T10:20:27Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -54,20 +108,11 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "Assessment-driven, local-first learning agent built on an observable Agent Runtime and eval harness\u2014grounded ingestion, ",
-    "id": "Hyr1sky/TheGrandQuiz",
-    "language": "Python",
-    "name": "Hyr1sky/TheGrandQuiz",
-    "stars": 33,
-    "updated_at": "2026-09-01T10:13:36Z",
-    "url": "https://github.com/Hyr1sky/TheGrandQuiz"
-  },
-  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 30306,
+    "stars": 30307,
     "updated_at": "2026-09-01T09:50:46Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -79,15 +124,6 @@
     "stars": 237,
     "updated_at": "2026-09-01T09:41:05Z",
     "url": "https://github.com/shenmintao/marginalia"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 961,
-    "updated_at": "2026-09-01T10:12:03Z",
-    "url": "https://github.com/ongridio/ongrid"
   },
   {
     "description": "Drive FL Studio the way an agent drives a browser: inject Python into FL's live interpreter, no restarts, no stolen mous",
@@ -131,7 +167,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-09-01T10:02:41Z",
+    "updated_at": "2026-09-01T10:28:59Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -223,15 +259,6 @@
     "stars": 14,
     "updated_at": "2026-09-01T08:47:07Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "Community registry of AI agent manifests, capabilities, skills, and workflows for Octomind \u2014 run a fully-configured spec",
-    "id": "Muvon/octomind-tap",
-    "language": "Python",
-    "name": "Muvon/octomind-tap",
-    "stars": 3,
-    "updated_at": "2026-09-01T08:44:28Z",
-    "url": "https://github.com/Muvon/octomind-tap"
   },
   {
     "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-01T07:20:52Z",
     "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
-  },
-  {
-    "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
-    "id": "Aureliedumbfounding630/agent-governance-toolkit",
-    "language": "\u2014",
-    "name": "Aureliedumbfounding630/agent-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-09-01T07:19:41Z",
-    "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
-  },
-  {
-    "description": "Automate Elytra flight, navigation, and landing for Meteor Client with intelligent pathfinding and rocket management.",
-    "id": "222394/SkyPilot",
-    "language": "Java",
-    "name": "222394/SkyPilot",
-    "stars": 0,
-    "updated_at": "2026-09-01T07:19:24Z",
-    "url": "https://github.com/222394/SkyPilot"
-  },
-  {
-    "description": "Build open source deep research agents using multiple models, search tools, and MCP servers.",
-    "id": "randomvariablewhitepelican129/open_deep_research",
-    "language": "Python",
-    "name": "randomvariablewhitepelican129/open_deep_research",
-    "stars": 0,
-    "updated_at": "2026-09-01T07:18:42Z",
-    "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
   }
 ]
