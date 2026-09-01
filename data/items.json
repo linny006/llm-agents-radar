@@ -1,11 +1,56 @@
 [
   {
+    "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
+    "id": "ChanTso/citybuddy",
+    "language": "Java",
+    "name": "ChanTso/citybuddy",
+    "stars": 0,
+    "updated_at": "2026-09-01T04:10:39Z",
+    "url": "https://github.com/ChanTso/citybuddy"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5863,
+    "updated_at": "2026-09-01T04:08:12Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-09-01T04:04:00Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
+    "description": "\u81ea\u6f14\u8fdb\u7684\u756a\u5267\u5a92\u4f53\u5e93\u6cbb\u7406 agent\uff1a\u67e5\u91cd/\u6539\u540d/TMDB\u5bf9\u9f50/\u6b7b\u79cd\u6e05\u7406\uff0c\u80fd\u53d1\u73b0\u89c4\u5219\u76f2\u533a\u5e76\u81ea\u52a8\u6f14\u8fdb\u51fa\u65b0\u89c4\u5219",
+    "id": "wzh4464/self-evolving-media-agent",
+    "language": "Python",
+    "name": "wzh4464/self-evolving-media-agent",
+    "stars": 0,
+    "updated_at": "2026-09-01T04:00:54Z",
+    "url": "https://github.com/wzh4464/self-evolving-media-agent"
+  },
+  {
+    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
+    "id": "Rekin226/Agronaut",
+    "language": "Python",
+    "name": "Rekin226/Agronaut",
+    "stars": 3,
+    "updated_at": "2026-09-01T04:00:28Z",
+    "url": "https://github.com/Rekin226/Agronaut"
+  },
+  {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
     "stars": 952,
-    "updated_at": "2026-09-01T03:59:55Z",
+    "updated_at": "2026-09-01T04:01:04Z",
     "url": "https://github.com/ongridio/ongrid"
   },
   {
@@ -59,7 +104,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-09-01T03:20:02Z",
+    "updated_at": "2026-09-01T04:15:01Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -104,7 +149,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-01T02:43:29Z",
+    "updated_at": "2026-09-01T04:13:45Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -112,7 +157,7 @@
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
-    "stars": 36,
+    "stars": 37,
     "updated_at": "2026-09-01T02:37:37Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
   },
@@ -133,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T02:32:02Z",
     "url": "https://github.com/nanoinfraorg/skills-server"
-  },
-  {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-09-01T02:27:55Z",
-    "url": "https://github.com/citizenhicks/mobius"
   },
   {
     "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
@@ -230,7 +266,7 @@
     "language": "Rust",
     "name": "aviskaar/zorp",
     "stars": 3,
-    "updated_at": "2026-09-01T01:35:12Z",
+    "updated_at": "2026-09-01T04:15:00Z",
     "url": "https://github.com/aviskaar/zorp"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-01T00:08:31Z",
     "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-09-01T00:08:19Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "AutoSRE \u2014 an autonomous on-call SRE agent. Reads real user reports, investigates real logs, opens a fix PR, and verifies",
-    "id": "BERORINPO/AutoSRE",
-    "language": "TypeScript",
-    "name": "BERORINPO/AutoSRE",
-    "stars": 1,
-    "updated_at": "2026-09-01T00:07:03Z",
-    "url": "https://github.com/BERORINPO/AutoSRE"
-  },
-  {
-    "description": "Competing-risks survival analysis for customer churn \u2014 five models from a naive baseline to Aalen-Johansen, Cox, and Ran",
-    "id": "reggGrammer7/competing-risks-churn-agent",
-    "language": "Python",
-    "name": "reggGrammer7/competing-risks-churn-agent",
-    "stars": 1,
-    "updated_at": "2026-09-01T00:05:51Z",
-    "url": "https://github.com/reggGrammer7/competing-risks-churn-agent"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 2,
-    "updated_at": "2026-09-01T00:05:03Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
   }
 ]
