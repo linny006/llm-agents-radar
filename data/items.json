@@ -1,5 +1,23 @@
 [
   {
+    "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
+    "id": "aviskaar/zorp",
+    "language": "Rust",
+    "name": "aviskaar/zorp",
+    "stars": 3,
+    "updated_at": "2026-09-01T18:58:34Z",
+    "url": "https://github.com/aviskaar/zorp"
+  },
+  {
+    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
+    "id": "expectedparrot/edsl",
+    "language": "Python",
+    "name": "expectedparrot/edsl",
+    "stars": 492,
+    "updated_at": "2026-09-01T18:39:10Z",
+    "url": "https://github.com/expectedparrot/edsl"
+  },
+  {
     "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
     "id": "SashaEee/auditLens",
     "language": "Python",
@@ -167,7 +185,7 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 343,
-    "updated_at": "2026-09-01T18:31:40Z",
+    "updated_at": "2026-09-01T18:55:12Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -194,7 +212,7 @@
     "language": "Rust",
     "name": "metric-space-ai/greppy",
     "stars": 8,
-    "updated_at": "2026-09-01T18:25:14Z",
+    "updated_at": "2026-09-01T18:53:43Z",
     "url": "https://github.com/metric-space-ai/greppy"
   },
   {
@@ -284,7 +302,7 @@
     "language": "Python",
     "name": "Maximilian-Winter/ToolAgents",
     "stars": 38,
-    "updated_at": "2026-09-01T16:00:28Z",
+    "updated_at": "2026-09-01T18:53:54Z",
     "url": "https://github.com/Maximilian-Winter/ToolAgents"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-01T15:33:51Z",
     "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-09-01T15:30:34Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 1041,
-    "updated_at": "2026-09-01T15:30:24Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
   }
 ]
