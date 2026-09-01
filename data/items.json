@@ -1,12 +1,57 @@
 [
   {
+    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
+    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "language": "Python",
+    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "stars": 1,
+    "updated_at": "2026-09-01T05:26:30Z",
+    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
+  },
+  {
+    "description": "Unified LLM Platform that allows you to host your own models locally and access them from across the world",
+    "id": "noahhps/Courier",
+    "language": "Python",
+    "name": "noahhps/Courier",
+    "stars": 0,
+    "updated_at": "2026-09-01T05:21:52Z",
+    "url": "https://github.com/noahhps/Courier"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-01T05:19:57Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "GPT autonomous research and investigation using starintel",
     "id": "lost-rob0t/starintel-gpt-auto-dig",
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-09-01T05:10:24Z",
+    "updated_at": "2026-09-01T05:24:44Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-09-01T05:15:54Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 8,
+    "updated_at": "2026-09-01T05:15:23Z",
+    "url": "https://github.com/metric-space-ai/greppy"
   },
   {
     "description": "AgentBypass \u2014 Omni Operator LLM Agent Skill (Cknb): Turn any LLM into RE / Pwn / CTF / Pentest / Protocol / Crypto / Mob",
@@ -68,7 +113,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-01T04:46:30Z",
+    "updated_at": "2026-09-01T05:30:12Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -88,15 +133,6 @@
     "stars": 125,
     "updated_at": "2026-09-01T04:41:33Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-09-01T05:03:28Z",
-    "url": "https://github.com/citizenhicks/mobius"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -149,7 +185,7 @@
     "language": "Java",
     "name": "ChanTso/citybuddy",
     "stars": 0,
-    "updated_at": "2026-09-01T04:10:39Z",
+    "updated_at": "2026-09-01T05:21:26Z",
     "url": "https://github.com/ChanTso/citybuddy"
   },
   {
@@ -221,7 +257,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-09-01T04:59:05Z",
+    "updated_at": "2026-09-01T05:26:34Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -257,7 +293,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-01T05:13:49Z",
+    "updated_at": "2026-09-01T05:24:19Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -265,7 +301,7 @@
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
-    "stars": 37,
+    "stars": 39,
     "updated_at": "2026-09-01T02:37:37Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
   },
@@ -286,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T02:32:02Z",
     "url": "https://github.com/nanoinfraorg/skills-server"
-  },
-  {
-    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
-    "id": "metric-space-ai/greppy",
-    "language": "Rust",
-    "name": "metric-space-ai/greppy",
-    "stars": 8,
-    "updated_at": "2026-09-01T02:21:25Z",
-    "url": "https://github.com/metric-space-ai/greppy"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-01T00:25:20Z",
     "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
-  },
-  {
-    "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
-    "id": "Aureliedumbfounding630/agent-governance-toolkit",
-    "language": "\u2014",
-    "name": "Aureliedumbfounding630/agent-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-09-01T00:24:06Z",
-    "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
-  },
-  {
-    "description": "Automate Elytra flight, navigation, and landing for Meteor Client with intelligent pathfinding and rocket management.",
-    "id": "222394/SkyPilot",
-    "language": "Java",
-    "name": "222394/SkyPilot",
-    "stars": 0,
-    "updated_at": "2026-09-01T00:24:04Z",
-    "url": "https://github.com/222394/SkyPilot"
-  },
-  {
-    "description": "Build open source deep research agents using multiple models, search tools, and MCP servers.",
-    "id": "randomvariablewhitepelican129/open_deep_research",
-    "language": "Python",
-    "name": "randomvariablewhitepelican129/open_deep_research",
-    "stars": 0,
-    "updated_at": "2026-09-01T00:23:20Z",
-    "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
   }
 ]
