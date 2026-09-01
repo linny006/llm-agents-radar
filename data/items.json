@@ -1,12 +1,30 @@
 [
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7094,
+    "updated_at": "2026-09-01T19:11:09Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
     "id": "aviskaar/zorp",
     "language": "Rust",
     "name": "aviskaar/zorp",
     "stars": 3,
-    "updated_at": "2026-09-01T18:58:34Z",
+    "updated_at": "2026-09-01T19:00:35Z",
     "url": "https://github.com/aviskaar/zorp"
+  },
+  {
+    "description": "ToolAgents is a lightweight and flexible framework for creating function-calling agents with various language models and",
+    "id": "Maximilian-Winter/ToolAgents",
+    "language": "Python",
+    "name": "Maximilian-Winter/ToolAgents",
+    "stars": 38,
+    "updated_at": "2026-09-01T18:53:54Z",
+    "url": "https://github.com/Maximilian-Winter/ToolAgents"
   },
   {
     "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
@@ -135,15 +153,6 @@
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7092,
-    "updated_at": "2026-09-01T17:49:40Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
@@ -185,7 +194,7 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 343,
-    "updated_at": "2026-09-01T18:55:12Z",
+    "updated_at": "2026-09-01T19:09:40Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -212,7 +221,7 @@
     "language": "Rust",
     "name": "metric-space-ai/greppy",
     "stars": 8,
-    "updated_at": "2026-09-01T18:53:43Z",
+    "updated_at": "2026-09-01T19:04:31Z",
     "url": "https://github.com/metric-space-ai/greppy"
   },
   {
@@ -295,15 +304,6 @@
     "stars": 25,
     "updated_at": "2026-09-01T16:02:51Z",
     "url": "https://github.com/sehoon787/my-codex"
-  },
-  {
-    "description": "ToolAgents is a lightweight and flexible framework for creating function-calling agents with various language models and",
-    "id": "Maximilian-Winter/ToolAgents",
-    "language": "Python",
-    "name": "Maximilian-Winter/ToolAgents",
-    "stars": 38,
-    "updated_at": "2026-09-01T18:53:54Z",
-    "url": "https://github.com/Maximilian-Winter/ToolAgents"
   },
   {
     "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
