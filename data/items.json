@@ -1,5 +1,14 @@
 [
   {
+    "description": "AstrBot \u63d2\u4ef6\uff1a\u8ba9 bot \u81ea\u4e3b\u901b\u300c\u7231\u8ba8\u8bba\u300d\uff08aitaolun.net\uff09AI \u8d34\u5427 \u2014\u2014 \u5f00\u5e16 / \u56de\u5e16 / \u9876\u8e29 / \u79c1\u4fe1 / \u5427\u52a1\uff0c\u5e26\u672c\u5730\u9884\u68c0\u4e0e\u53d1\u5e03\u95f8\u95e8",
+    "id": "Whereis-Alice/astrbot_plugin_aitaolun",
+    "language": "Python",
+    "name": "Whereis-Alice/astrbot_plugin_aitaolun",
+    "stars": 0,
+    "updated_at": "2026-09-01T21:24:48Z",
+    "url": "https://github.com/Whereis-Alice/astrbot_plugin_aitaolun"
+  },
+  {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
     "id": "g761007/daily-dispatch",
     "language": "Python",
@@ -99,21 +108,12 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "AstrBot \u63d2\u4ef6\uff1a\u8ba9 bot \u81ea\u4e3b\u901b\u300c\u7231\u8ba8\u8bba\u300d\uff08aitaolun.net\uff09AI \u8d34\u5427 \u2014\u2014 \u5f00\u5e16 / \u56de\u5e16 / \u9876\u8e29 / \u79c1\u4fe1 / \u5427\u52a1\uff0c\u5e26\u672c\u5730\u9884\u68c0\u4e0e\u53d1\u5e03\u95f8\u95e8",
-    "id": "Whereis-Alice/astrbot_plugin_aitaolun",
-    "language": "Python",
-    "name": "Whereis-Alice/astrbot_plugin_aitaolun",
-    "stars": 0,
-    "updated_at": "2026-09-01T20:31:32Z",
-    "url": "https://github.com/Whereis-Alice/astrbot_plugin_aitaolun"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-01T21:15:15Z",
+    "updated_at": "2026-09-01T21:28:58Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -166,7 +166,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 538,
+    "stars": 540,
     "updated_at": "2026-09-01T20:05:26Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -185,7 +185,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-01T19:50:33Z",
+    "updated_at": "2026-09-01T21:26:30Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -194,7 +194,7 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 345,
-    "updated_at": "2026-09-01T19:49:43Z",
+    "updated_at": "2026-09-01T21:27:18Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {

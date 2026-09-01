@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-01 21:15 UTC
+> ⏰ Last updated: 2026-09-01 21:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,25 +42,25 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-09-01 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 2 | [ivan-sincek/threat-modeling-agent-skills](https://github.com/ivan-sincek/threat-modeling-agent-skills) | 2 | — | 2026-09-01 | Easy-to-use, easy-to-customize, and high-quality threat modeling skills for AI agents. |
-| 3 | [verniceunleaded6135/tidy-undo](https://github.com/verniceunleaded6135/tidy-undo) | 0 | Python | 2026-09-01 | Sort your Downloads by project, not file type — with one-command undo. No delete, ever. |
-| 4 | [agent-axiom/agent-arch](https://github.com/agent-axiom/agent-arch) | 11 | Python | 2026-09-01 |  |
-| 5 | [betmoar/cc-repete-plugin](https://github.com/betmoar/cc-repete-plugin) | 0 | Shell | 2026-09-01 | Self-evolving autonomous loops for Claude Code. A Stop-hook engine that iterates an agent toward a verifiable goal — evo |
-| 6 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-09-01 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 7 | [ljedrz/nachalnik](https://github.com/ljedrz/nachalnik) | 1 | Rust | 2026-09-01 | A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and  |
-| 8 | [NosytLabs/skillstate-proxy](https://github.com/NosytLabs/skillstate-proxy) | 2 | TypeScript | 2026-09-01 | OpenAI-compatible proxy enforcing SKILL.state (arXiv:2608.26263) — bounded O(1) prompts, O(T) total tokens for long-hori |
-| 9 | [milljm/dynamic-rag-chat](https://github.com/milljm/dynamic-rag-chat) | 3 | Python | 2026-09-01 | A chat bot which makes use of multiple RAG collections/metadata field filtering, and multiple LLMs for model orchestrati |
-| 10 | [aviskaar/zorp](https://github.com/aviskaar/zorp) | 3 | Rust | 2026-09-01 | A research agent for scientific discovery — part of Aviskaar's applied AI research suite. |
-| 11 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 128 | HTML | 2026-09-01 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 12 | [Whereis-Alice/astrbot_plugin_aitaolun](https://github.com/Whereis-Alice/astrbot_plugin_aitaolun) | 0 | Python | 2026-09-01 | AstrBot 插件：让 bot 自主逛「爱讨论」（aitaolun.net）AI 贴吧 —— 开帖 / 回帖 / 顶踩 / 私信 / 吧务，带本地预检与发布闸门 |
+| 1 | [Whereis-Alice/astrbot_plugin_aitaolun](https://github.com/Whereis-Alice/astrbot_plugin_aitaolun) | 0 | Python | 2026-09-01 | AstrBot 插件：让 bot 自主逛「爱讨论」（aitaolun.net）AI 贴吧 —— 开帖 / 回帖 / 顶踩 / 私信 / 吧务，带本地预检与发布闸门 |
+| 2 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-09-01 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
+| 3 | [ivan-sincek/threat-modeling-agent-skills](https://github.com/ivan-sincek/threat-modeling-agent-skills) | 2 | — | 2026-09-01 | Easy-to-use, easy-to-customize, and high-quality threat modeling skills for AI agents. |
+| 4 | [verniceunleaded6135/tidy-undo](https://github.com/verniceunleaded6135/tidy-undo) | 0 | Python | 2026-09-01 | Sort your Downloads by project, not file type — with one-command undo. No delete, ever. |
+| 5 | [agent-axiom/agent-arch](https://github.com/agent-axiom/agent-arch) | 11 | Python | 2026-09-01 |  |
+| 6 | [betmoar/cc-repete-plugin](https://github.com/betmoar/cc-repete-plugin) | 0 | Shell | 2026-09-01 | Self-evolving autonomous loops for Claude Code. A Stop-hook engine that iterates an agent toward a verifiable goal — evo |
+| 7 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-09-01 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 8 | [ljedrz/nachalnik](https://github.com/ljedrz/nachalnik) | 1 | Rust | 2026-09-01 | A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and  |
+| 9 | [NosytLabs/skillstate-proxy](https://github.com/NosytLabs/skillstate-proxy) | 2 | TypeScript | 2026-09-01 | OpenAI-compatible proxy enforcing SKILL.state (arXiv:2608.26263) — bounded O(1) prompts, O(T) total tokens for long-hori |
+| 10 | [milljm/dynamic-rag-chat](https://github.com/milljm/dynamic-rag-chat) | 3 | Python | 2026-09-01 | A chat bot which makes use of multiple RAG collections/metadata field filtering, and multiple LLMs for model orchestrati |
+| 11 | [aviskaar/zorp](https://github.com/aviskaar/zorp) | 3 | Rust | 2026-09-01 | A research agent for scientific discovery — part of Aviskaar's applied AI research suite. |
+| 12 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 128 | HTML | 2026-09-01 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
 | 13 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 9 | Python | 2026-09-01 | Template for building protoLabs A2A agents on LangGraph — fork me |
 | 14 | [node9-ai/node9-proxy](https://github.com/node9-ai/node9-proxy) | 210 | TypeScript | 2026-09-01 | The Execution Security Layer for the Agentic Era. Providing deterministic "Sudo" governance and audit logs for autonomou |
 | 15 | [helixml/helix](https://github.com/helixml/helix) | 803 | Go | 2026-09-01 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
 | 16 | [Cyrax321/CONTINUUM](https://github.com/Cyrax321/CONTINUUM) | 26 | Python | 2026-09-01 | CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id |
 | 17 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-09-01 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
 | 18 | [SashaEee/auditLens](https://github.com/SashaEee/auditLens) | 2 | Python | 2026-09-01 | Deep-research LLM agent + RAG platform for internal bank-product audit — cited reports, PDF export, pgvector |
-| 19 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 538 | JavaScript | 2026-09-01 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
+| 19 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 540 | JavaScript | 2026-09-01 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
 | 20 | [karvidsson/kbots](https://github.com/karvidsson/kbots) | 0 | Python | 2026-09-01 | Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme |
 | 21 | [ljchang/mecha](https://github.com/ljchang/mecha) | 6 | Rust | 2026-09-01 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
 | 22 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 345 | Python | 2026-09-01 | Self-Programming AI Assistant. Capture, automate, and refine all your workflows. |
