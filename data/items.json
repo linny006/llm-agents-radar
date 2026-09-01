@@ -1,5 +1,68 @@
 [
   {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 0,
+    "updated_at": "2026-09-01T15:37:30Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7090,
+    "updated_at": "2026-09-01T15:33:49Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 83,
+    "updated_at": "2026-09-01T15:33:55Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 342,
+    "updated_at": "2026-09-01T15:31:24Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-09-01T15:06:38Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-09-01T15:02:03Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-09-01T15:01:28Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
     "description": "Autonomous AI agent that plays Minecraft on its own \u2014 a server-side Fabric mod (MC 1.21.3) where a DeepSeek / OpenAI-com",
     "id": "zoyluoblue/mc_aiplayer",
     "language": "Java",
@@ -7,6 +70,15 @@
     "stars": 161,
     "updated_at": "2026-09-01T15:00:49Z",
     "url": "https://github.com/zoyluoblue/mc_aiplayer"
+  },
+  {
+    "description": "My collection of Claude Code Agents & Skills for web and iOS Development",
+    "id": "mintuz/skills",
+    "language": "Python",
+    "name": "mintuz/skills",
+    "stars": 24,
+    "updated_at": "2026-09-01T14:56:21Z",
+    "url": "https://github.com/mintuz/skills"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -20,7 +92,7 @@
   {
     "description": "Bounded AI agent for payment-failure, checkout-abandonment and receivables recovery \u2014 measured as incremental lift over ",
     "id": "arrya5/revenue-recovery-agent",
-    "language": "\u2014",
+    "language": "Python",
     "name": "arrya5/revenue-recovery-agent",
     "stars": 0,
     "updated_at": "2026-09-01T14:51:00Z",
@@ -68,7 +140,7 @@
     "language": "Rust",
     "name": "metric-space-ai/greppy",
     "stars": 8,
-    "updated_at": "2026-09-01T15:24:28Z",
+    "updated_at": "2026-09-01T15:32:31Z",
     "url": "https://github.com/metric-space-ai/greppy"
   },
   {
@@ -77,7 +149,7 @@
     "language": "Python",
     "name": "Canyon-Li/AuditronClaw",
     "stars": 2,
-    "updated_at": "2026-09-01T14:34:01Z",
+    "updated_at": "2026-09-01T15:43:50Z",
     "url": "https://github.com/Canyon-Li/AuditronClaw"
   },
   {
@@ -97,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-09-01T14:32:44Z",
     "url": "https://github.com/xbsheng/ai-from-scratch"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 342,
-    "updated_at": "2026-09-01T15:15:09Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
@@ -149,7 +212,7 @@
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
     "stars": 1038,
-    "updated_at": "2026-09-01T15:30:21Z",
+    "updated_at": "2026-09-01T15:30:24Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
@@ -185,7 +248,7 @@
     "language": "Python",
     "name": "tom-cat-mao/TaskWizard",
     "stars": 0,
-    "updated_at": "2026-09-01T14:55:23Z",
+    "updated_at": "2026-09-01T15:40:50Z",
     "url": "https://github.com/tom-cat-mao/TaskWizard"
   },
   {
@@ -216,15 +279,6 @@
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7090,
-    "updated_at": "2026-09-01T14:49:15Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
@@ -243,21 +297,12 @@
     "url": "https://github.com/Yumm-del/factor-lab"
   },
   {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 0,
-    "updated_at": "2026-09-01T15:29:52Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
     "description": "\u300a\u4f01\u4e1a\u7ea7 Agent \u4ece\u5165\u95e8\u5230\u4e13\u5bb6\uff082026\u7248\uff09\u300b\u2014\u2014\u4ece\u5355 Agent \u6838\u5fc3\u673a\u5236\u5230\u591a Agent \u4e0e\u4f01\u4e1a\u843d\u5730\u7684\u5de5\u7a0b\u5316\u5b9e\u6218\u6559\u7a0b\uff0c\u914d\u5957\u53ef\u8fd0\u884c\u8d2f\u7a7f\u9879\u76ee\u4e0e CI \u9a8c\u8bc1\u95e8\u7981\u3002",
     "id": "cdavid817/awesome-agent-tutorial",
     "language": "Python",
     "name": "cdavid817/awesome-agent-tutorial",
     "stars": 12,
-    "updated_at": "2026-09-01T15:29:35Z",
+    "updated_at": "2026-09-01T15:43:19Z",
     "url": "https://github.com/cdavid817/awesome-agent-tutorial"
   },
   {
@@ -268,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-09-01T13:17:55Z",
     "url": "https://github.com/PCODE-pl/MCPTap"
-  },
-  {
-    "description": "My collection of Claude Code Agents & Skills for web and iOS Development",
-    "id": "mintuz/skills",
-    "language": "Python",
-    "name": "mintuz/skills",
-    "stars": 24,
-    "updated_at": "2026-09-01T14:56:21Z",
-    "url": "https://github.com/mintuz/skills"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -347,7 +383,7 @@
     "language": "Shell",
     "name": "sehoon787/my-codex",
     "stars": 25,
-    "updated_at": "2026-09-01T15:14:16Z",
+    "updated_at": "2026-09-01T15:37:47Z",
     "url": "https://github.com/sehoon787/my-codex"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 532,
     "updated_at": "2026-09-01T12:17:59Z",
     "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 2,
-    "updated_at": "2026-09-01T12:17:07Z",
-    "url": "https://github.com/sydches/yuj"
-  },
-  {
-    "description": "Credit card churn prediction and retention offer engine, built for a bank's marketing team during an internship at Sumer",
-    "id": "AbdelrahmanMohamed512/churn-prevention-agent",
-    "language": "Jupyter Notebook",
-    "name": "AbdelrahmanMohamed512/churn-prevention-agent",
-    "stars": 0,
-    "updated_at": "2026-09-01T12:13:15Z",
-    "url": "https://github.com/AbdelrahmanMohamed512/churn-prevention-agent"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-09-01T12:07:50Z",
-    "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 15,
-    "updated_at": "2026-09-01T12:06:23Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
   }
 ]
