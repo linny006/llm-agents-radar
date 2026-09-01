@@ -1,21 +1,75 @@
 [
   {
-    "description": "All-in-one agent harness for OpenAI Codex CLI \u2014 Boss meta-orchestrator, 17 curated agents (+17 opt-in AI specialists), 1",
-    "id": "sehoon787/my-codex",
-    "language": "Shell",
-    "name": "sehoon787/my-codex",
-    "stars": 25,
-    "updated_at": "2026-09-01T15:49:43Z",
-    "url": "https://github.com/sehoon787/my-codex"
-  },
-  {
     "description": "\u300a\u4f01\u4e1a\u7ea7 Agent \u4ece\u5165\u95e8\u5230\u4e13\u5bb6\uff082026\u7248\uff09\u300b\u2014\u2014\u4ece\u5355 Agent \u6838\u5fc3\u673a\u5236\u5230\u591a Agent \u4e0e\u4f01\u4e1a\u843d\u5730\u7684\u5de5\u7a0b\u5316\u5b9e\u6218\u6559\u7a0b\uff0c\u914d\u5957\u53ef\u8fd0\u884c\u8d2f\u7a7f\u9879\u76ee\u4e0e CI \u9a8c\u8bc1\u95e8\u7981\u3002",
     "id": "cdavid817/awesome-agent-tutorial",
     "language": "Python",
     "name": "cdavid817/awesome-agent-tutorial",
     "stars": 12,
-    "updated_at": "2026-09-01T15:43:19Z",
+    "updated_at": "2026-09-01T16:13:18Z",
     "url": "https://github.com/cdavid817/awesome-agent-tutorial"
+  },
+  {
+    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
+    "id": "Rekin226/Agronaut",
+    "language": "Python",
+    "name": "Rekin226/Agronaut",
+    "stars": 3,
+    "updated_at": "2026-09-01T16:08:38Z",
+    "url": "https://github.com/Rekin226/Agronaut"
+  },
+  {
+    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 5,
+    "updated_at": "2026-09-01T16:02:38Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "All-in-one agent harness for OpenAI Codex CLI \u2014 Boss meta-orchestrator, 17 curated agents (+17 opt-in AI specialists), 1",
+    "id": "sehoon787/my-codex",
+    "language": "Shell",
+    "name": "sehoon787/my-codex",
+    "stars": 25,
+    "updated_at": "2026-09-01T16:02:51Z",
+    "url": "https://github.com/sehoon787/my-codex"
+  },
+  {
+    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
+    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "language": "\u2014",
+    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "stars": 0,
+    "updated_at": "2026-09-01T15:43:05Z",
+    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
+  },
+  {
+    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
+    "id": "clashroy5384/ai-papers-hub",
+    "language": "\u2014",
+    "name": "clashroy5384/ai-papers-hub",
+    "stars": 0,
+    "updated_at": "2026-09-01T15:42:22Z",
+    "url": "https://github.com/clashroy5384/ai-papers-hub"
+  },
+  {
+    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
+    "id": "oxidizable-malinois605/bridge-suite-mcp",
+    "language": "TypeScript",
+    "name": "oxidizable-malinois605/bridge-suite-mcp",
+    "stars": 0,
+    "updated_at": "2026-09-01T15:38:08Z",
+    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
+  },
+  {
+    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
+    "id": "Arjunadh5305/ios-skills-collection",
+    "language": "\u2014",
+    "name": "Arjunadh5305/ios-skills-collection",
+    "stars": 1,
+    "updated_at": "2026-09-01T15:38:07Z",
+    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
   },
   {
     "description": "GPT autonomous research and investigation using starintel",
@@ -23,8 +77,26 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-09-01T15:57:53Z",
+    "updated_at": "2026-09-01T16:15:07Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Policy-driven autopilot for Dependabot PRs and patch releases, with Slack/Discord/Matrix digests",
+    "id": "no42-org/twiki",
+    "language": "TypeScript",
+    "name": "no42-org/twiki",
+    "stars": 0,
+    "updated_at": "2026-09-01T15:36:57Z",
+    "url": "https://github.com/no42-org/twiki"
+  },
+  {
+    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
+    "id": "Screwtopped-annapavlova802/SparkLabs",
+    "language": "C++",
+    "name": "Screwtopped-annapavlova802/SparkLabs",
+    "stars": 1,
+    "updated_at": "2026-09-01T15:35:19Z",
+    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
   },
   {
     "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
@@ -50,7 +122,7 @@
     "language": "Rust",
     "name": "metric-space-ai/greppy",
     "stars": 8,
-    "updated_at": "2026-09-01T15:32:31Z",
+    "updated_at": "2026-09-01T16:02:33Z",
     "url": "https://github.com/metric-space-ai/greppy"
   },
   {
@@ -63,13 +135,49 @@
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
+    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
+    "id": "mezoali100/exforum-auto-poster",
+    "language": "\u2014",
+    "name": "mezoali100/exforum-auto-poster",
+    "stars": 1,
+    "updated_at": "2026-09-01T15:30:34Z",
+    "url": "https://github.com/mezoali100/exforum-auto-poster"
+  },
+  {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 1039,
+    "stars": 1040,
     "updated_at": "2026-09-01T15:30:24Z",
     "url": "https://github.com/hhyqhh/inno-agent"
+  },
+  {
+    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
+    "id": "Bowotria/aethercore",
+    "language": "Go",
+    "name": "Bowotria/aethercore",
+    "stars": 2,
+    "updated_at": "2026-09-01T15:30:22Z",
+    "url": "https://github.com/Bowotria/aethercore"
+  },
+  {
+    "description": "The bioinformatics agent desktop for clinicians and wet-lab scientists \u2014 built on DeepSeek Harness. One-click installers",
+    "id": "sagirimo/BioDSH",
+    "language": "Python",
+    "name": "sagirimo/BioDSH",
+    "stars": 7,
+    "updated_at": "2026-09-01T15:28:45Z",
+    "url": "https://github.com/sagirimo/BioDSH"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-09-01T15:25:37Z",
+    "url": "https://github.com/b-macker/NAAb"
   },
   {
     "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
@@ -81,6 +189,15 @@
     "url": "https://github.com/mohahasan/ios-agentic-skills"
   },
   {
+    "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
+    "id": "aviskaar/zorp",
+    "language": "Rust",
+    "name": "aviskaar/zorp",
+    "stars": 3,
+    "updated_at": "2026-09-01T15:23:22Z",
+    "url": "https://github.com/aviskaar/zorp"
+  },
+  {
     "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
     "id": "Danisxxx/comfyUI-LongLook",
     "language": "Python",
@@ -90,6 +207,15 @@
     "url": "https://github.com/Danisxxx/comfyUI-LongLook"
   },
   {
+    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
+    "id": "axxafo/awesome-agent-benchmarks",
+    "language": "\u2014",
+    "name": "axxafo/awesome-agent-benchmarks",
+    "stars": 3,
+    "updated_at": "2026-09-01T15:17:52Z",
+    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
+  },
+  {
     "description": "All-in-one agent harness for Claude Code \u2014 Boss meta-orchestrator, 32 curated agents, 139 curated skills, 2 named workfl",
     "id": "sehoon787/my-claude",
     "language": "JavaScript",
@@ -97,6 +223,15 @@
     "stars": 16,
     "updated_at": "2026-09-01T15:13:00Z",
     "url": "https://github.com/sehoon787/my-claude"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-09-01T15:12:08Z",
+    "url": "https://github.com/yigido41/agentic-ai"
   },
   {
     "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
@@ -311,142 +446,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-09-01T15:30:01Z",
+    "updated_at": "2026-09-01T16:10:20Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 5,
-    "updated_at": "2026-09-01T15:55:55Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 210,
-    "updated_at": "2026-09-01T14:59:48Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-09-01T13:38:37Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "\u8ba9 AI \u5728\u5b89\u5168\u7ea6\u675f\u5185\u6316\u6398 A \u80a1\u56e0\u5b50\uff1a\u4e00\u53e5\u8bdd\u60f3\u6cd5 \u2192 \u53d7\u9650 DSL \u8868\u8fbe\u5f0f \u2192 \u91cf\u5316\u7814\u7a76\u6807\u51c6\u4f53\u68c0 \u2192 \u7b56\u7565\u56de\u6d4b\uff08AFAC \u91d1\u878d\u667a\u80fd\u521b\u65b0\u5927\u8d5b \u00b7 \u91cf\u5316\u6295\u8d44\u65b9\u5411\u53c2\u8d5b\u4f5c\u54c1\uff09",
-    "id": "Yumm-del/factor-lab",
-    "language": "Python",
-    "name": "Yumm-del/factor-lab",
-    "stars": 1,
-    "updated_at": "2026-09-01T13:23:56Z",
-    "url": "https://github.com/Yumm-del/factor-lab"
-  },
-  {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-09-01T13:17:55Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 128,
-    "updated_at": "2026-09-01T13:05:24Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "The bioinformatics agent desktop for clinicians and wet-lab scientists \u2014 built on DeepSeek Harness. One-click installers",
-    "id": "sagirimo/BioDSH",
-    "language": "Python",
-    "name": "sagirimo/BioDSH",
-    "stars": 7,
-    "updated_at": "2026-09-01T15:28:45Z",
-    "url": "https://github.com/sagirimo/BioDSH"
-  },
-  {
-    "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
-    "id": "xhqing/DayTradingAgent",
-    "language": "Python",
-    "name": "xhqing/DayTradingAgent",
-    "stars": 2,
-    "updated_at": "2026-09-01T13:03:41Z",
-    "url": "https://github.com/xhqing/DayTradingAgent"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 215,
-    "updated_at": "2026-09-01T13:01:57Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-09-01T12:57:32Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute",
-    "id": "AdrianDonohoe/5G_PCAP",
-    "language": "Python",
-    "name": "AdrianDonohoe/5G_PCAP",
-    "stars": 1,
-    "updated_at": "2026-09-01T12:38:51Z",
-    "url": "https://github.com/AdrianDonohoe/5G_PCAP"
-  },
-  {
-    "description": "Reproducible AI4SE agent with multi-tool planning, hybrid RAG, evaluation, and PostgreSQL operations.",
-    "id": "Isoldelu/software-engineering-agent",
-    "language": "Python",
-    "name": "Isoldelu/software-engineering-agent",
-    "stars": 0,
-    "updated_at": "2026-09-01T12:37:29Z",
-    "url": "https://github.com/Isoldelu/software-engineering-agent"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5708,
-    "updated_at": "2026-09-01T12:31:29Z",
-    "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-09-01T12:31:20Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
-    "id": "AlanFokCo/agentscope-go",
-    "language": "Go",
-    "name": "AlanFokCo/agentscope-go",
-    "stars": 35,
-    "updated_at": "2026-09-01T12:31:19Z",
-    "url": "https://github.com/AlanFokCo/agentscope-go"
   }
 ]
