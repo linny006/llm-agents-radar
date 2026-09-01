@@ -1,5 +1,14 @@
 [
   {
+    "description": "Reusable, selectively loaded agent skills: authorization, judgment ownership, data lineage, side-effect safety, rollout ",
+    "id": "xiongweilin/agent-skills",
+    "language": "\u2014",
+    "name": "xiongweilin/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-01T02:01:34Z",
+    "url": "https://github.com/xiongweilin/agent-skills"
+  },
+  {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-01T01:54:45Z",
+    "updated_at": "2026-09-01T02:01:57Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 337,
     "updated_at": "2026-08-31T22:59:44Z",
     "url": "https://github.com/monocle2ai/monocle"
-  },
-  {
-    "description": "Website based application for creating a bridge between Canvas (instructure.com) and your choice of LLM",
-    "id": "lachlan-kelly/Elucidate",
-    "language": "JavaScript",
-    "name": "lachlan-kelly/Elucidate",
-    "stars": 0,
-    "updated_at": "2026-08-31T22:59:26Z",
-    "url": "https://github.com/lachlan-kelly/Elucidate"
   }
 ]
