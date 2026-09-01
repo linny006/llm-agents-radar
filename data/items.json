@@ -1,5 +1,41 @@
 [
   {
+    "description": "An open-source agent that designs and verifies digital hardware, recording every attempt as an open dataset of Verilog d",
+    "id": "marianotorres-code/tecpatl",
+    "language": "Python",
+    "name": "marianotorres-code/tecpatl",
+    "stars": 0,
+    "updated_at": "2026-09-01T03:13:54Z",
+    "url": "https://github.com/marianotorres-code/tecpatl"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 16,
+    "updated_at": "2026-09-01T03:11:45Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 4,
+    "updated_at": "2026-09-01T03:06:52Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-09-01T02:59:13Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
     "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
     "id": "wq19901103wq/wechat-mac-rpa",
     "language": "Python",
@@ -54,15 +90,6 @@
     "url": "https://github.com/wxxb789/dsh-raven-research"
   },
   {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 4,
-    "updated_at": "2026-09-01T02:33:27Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
     "description": "A self-hosted Agent Skills marketplace",
     "id": "nanoinfraorg/skills-server",
     "language": "Go",
@@ -106,15 +133,6 @@
     "stars": 32,
     "updated_at": "2026-09-01T02:09:50Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-09-01T02:59:13Z",
-    "url": "https://github.com/JSL107/personal_agents"
   },
   {
     "description": "Reusable, selectively loaded agent skills: authorization, judgment ownership, data lineage, side-effect safety, rollout ",
@@ -360,15 +378,6 @@
     "url": "https://github.com/Jssu8541/ouro-loop"
   },
   {
-    "description": "An open-source agent that designs and verifies digital hardware, recording every attempt as an open dataset of Verilog d",
-    "id": "marianotorres-code/tecpatl",
-    "language": "Python",
-    "name": "marianotorres-code/tecpatl",
-    "stars": 0,
-    "updated_at": "2026-09-01T00:09:10Z",
-    "url": "https://github.com/marianotorres-code/tecpatl"
-  },
-  {
     "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
     "id": "Tonyx79/clov-ai",
     "language": "Rust",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-31T23:59:36Z",
     "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
-    "id": "hasting323/AutoGLM-For-Android",
-    "language": "Kotlin",
-    "name": "hasting323/AutoGLM-For-Android",
-    "stars": 10,
-    "updated_at": "2026-08-31T23:55:56Z",
-    "url": "https://github.com/hasting323/AutoGLM-For-Android"
   }
 ]
