@@ -1,5 +1,113 @@
 [
   {
+    "description": "Sort your Downloads by project, not file type \u2014 with one-command undo. No delete, ever.",
+    "id": "verniceunleaded6135/tidy-undo",
+    "language": "Python",
+    "name": "verniceunleaded6135/tidy-undo",
+    "stars": 0,
+    "updated_at": "2026-09-01T00:27:10Z",
+    "url": "https://github.com/verniceunleaded6135/tidy-undo"
+  },
+  {
+    "description": "Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node\u2014no complex workflows needed.",
+    "id": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
+    "language": "JavaScript",
+    "name": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
+    "stars": 3,
+    "updated_at": "2026-09-01T00:26:25Z",
+    "url": "https://github.com/Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3"
+  },
+  {
+    "description": "Control your Windows laptop remotely via Discord with AI-powered voice and text commands in English or Urdu.",
+    "id": "Ottoman-reticule726/zara-ai-laptop-agent",
+    "language": "Python",
+    "name": "Ottoman-reticule726/zara-ai-laptop-agent",
+    "stars": 0,
+    "updated_at": "2026-09-01T00:25:33Z",
+    "url": "https://github.com/Ottoman-reticule726/zara-ai-laptop-agent"
+  },
+  {
+    "description": "Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons.",
+    "id": "alejandrogg15/Minimax-H3-Turbo",
+    "language": "Python",
+    "name": "alejandrogg15/Minimax-H3-Turbo",
+    "stars": 0,
+    "updated_at": "2026-09-01T00:25:20Z",
+    "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
+  },
+  {
+    "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
+    "id": "Aureliedumbfounding630/agent-governance-toolkit",
+    "language": "\u2014",
+    "name": "Aureliedumbfounding630/agent-governance-toolkit",
+    "stars": 0,
+    "updated_at": "2026-09-01T00:24:06Z",
+    "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
+  },
+  {
+    "description": "Automate Elytra flight, navigation, and landing for Meteor Client with intelligent pathfinding and rocket management.",
+    "id": "222394/SkyPilot",
+    "language": "Java",
+    "name": "222394/SkyPilot",
+    "stars": 0,
+    "updated_at": "2026-09-01T00:24:04Z",
+    "url": "https://github.com/222394/SkyPilot"
+  },
+  {
+    "description": "Build open source deep research agents using multiple models, search tools, and MCP servers.",
+    "id": "randomvariablewhitepelican129/open_deep_research",
+    "language": "Python",
+    "name": "randomvariablewhitepelican129/open_deep_research",
+    "stars": 0,
+    "updated_at": "2026-09-01T00:23:20Z",
+    "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
+  },
+  {
+    "description": "Automate file management and coding tasks in your local directory using small language models.",
+    "id": "pruthviraj00007/VibeHarness",
+    "language": "Python",
+    "name": "pruthviraj00007/VibeHarness",
+    "stars": 0,
+    "updated_at": "2026-09-01T00:20:45Z",
+    "url": "https://github.com/pruthviraj00007/VibeHarness"
+  },
+  {
+    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
+    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "language": "Go",
+    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "stars": 0,
+    "updated_at": "2026-09-01T00:19:05Z",
+    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-01T00:19:00Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
+    "id": "Bastioned-successor320/learn-nanobot",
+    "language": "Python",
+    "name": "Bastioned-successor320/learn-nanobot",
+    "stars": 9,
+    "updated_at": "2026-09-01T00:15:22Z",
+    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
+  },
+  {
+    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
+    "id": "Samuelcluttered613/paper2code",
+    "language": "Python",
+    "name": "Samuelcluttered613/paper2code",
+    "stars": 1,
+    "updated_at": "2026-09-01T00:15:22Z",
+    "url": "https://github.com/Samuelcluttered613/paper2code"
+  },
+  {
     "description": "Agent Knowledge Cycle (AKC) \u2014 a knowledge cycle for AI agents: agent behavior compounds, human judgment sharpens. Six ph",
     "id": "shimo4228/agent-knowledge-cycle",
     "language": "\u2014",
@@ -7,6 +115,15 @@
     "stars": 3,
     "updated_at": "2026-09-01T00:15:05Z",
     "url": "https://github.com/shimo4228/agent-knowledge-cycle"
+  },
+  {
+    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
+    "id": "tessellated-statisticalcommission243/deep-research-skill",
+    "language": "\u2014",
+    "name": "tessellated-statisticalcommission243/deep-research-skill",
+    "stars": 3,
+    "updated_at": "2026-09-01T00:14:57Z",
+    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
   },
   {
     "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
@@ -113,7 +230,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-01T00:13:38Z",
+    "updated_at": "2026-09-01T00:28:27Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -331,122 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-31T22:02:49Z",
     "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
-    "description": "An agent for coding and everyday tasks, powered by the ChatGPT account you already pay for. No API key, no per-token bil",
-    "id": "khudayarovich/onflip-agent",
-    "language": "TypeScript",
-    "name": "khudayarovich/onflip-agent",
-    "stars": 1,
-    "updated_at": "2026-08-31T21:53:08Z",
-    "url": "https://github.com/khudayarovich/onflip-agent"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 26,
-    "updated_at": "2026-08-31T21:49:29Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 334,
-    "updated_at": "2026-08-31T21:41:05Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
-    "id": "sunnnn2005/data-quality-agent",
-    "language": "Python",
-    "name": "sunnnn2005/data-quality-agent",
-    "stars": 0,
-    "updated_at": "2026-08-31T21:30:12Z",
-    "url": "https://github.com/sunnnn2005/data-quality-agent"
-  },
-  {
-    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
-    "id": "watchcat/scout",
-    "language": "Rust",
-    "name": "watchcat/scout",
-    "stars": 0,
-    "updated_at": "2026-08-31T21:18:33Z",
-    "url": "https://github.com/watchcat/scout"
-  },
-  {
-    "description": "Lightweight Swift terminal UI library for streaming AI transcripts with in-place updates and tool placeholders.",
-    "id": "BiBoyang/ForgeLoopTUI",
-    "language": "Swift",
-    "name": "BiBoyang/ForgeLoopTUI",
-    "stars": 1,
-    "updated_at": "2026-08-31T21:19:40Z",
-    "url": "https://github.com/BiBoyang/ForgeLoopTUI"
-  },
-  {
-    "description": "ToolAgents is a lightweight and flexible framework for creating function-calling agents with various language models and",
-    "id": "Maximilian-Winter/ToolAgents",
-    "language": "Python",
-    "name": "Maximilian-Winter/ToolAgents",
-    "stars": 38,
-    "updated_at": "2026-08-31T21:11:46Z",
-    "url": "https://github.com/Maximilian-Winter/ToolAgents"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-31T20:54:42Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 0,
-    "updated_at": "2026-08-31T23:02:34Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 32,
-    "updated_at": "2026-08-31T20:16:36Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
-    "id": "the-priest/PriestsBasilisk",
-    "language": "Python",
-    "name": "the-priest/PriestsBasilisk",
-    "stars": 3,
-    "updated_at": "2026-08-31T19:56:15Z",
-    "url": "https://github.com/the-priest/PriestsBasilisk"
-  },
-  {
-    "description": "A lab protocol for coding agents. Freeze baselines, run hypotheses in isolated worktrees, reject failures and validate i",
-    "id": "forger-labs-hq/researchforge",
-    "language": "Python",
-    "name": "forger-labs-hq/researchforge",
-    "stars": 7,
-    "updated_at": "2026-08-31T19:49:31Z",
-    "url": "https://github.com/forger-labs-hq/researchforge"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 36,
-    "updated_at": "2026-08-31T19:33:12Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
   }
 ]
