@@ -1,5 +1,59 @@
 [
   {
+    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
+    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "language": "Python",
+    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "stars": 3,
+    "updated_at": "2026-09-01T22:28:29Z",
+    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
+  },
+  {
+    "description": "ToolAgents is a lightweight and flexible framework for creating function-calling agents with various language models and",
+    "id": "Maximilian-Winter/ToolAgents",
+    "language": "Python",
+    "name": "Maximilian-Winter/ToolAgents",
+    "stars": 38,
+    "updated_at": "2026-09-01T22:25:27Z",
+    "url": "https://github.com/Maximilian-Winter/ToolAgents"
+  },
+  {
+    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
+    "id": "mohahasan/ios-agentic-skills",
+    "language": "JavaScript",
+    "name": "mohahasan/ios-agentic-skills",
+    "stars": 4,
+    "updated_at": "2026-09-01T22:24:19Z",
+    "url": "https://github.com/mohahasan/ios-agentic-skills"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-09-01T22:28:12Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
+    "id": "Danisxxx/comfyUI-LongLook",
+    "language": "Python",
+    "name": "Danisxxx/comfyUI-LongLook",
+    "stars": 2,
+    "updated_at": "2026-09-01T22:18:45Z",
+    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
+  },
+  {
+    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
+    "id": "axxafo/awesome-agent-benchmarks",
+    "language": "\u2014",
+    "name": "axxafo/awesome-agent-benchmarks",
+    "stars": 3,
+    "updated_at": "2026-09-01T22:17:48Z",
+    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
+  },
+  {
     "description": "Easy-to-use, easy-to-customize, and high-quality threat modeling skills for AI agents.",
     "id": "ivan-sincek/threat-modeling-agent-skills",
     "language": "\u2014",
@@ -25,6 +79,15 @@
     "stars": 2,
     "updated_at": "2026-09-01T22:09:42Z",
     "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-09-01T22:06:02Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -77,7 +140,7 @@
     "language": "TypeScript",
     "name": "BlockRunAI/Franklin",
     "stars": 552,
-    "updated_at": "2026-09-01T22:02:09Z",
+    "updated_at": "2026-09-01T22:27:02Z",
     "url": "https://github.com/BlockRunAI/Franklin"
   },
   {
@@ -198,15 +261,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-09-01T22:14:51Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
     "id": "node9-ai/node9-proxy",
     "language": "TypeScript",
@@ -256,7 +310,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 540,
+    "stars": 541,
     "updated_at": "2026-09-01T20:05:26Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -284,7 +338,7 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 345,
-    "updated_at": "2026-09-01T21:27:18Z",
+    "updated_at": "2026-09-01T22:23:44Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -313,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T19:25:55Z",
     "url": "https://github.com/sunnnn2005/data-quality-agent"
-  },
-  {
-    "description": "ToolAgents is a lightweight and flexible framework for creating function-calling agents with various language models and",
-    "id": "Maximilian-Winter/ToolAgents",
-    "language": "Python",
-    "name": "Maximilian-Winter/ToolAgents",
-    "stars": 38,
-    "updated_at": "2026-09-01T19:15:40Z",
-    "url": "https://github.com/Maximilian-Winter/ToolAgents"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-01T18:04:57Z",
     "url": "https://github.com/leonardomb1/perguntai"
-  },
-  {
-    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
-    "id": "ravisinghrajput95/kubewhy",
-    "language": "Python",
-    "name": "ravisinghrajput95/kubewhy",
-    "stars": 0,
-    "updated_at": "2026-09-01T18:04:45Z",
-    "url": "https://github.com/ravisinghrajput95/kubewhy"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 16,
-    "updated_at": "2026-09-01T17:46:34Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Google Search Console analysis and SEO workflows for Grok, Grok Bots and Grok Build: rankings, content decay, cannibaliz",
-    "id": "gscwizard/grok-plugin",
-    "language": "\u2014",
-    "name": "gscwizard/grok-plugin",
-    "stars": 0,
-    "updated_at": "2026-09-01T17:42:25Z",
-    "url": "https://github.com/gscwizard/grok-plugin"
-  },
-  {
-    "description": "\u300a\u4f01\u4e1a\u7ea7 Agent \u4ece\u5165\u95e8\u5230\u4e13\u5bb6\uff082026\u7248\uff09\u300b\u2014\u2014\u4ece\u5355 Agent \u6838\u5fc3\u673a\u5236\u5230\u591a Agent \u4e0e\u4f01\u4e1a\u843d\u5730\u7684\u5de5\u7a0b\u5316\u5b9e\u6218\u6559\u7a0b\uff0c\u914d\u5957\u53ef\u8fd0\u884c\u8d2f\u7a7f\u9879\u76ee\u4e0e CI \u9a8c\u8bc1\u95e8\u7981\u3002",
-    "id": "cdavid817/awesome-agent-tutorial",
-    "language": "Python",
-    "name": "cdavid817/awesome-agent-tutorial",
-    "stars": 12,
-    "updated_at": "2026-09-01T17:37:04Z",
-    "url": "https://github.com/cdavid817/awesome-agent-tutorial"
-  },
-  {
-    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
-    "id": "AgentEra/Agently",
-    "language": "Python",
-    "name": "AgentEra/Agently",
-    "stars": 1645,
-    "updated_at": "2026-09-01T16:54:58Z",
-    "url": "https://github.com/AgentEra/Agently"
   }
 ]
