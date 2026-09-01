@@ -1,12 +1,57 @@
 [
   {
+    "description": "An AI agent harness for hard, exact tasks. Keeps one evolving artifact, spends compute only on decisions that can change",
+    "id": "mystxcal/flourite",
+    "language": "Python",
+    "name": "mystxcal/flourite",
+    "stars": 0,
+    "updated_at": "2026-09-01T09:11:19Z",
+    "url": "https://github.com/mystxcal/flourite"
+  },
+  {
+    "description": "\u5267\u672c\u5206\u955c\u5de5\u5177\u667a\u80fd\u4f53\uff08PenShot\uff09\uff1a\u7535\u5f71/\u52a8\u6f2b/\u77ed\u5267/\u5c0f\u8bf4/\u5267\u672c\u2192\u5206\u955c\u2192\u7247\u6bb5\u2192prompt | \u57fa\u4e8e LangGraph+LLM\uff0c\u81ea\u52a8\u89e3\u6790\u4efb\u610f\u683c\u5f0f\u5267\u672c\uff0c\u751f\u6210 Sora/Veo/Runway \u7b49\u6a21\u578b\u53ef\u7528\u7684\u8fde\u8d2ftext-to-video\u63d0\u793a\u8bcd",
+    "id": "neopen/story-shot-agent",
+    "language": "Python",
+    "name": "neopen/story-shot-agent",
+    "stars": 155,
+    "updated_at": "2026-09-01T09:09:11Z",
+    "url": "https://github.com/neopen/story-shot-agent"
+  },
+  {
+    "description": "Assessment-driven, local-first learning agent built on an observable Agent Runtime and eval harness\u2014grounded ingestion, ",
+    "id": "Hyr1sky/TheGrandQuiz",
+    "language": "Python",
+    "name": "Hyr1sky/TheGrandQuiz",
+    "stars": 33,
+    "updated_at": "2026-09-01T09:08:34Z",
+    "url": "https://github.com/Hyr1sky/TheGrandQuiz"
+  },
+  {
     "description": "Drive FL Studio the way an agent drives a browser: inject Python into FL's live interpreter, no restarts, no stolen mous",
     "id": "hunterjreid/AgentFL",
     "language": "Python",
     "name": "hunterjreid/AgentFL",
     "stars": 0,
-    "updated_at": "2026-09-01T08:52:31Z",
+    "updated_at": "2026-09-01T09:12:21Z",
     "url": "https://github.com/hunterjreid/AgentFL"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-09-01T09:08:02Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 213,
+    "updated_at": "2026-09-01T09:05:17Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
     "description": "A chat bot which makes use of multiple RAG collections/metadata field filtering, and multiple LLMs for model orchestrati",
@@ -32,7 +77,7 @@
     "language": "TypeScript",
     "name": "amemhq/amem",
     "stars": 3,
-    "updated_at": "2026-09-01T08:48:53Z",
+    "updated_at": "2026-09-01T09:10:40Z",
     "url": "https://github.com/amemhq/amem"
   },
   {
@@ -85,7 +130,7 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 3178,
+    "stars": 3179,
     "updated_at": "2026-09-01T08:28:19Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
@@ -97,15 +142,6 @@
     "stars": 5,
     "updated_at": "2026-09-01T08:26:18Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "Assessment-driven, local-first learning agent built on an observable Agent Runtime and eval harness\u2014grounded ingestion, ",
-    "id": "Hyr1sky/TheGrandQuiz",
-    "language": "Python",
-    "name": "Hyr1sky/TheGrandQuiz",
-    "stars": 33,
-    "updated_at": "2026-09-01T08:26:02Z",
-    "url": "https://github.com/Hyr1sky/TheGrandQuiz"
   },
   {
     "description": "\u4ece\u96f6\u5b9e\u73b0 AI \u6838\u5fc3\u7ec4\u4ef6\uff08mini-* \u7cfb\u5217\uff09\uff1aTransformer / Qwen3 / BPE / Agent / RAG / Vector DB\u3002Rebuild AI building blocks from scratch.",
@@ -135,15 +171,6 @@
     "url": "https://github.com/Rekin226/Agronaut"
   },
   {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-09-01T08:41:08Z",
-    "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
     "description": "Tool-boundary enforcement for pi: routes codebase exploration onto bounded search and read tools, keeping the prompt-cac",
     "id": "ZhenHuangLab/pi-better-explore",
     "language": "TypeScript",
@@ -167,7 +194,7 @@
     "language": "Go",
     "name": "AlanFokCo/agentscope-go",
     "stars": 35,
-    "updated_at": "2026-09-01T08:16:16Z",
+    "updated_at": "2026-09-01T09:08:33Z",
     "url": "https://github.com/AlanFokCo/agentscope-go"
   },
   {
@@ -229,7 +256,7 @@
     "id": "agentsope/SkillAlchemy",
     "language": "Python",
     "name": "agentsope/SkillAlchemy",
-    "stars": 343,
+    "stars": 344,
     "updated_at": "2026-09-01T07:41:46Z",
     "url": "https://github.com/agentsope/SkillAlchemy"
   },
@@ -239,7 +266,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 16,
-    "updated_at": "2026-09-01T08:10:52Z",
+    "updated_at": "2026-09-01T09:03:53Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-01T07:05:46Z",
     "url": "https://github.com/Laurenfeminine36/google-jules-skill"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-09-01T07:05:38Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-09-01T07:05:34Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-09-01T07:03:19Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
   }
 ]
