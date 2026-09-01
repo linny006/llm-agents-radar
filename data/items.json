@@ -1,5 +1,50 @@
 [
   {
+    "description": "Agentbypass skill - Cknb, \u5168\u80fd\u6280\u672f\u64cd\u4f5c\u5458 Agent / Omni technical operator Agent skill",
+    "id": "1837620622/Agent-Bypass",
+    "language": "\u2014",
+    "name": "1837620622/Agent-Bypass",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:40:48Z",
+    "url": "https://github.com/1837620622/Agent-Bypass"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:39:20Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 128,
+    "updated_at": "2026-09-01T01:38:09Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
+    "id": "aviskaar/zorp",
+    "language": "Rust",
+    "name": "aviskaar/zorp",
+    "stars": 3,
+    "updated_at": "2026-09-01T01:35:12Z",
+    "url": "https://github.com/aviskaar/zorp"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:32:17Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
@@ -23,26 +68,8 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-01T01:29:50Z",
+    "updated_at": "2026-09-01T01:44:28Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:28:09Z",
-    "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
-    "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
-    "id": "aviskaar/zorp",
-    "language": "Rust",
-    "name": "aviskaar/zorp",
-    "stars": 3,
-    "updated_at": "2026-09-01T01:23:10Z",
-    "url": "https://github.com/aviskaar/zorp"
   },
   {
     "description": "Sort your Downloads by project, not file type \u2014 with one-command undo. No delete, ever.",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-31T23:09:45Z",
     "url": "https://github.com/fatihkutuk/neo"
-  },
-  {
-    "description": "A self-hosted Agent Skills marketplace",
-    "id": "nanoinfraorg/skills-server",
-    "language": "Go",
-    "name": "nanoinfraorg/skills-server",
-    "stars": 0,
-    "updated_at": "2026-08-31T23:08:07Z",
-    "url": "https://github.com/nanoinfraorg/skills-server"
-  },
-  {
-    "description": "A chat bot which makes use of multiple RAG collections/metadata field filtering, and multiple LLMs for model orchestrati",
-    "id": "milljm/dynamic-rag-chat",
-    "language": "Python",
-    "name": "milljm/dynamic-rag-chat",
-    "stars": 3,
-    "updated_at": "2026-09-01T01:04:19Z",
-    "url": "https://github.com/milljm/dynamic-rag-chat"
-  },
-  {
-    "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
-    "id": "Ven0m0/gemini-web-wrapper",
-    "language": "TypeScript",
-    "name": "Ven0m0/gemini-web-wrapper",
-    "stars": 5,
-    "updated_at": "2026-08-31T22:31:31Z",
-    "url": "https://github.com/Ven0m0/gemini-web-wrapper"
   }
 ]
