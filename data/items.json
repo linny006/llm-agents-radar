@@ -1,5 +1,50 @@
 [
   {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-09-01T21:13:58Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "Easy-to-use, easy-to-customize, and high-quality threat modeling skills for AI agents.",
+    "id": "ivan-sincek/threat-modeling-agent-skills",
+    "language": "\u2014",
+    "name": "ivan-sincek/threat-modeling-agent-skills",
+    "stars": 2,
+    "updated_at": "2026-09-01T21:12:51Z",
+    "url": "https://github.com/ivan-sincek/threat-modeling-agent-skills"
+  },
+  {
+    "description": "Sort your Downloads by project, not file type \u2014 with one-command undo. No delete, ever.",
+    "id": "verniceunleaded6135/tidy-undo",
+    "language": "Python",
+    "name": "verniceunleaded6135/tidy-undo",
+    "stars": 0,
+    "updated_at": "2026-09-01T21:12:02Z",
+    "url": "https://github.com/verniceunleaded6135/tidy-undo"
+  },
+  {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 11,
+    "updated_at": "2026-09-01T21:06:35Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "Self-evolving autonomous loops for Claude Code. A Stop-hook engine that iterates an agent toward a verifiable goal \u2014 evo",
+    "id": "betmoar/cc-repete-plugin",
+    "language": "Shell",
+    "name": "betmoar/cc-repete-plugin",
+    "stars": 0,
+    "updated_at": "2026-09-01T21:05:26Z",
+    "url": "https://github.com/betmoar/cc-repete-plugin"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -14,7 +59,7 @@
     "language": "Rust",
     "name": "ljedrz/nachalnik",
     "stars": 1,
-    "updated_at": "2026-09-01T20:55:24Z",
+    "updated_at": "2026-09-01T21:01:57Z",
     "url": "https://github.com/ljedrz/nachalnik"
   },
   {
@@ -68,7 +113,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-01T20:54:53Z",
+    "updated_at": "2026-09-01T21:15:15Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -86,7 +131,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 803,
-    "updated_at": "2026-09-01T20:27:10Z",
+    "updated_at": "2026-09-01T21:12:00Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -378,15 +423,6 @@
     "url": "https://github.com/sagirimo/BioDSH"
   },
   {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-09-01T16:15:47Z",
-    "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
     "description": "Autonomous AI engineer on the Databricks AI runtime \u2014 reads papers, ingests Unity Catalog datasets, runs Mosaic AI jobs,",
     "id": "Praneeth16/databricks-ai-intern",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 25,
     "updated_at": "2026-09-01T16:02:51Z",
     "url": "https://github.com/sehoon787/my-codex"
-  },
-  {
-    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
-    "id": "sky-valley/pi",
-    "language": "Go",
-    "name": "sky-valley/pi",
-    "stars": 44,
-    "updated_at": "2026-09-01T15:58:42Z",
-    "url": "https://github.com/sky-valley/pi"
-  },
-  {
-    "description": "Agentic CLI for the Scrapfly platform: scrape, extract, crawl, and drive a cloud browser over CDP. Built-in LLM agent wi",
-    "id": "scrapfly/scrapfly-cli",
-    "language": "Go",
-    "name": "scrapfly/scrapfly-cli",
-    "stars": 5,
-    "updated_at": "2026-09-01T15:56:24Z",
-    "url": "https://github.com/scrapfly/scrapfly-cli"
-  },
-  {
-    "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
-    "id": "brittewestafrican981/ComfyUI-YinChao",
-    "language": "Python",
-    "name": "brittewestafrican981/ComfyUI-YinChao",
-    "stars": 0,
-    "updated_at": "2026-09-01T15:51:33Z",
-    "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
-  },
-  {
-    "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
-    "id": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
-    "language": "Python",
-    "name": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
-    "stars": 4,
-    "updated_at": "2026-09-01T15:50:24Z",
-    "url": "https://github.com/mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo"
   }
 ]
