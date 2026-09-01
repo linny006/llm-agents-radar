@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-01 12:45 UTC
+> ⏰ Last updated: 2026-09-01 12:54 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [AdrianDonohoe/5G_PCAP](https://github.com/AdrianDonohoe/5G_PCAP) | 1 | Python | 2026-09-01 | 5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute |
-| 2 | [Isoldelu/software-engineering-agent](https://github.com/Isoldelu/software-engineering-agent) | 0 | Python | 2026-09-01 | Reproducible AI4SE agent with multi-tool planning, hybrid RAG, evaluation, and PostgreSQL operations. |
-| 3 | [sehoon787/my-codex](https://github.com/sehoon787/my-codex) | 25 | Shell | 2026-09-01 | All-in-one agent harness for OpenAI Codex CLI — Boss meta-orchestrator, 17 curated agents (+17 opt-in AI specialists), 1 |
-| 4 | [metric-space-ai/greppy](https://github.com/metric-space-ai/greppy) | 8 | Rust | 2026-09-01 | Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact  |
-| 5 | [markdr-hue/open-fabrica](https://github.com/markdr-hue/open-fabrica) | 1 | Go | 2026-09-01 | A tribute to the best software in the world. |
-| 6 | [sehoon787/my-claude](https://github.com/sehoon787/my-claude) | 16 | JavaScript | 2026-09-01 | All-in-one agent harness for Claude Code — Boss meta-orchestrator, 32 curated agents, 139 curated skills, 2 named workfl |
-| 7 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-09-01 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 8 | [AlanFokCo/agentscope-go](https://github.com/AlanFokCo/agentscope-go) | 35 | Go | 2026-09-01 | AgentScope Golang: Agent-Oriented Programming for Building LLM Applications |
-| 9 | [mintuz/skills](https://github.com/mintuz/skills) | 24 | Go | 2026-09-01 | My collection of Claude Code Agents & Skills for web and iOS Development |
+| 1 | [mintuz/skills](https://github.com/mintuz/skills) | 24 | Python | 2026-09-01 | My collection of Claude Code Agents & Skills for web and iOS Development |
+| 2 | [markdr-hue/open-fabrica](https://github.com/markdr-hue/open-fabrica) | 1 | Go | 2026-09-01 | A tribute to the best software in the world. |
+| 3 | [AdrianDonohoe/5G_PCAP](https://github.com/AdrianDonohoe/5G_PCAP) | 1 | Python | 2026-09-01 | 5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute |
+| 4 | [Isoldelu/software-engineering-agent](https://github.com/Isoldelu/software-engineering-agent) | 0 | Python | 2026-09-01 | Reproducible AI4SE agent with multi-tool planning, hybrid RAG, evaluation, and PostgreSQL operations. |
+| 5 | [sehoon787/my-codex](https://github.com/sehoon787/my-codex) | 25 | Shell | 2026-09-01 | All-in-one agent harness for OpenAI Codex CLI — Boss meta-orchestrator, 17 curated agents (+17 opt-in AI specialists), 1 |
+| 6 | [metric-space-ai/greppy](https://github.com/metric-space-ai/greppy) | 8 | Rust | 2026-09-01 | Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact  |
+| 7 | [sehoon787/my-claude](https://github.com/sehoon787/my-claude) | 16 | JavaScript | 2026-09-01 | All-in-one agent harness for Claude Code — Boss meta-orchestrator, 32 curated agents, 139 curated skills, 2 named workfl |
+| 8 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-09-01 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 9 | [AlanFokCo/agentscope-go](https://github.com/AlanFokCo/agentscope-go) | 35 | Go | 2026-09-01 | AgentScope Golang: Agent-Oriented Programming for Building LLM Applications |
 | 10 | [ravisinghrajput95/kubewhy](https://github.com/ravisinghrajput95/kubewhy) | 0 | Python | 2026-09-01 | Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why — a local LLM read |
 | 11 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-09-01 | AI-powered image generation and chat studio |
 | 12 | [areal-project/AReaL](https://github.com/areal-project/AReaL) | 5707 | Python | 2026-09-01 | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. |
@@ -61,7 +61,7 @@ expired items removed — so you can rely on what you see being current.
 | 17 | [AbdelrahmanMohamed512/churn-prevention-agent](https://github.com/AbdelrahmanMohamed512/churn-prevention-agent) | 0 | Jupyter Notebook | 2026-09-01 | Credit card churn prediction and retention offer engine, built for a bank's marketing team during an internship at Sumer |
 | 18 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-09-01 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
 | 19 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 15 | Python | 2026-09-01 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、视觉与 HMI；LLM 只负责理解与规划，VAL 负责确定性安全执行。 |
-| 20 | [sagirimo/BioDSH](https://github.com/sagirimo/BioDSH) | 1 | Python | 2026-09-01 | The bioinformatics agent desktop for clinicians and wet-lab scientists — built on DeepSeek Harness. One-click installers |
+| 20 | [sagirimo/BioDSH](https://github.com/sagirimo/BioDSH) | 3 | Python | 2026-09-01 | The bioinformatics agent desktop for clinicians and wet-lab scientists — built on DeepSeek Harness. One-click installers |
 | 21 | [SashaEee/auditLens](https://github.com/SashaEee/auditLens) | 2 | Python | 2026-09-01 | Deep-research LLM agent + RAG platform for internal bank-product audit — cited reports, PDF export, pgvector |
 | 22 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 1 | C++ | 2026-09-01 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
 | 23 | [karvidsson/kbots](https://github.com/karvidsson/kbots) | 0 | Python | 2026-09-01 | Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme |
@@ -89,7 +89,7 @@ expired items removed — so you can rely on what you see being current.
 | 45 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 9 | Python | 2026-09-01 | Template for building protoLabs A2A agents on LangGraph — fork me |
 | 46 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 126 | HTML | 2026-09-01 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
 | 47 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-09-01 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 48 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 30315 | Python | 2026-09-01 | Build and run agents you can see, understand and trust. |
+| 48 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 30314 | Python | 2026-09-01 | Build and run agents you can see, understand and trust. |
 | 49 | [shenmintao/marginalia](https://github.com/shenmintao/marginalia) | 237 | Python | 2026-09-01 | A library-science-inspired personal knowledge management system with LLM agents |
 | 50 | [hunterjreid/AgentFL](https://github.com/hunterjreid/AgentFL) | 0 | Python | 2026-09-01 | Drive FL Studio the way an agent drives a browser: inject Python into FL's live interpreter, no restarts, no stolen mous |
 <!-- TRACKER_TABLE_END -->
