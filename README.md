@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-02 08:15 UTC
+> ⏰ Last updated: 2026-09-02 08:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -47,7 +47,7 @@ expired items removed — so you can rely on what you see being current.
 | 3 | [dmirain/OctoForge](https://github.com/dmirain/OctoForge) | 22 | Python | 2026-09-02 | Self-hosted multi-tenant agent platform for teams: skills, knowledge, API contracts and MCP servers live in the database |
 | 4 | [kangwoo/aimon-core](https://github.com/kangwoo/aimon-core) | 0 | Java | 2026-09-02 | A ReAct agent framework for Java — build autonomous LLM-powered agents, embeddable in any Java application |
 | 5 | [Nyaecho/DiskSense](https://github.com/Nyaecho/DiskSense) | 1 | TypeScript | 2026-09-02 | 便携式 AI 磁盘文件管理器 —— LLM Agent 驱动的磁盘分析/清理/回滚 CLI（Agent Skill 包，npm: disk-sense） |
-| 6 | [titanwings/distilly](https://github.com/titanwings/distilly) | 24259 | Python | 2026-09-02 | Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）. |
+| 6 | [titanwings/distilly](https://github.com/titanwings/distilly) | 24260 | Python | 2026-09-02 | Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）. |
 | 7 | [xuanbingbingo/claude-agent-dev-team](https://github.com/xuanbingbingo/claude-agent-dev-team) | 0 | Shell | 2026-09-02 | Eval 驱动的 LLM Agent 应用开发团队（Claude Code Subagents）——没有 eval 不许改 prompt |
 | 8 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 128 | HTML | 2026-09-02 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
 | 9 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-09-02 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
@@ -77,7 +77,7 @@ expired items removed — so you can rely on what you see being current.
 | 33 | [mystxcal/flourite](https://github.com/mystxcal/flourite) | 0 | Python | 2026-09-02 | An AI agent harness for hard, exact tasks. Keeps one evolving artifact, spends compute only on decisions that can change |
 | 34 | [Vuongngu8186/langgraph-langchain-agent-setup](https://github.com/Vuongngu8186/langgraph-langchain-agent-setup) | 0 | — | 2026-09-02 | Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build. |
 | 35 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-09-02 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 36 | [agentsope/SkillAlchemy](https://github.com/agentsope/SkillAlchemy) | 345 | Python | 2026-09-02 | From thought to skill. From signal to structure. |
+| 36 | [agentsope/SkillAlchemy](https://github.com/agentsope/SkillAlchemy) | 346 | Python | 2026-09-02 | From thought to skill. From signal to structure. |
 | 37 | [clashroy5384/ai-papers-hub](https://github.com/clashroy5384/ai-papers-hub) | 0 | — | 2026-09-02 | Access tools to discover, analyze, draft, and publish machine learning research papers. |
 | 38 | [Ahmed4644/ComfyUI-zveroboy-photo](https://github.com/Ahmed4644/ComfyUI-zveroboy-photo) | 5 | Python | 2026-09-02 | Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod |
 | 39 | [oxidizable-malinois605/bridge-suite-mcp](https://github.com/oxidizable-malinois605/bridge-suite-mcp) | 0 | TypeScript | 2026-09-02 | Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context |
