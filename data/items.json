@@ -1,12 +1,66 @@
 [
   {
+    "description": "Easy-to-use, easy-to-customize, and high-quality secure code review skills for AI agents.",
+    "id": "ivan-sincek/secure-code-review-agent-skills",
+    "language": "\u2014",
+    "name": "ivan-sincek/secure-code-review-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-02T16:44:44Z",
+    "url": "https://github.com/ivan-sincek/secure-code-review-agent-skills"
+  },
+  {
+    "description": "Easy-to-use, easy-to-customize, and high-quality threat modeling skills for AI agents.",
+    "id": "ivan-sincek/threat-modeling-agent-skills",
+    "language": "\u2014",
+    "name": "ivan-sincek/threat-modeling-agent-skills",
+    "stars": 2,
+    "updated_at": "2026-09-02T16:40:26Z",
+    "url": "https://github.com/ivan-sincek/threat-modeling-agent-skills"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 52,
+    "updated_at": "2026-09-02T16:38:00Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "Monitor your local AI agents. See what files they can reach, what networks they communicate with, and stop them if requi",
+    "id": "farikonsec/topgent",
+    "language": "Rust",
+    "name": "farikonsec/topgent",
+    "stars": 0,
+    "updated_at": "2026-09-02T16:37:17Z",
+    "url": "https://github.com/farikonsec/topgent"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-09-02T16:35:40Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
     "description": "Cron scheduling for the DeepSeek Harness \u2014 bounded tasks with calendar & interval rules, delivered to live agents",
     "id": "fan56/dsh-cron",
     "language": "TypeScript",
     "name": "fan56/dsh-cron",
     "stars": 0,
-    "updated_at": "2026-09-02T16:29:40Z",
+    "updated_at": "2026-09-02T16:44:58Z",
     "url": "https://github.com/fan56/dsh-cron"
+  },
+  {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 1054,
+    "updated_at": "2026-09-02T16:29:28Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
     "description": "Claude Code plugin: universal radial-tree exploration engine. One tree skill + swappable presets (brainstorm / attack / ",
@@ -54,15 +108,6 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 1054,
-    "updated_at": "2026-09-02T16:29:28Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
@@ -77,7 +122,7 @@
     "language": "Python",
     "name": "cdavid817/awesome-agent-tutorial",
     "stars": 12,
-    "updated_at": "2026-09-02T15:44:24Z",
+    "updated_at": "2026-09-02T16:41:45Z",
     "url": "https://github.com/cdavid817/awesome-agent-tutorial"
   },
   {
@@ -99,21 +144,12 @@
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 52,
-    "updated_at": "2026-09-02T16:25:22Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
-  },
-  {
     "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 360,
-    "updated_at": "2026-09-02T15:37:57Z",
+    "updated_at": "2026-09-02T16:34:56Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -158,7 +194,7 @@
     "language": "Python",
     "name": "Maximilian-Winter/ToolAgents",
     "stars": 39,
-    "updated_at": "2026-09-02T15:19:35Z",
+    "updated_at": "2026-09-02T16:38:50Z",
     "url": "https://github.com/Maximilian-Winter/ToolAgents"
   },
   {
@@ -169,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T15:16:34Z",
     "url": "https://github.com/MagnusDot/AClaw"
-  },
-  {
-    "description": "Monitor your local AI agents. See what files they can reach, what networks they communicate with, and stop them if requi",
-    "id": "farikonsec/topgent",
-    "language": "Rust",
-    "name": "farikonsec/topgent",
-    "stars": 0,
-    "updated_at": "2026-09-02T15:14:39Z",
-    "url": "https://github.com/farikonsec/topgent"
   },
   {
     "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
@@ -207,15 +234,6 @@
     "url": "https://github.com/Heliotrope-dev/finance-agent"
   },
   {
-    "description": "Easy-to-use, easy-to-customize, and high-quality secure code review skills for AI agents.",
-    "id": "ivan-sincek/secure-code-review-agent-skills",
-    "language": "\u2014",
-    "name": "ivan-sincek/secure-code-review-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-09-02T14:58:59Z",
-    "url": "https://github.com/ivan-sincek/secure-code-review-agent-skills"
-  },
-  {
     "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
     "id": "KaletoAI/anima-verse",
     "language": "Python",
@@ -232,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T14:53:01Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Easy-to-use, easy-to-customize, and high-quality threat modeling skills for AI agents.",
-    "id": "ivan-sincek/threat-modeling-agent-skills",
-    "language": "\u2014",
-    "name": "ivan-sincek/threat-modeling-agent-skills",
-    "stars": 2,
-    "updated_at": "2026-09-02T14:52:30Z",
-    "url": "https://github.com/ivan-sincek/threat-modeling-agent-skills"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-02T13:46:19Z",
     "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
-    "id": "HELLOCODINGTR/AgentForge",
-    "language": "\u2014",
-    "name": "HELLOCODINGTR/AgentForge",
-    "stars": 1,
-    "updated_at": "2026-09-02T13:41:52Z",
-    "url": "https://github.com/HELLOCODINGTR/AgentForge"
   }
 ]
