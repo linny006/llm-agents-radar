@@ -1,12 +1,39 @@
 [
   {
+    "description": "LLM application engineering projects: RAG, LangGraph Agents, MCP, evaluation, FastAPI, Redis, and deployment.",
+    "id": "justin-zhong/ai-deployment-project",
+    "language": "Python",
+    "name": "justin-zhong/ai-deployment-project",
+    "stars": 0,
+    "updated_at": "2026-09-02T18:26:08Z",
+    "url": "https://github.com/justin-zhong/ai-deployment-project"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-09-02T18:20:16Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "An in-process bridge giving an AI agent real access to a modded Minecraft world - including mod APIs a protocol-level bo",
     "id": "max-champlin/ghost",
     "language": "Java",
     "name": "max-champlin/ghost",
     "stars": 0,
-    "updated_at": "2026-09-02T18:15:09Z",
+    "updated_at": "2026-09-02T18:20:03Z",
     "url": "https://github.com/max-champlin/ghost"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7123,
+    "updated_at": "2026-09-02T18:16:04Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "An AI agent harness for hard, exact tasks. Keeps one evolving artifact, spends compute only on decisions that can change",
@@ -41,7 +68,7 @@
     "language": "Python",
     "name": "ravisinghrajput95/kubewhy",
     "stars": 0,
-    "updated_at": "2026-09-02T18:04:22Z",
+    "updated_at": "2026-09-02T18:28:33Z",
     "url": "https://github.com/ravisinghrajput95/kubewhy"
   },
   {
@@ -153,15 +180,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7124,
-    "updated_at": "2026-09-02T17:13:01Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
     "id": "BlockRunAI/Franklin",
     "language": "TypeScript",
@@ -176,7 +194,7 @@
     "language": "Shell",
     "name": "bigduu/Zenith",
     "stars": 5,
-    "updated_at": "2026-09-02T17:05:17Z",
+    "updated_at": "2026-09-02T18:27:28Z",
     "url": "https://github.com/bigduu/Zenith"
   },
   {
@@ -364,7 +382,7 @@
     "id": "EvoMap/evolver",
     "language": "JavaScript",
     "name": "EvoMap/evolver",
-    "stars": 9045,
+    "stars": 9046,
     "updated_at": "2026-09-02T15:12:53Z",
     "url": "https://github.com/EvoMap/evolver"
   },
@@ -394,15 +412,6 @@
     "stars": 4,
     "updated_at": "2026-09-02T14:56:34Z",
     "url": "https://github.com/KaletoAI/anima-verse"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-09-02T14:53:01Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-02T14:20:00Z",
     "url": "https://github.com/lefan17/agent-test-hub"
-  },
-  {
-    "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
-    "id": "ChanTso/citybuddy",
-    "language": "Java",
-    "name": "ChanTso/citybuddy",
-    "stars": 0,
-    "updated_at": "2026-09-02T14:52:10Z",
-    "url": "https://github.com/ChanTso/citybuddy"
   }
 ]
