@@ -1,5 +1,50 @@
 [
   {
+    "description": "AI SRE agent that fixes Kubernetes pods via pull request, never kubectl. The model reads and proposes; deterministic cod",
+    "id": "sneha4175/k8s-guard",
+    "language": "\u2014",
+    "name": "sneha4175/k8s-guard",
+    "stars": 0,
+    "updated_at": "2026-09-02T18:59:39Z",
+    "url": "https://github.com/sneha4175/k8s-guard"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2a\u4eba A \u80a1\u7814\u7a76\u51b3\u7b56\u5de5\u4f5c\u53f0 \u00b7 \u6848\u5377\u5f0f\u7814\u7a76\u95ed\u73af\uff1a\u8fdb\u53e3\u5224\u65ad\u2192\u8bc1\u4f2a\u2192\u590d\u76d8\u2192\u8bb0\u5fc6\u3002\u4eba\u505a\u51b3\u7b56\uff0cAI \u505a\u5e7f\u5ea6/\u8bc1\u4f2a/\u98ce\u9669\u3002A local-first personal A-share research OS.",
+    "id": "Zeeechenn/MingCang",
+    "language": "Python",
+    "name": "Zeeechenn/MingCang",
+    "stars": 12,
+    "updated_at": "2026-09-02T18:59:42Z",
+    "url": "https://github.com/Zeeechenn/MingCang"
+  },
+  {
+    "description": "An in-process bridge giving an AI agent real access to a modded Minecraft world - including mod APIs a protocol-level bo",
+    "id": "max-champlin/ghost",
+    "language": "Java",
+    "name": "max-champlin/ghost",
+    "stars": 0,
+    "updated_at": "2026-09-02T18:54:08Z",
+    "url": "https://github.com/max-champlin/ghost"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 5,
+    "updated_at": "2026-09-02T18:51:56Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 210,
+    "updated_at": "2026-09-02T18:49:04Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
     "description": "LLM application engineering projects: RAG, LangGraph Agents, MCP, evaluation, FastAPI, Redis, and deployment.",
     "id": "justin-zhong/ai-deployment-project",
     "language": "Python",
@@ -81,20 +126,11 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "An in-process bridge giving an AI agent real access to a modded Minecraft world - including mod APIs a protocol-level bo",
-    "id": "max-champlin/ghost",
-    "language": "Java",
-    "name": "max-champlin/ghost",
-    "stars": 0,
-    "updated_at": "2026-09-02T18:20:03Z",
-    "url": "https://github.com/max-champlin/ghost"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7123,
+    "stars": 7124,
     "updated_at": "2026-09-02T18:16:04Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -203,7 +239,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 803,
-    "updated_at": "2026-09-02T18:45:05Z",
+    "updated_at": "2026-09-02T18:48:51Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -360,15 +396,6 @@
     "url": "https://github.com/melika-kheirieh/llm-agent-api"
   },
   {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 5,
-    "updated_at": "2026-09-02T15:41:38Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-02T15:16:34Z",
     "url": "https://github.com/MagnusDot/AClaw"
-  },
-  {
-    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-    "id": "EvoMap/evolver",
-    "language": "JavaScript",
-    "name": "EvoMap/evolver",
-    "stars": 9046,
-    "updated_at": "2026-09-02T15:12:53Z",
-    "url": "https://github.com/EvoMap/evolver"
-  },
-  {
-    "description": "One agent SDK, hand-ported to 7 languages \u2014 JavaScript, Python, Go, Java, C#, Elixir, Clojure \u2014 every port held to the s",
-    "id": "muthuishere/toolnexus",
-    "language": "MDX",
-    "name": "muthuishere/toolnexus",
-    "stars": 5,
-    "updated_at": "2026-09-02T15:10:12Z",
-    "url": "https://github.com/muthuishere/toolnexus"
-  },
-  {
-    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
-    "id": "Heliotrope-dev/finance-agent",
-    "language": "Python",
-    "name": "Heliotrope-dev/finance-agent",
-    "stars": 2,
-    "updated_at": "2026-09-02T15:01:36Z",
-    "url": "https://github.com/Heliotrope-dev/finance-agent"
   }
 ]
