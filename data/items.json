@@ -1,5 +1,32 @@
 [
   {
+    "description": "Drop-in MCP server that records real per-session agent cost/token/tool metrics and renders a Context Window Explorer ove",
+    "id": "sohaibsohail98/mcp-context-inspector",
+    "language": "Python",
+    "name": "sohaibsohail98/mcp-context-inspector",
+    "stars": 3,
+    "updated_at": "2026-09-02T01:29:22Z",
+    "url": "https://github.com/sohaibsohail98/mcp-context-inspector"
+  },
+  {
+    "description": "ToolAgents is a lightweight and flexible framework for creating function-calling agents with various language models and",
+    "id": "Maximilian-Winter/ToolAgents",
+    "language": "Python",
+    "name": "Maximilian-Winter/ToolAgents",
+    "stars": 38,
+    "updated_at": "2026-09-02T01:23:09Z",
+    "url": "https://github.com/Maximilian-Winter/ToolAgents"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-09-02T01:27:02Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
     "id": "JSL107/personal_agents",
     "language": "TypeScript",
@@ -25,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T01:02:23Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-09-02T00:52:14Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -133,15 +151,6 @@
     "stars": 5,
     "updated_at": "2026-09-01T23:11:21Z",
     "url": "https://github.com/Ven0m0/gemini-web-wrapper"
-  },
-  {
-    "description": "ToolAgents is a lightweight and flexible framework for creating function-calling agents with various language models and",
-    "id": "Maximilian-Winter/ToolAgents",
-    "language": "Python",
-    "name": "Maximilian-Winter/ToolAgents",
-    "stars": 38,
-    "updated_at": "2026-09-01T23:01:05Z",
-    "url": "https://github.com/Maximilian-Winter/ToolAgents"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-01T21:59:34Z",
     "url": "https://github.com/WP2-Danikusuma/AgentX"
-  },
-  {
-    "description": "Agente aut\u00f3nomo para LALIGA Fantasy: lee el juego, decide y act\u00faa (pujas, ventas, clausulazos, alineaci\u00f3n). Python stdli",
-    "id": "jonortega20/fantasybot",
-    "language": "Python",
-    "name": "jonortega20/fantasybot",
-    "stars": 21,
-    "updated_at": "2026-09-01T21:51:25Z",
-    "url": "https://github.com/jonortega20/fantasybot"
   }
 ]
