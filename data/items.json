@@ -1,21 +1,21 @@
 [
   {
-    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-    "id": "BlockRunAI/Franklin",
-    "language": "TypeScript",
-    "name": "BlockRunAI/Franklin",
-    "stars": 552,
-    "updated_at": "2026-09-02T02:29:49Z",
-    "url": "https://github.com/BlockRunAI/Franklin"
+    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
+    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "language": "JavaScript",
+    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "stars": 0,
+    "updated_at": "2026-09-02T02:41:47Z",
+    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
   },
   {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 26,
-    "updated_at": "2026-09-02T02:26:26Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
+    "description": "Autonomous AI agent that plays Minecraft on its own \u2014 a server-side Fabric mod (MC 1.21.3) where a DeepSeek / OpenAI-com",
+    "id": "zoyluoblue/mc_aiplayer",
+    "language": "Java",
+    "name": "zoyluoblue/mc_aiplayer",
+    "stars": 161,
+    "updated_at": "2026-09-02T02:40:01Z",
+    "url": "https://github.com/zoyluoblue/mc_aiplayer"
   },
   {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
@@ -23,8 +23,71 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-02T02:26:50Z",
+    "updated_at": "2026-09-02T02:44:04Z",
     "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "Connect Claude Code, Cursor, and Codex to Workflow (workflow.games): your AI coding agent plans requirements, files bugs",
+    "id": "LumioGames/workflow-plugin",
+    "language": "JavaScript",
+    "name": "LumioGames/workflow-plugin",
+    "stars": 2,
+    "updated_at": "2026-09-02T02:38:52Z",
+    "url": "https://github.com/LumioGames/workflow-plugin"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-09-02T02:41:49Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 26,
+    "updated_at": "2026-09-02T02:36:02Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 4,
+    "updated_at": "2026-09-02T02:35:41Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "ToolAgents is a lightweight and flexible framework for creating function-calling agents with various language models and",
+    "id": "Maximilian-Winter/ToolAgents",
+    "language": "Python",
+    "name": "Maximilian-Winter/ToolAgents",
+    "stars": 38,
+    "updated_at": "2026-09-02T02:34:55Z",
+    "url": "https://github.com/Maximilian-Winter/ToolAgents"
+  },
+  {
+    "description": "A self-hosted AI companion exploring evolving relationship memory, initiative, and cross-device context.",
+    "id": "yy606747/obsidian-vow",
+    "language": "Python",
+    "name": "yy606747/obsidian-vow",
+    "stars": 1,
+    "updated_at": "2026-09-02T02:30:19Z",
+    "url": "https://github.com/yy606747/obsidian-vow"
+  },
+  {
+    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+    "id": "BlockRunAI/Franklin",
+    "language": "TypeScript",
+    "name": "BlockRunAI/Franklin",
+    "stars": 552,
+    "updated_at": "2026-09-02T02:38:28Z",
+    "url": "https://github.com/BlockRunAI/Franklin"
   },
   {
     "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
@@ -54,15 +117,6 @@
     "url": "https://github.com/Lirunyi-123/equity-research-skill"
   },
   {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 4,
-    "updated_at": "2026-09-02T02:07:03Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
     "id": "ongridio/ongrid",
     "language": "Go",
@@ -70,6 +124,15 @@
     "stars": 962,
     "updated_at": "2026-09-02T02:00:33Z",
     "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 347,
+    "updated_at": "2026-09-02T02:43:11Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "OpenAI-compatible proxy enforcing SKILL.state (arXiv:2608.26263) \u2014 bounded O(1) prompts, O(T) total tokens for long-hori",
@@ -90,15 +153,6 @@
     "url": "https://github.com/xbsheng/ai-from-scratch"
   },
   {
-    "description": "Connect Claude Code, Cursor, and Codex to Workflow (workflow.games): your AI coding agent plans requirements, files bugs",
-    "id": "LumioGames/workflow-plugin",
-    "language": "JavaScript",
-    "name": "LumioGames/workflow-plugin",
-    "stars": 2,
-    "updated_at": "2026-09-02T01:38:25Z",
-    "url": "https://github.com/LumioGames/workflow-plugin"
-  },
-  {
     "description": "Drop-in MCP server that records real per-session agent cost/token/tool metrics and renders a Context Window Explorer ove",
     "id": "sohaibsohail98/mcp-context-inspector",
     "language": "Python",
@@ -106,24 +160,6 @@
     "stars": 3,
     "updated_at": "2026-09-02T01:29:22Z",
     "url": "https://github.com/sohaibsohail98/mcp-context-inspector"
-  },
-  {
-    "description": "ToolAgents is a lightweight and flexible framework for creating function-calling agents with various language models and",
-    "id": "Maximilian-Winter/ToolAgents",
-    "language": "Python",
-    "name": "Maximilian-Winter/ToolAgents",
-    "stars": 38,
-    "updated_at": "2026-09-02T01:23:09Z",
-    "url": "https://github.com/Maximilian-Winter/ToolAgents"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-09-02T02:16:41Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-01T22:30:41Z",
     "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 3,
-    "updated_at": "2026-09-01T22:28:29Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-09-01T22:24:19Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 346,
-    "updated_at": "2026-09-02T01:57:45Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
-    "id": "Danisxxx/comfyUI-LongLook",
-    "language": "Python",
-    "name": "Danisxxx/comfyUI-LongLook",
-    "stars": 2,
-    "updated_at": "2026-09-01T22:18:45Z",
-    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
   }
 ]
