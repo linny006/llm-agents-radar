@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-09-02T07:28:59Z",
+    "updated_at": "2026-09-02T07:44:40Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Eval \u9a71\u52a8\u7684 LLM Agent \u5e94\u7528\u5f00\u53d1\u56e2\u961f\uff08Claude Code Subagents\uff09\u2014\u2014\u6ca1\u6709 eval \u4e0d\u8bb8\u6539 prompt",
+    "id": "xuanbingbingo/claude-agent-dev-team",
+    "language": "Shell",
+    "name": "xuanbingbingo/claude-agent-dev-team",
+    "stars": 0,
+    "updated_at": "2026-09-02T07:42:19Z",
+    "url": "https://github.com/xuanbingbingo/claude-agent-dev-team"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 128,
+    "updated_at": "2026-09-02T07:39:00Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
@@ -50,8 +68,17 @@
     "language": "Java",
     "name": "kangwoo/aimon-core",
     "stars": 0,
-    "updated_at": "2026-09-02T07:23:03Z",
+    "updated_at": "2026-09-02T07:38:39Z",
     "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 349,
+    "updated_at": "2026-09-02T07:04:10Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Local coding agent with native Zhipu GLM / StepFun Step Coding-Plan support. Four hard gates \u2014 the agent can't claim don",
@@ -122,7 +149,7 @@
     "language": "Python",
     "name": "NUS-Program-Verification/AutoRocq",
     "stars": 26,
-    "updated_at": "2026-09-02T06:17:55Z",
+    "updated_at": "2026-09-02T07:36:46Z",
     "url": "https://github.com/NUS-Program-Verification/AutoRocq"
   },
   {
@@ -320,7 +347,7 @@
     "language": "Kotlin",
     "name": "aegntic/cognitive-os",
     "stars": 6,
-    "updated_at": "2026-09-02T05:33:31Z",
+    "updated_at": "2026-09-02T07:31:44Z",
     "url": "https://github.com/aegntic/cognitive-os"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-02T05:08:56Z",
     "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-09-02T05:05:25Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 217,
-    "updated_at": "2026-09-02T05:02:03Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 26,
-    "updated_at": "2026-09-02T05:01:42Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
   }
 ]
