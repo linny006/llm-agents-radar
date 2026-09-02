@@ -1,12 +1,57 @@
 [
   {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-09-02T05:00:02Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-09-02T04:59:34Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
     "id": "Cyrax321/CONTINUUM",
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 26,
-    "updated_at": "2026-09-02T04:49:03Z",
+    "updated_at": "2026-09-02T04:57:03Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "AstrBot \u63d2\u4ef6\uff1a\u8ba9 bot \u81ea\u4e3b\u901b\u300c\u7231\u8ba8\u8bba\u300d\uff08aitaolun.net\uff09AI \u8d34\u5427 \u2014\u2014 \u5f00\u5e16 / \u56de\u5e16 / \u9876\u8e29 / \u79c1\u4fe1 / \u5427\u52a1\uff0c\u5e26\u672c\u5730\u9884\u68c0\u4e0e\u53d1\u5e03\u95f8\u95e8",
+    "id": "Whereis-Alice/astrbot_plugin_aitaolun",
+    "language": "Python",
+    "name": "Whereis-Alice/astrbot_plugin_aitaolun",
+    "stars": 0,
+    "updated_at": "2026-09-02T04:53:36Z",
+    "url": "https://github.com/Whereis-Alice/astrbot_plugin_aitaolun"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 4,
+    "updated_at": "2026-09-02T04:53:22Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 32,
+    "updated_at": "2026-09-02T04:54:37Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
@@ -117,15 +162,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 32,
-    "updated_at": "2026-09-02T04:48:08Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
     "description": "Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g",
     "id": "lostinheaven-knt/chatbi-harness",
     "language": "Python",
@@ -230,7 +266,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-02T04:11:12Z",
+    "updated_at": "2026-09-02T04:53:17Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -277,15 +313,6 @@
     "stars": 2,
     "updated_at": "2026-09-02T02:38:52Z",
     "url": "https://github.com/LumioGames/workflow-plugin"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 4,
-    "updated_at": "2026-09-02T02:35:41Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
     "description": "ToolAgents is a lightweight and flexible framework for creating function-calling agents with various language models and",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-01T23:52:03Z",
     "url": "https://github.com/peder1981/AdvPP"
-  },
-  {
-    "description": "An autonomous sports agent with a personality and a memory \u2014 scores, news & takes across the major leagues, that also te",
-    "id": "madhavnair2009-arch/ronin",
-    "language": "Python",
-    "name": "madhavnair2009-arch/ronin",
-    "stars": 0,
-    "updated_at": "2026-09-01T23:51:13Z",
-    "url": "https://github.com/madhavnair2009-arch/ronin"
-  },
-  {
-    "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
-    "id": "Ven0m0/gemini-web-wrapper",
-    "language": "TypeScript",
-    "name": "Ven0m0/gemini-web-wrapper",
-    "stars": 5,
-    "updated_at": "2026-09-01T23:11:21Z",
-    "url": "https://github.com/Ven0m0/gemini-web-wrapper"
-  },
-  {
-    "description": "LLM application engineering projects: RAG, LangGraph Agents, MCP, evaluation, FastAPI, Redis, and deployment.",
-    "id": "justin-zhong/ai-deployment-project",
-    "language": "Python",
-    "name": "justin-zhong/ai-deployment-project",
-    "stars": 0,
-    "updated_at": "2026-09-01T22:59:52Z",
-    "url": "https://github.com/justin-zhong/ai-deployment-project"
   }
 ]
