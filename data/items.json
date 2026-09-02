@@ -1,5 +1,50 @@
 [
   {
+    "description": "Easy-to-use, easy-to-customize, and high-quality threat modeling skills for AI agents.",
+    "id": "ivan-sincek/threat-modeling-agent-skills",
+    "language": "\u2014",
+    "name": "ivan-sincek/threat-modeling-agent-skills",
+    "stars": 2,
+    "updated_at": "2026-09-02T22:10:59Z",
+    "url": "https://github.com/ivan-sincek/threat-modeling-agent-skills"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 363,
+    "updated_at": "2026-09-02T22:04:31Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-09-02T22:09:23Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-09-02T22:02:12Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Easy-to-use, easy-to-customize, and high-quality secure code review skills for AI agents.",
+    "id": "ivan-sincek/secure-code-review-agent-skills",
+    "language": "\u2014",
+    "name": "ivan-sincek/secure-code-review-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-02T22:14:40Z",
+    "url": "https://github.com/ivan-sincek/secure-code-review-agent-skills"
+  },
+  {
     "description": "All-in-one agent harness for Claude Code \u2014 Boss meta-orchestrator, 32 curated agents, 139 curated skills, 2 named workfl",
     "id": "sehoon787/my-claude",
     "language": "JavaScript",
@@ -16,15 +61,6 @@
     "stars": 26,
     "updated_at": "2026-09-02T21:52:26Z",
     "url": "https://github.com/sehoon787/my-codex"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 363,
-    "updated_at": "2026-09-02T21:50:50Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "An in-process bridge giving an AI agent real access to a modded Minecraft world - including mod APIs a protocol-level bo",
@@ -122,7 +158,7 @@
     "language": "Python",
     "name": "langroid/langroid",
     "stars": 4102,
-    "updated_at": "2026-09-02T21:54:35Z",
+    "updated_at": "2026-09-02T22:08:49Z",
     "url": "https://github.com/langroid/langroid"
   },
   {
@@ -320,7 +356,7 @@
     "language": "Rust",
     "name": "metric-space-ai/greppy",
     "stars": 8,
-    "updated_at": "2026-09-02T21:23:01Z",
+    "updated_at": "2026-09-02T22:01:16Z",
     "url": "https://github.com/metric-space-ai/greppy"
   },
   {
@@ -358,15 +394,6 @@
     "stars": 1,
     "updated_at": "2026-09-02T20:24:46Z",
     "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 6,
-    "updated_at": "2026-09-02T21:49:09Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
@@ -421,32 +448,5 @@
     "stars": 803,
     "updated_at": "2026-09-02T20:06:35Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Monitor your local AI agents. See what files they can reach, what networks they communicate with, and stop them if requi",
-    "id": "farikonsec/topgent",
-    "language": "Rust",
-    "name": "farikonsec/topgent",
-    "stars": 0,
-    "updated_at": "2026-09-02T20:02:00Z",
-    "url": "https://github.com/farikonsec/topgent"
-  },
-  {
-    "description": "OmniAgent (ICML 2026): the first native omni-modal agent for active video perception \u2014 a 7B agent that beats Qwen2.5-VL-",
-    "id": "HarryHsing/OmniAgent",
-    "language": "Python",
-    "name": "HarryHsing/OmniAgent",
-    "stars": 70,
-    "updated_at": "2026-09-02T19:57:00Z",
-    "url": "https://github.com/HarryHsing/OmniAgent"
-  },
-  {
-    "description": "Agente con tool-calling real (Anthropic API) sobre operaciones mineras: consultas SQL a DuckDB, scoring de riesgo credit",
-    "id": "Rxyxs/chile-mining-ops-agent",
-    "language": "Python",
-    "name": "Rxyxs/chile-mining-ops-agent",
-    "stars": 0,
-    "updated_at": "2026-09-02T19:56:22Z",
-    "url": "https://github.com/Rxyxs/chile-mining-ops-agent"
   }
 ]
