@@ -1,5 +1,41 @@
 [
   {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 363,
+    "updated_at": "2026-09-02T21:13:35Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "All-in-one agent harness for Claude Code \u2014 Boss meta-orchestrator, 32 curated agents, 139 curated skills, 2 named workfl",
+    "id": "sehoon787/my-claude",
+    "language": "JavaScript",
+    "name": "sehoon787/my-claude",
+    "stars": 16,
+    "updated_at": "2026-09-02T21:01:04Z",
+    "url": "https://github.com/sehoon787/my-claude"
+  },
+  {
+    "description": "All-in-one agent harness for OpenAI Codex CLI \u2014 Boss meta-orchestrator, 17 curated agents (+17 opt-in AI specialists), 1",
+    "id": "sehoon787/my-codex",
+    "language": "Shell",
+    "name": "sehoon787/my-codex",
+    "stars": 26,
+    "updated_at": "2026-09-02T21:00:52Z",
+    "url": "https://github.com/sehoon787/my-codex"
+  },
+  {
+    "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
+    "id": "rugose-learnedprofession58/pi-dsh",
+    "language": "TypeScript",
+    "name": "rugose-learnedprofession58/pi-dsh",
+    "stars": 1,
+    "updated_at": "2026-09-02T20:59:56Z",
+    "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
+  },
+  {
     "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
     "id": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
     "language": "JavaScript",
@@ -23,7 +59,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-02T20:56:08Z",
+    "updated_at": "2026-09-02T21:11:45Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -34,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-09-02T20:55:54Z",
     "url": "https://github.com/Blondieredistributed612/pocket-agent"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 363,
-    "updated_at": "2026-09-02T20:53:04Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Minimal FastAPI-based LLM agent API with pluggable providers, designed for clarity, testability, and reviewer-friendly s",
@@ -203,7 +230,7 @@
     "language": "Rust",
     "name": "metric-space-ai/greppy",
     "stars": 8,
-    "updated_at": "2026-09-02T20:49:25Z",
+    "updated_at": "2026-09-02T21:05:46Z",
     "url": "https://github.com/metric-space-ai/greppy"
   },
   {
@@ -248,7 +275,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-02T20:52:36Z",
+    "updated_at": "2026-09-02T21:06:55Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 210,
     "updated_at": "2026-09-02T19:18:17Z",
     "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
-    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2a\u4eba A \u80a1\u7814\u7a76\u51b3\u7b56\u5de5\u4f5c\u53f0 \u00b7 \u6848\u5377\u5f0f\u7814\u7a76\u95ed\u73af\uff1a\u8fdb\u53e3\u5224\u65ad\u2192\u8bc1\u4f2a\u2192\u590d\u76d8\u2192\u8bb0\u5fc6\u3002\u4eba\u505a\u51b3\u7b56\uff0cAI \u505a\u5e7f\u5ea6/\u8bc1\u4f2a/\u98ce\u9669\u3002A local-first personal A-share research OS.",
-    "id": "Zeeechenn/MingCang",
-    "language": "Python",
-    "name": "Zeeechenn/MingCang",
-    "stars": 12,
-    "updated_at": "2026-09-02T19:06:59Z",
-    "url": "https://github.com/Zeeechenn/MingCang"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 5,
-    "updated_at": "2026-09-02T18:51:56Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "LLM application engineering projects: RAG, LangGraph Agents, MCP, evaluation, FastAPI, Redis, and deployment.",
-    "id": "justin-zhong/ai-deployment-project",
-    "language": "Python",
-    "name": "justin-zhong/ai-deployment-project",
-    "stars": 0,
-    "updated_at": "2026-09-02T18:42:07Z",
-    "url": "https://github.com/justin-zhong/ai-deployment-project"
   }
 ]
