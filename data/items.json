@@ -1,5 +1,95 @@
 [
   {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 803,
+    "updated_at": "2026-09-02T13:29:30Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Run Aulthium AI Agent instantly in Termux, Linux, or any terminal with a single command.",
+    "id": "d3stiny-io/aulthium",
+    "language": "Shell",
+    "name": "d3stiny-io/aulthium",
+    "stars": 5,
+    "updated_at": "2026-09-02T13:28:35Z",
+    "url": "https://github.com/d3stiny-io/aulthium"
+  },
+  {
+    "description": "An OpenEnv-compatible RL environment for autonomous vulnerability patch management, cyber-resilience research, and repro",
+    "id": "Ayush-Kumar0207/PatchCascade-SOC",
+    "language": "Python",
+    "name": "Ayush-Kumar0207/PatchCascade-SOC",
+    "stars": 1,
+    "updated_at": "2026-09-02T13:28:28Z",
+    "url": "https://github.com/Ayush-Kumar0207/PatchCascade-SOC"
+  },
+  {
+    "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
+    "id": "ChanTso/citybuddy",
+    "language": "Java",
+    "name": "ChanTso/citybuddy",
+    "stars": 0,
+    "updated_at": "2026-09-02T13:24:02Z",
+    "url": "https://github.com/ChanTso/citybuddy"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-09-02T13:23:51Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
+    "id": "Saran1536/ComfyUI-LoaderUtils",
+    "language": "Python",
+    "name": "Saran1536/ComfyUI-LoaderUtils",
+    "stars": 1,
+    "updated_at": "2026-09-02T13:21:31Z",
+    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 1,
+    "updated_at": "2026-09-02T13:20:05Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-09-02T13:17:54Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-09-02T13:13:27Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
+    "id": "xhqing/DayTradingAgent",
+    "language": "Python",
+    "name": "xhqing/DayTradingAgent",
+    "stars": 2,
+    "updated_at": "2026-09-02T13:12:56Z",
+    "url": "https://github.com/xhqing/DayTradingAgent"
+  },
+  {
     "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
     "id": "irandysousa/langgraph-llama-cpp-starter",
     "language": "Python",
@@ -14,7 +104,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 26,
-    "updated_at": "2026-09-02T13:15:06Z",
+    "updated_at": "2026-09-02T13:27:55Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -54,6 +144,15 @@
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
+    "description": "Monitor your local AI agents. See what they can reach, and stop them if needed.",
+    "id": "farikonsec/topgent",
+    "language": "Rust",
+    "name": "farikonsec/topgent",
+    "stars": 0,
+    "updated_at": "2026-09-02T12:55:53Z",
+    "url": "https://github.com/farikonsec/topgent"
+  },
+  {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
     "id": "dsswift/ion",
     "language": "TypeScript",
@@ -61,15 +160,6 @@
     "stars": 4,
     "updated_at": "2026-09-02T12:57:10Z",
     "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 803,
-    "updated_at": "2026-09-02T13:11:01Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -86,7 +176,7 @@
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
     "stars": 52,
-    "updated_at": "2026-09-02T12:50:59Z",
+    "updated_at": "2026-09-02T13:28:00Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
@@ -115,15 +205,6 @@
     "stars": 128,
     "updated_at": "2026-09-02T12:32:37Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "OpenEnv-compliant RL environment for autonomous vulnerability patch management. Trains AI agents to balance security pat",
-    "id": "Ayush-Kumar0207/PatchCascade-SOC",
-    "language": "Python",
-    "name": "Ayush-Kumar0207/PatchCascade-SOC",
-    "stars": 1,
-    "updated_at": "2026-09-02T12:31:08Z",
-    "url": "https://github.com/Ayush-Kumar0207/PatchCascade-SOC"
   },
   {
     "description": "Local-first agent that prepares an EU261 flight-compensation claim from a photo of a boarding pass. The model reads, the",
@@ -167,7 +248,7 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 354,
-    "updated_at": "2026-09-02T13:13:05Z",
+    "updated_at": "2026-09-02T13:19:53Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -230,7 +311,7 @@
     "language": "Go",
     "name": "Leihb/learn-agent-the-hard-way",
     "stars": 32,
-    "updated_at": "2026-09-02T11:50:51Z",
+    "updated_at": "2026-09-02T13:27:08Z",
     "url": "https://github.com/Leihb/learn-agent-the-hard-way"
   },
   {
@@ -241,15 +322,6 @@
     "stars": 1,
     "updated_at": "2026-09-02T11:43:00Z",
     "url": "https://github.com/shimo4228/akc-cycle"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-09-02T12:01:02Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-02T10:08:51Z",
     "url": "https://github.com/AdrianDonohoe/NetCortex"
-  },
-  {
-    "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
-    "id": "EvoMap/awesome-agent-evolution",
-    "language": "JavaScript",
-    "name": "EvoMap/awesome-agent-evolution",
-    "stars": 209,
-    "updated_at": "2026-09-02T10:04:56Z",
-    "url": "https://github.com/EvoMap/awesome-agent-evolution"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-09-02T10:03:45Z",
-    "url": "https://github.com/SashaEee/auditLens"
-  },
-  {
-    "description": "Minimal FastAPI-based LLM agent API with pluggable providers, designed for clarity, testability, and reviewer-friendly s",
-    "id": "melika-kheirieh/llm-agent-api",
-    "language": "Python",
-    "name": "melika-kheirieh/llm-agent-api",
-    "stars": 2,
-    "updated_at": "2026-09-02T09:56:21Z",
-    "url": "https://github.com/melika-kheirieh/llm-agent-api"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-09-02T09:54:46Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
-    "id": "denisotree/veles",
-    "language": "Python",
-    "name": "denisotree/veles",
-    "stars": 4,
-    "updated_at": "2026-09-02T09:51:04Z",
-    "url": "https://github.com/denisotree/veles"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 126,
-    "updated_at": "2026-09-02T09:24:15Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "Local coding agent with native Zhipu GLM / StepFun Step Coding-Plan support. Four hard gates \u2014 the agent can't claim don",
-    "id": "Lion-1209/coderio",
-    "language": "Python",
-    "name": "Lion-1209/coderio",
-    "stars": 9,
-    "updated_at": "2026-09-02T09:24:14Z",
-    "url": "https://github.com/Lion-1209/coderio"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-09-02T09:23:36Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   }
 ]
