@@ -1,12 +1,66 @@
 [
   {
+    "description": "Cron scheduling for the DeepSeek Harness \u2014 bounded tasks with calendar & interval rules, delivered to live agents",
+    "id": "fan56/dsh-cron",
+    "language": "TypeScript",
+    "name": "fan56/dsh-cron",
+    "stars": 0,
+    "updated_at": "2026-09-02T16:29:40Z",
+    "url": "https://github.com/fan56/dsh-cron"
+  },
+  {
+    "description": "Claude Code plugin: universal radial-tree exploration engine. One tree skill + swappable presets (brainstorm / attack / ",
+    "id": "skymanbp/cc-tree",
+    "language": "Python",
+    "name": "skymanbp/cc-tree",
+    "stars": 108,
+    "updated_at": "2026-09-02T16:20:17Z",
+    "url": "https://github.com/skymanbp/cc-tree"
+  },
+  {
+    "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
+    "id": "SugarMGP/MumuBot",
+    "language": "Go",
+    "name": "SugarMGP/MumuBot",
+    "stars": 22,
+    "updated_at": "2026-09-02T16:18:15Z",
+    "url": "https://github.com/SugarMGP/MumuBot"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-09-02T16:17:12Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "Minimal FastAPI-based LLM agent API with pluggable providers, designed for clarity, testability, and reviewer-friendly s",
+    "id": "melika-kheirieh/llm-agent-api",
+    "language": "Python",
+    "name": "melika-kheirieh/llm-agent-api",
+    "stars": 2,
+    "updated_at": "2026-09-02T16:10:31Z",
+    "url": "https://github.com/melika-kheirieh/llm-agent-api"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7122,
+    "stars": 7123,
     "updated_at": "2026-09-02T16:06:52Z",
     "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 1054,
+    "updated_at": "2026-09-02T16:29:28Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -50,7 +104,7 @@
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
     "stars": 52,
-    "updated_at": "2026-09-02T16:11:22Z",
+    "updated_at": "2026-09-02T16:25:22Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
@@ -61,15 +115,6 @@
     "stars": 360,
     "updated_at": "2026-09-02T15:37:57Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "Minimal FastAPI-based LLM agent API with pluggable providers, designed for clarity, testability, and reviewer-friendly s",
-    "id": "melika-kheirieh/llm-agent-api",
-    "language": "Python",
-    "name": "melika-kheirieh/llm-agent-api",
-    "stars": 2,
-    "updated_at": "2026-09-02T16:10:31Z",
-    "url": "https://github.com/melika-kheirieh/llm-agent-api"
   },
   {
     "description": "Reproducible AI4SE agent with multi-tool planning, hybrid RAG, evaluation, and PostgreSQL operations.",
@@ -178,15 +223,6 @@
     "stars": 4,
     "updated_at": "2026-09-02T14:56:34Z",
     "url": "https://github.com/KaletoAI/anima-verse"
-  },
-  {
-    "description": "Claude Code plugin: universal radial-tree exploration engine. One tree skill + swappable presets (brainstorm / attack / ",
-    "id": "skymanbp/cc-tree",
-    "language": "Python",
-    "name": "skymanbp/cc-tree",
-    "stars": 108,
-    "updated_at": "2026-09-02T14:54:49Z",
-    "url": "https://github.com/skymanbp/cc-tree"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-02T13:41:52Z",
     "url": "https://github.com/HELLOCODINGTR/AgentForge"
-  },
-  {
-    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
-    "id": "strobilevitellus470/argus-ai",
-    "language": "Python",
-    "name": "strobilevitellus470/argus-ai",
-    "stars": 1,
-    "updated_at": "2026-09-02T13:41:07Z",
-    "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "A tool-using LLM agent that answers analytical questions about Indian equity data via SQL \u2014 plus the evaluation harness,",
-    "id": "nilaymastaadmi/market-query-agent",
-    "language": "Python",
-    "name": "nilaymastaadmi/market-query-agent",
-    "stars": 0,
-    "updated_at": "2026-09-02T13:39:45Z",
-    "url": "https://github.com/nilaymastaadmi/market-query-agent"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-09-02T13:38:02Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-09-02T13:37:53Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
   }
 ]
