@@ -1,12 +1,30 @@
 [
   {
+    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
+    "id": "Sigmanih/SigmaStudio",
+    "language": "Python",
+    "name": "Sigmanih/SigmaStudio",
+    "stars": 7,
+    "updated_at": "2026-09-02T19:26:00Z",
+    "url": "https://github.com/Sigmanih/SigmaStudio"
+  },
+  {
     "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
     "id": "node9-ai/node9-proxy",
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 210,
-    "updated_at": "2026-09-02T19:13:21Z",
+    "updated_at": "2026-09-02T19:18:17Z",
     "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 8,
+    "updated_at": "2026-09-02T19:22:08Z",
+    "url": "https://github.com/metric-space-ai/greppy"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -27,12 +45,21 @@
     "url": "https://github.com/ivan-sincek/secure-code-review-agent-skills"
   },
   {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 362,
+    "updated_at": "2026-09-02T19:05:53Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-02T19:13:45Z",
+    "updated_at": "2026-09-02T19:29:13Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -88,15 +115,6 @@
     "stars": 22,
     "updated_at": "2026-09-02T18:41:47Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
-    "id": "Sigmanih/SigmaStudio",
-    "language": "Python",
-    "name": "Sigmanih/SigmaStudio",
-    "stars": 7,
-    "updated_at": "2026-09-02T19:11:21Z",
-    "url": "https://github.com/Sigmanih/SigmaStudio"
   },
   {
     "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
@@ -223,15 +241,6 @@
     "stars": 71,
     "updated_at": "2026-09-02T17:39:26Z",
     "url": "https://github.com/wiseria-ai-labs/pie-ai-agent"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 361,
-    "updated_at": "2026-09-02T19:05:53Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
@@ -373,7 +382,7 @@
     "id": "skymanbp/cc-tree",
     "language": "Python",
     "name": "skymanbp/cc-tree",
-    "stars": 108,
+    "stars": 107,
     "updated_at": "2026-09-02T16:20:17Z",
     "url": "https://github.com/skymanbp/cc-tree"
   },
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-02T15:23:20Z",
     "url": "https://github.com/Canyon-Li/AuditronClaw"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-09-02T18:05:44Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   }
 ]
