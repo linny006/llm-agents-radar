@@ -1,5 +1,32 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-09-02T10:43:21Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-09-02T10:38:43Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 4,
+    "updated_at": "2026-09-02T10:33:48Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
     "description": "\u4fbf\u643a\u5f0f AI \u78c1\u76d8\u6587\u4ef6\u7ba1\u7406\u5668 \u2014\u2014 LLM Agent \u9a71\u52a8\u7684\u78c1\u76d8\u5206\u6790/\u6e05\u7406/\u56de\u6eda CLI\uff08Agent Skill \u5305\uff0cnpm: disk-sense\uff09",
     "id": "Nyaecho/DiskSense",
     "language": "TypeScript",
@@ -14,7 +41,7 @@
     "language": "JavaScript",
     "name": "STARDUSTLC666/dsh-minimal-ptc",
     "stars": 2,
-    "updated_at": "2026-09-02T10:28:06Z",
+    "updated_at": "2026-09-02T10:43:40Z",
     "url": "https://github.com/STARDUSTLC666/dsh-minimal-ptc"
   },
   {
@@ -34,15 +61,6 @@
     "stars": 9,
     "updated_at": "2026-09-02T10:25:24Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-09-02T10:25:03Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
@@ -70,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-09-02T10:22:11Z",
     "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 6,
-    "updated_at": "2026-09-02T10:20:00Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -337,7 +346,7 @@
     "id": "titanwings/distilly",
     "language": "Python",
     "name": "titanwings/distilly",
-    "stars": 24265,
+    "stars": 24266,
     "updated_at": "2026-09-02T07:43:00Z",
     "url": "https://github.com/titanwings/distilly"
   },
@@ -439,14 +448,5 @@
     "stars": 7,
     "updated_at": "2026-09-02T06:12:13Z",
     "url": "https://github.com/forger-labs-hq/researchforge"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 52,
-    "updated_at": "2026-09-02T06:08:21Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
   }
 ]
