@@ -1,5 +1,59 @@
 [
   {
+    "description": "A curated list of OpenClaw resources, tools, skills, tutorials & articles. OpenClaw (formerly Moltbot / Clawdbot) \u2014 open",
+    "id": "Anil-matcha/awesome-agent-apis",
+    "language": "Python",
+    "name": "Anil-matcha/awesome-agent-apis",
+    "stars": 1,
+    "updated_at": "2026-09-02T15:30:00Z",
+    "url": "https://github.com/Anil-matcha/awesome-agent-apis"
+  },
+  {
+    "description": "\u900f\u660e\u53ef\u5ba1\u8ba1\u7684\u672c\u5730\u667a\u80fd\u4f53\u7ec8\u7aef\uff1a\u5bf9\u5f00\u6e90 agent \u6846\u67b6\u505a\u5b89\u5168\u5ba1\u8ba1\u4e0e\u52a0\u56fa\uff08RCE/\u6c99\u76d2\u7ed5\u8fc7/\u6ce8\u5165\uff09\uff0c\u5e76\u4ee5 50 \u6761\u6ce8\u5165\u57fa\u51c6 \u00d7 37 \u6761\u80fd\u529b\u57fa\u51c6\u53cc\u7ef4\u5ea6\u91cf\u5b89\u5168\u8fb9\u754c",
+    "id": "Canyon-Li/AuditronClaw",
+    "language": "Python",
+    "name": "Canyon-Li/AuditronClaw",
+    "stars": 2,
+    "updated_at": "2026-09-02T15:23:20Z",
+    "url": "https://github.com/Canyon-Li/AuditronClaw"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-09-02T15:21:44Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 359,
+    "updated_at": "2026-09-02T15:20:25Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "ToolAgents is a lightweight and flexible framework for creating function-calling agents with various language models and",
+    "id": "Maximilian-Winter/ToolAgents",
+    "language": "Python",
+    "name": "Maximilian-Winter/ToolAgents",
+    "stars": 39,
+    "updated_at": "2026-09-02T15:19:35Z",
+    "url": "https://github.com/Maximilian-Winter/ToolAgents"
+  },
+  {
+    "description": "\ud83d\udc3e Your personal agent command center. Local, packaged, one command \u2014 CLI + web UI, Docker sandbox, live browser control.",
+    "id": "MagnusDot/AClaw",
+    "language": "TypeScript",
+    "name": "MagnusDot/AClaw",
+    "stars": 0,
+    "updated_at": "2026-09-02T15:16:34Z",
+    "url": "https://github.com/MagnusDot/AClaw"
+  },
+  {
     "description": "Monitor your local AI agents. See what files they can reach, what networks they communicate with, and stop them if requi",
     "id": "farikonsec/topgent",
     "language": "Rust",
@@ -7,6 +61,15 @@
     "stars": 0,
     "updated_at": "2026-09-02T15:14:39Z",
     "url": "https://github.com/farikonsec/topgent"
+  },
+  {
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "id": "EvoMap/evolver",
+    "language": "JavaScript",
+    "name": "EvoMap/evolver",
+    "stars": 9045,
+    "updated_at": "2026-09-02T15:12:53Z",
+    "url": "https://github.com/EvoMap/evolver"
   },
   {
     "description": "Reproducible AI4SE agent with multi-tool planning, hybrid RAG, evaluation, and PostgreSQL operations.",
@@ -18,13 +81,13 @@
     "url": "https://github.com/Isoldelu/software-engineering-agent"
   },
   {
-    "description": "\ud83d\udc3e Your personal agent command center. Local, packaged, one command \u2014 CLI + web UI, Docker sandbox, live browser control.",
-    "id": "MagnusDot/AClaw",
-    "language": "\u2014",
-    "name": "MagnusDot/AClaw",
-    "stars": 0,
-    "updated_at": "2026-09-02T15:12:32Z",
-    "url": "https://github.com/MagnusDot/AClaw"
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7119,
+    "updated_at": "2026-09-02T15:11:47Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "One agent SDK, hand-ported to 7 languages \u2014 JavaScript, Python, Go, Java, C#, Elixir, Clojure \u2014 every port held to the s",
@@ -41,7 +104,7 @@
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
     "stars": 52,
-    "updated_at": "2026-09-02T15:06:22Z",
+    "updated_at": "2026-09-02T15:20:09Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
@@ -126,15 +189,6 @@
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 358,
-    "updated_at": "2026-09-02T14:48:05Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
     "id": "citizenhicks/mobius",
     "language": "Rust",
@@ -142,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-09-02T15:10:03Z",
     "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
-    "description": "ToolAgents is a lightweight and flexible framework for creating function-calling agents with various language models and",
-    "id": "Maximilian-Winter/ToolAgents",
-    "language": "Python",
-    "name": "Maximilian-Winter/ToolAgents",
-    "stars": 39,
-    "updated_at": "2026-09-02T14:41:02Z",
-    "url": "https://github.com/Maximilian-Winter/ToolAgents"
   },
   {
     "description": "An OpenEnv-compatible RL environment for autonomous vulnerability patch management, cyber-resilience research, and repro",
@@ -205,15 +250,6 @@
     "stars": 15,
     "updated_at": "2026-09-02T14:11:08Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7118,
-    "updated_at": "2026-09-02T15:11:47Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-02T13:34:56Z",
     "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-09-02T13:33:37Z",
-    "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Run Aulthium AI Agent instantly in Termux, Linux, or any terminal with a single command.",
-    "id": "d3stiny-io/aulthium",
-    "language": "Shell",
-    "name": "d3stiny-io/aulthium",
-    "stars": 5,
-    "updated_at": "2026-09-02T13:32:56Z",
-    "url": "https://github.com/d3stiny-io/aulthium"
-  },
-  {
-    "description": "Minimal FastAPI-based LLM agent API with pluggable providers, designed for clarity, testability, and reviewer-friendly s",
-    "id": "melika-kheirieh/llm-agent-api",
-    "language": "Python",
-    "name": "melika-kheirieh/llm-agent-api",
-    "stars": 2,
-    "updated_at": "2026-09-02T13:32:40Z",
-    "url": "https://github.com/melika-kheirieh/llm-agent-api"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-09-02T13:32:04Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
   }
 ]
