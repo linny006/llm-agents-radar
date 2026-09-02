@@ -1,5 +1,32 @@
 [
   {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 128,
+    "updated_at": "2026-09-02T12:32:37Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 52,
+    "updated_at": "2026-09-02T12:31:46Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "OpenEnv-compliant RL environment for autonomous vulnerability patch management. Trains AI agents to balance security pat",
+    "id": "Ayush-Kumar0207/PatchCascade-SOC",
+    "language": "Python",
+    "name": "Ayush-Kumar0207/PatchCascade-SOC",
+    "stars": 1,
+    "updated_at": "2026-09-02T12:31:08Z",
+    "url": "https://github.com/Ayush-Kumar0207/PatchCascade-SOC"
+  },
+  {
     "description": "Local-first agent that prepares an EU261 flight-compensation claim from a photo of a boarding pass. The model reads, the",
     "id": "Wesper-Dev/droit-de-retard",
     "language": "Python",
@@ -36,15 +63,6 @@
     "url": "https://github.com/langroid/langroid"
   },
   {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 52,
-    "updated_at": "2026-09-02T12:14:34Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
-  },
-  {
     "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
@@ -76,7 +94,7 @@
     "id": "jeinlee1991/chinese-llm-benchmark",
     "language": "\u2014",
     "name": "jeinlee1991/chinese-llm-benchmark",
-    "stars": 6413,
+    "stars": 6414,
     "updated_at": "2026-09-02T12:08:15Z",
     "url": "https://github.com/jeinlee1991/chinese-llm-benchmark"
   },
@@ -142,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-09-02T11:41:02Z",
     "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
-  },
-  {
-    "description": "OpenEnv-compliant RL environment for autonomous vulnerability patch management. Trains AI agents to balance security pat",
-    "id": "Ayush-Kumar0207/PatchCascade-SOC",
-    "language": "Python",
-    "name": "Ayush-Kumar0207/PatchCascade-SOC",
-    "stars": 1,
-    "updated_at": "2026-09-02T12:12:06Z",
-    "url": "https://github.com/Ayush-Kumar0207/PatchCascade-SOC"
   },
   {
     "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
@@ -392,7 +401,7 @@
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
     "stars": 217,
-    "updated_at": "2026-09-02T09:02:10Z",
+    "updated_at": "2026-09-02T12:35:27Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 7,
     "updated_at": "2026-09-02T08:41:05Z",
     "url": "https://github.com/UncertaintyDeterminesYou4ndMe/flintrade"
-  },
-  {
-    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
-    "id": "Hello-QM/catgo-LRG",
-    "language": "TypeScript",
-    "name": "Hello-QM/catgo-LRG",
-    "stars": 193,
-    "updated_at": "2026-09-02T08:27:54Z",
-    "url": "https://github.com/Hello-QM/catgo-LRG"
   }
 ]
