@@ -1,5 +1,68 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-09-02T08:44:52Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 551,
+    "updated_at": "2026-09-02T08:42:26Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "An autonomous LLM paper-trading agent that dreams, remembers, and reviews its own trades",
+    "id": "UncertaintyDeterminesYou4ndMe/flintrade",
+    "language": "Python",
+    "name": "UncertaintyDeterminesYou4ndMe/flintrade",
+    "stars": 7,
+    "updated_at": "2026-09-02T08:41:05Z",
+    "url": "https://github.com/UncertaintyDeterminesYou4ndMe/flintrade"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-09-02T08:40:11Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-09-02T08:39:28Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Agent conversationnel d'analyse CRM : segmentation RFM, risque de d\u00e9part et valeur vie client, interrogeables en fran\u00e7ai",
+    "id": "HvalaG-tech/crm-intelligence-agent",
+    "language": "Python",
+    "name": "HvalaG-tech/crm-intelligence-agent",
+    "stars": 0,
+    "updated_at": "2026-09-02T08:39:14Z",
+    "url": "https://github.com/HvalaG-tech/crm-intelligence-agent"
+  },
+  {
+    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
+    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "language": "JavaScript",
+    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "stars": 0,
+    "updated_at": "2026-09-02T08:35:36Z",
+    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
+  },
+  {
     "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
     "id": "Hello-QM/catgo-LRG",
     "language": "TypeScript",
@@ -7,15 +70,6 @@
     "stars": 193,
     "updated_at": "2026-09-02T08:27:54Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-09-02T08:07:03Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Self-hosted multi-tenant agent platform for teams: skills, knowledge, API contracts and MCP servers live in the database",
@@ -49,7 +103,7 @@
     "id": "titanwings/distilly",
     "language": "Python",
     "name": "titanwings/distilly",
-    "stars": 24260,
+    "stars": 24261,
     "updated_at": "2026-09-02T07:43:00Z",
     "url": "https://github.com/titanwings/distilly"
   },
@@ -144,15 +198,6 @@
     "url": "https://github.com/xbsheng/ai-from-scratch"
   },
   {
-    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
-    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "language": "JavaScript",
-    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "stars": 0,
-    "updated_at": "2026-09-02T06:42:03Z",
-    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
-  },
-  {
     "description": "\ud83e\udd16 Lightweight, message-first agent runtime",
     "id": "Cognipeer/agent-sdk",
     "language": "TypeScript",
@@ -176,7 +221,7 @@
     "language": "Python",
     "name": "neopen/story-shot-agent",
     "stars": 158,
-    "updated_at": "2026-09-02T06:20:24Z",
+    "updated_at": "2026-09-02T08:44:49Z",
     "url": "https://github.com/neopen/story-shot-agent"
   },
   {
@@ -232,15 +277,6 @@
     "stars": 5710,
     "updated_at": "2026-09-02T08:23:54Z",
     "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-09-02T07:26:51Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "\u57fa\u4e8eLLM\u7684\u91cf\u5316\u56e0\u5b50\u5f00\u53d1Agent",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-02T05:32:26Z",
     "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-09-02T05:29:09Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-09-02T05:28:58Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 3,
-    "updated_at": "2026-09-02T05:26:40Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-09-02T05:22:54Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
   }
 ]
