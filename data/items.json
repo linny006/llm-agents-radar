@@ -1,5 +1,77 @@
 [
   {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 26,
+    "updated_at": "2026-09-02T02:58:23Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 32,
+    "updated_at": "2026-09-02T02:58:12Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "A self-hosted AI companion exploring evolving relationship memory, initiative, and cross-device context.",
+    "id": "yy606747/obsidian-vow",
+    "language": "Python",
+    "name": "yy606747/obsidian-vow",
+    "stars": 1,
+    "updated_at": "2026-09-02T02:58:10Z",
+    "url": "https://github.com/yy606747/obsidian-vow"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 128,
+    "updated_at": "2026-09-02T02:55:21Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "All-in-one agent harness for Claude Code \u2014 Boss meta-orchestrator, 32 curated agents, 139 curated skills, 2 named workfl",
+    "id": "sehoon787/my-claude",
+    "language": "JavaScript",
+    "name": "sehoon787/my-claude",
+    "stars": 16,
+    "updated_at": "2026-09-02T02:52:09Z",
+    "url": "https://github.com/sehoon787/my-claude"
+  },
+  {
+    "description": "\u7b28\u529e\u6cd5\u5b66 Agent\uff1a\u4ece 60 \u884c\u4ee3\u7801\u5230\u4e00\u4e2a\u5b8c\u6574\u7684 harness\u3002Learn Agent the Hard Way \u2014 \u4e2d\u6587\u7535\u5b50\u4e66\uff0c\u5168\u4e66 32 \u4e2a\u7ec3\u4e60\u5df2\u5b8c\u7ed3\u3002",
+    "id": "Leihb/learn-agent-the-hard-way",
+    "language": "Go",
+    "name": "Leihb/learn-agent-the-hard-way",
+    "stars": 32,
+    "updated_at": "2026-09-02T02:51:33Z",
+    "url": "https://github.com/Leihb/learn-agent-the-hard-way"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-09-02T02:50:37Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+    "id": "BlockRunAI/Franklin",
+    "language": "TypeScript",
+    "name": "BlockRunAI/Franklin",
+    "stars": 552,
+    "updated_at": "2026-09-02T02:55:02Z",
+    "url": "https://github.com/BlockRunAI/Franklin"
+  },
+  {
     "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
     "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
     "language": "JavaScript",
@@ -23,7 +95,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-02T02:44:04Z",
+    "updated_at": "2026-09-02T02:58:43Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -34,24 +106,6 @@
     "stars": 2,
     "updated_at": "2026-09-02T02:38:52Z",
     "url": "https://github.com/LumioGames/workflow-plugin"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-09-02T02:41:49Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 26,
-    "updated_at": "2026-09-02T02:36:02Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
@@ -70,24 +124,6 @@
     "stars": 38,
     "updated_at": "2026-09-02T02:34:55Z",
     "url": "https://github.com/Maximilian-Winter/ToolAgents"
-  },
-  {
-    "description": "A self-hosted AI companion exploring evolving relationship memory, initiative, and cross-device context.",
-    "id": "yy606747/obsidian-vow",
-    "language": "Python",
-    "name": "yy606747/obsidian-vow",
-    "stars": 1,
-    "updated_at": "2026-09-02T02:30:19Z",
-    "url": "https://github.com/yy606747/obsidian-vow"
-  },
-  {
-    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-    "id": "BlockRunAI/Franklin",
-    "language": "TypeScript",
-    "name": "BlockRunAI/Franklin",
-    "stars": 552,
-    "updated_at": "2026-09-02T02:38:28Z",
-    "url": "https://github.com/BlockRunAI/Franklin"
   },
   {
     "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
@@ -270,15 +306,6 @@
     "url": "https://github.com/Ven0m0/gemini-web-wrapper"
   },
   {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 128,
-    "updated_at": "2026-09-01T23:00:14Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
     "description": "LLM application engineering projects: RAG, LangGraph Agents, MCP, evaluation, FastAPI, Redis, and deployment.",
     "id": "justin-zhong/ai-deployment-project",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-01T22:34:22Z",
     "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Easy-to-use, easy-to-customize, and high-quality threat modeling skills for AI agents.",
-    "id": "ivan-sincek/threat-modeling-agent-skills",
-    "language": "\u2014",
-    "name": "ivan-sincek/threat-modeling-agent-skills",
-    "stars": 2,
-    "updated_at": "2026-09-01T22:32:22Z",
-    "url": "https://github.com/ivan-sincek/threat-modeling-agent-skills"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-09-01T22:30:54Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-09-01T22:30:41Z",
-    "url": "https://github.com/Bowotria/aethercore"
   }
 ]
