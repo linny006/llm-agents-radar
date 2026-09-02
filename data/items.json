@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 363,
-    "updated_at": "2026-09-02T22:38:26Z",
+    "updated_at": "2026-09-02T22:54:44Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-09-02T22:54:25Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -162,15 +171,6 @@
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
   },
   {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-09-02T21:40:45Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -203,7 +203,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-02T21:32:09Z",
+    "updated_at": "2026-09-02T22:56:19Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -410,7 +410,7 @@
     "language": "Rust",
     "name": "metric-space-ai/greppy",
     "stars": 8,
-    "updated_at": "2026-09-02T22:42:40Z",
+    "updated_at": "2026-09-02T22:58:44Z",
     "url": "https://github.com/metric-space-ai/greppy"
   },
   {
