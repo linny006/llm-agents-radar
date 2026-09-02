@@ -1,5 +1,86 @@
 [
   {
+    "description": "Open-source contribution radar: triages & scores new issues from subscribed repos, a ReAct agent locates fix entry point",
+    "id": "shen0122/FirstCatch",
+    "language": "Python",
+    "name": "shen0122/FirstCatch",
+    "stars": 1,
+    "updated_at": "2026-09-02T05:12:05Z",
+    "url": "https://github.com/shen0122/FirstCatch"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-09-02T05:11:13Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-09-02T05:08:56Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-09-02T05:05:25Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-09-02T05:05:01Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 51,
+    "updated_at": "2026-09-02T05:04:25Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 217,
+    "updated_at": "2026-09-02T05:02:03Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 26,
+    "updated_at": "2026-09-02T05:01:42Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-09-02T05:01:21Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
     "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
     "id": "WP2-Danikusuma/AgentX",
     "language": "HTML",
@@ -14,17 +95,8 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-09-02T04:59:34Z",
+    "updated_at": "2026-09-02T05:00:49Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 26,
-    "updated_at": "2026-09-02T04:57:03Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "AstrBot \u63d2\u4ef6\uff1a\u8ba9 bot \u81ea\u4e3b\u901b\u300c\u7231\u8ba8\u8bba\u300d\uff08aitaolun.net\uff09AI \u8d34\u5427 \u2014\u2014 \u5f00\u5e16 / \u56de\u5e16 / \u9876\u8e29 / \u79c1\u4fe1 / \u5427\u52a1\uff0c\u5e26\u672c\u5730\u9884\u68c0\u4e0e\u53d1\u5e03\u95f8\u95e8",
@@ -97,15 +169,6 @@
     "stars": 5,
     "updated_at": "2026-09-02T04:22:24Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 51,
-    "updated_at": "2026-09-02T04:15:41Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "Autonomous AI agent that plays Minecraft on its own \u2014 a server-side Fabric mod (MC 1.21.3) where a DeepSeek / OpenAI-com",
@@ -211,7 +274,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5865,
+    "stars": 5866,
     "updated_at": "2026-09-02T03:30:32Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -261,15 +324,6 @@
     "url": "https://github.com/citizenhicks/mobius"
   },
   {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-09-02T04:53:17Z",
-    "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
     "description": "A self-hosted AI companion exploring evolving relationship memory, initiative, and cross-device context.",
     "id": "yy606747/obsidian-vow",
     "language": "Python",
@@ -293,7 +347,7 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 348,
-    "updated_at": "2026-09-02T02:43:11Z",
+    "updated_at": "2026-09-02T05:12:38Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -387,15 +441,6 @@
     "url": "https://github.com/sohaibsohail98/mcp-context-inspector"
   },
   {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 217,
-    "updated_at": "2026-09-02T04:43:40Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-02T01:02:23Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-09-02T00:46:47Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "id": "lsdefine/GenericAgent",
-    "language": "Python",
-    "name": "lsdefine/GenericAgent",
-    "stars": 14102,
-    "updated_at": "2026-09-02T00:20:31Z",
-    "url": "https://github.com/lsdefine/GenericAgent"
-  },
-  {
-    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
-    "id": "Sigmanih/SigmaStudio",
-    "language": "Python",
-    "name": "Sigmanih/SigmaStudio",
-    "stars": 7,
-    "updated_at": "2026-09-02T00:16:04Z",
-    "url": "https://github.com/Sigmanih/SigmaStudio"
-  },
-  {
-    "description": "An autonomous Lean 4 theorem-proving agent: LLM-drafted proofs iteratively repaired against lake compiler diagnostics wi",
-    "id": "Lean-Prover/lean-prover",
-    "language": "Python",
-    "name": "Lean-Prover/lean-prover",
-    "stars": 1,
-    "updated_at": "2026-09-01T23:53:22Z",
-    "url": "https://github.com/Lean-Prover/lean-prover"
-  },
-  {
-    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
-    "id": "peder1981/AdvPP",
-    "language": "Go",
-    "name": "peder1981/AdvPP",
-    "stars": 2,
-    "updated_at": "2026-09-01T23:52:03Z",
-    "url": "https://github.com/peder1981/AdvPP"
   }
 ]
