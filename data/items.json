@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-09-02T07:44:40Z",
+    "updated_at": "2026-09-02T07:59:13Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-09-02T07:54:06Z",
+    "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
+    "description": "\u4fbf\u643a\u5f0f AI \u78c1\u76d8\u6587\u4ef6\u7ba1\u7406\u5668 \u2014\u2014 LLM Agent \u9a71\u52a8\u7684\u78c1\u76d8\u5206\u6790/\u6e05\u7406/\u56de\u6eda CLI\uff08Agent Skill \u5305\uff0cnpm: disk-sense\uff09",
+    "id": "Nyaecho/DiskSense",
+    "language": "TypeScript",
+    "name": "Nyaecho/DiskSense",
+    "stars": 1,
+    "updated_at": "2026-09-02T07:49:03Z",
+    "url": "https://github.com/Nyaecho/DiskSense"
+  },
+  {
+    "description": "Distilly \u2014 Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill\uff08\u539f\u540c\u4e8b Skill\uff09.",
+    "id": "titanwings/distilly",
+    "language": "Python",
+    "name": "titanwings/distilly",
+    "stars": 24258,
+    "updated_at": "2026-09-02T07:43:00Z",
+    "url": "https://github.com/titanwings/distilly"
   },
   {
     "description": "Eval \u9a71\u52a8\u7684 LLM Agent \u5e94\u7528\u5f00\u53d1\u56e2\u961f\uff08Claude Code Subagents\uff09\u2014\u2014\u6ca1\u6709 eval \u4e0d\u8bb8\u6539 prompt",
@@ -63,20 +90,11 @@
     "url": "https://github.com/sehoon787/my-claude"
   },
   {
-    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
-    "id": "kangwoo/aimon-core",
-    "language": "Java",
-    "name": "kangwoo/aimon-core",
-    "stars": 0,
-    "updated_at": "2026-09-02T07:38:39Z",
-    "url": "https://github.com/kangwoo/aimon-core"
-  },
-  {
     "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 349,
+    "stars": 350,
     "updated_at": "2026-09-02T07:04:10Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
@@ -149,7 +167,7 @@
     "language": "Python",
     "name": "NUS-Program-Verification/AutoRocq",
     "stars": 26,
-    "updated_at": "2026-09-02T07:36:46Z",
+    "updated_at": "2026-09-02T07:57:33Z",
     "url": "https://github.com/NUS-Program-Verification/AutoRocq"
   },
   {
@@ -187,6 +205,15 @@
     "stars": 0,
     "updated_at": "2026-09-02T06:05:15Z",
     "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5710,
+    "updated_at": "2026-09-02T06:00:17Z",
+    "url": "https://github.com/areal-project/AReaL"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -342,6 +369,15 @@
     "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
   },
   {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5867,
+    "updated_at": "2026-09-02T05:33:45Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
     "description": "Cognitive OS v3.0 \u2014 Universal AI agent operating system specification. 16-section cognitive architecture for Claude Code",
     "id": "aegntic/cognitive-os",
     "language": "Kotlin",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-02T05:17:45Z",
     "url": "https://github.com/Danisxxx/comfyUI-LongLook"
-  },
-  {
-    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
-    "id": "axxafo/awesome-agent-benchmarks",
-    "language": "\u2014",
-    "name": "axxafo/awesome-agent-benchmarks",
-    "stars": 3,
-    "updated_at": "2026-09-02T05:16:45Z",
-    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "Open-source contribution radar: triages & scores new issues from subscribed repos, a ReAct agent locates fix entry point",
-    "id": "shen0122/FirstCatch",
-    "language": "Python",
-    "name": "shen0122/FirstCatch",
-    "stars": 1,
-    "updated_at": "2026-09-02T05:12:05Z",
-    "url": "https://github.com/shen0122/FirstCatch"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-09-02T05:11:13Z",
-    "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-09-02T05:08:56Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
   }
 ]
