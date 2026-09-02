@@ -1,12 +1,48 @@
 [
   {
+    "description": "All-in-one agent harness for Claude Code \u2014 Boss meta-orchestrator, 32 curated agents, 139 curated skills, 2 named workfl",
+    "id": "sehoon787/my-claude",
+    "language": "JavaScript",
+    "name": "sehoon787/my-claude",
+    "stars": 16,
+    "updated_at": "2026-09-02T21:55:54Z",
+    "url": "https://github.com/sehoon787/my-claude"
+  },
+  {
+    "description": "All-in-one agent harness for OpenAI Codex CLI \u2014 Boss meta-orchestrator, 17 curated agents (+17 opt-in AI specialists), 1",
+    "id": "sehoon787/my-codex",
+    "language": "Shell",
+    "name": "sehoon787/my-codex",
+    "stars": 26,
+    "updated_at": "2026-09-02T21:52:26Z",
+    "url": "https://github.com/sehoon787/my-codex"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 363,
+    "updated_at": "2026-09-02T21:50:50Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
     "description": "An in-process bridge giving an AI agent real access to a modded Minecraft world - including mod APIs a protocol-level bo",
     "id": "max-champlin/ghost",
     "language": "Java",
     "name": "max-champlin/ghost",
     "stars": 0,
-    "updated_at": "2026-09-02T21:43:56Z",
+    "updated_at": "2026-09-02T21:49:16Z",
     "url": "https://github.com/max-champlin/ghost"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-09-02T21:48:54Z",
+    "url": "https://github.com/SashaEee/auditLens"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -81,21 +117,12 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 363,
-    "updated_at": "2026-09-02T21:45:02Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "Harness LLMs with Multi-Agent Programming",
     "id": "langroid/langroid",
     "language": "Python",
     "name": "langroid/langroid",
     "stars": 4102,
-    "updated_at": "2026-09-02T21:24:31Z",
+    "updated_at": "2026-09-02T21:54:35Z",
     "url": "https://github.com/langroid/langroid"
   },
   {
@@ -106,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T21:10:47Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "All-in-one agent harness for Claude Code \u2014 Boss meta-orchestrator, 32 curated agents, 139 curated skills, 2 named workfl",
-    "id": "sehoon787/my-claude",
-    "language": "JavaScript",
-    "name": "sehoon787/my-claude",
-    "stars": 16,
-    "updated_at": "2026-09-02T21:41:11Z",
-    "url": "https://github.com/sehoon787/my-claude"
-  },
-  {
-    "description": "All-in-one agent harness for OpenAI Codex CLI \u2014 Boss meta-orchestrator, 17 curated agents (+17 opt-in AI specialists), 1",
-    "id": "sehoon787/my-codex",
-    "language": "Shell",
-    "name": "sehoon787/my-codex",
-    "stars": 26,
-    "updated_at": "2026-09-02T21:42:16Z",
-    "url": "https://github.com/sehoon787/my-codex"
   },
   {
     "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
@@ -356,7 +365,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-02T21:34:38Z",
+    "updated_at": "2026-09-02T21:49:09Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-02T19:56:22Z",
     "url": "https://github.com/Rxyxs/chile-mining-ops-agent"
-  },
-  {
-    "description": "AI SRE agent that fixes Kubernetes pods via pull request, never kubectl. The model reads and proposes; deterministic cod",
-    "id": "sneha4175/k8s-guard",
-    "language": "Python",
-    "name": "sneha4175/k8s-guard",
-    "stars": 0,
-    "updated_at": "2026-09-02T19:55:22Z",
-    "url": "https://github.com/sneha4175/k8s-guard"
   }
 ]
