@@ -1,12 +1,12 @@
 [
   {
-    "description": "Cognitive OS v3.0 \u2014 Universal AI agent operating system specification. 16-section cognitive architecture for Claude Code",
-    "id": "aegntic/cognitive-os",
-    "language": "HTML",
-    "name": "aegntic/cognitive-os",
-    "stars": 6,
-    "updated_at": "2026-09-02T10:58:53Z",
-    "url": "https://github.com/aegntic/cognitive-os"
+    "description": "AstrBot \u63d2\u4ef6\uff1a\u8ba9 bot \u81ea\u4e3b\u901b\u300c\u7231\u8ba8\u8bba\u300d\uff08aitaolun.net\uff09AI \u8d34\u5427 \u2014\u2014 \u5f00\u5e16 / \u56de\u5e16 / \u9876\u8e29 / \u79c1\u4fe1 / \u5427\u52a1\uff0c\u5e26\u672c\u5730\u9884\u68c0\u4e0e\u53d1\u5e03\u95f8\u95e8",
+    "id": "Whereis-Alice/astrbot_plugin_aitaolun",
+    "language": "Python",
+    "name": "Whereis-Alice/astrbot_plugin_aitaolun",
+    "stars": 0,
+    "updated_at": "2026-09-02T11:08:47Z",
+    "url": "https://github.com/Whereis-Alice/astrbot_plugin_aitaolun"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -14,8 +14,53 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-09-02T10:58:35Z",
+    "updated_at": "2026-09-02T11:08:43Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 5,
+    "updated_at": "2026-09-02T11:06:56Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "\u5267\u672c\u5206\u955c\u5de5\u5177\u667a\u80fd\u4f53\uff08PenShot\uff09\uff1a\u7535\u5f71/\u52a8\u6f2b/\u77ed\u5267/\u5c0f\u8bf4/\u5267\u672c\u2192\u5206\u955c\u2192\u7247\u6bb5\u2192prompt | \u57fa\u4e8e LangGraph+LLM\uff0c\u81ea\u52a8\u89e3\u6790\u4efb\u610f\u683c\u5f0f\u5267\u672c\uff0c\u751f\u6210 Sora/Veo/Runway \u7b49\u6a21\u578b\u53ef\u7528\u7684\u8fde\u8d2ftext-to-video\u63d0\u793a\u8bcd",
+    "id": "neopen/story-shot-agent",
+    "language": "Python",
+    "name": "neopen/story-shot-agent",
+    "stars": 159,
+    "updated_at": "2026-09-02T11:13:31Z",
+    "url": "https://github.com/neopen/story-shot-agent"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5711,
+    "updated_at": "2026-09-02T11:05:07Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-09-02T11:02:18Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Cognitive OS v3.0 \u2014 Universal AI agent operating system specification. 16-section cognitive architecture for Claude Code",
+    "id": "aegntic/cognitive-os",
+    "language": "HTML",
+    "name": "aegntic/cognitive-os",
+    "stars": 6,
+    "updated_at": "2026-09-02T11:05:46Z",
+    "url": "https://github.com/aegntic/cognitive-os"
   },
   {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
@@ -25,6 +70,15 @@
     "stars": 15,
     "updated_at": "2026-09-02T10:49:12Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 352,
+    "updated_at": "2026-09-02T10:45:55Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -70,15 +124,6 @@
     "stars": 44,
     "updated_at": "2026-09-02T10:25:36Z",
     "url": "https://github.com/sky-valley/pi"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-09-02T10:25:24Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
@@ -180,30 +225,12 @@
     "url": "https://github.com/denisotree/veles"
   },
   {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 351,
-    "updated_at": "2026-09-02T10:45:55Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "AstrBot \u63d2\u4ef6\uff1a\u8ba9 bot \u81ea\u4e3b\u901b\u300c\u7231\u8ba8\u8bba\u300d\uff08aitaolun.net\uff09AI \u8d34\u5427 \u2014\u2014 \u5f00\u5e16 / \u56de\u5e16 / \u9876\u8e29 / \u79c1\u4fe1 / \u5427\u52a1\uff0c\u5e26\u672c\u5730\u9884\u68c0\u4e0e\u53d1\u5e03\u95f8\u95e8",
-    "id": "Whereis-Alice/astrbot_plugin_aitaolun",
-    "language": "Python",
-    "name": "Whereis-Alice/astrbot_plugin_aitaolun",
-    "stars": 0,
-    "updated_at": "2026-09-02T09:43:45Z",
-    "url": "https://github.com/Whereis-Alice/astrbot_plugin_aitaolun"
-  },
-  {
     "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
     "id": "kangwoo/aimon-core",
     "language": "Java",
     "name": "kangwoo/aimon-core",
     "stars": 0,
-    "updated_at": "2026-09-02T10:45:55Z",
+    "updated_at": "2026-09-02T11:14:11Z",
     "url": "https://github.com/kangwoo/aimon-core"
   },
   {
@@ -297,20 +324,11 @@
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
-    "description": "\u5267\u672c\u5206\u955c\u5de5\u5177\u667a\u80fd\u4f53\uff08PenShot\uff09\uff1a\u7535\u5f71/\u52a8\u6f2b/\u77ed\u5267/\u5c0f\u8bf4/\u5267\u672c\u2192\u5206\u955c\u2192\u7247\u6bb5\u2192prompt | \u57fa\u4e8e LangGraph+LLM\uff0c\u81ea\u52a8\u89e3\u6790\u4efb\u610f\u683c\u5f0f\u5267\u672c\uff0c\u751f\u6210 Sora/Veo/Runway \u7b49\u6a21\u578b\u53ef\u7528\u7684\u8fde\u8d2ftext-to-video\u63d0\u793a\u8bcd",
-    "id": "neopen/story-shot-agent",
-    "language": "Python",
-    "name": "neopen/story-shot-agent",
-    "stars": 159,
-    "updated_at": "2026-09-02T10:57:41Z",
-    "url": "https://github.com/neopen/story-shot-agent"
-  },
-  {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 552,
+    "stars": 553,
     "updated_at": "2026-09-02T08:42:26Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -331,15 +349,6 @@
     "stars": 193,
     "updated_at": "2026-09-02T08:27:54Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5711,
-    "updated_at": "2026-09-02T08:23:54Z",
-    "url": "https://github.com/areal-project/AReaL"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-02T06:44:13Z",
     "url": "https://github.com/xbsheng/ai-from-scratch"
-  },
-  {
-    "description": "Agentic Theorem Prover for Rocq for Program Verification",
-    "id": "NUS-Program-Verification/AutoRocq",
-    "language": "Python",
-    "name": "NUS-Program-Verification/AutoRocq",
-    "stars": 26,
-    "updated_at": "2026-09-02T07:57:33Z",
-    "url": "https://github.com/NUS-Program-Verification/AutoRocq"
   }
 ]
