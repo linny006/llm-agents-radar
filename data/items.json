@@ -1,5 +1,68 @@
 [
   {
+    "description": "Local-first agent that prepares an EU261 flight-compensation claim from a photo of a boarding pass. The model reads, the",
+    "id": "Wesper-Dev/droit-de-retard",
+    "language": "Python",
+    "name": "Wesper-Dev/droit-de-retard",
+    "stars": 0,
+    "updated_at": "2026-09-02T12:25:40Z",
+    "url": "https://github.com/Wesper-Dev/droit-de-retard"
+  },
+  {
+    "description": "Agente con tool-calling real (Anthropic API) sobre operaciones mineras: consultas SQL a DuckDB, scoring de riesgo credit",
+    "id": "Rxyxs/chile-mining-ops-agent",
+    "language": "HTML",
+    "name": "Rxyxs/chile-mining-ops-agent",
+    "stars": 0,
+    "updated_at": "2026-09-02T12:20:24Z",
+    "url": "https://github.com/Rxyxs/chile-mining-ops-agent"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-09-02T12:19:34Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Harness LLMs with Multi-Agent Programming",
+    "id": "langroid/langroid",
+    "language": "Python",
+    "name": "langroid/langroid",
+    "stars": 4102,
+    "updated_at": "2026-09-02T12:15:05Z",
+    "url": "https://github.com/langroid/langroid"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 52,
+    "updated_at": "2026-09-02T12:14:34Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 354,
+    "updated_at": "2026-09-02T12:23:16Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
+    "id": "expectedparrot/edsl",
+    "language": "Python",
+    "name": "expectedparrot/edsl",
+    "stars": 492,
+    "updated_at": "2026-09-02T12:13:21Z",
+    "url": "https://github.com/expectedparrot/edsl"
+  },
+  {
     "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
     "id": "ljedrz/nachalnik",
     "language": "Rust",
@@ -45,24 +108,6 @@
     "url": "https://github.com/sky-valley/pi"
   },
   {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 353,
-    "updated_at": "2026-09-02T12:14:23Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 52,
-    "updated_at": "2026-09-02T12:14:34Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
-  },
-  {
     "description": "\u7b28\u529e\u6cd5\u5b66 Agent\uff1a\u4ece 60 \u884c\u4ee3\u7801\u5230\u4e00\u4e2a\u5b8c\u6574\u7684 harness\u3002Learn Agent the Hard Way \u2014 \u4e2d\u6587\u7535\u5b50\u4e66\uff0c\u5168\u4e66 32 \u4e2a\u7ec3\u4e60\u5df2\u5b8c\u7ed3\u3002",
     "id": "Leihb/learn-agent-the-hard-way",
     "language": "Go",
@@ -70,15 +115,6 @@
     "stars": 32,
     "updated_at": "2026-09-02T11:50:51Z",
     "url": "https://github.com/Leihb/learn-agent-the-hard-way"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-09-02T11:56:58Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "The Agent Knowledge Cycle as a single behavioral rules file \u2014 install all six phases without the six standalone skills.",
@@ -412,41 +448,5 @@
     "stars": 193,
     "updated_at": "2026-09-02T08:27:54Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7108,
-    "updated_at": "2026-09-02T08:00:11Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Self-hosted multi-tenant agent platform for teams: skills, knowledge, API contracts and MCP servers live in the database",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 22,
-    "updated_at": "2026-09-02T07:58:58Z",
-    "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
-    "description": "Distilly \u2014 Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill\uff08\u539f\u540c\u4e8b Skill\uff09.",
-    "id": "titanwings/distilly",
-    "language": "Python",
-    "name": "titanwings/distilly",
-    "stars": 24266,
-    "updated_at": "2026-09-02T07:43:00Z",
-    "url": "https://github.com/titanwings/distilly"
-  },
-  {
-    "description": "Eval \u9a71\u52a8\u7684 LLM Agent \u5e94\u7528\u5f00\u53d1\u56e2\u961f\uff08Claude Code Subagents\uff09\u2014\u2014\u6ca1\u6709 eval \u4e0d\u8bb8\u6539 prompt",
-    "id": "xuanbingbingo/claude-agent-dev-team",
-    "language": "Shell",
-    "name": "xuanbingbingo/claude-agent-dev-team",
-    "stars": 0,
-    "updated_at": "2026-09-02T07:42:19Z",
-    "url": "https://github.com/xuanbingbingo/claude-agent-dev-team"
   }
 ]
