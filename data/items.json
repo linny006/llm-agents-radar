@@ -1,11 +1,65 @@
 [
   {
+    "description": "Local coding agent with native Zhipu GLM / StepFun Step Coding-Plan support. Four hard gates \u2014 the agent can't claim don",
+    "id": "Lion-1209/coderio",
+    "language": "Python",
+    "name": "Lion-1209/coderio",
+    "stars": 9,
+    "updated_at": "2026-09-02T09:10:20Z",
+    "url": "https://github.com/Lion-1209/coderio"
+  },
+  {
+    "description": "Agent conversationnel d'analyse CRM : segmentation RFM, risque de d\u00e9part et valeur vie client, interrogeables en fran\u00e7ai",
+    "id": "HvalaG-tech/crm-intelligence-agent",
+    "language": "Python",
+    "name": "HvalaG-tech/crm-intelligence-agent",
+    "stars": 0,
+    "updated_at": "2026-09-02T09:10:04Z",
+    "url": "https://github.com/HvalaG-tech/crm-intelligence-agent"
+  },
+  {
+    "description": "Minimal FastAPI-based LLM agent API with pluggable providers, designed for clarity, testability, and reviewer-friendly s",
+    "id": "melika-kheirieh/llm-agent-api",
+    "language": "Python",
+    "name": "melika-kheirieh/llm-agent-api",
+    "stars": 2,
+    "updated_at": "2026-09-02T09:08:55Z",
+    "url": "https://github.com/melika-kheirieh/llm-agent-api"
+  },
+  {
+    "description": "\ud83e\udd16 Lightweight, message-first agent runtime",
+    "id": "Cognipeer/agent-sdk",
+    "language": "TypeScript",
+    "name": "Cognipeer/agent-sdk",
+    "stars": 7,
+    "updated_at": "2026-09-02T09:07:07Z",
+    "url": "https://github.com/Cognipeer/agent-sdk"
+  },
+  {
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "id": "EvoMap/evolver",
+    "language": "JavaScript",
+    "name": "EvoMap/evolver",
+    "stars": 9042,
+    "updated_at": "2026-09-02T09:05:05Z",
+    "url": "https://github.com/EvoMap/evolver"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 216,
+    "updated_at": "2026-09-02T09:02:10Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
     "description": "5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute",
     "id": "AdrianDonohoe/NetCortex",
     "language": "Python",
     "name": "AdrianDonohoe/NetCortex",
     "stars": 1,
-    "updated_at": "2026-09-02T08:59:26Z",
+    "updated_at": "2026-09-02T09:01:39Z",
     "url": "https://github.com/AdrianDonohoe/NetCortex"
   },
   {
@@ -97,15 +151,6 @@
     "stars": 13,
     "updated_at": "2026-09-02T08:40:11Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Agent conversationnel d'analyse CRM : segmentation RFM, risque de d\u00e9part et valeur vie client, interrogeables en fran\u00e7ai",
-    "id": "HvalaG-tech/crm-intelligence-agent",
-    "language": "Python",
-    "name": "HvalaG-tech/crm-intelligence-agent",
-    "stars": 0,
-    "updated_at": "2026-09-02T08:56:03Z",
-    "url": "https://github.com/HvalaG-tech/crm-intelligence-agent"
   },
   {
     "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
@@ -234,15 +279,6 @@
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
-    "description": "Local coding agent with native Zhipu GLM / StepFun Step Coding-Plan support. Four hard gates \u2014 the agent can't claim don",
-    "id": "Lion-1209/coderio",
-    "language": "Python",
-    "name": "Lion-1209/coderio",
-    "stars": 9,
-    "updated_at": "2026-09-02T07:01:49Z",
-    "url": "https://github.com/Lion-1209/coderio"
-  },
-  {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
     "id": "b-macker/NAAb",
     "language": "C++",
@@ -259,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-09-02T06:44:13Z",
     "url": "https://github.com/xbsheng/ai-from-scratch"
-  },
-  {
-    "description": "\ud83e\udd16 Lightweight, message-first agent runtime",
-    "id": "Cognipeer/agent-sdk",
-    "language": "TypeScript",
-    "name": "Cognipeer/agent-sdk",
-    "stars": 7,
-    "updated_at": "2026-09-02T06:54:21Z",
-    "url": "https://github.com/Cognipeer/agent-sdk"
   },
   {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-02T05:36:36Z",
     "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
-  },
-  {
-    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
-    "id": "Arjunadh5305/ios-skills-collection",
-    "language": "\u2014",
-    "name": "Arjunadh5305/ios-skills-collection",
-    "stars": 1,
-    "updated_at": "2026-09-02T05:36:34Z",
-    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
-  },
-  {
-    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
-    "id": "Stolas34/voice-input-src",
-    "language": "\u2014",
-    "name": "Stolas34/voice-input-src",
-    "stars": 0,
-    "updated_at": "2026-09-02T05:36:14Z",
-    "url": "https://github.com/Stolas34/voice-input-src"
-  },
-  {
-    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 210,
-    "updated_at": "2026-09-02T05:57:22Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
   }
 ]
