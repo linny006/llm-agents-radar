@@ -1,5 +1,23 @@
 [
   {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 362,
+    "updated_at": "2026-09-02T19:54:32Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Minimal FastAPI-based LLM agent API with pluggable providers, designed for clarity, testability, and reviewer-friendly s",
+    "id": "melika-kheirieh/llm-agent-api",
+    "language": "Python",
+    "name": "melika-kheirieh/llm-agent-api",
+    "stars": 2,
+    "updated_at": "2026-09-02T19:53:02Z",
+    "url": "https://github.com/melika-kheirieh/llm-agent-api"
+  },
+  {
     "description": "Easy-to-use, easy-to-customize, and high-quality threat modeling skills for AI agents.",
     "id": "ivan-sincek/threat-modeling-agent-skills",
     "language": "\u2014",
@@ -18,12 +36,21 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
+    "description": "Easy-to-use, easy-to-customize, and high-quality secure code review skills for AI agents.",
+    "id": "ivan-sincek/secure-code-review-agent-skills",
+    "language": "\u2014",
+    "name": "ivan-sincek/secure-code-review-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-02T19:41:12Z",
+    "url": "https://github.com/ivan-sincek/secure-code-review-agent-skills"
+  },
+  {
     "description": "AI SRE agent that fixes Kubernetes pods via pull request, never kubectl. The model reads and proposes; deterministic cod",
     "id": "sneha4175/k8s-guard",
     "language": "Python",
     "name": "sneha4175/k8s-guard",
     "stars": 0,
-    "updated_at": "2026-09-02T19:37:33Z",
+    "updated_at": "2026-09-02T19:55:22Z",
     "url": "https://github.com/sneha4175/k8s-guard"
   },
   {
@@ -77,7 +104,7 @@
     "language": "Rust",
     "name": "metric-space-ai/greppy",
     "stars": 8,
-    "updated_at": "2026-09-02T19:22:08Z",
+    "updated_at": "2026-09-02T19:47:02Z",
     "url": "https://github.com/metric-space-ai/greppy"
   },
   {
@@ -90,30 +117,12 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "Easy-to-use, easy-to-customize, and high-quality secure code review skills for AI agents.",
-    "id": "ivan-sincek/secure-code-review-agent-skills",
-    "language": "\u2014",
-    "name": "ivan-sincek/secure-code-review-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-09-02T19:41:12Z",
-    "url": "https://github.com/ivan-sincek/secure-code-review-agent-skills"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 362,
-    "updated_at": "2026-09-02T19:31:00Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-02T19:41:50Z",
+    "updated_at": "2026-09-02T19:49:21Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -293,7 +302,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 803,
-    "updated_at": "2026-09-02T19:02:02Z",
+    "updated_at": "2026-09-02T19:45:42Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -310,7 +319,7 @@
     "id": "titanwings/distilly",
     "language": "Python",
     "name": "titanwings/distilly",
-    "stars": 24282,
+    "stars": 24284,
     "updated_at": "2026-09-02T17:19:37Z",
     "url": "https://github.com/titanwings/distilly"
   },
@@ -320,7 +329,7 @@
     "language": "HTML",
     "name": "Alucard1718/autonomous-code-sandbox",
     "stars": 1,
-    "updated_at": "2026-09-02T17:13:55Z",
+    "updated_at": "2026-09-02T19:49:43Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
@@ -347,7 +356,7 @@
     "language": "\u2014",
     "name": "kriss-b/llm-iso27001",
     "stars": 37,
-    "updated_at": "2026-09-02T16:51:20Z",
+    "updated_at": "2026-09-02T19:48:08Z",
     "url": "https://github.com/kriss-b/llm-iso27001"
   },
   {
@@ -412,15 +421,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T16:17:12Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Minimal FastAPI-based LLM agent API with pluggable providers, designed for clarity, testability, and reviewer-friendly s",
-    "id": "melika-kheirieh/llm-agent-api",
-    "language": "Python",
-    "name": "melika-kheirieh/llm-agent-api",
-    "stars": 2,
-    "updated_at": "2026-09-02T16:10:31Z",
-    "url": "https://github.com/melika-kheirieh/llm-agent-api"
   },
   {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
