@@ -1,5 +1,32 @@
 [
   {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 52,
+    "updated_at": "2026-09-02T17:59:37Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-02T17:50:04Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
+    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "language": "JavaScript",
+    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "stars": 0,
+    "updated_at": "2026-09-02T17:49:50Z",
+    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
+  },
+  {
     "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
     "id": "ravisinghrajput95/kubewhy",
     "language": "Python",
@@ -9,6 +36,15 @@
     "url": "https://github.com/ravisinghrajput95/kubewhy"
   },
   {
+    "description": "Two MIT patches for Nous Research Hermes: stop busy-queue messages merging into one jumbled turn, and optionally run sel",
+    "id": "EauDoon/hermes-parallel-followups",
+    "language": "Python",
+    "name": "EauDoon/hermes-parallel-followups",
+    "stars": 0,
+    "updated_at": "2026-09-02T17:39:32Z",
+    "url": "https://github.com/EauDoon/hermes-parallel-followups"
+  },
+  {
     "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
     "id": "wiseria-ai-labs/pie-ai-agent-restore",
     "language": "TypeScript",
@@ -16,15 +52,6 @@
     "stars": 71,
     "updated_at": "2026-09-02T17:39:26Z",
     "url": "https://github.com/wiseria-ai-labs/pie-ai-agent-restore"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 52,
-    "updated_at": "2026-09-02T17:38:47Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
@@ -94,7 +121,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7123,
+    "stars": 7124,
     "updated_at": "2026-09-02T17:13:01Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -293,7 +320,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-09-02T15:21:44Z",
+    "updated_at": "2026-09-02T17:50:53Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 15,
     "updated_at": "2026-09-02T14:11:08Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-09-02T14:03:59Z",
-    "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-09-02T14:01:03Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
-    "id": "rugose-learnedprofession58/pi-dsh",
-    "language": "TypeScript",
-    "name": "rugose-learnedprofession58/pi-dsh",
-    "stars": 1,
-    "updated_at": "2026-09-02T13:58:20Z",
-    "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
   }
 ]
