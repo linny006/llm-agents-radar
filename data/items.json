@@ -1,12 +1,57 @@
 [
   {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-09-02T09:28:21Z",
+    "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
+    "description": "Minimal FastAPI-based LLM agent API with pluggable providers, designed for clarity, testability, and reviewer-friendly s",
+    "id": "melika-kheirieh/llm-agent-api",
+    "language": "Python",
+    "name": "melika-kheirieh/llm-agent-api",
+    "stars": 2,
+    "updated_at": "2026-09-02T09:29:49Z",
+    "url": "https://github.com/melika-kheirieh/llm-agent-api"
+  },
+  {
+    "description": "5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute",
+    "id": "AdrianDonohoe/NetCortex",
+    "language": "Python",
+    "name": "AdrianDonohoe/NetCortex",
+    "stars": 1,
+    "updated_at": "2026-09-02T09:25:38Z",
+    "url": "https://github.com/AdrianDonohoe/NetCortex"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 126,
+    "updated_at": "2026-09-02T09:24:15Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
     "description": "Local coding agent with native Zhipu GLM / StepFun Step Coding-Plan support. Four hard gates \u2014 the agent can't claim don",
     "id": "Lion-1209/coderio",
     "language": "Python",
     "name": "Lion-1209/coderio",
     "stars": 9,
-    "updated_at": "2026-09-02T09:10:20Z",
+    "updated_at": "2026-09-02T09:24:14Z",
     "url": "https://github.com/Lion-1209/coderio"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-09-02T09:23:36Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Agent conversationnel d'analyse CRM : segmentation RFM, risque de d\u00e9part et valeur vie client, interrogeables en fran\u00e7ai",
@@ -16,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T09:10:04Z",
     "url": "https://github.com/HvalaG-tech/crm-intelligence-agent"
-  },
-  {
-    "description": "Minimal FastAPI-based LLM agent API with pluggable providers, designed for clarity, testability, and reviewer-friendly s",
-    "id": "melika-kheirieh/llm-agent-api",
-    "language": "Python",
-    "name": "melika-kheirieh/llm-agent-api",
-    "stars": 2,
-    "updated_at": "2026-09-02T09:08:55Z",
-    "url": "https://github.com/melika-kheirieh/llm-agent-api"
   },
   {
     "description": "\ud83e\udd16 Lightweight, message-first agent runtime",
@@ -52,15 +88,6 @@
     "stars": 216,
     "updated_at": "2026-09-02T09:02:10Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute",
-    "id": "AdrianDonohoe/NetCortex",
-    "language": "Python",
-    "name": "AdrianDonohoe/NetCortex",
-    "stars": 1,
-    "updated_at": "2026-09-02T09:01:39Z",
-    "url": "https://github.com/AdrianDonohoe/NetCortex"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -175,7 +202,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7106,
+    "stars": 7107,
     "updated_at": "2026-09-02T08:00:11Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -187,15 +214,6 @@
     "stars": 22,
     "updated_at": "2026-09-02T07:58:58Z",
     "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
-    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
-    "id": "kangwoo/aimon-core",
-    "language": "Java",
-    "name": "kangwoo/aimon-core",
-    "stars": 0,
-    "updated_at": "2026-09-02T07:54:06Z",
-    "url": "https://github.com/kangwoo/aimon-core"
   },
   {
     "description": "\u4fbf\u643a\u5f0f AI \u78c1\u76d8\u6587\u4ef6\u7ba1\u7406\u5668 \u2014\u2014 LLM Agent \u9a71\u52a8\u7684\u78c1\u76d8\u5206\u6790/\u6e05\u7406/\u56de\u6eda CLI\uff08Agent Skill \u5305\uff0cnpm: disk-sense\uff09",
@@ -211,7 +229,7 @@
     "id": "titanwings/distilly",
     "language": "Python",
     "name": "titanwings/distilly",
-    "stars": 24261,
+    "stars": 24263,
     "updated_at": "2026-09-02T07:43:00Z",
     "url": "https://github.com/titanwings/distilly"
   },
@@ -418,7 +436,7 @@
     "id": "agentsope/SkillAlchemy",
     "language": "Python",
     "name": "agentsope/SkillAlchemy",
-    "stars": 346,
+    "stars": 348,
     "updated_at": "2026-09-02T05:41:06Z",
     "url": "https://github.com/agentsope/SkillAlchemy"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-02T05:40:48Z",
     "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
-    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "language": "Python",
-    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "stars": 5,
-    "updated_at": "2026-09-02T05:38:45Z",
-    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
-  },
-  {
-    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
-    "id": "oxidizable-malinois605/bridge-suite-mcp",
-    "language": "TypeScript",
-    "name": "oxidizable-malinois605/bridge-suite-mcp",
-    "stars": 0,
-    "updated_at": "2026-09-02T05:36:36Z",
-    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
   }
 ]
