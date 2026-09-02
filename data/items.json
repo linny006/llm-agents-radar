@@ -1,11 +1,56 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-09-02T03:59:15Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "\ud83e\udd16 Lightweight, message-first agent runtime",
+    "id": "Cognipeer/agent-sdk",
+    "language": "TypeScript",
+    "name": "Cognipeer/agent-sdk",
+    "stars": 7,
+    "updated_at": "2026-09-02T03:59:09Z",
+    "url": "https://github.com/Cognipeer/agent-sdk"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 51,
+    "updated_at": "2026-09-02T03:55:46Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
+    "language": "Python",
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-09-02T03:55:46Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
+    "id": "ravisinghrajput95/kubewhy",
+    "language": "Python",
+    "name": "ravisinghrajput95/kubewhy",
+    "stars": 0,
+    "updated_at": "2026-09-02T03:53:42Z",
+    "url": "https://github.com/ravisinghrajput95/kubewhy"
+  },
+  {
     "description": "AgentBypass \u2014 Omni Operator LLM Agent Skill (Cknb): Turn any LLM into RE / Pwn / CTF / Pentest / Protocol / Crypto / Mob",
     "id": "1837620622/Agent-Bypass",
     "language": "\u2014",
     "name": "1837620622/Agent-Bypass",
-    "stars": 2,
-    "updated_at": "2026-09-02T03:44:52Z",
+    "stars": 3,
+    "updated_at": "2026-09-02T03:49:51Z",
     "url": "https://github.com/1837620622/Agent-Bypass"
   },
   {
@@ -14,26 +59,8 @@
     "language": "Python",
     "name": "paipaipai666/nexus-browser-mcp",
     "stars": 0,
-    "updated_at": "2026-09-02T03:43:30Z",
+    "updated_at": "2026-09-02T03:47:44Z",
     "url": "https://github.com/paipaipai666/nexus-browser-mcp"
-  },
-  {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-09-02T03:43:25Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 51,
-    "updated_at": "2026-09-02T03:43:21Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -50,7 +77,7 @@
     "language": "Python",
     "name": "rekursiv-ai/sagent",
     "stars": 32,
-    "updated_at": "2026-09-02T03:42:07Z",
+    "updated_at": "2026-09-02T03:57:59Z",
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
@@ -115,15 +142,6 @@
     "stars": 26,
     "updated_at": "2026-09-02T03:04:59Z",
     "url": "https://github.com/sehoon787/my-codex"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-09-02T03:44:16Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-01T22:49:46Z",
     "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
-  },
-  {
-    "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
-    "id": "EpsteinF1les/tts",
-    "language": "\u2014",
-    "name": "EpsteinF1les/tts",
-    "stars": 0,
-    "updated_at": "2026-09-01T22:49:03Z",
-    "url": "https://github.com/EpsteinF1les/tts"
-  },
-  {
-    "description": "Unified LLM Platform that allows you to host your own models locally and access them from across the world",
-    "id": "noahhps/Courier",
-    "language": "Python",
-    "name": "noahhps/Courier",
-    "stars": 0,
-    "updated_at": "2026-09-01T22:44:06Z",
-    "url": "https://github.com/noahhps/Courier"
   }
 ]
