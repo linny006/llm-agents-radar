@@ -1,12 +1,48 @@
 [
   {
+    "description": "An in-process bridge giving an AI agent real access to a modded Minecraft world - including mod APIs a protocol-level bo",
+    "id": "max-champlin/ghost",
+    "language": "Java",
+    "name": "max-champlin/ghost",
+    "stars": 0,
+    "updated_at": "2026-09-02T18:15:09Z",
+    "url": "https://github.com/max-champlin/ghost"
+  },
+  {
+    "description": "An AI agent harness for hard, exact tasks. Keeps one evolving artifact, spends compute only on decisions that can change",
+    "id": "mystxcal/flourite",
+    "language": "Python",
+    "name": "mystxcal/flourite",
+    "stars": 0,
+    "updated_at": "2026-09-02T18:12:19Z",
+    "url": "https://github.com/mystxcal/flourite"
+  },
+  {
+    "description": "\u8ba9 AI \u5728\u5b89\u5168\u7ea6\u675f\u5185\u6316\u6398 A \u80a1\u56e0\u5b50\uff1a\u4e00\u53e5\u8bdd\u60f3\u6cd5 \u2192 \u53d7\u9650 DSL \u8868\u8fbe\u5f0f \u2192 \u91cf\u5316\u7814\u7a76\u6807\u51c6\u4f53\u68c0 \u2192 \u7b56\u7565\u56de\u6d4b\uff08AFAC \u91d1\u878d\u667a\u80fd\u521b\u65b0\u5927\u8d5b \u00b7 \u91cf\u5316\u6295\u8d44\u65b9\u5411\u53c2\u8d5b\u4f5c\u54c1\uff09",
+    "id": "Yumm-del/factor-lab",
+    "language": "Python",
+    "name": "Yumm-del/factor-lab",
+    "stars": 1,
+    "updated_at": "2026-09-02T18:07:22Z",
+    "url": "https://github.com/Yumm-del/factor-lab"
+  },
+  {
     "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
     "stars": 52,
-    "updated_at": "2026-09-02T17:59:37Z",
+    "updated_at": "2026-09-02T18:06:37Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
+    "id": "ravisinghrajput95/kubewhy",
+    "language": "Python",
+    "name": "ravisinghrajput95/kubewhy",
+    "stars": 0,
+    "updated_at": "2026-09-02T18:04:22Z",
+    "url": "https://github.com/ravisinghrajput95/kubewhy"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -18,6 +54,15 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
+    "description": "Agentic IDE with custom harness",
+    "id": "Paseru/sinew",
+    "language": "Rust",
+    "name": "Paseru/sinew",
+    "stars": 64,
+    "updated_at": "2026-09-02T17:50:03Z",
+    "url": "https://github.com/Paseru/sinew"
+  },
+  {
     "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
     "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
     "language": "JavaScript",
@@ -25,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T17:49:50Z",
     "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
-  },
-  {
-    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
-    "id": "ravisinghrajput95/kubewhy",
-    "language": "Python",
-    "name": "ravisinghrajput95/kubewhy",
-    "stars": 0,
-    "updated_at": "2026-09-02T17:41:48Z",
-    "url": "https://github.com/ravisinghrajput95/kubewhy"
   },
   {
     "description": "Two MIT patches for Nous Research Hermes: stop busy-queue messages merging into one jumbled turn, and optionally run sel",
@@ -45,13 +81,22 @@
     "url": "https://github.com/EauDoon/hermes-parallel-followups"
   },
   {
-    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
-    "id": "wiseria-ai-labs/pie-ai-agent-restore",
+    "description": "Pie \u2014 AI browser agent Chrome extension",
+    "id": "wiseria-ai-labs/pie-ai-agent",
     "language": "TypeScript",
-    "name": "wiseria-ai-labs/pie-ai-agent-restore",
+    "name": "wiseria-ai-labs/pie-ai-agent",
     "stars": 71,
     "updated_at": "2026-09-02T17:39:26Z",
-    "url": "https://github.com/wiseria-ai-labs/pie-ai-agent-restore"
+    "url": "https://github.com/wiseria-ai-labs/pie-ai-agent"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 361,
+    "updated_at": "2026-09-02T18:02:19Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
@@ -70,15 +115,6 @@
     "stars": 11,
     "updated_at": "2026-09-02T17:34:25Z",
     "url": "https://github.com/sagirimo/BioDSH"
-  },
-  {
-    "description": "\u8ba9 AI \u5728\u5b89\u5168\u7ea6\u675f\u5185\u6316\u6398 A \u80a1\u56e0\u5b50\uff1a\u4e00\u53e5\u8bdd\u60f3\u6cd5 \u2192 \u53d7\u9650 DSL \u8868\u8fbe\u5f0f \u2192 \u91cf\u5316\u7814\u7a76\u6807\u51c6\u4f53\u68c0 \u2192 \u7b56\u7565\u56de\u6d4b\uff08AFAC \u91d1\u878d\u667a\u80fd\u521b\u65b0\u5927\u8d5b \u00b7 \u91cf\u5316\u6295\u8d44\u65b9\u5411\u53c2\u8d5b\u4f5c\u54c1\uff09",
-    "id": "Yumm-del/factor-lab",
-    "language": "Python",
-    "name": "Yumm-del/factor-lab",
-    "stars": 1,
-    "updated_at": "2026-09-02T17:27:49Z",
-    "url": "https://github.com/Yumm-del/factor-lab"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -103,7 +139,7 @@
     "id": "titanwings/distilly",
     "language": "Python",
     "name": "titanwings/distilly",
-    "stars": 24280,
+    "stars": 24281,
     "updated_at": "2026-09-02T17:19:37Z",
     "url": "https://github.com/titanwings/distilly"
   },
@@ -279,15 +315,6 @@
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 360,
-    "updated_at": "2026-09-02T17:38:05Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "Reproducible AI4SE agent with multi-tool planning, hybrid RAG, evaluation, and PostgreSQL operations.",
     "id": "Isoldelu/software-engineering-agent",
     "language": "Python",
@@ -320,7 +347,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-09-02T17:50:53Z",
+    "updated_at": "2026-09-02T18:05:44Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -337,7 +364,7 @@
     "id": "EvoMap/evolver",
     "language": "JavaScript",
     "name": "EvoMap/evolver",
-    "stars": 9044,
+    "stars": 9045,
     "updated_at": "2026-09-02T15:12:53Z",
     "url": "https://github.com/EvoMap/evolver"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-02T14:52:10Z",
     "url": "https://github.com/ChanTso/citybuddy"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 126,
-    "updated_at": "2026-09-02T14:15:09Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-09-02T14:14:13Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 15,
-    "updated_at": "2026-09-02T14:11:08Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
   }
 ]
