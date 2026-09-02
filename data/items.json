@@ -1,11 +1,20 @@
 [
   {
+    "description": "Easy-to-use, easy-to-customize, and high-quality secure code review skills for AI agents.",
+    "id": "ivan-sincek/secure-code-review-agent-skills",
+    "language": "\u2014",
+    "name": "ivan-sincek/secure-code-review-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-02T22:14:40Z",
+    "url": "https://github.com/ivan-sincek/secure-code-review-agent-skills"
+  },
+  {
     "description": "Easy-to-use, easy-to-customize, and high-quality threat modeling skills for AI agents.",
     "id": "ivan-sincek/threat-modeling-agent-skills",
     "language": "\u2014",
     "name": "ivan-sincek/threat-modeling-agent-skills",
     "stars": 2,
-    "updated_at": "2026-09-02T22:10:59Z",
+    "updated_at": "2026-09-02T22:16:07Z",
     "url": "https://github.com/ivan-sincek/threat-modeling-agent-skills"
   },
   {
@@ -34,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-09-02T22:02:12Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Easy-to-use, easy-to-customize, and high-quality secure code review skills for AI agents.",
-    "id": "ivan-sincek/secure-code-review-agent-skills",
-    "language": "\u2014",
-    "name": "ivan-sincek/secure-code-review-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-09-02T22:14:40Z",
-    "url": "https://github.com/ivan-sincek/secure-code-review-agent-skills"
   },
   {
     "description": "All-in-one agent harness for Claude Code \u2014 Boss meta-orchestrator, 32 curated agents, 139 curated skills, 2 named workfl",
