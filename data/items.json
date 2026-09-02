@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "justin-zhong/ai-deployment-project",
     "stars": 0,
-    "updated_at": "2026-09-02T18:26:08Z",
+    "updated_at": "2026-09-02T18:42:07Z",
     "url": "https://github.com/justin-zhong/ai-deployment-project"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-09-02T18:41:47Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
+    "id": "Sigmanih/SigmaStudio",
+    "language": "Python",
+    "name": "Sigmanih/SigmaStudio",
+    "stars": 7,
+    "updated_at": "2026-09-02T18:37:11Z",
+    "url": "https://github.com/Sigmanih/SigmaStudio"
+  },
+  {
+    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
+    "id": "ravisinghrajput95/kubewhy",
+    "language": "Python",
+    "name": "ravisinghrajput95/kubewhy",
+    "stars": 0,
+    "updated_at": "2026-09-02T18:37:00Z",
+    "url": "https://github.com/ravisinghrajput95/kubewhy"
+  },
+  {
+    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 5,
+    "updated_at": "2026-09-02T18:31:35Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 126,
+    "updated_at": "2026-09-02T18:30:41Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-09-02T18:30:09Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Agente con tool-calling real (Anthropic API) sobre operaciones mineras: consultas SQL a DuckDB, scoring de riesgo credit",
+    "id": "Rxyxs/chile-mining-ops-agent",
+    "language": "Python",
+    "name": "Rxyxs/chile-mining-ops-agent",
+    "stars": 0,
+    "updated_at": "2026-09-02T18:25:57Z",
+    "url": "https://github.com/Rxyxs/chile-mining-ops-agent"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -63,15 +126,6 @@
     "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
-    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
-    "id": "ravisinghrajput95/kubewhy",
-    "language": "Python",
-    "name": "ravisinghrajput95/kubewhy",
-    "stars": 0,
-    "updated_at": "2026-09-02T18:28:33Z",
-    "url": "https://github.com/ravisinghrajput95/kubewhy"
-  },
-  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -122,7 +176,7 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 361,
-    "updated_at": "2026-09-02T18:02:19Z",
+    "updated_at": "2026-09-02T18:33:25Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -149,7 +203,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 803,
-    "updated_at": "2026-09-02T17:35:25Z",
+    "updated_at": "2026-09-02T18:45:05Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -187,15 +241,6 @@
     "stars": 552,
     "updated_at": "2026-09-02T17:12:27Z",
     "url": "https://github.com/BlockRunAI/Franklin"
-  },
-  {
-    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 5,
-    "updated_at": "2026-09-02T18:27:28Z",
-    "url": "https://github.com/bigduu/Zenith"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-02T15:01:36Z",
     "url": "https://github.com/Heliotrope-dev/finance-agent"
-  },
-  {
-    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
-    "id": "KaletoAI/anima-verse",
-    "language": "Python",
-    "name": "KaletoAI/anima-verse",
-    "stars": 4,
-    "updated_at": "2026-09-02T14:56:34Z",
-    "url": "https://github.com/KaletoAI/anima-verse"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-09-02T14:54:56Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-09-02T15:10:03Z",
-    "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
-    "description": "An OpenEnv-compatible RL environment for autonomous vulnerability patch management, cyber-resilience research, and repro",
-    "id": "Ayush-Kumar0207/PatchCascade-SOC",
-    "language": "Python",
-    "name": "Ayush-Kumar0207/PatchCascade-SOC",
-    "stars": 1,
-    "updated_at": "2026-09-02T14:32:06Z",
-    "url": "https://github.com/Ayush-Kumar0207/PatchCascade-SOC"
-  },
-  {
-    "description": "Agent \u81ea\u52a8\u6d4b\u8bd5\u7cfb\u7edf\uff1aLangGraph + LLM \u7f16\u6392\u7684 API/Web UI \u81ea\u52a8\u5316\u6d4b\u8bd5\uff0c\u4ece OpenAPI \u5951\u7ea6\u751f\u6210\u7528\u4f8b\u3001\u6267\u884c\u6d4b\u8bd5\u3001\u81ea\u52a8\u91cd\u8bd5\u4e0e\u7f3a\u9677\u5f52\u56e0\uff0c\u4ea7\u51fa\u53ef\u89c6\u5316\u62a5\u544a",
-    "id": "lefan17/agent-test-hub",
-    "language": "Python",
-    "name": "lefan17/agent-test-hub",
-    "stars": 1,
-    "updated_at": "2026-09-02T14:20:00Z",
-    "url": "https://github.com/lefan17/agent-test-hub"
   }
 ]
