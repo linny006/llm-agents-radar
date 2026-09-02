@@ -1,12 +1,39 @@
 [
   {
-    "description": "A curated list of OpenClaw resources, tools, skills, tutorials & articles. OpenClaw (formerly Moltbot / Clawdbot) \u2014 open",
-    "id": "Anil-matcha/awesome-agent-apis",
+    "description": "Minimal FastAPI-based LLM agent API with pluggable providers, designed for clarity, testability, and reviewer-friendly s",
+    "id": "melika-kheirieh/llm-agent-api",
     "language": "Python",
-    "name": "Anil-matcha/awesome-agent-apis",
+    "name": "melika-kheirieh/llm-agent-api",
+    "stars": 2,
+    "updated_at": "2026-09-02T15:37:08Z",
+    "url": "https://github.com/melika-kheirieh/llm-agent-api"
+  },
+  {
+    "description": "Reproducible AI4SE agent with multi-tool planning, hybrid RAG, evaluation, and PostgreSQL operations.",
+    "id": "Isoldelu/software-engineering-agent",
+    "language": "Python",
+    "name": "Isoldelu/software-engineering-agent",
+    "stars": 0,
+    "updated_at": "2026-09-02T15:34:21Z",
+    "url": "https://github.com/Isoldelu/software-engineering-agent"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 52,
+    "updated_at": "2026-09-02T15:39:58Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "A curated list of OpenClaw resources, tools, skills, tutorials & articles. OpenClaw (formerly Moltbot / Clawdbot) \u2014 open",
+    "id": "Anil-matcha/awesome-openclaw",
+    "language": "\u2014",
+    "name": "Anil-matcha/awesome-openclaw",
     "stars": 1,
     "updated_at": "2026-09-02T15:30:00Z",
-    "url": "https://github.com/Anil-matcha/awesome-agent-apis"
+    "url": "https://github.com/Anil-matcha/awesome-openclaw"
   },
   {
     "description": "\u900f\u660e\u53ef\u5ba1\u8ba1\u7684\u672c\u5730\u667a\u80fd\u4f53\u7ec8\u7aef\uff1a\u5bf9\u5f00\u6e90 agent \u6846\u67b6\u505a\u5b89\u5168\u5ba1\u8ba1\u4e0e\u52a0\u56fa\uff08RCE/\u6c99\u76d2\u7ed5\u8fc7/\u6ce8\u5165\uff09\uff0c\u5e76\u4ee5 50 \u6761\u6ce8\u5165\u57fa\u51c6 \u00d7 37 \u6761\u80fd\u529b\u57fa\u51c6\u53cc\u7ef4\u5ea6\u91cf\u5b89\u5168\u8fb9\u754c",
@@ -32,7 +59,7 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 359,
-    "updated_at": "2026-09-02T15:20:25Z",
+    "updated_at": "2026-09-02T15:37:57Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -72,15 +99,6 @@
     "url": "https://github.com/EvoMap/evolver"
   },
   {
-    "description": "Reproducible AI4SE agent with multi-tool planning, hybrid RAG, evaluation, and PostgreSQL operations.",
-    "id": "Isoldelu/software-engineering-agent",
-    "language": "Python",
-    "name": "Isoldelu/software-engineering-agent",
-    "stars": 0,
-    "updated_at": "2026-09-02T15:12:45Z",
-    "url": "https://github.com/Isoldelu/software-engineering-agent"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -97,15 +115,6 @@
     "stars": 5,
     "updated_at": "2026-09-02T15:10:12Z",
     "url": "https://github.com/muthuishere/toolnexus"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 52,
-    "updated_at": "2026-09-02T15:20:09Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
@@ -176,7 +185,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 555,
-    "updated_at": "2026-09-02T14:48:59Z",
+    "updated_at": "2026-09-02T15:40:55Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-02T13:35:46Z",
     "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-09-02T13:34:56Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
   }
 ]
