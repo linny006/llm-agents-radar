@@ -1,21 +1,12 @@
 [
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
     "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-09-02T11:44:29Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "\u7b28\u529e\u6cd5\u5b66 Agent\uff1a\u4ece 60 \u884c\u4ee3\u7801\u5230\u4e00\u4e2a\u5b8c\u6574\u7684 harness\u3002Learn Agent the Hard Way \u2014 \u4e2d\u6587\u7535\u5b50\u4e66\uff0c\u5168\u4e66 32 \u4e2a\u7ec3\u4e60\u5df2\u5b8c\u7ed3\u3002",
-    "id": "Leihb/learn-agent-the-hard-way",
-    "language": "Go",
-    "name": "Leihb/learn-agent-the-hard-way",
-    "stars": 32,
-    "updated_at": "2026-09-02T11:44:07Z",
-    "url": "https://github.com/Leihb/learn-agent-the-hard-way"
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-09-02T11:58:28Z",
+    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
@@ -23,8 +14,26 @@
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
     "stars": 52,
-    "updated_at": "2026-09-02T11:43:25Z",
+    "updated_at": "2026-09-02T11:51:47Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "\u7b28\u529e\u6cd5\u5b66 Agent\uff1a\u4ece 60 \u884c\u4ee3\u7801\u5230\u4e00\u4e2a\u5b8c\u6574\u7684 harness\u3002Learn Agent the Hard Way \u2014 \u4e2d\u6587\u7535\u5b50\u4e66\uff0c\u5168\u4e66 32 \u4e2a\u7ec3\u4e60\u5df2\u5b8c\u7ed3\u3002",
+    "id": "Leihb/learn-agent-the-hard-way",
+    "language": "Go",
+    "name": "Leihb/learn-agent-the-hard-way",
+    "stars": 32,
+    "updated_at": "2026-09-02T11:50:51Z",
+    "url": "https://github.com/Leihb/learn-agent-the-hard-way"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-09-02T11:56:58Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "The Agent Knowledge Cycle as a single behavioral rules file \u2014 install all six phases without the six standalone skills.",
@@ -43,15 +52,6 @@
     "stars": 13,
     "updated_at": "2026-09-02T11:41:50Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-09-02T11:41:50Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
@@ -86,7 +86,7 @@
     "language": "Rust",
     "name": "citizenhicks/mobius",
     "stars": 1,
-    "updated_at": "2026-09-02T11:30:34Z",
+    "updated_at": "2026-09-02T11:49:36Z",
     "url": "https://github.com/citizenhicks/mobius"
   },
   {
@@ -149,7 +149,7 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 352,
-    "updated_at": "2026-09-02T11:32:46Z",
+    "updated_at": "2026-09-02T11:53:28Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -194,7 +194,7 @@
     "language": "Go",
     "name": "sky-valley/pi",
     "stars": 44,
-    "updated_at": "2026-09-02T10:25:36Z",
+    "updated_at": "2026-09-02T11:57:14Z",
     "url": "https://github.com/sky-valley/pi"
   },
   {

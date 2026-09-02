@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-02 11:45 UTC
+> ⏰ Last updated: 2026-09-02 12:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 9 | Python | 2026-09-02 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 2 | [Leihb/learn-agent-the-hard-way](https://github.com/Leihb/learn-agent-the-hard-way) | 32 | Go | 2026-09-02 | 笨办法学 Agent：从 60 行代码到一个完整的 harness。Learn Agent the Hard Way — 中文电子书，全书 32 个练习已完结。 |
-| 3 | [555cute/r20-quantum-trader](https://github.com/555cute/r20-quantum-trader) | 52 | Python | 2026-09-02 | ⚡ LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI  |
-| 4 | [shimo4228/akc-cycle](https://github.com/shimo4228/akc-cycle) | 1 | Python | 2026-09-02 | The Agent Knowledge Cycle as a single behavioral rules file — install all six phases without the six standalone skills. |
-| 5 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 13 | Go | 2026-09-02 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
-| 6 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-09-02 | A productive AI coworker that learns, self-improves, and ships work. |
+| 1 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-09-02 | A productive AI coworker that learns, self-improves, and ships work. |
+| 2 | [555cute/r20-quantum-trader](https://github.com/555cute/r20-quantum-trader) | 52 | Python | 2026-09-02 | ⚡ LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI  |
+| 3 | [Leihb/learn-agent-the-hard-way](https://github.com/Leihb/learn-agent-the-hard-way) | 32 | Go | 2026-09-02 | 笨办法学 Agent：从 60 行代码到一个完整的 harness。Learn Agent the Hard Way — 中文电子书，全书 32 个练习已完结。 |
+| 4 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 9 | Python | 2026-09-02 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 5 | [shimo4228/akc-cycle](https://github.com/shimo4228/akc-cycle) | 1 | Python | 2026-09-02 | The Agent Knowledge Cycle as a single behavioral rules file — install all six phases without the six standalone skills. |
+| 6 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 13 | Go | 2026-09-02 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
 | 7 | [ChaoyuWang04/Syncopate_Async_AgenticRL](https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL) | 1 | Python | 2026-09-02 | Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations — quantifying  |
 | 8 | [Ayush-Kumar0207/PatchCascade-SOC](https://github.com/Ayush-Kumar0207/PatchCascade-SOC) | 1 | Python | 2026-09-02 | OpenEnv-compliant RL environment for autonomous vulnerability patch management. Trains AI agents to balance security pat |
 | 9 | [kangwoo/aimon-core](https://github.com/kangwoo/aimon-core) | 0 | Java | 2026-09-02 | A ReAct agent framework for Java — build autonomous LLM-powered agents, embeddable in any Java application |
