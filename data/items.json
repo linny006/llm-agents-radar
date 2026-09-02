@@ -1,12 +1,48 @@
 [
   {
+    "description": "Monitor your local AI agents. See what files they can reach, what networks they communicate with, and stop them if requi",
+    "id": "farikonsec/topgent",
+    "language": "Rust",
+    "name": "farikonsec/topgent",
+    "stars": 0,
+    "updated_at": "2026-09-02T19:57:23Z",
+    "url": "https://github.com/farikonsec/topgent"
+  },
+  {
     "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 362,
-    "updated_at": "2026-09-02T19:54:32Z",
+    "updated_at": "2026-09-02T19:57:17Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "OmniAgent (ICML 2026): the first native omni-modal agent for active video perception \u2014 a 7B agent that beats Qwen2.5-VL-",
+    "id": "HarryHsing/OmniAgent",
+    "language": "Python",
+    "name": "HarryHsing/OmniAgent",
+    "stars": 70,
+    "updated_at": "2026-09-02T19:57:00Z",
+    "url": "https://github.com/HarryHsing/OmniAgent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-09-02T19:49:43Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-09-02T19:59:05Z",
+    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Minimal FastAPI-based LLM agent API with pluggable providers, designed for clarity, testability, and reviewer-friendly s",
@@ -104,7 +140,7 @@
     "language": "Rust",
     "name": "metric-space-ai/greppy",
     "stars": 8,
-    "updated_at": "2026-09-02T19:47:02Z",
+    "updated_at": "2026-09-02T20:00:18Z",
     "url": "https://github.com/metric-space-ai/greppy"
   },
   {
@@ -115,15 +151,6 @@
     "stars": 7124,
     "updated_at": "2026-09-02T19:11:55Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 6,
-    "updated_at": "2026-09-02T19:49:21Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2a\u4eba A \u80a1\u7814\u7a76\u51b3\u7b56\u5de5\u4f5c\u53f0 \u00b7 \u6848\u5377\u5f0f\u7814\u7a76\u95ed\u73af\uff1a\u8fdb\u53e3\u5224\u65ad\u2192\u8bc1\u4f2a\u2192\u590d\u76d8\u2192\u8bb0\u5fc6\u3002\u4eba\u505a\u51b3\u7b56\uff0cAI \u505a\u5e7f\u5ea6/\u8bc1\u4f2a/\u98ce\u9669\u3002A local-first personal A-share research OS.",
@@ -203,7 +230,7 @@
     "language": "Python",
     "name": "Rxyxs/chile-mining-ops-agent",
     "stars": 0,
-    "updated_at": "2026-09-02T18:25:57Z",
+    "updated_at": "2026-09-02T19:56:22Z",
     "url": "https://github.com/Rxyxs/chile-mining-ops-agent"
   },
   {
@@ -324,15 +351,6 @@
     "url": "https://github.com/titanwings/distilly"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-09-02T19:49:43Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
     "id": "BlockRunAI/Franklin",
     "language": "TypeScript",
@@ -376,15 +394,6 @@
     "stars": 12,
     "updated_at": "2026-09-02T16:41:45Z",
     "url": "https://github.com/cdavid817/awesome-agent-tutorial"
-  },
-  {
-    "description": "Monitor your local AI agents. See what files they can reach, what networks they communicate with, and stop them if requi",
-    "id": "farikonsec/topgent",
-    "language": "Rust",
-    "name": "farikonsec/topgent",
-    "stars": 0,
-    "updated_at": "2026-09-02T16:37:17Z",
-    "url": "https://github.com/farikonsec/topgent"
   },
   {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-02T15:34:21Z",
     "url": "https://github.com/Isoldelu/software-engineering-agent"
-  },
-  {
-    "description": "A curated list of OpenClaw resources, tools, skills, tutorials & articles. OpenClaw (formerly Moltbot / Clawdbot) \u2014 open",
-    "id": "Anil-matcha/awesome-openclaw",
-    "language": "\u2014",
-    "name": "Anil-matcha/awesome-openclaw",
-    "stars": 1,
-    "updated_at": "2026-09-02T15:30:00Z",
-    "url": "https://github.com/Anil-matcha/awesome-openclaw"
   }
 ]
