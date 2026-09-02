@@ -1,12 +1,12 @@
 [
   {
-    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
-    "id": "kangwoo/aimon-core",
-    "language": "Java",
-    "name": "kangwoo/aimon-core",
+    "description": "AstrBot \u63d2\u4ef6\uff1a\u8ba9 bot \u81ea\u4e3b\u901b\u300c\u7231\u8ba8\u8bba\u300d\uff08aitaolun.net\uff09AI \u8d34\u5427 \u2014\u2014 \u5f00\u5e16 / \u56de\u5e16 / \u9876\u8e29 / \u79c1\u4fe1 / \u5427\u52a1\uff0c\u5e26\u672c\u5730\u9884\u68c0\u4e0e\u53d1\u5e03\u95f8\u95e8",
+    "id": "Whereis-Alice/astrbot_plugin_aitaolun",
+    "language": "Python",
+    "name": "Whereis-Alice/astrbot_plugin_aitaolun",
     "stars": 0,
-    "updated_at": "2026-09-02T09:28:21Z",
-    "url": "https://github.com/kangwoo/aimon-core"
+    "updated_at": "2026-09-02T09:43:45Z",
+    "url": "https://github.com/Whereis-Alice/astrbot_plugin_aitaolun"
   },
   {
     "description": "Minimal FastAPI-based LLM agent API with pluggable providers, designed for clarity, testability, and reviewer-friendly s",
@@ -14,8 +14,26 @@
     "language": "Python",
     "name": "melika-kheirieh/llm-agent-api",
     "stars": 2,
-    "updated_at": "2026-09-02T09:29:49Z",
+    "updated_at": "2026-09-02T09:42:57Z",
     "url": "https://github.com/melika-kheirieh/llm-agent-api"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-09-02T09:34:49Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-09-02T09:28:21Z",
+    "url": "https://github.com/kangwoo/aimon-core"
   },
   {
     "description": "5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute",
@@ -76,7 +94,7 @@
     "id": "EvoMap/evolver",
     "language": "JavaScript",
     "name": "EvoMap/evolver",
-    "stars": 9042,
+    "stars": 9043,
     "updated_at": "2026-09-02T09:05:05Z",
     "url": "https://github.com/EvoMap/evolver"
   },
@@ -85,7 +103,7 @@
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 216,
+    "stars": 217,
     "updated_at": "2026-09-02T09:02:10Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
@@ -130,18 +148,9 @@
     "id": "neopen/story-shot-agent",
     "language": "Python",
     "name": "neopen/story-shot-agent",
-    "stars": 158,
+    "stars": 159,
     "updated_at": "2026-09-02T08:49:45Z",
     "url": "https://github.com/neopen/story-shot-agent"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-09-02T08:52:06Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -176,7 +185,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-09-02T08:40:11Z",
+    "updated_at": "2026-09-02T09:44:37Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -333,15 +342,6 @@
     "url": "https://github.com/NUS-Program-Verification/AutoRocq"
   },
   {
-    "description": "AstrBot \u63d2\u4ef6\uff1a\u8ba9 bot \u81ea\u4e3b\u901b\u300c\u7231\u8ba8\u8bba\u300d\uff08aitaolun.net\uff09AI \u8d34\u5427 \u2014\u2014 \u5f00\u5e16 / \u56de\u5e16 / \u9876\u8e29 / \u79c1\u4fe1 / \u5427\u52a1\uff0c\u5e26\u672c\u5730\u9884\u68c0\u4e0e\u53d1\u5e03\u95f8\u95e8",
-    "id": "Whereis-Alice/astrbot_plugin_aitaolun",
-    "language": "Python",
-    "name": "Whereis-Alice/astrbot_plugin_aitaolun",
-    "stars": 0,
-    "updated_at": "2026-09-02T06:16:26Z",
-    "url": "https://github.com/Whereis-Alice/astrbot_plugin_aitaolun"
-  },
-  {
     "description": "A lab protocol for coding agents. Freeze baselines, run hypotheses in isolated worktrees, reject failures and validate i",
     "id": "forger-labs-hq/researchforge",
     "language": "Python",
@@ -436,7 +436,7 @@
     "id": "agentsope/SkillAlchemy",
     "language": "Python",
     "name": "agentsope/SkillAlchemy",
-    "stars": 348,
+    "stars": 349,
     "updated_at": "2026-09-02T05:41:06Z",
     "url": "https://github.com/agentsope/SkillAlchemy"
   },
