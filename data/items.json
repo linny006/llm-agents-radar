@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 26,
-    "updated_at": "2026-09-02T04:44:57Z",
+    "updated_at": "2026-09-02T04:49:03Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -18,7 +18,7 @@
     "url": "https://github.com/ravisinghrajput95/kubewhy"
   },
   {
-    "description": "Let an LLM propose UPDATE/DELETE, run it for real inside a transaction, measure the actual before/after diff, and always",
+    "description": "[Moved to airframe] Let an LLM propose UPDATE/DELETE, run it for real inside a transaction, measure the actual before/af",
     "id": "hyuga611/llm-safe-sql",
     "language": "TypeScript",
     "name": "hyuga611/llm-safe-sql",
@@ -122,7 +122,7 @@
     "language": "Python",
     "name": "rekursiv-ai/sagent",
     "stars": 32,
-    "updated_at": "2026-09-02T04:02:20Z",
+    "updated_at": "2026-09-02T04:48:08Z",
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
