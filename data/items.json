@@ -1,11 +1,29 @@
 [
   {
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "id": "lsdefine/GenericAgent",
+    "language": "Python",
+    "name": "lsdefine/GenericAgent",
+    "stars": 14100,
+    "updated_at": "2026-09-02T00:20:31Z",
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
+    "id": "Sigmanih/SigmaStudio",
+    "language": "Python",
+    "name": "Sigmanih/SigmaStudio",
+    "stars": 7,
+    "updated_at": "2026-09-02T00:16:04Z",
+    "url": "https://github.com/Sigmanih/SigmaStudio"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-02T00:13:48Z",
+    "updated_at": "2026-09-02T00:25:46Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -320,7 +338,7 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 346,
-    "updated_at": "2026-09-01T23:12:23Z",
+    "updated_at": "2026-09-02T00:28:45Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 11,
     "updated_at": "2026-09-01T21:06:35Z",
     "url": "https://github.com/agent-axiom/agent-arch"
-  },
-  {
-    "description": "Self-evolving autonomous loops for Claude Code. A Stop-hook engine that iterates an agent toward a verifiable goal \u2014 evo",
-    "id": "betmoar/cc-repete-plugin",
-    "language": "Shell",
-    "name": "betmoar/cc-repete-plugin",
-    "stars": 0,
-    "updated_at": "2026-09-01T21:05:26Z",
-    "url": "https://github.com/betmoar/cc-repete-plugin"
-  },
-  {
-    "description": "OpenAI-compatible proxy enforcing SKILL.state (arXiv:2608.26263) \u2014 bounded O(1) prompts, O(T) total tokens for long-hori",
-    "id": "NosytLabs/skillstate-proxy",
-    "language": "TypeScript",
-    "name": "NosytLabs/skillstate-proxy",
-    "stars": 2,
-    "updated_at": "2026-09-01T20:51:01Z",
-    "url": "https://github.com/NosytLabs/skillstate-proxy"
   }
 ]
