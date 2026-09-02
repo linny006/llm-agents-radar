@@ -1,5 +1,32 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-09-02T11:26:59Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-09-02T11:22:32Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-09-02T11:25:31Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "AstrBot \u63d2\u4ef6\uff1a\u8ba9 bot \u81ea\u4e3b\u901b\u300c\u7231\u8ba8\u8bba\u300d\uff08aitaolun.net\uff09AI \u8d34\u5427 \u2014\u2014 \u5f00\u5e16 / \u56de\u5e16 / \u9876\u8e29 / \u79c1\u4fe1 / \u5427\u52a1\uff0c\u5e26\u672c\u5730\u9884\u68c0\u4e0e\u53d1\u5e03\u95f8\u95e8",
     "id": "Whereis-Alice/astrbot_plugin_aitaolun",
     "language": "Python",
@@ -7,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T11:08:47Z",
     "url": "https://github.com/Whereis-Alice/astrbot_plugin_aitaolun"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-09-02T11:08:43Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -45,15 +63,6 @@
     "url": "https://github.com/areal-project/AReaL"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-09-02T11:02:18Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "Cognitive OS v3.0 \u2014 Universal AI agent operating system specification. 16-section cognitive architecture for Claude Code",
     "id": "aegntic/cognitive-os",
     "language": "HTML",
@@ -77,7 +86,7 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 352,
-    "updated_at": "2026-09-02T10:45:55Z",
+    "updated_at": "2026-09-02T11:20:46Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -158,7 +167,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 803,
-    "updated_at": "2026-09-02T10:11:24Z",
+    "updated_at": "2026-09-02T11:21:49Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-02T06:46:29Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "\u4ece\u96f6\u5b9e\u73b0 AI \u6838\u5fc3\u7ec4\u4ef6\uff08mini-* \u7cfb\u5217\uff09\uff1aTransformer / Qwen3 / BPE / Agent / RAG / Vector DB\u3002Rebuild AI building blocks from scratch.",
-    "id": "xbsheng/ai-from-scratch",
-    "language": "Python",
-    "name": "xbsheng/ai-from-scratch",
-    "stars": 1,
-    "updated_at": "2026-09-02T06:44:13Z",
-    "url": "https://github.com/xbsheng/ai-from-scratch"
   }
 ]
