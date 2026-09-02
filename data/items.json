@@ -1,12 +1,39 @@
 [
   {
+    "description": "An OpenEnv-compatible RL environment for autonomous vulnerability patch management, cyber-resilience research, and repro",
+    "id": "Ayush-Kumar0207/PatchCascade-SOC",
+    "language": "Python",
+    "name": "Ayush-Kumar0207/PatchCascade-SOC",
+    "stars": 1,
+    "updated_at": "2026-09-02T14:32:06Z",
+    "url": "https://github.com/Ayush-Kumar0207/PatchCascade-SOC"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 52,
+    "updated_at": "2026-09-02T14:23:29Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
     "description": "ToolAgents is a lightweight and flexible framework for creating function-calling agents with various language models and",
     "id": "Maximilian-Winter/ToolAgents",
     "language": "Python",
     "name": "Maximilian-Winter/ToolAgents",
     "stars": 39,
-    "updated_at": "2026-09-02T14:23:20Z",
+    "updated_at": "2026-09-02T14:41:02Z",
     "url": "https://github.com/Maximilian-Winter/ToolAgents"
+  },
+  {
+    "description": "Monitor your local AI agents. See what they can reach, and stop them if needed.",
+    "id": "farikonsec/topgent",
+    "language": "Rust",
+    "name": "farikonsec/topgent",
+    "stars": 0,
+    "updated_at": "2026-09-02T14:22:00Z",
+    "url": "https://github.com/farikonsec/topgent"
   },
   {
     "description": "Agent \u81ea\u52a8\u6d4b\u8bd5\u7cfb\u7edf\uff1aLangGraph + LLM \u7f16\u6392\u7684 API/Web UI \u81ea\u52a8\u5316\u6d4b\u8bd5\uff0c\u4ece OpenAPI \u5951\u7ea6\u751f\u6210\u7528\u4f8b\u3001\u6267\u884c\u6d4b\u8bd5\u3001\u81ea\u52a8\u91cd\u8bd5\u4e0e\u7f3a\u9677\u5f52\u56e0\uff0c\u4ea7\u51fa\u53ef\u89c6\u5316\u62a5\u544a",
@@ -23,8 +50,17 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 357,
-    "updated_at": "2026-09-02T14:16:32Z",
+    "updated_at": "2026-09-02T14:40:00Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
+    "id": "ChanTso/citybuddy",
+    "language": "Java",
+    "name": "ChanTso/citybuddy",
+    "stars": 0,
+    "updated_at": "2026-09-02T14:16:05Z",
+    "url": "https://github.com/ChanTso/citybuddy"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -198,15 +234,6 @@
     "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
   },
   {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 52,
-    "updated_at": "2026-09-02T14:23:29Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
-  },
-  {
     "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
     "id": "HELLOCODINGTR/AgentForge",
     "language": "\u2014",
@@ -324,15 +351,6 @@
     "url": "https://github.com/muhzars/Agent.cpp"
   },
   {
-    "description": "An OpenEnv-compatible RL environment for autonomous vulnerability patch management, cyber-resilience research, and repro",
-    "id": "Ayush-Kumar0207/PatchCascade-SOC",
-    "language": "Python",
-    "name": "Ayush-Kumar0207/PatchCascade-SOC",
-    "stars": 1,
-    "updated_at": "2026-09-02T14:20:39Z",
-    "url": "https://github.com/Ayush-Kumar0207/PatchCascade-SOC"
-  },
-  {
     "description": "\u7b28\u529e\u6cd5\u5b66 Agent\uff1a\u4ece 60 \u884c\u4ee3\u7801\u5230\u4e00\u4e2a\u5b8c\u6574\u7684 harness\u3002Learn Agent the Hard Way \u2014 \u4e2d\u6587\u7535\u5b50\u4e66\uff0c\u5168\u4e66 32 \u4e2a\u7ec3\u4e60\u5df2\u5b8c\u7ed3\u3002",
     "id": "Leihb/learn-agent-the-hard-way",
     "language": "Go",
@@ -360,15 +378,6 @@
     "url": "https://github.com/amineeng/scraping-browser"
   },
   {
-    "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
-    "id": "ChanTso/citybuddy",
-    "language": "Java",
-    "name": "ChanTso/citybuddy",
-    "stars": 0,
-    "updated_at": "2026-09-02T14:16:05Z",
-    "url": "https://github.com/ChanTso/citybuddy"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -376,6 +385,15 @@
     "stars": 1,
     "updated_at": "2026-09-02T13:23:51Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4405,
+    "updated_at": "2026-09-02T13:23:29Z",
+    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-02T13:10:38Z",
     "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-09-02T13:07:23Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-09-02T13:04:55Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
   }
 ]
