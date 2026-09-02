@@ -1,8 +1,44 @@
 [
   {
+    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 210,
+    "updated_at": "2026-09-02T19:13:21Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7124,
+    "updated_at": "2026-09-02T19:11:55Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Easy-to-use, easy-to-customize, and high-quality secure code review skills for AI agents.",
+    "id": "ivan-sincek/secure-code-review-agent-skills",
+    "language": "\u2014",
+    "name": "ivan-sincek/secure-code-review-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-02T19:06:03Z",
+    "url": "https://github.com/ivan-sincek/secure-code-review-agent-skills"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-09-02T19:13:45Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
     "description": "AI SRE agent that fixes Kubernetes pods via pull request, never kubectl. The model reads and proposes; deterministic cod",
     "id": "sneha4175/k8s-guard",
-    "language": "\u2014",
+    "language": "Python",
     "name": "sneha4175/k8s-guard",
     "stars": 0,
     "updated_at": "2026-09-02T18:59:39Z",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "Zeeechenn/MingCang",
     "stars": 12,
-    "updated_at": "2026-09-02T18:59:42Z",
+    "updated_at": "2026-09-02T19:06:59Z",
     "url": "https://github.com/Zeeechenn/MingCang"
   },
   {
@@ -34,15 +70,6 @@
     "stars": 5,
     "updated_at": "2026-09-02T18:51:56Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 210,
-    "updated_at": "2026-09-02T18:49:04Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
     "description": "LLM application engineering projects: RAG, LangGraph Agents, MCP, evaluation, FastAPI, Redis, and deployment.",
@@ -68,7 +95,7 @@
     "language": "Python",
     "name": "Sigmanih/SigmaStudio",
     "stars": 7,
-    "updated_at": "2026-09-02T18:37:11Z",
+    "updated_at": "2026-09-02T19:11:21Z",
     "url": "https://github.com/Sigmanih/SigmaStudio"
   },
   {
@@ -124,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T18:20:16Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7124,
-    "updated_at": "2026-09-02T18:16:04Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "An AI agent harness for hard, exact tasks. Keeps one evolving artifact, spends compute only on decisions that can change",
@@ -212,7 +230,7 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 361,
-    "updated_at": "2026-09-02T18:33:25Z",
+    "updated_at": "2026-09-02T19:05:53Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -239,7 +257,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 803,
-    "updated_at": "2026-09-02T18:48:51Z",
+    "updated_at": "2026-09-02T19:02:02Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -304,15 +322,6 @@
     "stars": 37,
     "updated_at": "2026-09-02T16:51:20Z",
     "url": "https://github.com/kriss-b/llm-iso27001"
-  },
-  {
-    "description": "Easy-to-use, easy-to-customize, and high-quality secure code review skills for AI agents.",
-    "id": "ivan-sincek/secure-code-review-agent-skills",
-    "language": "\u2014",
-    "name": "ivan-sincek/secure-code-review-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-09-02T16:48:30Z",
-    "url": "https://github.com/ivan-sincek/secure-code-review-agent-skills"
   },
   {
     "description": "Cron scheduling for the DeepSeek Harness \u2014 bounded tasks with calendar & interval rules, delivered to live agents",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-02T18:05:44Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "\ud83d\udc3e Your personal agent command center. Local, packaged, one command \u2014 CLI + web UI, Docker sandbox, live browser control.",
-    "id": "MagnusDot/AClaw",
-    "language": "TypeScript",
-    "name": "MagnusDot/AClaw",
-    "stars": 0,
-    "updated_at": "2026-09-02T15:16:34Z",
-    "url": "https://github.com/MagnusDot/AClaw"
   }
 ]
