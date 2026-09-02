@@ -1,5 +1,23 @@
 [
   {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-09-02T01:39:12Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "Connect Claude Code, Cursor, and Codex to Workflow (workflow.games): your AI coding agent plans requirements, files bugs",
+    "id": "LumioGames/workflow-plugin",
+    "language": "JavaScript",
+    "name": "LumioGames/workflow-plugin",
+    "stars": 2,
+    "updated_at": "2026-09-02T01:38:25Z",
+    "url": "https://github.com/LumioGames/workflow-plugin"
+  },
+  {
     "description": "Drop-in MCP server that records real per-session agent cost/token/tool metrics and renders a Context Window Explorer ove",
     "id": "sohaibsohail98/mcp-context-inspector",
     "language": "Python",
@@ -25,15 +43,6 @@
     "stars": 9,
     "updated_at": "2026-09-02T01:27:02Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-09-02T01:09:55Z",
-    "url": "https://github.com/JSL107/personal_agents"
   },
   {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
@@ -365,7 +374,7 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 346,
-    "updated_at": "2026-09-02T01:14:55Z",
+    "updated_at": "2026-09-02T01:37:57Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-01T22:00:10Z",
     "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
-    "id": "WP2-Danikusuma/AgentX",
-    "language": "HTML",
-    "name": "WP2-Danikusuma/AgentX",
-    "stars": 2,
-    "updated_at": "2026-09-01T21:59:34Z",
-    "url": "https://github.com/WP2-Danikusuma/AgentX"
   }
 ]
