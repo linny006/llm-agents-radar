@@ -1,5 +1,41 @@
 [
   {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-09-03T15:12:11Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
+    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "language": "Python",
+    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "stars": 1,
+    "updated_at": "2026-09-03T15:13:11Z",
+    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
+  },
+  {
+    "description": "Pie \u2014 AI browser agent Chrome extension",
+    "id": "wiseria-ai-labs/pie-ai-agent",
+    "language": "TypeScript",
+    "name": "wiseria-ai-labs/pie-ai-agent",
+    "stars": 71,
+    "updated_at": "2026-09-03T15:02:47Z",
+    "url": "https://github.com/wiseria-ai-labs/pie-ai-agent"
+  },
+  {
+    "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
+    "id": "SugarMGP/MumuBot",
+    "language": "Go",
+    "name": "SugarMGP/MumuBot",
+    "stars": 22,
+    "updated_at": "2026-09-03T15:00:47Z",
+    "url": "https://github.com/SugarMGP/MumuBot"
+  },
+  {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
     "id": "kangkukjin/indiebizOS",
     "language": "Python",
@@ -7,15 +43,6 @@
     "stars": 4,
     "updated_at": "2026-09-03T14:54:58Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-09-03T14:57:19Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -31,7 +58,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 566,
+    "stars": 565,
     "updated_at": "2026-09-03T14:46:42Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -284,7 +311,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4409,
-    "updated_at": "2026-09-03T14:43:55Z",
+    "updated_at": "2026-09-03T15:07:49Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -365,7 +392,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-03T14:42:14Z",
+    "updated_at": "2026-09-03T15:05:00Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-03T11:40:28Z",
     "url": "https://github.com/muthuishere/toolnexus"
-  },
-  {
-    "description": "Self-hosted multi-tenant agent platform for teams: skills, knowledge, API contracts and MCP servers live in the database",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 22,
-    "updated_at": "2026-09-03T11:32:57Z",
-    "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
-    "description": "a local Windows AI assistant powered by Ollama. NOVA inspects and controls your system through native, permission-gated ",
-    "id": "mccedddy/nova",
-    "language": "Python",
-    "name": "mccedddy/nova",
-    "stars": 0,
-    "updated_at": "2026-09-03T11:18:36Z",
-    "url": "https://github.com/mccedddy/nova"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-09-03T11:10:52Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
   }
 ]
