@@ -1,5 +1,50 @@
 [
   {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-09-03T12:05:24Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "\u4e2d\u82f1\u53cc\u8bed\u77e5\u8bc6\u5e93\uff0c\u4e3a\u63a8\u8350\u7cfb\u7edf\u4e0e\u8ba1\u7b97\u5e7f\u544a auto research \u63d0\u4f9b\u53ef\u7cbe\u786e\u5f15\u7528\u7684\u6280\u672f\u8d44\u6599 \u2014 \u53ec\u56de/\u6392\u5e8f/\u91cd\u6392\u3001\u751f\u6210\u5f0f\u63a8\u8350\uff08\u8bed\u4e49 ID\u3001HSTU\u3001OneRec\u3001EGA\u3001OneRec-Think\u3001RecZero\u3001\u6269\u6563\u6a21\u578b\uff09\u3001\u8ba1\u7b97\u5e7f\u544a\uff08GFP",
+    "id": "Haozhe-Xing/fun-rec-mdbook",
+    "language": "HTML",
+    "name": "Haozhe-Xing/fun-rec-mdbook",
+    "stars": 5,
+    "updated_at": "2026-09-03T12:04:17Z",
+    "url": "https://github.com/Haozhe-Xing/fun-rec-mdbook"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7138,
+    "updated_at": "2026-09-03T12:03:55Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "\u300a\u4f01\u4e1a\u7ea7 Agent \u4ece\u5165\u95e8\u5230\u4e13\u5bb6\uff082026\u7248\uff09\u300b\u2014\u2014\u4ece\u5355 Agent \u6838\u5fc3\u673a\u5236\u5230\u591a Agent \u4e0e\u4f01\u4e1a\u843d\u5730\u7684\u5de5\u7a0b\u5316\u5b9e\u6218\u6559\u7a0b\uff0c\u914d\u5957\u53ef\u8fd0\u884c\u8d2f\u7a7f\u9879\u76ee\u4e0e CI \u9a8c\u8bc1\u95e8\u7981\u3002",
+    "id": "cdavid817/awesome-agent-tutorial",
+    "language": "Python",
+    "name": "cdavid817/awesome-agent-tutorial",
+    "stars": 12,
+    "updated_at": "2026-09-03T12:01:08Z",
+    "url": "https://github.com/cdavid817/awesome-agent-tutorial"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 30547,
+    "updated_at": "2026-09-03T12:01:01Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
     "description": "Claude Code plugin: universal radial-tree exploration engine. One tree skill + swappable presets (brainstorm / attack / ",
     "id": "skymanbp/cc-tree",
     "language": "Python",
@@ -23,7 +68,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-09-03T11:46:10Z",
+    "updated_at": "2026-09-03T12:11:29Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -329,7 +374,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-03T11:55:35Z",
+    "updated_at": "2026-09-03T12:15:12Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -373,7 +418,7 @@
     "id": "HKUDS/DeepCode",
     "language": "Python",
     "name": "HKUDS/DeepCode",
-    "stars": 16478,
+    "stars": 16479,
     "updated_at": "2026-09-03T10:24:40Z",
     "url": "https://github.com/HKUDS/DeepCode"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-03T09:58:56Z",
     "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 972,
-    "updated_at": "2026-09-03T09:56:06Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4408,
-    "updated_at": "2026-09-03T11:54:05Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "TypeScript",
-    "name": "dsswift/ion",
-    "stars": 4,
-    "updated_at": "2026-09-03T09:44:14Z",
-    "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 52,
-    "updated_at": "2026-09-03T09:40:48Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-09-03T09:37:39Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   }
 ]
