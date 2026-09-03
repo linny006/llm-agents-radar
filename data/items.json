@@ -1,12 +1,48 @@
 [
   {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 52,
+    "updated_at": "2026-09-03T17:13:23Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-09-03T17:08:36Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
     "id": "Heliotrope-dev/finance-agent",
     "language": "Python",
     "name": "Heliotrope-dev/finance-agent",
     "stars": 2,
-    "updated_at": "2026-09-03T16:58:59Z",
+    "updated_at": "2026-09-03T17:06:37Z",
     "url": "https://github.com/Heliotrope-dev/finance-agent"
+  },
+  {
+    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
+    "id": "Torvian-eu/chatbot",
+    "language": "Kotlin",
+    "name": "Torvian-eu/chatbot",
+    "stars": 4,
+    "updated_at": "2026-09-03T17:04:51Z",
+    "url": "https://github.com/Torvian-eu/chatbot"
+  },
+  {
+    "description": "A Linux-only, ncurses based TUI AI coding agent.",
+    "id": "mikeb26/octium",
+    "language": "Go",
+    "name": "mikeb26/octium",
+    "stars": 2,
+    "updated_at": "2026-09-03T16:58:11Z",
+    "url": "https://github.com/mikeb26/octium"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -50,7 +86,7 @@
     "language": "JavaScript",
     "name": "wufufu770/d2d",
     "stars": 0,
-    "updated_at": "2026-09-03T16:58:07Z",
+    "updated_at": "2026-09-03T17:09:10Z",
     "url": "https://github.com/wufufu770/d2d"
   },
   {
@@ -61,15 +97,6 @@
     "stars": 5,
     "updated_at": "2026-09-03T16:38:05Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 52,
-    "updated_at": "2026-09-03T16:33:20Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "LLM loop that reasons in a dense technical register \u2014 mechanical gates + adversarial judge + reverse-translation for hum",
@@ -158,7 +185,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4408,
-    "updated_at": "2026-09-03T16:55:50Z",
+    "updated_at": "2026-09-03T17:01:28Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -405,15 +432,6 @@
     "url": "https://github.com/fan56/dsh-cron"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-09-03T13:30:25Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Detects runtime anomalies from application logs, correlates them with recent commits, and generates root-cause hypothese",
     "id": "bajshorya/llm-observability-agent",
     "language": "TypeScript",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-03T13:40:59Z",
     "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 220,
-    "updated_at": "2026-09-03T13:07:28Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
-    "id": "hoshiyomiX/stellar-trails",
-    "language": "Shell",
-    "name": "hoshiyomiX/stellar-trails",
-    "stars": 0,
-    "updated_at": "2026-09-03T13:01:08Z",
-    "url": "https://github.com/hoshiyomiX/stellar-trails"
   }
 ]
