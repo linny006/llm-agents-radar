@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
     "stars": 52,
-    "updated_at": "2026-09-03T19:43:54Z",
+    "updated_at": "2026-09-03T19:50:15Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-09-03T19:47:24Z",
+    "url": "https://github.com/SashaEee/auditLens"
   },
   {
     "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
@@ -439,14 +448,5 @@
     "stars": 10,
     "updated_at": "2026-09-03T17:24:23Z",
     "url": "https://github.com/hasting323/AutoGLM-For-Android"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-09-03T17:22:52Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
   }
 ]
