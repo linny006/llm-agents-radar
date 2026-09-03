@@ -1,5 +1,14 @@
 [
   {
+    "description": "LangGraph \u591a Agent Kubernetes \u6839\u56e0\u5206\u6790\u7cfb\u7edf\uff0c\u7ed3\u5408 Datagraph \u62d3\u6251\u4e0e MCP \u53ef\u89c2\u6d4b\u5de5\u5177",
+    "id": "whrgg/k8s-datagraph-rca",
+    "language": "Python",
+    "name": "whrgg/k8s-datagraph-rca",
+    "stars": 0,
+    "updated_at": "2026-09-03T09:16:51Z",
+    "url": "https://github.com/whrgg/k8s-datagraph-rca"
+  },
+  {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
@@ -43,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-09-03T09:00:34Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "LangGraph \u591a Agent Kubernetes \u6839\u56e0\u5206\u6790\u7cfb\u7edf\uff0c\u7ed3\u5408 Datagraph \u62d3\u6251\u4e0e MCP \u53ef\u89c2\u6d4b\u5de5\u5177",
-    "id": "whrgg/k8s-datagraph-rca",
-    "language": "Python",
-    "name": "whrgg/k8s-datagraph-rca",
-    "stars": 0,
-    "updated_at": "2026-09-03T08:59:35Z",
-    "url": "https://github.com/whrgg/k8s-datagraph-rca"
   },
   {
     "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
@@ -446,7 +446,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4405,
-    "updated_at": "2026-09-03T06:47:48Z",
+    "updated_at": "2026-09-03T09:17:37Z",
     "url": "https://github.com/gptme/gptme"
   }
 ]

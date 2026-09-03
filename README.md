@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-03 09:15 UTC
+> ⏰ Last updated: 2026-09-03 09:20 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 219 | TypeScript | 2026-09-03 | A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi |
-| 2 | [Lion-1209/coderio](https://github.com/Lion-1209/coderio) | 9 | Python | 2026-09-03 | Local coding agent with native Zhipu GLM / StepFun Step Coding-Plan support. Four hard gates — the agent can't claim don |
-| 3 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 13 | Go | 2026-09-03 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
-| 4 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 4 | Python | 2026-09-03 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
-| 5 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-09-03 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 6 | [whrgg/k8s-datagraph-rca](https://github.com/whrgg/k8s-datagraph-rca) | 0 | Python | 2026-09-03 | LangGraph 多 Agent Kubernetes 根因分析系统，结合 Datagraph 拓扑与 MCP 可观测工具 |
+| 1 | [whrgg/k8s-datagraph-rca](https://github.com/whrgg/k8s-datagraph-rca) | 0 | Python | 2026-09-03 | LangGraph 多 Agent Kubernetes 根因分析系统，结合 Datagraph 拓扑与 MCP 可观测工具 |
+| 2 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 219 | TypeScript | 2026-09-03 | A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi |
+| 3 | [Lion-1209/coderio](https://github.com/Lion-1209/coderio) | 9 | Python | 2026-09-03 | Local coding agent with native Zhipu GLM / StepFun Step Coding-Plan support. Four hard gates — the agent can't claim don |
+| 4 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 13 | Go | 2026-09-03 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
+| 5 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 4 | Python | 2026-09-03 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
+| 6 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-09-03 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
 | 7 | [kangwoo/aimon-core](https://github.com/kangwoo/aimon-core) | 0 | Java | 2026-09-03 | A ReAct agent framework for Java — build autonomous LLM-powered agents, embeddable in any Java application |
 | 8 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 15 | Python | 2026-09-03 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、视觉与 HMI；LLM 只负责理解与规划，VAL 负责确定性安全执行。 |
 | 9 | [mintuz/skills](https://github.com/mintuz/skills) | 24 | Python | 2026-09-03 | My collection of Claude Code Agents & Skills for web and iOS Development |
