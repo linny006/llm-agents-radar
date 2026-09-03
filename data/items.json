@@ -1,12 +1,84 @@
 [
   {
+    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
+    "id": "diaban/jobsmith",
+    "language": "Python",
+    "name": "diaban/jobsmith",
+    "stars": 0,
+    "updated_at": "2026-09-03T19:15:08Z",
+    "url": "https://github.com/diaban/jobsmith"
+  },
+  {
+    "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
+    "id": "aviskaar/zorp",
+    "language": "Rust",
+    "name": "aviskaar/zorp",
+    "stars": 3,
+    "updated_at": "2026-09-03T19:12:05Z",
+    "url": "https://github.com/aviskaar/zorp"
+  },
+  {
+    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
+    "id": "Heliotrope-dev/finance-agent",
+    "language": "Python",
+    "name": "Heliotrope-dev/finance-agent",
+    "stars": 2,
+    "updated_at": "2026-09-03T19:10:37Z",
+    "url": "https://github.com/Heliotrope-dev/finance-agent"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 52,
+    "updated_at": "2026-09-03T19:08:56Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 551,
+    "updated_at": "2026-09-03T19:08:17Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
+  },
+  {
     "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
     "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
     "language": "Python",
     "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
     "stars": 1,
-    "updated_at": "2026-09-03T18:59:46Z",
+    "updated_at": "2026-09-03T19:08:07Z",
     "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7141,
+    "updated_at": "2026-09-03T19:05:07Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "An AI data analyst agent. Ask questions in plain English; it plans, writes SQL, runs pandas, charts results, and verifie",
+    "id": "asadaslam556/prism-data-agent",
+    "language": "Python",
+    "name": "asadaslam556/prism-data-agent",
+    "stars": 0,
+    "updated_at": "2026-09-03T19:02:17Z",
+    "url": "https://github.com/asadaslam556/prism-data-agent"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "TypeScript",
+    "name": "dsswift/ion",
+    "stars": 4,
+    "updated_at": "2026-09-03T18:57:43Z",
+    "url": "https://github.com/dsswift/ion"
   },
   {
     "description": "Anllm is an llm inference engine powered by mlx on mac devices that supports the Qwen3 and Llama3.x family Int 4bit quan",
@@ -36,15 +108,6 @@
     "url": "https://github.com/watchcat/scout"
   },
   {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 52,
-    "updated_at": "2026-09-03T18:58:16Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
-  },
-  {
     "description": "An in-process bridge giving an AI agent real access to a modded Minecraft world - including mod APIs a protocol-level bo",
     "id": "max-champlin/ghost",
     "language": "Java",
@@ -52,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T18:43:53Z",
     "url": "https://github.com/max-champlin/ghost"
-  },
-  {
-    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
-    "id": "diaban/jobsmith",
-    "language": "Python",
-    "name": "diaban/jobsmith",
-    "stars": 0,
-    "updated_at": "2026-09-03T18:59:35Z",
-    "url": "https://github.com/diaban/jobsmith"
   },
   {
     "description": "Telegram cooking assistant on Cloudflare Workers: receipt and reel ingestion, a normalizer that keeps one canonical row ",
@@ -79,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T18:38:46Z",
     "url": "https://github.com/AnuraagTripathy/schedy"
-  },
-  {
-    "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
-    "id": "aviskaar/zorp",
-    "language": "Rust",
-    "name": "aviskaar/zorp",
-    "stars": 3,
-    "updated_at": "2026-09-03T18:34:32Z",
-    "url": "https://github.com/aviskaar/zorp"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -115,15 +160,6 @@
     "stars": 6,
     "updated_at": "2026-09-03T18:33:42Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
-    "id": "Heliotrope-dev/finance-agent",
-    "language": "Python",
-    "name": "Heliotrope-dev/finance-agent",
-    "stars": 2,
-    "updated_at": "2026-09-03T18:21:44Z",
-    "url": "https://github.com/Heliotrope-dev/finance-agent"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -274,7 +310,7 @@
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 366,
+    "stars": 367,
     "updated_at": "2026-09-03T17:43:14Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
@@ -412,41 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-03T17:20:58Z",
     "url": "https://github.com/Ven0m0/gemini-web-wrapper"
-  },
-  {
-    "description": "Recovers failed Razorpay subscription payments by pricing every intervention against doing nothing, executing under hard",
-    "id": "Dhruva-0206/Counterfact",
-    "language": "Python",
-    "name": "Dhruva-0206/Counterfact",
-    "stars": 0,
-    "updated_at": "2026-09-03T17:19:08Z",
-    "url": "https://github.com/Dhruva-0206/Counterfact"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-09-03T17:18:35Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "LLM loop that reasons in a dense technical register \u2014 mechanical gates + adversarial judge + reverse-translation for hum",
-    "id": "Danreelkow/HDCS",
-    "language": "JavaScript",
-    "name": "Danreelkow/HDCS",
-    "stars": 0,
-    "updated_at": "2026-09-03T17:17:25Z",
-    "url": "https://github.com/Danreelkow/HDCS"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7141,
-    "updated_at": "2026-09-03T17:15:34Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   }
 ]
