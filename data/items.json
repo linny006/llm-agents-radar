@@ -5,8 +5,53 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 803,
-    "updated_at": "2026-09-03T10:09:13Z",
+    "updated_at": "2026-09-03T10:29:40Z",
     "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
+    "id": "hasting323/AutoGLM-For-Android",
+    "language": "Kotlin",
+    "name": "hasting323/AutoGLM-For-Android",
+    "stars": 10,
+    "updated_at": "2026-09-03T10:25:49Z",
+    "url": "https://github.com/hasting323/AutoGLM-For-Android"
+  },
+  {
+    "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
+    "id": "HKUDS/DeepCode",
+    "language": "Python",
+    "name": "HKUDS/DeepCode",
+    "stars": 16477,
+    "updated_at": "2026-09-03T10:24:40Z",
+    "url": "https://github.com/HKUDS/DeepCode"
+  },
+  {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 1,
+    "updated_at": "2026-09-03T10:24:24Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-09-03T10:23:06Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-09-03T10:23:58Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
@@ -16,15 +61,6 @@
     "stars": 4,
     "updated_at": "2026-09-03T10:08:24Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
-    "id": "HKUDS/DeepCode",
-    "language": "Python",
-    "name": "HKUDS/DeepCode",
-    "stars": 16476,
-    "updated_at": "2026-09-03T10:03:47Z",
-    "url": "https://github.com/HKUDS/DeepCode"
   },
   {
     "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
@@ -50,7 +86,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-09-03T10:09:10Z",
+    "updated_at": "2026-09-03T10:30:14Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -180,15 +216,6 @@
     "url": "https://github.com/Lion-1209/coderio"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-09-03T10:03:18Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -220,7 +247,7 @@
     "id": "mintuz/skills",
     "language": "Python",
     "name": "mintuz/skills",
-    "stars": 26,
+    "stars": 28,
     "updated_at": "2026-09-03T08:51:02Z",
     "url": "https://github.com/mintuz/skills"
   },
@@ -284,7 +311,7 @@
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 210,
-    "updated_at": "2026-09-03T08:21:43Z",
+    "updated_at": "2026-09-03T10:26:22Z",
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
@@ -400,7 +427,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 1069,
+    "stars": 1070,
     "updated_at": "2026-09-03T07:22:28Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -421,32 +448,5 @@
     "stars": 38,
     "updated_at": "2026-09-03T07:09:49Z",
     "url": "https://github.com/mensfeld/pocketrb"
-  },
-  {
-    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
-    "id": "ljedrz/nachalnik",
-    "language": "Rust",
-    "name": "ljedrz/nachalnik",
-    "stars": 1,
-    "updated_at": "2026-09-03T07:07:17Z",
-    "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
-    "description": "An OpenEnv-compatible RL environment for autonomous vulnerability patch management, cyber-resilience research, and repro",
-    "id": "Ayush-Kumar0207/PatchCascade-SOC",
-    "language": "Python",
-    "name": "Ayush-Kumar0207/PatchCascade-SOC",
-    "stars": 1,
-    "updated_at": "2026-09-03T07:05:16Z",
-    "url": "https://github.com/Ayush-Kumar0207/PatchCascade-SOC"
-  },
-  {
-    "description": "\u6296\u97f3\u7535\u5546\u667a\u80fd\u8fd0\u8425 Multi-Agent\uff1aFastAPI + LangGraph + DeepSeek\uff0c\u542b SQL \u81ea\u7ea0\u9519\u3001SSE \u6d41\u5f0f\u4e0e\u654f\u611f\u64cd\u4f5c\u4eba\u5de5\u5ba1\u6279\u3002",
-    "id": "Qinkx0515/douyin-agent",
-    "language": "Python",
-    "name": "Qinkx0515/douyin-agent",
-    "stars": 0,
-    "updated_at": "2026-09-03T06:59:56Z",
-    "url": "https://github.com/Qinkx0515/douyin-agent"
   }
 ]
