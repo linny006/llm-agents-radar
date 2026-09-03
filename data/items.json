@@ -1,12 +1,57 @@
 [
   {
+    "description": "Requirements discovery as an Agent role: Scout-driven dialogue turns vague ideas into implementable, verifiable requirem",
+    "id": "unknowbug/req-scout",
+    "language": "PowerShell",
+    "name": "unknowbug/req-scout",
+    "stars": 3,
+    "updated_at": "2026-09-03T04:25:22Z",
+    "url": "https://github.com/unknowbug/req-scout"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-03T04:25:13Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
+    "id": "ravisinghrajput95/kubewhy",
+    "language": "Python",
+    "name": "ravisinghrajput95/kubewhy",
+    "stars": 0,
+    "updated_at": "2026-09-03T04:24:47Z",
+    "url": "https://github.com/ravisinghrajput95/kubewhy"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-09-03T04:23:03Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
     "description": "Benzi is AI-native code intelligence infrastructure. Claude Code greps; Cursor embeds; Aider maps signatures; Benzi reso",
     "id": "oooscoos/Benzi",
     "language": "Python",
     "name": "oooscoos/Benzi",
-    "stars": 61,
-    "updated_at": "2026-09-03T04:14:06Z",
+    "stars": 60,
+    "updated_at": "2026-09-03T04:22:55Z",
     "url": "https://github.com/oooscoos/Benzi"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-09-03T04:18:23Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -27,33 +72,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-03T04:09:08Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "Requirements discovery as an Agent role: Scout-driven dialogue turns vague ideas into implementable, verifiable requirem",
-    "id": "unknowbug/req-scout",
-    "language": "PowerShell",
-    "name": "unknowbug/req-scout",
-    "stars": 3,
-    "updated_at": "2026-09-03T04:08:06Z",
-    "url": "https://github.com/unknowbug/req-scout"
-  },
-  {
-    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
-    "id": "ravisinghrajput95/kubewhy",
-    "language": "Python",
-    "name": "ravisinghrajput95/kubewhy",
-    "stars": 0,
-    "updated_at": "2026-09-03T04:07:21Z",
-    "url": "https://github.com/ravisinghrajput95/kubewhy"
-  },
-  {
     "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
     "id": "xhqing/DayTradingAgent",
     "language": "Python",
@@ -68,7 +86,7 @@
     "language": "Python",
     "name": "milljm/dynamic-rag-chat",
     "stars": 3,
-    "updated_at": "2026-09-03T04:01:32Z",
+    "updated_at": "2026-09-03T04:27:31Z",
     "url": "https://github.com/milljm/dynamic-rag-chat"
   },
   {
@@ -401,7 +419,7 @@
     "language": "Go",
     "name": "ongridio/ongrid",
     "stars": 971,
-    "updated_at": "2026-09-03T04:01:12Z",
+    "updated_at": "2026-09-03T04:23:29Z",
     "url": "https://github.com/ongridio/ongrid"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-03T02:42:45Z",
     "url": "https://github.com/csnyder256/RAG-OS"
-  },
-  {
-    "description": "Mazzes Multi-Asset AI Analysis Desk: A quantitative agent using Pine Script, Hermes LLM, and FastAPI to evaluate markets",
-    "id": "3rdteen/ai-trading-desk",
-    "language": "Python",
-    "name": "3rdteen/ai-trading-desk",
-    "stars": 0,
-    "updated_at": "2026-09-03T02:41:42Z",
-    "url": "https://github.com/3rdteen/ai-trading-desk"
-  },
-  {
-    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-    "id": "EvoMap/evolver",
-    "language": "JavaScript",
-    "name": "EvoMap/evolver",
-    "stars": 9051,
-    "updated_at": "2026-09-03T02:41:07Z",
-    "url": "https://github.com/EvoMap/evolver"
   }
 ]
