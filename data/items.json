@@ -1,5 +1,50 @@
 [
   {
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 8,
+    "updated_at": "2026-09-03T08:43:27Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-09-03T08:45:11Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Android device automation MCP server. Reads the live accessibility tree in-process, acts on nodes instead of coordinates",
+    "id": "baiamansama/android-agent-mcp",
+    "language": "TypeScript",
+    "name": "baiamansama/android-agent-mcp",
+    "stars": 0,
+    "updated_at": "2026-09-03T08:39:48Z",
+    "url": "https://github.com/baiamansama/android-agent-mcp"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 4,
+    "updated_at": "2026-09-03T08:32:36Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
+    "id": "DylPorter/claude-telegram",
+    "language": "Python",
+    "name": "DylPorter/claude-telegram",
+    "stars": 1,
+    "updated_at": "2026-09-03T08:30:53Z",
+    "url": "https://github.com/DylPorter/claude-telegram"
+  },
+  {
     "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
@@ -43,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T08:18:05Z",
     "url": "https://github.com/zcgilbert/iccad-2026-llm-netlist-agent"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 4,
-    "updated_at": "2026-09-03T08:17:29Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -153,24 +189,6 @@
     "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
-    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
-    "id": "metric-space-ai/greppy",
-    "language": "Rust",
-    "name": "metric-space-ai/greppy",
-    "stars": 8,
-    "updated_at": "2026-09-03T07:48:06Z",
-    "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-09-03T08:03:22Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -243,15 +261,6 @@
     "url": "https://github.com/zengbohan1/sentiment-analysis-agents"
   },
   {
-    "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
-    "id": "DylPorter/claude-telegram",
-    "language": "Python",
-    "name": "DylPorter/claude-telegram",
-    "stars": 1,
-    "updated_at": "2026-09-03T07:13:10Z",
-    "url": "https://github.com/DylPorter/claude-telegram"
-  },
-  {
     "description": "Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support",
     "id": "mensfeld/pocketrb",
     "language": "Ruby",
@@ -301,7 +310,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 971,
+    "stars": 972,
     "updated_at": "2026-09-03T06:44:39Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -320,7 +329,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-03T08:27:38Z",
+    "updated_at": "2026-09-03T08:39:16Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-03T07:33:55Z",
     "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
-    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
-    "id": "ravisinghrajput95/kubewhy",
-    "language": "Python",
-    "name": "ravisinghrajput95/kubewhy",
-    "stars": 0,
-    "updated_at": "2026-09-03T05:12:19Z",
-    "url": "https://github.com/ravisinghrajput95/kubewhy"
   }
 ]
