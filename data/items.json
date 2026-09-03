@@ -1,12 +1,12 @@
 [
   {
-    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
-    "id": "Torvian-eu/chatbot",
-    "language": "Kotlin",
-    "name": "Torvian-eu/chatbot",
-    "stars": 4,
-    "updated_at": "2026-09-03T22:28:39Z",
-    "url": "https://github.com/Torvian-eu/chatbot"
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 52,
+    "updated_at": "2026-09-03T22:40:35Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
@@ -14,8 +14,26 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-09-03T22:29:56Z",
+    "updated_at": "2026-09-03T22:40:05Z",
     "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "LLM application engineering projects: RAG, LangGraph Agents, MCP, evaluation, FastAPI, Redis, and deployment.",
+    "id": "justin-zhong/ai-deployment-project",
+    "language": "Python",
+    "name": "justin-zhong/ai-deployment-project",
+    "stars": 0,
+    "updated_at": "2026-09-03T22:30:35Z",
+    "url": "https://github.com/justin-zhong/ai-deployment-project"
+  },
+  {
+    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
+    "id": "Torvian-eu/chatbot",
+    "language": "Kotlin",
+    "name": "Torvian-eu/chatbot",
+    "stars": 4,
+    "updated_at": "2026-09-03T22:28:39Z",
+    "url": "https://github.com/Torvian-eu/chatbot"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -43,15 +61,6 @@
     "stars": 8,
     "updated_at": "2026-09-03T22:13:59Z",
     "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 52,
-    "updated_at": "2026-09-03T22:12:32Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-03T17:52:51Z",
     "url": "https://github.com/222394/SkyPilot"
-  },
-  {
-    "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
-    "id": "Aureliedumbfounding630/agent-governance-toolkit",
-    "language": "\u2014",
-    "name": "Aureliedumbfounding630/agent-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-09-03T17:52:46Z",
-    "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
   }
 ]
