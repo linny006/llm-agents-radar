@@ -1,5 +1,50 @@
 [
   {
+    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
+    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "language": "Python",
+    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "stars": 1,
+    "updated_at": "2026-09-03T18:59:46Z",
+    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
+  },
+  {
+    "description": "Anllm is an llm inference engine powered by mlx on mac devices that supports the Qwen3 and Llama3.x family Int 4bit quan",
+    "id": "ajeetkbhardwaj/anllm",
+    "language": "Python",
+    "name": "ajeetkbhardwaj/anllm",
+    "stars": 0,
+    "updated_at": "2026-09-03T18:55:36Z",
+    "url": "https://github.com/ajeetkbhardwaj/anllm"
+  },
+  {
+    "description": "Multi-step SQL agent over the Olist e-commerce database: plan/act/observe loop, self-correction, grounding guard that ch",
+    "id": "JAYANSHUBADLANI/olist-analyst-agent",
+    "language": "Python",
+    "name": "JAYANSHUBADLANI/olist-analyst-agent",
+    "stars": 0,
+    "updated_at": "2026-09-03T18:51:11Z",
+    "url": "https://github.com/JAYANSHUBADLANI/olist-analyst-agent"
+  },
+  {
+    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
+    "id": "watchcat/scout",
+    "language": "Rust",
+    "name": "watchcat/scout",
+    "stars": 0,
+    "updated_at": "2026-09-03T18:47:00Z",
+    "url": "https://github.com/watchcat/scout"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 52,
+    "updated_at": "2026-09-03T18:58:16Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
     "description": "An in-process bridge giving an AI agent real access to a modded Minecraft world - including mod APIs a protocol-level bo",
     "id": "max-champlin/ghost",
     "language": "Java",
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "diaban/jobsmith",
     "stars": 0,
-    "updated_at": "2026-09-03T18:39:07Z",
+    "updated_at": "2026-09-03T18:59:35Z",
     "url": "https://github.com/diaban/jobsmith"
   },
   {
@@ -34,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T18:38:46Z",
     "url": "https://github.com/AnuraagTripathy/schedy"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 52,
-    "updated_at": "2026-09-03T18:35:27Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
@@ -121,18 +157,9 @@
     "id": "agentpit-io/hunter-community",
     "language": "Python",
     "name": "agentpit-io/hunter-community",
-    "stars": 409,
+    "stars": 410,
     "updated_at": "2026-09-03T18:01:39Z",
     "url": "https://github.com/agentpit-io/hunter-community"
-  },
-  {
-    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
-    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "language": "Python",
-    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "stars": 1,
-    "updated_at": "2026-09-03T17:57:21Z",
-    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
   },
   {
     "description": "Sort your Downloads by project, not file type \u2014 with one-command undo. No delete, ever.",
@@ -421,32 +448,5 @@
     "stars": 7141,
     "updated_at": "2026-09-03T17:15:34Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-09-03T17:08:36Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
-    "id": "Torvian-eu/chatbot",
-    "language": "Kotlin",
-    "name": "Torvian-eu/chatbot",
-    "stars": 4,
-    "updated_at": "2026-09-03T17:04:51Z",
-    "url": "https://github.com/Torvian-eu/chatbot"
-  },
-  {
-    "description": "A Linux-only, ncurses based TUI AI coding agent.",
-    "id": "mikeb26/octium",
-    "language": "Go",
-    "name": "mikeb26/octium",
-    "stars": 2,
-    "updated_at": "2026-09-03T16:58:11Z",
-    "url": "https://github.com/mikeb26/octium"
   }
 ]
