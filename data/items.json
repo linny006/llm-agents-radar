@@ -1,12 +1,57 @@
 [
   {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
+    "id": "faheela-786/ComfyUI-qwenmultiangle",
+    "language": "\u2014",
+    "name": "faheela-786/ComfyUI-qwenmultiangle",
+    "stars": 2,
+    "updated_at": "2026-09-03T03:28:29Z",
+    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
+  },
+  {
+    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
+    "id": "amineeng/scraping-browser",
+    "language": "\u2014",
+    "name": "amineeng/scraping-browser",
+    "stars": 1,
+    "updated_at": "2026-09-03T03:26:55Z",
+    "url": "https://github.com/amineeng/scraping-browser"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
     "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 3,
-    "updated_at": "2026-09-03T03:13:18Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-09-03T03:25:10Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
+    "id": "Saran1536/ComfyUI-LoaderUtils",
+    "language": "Python",
+    "name": "Saran1536/ComfyUI-LoaderUtils",
+    "stars": 1,
+    "updated_at": "2026-09-03T03:23:55Z",
+    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 1,
+    "updated_at": "2026-09-03T03:22:31Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-03T03:21:18Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "\u5267\u672c\u5206\u955c\u5de5\u5177\u667a\u80fd\u4f53\uff08PenShot\uff09\uff1a\u7535\u5f71/\u52a8\u6f2b/\u77ed\u5267/\u5c0f\u8bf4/\u5267\u672c\u2192\u5206\u955c\u2192\u7247\u6bb5\u2192prompt | \u57fa\u4e8e LangGraph+LLM\uff0c\u81ea\u52a8\u89e3\u6790\u4efb\u610f\u683c\u5f0f\u5267\u672c\uff0c\u751f\u6210 Sora/Veo/Runway \u7b49\u6a21\u578b\u53ef\u7528\u7684\u8fde\u8d2ftext-to-video\u63d0\u793a\u8bcd",
@@ -14,8 +59,44 @@
     "language": "Python",
     "name": "neopen/story-shot-agent",
     "stars": 160,
-    "updated_at": "2026-09-03T03:11:50Z",
+    "updated_at": "2026-09-03T03:19:21Z",
     "url": "https://github.com/neopen/story-shot-agent"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u7684 AI \u6c42\u804c\u5de5\u4f5c\u53f0\uff1a\u6c89\u6dc0\u804c\u4e1a\u8bc1\u636e\uff0c\u7ba1\u7406\u5c97\u4f4d\u673a\u4f1a\uff0c\u5b8c\u6210\u5339\u914d\u8bc4\u4f30\u3001\u5b9a\u5236\u7b80\u5386\u3001\u9879\u76ee\u62c6\u89e3\u4e0e\u9762\u8bd5\u590d\u76d8\u3002",
+    "id": "Xiaolang-d3/CareerLoop",
+    "language": "Python",
+    "name": "Xiaolang-d3/CareerLoop",
+    "stars": 0,
+    "updated_at": "2026-09-03T03:27:46Z",
+    "url": "https://github.com/Xiaolang-d3/CareerLoop"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-09-03T03:15:59Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-09-03T03:14:22Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 3,
+    "updated_at": "2026-09-03T03:13:18Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
   },
   {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
@@ -34,33 +115,6 @@
     "stars": 1,
     "updated_at": "2026-09-03T03:09:48Z",
     "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-03T03:07:49Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-09-03T03:14:22Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-09-03T03:05:38Z",
-    "url": "https://github.com/SashaEee/auditLens"
   },
   {
     "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
@@ -86,7 +140,7 @@
     "language": "Python",
     "name": "milljm/dynamic-rag-chat",
     "stars": 3,
-    "updated_at": "2026-09-03T02:48:37Z",
+    "updated_at": "2026-09-03T03:27:40Z",
     "url": "https://github.com/milljm/dynamic-rag-chat"
   },
   {
@@ -106,6 +160,15 @@
     "stars": 0,
     "updated_at": "2026-09-03T02:41:42Z",
     "url": "https://github.com/3rdteen/ai-trading-desk"
+  },
+  {
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "id": "EvoMap/evolver",
+    "language": "JavaScript",
+    "name": "EvoMap/evolver",
+    "stars": 9051,
+    "updated_at": "2026-09-03T02:41:07Z",
+    "url": "https://github.com/EvoMap/evolver"
   },
   {
     "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
@@ -383,70 +446,7 @@
     "language": "Rust",
     "name": "metric-space-ai/greppy",
     "stars": 8,
-    "updated_at": "2026-09-03T02:26:01Z",
+    "updated_at": "2026-09-03T03:23:28Z",
     "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-09-03T01:50:46Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "Harness LLMs with Multi-Agent Programming",
-    "id": "langroid/langroid",
-    "language": "Python",
-    "name": "langroid/langroid",
-    "stars": 4102,
-    "updated_at": "2026-09-02T22:31:07Z",
-    "url": "https://github.com/langroid/langroid"
-  },
-  {
-    "description": "Agente aut\u00f3nomo para LALIGA Fantasy: lee el juego, decide y act\u00faa (pujas, ventas, clausulazos, alineaci\u00f3n). Python stdli",
-    "id": "jonortega20/fantasybot",
-    "language": "Python",
-    "name": "jonortega20/fantasybot",
-    "stars": 22,
-    "updated_at": "2026-09-02T22:28:28Z",
-    "url": "https://github.com/jonortega20/fantasybot"
-  },
-  {
-    "description": "Evidence-gated vulnerability research for AI security agents.",
-    "id": "xingchen20lj/vulngate",
-    "language": "Python",
-    "name": "xingchen20lj/vulngate",
-    "stars": 2,
-    "updated_at": "2026-09-02T22:26:27Z",
-    "url": "https://github.com/xingchen20lj/vulngate"
-  },
-  {
-    "description": "\ud83e\udd80 The first autonomous hackathon agent stop assisting and start competing (\ud83c\udfc6 Hackathon Champion Project).",
-    "id": "0xclaw-ai/0xClaw",
-    "language": "Python",
-    "name": "0xclaw-ai/0xClaw",
-    "stars": 13,
-    "updated_at": "2026-09-02T22:21:10Z",
-    "url": "https://github.com/0xclaw-ai/0xClaw"
-  },
-  {
-    "description": "Easy-to-use, easy-to-customize, and high-quality secure code review skills for AI agents.",
-    "id": "ivan-sincek/secure-code-review-agent-skills",
-    "language": "\u2014",
-    "name": "ivan-sincek/secure-code-review-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-09-02T22:17:13Z",
-    "url": "https://github.com/ivan-sincek/secure-code-review-agent-skills"
-  },
-  {
-    "description": "Easy-to-use, easy-to-customize, and high-quality threat modeling skills for AI agents.",
-    "id": "ivan-sincek/threat-modeling-agent-skills",
-    "language": "\u2014",
-    "name": "ivan-sincek/threat-modeling-agent-skills",
-    "stars": 2,
-    "updated_at": "2026-09-02T22:16:07Z",
-    "url": "https://github.com/ivan-sincek/threat-modeling-agent-skills"
   }
 ]
