@@ -1,5 +1,32 @@
 [
   {
+    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
+    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "language": "JavaScript",
+    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "stars": 0,
+    "updated_at": "2026-09-03T09:58:56Z",
+    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-09-03T09:57:54Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-09-03T09:57:36Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
     "id": "dsswift/ion",
     "language": "TypeScript",
@@ -90,15 +117,6 @@
     "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-09-03T09:37:44Z",
-    "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
     "description": "LangGraph \u591a Agent Kubernetes \u6839\u56e0\u5206\u6790\u7cfb\u7edf\uff0c\u7ed3\u5408 Datagraph \u62d3\u6251\u4e0e MCP \u53ef\u89c2\u6d4b\u5de5\u5177",
     "id": "whrgg/k8s-datagraph-rca",
     "language": "Python",
@@ -166,7 +184,7 @@
     "id": "mintuz/skills",
     "language": "Python",
     "name": "mintuz/skills",
-    "stars": 24,
+    "stars": 25,
     "updated_at": "2026-09-03T08:51:02Z",
     "url": "https://github.com/mintuz/skills"
   },
@@ -185,17 +203,8 @@
     "language": "Rust",
     "name": "metric-space-ai/greppy",
     "stars": 8,
-    "updated_at": "2026-09-03T08:43:27Z",
+    "updated_at": "2026-09-03T09:51:52Z",
     "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-09-03T09:39:31Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Android device automation MCP server. Reads the live accessibility tree in-process, acts on nodes instead of coordinates",
@@ -301,7 +310,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7134,
+    "stars": 7135,
     "updated_at": "2026-09-03T08:01:10Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -378,15 +387,6 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "Multi-agent sentiment analysis \u2014 parallel Query/Media/Insight agents, custom scheduler, SSE long-task control, report pi",
-    "id": "zengbohan1/sentiment-analysis-agents",
-    "language": "Python",
-    "name": "zengbohan1/sentiment-analysis-agents",
-    "stars": 3,
-    "updated_at": "2026-09-03T07:13:47Z",
-    "url": "https://github.com/zengbohan1/sentiment-analysis-agents"
-  },
-  {
     "description": "Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support",
     "id": "mensfeld/pocketrb",
     "language": "Ruby",
@@ -437,7 +437,7 @@
     "language": "Go",
     "name": "ongridio/ongrid",
     "stars": 972,
-    "updated_at": "2026-09-03T06:44:39Z",
+    "updated_at": "2026-09-03T09:56:06Z",
     "url": "https://github.com/ongridio/ongrid"
   },
   {
@@ -445,7 +445,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 14112,
+    "stars": 14113,
     "updated_at": "2026-09-03T06:37:00Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   }
