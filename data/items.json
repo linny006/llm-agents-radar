@@ -1,12 +1,57 @@
 [
   {
+    "description": "Build your own always-on personal AI OS: a self-hosted agent that dispatches coding tasks, maintains a git-Markdown know",
+    "id": "csnyder256/RAG-OS",
+    "language": "Python",
+    "name": "csnyder256/RAG-OS",
+    "stars": 3,
+    "updated_at": "2026-09-03T02:28:59Z",
+    "url": "https://github.com/csnyder256/RAG-OS"
+  },
+  {
+    "description": "Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generatio",
+    "id": "larlarua/AutoCVE",
+    "language": "Python",
+    "name": "larlarua/AutoCVE",
+    "stars": 1386,
+    "updated_at": "2026-09-03T02:27:29Z",
+    "url": "https://github.com/larlarua/AutoCVE"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 52,
+    "updated_at": "2026-09-03T02:24:11Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
+    "id": "wq19901103wq/wechat-mac-rpa",
+    "language": "Python",
+    "name": "wq19901103wq/wechat-mac-rpa",
+    "stars": 92,
+    "updated_at": "2026-09-03T02:21:29Z",
+    "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
+  },
+  {
     "description": "\u5267\u672c\u5206\u955c\u5de5\u5177\u667a\u80fd\u4f53\uff08PenShot\uff09\uff1a\u7535\u5f71/\u52a8\u6f2b/\u77ed\u5267/\u5c0f\u8bf4/\u5267\u672c\u2192\u5206\u955c\u2192\u7247\u6bb5\u2192prompt | \u57fa\u4e8e LangGraph+LLM\uff0c\u81ea\u52a8\u89e3\u6790\u4efb\u610f\u683c\u5f0f\u5267\u672c\uff0c\u751f\u6210 Sora/Veo/Runway \u7b49\u6a21\u578b\u53ef\u7528\u7684\u8fde\u8d2ftext-to-video\u63d0\u793a\u8bcd",
     "id": "neopen/story-shot-agent",
     "language": "Python",
     "name": "neopen/story-shot-agent",
     "stars": 160,
-    "updated_at": "2026-09-03T02:13:27Z",
+    "updated_at": "2026-09-03T02:19:12Z",
     "url": "https://github.com/neopen/story-shot-agent"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-03T02:18:26Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Keep agent CLIs running 7\u00d724 \u2014 supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure",
@@ -36,31 +81,13 @@
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-03T02:03:23Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-03T02:04:02Z",
+    "updated_at": "2026-09-03T02:20:40Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 52,
-    "updated_at": "2026-09-03T01:48:38Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "A chat bot which makes use of multiple RAG collections/metadata field filtering, and multiple LLMs for model orchestrati",
@@ -68,7 +95,7 @@
     "language": "Python",
     "name": "milljm/dynamic-rag-chat",
     "stars": 3,
-    "updated_at": "2026-09-03T01:56:44Z",
+    "updated_at": "2026-09-03T02:18:56Z",
     "url": "https://github.com/milljm/dynamic-rag-chat"
   },
   {
@@ -275,7 +302,7 @@
     "language": "Rust",
     "name": "metric-space-ai/greppy",
     "stars": 8,
-    "updated_at": "2026-09-03T01:28:26Z",
+    "updated_at": "2026-09-03T02:26:01Z",
     "url": "https://github.com/metric-space-ai/greppy"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-02T20:55:54Z",
     "url": "https://github.com/Blondieredistributed612/pocket-agent"
-  },
-  {
-    "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
-    "id": "bettersilvanus849/inner-coordinates",
-    "language": "Shell",
-    "name": "bettersilvanus849/inner-coordinates",
-    "stars": 1,
-    "updated_at": "2026-09-02T20:52:26Z",
-    "url": "https://github.com/bettersilvanus849/inner-coordinates"
-  },
-  {
-    "description": "Talk to your organization's data \u2014 agentic analytics assistant over StarRocks, with Claude via Azure AI Foundry and an O",
-    "id": "leonardomb1/perguntai",
-    "language": "TypeScript",
-    "name": "leonardomb1/perguntai",
-    "stars": 0,
-    "updated_at": "2026-09-02T20:52:15Z",
-    "url": "https://github.com/leonardomb1/perguntai"
-  },
-  {
-    "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
-    "id": "Blaz742/web-pentest-lab",
-    "language": "\u2014",
-    "name": "Blaz742/web-pentest-lab",
-    "stars": 0,
-    "updated_at": "2026-09-02T20:51:26Z",
-    "url": "https://github.com/Blaz742/web-pentest-lab"
   }
 ]
