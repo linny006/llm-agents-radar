@@ -1,11 +1,47 @@
 [
   {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-03T09:29:16Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 4,
+    "updated_at": "2026-09-03T09:28:16Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-09-03T09:25:04Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
+    "description": "Unified LLM Platform that allows you to host your own models locally and access them from across the world",
+    "id": "noahhps/Courier",
+    "language": "Python",
+    "name": "noahhps/Courier",
+    "stars": 0,
+    "updated_at": "2026-09-03T09:22:12Z",
+    "url": "https://github.com/noahhps/Courier"
+  },
+  {
     "description": "LangGraph \u591a Agent Kubernetes \u6839\u56e0\u5206\u6790\u7cfb\u7edf\uff0c\u7ed3\u5408 Datagraph \u62d3\u6251\u4e0e MCP \u53ef\u89c2\u6d4b\u5de5\u5177",
     "id": "whrgg/k8s-datagraph-rca",
     "language": "Python",
     "name": "whrgg/k8s-datagraph-rca",
     "stars": 0,
-    "updated_at": "2026-09-03T09:16:51Z",
+    "updated_at": "2026-09-03T09:21:28Z",
     "url": "https://github.com/whrgg/k8s-datagraph-rca"
   },
   {
@@ -32,17 +68,8 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-09-03T09:02:00Z",
+    "updated_at": "2026-09-03T09:22:58Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 4,
-    "updated_at": "2026-09-03T09:01:07Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -252,15 +279,6 @@
     "url": "https://github.com/SashaEee/auditLens"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-03T07:48:11Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-03T06:17:42Z",
     "url": "https://github.com/khudayarovich/onflip-agent"
-  },
-  {
-    "description": "LLM application engineering projects: RAG, LangGraph Agents, MCP, evaluation, FastAPI, Redis, and deployment.",
-    "id": "justin-zhong/ai-deployment-project",
-    "language": "Python",
-    "name": "justin-zhong/ai-deployment-project",
-    "stars": 0,
-    "updated_at": "2026-09-03T06:16:05Z",
-    "url": "https://github.com/justin-zhong/ai-deployment-project"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4405,
-    "updated_at": "2026-09-03T09:17:37Z",
-    "url": "https://github.com/gptme/gptme"
   }
 ]
