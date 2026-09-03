@@ -1,12 +1,12 @@
 [
   {
-    "description": "\u7b28\u529e\u6cd5\u5b66 Agent\uff1a\u4ece 60 \u884c\u4ee3\u7801\u5230\u4e00\u4e2a\u5b8c\u6574\u7684 harness\u3002Learn Agent the Hard Way \u2014 \u4e2d\u6587\u7535\u5b50\u4e66\uff0c\u5168\u4e66 32 \u4e2a\u7ec3\u4e60\u5df2\u5b8c\u7ed3\u3002",
-    "id": "Leihb/learn-agent-the-hard-way",
-    "language": "Go",
-    "name": "Leihb/learn-agent-the-hard-way",
-    "stars": 32,
-    "updated_at": "2026-09-03T07:44:57Z",
-    "url": "https://github.com/Leihb/learn-agent-the-hard-way"
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-09-03T07:57:25Z",
+    "url": "https://github.com/SashaEee/auditLens"
   },
   {
     "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
@@ -14,8 +14,44 @@
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
     "stars": 52,
-    "updated_at": "2026-09-03T07:39:21Z",
+    "updated_at": "2026-09-03T07:52:48Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "\u7b28\u529e\u6cd5\u5b66 Agent\uff1a\u4ece 60 \u884c\u4ee3\u7801\u5230\u4e00\u4e2a\u5b8c\u6574\u7684 harness\u3002Learn Agent the Hard Way \u2014 \u4e2d\u6587\u7535\u5b50\u4e66\uff0c\u5168\u4e66 32 \u4e2a\u7ec3\u4e60\u5df2\u5b8c\u7ed3\u3002",
+    "id": "Leihb/learn-agent-the-hard-way",
+    "language": "Go",
+    "name": "Leihb/learn-agent-the-hard-way",
+    "stars": 32,
+    "updated_at": "2026-09-03T07:51:35Z",
+    "url": "https://github.com/Leihb/learn-agent-the-hard-way"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-03T07:48:11Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 8,
+    "updated_at": "2026-09-03T07:48:06Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-09-03T07:51:52Z",
+    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -31,7 +67,7 @@
     "id": "Haozhe-Xing/fun-rec-mdbook",
     "language": "HTML",
     "name": "Haozhe-Xing/fun-rec-mdbook",
-    "stars": 4,
+    "stars": 5,
     "updated_at": "2026-09-03T07:36:28Z",
     "url": "https://github.com/Haozhe-Xing/fun-rec-mdbook"
   },
@@ -43,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T07:33:38Z",
     "url": "https://github.com/wzh4464/self-evolving-media-agent"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-03T07:33:09Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
@@ -86,7 +113,7 @@
     "language": "Python",
     "name": "OtakuNathan/Pal",
     "stars": 0,
-    "updated_at": "2026-09-03T07:24:46Z",
+    "updated_at": "2026-09-03T07:59:00Z",
     "url": "https://github.com/OtakuNathan/Pal"
   },
   {
@@ -106,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T07:18:28Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-09-03T07:43:38Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Multi-agent sentiment analysis \u2014 parallel Query/Media/Insight agents, custom scheduler, SSE long-task control, report pi",
@@ -203,7 +221,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-03T06:34:12Z",
+    "updated_at": "2026-09-03T07:56:30Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -257,7 +275,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 7133,
-    "updated_at": "2026-09-03T06:13:27Z",
+    "updated_at": "2026-09-03T07:55:16Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -322,15 +340,6 @@
     "stars": 5,
     "updated_at": "2026-09-03T05:30:51Z",
     "url": "https://github.com/d3stiny-io/aulthium"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-09-03T05:18:09Z",
-    "url": "https://github.com/SashaEee/auditLens"
   },
   {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-03T04:18:23Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 126,
-    "updated_at": "2026-09-03T04:12:38Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
   }
 ]
