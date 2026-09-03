@@ -1,12 +1,66 @@
 [
   {
+    "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
+    "id": "Furox-Art/axiomize",
+    "language": "Python",
+    "name": "Furox-Art/axiomize",
+    "stars": 0,
+    "updated_at": "2026-09-03T14:26:51Z",
+    "url": "https://github.com/Furox-Art/axiomize"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 566,
+    "updated_at": "2026-09-03T14:25:26Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
     "description": "\u300a\u6df1\u5165\u7406\u89e3 AI Agent\u300b\u5de5\u7a0b\u65b9\u6cd5\u8bba\u84b8\u998f Skill\uff1a39 \u5f20\u80fd\u529b\u5361\uff0c1 \u4e2a\u5165\u53e3\uff0c\u4e09\u91cd\u9a8c\u8bc1+\u76f2\u6d4b 48/48",
     "id": "jidechao/ai-agents-in-depth",
     "language": "\u2014",
     "name": "jidechao/ai-agents-in-depth",
-    "stars": 0,
-    "updated_at": "2026-09-03T14:12:20Z",
+    "stars": 1,
+    "updated_at": "2026-09-03T14:24:58Z",
     "url": "https://github.com/jidechao/ai-agents-in-depth"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 5,
+    "updated_at": "2026-09-03T14:21:36Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 126,
+    "updated_at": "2026-09-03T14:18:30Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-09-03T14:18:03Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 803,
+    "updated_at": "2026-09-03T14:09:55Z",
+    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "\u300a\u4f01\u4e1a\u7ea7 Agent \u4ece\u5165\u95e8\u5230\u4e13\u5bb6\uff082026\u7248\uff09\u300b\u2014\u2014\u4ece\u5355 Agent \u6838\u5fc3\u673a\u5236\u5230\u591a Agent \u4e0e\u4f01\u4e1a\u843d\u5730\u7684\u5de5\u7a0b\u5316\u5b9e\u6218\u6559\u7a0b\uff0c\u914d\u5957\u53ef\u8fd0\u884c\u8d2f\u7a7f\u9879\u76ee\u4e0e CI \u9a8c\u8bc1\u95e8\u7981\u3002",
@@ -34,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-09-03T14:03:39Z",
     "url": "https://github.com/Heliotrope-dev/finance-agent"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 803,
-    "updated_at": "2026-09-03T14:09:55Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "Cost-aware multi-agent orchestrator kit for OpenCode CLI \u2014 one routing agent, 14 specialized subagents, zero application",
@@ -113,7 +158,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 7141,
-    "updated_at": "2026-09-03T13:43:08Z",
+    "updated_at": "2026-09-03T14:29:32Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -160,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-09-03T13:40:59Z",
     "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 565,
-    "updated_at": "2026-09-03T14:13:38Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
@@ -256,7 +292,7 @@
     "id": "titanwings/distilly",
     "language": "TypeScript",
     "name": "titanwings/distilly",
-    "stars": 24312,
+    "stars": 24314,
     "updated_at": "2026-09-03T12:28:40Z",
     "url": "https://github.com/titanwings/distilly"
   },
@@ -301,7 +337,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 30560,
+    "stars": 30562,
     "updated_at": "2026-09-03T12:20:21Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -349,15 +385,6 @@
     "stars": 13,
     "updated_at": "2026-09-03T13:23:32Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
-    "id": "Furox-Art/axiomize",
-    "language": "Python",
-    "name": "Furox-Art/axiomize",
-    "stars": 0,
-    "updated_at": "2026-09-03T11:41:34Z",
-    "url": "https://github.com/Furox-Art/axiomize"
   },
   {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-03T11:00:38Z",
     "url": "https://github.com/verniceunleaded6135/tidy-undo"
-  },
-  {
-    "description": "Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node\u2014no complex workflows needed.",
-    "id": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
-    "language": "JavaScript",
-    "name": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
-    "stars": 3,
-    "updated_at": "2026-09-03T10:59:50Z",
-    "url": "https://github.com/Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3"
-  },
-  {
-    "description": "Control your Windows laptop remotely via Discord with AI-powered voice and text commands in English or Urdu.",
-    "id": "Ottoman-reticule726/zara-ai-laptop-agent",
-    "language": "Python",
-    "name": "Ottoman-reticule726/zara-ai-laptop-agent",
-    "stars": 0,
-    "updated_at": "2026-09-03T10:59:01Z",
-    "url": "https://github.com/Ottoman-reticule726/zara-ai-laptop-agent"
-  },
-  {
-    "description": "Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons.",
-    "id": "alejandrogg15/Minimax-H3-Turbo",
-    "language": "Python",
-    "name": "alejandrogg15/Minimax-H3-Turbo",
-    "stars": 0,
-    "updated_at": "2026-09-03T10:58:45Z",
-    "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
   }
 ]
