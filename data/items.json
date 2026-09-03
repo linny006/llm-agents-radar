@@ -1,5 +1,95 @@
 [
   {
+    "description": "Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node\u2014no complex workflows needed.",
+    "id": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
+    "language": "JavaScript",
+    "name": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
+    "stars": 3,
+    "updated_at": "2026-09-03T10:59:50Z",
+    "url": "https://github.com/Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3"
+  },
+  {
+    "description": "Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons.",
+    "id": "alejandrogg15/Minimax-H3-Turbo",
+    "language": "Python",
+    "name": "alejandrogg15/Minimax-H3-Turbo",
+    "stars": 0,
+    "updated_at": "2026-09-03T10:58:45Z",
+    "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
+  },
+  {
+    "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
+    "id": "Aureliedumbfounding630/agent-governance-toolkit",
+    "language": "\u2014",
+    "name": "Aureliedumbfounding630/agent-governance-toolkit",
+    "stars": 0,
+    "updated_at": "2026-09-03T10:57:34Z",
+    "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
+  },
+  {
+    "description": "Build open source deep research agents using multiple models, search tools, and MCP servers.",
+    "id": "randomvariablewhitepelican129/open_deep_research",
+    "language": "Python",
+    "name": "randomvariablewhitepelican129/open_deep_research",
+    "stars": 0,
+    "updated_at": "2026-09-03T10:56:50Z",
+    "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
+  },
+  {
+    "description": "Automate file management and coding tasks in your local directory using small language models.",
+    "id": "pruthviraj00007/VibeHarness",
+    "language": "Python",
+    "name": "pruthviraj00007/VibeHarness",
+    "stars": 0,
+    "updated_at": "2026-09-03T10:54:07Z",
+    "url": "https://github.com/pruthviraj00007/VibeHarness"
+  },
+  {
+    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
+    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "language": "Go",
+    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "stars": 0,
+    "updated_at": "2026-09-03T10:52:33Z",
+    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 4,
+    "updated_at": "2026-09-03T10:50:33Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
+    "id": "Samuelcluttered613/paper2code",
+    "language": "Python",
+    "name": "Samuelcluttered613/paper2code",
+    "stars": 1,
+    "updated_at": "2026-09-03T10:48:46Z",
+    "url": "https://github.com/Samuelcluttered613/paper2code"
+  },
+  {
+    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
+    "id": "Bastioned-successor320/learn-nanobot",
+    "language": "Python",
+    "name": "Bastioned-successor320/learn-nanobot",
+    "stars": 10,
+    "updated_at": "2026-09-03T10:48:29Z",
+    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
+  },
+  {
+    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
+    "id": "tessellated-statisticalcommission243/deep-research-skill",
+    "language": "\u2014",
+    "name": "tessellated-statisticalcommission243/deep-research-skill",
+    "stars": 3,
+    "updated_at": "2026-09-03T10:48:16Z",
+    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
+  },
+  {
     "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
     "id": "chadwickhyperboloidal943/knowl",
     "language": "TypeScript",
@@ -16,6 +106,15 @@
     "stars": 0,
     "updated_at": "2026-09-03T10:44:09Z",
     "url": "https://github.com/Jssu8541/ouro-loop"
+  },
+  {
+    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
+    "id": "Laurenfeminine36/google-jules-skill",
+    "language": "Python",
+    "name": "Laurenfeminine36/google-jules-skill",
+    "stars": 1,
+    "updated_at": "2026-09-03T10:44:06Z",
+    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
   },
   {
     "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
@@ -43,15 +142,6 @@
     "stars": 128,
     "updated_at": "2026-09-03T10:40:44Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 4,
-    "updated_at": "2026-09-03T10:38:29Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
     "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
@@ -358,95 +448,5 @@
     "stars": 8,
     "updated_at": "2026-09-03T10:38:52Z",
     "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
-    "description": "Android device automation MCP server. Reads the live accessibility tree in-process, acts on nodes instead of coordinates",
-    "id": "baiamansama/android-agent-mcp",
-    "language": "TypeScript",
-    "name": "baiamansama/android-agent-mcp",
-    "stars": 0,
-    "updated_at": "2026-09-03T08:39:48Z",
-    "url": "https://github.com/baiamansama/android-agent-mcp"
-  },
-  {
-    "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
-    "id": "DylPorter/claude-telegram",
-    "language": "Python",
-    "name": "DylPorter/claude-telegram",
-    "stars": 1,
-    "updated_at": "2026-09-03T08:30:53Z",
-    "url": "https://github.com/DylPorter/claude-telegram"
-  },
-  {
-    "description": "\u8ba9 AI \u5728\u5b89\u5168\u7ea6\u675f\u5185\u6316\u6398 A \u80a1\u56e0\u5b50\uff1a\u4e00\u53e5\u8bdd\u60f3\u6cd5 \u2192 \u53d7\u9650 DSL \u8868\u8fbe\u5f0f \u2192 \u91cf\u5316\u7814\u7a76\u6807\u51c6\u4f53\u68c0 \u2192 \u7b56\u7565\u56de\u6d4b\uff08AFAC \u91d1\u878d\u667a\u80fd\u521b\u65b0\u5927\u8d5b \u00b7 \u91cf\u5316\u6295\u8d44\u65b9\u5411\u53c2\u8d5b\u4f5c\u54c1\uff09",
-    "id": "Yumm-del/factor-lab",
-    "language": "Python",
-    "name": "Yumm-del/factor-lab",
-    "stars": 1,
-    "updated_at": "2026-09-03T08:22:44Z",
-    "url": "https://github.com/Yumm-del/factor-lab"
-  },
-  {
-    "description": "\u7b28\u529e\u6cd5\u5b66 Agent \u00b7 \u4eb2\u624b\u6253\u9020\u4e00\u4e2a harness\u2014\u2014\u4e0d\u7528\u6846\u67b6\uff0c32 \u4e2a\u7ec3\u4e60\u4eb2\u624b\u5199\u51fa\u4e00\u4e2a agent harness \u7684\u6bcf\u4e00\u5c42\u3002\u7cfb\u5217\u7b2c\u4e00\u672c\uff0c\u5168\u4e66\u5df2\u5b8c\u7ed3\uff0c\u4e09\u672c\u5404\u81ea\u72ec\u7acb\u4e0d\u5206\u5148\u540e\u3002",
-    "id": "Leihb/learn-agent-the-hard-way",
-    "language": "Go",
-    "name": "Leihb/learn-agent-the-hard-way",
-    "stars": 32,
-    "updated_at": "2026-09-03T08:22:19Z",
-    "url": "https://github.com/Leihb/learn-agent-the-hard-way"
-  },
-  {
-    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 210,
-    "updated_at": "2026-09-03T10:43:36Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
-    "description": "ICCAD 2026 CAD Contest Problem A. Natural-language netlist exploration where the LLM routes and a deterministic EDA engi",
-    "id": "zcgilbert/iccad-2026-llm-netlist-agent",
-    "language": "Python",
-    "name": "zcgilbert/iccad-2026-llm-netlist-agent",
-    "stars": 0,
-    "updated_at": "2026-09-03T08:18:05Z",
-    "url": "https://github.com/zcgilbert/iccad-2026-llm-netlist-agent"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5715,
-    "updated_at": "2026-09-03T10:30:21Z",
-    "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "\u9762\u5411 AI Agent \u7684\u9879\u76ee\u6cbb\u7406 Skill \u96c6\u5408\uff1a\u5c06\u4ed3\u5e93\u7ed3\u6784\u3001\u7814\u53d1\u5168\u751f\u547d\u5468\u671f\u4ea7\u7269\u3001Agent \u6267\u884c\u8fb9\u754c\u548c\u670d\u52a1\u53d1\u5e03/\u8fd0\u884c\u6761\u4ef6\uff0c\u8f6c\u5316\u4e3a\u53ef\u6267\u884c\u7684\u786e\u5b9a\u6027\u95e8\u7981\u4e0e\u68c0\u67e5\u5668",
-    "id": "farfarfun-skills/farfarfun--project-manager",
-    "language": "Python",
-    "name": "farfarfun-skills/farfarfun--project-manager",
-    "stars": 0,
-    "updated_at": "2026-09-03T08:04:19Z",
-    "url": "https://github.com/farfarfun-skills/farfarfun--project-manager"
-  },
-  {
-    "description": "\u4e2d\u82f1\u53cc\u8bed\u77e5\u8bc6\u5e93\uff0c\u4e3a\u63a8\u8350\u7cfb\u7edf\u4e0e\u8ba1\u7b97\u5e7f\u544a auto research \u63d0\u4f9b\u53ef\u7cbe\u786e\u5f15\u7528\u7684\u6280\u672f\u8d44\u6599 \u2014 \u53ec\u56de/\u6392\u5e8f/\u91cd\u6392\u3001\u751f\u6210\u5f0f\u63a8\u8350\uff08\u8bed\u4e49 ID\u3001HSTU\u3001OneRec\u3001EGA\u3001OneRec-Think\u3001RecZero\u3001\u6269\u6563\u6a21\u578b\uff09\u3001\u8ba1\u7b97\u5e7f\u544a\uff08GFP",
-    "id": "Haozhe-Xing/fun-rec-mdbook",
-    "language": "HTML",
-    "name": "Haozhe-Xing/fun-rec-mdbook",
-    "stars": 5,
-    "updated_at": "2026-09-03T08:02:53Z",
-    "url": "https://github.com/Haozhe-Xing/fun-rec-mdbook"
-  },
-  {
-    "description": "Zero-dependency LLM agent runtime \u2014 tool use, MCP, sandboxed self-written tools, checkpoint/resume, approval gates, bi-t",
-    "id": "laazizi/autoagent",
-    "language": "Python",
-    "name": "laazizi/autoagent",
-    "stars": 2,
-    "updated_at": "2026-09-03T08:02:22Z",
-    "url": "https://github.com/laazizi/autoagent"
   }
 ]
