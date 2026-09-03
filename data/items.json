@@ -1,5 +1,59 @@
 [
   {
+    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
+    "id": "Heliotrope-dev/finance-agent",
+    "language": "Python",
+    "name": "Heliotrope-dev/finance-agent",
+    "stars": 2,
+    "updated_at": "2026-09-03T16:43:56Z",
+    "url": "https://github.com/Heliotrope-dev/finance-agent"
+  },
+  {
+    "description": "Autonomous AI agent for real estate feasibility analysis. Give it an address \u2014 it researches, models DCF + Monte Carlo, ",
+    "id": "Alessandro114/landiq",
+    "language": "Python",
+    "name": "Alessandro114/landiq",
+    "stars": 1,
+    "updated_at": "2026-09-03T16:43:40Z",
+    "url": "https://github.com/Alessandro114/landiq"
+  },
+  {
+    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 5,
+    "updated_at": "2026-09-03T16:38:05Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 52,
+    "updated_at": "2026-09-03T16:33:20Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "LLM loop that reasons in a dense technical register \u2014 mechanical gates + adversarial judge + reverse-translation for hum",
+    "id": "Danreelkow/HDCS",
+    "language": "JavaScript",
+    "name": "Danreelkow/HDCS",
+    "stars": 0,
+    "updated_at": "2026-09-03T16:33:02Z",
+    "url": "https://github.com/Danreelkow/HDCS"
+  },
+  {
+    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
+    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "language": "Python",
+    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "stars": 1,
+    "updated_at": "2026-09-03T16:28:24Z",
+    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
+  },
+  {
     "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
     "id": "diaban/jobsmith",
     "language": "Python",
@@ -18,22 +72,13 @@
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
-    "description": "LLM loop that reasons in a dense technical register \u2014 mechanical gates + adversarial judge + reverse-translation for hum",
-    "id": "Danreelkow/HDCS",
-    "language": "JavaScript",
-    "name": "Danreelkow/HDCS",
+    "description": "Skill-first operating layer for agentic brokerage trading \u2014 strategy, guardrails, and provider adapters an LLM agent fol",
+    "id": "jack-h-park/stock-trading-skills",
+    "language": "Shell",
+    "name": "jack-h-park/stock-trading-skills",
     "stars": 0,
-    "updated_at": "2026-09-03T16:24:20Z",
-    "url": "https://github.com/Danreelkow/HDCS"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 52,
-    "updated_at": "2026-09-03T16:16:19Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
+    "updated_at": "2026-09-03T16:23:42Z",
+    "url": "https://github.com/jack-h-park/stock-trading-skills"
   },
   {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
@@ -52,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T16:13:08Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
-    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "language": "Python",
-    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "stars": 1,
-    "updated_at": "2026-09-03T16:28:24Z",
-    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
   },
   {
     "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
@@ -149,7 +185,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-03T16:20:20Z",
+    "updated_at": "2026-09-03T16:44:34Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "veris-ai/riley-agent",
     "stars": 16,
-    "updated_at": "2026-09-03T16:24:47Z",
+    "updated_at": "2026-09-03T16:30:57Z",
     "url": "https://github.com/veris-ai/riley-agent"
   },
   {
@@ -286,15 +322,6 @@
     "stars": 12,
     "updated_at": "2026-09-03T14:09:51Z",
     "url": "https://github.com/cdavid817/awesome-agent-tutorial"
-  },
-  {
-    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
-    "id": "Heliotrope-dev/finance-agent",
-    "language": "Python",
-    "name": "Heliotrope-dev/finance-agent",
-    "stars": 2,
-    "updated_at": "2026-09-03T14:03:39Z",
-    "url": "https://github.com/Heliotrope-dev/finance-agent"
   },
   {
     "description": "Cost-aware multi-agent orchestrator kit for OpenCode CLI \u2014 one routing agent, 14 specialized subagents, zero application",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-03T12:57:32Z",
     "url": "https://github.com/mystxcal/flourite"
-  },
-  {
-    "description": "\u4ece\u96f6\u5b9e\u73b0 ReAct Agent\uff1aSkill \u5de5\u5177\u534f\u8bae\u3001\u6ed1\u7a97\u8bb0\u5fc6\u3001JSONL \u51b3\u7b56\u8ffd\u8e2a\u3001Docker \u5316",
-    "id": "MeiXi723/research-agent",
-    "language": "Python",
-    "name": "MeiXi723/research-agent",
-    "stars": 1,
-    "updated_at": "2026-09-03T12:51:47Z",
-    "url": "https://github.com/MeiXi723/research-agent"
-  },
-  {
-    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 5,
-    "updated_at": "2026-09-03T12:50:09Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5717,
-    "updated_at": "2026-09-03T12:38:06Z",
-    "url": "https://github.com/areal-project/AReaL"
   }
 ]
