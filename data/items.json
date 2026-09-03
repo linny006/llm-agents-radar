@@ -1,11 +1,29 @@
 [
   {
+    "description": "An agent for coding and everyday tasks, powered by the ChatGPT account you already pay for. No API key, no per-token bil",
+    "id": "khudayarovich/onflip-agent",
+    "language": "TypeScript",
+    "name": "khudayarovich/onflip-agent",
+    "stars": 2,
+    "updated_at": "2026-09-03T06:13:41Z",
+    "url": "https://github.com/khudayarovich/onflip-agent"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4405,
+    "updated_at": "2026-09-03T06:07:33Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
     "description": "LLM application engineering projects: RAG, LangGraph Agents, MCP, evaluation, FastAPI, Redis, and deployment.",
     "id": "justin-zhong/ai-deployment-project",
     "language": "Python",
     "name": "justin-zhong/ai-deployment-project",
     "stars": 0,
-    "updated_at": "2026-09-03T05:59:34Z",
+    "updated_at": "2026-09-03T06:02:39Z",
     "url": "https://github.com/justin-zhong/ai-deployment-project"
   },
   {
@@ -14,7 +32,7 @@
     "language": "Go",
     "name": "ongridio/ongrid",
     "stars": 971,
-    "updated_at": "2026-09-03T05:58:55Z",
+    "updated_at": "2026-09-03T06:01:47Z",
     "url": "https://github.com/ongridio/ongrid"
   },
   {
@@ -34,15 +52,6 @@
     "stars": 8,
     "updated_at": "2026-09-03T05:48:04Z",
     "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "An agent for coding and everyday tasks, powered by the ChatGPT account you already pay for. No API key, no per-token bil",
-    "id": "khudayarovich/onflip-agent",
-    "language": "TypeScript",
-    "name": "khudayarovich/onflip-agent",
-    "stars": 2,
-    "updated_at": "2026-09-03T06:00:17Z",
-    "url": "https://github.com/khudayarovich/onflip-agent"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -86,7 +95,7 @@
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
     "stars": 1067,
-    "updated_at": "2026-09-03T05:37:58Z",
+    "updated_at": "2026-09-03T06:15:02Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
@@ -436,17 +445,8 @@
     "id": "titanwings/distilly",
     "language": "TypeScript",
     "name": "titanwings/distilly",
-    "stars": 24296,
+    "stars": 24297,
     "updated_at": "2026-09-03T03:40:48Z",
     "url": "https://github.com/titanwings/distilly"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 6,
-    "updated_at": "2026-09-03T03:46:49Z",
-    "url": "https://github.com/ljchang/mecha"
   }
 ]
