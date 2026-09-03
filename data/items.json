@@ -1,12 +1,12 @@
 [
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-03T00:18:17Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
+    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
+    "id": "Rekin226/Agronaut",
+    "language": "Python",
+    "name": "Rekin226/Agronaut",
+    "stars": 4,
+    "updated_at": "2026-09-03T00:30:11Z",
+    "url": "https://github.com/Rekin226/Agronaut"
   },
   {
     "description": "A chat bot which makes use of multiple RAG collections/metadata field filtering, and multiple LLMs for model orchestrati",
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "milljm/dynamic-rag-chat",
     "stars": 3,
-    "updated_at": "2026-09-03T00:13:16Z",
+    "updated_at": "2026-09-03T00:29:16Z",
     "url": "https://github.com/milljm/dynamic-rag-chat"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-03T00:18:17Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-02T20:38:14Z",
     "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-09-02T20:37:48Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
   }
 ]
