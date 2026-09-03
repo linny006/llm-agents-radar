@@ -1,5 +1,41 @@
 [
   {
+    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
+    "id": "diaban/jobsmith",
+    "language": "Python",
+    "name": "diaban/jobsmith",
+    "stars": 0,
+    "updated_at": "2026-09-03T20:27:57Z",
+    "url": "https://github.com/diaban/jobsmith"
+  },
+  {
+    "description": "Autonomous SRE agent that detects, diagnoses, and self-heals production incidents - with a standalone watchdog that need",
+    "id": "Lethe044/hermes-incident-commander",
+    "language": "Python",
+    "name": "Lethe044/hermes-incident-commander",
+    "stars": 68,
+    "updated_at": "2026-09-03T20:27:30Z",
+    "url": "https://github.com/Lethe044/hermes-incident-commander"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 52,
+    "updated_at": "2026-09-03T20:25:00Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 2,
+    "updated_at": "2026-09-03T20:20:20Z",
+    "url": "https://github.com/sydches/yuj"
+  },
+  {
     "description": "An AI data analyst agent. Ask questions in plain English; it plans, writes SQL, runs pandas, charts results, and verifie",
     "id": "asadaslam556/prism-data-agent",
     "language": "Python",
@@ -9,22 +45,22 @@
     "url": "https://github.com/asadaslam556/prism-data-agent"
   },
   {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 52,
-    "updated_at": "2026-09-03T20:14:33Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-03T20:12:45Z",
+    "updated_at": "2026-09-03T20:26:33Z",
     "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 32,
+    "updated_at": "2026-09-03T20:05:59Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "An autopoiesic kefir for computing machines",
@@ -50,7 +86,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-03T19:58:33Z",
+    "updated_at": "2026-09-03T20:22:04Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -115,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T19:19:47Z",
     "url": "https://github.com/sunnnn2005/data-quality-agent"
-  },
-  {
-    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
-    "id": "diaban/jobsmith",
-    "language": "Python",
-    "name": "diaban/jobsmith",
-    "stars": 0,
-    "updated_at": "2026-09-03T19:16:23Z",
-    "url": "https://github.com/diaban/jobsmith"
   },
   {
     "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
@@ -250,15 +277,6 @@
     "stars": 1524,
     "updated_at": "2026-09-03T18:16:19Z",
     "url": "https://github.com/Mirascope/mirascope"
-  },
-  {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 2,
-    "updated_at": "2026-09-03T18:10:27Z",
-    "url": "https://github.com/sydches/yuj"
   },
   {
     "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-03T17:36:46Z",
     "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 0,
-    "updated_at": "2026-09-03T17:36:16Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
-    "id": "edjafarov/kiagent-core",
-    "language": "TypeScript",
-    "name": "edjafarov/kiagent-core",
-    "stars": 7,
-    "updated_at": "2026-09-03T17:34:14Z",
-    "url": "https://github.com/edjafarov/kiagent-core"
   }
 ]
