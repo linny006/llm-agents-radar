@@ -1,12 +1,12 @@
 [
   {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 971,
-    "updated_at": "2026-09-03T06:44:39Z",
-    "url": "https://github.com/ongridio/ongrid"
+    "description": "\u6296\u97f3\u7535\u5546\u667a\u80fd\u8fd0\u8425 Multi-Agent\uff1aFastAPI + LangGraph + DeepSeek\uff0c\u542b SQL \u81ea\u7ea0\u9519\u3001SSE \u6d41\u5f0f\u4e0e\u654f\u611f\u64cd\u4f5c\u4eba\u5de5\u5ba1\u6279\u3002",
+    "id": "Qinkx0515/douyin-agent",
+    "language": "Python",
+    "name": "Qinkx0515/douyin-agent",
+    "stars": 0,
+    "updated_at": "2026-09-03T06:59:56Z",
+    "url": "https://github.com/Qinkx0515/douyin-agent"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-09-03T06:43:35Z",
+    "updated_at": "2026-09-03T06:59:52Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 364,
+    "updated_at": "2026-09-03T06:49:16Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
@@ -23,8 +32,17 @@
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
     "stars": 52,
-    "updated_at": "2026-09-03T06:37:11Z",
+    "updated_at": "2026-09-03T06:46:54Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 971,
+    "updated_at": "2026-09-03T06:44:39Z",
+    "url": "https://github.com/ongridio/ongrid"
   },
   {
     "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
@@ -43,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T06:36:59Z",
     "url": "https://github.com/OtakuNathan/Pal"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 364,
-    "updated_at": "2026-09-03T06:36:57Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -121,7 +130,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 1067,
+    "stars": 1068,
     "updated_at": "2026-09-03T06:16:06Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -149,7 +158,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4405,
-    "updated_at": "2026-09-03T06:07:33Z",
+    "updated_at": "2026-09-03T06:47:48Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-03T06:42:47Z",
     "url": "https://github.com/kangwoo/aimon-core"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 1,
-    "updated_at": "2026-09-03T03:51:58Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
   }
 ]
