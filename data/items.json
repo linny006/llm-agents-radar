@@ -1,11 +1,29 @@
 [
   {
+    "description": "Claude Code plugin: universal radial-tree exploration engine. One tree skill + swappable presets (brainstorm / attack / ",
+    "id": "skymanbp/cc-tree",
+    "language": "Python",
+    "name": "skymanbp/cc-tree",
+    "stars": 107,
+    "updated_at": "2026-09-03T11:55:47Z",
+    "url": "https://github.com/skymanbp/cc-tree"
+  },
+  {
+    "description": "LLM loop that reasons in a dense technical register \u2014 mechanical gates + adversarial judge + reverse-translation for hum",
+    "id": "Danreelkow/HDCS",
+    "language": "Shell",
+    "name": "Danreelkow/HDCS",
+    "stars": 0,
+    "updated_at": "2026-09-03T11:49:16Z",
+    "url": "https://github.com/Danreelkow/HDCS"
+  },
+  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-09-03T11:44:05Z",
+    "updated_at": "2026-09-03T11:46:10Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -52,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T11:23:13Z",
     "url": "https://github.com/bajshorya/llm-observability-agent"
-  },
-  {
-    "description": "LLM loop that reasons in a dense technical register \u2014 mechanical gates + adversarial judge + reverse-translation for hum",
-    "id": "Danreelkow/HDCS",
-    "language": "Shell",
-    "name": "Danreelkow/HDCS",
-    "stars": 0,
-    "updated_at": "2026-09-03T11:20:36Z",
-    "url": "https://github.com/Danreelkow/HDCS"
   },
   {
     "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
@@ -320,7 +329,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-03T11:40:26Z",
+    "updated_at": "2026-09-03T11:55:35Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -410,7 +419,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4408,
-    "updated_at": "2026-09-03T11:10:57Z",
+    "updated_at": "2026-09-03T11:54:05Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-03T09:37:39Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "\u300a\u4f01\u4e1a\u7ea7 Agent \u4ece\u5165\u95e8\u5230\u4e13\u5bb6\uff082026\u7248\uff09\u300b\u2014\u2014\u4ece\u5355 Agent \u6838\u5fc3\u673a\u5236\u5230\u591a Agent \u4e0e\u4f01\u4e1a\u843d\u5730\u7684\u5de5\u7a0b\u5316\u5b9e\u6218\u6559\u7a0b\uff0c\u914d\u5957\u53ef\u8fd0\u884c\u8d2f\u7a7f\u9879\u76ee\u4e0e CI \u9a8c\u8bc1\u95e8\u7981\u3002",
-    "id": "cdavid817/awesome-agent-tutorial",
-    "language": "Python",
-    "name": "cdavid817/awesome-agent-tutorial",
-    "stars": 12,
-    "updated_at": "2026-09-03T09:36:59Z",
-    "url": "https://github.com/cdavid817/awesome-agent-tutorial"
   }
 ]
