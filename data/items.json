@@ -1,5 +1,14 @@
 [
   {
+    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
+    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "language": "Python",
+    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "stars": 1,
+    "updated_at": "2026-09-03T17:57:21Z",
+    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
+  },
+  {
     "description": "An in-process bridge giving an AI agent real access to a modded Minecraft world - including mod APIs a protocol-level bo",
     "id": "max-champlin/ghost",
     "language": "Java",
@@ -81,15 +90,6 @@
     "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
   },
   {
-    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
-    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "language": "Python",
-    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "stars": 1,
-    "updated_at": "2026-09-03T17:57:21Z",
-    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
-  },
-  {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
     "id": "pruthviraj00007/VibeHarness",
     "language": "Python",
@@ -149,7 +149,7 @@
     "language": "TypeScript",
     "name": "wiseria-ai-labs/pie-ai-agent",
     "stars": 72,
-    "updated_at": "2026-09-03T17:41:00Z",
+    "updated_at": "2026-09-03T18:14:41Z",
     "url": "https://github.com/wiseria-ai-labs/pie-ai-agent"
   },
   {
@@ -248,7 +248,7 @@
     "language": "Python",
     "name": "sydches/yuj",
     "stars": 2,
-    "updated_at": "2026-09-03T17:28:16Z",
+    "updated_at": "2026-09-03T18:10:27Z",
     "url": "https://github.com/sydches/yuj"
   },
   {
