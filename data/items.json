@@ -1,5 +1,14 @@
 [
   {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-03T00:18:17Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
     "description": "A chat bot which makes use of multiple RAG collections/metadata field filtering, and multiple LLMs for model orchestrati",
     "id": "milljm/dynamic-rag-chat",
     "language": "Python",
@@ -34,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-09-03T00:06:34Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-03T00:03:06Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
@@ -221,7 +221,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-02T22:09:23Z",
+    "updated_at": "2026-09-03T00:20:48Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
