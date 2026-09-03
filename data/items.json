@@ -1,12 +1,21 @@
 [
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-09-03T15:12:11Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-09-03T15:30:13Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 4,
+    "updated_at": "2026-09-03T15:27:33Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
     "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
@@ -14,8 +23,17 @@
     "language": "Python",
     "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
     "stars": 1,
-    "updated_at": "2026-09-03T15:13:11Z",
+    "updated_at": "2026-09-03T15:18:03Z",
     "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-09-03T15:12:11Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Pie \u2014 AI browser agent Chrome extension",
@@ -34,15 +52,6 @@
     "stars": 22,
     "updated_at": "2026-09-03T15:00:47Z",
     "url": "https://github.com/SugarMGP/MumuBot"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 4,
-    "updated_at": "2026-09-03T14:54:58Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -385,15 +394,6 @@
     "stars": 1525,
     "updated_at": "2026-09-03T12:20:56Z",
     "url": "https://github.com/Mirascope/mirascope"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 6,
-    "updated_at": "2026-09-03T15:05:00Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Build and run agents you can see, understand and trust.",
