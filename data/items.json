@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "Heliotrope-dev/finance-agent",
     "stars": 2,
-    "updated_at": "2026-09-03T16:43:56Z",
+    "updated_at": "2026-09-03T16:58:59Z",
     "url": "https://github.com/Heliotrope-dev/finance-agent"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7141,
+    "updated_at": "2026-09-03T16:54:08Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
+    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "language": "Python",
+    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "stars": 1,
+    "updated_at": "2026-09-03T16:52:42Z",
+    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-09-03T16:50:38Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Autonomous AI agent for real estate feasibility analysis. Give it an address \u2014 it researches, models DCF + Monte Carlo, ",
@@ -16,6 +43,15 @@
     "stars": 1,
     "updated_at": "2026-09-03T16:43:40Z",
     "url": "https://github.com/Alessandro114/landiq"
+  },
+  {
+    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
+    "id": "wufufu770/d2d",
+    "language": "JavaScript",
+    "name": "wufufu770/d2d",
+    "stars": 0,
+    "updated_at": "2026-09-03T16:58:07Z",
+    "url": "https://github.com/wufufu770/d2d"
   },
   {
     "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
@@ -43,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T16:33:02Z",
     "url": "https://github.com/Danreelkow/HDCS"
-  },
-  {
-    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
-    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "language": "Python",
-    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "stars": 1,
-    "updated_at": "2026-09-03T16:28:24Z",
-    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
   },
   {
     "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
@@ -131,7 +158,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4408,
-    "updated_at": "2026-09-03T16:01:33Z",
+    "updated_at": "2026-09-03T16:55:50Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -185,7 +212,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-03T16:44:34Z",
+    "updated_at": "2026-09-03T16:58:08Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -234,15 +261,6 @@
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7141,
-    "updated_at": "2026-09-03T14:37:31Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
     "id": "sydches/yuj",
     "language": "Python",
@@ -259,6 +277,15 @@
     "stars": 16,
     "updated_at": "2026-09-03T16:30:57Z",
     "url": "https://github.com/veris-ai/riley-agent"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 804,
+    "updated_at": "2026-09-03T14:32:49Z",
+    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
@@ -304,15 +331,6 @@
     "stars": 2,
     "updated_at": "2026-09-03T14:18:03Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 803,
-    "updated_at": "2026-09-03T14:32:49Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "\u300a\u4f01\u4e1a\u7ea7 Agent \u4ece\u5165\u95e8\u5230\u4e13\u5bb6\uff082026\u7248\uff09\u300b\u2014\u2014\u4ece\u5355 Agent \u6838\u5fc3\u673a\u5236\u5230\u591a Agent \u4e0e\u4f01\u4e1a\u843d\u5730\u7684\u5de5\u7a0b\u5316\u5b9e\u6218\u6559\u7a0b\uff0c\u914d\u5957\u53ef\u8fd0\u884c\u8d2f\u7a7f\u9879\u76ee\u4e0e CI \u9a8c\u8bc1\u95e8\u7981\u3002",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-03T13:01:08Z",
     "url": "https://github.com/hoshiyomiX/stellar-trails"
-  },
-  {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "TypeScript",
-    "name": "dsswift/ion",
-    "stars": 4,
-    "updated_at": "2026-09-03T14:09:34Z",
-    "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "An AI agent harness for hard, exact tasks. Keeps one evolving artifact, spends compute only on decisions that can change",
-    "id": "mystxcal/flourite",
-    "language": "Python",
-    "name": "mystxcal/flourite",
-    "stars": 0,
-    "updated_at": "2026-09-03T12:57:32Z",
-    "url": "https://github.com/mystxcal/flourite"
   }
 ]
