@@ -1,12 +1,30 @@
 [
   {
-    "description": "\u6296\u97f3\u7535\u5546\u667a\u80fd\u8fd0\u8425 Multi-Agent\uff1aFastAPI + LangGraph + DeepSeek\uff0c\u542b SQL \u81ea\u7ea0\u9519\u3001SSE \u6d41\u5f0f\u4e0e\u654f\u611f\u64cd\u4f5c\u4eba\u5de5\u5ba1\u6279\u3002",
-    "id": "Qinkx0515/douyin-agent",
+    "description": "Multi-agent sentiment analysis \u2014 parallel Query/Media/Insight agents, custom scheduler, SSE long-task control, report pi",
+    "id": "zengbohan1/sentiment-analysis-agents",
     "language": "Python",
-    "name": "Qinkx0515/douyin-agent",
-    "stars": 0,
-    "updated_at": "2026-09-03T06:59:56Z",
-    "url": "https://github.com/Qinkx0515/douyin-agent"
+    "name": "zengbohan1/sentiment-analysis-agents",
+    "stars": 3,
+    "updated_at": "2026-09-03T07:13:47Z",
+    "url": "https://github.com/zengbohan1/sentiment-analysis-agents"
+  },
+  {
+    "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
+    "id": "DylPorter/claude-telegram",
+    "language": "Python",
+    "name": "DylPorter/claude-telegram",
+    "stars": 1,
+    "updated_at": "2026-09-03T07:13:10Z",
+    "url": "https://github.com/DylPorter/claude-telegram"
+  },
+  {
+    "description": "Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support",
+    "id": "mensfeld/pocketrb",
+    "language": "Ruby",
+    "name": "mensfeld/pocketrb",
+    "stars": 38,
+    "updated_at": "2026-09-03T07:09:49Z",
+    "url": "https://github.com/mensfeld/pocketrb"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -14,8 +32,35 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-09-03T06:59:52Z",
+    "updated_at": "2026-09-03T07:09:08Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 1,
+    "updated_at": "2026-09-03T07:07:17Z",
+    "url": "https://github.com/ljedrz/nachalnik"
+  },
+  {
+    "description": "An OpenEnv-compatible RL environment for autonomous vulnerability patch management, cyber-resilience research, and repro",
+    "id": "Ayush-Kumar0207/PatchCascade-SOC",
+    "language": "Python",
+    "name": "Ayush-Kumar0207/PatchCascade-SOC",
+    "stars": 1,
+    "updated_at": "2026-09-03T07:05:16Z",
+    "url": "https://github.com/Ayush-Kumar0207/PatchCascade-SOC"
+  },
+  {
+    "description": "\u6296\u97f3\u7535\u5546\u667a\u80fd\u8fd0\u8425 Multi-Agent\uff1aFastAPI + LangGraph + DeepSeek\uff0c\u542b SQL \u81ea\u7ea0\u9519\u3001SSE \u6d41\u5f0f\u4e0e\u654f\u611f\u64cd\u4f5c\u4eba\u5de5\u5ba1\u6279\u3002",
+    "id": "Qinkx0515/douyin-agent",
+    "language": "Python",
+    "name": "Qinkx0515/douyin-agent",
+    "stars": 0,
+    "updated_at": "2026-09-03T06:59:56Z",
+    "url": "https://github.com/Qinkx0515/douyin-agent"
   },
   {
     "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
@@ -148,7 +193,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7132,
+    "stars": 7133,
     "updated_at": "2026-09-03T06:13:27Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-03T03:59:06Z",
     "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
-  },
-  {
-    "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
-    "id": "Blondieredistributed612/pocket-agent",
-    "language": "Python",
-    "name": "Blondieredistributed612/pocket-agent",
-    "stars": 1,
-    "updated_at": "2026-09-03T03:57:14Z",
-    "url": "https://github.com/Blondieredistributed612/pocket-agent"
-  },
-  {
-    "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
-    "id": "bettersilvanus849/inner-coordinates",
-    "language": "Shell",
-    "name": "bettersilvanus849/inner-coordinates",
-    "stars": 1,
-    "updated_at": "2026-09-03T03:53:27Z",
-    "url": "https://github.com/bettersilvanus849/inner-coordinates"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5713,
-    "updated_at": "2026-09-03T03:52:57Z",
-    "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
-    "id": "Blaz742/web-pentest-lab",
-    "language": "\u2014",
-    "name": "Blaz742/web-pentest-lab",
-    "stars": 0,
-    "updated_at": "2026-09-03T03:52:21Z",
-    "url": "https://github.com/Blaz742/web-pentest-lab"
-  },
-  {
-    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
-    "id": "kangwoo/aimon-core",
-    "language": "Java",
-    "name": "kangwoo/aimon-core",
-    "stars": 0,
-    "updated_at": "2026-09-03T06:42:47Z",
-    "url": "https://github.com/kangwoo/aimon-core"
   }
 ]
