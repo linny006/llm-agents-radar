@@ -1,5 +1,86 @@
 [
   {
+    "description": "\u7b28\u529e\u6cd5\u5b66 Agent\uff1a\u4ece 60 \u884c\u4ee3\u7801\u5230\u4e00\u4e2a\u5b8c\u6574\u7684 harness\u3002Learn Agent the Hard Way \u2014 \u4e2d\u6587\u7535\u5b50\u4e66\uff0c\u5168\u4e66 32 \u4e2a\u7ec3\u4e60\u5df2\u5b8c\u7ed3\u3002",
+    "id": "Leihb/learn-agent-the-hard-way",
+    "language": "Go",
+    "name": "Leihb/learn-agent-the-hard-way",
+    "stars": 32,
+    "updated_at": "2026-09-03T07:28:50Z",
+    "url": "https://github.com/Leihb/learn-agent-the-hard-way"
+  },
+  {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-09-03T07:28:33Z",
+    "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
+    "description": "\u4e2d\u82f1\u53cc\u8bed\u77e5\u8bc6\u5e93\uff0c\u4e3a\u63a8\u8350\u7cfb\u7edf\u4e0e\u8ba1\u7b97\u5e7f\u544a auto research \u63d0\u4f9b\u53ef\u7cbe\u786e\u5f15\u7528\u7684\u6280\u672f\u8d44\u6599 \u2014 \u53ec\u56de/\u6392\u5e8f/\u91cd\u6392\u3001\u751f\u6210\u5f0f\u63a8\u8350\uff08\u8bed\u4e49 ID\u3001HSTU\u3001OneRec\u3001EGA\u3001OneRec-Think\u3001RecZero\u3001\u6269\u6563\u6a21\u578b\uff09\u3001\u8ba1\u7b97\u5e7f\u544a\uff08GFP",
+    "id": "Haozhe-Xing/fun-rec-mdbook",
+    "language": "HTML",
+    "name": "Haozhe-Xing/fun-rec-mdbook",
+    "stars": 3,
+    "updated_at": "2026-09-03T07:28:26Z",
+    "url": "https://github.com/Haozhe-Xing/fun-rec-mdbook"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 803,
+    "updated_at": "2026-09-03T07:27:42Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Connect Claude Code, Cursor, and Codex to Workflow (workflow.games): your AI coding agent plans requirements, files bugs",
+    "id": "LumioGames/workflow-plugin",
+    "language": "JavaScript",
+    "name": "LumioGames/workflow-plugin",
+    "stars": 2,
+    "updated_at": "2026-09-03T07:26:54Z",
+    "url": "https://github.com/LumioGames/workflow-plugin"
+  },
+  {
+    "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
+    "id": "OtakuNathan/Pal",
+    "language": "Python",
+    "name": "OtakuNathan/Pal",
+    "stars": 0,
+    "updated_at": "2026-09-03T07:24:46Z",
+    "url": "https://github.com/OtakuNathan/Pal"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 52,
+    "updated_at": "2026-09-03T07:23:55Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-09-03T07:18:28Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-09-03T07:16:47Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "Multi-agent sentiment analysis \u2014 parallel Query/Media/Insight agents, custom scheduler, SSE long-task control, report pi",
     "id": "zengbohan1/sentiment-analysis-agents",
     "language": "Python",
@@ -25,15 +106,6 @@
     "stars": 38,
     "updated_at": "2026-09-03T07:09:49Z",
     "url": "https://github.com/mensfeld/pocketrb"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-09-03T07:09:08Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
@@ -72,15 +144,6 @@
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 52,
-    "updated_at": "2026-09-03T06:46:54Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
-  },
-  {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
     "id": "ongridio/ongrid",
     "language": "Go",
@@ -99,15 +162,6 @@
     "url": "https://github.com/lsdefine/GenericAgent"
   },
   {
-    "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
-    "id": "OtakuNathan/Pal",
-    "language": "Python",
-    "name": "OtakuNathan/Pal",
-    "stars": 0,
-    "updated_at": "2026-09-03T06:36:59Z",
-    "url": "https://github.com/OtakuNathan/Pal"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -115,15 +169,6 @@
     "stars": 9,
     "updated_at": "2026-09-03T06:34:12Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "\u7b28\u529e\u6cd5\u5b66 Agent\uff1a\u4ece 60 \u884c\u4ee3\u7801\u5230\u4e00\u4e2a\u5b8c\u6574\u7684 harness\u3002Learn Agent the Hard Way \u2014 \u4e2d\u6587\u7535\u5b50\u4e66\uff0c\u5168\u4e66 32 \u4e2a\u7ec3\u4e60\u5df2\u5b8c\u7ed3\u3002",
-    "id": "Leihb/learn-agent-the-hard-way",
-    "language": "Go",
-    "name": "Leihb/learn-agent-the-hard-way",
-    "stars": 32,
-    "updated_at": "2026-09-03T06:33:45Z",
-    "url": "https://github.com/Leihb/learn-agent-the-hard-way"
   },
   {
     "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
@@ -176,7 +221,7 @@
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
     "stars": 1068,
-    "updated_at": "2026-09-03T06:16:06Z",
+    "updated_at": "2026-09-03T07:22:28Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
@@ -301,7 +346,7 @@
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 218,
+    "stars": 219,
     "updated_at": "2026-09-03T05:05:56Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-03T04:12:18Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
-    "id": "xhqing/DayTradingAgent",
-    "language": "Python",
-    "name": "xhqing/DayTradingAgent",
-    "stars": 2,
-    "updated_at": "2026-09-03T04:06:07Z",
-    "url": "https://github.com/xhqing/DayTradingAgent"
-  },
-  {
-    "description": "A chat bot which makes use of multiple RAG collections/metadata field filtering, and multiple LLMs for model orchestrati",
-    "id": "milljm/dynamic-rag-chat",
-    "language": "Python",
-    "name": "milljm/dynamic-rag-chat",
-    "stars": 3,
-    "updated_at": "2026-09-03T04:27:31Z",
-    "url": "https://github.com/milljm/dynamic-rag-chat"
-  },
-  {
-    "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
-    "id": "rugose-learnedprofession58/pi-dsh",
-    "language": "TypeScript",
-    "name": "rugose-learnedprofession58/pi-dsh",
-    "stars": 1,
-    "updated_at": "2026-09-03T04:00:20Z",
-    "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
-  },
-  {
-    "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
-    "id": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
-    "language": "JavaScript",
-    "name": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
-    "stars": 1,
-    "updated_at": "2026-09-03T03:59:14Z",
-    "url": "https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder"
-  },
-  {
-    "description": "Verify area values quickly with this web-based HTML calculator tool.",
-    "id": "passive-hotpepper515/area-checker-html-tool",
-    "language": "HTML",
-    "name": "passive-hotpepper515/area-checker-html-tool",
-    "stars": 0,
-    "updated_at": "2026-09-03T03:59:06Z",
-    "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
   }
 ]
