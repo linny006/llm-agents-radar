@@ -1,21 +1,12 @@
 [
   {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-09-03T07:57:25Z",
-    "url": "https://github.com/SashaEee/auditLens"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 52,
-    "updated_at": "2026-09-03T07:52:48Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-09-03T08:14:04Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "\u7b28\u529e\u6cd5\u5b66 Agent\uff1a\u4ece 60 \u884c\u4ee3\u7801\u5230\u4e00\u4e2a\u5b8c\u6574\u7684 harness\u3002Learn Agent the Hard Way \u2014 \u4e2d\u6587\u7535\u5b50\u4e66\uff0c\u5168\u4e66 32 \u4e2a\u7ec3\u4e60\u5df2\u5b8c\u7ed3\u3002",
@@ -23,8 +14,71 @@
     "language": "Go",
     "name": "Leihb/learn-agent-the-hard-way",
     "stars": 32,
-    "updated_at": "2026-09-03T07:51:35Z",
+    "updated_at": "2026-09-03T08:12:44Z",
     "url": "https://github.com/Leihb/learn-agent-the-hard-way"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 52,
+    "updated_at": "2026-09-03T08:09:27Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "\u9762\u5411 AI Agent \u7684\u9879\u76ee\u6cbb\u7406 Skill \u96c6\u5408\uff1a\u5c06\u4ed3\u5e93\u7ed3\u6784\u3001\u7814\u53d1\u5168\u751f\u547d\u5468\u671f\u4ea7\u7269\u3001Agent \u6267\u884c\u8fb9\u754c\u548c\u670d\u52a1\u53d1\u5e03/\u8fd0\u884c\u6761\u4ef6\uff0c\u8f6c\u5316\u4e3a\u53ef\u6267\u884c\u7684\u786e\u5b9a\u6027\u95e8\u7981\u4e0e\u68c0\u67e5\u5668",
+    "id": "farfarfun-skills/farfarfun--project-manager",
+    "language": "Python",
+    "name": "farfarfun-skills/farfarfun--project-manager",
+    "stars": 0,
+    "updated_at": "2026-09-03T08:04:19Z",
+    "url": "https://github.com/farfarfun-skills/farfarfun--project-manager"
+  },
+  {
+    "description": "\u4e2d\u82f1\u53cc\u8bed\u77e5\u8bc6\u5e93\uff0c\u4e3a\u63a8\u8350\u7cfb\u7edf\u4e0e\u8ba1\u7b97\u5e7f\u544a auto research \u63d0\u4f9b\u53ef\u7cbe\u786e\u5f15\u7528\u7684\u6280\u672f\u8d44\u6599 \u2014 \u53ec\u56de/\u6392\u5e8f/\u91cd\u6392\u3001\u751f\u6210\u5f0f\u63a8\u8350\uff08\u8bed\u4e49 ID\u3001HSTU\u3001OneRec\u3001EGA\u3001OneRec-Think\u3001RecZero\u3001\u6269\u6563\u6a21\u578b\uff09\u3001\u8ba1\u7b97\u5e7f\u544a\uff08GFP",
+    "id": "Haozhe-Xing/fun-rec-mdbook",
+    "language": "HTML",
+    "name": "Haozhe-Xing/fun-rec-mdbook",
+    "stars": 5,
+    "updated_at": "2026-09-03T08:02:53Z",
+    "url": "https://github.com/Haozhe-Xing/fun-rec-mdbook"
+  },
+  {
+    "description": "Zero-dependency LLM agent runtime \u2014 tool use, MCP, sandboxed self-written tools, checkpoint/resume, approval gates, bi-t",
+    "id": "laazizi/autoagent",
+    "language": "Python",
+    "name": "laazizi/autoagent",
+    "stars": 2,
+    "updated_at": "2026-09-03T08:02:22Z",
+    "url": "https://github.com/laazizi/autoagent"
+  },
+  {
+    "description": "\u300a\u4f01\u4e1a\u7ea7 Agent \u4ece\u5165\u95e8\u5230\u4e13\u5bb6\uff082026\u7248\uff09\u300b\u2014\u2014\u4ece\u5355 Agent \u6838\u5fc3\u673a\u5236\u5230\u591a Agent \u4e0e\u4f01\u4e1a\u843d\u5730\u7684\u5de5\u7a0b\u5316\u5b9e\u6218\u6559\u7a0b\uff0c\u914d\u5957\u53ef\u8fd0\u884c\u8d2f\u7a7f\u9879\u76ee\u4e0e CI \u9a8c\u8bc1\u95e8\u7981\u3002",
+    "id": "cdavid817/awesome-agent-tutorial",
+    "language": "Python",
+    "name": "cdavid817/awesome-agent-tutorial",
+    "stars": 12,
+    "updated_at": "2026-09-03T08:00:01Z",
+    "url": "https://github.com/cdavid817/awesome-agent-tutorial"
+  },
+  {
+    "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
+    "id": "OtakuNathan/Pal",
+    "language": "Python",
+    "name": "OtakuNathan/Pal",
+    "stars": 0,
+    "updated_at": "2026-09-03T07:59:00Z",
+    "url": "https://github.com/OtakuNathan/Pal"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-09-03T07:57:25Z",
+    "url": "https://github.com/SashaEee/auditLens"
   },
   {
     "description": "An autopoiesic kefir for computing machines",
@@ -50,7 +104,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-09-03T07:51:52Z",
+    "updated_at": "2026-09-03T08:03:22Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -61,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T07:38:02Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "\u4e2d\u82f1\u53cc\u8bed\u77e5\u8bc6\u5e93\uff0c\u4e3a\u63a8\u8350\u7cfb\u7edf\u4e0e\u8ba1\u7b97\u5e7f\u544a auto research \u63d0\u4f9b\u53ef\u7cbe\u786e\u5f15\u7528\u7684\u6280\u672f\u8d44\u6599 \u2014 \u53ec\u56de/\u6392\u5e8f/\u91cd\u6392\u3001\u751f\u6210\u5f0f\u63a8\u8350\uff08\u8bed\u4e49 ID\u3001HSTU\u3001OneRec\u3001EGA\u3001OneRec-Think\u3001RecZero\u3001\u6269\u6563\u6a21\u578b\uff09\u3001\u8ba1\u7b97\u5e7f\u544a\uff08GFP",
-    "id": "Haozhe-Xing/fun-rec-mdbook",
-    "language": "HTML",
-    "name": "Haozhe-Xing/fun-rec-mdbook",
-    "stars": 5,
-    "updated_at": "2026-09-03T07:36:28Z",
-    "url": "https://github.com/Haozhe-Xing/fun-rec-mdbook"
   },
   {
     "description": "\u81ea\u6f14\u8fdb\u7684\u756a\u5267\u5a92\u4f53\u5e93\u6cbb\u7406 agent\uff1a\u67e5\u91cd/\u6539\u540d/TMDB\u5bf9\u9f50/\u6b7b\u79cd\u6e05\u7406\uff0c\u80fd\u53d1\u73b0\u89c4\u5219\u76f2\u533a\u5e76\u81ea\u52a8\u6f14\u8fdb\u51fa\u65b0\u89c4\u5219",
@@ -106,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-09-03T07:26:54Z",
     "url": "https://github.com/LumioGames/workflow-plugin"
-  },
-  {
-    "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
-    "id": "OtakuNathan/Pal",
-    "language": "Python",
-    "name": "OtakuNathan/Pal",
-    "stars": 0,
-    "updated_at": "2026-09-03T07:59:00Z",
-    "url": "https://github.com/OtakuNathan/Pal"
   },
   {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
@@ -275,7 +311,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 7133,
-    "updated_at": "2026-09-03T07:55:16Z",
+    "updated_at": "2026-09-03T08:01:10Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -405,15 +441,6 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-09-03T07:41:32Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "Benzi is AI-native code intelligence infrastructure. Claude Code greps; Cursor embeds; Aider maps signatures; Benzi reso",
     "id": "oooscoos/Benzi",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 60,
     "updated_at": "2026-09-03T04:36:41Z",
     "url": "https://github.com/oooscoos/Benzi"
-  },
-  {
-    "description": "Requirements discovery as an Agent role: Scout-driven dialogue turns vague ideas into implementable, verifiable requirem",
-    "id": "unknowbug/req-scout",
-    "language": "PowerShell",
-    "name": "unknowbug/req-scout",
-    "stars": 3,
-    "updated_at": "2026-09-03T04:25:22Z",
-    "url": "https://github.com/unknowbug/req-scout"
-  },
-  {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-09-03T04:23:03Z",
-    "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-09-03T04:18:23Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   }
 ]
