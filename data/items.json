@@ -1,5 +1,50 @@
 [
   {
+    "description": "Cost-aware multi-agent orchestrator kit for OpenCode CLI \u2014 one routing agent, 14 specialized subagents, zero application",
+    "id": "NicoGenti/opencode-orchestrator-kit",
+    "language": "TypeScript",
+    "name": "NicoGenti/opencode-orchestrator-kit",
+    "stars": 5,
+    "updated_at": "2026-09-03T13:59:45Z",
+    "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
+  },
+  {
+    "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
+    "id": "HKUDS/DeepCode",
+    "language": "Python",
+    "name": "HKUDS/DeepCode",
+    "stars": 16480,
+    "updated_at": "2026-09-03T13:55:54Z",
+    "url": "https://github.com/HKUDS/DeepCode"
+  },
+  {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 2,
+    "updated_at": "2026-09-03T13:52:57Z",
+    "url": "https://github.com/sydches/yuj"
+  },
+  {
+    "description": "Event-driven 5G incident orchestrator: multi-agent evidence gathering (PCAP/log/KPI), LATS root-cause analysis, and huma",
+    "id": "AdrianDonohoe/NetCortex",
+    "language": "Python",
+    "name": "AdrianDonohoe/NetCortex",
+    "stars": 1,
+    "updated_at": "2026-09-03T13:51:48Z",
+    "url": "https://github.com/AdrianDonohoe/NetCortex"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-03T13:50:55Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "Bounded AI agent for payment-failure, checkout-abandonment and receivables recovery \u2014 measured as incremental lift over ",
     "id": "arrya5/revenue-recovery-agent",
     "language": "Python",
@@ -34,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-09-03T13:30:25Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 2,
-    "updated_at": "2026-09-03T13:29:15Z",
-    "url": "https://github.com/sydches/yuj"
   },
   {
     "description": "LLM loop that reasons in a dense technical register \u2014 mechanical gates + adversarial judge + reverse-translation for hum",
@@ -86,7 +122,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 565,
-    "updated_at": "2026-09-03T13:43:38Z",
+    "updated_at": "2026-09-03T13:57:44Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -131,7 +167,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 803,
-    "updated_at": "2026-09-03T13:02:32Z",
+    "updated_at": "2026-09-03T13:58:57Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -169,24 +205,6 @@
     "stars": 5717,
     "updated_at": "2026-09-03T12:38:06Z",
     "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "Event-driven 5G incident orchestrator: multi-agent evidence gathering (PCAP/log/KPI), LATS root-cause analysis, and huma",
-    "id": "AdrianDonohoe/NetCortex",
-    "language": "Python",
-    "name": "AdrianDonohoe/NetCortex",
-    "stars": 1,
-    "updated_at": "2026-09-03T12:34:43Z",
-    "url": "https://github.com/AdrianDonohoe/NetCortex"
-  },
-  {
-    "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
-    "id": "HKUDS/DeepCode",
-    "language": "Python",
-    "name": "HKUDS/DeepCode",
-    "stars": 16480,
-    "updated_at": "2026-09-03T12:32:37Z",
-    "url": "https://github.com/HKUDS/DeepCode"
   },
   {
     "description": "Zero-dependency LLM agent runtime \u2014 tool use, MCP, sandboxed self-written tools, checkpoint/resume, approval gates, bi-t",
@@ -247,7 +265,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 30556,
+    "stars": 30557,
     "updated_at": "2026-09-03T12:20:21Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-03T10:56:50Z",
     "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
-  },
-  {
-    "description": "Automate file management and coding tasks in your local directory using small language models.",
-    "id": "pruthviraj00007/VibeHarness",
-    "language": "Python",
-    "name": "pruthviraj00007/VibeHarness",
-    "stars": 0,
-    "updated_at": "2026-09-03T10:54:07Z",
-    "url": "https://github.com/pruthviraj00007/VibeHarness"
-  },
-  {
-    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
-    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
-    "language": "Go",
-    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
-    "stars": 0,
-    "updated_at": "2026-09-03T10:52:33Z",
-    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
   }
 ]
