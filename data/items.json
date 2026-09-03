@@ -1,5 +1,32 @@
 [
   {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 803,
+    "updated_at": "2026-09-03T10:09:13Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 4,
+    "updated_at": "2026-09-03T10:08:24Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
+    "id": "HKUDS/DeepCode",
+    "language": "Python",
+    "name": "HKUDS/DeepCode",
+    "stars": 16476,
+    "updated_at": "2026-09-03T10:03:47Z",
+    "url": "https://github.com/HKUDS/DeepCode"
+  },
+  {
     "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
     "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
     "language": "JavaScript",
@@ -23,8 +50,26 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-09-03T09:57:36Z",
+    "updated_at": "2026-09-03T10:09:10Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 972,
+    "updated_at": "2026-09-03T09:56:06Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4407,
+    "updated_at": "2026-09-03T09:55:41Z",
+    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
@@ -108,15 +153,6 @@
     "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 4,
-    "updated_at": "2026-09-03T09:28:16Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
     "description": "LangGraph \u591a Agent Kubernetes \u6839\u56e0\u5206\u6790\u7cfb\u7edf\uff0c\u7ed3\u5408 Datagraph \u62d3\u6251\u4e0e MCP \u53ef\u89c2\u6d4b\u5de5\u5177",
     "id": "whrgg/k8s-datagraph-rca",
     "language": "Python",
@@ -149,7 +185,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-09-03T09:22:58Z",
+    "updated_at": "2026-09-03T10:03:18Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -184,7 +220,7 @@
     "id": "mintuz/skills",
     "language": "Python",
     "name": "mintuz/skills",
-    "stars": 25,
+    "stars": 26,
     "updated_at": "2026-09-03T08:51:02Z",
     "url": "https://github.com/mintuz/skills"
   },
@@ -310,7 +346,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7135,
+    "stars": 7136,
     "updated_at": "2026-09-03T08:01:10Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -349,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T07:33:38Z",
     "url": "https://github.com/wzh4464/self-evolving-media-agent"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 803,
-    "updated_at": "2026-09-03T09:08:35Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "Connect Claude Code, Cursor, and Codex to Workflow (workflow.games): your AI coding agent plans requirements, files bugs",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-03T06:59:56Z",
     "url": "https://github.com/Qinkx0515/douyin-agent"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 364,
-    "updated_at": "2026-09-03T07:33:14Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 972,
-    "updated_at": "2026-09-03T09:56:06Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "id": "lsdefine/GenericAgent",
-    "language": "Python",
-    "name": "lsdefine/GenericAgent",
-    "stars": 14113,
-    "updated_at": "2026-09-03T06:37:00Z",
-    "url": "https://github.com/lsdefine/GenericAgent"
   }
 ]
