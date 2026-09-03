@@ -1,12 +1,21 @@
 [
   {
-    "description": "An in-process bridge giving an AI agent real access to a modded Minecraft world - including mod APIs a protocol-level bo",
-    "id": "max-champlin/ghost",
-    "language": "Java",
-    "name": "max-champlin/ghost",
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 105,
+    "updated_at": "2026-09-03T21:28:18Z",
+    "url": "https://github.com/AVADSA25/codec"
+  },
+  {
+    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
+    "id": "diaban/jobsmith",
+    "language": "Python",
+    "name": "diaban/jobsmith",
     "stars": 0,
-    "updated_at": "2026-09-03T21:15:11Z",
-    "url": "https://github.com/max-champlin/ghost"
+    "updated_at": "2026-09-03T21:25:28Z",
+    "url": "https://github.com/diaban/jobsmith"
   },
   {
     "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
@@ -14,8 +23,35 @@
     "language": "Rust",
     "name": "aviskaar/zorp",
     "stars": 3,
-    "updated_at": "2026-09-03T21:11:30Z",
+    "updated_at": "2026-09-03T21:29:38Z",
     "url": "https://github.com/aviskaar/zorp"
+  },
+  {
+    "description": "An in-process bridge giving an AI agent real access to a modded Minecraft world - including mod APIs a protocol-level bo",
+    "id": "max-champlin/ghost",
+    "language": "Java",
+    "name": "max-champlin/ghost",
+    "stars": 0,
+    "updated_at": "2026-09-03T21:19:42Z",
+    "url": "https://github.com/max-champlin/ghost"
+  },
+  {
+    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
+    "id": "monocle2ai/monocle",
+    "language": "Python",
+    "name": "monocle2ai/monocle",
+    "stars": 337,
+    "updated_at": "2026-09-03T21:17:50Z",
+    "url": "https://github.com/monocle2ai/monocle"
+  },
+  {
+    "description": "An AI data analyst agent. Ask questions in plain English; it plans, writes SQL, runs pandas, charts results, and verifie",
+    "id": "asadaslam556/prism-data-agent",
+    "language": "Python",
+    "name": "asadaslam556/prism-data-agent",
+    "stars": 0,
+    "updated_at": "2026-09-03T21:15:10Z",
+    "url": "https://github.com/asadaslam556/prism-data-agent"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
@@ -54,15 +90,6 @@
     "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
-    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
-    "id": "diaban/jobsmith",
-    "language": "Python",
-    "name": "diaban/jobsmith",
-    "stars": 0,
-    "updated_at": "2026-09-03T20:38:44Z",
-    "url": "https://github.com/diaban/jobsmith"
-  },
-  {
     "description": "Autonomous SRE agent that detects, diagnoses, and self-heals production incidents - with a standalone watchdog that need",
     "id": "Lethe044/hermes-incident-commander",
     "language": "Python",
@@ -79,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-09-03T20:20:20Z",
     "url": "https://github.com/sydches/yuj"
-  },
-  {
-    "description": "An AI data analyst agent. Ask questions in plain English; it plans, writes SQL, runs pandas, charts results, and verifie",
-    "id": "asadaslam556/prism-data-agent",
-    "language": "Python",
-    "name": "asadaslam556/prism-data-agent",
-    "stars": 0,
-    "updated_at": "2026-09-03T21:15:10Z",
-    "url": "https://github.com/asadaslam556/prism-data-agent"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -221,7 +239,7 @@
     "language": "TypeScript",
     "name": "dsswift/ion",
     "stars": 4,
-    "updated_at": "2026-09-03T18:57:43Z",
+    "updated_at": "2026-09-03T21:16:58Z",
     "url": "https://github.com/dsswift/ion"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 367,
     "updated_at": "2026-09-03T17:43:14Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "Pie \u2014 AI browser agent Chrome extension",
-    "id": "wiseria-ai-labs/pie-ai-agent",
-    "language": "TypeScript",
-    "name": "wiseria-ai-labs/pie-ai-agent",
-    "stars": 72,
-    "updated_at": "2026-09-03T18:14:41Z",
-    "url": "https://github.com/wiseria-ai-labs/pie-ai-agent"
-  },
-  {
-    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
-    "id": "chadwickhyperboloidal943/knowl",
-    "language": "TypeScript",
-    "name": "chadwickhyperboloidal943/knowl",
-    "stars": 0,
-    "updated_at": "2026-09-03T17:39:27Z",
-    "url": "https://github.com/chadwickhyperboloidal943/knowl"
   }
 ]
