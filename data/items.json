@@ -1,5 +1,50 @@
 [
   {
+    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 210,
+    "updated_at": "2026-09-04T19:13:44Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 29,
+    "updated_at": "2026-09-04T19:10:39Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
+    "description": "Detects runtime anomalies from application logs, correlates them with recent commits, and generates root-cause hypothese",
+    "id": "bajshorya/llm-observability-agent",
+    "language": "TypeScript",
+    "name": "bajshorya/llm-observability-agent",
+    "stars": 0,
+    "updated_at": "2026-09-04T19:03:47Z",
+    "url": "https://github.com/bajshorya/llm-observability-agent"
+  },
+  {
+    "description": "The Most Unique Terminal Client.",
+    "id": "chickadeeer/abyssal",
+    "language": "Python",
+    "name": "chickadeeer/abyssal",
+    "stars": 0,
+    "updated_at": "2026-09-04T19:01:52Z",
+    "url": "https://github.com/chickadeeer/abyssal"
+  },
+  {
+    "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
+    "id": "sunnnn2005/data-quality-agent",
+    "language": "Python",
+    "name": "sunnnn2005/data-quality-agent",
+    "stars": 0,
+    "updated_at": "2026-09-04T19:00:38Z",
+    "url": "https://github.com/sunnnn2005/data-quality-agent"
+  },
+  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
@@ -22,7 +67,7 @@
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
-    "stars": 67,
+    "stars": 72,
     "updated_at": "2026-09-04T18:57:27Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
   },
@@ -104,17 +149,8 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-04T18:59:51Z",
+    "updated_at": "2026-09-04T19:05:47Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 29,
-    "updated_at": "2026-09-04T18:28:09Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
     "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
@@ -124,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-09-04T18:25:24Z",
     "url": "https://github.com/Heliotrope-dev/finance-agent"
-  },
-  {
-    "description": "The Most Unique Terminal Client.",
-    "id": "chickadeeer/abyssal",
-    "language": "Python",
-    "name": "chickadeeer/abyssal",
-    "stars": 0,
-    "updated_at": "2026-09-04T18:20:31Z",
-    "url": "https://github.com/chickadeeer/abyssal"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -196,15 +223,6 @@
     "stars": 16,
     "updated_at": "2026-09-04T18:03:34Z",
     "url": "https://github.com/sehoon787/my-claude"
-  },
-  {
-    "description": "Detects runtime anomalies from application logs, correlates them with recent commits, and generates root-cause hypothese",
-    "id": "bajshorya/llm-observability-agent",
-    "language": "TypeScript",
-    "name": "bajshorya/llm-observability-agent",
-    "stars": 0,
-    "updated_at": "2026-09-04T18:03:17Z",
-    "url": "https://github.com/bajshorya/llm-observability-agent"
   },
   {
     "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
@@ -284,7 +302,7 @@
     "language": "Python",
     "name": "MikhailXiaomaikou/Standard-Astro",
     "stars": 4,
-    "updated_at": "2026-09-04T17:07:23Z",
+    "updated_at": "2026-09-04T19:14:04Z",
     "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-04T16:04:37Z",
     "url": "https://github.com/jiangxt2/Yamazaki-incubator"
-  },
-  {
-    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
-    "id": "Rekin226/Agronaut",
-    "language": "Python",
-    "name": "Rekin226/Agronaut",
-    "stars": 4,
-    "updated_at": "2026-09-04T15:53:31Z",
-    "url": "https://github.com/Rekin226/Agronaut"
-  },
-  {
-    "description": "LLM tool-calling agent that audits manuscript citations against PubMed/CrossRef to catch AI-hallucinated references. \u6587\u732e\u5f15",
-    "id": "yangyue-indream/citation-auditor-agent",
-    "language": "Python",
-    "name": "yangyue-indream/citation-auditor-agent",
-    "stars": 0,
-    "updated_at": "2026-09-04T15:44:46Z",
-    "url": "https://github.com/yangyue-indream/citation-auditor-agent"
   }
 ]
