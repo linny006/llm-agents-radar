@@ -1,12 +1,48 @@
 [
   {
+    "description": "An LLM job-matching agent with a from-scratch tool loop \u2014 and an evaluation that scores its own retriever and its own at",
+    "id": "P0w3r223/apply-scout",
+    "language": "Python",
+    "name": "P0w3r223/apply-scout",
+    "stars": 0,
+    "updated_at": "2026-09-04T13:44:20Z",
+    "url": "https://github.com/P0w3r223/apply-scout"
+  },
+  {
     "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
     "stars": 53,
-    "updated_at": "2026-09-04T13:27:12Z",
+    "updated_at": "2026-09-04T13:43:17Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 2,
+    "updated_at": "2026-09-04T13:36:17Z",
+    "url": "https://github.com/sydches/yuj"
+  },
+  {
+    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
+    "id": "Heliotrope-dev/finance-agent",
+    "language": "Python",
+    "name": "Heliotrope-dev/finance-agent",
+    "stars": 2,
+    "updated_at": "2026-09-04T13:34:18Z",
+    "url": "https://github.com/Heliotrope-dev/finance-agent"
+  },
+  {
+    "description": "Agentic forecast reconciliation between top-down financial targets and bottom-up planner builds, with role-based forecas",
+    "id": "abhineer/forecast-reconciliation-agent",
+    "language": "Python",
+    "name": "abhineer/forecast-reconciliation-agent",
+    "stars": 0,
+    "updated_at": "2026-09-04T13:33:06Z",
+    "url": "https://github.com/abhineer/forecast-reconciliation-agent"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4410,
-    "updated_at": "2026-09-04T13:29:45Z",
+    "updated_at": "2026-09-04T13:35:14Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -25,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T13:23:11Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Agentic forecast reconciliation between top-down financial targets and bottom-up planner builds, with role-based forecas",
-    "id": "abhineer/forecast-reconciliation-agent",
-    "language": "Python",
-    "name": "abhineer/forecast-reconciliation-agent",
-    "stars": 0,
-    "updated_at": "2026-09-04T13:22:21Z",
-    "url": "https://github.com/abhineer/forecast-reconciliation-agent"
   },
   {
     "description": "Open-Source Intelligent Command Layer",
@@ -59,7 +86,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-04T13:29:47Z",
+    "updated_at": "2026-09-04T13:39:34Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -70,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T13:14:58Z",
     "url": "https://github.com/mcohensolal/carat"
-  },
-  {
-    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
-    "id": "Heliotrope-dev/finance-agent",
-    "language": "Python",
-    "name": "Heliotrope-dev/finance-agent",
-    "stars": 2,
-    "updated_at": "2026-09-04T13:10:49Z",
-    "url": "https://github.com/Heliotrope-dev/finance-agent"
   },
   {
     "description": "\u0420\u0435\u043f\u0440\u0430\u0439\u0441\u0435\u0440 \u0434\u043b\u044f Ozon, Wildberries \u0438 \u042f\u043d\u0434\u0435\u043a\u0441.\u041c\u0430\u0440\u043a\u0435\u0442\u0430: \u0437\u0430\u0449\u0438\u0442\u0430 \u043c\u0430\u0440\u0436\u0438 \u043f\u043e \u0440\u0435\u0430\u043b\u044c\u043d\u044b\u043c \u0442\u0430\u0440\u0438\u0444\u0430\u043c \u043f\u043b\u043e\u0449\u0430\u0434\u043e\u043a, \u0430\u0432\u0442\u043e\u0432\u044b\u0432\u043e\u0434 \u0438\u0437 \u0430\u043a\u0446\u0438\u0439, \u0431\u0430\u0439\u0435\u0441\u043e\u0432",
@@ -121,7 +139,7 @@
     "id": "Yuxuan2003/Awesome-GUI-Agent-Security",
     "language": "Python",
     "name": "Yuxuan2003/Awesome-GUI-Agent-Security",
-    "stars": 28,
+    "stars": 33,
     "updated_at": "2026-09-04T12:44:16Z",
     "url": "https://github.com/Yuxuan2003/Awesome-GUI-Agent-Security"
   },
@@ -223,15 +241,6 @@
     "stars": 47,
     "updated_at": "2026-09-04T12:01:32Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 2,
-    "updated_at": "2026-09-04T12:00:42Z",
-    "url": "https://github.com/sydches/yuj"
   },
   {
     "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
@@ -355,7 +364,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 30647,
+    "stars": 30650,
     "updated_at": "2026-09-04T10:58:47Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -439,14 +448,5 @@
     "stars": 804,
     "updated_at": "2026-09-04T10:39:02Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 987,
-    "updated_at": "2026-09-04T10:24:37Z",
-    "url": "https://github.com/ongridio/ongrid"
   }
 ]
