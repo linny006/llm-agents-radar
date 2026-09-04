@@ -1,5 +1,41 @@
 [
   {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 32,
+    "updated_at": "2026-09-04T20:12:48Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 76,
+    "updated_at": "2026-09-04T20:07:18Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7153,
+    "updated_at": "2026-09-04T20:06:52Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
+    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "language": "JavaScript",
+    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "stars": 0,
+    "updated_at": "2026-09-04T20:00:23Z",
+    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
+  },
+  {
     "description": "A framework-agnostic maximal-utility agent SOUL for autonomous AI agents.",
     "id": "tachyon-r/maximal-utility-agent-soul",
     "language": "\u2014",
@@ -7,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-09-04T19:57:44Z",
     "url": "https://github.com/tachyon-r/maximal-utility-agent-soul"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 74,
-    "updated_at": "2026-09-04T19:57:02Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "Aios \u2014 Artificially Intelligent Operating System. An AI-native operating environment where no component both decides and",
@@ -34,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T19:53:13Z",
     "url": "https://github.com/wufufu770/d2d"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7153,
-    "updated_at": "2026-09-04T19:48:47Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "AI-powered image generation and chat studio",
@@ -77,7 +95,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-04T19:58:38Z",
+    "updated_at": "2026-09-04T20:14:18Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-04T16:43:33Z",
     "url": "https://github.com/aviskaar/zorp"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 15,
-    "updated_at": "2026-09-04T16:26:11Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-    "id": "EvoMap/evolver",
-    "language": "JavaScript",
-    "name": "EvoMap/evolver",
-    "stars": 9079,
-    "updated_at": "2026-09-04T16:25:06Z",
-    "url": "https://github.com/EvoMap/evolver"
   }
 ]
