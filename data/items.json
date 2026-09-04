@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "ravisinghrajput95/kubewhy",
     "stars": 0,
-    "updated_at": "2026-09-04T17:15:06Z",
+    "updated_at": "2026-09-04T17:27:23Z",
     "url": "https://github.com/ravisinghrajput95/kubewhy"
   },
   {
@@ -14,7 +14,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 7151,
-    "updated_at": "2026-09-04T17:12:23Z",
+    "updated_at": "2026-09-04T17:22:06Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -77,7 +77,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-04T17:13:57Z",
+    "updated_at": "2026-09-04T17:29:00Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -108,7 +108,7 @@
     "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
-    "description": "AI browser agent on a real Firefox: describe the task in plain language and it browses, clicks and reads the web for you",
+    "description": "AI browser agent: describe the task in plain language and it browses, clicks and reads the web for you.",
     "id": "feder-cr/AIHawk",
     "language": "Python",
     "name": "feder-cr/AIHawk",

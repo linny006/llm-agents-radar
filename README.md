@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-04 17:15 UTC
+> ⏰ Last updated: 2026-09-04 17:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -54,7 +54,7 @@ expired items removed — so you can rely on what you see being current.
 | 10 | [Heliotrope-dev/finance-agent](https://github.com/Heliotrope-dev/finance-agent) | 2 | Python | 2026-09-04 | 行情+财务+新闻交叉验证的科学理财Agent，不做黑箱荐股 |
 | 11 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-09-04 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
 | 12 | [555cute/r20-quantum-trader](https://github.com/555cute/r20-quantum-trader) | 53 | Python | 2026-09-04 | ⚡ LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI  |
-| 13 | [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) | 30309 | Python | 2026-09-04 | AI browser agent on a real Firefox: describe the task in plain language and it browses, clicks and reads the web for you |
+| 13 | [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) | 30309 | Python | 2026-09-04 | AI browser agent: describe the task in plain language and it browses, clicks and reads the web for you. |
 | 14 | [Rxyxs/chile-mining-ops-agent](https://github.com/Rxyxs/chile-mining-ops-agent) | 0 | Python | 2026-09-04 | Agente con tool-calling real (API de OpenAI) sobre operaciones mineras: consultas SQL a DuckDB, scoring de riesgo credit |
 | 15 | [aviskaar/zorp](https://github.com/aviskaar/zorp) | 3 | Rust | 2026-09-04 | A research agent for scientific discovery — part of Aviskaar's applied AI research suite. |
 | 16 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 129 | HTML | 2026-09-04 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
