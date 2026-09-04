@@ -1,11 +1,47 @@
 [
   {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 80,
+    "updated_at": "2026-09-04T20:55:44Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 11,
+    "updated_at": "2026-09-04T20:52:03Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-09-04T20:52:02Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 377,
+    "updated_at": "2026-09-04T20:51:58Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
     "description": "A chat bot which makes use of multiple RAG collections/metadata field filtering, and multiple LLMs for model orchestrati",
     "id": "milljm/dynamic-rag-chat",
     "language": "Python",
     "name": "milljm/dynamic-rag-chat",
     "stars": 3,
-    "updated_at": "2026-09-04T20:44:46Z",
+    "updated_at": "2026-09-04T20:49:18Z",
     "url": "https://github.com/milljm/dynamic-rag-chat"
   },
   {
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "Furox-Art/axiomize",
     "stars": 0,
-    "updated_at": "2026-09-04T20:43:40Z",
+    "updated_at": "2026-09-04T20:55:31Z",
     "url": "https://github.com/Furox-Art/axiomize"
   },
   {
@@ -23,7 +59,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-09-04T20:43:02Z",
+    "updated_at": "2026-09-04T20:46:46Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -59,7 +95,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 7154,
-    "updated_at": "2026-09-04T20:36:57Z",
+    "updated_at": "2026-09-04T20:52:35Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -70,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T20:32:23Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 80,
-    "updated_at": "2026-09-04T20:15:52Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -140,7 +167,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-04T20:38:04Z",
+    "updated_at": "2026-09-04T20:54:49Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -297,15 +324,6 @@
     "url": "https://github.com/Heliotrope-dev/finance-agent"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-09-04T18:20:22Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "The LLM Anti-Framework",
     "id": "Mirascope/mirascope",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 7,
     "updated_at": "2026-09-04T16:58:38Z",
     "url": "https://github.com/Sigmanih/SigmaStudio"
-  },
-  {
-    "description": "Skill-first operating layer for agentic brokerage trading \u2014 strategy, guardrails, and provider adapters an LLM agent fol",
-    "id": "jack-h-park/stock-trading-skills",
-    "language": "Shell",
-    "name": "jack-h-park/stock-trading-skills",
-    "stars": 0,
-    "updated_at": "2026-09-04T16:58:15Z",
-    "url": "https://github.com/jack-h-park/stock-trading-skills"
-  },
-  {
-    "description": "Agente con tool-calling real (API de OpenAI) sobre operaciones mineras: consultas SQL a DuckDB, scoring de riesgo credit",
-    "id": "Rxyxs/chile-mining-ops-agent",
-    "language": "Python",
-    "name": "Rxyxs/chile-mining-ops-agent",
-    "stars": 0,
-    "updated_at": "2026-09-04T16:48:55Z",
-    "url": "https://github.com/Rxyxs/chile-mining-ops-agent"
   }
 ]
