@@ -1,5 +1,41 @@
 [
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7153,
+    "updated_at": "2026-09-04T20:21:24Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
+    "id": "Furox-Art/axiomize",
+    "language": "Python",
+    "name": "Furox-Art/axiomize",
+    "stars": 0,
+    "updated_at": "2026-09-04T20:29:55Z",
+    "url": "https://github.com/Furox-Art/axiomize"
+  },
+  {
+    "description": "\u0420\u0435\u043f\u0440\u0430\u0439\u0441\u0435\u0440 \u0434\u043b\u044f Ozon, Wildberries \u0438 \u042f\u043d\u0434\u0435\u043a\u0441.\u041c\u0430\u0440\u043a\u0435\u0442\u0430: \u0437\u0430\u0449\u0438\u0442\u0430 \u043c\u0430\u0440\u0436\u0438 \u043f\u043e \u0440\u0435\u0430\u043b\u044c\u043d\u044b\u043c \u0442\u0430\u0440\u0438\u0444\u0430\u043c \u043f\u043b\u043e\u0449\u0430\u0434\u043e\u043a, \u0430\u0432\u0442\u043e\u0432\u044b\u0432\u043e\u0434 \u0438\u0437 \u0430\u043a\u0446\u0438\u0439, \u0431\u0430\u0439\u0435\u0441\u043e\u0432",
+    "id": "DeviceIngineering/ozon-wildberries-repricer",
+    "language": "JavaScript",
+    "name": "DeviceIngineering/ozon-wildberries-repricer",
+    "stars": 0,
+    "updated_at": "2026-09-04T20:17:36Z",
+    "url": "https://github.com/DeviceIngineering/ozon-wildberries-repricer"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 79,
+    "updated_at": "2026-09-04T20:15:52Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -7,24 +43,6 @@
     "stars": 32,
     "updated_at": "2026-09-04T20:12:48Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 76,
-    "updated_at": "2026-09-04T20:07:18Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7153,
-    "updated_at": "2026-09-04T20:06:52Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
@@ -95,7 +113,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-04T20:14:18Z",
+    "updated_at": "2026-09-04T20:28:57Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -333,15 +351,6 @@
     "url": "https://github.com/sehoon787/my-claude"
   },
   {
-    "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
-    "id": "Furox-Art/axiomize",
-    "language": "Python",
-    "name": "Furox-Art/axiomize",
-    "stars": 0,
-    "updated_at": "2026-09-04T18:53:46Z",
-    "url": "https://github.com/Furox-Art/axiomize"
-  },
-  {
     "description": "All-in-one agent harness for OpenAI Codex CLI \u2014 Boss meta-orchestrator, 17 curated agents (+17 opt-in AI specialists), 1",
     "id": "sehoon787/my-codex",
     "language": "Shell",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-04T16:48:55Z",
     "url": "https://github.com/Rxyxs/chile-mining-ops-agent"
-  },
-  {
-    "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
-    "id": "aviskaar/zorp",
-    "language": "Rust",
-    "name": "aviskaar/zorp",
-    "stars": 3,
-    "updated_at": "2026-09-04T16:43:33Z",
-    "url": "https://github.com/aviskaar/zorp"
   }
 ]
