@@ -1,5 +1,122 @@
 [
   {
+    "description": "GUI / Computer-Use / Browser Agent \u5b89\u5168\u8bba\u6587\u6e05\u5355 \u2014\u2014 \u6309\u653b\u9632\u8f74\u7ec4\u7ec7\uff0c\u6bcf\u7bc7\u9644\u4e2d\u6587\u7b80\u4ecb",
+    "id": "Yuxuan2003/Awesome-GUI-Agent-Security",
+    "language": "Python",
+    "name": "Yuxuan2003/Awesome-GUI-Agent-Security",
+    "stars": 2,
+    "updated_at": "2026-09-04T10:42:54Z",
+    "url": "https://github.com/Yuxuan2003/Awesome-GUI-Agent-Security"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-09-04T10:44:13Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 210,
+    "updated_at": "2026-09-04T10:41:56Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "Self-hosted multi-tenant agent platform for teams: skills, knowledge, API contracts and MCP servers live in the database",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 22,
+    "updated_at": "2026-09-04T10:41:40Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
+    "id": "DylPorter/claude-telegram",
+    "language": "Python",
+    "name": "DylPorter/claude-telegram",
+    "stars": 1,
+    "updated_at": "2026-09-04T10:41:07Z",
+    "url": "https://github.com/DylPorter/claude-telegram"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u7684 AI \u6c42\u804c\u5de5\u4f5c\u53f0\uff1a\u6c89\u6dc0\u804c\u4e1a\u8bc1\u636e\uff0c\u7ba1\u7406\u5c97\u4f4d\u673a\u4f1a\uff0c\u5b8c\u6210\u5339\u914d\u8bc4\u4f30\u3001\u5b9a\u5236\u7b80\u5386\u3001\u9879\u76ee\u62c6\u89e3\u4e0e\u9762\u8bd5\u590d\u76d8\u3002",
+    "id": "Xiaolang-d3/CareerLoop",
+    "language": "Python",
+    "name": "Xiaolang-d3/CareerLoop",
+    "stars": 0,
+    "updated_at": "2026-09-04T10:39:08Z",
+    "url": "https://github.com/Xiaolang-d3/CareerLoop"
+  },
+  {
+    "description": "An experimental autonomous AI agent that lives on your machine and talks to you through Telegram. One Rust binary.",
+    "id": "wunsiang-cheng/redrock",
+    "language": "Rust",
+    "name": "wunsiang-cheng/redrock",
+    "stars": 0,
+    "updated_at": "2026-09-04T10:37:45Z",
+    "url": "https://github.com/wunsiang-cheng/redrock"
+  },
+  {
+    "description": "Bounded AI agent for payment-failure, checkout-abandonment and receivables recovery \u2014 measured as incremental lift over ",
+    "id": "arrya5/revenue-recovery-agent",
+    "language": "Python",
+    "name": "arrya5/revenue-recovery-agent",
+    "stars": 0,
+    "updated_at": "2026-09-04T10:37:44Z",
+    "url": "https://github.com/arrya5/revenue-recovery-agent"
+  },
+  {
+    "description": "An AI Agent for everyday SWE with minimalist style",
+    "id": "thehope2k/minimalist-agent",
+    "language": "TypeScript",
+    "name": "thehope2k/minimalist-agent",
+    "stars": 1,
+    "updated_at": "2026-09-04T10:37:19Z",
+    "url": "https://github.com/thehope2k/minimalist-agent"
+  },
+  {
+    "description": "Event-driven 5G incident orchestrator: multi-agent evidence gathering (PCAP/log/KPI), LATS root-cause analysis, and huma",
+    "id": "AdrianDonohoe/NetCortex",
+    "language": "Python",
+    "name": "AdrianDonohoe/NetCortex",
+    "stars": 1,
+    "updated_at": "2026-09-04T10:37:16Z",
+    "url": "https://github.com/AdrianDonohoe/NetCortex"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-09-04T10:34:52Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 804,
+    "updated_at": "2026-09-04T10:39:02Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 30636,
+    "updated_at": "2026-09-04T10:44:32Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
     "description": "Two MIT patches for Nous Research Hermes: stop busy-queue messages merging into one jumbled turn, and optionally run sel",
     "id": "EauDoon/hermes-parallel-followups",
     "language": "Python",
@@ -72,24 +189,6 @@
     "url": "https://github.com/AVADSA25/codec"
   },
   {
-    "description": "GUI / Computer-Use / Browser Agent \u5b89\u5168\u8bba\u6587\u6e05\u5355 \u2014\u2014 \u6309\u653b\u9632\u8f74\u7ec4\u7ec7\uff0c\u6bcf\u7bc7\u9644\u4e2d\u6587\u7b80\u4ecb",
-    "id": "Yuxuan2003/Awesome-GUI-Agent-Security",
-    "language": "Python",
-    "name": "Yuxuan2003/Awesome-GUI-Agent-Security",
-    "stars": 2,
-    "updated_at": "2026-09-04T10:16:39Z",
-    "url": "https://github.com/Yuxuan2003/Awesome-GUI-Agent-Security"
-  },
-  {
-    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 210,
-    "updated_at": "2026-09-04T10:16:16Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
     "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
     "id": "karvidsson/kbots",
     "language": "Python",
@@ -97,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T10:02:35Z",
     "url": "https://github.com/karvidsson/kbots"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 6,
-    "updated_at": "2026-09-04T10:29:50Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
@@ -133,24 +223,6 @@
     "stars": 1,
     "updated_at": "2026-09-04T09:56:09Z",
     "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
-  },
-  {
-    "description": "Bounded AI agent for payment-failure, checkout-abandonment and receivables recovery \u2014 measured as incremental lift over ",
-    "id": "arrya5/revenue-recovery-agent",
-    "language": "Python",
-    "name": "arrya5/revenue-recovery-agent",
-    "stars": 0,
-    "updated_at": "2026-09-04T09:55:28Z",
-    "url": "https://github.com/arrya5/revenue-recovery-agent"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 30635,
-    "updated_at": "2026-09-04T09:50:22Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
     "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
@@ -194,7 +266,7 @@
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 47,
-    "updated_at": "2026-09-04T09:23:56Z",
+    "updated_at": "2026-09-04T10:44:28Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
@@ -232,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T08:59:12Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-09-04T08:57:10Z",
-    "url": "https://github.com/SashaEee/auditLens"
   },
   {
     "description": "AI research workbench for observational cosmology that provably refuses to fabricate \u2014 every number traces to a register",
@@ -385,68 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-04T08:32:48Z",
     "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
-  },
-  {
-    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
-    "id": "Arjunadh5305/ios-skills-collection",
-    "language": "\u2014",
-    "name": "Arjunadh5305/ios-skills-collection",
-    "stars": 1,
-    "updated_at": "2026-09-04T08:30:46Z",
-    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
-  },
-  {
-    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
-    "id": "oxidizable-malinois605/bridge-suite-mcp",
-    "language": "TypeScript",
-    "name": "oxidizable-malinois605/bridge-suite-mcp",
-    "stars": 0,
-    "updated_at": "2026-09-04T08:30:42Z",
-    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
-  },
-  {
-    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
-    "id": "Stolas34/voice-input-src",
-    "language": "\u2014",
-    "name": "Stolas34/voice-input-src",
-    "stars": 0,
-    "updated_at": "2026-09-04T08:30:20Z",
-    "url": "https://github.com/Stolas34/voice-input-src"
-  },
-  {
-    "description": "Keep agent CLIs running 7\u00d724 \u2014 supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure",
-    "id": "wan9yu/cli-agent-runner",
-    "language": "Python",
-    "name": "wan9yu/cli-agent-runner",
-    "stars": 4,
-    "updated_at": "2026-09-04T08:29:59Z",
-    "url": "https://github.com/wan9yu/cli-agent-runner"
-  },
-  {
-    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
-    "id": "Screwtopped-annapavlova802/SparkLabs",
-    "language": "C++",
-    "name": "Screwtopped-annapavlova802/SparkLabs",
-    "stars": 1,
-    "updated_at": "2026-09-04T08:28:09Z",
-    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
-    "id": "sky-valley/pi",
-    "language": "Go",
-    "name": "sky-valley/pi",
-    "stars": 45,
-    "updated_at": "2026-09-04T08:28:07Z",
-    "url": "https://github.com/sky-valley/pi"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-09-04T08:26:42Z",
-    "url": "https://github.com/mriazi1982/octopai"
   }
 ]
