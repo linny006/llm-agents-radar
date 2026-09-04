@@ -1,5 +1,59 @@
 [
   {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 53,
+    "updated_at": "2026-09-04T17:59:36Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-09-04T17:58:50Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
+    "id": "ravisinghrajput95/kubewhy",
+    "language": "Python",
+    "name": "ravisinghrajput95/kubewhy",
+    "stars": 0,
+    "updated_at": "2026-09-04T17:58:00Z",
+    "url": "https://github.com/ravisinghrajput95/kubewhy"
+  },
+  {
+    "description": "SCoR: Sparse Context Reset for Long-Horizon GUI Agents (EMNLP 2026)",
+    "id": "huia711/SCoR",
+    "language": "Python",
+    "name": "huia711/SCoR",
+    "stars": 0,
+    "updated_at": "2026-09-04T17:50:43Z",
+    "url": "https://github.com/huia711/SCoR"
+  },
+  {
+    "description": "the companyfabric.com website repository",
+    "id": "companyfabric/companyfabric",
+    "language": "\u2014",
+    "name": "companyfabric/companyfabric",
+    "stars": 0,
+    "updated_at": "2026-09-04T17:46:12Z",
+    "url": "https://github.com/companyfabric/companyfabric"
+  },
+  {
+    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
+    "id": "Heliotrope-dev/finance-agent",
+    "language": "Python",
+    "name": "Heliotrope-dev/finance-agent",
+    "stars": 2,
+    "updated_at": "2026-09-04T17:46:01Z",
+    "url": "https://github.com/Heliotrope-dev/finance-agent"
+  },
+  {
     "description": "Autonomous Substack agent and bot: picks its own topics, researches primary sources, writes the articles, posts Notes, c",
     "id": "krapcys1-maker/nia-substack-agent",
     "language": "Python",
@@ -14,17 +68,8 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 7151,
-    "updated_at": "2026-09-04T17:30:02Z",
+    "updated_at": "2026-09-04T17:54:55Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
-    "id": "ravisinghrajput95/kubewhy",
-    "language": "Python",
-    "name": "ravisinghrajput95/kubewhy",
-    "stars": 0,
-    "updated_at": "2026-09-04T17:27:23Z",
-    "url": "https://github.com/ravisinghrajput95/kubewhy"
   },
   {
     "description": "An autonomous Lean 4 theorem-proving agent: LLM-drafted proofs iteratively repaired against lake compiler diagnostics wi",
@@ -86,17 +131,8 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-04T17:39:24Z",
+    "updated_at": "2026-09-04T17:49:07Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
-    "id": "Heliotrope-dev/finance-agent",
-    "language": "Python",
-    "name": "Heliotrope-dev/finance-agent",
-    "stars": 2,
-    "updated_at": "2026-09-04T16:55:57Z",
-    "url": "https://github.com/Heliotrope-dev/finance-agent"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -108,21 +144,12 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 53,
-    "updated_at": "2026-09-04T16:52:33Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
-  },
-  {
-    "description": "AI browser agent: describe the task in plain language and it browses, clicks and reads the web for you.",
+    "description": "Open-source AI browser agent: describe any task in plain language and it autonomously browses, clicks, types and reads t",
     "id": "feder-cr/AIHawk",
     "language": "Python",
     "name": "feder-cr/AIHawk",
     "stars": 30309,
-    "updated_at": "2026-09-04T16:51:11Z",
+    "updated_at": "2026-09-04T17:58:48Z",
     "url": "https://github.com/feder-cr/AIHawk"
   },
   {
@@ -166,7 +193,7 @@
     "id": "EvoMap/evolver",
     "language": "JavaScript",
     "name": "EvoMap/evolver",
-    "stars": 9078,
+    "stars": 9079,
     "updated_at": "2026-09-04T16:25:06Z",
     "url": "https://github.com/EvoMap/evolver"
   },
@@ -383,7 +410,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-09-04T17:08:11Z",
+    "updated_at": "2026-09-04T17:58:54Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -400,7 +427,7 @@
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 375,
+    "stars": 376,
     "updated_at": "2026-09-04T15:27:32Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-04T15:24:56Z",
     "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Cloud billing variance analysis platform \u2014 trace every dollar of cloud cost change to a specific engineering decision",
-    "id": "ArnavDasoju/cloudledger",
-    "language": "Python",
-    "name": "ArnavDasoju/cloudledger",
-    "stars": 0,
-    "updated_at": "2026-09-04T15:23:52Z",
-    "url": "https://github.com/ArnavDasoju/cloudledger"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-09-04T15:21:38Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-09-04T15:21:27Z",
-    "url": "https://github.com/Bowotria/aethercore"
   }
 ]
