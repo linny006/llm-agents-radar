@@ -1,5 +1,149 @@
 [
   {
+    "description": "A macOS desktop pet that is also an AI agent \u2014 it walks your screen, and reaches the Mac through its own approval gate.",
+    "id": "desFernan/puck-mac",
+    "language": "Swift",
+    "name": "desFernan/puck-mac",
+    "stars": 0,
+    "updated_at": "2026-09-04T08:42:40Z",
+    "url": "https://github.com/desFernan/puck-mac"
+  },
+  {
+    "description": "A Linux desktop pet that is also an AI agent. Rust + GTK4 port of puck-mac.",
+    "id": "desFernan/puck-linux",
+    "language": "Rust",
+    "name": "desFernan/puck-linux",
+    "stars": 1,
+    "updated_at": "2026-09-04T08:42:26Z",
+    "url": "https://github.com/desFernan/puck-linux"
+  },
+  {
+    "description": "A Windows desktop pet that is also an AI agent. C# / .NET 8 + WPF port of puck-mac.",
+    "id": "desFernan/puck-windows",
+    "language": "C#",
+    "name": "desFernan/puck-windows",
+    "stars": 0,
+    "updated_at": "2026-09-04T08:42:24Z",
+    "url": "https://github.com/desFernan/puck-windows"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-09-04T08:42:10Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
+    "id": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
+    "language": "Python",
+    "name": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
+    "stars": 4,
+    "updated_at": "2026-09-04T08:42:06Z",
+    "url": "https://github.com/mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo"
+  },
+  {
+    "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
+    "id": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
+    "language": "Python",
+    "name": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
+    "stars": 2,
+    "updated_at": "2026-09-04T08:41:11Z",
+    "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
+  },
+  {
+    "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
+    "id": "EpsteinF1les/tts",
+    "language": "\u2014",
+    "name": "EpsteinF1les/tts",
+    "stars": 0,
+    "updated_at": "2026-09-04T08:40:28Z",
+    "url": "https://github.com/EpsteinF1les/tts"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 30622,
+    "updated_at": "2026-09-04T08:40:21Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 53,
+    "updated_at": "2026-09-04T08:40:15Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
+    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "language": "\u2014",
+    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "stars": 0,
+    "updated_at": "2026-09-04T08:35:31Z",
+    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
+  },
+  {
+    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
+    "id": "clashroy5384/ai-papers-hub",
+    "language": "\u2014",
+    "name": "clashroy5384/ai-papers-hub",
+    "stars": 0,
+    "updated_at": "2026-09-04T08:34:40Z",
+    "url": "https://github.com/clashroy5384/ai-papers-hub"
+  },
+  {
+    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
+    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
+    "language": "Python",
+    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
+    "stars": 5,
+    "updated_at": "2026-09-04T08:32:48Z",
+    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
+  },
+  {
+    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
+    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "language": "Python",
+    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "stars": 1,
+    "updated_at": "2026-09-04T08:31:31Z",
+    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
+  },
+  {
+    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
+    "id": "Arjunadh5305/ios-skills-collection",
+    "language": "\u2014",
+    "name": "Arjunadh5305/ios-skills-collection",
+    "stars": 1,
+    "updated_at": "2026-09-04T08:30:46Z",
+    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
+  },
+  {
+    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
+    "id": "oxidizable-malinois605/bridge-suite-mcp",
+    "language": "TypeScript",
+    "name": "oxidizable-malinois605/bridge-suite-mcp",
+    "stars": 0,
+    "updated_at": "2026-09-04T08:30:42Z",
+    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
+  },
+  {
+    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
+    "id": "Stolas34/voice-input-src",
+    "language": "\u2014",
+    "name": "Stolas34/voice-input-src",
+    "stars": 0,
+    "updated_at": "2026-09-04T08:30:20Z",
+    "url": "https://github.com/Stolas34/voice-input-src"
+  },
+  {
     "description": "Keep agent CLIs running 7\u00d724 \u2014 supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure",
     "id": "wan9yu/cli-agent-runner",
     "language": "Python",
@@ -25,15 +169,6 @@
     "stars": 45,
     "updated_at": "2026-09-04T08:28:07Z",
     "url": "https://github.com/sky-valley/pi"
-  },
-  {
-    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
-    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "language": "Python",
-    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "stars": 1,
-    "updated_at": "2026-09-04T08:27:00Z",
-    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
   },
   {
     "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
@@ -63,15 +198,6 @@
     "url": "https://github.com/amemhq/amem"
   },
   {
-    "description": "A Windows desktop pet that is also an AI agent. C# / .NET 8 + WPF port of puck-mac.",
-    "id": "desFernan/puck-windows",
-    "language": "C#",
-    "name": "desFernan/puck-windows",
-    "stars": 0,
-    "updated_at": "2026-09-04T08:24:43Z",
-    "url": "https://github.com/desFernan/puck-windows"
-  },
-  {
     "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
     "id": "mezoali100/exforum-auto-poster",
     "language": "\u2014",
@@ -90,15 +216,6 @@
     "url": "https://github.com/Bowotria/aethercore"
   },
   {
-    "description": "A Linux desktop pet that is also an AI agent. Rust + GTK4 port of puck-mac.",
-    "id": "desFernan/puck-linux",
-    "language": "Rust",
-    "name": "desFernan/puck-linux",
-    "stars": 1,
-    "updated_at": "2026-09-04T08:20:39Z",
-    "url": "https://github.com/desFernan/puck-linux"
-  },
-  {
     "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
     "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
     "language": "Python",
@@ -113,7 +230,7 @@
     "language": "Python",
     "name": "MikhailXiaomaikou/Standard-Astro",
     "stars": 4,
-    "updated_at": "2026-09-04T08:20:36Z",
+    "updated_at": "2026-09-04T08:39:53Z",
     "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
   },
   {
@@ -194,7 +311,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-04T08:08:39Z",
+    "updated_at": "2026-09-04T08:41:42Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -234,15 +351,6 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-09-04T07:54:35Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -259,15 +367,6 @@
     "stars": 983,
     "updated_at": "2026-09-04T07:50:17Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 30621,
-    "updated_at": "2026-09-04T07:42:42Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
@@ -304,15 +403,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T07:19:04Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 53,
-    "updated_at": "2026-09-04T07:16:04Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "Turn project work into reusable knowledge \u2014 an AI-agent skill for Claude Code & Codex",
@@ -358,95 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-04T06:47:57Z",
     "url": "https://github.com/SashaEee/auditLens"
-  },
-  {
-    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 29,
-    "updated_at": "2026-09-04T06:46:38Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
-    "description": "Unified LLM Platform that allows you to host your own models locally and access them from across the world",
-    "id": "noahhps/Courier",
-    "language": "Python",
-    "name": "noahhps/Courier",
-    "stars": 0,
-    "updated_at": "2026-09-04T06:27:09Z",
-    "url": "https://github.com/noahhps/Courier"
-  },
-  {
-    "description": "Cross-platform Agent Skill for comparing repos, papers, docs, and web references with a project then safely adapting app",
-    "id": "shepnerd/remix-me-skill",
-    "language": "Python",
-    "name": "shepnerd/remix-me-skill",
-    "stars": 1,
-    "updated_at": "2026-09-04T06:26:06Z",
-    "url": "https://github.com/shepnerd/remix-me-skill"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-09-04T06:19:59Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "An LLM job-matching agent with a from-scratch tool loop \u2014 and an evaluation that scores its own retriever and its own at",
-    "id": "P0w3r223/apply-scout",
-    "language": "Python",
-    "name": "P0w3r223/apply-scout",
-    "stars": 0,
-    "updated_at": "2026-09-04T08:24:26Z",
-    "url": "https://github.com/P0w3r223/apply-scout"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-09-04T06:11:07Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Distilly \u2014 Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill\uff08\u539f\u540c\u4e8b Skill\uff09.",
-    "id": "titanwings/distilly",
-    "language": "TypeScript",
-    "name": "titanwings/distilly",
-    "stars": 24333,
-    "updated_at": "2026-09-04T06:05:32Z",
-    "url": "https://github.com/titanwings/distilly"
-  },
-  {
-    "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
-    "id": "OtakuNathan/Pal",
-    "language": "Python",
-    "name": "OtakuNathan/Pal",
-    "stars": 0,
-    "updated_at": "2026-09-04T05:52:45Z",
-    "url": "https://github.com/OtakuNathan/Pal"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 573,
-    "updated_at": "2026-09-04T05:46:27Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-09-04T05:26:57Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   }
 ]
