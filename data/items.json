@@ -1,5 +1,77 @@
 [
   {
+    "description": "GUI / Computer-Use / Browser Agent \u5b89\u5168\u8bba\u6587\u6e05\u5355 \u2014\u2014 \u6309\u653b\u9632\u8f74\u7ec4\u7ec7\uff0c\u6bcf\u7bc7\u9644\u4e2d\u6587\u7b80\u4ecb",
+    "id": "Yuxuan2003/Awesome-GUI-Agent-Security",
+    "language": "Python",
+    "name": "Yuxuan2003/Awesome-GUI-Agent-Security",
+    "stars": 14,
+    "updated_at": "2026-09-04T12:44:16Z",
+    "url": "https://github.com/Yuxuan2003/Awesome-GUI-Agent-Security"
+  },
+  {
+    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
+    "id": "Heliotrope-dev/finance-agent",
+    "language": "Python",
+    "name": "Heliotrope-dev/finance-agent",
+    "stars": 2,
+    "updated_at": "2026-09-04T12:43:44Z",
+    "url": "https://github.com/Heliotrope-dev/finance-agent"
+  },
+  {
+    "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
+    "id": "DylPorter/claude-telegram",
+    "language": "Python",
+    "name": "DylPorter/claude-telegram",
+    "stars": 1,
+    "updated_at": "2026-09-04T12:43:03Z",
+    "url": "https://github.com/DylPorter/claude-telegram"
+  },
+  {
+    "description": "Source-grounded deep research, writing, and learning plugin for DeepSeek Harness (dsh): steerable checkpoints, mid-run s",
+    "id": "wxxb789/dsh-raven-research",
+    "language": "TypeScript",
+    "name": "wxxb789/dsh-raven-research",
+    "stars": 2,
+    "updated_at": "2026-09-04T12:42:25Z",
+    "url": "https://github.com/wxxb789/dsh-raven-research"
+  },
+  {
+    "description": "Bounded AI agent for payment-failure, checkout-abandonment and receivables recovery \u2014 measured as incremental lift over ",
+    "id": "arrya5/revenue-recovery-agent",
+    "language": "Python",
+    "name": "arrya5/revenue-recovery-agent",
+    "stars": 0,
+    "updated_at": "2026-09-04T12:41:24Z",
+    "url": "https://github.com/arrya5/revenue-recovery-agent"
+  },
+  {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-09-04T12:40:58Z",
+    "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
+    "description": "Agentic forecast reconciliation between top-down financial targets and bottom-up planner builds, with role-based forecas",
+    "id": "abhineer/forecast-reconciliation-agent",
+    "language": "Python",
+    "name": "abhineer/forecast-reconciliation-agent",
+    "stars": 0,
+    "updated_at": "2026-09-04T12:39:44Z",
+    "url": "https://github.com/abhineer/forecast-reconciliation-agent"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-09-04T12:42:08Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -9,33 +81,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
-    "id": "Heliotrope-dev/finance-agent",
-    "language": "Python",
-    "name": "Heliotrope-dev/finance-agent",
-    "stars": 2,
-    "updated_at": "2026-09-04T12:28:00Z",
-    "url": "https://github.com/Heliotrope-dev/finance-agent"
-  },
-  {
-    "description": "Agentic forecast reconciliation between top-down financial targets and bottom-up planner builds, with role-based forecas",
-    "id": "abhineer/forecast-reconciliation-agent",
-    "language": "Python",
-    "name": "abhineer/forecast-reconciliation-agent",
-    "stars": 0,
-    "updated_at": "2026-09-04T12:26:21Z",
-    "url": "https://github.com/abhineer/forecast-reconciliation-agent"
-  },
-  {
-    "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
-    "id": "DylPorter/claude-telegram",
-    "language": "Python",
-    "name": "DylPorter/claude-telegram",
-    "stars": 1,
-    "updated_at": "2026-09-04T12:24:01Z",
-    "url": "https://github.com/DylPorter/claude-telegram"
-  },
-  {
     "description": "Self-hosted multi-tenant agent platform for teams: skills, knowledge, API contracts and MCP servers live in the database",
     "id": "dmirain/OctoForge",
     "language": "Python",
@@ -43,15 +88,6 @@
     "stars": 22,
     "updated_at": "2026-09-04T12:21:46Z",
     "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
-    "description": "GUI / Computer-Use / Browser Agent \u5b89\u5168\u8bba\u6587\u6e05\u5355 \u2014\u2014 \u6309\u653b\u9632\u8f74\u7ec4\u7ec7\uff0c\u6bcf\u7bc7\u9644\u4e2d\u6587\u7b80\u4ecb",
-    "id": "Yuxuan2003/Awesome-GUI-Agent-Security",
-    "language": "Python",
-    "name": "Yuxuan2003/Awesome-GUI-Agent-Security",
-    "stars": 11,
-    "updated_at": "2026-09-04T12:21:29Z",
-    "url": "https://github.com/Yuxuan2003/Awesome-GUI-Agent-Security"
   },
   {
     "description": "AI research workbench for observational cosmology that provably refuses to fabricate \u2014 every number traces to a register",
@@ -148,7 +184,7 @@
     "id": "titanwings/distilly",
     "language": "TypeScript",
     "name": "titanwings/distilly",
-    "stars": 24340,
+    "stars": 24341,
     "updated_at": "2026-09-04T11:54:10Z",
     "url": "https://github.com/titanwings/distilly"
   },
@@ -265,18 +301,9 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 30644,
+    "stars": 30645,
     "updated_at": "2026-09-04T10:58:47Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 6,
-    "updated_at": "2026-09-04T12:20:48Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Event-driven 5G incident orchestrator: multi-agent evidence gathering (PCAP/log/KPI), LATS root-cause analysis, and huma",
@@ -304,15 +331,6 @@
     "stars": 171,
     "updated_at": "2026-09-04T10:47:53Z",
     "url": "https://github.com/neopen/story-shot-agent"
-  },
-  {
-    "description": "Bounded AI agent for payment-failure, checkout-abandonment and receivables recovery \u2014 measured as incremental lift over ",
-    "id": "arrya5/revenue-recovery-agent",
-    "language": "Python",
-    "name": "arrya5/revenue-recovery-agent",
-    "stars": 0,
-    "updated_at": "2026-09-04T10:47:15Z",
-    "url": "https://github.com/arrya5/revenue-recovery-agent"
   },
   {
     "description": "A provider-agnostic coding-agent harness for autonomous Python repository bug repair, with Docker verification and repro",
@@ -373,7 +391,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 986,
+    "stars": 987,
     "updated_at": "2026-09-04T10:24:37Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -419,7 +437,7 @@
     "language": "Python",
     "name": "AVADSA25/codec",
     "stars": 105,
-    "updated_at": "2026-09-04T10:17:12Z",
+    "updated_at": "2026-09-04T12:45:04Z",
     "url": "https://github.com/AVADSA25/codec"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-04T10:02:35Z",
     "url": "https://github.com/karvidsson/kbots"
-  },
-  {
-    "description": "\u4e34\u5e8a\u8bd5\u9a8c AI \u667a\u80fd\u4f53\u5e73\u53f0 Showcase\uff1a\u667a\u80fd\u5ba1\u6838/RAG\u95ee\u7b54/SDV\u6838\u67e5/\u6587\u6863\u8131\u654f/\u667a\u80fd\u5ba2\u670d\uff08\u4ee3\u7801\u5f52\u5c5e\u516c\u53f8\uff0c\u672c\u4ed3\u4e3a\u4e2a\u4eba\u53c2\u4e0e\u8bf4\u660e\uff09",
-    "id": "wly-lizhong/clinical-ai-agent-platform",
-    "language": "\u2014",
-    "name": "wly-lizhong/clinical-ai-agent-platform",
-    "stars": 0,
-    "updated_at": "2026-09-04T09:58:26Z",
-    "url": "https://github.com/wly-lizhong/clinical-ai-agent-platform"
-  },
-  {
-    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
-    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "language": "Python",
-    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "stars": 1,
-    "updated_at": "2026-09-04T09:56:09Z",
-    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
   }
 ]
