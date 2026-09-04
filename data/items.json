@@ -1,5 +1,14 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-09-04T00:37:42Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "\u652f\u6301\u5bf9\u63a5\u5185\u90e8\u7cfb\u7edf\u7684 AI \u6392\u969c\u5de5\u4f5c\u53f0\uff1a\u901a\u8fc7 HTTP API / Webhook \u63a5\u5165\u5de5\u5355\u4e0e\u544a\u8b66\u7cfb\u7edf\uff0c\u4e32\u8054\u4ee3\u7801\u3001\u65e5\u5fd7\u3001\u914d\u7f6e\u548c Agent\uff0c\u5e76\u63d0\u4f9b\u9762\u5411\u4ea7\u54c1\u3001\u8fd0\u8425\u3001\u5ba2\u670d\u7684 Web \u81ea\u52a9\u5206\u6790\u9875\u9762\u3002",
     "id": "shanananana/deepticket",
     "language": "Python",
@@ -70,6 +79,15 @@
     "stars": 1,
     "updated_at": "2026-09-03T23:49:47Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4409,
+    "updated_at": "2026-09-03T23:46:35Z",
+    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -178,15 +196,6 @@
     "stars": 8,
     "updated_at": "2026-09-03T22:13:59Z",
     "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-09-03T22:08:14Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "\u0414\u043e\u0440\u0430\u0431\u043e\u0442\u0430\u043d\u043d\u0430\u044f \u0432\u0435\u0440\u0441\u0438\u044f browser-use: MCP-\u0441\u043b\u043e\u0439 bu_mcp \u043f\u043e\u0432\u0435\u0440\u0445 \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0438 \u2014 20 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u043e\u0432 \u0432\u043c\u0435\u0441\u0442\u043e 5, \u043d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u0435 \u0434\u0435\u0448\u0435\u0432\u043b\u0435 \u0432 0.76",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-03T18:38:46Z",
     "url": "https://github.com/AnuraagTripathy/schedy"
-  },
-  {
-    "description": "The LLM Anti-Framework",
-    "id": "Mirascope/mirascope",
-    "language": "Python",
-    "name": "Mirascope/mirascope",
-    "stars": 1524,
-    "updated_at": "2026-09-03T18:16:19Z",
-    "url": "https://github.com/Mirascope/mirascope"
   }
 ]
