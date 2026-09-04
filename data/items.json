@@ -1,12 +1,39 @@
 [
   {
+    "description": "The Most Unique DeepSeek Client.",
+    "id": "chickadeeer/abyssal",
+    "language": "Python",
+    "name": "chickadeeer/abyssal",
+    "stars": 0,
+    "updated_at": "2026-09-04T03:14:57Z",
+    "url": "https://github.com/chickadeeer/abyssal"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 15,
+    "updated_at": "2026-09-04T03:14:24Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
     "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
     "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
     "language": "Python",
     "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
     "stars": 1,
-    "updated_at": "2026-09-04T02:58:09Z",
+    "updated_at": "2026-09-04T03:09:33Z",
     "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
+  },
+  {
+    "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
+    "id": "OtakuNathan/Pal",
+    "language": "Python",
+    "name": "OtakuNathan/Pal",
+    "stars": 0,
+    "updated_at": "2026-09-04T03:09:10Z",
+    "url": "https://github.com/OtakuNathan/Pal"
   },
   {
     "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
@@ -14,8 +41,26 @@
     "language": "Python",
     "name": "Heliotrope-dev/finance-agent",
     "stars": 2,
-    "updated_at": "2026-09-04T02:57:49Z",
+    "updated_at": "2026-09-04T03:07:02Z",
     "url": "https://github.com/Heliotrope-dev/finance-agent"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 53,
+    "updated_at": "2026-09-04T03:06:13Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-09-04T03:02:16Z",
+    "url": "https://github.com/citizenhicks/mobius"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -45,15 +90,6 @@
     "url": "https://github.com/iBlinkQ/project-cairn"
   },
   {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 53,
-    "updated_at": "2026-09-04T02:49:17Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
-  },
-  {
     "description": "An Agent Skills skill for developing DeepSeek Harness (DSH) plugins\uff08\u5f00\u53d1 DSH \u63d2\u4ef6\u7684 Agent Skill\uff09\u2014\u2014\u63d2\u4ef6/\u670d\u52a1/\u4e8b\u4ef6/\u5de5\u5177/LLM \u9002\u914d\u5668/\u6253\u5305\u5b89\u88c5\u7684\u6807\u51c6",
     "id": "zimodzh/dsh-plugin-dev-skills",
     "language": "\u2014",
@@ -61,24 +97,6 @@
     "stars": 43,
     "updated_at": "2026-09-04T02:40:04Z",
     "url": "https://github.com/zimodzh/dsh-plugin-dev-skills"
-  },
-  {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-09-04T02:33:19Z",
-    "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
-    "description": "The Most Unique DeepSeek Client.",
-    "id": "chickadeeer/abyssal",
-    "language": "Python",
-    "name": "chickadeeer/abyssal",
-    "stars": 0,
-    "updated_at": "2026-09-04T02:26:22Z",
-    "url": "https://github.com/chickadeeer/abyssal"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -130,7 +148,7 @@
     "id": "areal-project/AReaL",
     "language": "Python",
     "name": "areal-project/AReaL",
-    "stars": 5720,
+    "stars": 5721,
     "updated_at": "2026-09-04T01:59:37Z",
     "url": "https://github.com/areal-project/AReaL"
   },
@@ -167,7 +185,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-04T02:59:22Z",
+    "updated_at": "2026-09-04T03:11:01Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 221,
     "updated_at": "2026-09-04T01:02:28Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-09-04T00:37:42Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "\u652f\u6301\u5bf9\u63a5\u5185\u90e8\u7cfb\u7edf\u7684 AI \u6392\u969c\u5de5\u4f5c\u53f0\uff1a\u901a\u8fc7 HTTP API / Webhook \u63a5\u5165\u5de5\u5355\u4e0e\u544a\u8b66\u7cfb\u7edf\uff0c\u4e32\u8054\u4ee3\u7801\u3001\u65e5\u5fd7\u3001\u914d\u7f6e\u548c Agent\uff0c\u5e76\u63d0\u4f9b\u9762\u5411\u4ea7\u54c1\u3001\u8fd0\u8425\u3001\u5ba2\u670d\u7684 Web \u81ea\u52a9\u5206\u6790\u9875\u9762\u3002",
-    "id": "shanananana/deepticket",
-    "language": "Python",
-    "name": "shanananana/deepticket",
-    "stars": 58,
-    "updated_at": "2026-09-04T00:25:11Z",
-    "url": "https://github.com/shanananana/deepticket"
   }
 ]
