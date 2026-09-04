@@ -1,21 +1,66 @@
 [
   {
+    "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
+    "id": "EvoMap/awesome-agent-evolution",
+    "language": "JavaScript",
+    "name": "EvoMap/awesome-agent-evolution",
+    "stars": 212,
+    "updated_at": "2026-09-04T12:13:29Z",
+    "url": "https://github.com/EvoMap/awesome-agent-evolution"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-09-04T11:56:58Z",
+    "updated_at": "2026-09-04T12:10:14Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\u0420\u0435\u043f\u0440\u0430\u0439\u0441\u0435\u0440 \u0434\u043b\u044f Ozon, Wildberries \u0438 \u042f\u043d\u0434\u0435\u043a\u0441.\u041c\u0430\u0440\u043a\u0435\u0442\u0430: \u0437\u0430\u0449\u0438\u0442\u0430 \u043c\u0430\u0440\u0436\u0438 \u043f\u043e \u0440\u0435\u0430\u043b\u044c\u043d\u044b\u043c \u0442\u0430\u0440\u0438\u0444\u0430\u043c \u043f\u043b\u043e\u0449\u0430\u0434\u043e\u043a, \u0430\u0432\u0442\u043e\u0432\u044b\u0432\u043e\u0434 \u0438\u0437 \u0430\u043a\u0446\u0438\u0439, \u0431\u0430\u0439\u0435\u0441\u043e\u0432",
+    "id": "DeviceIngineering/ozon-wildberries-repricer",
+    "language": "JavaScript",
+    "name": "DeviceIngineering/ozon-wildberries-repricer",
+    "stars": 0,
+    "updated_at": "2026-09-04T12:09:24Z",
+    "url": "https://github.com/DeviceIngineering/ozon-wildberries-repricer"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-09-04T12:04:59Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 47,
+    "updated_at": "2026-09-04T12:01:32Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
     "description": "GUI / Computer-Use / Browser Agent \u5b89\u5168\u8bba\u6587\u6e05\u5355 \u2014\u2014 \u6309\u653b\u9632\u8f74\u7ec4\u7ec7\uff0c\u6bcf\u7bc7\u9644\u4e2d\u6587\u7b80\u4ecb",
     "id": "Yuxuan2003/Awesome-GUI-Agent-Security",
     "language": "Python",
     "name": "Yuxuan2003/Awesome-GUI-Agent-Security",
-    "stars": 6,
-    "updated_at": "2026-09-04T11:56:45Z",
+    "stars": 10,
+    "updated_at": "2026-09-04T12:00:54Z",
     "url": "https://github.com/Yuxuan2003/Awesome-GUI-Agent-Security"
+  },
+  {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 2,
+    "updated_at": "2026-09-04T12:00:42Z",
+    "url": "https://github.com/sydches/yuj"
   },
   {
     "description": "Self-hosted multi-tenant agent platform for teams: skills, knowledge, API contracts and MCP servers live in the database",
@@ -23,17 +68,8 @@
     "language": "Python",
     "name": "dmirain/OctoForge",
     "stars": 22,
-    "updated_at": "2026-09-04T11:56:29Z",
+    "updated_at": "2026-09-04T12:04:09Z",
     "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
-    "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
-    "id": "EvoMap/awesome-agent-evolution",
-    "language": "JavaScript",
-    "name": "EvoMap/awesome-agent-evolution",
-    "stars": 212,
-    "updated_at": "2026-09-04T12:00:23Z",
-    "url": "https://github.com/EvoMap/awesome-agent-evolution"
   },
   {
     "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
@@ -59,7 +95,7 @@
     "language": "Python",
     "name": "Unpapamericano/autonomous-scientific-agent",
     "stars": 0,
-    "updated_at": "2026-09-04T11:51:02Z",
+    "updated_at": "2026-09-04T12:09:31Z",
     "url": "https://github.com/Unpapamericano/autonomous-scientific-agent"
   },
   {
@@ -144,15 +180,6 @@
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
-    "description": "\u0420\u0435\u043f\u0440\u0430\u0439\u0441\u0435\u0440 \u0434\u043b\u044f Ozon, Wildberries \u0438 \u042f\u043d\u0434\u0435\u043a\u0441.\u041c\u0430\u0440\u043a\u0435\u0442\u0430: \u0437\u0430\u0449\u0438\u0442\u0430 \u043c\u0430\u0440\u0436\u0438 \u043f\u043e \u0440\u0435\u0430\u043b\u044c\u043d\u044b\u043c \u0442\u0430\u0440\u0438\u0444\u0430\u043c \u043f\u043b\u043e\u0449\u0430\u0434\u043e\u043a, \u0430\u0432\u0442\u043e\u0432\u044b\u0432\u043e\u0434 \u0438\u0437 \u0430\u043a\u0446\u0438\u0439, \u0431\u0430\u0439\u0435\u0441\u043e\u0432",
-    "id": "DeviceIngineering/ozon-wildberries-repricer",
-    "language": "JavaScript",
-    "name": "DeviceIngineering/ozon-wildberries-repricer",
-    "stars": 0,
-    "updated_at": "2026-09-04T11:14:20Z",
-    "url": "https://github.com/DeviceIngineering/ozon-wildberries-repricer"
-  },
-  {
     "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
     "id": "sky-valley/pi",
     "language": "Go",
@@ -193,7 +220,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 30642,
+    "stars": 30643,
     "updated_at": "2026-09-04T10:58:47Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -203,7 +230,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-04T11:50:50Z",
+    "updated_at": "2026-09-04T12:12:57Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -250,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T10:45:13Z",
     "url": "https://github.com/ztsstz711-afk/RepoFix-Harness"
-  },
-  {
-    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 47,
-    "updated_at": "2026-09-04T10:44:28Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
@@ -337,7 +355,7 @@
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 373,
+    "stars": 374,
     "updated_at": "2026-09-04T10:21:04Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
@@ -430,23 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-04T09:22:21Z",
     "url": "https://github.com/ZekaiShi/evo-subagent"
-  },
-  {
-    "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
-    "id": "OtakuNathan/Pal",
-    "language": "Python",
-    "name": "OtakuNathan/Pal",
-    "stars": 0,
-    "updated_at": "2026-09-04T09:14:17Z",
-    "url": "https://github.com/OtakuNathan/Pal"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 221,
-    "updated_at": "2026-09-04T09:07:19Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   }
 ]
