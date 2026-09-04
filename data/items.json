@@ -1,12 +1,48 @@
 [
   {
-    "description": "\u0420\u0435\u043f\u0440\u0430\u0439\u0441\u0435\u0440 \u0434\u043b\u044f Ozon, Wildberries \u0438 \u042f\u043d\u0434\u0435\u043a\u0441.\u041c\u0430\u0440\u043a\u0435\u0442\u0430: \u0437\u0430\u0449\u0438\u0442\u0430 \u043c\u0430\u0440\u0436\u0438 \u043f\u043e \u0440\u0435\u0430\u043b\u044c\u043d\u044b\u043c \u0442\u0430\u0440\u0438\u0444\u0430\u043c \u043f\u043b\u043e\u0449\u0430\u0434\u043e\u043a, \u0430\u0432\u0442\u043e\u0432\u044b\u0432\u043e\u0434 \u0438\u0437 \u0430\u043a\u0446\u0438\u0439, \u0431\u0430\u0439\u0435\u0441\u043e\u0432",
-    "id": "DeviceIngineering/ozon-wildberries-repricer",
-    "language": "JavaScript",
-    "name": "DeviceIngineering/ozon-wildberries-repricer",
+    "description": "GUI / Computer-Use / Browser Agent \u5b89\u5168\u8bba\u6587\u6e05\u5355 \u2014\u2014 \u6309\u653b\u9632\u8f74\u7ec4\u7ec7\uff0c\u6bcf\u7bc7\u9644\u4e2d\u6587\u7b80\u4ecb",
+    "id": "Yuxuan2003/Awesome-GUI-Agent-Security",
+    "language": "Python",
+    "name": "Yuxuan2003/Awesome-GUI-Agent-Security",
+    "stars": 2,
+    "updated_at": "2026-09-04T11:30:06Z",
+    "url": "https://github.com/Yuxuan2003/Awesome-GUI-Agent-Security"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-09-04T11:29:33Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
+    "id": "DylPorter/claude-telegram",
+    "language": "Python",
+    "name": "DylPorter/claude-telegram",
+    "stars": 1,
+    "updated_at": "2026-09-04T11:29:29Z",
+    "url": "https://github.com/DylPorter/claude-telegram"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 53,
+    "updated_at": "2026-09-04T11:27:23Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "An AI agent that turns plain-English questions into validated SQL, executes them, and returns the answer which are built",
+    "id": "axololtos/text-to-sql-agent",
+    "language": "Jupyter Notebook",
+    "name": "axololtos/text-to-sql-agent",
     "stars": 0,
-    "updated_at": "2026-09-04T11:14:20Z",
-    "url": "https://github.com/DeviceIngineering/ozon-wildberries-repricer"
+    "updated_at": "2026-09-04T11:25:10Z",
+    "url": "https://github.com/axololtos/text-to-sql-agent"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -14,8 +50,35 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-09-04T11:11:36Z",
+    "updated_at": "2026-09-04T11:23:44Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "An experimental autonomous AI agent that lives on your machine and talks to you through Telegram. One Rust binary.",
+    "id": "wunsiang-cheng/redrock",
+    "language": "Rust",
+    "name": "wunsiang-cheng/redrock",
+    "stars": 0,
+    "updated_at": "2026-09-04T11:18:48Z",
+    "url": "https://github.com/wunsiang-cheng/redrock"
+  },
+  {
+    "description": "Self-hosted multi-tenant agent platform for teams: skills, knowledge, API contracts and MCP servers live in the database",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 22,
+    "updated_at": "2026-09-04T11:18:34Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "\u0420\u0435\u043f\u0440\u0430\u0439\u0441\u0435\u0440 \u0434\u043b\u044f Ozon, Wildberries \u0438 \u042f\u043d\u0434\u0435\u043a\u0441.\u041c\u0430\u0440\u043a\u0435\u0442\u0430: \u0437\u0430\u0449\u0438\u0442\u0430 \u043c\u0430\u0440\u0436\u0438 \u043f\u043e \u0440\u0435\u0430\u043b\u044c\u043d\u044b\u043c \u0442\u0430\u0440\u0438\u0444\u0430\u043c \u043f\u043b\u043e\u0449\u0430\u0434\u043e\u043a, \u0430\u0432\u0442\u043e\u0432\u044b\u0432\u043e\u0434 \u0438\u0437 \u0430\u043a\u0446\u0438\u0439, \u0431\u0430\u0439\u0435\u0441\u043e\u0432",
+    "id": "DeviceIngineering/ozon-wildberries-repricer",
+    "language": "JavaScript",
+    "name": "DeviceIngineering/ozon-wildberries-repricer",
+    "stars": 0,
+    "updated_at": "2026-09-04T11:14:20Z",
+    "url": "https://github.com/DeviceIngineering/ozon-wildberries-repricer"
   },
   {
     "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
@@ -45,24 +108,6 @@
     "url": "https://github.com/Xiaolang-d3/CareerLoop"
   },
   {
-    "description": "GUI / Computer-Use / Browser Agent \u5b89\u5168\u8bba\u6587\u6e05\u5355 \u2014\u2014 \u6309\u653b\u9632\u8f74\u7ec4\u7ec7\uff0c\u6bcf\u7bc7\u9644\u4e2d\u6587\u7b80\u4ecb",
-    "id": "Yuxuan2003/Awesome-GUI-Agent-Security",
-    "language": "Python",
-    "name": "Yuxuan2003/Awesome-GUI-Agent-Security",
-    "stars": 2,
-    "updated_at": "2026-09-04T11:02:07Z",
-    "url": "https://github.com/Yuxuan2003/Awesome-GUI-Agent-Security"
-  },
-  {
-    "description": "An experimental autonomous AI agent that lives on your machine and talks to you through Telegram. One Rust binary.",
-    "id": "wunsiang-cheng/redrock",
-    "language": "Rust",
-    "name": "wunsiang-cheng/redrock",
-    "stars": 0,
-    "updated_at": "2026-09-04T11:01:27Z",
-    "url": "https://github.com/wunsiang-cheng/redrock"
-  },
-  {
     "description": "Two MIT patches for Nous Research Hermes: stop busy-queue messages merging into one jumbled turn, and optionally run sel",
     "id": "EauDoon/hermes-parallel-followups",
     "language": "Python",
@@ -86,7 +131,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-04T10:58:23Z",
+    "updated_at": "2026-09-04T11:18:44Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -104,7 +149,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-04T10:53:27Z",
+    "updated_at": "2026-09-04T11:26:57Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -178,24 +223,6 @@
     "stars": 210,
     "updated_at": "2026-09-04T10:41:56Z",
     "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
-    "description": "Self-hosted multi-tenant agent platform for teams: skills, knowledge, API contracts and MCP servers live in the database",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 22,
-    "updated_at": "2026-09-04T10:41:40Z",
-    "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
-    "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
-    "id": "DylPorter/claude-telegram",
-    "language": "Python",
-    "name": "DylPorter/claude-telegram",
-    "stars": 1,
-    "updated_at": "2026-09-04T10:41:07Z",
-    "url": "https://github.com/DylPorter/claude-telegram"
   },
   {
     "description": "An AI Agent for everyday SWE with minimalist style",
@@ -286,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T10:02:35Z",
     "url": "https://github.com/karvidsson/kbots"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 53,
-    "updated_at": "2026-09-04T09:59:54Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "\u4e34\u5e8a\u8bd5\u9a8c AI \u667a\u80fd\u4f53\u5e73\u53f0 Showcase\uff1a\u667a\u80fd\u5ba1\u6838/RAG\u95ee\u7b54/SDV\u6838\u67e5/\u6587\u6863\u8131\u654f/\u667a\u80fd\u5ba2\u670d\uff08\u4ee3\u7801\u5f52\u5c5e\u516c\u53f8\uff0c\u672c\u4ed3\u4e3a\u4e2a\u4eba\u53c2\u4e0e\u8bf4\u660e\uff09",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-04T08:42:40Z",
     "url": "https://github.com/desFernan/puck-mac"
-  },
-  {
-    "description": "A Linux desktop pet that is also an AI agent. Rust + GTK4 port of puck-mac.",
-    "id": "desFernan/puck-linux",
-    "language": "Rust",
-    "name": "desFernan/puck-linux",
-    "stars": 1,
-    "updated_at": "2026-09-04T08:42:26Z",
-    "url": "https://github.com/desFernan/puck-linux"
-  },
-  {
-    "description": "A Windows desktop pet that is also an AI agent. C# / .NET 8 + WPF port of puck-mac.",
-    "id": "desFernan/puck-windows",
-    "language": "C#",
-    "name": "desFernan/puck-windows",
-    "stars": 0,
-    "updated_at": "2026-09-04T08:42:24Z",
-    "url": "https://github.com/desFernan/puck-windows"
   }
 ]
