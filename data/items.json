@@ -1,12 +1,57 @@
 [
   {
+    "description": "A macOS desktop pet that is also an AI agent \u2014 it walks your screen, and reaches the Mac through its own approval gate.",
+    "id": "desFernan/puck-mac",
+    "language": "Swift",
+    "name": "desFernan/puck-mac",
+    "stars": 0,
+    "updated_at": "2026-09-04T14:15:03Z",
+    "url": "https://github.com/desFernan/puck-mac"
+  },
+  {
+    "description": "A Linux desktop pet that is also an AI agent. Rust + GTK4 port of puck-mac.",
+    "id": "desFernan/puck-linux",
+    "language": "Rust",
+    "name": "desFernan/puck-linux",
+    "stars": 1,
+    "updated_at": "2026-09-04T14:12:33Z",
+    "url": "https://github.com/desFernan/puck-linux"
+  },
+  {
     "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
     "id": "Heliotrope-dev/finance-agent",
     "language": "Python",
     "name": "Heliotrope-dev/finance-agent",
     "stars": 2,
-    "updated_at": "2026-09-04T13:56:23Z",
+    "updated_at": "2026-09-04T14:09:07Z",
     "url": "https://github.com/Heliotrope-dev/finance-agent"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 126,
+    "updated_at": "2026-09-04T14:07:54Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-09-04T14:07:29Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7151,
+    "updated_at": "2026-09-04T14:00:41Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Voice Agent implementations for the VAmoS Benchmark",
@@ -86,7 +131,7 @@
     "language": "Python",
     "name": "MikhailXiaomaikou/Standard-Astro",
     "stars": 4,
-    "updated_at": "2026-09-04T13:19:20Z",
+    "updated_at": "2026-09-04T14:15:07Z",
     "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
   },
   {
@@ -95,7 +140,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-04T13:54:13Z",
+    "updated_at": "2026-09-04T14:10:41Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -148,7 +193,7 @@
     "id": "Yuxuan2003/Awesome-GUI-Agent-Security",
     "language": "Python",
     "name": "Yuxuan2003/Awesome-GUI-Agent-Security",
-    "stars": 34,
+    "stars": 35,
     "updated_at": "2026-09-04T12:44:16Z",
     "url": "https://github.com/Yuxuan2003/Awesome-GUI-Agent-Security"
   },
@@ -364,7 +409,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 30650,
+    "stars": 30653,
     "updated_at": "2026-09-04T10:58:47Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-04T10:45:13Z",
     "url": "https://github.com/ztsstz711-afk/RepoFix-Harness"
-  },
-  {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "TypeScript",
-    "name": "dsswift/ion",
-    "stars": 4,
-    "updated_at": "2026-09-04T10:42:55Z",
-    "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 210,
-    "updated_at": "2026-09-04T10:41:56Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
-    "description": "An AI Agent for everyday SWE with minimalist style",
-    "id": "thehope2k/minimalist-agent",
-    "language": "TypeScript",
-    "name": "thehope2k/minimalist-agent",
-    "stars": 1,
-    "updated_at": "2026-09-04T10:37:19Z",
-    "url": "https://github.com/thehope2k/minimalist-agent"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-09-04T10:34:52Z",
-    "url": "https://github.com/SashaEee/auditLens"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 804,
-    "updated_at": "2026-09-04T10:39:02Z",
-    "url": "https://github.com/helixml/helix"
   }
 ]
