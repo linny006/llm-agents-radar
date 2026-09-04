@@ -1,5 +1,59 @@
 [
   {
+    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
+    "id": "ravisinghrajput95/kubewhy",
+    "language": "Python",
+    "name": "ravisinghrajput95/kubewhy",
+    "stars": 0,
+    "updated_at": "2026-09-04T17:15:06Z",
+    "url": "https://github.com/ravisinghrajput95/kubewhy"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7151,
+    "updated_at": "2026-09-04T17:12:23Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "An autonomous Lean 4 theorem-proving agent: LLM-drafted proofs iteratively repaired against lake compiler diagnostics wi",
+    "id": "Lean-Prover/lean-prover",
+    "language": "Python",
+    "name": "Lean-Prover/lean-prover",
+    "stars": 1,
+    "updated_at": "2026-09-04T17:08:31Z",
+    "url": "https://github.com/Lean-Prover/lean-prover"
+  },
+  {
+    "description": "AI research workbench for observational cosmology that provably refuses to fabricate \u2014 every number traces to a register",
+    "id": "MikhailXiaomaikou/Standard-Astro",
+    "language": "Python",
+    "name": "MikhailXiaomaikou/Standard-Astro",
+    "stars": 4,
+    "updated_at": "2026-09-04T17:07:23Z",
+    "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
+  },
+  {
+    "description": "Android device automation MCP server. Reads the live accessibility tree in-process, acts on nodes instead of coordinates",
+    "id": "baiamansama/android-agent-mcp",
+    "language": "TypeScript",
+    "name": "baiamansama/android-agent-mcp",
+    "stars": 0,
+    "updated_at": "2026-09-04T17:04:24Z",
+    "url": "https://github.com/baiamansama/android-agent-mcp"
+  },
+  {
+    "description": "The Most Unique Terminal Client.",
+    "id": "chickadeeer/abyssal",
+    "language": "Python",
+    "name": "chickadeeer/abyssal",
+    "stars": 0,
+    "updated_at": "2026-09-04T17:02:23Z",
+    "url": "https://github.com/chickadeeer/abyssal"
+  },
+  {
     "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
     "id": "Sigmanih/SigmaStudio",
     "language": "Python",
@@ -23,17 +77,8 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-04T16:58:12Z",
+    "updated_at": "2026-09-04T17:13:57Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
-    "id": "ravisinghrajput95/kubewhy",
-    "language": "Python",
-    "name": "ravisinghrajput95/kubewhy",
-    "stars": 0,
-    "updated_at": "2026-09-04T16:57:05Z",
-    "url": "https://github.com/ravisinghrajput95/kubewhy"
   },
   {
     "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
@@ -106,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T16:37:39Z",
     "url": "https://github.com/krapcys1-maker/nia-substack-bot"
-  },
-  {
-    "description": "AI research workbench for observational cosmology that provably refuses to fabricate \u2014 every number traces to a register",
-    "id": "MikhailXiaomaikou/Standard-Astro",
-    "language": "Python",
-    "name": "MikhailXiaomaikou/Standard-Astro",
-    "stars": 4,
-    "updated_at": "2026-09-04T16:30:32Z",
-    "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
   },
   {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
@@ -196,15 +232,6 @@
     "stars": 337,
     "updated_at": "2026-09-04T16:09:34Z",
     "url": "https://github.com/monocle2ai/monocle"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7151,
-    "updated_at": "2026-09-04T16:09:21Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
@@ -356,7 +383,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-09-04T16:53:03Z",
+    "updated_at": "2026-09-04T17:08:11Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-04T15:21:27Z",
     "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Bounded AI agent for payment-failure, checkout-abandonment and receivables recovery \u2014 measured as incremental lift over ",
-    "id": "arrya5/revenue-recovery-agent",
-    "language": "Python",
-    "name": "arrya5/revenue-recovery-agent",
-    "stars": 0,
-    "updated_at": "2026-09-04T15:20:54Z",
-    "url": "https://github.com/arrya5/revenue-recovery-agent"
-  },
-  {
-    "description": "AgentBypass \u2014 Omni Operator LLM Agent Skill (Cknb): Turn any LLM into RE / Pwn / CTF / Pentest / Protocol / Crypto / Mob",
-    "id": "1837620622/agent-bypass",
-    "language": "\u2014",
-    "name": "1837620622/agent-bypass",
-    "stars": 6,
-    "updated_at": "2026-09-04T15:19:53Z",
-    "url": "https://github.com/1837620622/agent-bypass"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 3,
-    "updated_at": "2026-09-04T15:19:11Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
   }
 ]
