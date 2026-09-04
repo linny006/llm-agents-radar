@@ -1,12 +1,21 @@
 [
   {
-    "description": "GUI / Computer-Use / Browser Agent \u5b89\u5168\u8bba\u6587\u6e05\u5355 \u2014\u2014 \u6309\u653b\u9632\u8f74\u7ec4\u7ec7\uff0c\u6bcf\u7bc7\u9644\u4e2d\u6587\u7b80\u4ecb",
-    "id": "Yuxuan2003/Awesome-GUI-Agent-Security",
+    "description": "Two MIT patches for Nous Research Hermes: stop busy-queue messages merging into one jumbled turn, and optionally run sel",
+    "id": "EauDoon/hermes-parallel-followups",
     "language": "Python",
-    "name": "Yuxuan2003/Awesome-GUI-Agent-Security",
-    "stars": 2,
-    "updated_at": "2026-09-04T10:42:54Z",
-    "url": "https://github.com/Yuxuan2003/Awesome-GUI-Agent-Security"
+    "name": "EauDoon/hermes-parallel-followups",
+    "stars": 0,
+    "updated_at": "2026-09-04T10:59:41Z",
+    "url": "https://github.com/EauDoon/hermes-parallel-followups"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 30638,
+    "updated_at": "2026-09-04T10:58:47Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -14,8 +23,125 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-04T10:44:13Z",
+    "updated_at": "2026-09-04T10:58:23Z",
     "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "An experimental autonomous AI agent that lives on your machine and talks to you through Telegram. One Rust binary.",
+    "id": "wunsiang-cheng/redrock",
+    "language": "Rust",
+    "name": "wunsiang-cheng/redrock",
+    "stars": 0,
+    "updated_at": "2026-09-04T10:56:31Z",
+    "url": "https://github.com/wunsiang-cheng/redrock"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-09-04T10:53:43Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Event-driven 5G incident orchestrator: multi-agent evidence gathering (PCAP/log/KPI), LATS root-cause analysis, and huma",
+    "id": "AdrianDonohoe/NetCortex",
+    "language": "Python",
+    "name": "AdrianDonohoe/NetCortex",
+    "stars": 1,
+    "updated_at": "2026-09-04T10:53:32Z",
+    "url": "https://github.com/AdrianDonohoe/NetCortex"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-09-04T10:53:27Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "\u0420\u0435\u043f\u0440\u0430\u0439\u0441\u0435\u0440 \u0434\u043b\u044f Ozon, Wildberries \u0438 \u042f\u043d\u0434\u0435\u043a\u0441.\u041c\u0430\u0440\u043a\u0435\u0442\u0430: \u0437\u0430\u0449\u0438\u0442\u0430 \u043c\u0430\u0440\u0436\u0438 \u043f\u043e \u0440\u0435\u0430\u043b\u044c\u043d\u044b\u043c \u0442\u0430\u0440\u0438\u0444\u0430\u043c \u043f\u043b\u043e\u0449\u0430\u0434\u043e\u043a, \u0430\u0432\u0442\u043e\u0432\u044b\u0432\u043e\u0434 \u0438\u0437 \u0430\u043a\u0446\u0438\u0439, \u0431\u0430\u0439\u0435\u0441\u043e\u0432",
+    "id": "DeviceIngineering/ozon-wildberries-repricer",
+    "language": "JavaScript",
+    "name": "DeviceIngineering/ozon-wildberries-repricer",
+    "stars": 0,
+    "updated_at": "2026-09-04T10:51:38Z",
+    "url": "https://github.com/DeviceIngineering/ozon-wildberries-repricer"
+  },
+  {
+    "description": "AI event probability prediction engine",
+    "id": "Finn763/foresight",
+    "language": "TypeScript",
+    "name": "Finn763/foresight",
+    "stars": 1,
+    "updated_at": "2026-09-04T10:49:32Z",
+    "url": "https://github.com/Finn763/foresight"
+  },
+  {
+    "description": "AI research workbench for observational cosmology that provably refuses to fabricate \u2014 every number traces to a register",
+    "id": "MikhailXiaomaikou/Standard-Astro",
+    "language": "Python",
+    "name": "MikhailXiaomaikou/Standard-Astro",
+    "stars": 4,
+    "updated_at": "2026-09-04T10:48:29Z",
+    "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
+  },
+  {
+    "description": "\u5267\u672c\u5206\u955c\u5de5\u5177\u667a\u80fd\u4f53\uff08PenShot\uff09\uff1a\u7535\u5f71/\u52a8\u6f2b/\u77ed\u5267/\u5c0f\u8bf4/\u5267\u672c\u2192\u5206\u955c\u2192\u7247\u6bb5\u2192prompt | \u57fa\u4e8e LangGraph+LLM\uff0c\u81ea\u52a8\u89e3\u6790\u4efb\u610f\u683c\u5f0f\u5267\u672c\uff0c\u751f\u6210 Sora/Veo/Runway \u7b49\u6a21\u578b\u53ef\u7528\u7684\u8fde\u8d2ftext-to-video\u63d0\u793a\u8bcd",
+    "id": "neopen/story-shot-agent",
+    "language": "Python",
+    "name": "neopen/story-shot-agent",
+    "stars": 169,
+    "updated_at": "2026-09-04T10:47:53Z",
+    "url": "https://github.com/neopen/story-shot-agent"
+  },
+  {
+    "description": "Bounded AI agent for payment-failure, checkout-abandonment and receivables recovery \u2014 measured as incremental lift over ",
+    "id": "arrya5/revenue-recovery-agent",
+    "language": "Python",
+    "name": "arrya5/revenue-recovery-agent",
+    "stars": 0,
+    "updated_at": "2026-09-04T10:47:15Z",
+    "url": "https://github.com/arrya5/revenue-recovery-agent"
+  },
+  {
+    "description": "A provider-agnostic coding-agent harness for autonomous Python repository bug repair, with Docker verification and repro",
+    "id": "ztsstz711-afk/RepoFix-Harness",
+    "language": "Python",
+    "name": "ztsstz711-afk/RepoFix-Harness",
+    "stars": 0,
+    "updated_at": "2026-09-04T10:45:13Z",
+    "url": "https://github.com/ztsstz711-afk/RepoFix-Harness"
+  },
+  {
+    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 47,
+    "updated_at": "2026-09-04T10:44:28Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "TypeScript",
+    "name": "dsswift/ion",
+    "stars": 4,
+    "updated_at": "2026-09-04T10:42:55Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "GUI / Computer-Use / Browser Agent \u5b89\u5168\u8bba\u6587\u6e05\u5355 \u2014\u2014 \u6309\u653b\u9632\u8f74\u7ec4\u7ec7\uff0c\u6bcf\u7bc7\u9644\u4e2d\u6587\u7b80\u4ecb",
+    "id": "Yuxuan2003/Awesome-GUI-Agent-Security",
+    "language": "Python",
+    "name": "Yuxuan2003/Awesome-GUI-Agent-Security",
+    "stars": 2,
+    "updated_at": "2026-09-04T10:42:54Z",
+    "url": "https://github.com/Yuxuan2003/Awesome-GUI-Agent-Security"
   },
   {
     "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
@@ -54,24 +180,6 @@
     "url": "https://github.com/Xiaolang-d3/CareerLoop"
   },
   {
-    "description": "An experimental autonomous AI agent that lives on your machine and talks to you through Telegram. One Rust binary.",
-    "id": "wunsiang-cheng/redrock",
-    "language": "Rust",
-    "name": "wunsiang-cheng/redrock",
-    "stars": 0,
-    "updated_at": "2026-09-04T10:37:45Z",
-    "url": "https://github.com/wunsiang-cheng/redrock"
-  },
-  {
-    "description": "Bounded AI agent for payment-failure, checkout-abandonment and receivables recovery \u2014 measured as incremental lift over ",
-    "id": "arrya5/revenue-recovery-agent",
-    "language": "Python",
-    "name": "arrya5/revenue-recovery-agent",
-    "stars": 0,
-    "updated_at": "2026-09-04T10:37:44Z",
-    "url": "https://github.com/arrya5/revenue-recovery-agent"
-  },
-  {
     "description": "An AI Agent for everyday SWE with minimalist style",
     "id": "thehope2k/minimalist-agent",
     "language": "TypeScript",
@@ -79,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-09-04T10:37:19Z",
     "url": "https://github.com/thehope2k/minimalist-agent"
-  },
-  {
-    "description": "Event-driven 5G incident orchestrator: multi-agent evidence gathering (PCAP/log/KPI), LATS root-cause analysis, and huma",
-    "id": "AdrianDonohoe/NetCortex",
-    "language": "Python",
-    "name": "AdrianDonohoe/NetCortex",
-    "stars": 1,
-    "updated_at": "2026-09-04T10:37:16Z",
-    "url": "https://github.com/AdrianDonohoe/NetCortex"
   },
   {
     "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
@@ -108,24 +207,6 @@
     "url": "https://github.com/helixml/helix"
   },
   {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 30636,
-    "updated_at": "2026-09-04T10:44:32Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "Two MIT patches for Nous Research Hermes: stop busy-queue messages merging into one jumbled turn, and optionally run sel",
-    "id": "EauDoon/hermes-parallel-followups",
-    "language": "Python",
-    "name": "EauDoon/hermes-parallel-followups",
-    "stars": 0,
-    "updated_at": "2026-09-04T10:28:31Z",
-    "url": "https://github.com/EauDoon/hermes-parallel-followups"
-  },
-  {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
     "id": "ongridio/ongrid",
     "language": "Go",
@@ -142,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-09-04T10:26:03Z",
     "url": "https://github.com/grauwolf32/contractor"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-09-04T10:23:24Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -261,15 +333,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 47,
-    "updated_at": "2026-09-04T10:44:28Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
     "description": "Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/",
     "id": "ZekaiShi/evo-subagent",
     "language": "JavaScript",
@@ -304,24 +367,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T08:59:12Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "AI research workbench for observational cosmology that provably refuses to fabricate \u2014 every number traces to a register",
-    "id": "MikhailXiaomaikou/Standard-Astro",
-    "language": "Python",
-    "name": "MikhailXiaomaikou/Standard-Astro",
-    "stars": 4,
-    "updated_at": "2026-09-04T09:50:54Z",
-    "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-09-04T08:53:30Z",
-    "url": "https://github.com/JSL107/personal_agents"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-04T08:41:11Z",
     "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
-  },
-  {
-    "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
-    "id": "EpsteinF1les/tts",
-    "language": "\u2014",
-    "name": "EpsteinF1les/tts",
-    "stars": 0,
-    "updated_at": "2026-09-04T08:40:28Z",
-    "url": "https://github.com/EpsteinF1les/tts"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-09-04T08:35:31Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
-    "id": "clashroy5384/ai-papers-hub",
-    "language": "\u2014",
-    "name": "clashroy5384/ai-papers-hub",
-    "stars": 0,
-    "updated_at": "2026-09-04T08:34:40Z",
-    "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "An MCP-based embedded fault diagnosis agent for STM32 IAP and FreeRTOS runtime anomaly analysis.",
-    "id": "Yanyanx-yx/embedded_fault_diagnosis_agent",
-    "language": "Python",
-    "name": "Yanyanx-yx/embedded_fault_diagnosis_agent",
-    "stars": 0,
-    "updated_at": "2026-09-04T08:33:17Z",
-    "url": "https://github.com/Yanyanx-yx/embedded_fault_diagnosis_agent"
-  },
-  {
-    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
-    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "language": "Python",
-    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "stars": 5,
-    "updated_at": "2026-09-04T08:32:48Z",
-    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
   }
 ]
