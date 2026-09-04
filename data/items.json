@@ -1,11 +1,56 @@
 [
   {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-09-04T06:11:07Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Cross-platform Agent Skill for comparing repos, papers, docs, and web references with a project then safely adapting app",
+    "id": "shepnerd/remix-me-skill",
+    "language": "Python",
+    "name": "shepnerd/remix-me-skill",
+    "stars": 0,
+    "updated_at": "2026-09-04T06:09:27Z",
+    "url": "https://github.com/shepnerd/remix-me-skill"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 976,
+    "updated_at": "2026-09-04T06:07:31Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "Distilly \u2014 Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill\uff08\u539f\u540c\u4e8b Skill\uff09.",
+    "id": "titanwings/distilly",
+    "language": "TypeScript",
+    "name": "titanwings/distilly",
+    "stars": 24327,
+    "updated_at": "2026-09-04T06:05:32Z",
+    "url": "https://github.com/titanwings/distilly"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-09-04T06:04:18Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
     "id": "JSL107/personal_agents",
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-04T05:59:25Z",
+    "updated_at": "2026-09-04T06:06:26Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -261,15 +306,6 @@
     "url": "https://github.com/Leihb/learn-agent-the-hard-way"
   },
   {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 975,
-    "updated_at": "2026-09-04T05:54:52Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -313,15 +349,6 @@
     "stars": 1,
     "updated_at": "2026-09-04T03:48:12Z",
     "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-09-04T03:36:47Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
@@ -410,7 +437,7 @@
     "language": "Python",
     "name": "milljm/dynamic-rag-chat",
     "stars": 3,
-    "updated_at": "2026-09-04T04:06:35Z",
+    "updated_at": "2026-09-04T06:14:41Z",
     "url": "https://github.com/milljm/dynamic-rag-chat"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-04T01:52:24Z",
     "url": "https://github.com/betmoar/cc-repete-plugin"
-  },
-  {
-    "description": "Sort your Downloads by project, not file type \u2014 with one-command undo. No delete, ever.",
-    "id": "verniceunleaded6135/tidy-undo",
-    "language": "Python",
-    "name": "verniceunleaded6135/tidy-undo",
-    "stars": 0,
-    "updated_at": "2026-09-04T01:47:43Z",
-    "url": "https://github.com/verniceunleaded6135/tidy-undo"
-  },
-  {
-    "description": "Agente con tool-calling real (Anthropic API) sobre operaciones mineras: consultas SQL a DuckDB, scoring de riesgo credit",
-    "id": "Rxyxs/chile-mining-ops-agent",
-    "language": "Python",
-    "name": "Rxyxs/chile-mining-ops-agent",
-    "stars": 0,
-    "updated_at": "2026-09-04T01:47:41Z",
-    "url": "https://github.com/Rxyxs/chile-mining-ops-agent"
-  },
-  {
-    "description": "Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node\u2014no complex workflows needed.",
-    "id": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
-    "language": "JavaScript",
-    "name": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
-    "stars": 3,
-    "updated_at": "2026-09-04T01:46:57Z",
-    "url": "https://github.com/Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3"
   }
 ]
