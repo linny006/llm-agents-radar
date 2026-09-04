@@ -1,12 +1,39 @@
 [
   {
+    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
+    "id": "diaban/jobsmith",
+    "language": "Python",
+    "name": "diaban/jobsmith",
+    "stars": 0,
+    "updated_at": "2026-09-04T22:29:59Z",
+    "url": "https://github.com/diaban/jobsmith"
+  },
+  {
     "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
     "stars": 81,
-    "updated_at": "2026-09-04T22:10:17Z",
+    "updated_at": "2026-09-04T22:27:08Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "The hybrid CLI/Web coding agent that works your way.",
+    "id": "martydill/flexorama",
+    "language": "Rust",
+    "name": "martydill/flexorama",
+    "stars": 1,
+    "updated_at": "2026-09-04T22:25:45Z",
+    "url": "https://github.com/martydill/flexorama"
+  },
+  {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 2,
+    "updated_at": "2026-09-04T22:16:24Z",
+    "url": "https://github.com/sydches/yuj"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -68,7 +95,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-04T22:07:55Z",
+    "updated_at": "2026-09-04T22:23:12Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -106,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-09-04T21:19:05Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
-    "id": "diaban/jobsmith",
-    "language": "Python",
-    "name": "diaban/jobsmith",
-    "stars": 0,
-    "updated_at": "2026-09-04T22:13:27Z",
-    "url": "https://github.com/diaban/jobsmith"
   },
   {
     "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
@@ -239,7 +257,7 @@
     "language": "Rust",
     "name": "cse-creative-systems-engineering/aios",
     "stars": 2,
-    "updated_at": "2026-09-04T19:56:22Z",
+    "updated_at": "2026-09-04T22:28:48Z",
     "url": "https://github.com/cse-creative-systems-engineering/aios"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 26,
     "updated_at": "2026-09-04T18:02:21Z",
     "url": "https://github.com/sehoon787/my-codex"
-  },
-  {
-    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
-    "id": "ravisinghrajput95/kubewhy",
-    "language": "Python",
-    "name": "ravisinghrajput95/kubewhy",
-    "stars": 0,
-    "updated_at": "2026-09-04T17:58:00Z",
-    "url": "https://github.com/ravisinghrajput95/kubewhy"
-  },
-  {
-    "description": "SCoR: Sparse Context Reset for Long-Horizon GUI Agents (EMNLP 2026)",
-    "id": "huia711/SCoR",
-    "language": "Python",
-    "name": "huia711/SCoR",
-    "stars": 0,
-    "updated_at": "2026-09-04T17:50:43Z",
-    "url": "https://github.com/huia711/SCoR"
   }
 ]
