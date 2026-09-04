@@ -1,5 +1,23 @@
 [
   {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 81,
+    "updated_at": "2026-09-04T22:10:17Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 129,
+    "updated_at": "2026-09-04T22:06:13Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
     "description": "Open-source AI browser agent: a web browsing agent in plain English, with a browser MCP for Claude Code, Codex and Gemin",
     "id": "feder-cr/AIHawk",
     "language": "Python",
@@ -7,15 +25,6 @@
     "stars": 30309,
     "updated_at": "2026-09-04T21:57:35Z",
     "url": "https://github.com/feder-cr/AIHawk"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 81,
-    "updated_at": "2026-09-04T21:57:17Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
@@ -59,7 +68,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-04T21:50:19Z",
+    "updated_at": "2026-09-04T22:07:55Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -104,7 +113,7 @@
     "language": "Python",
     "name": "diaban/jobsmith",
     "stars": 0,
-    "updated_at": "2026-09-04T21:17:47Z",
+    "updated_at": "2026-09-04T22:13:27Z",
     "url": "https://github.com/diaban/jobsmith"
   },
   {
@@ -194,7 +203,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 7154,
-    "updated_at": "2026-09-04T21:46:08Z",
+    "updated_at": "2026-09-04T22:07:24Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -277,15 +286,6 @@
     "stars": 3,
     "updated_at": "2026-09-04T19:27:27Z",
     "url": "https://github.com/MarieLynneBlock/arcanum-artifex"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 129,
-    "updated_at": "2026-09-04T19:17:09Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
