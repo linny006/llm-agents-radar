@@ -1,10 +1,28 @@
 [
   {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-09-04T00:13:59Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-04T00:09:30Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
-    "stars": 52,
+    "stars": 53,
     "updated_at": "2026-09-03T23:59:52Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
   },
@@ -59,7 +77,7 @@
     "language": "Rust",
     "name": "citizenhicks/mobius",
     "stars": 1,
-    "updated_at": "2026-09-03T23:49:35Z",
+    "updated_at": "2026-09-04T00:03:55Z",
     "url": "https://github.com/citizenhicks/mobius"
   },
   {
@@ -142,15 +160,6 @@
     "stars": 4,
     "updated_at": "2026-09-03T22:28:39Z",
     "url": "https://github.com/Torvian-eu/chatbot"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-09-03T22:17:47Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
@@ -436,17 +445,8 @@
     "id": "agentpit-io/hunter-community",
     "language": "Python",
     "name": "agentpit-io/hunter-community",
-    "stars": 410,
+    "stars": 411,
     "updated_at": "2026-09-03T18:01:39Z",
     "url": "https://github.com/agentpit-io/hunter-community"
-  },
-  {
-    "description": "Sort your Downloads by project, not file type \u2014 with one-command undo. No delete, ever.",
-    "id": "verniceunleaded6135/tidy-undo",
-    "language": "Python",
-    "name": "verniceunleaded6135/tidy-undo",
-    "stars": 0,
-    "updated_at": "2026-09-03T17:55:49Z",
-    "url": "https://github.com/verniceunleaded6135/tidy-undo"
   }
 ]
