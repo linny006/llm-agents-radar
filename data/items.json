@@ -1,5 +1,41 @@
 [
   {
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 105,
+    "updated_at": "2026-09-04T12:58:58Z",
+    "url": "https://github.com/AVADSA25/codec"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 53,
+    "updated_at": "2026-09-04T12:58:55Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "Bounded AI agent for payment-failure, checkout-abandonment and receivables recovery \u2014 measured as incremental lift over ",
+    "id": "arrya5/revenue-recovery-agent",
+    "language": "Python",
+    "name": "arrya5/revenue-recovery-agent",
+    "stars": 0,
+    "updated_at": "2026-09-04T12:54:55Z",
+    "url": "https://github.com/arrya5/revenue-recovery-agent"
+  },
+  {
+    "description": "Agentic forecast reconciliation between top-down financial targets and bottom-up planner builds, with role-based forecas",
+    "id": "abhineer/forecast-reconciliation-agent",
+    "language": "Python",
+    "name": "abhineer/forecast-reconciliation-agent",
+    "stars": 0,
+    "updated_at": "2026-09-04T12:48:49Z",
+    "url": "https://github.com/abhineer/forecast-reconciliation-agent"
+  },
+  {
     "description": "GUI / Computer-Use / Browser Agent \u5b89\u5168\u8bba\u6587\u6e05\u5355 \u2014\u2014 \u6309\u653b\u9632\u8f74\u7ec4\u7ec7\uff0c\u6bcf\u7bc7\u9644\u4e2d\u6587\u7b80\u4ecb",
     "id": "Yuxuan2003/Awesome-GUI-Agent-Security",
     "language": "Python",
@@ -36,15 +72,6 @@
     "url": "https://github.com/wxxb789/dsh-raven-research"
   },
   {
-    "description": "Bounded AI agent for payment-failure, checkout-abandonment and receivables recovery \u2014 measured as incremental lift over ",
-    "id": "arrya5/revenue-recovery-agent",
-    "language": "Python",
-    "name": "arrya5/revenue-recovery-agent",
-    "stars": 0,
-    "updated_at": "2026-09-04T12:41:24Z",
-    "url": "https://github.com/arrya5/revenue-recovery-agent"
-  },
-  {
     "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
     "id": "kangwoo/aimon-core",
     "language": "Java",
@@ -54,21 +81,12 @@
     "url": "https://github.com/kangwoo/aimon-core"
   },
   {
-    "description": "Agentic forecast reconciliation between top-down financial targets and bottom-up planner builds, with role-based forecas",
-    "id": "abhineer/forecast-reconciliation-agent",
-    "language": "Python",
-    "name": "abhineer/forecast-reconciliation-agent",
-    "stars": 0,
-    "updated_at": "2026-09-04T12:39:44Z",
-    "url": "https://github.com/abhineer/forecast-reconciliation-agent"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-04T12:42:08Z",
+    "updated_at": "2026-09-04T12:57:13Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -122,7 +140,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-09-04T12:10:14Z",
+    "updated_at": "2026-09-04T12:53:50Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -194,7 +212,7 @@
     "language": "Python",
     "name": "Unpapamericano/autonomous-scientific-agent",
     "stars": 0,
-    "updated_at": "2026-09-04T12:09:31Z",
+    "updated_at": "2026-09-04T12:55:28Z",
     "url": "https://github.com/Unpapamericano/autonomous-scientific-agent"
   },
   {
@@ -241,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-09-04T11:29:33Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 53,
-    "updated_at": "2026-09-04T11:27:23Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
@@ -418,7 +427,7 @@
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 374,
+    "stars": 375,
     "updated_at": "2026-09-04T10:21:04Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
@@ -430,15 +439,6 @@
     "stars": 15,
     "updated_at": "2026-09-04T10:18:41Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 105,
-    "updated_at": "2026-09-04T12:45:04Z",
-    "url": "https://github.com/AVADSA25/codec"
   },
   {
     "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
