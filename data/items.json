@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
     "stars": 1,
-    "updated_at": "2026-09-04T05:28:18Z",
+    "updated_at": "2026-09-04T05:45:01Z",
     "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
+  },
+  {
+    "description": "Local coding agent with native Zhipu GLM / StepFun Step Coding-Plan support. Four hard gates \u2014 the agent can't claim don",
+    "id": "Lion-1209/coderio",
+    "language": "Python",
+    "name": "Lion-1209/coderio",
+    "stars": 9,
+    "updated_at": "2026-09-04T05:37:26Z",
+    "url": "https://github.com/Lion-1209/coderio"
+  },
+  {
+    "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
+    "id": "amemhq/amem",
+    "language": "TypeScript",
+    "name": "amemhq/amem",
+    "stars": 3,
+    "updated_at": "2026-09-04T05:35:50Z",
+    "url": "https://github.com/amemhq/amem"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -36,21 +54,12 @@
     "url": "https://github.com/zimodzh/dsh-plugin-dev-skills"
   },
   {
-    "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
-    "id": "amemhq/amem",
-    "language": "TypeScript",
-    "name": "amemhq/amem",
-    "stars": 3,
-    "updated_at": "2026-09-04T05:23:16Z",
-    "url": "https://github.com/amemhq/amem"
-  },
-  {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
     "id": "JSL107/personal_agents",
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-04T05:18:59Z",
+    "updated_at": "2026-09-04T05:42:23Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-04T01:46:57Z",
     "url": "https://github.com/Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3"
-  },
-  {
-    "description": "Control your Windows laptop remotely via Discord with AI-powered voice and text commands in English or Urdu.",
-    "id": "Ottoman-reticule726/zara-ai-laptop-agent",
-    "language": "Python",
-    "name": "Ottoman-reticule726/zara-ai-laptop-agent",
-    "stars": 0,
-    "updated_at": "2026-09-04T01:46:11Z",
-    "url": "https://github.com/Ottoman-reticule726/zara-ai-laptop-agent"
   }
 ]
