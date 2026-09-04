@@ -1,12 +1,39 @@
 [
   {
-    "description": "A marketing employee for Claude Code \u2014 one agent, ten skills, two separated memories, and a learning loop with an explic",
-    "id": "mcohensolal/carat",
-    "language": "\u2014",
-    "name": "mcohensolal/carat",
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 53,
+    "updated_at": "2026-09-04T13:27:12Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4410,
+    "updated_at": "2026-09-04T13:29:45Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
     "stars": 0,
-    "updated_at": "2026-09-04T13:14:58Z",
-    "url": "https://github.com/mcohensolal/carat"
+    "updated_at": "2026-09-04T13:23:11Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Agentic forecast reconciliation between top-down financial targets and bottom-up planner builds, with role-based forecas",
+    "id": "abhineer/forecast-reconciliation-agent",
+    "language": "Python",
+    "name": "abhineer/forecast-reconciliation-agent",
+    "stars": 0,
+    "updated_at": "2026-09-04T13:22:21Z",
+    "url": "https://github.com/abhineer/forecast-reconciliation-agent"
   },
   {
     "description": "Open-Source Intelligent Command Layer",
@@ -14,8 +41,35 @@
     "language": "Python",
     "name": "AVADSA25/codec",
     "stars": 105,
-    "updated_at": "2026-09-04T13:15:18Z",
+    "updated_at": "2026-09-04T13:20:25Z",
     "url": "https://github.com/AVADSA25/codec"
+  },
+  {
+    "description": "AI research workbench for observational cosmology that provably refuses to fabricate \u2014 every number traces to a register",
+    "id": "MikhailXiaomaikou/Standard-Astro",
+    "language": "Python",
+    "name": "MikhailXiaomaikou/Standard-Astro",
+    "stars": 4,
+    "updated_at": "2026-09-04T13:19:20Z",
+    "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-09-04T13:29:47Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "A marketing employee for Claude Code \u2014 one agent, ten skills, two separated memories, and a learning loop with an explic",
+    "id": "mcohensolal/carat",
+    "language": "\u2014",
+    "name": "mcohensolal/carat",
+    "stars": 0,
+    "updated_at": "2026-09-04T13:14:58Z",
+    "url": "https://github.com/mcohensolal/carat"
   },
   {
     "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
@@ -27,15 +81,6 @@
     "url": "https://github.com/Heliotrope-dev/finance-agent"
   },
   {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 53,
-    "updated_at": "2026-09-04T13:14:34Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
-  },
-  {
     "description": "\u0420\u0435\u043f\u0440\u0430\u0439\u0441\u0435\u0440 \u0434\u043b\u044f Ozon, Wildberries \u0438 \u042f\u043d\u0434\u0435\u043a\u0441.\u041c\u0430\u0440\u043a\u0435\u0442\u0430: \u0437\u0430\u0449\u0438\u0442\u0430 \u043c\u0430\u0440\u0436\u0438 \u043f\u043e \u0440\u0435\u0430\u043b\u044c\u043d\u044b\u043c \u0442\u0430\u0440\u0438\u0444\u0430\u043c \u043f\u043b\u043e\u0449\u0430\u0434\u043e\u043a, \u0430\u0432\u0442\u043e\u0432\u044b\u0432\u043e\u0434 \u0438\u0437 \u0430\u043a\u0446\u0438\u0439, \u0431\u0430\u0439\u0435\u0441\u043e\u0432",
     "id": "DeviceIngineering/ozon-wildberries-repricer",
     "language": "JavaScript",
@@ -43,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T13:05:53Z",
     "url": "https://github.com/DeviceIngineering/ozon-wildberries-repricer"
-  },
-  {
-    "description": "Agentic forecast reconciliation between top-down financial targets and bottom-up planner builds, with role-based forecas",
-    "id": "abhineer/forecast-reconciliation-agent",
-    "language": "Python",
-    "name": "abhineer/forecast-reconciliation-agent",
-    "stars": 0,
-    "updated_at": "2026-09-04T13:05:51Z",
-    "url": "https://github.com/abhineer/forecast-reconciliation-agent"
   },
   {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
@@ -85,7 +121,7 @@
     "id": "Yuxuan2003/Awesome-GUI-Agent-Security",
     "language": "Python",
     "name": "Yuxuan2003/Awesome-GUI-Agent-Security",
-    "stars": 22,
+    "stars": 28,
     "updated_at": "2026-09-04T12:44:16Z",
     "url": "https://github.com/Yuxuan2003/Awesome-GUI-Agent-Security"
   },
@@ -117,15 +153,6 @@
     "url": "https://github.com/kangwoo/aimon-core"
   },
   {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 6,
-    "updated_at": "2026-09-04T13:15:10Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -142,15 +169,6 @@
     "stars": 22,
     "updated_at": "2026-09-04T12:21:46Z",
     "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
-    "description": "AI research workbench for observational cosmology that provably refuses to fabricate \u2014 every number traces to a register",
-    "id": "MikhailXiaomaikou/Standard-Astro",
-    "language": "Python",
-    "name": "MikhailXiaomaikou/Standard-Astro",
-    "stars": 4,
-    "updated_at": "2026-09-04T12:21:02Z",
-    "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
   },
   {
     "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
@@ -430,23 +448,5 @@
     "stars": 987,
     "updated_at": "2026-09-04T10:24:37Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "An LLM agent for building OpenAPI specifications based on the given code",
-    "id": "grauwolf32/contractor",
-    "language": "Go",
-    "name": "grauwolf32/contractor",
-    "stars": 1,
-    "updated_at": "2026-09-04T10:26:03Z",
-    "url": "https://github.com/grauwolf32/contractor"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-09-04T10:21:51Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   }
 ]
