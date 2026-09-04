@@ -1,21 +1,66 @@
 [
   {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 105,
-    "updated_at": "2026-09-04T12:58:58Z",
-    "url": "https://github.com/AVADSA25/codec"
-  },
-  {
     "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
     "stars": 53,
-    "updated_at": "2026-09-04T12:58:55Z",
+    "updated_at": "2026-09-04T13:09:07Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
+    "id": "Heliotrope-dev/finance-agent",
+    "language": "Python",
+    "name": "Heliotrope-dev/finance-agent",
+    "stars": 2,
+    "updated_at": "2026-09-04T13:08:03Z",
+    "url": "https://github.com/Heliotrope-dev/finance-agent"
+  },
+  {
+    "description": "\u0420\u0435\u043f\u0440\u0430\u0439\u0441\u0435\u0440 \u0434\u043b\u044f Ozon, Wildberries \u0438 \u042f\u043d\u0434\u0435\u043a\u0441.\u041c\u0430\u0440\u043a\u0435\u0442\u0430: \u0437\u0430\u0449\u0438\u0442\u0430 \u043c\u0430\u0440\u0436\u0438 \u043f\u043e \u0440\u0435\u0430\u043b\u044c\u043d\u044b\u043c \u0442\u0430\u0440\u0438\u0444\u0430\u043c \u043f\u043b\u043e\u0449\u0430\u0434\u043e\u043a, \u0430\u0432\u0442\u043e\u0432\u044b\u0432\u043e\u0434 \u0438\u0437 \u0430\u043a\u0446\u0438\u0439, \u0431\u0430\u0439\u0435\u0441\u043e\u0432",
+    "id": "DeviceIngineering/ozon-wildberries-repricer",
+    "language": "JavaScript",
+    "name": "DeviceIngineering/ozon-wildberries-repricer",
+    "stars": 0,
+    "updated_at": "2026-09-04T13:05:53Z",
+    "url": "https://github.com/DeviceIngineering/ozon-wildberries-repricer"
+  },
+  {
+    "description": "Agentic forecast reconciliation between top-down financial targets and bottom-up planner builds, with role-based forecas",
+    "id": "abhineer/forecast-reconciliation-agent",
+    "language": "Python",
+    "name": "abhineer/forecast-reconciliation-agent",
+    "stars": 0,
+    "updated_at": "2026-09-04T13:05:51Z",
+    "url": "https://github.com/abhineer/forecast-reconciliation-agent"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 221,
+    "updated_at": "2026-09-04T13:04:30Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 8,
+    "updated_at": "2026-09-04T13:02:49Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 105,
+    "updated_at": "2026-09-04T13:09:35Z",
+    "url": "https://github.com/AVADSA25/codec"
   },
   {
     "description": "Bounded AI agent for payment-failure, checkout-abandonment and receivables recovery \u2014 measured as incremental lift over ",
@@ -27,15 +72,6 @@
     "url": "https://github.com/arrya5/revenue-recovery-agent"
   },
   {
-    "description": "Agentic forecast reconciliation between top-down financial targets and bottom-up planner builds, with role-based forecas",
-    "id": "abhineer/forecast-reconciliation-agent",
-    "language": "Python",
-    "name": "abhineer/forecast-reconciliation-agent",
-    "stars": 0,
-    "updated_at": "2026-09-04T12:48:49Z",
-    "url": "https://github.com/abhineer/forecast-reconciliation-agent"
-  },
-  {
     "description": "GUI / Computer-Use / Browser Agent \u5b89\u5168\u8bba\u6587\u6e05\u5355 \u2014\u2014 \u6309\u653b\u9632\u8f74\u7ec4\u7ec7\uff0c\u6bcf\u7bc7\u9644\u4e2d\u6587\u7b80\u4ecb",
     "id": "Yuxuan2003/Awesome-GUI-Agent-Security",
     "language": "Python",
@@ -43,15 +79,6 @@
     "stars": 14,
     "updated_at": "2026-09-04T12:44:16Z",
     "url": "https://github.com/Yuxuan2003/Awesome-GUI-Agent-Security"
-  },
-  {
-    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
-    "id": "Heliotrope-dev/finance-agent",
-    "language": "Python",
-    "name": "Heliotrope-dev/finance-agent",
-    "stars": 2,
-    "updated_at": "2026-09-04T12:43:44Z",
-    "url": "https://github.com/Heliotrope-dev/finance-agent"
   },
   {
     "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
@@ -86,7 +113,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-04T12:57:13Z",
+    "updated_at": "2026-09-04T13:09:07Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -144,15 +171,6 @@
     "url": "https://github.com/tomcounsell/ai"
   },
   {
-    "description": "\u0420\u0435\u043f\u0440\u0430\u0439\u0441\u0435\u0440 \u0434\u043b\u044f Ozon, Wildberries \u0438 \u042f\u043d\u0434\u0435\u043a\u0441.\u041c\u0430\u0440\u043a\u0435\u0442\u0430: \u0437\u0430\u0449\u0438\u0442\u0430 \u043c\u0430\u0440\u0436\u0438 \u043f\u043e \u0440\u0435\u0430\u043b\u044c\u043d\u044b\u043c \u0442\u0430\u0440\u0438\u0444\u0430\u043c \u043f\u043b\u043e\u0449\u0430\u0434\u043e\u043a, \u0430\u0432\u0442\u043e\u0432\u044b\u0432\u043e\u0434 \u0438\u0437 \u0430\u043a\u0446\u0438\u0439, \u0431\u0430\u0439\u0435\u0441\u043e\u0432",
-    "id": "DeviceIngineering/ozon-wildberries-repricer",
-    "language": "JavaScript",
-    "name": "DeviceIngineering/ozon-wildberries-repricer",
-    "stars": 0,
-    "updated_at": "2026-09-04T12:09:24Z",
-    "url": "https://github.com/DeviceIngineering/ozon-wildberries-repricer"
-  },
-  {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
     "id": "g761007/daily-dispatch",
     "language": "Python",
@@ -166,7 +184,7 @@
     "id": "EvoMap/evolver",
     "language": "JavaScript",
     "name": "EvoMap/evolver",
-    "stars": 9076,
+    "stars": 9077,
     "updated_at": "2026-09-04T12:03:44Z",
     "url": "https://github.com/EvoMap/evolver"
   },
@@ -202,7 +220,7 @@
     "id": "titanwings/distilly",
     "language": "TypeScript",
     "name": "titanwings/distilly",
-    "stars": 24341,
+    "stars": 24342,
     "updated_at": "2026-09-04T11:54:10Z",
     "url": "https://github.com/titanwings/distilly"
   },
@@ -310,7 +328,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 30645,
+    "stars": 30647,
     "updated_at": "2026-09-04T10:58:47Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -430,23 +448,5 @@
     "stars": 375,
     "updated_at": "2026-09-04T10:21:04Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 15,
-    "updated_at": "2026-09-04T10:18:41Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
-    "id": "karvidsson/kbots",
-    "language": "Python",
-    "name": "karvidsson/kbots",
-    "stars": 0,
-    "updated_at": "2026-09-04T10:02:35Z",
-    "url": "https://github.com/karvidsson/kbots"
   }
 ]
