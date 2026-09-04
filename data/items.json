@@ -1,12 +1,57 @@
 [
   {
+    "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
+    "id": "ChanTso/citybuddy",
+    "language": "Java",
+    "name": "ChanTso/citybuddy",
+    "stars": 0,
+    "updated_at": "2026-09-04T14:29:59Z",
+    "url": "https://github.com/ChanTso/citybuddy"
+  },
+  {
     "description": "A macOS desktop pet that is also an AI agent \u2014 it walks your screen, and reaches the Mac through its own approval gate.",
     "id": "desFernan/puck-mac",
     "language": "Swift",
     "name": "desFernan/puck-mac",
     "stars": 0,
-    "updated_at": "2026-09-04T14:15:03Z",
+    "updated_at": "2026-09-04T14:22:36Z",
     "url": "https://github.com/desFernan/puck-mac"
+  },
+  {
+    "description": "Executive Assistant Kit | Gig hunting & general coordination. \u603b\u7ecf\u7406\u52a9\u7406\u2014\u2014\u627e\u5355\u63a5\u6d3b\u5165\u53e3\u4e0e\u7efc\u5408\u4e8b\u52a1\u534f\u8c03\u3002",
+    "id": "xhqing/ExecutiveAssistantAgent",
+    "language": "\u2014",
+    "name": "xhqing/ExecutiveAssistantAgent",
+    "stars": 0,
+    "updated_at": "2026-09-04T14:21:45Z",
+    "url": "https://github.com/xhqing/ExecutiveAssistantAgent"
+  },
+  {
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 8,
+    "updated_at": "2026-09-04T14:19:52Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-09-04T14:21:03Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "AI research workbench for observational cosmology that provably refuses to fabricate \u2014 every number traces to a register",
+    "id": "MikhailXiaomaikou/Standard-Astro",
+    "language": "Python",
+    "name": "MikhailXiaomaikou/Standard-Astro",
+    "stars": 4,
+    "updated_at": "2026-09-04T14:15:07Z",
+    "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
   },
   {
     "description": "A Linux desktop pet that is also an AI agent. Rust + GTK4 port of puck-mac.",
@@ -126,24 +171,6 @@
     "url": "https://github.com/AVADSA25/codec"
   },
   {
-    "description": "AI research workbench for observational cosmology that provably refuses to fabricate \u2014 every number traces to a register",
-    "id": "MikhailXiaomaikou/Standard-Astro",
-    "language": "Python",
-    "name": "MikhailXiaomaikou/Standard-Astro",
-    "stars": 4,
-    "updated_at": "2026-09-04T14:15:07Z",
-    "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 6,
-    "updated_at": "2026-09-04T14:10:41Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
     "description": "A marketing employee for Claude Code \u2014 one agent, ten skills, two separated memories, and a learning loop with an explic",
     "id": "mcohensolal/carat",
     "language": "\u2014",
@@ -171,15 +198,6 @@
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
-    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
-    "id": "metric-space-ai/greppy",
-    "language": "Rust",
-    "name": "metric-space-ai/greppy",
-    "stars": 8,
-    "updated_at": "2026-09-04T13:02:49Z",
-    "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
     "description": "Bounded AI agent for payment-failure, checkout-abandonment and receivables recovery \u2014 measured as incremental lift over ",
     "id": "arrya5/revenue-recovery-agent",
     "language": "Python",
@@ -193,7 +211,7 @@
     "id": "Yuxuan2003/Awesome-GUI-Agent-Security",
     "language": "Python",
     "name": "Yuxuan2003/Awesome-GUI-Agent-Security",
-    "stars": 35,
+    "stars": 36,
     "updated_at": "2026-09-04T12:44:16Z",
     "url": "https://github.com/Yuxuan2003/Awesome-GUI-Agent-Security"
   },
@@ -247,7 +265,7 @@
     "id": "OtakuNathan/Pal",
     "language": "Python",
     "name": "OtakuNathan/Pal",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-09-04T12:16:01Z",
     "url": "https://github.com/OtakuNathan/Pal"
   },
@@ -301,7 +319,7 @@
     "id": "titanwings/distilly",
     "language": "TypeScript",
     "name": "titanwings/distilly",
-    "stars": 24342,
+    "stars": 24344,
     "updated_at": "2026-09-04T11:54:10Z",
     "url": "https://github.com/titanwings/distilly"
   },
@@ -409,7 +427,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 30653,
+    "stars": 30656,
     "updated_at": "2026-09-04T10:58:47Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-04T10:49:32Z",
     "url": "https://github.com/Finn763/foresight"
-  },
-  {
-    "description": "\u5267\u672c\u5206\u955c\u5de5\u5177\u667a\u80fd\u4f53\uff08PenShot\uff09\uff1a\u7535\u5f71/\u52a8\u6f2b/\u77ed\u5267/\u5c0f\u8bf4/\u5267\u672c\u2192\u5206\u955c\u2192\u7247\u6bb5\u2192prompt | \u57fa\u4e8e LangGraph+LLM\uff0c\u81ea\u52a8\u89e3\u6790\u4efb\u610f\u683c\u5f0f\u5267\u672c\uff0c\u751f\u6210 Sora/Veo/Runway \u7b49\u6a21\u578b\u53ef\u7528\u7684\u8fde\u8d2ftext-to-video\u63d0\u793a\u8bcd",
-    "id": "neopen/story-shot-agent",
-    "language": "Python",
-    "name": "neopen/story-shot-agent",
-    "stars": 171,
-    "updated_at": "2026-09-04T10:47:53Z",
-    "url": "https://github.com/neopen/story-shot-agent"
-  },
-  {
-    "description": "A provider-agnostic coding-agent harness for autonomous Python repository bug repair, with Docker verification and repro",
-    "id": "ztsstz711-afk/RepoFix-Harness",
-    "language": "Python",
-    "name": "ztsstz711-afk/RepoFix-Harness",
-    "stars": 0,
-    "updated_at": "2026-09-04T10:45:13Z",
-    "url": "https://github.com/ztsstz711-afk/RepoFix-Harness"
   }
 ]
