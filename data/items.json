@@ -1,11 +1,47 @@
 [
   {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 30617,
+    "updated_at": "2026-09-04T07:42:42Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "AI event probability prediction engine",
+    "id": "Finn763/foresight",
+    "language": "TypeScript",
+    "name": "Finn763/foresight",
+    "stars": 1,
+    "updated_at": "2026-09-04T07:40:11Z",
+    "url": "https://github.com/Finn763/foresight"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 15,
+    "updated_at": "2026-09-04T07:38:10Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
+    "id": "edjafarov/kiagent-core",
+    "language": "TypeScript",
+    "name": "edjafarov/kiagent-core",
+    "stars": 7,
+    "updated_at": "2026-09-04T07:30:45Z",
+    "url": "https://github.com/edjafarov/kiagent-core"
+  },
+  {
     "description": "Local coding agent with native Zhipu GLM / StepFun Step Coding-Plan support. Four hard gates \u2014 the agent can't claim don",
     "id": "Lion-1209/coderio",
     "language": "Python",
     "name": "Lion-1209/coderio",
     "stars": 9,
-    "updated_at": "2026-09-04T07:27:44Z",
+    "updated_at": "2026-09-04T07:32:31Z",
     "url": "https://github.com/Lion-1209/coderio"
   },
   {
@@ -16,6 +52,15 @@
     "stars": 8,
     "updated_at": "2026-09-04T07:24:15Z",
     "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 981,
+    "updated_at": "2026-09-04T07:23:43Z",
+    "url": "https://github.com/ongridio/ongrid"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -108,15 +153,6 @@
     "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 980,
-    "updated_at": "2026-09-04T07:23:43Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
     "description": "Unified LLM Platform that allows you to host your own models locally and access them from across the world",
     "id": "noahhps/Courier",
     "language": "Python",
@@ -124,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T06:27:09Z",
     "url": "https://github.com/noahhps/Courier"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 15,
-    "updated_at": "2026-09-04T06:27:06Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
     "description": "Cross-platform Agent Skill for comparing repos, papers, docs, and web references with a project then safely adapting app",
@@ -421,32 +448,5 @@
     "stars": 13,
     "updated_at": "2026-09-04T04:03:11Z",
     "url": "https://github.com/D2I-Group/matmcd"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-09-04T04:01:43Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-09-04T03:48:12Z",
-    "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5876,
-    "updated_at": "2026-09-04T03:30:00Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
   }
 ]
