@@ -1,5 +1,50 @@
 [
   {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-09-04T01:15:18Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-09-04T01:14:43Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "Dual-channel agentic search: local RAG + web, with the model routing each query itself. Hand-written LangGraph state mac",
+    "id": "alertform/agentic-search",
+    "language": "Python",
+    "name": "alertform/agentic-search",
+    "stars": 0,
+    "updated_at": "2026-09-04T01:12:05Z",
+    "url": "https://github.com/alertform/agentic-search"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 220,
+    "updated_at": "2026-09-04T01:02:28Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 53,
+    "updated_at": "2026-09-04T01:01:24Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -16,24 +61,6 @@
     "stars": 58,
     "updated_at": "2026-09-04T00:25:11Z",
     "url": "https://github.com/shanananana/deepticket"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 53,
-    "updated_at": "2026-09-04T00:23:32Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-09-04T00:50:28Z",
-    "url": "https://github.com/JSL107/personal_agents"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -106,6 +133,15 @@
     "stars": 1,
     "updated_at": "2026-09-04T00:03:55Z",
     "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
+    "description": "An open-sourced research agent system deeply rooted in your Zotero library.",
+    "id": "yilewang/llm-for-zotero",
+    "language": "TypeScript",
+    "name": "yilewang/llm-for-zotero",
+    "stars": 2859,
+    "updated_at": "2026-09-03T23:39:10Z",
+    "url": "https://github.com/yilewang/llm-for-zotero"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -401,7 +437,7 @@
     "language": "TypeScript",
     "name": "dsswift/ion",
     "stars": 4,
-    "updated_at": "2026-09-03T21:16:58Z",
+    "updated_at": "2026-09-04T01:13:13Z",
     "url": "https://github.com/dsswift/ion"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-03T18:55:36Z",
     "url": "https://github.com/ajeetkbhardwaj/anllm"
-  },
-  {
-    "description": "Multi-step SQL agent over the Olist e-commerce database: plan/act/observe loop, self-correction, grounding guard that ch",
-    "id": "JAYANSHUBADLANI/olist-analyst-agent",
-    "language": "Python",
-    "name": "JAYANSHUBADLANI/olist-analyst-agent",
-    "stars": 0,
-    "updated_at": "2026-09-03T18:51:11Z",
-    "url": "https://github.com/JAYANSHUBADLANI/olist-analyst-agent"
-  },
-  {
-    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
-    "id": "watchcat/scout",
-    "language": "Rust",
-    "name": "watchcat/scout",
-    "stars": 0,
-    "updated_at": "2026-09-03T18:47:00Z",
-    "url": "https://github.com/watchcat/scout"
-  },
-  {
-    "description": "Telegram cooking assistant on Cloudflare Workers: receipt and reel ingestion, a normalizer that keeps one canonical row ",
-    "id": "AnuraagTripathy/Foodie",
-    "language": "TypeScript",
-    "name": "AnuraagTripathy/Foodie",
-    "stars": 0,
-    "updated_at": "2026-09-03T18:38:50Z",
-    "url": "https://github.com/AnuraagTripathy/Foodie"
-  },
-  {
-    "description": "Desktop calendar agent where an LLM handles intent and a deterministic interval-arithmetic scheduler decides what actual",
-    "id": "AnuraagTripathy/schedy",
-    "language": "Rust",
-    "name": "AnuraagTripathy/schedy",
-    "stars": 0,
-    "updated_at": "2026-09-03T18:38:46Z",
-    "url": "https://github.com/AnuraagTripathy/schedy"
   }
 ]
