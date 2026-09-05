@@ -1,5 +1,50 @@
 [
   {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 2,
+    "updated_at": "2026-09-05T20:30:12Z",
+    "url": "https://github.com/sydches/yuj"
+  },
+  {
+    "description": "MCP server for hh.ru \u2014 search, resumes, applications, employer chat and hidden analytics over one applicant account, usi",
+    "id": "antalez/hh-cv-mcp",
+    "language": "Python",
+    "name": "antalez/hh-cv-mcp",
+    "stars": 0,
+    "updated_at": "2026-09-05T20:28:12Z",
+    "url": "https://github.com/antalez/hh-cv-mcp"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 95,
+    "updated_at": "2026-09-05T20:26:20Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
+    "id": "feder-cr/AIHawk",
+    "language": "Python",
+    "name": "feder-cr/AIHawk",
+    "stars": 30311,
+    "updated_at": "2026-09-05T20:20:42Z",
+    "url": "https://github.com/feder-cr/AIHawk"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-09-05T20:27:59Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
     "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
     "id": "rsalmn/ExtremeRouter",
     "language": "JavaScript",
@@ -25,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T19:52:02Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 95,
-    "updated_at": "2026-09-05T19:41:06Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "An agent for coding and everyday tasks, powered by the ChatGPT account you already pay for. No API key, no per-token bil",
@@ -257,7 +293,7 @@
     "language": "Python",
     "name": "Furox-Art/axiomize",
     "stars": 1,
-    "updated_at": "2026-09-05T17:30:21Z",
+    "updated_at": "2026-09-05T20:26:18Z",
     "url": "https://github.com/Furox-Art/axiomize"
   },
   {
@@ -268,15 +304,6 @@
     "stars": 33,
     "updated_at": "2026-09-05T17:14:23Z",
     "url": "https://github.com/gabrielmaialva33/winx-code-agent"
-  },
-  {
-    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
-    "id": "feder-cr/AIHawk",
-    "language": "Python",
-    "name": "feder-cr/AIHawk",
-    "stars": 30311,
-    "updated_at": "2026-09-05T17:08:53Z",
-    "url": "https://github.com/feder-cr/AIHawk"
   },
   {
     "description": "The coordination layer for Multiplayer AI",
@@ -421,32 +448,5 @@
     "stars": 15,
     "updated_at": "2026-09-05T14:04:20Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5729,
-    "updated_at": "2026-09-05T13:59:18Z",
-    "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 5,
-    "updated_at": "2026-09-05T13:47:44Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 26,
-    "updated_at": "2026-09-05T13:45:10Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
   }
 ]
