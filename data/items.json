@@ -1,12 +1,48 @@
 [
   {
+    "description": "\u5267\u672c\u5206\u955c\u5de5\u5177\u667a\u80fd\u4f53\uff08PenShot\uff09\uff1a\u7535\u5f71/\u52a8\u6f2b/\u77ed\u5267/\u5c0f\u8bf4/\u5267\u672c\u2192\u5206\u955c\u2192\u7247\u6bb5\u2192prompt | \u57fa\u4e8e LangGraph+LLM\uff0c\u81ea\u52a8\u89e3\u6790\u4efb\u610f\u683c\u5f0f\u5267\u672c\uff0c\u751f\u6210 Sora/Veo/Runway \u7b49\u6a21\u578b\u53ef\u7528\u7684\u8fde\u8d2ftext-to-video\u63d0\u793a\u8bcd",
+    "id": "neopen/story-shot-agent",
+    "language": "Python",
+    "name": "neopen/story-shot-agent",
+    "stars": 172,
+    "updated_at": "2026-09-05T11:27:07Z",
+    "url": "https://github.com/neopen/story-shot-agent"
+  },
+  {
     "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 380,
-    "updated_at": "2026-09-05T11:14:29Z",
+    "updated_at": "2026-09-05T11:25:50Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Community registry of AI agent manifests, capabilities, skills, and workflows for Octomind \u2014 run a fully-configured spec",
+    "id": "Muvon/octomind-tap",
+    "language": "Python",
+    "name": "Muvon/octomind-tap",
+    "stars": 4,
+    "updated_at": "2026-09-05T11:22:45Z",
+    "url": "https://github.com/Muvon/octomind-tap"
+  },
+  {
+    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
+    "id": "Torvian-eu/chatbot",
+    "language": "Kotlin",
+    "name": "Torvian-eu/chatbot",
+    "stars": 4,
+    "updated_at": "2026-09-05T11:20:41Z",
+    "url": "https://github.com/Torvian-eu/chatbot"
+  },
+  {
+    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
+    "id": "feder-cr/AIHawk",
+    "language": "Python",
+    "name": "feder-cr/AIHawk",
+    "stars": 30313,
+    "updated_at": "2026-09-05T11:18:07Z",
+    "url": "https://github.com/feder-cr/AIHawk"
   },
   {
     "description": "AWS\u306e\u69cb\u6210\u3092\u30c1\u30e3\u30c3\u30c8\u3067\u76f8\u8ac7\u3057\u306a\u304c\u3089\u6c7a\u3081\u3001\u6570\u5f0f\u5165\u308a\u306e\u30b3\u30b9\u30c8\u898b\u7a4d\u3082\u308aExcel\u3068\u69cb\u6210\u56f3\u3092\u51fa\u529b\u3059\u308b\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\uff08Genkit Go\uff09",
@@ -23,7 +59,7 @@
     "language": "Python",
     "name": "Furox-Art/axiomize",
     "stars": 0,
-    "updated_at": "2026-09-05T11:12:03Z",
+    "updated_at": "2026-09-05T11:29:41Z",
     "url": "https://github.com/Furox-Art/axiomize"
   },
   {
@@ -34,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T11:09:31Z",
     "url": "https://github.com/yy606747/obsidian-vow"
-  },
-  {
-    "description": "\u5267\u672c\u5206\u955c\u5de5\u5177\u667a\u80fd\u4f53\uff08PenShot\uff09\uff1a\u7535\u5f71/\u52a8\u6f2b/\u77ed\u5267/\u5c0f\u8bf4/\u5267\u672c\u2192\u5206\u955c\u2192\u7247\u6bb5\u2192prompt | \u57fa\u4e8e LangGraph+LLM\uff0c\u81ea\u52a8\u89e3\u6790\u4efb\u610f\u683c\u5f0f\u5267\u672c\uff0c\u751f\u6210 Sora/Veo/Runway \u7b49\u6a21\u578b\u53ef\u7528\u7684\u8fde\u8d2ftext-to-video\u63d0\u793a\u8bcd",
-    "id": "neopen/story-shot-agent",
-    "language": "Python",
-    "name": "neopen/story-shot-agent",
-    "stars": 172,
-    "updated_at": "2026-09-05T11:06:47Z",
-    "url": "https://github.com/neopen/story-shot-agent"
   },
   {
     "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
@@ -265,7 +292,7 @@
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
-    "stars": 93,
+    "stars": 94,
     "updated_at": "2026-09-05T09:34:53Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-05T08:16:57Z",
     "url": "https://github.com/avionicharshit-byte/openzl-agent"
-  },
-  {
-    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
-    "id": "kangwoo/aimon-core",
-    "language": "Java",
-    "name": "kangwoo/aimon-core",
-    "stars": 0,
-    "updated_at": "2026-09-05T09:49:27Z",
-    "url": "https://github.com/kangwoo/aimon-core"
-  },
-  {
-    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
-    "id": "ljedrz/nachalnik",
-    "language": "Rust",
-    "name": "ljedrz/nachalnik",
-    "stars": 1,
-    "updated_at": "2026-09-05T08:09:21Z",
-    "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
-    "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
-    "id": "ChanTso/citybuddy",
-    "language": "Java",
-    "name": "ChanTso/citybuddy",
-    "stars": 0,
-    "updated_at": "2026-09-05T07:55:42Z",
-    "url": "https://github.com/ChanTso/citybuddy"
   }
 ]
