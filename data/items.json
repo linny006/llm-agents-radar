@@ -1,5 +1,41 @@
 [
   {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-09-05T22:56:22Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+    "id": "BlockRunAI/Franklin",
+    "language": "TypeScript",
+    "name": "BlockRunAI/Franklin",
+    "stars": 553,
+    "updated_at": "2026-09-05T22:56:02Z",
+    "url": "https://github.com/BlockRunAI/Franklin"
+  },
+  {
+    "description": "An agent for coding and everyday tasks, powered by the ChatGPT account you already pay for. No API key, no per-token bil",
+    "id": "khudayarovich/onflip-agent",
+    "language": "TypeScript",
+    "name": "khudayarovich/onflip-agent",
+    "stars": 2,
+    "updated_at": "2026-09-05T22:52:41Z",
+    "url": "https://github.com/khudayarovich/onflip-agent"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-09-05T22:48:54Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -9,15 +45,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "An agent for coding and everyday tasks, powered by the ChatGPT account you already pay for. No API key, no per-token bil",
-    "id": "khudayarovich/onflip-agent",
-    "language": "TypeScript",
-    "name": "khudayarovich/onflip-agent",
-    "stars": 2,
-    "updated_at": "2026-09-05T22:40:19Z",
-    "url": "https://github.com/khudayarovich/onflip-agent"
-  },
-  {
     "description": "Protection-first BigQuery MCP server: dry-run budget gate, SELECT-only by BigQuery's own classification, structured erro",
     "id": "nlink-jp/bigquery-mcp",
     "language": "Go",
@@ -25,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T22:40:00Z",
     "url": "https://github.com/nlink-jp/bigquery-mcp"
-  },
-  {
-    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-    "id": "BlockRunAI/Franklin",
-    "language": "TypeScript",
-    "name": "BlockRunAI/Franklin",
-    "stars": 553,
-    "updated_at": "2026-09-05T22:43:11Z",
-    "url": "https://github.com/BlockRunAI/Franklin"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -63,15 +81,6 @@
     "url": "https://github.com/sydches/yuj"
   },
   {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 6,
-    "updated_at": "2026-09-05T22:34:51Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
     "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
     "id": "citizenhicks/mobius",
     "language": "Rust",
@@ -95,7 +104,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 600,
-    "updated_at": "2026-09-05T22:43:57Z",
+    "updated_at": "2026-09-05T22:53:29Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -223,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T21:13:36Z",
     "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-09-05T21:12:51Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
