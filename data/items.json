@@ -5,8 +5,53 @@
     "language": "Go",
     "name": "onembyte/kolkrabbi",
     "stars": 1,
-    "updated_at": "2026-09-05T06:43:51Z",
+    "updated_at": "2026-09-05T06:59:21Z",
     "url": "https://github.com/onembyte/kolkrabbi"
+  },
+  {
+    "description": "A compass for autonomous agents, not an operating manual.",
+    "id": "tachyon-r/first-principles-agent-soul",
+    "language": "\u2014",
+    "name": "tachyon-r/first-principles-agent-soul",
+    "stars": 1,
+    "updated_at": "2026-09-05T06:59:00Z",
+    "url": "https://github.com/tachyon-r/first-principles-agent-soul"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-09-05T06:59:03Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/",
+    "id": "ZekaiShi/evo-subagent",
+    "language": "JavaScript",
+    "name": "ZekaiShi/evo-subagent",
+    "stars": 5,
+    "updated_at": "2026-09-05T06:56:47Z",
+    "url": "https://github.com/ZekaiShi/evo-subagent"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 16,
+    "updated_at": "2026-09-05T06:58:07Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 26,
+    "updated_at": "2026-09-05T06:51:34Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "\u8bb2\u4e66\u6a21\u5f0f\u4e66\u7c4d\u538b\u7f29 Agent\uff1a\u628a\u4e00\u672c\u4e66\u538b\u6210\u6709\u4eba\u7ed9\u4f60\u8bb2\u4e66\u7684\u7cbe\u8bfb\u7248\uff08EPUB\uff09\uff0c\u4e8b\u5b9e\u9501\u6b7b\u3001\u53d9\u8ff0\u653e\u5f00\u3001\u72ec\u7acb\u8bed\u4e49\u5ba1\u8ba1 | book-compress skill: faithful, narrative-style book compression",
@@ -16,24 +61,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T06:42:55Z",
     "url": "https://github.com/SeanDuan365/book-compress"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-09-05T06:42:51Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 26,
-    "updated_at": "2026-09-05T06:42:44Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "An experimental autonomous AI agent that lives on your machine and talks to you through Telegram. One Rust binary.",
@@ -86,7 +113,7 @@
     "language": "Shell",
     "name": "bigduu/Zenith",
     "stars": 5,
-    "updated_at": "2026-09-05T06:36:40Z",
+    "updated_at": "2026-09-05T07:00:15Z",
     "url": "https://github.com/bigduu/Zenith"
   },
   {
@@ -124,15 +151,6 @@
     "stars": 17,
     "updated_at": "2026-09-05T06:36:38Z",
     "url": "https://github.com/bigduu/Nova"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 16,
-    "updated_at": "2026-09-05T06:40:49Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-05T04:58:47Z",
     "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
-  },
-  {
-    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
-    "id": "ravisinghrajput95/kubewhy",
-    "language": "Python",
-    "name": "ravisinghrajput95/kubewhy",
-    "stars": 0,
-    "updated_at": "2026-09-05T04:56:40Z",
-    "url": "https://github.com/ravisinghrajput95/kubewhy"
-  },
-  {
-    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
-    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "language": "JavaScript",
-    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "stars": 0,
-    "updated_at": "2026-09-05T04:45:51Z",
-    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
   }
 ]
