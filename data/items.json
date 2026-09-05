@@ -1,5 +1,14 @@
 [
   {
+    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 30,
+    "updated_at": "2026-09-05T20:12:32Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
     "description": "Autonomous research agent: LangGraph plan-act-observe-replan loop, Groq LLM, Tavily search, ChromaDB memory, streamed li",
     "id": "meetpatil1110/autonomous-research-agent",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 26,
     "updated_at": "2026-09-05T13:45:10Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 16,
-    "updated_at": "2026-09-05T14:20:16Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   }
 ]
