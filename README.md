@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-05 05:43 UTC
+> ⏰ Last updated: 2026-09-05 05:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 5 | Shell | 2026-09-05 | Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use,  |
-| 2 | [wunsiang-cheng/redrock](https://github.com/wunsiang-cheng/redrock) | 0 | Rust | 2026-09-05 | An experimental autonomous AI agent that lives on your machine and talks to you through Telegram. One Rust binary. |
-| 3 | [milljm/dynamic-rag-chat](https://github.com/milljm/dynamic-rag-chat) | 3 | Python | 2026-09-05 | A chat bot which makes use of multiple RAG collections/metadata field filtering, and multiple LLMs for model orchestrati |
-| 4 | [Cyrax321/CONTINUUM](https://github.com/Cyrax321/CONTINUUM) | 26 | Python | 2026-09-05 | CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id |
-| 5 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-09-05 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 6 | [onembyte/kolkrabbi](https://github.com/onembyte/kolkrabbi) | 1 | Go | 2026-09-05 | Open-source model-agnostic AI coding agent for the terminal. A Claude Code & Codex CLI alternative: any OpenRouter model |
+| 1 | [onembyte/kolkrabbi](https://github.com/onembyte/kolkrabbi) | 1 | Go | 2026-09-05 | Open-source model-agnostic AI coding agent for the terminal. A Claude Code & Codex CLI alternative: any OpenRouter model |
+| 2 | [Cyrax321/CONTINUUM](https://github.com/Cyrax321/CONTINUUM) | 26 | Python | 2026-09-05 | CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id |
+| 3 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 5 | Shell | 2026-09-05 | Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use,  |
+| 4 | [wunsiang-cheng/redrock](https://github.com/wunsiang-cheng/redrock) | 0 | Rust | 2026-09-05 | An experimental autonomous AI agent that lives on your machine and talks to you through Telegram. One Rust binary. |
+| 5 | [milljm/dynamic-rag-chat](https://github.com/milljm/dynamic-rag-chat) | 3 | Python | 2026-09-05 | A chat bot which makes use of multiple RAG collections/metadata field filtering, and multiple LLMs for model orchestrati |
+| 6 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-09-05 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
 | 7 | [noahhps/Courier](https://github.com/noahhps/Courier) | 0 | Python | 2026-09-05 | Unified LLM Platform that allows you to host your own models locally and access them from across the world |
 | 8 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 30 | JavaScript | 2026-09-05 | Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies  |
 | 9 | [Muvon/octomind-tap](https://github.com/Muvon/octomind-tap) | 4 | Python | 2026-09-05 | Community registry of AI agent manifests, capabilities, skills, and workflows for Octomind — run a fully-configured spec |
