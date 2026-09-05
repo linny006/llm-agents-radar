@@ -5,8 +5,44 @@
     "language": "Go",
     "name": "onembyte/kolkrabbi",
     "stars": 1,
-    "updated_at": "2026-09-05T18:44:28Z",
+    "updated_at": "2026-09-05T18:59:47Z",
     "url": "https://github.com/onembyte/kolkrabbi"
+  },
+  {
+    "description": "An agent for coding and everyday tasks, powered by the ChatGPT account you already pay for. No API key, no per-token bil",
+    "id": "khudayarovich/onflip-agent",
+    "language": "TypeScript",
+    "name": "khudayarovich/onflip-agent",
+    "stars": 2,
+    "updated_at": "2026-09-05T18:56:02Z",
+    "url": "https://github.com/khudayarovich/onflip-agent"
+  },
+  {
+    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 210,
+    "updated_at": "2026-09-05T18:52:46Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 129,
+    "updated_at": "2026-09-05T18:46:51Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 32,
+    "updated_at": "2026-09-05T18:45:24Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -59,7 +95,7 @@
     "language": "Rust",
     "name": "aviskaar/zorp",
     "stars": 3,
-    "updated_at": "2026-09-05T18:33:21Z",
+    "updated_at": "2026-09-05T18:53:07Z",
     "url": "https://github.com/aviskaar/zorp"
   },
   {
@@ -81,15 +117,6 @@
     "url": "https://github.com/Unpapamericano/autonomous-scientific-agent"
   },
   {
-    "description": "An agent for coding and everyday tasks, powered by the ChatGPT account you already pay for. No API key, no per-token bil",
-    "id": "khudayarovich/onflip-agent",
-    "language": "TypeScript",
-    "name": "khudayarovich/onflip-agent",
-    "stars": 2,
-    "updated_at": "2026-09-05T18:23:09Z",
-    "url": "https://github.com/khudayarovich/onflip-agent"
-  },
-  {
     "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
     "id": "sunnnn2005/data-quality-agent",
     "language": "Python",
@@ -97,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T18:22:37Z",
     "url": "https://github.com/sunnnn2005/data-quality-agent"
-  },
-  {
-    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 210,
-    "updated_at": "2026-09-05T18:42:15Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -230,7 +248,7 @@
     "language": "Python",
     "name": "Cohexa-ai/agent-coherence",
     "stars": 12,
-    "updated_at": "2026-09-05T17:12:50Z",
+    "updated_at": "2026-09-05T18:48:10Z",
     "url": "https://github.com/Cohexa-ai/agent-coherence"
   },
   {
@@ -277,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T16:32:41Z",
     "url": "https://github.com/ChanTso/citybuddy"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 129,
-    "updated_at": "2026-09-05T16:31:59Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "\u5b66\u4e60Agent\u5f00\u53d1\u7684\u7b14\u8bb0\uff0c\u5c1d\u8bd5\u8ba9Agent\u4ece\u53ef\u7528\u5230\u53ef\u9760",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-05T13:36:21Z",
     "url": "https://github.com/hoshiyomiX/stellar-trails"
-  },
-  {
-    "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
-    "id": "rugose-learnedprofession58/pi-dsh",
-    "language": "TypeScript",
-    "name": "rugose-learnedprofession58/pi-dsh",
-    "stars": 1,
-    "updated_at": "2026-09-05T13:31:30Z",
-    "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
   }
 ]
