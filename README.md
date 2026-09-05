@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-05 11:30 UTC
+> ⏰ Last updated: 2026-09-05 11:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,20 +42,20 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [neopen/story-shot-agent](https://github.com/neopen/story-shot-agent) | 172 | Python | 2026-09-05 | 剧本分镜工具智能体（PenShot）：电影/动漫/短剧/小说/剧本→分镜→片段→prompt \| 基于 LangGraph+LLM，自动解析任意格式剧本，生成 Sora/Veo/Runway 等模型可用的连贯text-to-video提示词 |
-| 2 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 380 | Python | 2026-09-05 | Self-Programming AI Assistant. Capture, automate, and refine all your workflows. |
+| 1 | [o-ga09/genkit-agent-cloud-cost-estimate](https://github.com/o-ga09/genkit-agent-cloud-cost-estimate) | 0 | Go | 2026-09-05 | AWSの構成をチャットで相談しながら決め、数式入りのコスト見積もりExcelと構成図を出力するエージェント（Genkit Go） |
+| 2 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 16 | Rust | 2026-09-05 | Bamboo — a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule |
 | 3 | [Muvon/octomind-tap](https://github.com/Muvon/octomind-tap) | 4 | Python | 2026-09-05 | Community registry of AI agent manifests, capabilities, skills, and workflows for Octomind — run a fully-configured spec |
-| 4 | [Torvian-eu/chatbot](https://github.com/Torvian-eu/chatbot) | 4 | Kotlin | 2026-09-05 | Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open |
-| 5 | [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) | 30313 | Python | 2026-09-05 | Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M |
-| 6 | [o-ga09/genkit-agent-cloud-cost-estimate](https://github.com/o-ga09/genkit-agent-cloud-cost-estimate) | 0 | Go | 2026-09-05 | AWSの構成をチャットで相談しながら決め、数式入りのコスト見積もりExcelと構成図を出力するエージェント（Genkit Go） |
-| 7 | [Furox-Art/axiomize](https://github.com/Furox-Art/axiomize) | 0 | Python | 2026-09-05 | AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv |
-| 8 | [yy606747/obsidian-vow](https://github.com/yy606747/obsidian-vow) | 1 | Python | 2026-09-05 | A self-hosted AI companion exploring evolving relationship memory, initiative, and cross-device context. |
-| 9 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 5 | Shell | 2026-09-05 | Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use,  |
-| 10 | [bigduu/Nova](https://github.com/bigduu/Nova) | 17 | Rust | 2026-09-05 | Cross-platform Rust computer-use MCP server for macOS and Windows: AX/UIA, screenshots, OCR, pointer and keyboard input, |
-| 11 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 16 | Rust | 2026-09-05 | Bamboo — a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule |
-| 12 | [AVADSA25/codec](https://github.com/AVADSA25/codec) | 105 | Python | 2026-09-05 | Open-Source Intelligent Command Layer |
-| 13 | [karvidsson/kbots](https://github.com/karvidsson/kbots) | 0 | Python | 2026-09-05 | Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme |
-| 14 | [krapcys1-maker/nia-substack-agent](https://github.com/krapcys1-maker/nia-substack-agent) | 1 | Python | 2026-09-05 | Autonomous Substack agent and bot: picks its own topics, researches primary sources, writes the articles, posts Notes, c |
+| 4 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 380 | Python | 2026-09-05 | Self-Programming AI Assistant. Capture, automate, and refine all your workflows. |
+| 5 | [krapcys1-maker/nia-substack-agent](https://github.com/krapcys1-maker/nia-substack-agent) | 1 | Python | 2026-09-05 | Autonomous Substack agent and bot: picks its own topics, researches primary sources, writes the articles, posts Notes, c |
+| 6 | [neopen/story-shot-agent](https://github.com/neopen/story-shot-agent) | 172 | Python | 2026-09-05 | 剧本分镜工具智能体（PenShot）：电影/动漫/短剧/小说/剧本→分镜→片段→prompt \| 基于 LangGraph+LLM，自动解析任意格式剧本，生成 Sora/Veo/Runway 等模型可用的连贯text-to-video提示词 |
+| 7 | [Torvian-eu/chatbot](https://github.com/Torvian-eu/chatbot) | 4 | Kotlin | 2026-09-05 | Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open |
+| 8 | [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) | 30313 | Python | 2026-09-05 | Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M |
+| 9 | [Furox-Art/axiomize](https://github.com/Furox-Art/axiomize) | 0 | Python | 2026-09-05 | AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv |
+| 10 | [yy606747/obsidian-vow](https://github.com/yy606747/obsidian-vow) | 1 | Python | 2026-09-05 | A self-hosted AI companion exploring evolving relationship memory, initiative, and cross-device context. |
+| 11 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 5 | Shell | 2026-09-05 | Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use,  |
+| 12 | [bigduu/Nova](https://github.com/bigduu/Nova) | 17 | Rust | 2026-09-05 | Cross-platform Rust computer-use MCP server for macOS and Windows: AX/UIA, screenshots, OCR, pointer and keyboard input, |
+| 13 | [AVADSA25/codec](https://github.com/AVADSA25/codec) | 105 | Python | 2026-09-05 | Open-Source Intelligent Command Layer |
+| 14 | [karvidsson/kbots](https://github.com/karvidsson/kbots) | 0 | Python | 2026-09-05 | Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme |
 | 15 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 4 | Python | 2026-09-05 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
 | 16 | [arrya5/revenue-recovery-agent](https://github.com/arrya5/revenue-recovery-agent) | 0 | Python | 2026-09-05 | Bounded AI agent for payment-failure, checkout-abandonment and receivables recovery — measured as incremental lift over  |
 | 17 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 5 | Swift | 2026-09-05 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |

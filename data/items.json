@@ -1,21 +1,21 @@
 [
   {
-    "description": "\u5267\u672c\u5206\u955c\u5de5\u5177\u667a\u80fd\u4f53\uff08PenShot\uff09\uff1a\u7535\u5f71/\u52a8\u6f2b/\u77ed\u5267/\u5c0f\u8bf4/\u5267\u672c\u2192\u5206\u955c\u2192\u7247\u6bb5\u2192prompt | \u57fa\u4e8e LangGraph+LLM\uff0c\u81ea\u52a8\u89e3\u6790\u4efb\u610f\u683c\u5f0f\u5267\u672c\uff0c\u751f\u6210 Sora/Veo/Runway \u7b49\u6a21\u578b\u53ef\u7528\u7684\u8fde\u8d2ftext-to-video\u63d0\u793a\u8bcd",
-    "id": "neopen/story-shot-agent",
-    "language": "Python",
-    "name": "neopen/story-shot-agent",
-    "stars": 172,
-    "updated_at": "2026-09-05T11:27:07Z",
-    "url": "https://github.com/neopen/story-shot-agent"
+    "description": "AWS\u306e\u69cb\u6210\u3092\u30c1\u30e3\u30c3\u30c8\u3067\u76f8\u8ac7\u3057\u306a\u304c\u3089\u6c7a\u3081\u3001\u6570\u5f0f\u5165\u308a\u306e\u30b3\u30b9\u30c8\u898b\u7a4d\u3082\u308aExcel\u3068\u69cb\u6210\u56f3\u3092\u51fa\u529b\u3059\u308b\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\uff08Genkit Go\uff09",
+    "id": "o-ga09/genkit-agent-cloud-cost-estimate",
+    "language": "Go",
+    "name": "o-ga09/genkit-agent-cloud-cost-estimate",
+    "stars": 0,
+    "updated_at": "2026-09-05T11:44:14Z",
+    "url": "https://github.com/o-ga09/genkit-agent-cloud-cost-estimate"
   },
   {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 380,
-    "updated_at": "2026-09-05T11:25:50Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 16,
+    "updated_at": "2026-09-05T11:43:34Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "Community registry of AI agent manifests, capabilities, skills, and workflows for Octomind \u2014 run a fully-configured spec",
@@ -23,8 +23,35 @@
     "language": "Python",
     "name": "Muvon/octomind-tap",
     "stars": 4,
-    "updated_at": "2026-09-05T11:22:45Z",
+    "updated_at": "2026-09-05T11:40:12Z",
     "url": "https://github.com/Muvon/octomind-tap"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 380,
+    "updated_at": "2026-09-05T11:39:17Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Autonomous Substack agent and bot: picks its own topics, researches primary sources, writes the articles, posts Notes, c",
+    "id": "krapcys1-maker/nia-substack-agent",
+    "language": "Python",
+    "name": "krapcys1-maker/nia-substack-agent",
+    "stars": 1,
+    "updated_at": "2026-09-05T11:31:22Z",
+    "url": "https://github.com/krapcys1-maker/nia-substack-agent"
+  },
+  {
+    "description": "\u5267\u672c\u5206\u955c\u5de5\u5177\u667a\u80fd\u4f53\uff08PenShot\uff09\uff1a\u7535\u5f71/\u52a8\u6f2b/\u77ed\u5267/\u5c0f\u8bf4/\u5267\u672c\u2192\u5206\u955c\u2192\u7247\u6bb5\u2192prompt | \u57fa\u4e8e LangGraph+LLM\uff0c\u81ea\u52a8\u89e3\u6790\u4efb\u610f\u683c\u5f0f\u5267\u672c\uff0c\u751f\u6210 Sora/Veo/Runway \u7b49\u6a21\u578b\u53ef\u7528\u7684\u8fde\u8d2ftext-to-video\u63d0\u793a\u8bcd",
+    "id": "neopen/story-shot-agent",
+    "language": "Python",
+    "name": "neopen/story-shot-agent",
+    "stars": 172,
+    "updated_at": "2026-09-05T11:27:07Z",
+    "url": "https://github.com/neopen/story-shot-agent"
   },
   {
     "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
@@ -45,21 +72,12 @@
     "url": "https://github.com/feder-cr/AIHawk"
   },
   {
-    "description": "AWS\u306e\u69cb\u6210\u3092\u30c1\u30e3\u30c3\u30c8\u3067\u76f8\u8ac7\u3057\u306a\u304c\u3089\u6c7a\u3081\u3001\u6570\u5f0f\u5165\u308a\u306e\u30b3\u30b9\u30c8\u898b\u7a4d\u3082\u308aExcel\u3068\u69cb\u6210\u56f3\u3092\u51fa\u529b\u3059\u308b\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\uff08Genkit Go\uff09",
-    "id": "o-ga09/genkit-agent-cloud-cost-estimate",
-    "language": "Go",
-    "name": "o-ga09/genkit-agent-cloud-cost-estimate",
-    "stars": 0,
-    "updated_at": "2026-09-05T11:12:17Z",
-    "url": "https://github.com/o-ga09/genkit-agent-cloud-cost-estimate"
-  },
-  {
     "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
     "id": "Furox-Art/axiomize",
     "language": "Python",
     "name": "Furox-Art/axiomize",
     "stars": 0,
-    "updated_at": "2026-09-05T11:29:41Z",
+    "updated_at": "2026-09-05T11:43:14Z",
     "url": "https://github.com/Furox-Art/axiomize"
   },
   {
@@ -90,15 +108,6 @@
     "url": "https://github.com/bigduu/Nova"
   },
   {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 16,
-    "updated_at": "2026-09-05T11:09:57Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "Open-Source Intelligent Command Layer",
     "id": "AVADSA25/codec",
     "language": "Python",
@@ -115,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T11:03:06Z",
     "url": "https://github.com/karvidsson/kbots"
-  },
-  {
-    "description": "Autonomous Substack agent and bot: picks its own topics, researches primary sources, writes the articles, posts Notes, c",
-    "id": "krapcys1-maker/nia-substack-agent",
-    "language": "Python",
-    "name": "krapcys1-maker/nia-substack-agent",
-    "stars": 1,
-    "updated_at": "2026-09-05T10:55:09Z",
-    "url": "https://github.com/krapcys1-maker/nia-substack-agent"
   },
   {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
@@ -158,7 +158,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 26,
-    "updated_at": "2026-09-05T10:38:11Z",
+    "updated_at": "2026-09-05T11:36:54Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
