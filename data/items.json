@@ -1,30 +1,39 @@
 [
   {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 6,
-    "updated_at": "2026-09-05T21:59:59Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-09-05T21:57:32Z",
-    "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
     "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
     "id": "BlockRunAI/Franklin",
     "language": "TypeScript",
     "name": "BlockRunAI/Franklin",
     "stars": 553,
-    "updated_at": "2026-09-05T21:56:58Z",
+    "updated_at": "2026-09-05T22:12:55Z",
     "url": "https://github.com/BlockRunAI/Franklin"
+  },
+  {
+    "description": "ISO 27001 (+ 42001 + NIS2) ISMS framework designed to be operated by LLM Agents",
+    "id": "kriss-b/llm-iso27001",
+    "language": "\u2014",
+    "name": "kriss-b/llm-iso27001",
+    "stars": 39,
+    "updated_at": "2026-09-05T22:12:49Z",
+    "url": "https://github.com/kriss-b/llm-iso27001"
+  },
+  {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 2,
+    "updated_at": "2026-09-05T22:11:29Z",
+    "url": "https://github.com/sydches/yuj"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-09-05T22:08:32Z",
+    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "An agent for coding and everyday tasks, powered by the ChatGPT account you already pay for. No API key, no per-token bil",
@@ -32,8 +41,17 @@
     "language": "TypeScript",
     "name": "khudayarovich/onflip-agent",
     "stars": 2,
-    "updated_at": "2026-09-05T21:37:51Z",
+    "updated_at": "2026-09-05T22:03:28Z",
     "url": "https://github.com/khudayarovich/onflip-agent"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-09-05T22:05:23Z",
+    "url": "https://github.com/citizenhicks/mobius"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -97,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T21:25:20Z",
     "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 2,
-    "updated_at": "2026-09-05T21:24:28Z",
-    "url": "https://github.com/sydches/yuj"
   },
   {
     "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-05T21:50:25Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "MLOps platform: LangGraph agent (OpenRouter/GLM-4.6), Neo4j knowledge graph, FastAPI inference, Airflow pipelines, Datad",
-    "id": "iamvisheshsrivastava/AirKube",
-    "language": "Python",
-    "name": "iamvisheshsrivastava/AirKube",
-    "stars": 1,
-    "updated_at": "2026-09-05T19:35:23Z",
-    "url": "https://github.com/iamvisheshsrivastava/AirKube"
   }
 ]
