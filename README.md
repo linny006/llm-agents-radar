@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-05 15:43 UTC
+> ⏰ Last updated: 2026-09-05 15:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-09-05 | A productive AI coworker that learns, self-improves, and ships work. |
-| 2 | [watchcat/scout](https://github.com/watchcat/scout) | 0 | Rust | 2026-09-05 | A Telegram shopping researcher that verifies prices and links instead of inventing them |
-| 3 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-09-05 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 4 | [555cute/r20-quantum-trader](https://github.com/555cute/r20-quantum-trader) | 94 | Python | 2026-09-05 | ⚡ LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI  |
-| 5 | [wan9yu/cli-agent-runner](https://github.com/wan9yu/cli-agent-runner) | 4 | Python | 2026-09-05 | Keep agent CLIs running 7×24 — supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure |
-| 6 | [krapcys1-maker/nia-substack-agent](https://github.com/krapcys1-maker/nia-substack-agent) | 1 | Python | 2026-09-05 | Autonomous Substack agent and bot: picks its own topics, researches primary sources, writes the articles, posts Notes, c |
-| 7 | [Heliotrope-dev/finance-agent](https://github.com/Heliotrope-dev/finance-agent) | 2 | Python | 2026-09-05 | 行情+财务+新闻交叉验证的科学理财Agent，不做黑箱荐股 |
-| 8 | [edjafarov/kiagent-core](https://github.com/edjafarov/kiagent-core) | 7 | TypeScript | 2026-09-05 | kiagent-core — open-source personal AI brain — local, open source, speaks MCP |
-| 9 | [ThreeFish-AI/negentropy](https://github.com/ThreeFish-AI/negentropy) | 10 | Python | 2026-09-05 | An agentic system built on a "One Root, Five Wings" architecture, dedicated to combating the entropy production of infom |
-| 10 | [ravisinghrajput95/kubewhy](https://github.com/ravisinghrajput95/kubewhy) | 0 | Python | 2026-09-05 | Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why — a local LLM read |
-| 11 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-09-05 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 12 | [MarieLynneBlock/arcanum-artifex](https://github.com/MarieLynneBlock/arcanum-artifex) | 4 | Python | 2026-09-05 | Prompts, skills, and agents that survive contact with real workflows. No vendor loyalty. Occasionally heretical.  🧙🏻‍♀️ |
-| 13 | [LYRA-88/workspace_memory_dsh](https://github.com/LYRA-88/workspace_memory_dsh) | 0 | TypeScript | 2026-09-05 | Workspace-scoped persistent memory for DSH agent sessions - proposition graph, three-layer memory funnel, hybrid vector+ |
-| 14 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 382 | Python | 2026-09-05 | Self-Programming AI Assistant. Capture, automate, and refine all your workflows. |
-| 15 | [Unpapamericano/autonomous-scientific-agent](https://github.com/Unpapamericano/autonomous-scientific-agent) | 0 | Python | 2026-09-05 | Local-first autonomous scientific research agent with evidence governance, RAG, Polars analysis, and live clinical-trial |
-| 16 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 600 | JavaScript | 2026-09-05 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
+| 1 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 600 | JavaScript | 2026-09-05 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
+| 2 | [krapcys1-maker/nia-substack-agent](https://github.com/krapcys1-maker/nia-substack-agent) | 1 | Python | 2026-09-05 | Autonomous Substack agent and bot: picks its own topics, researches primary sources, writes the articles, posts Notes, c |
+| 3 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-09-05 | A productive AI coworker that learns, self-improves, and ships work. |
+| 4 | [watchcat/scout](https://github.com/watchcat/scout) | 0 | Rust | 2026-09-05 | A Telegram shopping researcher that verifies prices and links instead of inventing them |
+| 5 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-09-05 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 6 | [555cute/r20-quantum-trader](https://github.com/555cute/r20-quantum-trader) | 94 | Python | 2026-09-05 | ⚡ LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI  |
+| 7 | [wan9yu/cli-agent-runner](https://github.com/wan9yu/cli-agent-runner) | 4 | Python | 2026-09-05 | Keep agent CLIs running 7×24 — supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure |
+| 8 | [Heliotrope-dev/finance-agent](https://github.com/Heliotrope-dev/finance-agent) | 2 | Python | 2026-09-05 | 行情+财务+新闻交叉验证的科学理财Agent，不做黑箱荐股 |
+| 9 | [edjafarov/kiagent-core](https://github.com/edjafarov/kiagent-core) | 7 | TypeScript | 2026-09-05 | kiagent-core — open-source personal AI brain — local, open source, speaks MCP |
+| 10 | [ThreeFish-AI/negentropy](https://github.com/ThreeFish-AI/negentropy) | 10 | Python | 2026-09-05 | An agentic system built on a "One Root, Five Wings" architecture, dedicated to combating the entropy production of infom |
+| 11 | [ravisinghrajput95/kubewhy](https://github.com/ravisinghrajput95/kubewhy) | 0 | Python | 2026-09-05 | Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why — a local LLM read |
+| 12 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-09-05 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 13 | [MarieLynneBlock/arcanum-artifex](https://github.com/MarieLynneBlock/arcanum-artifex) | 4 | Python | 2026-09-05 | Prompts, skills, and agents that survive contact with real workflows. No vendor loyalty. Occasionally heretical.  🧙🏻‍♀️ |
+| 14 | [LYRA-88/workspace_memory_dsh](https://github.com/LYRA-88/workspace_memory_dsh) | 0 | TypeScript | 2026-09-05 | Workspace-scoped persistent memory for DSH agent sessions - proposition graph, three-layer memory funnel, hybrid vector+ |
+| 15 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 382 | Python | 2026-09-05 | Self-Programming AI Assistant. Capture, automate, and refine all your workflows. |
+| 16 | [Unpapamericano/autonomous-scientific-agent](https://github.com/Unpapamericano/autonomous-scientific-agent) | 0 | Python | 2026-09-05 | Local-first autonomous scientific research agent with evidence governance, RAG, Polars analysis, and live clinical-trial |
 | 17 | [onembyte/kolkrabbi](https://github.com/onembyte/kolkrabbi) | 1 | Go | 2026-09-05 | Open-source model-agnostic AI coding agent for the terminal. A Claude Code & Codex CLI alternative: any OpenRouter model |
 | 18 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 15 | Python | 2026-09-05 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、视觉与 HMI；LLM 只负责理解与规划，VAL 负责确定性安全执行。 |
 | 19 | [Furox-Art/axiomize](https://github.com/Furox-Art/axiomize) | 0 | Python | 2026-09-05 | AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv |

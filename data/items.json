@@ -1,5 +1,23 @@
 [
   {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 600,
+    "updated_at": "2026-09-05T15:45:05Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "Autonomous Substack agent and bot: picks its own topics, researches primary sources, writes the articles, posts Notes, c",
+    "id": "krapcys1-maker/nia-substack-agent",
+    "language": "Python",
+    "name": "krapcys1-maker/nia-substack-agent",
+    "stars": 1,
+    "updated_at": "2026-09-05T15:43:35Z",
+    "url": "https://github.com/krapcys1-maker/nia-substack-agent"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -43,15 +61,6 @@
     "stars": 4,
     "updated_at": "2026-09-05T15:32:54Z",
     "url": "https://github.com/wan9yu/cli-agent-runner"
-  },
-  {
-    "description": "Autonomous Substack agent and bot: picks its own topics, researches primary sources, writes the articles, posts Notes, c",
-    "id": "krapcys1-maker/nia-substack-agent",
-    "language": "Python",
-    "name": "krapcys1-maker/nia-substack-agent",
-    "stars": 1,
-    "updated_at": "2026-09-05T15:31:13Z",
-    "url": "https://github.com/krapcys1-maker/nia-substack-agent"
   },
   {
     "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
@@ -135,15 +144,6 @@
     "url": "https://github.com/Unpapamericano/autonomous-scientific-agent"
   },
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 600,
-    "updated_at": "2026-09-05T15:30:42Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
     "description": "Open-source model-agnostic AI coding agent for the terminal. A Claude Code & Codex CLI alternative: any OpenRouter model",
     "id": "onembyte/kolkrabbi",
     "language": "Go",
@@ -167,7 +167,7 @@
     "language": "Python",
     "name": "Furox-Art/axiomize",
     "stars": 0,
-    "updated_at": "2026-09-05T15:42:52Z",
+    "updated_at": "2026-09-05T15:44:42Z",
     "url": "https://github.com/Furox-Art/axiomize"
   },
   {
