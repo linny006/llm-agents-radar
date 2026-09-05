@@ -1,21 +1,21 @@
 [
   {
-    "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
-    "id": "Furox-Art/axiomize",
-    "language": "Python",
-    "name": "Furox-Art/axiomize",
-    "stars": 1,
-    "updated_at": "2026-09-05T17:26:48Z",
-    "url": "https://github.com/Furox-Art/axiomize"
-  },
-  {
     "description": "Autonomous Substack agent and bot: picks its own topics, researches primary sources, writes the articles, posts Notes, c",
     "id": "krapcys1-maker/nia-substack-agent",
     "language": "Python",
     "name": "krapcys1-maker/nia-substack-agent",
     "stars": 1,
-    "updated_at": "2026-09-05T17:23:16Z",
+    "updated_at": "2026-09-05T17:37:12Z",
     "url": "https://github.com/krapcys1-maker/nia-substack-agent"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-05T17:35:14Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
@@ -23,8 +23,26 @@
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
     "stars": 94,
-    "updated_at": "2026-09-05T17:21:56Z",
+    "updated_at": "2026-09-05T17:32:40Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
+    "id": "diaban/jobsmith",
+    "language": "Python",
+    "name": "diaban/jobsmith",
+    "stars": 0,
+    "updated_at": "2026-09-05T17:30:48Z",
+    "url": "https://github.com/diaban/jobsmith"
+  },
+  {
+    "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
+    "id": "Furox-Art/axiomize",
+    "language": "Python",
+    "name": "Furox-Art/axiomize",
+    "stars": 1,
+    "updated_at": "2026-09-05T17:30:21Z",
+    "url": "https://github.com/Furox-Art/axiomize"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -61,15 +79,6 @@
     "stars": 33,
     "updated_at": "2026-09-05T17:14:23Z",
     "url": "https://github.com/gabrielmaialva33/winx-code-agent"
-  },
-  {
-    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
-    "id": "diaban/jobsmith",
-    "language": "Python",
-    "name": "diaban/jobsmith",
-    "stars": 0,
-    "updated_at": "2026-09-05T17:29:39Z",
-    "url": "https://github.com/diaban/jobsmith"
   },
   {
     "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
@@ -203,7 +212,7 @@
     "language": "TypeScript",
     "name": "BlockRunAI/Franklin",
     "stars": 553,
-    "updated_at": "2026-09-05T16:09:03Z",
+    "updated_at": "2026-09-05T17:37:07Z",
     "url": "https://github.com/BlockRunAI/Franklin"
   },
   {
@@ -243,15 +252,6 @@
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-09-05T15:36:50Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "Keep agent CLIs running 7\u00d724 \u2014 supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure",
     "id": "wan9yu/cli-agent-runner",
     "language": "Python",
@@ -266,7 +266,7 @@
     "language": "Python",
     "name": "ThreeFish-AI/negentropy",
     "stars": 10,
-    "updated_at": "2026-09-05T17:18:08Z",
+    "updated_at": "2026-09-05T17:31:29Z",
     "url": "https://github.com/ThreeFish-AI/negentropy"
   },
   {
