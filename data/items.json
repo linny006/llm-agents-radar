@@ -1,5 +1,32 @@
 [
   {
+    "description": "Usa Qlib como cerebro cuant y Vibe-Trading como manos: scores de acciones por ML servidos a un agente de trading LLM v\u00eda",
+    "id": "Ax3lsk3r3/QuantVibe",
+    "language": "TypeScript",
+    "name": "Ax3lsk3r3/QuantVibe",
+    "stars": 2,
+    "updated_at": "2026-09-05T04:20:27Z",
+    "url": "https://github.com/Ax3lsk3r3/QuantVibe"
+  },
+  {
+    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 30,
+    "updated_at": "2026-09-05T04:19:50Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
+    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 5,
+    "updated_at": "2026-09-05T04:19:15Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
     "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
     "id": "Heliotrope-dev/finance-agent",
     "language": "Python",
@@ -14,7 +41,7 @@
     "language": "Java",
     "name": "kangwoo/aimon-core",
     "stars": 0,
-    "updated_at": "2026-09-05T04:10:06Z",
+    "updated_at": "2026-09-05T04:16:34Z",
     "url": "https://github.com/kangwoo/aimon-core"
   },
   {
@@ -43,15 +70,6 @@
     "stars": 4,
     "updated_at": "2026-09-05T04:06:15Z",
     "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
-  },
-  {
-    "description": "Usa Qlib como cerebro cuant y Vibe-Trading como manos: scores de acciones por ML servidos a un agente de trading LLM v\u00eda",
-    "id": "Ax3lsk3r3/QuantVibe",
-    "language": "TypeScript",
-    "name": "Ax3lsk3r3/QuantVibe",
-    "stars": 2,
-    "updated_at": "2026-09-05T04:05:21Z",
-    "url": "https://github.com/Ax3lsk3r3/QuantVibe"
   },
   {
     "description": "The hybrid CLI/Web coding agent that works your way.",
@@ -108,21 +126,12 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 30,
-    "updated_at": "2026-09-05T03:48:50Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
     "description": "Pie \u2014 AI browser agent Chrome extension",
     "id": "wiseria-ai-labs/pie-ai-agent",
     "language": "TypeScript",
     "name": "wiseria-ai-labs/pie-ai-agent",
     "stars": 73,
-    "updated_at": "2026-09-05T04:11:06Z",
+    "updated_at": "2026-09-05T04:21:11Z",
     "url": "https://github.com/wiseria-ai-labs/pie-ai-agent"
   },
   {
@@ -346,7 +355,7 @@
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
-    "stars": 86,
+    "stars": 87,
     "updated_at": "2026-09-05T01:09:42Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-05T00:23:20Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
-    "id": "brittewestafrican981/ComfyUI-YinChao",
-    "language": "Python",
-    "name": "brittewestafrican981/ComfyUI-YinChao",
-    "stars": 0,
-    "updated_at": "2026-09-04T23:45:03Z",
-    "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
   }
 ]
