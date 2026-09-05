@@ -1,12 +1,57 @@
 [
   {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 384,
+    "updated_at": "2026-09-05T23:28:55Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
     "description": "An agent for coding and everyday tasks, powered by the ChatGPT account you already pay for. No API key, no per-token bil",
     "id": "khudayarovich/onflip-agent",
     "language": "TypeScript",
     "name": "khudayarovich/onflip-agent",
     "stars": 2,
-    "updated_at": "2026-09-05T23:16:04Z",
+    "updated_at": "2026-09-05T23:28:53Z",
     "url": "https://github.com/khudayarovich/onflip-agent"
+  },
+  {
+    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
+    "id": "feder-cr/AIHawk",
+    "language": "Python",
+    "name": "feder-cr/AIHawk",
+    "stars": 30314,
+    "updated_at": "2026-09-05T23:28:45Z",
+    "url": "https://github.com/feder-cr/AIHawk"
+  },
+  {
+    "description": "Open-source model-agnostic AI coding agent for the terminal. A Claude Code & Codex CLI alternative: any OpenRouter model",
+    "id": "onembyte/kolkrabbi",
+    "language": "Go",
+    "name": "onembyte/kolkrabbi",
+    "stars": 1,
+    "updated_at": "2026-09-05T23:20:29Z",
+    "url": "https://github.com/onembyte/kolkrabbi"
+  },
+  {
+    "description": "Easy-to-use, customizable, high-quality secure code review skills for AI agents.",
+    "id": "ivan-sincek/secure-code-review-agent-skills",
+    "language": "\u2014",
+    "name": "ivan-sincek/secure-code-review-agent-skills",
+    "stars": 1,
+    "updated_at": "2026-09-05T23:18:59Z",
+    "url": "https://github.com/ivan-sincek/secure-code-review-agent-skills"
+  },
+  {
+    "description": "ISO 27001 (+ 42001 + NIS2) ISMS framework designed to be operated by LLM Agents",
+    "id": "kriss-b/llm-iso27001",
+    "language": "\u2014",
+    "name": "kriss-b/llm-iso27001",
+    "stars": 39,
+    "updated_at": "2026-09-05T23:17:57Z",
+    "url": "https://github.com/kriss-b/llm-iso27001"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -81,15 +126,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "ISO 27001 (+ 42001 + NIS2) ISMS framework designed to be operated by LLM Agents",
-    "id": "kriss-b/llm-iso27001",
-    "language": "\u2014",
-    "name": "kriss-b/llm-iso27001",
-    "stars": 39,
-    "updated_at": "2026-09-05T22:33:01Z",
-    "url": "https://github.com/kriss-b/llm-iso27001"
-  },
-  {
     "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
     "id": "sydches/yuj",
     "language": "Python",
@@ -160,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T21:25:20Z",
     "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
-    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
-    "id": "feder-cr/AIHawk",
-    "language": "Python",
-    "name": "feder-cr/AIHawk",
-    "stars": 30314,
-    "updated_at": "2026-09-05T21:23:44Z",
-    "url": "https://github.com/feder-cr/AIHawk"
   },
   {
     "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-05T20:37:41Z",
     "url": "https://github.com/Furox-Art/axiomize"
-  },
-  {
-    "description": "MCP server for hh.ru: search, resumes, applications, employer chat and hidden analytics over one applicant account, usin",
-    "id": "antalez/hh-cv-mcp",
-    "language": "Python",
-    "name": "antalez/hh-cv-mcp",
-    "stars": 0,
-    "updated_at": "2026-09-05T20:28:12Z",
-    "url": "https://github.com/antalez/hh-cv-mcp"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 95,
-    "updated_at": "2026-09-05T20:26:20Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
-  },
-  {
-    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 30,
-    "updated_at": "2026-09-05T20:12:32Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
   }
 ]
