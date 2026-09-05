@@ -1,5 +1,68 @@
 [
   {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 82,
+    "updated_at": "2026-09-05T01:09:42Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "A chat bot which makes use of multiple RAG collections/metadata field filtering, and multiple LLMs for model orchestrati",
+    "id": "milljm/dynamic-rag-chat",
+    "language": "Python",
+    "name": "milljm/dynamic-rag-chat",
+    "stars": 3,
+    "updated_at": "2026-09-05T01:08:09Z",
+    "url": "https://github.com/milljm/dynamic-rag-chat"
+  },
+  {
+    "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
+    "id": "Furox-Art/axiomize",
+    "language": "Python",
+    "name": "Furox-Art/axiomize",
+    "stars": 0,
+    "updated_at": "2026-09-05T01:07:59Z",
+    "url": "https://github.com/Furox-Art/axiomize"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-09-05T01:06:10Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Usa Qlib como cerebro cuant y Vibe-Trading como manos: scores de acciones por ML servidos a un agente de trading LLM v\u00eda",
+    "id": "Ax3lsk3r3/QuantVibe",
+    "language": "TypeScript",
+    "name": "Ax3lsk3r3/QuantVibe",
+    "stars": 2,
+    "updated_at": "2026-09-05T01:05:24Z",
+    "url": "https://github.com/Ax3lsk3r3/QuantVibe"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 221,
+    "updated_at": "2026-09-05T01:04:55Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-09-05T01:08:13Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -7,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T00:59:27Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 82,
-    "updated_at": "2026-09-05T00:56:35Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "Agente con tool-calling real (API de OpenAI) sobre operaciones mineras: consultas SQL a DuckDB, scoring de riesgo credit",
@@ -54,24 +108,6 @@
     "url": "https://github.com/NosytLabs/skillstate-proxy"
   },
   {
-    "description": "Usa Qlib como cerebro cuant y Vibe-Trading como manos: scores de acciones por ML servidos a un agente de trading LLM v\u00eda",
-    "id": "Ax3lsk3r3/QuantVibe",
-    "language": "TypeScript",
-    "name": "Ax3lsk3r3/QuantVibe",
-    "stars": 2,
-    "updated_at": "2026-09-05T00:47:35Z",
-    "url": "https://github.com/Ax3lsk3r3/QuantVibe"
-  },
-  {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-09-05T00:53:02Z",
-    "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
     "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
     "id": "rsalmn/ExtremeRouter",
     "language": "JavaScript",
@@ -95,7 +131,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-05T00:59:42Z",
+    "updated_at": "2026-09-05T01:07:20Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -115,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T00:33:17Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
-    "id": "Furox-Art/axiomize",
-    "language": "Python",
-    "name": "Furox-Art/axiomize",
-    "stars": 0,
-    "updated_at": "2026-09-05T01:00:13Z",
-    "url": "https://github.com/Furox-Art/axiomize"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-04T22:55:28Z",
     "url": "https://github.com/noahhps/Courier"
-  },
-  {
-    "description": "Aios \u2014 Artificially Intelligent Operating System. An AI-native operating environment where no component both decides and",
-    "id": "cse-creative-systems-engineering/aios",
-    "language": "Rust",
-    "name": "cse-creative-systems-engineering/aios",
-    "stars": 2,
-    "updated_at": "2026-09-04T22:33:05Z",
-    "url": "https://github.com/cse-creative-systems-engineering/aios"
-  },
-  {
-    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
-    "id": "diaban/jobsmith",
-    "language": "Python",
-    "name": "diaban/jobsmith",
-    "stars": 0,
-    "updated_at": "2026-09-04T22:29:59Z",
-    "url": "https://github.com/diaban/jobsmith"
-  },
-  {
-    "description": "The hybrid CLI/Web coding agent that works your way.",
-    "id": "martydill/flexorama",
-    "language": "Rust",
-    "name": "martydill/flexorama",
-    "stars": 1,
-    "updated_at": "2026-09-04T22:25:45Z",
-    "url": "https://github.com/martydill/flexorama"
   }
 ]
