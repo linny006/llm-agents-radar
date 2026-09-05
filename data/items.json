@@ -1,21 +1,57 @@
 [
   {
-    "description": "Workspace-scoped persistent memory for DSH agent sessions - proposition graph, three-layer memory funnel, hybrid vector+",
-    "id": "LYRA-88/workspace_memory_dsh",
-    "language": "TypeScript",
-    "name": "LYRA-88/workspace_memory_dsh",
-    "stars": 0,
-    "updated_at": "2026-09-05T14:44:36Z",
-    "url": "https://github.com/LYRA-88/workspace_memory_dsh"
-  },
-  {
     "description": "Autonomous Substack agent and bot: picks its own topics, researches primary sources, writes the articles, posts Notes, c",
     "id": "krapcys1-maker/nia-substack-agent",
     "language": "Python",
     "name": "krapcys1-maker/nia-substack-agent",
     "stars": 1,
-    "updated_at": "2026-09-05T14:40:37Z",
+    "updated_at": "2026-09-05T14:59:45Z",
     "url": "https://github.com/krapcys1-maker/nia-substack-agent"
+  },
+  {
+    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
+    "id": "Heliotrope-dev/finance-agent",
+    "language": "Python",
+    "name": "Heliotrope-dev/finance-agent",
+    "stars": 2,
+    "updated_at": "2026-09-05T14:58:11Z",
+    "url": "https://github.com/Heliotrope-dev/finance-agent"
+  },
+  {
+    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
+    "id": "ravisinghrajput95/kubewhy",
+    "language": "Python",
+    "name": "ravisinghrajput95/kubewhy",
+    "stars": 0,
+    "updated_at": "2026-09-05T14:55:29Z",
+    "url": "https://github.com/ravisinghrajput95/kubewhy"
+  },
+  {
+    "description": "Workspace-scoped persistent memory for DSH agent sessions - proposition graph, three-layer memory funnel, hybrid vector+",
+    "id": "LYRA-88/workspace_memory_dsh",
+    "language": "TypeScript",
+    "name": "LYRA-88/workspace_memory_dsh",
+    "stars": 0,
+    "updated_at": "2026-09-05T14:53:26Z",
+    "url": "https://github.com/LYRA-88/workspace_memory_dsh"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 382,
+    "updated_at": "2026-09-05T14:53:17Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Local-first autonomous scientific research agent with evidence governance, RAG, Polars analysis, and live clinical-trial",
+    "id": "Unpapamericano/autonomous-scientific-agent",
+    "language": "Python",
+    "name": "Unpapamericano/autonomous-scientific-agent",
+    "stars": 0,
+    "updated_at": "2026-09-05T14:48:05Z",
+    "url": "https://github.com/Unpapamericano/autonomous-scientific-agent"
   },
   {
     "description": "Prompts, skills, and agents that survive contact with real workflows. No vendor loyalty. Occasionally heretical.  \ud83e\uddd9\ud83c\udffb\u200d\u2640\ufe0f",
@@ -23,7 +59,7 @@
     "language": "Python",
     "name": "MarieLynneBlock/arcanum-artifex",
     "stars": 3,
-    "updated_at": "2026-09-05T14:38:56Z",
+    "updated_at": "2026-09-05T14:54:38Z",
     "url": "https://github.com/MarieLynneBlock/arcanum-artifex"
   },
   {
@@ -34,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T14:28:04Z",
     "url": "https://github.com/watchcat/scout"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 382,
-    "updated_at": "2026-09-05T14:21:18Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-05T12:50:07Z",
     "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "Community registry of AI agent manifests, capabilities, skills, and workflows for Octomind \u2014 run a fully-configured spec",
-    "id": "Muvon/octomind-tap",
-    "language": "Python",
-    "name": "Muvon/octomind-tap",
-    "stars": 4,
-    "updated_at": "2026-09-05T12:48:26Z",
-    "url": "https://github.com/Muvon/octomind-tap"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-09-05T12:47:18Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-09-05T12:47:04Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   }
 ]
