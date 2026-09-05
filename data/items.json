@@ -1,5 +1,32 @@
 [
   {
+    "description": "Workspace-scoped persistent memory for DSH agent sessions - proposition graph, three-layer memory funnel, hybrid vector+",
+    "id": "LYRA-88/workspace_memory_dsh",
+    "language": "TypeScript",
+    "name": "LYRA-88/workspace_memory_dsh",
+    "stars": 0,
+    "updated_at": "2026-09-05T14:44:36Z",
+    "url": "https://github.com/LYRA-88/workspace_memory_dsh"
+  },
+  {
+    "description": "Autonomous Substack agent and bot: picks its own topics, researches primary sources, writes the articles, posts Notes, c",
+    "id": "krapcys1-maker/nia-substack-agent",
+    "language": "Python",
+    "name": "krapcys1-maker/nia-substack-agent",
+    "stars": 1,
+    "updated_at": "2026-09-05T14:40:37Z",
+    "url": "https://github.com/krapcys1-maker/nia-substack-agent"
+  },
+  {
+    "description": "Prompts, skills, and agents that survive contact with real workflows. No vendor loyalty. Occasionally heretical.  \ud83e\uddd9\ud83c\udffb\u200d\u2640\ufe0f",
+    "id": "MarieLynneBlock/arcanum-artifex",
+    "language": "Python",
+    "name": "MarieLynneBlock/arcanum-artifex",
+    "stars": 3,
+    "updated_at": "2026-09-05T14:38:56Z",
+    "url": "https://github.com/MarieLynneBlock/arcanum-artifex"
+  },
+  {
     "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
     "id": "watchcat/scout",
     "language": "Rust",
@@ -27,30 +54,12 @@
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
-    "description": "Workspace-scoped persistent memory for DSH agent sessions - proposition graph, three-layer memory funnel, hybrid vector+",
-    "id": "LYRA-88/workspace_memory_dsh",
-    "language": "TypeScript",
-    "name": "LYRA-88/workspace_memory_dsh",
-    "stars": 0,
-    "updated_at": "2026-09-05T14:19:02Z",
-    "url": "https://github.com/LYRA-88/workspace_memory_dsh"
-  },
-  {
-    "description": "Autonomous Substack agent and bot: picks its own topics, researches primary sources, writes the articles, posts Notes, c",
-    "id": "krapcys1-maker/nia-substack-agent",
-    "language": "Python",
-    "name": "krapcys1-maker/nia-substack-agent",
-    "stars": 1,
-    "updated_at": "2026-09-05T14:16:49Z",
-    "url": "https://github.com/krapcys1-maker/nia-substack-agent"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-09-05T14:20:37Z",
+    "updated_at": "2026-09-05T14:44:27Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -376,15 +385,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T12:59:43Z",
     "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
-  },
-  {
-    "description": "Prompts, skills, and agents that survive contact with real workflows. No vendor loyalty. Occasionally heretical.  \ud83e\uddd9\ud83c\udffb\u200d\u2640\ufe0f",
-    "id": "MarieLynneBlock/arcanum-artifex",
-    "language": "Python",
-    "name": "MarieLynneBlock/arcanum-artifex",
-    "stars": 3,
-    "updated_at": "2026-09-05T14:29:24Z",
-    "url": "https://github.com/MarieLynneBlock/arcanum-artifex"
   },
   {
     "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
