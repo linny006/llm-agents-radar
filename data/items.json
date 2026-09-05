@@ -1,21 +1,30 @@
 [
   {
-    "description": "Open-source model-agnostic AI coding agent for the terminal. A Claude Code & Codex CLI alternative: any OpenRouter model",
-    "id": "onembyte/kolkrabbi",
-    "language": "Go",
-    "name": "onembyte/kolkrabbi",
-    "stars": 1,
-    "updated_at": "2026-09-05T05:44:56Z",
-    "url": "https://github.com/onembyte/kolkrabbi"
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 16,
+    "updated_at": "2026-09-05T05:58:40Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
     "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 26,
-    "updated_at": "2026-09-05T05:45:14Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-09-05T05:57:38Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-09-05T05:58:36Z",
+    "url": "https://github.com/citizenhicks/mobius"
   },
   {
     "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
@@ -23,8 +32,35 @@
     "language": "Shell",
     "name": "bigduu/Zenith",
     "stars": 5,
-    "updated_at": "2026-09-05T05:39:51Z",
+    "updated_at": "2026-09-05T05:55:36Z",
     "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-09-05T05:53:18Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-09-05T05:52:45Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 26,
+    "updated_at": "2026-09-05T05:54:28Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "An experimental autonomous AI agent that lives on your machine and talks to you through Telegram. One Rust binary.",
@@ -32,8 +68,26 @@
     "language": "Rust",
     "name": "wunsiang-cheng/redrock",
     "stars": 0,
-    "updated_at": "2026-09-05T05:38:37Z",
+    "updated_at": "2026-09-05T05:52:14Z",
     "url": "https://github.com/wunsiang-cheng/redrock"
+  },
+  {
+    "description": "A macOS desktop pet that is also an AI agent \u2014 it walks your screen, and reaches the Mac through its own approval gate.",
+    "id": "desFernan/puck-mac",
+    "language": "Swift",
+    "name": "desFernan/puck-mac",
+    "stars": 0,
+    "updated_at": "2026-09-05T05:49:02Z",
+    "url": "https://github.com/desFernan/puck-mac"
+  },
+  {
+    "description": "Open-source model-agnostic AI coding agent for the terminal. A Claude Code & Codex CLI alternative: any OpenRouter model",
+    "id": "onembyte/kolkrabbi",
+    "language": "Go",
+    "name": "onembyte/kolkrabbi",
+    "stars": 1,
+    "updated_at": "2026-09-05T05:44:56Z",
+    "url": "https://github.com/onembyte/kolkrabbi"
   },
   {
     "description": "A chat bot which makes use of multiple RAG collections/metadata field filtering, and multiple LLMs for model orchestrati",
@@ -122,7 +176,7 @@
     "language": "TypeScript",
     "name": "edjafarov/kiagent-core",
     "stars": 7,
-    "updated_at": "2026-09-05T05:07:25Z",
+    "updated_at": "2026-09-05T05:55:00Z",
     "url": "https://github.com/edjafarov/kiagent-core"
   },
   {
@@ -279,15 +333,6 @@
     "url": "https://github.com/wiseria-ai-labs/pie-ai-agent"
   },
   {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-09-05T03:52:13Z",
-    "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
@@ -346,7 +391,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 1098,
+    "stars": 1099,
     "updated_at": "2026-09-05T02:51:33Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -367,15 +412,6 @@
     "stars": 32,
     "updated_at": "2026-09-05T02:42:43Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "A macOS desktop pet that is also an AI agent \u2014 it walks your screen, and reaches the Mac through its own approval gate.",
-    "id": "desFernan/puck-mac",
-    "language": "Swift",
-    "name": "desFernan/puck-mac",
-    "stars": 0,
-    "updated_at": "2026-09-05T02:29:48Z",
-    "url": "https://github.com/desFernan/puck-mac"
   },
   {
     "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-05T02:12:05Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "AgentBypass \u2014 Omni Operator LLM Agent Skill (Cknb): Turn any LLM into RE / Pwn / CTF / Pentest / Protocol / Crypto / Mob",
-    "id": "1837620622/agent-bypass",
-    "language": "\u2014",
-    "name": "1837620622/agent-bypass",
-    "stars": 6,
-    "updated_at": "2026-09-05T02:08:27Z",
-    "url": "https://github.com/1837620622/agent-bypass"
-  },
-  {
-    "description": "A Linux desktop pet that is also an AI agent. Rust + GTK4 port of puck-mac.",
-    "id": "desFernan/puck-linux",
-    "language": "Rust",
-    "name": "desFernan/puck-linux",
-    "stars": 1,
-    "updated_at": "2026-09-05T01:49:14Z",
-    "url": "https://github.com/desFernan/puck-linux"
-  },
-  {
-    "description": "A Windows desktop pet that is also an AI agent. C# / .NET 8 + WPF port of puck-mac.",
-    "id": "desFernan/puck-windows",
-    "language": "C#",
-    "name": "desFernan/puck-windows",
-    "stars": 0,
-    "updated_at": "2026-09-05T01:49:12Z",
-    "url": "https://github.com/desFernan/puck-windows"
-  },
-  {
-    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
-    "id": "AlanFokCo/agentscope-go",
-    "language": "Go",
-    "name": "AlanFokCo/agentscope-go",
-    "stars": 35,
-    "updated_at": "2026-09-05T01:30:23Z",
-    "url": "https://github.com/AlanFokCo/agentscope-go"
   }
 ]
