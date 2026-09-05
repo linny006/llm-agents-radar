@@ -1,12 +1,39 @@
 [
   {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5729,
+    "updated_at": "2026-09-05T13:59:18Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
+    "description": "Open-source model-agnostic AI coding agent for the terminal. A Claude Code & Codex CLI alternative: any OpenRouter model",
+    "id": "onembyte/kolkrabbi",
+    "language": "Go",
+    "name": "onembyte/kolkrabbi",
+    "stars": 1,
+    "updated_at": "2026-09-05T13:58:35Z",
+    "url": "https://github.com/onembyte/kolkrabbi"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-09-05T13:44:22Z",
+    "updated_at": "2026-09-05T13:57:11Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Autonomous Substack agent and bot: picks its own topics, researches primary sources, writes the articles, posts Notes, c",
+    "id": "krapcys1-maker/nia-substack-agent",
+    "language": "Python",
+    "name": "krapcys1-maker/nia-substack-agent",
+    "stars": 1,
+    "updated_at": "2026-09-05T13:56:27Z",
+    "url": "https://github.com/krapcys1-maker/nia-substack-agent"
   },
   {
     "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 382,
-    "updated_at": "2026-09-05T13:43:02Z",
+    "updated_at": "2026-09-05T13:52:52Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -23,8 +50,35 @@
     "language": "Python",
     "name": "Furox-Art/axiomize",
     "stars": 0,
-    "updated_at": "2026-09-05T13:42:23Z",
+    "updated_at": "2026-09-05T14:00:06Z",
     "url": "https://github.com/Furox-Art/axiomize"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 600,
+    "updated_at": "2026-09-05T13:58:48Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 5,
+    "updated_at": "2026-09-05T13:47:44Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 26,
+    "updated_at": "2026-09-05T13:45:10Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
@@ -32,17 +86,8 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 16,
-    "updated_at": "2026-09-05T13:39:56Z",
+    "updated_at": "2026-09-05T13:47:42Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Open-source model-agnostic AI coding agent for the terminal. A Claude Code & Codex CLI alternative: any OpenRouter model",
-    "id": "onembyte/kolkrabbi",
-    "language": "Go",
-    "name": "onembyte/kolkrabbi",
-    "stars": 1,
-    "updated_at": "2026-09-05T13:39:33Z",
-    "url": "https://github.com/onembyte/kolkrabbi"
   },
   {
     "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
@@ -61,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T13:36:21Z",
     "url": "https://github.com/hoshiyomiX/stellar-trails"
-  },
-  {
-    "description": "Autonomous Substack agent and bot: picks its own topics, researches primary sources, writes the articles, posts Notes, c",
-    "id": "krapcys1-maker/nia-substack-agent",
-    "language": "Python",
-    "name": "krapcys1-maker/nia-substack-agent",
-    "stars": 1,
-    "updated_at": "2026-09-05T13:33:37Z",
-    "url": "https://github.com/krapcys1-maker/nia-substack-agent"
   },
   {
     "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
@@ -297,15 +333,6 @@
     "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
   },
   {
-    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 5,
-    "updated_at": "2026-09-05T13:45:11Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
     "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
     "id": "amineeng/scraping-browser",
     "language": "\u2014",
@@ -313,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T13:02:16Z",
     "url": "https://github.com/amineeng/scraping-browser"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 26,
-    "updated_at": "2026-09-05T13:45:10Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
@@ -430,23 +448,5 @@
     "stars": 126,
     "updated_at": "2026-09-05T12:31:48Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 210,
-    "updated_at": "2026-09-05T13:18:00Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-09-05T12:31:06Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   }
 ]
