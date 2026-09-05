@@ -1,21 +1,12 @@
 [
   {
-    "description": "An in-process bridge giving an AI agent real access to a modded Minecraft world - including mod APIs a protocol-level bo",
-    "id": "max-champlin/ghost",
-    "language": "Java",
-    "name": "max-champlin/ghost",
-    "stars": 0,
-    "updated_at": "2026-09-05T18:13:17Z",
-    "url": "https://github.com/max-champlin/ghost"
-  },
-  {
-    "description": "Open-source model-agnostic AI coding agent for the terminal. A Claude Code & Codex CLI alternative: any OpenRouter model",
-    "id": "onembyte/kolkrabbi",
-    "language": "Go",
-    "name": "onembyte/kolkrabbi",
-    "stars": 1,
-    "updated_at": "2026-09-05T18:12:38Z",
-    "url": "https://github.com/onembyte/kolkrabbi"
+    "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
+    "id": "aviskaar/zorp",
+    "language": "Rust",
+    "name": "aviskaar/zorp",
+    "stars": 3,
+    "updated_at": "2026-09-05T18:28:30Z",
+    "url": "https://github.com/aviskaar/zorp"
   },
   {
     "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
@@ -23,8 +14,62 @@
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
     "stars": 95,
-    "updated_at": "2026-09-05T18:12:04Z",
+    "updated_at": "2026-09-05T18:27:40Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "Local-first autonomous scientific research agent with evidence governance, RAG, Polars analysis, and live clinical-trial",
+    "id": "Unpapamericano/autonomous-scientific-agent",
+    "language": "Python",
+    "name": "Unpapamericano/autonomous-scientific-agent",
+    "stars": 0,
+    "updated_at": "2026-09-05T18:24:56Z",
+    "url": "https://github.com/Unpapamericano/autonomous-scientific-agent"
+  },
+  {
+    "description": "An agent for coding and everyday tasks, powered by the ChatGPT account you already pay for. No API key, no per-token bil",
+    "id": "khudayarovich/onflip-agent",
+    "language": "TypeScript",
+    "name": "khudayarovich/onflip-agent",
+    "stars": 2,
+    "updated_at": "2026-09-05T18:23:09Z",
+    "url": "https://github.com/khudayarovich/onflip-agent"
+  },
+  {
+    "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
+    "id": "sunnnn2005/data-quality-agent",
+    "language": "Python",
+    "name": "sunnnn2005/data-quality-agent",
+    "stars": 0,
+    "updated_at": "2026-09-05T18:22:37Z",
+    "url": "https://github.com/sunnnn2005/data-quality-agent"
+  },
+  {
+    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+    "id": "BlockRunAI/Franklin",
+    "language": "TypeScript",
+    "name": "BlockRunAI/Franklin",
+    "stars": 553,
+    "updated_at": "2026-09-05T18:22:26Z",
+    "url": "https://github.com/BlockRunAI/Franklin"
+  },
+  {
+    "description": "Open-source model-agnostic AI coding agent for the terminal. A Claude Code & Codex CLI alternative: any OpenRouter model",
+    "id": "onembyte/kolkrabbi",
+    "language": "Go",
+    "name": "onembyte/kolkrabbi",
+    "stars": 1,
+    "updated_at": "2026-09-05T18:17:22Z",
+    "url": "https://github.com/onembyte/kolkrabbi"
+  },
+  {
+    "description": "An in-process bridge giving an AI agent real access to a modded Minecraft world - including mod APIs a protocol-level bo",
+    "id": "max-champlin/ghost",
+    "language": "Java",
+    "name": "max-champlin/ghost",
+    "stars": 0,
+    "updated_at": "2026-09-05T18:13:17Z",
+    "url": "https://github.com/max-champlin/ghost"
   },
   {
     "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
@@ -88,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T17:56:54Z",
     "url": "https://github.com/Lyle-0015/photo-guided-field-dispatch-agent"
-  },
-  {
-    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-    "id": "BlockRunAI/Franklin",
-    "language": "TypeScript",
-    "name": "BlockRunAI/Franklin",
-    "stars": 553,
-    "updated_at": "2026-09-05T18:13:42Z",
-    "url": "https://github.com/BlockRunAI/Franklin"
-  },
-  {
-    "description": "An agent for coding and everyday tasks, powered by the ChatGPT account you already pay for. No API key, no per-token bil",
-    "id": "khudayarovich/onflip-agent",
-    "language": "TypeScript",
-    "name": "khudayarovich/onflip-agent",
-    "stars": 2,
-    "updated_at": "2026-09-05T17:47:58Z",
-    "url": "https://github.com/khudayarovich/onflip-agent"
   },
   {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
@@ -302,7 +329,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 600,
-    "updated_at": "2026-09-05T18:01:34Z",
+    "updated_at": "2026-09-05T18:30:13Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -349,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T14:53:26Z",
     "url": "https://github.com/LYRA-88/workspace_memory_dsh"
-  },
-  {
-    "description": "Local-first autonomous scientific research agent with evidence governance, RAG, Polars analysis, and live clinical-trial",
-    "id": "Unpapamericano/autonomous-scientific-agent",
-    "language": "Python",
-    "name": "Unpapamericano/autonomous-scientific-agent",
-    "stars": 0,
-    "updated_at": "2026-09-05T14:48:05Z",
-    "url": "https://github.com/Unpapamericano/autonomous-scientific-agent"
   },
   {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-05T13:31:30Z",
     "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
-  },
-  {
-    "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
-    "id": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
-    "language": "JavaScript",
-    "name": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
-    "stars": 1,
-    "updated_at": "2026-09-05T13:30:35Z",
-    "url": "https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder"
-  },
-  {
-    "description": "Verify area values quickly with this web-based HTML calculator tool.",
-    "id": "passive-hotpepper515/area-checker-html-tool",
-    "language": "HTML",
-    "name": "passive-hotpepper515/area-checker-html-tool",
-    "stars": 0,
-    "updated_at": "2026-09-05T13:30:10Z",
-    "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
   }
 ]
