@@ -1,12 +1,12 @@
 [
   {
-    "description": "An experimental autonomous AI agent that lives on your machine and talks to you through Telegram. One Rust binary.",
-    "id": "wunsiang-cheng/redrock",
-    "language": "Rust",
-    "name": "wunsiang-cheng/redrock",
-    "stars": 0,
-    "updated_at": "2026-09-05T07:27:34Z",
-    "url": "https://github.com/wunsiang-cheng/redrock"
+    "description": "Make any agent harness token-native.",
+    "id": "camel-ai/tokin",
+    "language": "Python",
+    "name": "camel-ai/tokin",
+    "stars": 2,
+    "updated_at": "2026-09-05T07:44:01Z",
+    "url": "https://github.com/camel-ai/tokin"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -14,8 +14,35 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 26,
-    "updated_at": "2026-09-05T07:23:40Z",
+    "updated_at": "2026-09-05T07:39:28Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-09-05T07:38:34Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-09-05T07:33:44Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "An experimental autonomous AI agent that lives on your machine and talks to you through Telegram. One Rust binary.",
+    "id": "wunsiang-cheng/redrock",
+    "language": "Rust",
+    "name": "wunsiang-cheng/redrock",
+    "stars": 0,
+    "updated_at": "2026-09-05T07:27:34Z",
+    "url": "https://github.com/wunsiang-cheng/redrock"
   },
   {
     "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
@@ -79,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T06:59:00Z",
     "url": "https://github.com/tachyon-r/first-principles-agent-soul"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-09-05T06:59:03Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/",
@@ -279,15 +297,6 @@
     "url": "https://github.com/mohahasan/ios-agentic-skills"
   },
   {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-09-05T06:15:53Z",
-    "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
     "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
     "id": "Danisxxx/comfyUI-LongLook",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 7,
     "updated_at": "2026-09-05T05:55:00Z",
     "url": "https://github.com/edjafarov/kiagent-core"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 221,
-    "updated_at": "2026-09-05T05:07:04Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   }
 ]
