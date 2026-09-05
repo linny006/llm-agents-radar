@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
     "stars": 95,
-    "updated_at": "2026-09-05T19:26:27Z",
+    "updated_at": "2026-09-05T19:41:06Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "An agent for coding and everyday tasks, powered by the ChatGPT account you already pay for. No API key, no per-token bil",
+    "id": "khudayarovich/onflip-agent",
+    "language": "TypeScript",
+    "name": "khudayarovich/onflip-agent",
+    "stars": 2,
+    "updated_at": "2026-09-05T19:35:37Z",
+    "url": "https://github.com/khudayarovich/onflip-agent"
+  },
+  {
+    "description": "MLOps platform: LangGraph agent (OpenRouter/GLM-4.6), Neo4j knowledge graph, FastAPI inference, Airflow pipelines, Datad",
+    "id": "iamvisheshsrivastava/AirKube",
+    "language": "Python",
+    "name": "iamvisheshsrivastava/AirKube",
+    "stars": 1,
+    "updated_at": "2026-09-05T19:35:23Z",
+    "url": "https://github.com/iamvisheshsrivastava/AirKube"
+  },
+  {
+    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
+    "id": "watchcat/scout",
+    "language": "Rust",
+    "name": "watchcat/scout",
+    "stars": 0,
+    "updated_at": "2026-09-05T19:30:48Z",
+    "url": "https://github.com/watchcat/scout"
   },
   {
     "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
@@ -34,15 +61,6 @@
     "stars": 3,
     "updated_at": "2026-09-05T19:20:02Z",
     "url": "https://github.com/aviskaar/zorp"
-  },
-  {
-    "description": "An agent for coding and everyday tasks, powered by the ChatGPT account you already pay for. No API key, no per-token bil",
-    "id": "khudayarovich/onflip-agent",
-    "language": "TypeScript",
-    "name": "khudayarovich/onflip-agent",
-    "stars": 2,
-    "updated_at": "2026-09-05T19:12:09Z",
-    "url": "https://github.com/khudayarovich/onflip-agent"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -306,15 +324,6 @@
     "url": "https://github.com/7-e1even/learn-agent"
   },
   {
-    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
-    "id": "watchcat/scout",
-    "language": "Rust",
-    "name": "watchcat/scout",
-    "stars": 0,
-    "updated_at": "2026-09-05T16:14:22Z",
-    "url": "https://github.com/watchcat/scout"
-  },
-  {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
     "id": "g761007/daily-dispatch",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-05T13:37:28Z",
     "url": "https://github.com/DylPorter/claude-telegram"
-  },
-  {
-    "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
-    "id": "hoshiyomiX/stellar-trails",
-    "language": "Shell",
-    "name": "hoshiyomiX/stellar-trails",
-    "stars": 0,
-    "updated_at": "2026-09-05T13:36:21Z",
-    "url": "https://github.com/hoshiyomiX/stellar-trails"
   }
 ]
