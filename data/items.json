@@ -1,5 +1,59 @@
 [
   {
+    "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
+    "id": "Furox-Art/axiomize",
+    "language": "Python",
+    "name": "Furox-Art/axiomize",
+    "stars": 1,
+    "updated_at": "2026-09-05T17:26:48Z",
+    "url": "https://github.com/Furox-Art/axiomize"
+  },
+  {
+    "description": "Autonomous Substack agent and bot: picks its own topics, researches primary sources, writes the articles, posts Notes, c",
+    "id": "krapcys1-maker/nia-substack-agent",
+    "language": "Python",
+    "name": "krapcys1-maker/nia-substack-agent",
+    "stars": 1,
+    "updated_at": "2026-09-05T17:23:16Z",
+    "url": "https://github.com/krapcys1-maker/nia-substack-agent"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 94,
+    "updated_at": "2026-09-05T17:21:56Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-09-05T17:19:16Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 382,
+    "updated_at": "2026-09-05T17:17:56Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-09-05T17:16:53Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
     "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
     "id": "gabrielmaialva33/winx-code-agent",
     "language": "Rust",
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "diaban/jobsmith",
     "stars": 0,
-    "updated_at": "2026-09-05T17:11:24Z",
+    "updated_at": "2026-09-05T17:29:39Z",
     "url": "https://github.com/diaban/jobsmith"
   },
   {
@@ -36,15 +90,6 @@
     "url": "https://github.com/Torvian-eu/chatbot"
   },
   {
-    "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
-    "id": "Furox-Art/axiomize",
-    "language": "Python",
-    "name": "Furox-Art/axiomize",
-    "stars": 1,
-    "updated_at": "2026-09-05T17:11:07Z",
-    "url": "https://github.com/Furox-Art/axiomize"
-  },
-  {
     "description": "The coordination layer for Multiplayer AI",
     "id": "Cohexa-ai/agent-coherence",
     "language": "Python",
@@ -52,15 +97,6 @@
     "stars": 12,
     "updated_at": "2026-09-05T17:12:50Z",
     "url": "https://github.com/Cohexa-ai/agent-coherence"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 382,
-    "updated_at": "2026-09-05T17:04:46Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "[CVPR 2025 \ud83d\udd25]A Large Multimodal Model for Pixel-Level Visual Grounding in Videos",
@@ -90,40 +126,13 @@
     "url": "https://github.com/mbzuai-oryx/groundingLMM"
   },
   {
-    "description": "Autonomous Substack agent and bot: picks its own topics, researches primary sources, writes the articles, posts Notes, c",
-    "id": "krapcys1-maker/nia-substack-agent",
-    "language": "Python",
-    "name": "krapcys1-maker/nia-substack-agent",
-    "stars": 1,
-    "updated_at": "2026-09-05T16:43:21Z",
-    "url": "https://github.com/krapcys1-maker/nia-substack-agent"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-09-05T17:02:45Z",
+    "updated_at": "2026-09-05T17:28:33Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 94,
-    "updated_at": "2026-09-05T16:41:55Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-09-05T16:41:23Z",
-    "url": "https://github.com/b-macker/NAAb"
   },
   {
     "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
@@ -230,7 +239,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 600,
-    "updated_at": "2026-09-05T16:27:23Z",
+    "updated_at": "2026-09-05T17:22:06Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -257,7 +266,7 @@
     "language": "Python",
     "name": "ThreeFish-AI/negentropy",
     "stars": 10,
-    "updated_at": "2026-09-05T15:16:42Z",
+    "updated_at": "2026-09-05T17:18:08Z",
     "url": "https://github.com/ThreeFish-AI/negentropy"
   },
   {
@@ -268,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T15:10:16Z",
     "url": "https://github.com/ravisinghrajput95/kubewhy"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-09-05T15:07:34Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Prompts, skills, and agents that survive contact with real workflows. No vendor loyalty. Occasionally heretical.  \ud83e\uddd9\ud83c\udffb\u200d\u2640\ufe0f",
