@@ -1,5 +1,23 @@
 [
   {
+    "description": "Autonomous research agent: LangGraph plan-act-observe-replan loop, Groq LLM, Tavily search, ChromaDB memory, streamed li",
+    "id": "meetpatil1110/autonomous-research-agent",
+    "language": "Python",
+    "name": "meetpatil1110/autonomous-research-agent",
+    "stars": 0,
+    "updated_at": "2026-09-05T19:57:58Z",
+    "url": "https://github.com/meetpatil1110/autonomous-research-agent"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-09-05T19:52:02Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
     "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
@@ -117,15 +135,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-09-05T19:29:19Z",
-    "url": "https://github.com/b-macker/NAAb"
-  },
-  {
     "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
     "id": "Torvian-eu/chatbot",
     "language": "Kotlin",
@@ -230,7 +239,7 @@
     "language": "Python",
     "name": "krapcys1-maker/nia-substack-agent",
     "stars": 1,
-    "updated_at": "2026-09-05T19:06:22Z",
+    "updated_at": "2026-09-05T19:59:30Z",
     "url": "https://github.com/krapcys1-maker/nia-substack-agent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 16,
     "updated_at": "2026-09-05T14:20:16Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
-    "id": "DylPorter/claude-telegram",
-    "language": "Python",
-    "name": "DylPorter/claude-telegram",
-    "stars": 1,
-    "updated_at": "2026-09-05T13:37:28Z",
-    "url": "https://github.com/DylPorter/claude-telegram"
   }
 ]
