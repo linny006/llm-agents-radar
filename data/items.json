@@ -1,5 +1,32 @@
 [
   {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 380,
+    "updated_at": "2026-09-05T11:58:34Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 210,
+    "updated_at": "2026-09-05T11:58:01Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
+    "id": "uukuguy/capstone",
+    "language": "Python",
+    "name": "uukuguy/capstone",
+    "stars": 0,
+    "updated_at": "2026-09-05T11:52:46Z",
+    "url": "https://github.com/uukuguy/capstone"
+  },
+  {
     "description": "AWS\u306e\u69cb\u6210\u3092\u30c1\u30e3\u30c3\u30c8\u3067\u76f8\u8ac7\u3057\u306a\u304c\u3089\u6c7a\u3081\u3001\u6570\u5f0f\u5165\u308a\u306e\u30b3\u30b9\u30c8\u898b\u7a4d\u3082\u308aExcel\u3068\u69cb\u6210\u56f3\u3092\u51fa\u529b\u3059\u308b\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\uff08Genkit Go\uff09",
     "id": "o-ga09/genkit-agent-cloud-cost-estimate",
     "language": "Go",
@@ -14,7 +41,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 16,
-    "updated_at": "2026-09-05T11:43:34Z",
+    "updated_at": "2026-09-05T11:47:54Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -27,15 +54,6 @@
     "url": "https://github.com/Muvon/octomind-tap"
   },
   {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 380,
-    "updated_at": "2026-09-05T11:39:17Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "Autonomous Substack agent and bot: picks its own topics, researches primary sources, writes the articles, posts Notes, c",
     "id": "krapcys1-maker/nia-substack-agent",
     "language": "Python",
@@ -45,7 +63,7 @@
     "url": "https://github.com/krapcys1-maker/nia-substack-agent"
   },
   {
-    "description": "\u5267\u672c\u5206\u955c\u5de5\u5177\u667a\u80fd\u4f53\uff08PenShot\uff09\uff1a\u7535\u5f71/\u52a8\u6f2b/\u77ed\u5267/\u5c0f\u8bf4/\u5267\u672c\u2192\u5206\u955c\u2192\u7247\u6bb5\u2192prompt | \u57fa\u4e8e LangGraph+LLM\uff0c\u81ea\u52a8\u89e3\u6790\u4efb\u610f\u683c\u5f0f\u5267\u672c\uff0c\u751f\u6210 Sora/Veo/Runway \u7b49\u6a21\u578b\u53ef\u7528\u7684\u8fde\u8d2ftext-to-video\u63d0\u793a\u8bcd",
+    "description": "\u5267\u672c\u5206\u955c\u667a\u80fd\u4f53\uff08PenShot\uff09\uff1a\u7535\u5f71/\u52a8\u6f2b/\u77ed\u5267/\u5c0f\u8bf4/\u5267\u672c\u2192\u5206\u955c\u2192\u63d0\u793a\u8bcd \u2192 \u89c6\u9891\u3002| \u57fa\u4e8eLLM \u901a\u8fc7 LangGraph+LlamaIndex\uff0c\u5b9e\u73b0\u4efb\u610f\u683c\u5f0f\u5267\u672c\u7684\u81ea\u52a8\u89e3\u6790\uff0c\u751f\u6210 Sora/Veo/Runway \u7b49\u6a21\u578b\u53ef\u7528\u7684\u8fde\u8d2ftex",
     "id": "neopen/story-shot-agent",
     "language": "Python",
     "name": "neopen/story-shot-agent",
@@ -77,7 +95,7 @@
     "language": "Python",
     "name": "Furox-Art/axiomize",
     "stars": 0,
-    "updated_at": "2026-09-05T11:43:14Z",
+    "updated_at": "2026-09-05T11:57:45Z",
     "url": "https://github.com/Furox-Art/axiomize"
   },
   {
@@ -158,7 +176,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 26,
-    "updated_at": "2026-09-05T11:36:54Z",
+    "updated_at": "2026-09-05T11:48:26Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-05T08:21:57Z",
     "url": "https://github.com/giddypergrid/nzfineprint-frontend"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-09-05T08:17:35Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "point an agent at your data: it writes the OpenZL description, trains a compressor, and proves the savings against zstd ",
-    "id": "avionicharshit-byte/openzl-agent",
-    "language": "Shell",
-    "name": "avionicharshit-byte/openzl-agent",
-    "stars": 0,
-    "updated_at": "2026-09-05T08:16:57Z",
-    "url": "https://github.com/avionicharshit-byte/openzl-agent"
   }
 ]
