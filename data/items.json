@@ -1,11 +1,56 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-09-05T16:28:06Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
+    "id": "edjafarov/kiagent-core",
+    "language": "TypeScript",
+    "name": "edjafarov/kiagent-core",
+    "stars": 7,
+    "updated_at": "2026-09-05T16:26:55Z",
+    "url": "https://github.com/edjafarov/kiagent-core"
+  },
+  {
+    "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
+    "id": "Furox-Art/axiomize",
+    "language": "Python",
+    "name": "Furox-Art/axiomize",
+    "stars": 1,
+    "updated_at": "2026-09-05T16:30:42Z",
+    "url": "https://github.com/Furox-Art/axiomize"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 94,
+    "updated_at": "2026-09-05T16:24:26Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "\u5b66\u4e60Agent\u5f00\u53d1\u7684\u7b14\u8bb0\uff0c\u5c1d\u8bd5\u8ba9Agent\u4ece\u53ef\u7528\u5230\u53ef\u9760",
+    "id": "7-e1even/learn-agent",
+    "language": "JavaScript",
+    "name": "7-e1even/learn-agent",
+    "stars": 277,
+    "updated_at": "2026-09-05T16:23:46Z",
+    "url": "https://github.com/7-e1even/learn-agent"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-09-05T16:15:06Z",
+    "updated_at": "2026-09-05T16:20:51Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -16,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T16:14:22Z",
     "url": "https://github.com/watchcat/scout"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 94,
-    "updated_at": "2026-09-05T16:12:57Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
@@ -86,7 +122,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 600,
-    "updated_at": "2026-09-05T15:45:05Z",
+    "updated_at": "2026-09-05T16:27:23Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -115,15 +151,6 @@
     "stars": 4,
     "updated_at": "2026-09-05T15:32:54Z",
     "url": "https://github.com/wan9yu/cli-agent-runner"
-  },
-  {
-    "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
-    "id": "edjafarov/kiagent-core",
-    "language": "TypeScript",
-    "name": "edjafarov/kiagent-core",
-    "stars": 7,
-    "updated_at": "2026-09-05T15:19:01Z",
-    "url": "https://github.com/edjafarov/kiagent-core"
   },
   {
     "description": "An agentic system built on a \"One Root, Five Wings\" architecture, dedicated to combating the entropy production of infom",
@@ -205,15 +232,6 @@
     "stars": 15,
     "updated_at": "2026-09-05T14:04:20Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
-    "id": "Furox-Art/axiomize",
-    "language": "Python",
-    "name": "Furox-Art/axiomize",
-    "stars": 0,
-    "updated_at": "2026-09-05T15:56:20Z",
-    "url": "https://github.com/Furox-Art/axiomize"
   },
   {
     "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-05T13:11:35Z",
     "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-09-05T13:11:27Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-09-05T13:10:27Z",
-    "url": "https://github.com/lukky262/ARE"
   }
 ]
