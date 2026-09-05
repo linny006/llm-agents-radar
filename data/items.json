@@ -1,21 +1,30 @@
 [
   {
-    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-    "id": "BlockRunAI/Franklin",
-    "language": "TypeScript",
-    "name": "BlockRunAI/Franklin",
-    "stars": 553,
-    "updated_at": "2026-09-05T22:12:55Z",
-    "url": "https://github.com/BlockRunAI/Franklin"
-  },
-  {
     "description": "ISO 27001 (+ 42001 + NIS2) ISMS framework designed to be operated by LLM Agents",
     "id": "kriss-b/llm-iso27001",
     "language": "\u2014",
     "name": "kriss-b/llm-iso27001",
     "stars": 39,
-    "updated_at": "2026-09-05T22:12:49Z",
+    "updated_at": "2026-09-05T22:22:09Z",
     "url": "https://github.com/kriss-b/llm-iso27001"
+  },
+  {
+    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+    "id": "BlockRunAI/Franklin",
+    "language": "TypeScript",
+    "name": "BlockRunAI/Franklin",
+    "stars": 553,
+    "updated_at": "2026-09-05T22:26:06Z",
+    "url": "https://github.com/BlockRunAI/Franklin"
+  },
+  {
+    "description": "An agent for coding and everyday tasks, powered by the ChatGPT account you already pay for. No API key, no per-token bil",
+    "id": "khudayarovich/onflip-agent",
+    "language": "TypeScript",
+    "name": "khudayarovich/onflip-agent",
+    "stars": 2,
+    "updated_at": "2026-09-05T22:15:31Z",
+    "url": "https://github.com/khudayarovich/onflip-agent"
   },
   {
     "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
@@ -32,17 +41,8 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-05T22:08:32Z",
+    "updated_at": "2026-09-05T22:24:33Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "An agent for coding and everyday tasks, powered by the ChatGPT account you already pay for. No API key, no per-token bil",
-    "id": "khudayarovich/onflip-agent",
-    "language": "TypeScript",
-    "name": "khudayarovich/onflip-agent",
-    "stars": 2,
-    "updated_at": "2026-09-05T22:03:28Z",
-    "url": "https://github.com/khudayarovich/onflip-agent"
   },
   {
     "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
@@ -50,7 +50,7 @@
     "language": "Rust",
     "name": "citizenhicks/mobius",
     "stars": 1,
-    "updated_at": "2026-09-05T22:05:23Z",
+    "updated_at": "2026-09-05T22:30:08Z",
     "url": "https://github.com/citizenhicks/mobius"
   },
   {
@@ -68,7 +68,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 600,
-    "updated_at": "2026-09-05T21:30:06Z",
+    "updated_at": "2026-09-05T22:27:59Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
