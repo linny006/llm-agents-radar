@@ -1,12 +1,21 @@
 [
   {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
+    "description": "Workspace-scoped persistent memory for DSH agent sessions - proposition graph, three-layer memory funnel, hybrid vector+",
+    "id": "LYRA-88/workspace_memory_dsh",
+    "language": "TypeScript",
+    "name": "LYRA-88/workspace_memory_dsh",
+    "stars": 0,
+    "updated_at": "2026-09-05T14:12:41Z",
+    "url": "https://github.com/LYRA-88/workspace_memory_dsh"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
     "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5729,
-    "updated_at": "2026-09-05T13:59:18Z",
-    "url": "https://github.com/areal-project/AReaL"
+    "name": "Fzkuji/OpenProgram",
+    "stars": 382,
+    "updated_at": "2026-09-05T14:11:30Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Open-source model-agnostic AI coding agent for the terminal. A Claude Code & Codex CLI alternative: any OpenRouter model",
@@ -14,7 +23,7 @@
     "language": "Go",
     "name": "onembyte/kolkrabbi",
     "stars": 1,
-    "updated_at": "2026-09-05T13:58:35Z",
+    "updated_at": "2026-09-05T14:07:21Z",
     "url": "https://github.com/onembyte/kolkrabbi"
   },
   {
@@ -23,8 +32,35 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-09-05T13:57:11Z",
+    "updated_at": "2026-09-05T14:05:37Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 15,
+    "updated_at": "2026-09-05T14:04:20Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
+    "id": "Furox-Art/axiomize",
+    "language": "Python",
+    "name": "Furox-Art/axiomize",
+    "stars": 0,
+    "updated_at": "2026-09-05T14:07:33Z",
+    "url": "https://github.com/Furox-Art/axiomize"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5729,
+    "updated_at": "2026-09-05T13:59:18Z",
+    "url": "https://github.com/areal-project/AReaL"
   },
   {
     "description": "Autonomous Substack agent and bot: picks its own topics, researches primary sources, writes the articles, posts Notes, c",
@@ -36,30 +72,12 @@
     "url": "https://github.com/krapcys1-maker/nia-substack-agent"
   },
   {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 382,
-    "updated_at": "2026-09-05T13:52:52Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
-    "id": "Furox-Art/axiomize",
-    "language": "Python",
-    "name": "Furox-Art/axiomize",
-    "stars": 0,
-    "updated_at": "2026-09-05T14:00:06Z",
-    "url": "https://github.com/Furox-Art/axiomize"
-  },
-  {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 600,
-    "updated_at": "2026-09-05T13:58:48Z",
+    "updated_at": "2026-09-05T14:10:46Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-05T12:39:54Z",
     "url": "https://github.com/o-ga09/genkit-agent-cloud-cost-estimate"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-09-05T12:34:35Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 126,
-    "updated_at": "2026-09-05T12:31:48Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
   }
 ]
