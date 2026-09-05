@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-05 03:15 UTC
+> ⏰ Last updated: 2026-09-05 03:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [bajshorya/llm-observability-agent](https://github.com/bajshorya/llm-observability-agent) | 0 | TypeScript | 2026-09-05 | Detects runtime anomalies from application logs, correlates them with recent commits, and generates root-cause hypothese |
-| 2 | [Ax3lsk3r3/QuantVibe](https://github.com/Ax3lsk3r3/QuantVibe) | 2 | TypeScript | 2026-09-05 | Usa Qlib como cerebro cuant y Vibe-Trading como manos: scores de acciones por ML servidos a un agente de trading LLM vía |
-| 3 | [410979729/scope-recall-hermes](https://github.com/410979729/scope-recall-hermes) | 263 | Python | 2026-09-05 | Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval. |
+| 1 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-09-05 | A productive AI coworker that learns, self-improves, and ships work. |
+| 2 | [bajshorya/llm-observability-agent](https://github.com/bajshorya/llm-observability-agent) | 0 | TypeScript | 2026-09-05 | Detects runtime anomalies from application logs, correlates them with recent commits, and generates root-cause hypothese |
+| 3 | [Ax3lsk3r3/QuantVibe](https://github.com/Ax3lsk3r3/QuantVibe) | 2 | TypeScript | 2026-09-05 | Usa Qlib como cerebro cuant y Vibe-Trading como manos: scores de acciones por ML servidos a un agente de trading LLM vía |
 | 4 | [NatanTechofNY/fieldnote-assistant](https://github.com/NatanTechofNY/fieldnote-assistant) | 0 | TypeScript | 2026-09-05 | A personal assistant with a phone number: SQLite-backed todos, memories, and reflections, searchable through Algolia and |
-| 5 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 30 | JavaScript | 2026-09-05 | Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies  |
-| 6 | [Heliotrope-dev/finance-agent](https://github.com/Heliotrope-dev/finance-agent) | 2 | Python | 2026-09-05 | 行情+财务+新闻交叉验证的科学理财Agent，不做黑箱荐股 |
-| 7 | [kangwoo/aimon-core](https://github.com/kangwoo/aimon-core) | 0 | Java | 2026-09-05 | A ReAct agent framework for Java — build autonomous LLM-powered agents, embeddable in any Java application |
-| 8 | [aviskaar/zorp](https://github.com/aviskaar/zorp) | 3 | Rust | 2026-09-05 | A research agent for scientific discovery — part of Aviskaar's applied AI research suite. |
-| 9 | [hhyqhh/inno-agent](https://github.com/hhyqhh/inno-agent) | 1097 | TypeScript | 2026-09-05 | An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati |
-| 10 | [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) | 557 | Go | 2026-09-05 | LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with  |
-| 11 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-09-05 | A productive AI coworker that learns, self-improves, and ships work. |
+| 5 | [410979729/scope-recall-hermes](https://github.com/410979729/scope-recall-hermes) | 263 | Python | 2026-09-05 | Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval. |
+| 6 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 30 | JavaScript | 2026-09-05 | Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies  |
+| 7 | [Heliotrope-dev/finance-agent](https://github.com/Heliotrope-dev/finance-agent) | 2 | Python | 2026-09-05 | 行情+财务+新闻交叉验证的科学理财Agent，不做黑箱荐股 |
+| 8 | [kangwoo/aimon-core](https://github.com/kangwoo/aimon-core) | 0 | Java | 2026-09-05 | A ReAct agent framework for Java — build autonomous LLM-powered agents, embeddable in any Java application |
+| 9 | [aviskaar/zorp](https://github.com/aviskaar/zorp) | 3 | Rust | 2026-09-05 | A research agent for scientific discovery — part of Aviskaar's applied AI research suite. |
+| 10 | [hhyqhh/inno-agent](https://github.com/hhyqhh/inno-agent) | 1097 | TypeScript | 2026-09-05 | An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati |
+| 11 | [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) | 557 | Go | 2026-09-05 | LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with  |
 | 12 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 15 | Python | 2026-09-05 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、视觉与 HMI；LLM 只负责理解与规划，VAL 负责确定性安全执行。 |
 | 13 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 32 | Python | 2026-09-05 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
 | 14 | [onembyte/kolkrabbi](https://github.com/onembyte/kolkrabbi) | 1 | Go | 2026-09-05 | Open-source model-agnostic AI coding agent for the terminal. A Claude Code & Codex CLI alternative: any OpenRouter model |

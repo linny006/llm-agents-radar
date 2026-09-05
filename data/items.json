@@ -1,11 +1,20 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-09-05T03:29:40Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "Detects runtime anomalies from application logs, correlates them with recent commits, and generates root-cause hypothese",
     "id": "bajshorya/llm-observability-agent",
     "language": "TypeScript",
     "name": "bajshorya/llm-observability-agent",
     "stars": 0,
-    "updated_at": "2026-09-05T03:12:51Z",
+    "updated_at": "2026-09-05T03:29:37Z",
     "url": "https://github.com/bajshorya/llm-observability-agent"
   },
   {
@@ -14,8 +23,17 @@
     "language": "TypeScript",
     "name": "Ax3lsk3r3/QuantVibe",
     "stars": 2,
-    "updated_at": "2026-09-05T03:11:42Z",
+    "updated_at": "2026-09-05T03:29:13Z",
     "url": "https://github.com/Ax3lsk3r3/QuantVibe"
+  },
+  {
+    "description": "A personal assistant with a phone number: SQLite-backed todos, memories, and reflections, searchable through Algolia and",
+    "id": "NatanTechofNY/fieldnote-assistant",
+    "language": "TypeScript",
+    "name": "NatanTechofNY/fieldnote-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-05T03:19:01Z",
+    "url": "https://github.com/NatanTechofNY/fieldnote-assistant"
   },
   {
     "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
@@ -25,15 +43,6 @@
     "stars": 263,
     "updated_at": "2026-09-05T03:11:12Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "A personal assistant with a phone number: SQLite-backed todos, memories, and reflections, searchable through Algolia and",
-    "id": "NatanTechofNY/fieldnote-assistant",
-    "language": "TypeScript",
-    "name": "NatanTechofNY/fieldnote-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-05T03:09:27Z",
-    "url": "https://github.com/NatanTechofNY/fieldnote-assistant"
   },
   {
     "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
@@ -88,15 +97,6 @@
     "stars": 557,
     "updated_at": "2026-09-05T02:54:12Z",
     "url": "https://github.com/mnemon-dev/mnemon"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-09-05T02:44:51Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
