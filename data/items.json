@@ -1,11 +1,65 @@
 [
   {
+    "description": "Open-source model-agnostic AI coding agent for the terminal. A Claude Code & Codex CLI alternative: any OpenRouter model",
+    "id": "onembyte/kolkrabbi",
+    "language": "Go",
+    "name": "onembyte/kolkrabbi",
+    "stars": 1,
+    "updated_at": "2026-09-05T18:44:28Z",
+    "url": "https://github.com/onembyte/kolkrabbi"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-09-05T18:44:22Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-09-05T18:43:48Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
+    "id": "Torvian-eu/chatbot",
+    "language": "Kotlin",
+    "name": "Torvian-eu/chatbot",
+    "stars": 4,
+    "updated_at": "2026-09-05T18:42:48Z",
+    "url": "https://github.com/Torvian-eu/chatbot"
+  },
+  {
+    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+    "id": "BlockRunAI/Franklin",
+    "language": "TypeScript",
+    "name": "BlockRunAI/Franklin",
+    "stars": 553,
+    "updated_at": "2026-09-05T18:39:49Z",
+    "url": "https://github.com/BlockRunAI/Franklin"
+  },
+  {
+    "description": "An in-process bridge giving an AI agent real access to a modded Minecraft world - including mod APIs a protocol-level bo",
+    "id": "max-champlin/ghost",
+    "language": "Java",
+    "name": "max-champlin/ghost",
+    "stars": 0,
+    "updated_at": "2026-09-05T18:33:41Z",
+    "url": "https://github.com/max-champlin/ghost"
+  },
+  {
     "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
     "id": "aviskaar/zorp",
     "language": "Rust",
     "name": "aviskaar/zorp",
     "stars": 3,
-    "updated_at": "2026-09-05T18:28:30Z",
+    "updated_at": "2026-09-05T18:33:21Z",
     "url": "https://github.com/aviskaar/zorp"
   },
   {
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
     "stars": 95,
-    "updated_at": "2026-09-05T18:27:40Z",
+    "updated_at": "2026-09-05T18:32:19Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
@@ -45,39 +99,12 @@
     "url": "https://github.com/sunnnn2005/data-quality-agent"
   },
   {
-    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-    "id": "BlockRunAI/Franklin",
-    "language": "TypeScript",
-    "name": "BlockRunAI/Franklin",
-    "stars": 553,
-    "updated_at": "2026-09-05T18:22:26Z",
-    "url": "https://github.com/BlockRunAI/Franklin"
-  },
-  {
-    "description": "Open-source model-agnostic AI coding agent for the terminal. A Claude Code & Codex CLI alternative: any OpenRouter model",
-    "id": "onembyte/kolkrabbi",
-    "language": "Go",
-    "name": "onembyte/kolkrabbi",
-    "stars": 1,
-    "updated_at": "2026-09-05T18:17:22Z",
-    "url": "https://github.com/onembyte/kolkrabbi"
-  },
-  {
-    "description": "An in-process bridge giving an AI agent real access to a modded Minecraft world - including mod APIs a protocol-level bo",
-    "id": "max-champlin/ghost",
-    "language": "Java",
-    "name": "max-champlin/ghost",
-    "stars": 0,
-    "updated_at": "2026-09-05T18:13:17Z",
-    "url": "https://github.com/max-champlin/ghost"
-  },
-  {
     "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
     "id": "node9-ai/node9-proxy",
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 210,
-    "updated_at": "2026-09-05T18:09:16Z",
+    "updated_at": "2026-09-05T18:42:15Z",
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
@@ -135,15 +162,6 @@
     "url": "https://github.com/Lyle-0015/photo-guided-field-dispatch-agent"
   },
   {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-09-05T18:12:45Z",
-    "url": "https://github.com/b-macker/NAAb"
-  },
-  {
     "description": "Autonomous Substack agent and bot: picks its own topics, researches primary sources, writes the articles, posts Notes, c",
     "id": "krapcys1-maker/nia-substack-agent",
     "language": "Python",
@@ -167,7 +185,7 @@
     "language": "Python",
     "name": "diaban/jobsmith",
     "stars": 0,
-    "updated_at": "2026-09-05T17:30:48Z",
+    "updated_at": "2026-09-05T18:45:08Z",
     "url": "https://github.com/diaban/jobsmith"
   },
   {
@@ -205,15 +223,6 @@
     "stars": 30312,
     "updated_at": "2026-09-05T17:08:53Z",
     "url": "https://github.com/feder-cr/AIHawk"
-  },
-  {
-    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
-    "id": "Torvian-eu/chatbot",
-    "language": "Kotlin",
-    "name": "Torvian-eu/chatbot",
-    "stars": 4,
-    "updated_at": "2026-09-05T17:08:05Z",
-    "url": "https://github.com/Torvian-eu/chatbot"
   },
   {
     "description": "The coordination layer for Multiplayer AI",
@@ -279,15 +288,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-09-05T16:28:06Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "\u5b66\u4e60Agent\u5f00\u53d1\u7684\u7b14\u8bb0\uff0c\u5c1d\u8bd5\u8ba9Agent\u4ece\u53ef\u7528\u5230\u53ef\u9760",
     "id": "7-e1even/learn-agent",
     "language": "JavaScript",
@@ -329,7 +329,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 600,
-    "updated_at": "2026-09-05T18:30:13Z",
+    "updated_at": "2026-09-05T18:44:52Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
