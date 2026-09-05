@@ -1,5 +1,50 @@
 [
   {
+    "description": "Usa Qlib como cerebro cuant y Vibe-Trading como manos: scores de acciones por ML servidos a un agente de trading LLM v\u00eda",
+    "id": "Ax3lsk3r3/QuantVibe",
+    "language": "TypeScript",
+    "name": "Ax3lsk3r3/QuantVibe",
+    "stars": 2,
+    "updated_at": "2026-09-05T01:24:50Z",
+    "url": "https://github.com/Ax3lsk3r3/QuantVibe"
+  },
+  {
+    "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
+    "id": "Furox-Art/axiomize",
+    "language": "Python",
+    "name": "Furox-Art/axiomize",
+    "stars": 0,
+    "updated_at": "2026-09-05T01:21:42Z",
+    "url": "https://github.com/Furox-Art/axiomize"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-09-05T01:23:13Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
+    "id": "feder-cr/AIHawk",
+    "language": "Python",
+    "name": "feder-cr/AIHawk",
+    "stars": 30309,
+    "updated_at": "2026-09-05T01:19:48Z",
+    "url": "https://github.com/feder-cr/AIHawk"
+  },
+  {
+    "description": "Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de",
+    "id": "Jadema5416/ComfyUI-DLSS5-Enhancer",
+    "language": "Python",
+    "name": "Jadema5416/ComfyUI-DLSS5-Enhancer",
+    "stars": 0,
+    "updated_at": "2026-09-05T01:17:31Z",
+    "url": "https://github.com/Jadema5416/ComfyUI-DLSS5-Enhancer"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -36,31 +81,13 @@
     "url": "https://github.com/milljm/dynamic-rag-chat"
   },
   {
-    "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
-    "id": "Furox-Art/axiomize",
-    "language": "Python",
-    "name": "Furox-Art/axiomize",
-    "stars": 0,
-    "updated_at": "2026-09-05T01:12:03Z",
-    "url": "https://github.com/Furox-Art/axiomize"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-09-05T01:13:56Z",
+    "updated_at": "2026-09-05T01:15:52Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Usa Qlib como cerebro cuant y Vibe-Trading como manos: scores de acciones por ML servidos a un agente de trading LLM v\u00eda",
-    "id": "Ax3lsk3r3/QuantVibe",
-    "language": "TypeScript",
-    "name": "Ax3lsk3r3/QuantVibe",
-    "stars": 2,
-    "updated_at": "2026-09-05T01:05:24Z",
-    "url": "https://github.com/Ax3lsk3r3/QuantVibe"
   },
   {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
@@ -104,7 +131,7 @@
     "language": "JavaScript",
     "name": "LumioGames/workflow-plugin",
     "stars": 2,
-    "updated_at": "2026-09-05T00:49:54Z",
+    "updated_at": "2026-09-05T01:26:39Z",
     "url": "https://github.com/LumioGames/workflow-plugin"
   },
   {
@@ -133,15 +160,6 @@
     "stars": 16,
     "updated_at": "2026-09-05T00:38:47Z",
     "url": "https://github.com/sehoon787/my-claude"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 6,
-    "updated_at": "2026-09-05T01:12:45Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-04T22:57:04Z",
     "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
-    "id": "WP2-Danikusuma/AgentX",
-    "language": "HTML",
-    "name": "WP2-Danikusuma/AgentX",
-    "stars": 2,
-    "updated_at": "2026-09-04T22:56:32Z",
-    "url": "https://github.com/WP2-Danikusuma/AgentX"
-  },
-  {
-    "description": "Unified LLM Platform that allows you to host your own models locally and access them from across the world",
-    "id": "noahhps/Courier",
-    "language": "Python",
-    "name": "noahhps/Courier",
-    "stars": 0,
-    "updated_at": "2026-09-04T22:55:28Z",
-    "url": "https://github.com/noahhps/Courier"
   }
 ]
