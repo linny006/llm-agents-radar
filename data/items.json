@@ -1,5 +1,41 @@
 [
   {
+    "description": "An experimental autonomous AI agent that lives on your machine and talks to you through Telegram. One Rust binary.",
+    "id": "wunsiang-cheng/redrock",
+    "language": "Rust",
+    "name": "wunsiang-cheng/redrock",
+    "stars": 0,
+    "updated_at": "2026-09-05T07:27:34Z",
+    "url": "https://github.com/wunsiang-cheng/redrock"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 26,
+    "updated_at": "2026-09-05T07:23:40Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 5,
+    "updated_at": "2026-09-05T07:25:00Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 16,
+    "updated_at": "2026-09-05T07:24:34Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
     "id": "kangkukjin/indiebizOS",
     "language": "Python",
@@ -9,22 +45,13 @@
     "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
-    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 5,
-    "updated_at": "2026-09-05T07:13:46Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 26,
-    "updated_at": "2026-09-05T07:12:52Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
+    "description": "A bank credit is a bundle of orders, so \"unbundle\" it. Ties each credit back to the orders behind it and says honestly w",
+    "id": "tech-philomath-anjana/unbundle",
+    "language": "HTML",
+    "name": "tech-philomath-anjana/unbundle",
+    "stars": 0,
+    "updated_at": "2026-09-05T07:07:58Z",
+    "url": "https://github.com/tech-philomath-anjana/unbundle"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
@@ -72,15 +99,6 @@
     "url": "https://github.com/ZekaiShi/evo-subagent"
   },
   {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 16,
-    "updated_at": "2026-09-05T07:01:07Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "\u8bb2\u4e66\u6a21\u5f0f\u4e66\u7c4d\u538b\u7f29 Agent\uff1a\u628a\u4e00\u672c\u4e66\u538b\u6210\u6709\u4eba\u7ed9\u4f60\u8bb2\u4e66\u7684\u7cbe\u8bfb\u7248\uff08EPUB\uff09\uff0c\u4e8b\u5b9e\u9501\u6b7b\u3001\u53d9\u8ff0\u653e\u5f00\u3001\u72ec\u7acb\u8bed\u4e49\u5ba1\u8ba1 | book-compress skill: faithful, narrative-style book compression",
     "id": "SeanDuan365/book-compress",
     "language": "Python",
@@ -88,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T06:42:55Z",
     "url": "https://github.com/SeanDuan365/book-compress"
-  },
-  {
-    "description": "An experimental autonomous AI agent that lives on your machine and talks to you through Telegram. One Rust binary.",
-    "id": "wunsiang-cheng/redrock",
-    "language": "Rust",
-    "name": "wunsiang-cheng/redrock",
-    "stars": 0,
-    "updated_at": "2026-09-05T06:39:22Z",
-    "url": "https://github.com/wunsiang-cheng/redrock"
   },
   {
     "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
@@ -439,14 +448,5 @@
     "stars": 221,
     "updated_at": "2026-09-05T05:07:04Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
-    "id": "Heliotrope-dev/finance-agent",
-    "language": "Python",
-    "name": "Heliotrope-dev/finance-agent",
-    "stars": 2,
-    "updated_at": "2026-09-05T05:00:18Z",
-    "url": "https://github.com/Heliotrope-dev/finance-agent"
   }
 ]
