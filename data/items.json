@@ -1,5 +1,32 @@
 [
   {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-09-05T21:59:59Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-09-05T21:57:32Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
+    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+    "id": "BlockRunAI/Franklin",
+    "language": "TypeScript",
+    "name": "BlockRunAI/Franklin",
+    "stars": 553,
+    "updated_at": "2026-09-05T21:56:58Z",
+    "url": "https://github.com/BlockRunAI/Franklin"
+  },
+  {
     "description": "An agent for coding and everyday tasks, powered by the ChatGPT account you already pay for. No API key, no per-token bil",
     "id": "khudayarovich/onflip-agent",
     "language": "TypeScript",
@@ -97,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T21:22:21Z",
     "url": "https://github.com/bettersilvanus849/inner-coordinates"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 6,
-    "updated_at": "2026-09-05T21:43:36Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
@@ -378,7 +396,7 @@
     "url": "https://github.com/JortegaR/ai-notes-api"
   },
   {
-    "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
+    "description": "Versioned scientific modeling engine and Agent Skill with Model IR, simulation, fitting, uncertainty, causal/Bayesian in",
     "id": "Furox-Art/axiomize",
     "language": "Python",
     "name": "Furox-Art/axiomize",
@@ -419,7 +437,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-09-05T21:42:02Z",
+    "updated_at": "2026-09-05T21:50:25Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-05T19:35:23Z",
     "url": "https://github.com/iamvisheshsrivastava/AirKube"
-  },
-  {
-    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
-    "id": "watchcat/scout",
-    "language": "Rust",
-    "name": "watchcat/scout",
-    "stars": 0,
-    "updated_at": "2026-09-05T19:30:48Z",
-    "url": "https://github.com/watchcat/scout"
-  },
-  {
-    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
-    "id": "diaban/jobsmith",
-    "language": "Python",
-    "name": "diaban/jobsmith",
-    "stars": 0,
-    "updated_at": "2026-09-05T19:26:24Z",
-    "url": "https://github.com/diaban/jobsmith"
   }
 ]
