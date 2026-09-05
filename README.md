@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-05 10:45 UTC
+> ⏰ Last updated: 2026-09-05 11:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,20 +42,20 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [karvidsson/kbots](https://github.com/karvidsson/kbots) | 0 | Python | 2026-09-05 | Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme |
-| 2 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 380 | Python | 2026-09-05 | Self-Programming AI Assistant. Capture, automate, and refine all your workflows. |
-| 3 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 4 | Python | 2026-09-05 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
-| 4 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 5 | Swift | 2026-09-05 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
-| 5 | [Cyrax321/CONTINUUM](https://github.com/Cyrax321/CONTINUUM) | 26 | Python | 2026-09-05 | CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id |
-| 6 | [Furox-Art/axiomize](https://github.com/Furox-Art/axiomize) | 0 | Python | 2026-09-05 | AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv |
-| 7 | [Jadema5416/ComfyUI-DLSS5-Enhancer](https://github.com/Jadema5416/ComfyUI-DLSS5-Enhancer) | 0 | Python | 2026-09-05 | Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de |
-| 8 | [xiaomaozjj666/data-analysis-agent](https://github.com/xiaomaozjj666/data-analysis-agent) | 1 | Python | 2026-09-05 | 基于 LLM 的端到端数据分析工作台：上传数据集即可自动完成清洗、统计分析、可视化与报告生成，支持本地、Docker 与云端部署。 |
-| 9 | [krapcys1-maker/nia-substack-agent](https://github.com/krapcys1-maker/nia-substack-agent) | 1 | Python | 2026-09-05 | Autonomous Substack agent and bot: picks its own topics, researches primary sources, writes the articles, posts Notes, c |
-| 10 | [xiaomaozjj666/web-crawler](https://github.com/xiaomaozjj666/web-crawler) | 1 | Python | 2026-09-05 | Scrapling 风格隐身爬虫库：自适应选择器 · TLS 指纹 HTTP · JS 渲染 · 回调式 Spider 框架（重试/robots/去重/中间件管道）· JS 逆向 Agent · 验证码识别 · MCP 服务 · 本地 We |
-| 11 | [tech-philomath-anjana/unbundle](https://github.com/tech-philomath-anjana/unbundle) | 0 | HTML | 2026-09-05 | A bank credit is a bundle of orders, so "unbundle" it. Ties each credit back to the orders behind it and says honestly w |
-| 12 | [sehoon787/my-claude](https://github.com/sehoon787/my-claude) | 16 | JavaScript | 2026-09-05 | All-in-one agent harness for Claude Code — Boss meta-orchestrator, 32 curated agents, 139 curated skills, 2 named workfl |
-| 13 | [neopen/story-shot-agent](https://github.com/neopen/story-shot-agent) | 172 | Python | 2026-09-05 | 剧本分镜工具智能体（PenShot）：电影/动漫/短剧/小说/剧本→分镜→片段→prompt \| 基于 LangGraph+LLM，自动解析任意格式剧本，生成 Sora/Veo/Runway 等模型可用的连贯text-to-video提示词 |
-| 14 | [arrya5/revenue-recovery-agent](https://github.com/arrya5/revenue-recovery-agent) | 0 | Python | 2026-09-05 | Bounded AI agent for payment-failure, checkout-abandonment and receivables recovery — measured as incremental lift over  |
+| 1 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 380 | Python | 2026-09-05 | Self-Programming AI Assistant. Capture, automate, and refine all your workflows. |
+| 2 | [karvidsson/kbots](https://github.com/karvidsson/kbots) | 0 | Python | 2026-09-05 | Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme |
+| 3 | [krapcys1-maker/nia-substack-agent](https://github.com/krapcys1-maker/nia-substack-agent) | 1 | Python | 2026-09-05 | Autonomous Substack agent and bot: picks its own topics, researches primary sources, writes the articles, posts Notes, c |
+| 4 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 4 | Python | 2026-09-05 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
+| 5 | [arrya5/revenue-recovery-agent](https://github.com/arrya5/revenue-recovery-agent) | 0 | Python | 2026-09-05 | Bounded AI agent for payment-failure, checkout-abandonment and receivables recovery — measured as incremental lift over  |
+| 6 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 5 | Swift | 2026-09-05 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
+| 7 | [Cyrax321/CONTINUUM](https://github.com/Cyrax321/CONTINUUM) | 26 | Python | 2026-09-05 | CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id |
+| 8 | [Furox-Art/axiomize](https://github.com/Furox-Art/axiomize) | 0 | Python | 2026-09-05 | AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv |
+| 9 | [Jadema5416/ComfyUI-DLSS5-Enhancer](https://github.com/Jadema5416/ComfyUI-DLSS5-Enhancer) | 0 | Python | 2026-09-05 | Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de |
+| 10 | [xiaomaozjj666/data-analysis-agent](https://github.com/xiaomaozjj666/data-analysis-agent) | 1 | Python | 2026-09-05 | 基于 LLM 的端到端数据分析工作台：上传数据集即可自动完成清洗、统计分析、可视化与报告生成，支持本地、Docker 与云端部署。 |
+| 11 | [xiaomaozjj666/web-crawler](https://github.com/xiaomaozjj666/web-crawler) | 1 | Python | 2026-09-05 | Scrapling 风格隐身爬虫库：自适应选择器 · TLS 指纹 HTTP · JS 渲染 · 回调式 Spider 框架（重试/robots/去重/中间件管道）· JS 逆向 Agent · 验证码识别 · MCP 服务 · 本地 We |
+| 12 | [tech-philomath-anjana/unbundle](https://github.com/tech-philomath-anjana/unbundle) | 0 | HTML | 2026-09-05 | A bank credit is a bundle of orders, so "unbundle" it. Ties each credit back to the orders behind it and says honestly w |
+| 13 | [sehoon787/my-claude](https://github.com/sehoon787/my-claude) | 16 | JavaScript | 2026-09-05 | All-in-one agent harness for Claude Code — Boss meta-orchestrator, 32 curated agents, 139 curated skills, 2 named workfl |
+| 14 | [neopen/story-shot-agent](https://github.com/neopen/story-shot-agent) | 172 | Python | 2026-09-05 | 剧本分镜工具智能体（PenShot）：电影/动漫/短剧/小说/剧本→分镜→片段→prompt \| 基于 LangGraph+LLM，自动解析任意格式剧本，生成 Sora/Veo/Runway 等模型可用的连贯text-to-video提示词 |
 | 15 | [sehoon787/my-codex](https://github.com/sehoon787/my-codex) | 26 | Shell | 2026-09-05 | All-in-one agent harness for OpenAI Codex CLI — Boss meta-orchestrator, 17 curated agents (+17 opt-in AI specialists), 1 |
 | 16 | [wiseria-ai-labs/pie-ai-agent](https://github.com/wiseria-ai-labs/pie-ai-agent) | 73 | TypeScript | 2026-09-05 | Pie — AI browser agent Chrome extension |
 | 17 | [fan56/dsh-cron](https://github.com/fan56/dsh-cron) | 0 | TypeScript | 2026-09-05 | Cron scheduling for the DeepSeek Harness — bounded tasks with calendar & interval rules, delivered to live agents |
