@@ -1,5 +1,104 @@
 [
   {
+    "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
+    "id": "Furox-Art/axiomize",
+    "language": "Python",
+    "name": "Furox-Art/axiomize",
+    "stars": 0,
+    "updated_at": "2026-09-05T10:29:01Z",
+    "url": "https://github.com/Furox-Art/axiomize"
+  },
+  {
+    "description": "\u57fa\u4e8e LLM \u7684\u7aef\u5230\u7aef\u6570\u636e\u5206\u6790\u5de5\u4f5c\u53f0\uff1a\u4e0a\u4f20\u6570\u636e\u96c6\u5373\u53ef\u81ea\u52a8\u5b8c\u6210\u6e05\u6d17\u3001\u7edf\u8ba1\u5206\u6790\u3001\u53ef\u89c6\u5316\u4e0e\u62a5\u544a\u751f\u6210\uff0c\u652f\u6301\u672c\u5730\u3001Docker \u4e0e\u4e91\u7aef\u90e8\u7f72\u3002",
+    "id": "xiaomaozjj666/data-analysis-agent",
+    "language": "Python",
+    "name": "xiaomaozjj666/data-analysis-agent",
+    "stars": 1,
+    "updated_at": "2026-09-05T10:28:42Z",
+    "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
+  },
+  {
+    "description": "Autonomous Substack agent and bot: picks its own topics, researches primary sources, writes the articles, posts Notes, c",
+    "id": "krapcys1-maker/nia-substack-agent",
+    "language": "Python",
+    "name": "krapcys1-maker/nia-substack-agent",
+    "stars": 1,
+    "updated_at": "2026-09-05T10:25:54Z",
+    "url": "https://github.com/krapcys1-maker/nia-substack-agent"
+  },
+  {
+    "description": "Scrapling \u98ce\u683c\u9690\u8eab\u722c\u866b\u5e93\uff1a\u81ea\u9002\u5e94\u9009\u62e9\u5668 \u00b7 TLS \u6307\u7eb9 HTTP \u00b7 JS \u6e32\u67d3 \u00b7 \u56de\u8c03\u5f0f Spider \u6846\u67b6\uff08\u91cd\u8bd5/robots/\u53bb\u91cd/\u4e2d\u95f4\u4ef6\u7ba1\u9053\uff09\u00b7 JS \u9006\u5411 Agent \u00b7 \u9a8c\u8bc1\u7801\u8bc6\u522b \u00b7 MCP \u670d\u52a1 \u00b7 \u672c\u5730 We",
+    "id": "xiaomaozjj666/web-crawler",
+    "language": "Python",
+    "name": "xiaomaozjj666/web-crawler",
+    "stars": 1,
+    "updated_at": "2026-09-05T10:26:23Z",
+    "url": "https://github.com/xiaomaozjj666/web-crawler"
+  },
+  {
+    "description": "A bank credit is a bundle of orders, so \"unbundle\" it. Ties each credit back to the orders behind it and says honestly w",
+    "id": "tech-philomath-anjana/unbundle",
+    "language": "HTML",
+    "name": "tech-philomath-anjana/unbundle",
+    "stars": 0,
+    "updated_at": "2026-09-05T10:25:16Z",
+    "url": "https://github.com/tech-philomath-anjana/unbundle"
+  },
+  {
+    "description": "All-in-one agent harness for Claude Code \u2014 Boss meta-orchestrator, 32 curated agents, 139 curated skills, 2 named workfl",
+    "id": "sehoon787/my-claude",
+    "language": "JavaScript",
+    "name": "sehoon787/my-claude",
+    "stars": 16,
+    "updated_at": "2026-09-05T10:24:39Z",
+    "url": "https://github.com/sehoon787/my-claude"
+  },
+  {
+    "description": "\u5267\u672c\u5206\u955c\u5de5\u5177\u667a\u80fd\u4f53\uff08PenShot\uff09\uff1a\u7535\u5f71/\u52a8\u6f2b/\u77ed\u5267/\u5c0f\u8bf4/\u5267\u672c\u2192\u5206\u955c\u2192\u7247\u6bb5\u2192prompt | \u57fa\u4e8e LangGraph+LLM\uff0c\u81ea\u52a8\u89e3\u6790\u4efb\u610f\u683c\u5f0f\u5267\u672c\uff0c\u751f\u6210 Sora/Veo/Runway \u7b49\u6a21\u578b\u53ef\u7528\u7684\u8fde\u8d2ftext-to-video\u63d0\u793a\u8bcd",
+    "id": "neopen/story-shot-agent",
+    "language": "Python",
+    "name": "neopen/story-shot-agent",
+    "stars": 172,
+    "updated_at": "2026-09-05T10:29:23Z",
+    "url": "https://github.com/neopen/story-shot-agent"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 380,
+    "updated_at": "2026-09-05T10:22:39Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Bounded AI agent for payment-failure, checkout-abandonment and receivables recovery \u2014 measured as incremental lift over ",
+    "id": "arrya5/revenue-recovery-agent",
+    "language": "Python",
+    "name": "arrya5/revenue-recovery-agent",
+    "stars": 0,
+    "updated_at": "2026-09-05T10:19:08Z",
+    "url": "https://github.com/arrya5/revenue-recovery-agent"
+  },
+  {
+    "description": "All-in-one agent harness for OpenAI Codex CLI \u2014 Boss meta-orchestrator, 17 curated agents (+17 opt-in AI specialists), 1",
+    "id": "sehoon787/my-codex",
+    "language": "Shell",
+    "name": "sehoon787/my-codex",
+    "stars": 26,
+    "updated_at": "2026-09-05T10:16:27Z",
+    "url": "https://github.com/sehoon787/my-codex"
+  },
+  {
+    "description": "Pie \u2014 AI browser agent Chrome extension",
+    "id": "wiseria-ai-labs/pie-ai-agent",
+    "language": "TypeScript",
+    "name": "wiseria-ai-labs/pie-ai-agent",
+    "stars": 73,
+    "updated_at": "2026-09-05T10:17:48Z",
+    "url": "https://github.com/wiseria-ai-labs/pie-ai-agent"
+  },
+  {
     "description": "Cron scheduling for the DeepSeek Harness \u2014 bounded tasks with calendar & interval rules, delivered to live agents",
     "id": "fan56/dsh-cron",
     "language": "TypeScript",
@@ -27,24 +126,6 @@
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
-    "description": "Pie \u2014 AI browser agent Chrome extension",
-    "id": "wiseria-ai-labs/pie-ai-agent",
-    "language": "TypeScript",
-    "name": "wiseria-ai-labs/pie-ai-agent",
-    "stars": 73,
-    "updated_at": "2026-09-05T10:11:07Z",
-    "url": "https://github.com/wiseria-ai-labs/pie-ai-agent"
-  },
-  {
-    "description": "Autonomous Substack agent and bot: picks its own topics, researches primary sources, writes the articles, posts Notes, c",
-    "id": "krapcys1-maker/nia-substack-agent",
-    "language": "Python",
-    "name": "krapcys1-maker/nia-substack-agent",
-    "stars": 1,
-    "updated_at": "2026-09-05T10:10:19Z",
-    "url": "https://github.com/krapcys1-maker/nia-substack-agent"
-  },
-  {
     "description": "A self-hosted AI companion exploring evolving relationship memory, initiative, and cross-device context.",
     "id": "yy606747/obsidian-vow",
     "language": "Python",
@@ -63,15 +144,6 @@
     "url": "https://github.com/b-macker/NAAb"
   },
   {
-    "description": "A bank credit is a bundle of orders, so \"unbundle\" it. Ties each credit back to the orders behind it and says honestly w",
-    "id": "tech-philomath-anjana/unbundle",
-    "language": "HTML",
-    "name": "tech-philomath-anjana/unbundle",
-    "stars": 0,
-    "updated_at": "2026-09-05T10:05:17Z",
-    "url": "https://github.com/tech-philomath-anjana/unbundle"
-  },
-  {
     "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
     "id": "bigduu/Zenith",
     "language": "Shell",
@@ -86,7 +158,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-09-05T10:13:15Z",
+    "updated_at": "2026-09-05T10:30:11Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -106,15 +178,6 @@
     "stars": 16,
     "updated_at": "2026-09-05T10:04:54Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "\u5267\u672c\u5206\u955c\u5de5\u5177\u667a\u80fd\u4f53\uff08PenShot\uff09\uff1a\u7535\u5f71/\u52a8\u6f2b/\u77ed\u5267/\u5c0f\u8bf4/\u5267\u672c\u2192\u5206\u955c\u2192\u7247\u6bb5\u2192prompt | \u57fa\u4e8e LangGraph+LLM\uff0c\u81ea\u52a8\u89e3\u6790\u4efb\u610f\u683c\u5f0f\u5267\u672c\uff0c\u751f\u6210 Sora/Veo/Runway \u7b49\u6a21\u578b\u53ef\u7528\u7684\u8fde\u8d2ftext-to-video\u63d0\u793a\u8bcd",
-    "id": "neopen/story-shot-agent",
-    "language": "Python",
-    "name": "neopen/story-shot-agent",
-    "stars": 172,
-    "updated_at": "2026-09-05T09:54:15Z",
-    "url": "https://github.com/neopen/story-shot-agent"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -252,15 +315,6 @@
     "url": "https://github.com/hgsanyang/SoulTuner-Agent"
   },
   {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 380,
-    "updated_at": "2026-09-05T08:55:07Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -268,24 +322,6 @@
     "stars": 126,
     "updated_at": "2026-09-05T08:54:31Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "All-in-one agent harness for Claude Code \u2014 Boss meta-orchestrator, 32 curated agents, 139 curated skills, 2 named workfl",
-    "id": "sehoon787/my-claude",
-    "language": "JavaScript",
-    "name": "sehoon787/my-claude",
-    "stars": 16,
-    "updated_at": "2026-09-05T10:14:27Z",
-    "url": "https://github.com/sehoon787/my-claude"
-  },
-  {
-    "description": "All-in-one agent harness for OpenAI Codex CLI \u2014 Boss meta-orchestrator, 17 curated agents (+17 opt-in AI specialists), 1",
-    "id": "sehoon787/my-codex",
-    "language": "Shell",
-    "name": "sehoon787/my-codex",
-    "stars": 26,
-    "updated_at": "2026-09-05T10:13:47Z",
-    "url": "https://github.com/sehoon787/my-codex"
   },
   {
     "description": "Agent Knowledge Cycle (AKC) \u2014 a knowledge cycle for AI agents: agent behavior compounds, human judgment sharpens. Six ph",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-05T06:59:21Z",
     "url": "https://github.com/onembyte/kolkrabbi"
-  },
-  {
-    "description": "A compass for autonomous agents, not an operating manual.",
-    "id": "tachyon-r/first-principles-agent-soul",
-    "language": "\u2014",
-    "name": "tachyon-r/first-principles-agent-soul",
-    "stars": 1,
-    "updated_at": "2026-09-05T06:59:00Z",
-    "url": "https://github.com/tachyon-r/first-principles-agent-soul"
-  },
-  {
-    "description": "Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/",
-    "id": "ZekaiShi/evo-subagent",
-    "language": "JavaScript",
-    "name": "ZekaiShi/evo-subagent",
-    "stars": 5,
-    "updated_at": "2026-09-05T06:56:47Z",
-    "url": "https://github.com/ZekaiShi/evo-subagent"
-  },
-  {
-    "description": "\u8bb2\u4e66\u6a21\u5f0f\u4e66\u7c4d\u538b\u7f29 Agent\uff1a\u628a\u4e00\u672c\u4e66\u538b\u6210\u6709\u4eba\u7ed9\u4f60\u8bb2\u4e66\u7684\u7cbe\u8bfb\u7248\uff08EPUB\uff09\uff0c\u4e8b\u5b9e\u9501\u6b7b\u3001\u53d9\u8ff0\u653e\u5f00\u3001\u72ec\u7acb\u8bed\u4e49\u5ba1\u8ba1 | book-compress skill: faithful, narrative-style book compression",
-    "id": "SeanDuan365/book-compress",
-    "language": "Python",
-    "name": "SeanDuan365/book-compress",
-    "stars": 0,
-    "updated_at": "2026-09-05T06:42:55Z",
-    "url": "https://github.com/SeanDuan365/book-compress"
-  },
-  {
-    "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
-    "id": "brittewestafrican981/ComfyUI-YinChao",
-    "language": "Python",
-    "name": "brittewestafrican981/ComfyUI-YinChao",
-    "stars": 0,
-    "updated_at": "2026-09-05T06:38:11Z",
-    "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
   }
 ]
