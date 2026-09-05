@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-09-05T12:52:51Z",
+    "updated_at": "2026-09-05T12:59:52Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
+    "id": "Saran1536/ComfyUI-LoaderUtils",
+    "language": "Python",
+    "name": "Saran1536/ComfyUI-LoaderUtils",
+    "stars": 1,
+    "updated_at": "2026-09-05T12:59:43Z",
+    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
+  },
+  {
+    "description": "Prompts, skills, and agents that survive contact with real workflows. No vendor loyalty. Occasionally heretical.  \ud83e\uddd9\ud83c\udffb\u200d\u2640\ufe0f",
+    "id": "MarieLynneBlock/arcanum-artifex",
+    "language": "Python",
+    "name": "MarieLynneBlock/arcanum-artifex",
+    "stars": 3,
+    "updated_at": "2026-09-05T12:59:20Z",
+    "url": "https://github.com/MarieLynneBlock/arcanum-artifex"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 1,
+    "updated_at": "2026-09-05T12:58:48Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "Cross-platform Rust computer-use MCP server for macOS and Windows: AX/UIA, screenshots, OCR, pointer and keyboard input,",
+    "id": "bigduu/Nova",
+    "language": "Rust",
+    "name": "bigduu/Nova",
+    "stars": 17,
+    "updated_at": "2026-09-05T12:56:04Z",
+    "url": "https://github.com/bigduu/Nova"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 381,
+    "updated_at": "2026-09-05T12:54:33Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
@@ -16,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T12:52:45Z",
     "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 381,
-    "updated_at": "2026-09-05T12:52:09Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Open-source model-agnostic AI coding agent for the terminal. A Claude Code & Codex CLI alternative: any OpenRouter model",
@@ -86,7 +122,7 @@
     "language": "Python",
     "name": "Furox-Art/axiomize",
     "stars": 0,
-    "updated_at": "2026-09-05T12:53:00Z",
+    "updated_at": "2026-09-05T13:00:07Z",
     "url": "https://github.com/Furox-Art/axiomize"
   },
   {
@@ -97,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T12:34:35Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "Prompts, skills, and agents that survive contact with real workflows. No vendor loyalty. Occasionally heretical.  \ud83e\uddd9\ud83c\udffb\u200d\u2640\ufe0f",
-    "id": "MarieLynneBlock/arcanum-artifex",
-    "language": "Python",
-    "name": "MarieLynneBlock/arcanum-artifex",
-    "stars": 3,
-    "updated_at": "2026-09-05T12:49:46Z",
-    "url": "https://github.com/MarieLynneBlock/arcanum-artifex"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -293,17 +320,8 @@
     "language": "Shell",
     "name": "bigduu/Zenith",
     "stars": 5,
-    "updated_at": "2026-09-05T11:10:29Z",
+    "updated_at": "2026-09-05T12:59:03Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Cross-platform Rust computer-use MCP server for macOS and Windows: AX/UIA, screenshots, OCR, pointer and keyboard input,",
-    "id": "bigduu/Nova",
-    "language": "Rust",
-    "name": "bigduu/Nova",
-    "stars": 17,
-    "updated_at": "2026-09-05T12:52:15Z",
-    "url": "https://github.com/bigduu/Nova"
   },
   {
     "description": "Open-Source Intelligent Command Layer",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-05T09:49:13Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "GitHub Issue \u5206\u6790\u667a\u80fd\u4f53\uff1a\u6709\u754c\u5de5\u5177\u5faa\u73af\u63a2\u7d22\u4ed3\u5e93\u6e90\u7801\uff0c\u751f\u6210\u5e26\u884c\u7ea7\u8bc1\u636e\u7684\u6839\u56e0\u62a5\u544a\u4e0e\u4fee\u590d\u8865\u4e01\uff0c\u9ed8\u8ba4\u53ea\u8bfb\uff0c\u53ef\u663e\u5f0f\u5f00\u542f PR \u63d0\u6848",
-    "id": "xiaomaozjj666/issue-agent",
-    "language": "Python",
-    "name": "xiaomaozjj666/issue-agent",
-    "stars": 1,
-    "updated_at": "2026-09-05T09:37:03Z",
-    "url": "https://github.com/xiaomaozjj666/issue-agent"
-  },
-  {
-    "description": "Persistent plastic memory for coding agents (Claude Code, OpenCode, Prime Agent) via MCP. One-command install.",
-    "id": "alexenti-code/matryoshka-mmi",
-    "language": "Python",
-    "name": "alexenti-code/matryoshka-mmi",
-    "stars": 0,
-    "updated_at": "2026-09-05T09:33:34Z",
-    "url": "https://github.com/alexenti-code/matryoshka-mmi"
   }
 ]
