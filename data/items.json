@@ -1,12 +1,57 @@
 [
   {
+    "description": "Detects runtime anomalies from application logs, correlates them with recent commits, and generates root-cause hypothese",
+    "id": "bajshorya/llm-observability-agent",
+    "language": "TypeScript",
+    "name": "bajshorya/llm-observability-agent",
+    "stars": 0,
+    "updated_at": "2026-09-05T03:12:51Z",
+    "url": "https://github.com/bajshorya/llm-observability-agent"
+  },
+  {
+    "description": "Usa Qlib como cerebro cuant y Vibe-Trading como manos: scores de acciones por ML servidos a un agente de trading LLM v\u00eda",
+    "id": "Ax3lsk3r3/QuantVibe",
+    "language": "TypeScript",
+    "name": "Ax3lsk3r3/QuantVibe",
+    "stars": 2,
+    "updated_at": "2026-09-05T03:11:42Z",
+    "url": "https://github.com/Ax3lsk3r3/QuantVibe"
+  },
+  {
+    "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 263,
+    "updated_at": "2026-09-05T03:11:12Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
     "description": "A personal assistant with a phone number: SQLite-backed todos, memories, and reflections, searchable through Algolia and",
     "id": "NatanTechofNY/fieldnote-assistant",
     "language": "TypeScript",
     "name": "NatanTechofNY/fieldnote-assistant",
     "stars": 0,
-    "updated_at": "2026-09-05T02:56:18Z",
+    "updated_at": "2026-09-05T03:09:27Z",
     "url": "https://github.com/NatanTechofNY/fieldnote-assistant"
+  },
+  {
+    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 30,
+    "updated_at": "2026-09-05T03:06:01Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
+    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
+    "id": "Heliotrope-dev/finance-agent",
+    "language": "Python",
+    "name": "Heliotrope-dev/finance-agent",
+    "stars": 2,
+    "updated_at": "2026-09-05T03:00:27Z",
+    "url": "https://github.com/Heliotrope-dev/finance-agent"
   },
   {
     "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
@@ -16,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T02:55:04Z",
     "url": "https://github.com/kangwoo/aimon-core"
-  },
-  {
-    "description": "Detects runtime anomalies from application logs, correlates them with recent commits, and generates root-cause hypothese",
-    "id": "bajshorya/llm-observability-agent",
-    "language": "TypeScript",
-    "name": "bajshorya/llm-observability-agent",
-    "stars": 0,
-    "updated_at": "2026-09-05T02:53:21Z",
-    "url": "https://github.com/bajshorya/llm-observability-agent"
   },
   {
     "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
@@ -54,15 +90,6 @@
     "url": "https://github.com/mnemon-dev/mnemon"
   },
   {
-    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
-    "id": "Heliotrope-dev/finance-agent",
-    "language": "Python",
-    "name": "Heliotrope-dev/finance-agent",
-    "stars": 2,
-    "updated_at": "2026-09-05T02:49:25Z",
-    "url": "https://github.com/Heliotrope-dev/finance-agent"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -88,15 +115,6 @@
     "stars": 32,
     "updated_at": "2026-09-05T02:42:43Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Usa Qlib como cerebro cuant y Vibe-Trading como manos: scores de acciones por ML servidos a un agente de trading LLM v\u00eda",
-    "id": "Ax3lsk3r3/QuantVibe",
-    "language": "TypeScript",
-    "name": "Ax3lsk3r3/QuantVibe",
-    "stars": 2,
-    "updated_at": "2026-09-05T02:42:34Z",
-    "url": "https://github.com/Ax3lsk3r3/QuantVibe"
   },
   {
     "description": "Open-source model-agnostic AI coding agent for the terminal. A Claude Code & Codex CLI alternative: any OpenRouter model",
@@ -189,15 +207,6 @@
     "url": "https://github.com/desFernan/puck-windows"
   },
   {
-    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 30,
-    "updated_at": "2026-09-05T01:37:15Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
     "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
     "id": "AlanFokCo/agentscope-go",
     "language": "Go",
@@ -220,7 +229,7 @@
     "id": "feder-cr/AIHawk",
     "language": "Python",
     "name": "feder-cr/AIHawk",
-    "stars": 30310,
+    "stars": 30311,
     "updated_at": "2026-09-05T01:19:48Z",
     "url": "https://github.com/feder-cr/AIHawk"
   },
@@ -247,7 +256,7 @@
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
-    "stars": 84,
+    "stars": 86,
     "updated_at": "2026-09-05T01:09:42Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
   },
@@ -439,14 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-04T23:34:57Z",
     "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
-  },
-  {
-    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
-    "id": "oxidizable-malinois605/bridge-suite-mcp",
-    "language": "TypeScript",
-    "name": "oxidizable-malinois605/bridge-suite-mcp",
-    "stars": 0,
-    "updated_at": "2026-09-04T23:33:00Z",
-    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
   }
 ]
