@@ -1,12 +1,39 @@
 [
   {
-    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
-    "id": "clashroy5384/ai-papers-hub",
-    "language": "\u2014",
-    "name": "clashroy5384/ai-papers-hub",
+    "description": "Open-source model-agnostic AI coding agent for the terminal. A Claude Code & Codex CLI alternative: any OpenRouter model",
+    "id": "onembyte/kolkrabbi",
+    "language": "Go",
+    "name": "onembyte/kolkrabbi",
+    "stars": 1,
+    "updated_at": "2026-09-05T06:43:51Z",
+    "url": "https://github.com/onembyte/kolkrabbi"
+  },
+  {
+    "description": "\u8bb2\u4e66\u6a21\u5f0f\u4e66\u7c4d\u538b\u7f29 Agent\uff1a\u628a\u4e00\u672c\u4e66\u538b\u6210\u6709\u4eba\u7ed9\u4f60\u8bb2\u4e66\u7684\u7cbe\u8bfb\u7248\uff08EPUB\uff09\uff0c\u4e8b\u5b9e\u9501\u6b7b\u3001\u53d9\u8ff0\u653e\u5f00\u3001\u72ec\u7acb\u8bed\u4e49\u5ba1\u8ba1 | book-compress skill: faithful, narrative-style book compression",
+    "id": "SeanDuan365/book-compress",
+    "language": "Python",
+    "name": "SeanDuan365/book-compress",
     "stars": 0,
-    "updated_at": "2026-09-05T06:29:47Z",
-    "url": "https://github.com/clashroy5384/ai-papers-hub"
+    "updated_at": "2026-09-05T06:42:55Z",
+    "url": "https://github.com/SeanDuan365/book-compress"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-09-05T06:42:51Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 26,
+    "updated_at": "2026-09-05T06:42:44Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "An experimental autonomous AI agent that lives on your machine and talks to you through Telegram. One Rust binary.",
@@ -14,8 +41,71 @@
     "language": "Rust",
     "name": "wunsiang-cheng/redrock",
     "stars": 0,
-    "updated_at": "2026-09-05T06:28:09Z",
+    "updated_at": "2026-09-05T06:39:22Z",
     "url": "https://github.com/wunsiang-cheng/redrock"
+  },
+  {
+    "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
+    "id": "brittewestafrican981/ComfyUI-YinChao",
+    "language": "Python",
+    "name": "brittewestafrican981/ComfyUI-YinChao",
+    "stars": 0,
+    "updated_at": "2026-09-05T06:38:11Z",
+    "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
+  },
+  {
+    "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
+    "id": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
+    "language": "Python",
+    "name": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
+    "stars": 4,
+    "updated_at": "2026-09-05T06:36:52Z",
+    "url": "https://github.com/mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo"
+  },
+  {
+    "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
+    "id": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
+    "language": "Python",
+    "name": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
+    "stars": 2,
+    "updated_at": "2026-09-05T06:35:51Z",
+    "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
+  },
+  {
+    "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
+    "id": "EpsteinF1les/tts",
+    "language": "\u2014",
+    "name": "EpsteinF1les/tts",
+    "stars": 0,
+    "updated_at": "2026-09-05T06:35:09Z",
+    "url": "https://github.com/EpsteinF1les/tts"
+  },
+  {
+    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 5,
+    "updated_at": "2026-09-05T06:36:40Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
+    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "language": "\u2014",
+    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "stars": 0,
+    "updated_at": "2026-09-05T06:30:40Z",
+    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
+  },
+  {
+    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
+    "id": "clashroy5384/ai-papers-hub",
+    "language": "\u2014",
+    "name": "clashroy5384/ai-papers-hub",
+    "stars": 0,
+    "updated_at": "2026-09-05T06:29:47Z",
+    "url": "https://github.com/clashroy5384/ai-papers-hub"
   },
   {
     "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
@@ -32,7 +122,7 @@
     "language": "Rust",
     "name": "bigduu/Nova",
     "stars": 17,
-    "updated_at": "2026-09-05T06:27:28Z",
+    "updated_at": "2026-09-05T06:36:38Z",
     "url": "https://github.com/bigduu/Nova"
   },
   {
@@ -41,17 +131,8 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 16,
-    "updated_at": "2026-09-05T06:26:41Z",
+    "updated_at": "2026-09-05T06:40:49Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 26,
-    "updated_at": "2026-09-05T06:28:26Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
@@ -81,15 +162,6 @@
     "url": "https://github.com/Stolas34/voice-input-src"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-09-05T06:24:36Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
     "id": "Screwtopped-annapavlova802/SparkLabs",
     "language": "C++",
@@ -106,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T06:22:10Z",
     "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "\u8bb2\u4e66\u6a21\u5f0f\u4e66\u7c4d\u538b\u7f29 Agent\uff1a\u628a\u4e00\u672c\u4e66\u538b\u6210\u6709\u4eba\u7ed9\u4f60\u8bb2\u4e66\u7684\u7cbe\u8bfb\u7248\uff08EPUB\uff09\uff0c\u4e8b\u5b9e\u9501\u6b7b\u3001\u53d9\u8ff0\u653e\u5f00\u3001\u72ec\u7acb\u8bed\u4e49\u5ba1\u8ba1 | book-compress skill: faithful, narrative-style book compression",
-    "id": "SeanDuan365/book-compress",
-    "language": "Python",
-    "name": "SeanDuan365/book-compress",
-    "stars": 0,
-    "updated_at": "2026-09-05T06:19:29Z",
-    "url": "https://github.com/SeanDuan365/book-compress"
   },
   {
     "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
@@ -160,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T06:15:01Z",
     "url": "https://github.com/desFernan/puck-windows"
-  },
-  {
-    "description": "Open-source model-agnostic AI coding agent for the terminal. A Claude Code & Codex CLI alternative: any OpenRouter model",
-    "id": "onembyte/kolkrabbi",
-    "language": "Go",
-    "name": "onembyte/kolkrabbi",
-    "stars": 1,
-    "updated_at": "2026-09-05T06:30:13Z",
-    "url": "https://github.com/onembyte/kolkrabbi"
   },
   {
     "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
@@ -241,15 +295,6 @@
     "stars": 2,
     "updated_at": "2026-09-05T05:57:38Z",
     "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 5,
-    "updated_at": "2026-09-05T05:55:36Z",
-    "url": "https://github.com/bigduu/Zenith"
   },
   {
     "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-05T04:45:51Z",
     "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-09-05T04:45:28Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "\u300c\u8861 \u00b7 Heng\u300d\u8de8\u5883\u7535\u5546\u8d2d\u7269 Agent \u7684\u53ef\u4fe1\u5ea6\u5de5\u7a0b\u3002\u7ee7\u627f\u81ea\u539f\u9879\u76ee globex-agent \u5e76\u5168\u9762\u6539\u9020\uff1a\u68c0\u7d22/\u5230\u624b\u4ef7/\u7ec4\u5408\u4f18\u5316/\u4e0b\u5355\u5168\u94fe\u8def\u4e0e\u957f\u671f\u8bb0\u5fc6\uff1b8 \u7c7b\u786e\u5b9a\u6027\u5224\u636e\u3001\u516b\u9879\u96f6\u6210\u672c\u63d0\u4ea4\u95e8\u7981\uff0c\u6bcf\u9053\u62a4\u680f\u5e26\u771f\u7ea2\u8bc1\u636e\u94fe\uff1b\u81ea\u5efa\u8bc4\u6d4b\uff0844+11 ",
-    "id": "emmmdty/heng-agent",
-    "language": "Python",
-    "name": "emmmdty/heng-agent",
-    "stars": 0,
-    "updated_at": "2026-09-05T04:32:26Z",
-    "url": "https://github.com/emmmdty/heng-agent"
-  },
-  {
-    "description": "Usa Qlib como cerebro cuant y Vibe-Trading como manos: scores de acciones por ML servidos a un agente de trading LLM v\u00eda",
-    "id": "Ax3lsk3r3/QuantVibe",
-    "language": "TypeScript",
-    "name": "Ax3lsk3r3/QuantVibe",
-    "stars": 2,
-    "updated_at": "2026-09-05T04:20:27Z",
-    "url": "https://github.com/Ax3lsk3r3/QuantVibe"
-  },
-  {
-    "description": "Autonomous Substack agent and bot: picks its own topics, researches primary sources, writes the articles, posts Notes, c",
-    "id": "krapcys1-maker/nia-substack-agent",
-    "language": "Python",
-    "name": "krapcys1-maker/nia-substack-agent",
-    "stars": 1,
-    "updated_at": "2026-09-05T04:08:32Z",
-    "url": "https://github.com/krapcys1-maker/nia-substack-agent"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 15,
-    "updated_at": "2026-09-05T04:07:13Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
   }
 ]
