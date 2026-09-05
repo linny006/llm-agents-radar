@@ -1,21 +1,48 @@
 [
   {
-    "description": "Open-source model-agnostic AI coding agent for the terminal. A Claude Code & Codex CLI alternative: any OpenRouter model",
-    "id": "onembyte/kolkrabbi",
-    "language": "Go",
-    "name": "onembyte/kolkrabbi",
-    "stars": 1,
-    "updated_at": "2026-09-05T18:59:47Z",
-    "url": "https://github.com/onembyte/kolkrabbi"
-  },
-  {
     "description": "An agent for coding and everyday tasks, powered by the ChatGPT account you already pay for. No API key, no per-token bil",
     "id": "khudayarovich/onflip-agent",
     "language": "TypeScript",
     "name": "khudayarovich/onflip-agent",
     "stars": 2,
-    "updated_at": "2026-09-05T18:56:02Z",
+    "updated_at": "2026-09-05T19:12:09Z",
     "url": "https://github.com/khudayarovich/onflip-agent"
+  },
+  {
+    "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
+    "id": "aviskaar/zorp",
+    "language": "Rust",
+    "name": "aviskaar/zorp",
+    "stars": 3,
+    "updated_at": "2026-09-05T19:10:12Z",
+    "url": "https://github.com/aviskaar/zorp"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-09-05T19:08:15Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
+    "id": "diaban/jobsmith",
+    "language": "Python",
+    "name": "diaban/jobsmith",
+    "stars": 0,
+    "updated_at": "2026-09-05T19:08:01Z",
+    "url": "https://github.com/diaban/jobsmith"
+  },
+  {
+    "description": "Open-source model-agnostic AI coding agent for the terminal. A Claude Code & Codex CLI alternative: any OpenRouter model",
+    "id": "onembyte/kolkrabbi",
+    "language": "Go",
+    "name": "onembyte/kolkrabbi",
+    "stars": 1,
+    "updated_at": "2026-09-05T19:07:59Z",
+    "url": "https://github.com/onembyte/kolkrabbi"
   },
   {
     "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
@@ -77,7 +104,7 @@
     "language": "TypeScript",
     "name": "BlockRunAI/Franklin",
     "stars": 553,
-    "updated_at": "2026-09-05T18:39:49Z",
+    "updated_at": "2026-09-05T19:14:29Z",
     "url": "https://github.com/BlockRunAI/Franklin"
   },
   {
@@ -88,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T18:33:41Z",
     "url": "https://github.com/max-champlin/ghost"
-  },
-  {
-    "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
-    "id": "aviskaar/zorp",
-    "language": "Rust",
-    "name": "aviskaar/zorp",
-    "stars": 3,
-    "updated_at": "2026-09-05T18:53:07Z",
-    "url": "https://github.com/aviskaar/zorp"
   },
   {
     "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
@@ -139,7 +157,7 @@
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 382,
+    "stars": 383,
     "updated_at": "2026-09-05T18:06:46Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
@@ -185,7 +203,7 @@
     "language": "Python",
     "name": "krapcys1-maker/nia-substack-agent",
     "stars": 1,
-    "updated_at": "2026-09-05T17:37:12Z",
+    "updated_at": "2026-09-05T19:06:22Z",
     "url": "https://github.com/krapcys1-maker/nia-substack-agent"
   },
   {
@@ -198,15 +216,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
-    "id": "diaban/jobsmith",
-    "language": "Python",
-    "name": "diaban/jobsmith",
-    "stars": 0,
-    "updated_at": "2026-09-05T18:45:08Z",
-    "url": "https://github.com/diaban/jobsmith"
-  },
-  {
     "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
     "id": "Furox-Art/axiomize",
     "language": "Python",
@@ -214,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T17:30:21Z",
     "url": "https://github.com/Furox-Art/axiomize"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-09-05T17:19:16Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
@@ -238,7 +238,7 @@
     "id": "feder-cr/AIHawk",
     "language": "Python",
     "name": "feder-cr/AIHawk",
-    "stars": 30312,
+    "stars": 30311,
     "updated_at": "2026-09-05T17:08:53Z",
     "url": "https://github.com/feder-cr/AIHawk"
   },
