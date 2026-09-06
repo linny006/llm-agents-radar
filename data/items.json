@@ -1,5 +1,41 @@
 [
   {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 388,
+    "updated_at": "2026-09-06T14:59:53Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "An agentic system built on a \"One Root, Five Wings\" architecture, dedicated to combating the entropy production of infom",
+    "id": "ThreeFish-AI/negentropy",
+    "language": "Python",
+    "name": "ThreeFish-AI/negentropy",
+    "stars": 10,
+    "updated_at": "2026-09-06T14:57:36Z",
+    "url": "https://github.com/ThreeFish-AI/negentropy"
+  },
+  {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 3,
+    "updated_at": "2026-09-06T14:54:03Z",
+    "url": "https://github.com/sydches/yuj"
+  },
+  {
+    "description": "\u6295\u8d44\u79c1\u4eba\u7ba1\u5bb6 \u00b7 A\u80a1\u57fa\u91d1 AI \u79c1\u4eba\u987e\u95ee\uff08Invest Concierge \u2014 A-share & fund AI personal investment assistant\uff09",
+    "id": "cx-ssg/invest-concierge",
+    "language": "Python",
+    "name": "cx-ssg/invest-concierge",
+    "stars": 0,
+    "updated_at": "2026-09-06T14:49:05Z",
+    "url": "https://github.com/cx-ssg/invest-concierge"
+  },
+  {
     "description": "Open-source AI coding agent for the terminal that works with several subscriptions in one session \u2014 your Claude Pro/Max,",
     "id": "onembyte/kolkrabbi",
     "language": "Go",
@@ -50,7 +86,7 @@
     "language": "Shell",
     "name": "bigduu/Zenith",
     "stars": 5,
-    "updated_at": "2026-09-06T14:35:02Z",
+    "updated_at": "2026-09-06T14:46:46Z",
     "url": "https://github.com/bigduu/Zenith"
   },
   {
@@ -68,17 +104,8 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 16,
-    "updated_at": "2026-09-06T14:25:41Z",
+    "updated_at": "2026-09-06T14:46:47Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 3,
-    "updated_at": "2026-09-06T14:17:26Z",
-    "url": "https://github.com/sydches/yuj"
   },
   {
     "description": "Provider-neutral agentic harness for playing Hearts of Iron IV with an LLM: clock-owning turn loop, reflex/planner split",
@@ -162,15 +189,6 @@
     "url": "https://github.com/EvoMap/evolver"
   },
   {
-    "description": "An agentic system built on a \"One Root, Five Wings\" architecture, dedicated to combating the entropy production of infom",
-    "id": "ThreeFish-AI/negentropy",
-    "language": "Python",
-    "name": "ThreeFish-AI/negentropy",
-    "stars": 10,
-    "updated_at": "2026-09-06T14:41:40Z",
-    "url": "https://github.com/ThreeFish-AI/negentropy"
-  },
-  {
     "description": "Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and ",
     "id": "genieincodebottle/generative-ai",
     "language": "Jupyter Notebook",
@@ -185,7 +203,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-06T14:06:06Z",
+    "updated_at": "2026-09-06T14:48:09Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -324,15 +342,6 @@
     "url": "https://github.com/qyiun666/meowire"
   },
   {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 388,
-    "updated_at": "2026-09-06T12:32:09Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "An LLM-driven command-line assistant to run tasks, chat interactively, and watch scheduled automation workflows with bui",
     "id": "BIRU-sketch/whizkit",
     "language": "Python",
@@ -355,7 +364,7 @@
     "id": "feder-cr/AIHawk",
     "language": "Python",
     "name": "feder-cr/AIHawk",
-    "stars": 30317,
+    "stars": 30318,
     "updated_at": "2026-09-06T12:25:07Z",
     "url": "https://github.com/feder-cr/AIHawk"
   },
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-06T11:13:19Z",
     "url": "https://github.com/Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3"
-  },
-  {
-    "description": "Control your Windows laptop remotely via Discord with AI-powered voice and text commands in English or Urdu.",
-    "id": "Ottoman-reticule726/zara-ai-laptop-agent",
-    "language": "Python",
-    "name": "Ottoman-reticule726/zara-ai-laptop-agent",
-    "stars": 0,
-    "updated_at": "2026-09-06T11:12:33Z",
-    "url": "https://github.com/Ottoman-reticule726/zara-ai-laptop-agent"
   }
 ]
