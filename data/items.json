@@ -1,5 +1,68 @@
 [
   {
+    "description": "An experimental autonomous AI agent that lives on your machine and talks to you through Telegram. One Rust binary.",
+    "id": "wunsiang-cheng/redrock",
+    "language": "Rust",
+    "name": "wunsiang-cheng/redrock",
+    "stars": 0,
+    "updated_at": "2026-09-06T06:20:35Z",
+    "url": "https://github.com/wunsiang-cheng/redrock"
+  },
+  {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-09-06T06:19:49Z",
+    "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
+    "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
+    "id": "puremachinery/carapace",
+    "language": "Rust",
+    "name": "puremachinery/carapace",
+    "stars": 47,
+    "updated_at": "2026-09-06T06:21:31Z",
+    "url": "https://github.com/puremachinery/carapace"
+  },
+  {
+    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 5,
+    "updated_at": "2026-09-06T06:23:41Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "Distilly \u2014 Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill\uff08\u539f\u540c\u4e8b Skill\uff09.",
+    "id": "titanwings/distilly",
+    "language": "TypeScript",
+    "name": "titanwings/distilly",
+    "stars": 24379,
+    "updated_at": "2026-09-06T06:18:46Z",
+    "url": "https://github.com/titanwings/distilly"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-09-06T06:16:24Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 16,
+    "updated_at": "2026-09-06T06:23:22Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
     "description": "Open-source model-agnostic AI coding agent for the terminal. A Claude Code & Codex CLI alternative: any OpenRouter model",
     "id": "onembyte/kolkrabbi",
     "language": "Go",
@@ -99,15 +162,6 @@
     "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
-    "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
-    "id": "puremachinery/carapace",
-    "language": "Rust",
-    "name": "puremachinery/carapace",
-    "stars": 47,
-    "updated_at": "2026-09-06T06:01:11Z",
-    "url": "https://github.com/puremachinery/carapace"
-  },
-  {
     "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
@@ -153,15 +207,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 5,
-    "updated_at": "2026-09-06T05:33:01Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
     "description": "\u300c\u8861 \u00b7 Heng\u300d\u8de8\u5883\u7535\u5546\u8d2d\u7269 Agent \u7684\u53ef\u4fe1\u5ea6\u5de5\u7a0b\u3002\u7ee7\u627f\u81ea\u539f\u9879\u76ee globex-agent \u5e76\u5168\u9762\u6539\u9020\uff1a\u68c0\u7d22/\u5230\u624b\u4ef7/\u7ec4\u5408\u4f18\u5316/\u4e0b\u5355\u5168\u94fe\u8def\u4e0e\u957f\u671f\u8bb0\u5fc6\uff1b8 \u7c7b\u786e\u5b9a\u6027\u5224\u636e\u3001\u516b\u9879\u96f6\u6210\u672c\u63d0\u4ea4\u95e8\u7981\uff0c\u6bcf\u9053\u62a4\u680f\u5e26\u771f\u7ea2\u8bc1\u636e\u94fe\uff1b\u81ea\u5efa\u8bc4\u6d4b\uff0844+11 ",
     "id": "emmmdty/heng-agent",
     "language": "Python",
@@ -178,24 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T05:24:44Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 16,
-    "updated_at": "2026-09-06T06:15:14Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
-    "id": "kangwoo/aimon-core",
-    "language": "Java",
-    "name": "kangwoo/aimon-core",
-    "stars": 0,
-    "updated_at": "2026-09-06T05:57:36Z",
-    "url": "https://github.com/kangwoo/aimon-core"
   },
   {
     "description": "YantrikDB memory provider for NousResearch/hermes-agent \u2014 self-maintaining memory with benchmarked recall, self-tuning r",
@@ -229,7 +256,7 @@
     "id": "areal-project/AReaL",
     "language": "Python",
     "name": "areal-project/AReaL",
-    "stars": 5729,
+    "stars": 5728,
     "updated_at": "2026-09-06T04:51:58Z",
     "url": "https://github.com/areal-project/AReaL"
   },
@@ -259,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T04:23:49Z",
     "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-09-06T05:48:43Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-06T04:03:03Z",
     "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-09-06T04:01:30Z",
-    "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-09-06T04:00:54Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
   }
 ]
