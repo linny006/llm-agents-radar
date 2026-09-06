@@ -1,12 +1,57 @@
 [
   {
+    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
+    "id": "Heliotrope-dev/finance-agent",
+    "language": "Python",
+    "name": "Heliotrope-dev/finance-agent",
+    "stars": 2,
+    "updated_at": "2026-09-06T11:59:04Z",
+    "url": "https://github.com/Heliotrope-dev/finance-agent"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 5,
+    "updated_at": "2026-09-06T11:52:18Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
     "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 386,
-    "updated_at": "2026-09-06T11:43:45Z",
+    "updated_at": "2026-09-06T11:52:14Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 24,
+    "updated_at": "2026-09-06T11:56:42Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-06T11:50:34Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-09-06T11:48:57Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
     "description": "Executive Assistant Kit | Gig hunting & general coordination. \u603b\u7ecf\u7406\u52a9\u7406\u2014\u2014\u627e\u5355\u63a5\u6d3b\u5165\u53e3\u4e0e\u7efc\u5408\u4e8b\u52a1\u534f\u8c03\u3002",
@@ -18,15 +63,6 @@
     "url": "https://github.com/xhqing/ExecutiveAssistantAgent"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-06T11:39:07Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "Easy-to-use, customizable, high-quality secure code review skills for AI agents.",
     "id": "ivan-sincek/secure-code-review-agent-skills",
     "language": "\u2014",
@@ -34,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-09-06T11:36:05Z",
     "url": "https://github.com/ivan-sincek/secure-code-review-agent-skills"
-  },
-  {
-    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
-    "id": "Heliotrope-dev/finance-agent",
-    "language": "Python",
-    "name": "Heliotrope-dev/finance-agent",
-    "stars": 2,
-    "updated_at": "2026-09-06T11:34:14Z",
-    "url": "https://github.com/Heliotrope-dev/finance-agent"
   },
   {
     "description": "A compass for autonomous agents, not an operating manual.",
@@ -225,6 +252,15 @@
     "url": "https://github.com/Tonyx79/clov-ai"
   },
   {
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "id": "EvoMap/evolver",
+    "language": "JavaScript",
+    "name": "EvoMap/evolver",
+    "stars": 9094,
+    "updated_at": "2026-09-06T10:55:17Z",
+    "url": "https://github.com/EvoMap/evolver"
+  },
+  {
     "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
     "id": "Victongo/ai-daily-news",
     "language": "Ruby",
@@ -265,7 +301,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 1115,
+    "stars": 1116,
     "updated_at": "2026-09-06T10:48:56Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-06T09:41:44Z",
     "url": "https://github.com/Xocas12/hoi4-agent-harness"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-09-06T09:39:32Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Reusable, selectively loaded agent skills: authorization, judgment ownership, data lineage, side-effect safety, rollout ",
-    "id": "xiongweilin/agent-skills",
-    "language": "\u2014",
-    "name": "xiongweilin/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-09-06T09:30:37Z",
-    "url": "https://github.com/xiongweilin/agent-skills"
-  },
-  {
-    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
-    "id": "feder-cr/AIHawk",
-    "language": "Python",
-    "name": "feder-cr/AIHawk",
-    "stars": 30315,
-    "updated_at": "2026-09-06T09:30:31Z",
-    "url": "https://github.com/feder-cr/AIHawk"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-09-06T09:24:11Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   }
 ]
