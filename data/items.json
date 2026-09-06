@@ -1,5 +1,68 @@
 [
   {
+    "description": "RAG-based question answering app over the metagenomics literature",
+    "id": "nesirli/metascholar",
+    "language": "Python",
+    "name": "nesirli/metascholar",
+    "stars": 1,
+    "updated_at": "2026-09-06T15:29:47Z",
+    "url": "https://github.com/nesirli/metascholar"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 15,
+    "updated_at": "2026-09-06T15:25:20Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 3,
+    "updated_at": "2026-09-06T15:25:06Z",
+    "url": "https://github.com/sydches/yuj"
+  },
+  {
+    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
+    "id": "feder-cr/AIHawk",
+    "language": "Python",
+    "name": "feder-cr/AIHawk",
+    "stars": 30318,
+    "updated_at": "2026-09-06T15:23:38Z",
+    "url": "https://github.com/feder-cr/AIHawk"
+  },
+  {
+    "description": "Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and ",
+    "id": "genieincodebottle/generative-ai",
+    "language": "Jupyter Notebook",
+    "name": "genieincodebottle/generative-ai",
+    "stars": 2613,
+    "updated_at": "2026-09-06T15:20:55Z",
+    "url": "https://github.com/genieincodebottle/generative-ai"
+  },
+  {
+    "description": "Local-first autonomous scientific research agent with evidence governance, RAG, Polars analysis, and live clinical-trial",
+    "id": "Unpapamericano/autonomous-scientific-agent",
+    "language": "Python",
+    "name": "Unpapamericano/autonomous-scientific-agent",
+    "stars": 0,
+    "updated_at": "2026-09-06T15:20:24Z",
+    "url": "https://github.com/Unpapamericano/autonomous-scientific-agent"
+  },
+  {
+    "description": "\u6295\u8d44\u79c1\u4eba\u7ba1\u5bb6 \u00b7 A\u80a1\u57fa\u91d1 AI \u79c1\u4eba\u987e\u95ee\uff08Invest Concierge \u2014 A-share & fund AI personal investment assistant\uff09",
+    "id": "cx-ssg/invest-concierge",
+    "language": "Python",
+    "name": "cx-ssg/invest-concierge",
+    "stars": 0,
+    "updated_at": "2026-09-06T15:20:04Z",
+    "url": "https://github.com/cx-ssg/invest-concierge"
+  },
+  {
     "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
@@ -54,15 +117,6 @@
     "url": "https://github.com/Heliotrope-dev/finance-agent"
   },
   {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 3,
-    "updated_at": "2026-09-06T15:15:11Z",
-    "url": "https://github.com/sydches/yuj"
-  },
-  {
     "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
     "id": "the-priest/PriestsBasilisk",
     "language": "Python",
@@ -70,15 +124,6 @@
     "stars": 3,
     "updated_at": "2026-09-06T15:07:47Z",
     "url": "https://github.com/the-priest/PriestsBasilisk"
-  },
-  {
-    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
-    "id": "feder-cr/AIHawk",
-    "language": "Python",
-    "name": "feder-cr/AIHawk",
-    "stars": 30318,
-    "updated_at": "2026-09-06T15:05:32Z",
-    "url": "https://github.com/feder-cr/AIHawk"
   },
   {
     "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
@@ -95,7 +140,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 26,
-    "updated_at": "2026-09-06T15:06:50Z",
+    "updated_at": "2026-09-06T15:15:44Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -106,15 +151,6 @@
     "stars": 10,
     "updated_at": "2026-09-06T14:57:36Z",
     "url": "https://github.com/ThreeFish-AI/negentropy"
-  },
-  {
-    "description": "\u6295\u8d44\u79c1\u4eba\u7ba1\u5bb6 \u00b7 A\u80a1\u57fa\u91d1 AI \u79c1\u4eba\u987e\u95ee\uff08Invest Concierge \u2014 A-share & fund AI personal investment assistant\uff09",
-    "id": "cx-ssg/invest-concierge",
-    "language": "Python",
-    "name": "cx-ssg/invest-concierge",
-    "stars": 0,
-    "updated_at": "2026-09-06T14:49:05Z",
-    "url": "https://github.com/cx-ssg/invest-concierge"
   },
   {
     "description": "Open-source AI coding agent for the terminal that works with several subscriptions in one session \u2014 your Claude Pro/Max,",
@@ -130,7 +166,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 1121,
+    "stars": 1122,
     "updated_at": "2026-09-06T14:44:08Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -243,15 +279,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Local-first autonomous scientific research agent with evidence governance, RAG, Polars analysis, and live clinical-trial",
-    "id": "Unpapamericano/autonomous-scientific-agent",
-    "language": "Python",
-    "name": "Unpapamericano/autonomous-scientific-agent",
-    "stars": 0,
-    "updated_at": "2026-09-06T14:29:11Z",
-    "url": "https://github.com/Unpapamericano/autonomous-scientific-agent"
-  },
-  {
     "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
     "id": "EvoMap/evolver",
     "language": "JavaScript",
@@ -261,21 +288,12 @@
     "url": "https://github.com/EvoMap/evolver"
   },
   {
-    "description": "Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and ",
-    "id": "genieincodebottle/generative-ai",
-    "language": "Jupyter Notebook",
-    "name": "genieincodebottle/generative-ai",
-    "stars": 2613,
-    "updated_at": "2026-09-06T13:40:37Z",
-    "url": "https://github.com/genieincodebottle/generative-ai"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-06T14:48:09Z",
+    "updated_at": "2026-09-06T15:19:46Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-06T12:17:14Z",
     "url": "https://github.com/tachyon-r/first-principles-agent-soul"
-  },
-  {
-    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
-    "id": "expectedparrot/edsl",
-    "language": "Python",
-    "name": "expectedparrot/edsl",
-    "stars": 493,
-    "updated_at": "2026-09-06T14:07:07Z",
-    "url": "https://github.com/expectedparrot/edsl"
-  },
-  {
-    "description": "\u624b\u673a Telegram \u9065\u63a7 OpenAI Codex\uff5cHermes Gateway + codex_app_server\uff5c\u8e29\u5751: danger-no-sandbox / \u91cd\u590d\u56de\u590d / home channel / BotFather",
-    "id": "dll61/phone-codex",
-    "language": "\u2014",
-    "name": "dll61/phone-codex",
-    "stars": 1,
-    "updated_at": "2026-09-06T12:12:15Z",
-    "url": "https://github.com/dll61/phone-codex"
   }
 ]
