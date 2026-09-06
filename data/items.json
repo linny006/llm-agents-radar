@@ -1,12 +1,48 @@
 [
   {
+    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
+    "id": "wufufu770/d2d",
+    "language": "JavaScript",
+    "name": "wufufu770/d2d",
+    "stars": 0,
+    "updated_at": "2026-09-06T03:12:59Z",
+    "url": "https://github.com/wufufu770/d2d"
+  },
+  {
+    "description": "Abandoned, unsupported research archive for a local-first, model-agnostic LLM agent harness exploring orchestration, cod",
+    "id": "DITlieD/ELAI-archive",
+    "language": "Rust",
+    "name": "DITlieD/ELAI-archive",
+    "stars": 4,
+    "updated_at": "2026-09-06T03:06:13Z",
+    "url": "https://github.com/DITlieD/ELAI-archive"
+  },
+  {
+    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
+    "id": "feder-cr/AIHawk",
+    "language": "Python",
+    "name": "feder-cr/AIHawk",
+    "stars": 30316,
+    "updated_at": "2026-09-06T03:03:34Z",
+    "url": "https://github.com/feder-cr/AIHawk"
+  },
+  {
     "description": "Usa Qlib como cerebro cuant y Vibe-Trading como manos: scores de acciones por ML servidos a un agente de trading LLM v\u00eda",
     "id": "Ax3lsk3r3/QuantVibe",
     "language": "TypeScript",
     "name": "Ax3lsk3r3/QuantVibe",
     "stars": 2,
-    "updated_at": "2026-09-06T02:56:22Z",
+    "updated_at": "2026-09-06T03:01:48Z",
     "url": "https://github.com/Ax3lsk3r3/QuantVibe"
+  },
+  {
+    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
+    "id": "Heliotrope-dev/finance-agent",
+    "language": "Python",
+    "name": "Heliotrope-dev/finance-agent",
+    "stars": 2,
+    "updated_at": "2026-09-06T03:01:09Z",
+    "url": "https://github.com/Heliotrope-dev/finance-agent"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -14,26 +50,8 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-06T02:59:27Z",
+    "updated_at": "2026-09-06T03:12:43Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
-    "id": "wufufu770/d2d",
-    "language": "JavaScript",
-    "name": "wufufu770/d2d",
-    "stars": 0,
-    "updated_at": "2026-09-06T02:47:55Z",
-    "url": "https://github.com/wufufu770/d2d"
-  },
-  {
-    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
-    "id": "feder-cr/AIHawk",
-    "language": "Python",
-    "name": "feder-cr/AIHawk",
-    "stars": 30315,
-    "updated_at": "2026-09-06T02:32:04Z",
-    "url": "https://github.com/feder-cr/AIHawk"
   },
   {
     "description": "Open-source model-agnostic AI coding agent for the terminal. A Claude Code & Codex CLI alternative: any OpenRouter model",
@@ -68,7 +86,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 26,
-    "updated_at": "2026-09-06T02:41:24Z",
+    "updated_at": "2026-09-06T03:03:56Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -178,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T00:57:56Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Abandoned, unsupported research archive for a local-first, model-agnostic LLM agent harness exploring orchestration, cod",
-    "id": "DITlieD/ELAI-archive",
-    "language": "Rust",
-    "name": "DITlieD/ELAI-archive",
-    "stars": 4,
-    "updated_at": "2026-09-06T00:53:46Z",
-    "url": "https://github.com/DITlieD/ELAI-archive"
   },
   {
     "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-05T21:18:20Z",
     "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
-    "id": "HELLOCODINGTR/AgentForge",
-    "language": "\u2014",
-    "name": "HELLOCODINGTR/AgentForge",
-    "stars": 1,
-    "updated_at": "2026-09-05T21:14:32Z",
-    "url": "https://github.com/HELLOCODINGTR/AgentForge"
   }
 ]
