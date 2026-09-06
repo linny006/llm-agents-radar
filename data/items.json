@@ -1,5 +1,59 @@
 [
   {
+    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
+    "id": "expectedparrot/edsl",
+    "language": "Python",
+    "name": "expectedparrot/edsl",
+    "stars": 493,
+    "updated_at": "2026-09-06T12:13:25Z",
+    "url": "https://github.com/expectedparrot/edsl"
+  },
+  {
+    "description": "\u624b\u673a Telegram \u9065\u63a7 OpenAI Codex\uff5cHermes Gateway + codex_app_server\uff5c\u8e29\u5751: danger-no-sandbox / \u91cd\u590d\u56de\u590d / home channel / BotFather",
+    "id": "dll61/phone-codex",
+    "language": "\u2014",
+    "name": "dll61/phone-codex",
+    "stars": 1,
+    "updated_at": "2026-09-06T12:12:15Z",
+    "url": "https://github.com/dll61/phone-codex"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-09-06T12:11:04Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 24,
+    "updated_at": "2026-09-06T12:13:34Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-09-06T12:03:45Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-06T12:03:09Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
     "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
     "id": "Heliotrope-dev/finance-agent",
     "language": "Python",
@@ -22,27 +76,9 @@
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 386,
+    "stars": 387,
     "updated_at": "2026-09-06T11:52:14Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-06T11:56:42Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-06T11:50:34Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-06T10:05:28Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Human-supervised career decision safety with claim graphs, high-stakes gates, and append-only audit.",
-    "id": "OnourImpram/vocation-os",
-    "language": "TypeScript",
-    "name": "OnourImpram/vocation-os",
-    "stars": 0,
-    "updated_at": "2026-09-06T10:03:19Z",
-    "url": "https://github.com/OnourImpram/vocation-os"
-  },
-  {
-    "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
-    "id": "HKUDS/DeepCode",
-    "language": "Python",
-    "name": "HKUDS/DeepCode",
-    "stars": 16495,
-    "updated_at": "2026-09-06T10:01:42Z",
-    "url": "https://github.com/HKUDS/DeepCode"
-  },
-  {
-    "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
-    "id": "hoshiyomiX/stellar-trails",
-    "language": "Shell",
-    "name": "hoshiyomiX/stellar-trails",
-    "stars": 0,
-    "updated_at": "2026-09-06T09:50:58Z",
-    "url": "https://github.com/hoshiyomiX/stellar-trails"
-  },
-  {
-    "description": "Provider-neutral agentic harness for playing Hearts of Iron IV with an LLM: clock-owning turn loop, reflex/planner split",
-    "id": "Xocas12/hoi4-agent-harness",
-    "language": "Python",
-    "name": "Xocas12/hoi4-agent-harness",
-    "stars": 0,
-    "updated_at": "2026-09-06T09:41:44Z",
-    "url": "https://github.com/Xocas12/hoi4-agent-harness"
   }
 ]
