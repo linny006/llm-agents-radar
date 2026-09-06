@@ -5,8 +5,17 @@
     "language": "TypeScript",
     "name": "khudayarovich/onflip-agent",
     "stars": 2,
-    "updated_at": "2026-09-06T21:54:58Z",
+    "updated_at": "2026-09-06T22:07:03Z",
     "url": "https://github.com/khudayarovich/onflip-agent"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-06T22:01:54Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
@@ -40,7 +49,7 @@
     "id": "feder-cr/AIHawk",
     "language": "Python",
     "name": "feder-cr/AIHawk",
-    "stars": 30318,
+    "stars": 30317,
     "updated_at": "2026-09-06T21:52:44Z",
     "url": "https://github.com/feder-cr/AIHawk"
   },
@@ -52,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-09-06T21:50:35Z",
     "url": "https://github.com/grauwolf32/contractor"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-06T21:48:06Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "A Python engine and in-process arena for running, replaying, and analyzing 6 nimmt! games with deterministic bots and LL",

@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-06 22:00 UTC
+> ⏰ Last updated: 2026-09-06 22:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,12 +43,12 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [khudayarovich/onflip-agent](https://github.com/khudayarovich/onflip-agent) | 2 | TypeScript | 2026-09-06 | An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin |
-| 2 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 30 | JavaScript | 2026-09-06 | Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies  |
-| 3 | [ivan-sincek/threat-modeling-agent-skills](https://github.com/ivan-sincek/threat-modeling-agent-skills) | 2 | — | 2026-09-06 | Easy-to-use, customizable, high-quality threat modeling skills for AI agents. |
-| 4 | [ivan-sincek/secure-code-review-agent-skills](https://github.com/ivan-sincek/secure-code-review-agent-skills) | 1 | — | 2026-09-06 | Easy-to-use, customizable, high-quality secure code review skills for AI agents. |
-| 5 | [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) | 30318 | Python | 2026-09-06 | Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M |
-| 6 | [grauwolf32/contractor](https://github.com/grauwolf32/contractor) | 1 | Go | 2026-09-06 | An LLM agent for building OpenAPI specifications based on the given code |
-| 7 | [genaforvena/lte-workstation](https://github.com/genaforvena/lte-workstation) | 8 | Shell | 2026-09-06 | An autopoiesic kefir for computing machines |
+| 2 | [genaforvena/lte-workstation](https://github.com/genaforvena/lte-workstation) | 8 | Shell | 2026-09-06 | An autopoiesic kefir for computing machines |
+| 3 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 30 | JavaScript | 2026-09-06 | Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies  |
+| 4 | [ivan-sincek/threat-modeling-agent-skills](https://github.com/ivan-sincek/threat-modeling-agent-skills) | 2 | — | 2026-09-06 | Easy-to-use, customizable, high-quality threat modeling skills for AI agents. |
+| 5 | [ivan-sincek/secure-code-review-agent-skills](https://github.com/ivan-sincek/secure-code-review-agent-skills) | 1 | — | 2026-09-06 | Easy-to-use, customizable, high-quality secure code review skills for AI agents. |
+| 6 | [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) | 30317 | Python | 2026-09-06 | Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M |
+| 7 | [grauwolf32/contractor](https://github.com/grauwolf32/contractor) | 1 | Go | 2026-09-06 | An LLM agent for building OpenAPI specifications based on the given code |
 | 8 | [denisakkavim/sixnimmt](https://github.com/denisakkavim/sixnimmt) | 0 | Python | 2026-09-06 | A Python engine and in-process arena for running, replaying, and analyzing 6 nimmt! games with deterministic bots and LL |
 | 9 | [555cute/r20-quantum-trader](https://github.com/555cute/r20-quantum-trader) | 100 | Python | 2026-09-06 | ⚡ LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI  |
 | 10 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-09-06 | AI-powered image generation and chat studio |
