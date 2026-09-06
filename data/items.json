@@ -1,5 +1,50 @@
 [
   {
+    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
+    "id": "diaban/jobsmith",
+    "language": "Python",
+    "name": "diaban/jobsmith",
+    "stars": 0,
+    "updated_at": "2026-09-06T15:44:51Z",
+    "url": "https://github.com/diaban/jobsmith"
+  },
+  {
+    "description": "An agent for coding and everyday tasks, powered by the ChatGPT account you already pay for. No API key, no per-token bil",
+    "id": "khudayarovich/onflip-agent",
+    "language": "TypeScript",
+    "name": "khudayarovich/onflip-agent",
+    "stars": 2,
+    "updated_at": "2026-09-06T15:42:22Z",
+    "url": "https://github.com/khudayarovich/onflip-agent"
+  },
+  {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 3,
+    "updated_at": "2026-09-06T15:39:25Z",
+    "url": "https://github.com/sydches/yuj"
+  },
+  {
+    "description": "An AI brain for Unitree robot dogs: one sentence in, guarded motion out.",
+    "id": "LiSheng5/argos",
+    "language": "Python",
+    "name": "LiSheng5/argos",
+    "stars": 0,
+    "updated_at": "2026-09-06T15:38:46Z",
+    "url": "https://github.com/LiSheng5/argos"
+  },
+  {
+    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
+    "id": "karvidsson/kbots",
+    "language": "Python",
+    "name": "karvidsson/kbots",
+    "stars": 0,
+    "updated_at": "2026-09-06T15:38:53Z",
+    "url": "https://github.com/karvidsson/kbots"
+  },
+  {
     "description": "RAG-based question answering app over the metagenomics literature",
     "id": "nesirli/metascholar",
     "language": "Python",
@@ -13,25 +58,16 @@
     "id": "SuperdeMan/cockpit-agent",
     "language": "Python",
     "name": "SuperdeMan/cockpit-agent",
-    "stars": 15,
+    "stars": 16,
     "updated_at": "2026-09-06T15:25:20Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 3,
-    "updated_at": "2026-09-06T15:25:06Z",
-    "url": "https://github.com/sydches/yuj"
   },
   {
     "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
     "id": "feder-cr/AIHawk",
     "language": "Python",
     "name": "feder-cr/AIHawk",
-    "stars": 30318,
+    "stars": 30319,
     "updated_at": "2026-09-06T15:23:38Z",
     "url": "https://github.com/feder-cr/AIHawk"
   },
@@ -90,15 +126,6 @@
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
-    "description": "An agent for coding and everyday tasks, powered by the ChatGPT account you already pay for. No API key, no per-token bil",
-    "id": "khudayarovich/onflip-agent",
-    "language": "TypeScript",
-    "name": "khudayarovich/onflip-agent",
-    "stars": 2,
-    "updated_at": "2026-09-06T15:10:55Z",
-    "url": "https://github.com/khudayarovich/onflip-agent"
-  },
-  {
     "description": "An AI-powered autonomous penetration testing platform that performs reconnaissance, vulnerability assessment, exploitati",
     "id": "ThorJS24/ai-autonomous-pentest",
     "language": "Python",
@@ -140,7 +167,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 26,
-    "updated_at": "2026-09-06T15:15:44Z",
+    "updated_at": "2026-09-06T15:42:55Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -203,7 +230,7 @@
     "language": "Java",
     "name": "ChanTso/citybuddy",
     "stars": 0,
-    "updated_at": "2026-09-06T15:15:00Z",
+    "updated_at": "2026-09-06T15:31:54Z",
     "url": "https://github.com/ChanTso/citybuddy"
   },
   {
@@ -396,15 +423,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
-    "id": "karvidsson/kbots",
-    "language": "Python",
-    "name": "karvidsson/kbots",
-    "stars": 0,
-    "updated_at": "2026-09-06T13:24:00Z",
-    "url": "https://github.com/karvidsson/kbots"
-  },
-  {
     "description": "Production-ready template for a self-hosted Agent Protocol server: FastAPI + LangGraph + PostgreSQL (+ optional Redis), ",
     "id": "TekkenSteve/fastapi_langgraph_template",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-06T12:30:51Z",
     "url": "https://github.com/BIRU-sketch/whizkit"
-  },
-  {
-    "description": "Human-supervised career decision safety with claim graphs, high-stakes gates, and append-only audit.",
-    "id": "OnourImpram/vocation-os",
-    "language": "TypeScript",
-    "name": "OnourImpram/vocation-os",
-    "stars": 0,
-    "updated_at": "2026-09-06T12:29:42Z",
-    "url": "https://github.com/OnourImpram/vocation-os"
-  },
-  {
-    "description": "A compass for autonomous agents, not an operating manual.",
-    "id": "tachyon-r/first-principles-agent-soul",
-    "language": "\u2014",
-    "name": "tachyon-r/first-principles-agent-soul",
-    "stars": 1,
-    "updated_at": "2026-09-06T12:17:14Z",
-    "url": "https://github.com/tachyon-r/first-principles-agent-soul"
   }
 ]
