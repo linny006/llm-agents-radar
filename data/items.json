@@ -1,5 +1,50 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 24,
+    "updated_at": "2026-09-06T06:44:20Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "LLM-powered TeamSpeak bot | LLM\u9a71\u52a8\u7684TeamSpeak\u673a\u5668\u4eba",
+    "id": "Dr1mH4X/TeamSpeakClaw",
+    "language": "Rust",
+    "name": "Dr1mH4X/TeamSpeakClaw",
+    "stars": 6,
+    "updated_at": "2026-09-06T06:44:14Z",
+    "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
+  },
+  {
+    "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
+    "id": "puremachinery/carapace",
+    "language": "Rust",
+    "name": "puremachinery/carapace",
+    "stars": 47,
+    "updated_at": "2026-09-06T06:41:02Z",
+    "url": "https://github.com/puremachinery/carapace"
+  },
+  {
+    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
+    "id": "Heliotrope-dev/finance-agent",
+    "language": "Python",
+    "name": "Heliotrope-dev/finance-agent",
+    "stars": 2,
+    "updated_at": "2026-09-06T06:38:53Z",
+    "url": "https://github.com/Heliotrope-dev/finance-agent"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 4,
+    "updated_at": "2026-09-06T06:35:21Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
     "description": "An experimental autonomous AI agent that lives on your machine and talks to you through Telegram. One Rust binary.",
     "id": "wunsiang-cheng/redrock",
     "language": "Rust",
@@ -16,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T06:19:49Z",
     "url": "https://github.com/kangwoo/aimon-core"
-  },
-  {
-    "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
-    "id": "puremachinery/carapace",
-    "language": "Rust",
-    "name": "puremachinery/carapace",
-    "stars": 47,
-    "updated_at": "2026-09-06T06:21:31Z",
-    "url": "https://github.com/puremachinery/carapace"
   },
   {
     "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
@@ -70,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-09-06T06:14:46Z",
     "url": "https://github.com/onembyte/kolkrabbi"
-  },
-  {
-    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
-    "id": "Heliotrope-dev/finance-agent",
-    "language": "Python",
-    "name": "Heliotrope-dev/finance-agent",
-    "stars": 2,
-    "updated_at": "2026-09-06T06:12:32Z",
-    "url": "https://github.com/Heliotrope-dev/finance-agent"
   },
   {
     "description": "Autonomous execution agent on Discord \u2014 74 tools, shell access, browser automation, scheduled tasks, sub-agents, knowled",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-06T04:05:56Z",
     "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 3,
-    "updated_at": "2026-09-06T04:05:21Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-09-06T04:03:27Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-09-06T04:03:03Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
   }
 ]
