@@ -1,5 +1,14 @@
 [
   {
+    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 30,
+    "updated_at": "2026-09-06T07:21:56Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
     "description": "",
     "id": "apolmig/fronteraeval",
     "language": "JavaScript",
@@ -148,7 +157,7 @@
     "id": "titanwings/distilly",
     "language": "TypeScript",
     "name": "titanwings/distilly",
-    "stars": 24380,
+    "stars": 24381,
     "updated_at": "2026-09-06T06:18:46Z",
     "url": "https://github.com/titanwings/distilly"
   },
@@ -158,7 +167,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-09-06T06:16:24Z",
+    "updated_at": "2026-09-06T07:17:50Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -232,15 +241,6 @@
     "stars": 6,
     "updated_at": "2026-09-06T05:53:02Z",
     "url": "https://github.com/C-Rhapsody/gemini-connector"
-  },
-  {
-    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 30,
-    "updated_at": "2026-09-06T05:50:31Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
