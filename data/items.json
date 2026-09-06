@@ -1,12 +1,30 @@
 [
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-06T17:12:01Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
+    "description": "Usa Qlib como cerebro cuant y Vibe-Trading como manos: scores de acciones por ML servidos a un agente de trading LLM v\u00eda",
+    "id": "Ax3lsk3r3/QuantVibe",
+    "language": "TypeScript",
+    "name": "Ax3lsk3r3/QuantVibe",
+    "stars": 2,
+    "updated_at": "2026-09-06T17:28:48Z",
+    "url": "https://github.com/Ax3lsk3r3/QuantVibe"
+  },
+  {
+    "description": "\u7eaf Kotlin \u539f\u751f Android AI \u667a\u80fd\u4f53\uff1a\u591a\u6a21\u578b\u63a5\u5165\u3001\u5b50\u667a\u80fd\u4f53\u534f\u4f5c\u3001\u5728\u7ebf\u63d2\u4ef6\u5e02\u573a\u3001\u6280\u80fd\u81ea\u52a8\u5f15\u7528\u3001root/Ubuntu \u7ec8\u7aef\u3001\u957f\u671f\u8bb0\u5fc6",
+    "id": "kusesad-1122/XINCODE-Public",
+    "language": "C",
+    "name": "kusesad-1122/XINCODE-Public",
+    "stars": 20,
+    "updated_at": "2026-09-06T17:27:33Z",
+    "url": "https://github.com/kusesad-1122/XINCODE-Public"
+  },
+  {
+    "description": "Assistente Virtual Localhosted",
+    "id": "HercoZauZau/Baghdad",
+    "language": "JavaScript",
+    "name": "HercoZauZau/Baghdad",
+    "stars": 2,
+    "updated_at": "2026-09-06T17:25:33Z",
+    "url": "https://github.com/HercoZauZau/Baghdad"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -14,17 +32,8 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-06T17:11:07Z",
+    "updated_at": "2026-09-06T17:25:14Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-09-06T17:09:08Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
@@ -32,17 +41,62 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-09-06T17:08:11Z",
+    "updated_at": "2026-09-06T17:29:11Z",
     "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
+    "id": "ChanTso/citybuddy",
+    "language": "Java",
+    "name": "ChanTso/citybuddy",
+    "stars": 0,
+    "updated_at": "2026-09-06T17:21:43Z",
+    "url": "https://github.com/ChanTso/citybuddy"
+  },
+  {
+    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
+    "id": "ravisinghrajput95/kubewhy",
+    "language": "Python",
+    "name": "ravisinghrajput95/kubewhy",
+    "stars": 0,
+    "updated_at": "2026-09-06T17:21:03Z",
+    "url": "https://github.com/ravisinghrajput95/kubewhy"
   },
   {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 606,
-    "updated_at": "2026-09-06T17:12:46Z",
+    "stars": 607,
+    "updated_at": "2026-09-06T17:29:32Z",
     "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-06T17:17:52Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "A provider-agnostic coding-agent harness for autonomous Python repository bug repair, with Docker verification and repro",
+    "id": "ztsstz711-afk/RepoFix-Harness",
+    "language": "Python",
+    "name": "ztsstz711-afk/RepoFix-Harness",
+    "stars": 0,
+    "updated_at": "2026-09-06T17:15:18Z",
+    "url": "https://github.com/ztsstz711-afk/RepoFix-Harness"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-09-06T17:29:40Z",
+    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "An agent for coding and everyday tasks, powered by the ChatGPT account you already pay for. No API key, no per-token bil",
@@ -142,24 +196,6 @@
     "stars": 1,
     "updated_at": "2026-09-06T16:32:49Z",
     "url": "https://github.com/nesirli/metascholar"
-  },
-  {
-    "description": "A provider-agnostic coding-agent harness for autonomous Python repository bug repair, with Docker verification and repro",
-    "id": "ztsstz711-afk/RepoFix-Harness",
-    "language": "Python",
-    "name": "ztsstz711-afk/RepoFix-Harness",
-    "stars": 0,
-    "updated_at": "2026-09-06T16:27:15Z",
-    "url": "https://github.com/ztsstz711-afk/RepoFix-Harness"
-  },
-  {
-    "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
-    "id": "ChanTso/citybuddy",
-    "language": "Java",
-    "name": "ChanTso/citybuddy",
-    "stars": 0,
-    "updated_at": "2026-09-06T17:07:33Z",
-    "url": "https://github.com/ChanTso/citybuddy"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
@@ -338,7 +374,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 26,
-    "updated_at": "2026-09-06T17:13:14Z",
+    "updated_at": "2026-09-06T17:29:48Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -405,48 +441,12 @@
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
-    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
-    "id": "expectedparrot/edsl",
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
     "language": "Python",
-    "name": "expectedparrot/edsl",
-    "stars": 494,
-    "updated_at": "2026-09-06T17:08:50Z",
-    "url": "https://github.com/expectedparrot/edsl"
-  },
-  {
-    "description": "Provider-neutral agentic harness for playing Hearts of Iron IV with an LLM: clock-owning turn loop, reflex/planner split",
-    "id": "Xocas12/hoi4-agent-harness",
-    "language": "Python",
-    "name": "Xocas12/hoi4-agent-harness",
-    "stars": 0,
-    "updated_at": "2026-09-06T14:06:44Z",
-    "url": "https://github.com/Xocas12/hoi4-agent-harness"
-  },
-  {
-    "description": "Multi-agent web harvesting on LangGraph's Supervisor pattern: 9 specialist agents, deterministic-first pipeline where th",
-    "id": "LingMi1/langgraph-multi-agent-crawler",
-    "language": "Python",
-    "name": "LingMi1/langgraph-multi-agent-crawler",
-    "stars": 0,
-    "updated_at": "2026-09-06T14:06:39Z",
-    "url": "https://github.com/LingMi1/langgraph-multi-agent-crawler"
-  },
-  {
-    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 30,
-    "updated_at": "2026-09-06T14:06:35Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
-    "description": "Reproducible AI4SE agent with multi-tool planning, hybrid RAG, evaluation, and PostgreSQL operations.",
-    "id": "Isoldelu/software-engineering-agent",
-    "language": "Python",
-    "name": "Isoldelu/software-engineering-agent",
-    "stars": 0,
-    "updated_at": "2026-09-06T13:56:12Z",
-    "url": "https://github.com/Isoldelu/software-engineering-agent"
+    "name": "areal-project/AReaL",
+    "stars": 5729,
+    "updated_at": "2026-09-06T14:17:07Z",
+    "url": "https://github.com/areal-project/AReaL"
   }
 ]
