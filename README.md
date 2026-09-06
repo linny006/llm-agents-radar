@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-06 02:45 UTC
+> ⏰ Last updated: 2026-09-06 03:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,27 +42,27 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [wufufu770/d2d](https://github.com/wufufu770/d2d) | 0 | JavaScript | 2026-09-06 | 三环并行渗透测试 dsh 插件 — discovery/deep/creative 三环 + 独立 verify 闭环，Kuzu 图黑板共享状态，多 agent 自调度、按角色模型策略、自学习知识脑。仅用于授权安全测试（SRC/靶场/自有资 |
-| 2 | [ljchang/mecha](https://github.com/ljchang/mecha) | 6 | Rust | 2026-09-06 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
-| 3 | [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) | 30315 | Python | 2026-09-06 | Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M |
-| 4 | [onembyte/kolkrabbi](https://github.com/onembyte/kolkrabbi) | 1 | Go | 2026-09-06 | Open-source model-agnostic AI coding agent for the terminal. A Claude Code & Codex CLI alternative: any OpenRouter model |
-| 5 | [aviskaar/zorp](https://github.com/aviskaar/zorp) | 3 | Rust | 2026-09-06 | A research agent for scientific discovery — part of Aviskaar's applied AI research suite. |
-| 6 | [puremachinery/carapace](https://github.com/puremachinery/carapace) | 47 | Rust | 2026-09-06 | A secure, stable Rust alternative to openclaw/moltbot/clawdbot |
-| 7 | [Cyrax321/CONTINUUM](https://github.com/Cyrax321/CONTINUUM) | 26 | Python | 2026-09-06 | CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id |
-| 8 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-09-06 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 9 | [kangwoo/aimon-core](https://github.com/kangwoo/aimon-core) | 0 | Java | 2026-09-06 | A ReAct agent framework for Java — build autonomous LLM-powered agents, embeddable in any Java application |
-| 10 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 384 | Python | 2026-09-06 | Self-Programming AI Assistant. Capture, automate, and refine all your workflows. |
-| 11 | [o-ga09/genkit-agent-cloud-cost-estimate](https://github.com/o-ga09/genkit-agent-cloud-cost-estimate) | 0 | Go | 2026-09-06 | AWSの構成をチャットで相談しながら決め、数式入りのコスト見積もりExcelと構成図を出力するエージェント（Genkit Go） |
-| 12 | [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | 3827 | JavaScript | 2026-09-06 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) |
-| 13 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-09-06 | AI-powered image generation and chat studio |
-| 14 | [emmmdty/heng-agent](https://github.com/emmmdty/heng-agent) | 0 | Python | 2026-09-06 | 「衡 · Heng」跨境电商购物 Agent 的可信度工程。继承自原项目 globex-agent 并全面改造：检索/到手价/组合优化/下单全链路与长期记忆；8 类确定性判据、八项零成本提交门禁，每道护栏带真红证据链；自建评测（44+11  |
-| 15 | [Ax3lsk3r3/QuantVibe](https://github.com/Ax3lsk3r3/QuantVibe) | 2 | TypeScript | 2026-09-06 | Usa Qlib como cerebro cuant y Vibe-Trading como manos: scores de acciones por ML servidos a un agente de trading LLM vía |
+| 1 | [Ax3lsk3r3/QuantVibe](https://github.com/Ax3lsk3r3/QuantVibe) | 2 | TypeScript | 2026-09-06 | Usa Qlib como cerebro cuant y Vibe-Trading como manos: scores de acciones por ML servidos a un agente de trading LLM vía |
+| 2 | [ljchang/mecha](https://github.com/ljchang/mecha) | 7 | Rust | 2026-09-06 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
+| 3 | [wufufu770/d2d](https://github.com/wufufu770/d2d) | 0 | JavaScript | 2026-09-06 | 三环并行渗透测试 dsh 插件 — discovery/deep/creative 三环 + 独立 verify 闭环，Kuzu 图黑板共享状态，多 agent 自调度、按角色模型策略、自学习知识脑。仅用于授权安全测试（SRC/靶场/自有资 |
+| 4 | [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) | 30315 | Python | 2026-09-06 | Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M |
+| 5 | [onembyte/kolkrabbi](https://github.com/onembyte/kolkrabbi) | 1 | Go | 2026-09-06 | Open-source model-agnostic AI coding agent for the terminal. A Claude Code & Codex CLI alternative: any OpenRouter model |
+| 6 | [aviskaar/zorp](https://github.com/aviskaar/zorp) | 3 | Rust | 2026-09-06 | A research agent for scientific discovery — part of Aviskaar's applied AI research suite. |
+| 7 | [puremachinery/carapace](https://github.com/puremachinery/carapace) | 47 | Rust | 2026-09-06 | A secure, stable Rust alternative to openclaw/moltbot/clawdbot |
+| 8 | [Cyrax321/CONTINUUM](https://github.com/Cyrax321/CONTINUUM) | 26 | Python | 2026-09-06 | CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id |
+| 9 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-09-06 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
+| 10 | [kangwoo/aimon-core](https://github.com/kangwoo/aimon-core) | 0 | Java | 2026-09-06 | A ReAct agent framework for Java — build autonomous LLM-powered agents, embeddable in any Java application |
+| 11 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 384 | Python | 2026-09-06 | Self-Programming AI Assistant. Capture, automate, and refine all your workflows. |
+| 12 | [o-ga09/genkit-agent-cloud-cost-estimate](https://github.com/o-ga09/genkit-agent-cloud-cost-estimate) | 0 | Go | 2026-09-06 | AWSの構成をチャットで相談しながら決め、数式入りのコスト見積もりExcelと構成図を出力するエージェント（Genkit Go） |
+| 13 | [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | 3827 | JavaScript | 2026-09-06 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) |
+| 14 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-09-06 | AI-powered image generation and chat studio |
+| 15 | [emmmdty/heng-agent](https://github.com/emmmdty/heng-agent) | 0 | Python | 2026-09-06 | 「衡 · Heng」跨境电商购物 Agent 的可信度工程。继承自原项目 globex-agent 并全面改造：检索/到手价/组合优化/下单全链路与长期记忆；8 类确定性判据、八项零成本提交门禁，每道护栏带真红证据链；自建评测（44+11  |
 | 16 | [yakeworld/Synthos](https://github.com/yakeworld/Synthos) | 6 | Python | 2026-09-06 | Synthos — 自主进化学术科研平台 / A self-evolving cognitive operating system for scientific research. 7 cognitive atoms + evolution |
 | 17 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 223 | TypeScript | 2026-09-06 | A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi |
 | 18 | [NosytLabs/skillstate-proxy](https://github.com/NosytLabs/skillstate-proxy) | 2 | TypeScript | 2026-09-06 | OpenAI-compatible proxy enforcing SKILL.state (arXiv:2608.26263) — bounded O(1) prompts, O(T) total tokens for long-hori |
 | 19 | [dsswift/ion](https://github.com/dsswift/ion) | 4 | TypeScript | 2026-09-06 | Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions. |
 | 20 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-09-06 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 21 | [DITlieD/ELAI-archive](https://github.com/DITlieD/ELAI-archive) | 3 | Rust | 2026-09-06 | Abandoned, unsupported research archive for a local-first, model-agnostic LLM agent harness exploring orchestration, cod |
+| 21 | [DITlieD/ELAI-archive](https://github.com/DITlieD/ELAI-archive) | 4 | Rust | 2026-09-06 | Abandoned, unsupported research archive for a local-first, model-agnostic LLM agent harness exploring orchestration, cod |
 | 22 | [sydches/yuj](https://github.com/sydches/yuj) | 2 | Python | 2026-09-06 | Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L |
 | 23 | [410979729/scope-recall-hermes](https://github.com/410979729/scope-recall-hermes) | 262 | Python | 2026-09-06 | Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval. |
 | 24 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-09-06 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
