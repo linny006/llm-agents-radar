@@ -1,21 +1,66 @@
 [
   {
+    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
+    "id": "Torvian-eu/chatbot",
+    "language": "Kotlin",
+    "name": "Torvian-eu/chatbot",
+    "stars": 4,
+    "updated_at": "2026-09-06T17:43:22Z",
+    "url": "https://github.com/Torvian-eu/chatbot"
+  },
+  {
     "description": "Usa Qlib como cerebro cuant y Vibe-Trading como manos: scores de acciones por ML servidos a un agente de trading LLM v\u00eda",
     "id": "Ax3lsk3r3/QuantVibe",
     "language": "TypeScript",
     "name": "Ax3lsk3r3/QuantVibe",
     "stars": 2,
-    "updated_at": "2026-09-06T17:28:48Z",
+    "updated_at": "2026-09-06T17:42:53Z",
     "url": "https://github.com/Ax3lsk3r3/QuantVibe"
   },
   {
-    "description": "\u7eaf Kotlin \u539f\u751f Android AI \u667a\u80fd\u4f53\uff1a\u591a\u6a21\u578b\u63a5\u5165\u3001\u5b50\u667a\u80fd\u4f53\u534f\u4f5c\u3001\u5728\u7ebf\u63d2\u4ef6\u5e02\u573a\u3001\u6280\u80fd\u81ea\u52a8\u5f15\u7528\u3001root/Ubuntu \u7ec8\u7aef\u3001\u957f\u671f\u8bb0\u5fc6",
-    "id": "kusesad-1122/XINCODE-Public",
-    "language": "C",
-    "name": "kusesad-1122/XINCODE-Public",
-    "stars": 20,
-    "updated_at": "2026-09-06T17:27:33Z",
-    "url": "https://github.com/kusesad-1122/XINCODE-Public"
+    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 5,
+    "updated_at": "2026-09-06T17:43:24Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 8,
+    "updated_at": "2026-09-06T17:42:42Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "A provider-agnostic coding-agent harness for autonomous Python repository bug repair, with Docker verification and repro",
+    "id": "ztsstz711-afk/RepoFix-Harness",
+    "language": "Python",
+    "name": "ztsstz711-afk/RepoFix-Harness",
+    "stars": 0,
+    "updated_at": "2026-09-06T17:35:48Z",
+    "url": "https://github.com/ztsstz711-afk/RepoFix-Harness"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 607,
+    "updated_at": "2026-09-06T17:34:50Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-06T17:33:47Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Assistente Virtual Localhosted",
@@ -23,8 +68,35 @@
     "language": "JavaScript",
     "name": "HercoZauZau/Baghdad",
     "stars": 2,
-    "updated_at": "2026-09-06T17:25:33Z",
+    "updated_at": "2026-09-06T17:33:32Z",
     "url": "https://github.com/HercoZauZau/Baghdad"
+  },
+  {
+    "description": "\u7eaf Kotlin \u539f\u751f Android AI \u667a\u80fd\u4f53\uff1a\u591a\u6a21\u578b\u63a5\u5165\u3001\u5b50\u667a\u80fd\u4f53\u534f\u4f5c\u3001\u5728\u7ebf\u63d2\u4ef6\u5e02\u573a\u3001\u6280\u80fd\u81ea\u52a8\u5f15\u7528\u3001root/Ubuntu \u7ec8\u7aef\u3001\u957f\u671f\u8bb0\u5fc6",
+    "id": "kusesad-1122/XINCODE-Public",
+    "language": "C",
+    "name": "kusesad-1122/XINCODE-Public",
+    "stars": 20,
+    "updated_at": "2026-09-06T17:33:01Z",
+    "url": "https://github.com/kusesad-1122/XINCODE-Public"
+  },
+  {
+    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
+    "id": "ravisinghrajput95/kubewhy",
+    "language": "Python",
+    "name": "ravisinghrajput95/kubewhy",
+    "stars": 0,
+    "updated_at": "2026-09-06T17:31:19Z",
+    "url": "https://github.com/ravisinghrajput95/kubewhy"
+  },
+  {
+    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
+    "id": "diaban/jobsmith",
+    "language": "Python",
+    "name": "diaban/jobsmith",
+    "stars": 0,
+    "updated_at": "2026-09-06T17:30:57Z",
+    "url": "https://github.com/diaban/jobsmith"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -54,51 +126,6 @@
     "url": "https://github.com/ChanTso/citybuddy"
   },
   {
-    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
-    "id": "ravisinghrajput95/kubewhy",
-    "language": "Python",
-    "name": "ravisinghrajput95/kubewhy",
-    "stars": 0,
-    "updated_at": "2026-09-06T17:21:03Z",
-    "url": "https://github.com/ravisinghrajput95/kubewhy"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 607,
-    "updated_at": "2026-09-06T17:29:32Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-06T17:17:52Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "A provider-agnostic coding-agent harness for autonomous Python repository bug repair, with Docker verification and repro",
-    "id": "ztsstz711-afk/RepoFix-Harness",
-    "language": "Python",
-    "name": "ztsstz711-afk/RepoFix-Harness",
-    "stars": 0,
-    "updated_at": "2026-09-06T17:15:18Z",
-    "url": "https://github.com/ztsstz711-afk/RepoFix-Harness"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-09-06T17:29:40Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
     "description": "An agent for coding and everyday tasks, powered by the ChatGPT account you already pay for. No API key, no per-token bil",
     "id": "khudayarovich/onflip-agent",
     "language": "TypeScript",
@@ -106,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-09-06T17:05:56Z",
     "url": "https://github.com/khudayarovich/onflip-agent"
-  },
-  {
-    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
-    "id": "diaban/jobsmith",
-    "language": "Python",
-    "name": "diaban/jobsmith",
-    "stars": 0,
-    "updated_at": "2026-09-06T17:13:07Z",
-    "url": "https://github.com/diaban/jobsmith"
   },
   {
     "description": "AgentBypass \u2014 Omni Operator LLM Agent Skill (Cknb): Turn any LLM into RE / Pwn / CTF / Pentest / Protocol / Crypto / Mob",
@@ -196,6 +214,15 @@
     "stars": 1,
     "updated_at": "2026-09-06T16:32:49Z",
     "url": "https://github.com/nesirli/metascholar"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3215,
+    "updated_at": "2026-09-06T16:21:22Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-06T14:36:24Z",
     "url": "https://github.com/eobi/nemesisforge"
-  },
-  {
-    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 5,
-    "updated_at": "2026-09-06T14:46:46Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 16,
-    "updated_at": "2026-09-06T14:46:47Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5729,
-    "updated_at": "2026-09-06T14:17:07Z",
-    "url": "https://github.com/areal-project/AReaL"
   }
 ]
