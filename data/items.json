@@ -5,8 +5,26 @@
     "language": "Java",
     "name": "max-champlin/ghost",
     "stars": 0,
-    "updated_at": "2026-09-06T22:43:44Z",
+    "updated_at": "2026-09-06T22:53:44Z",
     "url": "https://github.com/max-champlin/ghost"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 101,
+    "updated_at": "2026-09-06T22:53:37Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-09-06T22:50:26Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "An autopoiesic kefir for computing machines",
@@ -14,7 +32,7 @@
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 8,
-    "updated_at": "2026-09-06T22:42:30Z",
+    "updated_at": "2026-09-06T22:48:16Z",
     "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
@@ -25,15 +43,6 @@
     "stars": 2,
     "updated_at": "2026-09-06T22:33:19Z",
     "url": "https://github.com/khudayarovich/onflip-agent"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 101,
-    "updated_at": "2026-09-06T22:29:39Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
@@ -169,15 +178,6 @@
     "stars": 129,
     "updated_at": "2026-09-06T21:02:03Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-09-06T20:59:52Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "An Agent Bricks agent, built on Databricks, that answers questions about real storm-surge exposure data from my surge-ex",
