@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-06 22:15 UTC
+> ⏰ Last updated: 2026-09-06 22:20 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,31 +42,31 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [khudayarovich/onflip-agent](https://github.com/khudayarovich/onflip-agent) | 2 | TypeScript | 2026-09-06 | An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin |
+| 1 | [555cute/r20-quantum-trader](https://github.com/555cute/r20-quantum-trader) | 101 | Python | 2026-09-06 | ⚡ LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI  |
 | 2 | [genaforvena/lte-workstation](https://github.com/genaforvena/lte-workstation) | 8 | Shell | 2026-09-06 | An autopoiesic kefir for computing machines |
-| 3 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 30 | JavaScript | 2026-09-06 | Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies  |
-| 4 | [ivan-sincek/threat-modeling-agent-skills](https://github.com/ivan-sincek/threat-modeling-agent-skills) | 2 | — | 2026-09-06 | Easy-to-use, customizable, high-quality threat modeling skills for AI agents. |
-| 5 | [ivan-sincek/secure-code-review-agent-skills](https://github.com/ivan-sincek/secure-code-review-agent-skills) | 1 | — | 2026-09-06 | Easy-to-use, customizable, high-quality secure code review skills for AI agents. |
-| 6 | [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) | 30317 | Python | 2026-09-06 | Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M |
-| 7 | [grauwolf32/contractor](https://github.com/grauwolf32/contractor) | 1 | Go | 2026-09-06 | An LLM agent for building OpenAPI specifications based on the given code |
-| 8 | [denisakkavim/sixnimmt](https://github.com/denisakkavim/sixnimmt) | 0 | Python | 2026-09-06 | A Python engine and in-process arena for running, replaying, and analyzing 6 nimmt! games with deterministic bots and LL |
-| 9 | [555cute/r20-quantum-trader](https://github.com/555cute/r20-quantum-trader) | 100 | Python | 2026-09-06 | ⚡ LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI  |
-| 10 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-09-06 | AI-powered image generation and chat studio |
-| 11 | [the-priest/PriestsBasilisk](https://github.com/the-priest/PriestsBasilisk) | 3 | Python | 2026-09-06 | Open-source autonomous AI pentester that proves every exploit — 87/113 on OWASP Juice Shop, black-box, on a budget model |
-| 12 | [Lejusdefruits/hobot](https://github.com/Lejusdefruits/hobot) | 2 | Python | 2026-09-06 | A self-hosted job-hunting agent driven from Discord: finds postings, scores them, drafts cover letters, tailors your CV, |
-| 13 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 126 | HTML | 2026-09-06 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 14 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 3 | HTML | 2026-09-06 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 15 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-09-06 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 16 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 129 | HTML | 2026-09-06 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 17 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-09-06 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 18 | [DBishal13/surge-exposure-agent](https://github.com/DBishal13/surge-exposure-agent) | 0 | Python | 2026-09-06 | An Agent Bricks agent, built on Databricks, that answers questions about real storm-surge exposure data from my surge-ex |
-| 19 | [ljedrz/nachalnik](https://github.com/ljedrz/nachalnik) | 2 | Rust | 2026-09-06 | A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and  |
-| 20 | [Calmingstorm/Odin](https://github.com/Calmingstorm/Odin) | 3 | Python | 2026-09-06 | Autonomous execution agent on Discord — 74 tools, shell access, browser automation, scheduled tasks, sub-agents, knowled |
-| 21 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 608 | JavaScript | 2026-09-06 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
-| 22 | [karstom/simplegraph-agentic](https://github.com/karstom/simplegraph-agentic) | 5 | TypeScript | 2026-09-06 | A lightweight, framework-agnostic persistent memory graph for AI coding assistants. |
-| 23 | [P0w3r223/apply-scout](https://github.com/P0w3r223/apply-scout) | 0 | Python | 2026-09-06 | An LLM job-matching agent with a from-scratch tool loop — and an evaluation that scores its own retriever and its own at |
-| 24 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-09-06 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 25 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-09-06 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 3 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-09-06 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 4 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-09-06 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 5 | [khudayarovich/onflip-agent](https://github.com/khudayarovich/onflip-agent) | 2 | TypeScript | 2026-09-06 | An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin |
+| 6 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 30 | JavaScript | 2026-09-06 | Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies  |
+| 7 | [ivan-sincek/threat-modeling-agent-skills](https://github.com/ivan-sincek/threat-modeling-agent-skills) | 2 | — | 2026-09-06 | Easy-to-use, customizable, high-quality threat modeling skills for AI agents. |
+| 8 | [ivan-sincek/secure-code-review-agent-skills](https://github.com/ivan-sincek/secure-code-review-agent-skills) | 1 | — | 2026-09-06 | Easy-to-use, customizable, high-quality secure code review skills for AI agents. |
+| 9 | [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) | 30317 | Python | 2026-09-06 | Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M |
+| 10 | [grauwolf32/contractor](https://github.com/grauwolf32/contractor) | 1 | Go | 2026-09-06 | An LLM agent for building OpenAPI specifications based on the given code |
+| 11 | [denisakkavim/sixnimmt](https://github.com/denisakkavim/sixnimmt) | 0 | Python | 2026-09-06 | A Python engine and in-process arena for running, replaying, and analyzing 6 nimmt! games with deterministic bots and LL |
+| 12 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-09-06 | AI-powered image generation and chat studio |
+| 13 | [the-priest/PriestsBasilisk](https://github.com/the-priest/PriestsBasilisk) | 3 | Python | 2026-09-06 | Open-source autonomous AI pentester that proves every exploit — 87/113 on OWASP Juice Shop, black-box, on a budget model |
+| 14 | [Lejusdefruits/hobot](https://github.com/Lejusdefruits/hobot) | 2 | Python | 2026-09-06 | A self-hosted job-hunting agent driven from Discord: finds postings, scores them, drafts cover letters, tailors your CV, |
+| 15 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 126 | HTML | 2026-09-06 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 16 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 3 | HTML | 2026-09-06 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 17 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-09-06 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
+| 18 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 129 | HTML | 2026-09-06 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 19 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-09-06 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 20 | [DBishal13/surge-exposure-agent](https://github.com/DBishal13/surge-exposure-agent) | 0 | Python | 2026-09-06 | An Agent Bricks agent, built on Databricks, that answers questions about real storm-surge exposure data from my surge-ex |
+| 21 | [ljedrz/nachalnik](https://github.com/ljedrz/nachalnik) | 2 | Rust | 2026-09-06 | A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and  |
+| 22 | [Calmingstorm/Odin](https://github.com/Calmingstorm/Odin) | 3 | Python | 2026-09-06 | Autonomous execution agent on Discord — 74 tools, shell access, browser automation, scheduled tasks, sub-agents, knowled |
+| 23 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 608 | JavaScript | 2026-09-06 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
+| 24 | [karstom/simplegraph-agentic](https://github.com/karstom/simplegraph-agentic) | 5 | TypeScript | 2026-09-06 | A lightweight, framework-agnostic persistent memory graph for AI coding assistants. |
+| 25 | [P0w3r223/apply-scout](https://github.com/P0w3r223/apply-scout) | 0 | Python | 2026-09-06 | An LLM job-matching agent with a from-scratch tool loop — and an evaluation that scores its own retriever and its own at |
 | 26 | [sydches/yuj](https://github.com/sydches/yuj) | 3 | Python | 2026-09-06 | Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L |
 | 27 | [Paseru/sinew](https://github.com/Paseru/sinew) | 64 | Rust | 2026-09-06 | Agentic IDE with custom harness |
 | 28 | [ChanTso/citybuddy](https://github.com/ChanTso/citybuddy) | 0 | Java | 2026-09-06 | Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de |
