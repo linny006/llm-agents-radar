@@ -1,5 +1,140 @@
 [
   {
+    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
+    "id": "Asim00740/Kagantic-vault-structure",
+    "language": "\u2014",
+    "name": "Asim00740/Kagantic-vault-structure",
+    "stars": 0,
+    "updated_at": "2026-09-06T18:44:10Z",
+    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
+  },
+  {
+    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
+    "id": "Tonyx79/clov-ai",
+    "language": "Rust",
+    "name": "Tonyx79/clov-ai",
+    "stars": 0,
+    "updated_at": "2026-09-06T18:43:50Z",
+    "url": "https://github.com/Tonyx79/clov-ai"
+  },
+  {
+    "description": "An LLM agent for building OpenAPI specifications based on the given code",
+    "id": "grauwolf32/contractor",
+    "language": "Go",
+    "name": "grauwolf32/contractor",
+    "stars": 1,
+    "updated_at": "2026-09-06T18:43:06Z",
+    "url": "https://github.com/grauwolf32/contractor"
+  },
+  {
+    "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
+    "id": "ChanTso/citybuddy",
+    "language": "Java",
+    "name": "ChanTso/citybuddy",
+    "stars": 0,
+    "updated_at": "2026-09-06T18:42:39Z",
+    "url": "https://github.com/ChanTso/citybuddy"
+  },
+  {
+    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
+    "id": "Victongo/ai-daily-news",
+    "language": "Ruby",
+    "name": "Victongo/ai-daily-news",
+    "stars": 2,
+    "updated_at": "2026-09-06T18:41:12Z",
+    "url": "https://github.com/Victongo/ai-daily-news"
+  },
+  {
+    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
+    "id": "mena256/ai-pair-engineer",
+    "language": "Python",
+    "name": "mena256/ai-pair-engineer",
+    "stars": 0,
+    "updated_at": "2026-09-06T18:41:05Z",
+    "url": "https://github.com/mena256/ai-pair-engineer"
+  },
+  {
+    "description": "An agent for coding and everyday tasks, powered by the ChatGPT account you already pay for. No API key, no per-token bil",
+    "id": "khudayarovich/onflip-agent",
+    "language": "TypeScript",
+    "name": "khudayarovich/onflip-agent",
+    "stars": 2,
+    "updated_at": "2026-09-06T18:40:51Z",
+    "url": "https://github.com/khudayarovich/onflip-agent"
+  },
+  {
+    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
+    "id": "mamon9022/poc-fls-node-epicronicles",
+    "language": "TypeScript",
+    "name": "mamon9022/poc-fls-node-epicronicles",
+    "stars": 2,
+    "updated_at": "2026-09-06T18:39:55Z",
+    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
+  },
+  {
+    "description": "Usa Qlib como cerebro cuant y Vibe-Trading como manos: scores de acciones por ML servidos a un agente de trading LLM v\u00eda",
+    "id": "Ax3lsk3r3/QuantVibe",
+    "language": "TypeScript",
+    "name": "Ax3lsk3r3/QuantVibe",
+    "stars": 2,
+    "updated_at": "2026-09-06T18:37:56Z",
+    "url": "https://github.com/Ax3lsk3r3/QuantVibe"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 607,
+    "updated_at": "2026-09-06T18:36:06Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
+    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "language": "HTML",
+    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "stars": 0,
+    "updated_at": "2026-09-06T18:36:02Z",
+    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
+  },
+  {
+    "description": "Open-source AI coding agent for the terminal that works with several subscriptions in one session \u2014 your Claude Pro/Max,",
+    "id": "onembyte/kolkrabbi",
+    "language": "Go",
+    "name": "onembyte/kolkrabbi",
+    "stars": 1,
+    "updated_at": "2026-09-06T18:34:04Z",
+    "url": "https://github.com/onembyte/kolkrabbi"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-06T18:33:07Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
+    "id": "hasting323/AutoGLM-For-Android",
+    "language": "Kotlin",
+    "name": "hasting323/AutoGLM-For-Android",
+    "stars": 10,
+    "updated_at": "2026-09-06T18:32:38Z",
+    "url": "https://github.com/hasting323/AutoGLM-For-Android"
+  },
+  {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 1,
+    "updated_at": "2026-09-06T18:31:11Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
     "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
     "id": "ibrahima0101/python-ai-chatbot-huggingface",
     "language": "Python",
@@ -27,15 +162,6 @@
     "url": "https://github.com/the-priest/PriestsBasilisk"
   },
   {
-    "description": "Usa Qlib como cerebro cuant y Vibe-Trading como manos: scores de acciones por ML servidos a un agente de trading LLM v\u00eda",
-    "id": "Ax3lsk3r3/QuantVibe",
-    "language": "TypeScript",
-    "name": "Ax3lsk3r3/QuantVibe",
-    "stars": 2,
-    "updated_at": "2026-09-06T18:25:05Z",
-    "url": "https://github.com/Ax3lsk3r3/QuantVibe"
-  },
-  {
     "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
     "id": "sunnnn2005/data-quality-agent",
     "language": "Python",
@@ -49,7 +175,7 @@
     "id": "feder-cr/AIHawk",
     "language": "Python",
     "name": "feder-cr/AIHawk",
-    "stars": 30318,
+    "stars": 30317,
     "updated_at": "2026-09-06T18:23:00Z",
     "url": "https://github.com/feder-cr/AIHawk"
   },
@@ -106,33 +232,6 @@
     "stars": 1,
     "updated_at": "2026-09-06T18:17:39Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 607,
-    "updated_at": "2026-09-06T18:14:36Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "An agent for coding and everyday tasks, powered by the ChatGPT account you already pay for. No API key, no per-token bil",
-    "id": "khudayarovich/onflip-agent",
-    "language": "TypeScript",
-    "name": "khudayarovich/onflip-agent",
-    "stars": 2,
-    "updated_at": "2026-09-06T18:08:43Z",
-    "url": "https://github.com/khudayarovich/onflip-agent"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-06T18:07:39Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
@@ -230,7 +329,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-06T18:03:22Z",
+    "updated_at": "2026-09-06T18:31:55Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -241,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-09-06T18:15:38Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
-    "id": "ChanTso/citybuddy",
-    "language": "Java",
-    "name": "ChanTso/citybuddy",
-    "stars": 0,
-    "updated_at": "2026-09-06T18:29:11Z",
-    "url": "https://github.com/ChanTso/citybuddy"
   },
   {
     "description": "AgentBypass \u2014 Omni Operator LLM Agent Skill (Cknb): Turn any LLM into RE / Pwn / CTF / Pentest / Protocol / Crypto / Mob",
@@ -358,95 +448,5 @@
     "stars": 4411,
     "updated_at": "2026-09-06T16:11:36Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "A framework for building intelligent agents",
-    "id": "lkimuk/Wuwe",
-    "language": "C++",
-    "name": "lkimuk/Wuwe",
-    "stars": 78,
-    "updated_at": "2026-09-06T15:47:38Z",
-    "url": "https://github.com/lkimuk/Wuwe"
-  },
-  {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 3,
-    "updated_at": "2026-09-06T15:39:25Z",
-    "url": "https://github.com/sydches/yuj"
-  },
-  {
-    "description": "An AI brain for Unitree robot dogs: one sentence in, guarded motion out.",
-    "id": "LiSheng5/argos",
-    "language": "Python",
-    "name": "LiSheng5/argos",
-    "stars": 0,
-    "updated_at": "2026-09-06T15:38:46Z",
-    "url": "https://github.com/LiSheng5/argos"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 16,
-    "updated_at": "2026-09-06T15:25:20Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and ",
-    "id": "genieincodebottle/generative-ai",
-    "language": "Jupyter Notebook",
-    "name": "genieincodebottle/generative-ai",
-    "stars": 2613,
-    "updated_at": "2026-09-06T15:20:55Z",
-    "url": "https://github.com/genieincodebottle/generative-ai"
-  },
-  {
-    "description": "Local-first autonomous scientific research agent with evidence governance, RAG, Polars analysis, and live clinical-trial",
-    "id": "Unpapamericano/autonomous-scientific-agent",
-    "language": "Python",
-    "name": "Unpapamericano/autonomous-scientific-agent",
-    "stars": 0,
-    "updated_at": "2026-09-06T15:20:24Z",
-    "url": "https://github.com/Unpapamericano/autonomous-scientific-agent"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 98,
-    "updated_at": "2026-09-06T15:14:46Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
-  },
-  {
-    "description": "\u300c\u8861 \u00b7 Heng\u300d\u8de8\u5883\u7535\u5546\u8d2d\u7269 Agent \u7684\u53ef\u4fe1\u5ea6\u5de5\u7a0b\u3002\u7ee7\u627f\u81ea\u539f\u9879\u76ee globex-agent \u5e76\u5168\u9762\u6539\u9020\uff1a\u68c0\u7d22/\u5230\u624b\u4ef7/\u7ec4\u5408\u4f18\u5316/\u4e0b\u5355\u5168\u94fe\u8def\u4e0e\u957f\u671f\u8bb0\u5fc6\uff1b8 \u7c7b\u786e\u5b9a\u6027\u5224\u636e\u3001\u516b\u9879\u96f6\u6210\u672c\u63d0\u4ea4\u95e8\u7981\uff0c\u6bcf\u9053\u62a4\u680f\u5e26\u771f\u7ea2\u8bc1\u636e\u94fe\uff1b\u81ea\u5efa\u8bc4\u6d4b\uff0844+11 ",
-    "id": "emmmdty/heng-agent",
-    "language": "Python",
-    "name": "emmmdty/heng-agent",
-    "stars": 0,
-    "updated_at": "2026-09-06T15:13:09Z",
-    "url": "https://github.com/emmmdty/heng-agent"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 389,
-    "updated_at": "2026-09-06T15:12:57Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "An AI-powered autonomous penetration testing platform that performs reconnaissance, vulnerability assessment, exploitati",
-    "id": "ThorJS24/ai-autonomous-pentest",
-    "language": "Python",
-    "name": "ThorJS24/ai-autonomous-pentest",
-    "stars": 0,
-    "updated_at": "2026-09-06T15:08:44Z",
-    "url": "https://github.com/ThorJS24/ai-autonomous-pentest"
   }
 ]
