@@ -1,21 +1,39 @@
 [
   {
-    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
-    "id": "feder-cr/AIHawk",
-    "language": "Python",
-    "name": "feder-cr/AIHawk",
-    "stars": 30316,
-    "updated_at": "2026-09-06T09:29:49Z",
-    "url": "https://github.com/feder-cr/AIHawk"
-  },
-  {
     "description": "Provider-neutral agentic harness for playing Hearts of Iron IV with an LLM: clock-owning turn loop, reflex/planner split",
     "id": "Xocas12/hoi4-agent-harness",
     "language": "Python",
     "name": "Xocas12/hoi4-agent-harness",
     "stars": 0,
-    "updated_at": "2026-09-06T09:26:51Z",
+    "updated_at": "2026-09-06T09:41:44Z",
     "url": "https://github.com/Xocas12/hoi4-agent-harness"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-06T09:39:32Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Reusable, selectively loaded agent skills: authorization, judgment ownership, data lineage, side-effect safety, rollout ",
+    "id": "xiongweilin/agent-skills",
+    "language": "\u2014",
+    "name": "xiongweilin/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-06T09:30:37Z",
+    "url": "https://github.com/xiongweilin/agent-skills"
+  },
+  {
+    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
+    "id": "feder-cr/AIHawk",
+    "language": "Python",
+    "name": "feder-cr/AIHawk",
+    "stars": 30316,
+    "updated_at": "2026-09-06T09:30:31Z",
+    "url": "https://github.com/feder-cr/AIHawk"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -95,7 +113,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-06T09:29:39Z",
+    "updated_at": "2026-09-06T09:36:18Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -157,7 +175,7 @@
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 385,
+    "stars": 386,
     "updated_at": "2026-09-06T08:17:02Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
@@ -355,7 +373,7 @@
     "id": "titanwings/distilly",
     "language": "TypeScript",
     "name": "titanwings/distilly",
-    "stars": 24380,
+    "stars": 24381,
     "updated_at": "2026-09-06T06:18:46Z",
     "url": "https://github.com/titanwings/distilly"
   },
@@ -365,7 +383,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-09-06T09:28:37Z",
+    "updated_at": "2026-09-06T09:33:48Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -374,7 +392,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 16,
-    "updated_at": "2026-09-06T06:23:22Z",
+    "updated_at": "2026-09-06T09:41:34Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 6,
     "updated_at": "2026-09-06T05:53:02Z",
     "url": "https://github.com/C-Rhapsody/gemini-connector"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-09-06T05:40:23Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-09-06T05:34:00Z",
-    "url": "https://github.com/ljchang/mecha"
   }
 ]
