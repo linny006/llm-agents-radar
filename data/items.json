@@ -1,5 +1,23 @@
 [
   {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 100,
+    "updated_at": "2026-09-06T21:42:09Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-09-06T21:38:31Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
     "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
     "id": "the-priest/PriestsBasilisk",
     "language": "Python",
@@ -16,15 +34,6 @@
     "stars": 2,
     "updated_at": "2026-09-06T21:25:39Z",
     "url": "https://github.com/Lejusdefruits/hobot"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 100,
-    "updated_at": "2026-09-06T21:20:39Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "An autopoiesic kefir for computing machines",
@@ -153,21 +162,12 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-09-06T20:47:45Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
     "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
     "id": "sydches/yuj",
     "language": "Python",
     "name": "sydches/yuj",
     "stars": 3,
-    "updated_at": "2026-09-06T20:05:14Z",
+    "updated_at": "2026-09-06T21:41:44Z",
     "url": "https://github.com/sydches/yuj"
   },
   {
@@ -301,7 +301,7 @@
     "id": "feder-cr/AIHawk",
     "language": "Python",
     "name": "feder-cr/AIHawk",
-    "stars": 30317,
+    "stars": 30318,
     "updated_at": "2026-09-06T19:00:43Z",
     "url": "https://github.com/feder-cr/AIHawk"
   },
