@@ -1,12 +1,57 @@
 [
   {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 99,
+    "updated_at": "2026-09-06T20:38:23Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
     "description": "A lightweight, framework-agnostic persistent memory graph for AI coding assistants.",
     "id": "karstom/simplegraph-agentic",
     "language": "TypeScript",
     "name": "karstom/simplegraph-agentic",
     "stars": 5,
-    "updated_at": "2026-09-06T20:28:17Z",
+    "updated_at": "2026-09-06T20:37:17Z",
     "url": "https://github.com/karstom/simplegraph-agentic"
+  },
+  {
+    "description": "An LLM job-matching agent with a from-scratch tool loop \u2014 and an evaluation that scores its own retriever and its own at",
+    "id": "P0w3r223/apply-scout",
+    "language": "Python",
+    "name": "P0w3r223/apply-scout",
+    "stars": 0,
+    "updated_at": "2026-09-06T20:36:42Z",
+    "url": "https://github.com/P0w3r223/apply-scout"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-06T20:33:06Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-09-06T20:30:51Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-06T20:30:13Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "AI-powered image generation and chat studio",
@@ -16,15 +61,6 @@
     "stars": 3,
     "updated_at": "2026-09-06T20:29:36Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 98,
-    "updated_at": "2026-09-06T20:24:42Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
@@ -50,7 +86,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 608,
-    "updated_at": "2026-09-06T20:21:24Z",
+    "updated_at": "2026-09-06T20:33:06Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -61,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T19:54:03Z",
     "url": "https://github.com/ChanTso/citybuddy"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-06T19:48:06Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Open-source AI coding agent for the terminal that works with several subscriptions in one session \u2014 your Claude Pro/Max,",
@@ -421,32 +448,5 @@
     "stars": 10,
     "updated_at": "2026-09-06T18:32:38Z",
     "url": "https://github.com/hasting323/AutoGLM-For-Android"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-09-06T18:31:11Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-09-06T18:29:45Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "A compass for autonomous agents, not an operating manual.",
-    "id": "tachyon-r/first-principles-agent-soul",
-    "language": "\u2014",
-    "name": "tachyon-r/first-principles-agent-soul",
-    "stars": 1,
-    "updated_at": "2026-09-06T18:28:53Z",
-    "url": "https://github.com/tachyon-r/first-principles-agent-soul"
   }
 ]
