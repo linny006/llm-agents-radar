@@ -1,5 +1,32 @@
 [
   {
+    "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
+    "id": "ChanTso/citybuddy",
+    "language": "Java",
+    "name": "ChanTso/citybuddy",
+    "stars": 0,
+    "updated_at": "2026-09-06T16:18:57Z",
+    "url": "https://github.com/ChanTso/citybuddy"
+  },
+  {
+    "description": "An agent for coding and everyday tasks, powered by the ChatGPT account you already pay for. No API key, no per-token bil",
+    "id": "khudayarovich/onflip-agent",
+    "language": "TypeScript",
+    "name": "khudayarovich/onflip-agent",
+    "stars": 2,
+    "updated_at": "2026-09-06T16:18:45Z",
+    "url": "https://github.com/khudayarovich/onflip-agent"
+  },
+  {
+    "description": "RAG-based question answering app over the metagenomics literature",
+    "id": "nesirli/metascholar",
+    "language": "Python",
+    "name": "nesirli/metascholar",
+    "stars": 1,
+    "updated_at": "2026-09-06T16:18:12Z",
+    "url": "https://github.com/nesirli/metascholar"
+  },
+  {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
     "id": "g761007/daily-dispatch",
     "language": "Python",
@@ -13,8 +40,8 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 605,
-    "updated_at": "2026-09-06T16:13:26Z",
+    "stars": 606,
+    "updated_at": "2026-09-06T16:20:56Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -90,15 +117,6 @@
     "url": "https://github.com/cx-ssg/invest-concierge"
   },
   {
-    "description": "An agent for coding and everyday tasks, powered by the ChatGPT account you already pay for. No API key, no per-token bil",
-    "id": "khudayarovich/onflip-agent",
-    "language": "TypeScript",
-    "name": "khudayarovich/onflip-agent",
-    "stars": 2,
-    "updated_at": "2026-09-06T15:48:15Z",
-    "url": "https://github.com/khudayarovich/onflip-agent"
-  },
-  {
     "description": "A framework for building intelligent agents",
     "id": "lkimuk/Wuwe",
     "language": "C++",
@@ -113,7 +131,7 @@
     "language": "Python",
     "name": "diaban/jobsmith",
     "stars": 0,
-    "updated_at": "2026-09-06T15:44:51Z",
+    "updated_at": "2026-09-06T16:16:34Z",
     "url": "https://github.com/diaban/jobsmith"
   },
   {
@@ -142,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T15:38:53Z",
     "url": "https://github.com/karvidsson/kbots"
-  },
-  {
-    "description": "RAG-based question answering app over the metagenomics literature",
-    "id": "nesirli/metascholar",
-    "language": "Python",
-    "name": "nesirli/metascholar",
-    "stars": 1,
-    "updated_at": "2026-09-06T15:29:47Z",
-    "url": "https://github.com/nesirli/metascholar"
   },
   {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
@@ -239,7 +248,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 26,
-    "updated_at": "2026-09-06T16:13:53Z",
+    "updated_at": "2026-09-06T16:22:47Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -295,15 +304,6 @@
     "stars": 5,
     "updated_at": "2026-09-06T14:46:46Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
-    "id": "ChanTso/citybuddy",
-    "language": "Java",
-    "name": "ChanTso/citybuddy",
-    "stars": 0,
-    "updated_at": "2026-09-06T16:05:53Z",
-    "url": "https://github.com/ChanTso/citybuddy"
   },
   {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
@@ -445,7 +445,7 @@
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 225,
+    "stars": 226,
     "updated_at": "2026-09-06T13:05:27Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   }
