@@ -1,5 +1,41 @@
 [
   {
+    "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
+    "id": "the-priest/PriestsBasilisk",
+    "language": "Python",
+    "name": "the-priest/PriestsBasilisk",
+    "stars": 3,
+    "updated_at": "2026-09-06T21:28:13Z",
+    "url": "https://github.com/the-priest/PriestsBasilisk"
+  },
+  {
+    "description": "A self-hosted job-hunting agent driven from Discord: finds postings, scores them, drafts cover letters, tailors your CV,",
+    "id": "Lejusdefruits/hobot",
+    "language": "Python",
+    "name": "Lejusdefruits/hobot",
+    "stars": 2,
+    "updated_at": "2026-09-06T21:25:39Z",
+    "url": "https://github.com/Lejusdefruits/hobot"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 100,
+    "updated_at": "2026-09-06T21:20:39Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-06T21:18:28Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -36,15 +72,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 100,
-    "updated_at": "2026-09-06T21:01:22Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -52,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T20:59:52Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-06T20:59:41Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "An Agent Bricks agent, built on Databricks, that answers questions about real storm-surge exposure data from my surge-ex",
@@ -205,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-09-06T21:11:22Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
-    "id": "the-priest/PriestsBasilisk",
-    "language": "Python",
-    "name": "the-priest/PriestsBasilisk",
-    "stars": 3,
-    "updated_at": "2026-09-06T19:36:36Z",
-    "url": "https://github.com/the-priest/PriestsBasilisk"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-06T18:41:05Z",
     "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "An agent for coding and everyday tasks, powered by the ChatGPT account you already pay for. No API key, no per-token bil",
-    "id": "khudayarovich/onflip-agent",
-    "language": "TypeScript",
-    "name": "khudayarovich/onflip-agent",
-    "stars": 2,
-    "updated_at": "2026-09-06T18:40:51Z",
-    "url": "https://github.com/khudayarovich/onflip-agent"
   }
 ]
