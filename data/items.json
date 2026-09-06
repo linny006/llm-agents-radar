@@ -1,5 +1,68 @@
 [
   {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 3,
+    "updated_at": "2026-09-06T20:00:01Z",
+    "url": "https://github.com/sydches/yuj"
+  },
+  {
+    "description": "AI analytics copilot for payments fraud: plain-English questions to DuckDB SQL behind read-only guardrails, anomaly dete",
+    "id": "Aakarsh2512/fraudlens",
+    "language": "Python",
+    "name": "Aakarsh2512/fraudlens",
+    "stars": 0,
+    "updated_at": "2026-09-06T19:55:08Z",
+    "url": "https://github.com/Aakarsh2512/fraudlens"
+  },
+  {
+    "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
+    "id": "ChanTso/citybuddy",
+    "language": "Java",
+    "name": "ChanTso/citybuddy",
+    "stars": 0,
+    "updated_at": "2026-09-06T19:54:03Z",
+    "url": "https://github.com/ChanTso/citybuddy"
+  },
+  {
+    "description": "A lightweight, framework-agnostic persistent memory graph for AI coding assistants.",
+    "id": "karstom/simplegraph-agentic",
+    "language": "TypeScript",
+    "name": "karstom/simplegraph-agentic",
+    "stars": 5,
+    "updated_at": "2026-09-06T19:53:46Z",
+    "url": "https://github.com/karstom/simplegraph-agentic"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 98,
+    "updated_at": "2026-09-06T19:53:14Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-06T19:48:06Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Open-source AI coding agent for the terminal that works with several subscriptions in one session \u2014 your Claude Pro/Max,",
+    "id": "onembyte/kolkrabbi",
+    "language": "Go",
+    "name": "onembyte/kolkrabbi",
+    "stars": 1,
+    "updated_at": "2026-09-06T19:46:46Z",
+    "url": "https://github.com/onembyte/kolkrabbi"
+  },
+  {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -18,15 +81,6 @@
     "url": "https://github.com/bigduu/Zenith"
   },
   {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 3,
-    "updated_at": "2026-09-06T19:41:14Z",
-    "url": "https://github.com/sydches/yuj"
-  },
-  {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
     "id": "b-macker/NAAb",
     "language": "C++",
@@ -34,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-09-06T19:39:24Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Open-source AI coding agent for the terminal that works with several subscriptions in one session \u2014 your Claude Pro/Max,",
-    "id": "onembyte/kolkrabbi",
-    "language": "Go",
-    "name": "onembyte/kolkrabbi",
-    "stars": 1,
-    "updated_at": "2026-09-06T19:39:02Z",
-    "url": "https://github.com/onembyte/kolkrabbi"
   },
   {
     "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
@@ -70,33 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T19:34:46Z",
     "url": "https://github.com/diaban/jobsmith"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-06T19:33:06Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 98,
-    "updated_at": "2026-09-06T19:30:48Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
-  },
-  {
-    "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
-    "id": "ChanTso/citybuddy",
-    "language": "Java",
-    "name": "ChanTso/citybuddy",
-    "stars": 0,
-    "updated_at": "2026-09-06T19:39:44Z",
-    "url": "https://github.com/ChanTso/citybuddy"
   },
   {
     "description": "Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de",
@@ -374,7 +392,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 608,
-    "updated_at": "2026-09-06T19:39:08Z",
+    "updated_at": "2026-09-06T19:59:42Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-06T18:23:35Z",
     "url": "https://github.com/sunnnn2005/data-quality-agent"
-  },
-  {
-    "description": "Autonomous execution agent on Discord \u2014 74 tools, shell access, browser automation, scheduled tasks, sub-agents, knowled",
-    "id": "Calmingstorm/Odin",
-    "language": "Python",
-    "name": "Calmingstorm/Odin",
-    "stars": 3,
-    "updated_at": "2026-09-06T19:29:09Z",
-    "url": "https://github.com/Calmingstorm/Odin"
-  },
-  {
-    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
-    "id": "ravisinghrajput95/kubewhy",
-    "language": "Python",
-    "name": "ravisinghrajput95/kubewhy",
-    "stars": 0,
-    "updated_at": "2026-09-06T18:21:40Z",
-    "url": "https://github.com/ravisinghrajput95/kubewhy"
   }
 ]
