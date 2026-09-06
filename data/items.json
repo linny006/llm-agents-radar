@@ -1,12 +1,12 @@
 [
   {
-    "description": "Reproducible AI4SE agent with multi-tool planning, hybrid RAG, evaluation, and PostgreSQL operations.",
-    "id": "Isoldelu/software-engineering-agent",
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
     "language": "Python",
-    "name": "Isoldelu/software-engineering-agent",
-    "stars": 0,
-    "updated_at": "2026-09-06T13:56:12Z",
-    "url": "https://github.com/Isoldelu/software-engineering-agent"
+    "name": "sydches/yuj",
+    "stars": 3,
+    "updated_at": "2026-09-06T14:09:27Z",
+    "url": "https://github.com/sydches/yuj"
   },
   {
     "description": "Provider-neutral agentic harness for playing Hearts of Iron IV with an LLM: clock-owning turn loop, reflex/planner split",
@@ -14,8 +14,44 @@
     "language": "Python",
     "name": "Xocas12/hoi4-agent-harness",
     "stars": 0,
-    "updated_at": "2026-09-06T13:55:38Z",
+    "updated_at": "2026-09-06T14:06:44Z",
     "url": "https://github.com/Xocas12/hoi4-agent-harness"
+  },
+  {
+    "description": "Multi-agent web harvesting on LangGraph's Supervisor pattern: 9 specialist agents, deterministic-first pipeline where th",
+    "id": "LingMi1/langgraph-multi-agent-crawler",
+    "language": "Python",
+    "name": "LingMi1/langgraph-multi-agent-crawler",
+    "stars": 0,
+    "updated_at": "2026-09-06T14:06:39Z",
+    "url": "https://github.com/LingMi1/langgraph-multi-agent-crawler"
+  },
+  {
+    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 30,
+    "updated_at": "2026-09-06T14:06:35Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
+    "description": "An agent for coding and everyday tasks, powered by the ChatGPT account you already pay for. No API key, no per-token bil",
+    "id": "khudayarovich/onflip-agent",
+    "language": "TypeScript",
+    "name": "khudayarovich/onflip-agent",
+    "stars": 2,
+    "updated_at": "2026-09-06T14:03:45Z",
+    "url": "https://github.com/khudayarovich/onflip-agent"
+  },
+  {
+    "description": "Reproducible AI4SE agent with multi-tool planning, hybrid RAG, evaluation, and PostgreSQL operations.",
+    "id": "Isoldelu/software-engineering-agent",
+    "language": "Python",
+    "name": "Isoldelu/software-engineering-agent",
+    "stars": 0,
+    "updated_at": "2026-09-06T13:56:12Z",
+    "url": "https://github.com/Isoldelu/software-engineering-agent"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -36,15 +72,6 @@
     "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
-    "description": "Multi-agent web harvesting on LangGraph's Supervisor pattern: 9 specialist agents, deterministic-first pipeline where th",
-    "id": "LingMi1/langgraph-multi-agent-crawler",
-    "language": "Python",
-    "name": "LingMi1/langgraph-multi-agent-crawler",
-    "stars": 0,
-    "updated_at": "2026-09-06T13:54:27Z",
-    "url": "https://github.com/LingMi1/langgraph-multi-agent-crawler"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -52,24 +79,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T13:53:21Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "An agent for coding and everyday tasks, powered by the ChatGPT account you already pay for. No API key, no per-token bil",
-    "id": "khudayarovich/onflip-agent",
-    "language": "TypeScript",
-    "name": "khudayarovich/onflip-agent",
-    "stars": 2,
-    "updated_at": "2026-09-06T13:52:13Z",
-    "url": "https://github.com/khudayarovich/onflip-agent"
-  },
-  {
-    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 30,
-    "updated_at": "2026-09-06T13:50:07Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
     "description": "Local-first autonomous scientific research agent with evidence governance, RAG, Polars analysis, and live clinical-trial",
@@ -95,7 +104,7 @@
     "language": "Java",
     "name": "ChanTso/citybuddy",
     "stars": 0,
-    "updated_at": "2026-09-06T13:45:54Z",
+    "updated_at": "2026-09-06T14:12:47Z",
     "url": "https://github.com/ChanTso/citybuddy"
   },
   {
@@ -122,7 +131,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-06T13:33:54Z",
+    "updated_at": "2026-09-06T14:06:06Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -274,7 +283,7 @@
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 387,
+    "stars": 388,
     "updated_at": "2026-09-06T12:32:09Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
@@ -301,7 +310,7 @@
     "id": "feder-cr/AIHawk",
     "language": "Python",
     "name": "feder-cr/AIHawk",
-    "stars": 30316,
+    "stars": 30317,
     "updated_at": "2026-09-06T12:25:07Z",
     "url": "https://github.com/feder-cr/AIHawk"
   },
@@ -329,7 +338,7 @@
     "language": "Python",
     "name": "expectedparrot/edsl",
     "stars": 493,
-    "updated_at": "2026-09-06T12:13:25Z",
+    "updated_at": "2026-09-06T14:07:07Z",
     "url": "https://github.com/expectedparrot/edsl"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-06T11:10:27Z",
     "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
-  },
-  {
-    "description": "Automate file management and coding tasks in your local directory using small language models.",
-    "id": "pruthviraj00007/VibeHarness",
-    "language": "Python",
-    "name": "pruthviraj00007/VibeHarness",
-    "stars": 0,
-    "updated_at": "2026-09-06T11:07:45Z",
-    "url": "https://github.com/pruthviraj00007/VibeHarness"
   }
 ]
