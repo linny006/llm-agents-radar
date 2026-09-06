@@ -1,5 +1,32 @@
 [
   {
+    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
+    "id": "Heliotrope-dev/finance-agent",
+    "language": "Python",
+    "name": "Heliotrope-dev/finance-agent",
+    "stars": 2,
+    "updated_at": "2026-09-06T09:56:24Z",
+    "url": "https://github.com/Heliotrope-dev/finance-agent"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 386,
+    "updated_at": "2026-09-06T09:51:44Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
+    "id": "hoshiyomiX/stellar-trails",
+    "language": "Shell",
+    "name": "hoshiyomiX/stellar-trails",
+    "stars": 0,
+    "updated_at": "2026-09-06T09:50:58Z",
+    "url": "https://github.com/hoshiyomiX/stellar-trails"
+  },
+  {
     "description": "Provider-neutral agentic harness for playing Hearts of Iron IV with an LLM: clock-owning turn loop, reflex/planner split",
     "id": "Xocas12/hoi4-agent-harness",
     "language": "Python",
@@ -126,15 +153,6 @@
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
-    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
-    "id": "Heliotrope-dev/finance-agent",
-    "language": "Python",
-    "name": "Heliotrope-dev/finance-agent",
-    "stars": 2,
-    "updated_at": "2026-09-06T09:01:25Z",
-    "url": "https://github.com/Heliotrope-dev/finance-agent"
-  },
-  {
     "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
     "id": "HKUDS/DeepCode",
     "language": "Python",
@@ -171,21 +189,12 @@
     "url": "https://github.com/Unpapamericano/autonomous-scientific-agent"
   },
   {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 386,
-    "updated_at": "2026-09-06T08:17:02Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
     "name": "helixml/helix",
     "stars": 804,
-    "updated_at": "2026-09-06T08:11:45Z",
+    "updated_at": "2026-09-06T09:46:34Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -292,7 +301,7 @@
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
-    "stars": 97,
+    "stars": 98,
     "updated_at": "2026-09-06T07:06:52Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
   },
@@ -439,14 +448,5 @@
     "stars": 22,
     "updated_at": "2026-09-06T05:53:49Z",
     "url": "https://github.com/fahmiwol/sidix"
-  },
-  {
-    "description": "Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw.",
-    "id": "C-Rhapsody/gemini-connector",
-    "language": "Go",
-    "name": "C-Rhapsody/gemini-connector",
-    "stars": 6,
-    "updated_at": "2026-09-06T05:53:02Z",
-    "url": "https://github.com/C-Rhapsody/gemini-connector"
   }
 ]
