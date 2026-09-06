@@ -5,8 +5,53 @@
     "language": "Go",
     "name": "onembyte/kolkrabbi",
     "stars": 1,
-    "updated_at": "2026-09-06T14:27:33Z",
+    "updated_at": "2026-09-06T14:45:08Z",
     "url": "https://github.com/onembyte/kolkrabbi"
+  },
+  {
+    "description": "An agent for coding and everyday tasks, powered by the ChatGPT account you already pay for. No API key, no per-token bil",
+    "id": "khudayarovich/onflip-agent",
+    "language": "TypeScript",
+    "name": "khudayarovich/onflip-agent",
+    "stars": 2,
+    "updated_at": "2026-09-06T14:45:00Z",
+    "url": "https://github.com/khudayarovich/onflip-agent"
+  },
+  {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 1120,
+    "updated_at": "2026-09-06T14:44:08Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
+  },
+  {
+    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
+    "id": "AlanFokCo/agentscope-go",
+    "language": "Go",
+    "name": "AlanFokCo/agentscope-go",
+    "stars": 36,
+    "updated_at": "2026-09-06T14:43:22Z",
+    "url": "https://github.com/AlanFokCo/agentscope-go"
+  },
+  {
+    "description": "Autonomous vulnerability discovery engine. An LLM fleet proposes; eight deterministic oracles prove. Findings are report",
+    "id": "eobi/nemesisforge",
+    "language": "Python",
+    "name": "eobi/nemesisforge",
+    "stars": 2,
+    "updated_at": "2026-09-06T14:36:24Z",
+    "url": "https://github.com/eobi/nemesisforge"
+  },
+  {
+    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 5,
+    "updated_at": "2026-09-06T14:35:02Z",
+    "url": "https://github.com/bigduu/Zenith"
   },
   {
     "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
@@ -61,15 +106,6 @@
     "stars": 30,
     "updated_at": "2026-09-06T14:06:35Z",
     "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
-    "description": "An agent for coding and everyday tasks, powered by the ChatGPT account you already pay for. No API key, no per-token bil",
-    "id": "khudayarovich/onflip-agent",
-    "language": "TypeScript",
-    "name": "khudayarovich/onflip-agent",
-    "stars": 2,
-    "updated_at": "2026-09-06T14:03:45Z",
-    "url": "https://github.com/khudayarovich/onflip-agent"
   },
   {
     "description": "Reproducible AI4SE agent with multi-tool planning, hybrid RAG, evaluation, and PostgreSQL operations.",
@@ -131,7 +167,7 @@
     "language": "Python",
     "name": "ThreeFish-AI/negentropy",
     "stars": 10,
-    "updated_at": "2026-09-06T13:42:14Z",
+    "updated_at": "2026-09-06T14:41:40Z",
     "url": "https://github.com/ThreeFish-AI/negentropy"
   },
   {
@@ -187,15 +223,6 @@
     "stars": 2,
     "updated_at": "2026-09-06T13:25:32Z",
     "url": "https://github.com/Heliotrope-dev/finance-agent"
-  },
-  {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 1120,
-    "updated_at": "2026-09-06T13:19:27Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
     "description": "\u7ea6 700 \u884c\u7684\u591a Agent \u6846\u67b6\uff1a\u7c7b\u578b\u5316\u5de5\u5177\u8c03\u7528\u3001Swarm handoff \u8def\u7531\u3001map-reduce \u56e2\u961f\u3001\u62a4\u680f\u4e0e\u8bb0\u5fc6\uff0cMockLLM \u9a71\u52a8\u5168\u6d4b\u8bd5",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-06T11:12:33Z",
     "url": "https://github.com/Ottoman-reticule726/zara-ai-laptop-agent"
-  },
-  {
-    "description": "Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons.",
-    "id": "alejandrogg15/Minimax-H3-Turbo",
-    "language": "Python",
-    "name": "alejandrogg15/Minimax-H3-Turbo",
-    "stars": 0,
-    "updated_at": "2026-09-06T11:12:18Z",
-    "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
-  },
-  {
-    "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
-    "id": "Aureliedumbfounding630/agent-governance-toolkit",
-    "language": "\u2014",
-    "name": "Aureliedumbfounding630/agent-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-09-06T11:11:09Z",
-    "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
-  },
-  {
-    "description": "Automate Elytra flight, navigation, and landing for Meteor Client with intelligent pathfinding and rocket management.",
-    "id": "222394/SkyPilot",
-    "language": "Java",
-    "name": "222394/SkyPilot",
-    "stars": 0,
-    "updated_at": "2026-09-06T11:11:07Z",
-    "url": "https://github.com/222394/SkyPilot"
   }
 ]
