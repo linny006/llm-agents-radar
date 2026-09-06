@@ -1,11 +1,65 @@
 [
   {
+    "description": "",
+    "id": "apolmig/fronteraeval",
+    "language": "JavaScript",
+    "name": "apolmig/fronteraeval",
+    "stars": 0,
+    "updated_at": "2026-09-06T07:12:50Z",
+    "url": "https://github.com/apolmig/fronteraeval"
+  },
+  {
+    "description": "Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/",
+    "id": "ZekaiShi/evo-subagent",
+    "language": "JavaScript",
+    "name": "ZekaiShi/evo-subagent",
+    "stars": 5,
+    "updated_at": "2026-09-06T07:08:32Z",
+    "url": "https://github.com/ZekaiShi/evo-subagent"
+  },
+  {
+    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
+    "id": "Heliotrope-dev/finance-agent",
+    "language": "Python",
+    "name": "Heliotrope-dev/finance-agent",
+    "stars": 2,
+    "updated_at": "2026-09-06T07:07:10Z",
+    "url": "https://github.com/Heliotrope-dev/finance-agent"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 97,
+    "updated_at": "2026-09-06T07:06:52Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-09-06T07:05:53Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-09-06T07:03:37Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
     "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
     "id": "puremachinery/carapace",
     "language": "Rust",
     "name": "puremachinery/carapace",
     "stars": 47,
-    "updated_at": "2026-09-06T06:58:30Z",
+    "updated_at": "2026-09-06T07:15:02Z",
     "url": "https://github.com/puremachinery/carapace"
   },
   {
@@ -25,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T06:54:15Z",
     "url": "https://github.com/wufufu770/d2d"
-  },
-  {
-    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
-    "id": "Heliotrope-dev/finance-agent",
-    "language": "Python",
-    "name": "Heliotrope-dev/finance-agent",
-    "stars": 2,
-    "updated_at": "2026-09-06T06:53:15Z",
-    "url": "https://github.com/Heliotrope-dev/finance-agent"
   },
   {
     "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
@@ -189,15 +234,6 @@
     "url": "https://github.com/C-Rhapsody/gemini-connector"
   },
   {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-09-06T05:59:18Z",
-    "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
     "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
     "id": "rsalmn/ExtremeRouter",
     "language": "JavaScript",
@@ -205,15 +241,6 @@
     "stars": 30,
     "updated_at": "2026-09-06T05:50:31Z",
     "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 97,
-    "updated_at": "2026-09-06T05:46:42Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -292,7 +319,7 @@
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 223,
+    "stars": 224,
     "updated_at": "2026-09-06T05:04:30Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-06T04:10:49Z",
     "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
-  },
-  {
-    "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
-    "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "language": "\u2014",
-    "name": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "stars": 1,
-    "updated_at": "2026-09-06T04:10:19Z",
-    "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 1114,
-    "updated_at": "2026-09-06T04:09:32Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 126,
-    "updated_at": "2026-09-06T04:08:39Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
   }
 ]
