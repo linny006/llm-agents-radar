@@ -1,5 +1,41 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-09-06T00:29:24Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "AWS\u306e\u69cb\u6210\u3092\u30c1\u30e3\u30c3\u30c8\u3067\u76f8\u8ac7\u3057\u306a\u304c\u3089\u6c7a\u3081\u3001\u6570\u5f0f\u5165\u308a\u306e\u30b3\u30b9\u30c8\u898b\u7a4d\u3082\u308aExcel\u3068\u69cb\u6210\u56f3\u3092\u51fa\u529b\u3059\u308b\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\uff08Genkit Go\uff09",
+    "id": "o-ga09/genkit-agent-cloud-cost-estimate",
+    "language": "Go",
+    "name": "o-ga09/genkit-agent-cloud-cost-estimate",
+    "stars": 0,
+    "updated_at": "2026-09-06T00:28:25Z",
+    "url": "https://github.com/o-ga09/genkit-agent-cloud-cost-estimate"
+  },
+  {
+    "description": "Open-source model-agnostic AI coding agent for the terminal. A Claude Code & Codex CLI alternative: any OpenRouter model",
+    "id": "onembyte/kolkrabbi",
+    "language": "Go",
+    "name": "onembyte/kolkrabbi",
+    "stars": 1,
+    "updated_at": "2026-09-06T00:26:36Z",
+    "url": "https://github.com/onembyte/kolkrabbi"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 384,
+    "updated_at": "2026-09-06T00:18:00Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
     "description": "Abandoned, unsupported research archive for a local-first, model-agnostic LLM agent harness exploring orchestration, cod",
     "id": "DITlieD/ELAI-archive",
     "language": "Rust",
@@ -9,21 +45,12 @@
     "url": "https://github.com/DITlieD/ELAI-archive"
   },
   {
-    "description": "Open-source model-agnostic AI coding agent for the terminal. A Claude Code & Codex CLI alternative: any OpenRouter model",
-    "id": "onembyte/kolkrabbi",
-    "language": "Go",
-    "name": "onembyte/kolkrabbi",
-    "stars": 1,
-    "updated_at": "2026-09-06T00:12:31Z",
-    "url": "https://github.com/onembyte/kolkrabbi"
-  },
-  {
     "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
     "id": "peder1981/AdvPP",
     "language": "Go",
     "name": "peder1981/AdvPP",
     "stars": 2,
-    "updated_at": "2026-09-06T00:11:56Z",
+    "updated_at": "2026-09-06T00:17:00Z",
     "url": "https://github.com/peder1981/AdvPP"
   },
   {
@@ -86,7 +113,7 @@
     "language": "Python",
     "name": "feder-cr/AIHawk",
     "stars": 30314,
-    "updated_at": "2026-09-05T23:44:24Z",
+    "updated_at": "2026-09-06T00:29:47Z",
     "url": "https://github.com/feder-cr/AIHawk"
   },
   {
@@ -115,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T23:36:37Z",
     "url": "https://github.com/Rxyxs/chile-mining-ops-agent"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 384,
-    "updated_at": "2026-09-05T23:28:55Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "ISO 27001 (+ 42001 + NIS2) ISMS framework designed to be operated by LLM Agents",
@@ -178,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T22:40:00Z",
     "url": "https://github.com/nlink-jp/bigquery-mcp"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-09-05T22:34:31Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
@@ -428,7 +437,7 @@
     "language": "Rust",
     "name": "aviskaar/zorp",
     "stars": 3,
-    "updated_at": "2026-09-06T00:05:37Z",
+    "updated_at": "2026-09-06T00:19:02Z",
     "url": "https://github.com/aviskaar/zorp"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-05T20:56:49Z",
     "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 1,
-    "updated_at": "2026-09-05T20:55:35Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
   }
 ]
