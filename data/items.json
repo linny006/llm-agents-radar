@@ -1,30 +1,12 @@
 [
   {
-    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
-    "id": "kangwoo/aimon-core",
-    "language": "Java",
-    "name": "kangwoo/aimon-core",
-    "stars": 0,
-    "updated_at": "2026-09-06T01:44:23Z",
-    "url": "https://github.com/kangwoo/aimon-core"
-  },
-  {
     "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 384,
-    "updated_at": "2026-09-06T01:37:18Z",
+    "updated_at": "2026-09-06T01:57:22Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-    "id": "xiaobright/dsh-anchored-standard",
-    "language": "JavaScript",
-    "name": "xiaobright/dsh-anchored-standard",
-    "stars": 3826,
-    "updated_at": "2026-09-06T01:34:11Z",
-    "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
   {
     "description": "Open-source model-agnostic AI coding agent for the terminal. A Claude Code & Codex CLI alternative: any OpenRouter model",
@@ -32,8 +14,35 @@
     "language": "Go",
     "name": "onembyte/kolkrabbi",
     "stars": 1,
-    "updated_at": "2026-09-06T01:31:29Z",
+    "updated_at": "2026-09-06T01:51:13Z",
     "url": "https://github.com/onembyte/kolkrabbi"
+  },
+  {
+    "description": "AWS\u306e\u69cb\u6210\u3092\u30c1\u30e3\u30c3\u30c8\u3067\u76f8\u8ac7\u3057\u306a\u304c\u3089\u6c7a\u3081\u3001\u6570\u5f0f\u5165\u308a\u306e\u30b3\u30b9\u30c8\u898b\u7a4d\u3082\u308aExcel\u3068\u69cb\u6210\u56f3\u3092\u51fa\u529b\u3059\u308b\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\uff08Genkit Go\uff09",
+    "id": "o-ga09/genkit-agent-cloud-cost-estimate",
+    "language": "Go",
+    "name": "o-ga09/genkit-agent-cloud-cost-estimate",
+    "stars": 0,
+    "updated_at": "2026-09-06T01:50:48Z",
+    "url": "https://github.com/o-ga09/genkit-agent-cloud-cost-estimate"
+  },
+  {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-09-06T01:51:38Z",
+    "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
+    "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+    "id": "xiaobright/dsh-anchored-standard",
+    "language": "JavaScript",
+    "name": "xiaobright/dsh-anchored-standard",
+    "stars": 3827,
+    "updated_at": "2026-09-06T01:34:11Z",
+    "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
   {
     "description": "AI-powered image generation and chat studio",
@@ -121,7 +130,7 @@
     "id": "DITlieD/ELAI-archive",
     "language": "Rust",
     "name": "DITlieD/ELAI-archive",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-09-06T00:53:46Z",
     "url": "https://github.com/DITlieD/ELAI-archive"
   },
@@ -160,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-09-06T00:38:15Z",
     "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
-    "description": "AWS\u306e\u69cb\u6210\u3092\u30c1\u30e3\u30c3\u30c8\u3067\u76f8\u8ac7\u3057\u306a\u304c\u3089\u6c7a\u3081\u3001\u6570\u5f0f\u5165\u308a\u306e\u30b3\u30b9\u30c8\u898b\u7a4d\u3082\u308aExcel\u3068\u69cb\u6210\u56f3\u3092\u51fa\u529b\u3059\u308b\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\uff08Genkit Go\uff09",
-    "id": "o-ga09/genkit-agent-cloud-cost-estimate",
-    "language": "Go",
-    "name": "o-ga09/genkit-agent-cloud-cost-estimate",
-    "stars": 0,
-    "updated_at": "2026-09-06T00:37:58Z",
-    "url": "https://github.com/o-ga09/genkit-agent-cloud-cost-estimate"
   },
   {
     "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
@@ -248,7 +248,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-05T23:49:34Z",
+    "updated_at": "2026-09-06T01:57:26Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -355,7 +355,7 @@
     "id": "ljedrz/nachalnik",
     "language": "Rust",
     "name": "ljedrz/nachalnik",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-09-05T21:25:20Z",
     "url": "https://github.com/ljedrz/nachalnik"
   },

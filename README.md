@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-06 01:45 UTC
+> ⏰ Last updated: 2026-09-06 02:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,25 +42,25 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [kangwoo/aimon-core](https://github.com/kangwoo/aimon-core) | 0 | Java | 2026-09-06 | A ReAct agent framework for Java — build autonomous LLM-powered agents, embeddable in any Java application |
-| 2 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 384 | Python | 2026-09-06 | Self-Programming AI Assistant. Capture, automate, and refine all your workflows. |
-| 3 | [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | 3826 | JavaScript | 2026-09-06 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) |
-| 4 | [onembyte/kolkrabbi](https://github.com/onembyte/kolkrabbi) | 1 | Go | 2026-09-06 | Open-source model-agnostic AI coding agent for the terminal. A Claude Code & Codex CLI alternative: any OpenRouter model |
-| 5 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-09-06 | AI-powered image generation and chat studio |
-| 6 | [emmmdty/heng-agent](https://github.com/emmmdty/heng-agent) | 0 | Python | 2026-09-06 | 「衡 · Heng」跨境电商购物 Agent 的可信度工程。继承自原项目 globex-agent 并全面改造：检索/到手价/组合优化/下单全链路与长期记忆；8 类确定性判据、八项零成本提交门禁，每道护栏带真红证据链；自建评测（44+11  |
-| 7 | [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) | 30314 | Python | 2026-09-06 | Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M |
-| 8 | [Ax3lsk3r3/QuantVibe](https://github.com/Ax3lsk3r3/QuantVibe) | 2 | TypeScript | 2026-09-06 | Usa Qlib como cerebro cuant y Vibe-Trading como manos: scores de acciones por ML servidos a un agente de trading LLM vía |
-| 9 | [yakeworld/Synthos](https://github.com/yakeworld/Synthos) | 6 | Python | 2026-09-06 | Synthos — 自主进化学术科研平台 / A self-evolving cognitive operating system for scientific research. 7 cognitive atoms + evolution |
-| 10 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 221 | TypeScript | 2026-09-06 | A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi |
-| 11 | [NosytLabs/skillstate-proxy](https://github.com/NosytLabs/skillstate-proxy) | 2 | TypeScript | 2026-09-06 | OpenAI-compatible proxy enforcing SKILL.state (arXiv:2608.26263) — bounded O(1) prompts, O(T) total tokens for long-hori |
-| 12 | [dsswift/ion](https://github.com/dsswift/ion) | 4 | TypeScript | 2026-09-06 | Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions. |
-| 13 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-09-06 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 14 | [DITlieD/ELAI-archive](https://github.com/DITlieD/ELAI-archive) | 2 | Rust | 2026-09-06 | Abandoned, unsupported research archive for a local-first, model-agnostic LLM agent harness exploring orchestration, cod |
-| 15 | [sydches/yuj](https://github.com/sydches/yuj) | 2 | Python | 2026-09-06 | Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L |
-| 16 | [410979729/scope-recall-hermes](https://github.com/410979729/scope-recall-hermes) | 262 | Python | 2026-09-06 | Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval. |
-| 17 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-09-06 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 18 | [citizenhicks/mobius](https://github.com/citizenhicks/mobius) | 1 | Rust | 2026-09-06 | möbius is a small, frontend-neutral Rust framework for coding agents.  |
-| 19 | [o-ga09/genkit-agent-cloud-cost-estimate](https://github.com/o-ga09/genkit-agent-cloud-cost-estimate) | 0 | Go | 2026-09-06 | AWSの構成をチャットで相談しながら決め、数式入りのコスト見積もりExcelと構成図を出力するエージェント（Genkit Go） |
+| 1 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 384 | Python | 2026-09-06 | Self-Programming AI Assistant. Capture, automate, and refine all your workflows. |
+| 2 | [onembyte/kolkrabbi](https://github.com/onembyte/kolkrabbi) | 1 | Go | 2026-09-06 | Open-source model-agnostic AI coding agent for the terminal. A Claude Code & Codex CLI alternative: any OpenRouter model |
+| 3 | [o-ga09/genkit-agent-cloud-cost-estimate](https://github.com/o-ga09/genkit-agent-cloud-cost-estimate) | 0 | Go | 2026-09-06 | AWSの構成をチャットで相談しながら決め、数式入りのコスト見積もりExcelと構成図を出力するエージェント（Genkit Go） |
+| 4 | [kangwoo/aimon-core](https://github.com/kangwoo/aimon-core) | 0 | Java | 2026-09-06 | A ReAct agent framework for Java — build autonomous LLM-powered agents, embeddable in any Java application |
+| 5 | [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | 3827 | JavaScript | 2026-09-06 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) |
+| 6 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-09-06 | AI-powered image generation and chat studio |
+| 7 | [emmmdty/heng-agent](https://github.com/emmmdty/heng-agent) | 0 | Python | 2026-09-06 | 「衡 · Heng」跨境电商购物 Agent 的可信度工程。继承自原项目 globex-agent 并全面改造：检索/到手价/组合优化/下单全链路与长期记忆；8 类确定性判据、八项零成本提交门禁，每道护栏带真红证据链；自建评测（44+11  |
+| 8 | [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) | 30314 | Python | 2026-09-06 | Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M |
+| 9 | [Ax3lsk3r3/QuantVibe](https://github.com/Ax3lsk3r3/QuantVibe) | 2 | TypeScript | 2026-09-06 | Usa Qlib como cerebro cuant y Vibe-Trading como manos: scores de acciones por ML servidos a un agente de trading LLM vía |
+| 10 | [yakeworld/Synthos](https://github.com/yakeworld/Synthos) | 6 | Python | 2026-09-06 | Synthos — 自主进化学术科研平台 / A self-evolving cognitive operating system for scientific research. 7 cognitive atoms + evolution |
+| 11 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 221 | TypeScript | 2026-09-06 | A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi |
+| 12 | [NosytLabs/skillstate-proxy](https://github.com/NosytLabs/skillstate-proxy) | 2 | TypeScript | 2026-09-06 | OpenAI-compatible proxy enforcing SKILL.state (arXiv:2608.26263) — bounded O(1) prompts, O(T) total tokens for long-hori |
+| 13 | [dsswift/ion](https://github.com/dsswift/ion) | 4 | TypeScript | 2026-09-06 | Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions. |
+| 14 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-09-06 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 15 | [DITlieD/ELAI-archive](https://github.com/DITlieD/ELAI-archive) | 3 | Rust | 2026-09-06 | Abandoned, unsupported research archive for a local-first, model-agnostic LLM agent harness exploring orchestration, cod |
+| 16 | [sydches/yuj](https://github.com/sydches/yuj) | 2 | Python | 2026-09-06 | Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L |
+| 17 | [410979729/scope-recall-hermes](https://github.com/410979729/scope-recall-hermes) | 262 | Python | 2026-09-06 | Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval. |
+| 18 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-09-06 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 19 | [citizenhicks/mobius](https://github.com/citizenhicks/mobius) | 1 | Rust | 2026-09-06 | möbius is a small, frontend-neutral Rust framework for coding agents.  |
 | 20 | [aviskaar/zorp](https://github.com/aviskaar/zorp) | 3 | Rust | 2026-09-06 | A research agent for scientific discovery — part of Aviskaar's applied AI research suite. |
 | 21 | [peder1981/AdvPP](https://github.com/peder1981/AdvPP) | 2 | Go | 2026-09-06 | AdvPP - AdvPL/TLPP Compiler and IDE with complete language support |
 | 22 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 129 | HTML | 2026-09-06 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
@@ -69,7 +69,7 @@ expired items removed — so you can rely on what you see being current.
 | 25 | [555cute/r20-quantum-trader](https://github.com/555cute/r20-quantum-trader) | 95 | Python | 2026-09-06 | ⚡ LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI  |
 | 26 | [ivan-sincek/secure-code-review-agent-skills](https://github.com/ivan-sincek/secure-code-review-agent-skills) | 1 | — | 2026-09-06 | Easy-to-use, customizable, high-quality secure code review skills for AI agents. |
 | 27 | [BlockRunAI/Franklin](https://github.com/BlockRunAI/Franklin) | 553 | TypeScript | 2026-09-05 | The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript. |
-| 28 | [ljchang/mecha](https://github.com/ljchang/mecha) | 6 | Rust | 2026-09-05 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
+| 28 | [ljchang/mecha](https://github.com/ljchang/mecha) | 6 | Rust | 2026-09-06 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
 | 29 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 126 | HTML | 2026-09-05 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
 | 30 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 3 | HTML | 2026-09-05 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
 | 31 | [Rxyxs/chile-mining-ops-agent](https://github.com/Rxyxs/chile-mining-ops-agent) | 0 | Python | 2026-09-05 | Agente con tool-calling real (API de OpenAI) sobre operaciones mineras: consultas SQL a DuckDB, scoring de riesgo credit |
@@ -81,7 +81,7 @@ expired items removed — so you can rely on what you see being current.
 | 37 | [abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder](https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder) | 1 | JavaScript | 2026-09-05 | Build structured prompts with reference media for MiniMax H3 video model in ComfyUI. |
 | 38 | [passive-hotpepper515/area-checker-html-tool](https://github.com/passive-hotpepper515/area-checker-html-tool) | 0 | HTML | 2026-09-05 | Verify area values quickly with this web-based HTML calculator tool. |
 | 39 | [Blondieredistributed612/pocket-agent](https://github.com/Blondieredistributed612/pocket-agent) | 1 | Python | 2026-09-05 | Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte |
-| 40 | [ljedrz/nachalnik](https://github.com/ljedrz/nachalnik) | 1 | Rust | 2026-09-05 | A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and  |
+| 40 | [ljedrz/nachalnik](https://github.com/ljedrz/nachalnik) | 2 | Rust | 2026-09-05 | A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and  |
 | 41 | [bettersilvanus849/inner-coordinates](https://github.com/bettersilvanus849/inner-coordinates) | 1 | Shell | 2026-09-05 | Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s |
 | 42 | [Blaz742/web-pentest-lab](https://github.com/Blaz742/web-pentest-lab) | 0 | — | 2026-09-05 | Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets. |
 | 43 | [Elevated-homer201/prompt-gate](https://github.com/Elevated-homer201/prompt-gate) | 1 | — | 2026-09-05 | Filter LLM prompts and shield applications from data leakage using a specialized security gateway. |
