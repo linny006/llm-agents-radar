@@ -1,5 +1,77 @@
 [
   {
+    "description": "Human-supervised career decision safety with claim graphs, high-stakes gates, and append-only audit.",
+    "id": "OnourImpram/vocation-os",
+    "language": "TypeScript",
+    "name": "OnourImpram/vocation-os",
+    "stars": 0,
+    "updated_at": "2026-09-06T12:29:42Z",
+    "url": "https://github.com/OnourImpram/vocation-os"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 24,
+    "updated_at": "2026-09-06T12:27:47Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
+    "id": "feder-cr/AIHawk",
+    "language": "Python",
+    "name": "feder-cr/AIHawk",
+    "stars": 30315,
+    "updated_at": "2026-09-06T12:25:07Z",
+    "url": "https://github.com/feder-cr/AIHawk"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 387,
+    "updated_at": "2026-09-06T12:21:30Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-06T12:18:09Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "A compass for autonomous agents, not an operating manual.",
+    "id": "tachyon-r/first-principles-agent-soul",
+    "language": "\u2014",
+    "name": "tachyon-r/first-principles-agent-soul",
+    "stars": 1,
+    "updated_at": "2026-09-06T12:17:14Z",
+    "url": "https://github.com/tachyon-r/first-principles-agent-soul"
+  },
+  {
+    "description": "An experimental autonomous AI agent that lives on your machine and talks to you through Telegram. One Rust binary.",
+    "id": "wunsiang-cheng/redrock",
+    "language": "Rust",
+    "name": "wunsiang-cheng/redrock",
+    "stars": 0,
+    "updated_at": "2026-09-06T12:16:54Z",
+    "url": "https://github.com/wunsiang-cheng/redrock"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 16,
+    "updated_at": "2026-09-06T12:27:06Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
     "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
     "id": "expectedparrot/edsl",
     "language": "Python",
@@ -7,6 +79,15 @@
     "stars": 493,
     "updated_at": "2026-09-06T12:13:25Z",
     "url": "https://github.com/expectedparrot/edsl"
+  },
+  {
+    "description": "Production-ready template for a self-hosted Agent Protocol server: FastAPI + LangGraph + PostgreSQL (+ optional Redis), ",
+    "id": "TekkenSteve/fastapi_langgraph_template",
+    "language": "Python",
+    "name": "TekkenSteve/fastapi_langgraph_template",
+    "stars": 0,
+    "updated_at": "2026-09-06T12:12:41Z",
+    "url": "https://github.com/TekkenSteve/fastapi_langgraph_template"
   },
   {
     "description": "\u624b\u673a Telegram \u9065\u63a7 OpenAI Codex\uff5cHermes Gateway + codex_app_server\uff5c\u8e29\u5751: danger-no-sandbox / \u91cd\u590d\u56de\u590d / home channel / BotFather",
@@ -23,17 +104,8 @@
     "language": "Rust",
     "name": "citizenhicks/mobius",
     "stars": 1,
-    "updated_at": "2026-09-06T12:11:04Z",
+    "updated_at": "2026-09-06T12:27:04Z",
     "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-06T12:13:34Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
@@ -43,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T12:03:45Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-06T12:03:09Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
@@ -70,15 +133,6 @@
     "stars": 5,
     "updated_at": "2026-09-06T11:52:18Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 387,
-    "updated_at": "2026-09-06T11:52:14Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
@@ -106,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-09-06T11:36:05Z",
     "url": "https://github.com/ivan-sincek/secure-code-review-agent-skills"
-  },
-  {
-    "description": "A compass for autonomous agents, not an operating manual.",
-    "id": "tachyon-r/first-principles-agent-soul",
-    "language": "\u2014",
-    "name": "tachyon-r/first-principles-agent-soul",
-    "stars": 1,
-    "updated_at": "2026-09-06T11:24:59Z",
-    "url": "https://github.com/tachyon-r/first-principles-agent-soul"
   },
   {
     "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
@@ -292,7 +337,7 @@
     "id": "EvoMap/evolver",
     "language": "JavaScript",
     "name": "EvoMap/evolver",
-    "stars": 9094,
+    "stars": 9095,
     "updated_at": "2026-09-06T10:55:17Z",
     "url": "https://github.com/EvoMap/evolver"
   },
@@ -403,50 +448,5 @@
     "stars": 804,
     "updated_at": "2026-09-06T10:27:11Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 129,
-    "updated_at": "2026-09-06T10:16:26Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Persistent plastic memory for coding agents (Claude Code, OpenCode, Prime Agent) via MCP. One-command install.",
-    "id": "alexenti-code/matryoshka-mmi",
-    "language": "Python",
-    "name": "alexenti-code/matryoshka-mmi",
-    "stars": 0,
-    "updated_at": "2026-09-06T10:16:07Z",
-    "url": "https://github.com/alexenti-code/matryoshka-mmi"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 15,
-    "updated_at": "2026-09-06T10:11:23Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "Two MIT patches for Nous Research Hermes: stop busy-queue messages merging into one jumbled turn, and optionally run sel",
-    "id": "EauDoon/hermes-parallel-followups",
-    "language": "Python",
-    "name": "EauDoon/hermes-parallel-followups",
-    "stars": 0,
-    "updated_at": "2026-09-06T10:07:22Z",
-    "url": "https://github.com/EauDoon/hermes-parallel-followups"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-09-06T10:05:28Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   }
 ]
