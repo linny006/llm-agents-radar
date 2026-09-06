@@ -1,12 +1,30 @@
 [
   {
-    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
-    "id": "diaban/jobsmith",
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
     "language": "Python",
-    "name": "diaban/jobsmith",
+    "name": "gptme/gptme",
+    "stars": 4411,
+    "updated_at": "2026-09-06T16:00:02Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
+    "id": "feder-cr/AIHawk",
+    "language": "Python",
+    "name": "feder-cr/AIHawk",
+    "stars": 30317,
+    "updated_at": "2026-09-06T15:55:50Z",
+    "url": "https://github.com/feder-cr/AIHawk"
+  },
+  {
+    "description": "\u6295\u8d44\u79c1\u4eba\u7ba1\u5bb6 \u00b7 A\u80a1\u57fa\u91d1 AI \u79c1\u4eba\u987e\u95ee\uff08Invest Concierge \u2014 A-share & fund AI personal investment assistant\uff09",
+    "id": "cx-ssg/invest-concierge",
+    "language": "Python",
+    "name": "cx-ssg/invest-concierge",
     "stars": 0,
-    "updated_at": "2026-09-06T15:44:51Z",
-    "url": "https://github.com/diaban/jobsmith"
+    "updated_at": "2026-09-06T15:55:46Z",
+    "url": "https://github.com/cx-ssg/invest-concierge"
   },
   {
     "description": "An agent for coding and everyday tasks, powered by the ChatGPT account you already pay for. No API key, no per-token bil",
@@ -14,8 +32,26 @@
     "language": "TypeScript",
     "name": "khudayarovich/onflip-agent",
     "stars": 2,
-    "updated_at": "2026-09-06T15:42:22Z",
+    "updated_at": "2026-09-06T15:48:15Z",
     "url": "https://github.com/khudayarovich/onflip-agent"
+  },
+  {
+    "description": "A framework for building intelligent agents",
+    "id": "lkimuk/Wuwe",
+    "language": "C++",
+    "name": "lkimuk/Wuwe",
+    "stars": 78,
+    "updated_at": "2026-09-06T15:47:38Z",
+    "url": "https://github.com/lkimuk/Wuwe"
+  },
+  {
+    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
+    "id": "diaban/jobsmith",
+    "language": "Python",
+    "name": "diaban/jobsmith",
+    "stars": 0,
+    "updated_at": "2026-09-06T15:44:51Z",
+    "url": "https://github.com/diaban/jobsmith"
   },
   {
     "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
@@ -63,15 +99,6 @@
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
-    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
-    "id": "feder-cr/AIHawk",
-    "language": "Python",
-    "name": "feder-cr/AIHawk",
-    "stars": 30319,
-    "updated_at": "2026-09-06T15:23:38Z",
-    "url": "https://github.com/feder-cr/AIHawk"
-  },
-  {
     "description": "Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and ",
     "id": "genieincodebottle/generative-ai",
     "language": "Jupyter Notebook",
@@ -88,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T15:20:24Z",
     "url": "https://github.com/Unpapamericano/autonomous-scientific-agent"
-  },
-  {
-    "description": "\u6295\u8d44\u79c1\u4eba\u7ba1\u5bb6 \u00b7 A\u80a1\u57fa\u91d1 AI \u79c1\u4eba\u987e\u95ee\uff08Invest Concierge \u2014 A-share & fund AI personal investment assistant\uff09",
-    "id": "cx-ssg/invest-concierge",
-    "language": "Python",
-    "name": "cx-ssg/invest-concierge",
-    "stars": 0,
-    "updated_at": "2026-09-06T15:20:04Z",
-    "url": "https://github.com/cx-ssg/invest-concierge"
   },
   {
     "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
@@ -167,7 +185,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 26,
-    "updated_at": "2026-09-06T15:42:55Z",
+    "updated_at": "2026-09-06T15:55:25Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -230,7 +248,7 @@
     "language": "Java",
     "name": "ChanTso/citybuddy",
     "stars": 0,
-    "updated_at": "2026-09-06T15:31:54Z",
+    "updated_at": "2026-09-06T15:51:42Z",
     "url": "https://github.com/ChanTso/citybuddy"
   },
   {
@@ -320,7 +338,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-06T15:19:46Z",
+    "updated_at": "2026-09-06T15:49:28Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-06T12:42:21Z",
     "url": "https://github.com/TekkenSteve/fastapi_langgraph_template"
-  },
-  {
-    "description": "Meowire \u2014 bionic agent harness base for Go. Pure wiring, zero default implementations: Think\u2192Act decision loop, iter.Seq",
-    "id": "qyiun666/meowire",
-    "language": "Go",
-    "name": "qyiun666/meowire",
-    "stars": 0,
-    "updated_at": "2026-09-06T12:34:37Z",
-    "url": "https://github.com/qyiun666/meowire"
-  },
-  {
-    "description": "An LLM-driven command-line assistant to run tasks, chat interactively, and watch scheduled automation workflows with bui",
-    "id": "BIRU-sketch/whizkit",
-    "language": "Python",
-    "name": "BIRU-sketch/whizkit",
-    "stars": 1,
-    "updated_at": "2026-09-06T12:30:51Z",
-    "url": "https://github.com/BIRU-sketch/whizkit"
   }
 ]
