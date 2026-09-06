@@ -1,5 +1,68 @@
 [
   {
+    "description": "Open-source AI coding agent for the terminal that works with several subscriptions in one session \u2014 your Claude Pro/Max,",
+    "id": "onembyte/kolkrabbi",
+    "language": "Go",
+    "name": "onembyte/kolkrabbi",
+    "stars": 1,
+    "updated_at": "2026-09-06T13:45:00Z",
+    "url": "https://github.com/onembyte/kolkrabbi"
+  },
+  {
+    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 30,
+    "updated_at": "2026-09-06T13:43:12Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
+    "description": "An agentic system built on a \"One Root, Five Wings\" architecture, dedicated to combating the entropy production of infom",
+    "id": "ThreeFish-AI/negentropy",
+    "language": "Python",
+    "name": "ThreeFish-AI/negentropy",
+    "stars": 10,
+    "updated_at": "2026-09-06T13:42:14Z",
+    "url": "https://github.com/ThreeFish-AI/negentropy"
+  },
+  {
+    "description": "Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and ",
+    "id": "genieincodebottle/generative-ai",
+    "language": "Jupyter Notebook",
+    "name": "genieincodebottle/generative-ai",
+    "stars": 2613,
+    "updated_at": "2026-09-06T13:40:37Z",
+    "url": "https://github.com/genieincodebottle/generative-ai"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 24,
+    "updated_at": "2026-09-06T13:33:54Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 126,
+    "updated_at": "2026-09-06T13:30:59Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 3,
+    "updated_at": "2026-09-06T13:30:12Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "An experimental autonomous AI agent that lives on your machine and talks to you through Telegram. One Rust binary.",
     "id": "wunsiang-cheng/redrock",
     "language": "Rust",
@@ -18,13 +81,13 @@
     "url": "https://github.com/Heliotrope-dev/finance-agent"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-06T13:20:03Z",
-    "url": "https://github.com/tomcounsell/ai"
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 1118,
+    "updated_at": "2026-09-06T13:19:27Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
     "description": "\u7ea6 700 \u884c\u7684\u591a Agent \u6846\u67b6\uff1a\u7c7b\u578b\u5316\u5de5\u5177\u8c03\u7528\u3001Swarm handoff \u8def\u7531\u3001map-reduce \u56e2\u961f\u3001\u62a4\u680f\u4e0e\u8bb0\u5fc6\uff0cMockLLM \u9a71\u52a8\u5168\u6d4b\u8bd5",
@@ -133,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T12:42:21Z",
     "url": "https://github.com/TekkenSteve/fastapi_langgraph_template"
-  },
-  {
-    "description": "Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and ",
-    "id": "genieincodebottle/generative-ai",
-    "language": "Jupyter Notebook",
-    "name": "genieincodebottle/generative-ai",
-    "stars": 2613,
-    "updated_at": "2026-09-06T12:39:59Z",
-    "url": "https://github.com/genieincodebottle/generative-ai"
   },
   {
     "description": "Meowire \u2014 bionic agent harness base for Go. Pure wiring, zero default implementations: Think\u2192Act decision loop, iter.Seq",
@@ -259,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-09-06T11:36:05Z",
     "url": "https://github.com/ivan-sincek/secure-code-review-agent-skills"
-  },
-  {
-    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 30,
-    "updated_at": "2026-09-06T11:15:46Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
     "description": "Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-06T10:58:10Z",
     "url": "https://github.com/Laurenfeminine36/google-jules-skill"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-09-06T10:58:00Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-09-06T10:55:43Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 0,
-    "updated_at": "2026-09-06T10:55:20Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-    "id": "EvoMap/evolver",
-    "language": "JavaScript",
-    "name": "EvoMap/evolver",
-    "stars": 9094,
-    "updated_at": "2026-09-06T10:55:17Z",
-    "url": "https://github.com/EvoMap/evolver"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 2,
-    "updated_at": "2026-09-06T10:52:40Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
   }
 ]
