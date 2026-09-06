@@ -1,12 +1,21 @@
 [
   {
-    "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
-    "id": "ChanTso/citybuddy",
-    "language": "Java",
-    "name": "ChanTso/citybuddy",
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 606,
+    "updated_at": "2026-09-06T16:28:54Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "\u6295\u8d44\u79c1\u4eba\u7ba1\u5bb6 \u00b7 A\u80a1\u57fa\u91d1 AI \u79c1\u4eba\u987e\u95ee\uff08Invest Concierge \u2014 A-share & fund AI personal investment assistant\uff09",
+    "id": "cx-ssg/invest-concierge",
+    "language": "Python",
+    "name": "cx-ssg/invest-concierge",
     "stars": 0,
-    "updated_at": "2026-09-06T16:18:57Z",
-    "url": "https://github.com/ChanTso/citybuddy"
+    "updated_at": "2026-09-06T16:28:01Z",
+    "url": "https://github.com/cx-ssg/invest-concierge"
   },
   {
     "description": "An agent for coding and everyday tasks, powered by the ChatGPT account you already pay for. No API key, no per-token bil",
@@ -14,8 +23,26 @@
     "language": "TypeScript",
     "name": "khudayarovich/onflip-agent",
     "stars": 2,
-    "updated_at": "2026-09-06T16:18:45Z",
+    "updated_at": "2026-09-06T16:27:21Z",
     "url": "https://github.com/khudayarovich/onflip-agent"
+  },
+  {
+    "description": "A provider-agnostic coding-agent harness for autonomous Python repository bug repair, with Docker verification and repro",
+    "id": "ztsstz711-afk/RepoFix-Harness",
+    "language": "Python",
+    "name": "ztsstz711-afk/RepoFix-Harness",
+    "stars": 0,
+    "updated_at": "2026-09-06T16:27:15Z",
+    "url": "https://github.com/ztsstz711-afk/RepoFix-Harness"
+  },
+  {
+    "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
+    "id": "ChanTso/citybuddy",
+    "language": "Java",
+    "name": "ChanTso/citybuddy",
+    "stars": 0,
+    "updated_at": "2026-09-06T16:18:57Z",
+    "url": "https://github.com/ChanTso/citybuddy"
   },
   {
     "description": "RAG-based question answering app over the metagenomics literature",
@@ -36,21 +63,12 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 606,
-    "updated_at": "2026-09-06T16:20:56Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-06T16:12:32Z",
+    "updated_at": "2026-09-06T16:27:31Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -106,15 +124,6 @@
     "stars": 30317,
     "updated_at": "2026-09-06T15:55:50Z",
     "url": "https://github.com/feder-cr/AIHawk"
-  },
-  {
-    "description": "\u6295\u8d44\u79c1\u4eba\u7ba1\u5bb6 \u00b7 A\u80a1\u57fa\u91d1 AI \u79c1\u4eba\u987e\u95ee\uff08Invest Concierge \u2014 A-share & fund AI personal investment assistant\uff09",
-    "id": "cx-ssg/invest-concierge",
-    "language": "Python",
-    "name": "cx-ssg/invest-concierge",
-    "stars": 0,
-    "updated_at": "2026-09-06T15:55:46Z",
-    "url": "https://github.com/cx-ssg/invest-concierge"
   },
   {
     "description": "A framework for building intelligent agents",
@@ -248,7 +257,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 26,
-    "updated_at": "2026-09-06T16:22:47Z",
+    "updated_at": "2026-09-06T16:26:39Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-06T13:05:56Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 226,
-    "updated_at": "2026-09-06T13:05:27Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   }
 ]
