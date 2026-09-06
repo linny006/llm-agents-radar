@@ -4,9 +4,18 @@
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
-    "stars": 99,
-    "updated_at": "2026-09-06T20:38:23Z",
+    "stars": 100,
+    "updated_at": "2026-09-06T20:44:59Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 608,
+    "updated_at": "2026-09-06T20:43:21Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "A lightweight, framework-agnostic persistent memory graph for AI coding assistants.",
@@ -79,15 +88,6 @@
     "stars": 64,
     "updated_at": "2026-09-06T20:04:14Z",
     "url": "https://github.com/Paseru/sinew"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 608,
-    "updated_at": "2026-09-06T20:33:06Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
