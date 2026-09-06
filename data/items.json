@@ -1,21 +1,30 @@
 [
   {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 98,
-    "updated_at": "2026-09-06T20:14:19Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
-  },
-  {
     "description": "A lightweight, framework-agnostic persistent memory graph for AI coding assistants.",
     "id": "karstom/simplegraph-agentic",
     "language": "TypeScript",
     "name": "karstom/simplegraph-agentic",
     "stars": 5,
-    "updated_at": "2026-09-06T20:11:07Z",
+    "updated_at": "2026-09-06T20:28:17Z",
     "url": "https://github.com/karstom/simplegraph-agentic"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-09-06T20:29:36Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 98,
+    "updated_at": "2026-09-06T20:24:42Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
@@ -41,17 +50,8 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 608,
-    "updated_at": "2026-09-06T20:03:50Z",
+    "updated_at": "2026-09-06T20:21:24Z",
     "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "AI analytics copilot for payments fraud: plain-English questions to DuckDB SQL behind read-only guardrails, anomaly dete",
-    "id": "Aakarsh2512/fraudlens",
-    "language": "Python",
-    "name": "Aakarsh2512/fraudlens",
-    "stars": 0,
-    "updated_at": "2026-09-06T19:55:08Z",
-    "url": "https://github.com/Aakarsh2512/fraudlens"
   },
   {
     "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
@@ -104,7 +104,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-09-06T19:39:24Z",
+    "updated_at": "2026-09-06T20:15:36Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {

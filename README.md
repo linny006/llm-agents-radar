@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-06 20:15 UTC
+> ⏰ Last updated: 2026-09-06 20:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [555cute/r20-quantum-trader](https://github.com/555cute/r20-quantum-trader) | 98 | Python | 2026-09-06 | ⚡ LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI  |
-| 2 | [karstom/simplegraph-agentic](https://github.com/karstom/simplegraph-agentic) | 5 | TypeScript | 2026-09-06 | A lightweight, framework-agnostic persistent memory graph for AI coding assistants. |
-| 3 | [sydches/yuj](https://github.com/sydches/yuj) | 3 | Python | 2026-09-06 | Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L |
-| 4 | [Paseru/sinew](https://github.com/Paseru/sinew) | 64 | Rust | 2026-09-06 | Agentic IDE with custom harness |
-| 5 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 608 | JavaScript | 2026-09-06 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
-| 6 | [Aakarsh2512/fraudlens](https://github.com/Aakarsh2512/fraudlens) | 0 | Python | 2026-09-06 | AI analytics copilot for payments fraud: plain-English questions to DuckDB SQL behind read-only guardrails, anomaly dete |
+| 1 | [karstom/simplegraph-agentic](https://github.com/karstom/simplegraph-agentic) | 5 | TypeScript | 2026-09-06 | A lightweight, framework-agnostic persistent memory graph for AI coding assistants. |
+| 2 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-09-06 | AI-powered image generation and chat studio |
+| 3 | [555cute/r20-quantum-trader](https://github.com/555cute/r20-quantum-trader) | 98 | Python | 2026-09-06 | ⚡ LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI  |
+| 4 | [sydches/yuj](https://github.com/sydches/yuj) | 3 | Python | 2026-09-06 | Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L |
+| 5 | [Paseru/sinew](https://github.com/Paseru/sinew) | 64 | Rust | 2026-09-06 | Agentic IDE with custom harness |
+| 6 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 608 | JavaScript | 2026-09-06 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
 | 7 | [ChanTso/citybuddy](https://github.com/ChanTso/citybuddy) | 0 | Java | 2026-09-06 | Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de |
 | 8 | [genaforvena/lte-workstation](https://github.com/genaforvena/lte-workstation) | 8 | Shell | 2026-09-06 | An autopoiesic kefir for computing machines |
 | 9 | [onembyte/kolkrabbi](https://github.com/onembyte/kolkrabbi) | 1 | Go | 2026-09-06 | Open-source AI coding agent for the terminal that works with several subscriptions in one session — your Claude Pro/Max, |
