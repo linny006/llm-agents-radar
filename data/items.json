@@ -1,11 +1,38 @@
 [
   {
+    "description": "MemGuard - eBPF-based real-time memory poisoning detection and alerting for LLM agents (AgentSight overlay)",
+    "id": "jatsmith91-debug/memguard-agent",
+    "language": "Rust",
+    "name": "jatsmith91-debug/memguard-agent",
+    "stars": 0,
+    "updated_at": "2026-09-07T18:14:37Z",
+    "url": "https://github.com/jatsmith91-debug/memguard-agent"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 613,
+    "updated_at": "2026-09-07T18:11:58Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
+    "id": "ravisinghrajput95/kubewhy",
+    "language": "Python",
+    "name": "ravisinghrajput95/kubewhy",
+    "stars": 0,
+    "updated_at": "2026-09-07T18:04:51Z",
+    "url": "https://github.com/ravisinghrajput95/kubewhy"
+  },
+  {
     "description": "An autopoiesic kefir for computing machines",
     "id": "genaforvena/lte-workstation",
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 8,
-    "updated_at": "2026-09-07T17:58:31Z",
+    "updated_at": "2026-09-07T18:03:28Z",
     "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
@@ -36,15 +63,6 @@
     "url": "https://github.com/thehope2k/minimalist-agent"
   },
   {
-    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
-    "id": "ravisinghrajput95/kubewhy",
-    "language": "Python",
-    "name": "ravisinghrajput95/kubewhy",
-    "stars": 0,
-    "updated_at": "2026-09-07T17:53:19Z",
-    "url": "https://github.com/ravisinghrajput95/kubewhy"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
@@ -59,7 +77,7 @@
     "language": "Python",
     "name": "Zeeechenn/MingCang",
     "stars": 12,
-    "updated_at": "2026-09-07T17:57:21Z",
+    "updated_at": "2026-09-07T18:00:39Z",
     "url": "https://github.com/Zeeechenn/MingCang"
   },
   {
@@ -95,7 +113,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 8,
-    "updated_at": "2026-09-07T17:46:17Z",
+    "updated_at": "2026-09-07T18:05:36Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -106,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T17:29:22Z",
     "url": "https://github.com/daniel-caso-github/g-scan-rx"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 613,
-    "updated_at": "2026-09-07T17:58:26Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-07T16:13:03Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-09-07T16:11:51Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
   }
 ]
