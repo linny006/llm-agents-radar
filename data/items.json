@@ -1,21 +1,66 @@
 [
   {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-09-07T04:44:34Z",
-    "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
     "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
     "stars": 112,
-    "updated_at": "2026-09-07T04:42:42Z",
+    "updated_at": "2026-09-07T04:59:56Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 24,
+    "updated_at": "2026-09-07T04:56:54Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-07T04:50:56Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-09-07T04:51:48Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 16,
+    "updated_at": "2026-09-07T04:49:51Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 30922,
+    "updated_at": "2026-09-07T04:47:17Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-09-07T04:47:32Z",
+    "url": "https://github.com/JSL107/personal_agents"
   },
   {
     "description": "Built an AI-Powered Credit Risk Intelligence Platform using the Home Credit Default Risk dataset. The goal is not just t",
@@ -25,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T04:41:32Z",
     "url": "https://github.com/Samikshabatra/AI-Powered-Credit-Risk-Intelligence-Platform"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 30920,
-    "updated_at": "2026-09-07T04:38:10Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -88,15 +124,6 @@
     "stars": 5,
     "updated_at": "2026-09-07T04:13:32Z",
     "url": "https://github.com/yuyu0529nya/YuResearchAgent"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-07T04:41:16Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -187,15 +214,6 @@
     "stars": 5891,
     "updated_at": "2026-09-07T03:32:04Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-07T03:25:26Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
@@ -378,15 +396,6 @@
     "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-09-07T04:28:57Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
     "id": "pruthviraj00007/VibeHarness",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-07T01:42:48Z",
     "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
-    "id": "chadwickhyperboloidal943/knowl",
-    "language": "TypeScript",
-    "name": "chadwickhyperboloidal943/knowl",
-    "stars": 0,
-    "updated_at": "2026-09-07T01:38:59Z",
-    "url": "https://github.com/chadwickhyperboloidal943/knowl"
   }
 ]
