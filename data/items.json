@@ -1,12 +1,21 @@
 [
   {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-09-07T04:44:34Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
     "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 30919,
-    "updated_at": "2026-09-07T04:32:49Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
+    "name": "555cute/r20-quantum-trader",
+    "stars": 112,
+    "updated_at": "2026-09-07T04:42:42Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "Built an AI-Powered Credit Risk Intelligence Platform using the Home Credit Default Risk dataset. The goal is not just t",
@@ -14,8 +23,17 @@
     "language": "Python",
     "name": "Samikshabatra/AI-Powered-Credit-Risk-Intelligence-Platform",
     "stars": 0,
-    "updated_at": "2026-09-07T04:27:39Z",
+    "updated_at": "2026-09-07T04:41:32Z",
     "url": "https://github.com/Samikshabatra/AI-Powered-Credit-Risk-Intelligence-Platform"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 30920,
+    "updated_at": "2026-09-07T04:38:10Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -54,15 +72,6 @@
     "url": "https://github.com/onembyte/kolkrabbi"
   },
   {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 112,
-    "updated_at": "2026-09-07T04:18:10Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
-  },
-  {
     "description": "\u7b28\u529e\u6cd5\u5b66 Agent \u00b7 \u4eb2\u624b\u6253\u9020\u4e00\u4e2a harness\u2014\u2014\u4e0d\u7528\u6846\u67b6\uff0c32 \u4e2a\u7ec3\u4e60\u4eb2\u624b\u5199\u51fa\u4e00\u4e2a agent harness \u7684\u6bcf\u4e00\u5c42\u3002\u7cfb\u5217\u7b2c\u4e00\u672c\uff0c\u5168\u4e66\u5df2\u5b8c\u7ed3\uff0c\u4e09\u672c\u5404\u81ea\u72ec\u7acb\u4e0d\u5206\u5148\u540e\u3002",
     "id": "Leihb/learn-agent-the-hard-way",
     "language": "Go",
@@ -86,7 +95,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-07T04:27:19Z",
+    "updated_at": "2026-09-07T04:41:16Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -223,15 +232,6 @@
     "stars": 16,
     "updated_at": "2026-09-07T02:54:39Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-09-07T04:34:02Z",
-    "url": "https://github.com/JSL107/personal_agents"
   },
   {
     "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
@@ -396,6 +396,15 @@
     "url": "https://github.com/pruthviraj00007/VibeHarness"
   },
   {
+    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 31,
+    "updated_at": "2026-09-07T01:47:59Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
     "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
     "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
     "language": "Go",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-07T01:38:59Z",
     "url": "https://github.com/chadwickhyperboloidal943/knowl"
-  },
-  {
-    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
-    "id": "Laurenfeminine36/google-jules-skill",
-    "language": "Python",
-    "name": "Laurenfeminine36/google-jules-skill",
-    "stars": 1,
-    "updated_at": "2026-09-07T01:38:50Z",
-    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
   }
 ]
