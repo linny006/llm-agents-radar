@@ -1,12 +1,12 @@
 [
   {
-    "description": "\u677f\u7d1a\u71b1\u8a2d\u8a08\u7684\u795e\u7d93\u4ee3\u7406\u6a21\u578b \u00d7 \u7269\u7406\u4e00\u81f4\u6027\u8a3a\u65b7 \u00d7 \u5e36\u8b49\u64da\u7b49\u7d1a\u7684 LLM \u8a2d\u8a08\u526f\u99d5\u3002\u8a13\u7df4\u8cc7\u6599\u7531\u5167\u5efa\u7684 2D \u7a69\u614b\u71b1\u50b3\u5c0e\u6c42\u89e3\u5668\u751f\u6210\uff0c\u975e CFD\u3002",
-    "id": "cdexswzaq0110/ThermoForge",
-    "language": "Python",
-    "name": "cdexswzaq0110/ThermoForge",
+    "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
+    "id": "EpsteinF1les/tts",
+    "language": "\u2014",
+    "name": "EpsteinF1les/tts",
     "stars": 0,
-    "updated_at": "2026-09-07T08:29:57Z",
-    "url": "https://github.com/cdexswzaq0110/ThermoForge"
+    "updated_at": "2026-09-07T08:44:57Z",
+    "url": "https://github.com/EpsteinF1les/tts"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -14,8 +14,143 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-07T08:28:45Z",
+    "updated_at": "2026-09-07T08:43:18Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\u677f\u7d1a\u71b1\u8a2d\u8a08\u7684\u795e\u7d93\u4ee3\u7406\u6a21\u578b \u00d7 \u7269\u7406\u4e00\u81f4\u6027\u8a3a\u65b7 \u00d7 \u5e36\u8b49\u64da\u7b49\u7d1a\u7684 LLM \u8a2d\u8a08\u526f\u99d5\u3002\u8a13\u7df4\u8cc7\u6599\u7531\u5167\u5efa\u7684 2D \u7a69\u614b\u71b1\u50b3\u5c0e\u6c42\u89e3\u5668\u751f\u6210\uff0c\u975e CFD\u3002",
+    "id": "cdexswzaq0110/ThermoForge",
+    "language": "Python",
+    "name": "cdexswzaq0110/ThermoForge",
+    "stars": 0,
+    "updated_at": "2026-09-07T08:42:16Z",
+    "url": "https://github.com/cdexswzaq0110/ThermoForge"
+  },
+  {
+    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
+    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "language": "\u2014",
+    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "stars": 0,
+    "updated_at": "2026-09-07T08:40:11Z",
+    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
+  },
+  {
+    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
+    "id": "clashroy5384/ai-papers-hub",
+    "language": "\u2014",
+    "name": "clashroy5384/ai-papers-hub",
+    "stars": 0,
+    "updated_at": "2026-09-07T08:39:26Z",
+    "url": "https://github.com/clashroy5384/ai-papers-hub"
+  },
+  {
+    "description": "\u300c\u8861 \u00b7 Heng\u300d\u8de8\u5883\u7535\u5546\u8d2d\u7269 Agent \u7684\u53ef\u4fe1\u5ea6\u5de5\u7a0b\u3002\u7ee7\u627f\u81ea\u539f\u9879\u76ee globex-agent \u5e76\u5168\u9762\u6539\u9020\uff1a\u68c0\u7d22/\u5230\u624b\u4ef7/\u7ec4\u5408\u4f18\u5316/\u4e0b\u5355\u5168\u94fe\u8def\u4e0e\u957f\u671f\u8bb0\u5fc6\uff1b8 \u7c7b\u786e\u5b9a\u6027\u5224\u636e\u3001\u516b\u9879\u96f6\u6210\u672c\u63d0\u4ea4\u95e8\u7981\uff0c\u6bcf\u9053\u62a4\u680f\u5e26\u771f\u7ea2\u8bc1\u636e\u94fe\uff1b\u81ea\u5efa\u8bc4\u6d4b\uff0844+11 ",
+    "id": "emmmdty/heng-agent",
+    "language": "Python",
+    "name": "emmmdty/heng-agent",
+    "stars": 0,
+    "updated_at": "2026-09-07T08:39:04Z",
+    "url": "https://github.com/emmmdty/heng-agent"
+  },
+  {
+    "description": "Agentic CLI for the Scrapfly platform: scrape, extract, crawl, and drive a cloud browser over CDP. Built-in LLM agent wi",
+    "id": "scrapfly/scrapfly-cli",
+    "language": "Go",
+    "name": "scrapfly/scrapfly-cli",
+    "stars": 5,
+    "updated_at": "2026-09-07T08:38:01Z",
+    "url": "https://github.com/scrapfly/scrapfly-cli"
+  },
+  {
+    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
+    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
+    "language": "Python",
+    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
+    "stars": 5,
+    "updated_at": "2026-09-07T08:37:31Z",
+    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
+  },
+  {
+    "description": "Official Scrapfly MCP server for Cursor, Claude Desktop, and any MCP-compatible client. Enterprise-grade web scraping, A",
+    "id": "scrapfly/scrapfly-mcp",
+    "language": "Go",
+    "name": "scrapfly/scrapfly-mcp",
+    "stars": 14,
+    "updated_at": "2026-09-07T08:35:53Z",
+    "url": "https://github.com/scrapfly/scrapfly-mcp"
+  },
+  {
+    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
+    "id": "oxidizable-malinois605/bridge-suite-mcp",
+    "language": "TypeScript",
+    "name": "oxidizable-malinois605/bridge-suite-mcp",
+    "stars": 0,
+    "updated_at": "2026-09-07T08:35:30Z",
+    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
+  },
+  {
+    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
+    "id": "Arjunadh5305/ios-skills-collection",
+    "language": "\u2014",
+    "name": "Arjunadh5305/ios-skills-collection",
+    "stars": 1,
+    "updated_at": "2026-09-07T08:35:30Z",
+    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
+  },
+  {
+    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
+    "id": "Stolas34/voice-input-src",
+    "language": "\u2014",
+    "name": "Stolas34/voice-input-src",
+    "stars": 0,
+    "updated_at": "2026-09-07T08:35:13Z",
+    "url": "https://github.com/Stolas34/voice-input-src"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-07T08:34:26Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
+    "id": "Screwtopped-annapavlova802/SparkLabs",
+    "language": "C++",
+    "name": "Screwtopped-annapavlova802/SparkLabs",
+    "stars": 1,
+    "updated_at": "2026-09-07T08:33:11Z",
+    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
+  },
+  {
+    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
+    "id": "mriazi1982/octopai",
+    "language": "Python",
+    "name": "mriazi1982/octopai",
+    "stars": 1,
+    "updated_at": "2026-09-07T08:31:47Z",
+    "url": "https://github.com/mriazi1982/octopai"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 805,
+    "updated_at": "2026-09-07T08:31:26Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 1004,
+    "updated_at": "2026-09-07T08:36:55Z",
+    "url": "https://github.com/ongridio/ongrid"
   },
   {
     "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
@@ -81,31 +216,13 @@
     "url": "https://github.com/mohahasan/ios-agentic-skills"
   },
   {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 1004,
-    "updated_at": "2026-09-07T08:24:29Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4410,
-    "updated_at": "2026-09-07T08:22:59Z",
+    "updated_at": "2026-09-07T08:36:41Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-07T08:18:58Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "\uba54\uc2e0\uc800\ub85c \ub300\ud654\ud558\ub294 \ub098\ub9cc\uc758 AI \uc5d0\uc774\uc804\ud2b8 \u2014 claude -p\ub97c \uad6c\ub3c5 \uc778\uc99d\uc73c\ub85c \uac10\uc2f8 \ucd94\uac00 \ube44\uc6a9 \uc5c6\uc774 \ub3cc\ub9ac\ub294 personal agent harness (Hermes 5\uae30\ub465 + \uc2b9\uc778 \uac8c\uc774\ud2b8 drift \ubc29\uc9c0)",
@@ -178,15 +295,6 @@
     "stars": 115,
     "updated_at": "2026-09-07T08:08:12Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
-  },
-  {
-    "description": "\u300c\u8861 \u00b7 Heng\u300d\u8de8\u5883\u7535\u5546\u8d2d\u7269 Agent \u7684\u53ef\u4fe1\u5ea6\u5de5\u7a0b\u3002\u7ee7\u627f\u81ea\u539f\u9879\u76ee globex-agent \u5e76\u5168\u9762\u6539\u9020\uff1a\u68c0\u7d22/\u5230\u624b\u4ef7/\u7ec4\u5408\u4f18\u5316/\u4e0b\u5355\u5168\u94fe\u8def\u4e0e\u957f\u671f\u8bb0\u5fc6\uff1b8 \u7c7b\u786e\u5b9a\u6027\u5224\u636e\u3001\u516b\u9879\u96f6\u6210\u672c\u63d0\u4ea4\u95e8\u7981\uff0c\u6bcf\u9053\u62a4\u680f\u5e26\u771f\u7ea2\u8bc1\u636e\u94fe\uff1b\u81ea\u5efa\u8bc4\u6d4b\uff0844+11 ",
-    "id": "emmmdty/heng-agent",
-    "language": "Python",
-    "name": "emmmdty/heng-agent",
-    "stars": 0,
-    "updated_at": "2026-09-07T08:07:24Z",
-    "url": "https://github.com/emmmdty/heng-agent"
   },
   {
     "description": "",
@@ -270,15 +378,6 @@
     "url": "https://github.com/sola-st/RepairAgent"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 805,
-    "updated_at": "2026-09-07T08:13:04Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
     "description": "An LLM agent for building OpenAPI specifications based on the given code",
     "id": "grauwolf32/contractor",
     "language": "Go",
@@ -349,104 +448,5 @@
     "stars": 553,
     "updated_at": "2026-09-07T06:52:57Z",
     "url": "https://github.com/BlockRunAI/Franklin"
-  },
-  {
-    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
-    "id": "karvidsson/kbots",
-    "language": "Python",
-    "name": "karvidsson/kbots",
-    "stars": 0,
-    "updated_at": "2026-09-07T06:40:41Z",
-    "url": "https://github.com/karvidsson/kbots"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-09-07T06:42:05Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Adversarial Prover/Skeptic code-generation loop, verified by real sandboxed execution \u2014 not an LLM's opinion",
-    "id": "asim-aa/breakpoint",
-    "language": "Python",
-    "name": "asim-aa/breakpoint",
-    "stars": 0,
-    "updated_at": "2026-09-07T06:33:32Z",
-    "url": "https://github.com/asim-aa/breakpoint"
-  },
-  {
-    "description": "TaskWizard\uff1a\u8584\u73af\uff08thin-loop\uff09LLM \u5b89\u5353\u624b\u673a\u667a\u80fd\u4f53 \u2014 \u6bcf\u6b65\u4e00\u6b21\u6a21\u578b\u8c03\u7528\u3001marks-first \u843d\u5730\u3001\u5b89\u5168\u9884\u8b66\u5236\u3001App-KB \u81ea\u79ef\u7d2f\u8bb0\u5fc6\u3001\u7ecf\u9a8c\u56de\u60f3\uff08RAG shadow\uff09\u3002Thin-loop LLM Android ",
-    "id": "tom-cat-mao/TaskWizard",
-    "language": "Python",
-    "name": "tom-cat-mao/TaskWizard",
-    "stars": 0,
-    "updated_at": "2026-09-07T07:11:38Z",
-    "url": "https://github.com/tom-cat-mao/TaskWizard"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-09-07T08:22:02Z",
-    "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 16,
-    "updated_at": "2026-09-07T06:29:24Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "ProactiveAgent \u00d7 DeepSeek Harness \u63d2\u4ef6\u7ec4\uff1a\u628a\u4e3b\u52a8\u8bb0\u5fc6 + \u4e3b\u52a8\u5efa\u8bae\u63a5\u5165 DSH\uff086 \u4e2a cordis \u63d2\u4ef6\uff0c\u5f15\u64ce\u96f6\u91cd\u5199\uff09",
-    "id": "ConradLu2740/pa-dsh",
-    "language": "JavaScript",
-    "name": "ConradLu2740/pa-dsh",
-    "stars": 1,
-    "updated_at": "2026-09-07T06:15:26Z",
-    "url": "https://github.com/ConradLu2740/pa-dsh"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-09-07T06:43:57Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Evidence-grounded multi-agent deep research with claim-level attribution, gap-driven retrieval, auditable evaluation, an",
-    "id": "yuyu0529nya/YuResearchAgent",
-    "language": "Python",
-    "name": "yuyu0529nya/YuResearchAgent",
-    "stars": 5,
-    "updated_at": "2026-09-07T05:56:08Z",
-    "url": "https://github.com/yuyu0529nya/YuResearchAgent"
-  },
-  {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-09-07T06:26:42Z",
-    "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
-    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
-    "id": "Heliotrope-dev/finance-agent",
-    "language": "Python",
-    "name": "Heliotrope-dev/finance-agent",
-    "stars": 2,
-    "updated_at": "2026-09-07T05:49:07Z",
-    "url": "https://github.com/Heliotrope-dev/finance-agent"
   }
 ]
