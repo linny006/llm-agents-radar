@@ -1,5 +1,59 @@
 [
   {
+    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
+    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "language": "HTML",
+    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "stars": 0,
+    "updated_at": "2026-09-07T01:28:37Z",
+    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
+    "id": "hasting323/AutoGLM-For-Android",
+    "language": "Kotlin",
+    "name": "hasting323/AutoGLM-For-Android",
+    "stars": 10,
+    "updated_at": "2026-09-07T01:25:12Z",
+    "url": "https://github.com/hasting323/AutoGLM-For-Android"
+  },
+  {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 1,
+    "updated_at": "2026-09-07T01:24:03Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
+    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 30,
+    "updated_at": "2026-09-07T01:25:24Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-09-07T01:22:18Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-07T01:16:05Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
     "description": "Local coding agent with native Zhipu GLM / StepFun Step Coding-Plan support. Four hard gates \u2014 the agent can't claim don",
     "id": "Lion-1209/coderio",
     "language": "Python",
@@ -27,21 +81,12 @@
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-07T01:03:21Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
     "id": "ChanTso/citybuddy",
     "language": "Java",
     "name": "ChanTso/citybuddy",
     "stars": 0,
-    "updated_at": "2026-09-07T00:56:53Z",
+    "updated_at": "2026-09-07T01:21:37Z",
     "url": "https://github.com/ChanTso/citybuddy"
   },
   {
@@ -50,7 +95,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-09-07T01:03:38Z",
+    "updated_at": "2026-09-07T01:30:00Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -85,18 +130,9 @@
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
-    "stars": 103,
+    "stars": 104,
     "updated_at": "2026-09-07T00:31:00Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
-  },
-  {
-    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 30,
-    "updated_at": "2026-09-07T00:25:53Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -157,7 +193,7 @@
     "id": "feder-cr/AIHawk",
     "language": "Python",
     "name": "feder-cr/AIHawk",
-    "stars": 30317,
+    "stars": 30318,
     "updated_at": "2026-09-06T23:45:27Z",
     "url": "https://github.com/feder-cr/AIHawk"
   },
@@ -212,7 +248,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-07T00:06:23Z",
+    "updated_at": "2026-09-07T01:19:10Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-06T19:03:06Z",
     "url": "https://github.com/Unpapamericano/autonomous-scientific-agent"
-  },
-  {
-    "description": "Sort your Downloads by project, not file type \u2014 with one-command undo. No delete, ever.",
-    "id": "verniceunleaded6135/tidy-undo",
-    "language": "Python",
-    "name": "verniceunleaded6135/tidy-undo",
-    "stars": 0,
-    "updated_at": "2026-09-06T19:02:34Z",
-    "url": "https://github.com/verniceunleaded6135/tidy-undo"
-  },
-  {
-    "description": "Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node\u2014no complex workflows needed.",
-    "id": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
-    "language": "JavaScript",
-    "name": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
-    "stars": 3,
-    "updated_at": "2026-09-06T19:01:44Z",
-    "url": "https://github.com/Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3"
-  },
-  {
-    "description": "Control your Windows laptop remotely via Discord with AI-powered voice and text commands in English or Urdu.",
-    "id": "Ottoman-reticule726/zara-ai-laptop-agent",
-    "language": "Python",
-    "name": "Ottoman-reticule726/zara-ai-laptop-agent",
-    "stars": 0,
-    "updated_at": "2026-09-06T19:01:00Z",
-    "url": "https://github.com/Ottoman-reticule726/zara-ai-laptop-agent"
-  },
-  {
-    "description": "Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons.",
-    "id": "alejandrogg15/Minimax-H3-Turbo",
-    "language": "Python",
-    "name": "alejandrogg15/Minimax-H3-Turbo",
-    "stars": 0,
-    "updated_at": "2026-09-06T19:00:49Z",
-    "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
   }
 ]
