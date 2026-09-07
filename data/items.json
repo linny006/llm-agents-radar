@@ -1,5 +1,23 @@
 [
   {
+    "description": "ProactiveAgent \u00d7 DeepSeek Harness \u63d2\u4ef6\u7ec4\uff1a\u628a\u4e3b\u52a8\u8bb0\u5fc6 + \u4e3b\u52a8\u5efa\u8bae\u63a5\u5165 DSH\uff086 \u4e2a cordis \u63d2\u4ef6\uff0c\u5f15\u64ce\u96f6\u91cd\u5199\uff09",
+    "id": "ConradLu2740/pa-dsh",
+    "language": "JavaScript",
+    "name": "ConradLu2740/pa-dsh",
+    "stars": 1,
+    "updated_at": "2026-09-07T06:12:47Z",
+    "url": "https://github.com/ConradLu2740/pa-dsh"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-09-07T06:05:45Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "Evidence-grounded multi-agent deep research with claim-level attribution, gap-driven retrieval, auditable evaluation, an",
     "id": "yuyu0529nya/YuResearchAgent",
     "language": "Python",
@@ -14,7 +32,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-07T05:50:50Z",
+    "updated_at": "2026-09-07T06:15:16Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -23,7 +41,7 @@
     "language": "Rust",
     "name": "citizenhicks/mobius",
     "stars": 1,
-    "updated_at": "2026-09-07T05:57:18Z",
+    "updated_at": "2026-09-07T06:07:45Z",
     "url": "https://github.com/citizenhicks/mobius"
   },
   {
@@ -61,6 +79,15 @@
     "stars": 0,
     "updated_at": "2026-09-07T05:42:26Z",
     "url": "https://github.com/diaban/jobsmith"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3219,
+    "updated_at": "2026-09-07T05:35:45Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -103,7 +130,7 @@
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
-    "stars": 113,
+    "stars": 114,
     "updated_at": "2026-09-07T05:18:26Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
   },
@@ -153,20 +180,11 @@
     "url": "https://github.com/tomcounsell/ai"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-09-07T04:51:48Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 30926,
+    "stars": 30927,
     "updated_at": "2026-09-07T04:47:17Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -274,7 +292,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5892,
+    "stars": 5893,
     "updated_at": "2026-09-07T03:32:04Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -347,7 +365,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 611,
-    "updated_at": "2026-09-07T02:32:50Z",
+    "updated_at": "2026-09-07T06:09:29Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-07T01:52:39Z",
     "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
-  },
-  {
-    "description": "Control your Windows laptop remotely via Discord with AI-powered voice and text commands in English or Urdu.",
-    "id": "Ottoman-reticule726/zara-ai-laptop-agent",
-    "language": "Python",
-    "name": "Ottoman-reticule726/zara-ai-laptop-agent",
-    "stars": 0,
-    "updated_at": "2026-09-07T01:52:35Z",
-    "url": "https://github.com/Ottoman-reticule726/zara-ai-laptop-agent"
-  },
-  {
-    "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
-    "id": "Aureliedumbfounding630/agent-governance-toolkit",
-    "language": "\u2014",
-    "name": "Aureliedumbfounding630/agent-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-09-07T01:51:12Z",
-    "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
   }
 ]
