@@ -1,5 +1,14 @@
 [
   {
+    "description": "MemGuard - eBPF-based real-time memory poisoning detection and alerting for LLM agents (AgentSight overlay)",
+    "id": "chuhaijian/memguard-agent",
+    "language": "Rust",
+    "name": "chuhaijian/memguard-agent",
+    "stars": 0,
+    "updated_at": "2026-09-07T19:16:52Z",
+    "url": "https://github.com/chuhaijian/memguard-agent"
+  },
+  {
     "description": "Adversarial Prover/Skeptic code-generation loop, verified by real sandboxed execution \u2014 not an LLM's opinion",
     "id": "asim-aa/breakpoint",
     "language": "Python",
@@ -16,15 +25,6 @@
     "stars": 1,
     "updated_at": "2026-09-07T19:11:43Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "MemGuard - eBPF-based real-time memory poisoning detection and alerting for LLM agents (AgentSight overlay)",
-    "id": "chuhaijian/memguard-agent",
-    "language": "Rust",
-    "name": "chuhaijian/memguard-agent",
-    "stars": 0,
-    "updated_at": "2026-09-07T19:10:43Z",
-    "url": "https://github.com/chuhaijian/memguard-agent"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -113,7 +113,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 613,
-    "updated_at": "2026-09-07T18:57:11Z",
+    "updated_at": "2026-09-07T19:18:11Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -122,7 +122,7 @@
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 8,
-    "updated_at": "2026-09-07T18:48:50Z",
+    "updated_at": "2026-09-07T19:18:04Z",
     "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
@@ -131,7 +131,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-07T19:13:21Z",
+    "updated_at": "2026-09-07T19:17:06Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
