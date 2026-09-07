@@ -1,12 +1,21 @@
 [
   {
-    "description": "MemGuard - eBPF-based real-time memory poisoning detection and alerting for LLM agents (AgentSight overlay)",
-    "id": "chuhaijian/memguard-agent",
-    "language": "Rust",
-    "name": "chuhaijian/memguard-agent",
-    "stars": 0,
-    "updated_at": "2026-09-07T19:16:52Z",
-    "url": "https://github.com/chuhaijian/memguard-agent"
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-09-07T19:27:08Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "Usa Qlib como cerebro cuant y Vibe-Trading como manos: scores de acciones por ML servidos a un agente de trading LLM v\u00eda",
+    "id": "Ax3lsk3r3/QuantVibe",
+    "language": "TypeScript",
+    "name": "Ax3lsk3r3/QuantVibe",
+    "stars": 2,
+    "updated_at": "2026-09-07T19:24:13Z",
+    "url": "https://github.com/Ax3lsk3r3/QuantVibe"
   },
   {
     "description": "Adversarial Prover/Skeptic code-generation loop, verified by real sandboxed execution \u2014 not an LLM's opinion",
@@ -14,8 +23,35 @@
     "language": "Python",
     "name": "asim-aa/breakpoint",
     "stars": 0,
-    "updated_at": "2026-09-07T19:13:25Z",
+    "updated_at": "2026-09-07T19:23:45Z",
     "url": "https://github.com/asim-aa/breakpoint"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 613,
+    "updated_at": "2026-09-07T19:29:15Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "MemGuard - eBPF-based real-time memory poisoning detection and alerting for LLM agents (AgentSight overlay)",
+    "id": "chuhaijian/memguard-agent",
+    "language": "Rust",
+    "name": "chuhaijian/memguard-agent",
+    "stars": 3,
+    "updated_at": "2026-09-07T19:21:33Z",
+    "url": "https://github.com/chuhaijian/memguard-agent"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-07T19:18:04Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -34,15 +70,6 @@
     "stars": 4410,
     "updated_at": "2026-09-07T19:15:11Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Usa Qlib como cerebro cuant y Vibe-Trading como manos: scores de acciones por ML servidos a un agente de trading LLM v\u00eda",
-    "id": "Ax3lsk3r3/QuantVibe",
-    "language": "TypeScript",
-    "name": "Ax3lsk3r3/QuantVibe",
-    "stars": 2,
-    "updated_at": "2026-09-07T19:09:35Z",
-    "url": "https://github.com/Ax3lsk3r3/QuantVibe"
   },
   {
     "description": "Easy-to-use, customizable, high-quality vulnerability management skills for AI agents.",
@@ -77,7 +104,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 805,
-    "updated_at": "2026-09-07T19:09:56Z",
+    "updated_at": "2026-09-07T19:29:43Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -108,30 +135,12 @@
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 613,
-    "updated_at": "2026-09-07T19:18:11Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-07T19:18:04Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-07T19:17:06Z",
+    "updated_at": "2026-09-07T19:29:41Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -194,7 +203,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 8,
-    "updated_at": "2026-09-07T18:19:51Z",
+    "updated_at": "2026-09-07T19:27:27Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -203,17 +212,8 @@
     "language": "Rust",
     "name": "metric-space-ai/greppy",
     "stars": 8,
-    "updated_at": "2026-09-07T18:39:22Z",
+    "updated_at": "2026-09-07T19:29:10Z",
     "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-09-07T18:49:40Z",
-    "url": "https://github.com/b-macker/NAAb"
   },
   {
     "description": "An AI Agent for everyday SWE with minimalist style",
