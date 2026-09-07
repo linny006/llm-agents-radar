@@ -1,12 +1,48 @@
 [
   {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 8,
+    "updated_at": "2026-09-07T22:25:11Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
+    "id": "feder-cr/AIHawk",
+    "language": "Python",
+    "name": "feder-cr/AIHawk",
+    "stars": 30318,
+    "updated_at": "2026-09-07T22:21:41Z",
+    "url": "https://github.com/feder-cr/AIHawk"
+  },
+  {
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 8,
+    "updated_at": "2026-09-07T22:22:02Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
     "description": "Policy-driven autopilot for Dependabot PRs and patch releases, with Slack/Discord/Matrix digests",
     "id": "no42-org/twiki",
     "language": "TypeScript",
     "name": "no42-org/twiki",
     "stars": 0,
-    "updated_at": "2026-09-07T22:15:01Z",
+    "updated_at": "2026-09-07T22:28:34Z",
     "url": "https://github.com/no42-org/twiki"
+  },
+  {
+    "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
+    "id": "khudayarovich/onflip-agent",
+    "language": "TypeScript",
+    "name": "khudayarovich/onflip-agent",
+    "stars": 2,
+    "updated_at": "2026-09-07T22:18:36Z",
+    "url": "https://github.com/khudayarovich/onflip-agent"
   },
   {
     "description": "An in-process bridge giving an AI agent real access to a modded Minecraft world - including mod APIs a protocol-level bo",
@@ -14,7 +50,7 @@
     "language": "Java",
     "name": "max-champlin/ghost",
     "stars": 0,
-    "updated_at": "2026-09-07T22:11:34Z",
+    "updated_at": "2026-09-07T22:16:44Z",
     "url": "https://github.com/max-champlin/ghost"
   },
   {
@@ -61,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-09-07T22:01:49Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
-    "id": "khudayarovich/onflip-agent",
-    "language": "TypeScript",
-    "name": "khudayarovich/onflip-agent",
-    "stars": 2,
-    "updated_at": "2026-09-07T22:01:00Z",
-    "url": "https://github.com/khudayarovich/onflip-agent"
   },
   {
     "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
@@ -306,15 +333,6 @@
     "url": "https://github.com/karvidsson/kbots"
   },
   {
-    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
-    "id": "metric-space-ai/greppy",
-    "language": "Rust",
-    "name": "metric-space-ai/greppy",
-    "stars": 8,
-    "updated_at": "2026-09-07T21:33:03Z",
-    "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
     "description": "MemGuard - eBPF-based real-time memory poisoning detection and alerting for LLM agents (AgentSight overlay)",
     "id": "chuhaijian/memguard-agent",
     "language": "Rust",
@@ -387,15 +405,6 @@
     "url": "https://github.com/the-priest/PriestsBasilisk"
   },
   {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 8,
-    "updated_at": "2026-09-07T22:11:21Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
     "description": "An AI Agent for everyday SWE with minimalist style",
     "id": "thehope2k/minimalist-agent",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 16,
     "updated_at": "2026-09-07T17:19:15Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "Living technical memory for AI agents \u2014 official SoluCortex MCP server",
-    "id": "soluai-spa/solucortex-mcp",
-    "language": "Python",
-    "name": "soluai-spa/solucortex-mcp",
-    "stars": 0,
-    "updated_at": "2026-09-07T17:03:08Z",
-    "url": "https://github.com/soluai-spa/solucortex-mcp"
   }
 ]
