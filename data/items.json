@@ -1,5 +1,50 @@
 [
   {
+    "description": "An in-process bridge giving an AI agent real access to a modded Minecraft world - including mod APIs a protocol-level bo",
+    "id": "max-champlin/ghost",
+    "language": "Java",
+    "name": "max-champlin/ghost",
+    "stars": 0,
+    "updated_at": "2026-09-07T12:14:55Z",
+    "url": "https://github.com/max-champlin/ghost"
+  },
+  {
+    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
+    "id": "karvidsson/kbots",
+    "language": "Python",
+    "name": "karvidsson/kbots",
+    "stars": 0,
+    "updated_at": "2026-09-07T12:12:53Z",
+    "url": "https://github.com/karvidsson/kbots"
+  },
+  {
+    "description": "Policy-driven autopilot for Dependabot PRs and patch releases, with Slack/Discord/Matrix digests",
+    "id": "no42-org/twiki",
+    "language": "TypeScript",
+    "name": "no42-org/twiki",
+    "stars": 0,
+    "updated_at": "2026-09-07T12:12:40Z",
+    "url": "https://github.com/no42-org/twiki"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-09-07T12:05:51Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-07T12:03:10Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
@@ -45,15 +90,6 @@
     "url": "https://github.com/NUS-Program-Verification/AutoRocq"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-07T11:49:19Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2a\u4eba\u6d3b\u52a8\u5206\u6790\u5de5\u5177\uff1a\u5728\u672c\u5730\u91c7\u96c6\u7a97\u53e3\u6807\u9898\u4e0e\u6587\u4ef6\u5143\u6570\u636e\uff0c\u7531\u672c\u5730 Agent \u805a\u5408\u5206\u6790\uff0c\u6570\u636e\u683c\u5f0f\u517c\u5bb9 ActivityWatch",
     "id": "chunleik/self-analyst",
     "language": "Java",
@@ -86,7 +122,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-07T11:57:51Z",
+    "updated_at": "2026-09-07T12:08:09Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -158,7 +194,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 805,
-    "updated_at": "2026-09-07T11:19:28Z",
+    "updated_at": "2026-09-07T12:07:30Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -176,7 +212,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4410,
-    "updated_at": "2026-09-07T11:59:53Z",
+    "updated_at": "2026-09-07T12:13:43Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -214,6 +250,15 @@
     "stars": 0,
     "updated_at": "2026-09-07T10:24:23Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5733,
+    "updated_at": "2026-09-07T10:24:04Z",
+    "url": "https://github.com/areal-project/AReaL"
   },
   {
     "description": "A framework for building intelligent agents",
@@ -319,7 +364,7 @@
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
-    "stars": 136,
+    "stars": 137,
     "updated_at": "2026-09-07T09:38:15Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
   },
@@ -403,50 +448,5 @@
     "stars": 230,
     "updated_at": "2026-09-07T09:01:48Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "Built an AI-Powered Credit Risk Intelligence Platform using the Home Credit Default Risk dataset. The goal is not just t",
-    "id": "Samikshabatra/AI-Powered-Credit-Risk-Intelligence-Platform",
-    "language": "Python",
-    "name": "Samikshabatra/AI-Powered-Credit-Risk-Intelligence-Platform",
-    "stars": 0,
-    "updated_at": "2026-09-07T08:47:51Z",
-    "url": "https://github.com/Samikshabatra/AI-Powered-Credit-Risk-Intelligence-Platform"
-  },
-  {
-    "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
-    "id": "brittewestafrican981/ComfyUI-YinChao",
-    "language": "Python",
-    "name": "brittewestafrican981/ComfyUI-YinChao",
-    "stars": 0,
-    "updated_at": "2026-09-07T08:47:45Z",
-    "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-09-07T08:58:12Z",
-    "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
-    "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
-    "id": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
-    "language": "Python",
-    "name": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
-    "stars": 4,
-    "updated_at": "2026-09-07T08:46:37Z",
-    "url": "https://github.com/mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo"
-  },
-  {
-    "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
-    "id": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
-    "language": "Python",
-    "name": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
-    "stars": 2,
-    "updated_at": "2026-09-07T08:45:38Z",
-    "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
   }
 ]
