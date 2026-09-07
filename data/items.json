@@ -1,12 +1,66 @@
 [
   {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 30919,
+    "updated_at": "2026-09-07T04:27:40Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "Built an AI-Powered Credit Risk Intelligence Platform using the Home Credit Default Risk dataset. The goal is not just t",
+    "id": "Samikshabatra/AI-Powered-Credit-Risk-Intelligence-Platform",
+    "language": "Python",
+    "name": "Samikshabatra/AI-Powered-Credit-Risk-Intelligence-Platform",
+    "stars": 0,
+    "updated_at": "2026-09-07T04:27:39Z",
+    "url": "https://github.com/Samikshabatra/AI-Powered-Credit-Risk-Intelligence-Platform"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-09-07T04:25:48Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Deterministic orchestration, execution assurance, and quota-aware continuity runtime for GLM coding agents in ZCode",
+    "id": "Chengy257/glm-conductor",
+    "language": "Python",
+    "name": "Chengy257/glm-conductor",
+    "stars": 1,
+    "updated_at": "2026-09-07T04:23:58Z",
+    "url": "https://github.com/Chengy257/glm-conductor"
+  },
+  {
+    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 5,
+    "updated_at": "2026-09-07T04:21:52Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
     "description": "Open-source AI coding agent for the terminal that works with several subscriptions in one session \u2014 your Claude Pro/Max,",
     "id": "onembyte/kolkrabbi",
     "language": "Go",
     "name": "onembyte/kolkrabbi",
     "stars": 1,
-    "updated_at": "2026-09-07T04:15:06Z",
+    "updated_at": "2026-09-07T04:20:51Z",
     "url": "https://github.com/onembyte/kolkrabbi"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 112,
+    "updated_at": "2026-09-07T04:18:10Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "\u7b28\u529e\u6cd5\u5b66 Agent \u00b7 \u4eb2\u624b\u6253\u9020\u4e00\u4e2a harness\u2014\u2014\u4e0d\u7528\u6846\u67b6\uff0c32 \u4e2a\u7ec3\u4e60\u4eb2\u624b\u5199\u51fa\u4e00\u4e2a agent harness \u7684\u6bcf\u4e00\u5c42\u3002\u7cfb\u5217\u7b2c\u4e00\u672c\uff0c\u5168\u4e66\u5df2\u5b8c\u7ed3\uff0c\u4e09\u672c\u5404\u81ea\u72ec\u7acb\u4e0d\u5206\u5148\u540e\u3002",
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-07T04:12:46Z",
+    "updated_at": "2026-09-07T04:27:19Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -43,15 +97,6 @@
     "stars": 126,
     "updated_at": "2026-09-07T04:07:52Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 112,
-    "updated_at": "2026-09-07T04:07:20Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -149,7 +194,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-09-07T03:41:40Z",
+    "updated_at": "2026-09-07T04:20:34Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -185,7 +230,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-07T04:05:12Z",
+    "updated_at": "2026-09-07T04:24:43Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -338,7 +383,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-07T04:01:15Z",
+    "updated_at": "2026-09-07T04:28:57Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-07T01:38:50Z",
     "url": "https://github.com/Laurenfeminine36/google-jules-skill"
-  },
-  {
-    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 30,
-    "updated_at": "2026-09-07T01:47:59Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-09-07T01:38:39Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
-    "id": "ChanTso/citybuddy",
-    "language": "Java",
-    "name": "ChanTso/citybuddy",
-    "stars": 0,
-    "updated_at": "2026-09-07T01:37:26Z",
-    "url": "https://github.com/ChanTso/citybuddy"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-09-07T01:36:34Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 0,
-    "updated_at": "2026-09-07T01:36:18Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
   }
 ]
