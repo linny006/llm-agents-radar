@@ -1,5 +1,41 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 24,
+    "updated_at": "2026-09-07T14:26:26Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "A Plan-and-Verify LLM Agent for Repository-Level Data Engineering",
+    "id": "ll-dmw/DataPilot",
+    "language": "Python",
+    "name": "ll-dmw/DataPilot",
+    "stars": 1,
+    "updated_at": "2026-09-07T14:18:31Z",
+    "url": "https://github.com/ll-dmw/DataPilot"
+  },
+  {
+    "description": "Boot-time integrity check for AI agent memory & convention files \u2014 catch silent convention loss, injection dilution, bro",
+    "id": "chenhz01/agent-memory-doctor",
+    "language": "Python",
+    "name": "chenhz01/agent-memory-doctor",
+    "stars": 1,
+    "updated_at": "2026-09-07T14:16:13Z",
+    "url": "https://github.com/chenhz01/agent-memory-doctor"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-07T14:16:09Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
     "description": "AgentBypass \u2014 Omni Operator LLM Agent Skill (Cknb): Turn any LLM into RE / Pwn / CTF / Pentest / Protocol / Crypto / Mob",
     "id": "1837620622/agent-bypass",
     "language": "\u2014",
@@ -18,15 +54,6 @@
     "url": "https://github.com/wiseria-ai-labs/pie-ai-agent"
   },
   {
-    "description": "Boot-time integrity check for AI agent memory & convention files \u2014 catch silent convention loss, injection dilution, bro",
-    "id": "chenhz01/agent-memory-doctor",
-    "language": "Python",
-    "name": "chenhz01/agent-memory-doctor",
-    "stars": 0,
-    "updated_at": "2026-09-07T14:09:16Z",
-    "url": "https://github.com/chenhz01/agent-memory-doctor"
-  },
-  {
     "description": "Build a production-capable AI agent from scratch in 12 chapters. No frameworks, under 200 lines each.",
     "id": "idk-arsh/build-your-own-agent",
     "language": "Python",
@@ -34,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T14:08:33Z",
     "url": "https://github.com/idk-arsh/build-your-own-agent"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-07T14:03:10Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Automatically Update LLM-Agent Papers Daily using Github Actions (Update Every 12th hours)",
@@ -157,7 +175,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 30983,
+    "stars": 30985,
     "updated_at": "2026-09-07T13:10:30Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -306,15 +324,6 @@
     "url": "https://github.com/HercoZauZau/Baghdad"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-07T14:00:19Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
     "id": "ChanTso/citybuddy",
     "language": "Java",
@@ -439,14 +448,5 @@
     "stars": 31,
     "updated_at": "2026-09-07T10:14:54Z",
     "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
-    "description": "Enterprise ChatBI / Data Agent: LLM emits contract-bound DSL only, deterministic compiler \u2192 SQL on DuckDB. Zero hallucin",
-    "id": "Cwentor/FutureBI",
-    "language": "Python",
-    "name": "Cwentor/FutureBI",
-    "stars": 1,
-    "updated_at": "2026-09-07T10:14:49Z",
-    "url": "https://github.com/Cwentor/FutureBI"
   }
 ]
