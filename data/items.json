@@ -1,12 +1,129 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 24,
+    "updated_at": "2026-09-07T08:12:49Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-09-07T08:11:55Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 1004,
+    "updated_at": "2026-09-07T08:11:23Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-09-07T08:10:15Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-09-07T08:08:12Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
     "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
     "stars": 115,
-    "updated_at": "2026-09-07T07:57:58Z",
+    "updated_at": "2026-09-07T08:08:12Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "\u300c\u8861 \u00b7 Heng\u300d\u8de8\u5883\u7535\u5546\u8d2d\u7269 Agent \u7684\u53ef\u4fe1\u5ea6\u5de5\u7a0b\u3002\u7ee7\u627f\u81ea\u539f\u9879\u76ee globex-agent \u5e76\u5168\u9762\u6539\u9020\uff1a\u68c0\u7d22/\u5230\u624b\u4ef7/\u7ec4\u5408\u4f18\u5316/\u4e0b\u5355\u5168\u94fe\u8def\u4e0e\u957f\u671f\u8bb0\u5fc6\uff1b8 \u7c7b\u786e\u5b9a\u6027\u5224\u636e\u3001\u516b\u9879\u96f6\u6210\u672c\u63d0\u4ea4\u95e8\u7981\uff0c\u6bcf\u9053\u62a4\u680f\u5e26\u771f\u7ea2\u8bc1\u636e\u94fe\uff1b\u81ea\u5efa\u8bc4\u6d4b\uff0844+11 ",
+    "id": "emmmdty/heng-agent",
+    "language": "Python",
+    "name": "emmmdty/heng-agent",
+    "stars": 0,
+    "updated_at": "2026-09-07T08:07:24Z",
+    "url": "https://github.com/emmmdty/heng-agent"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-09-07T08:07:11Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-07T08:03:06Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-09-07T08:02:36Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-09-07T08:01:51Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 129,
+    "updated_at": "2026-09-07T08:01:23Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 465,
+    "updated_at": "2026-09-07T08:01:04Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
+    "id": "AgentEra/Agently",
+    "language": "Python",
+    "name": "AgentEra/Agently",
+    "stars": 1647,
+    "updated_at": "2026-09-07T08:00:06Z",
+    "url": "https://github.com/AgentEra/Agently"
   },
   {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
@@ -14,7 +131,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 16,
-    "updated_at": "2026-09-07T07:54:58Z",
+    "updated_at": "2026-09-07T08:04:23Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -36,24 +153,6 @@
     "url": "https://github.com/NosytLabs/skillstate-proxy"
   },
   {
-    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 465,
-    "updated_at": "2026-09-07T07:50:50Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-07T07:50:37Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "RepairAgent is an autonomous LLM-based agent for software repair. ",
     "id": "sola-st/RepairAgent",
     "language": "Python",
@@ -63,21 +162,12 @@
     "url": "https://github.com/sola-st/RepairAgent"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-07T07:48:06Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
     "name": "helixml/helix",
     "stars": 805,
-    "updated_at": "2026-09-07T07:47:05Z",
+    "updated_at": "2026-09-07T08:13:04Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -97,24 +187,6 @@
     "stars": 26,
     "updated_at": "2026-09-07T07:40:23Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "\u300c\u8861 \u00b7 Heng\u300d\u8de8\u5883\u7535\u5546\u8d2d\u7269 Agent \u7684\u53ef\u4fe1\u5ea6\u5de5\u7a0b\u3002\u7ee7\u627f\u81ea\u539f\u9879\u76ee globex-agent \u5e76\u5168\u9762\u6539\u9020\uff1a\u68c0\u7d22/\u5230\u624b\u4ef7/\u7ec4\u5408\u4f18\u5316/\u4e0b\u5355\u5168\u94fe\u8def\u4e0e\u957f\u671f\u8bb0\u5fc6\uff1b8 \u7c7b\u786e\u5b9a\u6027\u5224\u636e\u3001\u516b\u9879\u96f6\u6210\u672c\u63d0\u4ea4\u95e8\u7981\uff0c\u6bcf\u9053\u62a4\u680f\u5e26\u771f\u7ea2\u8bc1\u636e\u94fe\uff1b\u81ea\u5efa\u8bc4\u6d4b\uff0844+11 ",
-    "id": "emmmdty/heng-agent",
-    "language": "Python",
-    "name": "emmmdty/heng-agent",
-    "stars": 0,
-    "updated_at": "2026-09-07T07:26:43Z",
-    "url": "https://github.com/emmmdty/heng-agent"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 1003,
-    "updated_at": "2026-09-07T07:22:30Z",
-    "url": "https://github.com/ongridio/ongrid"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
@@ -160,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-09-07T07:01:47Z",
     "url": "https://github.com/Chengy257/glm-conductor"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-09-07T07:00:21Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
@@ -364,7 +427,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 30945,
+    "stars": 30948,
     "updated_at": "2026-09-07T04:47:17Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -385,68 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-07T04:21:52Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Open-source AI coding agent for the terminal that works with several subscriptions in one session \u2014 your Claude Pro/Max,",
-    "id": "onembyte/kolkrabbi",
-    "language": "Go",
-    "name": "onembyte/kolkrabbi",
-    "stars": 1,
-    "updated_at": "2026-09-07T04:20:51Z",
-    "url": "https://github.com/onembyte/kolkrabbi"
-  },
-  {
-    "description": "\u7b28\u529e\u6cd5\u5b66 Agent \u00b7 \u4eb2\u624b\u6253\u9020\u4e00\u4e2a harness\u2014\u2014\u4e0d\u7528\u6846\u67b6\uff0c32 \u4e2a\u7ec3\u4e60\u4eb2\u624b\u5199\u51fa\u4e00\u4e2a agent harness \u7684\u6bcf\u4e00\u5c42\u3002\u7cfb\u5217\u7b2c\u4e00\u672c\uff0c\u5168\u4e66\u5df2\u5b8c\u7ed3\uff0c\u4e09\u672c\u5404\u81ea\u72ec\u7acb\u4e0d\u5206\u5148\u540e\u3002",
-    "id": "Leihb/learn-agent-the-hard-way",
-    "language": "Go",
-    "name": "Leihb/learn-agent-the-hard-way",
-    "stars": 36,
-    "updated_at": "2026-09-07T04:14:23Z",
-    "url": "https://github.com/Leihb/learn-agent-the-hard-way"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 126,
-    "updated_at": "2026-09-07T04:07:52Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 3,
-    "updated_at": "2026-09-07T04:04:30Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-09-07T04:03:05Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Local coding agent with native Zhipu GLM / StepFun Step Coding-Plan support. Four hard gates \u2014 the agent can't claim don",
-    "id": "Lion-1209/coderio",
-    "language": "Python",
-    "name": "Lion-1209/coderio",
-    "stars": 9,
-    "updated_at": "2026-09-07T03:54:02Z",
-    "url": "https://github.com/Lion-1209/coderio"
-  },
-  {
-    "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
-    "id": "OtakuNathan/Pal",
-    "language": "Python",
-    "name": "OtakuNathan/Pal",
-    "stars": 1,
-    "updated_at": "2026-09-07T03:40:08Z",
-    "url": "https://github.com/OtakuNathan/Pal"
   }
 ]
