@@ -1,12 +1,57 @@
 [
   {
+    "description": "Policy-driven autopilot for Dependabot PRs and patch releases, with Slack/Discord/Matrix digests",
+    "id": "no42-org/twiki",
+    "language": "TypeScript",
+    "name": "no42-org/twiki",
+    "stars": 0,
+    "updated_at": "2026-09-07T21:29:42Z",
+    "url": "https://github.com/no42-org/twiki"
+  },
+  {
+    "description": "A compass for autonomous agents, not an operating manual.",
+    "id": "tachyon-r/first-principles-agent-soul",
+    "language": "\u2014",
+    "name": "tachyon-r/first-principles-agent-soul",
+    "stars": 1,
+    "updated_at": "2026-09-07T21:27:23Z",
+    "url": "https://github.com/tachyon-r/first-principles-agent-soul"
+  },
+  {
     "description": "An autopoiesic kefir for computing machines",
     "id": "genaforvena/lte-workstation",
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 8,
-    "updated_at": "2026-09-07T21:14:39Z",
+    "updated_at": "2026-09-07T21:25:57Z",
     "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "SOMA Lite \u2014 660 lines that give any LLM infinite autonomous horizon. Zero dependencies, any model, any provider.",
+    "id": "mcarbonell/soma-lite",
+    "language": "JavaScript",
+    "name": "mcarbonell/soma-lite",
+    "stars": 1,
+    "updated_at": "2026-09-07T21:24:14Z",
+    "url": "https://github.com/mcarbonell/soma-lite"
+  },
+  {
+    "description": "YantrikDB memory provider for NousResearch/hermes-agent \u2014 self-maintaining memory with benchmarked recall, self-tuning r",
+    "id": "yantrikos/yantrikdb-hermes-plugin",
+    "language": "Python",
+    "name": "yantrikos/yantrikdb-hermes-plugin",
+    "stars": 84,
+    "updated_at": "2026-09-07T21:17:06Z",
+    "url": "https://github.com/yantrikos/yantrikdb-hermes-plugin"
+  },
+  {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 3,
+    "updated_at": "2026-09-07T21:16:40Z",
+    "url": "https://github.com/ljedrz/nachalnik"
   },
   {
     "description": "An in-process bridge giving an AI agent real access to a modded Minecraft world - including mod APIs a protocol-level bo",
@@ -70,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T20:59:47Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Policy-driven autopilot for Dependabot PRs and patch releases, with Slack/Discord/Matrix digests",
-    "id": "no42-org/twiki",
-    "language": "TypeScript",
-    "name": "no42-org/twiki",
-    "stars": 0,
-    "updated_at": "2026-09-07T20:59:38Z",
-    "url": "https://github.com/no42-org/twiki"
   },
   {
     "description": "Control AI agents anywhere. (github mirror)",
@@ -196,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T19:47:49Z",
     "url": "https://github.com/j0yen/autobuilder"
-  },
-  {
-    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
-    "id": "ljedrz/nachalnik",
-    "language": "Rust",
-    "name": "ljedrz/nachalnik",
-    "stars": 3,
-    "updated_at": "2026-09-07T19:46:29Z",
-    "url": "https://github.com/ljedrz/nachalnik"
   },
   {
     "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
@@ -347,7 +374,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 8,
-    "updated_at": "2026-09-07T21:13:47Z",
+    "updated_at": "2026-09-07T21:26:10Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-07T16:49:05Z",
     "url": "https://github.com/Ilyat9/Agentalyze"
-  },
-  {
-    "description": "MLOps platform: LangGraph agent (OpenRouter/GLM-4.6), Neo4j knowledge graph, FastAPI inference, Airflow pipelines, Datad",
-    "id": "iamvisheshsrivastava/AirKube",
-    "language": "Python",
-    "name": "iamvisheshsrivastava/AirKube",
-    "stars": 1,
-    "updated_at": "2026-09-07T16:49:03Z",
-    "url": "https://github.com/iamvisheshsrivastava/AirKube"
-  },
-  {
-    "description": "Terminal-native AI coding agent with extensible TypeScript and Rust SDKs for building and orchestrating coding workflows",
-    "id": "codex-mohan/spectra",
-    "language": "TypeScript",
-    "name": "codex-mohan/spectra",
-    "stars": 1,
-    "updated_at": "2026-09-07T16:47:37Z",
-    "url": "https://github.com/codex-mohan/spectra"
-  },
-  {
-    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
-    "id": "gabrielmaialva33/winx-code-agent",
-    "language": "Rust",
-    "name": "gabrielmaialva33/winx-code-agent",
-    "stars": 33,
-    "updated_at": "2026-09-07T16:44:59Z",
-    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
   }
 ]
