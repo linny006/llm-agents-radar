@@ -1,5 +1,32 @@
 [
   {
+    "description": "Agentic CLI for the Scrapfly platform: scrape, extract, crawl, and drive a cloud browser over CDP. Built-in LLM agent wi",
+    "id": "scrapfly/scrapfly-cli",
+    "language": "Go",
+    "name": "scrapfly/scrapfly-cli",
+    "stars": 5,
+    "updated_at": "2026-09-07T09:44:37Z",
+    "url": "https://github.com/scrapfly/scrapfly-cli"
+  },
+  {
+    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 466,
+    "updated_at": "2026-09-07T09:44:10Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "An AI Agent for everyday SWE with minimalist style",
+    "id": "thehope2k/minimalist-agent",
+    "language": "TypeScript",
+    "name": "thehope2k/minimalist-agent",
+    "stars": 1,
+    "updated_at": "2026-09-07T09:44:55Z",
+    "url": "https://github.com/thehope2k/minimalist-agent"
+  },
+  {
     "description": "An autopoiesic kefir for computing machines",
     "id": "genaforvena/lte-workstation",
     "language": "Shell",
@@ -18,15 +45,6 @@
     "url": "https://github.com/tomcounsell/ai"
   },
   {
-    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 466,
-    "updated_at": "2026-09-07T09:39:29Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
-  },
-  {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
     "id": "ongridio/ongrid",
     "language": "Go",
@@ -41,7 +59,7 @@
     "language": "Go",
     "name": "scrapfly/scrapfly-mcp",
     "stars": 14,
-    "updated_at": "2026-09-07T09:38:15Z",
+    "updated_at": "2026-09-07T09:45:11Z",
     "url": "https://github.com/scrapfly/scrapfly-mcp"
   },
   {
@@ -52,15 +70,6 @@
     "stars": 134,
     "updated_at": "2026-09-07T09:38:15Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
-  },
-  {
-    "description": "Agentic CLI for the Scrapfly platform: scrape, extract, crawl, and drive a cloud browser over CDP. Built-in LLM agent wi",
-    "id": "scrapfly/scrapfly-cli",
-    "language": "Go",
-    "name": "scrapfly/scrapfly-cli",
-    "stars": 5,
-    "updated_at": "2026-09-07T09:37:41Z",
-    "url": "https://github.com/scrapfly/scrapfly-cli"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-07T08:10:15Z",
     "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-09-07T08:07:11Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
   }
 ]
