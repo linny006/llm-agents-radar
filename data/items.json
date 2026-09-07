@@ -1,11 +1,74 @@
 [
   {
+    "description": "A self-hosted job-hunting agent driven from Discord: finds postings, scores them, drafts cover letters, tailors your CV,",
+    "id": "Lejusdefruits/hobot",
+    "language": "Python",
+    "name": "Lejusdefruits/hobot",
+    "stars": 2,
+    "updated_at": "2026-09-07T11:14:29Z",
+    "url": "https://github.com/Lejusdefruits/hobot"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 613,
+    "updated_at": "2026-09-07T11:12:08Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 5,
+    "updated_at": "2026-09-07T11:11:32Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 805,
+    "updated_at": "2026-09-07T11:06:37Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Agentic CLI for the Scrapfly platform: scrape, extract, crawl, and drive a cloud browser over CDP. Built-in LLM agent wi",
+    "id": "scrapfly/scrapfly-cli",
+    "language": "Go",
+    "name": "scrapfly/scrapfly-cli",
+    "stars": 5,
+    "updated_at": "2026-09-07T11:06:28Z",
+    "url": "https://github.com/scrapfly/scrapfly-cli"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-07T11:05:46Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 5,
+    "updated_at": "2026-09-07T11:03:21Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4410,
-    "updated_at": "2026-09-07T11:00:08Z",
+    "updated_at": "2026-09-07T11:13:23Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -27,58 +90,13 @@
     "url": "https://github.com/scrapfly/scrapfly-mcp"
   },
   {
-    "description": "A self-hosted job-hunting agent driven from Discord: finds postings, scores them, drafts cover letters, tailors your CV,",
-    "id": "Lejusdefruits/hobot",
-    "language": "Python",
-    "name": "Lejusdefruits/hobot",
-    "stars": 2,
-    "updated_at": "2026-09-07T10:49:11Z",
-    "url": "https://github.com/Lejusdefruits/hobot"
-  },
-  {
     "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
     "id": "agentpit-io/hunter-community",
     "language": "Python",
     "name": "agentpit-io/hunter-community",
-    "stars": 466,
+    "stars": 467,
     "updated_at": "2026-09-07T10:47:58Z",
     "url": "https://github.com/agentpit-io/hunter-community"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 805,
-    "updated_at": "2026-09-07T10:49:53Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 5,
-    "updated_at": "2026-09-07T10:47:54Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "Agentic CLI for the Scrapfly platform: scrape, extract, crawl, and drive a cloud browser over CDP. Built-in LLM agent wi",
-    "id": "scrapfly/scrapfly-cli",
-    "language": "Go",
-    "name": "scrapfly/scrapfly-cli",
-    "stars": 5,
-    "updated_at": "2026-09-07T10:39:23Z",
-    "url": "https://github.com/scrapfly/scrapfly-cli"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-07T10:34:07Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-07T08:33:11Z",
     "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-09-07T08:31:47Z",
-    "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-09-07T08:28:41Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
   }
 ]
