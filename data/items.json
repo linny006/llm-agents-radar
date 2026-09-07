@@ -1,12 +1,39 @@
 [
   {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-09-07T02:29:48Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "Evidence-grounded multi-agent deep research with claim-level attribution, gap-driven retrieval, auditable evaluation, an",
+    "id": "yuyu0529nya/YuResearchAgent",
+    "language": "Python",
+    "name": "yuyu0529nya/YuResearchAgent",
+    "stars": 5,
+    "updated_at": "2026-09-07T02:28:08Z",
+    "url": "https://github.com/yuyu0529nya/YuResearchAgent"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-07T02:14:48Z",
+    "updated_at": "2026-09-07T02:26:58Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
+    "id": "OtakuNathan/Pal",
+    "language": "Python",
+    "name": "OtakuNathan/Pal",
+    "stars": 1,
+    "updated_at": "2026-09-07T02:20:37Z",
+    "url": "https://github.com/OtakuNathan/Pal"
   },
   {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
@@ -14,7 +41,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-07T02:14:46Z",
+    "updated_at": "2026-09-07T02:25:14Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -32,7 +59,7 @@
     "language": "Go",
     "name": "peder1981/AdvPP",
     "stars": 2,
-    "updated_at": "2026-09-07T02:10:15Z",
+    "updated_at": "2026-09-07T02:20:01Z",
     "url": "https://github.com/peder1981/AdvPP"
   },
   {
@@ -90,6 +117,15 @@
     "url": "https://github.com/verniceunleaded6135/tidy-undo"
   },
   {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 109,
+    "updated_at": "2026-09-07T01:53:41Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
     "description": "Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node\u2014no complex workflows needed.",
     "id": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
     "language": "JavaScript",
@@ -115,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T01:52:35Z",
     "url": "https://github.com/Ottoman-reticule726/zara-ai-laptop-agent"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 108,
-    "updated_at": "2026-09-07T01:53:41Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
@@ -351,15 +378,6 @@
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-09-07T02:05:33Z",
-    "url": "https://github.com/b-macker/NAAb"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -430,23 +448,5 @@
     "stars": 608,
     "updated_at": "2026-09-06T23:50:03Z",
     "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
-    "id": "feder-cr/AIHawk",
-    "language": "Python",
-    "name": "feder-cr/AIHawk",
-    "stars": 30318,
-    "updated_at": "2026-09-06T23:45:27Z",
-    "url": "https://github.com/feder-cr/AIHawk"
-  },
-  {
-    "description": "Reusable, selectively loaded agent skills: authorization, judgment ownership, data lineage, side-effect safety, rollout ",
-    "id": "xiongweilin/agent-skills",
-    "language": "\u2014",
-    "name": "xiongweilin/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-09-06T23:43:14Z",
-    "url": "https://github.com/xiongweilin/agent-skills"
   }
 ]
