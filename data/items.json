@@ -1,11 +1,56 @@
 [
   {
+    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 466,
+    "updated_at": "2026-09-07T10:42:59Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "Official Scrapfly MCP server for Cursor, Claude Desktop, and any MCP-compatible client. Enterprise-grade web scraping, A",
+    "id": "scrapfly/scrapfly-mcp",
+    "language": "Go",
+    "name": "scrapfly/scrapfly-mcp",
+    "stars": 14,
+    "updated_at": "2026-09-07T10:39:27Z",
+    "url": "https://github.com/scrapfly/scrapfly-mcp"
+  },
+  {
+    "description": "Agentic CLI for the Scrapfly platform: scrape, extract, crawl, and drive a cloud browser over CDP. Built-in LLM agent wi",
+    "id": "scrapfly/scrapfly-cli",
+    "language": "Go",
+    "name": "scrapfly/scrapfly-cli",
+    "stars": 5,
+    "updated_at": "2026-09-07T10:39:23Z",
+    "url": "https://github.com/scrapfly/scrapfly-cli"
+  },
+  {
+    "description": "A self-hosted job-hunting agent driven from Discord: finds postings, scores them, drafts cover letters, tailors your CV,",
+    "id": "Lejusdefruits/hobot",
+    "language": "Python",
+    "name": "Lejusdefruits/hobot",
+    "stars": 2,
+    "updated_at": "2026-09-07T10:35:40Z",
+    "url": "https://github.com/Lejusdefruits/hobot"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-07T10:34:07Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
     "name": "helixml/helix",
     "stars": 805,
-    "updated_at": "2026-09-07T10:30:07Z",
+    "updated_at": "2026-09-07T10:37:32Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -25,15 +70,6 @@
     "stars": 78,
     "updated_at": "2026-09-07T10:19:45Z",
     "url": "https://github.com/lkimuk/Wuwe"
-  },
-  {
-    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 466,
-    "updated_at": "2026-09-07T10:19:20Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
   },
   {
     "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
@@ -70,15 +106,6 @@
     "stars": 126,
     "updated_at": "2026-09-07T10:04:28Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-07T10:03:28Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -126,24 +153,6 @@
     "url": "https://github.com/Xocas12/hoi4-agent-harness"
   },
   {
-    "description": "Official Scrapfly MCP server for Cursor, Claude Desktop, and any MCP-compatible client. Enterprise-grade web scraping, A",
-    "id": "scrapfly/scrapfly-mcp",
-    "language": "Go",
-    "name": "scrapfly/scrapfly-mcp",
-    "stars": 14,
-    "updated_at": "2026-09-07T09:45:11Z",
-    "url": "https://github.com/scrapfly/scrapfly-mcp"
-  },
-  {
-    "description": "Agentic CLI for the Scrapfly platform: scrape, extract, crawl, and drive a cloud browser over CDP. Built-in LLM agent wi",
-    "id": "scrapfly/scrapfly-cli",
-    "language": "Go",
-    "name": "scrapfly/scrapfly-cli",
-    "stars": 5,
-    "updated_at": "2026-09-07T09:44:37Z",
-    "url": "https://github.com/scrapfly/scrapfly-cli"
-  },
-  {
     "description": "An AI Agent for everyday SWE with minimalist style",
     "id": "thehope2k/minimalist-agent",
     "language": "TypeScript",
@@ -166,7 +175,7 @@
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
-    "stars": 134,
+    "stars": 135,
     "updated_at": "2026-09-07T09:38:15Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
   },
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-07T08:26:36Z",
     "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and ",
-    "id": "genieincodebottle/generative-ai",
-    "language": "Jupyter Notebook",
-    "name": "genieincodebottle/generative-ai",
-    "stars": 2615,
-    "updated_at": "2026-09-07T08:25:48Z",
-    "url": "https://github.com/genieincodebottle/generative-ai"
   }
 ]
