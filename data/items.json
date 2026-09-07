@@ -1,11 +1,56 @@
 [
   {
+    "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
+    "id": "the-priest/PriestsBasilisk",
+    "language": "Python",
+    "name": "the-priest/PriestsBasilisk",
+    "stars": 3,
+    "updated_at": "2026-09-07T14:42:25Z",
+    "url": "https://github.com/the-priest/PriestsBasilisk"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 613,
+    "updated_at": "2026-09-07T14:45:01Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "\u8ba9 AI \u5728\u5b89\u5168\u7ea6\u675f\u5185\u6316\u6398 A \u80a1\u56e0\u5b50\uff1a\u4e00\u53e5\u8bdd\u60f3\u6cd5 \u2192 \u53d7\u9650 DSL \u8868\u8fbe\u5f0f \u2192 \u91cf\u5316\u7814\u7a76\u6807\u51c6\u4f53\u68c0 \u2192 \u7b56\u7565\u56de\u6d4b\uff08AFAC \u91d1\u878d\u667a\u80fd\u521b\u65b0\u5927\u8d5b \u00b7 \u91cf\u5316\u6295\u8d44\u65b9\u5411\u53c2\u8d5b\u4f5c\u54c1\uff09",
+    "id": "Yumm-del/factor-lab",
+    "language": "Python",
+    "name": "Yumm-del/factor-lab",
+    "stars": 1,
+    "updated_at": "2026-09-07T14:40:18Z",
+    "url": "https://github.com/Yumm-del/factor-lab"
+  },
+  {
+    "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
+    "id": "EvoMap/awesome-agent-evolution",
+    "language": "JavaScript",
+    "name": "EvoMap/awesome-agent-evolution",
+    "stars": 215,
+    "updated_at": "2026-09-07T14:37:37Z",
+    "url": "https://github.com/EvoMap/awesome-agent-evolution"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-07T14:34:55Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-07T14:26:26Z",
+    "updated_at": "2026-09-07T14:38:29Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -25,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-09-07T14:16:13Z",
     "url": "https://github.com/chenhz01/agent-memory-doctor"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-07T14:16:09Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "AgentBypass \u2014 Omni Operator LLM Agent Skill (Cknb): Turn any LLM into RE / Pwn / CTF / Pentest / Protocol / Crypto / Mob",
@@ -104,7 +140,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4410,
-    "updated_at": "2026-09-07T14:11:18Z",
+    "updated_at": "2026-09-07T14:30:36Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -112,7 +148,7 @@
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
-    "stars": 139,
+    "stars": 140,
     "updated_at": "2026-09-07T13:37:01Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
   },
@@ -175,7 +211,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 30985,
+    "stars": 30988,
     "updated_at": "2026-09-07T13:10:30Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -212,7 +248,7 @@
     "language": "Rust",
     "name": "metric-space-ai/greppy",
     "stars": 8,
-    "updated_at": "2026-09-07T12:35:14Z",
+    "updated_at": "2026-09-07T14:45:11Z",
     "url": "https://github.com/metric-space-ai/greppy"
   },
   {
@@ -261,15 +297,6 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 613,
-    "updated_at": "2026-09-07T11:58:50Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
     "description": "PRD-to-Rust pipeline: a Claude Code skill + companion binary that ship code only when 7 digest-bound receipts agree",
     "id": "j0yen/autobuilder",
     "language": "Rust",
@@ -302,7 +329,7 @@
     "language": "Java",
     "name": "chunleik/self-analyst",
     "stars": 0,
-    "updated_at": "2026-09-07T11:47:25Z",
+    "updated_at": "2026-09-07T14:39:08Z",
     "url": "https://github.com/chunleik/self-analyst"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 470,
     "updated_at": "2026-09-07T10:47:58Z",
     "url": "https://github.com/agentpit-io/hunter-community"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5733,
-    "updated_at": "2026-09-07T13:15:37Z",
-    "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "A framework for building intelligent agents",
-    "id": "lkimuk/Wuwe",
-    "language": "C++",
-    "name": "lkimuk/Wuwe",
-    "stars": 78,
-    "updated_at": "2026-09-07T10:19:45Z",
-    "url": "https://github.com/lkimuk/Wuwe"
-  },
-  {
-    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 31,
-    "updated_at": "2026-09-07T10:14:54Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
   }
 ]
