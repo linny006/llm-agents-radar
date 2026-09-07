@@ -1,12 +1,12 @@
 [
   {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 102,
-    "updated_at": "2026-09-07T00:13:51Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
+    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 30,
+    "updated_at": "2026-09-07T00:25:53Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 26,
-    "updated_at": "2026-09-07T00:13:25Z",
+    "updated_at": "2026-09-07T00:21:31Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 102,
+    "updated_at": "2026-09-07T00:13:51Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "AgentBypass \u2014 Omni Operator LLM Agent Skill (Cknb): Turn any LLM into RE / Pwn / CTF / Pentest / Protocol / Crypto / Mob",
@@ -61,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T23:58:50Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 30,
-    "updated_at": "2026-09-06T23:57:19Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -149,7 +149,7 @@
     "language": "Java",
     "name": "ChanTso/citybuddy",
     "stars": 0,
-    "updated_at": "2026-09-06T23:19:07Z",
+    "updated_at": "2026-09-07T00:27:23Z",
     "url": "https://github.com/ChanTso/citybuddy"
   },
   {
