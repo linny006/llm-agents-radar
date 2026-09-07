@@ -1,21 +1,30 @@
 [
   {
-    "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
-    "id": "mark-weeks/hello-nested-worlds-adventure",
-    "language": "Python",
-    "name": "mark-weeks/hello-nested-worlds-adventure",
-    "stars": 5,
-    "updated_at": "2026-09-07T19:40:19Z",
-    "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-07T20:00:18Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
-    "description": "Adversarial Prover/Skeptic code-generation loop, verified by real sandboxed execution \u2014 not an LLM's opinion",
-    "id": "asim-aa/breakpoint",
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
-    "name": "asim-aa/breakpoint",
+    "name": "aiterrariumcontrol/terrarium-life",
     "stars": 0,
-    "updated_at": "2026-09-07T19:40:08Z",
-    "url": "https://github.com/asim-aa/breakpoint"
+    "updated_at": "2026-09-07T19:58:23Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 613,
+    "updated_at": "2026-09-07T19:48:43Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "PRD-to-Rust pipeline: a Claude Code skill + companion binary that ship code only when 7 digest-bound receipts agree",
@@ -23,8 +32,53 @@
     "language": "Rust",
     "name": "j0yen/autobuilder",
     "stars": 0,
-    "updated_at": "2026-09-07T19:39:48Z",
+    "updated_at": "2026-09-07T19:47:49Z",
     "url": "https://github.com/j0yen/autobuilder"
+  },
+  {
+    "description": "An in-process bridge giving an AI agent real access to a modded Minecraft world - including mod APIs a protocol-level bo",
+    "id": "max-champlin/ghost",
+    "language": "Java",
+    "name": "max-champlin/ghost",
+    "stars": 0,
+    "updated_at": "2026-09-07T19:47:44Z",
+    "url": "https://github.com/max-champlin/ghost"
+  },
+  {
+    "description": "Adversarial Prover/Skeptic code-generation loop, verified by real sandboxed execution \u2014 not an LLM's opinion",
+    "id": "asim-aa/breakpoint",
+    "language": "Python",
+    "name": "asim-aa/breakpoint",
+    "stars": 0,
+    "updated_at": "2026-09-07T19:47:41Z",
+    "url": "https://github.com/asim-aa/breakpoint"
+  },
+  {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 3,
+    "updated_at": "2026-09-07T19:46:29Z",
+    "url": "https://github.com/ljedrz/nachalnik"
+  },
+  {
+    "description": "Control AI agents anywhere. (github mirror)",
+    "id": "justacalico/devinorium",
+    "language": "Dart",
+    "name": "justacalico/devinorium",
+    "stars": 0,
+    "updated_at": "2026-09-07T19:57:51Z",
+    "url": "https://github.com/justacalico/devinorium"
+  },
+  {
+    "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
+    "id": "mark-weeks/hello-nested-worlds-adventure",
+    "language": "Python",
+    "name": "mark-weeks/hello-nested-worlds-adventure",
+    "stars": 5,
+    "updated_at": "2026-09-07T19:40:19Z",
+    "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -52,24 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T19:35:22Z",
     "url": "https://github.com/karvidsson/kbots"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 613,
-    "updated_at": "2026-09-07T19:42:21Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-07T19:33:06Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4410,
-    "updated_at": "2026-09-07T19:15:11Z",
+    "updated_at": "2026-09-07T19:52:49Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -162,15 +198,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-09-07T18:57:31Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -216,21 +243,12 @@
     "url": "https://github.com/the-priest/PriestsBasilisk"
   },
   {
-    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
-    "id": "ljedrz/nachalnik",
-    "language": "Rust",
-    "name": "ljedrz/nachalnik",
-    "stars": 3,
-    "updated_at": "2026-09-07T18:21:03Z",
-    "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 8,
-    "updated_at": "2026-09-07T19:36:44Z",
+    "updated_at": "2026-09-07T19:57:07Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-07T16:28:00Z",
     "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
-  },
-  {
-    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 5,
-    "updated_at": "2026-09-07T16:27:33Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
-    "id": "oxidizable-malinois605/bridge-suite-mcp",
-    "language": "TypeScript",
-    "name": "oxidizable-malinois605/bridge-suite-mcp",
-    "stars": 0,
-    "updated_at": "2026-09-07T16:26:02Z",
-    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
   }
 ]
