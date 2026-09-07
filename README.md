@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-07 21:45 UTC
+> ⏰ Last updated: 2026-09-07 22:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,44 +42,44 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [NosytLabs/skillstate-proxy](https://github.com/NosytLabs/skillstate-proxy) | 2 | TypeScript | 2026-09-07 | Drop-in OpenAI/Anthropic proxy that cuts long-horizon agent prompt tokens 60-95% via SKILL.state (arXiv:2608.26263). MIT |
-| 2 | [555cute/r20-quantum-trader](https://github.com/555cute/r20-quantum-trader) | 142 | Python | 2026-09-07 | ⚡ LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI  |
-| 3 | [genaforvena/lte-workstation](https://github.com/genaforvena/lte-workstation) | 8 | Shell | 2026-09-07 | An autopoiesic kefir for computing machines |
-| 4 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-09-07 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
-| 5 | [citizenhicks/mobius](https://github.com/citizenhicks/mobius) | 1 | Rust | 2026-09-07 | möbius is a small, frontend-neutral Rust framework for coding agents.  |
-| 6 | [no42-org/twiki](https://github.com/no42-org/twiki) | 0 | TypeScript | 2026-09-07 | Policy-driven autopilot for Dependabot PRs and patch releases, with Slack/Discord/Matrix digests |
-| 7 | [tachyon-r/first-principles-agent-soul](https://github.com/tachyon-r/first-principles-agent-soul) | 1 | — | 2026-09-07 | A compass for autonomous agents, not an operating manual. |
-| 8 | [mcarbonell/soma-lite](https://github.com/mcarbonell/soma-lite) | 1 | JavaScript | 2026-09-07 | SOMA Lite — 660 lines that give any LLM infinite autonomous horizon. Zero dependencies, any model, any provider. |
-| 9 | [yantrikos/yantrikdb-hermes-plugin](https://github.com/yantrikos/yantrikdb-hermes-plugin) | 84 | Python | 2026-09-07 | YantrikDB memory provider for NousResearch/hermes-agent — self-maintaining memory with benchmarked recall, self-tuning r |
-| 10 | [ljedrz/nachalnik](https://github.com/ljedrz/nachalnik) | 3 | Rust | 2026-09-07 | A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and  |
-| 11 | [max-champlin/ghost](https://github.com/max-champlin/ghost) | 0 | Java | 2026-09-07 | An in-process bridge giving an AI agent real access to a modded Minecraft world - including mod APIs a protocol-level bo |
-| 12 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 1 | C++ | 2026-09-07 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
-| 13 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-09-07 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 14 | [asim-aa/breakpoint](https://github.com/asim-aa/breakpoint) | 0 | Python | 2026-09-07 | Adversarial Prover/Skeptic code-generation loop, verified by real sandboxed execution — not an LLM's opinion |
-| 15 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-09-07 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 16 | [justacalico/devinorium](https://github.com/justacalico/devinorium) | 0 | Dart | 2026-09-07 | Control AI agents anywhere. (github mirror) |
-| 17 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 9 | Python | 2026-09-07 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 18 | [gptme/gptme](https://github.com/gptme/gptme) | 4410 | Python | 2026-09-07 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
-| 19 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 126 | HTML | 2026-09-07 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 20 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 3 | HTML | 2026-09-07 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 21 | [Ax3lsk3r3/QuantVibe](https://github.com/Ax3lsk3r3/QuantVibe) | 2 | TypeScript | 2026-09-07 | Usa Qlib como cerebro cuant y Vibe-Trading como manos: scores de acciones por ML servidos a un agente de trading LLM vía |
-| 22 | [ChanTso/citybuddy](https://github.com/ChanTso/citybuddy) | 0 | Java | 2026-09-07 | Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de |
-| 23 | [khudayarovich/onflip-agent](https://github.com/khudayarovich/onflip-agent) | 2 | TypeScript | 2026-09-07 | An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin |
-| 24 | [Lethe044/hermes-incident-commander](https://github.com/Lethe044/hermes-incident-commander) | 68 | Python | 2026-09-07 | Autonomous SRE agent that detects, diagnoses, and self-heals production incidents - with a standalone watchdog that need |
-| 25 | [sunnnn2005/data-quality-agent](https://github.com/sunnnn2005/data-quality-agent) | 0 | Python | 2026-09-07 | LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and  |
-| 26 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 613 | JavaScript | 2026-09-07 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
-| 27 | [j0yen/autobuilder](https://github.com/j0yen/autobuilder) | 0 | Rust | 2026-09-07 | PRD-to-Rust pipeline: a Claude Code skill + companion binary that ship code only when 7 digest-bound receipts agree |
-| 28 | [mark-weeks/hello-nested-worlds-adventure](https://github.com/mark-weeks/hello-nested-worlds-adventure) | 5 | Python | 2026-09-07 | Enfolded: Nested World Adventure — a shared persistent multiverse where humans and AI agents traverse nested scales of r |
-| 29 | [Cyrax321/CONTINUUM](https://github.com/Cyrax321/CONTINUUM) | 28 | Python | 2026-09-07 | CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id |
-| 30 | [karvidsson/kbots](https://github.com/karvidsson/kbots) | 0 | Python | 2026-09-07 | Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme |
-| 31 | [metric-space-ai/greppy](https://github.com/metric-space-ai/greppy) | 8 | Rust | 2026-09-07 | Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact  |
-| 32 | [chuhaijian/memguard-agent](https://github.com/chuhaijian/memguard-agent) | 3 | Rust | 2026-09-07 | MemGuard - eBPF-based real-time memory poisoning detection and alerting for LLM agents (AgentSight overlay) |
-| 33 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-09-07 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 34 | [ivan-sincek/vulnerability-management-agent-skills](https://github.com/ivan-sincek/vulnerability-management-agent-skills) | 1 | — | 2026-09-07 | Easy-to-use, customizable, high-quality vulnerability management skills for AI agents. |
-| 35 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-09-07 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 36 | [helixml/helix](https://github.com/helixml/helix) | 805 | Go | 2026-09-07 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
-| 37 | [AVADSA25/codec](https://github.com/AVADSA25/codec) | 105 | Python | 2026-09-07 | Open-Source Intelligent Command Layer |
-| 38 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 129 | HTML | 2026-09-07 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 1 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-09-07 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 2 | [genaforvena/lte-workstation](https://github.com/genaforvena/lte-workstation) | 8 | Shell | 2026-09-07 | An autopoiesic kefir for computing machines |
+| 3 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 129 | HTML | 2026-09-07 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 4 | [ChanTso/citybuddy](https://github.com/ChanTso/citybuddy) | 0 | Java | 2026-09-07 | Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de |
+| 5 | [no42-org/twiki](https://github.com/no42-org/twiki) | 0 | TypeScript | 2026-09-07 | Policy-driven autopilot for Dependabot PRs and patch releases, with Slack/Discord/Matrix digests |
+| 6 | [citizenhicks/mobius](https://github.com/citizenhicks/mobius) | 1 | Rust | 2026-09-07 | möbius is a small, frontend-neutral Rust framework for coding agents.  |
+| 7 | [NosytLabs/skillstate-proxy](https://github.com/NosytLabs/skillstate-proxy) | 2 | TypeScript | 2026-09-07 | Drop-in OpenAI/Anthropic proxy that cuts long-horizon agent prompt tokens 60-95% via SKILL.state (arXiv:2608.26263). MIT |
+| 8 | [khudayarovich/onflip-agent](https://github.com/khudayarovich/onflip-agent) | 2 | TypeScript | 2026-09-07 | An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin |
+| 9 | [555cute/r20-quantum-trader](https://github.com/555cute/r20-quantum-trader) | 142 | Python | 2026-09-07 | ⚡ LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI  |
+| 10 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-09-07 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
+| 11 | [tachyon-r/first-principles-agent-soul](https://github.com/tachyon-r/first-principles-agent-soul) | 1 | — | 2026-09-07 | A compass for autonomous agents, not an operating manual. |
+| 12 | [mcarbonell/soma-lite](https://github.com/mcarbonell/soma-lite) | 1 | JavaScript | 2026-09-07 | SOMA Lite — 660 lines that give any LLM infinite autonomous horizon. Zero dependencies, any model, any provider. |
+| 13 | [yantrikos/yantrikdb-hermes-plugin](https://github.com/yantrikos/yantrikdb-hermes-plugin) | 84 | Python | 2026-09-07 | YantrikDB memory provider for NousResearch/hermes-agent — self-maintaining memory with benchmarked recall, self-tuning r |
+| 14 | [ljedrz/nachalnik](https://github.com/ljedrz/nachalnik) | 3 | Rust | 2026-09-07 | A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and  |
+| 15 | [max-champlin/ghost](https://github.com/max-champlin/ghost) | 0 | Java | 2026-09-07 | An in-process bridge giving an AI agent real access to a modded Minecraft world - including mod APIs a protocol-level bo |
+| 16 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 1 | C++ | 2026-09-07 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
+| 17 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-09-07 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
+| 18 | [asim-aa/breakpoint](https://github.com/asim-aa/breakpoint) | 0 | Python | 2026-09-07 | Adversarial Prover/Skeptic code-generation loop, verified by real sandboxed execution — not an LLM's opinion |
+| 19 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-09-07 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 20 | [justacalico/devinorium](https://github.com/justacalico/devinorium) | 0 | Dart | 2026-09-07 | Control AI agents anywhere. (github mirror) |
+| 21 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 9 | Python | 2026-09-07 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 22 | [gptme/gptme](https://github.com/gptme/gptme) | 4410 | Python | 2026-09-07 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
+| 23 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 126 | HTML | 2026-09-07 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 24 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 3 | HTML | 2026-09-07 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 25 | [Ax3lsk3r3/QuantVibe](https://github.com/Ax3lsk3r3/QuantVibe) | 2 | TypeScript | 2026-09-07 | Usa Qlib como cerebro cuant y Vibe-Trading como manos: scores de acciones por ML servidos a un agente de trading LLM vía |
+| 26 | [Lethe044/hermes-incident-commander](https://github.com/Lethe044/hermes-incident-commander) | 68 | Python | 2026-09-07 | Autonomous SRE agent that detects, diagnoses, and self-heals production incidents - with a standalone watchdog that need |
+| 27 | [sunnnn2005/data-quality-agent](https://github.com/sunnnn2005/data-quality-agent) | 0 | Python | 2026-09-07 | LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and  |
+| 28 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 613 | JavaScript | 2026-09-07 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
+| 29 | [j0yen/autobuilder](https://github.com/j0yen/autobuilder) | 0 | Rust | 2026-09-07 | PRD-to-Rust pipeline: a Claude Code skill + companion binary that ship code only when 7 digest-bound receipts agree |
+| 30 | [mark-weeks/hello-nested-worlds-adventure](https://github.com/mark-weeks/hello-nested-worlds-adventure) | 5 | Python | 2026-09-07 | Enfolded: Nested World Adventure — a shared persistent multiverse where humans and AI agents traverse nested scales of r |
+| 31 | [Cyrax321/CONTINUUM](https://github.com/Cyrax321/CONTINUUM) | 28 | Python | 2026-09-07 | CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id |
+| 32 | [karvidsson/kbots](https://github.com/karvidsson/kbots) | 0 | Python | 2026-09-07 | Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme |
+| 33 | [metric-space-ai/greppy](https://github.com/metric-space-ai/greppy) | 8 | Rust | 2026-09-07 | Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact  |
+| 34 | [chuhaijian/memguard-agent](https://github.com/chuhaijian/memguard-agent) | 3 | Rust | 2026-09-07 | MemGuard - eBPF-based real-time memory poisoning detection and alerting for LLM agents (AgentSight overlay) |
+| 35 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-09-07 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 36 | [ivan-sincek/vulnerability-management-agent-skills](https://github.com/ivan-sincek/vulnerability-management-agent-skills) | 1 | — | 2026-09-07 | Easy-to-use, customizable, high-quality vulnerability management skills for AI agents. |
+| 37 | [helixml/helix](https://github.com/helixml/helix) | 805 | Go | 2026-09-07 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
+| 38 | [AVADSA25/codec](https://github.com/AVADSA25/codec) | 105 | Python | 2026-09-07 | Open-Source Intelligent Command Layer |
 | 39 | [ivan-sincek/secure-code-review-agent-skills](https://github.com/ivan-sincek/secure-code-review-agent-skills) | 1 | — | 2026-09-07 | Easy-to-use, customizable, high-quality secure code review skills for AI agents. |
 | 40 | [ivan-sincek/threat-modeling-agent-skills](https://github.com/ivan-sincek/threat-modeling-agent-skills) | 2 | — | 2026-09-07 | Easy-to-use, customizable, high-quality threat modeling skills for AI agents. |
 | 41 | [ravisinghrajput95/kubewhy](https://github.com/ravisinghrajput95/kubewhy) | 0 | Python | 2026-09-07 | Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why — a local LLM read |

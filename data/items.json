@@ -1,12 +1,75 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-07T21:58:58Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-07T21:58:21Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 129,
+    "updated_at": "2026-09-07T21:57:38Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
+    "id": "ChanTso/citybuddy",
+    "language": "Java",
+    "name": "ChanTso/citybuddy",
+    "stars": 0,
+    "updated_at": "2026-09-07T21:55:49Z",
+    "url": "https://github.com/ChanTso/citybuddy"
+  },
+  {
+    "description": "Policy-driven autopilot for Dependabot PRs and patch releases, with Slack/Discord/Matrix digests",
+    "id": "no42-org/twiki",
+    "language": "TypeScript",
+    "name": "no42-org/twiki",
+    "stars": 0,
+    "updated_at": "2026-09-07T21:54:42Z",
+    "url": "https://github.com/no42-org/twiki"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-09-07T21:53:07Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
     "description": "Drop-in OpenAI/Anthropic proxy that cuts long-horizon agent prompt tokens 60-95% via SKILL.state (arXiv:2608.26263). MIT",
     "id": "NosytLabs/skillstate-proxy",
     "language": "TypeScript",
     "name": "NosytLabs/skillstate-proxy",
     "stars": 2,
-    "updated_at": "2026-09-07T21:42:10Z",
+    "updated_at": "2026-09-07T21:50:23Z",
     "url": "https://github.com/NosytLabs/skillstate-proxy"
+  },
+  {
+    "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
+    "id": "khudayarovich/onflip-agent",
+    "language": "TypeScript",
+    "name": "khudayarovich/onflip-agent",
+    "stars": 2,
+    "updated_at": "2026-09-07T21:49:16Z",
+    "url": "https://github.com/khudayarovich/onflip-agent"
   },
   {
     "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
@@ -18,15 +81,6 @@
     "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-07T21:36:19Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
     "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
@@ -34,24 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T21:34:59Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-09-07T21:31:42Z",
-    "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
-    "description": "Policy-driven autopilot for Dependabot PRs and patch releases, with Slack/Discord/Matrix digests",
-    "id": "no42-org/twiki",
-    "language": "TypeScript",
-    "name": "no42-org/twiki",
-    "stars": 0,
-    "updated_at": "2026-09-07T21:29:42Z",
-    "url": "https://github.com/no42-org/twiki"
   },
   {
     "description": "A compass for autonomous agents, not an operating manual.",
@@ -158,7 +194,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4410,
-    "updated_at": "2026-09-07T21:38:58Z",
+    "updated_at": "2026-09-07T21:58:01Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -187,24 +223,6 @@
     "stars": 2,
     "updated_at": "2026-09-07T20:21:09Z",
     "url": "https://github.com/Ax3lsk3r3/QuantVibe"
-  },
-  {
-    "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
-    "id": "ChanTso/citybuddy",
-    "language": "Java",
-    "name": "ChanTso/citybuddy",
-    "stars": 0,
-    "updated_at": "2026-09-07T21:42:31Z",
-    "url": "https://github.com/ChanTso/citybuddy"
-  },
-  {
-    "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
-    "id": "khudayarovich/onflip-agent",
-    "language": "TypeScript",
-    "name": "khudayarovich/onflip-agent",
-    "stars": 2,
-    "updated_at": "2026-09-07T20:08:52Z",
-    "url": "https://github.com/khudayarovich/onflip-agent"
   },
   {
     "description": "Autonomous SRE agent that detects, diagnoses, and self-heals production incidents - with a standalone watchdog that need",
@@ -248,7 +266,7 @@
     "language": "Python",
     "name": "mark-weeks/hello-nested-worlds-adventure",
     "stars": 5,
-    "updated_at": "2026-09-07T21:44:42Z",
+    "updated_at": "2026-09-07T21:59:48Z",
     "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
   },
   {
@@ -306,15 +324,6 @@
     "url": "https://github.com/ivan-sincek/vulnerability-management-agent-skills"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-09-07T19:06:51Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
@@ -331,15 +340,6 @@
     "stars": 105,
     "updated_at": "2026-09-07T18:59:14Z",
     "url": "https://github.com/AVADSA25/codec"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 129,
-    "updated_at": "2026-09-07T18:58:56Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "Easy-to-use, customizable, high-quality secure code review skills for AI agents.",
@@ -383,7 +383,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 8,
-    "updated_at": "2026-09-07T21:36:09Z",
+    "updated_at": "2026-09-07T21:49:58Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
