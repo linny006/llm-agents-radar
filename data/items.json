@@ -1,5 +1,23 @@
 [
   {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 8,
+    "updated_at": "2026-09-07T23:30:52Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
+    "id": "brittewestafrican981/ComfyUI-YinChao",
+    "language": "Python",
+    "name": "brittewestafrican981/ComfyUI-YinChao",
+    "stars": 0,
+    "updated_at": "2026-09-07T23:30:31Z",
+    "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
+  },
+  {
     "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
     "id": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
     "language": "Python",
@@ -32,7 +50,7 @@
     "language": "Dart",
     "name": "justacalico/devinorium",
     "stars": 0,
-    "updated_at": "2026-09-07T23:27:46Z",
+    "updated_at": "2026-09-07T23:40:06Z",
     "url": "https://github.com/justacalico/devinorium"
   },
   {
@@ -198,15 +216,6 @@
     "url": "https://github.com/Bowotria/aethercore"
   },
   {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 8,
-    "updated_at": "2026-09-07T23:27:09Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
     "description": "Policy-driven autopilot for Dependabot PRs and patch releases, with Slack/Discord/Matrix digests",
     "id": "no42-org/twiki",
     "language": "TypeScript",
@@ -364,7 +373,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7173,
+    "stars": 7174,
     "updated_at": "2026-09-07T22:09:28Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-07T21:24:14Z",
     "url": "https://github.com/mcarbonell/soma-lite"
-  },
-  {
-    "description": "YantrikDB memory provider for NousResearch/hermes-agent \u2014 self-maintaining memory with benchmarked recall, self-tuning r",
-    "id": "yantrikos/yantrikdb-hermes-plugin",
-    "language": "Python",
-    "name": "yantrikos/yantrikdb-hermes-plugin",
-    "stars": 84,
-    "updated_at": "2026-09-07T21:17:06Z",
-    "url": "https://github.com/yantrikos/yantrikdb-hermes-plugin"
   }
 ]
