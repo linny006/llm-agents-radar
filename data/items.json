@@ -1,12 +1,12 @@
 [
   {
-    "description": "Agentic CLI for the Scrapfly platform: scrape, extract, crawl, and drive a cloud browser over CDP. Built-in LLM agent wi",
-    "id": "scrapfly/scrapfly-cli",
-    "language": "Go",
-    "name": "scrapfly/scrapfly-cli",
-    "stars": 5,
-    "updated_at": "2026-09-07T09:44:37Z",
-    "url": "https://github.com/scrapfly/scrapfly-cli"
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 24,
+    "updated_at": "2026-09-07T09:59:12Z",
+    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
@@ -14,8 +14,53 @@
     "language": "Python",
     "name": "agentpit-io/hunter-community",
     "stars": 466,
-    "updated_at": "2026-09-07T09:44:10Z",
+    "updated_at": "2026-09-07T09:59:01Z",
     "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "Cross-framework Nx architecture lab using Angular, React, NgRx, Signals, TanStack Query and the Facade pattern",
+    "id": "Avien/users-portal",
+    "language": "TypeScript",
+    "name": "Avien/users-portal",
+    "stars": 0,
+    "updated_at": "2026-09-07T09:52:11Z",
+    "url": "https://github.com/Avien/users-portal"
+  },
+  {
+    "description": "Synthos \u2014 \u81ea\u4e3b\u8fdb\u5316\u5b66\u672f\u79d1\u7814\u5e73\u53f0 / A self-evolving cognitive operating system for scientific research. 6 cognitive atoms + evolution",
+    "id": "yakeworld/Synthos",
+    "language": "Python",
+    "name": "yakeworld/Synthos",
+    "stars": 6,
+    "updated_at": "2026-09-07T09:49:50Z",
+    "url": "https://github.com/yakeworld/Synthos"
+  },
+  {
+    "description": "Provider-neutral agentic harness for playing Hearts of Iron IV with an LLM: clock-owning turn loop, reflex/planner split",
+    "id": "Xocas12/hoi4-agent-harness",
+    "language": "Python",
+    "name": "Xocas12/hoi4-agent-harness",
+    "stars": 0,
+    "updated_at": "2026-09-07T09:46:37Z",
+    "url": "https://github.com/Xocas12/hoi4-agent-harness"
+  },
+  {
+    "description": "Official Scrapfly MCP server for Cursor, Claude Desktop, and any MCP-compatible client. Enterprise-grade web scraping, A",
+    "id": "scrapfly/scrapfly-mcp",
+    "language": "Go",
+    "name": "scrapfly/scrapfly-mcp",
+    "stars": 14,
+    "updated_at": "2026-09-07T09:45:11Z",
+    "url": "https://github.com/scrapfly/scrapfly-mcp"
+  },
+  {
+    "description": "Agentic CLI for the Scrapfly platform: scrape, extract, crawl, and drive a cloud browser over CDP. Built-in LLM agent wi",
+    "id": "scrapfly/scrapfly-cli",
+    "language": "Go",
+    "name": "scrapfly/scrapfly-cli",
+    "stars": 5,
+    "updated_at": "2026-09-07T09:44:37Z",
+    "url": "https://github.com/scrapfly/scrapfly-cli"
   },
   {
     "description": "An AI Agent for everyday SWE with minimalist style",
@@ -36,15 +81,6 @@
     "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-07T09:41:03Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
     "id": "ongridio/ongrid",
     "language": "Go",
@@ -52,15 +88,6 @@
     "stars": 1004,
     "updated_at": "2026-09-07T09:38:31Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "Official Scrapfly MCP server for Cursor, Claude Desktop, and any MCP-compatible client. Enterprise-grade web scraping, A",
-    "id": "scrapfly/scrapfly-mcp",
-    "language": "Go",
-    "name": "scrapfly/scrapfly-mcp",
-    "stars": 14,
-    "updated_at": "2026-09-07T09:45:11Z",
-    "url": "https://github.com/scrapfly/scrapfly-mcp"
   },
   {
     "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
@@ -151,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T09:08:00Z",
     "url": "https://github.com/cdexswzaq0110/ThermoForge"
-  },
-  {
-    "description": "Synthos \u2014 \u81ea\u4e3b\u8fdb\u5316\u5b66\u672f\u79d1\u7814\u5e73\u53f0 / A self-evolving cognitive operating system for scientific research. 6 cognitive atoms + evolution",
-    "id": "yakeworld/Synthos",
-    "language": "Python",
-    "name": "yakeworld/Synthos",
-    "stars": 6,
-    "updated_at": "2026-09-07T09:06:31Z",
-    "url": "https://github.com/yakeworld/Synthos"
   },
   {
     "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
@@ -329,7 +347,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 805,
-    "updated_at": "2026-09-07T09:39:57Z",
+    "updated_at": "2026-09-07T09:57:57Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -392,7 +410,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4410,
-    "updated_at": "2026-09-07T08:51:15Z",
+    "updated_at": "2026-09-07T09:58:45Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-07T08:17:12Z",
     "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-09-07T08:11:55Z",
-    "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-09-07T08:10:15Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
   }
 ]
