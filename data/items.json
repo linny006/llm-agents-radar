@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-07T03:14:43Z",
+    "updated_at": "2026-09-07T03:29:54Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-07T03:25:26Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
@@ -23,7 +32,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-09-07T03:13:15Z",
+    "updated_at": "2026-09-07T03:30:06Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -34,15 +43,6 @@
     "stars": 5,
     "updated_at": "2026-09-07T03:06:11Z",
     "url": "https://github.com/yuyu0529nya/YuResearchAgent"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-07T03:03:33Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -257,7 +257,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-07T03:05:59Z",
+    "updated_at": "2026-09-07T03:28:10Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
