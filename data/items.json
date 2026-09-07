@@ -1,12 +1,93 @@
 [
   {
+    "description": "Adversarial Prover/Skeptic code-generation loop, verified by real sandboxed execution \u2014 not an LLM's opinion",
+    "id": "asim-aa/breakpoint",
+    "language": "Python",
+    "name": "asim-aa/breakpoint",
+    "stars": 0,
+    "updated_at": "2026-09-07T19:13:25Z",
+    "url": "https://github.com/asim-aa/breakpoint"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-09-07T19:11:43Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "MemGuard - eBPF-based real-time memory poisoning detection and alerting for LLM agents (AgentSight overlay)",
+    "id": "chuhaijian/memguard-agent",
+    "language": "Rust",
+    "name": "chuhaijian/memguard-agent",
+    "stars": 0,
+    "updated_at": "2026-09-07T19:10:43Z",
+    "url": "https://github.com/chuhaijian/memguard-agent"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4410,
+    "updated_at": "2026-09-07T19:15:11Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Usa Qlib como cerebro cuant y Vibe-Trading como manos: scores de acciones por ML servidos a un agente de trading LLM v\u00eda",
+    "id": "Ax3lsk3r3/QuantVibe",
+    "language": "TypeScript",
+    "name": "Ax3lsk3r3/QuantVibe",
+    "stars": 2,
+    "updated_at": "2026-09-07T19:09:35Z",
+    "url": "https://github.com/Ax3lsk3r3/QuantVibe"
+  },
+  {
+    "description": "Easy-to-use, customizable, high-quality vulnerability management skills for AI agents.",
+    "id": "ivan-sincek/vulnerability-management-agent-skills",
+    "language": "\u2014",
+    "name": "ivan-sincek/vulnerability-management-agent-skills",
+    "stars": 1,
+    "updated_at": "2026-09-07T19:07:07Z",
+    "url": "https://github.com/ivan-sincek/vulnerability-management-agent-skills"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-07T19:06:51Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "PRD-to-Rust pipeline: a Claude Code skill + companion binary that ship code only when 7 digest-bound receipts agree",
+    "id": "j0yen/autobuilder",
+    "language": "Rust",
+    "name": "j0yen/autobuilder",
+    "stars": 0,
+    "updated_at": "2026-09-07T19:05:43Z",
+    "url": "https://github.com/j0yen/autobuilder"
+  },
+  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
     "name": "helixml/helix",
     "stars": 805,
-    "updated_at": "2026-09-07T18:59:35Z",
+    "updated_at": "2026-09-07T19:09:56Z",
     "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 105,
+    "updated_at": "2026-09-07T18:59:14Z",
+    "url": "https://github.com/AVADSA25/codec"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -36,24 +117,6 @@
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
-    "description": "Usa Qlib como cerebro cuant y Vibe-Trading como manos: scores de acciones por ML servidos a un agente de trading LLM v\u00eda",
-    "id": "Ax3lsk3r3/QuantVibe",
-    "language": "TypeScript",
-    "name": "Ax3lsk3r3/QuantVibe",
-    "stars": 2,
-    "updated_at": "2026-09-07T18:54:56Z",
-    "url": "https://github.com/Ax3lsk3r3/QuantVibe"
-  },
-  {
-    "description": "Adversarial Prover/Skeptic code-generation loop, verified by real sandboxed execution \u2014 not an LLM's opinion",
-    "id": "asim-aa/breakpoint",
-    "language": "Python",
-    "name": "asim-aa/breakpoint",
-    "stars": 0,
-    "updated_at": "2026-09-07T18:52:30Z",
-    "url": "https://github.com/asim-aa/breakpoint"
-  },
-  {
     "description": "An autopoiesic kefir for computing machines",
     "id": "genaforvena/lte-workstation",
     "language": "Shell",
@@ -68,26 +131,8 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-07T18:56:24Z",
+    "updated_at": "2026-09-07T19:13:21Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "MemGuard - eBPF-based real-time memory poisoning detection and alerting for LLM agents (AgentSight overlay)",
-    "id": "chuhaijian/memguard-agent",
-    "language": "Rust",
-    "name": "chuhaijian/memguard-agent",
-    "stars": 0,
-    "updated_at": "2026-09-07T18:45:55Z",
-    "url": "https://github.com/chuhaijian/memguard-agent"
-  },
-  {
-    "description": "Easy-to-use, customizable, high-quality vulnerability management skills for AI agents.",
-    "id": "ivan-sincek/vulnerability-management-agent-skills",
-    "language": "\u2014",
-    "name": "ivan-sincek/vulnerability-management-agent-skills",
-    "stars": 1,
-    "updated_at": "2026-09-07T18:45:49Z",
-    "url": "https://github.com/ivan-sincek/vulnerability-management-agent-skills"
   },
   {
     "description": "Easy-to-use, customizable, high-quality secure code review skills for AI agents.",
@@ -108,15 +153,6 @@
     "url": "https://github.com/ivan-sincek/threat-modeling-agent-skills"
   },
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4410,
-    "updated_at": "2026-09-07T18:55:59Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
     "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
     "id": "ravisinghrajput95/kubewhy",
     "language": "Python",
@@ -131,17 +167,8 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 28,
-    "updated_at": "2026-09-07T18:30:24Z",
+    "updated_at": "2026-09-07T19:02:21Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 105,
-    "updated_at": "2026-09-07T18:59:14Z",
-    "url": "https://github.com/AVADSA25/codec"
   },
   {
     "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
@@ -205,15 +232,6 @@
     "stars": 12,
     "updated_at": "2026-09-07T18:00:39Z",
     "url": "https://github.com/Zeeechenn/MingCang"
-  },
-  {
-    "description": "PRD-to-Rust pipeline: a Claude Code skill + companion binary that ship code only when 7 digest-bound receipts agree",
-    "id": "j0yen/autobuilder",
-    "language": "Rust",
-    "name": "j0yen/autobuilder",
-    "stars": 0,
-    "updated_at": "2026-09-07T17:42:54Z",
-    "url": "https://github.com/j0yen/autobuilder"
   },
   {
     "description": "Policy-driven autopilot for Dependabot PRs and patch releases, with Slack/Discord/Matrix digests",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-07T16:25:56Z",
     "url": "https://github.com/Arjunadh5305/ios-skills-collection"
-  },
-  {
-    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
-    "id": "Stolas34/voice-input-src",
-    "language": "\u2014",
-    "name": "Stolas34/voice-input-src",
-    "stars": 0,
-    "updated_at": "2026-09-07T16:25:35Z",
-    "url": "https://github.com/Stolas34/voice-input-src"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-07T16:25:20Z",
-    "url": "https://github.com/tomcounsell/ai"
   }
 ]
