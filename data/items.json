@@ -1,5 +1,95 @@
 [
   {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4410,
+    "updated_at": "2026-09-07T16:13:53Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-09-07T16:13:03Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
+    "id": "mohahasan/ios-agentic-skills",
+    "language": "JavaScript",
+    "name": "mohahasan/ios-agentic-skills",
+    "stars": 4,
+    "updated_at": "2026-09-07T16:11:51Z",
+    "url": "https://github.com/mohahasan/ios-agentic-skills"
+  },
+  {
+    "description": "Build a production-capable AI agent from scratch in 12 chapters. No frameworks, under 200 lines each.",
+    "id": "idk-arsh/build-your-own-agent",
+    "language": "Python",
+    "name": "idk-arsh/build-your-own-agent",
+    "stars": 0,
+    "updated_at": "2026-09-07T16:10:26Z",
+    "url": "https://github.com/idk-arsh/build-your-own-agent"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-09-07T16:09:20Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "An LLM job-matching agent with a from-scratch tool loop \u2014 and an evaluation that scores its own retriever and its own at",
+    "id": "P0w3r223/apply-scout",
+    "language": "Python",
+    "name": "P0w3r223/apply-scout",
+    "stars": 0,
+    "updated_at": "2026-09-07T16:07:43Z",
+    "url": "https://github.com/P0w3r223/apply-scout"
+  },
+  {
+    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
+    "id": "Danisxxx/comfyUI-LongLook",
+    "language": "Python",
+    "name": "Danisxxx/comfyUI-LongLook",
+    "stars": 2,
+    "updated_at": "2026-09-07T16:06:57Z",
+    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
+  },
+  {
+    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
+    "id": "axxafo/awesome-agent-benchmarks",
+    "language": "\u2014",
+    "name": "axxafo/awesome-agent-benchmarks",
+    "stars": 3,
+    "updated_at": "2026-09-07T16:06:43Z",
+    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-07T16:03:06Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-09-07T16:00:37Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
     "description": "TaskWizard\uff1a\u8584\u73af\uff08thin-loop\uff09LLM \u5b89\u5353\u624b\u673a\u667a\u80fd\u4f53 \u2014 \u6bcf\u6b65\u4e00\u6b21\u6a21\u578b\u8c03\u7528\u3001marks-first \u843d\u5730\u3001\u5b89\u5168\u9884\u8b66\u5236\u3001App-KB \u81ea\u79ef\u7d2f\u8bb0\u5fc6\u3001\u7ecf\u9a8c\u56de\u60f3\uff08RAG shadow\uff09\u3002Thin-loop LLM Android ",
     "id": "tom-cat-mao/TaskWizard",
     "language": "Python",
@@ -23,7 +113,7 @@
     "language": "TypeScript",
     "name": "dsswift/ion",
     "stars": 4,
-    "updated_at": "2026-09-07T15:59:02Z",
+    "updated_at": "2026-09-07T16:14:09Z",
     "url": "https://github.com/dsswift/ion"
   },
   {
@@ -31,8 +121,8 @@
     "id": "xianyongwen/TestDog",
     "language": "TypeScript",
     "name": "xianyongwen/TestDog",
-    "stars": 0,
-    "updated_at": "2026-09-07T15:55:48Z",
+    "stars": 1,
+    "updated_at": "2026-09-07T16:09:09Z",
     "url": "https://github.com/xianyongwen/TestDog"
   },
   {
@@ -81,24 +171,6 @@
     "url": "https://github.com/WP2-Danikusuma/AgentX"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-07T15:48:06Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-09-07T15:47:30Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
     "id": "agentpit-io/hunter-community",
     "language": "Python",
@@ -124,15 +196,6 @@
     "stars": 24,
     "updated_at": "2026-09-07T15:56:01Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4410,
-    "updated_at": "2026-09-07T15:44:44Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
@@ -342,15 +405,6 @@
     "url": "https://github.com/wiseria-ai-labs/pie-ai-agent"
   },
   {
-    "description": "Build a production-capable AI agent from scratch in 12 chapters. No frameworks, under 200 lines each.",
-    "id": "idk-arsh/build-your-own-agent",
-    "language": "Python",
-    "name": "idk-arsh/build-your-own-agent",
-    "stars": 0,
-    "updated_at": "2026-09-07T14:08:33Z",
-    "url": "https://github.com/idk-arsh/build-your-own-agent"
-  },
-  {
     "description": "Automatically Update LLM-Agent Papers Daily using Github Actions (Update Every 12th hours)",
     "id": "Lyz103/LLM-Agent-Paper-daily",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-07T13:30:27Z",
     "url": "https://github.com/markdr-hue/open-fabrica"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 16,
-    "updated_at": "2026-09-07T13:18:55Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 1004,
-    "updated_at": "2026-09-07T13:13:34Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 30991,
-    "updated_at": "2026-09-07T13:10:30Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "\u6295\u8d44\u79c1\u4eba\u7ba1\u5bb6 \u00b7 A\u80a1\u57fa\u91d1 AI \u79c1\u4eba\u987e\u95ee\uff08Invest Concierge \u2014 A-share & fund AI personal investment assistant\uff09",
-    "id": "cx-ssg/invest-concierge",
-    "language": "Python",
-    "name": "cx-ssg/invest-concierge",
-    "stars": 0,
-    "updated_at": "2026-09-07T13:05:03Z",
-    "url": "https://github.com/cx-ssg/invest-concierge"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 230,
-    "updated_at": "2026-09-07T13:02:24Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "Demon Cry core - AI-powered OSINT engine",
-    "id": "Mooncore-inc/demon-cry",
-    "language": "Python",
-    "name": "Mooncore-inc/demon-cry",
-    "stars": 2,
-    "updated_at": "2026-09-07T12:55:03Z",
-    "url": "https://github.com/Mooncore-inc/demon-cry"
   }
 ]
