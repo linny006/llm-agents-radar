@@ -1,5 +1,86 @@
 [
   {
+    "description": "\u72ec\u7acb\u90e8\u7f72\u7684\u85aa\u916c\u8bca\u65ad CLI\uff08\u4e0d\u4f9d\u8d56\u5927\u8bed\u8a00\u6a21\u578b\uff09\u3002\u786e\u5b9a\u6027\u8868\u5934\u5339\u914d\u5f15\u64ce + \u5e26\u5bbd\u91cd\u53e0/\u5e02\u573a\u5dee\u8ddd/\u85aa\u916c\u7ed3\u6784/\u8c03\u85aa\u6a21\u62df/\u5408\u89c4\u68c0\u67e5\uff1bLLM \u4ec5\u4f5c\u4e3a\u53ef\u9009\u6d88\u6b67\u5165\u53e3\u3002",
+    "id": "helibeiqi/salary-diagnosis-cli",
+    "language": "Python",
+    "name": "helibeiqi/salary-diagnosis-cli",
+    "stars": 0,
+    "updated_at": "2026-09-07T14:57:50Z",
+    "url": "https://github.com/helibeiqi/salary-diagnosis-cli"
+  },
+  {
+    "description": "\u4ece\u96f6\u5b9e\u73b0 AI \u6838\u5fc3\u7ec4\u4ef6\uff08mini-* \u7cfb\u5217\uff09\uff1aTransformer / Qwen3 / BPE / Agent / RAG / Vector DB\u3002Rebuild AI building blocks from scratch.",
+    "id": "xbsheng/ai-from-scratch",
+    "language": "Python",
+    "name": "xbsheng/ai-from-scratch",
+    "stars": 1,
+    "updated_at": "2026-09-07T14:57:02Z",
+    "url": "https://github.com/xbsheng/ai-from-scratch"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 24,
+    "updated_at": "2026-09-07T14:54:56Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "AI recruiting assistant that matches resumes to job descriptions through chat \u2014 event-driven microservices with Kafka, Q",
+    "id": "anh737/resumatch-ai",
+    "language": "Python",
+    "name": "anh737/resumatch-ai",
+    "stars": 0,
+    "updated_at": "2026-09-07T14:53:45Z",
+    "url": "https://github.com/anh737/resumatch-ai"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2a\u4eba\u6d3b\u52a8\u5206\u6790\u5de5\u5177\uff1a\u5728\u672c\u5730\u91c7\u96c6\u7a97\u53e3\u6807\u9898\u4e0e\u6587\u4ef6\u5143\u6570\u636e\uff0c\u7531\u672c\u5730 Agent \u805a\u5408\u5206\u6790\uff0c\u6570\u636e\u683c\u5f0f\u517c\u5bb9 ActivityWatch",
+    "id": "chunleik/self-analyst",
+    "language": "Java",
+    "name": "chunleik/self-analyst",
+    "stars": 0,
+    "updated_at": "2026-09-07T14:54:04Z",
+    "url": "https://github.com/chunleik/self-analyst"
+  },
+  {
+    "description": "Living technical memory for AI agents \u2014 official SoluCortex MCP server",
+    "id": "soluai-spa/solucortex-mcp",
+    "language": "Python",
+    "name": "soluai-spa/solucortex-mcp",
+    "stars": 0,
+    "updated_at": "2026-09-07T14:49:17Z",
+    "url": "https://github.com/soluai-spa/solucortex-mcp"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 129,
+    "updated_at": "2026-09-07T14:47:01Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 805,
+    "updated_at": "2026-09-07T14:46:16Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-07T14:46:07Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
     "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
     "id": "the-priest/PriestsBasilisk",
     "language": "Python",
@@ -14,7 +95,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 613,
-    "updated_at": "2026-09-07T14:45:01Z",
+    "updated_at": "2026-09-07T14:58:54Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -34,24 +115,6 @@
     "stars": 215,
     "updated_at": "2026-09-07T14:37:37Z",
     "url": "https://github.com/EvoMap/awesome-agent-evolution"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-07T14:34:55Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-07T14:38:29Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "A Plan-and-Verify LLM Agent for Repository-Level Data Engineering",
@@ -148,7 +211,7 @@
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
-    "stars": 140,
+    "stars": 141,
     "updated_at": "2026-09-07T13:37:01Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
   },
@@ -171,21 +234,12 @@
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
-    "description": "Living technical memory for AI agents \u2014 official SoluCortex MCP server",
-    "id": "soluai-spa/solucortex-mcp",
-    "language": "Python",
-    "name": "soluai-spa/solucortex-mcp",
-    "stars": 0,
-    "updated_at": "2026-09-07T13:28:19Z",
-    "url": "https://github.com/soluai-spa/solucortex-mcp"
-  },
-  {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
     "id": "dsswift/ion",
     "language": "TypeScript",
     "name": "dsswift/ion",
     "stars": 4,
-    "updated_at": "2026-09-07T13:19:40Z",
+    "updated_at": "2026-09-07T14:51:33Z",
     "url": "https://github.com/dsswift/ion"
   },
   {
@@ -211,7 +265,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 30988,
+    "stars": 30990,
     "updated_at": "2026-09-07T13:10:30Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -234,15 +288,6 @@
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
-    "description": "\u4ece\u96f6\u5b9e\u73b0 AI \u6838\u5fc3\u7ec4\u4ef6\uff08mini-* \u7cfb\u5217\uff09\uff1aTransformer / Qwen3 / BPE / Agent / RAG / Vector DB\u3002Rebuild AI building blocks from scratch.",
-    "id": "xbsheng/ai-from-scratch",
-    "language": "Python",
-    "name": "xbsheng/ai-from-scratch",
-    "stars": 1,
-    "updated_at": "2026-09-07T12:49:40Z",
-    "url": "https://github.com/xbsheng/ai-from-scratch"
-  },
-  {
     "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
     "id": "metric-space-ai/greppy",
     "language": "Rust",
@@ -250,15 +295,6 @@
     "stars": 8,
     "updated_at": "2026-09-07T14:45:11Z",
     "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 805,
-    "updated_at": "2026-09-07T14:03:03Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
@@ -322,15 +358,6 @@
     "stars": 29,
     "updated_at": "2026-09-07T12:55:59Z",
     "url": "https://github.com/NUS-Program-Verification/AutoRocq"
-  },
-  {
-    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2a\u4eba\u6d3b\u52a8\u5206\u6790\u5de5\u5177\uff1a\u5728\u672c\u5730\u91c7\u96c6\u7a97\u53e3\u6807\u9898\u4e0e\u6587\u4ef6\u5143\u6570\u636e\uff0c\u7531\u672c\u5730 Agent \u805a\u5408\u5206\u6790\uff0c\u6570\u636e\u683c\u5f0f\u517c\u5bb9 ActivityWatch",
-    "id": "chunleik/self-analyst",
-    "language": "Java",
-    "name": "chunleik/self-analyst",
-    "stars": 0,
-    "updated_at": "2026-09-07T14:39:08Z",
-    "url": "https://github.com/chunleik/self-analyst"
   },
   {
     "description": "Local-first iPhone and Mac planner that turns natural-language tasks into realistic schedules around your calendar.",
@@ -421,32 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-07T11:06:28Z",
     "url": "https://github.com/scrapfly/scrapfly-cli"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-09-07T10:53:55Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "Official Scrapfly MCP server for Cursor, Claude Desktop, and any MCP-compatible client. Enterprise-grade web scraping, A",
-    "id": "scrapfly/scrapfly-mcp",
-    "language": "Go",
-    "name": "scrapfly/scrapfly-mcp",
-    "stars": 14,
-    "updated_at": "2026-09-07T10:53:47Z",
-    "url": "https://github.com/scrapfly/scrapfly-mcp"
-  },
-  {
-    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 470,
-    "updated_at": "2026-09-07T10:47:58Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
   }
 ]
