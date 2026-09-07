@@ -1,5 +1,59 @@
 [
   {
+    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
+    "id": "Heliotrope-dev/finance-agent",
+    "language": "Python",
+    "name": "Heliotrope-dev/finance-agent",
+    "stars": 2,
+    "updated_at": "2026-09-07T05:28:46Z",
+    "url": "https://github.com/Heliotrope-dev/finance-agent"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 16,
+    "updated_at": "2026-09-07T05:27:19Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-09-07T05:26:16Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "Built an AI-Powered Credit Risk Intelligence Platform using the Home Credit Default Risk dataset. The goal is not just t",
+    "id": "Samikshabatra/AI-Powered-Credit-Risk-Intelligence-Platform",
+    "language": "Python",
+    "name": "Samikshabatra/AI-Powered-Credit-Risk-Intelligence-Platform",
+    "stars": 0,
+    "updated_at": "2026-09-07T05:25:10Z",
+    "url": "https://github.com/Samikshabatra/AI-Powered-Credit-Risk-Intelligence-Platform"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 112,
+    "updated_at": "2026-09-07T05:18:26Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "A macOS desktop pet that is also an AI agent \u2014 it walks your screen, and reaches the Mac through its own approval gate.",
+    "id": "desFernan/puck-mac",
+    "language": "Swift",
+    "name": "desFernan/puck-mac",
+    "stars": 0,
+    "updated_at": "2026-09-07T05:25:32Z",
+    "url": "https://github.com/desFernan/puck-mac"
+  },
+  {
     "description": "Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and ",
     "id": "genieincodebottle/generative-ai",
     "language": "Jupyter Notebook",
@@ -36,15 +90,6 @@
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 112,
-    "updated_at": "2026-09-07T04:59:56Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -72,40 +117,13 @@
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 16,
-    "updated_at": "2026-09-07T04:49:51Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 30923,
+    "stars": 30924,
     "updated_at": "2026-09-07T04:47:17Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-09-07T05:11:53Z",
-    "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
-    "description": "Built an AI-Powered Credit Risk Intelligence Platform using the Home Credit Default Risk dataset. The goal is not just t",
-    "id": "Samikshabatra/AI-Powered-Credit-Risk-Intelligence-Platform",
-    "language": "Python",
-    "name": "Samikshabatra/AI-Powered-Credit-Risk-Intelligence-Platform",
-    "stars": 0,
-    "updated_at": "2026-09-07T04:41:32Z",
-    "url": "https://github.com/Samikshabatra/AI-Powered-Credit-Risk-Intelligence-Platform"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -189,15 +207,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
-    "id": "Heliotrope-dev/finance-agent",
-    "language": "Python",
-    "name": "Heliotrope-dev/finance-agent",
-    "stars": 2,
-    "updated_at": "2026-09-07T03:55:33Z",
-    "url": "https://github.com/Heliotrope-dev/finance-agent"
-  },
-  {
     "description": "Local coding agent with native Zhipu GLM / StepFun Step Coding-Plan support. Four hard gates \u2014 the agent can't claim don",
     "id": "Lion-1209/coderio",
     "language": "Python",
@@ -241,6 +250,15 @@
     "stars": 5891,
     "updated_at": "2026-09-07T03:32:04Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "The bioinformatics agent desktop for clinicians and wet-lab scientists \u2014 built on DeepSeek Harness. One-click installers",
+    "id": "sagirimo/BioDSH",
+    "language": "Python",
+    "name": "sagirimo/BioDSH",
+    "stars": 21,
+    "updated_at": "2026-09-07T03:31:31Z",
+    "url": "https://github.com/sagirimo/BioDSH"
   },
   {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-07T01:48:07Z",
     "url": "https://github.com/pruthviraj00007/VibeHarness"
-  },
-  {
-    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 31,
-    "updated_at": "2026-09-07T01:47:59Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
-    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
-    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
-    "language": "Go",
-    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
-    "stars": 0,
-    "updated_at": "2026-09-07T01:46:32Z",
-    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
   }
 ]
