@@ -1,12 +1,21 @@
 [
   {
-    "description": "An in-process bridge giving an AI agent real access to a modded Minecraft world - including mod APIs a protocol-level bo",
-    "id": "max-champlin/ghost",
-    "language": "Java",
-    "name": "max-champlin/ghost",
-    "stars": 0,
-    "updated_at": "2026-09-07T12:14:55Z",
-    "url": "https://github.com/max-champlin/ghost"
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 805,
+    "updated_at": "2026-09-07T12:21:47Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-07T12:21:10Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
@@ -14,8 +23,17 @@
     "language": "Python",
     "name": "karvidsson/kbots",
     "stars": 0,
-    "updated_at": "2026-09-07T12:12:53Z",
+    "updated_at": "2026-09-07T12:19:06Z",
     "url": "https://github.com/karvidsson/kbots"
+  },
+  {
+    "description": "An in-process bridge giving an AI agent real access to a modded Minecraft world - including mod APIs a protocol-level bo",
+    "id": "max-champlin/ghost",
+    "language": "Java",
+    "name": "max-champlin/ghost",
+    "stars": 0,
+    "updated_at": "2026-09-07T12:14:55Z",
+    "url": "https://github.com/max-champlin/ghost"
   },
   {
     "description": "Policy-driven autopilot for Dependabot PRs and patch releases, with Slack/Discord/Matrix digests",
@@ -34,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T12:05:51Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-07T12:03:10Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
@@ -189,15 +198,6 @@
     "url": "https://github.com/bigduu/Zenith"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 805,
-    "updated_at": "2026-09-07T12:07:30Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
     "description": "Agentic CLI for the Scrapfly platform: scrape, extract, crawl, and drive a cloud browser over CDP. Built-in LLM agent wi",
     "id": "scrapfly/scrapfly-cli",
     "language": "Go",
@@ -212,7 +212,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4410,
-    "updated_at": "2026-09-07T12:13:43Z",
+    "updated_at": "2026-09-07T12:25:06Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -257,7 +257,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5733,
-    "updated_at": "2026-09-07T10:24:04Z",
+    "updated_at": "2026-09-07T12:17:18Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {

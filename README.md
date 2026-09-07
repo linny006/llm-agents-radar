@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-07 12:15 UTC
+> ⏰ Last updated: 2026-09-07 12:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,28 +42,28 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [max-champlin/ghost](https://github.com/max-champlin/ghost) | 0 | Java | 2026-09-07 | An in-process bridge giving an AI agent real access to a modded Minecraft world - including mod APIs a protocol-level bo |
-| 2 | [karvidsson/kbots](https://github.com/karvidsson/kbots) | 0 | Python | 2026-09-07 | Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme |
-| 3 | [no42-org/twiki](https://github.com/no42-org/twiki) | 0 | TypeScript | 2026-09-07 | Policy-driven autopilot for Dependabot PRs and patch releases, with Slack/Discord/Matrix digests |
-| 4 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-09-07 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 5 | [genaforvena/lte-workstation](https://github.com/genaforvena/lte-workstation) | 8 | Shell | 2026-09-07 | An autopoiesic kefir for computing machines |
-| 6 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 613 | JavaScript | 2026-09-07 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
-| 7 | [j0yen/autobuilder](https://github.com/j0yen/autobuilder) | 0 | Rust | 2026-09-07 | PRD-to-Rust pipeline: a Claude Code skill + companion binary that ship code only when 7 digest-bound receipts agree |
-| 8 | [Lejusdefruits/hobot](https://github.com/Lejusdefruits/hobot) | 2 | Python | 2026-09-07 | A self-hosted job-hunting agent driven from Discord: finds postings, scores them, drafts cover letters, tailors your CV, |
-| 9 | [Lean-Prover/lean-prover](https://github.com/Lean-Prover/lean-prover) | 1 | Python | 2026-09-07 | An autonomous Lean 4 theorem-proving agent: LLM-drafted proofs iteratively repaired against lake compiler diagnostics wi |
-| 10 | [NUS-Program-Verification/AutoRocq](https://github.com/NUS-Program-Verification/AutoRocq) | 29 | Python | 2026-09-07 | Agentic Theorem Prover for Rocq for Program Verification |
-| 11 | [chunleik/self-analyst](https://github.com/chunleik/self-analyst) | 0 | Java | 2026-09-07 | 本地优先的个人活动分析工具：在本地采集窗口标题与文件元数据，由本地 Agent 聚合分析，数据格式兼容 ActivityWatch |
-| 12 | [adamskijow/Hob](https://github.com/adamskijow/Hob) | 1 | Python | 2026-09-07 | Local-first iPhone and Mac planner that turns natural-language tasks into realistic schedules around your calendar. |
-| 13 | [HercoZauZau/Baghdad](https://github.com/HercoZauZau/Baghdad) | 2 | JavaScript | 2026-09-07 | Assistente Virtual Localhosted |
-| 14 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 24 | Python | 2026-09-07 | A productive AI coworker that learns, self-improves, and ships work. |
-| 15 | [ChanTso/citybuddy](https://github.com/ChanTso/citybuddy) | 0 | Java | 2026-09-07 | Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de |
-| 16 | [hoshiyomiX/stellar-trails](https://github.com/hoshiyomiX/stellar-trails) | 0 | Shell | 2026-09-07 | Universal task workflow for LLM agents — phase state machine with traceability IDs, artifact templates, source state ver |
-| 17 | [genieincodebottle/generative-ai](https://github.com/genieincodebottle/generative-ai) | 2616 | Jupyter Notebook | 2026-09-07 | Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and  |
-| 18 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 5 | Swift | 2026-09-07 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
-| 19 | [ValueByte-AI/Awesome-LLM-in-Social-Science](https://github.com/ValueByte-AI/Awesome-LLM-in-Social-Science) | 648 | — | 2026-09-07 | Awesome papers involving LLMs in Social Science. |
-| 20 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-09-07 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 21 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 5 | Shell | 2026-09-07 | Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use,  |
-| 22 | [helixml/helix](https://github.com/helixml/helix) | 805 | Go | 2026-09-07 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
+| 1 | [helixml/helix](https://github.com/helixml/helix) | 805 | Go | 2026-09-07 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
+| 2 | [genaforvena/lte-workstation](https://github.com/genaforvena/lte-workstation) | 8 | Shell | 2026-09-07 | An autopoiesic kefir for computing machines |
+| 3 | [karvidsson/kbots](https://github.com/karvidsson/kbots) | 0 | Python | 2026-09-07 | Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme |
+| 4 | [max-champlin/ghost](https://github.com/max-champlin/ghost) | 0 | Java | 2026-09-07 | An in-process bridge giving an AI agent real access to a modded Minecraft world - including mod APIs a protocol-level bo |
+| 5 | [no42-org/twiki](https://github.com/no42-org/twiki) | 0 | TypeScript | 2026-09-07 | Policy-driven autopilot for Dependabot PRs and patch releases, with Slack/Discord/Matrix digests |
+| 6 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-09-07 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
+| 7 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 613 | JavaScript | 2026-09-07 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
+| 8 | [j0yen/autobuilder](https://github.com/j0yen/autobuilder) | 0 | Rust | 2026-09-07 | PRD-to-Rust pipeline: a Claude Code skill + companion binary that ship code only when 7 digest-bound receipts agree |
+| 9 | [Lejusdefruits/hobot](https://github.com/Lejusdefruits/hobot) | 2 | Python | 2026-09-07 | A self-hosted job-hunting agent driven from Discord: finds postings, scores them, drafts cover letters, tailors your CV, |
+| 10 | [Lean-Prover/lean-prover](https://github.com/Lean-Prover/lean-prover) | 1 | Python | 2026-09-07 | An autonomous Lean 4 theorem-proving agent: LLM-drafted proofs iteratively repaired against lake compiler diagnostics wi |
+| 11 | [NUS-Program-Verification/AutoRocq](https://github.com/NUS-Program-Verification/AutoRocq) | 29 | Python | 2026-09-07 | Agentic Theorem Prover for Rocq for Program Verification |
+| 12 | [chunleik/self-analyst](https://github.com/chunleik/self-analyst) | 0 | Java | 2026-09-07 | 本地优先的个人活动分析工具：在本地采集窗口标题与文件元数据，由本地 Agent 聚合分析，数据格式兼容 ActivityWatch |
+| 13 | [adamskijow/Hob](https://github.com/adamskijow/Hob) | 1 | Python | 2026-09-07 | Local-first iPhone and Mac planner that turns natural-language tasks into realistic schedules around your calendar. |
+| 14 | [HercoZauZau/Baghdad](https://github.com/HercoZauZau/Baghdad) | 2 | JavaScript | 2026-09-07 | Assistente Virtual Localhosted |
+| 15 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 24 | Python | 2026-09-07 | A productive AI coworker that learns, self-improves, and ships work. |
+| 16 | [ChanTso/citybuddy](https://github.com/ChanTso/citybuddy) | 0 | Java | 2026-09-07 | Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de |
+| 17 | [hoshiyomiX/stellar-trails](https://github.com/hoshiyomiX/stellar-trails) | 0 | Shell | 2026-09-07 | Universal task workflow for LLM agents — phase state machine with traceability IDs, artifact templates, source state ver |
+| 18 | [genieincodebottle/generative-ai](https://github.com/genieincodebottle/generative-ai) | 2616 | Jupyter Notebook | 2026-09-07 | Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and  |
+| 19 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 5 | Swift | 2026-09-07 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
+| 20 | [ValueByte-AI/Awesome-LLM-in-Social-Science](https://github.com/ValueByte-AI/Awesome-LLM-in-Social-Science) | 648 | — | 2026-09-07 | Awesome papers involving LLMs in Social Science. |
+| 21 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-09-07 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 22 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 5 | Shell | 2026-09-07 | Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use,  |
 | 23 | [scrapfly/scrapfly-cli](https://github.com/scrapfly/scrapfly-cli) | 5 | Go | 2026-09-07 | Agentic CLI for the Scrapfly platform: scrape, extract, crawl, and drive a cloud browser over CDP. Built-in LLM agent wi |
 | 24 | [gptme/gptme](https://github.com/gptme/gptme) | 4410 | Python | 2026-09-07 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
 | 25 | [dkblinux98/nyxGPT](https://github.com/dkblinux98/nyxGPT) | 0 | Python | 2026-09-07 | Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi |
