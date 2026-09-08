@@ -1,5 +1,41 @@
 [
   {
+    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
+    "id": "feder-cr/AIHawk",
+    "language": "Python",
+    "name": "feder-cr/AIHawk",
+    "stars": 30318,
+    "updated_at": "2026-09-08T00:43:18Z",
+    "url": "https://github.com/feder-cr/AIHawk"
+  },
+  {
+    "description": "\u603b\u7ed3Prompt&LLM\u8bba\u6587\uff0c\u5f00\u6e90\u6570\u636e&\u6a21\u578b\uff0cAIGC\u5e94\u7528",
+    "id": "DSXiangLi/DecryptPrompt",
+    "language": "\u2014",
+    "name": "DSXiangLi/DecryptPrompt",
+    "stars": 3438,
+    "updated_at": "2026-09-08T00:43:01Z",
+    "url": "https://github.com/DSXiangLi/DecryptPrompt"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-08T00:40:35Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-09-08T00:41:20Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
     "description": "Adversarial Prover/Skeptic code-generation loop, verified by real sandboxed execution \u2014 not an LLM's opinion",
     "id": "asim-aa/breakpoint",
     "language": "Python",
@@ -25,24 +61,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T00:27:47Z",
     "url": "https://github.com/NatanTechofNY/fieldnote-assistant"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-08T00:18:39Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
-    "id": "feder-cr/AIHawk",
-    "language": "Python",
-    "name": "feder-cr/AIHawk",
-    "stars": 30318,
-    "updated_at": "2026-09-08T00:16:21Z",
-    "url": "https://github.com/feder-cr/AIHawk"
   },
   {
     "description": "Control AI agents anywhere. (github mirror)",
@@ -104,7 +122,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-08T00:28:02Z",
+    "updated_at": "2026-09-08T00:38:28Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 4410,
     "updated_at": "2026-09-08T00:26:14Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
-    "id": "khudayarovich/onflip-agent",
-    "language": "TypeScript",
-    "name": "khudayarovich/onflip-agent",
-    "stars": 2,
-    "updated_at": "2026-09-07T22:18:36Z",
-    "url": "https://github.com/khudayarovich/onflip-agent"
-  },
-  {
-    "description": "An in-process bridge giving an AI agent real access to a modded Minecraft world - including mod APIs a protocol-level bo",
-    "id": "max-champlin/ghost",
-    "language": "Java",
-    "name": "max-champlin/ghost",
-    "stars": 0,
-    "updated_at": "2026-09-07T22:16:44Z",
-    "url": "https://github.com/max-champlin/ghost"
   }
 ]
