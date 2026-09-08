@@ -1,11 +1,47 @@
 [
   {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 0,
+    "updated_at": "2026-09-08T17:12:41Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
+    "id": "PCODE-pl/MCPTap",
+    "language": "Python",
+    "name": "PCODE-pl/MCPTap",
+    "stars": 1,
+    "updated_at": "2026-09-08T17:05:19Z",
+    "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
+    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 47,
+    "updated_at": "2026-09-08T17:00:37Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-09-08T16:59:49Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
     "id": "node9-ai/node9-proxy",
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 210,
-    "updated_at": "2026-09-08T16:58:12Z",
+    "updated_at": "2026-09-08T17:02:50Z",
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
@@ -25,24 +61,6 @@
     "stars": 159,
     "updated_at": "2026-09-08T16:53:33Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 0,
-    "updated_at": "2026-09-08T16:58:07Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-09-08T16:51:13Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
   },
   {
     "description": "Provider-neutral agentic harness for playing Hearts of Iron IV with an LLM: clock-owning turn loop, reflex/planner split",
@@ -68,7 +86,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-09-08T16:39:03Z",
+    "updated_at": "2026-09-08T17:08:12Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -122,7 +140,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 7179,
-    "updated_at": "2026-09-08T16:55:23Z",
+    "updated_at": "2026-09-08T17:13:32Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -142,6 +160,15 @@
     "stars": 0,
     "updated_at": "2026-09-08T16:13:05Z",
     "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 617,
+    "updated_at": "2026-09-08T16:09:11Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "A grumpy Gibson construct living in an office router. It only knows what the router can see.",
@@ -185,7 +212,7 @@
     "language": "Dart",
     "name": "justacalico/devinorium",
     "stars": 0,
-    "updated_at": "2026-09-08T16:53:37Z",
+    "updated_at": "2026-09-08T17:11:37Z",
     "url": "https://github.com/justacalico/devinorium"
   },
   {
@@ -203,7 +230,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 8,
-    "updated_at": "2026-09-08T16:59:57Z",
+    "updated_at": "2026-09-08T17:02:34Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -409,7 +436,7 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 3241,
+    "stars": 3242,
     "updated_at": "2026-09-08T14:08:56Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-08T14:08:35Z",
     "url": "https://github.com/HELLOCODINGTR/AgentForge"
-  },
-  {
-    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
-    "id": "strobilevitellus470/argus-ai",
-    "language": "Python",
-    "name": "strobilevitellus470/argus-ai",
-    "stars": 1,
-    "updated_at": "2026-09-08T14:07:38Z",
-    "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
-    "id": "diaban/jobsmith",
-    "language": "Python",
-    "name": "diaban/jobsmith",
-    "stars": 0,
-    "updated_at": "2026-09-08T14:07:33Z",
-    "url": "https://github.com/diaban/jobsmith"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-09-08T14:03:45Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
   }
 ]
