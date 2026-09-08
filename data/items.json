@@ -1,12 +1,66 @@
 [
   {
+    "description": "Monitor your local AI agents. See what files they can reach, what networks they communicate with, and stop them if requi",
+    "id": "farikonsec/topgent",
+    "language": "Rust",
+    "name": "farikonsec/topgent",
+    "stars": 0,
+    "updated_at": "2026-09-08T17:25:55Z",
+    "url": "https://github.com/farikonsec/topgent"
+  },
+  {
+    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 210,
+    "updated_at": "2026-09-08T17:30:14Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
+    "id": "feder-cr/AIHawk",
+    "language": "Python",
+    "name": "feder-cr/AIHawk",
+    "stars": 30324,
+    "updated_at": "2026-09-08T17:25:07Z",
+    "url": "https://github.com/feder-cr/AIHawk"
+  },
+  {
     "description": "GPT autonomous research and investigation using starintel",
     "id": "lost-rob0t/starintel-gpt-auto-dig",
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-09-08T17:12:41Z",
+    "updated_at": "2026-09-08T17:28:02Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-08T17:22:46Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7179,
+    "updated_at": "2026-09-08T17:25:22Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 16,
+    "updated_at": "2026-09-08T17:21:01Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
@@ -14,8 +68,17 @@
     "language": "Python",
     "name": "PCODE-pl/MCPTap",
     "stars": 1,
-    "updated_at": "2026-09-08T17:05:19Z",
+    "updated_at": "2026-09-08T17:18:27Z",
     "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-08T17:29:39Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
@@ -36,15 +99,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 210,
-    "updated_at": "2026-09-08T17:02:50Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
     "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
     "id": "ravisinghrajput95/kubewhy",
     "language": "Python",
@@ -59,7 +113,7 @@
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
     "stars": 159,
-    "updated_at": "2026-09-08T16:53:33Z",
+    "updated_at": "2026-09-08T17:27:02Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
@@ -70,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T16:50:12Z",
     "url": "https://github.com/Xocas12/hoi4-agent-harness"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-08T16:49:11Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -117,15 +162,6 @@
     "url": "https://github.com/ljedrz/nachalnik"
   },
   {
-    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
-    "id": "feder-cr/AIHawk",
-    "language": "Python",
-    "name": "feder-cr/AIHawk",
-    "stars": 30323,
-    "updated_at": "2026-09-08T16:25:46Z",
-    "url": "https://github.com/feder-cr/AIHawk"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
@@ -133,15 +169,6 @@
     "stars": 4411,
     "updated_at": "2026-09-08T16:29:30Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7179,
-    "updated_at": "2026-09-08T17:13:32Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Open-source AI coding agent for the terminal that works with several subscriptions in one session \u2014 your Claude Pro/Max,",
@@ -230,7 +257,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 8,
-    "updated_at": "2026-09-08T17:02:34Z",
+    "updated_at": "2026-09-08T17:18:33Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -250,15 +277,6 @@
     "stars": 2,
     "updated_at": "2026-09-08T15:40:49Z",
     "url": "https://github.com/Heliotrope-dev/finance-agent"
-  },
-  {
-    "description": "Monitor your local AI agents. See what files they can reach, what networks they communicate with, and stop them if requi",
-    "id": "farikonsec/topgent",
-    "language": "Rust",
-    "name": "farikonsec/topgent",
-    "stars": 0,
-    "updated_at": "2026-09-08T15:37:52Z",
-    "url": "https://github.com/farikonsec/topgent"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-08T14:13:58Z",
     "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3242,
-    "updated_at": "2026-09-08T14:08:56Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
-    "id": "HELLOCODINGTR/AgentForge",
-    "language": "\u2014",
-    "name": "HELLOCODINGTR/AgentForge",
-    "stars": 1,
-    "updated_at": "2026-09-08T14:08:35Z",
-    "url": "https://github.com/HELLOCODINGTR/AgentForge"
   }
 ]
