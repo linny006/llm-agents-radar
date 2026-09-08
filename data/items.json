@@ -1,5 +1,50 @@
 [
   {
+    "description": "\u00dclk\u00fcc\u00fc Baba \u2014 Hermes Agent ki\u015fisel fork\u2019u: mg paneli, USD maliyet tavan\u0131, kademe onay kap\u0131s\u0131. Amateur project built with",
+    "id": "mktest2179-a11y/ulkucu-baba",
+    "language": "Python",
+    "name": "mktest2179-a11y/ulkucu-baba",
+    "stars": 0,
+    "updated_at": "2026-09-08T21:06:50Z",
+    "url": "https://github.com/mktest2179-a11y/ulkucu-baba"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-08T21:03:40Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "ZhiWei \u77e5\u5fae \u2014 Verifiable Enterprise Agent Core\uff1a\u628a\u77e5\u8bc6\u3001\u8bb0\u5fc6\u3001\u6a21\u578b\u3001\u5de5\u5177\u4e0e\u957f\u671f\u4efb\u52a1\u7f16\u6392\u6210\u53ef\u9a8c\u8bc1\u3001\u53ef\u6cbb\u7406\u7684 Agent Apps\uff08Ask / Discover / ChangeBrief\uff09\u3002\u591a\u79df\u6237\u7eb5\u6df1",
+    "id": "emmmdty/zhiwei",
+    "language": "Python",
+    "name": "emmmdty/zhiwei",
+    "stars": 0,
+    "updated_at": "2026-09-08T21:01:49Z",
+    "url": "https://github.com/emmmdty/zhiwei"
+  },
+  {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 4,
+    "updated_at": "2026-09-08T21:01:06Z",
+    "url": "https://github.com/ljedrz/nachalnik"
+  },
+  {
+    "description": "Demon Cry core - AI-powered OSINT engine",
+    "id": "Mooncore-inc/demon-cry",
+    "language": "Python",
+    "name": "Mooncore-inc/demon-cry",
+    "stars": 2,
+    "updated_at": "2026-09-08T21:12:08Z",
+    "url": "https://github.com/Mooncore-inc/demon-cry"
+  },
+  {
     "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
@@ -18,15 +63,6 @@
     "url": "https://github.com/YuriKovalov22/the-finn"
   },
   {
-    "description": "\u00dclk\u00fcc\u00fc Baba \u2014 Hermes Agent ki\u015fisel fork\u2019u: mg paneli, USD maliyet tavan\u0131, kademe onay kap\u0131s\u0131. Amateur project built with",
-    "id": "mktest2179-a11y/ulkucu-baba",
-    "language": "Python",
-    "name": "mktest2179-a11y/ulkucu-baba",
-    "stars": 0,
-    "updated_at": "2026-09-08T20:48:50Z",
-    "url": "https://github.com/mktest2179-a11y/ulkucu-baba"
-  },
-  {
     "description": "Policy-driven autopilot for Dependabot PRs and patch releases, with Slack/Discord/Matrix digests",
     "id": "no42-org/twiki",
     "language": "TypeScript",
@@ -36,21 +72,12 @@
     "url": "https://github.com/no42-org/twiki"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-08T20:48:38Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "Institutional Quantitative Trading & AI Platform: Microsoft Qlib (Alpha158 + LightGBM), MetaTrader 5 EA Bridge, Bloomber",
     "id": "Ax3lsk3r3/QuantVibe",
     "language": "TypeScript",
     "name": "Ax3lsk3r3/QuantVibe",
     "stars": 2,
-    "updated_at": "2026-09-08T20:48:25Z",
+    "updated_at": "2026-09-08T21:11:59Z",
     "url": "https://github.com/Ax3lsk3r3/QuantVibe"
   },
   {
@@ -81,15 +108,6 @@
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
-    "description": "ZhiWei \u77e5\u5fae \u2014 Verifiable Enterprise Agent Core\uff1a\u628a\u77e5\u8bc6\u3001\u8bb0\u5fc6\u3001\u6a21\u578b\u3001\u5de5\u5177\u4e0e\u957f\u671f\u4efb\u52a1\u7f16\u6392\u6210\u53ef\u9a8c\u8bc1\u3001\u53ef\u6cbb\u7406\u7684 Agent Apps\uff08Ask / Discover / ChangeBrief\uff09\u3002\u591a\u79df\u6237\u7eb5\u6df1",
-    "id": "emmmdty/zhiwei",
-    "language": "Python",
-    "name": "emmmdty/zhiwei",
-    "stars": 0,
-    "updated_at": "2026-09-08T20:39:15Z",
-    "url": "https://github.com/emmmdty/zhiwei"
-  },
-  {
     "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
     "id": "hsaghir/looplet",
     "language": "Python",
@@ -97,15 +115,6 @@
     "stars": 6,
     "updated_at": "2026-09-08T20:35:11Z",
     "url": "https://github.com/hsaghir/looplet"
-  },
-  {
-    "description": "Demon Cry core - AI-powered OSINT engine",
-    "id": "Mooncore-inc/demon-cry",
-    "language": "Python",
-    "name": "Mooncore-inc/demon-cry",
-    "stars": 2,
-    "updated_at": "2026-09-08T20:57:45Z",
-    "url": "https://github.com/Mooncore-inc/demon-cry"
   },
   {
     "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
@@ -243,21 +252,12 @@
     "url": "https://github.com/sunnnn2005/data-quality-agent"
   },
   {
-    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
-    "id": "ljedrz/nachalnik",
-    "language": "Rust",
-    "name": "ljedrz/nachalnik",
-    "stars": 4,
-    "updated_at": "2026-09-08T19:15:54Z",
-    "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
     "description": "Control AI agents anywhere. (github mirror)",
     "id": "justacalico/devinorium",
     "language": "Dart",
     "name": "justacalico/devinorium",
     "stars": 1,
-    "updated_at": "2026-09-08T20:03:38Z",
+    "updated_at": "2026-09-08T21:10:00Z",
     "url": "https://github.com/justacalico/devinorium"
   },
   {
@@ -436,7 +436,7 @@
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 416,
+    "stars": 417,
     "updated_at": "2026-09-08T16:31:08Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
@@ -446,7 +446,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4411,
-    "updated_at": "2026-09-08T19:38:59Z",
+    "updated_at": "2026-09-08T21:02:46Z",
     "url": "https://github.com/gptme/gptme"
   }
 ]
