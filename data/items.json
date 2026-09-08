@@ -1,5 +1,50 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-09-08T20:39:58Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "ZhiWei \u77e5\u5fae \u2014 Verifiable Enterprise Agent Core\uff1a\u628a\u77e5\u8bc6\u3001\u8bb0\u5fc6\u3001\u6a21\u578b\u3001\u5de5\u5177\u4e0e\u957f\u671f\u4efb\u52a1\u7f16\u6392\u6210\u53ef\u9a8c\u8bc1\u3001\u53ef\u6cbb\u7406\u7684 Agent Apps\uff08Ask / Discover / ChangeBrief\uff09\u3002\u591a\u79df\u6237\u7eb5\u6df1",
+    "id": "emmmdty/zhiwei",
+    "language": "Python",
+    "name": "emmmdty/zhiwei",
+    "stars": 0,
+    "updated_at": "2026-09-08T20:39:15Z",
+    "url": "https://github.com/emmmdty/zhiwei"
+  },
+  {
+    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
+    "id": "hsaghir/looplet",
+    "language": "Python",
+    "name": "hsaghir/looplet",
+    "stars": 6,
+    "updated_at": "2026-09-08T20:35:11Z",
+    "url": "https://github.com/hsaghir/looplet"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-08T20:33:06Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "A grumpy Gibson construct living in an office router. It only knows what the router can see.",
+    "id": "YuriKovalov22/the-finn",
+    "language": "Lua",
+    "name": "YuriKovalov22/the-finn",
+    "stars": 27,
+    "updated_at": "2026-09-08T20:31:35Z",
+    "url": "https://github.com/YuriKovalov22/the-finn"
+  },
+  {
     "description": "Demon Cry core - AI-powered OSINT engine",
     "id": "Mooncore-inc/demon-cry",
     "language": "Python",
@@ -18,15 +63,6 @@
     "url": "https://github.com/feder-cr/AIHawk"
   },
   {
-    "description": "A grumpy Gibson construct living in an office router. It only knows what the router can see.",
-    "id": "YuriKovalov22/the-finn",
-    "language": "Lua",
-    "name": "YuriKovalov22/the-finn",
-    "stars": 27,
-    "updated_at": "2026-09-08T20:26:45Z",
-    "url": "https://github.com/YuriKovalov22/the-finn"
-  },
-  {
     "description": "Usa Qlib como cerebro cuant y Vibe-Trading como manos: scores de acciones por ML servidos a un agente de trading LLM v\u00eda",
     "id": "Ax3lsk3r3/QuantVibe",
     "language": "TypeScript",
@@ -41,26 +77,17 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-09-08T20:29:50Z",
+    "updated_at": "2026-09-08T20:41:05Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
-    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
-    "id": "hsaghir/looplet",
+    "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
+    "id": "mark-weeks/hello-nested-worlds-adventure",
     "language": "Python",
-    "name": "hsaghir/looplet",
-    "stars": 6,
-    "updated_at": "2026-09-08T20:18:48Z",
-    "url": "https://github.com/hsaghir/looplet"
-  },
-  {
-    "description": "ZhiWei \u77e5\u5fae \u2014 Verifiable Enterprise Agent Core\uff1a\u628a\u77e5\u8bc6\u3001\u8bb0\u5fc6\u3001\u6a21\u578b\u3001\u5de5\u5177\u4e0e\u957f\u671f\u4efb\u52a1\u7f16\u6392\u6210\u53ef\u9a8c\u8bc1\u3001\u53ef\u6cbb\u7406\u7684 Agent Apps\uff08Ask / Discover / ChangeBrief\uff09\u3002\u591a\u79df\u6237\u7eb5\u6df1",
-    "id": "emmmdty/zhiwei",
-    "language": "Python",
-    "name": "emmmdty/zhiwei",
-    "stars": 0,
-    "updated_at": "2026-09-08T20:18:24Z",
-    "url": "https://github.com/emmmdty/zhiwei"
+    "name": "mark-weeks/hello-nested-worlds-adventure",
+    "stars": 5,
+    "updated_at": "2026-09-08T20:23:00Z",
+    "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
   },
   {
     "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
@@ -79,15 +106,6 @@
     "stars": 5,
     "updated_at": "2026-09-08T20:18:10Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-08T20:18:06Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Adversarial Prover/Skeptic code-generation loop, verified by real sandboxed execution \u2014 not an LLM's opinion",
@@ -124,15 +142,6 @@
     "stars": 7179,
     "updated_at": "2026-09-08T20:07:36Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-09-08T20:24:01Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -185,7 +194,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 805,
-    "updated_at": "2026-09-08T19:37:51Z",
+    "updated_at": "2026-09-08T20:39:22Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -203,7 +212,7 @@
     "language": "Python",
     "name": "bondwell79/hercules",
     "stars": 0,
-    "updated_at": "2026-09-08T19:34:55Z",
+    "updated_at": "2026-09-08T20:30:33Z",
     "url": "https://github.com/bondwell79/hercules"
   },
   {
@@ -214,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T19:27:58Z",
     "url": "https://github.com/sunnnn2005/data-quality-agent"
-  },
-  {
-    "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
-    "id": "mark-weeks/hello-nested-worlds-adventure",
-    "language": "Python",
-    "name": "mark-weeks/hello-nested-worlds-adventure",
-    "stars": 5,
-    "updated_at": "2026-09-08T20:23:00Z",
-    "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
   },
   {
     "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
@@ -275,7 +275,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 28,
-    "updated_at": "2026-09-08T20:28:49Z",
+    "updated_at": "2026-09-08T20:30:41Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
