@@ -1,5 +1,14 @@
 [
   {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 159,
+    "updated_at": "2026-09-08T17:27:02Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
     "description": "Monitor your local AI agents. See what files they can reach, what networks they communicate with, and stop them if requi",
     "id": "farikonsec/topgent",
     "language": "Rust",
@@ -106,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T16:56:13Z",
     "url": "https://github.com/ravisinghrajput95/kubewhy"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 159,
-    "updated_at": "2026-09-08T17:27:02Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "Provider-neutral agentic harness for playing Hearts of Iron IV with an LLM: clock-owning turn loop, reflex/planner split",
