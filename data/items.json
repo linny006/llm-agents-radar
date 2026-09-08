@@ -1,12 +1,120 @@
 [
   {
+    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
+    "id": "Heliotrope-dev/finance-agent",
+    "language": "Python",
+    "name": "Heliotrope-dev/finance-agent",
+    "stars": 2,
+    "updated_at": "2026-09-08T06:29:24Z",
+    "url": "https://github.com/Heliotrope-dev/finance-agent"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-09-08T06:27:40Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
     "description": "An autopoiesic kefir for computing machines",
     "id": "genaforvena/lte-workstation",
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 8,
-    "updated_at": "2026-09-08T06:14:51Z",
+    "updated_at": "2026-09-08T06:23:46Z",
     "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
+    "id": "brittewestafrican981/ComfyUI-YinChao",
+    "language": "Python",
+    "name": "brittewestafrican981/ComfyUI-YinChao",
+    "stars": 0,
+    "updated_at": "2026-09-08T06:22:38Z",
+    "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
+  },
+  {
+    "description": "The LLM Anti-Framework",
+    "id": "Mirascope/mirascope",
+    "language": "Python",
+    "name": "Mirascope/mirascope",
+    "stars": 1524,
+    "updated_at": "2026-09-08T06:22:18Z",
+    "url": "https://github.com/Mirascope/mirascope"
+  },
+  {
+    "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
+    "id": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
+    "language": "Python",
+    "name": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
+    "stars": 4,
+    "updated_at": "2026-09-08T06:21:31Z",
+    "url": "https://github.com/mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo"
+  },
+  {
+    "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
+    "id": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
+    "language": "Python",
+    "name": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
+    "stars": 2,
+    "updated_at": "2026-09-08T06:20:29Z",
+    "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
+  },
+  {
+    "description": "PRD-to-Rust pipeline: a Claude Code skill + companion binary that ship code only when 7 digest-bound receipts agree",
+    "id": "j0yen/autobuilder",
+    "language": "Rust",
+    "name": "j0yen/autobuilder",
+    "stars": 0,
+    "updated_at": "2026-09-08T06:20:03Z",
+    "url": "https://github.com/j0yen/autobuilder"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-09-08T06:29:56Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
+    "id": "EpsteinF1les/tts",
+    "language": "\u2014",
+    "name": "EpsteinF1les/tts",
+    "stars": 0,
+    "updated_at": "2026-09-08T06:19:48Z",
+    "url": "https://github.com/EpsteinF1les/tts"
+  },
+  {
+    "description": "Monitor your local AI agents. See what files they can reach, what networks they communicate with, and stop them if requi",
+    "id": "farikonsec/topgent",
+    "language": "Rust",
+    "name": "farikonsec/topgent",
+    "stars": 0,
+    "updated_at": "2026-09-08T06:30:11Z",
+    "url": "https://github.com/farikonsec/topgent"
+  },
+  {
+    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
+    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "language": "\u2014",
+    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "stars": 0,
+    "updated_at": "2026-09-08T06:15:13Z",
+    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-09-08T06:15:01Z",
+    "url": "https://github.com/b-macker/NAAb"
   },
   {
     "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
@@ -40,7 +148,7 @@
     "id": "agentpit-io/hunter-community",
     "language": "Python",
     "name": "agentpit-io/hunter-community",
-    "stars": 472,
+    "stars": 473,
     "updated_at": "2026-09-08T06:11:05Z",
     "url": "https://github.com/agentpit-io/hunter-community"
   },
@@ -135,15 +243,6 @@
     "url": "https://github.com/Rekin226/Agronaut"
   },
   {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-09-08T05:58:42Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
     "description": "Deterministic orchestration, execution assurance, and quota-aware continuity runtime for GLM coding agents in ZCode",
     "id": "Chengy257/glm-conductor",
     "language": "Python",
@@ -151,6 +250,15 @@
     "stars": 1,
     "updated_at": "2026-09-08T05:59:56Z",
     "url": "https://github.com/Chengy257/glm-conductor"
+  },
+  {
+    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
+    "id": "mohahasan/ios-agentic-skills",
+    "language": "JavaScript",
+    "name": "mohahasan/ios-agentic-skills",
+    "stars": 4,
+    "updated_at": "2026-09-08T05:58:42Z",
+    "url": "https://github.com/mohahasan/ios-agentic-skills"
   },
   {
     "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
@@ -171,15 +279,6 @@
     "url": "https://github.com/axxafo/awesome-agent-benchmarks"
   },
   {
-    "description": "PRD-to-Rust pipeline: a Claude Code skill + companion binary that ship code only when 7 digest-bound receipts agree",
-    "id": "j0yen/autobuilder",
-    "language": "Rust",
-    "name": "j0yen/autobuilder",
-    "stars": 0,
-    "updated_at": "2026-09-08T05:50:52Z",
-    "url": "https://github.com/j0yen/autobuilder"
-  },
-  {
     "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
     "id": "yigido41/agentic-ai",
     "language": "Python",
@@ -187,6 +286,15 @@
     "stars": 2,
     "updated_at": "2026-09-08T05:47:59Z",
     "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
+    "id": "feder-cr/AIHawk",
+    "language": "Python",
+    "name": "feder-cr/AIHawk",
+    "stars": 30319,
+    "updated_at": "2026-09-08T05:47:45Z",
+    "url": "https://github.com/feder-cr/AIHawk"
   },
   {
     "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
@@ -207,15 +315,6 @@
     "url": "https://github.com/emmmdty/heng-agent"
   },
   {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-09-08T05:44:10Z",
-    "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
     "description": "",
     "id": "sanitprime/Advanced_Graph_RAG",
     "language": "Python",
@@ -223,15 +322,6 @@
     "stars": 2,
     "updated_at": "2026-09-08T05:43:05Z",
     "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
-    "id": "feder-cr/AIHawk",
-    "language": "Python",
-    "name": "feder-cr/AIHawk",
-    "stars": 30318,
-    "updated_at": "2026-09-08T05:47:45Z",
-    "url": "https://github.com/feder-cr/AIHawk"
   },
   {
     "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
@@ -259,24 +349,6 @@
     "stars": 129,
     "updated_at": "2026-09-08T05:35:52Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-09-08T06:15:01Z",
-    "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-09-08T05:52:48Z",
-    "url": "https://github.com/JSL107/personal_agents"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-08T04:28:49Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 5,
-    "updated_at": "2026-09-08T04:30:39Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Anonymizer Plugin for Presidio",
-    "id": "mrbrandao/sombra",
-    "language": "Python",
-    "name": "mrbrandao/sombra",
-    "stars": 1,
-    "updated_at": "2026-09-08T04:27:02Z",
-    "url": "https://github.com/mrbrandao/sombra"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 16,
-    "updated_at": "2026-09-08T04:29:50Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 126,
-    "updated_at": "2026-09-08T04:09:16Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "Agentic Theorem Prover for Rocq for Program Verification",
-    "id": "NUS-Program-Verification/AutoRocq",
-    "language": "Python",
-    "name": "NUS-Program-Verification/AutoRocq",
-    "stars": 29,
-    "updated_at": "2026-09-08T06:05:24Z",
-    "url": "https://github.com/NUS-Program-Verification/AutoRocq"
-  },
-  {
-    "description": "Guarded retail LLM Agent runtime with typed tools, stateful execution, evaluation, and deterministic diagnostics.",
-    "id": "Amay810/ecommerce-agent-runtime",
-    "language": "Python",
-    "name": "Amay810/ecommerce-agent-runtime",
-    "stars": 0,
-    "updated_at": "2026-09-08T04:07:56Z",
-    "url": "https://github.com/Amay810/ecommerce-agent-runtime"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 3,
-    "updated_at": "2026-09-08T04:06:08Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "A compass for autonomous agents, not an operating manual.",
-    "id": "tachyon-r/first-principles-agent-soul",
-    "language": "\u2014",
-    "name": "tachyon-r/first-principles-agent-soul",
-    "stars": 1,
-    "updated_at": "2026-09-08T03:50:23Z",
-    "url": "https://github.com/tachyon-r/first-principles-agent-soul"
   }
 ]
