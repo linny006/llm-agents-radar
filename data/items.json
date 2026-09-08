@@ -1,11 +1,47 @@
 [
   {
+    "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
+    "id": "ChanTso/citybuddy",
+    "language": "Java",
+    "name": "ChanTso/citybuddy",
+    "stars": 0,
+    "updated_at": "2026-09-08T08:13:09Z",
+    "url": "https://github.com/ChanTso/citybuddy"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 31065,
+    "updated_at": "2026-09-08T08:12:52Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 24,
+    "updated_at": "2026-09-08T08:11:07Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Autonomous execution agent on Discord \u2014 74 tools, shell access, browser automation, scheduled tasks, sub-agents, knowled",
+    "id": "Calmingstorm/Odin",
+    "language": "Python",
+    "name": "Calmingstorm/Odin",
+    "stars": 3,
+    "updated_at": "2026-09-08T08:08:50Z",
+    "url": "https://github.com/Calmingstorm/Odin"
+  },
+  {
     "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
     "id": "Rekin226/Agronaut",
     "language": "Python",
     "name": "Rekin226/Agronaut",
     "stars": 4,
-    "updated_at": "2026-09-08T07:59:38Z",
+    "updated_at": "2026-09-08T08:07:11Z",
     "url": "https://github.com/Rekin226/Agronaut"
   },
   {
@@ -16,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-09-08T07:55:01Z",
     "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
-    "description": "Autonomous execution agent on Discord \u2014 74 tools, shell access, browser automation, scheduled tasks, sub-agents, knowled",
-    "id": "Calmingstorm/Odin",
-    "language": "Python",
-    "name": "Calmingstorm/Odin",
-    "stars": 3,
-    "updated_at": "2026-09-08T07:57:12Z",
-    "url": "https://github.com/Calmingstorm/Odin"
   },
   {
     "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2a\u4eba\u6d3b\u52a8\u5206\u6790\u5de5\u5177\uff1a\u5728\u672c\u5730\u91c7\u96c6\u7a97\u53e3\u6807\u9898\u4e0e\u6587\u4ef6\u5143\u6570\u636e\uff0c\u7531\u672c\u5730 Agent \u805a\u5408\u5206\u6790\uff0c\u6570\u636e\u683c\u5f0f\u517c\u5bb9 ActivityWatch",
@@ -43,6 +70,15 @@
     "stars": 0,
     "updated_at": "2026-09-08T07:44:14Z",
     "url": "https://github.com/farikonsec/topgent"
+  },
+  {
+    "description": "A persistent agent runtime and its official CLI. Three packages: @echo-agent/core (runtime/SDK, zero runtime dependencie",
+    "id": "echo-yiyi/echo-agent",
+    "language": "TypeScript",
+    "name": "echo-yiyi/echo-agent",
+    "stars": 2,
+    "updated_at": "2026-09-08T07:43:15Z",
+    "url": "https://github.com/echo-yiyi/echo-agent"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -180,30 +216,12 @@
     "url": "https://github.com/gptme/gptme"
   },
   {
-    "description": "A persistent agent runtime and its official CLI. Three packages: @echo-agent/core (runtime/SDK, zero runtime dependencie",
-    "id": "echo-yiyi/echo-agent",
-    "language": "TypeScript",
-    "name": "echo-yiyi/echo-agent",
-    "stars": 0,
-    "updated_at": "2026-09-08T07:43:15Z",
-    "url": "https://github.com/echo-yiyi/echo-agent"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-08T06:45:19Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
     "id": "JSL107/personal_agents",
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-08T06:45:07Z",
+    "updated_at": "2026-09-08T08:10:45Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-08T05:54:04Z",
     "url": "https://github.com/Danisxxx/comfyUI-LongLook"
-  },
-  {
-    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
-    "id": "axxafo/awesome-agent-benchmarks",
-    "language": "\u2014",
-    "name": "axxafo/awesome-agent-benchmarks",
-    "stars": 3,
-    "updated_at": "2026-09-08T05:53:10Z",
-    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-09-08T05:47:59Z",
-    "url": "https://github.com/yigido41/agentic-ai"
   }
 ]
