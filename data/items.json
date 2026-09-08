@@ -1,5 +1,68 @@
 [
   {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 150,
+    "updated_at": "2026-09-08T07:14:25Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "Executive Assistant Kit | Gig hunting & general coordination. \u603b\u7ecf\u7406\u52a9\u7406\u2014\u2014\u627e\u5355\u63a5\u6d3b\u5165\u53e3\u4e0e\u7efc\u5408\u4e8b\u52a1\u534f\u8c03\u3002",
+    "id": "xhqing/ExecutiveAssistantAgent",
+    "language": "\u2014",
+    "name": "xhqing/ExecutiveAssistantAgent",
+    "stars": 0,
+    "updated_at": "2026-09-08T07:11:35Z",
+    "url": "https://github.com/xhqing/ExecutiveAssistantAgent"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-09-08T07:10:14Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
+    "description": "Local coding agent with native Zhipu GLM / StepFun Step Coding-Plan support. Four hard gates \u2014 the agent can't claim don",
+    "id": "Lion-1209/coderio",
+    "language": "Python",
+    "name": "Lion-1209/coderio",
+    "stars": 9,
+    "updated_at": "2026-09-08T07:08:10Z",
+    "url": "https://github.com/Lion-1209/coderio"
+  },
+  {
+    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 5,
+    "updated_at": "2026-09-08T07:13:41Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
+    "id": "Rekin226/Agronaut",
+    "language": "Python",
+    "name": "Rekin226/Agronaut",
+    "stars": 4,
+    "updated_at": "2026-09-08T07:01:12Z",
+    "url": "https://github.com/Rekin226/Agronaut"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-08T07:00:29Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
     "description": "Monitor your local AI agents. See what files they can reach, what networks they communicate with, and stop them if requi",
     "id": "farikonsec/topgent",
     "language": "Rust",
@@ -14,7 +77,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 16,
-    "updated_at": "2026-09-08T06:55:20Z",
+    "updated_at": "2026-09-08T07:13:37Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -50,7 +113,7 @@
     "language": "Java",
     "name": "chunleik/self-analyst",
     "stars": 0,
-    "updated_at": "2026-09-08T06:39:41Z",
+    "updated_at": "2026-09-08T07:03:28Z",
     "url": "https://github.com/chunleik/self-analyst"
   },
   {
@@ -63,15 +126,6 @@
     "url": "https://github.com/ongridio/ongrid"
   },
   {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-09-08T06:51:26Z",
-    "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
     "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
     "id": "Heliotrope-dev/finance-agent",
     "language": "Python",
@@ -79,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-09-08T06:30:46Z",
     "url": "https://github.com/Heliotrope-dev/finance-agent"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-08T06:23:46Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
@@ -279,15 +324,6 @@
     "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
   },
   {
-    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
-    "id": "Rekin226/Agronaut",
-    "language": "Python",
-    "name": "Rekin226/Agronaut",
-    "stars": 4,
-    "updated_at": "2026-09-08T06:01:16Z",
-    "url": "https://github.com/Rekin226/Agronaut"
-  },
-  {
     "description": "Deterministic orchestration, execution assurance, and quota-aware continuity runtime for GLM coding agents in ZCode",
     "id": "Chengy257/glm-conductor",
     "language": "Python",
@@ -405,48 +441,12 @@
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 150,
-    "updated_at": "2026-09-08T05:23:52Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
-  },
-  {
     "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
     "id": "hsaghir/looplet",
     "language": "Python",
     "name": "hsaghir/looplet",
     "stars": 6,
-    "updated_at": "2026-09-08T05:20:06Z",
+    "updated_at": "2026-09-08T07:15:12Z",
     "url": "https://github.com/hsaghir/looplet"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 231,
-    "updated_at": "2026-09-08T05:01:20Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "Synthos \u2014 \u81ea\u4e3b\u8fdb\u5316\u5b66\u672f\u79d1\u7814\u5e73\u53f0 / A self-evolving cognitive operating system for scientific research. 6 cognitive atoms + evolution",
-    "id": "yakeworld/Synthos",
-    "language": "Python",
-    "name": "yakeworld/Synthos",
-    "stars": 6,
-    "updated_at": "2026-09-08T04:47:48Z",
-    "url": "https://github.com/yakeworld/Synthos"
-  },
-  {
-    "description": "Public snapshot of the will-agent runtime and supporting tools",
-    "id": "yx2601816404-sys/will-agent-runtime",
-    "language": "Python",
-    "name": "yx2601816404-sys/will-agent-runtime",
-    "stars": 0,
-    "updated_at": "2026-09-08T04:47:12Z",
-    "url": "https://github.com/yx2601816404-sys/will-agent-runtime"
   }
 ]
