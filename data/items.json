@@ -1,5 +1,23 @@
 [
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7180,
+    "updated_at": "2026-09-08T22:47:00Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "PRD-to-Rust pipeline: a Claude Code skill + companion binary that ship code only when 7 digest-bound receipts agree",
+    "id": "j0yen/autobuilder",
+    "language": "Rust",
+    "name": "j0yen/autobuilder",
+    "stars": 0,
+    "updated_at": "2026-09-08T22:46:33Z",
+    "url": "https://github.com/j0yen/autobuilder"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -430,23 +448,5 @@
     "stars": 159,
     "updated_at": "2026-09-08T20:54:08Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
-  },
-  {
-    "description": "A grumpy Gibson construct living in an office router. It only knows what the router can see.",
-    "id": "YuriKovalov22/the-finn",
-    "language": "Lua",
-    "name": "YuriKovalov22/the-finn",
-    "stars": 27,
-    "updated_at": "2026-09-08T20:49:39Z",
-    "url": "https://github.com/YuriKovalov22/the-finn"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 8,
-    "updated_at": "2026-09-08T20:46:15Z",
-    "url": "https://github.com/ljchang/mecha"
   }
 ]
