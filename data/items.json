@@ -1,11 +1,47 @@
 [
   {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-09-08T11:13:43Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 410,
+    "updated_at": "2026-09-08T11:10:03Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "A grounded support-triage agent built on Google ADK",
+    "id": "milkwhite-lul/agentic-support",
+    "language": "Python",
+    "name": "milkwhite-lul/agentic-support",
+    "stars": 0,
+    "updated_at": "2026-09-08T11:07:24Z",
+    "url": "https://github.com/milkwhite-lul/agentic-support"
+  },
+  {
+    "description": "Scientific literature agent for grounded RAG, structured fact extraction, cross-paper quantitative analysis, evidence-tr",
+    "id": "KihonnyTsang/LiteratureAgent",
+    "language": "Python",
+    "name": "KihonnyTsang/LiteratureAgent",
+    "stars": 1,
+    "updated_at": "2026-09-08T11:04:05Z",
+    "url": "https://github.com/KihonnyTsang/LiteratureAgent"
+  },
+  {
     "description": "An autopoiesic kefir for computing machines",
     "id": "genaforvena/lte-workstation",
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 8,
-    "updated_at": "2026-09-08T10:59:32Z",
+    "updated_at": "2026-09-08T11:03:45Z",
     "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
@@ -16,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T10:58:36Z",
     "url": "https://github.com/j0yen/autobuilder"
-  },
-  {
-    "description": "Scientific literature agent for grounded RAG, structured fact extraction, cross-paper quantitative analysis, evidence-tr",
-    "id": "KihonnyTsang/LiteratureAgent",
-    "language": "Python",
-    "name": "KihonnyTsang/LiteratureAgent",
-    "stars": 1,
-    "updated_at": "2026-09-08T10:55:49Z",
-    "url": "https://github.com/KihonnyTsang/LiteratureAgent"
   },
   {
     "description": "An AI brain for Unitree robot dogs: one sentence in, guarded motion out.",
@@ -41,7 +68,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 615,
-    "updated_at": "2026-09-08T10:53:21Z",
+    "updated_at": "2026-09-08T11:14:15Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -151,15 +178,6 @@
     "stars": 475,
     "updated_at": "2026-09-08T10:15:14Z",
     "url": "https://github.com/agentpit-io/hunter-community"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-09-08T10:08:07Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
@@ -328,7 +346,7 @@
     "id": "feder-cr/AIHawk",
     "language": "Python",
     "name": "feder-cr/AIHawk",
-    "stars": 30321,
+    "stars": 30322,
     "updated_at": "2026-09-08T09:20:35Z",
     "url": "https://github.com/feder-cr/AIHawk"
   },
@@ -355,7 +373,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 1006,
+    "stars": 1007,
     "updated_at": "2026-09-08T09:13:21Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -430,23 +448,5 @@
     "stars": 5737,
     "updated_at": "2026-09-08T09:27:28Z",
     "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
-    "id": "Rekin226/Agronaut",
-    "language": "Python",
-    "name": "Rekin226/Agronaut",
-    "stars": 4,
-    "updated_at": "2026-09-08T08:35:57Z",
-    "url": "https://github.com/Rekin226/Agronaut"
-  },
-  {
-    "description": "Local coding agent with native Zhipu GLM / StepFun Step Coding-Plan support. Four hard gates \u2014 the agent can't claim don",
-    "id": "Lion-1209/coderio",
-    "language": "Python",
-    "name": "Lion-1209/coderio",
-    "stars": 9,
-    "updated_at": "2026-09-08T08:35:08Z",
-    "url": "https://github.com/Lion-1209/coderio"
   }
 ]
