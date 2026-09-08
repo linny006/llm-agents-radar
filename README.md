@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-08 04:56 UTC
+> ⏰ Last updated: 2026-09-08 05:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [citizenhicks/mobius](https://github.com/citizenhicks/mobius) | 1 | Rust | 2026-09-08 | möbius is a small, frontend-neutral Rust framework for coding agents.  |
-| 2 | [555cute/r20-quantum-trader](https://github.com/555cute/r20-quantum-trader) | 150 | Python | 2026-09-08 | ⚡ LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI  |
-| 3 | [gptme/gptme](https://github.com/gptme/gptme) | 4410 | Python | 2026-09-08 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
-| 4 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 24 | Python | 2026-09-08 | A productive AI coworker that learns, self-improves, and ships work. |
+| 1 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 24 | Python | 2026-09-08 | A productive AI coworker that learns, self-improves, and ships work. |
+| 2 | [citizenhicks/mobius](https://github.com/citizenhicks/mobius) | 1 | Rust | 2026-09-08 | möbius is a small, frontend-neutral Rust framework for coding agents.  |
+| 3 | [555cute/r20-quantum-trader](https://github.com/555cute/r20-quantum-trader) | 150 | Python | 2026-09-08 | ⚡ LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI  |
+| 4 | [gptme/gptme](https://github.com/gptme/gptme) | 4410 | Python | 2026-09-08 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
 | 5 | [hsaghir/looplet](https://github.com/hsaghir/looplet) | 6 | Python | 2026-09-08 | Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change. |
 | 6 | [genaforvena/lte-workstation](https://github.com/genaforvena/lte-workstation) | 8 | Shell | 2026-09-08 | An autopoiesic kefir for computing machines |
 | 7 | [yakeworld/Synthos](https://github.com/yakeworld/Synthos) | 6 | Python | 2026-09-08 | Synthos — 自主进化学术科研平台 / A self-evolving cognitive operating system for scientific research. 6 cognitive atoms + evolution |

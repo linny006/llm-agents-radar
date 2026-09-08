@@ -1,5 +1,14 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 24,
+    "updated_at": "2026-09-08T04:59:27Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
     "id": "citizenhicks/mobius",
     "language": "Rust",
@@ -25,15 +34,6 @@
     "stars": 4410,
     "updated_at": "2026-09-08T04:56:03Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-08T04:51:49Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
@@ -86,7 +86,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-08T04:51:07Z",
+    "updated_at": "2026-09-08T04:58:13Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
