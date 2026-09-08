@@ -1,12 +1,39 @@
 [
   {
-    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
-    "id": "Heliotrope-dev/finance-agent",
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
     "language": "Python",
-    "name": "Heliotrope-dev/finance-agent",
-    "stars": 2,
-    "updated_at": "2026-09-08T06:29:24Z",
-    "url": "https://github.com/Heliotrope-dev/finance-agent"
+    "name": "gptme/gptme",
+    "stars": 4410,
+    "updated_at": "2026-09-08T06:44:49Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2a\u4eba\u6d3b\u52a8\u5206\u6790\u5de5\u5177\uff1a\u5728\u672c\u5730\u91c7\u96c6\u7a97\u53e3\u6807\u9898\u4e0e\u6587\u4ef6\u5143\u6570\u636e\uff0c\u7531\u672c\u5730 Agent \u805a\u5408\u5206\u6790\uff0c\u6570\u636e\u683c\u5f0f\u517c\u5bb9 ActivityWatch",
+    "id": "chunleik/self-analyst",
+    "language": "Java",
+    "name": "chunleik/self-analyst",
+    "stars": 0,
+    "updated_at": "2026-09-08T06:39:41Z",
+    "url": "https://github.com/chunleik/self-analyst"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 1005,
+    "updated_at": "2026-09-08T06:39:07Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-09-08T06:45:07Z",
+    "url": "https://github.com/JSL107/personal_agents"
   },
   {
     "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
@@ -14,8 +41,17 @@
     "language": "Rust",
     "name": "citizenhicks/mobius",
     "stars": 1,
-    "updated_at": "2026-09-08T06:27:40Z",
+    "updated_at": "2026-09-08T06:42:55Z",
     "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
+    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
+    "id": "Heliotrope-dev/finance-agent",
+    "language": "Python",
+    "name": "Heliotrope-dev/finance-agent",
+    "stars": 2,
+    "updated_at": "2026-09-08T06:30:46Z",
+    "url": "https://github.com/Heliotrope-dev/finance-agent"
   },
   {
     "description": "An autopoiesic kefir for computing machines",
@@ -70,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T06:20:03Z",
     "url": "https://github.com/j0yen/autobuilder"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-09-08T06:29:56Z",
-    "url": "https://github.com/JSL107/personal_agents"
   },
   {
     "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
@@ -396,15 +423,6 @@
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4410,
-    "updated_at": "2026-09-08T05:18:35Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
     "description": "Synthos \u2014 \u81ea\u4e3b\u8fdb\u5316\u5b66\u672f\u79d1\u7814\u5e73\u53f0 / A self-evolving cognitive operating system for scientific research. 6 cognitive atoms + evolution",
     "id": "yakeworld/Synthos",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-08T04:45:33Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "\u96f6\u552e\u5de5\u5177 Agent \u7684\u5355\u5361\u540e\u8bad\u7ec3\u4e0e\u53d1\u5e03\u5224\u5b9a\u6d41\u6c34\u7ebf\uff1a\u53ef\u6267\u884c\u8f68\u8ff9\u8d28\u68c0 \u00b7 \u5c01\u5b58 holdout \u00b7 12 \u95e8 GO/NO-GO \u95e8\u7981 \u00b7 \u5185\u5bb9\u54c8\u5e0c\u7ea7\u590d\u73b0 | Single-GPU tool-agent post-training with a",
-    "id": "emmmdty/retail-agent-ops",
-    "language": "Python",
-    "name": "emmmdty/retail-agent-ops",
-    "stars": 0,
-    "updated_at": "2026-09-08T04:41:21Z",
-    "url": "https://github.com/emmmdty/retail-agent-ops"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-09-08T04:28:49Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   }
 ]
