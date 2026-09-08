@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "asim-aa/breakpoint",
     "stars": 0,
-    "updated_at": "2026-09-08T17:58:51Z",
+    "updated_at": "2026-09-08T18:14:33Z",
     "url": "https://github.com/asim-aa/breakpoint"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 27,
+    "updated_at": "2026-09-08T18:13:45Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "PRD-to-Rust pipeline: a Claude Code skill + companion binary that ship code only when 7 digest-bound receipts agree",
+    "id": "j0yen/autobuilder",
+    "language": "Rust",
+    "name": "j0yen/autobuilder",
+    "stars": 0,
+    "updated_at": "2026-09-08T18:05:08Z",
+    "url": "https://github.com/j0yen/autobuilder"
+  },
+  {
+    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
+    "id": "ravisinghrajput95/kubewhy",
+    "language": "Python",
+    "name": "ravisinghrajput95/kubewhy",
+    "stars": 0,
+    "updated_at": "2026-09-08T18:01:59Z",
+    "url": "https://github.com/ravisinghrajput95/kubewhy"
   },
   {
     "description": "ZhiWei \u77e5\u5fae \u2014 Verifiable Enterprise Agent Core\uff1a\u628a\u77e5\u8bc6\u3001\u8bb0\u5fc6\u3001\u6a21\u578b\u3001\u5de5\u5177\u4e0e\u957f\u671f\u4efb\u52a1\u7f16\u6392\u6210\u53ef\u9a8c\u8bc1\u3001\u53ef\u6cbb\u7406\u7684 Agent Apps\uff08Ask / Discover / ChangeBrief\uff09\u3002\u591a\u79df\u6237\u7eb5\u6df1",
@@ -41,7 +68,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-09-08T18:00:11Z",
+    "updated_at": "2026-09-08T18:00:29Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -86,7 +113,7 @@
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 210,
-    "updated_at": "2026-09-08T17:43:18Z",
+    "updated_at": "2026-09-08T18:03:14Z",
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
@@ -162,6 +189,15 @@
     "url": "https://github.com/PCODE-pl/MCPTap"
   },
   {
+    "description": "Control AI agents anywhere. (github mirror)",
+    "id": "justacalico/devinorium",
+    "language": "Dart",
+    "name": "justacalico/devinorium",
+    "stars": 1,
+    "updated_at": "2026-09-08T17:11:37Z",
+    "url": "https://github.com/justacalico/devinorium"
+  },
+  {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
     "id": "zhixuli0406/DuDuClaw",
     "language": "Rust",
@@ -180,15 +216,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
-    "id": "ravisinghrajput95/kubewhy",
-    "language": "Python",
-    "name": "ravisinghrajput95/kubewhy",
-    "stars": 0,
-    "updated_at": "2026-09-08T16:56:13Z",
-    "url": "https://github.com/ravisinghrajput95/kubewhy"
-  },
-  {
     "description": "Provider-neutral agentic harness for playing Hearts of Iron IV with an LLM: clock-owning turn loop, reflex/planner split",
     "id": "Xocas12/hoi4-agent-harness",
     "language": "Python",
@@ -203,7 +230,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-09-08T17:08:12Z",
+    "updated_at": "2026-09-08T18:14:28Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -220,7 +247,7 @@
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 415,
+    "stars": 416,
     "updated_at": "2026-09-08T16:31:08Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
@@ -306,15 +333,6 @@
     "url": "https://github.com/wiseria-ai-labs/pie-ai-agent"
   },
   {
-    "description": "Control AI agents anywhere. (github mirror)",
-    "id": "justacalico/devinorium",
-    "language": "Dart",
-    "name": "justacalico/devinorium",
-    "stars": 0,
-    "updated_at": "2026-09-08T17:11:37Z",
-    "url": "https://github.com/justacalico/devinorium"
-  },
-  {
     "description": "Controllable and Transparent LLM Application Framework",
     "id": "gumblex/aitoolman",
     "language": "Python",
@@ -329,7 +347,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 8,
-    "updated_at": "2026-09-08T17:45:44Z",
+    "updated_at": "2026-09-08T18:05:21Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-08T14:25:06Z",
     "url": "https://github.com/Blondieredistributed612/pocket-agent"
-  },
-  {
-    "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
-    "id": "bettersilvanus849/inner-coordinates",
-    "language": "Shell",
-    "name": "bettersilvanus849/inner-coordinates",
-    "stars": 1,
-    "updated_at": "2026-09-08T14:20:04Z",
-    "url": "https://github.com/bettersilvanus849/inner-coordinates"
-  },
-  {
-    "description": "A delivery-discipline behavior layer for AI agents \u2014 turns \u201cthe agent says it's done\u201d into \u201cthe agent proves it's done\u201d:",
-    "id": "JadeYingWah/gpt-series-reasoning-style",
-    "language": "Python",
-    "name": "JadeYingWah/gpt-series-reasoning-style",
-    "stars": 4,
-    "updated_at": "2026-09-08T14:19:42Z",
-    "url": "https://github.com/JadeYingWah/gpt-series-reasoning-style"
   }
 ]
