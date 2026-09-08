@@ -1,5 +1,68 @@
 [
   {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 31101,
+    "updated_at": "2026-09-08T13:00:09Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
+    "id": "feder-cr/AIHawk",
+    "language": "Python",
+    "name": "feder-cr/AIHawk",
+    "stars": 30324,
+    "updated_at": "2026-09-08T12:54:28Z",
+    "url": "https://github.com/feder-cr/AIHawk"
+  },
+  {
+    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 210,
+    "updated_at": "2026-09-08T12:58:49Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-09-08T12:55:53Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
+    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
+    "id": "AlanFokCo/agentscope-go",
+    "language": "Go",
+    "name": "AlanFokCo/agentscope-go",
+    "stars": 36,
+    "updated_at": "2026-09-08T12:49:42Z",
+    "url": "https://github.com/AlanFokCo/agentscope-go"
+  },
+  {
+    "description": "\u975e\u7ebf\u667a\u80fd NoneLinear - ReLE\u8bc4\u6d4b\uff1a\u4e2d\u6587AI\u5927\u6a21\u578b\u80fd\u529b\u8bc4\u6d4b\uff08\u6301\u7eed\u66f4\u65b0\uff09\uff1a\u76ee\u524d\u5df2\u56ca\u62ec374\u4e2a\u5927\u6a21\u578b\uff0c\u8986\u76d6chatgpt\u3001gpt-5.4\u3001\u8c37\u6b4cgemini-3.1-pro\u3001Claude-4.6\u3001\u6587\u5fc3ERNIE-X1.1\u3001ERNIE",
+    "id": "jeinlee1991/chinese-llm-benchmark",
+    "language": "\u2014",
+    "name": "jeinlee1991/chinese-llm-benchmark",
+    "stars": 6427,
+    "updated_at": "2026-09-08T12:48:24Z",
+    "url": "https://github.com/jeinlee1991/chinese-llm-benchmark"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 615,
+    "updated_at": "2026-09-08T12:47:48Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
     "description": "Monitor your local AI agents. See what files they can reach, what networks they communicate with, and stop them if requi",
     "id": "farikonsec/topgent",
     "language": "Rust",
@@ -9,30 +72,12 @@
     "url": "https://github.com/farikonsec/topgent"
   },
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 615,
-    "updated_at": "2026-09-08T12:45:09Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 31099,
-    "updated_at": "2026-09-08T12:37:39Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 7177,
-    "updated_at": "2026-09-08T12:36:56Z",
+    "updated_at": "2026-09-08T12:55:01Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -61,15 +106,6 @@
     "stars": 8,
     "updated_at": "2026-09-08T12:32:01Z",
     "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-09-08T12:40:42Z",
-    "url": "https://github.com/citizenhicks/mobius"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -104,7 +140,7 @@
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
     "stars": 156,
-    "updated_at": "2026-09-08T12:14:32Z",
+    "updated_at": "2026-09-08T13:00:13Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
@@ -160,15 +196,6 @@
     "stars": 16,
     "updated_at": "2026-09-08T11:51:40Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 210,
-    "updated_at": "2026-09-08T12:35:17Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
@@ -257,7 +284,7 @@
     "language": "Rust",
     "name": "j0yen/autobuilder",
     "stars": 0,
-    "updated_at": "2026-09-08T10:58:36Z",
+    "updated_at": "2026-09-08T12:57:44Z",
     "url": "https://github.com/j0yen/autobuilder"
   },
   {
@@ -337,7 +364,7 @@
     "id": "agentpit-io/hunter-community",
     "language": "Python",
     "name": "agentpit-io/hunter-community",
-    "stars": 475,
+    "stars": 476,
     "updated_at": "2026-09-08T10:15:14Z",
     "url": "https://github.com/agentpit-io/hunter-community"
   },
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-08T09:37:22Z",
     "url": "https://github.com/Heliotrope-dev/finance-agent"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-08T10:06:45Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Kali \u539f\u751f\u7684 LLM \u6e17\u900f\u6d4b\u8bd5 harness:\u5927\u6a21\u578b\u81ea\u4e3b\u9a71\u52a8 Kali \u5b8c\u6574\u5de5\u5177\u94fe,scope \u62a4\u680f + \u6301\u4e45 PTY + \u54c8\u5e0c\u94fe\u5ba1\u8ba1\u3002Python,GPL-3.0\u3002",
-    "id": "Moxxkidd/foam",
-    "language": "Python",
-    "name": "Moxxkidd/foam",
-    "stars": 0,
-    "updated_at": "2026-09-08T09:30:33Z",
-    "url": "https://github.com/Moxxkidd/foam"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 126,
-    "updated_at": "2026-09-08T09:29:12Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
   }
 ]
