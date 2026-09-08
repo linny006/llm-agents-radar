@@ -5,8 +5,44 @@
     "language": "Lua",
     "name": "YuriKovalov22/the-finn",
     "stars": 27,
-    "updated_at": "2026-09-08T15:41:41Z",
+    "updated_at": "2026-09-08T16:00:03Z",
     "url": "https://github.com/YuriKovalov22/the-finn"
+  },
+  {
+    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
+    "id": "karvidsson/kbots",
+    "language": "Python",
+    "name": "karvidsson/kbots",
+    "stars": 1,
+    "updated_at": "2026-09-08T15:57:21Z",
+    "url": "https://github.com/karvidsson/kbots"
+  },
+  {
+    "description": "Pie \u2013 free, open-source AI browser agent for Chrome. Reads pages & PDFs, fills forms, extracts data, automates tabs, han",
+    "id": "wiseria-ai-labs/pie-ai-agent",
+    "language": "TypeScript",
+    "name": "wiseria-ai-labs/pie-ai-agent",
+    "stars": 75,
+    "updated_at": "2026-09-08T15:57:11Z",
+    "url": "https://github.com/wiseria-ai-labs/pie-ai-agent"
+  },
+  {
+    "description": "Control AI agents anywhere. (github mirror)",
+    "id": "justacalico/devinorium",
+    "language": "Dart",
+    "name": "justacalico/devinorium",
+    "stars": 0,
+    "updated_at": "2026-09-08T15:54:56Z",
+    "url": "https://github.com/justacalico/devinorium"
+  },
+  {
+    "description": "Controllable and Transparent LLM Application Framework",
+    "id": "gumblex/aitoolman",
+    "language": "Python",
+    "name": "gumblex/aitoolman",
+    "stars": 4,
+    "updated_at": "2026-09-08T15:54:32Z",
+    "url": "https://github.com/gumblex/aitoolman"
   },
   {
     "description": "An autopoiesic kefir for computing machines",
@@ -14,8 +50,71 @@
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 8,
-    "updated_at": "2026-09-08T15:38:51Z",
+    "updated_at": "2026-09-08T15:53:10Z",
     "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Provider-neutral agentic harness for playing Hearts of Iron IV with an LLM: clock-owning turn loop, reflex/planner split",
+    "id": "Xocas12/hoi4-agent-harness",
+    "language": "Python",
+    "name": "Xocas12/hoi4-agent-harness",
+    "stars": 0,
+    "updated_at": "2026-09-08T15:56:25Z",
+    "url": "https://github.com/Xocas12/hoi4-agent-harness"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 8,
+    "updated_at": "2026-09-08T15:51:39Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
+    "id": "Rekin226/Agronaut",
+    "language": "Python",
+    "name": "Rekin226/Agronaut",
+    "stars": 4,
+    "updated_at": "2026-09-08T15:45:24Z",
+    "url": "https://github.com/Rekin226/Agronaut"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4411,
+    "updated_at": "2026-09-08T15:47:46Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Natural-language browser tests powered by Mistral. Describe the test, the agent runs it in Chrome and writes a report.",
+    "id": "fjoalland/vibetest",
+    "language": "Python",
+    "name": "fjoalland/vibetest",
+    "stars": 0,
+    "updated_at": "2026-09-08T15:42:32Z",
+    "url": "https://github.com/fjoalland/vibetest"
+  },
+  {
+    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
+    "id": "feder-cr/AIHawk",
+    "language": "Python",
+    "name": "feder-cr/AIHawk",
+    "stars": 30323,
+    "updated_at": "2026-09-08T15:59:22Z",
+    "url": "https://github.com/feder-cr/AIHawk"
+  },
+  {
+    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
+    "id": "Heliotrope-dev/finance-agent",
+    "language": "Python",
+    "name": "Heliotrope-dev/finance-agent",
+    "stars": 2,
+    "updated_at": "2026-09-08T15:40:49Z",
+    "url": "https://github.com/Heliotrope-dev/finance-agent"
   },
   {
     "description": "Monitor your local AI agents. See what files they can reach, what networks they communicate with, and stop them if requi",
@@ -27,22 +126,13 @@
     "url": "https://github.com/farikonsec/topgent"
   },
   {
-    "description": "Provider-neutral agentic harness for playing Hearts of Iron IV with an LLM: clock-owning turn loop, reflex/planner split",
-    "id": "Xocas12/hoi4-agent-harness",
-    "language": "Python",
-    "name": "Xocas12/hoi4-agent-harness",
-    "stars": 0,
-    "updated_at": "2026-09-08T15:41:06Z",
-    "url": "https://github.com/Xocas12/hoi4-agent-harness"
-  },
-  {
-    "description": "Natural-language browser tests powered by Mistral. Describe the test, the agent runs it in Chrome and writes a report.",
-    "id": "fjoalland/vibetest",
-    "language": "Python",
-    "name": "fjoalland/vibetest",
-    "stars": 0,
-    "updated_at": "2026-09-08T15:42:32Z",
-    "url": "https://github.com/fjoalland/vibetest"
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 5,
+    "updated_at": "2026-09-08T15:35:22Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "ZhiWei \u77e5\u5fae \u2014 Verifiable Enterprise Agent Core\uff1a\u628a\u77e5\u8bc6\u3001\u8bb0\u5fc6\u3001\u6a21\u578b\u3001\u5de5\u5177\u4e0e\u957f\u671f\u4efb\u52a1\u7f16\u6392\u6210\u53ef\u9a8c\u8bc1\u3001\u53ef\u6cbb\u7406\u7684 Agent Apps\uff08Ask / Discover / ChangeBrief\uff09\u3002\u591a\u79df\u6237\u7eb5\u6df1",
@@ -63,15 +153,6 @@
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 8,
-    "updated_at": "2026-09-08T15:43:14Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -79,15 +160,6 @@
     "stars": 7177,
     "updated_at": "2026-09-08T15:43:36Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
-    "id": "feder-cr/AIHawk",
-    "language": "Python",
-    "name": "feder-cr/AIHawk",
-    "stars": 30323,
-    "updated_at": "2026-09-08T15:42:08Z",
-    "url": "https://github.com/feder-cr/AIHawk"
   },
   {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
@@ -113,7 +185,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-09-08T15:44:03Z",
+    "updated_at": "2026-09-08T15:59:23Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -205,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T14:18:41Z",
     "url": "https://github.com/Blaz742/web-pentest-lab"
-  },
-  {
-    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
-    "id": "Heliotrope-dev/finance-agent",
-    "language": "Python",
-    "name": "Heliotrope-dev/finance-agent",
-    "stars": 2,
-    "updated_at": "2026-09-08T15:40:49Z",
-    "url": "https://github.com/Heliotrope-dev/finance-agent"
   },
   {
     "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-08T13:53:05Z",
     "url": "https://github.com/muhzars/Agent.cpp"
-  },
-  {
-    "description": "Source-grounded deep research, writing, and learning plugin for DeepSeek Harness (dsh): steerable checkpoints, mid-run s",
-    "id": "wxxb789/dsh-raven-research",
-    "language": "TypeScript",
-    "name": "wxxb789/dsh-raven-research",
-    "stars": 2,
-    "updated_at": "2026-09-08T13:50:13Z",
-    "url": "https://github.com/wxxb789/dsh-raven-research"
-  },
-  {
-    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
-    "id": "faheela-786/ComfyUI-qwenmultiangle",
-    "language": "\u2014",
-    "name": "faheela-786/ComfyUI-qwenmultiangle",
-    "stars": 2,
-    "updated_at": "2026-09-08T13:49:26Z",
-    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
-  },
-  {
-    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
-    "id": "amineeng/scraping-browser",
-    "language": "\u2014",
-    "name": "amineeng/scraping-browser",
-    "stars": 1,
-    "updated_at": "2026-09-08T13:47:23Z",
-    "url": "https://github.com/amineeng/scraping-browser"
-  },
-  {
-    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
-    "id": "Saran1536/ComfyUI-LoaderUtils",
-    "language": "Python",
-    "name": "Saran1536/ComfyUI-LoaderUtils",
-    "stars": 0,
-    "updated_at": "2026-09-08T13:43:46Z",
-    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 1,
-    "updated_at": "2026-09-08T13:42:14Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "Scientific literature agent for grounded RAG, structured fact extraction, cross-paper quantitative analysis, evidence-tr",
-    "id": "KihonnyTsang/LiteratureAgent",
-    "language": "Python",
-    "name": "KihonnyTsang/LiteratureAgent",
-    "stars": 1,
-    "updated_at": "2026-09-08T13:40:39Z",
-    "url": "https://github.com/KihonnyTsang/LiteratureAgent"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-09-08T13:36:43Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   }
 ]
