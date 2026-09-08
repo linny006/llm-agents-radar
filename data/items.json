@@ -1,12 +1,30 @@
 [
   {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
+    "description": "A grumpy Gibson construct living in an office router. It only knows what the router can see.",
+    "id": "YuriKovalov22/the-finn",
+    "language": "Lua",
+    "name": "YuriKovalov22/the-finn",
+    "stars": 27,
+    "updated_at": "2026-09-08T15:41:41Z",
+    "url": "https://github.com/YuriKovalov22/the-finn"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
     "stars": 8,
-    "updated_at": "2026-09-08T15:22:32Z",
-    "url": "https://github.com/ljchang/mecha"
+    "updated_at": "2026-09-08T15:38:51Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Monitor your local AI agents. See what files they can reach, what networks they communicate with, and stop them if requi",
+    "id": "farikonsec/topgent",
+    "language": "Rust",
+    "name": "farikonsec/topgent",
+    "stars": 0,
+    "updated_at": "2026-09-08T15:37:52Z",
+    "url": "https://github.com/farikonsec/topgent"
   },
   {
     "description": "Provider-neutral agentic harness for playing Hearts of Iron IV with an LLM: clock-owning turn loop, reflex/planner split",
@@ -14,17 +32,17 @@
     "language": "Python",
     "name": "Xocas12/hoi4-agent-harness",
     "stars": 0,
-    "updated_at": "2026-09-08T15:13:45Z",
+    "updated_at": "2026-09-08T15:41:06Z",
     "url": "https://github.com/Xocas12/hoi4-agent-harness"
   },
   {
-    "description": "A grumpy Gibson construct living in an office router. It only knows what the router can see.",
-    "id": "YuriKovalov22/the-finn",
-    "language": "Lua",
-    "name": "YuriKovalov22/the-finn",
-    "stars": 27,
-    "updated_at": "2026-09-08T15:10:09Z",
-    "url": "https://github.com/YuriKovalov22/the-finn"
+    "description": "Natural-language browser tests powered by Mistral. Describe the test, the agent runs it in Chrome and writes a report.",
+    "id": "fjoalland/vibetest",
+    "language": "Python",
+    "name": "fjoalland/vibetest",
+    "stars": 0,
+    "updated_at": "2026-09-08T15:42:32Z",
+    "url": "https://github.com/fjoalland/vibetest"
   },
   {
     "description": "ZhiWei \u77e5\u5fae \u2014 Verifiable Enterprise Agent Core\uff1a\u628a\u77e5\u8bc6\u3001\u8bb0\u5fc6\u3001\u6a21\u578b\u3001\u5de5\u5177\u4e0e\u957f\u671f\u4efb\u52a1\u7f16\u6392\u6210\u53ef\u9a8c\u8bc1\u3001\u53ef\u6cbb\u7406\u7684 Agent Apps\uff08Ask / Discover / ChangeBrief\uff09\u3002\u591a\u79df\u6237\u7eb5\u6df1",
@@ -32,17 +50,8 @@
     "language": "Python",
     "name": "emmmdty/zhiwei",
     "stars": 0,
-    "updated_at": "2026-09-08T15:08:22Z",
+    "updated_at": "2026-09-08T15:33:38Z",
     "url": "https://github.com/emmmdty/zhiwei"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7177,
-    "updated_at": "2026-09-08T15:08:19Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
@@ -54,13 +63,22 @@
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
     "stars": 8,
-    "updated_at": "2026-09-08T15:03:11Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
+    "updated_at": "2026-09-08T15:43:14Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7177,
+    "updated_at": "2026-09-08T15:43:36Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
@@ -68,7 +86,7 @@
     "language": "Python",
     "name": "feder-cr/AIHawk",
     "stars": 30323,
-    "updated_at": "2026-09-08T14:54:52Z",
+    "updated_at": "2026-09-08T15:42:08Z",
     "url": "https://github.com/feder-cr/AIHawk"
   },
   {
@@ -95,17 +113,8 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-09-08T15:30:20Z",
+    "updated_at": "2026-09-08T15:44:03Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
-    "description": "Natural-language browser tests powered by Mistral. Describe the test, the agent runs it in Chrome and writes a report.",
-    "id": "fjoalland/vibetest",
-    "language": "Python",
-    "name": "fjoalland/vibetest",
-    "stars": 0,
-    "updated_at": "2026-09-08T14:50:01Z",
-    "url": "https://github.com/fjoalland/vibetest"
   },
   {
     "description": "Agentic CLI for the Scrapfly platform: scrape, extract, crawl, and drive a cloud browser over CDP. Built-in LLM agent wi",
@@ -203,7 +212,7 @@
     "language": "Python",
     "name": "Heliotrope-dev/finance-agent",
     "stars": 2,
-    "updated_at": "2026-09-08T14:18:24Z",
+    "updated_at": "2026-09-08T15:40:49Z",
     "url": "https://github.com/Heliotrope-dev/finance-agent"
   },
   {
@@ -256,7 +265,7 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 3240,
+    "stars": 3241,
     "updated_at": "2026-09-08T14:08:56Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
@@ -403,15 +412,6 @@
     "stars": 1,
     "updated_at": "2026-09-08T13:47:23Z",
     "url": "https://github.com/amineeng/scraping-browser"
-  },
-  {
-    "description": "Monitor your local AI agents. See what files they can reach, what networks they communicate with, and stop them if requi",
-    "id": "farikonsec/topgent",
-    "language": "Rust",
-    "name": "farikonsec/topgent",
-    "stars": 0,
-    "updated_at": "2026-09-08T13:44:19Z",
-    "url": "https://github.com/farikonsec/topgent"
   },
   {
     "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
