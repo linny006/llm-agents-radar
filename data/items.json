@@ -1,12 +1,84 @@
 [
   {
+    "description": "Monitor your local AI agents. See what files they can reach, what networks they communicate with, and stop them if requi",
+    "id": "farikonsec/topgent",
+    "language": "Rust",
+    "name": "farikonsec/topgent",
+    "stars": 0,
+    "updated_at": "2026-09-08T12:42:00Z",
+    "url": "https://github.com/farikonsec/topgent"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 615,
+    "updated_at": "2026-09-08T12:45:09Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 31099,
+    "updated_at": "2026-09-08T12:37:39Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 7177,
-    "updated_at": "2026-09-08T12:25:46Z",
+    "updated_at": "2026-09-08T12:36:56Z",
     "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4411,
+    "updated_at": "2026-09-08T12:37:19Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-08T12:33:04Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 8,
+    "updated_at": "2026-09-08T12:32:01Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-09-08T12:40:42Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-09-08T12:30:58Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Scientific literature agent for grounded RAG, structured fact extraction, cross-paper quantitative analysis, evidence-tr",
@@ -16,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-09-08T12:22:38Z",
     "url": "https://github.com/KihonnyTsang/LiteratureAgent"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-08T12:18:05Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
@@ -90,15 +153,6 @@
     "url": "https://github.com/no42-org/twiki"
   },
   {
-    "description": "Monitor your local AI agents. See what files they can reach, what networks they communicate with, and stop them if requi",
-    "id": "farikonsec/topgent",
-    "language": "Rust",
-    "name": "farikonsec/topgent",
-    "stars": 0,
-    "updated_at": "2026-09-08T11:57:20Z",
-    "url": "https://github.com/farikonsec/topgent"
-  },
-  {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
     "id": "SuperdeMan/cockpit-agent",
     "language": "Python",
@@ -113,7 +167,7 @@
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 210,
-    "updated_at": "2026-09-08T11:53:09Z",
+    "updated_at": "2026-09-08T12:35:17Z",
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
@@ -171,15 +225,6 @@
     "url": "https://github.com/helibeiqi/salary-diagnosis-cli"
   },
   {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-09-08T11:17:02Z",
-    "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
     "description": "\u5bf9\u7f51\u9875deepseek\u7684\u5c01\u88c5\uff0c\u5b9e\u73b0\u514d\u8d39API\u8c03\u7528\u3002\u652f\u6301 OpenAI completions / responses socket\u3002\u53ef\u5de5\u5177\u8c03\u7528\uff0c\u53ef\u63a5\u5165codex\u3001copilot\u3002\u8f7b\u91cf\u81ea\u7528",
     "id": "madderscientist/WebAI2API",
     "language": "TypeScript",
@@ -187,15 +232,6 @@
     "stars": 25,
     "updated_at": "2026-09-08T11:16:28Z",
     "url": "https://github.com/madderscientist/WebAI2API"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 615,
-    "updated_at": "2026-09-08T11:32:47Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -412,41 +448,5 @@
     "stars": 126,
     "updated_at": "2026-09-08T09:29:12Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 3,
-    "updated_at": "2026-09-08T09:28:30Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Keep agent CLIs running 7\u00d724 \u2014 supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure",
-    "id": "wan9yu/cli-agent-runner",
-    "language": "Python",
-    "name": "wan9yu/cli-agent-runner",
-    "stars": 4,
-    "updated_at": "2026-09-08T09:22:11Z",
-    "url": "https://github.com/wan9yu/cli-agent-runner"
-  },
-  {
-    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
-    "id": "feder-cr/AIHawk",
-    "language": "Python",
-    "name": "feder-cr/AIHawk",
-    "stars": 30323,
-    "updated_at": "2026-09-08T09:20:35Z",
-    "url": "https://github.com/feder-cr/AIHawk"
-  },
-  {
-    "description": "A provider-agnostic coding-agent harness for autonomous Python repository bug repair, with Docker verification and repro",
-    "id": "ztsstz711-afk/RepoFix-Harness",
-    "language": "Python",
-    "name": "ztsstz711-afk/RepoFix-Harness",
-    "stars": 0,
-    "updated_at": "2026-09-08T09:26:28Z",
-    "url": "https://github.com/ztsstz711-afk/RepoFix-Harness"
   }
 ]
