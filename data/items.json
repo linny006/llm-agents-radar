@@ -1,5 +1,32 @@
 [
   {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-08T00:18:39Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
+    "id": "feder-cr/AIHawk",
+    "language": "Python",
+    "name": "feder-cr/AIHawk",
+    "stars": 30318,
+    "updated_at": "2026-09-08T00:16:21Z",
+    "url": "https://github.com/feder-cr/AIHawk"
+  },
+  {
+    "description": "Control AI agents anywhere. (github mirror)",
+    "id": "justacalico/devinorium",
+    "language": "Dart",
+    "name": "justacalico/devinorium",
+    "stars": 0,
+    "updated_at": "2026-09-08T00:15:26Z",
+    "url": "https://github.com/justacalico/devinorium"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -25,15 +52,6 @@
     "stars": 494,
     "updated_at": "2026-09-08T00:08:24Z",
     "url": "https://github.com/expectedparrot/edsl"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-08T00:07:55Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -68,7 +86,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-08T00:01:34Z",
+    "updated_at": "2026-09-08T00:18:52Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -133,24 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T23:27:57Z",
     "url": "https://github.com/EpsteinF1les/tts"
-  },
-  {
-    "description": "Control AI agents anywhere. (github mirror)",
-    "id": "justacalico/devinorium",
-    "language": "Dart",
-    "name": "justacalico/devinorium",
-    "stars": 0,
-    "updated_at": "2026-09-07T23:53:29Z",
-    "url": "https://github.com/justacalico/devinorium"
-  },
-  {
-    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
-    "id": "feder-cr/AIHawk",
-    "language": "Python",
-    "name": "feder-cr/AIHawk",
-    "stars": 30318,
-    "updated_at": "2026-09-08T00:13:03Z",
-    "url": "https://github.com/feder-cr/AIHawk"
   },
   {
     "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",

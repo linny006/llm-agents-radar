@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-08 00:15 UTC
+> ⏰ Last updated: 2026-09-08 00:22 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,23 +42,23 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-09-08 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 2 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 16 | Python | 2026-09-08 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、视觉与 HMI；LLM 只负责理解与规划，VAL 负责确定性安全执行。 |
-| 3 | [expectedparrot/edsl](https://github.com/expectedparrot/edsl) | 494 | Python | 2026-09-08 | Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w |
-| 4 | [genaforvena/lte-workstation](https://github.com/genaforvena/lte-workstation) | 8 | Shell | 2026-09-08 | An autopoiesic kefir for computing machines |
-| 5 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-09-08 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 6 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 129 | HTML | 2026-09-08 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 7 | [hsaghir/looplet](https://github.com/hsaghir/looplet) | 6 | Python | 2026-09-08 | Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change. |
-| 8 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 9 | Python | 2026-09-08 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 9 | [555cute/r20-quantum-trader](https://github.com/555cute/r20-quantum-trader) | 143 | Python | 2026-09-07 | ⚡ LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI  |
-| 10 | [Maximilian-Winter/ToolAgents](https://github.com/Maximilian-Winter/ToolAgents) | 39 | Python | 2026-09-07 | ToolAgents is a lightweight and flexible framework for creating function-calling agents with various language models and |
-| 11 | [ljchang/mecha](https://github.com/ljchang/mecha) | 8 | Rust | 2026-09-07 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
-| 12 | [brittewestafrican981/ComfyUI-YinChao](https://github.com/brittewestafrican981/ComfyUI-YinChao) | 0 | Python | 2026-09-07 | Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf |
-| 13 | [mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo](https://github.com/mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo) | 4 | Python | 2026-09-07 | Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo |
-| 14 | [lesleyhalfbaked743/ComfyUI-FL-SeedVR2](https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2) | 2 | Python | 2026-09-07 | Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model. |
-| 15 | [EpsteinF1les/tts](https://github.com/EpsteinF1les/tts) | 0 | — | 2026-09-07 | Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe |
-| 16 | [justacalico/devinorium](https://github.com/justacalico/devinorium) | 0 | Dart | 2026-09-07 | Control AI agents anywhere. (github mirror) |
-| 17 | [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) | 30318 | Python | 2026-09-08 | Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M |
+| 1 | [genaforvena/lte-workstation](https://github.com/genaforvena/lte-workstation) | 8 | Shell | 2026-09-08 | An autopoiesic kefir for computing machines |
+| 2 | [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) | 30318 | Python | 2026-09-08 | Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M |
+| 3 | [justacalico/devinorium](https://github.com/justacalico/devinorium) | 0 | Dart | 2026-09-08 | Control AI agents anywhere. (github mirror) |
+| 4 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-09-08 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 5 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 16 | Python | 2026-09-08 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、视觉与 HMI；LLM 只负责理解与规划，VAL 负责确定性安全执行。 |
+| 6 | [expectedparrot/edsl](https://github.com/expectedparrot/edsl) | 494 | Python | 2026-09-08 | Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w |
+| 7 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-09-08 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 8 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 129 | HTML | 2026-09-08 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 9 | [hsaghir/looplet](https://github.com/hsaghir/looplet) | 6 | Python | 2026-09-08 | Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change. |
+| 10 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 9 | Python | 2026-09-08 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 11 | [555cute/r20-quantum-trader](https://github.com/555cute/r20-quantum-trader) | 143 | Python | 2026-09-07 | ⚡ LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI  |
+| 12 | [Maximilian-Winter/ToolAgents](https://github.com/Maximilian-Winter/ToolAgents) | 39 | Python | 2026-09-07 | ToolAgents is a lightweight and flexible framework for creating function-calling agents with various language models and |
+| 13 | [ljchang/mecha](https://github.com/ljchang/mecha) | 8 | Rust | 2026-09-07 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
+| 14 | [brittewestafrican981/ComfyUI-YinChao](https://github.com/brittewestafrican981/ComfyUI-YinChao) | 0 | Python | 2026-09-07 | Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf |
+| 15 | [mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo](https://github.com/mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo) | 4 | Python | 2026-09-07 | Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo |
+| 16 | [lesleyhalfbaked743/ComfyUI-FL-SeedVR2](https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2) | 2 | Python | 2026-09-07 | Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model. |
+| 17 | [EpsteinF1les/tts](https://github.com/EpsteinF1les/tts) | 0 | — | 2026-09-07 | Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe |
 | 18 | [metric-space-ai/greppy](https://github.com/metric-space-ai/greppy) | 8 | Rust | 2026-09-07 | Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact  |
 | 19 | [Vuongngu8186/langgraph-langchain-agent-setup](https://github.com/Vuongngu8186/langgraph-langchain-agent-setup) | 0 | — | 2026-09-07 | Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build. |
 | 20 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-09-07 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
