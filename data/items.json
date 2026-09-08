@@ -1,5 +1,113 @@
 [
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7177,
+    "updated_at": "2026-09-08T13:57:18Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-09-08T13:57:12Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "",
+    "id": "hichamnes-prog/exforum-auto-poster",
+    "language": "Python",
+    "name": "hichamnes-prog/exforum-auto-poster",
+    "stars": 1,
+    "updated_at": "2026-09-08T13:56:56Z",
+    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
+  },
+  {
+    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
+    "id": "muhzars/Agent.cpp",
+    "language": "C++",
+    "name": "muhzars/Agent.cpp",
+    "stars": 1,
+    "updated_at": "2026-09-08T13:53:05Z",
+    "url": "https://github.com/muhzars/Agent.cpp"
+  },
+  {
+    "description": "Source-grounded deep research, writing, and learning plugin for DeepSeek Harness (dsh): steerable checkpoints, mid-run s",
+    "id": "wxxb789/dsh-raven-research",
+    "language": "TypeScript",
+    "name": "wxxb789/dsh-raven-research",
+    "stars": 2,
+    "updated_at": "2026-09-08T13:50:13Z",
+    "url": "https://github.com/wxxb789/dsh-raven-research"
+  },
+  {
+    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
+    "id": "faheela-786/ComfyUI-qwenmultiangle",
+    "language": "\u2014",
+    "name": "faheela-786/ComfyUI-qwenmultiangle",
+    "stars": 2,
+    "updated_at": "2026-09-08T13:49:26Z",
+    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
+  },
+  {
+    "description": "A grumpy Gibson construct living in an office router. It only knows what the router can see.",
+    "id": "YuriKovalov22/the-finn",
+    "language": "Lua",
+    "name": "YuriKovalov22/the-finn",
+    "stars": 26,
+    "updated_at": "2026-09-08T13:48:34Z",
+    "url": "https://github.com/YuriKovalov22/the-finn"
+  },
+  {
+    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
+    "id": "amineeng/scraping-browser",
+    "language": "\u2014",
+    "name": "amineeng/scraping-browser",
+    "stars": 1,
+    "updated_at": "2026-09-08T13:47:23Z",
+    "url": "https://github.com/amineeng/scraping-browser"
+  },
+  {
+    "description": "Monitor your local AI agents. See what files they can reach, what networks they communicate with, and stop them if requi",
+    "id": "farikonsec/topgent",
+    "language": "Rust",
+    "name": "farikonsec/topgent",
+    "stars": 0,
+    "updated_at": "2026-09-08T13:44:19Z",
+    "url": "https://github.com/farikonsec/topgent"
+  },
+  {
+    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
+    "id": "Saran1536/ComfyUI-LoaderUtils",
+    "language": "Python",
+    "name": "Saran1536/ComfyUI-LoaderUtils",
+    "stars": 0,
+    "updated_at": "2026-09-08T13:43:46Z",
+    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 0,
+    "updated_at": "2026-09-08T13:58:54Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 1,
+    "updated_at": "2026-09-08T13:42:14Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
     "description": "Scientific literature agent for grounded RAG, structured fact extraction, cross-paper quantitative analysis, evidence-tr",
     "id": "KihonnyTsang/LiteratureAgent",
     "language": "Python",
@@ -9,29 +117,11 @@
     "url": "https://github.com/KihonnyTsang/LiteratureAgent"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-09-08T13:39:41Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7177,
-    "updated_at": "2026-09-08T13:39:19Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
     "id": "feder-cr/AIHawk",
     "language": "Python",
     "name": "feder-cr/AIHawk",
-    "stars": 30323,
+    "stars": 30324,
     "updated_at": "2026-09-08T13:37:40Z",
     "url": "https://github.com/feder-cr/AIHawk"
   },
@@ -81,15 +171,6 @@
     "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
   },
   {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 0,
-    "updated_at": "2026-09-08T13:42:40Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
     "description": "An in-process bridge giving an AI agent real access to a modded Minecraft world - including mod APIs a protocol-level bo",
     "id": "max-champlin/ghost",
     "language": "Java",
@@ -115,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-09-08T13:26:43Z",
     "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "A grumpy Gibson construct living in an office router. It only knows what the router can see.",
-    "id": "YuriKovalov22/the-finn",
-    "language": "Lua",
-    "name": "YuriKovalov22/the-finn",
-    "stars": 26,
-    "updated_at": "2026-09-08T13:25:30Z",
-    "url": "https://github.com/YuriKovalov22/the-finn"
   },
   {
     "description": "A grounded support-triage agent built on Google ADK",
@@ -175,7 +247,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 31104,
+    "stars": 31105,
     "updated_at": "2026-09-08T13:12:09Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -194,7 +266,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4411,
-    "updated_at": "2026-09-08T13:42:39Z",
+    "updated_at": "2026-09-08T13:57:00Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -247,7 +319,7 @@
     "id": "jeinlee1991/chinese-llm-benchmark",
     "language": "\u2014",
     "name": "jeinlee1991/chinese-llm-benchmark",
-    "stars": 6427,
+    "stars": 6428,
     "updated_at": "2026-09-08T12:48:24Z",
     "url": "https://github.com/jeinlee1991/chinese-llm-benchmark"
   },
@@ -259,15 +331,6 @@
     "stars": 616,
     "updated_at": "2026-09-08T12:47:48Z",
     "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "Monitor your local AI agents. See what files they can reach, what networks they communicate with, and stop them if requi",
-    "id": "farikonsec/topgent",
-    "language": "Rust",
-    "name": "farikonsec/topgent",
-    "stars": 0,
-    "updated_at": "2026-09-08T13:44:19Z",
-    "url": "https://github.com/farikonsec/topgent"
   },
   {
     "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
@@ -360,20 +423,11 @@
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
-    "description": "Source-grounded deep research, writing, and learning plugin for DeepSeek Harness (dsh): steerable checkpoints, mid-run s",
-    "id": "wxxb789/dsh-raven-research",
-    "language": "TypeScript",
-    "name": "wxxb789/dsh-raven-research",
-    "stars": 2,
-    "updated_at": "2026-09-08T11:51:25Z",
-    "url": "https://github.com/wxxb789/dsh-raven-research"
-  },
-  {
     "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 3821,
+    "stars": 3820,
     "updated_at": "2026-09-08T11:41:00Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
@@ -394,59 +448,5 @@
     "stars": 413,
     "updated_at": "2026-09-08T11:36:52Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "\u72ec\u7acb\u90e8\u7f72\u7684\u85aa\u916c\u8bca\u65ad CLI\uff08\u4e0d\u4f9d\u8d56\u5927\u8bed\u8a00\u6a21\u578b\uff09\u3002\u786e\u5b9a\u6027\u8868\u5934\u5339\u914d\u5f15\u64ce + \u5e26\u5bbd\u91cd\u53e0/\u5e02\u573a\u5dee\u8ddd/\u85aa\u916c\u7ed3\u6784/\u8c03\u85aa\u6a21\u62df/\u5408\u89c4\u68c0\u67e5\uff1bLLM \u4ec5\u4f5c\u4e3a\u53ef\u9009\u6d88\u6b67\u5165\u53e3\u3002",
-    "id": "helibeiqi/salary-diagnosis-cli",
-    "language": "Python",
-    "name": "helibeiqi/salary-diagnosis-cli",
-    "stars": 0,
-    "updated_at": "2026-09-08T11:27:33Z",
-    "url": "https://github.com/helibeiqi/salary-diagnosis-cli"
-  },
-  {
-    "description": "\u5bf9\u7f51\u9875deepseek\u7684\u5c01\u88c5\uff0c\u5b9e\u73b0\u514d\u8d39API\u8c03\u7528\u3002\u652f\u6301 OpenAI completions / responses socket\u3002\u53ef\u5de5\u5177\u8c03\u7528\uff0c\u53ef\u63a5\u5165codex\u3001copilot\u3002\u8f7b\u91cf\u81ea\u7528",
-    "id": "madderscientist/WebAI2API",
-    "language": "TypeScript",
-    "name": "madderscientist/WebAI2API",
-    "stars": 25,
-    "updated_at": "2026-09-08T11:16:28Z",
-    "url": "https://github.com/madderscientist/WebAI2API"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-09-08T11:13:43Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "An AI brain for Unitree robot dogs: one sentence in, guarded motion out.",
-    "id": "LiSheng5/argos",
-    "language": "Python",
-    "name": "LiSheng5/argos",
-    "stars": 0,
-    "updated_at": "2026-09-08T10:55:01Z",
-    "url": "https://github.com/LiSheng5/argos"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-09-08T10:45:22Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "\u4e0d\u6c42\u4eba Insider Compass: turn insider knowledge (price markups, jargon, sales scripts, process black boxes) that traditional",
-    "id": "makefeier/insider-compass",
-    "language": "\u2014",
-    "name": "makefeier/insider-compass",
-    "stars": 1,
-    "updated_at": "2026-09-08T10:41:12Z",
-    "url": "https://github.com/makefeier/insider-compass"
   }
 ]
