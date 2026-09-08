@@ -1,11 +1,47 @@
 [
   {
+    "description": "Monitor your local AI agents. See what files they can reach, what networks they communicate with, and stop them if requi",
+    "id": "farikonsec/topgent",
+    "language": "Rust",
+    "name": "farikonsec/topgent",
+    "stars": 0,
+    "updated_at": "2026-09-08T06:59:19Z",
+    "url": "https://github.com/farikonsec/topgent"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 16,
+    "updated_at": "2026-09-08T06:55:20Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 24,
+    "updated_at": "2026-09-08T06:45:19Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-09-08T06:45:07Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4410,
-    "updated_at": "2026-09-08T06:44:49Z",
+    "updated_at": "2026-09-08T06:52:04Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -27,21 +63,12 @@
     "url": "https://github.com/ongridio/ongrid"
   },
   {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-09-08T06:45:07Z",
-    "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
     "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
     "id": "citizenhicks/mobius",
     "language": "Rust",
     "name": "citizenhicks/mobius",
     "stars": 1,
-    "updated_at": "2026-09-08T06:42:55Z",
+    "updated_at": "2026-09-08T06:51:26Z",
     "url": "https://github.com/citizenhicks/mobius"
   },
   {
@@ -115,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T06:19:48Z",
     "url": "https://github.com/EpsteinF1les/tts"
-  },
-  {
-    "description": "Monitor your local AI agents. See what files they can reach, what networks they communicate with, and stop them if requi",
-    "id": "farikonsec/topgent",
-    "language": "Rust",
-    "name": "farikonsec/topgent",
-    "stars": 0,
-    "updated_at": "2026-09-08T06:30:11Z",
-    "url": "https://github.com/farikonsec/topgent"
   },
   {
     "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
@@ -405,15 +423,6 @@
     "url": "https://github.com/hsaghir/looplet"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-08T05:33:23Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-08T04:47:12Z",
     "url": "https://github.com/yx2601816404-sys/will-agent-runtime"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-09-08T04:45:33Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   }
 ]
