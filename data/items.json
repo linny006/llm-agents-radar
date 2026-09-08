@@ -1,5 +1,32 @@
 [
   {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-08T19:14:16Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Control AI agents anywhere. (github mirror)",
+    "id": "justacalico/devinorium",
+    "language": "Dart",
+    "name": "justacalico/devinorium",
+    "stars": 1,
+    "updated_at": "2026-09-08T19:10:59Z",
+    "url": "https://github.com/justacalico/devinorium"
+  },
+  {
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 8,
+    "updated_at": "2026-09-08T19:06:15Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
     "description": "Adversarial Prover/Skeptic code-generation loop, verified by real sandboxed execution \u2014 not an LLM's opinion",
     "id": "asim-aa/breakpoint",
     "language": "Python",
@@ -41,17 +68,8 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-09-08T18:52:16Z",
+    "updated_at": "2026-09-08T19:04:18Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-08T18:48:06Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -59,7 +77,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-08T18:37:39Z",
+    "updated_at": "2026-09-08T19:06:52Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -230,7 +248,7 @@
     "language": "Python",
     "name": "feder-cr/AIHawk",
     "stars": 30323,
-    "updated_at": "2026-09-08T17:25:07Z",
+    "updated_at": "2026-09-08T19:15:51Z",
     "url": "https://github.com/feder-cr/AIHawk"
   },
   {
@@ -259,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-09-08T17:18:27Z",
     "url": "https://github.com/PCODE-pl/MCPTap"
-  },
-  {
-    "description": "Control AI agents anywhere. (github mirror)",
-    "id": "justacalico/devinorium",
-    "language": "Dart",
-    "name": "justacalico/devinorium",
-    "stars": 1,
-    "updated_at": "2026-09-08T17:11:37Z",
-    "url": "https://github.com/justacalico/devinorium"
   },
   {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
@@ -437,16 +446,7 @@
     "language": "Swift",
     "name": "gerardogrisolini/ZenCODE",
     "stars": 5,
-    "updated_at": "2026-09-08T15:35:22Z",
+    "updated_at": "2026-09-08T19:05:50Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 16,
-    "updated_at": "2026-09-08T14:53:04Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
   }
 ]
