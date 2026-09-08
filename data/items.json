@@ -1,5 +1,23 @@
 [
   {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 8,
+    "updated_at": "2026-09-08T15:22:32Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Provider-neutral agentic harness for playing Hearts of Iron IV with an LLM: clock-owning turn loop, reflex/planner split",
+    "id": "Xocas12/hoi4-agent-harness",
+    "language": "Python",
+    "name": "Xocas12/hoi4-agent-harness",
+    "stars": 0,
+    "updated_at": "2026-09-08T15:13:45Z",
+    "url": "https://github.com/Xocas12/hoi4-agent-harness"
+  },
+  {
     "description": "A grumpy Gibson construct living in an office router. It only knows what the router can see.",
     "id": "YuriKovalov22/the-finn",
     "language": "Lua",
@@ -31,8 +49,8 @@
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 414,
-    "updated_at": "2026-09-08T15:03:15Z",
+    "stars": 415,
+    "updated_at": "2026-09-08T15:26:46Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -43,15 +61,6 @@
     "stars": 8,
     "updated_at": "2026-09-08T15:03:11Z",
     "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "Provider-neutral agentic harness for playing Hearts of Iron IV with an LLM: clock-owning turn loop, reflex/planner split",
-    "id": "Xocas12/hoi4-agent-harness",
-    "language": "Python",
-    "name": "Xocas12/hoi4-agent-harness",
-    "stars": 0,
-    "updated_at": "2026-09-08T15:13:45Z",
-    "url": "https://github.com/Xocas12/hoi4-agent-harness"
   },
   {
     "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
@@ -86,7 +95,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-09-08T15:03:47Z",
+    "updated_at": "2026-09-08T15:30:20Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -241,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-09-08T14:13:58Z",
     "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 8,
-    "updated_at": "2026-09-08T15:10:34Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "SRE Agent - CNCF Sandbox Project",
