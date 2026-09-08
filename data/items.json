@@ -5,8 +5,53 @@
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 8,
-    "updated_at": "2026-09-08T10:13:23Z",
+    "updated_at": "2026-09-08T10:25:52Z",
     "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
+    "id": "sky-valley/pi",
+    "language": "Go",
+    "name": "sky-valley/pi",
+    "stars": 48,
+    "updated_at": "2026-09-08T10:24:48Z",
+    "url": "https://github.com/sky-valley/pi"
+  },
+  {
+    "description": "Policy-driven autopilot for Dependabot PRs and patch releases, with Slack/Discord/Matrix digests",
+    "id": "no42-org/twiki",
+    "language": "TypeScript",
+    "name": "no42-org/twiki",
+    "stars": 0,
+    "updated_at": "2026-09-08T10:23:30Z",
+    "url": "https://github.com/no42-org/twiki"
+  },
+  {
+    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
+    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "language": "Python",
+    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "stars": 1,
+    "updated_at": "2026-09-08T10:22:43Z",
+    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 16,
+    "updated_at": "2026-09-08T10:15:26Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 475,
+    "updated_at": "2026-09-08T10:15:14Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
   },
   {
     "description": "\u4e0d\u6c42\u4eba Insider Compass: turn insider knowledge (price markups, jargon, sales scripts, process black boxes) that traditional",
@@ -45,15 +90,6 @@
     "url": "https://github.com/karvidsson/kbots"
   },
   {
-    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 475,
-    "updated_at": "2026-09-08T10:15:14Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
-  },
-  {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
     "id": "zhixuli0406/DuDuClaw",
     "language": "Rust",
@@ -70,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T09:57:44Z",
     "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 16,
-    "updated_at": "2026-09-08T10:15:26Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
     "description": "\u4ece\u96f6\u5b9e\u73b0 AI \u6838\u5fc3\u7ec4\u4ef6\uff08mini-* \u7cfb\u5217\uff09\uff1aTransformer / Qwen3 / BPE / Agent / RAG / Vector DB\u3002Rebuild AI building blocks from scratch.",
@@ -306,15 +333,6 @@
     "url": "https://github.com/KaletoAI/anima-verse"
   },
   {
-    "description": "Policy-driven autopilot for Dependabot PRs and patch releases, with Slack/Discord/Matrix digests",
-    "id": "no42-org/twiki",
-    "language": "TypeScript",
-    "name": "no42-org/twiki",
-    "stars": 0,
-    "updated_at": "2026-09-08T08:46:50Z",
-    "url": "https://github.com/no42-org/twiki"
-  },
-  {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
     "id": "Cyrax321/CONTINUUM",
     "language": "Python",
@@ -392,7 +410,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4411,
-    "updated_at": "2026-09-08T09:35:45Z",
+    "updated_at": "2026-09-08T10:29:12Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-08T07:47:25Z",
     "url": "https://github.com/chunleik/self-analyst"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-09-08T07:42:01Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Time-sensitive Q&A agent that plans its own RSSHub routes to reach source sites, retries or falls back on failure, and s",
-    "id": "Nexknit/RssHarnessForPython",
-    "language": "Python",
-    "name": "Nexknit/RssHarnessForPython",
-    "stars": 0,
-    "updated_at": "2026-09-08T07:23:35Z",
-    "url": "https://github.com/Nexknit/RssHarnessForPython"
   }
 ]
