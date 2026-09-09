@@ -1,5 +1,14 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-09T22:45:19Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "A Python engine and in-process arena for running, replaying, and analyzing 6 nimmt! games with deterministic bots and LL",
     "id": "denisakkavim/sixnimmt",
     "language": "Python",
@@ -196,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-09-09T21:30:50Z",
     "url": "https://github.com/Lean-Prover/lean-prover"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-09T22:38:08Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",

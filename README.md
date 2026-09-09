@@ -42,29 +42,29 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [denisakkavim/sixnimmt](https://github.com/denisakkavim/sixnimmt) | 0 | Python | 2026-09-09 | A Python engine and in-process arena for running, replaying, and analyzing 6 nimmt! games with deterministic bots and LL |
-| 2 | [aviskaar/zorp](https://github.com/aviskaar/zorp) | 3 | Rust | 2026-09-09 | A research agent for scientific discovery — part of Aviskaar's applied AI research suite. |
-| 3 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-09-09 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 4 | [christianOrona/wtfault-scanner](https://github.com/christianOrona/wtfault-scanner) | 1 | Rust | 2026-09-09 | An agentic OBD-II scanner that never makes anything up. Bring your own model, read every module on the bus, and click an |
-| 5 | [genaforvena/lte-workstation](https://github.com/genaforvena/lte-workstation) | 8 | Shell | 2026-09-09 | An autopoiesic kefir for computing machines |
-| 6 | [yilewang/llm-for-zotero](https://github.com/yilewang/llm-for-zotero) | 2925 | TypeScript | 2026-09-09 | An open-sourced research agent system deeply rooted in your Zotero library. |
-| 7 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-09-09 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 8 | [lost-rob0t/starintel-gpt-auto-dig](https://github.com/lost-rob0t/starintel-gpt-auto-dig) | 1 | Python | 2026-09-09 | GPT autonomous research and investigation using starintel |
-| 9 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 5 | Swift | 2026-09-09 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
-| 10 | [Mooncore-inc/demon-cry](https://github.com/Mooncore-inc/demon-cry) | 2 | Python | 2026-09-09 | Demon Cry core - AI-powered OSINT engine |
-| 11 | [eobi/nemesisforge](https://github.com/eobi/nemesisforge) | 2 | Python | 2026-09-09 | Autonomous vulnerability discovery engine. An LLM fleet proposes; eight deterministic oracles prove. Findings are report |
-| 12 | [BlockRunAI/Franklin](https://github.com/BlockRunAI/Franklin) | 554 | TypeScript | 2026-09-09 | The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript. |
-| 13 | [Calmingstorm/Odin](https://github.com/Calmingstorm/Odin) | 3 | Python | 2026-09-09 | Autonomous execution agent on Discord — 74 tools, shell access, browser automation, scheduled tasks, sub-agents, knowled |
-| 14 | [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) | 30334 | Python | 2026-09-09 | Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M |
-| 15 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 3254 | Python | 2026-09-09 | SRE Agent - CNCF Sandbox Project |
-| 16 | [555cute/r20-quantum-trader](https://github.com/555cute/r20-quantum-trader) | 167 | Python | 2026-09-09 | ⚡ LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI  |
-| 17 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-09-09 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
-| 18 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 126 | HTML | 2026-09-09 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 19 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 3 | HTML | 2026-09-09 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 20 | [emqnuele/projectBEA](https://github.com/emqnuele/projectBEA) | 14 | Python | 2026-09-09 | ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses |
-| 21 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 7185 | Python | 2026-09-09 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
-| 22 | [Lean-Prover/lean-prover](https://github.com/Lean-Prover/lean-prover) | 1 | Python | 2026-09-09 | An autonomous Lean 4 theorem-proving agent: LLM-drafted proofs iteratively repaired against lake compiler diagnostics wi |
-| 23 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 10 | Python | 2026-09-09 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 1 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 10 | Python | 2026-09-09 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 2 | [denisakkavim/sixnimmt](https://github.com/denisakkavim/sixnimmt) | 0 | Python | 2026-09-09 | A Python engine and in-process arena for running, replaying, and analyzing 6 nimmt! games with deterministic bots and LL |
+| 3 | [aviskaar/zorp](https://github.com/aviskaar/zorp) | 3 | Rust | 2026-09-09 | A research agent for scientific discovery — part of Aviskaar's applied AI research suite. |
+| 4 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-09-09 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 5 | [christianOrona/wtfault-scanner](https://github.com/christianOrona/wtfault-scanner) | 1 | Rust | 2026-09-09 | An agentic OBD-II scanner that never makes anything up. Bring your own model, read every module on the bus, and click an |
+| 6 | [genaforvena/lte-workstation](https://github.com/genaforvena/lte-workstation) | 8 | Shell | 2026-09-09 | An autopoiesic kefir for computing machines |
+| 7 | [yilewang/llm-for-zotero](https://github.com/yilewang/llm-for-zotero) | 2925 | TypeScript | 2026-09-09 | An open-sourced research agent system deeply rooted in your Zotero library. |
+| 8 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-09-09 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 9 | [lost-rob0t/starintel-gpt-auto-dig](https://github.com/lost-rob0t/starintel-gpt-auto-dig) | 1 | Python | 2026-09-09 | GPT autonomous research and investigation using starintel |
+| 10 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 5 | Swift | 2026-09-09 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
+| 11 | [Mooncore-inc/demon-cry](https://github.com/Mooncore-inc/demon-cry) | 2 | Python | 2026-09-09 | Demon Cry core - AI-powered OSINT engine |
+| 12 | [eobi/nemesisforge](https://github.com/eobi/nemesisforge) | 2 | Python | 2026-09-09 | Autonomous vulnerability discovery engine. An LLM fleet proposes; eight deterministic oracles prove. Findings are report |
+| 13 | [BlockRunAI/Franklin](https://github.com/BlockRunAI/Franklin) | 554 | TypeScript | 2026-09-09 | The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript. |
+| 14 | [Calmingstorm/Odin](https://github.com/Calmingstorm/Odin) | 3 | Python | 2026-09-09 | Autonomous execution agent on Discord — 74 tools, shell access, browser automation, scheduled tasks, sub-agents, knowled |
+| 15 | [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) | 30334 | Python | 2026-09-09 | Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M |
+| 16 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 3254 | Python | 2026-09-09 | SRE Agent - CNCF Sandbox Project |
+| 17 | [555cute/r20-quantum-trader](https://github.com/555cute/r20-quantum-trader) | 167 | Python | 2026-09-09 | ⚡ LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI  |
+| 18 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-09-09 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
+| 19 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 126 | HTML | 2026-09-09 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 20 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 3 | HTML | 2026-09-09 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 21 | [emqnuele/projectBEA](https://github.com/emqnuele/projectBEA) | 14 | Python | 2026-09-09 | ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses |
+| 22 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 7185 | Python | 2026-09-09 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 23 | [Lean-Prover/lean-prover](https://github.com/Lean-Prover/lean-prover) | 1 | Python | 2026-09-09 | An autonomous Lean 4 theorem-proving agent: LLM-drafted proofs iteratively repaired against lake compiler diagnostics wi |
 | 24 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-09-09 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
 | 25 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 644 | JavaScript | 2026-09-09 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
 | 26 | [OpenMMO-Agent-UI/openmmo-agent-ui](https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui) | 0 | JavaScript | 2026-09-09 | A desktop client for playing OpenMMO manually or with an LLM at the controls. |
