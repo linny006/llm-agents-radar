@@ -1,5 +1,59 @@
 [
   {
+    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 485,
+    "updated_at": "2026-09-09T03:29:18Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-09-09T03:28:20Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Assessment-driven, local-first learning agent built on an observable Agent Runtime and eval harness\u2014grounded ingestion, ",
+    "id": "Hyr1sky/TheGrandQuiz",
+    "language": "Python",
+    "name": "Hyr1sky/TheGrandQuiz",
+    "stars": 33,
+    "updated_at": "2026-09-09T03:25:37Z",
+    "url": "https://github.com/Hyr1sky/TheGrandQuiz"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 1,
+    "updated_at": "2026-09-09T03:29:20Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "An open-sourced research agent system deeply rooted in your Zotero library.",
+    "id": "yilewang/llm-for-zotero",
+    "language": "TypeScript",
+    "name": "yilewang/llm-for-zotero",
+    "stars": 2913,
+    "updated_at": "2026-09-09T03:24:54Z",
+    "url": "https://github.com/yilewang/llm-for-zotero"
+  },
+  {
+    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
+    "id": "Heliotrope-dev/finance-agent",
+    "language": "Python",
+    "name": "Heliotrope-dev/finance-agent",
+    "stars": 2,
+    "updated_at": "2026-09-09T03:16:55Z",
+    "url": "https://github.com/Heliotrope-dev/finance-agent"
+  },
+  {
     "description": "An autopoiesic kefir for computing machines",
     "id": "genaforvena/lte-workstation",
     "language": "Shell",
@@ -59,7 +113,7 @@
     "language": "Dart",
     "name": "justacalico/devinorium",
     "stars": 1,
-    "updated_at": "2026-09-09T03:13:24Z",
+    "updated_at": "2026-09-09T03:26:02Z",
     "url": "https://github.com/justacalico/devinorium"
   },
   {
@@ -76,18 +130,9 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 31138,
+    "stars": 31141,
     "updated_at": "2026-09-09T03:10:33Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
-    "id": "Heliotrope-dev/finance-agent",
-    "language": "Python",
-    "name": "Heliotrope-dev/finance-agent",
-    "stars": 2,
-    "updated_at": "2026-09-09T03:10:15Z",
-    "url": "https://github.com/Heliotrope-dev/finance-agent"
   },
   {
     "description": "Docker deployment toolkit for deepseek-harness: containerize the agent framework behind an Nginx TLS gateway, with per-u",
@@ -142,15 +187,6 @@
     "stars": 30326,
     "updated_at": "2026-09-09T02:58:31Z",
     "url": "https://github.com/feder-cr/AIHawk"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 1,
-    "updated_at": "2026-09-09T03:15:12Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
     "description": "[WWW '25 Oral - GenMentor] Official code of our paper \"LLM-powered Multi-agent Framework for Goal-oriented Learning in I",
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-08T23:58:04Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 16,
-    "updated_at": "2026-09-09T00:10:07Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-09-09T02:56:19Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-09-08T23:40:15Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
-    "id": "yo4e/sudachi-life",
-    "language": "Python",
-    "name": "yo4e/sudachi-life",
-    "stars": 0,
-    "updated_at": "2026-09-08T23:34:46Z",
-    "url": "https://github.com/yo4e/sudachi-life"
   }
 ]
