@@ -1,19 +1,136 @@
 [
   {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-09T03:14:42Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Spec-driven doc assembly pipeline: section drafts, per-section validation, targeted backtrack (LangGraph optional, built",
+    "id": "makefeier/doc-pipeline",
+    "language": "Python",
+    "name": "makefeier/doc-pipeline",
+    "stars": 0,
+    "updated_at": "2026-09-09T03:14:39Z",
+    "url": "https://github.com/makefeier/doc-pipeline"
+  },
+  {
+    "description": "Value Lens: assess the real value of anything (people, deals, things) across a 7-layer value stack; price != value. Open",
+    "id": "makefeier/value-lens",
+    "language": "Python",
+    "name": "makefeier/value-lens",
+    "stars": 0,
+    "updated_at": "2026-09-09T03:13:56Z",
+    "url": "https://github.com/makefeier/value-lens"
+  },
+  {
+    "description": "Jargon Buster: turn insider jargon, sales scripts and bureaucratic language into plain talk - with risk grading and foll",
+    "id": "makefeier/jargon-buster",
+    "language": "Python",
+    "name": "makefeier/jargon-buster",
+    "stars": 0,
+    "updated_at": "2026-09-09T03:13:51Z",
+    "url": "https://github.com/makefeier/jargon-buster"
+  },
+  {
+    "description": "\u4e0d\u6c42\u4eba Insider Compass: turn insider knowledge (price markups, jargon, sales scripts, process black boxes) that traditional",
+    "id": "makefeier/insider-compass",
+    "language": "\u2014",
+    "name": "makefeier/insider-compass",
+    "stars": 1,
+    "updated_at": "2026-09-09T03:13:48Z",
+    "url": "https://github.com/makefeier/insider-compass"
+  },
+  {
+    "description": "Interview-driven smartphone buying advisor skill for OpenSquilla: dynamic vetoes, old-device value audit, downgrade chec",
+    "id": "makefeier/phone-buying-guide",
+    "language": "\u2014",
+    "name": "makefeier/phone-buying-guide",
+    "stars": 1,
+    "updated_at": "2026-09-09T03:13:44Z",
+    "url": "https://github.com/makefeier/phone-buying-guide"
+  },
+  {
+    "description": "Control AI agents anywhere. (github mirror)",
+    "id": "justacalico/devinorium",
+    "language": "Dart",
+    "name": "justacalico/devinorium",
+    "stars": 1,
+    "updated_at": "2026-09-09T03:13:24Z",
+    "url": "https://github.com/justacalico/devinorium"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 16,
+    "updated_at": "2026-09-09T03:12:55Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
     "stars": 31138,
-    "updated_at": "2026-09-09T03:00:00Z",
+    "updated_at": "2026-09-09T03:10:33Z",
     "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
+    "id": "Heliotrope-dev/finance-agent",
+    "language": "Python",
+    "name": "Heliotrope-dev/finance-agent",
+    "stars": 2,
+    "updated_at": "2026-09-09T03:10:15Z",
+    "url": "https://github.com/Heliotrope-dev/finance-agent"
+  },
+  {
+    "description": "Docker deployment toolkit for deepseek-harness: containerize the agent framework behind an Nginx TLS gateway, with per-u",
+    "id": "SRxing151/deepseek-harness-deploy",
+    "language": "Shell",
+    "name": "SRxing151/deepseek-harness-deploy",
+    "stars": 0,
+    "updated_at": "2026-09-09T03:08:45Z",
+    "url": "https://github.com/SRxing151/deepseek-harness-deploy"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 129,
+    "updated_at": "2026-09-09T03:07:35Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "A persistent agent runtime and its official CLI. Three packages: @echo-agent/core (runtime/SDK, zero runtime dependencie",
+    "id": "echo-yiyi/echo-agent",
+    "language": "TypeScript",
+    "name": "echo-yiyi/echo-agent",
+    "stars": 2,
+    "updated_at": "2026-09-09T03:07:07Z",
+    "url": "https://github.com/echo-yiyi/echo-agent"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-09-09T03:03:18Z",
+    "url": "https://github.com/JSL107/personal_agents"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7180,
+    "stars": 7181,
     "updated_at": "2026-09-09T02:58:44Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -22,7 +139,7 @@
     "id": "feder-cr/AIHawk",
     "language": "Python",
     "name": "feder-cr/AIHawk",
-    "stars": 30325,
+    "stars": 30326,
     "updated_at": "2026-09-09T02:58:31Z",
     "url": "https://github.com/feder-cr/AIHawk"
   },
@@ -32,17 +149,8 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-09-09T02:55:44Z",
+    "updated_at": "2026-09-09T03:15:12Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-09-09T02:59:03Z",
-    "url": "https://github.com/JSL107/personal_agents"
   },
   {
     "description": "[WWW '25 Oral - GenMentor] Official code of our paper \"LLM-powered Multi-agent Framework for Goal-oriented Learning in I",
@@ -52,42 +160,6 @@
     "stars": 86,
     "updated_at": "2026-09-09T02:52:20Z",
     "url": "https://github.com/GeminiLight/gen-mentor"
-  },
-  {
-    "description": "Value Lens: assess the real value of anything (people, deals, things) across a 7-layer value stack; price != value. Open",
-    "id": "makefeier/value-lens",
-    "language": "Python",
-    "name": "makefeier/value-lens",
-    "stars": 0,
-    "updated_at": "2026-09-09T02:52:12Z",
-    "url": "https://github.com/makefeier/value-lens"
-  },
-  {
-    "description": "Jargon Buster: turn insider jargon, sales scripts and bureaucratic language into plain talk - with risk grading and foll",
-    "id": "makefeier/jargon-buster",
-    "language": "Python",
-    "name": "makefeier/jargon-buster",
-    "stars": 0,
-    "updated_at": "2026-09-09T02:52:11Z",
-    "url": "https://github.com/makefeier/jargon-buster"
-  },
-  {
-    "description": "\u4e0d\u6c42\u4eba Insider Compass: turn insider knowledge (price markups, jargon, sales scripts, process black boxes) that traditional",
-    "id": "makefeier/insider-compass",
-    "language": "\u2014",
-    "name": "makefeier/insider-compass",
-    "stars": 1,
-    "updated_at": "2026-09-09T02:52:10Z",
-    "url": "https://github.com/makefeier/insider-compass"
-  },
-  {
-    "description": "Interview-driven smartphone buying advisor skill for OpenSquilla: dynamic vetoes, old-device value audit, downgrade chec",
-    "id": "makefeier/phone-buying-guide",
-    "language": "\u2014",
-    "name": "makefeier/phone-buying-guide",
-    "stars": 1,
-    "updated_at": "2026-09-09T02:52:08Z",
-    "url": "https://github.com/makefeier/phone-buying-guide"
   },
   {
     "description": "An AI Agent for everyday SWE with minimalist style",
@@ -108,39 +180,12 @@
     "url": "https://github.com/tk-fantasy/fantasy"
   },
   {
-    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
-    "id": "Heliotrope-dev/finance-agent",
-    "language": "Python",
-    "name": "Heliotrope-dev/finance-agent",
-    "stars": 2,
-    "updated_at": "2026-09-09T02:39:27Z",
-    "url": "https://github.com/Heliotrope-dev/finance-agent"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-09T02:33:21Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 16,
-    "updated_at": "2026-09-09T02:32:17Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4411,
-    "updated_at": "2026-09-09T02:27:56Z",
+    "updated_at": "2026-09-09T03:13:46Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -178,6 +223,15 @@
     "stars": 0,
     "updated_at": "2026-09-09T02:16:49Z",
     "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
+  },
+  {
+    "description": "Agent \u539f\u751f\u7684\u91cf\u5316\u7814\u7a76\u4e0e\u56de\u6d4b\u6846\u67b6 | The agent-native quant research & backtest framework for A-shares & futures",
+    "id": "samchuit/SolidRockQuant",
+    "language": "Python",
+    "name": "samchuit/SolidRockQuant",
+    "stars": 0,
+    "updated_at": "2026-09-09T02:16:24Z",
+    "url": "https://github.com/samchuit/SolidRockQuant"
   },
   {
     "description": "An in-process bridge giving an AI agent real access to a modded Minecraft world - including mod APIs a protocol-level bo",
@@ -250,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-09-09T01:45:06Z",
     "url": "https://github.com/emmmdty/zhiwei"
-  },
-  {
-    "description": "Control AI agents anywhere. (github mirror)",
-    "id": "justacalico/devinorium",
-    "language": "Dart",
-    "name": "justacalico/devinorium",
-    "stars": 1,
-    "updated_at": "2026-09-09T01:52:09Z",
-    "url": "https://github.com/justacalico/devinorium"
   },
   {
     "description": "An agentic workspace for exploring, analyzing, visualizing, and annotating EEG/iEEG signals. Includes a tool-using agent",
@@ -387,15 +432,6 @@
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 129,
-    "updated_at": "2026-09-08T23:49:44Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
     "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-08T23:34:46Z",
     "url": "https://github.com/yo4e/sudachi-life"
-  },
-  {
-    "description": "Autonomous SRE agent that detects, diagnoses, and self-heals production incidents - with a standalone watchdog that need",
-    "id": "Lethe044/hermes-incident-commander",
-    "language": "Python",
-    "name": "Lethe044/hermes-incident-commander",
-    "stars": 68,
-    "updated_at": "2026-09-08T23:35:35Z",
-    "url": "https://github.com/Lethe044/hermes-incident-commander"
-  },
-  {
-    "description": "PRD-to-Rust pipeline: a Claude Code skill + companion binary that ship code only when 7 digest-bound receipts agree",
-    "id": "j0yen/autobuilder",
-    "language": "Rust",
-    "name": "j0yen/autobuilder",
-    "stars": 0,
-    "updated_at": "2026-09-08T23:30:23Z",
-    "url": "https://github.com/j0yen/autobuilder"
-  },
-  {
-    "description": "\ud83d\udc27 is currently a work in progress... Stay tuned! ",
-    "id": "Maximooch/penguin",
-    "language": "Python",
-    "name": "Maximooch/penguin",
-    "stars": 6,
-    "updated_at": "2026-09-08T22:50:10Z",
-    "url": "https://github.com/Maximooch/penguin"
-  },
-  {
-    "description": "Cross-agent plugin for manually excluding and editing AI conversation context, with search, filtering, hide/restore, und",
-    "id": "jermaine123123/agent-context-editor",
-    "language": "TypeScript",
-    "name": "jermaine123123/agent-context-editor",
-    "stars": 57,
-    "updated_at": "2026-09-08T22:37:35Z",
-    "url": "https://github.com/jermaine123123/agent-context-editor"
   }
 ]
