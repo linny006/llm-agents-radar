@@ -1,5 +1,59 @@
 [
   {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 423,
+    "updated_at": "2026-09-09T09:59:58Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-09T09:57:43Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 1,
+    "updated_at": "2026-09-09T09:55:48Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-09-09T09:52:31Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Policy-driven autopilot for Dependabot PRs and patch releases, with Slack/Discord/Matrix digests",
+    "id": "no42-org/twiki",
+    "language": "TypeScript",
+    "name": "no42-org/twiki",
+    "stars": 0,
+    "updated_at": "2026-09-09T09:48:28Z",
+    "url": "https://github.com/no42-org/twiki"
+  },
+  {
+    "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
+    "id": "HKUDS/DeepCode",
+    "language": "Python",
+    "name": "HKUDS/DeepCode",
+    "stars": 16505,
+    "updated_at": "2026-09-09T09:47:08Z",
+    "url": "https://github.com/HKUDS/DeepCode"
+  },
+  {
     "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
     "id": "kangwoo/aimon-core",
     "language": "Java",
@@ -27,15 +81,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 1,
-    "updated_at": "2026-09-09T09:43:04Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
     "description": "An autopoiesic kefir for computing machines",
     "id": "genaforvena/lte-workstation",
     "language": "Shell",
@@ -43,15 +88,6 @@
     "stars": 8,
     "updated_at": "2026-09-09T09:33:10Z",
     "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-09T09:40:34Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
@@ -103,18 +139,9 @@
     "id": "agentpit-io/hunter-community",
     "language": "Python",
     "name": "agentpit-io/hunter-community",
-    "stars": 488,
+    "stars": 489,
     "updated_at": "2026-09-09T09:27:44Z",
     "url": "https://github.com/agentpit-io/hunter-community"
-  },
-  {
-    "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
-    "id": "HKUDS/DeepCode",
-    "language": "Python",
-    "name": "HKUDS/DeepCode",
-    "stars": 16505,
-    "updated_at": "2026-09-09T09:38:13Z",
-    "url": "https://github.com/HKUDS/DeepCode"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -142,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-09-09T09:07:49Z",
     "url": "https://github.com/OtakuNathan/Pal"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 423,
-    "updated_at": "2026-09-09T09:04:54Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "A tribute to the best software in the world.",
@@ -205,6 +223,15 @@
     "stars": 2,
     "updated_at": "2026-09-09T08:40:23Z",
     "url": "https://github.com/xianyongwen/TestDog"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 234,
+    "updated_at": "2026-09-09T08:39:33Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
     "description": "An LLM job-matching agent with a from-scratch tool loop \u2014 and an evaluation that scores its own retriever and its own at",
@@ -284,7 +311,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4411,
-    "updated_at": "2026-09-09T09:31:54Z",
+    "updated_at": "2026-09-09T09:58:27Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 29,
     "updated_at": "2026-09-09T06:02:00Z",
     "url": "https://github.com/NUS-Program-Verification/AutoRocq"
-  },
-  {
-    "description": "An AI agent that runs your job search \u2014 finds companies, scrapes their job boards, screens every role against your r\u00e9sum",
-    "id": "benjaminjkern/hank",
-    "language": "TypeScript",
-    "name": "benjaminjkern/hank",
-    "stars": 1,
-    "updated_at": "2026-09-09T05:55:36Z",
-    "url": "https://github.com/benjaminjkern/hank"
-  },
-  {
-    "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
-    "id": "nitinmms/LitosAiCodingAgent",
-    "language": "C#",
-    "name": "nitinmms/LitosAiCodingAgent",
-    "stars": 5,
-    "updated_at": "2026-09-09T05:53:08Z",
-    "url": "https://github.com/nitinmms/LitosAiCodingAgent"
-  },
-  {
-    "description": "Connect Claude Code, Cursor, and Codex to Workflow (workflow.games): your AI coding agent plans requirements, files bugs",
-    "id": "LumioGames/workflow-plugin",
-    "language": "JavaScript",
-    "name": "LumioGames/workflow-plugin",
-    "stars": 1,
-    "updated_at": "2026-09-09T05:52:28Z",
-    "url": "https://github.com/LumioGames/workflow-plugin"
   }
 ]
