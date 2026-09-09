@@ -1,5 +1,41 @@
 [
   {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 1,
+    "updated_at": "2026-09-09T00:13:47Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 32,
+    "updated_at": "2026-09-09T00:13:37Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
+    "id": "feder-cr/AIHawk",
+    "language": "Python",
+    "name": "feder-cr/AIHawk",
+    "stars": 30323,
+    "updated_at": "2026-09-09T00:08:56Z",
+    "url": "https://github.com/feder-cr/AIHawk"
+  },
+  {
+    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 6,
+    "updated_at": "2026-09-09T00:10:11Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -23,7 +59,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 16,
-    "updated_at": "2026-09-08T23:57:09Z",
+    "updated_at": "2026-09-09T00:10:07Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -36,15 +72,6 @@
     "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 32,
-    "updated_at": "2026-09-08T23:54:27Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -52,15 +79,6 @@
     "stars": 9,
     "updated_at": "2026-09-08T23:51:13Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 1,
-    "updated_at": "2026-09-08T23:54:22Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -122,7 +140,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4411,
-    "updated_at": "2026-09-08T23:10:37Z",
+    "updated_at": "2026-09-09T00:00:36Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -205,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T22:29:37Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
-    "id": "feder-cr/AIHawk",
-    "language": "Python",
-    "name": "feder-cr/AIHawk",
-    "stars": 30323,
-    "updated_at": "2026-09-08T22:29:37Z",
-    "url": "https://github.com/feder-cr/AIHawk"
   },
   {
     "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
@@ -347,7 +356,7 @@
     "language": "Python",
     "name": "mark-weeks/hello-nested-worlds-adventure",
     "stars": 5,
-    "updated_at": "2026-09-08T22:12:31Z",
+    "updated_at": "2026-09-09T00:06:00Z",
     "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-08T21:52:04Z",
     "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-09-08T21:49:15Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
   }
 ]
