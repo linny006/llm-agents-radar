@@ -1,21 +1,84 @@
 [
   {
-    "description": "DSV4 behavior-discrimination benchmark: 81 lightweight zero-dependency pytest grading tests (d10/d11/d12/t2/t3/t4/v4) fo",
-    "id": "orangeofcarl0-sys/dsv4-behavior-bench",
+    "description": "[WWW '25 Oral - GenMentor] Official code of our paper \"LLM-powered Multi-agent Framework for Goal-oriented Learning in I",
+    "id": "GeminiLight/gen-mentor",
+    "language": "TypeScript",
+    "name": "GeminiLight/gen-mentor",
+    "stars": 86,
+    "updated_at": "2026-09-09T07:12:52Z",
+    "url": "https://github.com/GeminiLight/gen-mentor"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-09-09T07:11:50Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
     "language": "Python",
-    "name": "orangeofcarl0-sys/dsv4-behavior-bench",
-    "stars": 2,
-    "updated_at": "2026-09-09T07:00:00Z",
-    "url": "https://github.com/orangeofcarl0-sys/dsv4-behavior-bench"
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 16,
+    "updated_at": "2026-09-09T07:08:53Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 6,
+    "updated_at": "2026-09-09T07:11:47Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 1,
+    "updated_at": "2026-09-09T07:05:55Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
     "description": "Autonomous Penetration Testing Agent Framework with External State Memory & Anti-False-Falsification Guardrails.",
     "id": "weidutech/PentestPi",
     "language": "Python",
     "name": "weidutech/PentestPi",
-    "stars": 2,
-    "updated_at": "2026-09-09T06:59:41Z",
+    "stars": 3,
+    "updated_at": "2026-09-09T07:04:39Z",
     "url": "https://github.com/weidutech/PentestPi"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-09T07:03:27Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "DSV4 behavior-discrimination benchmark: 81 lightweight zero-dependency pytest grading tests (d10/d11/d12/t2/t3/t4/v4) fo",
+    "id": "orangeofcarl0-sys/dsv4-behavior-bench",
+    "language": "Python",
+    "name": "orangeofcarl0-sys/dsv4-behavior-bench",
+    "stars": 2,
+    "updated_at": "2026-09-09T07:02:55Z",
+    "url": "https://github.com/orangeofcarl0-sys/dsv4-behavior-bench"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 163,
+    "updated_at": "2026-09-09T06:59:41Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
@@ -23,17 +86,8 @@
     "language": "Java",
     "name": "kangwoo/aimon-core",
     "stars": 0,
-    "updated_at": "2026-09-09T06:55:14Z",
+    "updated_at": "2026-09-09T07:03:46Z",
     "url": "https://github.com/kangwoo/aimon-core"
-  },
-  {
-    "description": "[WWW '25 Oral - GenMentor] Official code of our paper \"LLM-powered Multi-agent Framework for Goal-oriented Learning in I",
-    "id": "GeminiLight/gen-mentor",
-    "language": "TypeScript",
-    "name": "GeminiLight/gen-mentor",
-    "stars": 86,
-    "updated_at": "2026-09-09T06:53:33Z",
-    "url": "https://github.com/GeminiLight/gen-mentor"
   },
   {
     "description": "Keep agent CLIs running 7\u00d724 \u2014 supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure",
@@ -59,7 +113,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4411,
-    "updated_at": "2026-09-09T06:52:03Z",
+    "updated_at": "2026-09-09T07:06:16Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -95,17 +149,8 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-09T06:50:09Z",
+    "updated_at": "2026-09-09T07:05:20Z",
     "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 1,
-    "updated_at": "2026-09-09T06:56:02Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
     "description": "A progressive source-study tutorial of DeepSeek Harness (dsh): 17 chapters from a minimal agent-loop to multi-agent dele",
@@ -117,24 +162,6 @@
     "url": "https://github.com/ChenYu1991ppak/deepseek-harness-anatomy"
   },
   {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 163,
-    "updated_at": "2026-09-09T06:59:41Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-09T06:33:09Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
     "id": "zty522/partner",
     "language": "Python",
@@ -142,15 +169,6 @@
     "stars": 5,
     "updated_at": "2026-09-09T06:31:06Z",
     "url": "https://github.com/zty522/partner"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-09-09T06:10:06Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Unified LLM Platform that allows you to host your own models locally and access them from across the world",
@@ -230,7 +248,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 16,
-    "updated_at": "2026-09-09T05:43:03Z",
+    "updated_at": "2026-09-09T07:11:33Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -428,25 +446,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-09T06:28:43Z",
+    "updated_at": "2026-09-09T07:11:47Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-09-09T05:05:22Z",
-    "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-09-09T05:04:47Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
   }
 ]
