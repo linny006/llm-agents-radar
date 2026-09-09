@@ -1,12 +1,75 @@
 [
   {
+    "description": "Open-source AI coding agent for the terminal that works with several subscriptions in one session \u2014 your Claude Pro/Max,",
+    "id": "onembyte/kolkrabbi",
+    "language": "Go",
+    "name": "onembyte/kolkrabbi",
+    "stars": 1,
+    "updated_at": "2026-09-09T10:43:24Z",
+    "url": "https://github.com/onembyte/kolkrabbi"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 164,
+    "updated_at": "2026-09-09T10:42:42Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "\u5e76\u884c\u4ee3\u7801\u5ba1\u67e5 Agent\uff1aOrchestrator-Workers \u62d3\u6251\u7684\u591a\u4ee3\u7406\u7f16\u6392\uff0cReAct \u53cc\u89d2\u8272\u5171\u4eab\u5f15\u64ce\uff0c\u5e76\u884c/\u4e32\u884c A/B \u5bf9\u6bd4",
+    "id": "tianliuyun/parallel-code-reviewer",
+    "language": "Python",
+    "name": "tianliuyun/parallel-code-reviewer",
+    "stars": 0,
+    "updated_at": "2026-09-09T10:42:15Z",
+    "url": "https://github.com/tianliuyun/parallel-code-reviewer"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-09T10:41:07Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
+    "id": "sky-valley/pi",
+    "language": "Go",
+    "name": "sky-valley/pi",
+    "stars": 48,
+    "updated_at": "2026-09-09T10:39:13Z",
+    "url": "https://github.com/sky-valley/pi"
+  },
+  {
     "description": "GPT autonomous research and investigation using starintel",
     "id": "lost-rob0t/starintel-gpt-auto-dig",
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-09-09T10:29:38Z",
+    "updated_at": "2026-09-09T10:45:12Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-09-09T10:36:11Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 4,
+    "updated_at": "2026-09-09T10:31:44Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -32,7 +95,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4411,
-    "updated_at": "2026-09-09T10:23:42Z",
+    "updated_at": "2026-09-09T10:31:20Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -59,17 +122,8 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 423,
-    "updated_at": "2026-09-09T10:13:51Z",
+    "updated_at": "2026-09-09T10:31:43Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 163,
-    "updated_at": "2026-09-09T10:08:06Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -88,15 +142,6 @@
     "stars": 16,
     "updated_at": "2026-09-09T10:03:55Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-09T10:03:39Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -241,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-09-09T09:04:16Z",
     "url": "https://github.com/markdr-hue/open-fabrica"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 4,
-    "updated_at": "2026-09-09T08:41:24Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-09T06:51:12Z",
     "url": "https://github.com/wan9yu/cli-agent-runner"
-  },
-  {
-    "description": "A progressive source-study tutorial of DeepSeek Harness (dsh): 17 chapters from a minimal agent-loop to multi-agent dele",
-    "id": "ChenYu1991ppak/deepseek-harness-anatomy",
-    "language": "HTML",
-    "name": "ChenYu1991ppak/deepseek-harness-anatomy",
-    "stars": 1,
-    "updated_at": "2026-09-09T06:41:03Z",
-    "url": "https://github.com/ChenYu1991ppak/deepseek-harness-anatomy"
-  },
-  {
-    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
-    "id": "zty522/partner",
-    "language": "Python",
-    "name": "zty522/partner",
-    "stars": 5,
-    "updated_at": "2026-09-09T06:31:06Z",
-    "url": "https://github.com/zty522/partner"
-  },
-  {
-    "description": "Unified LLM Platform that allows you to host your own models locally and access them from across the world",
-    "id": "noahhps/Courier",
-    "language": "Python",
-    "name": "noahhps/Courier",
-    "stars": 0,
-    "updated_at": "2026-09-09T06:08:39Z",
-    "url": "https://github.com/noahhps/Courier"
-  },
-  {
-    "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
-    "id": "EvoMap/awesome-agent-evolution",
-    "language": "JavaScript",
-    "name": "EvoMap/awesome-agent-evolution",
-    "stars": 217,
-    "updated_at": "2026-09-09T06:03:48Z",
-    "url": "https://github.com/EvoMap/awesome-agent-evolution"
   }
 ]
