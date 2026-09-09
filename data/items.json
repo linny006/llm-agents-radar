@@ -1,11 +1,74 @@
 [
   {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-09T02:14:23Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-09-09T02:12:16Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-09-09T02:09:57Z",
+    "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
+    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
+    "id": "Heliotrope-dev/finance-agent",
+    "language": "Python",
+    "name": "Heliotrope-dev/finance-agent",
+    "stars": 2,
+    "updated_at": "2026-09-09T02:08:04Z",
+    "url": "https://github.com/Heliotrope-dev/finance-agent"
+  },
+  {
+    "description": "Executive Assistant Kit | Gig hunting & general coordination. \u603b\u7ecf\u7406\u52a9\u7406\u2014\u2014\u627e\u5355\u63a5\u6d3b\u5165\u53e3\u4e0e\u7efc\u5408\u4e8b\u52a1\u534f\u8c03\u3002",
+    "id": "xhqing/ExecutiveAssistantAgent",
+    "language": "\u2014",
+    "name": "xhqing/ExecutiveAssistantAgent",
+    "stars": 0,
+    "updated_at": "2026-09-09T02:07:14Z",
+    "url": "https://github.com/xhqing/ExecutiveAssistantAgent"
+  },
+  {
+    "description": "An AI agent that answers natural-language questions about Seattle civic data \u2014 it writes and runs its own SQL, calls a t",
+    "id": "CarlosRM25/analytics-AI-Agent-",
+    "language": "Jupyter Notebook",
+    "name": "CarlosRM25/analytics-AI-Agent-",
+    "stars": 0,
+    "updated_at": "2026-09-09T02:06:59Z",
+    "url": "https://github.com/CarlosRM25/analytics-AI-Agent-"
+  },
+  {
+    "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
+    "id": "OtakuNathan/Pal",
+    "language": "Python",
+    "name": "OtakuNathan/Pal",
+    "stars": 1,
+    "updated_at": "2026-09-09T02:06:06Z",
+    "url": "https://github.com/OtakuNathan/Pal"
+  },
+  {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
     "id": "JSL107/personal_agents",
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-09T01:58:25Z",
+    "updated_at": "2026-09-09T02:13:27Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-09-09T02:00:13Z",
+    "updated_at": "2026-09-09T02:09:17Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -43,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-09T01:44:35Z",
     "url": "https://github.com/noahhps/Courier"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-09T01:44:19Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Control AI agents anywhere. (github mirror)",
@@ -158,7 +212,7 @@
     "language": "Python",
     "name": "rekursiv-ai/sagent",
     "stars": 32,
-    "updated_at": "2026-09-09T00:15:36Z",
+    "updated_at": "2026-09-09T02:14:45Z",
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
@@ -250,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T23:30:23Z",
     "url": "https://github.com/j0yen/autobuilder"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-09-08T23:10:45Z",
-    "url": "https://github.com/g761007/daily-dispatch"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-08T22:17:54Z",
     "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-09-08T22:15:35Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-09-08T22:14:54Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-09-08T22:13:26Z",
-    "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-09-08T22:12:49Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
-    "id": "mark-weeks/hello-nested-worlds-adventure",
-    "language": "Python",
-    "name": "mark-weeks/hello-nested-worlds-adventure",
-    "stars": 5,
-    "updated_at": "2026-09-09T00:18:41Z",
-    "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
   }
 ]
