@@ -5,8 +5,98 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-09-09T21:14:35Z",
+    "updated_at": "2026-09-09T21:28:13Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-09-09T21:27:28Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 643,
+    "updated_at": "2026-09-09T21:25:57Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "An autonomous Lean 4 theorem-proving agent: LLM-drafted proofs iteratively repaired against lake compiler diagnostics wi",
+    "id": "Lean-Prover/lean-prover",
+    "language": "Python",
+    "name": "Lean-Prover/lean-prover",
+    "stars": 1,
+    "updated_at": "2026-09-09T21:20:41Z",
+    "url": "https://github.com/Lean-Prover/lean-prover"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-09T21:20:36Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 167,
+    "updated_at": "2026-09-09T21:19:20Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
+    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "language": "JavaScript",
+    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "stars": 0,
+    "updated_at": "2026-09-09T21:18:56Z",
+    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
+  },
+  {
+    "description": "\ud83d\udc27 is currently a work in progress... Stay tuned! ",
+    "id": "Maximooch/penguin",
+    "language": "Python",
+    "name": "Maximooch/penguin",
+    "stars": 6,
+    "updated_at": "2026-09-09T21:16:39Z",
+    "url": "https://github.com/Maximooch/penguin"
+  },
+  {
+    "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
+    "id": "SugarMGP/MumuBot",
+    "language": "Go",
+    "name": "SugarMGP/MumuBot",
+    "stars": 22,
+    "updated_at": "2026-09-09T21:15:58Z",
+    "url": "https://github.com/SugarMGP/MumuBot"
+  },
+  {
+    "description": "AI research workbench for observational cosmology that provably refuses to fabricate \u2014 every number traces to a register",
+    "id": "MikhailXiaomaikou/Standard-Astro",
+    "language": "Python",
+    "name": "MikhailXiaomaikou/Standard-Astro",
+    "stars": 4,
+    "updated_at": "2026-09-09T21:26:43Z",
+    "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
+  },
+  {
+    "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
+    "id": "emqnuele/projectBEA",
+    "language": "Python",
+    "name": "emqnuele/projectBEA",
+    "stars": 14,
+    "updated_at": "2026-09-09T21:26:57Z",
+    "url": "https://github.com/emqnuele/projectBEA"
   },
   {
     "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
@@ -23,7 +113,7 @@
     "language": "Dart",
     "name": "justacalico/devinorium",
     "stars": 1,
-    "updated_at": "2026-09-09T21:15:04Z",
+    "updated_at": "2026-09-09T21:23:45Z",
     "url": "https://github.com/justacalico/devinorium"
   },
   {
@@ -45,15 +135,6 @@
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 167,
-    "updated_at": "2026-09-09T21:15:07Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
-  },
-  {
     "description": "Adversarial Prover/Skeptic code-generation loop, verified by real sandboxed execution \u2014 not an LLM's opinion",
     "id": "asim-aa/breakpoint",
     "language": "Python",
@@ -61,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-09T21:03:13Z",
     "url": "https://github.com/asim-aa/breakpoint"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-09T20:58:31Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "SRE Agent - CNCF Sandbox Project",
@@ -124,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-09-09T20:32:10Z",
     "url": "https://github.com/hoshiyomiX/stellar-trails"
-  },
-  {
-    "description": "AI research workbench for observational cosmology that provably refuses to fabricate \u2014 every number traces to a register",
-    "id": "MikhailXiaomaikou/Standard-Astro",
-    "language": "Python",
-    "name": "MikhailXiaomaikou/Standard-Astro",
-    "stars": 4,
-    "updated_at": "2026-09-09T21:13:14Z",
-    "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -223,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-09-09T20:15:14Z",
     "url": "https://github.com/pruthviraj00007/VibeHarness"
-  },
-  {
-    "description": "An autonomous Lean 4 theorem-proving agent: LLM-drafted proofs iteratively repaired against lake compiler diagnostics wi",
-    "id": "Lean-Prover/lean-prover",
-    "language": "Python",
-    "name": "Lean-Prover/lean-prover",
-    "stars": 1,
-    "updated_at": "2026-09-09T20:14:05Z",
-    "url": "https://github.com/Lean-Prover/lean-prover"
   },
   {
     "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-09T19:52:05Z",
     "url": "https://github.com/hexed-AAL1X/A.L.I.C.E."
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
-    "id": "hasting323/AutoGLM-For-Android",
-    "language": "Kotlin",
-    "name": "hasting323/AutoGLM-For-Android",
-    "stars": 10,
-    "updated_at": "2026-09-09T19:51:24Z",
-    "url": "https://github.com/hasting323/AutoGLM-For-Android"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-09-09T19:50:01Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
-    "id": "Sigmanih/SigmaStudio",
-    "language": "Python",
-    "name": "Sigmanih/SigmaStudio",
-    "stars": 7,
-    "updated_at": "2026-09-09T19:48:35Z",
-    "url": "https://github.com/Sigmanih/SigmaStudio"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-09-09T19:48:19Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-09T19:47:06Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Demon Cry core - AI-powered OSINT engine",
-    "id": "Mooncore-inc/demon-cry",
-    "language": "Python",
-    "name": "Mooncore-inc/demon-cry",
-    "stars": 2,
-    "updated_at": "2026-09-09T20:19:23Z",
-    "url": "https://github.com/Mooncore-inc/demon-cry"
   }
 ]
