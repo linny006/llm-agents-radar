@@ -1,5 +1,23 @@
 [
   {
+    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
+    "id": "Rekin226/Agronaut",
+    "language": "Python",
+    "name": "Rekin226/Agronaut",
+    "stars": 4,
+    "updated_at": "2026-09-09T14:34:11Z",
+    "url": "https://github.com/Rekin226/Agronaut"
+  },
+  {
+    "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
+    "id": "hoshiyomiX/stellar-trails",
+    "language": "Shell",
+    "name": "hoshiyomiX/stellar-trails",
+    "stars": 0,
+    "updated_at": "2026-09-09T14:27:39Z",
+    "url": "https://github.com/hoshiyomiX/stellar-trails"
+  },
+  {
     "description": "Sort your Downloads by project, not file type \u2014 with one-command undo. No delete, ever.",
     "id": "verniceunleaded6135/tidy-undo",
     "language": "Python",
@@ -23,7 +41,7 @@
     "language": "Python",
     "name": "ravisinghrajput95/kubewhy",
     "stars": 0,
-    "updated_at": "2026-09-09T14:22:05Z",
+    "updated_at": "2026-09-09T14:39:15Z",
     "url": "https://github.com/ravisinghrajput95/kubewhy"
   },
   {
@@ -36,12 +54,21 @@
     "url": "https://github.com/Ottoman-reticule726/zara-ai-laptop-agent"
   },
   {
+    "description": "Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons.",
+    "id": "alejandrogg15/Minimax-H3-Turbo",
+    "language": "Python",
+    "name": "alejandrogg15/Minimax-H3-Turbo",
+    "stars": 0,
+    "updated_at": "2026-09-09T14:21:05Z",
+    "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
+  },
+  {
     "description": "GPT autonomous research and investigation using starintel",
     "id": "lost-rob0t/starintel-gpt-auto-dig",
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-09-09T14:33:13Z",
+    "updated_at": "2026-09-09T14:44:33Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -72,12 +99,30 @@
     "url": "https://github.com/222394/SkyPilot"
   },
   {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 3,
+    "updated_at": "2026-09-09T14:19:17Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Build open source deep research agents using multiple models, search tools, and MCP servers.",
+    "id": "randomvariablewhitepelican129/open_deep_research",
+    "language": "Python",
+    "name": "randomvariablewhitepelican129/open_deep_research",
+    "stars": 0,
+    "updated_at": "2026-09-09T14:19:11Z",
+    "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
+  },
+  {
     "description": "An autopoiesic kefir for computing machines",
     "id": "genaforvena/lte-workstation",
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 8,
-    "updated_at": "2026-09-09T14:18:09Z",
+    "updated_at": "2026-09-09T14:37:53Z",
     "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
@@ -216,21 +261,12 @@
     "url": "https://github.com/Tonyx79/clov-ai"
   },
   {
-    "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
-    "id": "hoshiyomiX/stellar-trails",
-    "language": "Shell",
-    "name": "hoshiyomiX/stellar-trails",
-    "stars": 0,
-    "updated_at": "2026-09-09T14:27:39Z",
-    "url": "https://github.com/hoshiyomiX/stellar-trails"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4411,
-    "updated_at": "2026-09-09T14:18:14Z",
+    "updated_at": "2026-09-09T14:42:58Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -329,7 +365,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 624,
-    "updated_at": "2026-09-09T14:28:48Z",
+    "updated_at": "2026-09-09T14:41:24Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -356,7 +392,7 @@
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
     "stars": 165,
-    "updated_at": "2026-09-09T13:43:45Z",
+    "updated_at": "2026-09-09T14:38:09Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
@@ -365,7 +401,7 @@
     "language": "Python",
     "name": "MikhailXiaomaikou/Standard-Astro",
     "stars": 4,
-    "updated_at": "2026-09-09T13:42:22Z",
+    "updated_at": "2026-09-09T14:35:18Z",
     "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 235,
     "updated_at": "2026-09-09T13:32:41Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "\u4ece\u96f6\u5b9e\u73b0 AI \u6838\u5fc3\u7ec4\u4ef6\uff08mini-* \u7cfb\u5217\uff09\uff1aTransformer / Qwen3 / BPE / Agent / RAG / Vector DB\u3002Rebuild AI building blocks from scratch.",
-    "id": "xbsheng/ai-from-scratch",
-    "language": "Python",
-    "name": "xbsheng/ai-from-scratch",
-    "stars": 1,
-    "updated_at": "2026-09-09T13:30:48Z",
-    "url": "https://github.com/xbsheng/ai-from-scratch"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 130,
-    "updated_at": "2026-09-09T13:24:03Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 4,
-    "updated_at": "2026-09-09T13:23:45Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 31206,
-    "updated_at": "2026-09-09T13:23:03Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
   }
 ]
