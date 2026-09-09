@@ -1,5 +1,23 @@
 [
   {
+    "description": "A Python engine and in-process arena for running, replaying, and analyzing 6 nimmt! games with deterministic bots and LL",
+    "id": "denisakkavim/sixnimmt",
+    "language": "Python",
+    "name": "denisakkavim/sixnimmt",
+    "stars": 0,
+    "updated_at": "2026-09-09T22:41:28Z",
+    "url": "https://github.com/denisakkavim/sixnimmt"
+  },
+  {
+    "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
+    "id": "aviskaar/zorp",
+    "language": "Rust",
+    "name": "aviskaar/zorp",
+    "stars": 3,
+    "updated_at": "2026-09-09T22:41:10Z",
+    "url": "https://github.com/aviskaar/zorp"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -14,7 +32,7 @@
     "language": "Rust",
     "name": "christianOrona/wtfault-scanner",
     "stars": 1,
-    "updated_at": "2026-09-09T22:20:46Z",
+    "updated_at": "2026-09-09T22:43:54Z",
     "url": "https://github.com/christianOrona/wtfault-scanner"
   },
   {
@@ -81,15 +99,6 @@
     "url": "https://github.com/eobi/nemesisforge"
   },
   {
-    "description": "A Python engine and in-process arena for running, replaying, and analyzing 6 nimmt! games with deterministic bots and LL",
-    "id": "denisakkavim/sixnimmt",
-    "language": "Python",
-    "name": "denisakkavim/sixnimmt",
-    "stars": 0,
-    "updated_at": "2026-09-09T22:03:34Z",
-    "url": "https://github.com/denisakkavim/sixnimmt"
-  },
-  {
     "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
     "id": "BlockRunAI/Franklin",
     "language": "TypeScript",
@@ -115,6 +124,15 @@
     "stars": 30334,
     "updated_at": "2026-09-09T21:48:14Z",
     "url": "https://github.com/feder-cr/AIHawk"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3254,
+    "updated_at": "2026-09-09T21:43:51Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
@@ -185,7 +203,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-09T22:29:12Z",
+    "updated_at": "2026-09-09T22:38:08Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -239,7 +257,7 @@
     "language": "Python",
     "name": "MikhailXiaomaikou/Standard-Astro",
     "stars": 4,
-    "updated_at": "2026-09-09T22:18:03Z",
+    "updated_at": "2026-09-09T22:42:58Z",
     "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
   },
   {
@@ -277,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-09-09T21:03:13Z",
     "url": "https://github.com/asim-aa/breakpoint"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3253,
-    "updated_at": "2026-09-09T21:43:51Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-09T20:10:02Z",
     "url": "https://github.com/Samuelcluttered613/paper2code"
-  },
-  {
-    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
-    "id": "Bastioned-successor320/learn-nanobot",
-    "language": "Python",
-    "name": "Bastioned-successor320/learn-nanobot",
-    "stars": 10,
-    "updated_at": "2026-09-09T20:09:49Z",
-    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
   }
 ]
