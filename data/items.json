@@ -5,8 +5,26 @@
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 8,
-    "updated_at": "2026-09-09T19:28:16Z",
+    "updated_at": "2026-09-09T19:44:54Z",
     "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-09T19:39:45Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 24,
+    "updated_at": "2026-09-09T19:35:33Z",
+    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Official Python SDK for FoxNose",
@@ -14,8 +32,17 @@
     "language": "Python",
     "name": "FoxNoseTech/foxnose-python",
     "stars": 5,
-    "updated_at": "2026-09-09T19:25:40Z",
+    "updated_at": "2026-09-09T19:35:20Z",
     "url": "https://github.com/FoxNoseTech/foxnose-python"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 167,
+    "updated_at": "2026-09-09T19:28:58Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
@@ -86,7 +113,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4411,
-    "updated_at": "2026-09-09T19:29:50Z",
+    "updated_at": "2026-09-09T19:33:19Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -104,7 +131,7 @@
     "language": "Python",
     "name": "Mooncore-inc/demon-cry",
     "stars": 2,
-    "updated_at": "2026-09-09T18:49:49Z",
+    "updated_at": "2026-09-09T19:42:20Z",
     "url": "https://github.com/Mooncore-inc/demon-cry"
   },
   {
@@ -115,15 +142,6 @@
     "stars": 8,
     "updated_at": "2026-09-09T18:45:08Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-09T19:27:39Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
@@ -140,7 +158,7 @@
     "language": "Python",
     "name": "Sigmanih/SigmaStudio",
     "stars": 7,
-    "updated_at": "2026-09-09T18:36:02Z",
+    "updated_at": "2026-09-09T19:42:25Z",
     "url": "https://github.com/Sigmanih/SigmaStudio"
   },
   {
@@ -160,15 +178,6 @@
     "stars": 639,
     "updated_at": "2026-09-09T18:31:51Z",
     "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-09T19:25:18Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de",
@@ -322,15 +331,6 @@
     "stars": 3,
     "updated_at": "2026-09-09T18:15:04Z",
     "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 167,
-    "updated_at": "2026-09-09T19:28:58Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
