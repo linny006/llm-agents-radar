@@ -1,5 +1,50 @@
 [
   {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 1,
+    "updated_at": "2026-09-09T10:29:38Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-09T10:27:23Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "TestDog is a desktop test case management tool: generate UI test scripts from natural language or manual recording, then",
+    "id": "xianyongwen/TestDog",
+    "language": "TypeScript",
+    "name": "xianyongwen/TestDog",
+    "stars": 2,
+    "updated_at": "2026-09-09T10:28:30Z",
+    "url": "https://github.com/xianyongwen/TestDog"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4411,
+    "updated_at": "2026-09-09T10:23:42Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Agent \u539f\u751f\u7684\u91cf\u5316\u7814\u7a76\u4e0e\u56de\u6d4b\u6846\u67b6 | The agent-native quant research & backtest framework for A-shares & futures",
+    "id": "samchuit/SolidRockQuant",
+    "language": "Python",
+    "name": "samchuit/SolidRockQuant",
+    "stars": 0,
+    "updated_at": "2026-09-09T10:14:57Z",
+    "url": "https://github.com/samchuit/SolidRockQuant"
+  },
+  {
     "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
     "id": "xhqing/DayTradingAgent",
     "language": "Python",
@@ -16,24 +61,6 @@
     "stars": 423,
     "updated_at": "2026-09-09T10:13:51Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 1,
-    "updated_at": "2026-09-09T10:15:08Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-09T10:13:52Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
@@ -113,7 +140,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5740,
-    "updated_at": "2026-09-09T09:42:48Z",
+    "updated_at": "2026-09-09T10:28:38Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -216,15 +243,6 @@
     "url": "https://github.com/markdr-hue/open-fabrica"
   },
   {
-    "description": "Agent \u539f\u751f\u7684\u91cf\u5316\u7814\u7a76\u4e0e\u56de\u6d4b\u6846\u67b6 | The agent-native quant research & backtest framework for A-shares & futures",
-    "id": "samchuit/SolidRockQuant",
-    "language": "Python",
-    "name": "samchuit/SolidRockQuant",
-    "stars": 0,
-    "updated_at": "2026-09-09T10:14:57Z",
-    "url": "https://github.com/samchuit/SolidRockQuant"
-  },
-  {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
     "id": "kangkukjin/indiebizOS",
     "language": "Python",
@@ -232,15 +250,6 @@
     "stars": 4,
     "updated_at": "2026-09-09T08:41:24Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "TestDog is a desktop test case management tool: generate UI test scripts from natural language or manual recording, then",
-    "id": "xianyongwen/TestDog",
-    "language": "TypeScript",
-    "name": "xianyongwen/TestDog",
-    "stars": 2,
-    "updated_at": "2026-09-09T08:40:23Z",
-    "url": "https://github.com/xianyongwen/TestDog"
   },
   {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
@@ -313,15 +322,6 @@
     "stars": 32,
     "updated_at": "2026-09-09T08:18:43Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4411,
-    "updated_at": "2026-09-09T10:03:04Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "A delivery-discipline behavior layer for AI agents \u2014 turns \u201cthe agent says it's done\u201d into \u201cthe agent proves it's done\u201d:",
