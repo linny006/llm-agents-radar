@@ -1,12 +1,30 @@
 [
   {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
     "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-09-09T11:12:51Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
+    "name": "555cute/r20-quantum-trader",
+    "stars": 164,
+    "updated_at": "2026-09-09T11:24:33Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-09-09T11:24:00Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4411,
+    "updated_at": "2026-09-09T11:28:04Z",
+    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "GPT autonomous research and investigation using starintel",
@@ -14,8 +32,35 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-09-09T11:10:35Z",
+    "updated_at": "2026-09-09T11:30:01Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "A grumpy Gibson construct living in an office router. It only knows what the router can see.",
+    "id": "YuriKovalov22/the-finn",
+    "language": "Lua",
+    "name": "YuriKovalov22/the-finn",
+    "stars": 27,
+    "updated_at": "2026-09-09T11:19:33Z",
+    "url": "https://github.com/YuriKovalov22/the-finn"
+  },
+  {
+    "description": "[WWW '25 Oral - GenMentor] Official code of our paper \"LLM-powered Multi-agent Framework for Goal-oriented Learning in I",
+    "id": "GeminiLight/gen-mentor",
+    "language": "TypeScript",
+    "name": "GeminiLight/gen-mentor",
+    "stars": 86,
+    "updated_at": "2026-09-09T11:16:11Z",
+    "url": "https://github.com/GeminiLight/gen-mentor"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-09-09T11:12:51Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
     "description": "An autopoiesic kefir for computing machines",
@@ -99,15 +144,6 @@
     "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 164,
-    "updated_at": "2026-09-09T10:42:42Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
-  },
-  {
     "description": "\u5e76\u884c\u4ee3\u7801\u5ba1\u67e5 Agent\uff1aOrchestrator-Workers \u62d3\u6251\u7684\u591a\u4ee3\u7406\u7f16\u6392\uff0cReAct \u53cc\u89d2\u8272\u5171\u4eab\u5f15\u64ce\uff0c\u5e76\u884c/\u4e32\u884c A/B \u5bf9\u6bd4",
     "id": "tianliuyun/parallel-code-reviewer",
     "language": "Python",
@@ -151,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-09-09T10:28:30Z",
     "url": "https://github.com/xianyongwen/TestDog"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4411,
-    "updated_at": "2026-09-09T11:13:50Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Agent \u539f\u751f\u7684\u91cf\u5316\u7814\u7a76\u4e0e\u56de\u6d4b\u6846\u67b6 | The agent-native quant research & backtest framework for A-shares & futures",
@@ -221,7 +248,7 @@
     "language": "Java",
     "name": "kangwoo/aimon-core",
     "stars": 0,
-    "updated_at": "2026-09-09T09:43:44Z",
+    "updated_at": "2026-09-09T11:18:51Z",
     "url": "https://github.com/kangwoo/aimon-core"
   },
   {
@@ -279,20 +306,11 @@
     "url": "https://github.com/xbsheng/ai-from-scratch"
   },
   {
-    "description": "[WWW '25 Oral - GenMentor] Official code of our paper \"LLM-powered Multi-agent Framework for Goal-oriented Learning in I",
-    "id": "GeminiLight/gen-mentor",
-    "language": "TypeScript",
-    "name": "GeminiLight/gen-mentor",
-    "stars": 86,
-    "updated_at": "2026-09-09T11:14:33Z",
-    "url": "https://github.com/GeminiLight/gen-mentor"
-  },
-  {
     "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
     "id": "agentpit-io/hunter-community",
     "language": "Python",
     "name": "agentpit-io/hunter-community",
-    "stars": 490,
+    "stars": 491,
     "updated_at": "2026-09-09T09:27:44Z",
     "url": "https://github.com/agentpit-io/hunter-community"
   },
@@ -302,7 +320,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 805,
-    "updated_at": "2026-09-09T11:11:37Z",
+    "updated_at": "2026-09-09T11:26:27Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 9,
     "updated_at": "2026-09-09T08:00:17Z",
     "url": "https://github.com/ZXTLQQ/FactorGPT"
-  },
-  {
-    "description": "Local coding agent with native Zhipu GLM / StepFun Step Coding-Plan support. Four hard gates \u2014 the agent can't claim don",
-    "id": "Lion-1209/coderio",
-    "language": "Python",
-    "name": "Lion-1209/coderio",
-    "stars": 9,
-    "updated_at": "2026-09-09T07:45:52Z",
-    "url": "https://github.com/Lion-1209/coderio"
-  },
-  {
-    "description": "DSV4 behavior-discrimination benchmark: 81 lightweight zero-dependency pytest grading tests (d10/d11/d12/t2/t3/t4/v4) fo",
-    "id": "orangeofcarl0-sys/dsv4-behavior-bench",
-    "language": "Python",
-    "name": "orangeofcarl0-sys/dsv4-behavior-bench",
-    "stars": 2,
-    "updated_at": "2026-09-09T07:39:11Z",
-    "url": "https://github.com/orangeofcarl0-sys/dsv4-behavior-bench"
   }
 ]
