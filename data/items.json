@@ -1,5 +1,68 @@
 [
   {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-09T04:44:44Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 3,
+    "updated_at": "2026-09-09T04:44:15Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-09-09T04:41:28Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 1,
+    "updated_at": "2026-09-09T04:42:22Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 16,
+    "updated_at": "2026-09-09T04:38:06Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "Adversarial Prover/Skeptic code-generation loop, verified by real sandboxed execution \u2014 not an LLM's opinion",
+    "id": "asim-aa/breakpoint",
+    "language": "Python",
+    "name": "asim-aa/breakpoint",
+    "stars": 0,
+    "updated_at": "2026-09-09T04:35:51Z",
+    "url": "https://github.com/asim-aa/breakpoint"
+  },
+  {
+    "description": "Open-source AI coding agent for the terminal that works with several subscriptions in one session \u2014 your Claude Pro/Max,",
+    "id": "onembyte/kolkrabbi",
+    "language": "Go",
+    "name": "onembyte/kolkrabbi",
+    "stars": 1,
+    "updated_at": "2026-09-09T04:34:05Z",
+    "url": "https://github.com/onembyte/kolkrabbi"
+  },
+  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -14,17 +77,8 @@
     "language": "Python",
     "name": "hsaghir/looplet",
     "stars": 6,
-    "updated_at": "2026-09-09T04:29:19Z",
+    "updated_at": "2026-09-09T04:45:20Z",
     "url": "https://github.com/hsaghir/looplet"
-  },
-  {
-    "description": "Open-source AI coding agent for the terminal that works with several subscriptions in one session \u2014 your Claude Pro/Max,",
-    "id": "onembyte/kolkrabbi",
-    "language": "Go",
-    "name": "onembyte/kolkrabbi",
-    "stars": 1,
-    "updated_at": "2026-09-09T04:29:02Z",
-    "url": "https://github.com/onembyte/kolkrabbi"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -41,24 +95,15 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4411,
-    "updated_at": "2026-09-09T04:27:46Z",
+    "updated_at": "2026-09-09T04:31:03Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 1,
-    "updated_at": "2026-09-09T04:30:14Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
     "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
-    "stars": 162,
+    "stars": 163,
     "updated_at": "2026-09-09T04:27:22Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
   },
@@ -113,7 +158,7 @@
     "language": "Dart",
     "name": "justacalico/devinorium",
     "stars": 1,
-    "updated_at": "2026-09-09T04:19:22Z",
+    "updated_at": "2026-09-09T04:33:08Z",
     "url": "https://github.com/justacalico/devinorium"
   },
   {
@@ -124,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-09-09T04:11:55Z",
     "url": "https://github.com/xhqing/DayTradingAgent"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 16,
-    "updated_at": "2026-09-09T04:09:37Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
     "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
@@ -162,21 +198,12 @@
     "url": "https://github.com/samchuit/SolidRockQuant"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-09T04:03:06Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
     "id": "JSL107/personal_agents",
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-09T04:27:04Z",
+    "updated_at": "2026-09-09T04:32:23Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -185,7 +212,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 28,
-    "updated_at": "2026-09-09T03:56:21Z",
+    "updated_at": "2026-09-09T04:42:04Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -229,7 +256,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 31145,
+    "stars": 31146,
     "updated_at": "2026-09-09T03:32:10Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -247,7 +274,7 @@
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
-    "stars": 2913,
+    "stars": 2914,
     "updated_at": "2026-09-09T03:24:54Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-09T02:07:14Z",
     "url": "https://github.com/xhqing/ExecutiveAssistantAgent"
-  },
-  {
-    "description": "An AI agent that answers natural-language questions about Seattle civic data \u2014 it writes and runs its own SQL, calls a t",
-    "id": "CarlosRM25/analytics-AI-Agent-",
-    "language": "Jupyter Notebook",
-    "name": "CarlosRM25/analytics-AI-Agent-",
-    "stars": 0,
-    "updated_at": "2026-09-09T04:16:43Z",
-    "url": "https://github.com/CarlosRM25/analytics-AI-Agent-"
-  },
-  {
-    "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
-    "id": "OtakuNathan/Pal",
-    "language": "Python",
-    "name": "OtakuNathan/Pal",
-    "stars": 1,
-    "updated_at": "2026-09-09T02:06:06Z",
-    "url": "https://github.com/OtakuNathan/Pal"
-  },
-  {
-    "description": "ZhiWei \u77e5\u5fae \u2014 Verifiable Enterprise Agent Core\uff1a\u628a\u77e5\u8bc6\u3001\u8bb0\u5fc6\u3001\u6a21\u578b\u3001\u5de5\u5177\u4e0e\u957f\u671f\u4efb\u52a1\u7f16\u6392\u6210\u53ef\u9a8c\u8bc1\u3001\u53ef\u6cbb\u7406\u7684 Agent Apps\uff08Ask / Discover / ChangeBrief\uff09\u3002\u591a\u79df\u6237\u7eb5\u6df1",
-    "id": "emmmdty/zhiwei",
-    "language": "Python",
-    "name": "emmmdty/zhiwei",
-    "stars": 0,
-    "updated_at": "2026-09-09T01:45:06Z",
-    "url": "https://github.com/emmmdty/zhiwei"
   }
 ]
