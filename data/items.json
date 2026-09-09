@@ -1,12 +1,75 @@
 [
   {
+    "description": "An AI agent that runs your job search \u2014 finds companies, scrapes their job boards, screens every role against your r\u00e9sum",
+    "id": "benjaminjkern/hank",
+    "language": "TypeScript",
+    "name": "benjaminjkern/hank",
+    "stars": 1,
+    "updated_at": "2026-09-09T05:55:36Z",
+    "url": "https://github.com/benjaminjkern/hank"
+  },
+  {
     "description": "GPT autonomous research and investigation using starintel",
     "id": "lost-rob0t/starintel-gpt-auto-dig",
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-09-09T05:44:32Z",
+    "updated_at": "2026-09-09T05:59:29Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
+    "id": "nitinmms/LitosAiCodingAgent",
+    "language": "C#",
+    "name": "nitinmms/LitosAiCodingAgent",
+    "stars": 5,
+    "updated_at": "2026-09-09T05:53:08Z",
+    "url": "https://github.com/nitinmms/LitosAiCodingAgent"
+  },
+  {
+    "description": "Connect Claude Code, Cursor, and Codex to Workflow (workflow.games): your AI coding agent plans requirements, files bugs",
+    "id": "LumioGames/workflow-plugin",
+    "language": "JavaScript",
+    "name": "LumioGames/workflow-plugin",
+    "stars": 1,
+    "updated_at": "2026-09-09T05:52:28Z",
+    "url": "https://github.com/LumioGames/workflow-plugin"
+  },
+  {
+    "description": "[WWW '25 Oral - GenMentor] Official code of our paper \"LLM-powered Multi-agent Framework for Goal-oriented Learning in I",
+    "id": "GeminiLight/gen-mentor",
+    "language": "TypeScript",
+    "name": "GeminiLight/gen-mentor",
+    "stars": 86,
+    "updated_at": "2026-09-09T05:51:44Z",
+    "url": "https://github.com/GeminiLight/gen-mentor"
+  },
+  {
+    "description": "An AI agent that answers natural-language questions about Seattle civic data \u2014 it writes and runs its own SQL, calls a t",
+    "id": "CarlosRM25/analytics-AI-Agent-",
+    "language": "Jupyter Notebook",
+    "name": "CarlosRM25/analytics-AI-Agent-",
+    "stars": 0,
+    "updated_at": "2026-09-09T05:50:13Z",
+    "url": "https://github.com/CarlosRM25/analytics-AI-Agent-"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-09-09T05:46:24Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-09T05:44:55Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
@@ -50,7 +113,7 @@
     "language": "Python",
     "name": "HKUDS/DeepCode",
     "stars": 16504,
-    "updated_at": "2026-09-09T05:36:10Z",
+    "updated_at": "2026-09-09T05:56:40Z",
     "url": "https://github.com/HKUDS/DeepCode"
   },
   {
@@ -59,17 +122,8 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-09T05:27:32Z",
+    "updated_at": "2026-09-09T05:52:26Z",
     "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
-    "description": "[WWW '25 Oral - GenMentor] Official code of our paper \"LLM-powered Multi-agent Framework for Goal-oriented Learning in I",
-    "id": "GeminiLight/gen-mentor",
-    "language": "TypeScript",
-    "name": "GeminiLight/gen-mentor",
-    "stars": 86,
-    "updated_at": "2026-09-09T05:26:56Z",
-    "url": "https://github.com/GeminiLight/gen-mentor"
   },
   {
     "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
@@ -189,15 +243,6 @@
     "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
   },
   {
-    "description": "Connect Claude Code, Cursor, and Codex to Workflow (workflow.games): your AI coding agent plans requirements, files bugs",
-    "id": "LumioGames/workflow-plugin",
-    "language": "JavaScript",
-    "name": "LumioGames/workflow-plugin",
-    "stars": 1,
-    "updated_at": "2026-09-09T05:13:40Z",
-    "url": "https://github.com/LumioGames/workflow-plugin"
-  },
-  {
     "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
     "id": "HELLOCODINGTR/AgentForge",
     "language": "\u2014",
@@ -238,7 +283,7 @@
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
-    "stars": 9,
+    "stars": 10,
     "updated_at": "2026-09-09T05:05:32Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
@@ -351,15 +396,6 @@
     "url": "https://github.com/Amri854/obsidian-mcp-server"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-09T05:44:55Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
     "id": "irandysousa/langgraph-llama-cpp-starter",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 126,
     "updated_at": "2026-09-09T04:30:02Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
-    "id": "hsaghir/looplet",
-    "language": "Python",
-    "name": "hsaghir/looplet",
-    "stars": 6,
-    "updated_at": "2026-09-09T04:45:20Z",
-    "url": "https://github.com/hsaghir/looplet"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 3,
-    "updated_at": "2026-09-09T04:28:53Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4411,
-    "updated_at": "2026-09-09T04:31:03Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 163,
-    "updated_at": "2026-09-09T04:27:22Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
   }
 ]
