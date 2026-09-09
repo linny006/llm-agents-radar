@@ -1,5 +1,41 @@
 [
   {
+    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
+    "id": "Torvian-eu/chatbot",
+    "language": "Kotlin",
+    "name": "Torvian-eu/chatbot",
+    "stars": 4,
+    "updated_at": "2026-09-09T01:13:11Z",
+    "url": "https://github.com/Torvian-eu/chatbot"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-09-09T01:05:20Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "Autonomous execution agent on Discord \u2014 74 tools, shell access, browser automation, scheduled tasks, sub-agents, knowled",
+    "id": "Calmingstorm/Odin",
+    "language": "Python",
+    "name": "Calmingstorm/Odin",
+    "stars": 3,
+    "updated_at": "2026-09-09T01:04:04Z",
+    "url": "https://github.com/Calmingstorm/Odin"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 1,
+    "updated_at": "2026-09-09T01:13:31Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -18,15 +54,6 @@
     "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 1,
-    "updated_at": "2026-09-09T00:57:58Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -34,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-09-09T00:38:32Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-09-09T00:53:41Z",
-    "url": "https://github.com/JSL107/personal_agents"
   },
   {
     "description": "Self-evolving autonomous loops for Claude Code. A Stop-hook engine that iterates an agent toward a verifiable goal \u2014 evo",
@@ -185,7 +203,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4411,
-    "updated_at": "2026-09-09T00:38:24Z",
+    "updated_at": "2026-09-09T01:11:26Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-08T22:03:49Z",
     "url": "https://github.com/amineeng/scraping-browser"
-  },
-  {
-    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
-    "id": "Saran1536/ComfyUI-LoaderUtils",
-    "language": "Python",
-    "name": "Saran1536/ComfyUI-LoaderUtils",
-    "stars": 0,
-    "updated_at": "2026-09-08T22:01:21Z",
-    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 1,
-    "updated_at": "2026-09-08T22:00:08Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
   }
 ]
