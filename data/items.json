@@ -1,21 +1,30 @@
 [
   {
+    "description": "Self-evolving autonomous loops for Claude Code. A Stop-hook engine that iterates an agent toward a verifiable goal \u2014 evo",
+    "id": "betmoar/cc-repete-plugin",
+    "language": "Shell",
+    "name": "betmoar/cc-repete-plugin",
+    "stars": 0,
+    "updated_at": "2026-09-09T00:29:29Z",
+    "url": "https://github.com/betmoar/cc-repete-plugin"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-09T00:29:05Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "GPT autonomous research and investigation using starintel",
     "id": "lost-rob0t/starintel-gpt-auto-dig",
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-09-09T00:13:47Z",
+    "updated_at": "2026-09-09T00:26:36Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 32,
-    "updated_at": "2026-09-09T00:13:37Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
@@ -23,8 +32,17 @@
     "language": "Python",
     "name": "feder-cr/AIHawk",
     "stars": 30323,
-    "updated_at": "2026-09-09T00:08:56Z",
+    "updated_at": "2026-09-09T00:22:09Z",
     "url": "https://github.com/feder-cr/AIHawk"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 32,
+    "updated_at": "2026-09-09T00:15:36Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
@@ -216,15 +234,6 @@
     "url": "https://github.com/Blondieredistributed612/pocket-agent"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-09-08T22:29:37Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
     "id": "bettersilvanus849/inner-coordinates",
     "language": "Shell",
@@ -356,7 +365,7 @@
     "language": "Python",
     "name": "mark-weeks/hello-nested-worlds-adventure",
     "stars": 5,
-    "updated_at": "2026-09-09T00:06:00Z",
+    "updated_at": "2026-09-09T00:18:41Z",
     "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-08T21:54:28Z",
     "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 3,
-    "updated_at": "2026-09-08T21:52:04Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
   }
 ]
