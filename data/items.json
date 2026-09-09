@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "emmmdty/zhiwei",
     "stars": 0,
-    "updated_at": "2026-09-09T01:26:25Z",
+    "updated_at": "2026-09-09T01:45:06Z",
     "url": "https://github.com/emmmdty/zhiwei"
+  },
+  {
+    "description": "Unified LLM Platform that allows you to host your own models locally and access them from across the world",
+    "id": "noahhps/Courier",
+    "language": "Python",
+    "name": "noahhps/Courier",
+    "stars": 0,
+    "updated_at": "2026-09-09T01:44:35Z",
+    "url": "https://github.com/noahhps/Courier"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-09T01:44:19Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 1,
+    "updated_at": "2026-09-09T01:45:11Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Control AI agents anywhere. (github mirror)",
+    "id": "justacalico/devinorium",
+    "language": "Dart",
+    "name": "justacalico/devinorium",
+    "stars": 1,
+    "updated_at": "2026-09-09T01:38:30Z",
+    "url": "https://github.com/justacalico/devinorium"
+  },
+  {
+    "description": "An agentic workspace for exploring, analyzing, visualizing, and annotating EEG/iEEG signals. Includes a tool-using agent",
+    "id": "akatsuky999/Waveform-EEG-AIStudio",
+    "language": "JavaScript",
+    "name": "akatsuky999/Waveform-EEG-AIStudio",
+    "stars": 11,
+    "updated_at": "2026-09-09T01:36:52Z",
+    "url": "https://github.com/akatsuky999/Waveform-EEG-AIStudio"
+  },
+  {
+    "description": "Cron scheduling for the DeepSeek Harness \u2014 bounded tasks with calendar & interval rules, delivered to live agents",
+    "id": "fan56/dsh-cron",
+    "language": "TypeScript",
+    "name": "fan56/dsh-cron",
+    "stars": 0,
+    "updated_at": "2026-09-09T01:30:19Z",
+    "url": "https://github.com/fan56/dsh-cron"
   },
   {
     "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "hsaghir/looplet",
     "stars": 6,
-    "updated_at": "2026-09-09T01:24:24Z",
+    "updated_at": "2026-09-09T01:45:11Z",
     "url": "https://github.com/hsaghir/looplet"
   },
   {
@@ -27,21 +81,12 @@
     "url": "https://github.com/NatanTechofNY/fieldnote-assistant"
   },
   {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 1,
-    "updated_at": "2026-09-09T01:27:39Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
     "id": "JSL107/personal_agents",
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-09T01:21:32Z",
+    "updated_at": "2026-09-09T01:31:04Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -70,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-09T00:58:03Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-09T00:53:44Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -412,41 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-09T00:18:41Z",
     "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-09-08T22:11:46Z",
-    "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Policy-driven autopilot for Dependabot PRs and patch releases, with Slack/Discord/Matrix digests",
-    "id": "no42-org/twiki",
-    "language": "TypeScript",
-    "name": "no42-org/twiki",
-    "stars": 0,
-    "updated_at": "2026-09-08T22:11:01Z",
-    "url": "https://github.com/no42-org/twiki"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-09-08T22:10:24Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
-    "id": "muhzars/Agent.cpp",
-    "language": "C++",
-    "name": "muhzars/Agent.cpp",
-    "stars": 1,
-    "updated_at": "2026-09-08T22:07:46Z",
-    "url": "https://github.com/muhzars/Agent.cpp"
   }
 ]
