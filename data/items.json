@@ -1,5 +1,104 @@
 [
   {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 31138,
+    "updated_at": "2026-09-09T03:00:00Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7180,
+    "updated_at": "2026-09-09T02:58:44Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
+    "id": "feder-cr/AIHawk",
+    "language": "Python",
+    "name": "feder-cr/AIHawk",
+    "stars": 30325,
+    "updated_at": "2026-09-09T02:58:31Z",
+    "url": "https://github.com/feder-cr/AIHawk"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 1,
+    "updated_at": "2026-09-09T02:55:44Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-09-09T02:59:03Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "[WWW '25 Oral - GenMentor] Official code of our paper \"LLM-powered Multi-agent Framework for Goal-oriented Learning in I",
+    "id": "GeminiLight/gen-mentor",
+    "language": "TypeScript",
+    "name": "GeminiLight/gen-mentor",
+    "stars": 86,
+    "updated_at": "2026-09-09T02:52:20Z",
+    "url": "https://github.com/GeminiLight/gen-mentor"
+  },
+  {
+    "description": "Value Lens: assess the real value of anything (people, deals, things) across a 7-layer value stack; price != value. Open",
+    "id": "makefeier/value-lens",
+    "language": "Python",
+    "name": "makefeier/value-lens",
+    "stars": 0,
+    "updated_at": "2026-09-09T02:52:12Z",
+    "url": "https://github.com/makefeier/value-lens"
+  },
+  {
+    "description": "Jargon Buster: turn insider jargon, sales scripts and bureaucratic language into plain talk - with risk grading and foll",
+    "id": "makefeier/jargon-buster",
+    "language": "Python",
+    "name": "makefeier/jargon-buster",
+    "stars": 0,
+    "updated_at": "2026-09-09T02:52:11Z",
+    "url": "https://github.com/makefeier/jargon-buster"
+  },
+  {
+    "description": "\u4e0d\u6c42\u4eba Insider Compass: turn insider knowledge (price markups, jargon, sales scripts, process black boxes) that traditional",
+    "id": "makefeier/insider-compass",
+    "language": "\u2014",
+    "name": "makefeier/insider-compass",
+    "stars": 1,
+    "updated_at": "2026-09-09T02:52:10Z",
+    "url": "https://github.com/makefeier/insider-compass"
+  },
+  {
+    "description": "Interview-driven smartphone buying advisor skill for OpenSquilla: dynamic vetoes, old-device value audit, downgrade chec",
+    "id": "makefeier/phone-buying-guide",
+    "language": "\u2014",
+    "name": "makefeier/phone-buying-guide",
+    "stars": 1,
+    "updated_at": "2026-09-09T02:52:08Z",
+    "url": "https://github.com/makefeier/phone-buying-guide"
+  },
+  {
+    "description": "An AI Agent for everyday SWE with minimalist style",
+    "id": "thehope2k/minimalist-agent",
+    "language": "TypeScript",
+    "name": "thehope2k/minimalist-agent",
+    "stars": 1,
+    "updated_at": "2026-09-09T02:45:21Z",
+    "url": "https://github.com/thehope2k/minimalist-agent"
+  },
+  {
     "description": "AI smart home assistant for Home Assistant: LangGraph agent + MCP tools + RAG knowledge graph + vision perception",
     "id": "tk-fantasy/fantasy",
     "language": "Python",
@@ -9,15 +108,6 @@
     "url": "https://github.com/tk-fantasy/fantasy"
   },
   {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-09-09T02:39:45Z",
-    "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
     "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
     "id": "Heliotrope-dev/finance-agent",
     "language": "Python",
@@ -25,24 +115,6 @@
     "stars": 2,
     "updated_at": "2026-09-09T02:39:27Z",
     "url": "https://github.com/Heliotrope-dev/finance-agent"
-  },
-  {
-    "description": "Jargon Buster: turn insider jargon, sales scripts and bureaucratic language into plain talk - with risk grading and foll",
-    "id": "makefeier/jargon-buster",
-    "language": "Python",
-    "name": "makefeier/jargon-buster",
-    "stars": 0,
-    "updated_at": "2026-09-09T02:39:07Z",
-    "url": "https://github.com/makefeier/jargon-buster"
-  },
-  {
-    "description": "[WWW '25 Oral - GenMentor] Official code of our paper \"LLM-powered Multi-agent Framework for Goal-oriented Learning in I",
-    "id": "GeminiLight/gen-mentor",
-    "language": "TypeScript",
-    "name": "GeminiLight/gen-mentor",
-    "stars": 86,
-    "updated_at": "2026-09-09T02:39:56Z",
-    "url": "https://github.com/GeminiLight/gen-mentor"
   },
   {
     "description": "An autopoiesic kefir for computing machines",
@@ -61,33 +133,6 @@
     "stars": 16,
     "updated_at": "2026-09-09T02:32:17Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "Interview-driven smartphone buying advisor skill for OpenSquilla: dynamic vetoes, old-device value audit, downgrade chec",
-    "id": "makefeier/phone-buying-guide",
-    "language": "\u2014",
-    "name": "makefeier/phone-buying-guide",
-    "stars": 1,
-    "updated_at": "2026-09-09T02:31:19Z",
-    "url": "https://github.com/makefeier/phone-buying-guide"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 1,
-    "updated_at": "2026-09-09T02:37:59Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
-    "description": "\u4e0d\u6c42\u4eba Insider Compass: turn insider knowledge (price markups, jargon, sales scripts, process black boxes) that traditional",
-    "id": "makefeier/insider-compass",
-    "language": "\u2014",
-    "name": "makefeier/insider-compass",
-    "stars": 1,
-    "updated_at": "2026-09-09T02:29:38Z",
-    "url": "https://github.com/makefeier/insider-compass"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -142,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-09T02:15:44Z",
     "url": "https://github.com/max-champlin/ghost"
-  },
-  {
-    "description": "Value Lens: assess the real value of anything (people, deals, things) across a 7-layer value stack; price != value. Open",
-    "id": "makefeier/value-lens",
-    "language": "Python",
-    "name": "makefeier/value-lens",
-    "stars": 0,
-    "updated_at": "2026-09-09T02:15:09Z",
-    "url": "https://github.com/makefeier/value-lens"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
@@ -306,15 +342,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
-    "id": "feder-cr/AIHawk",
-    "language": "Python",
-    "name": "feder-cr/AIHawk",
-    "stars": 30325,
-    "updated_at": "2026-09-09T00:22:09Z",
-    "url": "https://github.com/feder-cr/AIHawk"
-  },
-  {
     "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
     "id": "bigduu/Zenith",
     "language": "Shell",
@@ -356,7 +383,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-08T23:51:13Z",
+    "updated_at": "2026-09-09T02:56:19Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -414,15 +441,6 @@
     "url": "https://github.com/Maximooch/penguin"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7180,
-    "updated_at": "2026-09-08T22:47:00Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "Cross-agent plugin for manually excluding and editing AI conversation context, with search, filtering, hide/restore, und",
     "id": "jermaine123123/agent-context-editor",
     "language": "TypeScript",
@@ -430,23 +448,5 @@
     "stars": 57,
     "updated_at": "2026-09-08T22:37:35Z",
     "url": "https://github.com/jermaine123123/agent-context-editor"
-  },
-  {
-    "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
-    "id": "rugose-learnedprofession58/pi-dsh",
-    "language": "TypeScript",
-    "name": "rugose-learnedprofession58/pi-dsh",
-    "stars": 1,
-    "updated_at": "2026-09-08T22:32:05Z",
-    "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
-  },
-  {
-    "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
-    "id": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
-    "language": "JavaScript",
-    "name": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
-    "stars": 1,
-    "updated_at": "2026-09-08T22:31:14Z",
-    "url": "https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder"
   }
 ]
