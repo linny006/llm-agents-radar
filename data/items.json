@@ -1,12 +1,48 @@
 [
   {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 28,
+    "updated_at": "2026-09-09T16:49:22Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-09T16:48:06Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 628,
-    "updated_at": "2026-09-09T16:43:32Z",
+    "stars": 629,
+    "updated_at": "2026-09-09T16:47:35Z",
     "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
+    "id": "hay-chat/hay-core",
+    "language": "TypeScript",
+    "name": "hay-chat/hay-core",
+    "stars": 3,
+    "updated_at": "2026-09-09T16:45:48Z",
+    "url": "https://github.com/hay-chat/hay-core"
+  },
+  {
+    "description": "\u5177\u5907\u5b66\u60c5\u8bca\u65ad\u4e0e\u6301\u7eed\u89c4\u5212\u80fd\u529b\u7684\u81ea\u9002\u5e94\u4f34\u5b66\u667a\u80fd\u4f53\uff08FastAPI + React + RAG\uff0c\u638c\u63e1\u5ea6\u53ea\u8ba4\u72ec\u7acb\u6709\u6548\u8bc1\u636e\uff09",
+    "id": "ZQR1101/xueyoujing-companion",
+    "language": "Python",
+    "name": "ZQR1101/xueyoujing-companion",
+    "stars": 0,
+    "updated_at": "2026-09-09T16:41:25Z",
+    "url": "https://github.com/ZQR1101/xueyoujing-companion"
   },
   {
     "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
@@ -41,7 +77,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 8,
-    "updated_at": "2026-09-09T16:38:36Z",
+    "updated_at": "2026-09-09T16:51:49Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -50,7 +86,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-09-09T16:31:18Z",
+    "updated_at": "2026-09-09T16:59:22Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -61,15 +97,6 @@
     "stars": 6,
     "updated_at": "2026-09-09T16:30:49Z",
     "url": "https://github.com/hsaghir/looplet"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 28,
-    "updated_at": "2026-09-09T16:45:02Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
@@ -232,15 +259,6 @@
     "stars": 3,
     "updated_at": "2026-09-09T16:06:16Z",
     "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-09T16:05:10Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-09T15:56:21Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "An AI agent that runs your job search \u2014 finds companies, scrapes their job boards, screens every role against your r\u00e9sum",
-    "id": "benjaminjkern/hank",
-    "language": "TypeScript",
-    "name": "benjaminjkern/hank",
-    "stars": 1,
-    "updated_at": "2026-09-09T15:15:50Z",
-    "url": "https://github.com/benjaminjkern/hank"
-  },
-  {
-    "description": "Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw.",
-    "id": "C-Rhapsody/gemini-connector",
-    "language": "Go",
-    "name": "C-Rhapsody/gemini-connector",
-    "stars": 6,
-    "updated_at": "2026-09-09T15:08:52Z",
-    "url": "https://github.com/C-Rhapsody/gemini-connector"
   }
 ]
