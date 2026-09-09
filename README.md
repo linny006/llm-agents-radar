@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-09 08:45 UTC
+> ⏰ Last updated: 2026-09-09 09:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,23 +42,23 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [OtakuNathan/Pal](https://github.com/OtakuNathan/Pal) | 1 | Python | 2026-09-09 | A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger,  |
-| 2 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 4 | Python | 2026-09-09 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
-| 3 | [helixml/helix](https://github.com/helixml/helix) | 805 | Go | 2026-09-09 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
-| 4 | [xianyongwen/TestDog](https://github.com/xianyongwen/TestDog) | 2 | TypeScript | 2026-09-09 | TestDog is a desktop test case management tool: generate UI test scripts from natural language or manual recording, then |
-| 5 | [agentpit-io/hunter-community](https://github.com/agentpit-io/hunter-community) | 488 | Python | 2026-09-09 | Hunter Community Edition · 私人金融 AI 团队 · AI 智能体 + AI 量化 · 开源自托管 · powered by opencode + Claude Code + MCP + multi-agent · |
-| 6 | [P0w3r223/apply-scout](https://github.com/P0w3r223/apply-scout) | 0 | Python | 2026-09-09 | An LLM job-matching agent with a from-scratch tool loop — and an evaluation that scores its own retriever and its own at |
-| 7 | [milkwhite-lul/agentic-support](https://github.com/milkwhite-lul/agentic-support) | 0 | Python | 2026-09-09 | A support-triage agent that only claims what its tools actually returned -- Google ADK for orchestration, Claude on Bedr |
-| 8 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 129 | HTML | 2026-09-09 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 9 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 16 | Python | 2026-09-09 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、HMI和Android双端；LLM 只负责理解与规划，VAL 负责确定性安全执行 |
-| 10 | [kangwoo/aimon-core](https://github.com/kangwoo/aimon-core) | 0 | Java | 2026-09-09 | A ReAct agent framework for Java — build autonomous LLM-powered agents, embeddable in any Java application |
-| 11 | [genaforvena/lte-workstation](https://github.com/genaforvena/lte-workstation) | 8 | Shell | 2026-09-09 | An autopoiesic kefir for computing machines |
-| 12 | [fjoalland/vibetest](https://github.com/fjoalland/vibetest) | 0 | Python | 2026-09-09 | Natural-language browser tests powered by Mistral. Describe the test, the agent runs it in Chrome and writes a report. |
-| 13 | [JSL107/personal_agents](https://github.com/JSL107/personal_agents) | 0 | TypeScript | 2026-09-09 | Slack 에서 PM · 백엔드 · 코드리뷰어 · CTO 역할을 나눠 맡는 멀티 에이전트 업무 자동화 봇 |
-| 14 | [lost-rob0t/starintel-gpt-auto-dig](https://github.com/lost-rob0t/starintel-gpt-auto-dig) | 1 | Python | 2026-09-09 | GPT autonomous research and investigation using starintel |
-| 15 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 13 | Go | 2026-09-09 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
-| 16 | [xbsheng/ai-from-scratch](https://github.com/xbsheng/ai-from-scratch) | 1 | Python | 2026-09-09 | 从零实现 AI 核心组件（mini-* 系列）：Transformer / Qwen3 / BPE / Agent / RAG / Vector DB。Rebuild AI building blocks from scratch. |
-| 17 | [555cute/r20-quantum-trader](https://github.com/555cute/r20-quantum-trader) | 163 | Python | 2026-09-09 | ⚡ LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI  |
+| 1 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 16 | Python | 2026-09-09 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、HMI和Android双端；LLM 只负责理解与规划，VAL 负责确定性安全执行 |
+| 2 | [555cute/r20-quantum-trader](https://github.com/555cute/r20-quantum-trader) | 163 | Python | 2026-09-09 | ⚡ LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI  |
+| 3 | [agentpit-io/hunter-community](https://github.com/agentpit-io/hunter-community) | 488 | Python | 2026-09-09 | Hunter Community Edition · 私人金融 AI 团队 · AI 智能体 + AI 量化 · 开源自托管 · powered by opencode + Claude Code + MCP + multi-agent · |
+| 4 | [OtakuNathan/Pal](https://github.com/OtakuNathan/Pal) | 1 | Python | 2026-09-09 | A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger,  |
+| 5 | [lost-rob0t/starintel-gpt-auto-dig](https://github.com/lost-rob0t/starintel-gpt-auto-dig) | 1 | Python | 2026-09-09 | GPT autonomous research and investigation using starintel |
+| 6 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 4 | Python | 2026-09-09 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
+| 7 | [helixml/helix](https://github.com/helixml/helix) | 805 | Go | 2026-09-09 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
+| 8 | [xianyongwen/TestDog](https://github.com/xianyongwen/TestDog) | 2 | TypeScript | 2026-09-09 | TestDog is a desktop test case management tool: generate UI test scripts from natural language or manual recording, then |
+| 9 | [P0w3r223/apply-scout](https://github.com/P0w3r223/apply-scout) | 0 | Python | 2026-09-09 | An LLM job-matching agent with a from-scratch tool loop — and an evaluation that scores its own retriever and its own at |
+| 10 | [milkwhite-lul/agentic-support](https://github.com/milkwhite-lul/agentic-support) | 0 | Python | 2026-09-09 | A support-triage agent that only claims what its tools actually returned -- Google ADK for orchestration, Claude on Bedr |
+| 11 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 129 | HTML | 2026-09-09 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 12 | [kangwoo/aimon-core](https://github.com/kangwoo/aimon-core) | 0 | Java | 2026-09-09 | A ReAct agent framework for Java — build autonomous LLM-powered agents, embeddable in any Java application |
+| 13 | [genaforvena/lte-workstation](https://github.com/genaforvena/lte-workstation) | 8 | Shell | 2026-09-09 | An autopoiesic kefir for computing machines |
+| 14 | [fjoalland/vibetest](https://github.com/fjoalland/vibetest) | 0 | Python | 2026-09-09 | Natural-language browser tests powered by Mistral. Describe the test, the agent runs it in Chrome and writes a report. |
+| 15 | [JSL107/personal_agents](https://github.com/JSL107/personal_agents) | 0 | TypeScript | 2026-09-09 | Slack 에서 PM · 백엔드 · 코드리뷰어 · CTO 역할을 나눠 맡는 멀티 에이전트 업무 자동화 봇 |
+| 16 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 13 | Go | 2026-09-09 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
+| 17 | [xbsheng/ai-from-scratch](https://github.com/xbsheng/ai-from-scratch) | 1 | Python | 2026-09-09 | 从零实现 AI 核心组件（mini-* 系列）：Transformer / Qwen3 / BPE / Agent / RAG / Vector DB。Rebuild AI building blocks from scratch. |
 | 18 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 32 | Python | 2026-09-09 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
 | 19 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 24 | Python | 2026-09-09 | A productive AI coworker that learns, self-improves, and ships work. |
 | 20 | [gptme/gptme](https://github.com/gptme/gptme) | 4411 | Python | 2026-09-09 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
