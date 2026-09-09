@@ -1,5 +1,41 @@
 [
   {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 626,
+    "updated_at": "2026-09-09T15:40:27Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 165,
+    "updated_at": "2026-09-09T15:37:04Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
+    "id": "ravisinghrajput95/kubewhy",
+    "language": "Python",
+    "name": "ravisinghrajput95/kubewhy",
+    "stars": 0,
+    "updated_at": "2026-09-09T15:37:27Z",
+    "url": "https://github.com/ravisinghrajput95/kubewhy"
+  },
+  {
+    "description": "AI research workbench for observational cosmology that provably refuses to fabricate \u2014 every number traces to a register",
+    "id": "MikhailXiaomaikou/Standard-Astro",
+    "language": "Python",
+    "name": "MikhailXiaomaikou/Standard-Astro",
+    "stars": 4,
+    "updated_at": "2026-09-09T15:32:19Z",
+    "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
+  },
+  {
     "description": "Desktop Headless Local-first AI coding agent in Rust (axum, tokio, rmcp, portable-pty) behind HTTP + SSE, with an Angula",
     "id": "henrykbrzoska/bebok",
     "language": "Rust",
@@ -18,13 +54,13 @@
     "url": "https://github.com/watchcat/scout"
   },
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 625,
-    "updated_at": "2026-09-09T15:24:35Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 24,
+    "updated_at": "2026-09-09T15:38:29Z",
+    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "GPT autonomous research and investigation using starintel",
@@ -54,15 +90,6 @@
     "url": "https://github.com/benjaminjkern/hank"
   },
   {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 165,
-    "updated_at": "2026-09-09T15:25:26Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
-  },
-  {
     "description": "Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw.",
     "id": "C-Rhapsody/gemini-connector",
     "language": "Go",
@@ -86,7 +113,7 @@
     "language": "Python",
     "name": "Rekin226/Agronaut",
     "stars": 4,
-    "updated_at": "2026-09-09T15:05:59Z",
+    "updated_at": "2026-09-09T15:43:02Z",
     "url": "https://github.com/Rekin226/Agronaut"
   },
   {
@@ -144,15 +171,6 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
-    "id": "ravisinghrajput95/kubewhy",
-    "language": "Python",
-    "name": "ravisinghrajput95/kubewhy",
-    "stars": 0,
-    "updated_at": "2026-09-09T14:39:15Z",
-    "url": "https://github.com/ravisinghrajput95/kubewhy"
-  },
-  {
     "description": "An autopoiesic kefir for computing machines",
     "id": "genaforvena/lte-workstation",
     "language": "Shell",
@@ -169,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-09T14:37:28Z",
     "url": "https://github.com/no42-org/twiki"
-  },
-  {
-    "description": "AI research workbench for observational cosmology that provably refuses to fabricate \u2014 every number traces to a register",
-    "id": "MikhailXiaomaikou/Standard-Astro",
-    "language": "Python",
-    "name": "MikhailXiaomaikou/Standard-Astro",
-    "stars": 4,
-    "updated_at": "2026-09-09T14:35:18Z",
-    "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
   },
   {
     "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
@@ -410,7 +419,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4411,
-    "updated_at": "2026-09-09T15:24:34Z",
+    "updated_at": "2026-09-09T15:40:16Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-09T13:59:30Z",
     "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "Air-gapped SAR intelligence assistant. Detects vessels in Sentinel-1 radar imagery, correlates them with AIS in space an",
-    "id": "lunasilvestre/nightglass",
-    "language": "Python",
-    "name": "lunasilvestre/nightglass",
-    "stars": 0,
-    "updated_at": "2026-09-09T13:58:19Z",
-    "url": "https://github.com/lunasilvestre/nightglass"
   }
 ]
