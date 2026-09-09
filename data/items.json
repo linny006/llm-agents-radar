@@ -1,5 +1,23 @@
 [
   {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-09-09T23:29:27Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 1,
+    "updated_at": "2026-09-09T23:20:43Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
     "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
@@ -104,7 +122,7 @@
     "language": "Rust",
     "name": "christianOrona/wtfault-scanner",
     "stars": 1,
-    "updated_at": "2026-09-09T23:13:29Z",
+    "updated_at": "2026-09-09T23:21:41Z",
     "url": "https://github.com/christianOrona/wtfault-scanner"
   },
   {
@@ -124,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-09T22:16:05Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 1,
-    "updated_at": "2026-09-09T23:11:13Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -256,7 +265,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 645,
+    "stars": 646,
     "updated_at": "2026-09-09T21:25:57Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -293,7 +302,7 @@
     "language": "Python",
     "name": "MikhailXiaomaikou/Standard-Astro",
     "stars": 4,
-    "updated_at": "2026-09-09T23:09:27Z",
+    "updated_at": "2026-09-09T23:27:12Z",
     "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
   },
   {
@@ -311,7 +320,7 @@
     "language": "Dart",
     "name": "justacalico/devinorium",
     "stars": 1,
-    "updated_at": "2026-09-09T21:23:45Z",
+    "updated_at": "2026-09-09T23:25:46Z",
     "url": "https://github.com/justacalico/devinorium"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-09T20:17:48Z",
     "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
-  },
-  {
-    "description": "Automate file management and coding tasks in your local directory using small language models.",
-    "id": "pruthviraj00007/VibeHarness",
-    "language": "Python",
-    "name": "pruthviraj00007/VibeHarness",
-    "stars": 0,
-    "updated_at": "2026-09-09T20:15:14Z",
-    "url": "https://github.com/pruthviraj00007/VibeHarness"
   }
 ]
