@@ -1,21 +1,21 @@
 [
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-09T06:14:56Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "GPT autonomous research and investigation using starintel",
     "id": "lost-rob0t/starintel-gpt-auto-dig",
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-09-09T06:12:58Z",
+    "updated_at": "2026-09-09T06:28:34Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-09T06:18:23Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -149,7 +149,7 @@
     "language": "Python",
     "name": "HKUDS/DeepCode",
     "stars": 16504,
-    "updated_at": "2026-09-09T05:56:40Z",
+    "updated_at": "2026-09-09T06:27:09Z",
     "url": "https://github.com/HKUDS/DeepCode"
   },
   {
@@ -158,7 +158,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-09T06:14:27Z",
+    "updated_at": "2026-09-09T06:29:14Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -320,7 +320,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-09T05:05:32Z",
+    "updated_at": "2026-09-09T06:28:43Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
