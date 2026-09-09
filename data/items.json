@@ -1,5 +1,59 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 24,
+    "updated_at": "2026-09-09T17:28:45Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-09T17:25:50Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
+    "id": "hay-chat/hay-core",
+    "language": "TypeScript",
+    "name": "hay-chat/hay-core",
+    "stars": 3,
+    "updated_at": "2026-09-09T17:25:01Z",
+    "url": "https://github.com/hay-chat/hay-core"
+  },
+  {
+    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
+    "id": "feder-cr/AIHawk",
+    "language": "Python",
+    "name": "feder-cr/AIHawk",
+    "stars": 30334,
+    "updated_at": "2026-09-09T17:23:22Z",
+    "url": "https://github.com/feder-cr/AIHawk"
+  },
+  {
+    "description": "A delivery-discipline behavior layer for AI agents \u2014 turns \u201cthe agent says it's done\u201d into \u201cthe agent proves it's done\u201d:",
+    "id": "JadeYingWah/gpt-series-reasoning-style",
+    "language": "Python",
+    "name": "JadeYingWah/gpt-series-reasoning-style",
+    "stars": 4,
+    "updated_at": "2026-09-09T17:21:30Z",
+    "url": "https://github.com/JadeYingWah/gpt-series-reasoning-style"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 1,
+    "updated_at": "2026-09-09T17:15:25Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
@@ -14,7 +68,7 @@
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 8,
-    "updated_at": "2026-09-09T17:03:05Z",
+    "updated_at": "2026-09-09T17:19:01Z",
     "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
@@ -31,18 +85,9 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 629,
+    "stars": 630,
     "updated_at": "2026-09-09T16:47:35Z",
     "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
-    "id": "hay-chat/hay-core",
-    "language": "TypeScript",
-    "name": "hay-chat/hay-core",
-    "stars": 3,
-    "updated_at": "2026-09-09T16:45:48Z",
-    "url": "https://github.com/hay-chat/hay-core"
   },
   {
     "description": "\u5177\u5907\u5b66\u60c5\u8bca\u65ad\u4e0e\u6301\u7eed\u89c4\u5212\u80fd\u529b\u7684\u81ea\u9002\u5e94\u4f34\u5b66\u667a\u80fd\u4f53\uff08FastAPI + React + RAG\uff0c\u638c\u63e1\u5ea6\u53ea\u8ba4\u72ec\u7acb\u6709\u6548\u8bc1\u636e\uff09",
@@ -86,17 +131,8 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 8,
-    "updated_at": "2026-09-09T17:10:22Z",
+    "updated_at": "2026-09-09T17:24:58Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 1,
-    "updated_at": "2026-09-09T17:05:48Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
     "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
@@ -196,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-09-09T16:13:41Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
-    "id": "feder-cr/AIHawk",
-    "language": "Python",
-    "name": "feder-cr/AIHawk",
-    "stars": 30334,
-    "updated_at": "2026-09-09T16:13:08Z",
-    "url": "https://github.com/feder-cr/AIHawk"
   },
   {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
@@ -319,7 +346,7 @@
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
-    "stars": 165,
+    "stars": 166,
     "updated_at": "2026-09-09T15:57:51Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
   },
@@ -355,7 +382,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7183,
+    "stars": 7184,
     "updated_at": "2026-09-09T15:53:45Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-09T16:18:52Z",
     "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
-  },
-  {
-    "description": "Desktop Headless Local-first AI coding agent in Rust (axum, tokio, rmcp, portable-pty) behind HTTP + SSE, with an Angula",
-    "id": "henrykbrzoska/bebok",
-    "language": "Rust",
-    "name": "henrykbrzoska/bebok",
-    "stars": 0,
-    "updated_at": "2026-09-09T15:29:43Z",
-    "url": "https://github.com/henrykbrzoska/bebok"
-  },
-  {
-    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
-    "id": "watchcat/scout",
-    "language": "Rust",
-    "name": "watchcat/scout",
-    "stars": 0,
-    "updated_at": "2026-09-09T15:25:55Z",
-    "url": "https://github.com/watchcat/scout"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-09T15:38:29Z",
-    "url": "https://github.com/tomcounsell/ai"
   }
 ]
