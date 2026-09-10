@@ -1,12 +1,57 @@
 [
   {
+    "description": "A 3D civilization simulation where AI agents model a society end to end, then get red-teamed for hidden assumptions. Thr",
+    "id": "utamir/aicivilization",
+    "language": "TypeScript",
+    "name": "utamir/aicivilization",
+    "stars": 0,
+    "updated_at": "2026-09-10T06:27:14Z",
+    "url": "https://github.com/utamir/aicivilization"
+  },
+  {
+    "description": "A persistent agent runtime and its official CLI. Three packages: @echo-agent/core (runtime/SDK, zero runtime dependencie",
+    "id": "echo-yiyi/echo-agent",
+    "language": "TypeScript",
+    "name": "echo-yiyi/echo-agent",
+    "stars": 2,
+    "updated_at": "2026-09-10T06:25:46Z",
+    "url": "https://github.com/echo-yiyi/echo-agent"
+  },
+  {
     "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
     "id": "agentpit-io/hunter-community",
     "language": "Python",
     "name": "agentpit-io/hunter-community",
     "stars": 501,
-    "updated_at": "2026-09-10T06:14:13Z",
+    "updated_at": "2026-09-10T06:22:06Z",
     "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 4,
+    "updated_at": "2026-09-10T06:20:11Z",
+    "url": "https://github.com/ljedrz/nachalnik"
+  },
+  {
+    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
+    "id": "feder-cr/AIHawk",
+    "language": "Python",
+    "name": "feder-cr/AIHawk",
+    "stars": 30334,
+    "updated_at": "2026-09-10T06:24:39Z",
+    "url": "https://github.com/feder-cr/AIHawk"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 430,
+    "updated_at": "2026-09-10T06:15:49Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Agentic pentest/red-team framework orchestrated by Claude Code \u2014 automated recon, hunt, validate, and report workflow wi",
@@ -167,7 +212,7 @@
     "language": "Go",
     "name": "ongridio/ongrid",
     "stars": 1019,
-    "updated_at": "2026-09-10T05:47:59Z",
+    "updated_at": "2026-09-10T06:21:51Z",
     "url": "https://github.com/ongridio/ongrid"
   },
   {
@@ -203,7 +248,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-10T05:47:00Z",
+    "updated_at": "2026-09-10T06:28:23Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -342,15 +387,6 @@
     "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 430,
-    "updated_at": "2026-09-10T05:23:33Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "Enterprise Data Agent: NL \u2192 contract-bound DSL \u2192 deterministic SQL \u2192 DuckDB. StateGraph orchestration, sandboxed analysi",
     "id": "Cwentor/DataAgent",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-10T04:53:25Z",
     "url": "https://github.com/OtakuNathan/Pal"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-09-10T04:53:21Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
-    "id": "Rekin226/Agronaut",
-    "language": "Python",
-    "name": "Rekin226/Agronaut",
-    "stars": 4,
-    "updated_at": "2026-09-10T04:51:28Z",
-    "url": "https://github.com/Rekin226/Agronaut"
-  },
-  {
-    "description": "A persistent agent runtime and its official CLI. Three packages: @echo-agent/core (runtime/SDK, zero runtime dependencie",
-    "id": "echo-yiyi/echo-agent",
-    "language": "TypeScript",
-    "name": "echo-yiyi/echo-agent",
-    "stars": 2,
-    "updated_at": "2026-09-10T04:48:45Z",
-    "url": "https://github.com/echo-yiyi/echo-agent"
-  },
-  {
-    "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
-    "id": "mark-weeks/hello-nested-worlds-adventure",
-    "language": "Python",
-    "name": "mark-weeks/hello-nested-worlds-adventure",
-    "stars": 5,
-    "updated_at": "2026-09-10T04:47:48Z",
-    "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
   }
 ]
