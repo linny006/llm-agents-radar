@@ -1,5 +1,23 @@
 [
   {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-09-10T12:44:56Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-09-10T12:36:52Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw.",
     "id": "C-Rhapsody/gemini-connector",
     "language": "Go",
@@ -14,7 +32,7 @@
     "language": "Rust",
     "name": "citizenhicks/mobius",
     "stars": 1,
-    "updated_at": "2026-09-10T12:26:14Z",
+    "updated_at": "2026-09-10T12:36:32Z",
     "url": "https://github.com/citizenhicks/mobius"
   },
   {
@@ -185,7 +203,7 @@
     "language": "Python",
     "name": "aiterrariumcontrol/terrarium-life",
     "stars": 0,
-    "updated_at": "2026-09-10T11:40:24Z",
+    "updated_at": "2026-09-10T12:43:37Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
@@ -338,7 +356,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4412,
-    "updated_at": "2026-09-10T12:28:00Z",
+    "updated_at": "2026-09-10T12:43:01Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -346,7 +364,7 @@
     "id": "feder-cr/AIHawk",
     "language": "Python",
     "name": "feder-cr/AIHawk",
-    "stars": 30335,
+    "stars": 30336,
     "updated_at": "2026-09-10T11:03:47Z",
     "url": "https://github.com/feder-cr/AIHawk"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-10T11:44:52Z",
     "url": "https://github.com/kangwoo/aimon-core"
-  },
-  {
-    "description": "Desktop GUI Headless Local-first AI coding agent in Rust (axum, tokio, rmcp, portable-pty) behind HTTP + SSE, with an An",
-    "id": "henrykbrzoska/bebok",
-    "language": "Rust",
-    "name": "henrykbrzoska/bebok",
-    "stars": 1,
-    "updated_at": "2026-09-10T10:33:37Z",
-    "url": "https://github.com/henrykbrzoska/bebok"
-  },
-  {
-    "description": "A loop-plus-verifier agent framework with a pluggable generator. Verifies candidate answers for closed-form and witness ",
-    "id": "ShannonBohle/loopverify",
-    "language": "Python",
-    "name": "ShannonBohle/loopverify",
-    "stars": 0,
-    "updated_at": "2026-09-10T10:33:08Z",
-    "url": "https://github.com/ShannonBohle/loopverify"
   }
 ]
