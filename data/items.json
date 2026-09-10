@@ -1,11 +1,92 @@
 [
   {
+    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
+    "id": "karvidsson/kbots",
+    "language": "Python",
+    "name": "karvidsson/kbots",
+    "stars": 1,
+    "updated_at": "2026-09-10T17:45:14Z",
+    "url": "https://github.com/karvidsson/kbots"
+  },
+  {
+    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
+    "id": "mohahasan/ios-agentic-skills",
+    "language": "JavaScript",
+    "name": "mohahasan/ios-agentic-skills",
+    "stars": 4,
+    "updated_at": "2026-09-10T17:43:43Z",
+    "url": "https://github.com/mohahasan/ios-agentic-skills"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-09-10T17:39:34Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
+    "id": "Danisxxx/comfyUI-LongLook",
+    "language": "Python",
+    "name": "Danisxxx/comfyUI-LongLook",
+    "stars": 2,
+    "updated_at": "2026-09-10T17:37:25Z",
+    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
+  },
+  {
+    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
+    "id": "axxafo/awesome-agent-benchmarks",
+    "language": "\u2014",
+    "name": "axxafo/awesome-agent-benchmarks",
+    "stars": 3,
+    "updated_at": "2026-09-10T17:36:23Z",
+    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
+  },
+  {
+    "description": "Agentic i18n localization translation & validation pipeline console (ICU parser & LLM-as-a-Judge)",
+    "id": "devcy0922/lingo-agent",
+    "language": "Python",
+    "name": "devcy0922/lingo-agent",
+    "stars": 0,
+    "updated_at": "2026-09-10T17:33:01Z",
+    "url": "https://github.com/devcy0922/lingo-agent"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7194,
+    "updated_at": "2026-09-10T17:32:09Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 4,
+    "updated_at": "2026-09-10T17:31:36Z",
+    "url": "https://github.com/ljedrz/nachalnik"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-09-10T17:30:45Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-10T17:28:36Z",
+    "updated_at": "2026-09-10T17:37:07Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -23,7 +104,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-09-10T17:30:44Z",
+    "updated_at": "2026-09-10T17:44:48Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -77,7 +158,7 @@
     "language": "TypeScript",
     "name": "titanwings/distilly",
     "stars": 24594,
-    "updated_at": "2026-09-10T17:12:53Z",
+    "updated_at": "2026-09-10T17:36:45Z",
     "url": "https://github.com/titanwings/distilly"
   },
   {
@@ -113,17 +194,8 @@
     "language": "Dart",
     "name": "justacalico/devinorium",
     "stars": 1,
-    "updated_at": "2026-09-10T17:10:25Z",
+    "updated_at": "2026-09-10T17:40:18Z",
     "url": "https://github.com/justacalico/devinorium"
-  },
-  {
-    "description": "Agentic i18n localization translation & validation pipeline console (ICU parser & LLM-as-a-Judge)",
-    "id": "devcy0922/lingo-agent",
-    "language": "Python",
-    "name": "devcy0922/lingo-agent",
-    "stars": 0,
-    "updated_at": "2026-09-10T16:52:04Z",
-    "url": "https://github.com/devcy0922/lingo-agent"
   },
   {
     "description": "Local sidecar for AI Agents that will save up to 29% less tokens and will fix your LLM-based agent mess before it happen",
@@ -153,21 +225,12 @@
     "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
-    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
-    "id": "ljedrz/nachalnik",
-    "language": "Rust",
-    "name": "ljedrz/nachalnik",
-    "stars": 4,
-    "updated_at": "2026-09-10T16:47:01Z",
-    "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4412,
-    "updated_at": "2026-09-10T17:00:51Z",
+    "updated_at": "2026-09-10T17:37:14Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -178,15 +241,6 @@
     "stars": 60,
     "updated_at": "2026-09-10T16:40:42Z",
     "url": "https://github.com/jermaine123123/agent-context-editor"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-09-10T16:36:16Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
@@ -238,7 +292,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 1187,
+    "stars": 1188,
     "updated_at": "2026-09-10T16:13:50Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-10T15:35:52Z",
     "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "Assembled context for DeepSeek Harness: a context tree over the session surface with per-node assemble modes (full / key",
-    "id": "catsenior507/dsh-context-assembler",
-    "language": "TypeScript",
-    "name": "catsenior507/dsh-context-assembler",
-    "stars": 0,
-    "updated_at": "2026-09-10T15:34:20Z",
-    "url": "https://github.com/catsenior507/dsh-context-assembler"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-09-10T15:34:17Z",
-    "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-10T17:25:12Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Connect Claude Code, Cursor, and Codex to Workflow (workflow.games): your AI coding agent plans requirements, files bugs",
-    "id": "LumioGames/workflow-plugin",
-    "language": "JavaScript",
-    "name": "LumioGames/workflow-plugin",
-    "stars": 1,
-    "updated_at": "2026-09-10T15:31:30Z",
-    "url": "https://github.com/LumioGames/workflow-plugin"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-09-10T15:30:51Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-09-10T15:30:42Z",
-    "url": "https://github.com/Bowotria/aethercore"
   }
 ]
