@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-10 22:45 UTC
+> ⏰ Last updated: 2026-09-10 23:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [lost-rob0t/starintel-gpt-auto-dig](https://github.com/lost-rob0t/starintel-gpt-auto-dig) | 1 | Python | 2026-09-10 | GPT autonomous research and investigation using starintel |
-| 2 | [christianOrona/wtfault-scanner](https://github.com/christianOrona/wtfault-scanner) | 1 | Rust | 2026-09-10 | An agentic OBD-II scanner that never makes anything up. Bring your own model, read every module on the bus, and click an |
-| 3 | [aviskaar/zorp](https://github.com/aviskaar/zorp) | 3 | Rust | 2026-09-10 | A research agent for scientific discovery — part of Aviskaar's applied AI research suite. |
-| 4 | [justacalico/devinorium](https://github.com/justacalico/devinorium) | 1 | Dart | 2026-09-10 | Control AI agents anywhere. (github mirror) |
-| 5 | [paopao-13/pecs-multi-agent](https://github.com/paopao-13/pecs-multi-agent) | 0 | Python | 2026-09-10 | PECS: 基于 LangGraph 的四角色多智能体任务求解框架（Planner/Executor/Critic/Synthesizer）。WebShop 真实环境 +25pp (25% vs 0%)；GAIA 官方 53 题 26.4% |
+| 1 | [aviskaar/zorp](https://github.com/aviskaar/zorp) | 3 | Rust | 2026-09-10 | A research agent for scientific discovery — part of Aviskaar's applied AI research suite. |
+| 2 | [paopao-13/pecs-multi-agent](https://github.com/paopao-13/pecs-multi-agent) | 0 | Python | 2026-09-10 | PECS: 基于 LangGraph 的四角色多智能体任务求解框架（Planner/Executor/Critic/Synthesizer）。WebShop 真实环境 +25pp (25% vs 0%)；GAIA 官方 53 题 26.4% |
+| 3 | [christianOrona/wtfault-scanner](https://github.com/christianOrona/wtfault-scanner) | 1 | Rust | 2026-09-10 | An agentic OBD-II scanner that never makes anything up. Bring your own model, read every module on the bus, and click an |
+| 4 | [lost-rob0t/starintel-gpt-auto-dig](https://github.com/lost-rob0t/starintel-gpt-auto-dig) | 1 | Python | 2026-09-10 | GPT autonomous research and investigation using starintel |
+| 5 | [justacalico/devinorium](https://github.com/justacalico/devinorium) | 1 | Dart | 2026-09-10 | Control AI agents anywhere. (github mirror) |
 | 6 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 1 | C++ | 2026-09-10 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
 | 7 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 7198 | Python | 2026-09-10 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
 | 8 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 16 | Rust | 2026-09-10 | Bamboo — a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule |

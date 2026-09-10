@@ -1,39 +1,12 @@
 [
   {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 1,
-    "updated_at": "2026-09-10T22:39:31Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
-    "description": "An agentic OBD-II scanner that never makes anything up. Bring your own model, read every module on the bus, and click an",
-    "id": "christianOrona/wtfault-scanner",
-    "language": "Rust",
-    "name": "christianOrona/wtfault-scanner",
-    "stars": 1,
-    "updated_at": "2026-09-10T22:39:17Z",
-    "url": "https://github.com/christianOrona/wtfault-scanner"
-  },
-  {
     "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
     "id": "aviskaar/zorp",
     "language": "Rust",
     "name": "aviskaar/zorp",
     "stars": 3,
-    "updated_at": "2026-09-10T22:43:20Z",
+    "updated_at": "2026-09-10T22:58:03Z",
     "url": "https://github.com/aviskaar/zorp"
-  },
-  {
-    "description": "Control AI agents anywhere. (github mirror)",
-    "id": "justacalico/devinorium",
-    "language": "Dart",
-    "name": "justacalico/devinorium",
-    "stars": 1,
-    "updated_at": "2026-09-10T22:32:57Z",
-    "url": "https://github.com/justacalico/devinorium"
   },
   {
     "description": "PECS: \u57fa\u4e8e LangGraph \u7684\u56db\u89d2\u8272\u591a\u667a\u80fd\u4f53\u4efb\u52a1\u6c42\u89e3\u6846\u67b6\uff08Planner/Executor/Critic/Synthesizer\uff09\u3002WebShop \u771f\u5b9e\u73af\u5883 +25pp (25% vs 0%)\uff1bGAIA \u5b98\u65b9 53 \u9898 26.4%",
@@ -41,8 +14,35 @@
     "language": "Python",
     "name": "paopao-13/pecs-multi-agent",
     "stars": 0,
-    "updated_at": "2026-09-10T22:27:22Z",
+    "updated_at": "2026-09-10T22:52:51Z",
     "url": "https://github.com/paopao-13/pecs-multi-agent"
+  },
+  {
+    "description": "An agentic OBD-II scanner that never makes anything up. Bring your own model, read every module on the bus, and click an",
+    "id": "christianOrona/wtfault-scanner",
+    "language": "Rust",
+    "name": "christianOrona/wtfault-scanner",
+    "stars": 1,
+    "updated_at": "2026-09-10T22:48:17Z",
+    "url": "https://github.com/christianOrona/wtfault-scanner"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 1,
+    "updated_at": "2026-09-10T22:49:07Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Control AI agents anywhere. (github mirror)",
+    "id": "justacalico/devinorium",
+    "language": "Dart",
+    "name": "justacalico/devinorium",
+    "stars": 1,
+    "updated_at": "2026-09-10T22:56:01Z",
+    "url": "https://github.com/justacalico/devinorium"
   },
   {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
@@ -437,7 +437,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4411,
-    "updated_at": "2026-09-10T22:22:05Z",
+    "updated_at": "2026-09-10T22:55:54Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
