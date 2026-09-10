@@ -1,12 +1,48 @@
 [
   {
-    "description": "\u5bf9\u7f51\u9875deepseek\u7684\u5c01\u88c5\uff0c\u5b9e\u73b0\u514d\u8d39API\u8c03\u7528\u3002\u652f\u6301 OpenAI completions / responses socket\u3002\u53ef\u5de5\u5177\u8c03\u7528\uff0c\u53ef\u63a5\u5165codex\u3001copilot\u3002\u8f7b\u91cf\u81ea\u7528",
-    "id": "madderscientist/WebAI2API",
+    "description": "\u8de8\u670d\u52a1\u5668 agent \u7684\u6280\u80fd\u5e93\u4e0e\u65e5\u5fd7\u5e93\uff1aGit \u4e3a\u552f\u4e00\u4e8b\u5b9e\u6765\u6e90\uff0c\u89e3\u51b3\u591a\u7aef agent \u7684\u901a\u4fe1\u3001\u5ba1\u8ba1\u4e0e\u6280\u80fd\u8fed\u4ee3\u3002Sync agent skills and project logs across servers \u2014 git as the si",
+    "id": "arlen-liang/nest-sync",
+    "language": "Shell",
+    "name": "arlen-liang/nest-sync",
+    "stars": 1,
+    "updated_at": "2026-09-10T13:28:47Z",
+    "url": "https://github.com/arlen-liang/nest-sync"
+  },
+  {
+    "description": "Policy-driven autopilot for Dependabot PRs and patch releases, with Slack/Discord/Matrix digests",
+    "id": "no42-org/twiki",
     "language": "TypeScript",
-    "name": "madderscientist/WebAI2API",
-    "stars": 26,
-    "updated_at": "2026-09-10T13:12:25Z",
-    "url": "https://github.com/madderscientist/WebAI2API"
+    "name": "no42-org/twiki",
+    "stars": 0,
+    "updated_at": "2026-09-10T13:27:19Z",
+    "url": "https://github.com/no42-org/twiki"
+  },
+  {
+    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 505,
+    "updated_at": "2026-09-10T13:19:07Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-10T13:18:06Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Connect Claude Code, Cursor, and Codex to Workflow (workflow.games): your AI coding agent plans requirements, files bugs",
+    "id": "LumioGames/workflow-plugin",
+    "language": "JavaScript",
+    "name": "LumioGames/workflow-plugin",
+    "stars": 1,
+    "updated_at": "2026-09-10T13:16:35Z",
+    "url": "https://github.com/LumioGames/workflow-plugin"
   },
   {
     "description": "AgentBypass \u2014 Omni Operator LLM Agent Skill (Cknb): Turn any LLM into RE / Pwn / CTF / Pentest / Protocol / Crypto / Mob",
@@ -14,17 +50,26 @@
     "language": "\u2014",
     "name": "1837620622/agent-bypass",
     "stars": 0,
-    "updated_at": "2026-09-10T13:10:43Z",
+    "updated_at": "2026-09-10T13:15:50Z",
     "url": "https://github.com/1837620622/agent-bypass"
   },
   {
-    "description": "\u8de8\u670d\u52a1\u5668 agent \u7684\u6280\u80fd\u5e93\u4e0e\u65e5\u5fd7\u5e93\uff1aGit \u4e3a\u552f\u4e00\u4e8b\u5b9e\u6765\u6e90\uff0c\u89e3\u51b3\u591a\u7aef agent \u7684\u901a\u4fe1\u3001\u5ba1\u8ba1\u4e0e\u6280\u80fd\u8fed\u4ee3\u3002Sync agent skills and project logs across servers \u2014 git as the si",
-    "id": "arlen-liang/nest-sync",
-    "language": "Shell",
-    "name": "arlen-liang/nest-sync",
+    "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
+    "id": "ChanTso/citybuddy",
+    "language": "Java",
+    "name": "ChanTso/citybuddy",
     "stars": 0,
-    "updated_at": "2026-09-10T13:08:15Z",
-    "url": "https://github.com/arlen-liang/nest-sync"
+    "updated_at": "2026-09-10T13:13:26Z",
+    "url": "https://github.com/ChanTso/citybuddy"
+  },
+  {
+    "description": "\u5bf9\u7f51\u9875deepseek\u7684\u5c01\u88c5\uff0c\u5b9e\u73b0\u514d\u8d39API\u8c03\u7528\u3002\u652f\u6301 OpenAI completions / responses socket\u3002\u53ef\u5de5\u5177\u8c03\u7528\uff0c\u53ef\u63a5\u5165codex\u3001copilot\u3002\u8f7b\u91cf\u81ea\u7528",
+    "id": "madderscientist/WebAI2API",
+    "language": "TypeScript",
+    "name": "madderscientist/WebAI2API",
+    "stars": 26,
+    "updated_at": "2026-09-10T13:12:25Z",
+    "url": "https://github.com/madderscientist/WebAI2API"
   },
   {
     "description": "\u0414\u043e\u0440\u0430\u0431\u043e\u0442\u0430\u043d\u043d\u0430\u044f \u0432\u0435\u0440\u0441\u0438\u044f browser-use: MCP-\u0441\u043b\u043e\u0439 bu_mcp \u043f\u043e\u0432\u0435\u0440\u0445 \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0438 \u2014 20 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u043e\u0432 \u0432\u043c\u0435\u0441\u0442\u043e 5, \u043d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u0435 \u0434\u0435\u0448\u0435\u0432\u043b\u0435 \u0432 0.76",
@@ -45,13 +90,13 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 505,
-    "updated_at": "2026-09-10T13:05:19Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
+    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
+    "id": "memoways/ava-proto1",
+    "language": "TypeScript",
+    "name": "memoways/ava-proto1",
+    "stars": 0,
+    "updated_at": "2026-09-10T13:02:04Z",
+    "url": "https://github.com/memoways/ava-proto1"
   },
   {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
@@ -61,24 +106,6 @@
     "stars": 237,
     "updated_at": "2026-09-10T13:01:53Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-10T13:00:27Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "Policy-driven autopilot for Dependabot PRs and patch releases, with Slack/Discord/Matrix digests",
-    "id": "no42-org/twiki",
-    "language": "TypeScript",
-    "name": "no42-org/twiki",
-    "stars": 0,
-    "updated_at": "2026-09-10T12:44:35Z",
-    "url": "https://github.com/no42-org/twiki"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -95,7 +122,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-09-10T12:44:56Z",
+    "updated_at": "2026-09-10T13:27:26Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -401,7 +428,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4412,
-    "updated_at": "2026-09-10T13:15:18Z",
+    "updated_at": "2026-09-10T13:25:41Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 805,
     "updated_at": "2026-09-10T13:03:16Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "CNIPA \u4e2d\u56fd\u53d1\u660e\u4e13\u5229\u7533\u8bf7\u5168\u6d41\u7a0b Agent Skill\uff1a\u5728\u5148\u4e13\u5229\u5212\u754c \u2192 \u4e94\u4e66\u64b0\u5199 \u2192 300DPI \u9ed1\u767d\u7ebf\u6761\u9644\u56fe \u2192 \u6570\u636e\u6eaf\u6e90 \u2192 \u63d0\u4ea4\u5e95\u7a3f\u4e0e\u56de\u5f52\u6821\u9a8c \u2192 \u63d0\u4ea4\u540e\u901a\u77e5\u4e66\u63a5\u6536\u4e0e\u6cd5\u5b9a\u671f\u9650\u7ba1\u7406\u3002An Agent Skill for draf",
-    "id": "faruheaisha/cnipa-patent-kit",
-    "language": "Python",
-    "name": "faruheaisha/cnipa-patent-kit",
-    "stars": 1,
-    "updated_at": "2026-09-10T10:57:22Z",
-    "url": "https://github.com/faruheaisha/cnipa-patent-kit"
-  },
-  {
-    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
-    "id": "wufufu770/d2d",
-    "language": "JavaScript",
-    "name": "wufufu770/d2d",
-    "stars": 0,
-    "updated_at": "2026-09-10T10:48:53Z",
-    "url": "https://github.com/wufufu770/d2d"
-  },
-  {
-    "description": "PECS: \u57fa\u4e8e LangGraph \u7684\u56db\u89d2\u8272\u591a\u667a\u80fd\u4f53\u4efb\u52a1\u6c42\u89e3\u6846\u67b6\uff08Planner/Executor/Critic/Synthesizer\uff09\u3002WebShop \u771f\u5b9e\u73af\u5883 +25pp (25% vs 0%)\uff1bGAIA \u5b98\u65b9 53 \u9898 26.4%",
-    "id": "paopao-13/pecs-multi-agent",
-    "language": "Python",
-    "name": "paopao-13/pecs-multi-agent",
-    "stars": 0,
-    "updated_at": "2026-09-10T10:41:15Z",
-    "url": "https://github.com/paopao-13/pecs-multi-agent"
   }
 ]
