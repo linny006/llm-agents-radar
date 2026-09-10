@@ -1,5 +1,59 @@
 [
   {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-09-10T07:14:39Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-09-10T07:10:22Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-09-10T07:09:47Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-09-10T07:09:44Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 1,
+    "updated_at": "2026-09-10T07:03:52Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-10T07:03:06Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
     "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
     "id": "AlanFokCo/agentscope-go",
     "language": "Go",
@@ -13,7 +67,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 31253,
+    "stars": 31257,
     "updated_at": "2026-09-10T06:57:13Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -25,15 +79,6 @@
     "stars": 432,
     "updated_at": "2026-09-10T06:56:43Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-10T06:55:50Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "An AI agent that answers natural-language questions about Seattle civic data \u2014 it writes and runs its own SQL, calls a t",
@@ -50,7 +95,7 @@
     "language": "Python",
     "name": "hsaghir/looplet",
     "stars": 6,
-    "updated_at": "2026-09-10T06:54:20Z",
+    "updated_at": "2026-09-10T07:03:29Z",
     "url": "https://github.com/hsaghir/looplet"
   },
   {
@@ -90,15 +135,6 @@
     "url": "https://github.com/nesirli/metascholar"
   },
   {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-09-10T06:59:34Z",
-    "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
     "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
     "id": "KaletoAI/anima-verse",
     "language": "Python",
@@ -108,6 +144,15 @@
     "url": "https://github.com/KaletoAI/anima-verse"
   },
   {
+    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
+    "id": "feder-cr/AIHawk",
+    "language": "Python",
+    "name": "feder-cr/AIHawk",
+    "stars": 30333,
+    "updated_at": "2026-09-10T06:24:39Z",
+    "url": "https://github.com/feder-cr/AIHawk"
+  },
+  {
     "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
     "id": "ljedrz/nachalnik",
     "language": "Rust",
@@ -115,15 +160,6 @@
     "stars": 4,
     "updated_at": "2026-09-10T06:20:11Z",
     "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
-    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
-    "id": "feder-cr/AIHawk",
-    "language": "Python",
-    "name": "feder-cr/AIHawk",
-    "stars": 30334,
-    "updated_at": "2026-09-10T06:24:39Z",
-    "url": "https://github.com/feder-cr/AIHawk"
   },
   {
     "description": "Agentic pentest/red-team framework orchestrated by Claude Code \u2014 automated recon, hunt, validate, and report workflow wi",
@@ -412,41 +448,5 @@
     "stars": 337,
     "updated_at": "2026-09-10T05:31:43Z",
     "url": "https://github.com/monocle2ai/monocle"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-09-10T05:30:12Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "\ud83d\udc27 is currently a work in progress... Stay tuned! ",
-    "id": "Maximooch/penguin",
-    "language": "Python",
-    "name": "Maximooch/penguin",
-    "stars": 6,
-    "updated_at": "2026-09-10T05:29:28Z",
-    "url": "https://github.com/Maximooch/penguin"
-  },
-  {
-    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 34,
-    "updated_at": "2026-09-10T05:29:56Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
-    "description": "Enterprise Data Agent: NL \u2192 contract-bound DSL \u2192 deterministic SQL \u2192 DuckDB. StateGraph orchestration, sandboxed analysi",
-    "id": "Cwentor/DataAgent",
-    "language": "Python",
-    "name": "Cwentor/DataAgent",
-    "stars": 1,
-    "updated_at": "2026-09-10T05:35:36Z",
-    "url": "https://github.com/Cwentor/DataAgent"
   }
 ]
