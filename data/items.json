@@ -1,11 +1,47 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-10T17:12:35Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "An in-process bridge giving an AI agent real access to a modded Minecraft world - including mod APIs a protocol-level bo",
+    "id": "max-champlin/ghost",
+    "language": "Java",
+    "name": "max-champlin/ghost",
+    "stars": 0,
+    "updated_at": "2026-09-10T17:03:40Z",
+    "url": "https://github.com/max-champlin/ghost"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "TypeScript",
+    "name": "dsswift/ion",
+    "stars": 4,
+    "updated_at": "2026-09-10T17:02:13Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "Distilly \u2014 Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill\uff08\u539f\u540c\u4e8b Skill\uff09.",
+    "id": "titanwings/distilly",
+    "language": "TypeScript",
+    "name": "titanwings/distilly",
+    "stars": 24593,
+    "updated_at": "2026-09-10T17:12:53Z",
+    "url": "https://github.com/titanwings/distilly"
+  },
+  {
     "description": "Control AI agents anywhere. (github mirror)",
     "id": "justacalico/devinorium",
     "language": "Dart",
     "name": "justacalico/devinorium",
     "stars": 1,
-    "updated_at": "2026-09-10T16:52:26Z",
+    "updated_at": "2026-09-10T17:10:25Z",
     "url": "https://github.com/justacalico/devinorium"
   },
   {
@@ -59,7 +95,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4412,
-    "updated_at": "2026-09-10T16:56:14Z",
+    "updated_at": "2026-09-10T17:00:51Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -148,7 +184,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 1186,
+    "stars": 1187,
     "updated_at": "2026-09-10T16:13:50Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -223,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-09-10T15:48:53Z",
     "url": "https://github.com/EpsteinF1les/tts"
-  },
-  {
-    "description": "An in-process bridge giving an AI agent real access to a modded Minecraft world - including mod APIs a protocol-level bo",
-    "id": "max-champlin/ghost",
-    "language": "Java",
-    "name": "max-champlin/ghost",
-    "stars": 0,
-    "updated_at": "2026-09-10T15:48:49Z",
-    "url": "https://github.com/max-champlin/ghost"
   },
   {
     "description": "A persistent agent runtime and its official CLI. Three packages: @echo-agent/core (runtime/SDK, zero runtime dependencie",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-10T15:12:25Z",
     "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-09-10T15:11:06Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "Controllable and Transparent LLM Application Framework",
-    "id": "gumblex/aitoolman",
-    "language": "Python",
-    "name": "gumblex/aitoolman",
-    "stars": 4,
-    "updated_at": "2026-09-10T15:26:42Z",
-    "url": "https://github.com/gumblex/aitoolman"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-09-10T15:06:43Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
   }
 ]
