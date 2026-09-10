@@ -1,5 +1,50 @@
 [
   {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 28,
+    "updated_at": "2026-09-10T20:26:27Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
+    "id": "hsaghir/looplet",
+    "language": "Python",
+    "name": "hsaghir/looplet",
+    "stars": 6,
+    "updated_at": "2026-09-10T20:20:35Z",
+    "url": "https://github.com/hsaghir/looplet"
+  },
+  {
+    "description": "Individualized worksheets for educational and therapeutic professionals - from a support goal, level and age (ICF-aware)",
+    "id": "ellmos-ai/worksheet-generator",
+    "language": "Python",
+    "name": "ellmos-ai/worksheet-generator",
+    "stars": 1,
+    "updated_at": "2026-09-10T20:19:59Z",
+    "url": "https://github.com/ellmos-ai/worksheet-generator"
+  },
+  {
+    "description": "An agentic OBD-II scanner that never makes anything up. Bring your own model, read every module on the bus, and click an",
+    "id": "christianOrona/wtfault-scanner",
+    "language": "Rust",
+    "name": "christianOrona/wtfault-scanner",
+    "stars": 1,
+    "updated_at": "2026-09-10T20:16:52Z",
+    "url": "https://github.com/christianOrona/wtfault-scanner"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-10T20:16:43Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
@@ -23,7 +68,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-09-10T20:06:50Z",
+    "updated_at": "2026-09-10T20:30:11Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -32,7 +77,7 @@
     "language": "Dart",
     "name": "justacalico/devinorium",
     "stars": 1,
-    "updated_at": "2026-09-10T20:05:17Z",
+    "updated_at": "2026-09-10T20:29:16Z",
     "url": "https://github.com/justacalico/devinorium"
   },
   {
@@ -95,7 +140,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4411,
-    "updated_at": "2026-09-10T20:15:11Z",
+    "updated_at": "2026-09-10T20:18:37Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -261,15 +306,6 @@
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-10T19:56:35Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "PECS: \u57fa\u4e8e LangGraph \u7684\u56db\u89d2\u8272\u591a\u667a\u80fd\u4f53\u4efb\u52a1\u6c42\u89e3\u6846\u67b6\uff08Planner/Executor/Critic/Synthesizer\uff09\u3002WebShop \u771f\u5b9e\u73af\u5883 +25pp (25% vs 0%)\uff1bGAIA \u5b98\u65b9 53 \u9898 26.4%",
     "id": "paopao-13/pecs-multi-agent",
     "language": "Python",
@@ -410,43 +446,7 @@
     "language": "TypeScript",
     "name": "titanwings/distilly",
     "stars": 24596,
-    "updated_at": "2026-09-10T20:11:31Z",
+    "updated_at": "2026-09-10T20:29:49Z",
     "url": "https://github.com/titanwings/distilly"
-  },
-  {
-    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
-    "id": "watchcat/scout",
-    "language": "Rust",
-    "name": "watchcat/scout",
-    "stars": 0,
-    "updated_at": "2026-09-10T19:00:52Z",
-    "url": "https://github.com/watchcat/scout"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-10T18:54:17Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 438,
-    "updated_at": "2026-09-10T18:46:34Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "A curated list of recent progress and resources on Reinforcement Learning for AI Agents.",
-    "id": "yh-yao/awesome-rl-ai-agents",
-    "language": "\u2014",
-    "name": "yh-yao/awesome-rl-ai-agents",
-    "stars": 7,
-    "updated_at": "2026-09-10T18:44:27Z",
-    "url": "https://github.com/yh-yao/awesome-rl-ai-agents"
   }
 ]
