@@ -1,5 +1,68 @@
 [
   {
+    "description": "\u8de8\u670d\u52a1\u5668 agent \u7684\u6280\u80fd\u5e93\u4e0e\u65e5\u5fd7\u5e93\uff1aGit \u4e3a\u552f\u4e00\u4e8b\u5b9e\u6765\u6e90\uff0c\u89e3\u51b3\u591a\u7aef agent \u7684\u901a\u4fe1\u3001\u5ba1\u8ba1\u4e0e\u6280\u80fd\u8fed\u4ee3\u3002Sync agent skills and project logs across servers \u2014 git as the si",
+    "id": "arlen-liang/nest-sync",
+    "language": "Shell",
+    "name": "arlen-liang/nest-sync",
+    "stars": 1,
+    "updated_at": "2026-09-10T13:53:08Z",
+    "url": "https://github.com/arlen-liang/nest-sync"
+  },
+  {
+    "description": "Desktop GUI Headless Local-first AI coding agent in Rust (axum, tokio, rmcp, portable-pty) behind HTTP + SSE, with an An",
+    "id": "henrykbrzoska/bebok",
+    "language": "Rust",
+    "name": "henrykbrzoska/bebok",
+    "stars": 1,
+    "updated_at": "2026-09-10T13:51:45Z",
+    "url": "https://github.com/henrykbrzoska/bebok"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-09-10T13:50:51Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3262,
+    "updated_at": "2026-09-10T13:50:35Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
+    "description": "Autonomous on-chain AI audit agent for Mantle with ERC-8004 identity. Mantle Turing Test hackathon.",
+    "id": "RECTOR-LABS/conatus",
+    "language": "Solidity",
+    "name": "RECTOR-LABS/conatus",
+    "stars": 1,
+    "updated_at": "2026-09-10T13:47:58Z",
+    "url": "https://github.com/RECTOR-LABS/conatus"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 805,
+    "updated_at": "2026-09-10T13:47:06Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-09-10T13:50:20Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -25,15 +88,6 @@
     "stars": 8,
     "updated_at": "2026-09-10T13:33:07Z",
     "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "\u8de8\u670d\u52a1\u5668 agent \u7684\u6280\u80fd\u5e93\u4e0e\u65e5\u5fd7\u5e93\uff1aGit \u4e3a\u552f\u4e00\u4e8b\u5b9e\u6765\u6e90\uff0c\u89e3\u51b3\u591a\u7aef agent \u7684\u901a\u4fe1\u3001\u5ba1\u8ba1\u4e0e\u6280\u80fd\u8fed\u4ee3\u3002Sync agent skills and project logs across servers \u2014 git as the si",
-    "id": "arlen-liang/nest-sync",
-    "language": "Shell",
-    "name": "arlen-liang/nest-sync",
-    "stars": 1,
-    "updated_at": "2026-09-10T13:28:47Z",
-    "url": "https://github.com/arlen-liang/nest-sync"
   },
   {
     "description": "Policy-driven autopilot for Dependabot PRs and patch releases, with Slack/Discord/Matrix digests",
@@ -124,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-09-10T12:43:37Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-09-10T13:43:26Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -302,7 +347,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-10T11:38:43Z",
+    "updated_at": "2026-09-10T13:51:44Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-10T11:19:33Z",
     "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-09-10T11:15:35Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
-    "id": "SHUKLAO/call-with-ai-agent",
-    "language": "\u2014",
-    "name": "SHUKLAO/call-with-ai-agent",
-    "stars": 3,
-    "updated_at": "2026-09-10T11:11:03Z",
-    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
-    "id": "WP2-Danikusuma/AgentX",
-    "language": "HTML",
-    "name": "WP2-Danikusuma/AgentX",
-    "stars": 2,
-    "updated_at": "2026-09-10T11:10:30Z",
-    "url": "https://github.com/WP2-Danikusuma/AgentX"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4412,
-    "updated_at": "2026-09-10T13:31:40Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
-    "id": "feder-cr/AIHawk",
-    "language": "Python",
-    "name": "feder-cr/AIHawk",
-    "stars": 30335,
-    "updated_at": "2026-09-10T11:03:47Z",
-    "url": "https://github.com/feder-cr/AIHawk"
   }
 ]
