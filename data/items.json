@@ -1,12 +1,21 @@
 [
   {
-    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
-    "id": "Rekin226/Agronaut",
-    "language": "Python",
-    "name": "Rekin226/Agronaut",
-    "stars": 4,
-    "updated_at": "2026-09-10T04:44:14Z",
-    "url": "https://github.com/Rekin226/Agronaut"
+    "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+    "id": "xiaobright/dsh-anchored-standard",
+    "language": "JavaScript",
+    "name": "xiaobright/dsh-anchored-standard",
+    "stars": 3816,
+    "updated_at": "2026-09-10T05:00:13Z",
+    "url": "https://github.com/xiaobright/dsh-anchored-standard"
+  },
+  {
+    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 34,
+    "updated_at": "2026-09-10T04:55:19Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
     "description": "Ouroboros is an Agent Harness, CLI and Desktop App with Self-Improvement layer",
@@ -14,8 +23,98 @@
     "language": "TypeScript",
     "name": "secondorderai/ouroboros",
     "stars": 2,
-    "updated_at": "2026-09-10T04:37:13Z",
+    "updated_at": "2026-09-10T04:54:53Z",
     "url": "https://github.com/secondorderai/ouroboros"
+  },
+  {
+    "description": "Enterprise ChatBI / Data Agent: LLM emits contract-bound DSL only, deterministic compiler \u2192 SQL on DuckDB. Zero hallucin",
+    "id": "Cwentor/DataAgent",
+    "language": "Python",
+    "name": "Cwentor/DataAgent",
+    "stars": 1,
+    "updated_at": "2026-09-10T04:53:59Z",
+    "url": "https://github.com/Cwentor/DataAgent"
+  },
+  {
+    "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
+    "id": "OtakuNathan/Pal",
+    "language": "Python",
+    "name": "OtakuNathan/Pal",
+    "stars": 1,
+    "updated_at": "2026-09-10T04:53:25Z",
+    "url": "https://github.com/OtakuNathan/Pal"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-10T04:53:21Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
+    "id": "hsaghir/looplet",
+    "language": "Python",
+    "name": "hsaghir/looplet",
+    "stars": 6,
+    "updated_at": "2026-09-10T04:52:24Z",
+    "url": "https://github.com/hsaghir/looplet"
+  },
+  {
+    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
+    "id": "Rekin226/Agronaut",
+    "language": "Python",
+    "name": "Rekin226/Agronaut",
+    "stars": 4,
+    "updated_at": "2026-09-10T04:51:28Z",
+    "url": "https://github.com/Rekin226/Agronaut"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-10T04:48:51Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "A persistent agent runtime and its official CLI. Three packages: @echo-agent/core (runtime/SDK, zero runtime dependencie",
+    "id": "echo-yiyi/echo-agent",
+    "language": "TypeScript",
+    "name": "echo-yiyi/echo-agent",
+    "stars": 2,
+    "updated_at": "2026-09-10T04:48:45Z",
+    "url": "https://github.com/echo-yiyi/echo-agent"
+  },
+  {
+    "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
+    "id": "mark-weeks/hello-nested-worlds-adventure",
+    "language": "Python",
+    "name": "mark-weeks/hello-nested-worlds-adventure",
+    "stars": 5,
+    "updated_at": "2026-09-10T04:47:48Z",
+    "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
+  },
+  {
+    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 500,
+    "updated_at": "2026-09-10T04:46:23Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-09-10T04:59:09Z",
+    "url": "https://github.com/kangwoo/aimon-core"
   },
   {
     "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
@@ -25,15 +124,6 @@
     "stars": 4,
     "updated_at": "2026-09-10T04:35:39Z",
     "url": "https://github.com/Torvian-eu/chatbot"
-  },
-  {
-    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
-    "id": "kangwoo/aimon-core",
-    "language": "Java",
-    "name": "kangwoo/aimon-core",
-    "stars": 0,
-    "updated_at": "2026-09-10T04:45:09Z",
-    "url": "https://github.com/kangwoo/aimon-core"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -50,7 +140,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-10T04:41:43Z",
+    "updated_at": "2026-09-10T04:57:43Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -61,24 +151,6 @@
     "stars": 3,
     "updated_at": "2026-09-10T04:29:07Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "A persistent agent runtime and its official CLI. Three packages: @echo-agent/core (runtime/SDK, zero runtime dependencie",
-    "id": "echo-yiyi/echo-agent",
-    "language": "TypeScript",
-    "name": "echo-yiyi/echo-agent",
-    "stars": 2,
-    "updated_at": "2026-09-10T04:27:01Z",
-    "url": "https://github.com/echo-yiyi/echo-agent"
-  },
-  {
-    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 500,
-    "updated_at": "2026-09-10T04:26:35Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
   },
   {
     "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
@@ -135,15 +207,6 @@
     "url": "https://github.com/asim-aa/breakpoint"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-10T04:03:40Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de",
     "id": "Jadema5416/ComfyUI-DLSS5-Enhancer",
     "language": "Python",
@@ -176,7 +239,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-09-10T04:32:00Z",
+    "updated_at": "2026-09-10T04:51:31Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 5912,
     "updated_at": "2026-09-10T03:39:36Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-09-10T03:39:23Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "Professional, evidence-based reviews. A portable skill for Codex, Claude Code, Gemini CLI, and other AI assistants. \u597d\u7528\u7684 ",
-    "id": "jam-cc/paper-review.skill",
-    "language": "\u2014",
-    "name": "jam-cc/paper-review.skill",
-    "stars": 9,
-    "updated_at": "2026-09-10T03:38:50Z",
-    "url": "https://github.com/jam-cc/paper-review.skill"
-  },
-  {
-    "description": "TestDog is a desktop test case management tool: generate UI test scripts from natural language or manual recording, then",
-    "id": "xianyongwen/TestDog",
-    "language": "TypeScript",
-    "name": "xianyongwen/TestDog",
-    "stars": 2,
-    "updated_at": "2026-09-10T03:36:46Z",
-    "url": "https://github.com/xianyongwen/TestDog"
-  },
-  {
-    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
-    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "language": "HTML",
-    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "stars": 0,
-    "updated_at": "2026-09-10T03:35:36Z",
-    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
-    "id": "hasting323/AutoGLM-For-Android",
-    "language": "Kotlin",
-    "name": "hasting323/AutoGLM-For-Android",
-    "stars": 10,
-    "updated_at": "2026-09-10T03:32:17Z",
-    "url": "https://github.com/hasting323/AutoGLM-For-Android"
-  },
-  {
-    "description": "A delivery-discipline behavior layer for AI agents \u2014 turns \u201cthe agent says it's done\u201d into \u201cthe agent proves it's done\u201d:",
-    "id": "JadeYingWah/gpt-series-reasoning-style",
-    "language": "Python",
-    "name": "JadeYingWah/gpt-series-reasoning-style",
-    "stars": 4,
-    "updated_at": "2026-09-10T03:31:13Z",
-    "url": "https://github.com/JadeYingWah/gpt-series-reasoning-style"
-  },
-  {
-    "description": "A self-improving harness for any LLM, in one Rust binary. Persistent Lua REPL as the single tool, three-level memory, pe",
-    "id": "edouard-claude/longe",
-    "language": "Rust",
-    "name": "edouard-claude/longe",
-    "stars": 0,
-    "updated_at": "2026-09-10T03:31:01Z",
-    "url": "https://github.com/edouard-claude/longe"
   }
 ]
