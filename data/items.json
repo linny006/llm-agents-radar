@@ -1,12 +1,129 @@
 [
   {
+    "description": "Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw.",
+    "id": "C-Rhapsody/gemini-connector",
+    "language": "Go",
+    "name": "C-Rhapsody/gemini-connector",
+    "stars": 6,
+    "updated_at": "2026-09-10T09:28:15Z",
+    "url": "https://github.com/C-Rhapsody/gemini-connector"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-09-10T09:26:34Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-09-10T09:24:35Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-09-10T09:22:40Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 663,
+    "updated_at": "2026-09-10T09:29:39Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 168,
+    "updated_at": "2026-09-10T09:21:26Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-09-10T09:21:24Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "Policy-driven autopilot for Dependabot PRs and patch releases, with Slack/Discord/Matrix digests",
+    "id": "no42-org/twiki",
+    "language": "TypeScript",
+    "name": "no42-org/twiki",
+    "stars": 0,
+    "updated_at": "2026-09-10T09:18:37Z",
+    "url": "https://github.com/no42-org/twiki"
+  },
+  {
+    "description": "A persistent agent runtime and its official CLI. Three packages: @echo-agent/core (runtime/SDK, zero runtime dependencie",
+    "id": "echo-yiyi/echo-agent",
+    "language": "TypeScript",
+    "name": "echo-yiyi/echo-agent",
+    "stars": 2,
+    "updated_at": "2026-09-10T09:18:16Z",
+    "url": "https://github.com/echo-yiyi/echo-agent"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-10T09:18:10Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-10T09:17:15Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
     "stars": 236,
-    "updated_at": "2026-09-10T09:14:12Z",
+    "updated_at": "2026-09-10T09:17:06Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-09-10T09:16:56Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-09-10T09:16:23Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
   },
   {
     "description": "Cron scheduling for the DeepSeek Harness \u2014 bounded tasks with calendar & interval rules, delivered to live agents",
@@ -22,7 +139,7 @@
     "id": "agentpit-io/hunter-community",
     "language": "Python",
     "name": "agentpit-io/hunter-community",
-    "stars": 504,
+    "stars": 505,
     "updated_at": "2026-09-10T09:11:59Z",
     "url": "https://github.com/agentpit-io/hunter-community"
   },
@@ -32,7 +149,7 @@
     "language": "Rust",
     "name": "citizenhicks/mobius",
     "stars": 1,
-    "updated_at": "2026-09-10T09:11:00Z",
+    "updated_at": "2026-09-10T09:24:43Z",
     "url": "https://github.com/citizenhicks/mobius"
   },
   {
@@ -61,24 +178,6 @@
     "stars": 34,
     "updated_at": "2026-09-10T09:11:04Z",
     "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-10T09:08:14Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 168,
-    "updated_at": "2026-09-10T09:06:47Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
@@ -117,15 +216,6 @@
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 663,
-    "updated_at": "2026-09-10T08:47:57Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
     "description": "An AI Agent for everyday SWE with minimalist style",
     "id": "thehope2k/minimalist-agent",
     "language": "TypeScript",
@@ -153,15 +243,6 @@
     "url": "https://github.com/emqnuele/projectBEA"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-09-10T09:08:20Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -180,21 +261,12 @@
     "url": "https://github.com/xuqingan91-creator/job-research-agent"
   },
   {
-    "description": "A persistent agent runtime and its official CLI. Three packages: @echo-agent/core (runtime/SDK, zero runtime dependencie",
-    "id": "echo-yiyi/echo-agent",
-    "language": "TypeScript",
-    "name": "echo-yiyi/echo-agent",
-    "stars": 2,
-    "updated_at": "2026-09-10T08:24:50Z",
-    "url": "https://github.com/echo-yiyi/echo-agent"
-  },
-  {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
     "id": "JSL107/personal_agents",
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-10T08:22:13Z",
+    "updated_at": "2026-09-10T09:19:00Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -247,7 +319,7 @@
     "id": "letta-ai/letta",
     "language": "\u2014",
     "name": "letta-ai/letta",
-    "stars": 24686,
+    "stars": 24687,
     "updated_at": "2026-09-10T07:51:48Z",
     "url": "https://github.com/letta-ai/letta"
   },
@@ -329,7 +401,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4411,
-    "updated_at": "2026-09-10T09:13:28Z",
+    "updated_at": "2026-09-10T09:27:51Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-10T07:36:12Z",
     "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-09-10T07:36:05Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 31271,
-    "updated_at": "2026-09-10T07:35:54Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 3,
-    "updated_at": "2026-09-10T07:34:09Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
-    "id": "Torvian-eu/chatbot",
-    "language": "Kotlin",
-    "name": "Torvian-eu/chatbot",
-    "stars": 4,
-    "updated_at": "2026-09-10T07:33:38Z",
-    "url": "https://github.com/Torvian-eu/chatbot"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-09-10T07:30:40Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "A.L.I.C.E. es una asistente de conversaci\u00f3n: escribe o habla, y te responde con claridad. Guarda tus chats, se adapta a ",
-    "id": "hexed-AAL1X/A.L.I.C.E.",
-    "language": "TypeScript",
-    "name": "hexed-AAL1X/A.L.I.C.E.",
-    "stars": 0,
-    "updated_at": "2026-09-10T07:28:31Z",
-    "url": "https://github.com/hexed-AAL1X/A.L.I.C.E."
-  },
-  {
-    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
-    "id": "Danisxxx/comfyUI-LongLook",
-    "language": "Python",
-    "name": "Danisxxx/comfyUI-LongLook",
-    "stars": 2,
-    "updated_at": "2026-09-10T07:25:51Z",
-    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
-  },
-  {
-    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
-    "id": "axxafo/awesome-agent-benchmarks",
-    "language": "\u2014",
-    "name": "axxafo/awesome-agent-benchmarks",
-    "stars": 3,
-    "updated_at": "2026-09-10T07:24:58Z",
-    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
   }
 ]
