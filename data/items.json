@@ -1,5 +1,68 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-10T08:29:54Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "LangGraph-based job research agent with HITL, cost guardrails and eval harness",
+    "id": "xuqingan91-creator/job-research-agent",
+    "language": "Python",
+    "name": "xuqingan91-creator/job-research-agent",
+    "stars": 0,
+    "updated_at": "2026-09-10T08:25:28Z",
+    "url": "https://github.com/xuqingan91-creator/job-research-agent"
+  },
+  {
+    "description": "A persistent agent runtime and its official CLI. Three packages: @echo-agent/core (runtime/SDK, zero runtime dependencie",
+    "id": "echo-yiyi/echo-agent",
+    "language": "TypeScript",
+    "name": "echo-yiyi/echo-agent",
+    "stars": 2,
+    "updated_at": "2026-09-10T08:24:50Z",
+    "url": "https://github.com/echo-yiyi/echo-agent"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-09-10T08:22:13Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "Cron scheduling for the DeepSeek Harness \u2014 bounded tasks with calendar & interval rules, delivered to live agents",
+    "id": "fan56/dsh-cron",
+    "language": "TypeScript",
+    "name": "fan56/dsh-cron",
+    "stars": 0,
+    "updated_at": "2026-09-10T08:19:25Z",
+    "url": "https://github.com/fan56/dsh-cron"
+  },
+  {
+    "description": "\u4ece\u96f6\u5b9e\u73b0 AI \u6838\u5fc3\u7ec4\u4ef6\uff08mini-* \u7cfb\u5217\uff09\uff1aTransformer / Qwen3 / BPE / Agent / RAG / Vector DB\u3002Rebuild AI building blocks from scratch.",
+    "id": "xbsheng/ai-from-scratch",
+    "language": "Python",
+    "name": "xbsheng/ai-from-scratch",
+    "stars": 1,
+    "updated_at": "2026-09-10T08:17:20Z",
+    "url": "https://github.com/xbsheng/ai-from-scratch"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-10T08:29:14Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
     "description": "A delivery-discipline behavior layer for AI agents \u2014 turns \u201cthe agent says it's done\u201d into \u201cthe agent proves it's done\u201d:",
     "id": "JadeYingWah/gpt-series-reasoning-style",
     "language": "Python",
@@ -18,15 +81,6 @@
     "url": "https://github.com/diaban/jobsmith"
   },
   {
-    "description": "\u4ece\u96f6\u5b9e\u73b0 AI \u6838\u5fc3\u7ec4\u4ef6\uff08mini-* \u7cfb\u5217\uff09\uff1aTransformer / Qwen3 / BPE / Agent / RAG / Vector DB\u3002Rebuild AI building blocks from scratch.",
-    "id": "xbsheng/ai-from-scratch",
-    "language": "Python",
-    "name": "xbsheng/ai-from-scratch",
-    "stars": 1,
-    "updated_at": "2026-09-10T08:08:18Z",
-    "url": "https://github.com/xbsheng/ai-from-scratch"
-  },
-  {
     "description": "GPT autonomous research and investigation using starintel",
     "id": "lost-rob0t/starintel-gpt-auto-dig",
     "language": "Python",
@@ -34,6 +88,15 @@
     "stars": 1,
     "updated_at": "2026-09-10T08:05:18Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7189,
+    "updated_at": "2026-09-10T08:00:51Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
@@ -99,15 +162,6 @@
     "url": "https://github.com/letta-ai/letta"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-10T07:59:05Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
     "id": "Vuongngu8186/langgraph-langchain-agent-setup",
     "language": "\u2014",
@@ -142,15 +196,6 @@
     "stars": 5,
     "updated_at": "2026-09-10T07:45:12Z",
     "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
-  },
-  {
-    "description": "LangGraph-based job research agent with HITL, cost guardrails and eval harness",
-    "id": "xuqingan91-creator/job-research-agent",
-    "language": "Python",
-    "name": "xuqingan91-creator/job-research-agent",
-    "stars": 0,
-    "updated_at": "2026-09-10T07:44:09Z",
-    "url": "https://github.com/xuqingan91-creator/job-research-agent"
   },
   {
     "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
@@ -221,7 +266,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5748,
-    "updated_at": "2026-09-10T07:38:15Z",
+    "updated_at": "2026-09-10T08:26:18Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -247,7 +292,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 31262,
+    "stars": 31263,
     "updated_at": "2026-09-10T07:35:54Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -315,15 +360,6 @@
     "url": "https://github.com/axxafo/awesome-agent-benchmarks"
   },
   {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-09-10T08:09:54Z",
-    "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
     "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
     "id": "yigido41/agentic-ai",
     "language": "Python",
@@ -387,15 +423,6 @@
     "url": "https://github.com/WP2-Danikusuma/AgentX"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-10T08:15:11Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
     "id": "AlanFokCo/agentscope-go",
     "language": "Go",
@@ -409,7 +436,7 @@
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 434,
+    "stars": 435,
     "updated_at": "2026-09-10T06:56:43Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-10T06:55:41Z",
     "url": "https://github.com/CarlosRM25/analytics-AI-Agent-"
-  },
-  {
-    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
-    "id": "hsaghir/looplet",
-    "language": "Python",
-    "name": "hsaghir/looplet",
-    "stars": 6,
-    "updated_at": "2026-09-10T07:20:20Z",
-    "url": "https://github.com/hsaghir/looplet"
-  },
-  {
-    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 503,
-    "updated_at": "2026-09-10T06:53:05Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
-  },
-  {
-    "description": "A 3D civilization simulation where AI agents model a society end to end, then get red-teamed for hidden assumptions. Thr",
-    "id": "utamir/aicivilization",
-    "language": "TypeScript",
-    "name": "utamir/aicivilization",
-    "stars": 2,
-    "updated_at": "2026-09-10T06:45:04Z",
-    "url": "https://github.com/utamir/aicivilization"
   }
 ]
