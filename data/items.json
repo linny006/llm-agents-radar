@@ -1,5 +1,68 @@
 [
   {
+    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
+    "id": "Danisxxx/comfyUI-LongLook",
+    "language": "Python",
+    "name": "Danisxxx/comfyUI-LongLook",
+    "stars": 2,
+    "updated_at": "2026-09-10T19:26:53Z",
+    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
+  },
+  {
+    "description": "Cross-agent plugin for manually excluding and editing AI conversation context, with search, filtering, hide/restore, und",
+    "id": "jermaine123123/agent-context-editor",
+    "language": "TypeScript",
+    "name": "jermaine123123/agent-context-editor",
+    "stars": 60,
+    "updated_at": "2026-09-10T19:26:12Z",
+    "url": "https://github.com/jermaine123123/agent-context-editor"
+  },
+  {
+    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
+    "id": "axxafo/awesome-agent-benchmarks",
+    "language": "\u2014",
+    "name": "axxafo/awesome-agent-benchmarks",
+    "stars": 3,
+    "updated_at": "2026-09-10T19:26:00Z",
+    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-09-10T19:25:24Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-09-10T19:20:18Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-09-10T19:18:19Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "\u7eaf Kotlin \u539f\u751f Android AI \u667a\u80fd\u4f53\uff1a\u591a\u6a21\u578b\u63a5\u5165\u3001\u5b50\u667a\u80fd\u4f53\u534f\u4f5c\u3001\u5728\u7ebf\u63d2\u4ef6\u5e02\u573a\u3001\u6280\u80fd\u81ea\u52a8\u5f15\u7528\u3001root/Ubuntu \u7ec8\u7aef\u3001\u957f\u671f\u8bb0\u5fc6",
+    "id": "kusesad-1122/XINCODE-Public",
+    "language": "C",
+    "name": "kusesad-1122/XINCODE-Public",
+    "stars": 20,
+    "updated_at": "2026-09-10T19:17:33Z",
+    "url": "https://github.com/kusesad-1122/XINCODE-Public"
+  },
+  {
     "description": "",
     "id": "sanitprime/Advanced_Graph_RAG",
     "language": "Python",
@@ -54,6 +117,15 @@
     "url": "https://github.com/sunnnn2005/data-quality-agent"
   },
   {
+    "description": "Distilly \u2014 Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill\uff08\u539f\u540c\u4e8b Skill\uff09.",
+    "id": "titanwings/distilly",
+    "language": "TypeScript",
+    "name": "titanwings/distilly",
+    "stars": 24596,
+    "updated_at": "2026-09-10T19:08:20Z",
+    "url": "https://github.com/titanwings/distilly"
+  },
+  {
     "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
     "id": "watchcat/scout",
     "language": "Rust",
@@ -61,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-10T19:00:52Z",
     "url": "https://github.com/watchcat/scout"
-  },
-  {
-    "description": "\u7eaf Kotlin \u539f\u751f Android AI \u667a\u80fd\u4f53\uff1a\u591a\u6a21\u578b\u63a5\u5165\u3001\u5b50\u667a\u80fd\u4f53\u534f\u4f5c\u3001\u5728\u7ebf\u63d2\u4ef6\u5e02\u573a\u3001\u6280\u80fd\u81ea\u52a8\u5f15\u7528\u3001root/Ubuntu \u7ec8\u7aef\u3001\u957f\u671f\u8bb0\u5fc6",
-    "id": "kusesad-1122/XINCODE-Public",
-    "language": "C",
-    "name": "kusesad-1122/XINCODE-Public",
-    "stars": 20,
-    "updated_at": "2026-09-10T18:59:56Z",
-    "url": "https://github.com/kusesad-1122/XINCODE-Public"
   },
   {
     "description": "PECS: \u57fa\u4e8e LangGraph \u7684\u56db\u89d2\u8272\u591a\u667a\u80fd\u4f53\u4efb\u52a1\u6c42\u89e3\u6846\u67b6\uff08Planner/Executor/Critic/Synthesizer\uff09\u3002WebShop \u771f\u5b9e\u73af\u5883 +25pp (25% vs 0%)\uff1bGAIA \u5b98\u65b9 53 \u9898 26.4%",
@@ -104,7 +167,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-09-10T19:14:47Z",
+    "updated_at": "2026-09-10T19:25:26Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -117,21 +180,12 @@
     "url": "https://github.com/b-macker/NAAb"
   },
   {
-    "description": "Distilly \u2014 Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill\uff08\u539f\u540c\u4e8b Skill\uff09.",
-    "id": "titanwings/distilly",
-    "language": "TypeScript",
-    "name": "titanwings/distilly",
-    "stars": 24595,
-    "updated_at": "2026-09-10T19:08:20Z",
-    "url": "https://github.com/titanwings/distilly"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-10T18:30:02Z",
+    "updated_at": "2026-09-10T19:18:40Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -140,7 +194,7 @@
     "language": "Rust",
     "name": "aviskaar/zorp",
     "stars": 3,
-    "updated_at": "2026-09-10T18:58:17Z",
+    "updated_at": "2026-09-10T19:29:05Z",
     "url": "https://github.com/aviskaar/zorp"
   },
   {
@@ -175,7 +229,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7194,
+    "stars": 7195,
     "updated_at": "2026-09-10T18:10:29Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -342,24 +396,6 @@
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
-    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
-    "id": "Danisxxx/comfyUI-LongLook",
-    "language": "Python",
-    "name": "Danisxxx/comfyUI-LongLook",
-    "stars": 2,
-    "updated_at": "2026-09-10T17:37:25Z",
-    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
-  },
-  {
-    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
-    "id": "axxafo/awesome-agent-benchmarks",
-    "language": "\u2014",
-    "name": "axxafo/awesome-agent-benchmarks",
-    "stars": 3,
-    "updated_at": "2026-09-10T17:36:23Z",
-    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
     "description": "Agentic i18n localization translation & validation pipeline console (ICU parser & LLM-as-a-Judge)",
     "id": "devcy0922/lingo-agent",
     "language": "Python",
@@ -376,24 +412,6 @@
     "stars": 4,
     "updated_at": "2026-09-10T17:31:36Z",
     "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-09-10T17:30:45Z",
-    "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-09-10T17:28:33Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-10T17:02:13Z",
     "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "Control AI agents anywhere. (github mirror)",
-    "id": "justacalico/devinorium",
-    "language": "Dart",
-    "name": "justacalico/devinorium",
-    "stars": 1,
-    "updated_at": "2026-09-10T18:59:46Z",
-    "url": "https://github.com/justacalico/devinorium"
-  },
-  {
-    "description": "Local sidecar for AI Agents that will save up to 29% less tokens and will fix your LLM-based agent mess before it happen",
-    "id": "jakubkrzysztofsikora/reasoning-core",
-    "language": "Python",
-    "name": "jakubkrzysztofsikora/reasoning-core",
-    "stars": 6,
-    "updated_at": "2026-09-10T16:50:34Z",
-    "url": "https://github.com/jakubkrzysztofsikora/reasoning-core"
   }
 ]
