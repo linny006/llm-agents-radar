@@ -1,11 +1,65 @@
 [
   {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-09-10T04:29:27Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 3,
+    "updated_at": "2026-09-10T04:29:07Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-09-10T04:28:10Z",
+    "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
+    "description": "A persistent agent runtime and its official CLI. Three packages: @echo-agent/core (runtime/SDK, zero runtime dependencie",
+    "id": "echo-yiyi/echo-agent",
+    "language": "TypeScript",
+    "name": "echo-yiyi/echo-agent",
+    "stars": 2,
+    "updated_at": "2026-09-10T04:27:01Z",
+    "url": "https://github.com/echo-yiyi/echo-agent"
+  },
+  {
+    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 500,
+    "updated_at": "2026-09-10T04:26:35Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 6,
+    "updated_at": "2026-09-10T04:20:24Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
     "description": "Control AI agents anywhere. (github mirror)",
     "id": "justacalico/devinorium",
     "language": "Dart",
     "name": "justacalico/devinorium",
     "stars": 1,
-    "updated_at": "2026-09-10T04:13:56Z",
+    "updated_at": "2026-09-10T04:25:57Z",
     "url": "https://github.com/justacalico/devinorium"
   },
   {
@@ -27,15 +81,6 @@
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
-    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 500,
-    "updated_at": "2026-09-10T04:06:14Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
-  },
-  {
     "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
     "id": "Rekin226/Agronaut",
     "language": "Python",
@@ -43,15 +88,6 @@
     "stars": 4,
     "updated_at": "2026-09-10T04:05:59Z",
     "url": "https://github.com/Rekin226/Agronaut"
-  },
-  {
-    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
-    "id": "kangwoo/aimon-core",
-    "language": "Java",
-    "name": "kangwoo/aimon-core",
-    "stars": 0,
-    "updated_at": "2026-09-10T04:15:10Z",
-    "url": "https://github.com/kangwoo/aimon-core"
   },
   {
     "description": "Connect Claude Code, Cursor, and Codex to Workflow (workflow.games): your AI coding agent plans requirements, files bugs",
@@ -360,15 +396,6 @@
     "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
   },
   {
-    "description": "A persistent agent runtime and its official CLI. Three packages: @echo-agent/core (runtime/SDK, zero runtime dependencie",
-    "id": "echo-yiyi/echo-agent",
-    "language": "TypeScript",
-    "name": "echo-yiyi/echo-agent",
-    "stars": 2,
-    "updated_at": "2026-09-10T04:09:11Z",
-    "url": "https://github.com/echo-yiyi/echo-agent"
-  },
-  {
     "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
     "id": "hasting323/AutoGLM-For-Android",
     "language": "Kotlin",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-10T03:24:22Z",
     "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 430,
-    "updated_at": "2026-09-10T03:20:15Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "An agentic OBD-II scanner that never makes anything up. Bring your own model, read every module on the bus, and click an",
-    "id": "christianOrona/wtfault-scanner",
-    "language": "Rust",
-    "name": "christianOrona/wtfault-scanner",
-    "stars": 1,
-    "updated_at": "2026-09-10T03:05:06Z",
-    "url": "https://github.com/christianOrona/wtfault-scanner"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-10T03:03:50Z",
-    "url": "https://github.com/tomcounsell/ai"
   }
 ]
