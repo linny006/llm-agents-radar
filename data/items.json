@@ -1,5 +1,32 @@
 [
   {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-09-10T21:09:08Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-09-10T21:08:27Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "An agentic OBD-II scanner that never makes anything up. Bring your own model, read every module on the bus, and click an",
+    "id": "christianOrona/wtfault-scanner",
+    "language": "Rust",
+    "name": "christianOrona/wtfault-scanner",
+    "stars": 1,
+    "updated_at": "2026-09-10T21:07:21Z",
+    "url": "https://github.com/christianOrona/wtfault-scanner"
+  },
+  {
     "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
     "id": "monocle2ai/monocle",
     "language": "Python",
@@ -23,7 +50,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4411,
-    "updated_at": "2026-09-10T20:57:54Z",
+    "updated_at": "2026-09-10T21:01:01Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -32,7 +59,7 @@
     "language": "Dart",
     "name": "justacalico/devinorium",
     "stars": 1,
-    "updated_at": "2026-09-10T20:53:21Z",
+    "updated_at": "2026-09-10T21:14:03Z",
     "url": "https://github.com/justacalico/devinorium"
   },
   {
@@ -50,7 +77,7 @@
     "language": "Rust",
     "name": "citizenhicks/mobius",
     "stars": 1,
-    "updated_at": "2026-09-10T20:58:49Z",
+    "updated_at": "2026-09-10T21:04:46Z",
     "url": "https://github.com/citizenhicks/mobius"
   },
   {
@@ -104,7 +131,7 @@
     "language": "Python",
     "name": "hsaghir/looplet",
     "stars": 6,
-    "updated_at": "2026-09-10T20:20:35Z",
+    "updated_at": "2026-09-10T21:07:49Z",
     "url": "https://github.com/hsaghir/looplet"
   },
   {
@@ -115,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-09-10T20:19:59Z",
     "url": "https://github.com/ellmos-ai/worksheet-generator"
-  },
-  {
-    "description": "An agentic OBD-II scanner that never makes anything up. Bring your own model, read every module on the bus, and click an",
-    "id": "christianOrona/wtfault-scanner",
-    "language": "Rust",
-    "name": "christianOrona/wtfault-scanner",
-    "stars": 1,
-    "updated_at": "2026-09-10T20:16:52Z",
-    "url": "https://github.com/christianOrona/wtfault-scanner"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -140,7 +158,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 670,
-    "updated_at": "2026-09-10T20:45:14Z",
+    "updated_at": "2026-09-10T21:00:57Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-10T19:14:39Z",
     "url": "https://github.com/diaban/jobsmith"
-  },
-  {
-    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
-    "id": "SHUKLAO/call-with-ai-agent",
-    "language": "\u2014",
-    "name": "SHUKLAO/call-with-ai-agent",
-    "stars": 3,
-    "updated_at": "2026-09-10T19:10:20Z",
-    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "Build your own always-on personal AI OS: a self-hosted agent that dispatches coding tasks, maintains a git-Markdown know",
-    "id": "csnyder256/RAG-OS",
-    "language": "Python",
-    "name": "csnyder256/RAG-OS",
-    "stars": 4,
-    "updated_at": "2026-09-10T19:09:45Z",
-    "url": "https://github.com/csnyder256/RAG-OS"
   }
 ]
