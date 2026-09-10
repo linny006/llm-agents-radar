@@ -1,5 +1,95 @@
 [
   {
+    "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
+    "id": "SugarMGP/MumuBot",
+    "language": "Go",
+    "name": "SugarMGP/MumuBot",
+    "stars": 22,
+    "updated_at": "2026-09-10T14:29:35Z",
+    "url": "https://github.com/SugarMGP/MumuBot"
+  },
+  {
+    "description": "Agentic Theorem Prover for Rocq for Program Verification",
+    "id": "NUS-Program-Verification/AutoRocq",
+    "language": "Python",
+    "name": "NUS-Program-Verification/AutoRocq",
+    "stars": 29,
+    "updated_at": "2026-09-10T14:22:38Z",
+    "url": "https://github.com/NUS-Program-Verification/AutoRocq"
+  },
+  {
+    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
+    "id": "watchcat/scout",
+    "language": "Rust",
+    "name": "watchcat/scout",
+    "stars": 0,
+    "updated_at": "2026-09-10T14:22:33Z",
+    "url": "https://github.com/watchcat/scout"
+  },
+  {
+    "description": "Talk to your organization's data \u2014 agentic analytics assistant over StarRocks, with Claude via Azure AI Foundry and an O",
+    "id": "leonardomb1/perguntai",
+    "language": "TypeScript",
+    "name": "leonardomb1/perguntai",
+    "stars": 0,
+    "updated_at": "2026-09-10T14:20:53Z",
+    "url": "https://github.com/leonardomb1/perguntai"
+  },
+  {
+    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 505,
+    "updated_at": "2026-09-10T14:20:52Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 805,
+    "updated_at": "2026-09-10T14:17:22Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
+    "id": "KaletoAI/anima-verse",
+    "language": "Python",
+    "name": "KaletoAI/anima-verse",
+    "stars": 4,
+    "updated_at": "2026-09-10T14:15:25Z",
+    "url": "https://github.com/KaletoAI/anima-verse"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 126,
+    "updated_at": "2026-09-10T14:13:21Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 3,
+    "updated_at": "2026-09-10T14:12:26Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 11,
+    "updated_at": "2026-09-10T14:11:55Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
     "description": "\u591a\u53f0\u670d\u52a1\u5668\u4e0a\u7684 agent \u5982\u4f55\u5171\u4eab\u540c\u4e00\u4efd\u4e0a\u4e0b\u6587\u4e0e\u6280\u80fd\uff1a\u4ece\u5907\u5fd8\u5f55\u5524\u56de\u3001\u6280\u80fd\u8fed\u4ee3\u5206\u53d1\u5230\u8de8\u7aef\u901a\u4fe1\u7684\u81ea\u6258\u7ba1\u65b9\u6848\u3002How agents on different servers share one set of context and skills",
     "id": "arlen-liang/nest-sync",
     "language": "Shell",
@@ -13,7 +103,7 @@
     "id": "arlen-liang/skill-authoring",
     "language": "\u2014",
     "name": "arlen-liang/skill-authoring",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-09-10T14:10:56Z",
     "url": "https://github.com/arlen-liang/skill-authoring"
   },
@@ -23,7 +113,7 @@
     "language": "Go",
     "name": "C-Rhapsody/gemini-connector",
     "stars": 6,
-    "updated_at": "2026-09-10T14:10:49Z",
+    "updated_at": "2026-09-10T14:16:51Z",
     "url": "https://github.com/C-Rhapsody/gemini-connector"
   },
   {
@@ -34,15 +124,6 @@
     "stars": 10,
     "updated_at": "2026-09-10T14:07:44Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 505,
-    "updated_at": "2026-09-10T14:02:13Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
   },
   {
     "description": "Desktop GUI Headless Local-first AI coding agent in Rust (axum, tokio, rmcp, portable-pty) behind HTTP + SSE, with an An",
@@ -79,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-09-10T13:47:58Z",
     "url": "https://github.com/RECTOR-LABS/conatus"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 805,
-    "updated_at": "2026-09-10T14:14:46Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -234,15 +306,6 @@
     "url": "https://github.com/citizenhicks/mobius"
   },
   {
-    "description": "Agentic Theorem Prover for Rocq for Program Verification",
-    "id": "NUS-Program-Verification/AutoRocq",
-    "language": "Python",
-    "name": "NUS-Program-Verification/AutoRocq",
-    "stars": 29,
-    "updated_at": "2026-09-10T12:17:01Z",
-    "url": "https://github.com/NUS-Program-Verification/AutoRocq"
-  },
-  {
     "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
     "id": "hoshiyomiX/stellar-trails",
     "language": "Shell",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-10T11:38:01Z",
     "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-09-10T11:37:48Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 3,
-    "updated_at": "2026-09-10T11:35:48Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "An autonomous Lean 4 theorem-proving agent: LLM-drafted proofs iteratively repaired against lake compiler diagnostics wi",
-    "id": "Lean-Prover/lean-prover",
-    "language": "Python",
-    "name": "Lean-Prover/lean-prover",
-    "stars": 1,
-    "updated_at": "2026-09-10T11:33:08Z",
-    "url": "https://github.com/Lean-Prover/lean-prover"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-09-10T11:32:14Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "LLM-powered TeamSpeak bot | LLM\u9a71\u52a8\u7684TeamSpeak\u673a\u5668\u4eba",
-    "id": "Dr1mH4X/TeamSpeakClaw",
-    "language": "Rust",
-    "name": "Dr1mH4X/TeamSpeakClaw",
-    "stars": 6,
-    "updated_at": "2026-09-10T11:31:25Z",
-    "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
-  },
-  {
-    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
-    "id": "Danisxxx/comfyUI-LongLook",
-    "language": "Python",
-    "name": "Danisxxx/comfyUI-LongLook",
-    "stars": 2,
-    "updated_at": "2026-09-10T11:27:16Z",
-    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
-  },
-  {
-    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
-    "id": "axxafo/awesome-agent-benchmarks",
-    "language": "\u2014",
-    "name": "axxafo/awesome-agent-benchmarks",
-    "stars": 3,
-    "updated_at": "2026-09-10T11:26:20Z",
-    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
   }
 ]
