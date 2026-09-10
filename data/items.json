@@ -1,12 +1,48 @@
 [
   {
-    "description": "\u8de8\u670d\u52a1\u5668 agent \u7684\u6280\u80fd\u5e93\u4e0e\u65e5\u5fd7\u5e93\uff1aGit \u4e3a\u552f\u4e00\u4e8b\u5b9e\u6765\u6e90\uff0c\u89e3\u51b3\u591a\u7aef agent \u7684\u901a\u4fe1\u3001\u5ba1\u8ba1\u4e0e\u6280\u80fd\u8fed\u4ee3\u3002Sync agent skills and project logs across servers \u2014 git as the si",
+    "description": "\u591a\u53f0\u670d\u52a1\u5668\u4e0a\u7684 agent \u5982\u4f55\u5171\u4eab\u540c\u4e00\u4efd\u4e0a\u4e0b\u6587\u4e0e\u6280\u80fd\uff1a\u4ece\u5907\u5fd8\u5f55\u5524\u56de\u3001\u6280\u80fd\u8fed\u4ee3\u5206\u53d1\u5230\u8de8\u7aef\u901a\u4fe1\u7684\u81ea\u6258\u7ba1\u65b9\u6848\u3002How agents on different servers share one set of context and skills",
     "id": "arlen-liang/nest-sync",
     "language": "Shell",
     "name": "arlen-liang/nest-sync",
     "stars": 1,
-    "updated_at": "2026-09-10T13:53:08Z",
+    "updated_at": "2026-09-10T14:11:54Z",
     "url": "https://github.com/arlen-liang/nest-sync"
+  },
+  {
+    "description": "\u8ba9\u6bcf\u6b21\u5b9e\u64cd\u6c89\u6dc0\u4e3a\u53ef\u590d\u7528\u7684\u6280\u80fd\uff1a\u4e00\u4e2a\u5199\u6280\u80fd\u7684\u6280\u80fd\uff0c\u4e0e nest-sync \u642d\u914d\u6784\u6210\u6280\u80fd\u751f\u547d\u5468\u671f\u7684\u4e24\u6bb5\u2014\u2014\u957f\u51fa\u6765\uff0c\u5206\u53d1\u4e0b\u53bb\u3002Turn real work into accumulating agent skills \u2014 a meta-skill",
+    "id": "arlen-liang/skill-authoring",
+    "language": "\u2014",
+    "name": "arlen-liang/skill-authoring",
+    "stars": 0,
+    "updated_at": "2026-09-10T14:10:56Z",
+    "url": "https://github.com/arlen-liang/skill-authoring"
+  },
+  {
+    "description": "Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw.",
+    "id": "C-Rhapsody/gemini-connector",
+    "language": "Go",
+    "name": "C-Rhapsody/gemini-connector",
+    "stars": 6,
+    "updated_at": "2026-09-10T14:10:49Z",
+    "url": "https://github.com/C-Rhapsody/gemini-connector"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-10T14:07:44Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 505,
+    "updated_at": "2026-09-10T14:02:13Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
   },
   {
     "description": "Desktop GUI Headless Local-first AI coding agent in Rust (axum, tokio, rmcp, portable-pty) behind HTTP + SSE, with an An",
@@ -50,7 +86,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 805,
-    "updated_at": "2026-09-10T13:47:06Z",
+    "updated_at": "2026-09-10T14:14:46Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -99,13 +135,13 @@
     "url": "https://github.com/no42-org/twiki"
   },
   {
-    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
-    "id": "agentpit-io/hunter-community",
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
     "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 505,
-    "updated_at": "2026-09-10T13:19:07Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
+    "name": "Fzkuji/OpenProgram",
+    "stars": 435,
+    "updated_at": "2026-09-10T13:21:38Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Connect Claude Code, Cursor, and Codex to Workflow (workflow.games): your AI coding agent plans requirements, files bugs",
@@ -187,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-10T12:36:52Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw.",
-    "id": "C-Rhapsody/gemini-connector",
-    "language": "Go",
-    "name": "C-Rhapsody/gemini-connector",
-    "stars": 6,
-    "updated_at": "2026-09-10T12:24:01Z",
-    "url": "https://github.com/C-Rhapsody/gemini-connector"
   },
   {
     "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
@@ -342,15 +369,6 @@
     "url": "https://github.com/mriazi1982/octopai"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-10T13:51:44Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-10T11:26:20Z",
     "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-09-10T11:21:05Z",
-    "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-09-10T11:19:33Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
   }
 ]
