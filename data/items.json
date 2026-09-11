@@ -1,12 +1,129 @@
 [
   {
+    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
+    "id": "mohahasan/ios-agentic-skills",
+    "language": "JavaScript",
+    "name": "mohahasan/ios-agentic-skills",
+    "stars": 4,
+    "updated_at": "2026-09-11T07:13:52Z",
+    "url": "https://github.com/mohahasan/ios-agentic-skills"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-09-11T07:11:50Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Inter-session messaging plugin for DeepSeek Harness (dsh): let independent dsh sessions on one machine discover each oth",
+    "id": "Sqhao-O/dsh-intercom",
+    "language": "TypeScript",
+    "name": "Sqhao-O/dsh-intercom",
+    "stars": 0,
+    "updated_at": "2026-09-11T07:10:42Z",
+    "url": "https://github.com/Sqhao-O/dsh-intercom"
+  },
+  {
     "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
     "id": "kangwoo/aimon-core",
     "language": "Java",
     "name": "kangwoo/aimon-core",
     "stars": 0,
-    "updated_at": "2026-09-11T06:59:24Z",
+    "updated_at": "2026-09-11T07:10:14Z",
     "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
+    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
+    "id": "Danisxxx/comfyUI-LongLook",
+    "language": "Python",
+    "name": "Danisxxx/comfyUI-LongLook",
+    "stars": 2,
+    "updated_at": "2026-09-11T07:09:05Z",
+    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
+  },
+  {
+    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
+    "id": "axxafo/awesome-agent-benchmarks",
+    "language": "\u2014",
+    "name": "axxafo/awesome-agent-benchmarks",
+    "stars": 3,
+    "updated_at": "2026-09-11T07:08:11Z",
+    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
+  },
+  {
+    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
+    "id": "memoways/ava-proto1",
+    "language": "TypeScript",
+    "name": "memoways/ava-proto1",
+    "stars": 0,
+    "updated_at": "2026-09-11T07:06:56Z",
+    "url": "https://github.com/memoways/ava-proto1"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-09-11T07:09:04Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Reusable, selectively loaded agent skills for workflow authority, data lineage, evidence revalidation, side-effect safet",
+    "id": "xiongweilin/agent-skills",
+    "language": "\u2014",
+    "name": "xiongweilin/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-11T07:04:35Z",
+    "url": "https://github.com/xiongweilin/agent-skills"
+  },
+  {
+    "description": "PECS: \u57fa\u4e8e LangGraph \u7684\u56db\u89d2\u8272\u591a\u667a\u80fd\u4f53\u4efb\u52a1\u6c42\u89e3\u6846\u67b6\uff08Planner/Executor/Critic/Synthesizer\uff09\u3002WebShop \u771f\u5b9e\u73af\u5883 +25pp (25% vs 0%)\uff1bGAIA \u5b98\u65b9 53 \u9898 26.4%",
+    "id": "paopao-13/pecs-multi-agent",
+    "language": "Python",
+    "name": "paopao-13/pecs-multi-agent",
+    "stars": 0,
+    "updated_at": "2026-09-11T07:04:32Z",
+    "url": "https://github.com/paopao-13/pecs-multi-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-09-11T07:03:05Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-09-11T07:01:25Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "Corrects affected-version ranges in public security advisories from repository evidence, and the held-out benchmark that",
+    "id": "Ab-Romia/advisorydrift",
+    "language": "Python",
+    "name": "Ab-Romia/advisorydrift",
+    "stars": 0,
+    "updated_at": "2026-09-11T07:01:17Z",
+    "url": "https://github.com/Ab-Romia/advisorydrift"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-09-11T07:01:13Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
   },
   {
     "description": "",
@@ -61,33 +178,6 @@
     "stars": 2,
     "updated_at": "2026-09-11T06:53:12Z",
     "url": "https://github.com/WP2-Danikusuma/AgentX"
-  },
-  {
-    "description": "Reusable, selectively loaded agent skills for workflow authority, data lineage, evidence revalidation, side-effect safet",
-    "id": "xiongweilin/agent-skills",
-    "language": "\u2014",
-    "name": "xiongweilin/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-09-11T06:48:09Z",
-    "url": "https://github.com/xiongweilin/agent-skills"
-  },
-  {
-    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
-    "id": "memoways/ava-proto1",
-    "language": "TypeScript",
-    "name": "memoways/ava-proto1",
-    "stars": 0,
-    "updated_at": "2026-09-11T06:47:25Z",
-    "url": "https://github.com/memoways/ava-proto1"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-09-11T06:54:02Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
@@ -205,15 +295,6 @@
     "stars": 6,
     "updated_at": "2026-09-11T06:04:27Z",
     "url": "https://github.com/jakubkrzysztofsikora/reasoning-core"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-09-11T05:56:44Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-11T05:32:58Z",
     "url": "https://github.com/Stolas34/voice-input-src"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-11T05:32:29Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-09-11T05:32:01Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
-    "id": "Screwtopped-annapavlova802/SparkLabs",
-    "language": "C++",
-    "name": "Screwtopped-annapavlova802/SparkLabs",
-    "stars": 1,
-    "updated_at": "2026-09-11T05:30:57Z",
-    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-09-11T05:29:35Z",
-    "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-09-11T05:26:40Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-09-11T05:26:27Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 3,
-    "updated_at": "2026-09-11T05:24:35Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-09-11T05:21:12Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "Distilly \u2014 Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill\uff08\u539f\u540c\u4e8b Skill\uff09.",
-    "id": "titanwings/distilly",
-    "language": "TypeScript",
-    "name": "titanwings/distilly",
-    "stars": 24610,
-    "updated_at": "2026-09-11T05:17:30Z",
-    "url": "https://github.com/titanwings/distilly"
   }
 ]
