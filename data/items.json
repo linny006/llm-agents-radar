@@ -1,5 +1,104 @@
 [
   {
+    "description": "",
+    "id": "hichamnes-prog/exforum-auto-poster",
+    "language": "Python",
+    "name": "hichamnes-prog/exforum-auto-poster",
+    "stars": 1,
+    "updated_at": "2026-09-11T11:14:59Z",
+    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
+  },
+  {
+    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
+    "id": "muhzars/Agent.cpp",
+    "language": "C++",
+    "name": "muhzars/Agent.cpp",
+    "stars": 1,
+    "updated_at": "2026-09-11T11:12:15Z",
+    "url": "https://github.com/muhzars/Agent.cpp"
+  },
+  {
+    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
+    "id": "faheela-786/ComfyUI-qwenmultiangle",
+    "language": "\u2014",
+    "name": "faheela-786/ComfyUI-qwenmultiangle",
+    "stars": 2,
+    "updated_at": "2026-09-11T11:09:40Z",
+    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
+  },
+  {
+    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 507,
+    "updated_at": "2026-09-11T11:09:23Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
+    "id": "amineeng/scraping-browser",
+    "language": "\u2014",
+    "name": "amineeng/scraping-browser",
+    "stars": 1,
+    "updated_at": "2026-09-11T11:08:25Z",
+    "url": "https://github.com/amineeng/scraping-browser"
+  },
+  {
+    "description": "Policy-driven autopilot for Dependabot PRs and patch releases, with Slack/Discord/Matrix digests",
+    "id": "no42-org/twiki",
+    "language": "TypeScript",
+    "name": "no42-org/twiki",
+    "stars": 0,
+    "updated_at": "2026-09-11T11:11:02Z",
+    "url": "https://github.com/no42-org/twiki"
+  },
+  {
+    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
+    "id": "Saran1536/ComfyUI-LoaderUtils",
+    "language": "Python",
+    "name": "Saran1536/ComfyUI-LoaderUtils",
+    "stars": 0,
+    "updated_at": "2026-09-11T11:05:33Z",
+    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
+  },
+  {
+    "description": "\ud83c\udfb5 \u4e13\u5c5e\u4f60\u7684\u79c1\u4eba\u6570\u5b57\u8c03\u97f3\u5e08|AI \u97f3\u4e50\u641c\u7d22\u63a8\u8350 Agent | \u57fa\u4e8e\u5927\u6a21\u578b + \u77e5\u8bc6\u56fe\u8c31 + \u53cc\u6a21\u578b\u58f0\u5b66\u5411\u91cf\u7684\u672c\u5730\u667a\u80fd\u97f3\u4e50\u63a8\u8350\u7cfb\u7edf | LLM-powered Music Recommendation Agent with Hybrid R",
+    "id": "hgsanyang/SoulTuner-Agent",
+    "language": "Python",
+    "name": "hgsanyang/SoulTuner-Agent",
+    "stars": 21,
+    "updated_at": "2026-09-11T11:06:58Z",
+    "url": "https://github.com/hgsanyang/SoulTuner-Agent"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 1,
+    "updated_at": "2026-09-11T11:04:17Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 16,
+    "updated_at": "2026-09-11T11:03:59Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-09-11T11:02:13Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
     "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
     "id": "Amri854/obsidian-mcp-server",
     "language": "TypeScript",
@@ -16,15 +115,6 @@
     "stars": 8,
     "updated_at": "2026-09-11T10:56:00Z",
     "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 507,
-    "updated_at": "2026-09-11T10:55:53Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
   },
   {
     "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
@@ -198,21 +288,12 @@
     "url": "https://github.com/jakubkrzysztofsikora/reasoning-core"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-09-11T09:59:23Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
     "id": "emqnuele/projectBEA",
     "language": "Python",
     "name": "emqnuele/projectBEA",
     "stars": 14,
-    "updated_at": "2026-09-11T09:52:49Z",
+    "updated_at": "2026-09-11T11:06:45Z",
     "url": "https://github.com/emqnuele/projectBEA"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 126,
     "updated_at": "2026-09-11T09:28:22Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 3,
-    "updated_at": "2026-09-11T09:27:42Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-09-11T09:26:17Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "\u64cd\u4f5c\u7cfb\u7edf\u8bfe\u7a0b\u8bbe\u8ba1\uff1a\u57fa\u4e8e\u5fae\u8f6f UFO\u00b2 \u67b6\u6784\u5728 Linux \u684c\u9762\u5b9e\u73b0\u81ea\u7136\u8bed\u8a00\u4ea4\u4e92\u7684 Agentic OS \u539f\u578b\u3002\u4e94\u7ec4\u534f\u4f5c\u6d41\u6c34\u7ebf\uff08\u610f\u56fe\u7406\u89e3 \u2192 \u5b89\u5168\u68c0\u67e5 \u2192 \u4efb\u52a1\u89c4\u5212 \u2192 GUI \u6267\u884c \u2192 \u5de5\u5177\u8c03\u7528\uff09\uff0c\u542b\u7cfb\u7edf\u534f\u8c03\u5c42\u3001\u56db\u5c42\u5b89\u5168\u6c99\u7bb1\u3001RAG \u77e5\u8bc6\u5e93",
-    "id": "shiyuming-L/AgentOS",
-    "language": "Python",
-    "name": "shiyuming-L/AgentOS",
-    "stars": 1,
-    "updated_at": "2026-09-11T09:26:12Z",
-    "url": "https://github.com/shiyuming-L/AgentOS"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-09-11T09:25:18Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-09-11T09:23:45Z",
-    "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-09-11T09:23:10Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-09-11T09:22:02Z",
-    "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-09-11T09:20:48Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
-    "id": "muhzars/Agent.cpp",
-    "language": "C++",
-    "name": "muhzars/Agent.cpp",
-    "stars": 1,
-    "updated_at": "2026-09-11T09:17:59Z",
-    "url": "https://github.com/muhzars/Agent.cpp"
   }
 ]
