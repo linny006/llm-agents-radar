@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "Heliotrope-dev/finance-agent",
     "stars": 2,
-    "updated_at": "2026-09-11T17:14:22Z",
+    "updated_at": "2026-09-11T17:24:29Z",
     "url": "https://github.com/Heliotrope-dev/finance-agent"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-09-11T17:21:50Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 32,
+    "updated_at": "2026-09-11T17:21:41Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-11T17:18:12Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
+    "language": "Python",
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-09-11T17:19:56Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "Desktop GUI Headless Local-first AI coding agent in Rust (axum, tokio, rmcp, portable-pty) behind HTTP + SSE, with an An",
+    "id": "henrykbrzoska/bebok",
+    "language": "Rust",
+    "name": "henrykbrzoska/bebok",
+    "stars": 2,
+    "updated_at": "2026-09-11T17:16:25Z",
+    "url": "https://github.com/henrykbrzoska/bebok"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 806,
+    "updated_at": "2026-09-11T17:16:12Z",
+    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -25,15 +79,6 @@
     "stars": 5,
     "updated_at": "2026-09-11T17:05:20Z",
     "url": "https://github.com/karstom/simplegraph-agentic"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-11T17:03:05Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -70,15 +115,6 @@
     "stars": 1209,
     "updated_at": "2026-09-11T16:51:18Z",
     "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
-    "description": "Desktop GUI Headless Local-first AI coding agent in Rust (axum, tokio, rmcp, portable-pty) behind HTTP + SSE, with an An",
-    "id": "henrykbrzoska/bebok",
-    "language": "Rust",
-    "name": "henrykbrzoska/bebok",
-    "stars": 1,
-    "updated_at": "2026-09-11T16:50:11Z",
-    "url": "https://github.com/henrykbrzoska/bebok"
   },
   {
     "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
@@ -198,15 +234,6 @@
     "url": "https://github.com/ljchang/mecha"
   },
   {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 32,
-    "updated_at": "2026-09-11T15:44:53Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
     "description": "An in-process bridge giving an AI agent real access to a modded Minecraft world - including mod APIs a protocol-level bo",
     "id": "max-champlin/ghost",
     "language": "Java",
@@ -241,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-09-11T15:45:03Z",
     "url": "https://github.com/desFernan/puck-mac"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-09-11T16:02:56Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Code-Visio is a developer tool that turns a running application into an interactive map of its code execution",
@@ -322,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-09-11T17:02:45Z",
     "url": "https://github.com/justacalico/devinorium"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 805,
-    "updated_at": "2026-09-11T16:53:11Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-11T13:53:55Z",
     "url": "https://github.com/paopao-13/pecs-multi-agent"
-  },
-  {
-    "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
-    "id": "rugose-learnedprofession58/pi-dsh",
-    "language": "TypeScript",
-    "name": "rugose-learnedprofession58/pi-dsh",
-    "stars": 1,
-    "updated_at": "2026-09-11T13:48:20Z",
-    "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
   }
 ]
