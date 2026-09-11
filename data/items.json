@@ -1,12 +1,30 @@
 [
   {
-    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
-    "id": "brutal-45/Nexus-LLM",
-    "language": "Python",
-    "name": "brutal-45/Nexus-LLM",
+    "description": "\u7eaf Kotlin \u539f\u751f Android AI \u667a\u80fd\u4f53\uff1a\u591a\u6a21\u578b\u63a5\u5165\u3001\u5b50\u667a\u80fd\u4f53\u534f\u4f5c\u3001\u5728\u7ebf\u63d2\u4ef6\u5e02\u573a\u3001\u6280\u80fd\u81ea\u52a8\u5f15\u7528\u3001root/Ubuntu \u7ec8\u7aef\u3001\u957f\u671f\u8bb0\u5fc6",
+    "id": "kusesad-1122/XINCODE-Public",
+    "language": "C",
+    "name": "kusesad-1122/XINCODE-Public",
+    "stars": 20,
+    "updated_at": "2026-09-11T19:53:40Z",
+    "url": "https://github.com/kusesad-1122/XINCODE-Public"
+  },
+  {
+    "description": "Multi-agent orchestration skill: 6-role pipeline delivers full products. Single writer, read-only advisors, strict gates",
+    "id": "kimi0hhhh/project-orchestrator-skill",
+    "language": "PowerShell",
+    "name": "kimi0hhhh/project-orchestrator-skill",
+    "stars": 0,
+    "updated_at": "2026-09-11T19:52:58Z",
+    "url": "https://github.com/kimi0hhhh/project-orchestrator-skill"
+  },
+  {
+    "description": "Artifact repository for the paper \"MatchFixAgent: Language-Agnostic Autonomous Repository-Level Code Translation Validat",
+    "id": "Intelligent-CAT-Lab/MatchFixAgent",
+    "language": "Java",
+    "name": "Intelligent-CAT-Lab/MatchFixAgent",
     "stars": 2,
-    "updated_at": "2026-09-11T19:44:49Z",
-    "url": "https://github.com/brutal-45/Nexus-LLM"
+    "updated_at": "2026-09-11T19:52:13Z",
+    "url": "https://github.com/Intelligent-CAT-Lab/MatchFixAgent"
   },
   {
     "description": "Artifact repository for the paper \"ReCodeAgent: A Multi-agent Workflow for Language-Agnostic Translation and Validation ",
@@ -14,8 +32,35 @@
     "language": "C",
     "name": "Intelligent-CAT-Lab/ReCodeAgent",
     "stars": 7,
-    "updated_at": "2026-09-11T19:44:15Z",
+    "updated_at": "2026-09-11T19:51:22Z",
     "url": "https://github.com/Intelligent-CAT-Lab/ReCodeAgent"
+  },
+  {
+    "description": "An agentic OBD-II scanner that never makes anything up. Bring your own model, read every module on the bus, and click an",
+    "id": "christianOrona/wtfault-scanner",
+    "language": "Rust",
+    "name": "christianOrona/wtfault-scanner",
+    "stars": 2,
+    "updated_at": "2026-09-11T19:50:06Z",
+    "url": "https://github.com/christianOrona/wtfault-scanner"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-11T19:48:30Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
+    "id": "brutal-45/Nexus-LLM",
+    "language": "Python",
+    "name": "brutal-45/Nexus-LLM",
+    "stars": 2,
+    "updated_at": "2026-09-11T19:47:09Z",
+    "url": "https://github.com/brutal-45/Nexus-LLM"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -41,7 +86,7 @@
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 210,
-    "updated_at": "2026-09-11T19:37:41Z",
+    "updated_at": "2026-09-11T19:50:40Z",
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
@@ -50,7 +95,7 @@
     "language": "Dart",
     "name": "justacalico/devinorium",
     "stars": 1,
-    "updated_at": "2026-09-11T19:35:55Z",
+    "updated_at": "2026-09-11T19:50:11Z",
     "url": "https://github.com/justacalico/devinorium"
   },
   {
@@ -72,15 +117,6 @@
     "url": "https://github.com/JadeYingWah/gpt-series-reasoning-style"
   },
   {
-    "description": "An agentic OBD-II scanner that never makes anything up. Bring your own model, read every module on the bus, and click an",
-    "id": "christianOrona/wtfault-scanner",
-    "language": "Rust",
-    "name": "christianOrona/wtfault-scanner",
-    "stars": 2,
-    "updated_at": "2026-09-11T19:23:14Z",
-    "url": "https://github.com/christianOrona/wtfault-scanner"
-  },
-  {
     "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
     "id": "emqnuele/projectBEA",
     "language": "Python",
@@ -88,15 +124,6 @@
     "stars": 14,
     "updated_at": "2026-09-11T19:19:46Z",
     "url": "https://github.com/emqnuele/projectBEA"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-11T19:19:35Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "An in-process bridge giving an AI agent real access to a modded Minecraft world - including mod APIs a protocol-level bo",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-11T18:19:09Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 1,
-    "updated_at": "2026-09-11T18:18:57Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-09-11T19:27:07Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-09-11T18:13:00Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
   }
 ]
