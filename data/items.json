@@ -1,11 +1,83 @@
 [
   {
+    "description": "A chat bot which makes use of multiple RAG collections/metadata field filtering, and multiple LLMs for model orchestrati",
+    "id": "milljm/dynamic-rag-chat",
+    "language": "Python",
+    "name": "milljm/dynamic-rag-chat",
+    "stars": 3,
+    "updated_at": "2026-09-11T01:56:16Z",
+    "url": "https://github.com/milljm/dynamic-rag-chat"
+  },
+  {
+    "description": "An agentic OBD-II scanner that never makes anything up. Bring your own model, read every module on the bus, and click an",
+    "id": "christianOrona/wtfault-scanner",
+    "language": "Rust",
+    "name": "christianOrona/wtfault-scanner",
+    "stars": 1,
+    "updated_at": "2026-09-11T01:55:23Z",
+    "url": "https://github.com/christianOrona/wtfault-scanner"
+  },
+  {
+    "description": "Claude Code \u9a45\u52d5\u7684\u500b\u4eba\u8a18\u5e33 agent \u2014 \u6355\u6349\u7aef\u7b28\u5230\u6975\u9ede\uff08Siri \u4e00\u53e5\u8a71\uff09\uff0c\u5224\u65b7\u7aef\u5168\u4ea4\u7d66 AI\uff08\u5206\u985e\u3001\u88dc\u6b04\u4f4d\u3001\u7522\u8ca1\u5831\uff09\u3002",
+    "id": "seanlu2006/CountAgent",
+    "language": "Python",
+    "name": "seanlu2006/CountAgent",
+    "stars": 0,
+    "updated_at": "2026-09-11T01:53:50Z",
+    "url": "https://github.com/seanlu2006/CountAgent"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-09-11T01:53:40Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
+    "description": "\u26a1 Summary-free context window rollover, model-authored notes, and scoped history lookup plugin for DeepSeek Harness (DSH",
+    "id": "fancyboi999/dsh-newwindows",
+    "language": "TypeScript",
+    "name": "fancyboi999/dsh-newwindows",
+    "stars": 0,
+    "updated_at": "2026-09-11T01:51:30Z",
+    "url": "https://github.com/fancyboi999/dsh-newwindows"
+  },
+  {
+    "description": "Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw.",
+    "id": "C-Rhapsody/gemini-connector",
+    "language": "Go",
+    "name": "C-Rhapsody/gemini-connector",
+    "stars": 6,
+    "updated_at": "2026-09-11T01:50:53Z",
+    "url": "https://github.com/C-Rhapsody/gemini-connector"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-09-11T01:54:04Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "Local coding-agent runtime with isolated Git worktrees, controlled command execution, VS Code review workflow, and SWE-b",
+    "id": "YeYan0829/codingAgent",
+    "language": "Python",
+    "name": "YeYan0829/codingAgent",
+    "stars": 0,
+    "updated_at": "2026-09-11T01:49:31Z",
+    "url": "https://github.com/YeYan0829/codingAgent"
+  },
+  {
     "description": "GPT autonomous research and investigation using starintel",
     "id": "lost-rob0t/starintel-gpt-auto-dig",
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-09-11T01:43:23Z",
+    "updated_at": "2026-09-11T01:54:27Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -25,24 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-11T01:39:09Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-09-11T01:36:54Z",
-    "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
-    "description": "Claude Code \u9a45\u52d5\u7684\u500b\u4eba\u8a18\u5e33 agent \u2014 \u6355\u6349\u7aef\u7b28\u5230\u6975\u9ede\uff08Siri \u4e00\u53e5\u8a71\uff09\uff0c\u5224\u65b7\u7aef\u5168\u4ea4\u7d66 AI\uff08\u5206\u985e\u3001\u88dc\u6b04\u4f4d\u3001\u7522\u8ca1\u5831\uff09\u3002",
-    "id": "seanlu2006/CountAgent",
-    "language": "Python",
-    "name": "seanlu2006/CountAgent",
-    "stars": 0,
-    "updated_at": "2026-09-11T01:32:17Z",
-    "url": "https://github.com/seanlu2006/CountAgent"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -86,7 +140,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-11T01:16:26Z",
+    "updated_at": "2026-09-11T01:51:22Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -124,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-09-11T01:08:08Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "An agentic OBD-II scanner that never makes anything up. Bring your own model, read every module on the bus, and click an",
-    "id": "christianOrona/wtfault-scanner",
-    "language": "Rust",
-    "name": "christianOrona/wtfault-scanner",
-    "stars": 1,
-    "updated_at": "2026-09-11T00:55:07Z",
-    "url": "https://github.com/christianOrona/wtfault-scanner"
   },
   {
     "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
@@ -241,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-09-11T00:05:15Z",
     "url": "https://github.com/haibingzhao/easyai"
-  },
-  {
-    "description": "Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw.",
-    "id": "C-Rhapsody/gemini-connector",
-    "language": "Go",
-    "name": "C-Rhapsody/gemini-connector",
-    "stars": 6,
-    "updated_at": "2026-09-11T00:03:56Z",
-    "url": "https://github.com/C-Rhapsody/gemini-connector"
   },
   {
     "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-10T23:39:16Z",
     "url": "https://github.com/Danisxxx/comfyUI-LongLook"
-  },
-  {
-    "description": "Cross-agent plugin for manually excluding and editing AI conversation context, with search, filtering, hide/restore, und",
-    "id": "jermaine123123/agent-context-editor",
-    "language": "TypeScript",
-    "name": "jermaine123123/agent-context-editor",
-    "stars": 60,
-    "updated_at": "2026-09-10T23:38:36Z",
-    "url": "https://github.com/jermaine123123/agent-context-editor"
-  },
-  {
-    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
-    "id": "axxafo/awesome-agent-benchmarks",
-    "language": "\u2014",
-    "name": "axxafo/awesome-agent-benchmarks",
-    "stars": 3,
-    "updated_at": "2026-09-10T23:38:19Z",
-    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-09-10T23:33:11Z",
-    "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-09-10T23:31:16Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
   }
 ]
