@@ -1,12 +1,102 @@
 [
   {
+    "description": "\u805a\u7126AI Agent/LLM/RAG\u6d4b\u8bc4",
+    "id": "zhoujinjian/agent-eval-suite",
+    "language": "Python",
+    "name": "zhoujinjian/agent-eval-suite",
+    "stars": 0,
+    "updated_at": "2026-09-11T08:59:37Z",
+    "url": "https://github.com/zhoujinjian/agent-eval-suite"
+  },
+  {
+    "description": "Episodic memory-aware journaling agent - official implementation code of Persode (ICES 2025): Ebbinghaus forgetting curv",
+    "id": "sukoji/persode",
+    "language": "Python",
+    "name": "sukoji/persode",
+    "stars": 0,
+    "updated_at": "2026-09-11T08:58:56Z",
+    "url": "https://github.com/sukoji/persode"
+  },
+  {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-09-11T08:58:54Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-09-11T08:57:15Z",
+    "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
+    "description": "Let AI glasses hand work off to a Hermes agent on your own machine: async task queue + MCP server + adapter, so long-run",
+    "id": "hightouch666/hermes-glasses-bridge",
+    "language": "Python",
+    "name": "hightouch666/hermes-glasses-bridge",
+    "stars": 0,
+    "updated_at": "2026-09-11T08:55:53Z",
+    "url": "https://github.com/hightouch666/hermes-glasses-bridge"
+  },
+  {
+    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
+    "id": "karvidsson/kbots",
+    "language": "Python",
+    "name": "karvidsson/kbots",
+    "stars": 1,
+    "updated_at": "2026-09-11T08:55:42Z",
+    "url": "https://github.com/karvidsson/kbots"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-09-11T08:53:09Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-09-11T08:50:29Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
     "description": "GUI / Computer-Use / Browser Agent \u5b89\u5168\u8bba\u6587\u6e05\u5355 \u2014\u2014 \u6309\u653b\u9632\u8f74\u7ec4\u7ec7\uff0c\u6bcf\u7bc7\u9644\u4e2d\u6587\u7b80\u4ecb",
     "id": "Yuxuan2003/Awesome-GUI-Agent-Security",
     "language": "Python",
     "name": "Yuxuan2003/Awesome-GUI-Agent-Security",
     "stars": 67,
-    "updated_at": "2026-09-11T08:44:41Z",
+    "updated_at": "2026-09-11T08:50:16Z",
     "url": "https://github.com/Yuxuan2003/Awesome-GUI-Agent-Security"
+  },
+  {
+    "description": "Job-hunt skill for Claude Code and Codex: find roles, judge whether one is worth applying to, build and pressure-test th",
+    "id": "addsumtech/job-hunt",
+    "language": "Python",
+    "name": "addsumtech/job-hunt",
+    "stars": 1,
+    "updated_at": "2026-09-11T08:49:52Z",
+    "url": "https://github.com/addsumtech/job-hunt"
+  },
+  {
+    "description": "\u7535\u5546\u5e73\u53f0\u5546\u54c1\u5185\u5bb9\u6cbb\u7406\u7684\u590d\u6742\u98ce\u9669\u8c03\u67e5 Agent\uff1aLangGraph \u591a\u6b65\u8c03\u67e5 + \u786e\u5b9a\u6027 Decision Gate\uff0c\u8f93\u51fa PASS / REJECT / HUMAN_REVIEW\uff1b\u5168\u94fe\u8def\u786e\u5b9a\u6027\u53ef\u91cd\u653e\u8bc4\u6d4b",
+    "id": "donglongjun886/product-review-agent",
+    "language": "Python",
+    "name": "donglongjun886/product-review-agent",
+    "stars": 1,
+    "updated_at": "2026-09-11T08:47:45Z",
+    "url": "https://github.com/donglongjun886/product-review-agent"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -14,8 +104,17 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-11T08:45:15Z",
+    "updated_at": "2026-09-11T08:52:53Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "DARWIN \u2014 evolutionary strategy foundry: an LLM proposes crypto trading strategies, a leakage-proof gauntlet kills 90% of",
+    "id": "dobrinsm/darwin",
+    "language": "HTML",
+    "name": "dobrinsm/darwin",
+    "stars": 1,
+    "updated_at": "2026-09-11T08:45:20Z",
+    "url": "https://github.com/dobrinsm/darwin"
   },
   {
     "description": "An autopoiesic kefir for computing machines",
@@ -25,24 +124,6 @@
     "stars": 8,
     "updated_at": "2026-09-11T08:41:43Z",
     "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "Job-hunt skill for Claude Code and Codex: find roles, judge whether one is worth applying to, build and pressure-test th",
-    "id": "addsumtech/job-hunt",
-    "language": "Python",
-    "name": "addsumtech/job-hunt",
-    "stars": 1,
-    "updated_at": "2026-09-11T08:41:36Z",
-    "url": "https://github.com/addsumtech/job-hunt"
-  },
-  {
-    "description": "DARWIN \u2014 evolutionary strategy foundry: an LLM proposes crypto trading strategies, a leakage-proof gauntlet kills 90% of",
-    "id": "dobrinsm/darwin",
-    "language": "HTML",
-    "name": "dobrinsm/darwin",
-    "stars": 1,
-    "updated_at": "2026-09-11T08:36:53Z",
-    "url": "https://github.com/dobrinsm/darwin"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -68,8 +149,17 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-09-11T08:38:49Z",
+    "updated_at": "2026-09-11T08:56:18Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3267,
+    "updated_at": "2026-09-11T08:23:40Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
@@ -79,15 +169,6 @@
     "stars": 506,
     "updated_at": "2026-09-11T08:20:25Z",
     "url": "https://github.com/agentpit-io/hunter-community"
-  },
-  {
-    "description": "\u7535\u5546\u5e73\u53f0\u5546\u54c1\u5185\u5bb9\u6cbb\u7406\u7684\u590d\u6742\u98ce\u9669\u8c03\u67e5 Agent\uff1aLangGraph \u591a\u6b65\u8c03\u67e5 + \u786e\u5b9a\u6027 Decision Gate\uff0c\u8f93\u51fa PASS / REJECT / HUMAN_REVIEW\uff1b\u5168\u94fe\u8def\u786e\u5b9a\u6027\u53ef\u91cd\u653e\u8bc4\u6d4b",
-    "id": "donglongjun886/product-review-agent",
-    "language": "Python",
-    "name": "donglongjun886/product-review-agent",
-    "stars": 1,
-    "updated_at": "2026-09-11T08:08:35Z",
-    "url": "https://github.com/donglongjun886/product-review-agent"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -113,7 +194,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5749,
-    "updated_at": "2026-09-11T08:30:54Z",
+    "updated_at": "2026-09-11T08:55:11Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -297,15 +378,6 @@
     "url": "https://github.com/Stolas34/voice-input-src"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-09-11T07:25:26Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
     "id": "Screwtopped-annapavlova802/SparkLabs",
     "language": "C++",
@@ -376,77 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-11T07:17:17Z",
     "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
-    "id": "kangwoo/aimon-core",
-    "language": "Java",
-    "name": "kangwoo/aimon-core",
-    "stars": 0,
-    "updated_at": "2026-09-11T08:13:59Z",
-    "url": "https://github.com/kangwoo/aimon-core"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-09-11T07:13:52Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
-    "id": "Danisxxx/comfyUI-LongLook",
-    "language": "Python",
-    "name": "Danisxxx/comfyUI-LongLook",
-    "stars": 2,
-    "updated_at": "2026-09-11T07:09:05Z",
-    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
-  },
-  {
-    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
-    "id": "axxafo/awesome-agent-benchmarks",
-    "language": "\u2014",
-    "name": "axxafo/awesome-agent-benchmarks",
-    "stars": 3,
-    "updated_at": "2026-09-11T07:08:11Z",
-    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-09-11T07:03:05Z",
-    "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "Corrects affected-version ranges in public security advisories from repository evidence, and the held-out benchmark that",
-    "id": "Ab-Romia/advisorydrift",
-    "language": "Python",
-    "name": "Ab-Romia/advisorydrift",
-    "stars": 0,
-    "updated_at": "2026-09-11T07:01:17Z",
-    "url": "https://github.com/Ab-Romia/advisorydrift"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-09-11T07:01:13Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-09-11T06:58:06Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
   }
 ]
