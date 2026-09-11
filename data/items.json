@@ -1,5 +1,86 @@
 [
   {
+    "description": "Code-Visio is a developer tool that turns a running application into an interactive map of its code execution",
+    "id": "mikias-tulu/Code-Visio",
+    "language": "TypeScript",
+    "name": "mikias-tulu/Code-Visio",
+    "stars": 1,
+    "updated_at": "2026-09-11T15:27:18Z",
+    "url": "https://github.com/mikias-tulu/Code-Visio"
+  },
+  {
+    "description": "\u8ba9\u4efb\u4f55 AI Agent \u7528\u4e0a\u4f60\u7684\u771f\u5b9e\u6d4f\u89c8\u5668\uff08CDP\uff0c\u81ea\u5e26\u767b\u5f55\u6001\uff09\u2014\u2014 \u8de8\u5e73\u53f0 / \u8de8 Agent \u6280\u80fd\u5305\uff0c\u57fa\u4e8e web-access (MIT, \u4e00\u6cfdEze)",
+    "id": "yufeiyufei888/browser-bridge",
+    "language": "JavaScript",
+    "name": "yufeiyufei888/browser-bridge",
+    "stars": 0,
+    "updated_at": "2026-09-11T15:26:59Z",
+    "url": "https://github.com/yufeiyufei888/browser-bridge"
+  },
+  {
+    "description": "An SRE agent that looks at a failing Kubernetes pod and opens a pull request with a fix instead of patching the cluster ",
+    "id": "sneha4175/k8s-guard",
+    "language": "Python",
+    "name": "sneha4175/k8s-guard",
+    "stars": 0,
+    "updated_at": "2026-09-11T15:26:11Z",
+    "url": "https://github.com/sneha4175/k8s-guard"
+  },
+  {
+    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
+    "id": "Heliotrope-dev/finance-agent",
+    "language": "Python",
+    "name": "Heliotrope-dev/finance-agent",
+    "stars": 2,
+    "updated_at": "2026-09-11T15:24:04Z",
+    "url": "https://github.com/Heliotrope-dev/finance-agent"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-11T15:20:58Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "A Windows desktop pet that is also an AI agent. C# / .NET 8 + WPF port of puck-mac.",
+    "id": "desFernan/puck-windows",
+    "language": "C#",
+    "name": "desFernan/puck-windows",
+    "stars": 0,
+    "updated_at": "2026-09-11T15:19:06Z",
+    "url": "https://github.com/desFernan/puck-windows"
+  },
+  {
+    "description": "A Linux desktop pet that is also an AI agent. Rust + GTK4 port of puck-mac.",
+    "id": "desFernan/puck-linux",
+    "language": "Rust",
+    "name": "desFernan/puck-linux",
+    "stars": 1,
+    "updated_at": "2026-09-11T15:19:00Z",
+    "url": "https://github.com/desFernan/puck-linux"
+  },
+  {
+    "description": "A macOS desktop pet that is also an AI agent \u2014 it walks your screen, and reaches the Mac through its own approval gate.",
+    "id": "desFernan/puck-mac",
+    "language": "Swift",
+    "name": "desFernan/puck-mac",
+    "stars": 0,
+    "updated_at": "2026-09-11T15:18:53Z",
+    "url": "https://github.com/desFernan/puck-mac"
+  },
+  {
+    "description": "Assembled context for DeepSeek Harness: a context tree over the session surface with per-node assemble modes (full / key",
+    "id": "catsenior507/dsh-context-assembler",
+    "language": "TypeScript",
+    "name": "catsenior507/dsh-context-assembler",
+    "stars": 0,
+    "updated_at": "2026-09-11T15:18:25Z",
+    "url": "https://github.com/catsenior507/dsh-context-assembler"
+  },
+  {
     "description": "Calendar and clock for DeepSeek Harness: an alarm wakes a chosen conversation at a chosen instant, by keyword, with the ",
     "id": "catsenior507/dsh-clock",
     "language": "TypeScript",
@@ -16,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-11T15:11:17Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-11T15:09:51Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "A coding assistant built on persistent multi-agent teams: durable members that discuss, chat, and re-sync continuously \u2014",
@@ -77,7 +149,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 805,
-    "updated_at": "2026-09-11T14:58:28Z",
+    "updated_at": "2026-09-11T15:29:07Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -103,7 +175,7 @@
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
-    "stars": 170,
+    "stars": 171,
     "updated_at": "2026-09-11T14:42:14Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
   },
@@ -121,7 +193,7 @@
     "id": "agentpit-io/hunter-community",
     "language": "Python",
     "name": "agentpit-io/hunter-community",
-    "stars": 507,
+    "stars": 508,
     "updated_at": "2026-09-11T14:31:39Z",
     "url": "https://github.com/agentpit-io/hunter-community"
   },
@@ -239,7 +311,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 8,
-    "updated_at": "2026-09-11T15:07:23Z",
+    "updated_at": "2026-09-11T15:29:46Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-11T13:34:06Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
-    "id": "strobilevitellus470/argus-ai",
-    "language": "Python",
-    "name": "strobilevitellus470/argus-ai",
-    "stars": 1,
-    "updated_at": "2026-09-11T13:33:19Z",
-    "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-09-11T13:31:18Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-09-11T13:30:13Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-09-11T13:28:42Z",
-    "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-09-11T13:27:57Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "\u7535\u5546\u5e73\u53f0\u5546\u54c1\u5185\u5bb9\u6cbb\u7406\u7684\u590d\u6742\u98ce\u9669\u8c03\u67e5 Agent\uff1aLangGraph \u591a\u6b65\u8c03\u67e5 + \u786e\u5b9a\u6027 Decision Gate\uff0c\u8f93\u51fa PASS / REJECT / HUMAN_REVIEW\uff1b\u5168\u94fe\u8def\u786e\u5b9a\u6027\u53ef\u91cd\u653e\u8bc4\u6d4b",
-    "id": "donglongjun886/product-review-agent",
-    "language": "Python",
-    "name": "donglongjun886/product-review-agent",
-    "stars": 1,
-    "updated_at": "2026-09-11T13:26:48Z",
-    "url": "https://github.com/donglongjun886/product-review-agent"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-09-11T13:26:47Z",
-    "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-09-11T13:25:29Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
   }
 ]
