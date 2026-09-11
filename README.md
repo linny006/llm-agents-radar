@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-11 15:45 UTC
+> ⏰ Last updated: 2026-09-11 16:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,43 +42,43 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 32 | Python | 2026-09-11 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
-| 2 | [Heliotrope-dev/finance-agent](https://github.com/Heliotrope-dev/finance-agent) | 2 | Python | 2026-09-11 | 行情+财务+新闻交叉验证的科学理财Agent，不做黑箱荐股 |
-| 3 | [max-champlin/ghost](https://github.com/max-champlin/ghost) | 0 | Java | 2026-09-11 | An in-process bridge giving an AI agent real access to a modded Minecraft world - including mod APIs a protocol-level bo |
-| 4 | [genaforvena/lte-workstation](https://github.com/genaforvena/lte-workstation) | 8 | Shell | 2026-09-11 | An autopoiesic kefir for computing machines |
-| 5 | [desFernan/puck-windows](https://github.com/desFernan/puck-windows) | 0 | C# | 2026-09-11 | A Windows desktop pet that is also an AI agent. C# / .NET 8 + WPF port of puck-mac. |
-| 6 | [desFernan/puck-linux](https://github.com/desFernan/puck-linux) | 1 | Rust | 2026-09-11 | A Linux desktop pet that is also an AI agent. Rust + GTK4 port of puck-mac. |
-| 7 | [desFernan/puck-mac](https://github.com/desFernan/puck-mac) | 0 | Swift | 2026-09-11 | A macOS desktop pet that is also an AI agent — it walks your screen, and reaches the Mac through its own approval gate. |
-| 8 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 16 | Python | 2026-09-11 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、HMI和Android双端；LLM 只负责理解与规划，VAL 负责确定性安全执行 |
-| 9 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 13 | Go | 2026-09-11 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
-| 10 | [mikias-tulu/Code-Visio](https://github.com/mikias-tulu/Code-Visio) | 1 | TypeScript | 2026-09-11 | Code-Visio is a developer tool that turns a running application into an interactive map of its code execution |
-| 11 | [yufeiyufei888/browser-bridge](https://github.com/yufeiyufei888/browser-bridge) | 0 | JavaScript | 2026-09-11 | 让任何 AI Agent 用上你的真实浏览器（CDP，自带登录态）—— 跨平台 / 跨 Agent 技能包，基于 web-access (MIT, 一泽Eze) |
-| 12 | [sneha4175/k8s-guard](https://github.com/sneha4175/k8s-guard) | 0 | Python | 2026-09-11 | An SRE agent that looks at a failing Kubernetes pod and opens a pull request with a fix instead of patching the cluster  |
-| 13 | [catsenior507/dsh-context-assembler](https://github.com/catsenior507/dsh-context-assembler) | 0 | TypeScript | 2026-09-11 | Assembled context for DeepSeek Harness: a context tree over the session surface with per-node assemble modes (full / key |
-| 14 | [catsenior507/dsh-clock](https://github.com/catsenior507/dsh-clock) | 0 | TypeScript | 2026-09-11 | Calendar and clock for DeepSeek Harness: an alarm wakes a chosen conversation at a chosen instant, by keyword, with the  |
-| 15 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-09-11 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 16 | [wangyuahn/nori-code](https://github.com/wangyuahn/nori-code) | 17 | TypeScript | 2026-09-11 | A coding assistant built on persistent multi-agent teams: durable members that discuss, chat, and re-sync continuously — |
-| 17 | [leonardomb1/perguntai](https://github.com/leonardomb1/perguntai) | 0 | TypeScript | 2026-09-11 | Talk to your organization's data — agentic analytics assistant over StarRocks, with Claude via Azure AI Foundry and an O |
-| 18 | [justacalico/devinorium](https://github.com/justacalico/devinorium) | 1 | Dart | 2026-09-11 | Control AI agents anywhere. (github mirror) |
-| 19 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-09-11 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
-| 20 | [Mlte0907/pangu](https://github.com/Mlte0907/pangu) | 0 | Python | 2026-09-11 | 盘古 — AI Agent 多模态记忆系统：Wing→Room→Drawer 分层存储、ONNX 本地嵌入语义检索（SQLite FTS5 + RRF 融合）、艾宾浩斯遗忘曲线与神经激活扩散；提供 REST API + MCP 服务，默认暴 |
-| 21 | [helixml/helix](https://github.com/helixml/helix) | 805 | Go | 2026-09-11 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
-| 22 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-09-11 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 23 | [lost-rob0t/starintel-gpt-auto-dig](https://github.com/lost-rob0t/starintel-gpt-auto-dig) | 1 | Python | 2026-09-11 | GPT autonomous research and investigation using starintel |
-| 24 | [555cute/r20-quantum-trader](https://github.com/555cute/r20-quantum-trader) | 171 | Python | 2026-09-11 | ⚡ LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI  |
-| 25 | [henrykbrzoska/bebok](https://github.com/henrykbrzoska/bebok) | 1 | Rust | 2026-09-11 | Desktop GUI Headless Local-first AI coding agent in Rust (axum, tokio, rmcp, portable-pty) behind HTTP + SSE, with an An |
-| 26 | [agentpit-io/hunter-community](https://github.com/agentpit-io/hunter-community) | 508 | Python | 2026-09-11 | Hunter Community Edition · 私人金融 AI 团队 · AI 智能体 + AI 量化 · 开源自托管 · powered by opencode + Claude Code + MCP + multi-agent · |
-| 27 | [draiqw/browser-agent](https://github.com/draiqw/browser-agent) | 0 | Python | 2026-09-11 | Доработанная версия browser-use: MCP-слой bu_mcp поверх библиотеки — 20 инструментов вместо 5, наблюдение дешевле в 0.76 |
-| 28 | [C-Rhapsody/gemini-connector](https://github.com/C-Rhapsody/gemini-connector) | 6 | Go | 2026-09-11 | Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw. |
-| 29 | [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) | 30340 | Python | 2026-09-11 | Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M |
-| 30 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 126 | HTML | 2026-09-11 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 31 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 3 | HTML | 2026-09-11 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 32 | [samchuit/SolidRockQuant](https://github.com/samchuit/SolidRockQuant) | 0 | Python | 2026-09-11 | Agent 原生的量化研究与回测框架 \| The agent-native quant research & backtest framework for A-shares & futures |
-| 33 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 3269 | Python | 2026-09-11 | SRE Agent - CNCF Sandbox Project |
-| 34 | [chunleik/self-analyst](https://github.com/chunleik/self-analyst) | 0 | Java | 2026-09-11 | 本地优先的个人活动分析工具：在本地采集窗口标题与文件元数据，由本地 Agent 聚合分析，数据格式兼容 ActivityWatch |
-| 35 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 34 | JavaScript | 2026-09-11 | Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies  |
-| 36 | [paopao-13/pecs-multi-agent](https://github.com/paopao-13/pecs-multi-agent) | 0 | Python | 2026-09-11 | PECS: 基于 LangGraph 的四角色多智能体任务求解框架（Planner/Executor/Critic/Synthesizer）。WebShop 真实环境 +25pp (25% vs 0%)；GAIA 官方 53 题 26.4% |
-| 37 | [ljchang/mecha](https://github.com/ljchang/mecha) | 8 | Rust | 2026-09-11 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
+| 1 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 16 | Python | 2026-09-11 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、HMI和Android双端；LLM 只负责理解与规划，VAL 负责确定性安全执行 |
+| 2 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 34 | JavaScript | 2026-09-11 | Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies  |
+| 3 | [yufeiyufei888/browser-bridge](https://github.com/yufeiyufei888/browser-bridge) | 0 | JavaScript | 2026-09-11 | 让任何 AI Agent 用上你的真实浏览器（CDP，自带登录态）—— 跨平台 / 跨 Agent 技能包，基于 web-access (MIT, 一泽Eze) |
+| 4 | [555cute/r20-quantum-trader](https://github.com/555cute/r20-quantum-trader) | 171 | Python | 2026-09-11 | ⚡ LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI  |
+| 5 | [Heliotrope-dev/finance-agent](https://github.com/Heliotrope-dev/finance-agent) | 2 | Python | 2026-09-11 | 行情+财务+新闻交叉验证的科学理财Agent，不做黑箱荐股 |
+| 6 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-09-11 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
+| 7 | [genaforvena/lte-workstation](https://github.com/genaforvena/lte-workstation) | 8 | Shell | 2026-09-11 | An autopoiesic kefir for computing machines |
+| 8 | [ljchang/mecha](https://github.com/ljchang/mecha) | 8 | Rust | 2026-09-11 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
+| 9 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 32 | Python | 2026-09-11 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
+| 10 | [max-champlin/ghost](https://github.com/max-champlin/ghost) | 0 | Java | 2026-09-11 | An in-process bridge giving an AI agent real access to a modded Minecraft world - including mod APIs a protocol-level bo |
+| 11 | [desFernan/puck-windows](https://github.com/desFernan/puck-windows) | 0 | C# | 2026-09-11 | A Windows desktop pet that is also an AI agent. C# / .NET 8 + WPF port of puck-mac. |
+| 12 | [desFernan/puck-linux](https://github.com/desFernan/puck-linux) | 1 | Rust | 2026-09-11 | A Linux desktop pet that is also an AI agent. Rust + GTK4 port of puck-mac. |
+| 13 | [desFernan/puck-mac](https://github.com/desFernan/puck-mac) | 0 | Swift | 2026-09-11 | A macOS desktop pet that is also an AI agent — it walks your screen, and reaches the Mac through its own approval gate. |
+| 14 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 13 | Go | 2026-09-11 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
+| 15 | [mikias-tulu/Code-Visio](https://github.com/mikias-tulu/Code-Visio) | 1 | TypeScript | 2026-09-11 | Code-Visio is a developer tool that turns a running application into an interactive map of its code execution |
+| 16 | [sneha4175/k8s-guard](https://github.com/sneha4175/k8s-guard) | 0 | Python | 2026-09-11 | An SRE agent that looks at a failing Kubernetes pod and opens a pull request with a fix instead of patching the cluster  |
+| 17 | [catsenior507/dsh-context-assembler](https://github.com/catsenior507/dsh-context-assembler) | 0 | TypeScript | 2026-09-11 | Assembled context for DeepSeek Harness: a context tree over the session surface with per-node assemble modes (full / key |
+| 18 | [catsenior507/dsh-clock](https://github.com/catsenior507/dsh-clock) | 0 | TypeScript | 2026-09-11 | Calendar and clock for DeepSeek Harness: an alarm wakes a chosen conversation at a chosen instant, by keyword, with the  |
+| 19 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-09-11 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 20 | [wangyuahn/nori-code](https://github.com/wangyuahn/nori-code) | 17 | TypeScript | 2026-09-11 | A coding assistant built on persistent multi-agent teams: durable members that discuss, chat, and re-sync continuously — |
+| 21 | [leonardomb1/perguntai](https://github.com/leonardomb1/perguntai) | 0 | TypeScript | 2026-09-11 | Talk to your organization's data — agentic analytics assistant over StarRocks, with Claude via Azure AI Foundry and an O |
+| 22 | [justacalico/devinorium](https://github.com/justacalico/devinorium) | 1 | Dart | 2026-09-11 | Control AI agents anywhere. (github mirror) |
+| 23 | [Mlte0907/pangu](https://github.com/Mlte0907/pangu) | 0 | Python | 2026-09-11 | 盘古 — AI Agent 多模态记忆系统：Wing→Room→Drawer 分层存储、ONNX 本地嵌入语义检索（SQLite FTS5 + RRF 融合）、艾宾浩斯遗忘曲线与神经激活扩散；提供 REST API + MCP 服务，默认暴 |
+| 24 | [helixml/helix](https://github.com/helixml/helix) | 805 | Go | 2026-09-11 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
+| 25 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-09-11 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 26 | [lost-rob0t/starintel-gpt-auto-dig](https://github.com/lost-rob0t/starintel-gpt-auto-dig) | 1 | Python | 2026-09-11 | GPT autonomous research and investigation using starintel |
+| 27 | [henrykbrzoska/bebok](https://github.com/henrykbrzoska/bebok) | 1 | Rust | 2026-09-11 | Desktop GUI Headless Local-first AI coding agent in Rust (axum, tokio, rmcp, portable-pty) behind HTTP + SSE, with an An |
+| 28 | [agentpit-io/hunter-community](https://github.com/agentpit-io/hunter-community) | 508 | Python | 2026-09-11 | Hunter Community Edition · 私人金融 AI 团队 · AI 智能体 + AI 量化 · 开源自托管 · powered by opencode + Claude Code + MCP + multi-agent · |
+| 29 | [draiqw/browser-agent](https://github.com/draiqw/browser-agent) | 0 | Python | 2026-09-11 | Доработанная версия browser-use: MCP-слой bu_mcp поверх библиотеки — 20 инструментов вместо 5, наблюдение дешевле в 0.76 |
+| 30 | [C-Rhapsody/gemini-connector](https://github.com/C-Rhapsody/gemini-connector) | 6 | Go | 2026-09-11 | Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw. |
+| 31 | [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) | 30341 | Python | 2026-09-11 | Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M |
+| 32 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 126 | HTML | 2026-09-11 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 33 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 3 | HTML | 2026-09-11 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 34 | [samchuit/SolidRockQuant](https://github.com/samchuit/SolidRockQuant) | 0 | Python | 2026-09-11 | Agent 原生的量化研究与回测框架 \| The agent-native quant research & backtest framework for A-shares & futures |
+| 35 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 3269 | Python | 2026-09-11 | SRE Agent - CNCF Sandbox Project |
+| 36 | [chunleik/self-analyst](https://github.com/chunleik/self-analyst) | 0 | Java | 2026-09-11 | 本地优先的个人活动分析工具：在本地采集窗口标题与文件元数据，由本地 Agent 聚合分析，数据格式兼容 ActivityWatch |
+| 37 | [paopao-13/pecs-multi-agent](https://github.com/paopao-13/pecs-multi-agent) | 0 | Python | 2026-09-11 | PECS: 基于 LangGraph 的四角色多智能体任务求解框架（Planner/Executor/Critic/Synthesizer）。WebShop 真实环境 +25pp (25% vs 0%)；GAIA 官方 53 题 26.4% |
 | 38 | [rugose-learnedprofession58/pi-dsh](https://github.com/rugose-learnedprofession58/pi-dsh) | 1 | TypeScript | 2026-09-11 | Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting |
 | 39 | [abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder](https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder) | 1 | JavaScript | 2026-09-11 | Build structured prompts with reference media for MiniMax H3 video model in ComfyUI. |
 | 40 | [passive-hotpepper515/area-checker-html-tool](https://github.com/passive-hotpepper515/area-checker-html-tool) | 0 | HTML | 2026-09-11 | Verify area values quickly with this web-based HTML calculator tool. |
