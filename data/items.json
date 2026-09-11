@@ -1,11 +1,29 @@
 [
   {
+    "description": "\u0414\u043e\u0440\u0430\u0431\u043e\u0442\u0430\u043d\u043d\u0430\u044f \u0432\u0435\u0440\u0441\u0438\u044f browser-use: MCP-\u0441\u043b\u043e\u0439 bu_mcp \u043f\u043e\u0432\u0435\u0440\u0445 \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0438 \u2014 20 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u043e\u0432 \u0432\u043c\u0435\u0441\u0442\u043e 5, \u043d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u0435 \u0434\u0435\u0448\u0435\u0432\u043b\u0435 \u0432 0.76",
+    "id": "draiqw/browser-agent",
+    "language": "Python",
+    "name": "draiqw/browser-agent",
+    "stars": 0,
+    "updated_at": "2026-09-11T21:59:30Z",
+    "url": "https://github.com/draiqw/browser-agent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-09-11T21:58:38Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
     "id": "emqnuele/projectBEA",
     "language": "Python",
     "name": "emqnuele/projectBEA",
     "stars": 14,
-    "updated_at": "2026-09-11T21:44:53Z",
+    "updated_at": "2026-09-11T21:48:23Z",
     "url": "https://github.com/emqnuele/projectBEA"
   },
   {
@@ -68,7 +86,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-11T21:40:00Z",
+    "updated_at": "2026-09-11T21:47:40Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -79,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-11T21:25:20Z",
     "url": "https://github.com/mktest2179-a11y/ulkucu-baba"
-  },
-  {
-    "description": "\u0414\u043e\u0440\u0430\u0431\u043e\u0442\u0430\u043d\u043d\u0430\u044f \u0432\u0435\u0440\u0441\u0438\u044f browser-use: MCP-\u0441\u043b\u043e\u0439 bu_mcp \u043f\u043e\u0432\u0435\u0440\u0445 \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0438 \u2014 20 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u043e\u0432 \u0432\u043c\u0435\u0441\u0442\u043e 5, \u043d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u0435 \u0434\u0435\u0448\u0435\u0432\u043b\u0435 \u0432 0.76",
-    "id": "draiqw/browser-agent",
-    "language": "Python",
-    "name": "draiqw/browser-agent",
-    "stars": 0,
-    "updated_at": "2026-09-11T21:21:41Z",
-    "url": "https://github.com/draiqw/browser-agent"
   },
   {
     "description": "Open-source crypto paper-trading desk: backtest farm, walk-forward optimizer, 110 exchanges, built-in strategy agent. La",
@@ -391,7 +400,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7210,
+    "stars": 7211,
     "updated_at": "2026-09-11T20:35:33Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-11T20:24:22Z",
     "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "Multi-agent orchestration skill: 6-role pipeline delivers full products. Single writer, read-only advisors, strict gates",
-    "id": "kimi0hhhh/project-orchestrator-skill",
-    "language": "PowerShell",
-    "name": "kimi0hhhh/project-orchestrator-skill",
-    "stars": 0,
-    "updated_at": "2026-09-11T20:23:43Z",
-    "url": "https://github.com/kimi0hhhh/project-orchestrator-skill"
   }
 ]
