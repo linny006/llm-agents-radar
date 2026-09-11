@@ -1,12 +1,75 @@
 [
   {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 126,
+    "updated_at": "2026-09-11T14:12:54Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 3,
+    "updated_at": "2026-09-11T14:11:51Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
     "name": "helixml/helix",
     "stars": 805,
-    "updated_at": "2026-09-11T13:58:29Z",
+    "updated_at": "2026-09-11T14:10:28Z",
     "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Calendar and clock for DeepSeek Harness: an alarm wakes a chosen conversation at a chosen instant, by keyword, with the ",
+    "id": "catsenior507/dsh-clock",
+    "language": "TypeScript",
+    "name": "catsenior507/dsh-clock",
+    "stars": 0,
+    "updated_at": "2026-09-11T14:08:50Z",
+    "url": "https://github.com/catsenior507/dsh-clock"
+  },
+  {
+    "description": "Agent \u539f\u751f\u7684\u91cf\u5316\u7814\u7a76\u4e0e\u56de\u6d4b\u6846\u67b6 | The agent-native quant research & backtest framework for A-shares & futures",
+    "id": "samchuit/SolidRockQuant",
+    "language": "Python",
+    "name": "samchuit/SolidRockQuant",
+    "stars": 0,
+    "updated_at": "2026-09-11T14:08:35Z",
+    "url": "https://github.com/samchuit/SolidRockQuant"
+  },
+  {
+    "description": "\u76d8\u53e4 \u2014 AI Agent \u591a\u6a21\u6001\u8bb0\u5fc6\u7cfb\u7edf\uff1aWing\u2192Room\u2192Drawer \u5206\u5c42\u5b58\u50a8\u3001ONNX \u672c\u5730\u5d4c\u5165\u8bed\u4e49\u68c0\u7d22\uff08SQLite FTS5 + RRF \u878d\u5408\uff09\u3001\u827e\u5bbe\u6d69\u65af\u9057\u5fd8\u66f2\u7ebf\u4e0e\u795e\u7ecf\u6fc0\u6d3b\u6269\u6563\uff1b\u63d0\u4f9b REST API + MCP \u670d\u52a1\uff0c\u9ed8\u8ba4\u66b4",
+    "id": "Mlte0907/pangu",
+    "language": "Python",
+    "name": "Mlte0907/pangu",
+    "stars": 0,
+    "updated_at": "2026-09-11T14:06:29Z",
+    "url": "https://github.com/Mlte0907/pangu"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-11T14:03:06Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2a\u4eba\u6d3b\u52a8\u5206\u6790\u5de5\u5177\uff1a\u5728\u672c\u5730\u91c7\u96c6\u7a97\u53e3\u6807\u9898\u4e0e\u6587\u4ef6\u5143\u6570\u636e\uff0c\u7531\u672c\u5730 Agent \u805a\u5408\u5206\u6790\uff0c\u6570\u636e\u683c\u5f0f\u517c\u5bb9 ActivityWatch",
+    "id": "chunleik/self-analyst",
+    "language": "Java",
+    "name": "chunleik/self-analyst",
+    "stars": 0,
+    "updated_at": "2026-09-11T14:03:21Z",
+    "url": "https://github.com/chunleik/self-analyst"
   },
   {
     "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
@@ -25,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-11T13:53:55Z",
     "url": "https://github.com/paopao-13/pecs-multi-agent"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-11T13:52:26Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -97,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-09-11T13:45:47Z",
     "url": "https://github.com/Blondieredistributed612/pocket-agent"
-  },
-  {
-    "description": "Calendar and clock for DeepSeek Harness: an alarm wakes a chosen conversation at a chosen instant, by keyword, with the ",
-    "id": "catsenior507/dsh-clock",
-    "language": "TypeScript",
-    "name": "catsenior507/dsh-clock",
-    "stars": 0,
-    "updated_at": "2026-09-11T13:44:35Z",
-    "url": "https://github.com/catsenior507/dsh-clock"
   },
   {
     "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
@@ -355,7 +400,7 @@
     "id": "feder-cr/AIHawk",
     "language": "Python",
     "name": "feder-cr/AIHawk",
-    "stars": 30339,
+    "stars": 30340,
     "updated_at": "2026-09-11T13:12:08Z",
     "url": "https://github.com/feder-cr/AIHawk"
   },
@@ -403,50 +448,5 @@
     "stars": 6,
     "updated_at": "2026-09-11T13:04:11Z",
     "url": "https://github.com/C-Rhapsody/gemini-connector"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 238,
-    "updated_at": "2026-09-11T13:01:33Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-09-11T13:00:54Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
-    "id": "memoways/ava-proto1",
-    "language": "TypeScript",
-    "name": "memoways/ava-proto1",
-    "stars": 0,
-    "updated_at": "2026-09-11T12:34:07Z",
-    "url": "https://github.com/memoways/ava-proto1"
-  },
-  {
-    "description": "Human-in-the-loop AI copilot that drafts customer support replies \u2014 FastAPI, LangChain agent, RAG, and long-term memory",
-    "id": "tinyu1295/cus-sup-agent",
-    "language": "Python",
-    "name": "tinyu1295/cus-sup-agent",
-    "stars": 0,
-    "updated_at": "2026-09-11T12:28:50Z",
-    "url": "https://github.com/tinyu1295/cus-sup-agent"
-  },
-  {
-    "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
-    "id": "hoshiyomiX/stellar-trails",
-    "language": "Shell",
-    "name": "hoshiyomiX/stellar-trails",
-    "stars": 0,
-    "updated_at": "2026-09-11T12:40:46Z",
-    "url": "https://github.com/hoshiyomiX/stellar-trails"
   }
 ]
