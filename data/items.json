@@ -1,5 +1,41 @@
 [
   {
+    "description": "A personal expense-tracking agent running on Claude Code: the capture side is deliberately stupid (one sentence to Siri)",
+    "id": "seanlu2006/CountAgent",
+    "language": "Python",
+    "name": "seanlu2006/CountAgent",
+    "stars": 0,
+    "updated_at": "2026-09-11T02:33:28Z",
+    "url": "https://github.com/seanlu2006/CountAgent"
+  },
+  {
+    "description": "A local-first agent workspace: eight self-hosted apps \u2014 mail, calendar, workouts, recipes, films, time, projects, files ",
+    "id": "brendondgr/Mango-Tree",
+    "language": "Python",
+    "name": "brendondgr/Mango-Tree",
+    "stars": 0,
+    "updated_at": "2026-09-11T02:33:13Z",
+    "url": "https://github.com/brendondgr/Mango-Tree"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 31333,
+    "updated_at": "2026-09-11T02:30:56Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 673,
+    "updated_at": "2026-09-11T02:30:56Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
     "description": "PECS: \u57fa\u4e8e LangGraph \u7684\u56db\u89d2\u8272\u591a\u667a\u80fd\u4f53\u4efb\u52a1\u6c42\u89e3\u6846\u67b6\uff08Planner/Executor/Critic/Synthesizer\uff09\u3002WebShop \u771f\u5b9e\u73af\u5883 +25pp (25% vs 0%)\uff1bGAIA \u5b98\u65b9 53 \u9898 26.4%",
     "id": "paopao-13/pecs-multi-agent",
     "language": "Python",
@@ -41,7 +77,7 @@
     "language": "Rust",
     "name": "aviskaar/zorp",
     "stars": 3,
-    "updated_at": "2026-09-11T02:18:43Z",
+    "updated_at": "2026-09-11T02:34:48Z",
     "url": "https://github.com/aviskaar/zorp"
   },
   {
@@ -117,15 +153,6 @@
     "url": "https://github.com/christianOrona/wtfault-scanner"
   },
   {
-    "description": "A personal expense-tracking agent running on Claude Code: the capture side is deliberately stupid (one sentence to Siri)",
-    "id": "seanlu2006/CountAgent",
-    "language": "Python",
-    "name": "seanlu2006/CountAgent",
-    "stars": 0,
-    "updated_at": "2026-09-11T01:53:50Z",
-    "url": "https://github.com/seanlu2006/CountAgent"
-  },
-  {
     "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
     "id": "citizenhicks/mobius",
     "language": "Rust",
@@ -176,7 +203,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-09-11T02:28:59Z",
+    "updated_at": "2026-09-11T02:35:08Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -293,7 +320,7 @@
     "language": "Java",
     "name": "kangwoo/aimon-core",
     "stars": 0,
-    "updated_at": "2026-09-11T02:25:38Z",
+    "updated_at": "2026-09-11T02:42:05Z",
     "url": "https://github.com/kangwoo/aimon-core"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-10T23:55:05Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Policy-driven autopilot for Dependabot PRs and patch releases, with Slack/Discord/Matrix digests",
-    "id": "no42-org/twiki",
-    "language": "TypeScript",
-    "name": "no42-org/twiki",
-    "stars": 0,
-    "updated_at": "2026-09-11T00:28:24Z",
-    "url": "https://github.com/no42-org/twiki"
-  },
-  {
-    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
-    "id": "Screwtopped-annapavlova802/SparkLabs",
-    "language": "C++",
-    "name": "Screwtopped-annapavlova802/SparkLabs",
-    "stars": 1,
-    "updated_at": "2026-09-10T23:53:50Z",
-    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "An in-process bridge giving an AI agent real access to a modded Minecraft world - including mod APIs a protocol-level bo",
-    "id": "max-champlin/ghost",
-    "language": "Java",
-    "name": "max-champlin/ghost",
-    "stars": 0,
-    "updated_at": "2026-09-10T23:53:28Z",
-    "url": "https://github.com/max-champlin/ghost"
   }
 ]
