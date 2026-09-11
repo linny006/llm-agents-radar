@@ -1,12 +1,39 @@
 [
   {
+    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 506,
+    "updated_at": "2026-09-11T07:59:28Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5749,
+    "updated_at": "2026-09-11T07:57:33Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
     "description": "\u7535\u5546\u5e73\u53f0\u5546\u54c1\u5185\u5bb9\u6cbb\u7406\u7684\u590d\u6742\u98ce\u9669\u8c03\u67e5 Agent\uff1aLangGraph \u591a\u6b65\u8c03\u67e5 + \u786e\u5b9a\u6027 Decision Gate\uff0c\u8f93\u51fa PASS / REJECT / HUMAN_REVIEW\uff1b\u5168\u94fe\u8def\u786e\u5b9a\u6027\u53ef\u91cd\u653e\u8bc4\u6d4b",
     "id": "donglongjun886/product-review-agent",
     "language": "Python",
     "name": "donglongjun886/product-review-agent",
     "stars": 1,
-    "updated_at": "2026-09-11T07:43:01Z",
+    "updated_at": "2026-09-11T07:56:01Z",
     "url": "https://github.com/donglongjun886/product-review-agent"
+  },
+  {
+    "description": "PECS: \u57fa\u4e8e LangGraph \u7684\u56db\u89d2\u8272\u591a\u667a\u80fd\u4f53\u4efb\u52a1\u6c42\u89e3\u6846\u67b6\uff08Planner/Executor/Critic/Synthesizer\uff09\u3002WebShop \u771f\u5b9e\u73af\u5883 +25pp (25% vs 0%)\uff1bGAIA \u5b98\u65b9 53 \u9898 26.4%",
+    "id": "paopao-13/pecs-multi-agent",
+    "language": "Python",
+    "name": "paopao-13/pecs-multi-agent",
+    "stars": 0,
+    "updated_at": "2026-09-11T07:49:31Z",
+    "url": "https://github.com/paopao-13/pecs-multi-agent"
   },
   {
     "description": "\ud83e\udeb6 Quill \u2014 Open-source AI super-agent framework with sandboxed execution, sub-agent orchestration, MCP, skills marketplac",
@@ -95,7 +122,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-11T07:31:41Z",
+    "updated_at": "2026-09-11T07:55:10Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -160,15 +187,6 @@
     "stars": 34,
     "updated_at": "2026-09-11T07:32:17Z",
     "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
-    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 506,
-    "updated_at": "2026-09-11T07:26:17Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
   },
   {
     "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
@@ -324,15 +342,6 @@
     "url": "https://github.com/axxafo/awesome-agent-benchmarks"
   },
   {
-    "description": "PECS: \u57fa\u4e8e LangGraph \u7684\u56db\u89d2\u8272\u591a\u667a\u80fd\u4f53\u4efb\u52a1\u6c42\u89e3\u6846\u67b6\uff08Planner/Executor/Critic/Synthesizer\uff09\u3002WebShop \u771f\u5b9e\u73af\u5883 +25pp (25% vs 0%)\uff1bGAIA \u5b98\u65b9 53 \u9898 26.4%",
-    "id": "paopao-13/pecs-multi-agent",
-    "language": "Python",
-    "name": "paopao-13/pecs-multi-agent",
-    "stars": 0,
-    "updated_at": "2026-09-11T07:04:32Z",
-    "url": "https://github.com/paopao-13/pecs-multi-agent"
-  },
-  {
     "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
     "id": "yigido41/agentic-ai",
     "language": "Python",
@@ -436,17 +445,8 @@
     "id": "christianOrona/wtfault-scanner",
     "language": "Rust",
     "name": "christianOrona/wtfault-scanner",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-09-11T06:30:29Z",
     "url": "https://github.com/christianOrona/wtfault-scanner"
-  },
-  {
-    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2a\u4eba\u6d3b\u52a8\u5206\u6790\u5de5\u5177\uff1a\u5728\u672c\u5730\u91c7\u96c6\u7a97\u53e3\u6807\u9898\u4e0e\u6587\u4ef6\u5143\u6570\u636e\uff0c\u7531\u672c\u5730 Agent \u805a\u5408\u5206\u6790\uff0c\u6570\u636e\u683c\u5f0f\u517c\u5bb9 ActivityWatch",
-    "id": "chunleik/self-analyst",
-    "language": "Java",
-    "name": "chunleik/self-analyst",
-    "stars": 0,
-    "updated_at": "2026-09-11T06:33:12Z",
-    "url": "https://github.com/chunleik/self-analyst"
   }
 ]
