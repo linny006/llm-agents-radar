@@ -1,5 +1,23 @@
 [
   {
+    "description": "Drop-in OpenAI/Anthropic proxy that cuts long-horizon agent prompt tokens 60-95% via SKILL.state (arXiv:2608.26263). MIT",
+    "id": "NosytLabs/skillstate-proxy",
+    "language": "TypeScript",
+    "name": "NosytLabs/skillstate-proxy",
+    "stars": 2,
+    "updated_at": "2026-09-11T23:41:56Z",
+    "url": "https://github.com/NosytLabs/skillstate-proxy"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-11T23:34:20Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
     "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
     "id": "kangwoo/aimon-core",
     "language": "Java",
@@ -34,6 +52,15 @@
     "stars": 2,
     "updated_at": "2026-09-11T23:26:40Z",
     "url": "https://github.com/christianOrona/wtfault-scanner"
+  },
+  {
+    "description": "\u75c5\u5386\u7ba1\u7406 \u00b7 \u7535\u5b50\u75c5\u5386\u5e93\uff1a\u7528 Obsidian + AI Agent \u5f52\u6863\u4f53\u68c0\u62a5\u544a\u3001\u5316\u9a8c\u5355\u3001\u5c31\u533b\u8bb0\u5f55\u4e0e\u7528\u836f\u53f2\u3002\u542b Hermes Agent \u6280\u80fd\u5305 + \u7a7a\u5e93\u6a21\u677f\uff0c\u4e00\u952e\u5b89\u88c5\u3002",
+    "id": "Lumin278/emr-vault-template",
+    "language": "Python",
+    "name": "Lumin278/emr-vault-template",
+    "stars": 0,
+    "updated_at": "2026-09-11T23:20:33Z",
+    "url": "https://github.com/Lumin278/emr-vault-template"
   },
   {
     "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
@@ -88,15 +115,6 @@
     "stars": 39,
     "updated_at": "2026-09-11T23:08:04Z",
     "url": "https://github.com/Maximilian-Winter/ToolAgents"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-11T23:03:35Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "A delivery-discipline behavior layer for AI agents \u2014 turns \u201cthe agent says it's done\u201d into \u201cthe agent proves it's done\u201d:",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-11T20:52:52Z",
     "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "Restaurante real en producci\u00f3n: web, carta por QR y un agente de Telegram/WhatsApp que cambia precios. El modelo emite a",
-    "id": "AngelReml/donpepe",
-    "language": "HTML",
-    "name": "AngelReml/donpepe",
-    "stars": 0,
-    "updated_at": "2026-09-11T20:51:21Z",
-    "url": "https://github.com/AngelReml/donpepe"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-09-11T20:50:15Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
   }
 ]
