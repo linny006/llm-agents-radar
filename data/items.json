@@ -1,21 +1,12 @@
 [
   {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
+    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
+    "id": "Indrasclerotinia71/local-ai-research-assistant",
     "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-09-11T18:30:05Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
-    "id": "Heliotrope-dev/finance-agent",
-    "language": "Python",
-    "name": "Heliotrope-dev/finance-agent",
-    "stars": 2,
-    "updated_at": "2026-09-11T18:29:33Z",
-    "url": "https://github.com/Heliotrope-dev/finance-agent"
+    "name": "Indrasclerotinia71/local-ai-research-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-11T18:44:20Z",
+    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -23,8 +14,134 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 28,
-    "updated_at": "2026-09-11T18:28:22Z",
+    "updated_at": "2026-09-11T18:43:53Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
+    "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
+    "language": "Python",
+    "name": "Furrowed-subphylumurochorda108/kimi-K2.6",
+    "stars": 3,
+    "updated_at": "2026-09-11T18:43:19Z",
+    "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
+  },
+  {
+    "description": "\u884c\u60c5+\u8d22\u52a1+\u65b0\u95fb\u4ea4\u53c9\u9a8c\u8bc1\u7684\u79d1\u5b66\u7406\u8d22Agent\uff0c\u4e0d\u505a\u9ed1\u7bb1\u8350\u80a1",
+    "id": "Heliotrope-dev/finance-agent",
+    "language": "Python",
+    "name": "Heliotrope-dev/finance-agent",
+    "stars": 2,
+    "updated_at": "2026-09-11T18:42:54Z",
+    "url": "https://github.com/Heliotrope-dev/finance-agent"
+  },
+  {
+    "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
+    "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
+    "language": "\u2014",
+    "name": "mpardakaskon-boop/obsidian-llm-wiki-local",
+    "stars": 1,
+    "updated_at": "2026-09-11T18:42:35Z",
+    "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
+  },
+  {
+    "description": "An agentic OBD-II scanner that never makes anything up. Bring your own model, read every module on the bus, and click an",
+    "id": "christianOrona/wtfault-scanner",
+    "language": "Rust",
+    "name": "christianOrona/wtfault-scanner",
+    "stars": 2,
+    "updated_at": "2026-09-11T18:41:31Z",
+    "url": "https://github.com/christianOrona/wtfault-scanner"
+  },
+  {
+    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
+    "id": "HELLOCODINGTR/AgentForge",
+    "language": "\u2014",
+    "name": "HELLOCODINGTR/AgentForge",
+    "stars": 1,
+    "updated_at": "2026-09-11T18:38:44Z",
+    "url": "https://github.com/HELLOCODINGTR/AgentForge"
+  },
+  {
+    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
+    "id": "strobilevitellus470/argus-ai",
+    "language": "Python",
+    "name": "strobilevitellus470/argus-ai",
+    "stars": 1,
+    "updated_at": "2026-09-11T18:38:01Z",
+    "url": "https://github.com/strobilevitellus470/argus-ai"
+  },
+  {
+    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
+    "id": "juandavidru4641/dsplab",
+    "language": "JavaScript",
+    "name": "juandavidru4641/dsplab",
+    "stars": 0,
+    "updated_at": "2026-09-11T18:35:18Z",
+    "url": "https://github.com/juandavidru4641/dsplab"
+  },
+  {
+    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
+    "id": "laoxs2002/genai-agentes",
+    "language": "Jupyter Notebook",
+    "name": "laoxs2002/genai-agentes",
+    "stars": 0,
+    "updated_at": "2026-09-11T18:34:59Z",
+    "url": "https://github.com/laoxs2002/genai-agentes"
+  },
+  {
+    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
+    "id": "heba-ramdan/harness",
+    "language": "TypeScript",
+    "name": "heba-ramdan/harness",
+    "stars": 1,
+    "updated_at": "2026-09-11T18:33:16Z",
+    "url": "https://github.com/heba-ramdan/harness"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-11T18:33:08Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
+    "id": "Ronit0p/AutoGod",
+    "language": "Java",
+    "name": "Ronit0p/AutoGod",
+    "stars": 0,
+    "updated_at": "2026-09-11T18:32:37Z",
+    "url": "https://github.com/Ronit0p/AutoGod"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-11T18:32:34Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
+    "id": "lukky262/ARE",
+    "language": "\u2014",
+    "name": "lukky262/ARE",
+    "stars": 1,
+    "updated_at": "2026-09-11T18:31:25Z",
+    "url": "https://github.com/lukky262/ARE"
+  },
+  {
+    "description": "",
+    "id": "hichamnes-prog/exforum-auto-poster",
+    "language": "Python",
+    "name": "hichamnes-prog/exforum-auto-poster",
+    "stars": 1,
+    "updated_at": "2026-09-11T18:30:05Z",
+    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
   },
   {
     "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
@@ -63,6 +180,15 @@
     "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
   },
   {
+    "description": "Explainable AI-based sepsis prediction and deterioration analysis",
+    "id": "Prajin-K/Explainable-Sepsis-AI",
+    "language": "Jupyter Notebook",
+    "name": "Prajin-K/Explainable-Sepsis-AI",
+    "stars": 1,
+    "updated_at": "2026-09-11T18:23:37Z",
+    "url": "https://github.com/Prajin-K/Explainable-Sepsis-AI"
+  },
+  {
     "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
     "id": "amineeng/scraping-browser",
     "language": "\u2014",
@@ -70,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-09-11T18:23:00Z",
     "url": "https://github.com/amineeng/scraping-browser"
-  },
-  {
-    "description": "An agentic OBD-II scanner that never makes anything up. Bring your own model, read every module on the bus, and click an",
-    "id": "christianOrona/wtfault-scanner",
-    "language": "Rust",
-    "name": "christianOrona/wtfault-scanner",
-    "stars": 2,
-    "updated_at": "2026-09-11T18:22:52Z",
-    "url": "https://github.com/christianOrona/wtfault-scanner"
   },
   {
     "description": "Talk to your organization's data \u2014 agentic analytics assistant over StarRocks, with Claude via Azure AI Foundry and an O",
@@ -212,7 +329,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 8,
-    "updated_at": "2026-09-11T18:27:13Z",
+    "updated_at": "2026-09-11T18:40:46Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -232,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-09-11T17:49:34Z",
     "url": "https://github.com/SRINIVASTA/gemini-booking-agent"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-11T17:48:06Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "A delivery-discipline behavior layer for AI agents \u2014 turns \u201cthe agent says it's done\u201d into \u201cthe agent proves it's done\u201d:",
@@ -340,113 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-11T17:05:20Z",
     "url": "https://github.com/karstom/simplegraph-agentic"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7206,
-    "updated_at": "2026-09-11T16:59:34Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/",
-    "id": "ZekaiShi/evo-subagent",
-    "language": "JavaScript",
-    "name": "ZekaiShi/evo-subagent",
-    "stars": 7,
-    "updated_at": "2026-09-11T16:56:49Z",
-    "url": "https://github.com/ZekaiShi/evo-subagent"
-  },
-  {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 1209,
-    "updated_at": "2026-09-11T16:51:18Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
-    "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
-    "id": "aviskaar/zorp",
-    "language": "Rust",
-    "name": "aviskaar/zorp",
-    "stars": 3,
-    "updated_at": "2026-09-11T16:42:10Z",
-    "url": "https://github.com/aviskaar/zorp"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 16,
-    "updated_at": "2026-09-11T16:41:45Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "An AI Agent for everyday SWE with minimalist style",
-    "id": "thehope2k/minimalist-agent",
-    "language": "TypeScript",
-    "name": "thehope2k/minimalist-agent",
-    "stars": 1,
-    "updated_at": "2026-09-11T16:13:44Z",
-    "url": "https://github.com/thehope2k/minimalist-agent"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-09-11T16:13:10Z",
-    "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Lawgent \u2014 an open-source legal AI agent. Grounded, multi-jurisdiction (CN \u00b7 US \u00b7 EU \u00b7 ET \u00b7 ICAO), citation-verified: eve",
-    "id": "WenzhuoXu/lawgent",
-    "language": "Python",
-    "name": "WenzhuoXu/lawgent",
-    "stars": 6,
-    "updated_at": "2026-09-11T16:07:21Z",
-    "url": "https://github.com/WenzhuoXu/lawgent"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 171,
-    "updated_at": "2026-09-11T16:06:37Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
-  },
-  {
-    "description": "\u8ba9\u4efb\u4f55 AI Agent \u7528\u4e0a\u4f60\u7684\u771f\u5b9e\u6d4f\u89c8\u5668\uff08CDP\uff0c\u81ea\u5e26\u767b\u5f55\u6001\uff09\u2014\u2014 \u8de8\u5e73\u53f0 / \u8de8 Agent \u6280\u80fd\u5305\uff0c\u57fa\u4e8e web-access (MIT, \u4e00\u6cfdEze)",
-    "id": "yufeiyufei888/browser-bridge",
-    "language": "JavaScript",
-    "name": "yufeiyufei888/browser-bridge",
-    "stars": 0,
-    "updated_at": "2026-09-11T15:52:49Z",
-    "url": "https://github.com/yufeiyufei888/browser-bridge"
-  },
-  {
-    "description": "A Windows desktop pet that is also an AI agent. C# / .NET 8 + WPF port of puck-mac.",
-    "id": "desFernan/puck-windows",
-    "language": "C#",
-    "name": "desFernan/puck-windows",
-    "stars": 0,
-    "updated_at": "2026-09-11T15:45:04Z",
-    "url": "https://github.com/desFernan/puck-windows"
-  },
-  {
-    "description": "A Linux desktop pet that is also an AI agent. Rust + GTK4 port of puck-mac.",
-    "id": "desFernan/puck-linux",
-    "language": "Rust",
-    "name": "desFernan/puck-linux",
-    "stars": 1,
-    "updated_at": "2026-09-11T15:45:13Z",
-    "url": "https://github.com/desFernan/puck-linux"
   }
 ]
