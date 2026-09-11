@@ -1,5 +1,77 @@
 [
   {
+    "description": "AgentBypass \u2014 Omni Operator LLM Agent Skill (Cknb): Turn any LLM into RE / Pwn / CTF / Pentest / Protocol / Crypto / Mob",
+    "id": "1837620622/agent-bypass",
+    "language": "\u2014",
+    "name": "1837620622/agent-bypass",
+    "stars": 0,
+    "updated_at": "2026-09-11T02:59:46Z",
+    "url": "https://github.com/1837620622/agent-bypass"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-09-11T02:57:33Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "\u7535\u5546\u5e73\u53f0\u5546\u54c1\u5185\u5bb9\u6cbb\u7406\u7684\u590d\u6742\u98ce\u9669\u8c03\u67e5 Agent\uff1aLangGraph \u591a\u6b65\u8c03\u67e5 + \u786e\u5b9a\u6027 Decision Gate\uff0c\u8f93\u51fa PASS / REJECT / HUMAN_REVIEW\uff1b\u5168\u94fe\u8def\u786e\u5b9a\u6027\u53ef\u91cd\u653e\u8bc4\u6d4b",
+    "id": "donglongjun886/product-review-agent",
+    "language": "Python",
+    "name": "donglongjun886/product-review-agent",
+    "stars": 0,
+    "updated_at": "2026-09-11T02:57:06Z",
+    "url": "https://github.com/donglongjun886/product-review-agent"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-09-11T02:53:24Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-09-11T02:52:49Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 31333,
+    "updated_at": "2026-09-11T02:51:25Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-11T02:48:06Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 1,
+    "updated_at": "2026-09-11T02:54:25Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
     "description": "A personal expense-tracking agent running on Claude Code: the capture side is deliberately stupid (one sentence to Siri)",
     "id": "seanlu2006/CountAgent",
     "language": "Python",
@@ -16,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-11T02:33:13Z",
     "url": "https://github.com/brendondgr/Mango-Tree"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 31333,
-    "updated_at": "2026-09-11T02:30:56Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
@@ -59,7 +122,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-11T02:19:08Z",
+    "updated_at": "2026-09-11T02:57:50Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -88,15 +151,6 @@
     "stars": 14163,
     "updated_at": "2026-09-11T02:18:40Z",
     "url": "https://github.com/lsdefine/GenericAgent"
-  },
-  {
-    "description": "\u7535\u5546\u5e73\u53f0\u5546\u54c1\u5185\u5bb9\u6cbb\u7406\u7684\u590d\u6742\u98ce\u9669\u8c03\u67e5 Agent\uff1aLangGraph \u591a\u6b65\u8c03\u67e5 + \u786e\u5b9a\u6027 Decision Gate\uff0c\u8f93\u51fa PASS / REJECT / HUMAN_REVIEW\uff1b\u5168\u94fe\u8def\u786e\u5b9a\u6027\u53ef\u91cd\u653e\u8bc4\u6d4b",
-    "id": "donglongjun886/product-review-agent",
-    "language": "Python",
-    "name": "donglongjun886/product-review-agent",
-    "stars": 0,
-    "updated_at": "2026-09-11T02:18:06Z",
-    "url": "https://github.com/donglongjun886/product-review-agent"
   },
   {
     "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
@@ -198,15 +252,6 @@
     "url": "https://github.com/YeYan0829/codingAgent"
   },
   {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 1,
-    "updated_at": "2026-09-11T02:35:08Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
     "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
     "id": "Torvian-eu/chatbot",
     "language": "Kotlin",
@@ -250,15 +295,6 @@
     "stars": 7199,
     "updated_at": "2026-09-11T01:18:22Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-11T01:18:08Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Open-source AI compute orchestration network \u2014 coordinates AI models, agents, and compute resources through one unified ",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-10T23:56:36Z",
     "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
-  },
-  {
-    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
-    "id": "Arjunadh5305/ios-skills-collection",
-    "language": "\u2014",
-    "name": "Arjunadh5305/ios-skills-collection",
-    "stars": 1,
-    "updated_at": "2026-09-10T23:56:29Z",
-    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
-  },
-  {
-    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
-    "id": "Stolas34/voice-input-src",
-    "language": "\u2014",
-    "name": "Stolas34/voice-input-src",
-    "stars": 0,
-    "updated_at": "2026-09-10T23:56:08Z",
-    "url": "https://github.com/Stolas34/voice-input-src"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 126,
-    "updated_at": "2026-09-10T23:55:44Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 3,
-    "updated_at": "2026-09-10T23:55:05Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   }
 ]
