@@ -1,5 +1,95 @@
 [
   {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 1,
+    "updated_at": "2026-09-11T13:14:41Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 130,
+    "updated_at": "2026-09-11T13:14:07Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Calendar and clock for DeepSeek Harness: an alarm wakes a chosen conversation at a chosen instant, by keyword, with the ",
+    "id": "catsenior507/dsh-clock",
+    "language": "TypeScript",
+    "name": "catsenior507/dsh-clock",
+    "stars": 0,
+    "updated_at": "2026-09-11T13:09:11Z",
+    "url": "https://github.com/catsenior507/dsh-clock"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-09-11T13:08:49Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "\u6d77\u9f9f\u6c64\uff08\u60c5\u5883\u731c\u8c1c/\u6a2a\u5411\u601d\u7ef4\u8c1c\u9898\uff09\u521b\u4f5c\u65b9\u6cd5\u8bba\u2014\u2014\u56db\u9636\u6bb5\u65bd\u5de5\u6846\u67b6 | A methodology for crafting turtle soup / lateral thinking puzzles: 4-phase pipeline fro",
+    "id": "906491213/writing-turtle-soup",
+    "language": "\u2014",
+    "name": "906491213/writing-turtle-soup",
+    "stars": 2,
+    "updated_at": "2026-09-11T13:08:23Z",
+    "url": "https://github.com/906491213/writing-turtle-soup"
+  },
+  {
+    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 34,
+    "updated_at": "2026-09-11T13:06:54Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 3,
+    "updated_at": "2026-09-11T13:05:42Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw.",
+    "id": "C-Rhapsody/gemini-connector",
+    "language": "Go",
+    "name": "C-Rhapsody/gemini-connector",
+    "stars": 6,
+    "updated_at": "2026-09-11T13:04:11Z",
+    "url": "https://github.com/C-Rhapsody/gemini-connector"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 238,
+    "updated_at": "2026-09-11T13:01:33Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-09-11T13:00:54Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
     "description": "\u7535\u5546\u5e73\u53f0\u5546\u54c1\u5185\u5bb9\u6cbb\u7406\u7684\u590d\u6742\u98ce\u9669\u8c03\u67e5 Agent\uff1aLangGraph \u591a\u6b65\u8c03\u67e5 + \u786e\u5b9a\u6027 Decision Gate\uff0c\u8f93\u51fa PASS / REJECT / HUMAN_REVIEW\uff1b\u5168\u94fe\u8def\u786e\u5b9a\u6027\u53ef\u91cd\u653e\u8bc4\u6d4b",
     "id": "donglongjun886/product-review-agent",
     "language": "Python",
@@ -14,7 +104,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-09-11T12:44:12Z",
+    "updated_at": "2026-09-11T13:14:37Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-11T11:17:28Z",
     "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-09-11T11:16:18Z",
-    "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-09-11T11:14:59Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
-    "id": "muhzars/Agent.cpp",
-    "language": "C++",
-    "name": "muhzars/Agent.cpp",
-    "stars": 1,
-    "updated_at": "2026-09-11T11:12:15Z",
-    "url": "https://github.com/muhzars/Agent.cpp"
-  },
-  {
-    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
-    "id": "faheela-786/ComfyUI-qwenmultiangle",
-    "language": "\u2014",
-    "name": "faheela-786/ComfyUI-qwenmultiangle",
-    "stars": 2,
-    "updated_at": "2026-09-11T11:09:40Z",
-    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
-  },
-  {
-    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
-    "id": "amineeng/scraping-browser",
-    "language": "\u2014",
-    "name": "amineeng/scraping-browser",
-    "stars": 1,
-    "updated_at": "2026-09-11T11:08:25Z",
-    "url": "https://github.com/amineeng/scraping-browser"
-  },
-  {
-    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
-    "id": "Saran1536/ComfyUI-LoaderUtils",
-    "language": "Python",
-    "name": "Saran1536/ComfyUI-LoaderUtils",
-    "stars": 0,
-    "updated_at": "2026-09-11T11:05:33Z",
-    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
-  },
-  {
-    "description": "\ud83c\udfb5 \u4e13\u5c5e\u4f60\u7684\u79c1\u4eba\u6570\u5b57\u8c03\u97f3\u5e08|AI \u97f3\u4e50\u641c\u7d22\u63a8\u8350 Agent | \u57fa\u4e8e\u5927\u6a21\u578b + \u77e5\u8bc6\u56fe\u8c31 + \u53cc\u6a21\u578b\u58f0\u5b66\u5411\u91cf\u7684\u672c\u5730\u667a\u80fd\u97f3\u4e50\u63a8\u8350\u7cfb\u7edf | LLM-powered Music Recommendation Agent with Hybrid R",
-    "id": "hgsanyang/SoulTuner-Agent",
-    "language": "Python",
-    "name": "hgsanyang/SoulTuner-Agent",
-    "stars": 21,
-    "updated_at": "2026-09-11T11:06:58Z",
-    "url": "https://github.com/hgsanyang/SoulTuner-Agent"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 1,
-    "updated_at": "2026-09-11T11:04:17Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-09-11T10:58:26Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 3,
-    "updated_at": "2026-09-11T10:55:51Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
   }
 ]
