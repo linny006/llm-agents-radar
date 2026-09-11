@@ -1,12 +1,39 @@
 [
   {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-09-11T12:44:12Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
     "id": "memoways/ava-proto1",
     "language": "TypeScript",
     "name": "memoways/ava-proto1",
     "stars": 0,
-    "updated_at": "2026-09-11T12:27:05Z",
+    "updated_at": "2026-09-11T12:34:07Z",
     "url": "https://github.com/memoways/ava-proto1"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-11T12:33:48Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Human-in-the-loop AI copilot that drafts customer support replies \u2014 FastAPI, LangChain agent, RAG, and long-term memory",
+    "id": "tinyu1295/cus-sup-agent",
+    "language": "Python",
+    "name": "tinyu1295/cus-sup-agent",
+    "stars": 0,
+    "updated_at": "2026-09-11T12:28:50Z",
+    "url": "https://github.com/tinyu1295/cus-sup-agent"
   },
   {
     "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
@@ -14,7 +41,7 @@
     "language": "Shell",
     "name": "hoshiyomiX/stellar-trails",
     "stars": 0,
-    "updated_at": "2026-09-11T12:24:42Z",
+    "updated_at": "2026-09-11T12:40:46Z",
     "url": "https://github.com/hoshiyomiX/stellar-trails"
   },
   {
@@ -126,15 +153,6 @@
     "url": "https://github.com/emqnuele/projectBEA"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-11T11:55:08Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "PECS: \u57fa\u4e8e LangGraph \u7684\u56db\u89d2\u8272\u591a\u667a\u80fd\u4f53\u4efb\u52a1\u6c42\u89e3\u6846\u67b6\uff08Planner/Executor/Critic/Synthesizer\uff09\u3002WebShop \u771f\u5b9e\u73af\u5883 +25pp (25% vs 0%)\uff1bGAIA \u5b98\u65b9 53 \u9898 26.4%",
     "id": "paopao-13/pecs-multi-agent",
     "language": "Python",
@@ -214,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-09-11T11:34:57Z",
     "url": "https://github.com/Blondieredistributed612/pocket-agent"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-09-11T11:53:30Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-11T10:49:19Z",
     "url": "https://github.com/catsenior507/dsh-context-assembler"
-  },
-  {
-    "description": "Calendar and clock for DeepSeek Harness: an alarm wakes a chosen conversation at a chosen instant, by keyword, with the ",
-    "id": "catsenior507/dsh-clock",
-    "language": "TypeScript",
-    "name": "catsenior507/dsh-clock",
-    "stars": 0,
-    "updated_at": "2026-09-11T10:48:57Z",
-    "url": "https://github.com/catsenior507/dsh-clock"
   }
 ]
