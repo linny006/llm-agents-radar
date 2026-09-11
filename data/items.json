@@ -1,5 +1,167 @@
 [
   {
+    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
+    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "language": "\u2014",
+    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "stars": 0,
+    "updated_at": "2026-09-11T03:29:28Z",
+    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
+  },
+  {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-09-11T03:28:58Z",
+    "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 32,
+    "updated_at": "2026-09-11T03:28:56Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
+    "id": "clashroy5384/ai-papers-hub",
+    "language": "\u2014",
+    "name": "clashroy5384/ai-papers-hub",
+    "stars": 0,
+    "updated_at": "2026-09-11T03:28:16Z",
+    "url": "https://github.com/clashroy5384/ai-papers-hub"
+  },
+  {
+    "description": "React web and React Native mobile apps: authenticated chat, an LLM chat client, and a tool-calling AI agent",
+    "id": "V1R4V/React-Web-and-Mobile-Apps",
+    "language": "JavaScript",
+    "name": "V1R4V/React-Web-and-Mobile-Apps",
+    "stars": 0,
+    "updated_at": "2026-09-11T03:26:42Z",
+    "url": "https://github.com/V1R4V/React-Web-and-Mobile-Apps"
+  },
+  {
+    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
+    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
+    "language": "Python",
+    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
+    "stars": 5,
+    "updated_at": "2026-09-11T03:26:31Z",
+    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-09-11T03:26:28Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
+    "id": "oxidizable-malinois605/bridge-suite-mcp",
+    "language": "TypeScript",
+    "name": "oxidizable-malinois605/bridge-suite-mcp",
+    "stars": 0,
+    "updated_at": "2026-09-11T03:24:36Z",
+    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
+  },
+  {
+    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
+    "id": "Arjunadh5305/ios-skills-collection",
+    "language": "\u2014",
+    "name": "Arjunadh5305/ios-skills-collection",
+    "stars": 1,
+    "updated_at": "2026-09-11T03:24:33Z",
+    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
+  },
+  {
+    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
+    "id": "Stolas34/voice-input-src",
+    "language": "\u2014",
+    "name": "Stolas34/voice-input-src",
+    "stars": 0,
+    "updated_at": "2026-09-11T03:24:17Z",
+    "url": "https://github.com/Stolas34/voice-input-src"
+  },
+  {
+    "description": "A persistent agent runtime and its official CLI. Three packages: @echo-agent/core (runtime/SDK, zero runtime dependencie",
+    "id": "echo-yiyi/echo-agent",
+    "language": "TypeScript",
+    "name": "echo-yiyi/echo-agent",
+    "stars": 2,
+    "updated_at": "2026-09-11T03:23:04Z",
+    "url": "https://github.com/echo-yiyi/echo-agent"
+  },
+  {
+    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
+    "id": "Screwtopped-annapavlova802/SparkLabs",
+    "language": "C++",
+    "name": "Screwtopped-annapavlova802/SparkLabs",
+    "stars": 1,
+    "updated_at": "2026-09-11T03:22:16Z",
+    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
+  },
+  {
+    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
+    "id": "mriazi1982/octopai",
+    "language": "Python",
+    "name": "mriazi1982/octopai",
+    "stars": 1,
+    "updated_at": "2026-09-11T03:20:57Z",
+    "url": "https://github.com/mriazi1982/octopai"
+  },
+  {
+    "description": "An agentic OBD-II scanner that never makes anything up. Bring your own model, read every module on the bus, and click an",
+    "id": "christianOrona/wtfault-scanner",
+    "language": "Rust",
+    "name": "christianOrona/wtfault-scanner",
+    "stars": 1,
+    "updated_at": "2026-09-11T03:18:35Z",
+    "url": "https://github.com/christianOrona/wtfault-scanner"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5749,
+    "updated_at": "2026-09-11T03:28:13Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
+    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
+    "id": "mezoali100/exforum-auto-poster",
+    "language": "\u2014",
+    "name": "mezoali100/exforum-auto-poster",
+    "stars": 1,
+    "updated_at": "2026-09-11T03:18:11Z",
+    "url": "https://github.com/mezoali100/exforum-auto-poster"
+  },
+  {
+    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
+    "id": "Bowotria/aethercore",
+    "language": "Go",
+    "name": "Bowotria/aethercore",
+    "stars": 2,
+    "updated_at": "2026-09-11T03:18:03Z",
+    "url": "https://github.com/Bowotria/aethercore"
+  },
+  {
+    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
+    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "language": "Python",
+    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "stars": 3,
+    "updated_at": "2026-09-11T03:16:13Z",
+    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
+  },
+  {
     "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
     "id": "mohahasan/ios-agentic-skills",
     "language": "JavaScript",
@@ -16,15 +178,6 @@
     "stars": 506,
     "updated_at": "2026-09-11T03:12:18Z",
     "url": "https://github.com/agentpit-io/hunter-community"
-  },
-  {
-    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
-    "id": "kangwoo/aimon-core",
-    "language": "Java",
-    "name": "kangwoo/aimon-core",
-    "stars": 0,
-    "updated_at": "2026-09-11T03:14:19Z",
-    "url": "https://github.com/kangwoo/aimon-core"
   },
   {
     "description": "Distilly \u2014 Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill\uff08\u539f\u540c\u4e8b Skill\uff09.",
@@ -63,15 +216,6 @@
     "url": "https://github.com/axxafo/awesome-agent-benchmarks"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-09-11T03:03:44Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -103,7 +247,7 @@
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 443,
+    "stars": 444,
     "updated_at": "2026-09-11T03:02:11Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
@@ -176,7 +320,7 @@
     "language": "Python",
     "name": "feder-cr/AIHawk",
     "stars": 30337,
-    "updated_at": "2026-09-11T03:10:30Z",
+    "updated_at": "2026-09-11T03:19:28Z",
     "url": "https://github.com/feder-cr/AIHawk"
   },
   {
@@ -207,7 +351,7 @@
     "url": "https://github.com/seanlu2006/CountAgent"
   },
   {
-    "description": "A local-first agent workspace: eight self-hosted apps \u2014 mail, calendar, workouts, recipes, films, time, projects, files ",
+    "description": "A local-first Agent workspace with 8 self-hosted applications.",
     "id": "brendondgr/Mango-Tree",
     "language": "Python",
     "name": "brendondgr/Mango-Tree",
@@ -304,149 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-11T02:09:07Z",
     "url": "https://github.com/milljm/dynamic-rag-chat"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 32,
-    "updated_at": "2026-09-11T02:08:18Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Keep agent CLIs running 7\u00d724 \u2014 supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure",
-    "id": "wan9yu/cli-agent-runner",
-    "language": "Python",
-    "name": "wan9yu/cli-agent-runner",
-    "stars": 4,
-    "updated_at": "2026-09-11T02:04:18Z",
-    "url": "https://github.com/wan9yu/cli-agent-runner"
-  },
-  {
-    "description": "An agentic OBD-II scanner that never makes anything up. Bring your own model, read every module on the bus, and click an",
-    "id": "christianOrona/wtfault-scanner",
-    "language": "Rust",
-    "name": "christianOrona/wtfault-scanner",
-    "stars": 1,
-    "updated_at": "2026-09-11T01:55:23Z",
-    "url": "https://github.com/christianOrona/wtfault-scanner"
-  },
-  {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-09-11T01:53:40Z",
-    "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
-    "description": "\u26a1 Summary-free context window rollover, model-authored notes, and scoped history lookup plugin for DeepSeek Harness (DSH",
-    "id": "fancyboi999/dsh-newwindows",
-    "language": "TypeScript",
-    "name": "fancyboi999/dsh-newwindows",
-    "stars": 0,
-    "updated_at": "2026-09-11T01:51:30Z",
-    "url": "https://github.com/fancyboi999/dsh-newwindows"
-  },
-  {
-    "description": "Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw.",
-    "id": "C-Rhapsody/gemini-connector",
-    "language": "Go",
-    "name": "C-Rhapsody/gemini-connector",
-    "stars": 6,
-    "updated_at": "2026-09-11T01:50:53Z",
-    "url": "https://github.com/C-Rhapsody/gemini-connector"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-09-11T02:25:14Z",
-    "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Local coding-agent runtime with isolated Git worktrees, controlled command execution, VS Code review workflow, and SWE-b",
-    "id": "YeYan0829/codingAgent",
-    "language": "Python",
-    "name": "YeYan0829/codingAgent",
-    "stars": 0,
-    "updated_at": "2026-09-11T01:49:31Z",
-    "url": "https://github.com/YeYan0829/codingAgent"
-  },
-  {
-    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
-    "id": "Torvian-eu/chatbot",
-    "language": "Kotlin",
-    "name": "Torvian-eu/chatbot",
-    "stars": 4,
-    "updated_at": "2026-09-11T01:42:20Z",
-    "url": "https://github.com/Torvian-eu/chatbot"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-09-11T01:26:06Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Reusable, selectively loaded agent skills: authorization, judgment ownership, data lineage, side-effect safety, rollout ",
-    "id": "xiongweilin/agent-skills",
-    "language": "\u2014",
-    "name": "xiongweilin/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-09-11T01:24:27Z",
-    "url": "https://github.com/xiongweilin/agent-skills"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7199,
-    "updated_at": "2026-09-11T01:18:22Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Open-source AI compute orchestration network \u2014 coordinates AI models, agents, and compute resources through one unified ",
-    "id": "Linear-Loop-Systems/GemmaNode",
-    "language": "Python",
-    "name": "Linear-Loop-Systems/GemmaNode",
-    "stars": 1,
-    "updated_at": "2026-09-11T01:10:09Z",
-    "url": "https://github.com/Linear-Loop-Systems/GemmaNode"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 237,
-    "updated_at": "2026-09-11T01:05:20Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "Local sidecar for AI Agents that will save up to 29% less tokens and will fix your LLM-based agent mess before it happen",
-    "id": "jakubkrzysztofsikora/reasoning-core",
-    "language": "Python",
-    "name": "jakubkrzysztofsikora/reasoning-core",
-    "stars": 6,
-    "updated_at": "2026-09-11T01:03:57Z",
-    "url": "https://github.com/jakubkrzysztofsikora/reasoning-core"
-  },
-  {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 3,
-    "updated_at": "2026-09-11T00:54:16Z",
-    "url": "https://github.com/sydches/yuj"
   }
 ]
