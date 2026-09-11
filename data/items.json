@@ -1,5 +1,86 @@
 [
   {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-09-11T20:28:10Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 130,
+    "updated_at": "2026-09-11T20:27:09Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
+    "id": "the-priest/PriestsBasilisk",
+    "language": "Python",
+    "name": "the-priest/PriestsBasilisk",
+    "stars": 3,
+    "updated_at": "2026-09-11T20:26:25Z",
+    "url": "https://github.com/the-priest/PriestsBasilisk"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 3,
+    "updated_at": "2026-09-11T20:24:22Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "Multi-agent orchestration skill: 6-role pipeline delivers full products. Single writer, read-only advisors, strict gates",
+    "id": "kimi0hhhh/project-orchestrator-skill",
+    "language": "PowerShell",
+    "name": "kimi0hhhh/project-orchestrator-skill",
+    "stars": 0,
+    "updated_at": "2026-09-11T20:23:43Z",
+    "url": "https://github.com/kimi0hhhh/project-orchestrator-skill"
+  },
+  {
+    "description": "A delivery-discipline behavior layer for AI agents \u2014 turns \u201cthe agent says it's done\u201d into \u201cthe agent proves it's done\u201d:",
+    "id": "JadeYingWah/gpt-series-reasoning-style",
+    "language": "Python",
+    "name": "JadeYingWah/gpt-series-reasoning-style",
+    "stars": 4,
+    "updated_at": "2026-09-11T20:26:54Z",
+    "url": "https://github.com/JadeYingWah/gpt-series-reasoning-style"
+  },
+  {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-09-11T20:20:47Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-11T20:18:10Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
+    "id": "watchcat/scout",
+    "language": "Rust",
+    "name": "watchcat/scout",
+    "stars": 0,
+    "updated_at": "2026-09-11T20:16:17Z",
+    "url": "https://github.com/watchcat/scout"
+  },
+  {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
     "id": "Cyrax321/CONTINUUM",
     "language": "Python",
@@ -45,15 +126,6 @@
     "url": "https://github.com/kusesad-1122/XINCODE-Public"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-11T20:03:13Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -72,15 +144,6 @@
     "url": "https://github.com/shoemoney/shoemoneyx"
   },
   {
-    "description": "Multi-agent orchestration skill: 6-role pipeline delivers full products. Single writer, read-only advisors, strict gates",
-    "id": "kimi0hhhh/project-orchestrator-skill",
-    "language": "PowerShell",
-    "name": "kimi0hhhh/project-orchestrator-skill",
-    "stars": 0,
-    "updated_at": "2026-09-11T19:58:50Z",
-    "url": "https://github.com/kimi0hhhh/project-orchestrator-skill"
-  },
-  {
     "description": "An in-process bridge giving an AI agent real access to a modded Minecraft world - including mod APIs a protocol-level bo",
     "id": "max-champlin/ghost",
     "language": "Java",
@@ -95,7 +158,7 @@
     "language": "Python",
     "name": "dan-petty/devops-cli",
     "stars": 1,
-    "updated_at": "2026-09-11T19:54:16Z",
+    "updated_at": "2026-09-11T20:22:10Z",
     "url": "https://github.com/dan-petty/devops-cli"
   },
   {
@@ -158,17 +221,8 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-11T20:02:30Z",
+    "updated_at": "2026-09-11T20:28:58Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "A delivery-discipline behavior layer for AI agents \u2014 turns \u201cthe agent says it's done\u201d into \u201cthe agent proves it's done\u201d:",
-    "id": "JadeYingWah/gpt-series-reasoning-style",
-    "language": "Python",
-    "name": "JadeYingWah/gpt-series-reasoning-style",
-    "stars": 4,
-    "updated_at": "2026-09-11T19:23:39Z",
-    "url": "https://github.com/JadeYingWah/gpt-series-reasoning-style"
   },
   {
     "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-11T18:27:14Z",
     "url": "https://github.com/muhzars/Agent.cpp"
-  },
-  {
-    "description": "\u00dclk\u00fcc\u00fc Baba \u2014 Hermes Agent ki\u015fisel fork\u2019u: mg paneli, USD maliyet tavan\u0131, kademe onay kap\u0131s\u0131. Amateur project built with",
-    "id": "mktest2179-a11y/ulkucu-baba",
-    "language": "Python",
-    "name": "mktest2179-a11y/ulkucu-baba",
-    "stars": 0,
-    "updated_at": "2026-09-11T18:25:14Z",
-    "url": "https://github.com/mktest2179-a11y/ulkucu-baba"
-  },
-  {
-    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
-    "id": "faheela-786/ComfyUI-qwenmultiangle",
-    "language": "\u2014",
-    "name": "faheela-786/ComfyUI-qwenmultiangle",
-    "stars": 2,
-    "updated_at": "2026-09-11T18:24:25Z",
-    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
-  },
-  {
-    "description": "Explainable AI-based sepsis prediction and deterioration analysis",
-    "id": "Prajin-K/Explainable-Sepsis-AI",
-    "language": "Jupyter Notebook",
-    "name": "Prajin-K/Explainable-Sepsis-AI",
-    "stars": 1,
-    "updated_at": "2026-09-11T18:23:37Z",
-    "url": "https://github.com/Prajin-K/Explainable-Sepsis-AI"
-  },
-  {
-    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
-    "id": "amineeng/scraping-browser",
-    "language": "\u2014",
-    "name": "amineeng/scraping-browser",
-    "stars": 1,
-    "updated_at": "2026-09-11T18:23:00Z",
-    "url": "https://github.com/amineeng/scraping-browser"
-  },
-  {
-    "description": "Talk to your organization's data \u2014 agentic analytics assistant over StarRocks, with Claude via Azure AI Foundry and an O",
-    "id": "leonardomb1/perguntai",
-    "language": "TypeScript",
-    "name": "leonardomb1/perguntai",
-    "stars": 0,
-    "updated_at": "2026-09-11T18:22:13Z",
-    "url": "https://github.com/leonardomb1/perguntai"
-  },
-  {
-    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
-    "id": "Saran1536/ComfyUI-LoaderUtils",
-    "language": "Python",
-    "name": "Saran1536/ComfyUI-LoaderUtils",
-    "stars": 0,
-    "updated_at": "2026-09-11T18:20:13Z",
-    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
   }
 ]
