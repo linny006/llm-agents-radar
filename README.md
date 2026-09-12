@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-12 12:30 UTC
+> ⏰ Last updated: 2026-09-12 12:36 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,9 +43,9 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [genaforvena/lte-workstation](https://github.com/genaforvena/lte-workstation) | 8 | Shell | 2026-09-12 | An autopoiesic kefir for computing machines |
-| 2 | [agentpit-io/hunter-community](https://github.com/agentpit-io/hunter-community) | 509 | Python | 2026-09-12 | Hunter Community Edition · 私人金融 AI 团队 · AI 智能体 + AI 量化 · 开源自托管 · powered by opencode + Claude Code + MCP + multi-agent · |
-| 3 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 13 | Go | 2026-09-12 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
-| 4 | [lost-rob0t/starintel-gpt-auto-dig](https://github.com/lost-rob0t/starintel-gpt-auto-dig) | 1 | Python | 2026-09-12 | GPT autonomous research and investigation using starintel |
+| 2 | [lost-rob0t/starintel-gpt-auto-dig](https://github.com/lost-rob0t/starintel-gpt-auto-dig) | 1 | Python | 2026-09-12 | GPT autonomous research and investigation using starintel |
+| 3 | [agentpit-io/hunter-community](https://github.com/agentpit-io/hunter-community) | 509 | Python | 2026-09-12 | Hunter Community Edition · 私人金融 AI 团队 · AI 智能体 + AI 量化 · 开源自托管 · powered by opencode + Claude Code + MCP + multi-agent · |
+| 4 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 13 | Go | 2026-09-12 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
 | 5 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-09-12 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
 | 6 | [mensfeld/pocketrb](https://github.com/mensfeld/pocketrb) | 38 | Ruby | 2026-09-12 | Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support |
 | 7 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 34 | JavaScript | 2026-09-12 | Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies  |
@@ -80,7 +80,7 @@ expired items removed — so you can rely on what you see being current.
 | 36 | [STARDUSTLC666/dsh-minimal-ptc](https://github.com/STARDUSTLC666/dsh-minimal-ptc) | 2 | JavaScript | 2026-09-12 | DeepSeek Harness 极简 PTC 预设：简洁提示词、run_code 工具编排、完整插件工具，以及 Windows Git Bash 和持久 PowerShell。 |
 | 37 | [C-Rhapsody/gemini-connector](https://github.com/C-Rhapsody/gemini-connector) | 6 | Go | 2026-09-12 | Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw. |
 | 38 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 130 | HTML | 2026-09-12 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 39 | [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) | 30348 | Python | 2026-09-12 | Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M |
+| 39 | [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) | 30349 | Python | 2026-09-12 | Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M |
 | 40 | [paopao-13/pecs-multi-agent](https://github.com/paopao-13/pecs-multi-agent) | 0 | Python | 2026-09-12 | PECS: 基于 LangGraph 的四角色多智能体任务求解框架（Planner/Executor/Critic/Synthesizer）。WebShop 真实环境 +25pp (25% vs 0%)；GAIA 官方 53 题 26.4% |
 | 41 | [LZNJUPT/if_we_elsewhere](https://github.com/LZNJUPT/if_we_elsewhere) | 1 | Python | 2026-09-12 | 我只想再和Ta聊聊天，在过去，在未来，在不存在的if线 |
 | 42 | [unravel1020/codebase-agent](https://github.com/unravel1020/codebase-agent) | 1 | Python | 2026-09-12 | LLM agent for local code repository analysis: LangChain tool calling + FAISS RAG + structured output + evals (OpenAI-com |
