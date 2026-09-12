@@ -1,5 +1,122 @@
 [
   {
+    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
+    "id": "Laurenfeminine36/google-jules-skill",
+    "language": "Python",
+    "name": "Laurenfeminine36/google-jules-skill",
+    "stars": 1,
+    "updated_at": "2026-09-12T13:30:02Z",
+    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
+  },
+  {
+    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
+    "id": "Jssu8541/ouro-loop",
+    "language": "\u2014",
+    "name": "Jssu8541/ouro-loop",
+    "stars": 0,
+    "updated_at": "2026-09-12T13:29:43Z",
+    "url": "https://github.com/Jssu8541/ouro-loop"
+  },
+  {
+    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
+    "id": "Asim00740/Kagantic-vault-structure",
+    "language": "\u2014",
+    "name": "Asim00740/Kagantic-vault-structure",
+    "stars": 0,
+    "updated_at": "2026-09-12T13:26:47Z",
+    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
+  },
+  {
+    "description": "Evidence-driven LangGraph AutoResearch Agent for delivery assignment optimization.",
+    "id": "LianghaoLuo/DELIVERY-AUTORESEARCH-AGENT",
+    "language": "Python",
+    "name": "LianghaoLuo/DELIVERY-AUTORESEARCH-AGENT",
+    "stars": 2,
+    "updated_at": "2026-09-12T13:26:33Z",
+    "url": "https://github.com/LianghaoLuo/DELIVERY-AUTORESEARCH-AGENT"
+  },
+  {
+    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
+    "id": "Tonyx79/clov-ai",
+    "language": "Rust",
+    "name": "Tonyx79/clov-ai",
+    "stars": 0,
+    "updated_at": "2026-09-12T13:26:20Z",
+    "url": "https://github.com/Tonyx79/clov-ai"
+  },
+  {
+    "description": "Keep agent CLIs running 7\u00d724 \u2014 supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure",
+    "id": "wan9yu/cli-agent-runner",
+    "language": "Python",
+    "name": "wan9yu/cli-agent-runner",
+    "stars": 4,
+    "updated_at": "2026-09-12T13:25:26Z",
+    "url": "https://github.com/wan9yu/cli-agent-runner"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-12T13:24:50Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
+    "id": "Victongo/ai-daily-news",
+    "language": "Ruby",
+    "name": "Victongo/ai-daily-news",
+    "stars": 2,
+    "updated_at": "2026-09-12T13:22:40Z",
+    "url": "https://github.com/Victongo/ai-daily-news"
+  },
+  {
+    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
+    "id": "mena256/ai-pair-engineer",
+    "language": "Python",
+    "name": "mena256/ai-pair-engineer",
+    "stars": 0,
+    "updated_at": "2026-09-12T13:22:38Z",
+    "url": "https://github.com/mena256/ai-pair-engineer"
+  },
+  {
+    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
+    "id": "mamon9022/poc-fls-node-epicronicles",
+    "language": "TypeScript",
+    "name": "mamon9022/poc-fls-node-epicronicles",
+    "stars": 2,
+    "updated_at": "2026-09-12T13:20:58Z",
+    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
+  },
+  {
+    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 509,
+    "updated_at": "2026-09-12T13:20:33Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 1,
+    "updated_at": "2026-09-12T13:17:22Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
+    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "language": "HTML",
+    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "stars": 0,
+    "updated_at": "2026-09-12T13:15:48Z",
+    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
+  },
+  {
     "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
     "id": "ljedrz/nachalnik",
     "language": "Rust",
@@ -99,15 +216,6 @@
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-12T13:01:41Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "Open-source crypto paper-trading desk: backtest farm, walk-forward optimizer, 110 exchanges, built-in strategy agent. La",
     "id": "shoemoney/shoemoneyx",
     "language": "PHP",
@@ -160,24 +268,6 @@
     "stars": 1,
     "updated_at": "2026-09-12T12:42:16Z",
     "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 1,
-    "updated_at": "2026-09-12T13:08:01Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
-    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 509,
-    "updated_at": "2026-09-12T12:27:41Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -252,15 +342,6 @@
     "url": "https://github.com/mnemon-dev/mnemon"
   },
   {
-    "description": "An autonomous scheduling agent built with Python, Streamlit, and Google GenAI. Uses native Gemini tool calling to seamle",
-    "id": "SRINIVASTA/gemini-booking-agent",
-    "language": "Python",
-    "name": "SRINIVASTA/gemini-booking-agent",
-    "stars": 0,
-    "updated_at": "2026-09-12T11:44:34Z",
-    "url": "https://github.com/SRINIVASTA/gemini-booking-agent"
-  },
-  {
     "description": "Desktop GUI Headless Local-first AI coding agent in Rust (axum, tokio, rmcp, portable-pty) behind HTTP + SSE, with an An",
     "id": "henrykbrzoska/bebok",
     "language": "Rust",
@@ -268,6 +349,15 @@
     "stars": 4,
     "updated_at": "2026-09-12T11:45:01Z",
     "url": "https://github.com/henrykbrzoska/bebok"
+  },
+  {
+    "description": "An autonomous scheduling agent built with Python, Streamlit, and Google GenAI. Uses native Gemini tool calling to seamle",
+    "id": "SRINIVASTA/gemini-booking-agent",
+    "language": "Python",
+    "name": "SRINIVASTA/gemini-booking-agent",
+    "stars": 0,
+    "updated_at": "2026-09-12T11:44:34Z",
+    "url": "https://github.com/SRINIVASTA/gemini-booking-agent"
   },
   {
     "description": "A light coding harness with agent-controlled context \u2014 the agent edits its own context window. 200+ providers via models",
@@ -324,33 +414,6 @@
     "url": "https://github.com/PCODE-pl/MCPTap"
   },
   {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 2,
-    "updated_at": "2026-09-12T10:43:33Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-09-12T10:43:32Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-09-12T10:42:24Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
     "id": "dkblinux98/nyxGPT",
     "language": "Python",
@@ -358,15 +421,6 @@
     "stars": 0,
     "updated_at": "2026-09-12T10:40:52Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
-    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "language": "HTML",
-    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "stars": 0,
-    "updated_at": "2026-09-12T10:38:30Z",
-    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
   },
   {
     "description": "An \"LLM wiki\" upgraded to a real database \u2014 typed entities, graph relations, HTTP API, and a built-in natural-language a",
@@ -394,59 +448,5 @@
     "stars": 126,
     "updated_at": "2026-09-12T10:29:50Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 3,
-    "updated_at": "2026-09-12T10:28:38Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "DeepSeek Harness \u6781\u7b80 PTC \u9884\u8bbe\uff1a\u7b80\u6d01\u63d0\u793a\u8bcd\u3001run_code \u5de5\u5177\u7f16\u6392\u3001\u5b8c\u6574\u63d2\u4ef6\u5de5\u5177\uff0c\u4ee5\u53ca Windows Git Bash \u548c\u6301\u4e45 PowerShell\u3002",
-    "id": "STARDUSTLC666/dsh-minimal-ptc",
-    "language": "JavaScript",
-    "name": "STARDUSTLC666/dsh-minimal-ptc",
-    "stars": 2,
-    "updated_at": "2026-09-12T10:15:12Z",
-    "url": "https://github.com/STARDUSTLC666/dsh-minimal-ptc"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 130,
-    "updated_at": "2026-09-12T10:06:33Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
-    "id": "feder-cr/AIHawk",
-    "language": "Python",
-    "name": "feder-cr/AIHawk",
-    "stars": 30350,
-    "updated_at": "2026-09-12T10:05:59Z",
-    "url": "https://github.com/feder-cr/AIHawk"
-  },
-  {
-    "description": "PECS: \u57fa\u4e8e LangGraph \u7684\u56db\u89d2\u8272\u591a\u667a\u80fd\u4f53\u4efb\u52a1\u6c42\u89e3\u6846\u67b6\uff08Planner/Executor/Critic/Synthesizer\uff09\u3002WebShop \u771f\u5b9e\u73af\u5883 +25pp (25% vs 0%)\uff1bGAIA \u5b98\u65b9 53 \u9898 26.4%",
-    "id": "paopao-13/pecs-multi-agent",
-    "language": "Python",
-    "name": "paopao-13/pecs-multi-agent",
-    "stars": 0,
-    "updated_at": "2026-09-12T10:04:42Z",
-    "url": "https://github.com/paopao-13/pecs-multi-agent"
-  },
-  {
-    "description": "LLM agent for local code repository analysis: LangChain tool calling + FAISS RAG + structured output + evals (OpenAI-com",
-    "id": "unravel1020/codebase-agent",
-    "language": "Python",
-    "name": "unravel1020/codebase-agent",
-    "stars": 1,
-    "updated_at": "2026-09-12T09:56:12Z",
-    "url": "https://github.com/unravel1020/codebase-agent"
   }
 ]
