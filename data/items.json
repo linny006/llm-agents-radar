@@ -1,5 +1,41 @@
 [
   {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-09-12T07:24:54Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
+    "description": "Open-source crypto paper-trading desk: backtest farm, walk-forward optimizer, 110 exchanges, built-in strategy agent. La",
+    "id": "shoemoney/shoemoneyx",
+    "language": "PHP",
+    "name": "shoemoney/shoemoneyx",
+    "stars": 0,
+    "updated_at": "2026-09-12T07:17:24Z",
+    "url": "https://github.com/shoemoney/shoemoneyx"
+  },
+  {
+    "description": "\u76d8\u53e4 \u2014 AI Agent \u591a\u6a21\u6001\u8bb0\u5fc6\u7cfb\u7edf\uff1aWing\u2192Room\u2192Drawer \u5206\u5c42\u5b58\u50a8\u3001ONNX \u672c\u5730\u5d4c\u5165\u8bed\u4e49\u68c0\u7d22\uff08SQLite FTS5 + RRF \u878d\u5408\uff09\u3001\u827e\u5bbe\u6d69\u65af\u9057\u5fd8\u66f2\u7ebf\u4e0e\u795e\u7ecf\u6fc0\u6d3b\u6269\u6563\uff1b\u63d0\u4f9b REST API + MCP \u670d\u52a1\uff0c\u9ed8\u8ba4\u66b4",
+    "id": "Mlte0907/pangu",
+    "language": "Python",
+    "name": "Mlte0907/pangu",
+    "stars": 0,
+    "updated_at": "2026-09-12T07:17:07Z",
+    "url": "https://github.com/Mlte0907/pangu"
+  },
+  {
+    "description": "PECS: \u57fa\u4e8e LangGraph \u7684\u56db\u89d2\u8272\u591a\u667a\u80fd\u4f53\u4efb\u52a1\u6c42\u89e3\u6846\u67b6\uff08Planner/Executor/Critic/Synthesizer\uff09\u3002WebShop \u771f\u5b9e\u73af\u5883 +25pp (25% vs 0%)\uff1bGAIA \u5b98\u65b9 53 \u9898 26.4%",
+    "id": "paopao-13/pecs-multi-agent",
+    "language": "Python",
+    "name": "paopao-13/pecs-multi-agent",
+    "stars": 0,
+    "updated_at": "2026-09-12T07:16:44Z",
+    "url": "https://github.com/paopao-13/pecs-multi-agent"
+  },
+  {
     "description": "An autopoiesic kefir for computing machines",
     "id": "genaforvena/lte-workstation",
     "language": "Shell",
@@ -9,21 +45,12 @@
     "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
-    "description": "Open-source crypto paper-trading desk: backtest farm, walk-forward optimizer, 110 exchanges, built-in strategy agent. La",
-    "id": "shoemoney/shoemoneyx",
-    "language": "PHP",
-    "name": "shoemoney/shoemoneyx",
-    "stars": 0,
-    "updated_at": "2026-09-12T07:10:47Z",
-    "url": "https://github.com/shoemoney/shoemoneyx"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-12T07:10:23Z",
+    "updated_at": "2026-09-12T07:20:27Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -261,15 +288,6 @@
     "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
   },
   {
-    "description": "\u76d8\u53e4 \u2014 AI Agent \u591a\u6a21\u6001\u8bb0\u5fc6\u7cfb\u7edf\uff1aWing\u2192Room\u2192Drawer \u5206\u5c42\u5b58\u50a8\u3001ONNX \u672c\u5730\u5d4c\u5165\u8bed\u4e49\u68c0\u7d22\uff08SQLite FTS5 + RRF \u878d\u5408\uff09\u3001\u827e\u5bbe\u6d69\u65af\u9057\u5fd8\u66f2\u7ebf\u4e0e\u795e\u7ecf\u6fc0\u6d3b\u6269\u6563\uff1b\u63d0\u4f9b REST API + MCP \u670d\u52a1\uff0c\u9ed8\u8ba4\u66b4",
-    "id": "Mlte0907/pangu",
-    "language": "Python",
-    "name": "Mlte0907/pangu",
-    "stars": 0,
-    "updated_at": "2026-09-12T06:39:05Z",
-    "url": "https://github.com/Mlte0907/pangu"
-  },
-  {
     "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
     "id": "amineeng/scraping-browser",
     "language": "\u2014",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-12T05:32:31Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "\u72ec\u7acb\u90e8\u7f72\u7684\u85aa\u916c\u8bca\u65ad CLI\uff08\u4e0d\u4f9d\u8d56\u5927\u8bed\u8a00\u6a21\u578b\uff09\u3002\u786e\u5b9a\u6027\u8868\u5934\u5339\u914d\u5f15\u64ce + \u5e26\u5bbd\u91cd\u53e0/\u5e02\u573a\u5dee\u8ddd/\u85aa\u916c\u7ed3\u6784/\u8c03\u85aa\u6a21\u62df/\u5408\u89c4\u68c0\u67e5\uff1bLLM \u4ec5\u4f5c\u4e3a\u53ef\u9009\u6d88\u6b67\u5165\u53e3\u3002",
-    "id": "helibeiqi/salary-diagnosis-cli",
-    "language": "Python",
-    "name": "helibeiqi/salary-diagnosis-cli",
-    "stars": 0,
-    "updated_at": "2026-09-12T05:29:56Z",
-    "url": "https://github.com/helibeiqi/salary-diagnosis-cli"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 452,
-    "updated_at": "2026-09-12T05:21:49Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   }
 ]
