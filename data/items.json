@@ -1,5 +1,122 @@
 [
   {
+    "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
+    "id": "bettersilvanus849/inner-coordinates",
+    "language": "Shell",
+    "name": "bettersilvanus849/inner-coordinates",
+    "stars": 1,
+    "updated_at": "2026-09-12T02:58:38Z",
+    "url": "https://github.com/bettersilvanus849/inner-coordinates"
+  },
+  {
+    "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
+    "id": "Blaz742/web-pentest-lab",
+    "language": "\u2014",
+    "name": "Blaz742/web-pentest-lab",
+    "stars": 0,
+    "updated_at": "2026-09-12T02:57:40Z",
+    "url": "https://github.com/Blaz742/web-pentest-lab"
+  },
+  {
+    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
+    "id": "Elevated-homer201/prompt-gate",
+    "language": "\u2014",
+    "name": "Elevated-homer201/prompt-gate",
+    "stars": 1,
+    "updated_at": "2026-09-12T02:57:19Z",
+    "url": "https://github.com/Elevated-homer201/prompt-gate"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 32,
+    "updated_at": "2026-09-12T02:56:22Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
+    "id": "Indrasclerotinia71/local-ai-research-assistant",
+    "language": "Python",
+    "name": "Indrasclerotinia71/local-ai-research-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-12T02:56:12Z",
+    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
+  },
+  {
+    "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
+    "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
+    "language": "Python",
+    "name": "Furrowed-subphylumurochorda108/kimi-K2.6",
+    "stars": 3,
+    "updated_at": "2026-09-12T02:55:08Z",
+    "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
+  },
+  {
+    "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
+    "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
+    "language": "\u2014",
+    "name": "mpardakaskon-boop/obsidian-llm-wiki-local",
+    "stars": 1,
+    "updated_at": "2026-09-12T02:54:29Z",
+    "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
+  },
+  {
+    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
+    "id": "HELLOCODINGTR/AgentForge",
+    "language": "\u2014",
+    "name": "HELLOCODINGTR/AgentForge",
+    "stars": 1,
+    "updated_at": "2026-09-12T02:50:53Z",
+    "url": "https://github.com/HELLOCODINGTR/AgentForge"
+  },
+  {
+    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
+    "id": "strobilevitellus470/argus-ai",
+    "language": "Python",
+    "name": "strobilevitellus470/argus-ai",
+    "stars": 1,
+    "updated_at": "2026-09-12T02:50:07Z",
+    "url": "https://github.com/strobilevitellus470/argus-ai"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-12T02:49:58Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
+    "id": "juandavidru4641/dsplab",
+    "language": "JavaScript",
+    "name": "juandavidru4641/dsplab",
+    "stars": 0,
+    "updated_at": "2026-09-12T02:47:37Z",
+    "url": "https://github.com/juandavidru4641/dsplab"
+  },
+  {
+    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
+    "id": "laoxs2002/genai-agentes",
+    "language": "Jupyter Notebook",
+    "name": "laoxs2002/genai-agentes",
+    "stars": 0,
+    "updated_at": "2026-09-12T02:47:09Z",
+    "url": "https://github.com/laoxs2002/genai-agentes"
+  },
+  {
+    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
+    "id": "heba-ramdan/harness",
+    "language": "TypeScript",
+    "name": "heba-ramdan/harness",
+    "stars": 1,
+    "updated_at": "2026-09-12T02:45:28Z",
+    "url": "https://github.com/heba-ramdan/harness"
+  },
+  {
     "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
     "id": "Ronit0p/AutoGod",
     "language": "Java",
@@ -63,15 +180,6 @@
     "url": "https://github.com/muhzars/Agent.cpp"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-12T02:39:31Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
     "id": "agentpit-io/hunter-community",
     "language": "Python",
@@ -113,7 +221,7 @@
     "language": "Dart",
     "name": "justacalico/devinorium",
     "stars": 1,
-    "updated_at": "2026-09-12T02:34:31Z",
+    "updated_at": "2026-09-12T02:52:51Z",
     "url": "https://github.com/justacalico/devinorium"
   },
   {
@@ -133,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-09-12T02:32:22Z",
     "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 32,
-    "updated_at": "2026-09-12T02:28:26Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
@@ -167,7 +266,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-09-12T02:24:57Z",
+    "updated_at": "2026-09-12T02:49:25Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -212,7 +311,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-12T02:35:57Z",
+    "updated_at": "2026-09-12T02:58:12Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 29,
     "updated_at": "2026-09-12T00:43:43Z",
     "url": "https://github.com/NUS-Program-Verification/AutoRocq"
-  },
-  {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-09-12T00:50:49Z",
-    "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
-    "description": "Cross-agent plugin for manually excluding and editing AI conversation context, with search, filtering, hide/restore, und",
-    "id": "jermaine123123/agent-context-editor",
-    "language": "TypeScript",
-    "name": "jermaine123123/agent-context-editor",
-    "stars": 60,
-    "updated_at": "2026-09-12T00:36:33Z",
-    "url": "https://github.com/jermaine123123/agent-context-editor"
-  },
-  {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 3,
-    "updated_at": "2026-09-12T00:15:31Z",
-    "url": "https://github.com/sydches/yuj"
-  },
-  {
-    "description": "\u0414\u043e\u0440\u0430\u0431\u043e\u0442\u0430\u043d\u043d\u0430\u044f \u0432\u0435\u0440\u0441\u0438\u044f browser-use: MCP-\u0441\u043b\u043e\u0439 bu_mcp \u043f\u043e\u0432\u0435\u0440\u0445 \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0438 \u2014 20 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u043e\u0432 \u0432\u043c\u0435\u0441\u0442\u043e 5, \u043d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u0435 \u0434\u0435\u0448\u0435\u0432\u043b\u0435 \u0432 0.76",
-    "id": "draiqw/browser-agent",
-    "language": "Python",
-    "name": "draiqw/browser-agent",
-    "stars": 0,
-    "updated_at": "2026-09-12T00:11:40Z",
-    "url": "https://github.com/draiqw/browser-agent"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-09-12T00:07:52Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-09-12T00:05:45Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "\u9002\u7528\u4e8e Claude Code \u548c Codex \u7684\u6c42\u804c Skill\uff1a\u67e5\u627e\u5c97\u4f4d\u3001\u5224\u65ad\u662f\u5426\u503c\u5f97\u6295\u9012\u3001\u5236\u4f5c\u7b80\u5386\u4e0e\u7533\u8bf7\u6750\u6599\u3001\u68c0\u9a8c\u7533\u8bf7\u6750\u6599\u5e76\u6a21\u62df\u9762\u8bd5\u3002\u4e0d\u7f16\u9020\u6280\u80fd\u6216\u4e1a\u7ee9\u6570\u5b57\uff0c\u4e0d\u9884\u6d4b\u5f55\u7528\u6982\u7387\uff1b\u68c0\u67e5\u7b80\u5386\u662f\u5426\u4fbf\u4e8e\u62db\u8058\u7ba1\u7406\u7cfb\u7edf\uff08ATS\uff09\u8bfb\u53d6\uff0c\u5e76\u4ece\u62db\u8058\u4eba\u5458\u548c\u7528\u4eba",
-    "id": "addsumtech/job-hunt",
-    "language": "Python",
-    "name": "addsumtech/job-hunt",
-    "stars": 2,
-    "updated_at": "2026-09-12T01:08:46Z",
-    "url": "https://github.com/addsumtech/job-hunt"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 126,
-    "updated_at": "2026-09-12T00:02:41Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 3,
-    "updated_at": "2026-09-12T00:01:42Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Keep agent CLIs running 7\u00d724 \u2014 supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure",
-    "id": "wan9yu/cli-agent-runner",
-    "language": "Python",
-    "name": "wan9yu/cli-agent-runner",
-    "stars": 4,
-    "updated_at": "2026-09-11T23:54:37Z",
-    "url": "https://github.com/wan9yu/cli-agent-runner"
-  },
-  {
-    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
-    "id": "kangwoo/aimon-core",
-    "language": "Java",
-    "name": "kangwoo/aimon-core",
-    "stars": 0,
-    "updated_at": "2026-09-11T23:29:10Z",
-    "url": "https://github.com/kangwoo/aimon-core"
   }
 ]
