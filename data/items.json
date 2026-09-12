@@ -1,21 +1,39 @@
 [
   {
-    "description": "A delivery-discipline behavior layer for AI agents \u2014 turns \u201cthe agent says it's done\u201d into \u201cthe agent proves it's done\u201d:",
-    "id": "JadeYingWah/gpt-series-reasoning-style",
-    "language": "Python",
-    "name": "JadeYingWah/gpt-series-reasoning-style",
-    "stars": 4,
-    "updated_at": "2026-09-12T11:30:11Z",
-    "url": "https://github.com/JadeYingWah/gpt-series-reasoning-style"
-  },
-  {
     "description": "An autonomous scheduling agent built with Python, Streamlit, and Google GenAI. Uses native Gemini tool calling to seamle",
     "id": "SRINIVASTA/gemini-booking-agent",
     "language": "Python",
     "name": "SRINIVASTA/gemini-booking-agent",
     "stars": 0,
-    "updated_at": "2026-09-12T11:30:05Z",
+    "updated_at": "2026-09-12T11:44:34Z",
     "url": "https://github.com/SRINIVASTA/gemini-booking-agent"
+  },
+  {
+    "description": "Desktop GUI Headless Local-first AI coding agent in Rust (axum, tokio, rmcp, portable-pty) behind HTTP + SSE, with an An",
+    "id": "henrykbrzoska/bebok",
+    "language": "Rust",
+    "name": "henrykbrzoska/bebok",
+    "stars": 4,
+    "updated_at": "2026-09-12T11:45:01Z",
+    "url": "https://github.com/henrykbrzoska/bebok"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-12T11:43:59Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Harness LLMs with Multi-Agent Programming",
+    "id": "langroid/langroid",
+    "language": "Python",
+    "name": "langroid/langroid",
+    "stars": 4102,
+    "updated_at": "2026-09-12T11:40:07Z",
+    "url": "https://github.com/langroid/langroid"
   },
   {
     "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
@@ -23,7 +41,7 @@
     "language": "Python",
     "name": "agentpit-io/hunter-community",
     "stars": 509,
-    "updated_at": "2026-09-12T11:25:08Z",
+    "updated_at": "2026-09-12T11:39:47Z",
     "url": "https://github.com/agentpit-io/hunter-community"
   },
   {
@@ -32,17 +50,17 @@
     "language": "TypeScript",
     "name": "QQSHI13/fox-agent",
     "stars": 1,
-    "updated_at": "2026-09-12T11:22:34Z",
+    "updated_at": "2026-09-12T11:37:33Z",
     "url": "https://github.com/QQSHI13/fox-agent"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-12T11:22:31Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
+    "description": "A delivery-discipline behavior layer for AI agents \u2014 turns \u201cthe agent says it's done\u201d into \u201cthe agent proves it's done\u201d:",
+    "id": "JadeYingWah/gpt-series-reasoning-style",
+    "language": "Python",
+    "name": "JadeYingWah/gpt-series-reasoning-style",
+    "stars": 4,
+    "updated_at": "2026-09-12T11:30:11Z",
+    "url": "https://github.com/JadeYingWah/gpt-series-reasoning-style"
   },
   {
     "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-12T09:08:20Z",
     "url": "https://github.com/222394/SkyPilot"
-  },
-  {
-    "description": "Build open source deep research agents using multiple models, search tools, and MCP servers.",
-    "id": "randomvariablewhitepelican129/open_deep_research",
-    "language": "Python",
-    "name": "randomvariablewhitepelican129/open_deep_research",
-    "stars": 0,
-    "updated_at": "2026-09-12T09:07:40Z",
-    "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
-  },
-  {
-    "description": "Automate file management and coding tasks in your local directory using small language models.",
-    "id": "pruthviraj00007/VibeHarness",
-    "language": "Python",
-    "name": "pruthviraj00007/VibeHarness",
-    "stars": 0,
-    "updated_at": "2026-09-12T09:05:04Z",
-    "url": "https://github.com/pruthviraj00007/VibeHarness"
   }
 ]
