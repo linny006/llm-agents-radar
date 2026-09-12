@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-12 17:59 UTC
+> ⏰ Last updated: 2026-09-12 18:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [jakubkrzysztofsikora/reasoning-core](https://github.com/jakubkrzysztofsikora/reasoning-core) | 6 | Python | 2026-09-12 | Local-first pre-write Mamba SSM gate for AI coding agents. Enforce repo rules, plan contracts, and deterministic checks  |
-| 2 | [JadeYingWah/gpt-series-reasoning-style](https://github.com/JadeYingWah/gpt-series-reasoning-style) | 4 | Python | 2026-09-12 | A delivery-discipline behavior layer for AI agents — turns “the agent says it's done” into “the agent proves it's done”: |
-| 3 | [liyao13-sketch/OpenNano](https://github.com/liyao13-sketch/OpenNano) | 0 | Python | 2026-09-12 | Organizational-memory system for micro/nano fabrication: executable process-flow canvas, LLM agent, reliability-scored k |
+| 1 | [liyao13-sketch/OpenNano](https://github.com/liyao13-sketch/OpenNano) | 0 | Python | 2026-09-12 | Organizational-memory system for micro/nano fabrication: executable process-flow canvas, LLM agent, reliability-scored k |
+| 2 | [jakubkrzysztofsikora/reasoning-core](https://github.com/jakubkrzysztofsikora/reasoning-core) | 6 | Python | 2026-09-12 | Local-first pre-write Mamba SSM gate for AI coding agents. Enforce repo rules, plan contracts, and deterministic checks  |
+| 3 | [JadeYingWah/gpt-series-reasoning-style](https://github.com/JadeYingWah/gpt-series-reasoning-style) | 4 | Python | 2026-09-12 | A delivery-discipline behavior layer for AI agents — turns “the agent says it's done” into “the agent proves it's done”: |
 | 4 | [rusiaaman/wcgw](https://github.com/rusiaaman/wcgw) | 674 | Python | 2026-09-12 | Shell and coding agent on mcp clients |
 | 5 | [Mlte0907/pangu](https://github.com/Mlte0907/pangu) | 0 | Python | 2026-09-12 | 盘古 — AI Agent 多模态记忆系统：Wing→Room→Drawer 分层存储、ONNX 本地嵌入语义检索（SQLite FTS5 + RRF 融合）、艾宾浩斯遗忘曲线与神经激活扩散；提供 REST API + MCP 服务，默认暴 |
 | 6 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-09-12 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |

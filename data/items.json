@@ -1,5 +1,14 @@
 [
   {
+    "description": "Organizational-memory system for micro/nano fabrication: executable process-flow canvas, LLM agent, reliability-scored k",
+    "id": "liyao13-sketch/OpenNano",
+    "language": "Python",
+    "name": "liyao13-sketch/OpenNano",
+    "stars": 0,
+    "updated_at": "2026-09-12T17:59:49Z",
+    "url": "https://github.com/liyao13-sketch/OpenNano"
+  },
+  {
     "description": "Local-first pre-write Mamba SSM gate for AI coding agents. Enforce repo rules, plan contracts, and deterministic checks ",
     "id": "jakubkrzysztofsikora/reasoning-core",
     "language": "Python",
@@ -16,15 +25,6 @@
     "stars": 4,
     "updated_at": "2026-09-12T17:56:39Z",
     "url": "https://github.com/JadeYingWah/gpt-series-reasoning-style"
-  },
-  {
-    "description": "Organizational-memory system for micro/nano fabrication: executable process-flow canvas, LLM agent, reliability-scored k",
-    "id": "liyao13-sketch/OpenNano",
-    "language": "Python",
-    "name": "liyao13-sketch/OpenNano",
-    "stars": 0,
-    "updated_at": "2026-09-12T17:53:56Z",
-    "url": "https://github.com/liyao13-sketch/OpenNano"
   },
   {
     "description": "Shell and coding agent on mcp clients",
