@@ -1,11 +1,38 @@
 [
   {
+    "description": "\u6211\u53ea\u60f3\u518d\u548cTa\u804a\u804a\u5929\uff0c\u5728\u8fc7\u53bb\uff0c\u5728\u672a\u6765\uff0c\u5728\u4e0d\u5b58\u5728\u7684if\u7ebf",
+    "id": "LZNJUPT/if_we_elsewhere",
+    "language": "Python",
+    "name": "LZNJUPT/if_we_elsewhere",
+    "stars": 1,
+    "updated_at": "2026-09-12T12:44:03Z",
+    "url": "https://github.com/LZNJUPT/if_we_elsewhere"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-09-12T12:43:27Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "\u57fa\u4e8e LLM \u7684\u7aef\u5230\u7aef\u6570\u636e\u5206\u6790\u5de5\u4f5c\u53f0\uff1a\u4e0a\u4f20\u6570\u636e\u96c6\u5373\u53ef\u81ea\u52a8\u5b8c\u6210\u6e05\u6d17\u3001\u7edf\u8ba1\u5206\u6790\u3001\u53ef\u89c6\u5316\u4e0e\u62a5\u544a\u751f\u6210\uff0c\u652f\u6301\u672c\u5730\u3001Docker \u4e0e\u4e91\u7aef\u90e8\u7f72\u3002",
+    "id": "xiaomaozjj666/data-analysis-agent",
+    "language": "Python",
+    "name": "xiaomaozjj666/data-analysis-agent",
+    "stars": 1,
+    "updated_at": "2026-09-12T12:42:16Z",
+    "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
+  },
+  {
     "description": "An autopoiesic kefir for computing machines",
     "id": "genaforvena/lte-workstation",
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 8,
-    "updated_at": "2026-09-12T12:35:23Z",
+    "updated_at": "2026-09-12T12:36:55Z",
     "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
@@ -16,6 +43,15 @@
     "stars": 1,
     "updated_at": "2026-09-12T12:34:10Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 240,
+    "updated_at": "2026-09-12T12:32:34Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
     "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
@@ -86,7 +122,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 685,
-    "updated_at": "2026-09-12T11:56:38Z",
+    "updated_at": "2026-09-12T12:44:18Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -187,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-09-12T11:12:53Z",
     "url": "https://github.com/PCODE-pl/MCPTap"
-  },
-  {
-    "description": "\u57fa\u4e8e LLM \u7684\u7aef\u5230\u7aef\u6570\u636e\u5206\u6790\u5de5\u4f5c\u53f0\uff1a\u4e0a\u4f20\u6570\u636e\u96c6\u5373\u53ef\u81ea\u52a8\u5b8c\u6210\u6e05\u6d17\u3001\u7edf\u8ba1\u5206\u6790\u3001\u53ef\u89c6\u5316\u4e0e\u62a5\u544a\u751f\u6210\uff0c\u652f\u6301\u672c\u5730\u3001Docker \u4e0e\u4e91\u7aef\u90e8\u7f72\u3002",
-    "id": "xiaomaozjj666/data-analysis-agent",
-    "language": "Python",
-    "name": "xiaomaozjj666/data-analysis-agent",
-    "stars": 1,
-    "updated_at": "2026-09-12T11:02:13Z",
-    "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
   },
   {
     "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
@@ -360,15 +387,6 @@
     "url": "https://github.com/paopao-13/pecs-multi-agent"
   },
   {
-    "description": "\u6211\u53ea\u60f3\u518d\u548cTa\u804a\u804a\u5929\uff0c\u5728\u8fc7\u53bb\uff0c\u5728\u672a\u6765\uff0c\u5728\u4e0d\u5b58\u5728\u7684if\u7ebf",
-    "id": "LZNJUPT/if_we_elsewhere",
-    "language": "Python",
-    "name": "LZNJUPT/if_we_elsewhere",
-    "stars": 1,
-    "updated_at": "2026-09-12T10:02:31Z",
-    "url": "https://github.com/LZNJUPT/if_we_elsewhere"
-  },
-  {
     "description": "LLM agent for local code repository analysis: LangChain tool calling + FAISS RAG + structured output + evals (OpenAI-com",
     "id": "unravel1020/codebase-agent",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-12T09:22:02Z",
     "url": "https://github.com/camel-ai/tokin"
-  },
-  {
-    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
-    "id": "ravisinghrajput95/kubewhy",
-    "language": "Python",
-    "name": "ravisinghrajput95/kubewhy",
-    "stars": 0,
-    "updated_at": "2026-09-12T09:21:13Z",
-    "url": "https://github.com/ravisinghrajput95/kubewhy"
-  },
-  {
-    "description": "\u591a Agent \u534f\u4f5c\u5f00\u53d1\u6846\u67b6\uff1a\u9879\u76ee\u8d1f\u8d23\u4eba + 6 \u5355\u8d23\u89d2\u8272 + \u9636\u6bb5\u95e8\u7981 + \u5b9e\u65f6\u770b\u677f \u00b7 \u5355\u5199\u624b + \u53ea\u8bfb\u53c2\u8c0b \u00b7 \u56db\u5b9e\u73b0\uff08ZCode/OpenCode/WorkBuddy/Universal\uff09",
-    "id": "kimi0hhhh/project-orchestrator-skill",
-    "language": "Python",
-    "name": "kimi0hhhh/project-orchestrator-skill",
-    "stars": 0,
-    "updated_at": "2026-09-12T09:12:35Z",
-    "url": "https://github.com/kimi0hhhh/project-orchestrator-skill"
   }
 ]
