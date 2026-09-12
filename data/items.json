@@ -1,11 +1,74 @@
 [
   {
+    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
+    "id": "PCODE-pl/MCPTap",
+    "language": "Python",
+    "name": "PCODE-pl/MCPTap",
+    "stars": 1,
+    "updated_at": "2026-09-12T16:00:04Z",
+    "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-12T15:59:25Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "A lightweight, framework-agnostic persistent memory graph for AI coding assistants.",
+    "id": "karstom/simplegraph-agentic",
+    "language": "TypeScript",
+    "name": "karstom/simplegraph-agentic",
+    "stars": 5,
+    "updated_at": "2026-09-12T15:58:53Z",
+    "url": "https://github.com/karstom/simplegraph-agentic"
+  },
+  {
+    "description": "A support-triage agent that only claims what its tools actually returned -- Google ADK for orchestration, Claude on Bedr",
+    "id": "lulperle/agentic-support",
+    "language": "Python",
+    "name": "lulperle/agentic-support",
+    "stars": 0,
+    "updated_at": "2026-09-12T15:58:31Z",
+    "url": "https://github.com/lulperle/agentic-support"
+  },
+  {
+    "description": "A delivery-discipline behavior layer for AI agents \u2014 turns \u201cthe agent says it's done\u201d into \u201cthe agent proves it's done\u201d:",
+    "id": "JadeYingWah/gpt-series-reasoning-style",
+    "language": "Python",
+    "name": "JadeYingWah/gpt-series-reasoning-style",
+    "stars": 4,
+    "updated_at": "2026-09-12T15:57:33Z",
+    "url": "https://github.com/JadeYingWah/gpt-series-reasoning-style"
+  },
+  {
+    "description": "\u76d8\u53e4 \u2014 AI Agent \u591a\u6a21\u6001\u8bb0\u5fc6\u7cfb\u7edf\uff1aWing\u2192Room\u2192Drawer \u5206\u5c42\u5b58\u50a8\u3001ONNX \u672c\u5730\u5d4c\u5165\u8bed\u4e49\u68c0\u7d22\uff08SQLite FTS5 + RRF \u878d\u5408\uff09\u3001\u827e\u5bbe\u6d69\u65af\u9057\u5fd8\u66f2\u7ebf\u4e0e\u795e\u7ecf\u6fc0\u6d3b\u6269\u6563\uff1b\u63d0\u4f9b REST API + MCP \u670d\u52a1\uff0c\u9ed8\u8ba4\u66b4",
+    "id": "Mlte0907/pangu",
+    "language": "Python",
+    "name": "Mlte0907/pangu",
+    "stars": 0,
+    "updated_at": "2026-09-12T15:55:10Z",
+    "url": "https://github.com/Mlte0907/pangu"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 28,
+    "updated_at": "2026-09-12T15:52:05Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
     "description": "Control AI agents anywhere. (github mirror)",
     "id": "justacalico/devinorium",
     "language": "Dart",
     "name": "justacalico/devinorium",
     "stars": 1,
-    "updated_at": "2026-09-12T15:48:47Z",
+    "updated_at": "2026-09-12T15:57:14Z",
     "url": "https://github.com/justacalico/devinorium"
   },
   {
@@ -16,24 +79,6 @@
     "stars": 1,
     "updated_at": "2026-09-12T15:48:26Z",
     "url": "https://github.com/reic/agentic-km-framework"
-  },
-  {
-    "description": "A delivery-discipline behavior layer for AI agents \u2014 turns \u201cthe agent says it's done\u201d into \u201cthe agent proves it's done\u201d:",
-    "id": "JadeYingWah/gpt-series-reasoning-style",
-    "language": "Python",
-    "name": "JadeYingWah/gpt-series-reasoning-style",
-    "stars": 4,
-    "updated_at": "2026-09-12T15:48:20Z",
-    "url": "https://github.com/JadeYingWah/gpt-series-reasoning-style"
-  },
-  {
-    "description": "A lightweight, framework-agnostic persistent memory graph for AI coding assistants.",
-    "id": "karstom/simplegraph-agentic",
-    "language": "TypeScript",
-    "name": "karstom/simplegraph-agentic",
-    "stars": 5,
-    "updated_at": "2026-09-12T15:48:09Z",
-    "url": "https://github.com/karstom/simplegraph-agentic"
   },
   {
     "description": "PECS: \u57fa\u4e8e LangGraph \u7684\u56db\u89d2\u8272\u591a\u667a\u80fd\u4f53\u4efb\u52a1\u6c42\u89e3\u6846\u67b6\uff08Planner/Executor/Critic/Synthesizer\uff09\u3002WebShop \u771f\u5b9e\u73af\u5883 +25pp (25% vs 0%)\uff1bGAIA \u5b98\u65b9 53 \u9898 26.4%",
@@ -61,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-09-12T15:42:20Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-12T15:35:46Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
@@ -180,15 +216,6 @@
     "url": "https://github.com/khudayarovich/onflip-agent"
   },
   {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 28,
-    "updated_at": "2026-09-12T14:41:07Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
     "description": "Executive Assistant Kit | Gig hunting & general coordination. \u603b\u7ecf\u7406\u52a9\u7406\u2014\u2014\u627e\u5355\u63a5\u6d3b\u5165\u53e3\u4e0e\u7efc\u5408\u4e8b\u52a1\u534f\u8c03\u3002",
     "id": "xhqing/ExecutiveAssistantAgent",
     "language": "\u2014",
@@ -196,24 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-12T14:29:46Z",
     "url": "https://github.com/xhqing/ExecutiveAssistantAgent"
-  },
-  {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-09-12T14:28:40Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
-  },
-  {
-    "description": "\u76d8\u53e4 \u2014 AI Agent \u591a\u6a21\u6001\u8bb0\u5fc6\u7cfb\u7edf\uff1aWing\u2192Room\u2192Drawer \u5206\u5c42\u5b58\u50a8\u3001ONNX \u672c\u5730\u5d4c\u5165\u8bed\u4e49\u68c0\u7d22\uff08SQLite FTS5 + RRF \u878d\u5408\uff09\u3001\u827e\u5bbe\u6d69\u65af\u9057\u5fd8\u66f2\u7ebf\u4e0e\u795e\u7ecf\u6fc0\u6d3b\u6269\u6563\uff1b\u63d0\u4f9b REST API + MCP \u670d\u52a1\uff0c\u9ed8\u8ba4\u66b4",
-    "id": "Mlte0907/pangu",
-    "language": "Python",
-    "name": "Mlte0907/pangu",
-    "stars": 0,
-    "updated_at": "2026-09-12T14:18:44Z",
-    "url": "https://github.com/Mlte0907/pangu"
   },
   {
     "description": "\u5bf9\u7f51\u9875deepseek\u7684\u5c01\u88c5\uff0c\u5b9e\u73b0\u514d\u8d39API\u8c03\u7528\u3002\u652f\u6301 OpenAI completions / responses socket\u3002\u53ef\u5de5\u5177\u8c03\u7528\uff0c\u53ef\u63a5\u5165codex\u3001copilot\u3002\u8f7b\u91cf\u81ea\u7528",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-12T13:30:16Z",
     "url": "https://github.com/chadwickhyperboloidal943/knowl"
-  },
-  {
-    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
-    "id": "Laurenfeminine36/google-jules-skill",
-    "language": "Python",
-    "name": "Laurenfeminine36/google-jules-skill",
-    "stars": 1,
-    "updated_at": "2026-09-12T13:30:02Z",
-    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
   }
 ]
