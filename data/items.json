@@ -1,11 +1,74 @@
 [
   {
+    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
+    "id": "karvidsson/kbots",
+    "language": "Python",
+    "name": "karvidsson/kbots",
+    "stars": 1,
+    "updated_at": "2026-09-12T07:39:27Z",
+    "url": "https://github.com/karvidsson/kbots"
+  },
+  {
+    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 508,
+    "updated_at": "2026-09-12T07:39:05Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-09-12T07:34:47Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-12T07:36:14Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "PECS: \u57fa\u4e8e LangGraph \u7684\u56db\u89d2\u8272\u591a\u667a\u80fd\u4f53\u4efb\u52a1\u6c42\u89e3\u6846\u67b6\uff08Planner/Executor/Critic/Synthesizer\uff09\u3002WebShop \u771f\u5b9e\u73af\u5883 +25pp (25% vs 0%)\uff1bGAIA \u5b98\u65b9 53 \u9898 26.4%",
+    "id": "paopao-13/pecs-multi-agent",
+    "language": "Python",
+    "name": "paopao-13/pecs-multi-agent",
+    "stars": 0,
+    "updated_at": "2026-09-12T07:32:37Z",
+    "url": "https://github.com/paopao-13/pecs-multi-agent"
+  },
+  {
+    "description": "\u6d77\u9f9f\u6c64\uff08\u60c5\u5883\u731c\u8c1c/\u6a2a\u5411\u601d\u7ef4\u8c1c\u9898\uff09\u521b\u4f5c\u65b9\u6cd5\u8bba\u2014\u2014\u56db\u9636\u6bb5\u65bd\u5de5\u6846\u67b6 | A methodology for crafting turtle soup / lateral thinking puzzles: 4-phase pipeline fro",
+    "id": "906491213/writing-turtle-soup",
+    "language": "\u2014",
+    "name": "906491213/writing-turtle-soup",
+    "stars": 2,
+    "updated_at": "2026-09-12T07:32:28Z",
+    "url": "https://github.com/906491213/writing-turtle-soup"
+  },
+  {
+    "description": "An AI Agent for everyday SWE with minimalist style",
+    "id": "thehope2k/minimalist-agent",
+    "language": "TypeScript",
+    "name": "thehope2k/minimalist-agent",
+    "stars": 1,
+    "updated_at": "2026-09-12T07:30:57Z",
+    "url": "https://github.com/thehope2k/minimalist-agent"
+  },
+  {
     "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
     "id": "citizenhicks/mobius",
     "language": "Rust",
     "name": "citizenhicks/mobius",
     "stars": 1,
-    "updated_at": "2026-09-12T07:24:54Z",
+    "updated_at": "2026-09-12T07:36:11Z",
     "url": "https://github.com/citizenhicks/mobius"
   },
   {
@@ -27,13 +90,13 @@
     "url": "https://github.com/Mlte0907/pangu"
   },
   {
-    "description": "PECS: \u57fa\u4e8e LangGraph \u7684\u56db\u89d2\u8272\u591a\u667a\u80fd\u4f53\u4efb\u52a1\u6c42\u89e3\u6846\u67b6\uff08Planner/Executor/Critic/Synthesizer\uff09\u3002WebShop \u771f\u5b9e\u73af\u5883 +25pp (25% vs 0%)\uff1bGAIA \u5b98\u65b9 53 \u9898 26.4%",
-    "id": "paopao-13/pecs-multi-agent",
+    "description": "\u6211\u53ea\u60f3\u518d\u548cTa\u804a\u804a\u5929\uff0c\u5728\u8fc7\u53bb\uff0c\u5728\u672a\u6765\uff0c\u5728\u4e0d\u5b58\u5728\u7684if\u7ebf",
+    "id": "LZNJUPT/if_we_elsewhere",
     "language": "Python",
-    "name": "paopao-13/pecs-multi-agent",
+    "name": "LZNJUPT/if_we_elsewhere",
     "stars": 0,
-    "updated_at": "2026-09-12T07:16:44Z",
-    "url": "https://github.com/paopao-13/pecs-multi-agent"
+    "updated_at": "2026-09-12T07:14:48Z",
+    "url": "https://github.com/LZNJUPT/if_we_elsewhere"
   },
   {
     "description": "An autopoiesic kefir for computing machines",
@@ -43,15 +106,6 @@
     "stars": 8,
     "updated_at": "2026-09-12T07:13:37Z",
     "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-12T07:20:27Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/",
@@ -160,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-09-12T06:56:30Z",
     "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 508,
-    "updated_at": "2026-09-12T06:54:09Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
   },
   {
     "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
@@ -351,15 +396,6 @@
     "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
   },
   {
-    "description": "An AI Agent for everyday SWE with minimalist style",
-    "id": "thehope2k/minimalist-agent",
-    "language": "TypeScript",
-    "name": "thehope2k/minimalist-agent",
-    "stars": 1,
-    "updated_at": "2026-09-12T06:25:45Z",
-    "url": "https://github.com/thehope2k/minimalist-agent"
-  },
-  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-12T05:47:59Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Multi-agent orchestration skill: 6-role pipeline delivers full products. Single writer, read-only advisors, strict gates",
-    "id": "kimi0hhhh/project-orchestrator-skill",
-    "language": "HTML",
-    "name": "kimi0hhhh/project-orchestrator-skill",
-    "stars": 0,
-    "updated_at": "2026-09-12T05:42:17Z",
-    "url": "https://github.com/kimi0hhhh/project-orchestrator-skill"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 130,
-    "updated_at": "2026-09-12T05:34:03Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 126,
-    "updated_at": "2026-09-12T05:33:19Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 3,
-    "updated_at": "2026-09-12T05:32:31Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   }
 ]
