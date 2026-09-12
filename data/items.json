@@ -1,5 +1,86 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-12T03:14:09Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-12T03:08:08Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
+    "id": "rugose-learnedprofession58/pi-dsh",
+    "language": "TypeScript",
+    "name": "rugose-learnedprofession58/pi-dsh",
+    "stars": 0,
+    "updated_at": "2026-09-12T03:04:43Z",
+    "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
+  },
+  {
+    "description": "\u805a\u7126AI Agent/LLM/RAG\u6d4b\u8bc4",
+    "id": "zhoujinjian/agent-eval-suite",
+    "language": "Python",
+    "name": "zhoujinjian/agent-eval-suite",
+    "stars": 0,
+    "updated_at": "2026-09-12T03:04:23Z",
+    "url": "https://github.com/zhoujinjian/agent-eval-suite"
+  },
+  {
+    "description": "GITCG-Bench: LLM agent \u5bf9\u6218\u8bc4\u6d4b\u57fa\u51c6\uff08\u4e03\u5723\u53ec\u5524 / Genius Invokation TCG\uff09\uff0coracle-free engine-only \u53e3\u5f84\uff1bAGPLv3 fork \u5de5\u4f5c",
+    "id": "Meowrium/GITCG-Bench",
+    "language": "\u2014",
+    "name": "Meowrium/GITCG-Bench",
+    "stars": 0,
+    "updated_at": "2026-09-12T03:04:12Z",
+    "url": "https://github.com/Meowrium/GITCG-Bench"
+  },
+  {
+    "description": "\u5238\u5546\u4ea4\u6613\u53cd\u6b3a\u8bc8 + \u300cLLM\u63d0\u8bae\u3001\u89c4\u5219\u88c1\u51b3\u300d\u53cc\u5c42\u8c03\u67e5Agent\uff08\u65b9\u6cd5\u590d\u73b0\u7248\uff09\u00b7 AP 0.936 \u00b7 \u7cbe\u786e\u73870.80\u65f6\u53ec\u56de90.5%",
+    "id": "Shutong-Ge/fraud-detection-brokerage",
+    "language": "HTML",
+    "name": "Shutong-Ge/fraud-detection-brokerage",
+    "stars": 0,
+    "updated_at": "2026-09-12T03:03:48Z",
+    "url": "https://github.com/Shutong-Ge/fraud-detection-brokerage"
+  },
+  {
+    "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
+    "id": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
+    "language": "JavaScript",
+    "name": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
+    "stars": 1,
+    "updated_at": "2026-09-12T03:03:22Z",
+    "url": "https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder"
+  },
+  {
+    "description": "Verify area values quickly with this web-based HTML calculator tool.",
+    "id": "passive-hotpepper515/area-checker-html-tool",
+    "language": "HTML",
+    "name": "passive-hotpepper515/area-checker-html-tool",
+    "stars": 0,
+    "updated_at": "2026-09-12T03:03:00Z",
+    "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
+  },
+  {
+    "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
+    "id": "Blondieredistributed612/pocket-agent",
+    "language": "Python",
+    "name": "Blondieredistributed612/pocket-agent",
+    "stars": 2,
+    "updated_at": "2026-09-12T03:01:59Z",
+    "url": "https://github.com/Blondieredistributed612/pocket-agent"
+  },
+  {
     "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
     "id": "bettersilvanus849/inner-coordinates",
     "language": "Shell",
@@ -81,15 +162,6 @@
     "url": "https://github.com/strobilevitellus470/argus-ai"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-12T02:49:58Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
     "id": "juandavidru4641/dsplab",
     "language": "JavaScript",
@@ -160,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-09-12T02:40:42Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "\u5238\u5546\u4ea4\u6613\u53cd\u6b3a\u8bc8 + \u300cLLM\u63d0\u8bae\u3001\u89c4\u5219\u88c1\u51b3\u300d\u53cc\u5c42\u8c03\u67e5Agent\uff08\u65b9\u6cd5\u590d\u73b0\u7248\uff09\u00b7 AP 0.936 \u00b7 \u7cbe\u786e\u73870.80\u65f6\u53ec\u56de90.5%",
-    "id": "Shutong-Ge/fraud-detection-brokerage",
-    "language": "HTML",
-    "name": "Shutong-Ge/fraud-detection-brokerage",
-    "stars": 0,
-    "updated_at": "2026-09-12T02:40:25Z",
-    "url": "https://github.com/Shutong-Ge/fraud-detection-brokerage"
   },
   {
     "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
@@ -306,15 +369,6 @@
     "url": "https://github.com/khteh/rag-agent"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-12T02:58:12Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
     "id": "g761007/daily-dispatch",
     "language": "Python",
@@ -338,7 +392,7 @@
     "language": "Python",
     "name": "OtakuNathan/Pal",
     "stars": 1,
-    "updated_at": "2026-09-12T01:55:18Z",
+    "updated_at": "2026-09-12T03:10:18Z",
     "url": "https://github.com/OtakuNathan/Pal"
   },
   {
@@ -383,7 +437,7 @@
     "language": "TypeScript",
     "name": "wangyuahn/nori-code",
     "stars": 17,
-    "updated_at": "2026-09-12T02:19:46Z",
+    "updated_at": "2026-09-12T03:08:15Z",
     "url": "https://github.com/wangyuahn/nori-code"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 24,
     "updated_at": "2026-09-12T01:18:49Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Drop-in OpenAI/Anthropic proxy that cuts long-horizon agent prompt tokens 60-95% via SKILL.state (arXiv:2608.26263). MIT",
-    "id": "NosytLabs/skillstate-proxy",
-    "language": "TypeScript",
-    "name": "NosytLabs/skillstate-proxy",
-    "stars": 2,
-    "updated_at": "2026-09-12T01:17:40Z",
-    "url": "https://github.com/NosytLabs/skillstate-proxy"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-09-12T01:12:22Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 238,
-    "updated_at": "2026-09-12T01:02:47Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
-    "id": "monocle2ai/monocle",
-    "language": "Python",
-    "name": "monocle2ai/monocle",
-    "stars": 337,
-    "updated_at": "2026-09-12T01:01:40Z",
-    "url": "https://github.com/monocle2ai/monocle"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 130,
-    "updated_at": "2026-09-12T00:58:21Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Agentic Theorem Prover for Rocq for Program Verification",
-    "id": "NUS-Program-Verification/AutoRocq",
-    "language": "Python",
-    "name": "NUS-Program-Verification/AutoRocq",
-    "stars": 29,
-    "updated_at": "2026-09-12T00:43:43Z",
-    "url": "https://github.com/NUS-Program-Verification/AutoRocq"
   }
 ]
