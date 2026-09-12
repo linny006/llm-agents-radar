@@ -1,5 +1,50 @@
 [
   {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-12T03:57:33Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "GITCG-Bench: LLM agent \u5bf9\u6218\u8bc4\u6d4b\u57fa\u51c6\uff08\u4e03\u5723\u53ec\u5524 / Genius Invokation TCG\uff09\uff0coracle-free engine-only \u53e3\u5f84\uff1bAGPLv3 fork \u5de5\u4f5c",
+    "id": "Meowrium/GITCG-Bench",
+    "language": "TypeScript",
+    "name": "Meowrium/GITCG-Bench",
+    "stars": 0,
+    "updated_at": "2026-09-12T03:56:26Z",
+    "url": "https://github.com/Meowrium/GITCG-Bench"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-12T04:00:44Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 508,
+    "updated_at": "2026-09-12T03:46:04Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
+    "id": "OtakuNathan/Pal",
+    "language": "Python",
+    "name": "OtakuNathan/Pal",
+    "stars": 1,
+    "updated_at": "2026-09-12T03:45:18Z",
+    "url": "https://github.com/OtakuNathan/Pal"
+  },
+  {
     "description": "Official Scrapfly MCP server for Cursor, Claude Desktop, and any MCP-compatible client. Enterprise-grade web scraping, A",
     "id": "scrapfly/scrapfly-mcp",
     "language": "Go",
@@ -13,27 +58,9 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5926,
+    "stars": 5927,
     "updated_at": "2026-09-12T03:41:57Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-12T03:44:30Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 508,
-    "updated_at": "2026-09-12T03:37:42Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
   },
   {
     "description": "Open-source AIMO3 math reasoning agent for vLLM and OpenAI-compatible models, with Python verification and consensus vot",
@@ -43,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-09-12T03:36:16Z",
     "url": "https://github.com/xufenghe/aimo3-agentic-inference"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-12T03:35:30Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Open-source crypto paper-trading desk: backtest farm, walk-forward optimizer, 110 exchanges, built-in strategy agent. La",
@@ -90,15 +108,6 @@
     "url": "https://github.com/christianOrona/wtfault-scanner"
   },
   {
-    "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
-    "id": "OtakuNathan/Pal",
-    "language": "Python",
-    "name": "OtakuNathan/Pal",
-    "stars": 1,
-    "updated_at": "2026-09-12T03:17:35Z",
-    "url": "https://github.com/OtakuNathan/Pal"
-  },
-  {
     "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
     "id": "rugose-learnedprofession58/pi-dsh",
     "language": "TypeScript",
@@ -115,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-12T03:04:23Z",
     "url": "https://github.com/zhoujinjian/agent-eval-suite"
-  },
-  {
-    "description": "GITCG-Bench: LLM agent \u5bf9\u6218\u8bc4\u6d4b\u57fa\u51c6\uff08\u4e03\u5723\u53ec\u5524 / Genius Invokation TCG\uff09\uff0coracle-free engine-only \u53e3\u5f84\uff1bAGPLv3 fork \u5de5\u4f5c",
-    "id": "Meowrium/GITCG-Bench",
-    "language": "\u2014",
-    "name": "Meowrium/GITCG-Bench",
-    "stars": 0,
-    "updated_at": "2026-09-12T03:04:12Z",
-    "url": "https://github.com/Meowrium/GITCG-Bench"
   },
   {
     "description": "\u5238\u5546\u4ea4\u6613\u53cd\u6b3a\u8bc8 + \u300cLLM\u63d0\u8bae\u3001\u89c4\u5219\u88c1\u51b3\u300d\u53cc\u5c42\u8c03\u67e5Agent\uff08\u65b9\u6cd5\u590d\u73b0\u7248\uff09\u00b7 AP 0.936 \u00b7 \u7cbe\u786e\u73870.80\u65f6\u53ec\u56de90.5%",
