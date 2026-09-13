@@ -1,5 +1,59 @@
 [
   {
+    "description": "A delivery-discipline behavior layer for AI agents \u2014 turns \u201cthe agent says it's done\u201d into \u201cthe agent proves it's done\u201d:",
+    "id": "JadeYingWah/gpt-series-reasoning-style",
+    "language": "HTML",
+    "name": "JadeYingWah/gpt-series-reasoning-style",
+    "stars": 4,
+    "updated_at": "2026-09-13T17:28:55Z",
+    "url": "https://github.com/JadeYingWah/gpt-series-reasoning-style"
+  },
+  {
+    "description": "Local-first agent platform for exploratory data analysis. Deterministic profiling and evidence-validated LLM reports, wi",
+    "id": "Paradox07127/Analyst-Copilot",
+    "language": "Python",
+    "name": "Paradox07127/Analyst-Copilot",
+    "stars": 0,
+    "updated_at": "2026-09-13T17:28:13Z",
+    "url": "https://github.com/Paradox07127/Analyst-Copilot"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-13T17:26:09Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "LangGraph agent that rewrites TypeScript Selenium suites in Playwright and proves the result compiles before you see it",
+    "id": "varunbhatt2193/selenium2playwright",
+    "language": "Python",
+    "name": "varunbhatt2193/selenium2playwright",
+    "stars": 0,
+    "updated_at": "2026-09-13T17:21:35Z",
+    "url": "https://github.com/varunbhatt2193/selenium2playwright"
+  },
+  {
+    "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
+    "id": "SugarMGP/MumuBot",
+    "language": "Go",
+    "name": "SugarMGP/MumuBot",
+    "stars": 23,
+    "updated_at": "2026-09-13T17:18:44Z",
+    "url": "https://github.com/SugarMGP/MumuBot"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 130,
+    "updated_at": "2026-09-13T17:15:44Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
     "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
@@ -36,21 +90,12 @@
     "url": "https://github.com/ThomasSchmiegelt/ema-motor-analysis"
   },
   {
-    "description": "LangGraph agent that rewrites TypeScript Selenium suites in Playwright and proves the result compiles before you see it",
-    "id": "varunbhatt2193/selenium2playwright",
-    "language": "Python",
-    "name": "varunbhatt2193/selenium2playwright",
-    "stars": 0,
-    "updated_at": "2026-09-13T17:00:30Z",
-    "url": "https://github.com/varunbhatt2193/selenium2playwright"
-  },
-  {
     "description": "Drop-in OpenAI/Anthropic proxy that cuts long-horizon agent prompt tokens 60-95% via SKILL.state (arXiv:2608.26263). MIT",
     "id": "NosytLabs/skillstate-proxy",
     "language": "TypeScript",
     "name": "NosytLabs/skillstate-proxy",
     "stars": 2,
-    "updated_at": "2026-09-13T16:57:05Z",
+    "updated_at": "2026-09-13T17:18:14Z",
     "url": "https://github.com/NosytLabs/skillstate-proxy"
   },
   {
@@ -374,7 +419,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-09-13T16:00:14Z",
+    "updated_at": "2026-09-13T17:27:16Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 16,
     "updated_at": "2026-09-13T15:46:29Z",
     "url": "https://github.com/sehoon787/my-claude"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 16,
-    "updated_at": "2026-09-13T15:54:43Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-09-13T15:45:39Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-09-13T15:42:17Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "An AI brain for Unitree robot dogs: one sentence in, guarded motion out.",
-    "id": "LiSheng5/argos",
-    "language": "Python",
-    "name": "LiSheng5/argos",
-    "stars": 0,
-    "updated_at": "2026-09-13T15:38:49Z",
-    "url": "https://github.com/LiSheng5/argos"
-  },
-  {
-    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
-    "id": "SHUKLAO/call-with-ai-agent",
-    "language": "\u2014",
-    "name": "SHUKLAO/call-with-ai-agent",
-    "stars": 3,
-    "updated_at": "2026-09-13T15:37:42Z",
-    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
   }
 ]
