@@ -1,12 +1,12 @@
 [
   {
-    "description": "A light coding harness with agent-controlled context \u2014 the agent edits its own context window. 200+ providers via models",
-    "id": "QQSHI13/fox-agent",
+    "description": "Fix context rot & pollution in long AI agent sessions. Subagents run in isolated processes \u2014 main agent stays read-only.",
+    "id": "Wolido/async-subagent-isolation",
     "language": "TypeScript",
-    "name": "QQSHI13/fox-agent",
-    "stars": 1,
-    "updated_at": "2026-09-13T00:51:02Z",
-    "url": "https://github.com/QQSHI13/fox-agent"
+    "name": "Wolido/async-subagent-isolation",
+    "stars": 4,
+    "updated_at": "2026-09-13T01:14:42Z",
+    "url": "https://github.com/Wolido/async-subagent-isolation"
   },
   {
     "description": "\u9002\u7528\u4e8e Claude Code \u548c Codex \u7684\u6c42\u804c Skill\uff1a\u67e5\u627e\u5c97\u4f4d\u3001\u5224\u65ad\u662f\u5426\u503c\u5f97\u6295\u9012\u3001\u5236\u4f5c\u7b80\u5386\u4e0e\u7533\u8bf7\u6750\u6599\u3001\u68c0\u9a8c\u7533\u8bf7\u6750\u6599\u5e76\u6a21\u62df\u9762\u8bd5\u3002\u4e0d\u7f16\u9020\u6280\u80fd\u6216\u4e1a\u7ee9\u6570\u5b57\uff0c\u4e0d\u9884\u6d4b\u5f55\u7528\u6982\u7387\uff1b\u68c0\u67e5\u7b80\u5386\u662f\u5426\u4fbf\u4e8e\u62db\u8058\u7ba1\u7406\u7cfb\u7edf\uff08ATS\uff09\u8bfb\u53d6\uff0c\u5e76\u4ece\u62db\u8058\u4eba\u5458\u548c\u7528\u4eba",
@@ -14,8 +14,26 @@
     "language": "Python",
     "name": "addsumtech/job-hunt",
     "stars": 2,
-    "updated_at": "2026-09-13T00:56:16Z",
+    "updated_at": "2026-09-13T01:03:51Z",
     "url": "https://github.com/addsumtech/job-hunt"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 242,
+    "updated_at": "2026-09-13T01:02:01Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "A light coding harness with agent-controlled context \u2014 the agent edits its own context window. 200+ providers via models",
+    "id": "QQSHI13/fox-agent",
+    "language": "TypeScript",
+    "name": "QQSHI13/fox-agent",
+    "stars": 1,
+    "updated_at": "2026-09-13T00:51:02Z",
+    "url": "https://github.com/QQSHI13/fox-agent"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -36,12 +54,12 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M",
+    "description": "Open-source AI browser agent for web automation, undetected by anti-bot systems: a web browsing agent on a stealth Firef",
     "id": "feder-cr/AIHawk",
     "language": "Python",
     "name": "feder-cr/AIHawk",
     "stars": 30350,
-    "updated_at": "2026-09-13T00:36:33Z",
+    "updated_at": "2026-09-13T01:14:43Z",
     "url": "https://github.com/feder-cr/AIHawk"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 16,
     "updated_at": "2026-09-12T21:23:36Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 806,
-    "updated_at": "2026-09-12T21:36:36Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "LLM agent that runs real penetration tests via Metasploit \u2014 PTES-driven recon, exploitation, and post-exploitation, gate",
-    "id": "xieyanran/Metasploit-Agent",
-    "language": "Python",
-    "name": "xieyanran/Metasploit-Agent",
-    "stars": 0,
-    "updated_at": "2026-09-12T20:49:44Z",
-    "url": "https://github.com/xieyanran/Metasploit-Agent"
   }
 ]
