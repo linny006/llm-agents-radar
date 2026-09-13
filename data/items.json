@@ -1,5 +1,41 @@
 [
   {
+    "description": "Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and compu",
+    "id": "feder-cr/AIHawk",
+    "language": "Python",
+    "name": "feder-cr/AIHawk",
+    "stars": 30719,
+    "updated_at": "2026-09-13T22:29:43Z",
+    "url": "https://github.com/feder-cr/AIHawk"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 4,
+    "updated_at": "2026-09-13T22:21:16Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "\u75c5\u5386\u7ba1\u7406 \u00b7 \u7535\u5b50\u75c5\u5386\u5e93\uff1a\u7528 Obsidian + AI Agent \u5f52\u6863\u4f53\u68c0\u62a5\u544a\u3001\u5316\u9a8c\u5355\u3001\u5c31\u533b\u8bb0\u5f55\u4e0e\u7528\u836f\u53f2\u3002\u542b Hermes Agent \u6280\u80fd\u5305 + \u7a7a\u5e93\u6a21\u677f\uff0c\u4e00\u952e\u5b89\u88c5\u3002",
+    "id": "Lumin278/emr-vault-template",
+    "language": "Python",
+    "name": "Lumin278/emr-vault-template",
+    "stars": 0,
+    "updated_at": "2026-09-13T22:18:35Z",
+    "url": "https://github.com/Lumin278/emr-vault-template"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 126,
+    "updated_at": "2026-09-13T22:17:00Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
     "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
     "id": "mark-weeks/hello-nested-worlds-adventure",
     "language": "Python",
@@ -9,15 +45,6 @@
     "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
   },
   {
-    "description": "\u75c5\u5386\u7ba1\u7406 \u00b7 \u7535\u5b50\u75c5\u5386\u5e93\uff1a\u7528 Obsidian + AI Agent \u5f52\u6863\u4f53\u68c0\u62a5\u544a\u3001\u5316\u9a8c\u5355\u3001\u5c31\u533b\u8bb0\u5f55\u4e0e\u7528\u836f\u53f2\u3002\u542b Hermes Agent \u6280\u80fd\u5305 + \u7a7a\u5e93\u6a21\u677f\uff0c\u4e00\u952e\u5b89\u88c5\u3002",
-    "id": "Lumin278/emr-vault-template",
-    "language": "Python",
-    "name": "Lumin278/emr-vault-template",
-    "stars": 0,
-    "updated_at": "2026-09-13T22:13:37Z",
-    "url": "https://github.com/Lumin278/emr-vault-template"
-  },
-  {
     "description": "An autopoiesic kefir for computing machines",
     "id": "genaforvena/lte-workstation",
     "language": "Shell",
@@ -25,15 +52,6 @@
     "stars": 8,
     "updated_at": "2026-09-13T22:12:52Z",
     "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "Open-source AI browser agent, undetected by anti-bot systems: stealth Firefox, no captchas, no blocks. Web automation in",
-    "id": "feder-cr/AIHawk",
-    "language": "Python",
-    "name": "feder-cr/AIHawk",
-    "stars": 30715,
-    "updated_at": "2026-09-13T22:12:44Z",
-    "url": "https://github.com/feder-cr/AIHawk"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-13T19:56:18Z",
     "url": "https://github.com/Ax3lsk3r3/QuantVibe"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 462,
-    "updated_at": "2026-09-13T19:52:49Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "A Python engine and in-process arena for running, replaying, and analyzing 6 nimmt! games with deterministic bots and LL",
-    "id": "denisakkavim/sixnimmt",
-    "language": "Python",
-    "name": "denisakkavim/sixnimmt",
-    "stars": 0,
-    "updated_at": "2026-09-13T19:27:05Z",
-    "url": "https://github.com/denisakkavim/sixnimmt"
   }
 ]
