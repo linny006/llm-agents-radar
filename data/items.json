@@ -5,8 +5,17 @@
     "language": "TypeScript",
     "name": "wiseria-ai-labs/pie-ai-agent",
     "stars": 78,
-    "updated_at": "2026-09-13T04:38:19Z",
+    "updated_at": "2026-09-13T04:44:34Z",
     "url": "https://github.com/wiseria-ai-labs/pie-ai-agent"
+  },
+  {
+    "description": "Reusable, selectively loaded agent skills for workflow authority, data lineage, evidence revalidation, side-effect safet",
+    "id": "xiongweilin/agent-skills",
+    "language": "PowerShell",
+    "name": "xiongweilin/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-13T04:43:01Z",
+    "url": "https://github.com/xiongweilin/agent-skills"
   },
   {
     "description": "AI computer control & desktop automation for Mac/PC\uff5cAI\u63a7\u5236\u7535\u8111\u3001\u8bed\u97f3\u63a7\u5236\u7535\u8111\u3001\u7535\u8111\u81ea\u52a8\u5316\u3001\u8d3e\u7ef4\u65af\u52a9\u624b\u3002Command-first, GUI fallback, screenshots a",
@@ -34,15 +43,6 @@
     "stars": 10,
     "updated_at": "2026-09-13T04:33:16Z",
     "url": "https://github.com/ZXTLQQ/FactorGPT"
-  },
-  {
-    "description": "Reusable, selectively loaded agent skills for workflow authority, data lineage, evidence revalidation, side-effect safet",
-    "id": "xiongweilin/agent-skills",
-    "language": "PowerShell",
-    "name": "xiongweilin/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-09-13T04:39:48Z",
-    "url": "https://github.com/xiongweilin/agent-skills"
   },
   {
     "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",

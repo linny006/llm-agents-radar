@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-13 04:41 UTC
+> ⏰ Last updated: 2026-09-13 04:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,10 +43,10 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [wiseria-ai-labs/pie-ai-agent](https://github.com/wiseria-ai-labs/pie-ai-agent) | 78 | TypeScript | 2026-09-13 | Pie – free, open-source AI browser agent for Chrome. Reads pages & PDFs, fills forms, extracts data, automates tabs, han |
-| 2 | [duyuyong7612-sudo/ai-computer-control](https://github.com/duyuyong7612-sudo/ai-computer-control) | 0 | Python | 2026-09-13 | AI computer control & desktop automation for Mac/PC｜AI控制电脑、语音控制电脑、电脑自动化、贾维斯助手。Command-first, GUI fallback, screenshots a |
-| 3 | [ivyfan-toowell/IvyClaw](https://github.com/ivyfan-toowell/IvyClaw) | 0 | Python | 2026-09-13 | A production-oriented multi-agent AI Agent system for software engineering.  \|   面向软件研发任务的多智能体 AI Agent 工程系统 |
-| 4 | [ZXTLQQ/FactorGPT](https://github.com/ZXTLQQ/FactorGPT) | 10 | Python | 2026-09-13 | 基于LLM的量化因子开发Agent |
-| 5 | [xiongweilin/agent-skills](https://github.com/xiongweilin/agent-skills) | 0 | PowerShell | 2026-09-13 | Reusable, selectively loaded agent skills for workflow authority, data lineage, evidence revalidation, side-effect safet |
+| 2 | [xiongweilin/agent-skills](https://github.com/xiongweilin/agent-skills) | 0 | PowerShell | 2026-09-13 | Reusable, selectively loaded agent skills for workflow authority, data lineage, evidence revalidation, side-effect safet |
+| 3 | [duyuyong7612-sudo/ai-computer-control](https://github.com/duyuyong7612-sudo/ai-computer-control) | 0 | Python | 2026-09-13 | AI computer control & desktop automation for Mac/PC｜AI控制电脑、语音控制电脑、电脑自动化、贾维斯助手。Command-first, GUI fallback, screenshots a |
+| 4 | [ivyfan-toowell/IvyClaw](https://github.com/ivyfan-toowell/IvyClaw) | 0 | Python | 2026-09-13 | A production-oriented multi-agent AI Agent system for software engineering.  \|   面向软件研发任务的多智能体 AI Agent 工程系统 |
+| 5 | [ZXTLQQ/FactorGPT](https://github.com/ZXTLQQ/FactorGPT) | 10 | Python | 2026-09-13 | 基于LLM的量化因子开发Agent |
 | 6 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 6 | JavaScript | 2026-09-13 | Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use,  |
 | 7 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-09-13 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
 | 8 | [Jadema5416/ComfyUI-DLSS5-Enhancer](https://github.com/Jadema5416/ComfyUI-DLSS5-Enhancer) | 0 | Python | 2026-09-13 | Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de |
