@@ -1,21 +1,30 @@
 [
   {
-    "description": "\u7ea2\u6846\u4e2d\u7684\u4ecb\u7ecd\u53ef\u4ee5\u7ffb\u8bd1\u4e3a\uff1a  > A local-first personal activity analytics tool that collects window titles and file metadata locally, us",
+    "description": "A delivery-discipline behavior layer for AI agents \u2014 turns \u201cthe agent says it's done\u201d into \u201cthe agent proves it's done\u201d:",
+    "id": "JadeYingWah/gpt-series-reasoning-style",
+    "language": "Python",
+    "name": "JadeYingWah/gpt-series-reasoning-style",
+    "stars": 4,
+    "updated_at": "2026-09-13T02:59:55Z",
+    "url": "https://github.com/JadeYingWah/gpt-series-reasoning-style"
+  },
+  {
+    "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
     "id": "chunleik/self-analyst",
     "language": "Java",
     "name": "chunleik/self-analyst",
     "stars": 0,
-    "updated_at": "2026-09-13T02:43:46Z",
+    "updated_at": "2026-09-13T02:59:15Z",
     "url": "https://github.com/chunleik/self-analyst"
   },
   {
-    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 6,
-    "updated_at": "2026-09-13T02:43:06Z",
-    "url": "https://github.com/bigduu/Zenith"
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-09-13T02:49:06Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
@@ -23,7 +32,7 @@
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
     "stars": 1227,
-    "updated_at": "2026-09-13T02:37:51Z",
+    "updated_at": "2026-09-13T02:47:45Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
@@ -32,8 +41,17 @@
     "language": "Python",
     "name": "LZNJUPT/if_we_elsewhere",
     "stars": 1,
-    "updated_at": "2026-09-13T02:34:00Z",
+    "updated_at": "2026-09-13T02:48:22Z",
     "url": "https://github.com/LZNJUPT/if_we_elsewhere"
+  },
+  {
+    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 6,
+    "updated_at": "2026-09-13T02:56:50Z",
+    "url": "https://github.com/bigduu/Zenith"
   },
   {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
@@ -49,18 +67,9 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 687,
+    "stars": 688,
     "updated_at": "2026-09-13T02:30:57Z",
     "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "A delivery-discipline behavior layer for AI agents \u2014 turns \u201cthe agent says it's done\u201d into \u201cthe agent proves it's done\u201d:",
-    "id": "JadeYingWah/gpt-series-reasoning-style",
-    "language": "Python",
-    "name": "JadeYingWah/gpt-series-reasoning-style",
-    "stars": 4,
-    "updated_at": "2026-09-13T02:30:43Z",
-    "url": "https://github.com/JadeYingWah/gpt-series-reasoning-style"
   },
   {
     "description": "Build an AI Coding Agent from Scratch, Step by Step | \u4ece\u96f6\u4e00\u6b65\u6b65\u642d\u5efa AI \u7f16\u7a0b Agent\uff0c\u8fb9\u5b9e\u73b0\u8fb9\u7406\u89e3 Agent \u7684\u5de5\u4f5c\u539f\u7406",
@@ -117,7 +126,7 @@
     "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
   },
   {
-    "description": "A light coding harness with agent-controlled context \u2014 the agent edits its own context window. 200+ providers via models",
+    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
     "id": "QQSHI13/fox-agent",
     "language": "TypeScript",
     "name": "QQSHI13/fox-agent",
@@ -355,7 +364,7 @@
     "id": "feder-cr/AIHawk",
     "language": "Python",
     "name": "feder-cr/AIHawk",
-    "stars": 30350,
+    "stars": 30349,
     "updated_at": "2026-09-13T01:50:24Z",
     "url": "https://github.com/feder-cr/AIHawk"
   },
@@ -437,16 +446,7 @@
     "language": "Dart",
     "name": "justacalico/devinorium",
     "stars": 1,
-    "updated_at": "2026-09-13T01:41:26Z",
+    "updated_at": "2026-09-13T02:59:47Z",
     "url": "https://github.com/justacalico/devinorium"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-09-13T01:23:40Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   }
 ]
