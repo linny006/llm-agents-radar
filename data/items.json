@@ -1,11 +1,29 @@
 [
   {
+    "description": "\u75c5\u5386\u7ba1\u7406 \u00b7 \u7535\u5b50\u75c5\u5386\u5e93\uff1a\u7528 Obsidian + AI Agent \u5f52\u6863\u4f53\u68c0\u62a5\u544a\u3001\u5316\u9a8c\u5355\u3001\u5c31\u533b\u8bb0\u5f55\u4e0e\u7528\u836f\u53f2\u3002\u542b Hermes Agent \u6280\u80fd\u5305 + \u7a7a\u5e93\u6a21\u677f\uff0c\u4e00\u952e\u5b89\u88c5\u3002",
+    "id": "Lumin278/emr-vault-template",
+    "language": "Python",
+    "name": "Lumin278/emr-vault-template",
+    "stars": 0,
+    "updated_at": "2026-09-13T22:32:33Z",
+    "url": "https://github.com/Lumin278/emr-vault-template"
+  },
+  {
+    "description": "Open-source crypto paper-trading desk: backtest farm, walk-forward optimizer, 110 exchanges, built-in strategy agent. La",
+    "id": "shoemoney/shoemoneyx",
+    "language": "PHP",
+    "name": "shoemoney/shoemoneyx",
+    "stars": 0,
+    "updated_at": "2026-09-13T22:30:18Z",
+    "url": "https://github.com/shoemoney/shoemoneyx"
+  },
+  {
     "description": "Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and compu",
     "id": "feder-cr/AIHawk",
     "language": "Python",
     "name": "feder-cr/AIHawk",
     "stars": 30719,
-    "updated_at": "2026-09-13T22:29:43Z",
+    "updated_at": "2026-09-13T22:32:11Z",
     "url": "https://github.com/feder-cr/AIHawk"
   },
   {
@@ -16,15 +34,6 @@
     "stars": 4,
     "updated_at": "2026-09-13T22:21:16Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "\u75c5\u5386\u7ba1\u7406 \u00b7 \u7535\u5b50\u75c5\u5386\u5e93\uff1a\u7528 Obsidian + AI Agent \u5f52\u6863\u4f53\u68c0\u62a5\u544a\u3001\u5316\u9a8c\u5355\u3001\u5c31\u533b\u8bb0\u5f55\u4e0e\u7528\u836f\u53f2\u3002\u542b Hermes Agent \u6280\u80fd\u5305 + \u7a7a\u5e93\u6a21\u677f\uff0c\u4e00\u952e\u5b89\u88c5\u3002",
-    "id": "Lumin278/emr-vault-template",
-    "language": "Python",
-    "name": "Lumin278/emr-vault-template",
-    "stars": 0,
-    "updated_at": "2026-09-13T22:18:35Z",
-    "url": "https://github.com/Lumin278/emr-vault-template"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -176,7 +185,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-09-13T21:42:13Z",
+    "updated_at": "2026-09-13T22:34:53Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-13T20:01:33Z",
     "url": "https://github.com/wufufu770/d2d"
-  },
-  {
-    "description": "Institutional Quantitative Trading & AI Platform: Microsoft Qlib (Alpha158 + LightGBM), MetaTrader 5 EA Bridge, Bloomber",
-    "id": "Ax3lsk3r3/QuantVibe",
-    "language": "TypeScript",
-    "name": "Ax3lsk3r3/QuantVibe",
-    "stars": 2,
-    "updated_at": "2026-09-13T19:56:18Z",
-    "url": "https://github.com/Ax3lsk3r3/QuantVibe"
   }
 ]
