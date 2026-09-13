@@ -1,12 +1,75 @@
 [
   {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 457,
+    "updated_at": "2026-09-13T10:44:39Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
+    "id": "ravisinghrajput95/kubewhy",
+    "language": "Python",
+    "name": "ravisinghrajput95/kubewhy",
+    "stars": 0,
+    "updated_at": "2026-09-13T10:44:28Z",
+    "url": "https://github.com/ravisinghrajput95/kubewhy"
+  },
+  {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
     "id": "Cyrax321/CONTINUUM",
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 28,
-    "updated_at": "2026-09-13T10:28:46Z",
+    "updated_at": "2026-09-13T10:44:27Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "\u57fa\u4e8eLLM\u7684\u91cf\u5316\u56e0\u5b50\u5f00\u53d1Agent",
+    "id": "ZXTLQQ/FactorGPT",
+    "language": "Python",
+    "name": "ZXTLQQ/FactorGPT",
+    "stars": 10,
+    "updated_at": "2026-09-13T10:40:33Z",
+    "url": "https://github.com/ZXTLQQ/FactorGPT"
+  },
+  {
+    "description": "Desktop GUI Headless Local-first AI coding agent in Rust (axum, tokio, rmcp, portable-pty) behind HTTP + SSE, with an An",
+    "id": "henrykbrzoska/bebok",
+    "language": "TypeScript",
+    "name": "henrykbrzoska/bebok",
+    "stars": 4,
+    "updated_at": "2026-09-13T10:40:18Z",
+    "url": "https://github.com/henrykbrzoska/bebok"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4412,
+    "updated_at": "2026-09-13T10:42:49Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Community registry of AI agent manifests, capabilities, skills, and workflows for Octomind \u2014 run a fully-configured spec",
+    "id": "Muvon/octomind-tap",
+    "language": "Python",
+    "name": "Muvon/octomind-tap",
+    "stars": 4,
+    "updated_at": "2026-09-13T10:38:17Z",
+    "url": "https://github.com/Muvon/octomind-tap"
+  },
+  {
+    "description": "CAE toolchain for IPM traction motors: geometry \u2192 EM field \u2192 structural FEM \u2192 thermal \u2192 drive cycle \u2192 PDF report. Every ",
+    "id": "ThomasSchmiegelt/ema-motor-analysis",
+    "language": "Python",
+    "name": "ThomasSchmiegelt/ema-motor-analysis",
+    "stars": 0,
+    "updated_at": "2026-09-13T10:33:56Z",
+    "url": "https://github.com/ThomasSchmiegelt/ema-motor-analysis"
   },
   {
     "description": "A self-hosted AI companion exploring evolving relationship memory, initiative, and cross-device context.",
@@ -16,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-09-13T10:26:50Z",
     "url": "https://github.com/yy606747/obsidian-vow"
-  },
-  {
-    "description": "CAE toolchain for IPM traction motors: geometry \u2192 EM field \u2192 structural FEM \u2192 thermal \u2192 drive cycle \u2192 PDF report. Every ",
-    "id": "ThomasSchmiegelt/ema-motor-analysis",
-    "language": "Python",
-    "name": "ThomasSchmiegelt/ema-motor-analysis",
-    "stars": 0,
-    "updated_at": "2026-09-13T10:26:43Z",
-    "url": "https://github.com/ThomasSchmiegelt/ema-motor-analysis"
   },
   {
     "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
@@ -61,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-13T10:07:26Z",
     "url": "https://github.com/EpsteinF1les/tts"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4412,
-    "updated_at": "2026-09-13T10:20:57Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
@@ -216,15 +261,6 @@
     "url": "https://github.com/xiongweilin/agent-skills"
   },
   {
-    "description": "\u57fa\u4e8eLLM\u7684\u91cf\u5316\u56e0\u5b50\u5f00\u53d1Agent",
-    "id": "ZXTLQQ/FactorGPT",
-    "language": "Python",
-    "name": "ZXTLQQ/FactorGPT",
-    "stars": 10,
-    "updated_at": "2026-09-13T09:41:49Z",
-    "url": "https://github.com/ZXTLQQ/FactorGPT"
-  },
-  {
     "description": "Pie \u2013 free, open-source AI browser agent for Chrome. Reads pages & PDFs, fills forms, extracts data, automates tabs, han",
     "id": "wiseria-ai-labs/pie-ai-agent",
     "language": "TypeScript",
@@ -324,15 +360,6 @@
     "url": "https://github.com/WP2-Danikusuma/AgentX"
   },
   {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 457,
-    "updated_at": "2026-09-13T09:13:41Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "Autonomous SRE agent that detects, diagnoses, and self-heals production incidents - with a standalone watchdog that need",
     "id": "Lethe044/hermes-incident-commander",
     "language": "Python",
@@ -400,7 +427,7 @@
     "id": "feder-cr/AIHawk",
     "language": "Python",
     "name": "feder-cr/AIHawk",
-    "stars": 30634,
+    "stars": 30642,
     "updated_at": "2026-09-13T08:39:08Z",
     "url": "https://github.com/feder-cr/AIHawk"
   },
@@ -414,15 +441,6 @@
     "url": "https://github.com/liiiiiiiiil/agent-from-scratch"
   },
   {
-    "description": "Desktop GUI Headless Local-first AI coding agent in Rust (axum, tokio, rmcp, portable-pty) behind HTTP + SSE, with an An",
-    "id": "henrykbrzoska/bebok",
-    "language": "TypeScript",
-    "name": "henrykbrzoska/bebok",
-    "stars": 4,
-    "updated_at": "2026-09-13T08:24:30Z",
-    "url": "https://github.com/henrykbrzoska/bebok"
-  },
-  {
     "description": "All-in-one agent harness for Claude Code \u2014 Boss meta-orchestrator, 32 curated agents, 139 curated skills, 2 named workfl",
     "id": "sehoon787/my-claude",
     "language": "JavaScript",
@@ -430,23 +448,5 @@
     "stars": 16,
     "updated_at": "2026-09-13T08:24:24Z",
     "url": "https://github.com/sehoon787/my-claude"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5942,
-    "updated_at": "2026-09-13T10:22:38Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-09-13T08:15:56Z",
-    "url": "https://github.com/b-macker/NAAb"
   }
 ]
