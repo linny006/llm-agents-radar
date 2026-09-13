@@ -1,12 +1,57 @@
 [
   {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-09-13T21:42:13Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-13T21:41:10Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 4,
+    "updated_at": "2026-09-13T21:39:57Z",
+    "url": "https://github.com/ljedrz/nachalnik"
+  },
+  {
+    "description": "Open-source AI browser agent, undetected by anti-bot systems: stealth Firefox, no captchas, no blocks. Web automation in",
+    "id": "feder-cr/AIHawk",
+    "language": "Python",
+    "name": "feder-cr/AIHawk",
+    "stars": 30706,
+    "updated_at": "2026-09-13T21:36:53Z",
+    "url": "https://github.com/feder-cr/AIHawk"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-13T21:22:41Z",
+    "updated_at": "2026-09-13T21:36:38Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
+    "id": "kyleslight/shun",
+    "language": "TypeScript",
+    "name": "kyleslight/shun",
+    "stars": 6,
+    "updated_at": "2026-09-13T21:33:56Z",
+    "url": "https://github.com/kyleslight/shun"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -16,15 +61,6 @@
     "stars": 3,
     "updated_at": "2026-09-13T21:20:46Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-09-13T21:23:24Z",
-    "url": "https://github.com/b-macker/NAAb"
   },
   {
     "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
@@ -52,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-13T21:09:15Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
-    "id": "kyleslight/shun",
-    "language": "TypeScript",
-    "name": "kyleslight/shun",
-    "stars": 6,
-    "updated_at": "2026-09-13T21:05:49Z",
-    "url": "https://github.com/kyleslight/shun"
   },
   {
     "description": "An autopoiesic kefir for computing machines",
@@ -225,15 +252,6 @@
     "url": "https://github.com/mriazi1982/octopai"
   },
   {
-    "description": "Open-source AI browser agent, undetected by anti-bot systems: stealth Firefox, no captchas, no blocks. Web automation in",
-    "id": "feder-cr/AIHawk",
-    "language": "Python",
-    "name": "feder-cr/AIHawk",
-    "stars": 30701,
-    "updated_at": "2026-09-13T21:31:42Z",
-    "url": "https://github.com/feder-cr/AIHawk"
-  },
-  {
     "description": "\u0414\u043e\u0440\u0430\u0431\u043e\u0442\u0430\u043d\u043d\u0430\u044f \u0432\u0435\u0440\u0441\u0438\u044f browser-use: MCP-\u0441\u043b\u043e\u0439 bu_mcp \u043f\u043e\u0432\u0435\u0440\u0445 \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0438 \u2014 20 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u043e\u0432 \u0432\u043c\u0435\u0441\u0442\u043e 5, \u043d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u0435 \u0434\u0435\u0448\u0435\u0432\u043b\u0435 \u0432 0.76",
     "id": "draiqw/browser-agent",
     "language": "Python",
@@ -387,15 +405,6 @@
     "url": "https://github.com/WP2-Danikusuma/AgentX"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-09-13T19:38:27Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "A Python engine and in-process arena for running, replaying, and analyzing 6 nimmt! games with deterministic bots and LL",
     "id": "denisakkavim/sixnimmt",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-13T19:09:24Z",
     "url": "https://github.com/wan9yu/cli-agent-runner"
-  },
-  {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-09-13T19:02:41Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
   }
 ]
