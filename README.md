@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-13 21:30 UTC
+> ⏰ Last updated: 2026-09-13 21:32 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -67,7 +67,7 @@ expired items removed — so you can rely on what you see being current.
 | 23 | [Screwtopped-annapavlova802/SparkLabs](https://github.com/Screwtopped-annapavlova802/SparkLabs) | 1 | C++ | 2026-09-13 | Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems |
 | 24 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 32 | Python | 2026-09-13 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
 | 25 | [mriazi1982/octopai](https://github.com/mriazi1982/octopai) | 1 | Python | 2026-09-13 | Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks. |
-| 26 | [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) | 30701 | Python | 2026-09-13 | Open-source AI browser agent for web automation, undetected by anti-bot systems: a web browsing agent on a stealth Firef |
+| 26 | [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) | 30701 | Python | 2026-09-13 | Open-source AI browser agent, undetected by anti-bot systems: stealth Firefox, no captchas, no blocks. Web automation in |
 | 27 | [draiqw/browser-agent](https://github.com/draiqw/browser-agent) | 0 | Python | 2026-09-13 | Доработанная версия browser-use: MCP-слой bu_mcp поверх библиотеки — 20 инструментов вместо 5, наблюдение дешевле в 0.76 |
 | 28 | [mezoali100/exforum-auto-poster](https://github.com/mezoali100/exforum-auto-poster) | 1 | — | 2026-09-13 | Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort. |
 | 29 | [Bowotria/aethercore](https://github.com/Bowotria/aethercore) | 2 | Go | 2026-09-13 | Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso |
