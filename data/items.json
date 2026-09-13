@@ -1,12 +1,57 @@
 [
   {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-09-13T17:41:28Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-13T17:41:24Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
     "description": "A delivery-discipline behavior layer for AI agents \u2014 turns \u201cthe agent says it's done\u201d into \u201cthe agent proves it's done\u201d:",
     "id": "JadeYingWah/gpt-series-reasoning-style",
     "language": "HTML",
     "name": "JadeYingWah/gpt-series-reasoning-style",
     "stars": 4,
-    "updated_at": "2026-09-13T17:28:55Z",
+    "updated_at": "2026-09-13T17:39:29Z",
     "url": "https://github.com/JadeYingWah/gpt-series-reasoning-style"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 461,
+    "updated_at": "2026-09-13T17:35:58Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
+    "language": "Python",
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-09-13T17:37:37Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "Control AI agents anywhere. (github mirror)",
+    "id": "justacalico/devinorium",
+    "language": "Dart",
+    "name": "justacalico/devinorium",
+    "stars": 1,
+    "updated_at": "2026-09-13T17:30:32Z",
+    "url": "https://github.com/justacalico/devinorium"
   },
   {
     "description": "Local-first agent platform for exploratory data analysis. Deterministic profiling and evidence-validated LLM reports, wi",
@@ -54,13 +99,13 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
+    "description": "A multi-agent research system for the humanities and social sciences.",
+    "id": "Luciole-Studio/Misaka-Agent",
     "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 461,
-    "updated_at": "2026-09-13T17:13:01Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
+    "name": "Luciole-Studio/Misaka-Agent",
+    "stars": 2,
+    "updated_at": "2026-09-13T17:15:15Z",
+    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
   },
   {
     "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
@@ -95,7 +140,7 @@
     "language": "TypeScript",
     "name": "NosytLabs/skillstate-proxy",
     "stars": 2,
-    "updated_at": "2026-09-13T17:18:14Z",
+    "updated_at": "2026-09-13T17:37:48Z",
     "url": "https://github.com/NosytLabs/skillstate-proxy"
   },
   {
@@ -106,15 +151,6 @@
     "stars": 509,
     "updated_at": "2026-09-13T16:52:17Z",
     "url": "https://github.com/agentpit-io/hunter-community"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-13T16:51:52Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
@@ -346,7 +382,7 @@
     "id": "feder-cr/AIHawk",
     "language": "Python",
     "name": "feder-cr/AIHawk",
-    "stars": 30696,
+    "stars": 30697,
     "updated_at": "2026-09-13T16:00:04Z",
     "url": "https://github.com/feder-cr/AIHawk"
   },
@@ -367,15 +403,6 @@
     "stars": 4,
     "updated_at": "2026-09-13T15:58:56Z",
     "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "Control AI agents anywhere. (github mirror)",
-    "id": "justacalico/devinorium",
-    "language": "Dart",
-    "name": "justacalico/devinorium",
-    "stars": 1,
-    "updated_at": "2026-09-13T16:32:07Z",
-    "url": "https://github.com/justacalico/devinorium"
   },
   {
     "description": "All-in-one agent harness for OpenAI Codex CLI \u2014 Boss meta-orchestrator, 17 curated agents (+17 opt-in AI specialists), 1",
@@ -414,15 +441,6 @@
     "url": "https://github.com/denisakkavim/sixnimmt"
   },
   {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-09-13T17:27:16Z",
-    "url": "https://github.com/b-macker/NAAb"
-  },
-  {
     "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
     "id": "chunleik/self-analyst",
     "language": "Java",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-13T15:49:01Z",
     "url": "https://github.com/chunleik/self-analyst"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-09-13T15:47:54Z",
-    "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "All-in-one agent harness for Claude Code \u2014 Boss meta-orchestrator, 32 curated agents, 139 curated skills, 2 named workfl",
-    "id": "sehoon787/my-claude",
-    "language": "JavaScript",
-    "name": "sehoon787/my-claude",
-    "stars": 16,
-    "updated_at": "2026-09-13T15:46:29Z",
-    "url": "https://github.com/sehoon787/my-claude"
   }
 ]
