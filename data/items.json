@@ -1,5 +1,50 @@
 [
   {
+    "description": "Desktop GUI Headless Local-first AI coding agent in Rust (axum, tokio, rmcp, portable-pty) behind HTTP + SSE, with an An",
+    "id": "henrykbrzoska/bebok",
+    "language": "Rust",
+    "name": "henrykbrzoska/bebok",
+    "stars": 4,
+    "updated_at": "2026-09-13T11:13:09Z",
+    "url": "https://github.com/henrykbrzoska/bebok"
+  },
+  {
+    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
+    "id": "ravisinghrajput95/kubewhy",
+    "language": "Python",
+    "name": "ravisinghrajput95/kubewhy",
+    "stars": 0,
+    "updated_at": "2026-09-13T11:09:13Z",
+    "url": "https://github.com/ravisinghrajput95/kubewhy"
+  },
+  {
+    "description": "DARWIN \u2014 evolutionary strategy foundry: an LLM proposes crypto trading strategies, a leakage-proof gauntlet kills 90% of",
+    "id": "dobrinsm/darwin",
+    "language": "Python",
+    "name": "dobrinsm/darwin",
+    "stars": 1,
+    "updated_at": "2026-09-13T11:09:04Z",
+    "url": "https://github.com/dobrinsm/darwin"
+  },
+  {
+    "description": "Autonomous agent on ESP32-S3 that rewrites its own Python source at runtime.",
+    "id": "Jacobcdsmith/k10-delta",
+    "language": "Python",
+    "name": "Jacobcdsmith/k10-delta",
+    "stars": 2,
+    "updated_at": "2026-09-13T11:04:17Z",
+    "url": "https://github.com/Jacobcdsmith/k10-delta"
+  },
+  {
+    "description": "\u0410\u0433\u0435\u043d\u0442\u043d\u044b\u0439 \u0430\u043d\u0430\u043b\u0438\u0437 \u0438\u043d\u0446\u0438\u0434\u0435\u043d\u0442\u043e\u0432 \u0434\u043b\u044f \u0431\u044d\u043a\u0435\u043d\u0434-\u0441\u0435\u0440\u0432\u0438\u0441\u043e\u0432: workflow \u043d\u0430 LangGraph, \u0438\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u0438 \u0447\u0435\u0440\u0435\u0437 MCP, \u0432\u044b\u0437\u043e\u0432 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u043e\u0432 \u0438 \u043e\u043f\u0435\u0440\u0430\u0446",
+    "id": "SlavaKlkv/ai-operations-agent",
+    "language": "Python",
+    "name": "SlavaKlkv/ai-operations-agent",
+    "stars": 0,
+    "updated_at": "2026-09-13T11:03:06Z",
+    "url": "https://github.com/SlavaKlkv/ai-operations-agent"
+  },
+  {
     "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
     "id": "agentpit-io/hunter-community",
     "language": "Python",
@@ -27,15 +72,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "\u0410\u0433\u0435\u043d\u0442\u043d\u044b\u0439 \u0430\u043d\u0430\u043b\u0438\u0437 \u0438\u043d\u0446\u0438\u0434\u0435\u043d\u0442\u043e\u0432 \u0434\u043b\u044f \u0431\u044d\u043a\u0435\u043d\u0434-\u0441\u0435\u0440\u0432\u0438\u0441\u043e\u0432: workflow \u043d\u0430 LangGraph, \u0438\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u0438 \u0447\u0435\u0440\u0435\u0437 MCP, \u0432\u044b\u0437\u043e\u0432 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u043e\u0432 \u0438 \u043e\u043f\u0435\u0440\u0430\u0446",
-    "id": "SlavaKlkv/ai-operations-agent",
-    "language": "Python",
-    "name": "SlavaKlkv/ai-operations-agent",
-    "stars": 0,
-    "updated_at": "2026-09-13T10:55:45Z",
-    "url": "https://github.com/SlavaKlkv/ai-operations-agent"
-  },
-  {
     "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
     "id": "xiongweilin/agent-skills",
     "language": "PowerShell",
@@ -54,15 +90,6 @@
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
-    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
-    "id": "ravisinghrajput95/kubewhy",
-    "language": "Python",
-    "name": "ravisinghrajput95/kubewhy",
-    "stars": 0,
-    "updated_at": "2026-09-13T10:44:28Z",
-    "url": "https://github.com/ravisinghrajput95/kubewhy"
-  },
-  {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
     "id": "Cyrax321/CONTINUUM",
     "language": "Python",
@@ -79,15 +106,6 @@
     "stars": 10,
     "updated_at": "2026-09-13T10:40:33Z",
     "url": "https://github.com/ZXTLQQ/FactorGPT"
-  },
-  {
-    "description": "Desktop GUI Headless Local-first AI coding agent in Rust (axum, tokio, rmcp, portable-pty) behind HTTP + SSE, with an An",
-    "id": "henrykbrzoska/bebok",
-    "language": "TypeScript",
-    "name": "henrykbrzoska/bebok",
-    "stars": 4,
-    "updated_at": "2026-09-13T10:40:18Z",
-    "url": "https://github.com/henrykbrzoska/bebok"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -187,6 +205,15 @@
     "stars": 0,
     "updated_at": "2026-09-13T10:01:27Z",
     "url": "https://github.com/clashroy5384/ai-papers-hub"
+  },
+  {
+    "description": "AI-driven CAD workbench and coding agent for Windows, evolved from illusion-agent: shared canvas for design discussion, ",
+    "id": "YunTaiHua/illusion-forge",
+    "language": "Python",
+    "name": "YunTaiHua/illusion-forge",
+    "stars": 0,
+    "updated_at": "2026-09-13T09:59:35Z",
+    "url": "https://github.com/YunTaiHua/illusion-forge"
   },
   {
     "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
@@ -301,7 +328,7 @@
     "id": "wiseria-ai-labs/pie-ai-agent",
     "language": "TypeScript",
     "name": "wiseria-ai-labs/pie-ai-agent",
-    "stars": 79,
+    "stars": 80,
     "updated_at": "2026-09-13T09:40:41Z",
     "url": "https://github.com/wiseria-ai-labs/pie-ai-agent"
   },
@@ -409,7 +436,7 @@
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 243,
+    "stars": 244,
     "updated_at": "2026-09-13T09:01:55Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-13T08:56:36Z",
     "url": "https://github.com/irwanformal-cmd/crabalyst"
-  },
-  {
-    "description": "All-in-one agent harness for OpenAI Codex CLI \u2014 Boss meta-orchestrator, 17 curated agents (+17 opt-in AI specialists), 1",
-    "id": "sehoon787/my-codex",
-    "language": "Shell",
-    "name": "sehoon787/my-codex",
-    "stars": 26,
-    "updated_at": "2026-09-13T08:58:44Z",
-    "url": "https://github.com/sehoon787/my-codex"
-  },
-  {
-    "description": "\u805a\u7126AI Agent/LLM/RAG\u6d4b\u8bc4",
-    "id": "zhoujinjian/agent-eval-suite",
-    "language": "Python",
-    "name": "zhoujinjian/agent-eval-suite",
-    "stars": 0,
-    "updated_at": "2026-09-13T08:48:52Z",
-    "url": "https://github.com/zhoujinjian/agent-eval-suite"
-  },
-  {
-    "description": "\u52a8\u624b\u5b66\u5927\u6a21\u578b\u5168\u6808\uff1aCS336 \u4e2d\u6587\u7cbe\u8bb2 \u00b7 PyTorch \u624b\u6413 Transformer \u00b7 \u5355\u5361\u590d\u73b0 Pretrain/SFT/LoRA/DPO/GRPO/RLVR \u00b7 PEFT/Agent/RAG \u843d\u5730\uff08\u542b\u771f\u5b9e\u5b9e\u9a8c\u3001\u66f2\u7ebf\u4e0e\u590d\u73b0\u811a\u672c\uff09",
-    "id": "FRS2003/hands-on-llm",
-    "language": "Python",
-    "name": "FRS2003/hands-on-llm",
-    "stars": 9,
-    "updated_at": "2026-09-13T08:42:01Z",
-    "url": "https://github.com/FRS2003/hands-on-llm"
   }
 ]
