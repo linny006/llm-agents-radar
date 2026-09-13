@@ -1,12 +1,39 @@
 [
   {
+    "description": "Drop-in OpenAI/Anthropic proxy that cuts long-horizon agent prompt tokens 60-95% via SKILL.state (arXiv:2608.26263). MIT",
+    "id": "NosytLabs/skillstate-proxy",
+    "language": "TypeScript",
+    "name": "NosytLabs/skillstate-proxy",
+    "stars": 2,
+    "updated_at": "2026-09-13T16:57:05Z",
+    "url": "https://github.com/NosytLabs/skillstate-proxy"
+  },
+  {
+    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 509,
+    "updated_at": "2026-09-13T16:52:17Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
     "description": "An autopoiesic kefir for computing machines",
     "id": "genaforvena/lte-workstation",
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 8,
-    "updated_at": "2026-09-13T16:44:56Z",
+    "updated_at": "2026-09-13T16:51:52Z",
     "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
+    "id": "ravisinghrajput95/kubewhy",
+    "language": "Python",
+    "name": "ravisinghrajput95/kubewhy",
+    "stars": 0,
+    "updated_at": "2026-09-13T16:47:52Z",
+    "url": "https://github.com/ravisinghrajput95/kubewhy"
   },
   {
     "description": "CAE toolchain for IPM traction motors: geometry \u2192 EM field \u2192 structural FEM \u2192 thermal \u2192 drive cycle \u2192 PDF report. Every ",
@@ -106,6 +133,15 @@
     "stars": 0,
     "updated_at": "2026-09-13T16:15:56Z",
     "url": "https://github.com/clashroy5384/ai-papers-hub"
+  },
+  {
+    "description": "An open-source research agent system for your Zotero library.",
+    "id": "yilewang/llm-for-zotero",
+    "language": "TypeScript",
+    "name": "yilewang/llm-for-zotero",
+    "stars": 2981,
+    "updated_at": "2026-09-13T16:14:50Z",
+    "url": "https://github.com/yilewang/llm-for-zotero"
   },
   {
     "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
@@ -369,15 +405,6 @@
     "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
   },
   {
-    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 509,
-    "updated_at": "2026-09-13T15:38:58Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
-  },
-  {
     "description": "An AI brain for Unitree robot dogs: one sentence in, guarded motion out.",
     "id": "LiSheng5/argos",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-13T15:21:41Z",
     "url": "https://github.com/JadeYingWah/gpt-series-reasoning-style"
-  },
-  {
-    "description": "Gestor ag\u00e9ntico de modelos llm",
-    "id": "bondwell79/hercules",
-    "language": "Python",
-    "name": "bondwell79/hercules",
-    "stars": 0,
-    "updated_at": "2026-09-13T15:16:37Z",
-    "url": "https://github.com/bondwell79/hercules"
-  },
-  {
-    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
-    "id": "diaban/jobsmith",
-    "language": "Python",
-    "name": "diaban/jobsmith",
-    "stars": 0,
-    "updated_at": "2026-09-13T16:14:05Z",
-    "url": "https://github.com/diaban/jobsmith"
-  },
-  {
-    "description": "Keep agent CLIs running 7\u00d724 \u2014 supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure",
-    "id": "wan9yu/cli-agent-runner",
-    "language": "Python",
-    "name": "wan9yu/cli-agent-runner",
-    "stars": 4,
-    "updated_at": "2026-09-13T15:12:40Z",
-    "url": "https://github.com/wan9yu/cli-agent-runner"
   }
 ]
