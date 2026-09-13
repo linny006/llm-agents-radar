@@ -1,15 +1,42 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-13T04:57:15Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
+    "id": "QQSHI13/fox-agent",
+    "language": "TypeScript",
+    "name": "QQSHI13/fox-agent",
+    "stars": 1,
+    "updated_at": "2026-09-13T04:56:57Z",
+    "url": "https://github.com/QQSHI13/fox-agent"
+  },
+  {
+    "description": "AI agent\u7092\u80a1\u8350\u80a1\u76ef\u76d8+open claw\u5fae\u4fe1\u5b9e\u65f6\u63a8\u9001\u64ad\u62a5\u5de5\u4f5c\u6d41",
+    "id": "Heliotrope-dev/finance-agent",
+    "language": "Python",
+    "name": "Heliotrope-dev/finance-agent",
+    "stars": 2,
+    "updated_at": "2026-09-13T04:54:06Z",
+    "url": "https://github.com/Heliotrope-dev/finance-agent"
+  },
+  {
     "description": "Pie \u2013 free, open-source AI browser agent for Chrome. Reads pages & PDFs, fills forms, extracts data, automates tabs, han",
     "id": "wiseria-ai-labs/pie-ai-agent",
     "language": "TypeScript",
     "name": "wiseria-ai-labs/pie-ai-agent",
     "stars": 78,
-    "updated_at": "2026-09-13T04:44:34Z",
+    "updated_at": "2026-09-13T04:57:48Z",
     "url": "https://github.com/wiseria-ai-labs/pie-ai-agent"
   },
   {
-    "description": "Reusable, selectively loaded agent skills for workflow authority, data lineage, evidence revalidation, side-effect safet",
+    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
     "id": "xiongweilin/agent-skills",
     "language": "PowerShell",
     "name": "xiongweilin/agent-skills",
@@ -31,7 +58,7 @@
     "id": "ivyfan-toowell/IvyClaw",
     "language": "Python",
     "name": "ivyfan-toowell/IvyClaw",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-09-13T04:33:41Z",
     "url": "https://github.com/ivyfan-toowell/IvyClaw"
   },
@@ -133,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-13T04:06:26Z",
     "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
-  },
-  {
-    "description": "AI agent\u7092\u80a1\u8350\u80a1\u76ef\u76d8+open claw\u5fae\u4fe1\u5b9e\u65f6\u63a8\u9001\u64ad\u62a5\u5de5\u4f5c\u6d41",
-    "id": "Heliotrope-dev/finance-agent",
-    "language": "Python",
-    "name": "Heliotrope-dev/finance-agent",
-    "stars": 2,
-    "updated_at": "2026-09-13T04:05:56Z",
-    "url": "https://github.com/Heliotrope-dev/finance-agent"
   },
   {
     "description": "Organizational-memory system for micro/nano fabrication: executable process-flow canvas, LLM agent, reliability-scored k",
@@ -320,7 +338,7 @@
     "language": "Java",
     "name": "chunleik/self-analyst",
     "stars": 0,
-    "updated_at": "2026-09-13T04:31:58Z",
+    "updated_at": "2026-09-13T04:53:34Z",
     "url": "https://github.com/chunleik/self-analyst"
   },
   {
@@ -340,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-09-13T03:42:24Z",
     "url": "https://github.com/LZNJUPT/if_we_elsewhere"
-  },
-  {
-    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
-    "id": "QQSHI13/fox-agent",
-    "language": "TypeScript",
-    "name": "QQSHI13/fox-agent",
-    "stars": 1,
-    "updated_at": "2026-09-13T03:40:59Z",
-    "url": "https://github.com/QQSHI13/fox-agent"
   },
   {
     "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
@@ -439,14 +448,5 @@
     "stars": 3280,
     "updated_at": "2026-09-13T02:51:50Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 1227,
-    "updated_at": "2026-09-13T02:47:45Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
   }
 ]
