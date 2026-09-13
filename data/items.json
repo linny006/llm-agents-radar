@@ -1,21 +1,30 @@
 [
   {
-    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
-    "id": "ravisinghrajput95/kubewhy",
-    "language": "Python",
-    "name": "ravisinghrajput95/kubewhy",
-    "stars": 0,
-    "updated_at": "2026-09-13T12:43:11Z",
-    "url": "https://github.com/ravisinghrajput95/kubewhy"
-  },
-  {
     "description": "A delivery-discipline behavior layer for AI agents \u2014 turns \u201cthe agent says it's done\u201d into \u201cthe agent proves it's done\u201d:",
     "id": "JadeYingWah/gpt-series-reasoning-style",
     "language": "Python",
     "name": "JadeYingWah/gpt-series-reasoning-style",
     "stars": 4,
-    "updated_at": "2026-09-13T12:40:04Z",
+    "updated_at": "2026-09-13T12:58:11Z",
     "url": "https://github.com/JadeYingWah/gpt-series-reasoning-style"
+  },
+  {
+    "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
+    "id": "chiam-ck/bss-cli",
+    "language": "Rust",
+    "name": "chiam-ck/bss-cli",
+    "stars": 2,
+    "updated_at": "2026-09-13T12:57:36Z",
+    "url": "https://github.com/chiam-ck/bss-cli"
+  },
+  {
+    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 509,
+    "updated_at": "2026-09-13T12:53:19Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
   },
   {
     "description": "An autopoiesic kefir for computing machines",
@@ -23,8 +32,17 @@
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 8,
-    "updated_at": "2026-09-13T12:36:30Z",
+    "updated_at": "2026-09-13T12:52:22Z",
     "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
+    "id": "ravisinghrajput95/kubewhy",
+    "language": "Python",
+    "name": "ravisinghrajput95/kubewhy",
+    "stars": 0,
+    "updated_at": "2026-09-13T12:43:11Z",
+    "url": "https://github.com/ravisinghrajput95/kubewhy"
   },
   {
     "description": "\u52a8\u624b\u5b66\u5927\u6a21\u578b\u5168\u6808\uff1aCS336 \u4e2d\u6587\u7cbe\u8bb2 \u00b7 PyTorch \u624b\u6413 Transformer \u00b7 \u5355\u5361\u590d\u73b0 Pretrain/SFT/LoRA/DPO/GRPO/RLVR \u00b7 PEFT/Agent/RAG \u843d\u5730\uff08\u542b\u771f\u5b9e\u5b9e\u9a8c\u3001\u66f2\u7ebf\u4e0e\u590d\u73b0\u811a\u672c\uff09",
@@ -121,7 +139,7 @@
     "id": "feder-cr/AIHawk",
     "language": "Python",
     "name": "feder-cr/AIHawk",
-    "stars": 30683,
+    "stars": 30686,
     "updated_at": "2026-09-13T12:02:00Z",
     "url": "https://github.com/feder-cr/AIHawk"
   },
@@ -185,7 +203,7 @@
     "language": "TypeScript",
     "name": "henrykbrzoska/bebok",
     "stars": 4,
-    "updated_at": "2026-09-13T11:52:29Z",
+    "updated_at": "2026-09-13T12:55:51Z",
     "url": "https://github.com/henrykbrzoska/bebok"
   },
   {
@@ -304,15 +322,6 @@
     "stars": 4,
     "updated_at": "2026-09-13T11:39:44Z",
     "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 509,
-    "updated_at": "2026-09-13T11:37:29Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
   },
   {
     "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-13T11:09:04Z",
     "url": "https://github.com/dobrinsm/darwin"
-  },
-  {
-    "description": "Autonomous agent on ESP32-S3 that rewrites its own Python source at runtime.",
-    "id": "Jacobcdsmith/k10-delta",
-    "language": "Python",
-    "name": "Jacobcdsmith/k10-delta",
-    "stars": 2,
-    "updated_at": "2026-09-13T11:04:17Z",
-    "url": "https://github.com/Jacobcdsmith/k10-delta"
   }
 ]
