@@ -1,12 +1,12 @@
 [
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4412,
-    "updated_at": "2026-09-13T20:41:54Z",
-    "url": "https://github.com/gptme/gptme"
+    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
+    "id": "kyleslight/shun",
+    "language": "TypeScript",
+    "name": "kyleslight/shun",
+    "stars": 6,
+    "updated_at": "2026-09-13T20:59:13Z",
+    "url": "https://github.com/kyleslight/shun"
   },
   {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
@@ -14,8 +14,35 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-09-13T20:41:19Z",
+    "updated_at": "2026-09-13T20:58:00Z",
     "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-13T20:55:54Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Natural-language stock queries over a live Oracle ERP with Claude: SELECT-only SQL agent, streaming web UI with visible ",
+    "id": "Hariharasudhan776/erp-stock-assistant",
+    "language": "Python",
+    "name": "Hariharasudhan776/erp-stock-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-13T20:50:06Z",
+    "url": "https://github.com/Hariharasudhan776/erp-stock-assistant"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4412,
+    "updated_at": "2026-09-13T20:41:54Z",
+    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
@@ -52,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-09-13T20:27:55Z",
     "url": "https://github.com/EpsteinF1les/tts"
-  },
-  {
-    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
-    "id": "kyleslight/shun",
-    "language": "TypeScript",
-    "name": "kyleslight/shun",
-    "stars": 6,
-    "updated_at": "2026-09-13T20:23:38Z",
-    "url": "https://github.com/kyleslight/shun"
   },
   {
     "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
@@ -166,7 +184,7 @@
     "id": "feder-cr/AIHawk",
     "language": "Python",
     "name": "feder-cr/AIHawk",
-    "stars": 30701,
+    "stars": 30700,
     "updated_at": "2026-09-13T20:14:55Z",
     "url": "https://github.com/feder-cr/AIHawk"
   },
@@ -216,15 +234,6 @@
     "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
   },
   {
-    "description": "Natural-language stock queries over a live Oracle ERP with Claude: SELECT-only SQL agent, streaming web UI with visible ",
-    "id": "Hariharasudhan776/erp-stock-assistant",
-    "language": "Python",
-    "name": "Hariharasudhan776/erp-stock-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-13T20:07:55Z",
-    "url": "https://github.com/Hariharasudhan776/erp-stock-assistant"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -268,15 +277,6 @@
     "stars": 3,
     "updated_at": "2026-09-13T20:00:58Z",
     "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-13T19:56:19Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Institutional Quantitative Trading & AI Platform: Microsoft Qlib (Alpha158 + LightGBM), MetaTrader 5 EA Bridge, Bloomber",
