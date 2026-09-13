@@ -1,5 +1,59 @@
 [
   {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-13T15:29:00Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 16,
+    "updated_at": "2026-09-13T15:27:43Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "Open-source AI browser agent for web automation, undetected by anti-bot systems: a web browsing agent on a stealth Firef",
+    "id": "feder-cr/AIHawk",
+    "language": "Python",
+    "name": "feder-cr/AIHawk",
+    "stars": 30693,
+    "updated_at": "2026-09-13T15:26:57Z",
+    "url": "https://github.com/feder-cr/AIHawk"
+  },
+  {
+    "description": "\u8bed\u97f3\u9a71\u52a8\u7684\u5e38\u9a7b AI \u52a9\u624b\uff08Windows, Tauri 2 + Rust + MiniMax M3\uff09\uff1a\u56db\u7ea7\u6f0f\u6597\u8bb0\u5fc6 / \u5b50\u4ee3\u7406 / ask_user / \u4efb\u52a1\u770b\u677f",
+    "id": "yeLccccc/ovoice",
+    "language": "Rust",
+    "name": "yeLccccc/ovoice",
+    "stars": 0,
+    "updated_at": "2026-09-13T15:22:16Z",
+    "url": "https://github.com/yeLccccc/ovoice"
+  },
+  {
+    "description": "A delivery-discipline behavior layer for AI agents \u2014 turns \u201cthe agent says it's done\u201d into \u201cthe agent proves it's done\u201d:",
+    "id": "JadeYingWah/gpt-series-reasoning-style",
+    "language": "HTML",
+    "name": "JadeYingWah/gpt-series-reasoning-style",
+    "stars": 4,
+    "updated_at": "2026-09-13T15:21:41Z",
+    "url": "https://github.com/JadeYingWah/gpt-series-reasoning-style"
+  },
+  {
+    "description": "Gestor ag\u00e9ntico de modelos llm",
+    "id": "bondwell79/hercules",
+    "language": "Python",
+    "name": "bondwell79/hercules",
+    "stars": 0,
+    "updated_at": "2026-09-13T15:16:37Z",
+    "url": "https://github.com/bondwell79/hercules"
+  },
+  {
     "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
     "id": "diaban/jobsmith",
     "language": "Python",
@@ -34,24 +88,6 @@
     "stars": 14,
     "updated_at": "2026-09-13T15:09:58Z",
     "url": "https://github.com/emqnuele/projectBEA"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-13T15:09:05Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "\u8bed\u97f3\u9a71\u52a8\u7684\u5e38\u9a7b AI \u52a9\u624b\uff08Windows, Tauri 2 + Rust + MiniMax M3\uff09\uff1a\u56db\u7ea7\u6f0f\u6597\u8bb0\u5fc6 / \u5b50\u4ee3\u7406 / ask_user / \u4efb\u52a1\u770b\u677f",
-    "id": "yeLccccc/ovoice",
-    "language": "Rust",
-    "name": "yeLccccc/ovoice",
-    "stars": 0,
-    "updated_at": "2026-09-13T15:04:23Z",
-    "url": "https://github.com/yeLccccc/ovoice"
   },
   {
     "description": "Desktop GUI Headless Local-first AI coding agent in Rust (axum, tokio, rmcp, portable-pty) behind HTTP + SSE, with an An",
@@ -133,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-09-13T14:39:48Z",
     "url": "https://github.com/xiaomaozjj666/web-crawler"
-  },
-  {
-    "description": "A delivery-discipline behavior layer for AI agents \u2014 turns \u201cthe agent says it's done\u201d into \u201cthe agent proves it's done\u201d:",
-    "id": "JadeYingWah/gpt-series-reasoning-style",
-    "language": "HTML",
-    "name": "JadeYingWah/gpt-series-reasoning-style",
-    "stars": 4,
-    "updated_at": "2026-09-13T14:36:00Z",
-    "url": "https://github.com/JadeYingWah/gpt-series-reasoning-style"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-13T14:43:07Z",
     "url": "https://github.com/chunleik/self-analyst"
-  },
-  {
-    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
-    "id": "SHUKLAO/call-with-ai-agent",
-    "language": "\u2014",
-    "name": "SHUKLAO/call-with-ai-agent",
-    "stars": 3,
-    "updated_at": "2026-09-13T13:27:17Z",
-    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
-    "id": "WP2-Danikusuma/AgentX",
-    "language": "HTML",
-    "name": "WP2-Danikusuma/AgentX",
-    "stars": 2,
-    "updated_at": "2026-09-13T13:26:45Z",
-    "url": "https://github.com/WP2-Danikusuma/AgentX"
-  },
-  {
-    "description": "\u52a8\u624b\u5b66\u5927\u6a21\u578b\u5168\u6808\uff1aCS336 \u4e2d\u6587\u7cbe\u8bb2 \u00b7 PyTorch \u624b\u6413 Transformer \u00b7 \u5355\u5361\u590d\u73b0 Pretrain/SFT/LoRA/DPO/GRPO/RLVR \u00b7 PEFT/Agent/RAG \u843d\u5730\uff08\u542b\u771f\u5b9e\u5b9e\u9a8c\u3001\u66f2\u7ebf\u4e0e\u590d\u73b0\u811a\u672c\uff09",
-    "id": "FRS2003/hands-on-llm",
-    "language": "Python",
-    "name": "FRS2003/hands-on-llm",
-    "stars": 12,
-    "updated_at": "2026-09-13T13:25:39Z",
-    "url": "https://github.com/FRS2003/hands-on-llm"
   }
 ]
