@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-14 20:00 UTC
+> ⏰ Last updated: 2026-09-14 20:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 7241 | Python | 2026-09-14 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
-| 2 | [alhermann/openPASO](https://github.com/alhermann/openPASO) | 10 | Python | 2026-09-14 | openPASO — open Platform for Agentic Simulation and Optimization. An AI agent that operates nine finite-element and mult |
-| 3 | [ljchang/mecha](https://github.com/ljchang/mecha) | 8 | Rust | 2026-09-14 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
-| 4 | [OpenMMO-Agent-UI/openmmo-agent-ui](https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui) | 1 | JavaScript | 2026-09-14 | A desktop client for playing OpenMMO manually or with an LLM at the controls. |
-| 5 | [lost-rob0t/starintel-gpt-auto-dig](https://github.com/lost-rob0t/starintel-gpt-auto-dig) | 1 | Python | 2026-09-14 | GPT autonomous research and investigation using starintel |
-| 6 | [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) | 31573 | Python | 2026-09-14 | Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and compu |
-| 7 | [khudayarovich/onflip-agent](https://github.com/khudayarovich/onflip-agent) | 3 | TypeScript | 2026-09-14 | An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin |
-| 8 | [charlesericwilson-portfolio/Echo_Project_Overview](https://github.com/charlesericwilson-portfolio/Echo_Project_Overview) | 0 | Python | 2026-09-14 | Overall description of multiple linked iterations of LLM agent frameworks. |
+| 1 | [lost-rob0t/starintel-gpt-auto-dig](https://github.com/lost-rob0t/starintel-gpt-auto-dig) | 1 | Python | 2026-09-14 | GPT autonomous research and investigation using starintel |
+| 2 | [charlesericwilson-portfolio/Echo_Project_Overview](https://github.com/charlesericwilson-portfolio/Echo_Project_Overview) | 0 | Python | 2026-09-14 | Overall description of multiple linked iterations of LLM agent frameworks. |
+| 3 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 7241 | Python | 2026-09-14 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 4 | [alhermann/openPASO](https://github.com/alhermann/openPASO) | 10 | Python | 2026-09-14 | openPASO — open Platform for Agentic Simulation and Optimization. An AI agent that operates nine finite-element and mult |
+| 5 | [ljchang/mecha](https://github.com/ljchang/mecha) | 8 | Rust | 2026-09-14 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
+| 6 | [OpenMMO-Agent-UI/openmmo-agent-ui](https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui) | 1 | JavaScript | 2026-09-14 | A desktop client for playing OpenMMO manually or with an LLM at the controls. |
+| 7 | [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) | 31573 | Python | 2026-09-14 | Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and compu |
+| 8 | [khudayarovich/onflip-agent](https://github.com/khudayarovich/onflip-agent) | 3 | TypeScript | 2026-09-14 | An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin |
 | 9 | [aviskaar/zorp](https://github.com/aviskaar/zorp) | 3 | Rust | 2026-09-14 | A research agent for scientific discovery — part of Aviskaar's applied AI research suite. |
 | 10 | [JDGj/agent-treasury](https://github.com/JDGj/agent-treasury) | 0 | Python | 2026-09-14 | A fence for an autonomous agent that handles real money: append-only ledger, kill switch, spend envelope, and a revenue  |
 | 11 | [wan9yu/cli-agent-runner](https://github.com/wan9yu/cli-agent-runner) | 4 | Python | 2026-09-14 | Keep agent CLIs running 7×24 — supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure |

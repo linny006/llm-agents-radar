@@ -1,5 +1,23 @@
 [
   {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 1,
+    "updated_at": "2026-09-14T20:12:14Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Overall description of multiple linked iterations of LLM agent frameworks.",
+    "id": "charlesericwilson-portfolio/Echo_Project_Overview",
+    "language": "Python",
+    "name": "charlesericwilson-portfolio/Echo_Project_Overview",
+    "stars": 0,
+    "updated_at": "2026-09-14T20:06:15Z",
+    "url": "https://github.com/charlesericwilson-portfolio/Echo_Project_Overview"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -23,7 +41,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 8,
-    "updated_at": "2026-09-14T19:57:12Z",
+    "updated_at": "2026-09-14T20:14:11Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -34,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-09-14T19:56:18Z",
     "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 1,
-    "updated_at": "2026-09-14T20:00:18Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
     "description": "Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and compu",
@@ -61,15 +70,6 @@
     "stars": 3,
     "updated_at": "2026-09-14T19:42:19Z",
     "url": "https://github.com/khudayarovich/onflip-agent"
-  },
-  {
-    "description": "Overall description of multiple linked iterations of LLM agent frameworks.",
-    "id": "charlesericwilson-portfolio/Echo_Project_Overview",
-    "language": "Python",
-    "name": "charlesericwilson-portfolio/Echo_Project_Overview",
-    "stars": 0,
-    "updated_at": "2026-09-14T19:42:12Z",
-    "url": "https://github.com/charlesericwilson-portfolio/Echo_Project_Overview"
   },
   {
     "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
@@ -392,7 +392,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3342,
-    "updated_at": "2026-09-14T17:55:14Z",
+    "updated_at": "2026-09-14T20:04:48Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
