@@ -1,12 +1,39 @@
 [
   {
+    "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
+    "id": "aviskaar/zorp",
+    "language": "Rust",
+    "name": "aviskaar/zorp",
+    "stars": 3,
+    "updated_at": "2026-09-14T08:23:04Z",
+    "url": "https://github.com/aviskaar/zorp"
+  },
+  {
     "description": "AI smart home assistant for Home Assistant: LangGraph agent + MCP tools + RAG knowledge graph + vision perception",
     "id": "tk-fantasy/fantasy",
     "language": "Python",
     "name": "tk-fantasy/fantasy",
     "stars": 16,
-    "updated_at": "2026-09-14T08:13:20Z",
+    "updated_at": "2026-09-14T08:21:55Z",
     "url": "https://github.com/tk-fantasy/fantasy"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-09-14T08:21:53Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-14T08:22:14Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
@@ -41,7 +68,7 @@
     "language": "Python",
     "name": "indigokarasu/chronicle-agent-context-and-memory",
     "stars": 6,
-    "updated_at": "2026-09-14T08:01:14Z",
+    "updated_at": "2026-09-14T08:15:59Z",
     "url": "https://github.com/indigokarasu/chronicle-agent-context-and-memory"
   },
   {
@@ -72,15 +99,6 @@
     "url": "https://github.com/ZekaiShi/evo-subagent"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-14T07:54:23Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
     "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
@@ -95,7 +113,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3310,
-    "updated_at": "2026-09-14T07:52:48Z",
+    "updated_at": "2026-09-14T08:27:06Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -202,7 +220,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 31595,
+    "stars": 31597,
     "updated_at": "2026-09-14T07:31:49Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -221,7 +239,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-14T08:05:50Z",
+    "updated_at": "2026-09-14T08:22:24Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1241,
     "updated_at": "2026-09-14T06:57:55Z",
     "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
-    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
-    "id": "SHUKLAO/call-with-ai-agent",
-    "language": "\u2014",
-    "name": "SHUKLAO/call-with-ai-agent",
-    "stars": 3,
-    "updated_at": "2026-09-14T06:56:10Z",
-    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
-    "id": "aviskaar/zorp",
-    "language": "Rust",
-    "name": "aviskaar/zorp",
-    "stars": 3,
-    "updated_at": "2026-09-14T08:06:20Z",
-    "url": "https://github.com/aviskaar/zorp"
   }
 ]
