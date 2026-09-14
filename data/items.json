@@ -1,12 +1,21 @@
 [
   {
-    "description": "\u6211\u53ea\u60f3\u518d\u548cTA\u804a\u804a\u5929\uff0c\u5728\u8fc7\u53bb\uff0c\u5728\u672a\u6765\uff0c\u5728\u4e0d\u5b58\u5728\u7684if\u7ebf",
-    "id": "LZNJUPT/if_we_elsewhere",
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 807,
+    "updated_at": "2026-09-14T13:59:20Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "A multi-agent research system for the humanities and social sciences.",
+    "id": "Luciole-Studio/Misaka-Agent",
     "language": "Python",
-    "name": "LZNJUPT/if_we_elsewhere",
-    "stars": 1,
-    "updated_at": "2026-09-14T13:43:48Z",
-    "url": "https://github.com/LZNJUPT/if_we_elsewhere"
+    "name": "Luciole-Studio/Misaka-Agent",
+    "stars": 3,
+    "updated_at": "2026-09-14T13:59:06Z",
+    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
   },
   {
     "description": "\u652f\u6301\u5bf9\u63a5\u5185\u90e8\u7cfb\u7edf\u7684 AI \u6392\u969c\u5de5\u4f5c\u53f0\uff1a\u901a\u8fc7 HTTP API / Webhook \u63a5\u5165\u5de5\u5355\u4e0e\u544a\u8b66\u7cfb\u7edf\uff0c\u4e32\u8054\u4ee3\u7801\u3001\u65e5\u5fd7\u3001\u914d\u7f6e\u548c Agent\uff0c\u5e76\u63d0\u4f9b\u9762\u5411\u4ea7\u54c1\u3001\u8fd0\u8425\u3001\u5ba2\u670d\u7684 Web \u81ea\u52a9\u5206\u6790\u9875\u9762\u3002",
@@ -14,8 +23,53 @@
     "language": "Python",
     "name": "shanananana/deepticket",
     "stars": 64,
-    "updated_at": "2026-09-14T13:43:39Z",
+    "updated_at": "2026-09-14T13:56:30Z",
     "url": "https://github.com/shanananana/deepticket"
+  },
+  {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 12,
+    "updated_at": "2026-09-14T13:55:40Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-14T13:47:51Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "AI smart home assistant for Home Assistant: LangGraph agent + MCP tools + RAG knowledge graph + vision perception",
+    "id": "tk-fantasy/fantasy",
+    "language": "Python",
+    "name": "tk-fantasy/fantasy",
+    "stars": 16,
+    "updated_at": "2026-09-14T13:58:42Z",
+    "url": "https://github.com/tk-fantasy/fantasy"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-14T13:45:54Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "\u6211\u53ea\u60f3\u518d\u548cTA\u804a\u804a\u5929\uff0c\u5728\u8fc7\u53bb\uff0c\u5728\u672a\u6765\uff0c\u5728\u4e0d\u5b58\u5728\u7684if\u7ebf",
+    "id": "LZNJUPT/if_we_elsewhere",
+    "language": "Python",
+    "name": "LZNJUPT/if_we_elsewhere",
+    "stars": 1,
+    "updated_at": "2026-09-14T13:43:48Z",
+    "url": "https://github.com/LZNJUPT/if_we_elsewhere"
   },
   {
     "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
@@ -45,6 +99,15 @@
     "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
   },
   {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 1243,
+    "updated_at": "2026-09-14T13:40:15Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
+  },
+  {
     "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
     "id": "Blondieredistributed612/pocket-agent",
     "language": "Python",
@@ -59,7 +122,7 @@
     "language": "Rust",
     "name": "bigfish1913/pi-rust",
     "stars": 9,
-    "updated_at": "2026-09-14T13:39:50Z",
+    "updated_at": "2026-09-14T13:57:35Z",
     "url": "https://github.com/bigfish1913/pi-rust"
   },
   {
@@ -126,15 +189,6 @@
     "url": "https://github.com/Elevated-homer201/prompt-gate"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-14T13:34:29Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
     "id": "Indrasclerotinia71/local-ai-research-assistant",
     "language": "Python",
@@ -158,7 +212,7 @@
     "language": "Dart",
     "name": "justacalico/devinorium",
     "stars": 1,
-    "updated_at": "2026-09-14T13:32:32Z",
+    "updated_at": "2026-09-14T13:50:32Z",
     "url": "https://github.com/justacalico/devinorium"
   },
   {
@@ -196,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-09-14T13:27:22Z",
     "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "AI smart home assistant for Home Assistant: LangGraph agent + MCP tools + RAG knowledge graph + vision perception",
-    "id": "tk-fantasy/fantasy",
-    "language": "Python",
-    "name": "tk-fantasy/fantasy",
-    "stars": 16,
-    "updated_at": "2026-09-14T13:28:37Z",
-    "url": "https://github.com/tk-fantasy/fantasy"
   },
   {
     "description": "Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and compu",
@@ -364,7 +409,7 @@
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 276,
+    "stars": 277,
     "updated_at": "2026-09-14T13:05:38Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-14T13:00:21Z",
     "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5758,
-    "updated_at": "2026-09-14T12:57:28Z",
-    "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-09-14T12:57:19Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
-    "id": "QQSHI13/fox-agent",
-    "language": "TypeScript",
-    "name": "QQSHI13/fox-agent",
-    "stars": 1,
-    "updated_at": "2026-09-14T12:56:59Z",
-    "url": "https://github.com/QQSHI13/fox-agent"
-  },
-  {
-    "description": "A persistent agent runtime and its official CLI. Three packages: @echo-agent/core (runtime/SDK, zero runtime dependencie",
-    "id": "echo-yiyi/echo-agent",
-    "language": "TypeScript",
-    "name": "echo-yiyi/echo-agent",
-    "stars": 2,
-    "updated_at": "2026-09-14T12:54:22Z",
-    "url": "https://github.com/echo-yiyi/echo-agent"
-  },
-  {
-    "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
-    "id": "chunleik/self-analyst",
-    "language": "Java",
-    "name": "chunleik/self-analyst",
-    "stars": 0,
-    "updated_at": "2026-09-14T12:50:50Z",
-    "url": "https://github.com/chunleik/self-analyst"
   }
 ]
