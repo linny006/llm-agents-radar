@@ -1,12 +1,30 @@
 [
   {
-    "description": "\u52a8\u624b\u5b66\u5927\u6a21\u578b\u5168\u6808\uff1aCS336 \u4e2d\u6587\u7cbe\u8bb2 \u00b7 PyTorch \u624b\u6413 Transformer \u00b7 \u5355\u5361\u590d\u73b0 Pretrain/SFT/LoRA/DPO/GRPO/RLVR \u00b7 PEFT/Agent/RAG \u843d\u5730\uff08\u542b\u771f\u5b9e\u5b9e\u9a8c\u3001\u66f2\u7ebf\u4e0e\u590d\u73b0\u811a\u672c\uff09",
-    "id": "FRS2003/hands-on-llm",
+    "description": "ZhiWei \u77e5\u5fae \u2014 Verifiable Enterprise Agent Core\uff1a\u628a\u77e5\u8bc6\u3001\u8bb0\u5fc6\u3001\u6a21\u578b\u3001\u5de5\u5177\u4e0e\u957f\u671f\u4efb\u52a1\u7f16\u6392\u6210\u53ef\u9a8c\u8bc1\u3001\u53ef\u6cbb\u7406\u7684 Agent Apps\uff08Ask / Discover / ChangeBrief\uff09\u3002\u591a\u79df\u6237\u7eb5\u6df1",
+    "id": "emmmdty/zhiwei",
     "language": "Python",
-    "name": "FRS2003/hands-on-llm",
-    "stars": 29,
-    "updated_at": "2026-09-14T06:30:11Z",
-    "url": "https://github.com/FRS2003/hands-on-llm"
+    "name": "emmmdty/zhiwei",
+    "stars": 0,
+    "updated_at": "2026-09-14T06:40:34Z",
+    "url": "https://github.com/emmmdty/zhiwei"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3305,
+    "updated_at": "2026-09-14T06:39:33Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
+    "description": "Open-source crypto paper-trading desk: backtest farm, walk-forward optimizer, 110 exchanges, built-in strategy agent. La",
+    "id": "shoemoney/shoemoneyx",
+    "language": "PHP",
+    "name": "shoemoney/shoemoneyx",
+    "stars": 0,
+    "updated_at": "2026-09-14T06:38:36Z",
+    "url": "https://github.com/shoemoney/shoemoneyx"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -14,17 +32,53 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-14T06:26:32Z",
+    "updated_at": "2026-09-14T06:38:03Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
+    "id": "chunleik/self-analyst",
+    "language": "Java",
+    "name": "chunleik/self-analyst",
+    "stars": 0,
+    "updated_at": "2026-09-14T06:39:52Z",
+    "url": "https://github.com/chunleik/self-analyst"
+  },
+  {
+    "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
+    "id": "emqnuele/projectBEA",
+    "language": "Python",
+    "name": "emqnuele/projectBEA",
+    "stars": 14,
+    "updated_at": "2026-09-14T06:34:31Z",
+    "url": "https://github.com/emqnuele/projectBEA"
+  },
+  {
+    "description": "\u52a8\u624b\u5b66\u5927\u6a21\u578b\u5168\u6808\uff1aCS336 \u4e2d\u6587\u7cbe\u8bb2 \u00b7 PyTorch \u624b\u6413 Transformer \u00b7 \u5355\u5361\u590d\u73b0 Pretrain/SFT/LoRA/DPO/GRPO/RLVR \u00b7 PEFT/Agent/RAG \u843d\u5730\uff08\u542b\u771f\u5b9e\u5b9e\u9a8c\u3001\u66f2\u7ebf\u4e0e\u590d\u73b0\u811a\u672c\uff09",
+    "id": "FRS2003/hands-on-llm",
+    "language": "Python",
+    "name": "FRS2003/hands-on-llm",
+    "stars": 30,
+    "updated_at": "2026-09-14T06:33:06Z",
+    "url": "https://github.com/FRS2003/hands-on-llm"
   },
   {
     "description": "Build an AI Coding Agent from Scratch, Step by Step | \u4ece\u96f6\u4e00\u6b65\u6b65\u642d\u5efa AI \u7f16\u7a0b Agent\uff0c\u8fb9\u5b9e\u73b0\u8fb9\u7406\u89e3 Agent \u7684\u5de5\u4f5c\u539f\u7406",
     "id": "liiiiiiiiil/agent-from-scratch",
     "language": "Python",
     "name": "liiiiiiiiil/agent-from-scratch",
-    "stars": 59,
+    "stars": 60,
     "updated_at": "2026-09-14T06:25:19Z",
     "url": "https://github.com/liiiiiiiiil/agent-from-scratch"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5756,
+    "updated_at": "2026-09-14T06:24:28Z",
+    "url": "https://github.com/areal-project/AReaL"
   },
   {
     "description": "A multi-agent research system for the humanities and social sciences.",
@@ -41,7 +95,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 693,
-    "updated_at": "2026-09-14T06:24:17Z",
+    "updated_at": "2026-09-14T06:41:27Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -52,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-14T06:23:50Z",
     "url": "https://github.com/jack-h-park/pm-intelligence-engine"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3303,
-    "updated_at": "2026-09-14T06:18:10Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Scientific literature agent for grounded RAG, structured fact extraction, cross-paper quantitative analysis, evidence-tr",
@@ -97,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-09-14T06:03:58Z",
     "url": "https://github.com/YunTaiHua/illusion-forge"
-  },
-  {
-    "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
-    "id": "chunleik/self-analyst",
-    "language": "Java",
-    "name": "chunleik/self-analyst",
-    "stars": 0,
-    "updated_at": "2026-09-14T06:21:26Z",
-    "url": "https://github.com/chunleik/self-analyst"
   },
   {
     "description": "AI smart home assistant for Home Assistant: LangGraph agent + MCP tools + RAG knowledge graph + vision perception",
@@ -392,7 +428,7 @@
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 212,
-    "updated_at": "2026-09-14T06:20:55Z",
+    "updated_at": "2026-09-14T06:31:53Z",
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-14T05:10:03Z",
     "url": "https://github.com/Danisxxx/comfyUI-LongLook"
-  },
-  {
-    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
-    "id": "axxafo/awesome-agent-benchmarks",
-    "language": "\u2014",
-    "name": "axxafo/awesome-agent-benchmarks",
-    "stars": 3,
-    "updated_at": "2026-09-14T05:09:10Z",
-    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "Open-source crypto paper-trading desk: backtest farm, walk-forward optimizer, 110 exchanges, built-in strategy agent. La",
-    "id": "shoemoney/shoemoneyx",
-    "language": "PHP",
-    "name": "shoemoney/shoemoneyx",
-    "stars": 0,
-    "updated_at": "2026-09-14T05:06:30Z",
-    "url": "https://github.com/shoemoney/shoemoneyx"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 31582,
-    "updated_at": "2026-09-14T05:04:54Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-09-14T05:04:08Z",
-    "url": "https://github.com/yigido41/agentic-ai"
   }
 ]
