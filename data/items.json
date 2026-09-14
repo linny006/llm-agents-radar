@@ -1,12 +1,21 @@
 [
   {
-    "description": "Sirius \u2014 LLM \u9a71\u52a8\u7684\u5e01\u5b89\u5408\u7ea6 AI \u4ea4\u6613\u673a\u5668\u4eba | AI crypto trading bot for Binance USD\u24c8-M futures: trend strategy, auto risk control, Tra",
-    "id": "heider-x/sirius",
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
     "language": "Python",
-    "name": "heider-x/sirius",
-    "stars": 2,
-    "updated_at": "2026-09-14T10:29:49Z",
-    "url": "https://github.com/heider-x/sirius"
+    "name": "tomcounsell/ai",
+    "stars": 24,
+    "updated_at": "2026-09-14T10:43:32Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "",
+    "id": "atria-asi/Atria-Dawn-Preview",
+    "language": "\u2014",
+    "name": "atria-asi/Atria-Dawn-Preview",
+    "stars": 1,
+    "updated_at": "2026-09-14T10:42:58Z",
+    "url": "https://github.com/atria-asi/Atria-Dawn-Preview"
   },
   {
     "description": "Organizational-memory system for micro/nano fabrication: executable process-flow canvas, LLM agent, reliability-scored k",
@@ -14,8 +23,35 @@
     "language": "Python",
     "name": "liyao13-sketch/OpenNano",
     "stars": 0,
-    "updated_at": "2026-09-14T10:28:36Z",
+    "updated_at": "2026-09-14T10:42:42Z",
     "url": "https://github.com/liyao13-sketch/OpenNano"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3318,
+    "updated_at": "2026-09-14T10:41:44Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
+    "description": "Build an AI Coding Agent from Scratch, Step by Step | \u4ece\u96f6\u4e00\u6b65\u6b65\u642d\u5efa AI \u7f16\u7a0b Agent\uff0c\u8fb9\u5b9e\u73b0\u8fb9\u7406\u89e3 Agent \u7684\u5de5\u4f5c\u539f\u7406",
+    "id": "liiiiiiiiil/agent-from-scratch",
+    "language": "Python",
+    "name": "liiiiiiiiil/agent-from-scratch",
+    "stars": 60,
+    "updated_at": "2026-09-14T10:40:14Z",
+    "url": "https://github.com/liiiiiiiiil/agent-from-scratch"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-09-14T10:38:45Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
@@ -23,8 +59,26 @@
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 212,
-    "updated_at": "2026-09-14T10:27:18Z",
+    "updated_at": "2026-09-14T10:34:37Z",
     "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 509,
+    "updated_at": "2026-09-14T10:33:06Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "Sirius \u2014 LLM \u9a71\u52a8\u7684\u5e01\u5b89\u5408\u7ea6 AI \u4ea4\u6613\u673a\u5668\u4eba | AI crypto trading bot for Binance USD\u24c8-M futures: trend strategy, auto risk control, Tra",
+    "id": "heider-x/sirius",
+    "language": "Python",
+    "name": "heider-x/sirius",
+    "stars": 2,
+    "updated_at": "2026-09-14T10:29:49Z",
+    "url": "https://github.com/heider-x/sirius"
   },
   {
     "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
@@ -50,17 +104,8 @@
     "language": "TypeScript",
     "name": "henrykbrzoska/bebok",
     "stars": 4,
-    "updated_at": "2026-09-14T10:22:52Z",
+    "updated_at": "2026-09-14T10:40:08Z",
     "url": "https://github.com/henrykbrzoska/bebok"
-  },
-  {
-    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 509,
-    "updated_at": "2026-09-14T10:22:46Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
   },
   {
     "description": "A persistent agent runtime and its official CLI. Three packages: @echo-agent/core (runtime/SDK, zero runtime dependencie",
@@ -76,7 +121,7 @@
     "id": "ruc-datalab/SkillAdam",
     "language": "Python",
     "name": "ruc-datalab/SkillAdam",
-    "stars": 51,
+    "stars": 52,
     "updated_at": "2026-09-14T10:20:28Z",
     "url": "https://github.com/ruc-datalab/SkillAdam"
   },
@@ -108,31 +153,13 @@
     "url": "https://github.com/tk-fantasy/fantasy"
   },
   {
-    "description": "",
-    "id": "atria-asi/Atria-Dawn-Preview",
-    "language": "\u2014",
-    "name": "atria-asi/Atria-Dawn-Preview",
-    "stars": 1,
-    "updated_at": "2026-09-14T10:17:08Z",
-    "url": "https://github.com/atria-asi/Atria-Dawn-Preview"
-  },
-  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
     "name": "helixml/helix",
     "stars": 807,
-    "updated_at": "2026-09-14T10:16:21Z",
+    "updated_at": "2026-09-14T10:32:58Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3317,
-    "updated_at": "2026-09-14T10:29:21Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Fund diagnosis agent on a deterministic LangGraph micro-loop: custom SQLite checkpointer, hard guards, label engine, str",
@@ -151,15 +178,6 @@
     "stars": 694,
     "updated_at": "2026-09-14T10:07:52Z",
     "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-09-14T10:14:22Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Open-Source Intelligent Command Layer",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-14T09:04:54Z",
     "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 261,
-    "updated_at": "2026-09-14T09:02:48Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-09-14T08:58:57Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
   }
 ]
