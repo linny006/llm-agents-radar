@@ -1,12 +1,12 @@
 [
   {
-    "description": "\u5267\u672c\u5206\u955c\u667a\u80fd\u4f53\uff08PenShot\uff09\uff1a\u7535\u5f71/\u52a8\u6f2b/\u77ed\u5267/\u5c0f\u8bf4\u2192\u5206\u955c\u2192\u63d0\u793a\u8bcd\u2192\u89c6\u9891\u3002| \u57fa\u4e8eLLM \u901a\u8fc7 LangGraph+LlamaIndex\u5b9e\u73b0\u4efb\u610f\u683c\u5f0f\u5267\u672c\u7684\u81ea\u52a8\u89e3\u6790\uff0c\u751f\u6210 Sora/Veo/Runway \u7b49\u6a21\u578b\u53ef\u7528\u7684\u8fde\u8d2ftext-to-v",
-    "id": "neopen/story-shot-agent",
+    "description": "Sirius \u2014 LLM \u9a71\u52a8\u7684\u5e01\u5b89\u5408\u7ea6 AI \u4ea4\u6613\u673a\u5668\u4eba | AI crypto trading bot for Binance USD\u24c8-M futures: trend strategy, auto risk control, Tra",
+    "id": "heider-x/sirius",
     "language": "Python",
-    "name": "neopen/story-shot-agent",
-    "stars": 193,
-    "updated_at": "2026-09-14T10:15:01Z",
-    "url": "https://github.com/neopen/story-shot-agent"
+    "name": "heider-x/sirius",
+    "stars": 2,
+    "updated_at": "2026-09-14T10:29:49Z",
+    "url": "https://github.com/heider-x/sirius"
   },
   {
     "description": "Organizational-memory system for micro/nano fabrication: executable process-flow canvas, LLM agent, reliability-scored k",
@@ -14,8 +14,80 @@
     "language": "Python",
     "name": "liyao13-sketch/OpenNano",
     "stars": 0,
-    "updated_at": "2026-09-14T10:12:27Z",
+    "updated_at": "2026-09-14T10:28:36Z",
     "url": "https://github.com/liyao13-sketch/OpenNano"
+  },
+  {
+    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 212,
+    "updated_at": "2026-09-14T10:27:18Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 475,
+    "updated_at": "2026-09-14T10:25:03Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-09-14T10:24:17Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Desktop GUI Headless Local-first AI coding agent in Rust (axum, tokio, rmcp, portable-pty) behind HTTP + SSE, with an An",
+    "id": "henrykbrzoska/bebok",
+    "language": "TypeScript",
+    "name": "henrykbrzoska/bebok",
+    "stars": 4,
+    "updated_at": "2026-09-14T10:22:52Z",
+    "url": "https://github.com/henrykbrzoska/bebok"
+  },
+  {
+    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 509,
+    "updated_at": "2026-09-14T10:22:46Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "A persistent agent runtime and its official CLI. Three packages: @echo-agent/core (runtime/SDK, zero runtime dependencie",
+    "id": "echo-yiyi/echo-agent",
+    "language": "TypeScript",
+    "name": "echo-yiyi/echo-agent",
+    "stars": 2,
+    "updated_at": "2026-09-14T10:21:57Z",
+    "url": "https://github.com/echo-yiyi/echo-agent"
+  },
+  {
+    "description": "SkillAdam: Better Skills for Your AI Agent\ud83d\ude80 Claude Code/Codex/Cursor \u63d2\u4ef6\uff0c\u4e00\u952e\u8fdb\u5316\u4f60\u7684skill",
+    "id": "ruc-datalab/SkillAdam",
+    "language": "Python",
+    "name": "ruc-datalab/SkillAdam",
+    "stars": 51,
+    "updated_at": "2026-09-14T10:20:28Z",
+    "url": "https://github.com/ruc-datalab/SkillAdam"
+  },
+  {
+    "description": "\u5267\u672c\u5206\u955c\u667a\u80fd\u4f53\uff08PenShot\uff09\uff1a\u7535\u5f71/\u52a8\u6f2b/\u77ed\u5267/\u5c0f\u8bf4\u2192\u5206\u955c\u2192\u63d0\u793a\u8bcd\u2192\u89c6\u9891\u3002| \u57fa\u4e8eLLM \u901a\u8fc7 LangGraph+LlamaIndex\u5b9e\u73b0\u4efb\u610f\u683c\u5f0f\u5267\u672c\u7684\u81ea\u52a8\u89e3\u6790\uff0c\u751f\u6210 Sora/Veo/Runway \u7b49\u6a21\u578b\u53ef\u7528\u7684\u8fde\u8d2ftext-to-v",
+    "id": "neopen/story-shot-agent",
+    "language": "Python",
+    "name": "neopen/story-shot-agent",
+    "stars": 193,
+    "updated_at": "2026-09-14T10:20:08Z",
+    "url": "https://github.com/neopen/story-shot-agent"
   },
   {
     "description": "An autopoiesic kefir for computing machines",
@@ -23,8 +95,53 @@
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 8,
-    "updated_at": "2026-09-14T10:11:26Z",
+    "updated_at": "2026-09-14T10:18:56Z",
     "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "AI smart home assistant for Home Assistant: LangGraph agent + MCP tools + RAG knowledge graph + vision perception",
+    "id": "tk-fantasy/fantasy",
+    "language": "Python",
+    "name": "tk-fantasy/fantasy",
+    "stars": 16,
+    "updated_at": "2026-09-14T10:21:36Z",
+    "url": "https://github.com/tk-fantasy/fantasy"
+  },
+  {
+    "description": "",
+    "id": "atria-asi/Atria-Dawn-Preview",
+    "language": "\u2014",
+    "name": "atria-asi/Atria-Dawn-Preview",
+    "stars": 1,
+    "updated_at": "2026-09-14T10:17:08Z",
+    "url": "https://github.com/atria-asi/Atria-Dawn-Preview"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 807,
+    "updated_at": "2026-09-14T10:16:21Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3317,
+    "updated_at": "2026-09-14T10:29:21Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
+    "description": "Fund diagnosis agent on a deterministic LangGraph micro-loop: custom SQLite checkpointer, hard guards, label engine, str",
+    "id": "dutliuteng/langgraph-fund-diagnosis",
+    "language": "Python",
+    "name": "dutliuteng/langgraph-fund-diagnosis",
+    "stars": 0,
+    "updated_at": "2026-09-14T10:13:21Z",
+    "url": "https://github.com/dutliuteng/langgraph-fund-diagnosis"
   },
   {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
@@ -34,24 +151,6 @@
     "stars": 694,
     "updated_at": "2026-09-14T10:07:52Z",
     "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3316,
-    "updated_at": "2026-09-14T10:13:56Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 509,
-    "updated_at": "2026-09-14T10:00:07Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -117,15 +216,6 @@
     "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
   },
   {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 475,
-    "updated_at": "2026-09-14T09:35:25Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
     "id": "Blondieredistributed612/pocket-agent",
     "language": "Python",
@@ -160,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-09-14T09:30:30Z",
     "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "A persistent agent runtime and its official CLI. Three packages: @echo-agent/core (runtime/SDK, zero runtime dependencie",
-    "id": "echo-yiyi/echo-agent",
-    "language": "TypeScript",
-    "name": "echo-yiyi/echo-agent",
-    "stars": 2,
-    "updated_at": "2026-09-14T10:04:11Z",
-    "url": "https://github.com/echo-yiyi/echo-agent"
   },
   {
     "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
@@ -250,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-09-14T09:17:52Z",
     "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-09-14T09:17:35Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
@@ -364,7 +436,7 @@
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 260,
+    "stars": 261,
     "updated_at": "2026-09-14T09:02:48Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-14T08:58:57Z",
     "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 3,
-    "updated_at": "2026-09-14T08:56:34Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "\u805a\u7126AI Agent/LLM/RAG\u6d4b\u8bc4",
-    "id": "zhoujinjian/agent-eval-suite",
-    "language": "Python",
-    "name": "zhoujinjian/agent-eval-suite",
-    "stars": 0,
-    "updated_at": "2026-09-14T08:55:22Z",
-    "url": "https://github.com/zhoujinjian/agent-eval-suite"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-09-14T09:06:12Z",
-    "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5949,
-    "updated_at": "2026-09-14T08:54:35Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-09-14T08:53:09Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "Drop-in MCP server that records real per-session agent cost/token/tool metrics and renders a Context Window Explorer ove",
-    "id": "sohaibsohail98/mcp-context-inspector",
-    "language": "Python",
-    "name": "sohaibsohail98/mcp-context-inspector",
-    "stars": 3,
-    "updated_at": "2026-09-14T08:49:41Z",
-    "url": "https://github.com/sohaibsohail98/mcp-context-inspector"
-  },
-  {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-09-14T09:10:15Z",
-    "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-14T10:02:49Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   }
 ]
