@@ -1,21 +1,48 @@
 [
   {
-    "description": "openPASO \u2014 open Platform for Agentic Simulation and Optimization. An AI agent that operates nine finite-element and mult",
-    "id": "alhermann/openPASO",
-    "language": "Python",
-    "name": "alhermann/openPASO",
-    "stars": 10,
-    "updated_at": "2026-09-14T15:00:12Z",
-    "url": "https://github.com/alhermann/openPASO"
-  },
-  {
     "description": "An autopoiesic kefir for computing machines",
     "id": "genaforvena/lte-workstation",
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 8,
-    "updated_at": "2026-09-14T15:00:10Z",
+    "updated_at": "2026-09-14T15:13:55Z",
     "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "openPASO \u2014 open Platform for Agentic Simulation and Optimization. An AI agent that operates nine finite-element and mult",
+    "id": "alhermann/openPASO",
+    "language": "Python",
+    "name": "alhermann/openPASO",
+    "stars": 10,
+    "updated_at": "2026-09-14T15:10:12Z",
+    "url": "https://github.com/alhermann/openPASO"
+  },
+  {
+    "description": "\u9002\u7528\u4e8e Claude Code \u548c Codex \u7684\u6c42\u804c Skill\uff1a\u67e5\u627e\u5c97\u4f4d\u3001\u5224\u65ad\u662f\u5426\u503c\u5f97\u6295\u9012\u3001\u5236\u4f5c\u7b80\u5386\u4e0e\u7533\u8bf7\u6750\u6599\u3001\u68c0\u9a8c\u7533\u8bf7\u6750\u6599\u5e76\u6a21\u62df\u9762\u8bd5\u3002\u4e0d\u7f16\u9020\u6280\u80fd\u6216\u4e1a\u7ee9\u6570\u5b57\uff0c\u4e0d\u9884\u6d4b\u5f55\u7528\u6982\u7387\uff1b\u68c0\u67e5\u7b80\u5386\u662f\u5426\u4fbf\u4e8e\u62db\u8058\u7ba1\u7406\u7cfb\u7edf\uff08ATS\uff09\u8bfb\u53d6\uff0c\u5e76\u4ece\u62db\u8058\u4eba\u5458\u548c\u7528\u4eba",
+    "id": "addsumtech/job-hunt",
+    "language": "Python",
+    "name": "addsumtech/job-hunt",
+    "stars": 2,
+    "updated_at": "2026-09-14T15:09:21Z",
+    "url": "https://github.com/addsumtech/job-hunt"
+  },
+  {
+    "description": "Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and compu",
+    "id": "feder-cr/AIHawk",
+    "language": "Python",
+    "name": "feder-cr/AIHawk",
+    "stars": 31567,
+    "updated_at": "2026-09-14T15:06:13Z",
+    "url": "https://github.com/feder-cr/AIHawk"
+  },
+  {
+    "description": "AI-powered multi-mailbox monitoring agent (Gmail, QQ, Edu) with WeChat instant notifications & arXiv/Scholar paper readi",
+    "id": "Bowen-0x00/mail-assist",
+    "language": "Python",
+    "name": "Bowen-0x00/mail-assist",
+    "stars": 1,
+    "updated_at": "2026-09-14T15:04:16Z",
+    "url": "https://github.com/Bowen-0x00/mail-assist"
   },
   {
     "description": "AI agent\u7092\u80a1\u8350\u80a1\u76ef\u76d8+open claw\u5fae\u4fe1\u5b9e\u65f6\u63a8\u9001\u64ad\u62a5\u5de5\u4f5c\u6d41",
@@ -23,7 +50,7 @@
     "language": "Python",
     "name": "Heliotrope-dev/finance-agent",
     "stars": 2,
-    "updated_at": "2026-09-14T14:56:26Z",
+    "updated_at": "2026-09-14T15:03:33Z",
     "url": "https://github.com/Heliotrope-dev/finance-agent"
   },
   {
@@ -36,15 +63,6 @@
     "url": "https://github.com/AVADSA25/codec"
   },
   {
-    "description": "AI-powered multi-mailbox monitoring agent (Gmail, QQ, Edu) with WeChat instant notifications & arXiv/Scholar paper readi",
-    "id": "Bowen-0x00/mail-assist",
-    "language": "Python",
-    "name": "Bowen-0x00/mail-assist",
-    "stars": 1,
-    "updated_at": "2026-09-14T14:55:39Z",
-    "url": "https://github.com/Bowen-0x00/mail-assist"
-  },
-  {
     "description": "A persistent agent runtime and its official CLI. Three packages: @echo-agent/core (runtime/SDK, zero runtime dependencie",
     "id": "echo-yiyi/echo-agent",
     "language": "TypeScript",
@@ -52,15 +70,6 @@
     "stars": 2,
     "updated_at": "2026-09-14T14:54:08Z",
     "url": "https://github.com/echo-yiyi/echo-agent"
-  },
-  {
-    "description": "Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and compu",
-    "id": "feder-cr/AIHawk",
-    "language": "Python",
-    "name": "feder-cr/AIHawk",
-    "stars": 31567,
-    "updated_at": "2026-09-14T15:00:17Z",
-    "url": "https://github.com/feder-cr/AIHawk"
   },
   {
     "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-14T13:14:00Z",
     "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
-  },
-  {
-    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
-    "id": "amineeng/scraping-browser",
-    "language": "\u2014",
-    "name": "amineeng/scraping-browser",
-    "stars": 1,
-    "updated_at": "2026-09-14T13:12:36Z",
-    "url": "https://github.com/amineeng/scraping-browser"
   }
 ]
