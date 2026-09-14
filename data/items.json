@@ -1,5 +1,59 @@
 [
   {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-09-14T00:59:08Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "Cross-agent plugin for manually excluding and editing AI conversation context, with search, filtering, hide/restore, und",
+    "id": "jermaine123123/agent-context-editor",
+    "language": "TypeScript",
+    "name": "jermaine123123/agent-context-editor",
+    "stars": 61,
+    "updated_at": "2026-09-14T00:58:28Z",
+    "url": "https://github.com/jermaine123123/agent-context-editor"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-09-14T00:54:53Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-09-14T00:54:19Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 126,
+    "updated_at": "2026-09-14T00:51:54Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "Open-source crypto paper-trading desk: backtest farm, walk-forward optimizer, 110 exchanges, built-in strategy agent. La",
+    "id": "shoemoney/shoemoneyx",
+    "language": "PHP",
+    "name": "shoemoney/shoemoneyx",
+    "stars": 0,
+    "updated_at": "2026-09-14T00:51:34Z",
+    "url": "https://github.com/shoemoney/shoemoneyx"
+  },
+  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -13,7 +67,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 1233,
+    "stars": 1234,
     "updated_at": "2026-09-14T00:37:40Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -49,7 +103,7 @@
     "id": "feder-cr/AIHawk",
     "language": "Python",
     "name": "feder-cr/AIHawk",
-    "stars": 30745,
+    "stars": 30746,
     "updated_at": "2026-09-14T00:25:01Z",
     "url": "https://github.com/feder-cr/AIHawk"
   },
@@ -176,7 +230,7 @@
     "language": "Python",
     "name": "expectedparrot/edsl",
     "stars": 496,
-    "updated_at": "2026-09-13T23:04:30Z",
+    "updated_at": "2026-09-14T00:56:57Z",
     "url": "https://github.com/expectedparrot/edsl"
   },
   {
@@ -205,24 +259,6 @@
     "stars": 0,
     "updated_at": "2026-09-13T22:32:33Z",
     "url": "https://github.com/Lumin278/emr-vault-template"
-  },
-  {
-    "description": "Open-source crypto paper-trading desk: backtest farm, walk-forward optimizer, 110 exchanges, built-in strategy agent. La",
-    "id": "shoemoney/shoemoneyx",
-    "language": "PHP",
-    "name": "shoemoney/shoemoneyx",
-    "stars": 0,
-    "updated_at": "2026-09-13T22:30:18Z",
-    "url": "https://github.com/shoemoney/shoemoneyx"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 126,
-    "updated_at": "2026-09-13T22:17:00Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
   },
   {
     "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
@@ -313,33 +349,6 @@
     "stars": 32,
     "updated_at": "2026-09-13T21:54:08Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-09-13T21:53:53Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
-    "id": "SHUKLAO/call-with-ai-agent",
-    "language": "\u2014",
-    "name": "SHUKLAO/call-with-ai-agent",
-    "stars": 3,
-    "updated_at": "2026-09-13T21:49:57Z",
-    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
-    "id": "WP2-Danikusuma/AgentX",
-    "language": "HTML",
-    "name": "WP2-Danikusuma/AgentX",
-    "stars": 2,
-    "updated_at": "2026-09-13T21:49:01Z",
-    "url": "https://github.com/WP2-Danikusuma/AgentX"
   },
   {
     "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-13T20:18:51Z",
     "url": "https://github.com/Arjunadh5305/ios-skills-collection"
-  },
-  {
-    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
-    "id": "oxidizable-malinois605/bridge-suite-mcp",
-    "language": "TypeScript",
-    "name": "oxidizable-malinois605/bridge-suite-mcp",
-    "stars": 0,
-    "updated_at": "2026-09-13T20:18:49Z",
-    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
   }
 ]
