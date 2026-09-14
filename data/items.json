@@ -1,5 +1,113 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-14T06:59:55Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-14T06:58:40Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 1241,
+    "updated_at": "2026-09-14T06:57:55Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
+  },
+  {
+    "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
+    "id": "emqnuele/projectBEA",
+    "language": "Python",
+    "name": "emqnuele/projectBEA",
+    "stars": 15,
+    "updated_at": "2026-09-14T06:56:57Z",
+    "url": "https://github.com/emqnuele/projectBEA"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-09-14T06:56:10Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
+    "id": "aviskaar/zorp",
+    "language": "Rust",
+    "name": "aviskaar/zorp",
+    "stars": 3,
+    "updated_at": "2026-09-14T06:55:42Z",
+    "url": "https://github.com/aviskaar/zorp"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-09-14T06:55:39Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-09-14T06:55:05Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+    "id": "BlockRunAI/Franklin",
+    "language": "TypeScript",
+    "name": "BlockRunAI/Franklin",
+    "stars": 554,
+    "updated_at": "2026-09-14T06:54:25Z",
+    "url": "https://github.com/BlockRunAI/Franklin"
+  },
+  {
+    "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
+    "id": "jack-h-park/pm-intelligence-engine",
+    "language": "Python",
+    "name": "jack-h-park/pm-intelligence-engine",
+    "stars": 0,
+    "updated_at": "2026-09-14T06:50:44Z",
+    "url": "https://github.com/jack-h-park/pm-intelligence-engine"
+  },
+  {
+    "description": "A persistent agent runtime and its official CLI. Three packages: @echo-agent/core (runtime/SDK, zero runtime dependencie",
+    "id": "echo-yiyi/echo-agent",
+    "language": "TypeScript",
+    "name": "echo-yiyi/echo-agent",
+    "stars": 2,
+    "updated_at": "2026-09-14T06:57:04Z",
+    "url": "https://github.com/echo-yiyi/echo-agent"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 24,
+    "updated_at": "2026-09-14T06:57:40Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
@@ -7,15 +115,6 @@
     "stars": 693,
     "updated_at": "2026-09-14T06:44:49Z",
     "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-14T06:44:44Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "ZhiWei \u77e5\u5fae \u2014 Verifiable Enterprise Agent Core\uff1a\u628a\u77e5\u8bc6\u3001\u8bb0\u5fc6\u3001\u6a21\u578b\u3001\u5de5\u5177\u4e0e\u957f\u671f\u4efb\u52a1\u7f16\u6392\u6210\u53ef\u9a8c\u8bc1\u3001\u53ef\u6cbb\u7406\u7684 Agent Apps\uff08Ask / Discover / ChangeBrief\uff09\u3002\u591a\u79df\u6237\u7eb5\u6df1",
@@ -32,7 +131,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3305,
-    "updated_at": "2026-09-14T06:39:33Z",
+    "updated_at": "2026-09-14T06:50:18Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -50,24 +149,15 @@
     "language": "Java",
     "name": "chunleik/self-analyst",
     "stars": 0,
-    "updated_at": "2026-09-14T06:43:39Z",
+    "updated_at": "2026-09-14T06:49:09Z",
     "url": "https://github.com/chunleik/self-analyst"
-  },
-  {
-    "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
-    "id": "emqnuele/projectBEA",
-    "language": "Python",
-    "name": "emqnuele/projectBEA",
-    "stars": 15,
-    "updated_at": "2026-09-14T06:34:31Z",
-    "url": "https://github.com/emqnuele/projectBEA"
   },
   {
     "description": "\u52a8\u624b\u5b66\u5927\u6a21\u578b\u5168\u6808\uff1aCS336 \u4e2d\u6587\u7cbe\u8bb2 \u00b7 PyTorch \u624b\u6413 Transformer \u00b7 \u5355\u5361\u590d\u73b0 Pretrain/SFT/LoRA/DPO/GRPO/RLVR \u00b7 PEFT/Agent/RAG \u843d\u5730\uff08\u542b\u771f\u5b9e\u5b9e\u9a8c\u3001\u66f2\u7ebf\u4e0e\u590d\u73b0\u811a\u672c\uff09",
     "id": "FRS2003/hands-on-llm",
     "language": "Python",
     "name": "FRS2003/hands-on-llm",
-    "stars": 31,
+    "stars": 32,
     "updated_at": "2026-09-14T06:33:06Z",
     "url": "https://github.com/FRS2003/hands-on-llm"
   },
@@ -86,7 +176,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5757,
-    "updated_at": "2026-09-14T06:24:28Z",
+    "updated_at": "2026-09-14T06:59:08Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -97,15 +187,6 @@
     "stars": 3,
     "updated_at": "2026-09-14T06:24:22Z",
     "url": "https://github.com/Luciole-Studio/Misaka-Agent"
-  },
-  {
-    "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
-    "id": "jack-h-park/pm-intelligence-engine",
-    "language": "Python",
-    "name": "jack-h-park/pm-intelligence-engine",
-    "stars": 0,
-    "updated_at": "2026-09-14T06:23:50Z",
-    "url": "https://github.com/jack-h-park/pm-intelligence-engine"
   },
   {
     "description": "Scientific literature agent for grounded RAG, structured fact extraction, cross-paper quantitative analysis, evidence-tr",
@@ -225,15 +306,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-14T06:11:41Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -277,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-09-14T05:35:53Z",
     "url": "https://github.com/EpsteinF1les/tts"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-09-14T06:28:57Z",
-    "url": "https://github.com/JSL107/personal_agents"
   },
   {
     "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-14T05:23:35Z",
     "url": "https://github.com/Hariharasudhan776/erp-stock-assistant"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-09-14T05:23:12Z",
-    "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-09-14T05:20:18Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-09-14T05:20:02Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 4,
-    "updated_at": "2026-09-14T05:18:11Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 212,
-    "updated_at": "2026-09-14T06:31:53Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-09-14T05:14:39Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
-    "id": "Danisxxx/comfyUI-LongLook",
-    "language": "Python",
-    "name": "Danisxxx/comfyUI-LongLook",
-    "stars": 2,
-    "updated_at": "2026-09-14T05:10:03Z",
-    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
   }
 ]
