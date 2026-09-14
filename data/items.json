@@ -1,12 +1,66 @@
 [
   {
+    "description": "",
+    "id": "atria-asi/Atria-Dawn-Preview",
+    "language": "\u2014",
+    "name": "atria-asi/Atria-Dawn-Preview",
+    "stars": 1,
+    "updated_at": "2026-09-14T11:15:09Z",
+    "url": "https://github.com/atria-asi/Atria-Dawn-Preview"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-14T10:59:28Z",
+    "updated_at": "2026-09-14T11:14:32Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Previously on you. A self-evolving AI agent that remembers by when, not by chat thread \u2014 it learns who you are, out in t",
+    "id": "previously-lab/agent",
+    "language": "TypeScript",
+    "name": "previously-lab/agent",
+    "stars": 4,
+    "updated_at": "2026-09-14T11:08:12Z",
+    "url": "https://github.com/previously-lab/agent"
+  },
+  {
+    "description": "Desktop GUI Headless Local-first AI coding agent in Rust (axum, tokio, rmcp, portable-pty) behind HTTP + SSE, with an An",
+    "id": "henrykbrzoska/bebok",
+    "language": "TypeScript",
+    "name": "henrykbrzoska/bebok",
+    "stars": 4,
+    "updated_at": "2026-09-14T11:08:44Z",
+    "url": "https://github.com/henrykbrzoska/bebok"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5758,
+    "updated_at": "2026-09-14T11:15:00Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 476,
+    "updated_at": "2026-09-14T11:01:27Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 509,
+    "updated_at": "2026-09-14T11:01:17Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -18,13 +72,13 @@
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
-    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
-    "id": "agentpit-io/hunter-community",
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
     "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 509,
-    "updated_at": "2026-09-14T10:51:03Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3321,
+    "updated_at": "2026-09-14T10:49:23Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "An autopoiesic kefir for computing machines",
@@ -45,15 +99,6 @@
     "url": "https://github.com/P0w3r223/apply-scout"
   },
   {
-    "description": "",
-    "id": "atria-asi/Atria-Dawn-Preview",
-    "language": "\u2014",
-    "name": "atria-asi/Atria-Dawn-Preview",
-    "stars": 1,
-    "updated_at": "2026-09-14T10:42:58Z",
-    "url": "https://github.com/atria-asi/Atria-Dawn-Preview"
-  },
-  {
     "description": "Organizational-memory system for micro/nano fabrication: executable process-flow canvas, LLM agent, reliability-scored k",
     "id": "liyao13-sketch/OpenNano",
     "language": "Python",
@@ -61,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-14T10:42:42Z",
     "url": "https://github.com/liyao13-sketch/OpenNano"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3318,
-    "updated_at": "2026-09-14T10:49:23Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Build an AI Coding Agent from Scratch, Step by Step | \u4ece\u96f6\u4e00\u6b65\u6b65\u642d\u5efa AI \u7f16\u7a0b Agent\uff0c\u8fb9\u5b9e\u73b0\u8fb9\u7406\u89e3 Agent \u7684\u5de5\u4f5c\u539f\u7406",
@@ -99,15 +135,6 @@
     "url": "https://github.com/heider-x/sirius"
   },
   {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 476,
-    "updated_at": "2026-09-14T10:25:03Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
     "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
@@ -115,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-14T10:24:17Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "Desktop GUI Headless Local-first AI coding agent in Rust (axum, tokio, rmcp, portable-pty) behind HTTP + SSE, with an An",
-    "id": "henrykbrzoska/bebok",
-    "language": "TypeScript",
-    "name": "henrykbrzoska/bebok",
-    "stars": 4,
-    "updated_at": "2026-09-14T10:46:42Z",
-    "url": "https://github.com/henrykbrzoska/bebok"
   },
   {
     "description": "A persistent agent runtime and its official CLI. Three packages: @echo-agent/core (runtime/SDK, zero runtime dependencie",
@@ -149,7 +167,7 @@
     "language": "Python",
     "name": "neopen/story-shot-agent",
     "stars": 193,
-    "updated_at": "2026-09-14T10:20:08Z",
+    "updated_at": "2026-09-14T11:01:37Z",
     "url": "https://github.com/neopen/story-shot-agent"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 221,
     "updated_at": "2026-09-14T09:07:01Z",
     "url": "https://github.com/EvoMap/awesome-agent-evolution"
-  },
-  {
-    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
-    "id": "Saran1536/ComfyUI-LoaderUtils",
-    "language": "Python",
-    "name": "Saran1536/ComfyUI-LoaderUtils",
-    "stars": 0,
-    "updated_at": "2026-09-14T09:06:05Z",
-    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
-  },
-  {
-    "description": "tidian\uff08\u63d0\u70b9\uff09\u00b7 \u70b9\u7ebf\u9762\u77e5\u8bc6\u5e93\uff08kb\uff09\uff1a\u628a\u4e00\u4efd\u5df2\u5199\u597d\u7684\u6750\u6599\u6d88\u5316\u6210\u6709\u70b9\u3001\u6709\u7ebf\u3001\u6709\u95ee\u9898\u3001\u80fd\u770b\u89c1\u4f53\u7cfb\u7684\u5b66\u4e60\u4ed3\u5e93\uff08Obsidian vault\uff09\u2014\u2014 \u5f15\u6587\u9010\u5b57\u53ef\u6838\uff0c\u8fde\u63a5\u5fc5\u987b\u5e26\u7406\u7531\uff0c\u88c1\u51b3\u5c5e\u4e8e\u4eba\u3002",
-    "id": "Bairea/tidian",
-    "language": "Python",
-    "name": "Bairea/tidian",
-    "stars": 0,
-    "updated_at": "2026-09-14T09:05:40Z",
-    "url": "https://github.com/Bairea/tidian"
   }
 ]
