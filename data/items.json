@@ -1,12 +1,21 @@
 [
   {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 130,
-    "updated_at": "2026-09-14T21:29:24Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+    "description": "A marketing analyst agent: business question in, analyst-grade SQL, deterministic attribution, and a cited interpretatio",
+    "id": "Lekh007/touchline",
+    "language": "Python",
+    "name": "Lekh007/touchline",
+    "stars": 0,
+    "updated_at": "2026-09-14T21:44:49Z",
+    "url": "https://github.com/Lekh007/touchline"
+  },
+  {
+    "description": "An LLM agent for building OpenAPI specifications based on the given code",
+    "id": "grauwolf32/contractor",
+    "language": "Go",
+    "name": "grauwolf32/contractor",
+    "stars": 1,
+    "updated_at": "2026-09-14T21:43:13Z",
+    "url": "https://github.com/grauwolf32/contractor"
   },
   {
     "description": "GPT autonomous research and investigation using starintel",
@@ -14,17 +23,17 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-09-14T21:29:48Z",
+    "updated_at": "2026-09-14T21:42:54Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
-    "description": "A marketing analyst agent: business question in, analyst-grade SQL, deterministic attribution, and a cited interpretatio",
-    "id": "Lekh007/touchline",
-    "language": "Python",
-    "name": "Lekh007/touchline",
-    "stars": 0,
-    "updated_at": "2026-09-14T21:25:17Z",
-    "url": "https://github.com/Lekh007/touchline"
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 130,
+    "updated_at": "2026-09-14T21:29:24Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -439,14 +448,5 @@
     "stars": 574,
     "updated_at": "2026-09-14T19:54:52Z",
     "url": "https://github.com/mnemon-dev/mnemon"
-  },
-  {
-    "description": "",
-    "id": "atria-asi/Atria-Dawn-Preview",
-    "language": "\u2014",
-    "name": "atria-asi/Atria-Dawn-Preview",
-    "stars": 82,
-    "updated_at": "2026-09-14T18:20:29Z",
-    "url": "https://github.com/atria-asi/Atria-Dawn-Preview"
   }
 ]
