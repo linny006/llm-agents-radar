@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-14T10:43:32Z",
+    "updated_at": "2026-09-14T10:59:28Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-09-14T10:55:07Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 509,
+    "updated_at": "2026-09-14T10:51:03Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-14T10:48:15Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "An LLM job-matching agent with a from-scratch tool loop \u2014 and an evaluation that scores its own retriever and its own at",
+    "id": "P0w3r223/apply-scout",
+    "language": "Python",
+    "name": "P0w3r223/apply-scout",
+    "stars": 1,
+    "updated_at": "2026-09-14T10:47:45Z",
+    "url": "https://github.com/P0w3r223/apply-scout"
   },
   {
     "description": "",
@@ -32,7 +68,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3318,
-    "updated_at": "2026-09-14T10:41:44Z",
+    "updated_at": "2026-09-14T10:49:23Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -45,31 +81,13 @@
     "url": "https://github.com/liiiiiiiiil/agent-from-scratch"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-09-14T10:38:45Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
     "id": "node9-ai/node9-proxy",
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 212,
-    "updated_at": "2026-09-14T10:34:37Z",
+    "updated_at": "2026-09-14T10:47:48Z",
     "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
-    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 509,
-    "updated_at": "2026-09-14T10:33:06Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
   },
   {
     "description": "Sirius \u2014 LLM \u9a71\u52a8\u7684\u5e01\u5b89\u5408\u7ea6 AI \u4ea4\u6613\u673a\u5668\u4eba | AI crypto trading bot for Binance USD\u24c8-M futures: trend strategy, auto risk control, Tra",
@@ -85,7 +103,7 @@
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 475,
+    "stars": 476,
     "updated_at": "2026-09-14T10:25:03Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
@@ -104,7 +122,7 @@
     "language": "TypeScript",
     "name": "henrykbrzoska/bebok",
     "stars": 4,
-    "updated_at": "2026-09-14T10:40:08Z",
+    "updated_at": "2026-09-14T10:46:42Z",
     "url": "https://github.com/henrykbrzoska/bebok"
   },
   {
@@ -133,15 +151,6 @@
     "stars": 193,
     "updated_at": "2026-09-14T10:20:08Z",
     "url": "https://github.com/neopen/story-shot-agent"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-14T10:18:56Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "AI smart home assistant for Home Assistant: LangGraph agent + MCP tools + RAG knowledge graph + vision perception",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-14T09:05:40Z",
     "url": "https://github.com/Bairea/tidian"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 1,
-    "updated_at": "2026-09-14T09:04:54Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
   }
 ]
