@@ -1,11 +1,38 @@
 [
   {
+    "description": "Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and compu",
+    "id": "feder-cr/AIHawk",
+    "language": "Python",
+    "name": "feder-cr/AIHawk",
+    "stars": 30739,
+    "updated_at": "2026-09-14T00:14:38Z",
+    "url": "https://github.com/feder-cr/AIHawk"
+  },
+  {
+    "description": "LangGraph agent that rewrites TypeScript Selenium suites in Playwright and proves the result compiles before you see it",
+    "id": "varunbhatt2193/selenium2playwright",
+    "language": "Python",
+    "name": "varunbhatt2193/selenium2playwright",
+    "stars": 0,
+    "updated_at": "2026-09-14T00:03:14Z",
+    "url": "https://github.com/varunbhatt2193/selenium2playwright"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 3,
+    "updated_at": "2026-09-14T00:00:54Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "\u9002\u7528\u4e8e Claude Code \u548c Codex \u7684\u6c42\u804c Skill\uff1a\u67e5\u627e\u5c97\u4f4d\u3001\u5224\u65ad\u662f\u5426\u503c\u5f97\u6295\u9012\u3001\u5236\u4f5c\u7b80\u5386\u4e0e\u7533\u8bf7\u6750\u6599\u3001\u68c0\u9a8c\u7533\u8bf7\u6750\u6599\u5e76\u6a21\u62df\u9762\u8bd5\u3002\u4e0d\u7f16\u9020\u6280\u80fd\u6216\u4e1a\u7ee9\u6570\u5b57\uff0c\u4e0d\u9884\u6d4b\u5f55\u7528\u6982\u7387\uff1b\u68c0\u67e5\u7b80\u5386\u662f\u5426\u4fbf\u4e8e\u62db\u8058\u7ba1\u7406\u7cfb\u7edf\uff08ATS\uff09\u8bfb\u53d6\uff0c\u5e76\u4ece\u62db\u8058\u4eba\u5458\u548c\u7528\u4eba",
     "id": "addsumtech/job-hunt",
     "language": "Python",
     "name": "addsumtech/job-hunt",
     "stars": 2,
-    "updated_at": "2026-09-13T23:56:42Z",
+    "updated_at": "2026-09-14T00:14:22Z",
     "url": "https://github.com/addsumtech/job-hunt"
   },
   {
@@ -27,15 +54,6 @@
     "url": "https://github.com/hoshiyomiX/stellar-trails"
   },
   {
-    "description": "LangGraph agent that rewrites TypeScript Selenium suites in Playwright and proves the result compiles before you see it",
-    "id": "varunbhatt2193/selenium2playwright",
-    "language": "Python",
-    "name": "varunbhatt2193/selenium2playwright",
-    "stars": 0,
-    "updated_at": "2026-09-13T23:54:38Z",
-    "url": "https://github.com/varunbhatt2193/selenium2playwright"
-  },
-  {
     "description": "Real-time control of your active Chrome tab via pure CDP (no MCP): MV3 extension (chrome.debugger) + Node.js WebSocket r",
     "id": "frederico-kluser/chromium-controller",
     "language": "Python",
@@ -50,7 +68,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-13T23:43:11Z",
+    "updated_at": "2026-09-14T00:02:20Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -169,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-13T22:32:33Z",
     "url": "https://github.com/Lumin278/emr-vault-template"
-  },
-  {
-    "description": "Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and compu",
-    "id": "feder-cr/AIHawk",
-    "language": "Python",
-    "name": "feder-cr/AIHawk",
-    "stars": 30738,
-    "updated_at": "2026-09-13T22:32:11Z",
-    "url": "https://github.com/feder-cr/AIHawk"
   },
   {
     "description": "Open-source crypto paper-trading desk: backtest farm, walk-forward optimizer, 110 exchanges, built-in strategy agent. La",
@@ -331,15 +340,6 @@
     "stars": 6,
     "updated_at": "2026-09-13T21:33:56Z",
     "url": "https://github.com/kyleslight/shun"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 3,
-    "updated_at": "2026-09-13T21:20:46Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
