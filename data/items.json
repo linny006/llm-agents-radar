@@ -1,5 +1,68 @@
 [
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7240,
+    "updated_at": "2026-09-14T16:44:53Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-09-14T16:42:42Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "",
+    "id": "atria-asi/Atria-Dawn-Preview",
+    "language": "\u2014",
+    "name": "atria-asi/Atria-Dawn-Preview",
+    "stars": 59,
+    "updated_at": "2026-09-14T16:42:01Z",
+    "url": "https://github.com/atria-asi/Atria-Dawn-Preview"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 3,
+    "updated_at": "2026-09-14T16:40:02Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-09-14T16:37:41Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
+    "id": "OtakuNathan/Pal",
+    "language": "Python",
+    "name": "OtakuNathan/Pal",
+    "stars": 2,
+    "updated_at": "2026-09-14T16:35:17Z",
+    "url": "https://github.com/OtakuNathan/Pal"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 477,
+    "updated_at": "2026-09-14T16:34:48Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
     "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
     "id": "wufufu770/d2d",
     "language": "JavaScript",
@@ -41,7 +104,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 28,
-    "updated_at": "2026-09-14T16:16:40Z",
+    "updated_at": "2026-09-14T16:41:38Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -103,7 +166,7 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 3334,
+    "stars": 3336,
     "updated_at": "2026-09-14T15:56:26Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
@@ -149,7 +212,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-14T16:29:08Z",
+    "updated_at": "2026-09-14T16:39:03Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -175,7 +238,7 @@
     "id": "feder-cr/AIHawk",
     "language": "Python",
     "name": "feder-cr/AIHawk",
-    "stars": 31570,
+    "stars": 31571,
     "updated_at": "2026-09-14T15:30:50Z",
     "url": "https://github.com/feder-cr/AIHawk"
   },
@@ -275,7 +338,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 807,
-    "updated_at": "2026-09-14T16:26:50Z",
+    "updated_at": "2026-09-14T16:42:07Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-14T13:41:14Z",
     "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
-  },
-  {
-    "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
-    "id": "Blondieredistributed612/pocket-agent",
-    "language": "Python",
-    "name": "Blondieredistributed612/pocket-agent",
-    "stars": 2,
-    "updated_at": "2026-09-14T13:40:02Z",
-    "url": "https://github.com/Blondieredistributed612/pocket-agent"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-09-14T13:39:00Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "A safety runtime for tool-using LLM Agents",
-    "id": "haibaoseal/agent-sentinel",
-    "language": "Python",
-    "name": "haibaoseal/agent-sentinel",
-    "stars": 0,
-    "updated_at": "2026-09-14T13:38:29Z",
-    "url": "https://github.com/haibaoseal/agent-sentinel"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-09-14T15:16:37Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
-    "id": "bettersilvanus849/inner-coordinates",
-    "language": "Shell",
-    "name": "bettersilvanus849/inner-coordinates",
-    "stars": 1,
-    "updated_at": "2026-09-14T13:36:35Z",
-    "url": "https://github.com/bettersilvanus849/inner-coordinates"
-  },
-  {
-    "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
-    "id": "Blaz742/web-pentest-lab",
-    "language": "\u2014",
-    "name": "Blaz742/web-pentest-lab",
-    "stars": 0,
-    "updated_at": "2026-09-14T13:35:29Z",
-    "url": "https://github.com/Blaz742/web-pentest-lab"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 1,
-    "updated_at": "2026-09-14T13:35:07Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
   }
 ]
