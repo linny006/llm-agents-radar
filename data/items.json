@@ -1,12 +1,39 @@
 [
   {
+    "description": "\u52a8\u624b\u5b66\u5927\u6a21\u578b\u5168\u6808\uff1aCS336 \u4e2d\u6587\u7cbe\u8bb2 \u00b7 PyTorch \u624b\u6413 Transformer \u00b7 \u5355\u5361\u590d\u73b0 Pretrain/SFT/LoRA/DPO/GRPO/RLVR \u00b7 PEFT/Agent/RAG \u843d\u5730\uff08\u542b\u771f\u5b9e\u5b9e\u9a8c\u3001\u66f2\u7ebf\u4e0e\u590d\u73b0\u811a\u672c\uff09",
+    "id": "FRS2003/hands-on-llm",
+    "language": "Python",
+    "name": "FRS2003/hands-on-llm",
+    "stars": 29,
+    "updated_at": "2026-09-14T06:30:11Z",
+    "url": "https://github.com/FRS2003/hands-on-llm"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-14T06:13:51Z",
+    "updated_at": "2026-09-14T06:26:32Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Build an AI Coding Agent from Scratch, Step by Step | \u4ece\u96f6\u4e00\u6b65\u6b65\u642d\u5efa AI \u7f16\u7a0b Agent\uff0c\u8fb9\u5b9e\u73b0\u8fb9\u7406\u89e3 Agent \u7684\u5de5\u4f5c\u539f\u7406",
+    "id": "liiiiiiiiil/agent-from-scratch",
+    "language": "Python",
+    "name": "liiiiiiiiil/agent-from-scratch",
+    "stars": 59,
+    "updated_at": "2026-09-14T06:25:19Z",
+    "url": "https://github.com/liiiiiiiiil/agent-from-scratch"
+  },
+  {
+    "description": "A multi-agent research system for the humanities and social sciences.",
+    "id": "Luciole-Studio/Misaka-Agent",
+    "language": "Python",
+    "name": "Luciole-Studio/Misaka-Agent",
+    "stars": 3,
+    "updated_at": "2026-09-14T06:24:22Z",
+    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
   },
   {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
@@ -14,8 +41,26 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 693,
-    "updated_at": "2026-09-14T06:11:54Z",
+    "updated_at": "2026-09-14T06:24:17Z",
     "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
+    "id": "jack-h-park/pm-intelligence-engine",
+    "language": "Python",
+    "name": "jack-h-park/pm-intelligence-engine",
+    "stars": 0,
+    "updated_at": "2026-09-14T06:23:50Z",
+    "url": "https://github.com/jack-h-park/pm-intelligence-engine"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3303,
+    "updated_at": "2026-09-14T06:18:10Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Scientific literature agent for grounded RAG, structured fact extraction, cross-paper quantitative analysis, evidence-tr",
@@ -36,15 +81,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3303,
-    "updated_at": "2026-09-14T06:11:06Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
     "description": "Organizational-memory system for micro/nano fabrication: executable process-flow canvas, LLM agent, reliability-scored k",
     "id": "liyao13-sketch/OpenNano",
     "language": "Python",
@@ -52,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-14T06:08:50Z",
     "url": "https://github.com/liyao13-sketch/OpenNano"
-  },
-  {
-    "description": "A multi-agent research system for the humanities and social sciences.",
-    "id": "Luciole-Studio/Misaka-Agent",
-    "language": "Python",
-    "name": "Luciole-Studio/Misaka-Agent",
-    "stars": 3,
-    "updated_at": "2026-09-14T06:08:28Z",
-    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
   },
   {
     "description": "AI-driven CAD workbench and coding agent for Windows, evolved from illusion-agent: shared canvas for design discussion, ",
@@ -77,7 +104,7 @@
     "language": "Java",
     "name": "chunleik/self-analyst",
     "stars": 0,
-    "updated_at": "2026-09-14T06:02:29Z",
+    "updated_at": "2026-09-14T06:21:26Z",
     "url": "https://github.com/chunleik/self-analyst"
   },
   {
@@ -221,7 +248,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-14T05:50:30Z",
+    "updated_at": "2026-09-14T06:28:57Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -248,7 +275,7 @@
     "language": "Dart",
     "name": "justacalico/devinorium",
     "stars": 1,
-    "updated_at": "2026-09-14T05:47:50Z",
+    "updated_at": "2026-09-14T06:17:20Z",
     "url": "https://github.com/justacalico/devinorium"
   },
   {
@@ -365,7 +392,7 @@
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 212,
-    "updated_at": "2026-09-14T05:56:28Z",
+    "updated_at": "2026-09-14T06:20:55Z",
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
@@ -409,7 +436,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 31578,
+    "stars": 31582,
     "updated_at": "2026-09-14T05:04:54Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-14T05:04:08Z",
     "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-09-14T05:02:14Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 253,
-    "updated_at": "2026-09-14T05:02:08Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 32,
-    "updated_at": "2026-09-14T05:01:39Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   }
 ]
