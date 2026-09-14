@@ -1,12 +1,84 @@
 [
   {
+    "description": "Control AI agents anywhere. (github mirror)",
+    "id": "justacalico/devinorium",
+    "language": "Dart",
+    "name": "justacalico/devinorium",
+    "stars": 1,
+    "updated_at": "2026-09-14T18:29:50Z",
+    "url": "https://github.com/justacalico/devinorium"
+  },
+  {
     "description": "Local-first long-term memory and safer context compression for Hermes Agent \u2014 SQLite, no required services.",
     "id": "indigokarasu/chronicle-agent-context-and-memory",
     "language": "Python",
     "name": "indigokarasu/chronicle-agent-context-and-memory",
     "stars": 6,
-    "updated_at": "2026-09-14T18:15:09Z",
+    "updated_at": "2026-09-14T18:29:19Z",
     "url": "https://github.com/indigokarasu/chronicle-agent-context-and-memory"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 126,
+    "updated_at": "2026-09-14T18:29:13Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
+    "id": "khudayarovich/onflip-agent",
+    "language": "TypeScript",
+    "name": "khudayarovich/onflip-agent",
+    "stars": 3,
+    "updated_at": "2026-09-14T18:28:53Z",
+    "url": "https://github.com/khudayarovich/onflip-agent"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 3,
+    "updated_at": "2026-09-14T18:28:38Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 574,
+    "updated_at": "2026-09-14T18:29:57Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
+  },
+  {
+    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
+    "id": "Sigmanih/SigmaStudio",
+    "language": "Python",
+    "name": "Sigmanih/SigmaStudio",
+    "stars": 7,
+    "updated_at": "2026-09-14T18:20:49Z",
+    "url": "https://github.com/Sigmanih/SigmaStudio"
+  },
+  {
+    "description": "",
+    "id": "atria-asi/Atria-Dawn-Preview",
+    "language": "\u2014",
+    "name": "atria-asi/Atria-Dawn-Preview",
+    "stars": 67,
+    "updated_at": "2026-09-14T18:20:29Z",
+    "url": "https://github.com/atria-asi/Atria-Dawn-Preview"
+  },
+  {
+    "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
+    "id": "emqnuele/projectBEA",
+    "language": "Python",
+    "name": "emqnuele/projectBEA",
+    "stars": 15,
+    "updated_at": "2026-09-14T18:16:45Z",
+    "url": "https://github.com/emqnuele/projectBEA"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 7241,
-    "updated_at": "2026-09-14T18:13:51Z",
+    "updated_at": "2026-09-14T18:21:45Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -36,15 +108,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "",
-    "id": "atria-asi/Atria-Dawn-Preview",
-    "language": "\u2014",
-    "name": "atria-asi/Atria-Dawn-Preview",
-    "stars": 67,
-    "updated_at": "2026-09-14T18:12:03Z",
-    "url": "https://github.com/atria-asi/Atria-Dawn-Preview"
-  },
-  {
     "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
     "id": "ljedrz/nachalnik",
     "language": "Rust",
@@ -52,15 +115,6 @@
     "stars": 4,
     "updated_at": "2026-09-14T18:10:12Z",
     "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
-    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
-    "id": "mnemon-dev/mnemon",
-    "language": "Go",
-    "name": "mnemon-dev/mnemon",
-    "stars": 574,
-    "updated_at": "2026-09-14T18:09:06Z",
-    "url": "https://github.com/mnemon-dev/mnemon"
   },
   {
     "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
@@ -97,6 +151,15 @@
     "stars": 0,
     "updated_at": "2026-09-14T17:59:57Z",
     "url": "https://github.com/Hariharasudhan776/erp-stock-assistant"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3338,
+    "updated_at": "2026-09-14T17:55:14Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "A persistent agent runtime and its official CLI. Three packages: @echo-agent/core (runtime/SDK, zero runtime dependencie",
@@ -158,7 +221,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-09-14T17:55:31Z",
+    "updated_at": "2026-09-14T18:28:53Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -167,17 +230,8 @@
     "language": "TypeScript",
     "name": "henrykbrzoska/bebok",
     "stars": 5,
-    "updated_at": "2026-09-14T18:09:55Z",
+    "updated_at": "2026-09-14T18:27:01Z",
     "url": "https://github.com/henrykbrzoska/bebok"
-  },
-  {
-    "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
-    "id": "emqnuele/projectBEA",
-    "language": "Python",
-    "name": "emqnuele/projectBEA",
-    "stars": 15,
-    "updated_at": "2026-09-14T18:12:55Z",
-    "url": "https://github.com/emqnuele/projectBEA"
   },
   {
     "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
@@ -394,59 +448,5 @@
     "stars": 86,
     "updated_at": "2026-09-14T17:04:24Z",
     "url": "https://github.com/yantrikos/yantrikdb-hermes-plugin"
-  },
-  {
-    "description": "A grumpy Gibson construct living in an office router. It only knows what the router can see.",
-    "id": "YuriKovalov22/the-finn",
-    "language": "Lua",
-    "name": "YuriKovalov22/the-finn",
-    "stars": 27,
-    "updated_at": "2026-09-14T17:03:04Z",
-    "url": "https://github.com/YuriKovalov22/the-finn"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-09-14T17:02:47Z",
-    "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-09-14T17:02:05Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-09-14T17:00:51Z",
-    "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-09-14T16:59:32Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 509,
-    "updated_at": "2026-09-14T16:58:35Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
   }
 ]
