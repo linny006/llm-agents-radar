@@ -5,8 +5,116 @@
     "language": "Python",
     "name": "Luciole-Studio/Misaka-Agent",
     "stars": 3,
-    "updated_at": "2026-09-14T05:43:54Z",
+    "updated_at": "2026-09-14T05:59:59Z",
     "url": "https://github.com/Luciole-Studio/Misaka-Agent"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-14T05:59:26Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 126,
+    "updated_at": "2026-09-14T05:59:22Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 693,
+    "updated_at": "2026-09-14T05:59:19Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 3,
+    "updated_at": "2026-09-14T05:58:41Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-14T05:58:32Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "AI smart home assistant for Home Assistant: LangGraph agent + MCP tools + RAG knowledge graph + vision perception",
+    "id": "tk-fantasy/fantasy",
+    "language": "Python",
+    "name": "tk-fantasy/fantasy",
+    "stars": 16,
+    "updated_at": "2026-09-14T05:56:56Z",
+    "url": "https://github.com/tk-fantasy/fantasy"
+  },
+  {
+    "description": "A delivery-discipline behavior layer for AI agents \u2014 turns \u201cthe agent says it's done\u201d into \u201cthe agent proves it's done\u201d:",
+    "id": "JadeYingWah/gpt-series-reasoning-style",
+    "language": "HTML",
+    "name": "JadeYingWah/gpt-series-reasoning-style",
+    "stars": 4,
+    "updated_at": "2026-09-14T05:55:33Z",
+    "url": "https://github.com/JadeYingWah/gpt-series-reasoning-style"
+  },
+  {
+    "description": "A chat bot which makes use of multiple RAG collections/metadata field filtering, and multiple LLMs for model orchestrati",
+    "id": "milljm/dynamic-rag-chat",
+    "language": "Python",
+    "name": "milljm/dynamic-rag-chat",
+    "stars": 3,
+    "updated_at": "2026-09-14T05:54:19Z",
+    "url": "https://github.com/milljm/dynamic-rag-chat"
+  },
+  {
+    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 509,
+    "updated_at": "2026-09-14T05:51:17Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "AI-driven CAD workbench and coding agent for Windows, evolved from illusion-agent: shared canvas for design discussion, ",
+    "id": "YunTaiHua/illusion-forge",
+    "language": "Python",
+    "name": "YunTaiHua/illusion-forge",
+    "stars": 1,
+    "updated_at": "2026-09-14T05:50:37Z",
+    "url": "https://github.com/YunTaiHua/illusion-forge"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 130,
+    "updated_at": "2026-09-14T05:47:31Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Organizational-memory system for micro/nano fabrication: executable process-flow canvas, LLM agent, reliability-scored k",
+    "id": "liyao13-sketch/OpenNano",
+    "language": "Python",
+    "name": "liyao13-sketch/OpenNano",
+    "stars": 0,
+    "updated_at": "2026-09-14T05:47:31Z",
+    "url": "https://github.com/liyao13-sketch/OpenNano"
   },
   {
     "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
@@ -18,21 +126,12 @@
     "url": "https://github.com/OtakuNathan/Pal"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-14T05:42:49Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-14T05:39:31Z",
+    "updated_at": "2026-09-14T05:48:21Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -86,7 +185,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-14T05:45:07Z",
+    "updated_at": "2026-09-14T05:50:30Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -113,7 +212,7 @@
     "language": "Dart",
     "name": "justacalico/devinorium",
     "stars": 1,
-    "updated_at": "2026-09-14T05:30:41Z",
+    "updated_at": "2026-09-14T05:47:50Z",
     "url": "https://github.com/justacalico/devinorium"
   },
   {
@@ -133,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-09-14T05:29:53Z",
     "url": "https://github.com/Changxin-YR/wuye"
-  },
-  {
-    "description": "A delivery-discipline behavior layer for AI agents \u2014 turns \u201cthe agent says it's done\u201d into \u201cthe agent proves it's done\u201d:",
-    "id": "JadeYingWah/gpt-series-reasoning-style",
-    "language": "HTML",
-    "name": "JadeYingWah/gpt-series-reasoning-style",
-    "stars": 4,
-    "updated_at": "2026-09-14T05:29:19Z",
-    "url": "https://github.com/JadeYingWah/gpt-series-reasoning-style"
   },
   {
     "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
@@ -207,15 +297,6 @@
     "url": "https://github.com/mriazi1982/octopai"
   },
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 693,
-    "updated_at": "2026-09-14T05:22:40Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
     "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
     "id": "mezoali100/exforum-auto-poster",
     "language": "\u2014",
@@ -248,7 +329,7 @@
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 212,
-    "updated_at": "2026-09-14T05:26:27Z",
+    "updated_at": "2026-09-14T05:56:28Z",
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
@@ -268,15 +349,6 @@
     "stars": 2,
     "updated_at": "2026-09-14T05:10:03Z",
     "url": "https://github.com/Danisxxx/comfyUI-LongLook"
-  },
-  {
-    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 509,
-    "updated_at": "2026-09-14T05:09:29Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
   },
   {
     "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
@@ -301,7 +373,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 31575,
+    "stars": 31577,
     "updated_at": "2026-09-14T05:04:54Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-14T04:53:05Z",
     "url": "https://github.com/fernedy/autonomous-mail-agent"
-  },
-  {
-    "description": "\ud83e\udd80 Crabalyst \u2014 bilingual (EN/ID) crypto market-watch agent platform: provider-agnostic CLI, deterministic intelligence la",
-    "id": "irwanformal-cmd/crabalyst",
-    "language": "TypeScript",
-    "name": "irwanformal-cmd/crabalyst",
-    "stars": 0,
-    "updated_at": "2026-09-14T04:50:03Z",
-    "url": "https://github.com/irwanformal-cmd/crabalyst"
-  },
-  {
-    "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
-    "id": "aviskaar/zorp",
-    "language": "Rust",
-    "name": "aviskaar/zorp",
-    "stars": 3,
-    "updated_at": "2026-09-14T05:08:54Z",
-    "url": "https://github.com/aviskaar/zorp"
-  },
-  {
-    "description": "Keep agent CLIs running 7\u00d724 \u2014 supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure",
-    "id": "wan9yu/cli-agent-runner",
-    "language": "Python",
-    "name": "wan9yu/cli-agent-runner",
-    "stars": 4,
-    "updated_at": "2026-09-14T04:48:00Z",
-    "url": "https://github.com/wan9yu/cli-agent-runner"
-  },
-  {
-    "description": "\u52a8\u624b\u5b66\u5927\u6a21\u578b\u5168\u6808\uff1aCS336 \u4e2d\u6587\u7cbe\u8bb2 \u00b7 PyTorch \u624b\u6413 Transformer \u00b7 \u5355\u5361\u590d\u73b0 Pretrain/SFT/LoRA/DPO/GRPO/RLVR \u00b7 PEFT/Agent/RAG \u843d\u5730\uff08\u542b\u771f\u5b9e\u5b9e\u9a8c\u3001\u66f2\u7ebf\u4e0e\u590d\u73b0\u811a\u672c\uff09",
-    "id": "FRS2003/hands-on-llm",
-    "language": "Python",
-    "name": "FRS2003/hands-on-llm",
-    "stars": 28,
-    "updated_at": "2026-09-14T04:27:54Z",
-    "url": "https://github.com/FRS2003/hands-on-llm"
-  },
-  {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 1238,
-    "updated_at": "2026-09-14T04:22:58Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
-    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
-    "id": "bigduu/Zenith",
-    "language": "JavaScript",
-    "name": "bigduu/Zenith",
-    "stars": 6,
-    "updated_at": "2026-09-14T04:22:43Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "A persistent agent runtime and its official CLI. Three packages: @echo-agent/core (runtime/SDK, zero runtime dependencie",
-    "id": "echo-yiyi/echo-agent",
-    "language": "TypeScript",
-    "name": "echo-yiyi/echo-agent",
-    "stars": 2,
-    "updated_at": "2026-09-14T04:18:40Z",
-    "url": "https://github.com/echo-yiyi/echo-agent"
-  },
-  {
-    "description": "Drop-in OpenAI/Anthropic proxy that cuts long-horizon agent prompt tokens 60-95% via SKILL.state (arXiv:2608.26263). MIT",
-    "id": "NosytLabs/skillstate-proxy",
-    "language": "TypeScript",
-    "name": "NosytLabs/skillstate-proxy",
-    "stars": 2,
-    "updated_at": "2026-09-14T04:14:52Z",
-    "url": "https://github.com/NosytLabs/skillstate-proxy"
   }
 ]
