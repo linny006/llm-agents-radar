@@ -1,21 +1,12 @@
 [
   {
-    "description": "A marketing analyst agent: business question in, analyst-grade SQL, deterministic attribution, and a cited interpretatio",
-    "id": "Lekh007/touchline",
-    "language": "Python",
-    "name": "Lekh007/touchline",
-    "stars": 0,
-    "updated_at": "2026-09-14T21:44:49Z",
-    "url": "https://github.com/Lekh007/touchline"
-  },
-  {
-    "description": "An LLM agent for building OpenAPI specifications based on the given code",
-    "id": "grauwolf32/contractor",
-    "language": "Go",
-    "name": "grauwolf32/contractor",
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
     "stars": 1,
-    "updated_at": "2026-09-14T21:43:13Z",
-    "url": "https://github.com/grauwolf32/contractor"
+    "updated_at": "2026-09-14T21:58:53Z",
+    "url": "https://github.com/citizenhicks/mobius"
   },
   {
     "description": "GPT autonomous research and investigation using starintel",
@@ -23,8 +14,71 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-09-14T21:42:54Z",
+    "updated_at": "2026-09-14T21:58:32Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "One-Stop Personal Health AI Agent \"Say Hi to Healthy Me\"",
+    "id": "thinkwee/HiMe",
+    "language": "Python",
+    "name": "thinkwee/HiMe",
+    "stars": 63,
+    "updated_at": "2026-09-14T21:52:41Z",
+    "url": "https://github.com/thinkwee/HiMe"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-09-14T21:51:35Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 5,
+    "updated_at": "2026-09-14T21:51:31Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "A multi-agent OS for your phone: Claude Code and the Codex CLI running natively on Android in their own Debian userland ",
+    "id": "Jogi-OpenSource/JogiJarvis-Mobile",
+    "language": "Kotlin",
+    "name": "Jogi-OpenSource/JogiJarvis-Mobile",
+    "stars": 1,
+    "updated_at": "2026-09-14T21:51:27Z",
+    "url": "https://github.com/Jogi-OpenSource/JogiJarvis-Mobile"
+  },
+  {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 4,
+    "updated_at": "2026-09-14T21:48:19Z",
+    "url": "https://github.com/ljedrz/nachalnik"
+  },
+  {
+    "description": "Application Security orchestration platform",
+    "id": "grauwolf32/contractor",
+    "language": "Go",
+    "name": "grauwolf32/contractor",
+    "stars": 1,
+    "updated_at": "2026-09-14T21:48:11Z",
+    "url": "https://github.com/grauwolf32/contractor"
+  },
+  {
+    "description": "A marketing analyst agent: business question in, analyst-grade SQL, deterministic attribution, and a cited interpretatio",
+    "id": "Lekh007/touchline",
+    "language": "Python",
+    "name": "Lekh007/touchline",
+    "stars": 0,
+    "updated_at": "2026-09-14T21:44:49Z",
+    "url": "https://github.com/Lekh007/touchline"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -70,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-14T21:10:13Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "A multi-agent OS for your phone: Claude Code and the Codex CLI running natively on Android in their own Debian userland ",
-    "id": "Jogi-OpenSource/JogiJarvis-Mobile",
-    "language": "Kotlin",
-    "name": "Jogi-OpenSource/JogiJarvis-Mobile",
-    "stars": 1,
-    "updated_at": "2026-09-14T21:07:27Z",
-    "url": "https://github.com/Jogi-OpenSource/JogiJarvis-Mobile"
   },
   {
     "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
@@ -403,50 +448,5 @@
     "stars": 7,
     "updated_at": "2026-09-14T18:48:22Z",
     "url": "https://github.com/Sigmanih/SigmaStudio"
-  },
-  {
-    "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
-    "id": "emqnuele/projectBEA",
-    "language": "Python",
-    "name": "emqnuele/projectBEA",
-    "stars": 15,
-    "updated_at": "2026-09-14T18:34:59Z",
-    "url": "https://github.com/emqnuele/projectBEA"
-  },
-  {
-    "description": "Local-first long-term memory and safer context compression for Hermes Agent \u2014 SQLite, no required services.",
-    "id": "indigokarasu/chronicle-agent-context-and-memory",
-    "language": "Python",
-    "name": "indigokarasu/chronicle-agent-context-and-memory",
-    "stars": 6,
-    "updated_at": "2026-09-14T18:37:37Z",
-    "url": "https://github.com/indigokarasu/chronicle-agent-context-and-memory"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 126,
-    "updated_at": "2026-09-14T18:29:13Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 3,
-    "updated_at": "2026-09-14T18:28:38Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
-    "id": "mnemon-dev/mnemon",
-    "language": "Go",
-    "name": "mnemon-dev/mnemon",
-    "stars": 574,
-    "updated_at": "2026-09-14T19:54:52Z",
-    "url": "https://github.com/mnemon-dev/mnemon"
   }
 ]
