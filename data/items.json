@@ -1,21 +1,21 @@
 [
   {
-    "description": "AI smart home assistant for Home Assistant: LangGraph agent + MCP tools + RAG knowledge graph + vision perception",
-    "id": "tk-fantasy/fantasy",
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
     "language": "Python",
-    "name": "tk-fantasy/fantasy",
-    "stars": 16,
-    "updated_at": "2026-09-14T12:44:11Z",
-    "url": "https://github.com/tk-fantasy/fantasy"
+    "name": "areal-project/AReaL",
+    "stars": 5758,
+    "updated_at": "2026-09-14T12:57:28Z",
+    "url": "https://github.com/areal-project/AReaL"
   },
   {
-    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 509,
-    "updated_at": "2026-09-14T12:43:07Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-09-14T12:57:19Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
   },
   {
     "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
@@ -23,8 +23,62 @@
     "language": "TypeScript",
     "name": "QQSHI13/fox-agent",
     "stars": 1,
-    "updated_at": "2026-09-14T12:42:26Z",
+    "updated_at": "2026-09-14T12:56:59Z",
     "url": "https://github.com/QQSHI13/fox-agent"
+  },
+  {
+    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 509,
+    "updated_at": "2026-09-14T12:56:01Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "A persistent agent runtime and its official CLI. Three packages: @echo-agent/core (runtime/SDK, zero runtime dependencie",
+    "id": "echo-yiyi/echo-agent",
+    "language": "TypeScript",
+    "name": "echo-yiyi/echo-agent",
+    "stars": 2,
+    "updated_at": "2026-09-14T12:54:22Z",
+    "url": "https://github.com/echo-yiyi/echo-agent"
+  },
+  {
+    "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
+    "id": "chunleik/self-analyst",
+    "language": "Java",
+    "name": "chunleik/self-analyst",
+    "stars": 0,
+    "updated_at": "2026-09-14T12:50:50Z",
+    "url": "https://github.com/chunleik/self-analyst"
+  },
+  {
+    "description": "Fix context rot & pollution in long AI agent sessions. Subagents run in isolated processes \u2014 main agent stays read-only.",
+    "id": "Wolido/async-subagent-isolation",
+    "language": "TypeScript",
+    "name": "Wolido/async-subagent-isolation",
+    "stars": 4,
+    "updated_at": "2026-09-14T12:48:52Z",
+    "url": "https://github.com/Wolido/async-subagent-isolation"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-09-14T12:46:15Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "AI smart home assistant for Home Assistant: LangGraph agent + MCP tools + RAG knowledge graph + vision perception",
+    "id": "tk-fantasy/fantasy",
+    "language": "Python",
+    "name": "tk-fantasy/fantasy",
+    "stars": 16,
+    "updated_at": "2026-09-14T12:46:17Z",
+    "url": "https://github.com/tk-fantasy/fantasy"
   },
   {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
@@ -49,18 +103,9 @@
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 274,
+    "stars": 275,
     "updated_at": "2026-09-14T12:34:08Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "A persistent agent runtime and its official CLI. Three packages: @echo-agent/core (runtime/SDK, zero runtime dependencie",
-    "id": "echo-yiyi/echo-agent",
-    "language": "TypeScript",
-    "name": "echo-yiyi/echo-agent",
-    "stars": 2,
-    "updated_at": "2026-09-14T12:34:00Z",
-    "url": "https://github.com/echo-yiyi/echo-agent"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -81,6 +126,15 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3327,
+    "updated_at": "2026-09-14T12:33:22Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
     "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
     "id": "BlockRunAI/Franklin",
     "language": "TypeScript",
@@ -95,7 +149,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-14T12:44:05Z",
+    "updated_at": "2026-09-14T12:57:01Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -130,7 +184,7 @@
     "id": "feder-cr/AIHawk",
     "language": "Python",
     "name": "feder-cr/AIHawk",
-    "stars": 31547,
+    "stars": 31549,
     "updated_at": "2026-09-14T12:12:22Z",
     "url": "https://github.com/feder-cr/AIHawk"
   },
@@ -158,7 +212,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 807,
-    "updated_at": "2026-09-14T12:38:13Z",
+    "updated_at": "2026-09-14T12:55:47Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -180,15 +234,6 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3325,
-    "updated_at": "2026-09-14T12:33:22Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
     "description": "Multi-turn retrieval agent post-training with Qwen3-4B, BM25 SearchTool, QLoRA SFT, and paired behavior evaluation on Ho",
     "id": "LZH-1-G/SearchAgent-R1",
     "language": "Python",
@@ -203,7 +248,7 @@
     "language": "TypeScript",
     "name": "MingyiSecLab/Atlas",
     "stars": 2,
-    "updated_at": "2026-09-14T12:42:52Z",
+    "updated_at": "2026-09-14T12:58:11Z",
     "url": "https://github.com/MingyiSecLab/Atlas"
   },
   {
@@ -243,15 +288,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5758,
-    "updated_at": "2026-09-14T11:33:15Z",
-    "url": "https://github.com/areal-project/AReaL"
-  },
-  {
     "description": "An LLM job-matching agent with a from-scratch tool loop \u2014 and an evaluation that scores its own retriever and its own at",
     "id": "P0w3r223/apply-scout",
     "language": "Python",
@@ -283,7 +319,7 @@
     "id": "atria-asi/Atria-Dawn-Preview",
     "language": "\u2014",
     "name": "atria-asi/Atria-Dawn-Preview",
-    "stars": 12,
+    "stars": 23,
     "updated_at": "2026-09-14T11:18:20Z",
     "url": "https://github.com/atria-asi/Atria-Dawn-Preview"
   },
@@ -387,15 +423,6 @@
     "url": "https://github.com/AVADSA25/codec"
   },
   {
-    "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
-    "id": "chunleik/self-analyst",
-    "language": "Java",
-    "name": "chunleik/self-analyst",
-    "stars": 0,
-    "updated_at": "2026-09-14T12:35:45Z",
-    "url": "https://github.com/chunleik/self-analyst"
-  },
-  {
     "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
     "id": "PCODE-pl/MCPTap",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-14T09:36:39Z",
     "url": "https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder"
-  },
-  {
-    "description": "Verify area values quickly with this web-based HTML calculator tool.",
-    "id": "passive-hotpepper515/area-checker-html-tool",
-    "language": "HTML",
-    "name": "passive-hotpepper515/area-checker-html-tool",
-    "stars": 0,
-    "updated_at": "2026-09-14T09:36:18Z",
-    "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
-  },
-  {
-    "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
-    "id": "Blondieredistributed612/pocket-agent",
-    "language": "Python",
-    "name": "Blondieredistributed612/pocket-agent",
-    "stars": 2,
-    "updated_at": "2026-09-14T09:35:00Z",
-    "url": "https://github.com/Blondieredistributed612/pocket-agent"
-  },
-  {
-    "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
-    "id": "bettersilvanus849/inner-coordinates",
-    "language": "Shell",
-    "name": "bettersilvanus849/inner-coordinates",
-    "stars": 1,
-    "updated_at": "2026-09-14T09:31:43Z",
-    "url": "https://github.com/bettersilvanus849/inner-coordinates"
   }
 ]
