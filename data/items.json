@@ -1,12 +1,12 @@
 [
   {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
+    "description": "Application Security orchestration platform",
+    "id": "grauwolf32/contractor",
+    "language": "Go",
+    "name": "grauwolf32/contractor",
     "stars": 1,
-    "updated_at": "2026-09-14T21:58:53Z",
-    "url": "https://github.com/citizenhicks/mobius"
+    "updated_at": "2026-09-14T22:09:37Z",
+    "url": "https://github.com/grauwolf32/contractor"
   },
   {
     "description": "GPT autonomous research and investigation using starintel",
@@ -14,8 +14,26 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-09-14T21:58:32Z",
+    "updated_at": "2026-09-14T22:08:20Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "A multi-agent OS for your phone: Claude Code and the Codex CLI running natively on Android in their own Debian userland ",
+    "id": "Jogi-OpenSource/JogiJarvis-Mobile",
+    "language": "Kotlin",
+    "name": "Jogi-OpenSource/JogiJarvis-Mobile",
+    "stars": 1,
+    "updated_at": "2026-09-14T22:05:03Z",
+    "url": "https://github.com/Jogi-OpenSource/JogiJarvis-Mobile"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-09-14T22:12:40Z",
+    "url": "https://github.com/citizenhicks/mobius"
   },
   {
     "description": "One-Stop Personal Health AI Agent \"Say Hi to Healthy Me\"",
@@ -45,15 +63,6 @@
     "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
-    "description": "A multi-agent OS for your phone: Claude Code and the Codex CLI running natively on Android in their own Debian userland ",
-    "id": "Jogi-OpenSource/JogiJarvis-Mobile",
-    "language": "Kotlin",
-    "name": "Jogi-OpenSource/JogiJarvis-Mobile",
-    "stars": 1,
-    "updated_at": "2026-09-14T21:51:27Z",
-    "url": "https://github.com/Jogi-OpenSource/JogiJarvis-Mobile"
-  },
-  {
     "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
     "id": "ljedrz/nachalnik",
     "language": "Rust",
@@ -61,15 +70,6 @@
     "stars": 4,
     "updated_at": "2026-09-14T21:48:19Z",
     "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
-    "description": "Application Security orchestration platform",
-    "id": "grauwolf32/contractor",
-    "language": "Go",
-    "name": "grauwolf32/contractor",
-    "stars": 1,
-    "updated_at": "2026-09-14T21:48:11Z",
-    "url": "https://github.com/grauwolf32/contractor"
   },
   {
     "description": "A marketing analyst agent: business question in, analyst-grade SQL, deterministic attribution, and a cited interpretatio",
@@ -247,7 +247,7 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 3344,
+    "stars": 3345,
     "updated_at": "2026-09-14T20:04:48Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },

@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-14 22:00 UTC
+> ⏰ Last updated: 2026-09-14 22:13 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [citizenhicks/mobius](https://github.com/citizenhicks/mobius) | 1 | Rust | 2026-09-14 | möbius is a small, frontend-neutral Rust framework for coding agents.  |
+| 1 | [grauwolf32/contractor](https://github.com/grauwolf32/contractor) | 1 | Go | 2026-09-14 | Application Security orchestration platform |
 | 2 | [lost-rob0t/starintel-gpt-auto-dig](https://github.com/lost-rob0t/starintel-gpt-auto-dig) | 1 | Python | 2026-09-14 | GPT autonomous research and investigation using starintel |
-| 3 | [thinkwee/HiMe](https://github.com/thinkwee/HiMe) | 63 | Python | 2026-09-14 | One-Stop Personal Health AI Agent "Say Hi to Healthy Me" |
-| 4 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-09-14 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 5 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 5 | Swift | 2026-09-14 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
-| 6 | [Jogi-OpenSource/JogiJarvis-Mobile](https://github.com/Jogi-OpenSource/JogiJarvis-Mobile) | 1 | Kotlin | 2026-09-14 | A multi-agent OS for your phone: Claude Code and the Codex CLI running natively on Android in their own Debian userland  |
-| 7 | [ljedrz/nachalnik](https://github.com/ljedrz/nachalnik) | 4 | Rust | 2026-09-14 | A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and  |
-| 8 | [grauwolf32/contractor](https://github.com/grauwolf32/contractor) | 1 | Go | 2026-09-14 | Application Security orchestration platform |
+| 3 | [Jogi-OpenSource/JogiJarvis-Mobile](https://github.com/Jogi-OpenSource/JogiJarvis-Mobile) | 1 | Kotlin | 2026-09-14 | A multi-agent OS for your phone: Claude Code and the Codex CLI running natively on Android in their own Debian userland  |
+| 4 | [citizenhicks/mobius](https://github.com/citizenhicks/mobius) | 1 | Rust | 2026-09-14 | möbius is a small, frontend-neutral Rust framework for coding agents.  |
+| 5 | [thinkwee/HiMe](https://github.com/thinkwee/HiMe) | 63 | Python | 2026-09-14 | One-Stop Personal Health AI Agent "Say Hi to Healthy Me" |
+| 6 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-09-14 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 7 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 5 | Swift | 2026-09-14 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
+| 8 | [ljedrz/nachalnik](https://github.com/ljedrz/nachalnik) | 4 | Rust | 2026-09-14 | A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and  |
 | 9 | [Lekh007/touchline](https://github.com/Lekh007/touchline) | 0 | Python | 2026-09-14 | A marketing analyst agent: business question in, analyst-grade SQL, deterministic attribution, and a cited interpretatio |
 | 10 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 130 | HTML | 2026-09-14 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
 | 11 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-09-14 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
@@ -69,7 +69,7 @@ expired items removed — so you can rely on what you see being current.
 | 25 | [sunnnn2005/data-quality-agent](https://github.com/sunnnn2005/data-quality-agent) | 0 | Python | 2026-09-14 | LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and  |
 | 26 | [the-priest/PriestsBasilisk](https://github.com/the-priest/PriestsBasilisk) | 3 | Python | 2026-09-14 | Open-source autonomous AI pentester that proves every exploit — 87/113 on OWASP Juice Shop, black-box, on a budget model |
 | 27 | [charlesericwilson-portfolio/Echo_Project_Overview](https://github.com/charlesericwilson-portfolio/Echo_Project_Overview) | 0 | Python | 2026-09-14 | Overall description of multiple linked iterations of LLM agent frameworks. |
-| 28 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 3344 | Python | 2026-09-14 | SRE Agent - CNCF Sandbox Project |
+| 28 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 3345 | Python | 2026-09-14 | SRE Agent - CNCF Sandbox Project |
 | 29 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 7241 | Python | 2026-09-14 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
 | 30 | [ljchang/mecha](https://github.com/ljchang/mecha) | 8 | Rust | 2026-09-14 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
 | 31 | [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) | 31573 | Python | 2026-09-14 | Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and compu |
