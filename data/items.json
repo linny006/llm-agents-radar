@@ -1,5 +1,14 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-14T22:13:06Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "Application Security orchestration platform",
     "id": "grauwolf32/contractor",
     "language": "Go",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-09-14T22:08:20Z",
+    "updated_at": "2026-09-14T22:13:12Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -311,7 +320,7 @@
     "language": "Python",
     "name": "wan9yu/cli-agent-runner",
     "stars": 4,
-    "updated_at": "2026-09-14T19:29:26Z",
+    "updated_at": "2026-09-14T22:15:02Z",
     "url": "https://github.com/wan9yu/cli-agent-runner"
   },
   {
@@ -430,15 +439,6 @@
     "stars": 0,
     "updated_at": "2026-09-14T18:56:21Z",
     "url": "https://github.com/leonardomb1/perguntai"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-09-14T18:54:11Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
