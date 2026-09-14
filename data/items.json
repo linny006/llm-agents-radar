@@ -1,10 +1,82 @@
 [
   {
+    "description": "Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and compu",
+    "id": "feder-cr/AIHawk",
+    "language": "Python",
+    "name": "feder-cr/AIHawk",
+    "stars": 30776,
+    "updated_at": "2026-09-14T02:44:41Z",
+    "url": "https://github.com/feder-cr/AIHawk"
+  },
+  {
+    "description": "Open-source crypto paper-trading desk: backtest farm, walk-forward optimizer, 110 exchanges, built-in strategy agent. La",
+    "id": "shoemoney/shoemoneyx",
+    "language": "PHP",
+    "name": "shoemoney/shoemoneyx",
+    "stars": 0,
+    "updated_at": "2026-09-14T02:42:54Z",
+    "url": "https://github.com/shoemoney/shoemoneyx"
+  },
+  {
+    "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
+    "id": "wq19901103wq/wechat-mac-rpa",
+    "language": "Python",
+    "name": "wq19901103wq/wechat-mac-rpa",
+    "stars": 100,
+    "updated_at": "2026-09-14T02:42:22Z",
+    "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 24,
+    "updated_at": "2026-09-14T02:39:48Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-09-14T02:39:35Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-14T02:38:41Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 8,
+    "updated_at": "2026-09-14T02:35:42Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
+    "id": "chunleik/self-analyst",
+    "language": "Java",
+    "name": "chunleik/self-analyst",
+    "stars": 0,
+    "updated_at": "2026-09-14T02:35:08Z",
+    "url": "https://github.com/chunleik/self-analyst"
+  },
+  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 31555,
+    "stars": 31557,
     "updated_at": "2026-09-14T02:28:09Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -27,24 +99,6 @@
     "url": "https://github.com/liiiiiiiiil/agent-from-scratch"
   },
   {
-    "description": "Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and compu",
-    "id": "feder-cr/AIHawk",
-    "language": "Python",
-    "name": "feder-cr/AIHawk",
-    "stars": 30774,
-    "updated_at": "2026-09-14T02:27:56Z",
-    "url": "https://github.com/feder-cr/AIHawk"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-14T02:28:49Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "A macOS desktop pet that is also an AI agent \u2014 it walks your screen, and reaches the Mac through its own approval gate.",
     "id": "desFernan/puck-mac",
     "language": "Swift",
@@ -59,7 +113,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-09-14T02:24:41Z",
+    "updated_at": "2026-09-14T02:42:17Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -68,7 +122,7 @@
     "language": "Python",
     "name": "jack-h-park/pm-intelligence-engine",
     "stars": 0,
-    "updated_at": "2026-09-14T02:20:39Z",
+    "updated_at": "2026-09-14T02:31:43Z",
     "url": "https://github.com/jack-h-park/pm-intelligence-engine"
   },
   {
@@ -88,24 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-14T02:11:25Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-09-14T02:12:12Z",
-    "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-14T01:57:40Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Drop-in OpenAI/Anthropic proxy that cuts long-horizon agent prompt tokens 60-95% via SKILL.state (arXiv:2608.26263). MIT",
@@ -306,15 +342,6 @@
     "url": "https://github.com/mohahasan/ios-agentic-skills"
   },
   {
-    "description": "Open-source crypto paper-trading desk: backtest farm, walk-forward optimizer, 110 exchanges, built-in strategy agent. La",
-    "id": "shoemoney/shoemoneyx",
-    "language": "PHP",
-    "name": "shoemoney/shoemoneyx",
-    "stars": 0,
-    "updated_at": "2026-09-14T01:14:31Z",
-    "url": "https://github.com/shoemoney/shoemoneyx"
-  },
-  {
     "description": "An open-source research agent system for your Zotero library.",
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 126,
     "updated_at": "2026-09-14T00:51:54Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 130,
-    "updated_at": "2026-09-14T00:43:21Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 1236,
-    "updated_at": "2026-09-14T00:37:40Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-09-14T00:36:03Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   }
 ]
