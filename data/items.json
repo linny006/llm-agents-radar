@@ -1,5 +1,59 @@
 [
   {
+    "description": "A delivery-discipline behavior layer for AI agents \u2014 turns \u201cthe agent says it's done\u201d into \u201cthe agent proves it's done\u201d:",
+    "id": "JadeYingWah/gpt-series-reasoning-style",
+    "language": "HTML",
+    "name": "JadeYingWah/gpt-series-reasoning-style",
+    "stars": 4,
+    "updated_at": "2026-09-14T03:58:18Z",
+    "url": "https://github.com/JadeYingWah/gpt-series-reasoning-style"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5948,
+    "updated_at": "2026-09-14T03:57:09Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 509,
+    "updated_at": "2026-09-14T03:56:42Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "Drop-in OpenAI/Anthropic proxy that cuts long-horizon agent prompt tokens 60-95% via SKILL.state (arXiv:2608.26263). MIT",
+    "id": "NosytLabs/skillstate-proxy",
+    "language": "TypeScript",
+    "name": "NosytLabs/skillstate-proxy",
+    "stars": 2,
+    "updated_at": "2026-09-14T03:55:49Z",
+    "url": "https://github.com/NosytLabs/skillstate-proxy"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-09-14T03:46:43Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
+    "id": "brittewestafrican981/ComfyUI-YinChao",
+    "language": "Python",
+    "name": "brittewestafrican981/ComfyUI-YinChao",
+    "stars": 0,
+    "updated_at": "2026-09-14T03:46:14Z",
+    "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
+  },
+  {
     "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
     "id": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
     "language": "Python",
@@ -45,15 +99,6 @@
     "url": "https://github.com/lsdefine/GenericAgent"
   },
   {
-    "description": "A delivery-discipline behavior layer for AI agents \u2014 turns \u201cthe agent says it's done\u201d into \u201cthe agent proves it's done\u201d:",
-    "id": "JadeYingWah/gpt-series-reasoning-style",
-    "language": "HTML",
-    "name": "JadeYingWah/gpt-series-reasoning-style",
-    "stars": 4,
-    "updated_at": "2026-09-14T03:41:07Z",
-    "url": "https://github.com/JadeYingWah/gpt-series-reasoning-style"
-  },
-  {
     "description": "Domain-separated controlled self-boot agent architecture \u2014 an enterprise AI agent runtime where AI self-produces tools &",
     "id": "CanWeakerWriteStrongCode/DolphinMind",
     "language": "\u2014",
@@ -88,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-14T03:38:22Z",
     "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "Drop-in OpenAI/Anthropic proxy that cuts long-horizon agent prompt tokens 60-95% via SKILL.state (arXiv:2608.26263). MIT",
-    "id": "NosytLabs/skillstate-proxy",
-    "language": "TypeScript",
-    "name": "NosytLabs/skillstate-proxy",
-    "stars": 2,
-    "updated_at": "2026-09-14T03:37:34Z",
-    "url": "https://github.com/NosytLabs/skillstate-proxy"
   },
   {
     "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
@@ -139,7 +175,7 @@
     "id": "FRS2003/hands-on-llm",
     "language": "Python",
     "name": "FRS2003/hands-on-llm",
-    "stars": 23,
+    "stars": 25,
     "updated_at": "2026-09-14T03:33:34Z",
     "url": "https://github.com/FRS2003/hands-on-llm"
   },
@@ -166,7 +202,7 @@
     "id": "areal-project/AReaL",
     "language": "Python",
     "name": "areal-project/AReaL",
-    "stars": 5753,
+    "stars": 5754,
     "updated_at": "2026-09-14T03:31:50Z",
     "url": "https://github.com/areal-project/AReaL"
   },
@@ -211,7 +247,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 31568,
+    "stars": 31570,
     "updated_at": "2026-09-14T03:27:21Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -232,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-09-14T03:24:59Z",
     "url": "https://github.com/Lifree0925/sqlmesh-agent"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-09-14T03:29:14Z",
-    "url": "https://github.com/b-macker/NAAb"
   },
   {
     "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
@@ -293,7 +320,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-14T03:15:20Z",
+    "updated_at": "2026-09-14T03:45:27Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -418,35 +445,8 @@
     "id": "feder-cr/AIHawk",
     "language": "Python",
     "name": "feder-cr/AIHawk",
-    "stars": 30794,
+    "stars": 30799,
     "updated_at": "2026-09-14T02:51:04Z",
     "url": "https://github.com/feder-cr/AIHawk"
-  },
-  {
-    "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
-    "id": "wq19901103wq/wechat-mac-rpa",
-    "language": "Python",
-    "name": "wq19901103wq/wechat-mac-rpa",
-    "stars": 100,
-    "updated_at": "2026-09-14T02:42:22Z",
-    "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 8,
-    "updated_at": "2026-09-14T02:35:42Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
-    "id": "chunleik/self-analyst",
-    "language": "Java",
-    "name": "chunleik/self-analyst",
-    "stars": 0,
-    "updated_at": "2026-09-14T02:48:37Z",
-    "url": "https://github.com/chunleik/self-analyst"
   }
 ]
