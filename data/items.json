@@ -1,12 +1,57 @@
 [
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7241,
+    "updated_at": "2026-09-14T20:00:11Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "openPASO \u2014 open Platform for Agentic Simulation and Optimization. An AI agent that operates nine finite-element and mult",
+    "id": "alhermann/openPASO",
+    "language": "Python",
+    "name": "alhermann/openPASO",
+    "stars": 10,
+    "updated_at": "2026-09-14T19:58:58Z",
+    "url": "https://github.com/alhermann/openPASO"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 8,
+    "updated_at": "2026-09-14T19:57:12Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
+    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "language": "JavaScript",
+    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "stars": 1,
+    "updated_at": "2026-09-14T19:56:18Z",
+    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
+  },
+  {
     "description": "GPT autonomous research and investigation using starintel",
     "id": "lost-rob0t/starintel-gpt-auto-dig",
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-09-14T19:43:42Z",
+    "updated_at": "2026-09-14T20:00:18Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and compu",
+    "id": "feder-cr/AIHawk",
+    "language": "Python",
+    "name": "feder-cr/AIHawk",
+    "stars": 31573,
+    "updated_at": "2026-09-14T19:50:18Z",
+    "url": "https://github.com/feder-cr/AIHawk"
   },
   {
     "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
@@ -27,15 +72,6 @@
     "url": "https://github.com/charlesericwilson-portfolio/Echo_Project_Overview"
   },
   {
-    "description": "Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and compu",
-    "id": "feder-cr/AIHawk",
-    "language": "Python",
-    "name": "feder-cr/AIHawk",
-    "stars": 31573,
-    "updated_at": "2026-09-14T19:34:56Z",
-    "url": "https://github.com/feder-cr/AIHawk"
-  },
-  {
     "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
     "id": "aviskaar/zorp",
     "language": "Rust",
@@ -43,15 +79,6 @@
     "stars": 3,
     "updated_at": "2026-09-14T19:32:50Z",
     "url": "https://github.com/aviskaar/zorp"
-  },
-  {
-    "description": "openPASO \u2014 open Platform for Agentic Simulation and Optimization. An AI agent that operates nine finite-element and mult",
-    "id": "alhermann/openPASO",
-    "language": "Python",
-    "name": "alhermann/openPASO",
-    "stars": 10,
-    "updated_at": "2026-09-14T19:31:41Z",
-    "url": "https://github.com/alhermann/openPASO"
   },
   {
     "description": "A fence for an autonomous agent that handles real money: append-only ledger, kill switch, spend envelope, and a revenue ",
@@ -266,7 +293,7 @@
     "language": "Dart",
     "name": "justacalico/devinorium",
     "stars": 1,
-    "updated_at": "2026-09-14T18:59:47Z",
+    "updated_at": "2026-09-14T19:54:41Z",
     "url": "https://github.com/justacalico/devinorium"
   },
   {
@@ -311,7 +338,7 @@
     "language": "Go",
     "name": "mnemon-dev/mnemon",
     "stars": 574,
-    "updated_at": "2026-09-14T19:40:55Z",
+    "updated_at": "2026-09-14T19:54:52Z",
     "url": "https://github.com/mnemon-dev/mnemon"
   },
   {
@@ -319,18 +346,9 @@
     "id": "atria-asi/Atria-Dawn-Preview",
     "language": "\u2014",
     "name": "atria-asi/Atria-Dawn-Preview",
-    "stars": 75,
+    "stars": 76,
     "updated_at": "2026-09-14T18:20:29Z",
     "url": "https://github.com/atria-asi/Atria-Dawn-Preview"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7241,
-    "updated_at": "2026-09-14T19:33:48Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -373,7 +391,7 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 3341,
+    "stars": 3342,
     "updated_at": "2026-09-14T17:55:14Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
@@ -410,7 +428,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 28,
-    "updated_at": "2026-09-14T17:39:58Z",
+    "updated_at": "2026-09-14T19:59:32Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 13,
     "updated_at": "2026-09-14T18:28:53Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Desktop GUI Headless Local-first AI coding agent in Rust (axum, tokio, rmcp, portable-pty) behind HTTP + SSE, with an An",
-    "id": "henrykbrzoska/bebok",
-    "language": "TypeScript",
-    "name": "henrykbrzoska/bebok",
-    "stars": 5,
-    "updated_at": "2026-09-14T19:30:53Z",
-    "url": "https://github.com/henrykbrzoska/bebok"
-  },
-  {
-    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 35,
-    "updated_at": "2026-09-14T17:28:45Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
   }
 ]
