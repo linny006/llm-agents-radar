@@ -1,12 +1,12 @@
 [
   {
-    "description": "",
-    "id": "atria-asi/Atria-Dawn-Preview",
-    "language": "\u2014",
-    "name": "atria-asi/Atria-Dawn-Preview",
-    "stars": 1,
-    "updated_at": "2026-09-14T11:15:09Z",
-    "url": "https://github.com/atria-asi/Atria-Dawn-Preview"
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-09-14T11:29:38Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -14,8 +14,62 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-14T11:14:32Z",
+    "updated_at": "2026-09-14T11:27:48Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-09-14T11:26:42Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-14T11:25:23Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5758,
+    "updated_at": "2026-09-14T11:21:33Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
+    "description": "Autonomous on-chain AI audit agent for Mantle with ERC-8004 identity. Mantle Turing Test hackathon.",
+    "id": "RECTOR-LABS/conatus",
+    "language": "Solidity",
+    "name": "RECTOR-LABS/conatus",
+    "stars": 1,
+    "updated_at": "2026-09-14T11:21:19Z",
+    "url": "https://github.com/RECTOR-LABS/conatus"
+  },
+  {
+    "description": "",
+    "id": "atria-asi/Atria-Dawn-Preview",
+    "language": "\u2014",
+    "name": "atria-asi/Atria-Dawn-Preview",
+    "stars": 2,
+    "updated_at": "2026-09-14T11:18:20Z",
+    "url": "https://github.com/atria-asi/Atria-Dawn-Preview"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4413,
+    "updated_at": "2026-09-14T11:20:10Z",
+    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Previously on you. A self-evolving AI agent that remembers by when, not by chat thread \u2014 it learns who you are, out in t",
@@ -34,15 +88,6 @@
     "stars": 4,
     "updated_at": "2026-09-14T11:08:44Z",
     "url": "https://github.com/henrykbrzoska/bebok"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5758,
-    "updated_at": "2026-09-14T11:15:00Z",
-    "url": "https://github.com/areal-project/AReaL"
   },
   {
     "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
@@ -68,7 +113,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-09-14T10:55:07Z",
+    "updated_at": "2026-09-14T11:23:55Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -76,18 +121,9 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 3321,
-    "updated_at": "2026-09-14T10:49:23Z",
+    "stars": 3322,
+    "updated_at": "2026-09-14T11:26:34Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-14T10:48:15Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "An LLM job-matching agent with a from-scratch tool loop \u2014 and an evaluation that scores its own retriever and its own at",
@@ -95,7 +131,7 @@
     "language": "Python",
     "name": "P0w3r223/apply-scout",
     "stars": 1,
-    "updated_at": "2026-09-14T10:47:45Z",
+    "updated_at": "2026-09-14T11:30:08Z",
     "url": "https://github.com/P0w3r223/apply-scout"
   },
   {
@@ -133,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-09-14T10:29:49Z",
     "url": "https://github.com/heider-x/sirius"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-09-14T10:24:17Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "A persistent agent runtime and its official CLI. Three packages: @echo-agent/core (runtime/SDK, zero runtime dependencie",
@@ -387,15 +414,6 @@
     "url": "https://github.com/lukky262/ARE"
   },
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4413,
-    "updated_at": "2026-09-14T09:51:39Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
     "description": "",
     "id": "hichamnes-prog/exforum-auto-poster",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-14T09:10:08Z",
     "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
-  },
-  {
-    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
-    "id": "amineeng/scraping-browser",
-    "language": "\u2014",
-    "name": "amineeng/scraping-browser",
-    "stars": 1,
-    "updated_at": "2026-09-14T09:08:39Z",
-    "url": "https://github.com/amineeng/scraping-browser"
-  },
-  {
-    "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
-    "id": "EvoMap/awesome-agent-evolution",
-    "language": "JavaScript",
-    "name": "EvoMap/awesome-agent-evolution",
-    "stars": 221,
-    "updated_at": "2026-09-14T09:07:01Z",
-    "url": "https://github.com/EvoMap/awesome-agent-evolution"
   }
 ]
