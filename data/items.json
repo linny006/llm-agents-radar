@@ -1,5 +1,59 @@
 [
   {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-09-14T22:24:35Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 126,
+    "updated_at": "2026-09-14T22:23:14Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 1,
+    "updated_at": "2026-09-14T22:26:00Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 3,
+    "updated_at": "2026-09-14T22:22:38Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 3,
+    "updated_at": "2026-09-14T22:22:07Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-09-14T22:19:12Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -16,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-09-14T22:09:37Z",
     "url": "https://github.com/grauwolf32/contractor"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 1,
-    "updated_at": "2026-09-14T22:13:12Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
     "description": "A multi-agent OS for your phone: Claude Code and the Codex CLI running natively on Android in their own Debian userland ",
@@ -135,15 +180,6 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-09-14T21:04:56Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
     "description": "openPASO \u2014 open Platform for Agentic Simulation and Optimization. An AI agent that operates nine finite-element and mult",
     "id": "alhermann/openPASO",
     "language": "Python",
@@ -153,15 +189,6 @@
     "url": "https://github.com/alhermann/openPASO"
   },
   {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 3,
-    "updated_at": "2026-09-14T21:02:03Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
     "description": "Control AI agents anywhere. (github mirror)",
     "id": "justacalico/devinorium",
     "language": "Dart",
@@ -169,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-09-14T21:17:46Z",
     "url": "https://github.com/justacalico/devinorium"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-09-14T20:58:55Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
   },
   {
     "description": "Async Python bot that scrapes YouTube trends, analyzes viral strategies with Gemini LLM, and dispatches HTML reports to ",
@@ -256,7 +274,7 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 3345,
+    "stars": 3346,
     "updated_at": "2026-09-14T20:04:48Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-14T19:03:45Z",
     "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
-  },
-  {
-    "description": "Talk to your organization's data \u2014 agentic analytics assistant over StarRocks, with Claude via Azure AI Foundry and an O",
-    "id": "leonardomb1/perguntai",
-    "language": "TypeScript",
-    "name": "leonardomb1/perguntai",
-    "stars": 0,
-    "updated_at": "2026-09-14T18:56:21Z",
-    "url": "https://github.com/leonardomb1/perguntai"
-  },
-  {
-    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
-    "id": "Sigmanih/SigmaStudio",
-    "language": "Python",
-    "name": "Sigmanih/SigmaStudio",
-    "stars": 7,
-    "updated_at": "2026-09-14T18:48:22Z",
-    "url": "https://github.com/Sigmanih/SigmaStudio"
   }
 ]
