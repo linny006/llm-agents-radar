@@ -1,12 +1,39 @@
 [
   {
+    "description": "A multi-agent OS for your phone: Claude Code and the Codex CLI running natively on Android in their own Debian userland ",
+    "id": "Jogi-OpenSource/JogiJarvis-Mobile",
+    "language": "Kotlin",
+    "name": "Jogi-OpenSource/JogiJarvis-Mobile",
+    "stars": 1,
+    "updated_at": "2026-09-14T18:43:49Z",
+    "url": "https://github.com/Jogi-OpenSource/JogiJarvis-Mobile"
+  },
+  {
+    "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
+    "id": "khudayarovich/onflip-agent",
+    "language": "TypeScript",
+    "name": "khudayarovich/onflip-agent",
+    "stars": 3,
+    "updated_at": "2026-09-14T18:43:44Z",
+    "url": "https://github.com/khudayarovich/onflip-agent"
+  },
+  {
     "description": "Control AI agents anywhere. (github mirror)",
     "id": "justacalico/devinorium",
     "language": "Dart",
     "name": "justacalico/devinorium",
     "stars": 1,
-    "updated_at": "2026-09-14T18:29:50Z",
+    "updated_at": "2026-09-14T18:41:21Z",
     "url": "https://github.com/justacalico/devinorium"
+  },
+  {
+    "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
+    "id": "emqnuele/projectBEA",
+    "language": "Python",
+    "name": "emqnuele/projectBEA",
+    "stars": 15,
+    "updated_at": "2026-09-14T18:34:59Z",
+    "url": "https://github.com/emqnuele/projectBEA"
   },
   {
     "description": "Local-first long-term memory and safer context compression for Hermes Agent \u2014 SQLite, no required services.",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "indigokarasu/chronicle-agent-context-and-memory",
     "stars": 6,
-    "updated_at": "2026-09-14T18:29:19Z",
+    "updated_at": "2026-09-14T18:37:37Z",
     "url": "https://github.com/indigokarasu/chronicle-agent-context-and-memory"
   },
   {
@@ -25,15 +52,6 @@
     "stars": 126,
     "updated_at": "2026-09-14T18:29:13Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
-    "id": "khudayarovich/onflip-agent",
-    "language": "TypeScript",
-    "name": "khudayarovich/onflip-agent",
-    "stars": 3,
-    "updated_at": "2026-09-14T18:28:53Z",
-    "url": "https://github.com/khudayarovich/onflip-agent"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -70,15 +88,6 @@
     "stars": 67,
     "updated_at": "2026-09-14T18:20:29Z",
     "url": "https://github.com/atria-asi/Atria-Dawn-Preview"
-  },
-  {
-    "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
-    "id": "emqnuele/projectBEA",
-    "language": "Python",
-    "name": "emqnuele/projectBEA",
-    "stars": 15,
-    "updated_at": "2026-09-14T18:16:45Z",
-    "url": "https://github.com/emqnuele/projectBEA"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -157,7 +166,7 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 3338,
+    "stars": 3339,
     "updated_at": "2026-09-14T17:55:14Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
@@ -230,7 +239,7 @@
     "language": "TypeScript",
     "name": "henrykbrzoska/bebok",
     "stars": 5,
-    "updated_at": "2026-09-14T18:27:01Z",
+    "updated_at": "2026-09-14T18:39:14Z",
     "url": "https://github.com/henrykbrzoska/bebok"
   },
   {
@@ -259,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-09-14T17:25:57Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "A multi-agent OS for your phone: Claude Code and the Codex CLI running natively on Android in their own Debian userland ",
-    "id": "Jogi-OpenSource/JogiJarvis-Mobile",
-    "language": "Kotlin",
-    "name": "Jogi-OpenSource/JogiJarvis-Mobile",
-    "stars": 1,
-    "updated_at": "2026-09-14T17:25:22Z",
-    "url": "https://github.com/Jogi-OpenSource/JogiJarvis-Mobile"
   },
   {
     "description": "\u836f\u7528\u690d\u7269\u6b21\u751f\u4ee3\u8c22\u79d1\u7814\u63a8\u7406 LLM Agent:\u591a\u7ec4\u5b66\u5206\u6790\u6d41\u6c34\u7ebf + LLM \u8bc1\u636e\u63a8\u7406,\u786e\u5b9a\u6027\u8ba1\u7b97\u4e0e LLM \u63a8\u7406\u5206\u5c42",
