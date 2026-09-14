@@ -1,11 +1,29 @@
 [
   {
+    "description": "AI-powered multi-mailbox monitoring agent (Gmail, QQ, Edu) with WeChat instant notifications & arXiv/Scholar paper readi",
+    "id": "Bowen-0x00/mail-assist",
+    "language": "Python",
+    "name": "Bowen-0x00/mail-assist",
+    "stars": 0,
+    "updated_at": "2026-09-14T14:26:24Z",
+    "url": "https://github.com/Bowen-0x00/mail-assist"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-14T14:20:23Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
     "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
     "id": "bigfish1913/pi-rust",
     "language": "Rust",
     "name": "bigfish1913/pi-rust",
     "stars": 9,
-    "updated_at": "2026-09-14T14:13:35Z",
+    "updated_at": "2026-09-14T14:25:43Z",
     "url": "https://github.com/bigfish1913/pi-rust"
   },
   {
@@ -50,7 +68,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 807,
-    "updated_at": "2026-09-14T14:05:23Z",
+    "updated_at": "2026-09-14T14:24:52Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -79,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-14T13:47:51Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-14T13:45:54Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "\u6211\u53ea\u60f3\u518d\u548cTA\u804a\u804a\u5929\uff0c\u5728\u8fc7\u53bb\uff0c\u5728\u672a\u6765\uff0c\u5728\u4e0d\u5b58\u5728\u7684if\u7ebf",
@@ -274,7 +283,7 @@
     "id": "feder-cr/AIHawk",
     "language": "Python",
     "name": "feder-cr/AIHawk",
-    "stars": 31564,
+    "stars": 31565,
     "updated_at": "2026-09-14T13:25:00Z",
     "url": "https://github.com/feder-cr/AIHawk"
   },
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-14T13:04:40Z",
     "url": "https://github.com/wufufu770/d2d"
-  },
-  {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 3,
-    "updated_at": "2026-09-14T13:04:24Z",
-    "url": "https://github.com/sydches/yuj"
   }
 ]
