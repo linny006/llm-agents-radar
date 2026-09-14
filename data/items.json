@@ -1,12 +1,30 @@
 [
   {
-    "description": "AI-powered multi-mailbox monitoring agent (Gmail, QQ, Edu) with WeChat instant notifications & arXiv/Scholar paper readi",
-    "id": "Bowen-0x00/mail-assist",
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
-    "name": "Bowen-0x00/mail-assist",
+    "name": "aiterrariumcontrol/terrarium-life",
     "stars": 0,
-    "updated_at": "2026-09-14T14:26:24Z",
-    "url": "https://github.com/Bowen-0x00/mail-assist"
+    "updated_at": "2026-09-14T14:44:36Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "AI agent\u7092\u80a1\u8350\u80a1\u76ef\u76d8+open claw\u5fae\u4fe1\u5b9e\u65f6\u63a8\u9001\u64ad\u62a5\u5de5\u4f5c\u6d41",
+    "id": "Heliotrope-dev/finance-agent",
+    "language": "Python",
+    "name": "Heliotrope-dev/finance-agent",
+    "stars": 2,
+    "updated_at": "2026-09-14T14:44:08Z",
+    "url": "https://github.com/Heliotrope-dev/finance-agent"
+  },
+  {
+    "description": "Automatically Update LLM-Agent Papers Daily using Github Actions (Update Every 12th hours)",
+    "id": "Lyz103/LLM-Agent-Paper-daily",
+    "language": "Python",
+    "name": "Lyz103/LLM-Agent-Paper-daily",
+    "stars": 20,
+    "updated_at": "2026-09-14T14:42:10Z",
+    "url": "https://github.com/Lyz103/LLM-Agent-Paper-daily"
   },
   {
     "description": "An autopoiesic kefir for computing machines",
@@ -14,8 +32,35 @@
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 8,
-    "updated_at": "2026-09-14T14:20:23Z",
+    "updated_at": "2026-09-14T14:41:58Z",
     "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 807,
+    "updated_at": "2026-09-14T14:38:31Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
+    "id": "PCODE-pl/MCPTap",
+    "language": "Python",
+    "name": "PCODE-pl/MCPTap",
+    "stars": 1,
+    "updated_at": "2026-09-14T14:32:13Z",
+    "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
+    "description": "AI-powered multi-mailbox monitoring agent (Gmail, QQ, Edu) with WeChat instant notifications & arXiv/Scholar paper readi",
+    "id": "Bowen-0x00/mail-assist",
+    "language": "Python",
+    "name": "Bowen-0x00/mail-assist",
+    "stars": 1,
+    "updated_at": "2026-09-14T14:31:28Z",
+    "url": "https://github.com/Bowen-0x00/mail-assist"
   },
   {
     "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
@@ -61,15 +106,6 @@
     "stars": 51,
     "updated_at": "2026-09-14T14:01:42Z",
     "url": "https://github.com/sky-valley/pi"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 807,
-    "updated_at": "2026-09-14T14:24:52Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "A multi-agent research system for the humanities and social sciences.",
@@ -162,15 +198,6 @@
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-09-14T13:38:34Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "A safety runtime for tool-using LLM Agents",
     "id": "haibaoseal/agent-sentinel",
     "language": "Python",
@@ -185,7 +212,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-09-14T14:13:20Z",
+    "updated_at": "2026-09-14T14:31:35Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -283,8 +310,8 @@
     "id": "feder-cr/AIHawk",
     "language": "Python",
     "name": "feder-cr/AIHawk",
-    "stars": 31565,
-    "updated_at": "2026-09-14T13:25:00Z",
+    "stars": 31567,
+    "updated_at": "2026-09-14T14:44:25Z",
     "url": "https://github.com/feder-cr/AIHawk"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 476,
     "updated_at": "2026-09-14T13:07:09Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
-    "id": "ljedrz/nachalnik",
-    "language": "Rust",
-    "name": "ljedrz/nachalnik",
-    "stars": 4,
-    "updated_at": "2026-09-14T13:05:48Z",
-    "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 277,
-    "updated_at": "2026-09-14T13:05:38Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
-    "id": "wufufu770/d2d",
-    "language": "JavaScript",
-    "name": "wufufu770/d2d",
-    "stars": 2,
-    "updated_at": "2026-09-14T13:04:40Z",
-    "url": "https://github.com/wufufu770/d2d"
   }
 ]
