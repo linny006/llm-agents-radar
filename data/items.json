@@ -1,12 +1,48 @@
 [
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
+    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
+    "id": "wufufu770/d2d",
+    "language": "JavaScript",
+    "name": "wufufu770/d2d",
+    "stars": 2,
+    "updated_at": "2026-09-14T15:59:53Z",
+    "url": "https://github.com/wufufu770/d2d"
+  },
+  {
+    "description": "AI agent\u7092\u80a1\u8350\u80a1\u76ef\u76d8+open claw\u5fae\u4fe1\u5b9e\u65f6\u63a8\u9001\u64ad\u62a5\u5de5\u4f5c\u6d41",
+    "id": "Heliotrope-dev/finance-agent",
     "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-14T15:40:50Z",
-    "url": "https://github.com/tomcounsell/ai"
+    "name": "Heliotrope-dev/finance-agent",
+    "stars": 2,
+    "updated_at": "2026-09-14T15:56:28Z",
+    "url": "https://github.com/Heliotrope-dev/finance-agent"
+  },
+  {
+    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
+    "id": "PCODE-pl/MCPTap",
+    "language": "Python",
+    "name": "PCODE-pl/MCPTap",
+    "stars": 1,
+    "updated_at": "2026-09-14T15:55:33Z",
+    "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
+    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 509,
+    "updated_at": "2026-09-14T15:51:53Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "\u4e2d\u6587\u95ee\u6570\uff08ChatBI\uff09\u667a\u80fd\u4f53\uff1a\u8bed\u4e49\u5c42 + SQL \u667a\u80fd\u4f53\u53cc\u8def\u5f84\uff0csqlglot \u5b89\u5168\u95e8\uff0c\u6d4f\u89c8\u5668\u5185 Python/DuckDB\uff08WebAssembly\uff09+ Cloudflare Workers AI",
+    "id": "gaaiyun/text2sql-chatbi",
+    "language": "Python",
+    "name": "gaaiyun/text2sql-chatbi",
+    "stars": 0,
+    "updated_at": "2026-09-14T15:51:00Z",
+    "url": "https://github.com/gaaiyun/text2sql-chatbi"
   },
   {
     "description": "An autopoiesic kefir for computing machines",
@@ -14,8 +50,35 @@
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 8,
-    "updated_at": "2026-09-14T15:40:08Z",
+    "updated_at": "2026-09-14T15:48:14Z",
     "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-09-14T15:46:58Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "tidian\uff08\u63d0\u70b9\uff09\u00b7 \u70b9\u7ebf\u9762\u77e5\u8bc6\u5e93\uff08kb\uff09\uff1a\u628a\u4e00\u4efd\u5df2\u5199\u597d\u7684\u6750\u6599\u6d88\u5316\u6210\u6709\u70b9\u3001\u6709\u7ebf\u3001\u6709\u95ee\u9898\u3001\u80fd\u770b\u89c1\u4f53\u7cfb\u7684\u5b66\u4e60\u4ed3\u5e93\uff08Obsidian vault\uff09\u2014\u2014 \u5f15\u6587\u9010\u5b57\u53ef\u6838\uff0c\u8fde\u63a5\u5fc5\u987b\u5e26\u7406\u7531\uff0c\u88c1\u51b3\u5c5e\u4e8e\u4eba\u3002",
+    "id": "Bairea/tidian",
+    "language": "Python",
+    "name": "Bairea/tidian",
+    "stars": 0,
+    "updated_at": "2026-09-14T15:45:26Z",
+    "url": "https://github.com/Bairea/tidian"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 24,
+    "updated_at": "2026-09-14T15:40:50Z",
+    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "A persistent agent runtime and its official CLI. Three packages: @echo-agent/core (runtime/SDK, zero runtime dependencie",
@@ -36,38 +99,11 @@
     "url": "https://github.com/sydches/yuj"
   },
   {
-    "description": "Hunter Community Edition \u00b7 \u79c1\u4eba\u91d1\u878d AI \u56e2\u961f \u00b7 AI \u667a\u80fd\u4f53 + AI \u91cf\u5316 \u00b7 \u5f00\u6e90\u81ea\u6258\u7ba1 \u00b7 powered by opencode + Claude Code + MCP + multi-agent \u00b7",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 509,
-    "updated_at": "2026-09-14T15:36:46Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
-  },
-  {
-    "description": "AI agent\u7092\u80a1\u8350\u80a1\u76ef\u76d8+open claw\u5fae\u4fe1\u5b9e\u65f6\u63a8\u9001\u64ad\u62a5\u5de5\u4f5c\u6d41",
-    "id": "Heliotrope-dev/finance-agent",
-    "language": "Python",
-    "name": "Heliotrope-dev/finance-agent",
-    "stars": 2,
-    "updated_at": "2026-09-14T15:35:55Z",
-    "url": "https://github.com/Heliotrope-dev/finance-agent"
-  },
-  {
-    "description": "\u4e2d\u6587\u95ee\u6570\uff08ChatBI\uff09\u667a\u80fd\u4f53\uff1a\u8bed\u4e49\u5c42 + SQL \u667a\u80fd\u4f53\u53cc\u8def\u5f84\uff0csqlglot \u5b89\u5168\u95e8\uff0c\u6d4f\u89c8\u5668\u5185 Python/DuckDB\uff08WebAssembly\uff09+ Cloudflare Workers AI",
-    "id": "gaaiyun/text2sql-chatbi",
-    "language": "Python",
-    "name": "gaaiyun/text2sql-chatbi",
-    "stars": 0,
-    "updated_at": "2026-09-14T15:31:37Z",
-    "url": "https://github.com/gaaiyun/text2sql-chatbi"
-  },
-  {
     "description": "Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and compu",
     "id": "feder-cr/AIHawk",
     "language": "Python",
     "name": "feder-cr/AIHawk",
-    "stars": 31569,
+    "stars": 31570,
     "updated_at": "2026-09-14T15:30:50Z",
     "url": "https://github.com/feder-cr/AIHawk"
   },
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3332,
-    "updated_at": "2026-09-14T15:15:40Z",
+    "updated_at": "2026-09-14T15:56:26Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -180,15 +216,6 @@
     "url": "https://github.com/honestDS/MonoLight"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-09-14T14:44:36Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "Automatically Update LLM-Agent Papers Daily using Github Actions (Update Every 12th hours)",
     "id": "Lyz103/LLM-Agent-Paper-daily",
     "language": "Python",
@@ -205,15 +232,6 @@
     "stars": 807,
     "updated_at": "2026-09-14T15:32:46Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-09-14T14:32:13Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
   },
   {
     "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
@@ -430,23 +448,5 @@
     "stars": 15,
     "updated_at": "2026-09-14T13:29:07Z",
     "url": "https://github.com/emqnuele/projectBEA"
-  },
-  {
-    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
-    "id": "HELLOCODINGTR/AgentForge",
-    "language": "\u2014",
-    "name": "HELLOCODINGTR/AgentForge",
-    "stars": 1,
-    "updated_at": "2026-09-14T13:28:09Z",
-    "url": "https://github.com/HELLOCODINGTR/AgentForge"
-  },
-  {
-    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
-    "id": "strobilevitellus470/argus-ai",
-    "language": "Python",
-    "name": "strobilevitellus470/argus-ai",
-    "stars": 1,
-    "updated_at": "2026-09-14T13:27:22Z",
-    "url": "https://github.com/strobilevitellus470/argus-ai"
   }
 ]
