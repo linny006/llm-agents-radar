@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-14 06:42 UTC
+> ⏰ Last updated: 2026-09-14 06:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [emmmdty/zhiwei](https://github.com/emmmdty/zhiwei) | 0 | Python | 2026-09-14 | ZhiWei 知微 — Verifiable Enterprise Agent Core：把知识、记忆、模型、工具与长期任务编排成可验证、可治理的 Agent Apps（Ask / Discover / ChangeBrief）。多租户纵深 |
-| 2 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 3305 | Python | 2026-09-14 | SRE Agent - CNCF Sandbox Project |
-| 3 | [shoemoney/shoemoneyx](https://github.com/shoemoney/shoemoneyx) | 0 | PHP | 2026-09-14 | Open-source crypto paper-trading desk: backtest farm, walk-forward optimizer, 110 exchanges, built-in strategy agent. La |
-| 4 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 10 | Python | 2026-09-14 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 5 | [chunleik/self-analyst](https://github.com/chunleik/self-analyst) | 0 | Java | 2026-09-14 | A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent |
-| 6 | [emqnuele/projectBEA](https://github.com/emqnuele/projectBEA) | 14 | Python | 2026-09-14 | ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses |
-| 7 | [FRS2003/hands-on-llm](https://github.com/FRS2003/hands-on-llm) | 30 | Python | 2026-09-14 | 动手学大模型全栈：CS336 中文精讲 · PyTorch 手搓 Transformer · 单卡复现 Pretrain/SFT/LoRA/DPO/GRPO/RLVR · PEFT/Agent/RAG 落地（含真实实验、曲线与复现脚本） |
-| 8 | [liiiiiiiiil/agent-from-scratch](https://github.com/liiiiiiiiil/agent-from-scratch) | 60 | Python | 2026-09-14 | Build an AI Coding Agent from Scratch, Step by Step \| 从零一步步搭建 AI 编程 Agent，边实现边理解 Agent 的工作原理 |
-| 9 | [areal-project/AReaL](https://github.com/areal-project/AReaL) | 5756 | Python | 2026-09-14 | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. |
-| 10 | [Luciole-Studio/Misaka-Agent](https://github.com/Luciole-Studio/Misaka-Agent) | 3 | Python | 2026-09-14 | A multi-agent research system for the humanities and social sciences. |
-| 11 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 693 | JavaScript | 2026-09-14 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
+| 1 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 693 | JavaScript | 2026-09-14 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
+| 2 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 10 | Python | 2026-09-14 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 3 | [emmmdty/zhiwei](https://github.com/emmmdty/zhiwei) | 0 | Python | 2026-09-14 | ZhiWei 知微 — Verifiable Enterprise Agent Core：把知识、记忆、模型、工具与长期任务编排成可验证、可治理的 Agent Apps（Ask / Discover / ChangeBrief）。多租户纵深 |
+| 4 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 3305 | Python | 2026-09-14 | SRE Agent - CNCF Sandbox Project |
+| 5 | [shoemoney/shoemoneyx](https://github.com/shoemoney/shoemoneyx) | 0 | PHP | 2026-09-14 | Open-source crypto paper-trading desk: backtest farm, walk-forward optimizer, 110 exchanges, built-in strategy agent. La |
+| 6 | [chunleik/self-analyst](https://github.com/chunleik/self-analyst) | 0 | Java | 2026-09-14 | A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent |
+| 7 | [emqnuele/projectBEA](https://github.com/emqnuele/projectBEA) | 15 | Python | 2026-09-14 | ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses |
+| 8 | [FRS2003/hands-on-llm](https://github.com/FRS2003/hands-on-llm) | 31 | Python | 2026-09-14 | 动手学大模型全栈：CS336 中文精讲 · PyTorch 手搓 Transformer · 单卡复现 Pretrain/SFT/LoRA/DPO/GRPO/RLVR · PEFT/Agent/RAG 落地（含真实实验、曲线与复现脚本） |
+| 9 | [liiiiiiiiil/agent-from-scratch](https://github.com/liiiiiiiiil/agent-from-scratch) | 60 | Python | 2026-09-14 | Build an AI Coding Agent from Scratch, Step by Step \| 从零一步步搭建 AI 编程 Agent，边实现边理解 Agent 的工作原理 |
+| 10 | [areal-project/AReaL](https://github.com/areal-project/AReaL) | 5757 | Python | 2026-09-14 | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. |
+| 11 | [Luciole-Studio/Misaka-Agent](https://github.com/Luciole-Studio/Misaka-Agent) | 3 | Python | 2026-09-14 | A multi-agent research system for the humanities and social sciences. |
 | 12 | [jack-h-park/pm-intelligence-engine](https://github.com/jack-h-park/pm-intelligence-engine) | 0 | Python | 2026-09-14 | This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei |
 | 13 | [KihonnyTsang/LiteratureAgent](https://github.com/KihonnyTsang/LiteratureAgent) | 1 | Python | 2026-09-14 | Scientific literature agent for grounded RAG, structured fact extraction, cross-paper quantitative analysis, evidence-tr |
 | 14 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-09-14 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |

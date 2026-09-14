@@ -1,5 +1,23 @@
 [
   {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 693,
+    "updated_at": "2026-09-14T06:44:49Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-14T06:44:44Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "ZhiWei \u77e5\u5fae \u2014 Verifiable Enterprise Agent Core\uff1a\u628a\u77e5\u8bc6\u3001\u8bb0\u5fc6\u3001\u6a21\u578b\u3001\u5de5\u5177\u4e0e\u957f\u671f\u4efb\u52a1\u7f16\u6392\u6210\u53ef\u9a8c\u8bc1\u3001\u53ef\u6cbb\u7406\u7684 Agent Apps\uff08Ask / Discover / ChangeBrief\uff09\u3002\u591a\u79df\u6237\u7eb5\u6df1",
     "id": "emmmdty/zhiwei",
     "language": "Python",
@@ -27,21 +45,12 @@
     "url": "https://github.com/shoemoney/shoemoneyx"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-14T06:38:03Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
     "id": "chunleik/self-analyst",
     "language": "Java",
     "name": "chunleik/self-analyst",
     "stars": 0,
-    "updated_at": "2026-09-14T06:39:52Z",
+    "updated_at": "2026-09-14T06:43:39Z",
     "url": "https://github.com/chunleik/self-analyst"
   },
   {
@@ -49,7 +58,7 @@
     "id": "emqnuele/projectBEA",
     "language": "Python",
     "name": "emqnuele/projectBEA",
-    "stars": 14,
+    "stars": 15,
     "updated_at": "2026-09-14T06:34:31Z",
     "url": "https://github.com/emqnuele/projectBEA"
   },
@@ -58,7 +67,7 @@
     "id": "FRS2003/hands-on-llm",
     "language": "Python",
     "name": "FRS2003/hands-on-llm",
-    "stars": 30,
+    "stars": 31,
     "updated_at": "2026-09-14T06:33:06Z",
     "url": "https://github.com/FRS2003/hands-on-llm"
   },
@@ -76,7 +85,7 @@
     "id": "areal-project/AReaL",
     "language": "Python",
     "name": "areal-project/AReaL",
-    "stars": 5756,
+    "stars": 5757,
     "updated_at": "2026-09-14T06:24:28Z",
     "url": "https://github.com/areal-project/AReaL"
   },
@@ -88,15 +97,6 @@
     "stars": 3,
     "updated_at": "2026-09-14T06:24:22Z",
     "url": "https://github.com/Luciole-Studio/Misaka-Agent"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 693,
-    "updated_at": "2026-09-14T06:41:27Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
