@@ -1,12 +1,12 @@
 [
   {
-    "description": "Keep agent CLIs running 7\u00d724 \u2014 supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure",
-    "id": "wan9yu/cli-agent-runner",
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
     "language": "Python",
-    "name": "wan9yu/cli-agent-runner",
-    "stars": 4,
-    "updated_at": "2026-09-14T19:29:26Z",
-    "url": "https://github.com/wan9yu/cli-agent-runner"
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 1,
+    "updated_at": "2026-09-14T19:43:42Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
     "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
@@ -14,8 +14,17 @@
     "language": "TypeScript",
     "name": "khudayarovich/onflip-agent",
     "stars": 3,
-    "updated_at": "2026-09-14T19:26:02Z",
+    "updated_at": "2026-09-14T19:42:19Z",
     "url": "https://github.com/khudayarovich/onflip-agent"
+  },
+  {
+    "description": "Overall description of multiple linked iterations of LLM agent frameworks.",
+    "id": "charlesericwilson-portfolio/Echo_Project_Overview",
+    "language": "Python",
+    "name": "charlesericwilson-portfolio/Echo_Project_Overview",
+    "stars": 0,
+    "updated_at": "2026-09-14T19:42:12Z",
+    "url": "https://github.com/charlesericwilson-portfolio/Echo_Project_Overview"
   },
   {
     "description": "Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and compu",
@@ -23,8 +32,44 @@
     "language": "Python",
     "name": "feder-cr/AIHawk",
     "stars": 31573,
-    "updated_at": "2026-09-14T19:25:28Z",
+    "updated_at": "2026-09-14T19:34:56Z",
     "url": "https://github.com/feder-cr/AIHawk"
+  },
+  {
+    "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
+    "id": "aviskaar/zorp",
+    "language": "Rust",
+    "name": "aviskaar/zorp",
+    "stars": 3,
+    "updated_at": "2026-09-14T19:32:50Z",
+    "url": "https://github.com/aviskaar/zorp"
+  },
+  {
+    "description": "openPASO \u2014 open Platform for Agentic Simulation and Optimization. An AI agent that operates nine finite-element and mult",
+    "id": "alhermann/openPASO",
+    "language": "Python",
+    "name": "alhermann/openPASO",
+    "stars": 10,
+    "updated_at": "2026-09-14T19:31:41Z",
+    "url": "https://github.com/alhermann/openPASO"
+  },
+  {
+    "description": "A fence for an autonomous agent that handles real money: append-only ledger, kill switch, spend envelope, and a revenue ",
+    "id": "JDGj/agent-treasury",
+    "language": "Python",
+    "name": "JDGj/agent-treasury",
+    "stars": 0,
+    "updated_at": "2026-09-14T19:31:33Z",
+    "url": "https://github.com/JDGj/agent-treasury"
+  },
+  {
+    "description": "Keep agent CLIs running 7\u00d724 \u2014 supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure",
+    "id": "wan9yu/cli-agent-runner",
+    "language": "Python",
+    "name": "wan9yu/cli-agent-runner",
+    "stars": 4,
+    "updated_at": "2026-09-14T19:29:26Z",
+    "url": "https://github.com/wan9yu/cli-agent-runner"
   },
   {
     "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
@@ -153,15 +198,6 @@
     "url": "https://github.com/piporyx/doc-qa-agent"
   },
   {
-    "description": "A fence for an autonomous agent that handles real money: append-only ledger, kill switch, spend envelope, and a revenue ",
-    "id": "JDGj/agent-treasury",
-    "language": "Python",
-    "name": "JDGj/agent-treasury",
-    "stars": 0,
-    "updated_at": "2026-09-14T19:01:32Z",
-    "url": "https://github.com/JDGj/agent-treasury"
-  },
-  {
     "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
     "id": "Amri854/obsidian-mcp-server",
     "language": "TypeScript",
@@ -275,7 +311,7 @@
     "language": "Go",
     "name": "mnemon-dev/mnemon",
     "stars": 574,
-    "updated_at": "2026-09-14T18:29:57Z",
+    "updated_at": "2026-09-14T19:40:55Z",
     "url": "https://github.com/mnemon-dev/mnemon"
   },
   {
@@ -283,7 +319,7 @@
     "id": "atria-asi/Atria-Dawn-Preview",
     "language": "\u2014",
     "name": "atria-asi/Atria-Dawn-Preview",
-    "stars": 72,
+    "stars": 75,
     "updated_at": "2026-09-14T18:20:29Z",
     "url": "https://github.com/atria-asi/Atria-Dawn-Preview"
   },
@@ -293,7 +329,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 7241,
-    "updated_at": "2026-09-14T18:21:45Z",
+    "updated_at": "2026-09-14T19:33:48Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -322,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-09-14T18:07:26Z",
     "url": "https://github.com/ravisinghrajput95/kubewhy"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 1,
-    "updated_at": "2026-09-14T19:28:31Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
     "description": "Natural-language stock queries over a live Oracle ERP with Claude: SELECT-only SQL agent, streaming web UI with visible ",
@@ -410,7 +437,7 @@
     "language": "TypeScript",
     "name": "henrykbrzoska/bebok",
     "stars": 5,
-    "updated_at": "2026-09-14T19:17:34Z",
+    "updated_at": "2026-09-14T19:30:53Z",
     "url": "https://github.com/henrykbrzoska/bebok"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 35,
     "updated_at": "2026-09-14T17:28:45Z",
     "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
-    "description": "Terminal-native AI coding agent with extensible TypeScript and Rust SDKs for building and orchestrating coding workflows",
-    "id": "codex-mohan/spectra",
-    "language": "TypeScript",
-    "name": "codex-mohan/spectra",
-    "stars": 1,
-    "updated_at": "2026-09-14T17:27:10Z",
-    "url": "https://github.com/codex-mohan/spectra"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-09-14T17:25:57Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "\u836f\u7528\u690d\u7269\u6b21\u751f\u4ee3\u8c22\u79d1\u7814\u63a8\u7406 LLM Agent:\u591a\u7ec4\u5b66\u5206\u6790\u6d41\u6c34\u7ebf + LLM \u8bc1\u636e\u63a8\u7406,\u786e\u5b9a\u6027\u8ba1\u7b97\u4e0e LLM \u63a8\u7406\u5206\u5c42",
-    "id": "vour-crypto/PhytoReason-Agent",
-    "language": "Python",
-    "name": "vour-crypto/PhytoReason-Agent",
-    "stars": 0,
-    "updated_at": "2026-09-14T17:23:37Z",
-    "url": "https://github.com/vour-crypto/PhytoReason-Agent"
   }
 ]
