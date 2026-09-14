@@ -1,12 +1,21 @@
 [
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
+    "description": "\u9002\u7528\u4e8e Claude Code \u548c Codex \u7684\u6c42\u804c Skill\uff1a\u67e5\u627e\u5c97\u4f4d\u3001\u5224\u65ad\u662f\u5426\u503c\u5f97\u6295\u9012\u3001\u5236\u4f5c\u7b80\u5386\u4e0e\u7533\u8bf7\u6750\u6599\u3001\u68c0\u9a8c\u7533\u8bf7\u6750\u6599\u5e76\u6a21\u62df\u9762\u8bd5\u3002\u4e0d\u7f16\u9020\u6280\u80fd\u6216\u4e1a\u7ee9\u6570\u5b57\uff0c\u4e0d\u9884\u6d4b\u5f55\u7528\u6982\u7387\uff1b\u68c0\u67e5\u7b80\u5386\u662f\u5426\u4fbf\u4e8e\u62db\u8058\u7ba1\u7406\u7cfb\u7edf\uff08ATS\uff09\u8bfb\u53d6\uff0c\u5e76\u4ece\u62db\u8058\u4eba\u5458\u548c\u7528\u4eba",
+    "id": "addsumtech/job-hunt",
     "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-13T23:43:11Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
+    "name": "addsumtech/job-hunt",
+    "stars": 2,
+    "updated_at": "2026-09-13T23:56:42Z",
+    "url": "https://github.com/addsumtech/job-hunt"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 4,
+    "updated_at": "2026-09-13T23:53:45Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
     "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
@@ -14,7 +23,7 @@
     "language": "Shell",
     "name": "hoshiyomiX/stellar-trails",
     "stars": 0,
-    "updated_at": "2026-09-13T23:38:47Z",
+    "updated_at": "2026-09-13T23:51:27Z",
     "url": "https://github.com/hoshiyomiX/stellar-trails"
   },
   {
@@ -23,17 +32,26 @@
     "language": "Python",
     "name": "varunbhatt2193/selenium2playwright",
     "stars": 0,
-    "updated_at": "2026-09-13T23:42:34Z",
+    "updated_at": "2026-09-13T23:54:38Z",
     "url": "https://github.com/varunbhatt2193/selenium2playwright"
   },
   {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
+    "description": "Real-time control of your active Chrome tab via pure CDP (no MCP): MV3 extension (chrome.debugger) + Node.js WebSocket r",
+    "id": "frederico-kluser/chromium-controller",
     "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 4,
-    "updated_at": "2026-09-13T23:33:46Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
+    "name": "frederico-kluser/chromium-controller",
+    "stars": 0,
+    "updated_at": "2026-09-13T23:48:39Z",
+    "url": "https://github.com/frederico-kluser/chromium-controller"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-13T23:43:11Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -59,7 +77,7 @@
     "language": "Rust",
     "name": "citizenhicks/mobius",
     "stars": 1,
-    "updated_at": "2026-09-13T23:37:24Z",
+    "updated_at": "2026-09-13T23:58:30Z",
     "url": "https://github.com/citizenhicks/mobius"
   },
   {
@@ -157,7 +175,7 @@
     "id": "feder-cr/AIHawk",
     "language": "Python",
     "name": "feder-cr/AIHawk",
-    "stars": 30732,
+    "stars": 30738,
     "updated_at": "2026-09-13T22:32:11Z",
     "url": "https://github.com/feder-cr/AIHawk"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-13T20:17:26Z",
     "url": "https://github.com/Mlte0907/pangu"
-  },
-  {
-    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
-    "id": "Screwtopped-annapavlova802/SparkLabs",
-    "language": "C++",
-    "name": "Screwtopped-annapavlova802/SparkLabs",
-    "stars": 1,
-    "updated_at": "2026-09-13T20:16:27Z",
-    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-09-13T20:15:06Z",
-    "url": "https://github.com/mriazi1982/octopai"
   }
 ]
