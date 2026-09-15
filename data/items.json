@@ -1,11 +1,56 @@
 [
   {
+    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
+    "id": "kyleslight/shun",
+    "language": "TypeScript",
+    "name": "kyleslight/shun",
+    "stars": 6,
+    "updated_at": "2026-09-15T16:44:23Z",
+    "url": "https://github.com/kyleslight/shun"
+  },
+  {
+    "description": "\u6295\u8d44\u79c1\u4eba\u7ba1\u5bb6 \u00b7 A\u80a1\u57fa\u91d1 AI \u79c1\u4eba\u987e\u95ee\uff08Invest Concierge \u2014 A-share & fund AI personal investment assistant\uff09",
+    "id": "cx-ssg/invest-concierge",
+    "language": "Python",
+    "name": "cx-ssg/invest-concierge",
+    "stars": 0,
+    "updated_at": "2026-09-15T16:42:31Z",
+    "url": "https://github.com/cx-ssg/invest-concierge"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-09-15T16:37:01Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "the companyfabric.com website repository",
+    "id": "companyfabric/companyfabric",
+    "language": "\u2014",
+    "name": "companyfabric/companyfabric",
+    "stars": 1,
+    "updated_at": "2026-09-15T16:32:47Z",
+    "url": "https://github.com/companyfabric/companyfabric"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7255,
+    "updated_at": "2026-09-15T16:34:29Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
     "id": "ljedrz/nachalnik",
     "language": "Rust",
     "name": "ljedrz/nachalnik",
     "stars": 4,
-    "updated_at": "2026-09-15T16:29:19Z",
+    "updated_at": "2026-09-15T16:39:04Z",
     "url": "https://github.com/ljedrz/nachalnik"
   },
   {
@@ -23,7 +68,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-09-15T16:27:52Z",
+    "updated_at": "2026-09-15T16:38:28Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -43,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-09-15T16:21:34Z",
     "url": "https://github.com/lusipad/browser-agent"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7255,
-    "updated_at": "2026-09-15T16:19:31Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "\u76d8\u53e4 \u2014 AI Agent \u591a\u6a21\u6001\u8bb0\u5fc6\u7cfb\u7edf\uff1aWing\u2192Room\u2192Drawer \u5206\u5c42\u5b58\u50a8\u3001ONNX \u672c\u5730\u5d4c\u5165\u8bed\u4e49\u68c0\u7d22\uff08SQLite FTS5 + RRF \u878d\u5408\uff09\u3001\u827e\u5bbe\u6d69\u65af\u9057\u5fd8\u66f2\u7ebf\u4e0e\u795e\u7ecf\u6fc0\u6d3b\u6269\u6563\uff1b\u63d0\u4f9b REST API + MCP \u670d\u52a1\uff0c\u9ed8\u8ba4\u66b4",
@@ -171,15 +207,6 @@
     "url": "https://github.com/bigduu/Zenith"
   },
   {
-    "description": "\u6295\u8d44\u79c1\u4eba\u7ba1\u5bb6 \u00b7 A\u80a1\u57fa\u91d1 AI \u79c1\u4eba\u987e\u95ee\uff08Invest Concierge \u2014 A-share & fund AI personal investment assistant\uff09",
-    "id": "cx-ssg/invest-concierge",
-    "language": "Python",
-    "name": "cx-ssg/invest-concierge",
-    "stars": 0,
-    "updated_at": "2026-09-15T15:53:53Z",
-    "url": "https://github.com/cx-ssg/invest-concierge"
-  },
-  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
@@ -203,7 +230,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 697,
-    "updated_at": "2026-09-15T16:23:05Z",
+    "updated_at": "2026-09-15T16:43:37Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -230,7 +257,7 @@
     "language": "Python",
     "name": "nexpeakcore/deepseek-harness-pr-review",
     "stars": 42,
-    "updated_at": "2026-09-15T16:27:33Z",
+    "updated_at": "2026-09-15T16:44:22Z",
     "url": "https://github.com/nexpeakcore/deepseek-harness-pr-review"
   },
   {
@@ -355,7 +382,7 @@
     "id": "FRS2003/hands-on-llm",
     "language": "Python",
     "name": "FRS2003/hands-on-llm",
-    "stars": 73,
+    "stars": 72,
     "updated_at": "2026-09-15T14:29:22Z",
     "url": "https://github.com/FRS2003/hands-on-llm"
   },
@@ -367,6 +394,15 @@
     "stars": 1,
     "updated_at": "2026-09-15T14:27:56Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3370,
+    "updated_at": "2026-09-15T14:21:43Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
@@ -385,15 +421,6 @@
     "stars": 8,
     "updated_at": "2026-09-15T13:56:50Z",
     "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3369,
-    "updated_at": "2026-09-15T14:21:43Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Keep agent CLIs running 7\u00d724 \u2014 supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-15T13:34:24Z",
     "url": "https://github.com/TekkenSteve/fastapi_langgraph_template"
-  },
-  {
-    "description": "An AI brain for Unitree robot dogs: one sentence in, guarded motion out.",
-    "id": "LiSheng5/argos",
-    "language": "Python",
-    "name": "LiSheng5/argos",
-    "stars": 0,
-    "updated_at": "2026-09-15T13:33:56Z",
-    "url": "https://github.com/LiSheng5/argos"
-  },
-  {
-    "description": "Stateful runtime management for LLM agents\u2014inject, manipulate, and retrieve Python objects across turns. ",
-    "id": "acodercat/cave-agent",
-    "language": "Python",
-    "name": "acodercat/cave-agent",
-    "stars": 199,
-    "updated_at": "2026-09-15T13:29:42Z",
-    "url": "https://github.com/acodercat/cave-agent"
-  },
-  {
-    "description": "\u7535\u5546\u5e73\u53f0\u5546\u54c1\u5185\u5bb9\u6cbb\u7406\u7684\u590d\u6742\u98ce\u9669\u8c03\u67e5 Agent\uff1aLangGraph \u591a\u6b65\u8c03\u67e5 + \u786e\u5b9a\u6027 Decision Gate\uff0c\u8f93\u51fa PASS / REJECT / HUMAN_REVIEW\uff1b\u5168\u94fe\u8def\u786e\u5b9a\u6027\u53ef\u91cd\u653e\u8bc4\u6d4b",
-    "id": "donglongjun886/product-review-agent",
-    "language": "Python",
-    "name": "donglongjun886/product-review-agent",
-    "stars": 1,
-    "updated_at": "2026-09-15T13:23:43Z",
-    "url": "https://github.com/donglongjun886/product-review-agent"
   }
 ]
