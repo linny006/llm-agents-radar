@@ -1,12 +1,75 @@
 [
   {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-15T13:45:00Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Keep agent CLIs running 7\u00d724 \u2014 supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure",
+    "id": "wan9yu/cli-agent-runner",
+    "language": "Python",
+    "name": "wan9yu/cli-agent-runner",
+    "stars": 4,
+    "updated_at": "2026-09-15T13:42:53Z",
+    "url": "https://github.com/wan9yu/cli-agent-runner"
+  },
+  {
+    "description": "openPASO \u2014 open Platform for Agentic Simulation and Optimization. An AI agent that operates nine finite-element and mult",
+    "id": "alhermann/openPASO",
+    "language": "Python",
+    "name": "alhermann/openPASO",
+    "stars": 11,
+    "updated_at": "2026-09-15T13:42:22Z",
+    "url": "https://github.com/alhermann/openPASO"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 28,
+    "updated_at": "2026-09-15T13:41:15Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
     "description": "GPT autonomous research and investigation using starintel",
     "id": "lost-rob0t/starintel-gpt-auto-dig",
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-09-15T13:30:00Z",
+    "updated_at": "2026-09-15T13:44:01Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and compu",
+    "id": "feder-cr/AIHawk",
+    "language": "Python",
+    "name": "feder-cr/AIHawk",
+    "stars": 31593,
+    "updated_at": "2026-09-15T13:39:49Z",
+    "url": "https://github.com/feder-cr/AIHawk"
+  },
+  {
+    "description": "Production-ready template for a self-hosted Agent Protocol server: FastAPI + LangGraph + PostgreSQL (+ optional Redis), ",
+    "id": "TekkenSteve/fastapi_langgraph_template",
+    "language": "Python",
+    "name": "TekkenSteve/fastapi_langgraph_template",
+    "stars": 1,
+    "updated_at": "2026-09-15T13:34:24Z",
+    "url": "https://github.com/TekkenSteve/fastapi_langgraph_template"
+  },
+  {
+    "description": "An AI brain for Unitree robot dogs: one sentence in, guarded motion out.",
+    "id": "LiSheng5/argos",
+    "language": "Python",
+    "name": "LiSheng5/argos",
+    "stars": 0,
+    "updated_at": "2026-09-15T13:33:56Z",
+    "url": "https://github.com/LiSheng5/argos"
   },
   {
     "description": "Stateful runtime management for LLM agents\u2014inject, manipulate, and retrieve Python objects across turns. ",
@@ -81,15 +144,6 @@
     "url": "https://github.com/Mlte0907/pangu"
   },
   {
-    "description": "openPASO \u2014 open Platform for Agentic Simulation and Optimization. An AI agent that operates nine finite-element and mult",
-    "id": "alhermann/openPASO",
-    "language": "Python",
-    "name": "alhermann/openPASO",
-    "stars": 11,
-    "updated_at": "2026-09-15T13:11:53Z",
-    "url": "https://github.com/alhermann/openPASO"
-  },
-  {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
@@ -124,15 +178,6 @@
     "stars": 71,
     "updated_at": "2026-09-15T12:55:22Z",
     "url": "https://github.com/oooscoos/Benzi"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-15T12:50:47Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -320,7 +365,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 808,
-    "updated_at": "2026-09-15T13:28:36Z",
+    "updated_at": "2026-09-15T13:40:31Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -346,7 +391,7 @@
     "id": "atria-asi/Atria-Dawn-Preview",
     "language": "\u2014",
     "name": "atria-asi/Atria-Dawn-Preview",
-    "stars": 244,
+    "stars": 250,
     "updated_at": "2026-09-15T10:36:43Z",
     "url": "https://github.com/atria-asi/Atria-Dawn-Preview"
   },
@@ -364,7 +409,7 @@
     "id": "agentpit-io/hunter-community",
     "language": "Python",
     "name": "agentpit-io/hunter-community",
-    "stars": 509,
+    "stars": 510,
     "updated_at": "2026-09-15T10:35:34Z",
     "url": "https://github.com/agentpit-io/hunter-community"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-15T10:11:35Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 106,
-    "updated_at": "2026-09-15T10:08:13Z",
-    "url": "https://github.com/AVADSA25/codec"
-  },
-  {
-    "description": "AI customer support agent for AppleSupport using intent classification via clustering (K-Means), RAG-grounded reply gene",
-    "id": "Amar-7778/Customer-Support-Agent-Apple-Support-",
-    "language": "Python",
-    "name": "Amar-7778/Customer-Support-Agent-Apple-Support-",
-    "stars": 0,
-    "updated_at": "2026-09-15T10:06:43Z",
-    "url": "https://github.com/Amar-7778/Customer-Support-Agent-Apple-Support-"
-  },
-  {
-    "description": "\u5267\u672c\u5206\u955c\u667a\u80fd\u4f53\uff08PenShot\uff09\uff1a\u7535\u5f71/\u52a8\u6f2b/\u77ed\u5267/\u5c0f\u8bf4\u2192\u5206\u955c\u2192\u63d0\u793a\u8bcd\u2192\u89c6\u9891\u3002| \u57fa\u4e8eLLM \u901a\u8fc7 LangGraph+LlamaIndex\u5b9e\u73b0\u4efb\u610f\u683c\u5f0f\u5267\u672c\u7684\u81ea\u52a8\u89e3\u6790\uff0c\u751f\u6210 Sora/Veo/Runway \u7b49\u6a21\u578b\u53ef\u7528\u7684\u8fde\u8d2ftext-to-v",
-    "id": "neopen/story-shot-agent",
-    "language": "Python",
-    "name": "neopen/story-shot-agent",
-    "stars": 197,
-    "updated_at": "2026-09-15T09:54:59Z",
-    "url": "https://github.com/neopen/story-shot-agent"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 1044,
-    "updated_at": "2026-09-15T09:53:54Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "\u52a8\u624b\u5b66\u5927\u6a21\u578b\u5168\u6808\uff1aCS336 \u4e2d\u6587\u7cbe\u8bb2 \u00b7 PyTorch \u624b\u6413 Transformer \u00b7 \u5355\u5361\u590d\u73b0 Pretrain/SFT/LoRA/DPO/GRPO/RLVR \u00b7 PEFT/Agent/RAG \u843d\u5730\uff08\u542b\u771f\u5b9e\u5b9e\u9a8c\u3001\u66f2\u7ebf\u4e0e\u590d\u73b0\u811a\u672c\uff09",
-    "id": "FRS2003/hands-on-llm",
-    "language": "Python",
-    "name": "FRS2003/hands-on-llm",
-    "stars": 72,
-    "updated_at": "2026-09-15T09:50:57Z",
-    "url": "https://github.com/FRS2003/hands-on-llm"
   }
 ]
