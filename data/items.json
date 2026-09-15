@@ -1,5 +1,23 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 24,
+    "updated_at": "2026-09-15T03:28:11Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
+    "id": "chunleik/self-analyst",
+    "language": "Java",
+    "name": "chunleik/self-analyst",
+    "stars": 0,
+    "updated_at": "2026-09-15T03:28:08Z",
+    "url": "https://github.com/chunleik/self-analyst"
+  },
+  {
     "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
     "id": "bigduu/Zenith",
     "language": "JavaScript",
@@ -104,7 +122,7 @@
     "language": "Rust",
     "name": "citizenhicks/mobius",
     "stars": 1,
-    "updated_at": "2026-09-15T03:04:42Z",
+    "updated_at": "2026-09-15T03:27:56Z",
     "url": "https://github.com/citizenhicks/mobius"
   },
   {
@@ -124,6 +142,15 @@
     "stars": 1,
     "updated_at": "2026-09-15T03:03:27Z",
     "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
+  },
+  {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 575,
+    "updated_at": "2026-09-15T03:00:08Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
   },
   {
     "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
@@ -364,7 +391,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 31664,
+    "stars": 31666,
     "updated_at": "2026-09-15T02:20:22Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-15T01:43:41Z",
     "url": "https://github.com/Jogi-OpenSource/JogiJarvis-Mobile"
-  },
-  {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "TypeScript",
-    "name": "dsswift/ion",
-    "stars": 4,
-    "updated_at": "2026-09-15T01:42:05Z",
-    "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 126,
-    "updated_at": "2026-09-15T01:19:07Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 3,
-    "updated_at": "2026-09-15T01:18:39Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   }
 ]
