@@ -1,12 +1,30 @@
 [
   {
-    "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
-    "id": "khudayarovich/onflip-agent",
-    "language": "TypeScript",
-    "name": "khudayarovich/onflip-agent",
-    "stars": 3,
-    "updated_at": "2026-09-15T19:13:54Z",
-    "url": "https://github.com/khudayarovich/onflip-agent"
+    "description": "Free & Open Source AI Agent \u2014 Self-Hosted, Self-Learning, No Vendor API. Qwen2.5-7B + LoRA. 35 tools. Built on Islamic E",
+    "id": "fahmiwol/sidix",
+    "language": "Python",
+    "name": "fahmiwol/sidix",
+    "stars": 23,
+    "updated_at": "2026-09-15T19:30:03Z",
+    "url": "https://github.com/fahmiwol/sidix"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-09-15T19:26:02Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7259,
+    "updated_at": "2026-09-15T19:25:10Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "An autopoiesic kefir for computing machines",
@@ -14,8 +32,35 @@
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 8,
-    "updated_at": "2026-09-15T19:11:52Z",
+    "updated_at": "2026-09-15T19:21:41Z",
     "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
+    "id": "khudayarovich/onflip-agent",
+    "language": "TypeScript",
+    "name": "khudayarovich/onflip-agent",
+    "stars": 3,
+    "updated_at": "2026-09-15T19:21:28Z",
+    "url": "https://github.com/khudayarovich/onflip-agent"
+  },
+  {
+    "description": "Gestor ag\u00e9ntico de modelos llm",
+    "id": "bondwell79/hercules",
+    "language": "Python",
+    "name": "bondwell79/hercules",
+    "stars": 0,
+    "updated_at": "2026-09-15T19:20:06Z",
+    "url": "https://github.com/bondwell79/hercules"
+  },
+  {
+    "description": "AI code review with DeepSeek: headless PR review automation that verifies PR descriptions claim-by-claim against real co",
+    "id": "nexpeakcore/deepseek-harness-pr-review",
+    "language": "Python",
+    "name": "nexpeakcore/deepseek-harness-pr-review",
+    "stars": 42,
+    "updated_at": "2026-09-15T19:18:06Z",
+    "url": "https://github.com/nexpeakcore/deepseek-harness-pr-review"
   },
   {
     "description": "A Python engine and in-process arena for running, replaying, and analyzing 6 nimmt! games with deterministic bots and LL",
@@ -34,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-09-15T19:10:09Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "Free & Open Source AI Agent \u2014 Self-Hosted, Self-Learning, No Vendor API. Qwen2.5-7B + LoRA. 35 tools. Built on Islamic E",
-    "id": "fahmiwol/sidix",
-    "language": "Python",
-    "name": "fahmiwol/sidix",
-    "stars": 23,
-    "updated_at": "2026-09-15T19:09:39Z",
-    "url": "https://github.com/fahmiwol/sidix"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -122,7 +158,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 697,
-    "updated_at": "2026-09-15T18:58:58Z",
+    "updated_at": "2026-09-15T19:18:26Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -151,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-09-15T18:25:05Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Gestor ag\u00e9ntico de modelos llm",
-    "id": "bondwell79/hercules",
-    "language": "Python",
-    "name": "bondwell79/hercules",
-    "stars": 0,
-    "updated_at": "2026-09-15T18:23:23Z",
-    "url": "https://github.com/bondwell79/hercules"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -324,15 +351,6 @@
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7259,
-    "updated_at": "2026-09-15T16:34:29Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "the companyfabric.com website repository",
     "id": "companyfabric/companyfabric",
     "language": "\u2014",
@@ -430,23 +448,5 @@
     "stars": 6,
     "updated_at": "2026-09-15T17:54:14Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 18,
-    "updated_at": "2026-09-15T18:39:28Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "LLM multi-agent pentest workbench on Kali + OMP: 5 role agents, independent verification gates, blackboard coordination,",
-    "id": "Liushenwuzhu-Alpaca/pentest-box",
-    "language": "Python",
-    "name": "Liushenwuzhu-Alpaca/pentest-box",
-    "stars": 1,
-    "updated_at": "2026-09-15T15:44:00Z",
-    "url": "https://github.com/Liushenwuzhu-Alpaca/pentest-box"
   }
 ]
