@@ -1,5 +1,50 @@
 [
   {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-15T22:30:06Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 494,
+    "updated_at": "2026-09-15T22:22:13Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 40,
+    "updated_at": "2026-09-15T22:20:28Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 697,
+    "updated_at": "2026-09-15T22:19:52Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "Free & Open Source AI Agent \u2014 Self-Hosted, Self-Learning, No Vendor API. Qwen2.5-7B + LoRA. 35 tools. Built on Islamic E",
+    "id": "fahmiwol/sidix",
+    "language": "Python",
+    "name": "fahmiwol/sidix",
+    "stars": 23,
+    "updated_at": "2026-09-15T22:18:47Z",
+    "url": "https://github.com/fahmiwol/sidix"
+  },
+  {
     "description": "Agent \u91cd\u67b6\u6784\uff1a\u8fc8\u5411\u4e0a\u4e0b\u6587\u539f\u751f\u667a\u80fd\uff08Context-Native Agent\uff09\u2014\u2014 \u4e2d\u6587\u957f\u6587\u4e0e\u53ef\u590d\u7b97\u7684\u6392\u7248\u6784\u5efa\u94fe\uff08Markdown \u2192 \u81ea\u5305\u542b HTML \u2192 A4 PDF\uff09",
     "id": "54shitaimzf/context-native-agent",
     "language": "Markdown",
@@ -9,21 +54,12 @@
     "url": "https://github.com/54shitaimzf/context-native-agent"
   },
   {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 494,
-    "updated_at": "2026-09-15T22:13:50Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 18,
-    "updated_at": "2026-09-15T22:13:50Z",
+    "updated_at": "2026-09-15T22:23:45Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -70,15 +106,6 @@
     "stars": 3,
     "updated_at": "2026-09-15T21:57:15Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-15T21:49:58Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -160,24 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-15T21:23:47Z",
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 39,
-    "updated_at": "2026-09-15T21:22:29Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 697,
-    "updated_at": "2026-09-15T22:15:16Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
@@ -313,15 +322,6 @@
     "stars": 7259,
     "updated_at": "2026-09-15T19:56:36Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Free & Open Source AI Agent \u2014 Self-Hosted, Self-Learning, No Vendor API. Qwen2.5-7B + LoRA. 35 tools. Built on Islamic E",
-    "id": "fahmiwol/sidix",
-    "language": "Python",
-    "name": "fahmiwol/sidix",
-    "stars": 23,
-    "updated_at": "2026-09-15T19:30:03Z",
-    "url": "https://github.com/fahmiwol/sidix"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
