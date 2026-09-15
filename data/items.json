@@ -1,5 +1,86 @@
 [
   {
+    "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
+    "id": "chunleik/self-analyst",
+    "language": "Java",
+    "name": "chunleik/self-analyst",
+    "stars": 0,
+    "updated_at": "2026-09-15T09:59:27Z",
+    "url": "https://github.com/chunleik/self-analyst"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-09-15T09:58:56Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "",
+    "id": "atria-asi/Atria-Dawn-Preview",
+    "language": "\u2014",
+    "name": "atria-asi/Atria-Dawn-Preview",
+    "stars": 210,
+    "updated_at": "2026-09-15T09:58:25Z",
+    "url": "https://github.com/atria-asi/Atria-Dawn-Preview"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 1,
+    "updated_at": "2026-09-15T09:59:59Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 696,
+    "updated_at": "2026-09-15T09:56:32Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "A verification-first agent research prototype exploring explicit task state, independent verification, and evidence-back",
+    "id": "Matt9x/veritas-agent",
+    "language": "Python",
+    "name": "Matt9x/veritas-agent",
+    "stars": 0,
+    "updated_at": "2026-09-15T09:56:30Z",
+    "url": "https://github.com/Matt9x/veritas-agent"
+  },
+  {
+    "description": "AI customer support agent for AppleSupport using intent classification via clustering (K-Means), RAG-grounded reply gene",
+    "id": "Amar-7778/Customer-Support-Agent-Apple-Support-",
+    "language": "Python",
+    "name": "Amar-7778/Customer-Support-Agent-Apple-Support-",
+    "stars": 0,
+    "updated_at": "2026-09-15T09:54:39Z",
+    "url": "https://github.com/Amar-7778/Customer-Support-Agent-Apple-Support-"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 1044,
+    "updated_at": "2026-09-15T09:53:54Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "\u52a8\u624b\u5b66\u5927\u6a21\u578b\u5168\u6808\uff1aCS336 \u4e2d\u6587\u7cbe\u8bb2 \u00b7 PyTorch \u624b\u6413 Transformer \u00b7 \u5355\u5361\u590d\u73b0 Pretrain/SFT/LoRA/DPO/GRPO/RLVR \u00b7 PEFT/Agent/RAG \u843d\u5730\uff08\u542b\u771f\u5b9e\u5b9e\u9a8c\u3001\u66f2\u7ebf\u4e0e\u590d\u73b0\u811a\u672c\uff09",
+    "id": "FRS2003/hands-on-llm",
+    "language": "Python",
+    "name": "FRS2003/hands-on-llm",
+    "stars": 71,
+    "updated_at": "2026-09-15T09:50:57Z",
+    "url": "https://github.com/FRS2003/hands-on-llm"
+  },
+  {
     "description": "Bifrost \u2014 make an existing Android app agent-controllable: annotate screens and user actions, and an LLM agent calls the",
     "id": "kim-jeong-hyeon/Bifrost",
     "language": "Kotlin",
@@ -14,17 +95,8 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-15T09:41:53Z",
+    "updated_at": "2026-09-15T09:47:06Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 1,
-    "updated_at": "2026-09-15T09:43:58Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -49,18 +121,9 @@
     "id": "titanwings/distilly",
     "language": "Python",
     "name": "titanwings/distilly",
-    "stars": 24759,
+    "stars": 24760,
     "updated_at": "2026-09-15T09:36:36Z",
     "url": "https://github.com/titanwings/distilly"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-09-15T09:33:54Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
@@ -99,21 +162,12 @@
     "url": "https://github.com/Jadema5416/ComfyUI-DLSS5-Enhancer"
   },
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 696,
-    "updated_at": "2026-09-15T09:17:46Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
     "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
     "id": "citizenhicks/mobius",
     "language": "Rust",
     "name": "citizenhicks/mobius",
     "stars": 1,
-    "updated_at": "2026-09-15T09:35:50Z",
+    "updated_at": "2026-09-15T09:46:36Z",
     "url": "https://github.com/citizenhicks/mobius"
   },
   {
@@ -378,15 +432,6 @@
     "url": "https://github.com/hasting323/AutoGLM-For-Android"
   },
   {
-    "description": "A verification-first agent research prototype exploring explicit task state, independent verification, and evidence-back",
-    "id": "Matt9x/veritas-agent",
-    "language": "Python",
-    "name": "Matt9x/veritas-agent",
-    "stars": 0,
-    "updated_at": "2026-09-15T08:45:32Z",
-    "url": "https://github.com/Matt9x/veritas-agent"
-  },
-  {
     "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
     "id": "shiro1707778/episodic-memory-pipeline",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-15T08:43:09Z",
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "",
-    "id": "atria-asi/Atria-Dawn-Preview",
-    "language": "\u2014",
-    "name": "atria-asi/Atria-Dawn-Preview",
-    "stars": 206,
-    "updated_at": "2026-09-15T08:39:19Z",
-    "url": "https://github.com/atria-asi/Atria-Dawn-Preview"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 4,
-    "updated_at": "2026-09-15T08:39:16Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3358,
-    "updated_at": "2026-09-15T08:38:35Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Three small experiments that put a language model against ARC-AGI-3 \u2014 fluid intelligence, harness dependence, and long-t",
-    "id": "JoaquinRuiz/agi-tests",
-    "language": "Python",
-    "name": "JoaquinRuiz/agi-tests",
-    "stars": 1,
-    "updated_at": "2026-09-15T08:36:26Z",
-    "url": "https://github.com/JoaquinRuiz/agi-tests"
-  },
-  {
-    "description": "Agent \u91cd\u67b6\u6784\uff1a\u8fc8\u5411\u4e0a\u4e0b\u6587\u539f\u751f\u667a\u80fd\uff08Context-Native Agent\uff09\u2014\u2014 \u4e2d\u6587\u957f\u6587\u4e0e\u53ef\u590d\u7b97\u7684\u6392\u7248\u6784\u5efa\u94fe\uff08Markdown \u2192 \u81ea\u5305\u542b HTML \u2192 A4 PDF\uff09",
-    "id": "54shitaimzf/context-native-agent",
-    "language": "Markdown",
-    "name": "54shitaimzf/context-native-agent",
-    "stars": 0,
-    "updated_at": "2026-09-15T08:23:25Z",
-    "url": "https://github.com/54shitaimzf/context-native-agent"
   }
 ]
