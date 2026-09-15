@@ -1,12 +1,12 @@
 [
   {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "description": "A multi-agent research system for the humanities and social sciences.",
+    "id": "Luciole-Studio/Misaka-Agent",
     "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 1,
-    "updated_at": "2026-09-15T11:15:13Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+    "name": "Luciole-Studio/Misaka-Agent",
+    "stars": 3,
+    "updated_at": "2026-09-15T11:30:06Z",
+    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
   },
   {
     "description": "Three small experiments that put a language model against ARC-AGI-3 \u2014 fluid intelligence, harness dependence, and long-t",
@@ -14,8 +14,62 @@
     "language": "Python",
     "name": "JoaquinRuiz/agi-tests",
     "stars": 1,
-    "updated_at": "2026-09-15T11:12:53Z",
+    "updated_at": "2026-09-15T11:28:01Z",
     "url": "https://github.com/JoaquinRuiz/agi-tests"
+  },
+  {
+    "description": "One-Stop Personal Health AI Agent \"Say Hi to Healthy Me\"",
+    "id": "thinkwee/HiMe",
+    "language": "Python",
+    "name": "thinkwee/HiMe",
+    "stars": 63,
+    "updated_at": "2026-09-15T11:21:59Z",
+    "url": "https://github.com/thinkwee/HiMe"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5762,
+    "updated_at": "2026-09-15T11:21:44Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 697,
+    "updated_at": "2026-09-15T11:19:52Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-09-15T11:18:11Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Distilly \u2014 Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill\uff08\u539f\u540c\u4e8b Skill\uff09.",
+    "id": "titanwings/distilly",
+    "language": "Python",
+    "name": "titanwings/distilly",
+    "stars": 24759,
+    "updated_at": "2026-09-15T11:17:20Z",
+    "url": "https://github.com/titanwings/distilly"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 1,
+    "updated_at": "2026-09-15T11:24:27Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
     "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
@@ -31,7 +85,7 @@
     "id": "liiiiiiiiil/agent-from-scratch",
     "language": "Python",
     "name": "liiiiiiiiil/agent-from-scratch",
-    "stars": 62,
+    "stars": 63,
     "updated_at": "2026-09-15T11:09:35Z",
     "url": "https://github.com/liiiiiiiiil/agent-from-scratch"
   },
@@ -45,30 +99,12 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5761,
-    "updated_at": "2026-09-15T11:11:49Z",
-    "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 696,
-    "updated_at": "2026-09-15T10:59:40Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
     "description": "Open-source local AI Agent desktop app for authorized security assessment \u2014 Electron + Mastra-powered runtime, visual pe",
     "id": "MingyiSecLab/Atlas",
     "language": "TypeScript",
     "name": "MingyiSecLab/Atlas",
     "stars": 3,
-    "updated_at": "2026-09-15T10:59:23Z",
+    "updated_at": "2026-09-15T11:20:43Z",
     "url": "https://github.com/MingyiSecLab/Atlas"
   },
   {
@@ -103,7 +139,7 @@
     "id": "atria-asi/Atria-Dawn-Preview",
     "language": "\u2014",
     "name": "atria-asi/Atria-Dawn-Preview",
-    "stars": 221,
+    "stars": 222,
     "updated_at": "2026-09-15T10:36:43Z",
     "url": "https://github.com/atria-asi/Atria-Dawn-Preview"
   },
@@ -153,15 +189,6 @@
     "url": "https://github.com/Matt9x/kairos-agent-memory"
   },
   {
-    "description": "One-Stop Personal Health AI Agent \"Say Hi to Healthy Me\"",
-    "id": "thinkwee/HiMe",
-    "language": "Python",
-    "name": "thinkwee/HiMe",
-    "stars": 63,
-    "updated_at": "2026-09-15T10:21:08Z",
-    "url": "https://github.com/thinkwee/HiMe"
-  },
-  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -194,7 +221,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3362,
-    "updated_at": "2026-09-15T10:48:55Z",
+    "updated_at": "2026-09-15T11:30:13Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -205,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-09-15T10:06:43Z",
     "url": "https://github.com/Amar-7778/Customer-Support-Agent-Apple-Support-"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-09-15T10:37:16Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "\u5267\u672c\u5206\u955c\u667a\u80fd\u4f53\uff08PenShot\uff09\uff1a\u7535\u5f71/\u52a8\u6f2b/\u77ed\u5267/\u5c0f\u8bf4\u2192\u5206\u955c\u2192\u63d0\u793a\u8bcd\u2192\u89c6\u9891\u3002| \u57fa\u4e8eLLM \u901a\u8fc7 LangGraph+LlamaIndex\u5b9e\u73b0\u4efb\u610f\u683c\u5f0f\u5267\u672c\u7684\u81ea\u52a8\u89e3\u6790\uff0c\u751f\u6210 Sora/Veo/Runway \u7b49\u6a21\u578b\u53ef\u7528\u7684\u8fde\u8d2ftext-to-v",
@@ -257,7 +275,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-15T11:04:28Z",
+    "updated_at": "2026-09-15T11:22:01Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -277,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-09-15T09:37:57Z",
     "url": "https://github.com/jbq8814-lab/FastFix"
-  },
-  {
-    "description": "Distilly \u2014 Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill\uff08\u539f\u540c\u4e8b Skill\uff09.",
-    "id": "titanwings/distilly",
-    "language": "Python",
-    "name": "titanwings/distilly",
-    "stars": 24760,
-    "updated_at": "2026-09-15T11:12:55Z",
-    "url": "https://github.com/titanwings/distilly"
   },
   {
     "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-15T09:05:19Z",
     "url": "https://github.com/Samuelcluttered613/paper2code"
-  },
-  {
-    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
-    "id": "Bastioned-successor320/learn-nanobot",
-    "language": "Python",
-    "name": "Bastioned-successor320/learn-nanobot",
-    "stars": 10,
-    "updated_at": "2026-09-15T09:05:07Z",
-    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
   }
 ]
