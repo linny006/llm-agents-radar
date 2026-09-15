@@ -1,21 +1,21 @@
 [
   {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 494,
+    "updated_at": "2026-09-15T21:59:39Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
     "description": "Agent \u91cd\u67b6\u6784\uff1a\u8fc8\u5411\u4e0a\u4e0b\u6587\u539f\u751f\u667a\u80fd\uff08Context-Native Agent\uff09\u2014\u2014 \u4e2d\u6587\u957f\u6587\u4e0e\u53ef\u590d\u7b97\u7684\u6392\u7248\u6784\u5efa\u94fe\uff08Markdown \u2192 \u81ea\u5305\u542b HTML \u2192 A4 PDF\uff09",
     "id": "54shitaimzf/context-native-agent",
     "language": "Markdown",
     "name": "54shitaimzf/context-native-agent",
     "stars": 1,
-    "updated_at": "2026-09-15T21:54:42Z",
+    "updated_at": "2026-09-15T21:57:57Z",
     "url": "https://github.com/54shitaimzf/context-native-agent"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-09-15T21:53:18Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
@@ -23,8 +23,17 @@
     "language": "Python",
     "name": "the-priest/PriestsBasilisk",
     "stars": 3,
-    "updated_at": "2026-09-15T21:50:57Z",
+    "updated_at": "2026-09-15T21:57:06Z",
     "url": "https://github.com/the-priest/PriestsBasilisk"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-09-15T21:57:15Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "An autopoiesic kefir for computing machines",
@@ -52,15 +61,6 @@
     "stars": 6,
     "updated_at": "2026-09-15T21:47:15Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 494,
-    "updated_at": "2026-09-15T21:41:49Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
@@ -266,7 +266,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 8,
-    "updated_at": "2026-09-15T21:49:27Z",
+    "updated_at": "2026-09-15T21:56:33Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
