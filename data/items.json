@@ -1,12 +1,57 @@
 [
   {
+    "description": "LLM multi-agent pentest workbench on Kali + OMP: 5 role agents, independent verification gates, blackboard coordination,",
+    "id": "Liushenwuzhu-Alpaca/pentest-box",
+    "language": "Python",
+    "name": "Liushenwuzhu-Alpaca/pentest-box",
+    "stars": 1,
+    "updated_at": "2026-09-15T15:44:00Z",
+    "url": "https://github.com/Liushenwuzhu-Alpaca/pentest-box"
+  },
+  {
+    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
+    "id": "PCODE-pl/MCPTap",
+    "language": "Python",
+    "name": "PCODE-pl/MCPTap",
+    "stars": 1,
+    "updated_at": "2026-09-15T15:42:37Z",
+    "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 697,
+    "updated_at": "2026-09-15T15:41:50Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 4,
+    "updated_at": "2026-09-15T15:41:06Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
     "description": "Amadeus \u2014 DSH Galgame Mode + \u72ec\u7acb\u79fb\u52a8\u7aef APP",
     "id": "saya-ch/dsh-amadeus",
     "language": "TypeScript",
     "name": "saya-ch/dsh-amadeus",
     "stars": 0,
-    "updated_at": "2026-09-15T15:27:10Z",
+    "updated_at": "2026-09-15T15:40:50Z",
     "url": "https://github.com/saya-ch/dsh-amadeus"
+  },
+  {
+    "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
+    "id": "khudayarovich/onflip-agent",
+    "language": "TypeScript",
+    "name": "khudayarovich/onflip-agent",
+    "stars": 3,
+    "updated_at": "2026-09-15T15:39:45Z",
+    "url": "https://github.com/khudayarovich/onflip-agent"
   },
   {
     "description": "GPT autonomous research and investigation using starintel",
@@ -14,8 +59,26 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-09-15T15:26:19Z",
+    "updated_at": "2026-09-15T15:45:02Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "AI code review with DeepSeek: headless PR review automation that verifies PR descriptions claim-by-claim against real co",
+    "id": "nexpeakcore/deepseek-harness-pr-review",
+    "language": "Python",
+    "name": "nexpeakcore/deepseek-harness-pr-review",
+    "stars": 42,
+    "updated_at": "2026-09-15T15:37:40Z",
+    "url": "https://github.com/nexpeakcore/deepseek-harness-pr-review"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 24,
+    "updated_at": "2026-09-15T15:32:55Z",
+    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Flask + SQLAlchemy + MySQL \u7269\u4e1a\u7ba1\u7406\u5e73\u53f0\uff1a10 \u4e2a\u4e1a\u52a1\u57df\u5168\u6d41\u7a0b\uff0c\u7edf\u4e00\u670d\u52a1\u5c42 + RBAC \u884c\u7ea7\u6570\u636e\u8303\u56f4 + \u5ba1\u8ba1\u7559\u75d5\uff0c\u5185\u7f6e dsh/MCP \u53d7\u63a7 AI Agent\uff0c73 \u4e2a\u5de5\u5177\u6309 R0\u2013R3 \u98ce\u9669\u5206\u7ea7\u4eba\u5de5\u786e\u8ba4\u3002",
@@ -43,15 +106,6 @@
     "stars": 7,
     "updated_at": "2026-09-15T15:20:12Z",
     "url": "https://github.com/Sigmanih/SigmaStudio"
-  },
-  {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-09-15T15:09:37Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
   },
   {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
@@ -171,15 +225,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
-    "id": "khudayarovich/onflip-agent",
-    "language": "TypeScript",
-    "name": "khudayarovich/onflip-agent",
-    "stars": 3,
-    "updated_at": "2026-09-15T14:18:15Z",
-    "url": "https://github.com/khudayarovich/onflip-agent"
-  },
-  {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
@@ -229,7 +274,7 @@
     "id": "feder-cr/AIHawk",
     "language": "Python",
     "name": "feder-cr/AIHawk",
-    "stars": 31592,
+    "stars": 31594,
     "updated_at": "2026-09-15T13:39:49Z",
     "url": "https://github.com/feder-cr/AIHawk"
   },
@@ -304,15 +349,6 @@
     "stars": 1,
     "updated_at": "2026-09-15T13:13:51Z",
     "url": "https://github.com/Jogi-OpenSource/JogiJarvis-Mobile"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 697,
-    "updated_at": "2026-09-15T15:25:34Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-15T11:33:47Z",
     "url": "https://github.com/chunleik/self-analyst"
-  },
-  {
-    "description": "Build an AI Coding Agent from Scratch, Step by Step | \u4ece\u96f6\u4e00\u6b65\u6b65\u642d\u5efa AI \u7f16\u7a0b Agent\uff0c\u8fb9\u5b9e\u73b0\u8fb9\u7406\u89e3 Agent \u7684\u5de5\u4f5c\u539f\u7406",
-    "id": "liiiiiiiiil/agent-from-scratch",
-    "language": "Python",
-    "name": "liiiiiiiiil/agent-from-scratch",
-    "stars": 67,
-    "updated_at": "2026-09-15T11:31:09Z",
-    "url": "https://github.com/liiiiiiiiil/agent-from-scratch"
-  },
-  {
-    "description": "\u5b89\u5168\u4f18\u5148\u7684\u4e2d\u533b\u77e5\u8bc6\u56fe\u8c31 + Agentic GraphRAG \u95ee\u7b54\u7cfb\u7edf | Safety-first TCM knowledge graph with evidence-backed GraphRAG Q&A. Neo4j \u00b7 LangGr",
-    "id": "TR2335/ZY-TCM-Knowledge-Graph",
-    "language": "Python",
-    "name": "TR2335/ZY-TCM-Knowledge-Graph",
-    "stars": 0,
-    "updated_at": "2026-09-15T11:30:52Z",
-    "url": "https://github.com/TR2335/ZY-TCM-Knowledge-Graph"
-  },
-  {
-    "description": "A multi-agent research system for the humanities and social sciences.",
-    "id": "Luciole-Studio/Misaka-Agent",
-    "language": "Python",
-    "name": "Luciole-Studio/Misaka-Agent",
-    "stars": 3,
-    "updated_at": "2026-09-15T11:30:06Z",
-    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
-  },
-  {
-    "description": "Three small experiments that put a language model against ARC-AGI-3 \u2014 fluid intelligence, harness dependence, and long-t",
-    "id": "JoaquinRuiz/agi-tests",
-    "language": "Python",
-    "name": "JoaquinRuiz/agi-tests",
-    "stars": 1,
-    "updated_at": "2026-09-15T11:28:01Z",
-    "url": "https://github.com/JoaquinRuiz/agi-tests"
   }
 ]
