@@ -1,12 +1,48 @@
 [
   {
+    "description": "Amadeus: Whale \u2014 DSH \u9ad8\u6743\u9650 Galgame Mode amadeus + \u72ec\u7acb\u79fb\u52a8\u7aef APP",
+    "id": "saya-ch/dsh-amadeus",
+    "language": "TypeScript",
+    "name": "saya-ch/dsh-amadeus",
+    "stars": 0,
+    "updated_at": "2026-09-15T13:59:47Z",
+    "url": "https://github.com/saya-ch/dsh-amadeus"
+  },
+  {
     "description": "An autopoiesic kefir for computing machines",
     "id": "genaforvena/lte-workstation",
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 8,
-    "updated_at": "2026-09-15T13:45:00Z",
+    "updated_at": "2026-09-15T13:56:50Z",
     "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
+    "id": "PCODE-pl/MCPTap",
+    "language": "Python",
+    "name": "PCODE-pl/MCPTap",
+    "stars": 1,
+    "updated_at": "2026-09-15T13:54:34Z",
+    "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
+    "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
+    "id": "khudayarovich/onflip-agent",
+    "language": "TypeScript",
+    "name": "khudayarovich/onflip-agent",
+    "stars": 3,
+    "updated_at": "2026-09-15T13:53:40Z",
+    "url": "https://github.com/khudayarovich/onflip-agent"
+  },
+  {
+    "description": "\u76d8\u53e4 \u2014 AI Agent \u591a\u6a21\u6001\u8bb0\u5fc6\u7cfb\u7edf\uff1aWing\u2192Room\u2192Drawer \u5206\u5c42\u5b58\u50a8\u3001ONNX \u672c\u5730\u5d4c\u5165\u8bed\u4e49\u68c0\u7d22\uff08SQLite FTS5 + RRF \u878d\u5408\uff09\u3001\u827e\u5bbe\u6d69\u65af\u9057\u5fd8\u66f2\u7ebf\u4e0e\u795e\u7ecf\u6fc0\u6d3b\u6269\u6563\uff1b\u63d0\u4f9b REST API + MCP \u670d\u52a1\uff0c\u9ed8\u8ba4\u66b4",
+    "id": "Mlte0907/pangu",
+    "language": "Python",
+    "name": "Mlte0907/pangu",
+    "stars": 0,
+    "updated_at": "2026-09-15T13:47:54Z",
+    "url": "https://github.com/Mlte0907/pangu"
   },
   {
     "description": "Keep agent CLIs running 7\u00d724 \u2014 supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure",
@@ -32,7 +68,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 28,
-    "updated_at": "2026-09-15T13:41:15Z",
+    "updated_at": "2026-09-15T13:56:46Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -41,7 +77,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-09-15T13:44:01Z",
+    "updated_at": "2026-09-15T13:59:33Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -79,15 +115,6 @@
     "stars": 199,
     "updated_at": "2026-09-15T13:29:42Z",
     "url": "https://github.com/acodercat/cave-agent"
-  },
-  {
-    "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
-    "id": "khudayarovich/onflip-agent",
-    "language": "TypeScript",
-    "name": "khudayarovich/onflip-agent",
-    "stars": 3,
-    "updated_at": "2026-09-15T13:28:48Z",
-    "url": "https://github.com/khudayarovich/onflip-agent"
   },
   {
     "description": "\u7535\u5546\u5e73\u53f0\u5546\u54c1\u5185\u5bb9\u6cbb\u7406\u7684\u590d\u6742\u98ce\u9669\u8c03\u67e5 Agent\uff1aLangGraph \u591a\u6b65\u8c03\u67e5 + \u786e\u5b9a\u6027 Decision Gate\uff0c\u8f93\u51fa PASS / REJECT / HUMAN_REVIEW\uff1b\u5168\u94fe\u8def\u786e\u5b9a\u6027\u53ef\u91cd\u653e\u8bc4\u6d4b",
@@ -135,15 +162,6 @@
     "url": "https://github.com/Jogi-OpenSource/JogiJarvis-Mobile"
   },
   {
-    "description": "\u76d8\u53e4 \u2014 AI Agent \u591a\u6a21\u6001\u8bb0\u5fc6\u7cfb\u7edf\uff1aWing\u2192Room\u2192Drawer \u5206\u5c42\u5b58\u50a8\u3001ONNX \u672c\u5730\u5d4c\u5165\u8bed\u4e49\u68c0\u7d22\uff08SQLite FTS5 + RRF \u878d\u5408\uff09\u3001\u827e\u5bbe\u6d69\u65af\u9057\u5fd8\u66f2\u7ebf\u4e0e\u795e\u7ecf\u6fc0\u6d3b\u6269\u6563\uff1b\u63d0\u4f9b REST API + MCP \u670d\u52a1\uff0c\u9ed8\u8ba4\u66b4",
-    "id": "Mlte0907/pangu",
-    "language": "Python",
-    "name": "Mlte0907/pangu",
-    "stars": 0,
-    "updated_at": "2026-09-15T13:13:38Z",
-    "url": "https://github.com/Mlte0907/pangu"
-  },
-  {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
@@ -187,15 +205,6 @@
     "stars": 13,
     "updated_at": "2026-09-15T13:21:18Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-09-15T12:47:39Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
   },
   {
     "description": "\u6295\u8d44\u79c1\u4eba\u7ba1\u5bb6 \u00b7 A\u80a1\u57fa\u91d1 AI \u79c1\u4eba\u987e\u95ee\uff08Invest Concierge \u2014 A-share & fund AI personal investment assistant\uff09",
@@ -247,8 +256,8 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 3366,
-    "updated_at": "2026-09-15T11:59:52Z",
+    "stars": 3367,
+    "updated_at": "2026-09-15T13:55:48Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -283,7 +292,7 @@
     "id": "liiiiiiiiil/agent-from-scratch",
     "language": "Python",
     "name": "liiiiiiiiil/agent-from-scratch",
-    "stars": 65,
+    "stars": 67,
     "updated_at": "2026-09-15T11:31:09Z",
     "url": "https://github.com/liiiiiiiiil/agent-from-scratch"
   },
@@ -365,7 +374,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 808,
-    "updated_at": "2026-09-15T13:40:31Z",
+    "updated_at": "2026-09-15T13:54:35Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -391,7 +400,7 @@
     "id": "atria-asi/Atria-Dawn-Preview",
     "language": "\u2014",
     "name": "atria-asi/Atria-Dawn-Preview",
-    "stars": 250,
+    "stars": 255,
     "updated_at": "2026-09-15T10:36:43Z",
     "url": "https://github.com/atria-asi/Atria-Dawn-Preview"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-15T10:26:30Z",
     "url": "https://github.com/Matt9x/kairos-agent-memory"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-09-15T10:11:35Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   }
 ]
