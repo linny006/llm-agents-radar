@@ -1,12 +1,66 @@
 [
   {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 1,
+    "updated_at": "2026-09-15T10:14:35Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "",
+    "id": "atria-asi/Atria-Dawn-Preview",
+    "language": "\u2014",
+    "name": "atria-asi/Atria-Dawn-Preview",
+    "stars": 211,
+    "updated_at": "2026-09-15T10:12:52Z",
+    "url": "https://github.com/atria-asi/Atria-Dawn-Preview"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-15T10:11:35Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
     "id": "chunleik/self-analyst",
     "language": "Java",
     "name": "chunleik/self-analyst",
     "stars": 0,
-    "updated_at": "2026-09-15T09:59:27Z",
+    "updated_at": "2026-09-15T10:10:26Z",
     "url": "https://github.com/chunleik/self-analyst"
+  },
+  {
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 106,
+    "updated_at": "2026-09-15T10:08:13Z",
+    "url": "https://github.com/AVADSA25/codec"
+  },
+  {
+    "description": "AI customer support agent for AppleSupport using intent classification via clustering (K-Means), RAG-grounded reply gene",
+    "id": "Amar-7778/Customer-Support-Agent-Apple-Support-",
+    "language": "Python",
+    "name": "Amar-7778/Customer-Support-Agent-Apple-Support-",
+    "stars": 0,
+    "updated_at": "2026-09-15T10:06:43Z",
+    "url": "https://github.com/Amar-7778/Customer-Support-Agent-Apple-Support-"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3360,
+    "updated_at": "2026-09-15T10:07:53Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -18,30 +72,12 @@
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
-    "description": "",
-    "id": "atria-asi/Atria-Dawn-Preview",
-    "language": "\u2014",
-    "name": "atria-asi/Atria-Dawn-Preview",
-    "stars": 210,
-    "updated_at": "2026-09-15T09:58:25Z",
-    "url": "https://github.com/atria-asi/Atria-Dawn-Preview"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 1,
-    "updated_at": "2026-09-15T09:59:59Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 696,
-    "updated_at": "2026-09-15T09:56:32Z",
+    "updated_at": "2026-09-15T10:00:45Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -52,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-15T09:56:30Z",
     "url": "https://github.com/Matt9x/veritas-agent"
-  },
-  {
-    "description": "AI customer support agent for AppleSupport using intent classification via clustering (K-Means), RAG-grounded reply gene",
-    "id": "Amar-7778/Customer-Support-Agent-Apple-Support-",
-    "language": "Python",
-    "name": "Amar-7778/Customer-Support-Agent-Apple-Support-",
-    "stars": 0,
-    "updated_at": "2026-09-15T09:54:39Z",
-    "url": "https://github.com/Amar-7778/Customer-Support-Agent-Apple-Support-"
   },
   {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
@@ -95,7 +122,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-15T09:47:06Z",
+    "updated_at": "2026-09-15T10:06:40Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -122,7 +149,7 @@
     "language": "Python",
     "name": "titanwings/distilly",
     "stars": 24760,
-    "updated_at": "2026-09-15T09:36:36Z",
+    "updated_at": "2026-09-15T10:06:29Z",
     "url": "https://github.com/titanwings/distilly"
   },
   {
@@ -167,7 +194,7 @@
     "language": "Rust",
     "name": "citizenhicks/mobius",
     "stars": 1,
-    "updated_at": "2026-09-15T09:46:36Z",
+    "updated_at": "2026-09-15T10:01:05Z",
     "url": "https://github.com/citizenhicks/mobius"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-15T08:49:00Z",
     "url": "https://github.com/Matt9x/kairos-agent-memory"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
-    "id": "hasting323/AutoGLM-For-Android",
-    "language": "Kotlin",
-    "name": "hasting323/AutoGLM-For-Android",
-    "stars": 11,
-    "updated_at": "2026-09-15T08:46:12Z",
-    "url": "https://github.com/hasting323/AutoGLM-For-Android"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-09-15T08:44:48Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-09-15T08:43:09Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
   }
 ]
