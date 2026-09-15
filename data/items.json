@@ -1,5 +1,50 @@
 [
   {
+    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
+    "id": "PCODE-pl/MCPTap",
+    "language": "Python",
+    "name": "PCODE-pl/MCPTap",
+    "stars": 1,
+    "updated_at": "2026-09-15T15:09:37Z",
+    "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-09-15T15:08:09Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 28,
+    "updated_at": "2026-09-15T15:04:39Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Amadeus \u2014 DSH Galgame Mode + \u72ec\u7acb\u79fb\u52a8\u7aef APP",
+    "id": "saya-ch/dsh-amadeus",
+    "language": "TypeScript",
+    "name": "saya-ch/dsh-amadeus",
+    "stars": 0,
+    "updated_at": "2026-09-15T15:03:41Z",
+    "url": "https://github.com/saya-ch/dsh-amadeus"
+  },
+  {
+    "description": "\u26a1 Rotom \u2014 \u81ea\u52a8\u5316 CTF \u7b54\u9898 Agent:\u9ed1\u677f\u534f\u540c \u00b7 \u5e7f\u5ea6\u4f18\u5148\u8c03\u5ea6 \u00b7 \u5168\u7a0b\u5ba1\u8ba1\u3002\u50cf\u6d1b\u6258\u59c6\u4e00\u6837,\u6f5c\u5165\u54ea\u7c7b\u9898,\u5c31\u957f\u6210\u89e3\u51b3\u5b83\u7684\u5f62\u72b6",
+    "id": "JerryXie599/Rotom",
+    "language": "Python",
+    "name": "JerryXie599/Rotom",
+    "stars": 0,
+    "updated_at": "2026-09-15T15:02:25Z",
+    "url": "https://github.com/JerryXie599/Rotom"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -13,7 +58,7 @@
     "id": "helixml/helix",
     "language": "Go",
     "name": "helixml/helix",
-    "stars": 808,
+    "stars": 809,
     "updated_at": "2026-09-15T15:00:36Z",
     "url": "https://github.com/helixml/helix"
   },
@@ -32,7 +77,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-09-15T15:01:50Z",
+    "updated_at": "2026-09-15T15:14:52Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -43,24 +88,6 @@
     "stars": 11,
     "updated_at": "2026-09-15T14:56:05Z",
     "url": "https://github.com/alhermann/openPASO"
-  },
-  {
-    "description": "\u26a1 Rotom \u2014 \u81ea\u52a8\u5316 CTF \u7b54\u9898 Agent:\u9ed1\u677f\u534f\u540c \u00b7 \u5e7f\u5ea6\u4f18\u5148\u8c03\u5ea6 \u00b7 \u5168\u7a0b\u5ba1\u8ba1\u3002\u50cf\u6d1b\u6258\u59c6\u4e00\u6837,\u6f5c\u5165\u54ea\u7c7b\u9898,\u5c31\u957f\u6210\u89e3\u51b3\u5b83\u7684\u5f62\u72b6",
-    "id": "JerryXie599/Rotom",
-    "language": "Python",
-    "name": "JerryXie599/Rotom",
-    "stars": 0,
-    "updated_at": "2026-09-15T14:55:24Z",
-    "url": "https://github.com/JerryXie599/Rotom"
-  },
-  {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-09-15T14:50:58Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
   },
   {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
@@ -135,15 +162,6 @@
     "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
-    "description": "Amadeus \u2014 DSH Galgame Mode + \u72ec\u7acb\u79fb\u52a8\u7aef APP",
-    "id": "saya-ch/dsh-amadeus",
-    "language": "TypeScript",
-    "name": "saya-ch/dsh-amadeus",
-    "stars": 0,
-    "updated_at": "2026-09-15T14:02:16Z",
-    "url": "https://github.com/saya-ch/dsh-amadeus"
-  },
-  {
     "description": "An autopoiesic kefir for computing machines",
     "id": "genaforvena/lte-workstation",
     "language": "Shell",
@@ -178,15 +196,6 @@
     "stars": 4,
     "updated_at": "2026-09-15T13:42:53Z",
     "url": "https://github.com/wan9yu/cli-agent-runner"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 28,
-    "updated_at": "2026-09-15T14:52:48Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and compu",
@@ -365,7 +374,7 @@
     "language": "Python",
     "name": "expectedparrot/edsl",
     "stars": 496,
-    "updated_at": "2026-09-15T11:35:03Z",
+    "updated_at": "2026-09-15T15:04:18Z",
     "url": "https://github.com/expectedparrot/edsl"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 24761,
     "updated_at": "2026-09-15T14:59:34Z",
     "url": "https://github.com/titanwings/distilly"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 130,
-    "updated_at": "2026-09-15T11:05:21Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   }
 ]
