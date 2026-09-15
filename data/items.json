@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "Furox-Art/axiomize-quantum-skills-2.0",
     "stars": 0,
-    "updated_at": "2026-09-15T23:23:33Z",
+    "updated_at": "2026-09-15T23:44:57Z",
     "url": "https://github.com/Furox-Art/axiomize-quantum-skills-2.0"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-09-15T23:41:42Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Agent \u91cd\u67b6\u6784\uff1a\u8fc8\u5411\u4e0a\u4e0b\u6587\u539f\u751f\u667a\u80fd\uff08Context-Native Agent\uff09\u2014\u2014 \u4e2d\u6587\u957f\u6587\u4e0e\u53ef\u590d\u7b97\u7684\u6392\u7248\u6784\u5efa\u94fe\uff08Markdown \u2192 \u81ea\u5305\u542b HTML \u2192 A4 PDF\uff09",
+    "id": "54shitaimzf/context-native-agent",
+    "language": "Markdown",
+    "name": "54shitaimzf/context-native-agent",
+    "stars": 1,
+    "updated_at": "2026-09-15T23:37:38Z",
+    "url": "https://github.com/54shitaimzf/context-native-agent"
   },
   {
     "description": "An autopoiesic kefir for computing machines",
@@ -14,8 +32,17 @@
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 8,
-    "updated_at": "2026-09-15T23:21:51Z",
+    "updated_at": "2026-09-15T23:36:57Z",
     "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "\ud83e\udd16 \u65b0\u4e00\u4ee3\u5f00\u6e90 Chrome \u4fa7\u8fb9\u680f\u81ea\u4e3b AI \u6d4f\u89c8\u5668\u667a\u80fd\u4f53\uff1a\u76ee\u6807\u9a71\u52a8\u3001\u957f\u7a0b\u89c4\u5212\u3001\u89c6\u89c9\u7a7a\u95f4\u611f\u77e5\u4e0e\u7269\u7406\u7ea7\u64cd\u63a7\uff0c\u652f\u6301 DeepSeek \u601d\u8003\u6a21\u578b\u4e0e\u672c\u5730\u79bb\u7ebf LLM (BYOK)",
+    "id": "lusipad/browser-agent",
+    "language": "TypeScript",
+    "name": "lusipad/browser-agent",
+    "stars": 1,
+    "updated_at": "2026-09-15T23:36:34Z",
+    "url": "https://github.com/lusipad/browser-agent"
   },
   {
     "description": "Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de",
@@ -216,15 +243,6 @@
     "url": "https://github.com/Tonyx79/clov-ai"
   },
   {
-    "description": "Agent \u91cd\u67b6\u6784\uff1a\u8fc8\u5411\u4e0a\u4e0b\u6587\u539f\u751f\u667a\u80fd\uff08Context-Native Agent\uff09\u2014\u2014 \u4e2d\u6587\u957f\u6587\u4e0e\u53ef\u590d\u7b97\u7684\u6392\u7248\u6784\u5efa\u94fe\uff08Markdown \u2192 \u81ea\u5305\u542b HTML \u2192 A4 PDF\uff09",
-    "id": "54shitaimzf/context-native-agent",
-    "language": "Markdown",
-    "name": "54shitaimzf/context-native-agent",
-    "stars": 1,
-    "updated_at": "2026-09-15T23:01:00Z",
-    "url": "https://github.com/54shitaimzf/context-native-agent"
-  },
-  {
     "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
     "id": "Victongo/ai-daily-news",
     "language": "Ruby",
@@ -304,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-09-15T22:47:12Z",
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "\ud83e\udd16 \u65b0\u4e00\u4ee3\u5f00\u6e90 Chrome \u4fa7\u8fb9\u680f\u81ea\u4e3b AI \u6d4f\u89c8\u5668\u667a\u80fd\u4f53\uff1a\u76ee\u6807\u9a71\u52a8\u3001\u957f\u7a0b\u89c4\u5212\u3001\u89c6\u89c9\u7a7a\u95f4\u611f\u77e5\u4e0e\u7269\u7406\u7ea7\u64cd\u63a7\uff0c\u652f\u6301 DeepSeek \u601d\u8003\u6a21\u578b\u4e0e\u672c\u5730\u79bb\u7ebf LLM (BYOK)",
-    "id": "lusipad/browser-agent",
-    "language": "TypeScript",
-    "name": "lusipad/browser-agent",
-    "stars": 1,
-    "updated_at": "2026-09-15T22:43:17Z",
-    "url": "https://github.com/lusipad/browser-agent"
   },
   {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
@@ -430,15 +439,6 @@
     "stars": 3,
     "updated_at": "2026-09-15T21:40:30Z",
     "url": "https://github.com/khudayarovich/onflip-agent"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-09-15T21:37:29Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
