@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-15 08:15 UTC
+> ⏰ Last updated: 2026-09-15 08:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,35 +42,35 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [54shitaimzf/context-native-agent](https://github.com/54shitaimzf/context-native-agent) | 0 | Markdown | 2026-09-15 | Agent 重架构：迈向上下文原生智能（Context-Native Agent）—— 中文长文与可复算的排版构建链（Markdown → 自包含 HTML → A4 PDF） |
-| 2 | [JSL107/personal_agents](https://github.com/JSL107/personal_agents) | 0 | TypeScript | 2026-09-15 | Slack 에서 PM · 백엔드 · 코드리뷰어 · CTO 역할을 나눠 맡는 멀티 에이전트 업무 자동화 봇 |
-| 3 | [lost-rob0t/starintel-gpt-auto-dig](https://github.com/lost-rob0t/starintel-gpt-auto-dig) | 1 | Python | 2026-09-15 | GPT autonomous research and investigation using starintel |
-| 4 | [camel-ai/tokin](https://github.com/camel-ai/tokin) | 3 | Python | 2026-09-15 | Make any agent harness token-native. |
-| 5 | [titanwings/distilly](https://github.com/titanwings/distilly) | 24750 | Python | 2026-09-15 | Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）. |
-| 6 | [ravisinghrajput95/kubewhy](https://github.com/ravisinghrajput95/kubewhy) | 0 | Python | 2026-09-15 | Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why — a local LLM read |
-| 7 | [kimi0hhhh/project-orchestrator-skill](https://github.com/kimi0hhhh/project-orchestrator-skill) | 2 | Python | 2026-09-15 | 多 Agent 协作开发框架：项目负责人 + 6 单责角色 + 阶段门禁 + 实时看板 · 单写手 + 只读参谋 · 四实现（ZCode/OpenCode/WorkBuddy/Universal） ｜ Multi-agent deliver |
-| 8 | [helixml/helix](https://github.com/helixml/helix) | 808 | Go | 2026-09-15 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
-| 9 | [Mlte0907/pangu](https://github.com/Mlte0907/pangu) | 0 | Python | 2026-09-15 | 盘古 — AI Agent 多模态记忆系统：Wing→Room→Drawer 分层存储、ONNX 本地嵌入语义检索（SQLite FTS5 + RRF 融合）、艾宾浩斯遗忘曲线与神经激活扩散；提供 REST API + MCP 服务，默认暴 |
-| 10 | [liyao13-sketch/OpenNano](https://github.com/liyao13-sketch/OpenNano) | 0 | Python | 2026-09-15 | Organizational-memory system for micro/nano fabrication: executable process-flow canvas, LLM agent, reliability-scored k |
-| 11 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 694 | JavaScript | 2026-09-15 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
-| 12 | [Jason-Hsia/envspec-agent](https://github.com/Jason-Hsia/envspec-agent) | 0 | HTML | 2026-09-15 | 环保规范检索 Agent：面向生态环境标准的 RAG + Tool Use 问答，带四层评测闭环与时效性一票否决｜零依赖可跑通，含可交互前端 Demo |
-| 13 | [liiiiiiiiil/agent-from-scratch](https://github.com/liiiiiiiiil/agent-from-scratch) | 62 | Python | 2026-09-15 | Build an AI Coding Agent from Scratch, Step by Step \| 从零一步步搭建 AI 编程 Agent，边实现边理解 Agent 的工作原理 |
-| 14 | [ZekaiShi/evo-subagent](https://github.com/ZekaiShi/evo-subagent) | 8 | JavaScript | 2026-09-15 | Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/ |
-| 15 | [tom-cat-mao/TaskWizard](https://github.com/tom-cat-mao/TaskWizard) | 0 | Python | 2026-09-15 | TaskWizard：薄环（thin-loop）LLM 安卓手机智能体 — 每步一次模型调用、marks-first 落地、安全预警制、App-KB 自积累记忆、经验回想（RAG shadow）。Thin-loop LLM Android  |
-| 16 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 13 | Go | 2026-09-15 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
-| 17 | [Cyrax321/CONTINUUM](https://github.com/Cyrax321/CONTINUUM) | 28 | Python | 2026-09-15 | CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id |
-| 18 | [80x24/nuanua](https://github.com/80x24/nuanua) | 0 | TypeScript | 2026-09-15 | 메신저로 대화하는 나만의 AI 에이전트 — claude -p를 구독 인증으로 감싸 추가 비용 없이 돌리는 personal agent harness (Hermes 5기둥 + 승인 게이트 drift 방지) |
-| 19 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 31692 | Python | 2026-09-15 | Build and run agents you can see, understand and trust. |
-| 20 | [atria-asi/Atria-Dawn-Preview](https://github.com/atria-asi/Atria-Dawn-Preview) | 182 | — | 2026-09-15 |  |
-| 21 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 126 | HTML | 2026-09-15 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 22 | [Matt9x/kairos-agent-memory](https://github.com/Matt9x/kairos-agent-memory) | 0 | JavaScript | 2026-09-15 | An experimental agent-memory prototype with confirmation, provenance tracking, invalidation, conservative retrieval, and |
-| 23 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 3 | HTML | 2026-09-15 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 24 | [Bowen-0x00/mail-assist](https://github.com/Bowen-0x00/mail-assist) | 1 | Python | 2026-09-15 | AI-powered multi-mailbox monitoring agent (Gmail, QQ, Edu) with WeChat instant notifications & arXiv/Scholar paper readi |
-| 25 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 24 | Python | 2026-09-15 | A productive AI coworker that learns, self-improves, and ships work. |
-| 26 | [mala77liu/agent-demo](https://github.com/mala77liu/agent-demo) | 0 | Python | 2026-09-15 | 一个将「游戏录屏」转化为「可复现自动化脚本」的 Windows 桌面流水线。多模态模型理解界面生成步骤，人工确认后产出离线配置。运行时 0 token，纯本地模板匹配与键鼠回放，不修改游戏内存/文件。仅供桌面自动化技术学习与效率工具研究，自 |
-| 27 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 3357 | Python | 2026-09-15 | SRE Agent - CNCF Sandbox Project |
-| 28 | [OtakuNathan/Pal](https://github.com/OtakuNathan/Pal) | 2 | Python | 2026-09-15 | A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger,  |
-| 29 | [agentpit-io/hunter-community](https://github.com/agentpit-io/hunter-community) | 509 | Python | 2026-09-15 | HunterCode · 腾讯 WorkBuddy 金融版的开源本地替代方案 · open-source, local alternative to Tencent WorkBuddy Finance Edition · 多智能体投研终端  |
+| 1 | [agentpit-io/hunter-community](https://github.com/agentpit-io/hunter-community) | 509 | Python | 2026-09-15 | HunterCode · 腾讯 WorkBuddy 金融版的开源本地替代方案 · open-source, local alternative to Tencent WorkBuddy Finance Edition · 多智能体投研终端  |
+| 2 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 24 | Python | 2026-09-15 | A productive AI coworker that learns, self-improves, and ships work. |
+| 3 | [54shitaimzf/context-native-agent](https://github.com/54shitaimzf/context-native-agent) | 0 | Markdown | 2026-09-15 | Agent 重架构：迈向上下文原生智能（Context-Native Agent）—— 中文长文与可复算的排版构建链（Markdown → 自包含 HTML → A4 PDF） |
+| 4 | [lost-rob0t/starintel-gpt-auto-dig](https://github.com/lost-rob0t/starintel-gpt-auto-dig) | 1 | Python | 2026-09-15 | GPT autonomous research and investigation using starintel |
+| 5 | [camel-ai/tokin](https://github.com/camel-ai/tokin) | 3 | Python | 2026-09-15 | Make any agent harness token-native. |
+| 6 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 694 | JavaScript | 2026-09-15 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
+| 7 | [JSL107/personal_agents](https://github.com/JSL107/personal_agents) | 0 | TypeScript | 2026-09-15 | Slack 에서 PM · 백엔드 · 코드리뷰어 · CTO 역할을 나눠 맡는 멀티 에이전트 업무 자동화 봇 |
+| 8 | [titanwings/distilly](https://github.com/titanwings/distilly) | 24750 | Python | 2026-09-15 | Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）. |
+| 9 | [ravisinghrajput95/kubewhy](https://github.com/ravisinghrajput95/kubewhy) | 0 | Python | 2026-09-15 | Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why — a local LLM read |
+| 10 | [kimi0hhhh/project-orchestrator-skill](https://github.com/kimi0hhhh/project-orchestrator-skill) | 2 | Python | 2026-09-15 | 多 Agent 协作开发框架：项目负责人 + 6 单责角色 + 阶段门禁 + 实时看板 · 单写手 + 只读参谋 · 四实现（ZCode/OpenCode/WorkBuddy/Universal） ｜ Multi-agent deliver |
+| 11 | [helixml/helix](https://github.com/helixml/helix) | 808 | Go | 2026-09-15 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
+| 12 | [Mlte0907/pangu](https://github.com/Mlte0907/pangu) | 0 | Python | 2026-09-15 | 盘古 — AI Agent 多模态记忆系统：Wing→Room→Drawer 分层存储、ONNX 本地嵌入语义检索（SQLite FTS5 + RRF 融合）、艾宾浩斯遗忘曲线与神经激活扩散；提供 REST API + MCP 服务，默认暴 |
+| 13 | [liyao13-sketch/OpenNano](https://github.com/liyao13-sketch/OpenNano) | 0 | Python | 2026-09-15 | Organizational-memory system for micro/nano fabrication: executable process-flow canvas, LLM agent, reliability-scored k |
+| 14 | [Jason-Hsia/envspec-agent](https://github.com/Jason-Hsia/envspec-agent) | 0 | HTML | 2026-09-15 | 环保规范检索 Agent：面向生态环境标准的 RAG + Tool Use 问答，带四层评测闭环与时效性一票否决｜零依赖可跑通，含可交互前端 Demo |
+| 15 | [liiiiiiiiil/agent-from-scratch](https://github.com/liiiiiiiiil/agent-from-scratch) | 62 | Python | 2026-09-15 | Build an AI Coding Agent from Scratch, Step by Step \| 从零一步步搭建 AI 编程 Agent，边实现边理解 Agent 的工作原理 |
+| 16 | [ZekaiShi/evo-subagent](https://github.com/ZekaiShi/evo-subagent) | 8 | JavaScript | 2026-09-15 | Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/ |
+| 17 | [tom-cat-mao/TaskWizard](https://github.com/tom-cat-mao/TaskWizard) | 0 | Python | 2026-09-15 | TaskWizard：薄环（thin-loop）LLM 安卓手机智能体 — 每步一次模型调用、marks-first 落地、安全预警制、App-KB 自积累记忆、经验回想（RAG shadow）。Thin-loop LLM Android  |
+| 18 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 13 | Go | 2026-09-15 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
+| 19 | [Cyrax321/CONTINUUM](https://github.com/Cyrax321/CONTINUUM) | 28 | Python | 2026-09-15 | CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id |
+| 20 | [80x24/nuanua](https://github.com/80x24/nuanua) | 0 | TypeScript | 2026-09-15 | 메신저로 대화하는 나만의 AI 에이전트 — claude -p를 구독 인증으로 감싸 추가 비용 없이 돌리는 personal agent harness (Hermes 5기둥 + 승인 게이트 drift 방지) |
+| 21 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 31695 | Python | 2026-09-15 | Build and run agents you can see, understand and trust. |
+| 22 | [atria-asi/Atria-Dawn-Preview](https://github.com/atria-asi/Atria-Dawn-Preview) | 185 | — | 2026-09-15 |  |
+| 23 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 126 | HTML | 2026-09-15 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 24 | [Matt9x/kairos-agent-memory](https://github.com/Matt9x/kairos-agent-memory) | 0 | JavaScript | 2026-09-15 | An experimental agent-memory prototype with confirmation, provenance tracking, invalidation, conservative retrieval, and |
+| 25 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 3 | HTML | 2026-09-15 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 26 | [Bowen-0x00/mail-assist](https://github.com/Bowen-0x00/mail-assist) | 1 | Python | 2026-09-15 | AI-powered multi-mailbox monitoring agent (Gmail, QQ, Edu) with WeChat instant notifications & arXiv/Scholar paper readi |
+| 27 | [mala77liu/agent-demo](https://github.com/mala77liu/agent-demo) | 0 | Python | 2026-09-15 | 一个将「游戏录屏」转化为「可复现自动化脚本」的 Windows 桌面流水线。多模态模型理解界面生成步骤，人工确认后产出离线配置。运行时 0 token，纯本地模板匹配与键鼠回放，不修改游戏内存/文件。仅供桌面自动化技术学习与效率工具研究，自 |
+| 28 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 3357 | Python | 2026-09-15 | SRE Agent - CNCF Sandbox Project |
+| 29 | [OtakuNathan/Pal](https://github.com/OtakuNathan/Pal) | 2 | Python | 2026-09-15 | A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger,  |
 | 30 | [jack-h-park/pm-intelligence-engine](https://github.com/jack-h-park/pm-intelligence-engine) | 0 | Python | 2026-09-15 | This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei |
 | 31 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-09-15 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
 | 32 | [karvidsson/kbots](https://github.com/karvidsson/kbots) | 1 | Python | 2026-09-15 | Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme |
