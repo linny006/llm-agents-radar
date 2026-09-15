@@ -1,12 +1,12 @@
 [
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
     "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-15T03:28:11Z",
-    "url": "https://github.com/tomcounsell/ai"
+    "name": "Fzkuji/OpenProgram",
+    "stars": 482,
+    "updated_at": "2026-09-15T03:41:35Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
@@ -14,8 +14,35 @@
     "language": "Java",
     "name": "chunleik/self-analyst",
     "stars": 0,
-    "updated_at": "2026-09-15T03:28:08Z",
+    "updated_at": "2026-09-15T03:41:32Z",
     "url": "https://github.com/chunleik/self-analyst"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 31668,
+    "updated_at": "2026-09-15T03:38:04Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5760,
+    "updated_at": "2026-09-15T03:37:07Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 24,
+    "updated_at": "2026-09-15T03:36:24Z",
+    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
@@ -148,7 +175,7 @@
     "id": "mnemon-dev/mnemon",
     "language": "Go",
     "name": "mnemon-dev/mnemon",
-    "stars": 575,
+    "stars": 576,
     "updated_at": "2026-09-15T03:00:08Z",
     "url": "https://github.com/mnemon-dev/mnemon"
   },
@@ -351,15 +378,6 @@
     "url": "https://github.com/wan9yu/cli-agent-runner"
   },
   {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5760,
-    "updated_at": "2026-09-15T02:58:22Z",
-    "url": "https://github.com/areal-project/AReaL"
-  },
-  {
     "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
     "id": "kyleslight/shun",
     "language": "TypeScript",
@@ -385,15 +403,6 @@
     "stars": 31576,
     "updated_at": "2026-09-15T02:21:12Z",
     "url": "https://github.com/feder-cr/AIHawk"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 31666,
-    "updated_at": "2026-09-15T02:20:22Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
@@ -439,14 +448,5 @@
     "stars": 9,
     "updated_at": "2026-09-15T01:57:41Z",
     "url": "https://github.com/Lion-1209/coderio"
-  },
-  {
-    "description": "A multi-agent OS for your phone: Claude Code and the Codex CLI running natively on Android in their own Debian userland ",
-    "id": "Jogi-OpenSource/JogiJarvis-Mobile",
-    "language": "Kotlin",
-    "name": "Jogi-OpenSource/JogiJarvis-Mobile",
-    "stars": 1,
-    "updated_at": "2026-09-15T01:43:41Z",
-    "url": "https://github.com/Jogi-OpenSource/JogiJarvis-Mobile"
   }
 ]
