@@ -1,12 +1,30 @@
 [
   {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
     "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 482,
-    "updated_at": "2026-09-15T03:41:35Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
+    "name": "agentscope-ai/agentscope",
+    "stars": 31669,
+    "updated_at": "2026-09-15T03:56:57Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5953,
+    "updated_at": "2026-09-15T03:56:38Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "AI-powered social radar agent monitoring Zhihu & X for high-value tech insights with WeChat instant notifications & anti",
+    "id": "Bowen-0x00/social-radar",
+    "language": "Python",
+    "name": "Bowen-0x00/social-radar",
+    "stars": 0,
+    "updated_at": "2026-09-15T03:51:15Z",
+    "url": "https://github.com/Bowen-0x00/social-radar"
   },
   {
     "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
@@ -14,17 +32,35 @@
     "language": "Java",
     "name": "chunleik/self-analyst",
     "stars": 0,
-    "updated_at": "2026-09-15T03:41:32Z",
+    "updated_at": "2026-09-15T03:50:20Z",
     "url": "https://github.com/chunleik/self-analyst"
   },
   {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
+    "description": "\u4e13\u4e3a\u300a\u539f\u795e\u300b\u6253\u9020\u2014\u2014\u5229\u7528\u89c6\u89c9 AI \u4ee3\u7406\u8fdb\u884c\u4e91\u6e38\u620f\uff0c\u8ba9\u60a8\u65e0\u9700\u4eb2\u81ea\u64cd\u4f5c",
+    "id": "caterpi11ar/giclaw",
+    "language": "TypeScript",
+    "name": "caterpi11ar/giclaw",
+    "stars": 7,
+    "updated_at": "2026-09-15T03:46:12Z",
+    "url": "https://github.com/caterpi11ar/giclaw"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
     "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 31668,
-    "updated_at": "2026-09-15T03:38:04Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
+    "name": "tomcounsell/ai",
+    "stars": 24,
+    "updated_at": "2026-09-15T03:57:47Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 482,
+    "updated_at": "2026-09-15T03:46:58Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
@@ -34,15 +70,6 @@
     "stars": 5760,
     "updated_at": "2026-09-15T03:37:07Z",
     "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-15T03:36:24Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
@@ -149,7 +176,7 @@
     "language": "Rust",
     "name": "citizenhicks/mobius",
     "stars": 1,
-    "updated_at": "2026-09-15T03:27:56Z",
+    "updated_at": "2026-09-15T03:45:16Z",
     "url": "https://github.com/citizenhicks/mobius"
   },
   {
@@ -400,7 +427,7 @@
     "id": "feder-cr/AIHawk",
     "language": "Python",
     "name": "feder-cr/AIHawk",
-    "stars": 31576,
+    "stars": 31577,
     "updated_at": "2026-09-15T02:21:12Z",
     "url": "https://github.com/feder-cr/AIHawk"
   },
@@ -419,34 +446,7 @@
     "language": "Python",
     "name": "jack-h-park/pm-intelligence-engine",
     "stars": 0,
-    "updated_at": "2026-09-15T02:13:50Z",
+    "updated_at": "2026-09-15T03:51:50Z",
     "url": "https://github.com/jack-h-park/pm-intelligence-engine"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-09-15T02:11:42Z",
-    "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "HunterCode \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance Edition \u00b7 \u591a\u667a\u80fd\u4f53\u6295\u7814\u7ec8\u7aef ",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 509,
-    "updated_at": "2026-09-15T02:08:10Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
-  },
-  {
-    "description": "Local coding agent with native Zhipu GLM / StepFun Step Coding-Plan support. Four hard gates \u2014 the agent can't claim don",
-    "id": "Lion-1209/coderio",
-    "language": "Python",
-    "name": "Lion-1209/coderio",
-    "stars": 9,
-    "updated_at": "2026-09-15T01:57:41Z",
-    "url": "https://github.com/Lion-1209/coderio"
   }
 ]
