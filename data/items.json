@@ -1,11 +1,29 @@
 [
   {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 1,
+    "updated_at": "2026-09-15T00:27:04Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
+    "language": "Python",
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-09-15T00:26:32Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
     "description": "HunterCode \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance Edition \u00b7 \u591a\u667a\u80fd\u4f53\u6295\u7814\u7ec8\u7aef ",
     "id": "agentpit-io/hunter-community",
     "language": "Python",
     "name": "agentpit-io/hunter-community",
     "stars": 509,
-    "updated_at": "2026-09-15T00:15:02Z",
+    "updated_at": "2026-09-15T00:21:03Z",
     "url": "https://github.com/agentpit-io/hunter-community"
   },
   {
@@ -14,17 +32,17 @@
     "language": "TypeScript",
     "name": "lusipad/browser-agent",
     "stars": 1,
-    "updated_at": "2026-09-15T00:14:09Z",
+    "updated_at": "2026-09-15T00:18:55Z",
     "url": "https://github.com/lusipad/browser-agent"
   },
   {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 1,
-    "updated_at": "2026-09-15T00:13:09Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 130,
+    "updated_at": "2026-09-15T00:17:09Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -59,7 +77,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-15T00:00:37Z",
+    "updated_at": "2026-09-15T00:28:27Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-14T21:51:31Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
-    "id": "ljedrz/nachalnik",
-    "language": "Rust",
-    "name": "ljedrz/nachalnik",
-    "stars": 4,
-    "updated_at": "2026-09-14T21:48:19Z",
-    "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
-    "description": "A marketing analyst agent: business question in, analyst-grade SQL, deterministic attribution, and a cited interpretatio",
-    "id": "Lekh007/touchline",
-    "language": "Python",
-    "name": "Lekh007/touchline",
-    "stars": 0,
-    "updated_at": "2026-09-14T21:44:49Z",
-    "url": "https://github.com/Lekh007/touchline"
   }
 ]
