@@ -1,5 +1,41 @@
 [
   {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 130,
+    "updated_at": "2026-09-15T19:59:16Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-15T19:46:57Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 106,
+    "updated_at": "2026-09-15T19:46:56Z",
+    "url": "https://github.com/AVADSA25/codec"
+  },
+  {
+    "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
+    "id": "khudayarovich/onflip-agent",
+    "language": "TypeScript",
+    "name": "khudayarovich/onflip-agent",
+    "stars": 3,
+    "updated_at": "2026-09-15T19:46:53Z",
+    "url": "https://github.com/khudayarovich/onflip-agent"
+  },
+  {
     "description": "Agent \u91cd\u67b6\u6784\uff1a\u8fc8\u5411\u4e0a\u4e0b\u6587\u539f\u751f\u667a\u80fd\uff08Context-Native Agent\uff09\u2014\u2014 \u4e2d\u6587\u957f\u6587\u4e0e\u53ef\u590d\u7b97\u7684\u6392\u7248\u6784\u5efa\u94fe\uff08Markdown \u2192 \u81ea\u5305\u542b HTML \u2192 A4 PDF\uff09",
     "id": "54shitaimzf/context-native-agent",
     "language": "Markdown",
@@ -18,21 +54,12 @@
     "url": "https://github.com/sunnnn2005/data-quality-agent"
   },
   {
-    "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
-    "id": "khudayarovich/onflip-agent",
-    "language": "TypeScript",
-    "name": "khudayarovich/onflip-agent",
-    "stars": 3,
-    "updated_at": "2026-09-15T19:42:53Z",
-    "url": "https://github.com/khudayarovich/onflip-agent"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 8,
-    "updated_at": "2026-09-15T19:34:51Z",
+    "updated_at": "2026-09-15T19:46:58Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -50,7 +77,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 7259,
-    "updated_at": "2026-09-15T19:30:56Z",
+    "updated_at": "2026-09-15T19:56:36Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -70,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-15T19:26:02Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-15T19:21:41Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Gestor ag\u00e9ntico de modelos llm",
@@ -405,15 +423,6 @@
     "url": "https://github.com/lusipad/browser-agent"
   },
   {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 130,
-    "updated_at": "2026-09-15T16:16:15Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
     "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
     "id": "jack-h-park/pm-intelligence-engine",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-15T16:10:52Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Control AI agents anywhere. (github mirror)",
-    "id": "justacalico/devinorium",
-    "language": "Dart",
-    "name": "justacalico/devinorium",
-    "stars": 1,
-    "updated_at": "2026-09-15T16:19:24Z",
-    "url": "https://github.com/justacalico/devinorium"
   }
 ]
