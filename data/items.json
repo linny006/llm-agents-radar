@@ -1,12 +1,66 @@
 [
   {
+    "description": "Three small experiments that put a language model against ARC-AGI-3 \u2014 fluid intelligence, harness dependence, and long-t",
+    "id": "JoaquinRuiz/agi-tests",
+    "language": "Python",
+    "name": "JoaquinRuiz/agi-tests",
+    "stars": 1,
+    "updated_at": "2026-09-15T10:41:54Z",
+    "url": "https://github.com/JoaquinRuiz/agi-tests"
+  },
+  {
+    "description": "openPASO \u2014 open Platform for Agentic Simulation and Optimization. An AI agent that operates nine finite-element and mult",
+    "id": "alhermann/openPASO",
+    "language": "Python",
+    "name": "alhermann/openPASO",
+    "stars": 10,
+    "updated_at": "2026-09-15T10:41:50Z",
+    "url": "https://github.com/alhermann/openPASO"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 1,
+    "updated_at": "2026-09-15T10:45:15Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
     "description": "",
     "id": "atria-asi/Atria-Dawn-Preview",
     "language": "\u2014",
     "name": "atria-asi/Atria-Dawn-Preview",
-    "stars": 211,
-    "updated_at": "2026-09-15T10:27:36Z",
+    "stars": 212,
+    "updated_at": "2026-09-15T10:36:43Z",
     "url": "https://github.com/atria-asi/Atria-Dawn-Preview"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 32,
+    "updated_at": "2026-09-15T10:36:17Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "HunterCode \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance Edition \u00b7 \u591a\u667a\u80fd\u4f53\u6295\u7814\u7ec8\u7aef ",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 509,
+    "updated_at": "2026-09-15T10:35:34Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
+    "id": "sky-valley/pi",
+    "language": "Go",
+    "name": "sky-valley/pi",
+    "stars": 53,
+    "updated_at": "2026-09-15T10:31:24Z",
+    "url": "https://github.com/sky-valley/pi"
   },
   {
     "description": "A verification-first agent research prototype exploring explicit task state, independent verification, and evidence-back",
@@ -18,15 +72,6 @@
     "url": "https://github.com/Matt9x/veritas-agent"
   },
   {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 1,
-    "updated_at": "2026-09-15T10:29:58Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
     "description": "An experimental agent-memory prototype with explicit memory states, historical source provenance, invalidation, conserva",
     "id": "Matt9x/kairos-agent-memory",
     "language": "JavaScript",
@@ -34,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-09-15T10:26:30Z",
     "url": "https://github.com/Matt9x/kairos-agent-memory"
-  },
-  {
-    "description": "HunterCode \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance Edition \u00b7 \u591a\u667a\u80fd\u4f53\u6295\u7814\u7ec8\u7aef ",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 509,
-    "updated_at": "2026-09-15T10:24:52Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
   },
   {
     "description": "One-Stop Personal Health AI Agent \"Say Hi to Healthy Me\"",
@@ -68,7 +104,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 696,
-    "updated_at": "2026-09-15T10:16:08Z",
+    "updated_at": "2026-09-15T10:36:01Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -103,7 +139,7 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 3361,
+    "stars": 3362,
     "updated_at": "2026-09-15T10:07:53Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
@@ -122,7 +158,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-09-15T10:25:40Z",
+    "updated_at": "2026-09-15T10:37:16Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -139,7 +175,7 @@
     "id": "FRS2003/hands-on-llm",
     "language": "Python",
     "name": "FRS2003/hands-on-llm",
-    "stars": 71,
+    "stars": 72,
     "updated_at": "2026-09-15T09:50:57Z",
     "url": "https://github.com/FRS2003/hands-on-llm"
   },
@@ -185,7 +221,7 @@
     "language": "Python",
     "name": "titanwings/distilly",
     "stars": 24760,
-    "updated_at": "2026-09-15T10:27:19Z",
+    "updated_at": "2026-09-15T10:35:06Z",
     "url": "https://github.com/titanwings/distilly"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-15T08:54:57Z",
     "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-09-15T08:54:57Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-09-15T08:53:41Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "Organizational-memory system for micro/nano fabrication: executable process-flow canvas, LLM agent, reliability-scored k",
-    "id": "liyao13-sketch/OpenNano",
-    "language": "Python",
-    "name": "liyao13-sketch/OpenNano",
-    "stars": 0,
-    "updated_at": "2026-09-15T08:51:28Z",
-    "url": "https://github.com/liyao13-sketch/OpenNano"
-  },
-  {
-    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
-    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "language": "HTML",
-    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "stars": 0,
-    "updated_at": "2026-09-15T08:49:41Z",
-    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
   }
 ]
