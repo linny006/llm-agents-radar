@@ -1,5 +1,59 @@
 [
   {
+    "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
+    "id": "the-priest/PriestsBasilisk",
+    "language": "Python",
+    "name": "the-priest/PriestsBasilisk",
+    "stars": 3,
+    "updated_at": "2026-09-15T21:44:42Z",
+    "url": "https://github.com/the-priest/PriestsBasilisk"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 493,
+    "updated_at": "2026-09-15T21:41:49Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
+    "id": "khudayarovich/onflip-agent",
+    "language": "TypeScript",
+    "name": "khudayarovich/onflip-agent",
+    "stars": 3,
+    "updated_at": "2026-09-15T21:40:30Z",
+    "url": "https://github.com/khudayarovich/onflip-agent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-09-15T21:37:29Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
+    "id": "Sigmanih/SigmaStudio",
+    "language": "Python",
+    "name": "Sigmanih/SigmaStudio",
+    "stars": 7,
+    "updated_at": "2026-09-15T21:34:33Z",
+    "url": "https://github.com/Sigmanih/SigmaStudio"
+  },
+  {
+    "description": "Tauri desktop shell for the local-first Bodhi agent: manages Bamboo startup/reuse and health; packaged builds open the B",
+    "id": "bigduu/Bodhi-AI",
+    "language": "JavaScript",
+    "name": "bigduu/Bodhi-AI",
+    "stars": 17,
+    "updated_at": "2026-09-15T21:33:25Z",
+    "url": "https://github.com/bigduu/Bodhi-AI"
+  },
+  {
     "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
     "id": "hasting323/AutoGLM-For-Android",
     "language": "Kotlin",
@@ -34,15 +88,6 @@
     "stars": 39,
     "updated_at": "2026-09-15T21:22:29Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
-    "id": "khudayarovich/onflip-agent",
-    "language": "TypeScript",
-    "name": "khudayarovich/onflip-agent",
-    "stars": 3,
-    "updated_at": "2026-09-15T21:18:27Z",
-    "url": "https://github.com/khudayarovich/onflip-agent"
   },
   {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
@@ -97,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-09-15T21:06:17Z",
     "url": "https://github.com/54shitaimzf/context-native-agent"
-  },
-  {
-    "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
-    "id": "the-priest/PriestsBasilisk",
-    "language": "Python",
-    "name": "the-priest/PriestsBasilisk",
-    "stars": 3,
-    "updated_at": "2026-09-15T21:00:05Z",
-    "url": "https://github.com/the-priest/PriestsBasilisk"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -167,7 +203,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 18,
-    "updated_at": "2026-09-15T20:42:01Z",
+    "updated_at": "2026-09-15T21:31:48Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -203,7 +239,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 8,
-    "updated_at": "2026-09-15T21:26:05Z",
+    "updated_at": "2026-09-15T21:41:56Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -212,7 +248,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4415,
-    "updated_at": "2026-09-15T20:56:11Z",
+    "updated_at": "2026-09-15T21:31:55Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -293,7 +329,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 809,
-    "updated_at": "2026-09-15T20:05:55Z",
+    "updated_at": "2026-09-15T21:39:32Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -331,15 +367,6 @@
     "stars": 3371,
     "updated_at": "2026-09-15T18:25:19Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-09-15T18:25:05Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-15T17:37:41Z",
     "url": "https://github.com/jijiwu3526/dsh-token-governor"
-  },
-  {
-    "description": "Full-stack AI personal finance platform \u2014 FastAPI + SQLite backend, conversational agent with pattern-matched instant re",
-    "id": "harshbhanushali26/finos",
-    "language": "Python",
-    "name": "harshbhanushali26/finos",
-    "stars": 1,
-    "updated_at": "2026-09-15T17:23:10Z",
-    "url": "https://github.com/harshbhanushali26/finos"
-  },
-  {
-    "description": "\u6295\u8d44\u79c1\u4eba\u7ba1\u5bb6 \u00b7 A\u80a1\u57fa\u91d1 AI \u79c1\u4eba\u987e\u95ee\uff08Invest Concierge \u2014 A-share & fund AI personal investment assistant\uff09",
-    "id": "cx-ssg/invest-concierge",
-    "language": "Python",
-    "name": "cx-ssg/invest-concierge",
-    "stars": 0,
-    "updated_at": "2026-09-15T17:12:03Z",
-    "url": "https://github.com/cx-ssg/invest-concierge"
-  },
-  {
-    "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
-    "id": "chunleik/self-analyst",
-    "language": "Java",
-    "name": "chunleik/self-analyst",
-    "stars": 0,
-    "updated_at": "2026-09-15T17:04:04Z",
-    "url": "https://github.com/chunleik/self-analyst"
   }
 ]
