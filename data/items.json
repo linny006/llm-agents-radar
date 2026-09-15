@@ -1,5 +1,59 @@
 [
   {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 1,
+    "updated_at": "2026-09-15T06:14:51Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Self-healing keep-alive, watchdog and status dashboard for the Desktop Commander Remote agent and Chrome Remote Desktop ",
+    "id": "analienx/remote-desktop-commander-agent-control",
+    "language": "PowerShell",
+    "name": "analienx/remote-desktop-commander-agent-control",
+    "stars": 0,
+    "updated_at": "2026-09-15T06:13:28Z",
+    "url": "https://github.com/analienx/remote-desktop-commander-agent-control"
+  },
+  {
+    "description": "\u591a Agent \u5e76\u884c\u5e02\u573a\u8c03\u7814 SOP\uff1a\u754c\u5b9a\u547d\u9898 \u2192 \u4e09\u8def\u5e76\u884c\u8c03\u7814 \u2192 \u8d22\u52a1\u5efa\u6a21 \u2192 \u7efc\u5408\u88c1\u51b3 \u2192 \u56fe\u8868\u53cc\u683c\u5f0f\u4ea4\u4ed8 \u00b7 \u6210\u54c1\u6d3e\u53d1\u6a21\u677f + R1\u2013R6 \u95e8\u7981 + \u5341\u7c7b\u5546\u4e1a\u62a5\u544a\u56fe\u8868\u539f\u578b \u00b7 \u53cc\u5bbf\u4e3b\uff08\u6709/\u65e0\u7f16\u6392 runtime\uff09",
+    "id": "kimi0hhhh/market-research-sop-skill",
+    "language": "JavaScript",
+    "name": "kimi0hhhh/market-research-sop-skill",
+    "stars": 0,
+    "updated_at": "2026-09-15T06:12:45Z",
+    "url": "https://github.com/kimi0hhhh/market-research-sop-skill"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5760,
+    "updated_at": "2026-09-15T06:08:35Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-09-15T06:07:11Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "\u81ea\u6f14\u8fdb\u7684\u756a\u5267\u5a92\u4f53\u5e93\u6cbb\u7406 agent\uff1a\u67e5\u91cd/\u6539\u540d/TMDB\u5bf9\u9f50/\u6b7b\u79cd\u6e05\u7406\uff0c\u80fd\u53d1\u73b0\u89c4\u5219\u76f2\u533a\u5e76\u81ea\u52a8\u6f14\u8fdb\u51fa\u65b0\u89c4\u5219",
+    "id": "wzh4464/self-evolving-media-agent",
+    "language": "Python",
+    "name": "wzh4464/self-evolving-media-agent",
+    "stars": 0,
+    "updated_at": "2026-09-15T06:04:37Z",
+    "url": "https://github.com/wzh4464/self-evolving-media-agent"
+  },
+  {
     "description": "Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and compu",
     "id": "feder-cr/AIHawk",
     "language": "Python",
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "titanwings/distilly",
     "stars": 24741,
-    "updated_at": "2026-09-15T06:00:13Z",
+    "updated_at": "2026-09-15T06:07:44Z",
     "url": "https://github.com/titanwings/distilly"
   },
   {
@@ -22,7 +76,7 @@
     "id": "Bowen-0x00/insight-engine",
     "language": "Python",
     "name": "Bowen-0x00/insight-engine",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-09-15T05:54:59Z",
     "url": "https://github.com/Bowen-0x00/insight-engine"
   },
@@ -95,7 +149,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-09-15T05:36:00Z",
+    "updated_at": "2026-09-15T06:06:17Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -112,7 +166,7 @@
     "id": "FRS2003/hands-on-llm",
     "language": "Python",
     "name": "FRS2003/hands-on-llm",
-    "stars": 67,
+    "stars": 69,
     "updated_at": "2026-09-15T05:24:18Z",
     "url": "https://github.com/FRS2003/hands-on-llm"
   },
@@ -121,7 +175,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 31684,
+    "stars": 31686,
     "updated_at": "2026-09-15T05:22:35Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -133,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-15T05:21:17Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "\u81ea\u6f14\u8fdb\u7684\u756a\u5267\u5a92\u4f53\u5e93\u6cbb\u7406 agent\uff1a\u67e5\u91cd/\u6539\u540d/TMDB\u5bf9\u9f50/\u6b7b\u79cd\u6e05\u7406\uff0c\u80fd\u53d1\u73b0\u89c4\u5219\u76f2\u533a\u5e76\u81ea\u52a8\u6f14\u8fdb\u51fa\u65b0\u89c4\u5219",
-    "id": "wzh4464/self-evolving-media-agent",
-    "language": "Python",
-    "name": "wzh4464/self-evolving-media-agent",
-    "stars": 0,
-    "updated_at": "2026-09-15T05:16:16Z",
-    "url": "https://github.com/wzh4464/self-evolving-media-agent"
   },
   {
     "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
@@ -284,17 +329,8 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 16,
-    "updated_at": "2026-09-15T05:08:54Z",
+    "updated_at": "2026-09-15T06:13:50Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 1,
-    "updated_at": "2026-09-15T05:46:34Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
     "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-15T04:47:24Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
-    "id": "Saran1536/ComfyUI-LoaderUtils",
-    "language": "Python",
-    "name": "Saran1536/ComfyUI-LoaderUtils",
-    "stars": 0,
-    "updated_at": "2026-09-15T04:44:56Z",
-    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 1,
-    "updated_at": "2026-09-15T04:43:42Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "Benzi is AI-native code intelligence infrastructure. Claude Code greps; Cursor embeds; Aider maps signatures; Benzi reso",
-    "id": "oooscoos/Benzi",
-    "language": "Python",
-    "name": "oooscoos/Benzi",
-    "stars": 71,
-    "updated_at": "2026-09-15T04:42:23Z",
-    "url": "https://github.com/oooscoos/Benzi"
-  },
-  {
-    "description": "AI customer support agent for AppleSupport using intent classification via clustering (K-Means), RAG-grounded reply gene",
-    "id": "Amar-7778/Customer-Support-Agent-Apple-Support-",
-    "language": "Python",
-    "name": "Amar-7778/Customer-Support-Agent-Apple-Support-",
-    "stars": 0,
-    "updated_at": "2026-09-15T04:41:49Z",
-    "url": "https://github.com/Amar-7778/Customer-Support-Agent-Apple-Support-"
   }
 ]
