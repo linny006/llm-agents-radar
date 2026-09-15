@@ -1,5 +1,50 @@
 [
   {
+    "description": "Amadeus \u2014 DSH Galgame Mode + \u72ec\u7acb\u79fb\u52a8\u7aef APP",
+    "id": "saya-ch/dsh-amadeus",
+    "language": "TypeScript",
+    "name": "saya-ch/dsh-amadeus",
+    "stars": 0,
+    "updated_at": "2026-09-15T15:27:10Z",
+    "url": "https://github.com/saya-ch/dsh-amadeus"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 1,
+    "updated_at": "2026-09-15T15:26:19Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Flask + SQLAlchemy + MySQL \u7269\u4e1a\u7ba1\u7406\u5e73\u53f0\uff1a10 \u4e2a\u4e1a\u52a1\u57df\u5168\u6d41\u7a0b\uff0c\u7edf\u4e00\u670d\u52a1\u5c42 + RBAC \u884c\u7ea7\u6570\u636e\u8303\u56f4 + \u5ba1\u8ba1\u7559\u75d5\uff0c\u5185\u7f6e dsh/MCP \u53d7\u63a7 AI Agent\uff0c73 \u4e2a\u5de5\u5177\u6309 R0\u2013R3 \u98ce\u9669\u5206\u7ea7\u4eba\u5de5\u786e\u8ba4\u3002",
+    "id": "Changxin-YR/wuye",
+    "language": "Python",
+    "name": "Changxin-YR/wuye",
+    "stars": 1,
+    "updated_at": "2026-09-15T15:24:31Z",
+    "url": "https://github.com/Changxin-YR/wuye"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-09-15T15:23:34Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
+    "id": "Sigmanih/SigmaStudio",
+    "language": "Python",
+    "name": "Sigmanih/SigmaStudio",
+    "stars": 7,
+    "updated_at": "2026-09-15T15:20:12Z",
+    "url": "https://github.com/Sigmanih/SigmaStudio"
+  },
+  {
     "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
     "id": "PCODE-pl/MCPTap",
     "language": "Python",
@@ -27,15 +72,6 @@
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
-    "description": "Amadeus \u2014 DSH Galgame Mode + \u72ec\u7acb\u79fb\u52a8\u7aef APP",
-    "id": "saya-ch/dsh-amadeus",
-    "language": "TypeScript",
-    "name": "saya-ch/dsh-amadeus",
-    "stars": 0,
-    "updated_at": "2026-09-15T15:03:41Z",
-    "url": "https://github.com/saya-ch/dsh-amadeus"
-  },
-  {
     "description": "\u26a1 Rotom \u2014 \u81ea\u52a8\u5316 CTF \u7b54\u9898 Agent:\u9ed1\u677f\u534f\u540c \u00b7 \u5e7f\u5ea6\u4f18\u5148\u8c03\u5ea6 \u00b7 \u5168\u7a0b\u5ba1\u8ba1\u3002\u50cf\u6d1b\u6258\u59c6\u4e00\u6837,\u6f5c\u5165\u54ea\u7c7b\u9898,\u5c31\u957f\u6210\u89e3\u51b3\u5b83\u7684\u5f62\u72b6",
     "id": "JerryXie599/Rotom",
     "language": "Python",
@@ -59,7 +95,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 809,
-    "updated_at": "2026-09-15T15:00:36Z",
+    "updated_at": "2026-09-15T15:21:22Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -70,15 +106,6 @@
     "stars": 6,
     "updated_at": "2026-09-15T15:00:54Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 1,
-    "updated_at": "2026-09-15T15:14:52Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
     "description": "openPASO \u2014 open Platform for Agentic Simulation and Optimization. An AI agent that operates nine finite-element and mult",
@@ -95,7 +122,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 16,
-    "updated_at": "2026-09-15T14:50:06Z",
+    "updated_at": "2026-09-15T15:21:35Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -284,7 +311,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 697,
-    "updated_at": "2026-09-15T14:45:16Z",
+    "updated_at": "2026-09-15T15:25:34Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-15T11:28:01Z",
     "url": "https://github.com/JoaquinRuiz/agi-tests"
-  },
-  {
-    "description": "One-Stop Personal Health AI Agent \"Say Hi to Healthy Me\"",
-    "id": "thinkwee/HiMe",
-    "language": "Python",
-    "name": "thinkwee/HiMe",
-    "stars": 63,
-    "updated_at": "2026-09-15T11:21:59Z",
-    "url": "https://github.com/thinkwee/HiMe"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5762,
-    "updated_at": "2026-09-15T12:21:48Z",
-    "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "Distilly \u2014 Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill\uff08\u539f\u540c\u4e8b Skill\uff09.",
-    "id": "titanwings/distilly",
-    "language": "Python",
-    "name": "titanwings/distilly",
-    "stars": 24761,
-    "updated_at": "2026-09-15T14:59:34Z",
-    "url": "https://github.com/titanwings/distilly"
   }
 ]
