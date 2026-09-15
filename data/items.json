@@ -1,12 +1,183 @@
 [
   {
+    "description": "Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons.",
+    "id": "alejandrogg15/Minimax-H3-Turbo",
+    "language": "Python",
+    "name": "alejandrogg15/Minimax-H3-Turbo",
+    "stars": 0,
+    "updated_at": "2026-09-15T09:15:05Z",
+    "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
+  },
+  {
+    "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
+    "id": "Aureliedumbfounding630/agent-governance-toolkit",
+    "language": "\u2014",
+    "name": "Aureliedumbfounding630/agent-governance-toolkit",
+    "stars": 0,
+    "updated_at": "2026-09-15T09:14:00Z",
+    "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
+  },
+  {
+    "description": "Automate Elytra flight, navigation, and landing for Meteor Client with intelligent pathfinding and rocket management.",
+    "id": "222394/SkyPilot",
+    "language": "Java",
+    "name": "222394/SkyPilot",
+    "stars": 0,
+    "updated_at": "2026-09-15T09:13:57Z",
+    "url": "https://github.com/222394/SkyPilot"
+  },
+  {
+    "description": "Build open source deep research agents using multiple models, search tools, and MCP servers.",
+    "id": "randomvariablewhitepelican129/open_deep_research",
+    "language": "Python",
+    "name": "randomvariablewhitepelican129/open_deep_research",
+    "stars": 0,
+    "updated_at": "2026-09-15T09:13:17Z",
+    "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 28,
+    "updated_at": "2026-09-15T09:13:03Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "AI cross-channel progressive insight extractor synthesizing academic papers, notes, and discussions into profound system",
+    "id": "Bowen-0x00/insight-engine",
+    "language": "Python",
+    "name": "Bowen-0x00/insight-engine",
+    "stars": 1,
+    "updated_at": "2026-09-15T09:12:43Z",
+    "url": "https://github.com/Bowen-0x00/insight-engine"
+  },
+  {
+    "description": "AI-powered social radar agent monitoring Zhihu & X for high-value tech insights with WeChat instant notifications & anti",
+    "id": "Bowen-0x00/social-radar",
+    "language": "Python",
+    "name": "Bowen-0x00/social-radar",
+    "stars": 1,
+    "updated_at": "2026-09-15T09:11:42Z",
+    "url": "https://github.com/Bowen-0x00/social-radar"
+  },
+  {
+    "description": "Automate file management and coding tasks in your local directory using small language models.",
+    "id": "pruthviraj00007/VibeHarness",
+    "language": "Python",
+    "name": "pruthviraj00007/VibeHarness",
+    "stars": 0,
+    "updated_at": "2026-09-15T09:10:52Z",
+    "url": "https://github.com/pruthviraj00007/VibeHarness"
+  },
+  {
+    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
+    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "language": "Go",
+    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "stars": 0,
+    "updated_at": "2026-09-15T09:08:55Z",
+    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
+  },
+  {
+    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
+    "id": "tessellated-statisticalcommission243/deep-research-skill",
+    "language": "\u2014",
+    "name": "tessellated-statisticalcommission243/deep-research-skill",
+    "stars": 3,
+    "updated_at": "2026-09-15T09:06:03Z",
+    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
+  },
+  {
+    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
+    "id": "Samuelcluttered613/paper2code",
+    "language": "Python",
+    "name": "Samuelcluttered613/paper2code",
+    "stars": 1,
+    "updated_at": "2026-09-15T09:05:19Z",
+    "url": "https://github.com/Samuelcluttered613/paper2code"
+  },
+  {
+    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
+    "id": "Bastioned-successor320/learn-nanobot",
+    "language": "Python",
+    "name": "Bastioned-successor320/learn-nanobot",
+    "stars": 10,
+    "updated_at": "2026-09-15T09:05:07Z",
+    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
+  },
+  {
+    "description": "A safety-constrained coding agent for FastAPI defect diagnosis, isolated repair, revision-aware validation, human approv",
+    "id": "jbq8814-lab/FastFix",
+    "language": "Python",
+    "name": "jbq8814-lab/FastFix",
+    "stars": 1,
+    "updated_at": "2026-09-15T09:03:33Z",
+    "url": "https://github.com/jbq8814-lab/FastFix"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 1,
+    "updated_at": "2026-09-15T09:15:15Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
     "id": "JSL107/personal_agents",
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-15T08:59:52Z",
+    "updated_at": "2026-09-15T09:02:25Z",
     "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "HunterCode \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance Edition \u00b7 \u591a\u667a\u80fd\u4f53\u6295\u7814\u7ec8\u7aef ",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 509,
+    "updated_at": "2026-09-15T09:01:23Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
+    "id": "chadwickhyperboloidal943/knowl",
+    "language": "TypeScript",
+    "name": "chadwickhyperboloidal943/knowl",
+    "stars": 0,
+    "updated_at": "2026-09-15T09:00:41Z",
+    "url": "https://github.com/chadwickhyperboloidal943/knowl"
+  },
+  {
+    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
+    "id": "Laurenfeminine36/google-jules-skill",
+    "language": "Python",
+    "name": "Laurenfeminine36/google-jules-skill",
+    "stars": 1,
+    "updated_at": "2026-09-15T09:00:27Z",
+    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
+  },
+  {
+    "description": "Open-source local AI Agent desktop app for authorized security assessment \u2014 Electron + Mastra-powered runtime, visual pe",
+    "id": "MingyiSecLab/Atlas",
+    "language": "TypeScript",
+    "name": "MingyiSecLab/Atlas",
+    "stars": 3,
+    "updated_at": "2026-09-15T09:00:44Z",
+    "url": "https://github.com/MingyiSecLab/Atlas"
+  },
+  {
+    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
+    "id": "Jssu8541/ouro-loop",
+    "language": "\u2014",
+    "name": "Jssu8541/ouro-loop",
+    "stars": 0,
+    "updated_at": "2026-09-15T09:00:20Z",
+    "url": "https://github.com/Jssu8541/ouro-loop"
   },
   {
     "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
@@ -45,15 +216,6 @@
     "url": "https://github.com/mena256/ai-pair-engineer"
   },
   {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 1,
-    "updated_at": "2026-09-15T08:55:25Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
     "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
     "id": "mamon9022/poc-fls-node-epicronicles",
     "language": "TypeScript",
@@ -68,7 +230,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 695,
-    "updated_at": "2026-09-15T08:52:22Z",
+    "updated_at": "2026-09-15T09:08:42Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -97,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-09-15T08:49:27Z",
     "url": "https://github.com/tom-cat-mao/TaskWizard"
-  },
-  {
-    "description": "HunterCode \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance Edition \u00b7 \u591a\u667a\u80fd\u4f53\u6295\u7814\u7ec8\u7aef ",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 509,
-    "updated_at": "2026-09-15T08:49:01Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
   },
   {
     "description": "An experimental agent-memory prototype with explicit memory states, historical source provenance, invalidation, conserva",
@@ -144,15 +297,6 @@
     "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
   },
   {
-    "description": "Open-source local AI Agent desktop app for authorized security assessment \u2014 Electron + Mastra-powered runtime, visual pe",
-    "id": "MingyiSecLab/Atlas",
-    "language": "TypeScript",
-    "name": "MingyiSecLab/Atlas",
-    "stars": 3,
-    "updated_at": "2026-09-15T08:44:09Z",
-    "url": "https://github.com/MingyiSecLab/Atlas"
-  },
-  {
     "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
     "id": "ibrahima0101/python-ai-chatbot-huggingface",
     "language": "Python",
@@ -167,24 +311,15 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-09-15T08:40:17Z",
+    "updated_at": "2026-09-15T09:03:36Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 28,
-    "updated_at": "2026-09-15T08:55:30Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "",
     "id": "atria-asi/Atria-Dawn-Preview",
     "language": "\u2014",
     "name": "atria-asi/Atria-Dawn-Preview",
-    "stars": 199,
+    "stars": 200,
     "updated_at": "2026-09-15T08:39:19Z",
     "url": "https://github.com/atria-asi/Atria-Dawn-Preview"
   },
@@ -196,6 +331,15 @@
     "stars": 4,
     "updated_at": "2026-09-15T08:39:16Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3358,
+    "updated_at": "2026-09-15T08:38:35Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Three small experiments that put a language model against ARC-AGI-3 \u2014 fluid intelligence, harness dependence, and long-t",
@@ -212,7 +356,7 @@
     "language": "Python",
     "name": "titanwings/distilly",
     "stars": 24756,
-    "updated_at": "2026-09-15T08:28:09Z",
+    "updated_at": "2026-09-15T09:14:51Z",
     "url": "https://github.com/titanwings/distilly"
   },
   {
@@ -221,7 +365,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-15T08:59:46Z",
+    "updated_at": "2026-09-15T09:10:20Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -304,149 +448,5 @@
     "stars": 8,
     "updated_at": "2026-09-15T07:46:05Z",
     "url": "https://github.com/ZekaiShi/evo-subagent"
-  },
-  {
-    "description": "\uba54\uc2e0\uc800\ub85c \ub300\ud654\ud558\ub294 \ub098\ub9cc\uc758 AI \uc5d0\uc774\uc804\ud2b8 \u2014 claude -p\ub97c \uad6c\ub3c5 \uc778\uc99d\uc73c\ub85c \uac10\uc2f8 \ucd94\uac00 \ube44\uc6a9 \uc5c6\uc774 \ub3cc\ub9ac\ub294 personal agent harness (Hermes 5\uae30\ub465 + \uc2b9\uc778 \uac8c\uc774\ud2b8 drift \ubc29\uc9c0)",
-    "id": "80x24/nuanua",
-    "language": "TypeScript",
-    "name": "80x24/nuanua",
-    "stars": 0,
-    "updated_at": "2026-09-15T07:37:10Z",
-    "url": "https://github.com/80x24/nuanua"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 31696,
-    "updated_at": "2026-09-15T07:36:30Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 126,
-    "updated_at": "2026-09-15T07:32:40Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 3,
-    "updated_at": "2026-09-15T07:31:31Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "AI-powered multi-mailbox monitoring agent (Gmail, QQ, Edu) with WeChat instant notifications & arXiv/Scholar paper readi",
-    "id": "Bowen-0x00/mail-assist",
-    "language": "Python",
-    "name": "Bowen-0x00/mail-assist",
-    "stars": 1,
-    "updated_at": "2026-09-15T07:30:37Z",
-    "url": "https://github.com/Bowen-0x00/mail-assist"
-  },
-  {
-    "description": "\u4e00\u4e2a\u5c06\u300c\u6e38\u620f\u5f55\u5c4f\u300d\u8f6c\u5316\u4e3a\u300c\u53ef\u590d\u73b0\u81ea\u52a8\u5316\u811a\u672c\u300d\u7684 Windows \u684c\u9762\u6d41\u6c34\u7ebf\u3002\u591a\u6a21\u6001\u6a21\u578b\u7406\u89e3\u754c\u9762\u751f\u6210\u6b65\u9aa4\uff0c\u4eba\u5de5\u786e\u8ba4\u540e\u4ea7\u51fa\u79bb\u7ebf\u914d\u7f6e\u3002\u8fd0\u884c\u65f6 0 token\uff0c\u7eaf\u672c\u5730\u6a21\u677f\u5339\u914d\u4e0e\u952e\u9f20\u56de\u653e\uff0c\u4e0d\u4fee\u6539\u6e38\u620f\u5185\u5b58/\u6587\u4ef6\u3002\u4ec5\u4f9b\u684c\u9762\u81ea\u52a8\u5316\u6280\u672f\u5b66\u4e60\u4e0e\u6548\u7387\u5de5\u5177\u7814\u7a76\uff0c\u81ea",
-    "id": "mala77liu/agent-demo",
-    "language": "Python",
-    "name": "mala77liu/agent-demo",
-    "stars": 0,
-    "updated_at": "2026-09-15T07:23:01Z",
-    "url": "https://github.com/mala77liu/agent-demo"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3357,
-    "updated_at": "2026-09-15T08:38:35Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
-    "id": "OtakuNathan/Pal",
-    "language": "Python",
-    "name": "OtakuNathan/Pal",
-    "stars": 2,
-    "updated_at": "2026-09-15T07:18:20Z",
-    "url": "https://github.com/OtakuNathan/Pal"
-  },
-  {
-    "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
-    "id": "jack-h-park/pm-intelligence-engine",
-    "language": "Python",
-    "name": "jack-h-park/pm-intelligence-engine",
-    "stars": 0,
-    "updated_at": "2026-09-15T07:14:05Z",
-    "url": "https://github.com/jack-h-park/pm-intelligence-engine"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-09-15T07:13:43Z",
-    "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
-    "id": "karvidsson/kbots",
-    "language": "Python",
-    "name": "karvidsson/kbots",
-    "stars": 1,
-    "updated_at": "2026-09-15T07:12:15Z",
-    "url": "https://github.com/karvidsson/kbots"
-  },
-  {
-    "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
-    "id": "rugose-learnedprofession58/pi-dsh",
-    "language": "TypeScript",
-    "name": "rugose-learnedprofession58/pi-dsh",
-    "stars": 0,
-    "updated_at": "2026-09-15T07:08:10Z",
-    "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-15T07:07:46Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
-    "id": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
-    "language": "JavaScript",
-    "name": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
-    "stars": 1,
-    "updated_at": "2026-09-15T07:07:24Z",
-    "url": "https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder"
-  },
-  {
-    "description": "Verify area values quickly with this web-based HTML calculator tool.",
-    "id": "passive-hotpepper515/area-checker-html-tool",
-    "language": "HTML",
-    "name": "passive-hotpepper515/area-checker-html-tool",
-    "stars": 0,
-    "updated_at": "2026-09-15T07:06:55Z",
-    "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
-  },
-  {
-    "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
-    "id": "Blondieredistributed612/pocket-agent",
-    "language": "Python",
-    "name": "Blondieredistributed612/pocket-agent",
-    "stars": 2,
-    "updated_at": "2026-09-15T07:05:39Z",
-    "url": "https://github.com/Blondieredistributed612/pocket-agent"
   }
 ]
