@@ -1,5 +1,68 @@
 [
   {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 1,
+    "updated_at": "2026-09-15T13:30:00Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Stateful runtime management for LLM agents\u2014inject, manipulate, and retrieve Python objects across turns. ",
+    "id": "acodercat/cave-agent",
+    "language": "Python",
+    "name": "acodercat/cave-agent",
+    "stars": 199,
+    "updated_at": "2026-09-15T13:29:42Z",
+    "url": "https://github.com/acodercat/cave-agent"
+  },
+  {
+    "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
+    "id": "khudayarovich/onflip-agent",
+    "language": "TypeScript",
+    "name": "khudayarovich/onflip-agent",
+    "stars": 3,
+    "updated_at": "2026-09-15T13:28:48Z",
+    "url": "https://github.com/khudayarovich/onflip-agent"
+  },
+  {
+    "description": "\u7535\u5546\u5e73\u53f0\u5546\u54c1\u5185\u5bb9\u6cbb\u7406\u7684\u590d\u6742\u98ce\u9669\u8c03\u67e5 Agent\uff1aLangGraph \u591a\u6b65\u8c03\u67e5 + \u786e\u5b9a\u6027 Decision Gate\uff0c\u8f93\u51fa PASS / REJECT / HUMAN_REVIEW\uff1b\u5168\u94fe\u8def\u786e\u5b9a\u6027\u53ef\u91cd\u653e\u8bc4\u6d4b",
+    "id": "donglongjun886/product-review-agent",
+    "language": "Python",
+    "name": "donglongjun886/product-review-agent",
+    "stars": 1,
+    "updated_at": "2026-09-15T13:23:43Z",
+    "url": "https://github.com/donglongjun886/product-review-agent"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 127,
+    "updated_at": "2026-09-15T13:22:42Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 3,
+    "updated_at": "2026-09-15T13:21:43Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-09-15T13:21:04Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
     "description": "A multi-agent OS for your phone: Claude Code and the Codex CLI running natively on Android in their own Debian userland ",
     "id": "Jogi-OpenSource/JogiJarvis-Mobile",
     "language": "Kotlin",
@@ -18,31 +81,13 @@
     "url": "https://github.com/Mlte0907/pangu"
   },
   {
-    "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
-    "id": "khudayarovich/onflip-agent",
-    "language": "TypeScript",
-    "name": "khudayarovich/onflip-agent",
-    "stars": 3,
-    "updated_at": "2026-09-15T13:12:50Z",
-    "url": "https://github.com/khudayarovich/onflip-agent"
-  },
-  {
     "description": "openPASO \u2014 open Platform for Agentic Simulation and Optimization. An AI agent that operates nine finite-element and mult",
     "id": "alhermann/openPASO",
     "language": "Python",
     "name": "alhermann/openPASO",
-    "stars": 10,
+    "stars": 11,
     "updated_at": "2026-09-15T13:11:53Z",
     "url": "https://github.com/alhermann/openPASO"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 1,
-    "updated_at": "2026-09-15T13:15:09Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
@@ -81,15 +126,6 @@
     "url": "https://github.com/oooscoos/Benzi"
   },
   {
-    "description": "\u7535\u5546\u5e73\u53f0\u5546\u54c1\u5185\u5bb9\u6cbb\u7406\u7684\u590d\u6742\u98ce\u9669\u8c03\u67e5 Agent\uff1aLangGraph \u591a\u6b65\u8c03\u67e5 + \u786e\u5b9a\u6027 Decision Gate\uff0c\u8f93\u51fa PASS / REJECT / HUMAN_REVIEW\uff1b\u5168\u94fe\u8def\u786e\u5b9a\u6027\u53ef\u91cd\u653e\u8bc4\u6d4b",
-    "id": "donglongjun886/product-review-agent",
-    "language": "Python",
-    "name": "donglongjun886/product-review-agent",
-    "stars": 1,
-    "updated_at": "2026-09-15T12:55:16Z",
-    "url": "https://github.com/donglongjun886/product-review-agent"
-  },
-  {
     "description": "An autopoiesic kefir for computing machines",
     "id": "genaforvena/lte-workstation",
     "language": "Shell",
@@ -104,7 +140,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-09-15T12:49:09Z",
+    "updated_at": "2026-09-15T13:21:18Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -166,7 +202,7 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 3365,
+    "stars": 3366,
     "updated_at": "2026-09-15T11:59:52Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
@@ -284,7 +320,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 808,
-    "updated_at": "2026-09-15T13:07:51Z",
+    "updated_at": "2026-09-15T13:28:36Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -310,7 +346,7 @@
     "id": "atria-asi/Atria-Dawn-Preview",
     "language": "\u2014",
     "name": "atria-asi/Atria-Dawn-Preview",
-    "stars": 243,
+    "stars": 244,
     "updated_at": "2026-09-15T10:36:43Z",
     "url": "https://github.com/atria-asi/Atria-Dawn-Preview"
   },
@@ -412,41 +448,5 @@
     "stars": 72,
     "updated_at": "2026-09-15T09:50:57Z",
     "url": "https://github.com/FRS2003/hands-on-llm"
-  },
-  {
-    "description": "Bifrost \u2014 make an existing Android app agent-controllable: annotate screens and user actions, and an LLM agent calls the",
-    "id": "kim-jeong-hyeon/Bifrost",
-    "language": "Kotlin",
-    "name": "kim-jeong-hyeon/Bifrost",
-    "stars": 0,
-    "updated_at": "2026-09-15T09:44:10Z",
-    "url": "https://github.com/kim-jeong-hyeon/Bifrost"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-15T13:11:01Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-09-15T09:38:08Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "A safety-constrained coding agent for FastAPI defect diagnosis, isolated repair, revision-aware validation, human approv",
-    "id": "jbq8814-lab/FastFix",
-    "language": "Python",
-    "name": "jbq8814-lab/FastFix",
-    "stars": 1,
-    "updated_at": "2026-09-15T09:37:57Z",
-    "url": "https://github.com/jbq8814-lab/FastFix"
   }
 ]
