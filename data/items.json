@@ -1,5 +1,131 @@
 [
   {
+    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
+    "id": "HELLOCODINGTR/AgentForge",
+    "language": "\u2014",
+    "name": "HELLOCODINGTR/AgentForge",
+    "stars": 1,
+    "updated_at": "2026-09-15T02:59:48Z",
+    "url": "https://github.com/HELLOCODINGTR/AgentForge"
+  },
+  {
+    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
+    "id": "strobilevitellus470/argus-ai",
+    "language": "Python",
+    "name": "strobilevitellus470/argus-ai",
+    "stars": 1,
+    "updated_at": "2026-09-15T02:59:07Z",
+    "url": "https://github.com/strobilevitellus470/argus-ai"
+  },
+  {
+    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
+    "id": "juandavidru4641/dsplab",
+    "language": "JavaScript",
+    "name": "juandavidru4641/dsplab",
+    "stars": 0,
+    "updated_at": "2026-09-15T02:56:39Z",
+    "url": "https://github.com/juandavidru4641/dsplab"
+  },
+  {
+    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
+    "id": "laoxs2002/genai-agentes",
+    "language": "Jupyter Notebook",
+    "name": "laoxs2002/genai-agentes",
+    "stars": 0,
+    "updated_at": "2026-09-15T02:56:14Z",
+    "url": "https://github.com/laoxs2002/genai-agentes"
+  },
+  {
+    "description": "Autonomous Haraj.sa watchdog: plans its own search terms, judges every listing with a tool-using model agent, and report",
+    "id": "d7emy/Qannas",
+    "language": "Go",
+    "name": "d7emy/Qannas",
+    "stars": 0,
+    "updated_at": "2026-09-15T02:55:10Z",
+    "url": "https://github.com/d7emy/Qannas"
+  },
+  {
+    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
+    "id": "heba-ramdan/harness",
+    "language": "TypeScript",
+    "name": "heba-ramdan/harness",
+    "stars": 1,
+    "updated_at": "2026-09-15T02:54:48Z",
+    "url": "https://github.com/heba-ramdan/harness"
+  },
+  {
+    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
+    "id": "Ronit0p/AutoGod",
+    "language": "Java",
+    "name": "Ronit0p/AutoGod",
+    "stars": 0,
+    "updated_at": "2026-09-15T02:54:09Z",
+    "url": "https://github.com/Ronit0p/AutoGod"
+  },
+  {
+    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
+    "id": "lukky262/ARE",
+    "language": "\u2014",
+    "name": "lukky262/ARE",
+    "stars": 1,
+    "updated_at": "2026-09-15T02:53:05Z",
+    "url": "https://github.com/lukky262/ARE"
+  },
+  {
+    "description": "Organizational-memory system for micro/nano fabrication: executable process-flow canvas, LLM agent, reliability-scored k",
+    "id": "liyao13-sketch/OpenNano",
+    "language": "Python",
+    "name": "liyao13-sketch/OpenNano",
+    "stars": 0,
+    "updated_at": "2026-09-15T02:52:18Z",
+    "url": "https://github.com/liyao13-sketch/OpenNano"
+  },
+  {
+    "description": "",
+    "id": "hichamnes-prog/exforum-auto-poster",
+    "language": "Python",
+    "name": "hichamnes-prog/exforum-auto-poster",
+    "stars": 1,
+    "updated_at": "2026-09-15T02:51:52Z",
+    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
+  },
+  {
+    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
+    "id": "muhzars/Agent.cpp",
+    "language": "C++",
+    "name": "muhzars/Agent.cpp",
+    "stars": 1,
+    "updated_at": "2026-09-15T02:49:13Z",
+    "url": "https://github.com/muhzars/Agent.cpp"
+  },
+  {
+    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
+    "id": "faheela-786/ComfyUI-qwenmultiangle",
+    "language": "\u2014",
+    "name": "faheela-786/ComfyUI-qwenmultiangle",
+    "stars": 2,
+    "updated_at": "2026-09-15T02:46:57Z",
+    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
+  },
+  {
+    "description": "Open-source crypto paper-trading desk: backtest farm, walk-forward optimizer, 110 exchanges, built-in strategy agent. La",
+    "id": "shoemoney/shoemoneyx",
+    "language": "PHP",
+    "name": "shoemoney/shoemoneyx",
+    "stars": 0,
+    "updated_at": "2026-09-15T02:45:49Z",
+    "url": "https://github.com/shoemoney/shoemoneyx"
+  },
+  {
+    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
+    "id": "amineeng/scraping-browser",
+    "language": "\u2014",
+    "name": "amineeng/scraping-browser",
+    "stars": 1,
+    "updated_at": "2026-09-15T02:45:21Z",
+    "url": "https://github.com/amineeng/scraping-browser"
+  },
+  {
     "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
     "id": "wq19901103wq/wechat-mac-rpa",
     "language": "Python",
@@ -25,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-09-15T02:41:43Z",
     "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "Open-source crypto paper-trading desk: backtest farm, walk-forward optimizer, 110 exchanges, built-in strategy agent. La",
-    "id": "shoemoney/shoemoneyx",
-    "language": "PHP",
-    "name": "shoemoney/shoemoneyx",
-    "stars": 0,
-    "updated_at": "2026-09-15T02:39:55Z",
-    "url": "https://github.com/shoemoney/shoemoneyx"
   },
   {
     "description": "Source-grounded deep research, writing, and learning plugin for DeepSeek Harness (dsh): steerable checkpoints, mid-run s",
@@ -104,17 +221,8 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5760,
-    "updated_at": "2026-09-15T02:43:38Z",
+    "updated_at": "2026-09-15T02:58:22Z",
     "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "Organizational-memory system for micro/nano fabrication: executable process-flow canvas, LLM agent, reliability-scored k",
-    "id": "liyao13-sketch/OpenNano",
-    "language": "Python",
-    "name": "liyao13-sketch/OpenNano",
-    "stars": 0,
-    "updated_at": "2026-09-15T02:27:26Z",
-    "url": "https://github.com/liyao13-sketch/OpenNano"
   },
   {
     "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
@@ -148,7 +256,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 31661,
+    "stars": 31662,
     "updated_at": "2026-09-15T02:20:22Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -324,42 +432,6 @@
     "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
   },
   {
-    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
-    "id": "HELLOCODINGTR/AgentForge",
-    "language": "\u2014",
-    "name": "HELLOCODINGTR/AgentForge",
-    "stars": 1,
-    "updated_at": "2026-09-15T01:06:06Z",
-    "url": "https://github.com/HELLOCODINGTR/AgentForge"
-  },
-  {
-    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
-    "id": "strobilevitellus470/argus-ai",
-    "language": "Python",
-    "name": "strobilevitellus470/argus-ai",
-    "stars": 1,
-    "updated_at": "2026-09-15T01:05:21Z",
-    "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-09-15T01:02:39Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-09-15T01:02:13Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
     "description": "openPASO \u2014 open Platform for Agentic Simulation and Optimization. An AI agent that operates nine finite-element and mult",
     "id": "alhermann/openPASO",
     "language": "Python",
@@ -376,77 +448,5 @@
     "stars": 298,
     "updated_at": "2026-09-15T01:00:58Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-09-15T01:00:33Z",
-    "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-09-15T00:59:52Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-09-15T00:58:43Z",
-    "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-09-15T00:57:18Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
-    "id": "muhzars/Agent.cpp",
-    "language": "C++",
-    "name": "muhzars/Agent.cpp",
-    "stars": 1,
-    "updated_at": "2026-09-15T00:54:27Z",
-    "url": "https://github.com/muhzars/Agent.cpp"
-  },
-  {
-    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
-    "id": "faheela-786/ComfyUI-qwenmultiangle",
-    "language": "\u2014",
-    "name": "faheela-786/ComfyUI-qwenmultiangle",
-    "stars": 2,
-    "updated_at": "2026-09-15T00:51:41Z",
-    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
-  },
-  {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-09-15T00:58:51Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
-  },
-  {
-    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
-    "id": "amineeng/scraping-browser",
-    "language": "\u2014",
-    "name": "amineeng/scraping-browser",
-    "stars": 1,
-    "updated_at": "2026-09-15T00:50:08Z",
-    "url": "https://github.com/amineeng/scraping-browser"
   }
 ]
