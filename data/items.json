@@ -1,12 +1,30 @@
 [
   {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-09-14T23:59:57Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
     "description": "GPT autonomous research and investigation using starintel",
     "id": "lost-rob0t/starintel-gpt-auto-dig",
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-09-14T23:37:48Z",
+    "updated_at": "2026-09-14T23:59:36Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
+    "id": "jack-h-park/pm-intelligence-engine",
+    "language": "Python",
+    "name": "jack-h-park/pm-intelligence-engine",
+    "stars": 0,
+    "updated_at": "2026-09-14T23:51:45Z",
+    "url": "https://github.com/jack-h-park/pm-intelligence-engine"
   },
   {
     "description": "Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and compu",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-14T21:17:46Z",
     "url": "https://github.com/justacalico/devinorium"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7242,
-    "updated_at": "2026-09-14T21:00:21Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Async Python bot that scrapes YouTube trends, analyzes viral strategies with Gemini LLM, and dispatches HTML reports to ",
-    "id": "Sajadapp/Youtube-Trend-Analyzer",
-    "language": "Python",
-    "name": "Sajadapp/Youtube-Trend-Analyzer",
-    "stars": 30,
-    "updated_at": "2026-09-14T20:58:51Z",
-    "url": "https://github.com/Sajadapp/Youtube-Trend-Analyzer"
   }
 ]
