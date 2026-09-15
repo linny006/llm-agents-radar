@@ -1,5 +1,59 @@
 [
   {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 1,
+    "updated_at": "2026-09-15T11:15:13Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Three small experiments that put a language model against ARC-AGI-3 \u2014 fluid intelligence, harness dependence, and long-t",
+    "id": "JoaquinRuiz/agi-tests",
+    "language": "Python",
+    "name": "JoaquinRuiz/agi-tests",
+    "stars": 1,
+    "updated_at": "2026-09-15T11:12:53Z",
+    "url": "https://github.com/JoaquinRuiz/agi-tests"
+  },
+  {
+    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
+    "id": "PCODE-pl/MCPTap",
+    "language": "Python",
+    "name": "PCODE-pl/MCPTap",
+    "stars": 1,
+    "updated_at": "2026-09-15T11:12:14Z",
+    "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
+    "description": "Build an AI Coding Agent from Scratch, Step by Step | \u4ece\u96f6\u4e00\u6b65\u6b65\u642d\u5efa AI \u7f16\u7a0b Agent\uff0c\u8fb9\u5b9e\u73b0\u8fb9\u7406\u89e3 Agent \u7684\u5de5\u4f5c\u539f\u7406",
+    "id": "liiiiiiiiil/agent-from-scratch",
+    "language": "Python",
+    "name": "liiiiiiiiil/agent-from-scratch",
+    "stars": 62,
+    "updated_at": "2026-09-15T11:09:35Z",
+    "url": "https://github.com/liiiiiiiiil/agent-from-scratch"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 130,
+    "updated_at": "2026-09-15T11:05:21Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5761,
+    "updated_at": "2026-09-15T11:11:49Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
@@ -18,21 +72,12 @@
     "url": "https://github.com/MingyiSecLab/Atlas"
   },
   {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 1,
-    "updated_at": "2026-09-15T11:00:03Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
     "name": "helixml/helix",
     "stars": 808,
-    "updated_at": "2026-09-15T10:52:55Z",
+    "updated_at": "2026-09-15T11:02:20Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -43,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-15T10:51:05Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Three small experiments that put a language model against ARC-AGI-3 \u2014 fluid intelligence, harness dependence, and long-t",
-    "id": "JoaquinRuiz/agi-tests",
-    "language": "Python",
-    "name": "JoaquinRuiz/agi-tests",
-    "stars": 1,
-    "updated_at": "2026-09-15T10:41:54Z",
-    "url": "https://github.com/JoaquinRuiz/agi-tests"
   },
   {
     "description": "openPASO \u2014 open Platform for Agentic Simulation and Optimization. An AI agent that operates nine finite-element and mult",
@@ -67,7 +103,7 @@
     "id": "atria-asi/Atria-Dawn-Preview",
     "language": "\u2014",
     "name": "atria-asi/Atria-Dawn-Preview",
-    "stars": 217,
+    "stars": 221,
     "updated_at": "2026-09-15T10:36:43Z",
     "url": "https://github.com/atria-asi/Atria-Dawn-Preview"
   },
@@ -140,7 +176,7 @@
     "language": "Java",
     "name": "chunleik/self-analyst",
     "stars": 0,
-    "updated_at": "2026-09-15T10:10:26Z",
+    "updated_at": "2026-09-15T11:12:20Z",
     "url": "https://github.com/chunleik/self-analyst"
   },
   {
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-15T10:46:39Z",
+    "updated_at": "2026-09-15T11:04:28Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -248,7 +284,7 @@
     "language": "Python",
     "name": "titanwings/distilly",
     "stars": 24760,
-    "updated_at": "2026-09-15T10:35:06Z",
+    "updated_at": "2026-09-15T11:12:55Z",
     "url": "https://github.com/titanwings/distilly"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 10,
     "updated_at": "2026-09-15T09:05:07Z",
     "url": "https://github.com/Bastioned-successor320/learn-nanobot"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-09-15T09:02:25Z",
-    "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
-    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
-    "id": "chadwickhyperboloidal943/knowl",
-    "language": "TypeScript",
-    "name": "chadwickhyperboloidal943/knowl",
-    "stars": 0,
-    "updated_at": "2026-09-15T09:00:41Z",
-    "url": "https://github.com/chadwickhyperboloidal943/knowl"
-  },
-  {
-    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
-    "id": "Laurenfeminine36/google-jules-skill",
-    "language": "Python",
-    "name": "Laurenfeminine36/google-jules-skill",
-    "stars": 1,
-    "updated_at": "2026-09-15T09:00:27Z",
-    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-09-15T09:00:20Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
   }
 ]
