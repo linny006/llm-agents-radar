@@ -1,21 +1,75 @@
 [
   {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 1,
-    "updated_at": "2026-09-15T10:14:35Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
     "description": "",
     "id": "atria-asi/Atria-Dawn-Preview",
     "language": "\u2014",
     "name": "atria-asi/Atria-Dawn-Preview",
     "stars": 211,
-    "updated_at": "2026-09-15T10:12:52Z",
+    "updated_at": "2026-09-15T10:27:36Z",
     "url": "https://github.com/atria-asi/Atria-Dawn-Preview"
+  },
+  {
+    "description": "A verification-first agent research prototype exploring explicit task state, independent verification, and evidence-back",
+    "id": "Matt9x/veritas-agent",
+    "language": "Python",
+    "name": "Matt9x/veritas-agent",
+    "stars": 0,
+    "updated_at": "2026-09-15T10:27:11Z",
+    "url": "https://github.com/Matt9x/veritas-agent"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 1,
+    "updated_at": "2026-09-15T10:29:58Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "An experimental agent-memory prototype with explicit memory states, historical source provenance, invalidation, conserva",
+    "id": "Matt9x/kairos-agent-memory",
+    "language": "JavaScript",
+    "name": "Matt9x/kairos-agent-memory",
+    "stars": 0,
+    "updated_at": "2026-09-15T10:26:30Z",
+    "url": "https://github.com/Matt9x/kairos-agent-memory"
+  },
+  {
+    "description": "HunterCode \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance Edition \u00b7 \u591a\u667a\u80fd\u4f53\u6295\u7814\u7ec8\u7aef ",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 509,
+    "updated_at": "2026-09-15T10:24:52Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "One-Stop Personal Health AI Agent \"Say Hi to Healthy Me\"",
+    "id": "thinkwee/HiMe",
+    "language": "Python",
+    "name": "thinkwee/HiMe",
+    "stars": 63,
+    "updated_at": "2026-09-15T10:21:08Z",
+    "url": "https://github.com/thinkwee/HiMe"
+  },
+  {
+    "description": "Open-source local AI Agent desktop app for authorized security assessment \u2014 Electron + Mastra-powered runtime, visual pe",
+    "id": "MingyiSecLab/Atlas",
+    "language": "TypeScript",
+    "name": "MingyiSecLab/Atlas",
+    "stars": 3,
+    "updated_at": "2026-09-15T10:17:04Z",
+    "url": "https://github.com/MingyiSecLab/Atlas"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 696,
+    "updated_at": "2026-09-15T10:16:08Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -45,6 +99,15 @@
     "url": "https://github.com/AVADSA25/codec"
   },
   {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3361,
+    "updated_at": "2026-09-15T10:07:53Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
     "description": "AI customer support agent for AppleSupport using intent classification via clustering (K-Means), RAG-grounded reply gene",
     "id": "Amar-7778/Customer-Support-Agent-Apple-Support-",
     "language": "Python",
@@ -54,40 +117,13 @@
     "url": "https://github.com/Amar-7778/Customer-Support-Agent-Apple-Support-"
   },
   {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3360,
-    "updated_at": "2026-09-15T10:07:53Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-09-15T09:58:56Z",
+    "updated_at": "2026-09-15T10:25:40Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 696,
-    "updated_at": "2026-09-15T10:00:45Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "A verification-first agent research prototype exploring explicit task state, independent verification, and evidence-back",
-    "id": "Matt9x/veritas-agent",
-    "language": "Python",
-    "name": "Matt9x/veritas-agent",
-    "stars": 0,
-    "updated_at": "2026-09-15T09:56:30Z",
-    "url": "https://github.com/Matt9x/veritas-agent"
   },
   {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
@@ -122,7 +158,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-15T10:06:40Z",
+    "updated_at": "2026-09-15T10:24:21Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "titanwings/distilly",
     "stars": 24760,
-    "updated_at": "2026-09-15T10:06:29Z",
+    "updated_at": "2026-09-15T10:27:19Z",
     "url": "https://github.com/titanwings/distilly"
   },
   {
@@ -160,15 +196,6 @@
     "stars": 496,
     "updated_at": "2026-09-15T09:33:07Z",
     "url": "https://github.com/expectedparrot/edsl"
-  },
-  {
-    "description": "HunterCode \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance Edition \u00b7 \u591a\u667a\u80fd\u4f53\u6295\u7814\u7ec8\u7aef ",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 509,
-    "updated_at": "2026-09-15T09:30:43Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -351,15 +378,6 @@
     "url": "https://github.com/Laurenfeminine36/google-jules-skill"
   },
   {
-    "description": "Open-source local AI Agent desktop app for authorized security assessment \u2014 Electron + Mastra-powered runtime, visual pe",
-    "id": "MingyiSecLab/Atlas",
-    "language": "TypeScript",
-    "name": "MingyiSecLab/Atlas",
-    "stars": 3,
-    "updated_at": "2026-09-15T09:00:44Z",
-    "url": "https://github.com/MingyiSecLab/Atlas"
-  },
-  {
     "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
     "id": "Jssu8541/ouro-loop",
     "language": "\u2014",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-15T08:49:41Z",
     "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
-  },
-  {
-    "description": "TaskWizard\uff1a\u8584\u73af\uff08thin-loop\uff09LLM \u5b89\u5353\u624b\u673a\u667a\u80fd\u4f53 \u2014 \u6bcf\u6b65\u4e00\u6b21\u6a21\u578b\u8c03\u7528\u3001marks-first \u843d\u5730\u3001\u5b89\u5168\u9884\u8b66\u5236\u3001App-KB \u81ea\u79ef\u7d2f\u8bb0\u5fc6\u3001\u7ecf\u9a8c\u56de\u60f3\uff08RAG shadow\uff09\u3002Thin-loop LLM Android ",
-    "id": "tom-cat-mao/TaskWizard",
-    "language": "Python",
-    "name": "tom-cat-mao/TaskWizard",
-    "stars": 0,
-    "updated_at": "2026-09-15T08:49:27Z",
-    "url": "https://github.com/tom-cat-mao/TaskWizard"
-  },
-  {
-    "description": "An experimental agent-memory prototype with explicit memory states, historical source provenance, invalidation, conserva",
-    "id": "Matt9x/kairos-agent-memory",
-    "language": "JavaScript",
-    "name": "Matt9x/kairos-agent-memory",
-    "stars": 0,
-    "updated_at": "2026-09-15T08:49:00Z",
-    "url": "https://github.com/Matt9x/kairos-agent-memory"
   }
 ]
