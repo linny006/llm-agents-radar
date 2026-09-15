@@ -1,10 +1,73 @@
 [
   {
+    "description": "AI agent\u7092\u80a1\u8350\u80a1\u76ef\u76d8+open claw\u5fae\u4fe1\u5b9e\u65f6\u63a8\u9001\u64ad\u62a5\u5de5\u4f5c\u6d41",
+    "id": "Heliotrope-dev/finance-agent",
+    "language": "Python",
+    "name": "Heliotrope-dev/finance-agent",
+    "stars": 2,
+    "updated_at": "2026-09-15T04:13:27Z",
+    "url": "https://github.com/Heliotrope-dev/finance-agent"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 1,
+    "updated_at": "2026-09-15T04:12:44Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Benzi is AI-native code intelligence infrastructure. Claude Code greps; Cursor embeds; Aider maps signatures; Benzi reso",
+    "id": "oooscoos/Benzi",
+    "language": "Python",
+    "name": "oooscoos/Benzi",
+    "stars": 70,
+    "updated_at": "2026-09-15T04:11:31Z",
+    "url": "https://github.com/oooscoos/Benzi"
+  },
+  {
+    "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
+    "id": "xhqing/DayTradingAgent",
+    "language": "Python",
+    "name": "xhqing/DayTradingAgent",
+    "stars": 2,
+    "updated_at": "2026-09-15T04:09:45Z",
+    "url": "https://github.com/xhqing/DayTradingAgent"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-15T04:09:05Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
+    "id": "wufufu770/d2d",
+    "language": "JavaScript",
+    "name": "wufufu770/d2d",
+    "stars": 2,
+    "updated_at": "2026-09-15T04:07:00Z",
+    "url": "https://github.com/wufufu770/d2d"
+  },
+  {
+    "description": "AI agent skill for automating Blender (bpy) - headless 3D modeling, materials, lighting and rendering with built-in geom",
+    "id": "junk1080p-alt/capybala-bpy-skill",
+    "language": "Python",
+    "name": "junk1080p-alt/capybala-bpy-skill",
+    "stars": 0,
+    "updated_at": "2026-09-15T04:00:33Z",
+    "url": "https://github.com/junk1080p-alt/capybala-bpy-skill"
+  },
+  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 31669,
+    "stars": 31671,
     "updated_at": "2026-09-15T03:56:57Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -22,7 +85,7 @@
     "id": "Bowen-0x00/social-radar",
     "language": "Python",
     "name": "Bowen-0x00/social-radar",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-09-15T03:51:15Z",
     "url": "https://github.com/Bowen-0x00/social-radar"
   },
@@ -385,68 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-15T02:33:30Z",
     "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-09-15T02:30:40Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "Keep agent CLIs running 7\u00d724 \u2014 supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure",
-    "id": "wan9yu/cli-agent-runner",
-    "language": "Python",
-    "name": "wan9yu/cli-agent-runner",
-    "stars": 4,
-    "updated_at": "2026-09-15T02:29:17Z",
-    "url": "https://github.com/wan9yu/cli-agent-runner"
-  },
-  {
-    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
-    "id": "kyleslight/shun",
-    "language": "TypeScript",
-    "name": "kyleslight/shun",
-    "stars": 6,
-    "updated_at": "2026-09-15T02:26:51Z",
-    "url": "https://github.com/kyleslight/shun"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 1,
-    "updated_at": "2026-09-15T02:21:44Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
-    "description": "Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and compu",
-    "id": "feder-cr/AIHawk",
-    "language": "Python",
-    "name": "feder-cr/AIHawk",
-    "stars": 31577,
-    "updated_at": "2026-09-15T02:21:12Z",
-    "url": "https://github.com/feder-cr/AIHawk"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-09-15T02:18:54Z",
-    "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
-    "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
-    "id": "jack-h-park/pm-intelligence-engine",
-    "language": "Python",
-    "name": "jack-h-park/pm-intelligence-engine",
-    "stars": 0,
-    "updated_at": "2026-09-15T03:51:50Z",
-    "url": "https://github.com/jack-h-park/pm-intelligence-engine"
   }
 ]
