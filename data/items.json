@@ -1,5 +1,77 @@
 [
   {
+    "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
+    "id": "OtakuNathan/Pal",
+    "language": "Python",
+    "name": "OtakuNathan/Pal",
+    "stars": 2,
+    "updated_at": "2026-09-15T11:36:55Z",
+    "url": "https://github.com/OtakuNathan/Pal"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 1,
+    "updated_at": "2026-09-15T11:45:07Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
+    "id": "expectedparrot/edsl",
+    "language": "Python",
+    "name": "expectedparrot/edsl",
+    "stars": 496,
+    "updated_at": "2026-09-15T11:35:03Z",
+    "url": "https://github.com/expectedparrot/edsl"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 697,
+    "updated_at": "2026-09-15T11:33:37Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
+    "id": "chunleik/self-analyst",
+    "language": "Java",
+    "name": "chunleik/self-analyst",
+    "stars": 0,
+    "updated_at": "2026-09-15T11:33:47Z",
+    "url": "https://github.com/chunleik/self-analyst"
+  },
+  {
+    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
+    "id": "PCODE-pl/MCPTap",
+    "language": "Python",
+    "name": "PCODE-pl/MCPTap",
+    "stars": 1,
+    "updated_at": "2026-09-15T11:31:46Z",
+    "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
+    "description": "Build an AI Coding Agent from Scratch, Step by Step | \u4ece\u96f6\u4e00\u6b65\u6b65\u642d\u5efa AI \u7f16\u7a0b Agent\uff0c\u8fb9\u5b9e\u73b0\u8fb9\u7406\u89e3 Agent \u7684\u5de5\u4f5c\u539f\u7406",
+    "id": "liiiiiiiiil/agent-from-scratch",
+    "language": "Python",
+    "name": "liiiiiiiiil/agent-from-scratch",
+    "stars": 64,
+    "updated_at": "2026-09-15T11:31:09Z",
+    "url": "https://github.com/liiiiiiiiil/agent-from-scratch"
+  },
+  {
+    "description": "\u5b89\u5168\u4f18\u5148\u7684\u4e2d\u533b\u77e5\u8bc6\u56fe\u8c31 + Agentic GraphRAG \u95ee\u7b54\u7cfb\u7edf | Safety-first TCM knowledge graph with evidence-backed GraphRAG Q&A. Neo4j \u00b7 LangGr",
+    "id": "TR2335/ZY-TCM-Knowledge-Graph",
+    "language": "Python",
+    "name": "TR2335/ZY-TCM-Knowledge-Graph",
+    "stars": 0,
+    "updated_at": "2026-09-15T11:30:52Z",
+    "url": "https://github.com/TR2335/ZY-TCM-Knowledge-Graph"
+  },
+  {
     "description": "A multi-agent research system for the humanities and social sciences.",
     "id": "Luciole-Studio/Misaka-Agent",
     "language": "Python",
@@ -32,17 +104,8 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5762,
-    "updated_at": "2026-09-15T11:21:44Z",
+    "updated_at": "2026-09-15T11:43:43Z",
     "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 697,
-    "updated_at": "2026-09-15T11:19:52Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -61,33 +124,6 @@
     "stars": 24759,
     "updated_at": "2026-09-15T11:17:20Z",
     "url": "https://github.com/titanwings/distilly"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 1,
-    "updated_at": "2026-09-15T11:24:27Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-09-15T11:12:14Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
-  },
-  {
-    "description": "Build an AI Coding Agent from Scratch, Step by Step | \u4ece\u96f6\u4e00\u6b65\u6b65\u642d\u5efa AI \u7f16\u7a0b Agent\uff0c\u8fb9\u5b9e\u73b0\u8fb9\u7406\u89e3 Agent \u7684\u5de5\u4f5c\u539f\u7406",
-    "id": "liiiiiiiiil/agent-from-scratch",
-    "language": "Python",
-    "name": "liiiiiiiiil/agent-from-scratch",
-    "stars": 63,
-    "updated_at": "2026-09-15T11:09:35Z",
-    "url": "https://github.com/liiiiiiiiil/agent-from-scratch"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -113,7 +149,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 808,
-    "updated_at": "2026-09-15T11:02:20Z",
+    "updated_at": "2026-09-15T11:32:36Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -139,7 +175,7 @@
     "id": "atria-asi/Atria-Dawn-Preview",
     "language": "\u2014",
     "name": "atria-asi/Atria-Dawn-Preview",
-    "stars": 222,
+    "stars": 224,
     "updated_at": "2026-09-15T10:36:43Z",
     "url": "https://github.com/atria-asi/Atria-Dawn-Preview"
   },
@@ -198,15 +234,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
-    "id": "chunleik/self-analyst",
-    "language": "Java",
-    "name": "chunleik/self-analyst",
-    "stars": 0,
-    "updated_at": "2026-09-15T11:12:20Z",
-    "url": "https://github.com/chunleik/self-analyst"
-  },
-  {
     "description": "Open-Source Intelligent Command Layer",
     "id": "AVADSA25/codec",
     "language": "Python",
@@ -221,7 +248,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3362,
-    "updated_at": "2026-09-15T11:30:13Z",
+    "updated_at": "2026-09-15T11:30:55Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -295,15 +322,6 @@
     "stars": 1,
     "updated_at": "2026-09-15T09:37:57Z",
     "url": "https://github.com/jbq8814-lab/FastFix"
-  },
-  {
-    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
-    "id": "expectedparrot/edsl",
-    "language": "Python",
-    "name": "expectedparrot/edsl",
-    "stars": 496,
-    "updated_at": "2026-09-15T09:33:07Z",
-    "url": "https://github.com/expectedparrot/edsl"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-15T09:08:55Z",
     "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
-  },
-  {
-    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
-    "id": "tessellated-statisticalcommission243/deep-research-skill",
-    "language": "\u2014",
-    "name": "tessellated-statisticalcommission243/deep-research-skill",
-    "stars": 3,
-    "updated_at": "2026-09-15T09:06:03Z",
-    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
-    "id": "Samuelcluttered613/paper2code",
-    "language": "Python",
-    "name": "Samuelcluttered613/paper2code",
-    "stars": 1,
-    "updated_at": "2026-09-15T09:05:19Z",
-    "url": "https://github.com/Samuelcluttered613/paper2code"
   }
 ]
