@@ -1,5 +1,50 @@
 [
   {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 1,
+    "updated_at": "2026-09-15T00:44:49Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
+    "language": "Python",
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-09-15T00:45:19Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and compu",
+    "id": "feder-cr/AIHawk",
+    "language": "Python",
+    "name": "feder-cr/AIHawk",
+    "stars": 31574,
+    "updated_at": "2026-09-15T00:41:29Z",
+    "url": "https://github.com/feder-cr/AIHawk"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-09-15T00:40:10Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-15T00:39:12Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
     "id": "irandysousa/langgraph-llama-cpp-starter",
     "language": "Python",
@@ -18,15 +63,6 @@
     "url": "https://github.com/JortegaR/ai-notes-api"
   },
   {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 1,
-    "updated_at": "2026-09-15T00:37:04Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
     "id": "JSL107/personal_agents",
     "language": "TypeScript",
@@ -34,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-09-15T00:32:14Z",
     "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-09-15T00:31:25Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
     "description": "HunterCode \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance Edition \u00b7 \u591a\u667a\u80fd\u4f53\u6295\u7814\u7ec8\u7aef ",
@@ -106,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-14T23:51:45Z",
     "url": "https://github.com/jack-h-park/pm-intelligence-engine"
-  },
-  {
-    "description": "Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and compu",
-    "id": "feder-cr/AIHawk",
-    "language": "Python",
-    "name": "feder-cr/AIHawk",
-    "stars": 31573,
-    "updated_at": "2026-09-15T00:33:34Z",
-    "url": "https://github.com/feder-cr/AIHawk"
   },
   {
     "description": "openPASO \u2014 open Platform for Agentic Simulation and Optimization. An AI agent that operates nine finite-element and mult",
@@ -387,15 +405,6 @@
     "url": "https://github.com/piporyx/doc-qa-agent"
   },
   {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-09-14T22:24:35Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -412,15 +421,6 @@
     "stars": 3,
     "updated_at": "2026-09-14T22:22:38Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-09-14T22:13:06Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
