@@ -1,5 +1,50 @@
 [
   {
+    "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
+    "id": "OtakuNathan/Pal",
+    "language": "Python",
+    "name": "OtakuNathan/Pal",
+    "stars": 2,
+    "updated_at": "2026-09-15T04:29:00Z",
+    "url": "https://github.com/OtakuNathan/Pal"
+  },
+  {
+    "description": "\u4e2a\u6027\u5316\u5b66\u4e60\u591a\u667a\u80fd\u4f53\u7cfb\u7edf\uff1aFastAPI + LangGraph\uff0cReAct \u81ea\u4e3b\u8f85\u5bfc Agent + BM25 \u4e09\u9053\u4ee3\u7801\u7ea7\u9632\u5e7b\u89c9 RAG + \u4e09\u5c42\u8bb0\u5fc6\uff0cpytest 146 \u5168\u79bb\u7ebf\u53ef\u8dd1",
+    "id": "Dongnb66/python-learning-agent",
+    "language": "Python",
+    "name": "Dongnb66/python-learning-agent",
+    "stars": 0,
+    "updated_at": "2026-09-15T04:28:14Z",
+    "url": "https://github.com/Dongnb66/python-learning-agent"
+  },
+  {
+    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
+    "id": "bigduu/Zenith",
+    "language": "JavaScript",
+    "name": "bigduu/Zenith",
+    "stars": 6,
+    "updated_at": "2026-09-15T04:20:54Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "An open-source research agent system for your Zotero library.",
+    "id": "yilewang/llm-for-zotero",
+    "language": "TypeScript",
+    "name": "yilewang/llm-for-zotero",
+    "stars": 3003,
+    "updated_at": "2026-09-15T04:18:04Z",
+    "url": "https://github.com/yilewang/llm-for-zotero"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 1,
+    "updated_at": "2026-09-15T04:17:14Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
     "description": "AI agent\u7092\u80a1\u8350\u80a1\u76ef\u76d8+open claw\u5fae\u4fe1\u5b9e\u65f6\u63a8\u9001\u64ad\u62a5\u5de5\u4f5c\u6d41",
     "id": "Heliotrope-dev/finance-agent",
     "language": "Python",
@@ -9,20 +54,11 @@
     "url": "https://github.com/Heliotrope-dev/finance-agent"
   },
   {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 1,
-    "updated_at": "2026-09-15T04:12:44Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
     "description": "Benzi is AI-native code intelligence infrastructure. Claude Code greps; Cursor embeds; Aider maps signatures; Benzi reso",
     "id": "oooscoos/Benzi",
     "language": "Python",
     "name": "oooscoos/Benzi",
-    "stars": 70,
+    "stars": 71,
     "updated_at": "2026-09-15T04:11:31Z",
     "url": "https://github.com/oooscoos/Benzi"
   },
@@ -55,19 +91,19 @@
   },
   {
     "description": "AI agent skill for automating Blender (bpy) - headless 3D modeling, materials, lighting and rendering with built-in geom",
-    "id": "junk1080p-alt/capybala-bpy-skill",
+    "id": "capybala18/capybala-bpy-skill",
     "language": "Python",
-    "name": "junk1080p-alt/capybala-bpy-skill",
+    "name": "capybala18/capybala-bpy-skill",
     "stars": 0,
     "updated_at": "2026-09-15T04:00:33Z",
-    "url": "https://github.com/junk1080p-alt/capybala-bpy-skill"
+    "url": "https://github.com/capybala18/capybala-bpy-skill"
   },
   {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 31671,
+    "stars": 31672,
     "updated_at": "2026-09-15T03:56:57Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -131,17 +167,8 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5760,
-    "updated_at": "2026-09-15T03:37:07Z",
+    "updated_at": "2026-09-15T04:25:16Z",
     "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
-    "id": "bigduu/Zenith",
-    "language": "JavaScript",
-    "name": "bigduu/Zenith",
-    "stars": 6,
-    "updated_at": "2026-09-15T03:14:35Z",
-    "url": "https://github.com/bigduu/Zenith"
   },
   {
     "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-15T02:36:20Z",
     "url": "https://github.com/wxxb789/dsh-raven-research"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-09-15T02:36:06Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "Auditing shortcut learning and temporal leakage in LLM agent trajectory detection.",
-    "id": "Sleepingbin/traceaudit",
-    "language": "Python",
-    "name": "Sleepingbin/traceaudit",
-    "stars": 0,
-    "updated_at": "2026-09-15T02:34:52Z",
-    "url": "https://github.com/Sleepingbin/traceaudit"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 3,
-    "updated_at": "2026-09-15T02:33:30Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
   }
 ]
