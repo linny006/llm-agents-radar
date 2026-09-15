@@ -1,5 +1,41 @@
 [
   {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 697,
+    "updated_at": "2026-09-15T17:44:41Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "Runtime token governor for DSH (DeepSeek Harness): deterministic task routing, in-code budgets, task-shaped tool surface",
+    "id": "jijiwu3526/dsh-token-governor",
+    "language": "JavaScript",
+    "name": "jijiwu3526/dsh-token-governor",
+    "stars": 0,
+    "updated_at": "2026-09-15T17:37:41Z",
+    "url": "https://github.com/jijiwu3526/dsh-token-governor"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4415,
+    "updated_at": "2026-09-15T17:36:36Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-15T17:33:17Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
     "description": "Full-stack AI personal finance platform \u2014 FastAPI + SQLite backend, conversational agent with pattern-matched instant re",
     "id": "harshbhanushali26/finos",
     "language": "Python",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-09-15T17:21:57Z",
+    "updated_at": "2026-09-15T17:38:40Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -27,15 +63,6 @@
     "url": "https://github.com/Jogi-OpenSource/JogiJarvis-Mobile"
   },
   {
-    "description": "Runtime token governor for DSH (DeepSeek Harness): deterministic task routing, in-code budgets, task-shaped tool surface",
-    "id": "jijiwu3526/dsh-token-governor",
-    "language": "JavaScript",
-    "name": "jijiwu3526/dsh-token-governor",
-    "stars": 0,
-    "updated_at": "2026-09-15T17:15:53Z",
-    "url": "https://github.com/jijiwu3526/dsh-token-governor"
-  },
-  {
     "description": "\u6295\u8d44\u79c1\u4eba\u7ba1\u5bb6 \u00b7 A\u80a1\u57fa\u91d1 AI \u79c1\u4eba\u987e\u95ee\uff08Invest Concierge \u2014 A-share & fund AI personal investment assistant\uff09",
     "id": "cx-ssg/invest-concierge",
     "language": "Python",
@@ -45,21 +72,12 @@
     "url": "https://github.com/cx-ssg/invest-concierge"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-15T17:08:42Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
     "id": "Cyrax321/CONTINUUM",
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 28,
-    "updated_at": "2026-09-15T17:29:32Z",
+    "updated_at": "2026-09-15T17:32:37Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -70,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-15T17:04:04Z",
     "url": "https://github.com/chunleik/self-analyst"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 697,
-    "updated_at": "2026-09-15T17:24:29Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
@@ -257,7 +266,7 @@
     "language": "JavaScript",
     "name": "bigduu/Zenith",
     "stars": 6,
-    "updated_at": "2026-09-15T15:55:34Z",
+    "updated_at": "2026-09-15T17:42:29Z",
     "url": "https://github.com/bigduu/Zenith"
   },
   {
@@ -266,7 +275,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 18,
-    "updated_at": "2026-09-15T15:46:16Z",
+    "updated_at": "2026-09-15T17:36:29Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -302,7 +311,7 @@
     "language": "Python",
     "name": "nexpeakcore/deepseek-harness-pr-review",
     "stars": 42,
-    "updated_at": "2026-09-15T17:18:37Z",
+    "updated_at": "2026-09-15T17:41:41Z",
     "url": "https://github.com/nexpeakcore/deepseek-harness-pr-review"
   },
   {
@@ -382,7 +391,7 @@
     "id": "titanwings/distilly",
     "language": "Python",
     "name": "titanwings/distilly",
-    "stars": 24765,
+    "stars": 24767,
     "updated_at": "2026-09-15T14:59:34Z",
     "url": "https://github.com/titanwings/distilly"
   },
@@ -439,14 +448,5 @@
     "stars": 3370,
     "updated_at": "2026-09-15T14:21:43Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 1262,
-    "updated_at": "2026-09-15T14:05:35Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
   }
 ]
