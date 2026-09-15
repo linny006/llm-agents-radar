@@ -1,11 +1,29 @@
 [
   {
+    "description": "A multi-agent OS for your phone: Claude Code and the Codex CLI running natively on Android in their own Debian userland ",
+    "id": "Jogi-OpenSource/JogiJarvis-Mobile",
+    "language": "Kotlin",
+    "name": "Jogi-OpenSource/JogiJarvis-Mobile",
+    "stars": 1,
+    "updated_at": "2026-09-15T01:43:41Z",
+    "url": "https://github.com/Jogi-OpenSource/JogiJarvis-Mobile"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "TypeScript",
+    "name": "dsswift/ion",
+    "stars": 4,
+    "updated_at": "2026-09-15T01:42:05Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
     "description": "GPT autonomous research and investigation using starintel",
     "id": "lost-rob0t/starintel-gpt-auto-dig",
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-09-15T01:30:08Z",
+    "updated_at": "2026-09-15T01:38:44Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "feder-cr/AIHawk",
     "stars": 31574,
-    "updated_at": "2026-09-15T01:21:18Z",
+    "updated_at": "2026-09-15T01:44:05Z",
     "url": "https://github.com/feder-cr/AIHawk"
   },
   {
@@ -70,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-09-15T01:18:07Z",
     "url": "https://github.com/Blondieredistributed612/pocket-agent"
-  },
-  {
-    "description": "A multi-agent OS for your phone: Claude Code and the Codex CLI running natively on Android in their own Debian userland ",
-    "id": "Jogi-OpenSource/JogiJarvis-Mobile",
-    "language": "Kotlin",
-    "name": "Jogi-OpenSource/JogiJarvis-Mobile",
-    "stars": 1,
-    "updated_at": "2026-09-15T01:17:27Z",
-    "url": "https://github.com/Jogi-OpenSource/JogiJarvis-Mobile"
   },
   {
     "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
@@ -193,7 +202,7 @@
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 297,
+    "stars": 298,
     "updated_at": "2026-09-15T01:00:58Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
@@ -439,14 +448,5 @@
     "stars": 3000,
     "updated_at": "2026-09-14T22:34:21Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
-  },
-  {
-    "description": "Application Security orchestration platform",
-    "id": "grauwolf32/contractor",
-    "language": "Go",
-    "name": "grauwolf32/contractor",
-    "stars": 1,
-    "updated_at": "2026-09-14T22:31:50Z",
-    "url": "https://github.com/grauwolf32/contractor"
   }
 ]
