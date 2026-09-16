@@ -1,11 +1,47 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 24,
+    "updated_at": "2026-09-16T03:58:54Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4415,
+    "updated_at": "2026-09-16T03:59:39Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5963,
+    "updated_at": "2026-09-16T03:53:59Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "\u4ece\u96f6\u5b9e\u73b0 AI \u6838\u5fc3\u7ec4\u4ef6\uff08mini-* \u7cfb\u5217\uff09\uff1aTransformer / Qwen3 / BPE / Agent / RAG / Vector DB\u3002Rebuild AI building blocks from scratch.",
+    "id": "xbsheng/ai-from-scratch",
+    "language": "Python",
+    "name": "xbsheng/ai-from-scratch",
+    "stars": 1,
+    "updated_at": "2026-09-16T03:49:23Z",
+    "url": "https://github.com/xbsheng/ai-from-scratch"
+  },
+  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-09-16T03:44:08Z",
+    "updated_at": "2026-09-16T03:52:06Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -14,17 +50,8 @@
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 8,
-    "updated_at": "2026-09-16T03:37:02Z",
+    "updated_at": "2026-09-16T03:48:25Z",
     "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-16T03:36:52Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
@@ -32,7 +59,7 @@
     "language": "TypeScript",
     "name": "plurnk/plurnk-service",
     "stars": 0,
-    "updated_at": "2026-09-16T03:36:15Z",
+    "updated_at": "2026-09-16T03:47:06Z",
     "url": "https://github.com/plurnk/plurnk-service"
   },
   {
@@ -41,7 +68,7 @@
     "language": "TypeScript",
     "name": "echo-yiyi/echo-agent",
     "stars": 2,
-    "updated_at": "2026-09-16T03:35:29Z",
+    "updated_at": "2026-09-16T03:46:42Z",
     "url": "https://github.com/echo-yiyi/echo-agent"
   },
   {
@@ -59,17 +86,8 @@
     "language": "Java",
     "name": "kangwoo/aimon-core",
     "stars": 0,
-    "updated_at": "2026-09-16T03:38:33Z",
+    "updated_at": "2026-09-16T03:49:09Z",
     "url": "https://github.com/kangwoo/aimon-core"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5963,
-    "updated_at": "2026-09-16T03:32:31Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "Benzi is AI-native code intelligence infrastructure. Claude Code greps; Cursor embeds; Aider maps signatures; Benzi reso",
@@ -423,15 +441,6 @@
     "url": "https://github.com/kyleslight/shun"
   },
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4415,
-    "updated_at": "2026-09-16T02:37:02Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
     "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
     "id": "citizenhicks/mobius",
     "language": "Rust",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-16T03:03:59Z",
     "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 31751,
-    "updated_at": "2026-09-16T02:15:27Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
   }
 ]
