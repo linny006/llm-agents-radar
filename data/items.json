@@ -1,21 +1,75 @@
 [
   {
-    "description": "Benzi is AI-native code intelligence infrastructure. Claude Code greps; Cursor embeds; Aider maps signatures; Benzi reso",
-    "id": "oooscoos/Benzi",
-    "language": "Python",
-    "name": "oooscoos/Benzi",
-    "stars": 75,
-    "updated_at": "2026-09-16T18:00:08Z",
-    "url": "https://github.com/oooscoos/Benzi"
-  },
-  {
     "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
     "id": "sydches/yuj",
     "language": "Python",
     "name": "sydches/yuj",
     "stars": 3,
-    "updated_at": "2026-09-16T17:59:06Z",
+    "updated_at": "2026-09-16T18:12:33Z",
     "url": "https://github.com/sydches/yuj"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 502,
+    "updated_at": "2026-09-16T18:11:24Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 499,
+    "updated_at": "2026-09-16T18:10:57Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "Full-stack AI personal finance platform \u2014 FastAPI + SQLite backend, conversational agent with pattern-matched instant re",
+    "id": "harshbhanushali26/finos",
+    "language": "Python",
+    "name": "harshbhanushali26/finos",
+    "stars": 1,
+    "updated_at": "2026-09-16T18:05:18Z",
+    "url": "https://github.com/harshbhanushali26/finos"
+  },
+  {
+    "description": "Tool-calling RAG agent for personal finance Q&A \u2014 Flask, Groq, FAISS. Routes questions between exact pandas computation ",
+    "id": "Tanushx23/finance-rag",
+    "language": "Python",
+    "name": "Tanushx23/finance-rag",
+    "stars": 0,
+    "updated_at": "2026-09-16T18:04:46Z",
+    "url": "https://github.com/Tanushx23/finance-rag"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 127,
+    "updated_at": "2026-09-16T18:04:17Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 3,
+    "updated_at": "2026-09-16T18:03:59Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
+    "id": "the-priest/PriestsBasilisk",
+    "language": "Python",
+    "name": "the-priest/PriestsBasilisk",
+    "stars": 3,
+    "updated_at": "2026-09-16T18:02:27Z",
+    "url": "https://github.com/the-priest/PriestsBasilisk"
   },
   {
     "description": "\u76d8\u53e4 \u2014 AI Agent \u591a\u6a21\u6001\u8bb0\u5fc6\u7cfb\u7edf\uff1aWing\u2192Room\u2192Drawer \u5206\u5c42\u5b58\u50a8\u3001ONNX \u672c\u5730\u5d4c\u5165\u8bed\u4e49\u68c0\u7d22\uff08SQLite FTS5 + RRF \u878d\u5408\uff09\u3001\u827e\u5bbe\u6d69\u65af\u9057\u5fd8\u66f2\u7ebf\u4e0e\u795e\u7ecf\u6fc0\u6d3b\u6269\u6563\uff1b\u63d0\u4f9b REST API + MCP \u670d\u52a1\uff0c\u9ed8\u8ba4\u66b4",
@@ -23,8 +77,17 @@
     "language": "Python",
     "name": "Mlte0907/pangu",
     "stars": 0,
-    "updated_at": "2026-09-16T17:58:29Z",
+    "updated_at": "2026-09-16T18:01:30Z",
     "url": "https://github.com/Mlte0907/pangu"
+  },
+  {
+    "description": "Benzi is AI-native code intelligence infrastructure. Claude Code greps; Cursor embeds; Aider maps signatures; Benzi reso",
+    "id": "oooscoos/Benzi",
+    "language": "Python",
+    "name": "oooscoos/Benzi",
+    "stars": 75,
+    "updated_at": "2026-09-16T18:00:08Z",
+    "url": "https://github.com/oooscoos/Benzi"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -43,6 +106,15 @@
     "stars": 0,
     "updated_at": "2026-09-16T17:56:59Z",
     "url": "https://github.com/ravisinghrajput95/kubewhy"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7282,
+    "updated_at": "2026-09-16T17:54:36Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "LLM-agnostic tabletop RPG Game Master framework. Runs on OpenCode, LM Studio, or any LLM service. D&D 5e included as ref",
@@ -97,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-16T17:35:04Z",
     "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 501,
-    "updated_at": "2026-09-16T17:35:01Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
@@ -214,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-09-16T17:18:44Z",
     "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7281,
-    "updated_at": "2026-09-16T17:54:36Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-16T16:46:27Z",
     "url": "https://github.com/watchcat/scout"
-  },
-  {
-    "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
-    "id": "SugarMGP/MumuBot",
-    "language": "Go",
-    "name": "SugarMGP/MumuBot",
-    "stars": 23,
-    "updated_at": "2026-09-16T16:44:07Z",
-    "url": "https://github.com/SugarMGP/MumuBot"
-  },
-  {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 1281,
-    "updated_at": "2026-09-16T16:43:42Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
-    "description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
-    "id": "Pan-Chera/Multi-Agent-CAD",
-    "language": "Python",
-    "name": "Pan-Chera/Multi-Agent-CAD",
-    "stars": 953,
-    "updated_at": "2026-09-16T16:43:40Z",
-    "url": "https://github.com/Pan-Chera/Multi-Agent-CAD"
-  },
-  {
-    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
-    "id": "bigduu/Zenith",
-    "language": "JavaScript",
-    "name": "bigduu/Zenith",
-    "stars": 6,
-    "updated_at": "2026-09-16T16:44:16Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "\ud83e\udd16 ULTIMATE JARVIS \u2014 Persian computer-use AI agent: 51 tools, 13 agents, push-to-talk hotkey, Telegram bot, quiz solver, ",
-    "id": "Pillow1243/Ultimate-Jarvis",
-    "language": "Python",
-    "name": "Pillow1243/Ultimate-Jarvis",
-    "stars": 0,
-    "updated_at": "2026-09-16T16:40:10Z",
-    "url": "https://github.com/Pillow1243/Ultimate-Jarvis"
-  },
-  {
-    "description": "the companyfabric.com website repository",
-    "id": "companyfabric/companyfabric",
-    "language": "\u2014",
-    "name": "companyfabric/companyfabric",
-    "stars": 1,
-    "updated_at": "2026-09-16T16:28:09Z",
-    "url": "https://github.com/companyfabric/companyfabric"
   }
 ]
