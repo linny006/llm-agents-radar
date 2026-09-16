@@ -1,20 +1,11 @@
 [
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-15T23:51:51Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "Amadeus \u2014 DSH Galgame Mode + \u72ec\u7acb\u79fb\u52a8\u7aef APP",
     "id": "saya-ch/dsh-amadeus",
     "language": "TypeScript",
     "name": "saya-ch/dsh-amadeus",
     "stars": 0,
-    "updated_at": "2026-09-15T23:50:11Z",
+    "updated_at": "2026-09-15T23:56:49Z",
     "url": "https://github.com/saya-ch/dsh-amadeus"
   },
   {
@@ -23,8 +14,17 @@
     "language": "TypeScript",
     "name": "lusipad/browser-agent",
     "stars": 1,
-    "updated_at": "2026-09-15T23:49:47Z",
+    "updated_at": "2026-09-15T23:54:57Z",
     "url": "https://github.com/lusipad/browser-agent"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-15T23:51:55Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and compu",
