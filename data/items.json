@@ -1,12 +1,165 @@
 [
   {
+    "description": "GitHub Issue \u5206\u6790\u667a\u80fd\u4f53\uff1a\u6709\u754c\u5de5\u5177\u5faa\u73af\u63a2\u7d22\u4ed3\u5e93\u6e90\u7801\uff0c\u751f\u6210\u5e26\u884c\u7ea7\u8bc1\u636e\u7684\u6839\u56e0\u62a5\u544a\u4e0e\u4fee\u590d\u8865\u4e01\uff0c\u9ed8\u8ba4\u53ea\u8bfb\uff0c\u53ef\u663e\u5f0f\u5f00\u542f PR \u63d0\u6848",
+    "id": "xiaomaozjj666/issue-agent",
+    "language": "Python",
+    "name": "xiaomaozjj666/issue-agent",
+    "stars": 1,
+    "updated_at": "2026-09-16T14:43:57Z",
+    "url": "https://github.com/xiaomaozjj666/issue-agent"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 809,
+    "updated_at": "2026-09-16T14:43:26Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-09-16T14:42:54Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "An observable & evaluable multi-LLM-agent collaboration framework",
+    "id": "hh3571308801/MultiAgentLab",
+    "language": "Python",
+    "name": "hh3571308801/MultiAgentLab",
+    "stars": 0,
+    "updated_at": "2026-09-16T14:41:24Z",
+    "url": "https://github.com/hh3571308801/MultiAgentLab"
+  },
+  {
+    "description": "LLM-agnostic tabletop RPG Game Master framework. Runs on OpenCode, LM Studio, or any LLM service. D&D 5e included as ref",
+    "id": "Bobby-Gray/open-tabletop-gm",
+    "language": "Python",
+    "name": "Bobby-Gray/open-tabletop-gm",
+    "stars": 56,
+    "updated_at": "2026-09-16T14:40:17Z",
+    "url": "https://github.com/Bobby-Gray/open-tabletop-gm"
+  },
+  {
+    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
+    "id": "watchcat/scout",
+    "language": "Rust",
+    "name": "watchcat/scout",
+    "stars": 0,
+    "updated_at": "2026-09-16T14:44:44Z",
+    "url": "https://github.com/watchcat/scout"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-09-16T14:38:38Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-16T14:37:55Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
     "description": "An autopoiesic kefir for computing machines",
     "id": "genaforvena/lte-workstation",
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 8,
-    "updated_at": "2026-09-16T14:24:48Z",
+    "updated_at": "2026-09-16T14:37:44Z",
     "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-09-16T14:37:43Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "openPASO \u2014 open Platform for Agentic Simulation and Optimization. An AI agent that operates nine finite-element and mult",
+    "id": "alhermann/openPASO",
+    "language": "Python",
+    "name": "alhermann/openPASO",
+    "stars": 11,
+    "updated_at": "2026-09-16T14:36:16Z",
+    "url": "https://github.com/alhermann/openPASO"
+  },
+  {
+    "description": "CNIPA \u4e2d\u56fd\u53d1\u660e\u4e13\u5229\u7533\u8bf7\u5168\u6d41\u7a0b Agent Skill\uff1a\u5728\u5148\u4e13\u5229\u5212\u754c \u2192 \u4e94\u4e66\u64b0\u5199 \u2192 300DPI \u9ed1\u767d\u7ebf\u6761\u9644\u56fe \u2192 \u6570\u636e\u6eaf\u6e90 \u2192 \u63d0\u4ea4\u5e95\u7a3f\u4e0e\u56de\u5f52\u6821\u9a8c \u2192 \u63d0\u4ea4\u540e\u901a\u77e5\u4e66\u63a5\u6536\u4e0e\u6cd5\u5b9a\u671f\u9650\u7ba1\u7406\u3002An Agent Skill for draf",
+    "id": "faruheaisha/cnipa-patent-kit",
+    "language": "Python",
+    "name": "faruheaisha/cnipa-patent-kit",
+    "stars": 2,
+    "updated_at": "2026-09-16T14:35:46Z",
+    "url": "https://github.com/faruheaisha/cnipa-patent-kit"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 24,
+    "updated_at": "2026-09-16T14:36:04Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7270,
+    "updated_at": "2026-09-16T14:33:59Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Flask + SQLAlchemy + MySQL \u7269\u4e1a\u7ba1\u7406\u5e73\u53f0\uff1a10 \u4e2a\u4e1a\u52a1\u57df\u5168\u6d41\u7a0b\uff0c\u7edf\u4e00\u670d\u52a1\u5c42 + RBAC \u884c\u7ea7\u6570\u636e\u8303\u56f4 + \u5ba1\u8ba1\u7559\u75d5\uff0c\u5185\u7f6e dsh/MCP \u53d7\u63a7 AI Agent\uff0c73 \u4e2a\u5de5\u5177\u6309 R0\u2013R3 \u98ce\u9669\u5206\u7ea7\u4eba\u5de5\u786e\u8ba4\u3002",
+    "id": "Changxin-YR/yunlin",
+    "language": "Python",
+    "name": "Changxin-YR/yunlin",
+    "stars": 1,
+    "updated_at": "2026-09-16T14:32:50Z",
+    "url": "https://github.com/Changxin-YR/yunlin"
+  },
+  {
+    "description": "A delivery-discipline behavior layer for AI agents \u2014 turns \u201cthe agent says it's done\u201d into \u201cthe agent proves it's done\u201d:",
+    "id": "JadeYingWah/gpt-series-reasoning-style",
+    "language": "Python",
+    "name": "JadeYingWah/gpt-series-reasoning-style",
+    "stars": 3,
+    "updated_at": "2026-09-16T14:32:41Z",
+    "url": "https://github.com/JadeYingWah/gpt-series-reasoning-style"
+  },
+  {
+    "description": "\u76d8\u53e4 \u2014 AI Agent \u591a\u6a21\u6001\u8bb0\u5fc6\u7cfb\u7edf\uff1aWing\u2192Room\u2192Drawer \u5206\u5c42\u5b58\u50a8\u3001ONNX \u672c\u5730\u5d4c\u5165\u8bed\u4e49\u68c0\u7d22\uff08SQLite FTS5 + RRF \u878d\u5408\uff09\u3001\u827e\u5bbe\u6d69\u65af\u9057\u5fd8\u66f2\u7ebf\u4e0e\u795e\u7ecf\u6fc0\u6d3b\u6269\u6563\uff1b\u63d0\u4f9b REST API + MCP \u670d\u52a1\uff0c\u9ed8\u8ba4\u66b4",
+    "id": "Mlte0907/pangu",
+    "language": "Python",
+    "name": "Mlte0907/pangu",
+    "stars": 0,
+    "updated_at": "2026-09-16T14:31:06Z",
+    "url": "https://github.com/Mlte0907/pangu"
+  },
+  {
+    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
+    "id": "expectedparrot/edsl",
+    "language": "Python",
+    "name": "expectedparrot/edsl",
+    "stars": 496,
+    "updated_at": "2026-09-16T14:30:02Z",
+    "url": "https://github.com/expectedparrot/edsl"
   },
   {
     "description": "\u5e26\u7b56\u7565\u9a8c\u8bc1\u7684 A \u80a1 LLM \u5206\u6790\u7cfb\u7edf \u2014\u2014 \u591a\u6e90\u964d\u7ea7 + \u5b9a\u65f6\u4efb\u52a1 + \u591a\u901a\u9053\u63a8\u9001\uff1b\u6838\u5fc3\u589e\u91cf\u662f\u53ef\u8bc1\u4f2a\u7684\u56de\u6d4b\u4e0e\u9a8c\u8bc1\u5c42\uff08\u672a\u6765\u51fd\u6570\u63a2\u6d4b / \u6837\u672c\u5185\u5916\u5207\u5206 / t\u68c0\u9a8c / \u57fa\u51c6\u5bf9\u6bd4\uff09",
@@ -18,49 +171,13 @@
     "url": "https://github.com/AandBorC/dsa-lite"
   },
   {
-    "description": "GitHub Issue \u5206\u6790\u667a\u80fd\u4f53\uff1a\u6709\u754c\u5de5\u5177\u5faa\u73af\u63a2\u7d22\u4ed3\u5e93\u6e90\u7801\uff0c\u751f\u6210\u5e26\u884c\u7ea7\u8bc1\u636e\u7684\u6839\u56e0\u62a5\u544a\u4e0e\u4fee\u590d\u8865\u4e01\uff0c\u9ed8\u8ba4\u53ea\u8bfb\uff0c\u53ef\u663e\u5f0f\u5f00\u542f PR \u63d0\u6848",
-    "id": "xiaomaozjj666/issue-agent",
-    "language": "Python",
-    "name": "xiaomaozjj666/issue-agent",
-    "stars": 1,
-    "updated_at": "2026-09-16T14:24:14Z",
-    "url": "https://github.com/xiaomaozjj666/issue-agent"
-  },
-  {
-    "description": "\u76d8\u53e4 \u2014 AI Agent \u591a\u6a21\u6001\u8bb0\u5fc6\u7cfb\u7edf\uff1aWing\u2192Room\u2192Drawer \u5206\u5c42\u5b58\u50a8\u3001ONNX \u672c\u5730\u5d4c\u5165\u8bed\u4e49\u68c0\u7d22\uff08SQLite FTS5 + RRF \u878d\u5408\uff09\u3001\u827e\u5bbe\u6d69\u65af\u9057\u5fd8\u66f2\u7ebf\u4e0e\u795e\u7ecf\u6fc0\u6d3b\u6269\u6563\uff1b\u63d0\u4f9b REST API + MCP \u670d\u52a1\uff0c\u9ed8\u8ba4\u66b4",
-    "id": "Mlte0907/pangu",
-    "language": "Python",
-    "name": "Mlte0907/pangu",
-    "stars": 0,
-    "updated_at": "2026-09-16T14:29:30Z",
-    "url": "https://github.com/Mlte0907/pangu"
-  },
-  {
-    "description": "An observable & evaluable multi-LLM-agent collaboration framework",
-    "id": "hh3571308801/MultiAgentLab",
-    "language": "Python",
-    "name": "hh3571308801/MultiAgentLab",
-    "stars": 0,
-    "updated_at": "2026-09-16T14:22:40Z",
-    "url": "https://github.com/hh3571308801/MultiAgentLab"
-  },
-  {
     "description": "LangGraph agent that rewrites TypeScript Selenium suites in Playwright and proves the result compiles before you see it",
     "id": "varunbhatt2193/selenium2playwright",
     "language": "Python",
     "name": "varunbhatt2193/selenium2playwright",
     "stars": 0,
-    "updated_at": "2026-09-16T14:18:31Z",
+    "updated_at": "2026-09-16T14:37:45Z",
     "url": "https://github.com/varunbhatt2193/selenium2playwright"
-  },
-  {
-    "description": "A delivery-discipline behavior layer for AI agents \u2014 turns \u201cthe agent says it's done\u201d into \u201cthe agent proves it's done\u201d:",
-    "id": "JadeYingWah/gpt-series-reasoning-style",
-    "language": "HTML",
-    "name": "JadeYingWah/gpt-series-reasoning-style",
-    "stars": 3,
-    "updated_at": "2026-09-16T14:15:55Z",
-    "url": "https://github.com/JadeYingWah/gpt-series-reasoning-style"
   },
   {
     "description": "Document-grounded adaptive tutoring with bounded tool-use agents",
@@ -77,7 +194,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-09-16T14:09:46Z",
+    "updated_at": "2026-09-16T14:37:02Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -88,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-09-16T14:09:31Z",
     "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
-  },
-  {
-    "description": "openPASO \u2014 open Platform for Agentic Simulation and Optimization. An AI agent that operates nine finite-element and mult",
-    "id": "alhermann/openPASO",
-    "language": "Python",
-    "name": "alhermann/openPASO",
-    "stars": 11,
-    "updated_at": "2026-09-16T14:03:52Z",
-    "url": "https://github.com/alhermann/openPASO"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -115,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-09-16T13:55:46Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7269,
-    "updated_at": "2026-09-16T13:46:11Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "An open-source research agent system for your Zotero library.",
@@ -151,15 +250,6 @@
     "stars": 28,
     "updated_at": "2026-09-16T13:34:27Z",
     "url": "https://github.com/leenkcool/humanasllm"
-  },
-  {
-    "description": "Flask + SQLAlchemy + MySQL \u7269\u4e1a\u7ba1\u7406\u5e73\u53f0\uff1a10 \u4e2a\u4e1a\u52a1\u57df\u5168\u6d41\u7a0b\uff0c\u7edf\u4e00\u670d\u52a1\u5c42 + RBAC \u884c\u7ea7\u6570\u636e\u8303\u56f4 + \u5ba1\u8ba1\u7559\u75d5\uff0c\u5185\u7f6e dsh/MCP \u53d7\u63a7 AI Agent\uff0c73 \u4e2a\u5de5\u5177\u6309 R0\u2013R3 \u98ce\u9669\u5206\u7ea7\u4eba\u5de5\u786e\u8ba4\u3002",
-    "id": "Changxin-YR/yunlin",
-    "language": "Python",
-    "name": "Changxin-YR/yunlin",
-    "stars": 1,
-    "updated_at": "2026-09-16T14:30:12Z",
-    "url": "https://github.com/Changxin-YR/yunlin"
   },
   {
     "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
@@ -342,15 +432,6 @@
     "url": "https://github.com/Bowotria/aethercore"
   },
   {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-16T13:09:32Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -367,86 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-16T13:07:34Z",
     "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-09-16T13:03:56Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 335,
-    "updated_at": "2026-09-16T13:01:46Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
-    "id": "Danisxxx/comfyUI-LongLook",
-    "language": "Python",
-    "name": "Danisxxx/comfyUI-LongLook",
-    "stars": 2,
-    "updated_at": "2026-09-16T12:58:58Z",
-    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
-  },
-  {
-    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
-    "id": "axxafo/awesome-agent-benchmarks",
-    "language": "\u2014",
-    "name": "axxafo/awesome-agent-benchmarks",
-    "stars": 3,
-    "updated_at": "2026-09-16T12:58:04Z",
-    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "Organizational-memory system for micro/nano fabrication: executable process-flow canvas, LLM agent, reliability-scored k",
-    "id": "liyao13-sketch/OpenNano",
-    "language": "Python",
-    "name": "liyao13-sketch/OpenNano",
-    "stars": 0,
-    "updated_at": "2026-09-16T12:53:52Z",
-    "url": "https://github.com/liyao13-sketch/OpenNano"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-09-16T12:52:44Z",
-    "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-09-16T12:50:56Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "Desktop GUI Headless Local-first AI coding agent in Rust (axum, tokio, rmcp, portable-pty) behind HTTP + SSE, with an An",
-    "id": "henrykbrzoska/bebok",
-    "language": "Rust",
-    "name": "henrykbrzoska/bebok",
-    "stars": 5,
-    "updated_at": "2026-09-16T12:55:19Z",
-    "url": "https://github.com/henrykbrzoska/bebok"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-09-16T12:47:30Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
   }
 ]
