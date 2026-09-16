@@ -1,12 +1,66 @@
 [
   {
+    "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
+    "id": "khudayarovich/onflip-agent",
+    "language": "TypeScript",
+    "name": "khudayarovich/onflip-agent",
+    "stars": 3,
+    "updated_at": "2026-09-16T19:44:44Z",
+    "url": "https://github.com/khudayarovich/onflip-agent"
+  },
+  {
+    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
+    "id": "kyleslight/shun",
+    "language": "TypeScript",
+    "name": "kyleslight/shun",
+    "stars": 6,
+    "updated_at": "2026-09-16T19:43:56Z",
+    "url": "https://github.com/kyleslight/shun"
+  },
+  {
     "description": "An autopoiesic kefir for computing machines",
     "id": "genaforvena/lte-workstation",
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 8,
-    "updated_at": "2026-09-16T19:30:18Z",
+    "updated_at": "2026-09-16T19:42:50Z",
     "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 8,
+    "updated_at": "2026-09-16T19:42:46Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
+    "id": "watchcat/scout",
+    "language": "Rust",
+    "name": "watchcat/scout",
+    "stars": 0,
+    "updated_at": "2026-09-16T19:42:38Z",
+    "url": "https://github.com/watchcat/scout"
+  },
+  {
+    "description": "Keep agent CLIs running 7\u00d724 \u2014 supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure",
+    "id": "wan9yu/cli-agent-runner",
+    "language": "Python",
+    "name": "wan9yu/cli-agent-runner",
+    "stars": 4,
+    "updated_at": "2026-09-16T19:39:06Z",
+    "url": "https://github.com/wan9yu/cli-agent-runner"
+  },
+  {
+    "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
+    "id": "sunnnn2005/data-quality-agent",
+    "language": "Python",
+    "name": "sunnnn2005/data-quality-agent",
+    "stars": 0,
+    "updated_at": "2026-09-16T19:35:52Z",
+    "url": "https://github.com/sunnnn2005/data-quality-agent"
   },
   {
     "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
@@ -160,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-09-16T19:10:30Z",
     "url": "https://github.com/huanggeyu717-beep/microgrid-dispatch"
-  },
-  {
-    "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
-    "id": "khudayarovich/onflip-agent",
-    "language": "TypeScript",
-    "name": "khudayarovich/onflip-agent",
-    "stars": 3,
-    "updated_at": "2026-09-16T19:10:10Z",
-    "url": "https://github.com/khudayarovich/onflip-agent"
   },
   {
     "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
@@ -333,24 +378,6 @@
     "url": "https://github.com/denisakkavim/sixnimmt"
   },
   {
-    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
-    "id": "watchcat/scout",
-    "language": "Rust",
-    "name": "watchcat/scout",
-    "stars": 0,
-    "updated_at": "2026-09-16T18:47:53Z",
-    "url": "https://github.com/watchcat/scout"
-  },
-  {
-    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
-    "id": "kyleslight/shun",
-    "language": "TypeScript",
-    "name": "kyleslight/shun",
-    "stars": 6,
-    "updated_at": "2026-09-16T18:44:36Z",
-    "url": "https://github.com/kyleslight/shun"
-  },
-  {
     "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
     "id": "SHUKLAO/call-with-ai-agent",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 502,
     "updated_at": "2026-09-16T18:11:24Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "Full-stack AI personal finance platform \u2014 FastAPI + SQLite backend, conversational agent with pattern-matched instant re",
-    "id": "harshbhanushali26/finos",
-    "language": "Python",
-    "name": "harshbhanushali26/finos",
-    "stars": 1,
-    "updated_at": "2026-09-16T18:05:18Z",
-    "url": "https://github.com/harshbhanushali26/finos"
-  },
-  {
-    "description": "Tool-calling RAG agent for personal finance Q&A \u2014 Flask, Groq, FAISS. Routes questions between exact pandas computation ",
-    "id": "Tanushx23/finance-rag",
-    "language": "Python",
-    "name": "Tanushx23/finance-rag",
-    "stars": 0,
-    "updated_at": "2026-09-16T18:04:46Z",
-    "url": "https://github.com/Tanushx23/finance-rag"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 127,
-    "updated_at": "2026-09-16T18:04:17Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
   }
 ]
