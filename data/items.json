@@ -1,11 +1,56 @@
 [
   {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 28,
+    "updated_at": "2026-09-16T04:44:56Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 18,
+    "updated_at": "2026-09-16T04:43:59Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Incubating a governed, evidence-driven AIOps control plane for ClickHouse and Apache Doris.",
+    "id": "jiangxt2/Yamazaki",
+    "language": "Python",
+    "name": "jiangxt2/Yamazaki",
+    "stars": 0,
+    "updated_at": "2026-09-16T04:42:24Z",
+    "url": "https://github.com/jiangxt2/Yamazaki"
+  },
+  {
+    "description": "Make any agent harness token-native.",
+    "id": "camel-ai/tokin",
+    "language": "Python",
+    "name": "camel-ai/tokin",
+    "stars": 3,
+    "updated_at": "2026-09-16T04:41:25Z",
+    "url": "https://github.com/camel-ai/tokin"
+  },
+  {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-16T04:30:47Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
     "description": "An autopoiesic kefir for computing machines",
     "id": "genaforvena/lte-workstation",
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 8,
-    "updated_at": "2026-09-16T04:24:56Z",
+    "updated_at": "2026-09-16T04:30:43Z",
     "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
@@ -32,7 +77,7 @@
     "language": "Rust",
     "name": "citizenhicks/mobius",
     "stars": 1,
-    "updated_at": "2026-09-16T04:28:41Z",
+    "updated_at": "2026-09-16T04:42:40Z",
     "url": "https://github.com/citizenhicks/mobius"
   },
   {
@@ -45,16 +90,7 @@
     "url": "https://github.com/AandBorC/dsa-lite"
   },
   {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 28,
-    "updated_at": "2026-09-16T04:17:27Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "\u5168\u6808 AI \u8bba\u6587\u7814\u7a76\u4e0e\u68c0\u7d22\u7cfb\u7edf\uff1a\u672c\u5730\u4f18\u5148\u8bba\u6587\u5e93(SQLite+Qdrant) + Agentic \u5b66\u672f\u68c0\u7d22(PaSa \u57fa\u51c6, \u7814\u7a76\u751fAI\u5927\u8d5b\u534e\u4e3a\u8d5b\u9898\u4e09) + \u5bf9\u8bdd\u5f0f\u7814\u7a76\u52a9\u624b(FastAPI+React+SSE) + \u79bb\u7ebf\u8bc4\u6d4b\u5f15\u64ce(\u53ccjudg",
+    "description": "\u5168\u6808 AI \u8bba\u6587\u7814\u7a76\u4e0e\u68c0\u7d22\u7cfb\u7edf\uff1a\u8bba\u6587\u5e93+ Agentic \u5b66\u672f\u68c0\u7d22+ \u5bf9\u8bdd\u5f0f\u7814\u7a76\u52a9\u624b(FastAPI+React+SSE) ",
     "id": "wyh2255/paper-research-assistant",
     "language": "Python",
     "name": "wyh2255/paper-research-assistant",
@@ -117,15 +153,6 @@
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-16T03:47:06Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "A persistent agent runtime and its official CLI. Three packages: @echo-agent/core (runtime/SDK, zero runtime dependencie",
     "id": "echo-yiyi/echo-agent",
     "language": "TypeScript",
@@ -153,15 +180,6 @@
     "url": "https://github.com/oooscoos/Benzi"
   },
   {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 18,
-    "updated_at": "2026-09-16T04:19:58Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "HunterCode \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance Edition \u00b7 \u591a\u667a\u80fd\u4f53\u6295\u7814\u7ec8\u7aef ",
     "id": "agentpit-io/hunter-community",
     "language": "Python",
@@ -176,7 +194,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 699,
-    "updated_at": "2026-09-16T03:27:36Z",
+    "updated_at": "2026-09-16T04:41:34Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -409,7 +427,7 @@
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
-    "stars": 3022,
+    "stars": 3023,
     "updated_at": "2026-09-16T03:00:46Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
@@ -430,23 +448,5 @@
     "stars": 11,
     "updated_at": "2026-09-16T02:57:25Z",
     "url": "https://github.com/hasting323/AutoGLM-For-Android"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-09-16T02:56:03Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-09-16T02:54:32Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
   }
 ]
