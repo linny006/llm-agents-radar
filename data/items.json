@@ -1,20 +1,11 @@
 [
   {
-    "description": "\u5168\u6808 AI \u8bba\u6587\u7814\u7a76\u4e0e\u68c0\u7d22\u7cfb\u7edf\uff1a\u672c\u5730\u4f18\u5148\u8bba\u6587\u5e93(SQLite+Qdrant) + Agentic \u5b66\u672f\u68c0\u7d22(PaSa \u57fa\u51c6, \u7814\u7a76\u751fAI\u5927\u8d5b\u534e\u4e3a\u8d5b\u9898\u4e09) + \u5bf9\u8bdd\u5f0f\u7814\u7a76\u52a9\u624b(FastAPI+React+SSE) + \u79bb\u7ebf\u8bc4\u6d4b\u5f15\u64ce(\u53ccjudg",
-    "id": "wyh2255/paper-research-assistant",
-    "language": "Python",
-    "name": "wyh2255/paper-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-16T04:13:48Z",
-    "url": "https://github.com/wyh2255/paper-research-assistant"
-  },
-  {
     "description": "An autopoiesic kefir for computing machines",
     "id": "genaforvena/lte-workstation",
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 8,
-    "updated_at": "2026-09-16T04:06:34Z",
+    "updated_at": "2026-09-16T04:24:56Z",
     "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
@@ -23,8 +14,53 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-16T04:01:44Z",
+    "updated_at": "2026-09-16T04:23:29Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
+    "id": "bigduu/Zenith",
+    "language": "JavaScript",
+    "name": "bigduu/Zenith",
+    "stars": 6,
+    "updated_at": "2026-09-16T04:21:15Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-09-16T04:28:41Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
+    "description": "\u5e26\u7b56\u7565\u9a8c\u8bc1\u7684 A \u80a1 LLM \u5206\u6790\u7cfb\u7edf \u2014\u2014 \u591a\u6e90\u964d\u7ea7 + \u5b9a\u65f6\u4efb\u52a1 + \u591a\u901a\u9053\u63a8\u9001\uff1b\u6838\u5fc3\u589e\u91cf\u662f\u53ef\u8bc1\u4f2a\u7684\u56de\u6d4b\u4e0e\u9a8c\u8bc1\u5c42\uff08\u672a\u6765\u51fd\u6570\u63a2\u6d4b / \u6837\u672c\u5185\u5916\u5207\u5206 / t\u68c0\u9a8c / \u57fa\u51c6\u5bf9\u6bd4\uff09",
+    "id": "AandBorC/dsa-lite",
+    "language": "Python",
+    "name": "AandBorC/dsa-lite",
+    "stars": 0,
+    "updated_at": "2026-09-16T04:17:52Z",
+    "url": "https://github.com/AandBorC/dsa-lite"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 28,
+    "updated_at": "2026-09-16T04:17:27Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "\u5168\u6808 AI \u8bba\u6587\u7814\u7a76\u4e0e\u68c0\u7d22\u7cfb\u7edf\uff1a\u672c\u5730\u4f18\u5148\u8bba\u6587\u5e93(SQLite+Qdrant) + Agentic \u5b66\u672f\u68c0\u7d22(PaSa \u57fa\u51c6, \u7814\u7a76\u751fAI\u5927\u8d5b\u534e\u4e3a\u8d5b\u9898\u4e09) + \u5bf9\u8bdd\u5f0f\u7814\u7a76\u52a9\u624b(FastAPI+React+SSE) + \u79bb\u7ebf\u8bc4\u6d4b\u5f15\u64ce(\u53ccjudg",
+    "id": "wyh2255/paper-research-assistant",
+    "language": "Python",
+    "name": "wyh2255/paper-research-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-16T04:13:48Z",
+    "url": "https://github.com/wyh2255/paper-research-assistant"
   },
   {
     "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
@@ -122,7 +158,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 18,
-    "updated_at": "2026-09-16T03:28:26Z",
+    "updated_at": "2026-09-16T04:19:58Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -373,7 +409,7 @@
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
-    "stars": 3020,
+    "stars": 3022,
     "updated_at": "2026-09-16T03:00:46Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-16T02:54:32Z",
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "YantrikDB memory provider for NousResearch/hermes-agent \u2014 self-maintaining memory with benchmarked recall, self-tuning r",
-    "id": "yantrikos/yantrikdb-hermes-plugin",
-    "language": "Python",
-    "name": "yantrikos/yantrikdb-hermes-plugin",
-    "stars": 88,
-    "updated_at": "2026-09-16T02:52:14Z",
-    "url": "https://github.com/yantrikos/yantrikdb-hermes-plugin"
-  },
-  {
-    "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
-    "id": "wq19901103wq/wechat-mac-rpa",
-    "language": "Python",
-    "name": "wq19901103wq/wechat-mac-rpa",
-    "stars": 103,
-    "updated_at": "2026-09-16T02:39:57Z",
-    "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
-  },
-  {
-    "description": "\u5e26\u7b56\u7565\u9a8c\u8bc1\u7684 A \u80a1 LLM \u5206\u6790\u7cfb\u7edf \u2014\u2014 \u591a\u6e90\u964d\u7ea7 + \u5b9a\u65f6\u4efb\u52a1 + \u591a\u901a\u9053\u63a8\u9001\uff1b\u6838\u5fc3\u589e\u91cf\u662f\u53ef\u8bc1\u4f2a\u7684\u56de\u6d4b\u4e0e\u9a8c\u8bc1\u5c42\uff08\u672a\u6765\u51fd\u6570\u63a2\u6d4b / \u6837\u672c\u5185\u5916\u5207\u5206 / t\u68c0\u9a8c / \u57fa\u51c6\u5bf9\u6bd4\uff09",
-    "id": "AandBorC/dsa-lite",
-    "language": "Python",
-    "name": "AandBorC/dsa-lite",
-    "stars": 0,
-    "updated_at": "2026-09-16T02:39:21Z",
-    "url": "https://github.com/AandBorC/dsa-lite"
-  },
-  {
-    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
-    "id": "kyleslight/shun",
-    "language": "TypeScript",
-    "name": "kyleslight/shun",
-    "stars": 6,
-    "updated_at": "2026-09-16T02:36:05Z",
-    "url": "https://github.com/kyleslight/shun"
   }
 ]
