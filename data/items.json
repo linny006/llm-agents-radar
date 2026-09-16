@@ -1,5 +1,50 @@
 [
   {
+    "description": "An AI agent builds complete mobile games end to end \u2014 design, code, art, music, 136 headless tests, store assets, in-app",
+    "id": "codedpro/agentic-game-factory",
+    "language": "GDScript",
+    "name": "codedpro/agentic-game-factory",
+    "stars": 4,
+    "updated_at": "2026-09-16T08:29:44Z",
+    "url": "https://github.com/codedpro/agentic-game-factory"
+  },
+  {
+    "description": "A sample RAG (Retrieval-Augmented Generation) agent for documentation analysis \u2014 built with Pydantic-AI and OpenAI GPT-4",
+    "id": "SergeyGer/pydantic-ai-rag-agent",
+    "language": "Python",
+    "name": "SergeyGer/pydantic-ai-rag-agent",
+    "stars": 0,
+    "updated_at": "2026-09-16T08:29:52Z",
+    "url": "https://github.com/SergeyGer/pydantic-ai-rag-agent"
+  },
+  {
+    "description": "\u5267\u672c\u5206\u955c\u667a\u80fd\u4f53\uff08PenShot\uff09\uff1a\u7535\u5f71/\u52a8\u6f2b/\u77ed\u5267/\u5c0f\u8bf4\u2192\u5206\u955c\u7247\u6bb5\u2192\u89c6\u9891\u63d0\u793a\u8bcd\u3002\u57fa\u4e8e LLM \u901a\u8fc7 LangGraph+LlamaIndex\u5b9e\u73b0\u4efb\u610f\u683c\u5f0f\u5267\u672c\u7684\u81ea\u52a8\u89e3\u6790\uff0c\u751f\u6210 Sora/Veo/Runway \u7b49\u6a21\u578b\u53ef\u7528\u7684\u8fde\u8d2ftext-to-v",
+    "id": "neopen/story-shot-agent",
+    "language": "Python",
+    "name": "neopen/story-shot-agent",
+    "stars": 199,
+    "updated_at": "2026-09-16T08:21:21Z",
+    "url": "https://github.com/neopen/story-shot-agent"
+  },
+  {
+    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
+    "id": "PCODE-pl/MCPTap",
+    "language": "Python",
+    "name": "PCODE-pl/MCPTap",
+    "stars": 1,
+    "updated_at": "2026-09-16T08:15:47Z",
+    "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
+    "description": "Agent \u91cd\u67b6\u6784\uff1a\u8fc8\u5411\u4e0a\u4e0b\u6587\u539f\u751f\u667a\u80fd\uff08Context-Native Agent\uff09\u2014\u2014 \u4e2d\u6587\u957f\u6587\u4e0e\u53ef\u590d\u7b97\u7684\u6392\u7248\u6784\u5efa\u94fe\uff08Markdown \u2192 \u81ea\u5305\u542b HTML \u2192 A4 PDF\uff09",
+    "id": "54shitaimzf/context-native-agent",
+    "language": "Markdown",
+    "name": "54shitaimzf/context-native-agent",
+    "stars": 1,
+    "updated_at": "2026-09-16T08:17:21Z",
+    "url": "https://github.com/54shitaimzf/context-native-agent"
+  },
+  {
     "description": "\u975e\u7ebf\u667a\u80fd NoneLinear - ReLE\u8bc4\u6d4b\uff1a\u4e2d\u6587AI\u5927\u6a21\u578b\u80fd\u529b\u8bc4\u6d4b\uff08\u6301\u7eed\u66f4\u65b0\uff09\uff1a\u76ee\u524d\u5df2\u56ca\u62ec374\u4e2a\u5927\u6a21\u578b\uff0c\u8986\u76d6chatgpt\u3001gpt-5.4\u3001\u8c37\u6b4cgemini-3.1-pro\u3001Claude-4.6\u3001\u6587\u5fc3ERNIE-X1.1\u3001ERNIE",
     "id": "jeinlee1991/chinese-llm-benchmark",
     "language": "\u2014",
@@ -18,48 +63,12 @@
     "url": "https://github.com/sagirimo/BioDSH"
   },
   {
-    "description": "Agent \u91cd\u67b6\u6784\uff1a\u8fc8\u5411\u4e0a\u4e0b\u6587\u539f\u751f\u667a\u80fd\uff08Context-Native Agent\uff09\u2014\u2014 \u4e2d\u6587\u957f\u6587\u4e0e\u53ef\u590d\u7b97\u7684\u6392\u7248\u6784\u5efa\u94fe\uff08Markdown \u2192 \u81ea\u5305\u542b HTML \u2192 A4 PDF\uff09",
-    "id": "54shitaimzf/context-native-agent",
-    "language": "Markdown",
-    "name": "54shitaimzf/context-native-agent",
-    "stars": 1,
-    "updated_at": "2026-09-16T08:13:17Z",
-    "url": "https://github.com/54shitaimzf/context-native-agent"
-  },
-  {
-    "description": "A sample RAG (Retrieval-Augmented Generation) agent for documentation analysis \u2014 built with Pydantic-AI and OpenAI GPT-4",
-    "id": "SergeyGer/pydantic-ai-rag-agent",
-    "language": "Python",
-    "name": "SergeyGer/pydantic-ai-rag-agent",
-    "stars": 0,
-    "updated_at": "2026-09-16T08:14:06Z",
-    "url": "https://github.com/SergeyGer/pydantic-ai-rag-agent"
-  },
-  {
-    "description": "\u5267\u672c\u5206\u955c\u667a\u80fd\u4f53\uff08PenShot\uff09\uff1a\u7535\u5f71/\u52a8\u6f2b/\u77ed\u5267/\u5c0f\u8bf4\u2192\u5206\u955c\u7247\u6bb5\u2192\u89c6\u9891\u63d0\u793a\u8bcd\u3002\u57fa\u4e8e LLM \u901a\u8fc7 LangGraph+LlamaIndex\u5b9e\u73b0\u4efb\u610f\u683c\u5f0f\u5267\u672c\u7684\u81ea\u52a8\u89e3\u6790\uff0c\u751f\u6210 Sora/Veo/Runway \u7b49\u6a21\u578b\u53ef\u7528\u7684\u8fde\u8d2ftext-to-v",
-    "id": "neopen/story-shot-agent",
-    "language": "Python",
-    "name": "neopen/story-shot-agent",
-    "stars": 199,
-    "updated_at": "2026-09-16T08:11:32Z",
-    "url": "https://github.com/neopen/story-shot-agent"
-  },
-  {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-09-16T08:11:23Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
-  },
-  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
     "name": "helixml/helix",
     "stars": 809,
-    "updated_at": "2026-09-16T08:10:28Z",
+    "updated_at": "2026-09-16T08:17:37Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -88,6 +97,15 @@
     "stars": 18,
     "updated_at": "2026-09-16T08:00:23Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5765,
+    "updated_at": "2026-09-16T07:59:16Z",
+    "url": "https://github.com/areal-project/AReaL"
   },
   {
     "description": "\u6211\u53ea\u60f3\u518d\u548cTA\u804a\u804a\u5929\uff0c\u5728\u8fc7\u53bb\uff0c\u5728\u672a\u6765\uff0c\u5728\u4e0d\u5b58\u5728\u7684if\u7ebf",
@@ -131,7 +149,7 @@
     "language": "Python",
     "name": "mino19790622-dot/visual-inspection-report-generator",
     "stars": 0,
-    "updated_at": "2026-09-16T07:46:28Z",
+    "updated_at": "2026-09-16T08:22:10Z",
     "url": "https://github.com/mino19790622-dot/visual-inspection-report-generator"
   },
   {
@@ -178,15 +196,6 @@
     "stars": 16544,
     "updated_at": "2026-09-16T07:35:48Z",
     "url": "https://github.com/HKUDS/DeepCode"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5764,
-    "updated_at": "2026-09-16T07:59:16Z",
-    "url": "https://github.com/areal-project/AReaL"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-16T06:58:16Z",
     "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-09-16T06:58:11Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
   }
 ]
