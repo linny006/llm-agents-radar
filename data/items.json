@@ -1,12 +1,39 @@
 [
   {
-    "description": "Context Limiter & Output Vetter for context bloat. It is a highly specialized, structure-aware JSON built specifically t",
-    "id": "alexandephilia/clov-ai",
-    "language": "Rust",
-    "name": "alexandephilia/clov-ai",
-    "stars": 34,
-    "updated_at": "2026-09-16T10:13:54Z",
-    "url": "https://github.com/alexandephilia/clov-ai"
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 24,
+    "updated_at": "2026-09-16T10:29:56Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Programmatic tool calling for Go agents: the model writes one JavaScript program that calls the tools you already have. ",
+    "id": "gtoxlili/codemode-go",
+    "language": "Go",
+    "name": "gtoxlili/codemode-go",
+    "stars": 1,
+    "updated_at": "2026-09-16T10:27:27Z",
+    "url": "https://github.com/gtoxlili/codemode-go"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-09-16T10:26:10Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
+    "id": "karvidsson/kbots",
+    "language": "Python",
+    "name": "karvidsson/kbots",
+    "stars": 1,
+    "updated_at": "2026-09-16T10:23:54Z",
+    "url": "https://github.com/karvidsson/kbots"
   },
   {
     "description": "An autopoiesic kefir for computing machines",
@@ -14,8 +41,35 @@
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 8,
-    "updated_at": "2026-09-16T10:13:09Z",
+    "updated_at": "2026-09-16T10:19:54Z",
     "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 497,
+    "updated_at": "2026-09-16T10:17:12Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Harness LLMs with Multi-Agent Programming",
+    "id": "langroid/langroid",
+    "language": "Python",
+    "name": "langroid/langroid",
+    "stars": 4104,
+    "updated_at": "2026-09-16T10:17:27Z",
+    "url": "https://github.com/langroid/langroid"
+  },
+  {
+    "description": "Context Limiter & Output Vetter for context bloat. It is a highly specialized, structure-aware JSON built specifically t",
+    "id": "alexandephilia/clov-ai",
+    "language": "Rust",
+    "name": "alexandephilia/clov-ai",
+    "stars": 34,
+    "updated_at": "2026-09-16T10:15:40Z",
+    "url": "https://github.com/alexandephilia/clov-ai"
   },
   {
     "description": "A delivery-discipline behavior layer for AI agents \u2014 turns \u201cthe agent says it's done\u201d into \u201cthe agent proves it's done\u201d:",
@@ -36,24 +90,6 @@
     "url": "https://github.com/FRS2003/hands-on-llm"
   },
   {
-    "description": "Harness LLMs with Multi-Agent Programming",
-    "id": "langroid/langroid",
-    "language": "Python",
-    "name": "langroid/langroid",
-    "stars": 4104,
-    "updated_at": "2026-09-16T10:07:02Z",
-    "url": "https://github.com/langroid/langroid"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-16T10:05:31Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -70,15 +106,6 @@
     "stars": 213,
     "updated_at": "2026-09-16T10:08:19Z",
     "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 497,
-    "updated_at": "2026-09-16T09:57:12Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "HunterCode \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance Edition \u00b7 \u591a\u667a\u80fd\u4f53\u6295\u7814\u7ec8\u7aef ",
@@ -104,7 +131,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 809,
-    "updated_at": "2026-09-16T09:49:45Z",
+    "updated_at": "2026-09-16T10:28:33Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -122,7 +149,7 @@
     "language": "Python",
     "name": "hrygo/WorldofMysteries",
     "stars": 0,
-    "updated_at": "2026-09-16T09:44:46Z",
+    "updated_at": "2026-09-16T10:25:03Z",
     "url": "https://github.com/hrygo/WorldofMysteries"
   },
   {
@@ -148,7 +175,7 @@
     "id": "liiiiiiiiil/agent-from-scratch",
     "language": "Python",
     "name": "liiiiiiiiil/agent-from-scratch",
-    "stars": 72,
+    "stars": 73,
     "updated_at": "2026-09-16T09:41:50Z",
     "url": "https://github.com/liiiiiiiiil/agent-from-scratch"
   },
@@ -187,15 +214,6 @@
     "stars": 7,
     "updated_at": "2026-09-16T09:28:33Z",
     "url": "https://github.com/edjafarov/kiagent-core"
-  },
-  {
-    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
-    "id": "karvidsson/kbots",
-    "language": "Python",
-    "name": "karvidsson/kbots",
-    "stars": 1,
-    "updated_at": "2026-09-16T10:08:19Z",
-    "url": "https://github.com/karvidsson/kbots"
   },
   {
     "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
@@ -342,15 +360,6 @@
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-09-16T09:07:02Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
     "id": "mezoali100/exforum-auto-poster",
     "language": "\u2014",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-16T08:48:04Z",
     "url": "https://github.com/Luciole-Studio/Misaka-Agent"
-  },
-  {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
-    "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 12,
-    "updated_at": "2026-09-16T08:46:57Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
   }
 ]
