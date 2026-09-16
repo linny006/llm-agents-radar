@@ -1,5 +1,32 @@
 [
   {
+    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
+    "id": "watchcat/scout",
+    "language": "Rust",
+    "name": "watchcat/scout",
+    "stars": 0,
+    "updated_at": "2026-09-16T22:28:36Z",
+    "url": "https://github.com/watchcat/scout"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-16T22:27:10Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-16T22:25:56Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
     "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
     "id": "citizenhicks/mobius",
     "language": "Rust",
@@ -16,15 +43,6 @@
     "stars": 88,
     "updated_at": "2026-09-16T22:07:49Z",
     "url": "https://github.com/yantrikos/yantrikdb-hermes-plugin"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-16T22:06:57Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "LLM-agnostic tabletop RPG Game Master framework. Runs on OpenCode, LM Studio, or any LLM service. D&D 5e included as ref",
@@ -52,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-09-16T22:01:57Z",
     "url": "https://github.com/mino19790622-dot/visual-inspection-report-generator"
-  },
-  {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-16T22:01:13Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -151,6 +160,15 @@
     "stars": 0,
     "updated_at": "2026-09-16T21:27:59Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7291,
+    "updated_at": "2026-09-16T21:27:33Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
@@ -396,15 +414,6 @@
     "url": "https://github.com/SHUKLAO/call-with-ai-agent"
   },
   {
-    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
-    "id": "watchcat/scout",
-    "language": "Rust",
-    "name": "watchcat/scout",
-    "stars": 0,
-    "updated_at": "2026-09-16T20:44:50Z",
-    "url": "https://github.com/watchcat/scout"
-  },
-  {
     "description": "Institutional Quantitative Trading & AI Platform: Microsoft Qlib (Alpha158 + LightGBM), MetaTrader 5 EA Bridge, Bloomber",
     "id": "Ax3lsk3r3/QuantVibe",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-16T19:56:35Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 8,
-    "updated_at": "2026-09-16T20:05:14Z",
-    "url": "https://github.com/ljchang/mecha"
   }
 ]
