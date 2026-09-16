@@ -5,8 +5,26 @@
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 8,
-    "updated_at": "2026-09-16T12:58:16Z",
+    "updated_at": "2026-09-16T12:59:56Z",
     "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "openPASO \u2014 open Platform for Agentic Simulation and Optimization. An AI agent that operates nine finite-element and mult",
+    "id": "alhermann/openPASO",
+    "language": "Python",
+    "name": "alhermann/openPASO",
+    "stars": 11,
+    "updated_at": "2026-09-16T12:59:21Z",
+    "url": "https://github.com/alhermann/openPASO"
+  },
+  {
+    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
+    "id": "Danisxxx/comfyUI-LongLook",
+    "language": "Python",
+    "name": "Danisxxx/comfyUI-LongLook",
+    "stars": 2,
+    "updated_at": "2026-09-16T12:58:58Z",
+    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
   },
   {
     "description": "A delivery-discipline behavior layer for AI agents \u2014 turns \u201cthe agent says it's done\u201d into \u201cthe agent proves it's done\u201d:",
@@ -25,6 +43,15 @@
     "stars": 3,
     "updated_at": "2026-09-16T12:58:04Z",
     "url": "https://github.com/axxafo/awesome-agent-benchmarks"
+  },
+  {
+    "description": "An observable & evaluable multi-LLM-agent collaboration framework",
+    "id": "hh3571308801/MultiAgentLab",
+    "language": "Python",
+    "name": "hh3571308801/MultiAgentLab",
+    "stars": 0,
+    "updated_at": "2026-09-16T12:57:41Z",
+    "url": "https://github.com/hh3571308801/MultiAgentLab"
   },
   {
     "description": "Human as Agent\uff08\u4eba\u5373\u667a\u80fd\u4f53\uff09\u00b7 Human-as-LLM \u4eba\u5de5\u4ee3\u7406\u7f51\u5173\uff1a\u628a\u5de5\u7a0b\u5e08\u53d8\u6210\u6a21\u578b\uff0cOpenAI \u517c\u5bb9 /v1 \u63a5\u5165 Agent \u8c03\u5ea6\u6c60\uff0c\u6d89\u5bc6/\u9700\u4eba\u5de5\u4efb\u52a1\u8def\u7531\u7ed9\u771f\u5b9e\u5de5\u7a0b\u5e08\u3002\u4e3a AI Agent   \u63d0\u6548\u3001\u4e3a\u5e73\u53f0/\u8fd0\u7ef4\u6536\u96c6",
@@ -79,15 +106,6 @@
     "stars": 13,
     "updated_at": "2026-09-16T12:48:14Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "openPASO \u2014 open Platform for Agentic Simulation and Optimization. An AI agent that operates nine finite-element and mult",
-    "id": "alhermann/openPASO",
-    "language": "Python",
-    "name": "alhermann/openPASO",
-    "stars": 11,
-    "updated_at": "2026-09-16T12:47:38Z",
-    "url": "https://github.com/alhermann/openPASO"
   },
   {
     "description": "",
@@ -430,23 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-16T11:10:42Z",
     "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
-  },
-  {
-    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
-    "id": "oxidizable-malinois605/bridge-suite-mcp",
-    "language": "TypeScript",
-    "name": "oxidizable-malinois605/bridge-suite-mcp",
-    "stars": 0,
-    "updated_at": "2026-09-16T11:08:39Z",
-    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
-  },
-  {
-    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
-    "id": "Arjunadh5305/ios-skills-collection",
-    "language": "\u2014",
-    "name": "Arjunadh5305/ios-skills-collection",
-    "stars": 1,
-    "updated_at": "2026-09-16T11:08:37Z",
-    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
   }
 ]
