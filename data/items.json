@@ -1,5 +1,23 @@
 [
   {
+    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
+    "id": "watchcat/scout",
+    "language": "Rust",
+    "name": "watchcat/scout",
+    "stars": 0,
+    "updated_at": "2026-09-16T20:44:50Z",
+    "url": "https://github.com/watchcat/scout"
+  },
+  {
+    "description": "Institutional Quantitative Trading & AI Platform: Microsoft Qlib (Alpha158 + LightGBM), MetaTrader 5 EA Bridge, Bloomber",
+    "id": "Ax3lsk3r3/QuantVibe",
+    "language": "TypeScript",
+    "name": "Ax3lsk3r3/QuantVibe",
+    "stars": 2,
+    "updated_at": "2026-09-16T20:30:12Z",
+    "url": "https://github.com/Ax3lsk3r3/QuantVibe"
+  },
+  {
     "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
     "id": "khudayarovich/onflip-agent",
     "language": "TypeScript",
@@ -32,7 +50,7 @@
     "language": "Python",
     "name": "karvidsson/kbots",
     "stars": 1,
-    "updated_at": "2026-09-16T20:18:16Z",
+    "updated_at": "2026-09-16T20:44:44Z",
     "url": "https://github.com/karvidsson/kbots"
   },
   {
@@ -50,7 +68,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 28,
-    "updated_at": "2026-09-16T20:16:39Z",
+    "updated_at": "2026-09-16T20:34:44Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -79,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-16T19:56:35Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
-    "id": "watchcat/scout",
-    "language": "Rust",
-    "name": "watchcat/scout",
-    "stars": 0,
-    "updated_at": "2026-09-16T19:49:08Z",
-    "url": "https://github.com/watchcat/scout"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-16T18:43:38Z",
     "url": "https://github.com/WP2-Danikusuma/AgentX"
-  },
-  {
-    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 213,
-    "updated_at": "2026-09-16T19:02:09Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
   }
 ]
