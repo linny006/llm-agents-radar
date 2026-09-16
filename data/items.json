@@ -1,21 +1,39 @@
 [
   {
-    "description": "Document-grounded adaptive tutoring with bounded tool-use agents",
-    "id": "tx3457/study-loop",
-    "language": "Python",
-    "name": "tx3457/study-loop",
-    "stars": 2,
-    "updated_at": "2026-09-16T05:59:05Z",
-    "url": "https://github.com/tx3457/study-loop"
-  },
-  {
     "description": "An autopoiesic kefir for computing machines",
     "id": "genaforvena/lte-workstation",
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 8,
-    "updated_at": "2026-09-16T05:58:06Z",
+    "updated_at": "2026-09-16T06:15:02Z",
     "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 700,
+    "updated_at": "2026-09-16T06:13:58Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-09-16T06:10:45Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
+    "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
+    "id": "EvoMap/awesome-agent-evolution",
+    "language": "JavaScript",
+    "name": "EvoMap/awesome-agent-evolution",
+    "stars": 222,
+    "updated_at": "2026-09-16T06:04:03Z",
+    "url": "https://github.com/EvoMap/awesome-agent-evolution"
   },
   {
     "description": "Assessment-driven, local-first learning agent built on an observable Agent Runtime and eval harness\u2014grounded ingestion, ",
@@ -23,8 +41,53 @@
     "language": "Python",
     "name": "Hyr1sky/TheGrandQuiz",
     "stars": 56,
-    "updated_at": "2026-09-16T05:56:23Z",
+    "updated_at": "2026-09-16T06:03:27Z",
     "url": "https://github.com/Hyr1sky/TheGrandQuiz"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-09-16T06:02:45Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "An agent OS whose userland it writes itself, plus a JEPA-style world model that predicts a syscall's effect before it ru",
+    "id": "Cortex-Research-Group/aios",
+    "language": "Python",
+    "name": "Cortex-Research-Group/aios",
+    "stars": 1,
+    "updated_at": "2026-09-16T06:02:03Z",
+    "url": "https://github.com/Cortex-Research-Group/aios"
+  },
+  {
+    "description": "\u7eaf Kotlin \u539f\u751f Android AI \u667a\u80fd\u4f53\uff1a\u591a\u6a21\u578b\u63a5\u5165\u3001\u5b50\u667a\u80fd\u4f53\u534f\u4f5c\u3001\u5728\u7ebf\u63d2\u4ef6\u5e02\u573a\u3001\u6280\u80fd\u81ea\u52a8\u5f15\u7528\u3001root/Ubuntu \u7ec8\u7aef\u3001\u957f\u671f\u8bb0\u5fc6",
+    "id": "kusesad-1122/XINCODE-Public",
+    "language": "C",
+    "name": "kusesad-1122/XINCODE-Public",
+    "stars": 22,
+    "updated_at": "2026-09-16T06:03:47Z",
+    "url": "https://github.com/kusesad-1122/XINCODE-Public"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 18,
+    "updated_at": "2026-09-16T06:01:27Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Document-grounded adaptive tutoring with bounded tool-use agents",
+    "id": "tx3457/study-loop",
+    "language": "Python",
+    "name": "tx3457/study-loop",
+    "stars": 2,
+    "updated_at": "2026-09-16T05:59:05Z",
+    "url": "https://github.com/tx3457/study-loop"
   },
   {
     "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
@@ -50,7 +113,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3375,
-    "updated_at": "2026-09-16T05:53:18Z",
+    "updated_at": "2026-09-16T06:02:06Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -324,15 +387,6 @@
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 700,
-    "updated_at": "2026-09-16T05:01:25Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
     "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
     "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
     "language": "HTML",
@@ -392,61 +446,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 28,
-    "updated_at": "2026-09-16T05:45:42Z",
+    "updated_at": "2026-09-16T06:00:37Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 18,
-    "updated_at": "2026-09-16T05:39:39Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Incubating a governed, evidence-driven AIOps control plane for ClickHouse and Apache Doris.",
-    "id": "jiangxt2/Yamazaki",
-    "language": "Python",
-    "name": "jiangxt2/Yamazaki",
-    "stars": 0,
-    "updated_at": "2026-09-16T04:42:24Z",
-    "url": "https://github.com/jiangxt2/Yamazaki"
-  },
-  {
-    "description": "Make any agent harness token-native.",
-    "id": "camel-ai/tokin",
-    "language": "Python",
-    "name": "camel-ai/tokin",
-    "stars": 3,
-    "updated_at": "2026-09-16T04:41:25Z",
-    "url": "https://github.com/camel-ai/tokin"
-  },
-  {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-16T04:30:47Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-16T04:23:29Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
-    "id": "bigduu/Zenith",
-    "language": "JavaScript",
-    "name": "bigduu/Zenith",
-    "stars": 6,
-    "updated_at": "2026-09-16T04:21:15Z",
-    "url": "https://github.com/bigduu/Zenith"
   }
 ]
