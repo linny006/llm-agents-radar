@@ -1,5 +1,14 @@
 [
   {
+    "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
+    "id": "khudayarovich/onflip-agent",
+    "language": "TypeScript",
+    "name": "khudayarovich/onflip-agent",
+    "stars": 3,
+    "updated_at": "2026-09-16T20:26:34Z",
+    "url": "https://github.com/khudayarovich/onflip-agent"
+  },
+  {
     "description": "An autopoiesic kefir for computing machines",
     "id": "genaforvena/lte-workstation",
     "language": "Shell",
@@ -70,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-09-16T19:56:35Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
-    "id": "khudayarovich/onflip-agent",
-    "language": "TypeScript",
-    "name": "khudayarovich/onflip-agent",
-    "stars": 3,
-    "updated_at": "2026-09-16T19:51:44Z",
-    "url": "https://github.com/khudayarovich/onflip-agent"
   },
   {
     "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
