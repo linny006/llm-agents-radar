@@ -1,12 +1,75 @@
 [
   {
-    "description": "the companyfabric.com website repository",
-    "id": "companyfabric/companyfabric",
-    "language": "\u2014",
-    "name": "companyfabric/companyfabric",
-    "stars": 1,
-    "updated_at": "2026-09-16T16:28:09Z",
-    "url": "https://github.com/companyfabric/companyfabric"
+    "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
+    "id": "SugarMGP/MumuBot",
+    "language": "Go",
+    "name": "SugarMGP/MumuBot",
+    "stars": 23,
+    "updated_at": "2026-09-16T16:44:07Z",
+    "url": "https://github.com/SugarMGP/MumuBot"
+  },
+  {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 1280,
+    "updated_at": "2026-09-16T16:43:42Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
+  },
+  {
+    "description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
+    "id": "Pan-Chera/Multi-Agent-CAD",
+    "language": "Python",
+    "name": "Pan-Chera/Multi-Agent-CAD",
+    "stars": 951,
+    "updated_at": "2026-09-16T16:43:40Z",
+    "url": "https://github.com/Pan-Chera/Multi-Agent-CAD"
+  },
+  {
+    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
+    "id": "bigduu/Zenith",
+    "language": "JavaScript",
+    "name": "bigduu/Zenith",
+    "stars": 6,
+    "updated_at": "2026-09-16T16:44:16Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
+    "id": "watchcat/scout",
+    "language": "Rust",
+    "name": "watchcat/scout",
+    "stars": 0,
+    "updated_at": "2026-09-16T16:41:31Z",
+    "url": "https://github.com/watchcat/scout"
+  },
+  {
+    "description": "\ud83e\udd16 ULTIMATE JARVIS \u2014 Persian computer-use AI agent: 51 tools, 13 agents, push-to-talk hotkey, Telegram bot, quiz solver, ",
+    "id": "Pillow1243/Ultimate-Jarvis",
+    "language": "Python",
+    "name": "Pillow1243/Ultimate-Jarvis",
+    "stars": 0,
+    "updated_at": "2026-09-16T16:40:10Z",
+    "url": "https://github.com/Pillow1243/Ultimate-Jarvis"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-16T16:37:34Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7277,
+    "updated_at": "2026-09-16T16:35:07Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
@@ -14,8 +77,26 @@
     "language": "Python",
     "name": "ravisinghrajput95/kubewhy",
     "stars": 0,
-    "updated_at": "2026-09-16T16:26:21Z",
+    "updated_at": "2026-09-16T16:34:47Z",
     "url": "https://github.com/ravisinghrajput95/kubewhy"
+  },
+  {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 3,
+    "updated_at": "2026-09-16T16:34:37Z",
+    "url": "https://github.com/sydches/yuj"
+  },
+  {
+    "description": "the companyfabric.com website repository",
+    "id": "companyfabric/companyfabric",
+    "language": "\u2014",
+    "name": "companyfabric/companyfabric",
+    "stars": 1,
+    "updated_at": "2026-09-16T16:28:09Z",
+    "url": "https://github.com/companyfabric/companyfabric"
   },
   {
     "description": "\u76d8\u53e4 \u2014 AI Agent \u591a\u6a21\u6001\u8bb0\u5fc6\u7cfb\u7edf\uff1aWing\u2192Room\u2192Drawer \u5206\u5c42\u5b58\u50a8\u3001ONNX \u672c\u5730\u5d4c\u5165\u8bed\u4e49\u68c0\u7d22\uff08SQLite FTS5 + RRF \u878d\u5408\uff09\u3001\u827e\u5bbe\u6d69\u65af\u9057\u5fd8\u66f2\u7ebf\u4e0e\u795e\u7ecf\u6fc0\u6d3b\u6269\u6563\uff1b\u63d0\u4f9b REST API + MCP \u670d\u52a1\uff0c\u9ed8\u8ba4\u66b4",
@@ -72,49 +153,13 @@
     "url": "https://github.com/tomcounsell/ai"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-16T16:21:06Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 18,
-    "updated_at": "2026-09-16T16:21:00Z",
+    "updated_at": "2026-09-16T16:44:13Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7276,
-    "updated_at": "2026-09-16T16:16:32Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 1279,
-    "updated_at": "2026-09-16T16:27:06Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
-    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
-    "id": "watchcat/scout",
-    "language": "Rust",
-    "name": "watchcat/scout",
-    "stars": 0,
-    "updated_at": "2026-09-16T16:11:21Z",
-    "url": "https://github.com/watchcat/scout"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
@@ -133,24 +178,6 @@
     "stars": 3,
     "updated_at": "2026-09-16T16:09:59Z",
     "url": "https://github.com/the-priest/PriestsBasilisk"
-  },
-  {
-    "description": "\ud83e\udd16 ULTIMATE JARVIS \u2014 Persian computer-use AI agent: 51 tools, 13 agents, push-to-talk hotkey, Telegram bot, quiz solver, ",
-    "id": "Pillow1243/Ultimate-Jarvis",
-    "language": "Python",
-    "name": "Pillow1243/Ultimate-Jarvis",
-    "stars": 0,
-    "updated_at": "2026-09-16T16:09:55Z",
-    "url": "https://github.com/Pillow1243/Ultimate-Jarvis"
-  },
-  {
-    "description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
-    "id": "Pan-Chera/Multi-Agent-CAD",
-    "language": "Python",
-    "name": "Pan-Chera/Multi-Agent-CAD",
-    "stars": 951,
-    "updated_at": "2026-09-16T16:08:12Z",
-    "url": "https://github.com/Pan-Chera/Multi-Agent-CAD"
   },
   {
     "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-16T15:05:19Z",
     "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-09-16T15:05:05Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 4,
-    "updated_at": "2026-09-16T15:03:04Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "An observable & evaluable multi-LLM-agent collaboration framework",
-    "id": "hh3571308801/MultiAgentLab",
-    "language": "Python",
-    "name": "hh3571308801/MultiAgentLab",
-    "stars": 0,
-    "updated_at": "2026-09-16T14:59:43Z",
-    "url": "https://github.com/hh3571308801/MultiAgentLab"
   }
 ]
