@@ -1,5 +1,50 @@
 [
   {
+    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
+    "id": "hasting323/AutoGLM-For-Android",
+    "language": "Kotlin",
+    "name": "hasting323/AutoGLM-For-Android",
+    "stars": 11,
+    "updated_at": "2026-09-16T04:57:49Z",
+    "url": "https://github.com/hasting323/AutoGLM-For-Android"
+  },
+  {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-09-16T04:59:23Z",
+    "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 1,
+    "updated_at": "2026-09-16T04:56:22Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-09-16T04:54:53Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-16T04:51:31Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
     "id": "Cyrax321/CONTINUUM",
     "language": "Python",
@@ -45,15 +90,6 @@
     "url": "https://github.com/plurnk/plurnk-service"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-16T04:30:43Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -97,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-16T04:13:48Z",
     "url": "https://github.com/wyh2255/paper-research-assistant"
-  },
-  {
-    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
-    "id": "kangwoo/aimon-core",
-    "language": "Java",
-    "name": "kangwoo/aimon-core",
-    "stars": 0,
-    "updated_at": "2026-09-16T04:13:53Z",
-    "url": "https://github.com/kangwoo/aimon-core"
   },
   {
     "description": "\u7eaf Kotlin \u539f\u751f Android AI \u667a\u80fd\u4f53\uff1a\u591a\u6a21\u578b\u63a5\u5165\u3001\u5b50\u667a\u80fd\u4f53\u534f\u4f5c\u3001\u5728\u7ebf\u63d2\u4ef6\u5e02\u573a\u3001\u6280\u80fd\u81ea\u52a8\u5f15\u7528\u3001root/Ubuntu \u7ec8\u7aef\u3001\u957f\u671f\u8bb0\u5fc6",
@@ -194,7 +221,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 699,
-    "updated_at": "2026-09-16T04:41:34Z",
+    "updated_at": "2026-09-16T04:50:11Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-16T03:00:47Z",
     "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
-  },
-  {
-    "description": "An open-source research agent system for your Zotero library.",
-    "id": "yilewang/llm-for-zotero",
-    "language": "TypeScript",
-    "name": "yilewang/llm-for-zotero",
-    "stars": 3023,
-    "updated_at": "2026-09-16T03:00:46Z",
-    "url": "https://github.com/yilewang/llm-for-zotero"
-  },
-  {
-    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
-    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "language": "JavaScript",
-    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "stars": 1,
-    "updated_at": "2026-09-16T02:58:24Z",
-    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
-    "id": "hasting323/AutoGLM-For-Android",
-    "language": "Kotlin",
-    "name": "hasting323/AutoGLM-For-Android",
-    "stars": 11,
-    "updated_at": "2026-09-16T02:57:25Z",
-    "url": "https://github.com/hasting323/AutoGLM-For-Android"
   }
 ]
