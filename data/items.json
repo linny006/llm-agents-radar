@@ -1,5 +1,140 @@
 [
   {
+    "description": "Automate file management and coding tasks in your local directory using small language models.",
+    "id": "pruthviraj00007/VibeHarness",
+    "language": "Python",
+    "name": "pruthviraj00007/VibeHarness",
+    "stars": 0,
+    "updated_at": "2026-09-16T01:28:35Z",
+    "url": "https://github.com/pruthviraj00007/VibeHarness"
+  },
+  {
+    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
+    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "language": "Go",
+    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "stars": 0,
+    "updated_at": "2026-09-16T01:26:58Z",
+    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
+  },
+  {
+    "description": "Keep agent CLIs running 7\u00d724 \u2014 supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure",
+    "id": "wan9yu/cli-agent-runner",
+    "language": "Python",
+    "name": "wan9yu/cli-agent-runner",
+    "stars": 4,
+    "updated_at": "2026-09-16T01:26:56Z",
+    "url": "https://github.com/wan9yu/cli-agent-runner"
+  },
+  {
+    "description": "Agent \u91cd\u67b6\u6784\uff1a\u8fc8\u5411\u4e0a\u4e0b\u6587\u539f\u751f\u667a\u80fd\uff08Context-Native Agent\uff09\u2014\u2014 \u4e2d\u6587\u957f\u6587\u4e0e\u53ef\u590d\u7b97\u7684\u6392\u7248\u6784\u5efa\u94fe\uff08Markdown \u2192 \u81ea\u5305\u542b HTML \u2192 A4 PDF\uff09",
+    "id": "54shitaimzf/context-native-agent",
+    "language": "Markdown",
+    "name": "54shitaimzf/context-native-agent",
+    "stars": 1,
+    "updated_at": "2026-09-16T01:24:14Z",
+    "url": "https://github.com/54shitaimzf/context-native-agent"
+  },
+  {
+    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
+    "id": "Samuelcluttered613/paper2code",
+    "language": "Python",
+    "name": "Samuelcluttered613/paper2code",
+    "stars": 1,
+    "updated_at": "2026-09-16T01:23:24Z",
+    "url": "https://github.com/Samuelcluttered613/paper2code"
+  },
+  {
+    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
+    "id": "Bastioned-successor320/learn-nanobot",
+    "language": "Python",
+    "name": "Bastioned-successor320/learn-nanobot",
+    "stars": 10,
+    "updated_at": "2026-09-16T01:23:13Z",
+    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-16T01:23:07Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
+    "id": "tessellated-statisticalcommission243/deep-research-skill",
+    "language": "\u2014",
+    "name": "tessellated-statisticalcommission243/deep-research-skill",
+    "stars": 3,
+    "updated_at": "2026-09-16T01:22:57Z",
+    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
+  },
+  {
+    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
+    "id": "chadwickhyperboloidal943/knowl",
+    "language": "TypeScript",
+    "name": "chadwickhyperboloidal943/knowl",
+    "stars": 0,
+    "updated_at": "2026-09-16T01:19:00Z",
+    "url": "https://github.com/chadwickhyperboloidal943/knowl"
+  },
+  {
+    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
+    "id": "Laurenfeminine36/google-jules-skill",
+    "language": "Python",
+    "name": "Laurenfeminine36/google-jules-skill",
+    "stars": 1,
+    "updated_at": "2026-09-16T01:18:48Z",
+    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
+  },
+  {
+    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
+    "id": "Jssu8541/ouro-loop",
+    "language": "\u2014",
+    "name": "Jssu8541/ouro-loop",
+    "stars": 0,
+    "updated_at": "2026-09-16T01:18:40Z",
+    "url": "https://github.com/Jssu8541/ouro-loop"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 698,
+    "updated_at": "2026-09-16T01:17:04Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
+    "id": "Asim00740/Kagantic-vault-structure",
+    "language": "\u2014",
+    "name": "Asim00740/Kagantic-vault-structure",
+    "stars": 0,
+    "updated_at": "2026-09-16T01:16:23Z",
+    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
+  },
+  {
+    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
+    "id": "Tonyx79/clov-ai",
+    "language": "Rust",
+    "name": "Tonyx79/clov-ai",
+    "stars": 0,
+    "updated_at": "2026-09-16T01:15:59Z",
+    "url": "https://github.com/Tonyx79/clov-ai"
+  },
+  {
+    "description": "Benzi is AI-native code intelligence infrastructure. Claude Code greps; Cursor embeds; Aider maps signatures; Benzi reso",
+    "id": "oooscoos/Benzi",
+    "language": "Python",
+    "name": "oooscoos/Benzi",
+    "stars": 71,
+    "updated_at": "2026-09-16T01:15:19Z",
+    "url": "https://github.com/oooscoos/Benzi"
+  },
+  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -70,33 +205,6 @@
     "stars": 0,
     "updated_at": "2026-09-16T01:08:01Z",
     "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
-  },
-  {
-    "description": "Agent \u91cd\u67b6\u6784\uff1a\u8fc8\u5411\u4e0a\u4e0b\u6587\u539f\u751f\u667a\u80fd\uff08Context-Native Agent\uff09\u2014\u2014 \u4e2d\u6587\u957f\u6587\u4e0e\u53ef\u590d\u7b97\u7684\u6392\u7248\u6784\u5efa\u94fe\uff08Markdown \u2192 \u81ea\u5305\u542b HTML \u2192 A4 PDF\uff09",
-    "id": "54shitaimzf/context-native-agent",
-    "language": "Markdown",
-    "name": "54shitaimzf/context-native-agent",
-    "stars": 1,
-    "updated_at": "2026-09-16T01:07:28Z",
-    "url": "https://github.com/54shitaimzf/context-native-agent"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 697,
-    "updated_at": "2026-09-16T01:07:04Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-16T01:05:42Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -178,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-09-16T01:09:15Z",
     "url": "https://github.com/justacalico/devinorium"
-  },
-  {
-    "description": "Keep agent CLIs running 7\u00d724 \u2014 supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure",
-    "id": "wan9yu/cli-agent-runner",
-    "language": "Python",
-    "name": "wan9yu/cli-agent-runner",
-    "stars": 4,
-    "updated_at": "2026-09-16T00:48:25Z",
-    "url": "https://github.com/wan9yu/cli-agent-runner"
   },
   {
     "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
@@ -342,24 +441,6 @@
     "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
   },
   {
-    "description": "Automate file management and coding tasks in your local directory using small language models.",
-    "id": "pruthviraj00007/VibeHarness",
-    "language": "Python",
-    "name": "pruthviraj00007/VibeHarness",
-    "stars": 0,
-    "updated_at": "2026-09-15T23:14:17Z",
-    "url": "https://github.com/pruthviraj00007/VibeHarness"
-  },
-  {
-    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
-    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
-    "language": "Go",
-    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
-    "stars": 0,
-    "updated_at": "2026-09-15T23:12:44Z",
-    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
-  },
-  {
     "description": "A Python engine and in-process arena for running, replaying, and analyzing 6 nimmt! games with deterministic bots and LL",
     "id": "denisakkavim/sixnimmt",
     "language": "Python",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-15T23:12:21Z",
     "url": "https://github.com/denisakkavim/sixnimmt"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-09-15T23:09:26Z",
-    "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
-    "id": "Samuelcluttered613/paper2code",
-    "language": "Python",
-    "name": "Samuelcluttered613/paper2code",
-    "stars": 1,
-    "updated_at": "2026-09-15T23:09:06Z",
-    "url": "https://github.com/Samuelcluttered613/paper2code"
-  },
-  {
-    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
-    "id": "Bastioned-successor320/learn-nanobot",
-    "language": "Python",
-    "name": "Bastioned-successor320/learn-nanobot",
-    "stars": 10,
-    "updated_at": "2026-09-15T23:08:50Z",
-    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
-  },
-  {
-    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
-    "id": "tessellated-statisticalcommission243/deep-research-skill",
-    "language": "\u2014",
-    "name": "tessellated-statisticalcommission243/deep-research-skill",
-    "stars": 3,
-    "updated_at": "2026-09-15T23:08:38Z",
-    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
-    "id": "chadwickhyperboloidal943/knowl",
-    "language": "TypeScript",
-    "name": "chadwickhyperboloidal943/knowl",
-    "stars": 0,
-    "updated_at": "2026-09-15T23:04:47Z",
-    "url": "https://github.com/chadwickhyperboloidal943/knowl"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-09-15T23:04:43Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
-    "id": "Laurenfeminine36/google-jules-skill",
-    "language": "Python",
-    "name": "Laurenfeminine36/google-jules-skill",
-    "stars": 1,
-    "updated_at": "2026-09-15T23:04:28Z",
-    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-09-15T23:02:06Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 0,
-    "updated_at": "2026-09-15T23:01:45Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
   }
 ]
