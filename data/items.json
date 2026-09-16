@@ -1,5 +1,77 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-09-16T00:58:05Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and compu",
+    "id": "feder-cr/AIHawk",
+    "language": "Python",
+    "name": "feder-cr/AIHawk",
+    "stars": 31597,
+    "updated_at": "2026-09-16T00:57:33Z",
+    "url": "https://github.com/feder-cr/AIHawk"
+  },
+  {
+    "description": "\u591a Agent \u534f\u4f5c\u5f00\u53d1\u6846\u67b6\uff1a\u9879\u76ee\u8d1f\u8d23\u4eba + 6 \u5355\u8d23\u89d2\u8272 + \u9636\u6bb5\u95e8\u7981 + \u5b9e\u65f6\u770b\u677f \u00b7 \u5355\u5199\u624b + \u53ea\u8bfb\u53c2\u8c0b \u00b7 \u56db\u5b9e\u73b0\uff08ZCode/OpenCode/WorkBuddy/Universal\uff09 \uff5c Multi-agent deliver",
+    "id": "kimi0hhhh/project-orchestrator-skill",
+    "language": "Python",
+    "name": "kimi0hhhh/project-orchestrator-skill",
+    "stars": 2,
+    "updated_at": "2026-09-16T00:56:41Z",
+    "url": "https://github.com/kimi0hhhh/project-orchestrator-skill"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-16T00:52:28Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Control AI agents anywhere. (github mirror)",
+    "id": "justacalico/devinorium",
+    "language": "Dart",
+    "name": "justacalico/devinorium",
+    "stars": 1,
+    "updated_at": "2026-09-16T00:51:35Z",
+    "url": "https://github.com/justacalico/devinorium"
+  },
+  {
+    "description": "Agent \u91cd\u67b6\u6784\uff1a\u8fc8\u5411\u4e0a\u4e0b\u6587\u539f\u751f\u667a\u80fd\uff08Context-Native Agent\uff09\u2014\u2014 \u4e2d\u6587\u957f\u6587\u4e0e\u53ef\u590d\u7b97\u7684\u6392\u7248\u6784\u5efa\u94fe\uff08Markdown \u2192 \u81ea\u5305\u542b HTML \u2192 A4 PDF\uff09",
+    "id": "54shitaimzf/context-native-agent",
+    "language": "Markdown",
+    "name": "54shitaimzf/context-native-agent",
+    "stars": 1,
+    "updated_at": "2026-09-16T00:50:28Z",
+    "url": "https://github.com/54shitaimzf/context-native-agent"
+  },
+  {
+    "description": "Keep agent CLIs running 7\u00d724 \u2014 supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure",
+    "id": "wan9yu/cli-agent-runner",
+    "language": "Python",
+    "name": "wan9yu/cli-agent-runner",
+    "stars": 4,
+    "updated_at": "2026-09-16T00:48:25Z",
+    "url": "https://github.com/wan9yu/cli-agent-runner"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 697,
+    "updated_at": "2026-09-16T00:47:19Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
     "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
     "id": "honestDS/MonoLight",
     "language": "Python",
@@ -16,15 +88,6 @@
     "stars": 6,
     "updated_at": "2026-09-16T00:36:28Z",
     "url": "https://github.com/kyleslight/shun"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-16T00:35:52Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "AI-powered image generation and chat studio",
@@ -72,15 +135,6 @@
     "url": "https://github.com/lusipad/browser-agent"
   },
   {
-    "description": "Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and compu",
-    "id": "feder-cr/AIHawk",
-    "language": "Python",
-    "name": "feder-cr/AIHawk",
-    "stars": 31597,
-    "updated_at": "2026-09-15T23:50:22Z",
-    "url": "https://github.com/feder-cr/AIHawk"
-  },
-  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -97,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-09-15T23:41:42Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Agent \u91cd\u67b6\u6784\uff1a\u8fc8\u5411\u4e0a\u4e0b\u6587\u539f\u751f\u667a\u80fd\uff08Context-Native Agent\uff09\u2014\u2014 \u4e2d\u6587\u957f\u6587\u4e0e\u53ef\u590d\u7b97\u7684\u6392\u7248\u6784\u5efa\u94fe\uff08Markdown \u2192 \u81ea\u5305\u542b HTML \u2192 A4 PDF\uff09",
-    "id": "54shitaimzf/context-native-agent",
-    "language": "Markdown",
-    "name": "54shitaimzf/context-native-agent",
-    "stars": 1,
-    "updated_at": "2026-09-15T23:37:38Z",
-    "url": "https://github.com/54shitaimzf/context-native-agent"
   },
   {
     "description": "Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de",
@@ -378,24 +423,6 @@
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
   },
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 697,
-    "updated_at": "2026-09-16T00:40:58Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-09-15T22:37:58Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "\u75c5\u5386\u7ba1\u7406 \u00b7 \u7535\u5b50\u75c5\u5386\u5e93\uff1a\u7528 Obsidian + AI Agent \u5f52\u6863\u4f53\u68c0\u62a5\u544a\u3001\u5316\u9a8c\u5355\u3001\u5c31\u533b\u8bb0\u5f55\u4e0e\u7528\u836f\u53f2\u3002\u542b Hermes Agent \u6280\u80fd\u5305 + \u7a7a\u5e93\u6a21\u677f\uff0c\u4e00\u952e\u5b89\u88c5\u3002",
     "id": "Lumin278/emr-vault-template",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 23,
     "updated_at": "2026-09-15T22:18:47Z",
     "url": "https://github.com/fahmiwol/sidix"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 18,
-    "updated_at": "2026-09-15T22:23:45Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 127,
-    "updated_at": "2026-09-15T22:02:23Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 3,
-    "updated_at": "2026-09-15T22:01:57Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   }
 ]
