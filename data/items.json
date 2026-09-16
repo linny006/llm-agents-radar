@@ -1,11 +1,20 @@
 [
   {
+    "description": "Axiomize 2.0 - scientific modeling engine plus quantum-inspired multi-branch reasoning",
+    "id": "Furox-Art/axiomize-quantum-skills-2.0",
+    "language": "Python",
+    "name": "Furox-Art/axiomize-quantum-skills-2.0",
+    "stars": 0,
+    "updated_at": "2026-09-16T00:04:47Z",
+    "url": "https://github.com/Furox-Art/axiomize-quantum-skills-2.0"
+  },
+  {
     "description": "Amadeus \u2014 DSH Galgame Mode + \u72ec\u7acb\u79fb\u52a8\u7aef APP",
     "id": "saya-ch/dsh-amadeus",
     "language": "TypeScript",
     "name": "saya-ch/dsh-amadeus",
     "stars": 0,
-    "updated_at": "2026-09-15T23:56:49Z",
+    "updated_at": "2026-09-16T00:01:07Z",
     "url": "https://github.com/saya-ch/dsh-amadeus"
   },
   {
@@ -43,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-09-15T23:45:42Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Axiomize 2.0 - scientific modeling engine plus quantum-inspired multi-branch reasoning",
-    "id": "Furox-Art/axiomize-quantum-skills-2.0",
-    "language": "Python",
-    "name": "Furox-Art/axiomize-quantum-skills-2.0",
-    "stars": 0,
-    "updated_at": "2026-09-15T23:44:57Z",
-    "url": "https://github.com/Furox-Art/axiomize-quantum-skills-2.0"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
