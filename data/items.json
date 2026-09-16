@@ -1,12 +1,12 @@
 [
   {
-    "description": "Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and compu",
-    "id": "feder-cr/AIHawk",
+    "description": "HunterCode \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance Edition \u00b7 \u591a\u667a\u80fd\u4f53\u6295\u7814\u7ec8\u7aef ",
+    "id": "agentpit-io/hunter-community",
     "language": "Python",
-    "name": "feder-cr/AIHawk",
-    "stars": 31596,
-    "updated_at": "2026-09-16T01:49:18Z",
-    "url": "https://github.com/feder-cr/AIHawk"
+    "name": "agentpit-io/hunter-community",
+    "stars": 498,
+    "updated_at": "2026-09-16T02:14:42Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
   },
   {
     "description": "An autopoiesic kefir for computing machines",
@@ -14,8 +14,17 @@
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 8,
-    "updated_at": "2026-09-16T01:48:28Z",
+    "updated_at": "2026-09-16T02:14:09Z",
     "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-09-16T02:11:21Z",
+    "url": "https://github.com/g761007/daily-dispatch"
   },
   {
     "description": "Agent \u91cd\u67b6\u6784\uff1a\u8fc8\u5411\u4e0a\u4e0b\u6587\u539f\u751f\u667a\u80fd\uff08Context-Native Agent\uff09\u2014\u2014 \u4e2d\u6587\u957f\u6587\u4e0e\u53ef\u590d\u7b97\u7684\u6392\u7248\u6784\u5efa\u94fe\uff08Markdown \u2192 \u81ea\u5305\u542b HTML \u2192 A4 PDF\uff09",
@@ -23,8 +32,17 @@
     "language": "Markdown",
     "name": "54shitaimzf/context-native-agent",
     "stars": 1,
-    "updated_at": "2026-09-16T01:47:48Z",
+    "updated_at": "2026-09-16T02:09:19Z",
     "url": "https://github.com/54shitaimzf/context-native-agent"
+  },
+  {
+    "description": "Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and compu",
+    "id": "feder-cr/AIHawk",
+    "language": "Python",
+    "name": "feder-cr/AIHawk",
+    "stars": 31596,
+    "updated_at": "2026-09-16T01:49:18Z",
+    "url": "https://github.com/feder-cr/AIHawk"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-16T00:01:07Z",
     "url": "https://github.com/saya-ch/dsh-amadeus"
-  },
-  {
-    "description": "\ud83e\udd16 \u65b0\u4e00\u4ee3\u5f00\u6e90 Chrome \u4fa7\u8fb9\u680f\u81ea\u4e3b AI \u6d4f\u89c8\u5668\u667a\u80fd\u4f53\uff1a\u76ee\u6807\u9a71\u52a8\u3001\u957f\u7a0b\u89c4\u5212\u3001\u89c6\u89c9\u7a7a\u95f4\u611f\u77e5\u4e0e\u7269\u7406\u7ea7\u64cd\u63a7\uff0c\u652f\u6301 DeepSeek \u601d\u8003\u6a21\u578b\u4e0e\u672c\u5730\u79bb\u7ebf LLM (BYOK)",
-    "id": "lusipad/browser-agent",
-    "language": "TypeScript",
-    "name": "lusipad/browser-agent",
-    "stars": 1,
-    "updated_at": "2026-09-15T23:54:57Z",
-    "url": "https://github.com/lusipad/browser-agent"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 42,
-    "updated_at": "2026-09-15T23:19:18Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   }
 ]
