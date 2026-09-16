@@ -1,12 +1,66 @@
 [
   {
+    "description": "\u7eaf Kotlin \u539f\u751f Android AI \u667a\u80fd\u4f53\uff1a\u591a\u6a21\u578b\u63a5\u5165\u3001\u5b50\u667a\u80fd\u4f53\u534f\u4f5c\u3001\u5728\u7ebf\u63d2\u4ef6\u5e02\u573a\u3001\u6280\u80fd\u81ea\u52a8\u5f15\u7528\u3001root/Ubuntu \u7ec8\u7aef\u3001\u957f\u671f\u8bb0\u5fc6",
+    "id": "kusesad-1122/XINCODE-Public",
+    "language": "C",
+    "name": "kusesad-1122/XINCODE-Public",
+    "stars": 22,
+    "updated_at": "2026-09-16T02:44:32Z",
+    "url": "https://github.com/kusesad-1122/XINCODE-Public"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-16T02:42:43Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "YantrikDB memory provider for NousResearch/hermes-agent \u2014 self-maintaining memory with benchmarked recall, self-tuning r",
+    "id": "yantrikos/yantrikdb-hermes-plugin",
+    "language": "Python",
+    "name": "yantrikos/yantrikdb-hermes-plugin",
+    "stars": 87,
+    "updated_at": "2026-09-16T02:42:28Z",
+    "url": "https://github.com/yantrikos/yantrikdb-hermes-plugin"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-16T02:37:16Z",
+    "updated_at": "2026-09-16T02:42:09Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 699,
+    "updated_at": "2026-09-16T02:40:56Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
+    "id": "wq19901103wq/wechat-mac-rpa",
+    "language": "Python",
+    "name": "wq19901103wq/wechat-mac-rpa",
+    "stars": 103,
+    "updated_at": "2026-09-16T02:39:57Z",
+    "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
+  },
+  {
+    "description": "\u5e26\u7b56\u7565\u9a8c\u8bc1\u7684 A \u80a1 LLM \u5206\u6790\u7cfb\u7edf \u2014\u2014 \u591a\u6e90\u964d\u7ea7 + \u5b9a\u65f6\u4efb\u52a1 + \u591a\u901a\u9053\u63a8\u9001\uff1b\u6838\u5fc3\u589e\u91cf\u662f\u53ef\u8bc1\u4f2a\u7684\u56de\u6d4b\u4e0e\u9a8c\u8bc1\u5c42\uff08\u672a\u6765\u51fd\u6570\u63a2\u6d4b / \u6837\u672c\u5185\u5916\u5207\u5206 / t\u68c0\u9a8c / \u57fa\u51c6\u5bf9\u6bd4\uff09",
+    "id": "AandBorC/dsa-lite",
+    "language": "Python",
+    "name": "AandBorC/dsa-lite",
+    "stars": 0,
+    "updated_at": "2026-09-16T02:39:21Z",
+    "url": "https://github.com/AandBorC/dsa-lite"
   },
   {
     "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
@@ -25,24 +79,6 @@
     "stars": 4415,
     "updated_at": "2026-09-16T02:37:02Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-16T02:33:34Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 699,
-    "updated_at": "2026-09-16T02:31:52Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-16T00:58:05Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "\u591a Agent \u534f\u4f5c\u5f00\u53d1\u6846\u67b6\uff1a\u9879\u76ee\u8d1f\u8d23\u4eba + 6 \u5355\u8d23\u89d2\u8272 + \u9636\u6bb5\u95e8\u7981 + \u5b9e\u65f6\u770b\u677f \u00b7 \u5355\u5199\u624b + \u53ea\u8bfb\u53c2\u8c0b \u00b7 \u56db\u5b9e\u73b0\uff08ZCode/OpenCode/WorkBuddy/Universal\uff09 \uff5c Multi-agent deliver",
-    "id": "kimi0hhhh/project-orchestrator-skill",
-    "language": "Python",
-    "name": "kimi0hhhh/project-orchestrator-skill",
-    "stars": 2,
-    "updated_at": "2026-09-16T00:56:41Z",
-    "url": "https://github.com/kimi0hhhh/project-orchestrator-skill"
-  },
-  {
-    "description": "Control AI agents anywhere. (github mirror)",
-    "id": "justacalico/devinorium",
-    "language": "Dart",
-    "name": "justacalico/devinorium",
-    "stars": 1,
-    "updated_at": "2026-09-16T01:09:15Z",
-    "url": "https://github.com/justacalico/devinorium"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3374,
-    "updated_at": "2026-09-16T00:42:12Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
-    "id": "honestDS/MonoLight",
-    "language": "Python",
-    "name": "honestDS/MonoLight",
-    "stars": 5,
-    "updated_at": "2026-09-16T00:39:07Z",
-    "url": "https://github.com/honestDS/MonoLight"
   }
 ]
