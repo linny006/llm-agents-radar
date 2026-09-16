@@ -1,5 +1,59 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-09-16T05:42:46Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "An engine that plays Soul Calibur II (System 246 arcade, under PCSX2) live: any LLM, on any of the 15 characters, fighti",
+    "id": "msaifuddin/SoulCalibur2Bot",
+    "language": "Python",
+    "name": "msaifuddin/SoulCalibur2Bot",
+    "stars": 0,
+    "updated_at": "2026-09-16T05:40:31Z",
+    "url": "https://github.com/msaifuddin/SoulCalibur2Bot"
+  },
+  {
+    "description": "DeepSeek Harness \u6781\u7b80 PTC \u9884\u8bbe\uff1a\u7b80\u6d01\u63d0\u793a\u8bcd\u3001run_code \u5de5\u5177\u7f16\u6392\u3001\u5b8c\u6574\u63d2\u4ef6\u5de5\u5177\uff0c\u4ee5\u53ca Windows Git Bash \u548c\u6301\u4e45 PowerShell\u3002",
+    "id": "STARDUSTLC666/dsh-minimal-ptc",
+    "language": "JavaScript",
+    "name": "STARDUSTLC666/dsh-minimal-ptc",
+    "stars": 2,
+    "updated_at": "2026-09-16T05:38:36Z",
+    "url": "https://github.com/STARDUSTLC666/dsh-minimal-ptc"
+  },
+  {
+    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
+    "id": "xiongweilin/agent-skills",
+    "language": "PowerShell",
+    "name": "xiongweilin/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-16T05:34:37Z",
+    "url": "https://github.com/xiongweilin/agent-skills"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-16T05:34:19Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-09-16T05:33:54Z",
+    "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
     "description": "Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de",
     "id": "Jadema5416/ComfyUI-DLSS5-Enhancer",
     "language": "Python",
@@ -27,15 +81,6 @@
     "url": "https://github.com/Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3"
   },
   {
-    "description": "An engine that plays Soul Calibur II (System 246 arcade, under PCSX2) live: any LLM, on any of the 15 characters, fighti",
-    "id": "msaifuddin/SoulCalibur2Bot",
-    "language": "Python",
-    "name": "msaifuddin/SoulCalibur2Bot",
-    "stars": 0,
-    "updated_at": "2026-09-16T05:25:28Z",
-    "url": "https://github.com/msaifuddin/SoulCalibur2Bot"
-  },
-  {
     "description": "Control your Windows laptop remotely via Discord with AI-powered voice and text commands in English or Urdu.",
     "id": "Ottoman-reticule726/zara-ai-laptop-agent",
     "language": "Python",
@@ -61,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-16T05:24:10Z",
     "url": "https://github.com/222394/SkyPilot"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-16T05:23:59Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
@@ -252,15 +288,6 @@
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
-    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
-    "id": "kangwoo/aimon-core",
-    "language": "Java",
-    "name": "kangwoo/aimon-core",
-    "stars": 0,
-    "updated_at": "2026-09-16T05:06:22Z",
-    "url": "https://github.com/kangwoo/aimon-core"
-  },
-  {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
@@ -319,7 +346,7 @@
     "id": "titanwings/distilly",
     "language": "Python",
     "name": "titanwings/distilly",
-    "stars": 24778,
+    "stars": 24779,
     "updated_at": "2026-09-16T04:54:09Z",
     "url": "https://github.com/titanwings/distilly"
   },
@@ -338,7 +365,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 18,
-    "updated_at": "2026-09-16T04:43:59Z",
+    "updated_at": "2026-09-16T05:39:39Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 4415,
     "updated_at": "2026-09-16T03:59:39Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5963,
-    "updated_at": "2026-09-16T03:53:59Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "\u4ece\u96f6\u5b9e\u73b0 AI \u6838\u5fc3\u7ec4\u4ef6\uff08mini-* \u7cfb\u5217\uff09\uff1aTransformer / Qwen3 / BPE / Agent / RAG / Vector DB\u3002Rebuild AI building blocks from scratch.",
-    "id": "xbsheng/ai-from-scratch",
-    "language": "Python",
-    "name": "xbsheng/ai-from-scratch",
-    "stars": 1,
-    "updated_at": "2026-09-16T03:49:23Z",
-    "url": "https://github.com/xbsheng/ai-from-scratch"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-09-16T03:52:06Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   }
 ]
