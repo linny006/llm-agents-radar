@@ -1,5 +1,23 @@
 [
   {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-17T20:38:53Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-17T20:33:44Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "A small Python harness that keeps an LLM coding agent on track: durable memory, a code graph, a live todo plan, and loop",
     "id": "IdysisI/kern",
     "language": "Python",
@@ -27,15 +45,6 @@
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-17T20:26:52Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
     "id": "PCODE-pl/MCPTap",
     "language": "Python",
@@ -50,7 +59,7 @@
     "language": "Python",
     "name": "kudratsingh/incident-commander",
     "stars": 0,
-    "updated_at": "2026-09-17T20:29:58Z",
+    "updated_at": "2026-09-17T20:37:09Z",
     "url": "https://github.com/kudratsingh/incident-commander"
   },
   {
@@ -94,7 +103,7 @@
     "id": "feder-cr/AIHawk",
     "language": "Python",
     "name": "feder-cr/AIHawk",
-    "stars": 31618,
+    "stars": 31619,
     "updated_at": "2026-09-17T20:07:39Z",
     "url": "https://github.com/feder-cr/AIHawk"
   },
@@ -112,7 +121,7 @@
     "id": "Anil-matcha/awesome-dsh-plugin",
     "language": "Python",
     "name": "Anil-matcha/awesome-dsh-plugin",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-09-17T20:06:00Z",
     "url": "https://github.com/Anil-matcha/awesome-dsh-plugin"
   },
@@ -160,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-09-17T19:55:38Z",
     "url": "https://github.com/Blondieredistributed612/pocket-agent"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-17T19:55:29Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "An agentic OBD-II scanner that never makes anything up. Bring your own model, read every module on the bus, and click an",
