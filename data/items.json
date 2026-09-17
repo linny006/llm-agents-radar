@@ -1,5 +1,140 @@
 [
   {
+    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
+    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
+    "language": "Python",
+    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
+    "stars": 5,
+    "updated_at": "2026-09-17T02:59:56Z",
+    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
+  },
+  {
+    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
+    "id": "Arjunadh5305/ios-skills-collection",
+    "language": "\u2014",
+    "name": "Arjunadh5305/ios-skills-collection",
+    "stars": 1,
+    "updated_at": "2026-09-17T02:58:07Z",
+    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
+  },
+  {
+    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
+    "id": "oxidizable-malinois605/bridge-suite-mcp",
+    "language": "TypeScript",
+    "name": "oxidizable-malinois605/bridge-suite-mcp",
+    "stars": 0,
+    "updated_at": "2026-09-17T02:58:02Z",
+    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
+  },
+  {
+    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
+    "id": "Stolas34/voice-input-src",
+    "language": "\u2014",
+    "name": "Stolas34/voice-input-src",
+    "stars": 0,
+    "updated_at": "2026-09-17T02:57:41Z",
+    "url": "https://github.com/Stolas34/voice-input-src"
+  },
+  {
+    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
+    "id": "Screwtopped-annapavlova802/SparkLabs",
+    "language": "C++",
+    "name": "Screwtopped-annapavlova802/SparkLabs",
+    "stars": 1,
+    "updated_at": "2026-09-17T02:55:38Z",
+    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
+  },
+  {
+    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
+    "id": "mriazi1982/octopai",
+    "language": "Python",
+    "name": "mriazi1982/octopai",
+    "stars": 1,
+    "updated_at": "2026-09-17T02:54:24Z",
+    "url": "https://github.com/mriazi1982/octopai"
+  },
+  {
+    "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
+    "id": "HKUDS/DeepCode",
+    "language": "Python",
+    "name": "HKUDS/DeepCode",
+    "stars": 16547,
+    "updated_at": "2026-09-17T02:54:14Z",
+    "url": "https://github.com/HKUDS/DeepCode"
+  },
+  {
+    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
+    "id": "mezoali100/exforum-auto-poster",
+    "language": "\u2014",
+    "name": "mezoali100/exforum-auto-poster",
+    "stars": 1,
+    "updated_at": "2026-09-17T02:51:27Z",
+    "url": "https://github.com/mezoali100/exforum-auto-poster"
+  },
+  {
+    "description": "LLM \u6570\u636e\u5206\u6790\u5de5\u4f5c\u53f0\uff1a\u4e0a\u4f20\u6570\u636e\u96c6\u81ea\u52a8\u5b8c\u6210\u6e05\u6d17\u3001\u7edf\u8ba1\u5206\u6790\u3001\u53ef\u89c6\u5316\u4e0e\u62a5\u544a\uff1b\u53d7\u63a7\u5de5\u5177\u96c6 + \u53ea\u8bfb SQL\uff08SQLite / PostgreSQL\uff09\u00b7 MCP \u6570\u636e\u9762 \u00b7 Plotly + ECharts \u53cc\u5f15\u64ce \u00b7 FastAPI + Reac",
+    "id": "xiaomaozjj666/data-analysis-agent",
+    "language": "Python",
+    "name": "xiaomaozjj666/data-analysis-agent",
+    "stars": 1,
+    "updated_at": "2026-09-17T02:51:24Z",
+    "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
+  },
+  {
+    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
+    "id": "Bowotria/aethercore",
+    "language": "Go",
+    "name": "Bowotria/aethercore",
+    "stars": 2,
+    "updated_at": "2026-09-17T02:51:12Z",
+    "url": "https://github.com/Bowotria/aethercore"
+  },
+  {
+    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
+    "id": "expectedparrot/edsl",
+    "language": "Python",
+    "name": "expectedparrot/edsl",
+    "stars": 496,
+    "updated_at": "2026-09-17T02:49:53Z",
+    "url": "https://github.com/expectedparrot/edsl"
+  },
+  {
+    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
+    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "language": "Python",
+    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "stars": 4,
+    "updated_at": "2026-09-17T02:49:25Z",
+    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
+  },
+  {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-17T02:46:28Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
+    "id": "mohahasan/ios-agentic-skills",
+    "language": "JavaScript",
+    "name": "mohahasan/ios-agentic-skills",
+    "stars": 4,
+    "updated_at": "2026-09-17T02:46:03Z",
+    "url": "https://github.com/mohahasan/ios-agentic-skills"
+  },
+  {
+    "description": "An agent-operable host for audio plugins: read parameters and presets, see the editor, and operate the controls that are",
+    "id": "enkerewpo/vstshell",
+    "language": "C++",
+    "name": "enkerewpo/vstshell",
+    "stars": 0,
+    "updated_at": "2026-09-17T02:45:08Z",
+    "url": "https://github.com/enkerewpo/vstshell"
+  },
+  {
     "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
     "id": "wq19901103wq/wechat-mac-rpa",
     "language": "Python",
@@ -50,7 +185,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4416,
-    "updated_at": "2026-09-17T02:37:13Z",
+    "updated_at": "2026-09-17T02:55:16Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -72,15 +207,6 @@
     "url": "https://github.com/Maximooch/penguin"
   },
   {
-    "description": "LLM \u6570\u636e\u5206\u6790\u5de5\u4f5c\u53f0\uff1a\u4e0a\u4f20\u6570\u636e\u96c6\u81ea\u52a8\u5b8c\u6210\u6e05\u6d17\u3001\u7edf\u8ba1\u5206\u6790\u3001\u53ef\u89c6\u5316\u4e0e\u62a5\u544a\uff1b\u53d7\u63a7\u5de5\u5177\u96c6 + \u53ea\u8bfb SQL\uff08SQLite / PostgreSQL\uff09\u00b7 MCP \u6570\u636e\u9762 \u00b7 Plotly + ECharts \u53cc\u5f15\u64ce \u00b7 FastAPI + Reac",
-    "id": "xiaomaozjj666/data-analysis-agent",
-    "language": "Python",
-    "name": "xiaomaozjj666/data-analysis-agent",
-    "stars": 1,
-    "updated_at": "2026-09-17T02:32:25Z",
-    "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
-  },
-  {
     "description": "",
     "id": "sanitprime/Advanced_Graph_RAG",
     "language": "Python",
@@ -94,7 +220,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 31824,
+    "stars": 31825,
     "updated_at": "2026-09-17T02:28:12Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -230,7 +356,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-17T01:39:32Z",
+    "updated_at": "2026-09-17T02:46:47Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -322,131 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-17T00:59:36Z",
     "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
-  },
-  {
-    "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
-    "id": "EpsteinF1les/tts",
-    "language": "\u2014",
-    "name": "EpsteinF1les/tts",
-    "stars": 0,
-    "updated_at": "2026-09-17T00:58:34Z",
-    "url": "https://github.com/EpsteinF1les/tts"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-17T00:57:43Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 51,
-    "updated_at": "2026-09-17T00:56:05Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-17T00:54:53Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-09-17T00:53:36Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-09-17T00:52:53Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
-    "id": "clashroy5384/ai-papers-hub",
-    "language": "\u2014",
-    "name": "clashroy5384/ai-papers-hub",
-    "stars": 0,
-    "updated_at": "2026-09-17T00:52:52Z",
-    "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "\u300a\u8be1\u79d8\u4e16\u754c\u300b\u00b7 World of Mysteries \u2014 \u672c\u5730\u4f18\u5148\u7684\u5355\u4eba\u6301\u4e45\u4e16\u754c\u6f14\u7ece\u5e94\u7528\uff1aSwiftUI macOS 26+ \u5ba2\u6237\u7aef + \u72ec\u7acb Local Engine\uff08Python 3.14 + AgentScope 2.0.8\uff09+ SQ",
-    "id": "hrygo/WorldofMysteries",
-    "language": "Swift",
-    "name": "hrygo/WorldofMysteries",
-    "stars": 0,
-    "updated_at": "2026-09-17T01:43:51Z",
-    "url": "https://github.com/hrygo/WorldofMysteries"
-  },
-  {
-    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
-    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "language": "Python",
-    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "stars": 5,
-    "updated_at": "2026-09-17T00:51:00Z",
-    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
-  },
-  {
-    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
-    "id": "Arjunadh5305/ios-skills-collection",
-    "language": "\u2014",
-    "name": "Arjunadh5305/ios-skills-collection",
-    "stars": 1,
-    "updated_at": "2026-09-17T00:49:01Z",
-    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
-  },
-  {
-    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
-    "id": "oxidizable-malinois605/bridge-suite-mcp",
-    "language": "TypeScript",
-    "name": "oxidizable-malinois605/bridge-suite-mcp",
-    "stars": 0,
-    "updated_at": "2026-09-17T00:48:59Z",
-    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
-  },
-  {
-    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
-    "id": "Stolas34/voice-input-src",
-    "language": "\u2014",
-    "name": "Stolas34/voice-input-src",
-    "stars": 0,
-    "updated_at": "2026-09-17T00:48:43Z",
-    "url": "https://github.com/Stolas34/voice-input-src"
-  },
-  {
-    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
-    "id": "Screwtopped-annapavlova802/SparkLabs",
-    "language": "C++",
-    "name": "Screwtopped-annapavlova802/SparkLabs",
-    "stars": 1,
-    "updated_at": "2026-09-17T00:46:33Z",
-    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-09-17T00:45:14Z",
-    "url": "https://github.com/mriazi1982/octopai"
   }
 ]
