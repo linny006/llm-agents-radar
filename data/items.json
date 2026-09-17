@@ -1,5 +1,77 @@
 [
   {
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
+    "id": "bigfish1913/pi-rust",
+    "language": "Rust",
+    "name": "bigfish1913/pi-rust",
+    "stars": 24,
+    "updated_at": "2026-09-17T07:42:07Z",
+    "url": "https://github.com/bigfish1913/pi-rust"
+  },
+  {
+    "description": "\u76d8\u53e4 \u2014 AI Agent \u591a\u6a21\u6001\u8bb0\u5fc6\u7cfb\u7edf\uff1aWing\u2192Room\u2192Drawer \u5206\u5c42\u5b58\u50a8\u3001ONNX \u672c\u5730\u5d4c\u5165\u8bed\u4e49\u68c0\u7d22\uff08SQLite FTS5 + RRF \u878d\u5408\uff09\u3001\u827e\u5bbe\u6d69\u65af\u9057\u5fd8\u66f2\u7ebf\u4e0e\u795e\u7ecf\u6fc0\u6d3b\u6269\u6563\uff1b\u63d0\u4f9b REST API + MCP \u670d\u52a1\uff0c\u9ed8\u8ba4\u66b4",
+    "id": "Mlte0907/pangu",
+    "language": "Python",
+    "name": "Mlte0907/pangu",
+    "stars": 0,
+    "updated_at": "2026-09-17T07:41:49Z",
+    "url": "https://github.com/Mlte0907/pangu"
+  },
+  {
+    "description": "Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/",
+    "id": "ZekaiShi/evo-subagent",
+    "language": "JavaScript",
+    "name": "ZekaiShi/evo-subagent",
+    "stars": 8,
+    "updated_at": "2026-09-17T07:41:41Z",
+    "url": "https://github.com/ZekaiShi/evo-subagent"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 185,
+    "updated_at": "2026-09-17T07:37:46Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "openPASO \u2014 open Platform for Agentic Simulation and Optimization. An AI agent that operates nine finite-element and mult",
+    "id": "alhermann/openPASO",
+    "language": "Python",
+    "name": "alhermann/openPASO",
+    "stars": 11,
+    "updated_at": "2026-09-17T07:36:18Z",
+    "url": "https://github.com/alhermann/openPASO"
+  },
+  {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-17T07:34:46Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Local-first long-term memory and safer context compression for Hermes Agent \u2014 SQLite, no required services.",
+    "id": "indigokarasu/chronicle-agent-context-and-memory",
+    "language": "Python",
+    "name": "indigokarasu/chronicle-agent-context-and-memory",
+    "stars": 6,
+    "updated_at": "2026-09-17T07:33:00Z",
+    "url": "https://github.com/indigokarasu/chronicle-agent-context-and-memory"
+  },
+  {
+    "description": "An agent-operable host for audio plugins: read parameters and presets, see the editor, and operate the controls that are",
+    "id": "enkerewpo/plugshell",
+    "language": "C++",
+    "name": "enkerewpo/plugshell",
+    "stars": 0,
+    "updated_at": "2026-09-17T07:31:37Z",
+    "url": "https://github.com/enkerewpo/plugshell"
+  },
+  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -22,7 +94,7 @@
     "id": "MaSunKing/local-dense-grpo-agent",
     "language": "Python",
     "name": "MaSunKing/local-dense-grpo-agent",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-09-17T07:26:00Z",
     "url": "https://github.com/MaSunKing/local-dense-grpo-agent"
   },
@@ -70,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-17T07:07:46Z",
     "url": "https://github.com/zig333/ELAI-archive"
-  },
-  {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-17T07:07:08Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
@@ -297,15 +360,6 @@
     "url": "https://github.com/agentpit-io/hunter-community"
   },
   {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 185,
-    "updated_at": "2026-09-17T06:45:26Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
-  },
-  {
     "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
     "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-17T06:34:22Z",
     "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-09-17T06:30:04Z",
-    "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-09-17T06:28:08Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "An AI Agent for everyday SWE with minimalist style",
-    "id": "thehope2k/minimalist-agent",
-    "language": "TypeScript",
-    "name": "thehope2k/minimalist-agent",
-    "stars": 1,
-    "updated_at": "2026-09-17T06:26:57Z",
-    "url": "https://github.com/thehope2k/minimalist-agent"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-09-17T06:25:03Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "openPASO \u2014 open Platform for Agentic Simulation and Optimization. An AI agent that operates nine finite-element and mult",
-    "id": "alhermann/openPASO",
-    "language": "Python",
-    "name": "alhermann/openPASO",
-    "stars": 11,
-    "updated_at": "2026-09-17T06:23:16Z",
-    "url": "https://github.com/alhermann/openPASO"
-  },
-  {
-    "description": "A persistent agent runtime and its official CLI. Three packages: @echo-agent/core (runtime/SDK, zero runtime dependencie",
-    "id": "echo-yiyi/echo-agent",
-    "language": "TypeScript",
-    "name": "echo-yiyi/echo-agent",
-    "stars": 2,
-    "updated_at": "2026-09-17T06:22:21Z",
-    "url": "https://github.com/echo-yiyi/echo-agent"
   }
 ]
