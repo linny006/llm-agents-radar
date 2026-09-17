@@ -1,12 +1,39 @@
 [
   {
+    "description": "An autonomous on-call agent that investigates and remediates incidents on the Incident Platform through its MCP tool sur",
+    "id": "kudratsingh/incident-commander",
+    "language": "Python",
+    "name": "kudratsingh/incident-commander",
+    "stars": 0,
+    "updated_at": "2026-09-17T11:29:21Z",
+    "url": "https://github.com/kudratsingh/incident-commander"
+  },
+  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
     "name": "helixml/helix",
     "stars": 809,
-    "updated_at": "2026-09-17T11:13:17Z",
+    "updated_at": "2026-09-17T11:20:51Z",
     "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Evidence-backed resume tailoring agent, built on YAMLResume. Every generated claim points back at the candidate's own ma",
+    "id": "AnxForever/yamlresume",
+    "language": "TypeScript",
+    "name": "AnxForever/yamlresume",
+    "stars": 0,
+    "updated_at": "2026-09-17T11:19:34Z",
+    "url": "https://github.com/AnxForever/yamlresume"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 185,
+    "updated_at": "2026-09-17T11:19:00Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
     "description": "An agent-operable host for audio plugins: read parameters and presets, see the editor, and operate the controls that are",
@@ -23,7 +50,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 8,
-    "updated_at": "2026-09-17T11:07:23Z",
+    "updated_at": "2026-09-17T11:17:25Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -68,7 +95,7 @@
     "language": "Swift",
     "name": "hrygo/WorldofMysteries",
     "stars": 0,
-    "updated_at": "2026-09-17T11:13:40Z",
+    "updated_at": "2026-09-17T11:28:06Z",
     "url": "https://github.com/hrygo/WorldofMysteries"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-17T09:54:48Z",
     "url": "https://github.com/xhqing/DigiVendAgent"
-  },
-  {
-    "description": "Provenance-retaining cross-session context merge for DeepSeek Harness \u2014 a confluence theorem with a counterexample, and ",
-    "id": "aLIZELI/belief-merge",
-    "language": "JavaScript",
-    "name": "aLIZELI/belief-merge",
-    "stars": 0,
-    "updated_at": "2026-09-17T09:49:20Z",
-    "url": "https://github.com/aLIZELI/belief-merge"
-  },
-  {
-    "description": "\u6570\u5b57\u4ea7\u54c1\u5236\u4f5c\u4eba Wright\uff5c\u628a\u673a\u4f1a\u505a\u6210\u53ef\u552e\u5356\u6210\u54c1\u3002Digital Product Producer \u2014 turns opportunities into finished products.",
-    "id": "xhqing/ProductProducerAgent",
-    "language": "\u2014",
-    "name": "xhqing/ProductProducerAgent",
-    "stars": 0,
-    "updated_at": "2026-09-17T09:45:54Z",
-    "url": "https://github.com/xhqing/ProductProducerAgent"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 514,
-    "updated_at": "2026-09-17T09:44:49Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   }
 ]
