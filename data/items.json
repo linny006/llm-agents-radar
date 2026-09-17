@@ -1,5 +1,32 @@
 [
   {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-09-17T04:13:41Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
+    "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
+    "id": "khudayarovich/onflip-agent",
+    "language": "TypeScript",
+    "name": "khudayarovich/onflip-agent",
+    "stars": 3,
+    "updated_at": "2026-09-17T04:10:20Z",
+    "url": "https://github.com/khudayarovich/onflip-agent"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-09-17T04:08:23Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
@@ -25,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-09-17T03:58:21Z",
     "url": "https://github.com/enkerewpo/plugshell"
-  },
-  {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-09-17T03:55:08Z",
-    "url": "https://github.com/citizenhicks/mobius"
   },
   {
     "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
@@ -68,7 +86,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-17T03:55:59Z",
+    "updated_at": "2026-09-17T04:07:07Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -329,7 +347,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5768,
-    "updated_at": "2026-09-17T02:40:39Z",
+    "updated_at": "2026-09-17T04:05:05Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -382,7 +400,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 31830,
+    "stars": 31831,
     "updated_at": "2026-09-17T02:28:12Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -391,7 +409,7 @@
     "id": "JerryXie599/Rotom",
     "language": "Python",
     "name": "JerryXie599/Rotom",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-09-17T02:26:42Z",
     "url": "https://github.com/JerryXie599/Rotom"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-17T02:40:30Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
-    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
-    "id": "peder1981/AdvPP",
-    "language": "Go",
-    "name": "peder1981/AdvPP",
-    "stars": 2,
-    "updated_at": "2026-09-17T02:17:46Z",
-    "url": "https://github.com/peder1981/AdvPP"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-09-17T02:10:41Z",
-    "url": "https://github.com/g761007/daily-dispatch"
   }
 ]
