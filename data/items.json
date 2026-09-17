@@ -1,5 +1,113 @@
 [
   {
+    "description": "\u300a\u8be1\u79d8\u4e16\u754c\u300b\u00b7 World of Mysteries \u2014 \u672c\u5730\u4f18\u5148\u7684\u5355\u4eba\u6301\u4e45\u4e16\u754c\u6f14\u7ece\u5e94\u7528\uff1aSwiftUI macOS 26+ \u5ba2\u6237\u7aef + \u72ec\u7acb Local Engine\uff08Python 3.14 + AgentScope 2.0.8\uff09+ SQ",
+    "id": "hrygo/WorldofMysteries",
+    "language": "Swift",
+    "name": "hrygo/WorldofMysteries",
+    "stars": 0,
+    "updated_at": "2026-09-17T05:12:49Z",
+    "url": "https://github.com/hrygo/WorldofMysteries"
+  },
+  {
+    "description": "Context Limiter & Output Vetter for context bloat. It is a highly specialized, structure-aware JSON built specifically t",
+    "id": "alexandephilia/clov-ai",
+    "language": "Rust",
+    "name": "alexandephilia/clov-ai",
+    "stars": 34,
+    "updated_at": "2026-09-17T05:12:29Z",
+    "url": "https://github.com/alexandephilia/clov-ai"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 508,
+    "updated_at": "2026-09-17T05:09:15Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
+    "id": "jack-h-park/pm-intelligence-engine",
+    "language": "Python",
+    "name": "jack-h-park/pm-intelligence-engine",
+    "stars": 0,
+    "updated_at": "2026-09-17T05:05:01Z",
+    "url": "https://github.com/jack-h-park/pm-intelligence-engine"
+  },
+  {
+    "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
+    "id": "khudayarovich/onflip-agent",
+    "language": "TypeScript",
+    "name": "khudayarovich/onflip-agent",
+    "stars": 3,
+    "updated_at": "2026-09-17T05:04:01Z",
+    "url": "https://github.com/khudayarovich/onflip-agent"
+  },
+  {
+    "description": "Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi",
+    "id": "zig333/ELAI-archive",
+    "language": "\u2014",
+    "name": "zig333/ELAI-archive",
+    "stars": 0,
+    "updated_at": "2026-09-17T05:03:57Z",
+    "url": "https://github.com/zig333/ELAI-archive"
+  },
+  {
+    "description": "An agent-operable host for audio plugins: read parameters and presets, see the editor, and operate the controls that are",
+    "id": "enkerewpo/plugshell",
+    "language": "C++",
+    "name": "enkerewpo/plugshell",
+    "stars": 0,
+    "updated_at": "2026-09-17T05:03:53Z",
+    "url": "https://github.com/enkerewpo/plugshell"
+  },
+  {
+    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 213,
+    "updated_at": "2026-09-17T05:07:16Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
+    "id": "brittewestafrican981/ComfyUI-YinChao",
+    "language": "Python",
+    "name": "brittewestafrican981/ComfyUI-YinChao",
+    "stars": 0,
+    "updated_at": "2026-09-17T05:01:52Z",
+    "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 340,
+    "updated_at": "2026-09-17T05:01:15Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 8,
+    "updated_at": "2026-09-17T05:00:57Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
+    "id": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
+    "language": "Python",
+    "name": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
+    "stars": 4,
+    "updated_at": "2026-09-17T05:00:49Z",
+    "url": "https://github.com/mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo"
+  },
+  {
     "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
     "id": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
     "language": "Python",
@@ -79,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-17T04:49:56Z",
     "url": "https://github.com/Stolas34/voice-input-src"
-  },
-  {
-    "description": "An agent-operable host for audio plugins: read parameters and presets, see the editor, and operate the controls that are",
-    "id": "enkerewpo/plugshell",
-    "language": "C++",
-    "name": "enkerewpo/plugshell",
-    "stars": 0,
-    "updated_at": "2026-09-17T04:49:02Z",
-    "url": "https://github.com/enkerewpo/plugshell"
   },
   {
     "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
@@ -185,7 +284,7 @@
     "language": "Rust",
     "name": "citizenhicks/mobius",
     "stars": 1,
-    "updated_at": "2026-09-17T04:54:39Z",
+    "updated_at": "2026-09-17T05:11:23Z",
     "url": "https://github.com/citizenhicks/mobius"
   },
   {
@@ -297,21 +396,12 @@
     "url": "https://github.com/jack-h-park/stock-trading-skills"
   },
   {
-    "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
-    "id": "khudayarovich/onflip-agent",
-    "language": "TypeScript",
-    "name": "khudayarovich/onflip-agent",
-    "stars": 3,
-    "updated_at": "2026-09-17T04:10:20Z",
-    "url": "https://github.com/khudayarovich/onflip-agent"
-  },
-  {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 5973,
-    "updated_at": "2026-09-17T03:59:27Z",
+    "updated_at": "2026-09-17T05:13:13Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 6,
     "updated_at": "2026-09-17T03:34:55Z",
     "url": "https://github.com/kyleslight/shun"
-  },
-  {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-17T03:24:48Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi",
-    "id": "zig333/ELAI-archive",
-    "language": "\u2014",
-    "name": "zig333/ELAI-archive",
-    "stars": 0,
-    "updated_at": "2026-09-17T03:11:42Z",
-    "url": "https://github.com/zig333/ELAI-archive"
-  },
-  {
-    "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
-    "id": "brittewestafrican981/ComfyUI-YinChao",
-    "language": "Python",
-    "name": "brittewestafrican981/ComfyUI-YinChao",
-    "stars": 0,
-    "updated_at": "2026-09-17T03:09:42Z",
-    "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
-  },
-  {
-    "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
-    "id": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
-    "language": "Python",
-    "name": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
-    "stars": 4,
-    "updated_at": "2026-09-17T03:08:35Z",
-    "url": "https://github.com/mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-09-17T04:48:30Z",
-    "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4416,
-    "updated_at": "2026-09-17T03:51:55Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
-    "id": "HKUDS/DeepCode",
-    "language": "Python",
-    "name": "HKUDS/DeepCode",
-    "stars": 16547,
-    "updated_at": "2026-09-17T02:54:14Z",
-    "url": "https://github.com/HKUDS/DeepCode"
-  },
-  {
-    "description": "LLM \u6570\u636e\u5206\u6790\u5de5\u4f5c\u53f0\uff1a\u4e0a\u4f20\u6570\u636e\u96c6\u81ea\u52a8\u5b8c\u6210\u6e05\u6d17\u3001\u7edf\u8ba1\u5206\u6790\u3001\u53ef\u89c6\u5316\u4e0e\u62a5\u544a\uff1b\u53d7\u63a7\u5de5\u5177\u96c6 + \u53ea\u8bfb SQL\uff08SQLite / PostgreSQL\uff09\u00b7 MCP \u6570\u636e\u9762 \u00b7 Plotly + ECharts \u53cc\u5f15\u64ce \u00b7 FastAPI + Reac",
-    "id": "xiaomaozjj666/data-analysis-agent",
-    "language": "Python",
-    "name": "xiaomaozjj666/data-analysis-agent",
-    "stars": 1,
-    "updated_at": "2026-09-17T02:51:24Z",
-    "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
-  },
-  {
-    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
-    "id": "expectedparrot/edsl",
-    "language": "Python",
-    "name": "expectedparrot/edsl",
-    "stars": 496,
-    "updated_at": "2026-09-17T02:49:53Z",
-    "url": "https://github.com/expectedparrot/edsl"
-  },
-  {
-    "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
-    "id": "wq19901103wq/wechat-mac-rpa",
-    "language": "Python",
-    "name": "wq19901103wq/wechat-mac-rpa",
-    "stars": 104,
-    "updated_at": "2026-09-17T02:44:15Z",
-    "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
   }
 ]
