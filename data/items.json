@@ -1,5 +1,41 @@
 [
   {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 5,
+    "updated_at": "2026-09-17T21:29:56Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-17T21:25:12Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 4,
+    "updated_at": "2026-09-17T21:18:09Z",
+    "url": "https://github.com/ljedrz/nachalnik"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-17T21:16:49Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
     "description": "An autonomous on-call agent that investigates and remediates incidents on the Incident Platform through its MCP tool sur",
     "id": "kudratsingh/incident-commander",
     "language": "Python",
@@ -25,24 +61,6 @@
     "stars": 31619,
     "updated_at": "2026-09-17T21:05:24Z",
     "url": "https://github.com/feder-cr/AIHawk"
-  },
-  {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-17T21:05:01Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-17T21:03:59Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -76,7 +94,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7323,
+    "stars": 7324,
     "updated_at": "2026-09-17T20:50:28Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -88,15 +106,6 @@
     "stars": 10,
     "updated_at": "2026-09-17T20:33:44Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 5,
-    "updated_at": "2026-09-17T20:29:38Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-17T19:08:38Z",
     "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-09-17T19:05:22Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
   }
 ]
