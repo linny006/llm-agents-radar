@@ -1,21 +1,66 @@
 [
   {
-    "description": "An agent-operable host for audio plugins: read parameters and presets, see the editor, and operate the controls that are",
-    "id": "enkerewpo/plugshell",
-    "language": "C++",
-    "name": "enkerewpo/plugshell",
-    "stars": 0,
-    "updated_at": "2026-09-17T09:14:49Z",
-    "url": "https://github.com/enkerewpo/plugshell"
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3394,
+    "updated_at": "2026-09-17T09:29:52Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
     "id": "agentpit-io/hunter-community",
     "language": "Python",
     "name": "agentpit-io/hunter-community",
-    "stars": 501,
-    "updated_at": "2026-09-17T09:12:35Z",
+    "stars": 502,
+    "updated_at": "2026-09-17T09:28:12Z",
     "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "An agent-operable host for audio plugins: read parameters and presets, see the editor, and operate the controls that are",
+    "id": "enkerewpo/plugshell",
+    "language": "C++",
+    "name": "enkerewpo/plugshell",
+    "stars": 0,
+    "updated_at": "2026-09-17T09:26:08Z",
+    "url": "https://github.com/enkerewpo/plugshell"
+  },
+  {
+    "description": "A small Python harness that keeps an LLM coding agent on track: durable memory, a code graph, a live todo plan, and loop",
+    "id": "IdysisI/kern",
+    "language": "Python",
+    "name": "IdysisI/kern",
+    "stars": 2,
+    "updated_at": "2026-09-17T09:22:20Z",
+    "url": "https://github.com/IdysisI/kern"
+  },
+  {
+    "description": "Provenance-retaining cross-session context merge for DeepSeek Harness \u2014 a confluence theorem with a counterexample, and ",
+    "id": "aLIZELI/belief-merge",
+    "language": "JavaScript",
+    "name": "aLIZELI/belief-merge",
+    "stars": 0,
+    "updated_at": "2026-09-17T09:20:34Z",
+    "url": "https://github.com/aLIZELI/belief-merge"
+  },
+  {
+    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
+    "id": "ravisinghrajput95/kubewhy",
+    "language": "Python",
+    "name": "ravisinghrajput95/kubewhy",
+    "stars": 0,
+    "updated_at": "2026-09-17T09:17:46Z",
+    "url": "https://github.com/ravisinghrajput95/kubewhy"
+  },
+  {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-17T09:15:16Z",
+    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
@@ -34,24 +79,6 @@
     "stars": 13,
     "updated_at": "2026-09-17T09:07:18Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3393,
-    "updated_at": "2026-09-17T09:05:23Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Provenance-retaining cross-session context merge for DeepSeek Harness \u2014 a confluence theorem with a counterexample, and ",
-    "id": "aLIZELI/belief-merge",
-    "language": "JavaScript",
-    "name": "aLIZELI/belief-merge",
-    "stars": 0,
-    "updated_at": "2026-09-17T09:02:56Z",
-    "url": "https://github.com/aLIZELI/belief-merge"
   },
   {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
@@ -79,6 +106,15 @@
     "stars": 0,
     "updated_at": "2026-09-17T08:58:43Z",
     "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 511,
+    "updated_at": "2026-09-17T09:26:26Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
@@ -234,15 +270,6 @@
     "url": "https://github.com/xhqing/DigiVendAgent"
   },
   {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-17T09:15:16Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
     "id": "heba-ramdan/harness",
     "language": "TypeScript",
@@ -378,15 +405,6 @@
     "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
   },
   {
-    "description": "A small Python harness that keeps an LLM coding agent on track: durable memory, a code graph, a live todo plan, and loop",
-    "id": "IdysisI/kern",
-    "language": "Python",
-    "name": "IdysisI/kern",
-    "stars": 2,
-    "updated_at": "2026-09-17T08:18:06Z",
-    "url": "https://github.com/IdysisI/kern"
-  },
-  {
     "description": "",
     "id": "JortegaR/ai-notes-api",
     "language": "JavaScript",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-17T07:56:10Z",
     "url": "https://github.com/tx3457/study-loop"
-  },
-  {
-    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
-    "id": "karvidsson/kbots",
-    "language": "Python",
-    "name": "karvidsson/kbots",
-    "stars": 1,
-    "updated_at": "2026-09-17T07:54:32Z",
-    "url": "https://github.com/karvidsson/kbots"
-  },
-  {
-    "description": "openPASO (formerly OASiS): an MCP server that lets an AI model run nine finite-element and multiphysics codes, with cura",
-    "id": "Hereon-InstituteMS/openPASO",
-    "language": "Python",
-    "name": "Hereon-InstituteMS/openPASO",
-    "stars": 23,
-    "updated_at": "2026-09-17T07:51:04Z",
-    "url": "https://github.com/Hereon-InstituteMS/openPASO"
   }
 ]
