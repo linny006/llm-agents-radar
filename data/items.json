@@ -1,12 +1,12 @@
 [
   {
-    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
-    "id": "agentpit-io/hunter-community",
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
     "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 501,
-    "updated_at": "2026-09-17T06:14:09Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
+    "name": "areal-project/AReaL",
+    "stars": 5768,
+    "updated_at": "2026-09-17T06:18:19Z",
+    "url": "https://github.com/areal-project/AReaL"
   },
   {
     "description": "LLM \u6570\u636e\u5206\u6790\u5de5\u4f5c\u53f0\uff1a\u4e0a\u4f20\u6570\u636e\u96c6\u81ea\u52a8\u5b8c\u6210\u6e05\u6d17\u3001\u7edf\u8ba1\u5206\u6790\u3001\u53ef\u89c6\u5316\u4e0e\u62a5\u544a\uff1b\u53d7\u63a7\u5de5\u5177\u96c6 + \u53ea\u8bfb SQL\uff08SQLite / PostgreSQL\uff09\u00b7 MCP \u6570\u636e\u9762 \u00b7 Plotly + ECharts \u53cc\u5f15\u64ce \u00b7 FastAPI + Reac",
@@ -14,8 +14,26 @@
     "language": "Python",
     "name": "xiaomaozjj666/data-analysis-agent",
     "stars": 1,
-    "updated_at": "2026-09-17T06:13:07Z",
+    "updated_at": "2026-09-17T06:17:46Z",
     "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-09-17T06:16:01Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
+    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 501,
+    "updated_at": "2026-09-17T06:14:09Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
   },
   {
     "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
@@ -68,7 +86,7 @@
     "language": "Swift",
     "name": "hrygo/WorldofMysteries",
     "stars": 0,
-    "updated_at": "2026-09-17T06:13:05Z",
+    "updated_at": "2026-09-17T06:17:04Z",
     "url": "https://github.com/hrygo/WorldofMysteries"
   },
   {
@@ -88,15 +106,6 @@
     "stars": 3,
     "updated_at": "2026-09-17T05:57:05Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-09-17T05:47:56Z",
-    "url": "https://github.com/citizenhicks/mobius"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -122,7 +131,7 @@
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 213,
-    "updated_at": "2026-09-17T05:41:54Z",
+    "updated_at": "2026-09-17T06:18:06Z",
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
@@ -131,7 +140,7 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 509,
-    "updated_at": "2026-09-17T05:36:14Z",
+    "updated_at": "2026-09-17T06:17:30Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -169,6 +178,15 @@
     "stars": 2,
     "updated_at": "2026-09-17T05:27:02Z",
     "url": "https://github.com/xhqing/DayTradingAgent"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5974,
+    "updated_at": "2026-09-17T05:13:13Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "Context Limiter & Output Vetter for context bloat. It is a highly specialized, structure-aware JSON built specifically t",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-17T04:28:57Z",
     "url": "https://github.com/xiaomaozjj666/issue-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-09-17T04:27:36Z",
-    "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-09-17T04:25:35Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
   }
 ]
