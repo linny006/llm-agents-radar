@@ -1,5 +1,14 @@
 [
   {
+    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
+    "id": "watchcat/scout",
+    "language": "Rust",
+    "name": "watchcat/scout",
+    "stars": 0,
+    "updated_at": "2026-09-16T23:56:56Z",
+    "url": "https://github.com/watchcat/scout"
+  },
+  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
@@ -32,17 +41,8 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 8,
-    "updated_at": "2026-09-16T23:31:36Z",
+    "updated_at": "2026-09-16T23:52:39Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
-    "id": "watchcat/scout",
-    "language": "Rust",
-    "name": "watchcat/scout",
-    "stars": 0,
-    "updated_at": "2026-09-16T23:27:36Z",
-    "url": "https://github.com/watchcat/scout"
   },
   {
     "description": "LLM \u6570\u636e\u5206\u6790\u5de5\u4f5c\u53f0\uff1a\u4e0a\u4f20\u6570\u636e\u96c6\u81ea\u52a8\u5b8c\u6210\u6e05\u6d17\u3001\u7edf\u8ba1\u5206\u6790\u3001\u53ef\u89c6\u5316\u4e0e\u62a5\u544a\uff1b\u53d7\u63a7\u5de5\u5177\u96c6 + \u53ea\u8bfb SQL\uff08SQLite / PostgreSQL\uff09\u00b7 MCP \u6570\u636e\u9762 \u00b7 Plotly + ECharts \u53cc\u5f15\u64ce \u00b7 FastAPI + Reac",

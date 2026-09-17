@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-16 23:45 UTC
+> ⏰ Last updated: 2026-09-17 00:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-09-16 | AI-powered image generation and chat studio |
-| 2 | [citizenhicks/mobius](https://github.com/citizenhicks/mobius) | 1 | Rust | 2026-09-16 | möbius is a small, frontend-neutral Rust framework for coding agents.  |
-| 3 | [genaforvena/lte-workstation](https://github.com/genaforvena/lte-workstation) | 8 | Shell | 2026-09-16 | An autopoiesic kefir for computing machines |
-| 4 | [ljchang/mecha](https://github.com/ljchang/mecha) | 8 | Rust | 2026-09-16 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
-| 5 | [watchcat/scout](https://github.com/watchcat/scout) | 0 | Rust | 2026-09-16 | A Telegram shopping researcher that verifies prices and links instead of inventing them |
+| 1 | [watchcat/scout](https://github.com/watchcat/scout) | 0 | Rust | 2026-09-16 | A Telegram shopping researcher that verifies prices and links instead of inventing them |
+| 2 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-09-16 | AI-powered image generation and chat studio |
+| 3 | [citizenhicks/mobius](https://github.com/citizenhicks/mobius) | 1 | Rust | 2026-09-16 | möbius is a small, frontend-neutral Rust framework for coding agents.  |
+| 4 | [genaforvena/lte-workstation](https://github.com/genaforvena/lte-workstation) | 8 | Shell | 2026-09-16 | An autopoiesic kefir for computing machines |
+| 5 | [ljchang/mecha](https://github.com/ljchang/mecha) | 8 | Rust | 2026-09-16 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
 | 6 | [xiaomaozjj666/data-analysis-agent](https://github.com/xiaomaozjj666/data-analysis-agent) | 1 | Python | 2026-09-16 | LLM 数据分析工作台：上传数据集自动完成清洗、统计分析、可视化与报告；受控工具集 + 只读 SQL（SQLite / PostgreSQL）· MCP 数据面 · Plotly + ECharts 双引擎 · FastAPI + Reac |
 | 7 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 0 | TypeScript | 2026-09-16 | Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that  |
 | 8 | [Bowotria/aethercore](https://github.com/Bowotria/aethercore) | 2 | Go | 2026-09-16 | Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso |
