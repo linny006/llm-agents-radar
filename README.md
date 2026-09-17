@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-17 09:30 UTC
+> ⏰ Last updated: 2026-09-17 09:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,36 +42,36 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 3394 | Python | 2026-09-17 | SRE Agent - CNCF Sandbox Project |
-| 2 | [agentpit-io/hunter-community](https://github.com/agentpit-io/hunter-community) | 502 | Python | 2026-09-17 | HunterCode · Community Edition · 腾讯 WorkBuddy 金融版的开源本地替代方案 · open-source, local alternative to Tencent WorkBuddy Finance |
-| 3 | [enkerewpo/plugshell](https://github.com/enkerewpo/plugshell) | 0 | C++ | 2026-09-17 | An agent-operable host for audio plugins: read parameters and presets, see the editor, and operate the controls that are |
-| 4 | [IdysisI/kern](https://github.com/IdysisI/kern) | 2 | Python | 2026-09-17 | A small Python harness that keeps an LLM coding agent on track: durable memory, a code graph, a live todo plan, and loop |
-| 5 | [aLIZELI/belief-merge](https://github.com/aLIZELI/belief-merge) | 0 | JavaScript | 2026-09-17 | Provenance-retaining cross-session context merge for DeepSeek Harness — a confluence theorem with a counterexample, and  |
-| 6 | [ravisinghrajput95/kubewhy](https://github.com/ravisinghrajput95/kubewhy) | 0 | Python | 2026-09-17 | Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why — a local LLM read |
-| 7 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 0 | TypeScript | 2026-09-17 | Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that  |
-| 8 | [555cute/r20-quantum-trader](https://github.com/555cute/r20-quantum-trader) | 185 | Python | 2026-09-17 | ⚡ LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI  |
-| 9 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 13 | Go | 2026-09-17 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
-| 10 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 340 | TypeScript | 2026-09-17 | A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi |
-| 11 | [MaSunKing/local-dense-grpo-agent](https://github.com/MaSunKing/local-dense-grpo-agent) | 1 | Python | 2026-09-17 | Qwen3-8B 医学研究智能体：真实工具检索、QLoRA SFT、分阶段稠密奖励与 GRPO 风格 LoRA 后训练，面向本地部署。 |
-| 12 | [rugose-learnedprofession58/pi-dsh](https://github.com/rugose-learnedprofession58/pi-dsh) | 0 | TypeScript | 2026-09-17 | Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting |
-| 13 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 511 | Python | 2026-09-17 | Self-Programming AI Assistant. Capture, automate, and refine all your workflows. |
-| 14 | [abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder](https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder) | 1 | JavaScript | 2026-09-17 | Build structured prompts with reference media for MiniMax H3 video model in ComfyUI. |
-| 15 | [passive-hotpepper515/area-checker-html-tool](https://github.com/passive-hotpepper515/area-checker-html-tool) | 0 | HTML | 2026-09-17 | Verify area values quickly with this web-based HTML calculator tool. |
-| 16 | [Blondieredistributed612/pocket-agent](https://github.com/Blondieredistributed612/pocket-agent) | 2 | Python | 2026-09-17 | Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte |
-| 17 | [bettersilvanus849/inner-coordinates](https://github.com/bettersilvanus849/inner-coordinates) | 1 | Shell | 2026-09-17 | Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s |
-| 18 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 703 | JavaScript | 2026-09-17 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
-| 19 | [Blaz742/web-pentest-lab](https://github.com/Blaz742/web-pentest-lab) | 0 | — | 2026-09-17 | Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets. |
-| 20 | [Elevated-homer201/prompt-gate](https://github.com/Elevated-homer201/prompt-gate) | 1 | — | 2026-09-17 | Filter LLM prompts and shield applications from data leakage using a specialized security gateway. |
-| 21 | [Indrasclerotinia71/local-ai-research-assistant](https://github.com/Indrasclerotinia71/local-ai-research-assistant) | 0 | Python | 2026-09-17 | Automate research tasks with local LLMs, real-time web search, and structured report generation. |
-| 22 | [bigfish1913/pi-rust](https://github.com/bigfish1913/pi-rust) | 25 | Rust | 2026-09-17 | Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s |
-| 23 | [Furrowed-subphylumurochorda108/kimi-K2.6](https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6) | 3 | Python | 2026-09-17 | Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model. |
-| 24 | [mpardakaskon-boop/obsidian-llm-wiki-local](https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local) | 1 | — | 2026-09-17 | Query your Obsidian vault using local LLMs to generate text and retrieve information. |
-| 25 | [HELLOCODINGTR/AgentForge](https://github.com/HELLOCODINGTR/AgentForge) | 1 | — | 2026-09-17 | Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API  |
-| 26 | [strobilevitellus470/argus-ai](https://github.com/strobilevitellus470/argus-ai) | 1 | Python | 2026-09-17 | Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa |
-| 27 | [node9-ai/node9-proxy](https://github.com/node9-ai/node9-proxy) | 213 | TypeScript | 2026-09-17 | The Execution Security Layer for the Agentic Era. Providing deterministic "Sudo" governance and audit logs for autonomou |
-| 28 | [juandavidru4641/dsplab](https://github.com/juandavidru4641/dsplab) | 0 | JavaScript | 2026-09-17 | Develop DSP tools and prototypes quickly with DSPLab’s environment, combining optimized code, safe testing, and embedded |
-| 29 | [laoxs2002/genai-agentes](https://github.com/laoxs2002/genai-agentes) | 0 | Jupyter Notebook | 2026-09-17 | Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a |
-| 30 | [xhqing/DigiVendAgent](https://github.com/xhqing/DigiVendAgent) | 0 | — | 2026-09-17 | 电商运营 Vendy｜成交：上架/定价/履约/售后/对账。E-commerce Ops — the conversion & sales agent. |
+| 1 | [aLIZELI/belief-merge](https://github.com/aLIZELI/belief-merge) | 0 | JavaScript | 2026-09-17 | Provenance-retaining cross-session context merge for DeepSeek Harness — a confluence theorem with a counterexample, and  |
+| 2 | [enkerewpo/plugshell](https://github.com/enkerewpo/plugshell) | 0 | C++ | 2026-09-17 | An agent-operable host for audio plugins: read parameters and presets, see the editor, and operate the controls that are |
+| 3 | [xhqing/DigiVendAgent](https://github.com/xhqing/DigiVendAgent) | 0 | — | 2026-09-17 | 电商运营 Vendy｜成交：上架/定价/履约/售后/对账。E-commerce Ops — the conversion & sales agent. |
+| 4 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 3394 | Python | 2026-09-17 | SRE Agent - CNCF Sandbox Project |
+| 5 | [agentpit-io/hunter-community](https://github.com/agentpit-io/hunter-community) | 502 | Python | 2026-09-17 | HunterCode · Community Edition · 腾讯 WorkBuddy 金融版的开源本地替代方案 · open-source, local alternative to Tencent WorkBuddy Finance |
+| 6 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 512 | Python | 2026-09-17 | Self-Programming AI Assistant. Capture, automate, and refine all your workflows. |
+| 7 | [IdysisI/kern](https://github.com/IdysisI/kern) | 2 | Python | 2026-09-17 | A small Python harness that keeps an LLM coding agent on track: durable memory, a code graph, a live todo plan, and loop |
+| 8 | [ravisinghrajput95/kubewhy](https://github.com/ravisinghrajput95/kubewhy) | 0 | Python | 2026-09-17 | Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why — a local LLM read |
+| 9 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 0 | TypeScript | 2026-09-17 | Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that  |
+| 10 | [555cute/r20-quantum-trader](https://github.com/555cute/r20-quantum-trader) | 185 | Python | 2026-09-17 | ⚡ LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI  |
+| 11 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 13 | Go | 2026-09-17 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
+| 12 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 340 | TypeScript | 2026-09-17 | A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi |
+| 13 | [MaSunKing/medical-research-agent-grpo](https://github.com/MaSunKing/medical-research-agent-grpo) | 1 | Python | 2026-09-17 | Qwen3-8B 医学研究智能体：真实工具检索、QLoRA SFT、分阶段稠密奖励与 GRPO 风格 LoRA 后训练，面向本地部署。 |
+| 14 | [rugose-learnedprofession58/pi-dsh](https://github.com/rugose-learnedprofession58/pi-dsh) | 0 | TypeScript | 2026-09-17 | Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting |
+| 15 | [abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder](https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder) | 1 | JavaScript | 2026-09-17 | Build structured prompts with reference media for MiniMax H3 video model in ComfyUI. |
+| 16 | [passive-hotpepper515/area-checker-html-tool](https://github.com/passive-hotpepper515/area-checker-html-tool) | 0 | HTML | 2026-09-17 | Verify area values quickly with this web-based HTML calculator tool. |
+| 17 | [Blondieredistributed612/pocket-agent](https://github.com/Blondieredistributed612/pocket-agent) | 2 | Python | 2026-09-17 | Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte |
+| 18 | [bettersilvanus849/inner-coordinates](https://github.com/bettersilvanus849/inner-coordinates) | 1 | Shell | 2026-09-17 | Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s |
+| 19 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 703 | JavaScript | 2026-09-17 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
+| 20 | [Blaz742/web-pentest-lab](https://github.com/Blaz742/web-pentest-lab) | 0 | — | 2026-09-17 | Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets. |
+| 21 | [Elevated-homer201/prompt-gate](https://github.com/Elevated-homer201/prompt-gate) | 1 | — | 2026-09-17 | Filter LLM prompts and shield applications from data leakage using a specialized security gateway. |
+| 22 | [Indrasclerotinia71/local-ai-research-assistant](https://github.com/Indrasclerotinia71/local-ai-research-assistant) | 0 | Python | 2026-09-17 | Automate research tasks with local LLMs, real-time web search, and structured report generation. |
+| 23 | [bigfish1913/pi-rust](https://github.com/bigfish1913/pi-rust) | 25 | Rust | 2026-09-17 | Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s |
+| 24 | [Furrowed-subphylumurochorda108/kimi-K2.6](https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6) | 3 | Python | 2026-09-17 | Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model. |
+| 25 | [mpardakaskon-boop/obsidian-llm-wiki-local](https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local) | 1 | — | 2026-09-17 | Query your Obsidian vault using local LLMs to generate text and retrieve information. |
+| 26 | [HELLOCODINGTR/AgentForge](https://github.com/HELLOCODINGTR/AgentForge) | 1 | — | 2026-09-17 | Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API  |
+| 27 | [strobilevitellus470/argus-ai](https://github.com/strobilevitellus470/argus-ai) | 1 | Python | 2026-09-17 | Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa |
+| 28 | [node9-ai/node9-proxy](https://github.com/node9-ai/node9-proxy) | 213 | TypeScript | 2026-09-17 | The Execution Security Layer for the Agentic Era. Providing deterministic "Sudo" governance and audit logs for autonomou |
+| 29 | [juandavidru4641/dsplab](https://github.com/juandavidru4641/dsplab) | 0 | JavaScript | 2026-09-17 | Develop DSP tools and prototypes quickly with DSPLab’s environment, combining optimized code, safe testing, and embedded |
+| 30 | [laoxs2002/genai-agentes](https://github.com/laoxs2002/genai-agentes) | 0 | Jupyter Notebook | 2026-09-17 | Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a |
 | 31 | [heba-ramdan/harness](https://github.com/heba-ramdan/harness) | 1 | TypeScript | 2026-09-17 | Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the  |
 | 32 | [Ronit0p/AutoGod](https://github.com/Ronit0p/AutoGod) | 0 | Java | 2026-09-17 | Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft  |
 | 33 | [lukky262/ARE](https://github.com/lukky262/ARE) | 1 | — | 2026-09-17 | Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a |

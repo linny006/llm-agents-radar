@@ -1,11 +1,38 @@
 [
   {
+    "description": "Provenance-retaining cross-session context merge for DeepSeek Harness \u2014 a confluence theorem with a counterexample, and ",
+    "id": "aLIZELI/belief-merge",
+    "language": "JavaScript",
+    "name": "aLIZELI/belief-merge",
+    "stars": 0,
+    "updated_at": "2026-09-17T09:44:00Z",
+    "url": "https://github.com/aLIZELI/belief-merge"
+  },
+  {
+    "description": "An agent-operable host for audio plugins: read parameters and presets, see the editor, and operate the controls that are",
+    "id": "enkerewpo/plugshell",
+    "language": "C++",
+    "name": "enkerewpo/plugshell",
+    "stars": 0,
+    "updated_at": "2026-09-17T09:40:36Z",
+    "url": "https://github.com/enkerewpo/plugshell"
+  },
+  {
+    "description": "\u7535\u5546\u8fd0\u8425 Vendy\uff5c\u6210\u4ea4\uff1a\u4e0a\u67b6/\u5b9a\u4ef7/\u5c65\u7ea6/\u552e\u540e/\u5bf9\u8d26\u3002E-commerce Ops \u2014 the conversion & sales agent.",
+    "id": "xhqing/DigiVendAgent",
+    "language": "\u2014",
+    "name": "xhqing/DigiVendAgent",
+    "stars": 0,
+    "updated_at": "2026-09-17T09:36:45Z",
+    "url": "https://github.com/xhqing/DigiVendAgent"
+  },
+  {
     "description": "SRE Agent - CNCF Sandbox Project",
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3394,
-    "updated_at": "2026-09-17T09:29:52Z",
+    "updated_at": "2026-09-17T09:31:22Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -18,13 +45,13 @@
     "url": "https://github.com/agentpit-io/hunter-community"
   },
   {
-    "description": "An agent-operable host for audio plugins: read parameters and presets, see the editor, and operate the controls that are",
-    "id": "enkerewpo/plugshell",
-    "language": "C++",
-    "name": "enkerewpo/plugshell",
-    "stars": 0,
-    "updated_at": "2026-09-17T09:26:08Z",
-    "url": "https://github.com/enkerewpo/plugshell"
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 512,
+    "updated_at": "2026-09-17T09:44:49Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "A small Python harness that keeps an LLM coding agent on track: durable memory, a code graph, a live todo plan, and loop",
@@ -34,15 +61,6 @@
     "stars": 2,
     "updated_at": "2026-09-17T09:22:20Z",
     "url": "https://github.com/IdysisI/kern"
-  },
-  {
-    "description": "Provenance-retaining cross-session context merge for DeepSeek Harness \u2014 a confluence theorem with a counterexample, and ",
-    "id": "aLIZELI/belief-merge",
-    "language": "JavaScript",
-    "name": "aLIZELI/belief-merge",
-    "stars": 0,
-    "updated_at": "2026-09-17T09:20:34Z",
-    "url": "https://github.com/aLIZELI/belief-merge"
   },
   {
     "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
@@ -91,12 +109,12 @@
   },
   {
     "description": "Qwen3-8B \u533b\u5b66\u7814\u7a76\u667a\u80fd\u4f53\uff1a\u771f\u5b9e\u5de5\u5177\u68c0\u7d22\u3001QLoRA SFT\u3001\u5206\u9636\u6bb5\u7a20\u5bc6\u5956\u52b1\u4e0e GRPO \u98ce\u683c LoRA \u540e\u8bad\u7ec3\uff0c\u9762\u5411\u672c\u5730\u90e8\u7f72\u3002",
-    "id": "MaSunKing/local-dense-grpo-agent",
+    "id": "MaSunKing/medical-research-agent-grpo",
     "language": "Python",
-    "name": "MaSunKing/local-dense-grpo-agent",
+    "name": "MaSunKing/medical-research-agent-grpo",
     "stars": 1,
     "updated_at": "2026-09-17T09:01:23Z",
-    "url": "https://github.com/MaSunKing/local-dense-grpo-agent"
+    "url": "https://github.com/MaSunKing/medical-research-agent-grpo"
   },
   {
     "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
@@ -106,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-17T08:58:43Z",
     "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 511,
-    "updated_at": "2026-09-17T09:26:26Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
@@ -259,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-09-17T08:41:34Z",
     "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "\u7535\u5546\u8fd0\u8425 Vendy\uff5c\u6210\u4ea4\uff1a\u4e0a\u67b6/\u5b9a\u4ef7/\u5c65\u7ea6/\u552e\u540e/\u5bf9\u8d26\u3002E-commerce Ops \u2014 the conversion & sales agent.",
-    "id": "xhqing/DigiVendAgent",
-    "language": "\u2014",
-    "name": "xhqing/DigiVendAgent",
-    "stars": 0,
-    "updated_at": "2026-09-17T08:41:16Z",
-    "url": "https://github.com/xhqing/DigiVendAgent"
   },
   {
     "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
