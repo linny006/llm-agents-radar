@@ -1,12 +1,93 @@
 [
   {
+    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 509,
+    "updated_at": "2026-09-17T15:29:46Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 130,
+    "updated_at": "2026-09-17T15:29:38Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "An autonomous on-call agent that investigates and remediates incidents on the Incident Platform through its MCP tool sur",
+    "id": "kudratsingh/incident-commander",
+    "language": "Python",
+    "name": "kudratsingh/incident-commander",
+    "stars": 0,
+    "updated_at": "2026-09-17T15:29:14Z",
+    "url": "https://github.com/kudratsingh/incident-commander"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 516,
+    "updated_at": "2026-09-17T15:29:15Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-09-17T15:26:24Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "An agentic OBD-II scanner that never makes anything up. Bring your own model, read every module on the bus, and click an",
+    "id": "christianOrona/wtfault-scanner",
+    "language": "Rust",
+    "name": "christianOrona/wtfault-scanner",
+    "stars": 2,
+    "updated_at": "2026-09-17T15:24:59Z",
+    "url": "https://github.com/christianOrona/wtfault-scanner"
+  },
+  {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-17T15:24:58Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 703,
-    "updated_at": "2026-09-17T15:14:24Z",
+    "updated_at": "2026-09-17T15:23:53Z",
     "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "\u8f93\u5165\u4e00\u6bb5\u9700\u6c42\u8bf4\u660e\uff0c\u751f\u6210\u5e26\u7acb\u9879\u6587\u6863\u3001\u95e8\u7981\u68c0\u67e5\u548c\u8fdb\u5ea6\u8bb0\u5f55\u7684\u9879\u76ee\u76ee\u5f55\uff0c\u9644\u5e26\u81ea\u68c0\u811a\u672c\u3002\u53ef\u4f5c\u4e3a\u7f16\u7a0b\u52a9\u624b\u7684\u6280\u80fd\u5b89\u88c5\uff0c\u4e5f\u53ef\u4ee5\u76f4\u63a5\u5728\u547d\u4ee4\u884c\u8fd0\u884c\uff0c\u53ea\u4f9d\u8d56 Python \u6807\u51c6\u5e93\u3002",
+    "id": "ivercurry99/everyone-can-projects",
+    "language": "Python",
+    "name": "ivercurry99/everyone-can-projects",
+    "stars": 1,
+    "updated_at": "2026-09-17T15:20:45Z",
+    "url": "https://github.com/ivercurry99/everyone-can-projects"
+  },
+  {
+    "description": "\u57fa\u4e8eLLM\u7684\u91cf\u5316\u56e0\u5b50\u5f00\u53d1Agent",
+    "id": "ZXTLQQ/FactorGPT",
+    "language": "Python",
+    "name": "ZXTLQQ/FactorGPT",
+    "stars": 10,
+    "updated_at": "2026-09-17T15:19:32Z",
+    "url": "https://github.com/ZXTLQQ/FactorGPT"
   },
   {
     "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
@@ -52,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-17T15:06:42Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-17T15:06:41Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
@@ -153,15 +225,6 @@
     "url": "https://github.com/strobilevitellus470/argus-ai"
   },
   {
-    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 507,
-    "updated_at": "2026-09-17T14:54:30Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
-  },
-  {
     "description": "A small Python harness that keeps an LLM coding agent on track: durable memory, a code graph, a live todo plan, and loop",
     "id": "IdysisI/kern",
     "language": "Python",
@@ -216,15 +279,6 @@
     "url": "https://github.com/lukky262/ARE"
   },
   {
-    "description": "An agentic OBD-II scanner that never makes anything up. Bring your own model, read every module on the bus, and click an",
-    "id": "christianOrona/wtfault-scanner",
-    "language": "Rust",
-    "name": "christianOrona/wtfault-scanner",
-    "stars": 2,
-    "updated_at": "2026-09-17T14:49:20Z",
-    "url": "https://github.com/christianOrona/wtfault-scanner"
-  },
-  {
     "description": "",
     "id": "hichamnes-prog/exforum-auto-poster",
     "language": "Python",
@@ -241,15 +295,6 @@
     "stars": 4,
     "updated_at": "2026-09-17T14:46:47Z",
     "url": "https://github.com/khudayarovich/onflip-agent"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-09-17T14:46:05Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
@@ -369,15 +414,6 @@
     "url": "https://github.com/MingyiSecLab/Atlas"
   },
   {
-    "description": "An autonomous on-call agent that investigates and remediates incidents on the Incident Platform through its MCP tool sur",
-    "id": "kudratsingh/incident-commander",
-    "language": "Python",
-    "name": "kudratsingh/incident-commander",
-    "stars": 0,
-    "updated_at": "2026-09-17T15:08:21Z",
-    "url": "https://github.com/kudratsingh/incident-commander"
-  },
-  {
     "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
     "id": "Rekin226/Agronaut",
     "language": "Python",
@@ -385,15 +421,6 @@
     "stars": 4,
     "updated_at": "2026-09-17T14:14:13Z",
     "url": "https://github.com/Rekin226/Agronaut"
-  },
-  {
-    "description": "\u57fa\u4e8eLLM\u7684\u91cf\u5316\u56e0\u5b50\u5f00\u53d1Agent",
-    "id": "ZXTLQQ/FactorGPT",
-    "language": "Python",
-    "name": "ZXTLQQ/FactorGPT",
-    "stars": 10,
-    "updated_at": "2026-09-17T14:12:28Z",
-    "url": "https://github.com/ZXTLQQ/FactorGPT"
   },
   {
     "description": "Evidence-backed resume tailoring agent, built on YAMLResume. Every generated claim points back at the candidate's own ma",
@@ -421,32 +448,5 @@
     "stars": 8,
     "updated_at": "2026-09-17T14:03:13Z",
     "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "Local-first pentest agent: Go daemon + React dashboard + Codex/Claude Code/Pi runtimes, scoped projects, Blackboard, san",
-    "id": "n1majne3/CyberPenda",
-    "language": "Go",
-    "name": "n1majne3/CyberPenda",
-    "stars": 16,
-    "updated_at": "2026-09-17T14:00:24Z",
-    "url": "https://github.com/n1majne3/CyberPenda"
-  },
-  {
-    "description": "\u6211\u53ea\u60f3\u518d\u548cTA\u804a\u804a\u5929\uff0c\u5728\u8fc7\u53bb\uff0c\u5728\u672a\u6765\uff0c\u5728\u4e0d\u5b58\u5728\u7684if\u7ebf",
-    "id": "LZNJUPT/if_we_elsewhere",
-    "language": "Python",
-    "name": "LZNJUPT/if_we_elsewhere",
-    "stars": 1,
-    "updated_at": "2026-09-17T13:57:30Z",
-    "url": "https://github.com/LZNJUPT/if_we_elsewhere"
-  },
-  {
-    "description": "Keep agent CLIs running 7\u00d724 \u2014 supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure",
-    "id": "wan9yu/cli-agent-runner",
-    "language": "Python",
-    "name": "wan9yu/cli-agent-runner",
-    "stars": 4,
-    "updated_at": "2026-09-17T13:57:07Z",
-    "url": "https://github.com/wan9yu/cli-agent-runner"
   }
 ]
