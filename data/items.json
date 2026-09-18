@@ -1,11 +1,20 @@
 [
   {
+    "description": "AI coding agent engine with multi-provider routing, prompt compression, and intelligent model selection across 9+ LLM pr",
+    "id": "dirtysouthalpha/sentinel-code",
+    "language": "TypeScript",
+    "name": "dirtysouthalpha/sentinel-code",
+    "stars": 0,
+    "updated_at": "2026-09-18T22:40:10Z",
+    "url": "https://github.com/dirtysouthalpha/sentinel-code"
+  },
+  {
     "description": "A personal assistant with a phone number: SQLite-backed todos, memories, and reflections, searchable through Algolia and",
     "id": "NatanTechofNY/fieldnote-assistant",
     "language": "TypeScript",
     "name": "NatanTechofNY/fieldnote-assistant",
     "stars": 0,
-    "updated_at": "2026-09-18T22:30:04Z",
+    "updated_at": "2026-09-18T22:41:49Z",
     "url": "https://github.com/NatanTechofNY/fieldnote-assistant"
   },
   {
@@ -68,7 +77,7 @@
     "language": "Swift",
     "name": "hrygo/WorldofMysteries",
     "stars": 0,
-    "updated_at": "2026-09-18T22:29:13Z",
+    "updated_at": "2026-09-18T22:37:04Z",
     "url": "https://github.com/hrygo/WorldofMysteries"
   },
   {
@@ -202,7 +211,7 @@
     "id": "grauwolf32/contractor",
     "language": "Go",
     "name": "grauwolf32/contractor",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-09-18T20:06:25Z",
     "url": "https://github.com/grauwolf32/contractor"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-18T19:21:47Z",
     "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-09-18T19:20:01Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
   }
 ]
