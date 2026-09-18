@@ -1,11 +1,29 @@
 [
   {
+    "description": "A game-agnostic LLM agent runtime for autonomous NPCs, with Stardew Valley as the first real-world adapter.",
+    "id": "zlci7/world-is-agent",
+    "language": "Go",
+    "name": "zlci7/world-is-agent",
+    "stars": 0,
+    "updated_at": "2026-09-18T08:15:03Z",
+    "url": "https://github.com/zlci7/world-is-agent"
+  },
+  {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 1283,
+    "updated_at": "2026-09-18T08:08:46Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-18T07:59:12Z",
+    "updated_at": "2026-09-18T08:08:08Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -23,7 +41,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4417,
-    "updated_at": "2026-09-18T07:58:29Z",
+    "updated_at": "2026-09-18T08:12:47Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -58,7 +76,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 31909,
+    "stars": 31910,
     "updated_at": "2026-09-18T07:47:31Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -140,7 +158,7 @@
     "language": "Swift",
     "name": "hrygo/WorldofMysteries",
     "stars": 0,
-    "updated_at": "2026-09-18T07:53:20Z",
+    "updated_at": "2026-09-18T08:13:50Z",
     "url": "https://github.com/hrygo/WorldofMysteries"
   },
   {
@@ -369,15 +387,6 @@
     "url": "https://github.com/Ronit0p/AutoGod"
   },
   {
-    "description": "A game-agnostic LLM agent runtime for autonomous NPCs, with Stardew Valley as the first real-world adapter.",
-    "id": "zlci7/world-is-agent",
-    "language": "Go",
-    "name": "zlci7/world-is-agent",
-    "stars": 0,
-    "updated_at": "2026-09-18T06:46:05Z",
-    "url": "https://github.com/zlci7/world-is-agent"
-  },
-  {
     "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
     "id": "lukky262/ARE",
     "language": "\u2014",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-18T06:37:59Z",
     "url": "https://github.com/amineeng/scraping-browser"
-  },
-  {
-    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
-    "id": "Saran1536/ComfyUI-LoaderUtils",
-    "language": "Python",
-    "name": "Saran1536/ComfyUI-LoaderUtils",
-    "stars": 0,
-    "updated_at": "2026-09-18T06:35:26Z",
-    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
   }
 ]
