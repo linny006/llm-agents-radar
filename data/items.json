@@ -1,12 +1,30 @@
 [
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
+    "description": "AI coding agent and LLM harness built in Rust, optimized for DeepSeek, with MCP, Skills, multi-provider AI, remote agent",
+    "id": "zlogic-labs/zlogic",
+    "language": "Rust",
+    "name": "zlogic-labs/zlogic",
+    "stars": 2,
+    "updated_at": "2026-09-18T14:43:09Z",
+    "url": "https://github.com/zlogic-labs/zlogic"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
     "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-09-18T14:29:19Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
+    "name": "helixml/helix",
+    "stars": 809,
+    "updated_at": "2026-09-18T14:42:36Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-18T14:40:52Z",
+    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
@@ -14,8 +32,17 @@
     "language": "Rust",
     "name": "gabrielmaialva33/winx-code-agent",
     "stars": 34,
-    "updated_at": "2026-09-18T14:26:36Z",
+    "updated_at": "2026-09-18T14:40:42Z",
     "url": "https://github.com/gabrielmaialva33/winx-code-agent"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 24,
+    "updated_at": "2026-09-18T14:38:01Z",
+    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
@@ -23,8 +50,62 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 524,
-    "updated_at": "2026-09-18T14:27:28Z",
+    "updated_at": "2026-09-18T14:37:17Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-18T14:35:20Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 189,
+    "updated_at": "2026-09-18T14:35:14Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "Grounded, citation-bearing Q&A agent over a legacy Progress 4GL / OpenEdge (ABL) codebase - refuses to guess. Eval-first",
+    "id": "SpSharon/openedge-code-intelligence-agent",
+    "language": "Python",
+    "name": "SpSharon/openedge-code-intelligence-agent",
+    "stars": 0,
+    "updated_at": "2026-09-18T14:33:24Z",
+    "url": "https://github.com/SpSharon/openedge-code-intelligence-agent"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7348,
+    "updated_at": "2026-09-18T14:32:32Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "A game-agnostic LLM agent runtime for autonomous NPCs, with Stardew Valley as the first real-world adapter.",
+    "id": "zlci7/world-is-agent",
+    "language": "Go",
+    "name": "zlci7/world-is-agent",
+    "stars": 0,
+    "updated_at": "2026-09-18T14:32:22Z",
+    "url": "https://github.com/zlci7/world-is-agent"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-09-18T14:31:14Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
@@ -45,15 +126,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-18T14:14:27Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "YantrikDB memory provider for NousResearch/hermes-agent \u2014 self-maintaining memory with benchmarked recall, self-tuning r",
     "id": "yantrikos/yantrikdb-hermes-plugin",
     "language": "Python",
@@ -61,15 +133,6 @@
     "stars": 89,
     "updated_at": "2026-09-18T14:13:34Z",
     "url": "https://github.com/yantrikos/yantrikdb-hermes-plugin"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 9,
-    "updated_at": "2026-09-18T14:10:58Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
@@ -95,17 +158,8 @@
     "language": "Swift",
     "name": "hrygo/WorldofMysteries",
     "stars": 0,
-    "updated_at": "2026-09-18T14:21:15Z",
+    "updated_at": "2026-09-18T14:43:53Z",
     "url": "https://github.com/hrygo/WorldofMysteries"
-  },
-  {
-    "description": "AI coding agent and LLM harness built in Rust, optimized for DeepSeek, with MCP, Skills, multi-provider AI, remote agent",
-    "id": "zlogic-labs/zlogic",
-    "language": "Rust",
-    "name": "zlogic-labs/zlogic",
-    "stars": 2,
-    "updated_at": "2026-09-18T14:07:13Z",
-    "url": "https://github.com/zlogic-labs/zlogic"
   },
   {
     "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
@@ -171,15 +225,6 @@
     "url": "https://github.com/frane/agented"
   },
   {
-    "description": "A game-agnostic LLM agent runtime for autonomous NPCs, with Stardew Valley as the first real-world adapter.",
-    "id": "zlci7/world-is-agent",
-    "language": "Go",
-    "name": "zlci7/world-is-agent",
-    "stars": 0,
-    "updated_at": "2026-09-18T13:49:10Z",
-    "url": "https://github.com/zlci7/world-is-agent"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -214,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T13:40:38Z",
     "url": "https://github.com/SeupLio/ai-npc-agent"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-18T13:39:12Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
@@ -383,7 +419,7 @@
     "language": "Python",
     "name": "xhqing/DayTradingAgent",
     "stars": 2,
-    "updated_at": "2026-09-18T13:06:34Z",
+    "updated_at": "2026-09-18T14:41:01Z",
     "url": "https://github.com/xhqing/DayTradingAgent"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-18T13:01:32Z",
     "url": "https://github.com/Samuelcluttered613/paper2code"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 341,
-    "updated_at": "2026-09-18T13:01:24Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
-    "id": "Bastioned-successor320/learn-nanobot",
-    "language": "Python",
-    "name": "Bastioned-successor320/learn-nanobot",
-    "stars": 10,
-    "updated_at": "2026-09-18T13:01:18Z",
-    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
-  },
-  {
-    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
-    "id": "tessellated-statisticalcommission243/deep-research-skill",
-    "language": "\u2014",
-    "name": "tessellated-statisticalcommission243/deep-research-skill",
-    "stars": 3,
-    "updated_at": "2026-09-18T13:01:06Z",
-    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
-    "id": "chadwickhyperboloidal943/knowl",
-    "language": "TypeScript",
-    "name": "chadwickhyperboloidal943/knowl",
-    "stars": 0,
-    "updated_at": "2026-09-18T12:57:11Z",
-    "url": "https://github.com/chadwickhyperboloidal943/knowl"
   }
 ]
