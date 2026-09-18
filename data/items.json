@@ -1,21 +1,39 @@
 [
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 9,
-    "updated_at": "2026-09-18T06:00:17Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
+    "description": "Self-healing keep-alive, watchdog and status dashboard for the Desktop Commander Remote agent and Chrome Remote Desktop ",
+    "id": "analienx/remote-desktop-commander-agent-control",
+    "language": "PowerShell",
+    "name": "analienx/remote-desktop-commander-agent-control",
+    "stars": 0,
+    "updated_at": "2026-09-18T06:13:11Z",
+    "url": "https://github.com/analienx/remote-desktop-commander-agent-control"
   },
   {
-    "description": "TestDog is a desktop test case management tool: generate UI test scripts from natural language or manual recording, then",
-    "id": "xianyongwen/TestDog",
-    "language": "TypeScript",
-    "name": "xianyongwen/TestDog",
-    "stars": 3,
-    "updated_at": "2026-09-18T06:00:04Z",
-    "url": "https://github.com/xianyongwen/TestDog"
+    "description": "A small Python harness that keeps an LLM coding agent on track: durable memory, a code graph, a live todo plan, and loop",
+    "id": "IdysisI/kern",
+    "language": "Python",
+    "name": "IdysisI/kern",
+    "stars": 2,
+    "updated_at": "2026-09-18T06:12:01Z",
+    "url": "https://github.com/IdysisI/kern"
+  },
+  {
+    "description": "Surrogate-assisted optimisation agent for CST Studio Suite: trains a surrogate on your saved full-wave runs, optimises o",
+    "id": "wangemgroup-poly/Surrogate-model-agent",
+    "language": "Python",
+    "name": "wangemgroup-poly/Surrogate-model-agent",
+    "stars": 0,
+    "updated_at": "2026-09-18T06:11:40Z",
+    "url": "https://github.com/wangemgroup-poly/Surrogate-model-agent"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 24,
+    "updated_at": "2026-09-18T06:10:53Z",
+    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
@@ -23,8 +41,17 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-18T05:59:57Z",
+    "updated_at": "2026-09-18T06:10:30Z",
     "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-09-18T06:09:03Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
@@ -32,7 +59,7 @@
     "language": "Python",
     "name": "agentpit-io/hunter-community",
     "stars": 520,
-    "updated_at": "2026-09-18T05:55:36Z",
+    "updated_at": "2026-09-18T06:07:33Z",
     "url": "https://github.com/agentpit-io/hunter-community"
   },
   {
@@ -41,8 +68,26 @@
     "language": "Go",
     "name": "agentscope-ai/agentscope-go",
     "stars": 40,
-    "updated_at": "2026-09-18T05:50:47Z",
+    "updated_at": "2026-09-18T06:02:28Z",
     "url": "https://github.com/agentscope-ai/agentscope-go"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-18T06:00:21Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "TestDog is a desktop test case management tool: generate UI test scripts from natural language or manual recording, then",
+    "id": "xianyongwen/TestDog",
+    "language": "TypeScript",
+    "name": "xianyongwen/TestDog",
+    "stars": 3,
+    "updated_at": "2026-09-18T06:00:34Z",
+    "url": "https://github.com/xianyongwen/TestDog"
   },
   {
     "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
@@ -86,7 +131,7 @@
     "language": "Python",
     "name": "kudratsingh/incident-commander",
     "stars": 0,
-    "updated_at": "2026-09-18T05:34:35Z",
+    "updated_at": "2026-09-18T06:08:58Z",
     "url": "https://github.com/kudratsingh/incident-commander"
   },
   {
@@ -175,7 +220,7 @@
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 340,
+    "stars": 341,
     "updated_at": "2026-09-18T05:02:34Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
@@ -297,15 +342,6 @@
     "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-18T04:55:31Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
     "id": "HELLOCODINGTR/AgentForge",
     "language": "\u2014",
@@ -329,7 +365,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 28,
-    "updated_at": "2026-09-18T04:47:26Z",
+    "updated_at": "2026-09-18T06:05:03Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-18T04:38:37Z",
     "url": "https://github.com/muhzars/Agent.cpp"
-  },
-  {
-    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
-    "id": "faheela-786/ComfyUI-qwenmultiangle",
-    "language": "\u2014",
-    "name": "faheela-786/ComfyUI-qwenmultiangle",
-    "stars": 2,
-    "updated_at": "2026-09-18T04:35:58Z",
-    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-09-18T04:34:57Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
-    "id": "amineeng/scraping-browser",
-    "language": "\u2014",
-    "name": "amineeng/scraping-browser",
-    "stars": 1,
-    "updated_at": "2026-09-18T04:34:33Z",
-    "url": "https://github.com/amineeng/scraping-browser"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-09-18T04:32:06Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   }
 ]
