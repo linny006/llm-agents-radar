@@ -1,5 +1,50 @@
 [
   {
+    "description": "TCMS \u00d7 AI \u5168\u6d41\u7a0b\u6d4b\u8bd5\u5de5\u7a0b\u5e08 Agent\uff08\u4e09\u4ed3\u5408\u4e00 monorepo\uff09\uff1a\u771f\u5b9e\u5217\u8f66\u8d44\u4ea7 \u2192 \u9886\u57df\u5f15\u64ce \u2192 \u77e5\u8bc6\u5e95\u5ea7 \u2192 Agent \u67e5\u8bc1/\u9020\u7528\u4f8b/\u771f\u8dd1 \u2192 \u673a\u5668\u81ea\u8bc1\u3002\u56db\u7ea7\u5de5\u5177\u6743\u9650\uff08\u53ea\u8bfb/\u6c99\u7bb1\u5199/\u771f\u6267\u884c/\u6301\u4e45\u5316\uff09+ \u4eba\u5728\u73af\u8def\u5ba1\u6279 + \u56db",
+    "id": "zych2002918/tcms-agent",
+    "language": "Python",
+    "name": "zych2002918/tcms-agent",
+    "stars": 0,
+    "updated_at": "2026-09-18T03:25:17Z",
+    "url": "https://github.com/zych2002918/tcms-agent"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5769,
+    "updated_at": "2026-09-18T03:25:00Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-09-18T03:22:56Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 31892,
+    "updated_at": "2026-09-18T03:20:11Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "",
+    "id": "atria-asi/Atria-Dawn-Preview",
+    "language": "\u2014",
+    "name": "atria-asi/Atria-Dawn-Preview",
+    "stars": 471,
+    "updated_at": "2026-09-18T03:18:18Z",
+    "url": "https://github.com/atria-asi/Atria-Dawn-Preview"
+  },
+  {
     "description": " Where intent meets code \u2014 a local AI coding agent         ",
     "id": "alex8224/synapse-agent",
     "language": "Python",
@@ -124,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-09-18T02:59:27Z",
     "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 31891,
-    "updated_at": "2026-09-18T02:56:25Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
     "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
@@ -270,24 +306,6 @@
     "url": "https://github.com/amineeng/scraping-browser"
   },
   {
-    "description": "",
-    "id": "atria-asi/Atria-Dawn-Preview",
-    "language": "\u2014",
-    "name": "atria-asi/Atria-Dawn-Preview",
-    "stars": 471,
-    "updated_at": "2026-09-18T02:39:29Z",
-    "url": "https://github.com/atria-asi/Atria-Dawn-Preview"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5769,
-    "updated_at": "2026-09-18T03:13:53Z",
-    "url": "https://github.com/areal-project/AReaL"
-  },
-  {
     "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
     "id": "Saran1536/ComfyUI-LoaderUtils",
     "language": "Python",
@@ -382,7 +400,7 @@
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
-    "stars": 3054,
+    "stars": 3055,
     "updated_at": "2026-09-18T02:08:07Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
@@ -414,15 +432,6 @@
     "url": "https://github.com/SeupLio/ai-npc-agent"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-09-18T01:26:00Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "Drop-in OpenAI/Anthropic proxy that cuts long-horizon agent prompt tokens 60-95% via SKILL.state (arXiv:2608.26263). MIT",
     "id": "NosytLabs/skillstate-proxy",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-18T01:22:34Z",
     "url": "https://github.com/denisotree/veles"
-  },
-  {
-    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
-    "id": "kyleslight/shun",
-    "language": "TypeScript",
-    "name": "kyleslight/shun",
-    "stars": 6,
-    "updated_at": "2026-09-18T01:14:04Z",
-    "url": "https://github.com/kyleslight/shun"
   }
 ]
