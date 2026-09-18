@@ -1,5 +1,41 @@
 [
   {
+    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
+    "id": "brutal-45/Nexus-LLM",
+    "language": "Python",
+    "name": "brutal-45/Nexus-LLM",
+    "stars": 2,
+    "updated_at": "2026-09-18T13:28:47Z",
+    "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "An AI brain for Unitree robot dogs: one sentence in, guarded motion out.",
+    "id": "LiSheng5/argos",
+    "language": "Python",
+    "name": "LiSheng5/argos",
+    "stars": 0,
+    "updated_at": "2026-09-18T13:23:57Z",
+    "url": "https://github.com/LiSheng5/argos"
+  },
+  {
+    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 521,
+    "updated_at": "2026-09-18T13:19:16Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "A game-agnostic LLM agent runtime for autonomous NPCs, with Stardew Valley as the first real-world adapter.",
+    "id": "zlci7/world-is-agent",
+    "language": "Go",
+    "name": "zlci7/world-is-agent",
+    "stars": 0,
+    "updated_at": "2026-09-18T13:18:50Z",
+    "url": "https://github.com/zlci7/world-is-agent"
+  },
+  {
     "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
     "id": "emqnuele/projectBEA",
     "language": "Python",
@@ -32,17 +68,8 @@
     "language": "Kotlin",
     "name": "jagones84/FinancialAwareness",
     "stars": 0,
-    "updated_at": "2026-09-18T13:13:23Z",
+    "updated_at": "2026-09-18T13:20:43Z",
     "url": "https://github.com/jagones84/FinancialAwareness"
-  },
-  {
-    "description": "An AI brain for Unitree robot dogs: one sentence in, guarded motion out.",
-    "id": "LiSheng5/argos",
-    "language": "Python",
-    "name": "LiSheng5/argos",
-    "stars": 0,
-    "updated_at": "2026-09-18T13:13:12Z",
-    "url": "https://github.com/LiSheng5/argos"
   },
   {
     "description": "Sort your Downloads by project, not file type \u2014 with one-command undo. No delete, ever.",
@@ -160,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T13:05:08Z",
     "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
-  },
-  {
-    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 521,
-    "updated_at": "2026-09-18T13:03:35Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
   },
   {
     "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
@@ -430,23 +448,5 @@
     "stars": 809,
     "updated_at": "2026-09-18T12:21:22Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-09-18T12:12:28Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 707,
-    "updated_at": "2026-09-18T12:49:08Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   }
 ]
