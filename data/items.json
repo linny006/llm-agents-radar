@@ -1,12 +1,66 @@
 [
   {
+    "description": "An autonomous on-call agent that investigates and remediates incidents on the Incident Platform through its MCP tool sur",
+    "id": "kudratsingh/incident-commander",
+    "language": "Python",
+    "name": "kudratsingh/incident-commander",
+    "stars": 0,
+    "updated_at": "2026-09-18T05:25:21Z",
+    "url": "https://github.com/kudratsingh/incident-commander"
+  },
+  {
     "description": "A delivery-discipline behavior layer for AI agents \u2014 turns \u201cthe agent says it's done\u201d into \u201cthe agent proves it's done\u201d:",
     "id": "JadeYingWah/gpt-series-reasoning-style",
     "language": "Markdown",
     "name": "JadeYingWah/gpt-series-reasoning-style",
     "stars": 3,
-    "updated_at": "2026-09-18T05:12:32Z",
+    "updated_at": "2026-09-18T05:24:24Z",
     "url": "https://github.com/JadeYingWah/gpt-series-reasoning-style"
+  },
+  {
+    "description": "TCMS \u00d7 AI \u5168\u6d41\u7a0b\u6d4b\u8bd5\u5de5\u7a0b\u5e08 Agent\uff08\u4e09\u4ed3\u5408\u4e00 monorepo\uff09\uff1a\u771f\u5b9e\u5217\u8f66\u8d44\u4ea7 \u2192 \u9886\u57df\u5f15\u64ce \u2192 \u77e5\u8bc6\u5e95\u5ea7 \u2192 Agent \u67e5\u8bc1/\u9020\u7528\u4f8b/\u771f\u8dd1 \u2192 \u673a\u5668\u81ea\u8bc1\u3002\u56db\u7ea7\u5de5\u5177\u6743\u9650\uff08\u53ea\u8bfb/\u6c99\u7bb1\u5199/\u771f\u6267\u884c/\u6301\u4e45\u5316\uff09+ \u4eba\u5728\u73af\u8def\u5ba1\u6279 + \u56db",
+    "id": "zych2002918/tcms-agent",
+    "language": "Python",
+    "name": "zych2002918/tcms-agent",
+    "stars": 0,
+    "updated_at": "2026-09-18T05:24:19Z",
+    "url": "https://github.com/zych2002918/tcms-agent"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-18T05:20:42Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
+    "id": "honestDS/MonoLight",
+    "language": "Python",
+    "name": "honestDS/MonoLight",
+    "stars": 5,
+    "updated_at": "2026-09-18T05:19:27Z",
+    "url": "https://github.com/honestDS/MonoLight"
+  },
+  {
+    "description": "\u300a\u8be1\u79d8\u4e16\u754c\u300b\u00b7 World of Mysteries \u2014 \u672c\u5730\u4f18\u5148\u7684\u5355\u4eba\u6301\u4e45\u4e16\u754c\u6f14\u7ece\u5e94\u7528\uff1aSwiftUI macOS 26+ \u5ba2\u6237\u7aef + \u72ec\u7acb Local Engine\uff08Python 3.14 + AgentScope 2.0.8\uff09+ SQ",
+    "id": "hrygo/WorldofMysteries",
+    "language": "Swift",
+    "name": "hrygo/WorldofMysteries",
+    "stars": 0,
+    "updated_at": "2026-09-18T05:19:51Z",
+    "url": "https://github.com/hrygo/WorldofMysteries"
+  },
+  {
+    "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
+    "id": "OtakuNathan/Pal",
+    "language": "Python",
+    "name": "OtakuNathan/Pal",
+    "stars": 2,
+    "updated_at": "2026-09-18T05:16:46Z",
+    "url": "https://github.com/OtakuNathan/Pal"
   },
   {
     "description": "\u6295\u8d44\u79c1\u4eba\u7ba1\u5bb6 \u00b7 A\u80a1\u57fa\u91d1 AI \u79c1\u4eba\u987e\u95ee\uff08Invest Concierge \u2014 A-share & fund AI personal investment assistant\uff09",
@@ -54,15 +108,6 @@
     "url": "https://github.com/agentpit-io/hunter-community"
   },
   {
-    "description": "TCMS \u00d7 AI \u5168\u6d41\u7a0b\u6d4b\u8bd5\u5de5\u7a0b\u5e08 Agent\uff08\u4e09\u4ed3\u5408\u4e00 monorepo\uff09\uff1a\u771f\u5b9e\u5217\u8f66\u8d44\u4ea7 \u2192 \u9886\u57df\u5f15\u64ce \u2192 \u77e5\u8bc6\u5e95\u5ea7 \u2192 Agent \u67e5\u8bc1/\u9020\u7528\u4f8b/\u771f\u8dd1 \u2192 \u673a\u5668\u81ea\u8bc1\u3002\u56db\u7ea7\u5de5\u5177\u6743\u9650\uff08\u53ea\u8bfb/\u6c99\u7bb1\u5199/\u771f\u6267\u884c/\u6301\u4e45\u5316\uff09+ \u4eba\u5728\u73af\u8def\u5ba1\u6279 + \u56db",
-    "id": "zych2002918/tcms-agent",
-    "language": "Python",
-    "name": "zych2002918/tcms-agent",
-    "stars": 0,
-    "updated_at": "2026-09-18T05:06:45Z",
-    "url": "https://github.com/zych2002918/tcms-agent"
-  },
-  {
     "description": "A game-agnostic LLM agent runtime for autonomous NPCs, with Stardew Valley as the first real-world adapter.",
     "id": "zlci7/world-is-agent",
     "language": "Go",
@@ -88,15 +133,6 @@
     "stars": 339,
     "updated_at": "2026-09-18T05:02:34Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "An autonomous on-call agent that investigates and remediates incidents on the Incident Platform through its MCP tool sur",
-    "id": "kudratsingh/incident-commander",
-    "language": "Python",
-    "name": "kudratsingh/incident-commander",
-    "stars": 0,
-    "updated_at": "2026-09-18T05:02:20Z",
-    "url": "https://github.com/kudratsingh/incident-commander"
   },
   {
     "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
@@ -131,7 +167,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-18T05:10:25Z",
+    "updated_at": "2026-09-18T05:20:15Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -211,7 +247,7 @@
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
-    "stars": 185,
+    "stars": 186,
     "updated_at": "2026-09-18T04:54:26Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-18T04:24:50Z",
     "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 3,
-    "updated_at": "2026-09-18T04:22:22Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
-    "id": "bigduu/Zenith",
-    "language": "JavaScript",
-    "name": "bigduu/Zenith",
-    "stars": 6,
-    "updated_at": "2026-09-18T04:20:03Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-09-18T04:19:28Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
-    "id": "OtakuNathan/Pal",
-    "language": "Python",
-    "name": "OtakuNathan/Pal",
-    "stars": 2,
-    "updated_at": "2026-09-18T04:18:33Z",
-    "url": "https://github.com/OtakuNathan/Pal"
   }
 ]
