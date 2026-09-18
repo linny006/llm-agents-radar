@@ -1,5 +1,23 @@
 [
   {
+    "description": "Demon Cry core - AI-powered OSINT engine",
+    "id": "Mooncore-inc/demon-cry",
+    "language": "Python",
+    "name": "Mooncore-inc/demon-cry",
+    "stars": 2,
+    "updated_at": "2026-09-18T22:04:29Z",
+    "url": "https://github.com/Mooncore-inc/demon-cry"
+  },
+  {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-18T22:01:59Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
     "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
     "id": "watchcat/scout",
     "language": "Rust",
@@ -14,7 +32,7 @@
     "language": "Swift",
     "name": "hrygo/WorldofMysteries",
     "stars": 0,
-    "updated_at": "2026-09-18T21:57:13Z",
+    "updated_at": "2026-09-18T22:05:40Z",
     "url": "https://github.com/hrygo/WorldofMysteries"
   },
   {
@@ -50,7 +68,7 @@
     "language": "TypeScript",
     "name": "NatanTechofNY/fieldnote-assistant",
     "stars": 0,
-    "updated_at": "2026-09-18T21:56:35Z",
+    "updated_at": "2026-09-18T22:02:31Z",
     "url": "https://github.com/NatanTechofNY/fieldnote-assistant"
   },
   {
@@ -106,15 +124,6 @@
     "stars": 7360,
     "updated_at": "2026-09-18T21:12:41Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-18T21:11:49Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
@@ -250,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T19:53:53Z",
     "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
-  },
-  {
-    "description": "Demon Cry core - AI-powered OSINT engine",
-    "id": "Mooncore-inc/demon-cry",
-    "language": "Python",
-    "name": "Mooncore-inc/demon-cry",
-    "stars": 2,
-    "updated_at": "2026-09-18T19:53:49Z",
-    "url": "https://github.com/Mooncore-inc/demon-cry"
   },
   {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
