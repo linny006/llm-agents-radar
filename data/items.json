@@ -5,8 +5,26 @@
     "language": "Rust",
     "name": "gabrielmaialva33/winx-code-agent",
     "stars": 34,
-    "updated_at": "2026-09-17T23:44:30Z",
+    "updated_at": "2026-09-17T23:56:07Z",
     "url": "https://github.com/gabrielmaialva33/winx-code-agent"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-09-17T23:48:16Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 8,
+    "updated_at": "2026-09-17T23:46:31Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
@@ -16,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-09-17T23:43:27Z",
     "url": "https://github.com/jack-h-park/pm-intelligence-engine"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-17T23:33:04Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -103,7 +112,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7331,
+    "stars": 7332,
     "updated_at": "2026-09-17T23:07:33Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -412,15 +421,6 @@
     "stars": 4416,
     "updated_at": "2026-09-17T23:38:24Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-09-17T21:55:23Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
