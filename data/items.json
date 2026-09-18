@@ -5,8 +5,17 @@
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 9,
-    "updated_at": "2026-09-18T05:43:20Z",
+    "updated_at": "2026-09-18T06:00:17Z",
     "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "TestDog is a desktop test case management tool: generate UI test scripts from natural language or manual recording, then",
+    "id": "xianyongwen/TestDog",
+    "language": "TypeScript",
+    "name": "xianyongwen/TestDog",
+    "stars": 3,
+    "updated_at": "2026-09-18T06:00:04Z",
+    "url": "https://github.com/xianyongwen/TestDog"
   },
   {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
@@ -14,8 +23,44 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-18T05:43:12Z",
+    "updated_at": "2026-09-18T05:59:57Z",
     "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 520,
+    "updated_at": "2026-09-18T05:55:36Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
+    "id": "agentscope-ai/agentscope-go",
+    "language": "Go",
+    "name": "agentscope-ai/agentscope-go",
+    "stars": 40,
+    "updated_at": "2026-09-18T05:50:47Z",
+    "url": "https://github.com/agentscope-ai/agentscope-go"
+  },
+  {
+    "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
+    "id": "OtakuNathan/Pal",
+    "language": "Python",
+    "name": "OtakuNathan/Pal",
+    "stars": 2,
+    "updated_at": "2026-09-18T05:48:04Z",
+    "url": "https://github.com/OtakuNathan/Pal"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 707,
+    "updated_at": "2026-09-18T05:47:17Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "\u300a\u8be1\u79d8\u4e16\u754c\u300b\u00b7 World of Mysteries \u2014 \u672c\u5730\u4f18\u5148\u7684\u5355\u4eba\u6301\u4e45\u4e16\u754c\u6f14\u7ece\u5e94\u7528\uff1aSwiftUI macOS 26+ \u5ba2\u6237\u7aef + \u72ec\u7acb Local Engine\uff08Python 3.14 + AgentScope 2.0.8\uff09+ SQ",
@@ -72,15 +117,6 @@
     "url": "https://github.com/honestDS/MonoLight"
   },
   {
-    "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
-    "id": "OtakuNathan/Pal",
-    "language": "Python",
-    "name": "OtakuNathan/Pal",
-    "stars": 2,
-    "updated_at": "2026-09-18T05:16:46Z",
-    "url": "https://github.com/OtakuNathan/Pal"
-  },
-  {
     "description": "\u6295\u8d44\u79c1\u4eba\u7ba1\u5bb6 \u00b7 A\u80a1\u57fa\u91d1 AI \u79c1\u4eba\u987e\u95ee\uff08Invest Concierge \u2014 A-share & fund AI personal investment assistant\uff09",
     "id": "cx-ssg/invest-concierge",
     "language": "Python",
@@ -117,15 +153,6 @@
     "url": "https://github.com/plurnk/plurnk-service"
   },
   {
-    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 520,
-    "updated_at": "2026-09-18T05:39:52Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
-  },
-  {
     "description": "A game-agnostic LLM agent runtime for autonomous NPCs, with Stardew Valley as the first real-world adapter.",
     "id": "zlci7/world-is-agent",
     "language": "Go",
@@ -148,7 +175,7 @@
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 339,
+    "stars": 340,
     "updated_at": "2026-09-18T05:02:34Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
@@ -203,7 +230,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-09-18T04:59:00Z",
+    "updated_at": "2026-09-18T05:55:02Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-18T04:32:06Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
-    "id": "Saran1536/ComfyUI-LoaderUtils",
-    "language": "Python",
-    "name": "Saran1536/ComfyUI-LoaderUtils",
-    "stars": 0,
-    "updated_at": "2026-09-18T04:31:59Z",
-    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 0,
-    "updated_at": "2026-09-18T04:30:48Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-09-18T04:24:50Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
   }
 ]
