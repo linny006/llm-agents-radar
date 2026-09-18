@@ -1,5 +1,41 @@
 [
   {
+    "description": "AI coding agent engine with multi-provider routing, prompt compression, and intelligent model selection across 9+ LLM pr",
+    "id": "dirtysouthalpha/sentinel-cli",
+    "language": "TypeScript",
+    "name": "dirtysouthalpha/sentinel-cli",
+    "stars": 0,
+    "updated_at": "2026-09-18T18:14:49Z",
+    "url": "https://github.com/dirtysouthalpha/sentinel-cli"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 3,
+    "updated_at": "2026-09-18T18:14:44Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 53,
+    "updated_at": "2026-09-18T18:06:39Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "\u6295\u8d44\u79c1\u4eba\u7ba1\u5bb6 \u00b7 A\u80a1\u57fa\u91d1 AI \u79c1\u4eba\u987e\u95ee\uff08Invest Concierge \u2014 A-share & fund AI personal investment assistant\uff09",
+    "id": "cx-ssg/invest-concierge",
+    "language": "Python",
+    "name": "cx-ssg/invest-concierge",
+    "stars": 0,
+    "updated_at": "2026-09-18T18:02:44Z",
+    "url": "https://github.com/cx-ssg/invest-concierge"
+  },
+  {
     "description": "LLM loop that reasons in a dense technical register \u2014 mechanical gates + adversarial judge + reverse-translation for hum",
     "id": "Danreelkow/HDCS",
     "language": "JavaScript",
@@ -16,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T17:50:04Z",
     "url": "https://github.com/Mlte0907/pangu"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 53,
-    "updated_at": "2026-09-18T17:48:23Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "An autopoiesic kefir for computing machines",
@@ -79,15 +106,6 @@
     "stars": 4,
     "updated_at": "2026-09-18T17:31:31Z",
     "url": "https://github.com/Muvon/octomind-tap"
-  },
-  {
-    "description": "\u6295\u8d44\u79c1\u4eba\u7ba1\u5bb6 \u00b7 A\u80a1\u57fa\u91d1 AI \u79c1\u4eba\u987e\u95ee\uff08Invest Concierge \u2014 A-share & fund AI personal investment assistant\uff09",
-    "id": "cx-ssg/invest-concierge",
-    "language": "Python",
-    "name": "cx-ssg/invest-concierge",
-    "stars": 0,
-    "updated_at": "2026-09-18T17:29:22Z",
-    "url": "https://github.com/cx-ssg/invest-concierge"
   },
   {
     "description": "Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-18T16:52:24Z",
     "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-09-18T16:50:45Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-18T16:50:44Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   }
 ]
