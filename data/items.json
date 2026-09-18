@@ -1,10 +1,46 @@
 [
   {
+    "description": "Vetix \u2014 Automated scanning, identification, and assessment of SKILL security risks.",
+    "id": "HuTa0kj/vetix",
+    "language": "Go",
+    "name": "HuTa0kj/vetix",
+    "stars": 61,
+    "updated_at": "2026-09-18T03:55:46Z",
+    "url": "https://github.com/HuTa0kj/vetix"
+  },
+  {
+    "description": "\u9009\u54c1\u7b56\u7565\u5e08 Scout\uff5c\u7814\u5224\u5165\u53e3\uff0c\u4ea7\u51fa\u673a\u4f1a\u7814\u5224\u62a5\u544a\u3002Product Strategist \u2014 research & strategy entry of a digital-product pipeline.",
+    "id": "xhqing/ProductStrategistAgent",
+    "language": "\u2014",
+    "name": "xhqing/ProductStrategistAgent",
+    "stars": 0,
+    "updated_at": "2026-09-18T03:55:39Z",
+    "url": "https://github.com/xhqing/ProductStrategistAgent"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5982,
+    "updated_at": "2026-09-18T03:46:12Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "Deterministic orchestration, execution assurance, and quota-aware continuity runtime for GLM coding agents in ZCode",
+    "id": "Chengy257/glm-conductor",
+    "language": "Python",
+    "name": "Chengy257/glm-conductor",
+    "stars": 0,
+    "updated_at": "2026-09-18T03:46:21Z",
+    "url": "https://github.com/Chengy257/glm-conductor"
+  },
+  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 31893,
+    "stars": 31894,
     "updated_at": "2026-09-18T03:44:53Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -32,7 +68,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5769,
-    "updated_at": "2026-09-18T03:25:00Z",
+    "updated_at": "2026-09-18T03:49:04Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -49,7 +85,7 @@
     "id": "atria-asi/Atria-Dawn-Preview",
     "language": "\u2014",
     "name": "atria-asi/Atria-Dawn-Preview",
-    "stars": 471,
+    "stars": 473,
     "updated_at": "2026-09-18T03:18:18Z",
     "url": "https://github.com/atria-asi/Atria-Dawn-Preview"
   },
@@ -68,7 +104,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-18T03:09:27Z",
+    "updated_at": "2026-09-18T03:51:36Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -382,7 +418,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7339,
+    "stars": 7340,
     "updated_at": "2026-09-18T02:19:47Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-18T01:50:33Z",
     "url": "https://github.com/wzh4464/self-evolving-media-agent"
-  },
-  {
-    "description": "Meowire \u2014 bionic agent harness base for Go. Pure wiring, zero default implementations: Think\u2192Act decision loop, iter.Seq",
-    "id": "qyiun666/meowire",
-    "language": "Go",
-    "name": "qyiun666/meowire",
-    "stars": 0,
-    "updated_at": "2026-09-18T01:47:16Z",
-    "url": "https://github.com/qyiun666/meowire"
-  },
-  {
-    "description": "\u4f1a\u300c\u73a9\u300d\u7684 AI NPC \u667a\u80fd\u4f53\u6846\u67b6\uff1a\u4e03\u5927\u6a21\u5757\uff08\u4eba\u8bbe/\u72b6\u6001/\u8bb0\u5fc6/\u89c4\u5212/\u5de5\u5177/\u5bf9\u8bdd/\u53cd\u601d\uff09+ \u4e24\u4e2a\u4e16\u754c\uff08\u6587\u5b57 / Minecraft\uff09+ \u516d\u7ef4\u8bc4\u6d4b + LLM-as-judge\u3002228 \u6761\u81ea\u5efa\u7528\u4f8b \u00d7 \u771f\u5b9e\u6a21\u578b\u7684\u5168\u91cf\u8dd1\u6279\u3002",
-    "id": "SeupLio/ai-npc-agent",
-    "language": "Python",
-    "name": "SeupLio/ai-npc-agent",
-    "stars": 0,
-    "updated_at": "2026-09-18T01:41:03Z",
-    "url": "https://github.com/SeupLio/ai-npc-agent"
-  },
-  {
-    "description": "Drop-in OpenAI/Anthropic proxy that cuts long-horizon agent prompt tokens 60-95% via SKILL.state (arXiv:2608.26263). MIT",
-    "id": "NosytLabs/skillstate-proxy",
-    "language": "TypeScript",
-    "name": "NosytLabs/skillstate-proxy",
-    "stars": 3,
-    "updated_at": "2026-09-18T01:24:32Z",
-    "url": "https://github.com/NosytLabs/skillstate-proxy"
-  },
-  {
-    "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
-    "id": "denisotree/veles",
-    "language": "Python",
-    "name": "denisotree/veles",
-    "stars": 4,
-    "updated_at": "2026-09-18T01:22:34Z",
-    "url": "https://github.com/denisotree/veles"
   }
 ]
