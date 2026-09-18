@@ -1,5 +1,50 @@
 [
   {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 127,
+    "updated_at": "2026-09-18T20:44:47Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4417,
+    "updated_at": "2026-09-18T20:42:46Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "\u76d8\u53e4 \u2014 AI Agent \u591a\u6a21\u6001\u8bb0\u5fc6\u7cfb\u7edf\uff1aWing\u2192Room\u2192Drawer \u5206\u5c42\u5b58\u50a8\u3001ONNX \u672c\u5730\u5d4c\u5165\u8bed\u4e49\u68c0\u7d22\uff08SQLite FTS5 + RRF \u878d\u5408\uff09\u3001\u827e\u5bbe\u6d69\u65af\u9057\u5fd8\u66f2\u7ebf\u4e0e\u795e\u7ecf\u6fc0\u6d3b\u6269\u6563\uff1b\u63d0\u4f9b REST API + MCP \u670d\u52a1\uff0c\u9ed8\u8ba4\u66b4",
+    "id": "Mlte0907/pangu",
+    "language": "Python",
+    "name": "Mlte0907/pangu",
+    "stars": 1,
+    "updated_at": "2026-09-18T20:40:19Z",
+    "url": "https://github.com/Mlte0907/pangu"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-18T20:40:01Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Self-extending LLM agent on Telegram. Users describe a tool in plain English; the bot generates Python code, LLM-securit",
+    "id": "nezdali/queenbee-agent",
+    "language": "Python",
+    "name": "nezdali/queenbee-agent",
+    "stars": 0,
+    "updated_at": "2026-09-18T20:44:16Z",
+    "url": "https://github.com/nezdali/queenbee-agent"
+  },
+  {
     "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
     "id": "plurnk/plurnk-service",
     "language": "TypeScript",
@@ -9,29 +54,11 @@
     "url": "https://github.com/plurnk/plurnk-service"
   },
   {
-    "description": "\u76d8\u53e4 \u2014 AI Agent \u591a\u6a21\u6001\u8bb0\u5fc6\u7cfb\u7edf\uff1aWing\u2192Room\u2192Drawer \u5206\u5c42\u5b58\u50a8\u3001ONNX \u672c\u5730\u5d4c\u5165\u8bed\u4e49\u68c0\u7d22\uff08SQLite FTS5 + RRF \u878d\u5408\uff09\u3001\u827e\u5bbe\u6d69\u65af\u9057\u5fd8\u66f2\u7ebf\u4e0e\u795e\u7ecf\u6fc0\u6d3b\u6269\u6563\uff1b\u63d0\u4f9b REST API + MCP \u670d\u52a1\uff0c\u9ed8\u8ba4\u66b4",
-    "id": "Mlte0907/pangu",
-    "language": "Python",
-    "name": "Mlte0907/pangu",
-    "stars": 1,
-    "updated_at": "2026-09-18T20:27:50Z",
-    "url": "https://github.com/Mlte0907/pangu"
-  },
-  {
-    "description": "Self-extending LLM agent on Telegram. Users describe a tool in plain English; the bot generates Python code, LLM-securit",
-    "id": "nezdali/queenbee-agent",
-    "language": "Python",
-    "name": "nezdali/queenbee-agent",
-    "stars": 0,
-    "updated_at": "2026-09-18T20:27:54Z",
-    "url": "https://github.com/nezdali/queenbee-agent"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7355,
+    "stars": 7357,
     "updated_at": "2026-09-18T20:13:27Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -333,15 +360,6 @@
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 9,
-    "updated_at": "2026-09-18T19:18:00Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "",
     "id": "agent-axiom/agent-arch",
     "language": "Python",
@@ -358,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T19:04:03Z",
     "url": "https://github.com/sunnnn2005/data-quality-agent"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4417,
-    "updated_at": "2026-09-18T20:22:41Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -414,6 +423,15 @@
     "url": "https://github.com/GeminiLight/gen-mentor"
   },
   {
+    "description": "Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and compu",
+    "id": "feder-cr/AIHawk",
+    "language": "Python",
+    "name": "feder-cr/AIHawk",
+    "stars": 31591,
+    "updated_at": "2026-09-18T18:39:28Z",
+    "url": "https://github.com/feder-cr/AIHawk"
+  },
+  {
     "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
     "id": "Torvian-eu/chatbot",
     "language": "Kotlin",
@@ -423,15 +441,6 @@
     "url": "https://github.com/Torvian-eu/chatbot"
   },
   {
-    "description": "Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and compu",
-    "id": "feder-cr/AIHawk",
-    "language": "Python",
-    "name": "feder-cr/AIHawk",
-    "stars": 31590,
-    "updated_at": "2026-09-18T18:39:28Z",
-    "url": "https://github.com/feder-cr/AIHawk"
-  },
-  {
     "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
     "id": "expectedparrot/edsl",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 496,
     "updated_at": "2026-09-18T18:33:44Z",
     "url": "https://github.com/expectedparrot/edsl"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-18T18:29:57Z",
-    "url": "https://github.com/tomcounsell/ai"
   }
 ]
