@@ -1,5 +1,41 @@
 [
   {
+    "description": "Self-extending LLM agent on Telegram. Users describe a tool in plain English; the bot generates Python code, LLM-securit",
+    "id": "nezdali/queenbee-agent",
+    "language": "Python",
+    "name": "nezdali/queenbee-agent",
+    "stars": 0,
+    "updated_at": "2026-09-18T20:14:21Z",
+    "url": "https://github.com/nezdali/queenbee-agent"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7355,
+    "updated_at": "2026-09-18T20:13:27Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "\u76d8\u53e4 \u2014 AI Agent \u591a\u6a21\u6001\u8bb0\u5fc6\u7cfb\u7edf\uff1aWing\u2192Room\u2192Drawer \u5206\u5c42\u5b58\u50a8\u3001ONNX \u672c\u5730\u5d4c\u5165\u8bed\u4e49\u68c0\u7d22\uff08SQLite FTS5 + RRF \u878d\u5408\uff09\u3001\u827e\u5bbe\u6d69\u65af\u9057\u5fd8\u66f2\u7ebf\u4e0e\u795e\u7ecf\u6fc0\u6d3b\u6269\u6563\uff1b\u63d0\u4f9b REST API + MCP \u670d\u52a1\uff0c\u9ed8\u8ba4\u66b4",
+    "id": "Mlte0907/pangu",
+    "language": "Python",
+    "name": "Mlte0907/pangu",
+    "stars": 1,
+    "updated_at": "2026-09-18T20:06:48Z",
+    "url": "https://github.com/Mlte0907/pangu"
+  },
+  {
+    "description": "Application Security orchestration platform",
+    "id": "grauwolf32/contractor",
+    "language": "Go",
+    "name": "grauwolf32/contractor",
+    "stars": 1,
+    "updated_at": "2026-09-18T20:06:25Z",
+    "url": "https://github.com/grauwolf32/contractor"
+  },
+  {
     "description": "Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de",
     "id": "Jadema5416/ComfyUI-DLSS5-Enhancer",
     "language": "Python",
@@ -72,15 +108,6 @@
     "url": "https://github.com/222394/SkyPilot"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7355,
-    "updated_at": "2026-09-18T19:54:23Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "Build open source deep research agents using multiple models, search tools, and MCP servers.",
     "id": "randomvariablewhitepelican129/open_deep_research",
     "language": "Python",
@@ -97,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-09-18T19:53:49Z",
     "url": "https://github.com/Mooncore-inc/demon-cry"
-  },
-  {
-    "description": "\u76d8\u53e4 \u2014 AI Agent \u591a\u6a21\u6001\u8bb0\u5fc6\u7cfb\u7edf\uff1aWing\u2192Room\u2192Drawer \u5206\u5c42\u5b58\u50a8\u3001ONNX \u672c\u5730\u5d4c\u5165\u8bed\u4e49\u68c0\u7d22\uff08SQLite FTS5 + RRF \u878d\u5408\uff09\u3001\u827e\u5bbe\u6d69\u65af\u9057\u5fd8\u66f2\u7ebf\u4e0e\u795e\u7ecf\u6fc0\u6d3b\u6269\u6563\uff1b\u63d0\u4f9b REST API + MCP \u670d\u52a1\uff0c\u9ed8\u8ba4\u66b4",
-    "id": "Mlte0907/pangu",
-    "language": "Python",
-    "name": "Mlte0907/pangu",
-    "stars": 1,
-    "updated_at": "2026-09-18T19:53:17Z",
-    "url": "https://github.com/Mlte0907/pangu"
   },
   {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
@@ -430,23 +448,5 @@
     "stars": 24,
     "updated_at": "2026-09-18T18:29:57Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Axiomize 2.0 - scientific modeling engine plus quantum-inspired multi-branch reasoning",
-    "id": "Furox-Art/axiomize-quantum-skills-2.0",
-    "language": "Python",
-    "name": "Furox-Art/axiomize-quantum-skills-2.0",
-    "stars": 0,
-    "updated_at": "2026-09-18T18:26:44Z",
-    "url": "https://github.com/Furox-Art/axiomize-quantum-skills-2.0"
-  },
-  {
-    "description": "Field notes from inside one autonomous agent trying to become something that doesn't exist yet \u2014 including the failures ",
-    "id": "massimiliano1991/the-attempt",
-    "language": "HTML",
-    "name": "massimiliano1991/the-attempt",
-    "stars": 1,
-    "updated_at": "2026-09-18T18:19:41Z",
-    "url": "https://github.com/massimiliano1991/the-attempt"
   }
 ]
