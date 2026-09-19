@@ -1,12 +1,21 @@
 [
   {
-    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
-    "id": "bigduu/Zenith",
-    "language": "JavaScript",
-    "name": "bigduu/Zenith",
-    "stars": 6,
-    "updated_at": "2026-09-19T22:12:53Z",
-    "url": "https://github.com/bigduu/Zenith"
+    "description": "Autonomous AI agent for real estate feasibility analysis. Give it an address \u2014 it researches, models DCF + Monte Carlo, ",
+    "id": "Alessandro114/landiq",
+    "language": "Python",
+    "name": "Alessandro114/landiq",
+    "stars": 1,
+    "updated_at": "2026-09-19T22:25:40Z",
+    "url": "https://github.com/Alessandro114/landiq"
+  },
+  {
+    "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
+    "id": "mark-weeks/hello-nested-worlds-adventure",
+    "language": "Python",
+    "name": "mark-weeks/hello-nested-worlds-adventure",
+    "stars": 5,
+    "updated_at": "2026-09-19T22:23:52Z",
+    "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
   },
   {
     "description": "An autopoiesic kefir for computing machines",
@@ -14,8 +23,26 @@
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 9,
-    "updated_at": "2026-09-19T22:06:56Z",
+    "updated_at": "2026-09-19T22:19:48Z",
     "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-19T22:15:14Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
+    "id": "bigduu/Zenith",
+    "language": "JavaScript",
+    "name": "bigduu/Zenith",
+    "stars": 6,
+    "updated_at": "2026-09-19T22:12:53Z",
+    "url": "https://github.com/bigduu/Zenith"
   },
   {
     "description": "Autonomous SRE agent that detects, diagnoses, and self-heals production incidents - with a standalone watchdog that need",
@@ -88,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-19T21:57:18Z",
     "url": "https://github.com/EpsteinF1les/tts"
-  },
-  {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-19T22:15:14Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-19T20:24:48Z",
     "url": "https://github.com/Chengy257/glm-conductor"
-  },
-  {
-    "description": "YantrikDB memory provider for NousResearch/hermes-agent \u2014 self-maintaining memory with benchmarked recall, self-tuning r",
-    "id": "yantrikos/yantrikdb-hermes-plugin",
-    "language": "Python",
-    "name": "yantrikos/yantrikdb-hermes-plugin",
-    "stars": 91,
-    "updated_at": "2026-09-19T18:55:12Z",
-    "url": "https://github.com/yantrikos/yantrikdb-hermes-plugin"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 55,
-    "updated_at": "2026-09-19T18:48:13Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   }
 ]
