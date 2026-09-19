@@ -1,5 +1,86 @@
 [
   {
+    "description": "Application Security orchestration platform",
+    "id": "grauwolf32/contractor",
+    "language": "Go",
+    "name": "grauwolf32/contractor",
+    "stars": 2,
+    "updated_at": "2026-09-19T16:44:03Z",
+    "url": "https://github.com/grauwolf32/contractor"
+  },
+  {
+    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
+    "id": "kyleslight/shun",
+    "language": "TypeScript",
+    "name": "kyleslight/shun",
+    "stars": 6,
+    "updated_at": "2026-09-19T16:43:33Z",
+    "url": "https://github.com/kyleslight/shun"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 53,
+    "updated_at": "2026-09-19T16:43:30Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "A quantum-inspired reasoning skill for exploring, scoring, pruning, and merging multiple solution paths.",
+    "id": "Furox-Art/quantum-reasoning-skill",
+    "language": "Python",
+    "name": "Furox-Art/quantum-reasoning-skill",
+    "stars": 0,
+    "updated_at": "2026-09-19T16:43:00Z",
+    "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 19,
+    "updated_at": "2026-09-19T16:42:07Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "Open-source local AI Agent desktop app for authorized security assessment \u2014 Electron + Mastra-powered runtime, visual pe",
+    "id": "MingyiSecLab/Atlas",
+    "language": "TypeScript",
+    "name": "MingyiSecLab/Atlas",
+    "stars": 11,
+    "updated_at": "2026-09-19T16:39:42Z",
+    "url": "https://github.com/MingyiSecLab/Atlas"
+  },
+  {
+    "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
+    "id": "mark-weeks/hello-nested-worlds-adventure",
+    "language": "Python",
+    "name": "mark-weeks/hello-nested-worlds-adventure",
+    "stars": 5,
+    "updated_at": "2026-09-19T16:34:29Z",
+    "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
+  },
+  {
+    "description": "CAE toolchain for IPM traction motors: geometry \u2192 EM field \u2192 structural FEM \u2192 thermal \u2192 drive cycle \u2192 PDF report. Every ",
+    "id": "ThomasSchmiegelt/ema-motor-analysis",
+    "language": "Python",
+    "name": "ThomasSchmiegelt/ema-motor-analysis",
+    "stars": 0,
+    "updated_at": "2026-09-19T16:33:22Z",
+    "url": "https://github.com/ThomasSchmiegelt/ema-motor-analysis"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-19T16:33:11Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
     "description": "\u4f1a\u300c\u73a9\u300d\u7684 AI NPC \u667a\u80fd\u4f53\u6846\u67b6\uff1a\u4e03\u5927\u6a21\u5757\uff08\u4eba\u8bbe/\u72b6\u6001/\u8bb0\u5fc6/\u89c4\u5212/\u5de5\u5177/\u5bf9\u8bdd/\u53cd\u601d\uff09+ \u4e24\u4e2a\u4e16\u754c\uff08\u6587\u5b57 / Minecraft\uff09+ \u516d\u7ef4\u8bc4\u6d4b + LLM-as-judge\u3002228 \u6761\u81ea\u5efa\u7528\u4f8b \u00d7 \u771f\u5b9e\u6a21\u578b\u7684\u5168\u91cf\u8dd1\u6279\u3002",
     "id": "SeupLio/ai-npc-agent",
     "language": "Python",
@@ -23,7 +104,7 @@
     "language": "Python",
     "name": "Furox-Art/axiomize-quantum-skills-2.0",
     "stars": 0,
-    "updated_at": "2026-09-19T16:21:42Z",
+    "updated_at": "2026-09-19T16:32:58Z",
     "url": "https://github.com/Furox-Art/axiomize-quantum-skills-2.0"
   },
   {
@@ -36,15 +117,6 @@
     "url": "https://github.com/asadaslam556/prism-data-agent"
   },
   {
-    "description": "Application Security orchestration platform",
-    "id": "grauwolf32/contractor",
-    "language": "Go",
-    "name": "grauwolf32/contractor",
-    "stars": 2,
-    "updated_at": "2026-09-19T16:17:47Z",
-    "url": "https://github.com/grauwolf32/contractor"
-  },
-  {
     "description": "Tauri desktop shell for the local-first Bodhi agent: manages Bamboo startup/reuse and health; packaged builds open the B",
     "id": "bigduu/Bodhi-AI",
     "language": "JavaScript",
@@ -52,24 +124,6 @@
     "stars": 17,
     "updated_at": "2026-09-19T16:16:15Z",
     "url": "https://github.com/bigduu/Bodhi-AI"
-  },
-  {
-    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
-    "id": "kyleslight/shun",
-    "language": "TypeScript",
-    "name": "kyleslight/shun",
-    "stars": 6,
-    "updated_at": "2026-09-19T16:15:07Z",
-    "url": "https://github.com/kyleslight/shun"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 9,
-    "updated_at": "2026-09-19T16:15:06Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
@@ -85,18 +139,9 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 710,
+    "stars": 711,
     "updated_at": "2026-09-19T16:07:02Z",
     "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "Open-source local AI Agent desktop app for authorized security assessment \u2014 Electron + Mastra-powered runtime, visual pe",
-    "id": "MingyiSecLab/Atlas",
-    "language": "TypeScript",
-    "name": "MingyiSecLab/Atlas",
-    "stars": 11,
-    "updated_at": "2026-09-19T16:01:28Z",
-    "url": "https://github.com/MingyiSecLab/Atlas"
   },
   {
     "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
@@ -106,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-09-19T16:00:40Z",
     "url": "https://github.com/PCODE-pl/MCPTap"
-  },
-  {
-    "description": "CAE toolchain for IPM traction motors: geometry \u2192 EM field \u2192 structural FEM \u2192 thermal \u2192 drive cycle \u2192 PDF report. Every ",
-    "id": "ThomasSchmiegelt/ema-motor-analysis",
-    "language": "Python",
-    "name": "ThomasSchmiegelt/ema-motor-analysis",
-    "stars": 0,
-    "updated_at": "2026-09-19T15:57:21Z",
-    "url": "https://github.com/ThomasSchmiegelt/ema-motor-analysis"
   },
   {
     "description": "Deterministic orchestration, execution assurance, and quota-aware continuity runtime for GLM coding agents in ZCode",
@@ -232,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-09-19T15:40:28Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 19,
-    "updated_at": "2026-09-19T15:40:15Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
     "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-19T15:11:57Z",
     "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
-    "id": "bigduu/Zenith",
-    "language": "JavaScript",
-    "name": "bigduu/Zenith",
-    "stars": 6,
-    "updated_at": "2026-09-19T15:11:46Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-09-19T15:09:59Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-09-19T15:06:06Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
   }
 ]
