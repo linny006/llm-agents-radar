@@ -1,11 +1,38 @@
 [
   {
+    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
+    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "language": "JavaScript",
+    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "stars": 1,
+    "updated_at": "2026-09-19T00:13:55Z",
+    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-19T00:05:56Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 3,
+    "updated_at": "2026-09-19T00:04:13Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "PWA for Magic: The Gathering \u2014 life tracking at dice speed for 2\u20136 players, plus an AI rules judge grounded in the Compr",
     "id": "KiKDraS/mtg-life-counter-app",
     "language": "TypeScript",
     "name": "KiKDraS/mtg-life-counter-app",
     "stars": 0,
-    "updated_at": "2026-09-19T00:00:09Z",
+    "updated_at": "2026-09-19T00:00:38Z",
     "url": "https://github.com/KiKDraS/mtg-life-counter-app"
   },
   {
@@ -52,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T23:24:13Z",
     "url": "https://github.com/Jadema5416/ComfyUI-DLSS5-Enhancer"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 9,
-    "updated_at": "2026-09-18T23:23:44Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Sort your Downloads by project, not file type \u2014 with one-command undo. No delete, ever.",
@@ -387,15 +405,6 @@
     "url": "https://github.com/watchcat/scout"
   },
   {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 3,
-    "updated_at": "2026-09-18T21:33:11Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
     "id": "Sigmanih/SigmaStudio",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 7360,
     "updated_at": "2026-09-18T21:12:41Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 189,
-    "updated_at": "2026-09-18T21:11:04Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
   }
 ]
