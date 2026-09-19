@@ -1,5 +1,86 @@
 [
   {
+    "description": "openPASO (formerly OASiS): an MCP server that lets an AI model run nine finite-element and multiphysics codes, with cura",
+    "id": "Hereon-InstituteMS/openPASO",
+    "language": "Python",
+    "name": "Hereon-InstituteMS/openPASO",
+    "stars": 23,
+    "updated_at": "2026-09-19T01:12:36Z",
+    "url": "https://github.com/Hereon-InstituteMS/openPASO"
+  },
+  {
+    "description": "An autonomous on-call agent that investigates and remediates incidents on the Incident Platform through its MCP tool sur",
+    "id": "kudratsingh/incident-commander",
+    "language": "Python",
+    "name": "kudratsingh/incident-commander",
+    "stars": 0,
+    "updated_at": "2026-09-19T01:12:18Z",
+    "url": "https://github.com/kudratsingh/incident-commander"
+  },
+  {
+    "description": "openPASO \u2014 open Platform for Agentic Simulation and Optimization. An AI agent that operates nine finite-element and mult",
+    "id": "alhermann/openPASO",
+    "language": "Python",
+    "name": "alhermann/openPASO",
+    "stars": 13,
+    "updated_at": "2026-09-19T01:12:12Z",
+    "url": "https://github.com/alhermann/openPASO"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 24,
+    "updated_at": "2026-09-19T01:11:35Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 522,
+    "updated_at": "2026-09-19T01:09:54Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-19T01:05:58Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 342,
+    "updated_at": "2026-09-19T01:00:56Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "Vetix \u2014 Automated scanning, identification, and assessment of SKILL security risks.",
+    "id": "HuTa0kj/vetix",
+    "language": "Go",
+    "name": "HuTa0kj/vetix",
+    "stars": 61,
+    "updated_at": "2026-09-19T01:00:36Z",
+    "url": "https://github.com/HuTa0kj/vetix"
+  },
+  {
+    "description": "\u300a\u8be1\u79d8\u4e16\u754c\u300b\u00b7 World of Mysteries \u2014 \u672c\u5730\u4f18\u5148\u7684\u5355\u4eba\u6301\u4e45\u4e16\u754c\u6f14\u7ece\u5e94\u7528\uff1aSwiftUI macOS 26+ \u5ba2\u6237\u7aef + \u72ec\u7acb Local Engine\uff08Python 3.14 + AgentScope 2.0.8\uff09+ SQ",
+    "id": "hrygo/WorldofMysteries",
+    "language": "Swift",
+    "name": "hrygo/WorldofMysteries",
+    "stars": 0,
+    "updated_at": "2026-09-19T01:11:06Z",
+    "url": "https://github.com/hrygo/WorldofMysteries"
+  },
+  {
     "description": "PWA for Magic: The Gathering \u2014 life tracking at dice speed for 2\u20136 players, plus an AI rules judge grounded in the Compr",
     "id": "KiKDraS/mtg-life-counter-app",
     "language": "TypeScript",
@@ -16,15 +97,6 @@
     "stars": 130,
     "updated_at": "2026-09-19T00:57:31Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-19T00:56:06Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -45,24 +117,6 @@
     "url": "https://github.com/aviskaar/zorp"
   },
   {
-    "description": "Vetix \u2014 Automated scanning, identification, and assessment of SKILL security risks.",
-    "id": "HuTa0kj/vetix",
-    "language": "Go",
-    "name": "HuTa0kj/vetix",
-    "stars": 61,
-    "updated_at": "2026-09-19T00:47:25Z",
-    "url": "https://github.com/HuTa0kj/vetix"
-  },
-  {
-    "description": "\u300a\u8be1\u79d8\u4e16\u754c\u300b\u00b7 World of Mysteries \u2014 \u672c\u5730\u4f18\u5148\u7684\u5355\u4eba\u6301\u4e45\u4e16\u754c\u6f14\u7ece\u5e94\u7528\uff1aSwiftUI macOS 26+ \u5ba2\u6237\u7aef + \u72ec\u7acb Local Engine\uff08Python 3.14 + AgentScope 2.0.8\uff09+ SQ",
-    "id": "hrygo/WorldofMysteries",
-    "language": "Swift",
-    "name": "hrygo/WorldofMysteries",
-    "stars": 0,
-    "updated_at": "2026-09-19T00:57:01Z",
-    "url": "https://github.com/hrygo/WorldofMysteries"
-  },
-  {
     "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
     "id": "monocle2ai/monocle",
     "language": "Python",
@@ -79,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-09-19T00:13:55Z",
     "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 9,
-    "updated_at": "2026-09-19T00:05:56Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-18T22:45:32Z",
     "url": "https://github.com/NatanTechofNY/fieldnote-assistant"
-  },
-  {
-    "description": "AI coding agent engine with multi-provider routing, prompt compression, and intelligent model selection across 9+ LLM pr",
-    "id": "dirtysouthalpha/sentinel-code",
-    "language": "TypeScript",
-    "name": "dirtysouthalpha/sentinel-code",
-    "stars": 0,
-    "updated_at": "2026-09-18T23:03:35Z",
-    "url": "https://github.com/dirtysouthalpha/sentinel-code"
-  },
-  {
-    "description": "Demon Cry core - AI-powered OSINT engine",
-    "id": "Mooncore-inc/demon-cry",
-    "language": "Python",
-    "name": "Mooncore-inc/demon-cry",
-    "stars": 2,
-    "updated_at": "2026-09-18T22:04:29Z",
-    "url": "https://github.com/Mooncore-inc/demon-cry"
-  },
-  {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-18T22:01:59Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
-    "id": "watchcat/scout",
-    "language": "Rust",
-    "name": "watchcat/scout",
-    "stars": 0,
-    "updated_at": "2026-09-18T21:58:11Z",
-    "url": "https://github.com/watchcat/scout"
-  },
-  {
-    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
-    "id": "Sigmanih/SigmaStudio",
-    "language": "Python",
-    "name": "Sigmanih/SigmaStudio",
-    "stars": 8,
-    "updated_at": "2026-09-18T21:28:09Z",
-    "url": "https://github.com/Sigmanih/SigmaStudio"
   }
 ]
