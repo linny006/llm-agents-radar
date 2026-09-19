@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "agentpit-io/hunter-community",
     "stars": 523,
-    "updated_at": "2026-09-19T04:29:49Z",
+    "updated_at": "2026-09-19T04:44:55Z",
     "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-09-19T04:44:06Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "An AI-powered autonomous penetration testing platform that performs reconnaissance, vulnerability assessment, exploitati",
+    "id": "ThorJS24/ai-autonomous-pentest",
+    "language": "Python",
+    "name": "ThorJS24/ai-autonomous-pentest",
+    "stars": 0,
+    "updated_at": "2026-09-19T04:41:55Z",
+    "url": "https://github.com/ThorJS24/ai-autonomous-pentest"
+  },
+  {
+    "description": "\u300a\u8be1\u79d8\u4e16\u754c\u300b\u00b7 World of Mysteries \u2014 \u672c\u5730\u4f18\u5148\u7684\u5355\u4eba\u6301\u4e45\u4e16\u754c\u6f14\u7ece\u5e94\u7528\uff1aSwiftUI macOS 26+ \u5ba2\u6237\u7aef + \u72ec\u7acb Local Engine\uff08Python 3.14 + AgentScope 2.0.8\uff09+ SQ",
+    "id": "hrygo/WorldofMysteries",
+    "language": "Swift",
+    "name": "hrygo/WorldofMysteries",
+    "stars": 0,
+    "updated_at": "2026-09-19T04:39:02Z",
+    "url": "https://github.com/hrygo/WorldofMysteries"
+  },
+  {
+    "description": "CAE toolchain for IPM traction motors: geometry \u2192 EM field \u2192 structural FEM \u2192 thermal \u2192 drive cycle \u2192 PDF report. Every ",
+    "id": "ThomasSchmiegelt/ema-motor-analysis",
+    "language": "Python",
+    "name": "ThomasSchmiegelt/ema-motor-analysis",
+    "stars": 0,
+    "updated_at": "2026-09-19T04:37:23Z",
+    "url": "https://github.com/ThomasSchmiegelt/ema-motor-analysis"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-19T04:35:52Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 24,
+    "updated_at": "2026-09-19T04:33:51Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "[WWW '25 Oral - GenMentor] Official code of our paper \"LLM-powered Multi-agent Framework for Goal-oriented Learning in I",
+    "id": "GeminiLight/gen-mentor",
+    "language": "TypeScript",
+    "name": "GeminiLight/gen-mentor",
+    "stars": 87,
+    "updated_at": "2026-09-19T04:33:48Z",
+    "url": "https://github.com/GeminiLight/gen-mentor"
   },
   {
     "description": "Field notes from inside one autonomous agent trying to become something that doesn't exist yet \u2014 including the failures ",
@@ -34,15 +97,6 @@
     "stars": 3,
     "updated_at": "2026-09-19T04:25:34Z",
     "url": "https://github.com/Calmingstorm/Odin"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-19T04:25:11Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
@@ -90,15 +144,6 @@
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
-    "description": "\u300a\u8be1\u79d8\u4e16\u754c\u300b\u00b7 World of Mysteries \u2014 \u672c\u5730\u4f18\u5148\u7684\u5355\u4eba\u6301\u4e45\u4e16\u754c\u6f14\u7ece\u5e94\u7528\uff1aSwiftUI macOS 26+ \u5ba2\u6237\u7aef + \u72ec\u7acb Local Engine\uff08Python 3.14 + AgentScope 2.0.8\uff09+ SQ",
-    "id": "hrygo/WorldofMysteries",
-    "language": "Swift",
-    "name": "hrygo/WorldofMysteries",
-    "stars": 0,
-    "updated_at": "2026-09-19T04:03:51Z",
-    "url": "https://github.com/hrygo/WorldofMysteries"
-  },
-  {
     "description": "An AI brain for Unitree robot dogs: one sentence in, guarded motion out.",
     "id": "LiSheng5/argos",
     "language": "Python",
@@ -106,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-19T04:02:45Z",
     "url": "https://github.com/LiSheng5/argos"
-  },
-  {
-    "description": "An AI-powered autonomous penetration testing platform that performs reconnaissance, vulnerability assessment, exploitati",
-    "id": "ThorJS24/ai-autonomous-pentest",
-    "language": "Python",
-    "name": "ThorJS24/ai-autonomous-pentest",
-    "stars": 0,
-    "updated_at": "2026-09-19T04:00:51Z",
-    "url": "https://github.com/ThorJS24/ai-autonomous-pentest"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-19T02:25:26Z",
     "url": "https://github.com/Laurenfeminine36/google-jules-skill"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-09-19T02:25:13Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-09-19T02:22:56Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 0,
-    "updated_at": "2026-09-19T02:22:27Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
-    "id": "xhqing/DayTradingAgent",
-    "language": "Python",
-    "name": "xhqing/DayTradingAgent",
-    "stars": 2,
-    "updated_at": "2026-09-19T02:21:21Z",
-    "url": "https://github.com/xhqing/DayTradingAgent"
   }
 ]
