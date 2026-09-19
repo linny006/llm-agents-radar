@@ -1,5 +1,14 @@
 [
   {
+    "description": "An AI brain for Unitree robot dogs: one sentence in, guarded motion out.",
+    "id": "LiSheng5/argos",
+    "language": "Python",
+    "name": "LiSheng5/argos",
+    "stars": 0,
+    "updated_at": "2026-09-19T04:46:09Z",
+    "url": "https://github.com/LiSheng5/argos"
+  },
+  {
     "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
     "id": "agentpit-io/hunter-community",
     "language": "Python",
@@ -142,15 +151,6 @@
     "stars": 19,
     "updated_at": "2026-09-19T04:06:07Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "An AI brain for Unitree robot dogs: one sentence in, guarded motion out.",
-    "id": "LiSheng5/argos",
-    "language": "Python",
-    "name": "LiSheng5/argos",
-    "stars": 0,
-    "updated_at": "2026-09-19T04:02:45Z",
-    "url": "https://github.com/LiSheng5/argos"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
