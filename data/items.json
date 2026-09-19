@@ -1,12 +1,75 @@
 [
   {
+    "description": "AI smart home assistant for Home Assistant: LangGraph agent + MCP tools + RAG knowledge graph + vision perception",
+    "id": "tk-fantasy/fantasy",
+    "language": "Python",
+    "name": "tk-fantasy/fantasy",
+    "stars": 16,
+    "updated_at": "2026-09-19T10:13:14Z",
+    "url": "https://github.com/tk-fantasy/fantasy"
+  },
+  {
+    "description": "\u7535\u5546\u667a\u80fd\u5ba2\u670d Agent \u2014\u2014 \u7528 LangChain + LangGraph + FastAPI \u590d\u523b Coze Chatflow\uff1aRAG \u79c1\u6709\u77e5\u8bc6\u5e93\u3001Function Calling \u63d2\u4ef6\u3001\u591a\u5206\u652f\u610f\u56fe\u8def\u7531\u3001\u5f02\u5e38\u515c\u5e95\u4e0e 151 \u4e2a\u6d4b\u8bd5\u7528\u4f8b",
+    "id": "Zeno0003/ai-cs-agent",
+    "language": "Python",
+    "name": "Zeno0003/ai-cs-agent",
+    "stars": 0,
+    "updated_at": "2026-09-19T10:10:07Z",
+    "url": "https://github.com/Zeno0003/ai-cs-agent"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 196,
+    "updated_at": "2026-09-19T10:08:33Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-09-19T10:07:53Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 19,
+    "updated_at": "2026-09-19T10:05:18Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
     "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
     "id": "agentpit-io/hunter-community",
     "language": "Python",
     "name": "agentpit-io/hunter-community",
     "stars": 523,
-    "updated_at": "2026-09-19T09:59:59Z",
+    "updated_at": "2026-09-19T10:03:34Z",
     "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
+    "id": "chunleik/self-analyst",
+    "language": "Java",
+    "name": "chunleik/self-analyst",
+    "stars": 0,
+    "updated_at": "2026-09-19T10:09:19Z",
+    "url": "https://github.com/chunleik/self-analyst"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-19T10:01:08Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "TaskWizard\uff1a\u8584\u73af\uff08thin-loop\uff09LLM \u5b89\u5353\u624b\u673a\u667a\u80fd\u4f53 \u2014 \u6bcf\u6b65\u4e00\u6b21\u6a21\u578b\u8c03\u7528\u3001marks-first \u843d\u5730\u3001\u5b89\u5168\u9884\u8b66\u5236\u3001App-KB \u81ea\u79ef\u7d2f\u8bb0\u5fc6\u3001\u7ecf\u9a8c\u56de\u60f3\uff08RAG shadow\uff09\u3002Thin-loop LLM Android ",
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "tom-cat-mao/TaskWizard",
     "stars": 0,
-    "updated_at": "2026-09-19T10:00:01Z",
+    "updated_at": "2026-09-19T10:00:55Z",
     "url": "https://github.com/tom-cat-mao/TaskWizard"
   },
   {
@@ -23,7 +86,7 @@
     "language": "Python",
     "name": "xiaomaozjj666/web-crawler",
     "stars": 3,
-    "updated_at": "2026-09-19T10:00:12Z",
+    "updated_at": "2026-09-19T10:01:36Z",
     "url": "https://github.com/xiaomaozjj666/web-crawler"
   },
   {
@@ -32,7 +95,7 @@
     "language": "Python",
     "name": "xiaomaozjj666/issue-agent",
     "stars": 1,
-    "updated_at": "2026-09-19T09:59:13Z",
+    "updated_at": "2026-09-19T10:03:15Z",
     "url": "https://github.com/xiaomaozjj666/issue-agent"
   },
   {
@@ -50,7 +113,7 @@
     "language": "Python",
     "name": "kudratsingh/incident-commander",
     "stars": 0,
-    "updated_at": "2026-09-19T09:58:50Z",
+    "updated_at": "2026-09-19T10:13:58Z",
     "url": "https://github.com/kudratsingh/incident-commander"
   },
   {
@@ -63,15 +126,6 @@
     "url": "https://github.com/Mlte0907/pangu"
   },
   {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 194,
-    "updated_at": "2026-09-19T09:53:38Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
-  },
-  {
     "description": "\u9002\u7528\u4e8e Claude Code \u548c Codex \u7684\u6c42\u804c Skill\uff1a\u67e5\u627e\u5c97\u4f4d\u3001\u5224\u65ad\u662f\u5426\u503c\u5f97\u6295\u9012\u3001\u5236\u4f5c\u7b80\u5386\u4e0e\u7533\u8bf7\u6750\u6599\u3001\u68c0\u9a8c\u7533\u8bf7\u6750\u6599\u5e76\u6a21\u62df\u9762\u8bd5\u3002\u4e0d\u7f16\u9020\u6280\u80fd\u6216\u4e1a\u7ee9\u6570\u5b57\uff0c\u4e0d\u9884\u6d4b\u5f55\u7528\u6982\u7387\uff1b\u68c0\u67e5\u7b80\u5386\u662f\u5426\u4fbf\u4e8e\u62db\u8058\u7ba1\u7406\u7cfb\u7edf\uff08ATS\uff09\u8bfb\u53d6\uff0c\u5e76\u4ece\u62db\u8058\u4eba\u5458\u548c\u7528\u4eba",
     "id": "addsumtech/job-hunt",
     "language": "Python",
@@ -79,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-09-19T09:51:49Z",
     "url": "https://github.com/addsumtech/job-hunt"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 9,
-    "updated_at": "2026-09-19T09:51:10Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi",
@@ -320,7 +365,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4418,
-    "updated_at": "2026-09-19T09:37:16Z",
+    "updated_at": "2026-09-19T10:12:38Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -378,15 +423,6 @@
     "url": "https://github.com/yigido41/agentic-ai"
   },
   {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 19,
-    "updated_at": "2026-09-19T09:11:19Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
     "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
     "id": "Daniyal-GraphicDesigner/ai-trading-agent",
     "language": "CSS",
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-19T09:02:34Z",
     "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
-    "id": "WP2-Danikusuma/AgentX",
-    "language": "HTML",
-    "name": "WP2-Danikusuma/AgentX",
-    "stars": 2,
-    "updated_at": "2026-09-19T09:01:58Z",
-    "url": "https://github.com/WP2-Danikusuma/AgentX"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 342,
-    "updated_at": "2026-09-19T09:01:02Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "\u4e2a\u4eba\u5206\u8eab Agent\uff1a\u7ed3\u6784\u5316\u4e2a\u4eba\u77e5\u8bc6\u5e93 + Function Calling + \u5f15\u7528\u6eaf\u6e90 + \u65e0\u4f9d\u636e\u62d2\u7b54\uff0cFastAPI/SSE/Mock \u79bb\u7ebf\u53ef\u6d4b",
-    "id": "20041018wzz-alt/wzz-agent",
-    "language": "Python",
-    "name": "20041018wzz-alt/wzz-agent",
-    "stars": 0,
-    "updated_at": "2026-09-19T08:58:40Z",
-    "url": "https://github.com/20041018wzz-alt/wzz-agent"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 28,
-    "updated_at": "2026-09-19T08:56:17Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
   }
 ]
