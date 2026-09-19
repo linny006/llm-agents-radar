@@ -1,5 +1,50 @@
 [
   {
+    "description": "Vetix \u2014 Automated scanning, identification, and assessment of SKILL security risks.",
+    "id": "HuTa0kj/vetix",
+    "language": "Go",
+    "name": "HuTa0kj/vetix",
+    "stars": 61,
+    "updated_at": "2026-09-19T03:12:49Z",
+    "url": "https://github.com/HuTa0kj/vetix"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 24,
+    "updated_at": "2026-09-19T03:10:22Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\u300a\u8be1\u79d8\u4e16\u754c\u300b\u00b7 World of Mysteries \u2014 \u672c\u5730\u4f18\u5148\u7684\u5355\u4eba\u6301\u4e45\u4e16\u754c\u6f14\u7ece\u5e94\u7528\uff1aSwiftUI macOS 26+ \u5ba2\u6237\u7aef + \u72ec\u7acb Local Engine\uff08Python 3.14 + AgentScope 2.0.8\uff09+ SQ",
+    "id": "hrygo/WorldofMysteries",
+    "language": "Swift",
+    "name": "hrygo/WorldofMysteries",
+    "stars": 0,
+    "updated_at": "2026-09-19T03:14:03Z",
+    "url": "https://github.com/hrygo/WorldofMysteries"
+  },
+  {
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
+    "id": "bigfish1913/pi-rust",
+    "language": "Rust",
+    "name": "bigfish1913/pi-rust",
+    "stars": 26,
+    "updated_at": "2026-09-19T03:04:05Z",
+    "url": "https://github.com/bigfish1913/pi-rust"
+  },
+  {
+    "description": "\u6570\u5b57\u4ea7\u54c1\u5236\u4f5c\u4eba Wright\uff5c\u628a\u673a\u4f1a\u505a\u6210\u53ef\u552e\u5356\u6210\u54c1\u3002Digital Product Producer \u2014 turns opportunities into finished products.",
+    "id": "xhqing/ProductProducerAgent",
+    "language": "\u2014",
+    "name": "xhqing/ProductProducerAgent",
+    "stars": 0,
+    "updated_at": "2026-09-19T03:01:00Z",
+    "url": "https://github.com/xhqing/ProductProducerAgent"
+  },
+  {
     "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
     "id": "plurnk/plurnk-service",
     "language": "TypeScript",
@@ -16,15 +61,6 @@
     "stars": 19,
     "updated_at": "2026-09-19T02:57:31Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "Vetix \u2014 Automated scanning, identification, and assessment of SKILL security risks.",
-    "id": "HuTa0kj/vetix",
-    "language": "Go",
-    "name": "HuTa0kj/vetix",
-    "stars": 61,
-    "updated_at": "2026-09-19T02:56:40Z",
-    "url": "https://github.com/HuTa0kj/vetix"
   },
   {
     "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
@@ -216,15 +252,6 @@
     "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
   },
   {
-    "description": "\u300a\u8be1\u79d8\u4e16\u754c\u300b\u00b7 World of Mysteries \u2014 \u672c\u5730\u4f18\u5148\u7684\u5355\u4eba\u6301\u4e45\u4e16\u754c\u6f14\u7ece\u5e94\u7528\uff1aSwiftUI macOS 26+ \u5ba2\u6237\u7aef + \u72ec\u7acb Local Engine\uff08Python 3.14 + AgentScope 2.0.8\uff09+ SQ",
-    "id": "hrygo/WorldofMysteries",
-    "language": "Swift",
-    "name": "hrygo/WorldofMysteries",
-    "stars": 0,
-    "updated_at": "2026-09-19T02:59:31Z",
-    "url": "https://github.com/hrygo/WorldofMysteries"
-  },
-  {
     "description": "An AI data analyst agent. Ask questions in plain English; it plans, writes SQL, runs pandas, charts results, and verifie",
     "id": "asadaslam556/prism-data-agent",
     "language": "Python",
@@ -414,24 +441,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-19T02:42:43Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
-    "id": "bigfish1913/pi-rust",
-    "language": "Rust",
-    "name": "bigfish1913/pi-rust",
-    "stars": 26,
-    "updated_at": "2026-09-19T01:33:36Z",
-    "url": "https://github.com/bigfish1913/pi-rust"
-  },
-  {
     "description": "A Spring Java checkout agent that ties token usage and fulfillment failures to the same order operation.",
     "id": "NevilleChristensen2637/checkout-agent-failure-ledger-agent-run-telemetry-ecommerce-",
     "language": "Java",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-19T01:23:47Z",
     "url": "https://github.com/NevilleChristensen2637/checkout-agent-failure-ledger-agent-run-telemetry-ecommerce-"
-  },
-  {
-    "description": "openPASO (formerly OASiS): an MCP server that lets an AI model run nine finite-element and multiphysics codes, with cura",
-    "id": "Hereon-InstituteMS/openPASO",
-    "language": "Python",
-    "name": "Hereon-InstituteMS/openPASO",
-    "stars": 23,
-    "updated_at": "2026-09-19T01:12:36Z",
-    "url": "https://github.com/Hereon-InstituteMS/openPASO"
   }
 ]
