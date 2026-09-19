@@ -1,5 +1,32 @@
 [
   {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-19T18:40:17Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Axiomize 2.0 - scientific modeling engine plus quantum-inspired multi-branch reasoning",
+    "id": "Furox-Art/axiomize-quantum-skills-2.0",
+    "language": "Python",
+    "name": "Furox-Art/axiomize-quantum-skills-2.0",
+    "stars": 0,
+    "updated_at": "2026-09-19T18:39:44Z",
+    "url": "https://github.com/Furox-Art/axiomize-quantum-skills-2.0"
+  },
+  {
+    "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
+    "id": "sunnnn2005/data-quality-agent",
+    "language": "Python",
+    "name": "sunnnn2005/data-quality-agent",
+    "stars": 0,
+    "updated_at": "2026-09-19T18:38:28Z",
+    "url": "https://github.com/sunnnn2005/data-quality-agent"
+  },
+  {
     "description": "An autopoiesic kefir for computing machines",
     "id": "genaforvena/lte-workstation",
     "language": "Shell",
@@ -7,6 +34,15 @@
     "stars": 9,
     "updated_at": "2026-09-19T18:30:03Z",
     "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "A production-shaped multi-capability LLM Agent in Python with task planning, function calling, dual-layer memory, hybrid",
+    "id": "JIARUILIANG-alt/agent-forge-llm-agent",
+    "language": "Python",
+    "name": "JIARUILIANG-alt/agent-forge-llm-agent",
+    "stars": 0,
+    "updated_at": "2026-09-19T18:31:21Z",
+    "url": "https://github.com/JIARUILIANG-alt/agent-forge-llm-agent"
   },
   {
     "description": "YantrikDB memory provider for NousResearch/hermes-agent \u2014 self-maintaining memory with benchmarked recall, self-tuning r",
@@ -27,21 +63,12 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-19T18:13:14Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "Control AI agents anywhere. (github mirror)",
     "id": "justacalico/devinorium",
     "language": "Dart",
     "name": "justacalico/devinorium",
     "stars": 1,
-    "updated_at": "2026-09-19T18:29:18Z",
+    "updated_at": "2026-09-19T18:30:35Z",
     "url": "https://github.com/justacalico/devinorium"
   },
   {
@@ -196,15 +223,6 @@
     "stars": 130,
     "updated_at": "2026-09-19T17:45:59Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Axiomize 2.0 - scientific modeling engine plus quantum-inspired multi-branch reasoning",
-    "id": "Furox-Art/axiomize-quantum-skills-2.0",
-    "language": "Python",
-    "name": "Furox-Art/axiomize-quantum-skills-2.0",
-    "stars": 0,
-    "updated_at": "2026-09-19T17:45:03Z",
-    "url": "https://github.com/Furox-Art/axiomize-quantum-skills-2.0"
   },
   {
     "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
@@ -430,23 +448,5 @@
     "stars": 128,
     "updated_at": "2026-09-19T17:06:48Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "Prompts, skills, and agents that survive contact with real workflows. No vendor loyalty. Occasionally heretical.  \ud83e\uddd9\ud83c\udffb\u200d\u2640\ufe0f",
-    "id": "MarieLynneBlock/arcanum-artifex",
-    "language": "Python",
-    "name": "MarieLynneBlock/arcanum-artifex",
-    "stars": 4,
-    "updated_at": "2026-09-19T16:58:02Z",
-    "url": "https://github.com/MarieLynneBlock/arcanum-artifex"
-  },
-  {
-    "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
-    "id": "mark-weeks/hello-nested-worlds-adventure",
-    "language": "Python",
-    "name": "mark-weeks/hello-nested-worlds-adventure",
-    "stars": 5,
-    "updated_at": "2026-09-19T17:21:41Z",
-    "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
   }
 ]
