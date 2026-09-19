@@ -1,12 +1,57 @@
 [
   {
+    "description": "PWA for Magic: The Gathering \u2014 life tracking at dice speed for 2\u20136 players, plus an AI rules judge grounded in the Compr",
+    "id": "KiKDraS/mtg-life-counter-app",
+    "language": "TypeScript",
+    "name": "KiKDraS/mtg-life-counter-app",
+    "stars": 0,
+    "updated_at": "2026-09-19T20:55:50Z",
+    "url": "https://github.com/KiKDraS/mtg-life-counter-app"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 711,
+    "updated_at": "2026-09-19T20:51:28Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "Individualized worksheets for educational and therapeutic professionals - from a support goal, level and age (ICF-aware)",
+    "id": "ellmos-ai/worksheet-generator",
+    "language": "Python",
+    "name": "ellmos-ai/worksheet-generator",
+    "stars": 1,
+    "updated_at": "2026-09-19T20:50:34Z",
+    "url": "https://github.com/ellmos-ai/worksheet-generator"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-19T20:48:11Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
     "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
     "id": "watchcat/scout",
     "language": "Rust",
     "name": "watchcat/scout",
     "stars": 0,
-    "updated_at": "2026-09-19T20:42:48Z",
+    "updated_at": "2026-09-19T20:46:25Z",
     "url": "https://github.com/watchcat/scout"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-09-19T20:45:33Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
@@ -34,15 +79,6 @@
     "stars": 18,
     "updated_at": "2026-09-19T20:32:05Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "PWA for Magic: The Gathering \u2014 life tracking at dice speed for 2\u20136 players, plus an AI rules judge grounded in the Compr",
-    "id": "KiKDraS/mtg-life-counter-app",
-    "language": "TypeScript",
-    "name": "KiKDraS/mtg-life-counter-app",
-    "stars": 0,
-    "updated_at": "2026-09-19T20:34:30Z",
-    "url": "https://github.com/KiKDraS/mtg-life-counter-app"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -79,15 +115,6 @@
     "stars": 130,
     "updated_at": "2026-09-19T20:03:11Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 9,
-    "updated_at": "2026-09-19T19:59:59Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi",
@@ -297,15 +324,6 @@
     "url": "https://github.com/axxafo/awesome-agent-benchmarks"
   },
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 711,
-    "updated_at": "2026-09-19T20:43:45Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
     "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
     "id": "yigido41/agentic-ai",
     "language": "Python",
@@ -405,15 +423,6 @@
     "url": "https://github.com/JIARUILIANG-alt/agent-forge-llm-agent"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-09-19T18:13:34Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Control AI agents anywhere. (github mirror)",
     "id": "justacalico/devinorium",
     "language": "Dart",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-19T17:42:11Z",
     "url": "https://github.com/samhaque/nooa-omada-agent"
-  },
-  {
-    "description": "Ask your data questions in plain English. A LangGraph agent writes the SQL, runs pandas, draws the charts and checks its",
-    "id": "asadaslam556/prism-data-agent",
-    "language": "Python",
-    "name": "asadaslam556/prism-data-agent",
-    "stars": 0,
-    "updated_at": "2026-09-19T17:39:14Z",
-    "url": "https://github.com/asadaslam556/prism-data-agent"
   }
 ]
