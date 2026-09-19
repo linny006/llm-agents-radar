@@ -1,5 +1,32 @@
 [
   {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-09-19T09:02:34Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-09-19T09:01:58Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 342,
+    "updated_at": "2026-09-19T09:01:02Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
     "description": "\u4e2a\u4eba\u5206\u8eab Agent\uff1a\u7ed3\u6784\u5316\u4e2a\u4eba\u77e5\u8bc6\u5e93 + Function Calling + \u5f15\u7528\u6eaf\u6e90 + \u65e0\u4f9d\u636e\u62d2\u7b54\uff0cFastAPI/SSE/Mock \u79bb\u7ebf\u53ef\u6d4b",
     "id": "20041018wzz-alt/wzz-agent",
     "language": "Python",
@@ -140,7 +167,7 @@
     "language": "Python",
     "name": "agentpit-io/hunter-community",
     "stars": 523,
-    "updated_at": "2026-09-19T08:22:44Z",
+    "updated_at": "2026-09-19T09:04:13Z",
     "url": "https://github.com/agentpit-io/hunter-community"
   },
   {
@@ -176,7 +203,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-19T07:51:58Z",
+    "updated_at": "2026-09-19T09:03:38Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 53,
     "updated_at": "2026-09-19T07:23:10Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 2,
-    "updated_at": "2026-09-19T07:19:35Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-09-19T07:19:23Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-09-19T07:18:13Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
   }
 ]
