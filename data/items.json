@@ -5,8 +5,35 @@
     "language": "Rust",
     "name": "watchcat/scout",
     "stars": 0,
-    "updated_at": "2026-09-19T20:29:30Z",
+    "updated_at": "2026-09-19T20:42:48Z",
     "url": "https://github.com/watchcat/scout"
+  },
+  {
+    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
+    "id": "bigduu/Zenith",
+    "language": "JavaScript",
+    "name": "bigduu/Zenith",
+    "stars": 6,
+    "updated_at": "2026-09-19T20:39:27Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "Axiomize 2.0 - scientific modeling engine plus quantum-inspired multi-branch reasoning",
+    "id": "Furox-Art/axiomize-quantum-skills-2.0",
+    "language": "Python",
+    "name": "Furox-Art/axiomize-quantum-skills-2.0",
+    "stars": 0,
+    "updated_at": "2026-09-19T20:41:55Z",
+    "url": "https://github.com/Furox-Art/axiomize-quantum-skills-2.0"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 18,
+    "updated_at": "2026-09-19T20:32:05Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "PWA for Magic: The Gathering \u2014 life tracking at dice speed for 2\u20136 players, plus an AI rules judge grounded in the Compr",
@@ -14,7 +41,7 @@
     "language": "TypeScript",
     "name": "KiKDraS/mtg-life-counter-app",
     "stars": 0,
-    "updated_at": "2026-09-19T20:25:42Z",
+    "updated_at": "2026-09-19T20:34:30Z",
     "url": "https://github.com/KiKDraS/mtg-life-counter-app"
   },
   {
@@ -43,24 +70,6 @@
     "stars": 24,
     "updated_at": "2026-09-19T20:22:39Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Axiomize 2.0 - scientific modeling engine plus quantum-inspired multi-branch reasoning",
-    "id": "Furox-Art/axiomize-quantum-skills-2.0",
-    "language": "Python",
-    "name": "Furox-Art/axiomize-quantum-skills-2.0",
-    "stars": 0,
-    "updated_at": "2026-09-19T20:18:43Z",
-    "url": "https://github.com/Furox-Art/axiomize-quantum-skills-2.0"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 18,
-    "updated_at": "2026-09-19T20:14:08Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -293,7 +302,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 711,
-    "updated_at": "2026-09-19T19:24:40Z",
+    "updated_at": "2026-09-19T20:43:45Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-19T17:39:14Z",
     "url": "https://github.com/asadaslam556/prism-data-agent"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-09-19T17:37:22Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   }
 ]
