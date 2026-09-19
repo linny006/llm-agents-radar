@@ -1,5 +1,32 @@
 [
   {
+    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
+    "id": "agentscope-ai/agentscope-go",
+    "language": "Go",
+    "name": "agentscope-ai/agentscope-go",
+    "stars": 41,
+    "updated_at": "2026-09-19T03:30:32Z",
+    "url": "https://github.com/agentscope-ai/agentscope-go"
+  },
+  {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-19T03:26:15Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
+    "id": "bigduu/Zenith",
+    "language": "JavaScript",
+    "name": "bigduu/Zenith",
+    "stars": 6,
+    "updated_at": "2026-09-19T03:24:23Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
     "description": "Vetix \u2014 Automated scanning, identification, and assessment of SKILL security risks.",
     "id": "HuTa0kj/vetix",
     "language": "Go",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-19T03:10:22Z",
+    "updated_at": "2026-09-19T03:17:21Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -23,7 +50,7 @@
     "language": "Swift",
     "name": "hrygo/WorldofMysteries",
     "stars": 0,
-    "updated_at": "2026-09-19T03:14:03Z",
+    "updated_at": "2026-09-19T03:28:54Z",
     "url": "https://github.com/hrygo/WorldofMysteries"
   },
   {
@@ -45,15 +72,6 @@
     "url": "https://github.com/xhqing/ProductProducerAgent"
   },
   {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-19T02:58:51Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
     "id": "SuperdeMan/cockpit-agent",
     "language": "Python",
@@ -61,15 +79,6 @@
     "stars": 19,
     "updated_at": "2026-09-19T02:57:31Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
-    "id": "agentscope-ai/agentscope-go",
-    "language": "Go",
-    "name": "agentscope-ai/agentscope-go",
-    "stars": 41,
-    "updated_at": "2026-09-19T02:53:57Z",
-    "url": "https://github.com/agentscope-ai/agentscope-go"
   },
   {
     "description": "A game-agnostic LLM agent runtime for autonomous NPCs, with Stardew Valley as the first real-world adapter.",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-19T01:35:31Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "A Spring Java checkout agent that ties token usage and fulfillment failures to the same order operation.",
-    "id": "NevilleChristensen2637/checkout-agent-failure-ledger-agent-run-telemetry-ecommerce-",
-    "language": "Java",
-    "name": "NevilleChristensen2637/checkout-agent-failure-ledger-agent-run-telemetry-ecommerce-",
-    "stars": 0,
-    "updated_at": "2026-09-19T01:23:47Z",
-    "url": "https://github.com/NevilleChristensen2637/checkout-agent-failure-ledger-agent-run-telemetry-ecommerce-"
   }
 ]
