@@ -1,11 +1,20 @@
 [
   {
+    "description": "\u300a\u8be1\u79d8\u4e16\u754c\u300b\u00b7 World of Mysteries \u2014 \u672c\u5730\u4f18\u5148\u7684\u5355\u4eba\u6301\u4e45\u4e16\u754c\u6f14\u7ece\u5e94\u7528\uff1aSwiftUI macOS 26+ \u5ba2\u6237\u7aef + \u72ec\u7acb Local Engine\uff08Python 3.14 + AgentScope 2.0.8\uff09+ SQ",
+    "id": "hrygo/WorldofMysteries",
+    "language": "Swift",
+    "name": "hrygo/WorldofMysteries",
+    "stars": 0,
+    "updated_at": "2026-09-19T06:15:01Z",
+    "url": "https://github.com/hrygo/WorldofMysteries"
+  },
+  {
     "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
-    "stars": 190,
-    "updated_at": "2026-09-19T06:00:04Z",
+    "stars": 192,
+    "updated_at": "2026-09-19T06:11:08Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
   },
   {
@@ -14,17 +23,8 @@
     "language": "Python",
     "name": "agentpit-io/hunter-community",
     "stars": 523,
-    "updated_at": "2026-09-19T05:59:40Z",
+    "updated_at": "2026-09-19T06:01:56Z",
     "url": "https://github.com/agentpit-io/hunter-community"
-  },
-  {
-    "description": "\u300a\u8be1\u79d8\u4e16\u754c\u300b\u00b7 World of Mysteries \u2014 \u672c\u5730\u4f18\u5148\u7684\u5355\u4eba\u6301\u4e45\u4e16\u754c\u6f14\u7ece\u5e94\u7528\uff1aSwiftUI macOS 26+ \u5ba2\u6237\u7aef + \u72ec\u7acb Local Engine\uff08Python 3.14 + AgentScope 2.0.8\uff09+ SQ",
-    "id": "hrygo/WorldofMysteries",
-    "language": "Swift",
-    "name": "hrygo/WorldofMysteries",
-    "stars": 0,
-    "updated_at": "2026-09-19T05:58:37Z",
-    "url": "https://github.com/hrygo/WorldofMysteries"
   },
   {
     "description": "An autonomous on-call agent that investigates and remediates incidents on the Incident Platform through its MCP tool sur",
@@ -32,7 +32,7 @@
     "language": "Python",
     "name": "kudratsingh/incident-commander",
     "stars": 0,
-    "updated_at": "2026-09-19T05:55:52Z",
+    "updated_at": "2026-09-19T06:12:35Z",
     "url": "https://github.com/kudratsingh/incident-commander"
   },
   {
@@ -50,7 +50,7 @@
     "language": "Python",
     "name": "rekursiv-ai/sagent",
     "stars": 53,
-    "updated_at": "2026-09-19T05:54:36Z",
+    "updated_at": "2026-09-19T06:13:29Z",
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
@@ -347,7 +347,7 @@
     "language": "Python",
     "name": "indigokarasu/chronicle-agent-context-and-memory",
     "stars": 6,
-    "updated_at": "2026-09-19T05:59:31Z",
+    "updated_at": "2026-09-19T06:14:08Z",
     "url": "https://github.com/indigokarasu/chronicle-agent-context-and-memory"
   },
   {
