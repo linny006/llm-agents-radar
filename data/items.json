@@ -1,5 +1,140 @@
 [
   {
+    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
+    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
+    "language": "Python",
+    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
+    "stars": 5,
+    "updated_at": "2026-09-19T19:45:07Z",
+    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 18,
+    "updated_at": "2026-09-19T19:44:38Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Pi's coding agent ported to Rust",
+    "id": "y0usaf/pi-rs",
+    "language": "Rust",
+    "name": "y0usaf/pi-rs",
+    "stars": 1,
+    "updated_at": "2026-09-19T19:44:12Z",
+    "url": "https://github.com/y0usaf/pi-rs"
+  },
+  {
+    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
+    "id": "oxidizable-malinois605/bridge-suite-mcp",
+    "language": "TypeScript",
+    "name": "oxidizable-malinois605/bridge-suite-mcp",
+    "stars": 0,
+    "updated_at": "2026-09-19T19:43:05Z",
+    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
+  },
+  {
+    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
+    "id": "Arjunadh5305/ios-skills-collection",
+    "language": "\u2014",
+    "name": "Arjunadh5305/ios-skills-collection",
+    "stars": 1,
+    "updated_at": "2026-09-19T19:43:05Z",
+    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
+  },
+  {
+    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
+    "id": "Stolas34/voice-input-src",
+    "language": "\u2014",
+    "name": "Stolas34/voice-input-src",
+    "stars": 0,
+    "updated_at": "2026-09-19T19:42:45Z",
+    "url": "https://github.com/Stolas34/voice-input-src"
+  },
+  {
+    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
+    "id": "Screwtopped-annapavlova802/SparkLabs",
+    "language": "C++",
+    "name": "Screwtopped-annapavlova802/SparkLabs",
+    "stars": 1,
+    "updated_at": "2026-09-19T19:40:35Z",
+    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
+  },
+  {
+    "description": "Axiomize 2.0 - scientific modeling engine plus quantum-inspired multi-branch reasoning",
+    "id": "Furox-Art/axiomize-quantum-skills-2.0",
+    "language": "Python",
+    "name": "Furox-Art/axiomize-quantum-skills-2.0",
+    "stars": 0,
+    "updated_at": "2026-09-19T19:39:28Z",
+    "url": "https://github.com/Furox-Art/axiomize-quantum-skills-2.0"
+  },
+  {
+    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
+    "id": "mriazi1982/octopai",
+    "language": "Python",
+    "name": "mriazi1982/octopai",
+    "stars": 1,
+    "updated_at": "2026-09-19T19:39:21Z",
+    "url": "https://github.com/mriazi1982/octopai"
+  },
+  {
+    "description": "openPASO \u2014 open Platform for Agentic Simulation and Optimization. An AI agent that operates nine finite-element and mult",
+    "id": "alhermann/openPASO",
+    "language": "Python",
+    "name": "alhermann/openPASO",
+    "stars": 13,
+    "updated_at": "2026-09-19T19:38:51Z",
+    "url": "https://github.com/alhermann/openPASO"
+  },
+  {
+    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
+    "id": "mezoali100/exforum-auto-poster",
+    "language": "\u2014",
+    "name": "mezoali100/exforum-auto-poster",
+    "stars": 1,
+    "updated_at": "2026-09-19T19:36:23Z",
+    "url": "https://github.com/mezoali100/exforum-auto-poster"
+  },
+  {
+    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
+    "id": "Bowotria/aethercore",
+    "language": "Go",
+    "name": "Bowotria/aethercore",
+    "stars": 2,
+    "updated_at": "2026-09-19T19:36:17Z",
+    "url": "https://github.com/Bowotria/aethercore"
+  },
+  {
+    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
+    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "language": "Python",
+    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "stars": 4,
+    "updated_at": "2026-09-19T19:34:17Z",
+    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-19T19:31:13Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
+    "id": "mohahasan/ios-agentic-skills",
+    "language": "JavaScript",
+    "name": "mohahasan/ios-agentic-skills",
+    "stars": 4,
+    "updated_at": "2026-09-19T19:30:47Z",
+    "url": "https://github.com/mohahasan/ios-agentic-skills"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -54,15 +189,6 @@
     "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
   },
   {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 18,
-    "updated_at": "2026-09-19T19:26:07Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "",
     "id": "sanitprime/Advanced_Graph_RAG",
     "language": "Python",
@@ -99,24 +225,6 @@
     "url": "https://github.com/milljm/dynamic-rag-chat"
   },
   {
-    "description": "openPASO \u2014 open Platform for Agentic Simulation and Optimization. An AI agent that operates nine finite-element and mult",
-    "id": "alhermann/openPASO",
-    "language": "Python",
-    "name": "alhermann/openPASO",
-    "stars": 13,
-    "updated_at": "2026-09-19T19:06:09Z",
-    "url": "https://github.com/alhermann/openPASO"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 9,
-    "updated_at": "2026-09-19T19:02:52Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "Deterministic orchestration, execution assurance, and quota-aware continuity runtime for GLM coding agents in ZCode",
     "id": "Chengy257/glm-conductor",
     "language": "Python",
@@ -142,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-09-19T18:53:59Z",
     "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "Axiomize 2.0 - scientific modeling engine plus quantum-inspired multi-branch reasoning",
-    "id": "Furox-Art/axiomize-quantum-skills-2.0",
-    "language": "Python",
-    "name": "Furox-Art/axiomize-quantum-skills-2.0",
-    "stars": 0,
-    "updated_at": "2026-09-19T18:39:44Z",
-    "url": "https://github.com/Furox-Art/axiomize-quantum-skills-2.0"
   },
   {
     "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
@@ -270,51 +369,6 @@
     "url": "https://github.com/clashroy5384/ai-papers-hub"
   },
   {
-    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
-    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "language": "Python",
-    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "stars": 5,
-    "updated_at": "2026-09-19T17:50:35Z",
-    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
-  },
-  {
-    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
-    "id": "oxidizable-malinois605/bridge-suite-mcp",
-    "language": "TypeScript",
-    "name": "oxidizable-malinois605/bridge-suite-mcp",
-    "stars": 0,
-    "updated_at": "2026-09-19T17:48:53Z",
-    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
-  },
-  {
-    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
-    "id": "Arjunadh5305/ios-skills-collection",
-    "language": "\u2014",
-    "name": "Arjunadh5305/ios-skills-collection",
-    "stars": 1,
-    "updated_at": "2026-09-19T17:48:45Z",
-    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
-  },
-  {
-    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
-    "id": "Stolas34/voice-input-src",
-    "language": "\u2014",
-    "name": "Stolas34/voice-input-src",
-    "stars": 0,
-    "updated_at": "2026-09-19T17:48:18Z",
-    "url": "https://github.com/Stolas34/voice-input-src"
-  },
-  {
-    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
-    "id": "Screwtopped-annapavlova802/SparkLabs",
-    "language": "C++",
-    "name": "Screwtopped-annapavlova802/SparkLabs",
-    "stars": 1,
-    "updated_at": "2026-09-19T17:46:14Z",
-    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -322,15 +376,6 @@
     "stars": 130,
     "updated_at": "2026-09-19T17:45:59Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-09-19T17:44:50Z",
-    "url": "https://github.com/mriazi1982/octopai"
   },
   {
     "description": "NOOA network-ops agent for a TP-Link Omada SDN controller via omada-controller-mcp, backed by a self-hosted Nemotron Lig",
@@ -342,24 +387,6 @@
     "url": "https://github.com/samhaque/nooa-omada-agent"
   },
   {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-09-19T17:41:48Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-09-19T17:41:33Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -367,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-09-19T17:40:37Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 4,
-    "updated_at": "2026-09-19T17:39:42Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
   },
   {
     "description": "Ask your data questions in plain English. A LangGraph agent writes the SQL, runs pandas, draws the charts and checks its",
@@ -394,15 +412,6 @@
     "stars": 0,
     "updated_at": "2026-09-19T17:37:22Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-09-19T17:36:11Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-19T17:15:59Z",
     "url": "https://github.com/xingchen20lj/vulngate"
-  },
-  {
-    "description": "\u57fa\u4e8eLLM\u7684\u91cf\u5316\u56e0\u5b50\u5f00\u53d1Agent",
-    "id": "ZXTLQQ/FactorGPT",
-    "language": "Python",
-    "name": "ZXTLQQ/FactorGPT",
-    "stars": 10,
-    "updated_at": "2026-09-19T17:13:09Z",
-    "url": "https://github.com/ZXTLQQ/FactorGPT"
   }
 ]
