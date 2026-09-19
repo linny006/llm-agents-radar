@@ -1,5 +1,14 @@
 [
   {
+    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
+    "id": "monocle2ai/monocle",
+    "language": "Python",
+    "name": "monocle2ai/monocle",
+    "stars": 340,
+    "updated_at": "2026-09-19T00:28:08Z",
+    "url": "https://github.com/monocle2ai/monocle"
+  },
+  {
     "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
     "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
     "language": "JavaScript",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-18T21:17:44Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7360,
-    "updated_at": "2026-09-18T21:12:41Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   }
 ]
