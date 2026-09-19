@@ -1,12 +1,39 @@
 [
   {
+    "description": "Deterministic orchestration, execution assurance, and quota-aware continuity runtime for GLM coding agents in ZCode",
+    "id": "Chengy257/glm-conductor",
+    "language": "Python",
+    "name": "Chengy257/glm-conductor",
+    "stars": 0,
+    "updated_at": "2026-09-19T18:57:28Z",
+    "url": "https://github.com/Chengy257/glm-conductor"
+  },
+  {
+    "description": "YantrikDB memory provider for NousResearch/hermes-agent \u2014 self-maintaining memory with benchmarked recall, self-tuning r",
+    "id": "yantrikos/yantrikdb-hermes-plugin",
+    "language": "Python",
+    "name": "yantrikos/yantrikdb-hermes-plugin",
+    "stars": 91,
+    "updated_at": "2026-09-19T18:55:12Z",
+    "url": "https://github.com/yantrikos/yantrikdb-hermes-plugin"
+  },
+  {
     "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
     "id": "plurnk/plurnk-service",
     "language": "TypeScript",
     "name": "plurnk/plurnk-service",
     "stars": 0,
-    "updated_at": "2026-09-19T18:40:17Z",
+    "updated_at": "2026-09-19T18:53:59Z",
     "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-19T18:51:39Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Axiomize 2.0 - scientific modeling engine plus quantum-inspired multi-branch reasoning",
@@ -27,15 +54,6 @@
     "url": "https://github.com/sunnnn2005/data-quality-agent"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 9,
-    "updated_at": "2026-09-19T18:30:03Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "A production-shaped multi-capability LLM Agent in Python with task planning, function calling, dual-layer memory, hybrid",
     "id": "JIARUILIANG-alt/agent-forge-llm-agent",
     "language": "Python",
@@ -43,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-09-19T18:31:21Z",
     "url": "https://github.com/JIARUILIANG-alt/agent-forge-llm-agent"
-  },
-  {
-    "description": "YantrikDB memory provider for NousResearch/hermes-agent \u2014 self-maintaining memory with benchmarked recall, self-tuning r",
-    "id": "yantrikos/yantrikdb-hermes-plugin",
-    "language": "Python",
-    "name": "yantrikos/yantrikdb-hermes-plugin",
-    "stars": 91,
-    "updated_at": "2026-09-19T18:21:50Z",
-    "url": "https://github.com/yantrikos/yantrikdb-hermes-plugin"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -439,14 +448,5 @@
     "stars": 19,
     "updated_at": "2026-09-19T17:09:16Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 128,
-    "updated_at": "2026-09-19T17:06:48Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
   }
 ]
