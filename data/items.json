@@ -5,8 +5,26 @@
     "language": "JavaScript",
     "name": "bigduu/Zenith",
     "stars": 6,
-    "updated_at": "2026-09-20T13:58:17Z",
+    "updated_at": "2026-09-20T14:08:19Z",
     "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
+    "id": "edjafarov/kiagent-core",
+    "language": "TypeScript",
+    "name": "edjafarov/kiagent-core",
+    "stars": 7,
+    "updated_at": "2026-09-20T14:03:14Z",
+    "url": "https://github.com/edjafarov/kiagent-core"
+  },
+  {
+    "description": "Vetix \u2014 Automated scanning, identification, and assessment of SKILL security risks, based on Golang.",
+    "id": "HuTa0kj/vetix",
+    "language": "Go",
+    "name": "HuTa0kj/vetix",
+    "stars": 61,
+    "updated_at": "2026-09-20T14:01:31Z",
+    "url": "https://github.com/HuTa0kj/vetix"
   },
   {
     "description": "\u672c\u673a\u8fd0\u884c\u7684\u5bf9\u8bdd\u5f0f A \u80a1\u9009\u80a1\u4e0e\u7b56\u7565\u9a8c\u8bc1\u5de5\u5177\uff1a\u81ea\u7136\u8bed\u8a00\u9009\u80a1 + \u5e26\u53ef\u4fe1\u5ea6\u8bc4\u4f30\u7684\u7b56\u7565\u56de\u6d4b\uff08T+1 \u6210\u4ea4\u3001\u4e00\u5b57\u677f\u4e0d\u6210\u4ea4\u3001\u6da8\u8dcc\u505c\u5224\u636e\u524d\u590d\u6743\uff09\u3002\u7eaf Python \u6807\u51c6\u5e93\uff0c\u5355\u6587\u4ef6 exe \u4ea4\u4ed8\u3002",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-20T12:32:47Z",
     "url": "https://github.com/tachyon-r/first-principles-agent-soul"
-  },
-  {
-    "description": "A small Python harness that keeps an LLM coding agent on track: durable memory, a code graph, a live todo plan, and loop",
-    "id": "IdysisI/kern",
-    "language": "Python",
-    "name": "IdysisI/kern",
-    "stars": 2,
-    "updated_at": "2026-09-20T12:29:40Z",
-    "url": "https://github.com/IdysisI/kern"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 6002,
-    "updated_at": "2026-09-20T13:56:17Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
   }
 ]
