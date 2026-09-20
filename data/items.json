@@ -1,5 +1,32 @@
 [
   {
+    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
+    "id": "kyleslight/shun",
+    "language": "TypeScript",
+    "name": "kyleslight/shun",
+    "stars": 6,
+    "updated_at": "2026-09-20T12:42:27Z",
+    "url": "https://github.com/kyleslight/shun"
+  },
+  {
+    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
+    "id": "bigduu/Zenith",
+    "language": "JavaScript",
+    "name": "bigduu/Zenith",
+    "stars": 6,
+    "updated_at": "2026-09-20T12:33:22Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "A compass for autonomous agents, not an operating manual.",
+    "id": "tachyon-r/first-principles-agent-soul",
+    "language": "\u2014",
+    "name": "tachyon-r/first-principles-agent-soul",
+    "stars": 1,
+    "updated_at": "2026-09-20T12:32:47Z",
+    "url": "https://github.com/tachyon-r/first-principles-agent-soul"
+  },
+  {
     "description": "A small Python harness that keeps an LLM coding agent on track: durable memory, a code graph, a live todo plan, and loop",
     "id": "IdysisI/kern",
     "language": "Python",
@@ -16,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-09-20T12:22:39Z",
     "url": "https://github.com/SeupLio/ai-npc-agent"
-  },
-  {
-    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
-    "id": "bigduu/Zenith",
-    "language": "JavaScript",
-    "name": "bigduu/Zenith",
-    "stars": 6,
-    "updated_at": "2026-09-20T12:09:26Z",
-    "url": "https://github.com/bigduu/Zenith"
   },
   {
     "description": "An autonomous on-call agent that investigates and remediates incidents on the Incident Platform through its MCP tool sur",
@@ -70,15 +88,6 @@
     "stars": 9,
     "updated_at": "2026-09-20T12:03:59Z",
     "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "A compass for autonomous agents, not an operating manual.",
-    "id": "tachyon-r/first-principles-agent-soul",
-    "language": "\u2014",
-    "name": "tachyon-r/first-principles-agent-soul",
-    "stars": 1,
-    "updated_at": "2026-09-20T12:03:47Z",
-    "url": "https://github.com/tachyon-r/first-principles-agent-soul"
   },
   {
     "description": "A game-agnostic LLM agent runtime for autonomous NPCs, with Stardew Valley as the first real-world adapter.",
@@ -410,7 +419,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-09-20T12:24:46Z",
+    "updated_at": "2026-09-20T12:34:03Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-20T11:09:19Z",
     "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-09-20T11:06:45Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
   }
 ]
