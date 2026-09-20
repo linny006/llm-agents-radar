@@ -1,5 +1,122 @@
 [
   {
+    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
+    "id": "axxafo/awesome-agent-benchmarks",
+    "language": "\u2014",
+    "name": "axxafo/awesome-agent-benchmarks",
+    "stars": 3,
+    "updated_at": "2026-09-20T03:14:35Z",
+    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-09-20T03:09:37Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-09-20T03:07:40Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "Local-first long-term memory and safer context compression for Hermes Agent \u2014 SQLite, no required services.",
+    "id": "indigokarasu/chronicle-agent-context-and-memory",
+    "language": "Python",
+    "name": "indigokarasu/chronicle-agent-context-and-memory",
+    "stars": 6,
+    "updated_at": "2026-09-20T03:06:29Z",
+    "url": "https://github.com/indigokarasu/chronicle-agent-context-and-memory"
+  },
+  {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-09-20T03:05:44Z",
+    "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
+    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
+    "id": "555cute/r20-quantum-trader",
+    "language": "Python",
+    "name": "555cute/r20-quantum-trader",
+    "stars": 214,
+    "updated_at": "2026-09-20T03:05:41Z",
+    "url": "https://github.com/555cute/r20-quantum-trader"
+  },
+  {
+    "description": "Scientific literature agent for grounded RAG, structured fact extraction, cross-paper quantitative analysis, evidence-tr",
+    "id": "KihonnyTsang/LiteratureAgent",
+    "language": "Python",
+    "name": "KihonnyTsang/LiteratureAgent",
+    "stars": 1,
+    "updated_at": "2026-09-20T03:05:00Z",
+    "url": "https://github.com/KihonnyTsang/LiteratureAgent"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-09-20T03:04:40Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
+    "id": "agentscope-ai/agentscope-go",
+    "language": "Go",
+    "name": "agentscope-ai/agentscope-go",
+    "stars": 42,
+    "updated_at": "2026-09-20T03:04:18Z",
+    "url": "https://github.com/agentscope-ai/agentscope-go"
+  },
+  {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-20T03:03:30Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
+    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "language": "JavaScript",
+    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "stars": 1,
+    "updated_at": "2026-09-20T03:02:38Z",
+    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-09-20T03:00:27Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "Build an AI Coding Agent from Scratch, Step by Step | \u4ece\u96f6\u4e00\u6b65\u6b65\u642d\u5efa AI \u7f16\u7a0b Agent\uff0c\u8fb9\u5b9e\u73b0\u8fb9\u7406\u89e3 Agent \u7684\u5de5\u4f5c\u539f\u7406",
+    "id": "liiiiiiiiil/agent-from-scratch",
+    "language": "Python",
+    "name": "liiiiiiiiil/agent-from-scratch",
+    "stars": 87,
+    "updated_at": "2026-09-20T03:00:19Z",
+    "url": "https://github.com/liiiiiiiiil/agent-from-scratch"
+  },
+  {
     "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
     "id": "WP2-Danikusuma/AgentX",
     "language": "HTML",
@@ -9,7 +126,7 @@
     "url": "https://github.com/WP2-Danikusuma/AgentX"
   },
   {
-    "description": "Enterprise backend for coding agents (control plane + trajectory data plane)",
+    "description": "sid-code \u4e0e claude-trace \u5171\u540c\u9762\u5bf9\u7684\u4f01\u4e1a\u7ea7\u540e\u7aef\uff1a\u63a7\u5236\u9762\uff08policy / flag / \u8eab\u4efd\uff09\u4e0e\u6570\u636e\u9762\uff08\u8f68\u8ff9 / \u4e8b\u4ef6\uff09\u540c\u4ed3\u3001\u9274\u6743\u9694\u79bb\u3002\u5df2\u4ea4\u4ed8\u8f68\u8ff9\u5b58\u50a8\u4e0e\u5206\u6790\uff0c\u5176\u4f59\u6a21\u5757\u6309\u91cc\u7a0b\u7891\u8fed\u4ee3",
     "id": "njfuzrs/agent-backend",
     "language": "Python",
     "name": "njfuzrs/agent-backend",
@@ -18,39 +135,12 @@
     "url": "https://github.com/njfuzrs/agent-backend"
   },
   {
-    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
-    "id": "kangwoo/aimon-core",
-    "language": "Java",
-    "name": "kangwoo/aimon-core",
-    "stars": 0,
-    "updated_at": "2026-09-20T02:53:52Z",
-    "url": "https://github.com/kangwoo/aimon-core"
-  },
-  {
-    "description": "Local-first long-term memory and safer context compression for Hermes Agent \u2014 SQLite, no required services.",
-    "id": "indigokarasu/chronicle-agent-context-and-memory",
-    "language": "Python",
-    "name": "indigokarasu/chronicle-agent-context-and-memory",
-    "stars": 6,
-    "updated_at": "2026-09-20T02:52:49Z",
-    "url": "https://github.com/indigokarasu/chronicle-agent-context-and-memory"
-  },
-  {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-20T02:50:34Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
     "id": "rohithkandula19/Ronin",
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-09-20T03:00:11Z",
+    "updated_at": "2026-09-20T03:06:18Z",
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
@@ -81,21 +171,12 @@
     "url": "https://github.com/SunWoo1213/Relationship"
   },
   {
-    "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI ",
-    "id": "555cute/r20-quantum-trader",
-    "language": "Python",
-    "name": "555cute/r20-quantum-trader",
-    "stars": 213,
-    "updated_at": "2026-09-20T02:33:51Z",
-    "url": "https://github.com/555cute/r20-quantum-trader"
-  },
-  {
     "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
     "id": "areal-project/AReaL",
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5778,
-    "updated_at": "2026-09-20T02:38:40Z",
+    "updated_at": "2026-09-20T03:12:53Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -169,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T02:13:20Z",
     "url": "https://github.com/OleksiyPenkov/xrr-fitting-skill-data"
-  },
-  {
-    "description": "Build an AI Coding Agent from Scratch, Step by Step | \u4ece\u96f6\u4e00\u6b65\u6b65\u642d\u5efa AI \u7f16\u7a0b Agent\uff0c\u8fb9\u5b9e\u73b0\u8fb9\u7406\u89e3 Agent \u7684\u5de5\u4f5c\u539f\u7406",
-    "id": "liiiiiiiiil/agent-from-scratch",
-    "language": "Python",
-    "name": "liiiiiiiiil/agent-from-scratch",
-    "stars": 87,
-    "updated_at": "2026-09-20T01:55:07Z",
-    "url": "https://github.com/liiiiiiiiil/agent-from-scratch"
   },
   {
     "description": "Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi",
@@ -351,15 +423,6 @@
     "url": "https://github.com/Danisxxx/comfyUI-LongLook"
   },
   {
-    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
-    "id": "axxafo/awesome-agent-benchmarks",
-    "language": "\u2014",
-    "name": "axxafo/awesome-agent-benchmarks",
-    "stars": 3,
-    "updated_at": "2026-09-20T01:23:04Z",
-    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
@@ -382,71 +445,8 @@
     "id": "MingyiSecLab/Atlas",
     "language": "TypeScript",
     "name": "MingyiSecLab/Atlas",
-    "stars": 14,
+    "stars": 15,
     "updated_at": "2026-09-20T01:18:10Z",
     "url": "https://github.com/MingyiSecLab/Atlas"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-09-20T01:18:05Z",
-    "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-09-20T01:16:16Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "A game-agnostic LLM agent runtime for autonomous NPCs, with Stardew Valley as the first real-world adapter.",
-    "id": "zlci7/world-is-agent",
-    "language": "Go",
-    "name": "zlci7/world-is-agent",
-    "stars": 0,
-    "updated_at": "2026-09-20T01:14:58Z",
-    "url": "https://github.com/zlci7/world-is-agent"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-09-20T01:13:10Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
-    "id": "SHUKLAO/call-with-ai-agent",
-    "language": "\u2014",
-    "name": "SHUKLAO/call-with-ai-agent",
-    "stars": 3,
-    "updated_at": "2026-09-20T01:08:57Z",
-    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "An observable & evaluable multi-LLM-agent collaboration framework",
-    "id": "hh3571308801/MultiAgentLab",
-    "language": "Python",
-    "name": "hh3571308801/MultiAgentLab",
-    "stars": 0,
-    "updated_at": "2026-09-20T01:03:34Z",
-    "url": "https://github.com/hh3571308801/MultiAgentLab"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 342,
-    "updated_at": "2026-09-20T01:01:09Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   }
 ]
