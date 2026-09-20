@@ -1,5 +1,41 @@
 [
   {
+    "description": "dsh plugin: a Cursor-style /ask mode for DeepSeek Harness \u2014 /ask <question> answers read-only for one turn (cited, no ed",
+    "id": "x102201/dsh-helper-plugin-command-ask",
+    "language": "JavaScript",
+    "name": "x102201/dsh-helper-plugin-command-ask",
+    "stars": 0,
+    "updated_at": "2026-09-20T06:13:18Z",
+    "url": "https://github.com/x102201/dsh-helper-plugin-command-ask"
+  },
+  {
+    "description": "Vetix \u2014 Automated scanning, identification, and assessment of SKILL security risks, based on Golang.",
+    "id": "HuTa0kj/vetix",
+    "language": "Go",
+    "name": "HuTa0kj/vetix",
+    "stars": 61,
+    "updated_at": "2026-09-20T06:12:47Z",
+    "url": "https://github.com/HuTa0kj/vetix"
+  },
+  {
+    "description": "An autonomous on-call agent that investigates and remediates incidents on the Incident Platform through its MCP tool sur",
+    "id": "kudratsingh/incident-commander",
+    "language": "Python",
+    "name": "kudratsingh/incident-commander",
+    "stars": 0,
+    "updated_at": "2026-09-20T06:12:34Z",
+    "url": "https://github.com/kudratsingh/incident-commander"
+  },
+  {
+    "description": "Build an AI Coding Agent from Scratch, Step by Step | \u4ece\u96f6\u4e00\u6b65\u6b65\u642d\u5efa AI \u7f16\u7a0b Agent\uff0c\u8fb9\u5b9e\u73b0\u8fb9\u7406\u89e3 Agent \u7684\u5de5\u4f5c\u539f\u7406",
+    "id": "liiiiiiiiil/agent-from-scratch",
+    "language": "Python",
+    "name": "liiiiiiiiil/agent-from-scratch",
+    "stars": 87,
+    "updated_at": "2026-09-20T06:10:15Z",
+    "url": "https://github.com/liiiiiiiiil/agent-from-scratch"
+  },
+  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -176,7 +212,7 @@
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 273,
-    "updated_at": "2026-09-20T05:52:05Z",
+    "updated_at": "2026-09-20T06:14:01Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
@@ -391,7 +427,7 @@
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 342,
+    "stars": 343,
     "updated_at": "2026-09-20T05:01:01Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
@@ -405,15 +441,6 @@
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
-    "description": "An autonomous on-call agent that investigates and remediates incidents on the Incident Platform through its MCP tool sur",
-    "id": "kudratsingh/incident-commander",
-    "language": "Python",
-    "name": "kudratsingh/incident-commander",
-    "stars": 0,
-    "updated_at": "2026-09-20T05:49:16Z",
-    "url": "https://github.com/kudratsingh/incident-commander"
-  },
-  {
     "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
     "id": "chunleik/self-analyst",
     "language": "Java",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-20T04:51:08Z",
     "url": "https://github.com/chunleik/self-analyst"
-  },
-  {
-    "description": "Drop-in OpenAI/Anthropic proxy that cuts long-horizon agent prompt tokens 60-95% via SKILL.state (arXiv:2608.26263). MIT",
-    "id": "NosytLabs/skillstate-proxy",
-    "language": "TypeScript",
-    "name": "NosytLabs/skillstate-proxy",
-    "stars": 3,
-    "updated_at": "2026-09-20T04:36:27Z",
-    "url": "https://github.com/NosytLabs/skillstate-proxy"
-  },
-  {
-    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
-    "id": "bigduu/Zenith",
-    "language": "JavaScript",
-    "name": "bigduu/Zenith",
-    "stars": 6,
-    "updated_at": "2026-09-20T04:19:49Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-20T04:19:07Z",
-    "url": "https://github.com/tomcounsell/ai"
   }
 ]
