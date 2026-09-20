@@ -1,12 +1,21 @@
 [
   {
-    "description": "Reproduction of Emotional RAG (arXiv:2410.23041) on a single 6GB GPU, plus a speech-emotion multimodal extension: Plutch",
-    "id": "SeupLio/emotional-rag-repro",
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
-    "name": "SeupLio/emotional-rag-repro",
+    "name": "aiterrariumcontrol/terrarium-life",
     "stars": 0,
-    "updated_at": "2026-09-20T17:44:00Z",
-    "url": "https://github.com/SeupLio/emotional-rag-repro"
+    "updated_at": "2026-09-20T17:57:40Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 130,
+    "updated_at": "2026-09-20T17:56:57Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "Unified LLM Platform that allows you to host your own models locally and access them from across the world",
@@ -14,8 +23,143 @@
     "language": "Python",
     "name": "noahhps/Courier",
     "stars": 0,
-    "updated_at": "2026-09-20T17:42:56Z",
+    "updated_at": "2026-09-20T17:55:50Z",
     "url": "https://github.com/noahhps/Courier"
+  },
+  {
+    "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
+    "id": "rugose-learnedprofession58/pi-dsh",
+    "language": "TypeScript",
+    "name": "rugose-learnedprofession58/pi-dsh",
+    "stars": 0,
+    "updated_at": "2026-09-20T17:55:36Z",
+    "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
+  },
+  {
+    "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
+    "id": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
+    "language": "JavaScript",
+    "name": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
+    "stars": 1,
+    "updated_at": "2026-09-20T17:54:43Z",
+    "url": "https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder"
+  },
+  {
+    "description": "Verify area values quickly with this web-based HTML calculator tool.",
+    "id": "passive-hotpepper515/area-checker-html-tool",
+    "language": "HTML",
+    "name": "passive-hotpepper515/area-checker-html-tool",
+    "stars": 0,
+    "updated_at": "2026-09-20T17:54:21Z",
+    "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
+  },
+  {
+    "description": "Agentic RAG over PDFs with a live, step-by-step reasoning trace. FastAPI + Gemini function calling + FAISS, streamed to ",
+    "id": "DhanushaVardhan/agenttrace",
+    "language": "Python",
+    "name": "DhanushaVardhan/agenttrace",
+    "stars": 0,
+    "updated_at": "2026-09-20T17:53:39Z",
+    "url": "https://github.com/DhanushaVardhan/agenttrace"
+  },
+  {
+    "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
+    "id": "Blondieredistributed612/pocket-agent",
+    "language": "Python",
+    "name": "Blondieredistributed612/pocket-agent",
+    "stars": 2,
+    "updated_at": "2026-09-20T17:53:02Z",
+    "url": "https://github.com/Blondieredistributed612/pocket-agent"
+  },
+  {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-20T17:52:42Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-09-20T17:51:50Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
+    "id": "bettersilvanus849/inner-coordinates",
+    "language": "Shell",
+    "name": "bettersilvanus849/inner-coordinates",
+    "stars": 1,
+    "updated_at": "2026-09-20T17:49:59Z",
+    "url": "https://github.com/bettersilvanus849/inner-coordinates"
+  },
+  {
+    "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
+    "id": "Blaz742/web-pentest-lab",
+    "language": "\u2014",
+    "name": "Blaz742/web-pentest-lab",
+    "stars": 0,
+    "updated_at": "2026-09-20T17:49:09Z",
+    "url": "https://github.com/Blaz742/web-pentest-lab"
+  },
+  {
+    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
+    "id": "Elevated-homer201/prompt-gate",
+    "language": "\u2014",
+    "name": "Elevated-homer201/prompt-gate",
+    "stars": 1,
+    "updated_at": "2026-09-20T17:48:42Z",
+    "url": "https://github.com/Elevated-homer201/prompt-gate"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-20T17:48:26Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
+    "id": "Indrasclerotinia71/local-ai-research-assistant",
+    "language": "Python",
+    "name": "Indrasclerotinia71/local-ai-research-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-20T17:47:37Z",
+    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
+  },
+  {
+    "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
+    "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
+    "language": "Python",
+    "name": "Furrowed-subphylumurochorda108/kimi-K2.6",
+    "stars": 3,
+    "updated_at": "2026-09-20T17:46:19Z",
+    "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
+  },
+  {
+    "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
+    "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
+    "language": "\u2014",
+    "name": "mpardakaskon-boop/obsidian-llm-wiki-local",
+    "stars": 1,
+    "updated_at": "2026-09-20T17:45:53Z",
+    "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
+  },
+  {
+    "description": "Reproduction of Emotional RAG (arXiv:2410.23041) on a single 6GB GPU, plus a speech-emotion multimodal extension: Plutch",
+    "id": "SeupLio/emotional-rag-repro",
+    "language": "Python",
+    "name": "SeupLio/emotional-rag-repro",
+    "stars": 0,
+    "updated_at": "2026-09-20T17:44:00Z",
+    "url": "https://github.com/SeupLio/emotional-rag-repro"
   },
   {
     "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
@@ -34,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-09-20T17:41:23Z",
     "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "Agentic RAG over PDFs with a live, step-by-step reasoning trace. FastAPI + Gemini function calling + FAISS, streamed to ",
-    "id": "DhanushaVardhan/agenttrace",
-    "language": "Python",
-    "name": "DhanushaVardhan/agenttrace",
-    "stars": 0,
-    "updated_at": "2026-09-20T17:40:51Z",
-    "url": "https://github.com/DhanushaVardhan/agenttrace"
   },
   {
     "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
@@ -176,7 +311,7 @@
     "language": "Python",
     "name": "diaban/jobsmith",
     "stars": 0,
-    "updated_at": "2026-09-20T17:29:45Z",
+    "updated_at": "2026-09-20T17:52:15Z",
     "url": "https://github.com/diaban/jobsmith"
   },
   {
@@ -234,15 +369,6 @@
     "url": "https://github.com/HAICoLab/sogang_renAIssance"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 9,
-    "updated_at": "2026-09-20T17:03:11Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -270,15 +396,6 @@
     "url": "https://github.com/bigduu/Zenith"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-09-20T16:56:44Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "\u7ea6 700 \u884c\u7684\u591a Agent \u6846\u67b6\uff1a\u7c7b\u578b\u5316\u5de5\u5177\u8c03\u7528\u3001Swarm handoff \u8def\u7531\u3001map-reduce \u56e2\u961f\u3001\u62a4\u680f\u4e0e\u8bb0\u5fc6\uff0cMockLLM \u9a71\u52a8\u5168\u6d4b\u8bd5",
     "id": "JingHao-Leon/agent-mesh",
     "language": "Python",
@@ -295,15 +412,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T16:45:04Z",
     "url": "https://github.com/kudratsingh/incident-commander"
-  },
-  {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-20T16:39:39Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "Minimal surface, complete architecture: a small, local-first coding-agent harness that re-derives the invariants of Deep",
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-20T16:13:15Z",
     "url": "https://github.com/leo-bone/macro-dashboard"
-  },
-  {
-    "description": "Trading comps agent skill: peer screening, multiple alignment, quartile math in a tested script \u2014 the agent never does t",
-    "id": "leo-bone/valuation-comps",
-    "language": "Python",
-    "name": "leo-bone/valuation-comps",
-    "stars": 0,
-    "updated_at": "2026-09-20T16:12:24Z",
-    "url": "https://github.com/leo-bone/valuation-comps"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-09-20T16:11:05Z",
-    "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "All-in-one agent harness for Claude Code \u2014 Boss meta-orchestrator, 32 curated agents, 139 curated skills, 2 named workfl",
-    "id": "sehoon787/my-claude",
-    "language": "JavaScript",
-    "name": "sehoon787/my-claude",
-    "stars": 16,
-    "updated_at": "2026-09-20T16:09:44Z",
-    "url": "https://github.com/sehoon787/my-claude"
-  },
-  {
-    "description": "Synthetic CRM\u2192ERP exception-handling agent: the model explains; the application decides what may execute. Published with",
-    "id": "ihatovremains/production-agent-portfolio",
-    "language": "JavaScript",
-    "name": "ihatovremains/production-agent-portfolio",
-    "stars": 0,
-    "updated_at": "2026-09-20T16:05:11Z",
-    "url": "https://github.com/ihatovremains/production-agent-portfolio"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 128,
-    "updated_at": "2026-09-20T15:52:34Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 3,
-    "updated_at": "2026-09-20T15:50:57Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
-    "id": "rugose-learnedprofession58/pi-dsh",
-    "language": "TypeScript",
-    "name": "rugose-learnedprofession58/pi-dsh",
-    "stars": 0,
-    "updated_at": "2026-09-20T15:44:43Z",
-    "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
-  },
-  {
-    "description": "AI cross-channel progressive insight extractor synthesizing academic papers, notes, and discussions into profound system",
-    "id": "Bowen-0x00/insight-engine",
-    "language": "Python",
-    "name": "Bowen-0x00/insight-engine",
-    "stars": 1,
-    "updated_at": "2026-09-20T15:44:18Z",
-    "url": "https://github.com/Bowen-0x00/insight-engine"
-  },
-  {
-    "description": "AI-powered social radar agent monitoring Zhihu & X for high-value tech insights with WeChat instant notifications & anti",
-    "id": "Bowen-0x00/social-radar",
-    "language": "Python",
-    "name": "Bowen-0x00/social-radar",
-    "stars": 1,
-    "updated_at": "2026-09-20T15:44:01Z",
-    "url": "https://github.com/Bowen-0x00/social-radar"
-  },
-  {
-    "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
-    "id": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
-    "language": "JavaScript",
-    "name": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
-    "stars": 1,
-    "updated_at": "2026-09-20T15:43:49Z",
-    "url": "https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder"
-  },
-  {
-    "description": "AI-powered multi-mailbox monitoring agent (Gmail, QQ, Edu) with WeChat instant notifications & arXiv/Scholar paper readi",
-    "id": "Bowen-0x00/mail-assist",
-    "language": "Python",
-    "name": "Bowen-0x00/mail-assist",
-    "stars": 1,
-    "updated_at": "2026-09-20T15:43:48Z",
-    "url": "https://github.com/Bowen-0x00/mail-assist"
-  },
-  {
-    "description": "Verify area values quickly with this web-based HTML calculator tool.",
-    "id": "passive-hotpepper515/area-checker-html-tool",
-    "language": "HTML",
-    "name": "passive-hotpepper515/area-checker-html-tool",
-    "stars": 0,
-    "updated_at": "2026-09-20T15:43:31Z",
-    "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
   }
 ]
