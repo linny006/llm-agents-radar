@@ -1,5 +1,59 @@
 [
   {
+    "description": "An autonomous on-call agent that investigates and remediates incidents on the Incident Platform through its MCP tool sur",
+    "id": "kudratsingh/incident-commander",
+    "language": "Python",
+    "name": "kudratsingh/incident-commander",
+    "stars": 0,
+    "updated_at": "2026-09-20T16:45:04Z",
+    "url": "https://github.com/kudratsingh/incident-commander"
+  },
+  {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-20T16:39:39Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Minimal surface, complete architecture: a small, local-first coding-agent harness that re-derives the invariants of Deep",
+    "id": "earthwalker17/MiniDSH",
+    "language": "TypeScript",
+    "name": "earthwalker17/MiniDSH",
+    "stars": 9,
+    "updated_at": "2026-09-20T16:39:24Z",
+    "url": "https://github.com/earthwalker17/MiniDSH"
+  },
+  {
+    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
+    "id": "bigduu/Zenith",
+    "language": "JavaScript",
+    "name": "bigduu/Zenith",
+    "stars": 6,
+    "updated_at": "2026-09-20T16:37:31Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 19,
+    "updated_at": "2026-09-20T16:35:24Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-20T16:33:08Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
     "description": "All-in-one agent harness for OpenAI Codex CLI \u2014 Boss meta-orchestrator, 17 curated agents (+17 opt-in AI specialists), 1",
     "id": "sehoon787/my-codex",
     "language": "Shell",
@@ -61,15 +115,6 @@
     "stars": 28,
     "updated_at": "2026-09-20T16:09:37Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 9,
-    "updated_at": "2026-09-20T16:03:08Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -223,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-09-20T15:34:52Z",
     "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-20T15:33:34Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-20T15:03:06Z",
     "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
-    "id": "bigduu/Zenith",
-    "language": "JavaScript",
-    "name": "bigduu/Zenith",
-    "stars": 6,
-    "updated_at": "2026-09-20T15:01:41Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-09-20T15:00:06Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "MLOps platform: LangGraph agent (OpenRouter/GLM-4.6), Neo4j knowledge graph, FastAPI inference, Airflow pipelines, Datad",
-    "id": "iamvisheshsrivastava/AirKube",
-    "language": "Python",
-    "name": "iamvisheshsrivastava/AirKube",
-    "stars": 1,
-    "updated_at": "2026-09-20T14:57:09Z",
-    "url": "https://github.com/iamvisheshsrivastava/AirKube"
-  },
-  {
-    "description": "TypeSafe Jev plays Flappy Bird via flappy-bird-gymnasium, spectated live over WebSocket/FastAPI",
-    "id": "Vidit-Ostwal/Jev-Playing-Flipping-Birds",
-    "language": "Python",
-    "name": "Vidit-Ostwal/Jev-Playing-Flipping-Birds",
-    "stars": 0,
-    "updated_at": "2026-09-20T14:56:59Z",
-    "url": "https://github.com/Vidit-Ostwal/Jev-Playing-Flipping-Birds"
   }
 ]
