@@ -1,5 +1,32 @@
 [
   {
+    "description": "An observable & evaluable multi-LLM-agent collaboration framework",
+    "id": "hh3571308801/MultiAgentLab",
+    "language": "Python",
+    "name": "hh3571308801/MultiAgentLab",
+    "stars": 0,
+    "updated_at": "2026-09-20T00:57:44Z",
+    "url": "https://github.com/hh3571308801/MultiAgentLab"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 128,
+    "updated_at": "2026-09-20T00:54:17Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 3,
+    "updated_at": "2026-09-20T00:53:51Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "\u9002\u7528\u4e8e Claude Code \u548c Codex \u7684\u6c42\u804c Skill\uff1a\u67e5\u627e\u5c97\u4f4d\u3001\u5224\u65ad\u662f\u5426\u503c\u5f97\u6295\u9012\u3001\u5236\u4f5c\u7b80\u5386\u4e0e\u7533\u8bf7\u6750\u6599\u3001\u68c0\u9a8c\u7533\u8bf7\u6750\u6599\u5e76\u6a21\u62df\u9762\u8bd5\u3002\u4e0d\u7f16\u9020\u6280\u80fd\u6216\u4e1a\u7ee9\u6570\u5b57\uff0c\u4e0d\u9884\u6d4b\u5f55\u7528\u6982\u7387\uff1b\u68c0\u67e5\u7b80\u5386\u662f\u5426\u4fbf\u4e8e\u62db\u8058\u7ba1\u7406\u7cfb\u7edf\uff08ATS\uff09\u8bfb\u53d6\uff0c\u5e76\u4ece\u62db\u8058\u4eba\u5458\u548c\u7528\u4eba",
     "id": "addsumtech/job-hunt",
     "language": "Python",
@@ -16,15 +43,6 @@
     "stars": 130,
     "updated_at": "2026-09-20T00:38:58Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "An observable & evaluable multi-LLM-agent collaboration framework",
-    "id": "hh3571308801/MultiAgentLab",
-    "language": "Python",
-    "name": "hh3571308801/MultiAgentLab",
-    "stars": 0,
-    "updated_at": "2026-09-20T00:34:45Z",
-    "url": "https://github.com/hh3571308801/MultiAgentLab"
   },
   {
     "description": "An autopoiesic kefir for computing machines",
@@ -76,7 +94,7 @@
     "id": "csnyder256/RAG-OS",
     "language": "Python",
     "name": "csnyder256/RAG-OS",
-    "stars": 5,
+    "stars": 6,
     "updated_at": "2026-09-20T00:01:42Z",
     "url": "https://github.com/csnyder256/RAG-OS"
   },
@@ -385,24 +403,6 @@
     "stars": 5,
     "updated_at": "2026-09-19T22:51:12Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 128,
-    "updated_at": "2026-09-19T22:50:07Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 3,
-    "updated_at": "2026-09-19T22:49:29Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Cross-agent plugin for manually excluding and editing AI conversation context, with search, filtering, hide/restore, und",
