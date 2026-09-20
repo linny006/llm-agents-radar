@@ -1,5 +1,104 @@
 [
   {
+    "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
+    "id": "rugose-learnedprofession58/pi-dsh",
+    "language": "TypeScript",
+    "name": "rugose-learnedprofession58/pi-dsh",
+    "stars": 0,
+    "updated_at": "2026-09-20T21:59:59Z",
+    "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
+  },
+  {
+    "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
+    "id": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
+    "language": "JavaScript",
+    "name": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
+    "stars": 1,
+    "updated_at": "2026-09-20T21:59:10Z",
+    "url": "https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder"
+  },
+  {
+    "description": "Verify area values quickly with this web-based HTML calculator tool.",
+    "id": "passive-hotpepper515/area-checker-html-tool",
+    "language": "HTML",
+    "name": "passive-hotpepper515/area-checker-html-tool",
+    "stars": 0,
+    "updated_at": "2026-09-20T21:58:42Z",
+    "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
+  },
+  {
+    "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
+    "id": "Blondieredistributed612/pocket-agent",
+    "language": "Python",
+    "name": "Blondieredistributed612/pocket-agent",
+    "stars": 2,
+    "updated_at": "2026-09-20T21:57:31Z",
+    "url": "https://github.com/Blondieredistributed612/pocket-agent"
+  },
+  {
+    "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
+    "id": "bettersilvanus849/inner-coordinates",
+    "language": "Shell",
+    "name": "bettersilvanus849/inner-coordinates",
+    "stars": 1,
+    "updated_at": "2026-09-20T21:54:30Z",
+    "url": "https://github.com/bettersilvanus849/inner-coordinates"
+  },
+  {
+    "description": "Offline $0 decision layer for coding agents: Choice/Score/Noul primitives, BELKI confidence gatekeeper, ultra-planning, ",
+    "id": "Kadihx/jev-x-kit",
+    "language": "TypeScript",
+    "name": "Kadihx/jev-x-kit",
+    "stars": 0,
+    "updated_at": "2026-09-20T21:53:59Z",
+    "url": "https://github.com/Kadihx/jev-x-kit"
+  },
+  {
+    "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
+    "id": "Blaz742/web-pentest-lab",
+    "language": "\u2014",
+    "name": "Blaz742/web-pentest-lab",
+    "stars": 0,
+    "updated_at": "2026-09-20T21:53:36Z",
+    "url": "https://github.com/Blaz742/web-pentest-lab"
+  },
+  {
+    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
+    "id": "Elevated-homer201/prompt-gate",
+    "language": "\u2014",
+    "name": "Elevated-homer201/prompt-gate",
+    "stars": 1,
+    "updated_at": "2026-09-20T21:53:16Z",
+    "url": "https://github.com/Elevated-homer201/prompt-gate"
+  },
+  {
+    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
+    "id": "Indrasclerotinia71/local-ai-research-assistant",
+    "language": "Python",
+    "name": "Indrasclerotinia71/local-ai-research-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-20T21:52:10Z",
+    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
+  },
+  {
+    "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
+    "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
+    "language": "Python",
+    "name": "Furrowed-subphylumurochorda108/kimi-K2.6",
+    "stars": 3,
+    "updated_at": "2026-09-20T21:50:53Z",
+    "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
+  },
+  {
+    "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
+    "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
+    "language": "\u2014",
+    "name": "mpardakaskon-boop/obsidian-llm-wiki-local",
+    "stars": 1,
+    "updated_at": "2026-09-20T21:50:29Z",
+    "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
+  },
+  {
     "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
     "id": "HELLOCODINGTR/AgentForge",
     "language": "\u2014",
@@ -124,15 +223,6 @@
     "stars": 2,
     "updated_at": "2026-09-20T21:33:36Z",
     "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
-  },
-  {
-    "description": "Offline $0 decision layer for coding agents: Choice/Score/Noul primitives, BELKI confidence gatekeeper, ultra-planning, ",
-    "id": "Kadihx/jev-x-kit",
-    "language": "TypeScript",
-    "name": "Kadihx/jev-x-kit",
-    "stars": 0,
-    "updated_at": "2026-09-20T21:32:49Z",
-    "url": "https://github.com/Kadihx/jev-x-kit"
   },
   {
     "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
@@ -297,96 +387,6 @@
     "url": "https://github.com/gptme/gptme"
   },
   {
-    "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
-    "id": "rugose-learnedprofession58/pi-dsh",
-    "language": "TypeScript",
-    "name": "rugose-learnedprofession58/pi-dsh",
-    "stars": 0,
-    "updated_at": "2026-09-20T19:50:58Z",
-    "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
-  },
-  {
-    "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
-    "id": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
-    "language": "JavaScript",
-    "name": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
-    "stars": 1,
-    "updated_at": "2026-09-20T19:50:05Z",
-    "url": "https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder"
-  },
-  {
-    "description": "Verify area values quickly with this web-based HTML calculator tool.",
-    "id": "passive-hotpepper515/area-checker-html-tool",
-    "language": "HTML",
-    "name": "passive-hotpepper515/area-checker-html-tool",
-    "stars": 0,
-    "updated_at": "2026-09-20T19:49:44Z",
-    "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
-  },
-  {
-    "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
-    "id": "Blondieredistributed612/pocket-agent",
-    "language": "Python",
-    "name": "Blondieredistributed612/pocket-agent",
-    "stars": 2,
-    "updated_at": "2026-09-20T19:48:31Z",
-    "url": "https://github.com/Blondieredistributed612/pocket-agent"
-  },
-  {
-    "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
-    "id": "bettersilvanus849/inner-coordinates",
-    "language": "Shell",
-    "name": "bettersilvanus849/inner-coordinates",
-    "stars": 1,
-    "updated_at": "2026-09-20T19:45:26Z",
-    "url": "https://github.com/bettersilvanus849/inner-coordinates"
-  },
-  {
-    "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
-    "id": "Blaz742/web-pentest-lab",
-    "language": "\u2014",
-    "name": "Blaz742/web-pentest-lab",
-    "stars": 0,
-    "updated_at": "2026-09-20T19:44:31Z",
-    "url": "https://github.com/Blaz742/web-pentest-lab"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 1,
-    "updated_at": "2026-09-20T19:44:12Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
-    "id": "Indrasclerotinia71/local-ai-research-assistant",
-    "language": "Python",
-    "name": "Indrasclerotinia71/local-ai-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-20T19:43:04Z",
-    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
-  },
-  {
-    "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
-    "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "language": "Python",
-    "name": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "stars": 3,
-    "updated_at": "2026-09-20T19:41:49Z",
-    "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
-  },
-  {
-    "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
-    "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "language": "\u2014",
-    "name": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "stars": 1,
-    "updated_at": "2026-09-20T19:41:21Z",
-    "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
     "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
     "id": "410979729/scope-recall-hermes",
     "language": "Python",
@@ -427,7 +427,7 @@
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
-    "stars": 3087,
+    "stars": 3088,
     "updated_at": "2026-09-20T19:20:19Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
