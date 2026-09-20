@@ -1,12 +1,66 @@
 [
   {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-09-20T15:00:06Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "A game-agnostic LLM agent runtime for autonomous NPCs, with Stardew Valley as the first real-world adapter.",
+    "id": "zlci7/world-is-agent",
+    "language": "Go",
+    "name": "zlci7/world-is-agent",
+    "stars": 0,
+    "updated_at": "2026-09-20T14:57:24Z",
+    "url": "https://github.com/zlci7/world-is-agent"
+  },
+  {
+    "description": "MLOps platform: LangGraph agent (OpenRouter/GLM-4.6), Neo4j knowledge graph, FastAPI inference, Airflow pipelines, Datad",
+    "id": "iamvisheshsrivastava/AirKube",
+    "language": "Python",
+    "name": "iamvisheshsrivastava/AirKube",
+    "stars": 1,
+    "updated_at": "2026-09-20T14:57:09Z",
+    "url": "https://github.com/iamvisheshsrivastava/AirKube"
+  },
+  {
     "description": "TypeSafe Jev plays Flappy Bird via flappy-bird-gymnasium, spectated live over WebSocket/FastAPI",
     "id": "Vidit-Ostwal/Jev-Playing-Flipping-Birds",
     "language": "Python",
     "name": "Vidit-Ostwal/Jev-Playing-Flipping-Birds",
     "stars": 0,
-    "updated_at": "2026-09-20T14:44:54Z",
+    "updated_at": "2026-09-20T14:56:59Z",
     "url": "https://github.com/Vidit-Ostwal/Jev-Playing-Flipping-Birds"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-09-20T14:51:39Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-20T14:49:01Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
+    "id": "bigfish1913/pi-rust",
+    "language": "Rust",
+    "name": "bigfish1913/pi-rust",
+    "stars": 26,
+    "updated_at": "2026-09-20T14:45:28Z",
+    "url": "https://github.com/bigfish1913/pi-rust"
   },
   {
     "description": "Distilled-note knowledge base for AI agents: zero-dependency BM25 retrieval + provenance + retraction/conflict governanc",
@@ -34,24 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T14:33:21Z",
     "url": "https://github.com/watchcat/scout"
-  },
-  {
-    "description": "A game-agnostic LLM agent runtime for autonomous NPCs, with Stardew Valley as the first real-world adapter.",
-    "id": "zlci7/world-is-agent",
-    "language": "Go",
-    "name": "zlci7/world-is-agent",
-    "stars": 0,
-    "updated_at": "2026-09-20T14:32:49Z",
-    "url": "https://github.com/zlci7/world-is-agent"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-09-20T14:31:32Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
@@ -106,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T14:25:03Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 9,
-    "updated_at": "2026-09-20T14:19:32Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -421,32 +448,5 @@
     "stars": 24,
     "updated_at": "2026-09-20T13:22:03Z",
     "url": "https://github.com/SugarMGP/MumuBot"
-  },
-  {
-    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
-    "id": "amineeng/scraping-browser",
-    "language": "\u2014",
-    "name": "amineeng/scraping-browser",
-    "stars": 1,
-    "updated_at": "2026-09-20T13:21:32Z",
-    "url": "https://github.com/amineeng/scraping-browser"
-  },
-  {
-    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
-    "id": "Saran1536/ComfyUI-LoaderUtils",
-    "language": "Python",
-    "name": "Saran1536/ComfyUI-LoaderUtils",
-    "stars": 0,
-    "updated_at": "2026-09-20T13:19:06Z",
-    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 0,
-    "updated_at": "2026-09-20T13:17:47Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
   }
 ]
