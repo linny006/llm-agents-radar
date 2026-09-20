@@ -1,5 +1,59 @@
 [
   {
+    "description": "The LLM Anti-Framework",
+    "id": "Mirascope/mirascope",
+    "language": "Python",
+    "name": "Mirascope/mirascope",
+    "stars": 1525,
+    "updated_at": "2026-09-20T18:14:32Z",
+    "url": "https://github.com/Mirascope/mirascope"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-20T18:13:15Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 28,
+    "updated_at": "2026-09-20T18:13:51Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Unified LLM Platform that allows you to host your own models locally and access them from across the world",
+    "id": "noahhps/Courier",
+    "language": "Python",
+    "name": "noahhps/Courier",
+    "stars": 0,
+    "updated_at": "2026-09-20T18:07:32Z",
+    "url": "https://github.com/noahhps/Courier"
+  },
+  {
+    "description": "AI agent that plays Super Mario Bros with TypeSafe Jev - a typed decision model reading NES RAM instead of pixels, verif",
+    "id": "VBS2004/jev-plays-super-mario-bros",
+    "language": "Python",
+    "name": "VBS2004/jev-plays-super-mario-bros",
+    "stars": 0,
+    "updated_at": "2026-09-20T18:06:34Z",
+    "url": "https://github.com/VBS2004/jev-plays-super-mario-bros"
+  },
+  {
+    "description": "Agentic RAG over PDFs with a live, step-by-step reasoning trace. FastAPI + Gemini function calling + FAISS, streamed to ",
+    "id": "DhanushaVardhan/agenttrace",
+    "language": "Python",
+    "name": "DhanushaVardhan/agenttrace",
+    "stars": 0,
+    "updated_at": "2026-09-20T18:00:32Z",
+    "url": "https://github.com/DhanushaVardhan/agenttrace"
+  },
+  {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
     "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
@@ -16,15 +70,6 @@
     "stars": 130,
     "updated_at": "2026-09-20T17:56:57Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Unified LLM Platform that allows you to host your own models locally and access them from across the world",
-    "id": "noahhps/Courier",
-    "language": "Python",
-    "name": "noahhps/Courier",
-    "stars": 0,
-    "updated_at": "2026-09-20T17:55:50Z",
-    "url": "https://github.com/noahhps/Courier"
   },
   {
     "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
@@ -52,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T17:54:21Z",
     "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
-  },
-  {
-    "description": "Agentic RAG over PDFs with a live, step-by-step reasoning trace. FastAPI + Gemini function calling + FAISS, streamed to ",
-    "id": "DhanushaVardhan/agenttrace",
-    "language": "Python",
-    "name": "DhanushaVardhan/agenttrace",
-    "stars": 0,
-    "updated_at": "2026-09-20T17:53:39Z",
-    "url": "https://github.com/DhanushaVardhan/agenttrace"
   },
   {
     "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
@@ -311,17 +347,8 @@
     "language": "Python",
     "name": "diaban/jobsmith",
     "stars": 0,
-    "updated_at": "2026-09-20T17:52:15Z",
+    "updated_at": "2026-09-20T18:07:50Z",
     "url": "https://github.com/diaban/jobsmith"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 28,
-    "updated_at": "2026-09-20T17:44:59Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
@@ -421,32 +448,5 @@
     "stars": 9,
     "updated_at": "2026-09-20T16:39:24Z",
     "url": "https://github.com/earthwalker17/MiniDSH"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 19,
-    "updated_at": "2026-09-20T16:35:24Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "All-in-one agent harness for OpenAI Codex CLI \u2014 Boss meta-orchestrator, 17 curated agents (+17 opt-in AI specialists), 1",
-    "id": "sehoon787/my-codex",
-    "language": "Shell",
-    "name": "sehoon787/my-codex",
-    "stars": 28,
-    "updated_at": "2026-09-20T16:25:43Z",
-    "url": "https://github.com/sehoon787/my-codex"
-  },
-  {
-    "description": "Weekly macro regime switch: 4 variables (rates/credit/earnings/liquidity), hard-coded risk-off override, no price predic",
-    "id": "leo-bone/macro-dashboard",
-    "language": "Python",
-    "name": "leo-bone/macro-dashboard",
-    "stars": 0,
-    "updated_at": "2026-09-20T16:13:15Z",
-    "url": "https://github.com/leo-bone/macro-dashboard"
   }
 ]
