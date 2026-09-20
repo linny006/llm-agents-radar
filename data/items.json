@@ -1,11 +1,38 @@
 [
   {
+    "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
+    "id": "Ven0m0/gemini-web-wrapper",
+    "language": "TypeScript",
+    "name": "Ven0m0/gemini-web-wrapper",
+    "stars": 5,
+    "updated_at": "2026-09-20T22:28:28Z",
+    "url": "https://github.com/Ven0m0/gemini-web-wrapper"
+  },
+  {
+    "description": "All-in-one agent harness for Claude Code \u2014 Boss meta-orchestrator, 32 curated agents, 139 curated skills, 2 named workfl",
+    "id": "sehoon787/my-claude",
+    "language": "JavaScript",
+    "name": "sehoon787/my-claude",
+    "stars": 16,
+    "updated_at": "2026-09-20T22:22:59Z",
+    "url": "https://github.com/sehoon787/my-claude"
+  },
+  {
+    "description": "Control AI agents anywhere. (github mirror)",
+    "id": "justacalico/devinorium",
+    "language": "Dart",
+    "name": "justacalico/devinorium",
+    "stars": 1,
+    "updated_at": "2026-09-20T22:20:28Z",
+    "url": "https://github.com/justacalico/devinorium"
+  },
+  {
     "description": "Agentic QA test-data generation and validation framework for synthetic financial data. Architecture: Request Normalizati",
     "id": "Rahulprajapati99/Test-Data-Generator-Agent",
     "language": "\u2014",
     "name": "Rahulprajapati99/Test-Data-Generator-Agent",
     "stars": 0,
-    "updated_at": "2026-09-20T22:13:05Z",
+    "updated_at": "2026-09-20T22:15:24Z",
     "url": "https://github.com/Rahulprajapati99/Test-Data-Generator-Agent"
   },
   {
@@ -158,7 +185,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-20T21:45:22Z",
+    "updated_at": "2026-09-20T22:25:59Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -194,7 +221,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 809,
-    "updated_at": "2026-09-20T21:41:39Z",
+    "updated_at": "2026-09-20T22:15:41Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 214,
     "updated_at": "2026-09-20T19:28:10Z",
     "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
-    "description": "Applied AI portfolio: LLM order orchestration across 6 platforms, idempotency, independent verification, FastAPI and MCP",
-    "id": "Refusned/smm-agent",
-    "language": "Python",
-    "name": "Refusned/smm-agent",
-    "stars": 0,
-    "updated_at": "2026-09-20T19:20:29Z",
-    "url": "https://github.com/Refusned/smm-agent"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 713,
-    "updated_at": "2026-09-20T19:20:22Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "An open-source research agent system for your Zotero library.",
-    "id": "yilewang/llm-for-zotero",
-    "language": "TypeScript",
-    "name": "yilewang/llm-for-zotero",
-    "stars": 3089,
-    "updated_at": "2026-09-20T19:20:19Z",
-    "url": "https://github.com/yilewang/llm-for-zotero"
   }
 ]
