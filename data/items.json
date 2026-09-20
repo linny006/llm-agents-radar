@@ -1,5 +1,14 @@
 [
   {
+    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
+    "id": "Elevated-homer201/prompt-gate",
+    "language": "\u2014",
+    "name": "Elevated-homer201/prompt-gate",
+    "stars": 1,
+    "updated_at": "2026-09-20T23:44:55Z",
+    "url": "https://github.com/Elevated-homer201/prompt-gate"
+  },
+  {
     "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
     "id": "Indrasclerotinia71/local-ai-research-assistant",
     "language": "Python",
@@ -149,7 +158,7 @@
     "language": "Python",
     "name": "jack-h-park/pm-intelligence-engine",
     "stars": 0,
-    "updated_at": "2026-09-20T23:24:21Z",
+    "updated_at": "2026-09-20T23:44:32Z",
     "url": "https://github.com/jack-h-park/pm-intelligence-engine"
   },
   {
@@ -401,17 +410,8 @@
     "language": "\u2014",
     "name": "Blaz742/web-pentest-lab",
     "stars": 0,
-    "updated_at": "2026-09-20T21:53:36Z",
+    "updated_at": "2026-09-20T23:45:11Z",
     "url": "https://github.com/Blaz742/web-pentest-lab"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 1,
-    "updated_at": "2026-09-20T21:53:16Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
