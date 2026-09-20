@@ -1,12 +1,66 @@
 [
   {
-    "description": "An autonomous on-call agent that investigates and remediates incidents on the Incident Platform through its MCP tool sur",
-    "id": "kudratsingh/incident-commander",
-    "language": "Python",
-    "name": "kudratsingh/incident-commander",
+    "description": "OpenAI Agents SDK\u00b7tool calling \uc2e4\uc2b5 \u2014 \ud0c0\uc785\ud78c\ud2b8 \uae30\ubc18 tool schema \uc0dd\uc131, Streamlit \ub77c\uc774\ud504\ucf54\uce58",
+    "id": "xiwoo/ai-agent-task",
+    "language": "Jupyter Notebook",
+    "name": "xiwoo/ai-agent-task",
     "stars": 0,
-    "updated_at": "2026-09-20T08:56:22Z",
-    "url": "https://github.com/kudratsingh/incident-commander"
+    "updated_at": "2026-09-20T09:15:13Z",
+    "url": "https://github.com/xiwoo/ai-agent-task"
+  },
+  {
+    "description": "LangGraph \uae30\ubc18 \uac8c\uc774\ubbf8\ud53c\ucf00\uc774\uc158 \ud559\uc2b5 \uc5d0\uc774\uc804\ud2b8 \u2014 Generator\u2013Critic \ucc44\uc810 \uac80\uc99d, SQLite \ub2e8\uc77c \ud30c\uc77c \ub85c\uceec \uc2e4\ud589",
+    "id": "xiwoo/quest-mentor",
+    "language": "Jupyter Notebook",
+    "name": "xiwoo/quest-mentor",
+    "stars": 0,
+    "updated_at": "2026-09-20T09:13:32Z",
+    "url": "https://github.com/xiwoo/quest-mentor"
+  },
+  {
+    "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
+    "id": "SugarMGP/MumuBot",
+    "language": "Go",
+    "name": "SugarMGP/MumuBot",
+    "stars": 24,
+    "updated_at": "2026-09-20T09:11:21Z",
+    "url": "https://github.com/SugarMGP/MumuBot"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-09-20T09:10:41Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "\u9002\u7528\u4e8e Claude Code \u548c Codex \u7684\u6c42\u804c Skill\uff1a\u67e5\u627e\u5c97\u4f4d\u3001\u5224\u65ad\u662f\u5426\u503c\u5f97\u6295\u9012\u3001\u5236\u4f5c\u7b80\u5386\u4e0e\u7533\u8bf7\u6750\u6599\u3001\u68c0\u9a8c\u7533\u8bf7\u6750\u6599\u5e76\u6a21\u62df\u9762\u8bd5\u3002\u4e0d\u7f16\u9020\u6280\u80fd\u6216\u4e1a\u7ee9\u6570\u5b57\uff0c\u4e0d\u9884\u6d4b\u5f55\u7528\u6982\u7387\uff1b\u68c0\u67e5\u7b80\u5386\u662f\u5426\u4fbf\u4e8e\u62db\u8058\u7ba1\u7406\u7cfb\u7edf\uff08ATS\uff09\u8bfb\u53d6\uff0c\u5e76\u4ece\u62db\u8058\u4eba\u5458\u548c\u7528\u4eba",
+    "id": "addsumtech/job-hunt",
+    "language": "Python",
+    "name": "addsumtech/job-hunt",
+    "stars": 4,
+    "updated_at": "2026-09-20T09:10:30Z",
+    "url": "https://github.com/addsumtech/job-hunt"
+  },
+  {
+    "description": "Akane \u684c\u9762\u667a\u80fd\u4f53\u5c42\uff1a\u8ba9\u966a\u4f34\u89d2\u8272\u80fd\u5728\u771f\u5b9e IM \u5ba2\u6237\u7aef\u91cc\u66ff\u4e3b\u4eba\u8bf4\u8bdd\uff08\u53ef\u5ba1\u8ba1 / \u53ef\u62d2\u7edd / \u53ef\u56de\u6eda\uff09\u3002\u884d\u751f\u81ea misaka-coder/AkaneCompanionLab\uff0c\u8be6\u89c1 CREDITS.md \u4e0e docs/INNOVATIONS",
+    "id": "windy-0-0/akane-desktop-agent",
+    "language": "Python",
+    "name": "windy-0-0/akane-desktop-agent",
+    "stars": 0,
+    "updated_at": "2026-09-20T09:09:04Z",
+    "url": "https://github.com/windy-0-0/akane-desktop-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 3,
+    "updated_at": "2026-09-20T09:08:01Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
   },
   {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
@@ -14,8 +68,35 @@
     "language": "Python",
     "name": "SuperdeMan/cockpit-agent",
     "stars": 19,
-    "updated_at": "2026-09-20T08:53:15Z",
+    "updated_at": "2026-09-20T09:05:00Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-09-20T09:04:20Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 343,
+    "updated_at": "2026-09-20T09:03:58Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "An autonomous on-call agent that investigates and remediates incidents on the Incident Platform through its MCP tool sur",
+    "id": "kudratsingh/incident-commander",
+    "language": "Python",
+    "name": "kudratsingh/incident-commander",
+    "stars": 0,
+    "updated_at": "2026-09-20T08:56:22Z",
+    "url": "https://github.com/kudratsingh/incident-commander"
   },
   {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
@@ -88,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T08:10:07Z",
     "url": "https://github.com/ThorJS24/ai-autonomous-pentest"
-  },
-  {
-    "description": "\u9002\u7528\u4e8e Claude Code \u548c Codex \u7684\u6c42\u804c Skill\uff1a\u67e5\u627e\u5c97\u4f4d\u3001\u5224\u65ad\u662f\u5426\u503c\u5f97\u6295\u9012\u3001\u5236\u4f5c\u7b80\u5386\u4e0e\u7533\u8bf7\u6750\u6599\u3001\u68c0\u9a8c\u7533\u8bf7\u6750\u6599\u5e76\u6a21\u62df\u9762\u8bd5\u3002\u4e0d\u7f16\u9020\u6280\u80fd\u6216\u4e1a\u7ee9\u6570\u5b57\uff0c\u4e0d\u9884\u6d4b\u5f55\u7528\u6982\u7387\uff1b\u68c0\u67e5\u7b80\u5386\u662f\u5426\u4fbf\u4e8e\u62db\u8058\u7ba1\u7406\u7cfb\u7edf\uff08ATS\uff09\u8bfb\u53d6\uff0c\u5e76\u4ece\u62db\u8058\u4eba\u5458\u548c\u7528\u4eba",
-    "id": "addsumtech/job-hunt",
-    "language": "Python",
-    "name": "addsumtech/job-hunt",
-    "stars": 4,
-    "updated_at": "2026-09-20T08:09:07Z",
-    "url": "https://github.com/addsumtech/job-hunt"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -376,77 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-20T07:12:16Z",
     "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-09-20T07:07:18Z",
-    "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-09-20T07:06:02Z",
-    "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-09-20T07:05:20Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3418,
-    "updated_at": "2026-09-20T07:03:49Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-09-20T07:02:07Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "Local-first desktop app: 16 AI agents from 8 LLM providers debate any topic \u2014 with live argument mapping, fact-check bad",
-    "id": "richer-richard/socratic-council",
-    "language": "TypeScript",
-    "name": "richer-richard/socratic-council",
-    "stars": 8,
-    "updated_at": "2026-09-20T07:02:26Z",
-    "url": "https://github.com/richer-richard/socratic-council"
-  },
-  {
-    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
-    "id": "SHUKLAO/call-with-ai-agent",
-    "language": "\u2014",
-    "name": "SHUKLAO/call-with-ai-agent",
-    "stars": 3,
-    "updated_at": "2026-09-20T06:57:09Z",
-    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
-    "id": "WP2-Danikusuma/AgentX",
-    "language": "HTML",
-    "name": "WP2-Danikusuma/AgentX",
-    "stars": 2,
-    "updated_at": "2026-09-20T06:56:27Z",
-    "url": "https://github.com/WP2-Danikusuma/AgentX"
   }
 ]
