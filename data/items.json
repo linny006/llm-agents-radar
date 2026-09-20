@@ -1,5 +1,23 @@
 [
   {
+    "description": "All-in-one agent harness for OpenAI Codex CLI \u2014 Boss meta-orchestrator, 17 curated agents (+17 opt-in AI specialists), 1",
+    "id": "sehoon787/my-codex",
+    "language": "Shell",
+    "name": "sehoon787/my-codex",
+    "stars": 28,
+    "updated_at": "2026-09-20T16:25:43Z",
+    "url": "https://github.com/sehoon787/my-codex"
+  },
+  {
+    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
+    "id": "diaban/jobsmith",
+    "language": "Python",
+    "name": "diaban/jobsmith",
+    "stars": 0,
+    "updated_at": "2026-09-20T16:16:57Z",
+    "url": "https://github.com/diaban/jobsmith"
+  },
+  {
     "description": "Weekly macro regime switch: 4 variables (rates/credit/earnings/liquidity), hard-coded risk-off override, no price predic",
     "id": "leo-bone/macro-dashboard",
     "language": "Python",
@@ -43,15 +61,6 @@
     "stars": 28,
     "updated_at": "2026-09-20T16:09:37Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "All-in-one agent harness for OpenAI Codex CLI \u2014 Boss meta-orchestrator, 17 curated agents (+17 opt-in AI specialists), 1",
-    "id": "sehoon787/my-codex",
-    "language": "Shell",
-    "name": "sehoon787/my-codex",
-    "stars": 28,
-    "updated_at": "2026-09-20T16:08:02Z",
-    "url": "https://github.com/sehoon787/my-codex"
   },
   {
     "description": "An autopoiesic kefir for computing machines",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-20T14:56:59Z",
     "url": "https://github.com/Vidit-Ostwal/Jev-Playing-Flipping-Birds"
-  },
-  {
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
-    "id": "bigfish1913/pi-rust",
-    "language": "Rust",
-    "name": "bigfish1913/pi-rust",
-    "stars": 26,
-    "updated_at": "2026-09-20T14:45:28Z",
-    "url": "https://github.com/bigfish1913/pi-rust"
   }
 ]
