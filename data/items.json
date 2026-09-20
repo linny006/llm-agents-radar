@@ -1,5 +1,41 @@
 [
   {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 19,
+    "updated_at": "2026-09-20T08:43:50Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 24,
+    "updated_at": "2026-09-20T08:41:02Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Self-Correcting LLM Analytical Agent for SQL reasoning, statistical analysis, and hallucination detection",
+    "id": "HIIAYUSHI/LLM-analytical-agent",
+    "language": "Python",
+    "name": "HIIAYUSHI/LLM-analytical-agent",
+    "stars": 1,
+    "updated_at": "2026-09-20T08:30:21Z",
+    "url": "https://github.com/HIIAYUSHI/LLM-analytical-agent"
+  },
+  {
+    "description": "Mini agent: LLM -> JSON action -> tools -> feedback loop, configured from YAML (Agentic AI course)",
+    "id": "NithichoteC/mini-agent",
+    "language": "Python",
+    "name": "NithichoteC/mini-agent",
+    "stars": 0,
+    "updated_at": "2026-09-20T08:30:01Z",
+    "url": "https://github.com/NithichoteC/mini-agent"
+  },
+  {
     "description": "An autopoiesic kefir for computing machines",
     "id": "genaforvena/lte-workstation",
     "language": "Shell",
@@ -43,15 +79,6 @@
     "stars": 4,
     "updated_at": "2026-09-20T08:09:07Z",
     "url": "https://github.com/addsumtech/job-hunt"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 19,
-    "updated_at": "2026-09-20T08:17:48Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-20T06:56:27Z",
     "url": "https://github.com/WP2-Danikusuma/AgentX"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-09-20T06:53:16Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-20T06:50:19Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "AIOps-RCA Self-Evolving Agent: LangGraph microservice root-cause-analysis agent with Rule/LLM dual planners, evidence ga",
-    "id": "dongjiahui123-pro/aiops-rca-agent",
-    "language": "Python",
-    "name": "dongjiahui123-pro/aiops-rca-agent",
-    "stars": 0,
-    "updated_at": "2026-09-20T06:48:20Z",
-    "url": "https://github.com/dongjiahui123-pro/aiops-rca-agent"
   }
 ]
