@@ -1,5 +1,23 @@
 [
   {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-20T08:23:47Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
+    "id": "emqnuele/projectBEA",
+    "language": "Python",
+    "name": "emqnuele/projectBEA",
+    "stars": 18,
+    "updated_at": "2026-09-20T08:28:55Z",
+    "url": "https://github.com/emqnuele/projectBEA"
+  },
+  {
     "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
     "id": "xiongweilin/agent-skills",
     "language": "PowerShell",
@@ -32,7 +50,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 19,
-    "updated_at": "2026-09-20T08:14:20Z",
+    "updated_at": "2026-09-20T08:17:48Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -86,7 +104,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5780,
-    "updated_at": "2026-09-20T07:47:46Z",
+    "updated_at": "2026-09-20T08:27:01Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -414,15 +432,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 9,
-    "updated_at": "2026-09-20T06:52:33Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
     "id": "plurnk/plurnk-service",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-20T06:48:20Z",
     "url": "https://github.com/dongjiahui123-pro/aiops-rca-agent"
-  },
-  {
-    "description": "\u6295\u8d44\u79c1\u4eba\u7ba1\u5bb6 \u00b7 A\u80a1\u57fa\u91d1 AI \u79c1\u4eba\u987e\u95ee\uff08Invest Concierge \u2014 A-share & fund AI personal investment assistant\uff09",
-    "id": "cx-ssg/invest-concierge",
-    "language": "Python",
-    "name": "cx-ssg/invest-concierge",
-    "stars": 0,
-    "updated_at": "2026-09-20T06:44:42Z",
-    "url": "https://github.com/cx-ssg/invest-concierge"
   }
 ]
