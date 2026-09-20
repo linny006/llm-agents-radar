@@ -1,5 +1,59 @@
 [
   {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-09-20T10:58:04Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "\u57fa\u4e8e\u56fe\u8868\u793a\u5b66\u4e60\u7684\u53ef\u4fe1\u836f\u7269\u63a8\u8350 Agent \u539f\u578b: MIMIC-III demo + DDInter + GCN \u94fe\u63a5\u9884\u6d4b + LLM \u5de5\u5177\u8c03\u7528 (PyTorch, CPU \u53ef\u8dd1)",
+    "id": "liuhaolin07/drug-rec-agent",
+    "language": "Python",
+    "name": "liuhaolin07/drug-rec-agent",
+    "stars": 0,
+    "updated_at": "2026-09-20T10:54:32Z",
+    "url": "https://github.com/liuhaolin07/drug-rec-agent"
+  },
+  {
+    "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
+    "id": "SugarMGP/MumuBot",
+    "language": "Go",
+    "name": "SugarMGP/MumuBot",
+    "stars": 24,
+    "updated_at": "2026-09-20T10:54:31Z",
+    "url": "https://github.com/SugarMGP/MumuBot"
+  },
+  {
+    "description": "Application Security orchestration platform",
+    "id": "grauwolf32/contractor",
+    "language": "Go",
+    "name": "grauwolf32/contractor",
+    "stars": 2,
+    "updated_at": "2026-09-20T10:52:23Z",
+    "url": "https://github.com/grauwolf32/contractor"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-20T10:51:53Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-09-20T10:50:53Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
     "description": "A small Python harness that keeps an LLM coding agent on track: durable memory, a code graph, a live todo plan, and loop",
     "id": "IdysisI/kern",
     "language": "Python",
@@ -45,15 +99,6 @@
     "url": "https://github.com/Mlte0907/pangu"
   },
   {
-    "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
-    "id": "SugarMGP/MumuBot",
-    "language": "Go",
-    "name": "SugarMGP/MumuBot",
-    "stars": 24,
-    "updated_at": "2026-09-20T10:36:50Z",
-    "url": "https://github.com/SugarMGP/MumuBot"
-  },
-  {
     "description": "A game-agnostic LLM agent runtime for autonomous NPCs, with Stardew Valley as the first real-world adapter.",
     "id": "zlci7/world-is-agent",
     "language": "Go",
@@ -68,7 +113,7 @@
     "language": "Rust",
     "name": "citizenhicks/mobius",
     "stars": 1,
-    "updated_at": "2026-09-20T10:42:16Z",
+    "updated_at": "2026-09-20T10:53:31Z",
     "url": "https://github.com/citizenhicks/mobius"
   },
   {
@@ -88,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T10:26:26Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 9,
-    "updated_at": "2026-09-20T10:23:37Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "\u9002\u7528\u4e8e Claude Code \u548c Codex \u7684\u6c42\u804c Skill\uff1a\u67e5\u627e\u5c97\u4f4d\u3001\u5224\u65ad\u662f\u5426\u503c\u5f97\u6295\u9012\u3001\u5236\u4f5c\u7b80\u5386\u4e0e\u7533\u8bf7\u6750\u6599\u3001\u68c0\u9a8c\u7533\u8bf7\u6750\u6599\u5e76\u6a21\u62df\u9762\u8bd5\u3002\u4e0d\u7f16\u9020\u6280\u80fd\u6216\u4e1a\u7ee9\u6570\u5b57\uff0c\u4e0d\u9884\u6d4b\u5f55\u7528\u6982\u7387\uff1b\u68c0\u67e5\u7b80\u5386\u662f\u5426\u4fbf\u4e8e\u62db\u8058\u7ba1\u7406\u7cfb\u7edf\uff08ATS\uff09\u8bfb\u53d6\uff0c\u5e76\u4ece\u62db\u8058\u4eba\u5458\u548c\u7528\u4eba",
@@ -338,7 +374,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4420,
-    "updated_at": "2026-09-20T10:27:12Z",
+    "updated_at": "2026-09-20T10:51:36Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-20T09:23:51Z",
     "url": "https://github.com/muhzars/Agent.cpp"
-  },
-  {
-    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
-    "id": "faheela-786/ComfyUI-qwenmultiangle",
-    "language": "\u2014",
-    "name": "faheela-786/ComfyUI-qwenmultiangle",
-    "stars": 2,
-    "updated_at": "2026-09-20T09:21:20Z",
-    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
-  },
-  {
-    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
-    "id": "amineeng/scraping-browser",
-    "language": "\u2014",
-    "name": "amineeng/scraping-browser",
-    "stars": 1,
-    "updated_at": "2026-09-20T09:19:48Z",
-    "url": "https://github.com/amineeng/scraping-browser"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-09-20T10:33:05Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
-    "id": "Saran1536/ComfyUI-LoaderUtils",
-    "language": "Python",
-    "name": "Saran1536/ComfyUI-LoaderUtils",
-    "stars": 0,
-    "updated_at": "2026-09-20T09:17:21Z",
-    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
   }
 ]
