@@ -1,5 +1,68 @@
 [
   {
+    "description": "Drop-in OpenAI/Anthropic proxy that cuts long-horizon agent prompt tokens 60-95% via SKILL.state (arXiv:2608.26263). MIT",
+    "id": "NosytLabs/skillstate-proxy",
+    "language": "TypeScript",
+    "name": "NosytLabs/skillstate-proxy",
+    "stars": 3,
+    "updated_at": "2026-09-20T10:28:07Z",
+    "url": "https://github.com/NosytLabs/skillstate-proxy"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-09-20T10:26:26Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Build an AI Coding Agent from Scratch, Step by Step | \u4ece\u96f6\u4e00\u6b65\u6b65\u642d\u5efa AI \u7f16\u7a0b Agent\uff0c\u8fb9\u5b9e\u73b0\u8fb9\u7406\u89e3 Agent \u7684\u5de5\u4f5c\u539f\u7406",
+    "id": "liiiiiiiiil/agent-from-scratch",
+    "language": "Python",
+    "name": "liiiiiiiiil/agent-from-scratch",
+    "stars": 87,
+    "updated_at": "2026-09-20T10:24:53Z",
+    "url": "https://github.com/liiiiiiiiil/agent-from-scratch"
+  },
+  {
+    "description": "A small Python harness that keeps an LLM coding agent on track: durable memory, a code graph, a live todo plan, and loop",
+    "id": "IdysisI/kern",
+    "language": "Python",
+    "name": "IdysisI/kern",
+    "stars": 2,
+    "updated_at": "2026-09-20T10:24:37Z",
+    "url": "https://github.com/IdysisI/kern"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-20T10:23:37Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "\u9002\u7528\u4e8e Claude Code \u548c Codex \u7684\u6c42\u804c Skill\uff1a\u67e5\u627e\u5c97\u4f4d\u3001\u5224\u65ad\u662f\u5426\u503c\u5f97\u6295\u9012\u3001\u5236\u4f5c\u7b80\u5386\u4e0e\u7533\u8bf7\u6750\u6599\u3001\u68c0\u9a8c\u7533\u8bf7\u6750\u6599\u5e76\u6a21\u62df\u9762\u8bd5\u3002\u4e0d\u7f16\u9020\u6280\u80fd\u6216\u4e1a\u7ee9\u6570\u5b57\uff0c\u4e0d\u9884\u6d4b\u5f55\u7528\u6982\u7387\uff1b\u68c0\u67e5\u7b80\u5386\u662f\u5426\u4fbf\u4e8e\u62db\u8058\u7ba1\u7406\u7cfb\u7edf\uff08ATS\uff09\u8bfb\u53d6\uff0c\u5e76\u4ece\u62db\u8058\u4eba\u5458\u548c\u7528\u4eba",
+    "id": "addsumtech/job-hunt",
+    "language": "Python",
+    "name": "addsumtech/job-hunt",
+    "stars": 4,
+    "updated_at": "2026-09-20T10:28:14Z",
+    "url": "https://github.com/addsumtech/job-hunt"
+  },
+  {
+    "description": "An AI brain for Unitree robot dogs: one sentence in, guarded motion out.",
+    "id": "LiSheng5/argos",
+    "language": "Python",
+    "name": "LiSheng5/argos",
+    "stars": 0,
+    "updated_at": "2026-09-20T10:16:50Z",
+    "url": "https://github.com/LiSheng5/argos"
+  },
+  {
     "description": "\u76d8\u53e4 \u2014 AI Agent \u591a\u6a21\u6001\u8bb0\u5fc6\u7cfb\u7edf\uff1aWing\u2192Room\u2192Drawer \u5206\u5c42\u5b58\u50a8\u3001ONNX \u672c\u5730\u5d4c\u5165\u8bed\u4e49\u68c0\u7d22\uff08SQLite FTS5 + RRF \u878d\u5408\uff09\u3001\u827e\u5bbe\u6d69\u65af\u9057\u5fd8\u66f2\u7ebf\u4e0e\u795e\u7ecf\u6fc0\u6d3b\u6269\u6563\uff1b\u63d0\u4f9b REST API + MCP \u670d\u52a1\uff0c\u9ed8\u8ba4\u66b4",
     "id": "Mlte0907/pangu",
     "language": "Python",
@@ -230,7 +293,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4420,
-    "updated_at": "2026-09-20T09:53:14Z",
+    "updated_at": "2026-09-20T10:27:12Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-20T09:10:41Z",
     "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "\u9002\u7528\u4e8e Claude Code \u548c Codex \u7684\u6c42\u804c Skill\uff1a\u67e5\u627e\u5c97\u4f4d\u3001\u5224\u65ad\u662f\u5426\u503c\u5f97\u6295\u9012\u3001\u5236\u4f5c\u7b80\u5386\u4e0e\u7533\u8bf7\u6750\u6599\u3001\u68c0\u9a8c\u7533\u8bf7\u6750\u6599\u5e76\u6a21\u62df\u9762\u8bd5\u3002\u4e0d\u7f16\u9020\u6280\u80fd\u6216\u4e1a\u7ee9\u6570\u5b57\uff0c\u4e0d\u9884\u6d4b\u5f55\u7528\u6982\u7387\uff1b\u68c0\u67e5\u7b80\u5386\u662f\u5426\u4fbf\u4e8e\u62db\u8058\u7ba1\u7406\u7cfb\u7edf\uff08ATS\uff09\u8bfb\u53d6\uff0c\u5e76\u4ece\u62db\u8058\u4eba\u5458\u548c\u7528\u4eba",
-    "id": "addsumtech/job-hunt",
-    "language": "Python",
-    "name": "addsumtech/job-hunt",
-    "stars": 4,
-    "updated_at": "2026-09-20T09:10:30Z",
-    "url": "https://github.com/addsumtech/job-hunt"
-  },
-  {
-    "description": "Akane \u684c\u9762\u667a\u80fd\u4f53\u5c42\uff1a\u8ba9\u966a\u4f34\u89d2\u8272\u80fd\u5728\u771f\u5b9e IM \u5ba2\u6237\u7aef\u91cc\u66ff\u4e3b\u4eba\u8bf4\u8bdd\uff08\u53ef\u5ba1\u8ba1 / \u53ef\u62d2\u7edd / \u53ef\u56de\u6eda\uff09\u3002\u884d\u751f\u81ea misaka-coder/AkaneCompanionLab\uff0c\u8be6\u89c1 CREDITS.md \u4e0e docs/INNOVATIONS",
-    "id": "windy-0-0/akane-desktop-agent",
-    "language": "Python",
-    "name": "windy-0-0/akane-desktop-agent",
-    "stars": 1,
-    "updated_at": "2026-09-20T09:09:04Z",
-    "url": "https://github.com/windy-0-0/akane-desktop-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 3,
-    "updated_at": "2026-09-20T09:08:01Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-09-20T09:04:20Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 343,
-    "updated_at": "2026-09-20T09:03:58Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "An autonomous on-call agent that investigates and remediates incidents on the Incident Platform through its MCP tool sur",
-    "id": "kudratsingh/incident-commander",
-    "language": "Python",
-    "name": "kudratsingh/incident-commander",
-    "stars": 0,
-    "updated_at": "2026-09-20T08:56:22Z",
-    "url": "https://github.com/kudratsingh/incident-commander"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 19,
-    "updated_at": "2026-09-20T08:51:17Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   }
 ]
