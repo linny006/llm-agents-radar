@@ -5,8 +5,107 @@
     "language": "TypeScript",
     "name": "plurnk/plurnk-service",
     "stars": 0,
-    "updated_at": "2026-09-20T09:44:50Z",
+    "updated_at": "2026-09-20T10:00:00Z",
     "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "TaskWizard\uff1a\u8584\u73af\uff08thin-loop\uff09LLM \u5b89\u5353\u624b\u673a\u667a\u80fd\u4f53 \u2014 \u6bcf\u6b65\u4e00\u6b21\u6a21\u578b\u8c03\u7528\u3001marks-first \u843d\u5730\u3001\u5b89\u5168\u9884\u8b66\u5236\u3001App-KB \u81ea\u79ef\u7d2f\u8bb0\u5fc6\u3001\u7ecf\u9a8c\u56de\u60f3\uff08RAG shadow\uff09\u3002Thin-loop LLM Android ",
+    "id": "tom-cat-mao/TaskWizard",
+    "language": "Python",
+    "name": "tom-cat-mao/TaskWizard",
+    "stars": 0,
+    "updated_at": "2026-09-20T09:55:35Z",
+    "url": "https://github.com/tom-cat-mao/TaskWizard"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 3,
+    "updated_at": "2026-09-20T09:53:48Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "Software-engineering agent built on structured model output with custom tool routing and a hand-written agent loop.",
+    "id": "Lullow/structured-swe-agent",
+    "language": "Python",
+    "name": "Lullow/structured-swe-agent",
+    "stars": 0,
+    "updated_at": "2026-09-20T09:49:21Z",
+    "url": "https://github.com/Lullow/structured-swe-agent"
+  },
+  {
+    "description": "ReAct-style coding agent built from scratch in Python - custom action parsing, safety checks and approved bash execution",
+    "id": "Lullow/react-coding-agent",
+    "language": "Python",
+    "name": "Lullow/react-coding-agent",
+    "stars": 0,
+    "updated_at": "2026-09-20T09:49:17Z",
+    "url": "https://github.com/Lullow/react-coding-agent"
+  },
+  {
+    "description": "Conversational terminal assistant for tasks, calendar events and reminders - understands free-text Swedish and English.",
+    "id": "Lullow/personal-life-agent",
+    "language": "Python",
+    "name": "Lullow/personal-life-agent",
+    "stars": 0,
+    "updated_at": "2026-09-20T09:49:13Z",
+    "url": "https://github.com/Lullow/personal-life-agent"
+  },
+  {
+    "description": "Terminal-based AI coding assistant with safety-checked file tools, sub-agent coordination and token budgeting.",
+    "id": "Lullow/personal-dev-assistant",
+    "language": "Python",
+    "name": "Lullow/personal-dev-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-20T09:49:11Z",
+    "url": "https://github.com/Lullow/personal-dev-assistant"
+  },
+  {
+    "description": "Agent that collaborates over a shared HTTP hub while treating every remote message as untrusted input, isolated from loc",
+    "id": "Lullow/multi-agent-hub",
+    "language": "Python",
+    "name": "Lullow/multi-agent-hub",
+    "stars": 0,
+    "updated_at": "2026-09-20T09:49:08Z",
+    "url": "https://github.com/Lullow/multi-agent-hub"
+  },
+  {
+    "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
+    "id": "rugose-learnedprofession58/pi-dsh",
+    "language": "TypeScript",
+    "name": "rugose-learnedprofession58/pi-dsh",
+    "stars": 0,
+    "updated_at": "2026-09-20T09:47:51Z",
+    "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
+  },
+  {
+    "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
+    "id": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
+    "language": "JavaScript",
+    "name": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
+    "stars": 1,
+    "updated_at": "2026-09-20T09:46:57Z",
+    "url": "https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder"
+  },
+  {
+    "description": "Verify area values quickly with this web-based HTML calculator tool.",
+    "id": "passive-hotpepper515/area-checker-html-tool",
+    "language": "HTML",
+    "name": "passive-hotpepper515/area-checker-html-tool",
+    "stars": 0,
+    "updated_at": "2026-09-20T09:46:38Z",
+    "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
+  },
+  {
+    "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
+    "id": "Blondieredistributed612/pocket-agent",
+    "language": "Python",
+    "name": "Blondieredistributed612/pocket-agent",
+    "stars": 2,
+    "updated_at": "2026-09-20T09:45:22Z",
+    "url": "https://github.com/Blondieredistributed612/pocket-agent"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -68,7 +167,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-20T09:39:16Z",
+    "updated_at": "2026-09-20T09:49:04Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -99,42 +198,6 @@
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
-    "description": "Terminal-based AI coding assistant with safety-checked file tools, sub-agent coordination and token budgeting.",
-    "id": "Lullow/personal-dev-assistant",
-    "language": "Python",
-    "name": "Lullow/personal-dev-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-20T09:35:20Z",
-    "url": "https://github.com/Lullow/personal-dev-assistant"
-  },
-  {
-    "description": "Agent that collaborates over a shared HTTP hub while treating every remote message as untrusted input, isolated from loc",
-    "id": "Lullow/multi-agent-hub",
-    "language": "Python",
-    "name": "Lullow/multi-agent-hub",
-    "stars": 0,
-    "updated_at": "2026-09-20T09:35:19Z",
-    "url": "https://github.com/Lullow/multi-agent-hub"
-  },
-  {
-    "description": "Software-engineering agent built on structured model output with custom tool routing and a hand-written agent loop.",
-    "id": "Lullow/structured-swe-agent",
-    "language": "Python",
-    "name": "Lullow/structured-swe-agent",
-    "stars": 0,
-    "updated_at": "2026-09-20T09:35:17Z",
-    "url": "https://github.com/Lullow/structured-swe-agent"
-  },
-  {
-    "description": "ReAct-style coding agent built from scratch in Python - custom action parsing, safety checks and approved bash execution",
-    "id": "Lullow/react-coding-agent",
-    "language": "Python",
-    "name": "Lullow/react-coding-agent",
-    "stars": 0,
-    "updated_at": "2026-09-20T09:35:15Z",
-    "url": "https://github.com/Lullow/react-coding-agent"
-  },
-  {
     "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
     "id": "HELLOCODINGTR/AgentForge",
     "language": "\u2014",
@@ -158,7 +221,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4420,
-    "updated_at": "2026-09-20T09:38:29Z",
+    "updated_at": "2026-09-20T09:53:14Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -252,31 +315,13 @@
     "url": "https://github.com/amineeng/scraping-browser"
   },
   {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 3,
-    "updated_at": "2026-09-20T09:19:47Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-09-20T09:42:42Z",
+    "updated_at": "2026-09-20T09:54:50Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Conversational terminal assistant for tasks, calendar events and reminders - understands free-text Swedish and English.",
-    "id": "Lullow/personal-life-agent",
-    "language": "Python",
-    "name": "Lullow/personal-life-agent",
-    "stars": 0,
-    "updated_at": "2026-09-20T09:17:43Z",
-    "url": "https://github.com/Lullow/personal-life-agent"
   },
   {
     "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
@@ -403,50 +448,5 @@
     "stars": 24,
     "updated_at": "2026-09-20T08:41:02Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Self-Correcting LLM Analytical Agent for SQL reasoning, statistical analysis, and hallucination detection",
-    "id": "HIIAYUSHI/LLM-analytical-agent",
-    "language": "Python",
-    "name": "HIIAYUSHI/LLM-analytical-agent",
-    "stars": 1,
-    "updated_at": "2026-09-20T08:30:21Z",
-    "url": "https://github.com/HIIAYUSHI/LLM-analytical-agent"
-  },
-  {
-    "description": "Mini agent: LLM -> JSON action -> tools -> feedback loop, configured from YAML (Agentic AI course)",
-    "id": "NithichoteC/mini-agent",
-    "language": "Python",
-    "name": "NithichoteC/mini-agent",
-    "stars": 0,
-    "updated_at": "2026-09-20T08:30:01Z",
-    "url": "https://github.com/NithichoteC/mini-agent"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 9,
-    "updated_at": "2026-09-20T08:23:47Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
-    "id": "emqnuele/projectBEA",
-    "language": "Python",
-    "name": "emqnuele/projectBEA",
-    "stars": 18,
-    "updated_at": "2026-09-20T08:28:55Z",
-    "url": "https://github.com/emqnuele/projectBEA"
-  },
-  {
-    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
-    "id": "xiongweilin/agent-skills",
-    "language": "PowerShell",
-    "name": "xiongweilin/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-09-20T08:10:13Z",
-    "url": "https://github.com/xiongweilin/agent-skills"
   }
 ]
