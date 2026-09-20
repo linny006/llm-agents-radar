@@ -1,5 +1,32 @@
 [
   {
+    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
+    "id": "xiongweilin/agent-skills",
+    "language": "PowerShell",
+    "name": "xiongweilin/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-20T00:11:32Z",
+    "url": "https://github.com/xiongweilin/agent-skills"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 3,
+    "updated_at": "2026-09-20T00:05:11Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "Build your own always-on personal AI OS: a self-hosted agent that dispatches coding tasks, maintains a git-Markdown know",
+    "id": "csnyder256/RAG-OS",
+    "language": "Python",
+    "name": "csnyder256/RAG-OS",
+    "stars": 5,
+    "updated_at": "2026-09-20T00:01:42Z",
+    "url": "https://github.com/csnyder256/RAG-OS"
+  },
+  {
     "description": "Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi",
     "id": "zig333/ELAI-archive",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 711,
     "updated_at": "2026-09-19T21:54:24Z",
     "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "PWA for Magic: The Gathering \u2014 life tracking at dice speed for 2\u20136 players, plus an AI rules judge grounded in the Compr",
-    "id": "KiKDraS/mtg-life-counter-app",
-    "language": "TypeScript",
-    "name": "KiKDraS/mtg-life-counter-app",
-    "stars": 0,
-    "updated_at": "2026-09-19T21:31:47Z",
-    "url": "https://github.com/KiKDraS/mtg-life-counter-app"
-  },
-  {
-    "description": "Natural-language control for your DAW. An agent finds the track, plugin and parameter, changes it, and confirms from wha",
-    "id": "winterstim/tonelab",
-    "language": "Go",
-    "name": "winterstim/tonelab",
-    "stars": 0,
-    "updated_at": "2026-09-19T21:18:18Z",
-    "url": "https://github.com/winterstim/tonelab"
-  },
-  {
-    "description": "Individualized worksheets for educational and therapeutic professionals - from a support goal, level and age (ICF-aware)",
-    "id": "ellmos-ai/worksheet-generator",
-    "language": "Python",
-    "name": "ellmos-ai/worksheet-generator",
-    "stars": 1,
-    "updated_at": "2026-09-19T20:50:34Z",
-    "url": "https://github.com/ellmos-ai/worksheet-generator"
   }
 ]
