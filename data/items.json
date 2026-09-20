@@ -1,5 +1,41 @@
 [
   {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 7,
+    "updated_at": "2026-09-20T02:28:24Z",
+    "url": "https://github.com/alex8224/synapse-agent"
+  },
+  {
+    "description": "A laboratory's X-ray reflectivity fitting procedure, written so a language-model agent can follow it. Includes the four ",
+    "id": "OleksiyPenkov/xrr-fitting-skill",
+    "language": "\u2014",
+    "name": "OleksiyPenkov/xrr-fitting-skill",
+    "stars": 0,
+    "updated_at": "2026-09-20T02:25:21Z",
+    "url": "https://github.com/OleksiyPenkov/xrr-fitting-skill"
+  },
+  {
+    "description": "Unified LLM Platform that allows you to host your own models locally and access them from across the world",
+    "id": "noahhps/Courier",
+    "language": "Python",
+    "name": "noahhps/Courier",
+    "stars": 0,
+    "updated_at": "2026-09-20T02:24:44Z",
+    "url": "https://github.com/noahhps/Courier"
+  },
+  {
+    "description": "Individualized worksheets for educational and therapeutic professionals - from a support goal, level and age (ICF-aware)",
+    "id": "ellmos-ai/worksheet-generator",
+    "language": "Python",
+    "name": "ellmos-ai/worksheet-generator",
+    "stars": 1,
+    "updated_at": "2026-09-20T02:21:57Z",
+    "url": "https://github.com/ellmos-ai/worksheet-generator"
+  },
+  {
     "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
     "id": "410979729/scope-recall-hermes",
     "language": "Python",
@@ -16,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T02:12:01Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Individualized worksheets for educational and therapeutic professionals - from a support goal, level and age (ICF-aware)",
-    "id": "ellmos-ai/worksheet-generator",
-    "language": "Python",
-    "name": "ellmos-ai/worksheet-generator",
-    "stars": 1,
-    "updated_at": "2026-09-20T02:09:07Z",
-    "url": "https://github.com/ellmos-ai/worksheet-generator"
   },
   {
     "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
@@ -49,7 +76,7 @@
     "id": "555cute/r20-quantum-trader",
     "language": "Python",
     "name": "555cute/r20-quantum-trader",
-    "stars": 208,
+    "stars": 209,
     "updated_at": "2026-09-20T01:56:27Z",
     "url": "https://github.com/555cute/r20-quantum-trader"
   },
@@ -223,15 +250,6 @@
     "stars": 4,
     "updated_at": "2026-09-20T01:28:31Z",
     "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "A laboratory's X-ray reflectivity fitting procedure, written so a language-model agent can follow it. Includes the four ",
-    "id": "OleksiyPenkov/xrr-fitting-skill",
-    "language": "\u2014",
-    "name": "OleksiyPenkov/xrr-fitting-skill",
-    "stars": 0,
-    "updated_at": "2026-09-20T01:26:57Z",
-    "url": "https://github.com/OleksiyPenkov/xrr-fitting-skill"
   },
   {
     "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
@@ -430,23 +448,5 @@
     "stars": 6,
     "updated_at": "2026-09-20T00:01:42Z",
     "url": "https://github.com/csnyder256/RAG-OS"
-  },
-  {
-    "description": "Autonomous AI agent for real estate feasibility analysis. Give it an address \u2014 it researches, models DCF + Monte Carlo, ",
-    "id": "Alessandro114/landiq",
-    "language": "Python",
-    "name": "Alessandro114/landiq",
-    "stars": 1,
-    "updated_at": "2026-09-19T23:50:51Z",
-    "url": "https://github.com/Alessandro114/landiq"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 55,
-    "updated_at": "2026-09-19T23:50:32Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   }
 ]
