@@ -1,5 +1,68 @@
 [
   {
+    "description": "Unified LLM Platform that allows you to host your own models locally and access them from across the world",
+    "id": "noahhps/Bom",
+    "language": "Python",
+    "name": "noahhps/Bom",
+    "stars": 0,
+    "updated_at": "2026-09-21T08:28:07Z",
+    "url": "https://github.com/noahhps/Bom"
+  },
+  {
+    "description": "\u6570\u5b57\u4ea7\u54c1\u5236\u4f5c\u4eba Wright\uff5c\u628a\u673a\u4f1a\u505a\u6210\u53ef\u552e\u5356\u6210\u54c1\u3002Digital Product Producer \u2014 turns opportunities into finished products.",
+    "id": "xhqing/ProductProducerAgent",
+    "language": "\u2014",
+    "name": "xhqing/ProductProducerAgent",
+    "stars": 0,
+    "updated_at": "2026-09-21T08:27:35Z",
+    "url": "https://github.com/xhqing/ProductProducerAgent"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-21T08:27:28Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Experimental TypeScript plugin for STM/SPM control in DeepSeek Harness, with simulator workflows, persistent tool record",
+    "id": "HamsterPark/dsh-spm",
+    "language": "TypeScript",
+    "name": "HamsterPark/dsh-spm",
+    "stars": 0,
+    "updated_at": "2026-09-21T08:25:34Z",
+    "url": "https://github.com/HamsterPark/dsh-spm"
+  },
+  {
+    "description": "TCMS \u00d7 AI \u5168\u6d41\u7a0b\u6d4b\u8bd5\u5de5\u7a0b\u5e08 Agent\uff08\u4e09\u4ed3\u5408\u4e00 monorepo\uff09\uff1a\u771f\u5b9e\u5217\u8f66\u8d44\u4ea7 \u2192 \u9886\u57df\u5f15\u64ce \u2192 \u77e5\u8bc6\u5e95\u5ea7 \u2192 Agent \u67e5\u8bc1/\u9020\u7528\u4f8b/\u771f\u8dd1 \u2192 \u673a\u5668\u81ea\u8bc1\u3002\u56db\u7ea7\u5de5\u5177\u6743\u9650\uff08\u53ea\u8bfb/\u6c99\u7bb1\u5199/\u771f\u6267\u884c/\u6301\u4e45\u5316\uff09+ \u4eba\u5728\u73af\u8def\u5ba1\u6279 + \u56db",
+    "id": "zych2002918/tcms-agent",
+    "language": "Python",
+    "name": "zych2002918/tcms-agent",
+    "stars": 0,
+    "updated_at": "2026-09-21T08:23:08Z",
+    "url": "https://github.com/zych2002918/tcms-agent"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-09-21T08:18:37Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
+    "id": "bigduu/Zenith",
+    "language": "JavaScript",
+    "name": "bigduu/Zenith",
+    "stars": 6,
+    "updated_at": "2026-09-21T08:17:09Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
     "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
     "id": "citizenhicks/mobius",
     "language": "Rust",
@@ -32,7 +95,7 @@
     "language": "Python",
     "name": "kudratsingh/incident-commander",
     "stars": 0,
-    "updated_at": "2026-09-21T08:12:30Z",
+    "updated_at": "2026-09-21T08:19:58Z",
     "url": "https://github.com/kudratsingh/incident-commander"
   },
   {
@@ -184,7 +247,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 32090,
+    "stars": 32091,
     "updated_at": "2026-09-21T07:31:18Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -261,15 +324,6 @@
     "url": "https://github.com/lusipad/browser-agent"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-21T08:02:23Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "Keep agent CLIs running 7\u00d724 \u2014 supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure",
     "id": "wan9yu/cli-agent-runner",
     "language": "Python",
@@ -322,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T07:17:47Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Unified LLM Platform that allows you to host your own models locally and access them from across the world",
-    "id": "noahhps/Bom",
-    "language": "Python",
-    "name": "noahhps/Bom",
-    "stars": 0,
-    "updated_at": "2026-09-21T07:17:39Z",
-    "url": "https://github.com/noahhps/Bom"
   },
   {
     "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-21T07:07:16Z",
     "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-09-21T07:06:34Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
-    "id": "amineeng/scraping-browser",
-    "language": "\u2014",
-    "name": "amineeng/scraping-browser",
-    "stars": 1,
-    "updated_at": "2026-09-21T07:05:50Z",
-    "url": "https://github.com/amineeng/scraping-browser"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-09-21T07:39:43Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
-    "id": "Saran1536/ComfyUI-LoaderUtils",
-    "language": "Python",
-    "name": "Saran1536/ComfyUI-LoaderUtils",
-    "stars": 0,
-    "updated_at": "2026-09-21T07:03:24Z",
-    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 0,
-    "updated_at": "2026-09-21T07:01:54Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
   }
 ]
