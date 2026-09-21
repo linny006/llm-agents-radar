@@ -1,12 +1,30 @@
 [
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 9,
-    "updated_at": "2026-09-21T20:12:17Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
+    "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
+    "id": "emqnuele/projectBEA",
+    "language": "Python",
+    "name": "emqnuele/projectBEA",
+    "stars": 18,
+    "updated_at": "2026-09-21T20:29:38Z",
+    "url": "https://github.com/emqnuele/projectBEA"
+  },
+  {
+    "description": "A small Python harness that keeps an LLM coding agent on track: durable memory, a code graph, a live todo plan, and loop",
+    "id": "IdysisI/kern",
+    "language": "Python",
+    "name": "IdysisI/kern",
+    "stars": 2,
+    "updated_at": "2026-09-21T20:29:31Z",
+    "url": "https://github.com/IdysisI/kern"
+  },
+  {
+    "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
+    "id": "sunnnn2005/data-quality-agent",
+    "language": "Python",
+    "name": "sunnnn2005/data-quality-agent",
+    "stars": 0,
+    "updated_at": "2026-09-21T20:27:30Z",
+    "url": "https://github.com/sunnnn2005/data-quality-agent"
   },
   {
     "description": "The self-improving SRE agent",
@@ -14,8 +32,17 @@
     "language": "Go",
     "name": "Smana/runlore",
     "stars": 17,
-    "updated_at": "2026-09-21T20:12:33Z",
+    "updated_at": "2026-09-21T20:24:53Z",
     "url": "https://github.com/Smana/runlore"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-21T20:20:36Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and compu",
@@ -36,6 +63,15 @@
     "url": "https://github.com/muthuishere/toolnexus"
   },
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7398,
+    "updated_at": "2026-09-21T19:56:45Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -43,15 +79,6 @@
     "stars": 55,
     "updated_at": "2026-09-21T19:51:58Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7397,
-    "updated_at": "2026-09-21T19:56:45Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-21T17:56:07Z",
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "An auto-evolution framework that optimizes anything \u2014 your 7\u00d724 team of algorithm engineers.",
-    "id": "ant-research/AntOmniEvo",
-    "language": "Python",
-    "name": "ant-research/AntOmniEvo",
-    "stars": 43,
-    "updated_at": "2026-09-21T17:51:21Z",
-    "url": "https://github.com/ant-research/AntOmniEvo"
-  },
-  {
-    "description": "AI-powered delivery-risk and investigation workbench over the public Olist e-commerce dataset",
-    "id": "Devansh09112002/OpsPilot",
-    "language": "Python",
-    "name": "Devansh09112002/OpsPilot",
-    "stars": 1,
-    "updated_at": "2026-09-21T17:44:25Z",
-    "url": "https://github.com/Devansh09112002/OpsPilot"
-  },
-  {
-    "description": "LangChain Open Deep Research adapted for a self-hosted stack: agent-as-MCP-tool wrapper, gateway-aliased models, MCP sea",
-    "id": "mark-yong/deep-research",
-    "language": "Python",
-    "name": "mark-yong/deep-research",
-    "stars": 1,
-    "updated_at": "2026-09-21T17:41:50Z",
-    "url": "https://github.com/mark-yong/deep-research"
   }
 ]
