@@ -1,10 +1,19 @@
 [
   {
+    "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
+    "id": "emqnuele/projectBEA",
+    "language": "Python",
+    "name": "emqnuele/projectBEA",
+    "stars": 18,
+    "updated_at": "2026-09-21T22:44:10Z",
+    "url": "https://github.com/emqnuele/projectBEA"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7411,
+    "stars": 7412,
     "updated_at": "2026-09-21T22:40:16Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -27,7 +36,7 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "Anti-detect agentic browser automation: undetected MCP server, AI web browsing agent, computer use, scraping, lead gener",
+    "description": "Anti-detect agentic browser automation: undetected MCP server, Claude Code plugin, AI web browsing agent, computer use, ",
     "id": "feder-cr/AIHawk",
     "language": "Python",
     "name": "feder-cr/AIHawk",
@@ -52,15 +61,6 @@
     "stars": 3,
     "updated_at": "2026-09-21T22:33:42Z",
     "url": "https://github.com/Calmingstorm/Odin"
-  },
-  {
-    "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
-    "id": "emqnuele/projectBEA",
-    "language": "Python",
-    "name": "emqnuele/projectBEA",
-    "stars": 18,
-    "updated_at": "2026-09-21T22:29:26Z",
-    "url": "https://github.com/emqnuele/projectBEA"
   },
   {
     "description": "A personal assistant with a phone number: SQLite-backed todos, memories, and reflections, searchable through Algolia and",
