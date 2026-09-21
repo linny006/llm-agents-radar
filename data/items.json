@@ -1,12 +1,21 @@
 [
   {
-    "description": "LLM-powered TeamSpeak bot | LLM\u9a71\u52a8\u7684TeamSpeak\u673a\u5668\u4eba",
-    "id": "Dr1mH4X/TeamSpeakClaw",
-    "language": "Rust",
-    "name": "Dr1mH4X/TeamSpeakClaw",
-    "stars": 6,
-    "updated_at": "2026-09-21T02:44:23Z",
-    "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-09-21T02:59:58Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 713,
+    "updated_at": "2026-09-21T02:58:57Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -14,8 +23,53 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-21T02:43:07Z",
+    "updated_at": "2026-09-21T02:58:39Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
+    "id": "jack-h-park/pm-intelligence-engine",
+    "language": "Python",
+    "name": "jack-h-park/pm-intelligence-engine",
+    "stars": 0,
+    "updated_at": "2026-09-21T02:55:19Z",
+    "url": "https://github.com/jack-h-park/pm-intelligence-engine"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5781,
+    "updated_at": "2026-09-21T02:52:26Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
+    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 538,
+    "updated_at": "2026-09-21T02:51:49Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "A chat bot which makes use of multiple RAG collections/metadata field filtering, and multiple LLMs for model orchestrati",
+    "id": "milljm/dynamic-rag-chat",
+    "language": "Python",
+    "name": "milljm/dynamic-rag-chat",
+    "stars": 3,
+    "updated_at": "2026-09-21T02:51:36Z",
+    "url": "https://github.com/milljm/dynamic-rag-chat"
+  },
+  {
+    "description": "LLM-powered TeamSpeak bot | LLM\u9a71\u52a8\u7684TeamSpeak\u673a\u5668\u4eba",
+    "id": "Dr1mH4X/TeamSpeakClaw",
+    "language": "Rust",
+    "name": "Dr1mH4X/TeamSpeakClaw",
+    "stars": 6,
+    "updated_at": "2026-09-21T02:44:23Z",
+    "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
   },
   {
     "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
@@ -41,17 +95,8 @@
     "language": "TypeScript",
     "name": "MingyiSecLab/Atlas",
     "stars": 18,
-    "updated_at": "2026-09-21T02:33:47Z",
+    "updated_at": "2026-09-21T02:53:12Z",
     "url": "https://github.com/MingyiSecLab/Atlas"
-  },
-  {
-    "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
-    "id": "jack-h-park/pm-intelligence-engine",
-    "language": "Python",
-    "name": "jack-h-park/pm-intelligence-engine",
-    "stars": 0,
-    "updated_at": "2026-09-21T02:32:42Z",
-    "url": "https://github.com/jack-h-park/pm-intelligence-engine"
   },
   {
     "description": "Protection-first BigQuery MCP server \u2014 every query is dry-run and refused unless BigQuery itself classifies it as a sing",
@@ -72,24 +117,6 @@
     "url": "https://github.com/urankwong/agentsgo"
   },
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 713,
-    "updated_at": "2026-09-21T02:30:57Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5781,
-    "updated_at": "2026-09-21T02:30:26Z",
-    "url": "https://github.com/areal-project/AReaL"
-  },
-  {
     "description": "Observability tells you what an AI system did. Flight recording lets you reconstruct why its behavior changed.",
     "id": "wazimBadsha/ai-runtime-flight-recorder",
     "language": "Python",
@@ -97,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T02:26:51Z",
     "url": "https://github.com/wazimBadsha/ai-runtime-flight-recorder"
-  },
-  {
-    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 538,
-    "updated_at": "2026-09-21T02:26:22Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-21T01:20:29Z",
     "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 0,
-    "updated_at": "2026-09-21T01:19:19Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "Policy-driven autopilot for Dependabot PRs and patch releases, with Slack/Discord/Matrix digests",
-    "id": "no42-org/twiki",
-    "language": "TypeScript",
-    "name": "no42-org/twiki",
-    "stars": 0,
-    "updated_at": "2026-09-21T01:39:49Z",
-    "url": "https://github.com/no42-org/twiki"
   }
 ]
