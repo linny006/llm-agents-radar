@@ -1,12 +1,12 @@
 [
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 9,
-    "updated_at": "2026-09-21T22:14:30Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
+    "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
+    "id": "emqnuele/projectBEA",
+    "language": "Python",
+    "name": "emqnuele/projectBEA",
+    "stars": 18,
+    "updated_at": "2026-09-21T22:29:26Z",
+    "url": "https://github.com/emqnuele/projectBEA"
   },
   {
     "description": "A personal assistant with a phone number: SQLite-backed todos, memories, and reflections, searchable through Algolia and",
@@ -14,8 +14,26 @@
     "language": "TypeScript",
     "name": "NatanTechofNY/fieldnote-assistant",
     "stars": 1,
-    "updated_at": "2026-09-21T22:12:13Z",
+    "updated_at": "2026-09-21T22:28:50Z",
     "url": "https://github.com/NatanTechofNY/fieldnote-assistant"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7410,
+    "updated_at": "2026-09-21T22:26:41Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-21T22:14:30Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "A small Python harness that keeps an LLM coding agent on track: durable memory, a code graph, a live todo plan, and loop",
@@ -32,7 +50,7 @@
     "language": "Python",
     "name": "feder-cr/AIHawk",
     "stars": 31617,
-    "updated_at": "2026-09-21T22:07:59Z",
+    "updated_at": "2026-09-21T22:24:57Z",
     "url": "https://github.com/feder-cr/AIHawk"
   },
   {
@@ -331,24 +349,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T20:59:00Z",
     "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
-    "id": "emqnuele/projectBEA",
-    "language": "Python",
-    "name": "emqnuele/projectBEA",
-    "stars": 18,
-    "updated_at": "2026-09-21T20:53:17Z",
-    "url": "https://github.com/emqnuele/projectBEA"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7409,
-    "updated_at": "2026-09-21T20:43:22Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
