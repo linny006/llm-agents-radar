@@ -1,12 +1,120 @@
 [
   {
+    "description": "Keep agent CLIs running 7\u00d724 \u2014 supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure",
+    "id": "wan9yu/cli-agent-runner",
+    "language": "Python",
+    "name": "wan9yu/cli-agent-runner",
+    "stars": 4,
+    "updated_at": "2026-09-21T05:58:32Z",
+    "url": "https://github.com/wan9yu/cli-agent-runner"
+  },
+  {
+    "description": "Unified LLM Platform that allows you to host your own models locally and access them from across the world",
+    "id": "noahhps/Courier",
+    "language": "Python",
+    "name": "noahhps/Courier",
+    "stars": 0,
+    "updated_at": "2026-09-21T05:58:07Z",
+    "url": "https://github.com/noahhps/Courier"
+  },
+  {
+    "description": "A policy-enforced execution gateway for infrastructure agents. Every tool call is normalized into a structured action, j",
+    "id": "hd25071/AgentGate",
+    "language": "Go",
+    "name": "hd25071/AgentGate",
+    "stars": 0,
+    "updated_at": "2026-09-21T05:56:43Z",
+    "url": "https://github.com/hd25071/AgentGate"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 24,
+    "updated_at": "2026-09-21T05:56:27Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 4,
+    "updated_at": "2026-09-21T05:52:14Z",
+    "url": "https://github.com/ljedrz/nachalnik"
+  },
+  {
     "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
     "id": "urankwong/agentsgo",
     "language": "Python",
     "name": "urankwong/agentsgo",
     "stars": 0,
-    "updated_at": "2026-09-21T05:45:08Z",
+    "updated_at": "2026-09-21T05:50:45Z",
     "url": "https://github.com/urankwong/agentsgo"
+  },
+  {
+    "description": "Weekly macro regime switch: 4 variables (rates/credit/earnings/liquidity), hard-coded risk-off override, no price predic",
+    "id": "leo-bone/macro-dashboard",
+    "language": "Python",
+    "name": "leo-bone/macro-dashboard",
+    "stars": 1,
+    "updated_at": "2026-09-21T05:48:26Z",
+    "url": "https://github.com/leo-bone/macro-dashboard"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 55,
+    "updated_at": "2026-09-21T05:47:53Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Trading comps agent skill: peer screening, multiple alignment, quartile math in a tested script \u2014 the agent never does t",
+    "id": "leo-bone/valuation-comps",
+    "language": "Python",
+    "name": "leo-bone/valuation-comps",
+    "stars": 1,
+    "updated_at": "2026-09-21T05:47:42Z",
+    "url": "https://github.com/leo-bone/valuation-comps"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-09-21T05:46:47Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-09-21T05:46:12Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
+    "description": "[WWW '25 Oral - GenMentor] Official code of our paper \"LLM-powered Multi-agent Framework for Goal-oriented Learning in I",
+    "id": "GeminiLight/gen-mentor",
+    "language": "TypeScript",
+    "name": "GeminiLight/gen-mentor",
+    "stars": 88,
+    "updated_at": "2026-09-21T05:45:57Z",
+    "url": "https://github.com/GeminiLight/gen-mentor"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 28,
+    "updated_at": "2026-09-21T05:59:40Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
@@ -16,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T05:44:20Z",
     "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "Unified LLM Platform that allows you to host your own models locally and access them from across the world",
-    "id": "noahhps/Courier",
-    "language": "Python",
-    "name": "noahhps/Courier",
-    "stars": 0,
-    "updated_at": "2026-09-21T05:41:50Z",
-    "url": "https://github.com/noahhps/Courier"
   },
   {
     "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
@@ -63,24 +162,6 @@
     "url": "https://github.com/Blondieredistributed612/pocket-agent"
   },
   {
-    "description": "Keep agent CLIs running 7\u00d724 \u2014 supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure",
-    "id": "wan9yu/cli-agent-runner",
-    "language": "Python",
-    "name": "wan9yu/cli-agent-runner",
-    "stars": 4,
-    "updated_at": "2026-09-21T05:38:47Z",
-    "url": "https://github.com/wan9yu/cli-agent-runner"
-  },
-  {
-    "description": "A policy-enforced execution gateway for infrastructure agents. Every tool call is normalized into a structured action, j",
-    "id": "hd25071/AgentGate",
-    "language": "Go",
-    "name": "hd25071/AgentGate",
-    "stars": 0,
-    "updated_at": "2026-09-21T05:37:32Z",
-    "url": "https://github.com/hd25071/AgentGate"
-  },
-  {
     "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
     "id": "bettersilvanus849/inner-coordinates",
     "language": "Shell",
@@ -106,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-09-21T05:34:39Z",
     "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-21T05:34:34Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
@@ -185,7 +257,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 713,
-    "updated_at": "2026-09-21T05:27:06Z",
+    "updated_at": "2026-09-21T05:50:51Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -365,7 +437,7 @@
     "language": "Dart",
     "name": "justacalico/devinorium",
     "stars": 1,
-    "updated_at": "2026-09-21T05:27:04Z",
+    "updated_at": "2026-09-21T05:47:24Z",
     "url": "https://github.com/justacalico/devinorium"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-21T05:07:38Z",
     "url": "https://github.com/grauwolf32/contractor"
-  },
-  {
-    "description": "All-in-one agent harness for Claude Code \u2014 Boss meta-orchestrator, 32 curated agents, 139 curated skills, 2 named workfl",
-    "id": "sehoon787/my-claude",
-    "language": "JavaScript",
-    "name": "sehoon787/my-claude",
-    "stars": 16,
-    "updated_at": "2026-09-21T05:05:45Z",
-    "url": "https://github.com/sehoon787/my-claude"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-09-21T05:04:46Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
-    "id": "SugarMGP/MumuBot",
-    "language": "Go",
-    "name": "SugarMGP/MumuBot",
-    "stars": 24,
-    "updated_at": "2026-09-21T05:03:37Z",
-    "url": "https://github.com/SugarMGP/MumuBot"
-  },
-  {
-    "description": "Offline $0 decision layer for coding agents: Choice/Score/Noul primitives, BELKI confidence gatekeeper, ultra-planning, ",
-    "id": "Kadihx/jev-x-kit",
-    "language": "TypeScript",
-    "name": "Kadihx/jev-x-kit",
-    "stars": 0,
-    "updated_at": "2026-09-21T05:03:01Z",
-    "url": "https://github.com/Kadihx/jev-x-kit"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 3,
-    "updated_at": "2026-09-21T05:02:16Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 344,
-    "updated_at": "2026-09-21T05:00:58Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-09-21T04:59:33Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
-    "id": "jack-h-park/pm-intelligence-engine",
-    "language": "Python",
-    "name": "jack-h-park/pm-intelligence-engine",
-    "stars": 0,
-    "updated_at": "2026-09-21T04:53:20Z",
-    "url": "https://github.com/jack-h-park/pm-intelligence-engine"
   }
 ]
