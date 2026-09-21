@@ -1,5 +1,59 @@
 [
   {
+    "description": "One agent SDK, hand-ported to 7 languages \u2014 JavaScript, Python, Go, Java, C#, Elixir, Clojure \u2014 every port held to the s",
+    "id": "muthuishere/toolnexus",
+    "language": "MDX",
+    "name": "muthuishere/toolnexus",
+    "stars": 5,
+    "updated_at": "2026-09-21T19:56:52Z",
+    "url": "https://github.com/muthuishere/toolnexus"
+  },
+  {
+    "description": "Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and compu",
+    "id": "feder-cr/AIHawk",
+    "language": "Python",
+    "name": "feder-cr/AIHawk",
+    "stars": 31617,
+    "updated_at": "2026-09-21T19:51:59Z",
+    "url": "https://github.com/feder-cr/AIHawk"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 55,
+    "updated_at": "2026-09-21T19:51:58Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7397,
+    "updated_at": "2026-09-21T19:56:45Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 5,
+    "updated_at": "2026-09-21T19:49:27Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u7684 AI \u957f\u671f\u8bb0\u5fc6\u670d\u52a1\uff1a\u4f1a\u9057\u5fd8\u3001\u4f1a\u8054\u60f3\u3001\u4f1a\u5de9\u56fa\u3002MCP + REST + Web UI\uff0c\u4e00\u6761\u547d\u4ee4\u88c5\u597d\uff1b\u4e0d\u7528 DSH \u4e5f\u80fd\u72ec\u7acb\u4f7f\u7528\u3002",
+    "id": "Mlte0907/pangu",
+    "language": "Python",
+    "name": "Mlte0907/pangu",
+    "stars": 1,
+    "updated_at": "2026-09-21T19:48:27Z",
+    "url": "https://github.com/Mlte0907/pangu"
+  },
+  {
     "description": "\ud83d\udc27 is currently a work in progress... Stay tuned! ",
     "id": "Maximooch/penguin",
     "language": "Python",
@@ -9,21 +63,12 @@
     "url": "https://github.com/Maximooch/penguin"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7397,
-    "updated_at": "2026-09-21T19:44:50Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
     "id": "ljedrz/nachalnik",
     "language": "Rust",
     "name": "ljedrz/nachalnik",
     "stars": 4,
-    "updated_at": "2026-09-21T19:43:49Z",
+    "updated_at": "2026-09-21T19:52:24Z",
     "url": "https://github.com/ljedrz/nachalnik"
   },
   {
@@ -52,15 +97,6 @@
     "stars": 9,
     "updated_at": "2026-09-21T19:24:30Z",
     "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and compu",
-    "id": "feder-cr/AIHawk",
-    "language": "Python",
-    "name": "feder-cr/AIHawk",
-    "stars": 31617,
-    "updated_at": "2026-09-21T19:28:40Z",
-    "url": "https://github.com/feder-cr/AIHawk"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -198,15 +234,6 @@
     "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
   },
   {
-    "description": "\u672c\u5730\u4f18\u5148\u7684 AI \u957f\u671f\u8bb0\u5fc6\u670d\u52a1\uff1a\u4f1a\u9057\u5fd8\u3001\u4f1a\u8054\u60f3\u3001\u4f1a\u5de9\u56fa\u3002MCP + REST + Web UI\uff0c\u4e00\u6761\u547d\u4ee4\u88c5\u597d\uff1b\u4e0d\u7528 DSH \u4e5f\u80fd\u72ec\u7acb\u4f7f\u7528\u3002",
-    "id": "Mlte0907/pangu",
-    "language": "Python",
-    "name": "Mlte0907/pangu",
-    "stars": 1,
-    "updated_at": "2026-09-21T18:38:16Z",
-    "url": "https://github.com/Mlte0907/pangu"
-  },
-  {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
     "id": "pruthviraj00007/VibeHarness",
     "language": "Python",
@@ -223,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T18:34:23Z",
     "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 5,
-    "updated_at": "2026-09-21T18:32:00Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-21T17:39:54Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
-    "id": "kashyaprajharsh/medha-agent",
-    "language": "Rust",
-    "name": "kashyaprajharsh/medha-agent",
-    "stars": 1,
-    "updated_at": "2026-09-21T17:36:01Z",
-    "url": "https://github.com/kashyaprajharsh/medha-agent"
-  },
-  {
-    "description": "ICCAD 2026 CAD Contest Problem A (Cadence). Plain-English questions and edits on gate-level netlists: a rule-based route",
-    "id": "zcgilbert/iccad-2026-llm-netlist-agent",
-    "language": "Python",
-    "name": "zcgilbert/iccad-2026-llm-netlist-agent",
-    "stars": 0,
-    "updated_at": "2026-09-21T17:18:59Z",
-    "url": "https://github.com/zcgilbert/iccad-2026-llm-netlist-agent"
   }
 ]
