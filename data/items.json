@@ -1,11 +1,56 @@
 [
   {
+    "description": "Distilled-note knowledge base for AI agents: zero-dependency BM25 retrieval + provenance + retraction/conflict governanc",
+    "id": "aloasut/distill-kb",
+    "language": "Python",
+    "name": "aloasut/distill-kb",
+    "stars": 0,
+    "updated_at": "2026-09-21T00:25:35Z",
+    "url": "https://github.com/aloasut/distill-kb"
+  },
+  {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-09-21T00:24:42Z",
+    "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-09-21T00:23:44Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-09-21T00:19:49Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-21T00:16:01Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
     "description": "Autonomous execution agent on Discord \u2014 74 tools, shell access, browser automation, scheduled tasks, sub-agents, knowled",
     "id": "Calmingstorm/Odin",
     "language": "Python",
     "name": "Calmingstorm/Odin",
     "stars": 3,
-    "updated_at": "2026-09-21T00:13:54Z",
+    "updated_at": "2026-09-21T00:16:27Z",
     "url": "https://github.com/Calmingstorm/Odin"
   },
   {
@@ -315,15 +360,6 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 9,
-    "updated_at": "2026-09-20T23:03:15Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "All-in-one agent harness for Claude Code \u2014 Boss meta-orchestrator, 32 curated agents, 139 curated skills, 2 named workfl",
     "id": "sehoon787/my-claude",
     "language": "JavaScript",
@@ -340,15 +376,6 @@
     "stars": 130,
     "updated_at": "2026-09-20T22:58:43Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-09-20T22:56:16Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-20T22:39:40Z",
     "url": "https://github.com/justacalico/devinorium"
-  },
-  {
-    "description": "Agentic QA test-data generation and validation framework for synthetic financial data. Architecture: Request Normalizati",
-    "id": "Rahulprajapati99/Test-Data-Generator-Agent",
-    "language": "\u2014",
-    "name": "Rahulprajapati99/Test-Data-Generator-Agent",
-    "stars": 0,
-    "updated_at": "2026-09-20T22:15:24Z",
-    "url": "https://github.com/Rahulprajapati99/Test-Data-Generator-Agent"
-  },
-  {
-    "description": "Application Security orchestration platform",
-    "id": "grauwolf32/contractor",
-    "language": "Go",
-    "name": "grauwolf32/contractor",
-    "stars": 2,
-    "updated_at": "2026-09-20T22:02:13Z",
-    "url": "https://github.com/grauwolf32/contractor"
-  },
-  {
-    "description": "Offline $0 decision layer for coding agents: Choice/Score/Noul primitives, BELKI confidence gatekeeper, ultra-planning, ",
-    "id": "Kadihx/jev-x-kit",
-    "language": "TypeScript",
-    "name": "Kadihx/jev-x-kit",
-    "stars": 0,
-    "updated_at": "2026-09-20T21:53:59Z",
-    "url": "https://github.com/Kadihx/jev-x-kit"
   }
 ]
