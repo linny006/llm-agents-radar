@@ -1,5 +1,68 @@
 [
   {
+    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
+    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "language": "HTML",
+    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "stars": 0,
+    "updated_at": "2026-09-21T11:29:31Z",
+    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
+  },
+  {
+    "description": "One agent SDK, hand-ported to 7 languages \u2014 JavaScript, Python, Go, Java, C#, Elixir, Clojure \u2014 every port held to the s",
+    "id": "muthuishere/toolnexus",
+    "language": "MDX",
+    "name": "muthuishere/toolnexus",
+    "stars": 5,
+    "updated_at": "2026-09-21T11:28:34Z",
+    "url": "https://github.com/muthuishere/toolnexus"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
+    "id": "hasting323/AutoGLM-For-Android",
+    "language": "Kotlin",
+    "name": "hasting323/AutoGLM-For-Android",
+    "stars": 11,
+    "updated_at": "2026-09-21T11:25:38Z",
+    "url": "https://github.com/hasting323/AutoGLM-For-Android"
+  },
+  {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 1,
+    "updated_at": "2026-09-21T11:24:09Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-09-21T11:22:32Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "[Archived] \u65c5\u884c\u89c4\u5212 Agent \u63a2\u7d22\uff1aQwen\u3001Gaode MCP\u3001RAG \u4e0e\u4ea4\u4e92\u5730\u56fe",
+    "id": "passionworkeer/gaode_agent",
+    "language": "Python",
+    "name": "passionworkeer/gaode_agent",
+    "stars": 0,
+    "updated_at": "2026-09-21T11:19:54Z",
+    "url": "https://github.com/passionworkeer/gaode_agent"
+  },
+  {
+    "description": "Evidence-gated vulnerability research for AI security agents.",
+    "id": "xingchen20lj/vulngate",
+    "language": "Python",
+    "name": "xingchen20lj/vulngate",
+    "stars": 2,
+    "updated_at": "2026-09-21T11:17:37Z",
+    "url": "https://github.com/xingchen20lj/vulngate"
+  },
+  {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
     "id": "dkblinux98/nyxGPT",
     "language": "Python",
@@ -207,24 +270,6 @@
     "url": "https://github.com/gptme/gptme"
   },
   {
-    "description": "One agent SDK, hand-ported to 7 languages \u2014 JavaScript, Python, Go, Java, C#, Elixir, Clojure \u2014 every port held to the s",
-    "id": "muthuishere/toolnexus",
-    "language": "MDX",
-    "name": "muthuishere/toolnexus",
-    "stars": 5,
-    "updated_at": "2026-09-21T11:10:06Z",
-    "url": "https://github.com/muthuishere/toolnexus"
-  },
-  {
-    "description": "Evidence-gated vulnerability research for AI security agents.",
-    "id": "xingchen20lj/vulngate",
-    "language": "Python",
-    "name": "xingchen20lj/vulngate",
-    "stars": 2,
-    "updated_at": "2026-09-21T10:26:38Z",
-    "url": "https://github.com/xingchen20lj/vulngate"
-  },
-  {
     "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
     "id": "haibingzhao/easyai",
     "language": "Kotlin",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-21T09:41:36Z",
     "url": "https://github.com/chadwickhyperboloidal943/knowl"
-  },
-  {
-    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
-    "id": "Laurenfeminine36/google-jules-skill",
-    "language": "Python",
-    "name": "Laurenfeminine36/google-jules-skill",
-    "stars": 1,
-    "updated_at": "2026-09-21T09:41:27Z",
-    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-09-21T09:41:16Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-09-21T09:38:39Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 0,
-    "updated_at": "2026-09-21T09:38:06Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "IAM for your AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review risky a",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 214,
-    "updated_at": "2026-09-21T11:05:46Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
   }
 ]
