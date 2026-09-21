@@ -1,12 +1,30 @@
 [
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
+    "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
+    "id": "410979729/scope-recall-hermes",
     "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 273,
+    "updated_at": "2026-09-21T08:58:44Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "Reproducible 16GB-VRAM Windows local-agent stack: DSH Desktop + KVMem (llama.cpp fork, KV cache in system RAM) + paramet",
+    "id": "G0K0U/kvmem-agent-16gb",
+    "language": "JavaScript",
+    "name": "G0K0U/kvmem-agent-16gb",
     "stars": 0,
-    "updated_at": "2026-09-21T08:44:53Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+    "updated_at": "2026-09-21T08:58:07Z",
+    "url": "https://github.com/G0K0U/kvmem-agent-16gb"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 6008,
+    "updated_at": "2026-09-21T08:56:06Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "Evidence-gated vulnerability research for AI security agents.",
@@ -14,8 +32,26 @@
     "language": "Python",
     "name": "xingchen20lj/vulngate",
     "stars": 2,
-    "updated_at": "2026-09-21T08:43:12Z",
+    "updated_at": "2026-09-21T08:52:27Z",
     "url": "https://github.com/xingchen20lj/vulngate"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-09-21T08:46:11Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 809,
+    "updated_at": "2026-09-21T08:45:44Z",
+    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -131,7 +167,7 @@
     "language": "Python",
     "name": "kudratsingh/incident-commander",
     "stars": 0,
-    "updated_at": "2026-09-21T08:34:37Z",
+    "updated_at": "2026-09-21T08:56:14Z",
     "url": "https://github.com/kudratsingh/incident-commander"
   },
   {
@@ -205,15 +241,6 @@
     "stars": 20,
     "updated_at": "2026-09-21T07:53:07Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 273,
-    "updated_at": "2026-09-21T07:52:35Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
     "description": "Production crypto monitor with a bring-your-own-key agent layer. Alerts when a token pulls back from a fresh high, and t",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-21T07:15:30Z",
     "url": "https://github.com/seanlu2006/CalAgent"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-09-21T07:14:57Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-09-21T07:13:49Z",
-    "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-09-21T07:12:29Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
   }
 ]
