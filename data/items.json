@@ -1,5 +1,50 @@
 [
   {
+    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
+    "id": "agentscope-ai/agentscope-go",
+    "language": "Go",
+    "name": "agentscope-ai/agentscope-go",
+    "stars": 43,
+    "updated_at": "2026-09-21T03:59:22Z",
+    "url": "https://github.com/agentscope-ai/agentscope-go"
+  },
+  {
+    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
+    "id": "urankwong/agentsgo",
+    "language": "Python",
+    "name": "urankwong/agentsgo",
+    "stars": 0,
+    "updated_at": "2026-09-21T03:59:15Z",
+    "url": "https://github.com/urankwong/agentsgo"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 6004,
+    "updated_at": "2026-09-21T03:56:46Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
+    "id": "aviskaar/zorp",
+    "language": "Rust",
+    "name": "aviskaar/zorp",
+    "stars": 3,
+    "updated_at": "2026-09-21T03:49:35Z",
+    "url": "https://github.com/aviskaar/zorp"
+  },
+  {
+    "description": "sid-code \u4e0e claude-trace \u5171\u540c\u9762\u5bf9\u7684\u4f01\u4e1a\u7ea7\u540e\u7aef\uff1a\u63a7\u5236\u9762\uff08policy / flag / \u8eab\u4efd\uff09\u4e0e\u6570\u636e\u9762\uff08\u8f68\u8ff9 / \u4e8b\u4ef6\uff09\u540c\u4ed3\u3001\u9274\u6743\u9694\u79bb\u3002\u5df2\u4ea4\u4ed8\u8f68\u8ff9\u5b58\u50a8\u4e0e\u5206\u6790\uff0c\u5176\u4f59\u6a21\u5757\u6309\u91cc\u7a0b\u7891\u8fed\u4ee3",
+    "id": "njfuzrs/agent-backend",
+    "language": "Python",
+    "name": "njfuzrs/agent-backend",
+    "stars": 0,
+    "updated_at": "2026-09-21T03:49:55Z",
+    "url": "https://github.com/njfuzrs/agent-backend"
+  },
+  {
     "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
     "id": "410979729/scope-recall-hermes",
     "language": "Python",
@@ -7,6 +52,15 @@
     "stars": 273,
     "updated_at": "2026-09-21T03:44:49Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "A policy-enforced execution gateway for infrastructure agents. Every tool call is normalized into a structured action, j",
+    "id": "hd25071/AgentGate",
+    "language": "Go",
+    "name": "hd25071/AgentGate",
+    "stars": 0,
+    "updated_at": "2026-09-21T03:44:20Z",
+    "url": "https://github.com/hd25071/AgentGate"
   },
   {
     "description": "An AI Agent for everyday SWE with minimalist style",
@@ -52,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-09-21T03:39:05Z",
     "url": "https://github.com/Blondieredistributed612/pocket-agent"
-  },
-  {
-    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
-    "id": "urankwong/agentsgo",
-    "language": "Python",
-    "name": "urankwong/agentsgo",
-    "stars": 0,
-    "updated_at": "2026-09-21T03:38:36Z",
-    "url": "https://github.com/urankwong/agentsgo"
   },
   {
     "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
@@ -133,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-09-21T03:32:09Z",
     "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
-    "id": "agentscope-ai/agentscope-go",
-    "language": "Go",
-    "name": "agentscope-ai/agentscope-go",
-    "stars": 43,
-    "updated_at": "2026-09-21T03:29:54Z",
-    "url": "https://github.com/agentscope-ai/agentscope-go"
   },
   {
     "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
@@ -338,7 +374,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4419,
-    "updated_at": "2026-09-21T03:01:34Z",
+    "updated_at": "2026-09-21T03:45:45Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 107,
     "updated_at": "2026-09-21T02:38:53Z",
     "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
-  },
-  {
-    "description": "Open-source local AI Agent desktop app for authorized security assessment \u2014 Electron + Mastra-powered runtime, visual pe",
-    "id": "MingyiSecLab/Atlas",
-    "language": "TypeScript",
-    "name": "MingyiSecLab/Atlas",
-    "stars": 18,
-    "updated_at": "2026-09-21T02:53:12Z",
-    "url": "https://github.com/MingyiSecLab/Atlas"
-  },
-  {
-    "description": "Protection-first BigQuery MCP server \u2014 every query is dry-run and refused unless BigQuery itself classifies it as a sing",
-    "id": "nlink-jp/bigquery-mcp",
-    "language": "Go",
-    "name": "nlink-jp/bigquery-mcp",
-    "stars": 0,
-    "updated_at": "2026-09-21T02:32:18Z",
-    "url": "https://github.com/nlink-jp/bigquery-mcp"
-  },
-  {
-    "description": "Observability tells you what an AI system did. Flight recording lets you reconstruct why its behavior changed.",
-    "id": "wazimBadsha/ai-runtime-flight-recorder",
-    "language": "Python",
-    "name": "wazimBadsha/ai-runtime-flight-recorder",
-    "stars": 0,
-    "updated_at": "2026-09-21T02:26:51Z",
-    "url": "https://github.com/wazimBadsha/ai-runtime-flight-recorder"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 55,
-    "updated_at": "2026-09-21T02:18:47Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   }
 ]
