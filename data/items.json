@@ -1,12 +1,30 @@
 [
   {
-    "description": "Keep agent CLIs running 7\u00d724 \u2014 supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure",
-    "id": "wan9yu/cli-agent-runner",
+    "description": "Starter repo for a personal spoken-audio library: clone it, point an LLM agent at your archive, and get a searchable sta",
+    "id": "NaomiAmethyst/driftspace-template",
     "language": "Python",
-    "name": "wan9yu/cli-agent-runner",
-    "stars": 4,
-    "updated_at": "2026-09-21T05:58:32Z",
-    "url": "https://github.com/wan9yu/cli-agent-runner"
+    "name": "NaomiAmethyst/driftspace-template",
+    "stars": 0,
+    "updated_at": "2026-09-21T06:13:15Z",
+    "url": "https://github.com/NaomiAmethyst/driftspace-template"
+  },
+  {
+    "description": "Build an AI Coding Agent from Scratch, Step by Step | \u4ece\u96f6\u4e00\u6b65\u6b65\u642d\u5efa AI \u7f16\u7a0b Agent\uff0c\u8fb9\u5b9e\u73b0\u8fb9\u7406\u89e3 Agent \u7684\u5de5\u4f5c\u539f\u7406",
+    "id": "liiiiiiiiil/agent-from-scratch",
+    "language": "Python",
+    "name": "liiiiiiiiil/agent-from-scratch",
+    "stars": 87,
+    "updated_at": "2026-09-21T06:12:59Z",
+    "url": "https://github.com/liiiiiiiiil/agent-from-scratch"
+  },
+  {
+    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
+    "id": "urankwong/agentsgo",
+    "language": "Python",
+    "name": "urankwong/agentsgo",
+    "stars": 0,
+    "updated_at": "2026-09-21T06:12:11Z",
+    "url": "https://github.com/urankwong/agentsgo"
   },
   {
     "description": "Unified LLM Platform that allows you to host your own models locally and access them from across the world",
@@ -14,8 +32,53 @@
     "language": "Python",
     "name": "noahhps/Courier",
     "stars": 0,
-    "updated_at": "2026-09-21T05:58:07Z",
+    "updated_at": "2026-09-21T06:10:58Z",
     "url": "https://github.com/noahhps/Courier"
+  },
+  {
+    "description": "sid-code \u4e0e claude-trace \u5171\u540c\u9762\u5bf9\u7684\u4f01\u4e1a\u7ea7\u540e\u7aef\uff1a\u63a7\u5236\u9762\uff08policy / flag / \u8eab\u4efd\uff09\u4e0e\u6570\u636e\u9762\uff08\u8f68\u8ff9 / \u4e8b\u4ef6\uff09\u540c\u4ed3\u3001\u9274\u6743\u9694\u79bb\u3002\u5df2\u4ea4\u4ed8\u8f68\u8ff9\u5b58\u50a8\u4e0e\u5206\u6790\uff0c\u5176\u4f59\u6a21\u5757\u6309\u91cc\u7a0b\u7891\u8fed\u4ee3",
+    "id": "njfuzrs/agent-backend",
+    "language": "Python",
+    "name": "njfuzrs/agent-backend",
+    "stars": 0,
+    "updated_at": "2026-09-21T06:10:59Z",
+    "url": "https://github.com/njfuzrs/agent-backend"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 130,
+    "updated_at": "2026-09-21T06:07:19Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Keep agent CLIs running 7\u00d724 \u2014 supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure",
+    "id": "wan9yu/cli-agent-runner",
+    "language": "Python",
+    "name": "wan9yu/cli-agent-runner",
+    "stars": 4,
+    "updated_at": "2026-09-21T06:06:07Z",
+    "url": "https://github.com/wan9yu/cli-agent-runner"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 128,
+    "updated_at": "2026-09-21T06:04:11Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 3,
+    "updated_at": "2026-09-21T06:03:11Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "A policy-enforced execution gateway for infrastructure agents. Every tool call is normalized into a structured action, j",
@@ -43,15 +106,6 @@
     "stars": 4,
     "updated_at": "2026-09-21T05:52:14Z",
     "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
-    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
-    "id": "urankwong/agentsgo",
-    "language": "Python",
-    "name": "urankwong/agentsgo",
-    "stars": 0,
-    "updated_at": "2026-09-21T05:50:45Z",
-    "url": "https://github.com/urankwong/agentsgo"
   },
   {
     "description": "Weekly macro regime switch: 4 variables (rates/credit/earnings/liquidity), hard-coded risk-off override, no price predic",
@@ -103,7 +157,7 @@
     "id": "GeminiLight/gen-mentor",
     "language": "TypeScript",
     "name": "GeminiLight/gen-mentor",
-    "stars": 88,
+    "stars": 89,
     "updated_at": "2026-09-21T05:45:57Z",
     "url": "https://github.com/GeminiLight/gen-mentor"
   },
@@ -394,59 +448,5 @@
     "stars": 20,
     "updated_at": "2026-09-21T05:15:04Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
-    "id": "amineeng/scraping-browser",
-    "language": "\u2014",
-    "name": "amineeng/scraping-browser",
-    "stars": 1,
-    "updated_at": "2026-09-21T05:13:53Z",
-    "url": "https://github.com/amineeng/scraping-browser"
-  },
-  {
-    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
-    "id": "Saran1536/ComfyUI-LoaderUtils",
-    "language": "Python",
-    "name": "Saran1536/ComfyUI-LoaderUtils",
-    "stars": 0,
-    "updated_at": "2026-09-21T05:11:31Z",
-    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
-  },
-  {
-    "description": "Production crypto monitor with a bring-your-own-key agent layer. Alerts when a token pulls back from a fresh high, and t",
-    "id": "xmrjun/Alpha-Reset",
-    "language": "TypeScript",
-    "name": "xmrjun/Alpha-Reset",
-    "stars": 0,
-    "updated_at": "2026-09-21T05:10:56Z",
-    "url": "https://github.com/xmrjun/Alpha-Reset"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 0,
-    "updated_at": "2026-09-21T05:10:14Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "Control AI agents anywhere. (github mirror)",
-    "id": "justacalico/devinorium",
-    "language": "Dart",
-    "name": "justacalico/devinorium",
-    "stars": 1,
-    "updated_at": "2026-09-21T05:47:24Z",
-    "url": "https://github.com/justacalico/devinorium"
-  },
-  {
-    "description": "Application Security orchestration platform",
-    "id": "grauwolf32/contractor",
-    "language": "Go",
-    "name": "grauwolf32/contractor",
-    "stars": 2,
-    "updated_at": "2026-09-21T05:07:38Z",
-    "url": "https://github.com/grauwolf32/contractor"
   }
 ]
