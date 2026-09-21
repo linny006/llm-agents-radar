@@ -5,8 +5,44 @@
     "language": "TypeScript",
     "name": "plurnk/plurnk-service",
     "stars": 0,
-    "updated_at": "2026-09-21T20:43:55Z",
+    "updated_at": "2026-09-21T20:59:00Z",
     "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-21T20:57:46Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
+    "id": "emqnuele/projectBEA",
+    "language": "Python",
+    "name": "emqnuele/projectBEA",
+    "stars": 18,
+    "updated_at": "2026-09-21T20:53:17Z",
+    "url": "https://github.com/emqnuele/projectBEA"
+  },
+  {
+    "description": "Offline $0 decision layer for coding agents: Choice/Score/Noul primitives, BELKI confidence gatekeeper, ultra-planning, ",
+    "id": "Kadihx/jev-x-kit",
+    "language": "TypeScript",
+    "name": "Kadihx/jev-x-kit",
+    "stars": 0,
+    "updated_at": "2026-09-21T20:50:18Z",
+    "url": "https://github.com/Kadihx/jev-x-kit"
+  },
+  {
+    "description": "Jev plays a slot machine until the money runs out. The local version of jevslots.live.",
+    "id": "ella0333/jev-slot-machine",
+    "language": "JavaScript",
+    "name": "ella0333/jev-slot-machine",
+    "stars": 0,
+    "updated_at": "2026-09-21T20:48:06Z",
+    "url": "https://github.com/ella0333/jev-slot-machine"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -41,7 +77,7 @@
     "language": "Rust",
     "name": "ljedrz/nachalnik",
     "stars": 4,
-    "updated_at": "2026-09-21T20:41:16Z",
+    "updated_at": "2026-09-21T20:50:47Z",
     "url": "https://github.com/ljedrz/nachalnik"
   },
   {
@@ -52,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T20:37:35Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
-    "id": "emqnuele/projectBEA",
-    "language": "Python",
-    "name": "emqnuele/projectBEA",
-    "stars": 18,
-    "updated_at": "2026-09-21T20:32:29Z",
-    "url": "https://github.com/emqnuele/projectBEA"
   },
   {
     "description": "A small Python harness that keeps an LLM coding agent on track: durable memory, a code graph, a live todo plan, and loop",
@@ -86,17 +113,8 @@
     "language": "Go",
     "name": "Smana/runlore",
     "stars": 17,
-    "updated_at": "2026-09-21T20:24:53Z",
+    "updated_at": "2026-09-21T20:50:09Z",
     "url": "https://github.com/Smana/runlore"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 9,
-    "updated_at": "2026-09-21T20:20:36Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and compu",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-21T18:06:26Z",
     "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-09-21T18:05:27Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
-  },
-  {
-    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
-    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "language": "HTML",
-    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "stars": 0,
-    "updated_at": "2026-09-21T18:02:32Z",
-    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
   }
 ]
