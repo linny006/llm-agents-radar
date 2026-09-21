@@ -1,5 +1,68 @@
 [
   {
+    "description": "\u57fa\u4e8eLLM\u7684\u91cf\u5316\u56e0\u5b50\u5f00\u53d1Agent",
+    "id": "ZXTLQQ/FactorGPT",
+    "language": "Python",
+    "name": "ZXTLQQ/FactorGPT",
+    "stars": 10,
+    "updated_at": "2026-09-21T14:14:48Z",
+    "url": "https://github.com/ZXTLQQ/FactorGPT"
+  },
+  {
+    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
+    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "language": "Go",
+    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "stars": 0,
+    "updated_at": "2026-09-21T14:14:00Z",
+    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
+  },
+  {
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
+    "language": "Python",
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-09-21T14:12:42Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
+    "id": "Samuelcluttered613/paper2code",
+    "language": "Python",
+    "name": "Samuelcluttered613/paper2code",
+    "stars": 1,
+    "updated_at": "2026-09-21T14:10:26Z",
+    "url": "https://github.com/Samuelcluttered613/paper2code"
+  },
+  {
+    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
+    "id": "Bastioned-successor320/learn-nanobot",
+    "language": "Python",
+    "name": "Bastioned-successor320/learn-nanobot",
+    "stars": 10,
+    "updated_at": "2026-09-21T14:09:56Z",
+    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
+  },
+  {
+    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
+    "id": "tessellated-statisticalcommission243/deep-research-skill",
+    "language": "\u2014",
+    "name": "tessellated-statisticalcommission243/deep-research-skill",
+    "stars": 3,
+    "updated_at": "2026-09-21T14:09:47Z",
+    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-21T14:06:35Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
     "description": "\u76d8\u53e4 \u2014 AI Agent \u591a\u6a21\u6001\u8bb0\u5fc6\u7cfb\u7edf\uff1aWing\u2192Room\u2192Drawer \u5206\u5c42\u5b58\u50a8\u3001ONNX \u672c\u5730\u5d4c\u5165\u8bed\u4e49\u68c0\u7d22\uff08SQLite FTS5 + RRF \u878d\u5408\uff09\u3001\u827e\u5bbe\u6d69\u65af\u9057\u5fd8\u66f2\u7ebf\u4e0e\u795e\u7ecf\u6fc0\u6d3b\u6269\u6563\uff1b\u63d0\u4f9b REST API + MCP \u670d\u52a1\uff0c\u9ed8\u8ba4\u66b4",
     "id": "Mlte0907/pangu",
     "language": "Python",
@@ -7,6 +70,24 @@
     "stars": 1,
     "updated_at": "2026-09-21T14:06:25Z",
     "url": "https://github.com/Mlte0907/pangu"
+  },
+  {
+    "description": "IAM for your AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review risky a",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 215,
+    "updated_at": "2026-09-21T14:06:16Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
+    "id": "chadwickhyperboloidal943/knowl",
+    "language": "TypeScript",
+    "name": "chadwickhyperboloidal943/knowl",
+    "stars": 0,
+    "updated_at": "2026-09-21T14:05:47Z",
+    "url": "https://github.com/chadwickhyperboloidal943/knowl"
   },
   {
     "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
@@ -18,6 +99,15 @@
     "url": "https://github.com/Laurenfeminine36/google-jules-skill"
   },
   {
+    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
+    "id": "Jssu8541/ouro-loop",
+    "language": "\u2014",
+    "name": "Jssu8541/ouro-loop",
+    "stars": 0,
+    "updated_at": "2026-09-21T14:05:20Z",
+    "url": "https://github.com/Jssu8541/ouro-loop"
+  },
+  {
     "description": "Control AI agents anywhere. (github mirror)",
     "id": "justacalico/devinorium",
     "language": "Dart",
@@ -25,6 +115,15 @@
     "stars": 1,
     "updated_at": "2026-09-21T14:04:38Z",
     "url": "https://github.com/justacalico/devinorium"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7387,
+    "updated_at": "2026-09-21T14:03:56Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -88,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-09-21T13:58:26Z",
     "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "IAM for your AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review risky a",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 215,
-    "updated_at": "2026-09-21T14:06:16Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
     "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
@@ -216,31 +306,13 @@
     "url": "https://github.com/kudratsingh/incident-commander"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 9,
-    "updated_at": "2026-09-21T14:06:35Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
     "id": "410979729/scope-recall-hermes",
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 274,
-    "updated_at": "2026-09-21T13:36:44Z",
+    "updated_at": "2026-09-21T14:13:31Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7387,
-    "updated_at": "2026-09-21T14:03:56Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "\u7528\u5927\u6a21\u578b\u9a71\u52a8 Python \u5de5\u5177\u94fe\u5206\u6790 LIBS\uff08\u6fc0\u5149\u8bf1\u5bfc\u51fb\u7a7f\u5149\u8c31\uff09\u6570\u636e\uff1a\u6a21\u578b\u8d1f\u8d23\u51b3\u7b56\u4e0e\u89e3\u91ca\uff0cPython \u8d1f\u8d23\u8ba1\u7b97\u30029 \u4e2a\u5de5\u5177 + \u79bb\u7ebf\u81ea\u68c0 + \u5408\u6210\u793a\u4f8b\u6570\u636e\u3002",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-21T12:55:04Z",
     "url": "https://github.com/ravisinghrajput95/kubewhy"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 19,
-    "updated_at": "2026-09-21T13:03:24Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Production crypto monitor with a bring-your-own-key agent layer. Alerts when a token pulls back from a fresh high, and t",
-    "id": "xmrjun/Alpha-Reset",
-    "language": "TypeScript",
-    "name": "xmrjun/Alpha-Reset",
-    "stars": 0,
-    "updated_at": "2026-09-21T12:44:48Z",
-    "url": "https://github.com/xmrjun/Alpha-Reset"
-  },
-  {
-    "description": "Desktop GUI Headless Local-first AI coding agent in Rust (axum, tokio, rmcp, portable-pty) behind HTTP + SSE, with an An",
-    "id": "henrykbrzoska/bebok",
-    "language": "Rust",
-    "name": "henrykbrzoska/bebok",
-    "stars": 5,
-    "updated_at": "2026-09-21T12:47:43Z",
-    "url": "https://github.com/henrykbrzoska/bebok"
-  },
-  {
-    "description": "Keep agent CLIs running 7\u00d724 \u2014 supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure",
-    "id": "wan9yu/cli-agent-runner",
-    "language": "Python",
-    "name": "wan9yu/cli-agent-runner",
-    "stars": 4,
-    "updated_at": "2026-09-21T12:43:43Z",
-    "url": "https://github.com/wan9yu/cli-agent-runner"
-  },
-  {
-    "description": "\u81ea\u7136\u8bed\u8a00 \u2192 \u6574\u6570\u89c4\u5212\u5efa\u6a21 \u2192 OR-Tools \u6c42\u89e3 \u2192 \u72ec\u7acb\u9a8c\u8bc1\u7684 Agent \u539f\u578b\uff08C++ / Python\uff09",
-    "id": "eeeviann/ad-planner",
-    "language": "C++",
-    "name": "eeeviann/ad-planner",
-    "stars": 0,
-    "updated_at": "2026-09-21T12:41:34Z",
-    "url": "https://github.com/eeeviann/ad-planner"
-  },
-  {
-    "description": "\ubc18\ub3c4\uccb4 \uacf5\uc815 \uc5d4\uc9c0\ub2c8\uc5b4\ub97c \uc704\ud55c \ud3d0\uc1c4\ub9dd AI \uc5d0\uc774\uc804\ud2b8 \u2014 \uc0ac\ub0b4 \ubb38\uc11c\uc640 FDC \ub370\uc774\ud130\ub97c \uadfc\uac70\ub85c \ub2f5\ud558\uace0, \uadfc\uac70\uac00 \uc5c6\uc73c\uba74 \ub2f5\ud558\uc9c0 \uc54a\ub294\ub2e4. Recall@10 0.917 / \uc778\uc6a9 \ucda9\uc2e4\ub3c4 0.944 / \ube44\uc870\uc791\ub960 1.000",
-    "id": "smegirini/fabops",
-    "language": "Python",
-    "name": "smegirini/fabops",
-    "stars": 0,
-    "updated_at": "2026-09-21T12:35:27Z",
-    "url": "https://github.com/smegirini/fabops"
-  },
-  {
-    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
-    "id": "urankwong/agentsgo",
-    "language": "Python",
-    "name": "urankwong/agentsgo",
-    "stars": 0,
-    "updated_at": "2026-09-21T12:24:13Z",
-    "url": "https://github.com/urankwong/agentsgo"
-  },
-  {
-    "description": "Not a chatbot\u2014a tireless digital secretary. Jarvis is a persistent, self-hosted AI operating system that manages communi",
-    "id": "Lucky-1608/Jarvis",
-    "language": "Python",
-    "name": "Lucky-1608/Jarvis",
-    "stars": 0,
-    "updated_at": "2026-09-21T12:18:52Z",
-    "url": "https://github.com/Lucky-1608/Jarvis"
   }
 ]
