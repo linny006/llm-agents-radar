@@ -1,11 +1,65 @@
 [
   {
+    "description": "An autonomous on-call agent that investigates and remediates incidents on the Incident Platform through its MCP tool sur",
+    "id": "kudratsingh/incident-commander",
+    "language": "Python",
+    "name": "kudratsingh/incident-commander",
+    "stars": 0,
+    "updated_at": "2026-09-21T10:45:17Z",
+    "url": "https://github.com/kudratsingh/incident-commander"
+  },
+  {
+    "description": "\ubc18\ub3c4\uccb4 \uacf5\uc815 \uc5d4\uc9c0\ub2c8\uc5b4\ub97c \uc704\ud55c \ud3d0\uc1c4\ub9dd AI \uc5d0\uc774\uc804\ud2b8 \u2014 \uc0ac\ub0b4 \ubb38\uc11c\uc640 FDC \ub370\uc774\ud130\ub97c \uadfc\uac70\ub85c \ub2f5\ud558\uace0, \uadfc\uac70\uac00 \uc5c6\uc73c\uba74 \ub2f5\ud558\uc9c0 \uc54a\ub294\ub2e4. Recall@10 0.917 / \uc778\uc6a9 \ucda9\uc2e4\ub3c4 0.944 / \ube44\uc870\uc791\ub960 1.000",
+    "id": "smegirini/fabops",
+    "language": "Python",
+    "name": "smegirini/fabops",
+    "stars": 0,
+    "updated_at": "2026-09-21T10:43:10Z",
+    "url": "https://github.com/smegirini/fabops"
+  },
+  {
+    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
+    "id": "sky-valley/pi",
+    "language": "Go",
+    "name": "sky-valley/pi",
+    "stars": 55,
+    "updated_at": "2026-09-21T10:41:12Z",
+    "url": "https://github.com/sky-valley/pi"
+  },
+  {
+    "description": "Deterministic orchestration, execution assurance, and quota-aware continuity runtime for GLM coding agents in ZCode",
+    "id": "Chengy257/glm-conductor",
+    "language": "Python",
+    "name": "Chengy257/glm-conductor",
+    "stars": 0,
+    "updated_at": "2026-09-21T10:42:50Z",
+    "url": "https://github.com/Chengy257/glm-conductor"
+  },
+  {
+    "description": "Keep agent CLIs running 7\u00d724 \u2014 supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure",
+    "id": "wan9yu/cli-agent-runner",
+    "language": "Python",
+    "name": "wan9yu/cli-agent-runner",
+    "stars": 4,
+    "updated_at": "2026-09-21T10:39:52Z",
+    "url": "https://github.com/wan9yu/cli-agent-runner"
+  },
+  {
+    "description": "AI\uac00 \uc4f4 \uae00\uc758 \uc0ac\uc2e4 \uc8fc\uc7a5\uc744 \ubb38\uc7a5 \ub2e8\uc704\ub85c \ud655\uc778\ud558\uace0, \ud638\uc2a4\ud2b8\uac00 \ubc1c\uae09\ud55c \uc99d\uac70 \ubc88\ud638\ub85c\ub9cc \ud310\uc815\uc744 \uae30\ub85d\ud558\ub294 \uac10\uc0ac \uc5d0\uc774\uc804\ud2b8",
+    "id": "dnhynk/redline",
+    "language": "Python",
+    "name": "dnhynk/redline",
+    "stars": 0,
+    "updated_at": "2026-09-21T10:32:32Z",
+    "url": "https://github.com/dnhynk/redline"
+  },
+  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4419,
-    "updated_at": "2026-09-21T10:28:17Z",
+    "updated_at": "2026-09-21T10:31:46Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -52,15 +106,6 @@
     "stars": 9,
     "updated_at": "2026-09-21T10:16:23Z",
     "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "An autonomous on-call agent that investigates and remediates incidents on the Incident Platform through its MCP tool sur",
-    "id": "kudratsingh/incident-commander",
-    "language": "Python",
-    "name": "kudratsingh/incident-commander",
-    "stars": 0,
-    "updated_at": "2026-09-21T10:25:58Z",
-    "url": "https://github.com/kudratsingh/incident-commander"
   },
   {
     "description": "\u7535\u5546\u5e73\u53f0\u5546\u54c1\u5185\u5bb9\u6cbb\u7406\u7684\u590d\u6742\u98ce\u9669\u8c03\u67e5 Agent\uff1aLangGraph \u591a\u6b65\u8c03\u67e5 + \u786e\u5b9a\u6027 Decision Gate\uff0c\u8f93\u51fa PASS / REJECT / HUMAN_REVIEW\uff1b\u5168\u94fe\u8def\u786e\u5b9a\u6027\u53ef\u91cd\u653e\u8bc4\u6d4b",
@@ -194,7 +239,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5782,
-    "updated_at": "2026-09-21T09:58:47Z",
+    "updated_at": "2026-09-21T10:43:27Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -268,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T09:41:16Z",
     "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Keep agent CLIs running 7\u00d724 \u2014 supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure",
-    "id": "wan9yu/cli-agent-runner",
-    "language": "Python",
-    "name": "wan9yu/cli-agent-runner",
-    "stars": 4,
-    "updated_at": "2026-09-21T09:39:16Z",
-    "url": "https://github.com/wan9yu/cli-agent-runner"
   },
   {
     "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
@@ -412,41 +448,5 @@
     "stars": 344,
     "updated_at": "2026-09-21T09:01:32Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "Reproducible 16GB-VRAM Windows local-agent stack: DSH Desktop + KVMem (llama.cpp fork, KV cache in system RAM) + paramet",
-    "id": "G0K0U/kvmem-agent-16gb",
-    "language": "JavaScript",
-    "name": "G0K0U/kvmem-agent-16gb",
-    "stars": 0,
-    "updated_at": "2026-09-21T08:58:07Z",
-    "url": "https://github.com/G0K0U/kvmem-agent-16gb"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 809,
-    "updated_at": "2026-09-21T08:45:44Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-21T08:41:56Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
-    "id": "urankwong/agentsgo",
-    "language": "Python",
-    "name": "urankwong/agentsgo",
-    "stars": 0,
-    "updated_at": "2026-09-21T08:39:19Z",
-    "url": "https://github.com/urankwong/agentsgo"
   }
 ]
