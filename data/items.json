@@ -1,5 +1,50 @@
 [
   {
+    "description": "Jev plays a slot machine until the money runs out. The local version of jevslots.live.",
+    "id": "ella0333/jev-slot-machine",
+    "language": "JavaScript",
+    "name": "ella0333/jev-slot-machine",
+    "stars": 0,
+    "updated_at": "2026-09-21T22:59:58Z",
+    "url": "https://github.com/ella0333/jev-slot-machine"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 130,
+    "updated_at": "2026-09-21T22:59:26Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-21T22:56:04Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-21T22:52:29Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "All-in-one agent harness for Claude Code \u2014 Boss meta-orchestrator, 32 curated agents, 139 curated skills, 2 named workfl",
+    "id": "sehoon787/my-claude",
+    "language": "JavaScript",
+    "name": "sehoon787/my-claude",
+    "stars": 16,
+    "updated_at": "2026-09-21T22:46:56Z",
+    "url": "https://github.com/sehoon787/my-claude"
+  },
+  {
     "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
     "id": "emqnuele/projectBEA",
     "language": "Python",
@@ -18,15 +63,6 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "Jev plays a slot machine until the money runs out. The local version of jevslots.live.",
-    "id": "ella0333/jev-slot-machine",
-    "language": "JavaScript",
-    "name": "ella0333/jev-slot-machine",
-    "stars": 0,
-    "updated_at": "2026-09-21T22:40:01Z",
-    "url": "https://github.com/ella0333/jev-slot-machine"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -36,22 +72,13 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "Anti-detect agentic browser automation: undetected MCP server, Claude Code plugin, AI web browsing agent, computer use, ",
+    "description": "Anti-detect agentic browser automation: undetected browsing, MCP server, AI web browsing agent, computer use, scraping, ",
     "id": "feder-cr/AIHawk",
     "language": "Python",
     "name": "feder-cr/AIHawk",
-    "stars": 31618,
+    "stars": 31619,
     "updated_at": "2026-09-21T22:36:38Z",
     "url": "https://github.com/feder-cr/AIHawk"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 9,
-    "updated_at": "2026-09-21T22:33:49Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Autonomous execution agent on Discord \u2014 74 tools, shell access, browser automation, scheduled tasks, sub-agents, knowled",
@@ -85,7 +112,7 @@
     "id": "honestDS/MonoLight",
     "language": "Python",
     "name": "honestDS/MonoLight",
-    "stars": 5,
+    "stars": 6,
     "updated_at": "2026-09-21T21:59:01Z",
     "url": "https://github.com/honestDS/MonoLight"
   },
@@ -421,32 +448,5 @@
     "stars": 17,
     "updated_at": "2026-09-21T21:19:42Z",
     "url": "https://github.com/Smana/runlore"
-  },
-  {
-    "description": "One agent SDK, hand-ported to 7 languages \u2014 JavaScript, Python, Go, Java, C#, Elixir, Clojure \u2014 every port held to the s",
-    "id": "muthuishere/toolnexus",
-    "language": "MDX",
-    "name": "muthuishere/toolnexus",
-    "stars": 5,
-    "updated_at": "2026-09-21T19:56:52Z",
-    "url": "https://github.com/muthuishere/toolnexus"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 55,
-    "updated_at": "2026-09-21T19:51:58Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "\u672c\u5730\u4f18\u5148\u7684 AI \u957f\u671f\u8bb0\u5fc6\u670d\u52a1\uff1a\u4f1a\u9057\u5fd8\u3001\u4f1a\u8054\u60f3\u3001\u4f1a\u5de9\u56fa\u3002MCP + REST + Web UI\uff0c\u4e00\u6761\u547d\u4ee4\u88c5\u597d\uff1b\u4e0d\u7528 DSH \u4e5f\u80fd\u72ec\u7acb\u4f7f\u7528\u3002",
-    "id": "Mlte0907/pangu",
-    "language": "Python",
-    "name": "Mlte0907/pangu",
-    "stars": 1,
-    "updated_at": "2026-09-21T19:48:27Z",
-    "url": "https://github.com/Mlte0907/pangu"
   }
 ]
