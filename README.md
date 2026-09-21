@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-21 19:24 UTC
+> ⏰ Last updated: 2026-09-21 19:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 7393 | Python | 2026-09-21 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
-| 2 | [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) | 31617 | Python | 2026-09-21 | Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and compu |
-| 3 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-09-21 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 4 | [genaforvena/lte-workstation](https://github.com/genaforvena/lte-workstation) | 9 | Shell | 2026-09-21 | An autopoiesic kefir for computing machines |
-| 5 | [kyleslight/shun](https://github.com/kyleslight/shun) | 6 | TypeScript | 2026-09-21 | The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier. |
+| 1 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 7394 | Python | 2026-09-21 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 2 | [kyleslight/shun](https://github.com/kyleslight/shun) | 6 | TypeScript | 2026-09-21 | The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier. |
+| 3 | [genaforvena/lte-workstation](https://github.com/genaforvena/lte-workstation) | 9 | Shell | 2026-09-21 | An autopoiesic kefir for computing machines |
+| 4 | [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) | 31617 | Python | 2026-09-21 | Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and compu |
+| 5 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-09-21 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
 | 6 | [ljedrz/nachalnik](https://github.com/ljedrz/nachalnik) | 4 | Rust | 2026-09-21 | A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and  |
 | 7 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 128 | HTML | 2026-09-21 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
 | 8 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 3 | HTML | 2026-09-21 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |

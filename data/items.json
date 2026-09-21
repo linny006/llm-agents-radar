@@ -4,9 +4,27 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7393,
-    "updated_at": "2026-09-21T19:22:10Z",
+    "stars": 7394,
+    "updated_at": "2026-09-21T19:27:33Z",
     "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
+    "id": "kyleslight/shun",
+    "language": "TypeScript",
+    "name": "kyleslight/shun",
+    "stars": 6,
+    "updated_at": "2026-09-21T19:27:10Z",
+    "url": "https://github.com/kyleslight/shun"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-21T19:24:30Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and compu",
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "feder-cr/AIHawk",
     "stars": 31617,
-    "updated_at": "2026-09-21T19:21:14Z",
+    "updated_at": "2026-09-21T19:28:40Z",
     "url": "https://github.com/feder-cr/AIHawk"
   },
   {
@@ -25,24 +43,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T19:20:07Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 9,
-    "updated_at": "2026-09-21T19:18:21Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
-    "id": "kyleslight/shun",
-    "language": "TypeScript",
-    "name": "kyleslight/shun",
-    "stars": 6,
-    "updated_at": "2026-09-21T19:16:09Z",
-    "url": "https://github.com/kyleslight/shun"
   },
   {
     "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
