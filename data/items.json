@@ -1,12 +1,48 @@
 [
   {
+    "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
+    "id": "kashyaprajharsh/medha-agent",
+    "language": "Rust",
+    "name": "kashyaprajharsh/medha-agent",
+    "stars": 1,
+    "updated_at": "2026-09-21T17:12:45Z",
+    "url": "https://github.com/kashyaprajharsh/medha-agent"
+  },
+  {
+    "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
+    "id": "honestDS/MonoLight",
+    "language": "Python",
+    "name": "honestDS/MonoLight",
+    "stars": 5,
+    "updated_at": "2026-09-21T17:09:47Z",
+    "url": "https://github.com/honestDS/MonoLight"
+  },
+  {
+    "description": "sid-code \u4e0e claude-trace \u5171\u540c\u9762\u5bf9\u7684\u4f01\u4e1a\u7ea7\u540e\u7aef\uff1a\u63a7\u5236\u9762\uff08policy / flag / \u8eab\u4efd\uff09\u4e0e\u6570\u636e\u9762\uff08\u8f68\u8ff9 / \u4e8b\u4ef6\uff09\u540c\u4ed3\u3001\u9274\u6743\u9694\u79bb\u3002\u5df2\u4ea4\u4ed8\u8f68\u8ff9\u5b58\u50a8\u4e0e\u5206\u6790\uff0c\u5176\u4f59\u6a21\u5757\u6309\u91cc\u7a0b\u7891\u8fed\u4ee3",
+    "id": "njfuzrs/agent-backend",
+    "language": "Python",
+    "name": "njfuzrs/agent-backend",
+    "stars": 0,
+    "updated_at": "2026-09-21T17:09:05Z",
+    "url": "https://github.com/njfuzrs/agent-backend"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 7389,
-    "updated_at": "2026-09-21T16:59:14Z",
+    "updated_at": "2026-09-21T17:06:09Z",
     "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-21T17:03:44Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
@@ -41,7 +77,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 809,
-    "updated_at": "2026-09-21T16:59:12Z",
+    "updated_at": "2026-09-21T17:04:21Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -81,15 +117,6 @@
     "url": "https://github.com/PCODE-pl/MCPTap"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 9,
-    "updated_at": "2026-09-21T16:36:00Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "\u672c\u5730\u4f18\u5148\u7684 AI \u957f\u671f\u8bb0\u5fc6\u670d\u52a1\uff1a\u4f1a\u9057\u5fd8\u3001\u4f1a\u8054\u60f3\u3001\u4f1a\u5de9\u56fa\u3002MCP + REST + Web UI\uff0c\u4e00\u6761\u547d\u4ee4\u88c5\u597d\uff1b\u4e0d\u7528 DSH \u4e5f\u80fd\u72ec\u7acb\u4f7f\u7528\u3002",
     "id": "Mlte0907/pangu",
     "language": "Python",
@@ -106,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T16:31:41Z",
     "url": "https://github.com/urankwong/agentsgo"
-  },
-  {
-    "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
-    "id": "honestDS/MonoLight",
-    "language": "Python",
-    "name": "honestDS/MonoLight",
-    "stars": 5,
-    "updated_at": "2026-09-21T16:28:11Z",
-    "url": "https://github.com/honestDS/MonoLight"
   },
   {
     "description": "Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-21T15:28:58Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "An auto-evolution framework that optimizes anything \u2014 your 7\u00d724 team of algorithm engineers.",
-    "id": "ant-research/AntOmniEvo",
-    "language": "Python",
-    "name": "ant-research/AntOmniEvo",
-    "stars": 41,
-    "updated_at": "2026-09-21T15:26:26Z",
-    "url": "https://github.com/ant-research/AntOmniEvo"
-  },
-  {
-    "description": "ZCode \u6e90\u7801\u6df1\u5ea6\u7814\u8bfb\uff1a\u53ef\u4ea4\u4e92\u67b6\u6784\u5bfc\u8bfb\uff08\u56de\u5408\u4e3b\u5faa\u73af / \u5de5\u5177\u7ba1\u7ebf / \u6743\u9650\u6a21\u578b / \u4e0a\u4e0b\u6587\u538b\u7f29 / \u53cc\u534f\u8bae\u6808 / \u5b50\u4ee3\u7406\u4e0e\u5de5\u4f5c\u6d41\uff09\u00b7 Interactive deep dive into ZCode's agent architectur",
-    "id": "JS-banana/zcode-agent-study",
-    "language": "HTML",
-    "name": "JS-banana/zcode-agent-study",
-    "stars": 0,
-    "updated_at": "2026-09-21T15:26:06Z",
-    "url": "https://github.com/JS-banana/zcode-agent-study"
   }
 ]
