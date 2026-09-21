@@ -1,5 +1,77 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 24,
+    "updated_at": "2026-09-21T02:29:19Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
+    "id": "urankwong/agentsgo",
+    "language": "Python",
+    "name": "urankwong/agentsgo",
+    "stars": 0,
+    "updated_at": "2026-09-21T02:28:48Z",
+    "url": "https://github.com/urankwong/agentsgo"
+  },
+  {
+    "description": "Observability tells you what an AI system did. Flight recording lets you reconstruct why its behavior changed.",
+    "id": "wazimBadsha/ai-runtime-flight-recorder",
+    "language": "Python",
+    "name": "wazimBadsha/ai-runtime-flight-recorder",
+    "stars": 0,
+    "updated_at": "2026-09-21T02:26:51Z",
+    "url": "https://github.com/wazimBadsha/ai-runtime-flight-recorder"
+  },
+  {
+    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 538,
+    "updated_at": "2026-09-21T02:26:22Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
+    "id": "jack-h-park/pm-intelligence-engine",
+    "language": "Python",
+    "name": "jack-h-park/pm-intelligence-engine",
+    "stars": 0,
+    "updated_at": "2026-09-21T02:24:22Z",
+    "url": "https://github.com/jack-h-park/pm-intelligence-engine"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 55,
+    "updated_at": "2026-09-21T02:18:47Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
+    "id": "bigduu/Zenith",
+    "language": "JavaScript",
+    "name": "bigduu/Zenith",
+    "stars": 6,
+    "updated_at": "2026-09-21T02:18:23Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "Meowire \u2014 bionic agent harness base for Go. Pure wiring, zero default implementations: Think\u2192Act decision loop, iter.Seq",
+    "id": "qyiun666/meowire",
+    "language": "Go",
+    "name": "qyiun666/meowire",
+    "stars": 0,
+    "updated_at": "2026-09-21T02:17:59Z",
+    "url": "https://github.com/qyiun666/meowire"
+  },
+  {
     "description": "Drop-in OpenAI/Anthropic proxy that cuts long-horizon agent prompt tokens 60-95% via SKILL.state (arXiv:2608.26263). MIT",
     "id": "NosytLabs/skillstate-proxy",
     "language": "TypeScript",
@@ -34,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T02:10:08Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
-    "id": "jack-h-park/pm-intelligence-engine",
-    "language": "Python",
-    "name": "jack-h-park/pm-intelligence-engine",
-    "stars": 0,
-    "updated_at": "2026-09-21T02:05:27Z",
-    "url": "https://github.com/jack-h-park/pm-intelligence-engine"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -306,15 +369,6 @@
     "url": "https://github.com/amineeng/scraping-browser"
   },
   {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 55,
-    "updated_at": "2026-09-21T02:14:46Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
     "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
     "id": "plurnk/plurnk-service",
     "language": "TypeScript",
@@ -394,59 +448,5 @@
     "stars": 344,
     "updated_at": "2026-09-21T01:01:14Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 130,
-    "updated_at": "2026-09-21T00:59:09Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-09-21T00:45:29Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "DSH plugin: register TypeSafe Jev (System One decision model) as an agent tool \u2014 jev_decide returns calibrated probabili",
-    "id": "nanami-0713/dsh-jev-decide",
-    "language": "JavaScript",
-    "name": "nanami-0713/dsh-jev-decide",
-    "stars": 1,
-    "updated_at": "2026-09-21T00:36:24Z",
-    "url": "https://github.com/nanami-0713/dsh-jev-decide"
-  },
-  {
-    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
-    "id": "xiongweilin/agent-skills",
-    "language": "PowerShell",
-    "name": "xiongweilin/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-09-21T00:34:15Z",
-    "url": "https://github.com/xiongweilin/agent-skills"
-  },
-  {
-    "description": "Open-source AIMO3 math reasoning agent for vLLM and OpenAI-compatible models, with Python verification and consensus vot",
-    "id": "xufenghe/aimo3-agentic-inference",
-    "language": "Python",
-    "name": "xufenghe/aimo3-agentic-inference",
-    "stars": 0,
-    "updated_at": "2026-09-21T00:33:29Z",
-    "url": "https://github.com/xufenghe/aimo3-agentic-inference"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-09-21T00:32:02Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   }
 ]
