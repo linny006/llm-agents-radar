@@ -1,5 +1,149 @@
 [
   {
+    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
+    "id": "Bastioned-successor320/learn-nanobot",
+    "language": "Python",
+    "name": "Bastioned-successor320/learn-nanobot",
+    "stars": 10,
+    "updated_at": "2026-09-21T23:27:22Z",
+    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
+  },
+  {
+    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
+    "id": "Samuelcluttered613/paper2code",
+    "language": "Python",
+    "name": "Samuelcluttered613/paper2code",
+    "stars": 1,
+    "updated_at": "2026-09-21T23:27:05Z",
+    "url": "https://github.com/Samuelcluttered613/paper2code"
+  },
+  {
+    "description": "All-in-one agent harness for OpenAI Codex CLI \u2014 Boss meta-orchestrator, 17 curated agents (+17 opt-in AI specialists), 1",
+    "id": "sehoon787/my-codex",
+    "language": "Shell",
+    "name": "sehoon787/my-codex",
+    "stars": 28,
+    "updated_at": "2026-09-21T23:27:01Z",
+    "url": "https://github.com/sehoon787/my-codex"
+  },
+  {
+    "description": "All-in-one agent harness for Claude Code \u2014 Boss meta-orchestrator, 32 curated agents, 139 curated skills, 2 named workfl",
+    "id": "sehoon787/my-claude",
+    "language": "JavaScript",
+    "name": "sehoon787/my-claude",
+    "stars": 16,
+    "updated_at": "2026-09-21T23:26:57Z",
+    "url": "https://github.com/sehoon787/my-claude"
+  },
+  {
+    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
+    "id": "tessellated-statisticalcommission243/deep-research-skill",
+    "language": "\u2014",
+    "name": "tessellated-statisticalcommission243/deep-research-skill",
+    "stars": 3,
+    "updated_at": "2026-09-21T23:26:42Z",
+    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-21T23:25:17Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
+    "id": "chadwickhyperboloidal943/knowl",
+    "language": "TypeScript",
+    "name": "chadwickhyperboloidal943/knowl",
+    "stars": 0,
+    "updated_at": "2026-09-21T23:23:04Z",
+    "url": "https://github.com/chadwickhyperboloidal943/knowl"
+  },
+  {
+    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
+    "id": "Laurenfeminine36/google-jules-skill",
+    "language": "Python",
+    "name": "Laurenfeminine36/google-jules-skill",
+    "stars": 1,
+    "updated_at": "2026-09-21T23:22:47Z",
+    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
+  },
+  {
+    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
+    "id": "Jssu8541/ouro-loop",
+    "language": "\u2014",
+    "name": "Jssu8541/ouro-loop",
+    "stars": 0,
+    "updated_at": "2026-09-21T23:22:36Z",
+    "url": "https://github.com/Jssu8541/ouro-loop"
+  },
+  {
+    "description": "Jev plays a slot machine until the money runs out. The local version of jevslots.live.",
+    "id": "ella0333/jev-slot-machine",
+    "language": "JavaScript",
+    "name": "ella0333/jev-slot-machine",
+    "stars": 0,
+    "updated_at": "2026-09-21T23:20:49Z",
+    "url": "https://github.com/ella0333/jev-slot-machine"
+  },
+  {
+    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
+    "id": "Asim00740/Kagantic-vault-structure",
+    "language": "\u2014",
+    "name": "Asim00740/Kagantic-vault-structure",
+    "stars": 0,
+    "updated_at": "2026-09-21T23:20:31Z",
+    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
+  },
+  {
+    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
+    "id": "Tonyx79/clov-ai",
+    "language": "Rust",
+    "name": "Tonyx79/clov-ai",
+    "stars": 0,
+    "updated_at": "2026-09-21T23:20:08Z",
+    "url": "https://github.com/Tonyx79/clov-ai"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7411,
+    "updated_at": "2026-09-21T23:18:23Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
+    "id": "Victongo/ai-daily-news",
+    "language": "Ruby",
+    "name": "Victongo/ai-daily-news",
+    "stars": 3,
+    "updated_at": "2026-09-21T23:17:29Z",
+    "url": "https://github.com/Victongo/ai-daily-news"
+  },
+  {
+    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
+    "id": "mena256/ai-pair-engineer",
+    "language": "Python",
+    "name": "mena256/ai-pair-engineer",
+    "stars": 0,
+    "updated_at": "2026-09-21T23:17:29Z",
+    "url": "https://github.com/mena256/ai-pair-engineer"
+  },
+  {
+    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
+    "id": "mamon9022/poc-fls-node-epicronicles",
+    "language": "TypeScript",
+    "name": "mamon9022/poc-fls-node-epicronicles",
+    "stars": 2,
+    "updated_at": "2026-09-21T23:16:23Z",
+    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
+  },
+  {
     "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
     "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
     "language": "HTML",
@@ -7,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T23:12:35Z",
     "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7412,
-    "updated_at": "2026-09-21T23:10:30Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "A private AI agent that runs on your Android phone \u2014 on-device Go gateway, local dashboard, real arm64 tools, and Telegr",
@@ -81,33 +216,6 @@
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 9,
-    "updated_at": "2026-09-21T23:03:12Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "All-in-one agent harness for OpenAI Codex CLI \u2014 Boss meta-orchestrator, 17 curated agents (+17 opt-in AI specialists), 1",
-    "id": "sehoon787/my-codex",
-    "language": "Shell",
-    "name": "sehoon787/my-codex",
-    "stars": 28,
-    "updated_at": "2026-09-21T23:01:09Z",
-    "url": "https://github.com/sehoon787/my-codex"
-  },
-  {
-    "description": "Jev plays a slot machine until the money runs out. The local version of jevslots.live.",
-    "id": "ella0333/jev-slot-machine",
-    "language": "JavaScript",
-    "name": "ella0333/jev-slot-machine",
-    "stars": 0,
-    "updated_at": "2026-09-21T22:59:58Z",
-    "url": "https://github.com/ella0333/jev-slot-machine"
-  },
-  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -124,15 +232,6 @@
     "stars": 10,
     "updated_at": "2026-09-21T22:52:29Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "All-in-one agent harness for Claude Code \u2014 Boss meta-orchestrator, 32 curated agents, 139 curated skills, 2 named workfl",
-    "id": "sehoon787/my-claude",
-    "language": "JavaScript",
-    "name": "sehoon787/my-claude",
-    "stars": 16,
-    "updated_at": "2026-09-21T22:46:56Z",
-    "url": "https://github.com/sehoon787/my-claude"
   },
   {
     "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
@@ -153,11 +252,11 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "Anti-detect agentic browser automation: undetected browsing, MCP server, AI web browsing agent, browser computer use, sc",
+    "description": "Anti-detect agentic browser: undetected browsing, browser automation, MCP server, AI web browsing agent, computer use, s",
     "id": "feder-cr/AIHawk",
     "language": "Python",
     "name": "feder-cr/AIHawk",
-    "stars": 31619,
+    "stars": 31620,
     "updated_at": "2026-09-21T22:36:38Z",
     "url": "https://github.com/feder-cr/AIHawk"
   },
@@ -322,105 +421,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T21:34:00Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
-    "id": "Samuelcluttered613/paper2code",
-    "language": "Python",
-    "name": "Samuelcluttered613/paper2code",
-    "stars": 1,
-    "updated_at": "2026-09-21T21:32:04Z",
-    "url": "https://github.com/Samuelcluttered613/paper2code"
-  },
-  {
-    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
-    "id": "Bastioned-successor320/learn-nanobot",
-    "language": "Python",
-    "name": "Bastioned-successor320/learn-nanobot",
-    "stars": 10,
-    "updated_at": "2026-09-21T21:31:48Z",
-    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
-  },
-  {
-    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
-    "id": "tessellated-statisticalcommission243/deep-research-skill",
-    "language": "\u2014",
-    "name": "tessellated-statisticalcommission243/deep-research-skill",
-    "stars": 3,
-    "updated_at": "2026-09-21T21:31:37Z",
-    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
-    "id": "chadwickhyperboloidal943/knowl",
-    "language": "TypeScript",
-    "name": "chadwickhyperboloidal943/knowl",
-    "stars": 0,
-    "updated_at": "2026-09-21T21:27:53Z",
-    "url": "https://github.com/chadwickhyperboloidal943/knowl"
-  },
-  {
-    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
-    "id": "Laurenfeminine36/google-jules-skill",
-    "language": "Python",
-    "name": "Laurenfeminine36/google-jules-skill",
-    "stars": 1,
-    "updated_at": "2026-09-21T21:27:35Z",
-    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-09-21T21:27:28Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-09-21T21:25:17Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 0,
-    "updated_at": "2026-09-21T21:24:55Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 3,
-    "updated_at": "2026-09-21T21:22:27Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-09-21T21:22:14Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-09-21T21:21:06Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
   },
   {
     "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
