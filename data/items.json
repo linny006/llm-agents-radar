@@ -1,12 +1,21 @@
 [
   {
-    "description": "Autonomous execution agent on Discord \u2014 74 tools, shell access, browser automation, scheduled tasks, sub-agents, knowled",
-    "id": "Calmingstorm/Odin",
-    "language": "Python",
-    "name": "Calmingstorm/Odin",
-    "stars": 3,
-    "updated_at": "2026-09-21T14:30:11Z",
-    "url": "https://github.com/Calmingstorm/Odin"
+    "description": "PWA for Magic: The Gathering \u2014 life tracking at dice speed for 2\u20136 players, plus an AI rules judge grounded in the Compr",
+    "id": "KiKDraS/mtg-life-counter-app",
+    "language": "TypeScript",
+    "name": "KiKDraS/mtg-life-counter-app",
+    "stars": 0,
+    "updated_at": "2026-09-21T14:43:54Z",
+    "url": "https://github.com/KiKDraS/mtg-life-counter-app"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-21T14:43:09Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -14,8 +23,44 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 7388,
-    "updated_at": "2026-09-21T14:29:50Z",
+    "updated_at": "2026-09-21T14:38:54Z",
     "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "\u76d8\u53e4 \u2014 AI Agent \u591a\u6a21\u6001\u8bb0\u5fc6\u7cfb\u7edf\uff1aWing\u2192Room\u2192Drawer \u5206\u5c42\u5b58\u50a8\u3001ONNX \u672c\u5730\u5d4c\u5165\u8bed\u4e49\u68c0\u7d22\uff08SQLite FTS5 + RRF \u878d\u5408\uff09\u3001\u827e\u5bbe\u6d69\u65af\u9057\u5fd8\u66f2\u7ebf\u4e0e\u795e\u7ecf\u6fc0\u6d3b\u6269\u6563\uff1b\u63d0\u4f9b REST API + MCP \u670d\u52a1\uff0c\u9ed8\u8ba4\u66b4",
+    "id": "Mlte0907/pangu",
+    "language": "Python",
+    "name": "Mlte0907/pangu",
+    "stars": 1,
+    "updated_at": "2026-09-21T14:36:25Z",
+    "url": "https://github.com/Mlte0907/pangu"
+  },
+  {
+    "description": "Document-grounded adaptive tutoring with bounded tool-use agents",
+    "id": "tx3457/study-loop",
+    "language": "Python",
+    "name": "tx3457/study-loop",
+    "stars": 0,
+    "updated_at": "2026-09-21T14:36:05Z",
+    "url": "https://github.com/tx3457/study-loop"
+  },
+  {
+    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
+    "id": "KaletoAI/anima-verse",
+    "language": "Python",
+    "name": "KaletoAI/anima-verse",
+    "stars": 4,
+    "updated_at": "2026-09-21T14:30:35Z",
+    "url": "https://github.com/KaletoAI/anima-verse"
+  },
+  {
+    "description": "Autonomous execution agent on Discord \u2014 74 tools, shell access, browser automation, scheduled tasks, sub-agents, knowled",
+    "id": "Calmingstorm/Odin",
+    "language": "Python",
+    "name": "Calmingstorm/Odin",
+    "stars": 3,
+    "updated_at": "2026-09-21T14:30:25Z",
+    "url": "https://github.com/Calmingstorm/Odin"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -23,15 +68,24 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-09-21T14:29:35Z",
+    "updated_at": "2026-09-21T14:32:47Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Pokemon Red played by Jev, a model that only outputs probabilities. Based on valentynkit/jev-plays-pokemon-red (MIT).",
+    "id": "BrickerP/jev-plays-pokemon-red",
+    "language": "Python",
+    "name": "BrickerP/jev-plays-pokemon-red",
+    "stars": 0,
+    "updated_at": "2026-09-21T14:29:28Z",
+    "url": "https://github.com/BrickerP/jev-plays-pokemon-red"
   },
   {
     "description": "Experimental TypeScript plugin for STM/SPM control in DeepSeek Harness, with simulator workflows, persistent tool record",
     "id": "HamsterPark/dsh-spm",
     "language": "TypeScript",
     "name": "HamsterPark/dsh-spm",
-    "stars": 0,
+    "stars": 2,
     "updated_at": "2026-09-21T14:23:33Z",
     "url": "https://github.com/HamsterPark/dsh-spm"
   },
@@ -144,15 +198,6 @@
     "url": "https://github.com/pruthviraj00007/VibeHarness"
   },
   {
-    "description": "\u76d8\u53e4 \u2014 AI Agent \u591a\u6a21\u6001\u8bb0\u5fc6\u7cfb\u7edf\uff1aWing\u2192Room\u2192Drawer \u5206\u5c42\u5b58\u50a8\u3001ONNX \u672c\u5730\u5d4c\u5165\u8bed\u4e49\u68c0\u7d22\uff08SQLite FTS5 + RRF \u878d\u5408\uff09\u3001\u827e\u5bbe\u6d69\u65af\u9057\u5fd8\u66f2\u7ebf\u4e0e\u795e\u7ecf\u6fc0\u6d3b\u6269\u6563\uff1b\u63d0\u4f9b REST API + MCP \u670d\u52a1\uff0c\u9ed8\u8ba4\u66b4",
-    "id": "Mlte0907/pangu",
-    "language": "Python",
-    "name": "Mlte0907/pangu",
-    "stars": 1,
-    "updated_at": "2026-09-21T14:15:31Z",
-    "url": "https://github.com/Mlte0907/pangu"
-  },
-  {
     "description": "\u57fa\u4e8eLLM\u7684\u91cf\u5316\u56e0\u5b50\u5f00\u53d1Agent",
     "id": "ZXTLQQ/FactorGPT",
     "language": "Python",
@@ -205,15 +250,6 @@
     "stars": 3,
     "updated_at": "2026-09-21T14:09:47Z",
     "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 9,
-    "updated_at": "2026-09-21T14:06:35Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "IAM for your AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review risky a",
@@ -412,41 +448,5 @@
     "stars": 82,
     "updated_at": "2026-09-21T13:45:42Z",
     "url": "https://github.com/lkimuk/Wuwe"
-  },
-  {
-    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
-    "id": "expectedparrot/edsl",
-    "language": "Python",
-    "name": "expectedparrot/edsl",
-    "stars": 497,
-    "updated_at": "2026-09-21T13:39:16Z",
-    "url": "https://github.com/expectedparrot/edsl"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 130,
-    "updated_at": "2026-09-21T13:36:47Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "An autonomous on-call agent that investigates and remediates incidents on the Incident Platform through its MCP tool sur",
-    "id": "kudratsingh/incident-commander",
-    "language": "Python",
-    "name": "kudratsingh/incident-commander",
-    "stars": 0,
-    "updated_at": "2026-09-21T13:35:33Z",
-    "url": "https://github.com/kudratsingh/incident-commander"
-  },
-  {
-    "description": "\u7528\u5927\u6a21\u578b\u9a71\u52a8 Python \u5de5\u5177\u94fe\u5206\u6790 LIBS\uff08\u6fc0\u5149\u8bf1\u5bfc\u51fb\u7a7f\u5149\u8c31\uff09\u6570\u636e\uff1a\u6a21\u578b\u8d1f\u8d23\u51b3\u7b56\u4e0e\u89e3\u91ca\uff0cPython \u8d1f\u8d23\u8ba1\u7b97\u30029 \u4e2a\u5de5\u5177 + \u79bb\u7ebf\u81ea\u68c0 + \u5408\u6210\u793a\u4f8b\u6570\u636e\u3002",
-    "id": "AXE778/libs-agent",
-    "language": "Python",
-    "name": "AXE778/libs-agent",
-    "stars": 0,
-    "updated_at": "2026-09-21T13:28:23Z",
-    "url": "https://github.com/AXE778/libs-agent"
   }
 ]
