@@ -1,5 +1,41 @@
 [
   {
+    "description": "AI-powered delivery-risk and investigation workbench over the public Olist e-commerce dataset",
+    "id": "Devansh09112002/OpsPilot",
+    "language": "Python",
+    "name": "Devansh09112002/OpsPilot",
+    "stars": 1,
+    "updated_at": "2026-09-21T17:28:35Z",
+    "url": "https://github.com/Devansh09112002/OpsPilot"
+  },
+  {
+    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
+    "id": "PCODE-pl/MCPTap",
+    "language": "Python",
+    "name": "PCODE-pl/MCPTap",
+    "stars": 1,
+    "updated_at": "2026-09-21T17:26:55Z",
+    "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
+    "description": "ICCAD 2026 CAD Contest Problem A. Natural-language netlist exploration where the LLM routes and a deterministic EDA engi",
+    "id": "zcgilbert/iccad-2026-llm-netlist-agent",
+    "language": "Python",
+    "name": "zcgilbert/iccad-2026-llm-netlist-agent",
+    "stars": 0,
+    "updated_at": "2026-09-21T17:18:59Z",
+    "url": "https://github.com/zcgilbert/iccad-2026-llm-netlist-agent"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-09-21T17:27:24Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
     "id": "kashyaprajharsh/medha-agent",
     "language": "Rust",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "honestDS/MonoLight",
     "stars": 5,
-    "updated_at": "2026-09-21T17:09:47Z",
+    "updated_at": "2026-09-21T17:20:44Z",
     "url": "https://github.com/honestDS/MonoLight"
   },
   {
@@ -106,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-09-21T16:36:34Z",
     "url": "https://github.com/SeupLio/ai-npc-agent"
-  },
-  {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-09-21T16:36:16Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
   },
   {
     "description": "\u672c\u5730\u4f18\u5148\u7684 AI \u957f\u671f\u8bb0\u5fc6\u670d\u52a1\uff1a\u4f1a\u9057\u5fd8\u3001\u4f1a\u8054\u60f3\u3001\u4f1a\u5de9\u56fa\u3002MCP + REST + Web UI\uff0c\u4e00\u6761\u547d\u4ee4\u88c5\u597d\uff1b\u4e0d\u7528 DSH \u4e5f\u80fd\u72ec\u7acb\u4f7f\u7528\u3002",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-21T15:47:41Z",
     "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-09-21T15:45:57Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "Tool-calling agent that answers analytical questions by writing guarded read-only SQL against a DuckDB star schema, with",
-    "id": "0yman/port-analyst-agent",
-    "language": "Python",
-    "name": "0yman/port-analyst-agent",
-    "stars": 0,
-    "updated_at": "2026-09-21T15:33:10Z",
-    "url": "https://github.com/0yman/port-analyst-agent"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-09-21T15:28:58Z",
-    "url": "https://github.com/b-macker/NAAb"
   }
 ]
