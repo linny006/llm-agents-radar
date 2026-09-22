@@ -1,5 +1,23 @@
 [
   {
+    "description": "Deterministic orchestration, execution assurance, and quota-aware continuity runtime for GLM coding agents in ZCode",
+    "id": "Chengy257/glm-conductor",
+    "language": "Python",
+    "name": "Chengy257/glm-conductor",
+    "stars": 0,
+    "updated_at": "2026-09-22T04:59:58Z",
+    "url": "https://github.com/Chengy257/glm-conductor"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-22T04:48:08Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
     "description": "Control AI agents anywhere. (github mirror)",
     "id": "justacalico/devinorium",
     "language": "Dart",
@@ -34,15 +52,6 @@
     "stars": 543,
     "updated_at": "2026-09-22T04:32:05Z",
     "url": "https://github.com/agentpit-io/hunter-community"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 9,
-    "updated_at": "2026-09-22T04:28:34Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -104,7 +113,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-22T04:36:30Z",
+    "updated_at": "2026-09-22T04:51:26Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -220,7 +229,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 32138,
+    "stars": 32139,
     "updated_at": "2026-09-22T03:33:50Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -288,15 +297,6 @@
     "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
   },
   {
-    "description": "Deterministic orchestration, execution assurance, and quota-aware continuity runtime for GLM coding agents in ZCode",
-    "id": "Chengy257/glm-conductor",
-    "language": "Python",
-    "name": "Chengy257/glm-conductor",
-    "stars": 0,
-    "updated_at": "2026-09-22T03:28:59Z",
-    "url": "https://github.com/Chengy257/glm-conductor"
-  },
-  {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
     "id": "pruthviraj00007/VibeHarness",
     "language": "Python",
@@ -347,7 +347,7 @@
     "language": "Python",
     "name": "njfuzrs/agent-backend",
     "stars": 0,
-    "updated_at": "2026-09-22T03:22:51Z",
+    "updated_at": "2026-09-22T04:50:54Z",
     "url": "https://github.com/njfuzrs/agent-backend"
   },
   {
