@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83e\udd16 MioChat \u2014 \u5f00\u6e90\u7684 Agent \u64cd\u4f5c\u7cfb\u7edf\u3002Agent / Session / SubAgent \u4e09\u7ea7\u4e0a\u4e0b\u6587\u6a21\u578b\u3001V3 Hook \u5207\u9762\u3001MCP + Skills \u53cc\u6807\u51c6\u5de5\u5177\u751f\u6001\u3001\u591a\u6e20\u9053\u63a5\u5165\u4e0e\u5b9a\u65f6\u81ea\u6cbb\u3002\u6a21\u578b\u65e0\u5173\u3001\u81ea\u6258\u7ba1\u3002",
+    "id": "Pretend-to/mio-chat-backend",
+    "language": "JavaScript",
+    "name": "Pretend-to/mio-chat-backend",
+    "stars": 38,
+    "updated_at": "2026-09-22T20:33:26Z",
+    "url": "https://github.com/Pretend-to/mio-chat-backend"
+  },
+  {
     "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
     "id": "emqnuele/projectBEA",
     "language": "Python",
@@ -23,7 +32,7 @@
     "language": "TypeScript",
     "name": "KiKDraS/mtg-life-counter-app",
     "stars": 0,
-    "updated_at": "2026-09-22T20:29:59Z",
+    "updated_at": "2026-09-22T20:31:07Z",
     "url": "https://github.com/KiKDraS/mtg-life-counter-app"
   },
   {
@@ -49,7 +58,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7547,
+    "stars": 7549,
     "updated_at": "2026-09-22T20:09:44Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -113,7 +122,7 @@
     "language": "Go",
     "name": "grauwolf32/contractor",
     "stars": 2,
-    "updated_at": "2026-09-22T20:29:37Z",
+    "updated_at": "2026-09-22T20:41:26Z",
     "url": "https://github.com/grauwolf32/contractor"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-22T18:17:00Z",
     "url": "https://github.com/Gi1gamesh123/frx-director-mcp"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-09-22T18:16:09Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
   }
 ]
