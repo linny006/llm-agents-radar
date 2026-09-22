@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "PCODE-pl/MCPTap",
     "stars": 1,
-    "updated_at": "2026-09-22T16:24:19Z",
+    "updated_at": "2026-09-22T16:43:37Z",
     "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
+    "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
+    "id": "edjafarov/kiagent-core",
+    "language": "TypeScript",
+    "name": "edjafarov/kiagent-core",
+    "stars": 7,
+    "updated_at": "2026-09-22T16:39:50Z",
+    "url": "https://github.com/edjafarov/kiagent-core"
+  },
+  {
+    "description": "SkillAdam: Better Skills for Your AI Agent\ud83d\ude80 Claude Code/Codex/Cursor \u63d2\u4ef6\uff0c\u4e00\u952e\u8fdb\u5316\u4f60\u7684skill",
+    "id": "ruc-datalab/SkillAdam",
+    "language": "Python",
+    "name": "ruc-datalab/SkillAdam",
+    "stars": 76,
+    "updated_at": "2026-09-22T16:38:01Z",
+    "url": "https://github.com/ruc-datalab/SkillAdam"
+  },
+  {
+    "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
+    "id": "yurika0211/lucky-agent",
+    "language": "Go",
+    "name": "yurika0211/lucky-agent",
+    "stars": 14,
+    "updated_at": "2026-09-22T16:39:27Z",
+    "url": "https://github.com/yurika0211/lucky-agent"
+  },
+  {
+    "description": "One agent SDK, hand-ported to 7 languages \u2014 JavaScript, Python, Go, Java, C#, Elixir, Clojure \u2014 every port held to the s",
+    "id": "muthuishere/toolnexus",
+    "language": "MDX",
+    "name": "muthuishere/toolnexus",
+    "stars": 5,
+    "updated_at": "2026-09-22T16:35:27Z",
+    "url": "https://github.com/muthuishere/toolnexus"
+  },
+  {
+    "description": "A statically typed scripting language, embedded in Rust. Scripts, templates and single expressions share one compiler",
+    "id": "ArtBlnd/acvus",
+    "language": "Rust",
+    "name": "ArtBlnd/acvus",
+    "stars": 12,
+    "updated_at": "2026-09-22T16:31:05Z",
+    "url": "https://github.com/ArtBlnd/acvus"
   },
   {
     "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
@@ -121,7 +166,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 714,
+    "stars": 715,
     "updated_at": "2026-09-22T15:52:35Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -187,15 +232,6 @@
     "stars": 4,
     "updated_at": "2026-09-22T15:42:11Z",
     "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
-    "description": "One agent SDK, hand-ported to 7 languages \u2014 JavaScript, Python, Go, Java, C#, Elixir, Clojure \u2014 every port held to the s",
-    "id": "muthuishere/toolnexus",
-    "language": "MDX",
-    "name": "muthuishere/toolnexus",
-    "stars": 5,
-    "updated_at": "2026-09-22T16:06:17Z",
-    "url": "https://github.com/muthuishere/toolnexus"
   },
   {
     "description": "sid-code \u4e0e claude-trace \u5171\u540c\u9762\u5bf9\u7684\u4f01\u4e1a\u7ea7\u540e\u7aef\uff1a\u63a7\u5236\u9762\uff08policy / flag / \u8eab\u4efd\uff09\u4e0e\u6570\u636e\u9762\uff08\u8f68\u8ff9 / \u4e8b\u4ef6\uff09\u540c\u4ed3\u3001\u9274\u6743\u9694\u79bb\u3002\u5df2\u4ea4\u4ed8\u8f68\u8ff9\u5b58\u50a8\u4e0e\u5206\u6790\uff0c\u5176\u4f59\u6a21\u5757\u6309\u91cc\u7a0b\u7891\u8fed\u4ee3",
@@ -311,7 +347,7 @@
     "language": "Python",
     "name": "emqnuele/projectBEA",
     "stars": 18,
-    "updated_at": "2026-09-22T16:19:11Z",
+    "updated_at": "2026-09-22T16:44:26Z",
     "url": "https://github.com/emqnuele/projectBEA"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-22T14:46:39Z",
     "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-09-22T14:44:22Z",
-    "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Terminal chess in Python: local play, Minimax bot, Claude API mode, and Claude Code worker integration",
-    "id": "entertain-and-more/ChatAndChess",
-    "language": "Python",
-    "name": "entertain-and-more/ChatAndChess",
-    "stars": 1,
-    "updated_at": "2026-09-22T14:42:36Z",
-    "url": "https://github.com/entertain-and-more/ChatAndChess"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-09-22T14:39:59Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-09-22T14:39:46Z",
-    "url": "https://github.com/Bowotria/aethercore"
   }
 ]
