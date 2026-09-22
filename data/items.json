@@ -1,5 +1,68 @@
 [
   {
+    "description": "Multi-step SQL agent over a relational e-commerce database: schema exploration, self-correcting retry loop, numeric hall",
+    "id": "JAYANSHUBADLANI/grounded-data-analyst-agent",
+    "language": "Python",
+    "name": "JAYANSHUBADLANI/grounded-data-analyst-agent",
+    "stars": 0,
+    "updated_at": "2026-09-22T20:14:48Z",
+    "url": "https://github.com/JAYANSHUBADLANI/grounded-data-analyst-agent"
+  },
+  {
+    "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
+    "id": "denisotree/veles",
+    "language": "Python",
+    "name": "denisotree/veles",
+    "stars": 4,
+    "updated_at": "2026-09-22T20:13:23Z",
+    "url": "https://github.com/denisotree/veles"
+  },
+  {
+    "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
+    "id": "khudayarovich/onflip-agent",
+    "language": "TypeScript",
+    "name": "khudayarovich/onflip-agent",
+    "stars": 4,
+    "updated_at": "2026-09-22T20:09:22Z",
+    "url": "https://github.com/khudayarovich/onflip-agent"
+  },
+  {
+    "description": "The real-world Jarvis for your PC \u2014 a voice AI that sees your screen and actually drives it: clicks, types, and runs mul",
+    "id": "nileshpatil6/Aura",
+    "language": "JavaScript",
+    "name": "nileshpatil6/Aura",
+    "stars": 5,
+    "updated_at": "2026-09-22T20:08:25Z",
+    "url": "https://github.com/nileshpatil6/Aura"
+  },
+  {
+    "description": "Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into",
+    "id": "AskTheWay/dsh-auto-memory",
+    "language": "TypeScript",
+    "name": "AskTheWay/dsh-auto-memory",
+    "stars": 1,
+    "updated_at": "2026-09-22T20:08:13Z",
+    "url": "https://github.com/AskTheWay/dsh-auto-memory"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7546,
+    "updated_at": "2026-09-22T20:09:44Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u7684 AI \u957f\u671f\u8bb0\u5fc6\u670d\u52a1\uff1a\u4f1a\u9057\u5fd8\u3001\u4f1a\u8054\u60f3\u3001\u4f1a\u5de9\u56fa\u3002MCP + REST + Web UI\uff0c\u4e00\u6761\u547d\u4ee4\u88c5\u597d\uff1b\u4e0d\u7528 DSH \u4e5f\u80fd\u72ec\u7acb\u4f7f\u7528\u3002",
+    "id": "Mlte0907/pangu",
+    "language": "Python",
+    "name": "Mlte0907/pangu",
+    "stars": 1,
+    "updated_at": "2026-09-22T20:01:46Z",
+    "url": "https://github.com/Mlte0907/pangu"
+  },
+  {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -27,31 +90,13 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "The real-world Jarvis for your PC \u2014 a voice AI that sees your screen and actually drives it: clicks, types, and runs mul",
-    "id": "nileshpatil6/Aura",
-    "language": "JavaScript",
-    "name": "nileshpatil6/Aura",
-    "stars": 5,
-    "updated_at": "2026-09-22T19:57:47Z",
-    "url": "https://github.com/nileshpatil6/Aura"
-  },
-  {
     "description": "Application Security orchestration platform",
     "id": "grauwolf32/contractor",
     "language": "Go",
     "name": "grauwolf32/contractor",
     "stars": 2,
-    "updated_at": "2026-09-22T19:55:25Z",
+    "updated_at": "2026-09-22T20:08:01Z",
     "url": "https://github.com/grauwolf32/contractor"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7546,
-    "updated_at": "2026-09-22T19:49:49Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
@@ -70,15 +115,6 @@
     "stars": 28,
     "updated_at": "2026-09-22T19:45:30Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
-    "id": "khudayarovich/onflip-agent",
-    "language": "TypeScript",
-    "name": "khudayarovich/onflip-agent",
-    "stars": 4,
-    "updated_at": "2026-09-22T19:41:57Z",
-    "url": "https://github.com/khudayarovich/onflip-agent"
   },
   {
     "description": "Lawgent \u2014 an open-source legal AI agent. Grounded, multi-jurisdiction (CN \u00b7 US \u00b7 EU \u00b7 ET \u00b7 ICAO), citation-verified: eve",
@@ -360,15 +396,6 @@
     "url": "https://github.com/axxafo/awesome-agent-benchmarks"
   },
   {
-    "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
-    "id": "denisotree/veles",
-    "language": "Python",
-    "name": "denisotree/veles",
-    "stars": 4,
-    "updated_at": "2026-09-22T19:12:28Z",
-    "url": "https://github.com/denisotree/veles"
-  },
-  {
     "description": "Talk to your organization's data \u2014 agentic analytics assistant over StarRocks, with Claude via Azure AI Foundry and an O",
     "id": "leonardomb1/perguntai",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-22T18:11:11Z",
     "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "Not a chatbot\u2014a tireless digital secretary. Jarvis is a persistent, self-hosted AI operating system that manages communi",
-    "id": "Lucky-1608/Jarvis",
-    "language": "Python",
-    "name": "Lucky-1608/Jarvis",
-    "stars": 0,
-    "updated_at": "2026-09-22T18:10:23Z",
-    "url": "https://github.com/Lucky-1608/Jarvis"
-  },
-  {
-    "description": "A framework-agnostic UI kit of production-ready components for building AI and LLM chat interfaces.",
-    "id": "loquix-dev/loquix",
-    "language": "TypeScript",
-    "name": "loquix-dev/loquix",
-    "stars": 40,
-    "updated_at": "2026-09-22T18:04:08Z",
-    "url": "https://github.com/loquix-dev/loquix"
-  },
-  {
-    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
-    "id": "SHUKLAO/call-with-ai-agent",
-    "language": "\u2014",
-    "name": "SHUKLAO/call-with-ai-agent",
-    "stars": 3,
-    "updated_at": "2026-09-22T18:03:45Z",
-    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
   }
 ]
