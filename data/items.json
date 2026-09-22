@@ -1,12 +1,93 @@
 [
   {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 1,
+    "updated_at": "2026-09-22T06:59:26Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
+    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
+    "id": "ravisinghrajput95/kubewhy",
+    "language": "Python",
+    "name": "ravisinghrajput95/kubewhy",
+    "stars": 0,
+    "updated_at": "2026-09-22T06:57:45Z",
+    "url": "https://github.com/ravisinghrajput95/kubewhy"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-09-22T06:57:45Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 24,
+    "updated_at": "2026-09-22T06:57:41Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u7684\u684c\u9762 AI \u667a\u80fd\u4f53\uff1a\u5bf9\u8bdd / \u684c\u5ba0 / \u76f4\u64ad\u4e92\u52a8 / \u5de5\u4f5c\u6d41 / \u81ea\u52a8\u5316 / \u77e5\u8bc6\u5e93 / \u8bb0\u5fc6\uff0c\u6a21\u578b\u8c03\u7528\u8d70\u4f60\u81ea\u5df1\u7684 Key\uff0c\u6570\u636e\u7559\u5728\u672c\u673a\u3002Tauri 2 + React 19 + Python 3.13\u3002",
+    "id": "Hayliy/naixi-desktop",
+    "language": "Python",
+    "name": "Hayliy/naixi-desktop",
+    "stars": 0,
+    "updated_at": "2026-09-22T06:57:19Z",
+    "url": "https://github.com/Hayliy/naixi-desktop"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u7684 AI \u957f\u671f\u8bb0\u5fc6\u670d\u52a1\uff1a\u4f1a\u9057\u5fd8\u3001\u4f1a\u8054\u60f3\u3001\u4f1a\u5de9\u56fa\u3002MCP + REST + Web UI\uff0c\u4e00\u6761\u547d\u4ee4\u88c5\u597d\uff1b\u4e0d\u7528 DSH \u4e5f\u80fd\u72ec\u7acb\u4f7f\u7528\u3002",
+    "id": "Mlte0907/pangu",
+    "language": "Python",
+    "name": "Mlte0907/pangu",
+    "stars": 1,
+    "updated_at": "2026-09-22T06:57:12Z",
+    "url": "https://github.com/Mlte0907/pangu"
+  },
+  {
+    "description": "Evidence-gated vulnerability research for AI security agents.",
+    "id": "xingchen20lj/vulngate",
+    "language": "Python",
+    "name": "xingchen20lj/vulngate",
+    "stars": 2,
+    "updated_at": "2026-09-22T06:53:17Z",
+    "url": "https://github.com/xingchen20lj/vulngate"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-22T06:51:36Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "An autopoiesic kefir for computing machines",
     "id": "genaforvena/lte-workstation",
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 9,
-    "updated_at": "2026-09-22T06:44:44Z",
+    "updated_at": "2026-09-22T06:48:10Z",
     "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Application Security orchestration platform",
+    "id": "grauwolf32/contractor",
+    "language": "Go",
+    "name": "grauwolf32/contractor",
+    "stars": 2,
+    "updated_at": "2026-09-22T06:59:47Z",
+    "url": "https://github.com/grauwolf32/contractor"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -14,7 +95,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-09-22T06:44:02Z",
+    "updated_at": "2026-09-22T06:46:13Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -36,15 +117,6 @@
     "url": "https://github.com/metric-space-ai/greppy"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-22T06:42:30Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
     "id": "urankwong/agentsgo",
     "language": "Python",
@@ -59,7 +131,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 809,
-    "updated_at": "2026-09-22T06:30:58Z",
+    "updated_at": "2026-09-22T06:48:29Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-22T05:12:12Z",
     "url": "https://github.com/donglongjun886/product-review-agent"
-  },
-  {
-    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
-    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "language": "HTML",
-    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "stars": 0,
-    "updated_at": "2026-09-22T05:11:10Z",
-    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
-  },
-  {
-    "description": "Lawgent \u2014 an open-source legal AI agent. Grounded, multi-jurisdiction (CN \u00b7 US \u00b7 EU \u00b7 ET \u00b7 ICAO), citation-verified: eve",
-    "id": "WenzhuoXu/lawgent",
-    "language": "Python",
-    "name": "WenzhuoXu/lawgent",
-    "stars": 10,
-    "updated_at": "2026-09-22T05:08:26Z",
-    "url": "https://github.com/WenzhuoXu/lawgent"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
-    "id": "hasting323/AutoGLM-For-Android",
-    "language": "Kotlin",
-    "name": "hasting323/AutoGLM-For-Android",
-    "stars": 11,
-    "updated_at": "2026-09-22T05:07:42Z",
-    "url": "https://github.com/hasting323/AutoGLM-For-Android"
-  },
-  {
-    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
-    "id": "uukuguy/capstone",
-    "language": "Python",
-    "name": "uukuguy/capstone",
-    "stars": 0,
-    "updated_at": "2026-09-22T05:06:32Z",
-    "url": "https://github.com/uukuguy/capstone"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-09-22T05:06:26Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-09-22T05:04:45Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 344,
-    "updated_at": "2026-09-22T05:03:51Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "Deterministic orchestration, execution assurance, and quota-aware continuity runtime for GLM coding agents in ZCode",
-    "id": "Chengy257/glm-conductor",
-    "language": "Python",
-    "name": "Chengy257/glm-conductor",
-    "stars": 0,
-    "updated_at": "2026-09-22T04:59:58Z",
-    "url": "https://github.com/Chengy257/glm-conductor"
   }
 ]
