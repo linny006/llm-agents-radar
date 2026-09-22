@@ -1,5 +1,68 @@
 [
   {
+    "description": "Gestor ag\u00e9ntico de modelos llm",
+    "id": "bondwell79/hercules",
+    "language": "Python",
+    "name": "bondwell79/hercules",
+    "stars": 0,
+    "updated_at": "2026-09-22T18:12:18Z",
+    "url": "https://github.com/bondwell79/hercules"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-09-22T18:11:11Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "Not a chatbot\u2014a tireless digital secretary. Jarvis is a persistent, self-hosted AI operating system that manages communi",
+    "id": "Lucky-1608/Jarvis",
+    "language": "Python",
+    "name": "Lucky-1608/Jarvis",
+    "stars": 0,
+    "updated_at": "2026-09-22T18:10:23Z",
+    "url": "https://github.com/Lucky-1608/Jarvis"
+  },
+  {
+    "description": "A framework-agnostic UI kit of production-ready components for building AI and LLM chat interfaces.",
+    "id": "loquix-dev/loquix",
+    "language": "TypeScript",
+    "name": "loquix-dev/loquix",
+    "stars": 40,
+    "updated_at": "2026-09-22T18:04:08Z",
+    "url": "https://github.com/loquix-dev/loquix"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-09-22T18:03:45Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
+    "id": "kyleslight/shun",
+    "language": "TypeScript",
+    "name": "kyleslight/shun",
+    "stars": 6,
+    "updated_at": "2026-09-22T18:03:31Z",
+    "url": "https://github.com/kyleslight/shun"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-09-22T18:02:56Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -9,31 +72,13 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
-    "id": "kyleslight/shun",
-    "language": "TypeScript",
-    "name": "kyleslight/shun",
-    "stars": 6,
-    "updated_at": "2026-09-22T17:52:04Z",
-    "url": "https://github.com/kyleslight/shun"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7539,
+    "stars": 7540,
     "updated_at": "2026-09-22T17:45:20Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "A framework-agnostic UI kit of production-ready components for building AI and LLM chat interfaces.",
-    "id": "loquix-dev/loquix",
-    "language": "TypeScript",
-    "name": "loquix-dev/loquix",
-    "stars": 40,
-    "updated_at": "2026-09-22T17:44:17Z",
-    "url": "https://github.com/loquix-dev/loquix"
   },
   {
     "description": "\u81ea\u7136\u8bed\u8a00\u9a71\u52a8\u7684\u4f01\u4e1a\u6570\u636e\u5206\u6790 Agent\u3002\u4e00\u53e5\u8bdd\u67e5\u5168\u516c\u53f8\u6570\u636e,\u4e1a\u52a1\u4eba\u5458\u65e0\u9700\u61c2 SQL \u5373\u53ef\u67e5\u8be2\u4f01\u4e1a\u6570\u636e\u5e93\u3001\u6570\u4ed3\u4e0e Excel\u3002 \u652f\u6301 OpenAI / DeepSeek / Qwen / \u8c46\u5305 / \u667a\u8c31\u7b49\u591a LLM \u5207\u6362;\u57fa\u4e8e BGE-M3 ",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-22T15:18:06Z",
     "url": "https://github.com/Mlte0907/pangu"
-  },
-  {
-    "description": "Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi",
-    "id": "zig333/ELAI-archive",
-    "language": "\u2014",
-    "name": "zig333/ELAI-archive",
-    "stars": 0,
-    "updated_at": "2026-09-22T15:11:17Z",
-    "url": "https://github.com/zig333/ELAI-archive"
-  },
-  {
-    "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
-    "id": "brittewestafrican981/ComfyUI-YinChao",
-    "language": "Python",
-    "name": "brittewestafrican981/ComfyUI-YinChao",
-    "stars": 0,
-    "updated_at": "2026-09-22T15:08:37Z",
-    "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4421,
-    "updated_at": "2026-09-22T15:07:31Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "A LangGraph agent that reads Japan's 60-minute rain radar with a vision LLM and tells you if you can get out and back dr",
-    "id": "monkey-mas/weather-report-buddy",
-    "language": "Python",
-    "name": "monkey-mas/weather-report-buddy",
-    "stars": 0,
-    "updated_at": "2026-09-22T15:07:13Z",
-    "url": "https://github.com/monkey-mas/weather-report-buddy"
-  },
-  {
-    "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
-    "id": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
-    "language": "Python",
-    "name": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
-    "stars": 4,
-    "updated_at": "2026-09-22T15:06:16Z",
-    "url": "https://github.com/mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo"
   }
 ]
