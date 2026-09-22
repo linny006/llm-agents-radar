@@ -1,11 +1,20 @@
 [
   {
+    "description": "\u7535\u5546\u5e73\u53f0\u5546\u54c1\u5185\u5bb9\u6cbb\u7406\u7684\u590d\u6742\u98ce\u9669\u8c03\u67e5 Agent\uff1aLangGraph \u591a\u6b65\u8c03\u67e5 + \u786e\u5b9a\u6027 Decision Gate\uff0c\u8f93\u51fa PASS / REJECT / HUMAN_REVIEW\uff1b\u5168\u94fe\u8def\u786e\u5b9a\u6027\u53ef\u91cd\u653e\u8bc4\u6d4b",
+    "id": "donglongjun886/product-review-agent",
+    "language": "Python",
+    "name": "donglongjun886/product-review-agent",
+    "stars": 1,
+    "updated_at": "2026-09-22T02:56:32Z",
+    "url": "https://github.com/donglongjun886/product-review-agent"
+  },
+  {
     "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
     "id": "yurika0211/lucky-agent",
     "language": "Go",
     "name": "yurika0211/lucky-agent",
     "stars": 14,
-    "updated_at": "2026-09-22T02:45:12Z",
+    "updated_at": "2026-09-22T02:57:45Z",
     "url": "https://github.com/yurika0211/lucky-agent"
   },
   {
@@ -95,7 +104,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-22T02:24:41Z",
+    "updated_at": "2026-09-22T02:55:52Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -122,7 +131,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-22T02:09:22Z",
+    "updated_at": "2026-09-22T02:58:21Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-22T01:10:00Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-09-22T01:08:50Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
   }
 ]
