@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-22 08:30 UTC
+> ⏰ Last updated: 2026-09-22 08:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Mlte0907/pangu](https://github.com/Mlte0907/pangu) | 1 | Python | 2026-09-22 | 本地优先的 AI 长期记忆服务：会遗忘、会联想、会巩固。MCP + REST + Web UI，一条命令装好；不用 DSH 也能独立使用。 |
-| 2 | [helixml/helix](https://github.com/helixml/helix) | 809 | Go | 2026-09-22 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
-| 3 | [111wxh/researchwiki](https://github.com/111wxh/researchwiki) | 0 | Python | 2026-09-22 | 自进化研究 Wiki 智能体：自建 agent harness + 三层记忆 + 引用强制与冲突对账 |
-| 4 | [xiaomaozjj666/issue-agent](https://github.com/xiaomaozjj666/issue-agent) | 1 | Python | 2026-09-22 | GitHub Issue 分析智能体：有界工具循环探索仓库源码，生成带行级证据的根因报告与修复补丁，默认只读，可显式开启 PR 提案 |
-| 5 | [Paradox07127/Analyst-Copilot](https://github.com/Paradox07127/Analyst-Copilot) | 0 | Python | 2026-09-22 | Local-first agent platform for exploratory data analysis. Deterministic profiling and evidence-validated LLM reports, wi |
-| 6 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 6 | JavaScript | 2026-09-22 | Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use,  |
-| 7 | [genaforvena/lte-workstation](https://github.com/genaforvena/lte-workstation) | 9 | Shell | 2026-09-22 | An autopoiesic kefir for computing machines |
-| 8 | [bigduu/Bodhi-AI](https://github.com/bigduu/Bodhi-AI) | 17 | JavaScript | 2026-09-22 | Tauri desktop shell for the local-first Bodhi agent: manages Bamboo startup/reuse and health; packaged builds open the B |
-| 9 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-09-22 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
-| 10 | [yurika0211/lucky-agent](https://github.com/yurika0211/lucky-agent) | 14 | Go | 2026-09-22 | LuckyAgent — 注重长任务规划和系统记忆性的Agent框架 |
-| 11 | [alex8224/synapse-agent](https://github.com/alex8224/synapse-agent) | 7 | Python | 2026-09-22 |  Where intent meets code — a local AI coding agent          |
-| 12 | [ZXTLQQ/FactorGPT](https://github.com/ZXTLQQ/FactorGPT) | 10 | Python | 2026-09-22 | 基于LLM的量化因子开发Agent |
-| 13 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 24 | Python | 2026-09-22 | A productive AI coworker that learns, self-improves, and ships work. |
-| 14 | [wan9yu/cli-agent-runner](https://github.com/wan9yu/cli-agent-runner) | 4 | Python | 2026-09-22 | Keep agent CLIs running 7×24 — supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure |
-| 15 | [donglongjun886/product-review-agent](https://github.com/donglongjun886/product-review-agent) | 1 | Python | 2026-09-22 | 电商平台商品内容治理的复杂风险调查 Agent：LangGraph 多步调查 + 确定性 Decision Gate，输出 PASS / REJECT / HUMAN_REVIEW；全链路确定性可重放评测 |
-| 16 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 7479 | Python | 2026-09-22 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 1 | [helixml/helix](https://github.com/helixml/helix) | 809 | Go | 2026-09-22 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
+| 2 | [donglongjun886/product-review-agent](https://github.com/donglongjun886/product-review-agent) | 1 | Python | 2026-09-22 | 电商平台商品内容治理的复杂风险调查 Agent：LangGraph 多步调查 + 确定性 Decision Gate，输出 PASS / REJECT / HUMAN_REVIEW；全链路确定性可重放评测 |
+| 3 | [Mlte0907/pangu](https://github.com/Mlte0907/pangu) | 1 | Python | 2026-09-22 | 本地优先的 AI 长期记忆服务：会遗忘、会联想、会巩固。MCP + REST + Web UI，一条命令装好；不用 DSH 也能独立使用。 |
+| 4 | [111wxh/researchwiki](https://github.com/111wxh/researchwiki) | 0 | Python | 2026-09-22 | 自进化研究 Wiki 智能体：自建 agent harness + 三层记忆 + 引用强制与冲突对账 |
+| 5 | [xiaomaozjj666/issue-agent](https://github.com/xiaomaozjj666/issue-agent) | 1 | Python | 2026-09-22 | GitHub Issue 分析智能体：有界工具循环探索仓库源码，生成带行级证据的根因报告与修复补丁，默认只读，可显式开启 PR 提案 |
+| 6 | [Paradox07127/Analyst-Copilot](https://github.com/Paradox07127/Analyst-Copilot) | 0 | Python | 2026-09-22 | Local-first agent platform for exploratory data analysis. Deterministic profiling and evidence-validated LLM reports, wi |
+| 7 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 6 | JavaScript | 2026-09-22 | Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use,  |
+| 8 | [genaforvena/lte-workstation](https://github.com/genaforvena/lte-workstation) | 9 | Shell | 2026-09-22 | An autopoiesic kefir for computing machines |
+| 9 | [bigduu/Bodhi-AI](https://github.com/bigduu/Bodhi-AI) | 17 | JavaScript | 2026-09-22 | Tauri desktop shell for the local-first Bodhi agent: manages Bamboo startup/reuse and health; packaged builds open the B |
+| 10 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-09-22 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
+| 11 | [yurika0211/lucky-agent](https://github.com/yurika0211/lucky-agent) | 14 | Go | 2026-09-22 | LuckyAgent — 注重长任务规划和系统记忆性的Agent框架 |
+| 12 | [alex8224/synapse-agent](https://github.com/alex8224/synapse-agent) | 7 | Python | 2026-09-22 |  Where intent meets code — a local AI coding agent          |
+| 13 | [ZXTLQQ/FactorGPT](https://github.com/ZXTLQQ/FactorGPT) | 10 | Python | 2026-09-22 | 基于LLM的量化因子开发Agent |
+| 14 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 24 | Python | 2026-09-22 | A productive AI coworker that learns, self-improves, and ships work. |
+| 15 | [wan9yu/cli-agent-runner](https://github.com/wan9yu/cli-agent-runner) | 4 | Python | 2026-09-22 | Keep agent CLIs running 7×24 — supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure |
+| 16 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 7481 | Python | 2026-09-22 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
 | 17 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 19 | Rust | 2026-09-22 | Bamboo — a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule |
 | 18 | [muthuishere/toolnexus](https://github.com/muthuishere/toolnexus) | 5 | MDX | 2026-09-22 | One agent SDK, hand-ported to 7 languages — JavaScript, Python, Go, Java, C#, Elixir, Clojure — every port held to the s |
 | 19 | [metric-space-ai/greppy](https://github.com/metric-space-ai/greppy) | 8 | Rust | 2026-09-22 | Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact  |
