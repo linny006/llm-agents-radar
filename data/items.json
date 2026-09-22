@@ -1,5 +1,23 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-22T01:49:22Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-22T01:48:09Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
     "description": "Autonomous execution agent on Discord \u2014 74 tools, shell access, browser automation, scheduled tasks, sub-agents, knowled",
     "id": "Calmingstorm/Odin",
     "language": "Python",
@@ -36,15 +54,6 @@
     "url": "https://github.com/verniceunleaded6135/tidy-undo"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 9,
-    "updated_at": "2026-09-22T01:38:55Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node\u2014no complex workflows needed.",
     "id": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
     "language": "JavaScript",
@@ -59,7 +68,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-22T01:39:12Z",
+    "updated_at": "2026-09-22T01:58:16Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -427,18 +436,9 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7422,
+    "stars": 7423,
     "updated_at": "2026-09-21T23:46:06Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-09-21T23:35:48Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "All-in-one agent harness for Claude Code \u2014 Boss meta-orchestrator, 32 curated agents, 139 curated skills, 2 named workfl",
