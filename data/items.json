@@ -1,21 +1,30 @@
 [
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7412,
-    "updated_at": "2026-09-21T23:42:49Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "An autopoiesic kefir for computing machines",
     "id": "genaforvena/lte-workstation",
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 9,
-    "updated_at": "2026-09-21T23:41:41Z",
+    "updated_at": "2026-09-21T23:48:35Z",
     "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-09-21T23:56:32Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7413,
+    "updated_at": "2026-09-21T23:46:06Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-21T21:34:00Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-21T20:59:00Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   }
 ]
