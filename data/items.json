@@ -1,12 +1,48 @@
 [
   {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-09-22T09:13:29Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "T2AG \u662f\u8003\u4f60\u800c\u4e0d\u662f\u66ff\u4f60\u7b54\u7684 AI \u5b66\u4e60\u6846\u67b6\uff1a\u9519\u9898\u3001\u8bc1\u660e\u4e0e\u6bcf\u4e00\u6b21\u88c1\u51b3\u90fd\u5b58\u5728\u5f52\u4f60\u6240\u6709\u7684\u7eaf\u6587\u672c\u91cc\uff0c\u4efb\u4f55 agent \u53ef\u8bfb\u53ef\u5e26\u8d70\uff1b\u73af\u4e0a\u7684\u88c1\u51b3\u8005\u662f\u4f60\u3002An AI learning harness that tests you instead of",
+    "id": "lungstrahv/T2AG",
+    "language": "Python",
+    "name": "lungstrahv/T2AG",
+    "stars": 3,
+    "updated_at": "2026-09-22T09:11:13Z",
+    "url": "https://github.com/lungstrahv/T2AG"
+  },
+  {
     "description": "\u7535\u5546\u5e73\u53f0\u5546\u54c1\u5185\u5bb9\u6cbb\u7406\u7684\u590d\u6742\u98ce\u9669\u8c03\u67e5 Agent\uff1aLangGraph \u591a\u6b65\u8c03\u67e5 + \u786e\u5b9a\u6027 Decision Gate\uff0c\u8f93\u51fa PASS / REJECT / HUMAN_REVIEW\uff1b\u5168\u94fe\u8def\u786e\u5b9a\u6027\u53ef\u91cd\u653e\u8bc4\u6d4b",
     "id": "donglongjun886/product-review-agent",
     "language": "Python",
     "name": "donglongjun886/product-review-agent",
     "stars": 1,
-    "updated_at": "2026-09-22T09:00:03Z",
+    "updated_at": "2026-09-22T09:10:29Z",
     "url": "https://github.com/donglongjun886/product-review-agent"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 24,
+    "updated_at": "2026-09-22T09:05:25Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Visual inspection with an LLM agent: YOLOv8 + Qwen-VL, RAG standards retrieval via tool calling with grounded citations,",
+    "id": "mino19790622-dot/visual-inspection-report-generator",
+    "language": "Python",
+    "name": "mino19790622-dot/visual-inspection-report-generator",
+    "stars": 0,
+    "updated_at": "2026-09-22T09:03:52Z",
+    "url": "https://github.com/mino19790622-dot/visual-inspection-report-generator"
   },
   {
     "description": "\u672c\u5730\u4f18\u5148\u7684 AI \u957f\u671f\u8bb0\u5fc6\u670d\u52a1\uff1a\u4f1a\u9057\u5fd8\u3001\u4f1a\u8054\u60f3\u3001\u4f1a\u5de9\u56fa\u3002MCP + REST + Web UI\uff0c\u4e00\u6761\u547d\u4ee4\u88c5\u597d\uff1b\u4e0d\u7528 DSH \u4e5f\u80fd\u72ec\u7acb\u4f7f\u7528\u3002",
@@ -32,17 +68,8 @@
     "language": "Rust",
     "name": "citizenhicks/mobius",
     "stars": 1,
-    "updated_at": "2026-09-22T08:54:32Z",
+    "updated_at": "2026-09-22T09:07:05Z",
     "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-22T08:53:18Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
@@ -68,7 +95,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 809,
-    "updated_at": "2026-09-22T08:56:58Z",
+    "updated_at": "2026-09-22T09:12:51Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -126,15 +153,6 @@
     "url": "https://github.com/bigduu/Bodhi-AI"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-09-22T08:11:50Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
     "id": "yurika0211/lucky-agent",
     "language": "Go",
@@ -175,7 +193,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7483,
+    "stars": 7486,
     "updated_at": "2026-09-22T08:00:28Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -392,7 +410,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-09-22T07:21:04Z",
+    "updated_at": "2026-09-22T09:08:42Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-22T07:18:51Z",
     "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
-    "id": "chadwickhyperboloidal943/knowl",
-    "language": "TypeScript",
-    "name": "chadwickhyperboloidal943/knowl",
-    "stars": 0,
-    "updated_at": "2026-09-22T07:14:55Z",
-    "url": "https://github.com/chadwickhyperboloidal943/knowl"
-  },
-  {
-    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
-    "id": "Laurenfeminine36/google-jules-skill",
-    "language": "Python",
-    "name": "Laurenfeminine36/google-jules-skill",
-    "stars": 1,
-    "updated_at": "2026-09-22T07:14:44Z",
-    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
   }
 ]
