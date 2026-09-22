@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 274,
-    "updated_at": "2026-09-22T22:41:38Z",
+    "updated_at": "2026-09-22T22:56:50Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
+    "language": "Python",
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-09-22T22:53:01Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-22T22:48:20Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Protection-first BigQuery MCP server \u2014 every query is dry-run and refused unless BigQuery itself classifies it as a sing",
@@ -34,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-09-22T22:37:44Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-09-22T22:45:13Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
     "description": "Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi",
@@ -392,7 +401,7 @@
     "language": "Python",
     "name": "emqnuele/projectBEA",
     "stars": 19,
-    "updated_at": "2026-09-22T21:16:52Z",
+    "updated_at": "2026-09-22T22:56:39Z",
     "url": "https://github.com/emqnuele/projectBEA"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-22T21:05:27Z",
     "url": "https://github.com/nileshpatil6/Aura"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 130,
-    "updated_at": "2026-09-22T20:59:47Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   }
 ]
