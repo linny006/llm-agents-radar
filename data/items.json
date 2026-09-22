@@ -1,5 +1,68 @@
 [
   {
+    "description": "Local-first autonomous scientific research agent with evidence governance, RAG, Polars analysis, and live clinical-trial",
+    "id": "Unpapamericano/autonomous-scientific-agent",
+    "language": "Python",
+    "name": "Unpapamericano/autonomous-scientific-agent",
+    "stars": 0,
+    "updated_at": "2026-09-22T17:14:57Z",
+    "url": "https://github.com/Unpapamericano/autonomous-scientific-agent"
+  },
+  {
+    "description": "Qwen3-8B \u533b\u5b66\u7814\u7a76\u667a\u80fd\u4f53\uff1a\u771f\u5b9e\u5de5\u5177\u68c0\u7d22\u3001QLoRA SFT\u3001\u5206\u9636\u6bb5\u7a20\u5bc6\u5956\u52b1\u4e0e GRPO \u98ce\u683c LoRA \u540e\u8bad\u7ec3\uff0c\u9762\u5411\u672c\u5730\u90e8\u7f72\u3002",
+    "id": "MaSunKing/medical-research-agent-grpo",
+    "language": "Python",
+    "name": "MaSunKing/medical-research-agent-grpo",
+    "stars": 1,
+    "updated_at": "2026-09-22T17:12:19Z",
+    "url": "https://github.com/MaSunKing/medical-research-agent-grpo"
+  },
+  {
+    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
+    "id": "PCODE-pl/MCPTap",
+    "language": "Python",
+    "name": "PCODE-pl/MCPTap",
+    "stars": 1,
+    "updated_at": "2026-09-22T17:12:02Z",
+    "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
+    "description": "Talk to your organization's data \u2014 agentic analytics assistant over StarRocks, with Claude via Azure AI Foundry and an O",
+    "id": "leonardomb1/perguntai",
+    "language": "TypeScript",
+    "name": "leonardomb1/perguntai",
+    "stars": 0,
+    "updated_at": "2026-09-22T17:09:24Z",
+    "url": "https://github.com/leonardomb1/perguntai"
+  },
+  {
+    "description": "Scoped, tool-using DeepSeek audit agent that turns authorized HTTP/TLS checks into reproducible evidence",
+    "id": "kalpak44/deepaudit",
+    "language": "Python",
+    "name": "kalpak44/deepaudit",
+    "stars": 0,
+    "updated_at": "2026-09-22T17:08:04Z",
+    "url": "https://github.com/kalpak44/deepaudit"
+  },
+  {
+    "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
+    "id": "emqnuele/projectBEA",
+    "language": "Python",
+    "name": "emqnuele/projectBEA",
+    "stars": 18,
+    "updated_at": "2026-09-22T17:06:42Z",
+    "url": "https://github.com/emqnuele/projectBEA"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u7684\u684c\u9762 AI \u667a\u80fd\u4f53\uff1a\u5bf9\u8bdd / \u684c\u5ba0 / \u76f4\u64ad\u4e92\u52a8 / \u5de5\u4f5c\u6d41 / \u81ea\u52a8\u5316 / \u77e5\u8bc6\u5e93 / \u8bb0\u5fc6\uff0c\u6a21\u578b\u8c03\u7528\u8d70\u4f60\u81ea\u5df1\u7684 Key\uff0c\u6570\u636e\u7559\u5728\u672c\u673a\u3002Tauri 2 + React 19 + Python 3.13\u3002",
+    "id": "Hayliy/naixi-desktop",
+    "language": "Python",
+    "name": "Hayliy/naixi-desktop",
+    "stars": 0,
+    "updated_at": "2026-09-22T17:05:55Z",
+    "url": "https://github.com/Hayliy/naixi-desktop"
+  },
+  {
     "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
     "id": "plurnk/plurnk-service",
     "language": "TypeScript",
@@ -27,20 +90,11 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "\u672c\u5730\u4f18\u5148\u7684\u684c\u9762 AI \u667a\u80fd\u4f53\uff1a\u5bf9\u8bdd / \u684c\u5ba0 / \u76f4\u64ad\u4e92\u52a8 / \u5de5\u4f5c\u6d41 / \u81ea\u52a8\u5316 / \u77e5\u8bc6\u5e93 / \u8bb0\u5fc6\uff0c\u6a21\u578b\u8c03\u7528\u8d70\u4f60\u81ea\u5df1\u7684 Key\uff0c\u6570\u636e\u7559\u5728\u672c\u673a\u3002Tauri 2 + React 19 + Python 3.13\u3002",
-    "id": "Hayliy/naixi-desktop",
-    "language": "Python",
-    "name": "Hayliy/naixi-desktop",
-    "stars": 0,
-    "updated_at": "2026-09-22T16:52:50Z",
-    "url": "https://github.com/Hayliy/naixi-desktop"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7534,
+    "stars": 7535,
     "updated_at": "2026-09-22T16:49:56Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -52,15 +106,6 @@
     "stars": 24,
     "updated_at": "2026-09-22T16:46:02Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-09-22T16:43:37Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
   },
   {
     "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
@@ -193,7 +238,7 @@
     "id": "feder-cr/invisible_playwright_mcp",
     "language": "Python",
     "name": "feder-cr/invisible_playwright_mcp",
-    "stars": 31625,
+    "stars": 31626,
     "updated_at": "2026-09-22T15:59:27Z",
     "url": "https://github.com/feder-cr/invisible_playwright_mcp"
   },
@@ -266,7 +311,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 19,
-    "updated_at": "2026-09-22T15:43:55Z",
+    "updated_at": "2026-09-22T17:08:02Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -342,6 +387,15 @@
     "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
   },
   {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4421,
+    "updated_at": "2026-09-22T15:07:31Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
     "description": "A LangGraph agent that reads Japan's 60-minute rain radar with a vision LLM and tells you if you can get out and back dr",
     "id": "monkey-mas/weather-report-buddy",
     "language": "Python",
@@ -369,15 +423,6 @@
     "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
   },
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4420,
-    "updated_at": "2026-09-22T15:07:31Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
     "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
     "id": "EpsteinF1les/tts",
     "language": "\u2014",
@@ -385,15 +430,6 @@
     "stars": 0,
     "updated_at": "2026-09-22T15:03:38Z",
     "url": "https://github.com/EpsteinF1les/tts"
-  },
-  {
-    "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
-    "id": "emqnuele/projectBEA",
-    "language": "Python",
-    "name": "emqnuele/projectBEA",
-    "stars": 18,
-    "updated_at": "2026-09-22T16:44:26Z",
-    "url": "https://github.com/emqnuele/projectBEA"
   },
   {
     "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-22T14:55:58Z",
     "url": "https://github.com/urankwong/agentsgo"
-  },
-  {
-    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
-    "id": "clashroy5384/ai-papers-hub",
-    "language": "\u2014",
-    "name": "clashroy5384/ai-papers-hub",
-    "stars": 0,
-    "updated_at": "2026-09-22T14:55:52Z",
-    "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
-    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "language": "Python",
-    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "stars": 5,
-    "updated_at": "2026-09-22T14:53:11Z",
-    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
-  },
-  {
-    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
-    "id": "oxidizable-malinois605/bridge-suite-mcp",
-    "language": "TypeScript",
-    "name": "oxidizable-malinois605/bridge-suite-mcp",
-    "stars": 0,
-    "updated_at": "2026-09-22T14:50:03Z",
-    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
-  },
-  {
-    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
-    "id": "Arjunadh5305/ios-skills-collection",
-    "language": "\u2014",
-    "name": "Arjunadh5305/ios-skills-collection",
-    "stars": 1,
-    "updated_at": "2026-09-22T14:49:57Z",
-    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
   }
 ]
