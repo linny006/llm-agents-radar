@@ -1,11 +1,56 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-09-22T19:29:05Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 28,
+    "updated_at": "2026-09-22T19:23:13Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi",
+    "id": "zig333/ELAI-archive",
+    "language": "\u2014",
+    "name": "zig333/ELAI-archive",
+    "stars": 0,
+    "updated_at": "2026-09-22T19:20:27Z",
+    "url": "https://github.com/zig333/ELAI-archive"
+  },
+  {
+    "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
+    "id": "brittewestafrican981/ComfyUI-YinChao",
+    "language": "Python",
+    "name": "brittewestafrican981/ComfyUI-YinChao",
+    "stars": 0,
+    "updated_at": "2026-09-22T19:16:48Z",
+    "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-09-22T19:15:45Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Autonomous execution agent on Discord \u2014 74 tools, shell access, browser automation, scheduled tasks, sub-agents, knowled",
     "id": "Calmingstorm/Odin",
     "language": "Python",
     "name": "Calmingstorm/Odin",
     "stars": 3,
-    "updated_at": "2026-09-22T19:15:18Z",
+    "updated_at": "2026-09-22T19:15:40Z",
     "url": "https://github.com/Calmingstorm/Odin"
   },
   {
@@ -50,7 +95,7 @@
     "language": "Python",
     "name": "diaban/jobsmith",
     "stars": 0,
-    "updated_at": "2026-09-22T19:09:35Z",
+    "updated_at": "2026-09-22T19:29:55Z",
     "url": "https://github.com/diaban/jobsmith"
   },
   {
@@ -112,8 +157,8 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7541,
-    "updated_at": "2026-09-22T18:57:52Z",
+    "stars": 7543,
+    "updated_at": "2026-09-22T19:22:40Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-22T17:30:52Z",
     "url": "https://github.com/Unpapamericano/autonomous-scientific-agent"
-  },
-  {
-    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
-    "id": "ljedrz/nachalnik",
-    "language": "Rust",
-    "name": "ljedrz/nachalnik",
-    "stars": 4,
-    "updated_at": "2026-09-22T18:17:21Z",
-    "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
-    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
-    "id": "bigduu/Zenith",
-    "language": "JavaScript",
-    "name": "bigduu/Zenith",
-    "stars": 6,
-    "updated_at": "2026-09-22T17:29:00Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 19,
-    "updated_at": "2026-09-22T17:20:56Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "One agent SDK, hand-ported to 7 languages \u2014 JavaScript, Python, Go, Java, C#, Elixir, Clojure \u2014 every port held to the s",
-    "id": "muthuishere/toolnexus",
-    "language": "MDX",
-    "name": "muthuishere/toolnexus",
-    "stars": 5,
-    "updated_at": "2026-09-22T17:19:35Z",
-    "url": "https://github.com/muthuishere/toolnexus"
-  },
-  {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-09-22T17:19:02Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
   }
 ]
