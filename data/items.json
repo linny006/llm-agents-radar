@@ -1,5 +1,23 @@
 [
   {
+    "description": "The self-improving SRE agent",
+    "id": "Smana/runlore",
+    "language": "Go",
+    "name": "Smana/runlore",
+    "stars": 17,
+    "updated_at": "2026-09-22T05:49:53Z",
+    "url": "https://github.com/Smana/runlore"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-22T05:48:08Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-22T05:39:37Z",
+    "updated_at": "2026-09-22T05:53:31Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -214,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-09-22T05:21:21Z",
     "url": "https://github.com/Laurenfeminine36/google-jules-skill"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 9,
-    "updated_at": "2026-09-22T05:21:16Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
@@ -428,7 +437,7 @@
     "language": "Go",
     "name": "yurika0211/lucky-agent",
     "stars": 14,
-    "updated_at": "2026-09-22T05:09:53Z",
+    "updated_at": "2026-09-22T05:50:26Z",
     "url": "https://github.com/yurika0211/lucky-agent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-22T04:24:09Z",
     "url": "https://github.com/grauwolf32/contractor"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 3,
-    "updated_at": "2026-09-22T04:23:23Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   }
 ]
