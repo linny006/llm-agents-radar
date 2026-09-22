@@ -1,12 +1,12 @@
 [
   {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-22T23:29:05Z",
-    "url": "https://github.com/plurnk/plurnk-service"
+    "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
+    "id": "emqnuele/projectBEA",
+    "language": "Python",
+    "name": "emqnuele/projectBEA",
+    "stars": 19,
+    "updated_at": "2026-09-22T23:43:32Z",
+    "url": "https://github.com/emqnuele/projectBEA"
   },
   {
     "description": "\u300a\u8be1\u79d8\u4e16\u754c\u300b\u00b7 World of Mysteries \u2014 \u672c\u5730\u4f18\u5148\u7684\u5355\u4eba\u6301\u4e45\u4e16\u754c\u6f14\u7ece\u5e94\u7528\uff1aSwiftUI macOS 26+ \u5ba2\u6237\u7aef + \u72ec\u7acb Local Engine\uff08Python 3.14 + AgentScope 2.0.8\uff09+ SQ",
@@ -14,8 +14,17 @@
     "language": "Swift",
     "name": "hrygo/WorldofMysteries",
     "stars": 0,
-    "updated_at": "2026-09-22T23:27:59Z",
+    "updated_at": "2026-09-22T23:45:13Z",
     "url": "https://github.com/hrygo/WorldofMysteries"
+  },
+  {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-22T23:40:41Z",
+    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "\ubc18\ub824\uacac \uc0c1\ub2f4 \uc624\ucf00\uc2a4\ud2b8\ub808\uc774\ud130 \u2014 \uadfc\uac70 RAG\uc640 \ud53c\ubd80 \uc2a4\ud06c\ub9ac\ub2dd \ubaa8\ub378\uc744 MCP \uc11c\ube0c\uc5d0\uc774\uc804\ud2b8\ub85c \ub450\uace0, \ubaa8\ub378\uc774 \ub9d0\ud574\ub3c4 \ub418\ub294 \uac83\uc744 \ucf54\ub4dc\uac00 \uc815\ud55c\ub2e4 (MCP \u00b7 tool calling \u00b7 \uacb0\uc815\ub860\uc801 \uc548\uc804 \uac8c\uc774\ud2b8)",
@@ -23,8 +32,44 @@
     "language": "Python",
     "name": "gayeoniee/dog-care-agent",
     "stars": 0,
-    "updated_at": "2026-09-22T23:27:04Z",
+    "updated_at": "2026-09-22T23:38:28Z",
     "url": "https://github.com/gayeoniee/dog-care-agent"
+  },
+  {
+    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
+    "id": "xieguigang/sciBASIC",
+    "language": "Visual Basic .NET",
+    "name": "xieguigang/sciBASIC",
+    "stars": 78,
+    "updated_at": "2026-09-22T23:38:07Z",
+    "url": "https://github.com/xieguigang/sciBASIC"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 130,
+    "updated_at": "2026-09-22T23:33:57Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
+    "id": "jack-h-park/pm-intelligence-engine",
+    "language": "Python",
+    "name": "jack-h-park/pm-intelligence-engine",
+    "stars": 0,
+    "updated_at": "2026-09-22T23:33:51Z",
+    "url": "https://github.com/jack-h-park/pm-intelligence-engine"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-22T23:31:40Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "A compass for autonomous agents, not an operating manual.",
@@ -95,7 +140,7 @@
     "language": "Rust",
     "name": "bigfish1913/pi-rust",
     "stars": 30,
-    "updated_at": "2026-09-22T23:06:32Z",
+    "updated_at": "2026-09-22T23:43:17Z",
     "url": "https://github.com/bigfish1913/pi-rust"
   },
   {
@@ -106,15 +151,6 @@
     "stars": 3434,
     "updated_at": "2026-09-22T23:02:44Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
-    "id": "xieguigang/sciBASIC",
-    "language": "Visual Basic .NET",
-    "name": "xieguigang/sciBASIC",
-    "stars": 78,
-    "updated_at": "2026-09-22T23:00:26Z",
-    "url": "https://github.com/xieguigang/sciBASIC"
   },
   {
     "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
@@ -347,7 +383,7 @@
     "language": "Python",
     "name": "denisotree/veles",
     "stars": 4,
-    "updated_at": "2026-09-22T21:58:54Z",
+    "updated_at": "2026-09-22T23:40:35Z",
     "url": "https://github.com/denisotree/veles"
   },
   {
@@ -396,15 +432,6 @@
     "url": "https://github.com/axxafo/awesome-agent-benchmarks"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-22T23:09:33Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
     "id": "yigido41/agentic-ai",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-22T21:44:30Z",
     "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-09-22T21:40:32Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-09-22T21:56:57Z",
-    "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
-    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
-    "id": "SHUKLAO/call-with-ai-agent",
-    "language": "\u2014",
-    "name": "SHUKLAO/call-with-ai-agent",
-    "stars": 3,
-    "updated_at": "2026-09-22T21:35:06Z",
-    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
   }
 ]
