@@ -1,12 +1,66 @@
 [
   {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 56,
+    "updated_at": "2026-09-22T19:59:49Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-22T19:59:15Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-22T19:57:55Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "The real-world Jarvis for your PC \u2014 a voice AI that sees your screen and actually drives it: clicks, types, and runs mul",
+    "id": "nileshpatil6/Aura",
+    "language": "JavaScript",
+    "name": "nileshpatil6/Aura",
+    "stars": 5,
+    "updated_at": "2026-09-22T19:57:47Z",
+    "url": "https://github.com/nileshpatil6/Aura"
+  },
+  {
+    "description": "Application Security orchestration platform",
+    "id": "grauwolf32/contractor",
+    "language": "Go",
+    "name": "grauwolf32/contractor",
+    "stars": 2,
+    "updated_at": "2026-09-22T19:55:25Z",
+    "url": "https://github.com/grauwolf32/contractor"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7543,
-    "updated_at": "2026-09-22T19:44:55Z",
+    "stars": 7546,
+    "updated_at": "2026-09-22T19:49:49Z",
     "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
+    "id": "sunnnn2005/data-quality-agent",
+    "language": "Python",
+    "name": "sunnnn2005/data-quality-agent",
+    "stars": 0,
+    "updated_at": "2026-09-22T19:46:46Z",
+    "url": "https://github.com/sunnnn2005/data-quality-agent"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 28,
-    "updated_at": "2026-09-22T19:43:14Z",
+    "updated_at": "2026-09-22T19:45:30Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -117,15 +171,6 @@
     "url": "https://github.com/EpsteinF1les/tts"
   },
   {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 56,
-    "updated_at": "2026-09-22T19:15:06Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
     "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
     "id": "Vuongngu8186/langgraph-langchain-agent-setup",
     "language": "\u2014",
@@ -142,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-22T19:04:13Z",
     "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-22T19:01:11Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-22T18:03:45Z",
     "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
-    "id": "kyleslight/shun",
-    "language": "TypeScript",
-    "name": "kyleslight/shun",
-    "stars": 6,
-    "updated_at": "2026-09-22T18:03:31Z",
-    "url": "https://github.com/kyleslight/shun"
-  },
-  {
-    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
-    "id": "WP2-Danikusuma/AgentX",
-    "language": "HTML",
-    "name": "WP2-Danikusuma/AgentX",
-    "stars": 2,
-    "updated_at": "2026-09-22T18:02:56Z",
-    "url": "https://github.com/WP2-Danikusuma/AgentX"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 130,
-    "updated_at": "2026-09-22T17:56:34Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "\u81ea\u7136\u8bed\u8a00\u9a71\u52a8\u7684\u4f01\u4e1a\u6570\u636e\u5206\u6790 Agent\u3002\u4e00\u53e5\u8bdd\u67e5\u5168\u516c\u53f8\u6570\u636e,\u4e1a\u52a1\u4eba\u5458\u65e0\u9700\u61c2 SQL \u5373\u53ef\u67e5\u8be2\u4f01\u4e1a\u6570\u636e\u5e93\u3001\u6570\u4ed3\u4e0e Excel\u3002 \u652f\u6301 OpenAI / DeepSeek / Qwen / \u8c46\u5305 / \u667a\u8c31\u7b49\u591a LLM \u5207\u6362;\u57fa\u4e8e BGE-M3 ",
-    "id": "changrichu/NL2SQLAgent",
-    "language": "Python",
-    "name": "changrichu/NL2SQLAgent",
-    "stars": 0,
-    "updated_at": "2026-09-22T17:42:34Z",
-    "url": "https://github.com/changrichu/NL2SQLAgent"
   }
 ]
