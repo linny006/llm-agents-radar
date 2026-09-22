@@ -1,5 +1,104 @@
 [
   {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-09-22T10:14:34Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "\u81ea\u8fdb\u5316\u7814\u7a76 Wiki \u667a\u80fd\u4f53\uff1a\u81ea\u5efa agent harness + \u4e09\u5c42\u8bb0\u5fc6 + \u5f15\u7528\u5f3a\u5236\u4e0e\u51b2\u7a81\u5bf9\u8d26",
+    "id": "111wxh/researchwiki",
+    "language": "Python",
+    "name": "111wxh/researchwiki",
+    "stars": 0,
+    "updated_at": "2026-09-22T10:13:41Z",
+    "url": "https://github.com/111wxh/researchwiki"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-09-22T10:13:23Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3433,
+    "updated_at": "2026-09-22T10:13:41Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
+    "description": "UnrealHybridAgent (UHA) \u2014 a hybrid AI-agent runtime for Unreal Engine 5 with structured tools, Computer Use fallback, po",
+    "id": "yousi123091/UnrealHybridAgent",
+    "language": "Python",
+    "name": "yousi123091/UnrealHybridAgent",
+    "stars": 1,
+    "updated_at": "2026-09-22T10:11:05Z",
+    "url": "https://github.com/yousi123091/UnrealHybridAgent"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-09-22T10:10:03Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "Local-first text-to-CAD agent: NL spec -> verified manufacturable parts on one 8GB GPU. build123d observe-edit loop, det",
+    "id": "Anthonyhangprinter/maker-agent",
+    "language": "Python",
+    "name": "Anthonyhangprinter/maker-agent",
+    "stars": 0,
+    "updated_at": "2026-09-22T10:06:48Z",
+    "url": "https://github.com/Anthonyhangprinter/maker-agent"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-09-22T10:04:39Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 32160,
+    "updated_at": "2026-09-22T10:04:31Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5785,
+    "updated_at": "2026-09-22T10:02:25Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 809,
+    "updated_at": "2026-09-22T10:05:34Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
     "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
     "id": "SHUKLAO/call-with-ai-agent",
     "language": "\u2014",
@@ -23,7 +122,7 @@
     "language": "Shell",
     "name": "sehoon787/my-codex",
     "stars": 28,
-    "updated_at": "2026-09-22T09:55:38Z",
+    "updated_at": "2026-09-22T10:11:44Z",
     "url": "https://github.com/sehoon787/my-codex"
   },
   {
@@ -31,7 +130,7 @@
     "id": "titanwings/distilly",
     "language": "Python",
     "name": "titanwings/distilly",
-    "stars": 24955,
+    "stars": 24956,
     "updated_at": "2026-09-22T09:55:21Z",
     "url": "https://github.com/titanwings/distilly"
   },
@@ -43,15 +142,6 @@
     "stars": 20,
     "updated_at": "2026-09-22T09:54:41Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "Local-first text-to-CAD agent: NL spec -> verified manufacturable parts on one 8GB GPU. build123d observe-edit loop, det",
-    "id": "Anthonyhangprinter/maker-agent",
-    "language": "Python",
-    "name": "Anthonyhangprinter/maker-agent",
-    "stars": 0,
-    "updated_at": "2026-09-22T09:54:53Z",
-    "url": "https://github.com/Anthonyhangprinter/maker-agent"
   },
   {
     "description": "Scoped, tool-using DeepSeek audit agent that turns authorized HTTP/TLS checks into reproducible evidence",
@@ -135,15 +225,6 @@
     "url": "https://github.com/urankwong/agentsgo"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-09-22T09:13:29Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -207,24 +288,6 @@
     "url": "https://github.com/diaban/jobsmith"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 809,
-    "updated_at": "2026-09-22T09:49:57Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "\u81ea\u8fdb\u5316\u7814\u7a76 Wiki \u667a\u80fd\u4f53\uff1a\u81ea\u5efa agent harness + \u4e09\u5c42\u8bb0\u5fc6 + \u5f15\u7528\u5f3a\u5236\u4e0e\u51b2\u7a81\u5bf9\u8d26",
-    "id": "111wxh/researchwiki",
-    "language": "Python",
-    "name": "111wxh/researchwiki",
-    "stars": 0,
-    "updated_at": "2026-09-22T08:26:00Z",
-    "url": "https://github.com/111wxh/researchwiki"
-  },
-  {
     "description": "GitHub Issue \u5206\u6790\u667a\u80fd\u4f53\uff1a\u6709\u754c\u5de5\u5177\u5faa\u73af\u63a2\u7d22\u4ed3\u5e93\u6e90\u7801\uff0c\u751f\u6210\u5e26\u884c\u7ea7\u8bc1\u636e\u7684\u6839\u56e0\u62a5\u544a\u4e0e\u4fee\u590d\u8865\u4e01\uff0c\u9ed8\u8ba4\u53ea\u8bfb\uff0c\u53ef\u663e\u5f0f\u5f00\u542f PR \u63d0\u6848",
     "id": "xiaomaozjj666/issue-agent",
     "language": "Python",
@@ -275,7 +338,7 @@
     "language": "Go",
     "name": "yurika0211/lucky-agent",
     "stars": 14,
-    "updated_at": "2026-09-22T08:11:07Z",
+    "updated_at": "2026-09-22T10:04:45Z",
     "url": "https://github.com/yurika0211/lucky-agent"
   },
   {
@@ -319,7 +382,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7487,
+    "stars": 7490,
     "updated_at": "2026-09-22T08:00:28Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -382,71 +445,8 @@
     "id": "jeinlee1991/chinese-llm-benchmark",
     "language": "\u2014",
     "name": "jeinlee1991/chinese-llm-benchmark",
-    "stars": 6452,
+    "stars": 6451,
     "updated_at": "2026-09-22T07:40:16Z",
     "url": "https://github.com/jeinlee1991/chinese-llm-benchmark"
-  },
-  {
-    "description": "\u7528\u5927\u6a21\u578b\u9a71\u52a8 Python \u5de5\u5177\u94fe\u5206\u6790 LIBS\uff08\u6fc0\u5149\u8bf1\u5bfc\u51fb\u7a7f\u5149\u8c31\uff09\u6570\u636e\uff1a\u6a21\u578b\u8d1f\u8d23\u51b3\u7b56\u4e0e\u89e3\u91ca\uff0cPython \u8d1f\u8d23\u8ba1\u7b97\u30029 \u4e2a\u5de5\u5177 + \u79bb\u7ebf\u81ea\u68c0 + \u5408\u6210\u793a\u4f8b\u6570\u636e\u3002",
-    "id": "AXE778/libs-agent",
-    "language": "Python",
-    "name": "AXE778/libs-agent",
-    "stars": 0,
-    "updated_at": "2026-09-22T07:39:20Z",
-    "url": "https://github.com/AXE778/libs-agent"
-  },
-  {
-    "description": "Build an AI Coding Agent from Scratch, Step by Step | \u4ece\u96f6\u4e00\u6b65\u6b65\u642d\u5efa AI \u7f16\u7a0b Agent\uff0c\u8fb9\u5b9e\u73b0\u8fb9\u7406\u89e3 Agent \u7684\u5de5\u4f5c\u539f\u7406",
-    "id": "liiiiiiiiil/agent-from-scratch",
-    "language": "Python",
-    "name": "liiiiiiiiil/agent-from-scratch",
-    "stars": 87,
-    "updated_at": "2026-09-22T07:36:39Z",
-    "url": "https://github.com/liiiiiiiiil/agent-from-scratch"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5784,
-    "updated_at": "2026-09-22T09:55:25Z",
-    "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "Cron scheduling for the DeepSeek Harness \u2014 bounded tasks with calendar & interval rules, delivered to live agents",
-    "id": "fan56/dsh-cron",
-    "language": "TypeScript",
-    "name": "fan56/dsh-cron",
-    "stars": 0,
-    "updated_at": "2026-09-22T07:34:25Z",
-    "url": "https://github.com/fan56/dsh-cron"
-  },
-  {
-    "description": "Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de",
-    "id": "Jadema5416/ComfyUI-DLSS5-Enhancer",
-    "language": "Python",
-    "name": "Jadema5416/ComfyUI-DLSS5-Enhancer",
-    "stars": 0,
-    "updated_at": "2026-09-22T07:31:35Z",
-    "url": "https://github.com/Jadema5416/ComfyUI-DLSS5-Enhancer"
-  },
-  {
-    "description": "Sort your Downloads by project, not file type \u2014 with one-command undo. No delete, ever.",
-    "id": "verniceunleaded6135/tidy-undo",
-    "language": "Python",
-    "name": "verniceunleaded6135/tidy-undo",
-    "stars": 0,
-    "updated_at": "2026-09-22T07:30:28Z",
-    "url": "https://github.com/verniceunleaded6135/tidy-undo"
-  },
-  {
-    "description": "Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node\u2014no complex workflows needed.",
-    "id": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
-    "language": "JavaScript",
-    "name": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
-    "stars": 3,
-    "updated_at": "2026-09-22T07:29:48Z",
-    "url": "https://github.com/Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3"
   }
 ]
