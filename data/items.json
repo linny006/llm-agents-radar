@@ -1,21 +1,21 @@
 [
   {
-    "description": "\ud83e\udd16 MioChat \u2014 \u5f00\u6e90\u7684 Agent \u64cd\u4f5c\u7cfb\u7edf\u3002Agent / Session / SubAgent \u4e09\u7ea7\u4e0a\u4e0b\u6587\u6a21\u578b\u3001V3 Hook \u5207\u9762\u3001MCP + Skills \u53cc\u6807\u51c6\u5de5\u5177\u751f\u6001\u3001\u591a\u6e20\u9053\u63a5\u5165\u4e0e\u5b9a\u65f6\u81ea\u6cbb\u3002\u6a21\u578b\u65e0\u5173\u3001\u81ea\u6258\u7ba1\u3002",
-    "id": "Pretend-to/mio-chat-backend",
-    "language": "JavaScript",
-    "name": "Pretend-to/mio-chat-backend",
-    "stars": 38,
-    "updated_at": "2026-09-22T20:33:26Z",
-    "url": "https://github.com/Pretend-to/mio-chat-backend"
-  },
-  {
     "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
     "id": "emqnuele/projectBEA",
     "language": "Python",
     "name": "emqnuele/projectBEA",
     "stars": 18,
-    "updated_at": "2026-09-22T20:28:16Z",
+    "updated_at": "2026-09-22T21:00:00Z",
     "url": "https://github.com/emqnuele/projectBEA"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 130,
+    "updated_at": "2026-09-22T20:59:47Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
@@ -23,8 +23,26 @@
     "language": "TypeScript",
     "name": "khudayarovich/onflip-agent",
     "stars": 4,
-    "updated_at": "2026-09-22T20:27:08Z",
+    "updated_at": "2026-09-22T20:58:36Z",
     "url": "https://github.com/khudayarovich/onflip-agent"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7550,
+    "updated_at": "2026-09-22T20:50:28Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "\ud83e\udd16 MioChat \u2014 \u5f00\u6e90\u7684 Agent \u64cd\u4f5c\u7cfb\u7edf\u3002Agent / Session / SubAgent \u4e09\u7ea7\u4e0a\u4e0b\u6587\u6a21\u578b\u3001V3 Hook \u5207\u9762\u3001MCP + Skills \u53cc\u6807\u51c6\u5de5\u5177\u751f\u6001\u3001\u591a\u6e20\u9053\u63a5\u5165\u4e0e\u5b9a\u65f6\u81ea\u6cbb\u3002\u6a21\u578b\u65e0\u5173\u3001\u81ea\u6258\u7ba1\u3002",
+    "id": "Pretend-to/mio-chat-backend",
+    "language": "JavaScript",
+    "name": "Pretend-to/mio-chat-backend",
+    "stars": 38,
+    "updated_at": "2026-09-22T20:33:26Z",
+    "url": "https://github.com/Pretend-to/mio-chat-backend"
   },
   {
     "description": "PWA for Magic: The Gathering \u2014 life tracking at dice speed for 2\u20136 players, plus an AI rules judge grounded in the Compr",
@@ -52,15 +70,6 @@
     "stars": 4,
     "updated_at": "2026-09-22T20:13:23Z",
     "url": "https://github.com/denisotree/veles"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7549,
-    "updated_at": "2026-09-22T20:09:44Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "The real-world Jarvis for your PC \u2014 a voice AI that sees your screen and actually drives it: clicks, types, and runs mul",
@@ -203,7 +212,7 @@
     "language": "Python",
     "name": "Calmingstorm/Odin",
     "stars": 3,
-    "updated_at": "2026-09-22T19:15:40Z",
+    "updated_at": "2026-09-22T20:45:46Z",
     "url": "https://github.com/Calmingstorm/Odin"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-22T18:19:21Z",
     "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "\u5f3a\u6a21\u578b\uff08Claude/GPT\uff09\u7ecf MCP \u6307\u6325 firefox-reverse \u6d4f\u89c8\u5668\u5185\u7f6e\u9006\u5411 Agent \u2014\u2014 \u4fbf\u5b9c worker \u6267\u884c\u5de5\u5177\u3001\u5f3a\u6a21\u578b\u53ea\u505a\u65b9\u5411\u4fee\u6b63\uff1bv0.4.0 \u652f\u6301 HTTP \u5e38\u9a7b\u6a21\u5f0f\uff0c\u591a\u4f1a\u8bdd\u5171\u4eab\u4e00\u4e2a\u6d4f\u89c8\u5668",
-    "id": "Gi1gamesh123/frx-director-mcp",
-    "language": "TypeScript",
-    "name": "Gi1gamesh123/frx-director-mcp",
-    "stars": 0,
-    "updated_at": "2026-09-22T18:17:00Z",
-    "url": "https://github.com/Gi1gamesh123/frx-director-mcp"
   }
 ]
