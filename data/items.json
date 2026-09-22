@@ -1,5 +1,86 @@
 [
   {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-09-22T09:56:54Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-09-22T09:55:57Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "All-in-one agent harness for OpenAI Codex CLI \u2014 Boss meta-orchestrator, 17 curated agents (+17 opt-in AI specialists), 1",
+    "id": "sehoon787/my-codex",
+    "language": "Shell",
+    "name": "sehoon787/my-codex",
+    "stars": 28,
+    "updated_at": "2026-09-22T09:55:38Z",
+    "url": "https://github.com/sehoon787/my-codex"
+  },
+  {
+    "description": "Distilly \u2014 Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill\uff08\u539f\u540c\u4e8b Skill\uff09.",
+    "id": "titanwings/distilly",
+    "language": "Python",
+    "name": "titanwings/distilly",
+    "stars": 24955,
+    "updated_at": "2026-09-22T09:55:21Z",
+    "url": "https://github.com/titanwings/distilly"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 20,
+    "updated_at": "2026-09-22T09:54:41Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "Local-first text-to-CAD agent: NL spec -> verified manufacturable parts on one 8GB GPU. build123d observe-edit loop, det",
+    "id": "Anthonyhangprinter/maker-agent",
+    "language": "Python",
+    "name": "Anthonyhangprinter/maker-agent",
+    "stars": 0,
+    "updated_at": "2026-09-22T09:54:53Z",
+    "url": "https://github.com/Anthonyhangprinter/maker-agent"
+  },
+  {
+    "description": "Scoped, tool-using DeepSeek audit agent that turns authorized HTTP/TLS checks into reproducible evidence",
+    "id": "kalpak44/deepaudit",
+    "language": "Python",
+    "name": "kalpak44/deepaudit",
+    "stars": 0,
+    "updated_at": "2026-09-22T09:52:58Z",
+    "url": "https://github.com/kalpak44/deepaudit"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 128,
+    "updated_at": "2026-09-22T09:46:58Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 3,
+    "updated_at": "2026-09-22T09:46:22Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "\u589e\u957f\u8425\u9500 Buzz\uff5c\u5f15\u6d41\u5f15\u64ce\u3002Growth Marketer \u2014 the traffic engine that funnels buyers to checkout.",
     "id": "xhqing/GrowthMarketerAgent",
     "language": "JavaScript",
@@ -9,15 +90,6 @@
     "url": "https://github.com/xhqing/GrowthMarketerAgent"
   },
   {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 20,
-    "updated_at": "2026-09-22T09:41:08Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
     "description": "All-in-one agent harness for Claude Code \u2014 Boss meta-orchestrator, 32 curated agents, 139 curated skills, 2 named workfl",
     "id": "sehoon787/my-claude",
     "language": "JavaScript",
@@ -25,15 +97,6 @@
     "stars": 16,
     "updated_at": "2026-09-22T09:39:10Z",
     "url": "https://github.com/sehoon787/my-claude"
-  },
-  {
-    "description": "Scoped, tool-using DeepSeek audit agent that turns authorized HTTP/TLS checks into reproducible evidence",
-    "id": "kalpak44/deepaudit",
-    "language": "Python",
-    "name": "kalpak44/deepaudit",
-    "stars": 0,
-    "updated_at": "2026-09-22T09:36:55Z",
-    "url": "https://github.com/kalpak44/deepaudit"
   },
   {
     "description": "T2AG \u662f\u8003\u4f60\u800c\u4e0d\u662f\u66ff\u4f60\u7b54\u7684 AI \u5b66\u4e60\u6846\u67b6\uff1a\u9519\u9898\u3001\u8bc1\u660e\u4e0e\u6bcf\u4e00\u6b21\u88c1\u51b3\u90fd\u5b58\u5728\u5f52\u4f60\u6240\u6709\u7684\u7eaf\u6587\u672c\u91cc\uff0c\u4efb\u4f55 agent \u53ef\u8bfb\u53ef\u5e26\u8d70\uff1b\u73af\u4e0a\u7684\u88c1\u51b3\u8005\u662f\u4f60\u3002An AI learning harness that tests you instead of",
@@ -63,15 +126,6 @@
     "url": "https://github.com/njfuzrs/agent-backend"
   },
   {
-    "description": "Distilly \u2014 Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill\uff08\u539f\u540c\u4e8b Skill\uff09.",
-    "id": "titanwings/distilly",
-    "language": "Python",
-    "name": "titanwings/distilly",
-    "stars": 24954,
-    "updated_at": "2026-09-22T09:25:47Z",
-    "url": "https://github.com/titanwings/distilly"
-  },
-  {
     "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
     "id": "urankwong/agentsgo",
     "language": "Python",
@@ -95,7 +149,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-22T09:25:48Z",
+    "updated_at": "2026-09-22T09:58:18Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -158,7 +212,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 809,
-    "updated_at": "2026-09-22T09:35:53Z",
+    "updated_at": "2026-09-22T09:49:57Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -301,7 +355,7 @@
     "id": "ant-research/AntOmniEvo",
     "language": "Python",
     "name": "ant-research/AntOmniEvo",
-    "stars": 57,
+    "stars": 59,
     "updated_at": "2026-09-22T07:49:21Z",
     "url": "https://github.com/ant-research/AntOmniEvo"
   },
@@ -356,7 +410,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5784,
-    "updated_at": "2026-09-22T09:34:13Z",
+    "updated_at": "2026-09-22T09:55:25Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-22T07:29:48Z",
     "url": "https://github.com/Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3"
-  },
-  {
-    "description": "Control your Windows laptop remotely via Discord with AI-powered voice and text commands in English or Urdu.",
-    "id": "Ottoman-reticule726/zara-ai-laptop-agent",
-    "language": "Python",
-    "name": "Ottoman-reticule726/zara-ai-laptop-agent",
-    "stars": 0,
-    "updated_at": "2026-09-22T07:29:01Z",
-    "url": "https://github.com/Ottoman-reticule726/zara-ai-laptop-agent"
-  },
-  {
-    "description": "Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons.",
-    "id": "alejandrogg15/Minimax-H3-Turbo",
-    "language": "Python",
-    "name": "alejandrogg15/Minimax-H3-Turbo",
-    "stars": 0,
-    "updated_at": "2026-09-22T07:28:51Z",
-    "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
-  },
-  {
-    "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
-    "id": "Aureliedumbfounding630/agent-governance-toolkit",
-    "language": "\u2014",
-    "name": "Aureliedumbfounding630/agent-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-09-22T07:27:42Z",
-    "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
-  },
-  {
-    "description": "Automate Elytra flight, navigation, and landing for Meteor Client with intelligent pathfinding and rocket management.",
-    "id": "222394/SkyPilot",
-    "language": "Java",
-    "name": "222394/SkyPilot",
-    "stars": 0,
-    "updated_at": "2026-09-22T07:27:38Z",
-    "url": "https://github.com/222394/SkyPilot"
-  },
-  {
-    "description": "Build open source deep research agents using multiple models, search tools, and MCP servers.",
-    "id": "randomvariablewhitepelican129/open_deep_research",
-    "language": "Python",
-    "name": "randomvariablewhitepelican129/open_deep_research",
-    "stars": 0,
-    "updated_at": "2026-09-22T07:26:59Z",
-    "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
-  },
-  {
-    "description": "Automate file management and coding tasks in your local directory using small language models.",
-    "id": "pruthviraj00007/VibeHarness",
-    "language": "Python",
-    "name": "pruthviraj00007/VibeHarness",
-    "stars": 0,
-    "updated_at": "2026-09-22T07:24:21Z",
-    "url": "https://github.com/pruthviraj00007/VibeHarness"
   }
 ]
