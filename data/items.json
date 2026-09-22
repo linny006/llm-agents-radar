@@ -1,5 +1,41 @@
 [
   {
+    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
+    "id": "PCODE-pl/MCPTap",
+    "language": "Python",
+    "name": "PCODE-pl/MCPTap",
+    "stars": 1,
+    "updated_at": "2026-09-22T16:24:19Z",
+    "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-22T16:23:31Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-22T16:20:57Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "\u57fa\u4e8eLLM\u7684\u91cf\u5316\u56e0\u5b50\u5f00\u53d1Agent",
+    "id": "ZXTLQQ/FactorGPT",
+    "language": "Python",
+    "name": "ZXTLQQ/FactorGPT",
+    "stars": 10,
+    "updated_at": "2026-09-22T16:17:48Z",
+    "url": "https://github.com/ZXTLQQ/FactorGPT"
+  },
+  {
     "description": "\u7535\u5546\u5e73\u53f0\u5546\u54c1\u5185\u5bb9\u6cbb\u7406\u7684\u590d\u6742\u98ce\u9669\u8c03\u67e5 Agent\uff1aLangGraph \u591a\u6b65\u8c03\u67e5 + \u786e\u5b9a\u6027 Decision Gate\uff0c\u8f93\u51fa PASS / REJECT / HUMAN_REVIEW\uff1b\u5168\u94fe\u8def\u786e\u5b9a\u6027\u53ef\u91cd\u653e\u8bc4\u6d4b",
     "id": "donglongjun886/product-review-agent",
     "language": "Python",
@@ -43,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-09-22T16:03:20Z",
     "url": "https://github.com/Estrella-Sky/ev-advisor"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 9,
-    "updated_at": "2026-09-22T16:03:07Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
@@ -144,15 +171,6 @@
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-09-22T15:42:43Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
-  },
-  {
     "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
     "id": "lsdefine/GenericAgent",
     "language": "Python",
@@ -229,7 +247,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7532,
+    "stars": 7534,
     "updated_at": "2026-09-22T15:09:38Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -250,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-09-22T15:07:13Z",
     "url": "https://github.com/monkey-mas/weather-report-buddy"
-  },
-  {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-22T15:06:26Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
@@ -302,7 +311,7 @@
     "language": "Python",
     "name": "emqnuele/projectBEA",
     "stars": 18,
-    "updated_at": "2026-09-22T15:52:44Z",
+    "updated_at": "2026-09-22T16:19:11Z",
     "url": "https://github.com/emqnuele/projectBEA"
   },
   {
@@ -338,7 +347,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3432,
-    "updated_at": "2026-09-22T16:03:41Z",
+    "updated_at": "2026-09-22T16:24:29Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-22T14:39:46Z",
     "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Manage a todocli task list in plain language through an LLM agent (Llama 2, LangChain, Streamlit)",
-    "id": "mrezashariati/Todocli-LLM-Interface",
-    "language": "Python",
-    "name": "mrezashariati/Todocli-LLM-Interface",
-    "stars": 0,
-    "updated_at": "2026-09-22T14:45:08Z",
-    "url": "https://github.com/mrezashariati/Todocli-LLM-Interface"
   }
 ]
