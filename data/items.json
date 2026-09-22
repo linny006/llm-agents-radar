@@ -1,12 +1,39 @@
 [
   {
-    "description": "IAM for your AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review risky a",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 216,
-    "updated_at": "2026-09-22T15:27:02Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
+    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
+    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "language": "JavaScript",
+    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "stars": 1,
+    "updated_at": "2026-09-22T15:39:05Z",
+    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
+  },
+  {
+    "description": "\u57fa\u4e8e LangChain \u7684\u65b0\u80fd\u6e90\u6c7d\u8f66\u667a\u80fd\u5bfc\u8d2d\u4e0e\u7ade\u54c1\u5206\u6790 Agent\uff1aRAG \u8f66\u578b\u77e5\u8bc6\u5e93 + ReAct \u5de5\u5177\u8c03\u7528 + Gradio \u6f14\u793a",
+    "id": "Estrella-Sky/ev-advisor",
+    "language": "Python",
+    "name": "Estrella-Sky/ev-advisor",
+    "stars": 1,
+    "updated_at": "2026-09-22T15:38:47Z",
+    "url": "https://github.com/Estrella-Sky/ev-advisor"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 714,
+    "updated_at": "2026-09-22T15:38:31Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 4,
+    "updated_at": "2026-09-22T15:38:10Z",
+    "url": "https://github.com/ljedrz/nachalnik"
   },
   {
     "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
@@ -14,8 +41,35 @@
     "language": "Python",
     "name": "PCODE-pl/MCPTap",
     "stars": 1,
-    "updated_at": "2026-09-22T15:23:34Z",
+    "updated_at": "2026-09-22T15:37:51Z",
     "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
+    "description": "One agent SDK, hand-ported to 7 languages \u2014 JavaScript, Python, Go, Java, C#, Elixir, Clojure \u2014 every port held to the s",
+    "id": "muthuishere/toolnexus",
+    "language": "MDX",
+    "name": "muthuishere/toolnexus",
+    "stars": 5,
+    "updated_at": "2026-09-22T15:33:14Z",
+    "url": "https://github.com/muthuishere/toolnexus"
+  },
+  {
+    "description": "sid-code \u4e0e claude-trace \u5171\u540c\u9762\u5bf9\u7684\u4f01\u4e1a\u7ea7\u540e\u7aef\uff1a\u63a7\u5236\u9762\uff08policy / flag / \u8eab\u4efd\uff09\u4e0e\u6570\u636e\u9762\uff08\u8f68\u8ff9 / \u4e8b\u4ef6\uff09\u540c\u4ed3\u3001\u9274\u6743\u9694\u79bb\u3002\u5df2\u4ea4\u4ed8\u8f68\u8ff9\u5b58\u50a8\u4e0e\u5206\u6790\uff0c\u5176\u4f59\u6a21\u5757\u6309\u91cc\u7a0b\u7891\u8fed\u4ee3",
+    "id": "njfuzrs/agent-backend",
+    "language": "Python",
+    "name": "njfuzrs/agent-backend",
+    "stars": 0,
+    "updated_at": "2026-09-22T15:34:34Z",
+    "url": "https://github.com/njfuzrs/agent-backend"
+  },
+  {
+    "description": "IAM for your AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review risky a",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 216,
+    "updated_at": "2026-09-22T15:30:23Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -27,15 +81,6 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "\u57fa\u4e8e LangChain \u7684\u65b0\u80fd\u6e90\u6c7d\u8f66\u667a\u80fd\u5bfc\u8d2d\u4e0e\u7ade\u54c1\u5206\u6790 Agent\uff1aRAG \u8f66\u578b\u77e5\u8bc6\u5e93 + ReAct \u5de5\u5177\u8c03\u7528 + Gradio \u6f14\u793a",
-    "id": "Estrella-Sky/ev-advisor",
-    "language": "Python",
-    "name": "Estrella-Sky/ev-advisor",
-    "stars": 1,
-    "updated_at": "2026-09-22T15:22:50Z",
-    "url": "https://github.com/Estrella-Sky/ev-advisor"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -43,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-22T15:20:24Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
-    "id": "ljedrz/nachalnik",
-    "language": "Rust",
-    "name": "ljedrz/nachalnik",
-    "stars": 4,
-    "updated_at": "2026-09-22T15:28:26Z",
-    "url": "https://github.com/ljedrz/nachalnik"
   },
   {
     "description": "\u672c\u5730\u4f18\u5148\u7684 AI \u957f\u671f\u8bb0\u5fc6\u670d\u52a1\uff1a\u4f1a\u9057\u5fd8\u3001\u4f1a\u8054\u60f3\u3001\u4f1a\u5de9\u56fa\u3002MCP + REST + Web UI\uff0c\u4e00\u6761\u547d\u4ee4\u88c5\u597d\uff1b\u4e0d\u7528 DSH \u4e5f\u80fd\u72ec\u7acb\u4f7f\u7528\u3002",
@@ -70,15 +106,6 @@
     "stars": 19,
     "updated_at": "2026-09-22T15:26:53Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
-    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "language": "JavaScript",
-    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "stars": 1,
-    "updated_at": "2026-09-22T15:17:15Z",
-    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
   },
   {
     "description": "Event-driven 5G incident orchestrator: multi-agent evidence gathering (PCAP/log/KPI), LATS root-cause analysis, and huma",
@@ -103,7 +130,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7529,
+    "stars": 7530,
     "updated_at": "2026-09-22T15:09:38Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -205,6 +232,15 @@
     "stars": 0,
     "updated_at": "2026-09-22T14:55:52Z",
     "url": "https://github.com/clashroy5384/ai-papers-hub"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3432,
+    "updated_at": "2026-09-22T14:55:02Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
@@ -412,41 +448,5 @@
     "stars": 9,
     "updated_at": "2026-09-22T14:18:09Z",
     "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into",
-    "id": "AskTheWay/dsh-auto-memory",
-    "language": "TypeScript",
-    "name": "AskTheWay/dsh-auto-memory",
-    "stars": 1,
-    "updated_at": "2026-09-22T14:17:03Z",
-    "url": "https://github.com/AskTheWay/dsh-auto-memory"
-  },
-  {
-    "description": "\u300a\u8be1\u79d8\u4e16\u754c\u300b\u00b7 World of Mysteries \u2014 \u672c\u5730\u4f18\u5148\u7684\u5355\u4eba\u6301\u4e45\u4e16\u754c\u6f14\u7ece\u5e94\u7528\uff1aSwiftUI macOS 26+ \u5ba2\u6237\u7aef + \u72ec\u7acb Local Engine\uff08Python 3.14 + AgentScope 2.0.8\uff09+ SQ",
-    "id": "hrygo/WorldofMysteries",
-    "language": "Swift",
-    "name": "hrygo/WorldofMysteries",
-    "stars": 0,
-    "updated_at": "2026-09-22T14:18:32Z",
-    "url": "https://github.com/hrygo/WorldofMysteries"
-  },
-  {
-    "description": "\u5e26\u7b56\u7565\u9a8c\u8bc1\u7684 A \u80a1 LLM \u5206\u6790\u7cfb\u7edf \u2014\u2014 \u591a\u6e90\u964d\u7ea7 + \u5b9a\u65f6\u4efb\u52a1 + \u591a\u901a\u9053\u63a8\u9001\uff1b\u6838\u5fc3\u589e\u91cf\u662f\u53ef\u8bc1\u4f2a\u7684\u56de\u6d4b\u4e0e\u9a8c\u8bc1\u5c42\uff08\u672a\u6765\u51fd\u6570\u63a2\u6d4b / \u6837\u672c\u5185\u5916\u5207\u5206 / t\u68c0\u9a8c / \u57fa\u51c6\u5bf9\u6bd4\uff09",
-    "id": "AandBorC/dsa-lite",
-    "language": "Python",
-    "name": "AandBorC/dsa-lite",
-    "stars": 0,
-    "updated_at": "2026-09-22T14:13:45Z",
-    "url": "https://github.com/AandBorC/dsa-lite"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-09-22T14:13:45Z",
-    "url": "https://github.com/yigido41/agentic-ai"
   }
 ]
