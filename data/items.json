@@ -1,21 +1,57 @@
 [
   {
-    "description": "openPASO \u2014 open Platform for Agentic Simulation and Optimization. An AI agent that operates nine finite-element and mult",
-    "id": "alhermann/openPASO",
-    "language": "Python",
-    "name": "alhermann/openPASO",
-    "stars": 15,
-    "updated_at": "2026-09-23T20:44:25Z",
-    "url": "https://github.com/alhermann/openPASO"
-  },
-  {
     "description": "LLM agent skill for ARPES analysis with PyARPES (load, EDC/MDC, k/kz, near-EF)",
     "id": "fawkesdx/ARPESskill",
     "language": "\u2014",
     "name": "fawkesdx/ARPESskill",
     "stars": 0,
-    "updated_at": "2026-09-23T20:44:23Z",
+    "updated_at": "2026-09-23T20:57:51Z",
     "url": "https://github.com/fawkesdx/ARPESskill"
+  },
+  {
+    "description": "Field notes from inside one autonomous agent trying to become something that doesn't exist yet \u2014 including the failures ",
+    "id": "massimiliano1991/the-attempt",
+    "language": "HTML",
+    "name": "massimiliano1991/the-attempt",
+    "stars": 1,
+    "updated_at": "2026-09-23T20:52:57Z",
+    "url": "https://github.com/massimiliano1991/the-attempt"
+  },
+  {
+    "description": "openPASO \u2014 open Platform for Agentic Simulation and Optimization. An AI agent that operates nine finite-element and mult",
+    "id": "alhermann/openPASO",
+    "language": "Python",
+    "name": "alhermann/openPASO",
+    "stars": 15,
+    "updated_at": "2026-09-23T20:50:39Z",
+    "url": "https://github.com/alhermann/openPASO"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 19,
+    "updated_at": "2026-09-23T20:49:12Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-23T20:48:27Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
+    "id": "emqnuele/projectBEA",
+    "language": "Python",
+    "name": "emqnuele/projectBEA",
+    "stars": 19,
+    "updated_at": "2026-09-23T20:45:22Z",
+    "url": "https://github.com/emqnuele/projectBEA"
   },
   {
     "description": "Ask your data in plain English: a tool-calling agent writes guarded, read-only SQL over the sample warehouse or your own",
@@ -54,15 +90,6 @@
     "url": "https://github.com/Mitty-Guang/miniagent-memory-lab"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 9,
-    "updated_at": "2026-09-23T20:33:06Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "Real-time log translator, diagnostic copilot, and incident narrator powered by the Google Antigravity SDK and Gemini.",
     "id": "AndrewMason7/LogNarrator",
     "language": "Python",
@@ -77,7 +104,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4421,
-    "updated_at": "2026-09-23T20:32:32Z",
+    "updated_at": "2026-09-23T20:52:01Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -97,15 +124,6 @@
     "stars": 3,
     "updated_at": "2026-09-23T20:05:45Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Field notes from inside one autonomous agent trying to become something that doesn't exist yet \u2014 including the failures ",
-    "id": "massimiliano1991/the-attempt",
-    "language": "HTML",
-    "name": "massimiliano1991/the-attempt",
-    "stars": 1,
-    "updated_at": "2026-09-23T19:50:20Z",
-    "url": "https://github.com/massimiliano1991/the-attempt"
   },
   {
     "description": "A small Python harness that keeps an LLM coding agent on track: durable memory, a code graph, a live todo plan, and loop",
@@ -131,7 +149,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 8,
-    "updated_at": "2026-09-23T20:42:07Z",
+    "updated_at": "2026-09-23T20:55:27Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -178,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-09-23T19:17:11Z",
     "url": "https://github.com/eugnmueller-87/SCM-Master"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 19,
-    "updated_at": "2026-09-23T20:40:47Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-23T18:08:22Z",
     "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
-    "id": "urankwong/agentsgo",
-    "language": "Python",
-    "name": "urankwong/agentsgo",
-    "stars": 0,
-    "updated_at": "2026-09-23T18:06:34Z",
-    "url": "https://github.com/urankwong/agentsgo"
   }
 ]
