@@ -1,5 +1,41 @@
 [
   {
+    "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
+    "id": "khudayarovich/onflip-agent",
+    "language": "TypeScript",
+    "name": "khudayarovich/onflip-agent",
+    "stars": 4,
+    "updated_at": "2026-09-23T14:35:43Z",
+    "url": "https://github.com/khudayarovich/onflip-agent"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4422,
+    "updated_at": "2026-09-23T14:32:06Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7664,
+    "updated_at": "2026-09-23T14:31:19Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
+    "id": "QQSHI13/fox-agent",
+    "language": "TypeScript",
+    "name": "QQSHI13/fox-agent",
+    "stars": 1,
+    "updated_at": "2026-09-23T14:31:15Z",
+    "url": "https://github.com/QQSHI13/fox-agent"
+  },
+  {
     "description": "\u5e26\u7b56\u7565\u9a8c\u8bc1\u7684 A \u80a1 LLM \u5206\u6790\u7cfb\u7edf \u2014\u2014 \u591a\u6e90\u964d\u7ea7 + \u5b9a\u65f6\u4efb\u52a1 + \u591a\u901a\u9053\u63a8\u9001\uff1b\u6838\u5fc3\u589e\u91cf\u662f\u53ef\u8bc1\u4f2a\u7684\u56de\u6d4b\u4e0e\u9a8c\u8bc1\u5c42\uff08\u672a\u6765\u51fd\u6570\u63a2\u6d4b / \u6837\u672c\u5185\u5916\u5207\u5206 / t\u68c0\u9a8c / \u57fa\u51c6\u5bf9\u6bd4\uff09",
     "id": "AandBorC/dsa-lite",
     "language": "Python",
@@ -72,15 +108,6 @@
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
-    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
-    "id": "QQSHI13/fox-agent",
-    "language": "TypeScript",
-    "name": "QQSHI13/fox-agent",
-    "stars": 1,
-    "updated_at": "2026-09-23T14:10:23Z",
-    "url": "https://github.com/QQSHI13/fox-agent"
-  },
-  {
     "description": "Capability-ontology-driven SAP capability supplier. One call answers one business question; endpoint chains, as-of consi",
     "id": "shrek-abaper/sap-nexus-agent",
     "language": "Python",
@@ -106,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-23T14:08:28Z",
     "url": "https://github.com/xiongweilin/agent-skills"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7660,
-    "updated_at": "2026-09-23T14:05:39Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
@@ -149,7 +167,7 @@
     "language": "Swift",
     "name": "hrygo/WorldofMysteries",
     "stars": 0,
-    "updated_at": "2026-09-23T14:29:06Z",
+    "updated_at": "2026-09-23T14:37:58Z",
     "url": "https://github.com/hrygo/WorldofMysteries"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-23T13:20:55Z",
     "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 0,
-    "updated_at": "2026-09-23T13:19:36Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "Self-corrective LangGraph RAG agent answering GDPR questions with citations, and auditing contracts against them.",
-    "id": "GaganGanesh98/german-compliance-agent",
-    "language": "Python",
-    "name": "GaganGanesh98/german-compliance-agent",
-    "stars": 0,
-    "updated_at": "2026-09-23T13:19:11Z",
-    "url": "https://github.com/GaganGanesh98/german-compliance-agent"
   }
 ]
