@@ -1,5 +1,95 @@
 [
   {
+    "description": "\ubc18\ub824\uacac \uc0c1\ub2f4 \uc624\ucf00\uc2a4\ud2b8\ub808\uc774\ud130 \u2014 \uadfc\uac70 RAG\uc640 \ud53c\ubd80 \uc2a4\ud06c\ub9ac\ub2dd \ubaa8\ub378\uc744 MCP \uc11c\ube0c\uc5d0\uc774\uc804\ud2b8\ub85c \ub450\uace0, \ubaa8\ub378\uc774 \ub9d0\ud574\ub3c4 \ub418\ub294 \uac83\uc744 \ucf54\ub4dc\uac00 \uc815\ud55c\ub2e4 (MCP \u00b7 tool calling \u00b7 \uacb0\uc815\ub860\uc801 \uc548\uc804 \uac8c\uc774\ud2b8)",
+    "id": "gayeoniee/dog-care-agent",
+    "language": "Python",
+    "name": "gayeoniee/dog-care-agent",
+    "stars": 0,
+    "updated_at": "2026-09-23T08:29:47Z",
+    "url": "https://github.com/gayeoniee/dog-care-agent"
+  },
+  {
+    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
+    "id": "PCODE-pl/MCPTap",
+    "language": "Python",
+    "name": "PCODE-pl/MCPTap",
+    "stars": 1,
+    "updated_at": "2026-09-23T08:29:44Z",
+    "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 809,
+    "updated_at": "2026-09-23T08:28:24Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 20,
+    "updated_at": "2026-09-23T08:27:23Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
+    "id": "xieguigang/sciBASIC",
+    "language": "Visual Basic .NET",
+    "name": "xieguigang/sciBASIC",
+    "stars": 78,
+    "updated_at": "2026-09-23T08:25:15Z",
+    "url": "https://github.com/xieguigang/sciBASIC"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-09-23T08:30:04Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "Mini agent: LLM -> JSON action -> tools -> feedback loop, configured from YAML (Agentic AI course)",
+    "id": "NithichoteC/mini-agent",
+    "language": "Python",
+    "name": "NithichoteC/mini-agent",
+    "stars": 0,
+    "updated_at": "2026-09-23T08:24:10Z",
+    "url": "https://github.com/NithichoteC/mini-agent"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 32213,
+    "updated_at": "2026-09-23T08:21:13Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "Local-first desktop app: 16 AI agents from 8 LLM providers debate any topic \u2014 with live argument mapping, fact-check bad",
+    "id": "richer-richard/socratic-council",
+    "language": "TypeScript",
+    "name": "richer-richard/socratic-council",
+    "stars": 8,
+    "updated_at": "2026-09-23T08:20:35Z",
+    "url": "https://github.com/richer-richard/socratic-council"
+  },
+  {
+    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
+    "id": "urankwong/agentsgo",
+    "language": "Python",
+    "name": "urankwong/agentsgo",
+    "stars": 0,
+    "updated_at": "2026-09-23T08:19:01Z",
+    "url": "https://github.com/urankwong/agentsgo"
+  },
+  {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
     "id": "zhixuli0406/DuDuClaw",
     "language": "Rust",
@@ -9,15 +99,6 @@
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
-    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
-    "id": "xieguigang/sciBASIC",
-    "language": "Visual Basic .NET",
-    "name": "xieguigang/sciBASIC",
-    "stars": 78,
-    "updated_at": "2026-09-23T08:13:59Z",
-    "url": "https://github.com/xieguigang/sciBASIC"
-  },
-  {
     "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
     "id": "areal-project/AReaL",
     "language": "Python",
@@ -25,24 +106,6 @@
     "stars": 5789,
     "updated_at": "2026-09-23T08:09:14Z",
     "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
-    "id": "urankwong/agentsgo",
-    "language": "Python",
-    "name": "urankwong/agentsgo",
-    "stars": 0,
-    "updated_at": "2026-09-23T08:07:59Z",
-    "url": "https://github.com/urankwong/agentsgo"
-  },
-  {
-    "description": "\ubc18\ub824\uacac \uc0c1\ub2f4 \uc624\ucf00\uc2a4\ud2b8\ub808\uc774\ud130 \u2014 \uadfc\uac70 RAG\uc640 \ud53c\ubd80 \uc2a4\ud06c\ub9ac\ub2dd \ubaa8\ub378\uc744 MCP \uc11c\ube0c\uc5d0\uc774\uc804\ud2b8\ub85c \ub450\uace0, \ubaa8\ub378\uc774 \ub9d0\ud574\ub3c4 \ub418\ub294 \uac83\uc744 \ucf54\ub4dc\uac00 \uc815\ud55c\ub2e4 (MCP \u00b7 tool calling \u00b7 \uacb0\uc815\ub860\uc801 \uc548\uc804 \uac8c\uc774\ud2b8)",
-    "id": "gayeoniee/dog-care-agent",
-    "language": "Python",
-    "name": "gayeoniee/dog-care-agent",
-    "stars": 0,
-    "updated_at": "2026-09-23T08:07:40Z",
-    "url": "https://github.com/gayeoniee/dog-care-agent"
   },
   {
     "description": "Local coding agent with native Zhipu GLM / StepFun Step Coding-Plan support. Four hard gates \u2014 the agent can't claim don",
@@ -59,17 +122,8 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-09-23T08:07:13Z",
+    "updated_at": "2026-09-23T08:25:26Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-09-23T08:05:23Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
   },
   {
     "description": "\ud83e\udd16 MioChat \u2014 \u5f00\u6e90\u7684 Agent \u64cd\u4f5c\u7cfb\u7edf\u3002Agent / Session / SubAgent \u4e09\u7ea7\u4e0a\u4e0b\u6587\u6a21\u578b\u3001V3 Hook \u5207\u9762\u3001MCP + Skills \u53cc\u6807\u51c6\u5de5\u5177\u751f\u6001\u3001\u591a\u6e20\u9053\u63a5\u5165\u4e0e\u5b9a\u65f6\u81ea\u6cbb\u3002\u6a21\u578b\u65e0\u5173\u3001\u81ea\u6258\u7ba1\u3002",
@@ -94,7 +148,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7586,
+    "stars": 7587,
     "updated_at": "2026-09-23T07:58:59Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -202,7 +256,7 @@
     "id": "feder-cr/invisible_playwright_mcp",
     "language": "Python",
     "name": "feder-cr/invisible_playwright_mcp",
-    "stars": 31635,
+    "stars": 31633,
     "updated_at": "2026-09-23T07:39:05Z",
     "url": "https://github.com/feder-cr/invisible_playwright_mcp"
   },
@@ -286,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-09-23T07:28:43Z",
     "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 20,
-    "updated_at": "2026-09-23T07:28:31Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-23T07:18:21Z",
     "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-09-23T07:18:03Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 32212,
-    "updated_at": "2026-09-23T07:17:25Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 4,
-    "updated_at": "2026-09-23T07:16:06Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "DeepSeek Harness \u6781\u7b80 PTC \u9884\u8bbe\uff1a\u7b80\u6d01\u63d0\u793a\u8bcd\u3001run_code \u5de5\u5177\u7f16\u6392\u3001\u5b8c\u6574\u63d2\u4ef6\u5de5\u5177\uff0c\u4ee5\u53ca Windows Git Bash \u548c\u6301\u4e45 PowerShell\u3002",
-    "id": "STARDUSTLC666/dsh-minimal-ptc",
-    "language": "JavaScript",
-    "name": "STARDUSTLC666/dsh-minimal-ptc",
-    "stars": 1,
-    "updated_at": "2026-09-23T07:14:51Z",
-    "url": "https://github.com/STARDUSTLC666/dsh-minimal-ptc"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-09-23T07:12:42Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
   }
 ]
