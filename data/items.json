@@ -1,19 +1,109 @@
 [
   {
+    "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
+    "id": "emqnuele/projectBEA",
+    "language": "Python",
+    "name": "emqnuele/projectBEA",
+    "stars": 19,
+    "updated_at": "2026-09-23T14:44:55Z",
+    "url": "https://github.com/emqnuele/projectBEA"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 20,
+    "updated_at": "2026-09-23T14:44:30Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 3,
+    "updated_at": "2026-09-23T14:42:06Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-09-23T14:44:23Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-09-23T14:41:56Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-23T14:41:39Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-09-23T14:41:37Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 130,
+    "updated_at": "2026-09-23T14:40:47Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "\u300a\u8be1\u79d8\u4e16\u754c\u300b\u00b7 World of Mysteries \u2014 \u672c\u5730\u4f18\u5148\u7684\u5355\u4eba\u6301\u4e45\u4e16\u754c\u6f14\u7ece\u5e94\u7528\uff1aSwiftUI macOS 26+ \u5ba2\u6237\u7aef + \u72ec\u7acb Local Engine\uff08Python 3.14 + AgentScope 2.0.8\uff09+ SQ",
+    "id": "hrygo/WorldofMysteries",
+    "language": "Swift",
+    "name": "hrygo/WorldofMysteries",
+    "stars": 0,
+    "updated_at": "2026-09-23T14:43:09Z",
+    "url": "https://github.com/hrygo/WorldofMysteries"
+  },
+  {
     "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
     "id": "khudayarovich/onflip-agent",
     "language": "TypeScript",
     "name": "khudayarovich/onflip-agent",
     "stars": 4,
-    "updated_at": "2026-09-23T14:35:43Z",
+    "updated_at": "2026-09-23T14:44:21Z",
     "url": "https://github.com/khudayarovich/onflip-agent"
+  },
+  {
+    "description": "ReAct Agent memory management & evaluation platform: budgeted memory selection, SQLite long-term memory, HITL approval, ",
+    "id": "Mitty-Guang/miniagent-memory-lab",
+    "language": "Python",
+    "name": "Mitty-Guang/miniagent-memory-lab",
+    "stars": 0,
+    "updated_at": "2026-09-23T14:39:39Z",
+    "url": "https://github.com/Mitty-Guang/miniagent-memory-lab"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
-    "stars": 4422,
+    "stars": 4421,
     "updated_at": "2026-09-23T14:32:06Z",
     "url": "https://github.com/gptme/gptme"
   },
@@ -22,7 +112,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7664,
+    "stars": 7666,
     "updated_at": "2026-09-23T14:31:19Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -90,24 +180,6 @@
     "url": "https://github.com/PCODE-pl/MCPTap"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-09-23T14:26:09Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 20,
-    "updated_at": "2026-09-23T14:12:45Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
     "description": "Capability-ontology-driven SAP capability supplier. One call answers one business question; endpoint chains, as-of consi",
     "id": "shrek-abaper/sap-nexus-agent",
     "language": "Python",
@@ -115,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-23T14:10:21Z",
     "url": "https://github.com/shrek-abaper/sap-nexus-agent"
-  },
-  {
-    "description": "ReAct Agent memory management & evaluation platform: budgeted memory selection, SQLite long-term memory, HITL approval, ",
-    "id": "Mitty-Guang/miniagent-memory-lab",
-    "language": "Python",
-    "name": "Mitty-Guang/miniagent-memory-lab",
-    "stars": 0,
-    "updated_at": "2026-09-23T14:08:39Z",
-    "url": "https://github.com/Mitty-Guang/miniagent-memory-lab"
   },
   {
     "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
@@ -158,17 +221,8 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 19,
-    "updated_at": "2026-09-23T14:27:31Z",
+    "updated_at": "2026-09-23T14:41:28Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "\u300a\u8be1\u79d8\u4e16\u754c\u300b\u00b7 World of Mysteries \u2014 \u672c\u5730\u4f18\u5148\u7684\u5355\u4eba\u6301\u4e45\u4e16\u754c\u6f14\u7ece\u5e94\u7528\uff1aSwiftUI macOS 26+ \u5ba2\u6237\u7aef + \u72ec\u7acb Local Engine\uff08Python 3.14 + AgentScope 2.0.8\uff09+ SQ",
-    "id": "hrygo/WorldofMysteries",
-    "language": "Swift",
-    "name": "hrygo/WorldofMysteries",
-    "stars": 0,
-    "updated_at": "2026-09-23T14:37:58Z",
-    "url": "https://github.com/hrygo/WorldofMysteries"
   },
   {
     "description": "A framework-agnostic UI kit of production-ready components for building AI and LLM chat interfaces.",
@@ -319,7 +373,7 @@
     "id": "ruc-datalab/SkillAdam",
     "language": "Python",
     "name": "ruc-datalab/SkillAdam",
-    "stars": 77,
+    "stars": 78,
     "updated_at": "2026-09-23T13:40:36Z",
     "url": "https://github.com/ruc-datalab/SkillAdam"
   },
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-23T13:31:44Z",
     "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
-    "id": "muhzars/Agent.cpp",
-    "language": "C++",
-    "name": "muhzars/Agent.cpp",
-    "stars": 1,
-    "updated_at": "2026-09-23T13:28:47Z",
-    "url": "https://github.com/muhzars/Agent.cpp"
-  },
-  {
-    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
-    "id": "faheela-786/ComfyUI-qwenmultiangle",
-    "language": "\u2014",
-    "name": "faheela-786/ComfyUI-qwenmultiangle",
-    "stars": 2,
-    "updated_at": "2026-09-23T13:25:07Z",
-    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
-  },
-  {
-    "description": "\u975e\u7ebf\u667a\u80fd NoneLinear - ReLE\u8bc4\u6d4b\uff1a\u4e2d\u6587AI\u5927\u6a21\u578b\u80fd\u529b\u8bc4\u6d4b\uff08\u6301\u7eed\u66f4\u65b0\uff09\uff1a\u76ee\u524d\u5df2\u56ca\u62ec374\u4e2a\u5927\u6a21\u578b\uff0c\u8986\u76d6chatgpt\u3001gpt-5.4\u3001\u8c37\u6b4cgemini-3.1-pro\u3001Claude-4.6\u3001\u6587\u5fc3ERNIE-X1.1\u3001ERNIE",
-    "id": "jeinlee1991/chinese-llm-benchmark",
-    "language": "\u2014",
-    "name": "jeinlee1991/chinese-llm-benchmark",
-    "stars": 6450,
-    "updated_at": "2026-09-23T13:24:28Z",
-    "url": "https://github.com/jeinlee1991/chinese-llm-benchmark"
-  },
-  {
-    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
-    "id": "amineeng/scraping-browser",
-    "language": "\u2014",
-    "name": "amineeng/scraping-browser",
-    "stars": 1,
-    "updated_at": "2026-09-23T13:23:42Z",
-    "url": "https://github.com/amineeng/scraping-browser"
-  },
-  {
-    "description": "Local-first desktop app: 16 AI agents from 8 LLM providers debate any topic \u2014 with live argument mapping, fact-check bad",
-    "id": "richer-richard/socratic-council",
-    "language": "TypeScript",
-    "name": "richer-richard/socratic-council",
-    "stars": 8,
-    "updated_at": "2026-09-23T13:22:46Z",
-    "url": "https://github.com/richer-richard/socratic-council"
-  },
-  {
-    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
-    "id": "Saran1536/ComfyUI-LoaderUtils",
-    "language": "Python",
-    "name": "Saran1536/ComfyUI-LoaderUtils",
-    "stars": 0,
-    "updated_at": "2026-09-23T13:20:55Z",
-    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
   }
 ]
