@@ -1,10 +1,37 @@
 [
   {
+    "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
+    "id": "kashyaprajharsh/medha-agent",
+    "language": "Rust",
+    "name": "kashyaprajharsh/medha-agent",
+    "stars": 1,
+    "updated_at": "2026-09-23T16:57:48Z",
+    "url": "https://github.com/kashyaprajharsh/medha-agent"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 128,
+    "updated_at": "2026-09-23T16:53:42Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 130,
+    "updated_at": "2026-09-23T16:51:08Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7732,
+    "stars": 7735,
     "updated_at": "2026-09-23T16:43:12Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -34,15 +61,6 @@
     "stars": 9,
     "updated_at": "2026-09-23T16:39:50Z",
     "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 128,
-    "updated_at": "2026-09-23T16:38:36Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -104,7 +122,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 19,
-    "updated_at": "2026-09-23T16:23:18Z",
+    "updated_at": "2026-09-23T16:58:46Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -302,7 +320,7 @@
     "language": "Go",
     "name": "grauwolf32/contractor",
     "stars": 2,
-    "updated_at": "2026-09-23T15:49:40Z",
+    "updated_at": "2026-09-23T16:58:38Z",
     "url": "https://github.com/grauwolf32/contractor"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-23T15:10:53Z",
     "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-09-23T15:07:30Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-09-23T15:04:46Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   }
 ]
