@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-23 21:45 UTC
+> ⏰ Last updated: 2026-09-23 21:46 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -62,7 +62,7 @@ expired items removed — so you can rely on what you see being current.
 | 18 | [laoxs2002/genai-agentes](https://github.com/laoxs2002/genai-agentes) | 0 | Jupyter Notebook | 2026-09-23 | Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a |
 | 19 | [heba-ramdan/harness](https://github.com/heba-ramdan/harness) | 1 | TypeScript | 2026-09-23 | Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the  |
 | 20 | [Ronit0p/AutoGod](https://github.com/Ronit0p/AutoGod) | 0 | Java | 2026-09-23 | Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft  |
-| 21 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 7803 | Python | 2026-09-23 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 21 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 7804 | Python | 2026-09-23 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
 | 22 | [lukky262/ARE](https://github.com/lukky262/ARE) | 1 | — | 2026-09-23 | Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a |
 | 23 | [hichamnes-prog/exforum-auto-poster](https://github.com/hichamnes-prog/exforum-auto-poster) | 1 | Python | 2026-09-23 |  |
 | 24 | [alhermann/openPASO](https://github.com/alhermann/openPASO) | 16 | Python | 2026-09-23 | openPASO — open Platform for Agentic Simulation and Optimization. An AI agent that operates nine finite-element and mult |
