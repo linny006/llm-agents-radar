@@ -4,9 +4,72 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7724,
-    "updated_at": "2026-09-23T16:30:47Z",
+    "stars": 7732,
+    "updated_at": "2026-09-23T16:43:12Z",
     "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "An AI agent that drives a real anti-detect browser: say what you want in plain English and it navigates, clicks, types a",
+    "id": "feder-cr/invisible_playwright_mcp",
+    "language": "Python",
+    "name": "feder-cr/invisible_playwright_mcp",
+    "stars": 31636,
+    "updated_at": "2026-09-23T16:43:23Z",
+    "url": "https://github.com/feder-cr/invisible_playwright_mcp"
+  },
+  {
+    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
+    "id": "sky-valley/pi",
+    "language": "Go",
+    "name": "sky-valley/pi",
+    "stars": 57,
+    "updated_at": "2026-09-23T16:40:12Z",
+    "url": "https://github.com/sky-valley/pi"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-23T16:39:50Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 128,
+    "updated_at": "2026-09-23T16:38:36Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 3,
+    "updated_at": "2026-09-23T16:36:53Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
+    "id": "emqnuele/projectBEA",
+    "language": "Python",
+    "name": "emqnuele/projectBEA",
+    "stars": 19,
+    "updated_at": "2026-09-23T16:36:15Z",
+    "url": "https://github.com/emqnuele/projectBEA"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-09-23T16:35:11Z",
+    "url": "https://github.com/b-macker/NAAb"
   },
   {
     "description": "The real-world Jarvis for your PC \u2014 a voice AI that sees your screen and actually drives it: clicks, types, and runs mul",
@@ -14,7 +77,7 @@
     "language": "JavaScript",
     "name": "nileshpatil6/Aura",
     "stars": 5,
-    "updated_at": "2026-09-23T16:29:45Z",
+    "updated_at": "2026-09-23T16:35:01Z",
     "url": "https://github.com/nileshpatil6/Aura"
   },
   {
@@ -50,17 +113,8 @@
     "language": "Rust",
     "name": "ljedrz/nachalnik",
     "stars": 4,
-    "updated_at": "2026-09-23T16:20:16Z",
+    "updated_at": "2026-09-23T16:44:32Z",
     "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 9,
-    "updated_at": "2026-09-23T16:18:08Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-23T15:04:46Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "\u57fa\u4e8e LangChain \u7684\u65b0\u80fd\u6e90\u6c7d\u8f66\u667a\u80fd\u5bfc\u8d2d\u4e0e\u7ade\u54c1\u5206\u6790 Agent\uff1aRAG \u8f66\u578b\u77e5\u8bc6\u5e93 + ReAct \u5de5\u5177\u8c03\u7528 + Gradio \u6f14\u793a",
-    "id": "Estrella-Sky/ev-advisor",
-    "language": "Python",
-    "name": "Estrella-Sky/ev-advisor",
-    "stars": 1,
-    "updated_at": "2026-09-23T14:58:05Z",
-    "url": "https://github.com/Estrella-Sky/ev-advisor"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-09-23T14:55:58Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
-    "id": "emqnuele/projectBEA",
-    "language": "Python",
-    "name": "emqnuele/projectBEA",
-    "stars": 19,
-    "updated_at": "2026-09-23T16:28:51Z",
-    "url": "https://github.com/emqnuele/projectBEA"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 3,
-    "updated_at": "2026-09-23T14:42:06Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-09-23T16:10:51Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-09-23T14:41:56Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   }
 ]
