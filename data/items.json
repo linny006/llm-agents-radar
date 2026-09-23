@@ -1,21 +1,30 @@
 [
   {
-    "description": "Control AI agents anywhere. (github mirror)",
-    "id": "justacalico/devinorium",
-    "language": "Dart",
-    "name": "justacalico/devinorium",
-    "stars": 1,
-    "updated_at": "2026-09-23T22:22:40Z",
-    "url": "https://github.com/justacalico/devinorium"
-  },
-  {
     "description": "openPASO \u2014 open Platform for Agentic Simulation and Optimization. An AI agent that operates nine finite-element and mult",
     "id": "alhermann/openPASO",
     "language": "Python",
     "name": "alhermann/openPASO",
     "stars": 16,
-    "updated_at": "2026-09-23T22:20:24Z",
+    "updated_at": "2026-09-23T22:34:12Z",
     "url": "https://github.com/alhermann/openPASO"
+  },
+  {
+    "description": "Control AI agents anywhere. (github mirror)",
+    "id": "justacalico/devinorium",
+    "language": "Dart",
+    "name": "justacalico/devinorium",
+    "stars": 1,
+    "updated_at": "2026-09-23T22:42:02Z",
+    "url": "https://github.com/justacalico/devinorium"
+  },
+  {
+    "description": "End-to-end sales pipeline analytics: messy CRM data -> SQL/ETL -> Power BI dashboard -> an LLM agent that answers questi",
+    "id": "abhiwalia33/Agentic-Sales-pipeline-for-CRM-based-data-",
+    "language": "Python",
+    "name": "abhiwalia33/Agentic-Sales-pipeline-for-CRM-based-data-",
+    "stars": 1,
+    "updated_at": "2026-09-23T22:13:12Z",
+    "url": "https://github.com/abhiwalia33/Agentic-Sales-pipeline-for-CRM-based-data-"
   },
   {
     "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
@@ -41,7 +50,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 19,
-    "updated_at": "2026-09-23T22:14:09Z",
+    "updated_at": "2026-09-23T22:33:12Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -85,7 +94,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7818,
+    "stars": 7821,
     "updated_at": "2026-09-23T21:50:15Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-23T20:52:57Z",
     "url": "https://github.com/massimiliano1991/the-attempt"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 9,
-    "updated_at": "2026-09-23T20:48:27Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   }
 ]
