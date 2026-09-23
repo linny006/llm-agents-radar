@@ -1,12 +1,138 @@
 [
   {
+    "description": "\u4f01\u4e1a\u7ea7 RAG \u77e5\u8bc6\u5e93\u95ee\u7b54\u7cfb\u7edf + AIOps \u8fd0\u7ef4\u8bca\u65ad Agent(Plan-Execute-Replan / LangGraph / MCP)",
+    "id": "m-oonn/rag-aiops-platform",
+    "language": "Python",
+    "name": "m-oonn/rag-aiops-platform",
+    "stars": 2,
+    "updated_at": "2026-09-23T07:44:17Z",
+    "url": "https://github.com/m-oonn/rag-aiops-platform"
+  },
+  {
     "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
     "id": "PCODE-pl/MCPTap",
     "language": "Python",
     "name": "PCODE-pl/MCPTap",
     "stars": 1,
-    "updated_at": "2026-09-23T07:29:34Z",
+    "updated_at": "2026-09-23T07:43:21Z",
     "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 24,
+    "updated_at": "2026-09-23T07:42:11Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\ud83e\udd16 MioChat \u2014 \u5f00\u6e90\u7684 Agent \u64cd\u4f5c\u7cfb\u7edf\u3002Agent / Session / SubAgent \u4e09\u7ea7\u4e0a\u4e0b\u6587\u6a21\u578b\u3001V3 Hook \u5207\u9762\u3001MCP + Skills \u53cc\u6807\u51c6\u5de5\u5177\u751f\u6001\u3001\u591a\u6e20\u9053\u63a5\u5165\u4e0e\u5b9a\u65f6\u81ea\u6cbb\u3002\u6a21\u578b\u65e0\u5173\u3001\u81ea\u6258\u7ba1\u3002",
+    "id": "Pretend-to/mio-chat-backend",
+    "language": "JavaScript",
+    "name": "Pretend-to/mio-chat-backend",
+    "stars": 38,
+    "updated_at": "2026-09-23T07:40:23Z",
+    "url": "https://github.com/Pretend-to/mio-chat-backend"
+  },
+  {
+    "description": "Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi",
+    "id": "zig333/ELAI-archive",
+    "language": "\u2014",
+    "name": "zig333/ELAI-archive",
+    "stars": 0,
+    "updated_at": "2026-09-23T07:40:01Z",
+    "url": "https://github.com/zig333/ELAI-archive"
+  },
+  {
+    "description": "An AI agent that drives a real anti-detect browser: say what you want in plain English and it navigates, clicks, types a",
+    "id": "feder-cr/invisible_playwright_mcp",
+    "language": "Python",
+    "name": "feder-cr/invisible_playwright_mcp",
+    "stars": 31634,
+    "updated_at": "2026-09-23T07:39:05Z",
+    "url": "https://github.com/feder-cr/invisible_playwright_mcp"
+  },
+  {
+    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
+    "id": "urankwong/agentsgo",
+    "language": "Python",
+    "name": "urankwong/agentsgo",
+    "stars": 0,
+    "updated_at": "2026-09-23T07:37:19Z",
+    "url": "https://github.com/urankwong/agentsgo"
+  },
+  {
+    "description": "A multi-agent research system for the humanities and social sciences.",
+    "id": "Luciole-Studio/Misaka-Agent",
+    "language": "Python",
+    "name": "Luciole-Studio/Misaka-Agent",
+    "stars": 3,
+    "updated_at": "2026-09-23T07:37:00Z",
+    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
+  },
+  {
+    "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
+    "id": "brittewestafrican981/ComfyUI-YinChao",
+    "language": "Python",
+    "name": "brittewestafrican981/ComfyUI-YinChao",
+    "stars": 0,
+    "updated_at": "2026-09-23T07:36:38Z",
+    "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
+  },
+  {
+    "description": "\u57fa\u4e8eLLM\u7684\u91cf\u5316\u56e0\u5b50\u5f00\u53d1Agent",
+    "id": "ZXTLQQ/FactorGPT",
+    "language": "Python",
+    "name": "ZXTLQQ/FactorGPT",
+    "stars": 10,
+    "updated_at": "2026-09-23T07:36:20Z",
+    "url": "https://github.com/ZXTLQQ/FactorGPT"
+  },
+  {
+    "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
+    "id": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
+    "language": "Python",
+    "name": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
+    "stars": 4,
+    "updated_at": "2026-09-23T07:35:38Z",
+    "url": "https://github.com/mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo"
+  },
+  {
+    "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
+    "id": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
+    "language": "Python",
+    "name": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
+    "stars": 2,
+    "updated_at": "2026-09-23T07:34:33Z",
+    "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
+  },
+  {
+    "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
+    "id": "EpsteinF1les/tts",
+    "language": "\u2014",
+    "name": "EpsteinF1les/tts",
+    "stars": 0,
+    "updated_at": "2026-09-23T07:33:51Z",
+    "url": "https://github.com/EpsteinF1les/tts"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-23T07:33:11Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "IAM for your AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review risky a",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 216,
+    "updated_at": "2026-09-23T07:32:32Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
     "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
@@ -27,15 +153,6 @@
     "url": "https://github.com/gayeoniee/dog-care-agent"
   },
   {
-    "description": "\u4f01\u4e1a\u7ea7 RAG \u77e5\u8bc6\u5e93\u95ee\u7b54\u7cfb\u7edf + AIOps \u8fd0\u7ef4\u8bca\u65ad Agent(Plan-Execute-Replan / LangGraph / MCP)",
-    "id": "m-oonn/rag-aiops-platform",
-    "language": "Python",
-    "name": "m-oonn/rag-aiops-platform",
-    "stars": 2,
-    "updated_at": "2026-09-23T07:29:10Z",
-    "url": "https://github.com/m-oonn/rag-aiops-platform"
-  },
-  {
     "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
     "id": "clashroy5384/ai-papers-hub",
     "language": "\u2014",
@@ -52,15 +169,6 @@
     "stars": 20,
     "updated_at": "2026-09-23T07:28:31Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
-    "id": "urankwong/agentsgo",
-    "language": "Python",
-    "name": "urankwong/agentsgo",
-    "stars": 0,
-    "updated_at": "2026-09-23T07:28:27Z",
-    "url": "https://github.com/urankwong/agentsgo"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -88,15 +196,6 @@
     "stars": 5,
     "updated_at": "2026-09-23T07:26:56Z",
     "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
-  },
-  {
-    "description": "IAM for your AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review risky a",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 216,
-    "updated_at": "2026-09-23T07:26:05Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
     "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
@@ -140,17 +239,8 @@
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 274,
-    "updated_at": "2026-09-23T07:23:32Z",
+    "updated_at": "2026-09-23T07:42:37Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "An AI agent that drives a real anti-detect browser: say what you want in plain English and it navigates, clicks, types a",
-    "id": "feder-cr/invisible_playwright_mcp",
-    "language": "Python",
-    "name": "feder-cr/invisible_playwright_mcp",
-    "stars": 31634,
-    "updated_at": "2026-09-23T07:23:22Z",
-    "url": "https://github.com/feder-cr/invisible_playwright_mcp"
   },
   {
     "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
@@ -178,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-09-23T07:21:18Z",
     "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "\u57fa\u4e8eLLM\u7684\u91cf\u5316\u56e0\u5b50\u5f00\u53d1Agent",
-    "id": "ZXTLQQ/FactorGPT",
-    "language": "Python",
-    "name": "ZXTLQQ/FactorGPT",
-    "stars": 10,
-    "updated_at": "2026-09-23T07:21:11Z",
-    "url": "https://github.com/ZXTLQQ/FactorGPT"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -229,7 +310,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 32209,
+    "stars": 32210,
     "updated_at": "2026-09-23T07:17:25Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -306,15 +387,6 @@
     "url": "https://github.com/Danisxxx/comfyUI-LongLook"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 9,
-    "updated_at": "2026-09-23T07:07:43Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
     "id": "axxafo/awesome-agent-benchmarks",
     "language": "\u2014",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-23T06:59:10Z",
     "url": "https://github.com/lusipad/browser-agent"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-09-23T06:56:44Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "\ub300\ud654 \uc18d \ud638\uce6d(\ud300\uc7a5 \u2192 \uae40\ud300\uc7a5 \u2192 \ubd80\uc7a5\ub2d8)\uc744 \uac19\uc740 \uc0ac\ub78c\uc73c\ub85c \ubb36\ub294 \uad00\uacc4 \uba54\ubaa8\ub9ac \uc5d0\uc774\uc804\ud2b8 \u2014 \uc5d4\ud2f0\ud2f0 \ud574\uc11d \ud30c\uc774\ud504\ub77c\uc778\uacfc \ud3c9\uac00 \uc7a5\uce58 (FastAPI \u00b7 PostgreSQL + pgvector, 1\uc778 \u00b7 \ucea1\uc2a4\ud1a4\ub514\uc790\uc778 2 \u00b7 ",
-    "id": "SunWoo1213/Relationship",
-    "language": "Python",
-    "name": "SunWoo1213/Relationship",
-    "stars": 0,
-    "updated_at": "2026-09-23T06:56:25Z",
-    "url": "https://github.com/SunWoo1213/Relationship"
-  },
-  {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-23T06:53:34Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "\u672c\u5730\u4f18\u5148\u7684\u684c\u9762 AI \u667a\u80fd\u4f53\uff1a\u5bf9\u8bdd / \u684c\u5ba0 / \u76f4\u64ad\u4e92\u52a8 / \u5de5\u4f5c\u6d41 / \u81ea\u52a8\u5316 / \u77e5\u8bc6\u5e93 / \u8bb0\u5fc6\uff0c\u6a21\u578b\u8c03\u7528\u8d70\u4f60\u81ea\u5df1\u7684 Key\uff0c\u6570\u636e\u7559\u5728\u672c\u673a\u3002Tauri 2 + React 19 + Python 3.13\u3002",
-    "id": "Hayliy/naixi-desktop",
-    "language": "Python",
-    "name": "Hayliy/naixi-desktop",
-    "stars": 0,
-    "updated_at": "2026-09-23T06:52:52Z",
-    "url": "https://github.com/Hayliy/naixi-desktop"
-  },
-  {
-    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
-    "id": "SHUKLAO/call-with-ai-agent",
-    "language": "\u2014",
-    "name": "SHUKLAO/call-with-ai-agent",
-    "stars": 3,
-    "updated_at": "2026-09-23T06:51:37Z",
-    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
-    "id": "WP2-Danikusuma/AgentX",
-    "language": "HTML",
-    "name": "WP2-Danikusuma/AgentX",
-    "stars": 2,
-    "updated_at": "2026-09-23T06:51:04Z",
-    "url": "https://github.com/WP2-Danikusuma/AgentX"
-  },
-  {
-    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
-    "id": "ljedrz/nachalnik",
-    "language": "Rust",
-    "name": "ljedrz/nachalnik",
-    "stars": 4,
-    "updated_at": "2026-09-23T06:48:14Z",
-    "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
-    "description": "Local-first long-term memory and safer context compression for Hermes Agent \u2014 SQLite, no required services.",
-    "id": "indigokarasu/chronicle-agent-context-and-memory",
-    "language": "Python",
-    "name": "indigokarasu/chronicle-agent-context-and-memory",
-    "stars": 6,
-    "updated_at": "2026-09-23T06:47:58Z",
-    "url": "https://github.com/indigokarasu/chronicle-agent-context-and-memory"
   }
 ]
