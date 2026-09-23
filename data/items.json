@@ -1,5 +1,50 @@
 [
   {
+    "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 274,
+    "updated_at": "2026-09-23T18:43:11Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 717,
+    "updated_at": "2026-09-23T18:45:13Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-09-23T18:39:26Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2a\u4eba A \u80a1\u7814\u7a76\u51b3\u7b56\u5de5\u4f5c\u53f0 \u00b7 \u6848\u5377\u5f0f\u7814\u7a76\u95ed\u73af\uff1a\u8fdb\u53e3\u5224\u65ad\u2192\u8bc1\u4f2a\u2192\u590d\u76d8\u2192\u8bb0\u5fc6\u3002\u4eba\u505a\u51b3\u7b56\uff0cAI \u505a\u5e7f\u5ea6/\u8bc1\u4f2a/\u98ce\u9669\u3002A local-first personal A-share research OS.",
+    "id": "Zeeechenn/MingCang",
+    "language": "Python",
+    "name": "Zeeechenn/MingCang",
+    "stars": 12,
+    "updated_at": "2026-09-23T18:39:23Z",
+    "url": "https://github.com/Zeeechenn/MingCang"
+  },
+  {
+    "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
+    "id": "rugose-learnedprofession58/pi-dsh",
+    "language": "TypeScript",
+    "name": "rugose-learnedprofession58/pi-dsh",
+    "stars": 0,
+    "updated_at": "2026-09-23T18:38:19Z",
+    "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
+  },
+  {
     "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
     "id": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
     "language": "JavaScript",
@@ -14,7 +59,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 19,
-    "updated_at": "2026-09-23T18:36:58Z",
+    "updated_at": "2026-09-23T18:40:30Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -279,15 +324,6 @@
     "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
   },
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 717,
-    "updated_at": "2026-09-23T18:25:16Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
     "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
     "id": "amineeng/scraping-browser",
     "language": "\u2014",
@@ -304,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-09-23T17:58:45Z",
     "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
-  },
-  {
-    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2a\u4eba A \u80a1\u7814\u7a76\u51b3\u7b56\u5de5\u4f5c\u53f0 \u00b7 \u6848\u5377\u5f0f\u7814\u7a76\u95ed\u73af\uff1a\u8fdb\u53e3\u5224\u65ad\u2192\u8bc1\u4f2a\u2192\u590d\u76d8\u2192\u8bb0\u5fc6\u3002\u4eba\u505a\u51b3\u7b56\uff0cAI \u505a\u5e7f\u5ea6/\u8bc1\u4f2a/\u98ce\u9669\u3002A local-first personal A-share research OS.",
-    "id": "Zeeechenn/MingCang",
-    "language": "Python",
-    "name": "Zeeechenn/MingCang",
-    "stars": 12,
-    "updated_at": "2026-09-23T18:06:09Z",
-    "url": "https://github.com/Zeeechenn/MingCang"
   },
   {
     "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
@@ -414,15 +441,6 @@
     "url": "https://github.com/JortegaR/ai-notes-api"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-09-23T18:08:51Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "An autopoiesic kefir for computing machines",
     "id": "genaforvena/lte-workstation",
     "language": "Shell",
@@ -430,23 +448,5 @@
     "stars": 9,
     "updated_at": "2026-09-23T17:29:30Z",
     "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "\u4fe1\u4f7f\u9e1f \u00b7 \u5bf9\u8bdd\u5f0f\u90ae\u4ef6\u7ba1\u5bb6\uff5c\u7528\u4e2d\u6587\u8bf4\u4e00\u53e5\u8bdd\u5c31\u628a\u90ae\u4ef6\u53d1\u51fa\u53bb\u3002\u628a\u90ae\u4ef6\u80fd\u529b\u5c01\u88c5\u6210 MCP \u6807\u51c6\u5de5\u5177\uff0c\u7531\u672c\u5730 Ollama \u6a21\u578b\u7406\u89e3\u610f\u56fe\u5e76\u8c03\u7528\uff0c\u5e26\u53ef\u7c98\u8d34\u56fe\u7247\u7684\u56fe\u5f62\u754c\u9762\uff1b\u5904\u7406\u9644\u4ef6\u6821\u9a8c\u3001\u5e42\u7b49\u91cd\u53d1\u3001SMTP \u8fde\u63a5\u590d\u7528\u4e0e\u9650\u6d41\u3002",
-    "id": "3029-sky/qqmail-mcp-tool",
-    "language": "Python",
-    "name": "3029-sky/qqmail-mcp-tool",
-    "stars": 1,
-    "updated_at": "2026-09-23T17:23:54Z",
-    "url": "https://github.com/3029-sky/qqmail-mcp-tool"
-  },
-  {
-    "description": "",
-    "id": "apolmig/fronteraeval",
-    "language": "JavaScript",
-    "name": "apolmig/fronteraeval",
-    "stars": 0,
-    "updated_at": "2026-09-23T17:10:59Z",
-    "url": "https://github.com/apolmig/fronteraeval"
   }
 ]
