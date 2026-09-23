@@ -1,5 +1,59 @@
 [
   {
+    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
+    "id": "Danisxxx/comfyUI-LongLook",
+    "language": "Python",
+    "name": "Danisxxx/comfyUI-LongLook",
+    "stars": 2,
+    "updated_at": "2026-09-23T03:11:22Z",
+    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
+  },
+  {
+    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
+    "id": "axxafo/awesome-agent-benchmarks",
+    "language": "\u2014",
+    "name": "axxafo/awesome-agent-benchmarks",
+    "stars": 4,
+    "updated_at": "2026-09-23T03:10:30Z",
+    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-09-23T03:06:02Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 24,
+    "updated_at": "2026-09-23T03:04:00Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-09-23T03:03:44Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-09-23T03:00:36Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
     "description": "A personal assistant with a phone number: SQLite-backed todos, memories, and reflections, searchable through Algolia and",
     "id": "NatanTechofNY/fieldnote-assistant",
     "language": "TypeScript",
@@ -88,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-09-23T02:50:02Z",
     "url": "https://github.com/unravel1020/codebase-agent"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-23T02:48:09Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "\u5728 WPS Office \u7684\u4efb\u52a1\u7a97\u683c\u91cc\u96c6\u6210 AI \u5bf9\u8bdd\u4e0e\u6587\u6863\u64cd\u4f5c\uff1a\u590d\u7528 Claudian \u7684\u754c\u9762\u6e32\u67d3\u5c42\uff08\u4e0d\u6539\u5176\u6e90\u7801\uff09+ \u590d\u7528 Claude Code \u7684 agent \u5faa\u73af\u3002\u652f\u6301\u6309\u6587\u6863\u7c7b\u578b\u6309\u9700\u52a0\u8f7d\u5de5\u5177\u96c6\u3002",
@@ -382,7 +427,7 @@
     "id": "feder-cr/invisible_playwright_mcp",
     "language": "Python",
     "name": "feder-cr/invisible_playwright_mcp",
-    "stars": 31628,
+    "stars": 31629,
     "updated_at": "2026-09-23T01:34:21Z",
     "url": "https://github.com/feder-cr/invisible_playwright_mcp"
   },
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-23T01:31:31Z",
     "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 5,
-    "updated_at": "2026-09-23T01:29:07Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-09-23T01:28:32Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-09-23T01:28:20Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 4,
-    "updated_at": "2026-09-23T01:26:25Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-09-23T01:22:58Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
   }
 ]
