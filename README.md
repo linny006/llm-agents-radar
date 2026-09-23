@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-23 17:15 UTC
+> ⏰ Last updated: 2026-09-23 17:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,21 +42,21 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [3029-sky/qqmail-mcp-tool](https://github.com/3029-sky/qqmail-mcp-tool) | 1 | Python | 2026-09-23 | 信使鸟 · 对话式邮件管家｜用中文说一句话就把邮件发出去。把邮件能力封装成 MCP 标准工具，由本地 Ollama 模型理解意图并调用，带可粘贴图片的图形界面；处理附件校验、幂等重发、SMTP 连接复用与限流。 |
-| 2 | [urankwong/agentsgo](https://github.com/urankwong/agentsgo) | 0 | Python | 2026-09-23 | Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration — any read/write-capable AI agent (any |
-| 3 | [PCODE-pl/MCPTap](https://github.com/PCODE-pl/MCPTap) | 1 | Python | 2026-09-23 | MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP |
-| 4 | [apolmig/fronteraeval](https://github.com/apolmig/fronteraeval) | 0 | JavaScript | 2026-09-23 |  |
-| 5 | [nitin447/insightpilot](https://github.com/nitin447/insightpilot) | 0 | Python | 2026-09-23 | Autonomous analytics agent: plans multi-step investigations, writes and validates its own SQL, and root-causes business  |
-| 6 | [yurika0211/lucky-agent](https://github.com/yurika0211/lucky-agent) | 14 | Go | 2026-09-23 | LuckyAgent — 注重长任务规划和系统记忆性的Agent框架 |
-| 7 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 0 | TypeScript | 2026-09-23 | Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that  |
-| 8 | [genaforvena/lte-workstation](https://github.com/genaforvena/lte-workstation) | 9 | Shell | 2026-09-23 | An autopoiesic kefir for computing machines |
+| 1 | [PCODE-pl/MCPTap](https://github.com/PCODE-pl/MCPTap) | 1 | Python | 2026-09-23 | MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP |
+| 2 | [genaforvena/lte-workstation](https://github.com/genaforvena/lte-workstation) | 9 | Shell | 2026-09-23 | An autopoiesic kefir for computing machines |
+| 3 | [3029-sky/qqmail-mcp-tool](https://github.com/3029-sky/qqmail-mcp-tool) | 1 | Python | 2026-09-23 | 信使鸟 · 对话式邮件管家｜用中文说一句话就把邮件发出去。把邮件能力封装成 MCP 标准工具，由本地 Ollama 模型理解意图并调用，带可粘贴图片的图形界面；处理附件校验、幂等重发、SMTP 连接复用与限流。 |
+| 4 | [urankwong/agentsgo](https://github.com/urankwong/agentsgo) | 0 | Python | 2026-09-23 | Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration — any read/write-capable AI agent (any |
+| 5 | [apolmig/fronteraeval](https://github.com/apolmig/fronteraeval) | 0 | JavaScript | 2026-09-23 |  |
+| 6 | [nitin447/insightpilot](https://github.com/nitin447/insightpilot) | 0 | Python | 2026-09-23 | Autonomous analytics agent: plans multi-step investigations, writes and validates its own SQL, and root-causes business  |
+| 7 | [yurika0211/lucky-agent](https://github.com/yurika0211/lucky-agent) | 14 | Go | 2026-09-23 | LuckyAgent — 注重长任务规划和系统记忆性的Agent框架 |
+| 8 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 0 | TypeScript | 2026-09-23 | Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that  |
 | 9 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 5 | Swift | 2026-09-23 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
 | 10 | [AskTheWay/dsh-auto-memory](https://github.com/AskTheWay/dsh-auto-memory) | 1 | TypeScript | 2026-09-23 | Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into |
 | 11 | [kashyaprajharsh/medha-agent](https://github.com/kashyaprajharsh/medha-agent) | 1 | Rust | 2026-09-23 | A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident  |
 | 12 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 128 | HTML | 2026-09-23 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
 | 13 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 130 | HTML | 2026-09-23 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
 | 14 | [feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) | 31637 | Python | 2026-09-23 | An AI agent that drives a real anti-detect browser: say what you want in plain English and it navigates, clicks, types a |
-| 15 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 7741 | Python | 2026-09-23 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 15 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 7742 | Python | 2026-09-23 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
 | 16 | [sky-valley/pi](https://github.com/sky-valley/pi) | 57 | Go | 2026-09-23 | A pure-Go port of pi (earendil-works/pi) — the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co |
 | 17 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 3 | HTML | 2026-09-23 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
 | 18 | [emqnuele/projectBEA](https://github.com/emqnuele/projectBEA) | 19 | Python | 2026-09-23 | ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses |
