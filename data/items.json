@@ -1,5 +1,59 @@
 [
   {
+    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
+    "id": "Sigmanih/SigmaStudio",
+    "language": "Python",
+    "name": "Sigmanih/SigmaStudio",
+    "stars": 8,
+    "updated_at": "2026-09-23T22:12:20Z",
+    "url": "https://github.com/Sigmanih/SigmaStudio"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-23T22:10:56Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 19,
+    "updated_at": "2026-09-23T22:14:09Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 130,
+    "updated_at": "2026-09-23T22:03:41Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "openPASO \u2014 open Platform for Agentic Simulation and Optimization. An AI agent that operates nine finite-element and mult",
+    "id": "alhermann/openPASO",
+    "language": "Python",
+    "name": "alhermann/openPASO",
+    "stars": 16,
+    "updated_at": "2026-09-23T22:02:39Z",
+    "url": "https://github.com/alhermann/openPASO"
+  },
+  {
+    "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
+    "id": "emqnuele/projectBEA",
+    "language": "Python",
+    "name": "emqnuele/projectBEA",
+    "stars": 19,
+    "updated_at": "2026-09-23T22:01:30Z",
+    "url": "https://github.com/emqnuele/projectBEA"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -22,7 +76,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7807,
+    "stars": 7813,
     "updated_at": "2026-09-23T21:50:15Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -149,7 +203,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 8,
-    "updated_at": "2026-09-23T21:48:07Z",
+    "updated_at": "2026-09-23T22:12:06Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -261,15 +315,6 @@
     "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
   },
   {
-    "description": "openPASO \u2014 open Platform for Agentic Simulation and Optimization. An AI agent that operates nine finite-element and mult",
-    "id": "alhermann/openPASO",
-    "language": "Python",
-    "name": "alhermann/openPASO",
-    "stars": 16,
-    "updated_at": "2026-09-23T21:26:45Z",
-    "url": "https://github.com/alhermann/openPASO"
-  },
-  {
     "description": "Application Security orchestration platform",
     "id": "grauwolf32/contractor",
     "language": "Go",
@@ -288,7 +333,7 @@
     "url": "https://github.com/muhzars/Agent.cpp"
   },
   {
-    "description": "An AI agent that drives a real anti-detect browser: say what you want in plain English and it navigates, clicks, types a",
+    "description": "Your AI agent browses the web without captchas: self-hosted Python MCP server on undetected anti-detect stealth Firefox,",
     "id": "feder-cr/invisible_playwright_mcp",
     "language": "Python",
     "name": "feder-cr/invisible_playwright_mcp",
@@ -387,15 +432,6 @@
     "url": "https://github.com/massimiliano1991/the-attempt"
   },
   {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 19,
-    "updated_at": "2026-09-23T21:49:29Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "An autopoiesic kefir for computing machines",
     "id": "genaforvena/lte-workstation",
     "language": "Shell",
@@ -405,15 +441,6 @@
     "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
-    "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
-    "id": "emqnuele/projectBEA",
-    "language": "Python",
-    "name": "emqnuele/projectBEA",
-    "stars": 19,
-    "updated_at": "2026-09-23T21:56:12Z",
-    "url": "https://github.com/emqnuele/projectBEA"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 24,
     "updated_at": "2026-09-23T20:38:27Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 56,
-    "updated_at": "2026-09-23T20:34:09Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "ReAct Agent memory management & evaluation platform: budgeted memory selection, SQLite long-term memory, HITL approval, ",
-    "id": "Mitty-Guang/miniagent-memory-lab",
-    "language": "Python",
-    "name": "Mitty-Guang/miniagent-memory-lab",
-    "stars": 0,
-    "updated_at": "2026-09-23T20:33:23Z",
-    "url": "https://github.com/Mitty-Guang/miniagent-memory-lab"
-  },
-  {
-    "description": "Real-time log translator, diagnostic copilot, and incident narrator powered by the Google Antigravity SDK and Gemini.",
-    "id": "AndrewMason7/LogNarrator",
-    "language": "Python",
-    "name": "AndrewMason7/LogNarrator",
-    "stars": 1,
-    "updated_at": "2026-09-23T20:22:55Z",
-    "url": "https://github.com/AndrewMason7/LogNarrator"
   }
 ]
