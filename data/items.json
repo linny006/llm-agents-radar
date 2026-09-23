@@ -1,12 +1,21 @@
 [
   {
-    "description": "LLM agent skill for ARPES analysis with PyARPES (load, EDC/MDC, k/kz, near-EF)",
-    "id": "fawkesdx/ARPESskill",
-    "language": "\u2014",
-    "name": "fawkesdx/ARPESskill",
+    "description": "ReAct Agent memory management & evaluation platform: budgeted memory selection, SQLite long-term memory, HITL approval, ",
+    "id": "Mitty-Guang/miniagent-memory-lab",
+    "language": "Python",
+    "name": "Mitty-Guang/miniagent-memory-lab",
     "stars": 0,
-    "updated_at": "2026-09-23T19:06:36Z",
-    "url": "https://github.com/fawkesdx/ARPESskill"
+    "updated_at": "2026-09-23T19:30:30Z",
+    "url": "https://github.com/Mitty-Guang/miniagent-memory-lab"
+  },
+  {
+    "description": "Multi-tier benchmark: Cultural grounding + Triad Engine eliminates LLM hallucination across Claude 4.6, GPT-5.2, Mistral",
+    "id": "Mysticbirdie/hallucination-elimination-benchmark",
+    "language": "Python",
+    "name": "Mysticbirdie/hallucination-elimination-benchmark",
+    "stars": 7,
+    "updated_at": "2026-09-23T19:19:48Z",
+    "url": "https://github.com/Mysticbirdie/hallucination-elimination-benchmark"
   },
   {
     "description": "An autopoiesic kefir for computing machines",
@@ -14,17 +23,35 @@
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 9,
-    "updated_at": "2026-09-23T19:03:25Z",
+    "updated_at": "2026-09-23T19:19:12Z",
     "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
-    "description": "ReAct Agent memory management & evaluation platform: budgeted memory selection, SQLite long-term memory, HITL approval, ",
-    "id": "Mitty-Guang/miniagent-memory-lab",
+    "description": "Hardware-procurement & asset-lifecycle SCM with an AI decision layer: should-cost, TCO/TSCMC, and an LLM copilot that ad",
+    "id": "eugnmueller-87/SCM-Master",
     "language": "Python",
-    "name": "Mitty-Guang/miniagent-memory-lab",
+    "name": "eugnmueller-87/SCM-Master",
     "stars": 0,
-    "updated_at": "2026-09-23T19:00:31Z",
-    "url": "https://github.com/Mitty-Guang/miniagent-memory-lab"
+    "updated_at": "2026-09-23T19:17:11Z",
+    "url": "https://github.com/eugnmueller-87/SCM-Master"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 19,
+    "updated_at": "2026-09-23T19:18:58Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "LLM agent skill for ARPES analysis with PyARPES (load, EDC/MDC, k/kz, near-EF)",
+    "id": "fawkesdx/ARPESskill",
+    "language": "\u2014",
+    "name": "fawkesdx/ARPESskill",
+    "stars": 0,
+    "updated_at": "2026-09-23T19:06:36Z",
+    "url": "https://github.com/fawkesdx/ARPESskill"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -59,7 +86,7 @@
     "language": "Python",
     "name": "feder-cr/invisible_playwright_mcp",
     "stars": 31643,
-    "updated_at": "2026-09-23T18:53:21Z",
+    "updated_at": "2026-09-23T19:28:23Z",
     "url": "https://github.com/feder-cr/invisible_playwright_mcp"
   },
   {
@@ -68,7 +95,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 8,
-    "updated_at": "2026-09-23T19:09:01Z",
+    "updated_at": "2026-09-23T19:28:05Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -113,7 +140,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-09-23T18:39:26Z",
+    "updated_at": "2026-09-23T19:30:23Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -142,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-09-23T18:37:15Z",
     "url": "https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 19,
-    "updated_at": "2026-09-23T19:02:11Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "Verify area values quickly with this web-based HTML calculator tool.",
@@ -239,7 +257,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4421,
-    "updated_at": "2026-09-23T19:14:55Z",
+    "updated_at": "2026-09-23T19:30:04Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-23T17:53:28Z",
     "url": "https://github.com/KiKDraS/mtg-life-counter-app"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7761,
-    "updated_at": "2026-09-23T17:52:19Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-09-23T17:51:30Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
   }
 ]
