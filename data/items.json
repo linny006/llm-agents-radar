@@ -1,12 +1,39 @@
 [
   {
+    "description": "Computer use for Devin on macOS \u2014 screenshots with coordinate grid, click/type/scroll/hotkeys, batch actions, and a visi",
+    "id": "guirguispierre/DevinDesktopCUA",
+    "language": "Swift",
+    "name": "guirguispierre/DevinDesktopCUA",
+    "stars": 0,
+    "updated_at": "2026-09-23T03:56:28Z",
+    "url": "https://github.com/guirguispierre/DevinDesktopCUA"
+  },
+  {
+    "description": "\u975e\u7ebf\u667a\u80fd NoneLinear - ReLE\u8bc4\u6d4b\uff1a\u4e2d\u6587AI\u5927\u6a21\u578b\u80fd\u529b\u8bc4\u6d4b\uff08\u6301\u7eed\u66f4\u65b0\uff09\uff1a\u76ee\u524d\u5df2\u56ca\u62ec374\u4e2a\u5927\u6a21\u578b\uff0c\u8986\u76d6chatgpt\u3001gpt-5.4\u3001\u8c37\u6b4cgemini-3.1-pro\u3001Claude-4.6\u3001\u6587\u5fc3ERNIE-X1.1\u3001ERNIE",
+    "id": "jeinlee1991/chinese-llm-benchmark",
+    "language": "\u2014",
+    "name": "jeinlee1991/chinese-llm-benchmark",
+    "stars": 6450,
+    "updated_at": "2026-09-23T03:56:08Z",
+    "url": "https://github.com/jeinlee1991/chinese-llm-benchmark"
+  },
+  {
     "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
     "id": "xieguigang/sciBASIC",
     "language": "Visual Basic .NET",
     "name": "xieguigang/sciBASIC",
     "stars": 78,
-    "updated_at": "2026-09-23T03:43:58Z",
+    "updated_at": "2026-09-23T03:55:53Z",
     "url": "https://github.com/xieguigang/sciBASIC"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 6033,
+    "updated_at": "2026-09-23T03:51:42Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
@@ -14,8 +41,26 @@
     "language": "Python",
     "name": "urankwong/agentsgo",
     "stars": 0,
-    "updated_at": "2026-09-23T03:43:47Z",
+    "updated_at": "2026-09-23T03:49:23Z",
     "url": "https://github.com/urankwong/agentsgo"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-23T03:48:03Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5787,
+    "updated_at": "2026-09-23T03:46:43Z",
+    "url": "https://github.com/areal-project/AReaL"
   },
   {
     "description": "Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi",
@@ -50,7 +95,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-09-23T03:43:49Z",
+    "updated_at": "2026-09-23T03:46:37Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-23T02:34:36Z",
     "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 717,
-    "updated_at": "2026-09-23T02:31:36Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "DSH plugin: register TypeSafe Jev (System One decision model) as an agent tool \u2014 jev_decide returns calibrated probabili",
-    "id": "nanami-0713/dsh-jev-decide",
-    "language": "JavaScript",
-    "name": "nanami-0713/dsh-jev-decide",
-    "stars": 2,
-    "updated_at": "2026-09-23T02:29:59Z",
-    "url": "https://github.com/nanami-0713/dsh-jev-decide"
-  },
-  {
-    "description": "Build an AI Coding Agent from Scratch, Step by Step | \u4ece\u96f6\u4e00\u6b65\u6b65\u642d\u5efa AI \u7f16\u7a0b Agent\uff0c\u8fb9\u5b9e\u73b0\u8fb9\u7406\u89e3 Agent \u7684\u5de5\u4f5c\u539f\u7406",
-    "id": "liiiiiiiiil/agent-from-scratch",
-    "language": "Python",
-    "name": "liiiiiiiiil/agent-from-scratch",
-    "stars": 87,
-    "updated_at": "2026-09-23T02:27:51Z",
-    "url": "https://github.com/liiiiiiiiil/agent-from-scratch"
-  },
-  {
-    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
-    "id": "diaban/jobsmith",
-    "language": "Python",
-    "name": "diaban/jobsmith",
-    "stars": 0,
-    "updated_at": "2026-09-23T02:14:48Z",
-    "url": "https://github.com/diaban/jobsmith"
-  },
-  {
-    "description": "MiniCPM5-2B shopping agent, end-to-end: collection \u2192 filtering \u2192 curriculum SFT \u2192 GRPO/RLOO (veRL) \u2192 deterministic Final",
-    "id": "junyi-lai/shopping-agent-rl",
-    "language": "Python",
-    "name": "junyi-lai/shopping-agent-rl",
-    "stars": 0,
-    "updated_at": "2026-09-23T02:14:43Z",
-    "url": "https://github.com/junyi-lai/shopping-agent-rl"
   }
 ]
