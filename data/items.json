@@ -1,11 +1,137 @@
 [
   {
+    "description": "A personal assistant with a phone number: SQLite-backed todos, memories, and reflections, searchable through Algolia and",
+    "id": "NatanTechofNY/fieldnote-assistant",
+    "language": "TypeScript",
+    "name": "NatanTechofNY/fieldnote-assistant",
+    "stars": 1,
+    "updated_at": "2026-09-23T02:59:10Z",
+    "url": "https://github.com/NatanTechofNY/fieldnote-assistant"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-09-23T02:56:21Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-09-23T02:56:21Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "Meowire \u2014 bionic agent harness base for Go. Pure wiring, zero default implementations: Think\u2192Act decision loop, iter.Seq",
+    "id": "qyiun666/meowire",
+    "language": "Go",
+    "name": "qyiun666/meowire",
+    "stars": 0,
+    "updated_at": "2026-09-23T02:53:00Z",
+    "url": "https://github.com/qyiun666/meowire"
+  },
+  {
+    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
+    "id": "urankwong/agentsgo",
+    "language": "Python",
+    "name": "urankwong/agentsgo",
+    "stars": 0,
+    "updated_at": "2026-09-23T02:52:02Z",
+    "url": "https://github.com/urankwong/agentsgo"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-09-23T02:51:48Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-09-23T02:56:32Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
+    "id": "xieguigang/sciBASIC",
+    "language": "Visual Basic .NET",
+    "name": "xieguigang/sciBASIC",
+    "stars": 78,
+    "updated_at": "2026-09-23T02:50:55Z",
+    "url": "https://github.com/xieguigang/sciBASIC"
+  },
+  {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-23T02:50:18Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "LLM agent for local code repository analysis: LangChain tool calling + FAISS RAG + structured output + evals (OpenAI-com",
+    "id": "unravel1020/codebase-agent",
+    "language": "Python",
+    "name": "unravel1020/codebase-agent",
+    "stars": 1,
+    "updated_at": "2026-09-23T02:50:02Z",
+    "url": "https://github.com/unravel1020/codebase-agent"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 24,
+    "updated_at": "2026-09-23T02:48:09Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\u5728 WPS Office \u7684\u4efb\u52a1\u7a97\u683c\u91cc\u96c6\u6210 AI \u5bf9\u8bdd\u4e0e\u6587\u6863\u64cd\u4f5c\uff1a\u590d\u7528 Claudian \u7684\u754c\u9762\u6e32\u67d3\u5c42\uff08\u4e0d\u6539\u5176\u6e90\u7801\uff09+ \u590d\u7528 Claude Code \u7684 agent \u5faa\u73af\u3002\u652f\u6301\u6309\u6587\u6863\u7c7b\u578b\u6309\u9700\u52a0\u8f7d\u5de5\u5177\u96c6\u3002",
+    "id": "wangyi20230330/wps-ai-assistant",
+    "language": "JavaScript",
+    "name": "wangyi20230330/wps-ai-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-23T02:48:05Z",
+    "url": "https://github.com/wangyi20230330/wps-ai-assistant"
+  },
+  {
+    "description": "All-in-one agent harness for OpenAI Codex CLI \u2014 Boss meta-orchestrator, 17 curated agents (+17 opt-in AI specialists), 1",
+    "id": "sehoon787/my-codex",
+    "language": "Shell",
+    "name": "sehoon787/my-codex",
+    "stars": 29,
+    "updated_at": "2026-09-23T02:47:38Z",
+    "url": "https://github.com/sehoon787/my-codex"
+  },
+  {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 7,
+    "updated_at": "2026-09-23T02:45:34Z",
+    "url": "https://github.com/alex8224/synapse-agent"
+  },
+  {
     "description": "One agent SDK, hand-ported to 7 languages \u2014 JavaScript, Python, Go, Java, C#, Elixir, Clojure \u2014 every port held to the s",
     "id": "muthuishere/toolnexus",
     "language": "MDX",
     "name": "muthuishere/toolnexus",
     "stars": 5,
-    "updated_at": "2026-09-23T02:45:17Z",
+    "updated_at": "2026-09-23T02:47:02Z",
     "url": "https://github.com/muthuishere/toolnexus"
   },
   {
@@ -18,15 +144,6 @@
     "url": "https://github.com/sehoon787/my-claude"
   },
   {
-    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
-    "id": "urankwong/agentsgo",
-    "language": "Python",
-    "name": "urankwong/agentsgo",
-    "stars": 0,
-    "updated_at": "2026-09-23T02:38:45Z",
-    "url": "https://github.com/urankwong/agentsgo"
-  },
-  {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
     "id": "JSL107/personal_agents",
     "language": "TypeScript",
@@ -36,20 +153,11 @@
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
-    "description": "All-in-one agent harness for OpenAI Codex CLI \u2014 Boss meta-orchestrator, 17 curated agents (+17 opt-in AI specialists), 1",
-    "id": "sehoon787/my-codex",
-    "language": "Shell",
-    "name": "sehoon787/my-codex",
-    "stars": 29,
-    "updated_at": "2026-09-23T02:39:16Z",
-    "url": "https://github.com/sehoon787/my-codex"
-  },
-  {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 716,
+    "stars": 717,
     "updated_at": "2026-09-23T02:31:36Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -61,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-09-23T02:29:59Z",
     "url": "https://github.com/nanami-0713/dsh-jev-decide"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-09-23T02:38:01Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "Build an AI Coding Agent from Scratch, Step by Step | \u4ece\u96f6\u4e00\u6b65\u6b65\u642d\u5efa AI \u7f16\u7a0b Agent\uff0c\u8fb9\u5b9e\u73b0\u8fb9\u7406\u89e3 Agent \u7684\u5de5\u4f5c\u539f\u7406",
@@ -88,24 +187,6 @@
     "stars": 1,
     "updated_at": "2026-09-23T02:27:13Z",
     "url": "https://github.com/love-jr/chartgen-agent"
-  },
-  {
-    "description": "\u5728 WPS Office \u7684\u4efb\u52a1\u7a97\u683c\u91cc\u96c6\u6210 AI \u5bf9\u8bdd\u4e0e\u6587\u6863\u64cd\u4f5c\uff1a\u590d\u7528 Claudian \u7684\u754c\u9762\u6e32\u67d3\u5c42\uff08\u4e0d\u6539\u5176\u6e90\u7801\uff09+ \u590d\u7528 Claude Code \u7684 agent \u5faa\u73af\u3002\u652f\u6301\u6309\u6587\u6863\u7c7b\u578b\u6309\u9700\u52a0\u8f7d\u5de5\u5177\u96c6\u3002",
-    "id": "wangyi20230330/wps-ai-assistant",
-    "language": "JavaScript",
-    "name": "wangyi20230330/wps-ai-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-23T02:25:01Z",
-    "url": "https://github.com/wangyi20230330/wps-ai-assistant"
-  },
-  {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-23T02:17:26Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
@@ -133,24 +214,6 @@
     "stars": 0,
     "updated_at": "2026-09-23T02:09:57Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-09-23T02:27:54Z",
-    "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-23T02:01:37Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
@@ -378,15 +441,6 @@
     "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
   },
   {
-    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
-    "id": "xieguigang/sciBASIC",
-    "language": "Visual Basic .NET",
-    "name": "xieguigang/sciBASIC",
-    "stars": 78,
-    "updated_at": "2026-09-23T01:25:45Z",
-    "url": "https://github.com/xieguigang/sciBASIC"
-  },
-  {
     "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
     "id": "mohahasan/ios-agentic-skills",
     "language": "JavaScript",
@@ -394,59 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-23T01:22:58Z",
     "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
-    "id": "Danisxxx/comfyUI-LongLook",
-    "language": "Python",
-    "name": "Danisxxx/comfyUI-LongLook",
-    "stars": 2,
-    "updated_at": "2026-09-23T01:18:10Z",
-    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
-  },
-  {
-    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
-    "id": "axxafo/awesome-agent-benchmarks",
-    "language": "\u2014",
-    "name": "axxafo/awesome-agent-benchmarks",
-    "stars": 4,
-    "updated_at": "2026-09-23T01:17:15Z",
-    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-09-23T01:12:22Z",
-    "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "Generate rich YuE2 audio in ComfyUI with six modular nodes\u2014hum-to-song, LoRA and adapter support\u2014no stock nodes needed.",
-    "id": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
-    "language": "Python",
-    "name": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
-    "stars": 0,
-    "updated_at": "2026-09-23T01:11:53Z",
-    "url": "https://github.com/Deborahwalkerz661/ComfyUI-FS_Audio_Suite"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-09-23T01:10:17Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-09-23T01:09:07Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   }
 ]
