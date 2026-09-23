@@ -1,5 +1,95 @@
 [
   {
+    "description": "\u4fe1\u4f7f\u9e1f \u00b7 \u5bf9\u8bdd\u5f0f\u90ae\u4ef6\u7ba1\u5bb6\uff5c\u7528\u4e2d\u6587\u8bf4\u4e00\u53e5\u8bdd\u5c31\u628a\u90ae\u4ef6\u53d1\u51fa\u53bb\u3002\u628a\u90ae\u4ef6\u80fd\u529b\u5c01\u88c5\u6210 MCP \u6807\u51c6\u5de5\u5177\uff0c\u7531\u672c\u5730 Ollama \u6a21\u578b\u7406\u89e3\u610f\u56fe\u5e76\u8c03\u7528\uff0c\u5e26\u53ef\u7c98\u8d34\u56fe\u7247\u7684\u56fe\u5f62\u754c\u9762\uff1b\u5904\u7406\u9644\u4ef6\u6821\u9a8c\u3001\u5e42\u7b49\u91cd\u53d1\u3001SMTP \u8fde\u63a5\u590d\u7528\u4e0e\u9650\u6d41\u3002",
+    "id": "3029-sky/qqmail-mcp-tool",
+    "language": "Python",
+    "name": "3029-sky/qqmail-mcp-tool",
+    "stars": 1,
+    "updated_at": "2026-09-23T17:13:42Z",
+    "url": "https://github.com/3029-sky/qqmail-mcp-tool"
+  },
+  {
+    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
+    "id": "urankwong/agentsgo",
+    "language": "Python",
+    "name": "urankwong/agentsgo",
+    "stars": 0,
+    "updated_at": "2026-09-23T17:13:25Z",
+    "url": "https://github.com/urankwong/agentsgo"
+  },
+  {
+    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
+    "id": "PCODE-pl/MCPTap",
+    "language": "Python",
+    "name": "PCODE-pl/MCPTap",
+    "stars": 1,
+    "updated_at": "2026-09-23T17:11:40Z",
+    "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
+    "description": "",
+    "id": "apolmig/fronteraeval",
+    "language": "JavaScript",
+    "name": "apolmig/fronteraeval",
+    "stars": 0,
+    "updated_at": "2026-09-23T17:10:59Z",
+    "url": "https://github.com/apolmig/fronteraeval"
+  },
+  {
+    "description": "Autonomous analytics agent: plans multi-step investigations, writes and validates its own SQL, and root-causes business ",
+    "id": "nitin447/insightpilot",
+    "language": "Python",
+    "name": "nitin447/insightpilot",
+    "stars": 0,
+    "updated_at": "2026-09-23T17:10:32Z",
+    "url": "https://github.com/nitin447/insightpilot"
+  },
+  {
+    "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
+    "id": "yurika0211/lucky-agent",
+    "language": "Go",
+    "name": "yurika0211/lucky-agent",
+    "stars": 14,
+    "updated_at": "2026-09-23T17:09:04Z",
+    "url": "https://github.com/yurika0211/lucky-agent"
+  },
+  {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-23T17:04:18Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-23T17:03:08Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 5,
+    "updated_at": "2026-09-23T17:03:05Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into",
+    "id": "AskTheWay/dsh-auto-memory",
+    "language": "TypeScript",
+    "name": "AskTheWay/dsh-auto-memory",
+    "stars": 1,
+    "updated_at": "2026-09-23T17:01:28Z",
+    "url": "https://github.com/AskTheWay/dsh-auto-memory"
+  },
+  {
     "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
     "id": "kashyaprajharsh/medha-agent",
     "language": "Rust",
@@ -27,22 +117,22 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7735,
-    "updated_at": "2026-09-23T16:43:12Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "An AI agent that drives a real anti-detect browser: say what you want in plain English and it navigates, clicks, types a",
     "id": "feder-cr/invisible_playwright_mcp",
     "language": "Python",
     "name": "feder-cr/invisible_playwright_mcp",
-    "stars": 31636,
+    "stars": 31637,
     "updated_at": "2026-09-23T16:43:23Z",
     "url": "https://github.com/feder-cr/invisible_playwright_mcp"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7741,
+    "updated_at": "2026-09-23T16:43:12Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
@@ -52,15 +142,6 @@
     "stars": 57,
     "updated_at": "2026-09-23T16:40:12Z",
     "url": "https://github.com/sky-valley/pi"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 9,
-    "updated_at": "2026-09-23T16:39:50Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -108,21 +189,12 @@
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
-    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
-    "id": "urankwong/agentsgo",
-    "language": "Python",
-    "name": "urankwong/agentsgo",
-    "stars": 0,
-    "updated_at": "2026-09-23T16:27:41Z",
-    "url": "https://github.com/urankwong/agentsgo"
-  },
-  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 19,
-    "updated_at": "2026-09-23T16:58:46Z",
+    "updated_at": "2026-09-23T17:14:41Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -133,15 +205,6 @@
     "stars": 4,
     "updated_at": "2026-09-23T16:44:32Z",
     "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-09-23T16:16:59Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
   },
   {
     "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
@@ -178,15 +241,6 @@
     "stars": 7,
     "updated_at": "2026-09-23T16:05:49Z",
     "url": "https://github.com/edjafarov/kiagent-core"
-  },
-  {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-23T16:00:09Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
@@ -286,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-09-23T15:48:08Z",
     "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
-    "id": "yurika0211/lucky-agent",
-    "language": "Go",
-    "name": "yurika0211/lucky-agent",
-    "stars": 14,
-    "updated_at": "2026-09-23T15:48:43Z",
-    "url": "https://github.com/yurika0211/lucky-agent"
   },
   {
     "description": "\u300a\u8be1\u79d8\u4e16\u754c\u300b\u00b7 World of Mysteries \u2014 \u672c\u5730\u4f18\u5148\u7684\u5355\u4eba\u6301\u4e45\u4e16\u754c\u6f14\u7ece\u5e94\u7528\uff1aSwiftUI macOS 26+ \u5ba2\u6237\u7aef + \u72ec\u7acb Local Engine\uff08Python 3.14 + AgentScope 2.0.8\uff09+ SQ",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-23T15:26:07Z",
     "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
-  },
-  {
-    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
-    "id": "amineeng/scraping-browser",
-    "language": "\u2014",
-    "name": "amineeng/scraping-browser",
-    "stars": 1,
-    "updated_at": "2026-09-23T15:24:28Z",
-    "url": "https://github.com/amineeng/scraping-browser"
-  },
-  {
-    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
-    "id": "Saran1536/ComfyUI-LoaderUtils",
-    "language": "Python",
-    "name": "Saran1536/ComfyUI-LoaderUtils",
-    "stars": 0,
-    "updated_at": "2026-09-23T15:21:42Z",
-    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 0,
-    "updated_at": "2026-09-23T15:20:15Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-09-23T15:13:52Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 3,
-    "updated_at": "2026-09-23T15:10:53Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
   }
 ]
