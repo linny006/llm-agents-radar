@@ -1,12 +1,66 @@
 [
   {
-    "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
-    "id": "410979729/scope-recall-hermes",
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-23T19:00:08Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "LLM agent skill for ARPES analysis with PyARPES (load, EDC/MDC, k/kz, near-EF)",
+    "id": "fawkesdx/ARPESskill",
+    "language": "\u2014",
+    "name": "fawkesdx/ARPESskill",
+    "stars": 0,
+    "updated_at": "2026-09-23T18:56:05Z",
+    "url": "https://github.com/fawkesdx/ARPESskill"
+  },
+  {
+    "description": "DevOps & Cloud AI Assistant that runs locally with Ollama for complete privacy.",
+    "id": "tara-vision/taracode",
+    "language": "Go",
+    "name": "tara-vision/taracode",
+    "stars": 51,
+    "updated_at": "2026-09-23T18:55:42Z",
+    "url": "https://github.com/tara-vision/taracode"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-09-23T18:53:49Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "An AI agent that drives a real anti-detect browser: say what you want in plain English and it navigates, clicks, types a",
+    "id": "feder-cr/invisible_playwright_mcp",
     "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 274,
-    "updated_at": "2026-09-23T18:43:11Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
+    "name": "feder-cr/invisible_playwright_mcp",
+    "stars": 31642,
+    "updated_at": "2026-09-23T18:53:21Z",
+    "url": "https://github.com/feder-cr/invisible_playwright_mcp"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 8,
+    "updated_at": "2026-09-23T18:57:39Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 130,
+    "updated_at": "2026-09-23T18:50:29Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
@@ -14,8 +68,35 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 717,
-    "updated_at": "2026-09-23T18:45:13Z",
+    "updated_at": "2026-09-23T18:50:23Z",
     "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "Desktop GUI Headless Local-first AI coding agent in Rust (axum, tokio, rmcp, portable-pty) behind HTTP + SSE, with an An",
+    "id": "henrykbrzoska/bebok",
+    "language": "Rust",
+    "name": "henrykbrzoska/bebok",
+    "stars": 5,
+    "updated_at": "2026-09-23T18:48:28Z",
+    "url": "https://github.com/henrykbrzoska/bebok"
+  },
+  {
+    "description": "ReAct Agent memory management & evaluation platform: budgeted memory selection, SQLite long-term memory, HITL approval, ",
+    "id": "Mitty-Guang/miniagent-memory-lab",
+    "language": "Python",
+    "name": "Mitty-Guang/miniagent-memory-lab",
+    "stars": 0,
+    "updated_at": "2026-09-23T18:48:17Z",
+    "url": "https://github.com/Mitty-Guang/miniagent-memory-lab"
+  },
+  {
+    "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 274,
+    "updated_at": "2026-09-23T18:43:11Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -59,7 +140,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 19,
-    "updated_at": "2026-09-23T18:40:30Z",
+    "updated_at": "2026-09-23T18:57:29Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -79,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-09-23T18:35:39Z",
     "url": "https://github.com/Blondieredistributed612/pocket-agent"
-  },
-  {
-    "description": "LLM agent skill for ARPES analysis with PyARPES (load, EDC/MDC, k/kz, near-EF)",
-    "id": "fawkesdx/ARPESskill",
-    "language": "\u2014",
-    "name": "fawkesdx/ARPESskill",
-    "stars": 0,
-    "updated_at": "2026-09-23T18:32:29Z",
-    "url": "https://github.com/fawkesdx/ARPESskill"
   },
   {
     "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
@@ -158,7 +230,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4421,
-    "updated_at": "2026-09-23T18:22:21Z",
+    "updated_at": "2026-09-23T18:49:34Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -180,24 +252,6 @@
     "url": "https://github.com/strobilevitellus470/argus-ai"
   },
   {
-    "description": "ReAct Agent memory management & evaluation platform: budgeted memory selection, SQLite long-term memory, HITL approval, ",
-    "id": "Mitty-Guang/miniagent-memory-lab",
-    "language": "Python",
-    "name": "Mitty-Guang/miniagent-memory-lab",
-    "stars": 0,
-    "updated_at": "2026-09-23T18:15:29Z",
-    "url": "https://github.com/Mitty-Guang/miniagent-memory-lab"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 8,
-    "updated_at": "2026-09-23T18:14:22Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
     "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
     "id": "juandavidru4641/dsplab",
     "language": "JavaScript",
@@ -205,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-09-23T18:13:48Z",
     "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "DevOps & Cloud AI Assistant that runs locally with Ollama for complete privacy.",
-    "id": "tara-vision/taracode",
-    "language": "Go",
-    "name": "tara-vision/taracode",
-    "stars": 51,
-    "updated_at": "2026-09-23T18:14:11Z",
-    "url": "https://github.com/tara-vision/taracode"
   },
   {
     "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
@@ -382,7 +427,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7756,
+    "stars": 7759,
     "updated_at": "2026-09-23T17:52:19Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-23T17:49:39Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 3,
-    "updated_at": "2026-09-23T17:48:53Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 56,
-    "updated_at": "2026-09-23T17:52:00Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Autonomous analytics agent: plans multi-step investigations, writes and validates its own SQL, and root-causes business ",
-    "id": "nitin447/insightpilot",
-    "language": "Python",
-    "name": "nitin447/insightpilot",
-    "stars": 0,
-    "updated_at": "2026-09-23T17:46:27Z",
-    "url": "https://github.com/nitin447/insightpilot"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-09-23T17:46:03Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 9,
-    "updated_at": "2026-09-23T17:29:30Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   }
 ]
