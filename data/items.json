@@ -1,5 +1,77 @@
 [
   {
+    "description": "\u5728 WPS Office \u7684\u4efb\u52a1\u7a97\u683c\u91cc\u96c6\u6210 AI \u5bf9\u8bdd\u4e0e\u6587\u6863\u64cd\u4f5c\uff1a\u590d\u7528 Claudian \u7684\u754c\u9762\u6e32\u67d3\u5c42\uff08\u4e0d\u6539\u5176\u6e90\u7801\uff09+ \u590d\u7528 Claude Code \u7684 agent \u5faa\u73af\u3002\u652f\u6301\u6309\u6587\u6863\u7c7b\u578b\u6309\u9700\u52a0\u8f7d\u5de5\u5177\u96c6\u3002",
+    "id": "wangyi20230330/wps-ai-assistant",
+    "language": "JavaScript",
+    "name": "wangyi20230330/wps-ai-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-23T09:54:55Z",
+    "url": "https://github.com/wangyi20230330/wps-ai-assistant"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-23T09:53:52Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
+    "id": "yurika0211/lucky-agent",
+    "language": "Go",
+    "name": "yurika0211/lucky-agent",
+    "stars": 14,
+    "updated_at": "2026-09-23T09:53:41Z",
+    "url": "https://github.com/yurika0211/lucky-agent"
+  },
+  {
+    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
+    "id": "urankwong/agentsgo",
+    "language": "Python",
+    "name": "urankwong/agentsgo",
+    "stars": 0,
+    "updated_at": "2026-09-23T09:49:46Z",
+    "url": "https://github.com/urankwong/agentsgo"
+  },
+  {
+    "description": "An observability-driven text-only core for coordinating ephemeral LLM agents",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 1,
+    "updated_at": "2026-09-23T09:49:45Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5790,
+    "updated_at": "2026-09-23T09:46:46Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
+    "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
+    "id": "chunleik/self-analyst",
+    "language": "Java",
+    "name": "chunleik/self-analyst",
+    "stars": 0,
+    "updated_at": "2026-09-23T09:45:40Z",
+    "url": "https://github.com/chunleik/self-analyst"
+  },
+  {
+    "description": "Tauri desktop shell for the local-first Bodhi agent: manages Bamboo startup/reuse and health; packaged builds open the B",
+    "id": "bigduu/Bodhi-AI",
+    "language": "JavaScript",
+    "name": "bigduu/Bodhi-AI",
+    "stars": 17,
+    "updated_at": "2026-09-23T09:45:21Z",
+    "url": "https://github.com/bigduu/Bodhi-AI"
+  },
+  {
     "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
     "id": "rugose-learnedprofession58/pi-dsh",
     "language": "TypeScript",
@@ -32,7 +104,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3434,
-    "updated_at": "2026-09-23T09:43:46Z",
+    "updated_at": "2026-09-23T09:51:57Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -54,15 +126,6 @@
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
-    "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
-    "id": "chunleik/self-analyst",
-    "language": "Java",
-    "name": "chunleik/self-analyst",
-    "stars": 0,
-    "updated_at": "2026-09-23T09:42:50Z",
-    "url": "https://github.com/chunleik/self-analyst"
-  },
-  {
     "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
     "id": "410979729/scope-recall-hermes",
     "language": "Python",
@@ -79,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-09-23T09:38:29Z",
     "url": "https://github.com/bettersilvanus849/inner-coordinates"
-  },
-  {
-    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
-    "id": "urankwong/agentsgo",
-    "language": "Python",
-    "name": "urankwong/agentsgo",
-    "stars": 0,
-    "updated_at": "2026-09-23T09:37:53Z",
-    "url": "https://github.com/urankwong/agentsgo"
   },
   {
     "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
@@ -333,15 +387,6 @@
     "url": "https://github.com/piporyx/doc-qa-agent"
   },
   {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5790,
-    "updated_at": "2026-09-23T09:06:53Z",
-    "url": "https://github.com/areal-project/AReaL"
-  },
-  {
     "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
     "id": "Amri854/obsidian-mcp-server",
     "language": "TypeScript",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-23T09:00:43Z",
     "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 32219,
-    "updated_at": "2026-09-23T08:57:58Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "Mini agent: LLM -> JSON action -> tools -> feedback loop, configured from YAML (Agentic AI course)",
-    "id": "NithichoteC/mini-agent",
-    "language": "Python",
-    "name": "NithichoteC/mini-agent",
-    "stars": 0,
-    "updated_at": "2026-09-23T08:55:28Z",
-    "url": "https://github.com/NithichoteC/mini-agent"
-  },
-  {
-    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
-    "id": "xieguigang/sciBASIC",
-    "language": "Visual Basic .NET",
-    "name": "xieguigang/sciBASIC",
-    "stars": 78,
-    "updated_at": "2026-09-23T08:43:04Z",
-    "url": "https://github.com/xieguigang/sciBASIC"
-  },
-  {
-    "description": "Autonomous analytics agent: plans multi-step investigations, writes and validates its own SQL, and root-causes business ",
-    "id": "nitin447/insightpilot",
-    "language": "Python",
-    "name": "nitin447/insightpilot",
-    "stars": 0,
-    "updated_at": "2026-09-23T08:39:26Z",
-    "url": "https://github.com/nitin447/insightpilot"
-  },
-  {
-    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
-    "id": "haibingzhao/easyai",
-    "language": "Kotlin",
-    "name": "haibingzhao/easyai",
-    "stars": 1,
-    "updated_at": "2026-09-23T08:38:10Z",
-    "url": "https://github.com/haibingzhao/easyai"
   }
 ]
