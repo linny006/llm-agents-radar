@@ -1,12 +1,192 @@
 [
   {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 809,
+    "updated_at": "2026-09-23T21:45:02Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
+    "id": "bettersilvanus849/inner-coordinates",
+    "language": "Shell",
+    "name": "bettersilvanus849/inner-coordinates",
+    "stars": 1,
+    "updated_at": "2026-09-23T21:43:59Z",
+    "url": "https://github.com/bettersilvanus849/inner-coordinates"
+  },
+  {
+    "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
+    "id": "Blaz742/web-pentest-lab",
+    "language": "\u2014",
+    "name": "Blaz742/web-pentest-lab",
+    "stars": 0,
+    "updated_at": "2026-09-23T21:43:08Z",
+    "url": "https://github.com/Blaz742/web-pentest-lab"
+  },
+  {
+    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
+    "id": "Elevated-homer201/prompt-gate",
+    "language": "\u2014",
+    "name": "Elevated-homer201/prompt-gate",
+    "stars": 1,
+    "updated_at": "2026-09-23T21:42:50Z",
+    "url": "https://github.com/Elevated-homer201/prompt-gate"
+  },
+  {
+    "description": "Lawgent \u2014 an open-source legal AI agent. Grounded, multi-jurisdiction (CN \u00b7 US \u00b7 EU \u00b7 ET \u00b7 ICAO), citation-verified: eve",
+    "id": "WenzhuoXu/lawgent",
+    "language": "Python",
+    "name": "WenzhuoXu/lawgent",
+    "stars": 10,
+    "updated_at": "2026-09-23T21:41:45Z",
+    "url": "https://github.com/WenzhuoXu/lawgent"
+  },
+  {
+    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
+    "id": "Indrasclerotinia71/local-ai-research-assistant",
+    "language": "Python",
+    "name": "Indrasclerotinia71/local-ai-research-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-23T21:41:40Z",
+    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
+  },
+  {
+    "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
+    "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
+    "language": "Python",
+    "name": "Furrowed-subphylumurochorda108/kimi-K2.6",
+    "stars": 3,
+    "updated_at": "2026-09-23T21:40:28Z",
+    "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
+  },
+  {
+    "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
+    "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
+    "language": "\u2014",
+    "name": "mpardakaskon-boop/obsidian-llm-wiki-local",
+    "stars": 1,
+    "updated_at": "2026-09-23T21:39:56Z",
+    "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u7684 AI \u957f\u671f\u8bb0\u5fc6\u670d\u52a1\uff1a\u4f1a\u9057\u5fd8\u3001\u4f1a\u8054\u60f3\u3001\u4f1a\u5de9\u56fa\u3002MCP + REST + Web UI\uff0c\u4e00\u6761\u547d\u4ee4\u88c5\u597d\uff1b\u4e0d\u7528 DSH \u4e5f\u80fd\u72ec\u7acb\u4f7f\u7528\u3002",
+    "id": "Mlte0907/pangu",
+    "language": "Python",
+    "name": "Mlte0907/pangu",
+    "stars": 1,
+    "updated_at": "2026-09-23T21:39:14Z",
+    "url": "https://github.com/Mlte0907/pangu"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 8,
+    "updated_at": "2026-09-23T21:38:54Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Ask your data in plain English: a tool-calling agent writes guarded, read-only SQL over the sample warehouse or your own",
+    "id": "0yman/ask-your-data",
+    "language": "Python",
+    "name": "0yman/ask-your-data",
+    "stars": 0,
+    "updated_at": "2026-09-23T21:37:19Z",
+    "url": "https://github.com/0yman/ask-your-data"
+  },
+  {
+    "description": "PWA for Magic: The Gathering \u2014 life tracking at dice speed for 2\u20136 players, plus an AI rules judge grounded in the Compr",
+    "id": "KiKDraS/mtg-life-counter-app",
+    "language": "TypeScript",
+    "name": "KiKDraS/mtg-life-counter-app",
+    "stars": 0,
+    "updated_at": "2026-09-23T21:36:46Z",
+    "url": "https://github.com/KiKDraS/mtg-life-counter-app"
+  },
+  {
+    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
+    "id": "HELLOCODINGTR/AgentForge",
+    "language": "\u2014",
+    "name": "HELLOCODINGTR/AgentForge",
+    "stars": 1,
+    "updated_at": "2026-09-23T21:36:11Z",
+    "url": "https://github.com/HELLOCODINGTR/AgentForge"
+  },
+  {
     "description": "LLM agent skill for ARPES analysis with PyARPES (load, EDC/MDC, k/kz, near-EF)",
     "id": "fawkesdx/ARPESskill",
     "language": "\u2014",
     "name": "fawkesdx/ARPESskill",
     "stars": 0,
-    "updated_at": "2026-09-23T21:29:28Z",
+    "updated_at": "2026-09-23T21:39:13Z",
     "url": "https://github.com/fawkesdx/ARPESskill"
+  },
+  {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-23T21:35:37Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
+    "id": "strobilevitellus470/argus-ai",
+    "language": "Python",
+    "name": "strobilevitellus470/argus-ai",
+    "stars": 1,
+    "updated_at": "2026-09-23T21:35:24Z",
+    "url": "https://github.com/strobilevitellus470/argus-ai"
+  },
+  {
+    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
+    "id": "juandavidru4641/dsplab",
+    "language": "JavaScript",
+    "name": "juandavidru4641/dsplab",
+    "stars": 0,
+    "updated_at": "2026-09-23T21:33:05Z",
+    "url": "https://github.com/juandavidru4641/dsplab"
+  },
+  {
+    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
+    "id": "laoxs2002/genai-agentes",
+    "language": "Jupyter Notebook",
+    "name": "laoxs2002/genai-agentes",
+    "stars": 0,
+    "updated_at": "2026-09-23T21:32:33Z",
+    "url": "https://github.com/laoxs2002/genai-agentes"
+  },
+  {
+    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
+    "id": "heba-ramdan/harness",
+    "language": "TypeScript",
+    "name": "heba-ramdan/harness",
+    "stars": 1,
+    "updated_at": "2026-09-23T21:30:55Z",
+    "url": "https://github.com/heba-ramdan/harness"
+  },
+  {
+    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
+    "id": "Ronit0p/AutoGod",
+    "language": "Java",
+    "name": "Ronit0p/AutoGod",
+    "stars": 0,
+    "updated_at": "2026-09-23T21:30:23Z",
+    "url": "https://github.com/Ronit0p/AutoGod"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7803,
+    "updated_at": "2026-09-23T21:30:16Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
@@ -106,33 +286,6 @@
     "stars": 0,
     "updated_at": "2026-09-23T21:14:21Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Ask your data in plain English: a tool-calling agent writes guarded, read-only SQL over the sample warehouse or your own",
-    "id": "0yman/ask-your-data",
-    "language": "Python",
-    "name": "0yman/ask-your-data",
-    "stars": 0,
-    "updated_at": "2026-09-23T21:14:17Z",
-    "url": "https://github.com/0yman/ask-your-data"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 8,
-    "updated_at": "2026-09-23T21:24:50Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 809,
-    "updated_at": "2026-09-23T21:26:36Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -295,158 +448,5 @@
     "stars": 14,
     "updated_at": "2026-09-23T19:39:40Z",
     "url": "https://github.com/yurika0211/lucky-agent"
-  },
-  {
-    "description": "Multi-tier benchmark: Cultural grounding + Triad Engine eliminates LLM hallucination across Claude 4.6, GPT-5.2, Mistral",
-    "id": "Mysticbirdie/hallucination-elimination-benchmark",
-    "language": "Python",
-    "name": "Mysticbirdie/hallucination-elimination-benchmark",
-    "stars": 7,
-    "updated_at": "2026-09-23T19:19:48Z",
-    "url": "https://github.com/Mysticbirdie/hallucination-elimination-benchmark"
-  },
-  {
-    "description": "Hardware-procurement & asset-lifecycle SCM with an AI decision layer: should-cost, TCO/TSCMC, and an LLM copilot that ad",
-    "id": "eugnmueller-87/SCM-Master",
-    "language": "Python",
-    "name": "eugnmueller-87/SCM-Master",
-    "stars": 0,
-    "updated_at": "2026-09-23T19:17:11Z",
-    "url": "https://github.com/eugnmueller-87/SCM-Master"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-09-23T19:00:08Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "DevOps & Cloud AI Assistant that runs locally with Ollama for complete privacy.",
-    "id": "tara-vision/taracode",
-    "language": "Go",
-    "name": "tara-vision/taracode",
-    "stars": 51,
-    "updated_at": "2026-09-23T18:55:42Z",
-    "url": "https://github.com/tara-vision/taracode"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-09-23T18:53:49Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 130,
-    "updated_at": "2026-09-23T18:50:29Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 717,
-    "updated_at": "2026-09-23T18:50:23Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "Desktop GUI Headless Local-first AI coding agent in Rust (axum, tokio, rmcp, portable-pty) behind HTTP + SSE, with an An",
-    "id": "henrykbrzoska/bebok",
-    "language": "Rust",
-    "name": "henrykbrzoska/bebok",
-    "stars": 5,
-    "updated_at": "2026-09-23T18:48:28Z",
-    "url": "https://github.com/henrykbrzoska/bebok"
-  },
-  {
-    "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 274,
-    "updated_at": "2026-09-23T18:43:11Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-09-23T19:30:23Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2a\u4eba A \u80a1\u7814\u7a76\u51b3\u7b56\u5de5\u4f5c\u53f0 \u00b7 \u6848\u5377\u5f0f\u7814\u7a76\u95ed\u73af\uff1a\u8fdb\u53e3\u5224\u65ad\u2192\u8bc1\u4f2a\u2192\u590d\u76d8\u2192\u8bb0\u5fc6\u3002\u4eba\u505a\u51b3\u7b56\uff0cAI \u505a\u5e7f\u5ea6/\u8bc1\u4f2a/\u98ce\u9669\u3002A local-first personal A-share research OS.",
-    "id": "Zeeechenn/MingCang",
-    "language": "Python",
-    "name": "Zeeechenn/MingCang",
-    "stars": 12,
-    "updated_at": "2026-09-23T18:39:23Z",
-    "url": "https://github.com/Zeeechenn/MingCang"
-  },
-  {
-    "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
-    "id": "rugose-learnedprofession58/pi-dsh",
-    "language": "TypeScript",
-    "name": "rugose-learnedprofession58/pi-dsh",
-    "stars": 0,
-    "updated_at": "2026-09-23T18:38:19Z",
-    "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
-  },
-  {
-    "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
-    "id": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
-    "language": "JavaScript",
-    "name": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
-    "stars": 1,
-    "updated_at": "2026-09-23T18:37:15Z",
-    "url": "https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder"
-  },
-  {
-    "description": "Verify area values quickly with this web-based HTML calculator tool.",
-    "id": "passive-hotpepper515/area-checker-html-tool",
-    "language": "HTML",
-    "name": "passive-hotpepper515/area-checker-html-tool",
-    "stars": 0,
-    "updated_at": "2026-09-23T18:36:53Z",
-    "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
-  },
-  {
-    "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
-    "id": "Blondieredistributed612/pocket-agent",
-    "language": "Python",
-    "name": "Blondieredistributed612/pocket-agent",
-    "stars": 2,
-    "updated_at": "2026-09-23T18:35:39Z",
-    "url": "https://github.com/Blondieredistributed612/pocket-agent"
-  },
-  {
-    "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
-    "id": "bettersilvanus849/inner-coordinates",
-    "language": "Shell",
-    "name": "bettersilvanus849/inner-coordinates",
-    "stars": 1,
-    "updated_at": "2026-09-23T18:32:24Z",
-    "url": "https://github.com/bettersilvanus849/inner-coordinates"
-  },
-  {
-    "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
-    "id": "Blaz742/web-pentest-lab",
-    "language": "\u2014",
-    "name": "Blaz742/web-pentest-lab",
-    "stars": 0,
-    "updated_at": "2026-09-23T18:31:15Z",
-    "url": "https://github.com/Blaz742/web-pentest-lab"
   }
 ]
