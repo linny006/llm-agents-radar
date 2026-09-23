@@ -1,12 +1,66 @@
 [
   {
-    "description": "Event-driven 5G incident orchestrator: multi-agent evidence gathering (PCAP/log/KPI), LATS root-cause analysis, and huma",
-    "id": "AdrianDonohoe/NetCortex",
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-09-23T11:00:06Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 19,
+    "updated_at": "2026-09-23T10:58:58Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
     "language": "Python",
-    "name": "AdrianDonohoe/NetCortex",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 3,
+    "updated_at": "2026-09-23T10:57:29Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 274,
+    "updated_at": "2026-09-23T10:57:11Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
     "stars": 1,
-    "updated_at": "2026-09-23T10:44:35Z",
-    "url": "https://github.com/AdrianDonohoe/NetCortex"
+    "updated_at": "2026-09-23T10:54:38Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "\u4fe1\u606f\u91c7\u96c6\u88c5\u7f6e\u667a\u80fd\u8fd0\u7ef4 Agent \u7cfb\u7edf\u590d\u73b0\uff1a\u7528 OpenSpec \u89c4\u683c\u9a71\u52a8\uff0c\u4ece\u544a\u8b66\u63a5\u5165\u5230\u8bca\u65ad\u62a5\u544a\u7684\u5b8c\u6574\u94fe\u8def\u3002",
+    "id": "hl7321/aiops-agent-reproduction",
+    "language": "Python",
+    "name": "hl7321/aiops-agent-reproduction",
+    "stars": 1,
+    "updated_at": "2026-09-23T10:54:12Z",
+    "url": "https://github.com/hl7321/aiops-agent-reproduction"
+  },
+  {
+    "description": "\u300a\u8be1\u79d8\u4e16\u754c\u300b\u00b7 World of Mysteries \u2014 \u672c\u5730\u4f18\u5148\u7684\u5355\u4eba\u6301\u4e45\u4e16\u754c\u6f14\u7ece\u5e94\u7528\uff1aSwiftUI macOS 26+ \u5ba2\u6237\u7aef + \u72ec\u7acb Local Engine\uff08Python 3.14 + AgentScope 2.0.8\uff09+ SQ",
+    "id": "hrygo/WorldofMysteries",
+    "language": "Swift",
+    "name": "hrygo/WorldofMysteries",
+    "stars": 0,
+    "updated_at": "2026-09-23T10:51:41Z",
+    "url": "https://github.com/hrygo/WorldofMysteries"
   },
   {
     "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
@@ -14,8 +68,44 @@
     "language": "Python",
     "name": "PCODE-pl/MCPTap",
     "stars": 1,
-    "updated_at": "2026-09-23T10:44:09Z",
+    "updated_at": "2026-09-23T10:49:39Z",
     "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-23T10:48:18Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Local-first desktop app: 16 AI agents from 8 LLM providers debate any topic \u2014 with live argument mapping, fact-check bad",
+    "id": "richer-richard/socratic-council",
+    "language": "TypeScript",
+    "name": "richer-richard/socratic-council",
+    "stars": 8,
+    "updated_at": "2026-09-23T10:46:37Z",
+    "url": "https://github.com/richer-richard/socratic-council"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 20,
+    "updated_at": "2026-09-23T10:46:31Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "Event-driven 5G incident orchestrator: multi-agent evidence gathering (PCAP/log/KPI), LATS root-cause analysis, and huma",
+    "id": "AdrianDonohoe/NetCortex",
+    "language": "Python",
+    "name": "AdrianDonohoe/NetCortex",
+    "stars": 1,
+    "updated_at": "2026-09-23T10:44:35Z",
+    "url": "https://github.com/AdrianDonohoe/NetCortex"
   },
   {
     "description": "Drop-in OpenAI/Anthropic proxy that cuts long-horizon agent prompt tokens 60-95% via SKILL.state (arXiv:2608.26263). MIT",
@@ -90,24 +180,6 @@
     "url": "https://github.com/urankwong/agentsgo"
   },
   {
-    "description": "Local-first desktop app: 16 AI agents from 8 LLM providers debate any topic \u2014 with live argument mapping, fact-check bad",
-    "id": "richer-richard/socratic-council",
-    "language": "TypeScript",
-    "name": "richer-richard/socratic-council",
-    "stars": 8,
-    "updated_at": "2026-09-23T10:42:01Z",
-    "url": "https://github.com/richer-richard/socratic-council"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 9,
-    "updated_at": "2026-09-23T10:18:19Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -115,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-23T10:16:53Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 20,
-    "updated_at": "2026-09-23T10:12:21Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
     "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
@@ -194,7 +257,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5790,
-    "updated_at": "2026-09-23T10:28:47Z",
+    "updated_at": "2026-09-23T10:57:36Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -248,7 +311,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3434,
-    "updated_at": "2026-09-23T09:51:57Z",
+    "updated_at": "2026-09-23T10:55:14Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -259,15 +322,6 @@
     "stars": 2,
     "updated_at": "2026-09-23T09:41:34Z",
     "url": "https://github.com/Blondieredistributed612/pocket-agent"
-  },
-  {
-    "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 274,
-    "updated_at": "2026-09-23T09:39:02Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
     "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-23T09:25:20Z",
     "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-09-23T09:24:41Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-09-23T09:23:33Z",
-    "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-09-23T09:22:21Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 38,
-    "updated_at": "2026-09-23T09:20:44Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
-    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
-    "id": "muhzars/Agent.cpp",
-    "language": "C++",
-    "name": "muhzars/Agent.cpp",
-    "stars": 1,
-    "updated_at": "2026-09-23T09:19:41Z",
-    "url": "https://github.com/muhzars/Agent.cpp"
-  },
-  {
-    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
-    "id": "faheela-786/ComfyUI-qwenmultiangle",
-    "language": "\u2014",
-    "name": "faheela-786/ComfyUI-qwenmultiangle",
-    "stars": 2,
-    "updated_at": "2026-09-23T09:17:09Z",
-    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
   }
 ]
