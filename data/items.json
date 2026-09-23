@@ -1,5 +1,59 @@
 [
   {
+    "description": "One agent SDK, hand-ported to 7 languages \u2014 JavaScript, Python, Go, Java, C#, Elixir, Clojure \u2014 every port held to the s",
+    "id": "muthuishere/toolnexus",
+    "language": "MDX",
+    "name": "muthuishere/toolnexus",
+    "stars": 5,
+    "updated_at": "2026-09-23T02:45:17Z",
+    "url": "https://github.com/muthuishere/toolnexus"
+  },
+  {
+    "description": "All-in-one agent harness for Claude Code \u2014 Boss meta-orchestrator, 32 curated agents, 139 curated skills, 2 named workfl",
+    "id": "sehoon787/my-claude",
+    "language": "JavaScript",
+    "name": "sehoon787/my-claude",
+    "stars": 16,
+    "updated_at": "2026-09-23T02:40:11Z",
+    "url": "https://github.com/sehoon787/my-claude"
+  },
+  {
+    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
+    "id": "urankwong/agentsgo",
+    "language": "Python",
+    "name": "urankwong/agentsgo",
+    "stars": 0,
+    "updated_at": "2026-09-23T02:38:45Z",
+    "url": "https://github.com/urankwong/agentsgo"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-09-23T02:34:36Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "All-in-one agent harness for OpenAI Codex CLI \u2014 Boss meta-orchestrator, 17 curated agents (+17 opt-in AI specialists), 1",
+    "id": "sehoon787/my-codex",
+    "language": "Shell",
+    "name": "sehoon787/my-codex",
+    "stars": 29,
+    "updated_at": "2026-09-23T02:39:16Z",
+    "url": "https://github.com/sehoon787/my-codex"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 716,
+    "updated_at": "2026-09-23T02:31:36Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
     "description": "DSH plugin: register TypeSafe Jev (System One decision model) as an agent tool \u2014 jev_decide returns calibrated probabili",
     "id": "nanami-0713/dsh-jev-decide",
     "language": "JavaScript",
@@ -14,7 +68,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-09-23T02:27:51Z",
+    "updated_at": "2026-09-23T02:38:01Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -54,15 +108,6 @@
     "url": "https://github.com/plurnk/plurnk-service"
   },
   {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-09-23T02:28:52Z",
-    "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
     "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
     "id": "diaban/jobsmith",
     "language": "Python",
@@ -88,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-23T02:09:57Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
-    "id": "urankwong/agentsgo",
-    "language": "Python",
-    "name": "urankwong/agentsgo",
-    "stars": 0,
-    "updated_at": "2026-09-23T02:05:13Z",
-    "url": "https://github.com/urankwong/agentsgo"
   },
   {
     "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
@@ -126,15 +162,6 @@
     "url": "https://github.com/expectedparrot/edsl"
   },
   {
-    "description": "All-in-one agent harness for OpenAI Codex CLI \u2014 Boss meta-orchestrator, 17 curated agents (+17 opt-in AI specialists), 1",
-    "id": "sehoon787/my-codex",
-    "language": "Shell",
-    "name": "sehoon787/my-codex",
-    "stars": 29,
-    "updated_at": "2026-09-23T02:24:18Z",
-    "url": "https://github.com/sehoon787/my-codex"
-  },
-  {
     "description": "Cross-agent plugin for manually excluding and editing AI conversation context, with search, filtering, hide/restore, und",
     "id": "jermaine123123/agent-context-editor",
     "language": "TypeScript",
@@ -151,15 +178,6 @@
     "stars": 4104,
     "updated_at": "2026-09-23T01:52:03Z",
     "url": "https://github.com/langroid/langroid"
-  },
-  {
-    "description": "All-in-one agent harness for Claude Code \u2014 Boss meta-orchestrator, 32 curated agents, 139 curated skills, 2 named workfl",
-    "id": "sehoon787/my-claude",
-    "language": "JavaScript",
-    "name": "sehoon787/my-claude",
-    "stars": 16,
-    "updated_at": "2026-09-23T02:24:17Z",
-    "url": "https://github.com/sehoon787/my-claude"
   },
   {
     "description": "Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-23T01:09:07Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-09-23T01:07:15Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 345,
-    "updated_at": "2026-09-23T01:03:38Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   }
 ]
