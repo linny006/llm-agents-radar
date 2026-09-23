@@ -1,12 +1,57 @@
 [
   {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-09-23T10:29:26Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
     "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 20,
-    "updated_at": "2026-09-23T10:12:21Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-09-23T10:28:30Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "Drop-in OpenAI/Anthropic proxy that cuts long-horizon agent prompt tokens 60-95% via SKILL.state (arXiv:2608.26263). MIT",
+    "id": "NosytLabs/skillstate-proxy",
+    "language": "TypeScript",
+    "name": "NosytLabs/skillstate-proxy",
+    "stars": 4,
+    "updated_at": "2026-09-23T10:27:33Z",
+    "url": "https://github.com/NosytLabs/skillstate-proxy"
+  },
+  {
+    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
+    "id": "PCODE-pl/MCPTap",
+    "language": "Python",
+    "name": "PCODE-pl/MCPTap",
+    "stars": 1,
+    "updated_at": "2026-09-23T10:25:25Z",
+    "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
+    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 49,
+    "updated_at": "2026-09-23T10:25:00Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
+    "id": "diaban/jobsmith",
+    "language": "Python",
+    "name": "diaban/jobsmith",
+    "stars": 0,
+    "updated_at": "2026-09-23T10:24:23Z",
+    "url": "https://github.com/diaban/jobsmith"
   },
   {
     "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
@@ -14,8 +59,44 @@
     "language": "Python",
     "name": "urankwong/agentsgo",
     "stars": 0,
-    "updated_at": "2026-09-23T10:12:13Z",
+    "updated_at": "2026-09-23T10:21:23Z",
     "url": "https://github.com/urankwong/agentsgo"
+  },
+  {
+    "description": "Local-first desktop app: 16 AI agents from 8 LLM providers debate any topic \u2014 with live argument mapping, fact-check bad",
+    "id": "richer-richard/socratic-council",
+    "language": "TypeScript",
+    "name": "richer-richard/socratic-council",
+    "stars": 8,
+    "updated_at": "2026-09-23T10:20:13Z",
+    "url": "https://github.com/richer-richard/socratic-council"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-23T10:18:19Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-23T10:16:53Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 20,
+    "updated_at": "2026-09-23T10:12:21Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
     "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
@@ -41,7 +122,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4420,
-    "updated_at": "2026-09-23T10:03:26Z",
+    "updated_at": "2026-09-23T10:25:45Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -61,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-23T09:54:55Z",
     "url": "https://github.com/wangyi20230330/wps-ai-assistant"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 9,
-    "updated_at": "2026-09-23T09:53:52Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
@@ -95,7 +167,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5790,
-    "updated_at": "2026-09-23T10:08:32Z",
+    "updated_at": "2026-09-23T10:28:47Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -189,15 +261,6 @@
     "url": "https://github.com/Blaz742/web-pentest-lab"
   },
   {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-09-23T09:37:18Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
-  },
-  {
     "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
     "id": "Elevated-homer201/prompt-gate",
     "language": "\u2014",
@@ -241,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-09-23T09:34:22Z",
     "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 49,
-    "updated_at": "2026-09-23T09:32:46Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
@@ -342,15 +396,6 @@
     "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
   },
   {
-    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
-    "id": "diaban/jobsmith",
-    "language": "Python",
-    "name": "diaban/jobsmith",
-    "stars": 0,
-    "updated_at": "2026-09-23T09:59:02Z",
-    "url": "https://github.com/diaban/jobsmith"
-  },
-  {
     "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
     "id": "rsalmn/ExtremeRouter",
     "language": "JavaScript",
@@ -378,15 +423,6 @@
     "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-09-23T09:42:56Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
     "id": "amineeng/scraping-browser",
     "language": "\u2014",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-23T09:13:43Z",
     "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 0,
-    "updated_at": "2026-09-23T09:11:49Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-09-23T09:06:07Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 130,
-    "updated_at": "2026-09-23T09:04:48Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 3,
-    "updated_at": "2026-09-23T09:03:35Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
   }
 ]
