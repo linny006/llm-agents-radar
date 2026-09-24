@@ -1,5 +1,23 @@
 [
   {
+    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
+    "id": "QQSHI13/fox-agent",
+    "language": "TypeScript",
+    "name": "QQSHI13/fox-agent",
+    "stars": 1,
+    "updated_at": "2026-09-24T12:14:40Z",
+    "url": "https://github.com/QQSHI13/fox-agent"
+  },
+  {
+    "description": "Minimal surface, complete architecture: a small, local-first coding-agent harness that re-derives the invariants of Deep",
+    "id": "earthwalker17/MiniDSH",
+    "language": "TypeScript",
+    "name": "earthwalker17/MiniDSH",
+    "stars": 10,
+    "updated_at": "2026-09-24T12:01:30Z",
+    "url": "https://github.com/earthwalker17/MiniDSH"
+  },
+  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
@@ -52,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T11:49:28Z",
     "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
-    "id": "QQSHI13/fox-agent",
-    "language": "TypeScript",
-    "name": "QQSHI13/fox-agent",
-    "stars": 1,
-    "updated_at": "2026-09-24T11:47:29Z",
-    "url": "https://github.com/QQSHI13/fox-agent"
   },
   {
     "description": "Awesome papers involving LLMs in Social Science.",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-24T10:19:02Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 6048,
-    "updated_at": "2026-09-24T10:17:27Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
   }
 ]
