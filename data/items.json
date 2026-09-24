@@ -1,5 +1,50 @@
 [
   {
+    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
+    "id": "brutal-45/Nexus-LLM",
+    "language": "Python",
+    "name": "brutal-45/Nexus-LLM",
+    "stars": 0,
+    "updated_at": "2026-09-24T20:29:00Z",
+    "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 2,
+    "updated_at": "2026-09-24T20:27:36Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 66,
+    "updated_at": "2026-09-24T20:23:22Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-24T20:18:46Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Auto-resume failed/stalled turns for DeepSeek Harness (DSH) \u2014 dual-chain auto-continue + anti-repetition plugins, instal",
+    "id": "shu0819-sjy/dsh-auto-continue",
+    "language": "JavaScript",
+    "name": "shu0819-sjy/dsh-auto-continue",
+    "stars": 0,
+    "updated_at": "2026-09-24T20:15:54Z",
+    "url": "https://github.com/shu0819-sjy/dsh-auto-continue"
+  },
+  {
     "description": "AI-orchestrated job search pipeline: scrapes 5 UA job boards, uses Claude API to score matches & classify emails, writes",
     "id": "VoroshylovV/job-search-automation-pipeline",
     "language": "Python",
@@ -7,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-09-24T20:14:24Z",
     "url": "https://github.com/VoroshylovV/job-search-automation-pipeline"
-  },
-  {
-    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
-    "id": "brutal-45/Nexus-LLM",
-    "language": "Python",
-    "name": "brutal-45/Nexus-LLM",
-    "stars": 0,
-    "updated_at": "2026-09-24T20:13:54Z",
-    "url": "https://github.com/brutal-45/Nexus-LLM"
   },
   {
     "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
@@ -27,15 +63,6 @@
     "url": "https://github.com/urankwong/agentsgo"
   },
   {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 2,
-    "updated_at": "2026-09-24T20:12:14Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
-  },
-  {
     "description": "Ask your data questions in plain English. A LangGraph agent writes the SQL, runs pandas, draws the charts and checks its",
     "id": "asadaslam556/prism-data-agent",
     "language": "Python",
@@ -43,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T20:12:55Z",
     "url": "https://github.com/asadaslam556/prism-data-agent"
-  },
-  {
-    "description": "Auto-resume failed/stalled turns for DeepSeek Harness (DSH) \u2014 dual-chain auto-continue + anti-repetition plugins, instal",
-    "id": "shu0819-sjy/dsh-auto-continue",
-    "language": "JavaScript",
-    "name": "shu0819-sjy/dsh-auto-continue",
-    "stars": 0,
-    "updated_at": "2026-09-24T20:07:24Z",
-    "url": "https://github.com/shu0819-sjy/dsh-auto-continue"
   },
   {
     "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
@@ -103,7 +121,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 8199,
+    "stars": 8206,
     "updated_at": "2026-09-24T19:38:52Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -187,6 +205,15 @@
     "stars": 216,
     "updated_at": "2026-09-24T20:03:51Z",
     "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4426,
+    "updated_at": "2026-09-24T19:18:14Z",
+    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
@@ -421,32 +448,5 @@
     "stars": 20,
     "updated_at": "2026-09-24T18:48:11Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-09-24T18:47:28Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-09-24T18:45:54Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-09-24T18:42:07Z",
-    "url": "https://github.com/SashaEee/auditLens"
   }
 ]
