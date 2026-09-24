@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-24 16:30 UTC
+> ⏰ Last updated: 2026-09-24 16:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,30 +42,30 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [jordanahern2009-svg/Tokio-ai](https://github.com/jordanahern2009-svg/Tokio-ai) | 2 | Python | 2026-09-24 | Open-source financial research agent whose false-positive rate is measured, not assumed. Permutation tests, multiple-tes |
-| 2 | [powpow-TD/game-scene-agent-pipeline](https://github.com/powpow-TD/game-scene-agent-pipeline) | 0 | Python | 2026-09-24 | 把生成式世界模型的非结构化导出物解析为可推理的全局场景状态，由 LLM 智能体完成规划调度；含 3 场景 x 9 世界 x 3 条件的完整对照实验与量化结果。\| State grounding + agent scheduling pipe |
+| 1 | [ljchang/mecha](https://github.com/ljchang/mecha) | 8 | Rust | 2026-09-24 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
+| 2 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 20 | Python | 2026-09-24 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、HMI和Android双端；LLM 只负责理解与规划，VAL 负责确定性安全执行 |
 | 3 | [kwakminoo/Project-IRIS-Light](https://github.com/kwakminoo/Project-IRIS-Light) | 3 | Python | 2026-09-24 | Open Source Desktop AI Agent Runtime - LLM, MCP, Voice Runtime, and local/cloud models wired into one PyQt6 desktop agen |
-| 4 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 0 | TypeScript | 2026-09-24 | Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that  |
-| 5 | [410979729/scope-recall-hermes](https://github.com/410979729/scope-recall-hermes) | 274 | Python | 2026-09-24 | Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet |
-| 6 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-09-24 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 7 | [eugnmueller-87/SCM-Master](https://github.com/eugnmueller-87/SCM-Master) | 0 | Python | 2026-09-24 | Hardware-procurement & asset-lifecycle SCM with an AI decision layer: should-cost, TCO/TSCMC, and an LLM copilot that ad |
-| 8 | [ljchang/mecha](https://github.com/ljchang/mecha) | 8 | Rust | 2026-09-24 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
-| 9 | [cjh522225/paiban-agent](https://github.com/cjh522225/paiban-agent) | 0 | Java | 2026-09-24 | 智能排班系统 · Agent 升级版：Spring AI 工具编排 / RAG / MCP Server / HITL，Vue 前端内嵌悬浮球助手 |
-| 10 | [Torvian-eu/chatbot](https://github.com/Torvian-eu/chatbot) | 4 | Kotlin | 2026-09-24 | Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open |
-| 11 | [urankwong/agentsgo](https://github.com/urankwong/agentsgo) | 0 | Python | 2026-09-24 | Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration — any read/write-capable AI agent (any |
-| 12 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-09-24 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
-| 13 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-09-24 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 14 | [agentpit-io/hunter-community](https://github.com/agentpit-io/hunter-community) | 549 | Python | 2026-09-24 | HunterCode · Community Edition · 腾讯 WorkBuddy 金融版的开源本地替代方案 · open-source, local alternative to Tencent WorkBuddy Finance |
-| 15 | [nrotsen/finanzas-agent](https://github.com/nrotsen/finanzas-agent) | 0 | Python | 2026-09-24 | A personal-finance agent that lives in WhatsApp: Claude with tool use on two AWS Lambdas, ~US$2/month. |
-| 16 | [Tsqin-n/invenpro-agent](https://github.com/Tsqin-n/invenpro-agent) | 0 | Python | 2026-09-24 | Full-stack Text-to-SQL database Q&A agent built with LangGraph, FastAPI, Next.js, and ECharts. |
-| 17 | [TekkenSteve/fastapi_langgraph_template](https://github.com/TekkenSteve/fastapi_langgraph_template) | 1 | Python | 2026-09-24 | Production-ready template for a self-hosted Agent Protocol server: FastAPI + LangGraph + PostgreSQL (+ optional Redis),  |
-| 18 | [Zeeechenn/MingCang](https://github.com/Zeeechenn/MingCang) | 12 | Python | 2026-09-24 | 本地优先的个人 A 股研究决策工作台 · 案卷式研究闭环：进口判断→证伪→复盘→记忆。人做决策，AI 做广度/证伪/风险。A local-first personal A-share research OS. |
-| 19 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 10 | Python | 2026-09-24 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 20 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 6 | JavaScript | 2026-09-24 | Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use,  |
-| 21 | [kyleslight/shun](https://github.com/kyleslight/shun) | 6 | TypeScript | 2026-09-24 | The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier. |
-| 22 | [PCODE-pl/MCPTap](https://github.com/PCODE-pl/MCPTap) | 1 | Python | 2026-09-24 | MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP |
-| 23 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 19 | Rust | 2026-09-24 | Bamboo — a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule |
-| 24 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 20 | Python | 2026-09-24 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、HMI和Android双端；LLM 只负责理解与规划，VAL 负责确定性安全执行 |
+| 4 | [powpow-TD/game-scene-agent-pipeline](https://github.com/powpow-TD/game-scene-agent-pipeline) | 0 | Python | 2026-09-24 | 把生成式世界模型的非结构化导出物解析为可推理的全局场景状态，由 LLM 智能体完成规划调度；含 3 场景 x 9 世界 x 3 条件的完整对照实验与量化结果。\| State grounding + agent scheduling pipe |
+| 5 | [urankwong/agentsgo](https://github.com/urankwong/agentsgo) | 0 | Python | 2026-09-24 | Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration — any read/write-capable AI agent (any |
+| 6 | [jordanahern2009-svg/Tokio-ai](https://github.com/jordanahern2009-svg/Tokio-ai) | 2 | Python | 2026-09-24 | Open-source financial research agent whose false-positive rate is measured, not assumed. Permutation tests, multiple-tes |
+| 7 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 0 | TypeScript | 2026-09-24 | Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that  |
+| 8 | [410979729/scope-recall-hermes](https://github.com/410979729/scope-recall-hermes) | 274 | Python | 2026-09-24 | Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet |
+| 9 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-09-24 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
+| 10 | [eugnmueller-87/SCM-Master](https://github.com/eugnmueller-87/SCM-Master) | 0 | Python | 2026-09-24 | Hardware-procurement & asset-lifecycle SCM with an AI decision layer: should-cost, TCO/TSCMC, and an LLM copilot that ad |
+| 11 | [cjh522225/paiban-agent](https://github.com/cjh522225/paiban-agent) | 0 | Java | 2026-09-24 | 智能排班系统 · Agent 升级版：Spring AI 工具编排 / RAG / MCP Server / HITL，Vue 前端内嵌悬浮球助手 |
+| 12 | [Torvian-eu/chatbot](https://github.com/Torvian-eu/chatbot) | 4 | Kotlin | 2026-09-24 | Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open |
+| 13 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-09-24 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
+| 14 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-09-24 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 15 | [agentpit-io/hunter-community](https://github.com/agentpit-io/hunter-community) | 549 | Python | 2026-09-24 | HunterCode · Community Edition · 腾讯 WorkBuddy 金融版的开源本地替代方案 · open-source, local alternative to Tencent WorkBuddy Finance |
+| 16 | [nrotsen/finanzas-agent](https://github.com/nrotsen/finanzas-agent) | 0 | Python | 2026-09-24 | A personal-finance agent that lives in WhatsApp: Claude with tool use on two AWS Lambdas, ~US$2/month. |
+| 17 | [Tsqin-n/invenpro-agent](https://github.com/Tsqin-n/invenpro-agent) | 0 | Python | 2026-09-24 | Full-stack Text-to-SQL database Q&A agent built with LangGraph, FastAPI, Next.js, and ECharts. |
+| 18 | [TekkenSteve/fastapi_langgraph_template](https://github.com/TekkenSteve/fastapi_langgraph_template) | 1 | Python | 2026-09-24 | Production-ready template for a self-hosted Agent Protocol server: FastAPI + LangGraph + PostgreSQL (+ optional Redis),  |
+| 19 | [Zeeechenn/MingCang](https://github.com/Zeeechenn/MingCang) | 12 | Python | 2026-09-24 | 本地优先的个人 A 股研究决策工作台 · 案卷式研究闭环：进口判断→证伪→复盘→记忆。人做决策，AI 做广度/证伪/风险。A local-first personal A-share research OS. |
+| 20 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 10 | Python | 2026-09-24 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 21 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 6 | JavaScript | 2026-09-24 | Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use,  |
+| 22 | [kyleslight/shun](https://github.com/kyleslight/shun) | 6 | TypeScript | 2026-09-24 | The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier. |
+| 23 | [PCODE-pl/MCPTap](https://github.com/PCODE-pl/MCPTap) | 1 | Python | 2026-09-24 | MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP |
+| 24 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 19 | Rust | 2026-09-24 | Bamboo — a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule |
 | 25 | [Deborahwalkerz661/ComfyUI-FS_Audio_Suite](https://github.com/Deborahwalkerz661/ComfyUI-FS_Audio_Suite) | 0 | Python | 2026-09-24 | Generate rich YuE2 audio in ComfyUI with six modular nodes—hum-to-song, LoRA and adapter support—no stock nodes needed. |
 | 26 | [Jadema5416/ComfyUI-DLSS5-Enhancer](https://github.com/Jadema5416/ComfyUI-DLSS5-Enhancer) | 0 | Python | 2026-09-24 | Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de |
 | 27 | [verniceunleaded6135/tidy-undo](https://github.com/verniceunleaded6135/tidy-undo) | 0 | Python | 2026-09-24 | Sort your Downloads by project, not file type — with one-command undo. No delete, ever. |
