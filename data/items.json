@@ -1,5 +1,77 @@
 [
   {
+    "description": "\u975e\u7ebf\u667a\u80fd NoneLinear - ReLE\u8bc4\u6d4b\uff1a\u4e2d\u6587AI\u5927\u6a21\u578b\u80fd\u529b\u8bc4\u6d4b\uff08\u6301\u7eed\u66f4\u65b0\uff09\uff1a\u76ee\u524d\u5df2\u56ca\u62ec374\u4e2a\u5927\u6a21\u578b\uff0c\u8986\u76d6chatgpt\u3001gpt-5.4\u3001\u8c37\u6b4cgemini-3.1-pro\u3001Claude-4.6\u3001\u6587\u5fc3ERNIE-X1.1\u3001ERNIE",
+    "id": "jeinlee1991/chinese-llm-benchmark",
+    "language": "\u2014",
+    "name": "jeinlee1991/chinese-llm-benchmark",
+    "stars": 6449,
+    "updated_at": "2026-09-24T08:30:06Z",
+    "url": "https://github.com/jeinlee1991/chinese-llm-benchmark"
+  },
+  {
+    "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
+    "id": "edjafarov/kiagent-core",
+    "language": "TypeScript",
+    "name": "edjafarov/kiagent-core",
+    "stars": 7,
+    "updated_at": "2026-09-24T08:25:25Z",
+    "url": "https://github.com/edjafarov/kiagent-core"
+  },
+  {
+    "description": "\ud83e\udd16 MioChat \u2014 \u5f00\u6e90\u7684 Agent \u64cd\u4f5c\u7cfb\u7edf\u3002Agent / Session / SubAgent \u4e09\u7ea7\u4e0a\u4e0b\u6587\u6a21\u578b\u3001V3 Hook \u5207\u9762\u3001MCP + Skills \u53cc\u6807\u51c6\u5de5\u5177\u751f\u6001\u3001\u591a\u6e20\u9053\u63a5\u5165\u4e0e\u5b9a\u65f6\u81ea\u6cbb\u3002\u6a21\u578b\u65e0\u5173\u3001\u81ea\u6258\u7ba1\u3002",
+    "id": "Pretend-to/mio-chat-backend",
+    "language": "JavaScript",
+    "name": "Pretend-to/mio-chat-backend",
+    "stars": 38,
+    "updated_at": "2026-09-24T08:23:33Z",
+    "url": "https://github.com/Pretend-to/mio-chat-backend"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 20,
+    "updated_at": "2026-09-24T08:22:01Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
+    "id": "urankwong/agentsgo",
+    "language": "Python",
+    "name": "urankwong/agentsgo",
+    "stars": 0,
+    "updated_at": "2026-09-24T08:21:34Z",
+    "url": "https://github.com/urankwong/agentsgo"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-24T08:20:32Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Cron scheduling for the DeepSeek Harness \u2014 bounded tasks with calendar & interval rules, delivered to live agents",
+    "id": "fan56/dsh-cron",
+    "language": "TypeScript",
+    "name": "fan56/dsh-cron",
+    "stars": 0,
+    "updated_at": "2026-09-24T08:17:14Z",
+    "url": "https://github.com/fan56/dsh-cron"
+  },
+  {
+    "description": "\u4e00\u5957\u9762\u5411 FLUX WMS\uff08\u5bcc\u52d2\u4ed3\u5e93\u7ba1\u7406\u7cfb\u7edf\uff09Oracle \u6570\u636e\u5e93\u4e8c\u6b21\u5f00\u53d1\u7684 Agent Skills \u5de5\u5177\u96c6\uff0c\u652f\u6301 Claude Code\u3001Codex\u3001Pi\u3001OpenCode \u7b49\u4e3b\u6d41 Agent \u5de5\u5177\u3002\u9488\u5bf9 FLUX WMS \u4e8c\u6b21\u5f00\u53d1\u4e2d\u6700",
+    "id": "sun-chong/flux-wms-kit",
+    "language": "Python",
+    "name": "sun-chong/flux-wms-kit",
+    "stars": 1,
+    "updated_at": "2026-09-24T08:15:41Z",
+    "url": "https://github.com/sun-chong/flux-wms-kit"
+  },
+  {
     "description": "Build an AI Coding Agent from Scratch, Step by Step | \u4ece\u96f6\u4e00\u6b65\u6b65\u642d\u5efa AI \u7f16\u7a0b Agent\uff0c\u8fb9\u5b9e\u73b0\u8fb9\u7406\u89e3 Agent \u7684\u5de5\u4f5c\u539f\u7406",
     "id": "liiiiiiiiil/agent-from-scratch",
     "language": "Python",
@@ -14,7 +86,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 19,
-    "updated_at": "2026-09-24T08:11:10Z",
+    "updated_at": "2026-09-24T08:15:50Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -45,15 +117,6 @@
     "url": "https://github.com/mino19790622-dot/visual-inspection-report-generator"
   },
   {
-    "description": "Cron scheduling for the DeepSeek Harness \u2014 bounded tasks with calendar & interval rules, delivered to live agents",
-    "id": "fan56/dsh-cron",
-    "language": "TypeScript",
-    "name": "fan56/dsh-cron",
-    "stars": 0,
-    "updated_at": "2026-09-24T08:05:56Z",
-    "url": "https://github.com/fan56/dsh-cron"
-  },
-  {
     "description": "Claude Code plugin: universal radial-tree exploration engine. One tree skill + swappable presets (brainstorm / attack / ",
     "id": "skymanbp/cc-tree",
     "language": "Python",
@@ -68,35 +131,17 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-24T08:00:58Z",
+    "updated_at": "2026-09-24T08:22:26Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
-    "id": "urankwong/agentsgo",
-    "language": "Python",
-    "name": "urankwong/agentsgo",
-    "stars": 0,
-    "updated_at": "2026-09-24T08:00:13Z",
-    "url": "https://github.com/urankwong/agentsgo"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7999,
+    "stars": 8002,
     "updated_at": "2026-09-24T07:58:07Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "\ud83e\udd16 MioChat \u2014 \u5f00\u6e90\u7684 Agent \u64cd\u4f5c\u7cfb\u7edf\u3002Agent / Session / SubAgent \u4e09\u7ea7\u4e0a\u4e0b\u6587\u6a21\u578b\u3001V3 Hook \u5207\u9762\u3001MCP + Skills \u53cc\u6807\u51c6\u5de5\u5177\u751f\u6001\u3001\u591a\u6e20\u9053\u63a5\u5165\u4e0e\u5b9a\u65f6\u81ea\u6cbb\u3002\u6a21\u578b\u65e0\u5173\u3001\u81ea\u6258\u7ba1\u3002",
-    "id": "Pretend-to/mio-chat-backend",
-    "language": "JavaScript",
-    "name": "Pretend-to/mio-chat-backend",
-    "stars": 38,
-    "updated_at": "2026-09-24T07:48:18Z",
-    "url": "https://github.com/Pretend-to/mio-chat-backend"
   },
   {
     "description": "Hardware-procurement & asset-lifecycle SCM with an AI decision layer: should-cost, TCO/TSCMC, and an LLM copilot that ad",
@@ -158,17 +203,8 @@
     "language": "Rust",
     "name": "metric-space-ai/greppy",
     "stars": 9,
-    "updated_at": "2026-09-24T08:07:54Z",
+    "updated_at": "2026-09-24T08:19:50Z",
     "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 20,
-    "updated_at": "2026-09-24T07:24:43Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
     "description": "A laboratory's X-ray reflectivity fitting procedure, written so a language-model agent can follow it. Includes the four ",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-24T06:51:00Z",
     "url": "https://github.com/amineeng/scraping-browser"
-  },
-  {
-    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
-    "id": "Saran1536/ComfyUI-LoaderUtils",
-    "language": "Python",
-    "name": "Saran1536/ComfyUI-LoaderUtils",
-    "stars": 0,
-    "updated_at": "2026-09-24T06:48:32Z",
-    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 0,
-    "updated_at": "2026-09-24T06:47:28Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-09-24T06:42:05Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 3,
-    "updated_at": "2026-09-24T06:39:44Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
   }
 ]
