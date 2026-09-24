@@ -5,8 +5,161 @@
     "language": "Python",
     "name": "brutal-45/Nexus-LLM",
     "stars": 0,
-    "updated_at": "2026-09-24T23:14:49Z",
+    "updated_at": "2026-09-24T23:29:53Z",
     "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
+    "id": "xiongweilin/agent-skills",
+    "language": "PowerShell",
+    "name": "xiongweilin/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-24T23:28:48Z",
+    "url": "https://github.com/xiongweilin/agent-skills"
+  },
+  {
+    "description": "Generate rich YuE2 audio in ComfyUI with six modular nodes\u2014hum-to-song, LoRA and adapter support\u2014no stock nodes needed.",
+    "id": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
+    "language": "Python",
+    "name": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
+    "stars": 0,
+    "updated_at": "2026-09-24T23:27:03Z",
+    "url": "https://github.com/Deborahwalkerz661/ComfyUI-FS_Audio_Suite"
+  },
+  {
+    "description": "Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de",
+    "id": "Jadema5416/ComfyUI-DLSS5-Enhancer",
+    "language": "Python",
+    "name": "Jadema5416/ComfyUI-DLSS5-Enhancer",
+    "stars": 0,
+    "updated_at": "2026-09-24T23:25:53Z",
+    "url": "https://github.com/Jadema5416/ComfyUI-DLSS5-Enhancer"
+  },
+  {
+    "description": "Sort your Downloads by project, not file type \u2014 with one-command undo. No delete, ever.",
+    "id": "verniceunleaded6135/tidy-undo",
+    "language": "Python",
+    "name": "verniceunleaded6135/tidy-undo",
+    "stars": 0,
+    "updated_at": "2026-09-24T23:24:55Z",
+    "url": "https://github.com/verniceunleaded6135/tidy-undo"
+  },
+  {
+    "description": "Research framework for adaptive, purposeful agents under uncertainty",
+    "id": "v2-io/agentic-systems",
+    "language": "TeX",
+    "name": "v2-io/agentic-systems",
+    "stars": 2,
+    "updated_at": "2026-09-24T23:24:41Z",
+    "url": "https://github.com/v2-io/agentic-systems"
+  },
+  {
+    "description": "Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node\u2014no complex workflows needed.",
+    "id": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
+    "language": "JavaScript",
+    "name": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
+    "stars": 3,
+    "updated_at": "2026-09-24T23:24:13Z",
+    "url": "https://github.com/Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3"
+  },
+  {
+    "description": "Control your Windows laptop remotely via Discord with AI-powered voice and text commands in English or Urdu.",
+    "id": "Ottoman-reticule726/zara-ai-laptop-agent",
+    "language": "Python",
+    "name": "Ottoman-reticule726/zara-ai-laptop-agent",
+    "stars": 0,
+    "updated_at": "2026-09-24T23:23:27Z",
+    "url": "https://github.com/Ottoman-reticule726/zara-ai-laptop-agent"
+  },
+  {
+    "description": "Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons.",
+    "id": "alejandrogg15/Minimax-H3-Turbo",
+    "language": "Python",
+    "name": "alejandrogg15/Minimax-H3-Turbo",
+    "stars": 0,
+    "updated_at": "2026-09-24T23:23:13Z",
+    "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
+  },
+  {
+    "description": "Automate Elytra flight, navigation, and landing for Meteor Client with intelligent pathfinding and rocket management.",
+    "id": "222394/SkyPilot",
+    "language": "Java",
+    "name": "222394/SkyPilot",
+    "stars": 0,
+    "updated_at": "2026-09-24T23:22:07Z",
+    "url": "https://github.com/222394/SkyPilot"
+  },
+  {
+    "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
+    "id": "Aureliedumbfounding630/agent-governance-toolkit",
+    "language": "\u2014",
+    "name": "Aureliedumbfounding630/agent-governance-toolkit",
+    "stars": 0,
+    "updated_at": "2026-09-24T23:22:05Z",
+    "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
+  },
+  {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-24T23:21:55Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Build open source deep research agents using multiple models, search tools, and MCP servers.",
+    "id": "randomvariablewhitepelican129/open_deep_research",
+    "language": "Python",
+    "name": "randomvariablewhitepelican129/open_deep_research",
+    "stars": 0,
+    "updated_at": "2026-09-24T23:21:29Z",
+    "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 5,
+    "updated_at": "2026-09-24T23:19:33Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
+    "id": "diaban/jobsmith",
+    "language": "Python",
+    "name": "diaban/jobsmith",
+    "stars": 0,
+    "updated_at": "2026-09-24T23:30:02Z",
+    "url": "https://github.com/diaban/jobsmith"
+  },
+  {
+    "description": "Automate file management and coding tasks in your local directory using small language models.",
+    "id": "pruthviraj00007/VibeHarness",
+    "language": "Python",
+    "name": "pruthviraj00007/VibeHarness",
+    "stars": 0,
+    "updated_at": "2026-09-24T23:18:56Z",
+    "url": "https://github.com/pruthviraj00007/VibeHarness"
+  },
+  {
+    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
+    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "language": "Go",
+    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "stars": 0,
+    "updated_at": "2026-09-24T23:17:32Z",
+    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
+  },
+  {
+    "description": "\u300a\u8be1\u79d8\u4e16\u754c\u300b\u00b7 World of Mysteries \u2014 \u672c\u5730\u4f18\u5148\u7684\u5355\u4eba\u6301\u4e45\u4e16\u754c\u6f14\u7ece\u5e94\u7528\uff1aSwiftUI macOS 26+ \u5ba2\u6237\u7aef + \u72ec\u7acb Local Engine\uff08Python 3.14 + AgentScope 2.0.8\uff09+ SQ",
+    "id": "hrygo/WorldofMysteries",
+    "language": "Swift",
+    "name": "hrygo/WorldofMysteries",
+    "stars": 0,
+    "updated_at": "2026-09-24T23:20:06Z",
+    "url": "https://github.com/hrygo/WorldofMysteries"
   },
   {
     "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
@@ -158,17 +311,8 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 8,
-    "updated_at": "2026-09-24T23:15:10Z",
+    "updated_at": "2026-09-24T23:27:45Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "\u300a\u8be1\u79d8\u4e16\u754c\u300b\u00b7 World of Mysteries \u2014 \u672c\u5730\u4f18\u5148\u7684\u5355\u4eba\u6301\u4e45\u4e16\u754c\u6f14\u7ece\u5e94\u7528\uff1aSwiftUI macOS 26+ \u5ba2\u6237\u7aef + \u72ec\u7acb Local Engine\uff08Python 3.14 + AgentScope 2.0.8\uff09+ SQ",
-    "id": "hrygo/WorldofMysteries",
-    "language": "Swift",
-    "name": "hrygo/WorldofMysteries",
-    "stars": 0,
-    "updated_at": "2026-09-24T23:12:15Z",
-    "url": "https://github.com/hrygo/WorldofMysteries"
   },
   {
     "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
@@ -304,149 +448,5 @@
     "stars": 809,
     "updated_at": "2026-09-24T22:22:13Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 3,
-    "updated_at": "2026-09-24T22:13:01Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-09-24T22:11:58Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 130,
-    "updated_at": "2026-09-24T21:57:27Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-09-24T21:51:42Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 2,
-    "updated_at": "2026-09-24T21:48:40Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
-  },
-  {
-    "description": "Generate rich YuE2 audio in ComfyUI with six modular nodes\u2014hum-to-song, LoRA and adapter support\u2014no stock nodes needed.",
-    "id": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
-    "language": "Python",
-    "name": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
-    "stars": 0,
-    "updated_at": "2026-09-24T21:35:25Z",
-    "url": "https://github.com/Deborahwalkerz661/ComfyUI-FS_Audio_Suite"
-  },
-  {
-    "description": "Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de",
-    "id": "Jadema5416/ComfyUI-DLSS5-Enhancer",
-    "language": "Python",
-    "name": "Jadema5416/ComfyUI-DLSS5-Enhancer",
-    "stars": 0,
-    "updated_at": "2026-09-24T21:34:18Z",
-    "url": "https://github.com/Jadema5416/ComfyUI-DLSS5-Enhancer"
-  },
-  {
-    "description": "A small Python harness that keeps an LLM coding agent on track: durable memory, a code graph, a live todo plan, and loop",
-    "id": "IdysisI/kern",
-    "language": "Python",
-    "name": "IdysisI/kern",
-    "stars": 2,
-    "updated_at": "2026-09-24T21:34:17Z",
-    "url": "https://github.com/IdysisI/kern"
-  },
-  {
-    "description": "Sort your Downloads by project, not file type \u2014 with one-command undo. No delete, ever.",
-    "id": "verniceunleaded6135/tidy-undo",
-    "language": "Python",
-    "name": "verniceunleaded6135/tidy-undo",
-    "stars": 0,
-    "updated_at": "2026-09-24T21:33:23Z",
-    "url": "https://github.com/verniceunleaded6135/tidy-undo"
-  },
-  {
-    "description": "Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node\u2014no complex workflows needed.",
-    "id": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
-    "language": "JavaScript",
-    "name": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
-    "stars": 3,
-    "updated_at": "2026-09-24T21:32:40Z",
-    "url": "https://github.com/Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3"
-  },
-  {
-    "description": "Control your Windows laptop remotely via Discord with AI-powered voice and text commands in English or Urdu.",
-    "id": "Ottoman-reticule726/zara-ai-laptop-agent",
-    "language": "Python",
-    "name": "Ottoman-reticule726/zara-ai-laptop-agent",
-    "stars": 0,
-    "updated_at": "2026-09-24T21:31:52Z",
-    "url": "https://github.com/Ottoman-reticule726/zara-ai-laptop-agent"
-  },
-  {
-    "description": "Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons.",
-    "id": "alejandrogg15/Minimax-H3-Turbo",
-    "language": "Python",
-    "name": "alejandrogg15/Minimax-H3-Turbo",
-    "stars": 0,
-    "updated_at": "2026-09-24T21:31:41Z",
-    "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 67,
-    "updated_at": "2026-09-24T21:31:16Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Automate Elytra flight, navigation, and landing for Meteor Client with intelligent pathfinding and rocket management.",
-    "id": "222394/SkyPilot",
-    "language": "Java",
-    "name": "222394/SkyPilot",
-    "stars": 0,
-    "updated_at": "2026-09-24T21:31:14Z",
-    "url": "https://github.com/222394/SkyPilot"
-  },
-  {
-    "description": "Trace token usage and compliance failures across a nonprofit Java agent loop with one Infrai credential.",
-    "id": "JamesAnderson6217/nonprofit-agent-usage-ledger",
-    "language": "Java",
-    "name": "JamesAnderson6217/nonprofit-agent-usage-ledger",
-    "stars": 0,
-    "updated_at": "2026-09-24T21:31:12Z",
-    "url": "https://github.com/JamesAnderson6217/nonprofit-agent-usage-ledger"
-  },
-  {
-    "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
-    "id": "Aureliedumbfounding630/agent-governance-toolkit",
-    "language": "\u2014",
-    "name": "Aureliedumbfounding630/agent-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-09-24T21:30:32Z",
-    "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
   }
 ]
