@@ -1,12 +1,39 @@
 [
   {
+    "description": "AI-orchestrated job search pipeline: scrapes 5 UA job boards, uses Claude API to score matches & classify emails, writes",
+    "id": "VoroshylovV/job-search-automation-pipeline",
+    "language": "Python",
+    "name": "VoroshylovV/job-search-automation-pipeline",
+    "stars": 1,
+    "updated_at": "2026-09-24T20:14:24Z",
+    "url": "https://github.com/VoroshylovV/job-search-automation-pipeline"
+  },
+  {
     "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
     "id": "brutal-45/Nexus-LLM",
     "language": "Python",
     "name": "brutal-45/Nexus-LLM",
     "stars": 0,
-    "updated_at": "2026-09-24T19:58:49Z",
+    "updated_at": "2026-09-24T20:13:54Z",
     "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
+    "id": "urankwong/agentsgo",
+    "language": "Python",
+    "name": "urankwong/agentsgo",
+    "stars": 0,
+    "updated_at": "2026-09-24T20:13:32Z",
+    "url": "https://github.com/urankwong/agentsgo"
+  },
+  {
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 2,
+    "updated_at": "2026-09-24T20:12:14Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
   },
   {
     "description": "Ask your data questions in plain English. A LangGraph agent writes the SQL, runs pandas, draws the charts and checks its",
@@ -14,8 +41,26 @@
     "language": "Python",
     "name": "asadaslam556/prism-data-agent",
     "stars": 0,
-    "updated_at": "2026-09-24T19:56:59Z",
+    "updated_at": "2026-09-24T20:12:55Z",
     "url": "https://github.com/asadaslam556/prism-data-agent"
+  },
+  {
+    "description": "Auto-resume failed/stalled turns for DeepSeek Harness (DSH) \u2014 dual-chain auto-continue + anti-repetition plugins, instal",
+    "id": "shu0819-sjy/dsh-auto-continue",
+    "language": "JavaScript",
+    "name": "shu0819-sjy/dsh-auto-continue",
+    "stars": 0,
+    "updated_at": "2026-09-24T20:07:24Z",
+    "url": "https://github.com/shu0819-sjy/dsh-auto-continue"
+  },
+  {
+    "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
+    "id": "sunnnn2005/data-quality-agent",
+    "language": "Python",
+    "name": "sunnnn2005/data-quality-agent",
+    "stars": 0,
+    "updated_at": "2026-09-24T20:01:33Z",
+    "url": "https://github.com/sunnnn2005/data-quality-agent"
   },
   {
     "description": "cluesh is an AI agent that turns a natural-language demand into one copy-paste-ready bash command, explained flag by fla",
@@ -58,7 +103,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 8197,
+    "stars": 8199,
     "updated_at": "2026-09-24T19:38:52Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -140,7 +185,7 @@
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 216,
-    "updated_at": "2026-09-24T19:18:27Z",
+    "updated_at": "2026-09-24T20:03:51Z",
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
@@ -223,15 +268,6 @@
     "stars": 3,
     "updated_at": "2026-09-24T19:08:10Z",
     "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
-    "id": "urankwong/agentsgo",
-    "language": "Python",
-    "name": "urankwong/agentsgo",
-    "stars": 0,
-    "updated_at": "2026-09-24T19:04:26Z",
-    "url": "https://github.com/urankwong/agentsgo"
   },
   {
     "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
@@ -351,15 +387,6 @@
     "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
   },
   {
-    "description": "Auto-resume failed/stalled turns for DeepSeek Harness (DSH) \u2014 dual-chain auto-continue + anti-repetition plugins, instal",
-    "id": "shu0819-sjy/dsh-auto-continue",
-    "language": "JavaScript",
-    "name": "shu0819-sjy/dsh-auto-continue",
-    "stars": 0,
-    "updated_at": "2026-09-24T18:53:24Z",
-    "url": "https://github.com/shu0819-sjy/dsh-auto-continue"
-  },
-  {
     "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
     "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
     "language": "HTML",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-24T18:42:07Z",
     "url": "https://github.com/SashaEee/auditLens"
-  },
-  {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 0,
-    "updated_at": "2026-09-24T18:39:07Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "Document-grounded adaptive tutoring with bounded tool-use agents",
-    "id": "tx3457/study-loop",
-    "language": "Python",
-    "name": "tx3457/study-loop",
-    "stars": 0,
-    "updated_at": "2026-09-24T18:38:09Z",
-    "url": "https://github.com/tx3457/study-loop"
-  },
-  {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-09-24T18:35:55Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
   }
 ]
