@@ -1,5 +1,32 @@
 [
   {
+    "description": "\u628a\u751f\u6210\u5f0f\u4e16\u754c\u6a21\u578b\u7684\u975e\u7ed3\u6784\u5316\u5bfc\u51fa\u7269\u89e3\u6790\u4e3a\u53ef\u63a8\u7406\u7684\u5168\u5c40\u573a\u666f\u72b6\u6001\uff0c\u7531 LLM \u667a\u80fd\u4f53\u5b8c\u6210\u89c4\u5212\u8c03\u5ea6\uff1b\u542b 3 \u573a\u666f x 9 \u4e16\u754c x 3 \u6761\u4ef6\u7684\u5b8c\u6574\u5bf9\u7167\u5b9e\u9a8c\u4e0e\u91cf\u5316\u7ed3\u679c\u3002| State grounding + agent scheduling pipe",
+    "id": "powpow-TD/game-scene-agent-pipeline",
+    "language": "Python",
+    "name": "powpow-TD/game-scene-agent-pipeline",
+    "stars": 0,
+    "updated_at": "2026-09-24T16:14:57Z",
+    "url": "https://github.com/powpow-TD/game-scene-agent-pipeline"
+  },
+  {
+    "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 274,
+    "updated_at": "2026-09-24T16:13:51Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-09-24T16:09:57Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
     "description": "Hardware-procurement & asset-lifecycle SCM with an AI decision layer: should-cost, TCO/TSCMC, and an LLM copilot that ad",
     "id": "eugnmueller-87/SCM-Master",
     "language": "Python",
@@ -7,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T15:57:43Z",
     "url": "https://github.com/eugnmueller-87/SCM-Master"
-  },
-  {
-    "description": "\u628a\u751f\u6210\u5f0f\u4e16\u754c\u6a21\u578b\u7684\u975e\u7ed3\u6784\u5316\u5bfc\u51fa\u7269\u89e3\u6790\u4e3a\u53ef\u63a8\u7406\u7684\u5168\u5c40\u573a\u666f\u72b6\u6001\uff0c\u7531 LLM \u667a\u80fd\u4f53\u5b8c\u6210\u89c4\u5212\u8c03\u5ea6\uff1b\u542b 3 \u573a\u666f x 9 \u4e16\u754c x 3 \u6761\u4ef6\u7684\u5b8c\u6574\u5bf9\u7167\u5b9e\u9a8c\u4e0e\u91cf\u5316\u7ed3\u679c\u3002| State grounding + agent scheduling pipe",
-    "id": "powpow-TD/game-scene-agent-pipeline",
-    "language": "Python",
-    "name": "powpow-TD/game-scene-agent-pipeline",
-    "stars": 0,
-    "updated_at": "2026-09-24T15:56:52Z",
-    "url": "https://github.com/powpow-TD/game-scene-agent-pipeline"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -122,7 +140,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-24T15:32:14Z",
+    "updated_at": "2026-09-24T16:01:08Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -297,15 +315,6 @@
     "url": "https://github.com/nikitaochkin/kino-agent"
   },
   {
-    "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 274,
-    "updated_at": "2026-09-24T15:01:51Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
     "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
     "id": "Samuelcluttered613/paper2code",
     "language": "Python",
@@ -373,7 +382,7 @@
     "id": "rekursiv-ai/sagent",
     "language": "Python",
     "name": "rekursiv-ai/sagent",
-    "stars": 64,
+    "stars": 65,
     "updated_at": "2026-09-24T14:54:47Z",
     "url": "https://github.com/rekursiv-ai/sagent"
   },
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-24T14:48:55Z",
     "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 3,
-    "updated_at": "2026-09-24T14:48:41Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   }
 ]
