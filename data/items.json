@@ -1,5 +1,41 @@
 [
   {
+    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
+    "id": "brutal-45/Nexus-LLM",
+    "language": "Python",
+    "name": "brutal-45/Nexus-LLM",
+    "stars": 0,
+    "updated_at": "2026-09-24T22:44:41Z",
+    "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-09-24T22:38:15Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 8,
+    "updated_at": "2026-09-24T22:44:19Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "LLM agent skill for ARPES analysis with PyARPES (load, EDC/MDC, k/kz, near-EF)",
+    "id": "fawkesdx/ARPESskill",
+    "language": "\u2014",
+    "name": "fawkesdx/ARPESskill",
+    "stars": 0,
+    "updated_at": "2026-09-24T22:30:30Z",
+    "url": "https://github.com/fawkesdx/ARPESskill"
+  },
+  {
     "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
     "id": "urankwong/agentsgo",
     "language": "Python",
@@ -9,15 +45,6 @@
     "url": "https://github.com/urankwong/agentsgo"
   },
   {
-    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
-    "id": "brutal-45/Nexus-LLM",
-    "language": "Python",
-    "name": "brutal-45/Nexus-LLM",
-    "stars": 0,
-    "updated_at": "2026-09-24T22:29:37Z",
-    "url": "https://github.com/brutal-45/Nexus-LLM"
-  },
-  {
     "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
     "id": "emqnuele/projectBEA",
     "language": "Python",
@@ -25,15 +52,6 @@
     "stars": 19,
     "updated_at": "2026-09-24T22:29:11Z",
     "url": "https://github.com/emqnuele/projectBEA"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-09-24T22:27:37Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Ask your data in plain English: a tool-calling agent writes guarded, read-only SQL over the sample warehouse or your own",
@@ -97,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T22:11:58Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "LLM agent skill for ARPES analysis with PyARPES (load, EDC/MDC, k/kz, near-EF)",
-    "id": "fawkesdx/ARPESskill",
-    "language": "\u2014",
-    "name": "fawkesdx/ARPESskill",
-    "stars": 0,
-    "updated_at": "2026-09-24T22:06:47Z",
-    "url": "https://github.com/fawkesdx/ARPESskill"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -265,7 +274,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 8227,
+    "stars": 8229,
     "updated_at": "2026-09-24T21:27:28Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-24T21:07:40Z",
     "url": "https://github.com/Ax3lsk3r3/QuantVibe"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
-    "id": "hasting323/AutoGLM-For-Android",
-    "language": "Kotlin",
-    "name": "hasting323/AutoGLM-For-Android",
-    "stars": 12,
-    "updated_at": "2026-09-24T21:04:49Z",
-    "url": "https://github.com/hasting323/AutoGLM-For-Android"
   }
 ]
