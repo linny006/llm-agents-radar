@@ -1,5 +1,68 @@
 [
   {
+    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
+    "id": "urankwong/agentsgo",
+    "language": "Python",
+    "name": "urankwong/agentsgo",
+    "stars": 0,
+    "updated_at": "2026-09-24T08:00:13Z",
+    "url": "https://github.com/urankwong/agentsgo"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7993,
+    "updated_at": "2026-09-24T07:58:07Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Claude Code plugin: universal radial-tree exploration engine. One tree skill + swappable presets (brainstorm / attack / ",
+    "id": "skymanbp/cc-tree",
+    "language": "Python",
+    "name": "skymanbp/cc-tree",
+    "stars": 101,
+    "updated_at": "2026-09-24T07:56:23Z",
+    "url": "https://github.com/skymanbp/cc-tree"
+  },
+  {
+    "description": "Cron scheduling for the DeepSeek Harness \u2014 bounded tasks with calendar & interval rules, delivered to live agents",
+    "id": "fan56/dsh-cron",
+    "language": "TypeScript",
+    "name": "fan56/dsh-cron",
+    "stars": 0,
+    "updated_at": "2026-09-24T07:55:54Z",
+    "url": "https://github.com/fan56/dsh-cron"
+  },
+  {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-24T07:52:40Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 19,
+    "updated_at": "2026-09-24T07:57:42Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "\ud83e\udd16 MioChat \u2014 \u5f00\u6e90\u7684 Agent \u64cd\u4f5c\u7cfb\u7edf\u3002Agent / Session / SubAgent \u4e09\u7ea7\u4e0a\u4e0b\u6587\u6a21\u578b\u3001V3 Hook \u5207\u9762\u3001MCP + Skills \u53cc\u6807\u51c6\u5de5\u5177\u751f\u6001\u3001\u591a\u6e20\u9053\u63a5\u5165\u4e0e\u5b9a\u65f6\u81ea\u6cbb\u3002\u6a21\u578b\u65e0\u5173\u3001\u81ea\u6258\u7ba1\u3002",
+    "id": "Pretend-to/mio-chat-backend",
+    "language": "JavaScript",
+    "name": "Pretend-to/mio-chat-backend",
+    "stars": 38,
+    "updated_at": "2026-09-24T07:48:18Z",
+    "url": "https://github.com/Pretend-to/mio-chat-backend"
+  },
+  {
     "description": "Hardware-procurement & asset-lifecycle SCM with an AI decision layer: should-cost, TCO/TSCMC, and an LLM copilot that ad",
     "id": "eugnmueller-87/SCM-Master",
     "language": "Python",
@@ -25,15 +88,6 @@
     "stars": 87,
     "updated_at": "2026-09-24T07:40:41Z",
     "url": "https://github.com/liiiiiiiiil/agent-from-scratch"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 19,
-    "updated_at": "2026-09-24T07:41:31Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -81,15 +135,6 @@
     "url": "https://github.com/metric-space-ai/greppy"
   },
   {
-    "description": "Claude Code plugin: universal radial-tree exploration engine. One tree skill + swappable presets (brainstorm / attack / ",
-    "id": "skymanbp/cc-tree",
-    "language": "Python",
-    "name": "skymanbp/cc-tree",
-    "stars": 101,
-    "updated_at": "2026-09-24T07:28:22Z",
-    "url": "https://github.com/skymanbp/cc-tree"
-  },
-  {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
     "id": "SuperdeMan/cockpit-agent",
     "language": "Python",
@@ -97,15 +142,6 @@
     "stars": 20,
     "updated_at": "2026-09-24T07:24:43Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
-    "id": "urankwong/agentsgo",
-    "language": "Python",
-    "name": "urankwong/agentsgo",
-    "stars": 0,
-    "updated_at": "2026-09-24T07:24:14Z",
-    "url": "https://github.com/urankwong/agentsgo"
   },
   {
     "description": "A laboratory's X-ray reflectivity fitting procedure, written so a language-model agent can follow it. Includes the four ",
@@ -185,7 +221,7 @@
     "language": "Go",
     "name": "ongridio/ongrid",
     "stars": 1078,
-    "updated_at": "2026-09-24T07:18:00Z",
+    "updated_at": "2026-09-24T07:57:15Z",
     "url": "https://github.com/ongridio/ongrid"
   },
   {
@@ -405,15 +441,6 @@
     "url": "https://github.com/JortegaR/ai-notes-api"
   },
   {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-24T06:27:30Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "The LLM Anti-Framework",
     "id": "Mirascope/mirascope",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 1528,
     "updated_at": "2026-09-24T06:23:13Z",
     "url": "https://github.com/Mirascope/mirascope"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-24T07:44:19Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Cron scheduling for the DeepSeek Harness \u2014 bounded tasks with calendar & interval rules, delivered to live agents",
-    "id": "fan56/dsh-cron",
-    "language": "TypeScript",
-    "name": "fan56/dsh-cron",
-    "stars": 0,
-    "updated_at": "2026-09-24T06:15:26Z",
-    "url": "https://github.com/fan56/dsh-cron"
-  },
-  {
-    "description": "\u603b\u7ed3Prompt&LLM\u8bba\u6587\uff0c\u5f00\u6e90\u6570\u636e&\u6a21\u578b\uff0cAIGC\u5e94\u7528",
-    "id": "DSXiangLi/DecryptPrompt",
-    "language": "\u2014",
-    "name": "DSXiangLi/DecryptPrompt",
-    "stars": 3441,
-    "updated_at": "2026-09-24T06:09:33Z",
-    "url": "https://github.com/DSXiangLi/DecryptPrompt"
   }
 ]
