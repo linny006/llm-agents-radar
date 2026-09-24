@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-24 21:45 UTC
+> ⏰ Last updated: 2026-09-24 21:47 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [brutal-45/Nexus-LLM](https://github.com/brutal-45/Nexus-LLM) | 0 | Python | 2026-09-24 | Nexus-LLM is LLM ai model which can run locally on your device. |
-| 2 | [Deborahwalkerz661/ComfyUI-FS_Audio_Suite](https://github.com/Deborahwalkerz661/ComfyUI-FS_Audio_Suite) | 0 | Python | 2026-09-24 | Generate rich YuE2 audio in ComfyUI with six modular nodes—hum-to-song, LoRA and adapter support—no stock nodes needed. |
-| 3 | [fawkesdx/ARPESskill](https://github.com/fawkesdx/ARPESskill) | 0 | — | 2026-09-24 | LLM agent skill for ARPES analysis with PyARPES (load, EDC/MDC, k/kz, near-EF) |
+| 1 | [fawkesdx/ARPESskill](https://github.com/fawkesdx/ARPESskill) | 0 | — | 2026-09-24 | LLM agent skill for ARPES analysis with PyARPES (load, EDC/MDC, k/kz, near-EF) |
+| 2 | [brutal-45/Nexus-LLM](https://github.com/brutal-45/Nexus-LLM) | 0 | Python | 2026-09-24 | Nexus-LLM is LLM ai model which can run locally on your device. |
+| 3 | [Deborahwalkerz661/ComfyUI-FS_Audio_Suite](https://github.com/Deborahwalkerz661/ComfyUI-FS_Audio_Suite) | 0 | Python | 2026-09-24 | Generate rich YuE2 audio in ComfyUI with six modular nodes—hum-to-song, LoRA and adapter support—no stock nodes needed. |
 | 4 | [Jadema5416/ComfyUI-DLSS5-Enhancer](https://github.com/Jadema5416/ComfyUI-DLSS5-Enhancer) | 0 | Python | 2026-09-24 | Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de |
 | 5 | [IdysisI/kern](https://github.com/IdysisI/kern) | 2 | Python | 2026-09-24 | A small Python harness that keeps an LLM coding agent on track: durable memory, a code graph, a live todo plan, and loop |
 | 6 | [lzmd-arch/BioSNN-Plug](https://github.com/lzmd-arch/BioSNN-Plug) | 2 | Python | 2026-09-24 | 脉冲神经网络认知原型：纯局部学习规则（无代理梯度）+ SNN 自主调度 LLM。Spiking neural network cognitive prototype — purely local learning rules (no sur |
@@ -58,7 +58,7 @@ expired items removed — so you can rely on what you see being current.
 | 14 | [Aureliedumbfounding630/agent-governance-toolkit](https://github.com/Aureliedumbfounding630/agent-governance-toolkit) | 0 | — | 2026-09-24 | Manage and monitor AI agents in production environments with tools for governance, safety, and compliance. |
 | 15 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 0 | TypeScript | 2026-09-24 | Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that  |
 | 16 | [randomvariablewhitepelican129/open_deep_research](https://github.com/randomvariablewhitepelican129/open_deep_research) | 0 | Python | 2026-09-24 | Build open source deep research agents using multiple models, search tools, and MCP servers. |
-| 17 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 8218 | Python | 2026-09-24 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 17 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 8219 | Python | 2026-09-24 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
 | 18 | [pruthviraj00007/VibeHarness](https://github.com/pruthviraj00007/VibeHarness) | 0 | Python | 2026-09-24 | Automate file management and coding tasks in your local directory using small language models. |
 | 19 | [Respiratorysyncytialviruscoliphage228/GPU-Fleet](https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet) | 0 | Go | 2026-09-24 | Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem |
 | 20 | [khudayarovich/onflip-agent](https://github.com/khudayarovich/onflip-agent) | 4 | TypeScript | 2026-09-24 | An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin |

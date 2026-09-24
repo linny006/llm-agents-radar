@@ -1,5 +1,14 @@
 [
   {
+    "description": "LLM agent skill for ARPES analysis with PyARPES (load, EDC/MDC, k/kz, near-EF)",
+    "id": "fawkesdx/ARPESskill",
+    "language": "\u2014",
+    "name": "fawkesdx/ARPESskill",
+    "stars": 0,
+    "updated_at": "2026-09-24T21:47:46Z",
+    "url": "https://github.com/fawkesdx/ARPESskill"
+  },
+  {
     "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
     "id": "brutal-45/Nexus-LLM",
     "language": "Python",
@@ -16,15 +25,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T21:35:25Z",
     "url": "https://github.com/Deborahwalkerz661/ComfyUI-FS_Audio_Suite"
-  },
-  {
-    "description": "LLM agent skill for ARPES analysis with PyARPES (load, EDC/MDC, k/kz, near-EF)",
-    "id": "fawkesdx/ARPESskill",
-    "language": "\u2014",
-    "name": "fawkesdx/ARPESskill",
-    "stars": 0,
-    "updated_at": "2026-09-24T21:35:21Z",
-    "url": "https://github.com/fawkesdx/ARPESskill"
   },
   {
     "description": "Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de",
@@ -148,7 +148,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 8218,
+    "stars": 8219,
     "updated_at": "2026-09-24T21:27:28Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
