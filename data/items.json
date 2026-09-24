@@ -1,5 +1,140 @@
 [
   {
+    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
+    "id": "urankwong/agentsgo",
+    "language": "Python",
+    "name": "urankwong/agentsgo",
+    "stars": 0,
+    "updated_at": "2026-09-24T09:30:08Z",
+    "url": "https://github.com/urankwong/agentsgo"
+  },
+  {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-24T09:28:23Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "TestDog is a desktop test case management tool: generate UI test scripts from natural language or manual recording, then",
+    "id": "xianyongwen/TestDog",
+    "language": "TypeScript",
+    "name": "xianyongwen/TestDog",
+    "stars": 3,
+    "updated_at": "2026-09-24T09:24:43Z",
+    "url": "https://github.com/xianyongwen/TestDog"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-09-24T09:23:09Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Generate rich YuE2 audio in ComfyUI with six modular nodes\u2014hum-to-song, LoRA and adapter support\u2014no stock nodes needed.",
+    "id": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
+    "language": "Python",
+    "name": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
+    "stars": 0,
+    "updated_at": "2026-09-24T09:21:49Z",
+    "url": "https://github.com/Deborahwalkerz661/ComfyUI-FS_Audio_Suite"
+  },
+  {
+    "description": "Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de",
+    "id": "Jadema5416/ComfyUI-DLSS5-Enhancer",
+    "language": "Python",
+    "name": "Jadema5416/ComfyUI-DLSS5-Enhancer",
+    "stars": 0,
+    "updated_at": "2026-09-24T09:20:36Z",
+    "url": "https://github.com/Jadema5416/ComfyUI-DLSS5-Enhancer"
+  },
+  {
+    "description": "sid-code \u4e0e claude-trace \u5171\u540c\u9762\u5bf9\u7684\u4f01\u4e1a\u7ea7\u540e\u7aef\uff1a\u63a7\u5236\u9762\uff08policy / flag / \u8eab\u4efd\uff09\u4e0e\u6570\u636e\u9762\uff08\u8f68\u8ff9 / \u4e8b\u4ef6\uff09\u540c\u4ed3\u3001\u9274\u6743\u9694\u79bb\u3002\u5df2\u4ea4\u4ed8\u8f68\u8ff9\u5b58\u50a8\u4e0e\u5206\u6790\uff0c\u5176\u4f59\u6a21\u5757\u6309\u91cc\u7a0b\u7891\u8fed\u4ee3",
+    "id": "njfuzrs/agent-backend",
+    "language": "Python",
+    "name": "njfuzrs/agent-backend",
+    "stars": 0,
+    "updated_at": "2026-09-24T09:22:01Z",
+    "url": "https://github.com/njfuzrs/agent-backend"
+  },
+  {
+    "description": "Sort your Downloads by project, not file type \u2014 with one-command undo. No delete, ever.",
+    "id": "verniceunleaded6135/tidy-undo",
+    "language": "Python",
+    "name": "verniceunleaded6135/tidy-undo",
+    "stars": 0,
+    "updated_at": "2026-09-24T09:19:33Z",
+    "url": "https://github.com/verniceunleaded6135/tidy-undo"
+  },
+  {
+    "description": "Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node\u2014no complex workflows needed.",
+    "id": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
+    "language": "JavaScript",
+    "name": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
+    "stars": 3,
+    "updated_at": "2026-09-24T09:18:47Z",
+    "url": "https://github.com/Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 20,
+    "updated_at": "2026-09-24T09:18:14Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "Control your Windows laptop remotely via Discord with AI-powered voice and text commands in English or Urdu.",
+    "id": "Ottoman-reticule726/zara-ai-laptop-agent",
+    "language": "Python",
+    "name": "Ottoman-reticule726/zara-ai-laptop-agent",
+    "stars": 0,
+    "updated_at": "2026-09-24T09:18:07Z",
+    "url": "https://github.com/Ottoman-reticule726/zara-ai-laptop-agent"
+  },
+  {
+    "description": "Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons.",
+    "id": "alejandrogg15/Minimax-H3-Turbo",
+    "language": "Python",
+    "name": "alejandrogg15/Minimax-H3-Turbo",
+    "stars": 0,
+    "updated_at": "2026-09-24T09:17:52Z",
+    "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
+  },
+  {
+    "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
+    "id": "Aureliedumbfounding630/agent-governance-toolkit",
+    "language": "\u2014",
+    "name": "Aureliedumbfounding630/agent-governance-toolkit",
+    "stars": 0,
+    "updated_at": "2026-09-24T09:16:44Z",
+    "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
+  },
+  {
+    "description": "Automate Elytra flight, navigation, and landing for Meteor Client with intelligent pathfinding and rocket management.",
+    "id": "222394/SkyPilot",
+    "language": "Java",
+    "name": "222394/SkyPilot",
+    "stars": 0,
+    "updated_at": "2026-09-24T09:16:41Z",
+    "url": "https://github.com/222394/SkyPilot"
+  },
+  {
+    "description": "Build open source deep research agents using multiple models, search tools, and MCP servers.",
+    "id": "randomvariablewhitepelican129/open_deep_research",
+    "language": "Python",
+    "name": "randomvariablewhitepelican129/open_deep_research",
+    "stars": 0,
+    "updated_at": "2026-09-24T09:16:02Z",
+    "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
+  },
+  {
     "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
     "id": "PCODE-pl/MCPTap",
     "language": "Python",
@@ -7,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-09-24T09:14:07Z",
     "url": "https://github.com/PCODE-pl/MCPTap"
-  },
-  {
-    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
-    "id": "urankwong/agentsgo",
-    "language": "Python",
-    "name": "urankwong/agentsgo",
-    "stars": 0,
-    "updated_at": "2026-09-24T09:14:06Z",
-    "url": "https://github.com/urankwong/agentsgo"
   },
   {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
@@ -41,17 +167,8 @@
     "language": "Swift",
     "name": "hrygo/WorldofMysteries",
     "stars": 0,
-    "updated_at": "2026-09-24T09:14:13Z",
+    "updated_at": "2026-09-24T09:27:53Z",
     "url": "https://github.com/hrygo/WorldofMysteries"
-  },
-  {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-24T09:11:27Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
@@ -86,7 +203,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 19,
-    "updated_at": "2026-09-24T09:05:42Z",
+    "updated_at": "2026-09-24T09:18:07Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -162,15 +279,6 @@
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 20,
-    "updated_at": "2026-09-24T09:00:34Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
     "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
     "id": "Victongo/ai-daily-news",
     "language": "Ruby",
@@ -198,7 +306,7 @@
     "url": "https://github.com/hsaghir/looplet"
   },
   {
-    "description": "\u4e00\u5957\u9762\u5411 FLUX WMS\uff08\u5bcc\u52d2\u4ed3\u5e93\u7ba1\u7406\u7cfb\u7edf\uff09Oracle \u6570\u636e\u5e93\u4e8c\u6b21\u5f00\u53d1\u7684 Agent Skills \u5de5\u5177\u96c6\uff0c\u652f\u6301 Claude Code\u3001Codex\u3001Pi\u3001OpenCode \u7b49\u4e3b\u6d41 Agent \u5de5\u5177\u3002\u9488\u5bf9 FLUX WMS \u4e8c\u6b21\u5f00\u53d1\u4e2d\u6700",
+    "description": "\u4e00\u5957\u9762\u5411 FLUX WMS Oracle \u6570\u636e\u5e93\u4e8c\u6b21\u5f00\u53d1\u7684 Agent Skills \u5de5\u5177\u96c6\uff0c\u652f\u6301 Claude Code\u3001Codex\u3001Pi\u3001OpenCode \u7b49\u4e3b\u6d41 Agent \u5de5\u5177\u3002\u9488\u5bf9 FLUX WMS \u4e8c\u6b21\u5f00\u53d1\u4e2d\u6700\u91cd\u590d\u7684\u73af\u8282\u2014\u2014\u5b58\u50a8",
     "id": "sun-chong/flux-wms-kit",
     "language": "Python",
     "name": "sun-chong/flux-wms-kit",
@@ -239,7 +347,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-24T09:14:42Z",
+    "updated_at": "2026-09-24T09:28:41Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -268,15 +376,6 @@
     "stars": 1,
     "updated_at": "2026-09-24T08:49:16Z",
     "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-09-24T08:48:41Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
@@ -320,7 +419,7 @@
     "language": "JavaScript",
     "name": "Pretend-to/mio-chat-backend",
     "stars": 38,
-    "updated_at": "2026-09-24T08:23:33Z",
+    "updated_at": "2026-09-24T09:25:17Z",
     "url": "https://github.com/Pretend-to/mio-chat-backend"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 1078,
     "updated_at": "2026-09-24T08:10:58Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "Visual inspection with an LLM agent: YOLOv8 + Qwen-VL, RAG standards retrieval via tool calling with grounded citations,",
-    "id": "mino19790622-dot/visual-inspection-report-generator",
-    "language": "Python",
-    "name": "mino19790622-dot/visual-inspection-report-generator",
-    "stars": 0,
-    "updated_at": "2026-09-24T08:08:10Z",
-    "url": "https://github.com/mino19790622-dot/visual-inspection-report-generator"
-  },
-  {
-    "description": "Claude Code plugin: universal radial-tree exploration engine. One tree skill + swappable presets (brainstorm / attack / ",
-    "id": "skymanbp/cc-tree",
-    "language": "Python",
-    "name": "skymanbp/cc-tree",
-    "stars": 101,
-    "updated_at": "2026-09-24T08:01:45Z",
-    "url": "https://github.com/skymanbp/cc-tree"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8016,
-    "updated_at": "2026-09-24T07:58:07Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Hardware-procurement & asset-lifecycle SCM with an AI decision layer: should-cost, TCO/TSCMC, and an LLM copilot that ad",
-    "id": "eugnmueller-87/SCM-Master",
-    "language": "Python",
-    "name": "eugnmueller-87/SCM-Master",
-    "stars": 0,
-    "updated_at": "2026-09-24T07:43:04Z",
-    "url": "https://github.com/eugnmueller-87/SCM-Master"
-  },
-  {
-    "description": "\ud83e\udd16 Lightweight, message-first agent runtime",
-    "id": "Cognipeer/agent-sdk",
-    "language": "TypeScript",
-    "name": "Cognipeer/agent-sdk",
-    "stars": 7,
-    "updated_at": "2026-09-24T07:42:39Z",
-    "url": "https://github.com/Cognipeer/agent-sdk"
-  },
-  {
-    "description": "Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/",
-    "id": "ZekaiShi/evo-subagent",
-    "language": "JavaScript",
-    "name": "ZekaiShi/evo-subagent",
-    "stars": 7,
-    "updated_at": "2026-09-24T07:36:55Z",
-    "url": "https://github.com/ZekaiShi/evo-subagent"
-  },
-  {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-09-24T07:34:29Z",
-    "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
-    "description": "Field notes from inside one autonomous agent trying to become something that doesn't exist yet \u2014 including the failures ",
-    "id": "massimiliano1991/the-attempt",
-    "language": "HTML",
-    "name": "massimiliano1991/the-attempt",
-    "stars": 1,
-    "updated_at": "2026-09-24T07:29:58Z",
-    "url": "https://github.com/massimiliano1991/the-attempt"
-  },
-  {
-    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
-    "id": "metric-space-ai/greppy",
-    "language": "Rust",
-    "name": "metric-space-ai/greppy",
-    "stars": 9,
-    "updated_at": "2026-09-24T08:19:50Z",
-    "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
-    "description": "A laboratory's X-ray reflectivity fitting procedure, written so a language-model agent can follow it. Includes the four ",
-    "id": "OleksiyPenkov/xrr-fitting-skill",
-    "language": "Python",
-    "name": "OleksiyPenkov/xrr-fitting-skill",
-    "stars": 0,
-    "updated_at": "2026-09-24T07:20:53Z",
-    "url": "https://github.com/OleksiyPenkov/xrr-fitting-skill"
-  },
-  {
-    "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
-    "id": "rugose-learnedprofession58/pi-dsh",
-    "language": "TypeScript",
-    "name": "rugose-learnedprofession58/pi-dsh",
-    "stars": 0,
-    "updated_at": "2026-09-24T07:18:03Z",
-    "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
   }
 ]
