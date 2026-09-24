@@ -1,5 +1,68 @@
 [
   {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 20,
+    "updated_at": "2026-09-24T18:23:41Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "\u628a\u751f\u6210\u5f0f\u4e16\u754c\u6a21\u578b\u7684\u975e\u7ed3\u6784\u5316\u5bfc\u51fa\u7269\u89e3\u6790\u4e3a\u53ef\u63a8\u7406\u7684\u5168\u5c40\u573a\u666f\u72b6\u6001\uff0c\u7531 LLM \u667a\u80fd\u4f53\u5b8c\u6210\u89c4\u5212\u8c03\u5ea6\uff1b\u542b 3 \u573a\u666f x 9 \u4e16\u754c x 3 \u6761\u4ef6\u7684\u5b8c\u6574\u5bf9\u7167\u5b9e\u9a8c\u4e0e\u91cf\u5316\u7ed3\u679c\u3002| State grounding + agent scheduling pipe",
+    "id": "powpow-TD/game-scene-agent-pipeline",
+    "language": "Python",
+    "name": "powpow-TD/game-scene-agent-pipeline",
+    "stars": 0,
+    "updated_at": "2026-09-24T18:21:53Z",
+    "url": "https://github.com/powpow-TD/game-scene-agent-pipeline"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 0,
+    "updated_at": "2026-09-24T18:20:03Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "You bring the model. Basilisk gives it hands, a workspace, a memory, and a leash you hold.  Most assistants stop at the ",
+    "id": "the-priest/PriestsBasilisk",
+    "language": "Python",
+    "name": "the-priest/PriestsBasilisk",
+    "stars": 4,
+    "updated_at": "2026-09-24T18:19:05Z",
+    "url": "https://github.com/the-priest/PriestsBasilisk"
+  },
+  {
+    "description": "Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into",
+    "id": "AskTheWay/dsh-auto-memory",
+    "language": "TypeScript",
+    "name": "AskTheWay/dsh-auto-memory",
+    "stars": 1,
+    "updated_at": "2026-09-24T18:18:34Z",
+    "url": "https://github.com/AskTheWay/dsh-auto-memory"
+  },
+  {
+    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
+    "id": "PCODE-pl/MCPTap",
+    "language": "Python",
+    "name": "PCODE-pl/MCPTap",
+    "stars": 1,
+    "updated_at": "2026-09-24T18:18:05Z",
+    "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
+    "description": "Custom AWS Transform agent that migrates PyTorch/Triton kernels to AWS Trainium NKI (@nki.jit) and compiles, numerically",
+    "id": "aws-samples/sample-ATX-custom-NKI-Agent",
+    "language": "Python",
+    "name": "aws-samples/sample-ATX-custom-NKI-Agent",
+    "stars": 4,
+    "updated_at": "2026-09-24T18:17:00Z",
+    "url": "https://github.com/aws-samples/sample-ATX-custom-NKI-Agent"
+  },
+  {
     "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
     "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
     "language": "JavaScript",
@@ -27,15 +90,6 @@
     "url": "https://github.com/0yman/ask-your-data"
   },
   {
-    "description": "Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into",
-    "id": "AskTheWay/dsh-auto-memory",
-    "language": "TypeScript",
-    "name": "AskTheWay/dsh-auto-memory",
-    "stars": 1,
-    "updated_at": "2026-09-24T18:08:24Z",
-    "url": "https://github.com/AskTheWay/dsh-auto-memory"
-  },
-  {
     "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
     "id": "amemhq/amem",
     "language": "TypeScript",
@@ -43,15 +97,6 @@
     "stars": 3,
     "updated_at": "2026-09-24T18:08:48Z",
     "url": "https://github.com/amemhq/amem"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 20,
-    "updated_at": "2026-09-24T18:07:48Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
     "description": "Open Source Desktop AI Agent Runtime - LLM, MCP, Voice Runtime, and local/cloud models wired into one PyQt6 desktop agen",
@@ -77,7 +122,7 @@
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 216,
-    "updated_at": "2026-09-24T18:04:44Z",
+    "updated_at": "2026-09-24T18:22:09Z",
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
@@ -94,7 +139,7 @@
     "id": "lzmd-arch/BioSNN-Plug",
     "language": "Python",
     "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-09-24T18:00:08Z",
     "url": "https://github.com/lzmd-arch/BioSNN-Plug"
   },
@@ -103,7 +148,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 8175,
+    "stars": 8176,
     "updated_at": "2026-09-24T17:57:53Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -113,7 +158,7 @@
     "language": "Go",
     "name": "peder1981/AdvPP",
     "stars": 2,
-    "updated_at": "2026-09-24T18:08:58Z",
+    "updated_at": "2026-09-24T18:19:10Z",
     "url": "https://github.com/peder1981/AdvPP"
   },
   {
@@ -135,15 +180,6 @@
     "url": "https://github.com/urankwong/agentsgo"
   },
   {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-09-24T17:44:06Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
-  },
-  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
@@ -158,7 +194,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 8,
-    "updated_at": "2026-09-24T17:35:56Z",
+    "updated_at": "2026-09-24T18:21:10Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-24T17:02:43Z",
     "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 0,
-    "updated_at": "2026-09-24T17:02:25Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-24T17:01:00Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 3,
-    "updated_at": "2026-09-24T16:59:40Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-09-24T16:59:36Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
   }
 ]
