@@ -1,5 +1,32 @@
 [
   {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 7,
+    "updated_at": "2026-09-24T05:44:47Z",
+    "url": "https://github.com/alex8224/synapse-agent"
+  },
+  {
+    "description": "\ubc18\ub824\uacac \uc0c1\ub2f4 \uc624\ucf00\uc2a4\ud2b8\ub808\uc774\ud130 \u2014 \uadfc\uac70 RAG\uc640 \ud53c\ubd80 \uc2a4\ud06c\ub9ac\ub2dd \ubaa8\ub378\uc744 MCP \uc11c\ube0c\uc5d0\uc774\uc804\ud2b8\ub85c \ub450\uace0, \ubaa8\ub378\uc774 \ub9d0\ud574\ub3c4 \ub418\ub294 \uac83\uc744 \ucf54\ub4dc\uac00 \uc815\ud55c\ub2e4 (MCP \u00b7 tool calling \u00b7 \uacb0\uc815\ub860\uc801 \uc548\uc804 \uac8c\uc774\ud2b8)",
+    "id": "gayeoniee/dog-care-agent",
+    "language": "Python",
+    "name": "gayeoniee/dog-care-agent",
+    "stars": 0,
+    "updated_at": "2026-09-24T05:43:15Z",
+    "url": "https://github.com/gayeoniee/dog-care-agent"
+  },
+  {
+    "description": "Field notes from inside one autonomous agent trying to become something that doesn't exist yet \u2014 including the failures ",
+    "id": "massimiliano1991/the-attempt",
+    "language": "HTML",
+    "name": "massimiliano1991/the-attempt",
+    "stars": 1,
+    "updated_at": "2026-09-24T05:41:54Z",
+    "url": "https://github.com/massimiliano1991/the-attempt"
+  },
+  {
     "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
     "id": "zty522/partner",
     "language": "Python",
@@ -239,7 +266,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 8,
-    "updated_at": "2026-09-24T05:15:56Z",
+    "updated_at": "2026-09-24T05:42:23Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -374,7 +401,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-24T05:14:36Z",
+    "updated_at": "2026-09-24T05:40:25Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 340,
     "updated_at": "2026-09-24T04:00:25Z",
     "url": "https://github.com/monocle2ai/monocle"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-24T03:56:32Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "\u300a\u8be1\u79d8\u4e16\u754c\u300b\u00b7 World of Mysteries \u2014 \u672c\u5730\u4f18\u5148\u7684\u5355\u4eba\u6301\u4e45\u4e16\u754c\u6f14\u7ece\u5e94\u7528\uff1aSwiftUI macOS 26+ \u5ba2\u6237\u7aef + \u72ec\u7acb Local Engine\uff08Python 3.14 + AgentScope 2.0.8\uff09+ SQ",
-    "id": "hrygo/WorldofMysteries",
-    "language": "Swift",
-    "name": "hrygo/WorldofMysteries",
-    "stars": 0,
-    "updated_at": "2026-09-24T04:05:33Z",
-    "url": "https://github.com/hrygo/WorldofMysteries"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 6044,
-    "updated_at": "2026-09-24T03:43:55Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
   }
 ]
