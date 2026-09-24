@@ -1,12 +1,39 @@
 [
   {
+    "description": "Open-source financial research agent whose false-positive rate is measured, not assumed. Permutation tests, multiple-tes",
+    "id": "jordanahern2009-svg/Tokio-ai",
+    "language": "Python",
+    "name": "jordanahern2009-svg/Tokio-ai",
+    "stars": 2,
+    "updated_at": "2026-09-24T16:26:24Z",
+    "url": "https://github.com/jordanahern2009-svg/Tokio-ai"
+  },
+  {
     "description": "\u628a\u751f\u6210\u5f0f\u4e16\u754c\u6a21\u578b\u7684\u975e\u7ed3\u6784\u5316\u5bfc\u51fa\u7269\u89e3\u6790\u4e3a\u53ef\u63a8\u7406\u7684\u5168\u5c40\u573a\u666f\u72b6\u6001\uff0c\u7531 LLM \u667a\u80fd\u4f53\u5b8c\u6210\u89c4\u5212\u8c03\u5ea6\uff1b\u542b 3 \u573a\u666f x 9 \u4e16\u754c x 3 \u6761\u4ef6\u7684\u5b8c\u6574\u5bf9\u7167\u5b9e\u9a8c\u4e0e\u91cf\u5316\u7ed3\u679c\u3002| State grounding + agent scheduling pipe",
     "id": "powpow-TD/game-scene-agent-pipeline",
     "language": "Python",
     "name": "powpow-TD/game-scene-agent-pipeline",
     "stars": 0,
-    "updated_at": "2026-09-24T16:14:57Z",
+    "updated_at": "2026-09-24T16:25:54Z",
     "url": "https://github.com/powpow-TD/game-scene-agent-pipeline"
+  },
+  {
+    "description": "Open Source Desktop AI Agent Runtime - LLM, MCP, Voice Runtime, and local/cloud models wired into one PyQt6 desktop agen",
+    "id": "kwakminoo/Project-IRIS-Light",
+    "language": "Python",
+    "name": "kwakminoo/Project-IRIS-Light",
+    "stars": 3,
+    "updated_at": "2026-09-24T16:23:21Z",
+    "url": "https://github.com/kwakminoo/Project-IRIS-Light"
+  },
+  {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-24T16:15:56Z",
+    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 274,
-    "updated_at": "2026-09-24T16:13:51Z",
+    "updated_at": "2026-09-24T16:27:52Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
@@ -169,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-09-24T15:23:50Z",
     "url": "https://github.com/PCODE-pl/MCPTap"
-  },
-  {
-    "description": "Open-source financial research agent whose false-positive rate is measured, not assumed. Permutation tests, multiple-tes",
-    "id": "jordanahern2009-svg/Tokio-ai",
-    "language": "Python",
-    "name": "jordanahern2009-svg/Tokio-ai",
-    "stars": 2,
-    "updated_at": "2026-09-24T15:22:27Z",
-    "url": "https://github.com/jordanahern2009-svg/Tokio-ai"
   },
   {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
@@ -382,7 +400,7 @@
     "id": "rekursiv-ai/sagent",
     "language": "Python",
     "name": "rekursiv-ai/sagent",
-    "stars": 65,
+    "stars": 66,
     "updated_at": "2026-09-24T14:54:47Z",
     "url": "https://github.com/rekursiv-ai/sagent"
   },
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-24T14:50:09Z",
     "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 128,
-    "updated_at": "2026-09-24T14:49:29Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-09-24T14:48:55Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
   }
 ]
