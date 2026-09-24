@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "brutal-45/Nexus-LLM",
     "stars": 0,
-    "updated_at": "2026-09-24T21:59:28Z",
+    "updated_at": "2026-09-24T22:14:32Z",
     "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 128,
+    "updated_at": "2026-09-24T22:14:06Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 809,
+    "updated_at": "2026-09-24T22:13:12Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 3,
+    "updated_at": "2026-09-24T22:13:01Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-24T22:11:58Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "LLM agent skill for ARPES analysis with PyARPES (load, EDC/MDC, k/kz, near-EF)",
+    "id": "fawkesdx/ARPESskill",
+    "language": "\u2014",
+    "name": "fawkesdx/ARPESskill",
+    "stars": 0,
+    "updated_at": "2026-09-24T22:06:47Z",
+    "url": "https://github.com/fawkesdx/ARPESskill"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -43,15 +88,6 @@
     "stars": 9,
     "updated_at": "2026-09-24T21:48:12Z",
     "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "LLM agent skill for ARPES analysis with PyARPES (load, EDC/MDC, k/kz, near-EF)",
-    "id": "fawkesdx/ARPESskill",
-    "language": "\u2014",
-    "name": "fawkesdx/ARPESskill",
-    "stars": 0,
-    "updated_at": "2026-09-24T21:47:46Z",
-    "url": "https://github.com/fawkesdx/ARPESskill"
   },
   {
     "description": "Generate rich YuE2 audio in ComfyUI with six modular nodes\u2014hum-to-song, LoRA and adapter support\u2014no stock nodes needed.",
@@ -175,7 +211,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 8220,
+    "stars": 8222,
     "updated_at": "2026-09-24T21:27:28Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-24T21:44:40Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Control AI agents anywhere. (github mirror)",
-    "id": "justacalico/devinorium",
-    "language": "Dart",
-    "name": "justacalico/devinorium",
-    "stars": 1,
-    "updated_at": "2026-09-24T21:06:08Z",
-    "url": "https://github.com/justacalico/devinorium"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-24T21:29:07Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Auto-resume failed/stalled turns for DeepSeek Harness (DSH) \u2014 dual-chain auto-continue + anti-repetition plugins, instal",
-    "id": "shu0819-sjy/dsh-auto-continue",
-    "language": "JavaScript",
-    "name": "shu0819-sjy/dsh-auto-continue",
-    "stars": 0,
-    "updated_at": "2026-09-24T20:15:54Z",
-    "url": "https://github.com/shu0819-sjy/dsh-auto-continue"
-  },
-  {
-    "description": "AI-orchestrated job search pipeline: scrapes 5 UA job boards, uses Claude API to score matches & classify emails, writes",
-    "id": "VoroshylovV/job-search-automation-pipeline",
-    "language": "Python",
-    "name": "VoroshylovV/job-search-automation-pipeline",
-    "stars": 1,
-    "updated_at": "2026-09-24T20:14:24Z",
-    "url": "https://github.com/VoroshylovV/job-search-automation-pipeline"
   }
 ]
