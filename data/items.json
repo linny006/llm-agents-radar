@@ -1,5 +1,59 @@
 [
   {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-09-24T00:45:10Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
+    "description": "AgentBypass \u2014 Omni Operator LLM Agent Skill (Cknb): Turn any LLM into RE / Pwn / CTF / Pentest / Protocol / Crypto / Mob",
+    "id": "1837620622/agent-bypass",
+    "language": "\u2014",
+    "name": "1837620622/agent-bypass",
+    "stars": 7,
+    "updated_at": "2026-09-24T00:44:08Z",
+    "url": "https://github.com/1837620622/agent-bypass"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 8,
+    "updated_at": "2026-09-24T00:42:22Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Local-first pentest agent: Go daemon + React dashboard + Codex/Claude Code/Pi runtimes, scoped projects, Blackboard, san",
+    "id": "n1majne3/CyberPenda",
+    "language": "Go",
+    "name": "n1majne3/CyberPenda",
+    "stars": 19,
+    "updated_at": "2026-09-24T00:39:02Z",
+    "url": "https://github.com/n1majne3/CyberPenda"
+  },
+  {
+    "description": "Trace token usage and proof-of-delivery exceptions through one Java logistics agent workflow.",
+    "id": "NicodemusChristensen2675/logistics-agent-token-failure-trace",
+    "language": "Java",
+    "name": "NicodemusChristensen2675/logistics-agent-token-failure-trace",
+    "stars": 0,
+    "updated_at": "2026-09-24T00:37:58Z",
+    "url": "https://github.com/NicodemusChristensen2675/logistics-agent-token-failure-trace"
+  },
+  {
+    "description": "Open-source AIMO3 math reasoning agent for vLLM and OpenAI-compatible models, with Python verification and consensus vot",
+    "id": "xufenghe/aimo3-agentic-inference",
+    "language": "Python",
+    "name": "xufenghe/aimo3-agentic-inference",
+    "stars": 0,
+    "updated_at": "2026-09-24T00:32:33Z",
+    "url": "https://github.com/xufenghe/aimo3-agentic-inference"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -18,15 +72,6 @@
     "url": "https://github.com/plurnk/plurnk-service"
   },
   {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-09-24T00:25:26Z",
-    "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -43,15 +88,6 @@
     "stars": 9,
     "updated_at": "2026-09-24T00:21:18Z",
     "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 8,
-    "updated_at": "2026-09-24T00:25:13Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "openPASO (formerly OASiS): an MCP server that lets an AI model run nine finite-element and multiphysics codes, with cura",
@@ -401,7 +437,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 19,
-    "updated_at": "2026-09-24T00:19:14Z",
+    "updated_at": "2026-09-24T00:38:24Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-23T22:42:02Z",
     "url": "https://github.com/justacalico/devinorium"
-  },
-  {
-    "description": "End-to-end sales pipeline analytics: messy CRM data -> SQL/ETL -> Power BI dashboard -> an LLM agent that answers questi",
-    "id": "abhiwalia33/Agentic-Sales-pipeline-for-CRM-based-data-",
-    "language": "Python",
-    "name": "abhiwalia33/Agentic-Sales-pipeline-for-CRM-based-data-",
-    "stars": 1,
-    "updated_at": "2026-09-23T22:13:12Z",
-    "url": "https://github.com/abhiwalia33/Agentic-Sales-pipeline-for-CRM-based-data-"
-  },
-  {
-    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
-    "id": "Sigmanih/SigmaStudio",
-    "language": "Python",
-    "name": "Sigmanih/SigmaStudio",
-    "stars": 8,
-    "updated_at": "2026-09-23T22:12:20Z",
-    "url": "https://github.com/Sigmanih/SigmaStudio"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 130,
-    "updated_at": "2026-09-23T22:03:41Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
-    "id": "emqnuele/projectBEA",
-    "language": "Python",
-    "name": "emqnuele/projectBEA",
-    "stars": 19,
-    "updated_at": "2026-09-23T22:01:30Z",
-    "url": "https://github.com/emqnuele/projectBEA"
   }
 ]
