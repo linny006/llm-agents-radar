@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "brutal-45/Nexus-LLM",
     "stars": 0,
-    "updated_at": "2026-09-24T19:43:45Z",
+    "updated_at": "2026-09-24T19:58:49Z",
     "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "Ask your data questions in plain English. A LangGraph agent writes the SQL, runs pandas, draws the charts and checks its",
+    "id": "asadaslam556/prism-data-agent",
+    "language": "Python",
+    "name": "asadaslam556/prism-data-agent",
+    "stars": 0,
+    "updated_at": "2026-09-24T19:56:59Z",
+    "url": "https://github.com/asadaslam556/prism-data-agent"
+  },
+  {
+    "description": "cluesh is an AI agent that turns a natural-language demand into one copy-paste-ready bash command, explained flag by fla",
+    "id": "dbedla/cluesh",
+    "language": "Go",
+    "name": "dbedla/cluesh",
+    "stars": 0,
+    "updated_at": "2026-09-24T19:58:17Z",
+    "url": "https://github.com/dbedla/cluesh"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-09-24T19:49:28Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "DrugPath - an AI agent over a biomedical knowledge graph (Hetionet on Neo4j Aura) that explains drug mechanisms, interac",
+    "id": "qualv13/neo4j-agent",
+    "language": "Python",
+    "name": "qualv13/neo4j-agent",
+    "stars": 0,
+    "updated_at": "2026-09-24T19:46:41Z",
+    "url": "https://github.com/qualv13/neo4j-agent"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -22,7 +58,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 8194,
+    "stars": 8197,
     "updated_at": "2026-09-24T19:38:52Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -34,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T19:31:19Z",
     "url": "https://github.com/eugnmueller-87/SCM-Master"
-  },
-  {
-    "description": "cluesh is an AI agent that turns a natural-language demand into one copy-paste-ready bash command, explained flag by fla",
-    "id": "dbedla/cluesh",
-    "language": "Go",
-    "name": "dbedla/cluesh",
-    "stars": 0,
-    "updated_at": "2026-09-24T19:30:03Z",
-    "url": "https://github.com/dbedla/cluesh"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -351,15 +378,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-09-24T18:49:00Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
     "id": "hasting323/AutoGLM-For-Android",
     "language": "Kotlin",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-24T18:35:55Z",
     "url": "https://github.com/PCODE-pl/MCPTap"
-  },
-  {
-    "description": "\u628a\u751f\u6210\u5f0f\u4e16\u754c\u6a21\u578b\u7684\u975e\u7ed3\u6784\u5316\u5bfc\u51fa\u7269\u89e3\u6790\u4e3a\u53ef\u63a8\u7406\u7684\u5168\u5c40\u573a\u666f\u72b6\u6001\uff0c\u7531 LLM \u667a\u80fd\u4f53\u5b8c\u6210\u89c4\u5212\u8c03\u5ea6\uff1b\u542b 3 \u573a\u666f x 9 \u4e16\u754c x 3 \u6761\u4ef6\u7684\u5b8c\u6574\u5bf9\u7167\u5b9e\u9a8c\u4e0e\u91cf\u5316\u7ed3\u679c\u3002| State grounding + agent scheduling pipe",
-    "id": "powpow-TD/game-scene-agent-pipeline",
-    "language": "Python",
-    "name": "powpow-TD/game-scene-agent-pipeline",
-    "stars": 0,
-    "updated_at": "2026-09-24T18:21:53Z",
-    "url": "https://github.com/powpow-TD/game-scene-agent-pipeline"
-  },
-  {
-    "description": "You bring the model. Basilisk gives it hands, a workspace, a memory, and a leash you hold.  Most assistants stop at the ",
-    "id": "the-priest/PriestsBasilisk",
-    "language": "Python",
-    "name": "the-priest/PriestsBasilisk",
-    "stars": 4,
-    "updated_at": "2026-09-24T18:19:05Z",
-    "url": "https://github.com/the-priest/PriestsBasilisk"
   }
 ]
