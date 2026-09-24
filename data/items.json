@@ -5,8 +5,35 @@
     "language": "TypeScript",
     "name": "plurnk/plurnk-service",
     "stars": 0,
-    "updated_at": "2026-09-24T03:59:34Z",
+    "updated_at": "2026-09-24T04:11:59Z",
     "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 8,
+    "updated_at": "2026-09-24T04:13:40Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 49,
+    "updated_at": "2026-09-24T04:09:11Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
+    "id": "monocle2ai/monocle",
+    "language": "Python",
+    "name": "monocle2ai/monocle",
+    "stars": 340,
+    "updated_at": "2026-09-24T04:00:25Z",
+    "url": "https://github.com/monocle2ai/monocle"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -23,7 +50,7 @@
     "language": "Swift",
     "name": "hrygo/WorldofMysteries",
     "stars": 0,
-    "updated_at": "2026-09-24T03:58:05Z",
+    "updated_at": "2026-09-24T04:05:33Z",
     "url": "https://github.com/hrygo/WorldofMysteries"
   },
   {
@@ -31,7 +58,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 6043,
+    "stars": 6044,
     "updated_at": "2026-09-24T03:43:55Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -59,7 +86,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-24T03:33:01Z",
+    "updated_at": "2026-09-24T04:07:12Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -70,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T03:32:46Z",
     "url": "https://github.com/urankwong/agentsgo"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 8,
-    "updated_at": "2026-09-24T03:57:44Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
@@ -131,7 +149,7 @@
     "language": "Python",
     "name": "rekursiv-ai/sagent",
     "stars": 56,
-    "updated_at": "2026-09-24T03:26:22Z",
+    "updated_at": "2026-09-24T04:12:15Z",
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 274,
     "updated_at": "2026-09-24T02:33:35Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 717,
-    "updated_at": "2026-09-24T02:31:01Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
-    "id": "agentscope-ai/agentscope-go",
-    "language": "Go",
-    "name": "agentscope-ai/agentscope-go",
-    "stars": 45,
-    "updated_at": "2026-09-24T02:25:44Z",
-    "url": "https://github.com/agentscope-ai/agentscope-go"
   }
 ]
