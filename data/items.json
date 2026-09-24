@@ -1,5 +1,59 @@
 [
   {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 6043,
+    "updated_at": "2026-09-24T03:43:55Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "ReAct Agent memory management & evaluation platform: budgeted memory selection, SQLite long-term memory, HITL approval, ",
+    "id": "Mitty-Guang/miniagent-memory-lab",
+    "language": "Python",
+    "name": "Mitty-Guang/miniagent-memory-lab",
+    "stars": 0,
+    "updated_at": "2026-09-24T03:43:40Z",
+    "url": "https://github.com/Mitty-Guang/miniagent-memory-lab"
+  },
+  {
+    "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
+    "id": "ximing/vital",
+    "language": "TypeScript",
+    "name": "ximing/vital",
+    "stars": 1,
+    "updated_at": "2026-09-24T03:37:54Z",
+    "url": "https://github.com/ximing/vital"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-24T03:33:01Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
+    "id": "urankwong/agentsgo",
+    "language": "Python",
+    "name": "urankwong/agentsgo",
+    "stars": 0,
+    "updated_at": "2026-09-24T03:32:46Z",
+    "url": "https://github.com/urankwong/agentsgo"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 8,
+    "updated_at": "2026-09-24T03:41:08Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
     "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
     "id": "rugose-learnedprofession58/pi-dsh",
     "language": "TypeScript",
@@ -23,7 +77,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-09-24T03:28:37Z",
+    "updated_at": "2026-09-24T03:40:25Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -54,15 +108,6 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 8,
-    "updated_at": "2026-09-24T03:26:44Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
     "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
     "id": "bettersilvanus849/inner-coordinates",
     "language": "Shell",
@@ -77,7 +122,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 19,
-    "updated_at": "2026-09-24T03:25:36Z",
+    "updated_at": "2026-09-24T03:36:40Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -95,7 +140,7 @@
     "language": "Python",
     "name": "njfuzrs/agent-backend",
     "stars": 0,
-    "updated_at": "2026-09-24T03:23:38Z",
+    "updated_at": "2026-09-24T03:41:02Z",
     "url": "https://github.com/njfuzrs/agent-backend"
   },
   {
@@ -171,15 +216,6 @@
     "url": "https://github.com/strobilevitellus470/argus-ai"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-24T03:15:37Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
     "id": "juandavidru4641/dsplab",
     "language": "JavaScript",
@@ -250,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-09-24T03:06:58Z",
     "url": "https://github.com/muhzars/Agent.cpp"
-  },
-  {
-    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
-    "id": "urankwong/agentsgo",
-    "language": "Python",
-    "name": "urankwong/agentsgo",
-    "stars": 0,
-    "updated_at": "2026-09-24T03:06:38Z",
-    "url": "https://github.com/urankwong/agentsgo"
   },
   {
     "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
@@ -337,7 +364,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 32265,
+    "stars": 32267,
     "updated_at": "2026-09-24T02:49:12Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-24T02:20:53Z",
     "url": "https://github.com/massimiliano1991/the-attempt"
-  },
-  {
-    "description": "A lightweight LLM inference and tool-calling agent system with KV cache experiments.",
-    "id": "FengHannnn/Miniserve",
-    "language": "Python",
-    "name": "FengHannnn/Miniserve",
-    "stars": 1,
-    "updated_at": "2026-09-24T02:17:09Z",
-    "url": "https://github.com/FengHannnn/Miniserve"
-  },
-  {
-    "description": "A diagnostic agent for ABB drive manuals \u2014 hybrid retrieval, LangGraph orchestration, and a local LLM that can't invent ",
-    "id": "liladhar1234/RAG_Industrial_diagnostic_Agent",
-    "language": "Python",
-    "name": "liladhar1234/RAG_Industrial_diagnostic_Agent",
-    "stars": 0,
-    "updated_at": "2026-09-24T02:14:09Z",
-    "url": "https://github.com/liladhar1234/RAG_Industrial_diagnostic_Agent"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-09-24T02:09:44Z",
-    "url": "https://github.com/g761007/daily-dispatch"
   }
 ]
