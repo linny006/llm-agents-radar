@@ -1,11 +1,38 @@
 [
   {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-24T06:27:30Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
+    "id": "urankwong/agentsgo",
+    "language": "Python",
+    "name": "urankwong/agentsgo",
+    "stars": 0,
+    "updated_at": "2026-09-24T06:24:58Z",
+    "url": "https://github.com/urankwong/agentsgo"
+  },
+  {
+    "description": "The LLM Anti-Framework",
+    "id": "Mirascope/mirascope",
+    "language": "Python",
+    "name": "Mirascope/mirascope",
+    "stars": 1528,
+    "updated_at": "2026-09-24T06:23:13Z",
+    "url": "https://github.com/Mirascope/mirascope"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-24T06:15:06Z",
+    "updated_at": "2026-09-24T06:26:39Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -23,7 +50,7 @@
     "language": "TypeScript",
     "name": "fan56/dsh-cron",
     "stars": 0,
-    "updated_at": "2026-09-24T06:10:10Z",
+    "updated_at": "2026-09-24T06:15:26Z",
     "url": "https://github.com/fan56/dsh-cron"
   },
   {
@@ -31,7 +58,7 @@
     "id": "DSXiangLi/DecryptPrompt",
     "language": "\u2014",
     "name": "DSXiangLi/DecryptPrompt",
-    "stars": 3440,
+    "stars": 3441,
     "updated_at": "2026-09-24T06:09:33Z",
     "url": "https://github.com/DSXiangLi/DecryptPrompt"
   },
@@ -43,6 +70,15 @@
     "stars": 6,
     "updated_at": "2026-09-24T06:09:12Z",
     "url": "https://github.com/Maximooch/penguin"
+  },
+  {
+    "description": "\u4e00\u5957\u9762\u5411 FLUX WMS\uff08\u5bcc\u52d2\u4ed3\u5e93\u7ba1\u7406\u7cfb\u7edf\uff09Oracle \u6570\u636e\u5e93\u4e8c\u6b21\u5f00\u53d1\u7684 Agent Skills \u5de5\u5177\u96c6\uff0c\u652f\u6301 Claude Code\u3001Codex\u3001Pi\u3001OpenCode \u7b49\u4e3b\u6d41 Agent \u5de5\u5177\u3002\u9488\u5bf9 FLUX WMS \u4e8c\u6b21\u5f00\u53d1\u4e2d\u6700",
+    "id": "sun-chong/flux-wms-kit",
+    "language": "Python",
+    "name": "sun-chong/flux-wms-kit",
+    "stars": 0,
+    "updated_at": "2026-09-24T06:08:24Z",
+    "url": "https://github.com/sun-chong/flux-wms-kit"
   },
   {
     "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
@@ -68,7 +104,7 @@
     "language": "Rust",
     "name": "citizenhicks/mobius",
     "stars": 1,
-    "updated_at": "2026-09-24T06:02:54Z",
+    "updated_at": "2026-09-24T06:30:15Z",
     "url": "https://github.com/citizenhicks/mobius"
   },
   {
@@ -115,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T05:45:25Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-24T05:45:16Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "\ubc18\ub824\uacac \uc0c1\ub2f4 \uc624\ucf00\uc2a4\ud2b8\ub808\uc774\ud130 \u2014 \uadfc\uac70 RAG\uc640 \ud53c\ubd80 \uc2a4\ud06c\ub9ac\ub2dd \ubaa8\ub378\uc744 MCP \uc11c\ube0c\uc5d0\uc774\uc804\ud2b8\ub85c \ub450\uace0, \ubaa8\ub378\uc774 \ub9d0\ud574\ub3c4 \ub418\ub294 \uac83\uc744 \ucf54\ub4dc\uac00 \uc815\ud55c\ub2e4 (MCP \u00b7 tool calling \u00b7 \uacb0\uc815\ub860\uc801 \uc548\uc804 \uac8c\uc774\ud2b8)",
@@ -223,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T05:19:57Z",
     "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
-  },
-  {
-    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
-    "id": "urankwong/agentsgo",
-    "language": "Python",
-    "name": "urankwong/agentsgo",
-    "stars": 0,
-    "updated_at": "2026-09-24T05:18:46Z",
-    "url": "https://github.com/urankwong/agentsgo"
   },
   {
     "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-24T04:58:07Z",
     "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 0,
-    "updated_at": "2026-09-24T04:57:01Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-09-24T04:51:36Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
   }
 ]
