@@ -1,5 +1,77 @@
 [
   {
+    "description": "Build an AI Coding Agent from Scratch, Step by Step | \u4ece\u96f6\u4e00\u6b65\u6b65\u642d\u5efa AI \u7f16\u7a0b Agent\uff0c\u8fb9\u5b9e\u73b0\u8fb9\u7406\u89e3 Agent \u7684\u5de5\u4f5c\u539f\u7406",
+    "id": "liiiiiiiiil/agent-from-scratch",
+    "language": "Python",
+    "name": "liiiiiiiiil/agent-from-scratch",
+    "stars": 87,
+    "updated_at": "2026-09-24T08:12:44Z",
+    "url": "https://github.com/liiiiiiiiil/agent-from-scratch"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 19,
+    "updated_at": "2026-09-24T08:11:10Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 1078,
+    "updated_at": "2026-09-24T08:10:58Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-24T08:10:01Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Visual inspection with an LLM agent: YOLOv8 + Qwen-VL, RAG standards retrieval via tool calling with grounded citations,",
+    "id": "mino19790622-dot/visual-inspection-report-generator",
+    "language": "Python",
+    "name": "mino19790622-dot/visual-inspection-report-generator",
+    "stars": 0,
+    "updated_at": "2026-09-24T08:08:10Z",
+    "url": "https://github.com/mino19790622-dot/visual-inspection-report-generator"
+  },
+  {
+    "description": "Cron scheduling for the DeepSeek Harness \u2014 bounded tasks with calendar & interval rules, delivered to live agents",
+    "id": "fan56/dsh-cron",
+    "language": "TypeScript",
+    "name": "fan56/dsh-cron",
+    "stars": 0,
+    "updated_at": "2026-09-24T08:05:56Z",
+    "url": "https://github.com/fan56/dsh-cron"
+  },
+  {
+    "description": "Claude Code plugin: universal radial-tree exploration engine. One tree skill + swappable presets (brainstorm / attack / ",
+    "id": "skymanbp/cc-tree",
+    "language": "Python",
+    "name": "skymanbp/cc-tree",
+    "stars": 101,
+    "updated_at": "2026-09-24T08:01:45Z",
+    "url": "https://github.com/skymanbp/cc-tree"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-24T08:00:58Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
     "id": "urankwong/agentsgo",
     "language": "Python",
@@ -13,45 +85,9 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7993,
+    "stars": 7999,
     "updated_at": "2026-09-24T07:58:07Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Claude Code plugin: universal radial-tree exploration engine. One tree skill + swappable presets (brainstorm / attack / ",
-    "id": "skymanbp/cc-tree",
-    "language": "Python",
-    "name": "skymanbp/cc-tree",
-    "stars": 101,
-    "updated_at": "2026-09-24T07:56:23Z",
-    "url": "https://github.com/skymanbp/cc-tree"
-  },
-  {
-    "description": "Cron scheduling for the DeepSeek Harness \u2014 bounded tasks with calendar & interval rules, delivered to live agents",
-    "id": "fan56/dsh-cron",
-    "language": "TypeScript",
-    "name": "fan56/dsh-cron",
-    "stars": 0,
-    "updated_at": "2026-09-24T07:55:54Z",
-    "url": "https://github.com/fan56/dsh-cron"
-  },
-  {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-24T07:52:40Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 19,
-    "updated_at": "2026-09-24T07:57:42Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "\ud83e\udd16 MioChat \u2014 \u5f00\u6e90\u7684 Agent \u64cd\u4f5c\u7cfb\u7edf\u3002Agent / Session / SubAgent \u4e09\u7ea7\u4e0a\u4e0b\u6587\u6a21\u578b\u3001V3 Hook \u5207\u9762\u3001MCP + Skills \u53cc\u6807\u51c6\u5de5\u5177\u751f\u6001\u3001\u591a\u6e20\u9053\u63a5\u5165\u4e0e\u5b9a\u65f6\u81ea\u6cbb\u3002\u6a21\u578b\u65e0\u5173\u3001\u81ea\u6258\u7ba1\u3002",
@@ -81,21 +117,12 @@
     "url": "https://github.com/Cognipeer/agent-sdk"
   },
   {
-    "description": "Build an AI Coding Agent from Scratch, Step by Step | \u4ece\u96f6\u4e00\u6b65\u6b65\u642d\u5efa AI \u7f16\u7a0b Agent\uff0c\u8fb9\u5b9e\u73b0\u8fb9\u7406\u89e3 Agent \u7684\u5de5\u4f5c\u539f\u7406",
-    "id": "liiiiiiiiil/agent-from-scratch",
-    "language": "Python",
-    "name": "liiiiiiiiil/agent-from-scratch",
-    "stars": 87,
-    "updated_at": "2026-09-24T07:40:41Z",
-    "url": "https://github.com/liiiiiiiiil/agent-from-scratch"
-  },
-  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-09-24T07:37:34Z",
+    "updated_at": "2026-09-24T08:12:10Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -131,7 +158,7 @@
     "language": "Rust",
     "name": "metric-space-ai/greppy",
     "stars": 9,
-    "updated_at": "2026-09-24T07:37:15Z",
+    "updated_at": "2026-09-24T08:07:54Z",
     "url": "https://github.com/metric-space-ai/greppy"
   },
   {
@@ -214,15 +241,6 @@
     "stars": 75,
     "updated_at": "2026-09-24T07:12:37Z",
     "url": "https://github.com/HuTa0kj/vetix"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 1078,
-    "updated_at": "2026-09-24T07:57:15Z",
-    "url": "https://github.com/ongridio/ongrid"
   },
   {
     "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-24T06:39:44Z",
     "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-09-24T06:37:06Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "The LLM Anti-Framework",
-    "id": "Mirascope/mirascope",
-    "language": "Python",
-    "name": "Mirascope/mirascope",
-    "stars": 1528,
-    "updated_at": "2026-09-24T06:23:13Z",
-    "url": "https://github.com/Mirascope/mirascope"
   }
 ]
