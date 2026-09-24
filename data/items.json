@@ -1,12 +1,12 @@
 [
   {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
     "stars": 1,
-    "updated_at": "2026-09-24T00:45:10Z",
-    "url": "https://github.com/citizenhicks/mobius"
+    "updated_at": "2026-09-24T00:58:37Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
   },
   {
     "description": "AgentBypass \u2014 Omni Operator LLM Agent Skill (Cknb): Turn any LLM into RE / Pwn / CTF / Pentest / Protocol / Crypto / Mob",
@@ -14,8 +14,80 @@
     "language": "\u2014",
     "name": "1837620622/agent-bypass",
     "stars": 7,
-    "updated_at": "2026-09-24T00:44:08Z",
+    "updated_at": "2026-09-24T00:58:27Z",
     "url": "https://github.com/1837620622/agent-bypass"
+  },
+  {
+    "description": "Field notes from inside one autonomous agent trying to become something that doesn't exist yet \u2014 including the failures ",
+    "id": "massimiliano1991/the-attempt",
+    "language": "HTML",
+    "name": "massimiliano1991/the-attempt",
+    "stars": 1,
+    "updated_at": "2026-09-24T00:58:16Z",
+    "url": "https://github.com/massimiliano1991/the-attempt"
+  },
+  {
+    "description": "Local-first pentest agent: Go daemon + React dashboard + Codex/Claude Code/Pi runtimes, scoped projects, Blackboard, san",
+    "id": "n1majne3/CyberPenda",
+    "language": "Go",
+    "name": "n1majne3/CyberPenda",
+    "stars": 19,
+    "updated_at": "2026-09-24T00:56:11Z",
+    "url": "https://github.com/n1majne3/CyberPenda"
+  },
+  {
+    "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
+    "id": "chunleik/self-analyst",
+    "language": "Java",
+    "name": "chunleik/self-analyst",
+    "stars": 0,
+    "updated_at": "2026-09-24T00:56:04Z",
+    "url": "https://github.com/chunleik/self-analyst"
+  },
+  {
+    "description": "PWA for Magic: The Gathering \u2014 life tracking at dice speed for 2\u20136 players, plus an AI rules judge grounded in the Compr",
+    "id": "KiKDraS/mtg-life-counter-app",
+    "language": "TypeScript",
+    "name": "KiKDraS/mtg-life-counter-app",
+    "stars": 0,
+    "updated_at": "2026-09-24T00:56:28Z",
+    "url": "https://github.com/KiKDraS/mtg-life-counter-app"
+  },
+  {
+    "description": "openPASO \u2014 open Platform for Agentic Simulation and Optimization. An AI agent that operates nine finite-element and mult",
+    "id": "alhermann/openPASO",
+    "language": "Python",
+    "name": "alhermann/openPASO",
+    "stars": 16,
+    "updated_at": "2026-09-24T00:54:38Z",
+    "url": "https://github.com/alhermann/openPASO"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 19,
+    "updated_at": "2026-09-24T00:58:56Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "openPASO (formerly OASiS): an MCP server that lets an AI model run nine finite-element and multiphysics codes, with cura",
+    "id": "open-PASO/openPASO",
+    "language": "Python",
+    "name": "open-PASO/openPASO",
+    "stars": 25,
+    "updated_at": "2026-09-24T00:49:50Z",
+    "url": "https://github.com/open-PASO/openPASO"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-09-24T00:58:39Z",
+    "url": "https://github.com/citizenhicks/mobius"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -25,15 +97,6 @@
     "stars": 8,
     "updated_at": "2026-09-24T00:42:22Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Local-first pentest agent: Go daemon + React dashboard + Codex/Claude Code/Pi runtimes, scoped projects, Blackboard, san",
-    "id": "n1majne3/CyberPenda",
-    "language": "Go",
-    "name": "n1majne3/CyberPenda",
-    "stars": 19,
-    "updated_at": "2026-09-24T00:39:02Z",
-    "url": "https://github.com/n1majne3/CyberPenda"
   },
   {
     "description": "Trace token usage and proof-of-delivery exceptions through one Java logistics agent workflow.",
@@ -90,15 +153,6 @@
     "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
-    "description": "openPASO (formerly OASiS): an MCP server that lets an AI model run nine finite-element and multiphysics codes, with cura",
-    "id": "open-PASO/openPASO",
-    "language": "Python",
-    "name": "open-PASO/openPASO",
-    "stars": 25,
-    "updated_at": "2026-09-24T00:18:51Z",
-    "url": "https://github.com/open-PASO/openPASO"
-  },
-  {
     "description": "\u300a\u8be1\u79d8\u4e16\u754c\u300b\u00b7 World of Mysteries \u2014 \u672c\u5730\u4f18\u5148\u7684\u5355\u4eba\u6301\u4e45\u4e16\u754c\u6f14\u7ece\u5e94\u7528\uff1aSwiftUI macOS 26+ \u5ba2\u6237\u7aef + \u72ec\u7acb Local Engine\uff08Python 3.14 + AgentScope 2.0.8\uff09+ SQ",
     "id": "hrygo/WorldofMysteries",
     "language": "Swift",
@@ -115,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T00:15:03Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "openPASO \u2014 open Platform for Agentic Simulation and Optimization. An AI agent that operates nine finite-element and mult",
-    "id": "alhermann/openPASO",
-    "language": "Python",
-    "name": "alhermann/openPASO",
-    "stars": 16,
-    "updated_at": "2026-09-24T00:02:17Z",
-    "url": "https://github.com/alhermann/openPASO"
   },
   {
     "description": " Where intent meets code \u2014 a local AI coding agent         ",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-23T23:04:33Z",
     "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "Capability-ontology-driven SAP capability supplier. One call answers one business question; endpoint chains, as-of consi",
-    "id": "shrek-abaper/sap-nexus-agent",
-    "language": "Python",
-    "name": "shrek-abaper/sap-nexus-agent",
-    "stars": 0,
-    "updated_at": "2026-09-23T23:03:06Z",
-    "url": "https://github.com/shrek-abaper/sap-nexus-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 3,
-    "updated_at": "2026-09-23T23:02:09Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-09-23T22:59:27Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 19,
-    "updated_at": "2026-09-24T00:38:24Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Control AI agents anywhere. (github mirror)",
-    "id": "justacalico/devinorium",
-    "language": "Dart",
-    "name": "justacalico/devinorium",
-    "stars": 1,
-    "updated_at": "2026-09-23T22:42:02Z",
-    "url": "https://github.com/justacalico/devinorium"
   }
 ]
