@@ -1,5 +1,68 @@
 [
   {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 8,
+    "updated_at": "2026-09-25T02:27:51Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
+    "id": "kyleslight/shun",
+    "language": "TypeScript",
+    "name": "kyleslight/shun",
+    "stars": 6,
+    "updated_at": "2026-09-25T02:27:02Z",
+    "url": "https://github.com/kyleslight/shun"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 19,
+    "updated_at": "2026-09-25T02:28:17Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 274,
+    "updated_at": "2026-09-25T02:26:21Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "AgentBypass \u2014 Omni Operator LLM Agent Skill (Cknb): Turn any LLM into RE / Pwn / CTF / Pentest / Protocol / Crypto / Mob",
+    "id": "1837620622/agent-bypass",
+    "language": "\u2014",
+    "name": "1837620622/agent-bypass",
+    "stars": 7,
+    "updated_at": "2026-09-25T02:25:45Z",
+    "url": "https://github.com/1837620622/agent-bypass"
+  },
+  {
+    "description": "\u300a\u8be1\u79d8\u4e16\u754c\u300b\u00b7 World of Mysteries \u2014 \u672c\u5730\u4f18\u5148\u7684\u5355\u4eba\u6301\u4e45\u4e16\u754c\u6f14\u7ece\u5e94\u7528\uff1aSwiftUI macOS 26+ \u5ba2\u6237\u7aef + \u72ec\u7acb Local Engine\uff08Python 3.14 + AgentScope 2.0.8\uff09+ SQ",
+    "id": "hrygo/WorldofMysteries",
+    "language": "Swift",
+    "name": "hrygo/WorldofMysteries",
+    "stars": 0,
+    "updated_at": "2026-09-25T02:29:17Z",
+    "url": "https://github.com/hrygo/WorldofMysteries"
+  },
+  {
+    "description": "DevOps & Cloud AI Assistant that runs locally with Ollama for complete privacy.",
+    "id": "tara-vision/taracode",
+    "language": "Go",
+    "name": "tara-vision/taracode",
+    "stars": 51,
+    "updated_at": "2026-09-25T02:23:37Z",
+    "url": "https://github.com/tara-vision/taracode"
+  },
+  {
     "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
     "id": "haibingzhao/easyai",
     "language": "Kotlin",
@@ -36,15 +99,6 @@
     "url": "https://github.com/OleksiyPenkov/xrr-fitting-skill"
   },
   {
-    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
-    "id": "kyleslight/shun",
-    "language": "TypeScript",
-    "name": "kyleslight/shun",
-    "stars": 6,
-    "updated_at": "2026-09-25T01:58:33Z",
-    "url": "https://github.com/kyleslight/shun"
-  },
-  {
     "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
     "id": "urankwong/agentsgo",
     "language": "Python",
@@ -61,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T01:51:32Z",
     "url": "https://github.com/SIDDARTHAREDDY8/TerminalBench"
-  },
-  {
-    "description": "\u300a\u8be1\u79d8\u4e16\u754c\u300b\u00b7 World of Mysteries \u2014 \u672c\u5730\u4f18\u5148\u7684\u5355\u4eba\u6301\u4e45\u4e16\u754c\u6f14\u7ece\u5e94\u7528\uff1aSwiftUI macOS 26+ \u5ba2\u6237\u7aef + \u72ec\u7acb Local Engine\uff08Python 3.14 + AgentScope 2.0.8\uff09+ SQ",
-    "id": "hrygo/WorldofMysteries",
-    "language": "Swift",
-    "name": "hrygo/WorldofMysteries",
-    "stars": 0,
-    "updated_at": "2026-09-25T01:39:02Z",
-    "url": "https://github.com/hrygo/WorldofMysteries"
   },
   {
     "description": "Generate rich YuE2 audio in ComfyUI with six modular nodes\u2014hum-to-song, LoRA and adapter support\u2014no stock nodes needed.",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-25T00:36:09Z",
     "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-09-25T00:33:22Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "IAM for your AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review risky a",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 216,
-    "updated_at": "2026-09-25T00:30:59Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
-    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-    "id": "BlockRunAI/Franklin",
-    "language": "TypeScript",
-    "name": "BlockRunAI/Franklin",
-    "stars": 557,
-    "updated_at": "2026-09-25T00:26:49Z",
-    "url": "https://github.com/BlockRunAI/Franklin"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 130,
-    "updated_at": "2026-09-25T00:21:30Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 8,
-    "updated_at": "2026-09-25T02:12:57Z",
-    "url": "https://github.com/ljchang/mecha"
   }
 ]
