@@ -1,12 +1,84 @@
 [
   {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-09-25T22:14:14Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 69,
+    "updated_at": "2026-09-25T22:12:41Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
     "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
     "id": "jack-h-park/pm-intelligence-engine",
     "language": "Python",
     "name": "jack-h-park/pm-intelligence-engine",
     "stars": 0,
-    "updated_at": "2026-09-25T21:59:37Z",
+    "updated_at": "2026-09-25T22:12:26Z",
     "url": "https://github.com/jack-h-park/pm-intelligence-engine"
+  },
+  {
+    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
+    "id": "urankwong/agentsgo",
+    "language": "Python",
+    "name": "urankwong/agentsgo",
+    "stars": 0,
+    "updated_at": "2026-09-25T22:11:01Z",
+    "url": "https://github.com/urankwong/agentsgo"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 128,
+    "updated_at": "2026-09-25T22:09:38Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 3,
+    "updated_at": "2026-09-25T22:08:55Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-09-25T22:05:29Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
+    "id": "Sigmanih/SigmaStudio",
+    "language": "Python",
+    "name": "Sigmanih/SigmaStudio",
+    "stars": 8,
+    "updated_at": "2026-09-25T22:02:43Z",
+    "url": "https://github.com/Sigmanih/SigmaStudio"
+  },
+  {
+    "description": "Field notes from inside one autonomous agent trying to become something that doesn't exist yet \u2014 including the failures ",
+    "id": "massimiliano1991/the-attempt",
+    "language": "HTML",
+    "name": "massimiliano1991/the-attempt",
+    "stars": 1,
+    "updated_at": "2026-09-25T22:02:34Z",
+    "url": "https://github.com/massimiliano1991/the-attempt"
   },
   {
     "description": "Skill-first operating layer for agentic brokerage trading \u2014 strategy, guardrails, and provider adapters an LLM agent fol",
@@ -23,7 +95,7 @@
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 216,
-    "updated_at": "2026-09-25T21:53:24Z",
+    "updated_at": "2026-09-25T22:10:32Z",
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
@@ -36,15 +108,6 @@
     "url": "https://github.com/AntonYartsev/iris-docket"
   },
   {
-    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
-    "id": "urankwong/agentsgo",
-    "language": "Python",
-    "name": "urankwong/agentsgo",
-    "stars": 0,
-    "updated_at": "2026-09-25T21:49:28Z",
-    "url": "https://github.com/urankwong/agentsgo"
-  },
-  {
     "description": "Provider-agnostic VLM query flow: one Agent that dispatches to OpenAI / Anthropic / Gemini / vLLM / Claude Code CLI / lo",
     "id": "Wenri/TaskSolver",
     "language": "Python",
@@ -52,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T21:47:12Z",
     "url": "https://github.com/Wenri/TaskSolver"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-09-25T21:58:38Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Local-first long-term memory and safer context compression for Hermes Agent \u2014 SQLite, no required services.",
@@ -95,7 +149,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-25T21:51:08Z",
+    "updated_at": "2026-09-25T22:04:14Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -106,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T21:21:57Z",
     "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
-    "id": "Sigmanih/SigmaStudio",
-    "language": "Python",
-    "name": "Sigmanih/SigmaStudio",
-    "stars": 8,
-    "updated_at": "2026-09-25T21:21:06Z",
-    "url": "https://github.com/Sigmanih/SigmaStudio"
   },
   {
     "description": "Ask your data in plain English: a tool-calling agent writes guarded, read-only SQL over the sample warehouse or your own",
@@ -133,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T21:15:28Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 69,
-    "updated_at": "2026-09-25T21:11:50Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "An autopoiesic kefir for computing machines",
@@ -203,7 +239,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4429,
-    "updated_at": "2026-09-25T21:56:47Z",
+    "updated_at": "2026-09-25T22:10:30Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 130,
     "updated_at": "2026-09-25T20:14:57Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
-    "id": "metric-space-ai/greppy",
-    "language": "Rust",
-    "name": "metric-space-ai/greppy",
-    "stars": 9,
-    "updated_at": "2026-09-25T20:12:44Z",
-    "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-09-25T20:12:07Z",
-    "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-09-25T20:10:08Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-09-25T20:07:09Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
   }
 ]
