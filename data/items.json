@@ -1,20 +1,101 @@
 [
   {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
+    "description": "Browser-level shopping agent for Chinese e-commerce: CDP-based toolchain, field-tested methodology, and an experience re",
+    "id": "jshnlhc/browser-shopping-agent",
+    "language": "JavaScript",
+    "name": "jshnlhc/browser-shopping-agent",
+    "stars": 0,
+    "updated_at": "2026-09-25T14:14:48Z",
+    "url": "https://github.com/jshnlhc/browser-shopping-agent"
+  },
+  {
+    "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
+    "id": "yurika0211/lucky-agent",
+    "language": "Go",
+    "name": "yurika0211/lucky-agent",
+    "stars": 14,
+    "updated_at": "2026-09-25T14:13:49Z",
+    "url": "https://github.com/yurika0211/lucky-agent"
+  },
+  {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 4,
+    "updated_at": "2026-09-25T14:10:58Z",
+    "url": "https://github.com/ljedrz/nachalnik"
+  },
+  {
+    "description": "\u900f\u660e\u53ef\u5ba1\u8ba1\u7684\u672c\u5730\u667a\u80fd\u4f53\u7ec8\u7aef\uff1a\u5bf9\u5f00\u6e90 agent \u6846\u67b6\u505a\u5b89\u5168\u5ba1\u8ba1\u4e0e\u52a0\u56fa\uff08RCE/\u6c99\u76d2\u7ed5\u8fc7/\u6ce8\u5165\uff09\uff0c\u5e76\u4ee5 50 \u6761\u6ce8\u5165\u57fa\u51c6 \u00d7 37 \u6761\u80fd\u529b\u57fa\u51c6\u53cc\u7ef4\u5ea6\u91cf\u5b89\u5168\u8fb9\u754c",
+    "id": "Canyon-Li/AuditronClaw",
     "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 20,
-    "updated_at": "2026-09-25T13:59:28Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
+    "name": "Canyon-Li/AuditronClaw",
+    "stars": 2,
+    "updated_at": "2026-09-25T14:10:48Z",
+    "url": "https://github.com/Canyon-Li/AuditronClaw"
+  },
+  {
+    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
+    "id": "PCODE-pl/MCPTap",
+    "language": "Python",
+    "name": "PCODE-pl/MCPTap",
+    "stars": 1,
+    "updated_at": "2026-09-25T14:09:13Z",
+    "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-25T14:06:37Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 10,
+    "updated_at": "2026-09-25T14:05:28Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "\u300a\u8be1\u79d8\u4e16\u754c\u300b\u00b7 World of Mysteries \u2014 \u672c\u5730\u4f18\u5148\u7684\u5355\u4eba\u6301\u4e45\u4e16\u754c\u6f14\u7ece\u5e94\u7528\uff1aSwiftUI macOS 26+ \u5ba2\u6237\u7aef + \u72ec\u7acb Local Engine\uff08Python 3.14 + AgentScope 2.0.8\uff09+ SQ",
+    "id": "hrygo/WorldofMysteries",
+    "language": "Swift",
+    "name": "hrygo/WorldofMysteries",
+    "stars": 0,
+    "updated_at": "2026-09-25T14:05:02Z",
+    "url": "https://github.com/hrygo/WorldofMysteries"
+  },
+  {
+    "description": "Lightweight Go framework for small, specialized AI agents on the OpenAI Responses API \u2014 local or hosted, narrow toolsets",
+    "id": "dbedla/rellm",
+    "language": "Go",
+    "name": "dbedla/rellm",
+    "stars": 1,
+    "updated_at": "2026-09-25T14:04:32Z",
+    "url": "https://github.com/dbedla/rellm"
+  },
+  {
+    "description": "sid-code \u4e0e claude-trace \u5171\u540c\u9762\u5bf9\u7684\u4f01\u4e1a\u7ea7\u540e\u7aef\uff1a\u63a7\u5236\u9762\uff08policy / flag / \u8eab\u4efd\uff09\u4e0e\u6570\u636e\u9762\uff08\u8f68\u8ff9 / \u4e8b\u4ef6\uff09\u540c\u4ed3\u3001\u9274\u6743\u9694\u79bb\u3002\u5df2\u4ea4\u4ed8\u8f68\u8ff9\u5b58\u50a8\u4e0e\u5206\u6790\uff0c\u5176\u4f59\u6a21\u5757\u6309\u91cc\u7a0b\u7891\u8fed\u4ee3",
+    "id": "njfuzrs/agent-backend",
+    "language": "Python",
+    "name": "njfuzrs/agent-backend",
+    "stars": 0,
+    "updated_at": "2026-09-25T14:03:40Z",
+    "url": "https://github.com/njfuzrs/agent-backend"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 8395,
-    "updated_at": "2026-09-25T13:59:17Z",
+    "stars": 8397,
+    "updated_at": "2026-09-25T14:03:06Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -23,8 +104,17 @@
     "language": "Rust",
     "name": "bigfish1913/pi-rust",
     "stars": 32,
-    "updated_at": "2026-09-25T13:58:43Z",
+    "updated_at": "2026-09-25T14:00:37Z",
     "url": "https://github.com/bigfish1913/pi-rust"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 20,
+    "updated_at": "2026-09-25T13:59:28Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
     "description": "\ud83e\udd16 MioChat \u2014 \u5f00\u6e90\u7684 Agent \u64cd\u4f5c\u7cfb\u7edf\u3002Agent / Session / SubAgent \u4e09\u7ea7\u4e0a\u4e0b\u6587\u6a21\u578b\u3001V3 Hook \u5207\u9762\u3001MCP + Skills \u53cc\u6807\u51c6\u5de5\u5177\u751f\u6001\u3001\u591a\u6e20\u9053\u63a5\u5165\u4e0e\u5b9a\u65f6\u81ea\u6cbb\u3002\u6a21\u578b\u65e0\u5173\u3001\u81ea\u6258\u7ba1\u3002",
@@ -40,18 +130,9 @@
     "id": "feder-cr/invisible_playwright_mcp",
     "language": "Python",
     "name": "feder-cr/invisible_playwright_mcp",
-    "stars": 31658,
+    "stars": 31661,
     "updated_at": "2026-09-25T13:53:08Z",
     "url": "https://github.com/feder-cr/invisible_playwright_mcp"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 10,
-    "updated_at": "2026-09-25T13:48:27Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -61,33 +142,6 @@
     "stars": 14,
     "updated_at": "2026-09-25T13:49:05Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "\u900f\u660e\u53ef\u5ba1\u8ba1\u7684\u672c\u5730\u667a\u80fd\u4f53\u7ec8\u7aef\uff1a\u5bf9\u5f00\u6e90 agent \u6846\u67b6\u505a\u5b89\u5168\u5ba1\u8ba1\u4e0e\u52a0\u56fa\uff08RCE/\u6c99\u76d2\u7ed5\u8fc7/\u6ce8\u5165\uff09\uff0c\u5e76\u4ee5 50 \u6761\u6ce8\u5165\u57fa\u51c6 \u00d7 37 \u6761\u80fd\u529b\u57fa\u51c6\u53cc\u7ef4\u5ea6\u91cf\u5b89\u5168\u8fb9\u754c",
-    "id": "Canyon-Li/AuditronClaw",
-    "language": "Python",
-    "name": "Canyon-Li/AuditronClaw",
-    "stars": 2,
-    "updated_at": "2026-09-25T13:44:48Z",
-    "url": "https://github.com/Canyon-Li/AuditronClaw"
-  },
-  {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-09-25T13:42:10Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
-  },
-  {
-    "description": "Browser-level shopping agent for Chinese e-commerce: CDP-based toolchain, field-tested methodology, and an experience re",
-    "id": "jshnlhc/browser-shopping-agent",
-    "language": "JavaScript",
-    "name": "jshnlhc/browser-shopping-agent",
-    "stars": 0,
-    "updated_at": "2026-09-25T13:42:10Z",
-    "url": "https://github.com/jshnlhc/browser-shopping-agent"
   },
   {
     "description": "AI-orchestrated job search pipeline: scrapes 5 UA job boards, uses Claude API to score matches & classify emails, writes",
@@ -167,7 +221,7 @@
     "language": "Python",
     "name": "SunWoo1213/Relationship",
     "stars": 0,
-    "updated_at": "2026-09-25T13:20:16Z",
+    "updated_at": "2026-09-25T14:15:17Z",
     "url": "https://github.com/SunWoo1213/Relationship"
   },
   {
@@ -284,7 +338,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-25T13:31:03Z",
+    "updated_at": "2026-09-25T14:11:30Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -351,15 +405,6 @@
     "url": "https://github.com/mohahasan/ios-agentic-skills"
   },
   {
-    "description": "Lightweight Go framework for small, specialized AI agents on the OpenAI Responses API \u2014 local or hosted, narrow toolsets",
-    "id": "dbedla/rellm",
-    "language": "Go",
-    "name": "dbedla/rellm",
-    "stars": 1,
-    "updated_at": "2026-09-25T13:54:39Z",
-    "url": "https://github.com/dbedla/rellm"
-  },
-  {
     "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
     "id": "Danisxxx/comfyUI-LongLook",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 179,
     "updated_at": "2026-09-25T12:38:14Z",
     "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-09-25T12:37:33Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "AgentBypass \u2014 Omni Operator LLM Agent Skill (Cknb): Turn any LLM into RE / Pwn / CTF / Pentest / Protocol / Crypto / Mob",
-    "id": "1837620622/agent-bypass",
-    "language": "\u2014",
-    "name": "1837620622/agent-bypass",
-    "stars": 7,
-    "updated_at": "2026-09-25T12:36:57Z",
-    "url": "https://github.com/1837620622/agent-bypass"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-09-25T12:34:05Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 810,
-    "updated_at": "2026-09-25T12:30:18Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Capability-ontology-driven SAP capability supplier. One call answers one business question; endpoint chains, as-of consi",
-    "id": "shrek-abaper/sap-nexus-agent",
-    "language": "Python",
-    "name": "shrek-abaper/sap-nexus-agent",
-    "stars": 0,
-    "updated_at": "2026-09-25T12:30:01Z",
-    "url": "https://github.com/shrek-abaper/sap-nexus-agent"
   }
 ]
