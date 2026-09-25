@@ -5,8 +5,17 @@
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 10,
-    "updated_at": "2026-09-25T18:44:24Z",
+    "updated_at": "2026-09-25T18:59:36Z",
     "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8410,
+    "updated_at": "2026-09-25T18:58:51Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -131,7 +140,7 @@
     "language": "Python",
     "name": "diaban/jobsmith",
     "stars": 0,
-    "updated_at": "2026-09-25T18:27:55Z",
+    "updated_at": "2026-09-25T18:56:05Z",
     "url": "https://github.com/diaban/jobsmith"
   },
   {
@@ -194,7 +203,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-25T18:44:13Z",
+    "updated_at": "2026-09-25T18:54:11Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-25T17:20:41Z",
     "url": "https://github.com/Wenri/TaskSolver"
-  },
-  {
-    "description": "Private, local-first AI agent: planning, sandboxed tools, four-tier memory, streaming UI and OpenTelemetry \u2014 runs entire",
-    "id": "roydonsequeira/CORTEX-Private-Intelligence-Framework",
-    "language": "Python",
-    "name": "roydonsequeira/CORTEX-Private-Intelligence-Framework",
-    "stars": 0,
-    "updated_at": "2026-09-25T17:19:27Z",
-    "url": "https://github.com/roydonsequeira/CORTEX-Private-Intelligence-Framework"
   }
 ]
