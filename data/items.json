@@ -5,15 +5,42 @@
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 10,
-    "updated_at": "2026-09-25T18:59:36Z",
+    "updated_at": "2026-09-25T19:04:08Z",
     "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
+    "id": "amemhq/amem",
+    "language": "TypeScript",
+    "name": "amemhq/amem",
+    "stars": 3,
+    "updated_at": "2026-09-25T19:04:04Z",
+    "url": "https://github.com/amemhq/amem"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-09-25T19:02:09Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 107,
+    "updated_at": "2026-09-25T19:02:10Z",
+    "url": "https://github.com/AVADSA25/codec"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 8410,
+    "stars": 8411,
     "updated_at": "2026-09-25T18:58:51Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -25,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T18:43:37Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-09-25T18:40:15Z",
-    "url": "https://github.com/SashaEee/auditLens"
   },
   {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
@@ -203,7 +221,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-25T18:54:11Z",
+    "updated_at": "2026-09-25T19:00:35Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -259,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-09-25T18:12:44Z",
     "url": "https://github.com/NatanTechofNY/fieldnote-assistant"
-  },
-  {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 107,
-    "updated_at": "2026-09-25T18:12:18Z",
-    "url": "https://github.com/AVADSA25/codec"
   },
   {
     "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
@@ -439,14 +448,5 @@
     "stars": 7,
     "updated_at": "2026-09-25T17:23:40Z",
     "url": "https://github.com/edjafarov/kiagent-core"
-  },
-  {
-    "description": "Provider-agnostic VLM query flow: one Agent that dispatches to OpenAI / Anthropic / Gemini / vLLM / Claude Code CLI / lo",
-    "id": "Wenri/TaskSolver",
-    "language": "Python",
-    "name": "Wenri/TaskSolver",
-    "stars": 0,
-    "updated_at": "2026-09-25T17:20:41Z",
-    "url": "https://github.com/Wenri/TaskSolver"
   }
 ]
