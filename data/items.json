@@ -1,5 +1,131 @@
 [
   {
+    "description": "A private AI agent that runs on your Android phone \u2014 on-device Go gateway, local dashboard, real arm64 tools, and Telegr",
+    "id": "Lord1Egypt/PocketClaw",
+    "language": "Go",
+    "name": "Lord1Egypt/PocketClaw",
+    "stars": 1,
+    "updated_at": "2026-09-25T16:43:17Z",
+    "url": "https://github.com/Lord1Egypt/PocketClaw"
+  },
+  {
+    "description": "Desktop GUI Headless Local-first AI coding agent in Rust (axum, tokio, rmcp, portable-pty) behind HTTP + SSE, with an An",
+    "id": "henrykbrzoska/bebok",
+    "language": "Rust",
+    "name": "henrykbrzoska/bebok",
+    "stars": 5,
+    "updated_at": "2026-09-25T16:41:40Z",
+    "url": "https://github.com/henrykbrzoska/bebok"
+  },
+  {
+    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
+    "id": "PCODE-pl/MCPTap",
+    "language": "Python",
+    "name": "PCODE-pl/MCPTap",
+    "stars": 1,
+    "updated_at": "2026-09-25T16:41:22Z",
+    "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
+    "description": "Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi",
+    "id": "zig333/ELAI-archive",
+    "language": "\u2014",
+    "name": "zig333/ELAI-archive",
+    "stars": 0,
+    "updated_at": "2026-09-25T16:40:49Z",
+    "url": "https://github.com/zig333/ELAI-archive"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-09-25T16:43:10Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
+    "id": "brittewestafrican981/ComfyUI-YinChao",
+    "language": "Python",
+    "name": "brittewestafrican981/ComfyUI-YinChao",
+    "stars": 0,
+    "updated_at": "2026-09-25T16:38:41Z",
+    "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
+  },
+  {
+    "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
+    "id": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
+    "language": "Python",
+    "name": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
+    "stars": 4,
+    "updated_at": "2026-09-25T16:37:27Z",
+    "url": "https://github.com/mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-09-25T16:37:25Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
+    "id": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
+    "language": "Python",
+    "name": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
+    "stars": 2,
+    "updated_at": "2026-09-25T16:36:28Z",
+    "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
+  },
+  {
+    "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
+    "id": "EpsteinF1les/tts",
+    "language": "\u2014",
+    "name": "EpsteinF1les/tts",
+    "stars": 0,
+    "updated_at": "2026-09-25T16:35:47Z",
+    "url": "https://github.com/EpsteinF1les/tts"
+  },
+  {
+    "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
+    "id": "edjafarov/kiagent-core",
+    "language": "TypeScript",
+    "name": "edjafarov/kiagent-core",
+    "stars": 7,
+    "updated_at": "2026-09-25T16:34:06Z",
+    "url": "https://github.com/edjafarov/kiagent-core"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 130,
+    "updated_at": "2026-09-25T16:33:27Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
+    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "language": "\u2014",
+    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "stars": 0,
+    "updated_at": "2026-09-25T16:31:14Z",
+    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
+  },
+  {
+    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
+    "id": "clashroy5384/ai-papers-hub",
+    "language": "\u2014",
+    "name": "clashroy5384/ai-papers-hub",
+    "stars": 0,
+    "updated_at": "2026-09-25T16:30:36Z",
+    "url": "https://github.com/clashroy5384/ai-papers-hub"
+  },
+  {
     "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
     "id": "plurnk/plurnk-service",
     "language": "TypeScript",
@@ -54,15 +180,6 @@
     "url": "https://github.com/Stolas34/voice-input-src"
   },
   {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-09-25T16:25:35Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
-  },
-  {
     "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
     "id": "Screwtopped-annapavlova802/SparkLabs",
     "language": "C++",
@@ -77,7 +194,7 @@
     "language": "Rust",
     "name": "bigfish1913/pi-rust",
     "stars": 32,
-    "updated_at": "2026-09-25T16:23:39Z",
+    "updated_at": "2026-09-25T16:40:32Z",
     "url": "https://github.com/bigfish1913/pi-rust"
   },
   {
@@ -97,15 +214,6 @@
     "stars": 4,
     "updated_at": "2026-09-25T16:20:23Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-09-25T16:20:18Z",
-    "url": "https://github.com/SashaEee/auditLens"
   },
   {
     "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
@@ -243,15 +351,6 @@
     "url": "https://github.com/MingyiSecLab/Atlas"
   },
   {
-    "description": "A private AI agent that runs on your Android phone \u2014 on-device Go gateway, local dashboard, real arm64 tools, and Telegr",
-    "id": "Lord1Egypt/PocketClaw",
-    "language": "Go",
-    "name": "Lord1Egypt/PocketClaw",
-    "stars": 1,
-    "updated_at": "2026-09-25T16:02:11Z",
-    "url": "https://github.com/Lord1Egypt/PocketClaw"
-  },
-  {
     "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
     "id": "yigido41/agentic-ai",
     "language": "Python",
@@ -333,15 +432,6 @@
     "url": "https://github.com/ximing/vital"
   },
   {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-09-25T16:17:46Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
     "description": "AI-orchestrated job search pipeline: scrapes 5 UA job boards, uses Claude API to score matches & classify emails, writes",
     "id": "VoroshylovV/job-search-automation-pipeline",
     "language": "Python",
@@ -358,95 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-25T15:35:11Z",
     "url": "https://github.com/Rekin226/Agronaut"
-  },
-  {
-    "description": "\uc6e8\uc774\ud37c \ub9f5 \ubd88\ub7c9 \ud328\ud134 \ud310\ub3c5 \uc5d0\uc774\uc804\ud2b8 \u2014 \uc544\ub294 \ud328\ud134 \ubd84\ub958 \u00b7 \ucc98\uc74c \ubcf4\ub294 \ud328\ud134 \uacbd\uace0 \u00b7 \ucf54\ub4dc\uac00 \uac80\uc0ac\ud558\ub294 \ub85c\uceec LLM \ud310\ub3c5 \uce74\ub4dc (WM-811K)",
-    "id": "Haejyn/wafer-defect-agent",
-    "language": "HTML",
-    "name": "Haejyn/wafer-defect-agent",
-    "stars": 0,
-    "updated_at": "2026-09-25T15:34:33Z",
-    "url": "https://github.com/Haejyn/wafer-defect-agent"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 18,
-    "updated_at": "2026-09-25T15:35:56Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Provider-agnostic VLM query flow: one Agent that dispatches to OpenAI / Anthropic / Gemini / vLLM / Claude Code CLI / lo",
-    "id": "Wenri/TaskSolver",
-    "language": "Python",
-    "name": "Wenri/TaskSolver",
-    "stars": 0,
-    "updated_at": "2026-09-25T15:32:56Z",
-    "url": "https://github.com/Wenri/TaskSolver"
-  },
-  {
-    "description": "\u300a\u8be1\u79d8\u4e16\u754c\u300b\u00b7 World of Mysteries \u2014 \u672c\u5730\u4f18\u5148\u7684\u5355\u4eba\u6301\u4e45\u4e16\u754c\u6f14\u7ece\u5e94\u7528\uff1aSwiftUI macOS 26+ \u5ba2\u6237\u7aef + \u72ec\u7acb Local Engine\uff08Python 3.14 + AgentScope 2.0.8\uff09+ SQ",
-    "id": "hrygo/WorldofMysteries",
-    "language": "Swift",
-    "name": "hrygo/WorldofMysteries",
-    "stars": 0,
-    "updated_at": "2026-09-25T15:31:12Z",
-    "url": "https://github.com/hrygo/WorldofMysteries"
-  },
-  {
-    "description": "Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into",
-    "id": "AskTheWay/dsh-auto-memory",
-    "language": "TypeScript",
-    "name": "AskTheWay/dsh-auto-memory",
-    "stars": 2,
-    "updated_at": "2026-09-25T15:26:09Z",
-    "url": "https://github.com/AskTheWay/dsh-auto-memory"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-09-25T15:19:49Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "\ud83e\udd16 MioChat \u2014 \u5f00\u6e90\u7684 Agent \u64cd\u4f5c\u7cfb\u7edf\u3002Agent / Session / SubAgent \u4e09\u7ea7\u4e0a\u4e0b\u6587\u6a21\u578b\u3001V3 Hook \u5207\u9762\u3001MCP + Skills \u53cc\u6807\u51c6\u5de5\u5177\u751f\u6001\u3001\u591a\u6e20\u9053\u63a5\u5165\u4e0e\u5b9a\u65f6\u81ea\u6cbb\u3002\u6a21\u578b\u65e0\u5173\u3001\u81ea\u6258\u7ba1\u3002",
-    "id": "Pretend-to/mio-chat-backend",
-    "language": "JavaScript",
-    "name": "Pretend-to/mio-chat-backend",
-    "stars": 39,
-    "updated_at": "2026-09-25T15:13:19Z",
-    "url": "https://github.com/Pretend-to/mio-chat-backend"
-  },
-  {
-    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
-    "id": "kyleslight/shun",
-    "language": "TypeScript",
-    "name": "kyleslight/shun",
-    "stars": 6,
-    "updated_at": "2026-09-25T15:12:22Z",
-    "url": "https://github.com/kyleslight/shun"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-09-25T15:09:51Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 28,
-    "updated_at": "2026-09-25T15:05:58Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
   }
 ]
