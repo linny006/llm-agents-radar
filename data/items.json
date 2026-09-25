@@ -1,12 +1,12 @@
 [
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 10,
-    "updated_at": "2026-09-25T19:04:08Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
+    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
+    "id": "urankwong/agentsgo",
+    "language": "Python",
+    "name": "urankwong/agentsgo",
+    "stars": 0,
+    "updated_at": "2026-09-25T19:15:12Z",
+    "url": "https://github.com/urankwong/agentsgo"
   },
   {
     "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
@@ -14,17 +14,17 @@
     "language": "TypeScript",
     "name": "amemhq/amem",
     "stars": 3,
-    "updated_at": "2026-09-25T19:04:04Z",
+    "updated_at": "2026-09-25T19:15:10Z",
     "url": "https://github.com/amemhq/amem"
   },
   {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-09-25T19:02:09Z",
-    "url": "https://github.com/SashaEee/auditLens"
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-09-25T19:14:35Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Open-Source Intelligent Command Layer",
@@ -32,8 +32,44 @@
     "language": "Python",
     "name": "AVADSA25/codec",
     "stars": 107,
-    "updated_at": "2026-09-25T19:02:10Z",
+    "updated_at": "2026-09-25T19:14:14Z",
     "url": "https://github.com/AVADSA25/codec"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 10,
+    "updated_at": "2026-09-25T19:13:38Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Ask your data in plain English: a tool-calling agent writes guarded, read-only SQL over the sample warehouse or your own",
+    "id": "0yman/ask-your-data",
+    "language": "Python",
+    "name": "0yman/ask-your-data",
+    "stars": 0,
+    "updated_at": "2026-09-25T19:12:51Z",
+    "url": "https://github.com/0yman/ask-your-data"
+  },
+  {
+    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
+    "id": "diaban/jobsmith",
+    "language": "Python",
+    "name": "diaban/jobsmith",
+    "stars": 0,
+    "updated_at": "2026-09-25T19:11:29Z",
+    "url": "https://github.com/diaban/jobsmith"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-09-25T19:05:54Z",
+    "url": "https://github.com/SashaEee/auditLens"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -117,15 +153,6 @@
     "url": "https://github.com/Lord1Egypt/PocketClaw"
   },
   {
-    "description": "Ask your data in plain English: a tool-calling agent writes guarded, read-only SQL over the sample warehouse or your own",
-    "id": "0yman/ask-your-data",
-    "language": "Python",
-    "name": "0yman/ask-your-data",
-    "stars": 0,
-    "updated_at": "2026-09-25T18:29:04Z",
-    "url": "https://github.com/0yman/ask-your-data"
-  },
-  {
     "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
     "id": "Vuongngu8186/langgraph-langchain-agent-setup",
     "language": "\u2014",
@@ -151,15 +178,6 @@
     "stars": 128,
     "updated_at": "2026-09-25T18:25:23Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
-    "id": "diaban/jobsmith",
-    "language": "Python",
-    "name": "diaban/jobsmith",
-    "stars": 0,
-    "updated_at": "2026-09-25T18:56:05Z",
-    "url": "https://github.com/diaban/jobsmith"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -221,7 +239,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-25T19:00:35Z",
+    "updated_at": "2026-09-25T19:09:03Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -295,15 +313,6 @@
     "stars": 10,
     "updated_at": "2026-09-25T18:04:56Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
-    "id": "urankwong/agentsgo",
-    "language": "Python",
-    "name": "urankwong/agentsgo",
-    "stars": 0,
-    "updated_at": "2026-09-25T18:04:40Z",
-    "url": "https://github.com/urankwong/agentsgo"
   },
   {
     "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-25T17:34:44Z",
     "url": "https://github.com/SLCA-GRPO/SLCA-GRPO"
-  },
-  {
-    "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
-    "id": "edjafarov/kiagent-core",
-    "language": "TypeScript",
-    "name": "edjafarov/kiagent-core",
-    "stars": 7,
-    "updated_at": "2026-09-25T17:23:40Z",
-    "url": "https://github.com/edjafarov/kiagent-core"
   }
 ]
