@@ -1,5 +1,41 @@
 [
   {
+    "description": "A laboratory's X-ray reflectivity fitting procedure, written so a language-model agent can follow it. Includes the four ",
+    "id": "OleksiyPenkov/xrr-fitting-skill",
+    "language": "Python",
+    "name": "OleksiyPenkov/xrr-fitting-skill",
+    "stars": 0,
+    "updated_at": "2026-09-25T01:58:39Z",
+    "url": "https://github.com/OleksiyPenkov/xrr-fitting-skill"
+  },
+  {
+    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
+    "id": "kyleslight/shun",
+    "language": "TypeScript",
+    "name": "kyleslight/shun",
+    "stars": 6,
+    "updated_at": "2026-09-25T01:58:33Z",
+    "url": "https://github.com/kyleslight/shun"
+  },
+  {
+    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
+    "id": "urankwong/agentsgo",
+    "language": "Python",
+    "name": "urankwong/agentsgo",
+    "stars": 0,
+    "updated_at": "2026-09-25T01:57:46Z",
+    "url": "https://github.com/urankwong/agentsgo"
+  },
+  {
+    "description": "A Terminal-Bench 3 task that frontier agents can't solve yet. Orbit a parked jet with LiDAR + GNSS-INS, deliver a drift-",
+    "id": "SIDDARTHAREDDY8/TerminalBench",
+    "language": "Python",
+    "name": "SIDDARTHAREDDY8/TerminalBench",
+    "stars": 0,
+    "updated_at": "2026-09-25T01:51:32Z",
+    "url": "https://github.com/SIDDARTHAREDDY8/TerminalBench"
+  },
+  {
     "description": "\u300a\u8be1\u79d8\u4e16\u754c\u300b\u00b7 World of Mysteries \u2014 \u672c\u5730\u4f18\u5148\u7684\u5355\u4eba\u6301\u4e45\u4e16\u754c\u6f14\u7ece\u5e94\u7528\uff1aSwiftUI macOS 26+ \u5ba2\u6237\u7aef + \u72ec\u7acb Local Engine\uff08Python 3.14 + AgentScope 2.0.8\uff09+ SQ",
     "id": "hrygo/WorldofMysteries",
     "language": "Swift",
@@ -315,15 +351,6 @@
     "url": "https://github.com/citizenhicks/mobius"
   },
   {
-    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
-    "id": "urankwong/agentsgo",
-    "language": "Python",
-    "name": "urankwong/agentsgo",
-    "stars": 0,
-    "updated_at": "2026-09-25T00:47:43Z",
-    "url": "https://github.com/urankwong/agentsgo"
-  },
-  {
     "description": "\u9002\u7528\u4e8e Claude Code \u548c Codex \u7684\u6c42\u804c Skill\uff1a\u67e5\u627e\u5c97\u4f4d\u3001\u5224\u65ad\u662f\u5426\u503c\u5f97\u6295\u9012\u3001\u5236\u4f5c\u7b80\u5386\u4e0e\u7533\u8bf7\u6750\u6599\u3001\u68c0\u9a8c\u7533\u8bf7\u6750\u6599\u5e76\u6a21\u62df\u9762\u8bd5\u3002\u4e0d\u7f16\u9020\u6280\u80fd\u6216\u4e1a\u7ee9\u6570\u5b57\uff0c\u4e0d\u9884\u6d4b\u5f55\u7528\u6982\u7387\uff1b\u68c0\u67e5\u7b80\u5386\u662f\u5426\u4fbf\u4e8e\u62db\u8058\u7ba1\u7406\u7cfb\u7edf\uff08ATS\uff09\u8bfb\u53d6\uff0c\u5e76\u4ece\u62db\u8058\u4eba\u5458\u548c\u7528\u4eba",
     "id": "addsumtech/job-hunt",
     "language": "Python",
@@ -401,7 +428,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 8,
-    "updated_at": "2026-09-25T01:43:47Z",
+    "updated_at": "2026-09-25T01:58:50Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-25T00:08:59Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Local-first pentest agent: Go daemon + React dashboard + Codex/Claude Code/Pi runtimes, scoped projects, Blackboard, san",
-    "id": "n1majne3/CyberPenda",
-    "language": "Go",
-    "name": "n1majne3/CyberPenda",
-    "stars": 19,
-    "updated_at": "2026-09-25T00:05:29Z",
-    "url": "https://github.com/n1majne3/CyberPenda"
-  },
-  {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-25T00:03:44Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 9,
-    "updated_at": "2026-09-25T00:03:12Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   }
 ]
