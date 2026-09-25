@@ -5,8 +5,89 @@
     "language": "JavaScript",
     "name": "jshnlhc/browser-shopping-agent",
     "stars": 0,
-    "updated_at": "2026-09-25T14:14:48Z",
+    "updated_at": "2026-09-25T14:29:10Z",
     "url": "https://github.com/jshnlhc/browser-shopping-agent"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-09-25T14:30:00Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
+    "id": "PCODE-pl/MCPTap",
+    "language": "Python",
+    "name": "PCODE-pl/MCPTap",
+    "stars": 1,
+    "updated_at": "2026-09-25T14:26:44Z",
+    "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
+    "description": "Field notes from inside one autonomous agent trying to become something that doesn't exist yet \u2014 including the failures ",
+    "id": "massimiliano1991/the-attempt",
+    "language": "HTML",
+    "name": "massimiliano1991/the-attempt",
+    "stars": 1,
+    "updated_at": "2026-09-25T14:23:19Z",
+    "url": "https://github.com/massimiliano1991/the-attempt"
+  },
+  {
+    "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
+    "id": "edjafarov/kiagent-core",
+    "language": "TypeScript",
+    "name": "edjafarov/kiagent-core",
+    "stars": 7,
+    "updated_at": "2026-09-25T14:21:50Z",
+    "url": "https://github.com/edjafarov/kiagent-core"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-09-25T14:22:00Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 20,
+    "updated_at": "2026-09-25T14:19:04Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
+    "id": "chunleik/self-analyst",
+    "language": "Java",
+    "name": "chunleik/self-analyst",
+    "stars": 0,
+    "updated_at": "2026-09-25T14:21:10Z",
+    "url": "https://github.com/chunleik/self-analyst"
+  },
+  {
+    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
+    "id": "kyleslight/shun",
+    "language": "TypeScript",
+    "name": "kyleslight/shun",
+    "stars": 6,
+    "updated_at": "2026-09-25T14:18:12Z",
+    "url": "https://github.com/kyleslight/shun"
+  },
+  {
+    "description": "\ub300\ud654 \uc18d \ud638\uce6d(\ud300\uc7a5 \u2192 \uae40\ud300\uc7a5 \u2192 \ubd80\uc7a5\ub2d8)\uc744 \uac19\uc740 \uc0ac\ub78c\uc73c\ub85c \ubb36\ub294 \uad00\uacc4 \uba54\ubaa8\ub9ac \uc5d0\uc774\uc804\ud2b8 \u2014 \uc5d4\ud2f0\ud2f0 \ud574\uc11d \ud30c\uc774\ud504\ub77c\uc778\uacfc \ud3c9\uac00 \uc7a5\uce58 (FastAPI \u00b7 PostgreSQL + pgvector, 1\uc778 \u00b7 \ucea1\uc2a4\ud1a4\ub514\uc790\uc778 2 \u00b7 ",
+    "id": "SunWoo1213/Relationship",
+    "language": "Python",
+    "name": "SunWoo1213/Relationship",
+    "stars": 0,
+    "updated_at": "2026-09-25T14:15:17Z",
+    "url": "https://github.com/SunWoo1213/Relationship"
   },
   {
     "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
@@ -34,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-09-25T14:10:48Z",
     "url": "https://github.com/Canyon-Li/AuditronClaw"
-  },
-  {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-09-25T14:09:13Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
   },
   {
     "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
@@ -108,15 +180,6 @@
     "url": "https://github.com/bigfish1913/pi-rust"
   },
   {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 20,
-    "updated_at": "2026-09-25T13:59:28Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
     "description": "\ud83e\udd16 MioChat \u2014 \u5f00\u6e90\u7684 Agent \u64cd\u4f5c\u7cfb\u7edf\u3002Agent / Session / SubAgent \u4e09\u7ea7\u4e0a\u4e0b\u6587\u6a21\u578b\u3001V3 Hook \u5207\u9762\u3001MCP + Skills \u53cc\u6807\u51c6\u5de5\u5177\u751f\u6001\u3001\u591a\u6e20\u9053\u63a5\u5165\u4e0e\u5b9a\u65f6\u81ea\u6cbb\u3002\u6a21\u578b\u65e0\u5173\u3001\u81ea\u6258\u7ba1\u3002",
     "id": "Pretend-to/mio-chat-backend",
     "language": "JavaScript",
@@ -133,15 +196,6 @@
     "stars": 31661,
     "updated_at": "2026-09-25T13:53:08Z",
     "url": "https://github.com/feder-cr/invisible_playwright_mcp"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-09-25T13:49:05Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "AI-orchestrated job search pipeline: scrapes 5 UA job boards, uses Claude API to score matches & classify emails, writes",
@@ -189,15 +243,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
-    "id": "chunleik/self-analyst",
-    "language": "Java",
-    "name": "chunleik/self-analyst",
-    "stars": 0,
-    "updated_at": "2026-09-25T13:46:39Z",
-    "url": "https://github.com/chunleik/self-analyst"
-  },
-  {
     "description": "Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi",
     "id": "zig333/ELAI-archive",
     "language": "\u2014",
@@ -214,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T13:21:10Z",
     "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
-  },
-  {
-    "description": "\ub300\ud654 \uc18d \ud638\uce6d(\ud300\uc7a5 \u2192 \uae40\ud300\uc7a5 \u2192 \ubd80\uc7a5\ub2d8)\uc744 \uac19\uc740 \uc0ac\ub78c\uc73c\ub85c \ubb36\ub294 \uad00\uacc4 \uba54\ubaa8\ub9ac \uc5d0\uc774\uc804\ud2b8 \u2014 \uc5d4\ud2f0\ud2f0 \ud574\uc11d \ud30c\uc774\ud504\ub77c\uc778\uacfc \ud3c9\uac00 \uc7a5\uce58 (FastAPI \u00b7 PostgreSQL + pgvector, 1\uc778 \u00b7 \ucea1\uc2a4\ud1a4\ub514\uc790\uc778 2 \u00b7 ",
-    "id": "SunWoo1213/Relationship",
-    "language": "Python",
-    "name": "SunWoo1213/Relationship",
-    "stars": 0,
-    "updated_at": "2026-09-25T14:15:17Z",
-    "url": "https://github.com/SunWoo1213/Relationship"
   },
   {
     "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
@@ -333,15 +369,6 @@
     "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
   },
   {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-09-25T14:11:30Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
     "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
     "id": "mriazi1982/octopai",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-25T12:45:04Z",
     "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-09-25T12:40:04Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-09-25T12:39:24Z",
-    "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 179,
-    "updated_at": "2026-09-25T12:38:14Z",
-    "url": "https://github.com/yologdev/yoagent"
   }
 ]
