@@ -1,11 +1,119 @@
 [
   {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 10,
+    "updated_at": "2026-09-25T17:59:56Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-09-25T17:58:30Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-09-25T17:56:15Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "Official Scrapfly MCP server for Cursor, Claude Desktop, and any MCP-compatible client. Enterprise-grade web scraping, A",
+    "id": "scrapfly/scrapfly-mcp",
+    "language": "Go",
+    "name": "scrapfly/scrapfly-mcp",
+    "stars": 14,
+    "updated_at": "2026-09-25T17:54:08Z",
+    "url": "https://github.com/scrapfly/scrapfly-mcp"
+  },
+  {
+    "description": "Agentic CLI for the Scrapfly platform: scrape, extract, crawl, and drive a cloud browser over CDP. Built-in LLM agent wi",
+    "id": "scrapfly/scrapfly-cli",
+    "language": "Go",
+    "name": "scrapfly/scrapfly-cli",
+    "stars": 5,
+    "updated_at": "2026-09-25T17:54:05Z",
+    "url": "https://github.com/scrapfly/scrapfly-cli"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-09-25T17:53:10Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-09-25T17:52:38Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-09-25T17:48:55Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "Desktop GUI Headless Local-first AI coding agent in Rust (axum, tokio, rmcp, portable-pty) behind HTTP + SSE, with an An",
+    "id": "henrykbrzoska/bebok",
+    "language": "Rust",
+    "name": "henrykbrzoska/bebok",
+    "stars": 5,
+    "updated_at": "2026-09-25T17:49:37Z",
+    "url": "https://github.com/henrykbrzoska/bebok"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-09-25T17:48:20Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-09-25T17:47:19Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into",
+    "id": "AskTheWay/dsh-auto-memory",
+    "language": "TypeScript",
+    "name": "AskTheWay/dsh-auto-memory",
+    "stars": 2,
+    "updated_at": "2026-09-25T17:46:06Z",
+    "url": "https://github.com/AskTheWay/dsh-auto-memory"
+  },
+  {
     "description": "Control AI agents anywhere. (github mirror)",
     "id": "justacalico/devinorium",
     "language": "Dart",
     "name": "justacalico/devinorium",
     "stars": 1,
-    "updated_at": "2026-09-25T17:43:21Z",
+    "updated_at": "2026-09-25T17:56:43Z",
     "url": "https://github.com/justacalico/devinorium"
   },
   {
@@ -16,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T17:43:12Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-09-25T17:39:07Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-09-25T17:38:45Z",
-    "url": "https://github.com/SashaEee/auditLens"
   },
   {
     "description": "LangGraph tool-calling agent for ACCESS-CI user support: documentation retrieval plus live infrastructure tools, with a ",
@@ -49,7 +139,7 @@
     "id": "SLCA-GRPO/SLCA-GRPO",
     "language": "Python",
     "name": "SLCA-GRPO/SLCA-GRPO",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-09-25T17:34:44Z",
     "url": "https://github.com/SLCA-GRPO/SLCA-GRPO"
   },
@@ -88,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T17:19:27Z",
     "url": "https://github.com/roydonsequeira/CORTEX-Private-Intelligence-Framework"
-  },
-  {
-    "description": "Desktop GUI Headless Local-first AI coding agent in Rust (axum, tokio, rmcp, portable-pty) behind HTTP + SSE, with an An",
-    "id": "henrykbrzoska/bebok",
-    "language": "Rust",
-    "name": "henrykbrzoska/bebok",
-    "stars": 5,
-    "updated_at": "2026-09-25T17:31:03Z",
-    "url": "https://github.com/henrykbrzoska/bebok"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -367,86 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-25T16:13:42Z",
     "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "Agent Knowledge Cycle (AKC) \u2014 a knowledge cycle for AI agents: agent behavior compounds, human judgment sharpens. Six ph",
-    "id": "shimo4228/agent-knowledge-cycle",
-    "language": "\u2014",
-    "name": "shimo4228/agent-knowledge-cycle",
-    "stars": 4,
-    "updated_at": "2026-09-25T16:12:33Z",
-    "url": "https://github.com/shimo4228/agent-knowledge-cycle"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-09-25T16:10:41Z",
-    "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Browser-level shopping agent for Chinese e-commerce: CDP-based toolchain, field-tested methodology, and an experience re",
-    "id": "jshnlhc/browser-shopping-agent",
-    "language": "JavaScript",
-    "name": "jshnlhc/browser-shopping-agent",
-    "stars": 0,
-    "updated_at": "2026-09-25T16:08:34Z",
-    "url": "https://github.com/jshnlhc/browser-shopping-agent"
-  },
-  {
-    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
-    "id": "Danisxxx/comfyUI-LongLook",
-    "language": "Python",
-    "name": "Danisxxx/comfyUI-LongLook",
-    "stars": 2,
-    "updated_at": "2026-09-25T16:08:16Z",
-    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
-  },
-  {
-    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
-    "id": "axxafo/awesome-agent-benchmarks",
-    "language": "\u2014",
-    "name": "axxafo/awesome-agent-benchmarks",
-    "stars": 4,
-    "updated_at": "2026-09-25T16:07:25Z",
-    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "A personal assistant with a phone number: SQLite-backed todos, memories, and reflections, searchable through Algolia and",
-    "id": "NatanTechofNY/fieldnote-assistant",
-    "language": "TypeScript",
-    "name": "NatanTechofNY/fieldnote-assistant",
-    "stars": 1,
-    "updated_at": "2026-09-25T16:07:07Z",
-    "url": "https://github.com/NatanTechofNY/fieldnote-assistant"
-  },
-  {
-    "description": "IAM for your AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review risky a",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 216,
-    "updated_at": "2026-09-25T16:04:36Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
-    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
-    "id": "sky-valley/pi",
-    "language": "Go",
-    "name": "sky-valley/pi",
-    "stars": 57,
-    "updated_at": "2026-09-25T16:04:18Z",
-    "url": "https://github.com/sky-valley/pi"
-  },
-  {
-    "description": "Open-source local AI Agent desktop app for authorized security assessment \u2014 Electron + Mastra-powered runtime, visual pe",
-    "id": "MingyiSecLab/Atlas",
-    "language": "TypeScript",
-    "name": "MingyiSecLab/Atlas",
-    "stars": 24,
-    "updated_at": "2026-09-25T16:03:06Z",
-    "url": "https://github.com/MingyiSecLab/Atlas"
   }
 ]
