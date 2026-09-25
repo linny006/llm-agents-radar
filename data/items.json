@@ -1,12 +1,66 @@
 [
   {
+    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
+    "id": "PCODE-pl/MCPTap",
+    "language": "Python",
+    "name": "PCODE-pl/MCPTap",
+    "stars": 1,
+    "updated_at": "2026-09-25T09:45:05Z",
+    "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-09-25T09:43:26Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "AI assistant for a clothing store's floor team: tracks category pace vs monthly targets, diagnoses why (stockouts, broke",
+    "id": "nanditamenon003/category-pulse",
+    "language": "Python",
+    "name": "nanditamenon003/category-pulse",
+    "stars": 0,
+    "updated_at": "2026-09-25T09:40:03Z",
+    "url": "https://github.com/nanditamenon003/category-pulse"
+  },
+  {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
     "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
     "name": "aiterrariumcontrol/terrarium-life",
     "stars": 0,
-    "updated_at": "2026-09-25T09:24:52Z",
+    "updated_at": "2026-09-25T09:38:20Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "DevOps & Cloud AI Assistant that runs locally with Ollama for complete privacy.",
+    "id": "tara-vision/taracode",
+    "language": "Go",
+    "name": "tara-vision/taracode",
+    "stars": 51,
+    "updated_at": "2026-09-25T09:38:08Z",
+    "url": "https://github.com/tara-vision/taracode"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 20,
+    "updated_at": "2026-09-25T09:36:27Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 10,
+    "updated_at": "2026-09-25T09:35:46Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
@@ -25,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-09-25T09:18:17Z",
     "url": "https://github.com/VoroshylovV/job-search-automation-pipeline"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 10,
-    "updated_at": "2026-09-25T09:07:25Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi",
@@ -108,6 +153,15 @@
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
   },
   {
+    "description": "Playwright MCP server undetected by anti-bots, no captchas: AI agent browses the web on anti-detect stealth Firefox, sel",
+    "id": "feder-cr/invisible_playwright_mcp",
+    "language": "Python",
+    "name": "feder-cr/invisible_playwright_mcp",
+    "stars": 31656,
+    "updated_at": "2026-09-25T08:55:44Z",
+    "url": "https://github.com/feder-cr/invisible_playwright_mcp"
+  },
+  {
     "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
     "id": "clashroy5384/ai-papers-hub",
     "language": "\u2014",
@@ -115,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T08:55:42Z",
     "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "Playwright MCP server undetected by anti-bots, no captchas: AI agent browses the web on anti-detect stealth Firefox, sel",
-    "id": "feder-cr/invisible_playwright_mcp",
-    "language": "Python",
-    "name": "feder-cr/invisible_playwright_mcp",
-    "stars": 31655,
-    "updated_at": "2026-09-25T08:55:44Z",
-    "url": "https://github.com/feder-cr/invisible_playwright_mcp"
   },
   {
     "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
@@ -207,15 +252,6 @@
     "url": "https://github.com/Bowotria/aethercore"
   },
   {
-    "description": "DevOps & Cloud AI Assistant that runs locally with Ollama for complete privacy.",
-    "id": "tara-vision/taracode",
-    "language": "Go",
-    "name": "tara-vision/taracode",
-    "stars": 51,
-    "updated_at": "2026-09-25T08:51:35Z",
-    "url": "https://github.com/tara-vision/taracode"
-  },
-  {
     "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
     "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
     "language": "Python",
@@ -223,15 +259,6 @@
     "stars": 4,
     "updated_at": "2026-09-25T08:43:31Z",
     "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 20,
-    "updated_at": "2026-09-25T08:42:39Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
     "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
@@ -302,7 +329,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 809,
-    "updated_at": "2026-09-25T08:44:11Z",
+    "updated_at": "2026-09-25T09:44:55Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -331,15 +358,6 @@
     "stars": 4,
     "updated_at": "2026-09-25T08:28:02Z",
     "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-09-25T09:01:11Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "",
@@ -414,15 +432,6 @@
     "url": "https://github.com/kyleslight/shun"
   },
   {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-09-25T08:07:39Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
-  },
-  {
     "description": "Visual inspection with an LLM agent: YOLOv8 + Qwen-VL, RAG standards retrieval via tool calling with grounded citations,",
     "id": "mino19790622-dot/visual-inspection-report-generator",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-25T08:09:46Z",
     "url": "https://github.com/ximing/vital"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8360,
-    "updated_at": "2026-09-25T08:00:15Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   }
 ]
