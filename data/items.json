@@ -1,21 +1,21 @@
 [
   {
-    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
-    "id": "urankwong/agentsgo",
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
-    "name": "urankwong/agentsgo",
+    "name": "aiterrariumcontrol/terrarium-life",
     "stars": 0,
-    "updated_at": "2026-09-25T16:58:09Z",
-    "url": "https://github.com/urankwong/agentsgo"
+    "updated_at": "2026-09-25T17:14:07Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
+    "description": "LangGraph tool-calling agent for ACCESS-CI user support: documentation retrieval plus live infrastructure tools, with a ",
+    "id": "connectci-platform/access-agent",
     "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-09-25T16:57:51Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
+    "name": "connectci-platform/access-agent",
+    "stars": 0,
+    "updated_at": "2026-09-25T17:13:38Z",
+    "url": "https://github.com/connectci-platform/access-agent"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -23,8 +23,17 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 810,
-    "updated_at": "2026-09-25T16:52:45Z",
+    "updated_at": "2026-09-25T17:12:31Z",
     "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
+    "id": "peder1981/AdvPP",
+    "language": "Go",
+    "name": "peder1981/AdvPP",
+    "stars": 2,
+    "updated_at": "2026-09-25T17:11:27Z",
+    "url": "https://github.com/peder1981/AdvPP"
   },
   {
     "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
@@ -32,8 +41,53 @@
     "language": "Python",
     "name": "SashaEee/auditLens",
     "stars": 2,
-    "updated_at": "2026-09-25T16:48:03Z",
+    "updated_at": "2026-09-25T17:10:31Z",
     "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
+    "id": "PCODE-pl/MCPTap",
+    "language": "Python",
+    "name": "PCODE-pl/MCPTap",
+    "stars": 1,
+    "updated_at": "2026-09-25T17:08:43Z",
+    "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 4,
+    "updated_at": "2026-09-25T17:08:19Z",
+    "url": "https://github.com/ljedrz/nachalnik"
+  },
+  {
+    "description": "sid-code \u4e0e claude-trace \u5171\u540c\u9762\u5bf9\u7684\u4f01\u4e1a\u7ea7\u540e\u7aef\uff1a\u63a7\u5236\u9762\uff08policy / flag / \u8eab\u4efd\uff09\u4e0e\u6570\u636e\u9762\uff08\u8f68\u8ff9 / \u4e8b\u4ef6\uff09\u540c\u4ed3\u3001\u9274\u6743\u9694\u79bb\u3002\u5df2\u4ea4\u4ed8\u8f68\u8ff9\u5b58\u50a8\u4e0e\u5206\u6790\uff0c\u5176\u4f59\u6a21\u5757\u6309\u91cc\u7a0b\u7891\u8fed\u4ee3",
+    "id": "njfuzrs/agent-backend",
+    "language": "Python",
+    "name": "njfuzrs/agent-backend",
+    "stars": 0,
+    "updated_at": "2026-09-25T17:06:38Z",
+    "url": "https://github.com/njfuzrs/agent-backend"
+  },
+  {
+    "description": "SLCA-GRPO: Resolving Cross-Segment Credit Misattribution in Tool-Calling RL \u2014 segment-locked credit assignment for tool-",
+    "id": "SLCA-GRPO/SLCA-GRPO",
+    "language": "Python",
+    "name": "SLCA-GRPO/SLCA-GRPO",
+    "stars": 0,
+    "updated_at": "2026-09-25T17:04:05Z",
+    "url": "https://github.com/SLCA-GRPO/SLCA-GRPO"
+  },
+  {
+    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
+    "id": "urankwong/agentsgo",
+    "language": "Python",
+    "name": "urankwong/agentsgo",
+    "stars": 0,
+    "updated_at": "2026-09-25T16:58:09Z",
+    "url": "https://github.com/urankwong/agentsgo"
   },
   {
     "description": "A private AI agent that runs on your Android phone \u2014 on-device Go gateway, local dashboard, real arm64 tools, and Telegr",
@@ -50,7 +104,7 @@
     "language": "Rust",
     "name": "henrykbrzoska/bebok",
     "stars": 5,
-    "updated_at": "2026-09-25T16:41:40Z",
+    "updated_at": "2026-09-25T17:15:15Z",
     "url": "https://github.com/henrykbrzoska/bebok"
   },
   {
@@ -68,7 +122,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-25T16:43:10Z",
+    "updated_at": "2026-09-25T17:13:06Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -270,15 +324,6 @@
     "url": "https://github.com/mohahasan/ios-agentic-skills"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-09-25T16:12:51Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "Agent Knowledge Cycle (AKC) \u2014 a knowledge cycle for AI agents: agent behavior compounds, human judgment sharpens. Six ph",
     "id": "shimo4228/agent-knowledge-cycle",
     "language": "\u2014",
@@ -338,7 +383,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 8406,
-    "updated_at": "2026-09-25T16:05:55Z",
+    "updated_at": "2026-09-25T17:07:39Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-25T15:55:56Z",
     "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
-    "id": "SHUKLAO/call-with-ai-agent",
-    "language": "\u2014",
-    "name": "SHUKLAO/call-with-ai-agent",
-    "stars": 3,
-    "updated_at": "2026-09-25T15:51:11Z",
-    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
-    "id": "WP2-Danikusuma/AgentX",
-    "language": "HTML",
-    "name": "WP2-Danikusuma/AgentX",
-    "stars": 2,
-    "updated_at": "2026-09-25T15:50:36Z",
-    "url": "https://github.com/WP2-Danikusuma/AgentX"
-  },
-  {
-    "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
-    "id": "khudayarovich/onflip-agent",
-    "language": "TypeScript",
-    "name": "khudayarovich/onflip-agent",
-    "stars": 4,
-    "updated_at": "2026-09-25T15:50:06Z",
-    "url": "https://github.com/khudayarovich/onflip-agent"
-  },
-  {
-    "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
-    "id": "ximing/vital",
-    "language": "TypeScript",
-    "name": "ximing/vital",
-    "stars": 2,
-    "updated_at": "2026-09-25T15:52:33Z",
-    "url": "https://github.com/ximing/vital"
-  },
-  {
-    "description": "AI-orchestrated job search pipeline: scrapes 5 UA job boards, uses Claude API to score matches & classify emails, writes",
-    "id": "VoroshylovV/job-search-automation-pipeline",
-    "language": "Python",
-    "name": "VoroshylovV/job-search-automation-pipeline",
-    "stars": 1,
-    "updated_at": "2026-09-25T15:36:59Z",
-    "url": "https://github.com/VoroshylovV/job-search-automation-pipeline"
   }
 ]
