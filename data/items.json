@@ -1,12 +1,12 @@
 [
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-25T05:55:37Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
+    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
+    "id": "kyleslight/shun",
+    "language": "TypeScript",
+    "name": "kyleslight/shun",
+    "stars": 6,
+    "updated_at": "2026-09-25T06:12:57Z",
+    "url": "https://github.com/kyleslight/shun"
   },
   {
     "description": "AgentBypass \u2014 Omni Operator LLM Agent Skill (Cknb): Turn any LLM into RE / Pwn / CTF / Pentest / Protocol / Crypto / Mob",
@@ -14,8 +14,71 @@
     "language": "\u2014",
     "name": "1837620622/agent-bypass",
     "stars": 7,
-    "updated_at": "2026-09-25T05:54:53Z",
+    "updated_at": "2026-09-25T06:09:31Z",
     "url": "https://github.com/1837620622/agent-bypass"
+  },
+  {
+    "description": "Browser-level shopping agent for Chinese e-commerce: CDP-based toolchain, field-tested methodology, and an experience re",
+    "id": "jshnlhc/browser-shopping-agent",
+    "language": "JavaScript",
+    "name": "jshnlhc/browser-shopping-agent",
+    "stars": 0,
+    "updated_at": "2026-09-25T06:07:24Z",
+    "url": "https://github.com/jshnlhc/browser-shopping-agent"
+  },
+  {
+    "description": "\ud83d\udc27 is currently a work in progress... Stay tuned! ",
+    "id": "Maximooch/penguin",
+    "language": "Python",
+    "name": "Maximooch/penguin",
+    "stars": 6,
+    "updated_at": "2026-09-25T06:04:39Z",
+    "url": "https://github.com/Maximooch/penguin"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 67,
+    "updated_at": "2026-09-25T06:04:37Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 9,
+    "updated_at": "2026-09-25T06:03:35Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Tauri desktop shell for the local-first Bodhi agent: manages Bamboo startup/reuse and health; packaged builds open the B",
+    "id": "bigduu/Bodhi-AI",
+    "language": "JavaScript",
+    "name": "bigduu/Bodhi-AI",
+    "stars": 17,
+    "updated_at": "2026-09-25T06:03:05Z",
+    "url": "https://github.com/bigduu/Bodhi-AI"
+  },
+  {
+    "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
+    "id": "khudayarovich/onflip-agent",
+    "language": "TypeScript",
+    "name": "khudayarovich/onflip-agent",
+    "stars": 4,
+    "updated_at": "2026-09-25T06:00:51Z",
+    "url": "https://github.com/khudayarovich/onflip-agent"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-25T06:13:06Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
@@ -27,15 +90,6 @@
     "url": "https://github.com/plurnk/plurnk-service"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 9,
-    "updated_at": "2026-09-25T05:49:03Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -43,15 +97,6 @@
     "stars": 130,
     "updated_at": "2026-09-25T05:48:55Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
-    "id": "kyleslight/shun",
-    "language": "TypeScript",
-    "name": "kyleslight/shun",
-    "stars": 6,
-    "updated_at": "2026-09-25T05:48:19Z",
-    "url": "https://github.com/kyleslight/shun"
   },
   {
     "description": "LLM agent that turns two Android Perfetto traces and a git range into a cited diagnosis: the regressed metric, the culpr",
@@ -140,7 +185,7 @@
     "language": "Go",
     "name": "Lord1Egypt/PocketClaw",
     "stars": 1,
-    "updated_at": "2026-09-25T05:34:54Z",
+    "updated_at": "2026-09-25T06:05:51Z",
     "url": "https://github.com/Lord1Egypt/PocketClaw"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-25T04:52:00Z",
     "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-09-25T04:50:55Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
-    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "language": "HTML",
-    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "stars": 0,
-    "updated_at": "2026-09-25T04:47:18Z",
-    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
-    "id": "hasting323/AutoGLM-For-Android",
-    "language": "Kotlin",
-    "name": "hasting323/AutoGLM-For-Android",
-    "stars": 12,
-    "updated_at": "2026-09-25T04:44:07Z",
-    "url": "https://github.com/hasting323/AutoGLM-For-Android"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-09-25T04:42:44Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-09-25T04:41:16Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
   }
 ]
