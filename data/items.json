@@ -1,5 +1,41 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-25T22:44:10Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 24,
+    "updated_at": "2026-09-25T22:36:48Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-25T22:31:31Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Capability-ontology-driven SAP capability supplier. One call answers one business question; endpoint chains, as-of consi",
+    "id": "shrek-abaper/sap-nexus-agent",
+    "language": "Python",
+    "name": "shrek-abaper/sap-nexus-agent",
+    "stars": 0,
+    "updated_at": "2026-09-25T22:30:48Z",
+    "url": "https://github.com/shrek-abaper/sap-nexus-agent"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -18,21 +54,12 @@
     "url": "https://github.com/0yman/ask-your-data"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-25T22:19:01Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-25T22:30:15Z",
+    "updated_at": "2026-09-25T22:31:01Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -248,7 +275,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4429,
-    "updated_at": "2026-09-25T22:17:54Z",
+    "updated_at": "2026-09-25T22:37:38Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-25T20:23:10Z",
     "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "\ud83e\udeb6 Quill \u2014 Open-source AI super-agent framework with sandboxed execution, sub-agent orchestration, MCP, skills marketplac",
-    "id": "CreamyLong/quill",
-    "language": "TypeScript",
-    "name": "CreamyLong/quill",
-    "stars": 2,
-    "updated_at": "2026-09-25T20:22:32Z",
-    "url": "https://github.com/CreamyLong/quill"
-  },
-  {
-    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
-    "id": "Danisxxx/comfyUI-LongLook",
-    "language": "Python",
-    "name": "Danisxxx/comfyUI-LongLook",
-    "stars": 2,
-    "updated_at": "2026-09-25T20:18:12Z",
-    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
-  },
-  {
-    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
-    "id": "axxafo/awesome-agent-benchmarks",
-    "language": "\u2014",
-    "name": "axxafo/awesome-agent-benchmarks",
-    "stars": 4,
-    "updated_at": "2026-09-25T20:17:38Z",
-    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
   }
 ]
