@@ -1,5 +1,95 @@
 [
   {
+    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
+    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "language": "\u2014",
+    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "stars": 0,
+    "updated_at": "2026-09-25T08:56:17Z",
+    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
+  },
+  {
+    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
+    "id": "clashroy5384/ai-papers-hub",
+    "language": "\u2014",
+    "name": "clashroy5384/ai-papers-hub",
+    "stars": 0,
+    "updated_at": "2026-09-25T08:55:42Z",
+    "url": "https://github.com/clashroy5384/ai-papers-hub"
+  },
+  {
+    "description": "Playwright MCP server undetected by anti-bots, no captchas: AI agent browses the web on anti-detect stealth Firefox, sel",
+    "id": "feder-cr/invisible_playwright_mcp",
+    "language": "Python",
+    "name": "feder-cr/invisible_playwright_mcp",
+    "stars": 31655,
+    "updated_at": "2026-09-25T08:55:44Z",
+    "url": "https://github.com/feder-cr/invisible_playwright_mcp"
+  },
+  {
+    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
+    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
+    "language": "Python",
+    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
+    "stars": 5,
+    "updated_at": "2026-09-25T08:53:54Z",
+    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
+  },
+  {
+    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
+    "id": "oxidizable-malinois605/bridge-suite-mcp",
+    "language": "TypeScript",
+    "name": "oxidizable-malinois605/bridge-suite-mcp",
+    "stars": 0,
+    "updated_at": "2026-09-25T08:51:57Z",
+    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
+  },
+  {
+    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
+    "id": "Arjunadh5305/ios-skills-collection",
+    "language": "\u2014",
+    "name": "Arjunadh5305/ios-skills-collection",
+    "stars": 1,
+    "updated_at": "2026-09-25T08:51:55Z",
+    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
+  },
+  {
+    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
+    "id": "Stolas34/voice-input-src",
+    "language": "\u2014",
+    "name": "Stolas34/voice-input-src",
+    "stars": 0,
+    "updated_at": "2026-09-25T08:51:38Z",
+    "url": "https://github.com/Stolas34/voice-input-src"
+  },
+  {
+    "description": "Local-first desktop app: 16 AI agents from 8 LLM providers debate any topic \u2014 with live argument mapping, fact-check bad",
+    "id": "richer-richard/socratic-council",
+    "language": "Rust",
+    "name": "richer-richard/socratic-council",
+    "stars": 8,
+    "updated_at": "2026-09-25T08:50:00Z",
+    "url": "https://github.com/richer-richard/socratic-council"
+  },
+  {
+    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
+    "id": "Screwtopped-annapavlova802/SparkLabs",
+    "language": "C++",
+    "name": "Screwtopped-annapavlova802/SparkLabs",
+    "stars": 1,
+    "updated_at": "2026-09-25T08:49:39Z",
+    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
+  },
+  {
+    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
+    "id": "mriazi1982/octopai",
+    "language": "Python",
+    "name": "mriazi1982/octopai",
+    "stars": 1,
+    "updated_at": "2026-09-25T08:48:24Z",
+    "url": "https://github.com/mriazi1982/octopai"
+  },
+  {
     "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
     "id": "mezoali100/exforum-auto-poster",
     "language": "\u2014",
@@ -23,7 +113,7 @@
     "language": "Go",
     "name": "tara-vision/taracode",
     "stars": 51,
-    "updated_at": "2026-09-25T08:44:19Z",
+    "updated_at": "2026-09-25T08:51:35Z",
     "url": "https://github.com/tara-vision/taracode"
   },
   {
@@ -193,7 +283,7 @@
     "id": "genaforvena/lte-workstation",
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
-    "stars": 9,
+    "stars": 10,
     "updated_at": "2026-09-25T08:20:35Z",
     "url": "https://github.com/genaforvena/lte-workstation"
   },
@@ -261,15 +351,6 @@
     "url": "https://github.com/PCODE-pl/MCPTap"
   },
   {
-    "description": "Local-first desktop app: 16 AI agents from 8 LLM providers debate any topic \u2014 with live argument mapping, fact-check bad",
-    "id": "richer-richard/socratic-council",
-    "language": "Rust",
-    "name": "richer-richard/socratic-council",
-    "stars": 8,
-    "updated_at": "2026-09-25T08:10:01Z",
-    "url": "https://github.com/richer-richard/socratic-council"
-  },
-  {
     "description": "Visual inspection with an LLM agent: YOLOv8 + Qwen-VL, RAG standards retrieval via tool calling with grounded citations,",
     "id": "mino19790622-dot/visual-inspection-report-generator",
     "language": "Python",
@@ -301,7 +382,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 8352,
+    "stars": 8355,
     "updated_at": "2026-09-25T08:00:15Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-25T07:21:34Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "A private AI agent that runs on your Android phone \u2014 on-device Go gateway, local dashboard, real arm64 tools, and Telegr",
-    "id": "Lord1Egypt/PocketClaw",
-    "language": "Go",
-    "name": "Lord1Egypt/PocketClaw",
-    "stars": 1,
-    "updated_at": "2026-09-25T07:17:01Z",
-    "url": "https://github.com/Lord1Egypt/PocketClaw"
-  },
-  {
-    "description": "sid-code \u4e0e claude-trace \u5171\u540c\u9762\u5bf9\u7684\u4f01\u4e1a\u7ea7\u540e\u7aef\uff1a\u63a7\u5236\u9762\uff08policy / flag / \u8eab\u4efd\uff09\u4e0e\u6570\u636e\u9762\uff08\u8f68\u8ff9 / \u4e8b\u4ef6\uff09\u540c\u4ed3\u3001\u9274\u6743\u9694\u79bb\u3002\u5df2\u4ea4\u4ed8\u8f68\u8ff9\u5b58\u50a8\u4e0e\u5206\u6790\uff0c\u5176\u4f59\u6a21\u5757\u6309\u91cc\u7a0b\u7891\u8fed\u4ee3",
-    "id": "njfuzrs/agent-backend",
-    "language": "Python",
-    "name": "njfuzrs/agent-backend",
-    "stars": 0,
-    "updated_at": "2026-09-25T08:03:25Z",
-    "url": "https://github.com/njfuzrs/agent-backend"
-  },
-  {
-    "description": "Document-grounded adaptive tutoring with bounded tool-use agents",
-    "id": "tx3457/study-loop",
-    "language": "Python",
-    "name": "tx3457/study-loop",
-    "stars": 0,
-    "updated_at": "2026-09-25T07:15:25Z",
-    "url": "https://github.com/tx3457/study-loop"
-  },
-  {
-    "description": "Python SDK for durable AI agents: survive crashes, pause for human approval at no cost, scale from a script to a multi-h",
-    "id": "initxy/noeta",
-    "language": "Python",
-    "name": "initxy/noeta",
-    "stars": 10,
-    "updated_at": "2026-09-25T07:10:53Z",
-    "url": "https://github.com/initxy/noeta"
-  },
-  {
-    "description": "A directory website for offline private AI tools listing",
-    "id": "mamylinx/enclavetools-web",
-    "language": "Astro",
-    "name": "mamylinx/enclavetools-web",
-    "stars": 0,
-    "updated_at": "2026-09-25T07:10:33Z",
-    "url": "https://github.com/mamylinx/enclavetools-web"
-  },
-  {
-    "description": "\u5f17\u6d1b\u6d1b\u667a\u80fd\u4f53\u5e73\u53f0\uff1a\u591a\u540e\u7aef LLM \u5bf9\u8bdd + \u53f0\u8bcd\u8bed\u6599\u68c0\u7d22 + \u53ef\u62d6\u62fd\u98de\u8baf\u804a\u5929\u7a97 + Live2D \u684c\u5ba0\u3002FastAPI \u00b7 Vue 3 \u00b7 LangChain \u00b7 PostgreSQL/PgVector \u00b7 Redis \u00b7 MinIO\uff0cDo",
-    "id": "blueberrymaid/phrolova-agent-platform",
-    "language": "Vue",
-    "name": "blueberrymaid/phrolova-agent-platform",
-    "stars": 0,
-    "updated_at": "2026-09-25T07:08:45Z",
-    "url": "https://github.com/blueberrymaid/phrolova-agent-platform"
-  },
-  {
-    "description": "Local-first long-term memory and safer context compression for Hermes Agent \u2014 SQLite, no required services.",
-    "id": "indigokarasu/chronicle-agent-context-and-memory",
-    "language": "Python",
-    "name": "indigokarasu/chronicle-agent-context-and-memory",
-    "stars": 6,
-    "updated_at": "2026-09-25T07:06:48Z",
-    "url": "https://github.com/indigokarasu/chronicle-agent-context-and-memory"
-  },
-  {
-    "description": "Generate rich YuE2 audio in ComfyUI with six modular nodes\u2014hum-to-song, LoRA and adapter support\u2014no stock nodes needed.",
-    "id": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
-    "language": "Python",
-    "name": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
-    "stars": 0,
-    "updated_at": "2026-09-25T07:05:22Z",
-    "url": "https://github.com/Deborahwalkerz661/ComfyUI-FS_Audio_Suite"
-  },
-  {
-    "description": "AgentBypass \u2014 Omni Operator LLM Agent Skill (Cknb): Turn any LLM into RE / Pwn / CTF / Pentest / Protocol / Crypto / Mob",
-    "id": "1837620622/agent-bypass",
-    "language": "\u2014",
-    "name": "1837620622/agent-bypass",
-    "stars": 7,
-    "updated_at": "2026-09-25T07:43:12Z",
-    "url": "https://github.com/1837620622/agent-bypass"
   }
 ]
