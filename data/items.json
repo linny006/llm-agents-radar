@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "PCODE-pl/MCPTap",
     "stars": 1,
-    "updated_at": "2026-09-25T09:55:31Z",
+    "updated_at": "2026-09-25T09:59:59Z",
     "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-09-25T09:58:44Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "AI-orchestrated job search pipeline: scrapes 5 UA job boards, uses Claude API to score matches & classify emails, writes",
+    "id": "VoroshylovV/job-search-automation-pipeline",
+    "language": "Python",
+    "name": "VoroshylovV/job-search-automation-pipeline",
+    "stars": 1,
+    "updated_at": "2026-09-25T09:58:39Z",
+    "url": "https://github.com/VoroshylovV/job-search-automation-pipeline"
   },
   {
     "description": "Auto-resume failed/stalled turns for DeepSeek Harness (DSH) \u2014 dual-chain auto-continue + anti-repetition plugins, instal",
@@ -79,24 +97,6 @@
     "stars": 10,
     "updated_at": "2026-09-25T09:35:46Z",
     "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-09-25T09:19:30Z",
-    "url": "https://github.com/SashaEee/auditLens"
-  },
-  {
-    "description": "AI-orchestrated job search pipeline: scrapes 5 UA job boards, uses Claude API to score matches & classify emails, writes",
-    "id": "VoroshylovV/job-search-automation-pipeline",
-    "language": "Python",
-    "name": "VoroshylovV/job-search-automation-pipeline",
-    "stars": 1,
-    "updated_at": "2026-09-25T09:18:17Z",
-    "url": "https://github.com/VoroshylovV/job-search-automation-pipeline"
   },
   {
     "description": "Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi",

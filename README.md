@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-25 09:56 UTC
+> ⏰ Last updated: 2026-09-25 10:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,16 +43,16 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [PCODE-pl/MCPTap](https://github.com/PCODE-pl/MCPTap) | 1 | Python | 2026-09-25 | MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP |
-| 2 | [shu0819-sjy/dsh-auto-continue](https://github.com/shu0819-sjy/dsh-auto-continue) | 0 | JavaScript | 2026-09-25 | Auto-resume failed/stalled turns for DeepSeek Harness (DSH) — dual-chain auto-continue + anti-repetition plugins, instal |
-| 3 | [uukuguy/capstone](https://github.com/uukuguy/capstone) | 0 | Python | 2026-09-25 | Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio |
-| 4 | [tara-vision/taracode](https://github.com/tara-vision/taracode) | 51 | Go | 2026-09-25 | DevOps & Cloud AI Assistant that runs locally with Ollama for complete privacy. |
-| 5 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 14 | Go | 2026-09-25 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
-| 6 | [nanditamenon003/category-pulse](https://github.com/nanditamenon003/category-pulse) | 0 | Python | 2026-09-25 | AI assistant for a clothing store's floor team: tracks category pace vs monthly targets, diagnoses why (stockouts, broke |
-| 7 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-09-25 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
-| 8 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 20 | Python | 2026-09-25 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、HMI和Android双端；LLM 只负责理解与规划，VAL 负责确定性安全执行 |
-| 9 | [genaforvena/lte-workstation](https://github.com/genaforvena/lte-workstation) | 10 | Shell | 2026-09-25 | An autopoiesic kefir for computing machines |
-| 10 | [SashaEee/auditLens](https://github.com/SashaEee/auditLens) | 2 | Python | 2026-09-25 | Deep-research LLM agent + RAG platform for internal bank-product audit — cited reports, PDF export, pgvector |
-| 11 | [VoroshylovV/job-search-automation-pipeline](https://github.com/VoroshylovV/job-search-automation-pipeline) | 1 | Python | 2026-09-25 | AI-orchestrated job search pipeline: scrapes 5 UA job boards, uses Claude API to score matches & classify emails, writes |
+| 2 | [SashaEee/auditLens](https://github.com/SashaEee/auditLens) | 2 | Python | 2026-09-25 | Deep-research LLM agent + RAG platform for internal bank-product audit — cited reports, PDF export, pgvector |
+| 3 | [VoroshylovV/job-search-automation-pipeline](https://github.com/VoroshylovV/job-search-automation-pipeline) | 1 | Python | 2026-09-25 | AI-orchestrated job search pipeline: scrapes 5 UA job boards, uses Claude API to score matches & classify emails, writes |
+| 4 | [shu0819-sjy/dsh-auto-continue](https://github.com/shu0819-sjy/dsh-auto-continue) | 0 | JavaScript | 2026-09-25 | Auto-resume failed/stalled turns for DeepSeek Harness (DSH) — dual-chain auto-continue + anti-repetition plugins, instal |
+| 5 | [uukuguy/capstone](https://github.com/uukuguy/capstone) | 0 | Python | 2026-09-25 | Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio |
+| 6 | [tara-vision/taracode](https://github.com/tara-vision/taracode) | 51 | Go | 2026-09-25 | DevOps & Cloud AI Assistant that runs locally with Ollama for complete privacy. |
+| 7 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 14 | Go | 2026-09-25 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
+| 8 | [nanditamenon003/category-pulse](https://github.com/nanditamenon003/category-pulse) | 0 | Python | 2026-09-25 | AI assistant for a clothing store's floor team: tracks category pace vs monthly targets, diagnoses why (stockouts, broke |
+| 9 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-09-25 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
+| 10 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 20 | Python | 2026-09-25 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、HMI和Android双端；LLM 只负责理解与规划，VAL 负责确定性安全执行 |
+| 11 | [genaforvena/lte-workstation](https://github.com/genaforvena/lte-workstation) | 10 | Shell | 2026-09-25 | An autopoiesic kefir for computing machines |
 | 12 | [zig333/ELAI-archive](https://github.com/zig333/ELAI-archive) | 0 | — | 2026-09-25 | Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi |
 | 13 | [brittewestafrican981/ComfyUI-YinChao](https://github.com/brittewestafrican981/ComfyUI-YinChao) | 0 | Python | 2026-09-25 | Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf |
 | 14 | [mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo](https://github.com/mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo) | 4 | Python | 2026-09-25 | Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo |
