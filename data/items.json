@@ -1,11 +1,20 @@
 [
   {
+    "description": "Desic Terminal \u2014 open-source AI-native OKX USDT perpetual trading terminal. Realtime market data, pro charts, order exec",
+    "id": "xiazhi88/Desic-Terminal",
+    "language": "Rust",
+    "name": "xiazhi88/Desic-Terminal",
+    "stars": 15,
+    "updated_at": "2026-09-26T12:06:26Z",
+    "url": "https://github.com/xiazhi88/Desic-Terminal"
+  },
+  {
     "description": "Durable, provider-neutral coding-agent runtime with resumable sessions, capability-scoped tools, context compaction, and",
     "id": "SaridakisStamatisChristos/StamCont",
     "language": "TypeScript",
     "name": "SaridakisStamatisChristos/StamCont",
     "stars": 0,
-    "updated_at": "2026-09-26T11:58:38Z",
+    "updated_at": "2026-09-26T12:11:53Z",
     "url": "https://github.com/SaridakisStamatisChristos/StamCont"
   },
   {
@@ -68,8 +77,17 @@
     "language": "JavaScript",
     "name": "wufufu770/d2d",
     "stars": 3,
-    "updated_at": "2026-09-26T11:43:51Z",
+    "updated_at": "2026-09-26T12:06:33Z",
     "url": "https://github.com/wufufu770/d2d"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 6054,
+    "updated_at": "2026-09-26T11:34:12Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
@@ -79,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T11:33:45Z",
     "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 6055,
-    "updated_at": "2026-09-26T11:34:12Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-26T10:15:11Z",
     "url": "https://github.com/donglongjun886/product-review-agent"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-09-26T10:14:04Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   }
 ]
