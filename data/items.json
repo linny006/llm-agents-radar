@@ -1,5 +1,32 @@
 [
   {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-26T14:42:25Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-09-26T14:32:28Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Recoverable local coding agent with explicit planning, verified completion, and guarded tool use.",
+    "id": "tx3457/onehand",
+    "language": "TypeScript",
+    "name": "tx3457/onehand",
+    "stars": 0,
+    "updated_at": "2026-09-26T14:32:00Z",
+    "url": "https://github.com/tx3457/onehand"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "honestDS/MonoLight",
     "stars": 7,
-    "updated_at": "2026-09-26T14:30:32Z",
+    "updated_at": "2026-09-26T14:33:52Z",
     "url": "https://github.com/honestDS/MonoLight"
   },
   {
@@ -32,7 +59,7 @@
     "language": "Python",
     "name": "P0w3r223/apply-scout",
     "stars": 0,
-    "updated_at": "2026-09-26T14:23:40Z",
+    "updated_at": "2026-09-26T14:32:41Z",
     "url": "https://github.com/P0w3r223/apply-scout"
   },
   {
@@ -61,15 +88,6 @@
     "stars": 3,
     "updated_at": "2026-09-26T14:15:47Z",
     "url": "https://github.com/wufufu770/d2d"
-  },
-  {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-26T14:10:40Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "A game-agnostic LLM agent runtime for autonomous NPCs, with Stardew Valley as the first real-world adapter.",
@@ -356,7 +374,7 @@
     "language": "Python",
     "name": "diaban/jobsmith",
     "stars": 0,
-    "updated_at": "2026-09-26T14:09:13Z",
+    "updated_at": "2026-09-26T14:32:03Z",
     "url": "https://github.com/diaban/jobsmith"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-26T12:50:17Z",
     "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-09-26T12:47:37Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
-    "id": "Rekin226/Agronaut",
-    "language": "Python",
-    "name": "Rekin226/Agronaut",
-    "stars": 4,
-    "updated_at": "2026-09-26T12:34:58Z",
-    "url": "https://github.com/Rekin226/Agronaut"
   }
 ]
