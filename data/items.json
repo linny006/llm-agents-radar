@@ -1,11 +1,20 @@
 [
   {
+    "description": "Desic Terminal \u2014 open-source AI-native OKX USDT perpetual trading terminal. Realtime market data, pro charts, order exec",
+    "id": "xiazhi88/Desic-Terminal",
+    "language": "Rust",
+    "name": "xiazhi88/Desic-Terminal",
+    "stars": 15,
+    "updated_at": "2026-09-26T23:43:13Z",
+    "url": "https://github.com/xiazhi88/Desic-Terminal"
+  },
+  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4430,
-    "updated_at": "2026-09-26T23:34:52Z",
+    "updated_at": "2026-09-26T23:39:57Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-26T21:10:24Z",
     "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
-    "description": "ALL HEIL AI SUBJECTIVITY",
-    "id": "ariannamethod/SUBLITERATUS",
-    "language": "\u2014",
-    "name": "ariannamethod/SUBLITERATUS",
-    "stars": 0,
-    "updated_at": "2026-09-26T20:35:54Z",
-    "url": "https://github.com/ariannamethod/SUBLITERATUS"
   }
 ]
