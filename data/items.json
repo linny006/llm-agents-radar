@@ -1,5 +1,41 @@
 [
   {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 20,
+    "updated_at": "2026-09-26T07:59:08Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "Durable, provider-neutral coding-agent runtime with resumable sessions, capability-scoped tools, context compaction, and",
+    "id": "SaridakisStamatisChristos/StamCont",
+    "language": "TypeScript",
+    "name": "SaridakisStamatisChristos/StamCont",
+    "stars": 0,
+    "updated_at": "2026-09-26T07:57:15Z",
+    "url": "https://github.com/SaridakisStamatisChristos/StamCont"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-09-26T07:57:25Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-26T07:50:38Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/",
     "id": "ZekaiShi/evo-subagent",
     "language": "JavaScript",
@@ -7,15 +43,6 @@
     "stars": 7,
     "updated_at": "2026-09-26T07:44:12Z",
     "url": "https://github.com/ZekaiShi/evo-subagent"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 20,
-    "updated_at": "2026-09-26T07:39:21Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
     "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
@@ -95,7 +122,7 @@
     "language": "Go",
     "name": "Smana/runlore",
     "stars": 17,
-    "updated_at": "2026-09-26T07:37:45Z",
+    "updated_at": "2026-09-26T07:45:42Z",
     "url": "https://github.com/Smana/runlore"
   },
   {
@@ -124,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-09-26T07:27:03Z",
     "url": "https://github.com/rohithkandula19/Ronin"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-26T07:26:46Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -241,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-09-26T07:12:20Z",
     "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Durable, provider-neutral coding-agent runtime with resumable sessions, capability-scoped tools, context compaction, and",
-    "id": "SaridakisStamatisChristos/StamCont",
-    "language": "TypeScript",
-    "name": "SaridakisStamatisChristos/StamCont",
-    "stars": 0,
-    "updated_at": "2026-09-26T07:12:11Z",
-    "url": "https://github.com/SaridakisStamatisChristos/StamCont"
   },
   {
     "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
@@ -412,15 +421,6 @@
     "stars": 2,
     "updated_at": "2026-09-26T06:42:40Z",
     "url": "https://github.com/QQSHI13/fox-agent"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-09-26T07:30:28Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
