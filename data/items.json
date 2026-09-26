@@ -1,5 +1,68 @@
 [
   {
+    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
+    "id": "faheela-786/ComfyUI-qwenmultiangle",
+    "language": "\u2014",
+    "name": "faheela-786/ComfyUI-qwenmultiangle",
+    "stars": 2,
+    "updated_at": "2026-09-26T21:57:55Z",
+    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
+  },
+  {
+    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
+    "id": "amineeng/scraping-browser",
+    "language": "\u2014",
+    "name": "amineeng/scraping-browser",
+    "stars": 1,
+    "updated_at": "2026-09-26T21:56:37Z",
+    "url": "https://github.com/amineeng/scraping-browser"
+  },
+  {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-26T21:55:27Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
+    "id": "Saran1536/ComfyUI-LoaderUtils",
+    "language": "Python",
+    "name": "Saran1536/ComfyUI-LoaderUtils",
+    "stars": 0,
+    "updated_at": "2026-09-26T21:54:19Z",
+    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-09-26T21:53:10Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 130,
+    "updated_at": "2026-09-26T21:49:31Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-09-26T21:47:57Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
     "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
     "id": "irandysousa/langgraph-llama-cpp-starter",
     "language": "Python",
@@ -25,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-09-26T21:43:03Z",
     "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-26T21:39:36Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
@@ -266,7 +320,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-26T19:41:19Z",
+    "updated_at": "2026-09-26T21:54:41Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -286,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-09-26T18:41:22Z",
     "url": "https://github.com/artemyvo/ProjectAva"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 130,
-    "updated_at": "2026-09-26T18:19:21Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-26T16:17:04Z",
     "url": "https://github.com/tx3457/study-loop"
-  },
-  {
-    "description": "Durable, provider-neutral coding-agent runtime with resumable sessions, capability-scoped tools, context compaction, and",
-    "id": "SaridakisStamatisChristos/StamCont",
-    "language": "TypeScript",
-    "name": "SaridakisStamatisChristos/StamCont",
-    "stars": 0,
-    "updated_at": "2026-09-26T16:16:51Z",
-    "url": "https://github.com/SaridakisStamatisChristos/StamCont"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-09-26T21:27:28Z",
-    "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "A \u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\u2014\u2014easy stock",
-    "id": "jundizhou/easy-stock",
-    "language": "Go",
-    "name": "jundizhou/easy-stock",
-    "stars": 868,
-    "updated_at": "2026-09-26T16:06:56Z",
-    "url": "https://github.com/jundizhou/easy-stock"
-  },
-  {
-    "description": "\u8ba9 LLM \u5b89\u5168\u6267\u884c\u9ad8\u98ce\u9669\u5199\u64cd\u4f5c\u7684 Plan-and-Execute \u552e\u540e\u8ba2\u5355\u667a\u80fd\u4f53 | Constructively safe LLM agent for high-risk write operations",
-    "id": "Zhshao11/SaleFlow",
-    "language": "Java",
-    "name": "Zhshao11/SaleFlow",
-    "stars": 1,
-    "updated_at": "2026-09-26T15:51:19Z",
-    "url": "https://github.com/Zhshao11/SaleFlow"
-  },
-  {
-    "description": "Desic Terminal \u2014 open-source AI-native OKX USDT perpetual trading terminal. Realtime market data, pro charts, order exec",
-    "id": "xiazhi88/Desic-Terminal",
-    "language": "Rust",
-    "name": "xiazhi88/Desic-Terminal",
-    "stars": 15,
-    "updated_at": "2026-09-26T15:41:44Z",
-    "url": "https://github.com/xiazhi88/Desic-Terminal"
   }
 ]
