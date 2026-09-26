@@ -1,5 +1,23 @@
 [
   {
+    "description": "An experiment in developing subjective AI",
+    "id": "artemyvo/ProjectAva",
+    "language": "Python",
+    "name": "artemyvo/ProjectAva",
+    "stars": 1,
+    "updated_at": "2026-09-26T18:41:22Z",
+    "url": "https://github.com/artemyvo/ProjectAva"
+  },
+  {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-26T18:36:56Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
     "description": "Multi-agent LLM investment committee that actually trades: AI seats debate, a CIO adopts one, 17 fail-closed risk gates ",
     "id": "555cute/astra-quant-agent",
     "language": "Python",
@@ -23,7 +41,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-09-26T18:26:39Z",
+    "updated_at": "2026-09-26T18:38:44Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -52,15 +70,6 @@
     "stars": 130,
     "updated_at": "2026-09-26T18:19:21Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-26T18:15:28Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
@@ -167,7 +176,7 @@
     "language": "Python",
     "name": "emqnuele/projectBEA",
     "stars": 19,
-    "updated_at": "2026-09-26T17:30:42Z",
+    "updated_at": "2026-09-26T18:34:09Z",
     "url": "https://github.com/emqnuele/projectBEA"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-26T14:32:41Z",
     "url": "https://github.com/P0w3r223/apply-scout"
-  },
-  {
-    "description": "\u7535\u5546\u5e73\u53f0\u5546\u54c1\u5185\u5bb9\u6cbb\u7406\u7684\u590d\u6742\u98ce\u9669\u8c03\u67e5 Agent\uff1aLangGraph \u591a\u6b65\u8c03\u67e5 + \u786e\u5b9a\u6027 Decision Gate\uff0c\u8f93\u51fa PASS / REJECT / HUMAN_REVIEW\uff1b\u5168\u94fe\u8def\u786e\u5b9a\u6027\u53ef\u91cd\u653e\u8bc4\u6d4b",
-    "id": "donglongjun886/product-review-agent",
-    "language": "Python",
-    "name": "donglongjun886/product-review-agent",
-    "stars": 1,
-    "updated_at": "2026-09-26T14:20:24Z",
-    "url": "https://github.com/donglongjun886/product-review-agent"
   }
 ]
