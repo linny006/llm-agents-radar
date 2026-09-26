@@ -1,12 +1,39 @@
 [
   {
+    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
+    "id": "urankwong/agentsgo",
+    "language": "Python",
+    "name": "urankwong/agentsgo",
+    "stars": 0,
+    "updated_at": "2026-09-26T00:29:56Z",
+    "url": "https://github.com/urankwong/agentsgo"
+  },
+  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-26T00:12:44Z",
+    "updated_at": "2026-09-26T00:29:56Z",
     "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Drop-in OpenAI/Anthropic proxy that cuts long-horizon agent prompt tokens 60-95% via SKILL.state (arXiv:2608.26263). MIT",
+    "id": "NosytLabs/skillstate-proxy",
+    "language": "TypeScript",
+    "name": "NosytLabs/skillstate-proxy",
+    "stars": 4,
+    "updated_at": "2026-09-26T00:17:42Z",
+    "url": "https://github.com/NosytLabs/skillstate-proxy"
+  },
+  {
+    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
+    "id": "kyleslight/shun",
+    "language": "TypeScript",
+    "name": "kyleslight/shun",
+    "stars": 6,
+    "updated_at": "2026-09-26T00:15:23Z",
+    "url": "https://github.com/kyleslight/shun"
   },
   {
     "description": "IAM for your AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review risky a",
@@ -54,15 +81,6 @@
     "url": "https://github.com/jack-h-park/pm-intelligence-engine"
   },
   {
-    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
-    "id": "kyleslight/shun",
-    "language": "TypeScript",
-    "name": "kyleslight/shun",
-    "stars": 6,
-    "updated_at": "2026-09-26T00:03:18Z",
-    "url": "https://github.com/kyleslight/shun"
-  },
-  {
     "description": "Local-first long-term memory and safer context compression for Hermes Agent \u2014 SQLite, no required services.",
     "id": "indigokarasu/chronicle-agent-context-and-memory",
     "language": "Python",
@@ -70,15 +88,6 @@
     "stars": 6,
     "updated_at": "2026-09-25T23:58:25Z",
     "url": "https://github.com/indigokarasu/chronicle-agent-context-and-memory"
-  },
-  {
-    "description": "Drop-in OpenAI/Anthropic proxy that cuts long-horizon agent prompt tokens 60-95% via SKILL.state (arXiv:2608.26263). MIT",
-    "id": "NosytLabs/skillstate-proxy",
-    "language": "TypeScript",
-    "name": "NosytLabs/skillstate-proxy",
-    "stars": 4,
-    "updated_at": "2026-09-25T23:54:52Z",
-    "url": "https://github.com/NosytLabs/skillstate-proxy"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -241,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-09-25T23:36:30Z",
     "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
-    "id": "urankwong/agentsgo",
-    "language": "Python",
-    "name": "urankwong/agentsgo",
-    "stars": 0,
-    "updated_at": "2026-09-25T23:34:45Z",
-    "url": "https://github.com/urankwong/agentsgo"
   },
   {
     "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
