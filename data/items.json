@@ -1,11 +1,47 @@
 [
   {
+    "description": "Desic Terminal \u2014 open-source AI-native OKX USDT perpetual trading terminal. Realtime market data, pro charts, order exec",
+    "id": "xiazhi88/Desic-Terminal",
+    "language": "Rust",
+    "name": "xiazhi88/Desic-Terminal",
+    "stars": 15,
+    "updated_at": "2026-09-26T15:41:44Z",
+    "url": "https://github.com/xiazhi88/Desic-Terminal"
+  },
+  {
+    "description": "A game-agnostic LLM agent runtime for autonomous NPCs, with Stardew Valley as the first real-world adapter.",
+    "id": "zlci7/world-is-agent",
+    "language": "Go",
+    "name": "zlci7/world-is-agent",
+    "stars": 0,
+    "updated_at": "2026-09-26T15:41:17Z",
+    "url": "https://github.com/zlci7/world-is-agent"
+  },
+  {
+    "description": "A \u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\u2014\u2014easy stock",
+    "id": "jundizhou/easy-stock",
+    "language": "Go",
+    "name": "jundizhou/easy-stock",
+    "stars": 856,
+    "updated_at": "2026-09-26T15:39:52Z",
+    "url": "https://github.com/jundizhou/easy-stock"
+  },
+  {
+    "description": "A Copilot-style AI chat panel that lives inside Blender. The agent loop runs in Blender's own Python process, executes t",
+    "id": "XEonAX/blender-copilot",
+    "language": "Python",
+    "name": "XEonAX/blender-copilot",
+    "stars": 0,
+    "updated_at": "2026-09-26T15:38:43Z",
+    "url": "https://github.com/XEonAX/blender-copilot"
+  },
+  {
     "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
     "id": "diaban/jobsmith",
     "language": "Python",
     "name": "diaban/jobsmith",
     "stars": 0,
-    "updated_at": "2026-09-26T15:28:49Z",
+    "updated_at": "2026-09-26T15:37:39Z",
     "url": "https://github.com/diaban/jobsmith"
   },
   {
@@ -34,15 +70,6 @@
     "stars": 92,
     "updated_at": "2026-09-26T15:26:15Z",
     "url": "https://github.com/yantrikos/yantrikdb-hermes-plugin"
-  },
-  {
-    "description": "Desic Terminal \u2014 open-source AI-native OKX USDT perpetual trading terminal. Realtime market data, pro charts, order exec",
-    "id": "xiazhi88/Desic-Terminal",
-    "language": "Rust",
-    "name": "xiazhi88/Desic-Terminal",
-    "stars": 15,
-    "updated_at": "2026-09-26T15:20:33Z",
-    "url": "https://github.com/xiazhi88/Desic-Terminal"
   },
   {
     "description": "A local-first, standalone personal knowledge base for Windows. Import, organize, and create your own links \u2014 no browser ",
@@ -79,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T14:57:49Z",
     "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "A game-agnostic LLM agent runtime for autonomous NPCs, with Stardew Valley as the first real-world adapter.",
-    "id": "zlci7/world-is-agent",
-    "language": "Go",
-    "name": "zlci7/world-is-agent",
-    "stars": 0,
-    "updated_at": "2026-09-26T14:50:02Z",
-    "url": "https://github.com/zlci7/world-is-agent"
   },
   {
     "description": "\u672c\u5730\u4f18\u5148\u7684 AI \u957f\u671f\u8bb0\u5fc6\u670d\u52a1\uff1a\u4f1a\u9057\u5fd8\u3001\u4f1a\u8054\u60f3\u3001\u4f1a\u5de9\u56fa\u3002MCP + REST + Web UI\uff0c\u4e00\u6761\u547d\u4ee4\u88c5\u597d\uff1b\u4e0d\u7528 DSH \u4e5f\u80fd\u72ec\u7acb\u4f7f\u7528\u3002",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-26T13:07:16Z",
     "url": "https://github.com/muhzars/Agent.cpp"
-  },
-  {
-    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
-    "id": "faheela-786/ComfyUI-qwenmultiangle",
-    "language": "\u2014",
-    "name": "faheela-786/ComfyUI-qwenmultiangle",
-    "stars": 2,
-    "updated_at": "2026-09-26T13:04:36Z",
-    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
-  },
-  {
-    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
-    "id": "amineeng/scraping-browser",
-    "language": "\u2014",
-    "name": "amineeng/scraping-browser",
-    "stars": 1,
-    "updated_at": "2026-09-26T13:02:36Z",
-    "url": "https://github.com/amineeng/scraping-browser"
   }
 ]
