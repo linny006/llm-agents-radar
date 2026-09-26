@@ -1,5 +1,23 @@
 [
   {
+    "description": "ALL HEIL AI SUBJECTIVITY",
+    "id": "ariannamethod/SUBLITERATUS",
+    "language": "\u2014",
+    "name": "ariannamethod/SUBLITERATUS",
+    "stars": 0,
+    "updated_at": "2026-09-26T20:11:19Z",
+    "url": "https://github.com/ariannamethod/SUBLITERATUS"
+  },
+  {
+    "description": "LLM powered Automated VoIP Call Testing with Python, MCP and Claude",
+    "id": "simranjit-uc/sipp_agentic_llm",
+    "language": "Python",
+    "name": "simranjit-uc/sipp_agentic_llm",
+    "stars": 0,
+    "updated_at": "2026-09-26T20:10:13Z",
+    "url": "https://github.com/simranjit-uc/sipp_agentic_llm"
+  },
+  {
     "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
     "id": "diaban/jobsmith",
     "language": "Python",
@@ -274,7 +292,7 @@
     "id": "XEonAX/blender-copilot",
     "language": "Python",
     "name": "XEonAX/blender-copilot",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-09-26T16:45:40Z",
     "url": "https://github.com/XEonAX/blender-copilot"
   },
@@ -295,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T16:23:03Z",
     "url": "https://github.com/wzh4464/self-evolving-media-agent"
-  },
-  {
-    "description": "ALL HEIL AI SUBJECTIVITY",
-    "id": "ariannamethod/SUBLITERATOR",
-    "language": "\u2014",
-    "name": "ariannamethod/SUBLITERATOR",
-    "stars": 0,
-    "updated_at": "2026-09-26T16:20:58Z",
-    "url": "https://github.com/ariannamethod/SUBLITERATOR"
   },
   {
     "description": "Document-grounded adaptive tutoring with bounded tool-use agents",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-26T14:32:00Z",
     "url": "https://github.com/P0w3r223/sufler"
-  },
-  {
-    "description": "Recoverable local coding agent with explicit planning, verified completion, and guarded tool use.",
-    "id": "tx3457/onehand",
-    "language": "TypeScript",
-    "name": "tx3457/onehand",
-    "stars": 0,
-    "updated_at": "2026-09-26T14:32:00Z",
-    "url": "https://github.com/tx3457/onehand"
   }
 ]
