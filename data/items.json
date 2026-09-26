@@ -1,5 +1,41 @@
 [
   {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-09-26T04:27:16Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
+    "id": "urankwong/agentsgo",
+    "language": "Python",
+    "name": "urankwong/agentsgo",
+    "stars": 0,
+    "updated_at": "2026-09-26T04:27:02Z",
+    "url": "https://github.com/urankwong/agentsgo"
+  },
+  {
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
+    "id": "bigfish1913/pi-rust",
+    "language": "Rust",
+    "name": "bigfish1913/pi-rust",
+    "stars": 32,
+    "updated_at": "2026-09-26T04:26:06Z",
+    "url": "https://github.com/bigfish1913/pi-rust"
+  },
+  {
+    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
+    "id": "bigduu/Zenith",
+    "language": "JavaScript",
+    "name": "bigduu/Zenith",
+    "stars": 6,
+    "updated_at": "2026-09-26T04:19:37Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
     "description": "Drive FL Studio the way an agent drives a browser: inject Python into FL's live interpreter, no restarts, no stolen mous",
     "id": "hunterjreid/AgentFL",
     "language": "Python",
@@ -9,15 +45,6 @@
     "url": "https://github.com/hunterjreid/AgentFL"
   },
   {
-    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
-    "id": "urankwong/agentsgo",
-    "language": "Python",
-    "name": "urankwong/agentsgo",
-    "stars": 0,
-    "updated_at": "2026-09-26T04:10:41Z",
-    "url": "https://github.com/urankwong/agentsgo"
-  },
-  {
     "description": "Local-first long-term memory and safer context compression for Hermes Agent \u2014 SQLite, no required services.",
     "id": "indigokarasu/chronicle-agent-context-and-memory",
     "language": "Python",
@@ -25,15 +52,6 @@
     "stars": 6,
     "updated_at": "2026-09-26T04:10:31Z",
     "url": "https://github.com/indigokarasu/chronicle-agent-context-and-memory"
-  },
-  {
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
-    "id": "bigfish1913/pi-rust",
-    "language": "Rust",
-    "name": "bigfish1913/pi-rust",
-    "stars": 32,
-    "updated_at": "2026-09-26T04:08:37Z",
-    "url": "https://github.com/bigfish1913/pi-rust"
   },
   {
     "description": "\u57fa\u4e8eLLM\u7684\u91cf\u5316\u56e0\u5b50\u5f00\u53d1Agent",
@@ -58,7 +76,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 6053,
+    "stars": 6054,
     "updated_at": "2026-09-26T04:04:57Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -106,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T03:48:24Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-09-26T04:04:53Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi",
@@ -194,7 +203,7 @@
     "language": "Python",
     "name": "honestDS/MonoLight",
     "stars": 7,
-    "updated_at": "2026-09-26T03:33:37Z",
+    "updated_at": "2026-09-26T04:16:38Z",
     "url": "https://github.com/honestDS/MonoLight"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 110,
     "updated_at": "2026-09-26T02:50:13Z",
     "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
-  },
-  {
-    "description": "Open-source local AI Agent desktop app for authorized security assessment \u2014 Electron + Mastra-powered runtime, visual pe",
-    "id": "MingyiSecLab/Atlas",
-    "language": "TypeScript",
-    "name": "MingyiSecLab/Atlas",
-    "stars": 25,
-    "updated_at": "2026-09-26T02:43:44Z",
-    "url": "https://github.com/MingyiSecLab/Atlas"
   }
 ]
