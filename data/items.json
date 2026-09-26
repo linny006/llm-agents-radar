@@ -1,5 +1,32 @@
 [
   {
+    "description": "\u81ea\u6f14\u8fdb\u7684\u756a\u5267\u5a92\u4f53\u5e93\u6cbb\u7406 agent\uff1a\u67e5\u91cd/\u6539\u540d/TMDB\u5bf9\u9f50/\u6b7b\u79cd\u6e05\u7406\uff0c\u80fd\u53d1\u73b0\u89c4\u5219\u76f2\u533a\u5e76\u81ea\u52a8\u6f14\u8fdb\u51fa\u65b0\u89c4\u5219",
+    "id": "wzh4464/self-evolving-media-agent",
+    "language": "Python",
+    "name": "wzh4464/self-evolving-media-agent",
+    "stars": 0,
+    "updated_at": "2026-09-26T16:23:03Z",
+    "url": "https://github.com/wzh4464/self-evolving-media-agent"
+  },
+  {
+    "description": "Document-grounded adaptive tutoring with bounded tool-use agents",
+    "id": "tx3457/study-loop",
+    "language": "Python",
+    "name": "tx3457/study-loop",
+    "stars": 0,
+    "updated_at": "2026-09-26T16:17:04Z",
+    "url": "https://github.com/tx3457/study-loop"
+  },
+  {
+    "description": "Durable, provider-neutral coding-agent runtime with resumable sessions, capability-scoped tools, context compaction, and",
+    "id": "SaridakisStamatisChristos/StamCont",
+    "language": "TypeScript",
+    "name": "SaridakisStamatisChristos/StamCont",
+    "stars": 0,
+    "updated_at": "2026-09-26T16:16:51Z",
+    "url": "https://github.com/SaridakisStamatisChristos/StamCont"
+  },
+  {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
     "id": "b-macker/NAAb",
     "language": "C++",
@@ -27,15 +54,6 @@
     "url": "https://github.com/555cute/astra-quant-agent"
   },
   {
-    "description": "\u81ea\u6f14\u8fdb\u7684\u756a\u5267\u5a92\u4f53\u5e93\u6cbb\u7406 agent\uff1a\u67e5\u91cd/\u6539\u540d/TMDB\u5bf9\u9f50/\u6b7b\u79cd\u6e05\u7406\uff0c\u80fd\u53d1\u73b0\u89c4\u5219\u76f2\u533a\u5e76\u81ea\u52a8\u6f14\u8fdb\u51fa\u65b0\u89c4\u5219",
-    "id": "wzh4464/self-evolving-media-agent",
-    "language": "Python",
-    "name": "wzh4464/self-evolving-media-agent",
-    "stars": 0,
-    "updated_at": "2026-09-26T16:09:01Z",
-    "url": "https://github.com/wzh4464/self-evolving-media-agent"
-  },
-  {
     "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
     "id": "plurnk/plurnk-service",
     "language": "TypeScript",
@@ -49,7 +67,7 @@
     "id": "jundizhou/easy-stock",
     "language": "Go",
     "name": "jundizhou/easy-stock",
-    "stars": 858,
+    "stars": 860,
     "updated_at": "2026-09-26T16:06:56Z",
     "url": "https://github.com/jundizhou/easy-stock"
   },
@@ -261,15 +279,6 @@
     "url": "https://github.com/wufufu770/d2d"
   },
   {
-    "description": "Document-grounded adaptive tutoring with bounded tool-use agents",
-    "id": "tx3457/study-loop",
-    "language": "Python",
-    "name": "tx3457/study-loop",
-    "stars": 0,
-    "updated_at": "2026-09-26T16:12:24Z",
-    "url": "https://github.com/tx3457/study-loop"
-  },
-  {
     "description": "",
     "id": "agent-axiom/agent-arch",
     "language": "Python",
@@ -286,15 +295,6 @@
     "stars": 130,
     "updated_at": "2026-09-26T14:06:09Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Durable, provider-neutral coding-agent runtime with resumable sessions, capability-scoped tools, context compaction, and",
-    "id": "SaridakisStamatisChristos/StamCont",
-    "language": "TypeScript",
-    "name": "SaridakisStamatisChristos/StamCont",
-    "stars": 0,
-    "updated_at": "2026-09-26T15:48:06Z",
-    "url": "https://github.com/SaridakisStamatisChristos/StamCont"
   },
   {
     "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
