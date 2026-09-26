@@ -1,12 +1,129 @@
 [
   {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-09-26T08:44:32Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 3,
+    "updated_at": "2026-09-26T08:42:09Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "ACTE\uff1a\u5bf9\u6297\u6848\u4ef6\u7406\u8bba\u673a \u2014\u2014 \u8bc9\u8bbc\u4ee3\u7406\u667a\u80fd\u4f53\u7684\u59ff\u6001\u53c2\u6570\u5316\u4e0e\u4e0d\u53ef\u9006\u52a8\u4f5c\u62a4\u680f\uff08\u8bba\u6587 F1 \u7684\u7b97\u6cd5\u672c\u4f53\uff1a\u5185\u6838 + DSH \u63d2\u4ef6 + \u8bc4\u6d4b harness + \u5f62\u5f0f\u5316\u89c4\u8303\uff09",
+    "id": "TuringArthur/acte-release",
+    "language": "Python",
+    "name": "TuringArthur/acte-release",
+    "stars": 0,
+    "updated_at": "2026-09-26T08:40:41Z",
+    "url": "https://github.com/TuringArthur/acte-release"
+  },
+  {
+    "description": "\u7535\u5546\u5e73\u53f0\u5546\u54c1\u5185\u5bb9\u6cbb\u7406\u7684\u590d\u6742\u98ce\u9669\u8c03\u67e5 Agent\uff1aLangGraph \u591a\u6b65\u8c03\u67e5 + \u786e\u5b9a\u6027 Decision Gate\uff0c\u8f93\u51fa PASS / REJECT / HUMAN_REVIEW\uff1b\u5168\u94fe\u8def\u786e\u5b9a\u6027\u53ef\u91cd\u653e\u8bc4\u6d4b",
+    "id": "donglongjun886/product-review-agent",
+    "language": "Python",
+    "name": "donglongjun886/product-review-agent",
+    "stars": 1,
+    "updated_at": "2026-09-26T08:39:39Z",
+    "url": "https://github.com/donglongjun886/product-review-agent"
+  },
+  {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-09-26T08:39:34Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
+    "id": "ximing/vital",
+    "language": "TypeScript",
+    "name": "ximing/vital",
+    "stars": 2,
+    "updated_at": "2026-09-26T08:38:48Z",
+    "url": "https://github.com/ximing/vital"
+  },
+  {
+    "description": "LLM Agent \u6280\u80fd\u5e93\u5168\u5e93\u5ba1\u8ba1 SOP\uff1a9 \u68c0\u67e5\u9879 + \u7ebf\u6027\u6d41\u7a0b + \u51b3\u7b56\u8868\uff0c\u5168\u6a21\u578b\u68c0\u6d4b\u3001\u547d\u4e2d\u5373\u4fee\u3001\u51b7\u8dd1\u72b6\u6001\u53ea\u8bfb\u4e0d\u91cd\u8dd1",
+    "id": "w-weixiao/agent-skills-audit",
+    "language": "\u2014",
+    "name": "w-weixiao/agent-skills-audit",
+    "stars": 0,
+    "updated_at": "2026-09-26T08:38:21Z",
+    "url": "https://github.com/w-weixiao/agent-skills-audit"
+  },
+  {
+    "description": "LLM Agent \u6280\u80fd\u7f16\u5199\u89c4\u8303\uff1aTDD \u6d41\u7a0b + \u7b80\u7ec3\u8bed\u8a00 + \u9510\u5229\u5224\u65ad\u951a\u70b9 + \u51b7\u8dd1\u9a8c\u6536 + \u90e8\u7f72\u524d\u68c0\u67e5\uff0c\u628a\u6280\u80fd\u5e93\u7ba1\u56de'\u6a21\u578b\u53ea\u770b\u6587\u6863\u5c31\u80fd\u505a\u5bf9\u5224\u65ad'",
+    "id": "w-weixiao/agent-skills",
+    "language": "\u2014",
+    "name": "w-weixiao/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-26T08:38:19Z",
+    "url": "https://github.com/w-weixiao/agent-skills"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-09-26T08:37:41Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 24,
-    "updated_at": "2026-09-26T08:29:12Z",
+    "updated_at": "2026-09-26T08:36:14Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "The Agent Knowledge Cycle as a single behavioral rules file \u2014 install all six phases without the six standalone skills.",
+    "id": "shimo4228/akc-cycle",
+    "language": "Python",
+    "name": "shimo4228/akc-cycle",
+    "stars": 1,
+    "updated_at": "2026-09-26T08:36:03Z",
+    "url": "https://github.com/shimo4228/akc-cycle"
+  },
+  {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 5,
+    "updated_at": "2026-09-26T08:36:04Z",
+    "url": "https://github.com/ljedrz/nachalnik"
+  },
+  {
+    "description": "The self-improving SRE agent",
+    "id": "Smana/runlore",
+    "language": "Go",
+    "name": "Smana/runlore",
+    "stars": 17,
+    "updated_at": "2026-09-26T08:34:27Z",
+    "url": "https://github.com/Smana/runlore"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-09-26T08:31:49Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
@@ -14,7 +131,7 @@
     "language": "Python",
     "name": "SashaEee/auditLens",
     "stars": 2,
-    "updated_at": "2026-09-26T08:27:49Z",
+    "updated_at": "2026-09-26T08:45:14Z",
     "url": "https://github.com/SashaEee/auditLens"
   },
   {
@@ -25,15 +142,6 @@
     "stars": 6,
     "updated_at": "2026-09-26T08:27:24Z",
     "url": "https://github.com/indigokarasu/chronicle-agent-context-and-memory"
-  },
-  {
-    "description": "The Agent Knowledge Cycle as a single behavioral rules file \u2014 install all six phases without the six standalone skills.",
-    "id": "shimo4228/akc-cycle",
-    "language": "Python",
-    "name": "shimo4228/akc-cycle",
-    "stars": 1,
-    "updated_at": "2026-09-26T08:25:12Z",
-    "url": "https://github.com/shimo4228/akc-cycle"
   },
   {
     "description": "LLM-powered TeamSpeak bot | LLM\u9a71\u52a8\u7684TeamSpeak\u673a\u5668\u4eba",
@@ -54,40 +162,13 @@
     "url": "https://github.com/noahhps/Bom"
   },
   {
-    "description": "\u7535\u5546\u5e73\u53f0\u5546\u54c1\u5185\u5bb9\u6cbb\u7406\u7684\u590d\u6742\u98ce\u9669\u8c03\u67e5 Agent\uff1aLangGraph \u591a\u6b65\u8c03\u67e5 + \u786e\u5b9a\u6027 Decision Gate\uff0c\u8f93\u51fa PASS / REJECT / HUMAN_REVIEW\uff1b\u5168\u94fe\u8def\u786e\u5b9a\u6027\u53ef\u91cd\u653e\u8bc4\u6d4b",
-    "id": "donglongjun886/product-review-agent",
-    "language": "Python",
-    "name": "donglongjun886/product-review-agent",
-    "stars": 1,
-    "updated_at": "2026-09-26T08:20:15Z",
-    "url": "https://github.com/donglongjun886/product-review-agent"
-  },
-  {
-    "description": "ACTE\uff1a\u5bf9\u6297\u6848\u4ef6\u7406\u8bba\u673a \u2014\u2014 \u8bc9\u8bbc\u4ee3\u7406\u667a\u80fd\u4f53\u7684\u59ff\u6001\u53c2\u6570\u5316\u4e0e\u4e0d\u53ef\u9006\u52a8\u4f5c\u62a4\u680f\uff08\u8bba\u6587 F1 \u7684\u7b97\u6cd5\u672c\u4f53\uff1a\u5185\u6838 + DSH \u63d2\u4ef6 + \u8bc4\u6d4b harness + \u5f62\u5f0f\u5316\u89c4\u8303\uff09",
-    "id": "TuringArthur/acte-release",
-    "language": "Python",
-    "name": "TuringArthur/acte-release",
-    "stars": 0,
-    "updated_at": "2026-09-26T08:19:17Z",
-    "url": "https://github.com/TuringArthur/acte-release"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-26T08:27:30Z",
+    "updated_at": "2026-09-26T08:45:14Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-09-26T08:29:40Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Durable, provider-neutral coding-agent runtime with resumable sessions, capability-scoped tools, context compaction, and",
@@ -97,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T08:04:55Z",
     "url": "https://github.com/SaridakisStamatisChristos/StamCont"
-  },
-  {
-    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
-    "id": "ljedrz/nachalnik",
-    "language": "Rust",
-    "name": "ljedrz/nachalnik",
-    "stars": 5,
-    "updated_at": "2026-09-26T08:19:31Z",
-    "url": "https://github.com/ljedrz/nachalnik"
   },
   {
     "description": "\u672c\u5730\u4f18\u5148\u7684 AI \u957f\u671f\u8bb0\u5fc6\u670d\u52a1\uff1a\u4f1a\u9057\u5fd8\u3001\u4f1a\u8054\u60f3\u3001\u4f1a\u5de9\u56fa\u3002MCP + REST + Web UI\uff0c\u4e00\u6761\u547d\u4ee4\u88c5\u597d\uff1b\u4e0d\u7528 DSH \u4e5f\u80fd\u72ec\u7acb\u4f7f\u7528\u3002",
@@ -196,15 +268,6 @@
     "stars": 4,
     "updated_at": "2026-09-26T07:28:51Z",
     "url": "https://github.com/mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo"
-  },
-  {
-    "description": "The self-improving SRE agent",
-    "id": "Smana/runlore",
-    "language": "Go",
-    "name": "Smana/runlore",
-    "stars": 17,
-    "updated_at": "2026-09-26T08:26:50Z",
-    "url": "https://github.com/Smana/runlore"
   },
   {
     "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
@@ -385,68 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-26T07:06:12Z",
     "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "A game-agnostic LLM agent runtime for autonomous NPCs, with Stardew Valley as the first real-world adapter.",
-    "id": "zlci7/world-is-agent",
-    "language": "Go",
-    "name": "zlci7/world-is-agent",
-    "stars": 0,
-    "updated_at": "2026-09-26T07:05:05Z",
-    "url": "https://github.com/zlci7/world-is-agent"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-09-26T07:01:45Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
-    "id": "Danisxxx/comfyUI-LongLook",
-    "language": "Python",
-    "name": "Danisxxx/comfyUI-LongLook",
-    "stars": 2,
-    "updated_at": "2026-09-26T07:00:40Z",
-    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
-  },
-  {
-    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
-    "id": "axxafo/awesome-agent-benchmarks",
-    "language": "\u2014",
-    "name": "axxafo/awesome-agent-benchmarks",
-    "stars": 4,
-    "updated_at": "2026-09-26T06:59:46Z",
-    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-09-26T06:54:54Z",
-    "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-09-26T06:53:10Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "\ud83e\udd16 \u65b0\u4e00\u4ee3\u5f00\u6e90 Chrome \u4fa7\u8fb9\u680f\u81ea\u4e3b AI \u6d4f\u89c8\u5668\u667a\u80fd\u4f53\uff1a\u76ee\u6807\u9a71\u52a8\u3001\u957f\u7a0b\u89c4\u5212\u3001\u89c6\u89c9\u7a7a\u95f4\u611f\u77e5\u4e0e\u7269\u7406\u7ea7\u64cd\u63a7\uff0c\u652f\u6301 DeepSeek \u601d\u8003\u6a21\u578b\u4e0e\u672c\u5730\u79bb\u7ebf LLM (BYOK)",
-    "id": "lusipad/browser-agent",
-    "language": "TypeScript",
-    "name": "lusipad/browser-agent",
-    "stars": 2,
-    "updated_at": "2026-09-26T06:52:01Z",
-    "url": "https://github.com/lusipad/browser-agent"
   }
 ]
