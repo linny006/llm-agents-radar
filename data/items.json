@@ -1,5 +1,95 @@
 [
   {
+    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
+    "id": "mezoali100/exforum-auto-poster",
+    "language": "\u2014",
+    "name": "mezoali100/exforum-auto-poster",
+    "stars": 1,
+    "updated_at": "2026-09-26T07:12:20Z",
+    "url": "https://github.com/mezoali100/exforum-auto-poster"
+  },
+  {
+    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
+    "id": "Bowotria/aethercore",
+    "language": "Go",
+    "name": "Bowotria/aethercore",
+    "stars": 2,
+    "updated_at": "2026-09-26T07:12:10Z",
+    "url": "https://github.com/Bowotria/aethercore"
+  },
+  {
+    "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
+    "id": "jack-h-park/pm-intelligence-engine",
+    "language": "Python",
+    "name": "jack-h-park/pm-intelligence-engine",
+    "stars": 0,
+    "updated_at": "2026-09-26T07:11:29Z",
+    "url": "https://github.com/jack-h-park/pm-intelligence-engine"
+  },
+  {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 12,
+    "updated_at": "2026-09-26T07:11:13Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
+    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "language": "Python",
+    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "stars": 4,
+    "updated_at": "2026-09-26T07:10:22Z",
+    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
+  },
+  {
+    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
+    "id": "mohahasan/ios-agentic-skills",
+    "language": "JavaScript",
+    "name": "mohahasan/ios-agentic-skills",
+    "stars": 4,
+    "updated_at": "2026-09-26T07:06:12Z",
+    "url": "https://github.com/mohahasan/ios-agentic-skills"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 20,
+    "updated_at": "2026-09-26T07:05:45Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "A game-agnostic LLM agent runtime for autonomous NPCs, with Stardew Valley as the first real-world adapter.",
+    "id": "zlci7/world-is-agent",
+    "language": "Go",
+    "name": "zlci7/world-is-agent",
+    "stars": 0,
+    "updated_at": "2026-09-26T07:05:05Z",
+    "url": "https://github.com/zlci7/world-is-agent"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-09-26T07:01:45Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
+    "id": "Danisxxx/comfyUI-LongLook",
+    "language": "Python",
+    "name": "Danisxxx/comfyUI-LongLook",
+    "stars": 2,
+    "updated_at": "2026-09-26T07:00:40Z",
+    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
+  },
+  {
     "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
     "id": "axxafo/awesome-agent-benchmarks",
     "language": "\u2014",
@@ -59,7 +149,7 @@
     "language": "Python",
     "name": "shimo4228/akc-cycle",
     "stars": 1,
-    "updated_at": "2026-09-26T06:48:07Z",
+    "updated_at": "2026-09-26T07:00:56Z",
     "url": "https://github.com/shimo4228/akc-cycle"
   },
   {
@@ -117,15 +207,6 @@
     "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
   },
   {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 20,
-    "updated_at": "2026-09-26T06:27:11Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
     "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
     "id": "hsaghir/looplet",
     "language": "Python",
@@ -178,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T05:35:55Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-09-26T05:34:44Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -342,42 +414,6 @@
     "url": "https://github.com/ruc-datalab/SkillAdam"
   },
   {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-09-26T05:11:21Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-09-26T05:11:07Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 4,
-    "updated_at": "2026-09-26T05:09:22Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-09-26T05:06:04Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
     "description": "sid-code \u4e0e claude-trace \u5171\u540c\u9762\u5bf9\u7684\u4f01\u4e1a\u7ea7\u540e\u7aef\uff1a\u63a7\u5236\u9762\uff08policy / flag / \u8eab\u4efd\uff09\u4e0e\u6570\u636e\u9762\uff08\u8f68\u8ff9 / \u4e8b\u4ef6\uff09\u540c\u4ed3\u3001\u9274\u6743\u9694\u79bb\u3002\u5df2\u4ea4\u4ed8\u8f68\u8ff9\u5b58\u50a8\u4e0e\u5206\u6790\uff0c\u5176\u4f59\u6a21\u5757\u6309\u91cc\u7a0b\u7891\u8fed\u4ee3",
     "id": "njfuzrs/agent-backend",
     "language": "Python",
@@ -387,15 +423,6 @@
     "url": "https://github.com/njfuzrs/agent-backend"
   },
   {
-    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
-    "id": "Danisxxx/comfyUI-LongLook",
-    "language": "Python",
-    "name": "Danisxxx/comfyUI-LongLook",
-    "stars": 2,
-    "updated_at": "2026-09-26T05:01:39Z",
-    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
-  },
-  {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
@@ -403,15 +430,6 @@
     "stars": 351,
     "updated_at": "2026-09-26T05:01:33Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "A game-agnostic LLM agent runtime for autonomous NPCs, with Stardew Valley as the first real-world adapter.",
-    "id": "zlci7/world-is-agent",
-    "language": "Go",
-    "name": "zlci7/world-is-agent",
-    "stars": 0,
-    "updated_at": "2026-09-26T04:56:45Z",
-    "url": "https://github.com/zlci7/world-is-agent"
   },
   {
     "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-26T04:38:44Z",
     "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
-    "id": "OtakuNathan/Pal",
-    "language": "Python",
-    "name": "OtakuNathan/Pal",
-    "stars": 2,
-    "updated_at": "2026-09-26T04:35:30Z",
-    "url": "https://github.com/OtakuNathan/Pal"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-09-26T04:27:16Z",
-    "url": "https://github.com/ljchang/mecha"
   }
 ]
