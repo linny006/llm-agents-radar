@@ -1,5 +1,68 @@
 [
   {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 20,
+    "updated_at": "2026-09-26T09:59:59Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
+    "id": "kyleslight/shun",
+    "language": "TypeScript",
+    "name": "kyleslight/shun",
+    "stars": 6,
+    "updated_at": "2026-09-26T09:58:12Z",
+    "url": "https://github.com/kyleslight/shun"
+  },
+  {
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 9,
+    "updated_at": "2026-09-26T09:53:32Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
+    "id": "haibingzhao/easyai",
+    "language": "Kotlin",
+    "name": "haibingzhao/easyai",
+    "stars": 1,
+    "updated_at": "2026-09-26T09:52:40Z",
+    "url": "https://github.com/haibingzhao/easyai"
+  },
+  {
+    "description": "A game-agnostic LLM agent runtime for autonomous NPCs, with Stardew Valley as the first real-world adapter.",
+    "id": "zlci7/world-is-agent",
+    "language": "Go",
+    "name": "zlci7/world-is-agent",
+    "stars": 0,
+    "updated_at": "2026-09-26T09:52:15Z",
+    "url": "https://github.com/zlci7/world-is-agent"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 4,
+    "updated_at": "2026-09-26T09:51:36Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "System One (TypeSafe Jev) decision tool for DeepSeek Harness \u2014 bounded choice / noul / score judgments as an agent tool ",
+    "id": "ZhengSJCode/jev-dsh",
+    "language": "JavaScript",
+    "name": "ZhengSJCode/jev-dsh",
+    "stars": 0,
+    "updated_at": "2026-09-26T09:50:22Z",
+    "url": "https://github.com/ZhengSJCode/jev-dsh"
+  },
+  {
     "description": "\u672c\u5730\u4f18\u5148\u7684 AI \u957f\u671f\u8bb0\u5fc6\u670d\u52a1\uff1a\u4f1a\u9057\u5fd8\u3001\u4f1a\u8054\u60f3\u3001\u4f1a\u5de9\u56fa\u3002MCP + REST + Web UI\uff0c\u4e00\u6761\u547d\u4ee4\u88c5\u597d\uff1b\u4e0d\u7528 DSH \u4e5f\u80fd\u72ec\u7acb\u4f7f\u7528\u3002",
     "id": "Mlte0907/pangu",
     "language": "Python",
@@ -9,15 +72,6 @@
     "url": "https://github.com/Mlte0907/pangu"
   },
   {
-    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
-    "id": "kyleslight/shun",
-    "language": "TypeScript",
-    "name": "kyleslight/shun",
-    "stars": 6,
-    "updated_at": "2026-09-26T09:38:22Z",
-    "url": "https://github.com/kyleslight/shun"
-  },
-  {
     "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
     "id": "wufufu770/d2d",
     "language": "JavaScript",
@@ -25,15 +79,6 @@
     "stars": 3,
     "updated_at": "2026-09-26T09:33:17Z",
     "url": "https://github.com/wufufu770/d2d"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 20,
-    "updated_at": "2026-09-26T09:25:12Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
     "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
@@ -115,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-09-26T09:16:29Z",
     "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "System One (TypeSafe Jev) decision tool for DeepSeek Harness \u2014 bounded choice / noul / score judgments as an agent tool ",
-    "id": "ZhengSJCode/jev-dsh",
-    "language": "JavaScript",
-    "name": "ZhengSJCode/jev-dsh",
-    "stars": 0,
-    "updated_at": "2026-09-26T09:16:26Z",
-    "url": "https://github.com/ZhengSJCode/jev-dsh"
   },
   {
     "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-26T08:37:41Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 24,
-    "updated_at": "2026-09-26T09:08:14Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "The Agent Knowledge Cycle as a single behavioral rules file \u2014 install all six phases without the six standalone skills.",
-    "id": "shimo4228/akc-cycle",
-    "language": "Python",
-    "name": "shimo4228/akc-cycle",
-    "stars": 1,
-    "updated_at": "2026-09-26T08:36:03Z",
-    "url": "https://github.com/shimo4228/akc-cycle"
-  },
-  {
-    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
-    "id": "ljedrz/nachalnik",
-    "language": "Rust",
-    "name": "ljedrz/nachalnik",
-    "stars": 5,
-    "updated_at": "2026-09-26T08:36:04Z",
-    "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
-    "description": "The self-improving SRE agent",
-    "id": "Smana/runlore",
-    "language": "Go",
-    "name": "Smana/runlore",
-    "stars": 17,
-    "updated_at": "2026-09-26T08:34:27Z",
-    "url": "https://github.com/Smana/runlore"
   }
 ]
