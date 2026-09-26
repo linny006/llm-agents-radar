@@ -1,5 +1,113 @@
 [
   {
+    "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
+    "id": "honestDS/MonoLight",
+    "language": "Python",
+    "name": "honestDS/MonoLight",
+    "stars": 7,
+    "updated_at": "2026-09-26T11:14:41Z",
+    "url": "https://github.com/honestDS/MonoLight"
+  },
+  {
+    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
+    "id": "heba-ramdan/harness",
+    "language": "TypeScript",
+    "name": "heba-ramdan/harness",
+    "stars": 1,
+    "updated_at": "2026-09-26T11:14:32Z",
+    "url": "https://github.com/heba-ramdan/harness"
+  },
+  {
+    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
+    "id": "kyleslight/shun",
+    "language": "TypeScript",
+    "name": "kyleslight/shun",
+    "stars": 6,
+    "updated_at": "2026-09-26T11:14:17Z",
+    "url": "https://github.com/kyleslight/shun"
+  },
+  {
+    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
+    "id": "Ronit0p/AutoGod",
+    "language": "Java",
+    "name": "Ronit0p/AutoGod",
+    "stars": 0,
+    "updated_at": "2026-09-26T11:13:58Z",
+    "url": "https://github.com/Ronit0p/AutoGod"
+  },
+  {
+    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
+    "id": "lukky262/ARE",
+    "language": "\u2014",
+    "name": "lukky262/ARE",
+    "stars": 1,
+    "updated_at": "2026-09-26T11:12:07Z",
+    "url": "https://github.com/lukky262/ARE"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 20,
+    "updated_at": "2026-09-26T11:11:57Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "",
+    "id": "hichamnes-prog/exforum-auto-poster",
+    "language": "Python",
+    "name": "hichamnes-prog/exforum-auto-poster",
+    "stars": 1,
+    "updated_at": "2026-09-26T11:10:42Z",
+    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
+  },
+  {
+    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
+    "id": "muhzars/Agent.cpp",
+    "language": "C++",
+    "name": "muhzars/Agent.cpp",
+    "stars": 1,
+    "updated_at": "2026-09-26T11:08:16Z",
+    "url": "https://github.com/muhzars/Agent.cpp"
+  },
+  {
+    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
+    "id": "faheela-786/ComfyUI-qwenmultiangle",
+    "language": "\u2014",
+    "name": "faheela-786/ComfyUI-qwenmultiangle",
+    "stars": 2,
+    "updated_at": "2026-09-26T11:05:42Z",
+    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
+  },
+  {
+    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
+    "id": "amineeng/scraping-browser",
+    "language": "\u2014",
+    "name": "amineeng/scraping-browser",
+    "stars": 1,
+    "updated_at": "2026-09-26T11:04:28Z",
+    "url": "https://github.com/amineeng/scraping-browser"
+  },
+  {
+    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
+    "id": "Saran1536/ComfyUI-LoaderUtils",
+    "language": "Python",
+    "name": "Saran1536/ComfyUI-LoaderUtils",
+    "stars": 0,
+    "updated_at": "2026-09-26T11:02:01Z",
+    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-09-26T11:00:47Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
     "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
     "id": "wufufu770/d2d",
     "language": "JavaScript",
@@ -81,15 +189,6 @@
     "url": "https://github.com/Zer0Gate/vulngate"
   },
   {
-    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
-    "id": "kyleslight/shun",
-    "language": "TypeScript",
-    "name": "kyleslight/shun",
-    "stars": 6,
-    "updated_at": "2026-09-26T10:36:01Z",
-    "url": "https://github.com/kyleslight/shun"
-  },
-  {
     "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
     "id": "SashaEee/auditLens",
     "language": "Python",
@@ -99,21 +198,12 @@
     "url": "https://github.com/SashaEee/auditLens"
   },
   {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 20,
-    "updated_at": "2026-09-26T10:33:12Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
     "description": "IAM for your AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review risky a",
     "id": "node9-ai/node9-proxy",
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 216,
-    "updated_at": "2026-09-26T10:35:42Z",
+    "updated_at": "2026-09-26T11:02:21Z",
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-26T09:06:25Z",
     "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "SkillAdam: Better Skills for Your AI Agent\ud83d\ude80 Claude Code/Codex/Cursor \u63d2\u4ef6\uff0c\u4e00\u952e\u8fdb\u5316\u4f60\u7684skill",
-    "id": "ruc-datalab/SkillAdam",
-    "language": "Python",
-    "name": "ruc-datalab/SkillAdam",
-    "stars": 79,
-    "updated_at": "2026-09-26T09:06:14Z",
-    "url": "https://github.com/ruc-datalab/SkillAdam"
-  },
-  {
-    "description": "LLM Agent \u6280\u80fd\u5e93\u5168\u5e93\u5ba1\u8ba1 SOP\uff1a9 \u68c0\u67e5\u9879 + \u7ebf\u6027\u6d41\u7a0b + \u51b3\u7b56\u8868\uff0c\u5168\u6a21\u578b\u68c0\u6d4b\u3001\u547d\u4e2d\u5373\u4fee\u3001\u51b7\u8dd1\u72b6\u6001\u53ea\u8bfb\u4e0d\u91cd\u8dd1",
-    "id": "w-weixiao/agent-skills-audit",
-    "language": "\u2014",
-    "name": "w-weixiao/agent-skills-audit",
-    "stars": 1,
-    "updated_at": "2026-09-26T09:05:23Z",
-    "url": "https://github.com/w-weixiao/agent-skills-audit"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-09-26T09:04:51Z",
-    "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-09-26T09:04:15Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "LLM Agent \u6280\u80fd\u7f16\u5199\u89c4\u8303\uff1aTDD \u6d41\u7a0b + \u7b80\u7ec3\u8bed\u8a00 + \u9510\u5229\u5224\u65ad\u951a\u70b9 + \u51b7\u8dd1\u9a8c\u6536 + \u90e8\u7f72\u524d\u68c0\u67e5\uff0c\u628a\u6280\u80fd\u5e93\u7ba1\u56de'\u6a21\u578b\u53ea\u770b\u6587\u6863\u5c31\u80fd\u505a\u5bf9\u5224\u65ad'",
-    "id": "w-weixiao/agent-skills",
-    "language": "\u2014",
-    "name": "w-weixiao/agent-skills",
-    "stars": 1,
-    "updated_at": "2026-09-26T09:04:09Z",
-    "url": "https://github.com/w-weixiao/agent-skills"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-09-26T09:03:16Z",
-    "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-09-26T09:01:59Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 352,
-    "updated_at": "2026-09-26T09:01:21Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-09-26T08:59:26Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
-    "id": "muhzars/Agent.cpp",
-    "language": "C++",
-    "name": "muhzars/Agent.cpp",
-    "stars": 1,
-    "updated_at": "2026-09-26T08:59:13Z",
-    "url": "https://github.com/muhzars/Agent.cpp"
   }
 ]
