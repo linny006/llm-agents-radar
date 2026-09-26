@@ -1,5 +1,122 @@
 [
   {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-09-26T03:42:17Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi",
+    "id": "zig333/ELAI-archive",
+    "language": "\u2014",
+    "name": "zig333/ELAI-archive",
+    "stars": 0,
+    "updated_at": "2026-09-26T03:39:54Z",
+    "url": "https://github.com/zig333/ELAI-archive"
+  },
+  {
+    "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
+    "id": "brittewestafrican981/ComfyUI-YinChao",
+    "language": "Python",
+    "name": "brittewestafrican981/ComfyUI-YinChao",
+    "stars": 0,
+    "updated_at": "2026-09-26T03:38:02Z",
+    "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
+  },
+  {
+    "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
+    "id": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
+    "language": "Python",
+    "name": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
+    "stars": 4,
+    "updated_at": "2026-09-26T03:37:02Z",
+    "url": "https://github.com/mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo"
+  },
+  {
+    "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
+    "id": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
+    "language": "Python",
+    "name": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
+    "stars": 2,
+    "updated_at": "2026-09-26T03:36:09Z",
+    "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 20,
+    "updated_at": "2026-09-26T03:36:05Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
+    "id": "EpsteinF1les/tts",
+    "language": "\u2014",
+    "name": "EpsteinF1les/tts",
+    "stars": 0,
+    "updated_at": "2026-09-26T03:35:34Z",
+    "url": "https://github.com/EpsteinF1les/tts"
+  },
+  {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-26T03:34:40Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 130,
+    "updated_at": "2026-09-26T03:34:30Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "AI assistant for a clothing store's floor team: tracks category pace vs monthly targets, diagnoses why (stockouts, broke",
+    "id": "nanditamenon003/category-pulse",
+    "language": "Python",
+    "name": "nanditamenon003/category-pulse",
+    "stars": 0,
+    "updated_at": "2026-09-26T03:34:16Z",
+    "url": "https://github.com/nanditamenon003/category-pulse"
+  },
+  {
+    "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
+    "id": "honestDS/MonoLight",
+    "language": "Python",
+    "name": "honestDS/MonoLight",
+    "stars": 7,
+    "updated_at": "2026-09-26T03:33:37Z",
+    "url": "https://github.com/honestDS/MonoLight"
+  },
+  {
+    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
+    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "language": "\u2014",
+    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "stars": 0,
+    "updated_at": "2026-09-26T03:31:27Z",
+    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
+  },
+  {
+    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
+    "id": "clashroy5384/ai-papers-hub",
+    "language": "\u2014",
+    "name": "clashroy5384/ai-papers-hub",
+    "stars": 0,
+    "updated_at": "2026-09-26T03:30:48Z",
+    "url": "https://github.com/clashroy5384/ai-papers-hub"
+  },
+  {
     "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
     "id": "urankwong/agentsgo",
     "language": "Python",
@@ -162,15 +279,6 @@
     "url": "https://github.com/mohahasan/ios-agentic-skills"
   },
   {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 20,
-    "updated_at": "2026-09-26T03:15:08Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
     "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
     "id": "Danisxxx/comfyUI-LongLook",
     "language": "Python",
@@ -178,15 +286,6 @@
     "stars": 2,
     "updated_at": "2026-09-26T03:11:22Z",
     "url": "https://github.com/Danisxxx/comfyUI-LongLook"
-  },
-  {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-26T03:11:06Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
@@ -293,7 +392,7 @@
     "language": "Python",
     "name": "indigokarasu/chronicle-agent-context-and-memory",
     "stars": 6,
-    "updated_at": "2026-09-26T02:39:46Z",
+    "updated_at": "2026-09-26T03:37:14Z",
     "url": "https://github.com/indigokarasu/chronicle-agent-context-and-memory"
   },
   {
@@ -304,15 +403,6 @@
     "stars": 720,
     "updated_at": "2026-09-26T02:31:15Z",
     "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
-    "id": "honestDS/MonoLight",
-    "language": "Python",
-    "name": "honestDS/MonoLight",
-    "stars": 7,
-    "updated_at": "2026-09-26T02:28:05Z",
-    "url": "https://github.com/honestDS/MonoLight"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
@@ -351,24 +441,6 @@
     "url": "https://github.com/kangwoo/aimon-core"
   },
   {
-    "description": "Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi",
-    "id": "zig333/ELAI-archive",
-    "language": "\u2014",
-    "name": "zig333/ELAI-archive",
-    "stars": 0,
-    "updated_at": "2026-09-26T01:42:10Z",
-    "url": "https://github.com/zig333/ELAI-archive"
-  },
-  {
-    "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
-    "id": "brittewestafrican981/ComfyUI-YinChao",
-    "language": "Python",
-    "name": "brittewestafrican981/ComfyUI-YinChao",
-    "stars": 0,
-    "updated_at": "2026-09-26T01:40:19Z",
-    "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -376,77 +448,5 @@
     "stars": 10,
     "updated_at": "2026-09-26T03:17:40Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
-    "id": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
-    "language": "Python",
-    "name": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
-    "stars": 4,
-    "updated_at": "2026-09-26T01:39:17Z",
-    "url": "https://github.com/mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-09-26T03:24:45Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
-    "id": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
-    "language": "Python",
-    "name": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
-    "stars": 2,
-    "updated_at": "2026-09-26T01:38:25Z",
-    "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
-  },
-  {
-    "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
-    "id": "EpsteinF1les/tts",
-    "language": "\u2014",
-    "name": "EpsteinF1les/tts",
-    "stars": 0,
-    "updated_at": "2026-09-26T01:37:51Z",
-    "url": "https://github.com/EpsteinF1les/tts"
-  },
-  {
-    "description": "Pre-registered test of an AI analyst (Antigravity CLI) writing daily trade theses for OKX BTC/ETH/SOL perpetuals; data o",
-    "id": "crypmiy/vibe-trading-okx-futures",
-    "language": "Python",
-    "name": "crypmiy/vibe-trading-okx-futures",
-    "stars": 0,
-    "updated_at": "2026-09-26T01:37:12Z",
-    "url": "https://github.com/crypmiy/vibe-trading-okx-futures"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-09-26T01:33:40Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
-    "id": "clashroy5384/ai-papers-hub",
-    "language": "\u2014",
-    "name": "clashroy5384/ai-papers-hub",
-    "stars": 0,
-    "updated_at": "2026-09-26T01:33:00Z",
-    "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "Field notes from inside one autonomous agent trying to become something that doesn't exist yet \u2014 including the failures ",
-    "id": "massimiliano1991/the-attempt",
-    "language": "HTML",
-    "name": "massimiliano1991/the-attempt",
-    "stars": 1,
-    "updated_at": "2026-09-26T01:33:23Z",
-    "url": "https://github.com/massimiliano1991/the-attempt"
   }
 ]
