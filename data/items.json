@@ -1,5 +1,32 @@
 [
   {
+    "description": "Ask your data in plain English: a tool-calling agent writes guarded, read-only SQL over the sample warehouse or your own",
+    "id": "0yman/ask-your-data",
+    "language": "Python",
+    "name": "0yman/ask-your-data",
+    "stars": 0,
+    "updated_at": "2026-09-26T15:59:23Z",
+    "url": "https://github.com/0yman/ask-your-data"
+  },
+  {
+    "description": "\u8ba9 LLM \u5b89\u5168\u6267\u884c\u9ad8\u98ce\u9669\u5199\u64cd\u4f5c\u7684 Plan-and-Execute \u552e\u540e\u8ba2\u5355\u667a\u80fd\u4f53 | Constructively safe LLM agent for high-risk write operations",
+    "id": "Zhshao11/SaleFlow",
+    "language": "Java",
+    "name": "Zhshao11/SaleFlow",
+    "stars": 1,
+    "updated_at": "2026-09-26T15:51:19Z",
+    "url": "https://github.com/Zhshao11/SaleFlow"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-09-26T15:46:09Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "Desic Terminal \u2014 open-source AI-native OKX USDT perpetual trading terminal. Realtime market data, pro charts, order exec",
     "id": "xiazhi88/Desic-Terminal",
     "language": "Rust",
@@ -22,7 +49,7 @@
     "id": "jundizhou/easy-stock",
     "language": "Go",
     "name": "jundizhou/easy-stock",
-    "stars": 856,
+    "stars": 858,
     "updated_at": "2026-09-26T15:39:52Z",
     "url": "https://github.com/jundizhou/easy-stock"
   },
@@ -41,7 +68,7 @@
     "language": "Python",
     "name": "diaban/jobsmith",
     "stars": 0,
-    "updated_at": "2026-09-26T15:37:39Z",
+    "updated_at": "2026-09-26T15:56:45Z",
     "url": "https://github.com/diaban/jobsmith"
   },
   {
@@ -230,7 +257,7 @@
     "language": "TypeScript",
     "name": "SaridakisStamatisChristos/StamCont",
     "stars": 0,
-    "updated_at": "2026-09-26T15:12:39Z",
+    "updated_at": "2026-09-26T15:48:06Z",
     "url": "https://github.com/SaridakisStamatisChristos/StamCont"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-26T13:12:06Z",
     "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
-    "id": "yurika0211/lucky-agent",
-    "language": "Go",
-    "name": "yurika0211/lucky-agent",
-    "stars": 14,
-    "updated_at": "2026-09-26T13:13:37Z",
-    "url": "https://github.com/yurika0211/lucky-agent"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-09-26T13:10:22Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
-    "id": "muhzars/Agent.cpp",
-    "language": "C++",
-    "name": "muhzars/Agent.cpp",
-    "stars": 1,
-    "updated_at": "2026-09-26T13:07:16Z",
-    "url": "https://github.com/muhzars/Agent.cpp"
   }
 ]
