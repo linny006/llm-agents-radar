@@ -1,5 +1,23 @@
 [
   {
+    "description": "AI assistant for a clothing store's floor team: tracks category pace vs monthly targets, diagnoses why (stockouts, broke",
+    "id": "nanditamenon003/category-pulse",
+    "language": "Python",
+    "name": "nanditamenon003/category-pulse",
+    "stars": 0,
+    "updated_at": "2026-09-26T05:31:38Z",
+    "url": "https://github.com/nanditamenon003/category-pulse"
+  },
+  {
+    "description": "Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi",
+    "id": "zig333/ELAI-archive",
+    "language": "\u2014",
+    "name": "zig333/ELAI-archive",
+    "stars": 0,
+    "updated_at": "2026-09-26T05:30:51Z",
+    "url": "https://github.com/zig333/ELAI-archive"
+  },
+  {
     "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
     "id": "brittewestafrican981/ComfyUI-YinChao",
     "language": "Python",
@@ -88,15 +106,6 @@
     "stars": 5,
     "updated_at": "2026-09-26T05:19:35Z",
     "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
-  },
-  {
-    "description": "AI assistant for a clothing store's floor team: tracks category pace vs monthly targets, diagnoses why (stockouts, broke",
-    "id": "nanditamenon003/category-pulse",
-    "language": "Python",
-    "name": "nanditamenon003/category-pulse",
-    "stars": 0,
-    "updated_at": "2026-09-26T05:18:45Z",
-    "url": "https://github.com/nanditamenon003/category-pulse"
   },
   {
     "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
@@ -430,15 +439,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T03:48:24Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi",
-    "id": "zig333/ELAI-archive",
-    "language": "\u2014",
-    "name": "zig333/ELAI-archive",
-    "stars": 0,
-    "updated_at": "2026-09-26T03:39:54Z",
-    "url": "https://github.com/zig333/ELAI-archive"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
