@@ -5,8 +5,26 @@
     "language": "TypeScript",
     "name": "plurnk/plurnk-service",
     "stars": 0,
-    "updated_at": "2026-09-26T19:28:58Z",
+    "updated_at": "2026-09-26T19:43:07Z",
     "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u7684 AI \u957f\u671f\u8bb0\u5fc6\u670d\u52a1\uff1a\u4f1a\u9057\u5fd8\u3001\u4f1a\u8054\u60f3\u3001\u4f1a\u5de9\u56fa\u3002MCP + REST + Web UI\uff0c\u4e00\u6761\u547d\u4ee4\u88c5\u597d\uff1b\u4e0d\u7528 DSH \u4e5f\u80fd\u72ec\u7acb\u4f7f\u7528\u3002",
+    "id": "Mlte0907/pangu",
+    "language": "Python",
+    "name": "Mlte0907/pangu",
+    "stars": 1,
+    "updated_at": "2026-09-26T19:39:35Z",
+    "url": "https://github.com/Mlte0907/pangu"
+  },
+  {
+    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
+    "id": "xieguigang/sciBASIC",
+    "language": "Visual Basic .NET",
+    "name": "xieguigang/sciBASIC",
+    "stars": 78,
+    "updated_at": "2026-09-26T19:39:19Z",
+    "url": "https://github.com/xieguigang/sciBASIC"
   },
   {
     "description": "",
@@ -23,7 +41,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-09-26T19:25:54Z",
+    "updated_at": "2026-09-26T19:41:32Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -68,7 +86,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-26T19:27:06Z",
+    "updated_at": "2026-09-26T19:41:19Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -90,15 +108,6 @@
     "url": "https://github.com/artemyvo/ProjectAva"
   },
   {
-    "description": "\u672c\u5730\u4f18\u5148\u7684 AI \u957f\u671f\u8bb0\u5fc6\u670d\u52a1\uff1a\u4f1a\u9057\u5fd8\u3001\u4f1a\u8054\u60f3\u3001\u4f1a\u5de9\u56fa\u3002MCP + REST + Web UI\uff0c\u4e00\u6761\u547d\u4ee4\u88c5\u597d\uff1b\u4e0d\u7528 DSH \u4e5f\u80fd\u72ec\u7acb\u4f7f\u7528\u3002",
-    "id": "Mlte0907/pangu",
-    "language": "Python",
-    "name": "Mlte0907/pangu",
-    "stars": 1,
-    "updated_at": "2026-09-26T18:28:12Z",
-    "url": "https://github.com/Mlte0907/pangu"
-  },
-  {
     "description": "Ask your data in plain English: a tool-calling agent writes guarded, read-only SQL over the sample warehouse or your own",
     "id": "0yman/ask-your-data",
     "language": "Python",
@@ -115,15 +124,6 @@
     "stars": 130,
     "updated_at": "2026-09-26T18:19:21Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
-    "id": "xieguigang/sciBASIC",
-    "language": "Visual Basic .NET",
-    "name": "xieguigang/sciBASIC",
-    "stars": 78,
-    "updated_at": "2026-09-26T18:13:53Z",
-    "url": "https://github.com/xieguigang/sciBASIC"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
