@@ -1,5 +1,32 @@
 [
   {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-26T16:44:28Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
+    "id": "edjafarov/kiagent-core",
+    "language": "TypeScript",
+    "name": "edjafarov/kiagent-core",
+    "stars": 7,
+    "updated_at": "2026-09-26T16:42:29Z",
+    "url": "https://github.com/edjafarov/kiagent-core"
+  },
+  {
+    "description": "ISO 27001 (+ 42001 + NIS2) ISMS framework designed to be operated by LLM Agents",
+    "id": "kriss-b/llm-iso27001",
+    "language": "\u2014",
+    "name": "kriss-b/llm-iso27001",
+    "stars": 46,
+    "updated_at": "2026-09-26T16:40:23Z",
+    "url": "https://github.com/kriss-b/llm-iso27001"
+  },
+  {
     "description": "\u81ea\u6f14\u8fdb\u7684\u756a\u5267\u5a92\u4f53\u5e93\u6cbb\u7406 agent\uff1a\u67e5\u91cd/\u6539\u540d/TMDB\u5bf9\u9f50/\u6b7b\u79cd\u6e05\u7406\uff0c\u80fd\u53d1\u73b0\u89c4\u5219\u76f2\u533a\u5e76\u81ea\u52a8\u6f14\u8fdb\u51fa\u65b0\u89c4\u5219",
     "id": "wzh4464/self-evolving-media-agent",
     "language": "Python",
@@ -54,20 +81,11 @@
     "url": "https://github.com/555cute/astra-quant-agent"
   },
   {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-26T16:07:43Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "A \u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\u2014\u2014easy stock",
     "id": "jundizhou/easy-stock",
     "language": "Go",
     "name": "jundizhou/easy-stock",
-    "stars": 860,
+    "stars": 861,
     "updated_at": "2026-09-26T16:06:56Z",
     "url": "https://github.com/jundizhou/easy-stock"
   },
@@ -297,15 +315,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
-    "id": "edjafarov/kiagent-core",
-    "language": "TypeScript",
-    "name": "edjafarov/kiagent-core",
-    "stars": 7,
-    "updated_at": "2026-09-26T13:45:02Z",
-    "url": "https://github.com/edjafarov/kiagent-core"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-26T13:18:19Z",
     "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-09-26T13:15:54Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
   }
 ]
