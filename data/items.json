@@ -1,5 +1,23 @@
 [
   {
+    "description": "Multi-agent LLM investment committee that actually trades: AI seats debate, a CIO adopts one, 17 fail-closed risk gates ",
+    "id": "555cute/astra-quant-agent",
+    "language": "Python",
+    "name": "555cute/astra-quant-agent",
+    "stars": 261,
+    "updated_at": "2026-09-26T18:53:52Z",
+    "url": "https://github.com/555cute/astra-quant-agent"
+  },
+  {
+    "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
+    "id": "emqnuele/projectBEA",
+    "language": "Python",
+    "name": "emqnuele/projectBEA",
+    "stars": 19,
+    "updated_at": "2026-09-26T18:52:14Z",
+    "url": "https://github.com/emqnuele/projectBEA"
+  },
+  {
     "description": "An experiment in developing subjective AI",
     "id": "artemyvo/ProjectAva",
     "language": "Python",
@@ -18,15 +36,6 @@
     "url": "https://github.com/plurnk/plurnk-service"
   },
   {
-    "description": "Multi-agent LLM investment committee that actually trades: AI seats debate, a CIO adopts one, 17 fail-closed risk gates ",
-    "id": "555cute/astra-quant-agent",
-    "language": "Python",
-    "name": "555cute/astra-quant-agent",
-    "stars": 261,
-    "updated_at": "2026-09-26T18:29:49Z",
-    "url": "https://github.com/555cute/astra-quant-agent"
-  },
-  {
     "description": "\u672c\u5730\u4f18\u5148\u7684 AI \u957f\u671f\u8bb0\u5fc6\u670d\u52a1\uff1a\u4f1a\u9057\u5fd8\u3001\u4f1a\u8054\u60f3\u3001\u4f1a\u5de9\u56fa\u3002MCP + REST + Web UI\uff0c\u4e00\u6761\u547d\u4ee4\u88c5\u597d\uff1b\u4e0d\u7528 DSH \u4e5f\u80fd\u72ec\u7acb\u4f7f\u7528\u3002",
     "id": "Mlte0907/pangu",
     "language": "Python",
@@ -41,7 +50,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-09-26T18:38:44Z",
+    "updated_at": "2026-09-26T18:56:56Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -59,7 +68,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-26T18:22:55Z",
+    "updated_at": "2026-09-26T18:50:45Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -169,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T17:34:12Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
-    "id": "emqnuele/projectBEA",
-    "language": "Python",
-    "name": "emqnuele/projectBEA",
-    "stars": 19,
-    "updated_at": "2026-09-26T18:34:09Z",
-    "url": "https://github.com/emqnuele/projectBEA"
   },
   {
     "description": "Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into",
@@ -347,7 +347,7 @@
     "language": "Python",
     "name": "diaban/jobsmith",
     "stars": 0,
-    "updated_at": "2026-09-26T15:56:45Z",
+    "updated_at": "2026-09-26T18:58:39Z",
     "url": "https://github.com/diaban/jobsmith"
   },
   {
