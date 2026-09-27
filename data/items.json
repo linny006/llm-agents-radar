@@ -1,5 +1,149 @@
 [
   {
+    "description": "Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons.",
+    "id": "alejandrogg15/Minimax-H3-Turbo",
+    "language": "Python",
+    "name": "alejandrogg15/Minimax-H3-Turbo",
+    "stars": 0,
+    "updated_at": "2026-09-27T21:44:39Z",
+    "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
+  },
+  {
+    "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
+    "id": "Aureliedumbfounding630/agent-governance-toolkit",
+    "language": "\u2014",
+    "name": "Aureliedumbfounding630/agent-governance-toolkit",
+    "stars": 0,
+    "updated_at": "2026-09-27T21:43:35Z",
+    "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
+  },
+  {
+    "description": "Automate Elytra flight, navigation, and landing for Meteor Client with intelligent pathfinding and rocket management.",
+    "id": "222394/SkyPilot",
+    "language": "Java",
+    "name": "222394/SkyPilot",
+    "stars": 0,
+    "updated_at": "2026-09-27T21:43:19Z",
+    "url": "https://github.com/222394/SkyPilot"
+  },
+  {
+    "description": "Build open source deep research agents using multiple models, search tools, and MCP servers.",
+    "id": "randomvariablewhitepelican129/open_deep_research",
+    "language": "Python",
+    "name": "randomvariablewhitepelican129/open_deep_research",
+    "stars": 0,
+    "updated_at": "2026-09-27T21:42:15Z",
+    "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-09-27T21:39:57Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "Automate file management and coding tasks in your local directory using small language models.",
+    "id": "pruthviraj00007/VibeHarness",
+    "language": "Python",
+    "name": "pruthviraj00007/VibeHarness",
+    "stars": 0,
+    "updated_at": "2026-09-27T21:39:49Z",
+    "url": "https://github.com/pruthviraj00007/VibeHarness"
+  },
+  {
+    "description": "Claude Code skill that generates a tailored autonomous dev loop for any git repository",
+    "id": "Stephenson-Software/create-dev-loop",
+    "language": "Python",
+    "name": "Stephenson-Software/create-dev-loop",
+    "stars": 1,
+    "updated_at": "2026-09-27T21:38:31Z",
+    "url": "https://github.com/Stephenson-Software/create-dev-loop"
+  },
+  {
+    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
+    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "language": "Go",
+    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "stars": 0,
+    "updated_at": "2026-09-27T21:38:23Z",
+    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-27T21:39:09Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-09-27T21:35:37Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
+    "id": "Samuelcluttered613/paper2code",
+    "language": "Python",
+    "name": "Samuelcluttered613/paper2code",
+    "stars": 1,
+    "updated_at": "2026-09-27T21:35:04Z",
+    "url": "https://github.com/Samuelcluttered613/paper2code"
+  },
+  {
+    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
+    "id": "Bastioned-successor320/learn-nanobot",
+    "language": "Python",
+    "name": "Bastioned-successor320/learn-nanobot",
+    "stars": 10,
+    "updated_at": "2026-09-27T21:34:51Z",
+    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
+  },
+  {
+    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
+    "id": "tessellated-statisticalcommission243/deep-research-skill",
+    "language": "\u2014",
+    "name": "tessellated-statisticalcommission243/deep-research-skill",
+    "stars": 3,
+    "updated_at": "2026-09-27T21:34:40Z",
+    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
+  },
+  {
+    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
+    "id": "chadwickhyperboloidal943/knowl",
+    "language": "TypeScript",
+    "name": "chadwickhyperboloidal943/knowl",
+    "stars": 0,
+    "updated_at": "2026-09-27T21:31:09Z",
+    "url": "https://github.com/chadwickhyperboloidal943/knowl"
+  },
+  {
+    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
+    "id": "Jssu8541/ouro-loop",
+    "language": "\u2014",
+    "name": "Jssu8541/ouro-loop",
+    "stars": 0,
+    "updated_at": "2026-09-27T21:31:08Z",
+    "url": "https://github.com/Jssu8541/ouro-loop"
+  },
+  {
+    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
+    "id": "Laurenfeminine36/google-jules-skill",
+    "language": "Python",
+    "name": "Laurenfeminine36/google-jules-skill",
+    "stars": 1,
+    "updated_at": "2026-09-27T21:31:01Z",
+    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
+  },
+  {
     "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
     "id": "Asim00740/Kagantic-vault-structure",
     "language": "\u2014",
@@ -27,15 +171,6 @@
     "url": "https://github.com/Victongo/ai-daily-news"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-27T21:26:03Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
     "id": "mena256/ai-pair-engineer",
     "language": "Python",
@@ -61,15 +196,6 @@
     "stars": 2,
     "updated_at": "2026-09-27T21:24:56Z",
     "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-09-27T21:23:57Z",
-    "url": "https://github.com/SashaEee/auditLens"
   },
   {
     "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
@@ -243,15 +369,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-09-27T21:10:48Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
     "description": "\u300a\u8be1\u79d8\u4e16\u754c\u300b\u00b7 World of Mysteries \u2014 \u672c\u5730\u4f18\u5148\u7684\u5355\u4eba\u6301\u4e45\u4e16\u754c\u6f14\u7ece\u5e94\u7528\uff1aSwiftUI macOS 26+ \u5ba2\u6237\u7aef + \u72ec\u7acb Local Engine\uff08Python 3.14 + AgentScope 2.0.8\uff09+ SQ",
     "id": "hrygo/WorldofMysteries",
     "language": "Python",
@@ -320,17 +437,8 @@
     "language": "Python",
     "name": "Ottoman-reticule726/zara-ai-laptop-agent",
     "stars": 0,
-    "updated_at": "2026-09-27T19:48:28Z",
+    "updated_at": "2026-09-27T21:45:14Z",
     "url": "https://github.com/Ottoman-reticule726/zara-ai-laptop-agent"
-  },
-  {
-    "description": "Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons.",
-    "id": "alejandrogg15/Minimax-H3-Turbo",
-    "language": "Python",
-    "name": "alejandrogg15/Minimax-H3-Turbo",
-    "stars": 0,
-    "updated_at": "2026-09-27T19:48:15Z",
-    "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
   },
   {
     "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-27T19:47:51Z",
     "url": "https://github.com/sunnnn2005/data-quality-agent"
-  },
-  {
-    "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
-    "id": "Aureliedumbfounding630/agent-governance-toolkit",
-    "language": "\u2014",
-    "name": "Aureliedumbfounding630/agent-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-09-27T19:47:06Z",
-    "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
-  },
-  {
-    "description": "Automate Elytra flight, navigation, and landing for Meteor Client with intelligent pathfinding and rocket management.",
-    "id": "222394/SkyPilot",
-    "language": "Java",
-    "name": "222394/SkyPilot",
-    "stars": 0,
-    "updated_at": "2026-09-27T19:47:00Z",
-    "url": "https://github.com/222394/SkyPilot"
-  },
-  {
-    "description": "Build open source deep research agents using multiple models, search tools, and MCP servers.",
-    "id": "randomvariablewhitepelican129/open_deep_research",
-    "language": "Python",
-    "name": "randomvariablewhitepelican129/open_deep_research",
-    "stars": 0,
-    "updated_at": "2026-09-27T19:46:18Z",
-    "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
-  },
-  {
-    "description": "Automate file management and coding tasks in your local directory using small language models.",
-    "id": "pruthviraj00007/VibeHarness",
-    "language": "Python",
-    "name": "pruthviraj00007/VibeHarness",
-    "stars": 0,
-    "updated_at": "2026-09-27T19:43:28Z",
-    "url": "https://github.com/pruthviraj00007/VibeHarness"
-  },
-  {
-    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
-    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
-    "language": "Go",
-    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
-    "stars": 0,
-    "updated_at": "2026-09-27T19:42:05Z",
-    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 128,
-    "updated_at": "2026-09-27T19:41:05Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "NOOA network-ops agent for a TP-Link Omada SDN controller via omada-controller-mcp, backed by a self-hosted Nemotron Lig",
-    "id": "samhaque/nooa-omada-agent",
-    "language": "Python",
-    "name": "samhaque/nooa-omada-agent",
-    "stars": 0,
-    "updated_at": "2026-09-27T19:39:14Z",
-    "url": "https://github.com/samhaque/nooa-omada-agent"
-  },
-  {
-    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
-    "id": "Samuelcluttered613/paper2code",
-    "language": "Python",
-    "name": "Samuelcluttered613/paper2code",
-    "stars": 1,
-    "updated_at": "2026-09-27T19:38:40Z",
-    "url": "https://github.com/Samuelcluttered613/paper2code"
-  },
-  {
-    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
-    "id": "Bastioned-successor320/learn-nanobot",
-    "language": "Python",
-    "name": "Bastioned-successor320/learn-nanobot",
-    "stars": 10,
-    "updated_at": "2026-09-27T19:38:28Z",
-    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
-  },
-  {
-    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
-    "id": "tessellated-statisticalcommission243/deep-research-skill",
-    "language": "\u2014",
-    "name": "tessellated-statisticalcommission243/deep-research-skill",
-    "stars": 3,
-    "updated_at": "2026-09-27T19:38:21Z",
-    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
-    "id": "chadwickhyperboloidal943/knowl",
-    "language": "TypeScript",
-    "name": "chadwickhyperboloidal943/knowl",
-    "stars": 0,
-    "updated_at": "2026-09-27T19:34:37Z",
-    "url": "https://github.com/chadwickhyperboloidal943/knowl"
-  },
-  {
-    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
-    "id": "Laurenfeminine36/google-jules-skill",
-    "language": "Python",
-    "name": "Laurenfeminine36/google-jules-skill",
-    "stars": 1,
-    "updated_at": "2026-09-27T19:34:27Z",
-    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
   }
 ]
