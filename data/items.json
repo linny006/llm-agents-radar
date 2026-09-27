@@ -1,5 +1,149 @@
 [
   {
+    "description": "Sort your Downloads by project, not file type \u2014 with one-command undo. No delete, ever.",
+    "id": "verniceunleaded6135/tidy-undo",
+    "language": "Python",
+    "name": "verniceunleaded6135/tidy-undo",
+    "stars": 0,
+    "updated_at": "2026-09-27T10:14:19Z",
+    "url": "https://github.com/verniceunleaded6135/tidy-undo"
+  },
+  {
+    "description": "Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node\u2014no complex workflows needed.",
+    "id": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
+    "language": "JavaScript",
+    "name": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
+    "stars": 3,
+    "updated_at": "2026-09-27T10:13:27Z",
+    "url": "https://github.com/Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3"
+  },
+  {
+    "description": "Control your Windows laptop remotely via Discord with AI-powered voice and text commands in English or Urdu.",
+    "id": "Ottoman-reticule726/zara-ai-laptop-agent",
+    "language": "Python",
+    "name": "Ottoman-reticule726/zara-ai-laptop-agent",
+    "stars": 0,
+    "updated_at": "2026-09-27T10:12:45Z",
+    "url": "https://github.com/Ottoman-reticule726/zara-ai-laptop-agent"
+  },
+  {
+    "description": "Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons.",
+    "id": "alejandrogg15/Minimax-H3-Turbo",
+    "language": "Python",
+    "name": "alejandrogg15/Minimax-H3-Turbo",
+    "stars": 0,
+    "updated_at": "2026-09-27T10:12:27Z",
+    "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
+  },
+  {
+    "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
+    "id": "Aureliedumbfounding630/agent-governance-toolkit",
+    "language": "\u2014",
+    "name": "Aureliedumbfounding630/agent-governance-toolkit",
+    "stars": 0,
+    "updated_at": "2026-09-27T10:11:20Z",
+    "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
+  },
+  {
+    "description": "Automate Elytra flight, navigation, and landing for Meteor Client with intelligent pathfinding and rocket management.",
+    "id": "222394/SkyPilot",
+    "language": "Java",
+    "name": "222394/SkyPilot",
+    "stars": 0,
+    "updated_at": "2026-09-27T10:11:20Z",
+    "url": "https://github.com/222394/SkyPilot"
+  },
+  {
+    "description": "Build open source deep research agents using multiple models, search tools, and MCP servers.",
+    "id": "randomvariablewhitepelican129/open_deep_research",
+    "language": "Python",
+    "name": "randomvariablewhitepelican129/open_deep_research",
+    "stars": 0,
+    "updated_at": "2026-09-27T10:10:39Z",
+    "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
+  },
+  {
+    "description": "Axiomize 2.0 - scientific modeling engine plus quantum-inspired multi-branch reasoning",
+    "id": "Furox-Art/axiomize-quantum-skills-2.0",
+    "language": "Python",
+    "name": "Furox-Art/axiomize-quantum-skills-2.0",
+    "stars": 0,
+    "updated_at": "2026-09-27T10:10:38Z",
+    "url": "https://github.com/Furox-Art/axiomize-quantum-skills-2.0"
+  },
+  {
+    "description": "AI assistant for a clothing store's floor team: tracks category pace vs monthly targets, diagnoses why (stockouts, broke",
+    "id": "nanditamenon003/category-pulse",
+    "language": "Python",
+    "name": "nanditamenon003/category-pulse",
+    "stars": 0,
+    "updated_at": "2026-09-27T10:08:22Z",
+    "url": "https://github.com/nanditamenon003/category-pulse"
+  },
+  {
+    "description": "Automate file management and coding tasks in your local directory using small language models.",
+    "id": "pruthviraj00007/VibeHarness",
+    "language": "Python",
+    "name": "pruthviraj00007/VibeHarness",
+    "stars": 0,
+    "updated_at": "2026-09-27T10:07:57Z",
+    "url": "https://github.com/pruthviraj00007/VibeHarness"
+  },
+  {
+    "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 274,
+    "updated_at": "2026-09-27T10:11:52Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
+    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "language": "Go",
+    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "stars": 0,
+    "updated_at": "2026-09-27T10:06:32Z",
+    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
+  },
+  {
+    "description": "Capability-ontology-driven SAP capability supplier. One call answers one business question; endpoint chains, as-of consi",
+    "id": "shrek-abaper/sap-nexus-agent",
+    "language": "Python",
+    "name": "shrek-abaper/sap-nexus-agent",
+    "stars": 0,
+    "updated_at": "2026-09-27T10:05:26Z",
+    "url": "https://github.com/shrek-abaper/sap-nexus-agent"
+  },
+  {
+    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
+    "id": "Samuelcluttered613/paper2code",
+    "language": "Python",
+    "name": "Samuelcluttered613/paper2code",
+    "stars": 1,
+    "updated_at": "2026-09-27T10:03:03Z",
+    "url": "https://github.com/Samuelcluttered613/paper2code"
+  },
+  {
+    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
+    "id": "Bastioned-successor320/learn-nanobot",
+    "language": "Python",
+    "name": "Bastioned-successor320/learn-nanobot",
+    "stars": 10,
+    "updated_at": "2026-09-27T10:02:49Z",
+    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
+  },
+  {
+    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
+    "id": "tessellated-statisticalcommission243/deep-research-skill",
+    "language": "\u2014",
+    "name": "tessellated-statisticalcommission243/deep-research-skill",
+    "stars": 3,
+    "updated_at": "2026-09-27T10:02:39Z",
+    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
+  },
+  {
     "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
     "id": "chadwickhyperboloidal943/knowl",
     "language": "TypeScript",
@@ -122,7 +266,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-27T09:51:51Z",
+    "updated_at": "2026-09-27T10:14:21Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -171,15 +315,6 @@
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
   },
   {
-    "description": "AI assistant for a clothing store's floor team: tracks category pace vs monthly targets, diagnoses why (stockouts, broke",
-    "id": "nanditamenon003/category-pulse",
-    "language": "Python",
-    "name": "nanditamenon003/category-pulse",
-    "stars": 0,
-    "updated_at": "2026-09-27T09:39:39Z",
-    "url": "https://github.com/nanditamenon003/category-pulse"
-  },
-  {
     "description": "An autopoiesic kefir for computing machines",
     "id": "genaforvena/lte-workstation",
     "language": "Shell",
@@ -207,15 +342,6 @@
     "url": "https://github.com/mensfeld/pocketrb"
   },
   {
-    "description": "Capability-ontology-driven SAP capability supplier. One call answers one business question; endpoint chains, as-of consi",
-    "id": "shrek-abaper/sap-nexus-agent",
-    "language": "Python",
-    "name": "shrek-abaper/sap-nexus-agent",
-    "stars": 0,
-    "updated_at": "2026-09-27T09:34:38Z",
-    "url": "https://github.com/shrek-abaper/sap-nexus-agent"
-  },
-  {
     "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
     "id": "diaban/jobsmith",
     "language": "Python",
@@ -223,6 +349,15 @@
     "stars": 0,
     "updated_at": "2026-09-27T09:27:58Z",
     "url": "https://github.com/diaban/jobsmith"
+  },
+  {
+    "description": "Read-only AWS inventory with a graph model and an LLM agent that answers security questions with validated citations. Po",
+    "id": "TomKoren1/dave.io_home-assignment",
+    "language": "TypeScript",
+    "name": "TomKoren1/dave.io_home-assignment",
+    "stars": 0,
+    "updated_at": "2026-09-27T09:24:00Z",
+    "url": "https://github.com/TomKoren1/dave.io_home-assignment"
   },
   {
     "description": "AI pet health assistant with a constrained agent framework \u2014 6-layer validation pipeline that makes cheap LLMs reliable.",
@@ -288,21 +423,12 @@
     "url": "https://github.com/Fongkai777/wechat-agent"
   },
   {
-    "description": "Axiomize 2.0 - scientific modeling engine plus quantum-inspired multi-branch reasoning",
-    "id": "Furox-Art/axiomize-quantum-skills-2.0",
-    "language": "Python",
-    "name": "Furox-Art/axiomize-quantum-skills-2.0",
-    "stars": 0,
-    "updated_at": "2026-09-27T09:14:56Z",
-    "url": "https://github.com/Furox-Art/axiomize-quantum-skills-2.0"
-  },
-  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-09-27T08:33:48Z",
+    "updated_at": "2026-09-27T10:12:35Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -322,131 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-27T08:28:00Z",
     "url": "https://github.com/9t29zhmwdh-coder/EmissaryKit"
-  },
-  {
-    "description": "Executive Assistant Kit | Gig hunting & general coordination. \u603b\u7ecf\u7406\u52a9\u7406\u2014\u2014\u627e\u5355\u63a5\u6d3b\u5165\u53e3\u4e0e\u7efc\u5408\u4e8b\u52a1\u534f\u8c03\u3002",
-    "id": "xhqing/ExecutiveAssistantAgent",
-    "language": "\u2014",
-    "name": "xhqing/ExecutiveAssistantAgent",
-    "stars": 0,
-    "updated_at": "2026-09-27T08:25:34Z",
-    "url": "https://github.com/xhqing/ExecutiveAssistantAgent"
-  },
-  {
-    "description": "Generate rich YuE2 audio in ComfyUI with six modular nodes\u2014hum-to-song, LoRA and adapter support\u2014no stock nodes needed.",
-    "id": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
-    "language": "Python",
-    "name": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
-    "stars": 0,
-    "updated_at": "2026-09-27T08:24:01Z",
-    "url": "https://github.com/Deborahwalkerz661/ComfyUI-FS_Audio_Suite"
-  },
-  {
-    "description": "",
-    "id": "apolmig/fronteraeval",
-    "language": "JavaScript",
-    "name": "apolmig/fronteraeval",
-    "stars": 0,
-    "updated_at": "2026-09-27T08:23:08Z",
-    "url": "https://github.com/apolmig/fronteraeval"
-  },
-  {
-    "description": "Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de",
-    "id": "Jadema5416/ComfyUI-DLSS5-Enhancer",
-    "language": "Python",
-    "name": "Jadema5416/ComfyUI-DLSS5-Enhancer",
-    "stars": 0,
-    "updated_at": "2026-09-27T08:22:54Z",
-    "url": "https://github.com/Jadema5416/ComfyUI-DLSS5-Enhancer"
-  },
-  {
-    "description": "Sort your Downloads by project, not file type \u2014 with one-command undo. No delete, ever.",
-    "id": "verniceunleaded6135/tidy-undo",
-    "language": "Python",
-    "name": "verniceunleaded6135/tidy-undo",
-    "stars": 0,
-    "updated_at": "2026-09-27T08:21:49Z",
-    "url": "https://github.com/verniceunleaded6135/tidy-undo"
-  },
-  {
-    "description": "Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node\u2014no complex workflows needed.",
-    "id": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
-    "language": "JavaScript",
-    "name": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
-    "stars": 3,
-    "updated_at": "2026-09-27T08:21:06Z",
-    "url": "https://github.com/Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3"
-  },
-  {
-    "description": "Control your Windows laptop remotely via Discord with AI-powered voice and text commands in English or Urdu.",
-    "id": "Ottoman-reticule726/zara-ai-laptop-agent",
-    "language": "Python",
-    "name": "Ottoman-reticule726/zara-ai-laptop-agent",
-    "stars": 0,
-    "updated_at": "2026-09-27T08:20:21Z",
-    "url": "https://github.com/Ottoman-reticule726/zara-ai-laptop-agent"
-  },
-  {
-    "description": "Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons.",
-    "id": "alejandrogg15/Minimax-H3-Turbo",
-    "language": "Python",
-    "name": "alejandrogg15/Minimax-H3-Turbo",
-    "stars": 0,
-    "updated_at": "2026-09-27T08:20:10Z",
-    "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
-  },
-  {
-    "description": "Automate Elytra flight, navigation, and landing for Meteor Client with intelligent pathfinding and rocket management.",
-    "id": "222394/SkyPilot",
-    "language": "Java",
-    "name": "222394/SkyPilot",
-    "stars": 0,
-    "updated_at": "2026-09-27T08:19:06Z",
-    "url": "https://github.com/222394/SkyPilot"
-  },
-  {
-    "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
-    "id": "Aureliedumbfounding630/agent-governance-toolkit",
-    "language": "\u2014",
-    "name": "Aureliedumbfounding630/agent-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-09-27T08:19:04Z",
-    "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
-  },
-  {
-    "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
-    "id": "ximing/vital",
-    "language": "TypeScript",
-    "name": "ximing/vital",
-    "stars": 2,
-    "updated_at": "2026-09-27T08:18:41Z",
-    "url": "https://github.com/ximing/vital"
-  },
-  {
-    "description": "\ud83e\udd16 \u65b0\u4e00\u4ee3\u5f00\u6e90 Chrome \u4fa7\u8fb9\u680f\u81ea\u4e3b AI \u6d4f\u89c8\u5668\u667a\u80fd\u4f53\uff1a\u76ee\u6807\u9a71\u52a8\u3001\u957f\u7a0b\u89c4\u5212\u3001\u89c6\u89c9\u7a7a\u95f4\u611f\u77e5\u4e0e\u7269\u7406\u7ea7\u64cd\u63a7\uff0c\u652f\u6301 DeepSeek \u601d\u8003\u6a21\u578b\u4e0e\u672c\u5730\u79bb\u7ebf LLM (BYOK)",
-    "id": "lusipad/browser-agent",
-    "language": "TypeScript",
-    "name": "lusipad/browser-agent",
-    "stars": 2,
-    "updated_at": "2026-09-27T08:18:36Z",
-    "url": "https://github.com/lusipad/browser-agent"
-  },
-  {
-    "description": "Build open source deep research agents using multiple models, search tools, and MCP servers.",
-    "id": "randomvariablewhitepelican129/open_deep_research",
-    "language": "Python",
-    "name": "randomvariablewhitepelican129/open_deep_research",
-    "stars": 0,
-    "updated_at": "2026-09-27T08:18:28Z",
-    "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
-  },
-  {
-    "description": "Automate file management and coding tasks in your local directory using small language models.",
-    "id": "pruthviraj00007/VibeHarness",
-    "language": "Python",
-    "name": "pruthviraj00007/VibeHarness",
-    "stars": 0,
-    "updated_at": "2026-09-27T08:15:57Z",
-    "url": "https://github.com/pruthviraj00007/VibeHarness"
   }
 ]
