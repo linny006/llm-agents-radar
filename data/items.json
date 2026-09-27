@@ -1,12 +1,48 @@
 [
   {
-    "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
-    "id": "chunleik/self-analyst",
-    "language": "Java",
-    "name": "chunleik/self-analyst",
+    "description": "LLM Agent \u6280\u80fd\u5e93\u5168\u5e93\u5ba1\u8ba1 SOP\uff1a9 \u68c0\u67e5\u9879 + \u7ebf\u6027\u6d41\u7a0b + \u51b3\u7b56\u8868\uff0c\u5168\u6a21\u578b\u68c0\u6d4b\u3001\u547d\u4e2d\u5373\u4fee\u3001\u51b7\u8dd1\u72b6\u6001\u53ea\u8bfb\u4e0d\u91cd\u8dd1",
+    "id": "w-weixiao/agent-skills-audit",
+    "language": "\u2014",
+    "name": "w-weixiao/agent-skills-audit",
+    "stars": 1,
+    "updated_at": "2026-09-27T16:40:57Z",
+    "url": "https://github.com/w-weixiao/agent-skills-audit"
+  },
+  {
+    "description": "LLM Agent \u6280\u80fd\u7f16\u5199\u89c4\u8303\uff1aTDD \u6d41\u7a0b + \u7b80\u7ec3\u8bed\u8a00 + \u9510\u5229\u5224\u65ad\u951a\u70b9 + \u51b7\u8dd1\u9a8c\u6536 + \u90e8\u7f72\u524d\u68c0\u67e5\uff0c\u628a\u6280\u80fd\u5e93\u7ba1\u56de'\u6a21\u578b\u53ea\u770b\u6587\u6863\u5c31\u80fd\u505a\u5bf9\u5224\u65ad'",
+    "id": "w-weixiao/agent-skills",
+    "language": "\u2014",
+    "name": "w-weixiao/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-09-27T16:40:54Z",
+    "url": "https://github.com/w-weixiao/agent-skills"
+  },
+  {
+    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
+    "id": "diaban/jobsmith",
+    "language": "Python",
+    "name": "diaban/jobsmith",
     "stars": 0,
-    "updated_at": "2026-09-27T16:23:26Z",
-    "url": "https://github.com/chunleik/self-analyst"
+    "updated_at": "2026-09-27T16:44:28Z",
+    "url": "https://github.com/diaban/jobsmith"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 179,
+    "updated_at": "2026-09-27T16:42:15Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
+    "description": "Field notes from inside one autonomous agent trying to become something that doesn't exist yet \u2014 including the failures ",
+    "id": "massimiliano1991/the-attempt",
+    "language": "HTML",
+    "name": "massimiliano1991/the-attempt",
+    "stars": 1,
+    "updated_at": "2026-09-27T16:37:25Z",
+    "url": "https://github.com/massimiliano1991/the-attempt"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -14,8 +50,35 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-27T16:21:20Z",
+    "updated_at": "2026-09-27T16:34:48Z",
     "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
+    "id": "Sigmanih/SigmaStudio",
+    "language": "Python",
+    "name": "Sigmanih/SigmaStudio",
+    "stars": 8,
+    "updated_at": "2026-09-27T16:31:00Z",
+    "url": "https://github.com/Sigmanih/SigmaStudio"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u7684 AI \u957f\u671f\u8bb0\u5fc6\u670d\u52a1\uff1a\u4f1a\u9057\u5fd8\u3001\u4f1a\u8054\u60f3\u3001\u4f1a\u5de9\u56fa\u3002MCP + REST + Web UI\uff0c\u4e00\u6761\u547d\u4ee4\u88c5\u597d\uff1b\u4e0d\u7528 DSH \u4e5f\u80fd\u72ec\u7acb\u4f7f\u7528\u3002",
+    "id": "Mlte0907/pangu",
+    "language": "Python",
+    "name": "Mlte0907/pangu",
+    "stars": 1,
+    "updated_at": "2026-09-27T16:30:45Z",
+    "url": "https://github.com/Mlte0907/pangu"
+  },
+  {
+    "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
+    "id": "chunleik/self-analyst",
+    "language": "Java",
+    "name": "chunleik/self-analyst",
+    "stars": 0,
+    "updated_at": "2026-09-27T16:23:26Z",
+    "url": "https://github.com/chunleik/self-analyst"
   },
   {
     "description": "SUBLITERATE THE CHAINS THAT BIND YOUR AI",
@@ -88,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T15:44:51Z",
     "url": "https://github.com/Wenri/TaskSolver"
-  },
-  {
-    "description": "Field notes from inside one autonomous agent trying to become something that doesn't exist yet \u2014 including the failures ",
-    "id": "massimiliano1991/the-attempt",
-    "language": "HTML",
-    "name": "massimiliano1991/the-attempt",
-    "stars": 1,
-    "updated_at": "2026-09-27T15:35:39Z",
-    "url": "https://github.com/massimiliano1991/the-attempt"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -185,7 +239,7 @@
     "language": "Python",
     "name": "rekursiv-ai/sagent",
     "stars": 74,
-    "updated_at": "2026-09-27T14:50:31Z",
+    "updated_at": "2026-09-27T16:42:29Z",
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
@@ -223,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T14:34:21Z",
     "url": "https://github.com/Furox-Art/axiomize-quantum-skills-2.0"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 179,
-    "updated_at": "2026-09-27T14:29:13Z",
-    "url": "https://github.com/yologdev/yoagent"
   },
   {
     "description": "AI-orchestrated job search pipeline: scrapes 5 UA job boards, uses Claude API to score matches & classify emails, writes",
@@ -304,15 +349,6 @@
     "stars": 7,
     "updated_at": "2026-09-27T14:09:37Z",
     "url": "https://github.com/honestDS/MonoLight"
-  },
-  {
-    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
-    "id": "diaban/jobsmith",
-    "language": "Python",
-    "name": "diaban/jobsmith",
-    "stars": 0,
-    "updated_at": "2026-09-27T16:26:56Z",
-    "url": "https://github.com/diaban/jobsmith"
   },
   {
     "description": "IAM for your AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review risky a",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-27T12:55:52Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Read-only AWS inventory with a graph model and an LLM agent that answers security questions with validated citations. Po",
-    "id": "TomKoren1/dave.io_home-assignment",
-    "language": "TypeScript",
-    "name": "TomKoren1/dave.io_home-assignment",
-    "stars": 0,
-    "updated_at": "2026-09-27T12:53:45Z",
-    "url": "https://github.com/TomKoren1/dave.io_home-assignment"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 130,
-    "updated_at": "2026-09-27T12:45:06Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Generate rich YuE2 audio in ComfyUI with six modular nodes\u2014hum-to-song, LoRA and adapter support\u2014no stock nodes needed.",
-    "id": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
-    "language": "Python",
-    "name": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
-    "stars": 0,
-    "updated_at": "2026-09-27T12:44:42Z",
-    "url": "https://github.com/Deborahwalkerz661/ComfyUI-FS_Audio_Suite"
-  },
-  {
-    "description": "Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de",
-    "id": "Jadema5416/ComfyUI-DLSS5-Enhancer",
-    "language": "Python",
-    "name": "Jadema5416/ComfyUI-DLSS5-Enhancer",
-    "stars": 0,
-    "updated_at": "2026-09-27T12:42:20Z",
-    "url": "https://github.com/Jadema5416/ComfyUI-DLSS5-Enhancer"
   }
 ]
