@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "EauDoon/hermes-parallel-followups",
     "stars": 0,
-    "updated_at": "2026-09-27T17:43:05Z",
+    "updated_at": "2026-09-27T17:44:58Z",
     "url": "https://github.com/EauDoon/hermes-parallel-followups"
+  },
+  {
+    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
+    "id": "diaban/jobsmith",
+    "language": "Python",
+    "name": "diaban/jobsmith",
+    "stars": 0,
+    "updated_at": "2026-09-27T17:44:37Z",
+    "url": "https://github.com/diaban/jobsmith"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-09-27T17:44:13Z",
+    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -288,15 +306,6 @@
     "url": "https://github.com/roydonsequeira/CORTEX-Private-Intelligence-Framework"
   },
   {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-09-27T17:31:08Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
     "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
     "id": "Asim00740/Kagantic-vault-structure",
     "language": "\u2014",
@@ -385,15 +394,6 @@
     "stars": 10,
     "updated_at": "2026-09-27T16:49:17Z",
     "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
-    "id": "diaban/jobsmith",
-    "language": "Python",
-    "name": "diaban/jobsmith",
-    "stars": 0,
-    "updated_at": "2026-09-27T17:42:51Z",
-    "url": "https://github.com/diaban/jobsmith"
   },
   {
     "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
