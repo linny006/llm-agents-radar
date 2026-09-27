@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-27 10:45 UTC
+> ⏰ Last updated: 2026-09-27 11:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,18 +43,18 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [kudratsingh/incident-commander](https://github.com/kudratsingh/incident-commander) | 0 | Python | 2026-09-27 | An autonomous on-call agent that investigates and remediates incidents on the Incident Platform through its MCP tool sur |
-| 2 | [gptme/gptme](https://github.com/gptme/gptme) | 4430 | Python | 2026-09-27 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
-| 3 | [RobertWang4/CozyPup](https://github.com/RobertWang4/CozyPup) | 0 | Python | 2026-09-27 | AI pet health assistant with a constrained agent framework — 6-layer validation pipeline that makes cheap LLMs reliable. |
-| 4 | [410979729/scope-recall-hermes](https://github.com/410979729/scope-recall-hermes) | 274 | Python | 2026-09-27 | Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet |
-| 5 | [nanditamenon003/category-pulse](https://github.com/nanditamenon003/category-pulse) | 0 | Python | 2026-09-27 | AI assistant for a clothing store's floor team: tracks category pace vs monthly targets, diagnoses why (stockouts, broke |
-| 6 | [earthwalker17/MiniDSH](https://github.com/earthwalker17/MiniDSH) | 11 | TypeScript | 2026-09-27 | Minimal surface, complete architecture: a small, local-first coding-agent harness that re-derives the invariants of Deep |
-| 7 | [VBS2004/jev-windows-agent](https://github.com/VBS2004/jev-windows-agent) | 0 | Python | 2026-09-27 | Windows UI Automation extension of arc-cua: a fast, JEV-powered decision loop for desktop computer-use agents |
-| 8 | [dkblinux98/nyxGPT](https://github.com/dkblinux98/nyxGPT) | 0 | Python | 2026-09-27 | Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi |
-| 9 | [ZekaiShi/evo-subagent](https://github.com/ZekaiShi/evo-subagent) | 7 | JavaScript | 2026-09-27 | Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/ |
-| 10 | [heee-a/dev-portfolio](https://github.com/heee-a/dev-portfolio) | 0 | Python | 2026-09-27 | 开发作品集：软件开发（FastAPI 任务系统）/ AI 智能体（ReAct 框架从零实现）/ 算法六大专题，39 个离线测试 |
-| 11 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 128 | HTML | 2026-09-27 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 12 | [wufufu770/d2d](https://github.com/wufufu770/d2d) | 3 | JavaScript | 2026-09-27 | 三环并行渗透测试 dsh 插件 — discovery/deep/creative 三环 + 独立 verify 闭环，Kuzu 图黑板共享状态，多 agent 自调度、按角色模型策略、自学习知识脑。仅用于授权安全测试（SRC/靶场/自有资 |
-| 13 | [kyleslight/shun](https://github.com/kyleslight/shun) | 6 | TypeScript | 2026-09-27 | The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier. |
+| 2 | [kyleslight/shun](https://github.com/kyleslight/shun) | 6 | TypeScript | 2026-09-27 | The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier. |
+| 3 | [wufufu770/d2d](https://github.com/wufufu770/d2d) | 3 | JavaScript | 2026-09-27 | 三环并行渗透测试 dsh 插件 — discovery/deep/creative 三环 + 独立 verify 闭环，Kuzu 图黑板共享状态，多 agent 自调度、按角色模型策略、自学习知识脑。仅用于授权安全测试（SRC/靶场/自有资 |
+| 4 | [earthwalker17/MiniDSH](https://github.com/earthwalker17/MiniDSH) | 11 | TypeScript | 2026-09-27 | Minimal surface, complete architecture: a small, local-first coding-agent harness that re-derives the invariants of Deep |
+| 5 | [gptme/gptme](https://github.com/gptme/gptme) | 4430 | Python | 2026-09-27 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
+| 6 | [RobertWang4/CozyPup](https://github.com/RobertWang4/CozyPup) | 0 | Python | 2026-09-27 | AI pet health assistant with a constrained agent framework — 6-layer validation pipeline that makes cheap LLMs reliable. |
+| 7 | [410979729/scope-recall-hermes](https://github.com/410979729/scope-recall-hermes) | 274 | Python | 2026-09-27 | Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet |
+| 8 | [nanditamenon003/category-pulse](https://github.com/nanditamenon003/category-pulse) | 0 | Python | 2026-09-27 | AI assistant for a clothing store's floor team: tracks category pace vs monthly targets, diagnoses why (stockouts, broke |
+| 9 | [VBS2004/jev-windows-agent](https://github.com/VBS2004/jev-windows-agent) | 0 | Python | 2026-09-27 | Windows UI Automation extension of arc-cua: a fast, JEV-powered decision loop for desktop computer-use agents |
+| 10 | [dkblinux98/nyxGPT](https://github.com/dkblinux98/nyxGPT) | 0 | Python | 2026-09-27 | Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi |
+| 11 | [ZekaiShi/evo-subagent](https://github.com/ZekaiShi/evo-subagent) | 7 | JavaScript | 2026-09-27 | Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/ |
+| 12 | [heee-a/dev-portfolio](https://github.com/heee-a/dev-portfolio) | 0 | Python | 2026-09-27 | 开发作品集：软件开发（FastAPI 任务系统）/ AI 智能体（ReAct 框架从零实现）/ 算法六大专题，39 个离线测试 |
+| 13 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 128 | HTML | 2026-09-27 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
 | 14 | [Deborahwalkerz661/ComfyUI-FS_Audio_Suite](https://github.com/Deborahwalkerz661/ComfyUI-FS_Audio_Suite) | 0 | Python | 2026-09-27 | Generate rich YuE2 audio in ComfyUI with six modular nodes—hum-to-song, LoRA and adapter support—no stock nodes needed. |
 | 15 | [Jadema5416/ComfyUI-DLSS5-Enhancer](https://github.com/Jadema5416/ComfyUI-DLSS5-Enhancer) | 0 | Python | 2026-09-27 | Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de |
 | 16 | [verniceunleaded6135/tidy-undo](https://github.com/verniceunleaded6135/tidy-undo) | 0 | Python | 2026-09-27 | Sort your Downloads by project, not file type — with one-command undo. No delete, ever. |
