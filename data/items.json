@@ -1,5 +1,32 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-27T22:39:38Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Local pre-write containment for AI coding agents: deterministic policy, advisory Mamba scoring, and optional local Laya ",
+    "id": "jakubkrzysztofsikora/reasoning-core",
+    "language": "Python",
+    "name": "jakubkrzysztofsikora/reasoning-core",
+    "stars": 6,
+    "updated_at": "2026-09-27T22:40:36Z",
+    "url": "https://github.com/jakubkrzysztofsikora/reasoning-core"
+  },
+  {
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 108,
+    "updated_at": "2026-09-27T22:32:37Z",
+    "url": "https://github.com/AVADSA25/codec"
+  },
+  {
     "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
     "id": "diaban/jobsmith",
     "language": "Python",
@@ -27,15 +54,6 @@
     "url": "https://github.com/khudayarovich/onflip-agent"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-27T22:24:21Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
     "id": "Sigmanih/SigmaStudio",
     "language": "Python",
@@ -49,7 +67,7 @@
     "id": "bolongpa/logroot-agent",
     "language": "Python",
     "name": "bolongpa/logroot-agent",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-09-27T22:17:34Z",
     "url": "https://github.com/bolongpa/logroot-agent"
   },
@@ -61,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T22:06:26Z",
     "url": "https://github.com/anatolykoptev/quarryn"
-  },
-  {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 108,
-    "updated_at": "2026-09-27T22:24:58Z",
-    "url": "https://github.com/AVADSA25/codec"
   },
   {
     "description": "\ud83e\udeb6 Quill \u2014 Open-source AI super-agent framework with sandboxed execution, sub-agent orchestration, MCP, skills marketplac",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-27T20:34:55Z",
     "url": "https://github.com/NatanTechofNY/fieldnote-assistant"
-  },
-  {
-    "description": "Local pre-write containment for AI coding agents: deterministic policy, advisory Mamba scoring, and optional local Laya ",
-    "id": "jakubkrzysztofsikora/reasoning-core",
-    "language": "Python",
-    "name": "jakubkrzysztofsikora/reasoning-core",
-    "stars": 6,
-    "updated_at": "2026-09-27T20:30:50Z",
-    "url": "https://github.com/jakubkrzysztofsikora/reasoning-core"
   }
 ]
