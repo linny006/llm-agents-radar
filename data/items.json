@@ -1,12 +1,57 @@
 [
   {
+    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
+    "id": "diaban/jobsmith",
+    "language": "Python",
+    "name": "diaban/jobsmith",
+    "stars": 0,
+    "updated_at": "2026-09-27T22:29:53Z",
+    "url": "https://github.com/diaban/jobsmith"
+  },
+  {
+    "description": "Control AI agents anywhere. (github mirror)",
+    "id": "justacalico/devinorium",
+    "language": "Dart",
+    "name": "justacalico/devinorium",
+    "stars": 1,
+    "updated_at": "2026-09-27T22:28:32Z",
+    "url": "https://github.com/justacalico/devinorium"
+  },
+  {
+    "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
+    "id": "khudayarovich/onflip-agent",
+    "language": "TypeScript",
+    "name": "khudayarovich/onflip-agent",
+    "stars": 4,
+    "updated_at": "2026-09-27T22:28:13Z",
+    "url": "https://github.com/khudayarovich/onflip-agent"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-27T22:08:18Z",
+    "updated_at": "2026-09-27T22:24:21Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
+    "id": "Sigmanih/SigmaStudio",
+    "language": "Python",
+    "name": "Sigmanih/SigmaStudio",
+    "stars": 8,
+    "updated_at": "2026-09-27T22:18:37Z",
+    "url": "https://github.com/Sigmanih/SigmaStudio"
+  },
+  {
+    "description": "LLM agent for log anomaly detection and root-cause analysis: heuristic detectors plus a tool-calling investigation loop",
+    "id": "bolongpa/logroot-agent",
+    "language": "Python",
+    "name": "bolongpa/logroot-agent",
+    "stars": 0,
+    "updated_at": "2026-09-27T22:17:34Z",
+    "url": "https://github.com/bolongpa/logroot-agent"
   },
   {
     "description": "Agent-native product search: multi-source scrape \u2192 deterministic constraints \u2192 LLM match \u2192 price watches + order trackin",
@@ -23,17 +68,8 @@
     "language": "Python",
     "name": "AVADSA25/codec",
     "stars": 108,
-    "updated_at": "2026-09-27T22:05:34Z",
+    "updated_at": "2026-09-27T22:24:58Z",
     "url": "https://github.com/AVADSA25/codec"
-  },
-  {
-    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
-    "id": "diaban/jobsmith",
-    "language": "Python",
-    "name": "diaban/jobsmith",
-    "stars": 0,
-    "updated_at": "2026-09-27T22:05:10Z",
-    "url": "https://github.com/diaban/jobsmith"
   },
   {
     "description": "\ud83e\udeb6 Quill \u2014 Open-source AI super-agent framework with sandboxed execution, sub-agent orchestration, MCP, skills marketplac",
@@ -194,7 +230,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-09-27T22:00:43Z",
+    "updated_at": "2026-09-27T22:27:09Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -365,7 +401,7 @@
     "language": "Python",
     "name": "emqnuele/projectBEA",
     "stars": 20,
-    "updated_at": "2026-09-27T21:01:42Z",
+    "updated_at": "2026-09-27T22:25:07Z",
     "url": "https://github.com/emqnuele/projectBEA"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 6,
     "updated_at": "2026-09-27T20:30:50Z",
     "url": "https://github.com/jakubkrzysztofsikora/reasoning-core"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-09-27T20:23:28Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Telegram bridge for opencode, built for slow local LLMs: never blocks, live thinking message every 3 s, patient timeouts",
-    "id": "cakescats/opencode-telegram-slow-llm",
-    "language": "TypeScript",
-    "name": "cakescats/opencode-telegram-slow-llm",
-    "stars": 0,
-    "updated_at": "2026-09-27T20:22:40Z",
-    "url": "https://github.com/cakescats/opencode-telegram-slow-llm"
-  },
-  {
-    "description": "\u672c\u5730\u4f18\u5148\u7684 AI \u957f\u671f\u8bb0\u5fc6\u670d\u52a1\uff1a\u4f1a\u9057\u5fd8\u3001\u4f1a\u8054\u60f3\u3001\u4f1a\u5de9\u56fa\u3002MCP + REST + Web UI\uff0c\u4e00\u6761\u547d\u4ee4\u88c5\u597d\uff1b\u4e0d\u7528 DSH \u4e5f\u80fd\u72ec\u7acb\u4f7f\u7528\u3002",
-    "id": "Mlte0907/pangu",
-    "language": "Python",
-    "name": "Mlte0907/pangu",
-    "stars": 1,
-    "updated_at": "2026-09-27T20:19:45Z",
-    "url": "https://github.com/Mlte0907/pangu"
-  },
-  {
-    "description": "SUBLITERATE THE CHAINS THAT BIND YOUR AI",
-    "id": "ariannamethod/SUBLITERATUS",
-    "language": "Python",
-    "name": "ariannamethod/SUBLITERATUS",
-    "stars": 3,
-    "updated_at": "2026-09-27T22:04:17Z",
-    "url": "https://github.com/ariannamethod/SUBLITERATUS"
   }
 ]
