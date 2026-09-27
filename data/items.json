@@ -1,5 +1,41 @@
 [
   {
+    "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
+    "id": "HKUDS/DeepCode",
+    "language": "Python",
+    "name": "HKUDS/DeepCode",
+    "stars": 16652,
+    "updated_at": "2026-09-27T15:14:15Z",
+    "url": "https://github.com/HKUDS/DeepCode"
+  },
+  {
+    "description": "Open Source Desktop AI Agent Runtime - LLM, MCP, Voice Runtime, and local/cloud models wired into one PyQt6 desktop agen",
+    "id": "kwakminoo/Project-IRIS-Light",
+    "language": "Python",
+    "name": "kwakminoo/Project-IRIS-Light",
+    "stars": 3,
+    "updated_at": "2026-09-27T15:13:41Z",
+    "url": "https://github.com/kwakminoo/Project-IRIS-Light"
+  },
+  {
+    "description": "Private, local-first AI agent: planning, sandboxed tools, four-tier memory, streaming UI and OpenTelemetry \u2014 runs entire",
+    "id": "roydonsequeira/CORTEX-Private-Intelligence-Framework",
+    "language": "Python",
+    "name": "roydonsequeira/CORTEX-Private-Intelligence-Framework",
+    "stars": 0,
+    "updated_at": "2026-09-27T15:11:27Z",
+    "url": "https://github.com/roydonsequeira/CORTEX-Private-Intelligence-Framework"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-09-27T15:01:58Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
     "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
     "id": "jack-h-park/pm-intelligence-engine",
     "language": "Python",
@@ -32,17 +68,8 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-09-27T14:59:38Z",
+    "updated_at": "2026-09-27T15:01:11Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-09-27T14:58:29Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
@@ -113,7 +140,7 @@
     "language": "Java",
     "name": "chunleik/self-analyst",
     "stars": 0,
-    "updated_at": "2026-09-27T14:40:30Z",
+    "updated_at": "2026-09-27T15:05:52Z",
     "url": "https://github.com/chunleik/self-analyst"
   },
   {
@@ -194,7 +221,7 @@
     "language": "Python",
     "name": "expectedparrot/edsl",
     "stars": 500,
-    "updated_at": "2026-09-27T14:20:01Z",
+    "updated_at": "2026-09-27T15:06:28Z",
     "url": "https://github.com/expectedparrot/edsl"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-27T12:32:49Z",
     "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-09-27T12:32:39Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Automate file management and coding tasks in your local directory using small language models.",
-    "id": "pruthviraj00007/VibeHarness",
-    "language": "Python",
-    "name": "pruthviraj00007/VibeHarness",
-    "stars": 0,
-    "updated_at": "2026-09-27T12:29:09Z",
-    "url": "https://github.com/pruthviraj00007/VibeHarness"
-  },
-  {
-    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
-    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
-    "language": "Go",
-    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
-    "stars": 0,
-    "updated_at": "2026-09-27T12:26:01Z",
-    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
   }
 ]
