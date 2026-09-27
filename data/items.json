@@ -1,11 +1,65 @@
 [
   {
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 108,
+    "updated_at": "2026-09-27T14:44:27Z",
+    "url": "https://github.com/AVADSA25/codec"
+  },
+  {
+    "description": "SUBLITERATE THE CHAINS THAT BIND YOUR AI",
+    "id": "ariannamethod/SUBLITERATUS",
+    "language": "Python",
+    "name": "ariannamethod/SUBLITERATUS",
+    "stars": 3,
+    "updated_at": "2026-09-27T14:42:55Z",
+    "url": "https://github.com/ariannamethod/SUBLITERATUS"
+  },
+  {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-27T14:42:45Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "A support-triage agent that only claims what its tools actually returned -- Google ADK for orchestration, Claude on Bedr",
+    "id": "lulperle/agentic-support",
+    "language": "Python",
+    "name": "lulperle/agentic-support",
+    "stars": 0,
+    "updated_at": "2026-09-27T14:41:08Z",
+    "url": "https://github.com/lulperle/agentic-support"
+  },
+  {
+    "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
+    "id": "chunleik/self-analyst",
+    "language": "Java",
+    "name": "chunleik/self-analyst",
+    "stars": 0,
+    "updated_at": "2026-09-27T14:40:30Z",
+    "url": "https://github.com/chunleik/self-analyst"
+  },
+  {
+    "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
+    "id": "jack-h-park/pm-intelligence-engine",
+    "language": "Python",
+    "name": "jack-h-park/pm-intelligence-engine",
+    "stars": 0,
+    "updated_at": "2026-09-27T14:35:58Z",
+    "url": "https://github.com/jack-h-park/pm-intelligence-engine"
+  },
+  {
     "description": "Axiomize 2.0 - scientific modeling engine plus quantum-inspired multi-branch reasoning",
     "id": "Furox-Art/axiomize-quantum-skills-2.0",
     "language": "Python",
     "name": "Furox-Art/axiomize-quantum-skills-2.0",
     "stars": 0,
-    "updated_at": "2026-09-27T14:30:15Z",
+    "updated_at": "2026-09-27T14:34:21Z",
     "url": "https://github.com/Furox-Art/axiomize-quantum-skills-2.0"
   },
   {
@@ -14,7 +68,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-27T14:29:11Z",
+    "updated_at": "2026-09-27T14:38:13Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -61,15 +115,6 @@
     "stars": 71,
     "updated_at": "2026-09-27T14:23:18Z",
     "url": "https://github.com/Yuxuan2003/Awesome-GUI-Agent-Security"
-  },
-  {
-    "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
-    "id": "jack-h-park/pm-intelligence-engine",
-    "language": "Python",
-    "name": "jack-h-park/pm-intelligence-engine",
-    "stars": 0,
-    "updated_at": "2026-09-27T14:21:55Z",
-    "url": "https://github.com/jack-h-park/pm-intelligence-engine"
   },
   {
     "description": "AI coding agent and LLM harness built in Rust, optimized for DeepSeek, with MCP, Skills, multi-provider AI, remote agent",
@@ -135,21 +180,12 @@
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
-    "description": "SUBLITERATE THE CHAINS THAT BIND YOUR AI",
-    "id": "ariannamethod/SUBLITERATUS",
-    "language": "Python",
-    "name": "ariannamethod/SUBLITERATUS",
-    "stars": 3,
-    "updated_at": "2026-09-27T14:29:00Z",
-    "url": "https://github.com/ariannamethod/SUBLITERATUS"
-  },
-  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-09-27T14:09:06Z",
+    "updated_at": "2026-09-27T14:40:16Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -214,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T13:22:25Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-27T13:16:06Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-27T12:18:50Z",
     "url": "https://github.com/Samuelcluttered613/paper2code"
-  },
-  {
-    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
-    "id": "Bastioned-successor320/learn-nanobot",
-    "language": "Python",
-    "name": "Bastioned-successor320/learn-nanobot",
-    "stars": 10,
-    "updated_at": "2026-09-27T12:18:34Z",
-    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
-  },
-  {
-    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
-    "id": "tessellated-statisticalcommission243/deep-research-skill",
-    "language": "\u2014",
-    "name": "tessellated-statisticalcommission243/deep-research-skill",
-    "stars": 3,
-    "updated_at": "2026-09-27T12:18:34Z",
-    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "AI pet health assistant with a constrained agent framework \u2014 6-layer validation pipeline that makes cheap LLMs reliable.",
-    "id": "RobertWang4/CozyPup",
-    "language": "Python",
-    "name": "RobertWang4/CozyPup",
-    "stars": 0,
-    "updated_at": "2026-09-27T12:17:27Z",
-    "url": "https://github.com/RobertWang4/CozyPup"
   }
 ]
