@@ -1,11 +1,74 @@
 [
   {
+    "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 274,
+    "updated_at": "2026-09-27T14:11:49Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "GUI / Computer-Use / Browser Agent \u5b89\u5168\u8bba\u6587\u6e05\u5355 \u2014\u2014 \u6309\u653b\u9632\u8f74\u7ec4\u7ec7\uff0c\u6bcf\u7bc7\u9644\u4e2d\u6587\u7b80\u4ecb",
+    "id": "Yuxuan2003/Awesome-GUI-Agent-Security",
+    "language": "Python",
+    "name": "Yuxuan2003/Awesome-GUI-Agent-Security",
+    "stars": 71,
+    "updated_at": "2026-09-27T14:11:25Z",
+    "url": "https://github.com/Yuxuan2003/Awesome-GUI-Agent-Security"
+  },
+  {
+    "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
+    "id": "honestDS/MonoLight",
+    "language": "Python",
+    "name": "honestDS/MonoLight",
+    "stars": 7,
+    "updated_at": "2026-09-27T14:09:37Z",
+    "url": "https://github.com/honestDS/MonoLight"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 10,
+    "updated_at": "2026-09-27T14:06:23Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
+    "id": "diaban/jobsmith",
+    "language": "Python",
+    "name": "diaban/jobsmith",
+    "stars": 0,
+    "updated_at": "2026-09-27T14:02:26Z",
+    "url": "https://github.com/diaban/jobsmith"
+  },
+  {
+    "description": "IAM for your AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review risky a",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 216,
+    "updated_at": "2026-09-27T14:02:39Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "SUBLITERATE THE CHAINS THAT BIND YOUR AI",
+    "id": "ariannamethod/SUBLITERATUS",
+    "language": "Python",
+    "name": "ariannamethod/SUBLITERATUS",
+    "stars": 3,
+    "updated_at": "2026-09-27T14:00:00Z",
+    "url": "https://github.com/ariannamethod/SUBLITERATUS"
+  },
+  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-09-27T13:59:13Z",
+    "updated_at": "2026-09-27T14:09:06Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -27,24 +90,6 @@
     "url": "https://github.com/kyleslight/shun"
   },
   {
-    "description": "IAM for your AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review risky a",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 216,
-    "updated_at": "2026-09-27T13:52:21Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
-    "description": "SUBLITERATE THE CHAINS THAT BIND YOUR AI",
-    "id": "ariannamethod/SUBLITERATUS",
-    "language": "Python",
-    "name": "ariannamethod/SUBLITERATUS",
-    "stars": 1,
-    "updated_at": "2026-09-27T14:00:00Z",
-    "url": "https://github.com/ariannamethod/SUBLITERATUS"
-  },
-  {
     "description": "Axiomize 2.0 - scientific modeling engine plus quantum-inspired multi-branch reasoning",
     "id": "Furox-Art/axiomize-quantum-skills-2.0",
     "language": "Python",
@@ -58,7 +103,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 6056,
+    "stars": 6057,
     "updated_at": "2026-09-27T13:48:32Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -178,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T12:53:45Z",
     "url": "https://github.com/TomKoren1/dave.io_home-assignment"
-  },
-  {
-    "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 274,
-    "updated_at": "2026-09-27T13:19:12Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-27T12:11:57Z",
     "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-09-27T12:09:14Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 3,
-    "updated_at": "2026-09-27T12:09:12Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-09-27T12:08:05Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
-    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "language": "HTML",
-    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "stars": 0,
-    "updated_at": "2026-09-27T12:04:22Z",
-    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
   }
 ]
