@@ -1,12 +1,12 @@
 [
   {
-    "description": "An autonomous on-call agent that investigates and remediates incidents on the Incident Platform through its MCP tool sur",
-    "id": "kudratsingh/incident-commander",
+    "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
+    "id": "jack-h-park/pm-intelligence-engine",
     "language": "Python",
-    "name": "kudratsingh/incident-commander",
+    "name": "jack-h-park/pm-intelligence-engine",
     "stars": 0,
-    "updated_at": "2026-09-27T08:40:55Z",
-    "url": "https://github.com/kudratsingh/incident-commander"
+    "updated_at": "2026-09-27T08:59:53Z",
+    "url": "https://github.com/jack-h-park/pm-intelligence-engine"
   },
   {
     "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
@@ -14,17 +14,8 @@
     "language": "Python",
     "name": "OtakuNathan/Pal",
     "stars": 2,
-    "updated_at": "2026-09-27T08:40:20Z",
+    "updated_at": "2026-09-27T08:58:49Z",
     "url": "https://github.com/OtakuNathan/Pal"
-  },
-  {
-    "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
-    "id": "jack-h-park/pm-intelligence-engine",
-    "language": "Python",
-    "name": "jack-h-park/pm-intelligence-engine",
-    "stars": 0,
-    "updated_at": "2026-09-27T08:39:17Z",
-    "url": "https://github.com/jack-h-park/pm-intelligence-engine"
   },
   {
     "description": "Agent-native product search: multi-source scrape \u2192 deterministic constraints \u2192 LLM match \u2192 price watches + order trackin",
@@ -32,8 +23,44 @@
     "language": "Go",
     "name": "anatolykoptev/quarryn",
     "stars": 0,
-    "updated_at": "2026-09-27T08:39:25Z",
+    "updated_at": "2026-09-27T08:57:00Z",
     "url": "https://github.com/anatolykoptev/quarryn"
+  },
+  {
+    "description": "\u5929\u7ebf\u8bba\u6587 \u2192 \u5b66\u672f PPT \u7684\u4e00\u4f53\u5316 Agent Skill\uff1a\u6620\u5c04 \u00d7 \u6545\u4e8b\u9aa8\u67b6 \u00d7 \u89c6\u89c9\u98ce\u683c \u4e09\u9636\u6bb5\u6d41\u6c34\u7ebf\uff08PDF\u2192PPT \u69fd\u4f4d\u6620\u5c04\u3001\u591a\u5b50\u56fe\u5207\u5272\u3001\u7b54\u8fa9/\u4f1a\u8bae/\u7ec4\u4f1a\u6392\u7248\u7f8e\u5316\u3001pptx \u5c31\u5730\u4fee\u8ba2\uff09",
+    "id": "JakiKe/antenna-ppt-agent",
+    "language": "\u2014",
+    "name": "JakiKe/antenna-ppt-agent",
+    "stars": 0,
+    "updated_at": "2026-09-27T08:56:11Z",
+    "url": "https://github.com/JakiKe/antenna-ppt-agent"
+  },
+  {
+    "description": "A local, citation-backed knowledge assistant for searching and tracking information across WeChat conversations.",
+    "id": "Fongkai777/wechat-agent",
+    "language": "Python",
+    "name": "Fongkai777/wechat-agent",
+    "stars": 0,
+    "updated_at": "2026-09-27T08:50:57Z",
+    "url": "https://github.com/Fongkai777/wechat-agent"
+  },
+  {
+    "description": "An autonomous on-call agent that investigates and remediates incidents on the Incident Platform through its MCP tool sur",
+    "id": "kudratsingh/incident-commander",
+    "language": "Python",
+    "name": "kudratsingh/incident-commander",
+    "stars": 0,
+    "updated_at": "2026-09-27T08:55:50Z",
+    "url": "https://github.com/kudratsingh/incident-commander"
+  },
+  {
+    "description": "Axiomize 2.0 - scientific modeling engine plus quantum-inspired multi-branch reasoning",
+    "id": "Furox-Art/axiomize-quantum-skills-2.0",
+    "language": "Python",
+    "name": "Furox-Art/axiomize-quantum-skills-2.0",
+    "stars": 0,
+    "updated_at": "2026-09-27T08:46:28Z",
+    "url": "https://github.com/Furox-Art/axiomize-quantum-skills-2.0"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-27T07:13:41Z",
     "url": "https://github.com/xiongweilin/agent-skills"
-  },
-  {
-    "description": "An LLM agent that plays Minecraft \u2014 symbolic world perception, a strictly validated tool surface, and a reactive safety ",
-    "id": "BugraAkdemir/mindshaft-llm",
-    "language": "TypeScript",
-    "name": "BugraAkdemir/mindshaft-llm",
-    "stars": 1,
-    "updated_at": "2026-09-27T07:13:01Z",
-    "url": "https://github.com/BugraAkdemir/mindshaft-llm"
-  },
-  {
-    "description": "A game-agnostic LLM agent runtime for autonomous NPCs, with Stardew Valley as the first real-world adapter.",
-    "id": "zlci7/world-is-agent",
-    "language": "Go",
-    "name": "zlci7/world-is-agent",
-    "stars": 0,
-    "updated_at": "2026-09-27T07:12:00Z",
-    "url": "https://github.com/zlci7/world-is-agent"
-  },
-  {
-    "description": "Harness designed for plug-and-play use with local models",
-    "id": "noahhps/Bom",
-    "language": "Python",
-    "name": "noahhps/Bom",
-    "stars": 0,
-    "updated_at": "2026-09-27T07:08:41Z",
-    "url": "https://github.com/noahhps/Bom"
   }
 ]
