@@ -1,5 +1,41 @@
 [
   {
+    "description": "LangGraph agent that answers business questions over 3.2M Amazon reviews: planning, read-only SQL, sandboxed Python, cit",
+    "id": "ahmedennaifer/verbatim",
+    "language": "TypeScript",
+    "name": "ahmedennaifer/verbatim",
+    "stars": 0,
+    "updated_at": "2026-09-27T20:11:35Z",
+    "url": "https://github.com/ahmedennaifer/verbatim"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-27T20:09:55Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Local pre-write containment for AI coding agents: deterministic policy, advisory Mamba scoring, and optional local Laya ",
+    "id": "jakubkrzysztofsikora/reasoning-core",
+    "language": "Python",
+    "name": "jakubkrzysztofsikora/reasoning-core",
+    "stars": 6,
+    "updated_at": "2026-09-27T20:08:54Z",
+    "url": "https://github.com/jakubkrzysztofsikora/reasoning-core"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-09-27T20:06:53Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
     "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
     "id": "plurnk/plurnk-service",
     "language": "TypeScript",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "hrygo/WorldofMysteries",
     "stars": 0,
-    "updated_at": "2026-09-27T19:56:13Z",
+    "updated_at": "2026-09-27T20:07:12Z",
     "url": "https://github.com/hrygo/WorldofMysteries"
   },
   {
@@ -32,7 +68,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-27T19:52:05Z",
+    "updated_at": "2026-09-27T20:13:07Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -50,7 +86,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-27T19:59:55Z",
+    "updated_at": "2026-09-27T20:02:21Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -158,7 +194,7 @@
     "language": "TypeScript",
     "name": "NatanTechofNY/fieldnote-assistant",
     "stars": 1,
-    "updated_at": "2026-09-27T19:59:29Z",
+    "updated_at": "2026-09-27T20:14:39Z",
     "url": "https://github.com/NatanTechofNY/fieldnote-assistant"
   },
   {
@@ -365,7 +401,7 @@
     "language": "Python",
     "name": "ariannamethod/SUBLITERATUS",
     "stars": 3,
-    "updated_at": "2026-09-27T19:14:37Z",
+    "updated_at": "2026-09-27T20:13:25Z",
     "url": "https://github.com/ariannamethod/SUBLITERATUS"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-27T18:53:37Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Ask questions about one folder on your disk. Local semantic index, offline embeddings, answers only from your files.",
-    "id": "Gazizova-Olga/Folder_Assistant-local_semantic_search",
-    "language": "C#",
-    "name": "Gazizova-Olga/Folder_Assistant-local_semantic_search",
-    "stars": 0,
-    "updated_at": "2026-09-27T18:51:23Z",
-    "url": "https://github.com/Gazizova-Olga/Folder_Assistant-local_semantic_search"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 10,
-    "updated_at": "2026-09-27T18:48:05Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
-    "id": "wufufu770/d2d",
-    "language": "JavaScript",
-    "name": "wufufu770/d2d",
-    "stars": 3,
-    "updated_at": "2026-09-27T18:40:45Z",
-    "url": "https://github.com/wufufu770/d2d"
-  },
-  {
-    "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
-    "id": "jack-h-park/pm-intelligence-engine",
-    "language": "Python",
-    "name": "jack-h-park/pm-intelligence-engine",
-    "stars": 0,
-    "updated_at": "2026-09-27T18:37:40Z",
-    "url": "https://github.com/jack-h-park/pm-intelligence-engine"
   }
 ]
