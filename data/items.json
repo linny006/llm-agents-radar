@@ -1,5 +1,50 @@
 [
   {
+    "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
+    "id": "khudayarovich/onflip-agent",
+    "language": "TypeScript",
+    "name": "khudayarovich/onflip-agent",
+    "stars": 4,
+    "updated_at": "2026-09-27T15:58:49Z",
+    "url": "https://github.com/khudayarovich/onflip-agent"
+  },
+  {
+    "description": "Private, local-first AI agent: planning, sandboxed tools, four-tier memory, streaming UI and OpenTelemetry \u2014 runs entire",
+    "id": "roydonsequeira/CORTEX-Private-Intelligence-Framework",
+    "language": "Python",
+    "name": "roydonsequeira/CORTEX-Private-Intelligence-Framework",
+    "stars": 0,
+    "updated_at": "2026-09-27T15:58:08Z",
+    "url": "https://github.com/roydonsequeira/CORTEX-Private-Intelligence-Framework"
+  },
+  {
+    "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
+    "id": "chunleik/self-analyst",
+    "language": "Java",
+    "name": "chunleik/self-analyst",
+    "stars": 0,
+    "updated_at": "2026-09-27T15:58:36Z",
+    "url": "https://github.com/chunleik/self-analyst"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 728,
+    "updated_at": "2026-09-27T15:52:53Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-09-27T15:51:24Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "Provider-agnostic VLM query flow: one Agent that dispatches to OpenAI / Anthropic / Gemini / vLLM / Claude Code CLI / lo",
     "id": "Wenri/TaskSolver",
     "language": "Python",
@@ -16,15 +61,6 @@
     "stars": 7,
     "updated_at": "2026-09-27T15:43:45Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
-    "id": "khudayarovich/onflip-agent",
-    "language": "TypeScript",
-    "name": "khudayarovich/onflip-agent",
-    "stars": 4,
-    "updated_at": "2026-09-27T15:43:19Z",
-    "url": "https://github.com/khudayarovich/onflip-agent"
   },
   {
     "description": "Field notes from inside one autonomous agent trying to become something that doesn't exist yet \u2014 including the failures ",
@@ -50,17 +86,8 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-09-27T15:30:19Z",
+    "updated_at": "2026-09-27T15:48:13Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Private, local-first AI agent: planning, sandboxed tools, four-tier memory, streaming UI and OpenTelemetry \u2014 runs entire",
-    "id": "roydonsequeira/CORTEX-Private-Intelligence-Framework",
-    "language": "Python",
-    "name": "roydonsequeira/CORTEX-Private-Intelligence-Framework",
-    "stars": 0,
-    "updated_at": "2026-09-27T15:29:13Z",
-    "url": "https://github.com/roydonsequeira/CORTEX-Private-Intelligence-Framework"
   },
   {
     "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
@@ -171,15 +198,6 @@
     "url": "https://github.com/plurnk/plurnk-service"
   },
   {
-    "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
-    "id": "chunleik/self-analyst",
-    "language": "Java",
-    "name": "chunleik/self-analyst",
-    "stars": 0,
-    "updated_at": "2026-09-27T15:05:52Z",
-    "url": "https://github.com/chunleik/self-analyst"
-  },
-  {
     "description": "Axiomize 2.0 - scientific modeling engine plus quantum-inspired multi-branch reasoning",
     "id": "Furox-Art/axiomize-quantum-skills-2.0",
     "language": "Python",
@@ -275,7 +293,7 @@
     "language": "Python",
     "name": "diaban/jobsmith",
     "stars": 0,
-    "updated_at": "2026-09-27T14:02:26Z",
+    "updated_at": "2026-09-27T15:59:34Z",
     "url": "https://github.com/diaban/jobsmith"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-27T12:39:47Z",
     "url": "https://github.com/Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3"
-  },
-  {
-    "description": "Control your Windows laptop remotely via Discord with AI-powered voice and text commands in English or Urdu.",
-    "id": "Ottoman-reticule726/zara-ai-laptop-agent",
-    "language": "Python",
-    "name": "Ottoman-reticule726/zara-ai-laptop-agent",
-    "stars": 0,
-    "updated_at": "2026-09-27T12:36:57Z",
-    "url": "https://github.com/Ottoman-reticule726/zara-ai-laptop-agent"
-  },
-  {
-    "description": "Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons.",
-    "id": "alejandrogg15/Minimax-H3-Turbo",
-    "language": "Python",
-    "name": "alejandrogg15/Minimax-H3-Turbo",
-    "stars": 0,
-    "updated_at": "2026-09-27T12:35:24Z",
-    "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
   }
 ]
