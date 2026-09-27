@@ -1,5 +1,41 @@
 [
   {
+    "description": "AI pet health assistant with a constrained agent framework \u2014 6-layer validation pipeline that makes cheap LLMs reliable.",
+    "id": "RobertWang4/CozyPup",
+    "language": "Python",
+    "name": "RobertWang4/CozyPup",
+    "stars": 1,
+    "updated_at": "2026-09-27T00:58:35Z",
+    "url": "https://github.com/RobertWang4/CozyPup"
+  },
+  {
+    "description": "\u4f01\u4e1a\u7ea7 RAG \u77e5\u8bc6\u5e93\u95ee\u7b54\u7cfb\u7edf + AIOps \u8fd0\u7ef4\u8bca\u65ad Agent(Plan-Execute-Replan / LangGraph / MCP)",
+    "id": "m-oonn/rag-aiops-platform",
+    "language": "Python",
+    "name": "m-oonn/rag-aiops-platform",
+    "stars": 2,
+    "updated_at": "2026-09-27T00:57:44Z",
+    "url": "https://github.com/m-oonn/rag-aiops-platform"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4430,
+    "updated_at": "2026-09-27T00:57:44Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-27T00:45:36Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -34,15 +70,6 @@
     "stars": 3,
     "updated_at": "2026-09-27T00:37:50Z",
     "url": "https://github.com/Furox-Art/axiomize"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4430,
-    "updated_at": "2026-09-27T00:39:41Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
@@ -149,7 +176,7 @@
     "language": "Dart",
     "name": "justacalico/devinorium",
     "stars": 1,
-    "updated_at": "2026-09-27T00:23:33Z",
+    "updated_at": "2026-09-27T00:52:47Z",
     "url": "https://github.com/justacalico/devinorium"
   },
   {
@@ -160,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-09-27T00:23:09Z",
     "url": "https://github.com/HELLOCODINGTR/AgentForge"
-  },
-  {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-27T00:22:35Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
@@ -239,7 +257,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-09-27T00:26:03Z",
+    "updated_at": "2026-09-27T00:55:05Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-26T22:58:28Z",
     "url": "https://github.com/CreamyLong/quill"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-09-26T23:17:55Z",
-    "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 3,
-    "updated_at": "2026-09-26T22:36:12Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   }
 ]
