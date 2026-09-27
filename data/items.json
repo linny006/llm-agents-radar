@@ -1,11 +1,56 @@
 [
   {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 74,
+    "updated_at": "2026-09-27T13:25:26Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-09-27T13:25:05Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
+    "description": "Field notes from inside one autonomous agent trying to become something that doesn't exist yet \u2014 including the failures ",
+    "id": "massimiliano1991/the-attempt",
+    "language": "HTML",
+    "name": "massimiliano1991/the-attempt",
+    "stars": 1,
+    "updated_at": "2026-09-27T13:23:50Z",
+    "url": "https://github.com/massimiliano1991/the-attempt"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-09-27T13:22:25Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-09-27T13:29:03Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
     "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
     "id": "plurnk/plurnk-service",
     "language": "TypeScript",
     "name": "plurnk/plurnk-service",
     "stars": 0,
-    "updated_at": "2026-09-27T13:11:14Z",
+    "updated_at": "2026-09-27T13:16:06Z",
     "url": "https://github.com/plurnk/plurnk-service"
   },
   {
@@ -25,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-09-27T13:06:16Z",
     "url": "https://github.com/codex-mohan/spectra"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-09-27T13:14:29Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
@@ -86,7 +122,7 @@
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 274,
-    "updated_at": "2026-09-27T12:49:46Z",
+    "updated_at": "2026-09-27T13:19:12Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-27T11:54:08Z",
     "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
-    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
-    "id": "xiongweilin/agent-skills",
-    "language": "PowerShell",
-    "name": "xiongweilin/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-09-27T11:52:16Z",
-    "url": "https://github.com/xiongweilin/agent-skills"
-  },
-  {
-    "description": "\u5f00\u53d1\u4f5c\u54c1\u96c6\uff1a\u8f6f\u4ef6\u5f00\u53d1\uff08FastAPI \u4efb\u52a1\u7cfb\u7edf\uff09/ AI \u667a\u80fd\u4f53\uff08ReAct \u6846\u67b6\u4ece\u96f6\u5b9e\u73b0\uff09/ \u7b97\u6cd5\u516d\u5927\u4e13\u9898\uff0c39 \u4e2a\u79bb\u7ebf\u6d4b\u8bd5",
-    "id": "heee-a/dev-portfolio",
-    "language": "Python",
-    "name": "heee-a/dev-portfolio",
-    "stars": 0,
-    "updated_at": "2026-09-27T11:52:14Z",
-    "url": "https://github.com/heee-a/dev-portfolio"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-09-27T11:48:15Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
-    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "language": "JavaScript",
-    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "stars": 1,
-    "updated_at": "2026-09-27T11:40:58Z",
-    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
   }
 ]
