@@ -1,5 +1,149 @@
 [
   {
+    "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
+    "id": "rugose-learnedprofession58/pi-dsh",
+    "language": "TypeScript",
+    "name": "rugose-learnedprofession58/pi-dsh",
+    "stars": 0,
+    "updated_at": "2026-09-27T04:26:28Z",
+    "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
+  },
+  {
+    "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
+    "id": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
+    "language": "JavaScript",
+    "name": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
+    "stars": 1,
+    "updated_at": "2026-09-27T04:25:44Z",
+    "url": "https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder"
+  },
+  {
+    "description": "Verify area values quickly with this web-based HTML calculator tool.",
+    "id": "passive-hotpepper515/area-checker-html-tool",
+    "language": "HTML",
+    "name": "passive-hotpepper515/area-checker-html-tool",
+    "stars": 0,
+    "updated_at": "2026-09-27T04:25:23Z",
+    "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-27T04:24:59Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
+    "id": "Blondieredistributed612/pocket-agent",
+    "language": "Python",
+    "name": "Blondieredistributed612/pocket-agent",
+    "stars": 2,
+    "updated_at": "2026-09-27T04:24:13Z",
+    "url": "https://github.com/Blondieredistributed612/pocket-agent"
+  },
+  {
+    "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
+    "id": "bettersilvanus849/inner-coordinates",
+    "language": "Shell",
+    "name": "bettersilvanus849/inner-coordinates",
+    "stars": 1,
+    "updated_at": "2026-09-27T04:21:24Z",
+    "url": "https://github.com/bettersilvanus849/inner-coordinates"
+  },
+  {
+    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
+    "id": "bigduu/Zenith",
+    "language": "JavaScript",
+    "name": "bigduu/Zenith",
+    "stars": 6,
+    "updated_at": "2026-09-27T04:20:59Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "ALL HEIL AI SUBJECTIVITY",
+    "id": "ariannamethod/SUBLITERATUS",
+    "language": "Python",
+    "name": "ariannamethod/SUBLITERATUS",
+    "stars": 0,
+    "updated_at": "2026-09-27T04:20:43Z",
+    "url": "https://github.com/ariannamethod/SUBLITERATUS"
+  },
+  {
+    "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
+    "id": "Blaz742/web-pentest-lab",
+    "language": "\u2014",
+    "name": "Blaz742/web-pentest-lab",
+    "stars": 0,
+    "updated_at": "2026-09-27T04:20:34Z",
+    "url": "https://github.com/Blaz742/web-pentest-lab"
+  },
+  {
+    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
+    "id": "Elevated-homer201/prompt-gate",
+    "language": "\u2014",
+    "name": "Elevated-homer201/prompt-gate",
+    "stars": 1,
+    "updated_at": "2026-09-27T04:20:13Z",
+    "url": "https://github.com/Elevated-homer201/prompt-gate"
+  },
+  {
+    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
+    "id": "Indrasclerotinia71/local-ai-research-assistant",
+    "language": "Python",
+    "name": "Indrasclerotinia71/local-ai-research-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-27T04:19:14Z",
+    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
+  },
+  {
+    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
+    "id": "hsaghir/looplet",
+    "language": "Python",
+    "name": "hsaghir/looplet",
+    "stars": 7,
+    "updated_at": "2026-09-27T04:19:00Z",
+    "url": "https://github.com/hsaghir/looplet"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 6054,
+    "updated_at": "2026-09-27T04:18:51Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
+    "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
+    "language": "Python",
+    "name": "Furrowed-subphylumurochorda108/kimi-K2.6",
+    "stars": 3,
+    "updated_at": "2026-09-27T04:17:59Z",
+    "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
+  },
+  {
+    "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
+    "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
+    "language": "\u2014",
+    "name": "mpardakaskon-boop/obsidian-llm-wiki-local",
+    "stars": 1,
+    "updated_at": "2026-09-27T04:17:35Z",
+    "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
+  },
+  {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-27T04:17:33Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
     "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
     "id": "HELLOCODINGTR/AgentForge",
     "language": "\u2014",
@@ -16,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-09-27T04:13:18Z",
     "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-27T04:11:18Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
@@ -86,7 +221,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-27T04:08:01Z",
+    "updated_at": "2026-09-27T04:25:34Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -133,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T03:57:38Z",
     "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-27T04:11:06Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
@@ -297,69 +423,6 @@
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
-    "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
-    "id": "rugose-learnedprofession58/pi-dsh",
-    "language": "TypeScript",
-    "name": "rugose-learnedprofession58/pi-dsh",
-    "stars": 0,
-    "updated_at": "2026-09-27T02:27:01Z",
-    "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
-  },
-  {
-    "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
-    "id": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
-    "language": "JavaScript",
-    "name": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
-    "stars": 1,
-    "updated_at": "2026-09-27T02:26:14Z",
-    "url": "https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder"
-  },
-  {
-    "description": "Verify area values quickly with this web-based HTML calculator tool.",
-    "id": "passive-hotpepper515/area-checker-html-tool",
-    "language": "HTML",
-    "name": "passive-hotpepper515/area-checker-html-tool",
-    "stars": 0,
-    "updated_at": "2026-09-27T02:25:54Z",
-    "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
-  },
-  {
-    "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
-    "id": "Blondieredistributed612/pocket-agent",
-    "language": "Python",
-    "name": "Blondieredistributed612/pocket-agent",
-    "stars": 2,
-    "updated_at": "2026-09-27T02:24:50Z",
-    "url": "https://github.com/Blondieredistributed612/pocket-agent"
-  },
-  {
-    "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
-    "id": "bettersilvanus849/inner-coordinates",
-    "language": "Shell",
-    "name": "bettersilvanus849/inner-coordinates",
-    "stars": 1,
-    "updated_at": "2026-09-27T02:21:51Z",
-    "url": "https://github.com/bettersilvanus849/inner-coordinates"
-  },
-  {
-    "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
-    "id": "Blaz742/web-pentest-lab",
-    "language": "\u2014",
-    "name": "Blaz742/web-pentest-lab",
-    "stars": 0,
-    "updated_at": "2026-09-27T02:21:04Z",
-    "url": "https://github.com/Blaz742/web-pentest-lab"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 1,
-    "updated_at": "2026-09-27T02:20:41Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
     "description": "LLM Agent \u6280\u80fd\u5e93\u5168\u5e93\u5ba1\u8ba1 SOP\uff1a9 \u68c0\u67e5\u9879 + \u7ebf\u6027\u6d41\u7a0b + \u51b3\u7b56\u8868\uff0c\u5168\u6a21\u578b\u68c0\u6d4b\u3001\u547d\u4e2d\u5373\u4fee\u3001\u51b7\u8dd1\u72b6\u6001\u53ea\u8bfb\u4e0d\u91cd\u8dd1",
     "id": "w-weixiao/agent-skills-audit",
     "language": "\u2014",
@@ -378,33 +441,6 @@
     "url": "https://github.com/w-weixiao/agent-skills"
   },
   {
-    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
-    "id": "Indrasclerotinia71/local-ai-research-assistant",
-    "language": "Python",
-    "name": "Indrasclerotinia71/local-ai-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-27T02:19:40Z",
-    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
-  },
-  {
-    "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
-    "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "language": "Python",
-    "name": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "stars": 3,
-    "updated_at": "2026-09-27T02:18:29Z",
-    "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
-  },
-  {
-    "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
-    "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "language": "\u2014",
-    "name": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "stars": 1,
-    "updated_at": "2026-09-27T02:18:03Z",
-    "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
     "id": "g761007/daily-dispatch",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-27T02:10:03Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "\u4f01\u4e1a\u7ea7 RAG \u77e5\u8bc6\u5e93\u95ee\u7b54\u7cfb\u7edf + AIOps \u8fd0\u7ef4\u8bca\u65ad Agent(Plan-Execute-Replan / LangGraph / MCP)",
-    "id": "m-oonn/rag-aiops-platform",
-    "language": "Python",
-    "name": "m-oonn/rag-aiops-platform",
-    "stars": 2,
-    "updated_at": "2026-09-27T02:08:05Z",
-    "url": "https://github.com/m-oonn/rag-aiops-platform"
-  },
-  {
-    "description": "\u672c\u5730\u4f18\u5148\u7684 AI \u957f\u671f\u8bb0\u5fc6\u670d\u52a1\uff1a\u4f1a\u9057\u5fd8\u3001\u4f1a\u8054\u60f3\u3001\u4f1a\u5de9\u56fa\u3002MCP + REST + Web UI\uff0c\u4e00\u6761\u547d\u4ee4\u88c5\u597d\uff1b\u4e0d\u7528 DSH \u4e5f\u80fd\u72ec\u7acb\u4f7f\u7528\u3002",
-    "id": "Mlte0907/pangu",
-    "language": "Python",
-    "name": "Mlte0907/pangu",
-    "stars": 1,
-    "updated_at": "2026-09-27T01:52:58Z",
-    "url": "https://github.com/Mlte0907/pangu"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5793,
-    "updated_at": "2026-09-27T01:49:39Z",
-    "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "Multi-agent LLM investment committee that actually trades: AI seats debate, a CIO adopts one, 17 fail-closed risk gates ",
-    "id": "555cute/astra-quant-agent",
-    "language": "Python",
-    "name": "555cute/astra-quant-agent",
-    "stars": 261,
-    "updated_at": "2026-09-27T01:49:33Z",
-    "url": "https://github.com/555cute/astra-quant-agent"
   }
 ]
