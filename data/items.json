@@ -1,12 +1,111 @@
 [
   {
+    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
+    "id": "Saran1536/ComfyUI-LoaderUtils",
+    "language": "Python",
+    "name": "Saran1536/ComfyUI-LoaderUtils",
+    "stars": 0,
+    "updated_at": "2026-09-27T01:56:48Z",
+    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-09-27T01:55:44Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "AI pet health assistant with a constrained agent framework \u2014 6-layer validation pipeline that makes cheap LLMs reliable.",
+    "id": "RobertWang4/CozyPup",
+    "language": "Python",
+    "name": "RobertWang4/CozyPup",
+    "stars": 0,
+    "updated_at": "2026-09-27T01:55:33Z",
+    "url": "https://github.com/RobertWang4/CozyPup"
+  },
+  {
+    "description": "\u4f01\u4e1a\u7ea7 RAG \u77e5\u8bc6\u5e93\u95ee\u7b54\u7cfb\u7edf + AIOps \u8fd0\u7ef4\u8bca\u65ad Agent(Plan-Execute-Replan / LangGraph / MCP)",
+    "id": "m-oonn/rag-aiops-platform",
+    "language": "Python",
+    "name": "m-oonn/rag-aiops-platform",
+    "stars": 2,
+    "updated_at": "2026-09-27T01:54:44Z",
+    "url": "https://github.com/m-oonn/rag-aiops-platform"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u7684 AI \u957f\u671f\u8bb0\u5fc6\u670d\u52a1\uff1a\u4f1a\u9057\u5fd8\u3001\u4f1a\u8054\u60f3\u3001\u4f1a\u5de9\u56fa\u3002MCP + REST + Web UI\uff0c\u4e00\u6761\u547d\u4ee4\u88c5\u597d\uff1b\u4e0d\u7528 DSH \u4e5f\u80fd\u72ec\u7acb\u4f7f\u7528\u3002",
+    "id": "Mlte0907/pangu",
+    "language": "Python",
+    "name": "Mlte0907/pangu",
+    "stars": 1,
+    "updated_at": "2026-09-27T01:52:58Z",
+    "url": "https://github.com/Mlte0907/pangu"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-09-27T01:52:08Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
     "description": "LLM Agent \u6280\u80fd\u7f16\u5199\u89c4\u8303\uff1aTDD \u6d41\u7a0b + \u7b80\u7ec3\u8bed\u8a00 + \u9510\u5229\u5224\u65ad\u951a\u70b9 + \u51b7\u8dd1\u9a8c\u6536 + \u90e8\u7f72\u524d\u68c0\u67e5\uff0c\u628a\u6280\u80fd\u5e93\u7ba1\u56de'\u6a21\u578b\u53ea\u770b\u6587\u6863\u5c31\u80fd\u505a\u5bf9\u5224\u65ad'",
     "id": "w-weixiao/agent-skills",
     "language": "\u2014",
     "name": "w-weixiao/agent-skills",
     "stars": 1,
-    "updated_at": "2026-09-27T01:46:16Z",
+    "updated_at": "2026-09-27T01:50:50Z",
     "url": "https://github.com/w-weixiao/agent-skills"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-09-27T01:50:22Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5793,
+    "updated_at": "2026-09-27T01:49:39Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
+    "description": "Multi-agent LLM investment committee that actually trades: AI seats debate, a CIO adopts one, 17 fail-closed risk gates ",
+    "id": "555cute/astra-quant-agent",
+    "language": "Python",
+    "name": "555cute/astra-quant-agent",
+    "stars": 261,
+    "updated_at": "2026-09-27T01:49:33Z",
+    "url": "https://github.com/555cute/astra-quant-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 3,
+    "updated_at": "2026-09-27T01:48:03Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-27T01:55:09Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "",
@@ -41,26 +140,8 @@
     "language": "\u2014",
     "name": "1837620622/agent-bypass",
     "stars": 8,
-    "updated_at": "2026-09-27T01:41:08Z",
+    "updated_at": "2026-09-27T01:50:16Z",
     "url": "https://github.com/1837620622/agent-bypass"
-  },
-  {
-    "description": "\u672c\u5730\u4f18\u5148\u7684 AI \u957f\u671f\u8bb0\u5fc6\u670d\u52a1\uff1a\u4f1a\u9057\u5fd8\u3001\u4f1a\u8054\u60f3\u3001\u4f1a\u5de9\u56fa\u3002MCP + REST + Web UI\uff0c\u4e00\u6761\u547d\u4ee4\u88c5\u597d\uff1b\u4e0d\u7528 DSH \u4e5f\u80fd\u72ec\u7acb\u4f7f\u7528\u3002",
-    "id": "Mlte0907/pangu",
-    "language": "Python",
-    "name": "Mlte0907/pangu",
-    "stars": 1,
-    "updated_at": "2026-09-27T01:39:03Z",
-    "url": "https://github.com/Mlte0907/pangu"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-27T01:36:18Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "\u81ea\u6f14\u8fdb\u7684\u756a\u5267\u5a92\u4f53\u5e93\u6cbb\u7406 agent\uff1a\u67e5\u91cd/\u6539\u540d/TMDB\u5bf9\u9f50/\u6b7b\u79cd\u6e05\u7406\uff0c\u80fd\u53d1\u73b0\u89c4\u5219\u76f2\u533a\u5e76\u81ea\u52a8\u6f14\u8fdb\u51fa\u65b0\u89c4\u5219",
@@ -90,24 +171,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "Multi-agent LLM investment committee that actually trades: AI seats debate, a CIO adopts one, 17 fail-closed risk gates ",
-    "id": "555cute/astra-quant-agent",
-    "language": "Python",
-    "name": "555cute/astra-quant-agent",
-    "stars": 261,
-    "updated_at": "2026-09-27T01:23:06Z",
-    "url": "https://github.com/555cute/astra-quant-agent"
-  },
-  {
-    "description": "\u4f01\u4e1a\u7ea7 RAG \u77e5\u8bc6\u5e93\u95ee\u7b54\u7cfb\u7edf + AIOps \u8fd0\u7ef4\u8bca\u65ad Agent(Plan-Execute-Replan / LangGraph / MCP)",
-    "id": "m-oonn/rag-aiops-platform",
-    "language": "Python",
-    "name": "m-oonn/rag-aiops-platform",
-    "stars": 2,
-    "updated_at": "2026-09-27T01:19:45Z",
-    "url": "https://github.com/m-oonn/rag-aiops-platform"
-  },
-  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -131,17 +194,8 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4430,
-    "updated_at": "2026-09-27T01:22:06Z",
+    "updated_at": "2026-09-27T01:52:37Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "AI pet health assistant with a constrained agent framework \u2014 6-layer validation pipeline that makes cheap LLMs reliable.",
-    "id": "RobertWang4/CozyPup",
-    "language": "Python",
-    "name": "RobertWang4/CozyPup",
-    "stars": 0,
-    "updated_at": "2026-09-27T00:58:35Z",
-    "url": "https://github.com/RobertWang4/CozyPup"
   },
   {
     "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-27T00:10:50Z",
     "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
-  },
-  {
-    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
-    "id": "amineeng/scraping-browser",
-    "language": "\u2014",
-    "name": "amineeng/scraping-browser",
-    "stars": 1,
-    "updated_at": "2026-09-27T00:09:25Z",
-    "url": "https://github.com/amineeng/scraping-browser"
-  },
-  {
-    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
-    "id": "Saran1536/ComfyUI-LoaderUtils",
-    "language": "Python",
-    "name": "Saran1536/ComfyUI-LoaderUtils",
-    "stars": 0,
-    "updated_at": "2026-09-27T00:07:06Z",
-    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 0,
-    "updated_at": "2026-09-27T00:06:02Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
-    "id": "emqnuele/projectBEA",
-    "language": "Python",
-    "name": "emqnuele/projectBEA",
-    "stars": 20,
-    "updated_at": "2026-09-27T00:05:16Z",
-    "url": "https://github.com/emqnuele/projectBEA"
-  },
-  {
-    "description": "Harness designed for plug-and-play use with local models",
-    "id": "noahhps/Bom",
-    "language": "Python",
-    "name": "noahhps/Bom",
-    "stars": 0,
-    "updated_at": "2026-09-27T01:32:02Z",
-    "url": "https://github.com/noahhps/Bom"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-09-27T00:00:50Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
   }
 ]
