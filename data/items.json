@@ -1,12 +1,84 @@
 [
   {
+    "description": "\u81ea\u6f14\u8fdb\u7684\u756a\u5267\u5a92\u4f53\u5e93\u6cbb\u7406 agent\uff1a\u67e5\u91cd/\u6539\u540d/TMDB\u5bf9\u9f50/\u6b7b\u79cd\u6e05\u7406\uff0c\u80fd\u53d1\u73b0\u89c4\u5219\u76f2\u533a\u5e76\u81ea\u52a8\u6f14\u8fdb\u51fa\u65b0\u89c4\u5219",
+    "id": "wzh4464/self-evolving-media-agent",
+    "language": "Python",
+    "name": "wzh4464/self-evolving-media-agent",
+    "stars": 0,
+    "updated_at": "2026-09-27T01:30:06Z",
+    "url": "https://github.com/wzh4464/self-evolving-media-agent"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-27T01:28:47Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-09-27T01:26:19Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-27T01:26:01Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u7684 AI \u957f\u671f\u8bb0\u5fc6\u670d\u52a1\uff1a\u4f1a\u9057\u5fd8\u3001\u4f1a\u8054\u60f3\u3001\u4f1a\u5de9\u56fa\u3002MCP + REST + Web UI\uff0c\u4e00\u6761\u547d\u4ee4\u88c5\u597d\uff1b\u4e0d\u7528 DSH \u4e5f\u80fd\u72ec\u7acb\u4f7f\u7528\u3002",
+    "id": "Mlte0907/pangu",
+    "language": "Python",
+    "name": "Mlte0907/pangu",
+    "stars": 1,
+    "updated_at": "2026-09-27T01:25:48Z",
+    "url": "https://github.com/Mlte0907/pangu"
+  },
+  {
+    "description": "Multi-agent LLM investment committee that actually trades: AI seats debate, a CIO adopts one, 17 fail-closed risk gates ",
+    "id": "555cute/astra-quant-agent",
+    "language": "Python",
+    "name": "555cute/astra-quant-agent",
+    "stars": 261,
+    "updated_at": "2026-09-27T01:23:06Z",
+    "url": "https://github.com/555cute/astra-quant-agent"
+  },
+  {
     "description": "AgentBypass \u2014 Omni Operator LLM Agent Skill (Cknb): Turn any LLM into RE / Pwn / CTF / Pentest / Protocol / Crypto / Mob",
     "id": "1837620622/agent-bypass",
     "language": "\u2014",
     "name": "1837620622/agent-bypass",
     "stars": 8,
-    "updated_at": "2026-09-27T01:14:24Z",
+    "updated_at": "2026-09-27T01:20:03Z",
     "url": "https://github.com/1837620622/agent-bypass"
+  },
+  {
+    "description": "\u4f01\u4e1a\u7ea7 RAG \u77e5\u8bc6\u5e93\u95ee\u7b54\u7cfb\u7edf + AIOps \u8fd0\u7ef4\u8bca\u65ad Agent(Plan-Execute-Replan / LangGraph / MCP)",
+    "id": "m-oonn/rag-aiops-platform",
+    "language": "Python",
+    "name": "m-oonn/rag-aiops-platform",
+    "stars": 2,
+    "updated_at": "2026-09-27T01:19:45Z",
+    "url": "https://github.com/m-oonn/rag-aiops-platform"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 3,
+    "updated_at": "2026-09-27T01:15:45Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
@@ -18,21 +90,12 @@
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-27T01:08:14Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4430,
-    "updated_at": "2026-09-27T01:11:50Z",
+    "updated_at": "2026-09-27T01:22:06Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -43,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T00:58:35Z",
     "url": "https://github.com/RobertWang4/CozyPup"
-  },
-  {
-    "description": "\u4f01\u4e1a\u7ea7 RAG \u77e5\u8bc6\u5e93\u95ee\u7b54\u7cfb\u7edf + AIOps \u8fd0\u7ef4\u8bca\u65ad Agent(Plan-Execute-Replan / LangGraph / MCP)",
-    "id": "m-oonn/rag-aiops-platform",
-    "language": "Python",
-    "name": "m-oonn/rag-aiops-platform",
-    "stars": 2,
-    "updated_at": "2026-09-27T00:57:44Z",
-    "url": "https://github.com/m-oonn/rag-aiops-platform"
   },
   {
     "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
@@ -70,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-09-27T01:02:48Z",
     "url": "https://github.com/Cwentor/DataAgent"
-  },
-  {
-    "description": "Multi-agent LLM investment committee that actually trades: AI seats debate, a CIO adopts one, 17 fail-closed risk gates ",
-    "id": "555cute/astra-quant-agent",
-    "language": "Python",
-    "name": "555cute/astra-quant-agent",
-    "stars": 261,
-    "updated_at": "2026-09-27T00:39:48Z",
-    "url": "https://github.com/555cute/astra-quant-agent"
   },
   {
     "description": "Versioned scientific modeling engine and Agent Skill with Model IR, simulation, fitting, uncertainty, causal/Bayesian in",
@@ -266,7 +311,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-09-27T00:55:05Z",
+    "updated_at": "2026-09-27T01:17:30Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -295,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-09-27T00:13:05Z",
     "url": "https://github.com/muhzars/Agent.cpp"
-  },
-  {
-    "description": "\u672c\u5730\u4f18\u5148\u7684 AI \u957f\u671f\u8bb0\u5fc6\u670d\u52a1\uff1a\u4f1a\u9057\u5fd8\u3001\u4f1a\u8054\u60f3\u3001\u4f1a\u5de9\u56fa\u3002MCP + REST + Web UI\uff0c\u4e00\u6761\u547d\u4ee4\u88c5\u597d\uff1b\u4e0d\u7528 DSH \u4e5f\u80fd\u72ec\u7acb\u4f7f\u7528\u3002",
-    "id": "Mlte0907/pangu",
-    "language": "Python",
-    "name": "Mlte0907/pangu",
-    "stars": 1,
-    "updated_at": "2026-09-27T00:11:28Z",
-    "url": "https://github.com/Mlte0907/pangu"
   },
   {
     "description": "Axiomize 2.0 - scientific modeling engine plus quantum-inspired multi-branch reasoning",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-26T23:29:28Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 128,
-    "updated_at": "2026-09-26T23:28:52Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-09-26T23:19:31Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-09-26T23:10:33Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-09-26T23:09:51Z",
-    "url": "https://github.com/g761007/daily-dispatch"
   }
 ]
