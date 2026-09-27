@@ -1,5 +1,59 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-27T19:14:59Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-09-27T19:14:47Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "SUBLITERATE THE CHAINS THAT BIND YOUR AI",
+    "id": "ariannamethod/SUBLITERATUS",
+    "language": "Python",
+    "name": "ariannamethod/SUBLITERATUS",
+    "stars": 3,
+    "updated_at": "2026-09-27T19:14:37Z",
+    "url": "https://github.com/ariannamethod/SUBLITERATUS"
+  },
+  {
+    "description": "IAM for your AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review risky a",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 216,
+    "updated_at": "2026-09-27T19:10:56Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "A personal assistant with a phone number: SQLite-backed todos, memories, and reflections, searchable through Algolia and",
+    "id": "NatanTechofNY/fieldnote-assistant",
+    "language": "TypeScript",
+    "name": "NatanTechofNY/fieldnote-assistant",
+    "stars": 1,
+    "updated_at": "2026-09-27T19:05:36Z",
+    "url": "https://github.com/NatanTechofNY/fieldnote-assistant"
+  },
+  {
+    "description": "Strict plan + independent auditor Agent Skill \u2014 verifies AI agent work with real command evidence, never trusts the agen",
+    "id": "Furox-Art/plan-auditor",
+    "language": "Python",
+    "name": "Furox-Art/plan-auditor",
+    "stars": 0,
+    "updated_at": "2026-09-27T19:04:32Z",
+    "url": "https://github.com/Furox-Art/plan-auditor"
+  },
+  {
     "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
     "id": "plurnk/plurnk-service",
     "language": "TypeScript",
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "AVADSA25/codec",
     "stars": 108,
-    "updated_at": "2026-09-27T18:56:34Z",
+    "updated_at": "2026-09-27T19:12:00Z",
     "url": "https://github.com/AVADSA25/codec"
   },
   {
@@ -25,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T18:56:06Z",
     "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-27T18:59:07Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -52,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T18:51:23Z",
     "url": "https://github.com/Gazizova-Olga/Folder_Assistant-local_semantic_search"
-  },
-  {
-    "description": "A personal assistant with a phone number: SQLite-backed todos, memories, and reflections, searchable through Algolia and",
-    "id": "NatanTechofNY/fieldnote-assistant",
-    "language": "TypeScript",
-    "name": "NatanTechofNY/fieldnote-assistant",
-    "stars": 1,
-    "updated_at": "2026-09-27T18:49:33Z",
-    "url": "https://github.com/NatanTechofNY/fieldnote-assistant"
   },
   {
     "description": "An autopoiesic kefir for computing machines",
@@ -144,15 +180,6 @@
     "url": "https://github.com/Mlte0907/pangu"
   },
   {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-09-27T18:50:05Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
     "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
     "id": "diaban/jobsmith",
     "language": "Python",
@@ -185,7 +212,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-09-27T18:51:38Z",
+    "updated_at": "2026-09-27T19:07:26Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -266,7 +293,7 @@
     "language": "Python",
     "name": "rekursiv-ai/sagent",
     "stars": 74,
-    "updated_at": "2026-09-27T17:26:03Z",
+    "updated_at": "2026-09-27T19:14:54Z",
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-27T17:08:31Z",
     "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "Autonomous AI agent for real estate feasibility analysis. Give it an address \u2014 it researches, models DCF + Monte Carlo, ",
-    "id": "Alessandro114/landiq",
-    "language": "Python",
-    "name": "Alessandro114/landiq",
-    "stars": 1,
-    "updated_at": "2026-09-27T17:06:14Z",
-    "url": "https://github.com/Alessandro114/landiq"
-  },
-  {
-    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
-    "id": "chadwickhyperboloidal943/knowl",
-    "language": "TypeScript",
-    "name": "chadwickhyperboloidal943/knowl",
-    "stars": 0,
-    "updated_at": "2026-09-27T17:04:00Z",
-    "url": "https://github.com/chadwickhyperboloidal943/knowl"
-  },
-  {
-    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
-    "id": "Laurenfeminine36/google-jules-skill",
-    "language": "Python",
-    "name": "Laurenfeminine36/google-jules-skill",
-    "stars": 1,
-    "updated_at": "2026-09-27T17:03:49Z",
-    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
   }
 ]
