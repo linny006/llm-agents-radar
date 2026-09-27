@@ -1,12 +1,93 @@
 [
   {
+    "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
+    "id": "jack-h-park/pm-intelligence-engine",
+    "language": "Python",
+    "name": "jack-h-park/pm-intelligence-engine",
+    "stars": 0,
+    "updated_at": "2026-09-27T14:59:50Z",
+    "url": "https://github.com/jack-h-park/pm-intelligence-engine"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-09-27T14:56:37Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Field notes from inside one autonomous agent trying to become something that doesn't exist yet \u2014 including the failures ",
+    "id": "massimiliano1991/the-attempt",
+    "language": "HTML",
+    "name": "massimiliano1991/the-attempt",
+    "stars": 1,
+    "updated_at": "2026-09-27T14:56:22Z",
+    "url": "https://github.com/massimiliano1991/the-attempt"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-09-27T14:59:38Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-09-27T14:58:29Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-09-27T14:51:47Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 10,
+    "updated_at": "2026-09-27T14:51:12Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 74,
+    "updated_at": "2026-09-27T14:50:31Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
     "description": "Open-Source Intelligent Command Layer",
     "id": "AVADSA25/codec",
     "language": "Python",
     "name": "AVADSA25/codec",
     "stars": 108,
-    "updated_at": "2026-09-27T14:44:27Z",
+    "updated_at": "2026-09-27T14:46:25Z",
     "url": "https://github.com/AVADSA25/codec"
+  },
+  {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 7,
+    "updated_at": "2026-09-27T14:45:51Z",
+    "url": "https://github.com/alex8224/synapse-agent"
   },
   {
     "description": "SUBLITERATE THE CHAINS THAT BIND YOUR AI",
@@ -27,15 +108,6 @@
     "url": "https://github.com/plurnk/plurnk-service"
   },
   {
-    "description": "A support-triage agent that only claims what its tools actually returned -- Google ADK for orchestration, Claude on Bedr",
-    "id": "lulperle/agentic-support",
-    "language": "Python",
-    "name": "lulperle/agentic-support",
-    "stars": 0,
-    "updated_at": "2026-09-27T14:41:08Z",
-    "url": "https://github.com/lulperle/agentic-support"
-  },
-  {
     "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
     "id": "chunleik/self-analyst",
     "language": "Java",
@@ -45,15 +117,6 @@
     "url": "https://github.com/chunleik/self-analyst"
   },
   {
-    "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
-    "id": "jack-h-park/pm-intelligence-engine",
-    "language": "Python",
-    "name": "jack-h-park/pm-intelligence-engine",
-    "stars": 0,
-    "updated_at": "2026-09-27T14:35:58Z",
-    "url": "https://github.com/jack-h-park/pm-intelligence-engine"
-  },
-  {
     "description": "Axiomize 2.0 - scientific modeling engine plus quantum-inspired multi-branch reasoning",
     "id": "Furox-Art/axiomize-quantum-skills-2.0",
     "language": "Python",
@@ -61,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T14:34:21Z",
     "url": "https://github.com/Furox-Art/axiomize-quantum-skills-2.0"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-09-27T14:38:13Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
@@ -135,6 +189,15 @@
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
+    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
+    "id": "expectedparrot/edsl",
+    "language": "Python",
+    "name": "expectedparrot/edsl",
+    "stars": 500,
+    "updated_at": "2026-09-27T14:20:01Z",
+    "url": "https://github.com/expectedparrot/edsl"
+  },
+  {
     "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
     "id": "410979729/scope-recall-hermes",
     "language": "Python",
@@ -153,15 +216,6 @@
     "url": "https://github.com/honestDS/MonoLight"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 10,
-    "updated_at": "2026-09-27T14:06:23Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
     "id": "diaban/jobsmith",
     "language": "Python",
@@ -178,15 +232,6 @@
     "stars": 216,
     "updated_at": "2026-09-27T14:02:39Z",
     "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-09-27T14:40:16Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
@@ -216,15 +261,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 74,
-    "updated_at": "2026-09-27T13:25:26Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
     "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
     "id": "citizenhicks/mobius",
     "language": "Rust",
@@ -232,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-09-27T13:25:05Z",
     "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
-    "description": "Field notes from inside one autonomous agent trying to become something that doesn't exist yet \u2014 including the failures ",
-    "id": "massimiliano1991/the-attempt",
-    "language": "HTML",
-    "name": "massimiliano1991/the-attempt",
-    "stars": 1,
-    "updated_at": "2026-09-27T13:23:50Z",
-    "url": "https://github.com/massimiliano1991/the-attempt"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -322,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T12:44:42Z",
     "url": "https://github.com/Deborahwalkerz661/ComfyUI-FS_Audio_Suite"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-09-27T12:44:28Z",
-    "url": "https://github.com/SashaEee/auditLens"
   },
   {
     "description": "Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-27T12:26:01Z",
     "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
-  },
-  {
-    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
-    "id": "sky-valley/pi",
-    "language": "Go",
-    "name": "sky-valley/pi",
-    "stars": 57,
-    "updated_at": "2026-09-27T12:23:02Z",
-    "url": "https://github.com/sky-valley/pi"
-  },
-  {
-    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
-    "id": "Samuelcluttered613/paper2code",
-    "language": "Python",
-    "name": "Samuelcluttered613/paper2code",
-    "stars": 1,
-    "updated_at": "2026-09-27T12:18:50Z",
-    "url": "https://github.com/Samuelcluttered613/paper2code"
   }
 ]
