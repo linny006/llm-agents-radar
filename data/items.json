@@ -1,5 +1,32 @@
 [
   {
+    "description": "Agent-native product search: multi-source scrape \u2192 deterministic constraints \u2192 LLM match \u2192 price watches + order trackin",
+    "id": "anatolykoptev/quarryn",
+    "language": "Go",
+    "name": "anatolykoptev/quarryn",
+    "stars": 0,
+    "updated_at": "2026-09-28T11:00:40Z",
+    "url": "https://github.com/anatolykoptev/quarryn"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-09-28T10:59:54Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4433,
+    "updated_at": "2026-09-28T11:00:34Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
@@ -32,7 +59,7 @@
     "language": "Python",
     "name": "expectedparrot/edsl",
     "stars": 502,
-    "updated_at": "2026-09-28T10:39:21Z",
+    "updated_at": "2026-09-28T10:59:13Z",
     "url": "https://github.com/expectedparrot/edsl"
   },
   {
@@ -59,7 +86,7 @@
     "language": "TypeScript",
     "name": "hay-chat/hay-core",
     "stars": 3,
-    "updated_at": "2026-09-28T10:34:36Z",
+    "updated_at": "2026-09-28T10:45:26Z",
     "url": "https://github.com/hay-chat/hay-core"
   },
   {
@@ -88,15 +115,6 @@
     "stars": 10,
     "updated_at": "2026-09-28T10:33:14Z",
     "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4433,
-    "updated_at": "2026-09-28T10:44:54Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Desic Terminal \u2014 open-source AI-native OKX USDT perpetual trading terminal. Realtime market data, pro charts, order exec",
@@ -194,7 +212,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-09-28T09:53:34Z",
+    "updated_at": "2026-09-28T10:51:57Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -202,18 +220,9 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 6060,
+    "stars": 6061,
     "updated_at": "2026-09-28T09:45:59Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "Agent-native product search: multi-source scrape \u2192 deterministic constraints \u2192 LLM match \u2192 price watches + order trackin",
-    "id": "anatolykoptev/quarryn",
-    "language": "Go",
-    "name": "anatolykoptev/quarryn",
-    "stars": 0,
-    "updated_at": "2026-09-28T10:35:18Z",
-    "url": "https://github.com/anatolykoptev/quarryn"
   },
   {
     "description": "Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi",
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-28T09:08:41Z",
     "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-09-28T09:03:46Z",
-    "url": "https://github.com/yigido41/agentic-ai"
   }
 ]
