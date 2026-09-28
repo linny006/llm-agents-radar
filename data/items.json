@@ -1,12 +1,21 @@
 [
   {
-    "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
-    "id": "honestDS/MonoLight",
+    "description": "AI-assisted Blender modeling console: plan-JSON -> deterministic compiler (GN/material/rig) -> verifier closed loop. 29 ",
+    "id": "master666-max/blender-ai-console",
     "language": "Python",
-    "name": "honestDS/MonoLight",
-    "stars": 7,
-    "updated_at": "2026-09-28T17:14:30Z",
-    "url": "https://github.com/honestDS/MonoLight"
+    "name": "master666-max/blender-ai-console",
+    "stars": 0,
+    "updated_at": "2026-09-28T17:28:11Z",
+    "url": "https://github.com/master666-max/blender-ai-console"
+  },
+  {
+    "description": "Private, local-first AI agent: planning, sandboxed tools, four-tier memory, streaming UI and OpenTelemetry \u2014 runs entire",
+    "id": "roydonsequeira/CORTEX-Private-Intelligence-Framework",
+    "language": "Python",
+    "name": "roydonsequeira/CORTEX-Private-Intelligence-Framework",
+    "stars": 2,
+    "updated_at": "2026-09-28T17:25:00Z",
+    "url": "https://github.com/roydonsequeira/CORTEX-Private-Intelligence-Framework"
   },
   {
     "description": "An autopoiesic kefir for computing machines",
@@ -14,17 +23,8 @@
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 10,
-    "updated_at": "2026-09-28T17:13:56Z",
+    "updated_at": "2026-09-28T17:21:26Z",
     "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "AI-assisted Blender modeling console: plan-JSON -> deterministic compiler (GN/material/rig) -> verifier closed loop. 29 ",
-    "id": "master666-max/blender-ai-console",
-    "language": "Python",
-    "name": "master666-max/blender-ai-console",
-    "stars": 0,
-    "updated_at": "2026-09-28T17:08:58Z",
-    "url": "https://github.com/master666-max/blender-ai-console"
   },
   {
     "description": "An observability-driven text-only core for coordinating ephemeral LLM agents",
@@ -32,8 +32,17 @@
     "language": "Python",
     "name": "genaforvena/mishe-tauftauf",
     "stars": 1,
-    "updated_at": "2026-09-28T17:12:48Z",
+    "updated_at": "2026-09-28T17:15:22Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
+    "id": "honestDS/MonoLight",
+    "language": "Python",
+    "name": "honestDS/MonoLight",
+    "stars": 7,
+    "updated_at": "2026-09-28T17:14:30Z",
+    "url": "https://github.com/honestDS/MonoLight"
   },
   {
     "description": "Open-Source Intelligent Command Layer",
@@ -49,7 +58,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 8512,
+    "stars": 8513,
     "updated_at": "2026-09-28T17:05:32Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -59,17 +68,8 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-09-28T17:09:47Z",
+    "updated_at": "2026-09-28T17:18:53Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Private, local-first AI agent: planning, sandboxed tools, four-tier memory, streaming UI and OpenTelemetry \u2014 runs entire",
-    "id": "roydonsequeira/CORTEX-Private-Intelligence-Framework",
-    "language": "Python",
-    "name": "roydonsequeira/CORTEX-Private-Intelligence-Framework",
-    "stars": 2,
-    "updated_at": "2026-09-28T17:00:39Z",
-    "url": "https://github.com/roydonsequeira/CORTEX-Private-Intelligence-Framework"
   },
   {
     "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
@@ -140,7 +140,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4435,
-    "updated_at": "2026-09-28T17:15:08Z",
+    "updated_at": "2026-09-28T17:28:59Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -320,7 +320,7 @@
     "language": "Rust",
     "name": "ljedrz/nachalnik",
     "stars": 5,
-    "updated_at": "2026-09-28T15:05:55Z",
+    "updated_at": "2026-09-28T17:17:45Z",
     "url": "https://github.com/ljedrz/nachalnik"
   },
   {
