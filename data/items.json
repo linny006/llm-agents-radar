@@ -1,5 +1,68 @@
 [
   {
+    "description": "Two MIT patches for Nous Research Hermes: stop busy-queue messages merging into one jumbled turn, and optionally run sel",
+    "id": "EauDoon/hermes-parallel-followups",
+    "language": "Python",
+    "name": "EauDoon/hermes-parallel-followups",
+    "stars": 0,
+    "updated_at": "2026-09-28T15:56:40Z",
+    "url": "https://github.com/EauDoon/hermes-parallel-followups"
+  },
+  {
+    "description": "DeepSeek Harness \u6781\u7b80 PTC \u9884\u8bbe\uff1a\u7b80\u6d01\u63d0\u793a\u8bcd\u3001run_code \u5de5\u5177\u7f16\u6392\u3001\u5b8c\u6574\u63d2\u4ef6\u5de5\u5177\uff0c\u4ee5\u53ca Windows Git Bash \u548c\u6301\u4e45 PowerShell\u3002",
+    "id": "STARDUSTLC666/dsh-minimal-ptc",
+    "language": "JavaScript",
+    "name": "STARDUSTLC666/dsh-minimal-ptc",
+    "stars": 1,
+    "updated_at": "2026-09-28T15:54:13Z",
+    "url": "https://github.com/STARDUSTLC666/dsh-minimal-ptc"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-28T15:51:11Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
+    "id": "DylPorter/claude-telegram",
+    "language": "Python",
+    "name": "DylPorter/claude-telegram",
+    "stars": 1,
+    "updated_at": "2026-09-28T15:49:48Z",
+    "url": "https://github.com/DylPorter/claude-telegram"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-09-28T15:48:54Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Organizational-memory system for micro/nano fabrication: executable process-flow canvas, LLM agent, reliability-scored k",
+    "id": "liyao13-sketch/OpenNano",
+    "language": "Python",
+    "name": "liyao13-sketch/OpenNano",
+    "stars": 0,
+    "updated_at": "2026-09-28T15:47:44Z",
+    "url": "https://github.com/liyao13-sketch/OpenNano"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4434,
+    "updated_at": "2026-09-28T15:41:48Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
     "description": "LLM \u6570\u636e\u5206\u6790\u5de5\u4f5c\u53f0\uff1a\u4e0a\u4f20\u6570\u636e\u96c6\u81ea\u52a8\u5b8c\u6210\u6e05\u6d17\u3001\u7edf\u8ba1\u5206\u6790\u3001\u53ef\u89c6\u5316\u4e0e\u62a5\u544a\uff1b\u53d7\u63a7\u5de5\u5177\u96c6 + \u53ea\u8bfb SQL\uff08SQLite / PostgreSQL\uff09\u00b7 MCP \u6570\u636e\u9762 \u00b7 Plotly + ECharts \u53cc\u5f15\u64ce \u00b7 FastAPI + Reac",
     "id": "xiaomaozjj666/data-analysis-agent",
     "language": "Python",
@@ -27,15 +90,6 @@
     "url": "https://github.com/edjafarov/kiagent-core"
   },
   {
-    "description": "Organizational-memory system for micro/nano fabrication: executable process-flow canvas, LLM agent, reliability-scored k",
-    "id": "liyao13-sketch/OpenNano",
-    "language": "Python",
-    "name": "liyao13-sketch/OpenNano",
-    "stars": 0,
-    "updated_at": "2026-09-28T15:32:34Z",
-    "url": "https://github.com/liyao13-sketch/OpenNano"
-  },
-  {
     "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
     "id": "kyleslight/shun",
     "language": "TypeScript",
@@ -61,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-28T15:30:09Z",
     "url": "https://github.com/ruxir-ig/auscult"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4433,
-    "updated_at": "2026-09-28T15:41:48Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "SUBLITERATE THE CHAINS THAT BIND YOUR AI",
@@ -203,7 +248,7 @@
     "language": "Python",
     "name": "roydonsequeira/CORTEX-Private-Intelligence-Framework",
     "stars": 2,
-    "updated_at": "2026-09-28T15:17:16Z",
+    "updated_at": "2026-09-28T15:52:07Z",
     "url": "https://github.com/roydonsequeira/CORTEX-Private-Intelligence-Framework"
   },
   {
@@ -212,7 +257,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-09-28T15:33:12Z",
+    "updated_at": "2026-09-28T15:53:00Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -268,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-09-28T14:08:51Z",
     "url": "https://github.com/seohynun/miraeassetfesta"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-09-28T14:42:46Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -396,15 +432,6 @@
     "url": "https://github.com/Calmingstorm/Odin"
   },
   {
-    "description": "Two MIT patches for Nous Research Hermes: stop busy-queue messages merging into one jumbled turn, and optionally run sel",
-    "id": "EauDoon/hermes-parallel-followups",
-    "language": "Python",
-    "name": "EauDoon/hermes-parallel-followups",
-    "stars": 0,
-    "updated_at": "2026-09-28T13:36:52Z",
-    "url": "https://github.com/EauDoon/hermes-parallel-followups"
-  },
-  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
@@ -421,32 +448,5 @@
     "stars": 9,
     "updated_at": "2026-09-28T14:01:41Z",
     "url": "https://github.com/i2y/edda"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-09-28T13:36:15Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
-    "id": "clashroy5384/ai-papers-hub",
-    "language": "\u2014",
-    "name": "clashroy5384/ai-papers-hub",
-    "stars": 0,
-    "updated_at": "2026-09-28T13:35:33Z",
-    "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
-    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "language": "Python",
-    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "stars": 5,
-    "updated_at": "2026-09-28T13:33:29Z",
-    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
   }
 ]
