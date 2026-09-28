@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 28,
-    "updated_at": "2026-09-28T21:33:53Z",
+    "updated_at": "2026-09-28T21:44:37Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "A quantum-inspired reasoning skill for exploring, scoring, pruning, and merging multiple solution paths.",
+    "id": "Furox-Art/quantum-reasoning-skill",
+    "language": "Python",
+    "name": "Furox-Art/quantum-reasoning-skill",
+    "stars": 0,
+    "updated_at": "2026-09-28T21:39:51Z",
+    "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
+  },
+  {
+    "description": "Axiomize 2.0 - scientific modeling engine plus quantum-inspired multi-branch reasoning",
+    "id": "Furox-Art/axiomize-quantum-skills-2.0",
+    "language": "Python",
+    "name": "Furox-Art/axiomize-quantum-skills-2.0",
+    "stars": 0,
+    "updated_at": "2026-09-28T21:39:45Z",
+    "url": "https://github.com/Furox-Art/axiomize-quantum-skills-2.0"
+  },
+  {
+    "description": "Versioned scientific modeling engine and Agent Skill with Model IR, simulation, fitting, uncertainty, causal/Bayesian in",
+    "id": "Furox-Art/axiomize",
+    "language": "Python",
+    "name": "Furox-Art/axiomize",
+    "stars": 3,
+    "updated_at": "2026-09-28T21:39:43Z",
+    "url": "https://github.com/Furox-Art/axiomize"
+  },
+  {
+    "description": "Strict plan + independent auditor Agent Skill \u2014 verifies AI agent work with real command evidence, never trusts the agen",
+    "id": "Furox-Art/plan-auditor",
+    "language": "Python",
+    "name": "Furox-Art/plan-auditor",
+    "stars": 0,
+    "updated_at": "2026-09-28T21:39:40Z",
+    "url": "https://github.com/Furox-Art/plan-auditor"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-28T21:39:58Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
+    "id": "hsaghir/looplet",
+    "language": "Python",
+    "name": "hsaghir/looplet",
+    "stars": 7,
+    "updated_at": "2026-09-28T21:38:02Z",
+    "url": "https://github.com/hsaghir/looplet"
+  },
+  {
+    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
+    "id": "Danisxxx/comfyUI-LongLook",
+    "language": "Python",
+    "name": "Danisxxx/comfyUI-LongLook",
+    "stars": 2,
+    "updated_at": "2026-09-28T21:35:02Z",
+    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
+  },
+  {
+    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
+    "id": "axxafo/awesome-agent-benchmarks",
+    "language": "\u2014",
+    "name": "axxafo/awesome-agent-benchmarks",
+    "stars": 4,
+    "updated_at": "2026-09-28T21:34:13Z",
+    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
   },
   {
     "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
@@ -43,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-09-28T21:27:20Z",
     "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-28T21:30:07Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -104,7 +167,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4434,
-    "updated_at": "2026-09-28T21:15:48Z",
+    "updated_at": "2026-09-28T21:41:39Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -115,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-09-28T21:14:49Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Versioned scientific modeling engine and Agent Skill with Model IR, simulation, fitting, uncertainty, causal/Bayesian in",
-    "id": "Furox-Art/axiomize",
-    "language": "Python",
-    "name": "Furox-Art/axiomize",
-    "stars": 3,
-    "updated_at": "2026-09-28T21:12:40Z",
-    "url": "https://github.com/Furox-Art/axiomize"
   },
   {
     "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
@@ -167,35 +221,8 @@
     "language": "Rust",
     "name": "ljedrz/nachalnik",
     "stars": 5,
-    "updated_at": "2026-09-28T21:16:50Z",
+    "updated_at": "2026-09-28T21:38:52Z",
     "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
-    "description": "A quantum-inspired reasoning skill for exploring, scoring, pruning, and merging multiple solution paths.",
-    "id": "Furox-Art/quantum-reasoning-skill",
-    "language": "Python",
-    "name": "Furox-Art/quantum-reasoning-skill",
-    "stars": 0,
-    "updated_at": "2026-09-28T20:47:16Z",
-    "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
-  },
-  {
-    "description": "Strict plan + independent auditor Agent Skill \u2014 verifies AI agent work with real command evidence, never trusts the agen",
-    "id": "Furox-Art/plan-auditor",
-    "language": "Python",
-    "name": "Furox-Art/plan-auditor",
-    "stars": 0,
-    "updated_at": "2026-09-28T20:47:01Z",
-    "url": "https://github.com/Furox-Art/plan-auditor"
-  },
-  {
-    "description": "Axiomize 2.0 - scientific modeling engine plus quantum-inspired multi-branch reasoning",
-    "id": "Furox-Art/axiomize-quantum-skills-2.0",
-    "language": "Python",
-    "name": "Furox-Art/axiomize-quantum-skills-2.0",
-    "stars": 0,
-    "updated_at": "2026-09-28T20:44:47Z",
-    "url": "https://github.com/Furox-Art/axiomize-quantum-skills-2.0"
   },
   {
     "description": "Ask questions about one folder on your disk. Local semantic index, offline embeddings, answers only from your files.",
@@ -257,7 +284,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-09-28T20:03:31Z",
+    "updated_at": "2026-09-28T21:34:09Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -324,24 +351,6 @@
     "url": "https://github.com/wufufu770/d2d"
   },
   {
-    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
-    "id": "Danisxxx/comfyUI-LongLook",
-    "language": "Python",
-    "name": "Danisxxx/comfyUI-LongLook",
-    "stars": 2,
-    "updated_at": "2026-09-28T19:41:31Z",
-    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
-  },
-  {
-    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
-    "id": "axxafo/awesome-agent-benchmarks",
-    "language": "\u2014",
-    "name": "axxafo/awesome-agent-benchmarks",
-    "stars": 4,
-    "updated_at": "2026-09-28T19:40:39Z",
-    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
     "description": "LLM \u6570\u636e\u5206\u6790\u5de5\u4f5c\u53f0\uff1a\u4e0a\u4f20\u6570\u636e\u96c6\u81ea\u52a8\u5b8c\u6210\u6e05\u6d17\u3001\u7edf\u8ba1\u5206\u6790\u3001\u53ef\u89c6\u5316\u4e0e\u62a5\u544a\uff1b\u53d7\u63a7\u5de5\u5177\u96c6 + \u53ea\u8bfb SQL\uff08SQLite / PostgreSQL\uff09\u00b7 MCP \u6570\u636e\u9762 \u00b7 Plotly + ECharts \u53cc\u5f15\u64ce \u00b7 FastAPI + Reac",
     "id": "xiaomaozjj666/data-analysis-agent",
     "language": "Python",
@@ -374,7 +383,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-28T21:28:38Z",
+    "updated_at": "2026-09-28T21:37:47Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-28T18:48:07Z",
     "url": "https://github.com/kanderson-ai-dev/agentic-api"
-  },
-  {
-    "description": "Vector search that ships as a file. Compile a corpus into one self-contained, hash-verified .pikelet \u2014 search it anywher",
-    "id": "mcn92/pikelet",
-    "language": "JavaScript",
-    "name": "mcn92/pikelet",
-    "stars": 2,
-    "updated_at": "2026-09-28T21:23:11Z",
-    "url": "https://github.com/mcn92/pikelet"
   }
 ]
