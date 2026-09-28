@@ -1,5 +1,185 @@
 [
   {
+    "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
+    "id": "brittewestafrican981/ComfyUI-YinChao",
+    "language": "Python",
+    "name": "brittewestafrican981/ComfyUI-YinChao",
+    "stars": 0,
+    "updated_at": "2026-09-28T13:44:53Z",
+    "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
+  },
+  {
+    "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
+    "id": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
+    "language": "Python",
+    "name": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
+    "stars": 4,
+    "updated_at": "2026-09-28T13:43:44Z",
+    "url": "https://github.com/mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo"
+  },
+  {
+    "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
+    "id": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
+    "language": "Python",
+    "name": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
+    "stars": 2,
+    "updated_at": "2026-09-28T13:42:19Z",
+    "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
+  },
+  {
+    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
+    "id": "hay-chat/hay-core",
+    "language": "TypeScript",
+    "name": "hay-chat/hay-core",
+    "stars": 3,
+    "updated_at": "2026-09-28T13:42:17Z",
+    "url": "https://github.com/hay-chat/hay-core"
+  },
+  {
+    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
+    "id": "kyleslight/shun",
+    "language": "TypeScript",
+    "name": "kyleslight/shun",
+    "stars": 6,
+    "updated_at": "2026-09-28T13:41:38Z",
+    "url": "https://github.com/kyleslight/shun"
+  },
+  {
+    "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
+    "id": "EpsteinF1les/tts",
+    "language": "\u2014",
+    "name": "EpsteinF1les/tts",
+    "stars": 0,
+    "updated_at": "2026-09-28T13:41:07Z",
+    "url": "https://github.com/EpsteinF1les/tts"
+  },
+  {
+    "description": "AI cross-channel progressive insight extractor synthesizing academic papers, notes, and discussions into profound system",
+    "id": "Bowen-0x00/insight-engine",
+    "language": "Python",
+    "name": "Bowen-0x00/insight-engine",
+    "stars": 1,
+    "updated_at": "2026-09-28T13:41:07Z",
+    "url": "https://github.com/Bowen-0x00/insight-engine"
+  },
+  {
+    "description": "AI-powered multi-mailbox monitoring agent (Gmail, QQ, Edu) with WeChat instant notifications & arXiv/Scholar paper readi",
+    "id": "Bowen-0x00/mail-assist",
+    "language": "Python",
+    "name": "Bowen-0x00/mail-assist",
+    "stars": 1,
+    "updated_at": "2026-09-28T13:41:03Z",
+    "url": "https://github.com/Bowen-0x00/mail-assist"
+  },
+  {
+    "description": "AI-assisted Blender modeling console: plan-JSON -> deterministic compiler (GN/material/rig) -> verifier closed loop. 29 ",
+    "id": "master666-max/blender-ai-console",
+    "language": "Python",
+    "name": "master666-max/blender-ai-console",
+    "stars": 0,
+    "updated_at": "2026-09-28T13:41:02Z",
+    "url": "https://github.com/master666-max/blender-ai-console"
+  },
+  {
+    "description": "AI-powered social radar agent monitoring Zhihu & X for high-value tech insights with WeChat instant notifications & anti",
+    "id": "Bowen-0x00/social-radar",
+    "language": "Python",
+    "name": "Bowen-0x00/social-radar",
+    "stars": 1,
+    "updated_at": "2026-09-28T13:40:58Z",
+    "url": "https://github.com/Bowen-0x00/social-radar"
+  },
+  {
+    "description": "Autonomous execution agent on Discord \u2014 74 tools, shell access, browser automation, scheduled tasks, sub-agents, knowled",
+    "id": "Calmingstorm/Odin",
+    "language": "Python",
+    "name": "Calmingstorm/Odin",
+    "stars": 3,
+    "updated_at": "2026-09-28T13:38:19Z",
+    "url": "https://github.com/Calmingstorm/Odin"
+  },
+  {
+    "description": "Two MIT patches for Nous Research Hermes: stop busy-queue messages merging into one jumbled turn, and optionally run sel",
+    "id": "EauDoon/hermes-parallel-followups",
+    "language": "Python",
+    "name": "EauDoon/hermes-parallel-followups",
+    "stars": 0,
+    "updated_at": "2026-09-28T13:36:52Z",
+    "url": "https://github.com/EauDoon/hermes-parallel-followups"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 811,
+    "updated_at": "2026-09-28T13:36:49Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "a durable execution framework for Python",
+    "id": "i2y/edda",
+    "language": "Python",
+    "name": "i2y/edda",
+    "stars": 9,
+    "updated_at": "2026-09-28T13:36:47Z",
+    "url": "https://github.com/i2y/edda"
+  },
+  {
+    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
+    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "language": "\u2014",
+    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "stars": 0,
+    "updated_at": "2026-09-28T13:36:15Z",
+    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
+  },
+  {
+    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
+    "id": "clashroy5384/ai-papers-hub",
+    "language": "\u2014",
+    "name": "clashroy5384/ai-papers-hub",
+    "stars": 0,
+    "updated_at": "2026-09-28T13:35:33Z",
+    "url": "https://github.com/clashroy5384/ai-papers-hub"
+  },
+  {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-28T13:34:02Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
+    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
+    "language": "Python",
+    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
+    "stars": 5,
+    "updated_at": "2026-09-28T13:33:29Z",
+    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
+  },
+  {
+    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
+    "id": "oxidizable-malinois605/bridge-suite-mcp",
+    "language": "TypeScript",
+    "name": "oxidizable-malinois605/bridge-suite-mcp",
+    "stars": 0,
+    "updated_at": "2026-09-28T13:30:19Z",
+    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
+  },
+  {
+    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
+    "id": "Arjunadh5305/ios-skills-collection",
+    "language": "\u2014",
+    "name": "Arjunadh5305/ios-skills-collection",
+    "stars": 1,
+    "updated_at": "2026-09-28T13:30:17Z",
+    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -23,26 +203,8 @@
     "language": "Python",
     "name": "AVADSA25/codec",
     "stars": 108,
-    "updated_at": "2026-09-28T13:29:13Z",
+    "updated_at": "2026-09-28T13:44:32Z",
     "url": "https://github.com/AVADSA25/codec"
-  },
-  {
-    "description": "Two MIT patches for Nous Research Hermes: stop busy-queue messages merging into one jumbled turn, and optionally run sel",
-    "id": "EauDoon/hermes-parallel-followups",
-    "language": "Python",
-    "name": "EauDoon/hermes-parallel-followups",
-    "stars": 0,
-    "updated_at": "2026-09-28T13:30:19Z",
-    "url": "https://github.com/EauDoon/hermes-parallel-followups"
-  },
-  {
-    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
-    "id": "kyleslight/shun",
-    "language": "TypeScript",
-    "name": "kyleslight/shun",
-    "stars": 6,
-    "updated_at": "2026-09-28T13:28:02Z",
-    "url": "https://github.com/kyleslight/shun"
   },
   {
     "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
@@ -52,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-09-28T13:27:33Z",
     "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "AI cross-channel progressive insight extractor synthesizing academic papers, notes, and discussions into profound system",
-    "id": "Bowen-0x00/insight-engine",
-    "language": "Python",
-    "name": "Bowen-0x00/insight-engine",
-    "stars": 1,
-    "updated_at": "2026-09-28T13:27:06Z",
-    "url": "https://github.com/Bowen-0x00/insight-engine"
   },
   {
     "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
@@ -117,15 +270,6 @@
     "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
   },
   {
-    "description": "AI-assisted Blender modeling console: plan-JSON -> deterministic compiler (GN/material/rig) -> verifier closed loop. 29 ",
-    "id": "master666-max/blender-ai-console",
-    "language": "Python",
-    "name": "master666-max/blender-ai-console",
-    "stars": 0,
-    "updated_at": "2026-09-28T13:20:35Z",
-    "url": "https://github.com/master666-max/blender-ai-console"
-  },
-  {
     "description": "Field notes from inside one autonomous agent trying to become something that doesn't exist yet \u2014 including the failures ",
     "id": "massimiliano1991/the-attempt",
     "language": "HTML",
@@ -142,15 +286,6 @@
     "stars": 4,
     "updated_at": "2026-09-28T13:17:42Z",
     "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "AI-powered multi-mailbox monitoring agent (Gmail, QQ, Edu) with WeChat instant notifications & arXiv/Scholar paper readi",
-    "id": "Bowen-0x00/mail-assist",
-    "language": "Python",
-    "name": "Bowen-0x00/mail-assist",
-    "stars": 1,
-    "updated_at": "2026-09-28T13:14:57Z",
-    "url": "https://github.com/Bowen-0x00/mail-assist"
   },
   {
     "description": "Local tool-calling research agent for SOFC materials: qwen2.5:3b via Ollama picks literature search, measured-data queri",
@@ -178,15 +313,6 @@
     "stars": 4,
     "updated_at": "2026-09-28T13:11:58Z",
     "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "AI-powered social radar agent monitoring Zhihu & X for high-value tech insights with WeChat instant notifications & anti",
-    "id": "Bowen-0x00/social-radar",
-    "language": "Python",
-    "name": "Bowen-0x00/social-radar",
-    "stars": 1,
-    "updated_at": "2026-09-28T13:07:30Z",
-    "url": "https://github.com/Bowen-0x00/social-radar"
   },
   {
     "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
@@ -261,15 +387,6 @@
     "url": "https://github.com/ariannamethod/SUBLITERATUS"
   },
   {
-    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
-    "id": "hay-chat/hay-core",
-    "language": "TypeScript",
-    "name": "hay-chat/hay-core",
-    "stars": 3,
-    "updated_at": "2026-09-28T12:34:54Z",
-    "url": "https://github.com/hay-chat/hay-core"
-  },
-  {
     "description": "Desktop GUI Headless Local-first AI coding agent in Rust (axum, tokio, rmcp, portable-pty) behind HTTP + SSE, with an An",
     "id": "henrykbrzoska/bebok",
     "language": "Rust",
@@ -331,122 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-28T12:27:51Z",
     "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 32502,
-    "updated_at": "2026-09-28T12:12:37Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "Agent-native product search: multi-source scrape \u2192 deterministic constraints \u2192 LLM match \u2192 price watches + order trackin",
-    "id": "anatolykoptev/quarryn",
-    "language": "Go",
-    "name": "anatolykoptev/quarryn",
-    "stars": 0,
-    "updated_at": "2026-09-28T12:07:41Z",
-    "url": "https://github.com/anatolykoptev/quarryn"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-09-28T13:08:38Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Multi-agent LLM investment committee that actually trades: AI seats debate, a CIO adopts one, 17 fail-closed risk gates ",
-    "id": "0xethanq/astra-quant-agent",
-    "language": "Python",
-    "name": "0xethanq/astra-quant-agent",
-    "stars": 263,
-    "updated_at": "2026-09-28T11:59:58Z",
-    "url": "https://github.com/0xethanq/astra-quant-agent"
-  },
-  {
-    "description": "Keep agent CLIs running 7\u00d724 \u2014 supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure",
-    "id": "wan9yu/cli-agent-runner",
-    "language": "Python",
-    "name": "wan9yu/cli-agent-runner",
-    "stars": 4,
-    "updated_at": "2026-09-28T11:58:25Z",
-    "url": "https://github.com/wan9yu/cli-agent-runner"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3470,
-    "updated_at": "2026-09-28T11:55:23Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
-    "id": "zty522/partner",
-    "language": "Python",
-    "name": "zty522/partner",
-    "stars": 5,
-    "updated_at": "2026-09-28T11:50:35Z",
-    "url": "https://github.com/zty522/partner"
-  },
-  {
-    "description": "Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi",
-    "id": "zig333/ELAI-archive",
-    "language": "\u2014",
-    "name": "zig333/ELAI-archive",
-    "stars": 0,
-    "updated_at": "2026-09-28T11:47:29Z",
-    "url": "https://github.com/zig333/ELAI-archive"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 10,
-    "updated_at": "2026-09-28T11:46:28Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
-    "id": "brittewestafrican981/ComfyUI-YinChao",
-    "language": "Python",
-    "name": "brittewestafrican981/ComfyUI-YinChao",
-    "stars": 0,
-    "updated_at": "2026-09-28T11:45:22Z",
-    "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
-  },
-  {
-    "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
-    "id": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
-    "language": "Python",
-    "name": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
-    "stars": 4,
-    "updated_at": "2026-09-28T11:44:19Z",
-    "url": "https://github.com/mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo"
-  },
-  {
-    "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
-    "id": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
-    "language": "Python",
-    "name": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
-    "stars": 2,
-    "updated_at": "2026-09-28T11:43:21Z",
-    "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
-  },
-  {
-    "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
-    "id": "EpsteinF1les/tts",
-    "language": "\u2014",
-    "name": "EpsteinF1les/tts",
-    "stars": 0,
-    "updated_at": "2026-09-28T11:42:42Z",
-    "url": "https://github.com/EpsteinF1les/tts"
   }
 ]
