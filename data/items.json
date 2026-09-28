@@ -1,5 +1,59 @@
 [
   {
+    "description": "Axiomize 2.0 - scientific modeling engine plus quantum-inspired multi-branch reasoning",
+    "id": "Furox-Art/axiomize-quantum-skills-2.0",
+    "language": "Python",
+    "name": "Furox-Art/axiomize-quantum-skills-2.0",
+    "stars": 0,
+    "updated_at": "2026-09-28T20:44:47Z",
+    "url": "https://github.com/Furox-Art/axiomize-quantum-skills-2.0"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-28T20:44:36Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "AI-Assisted Development Workflow \u2014 Claude Code Plugin",
+    "id": "cunhaax/ai-workflow",
+    "language": "Python",
+    "name": "cunhaax/ai-workflow",
+    "stars": 5,
+    "updated_at": "2026-09-28T20:42:00Z",
+    "url": "https://github.com/cunhaax/ai-workflow"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 28,
+    "updated_at": "2026-09-28T20:40:31Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 5,
+    "updated_at": "2026-09-28T20:40:22Z",
+    "url": "https://github.com/ljedrz/nachalnik"
+  },
+  {
+    "description": "Ask questions about one folder on your disk. Local semantic index, offline embeddings, answers only from your files.",
+    "id": "Gazizova-Olga/Folder_Assistant-local_semantic_search",
+    "language": "C#",
+    "name": "Gazizova-Olga/Folder_Assistant-local_semantic_search",
+    "stars": 0,
+    "updated_at": "2026-09-28T20:37:09Z",
+    "url": "https://github.com/Gazizova-Olga/Folder_Assistant-local_semantic_search"
+  },
+  {
     "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
     "id": "plurnk/plurnk-service",
     "language": "TypeScript",
@@ -18,15 +72,6 @@
     "url": "https://github.com/tiranyx/sidix"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-28T20:28:41Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "\ud83e\udeb6 Quill \u2014 Open-source AI super-agent framework with sandboxed execution, sub-agent orchestration, MCP, skills marketplac",
     "id": "CreamyLong/quill",
     "language": "TypeScript",
@@ -41,17 +86,8 @@
     "language": "Swift",
     "name": "adamskijow/Hob",
     "stars": 1,
-    "updated_at": "2026-09-28T20:22:54Z",
+    "updated_at": "2026-09-28T20:32:28Z",
     "url": "https://github.com/adamskijow/Hob"
-  },
-  {
-    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
-    "id": "ljedrz/nachalnik",
-    "language": "Rust",
-    "name": "ljedrz/nachalnik",
-    "stars": 5,
-    "updated_at": "2026-09-28T20:23:15Z",
-    "url": "https://github.com/ljedrz/nachalnik"
   },
   {
     "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
@@ -86,7 +122,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4434,
-    "updated_at": "2026-09-28T20:27:46Z",
+    "updated_at": "2026-09-28T20:42:54Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -97,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-28T20:05:33Z",
     "url": "https://github.com/CelinaRook30716/game-agent-run-telemetry-agent-run-telemetry-gaming-java-x"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 28,
-    "updated_at": "2026-09-28T20:04:31Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
@@ -257,7 +284,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-28T20:29:38Z",
+    "updated_at": "2026-09-28T20:40:35Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -347,7 +374,7 @@
     "language": "Python",
     "name": "AVADSA25/codec",
     "stars": 108,
-    "updated_at": "2026-09-28T20:13:52Z",
+    "updated_at": "2026-09-28T20:42:31Z",
     "url": "https://github.com/AVADSA25/codec"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-28T17:45:40Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
-    "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
-    "id": "ximing/vital",
-    "language": "TypeScript",
-    "name": "ximing/vital",
-    "stars": 3,
-    "updated_at": "2026-09-28T17:42:08Z",
-    "url": "https://github.com/ximing/vital"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 128,
-    "updated_at": "2026-09-28T17:32:29Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "Private, local-first AI agent: planning, sandboxed tools, four-tier memory, streaming UI and OpenTelemetry \u2014 runs entire",
-    "id": "roydonsequeira/CORTEX-Private-Intelligence-Framework",
-    "language": "Python",
-    "name": "roydonsequeira/CORTEX-Private-Intelligence-Framework",
-    "stars": 2,
-    "updated_at": "2026-09-28T17:25:00Z",
-    "url": "https://github.com/roydonsequeira/CORTEX-Private-Intelligence-Framework"
   }
 ]
