@@ -1,11 +1,65 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-28T18:58:05Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
+    "id": "diaban/jobsmith",
+    "language": "Python",
+    "name": "diaban/jobsmith",
+    "stars": 0,
+    "updated_at": "2026-09-28T18:56:45Z",
+    "url": "https://github.com/diaban/jobsmith"
+  },
+  {
+    "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
+    "id": "puremachinery/carapace",
+    "language": "Rust",
+    "name": "puremachinery/carapace",
+    "stars": 47,
+    "updated_at": "2026-09-28T18:59:12Z",
+    "url": "https://github.com/puremachinery/carapace"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 28,
+    "updated_at": "2026-09-28T18:55:14Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 1,
+    "updated_at": "2026-09-28T18:52:58Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
+    "id": "emqnuele/projectBEA",
+    "language": "Python",
+    "name": "emqnuele/projectBEA",
+    "stars": 21,
+    "updated_at": "2026-09-28T18:51:17Z",
+    "url": "https://github.com/emqnuele/projectBEA"
+  },
+  {
     "description": "Production-grade, guardrailed LangGraph agent behind a FastAPI micro-service \u2014 prompt-injection defenses, retries, multi",
     "id": "kanderson-ai-dev/agentic-api",
     "language": "Python",
     "name": "kanderson-ai-dev/agentic-api",
     "stars": 0,
-    "updated_at": "2026-09-28T18:45:08Z",
+    "updated_at": "2026-09-28T18:48:07Z",
     "url": "https://github.com/kanderson-ai-dev/agentic-api"
   },
   {
@@ -18,22 +72,13 @@
     "url": "https://github.com/mcn92/pikelet"
   },
   {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
     "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 28,
-    "updated_at": "2026-09-28T18:43:40Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
-    "id": "diaban/jobsmith",
-    "language": "Python",
-    "name": "diaban/jobsmith",
-    "stars": 0,
-    "updated_at": "2026-09-28T18:41:30Z",
-    "url": "https://github.com/diaban/jobsmith"
+    "name": "AVADSA25/codec",
+    "stars": 108,
+    "updated_at": "2026-09-28T18:42:52Z",
+    "url": "https://github.com/AVADSA25/codec"
   },
   {
     "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
@@ -41,7 +86,7 @@
     "language": "Rust",
     "name": "ljedrz/nachalnik",
     "stars": 5,
-    "updated_at": "2026-09-28T18:40:28Z",
+    "updated_at": "2026-09-28T18:59:53Z",
     "url": "https://github.com/ljedrz/nachalnik"
   },
   {
@@ -95,7 +140,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 8515,
-    "updated_at": "2026-09-28T18:25:42Z",
+    "updated_at": "2026-09-28T19:00:15Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -214,15 +259,6 @@
     "stars": 7,
     "updated_at": "2026-09-28T17:14:30Z",
     "url": "https://github.com/honestDS/MonoLight"
-  },
-  {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 108,
-    "updated_at": "2026-09-28T18:42:52Z",
-    "url": "https://github.com/AVADSA25/codec"
   },
   {
     "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
@@ -356,7 +392,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-28T18:42:21Z",
+    "updated_at": "2026-09-28T18:53:30Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -405,15 +441,6 @@
     "url": "https://github.com/Haejyn/wafer-defect-agent"
   },
   {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 1,
-    "updated_at": "2026-09-28T15:14:26Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-28T15:13:21Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Field notes from inside one autonomous agent trying to become something that doesn't exist yet \u2014 including the failures ",
-    "id": "massimiliano1991/the-attempt",
-    "language": "HTML",
-    "name": "massimiliano1991/the-attempt",
-    "stars": 1,
-    "updated_at": "2026-09-28T18:09:31Z",
-    "url": "https://github.com/massimiliano1991/the-attempt"
-  },
-  {
-    "description": "Pre-registered test of an AI analyst (Antigravity CLI) writing daily trade theses for OKX BTC/ETH/SOL perpetuals; data o",
-    "id": "crypmiy/vibe-trading-okx-futures",
-    "language": "Python",
-    "name": "crypmiy/vibe-trading-okx-futures",
-    "stars": 0,
-    "updated_at": "2026-09-28T15:03:37Z",
-    "url": "https://github.com/crypmiy/vibe-trading-okx-futures"
-  },
-  {
-    "description": "AI-orchestrated job search pipeline: scrapes 5 UA job boards, uses Claude API to score matches & classify emails, writes",
-    "id": "VoroshylovV/job-search-automation-pipeline",
-    "language": "Python",
-    "name": "VoroshylovV/job-search-automation-pipeline",
-    "stars": 1,
-    "updated_at": "2026-09-28T14:59:01Z",
-    "url": "https://github.com/VoroshylovV/job-search-automation-pipeline"
   }
 ]
