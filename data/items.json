@@ -1,5 +1,59 @@
 [
   {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3468,
+    "updated_at": "2026-09-28T10:13:57Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
+    "description": "AI-orchestrated job search pipeline: scrapes 5 UA job boards, uses Claude API to score matches & classify emails, writes",
+    "id": "VoroshylovV/job-search-automation-pipeline",
+    "language": "Python",
+    "name": "VoroshylovV/job-search-automation-pipeline",
+    "stars": 1,
+    "updated_at": "2026-09-28T10:12:22Z",
+    "url": "https://github.com/VoroshylovV/job-search-automation-pipeline"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 732,
+    "updated_at": "2026-09-28T10:11:03Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 20,
+    "updated_at": "2026-09-28T10:05:19Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "\u4e91\u5f00 Yunkai \u00b7 \u53cc\u7aef\u624b\u673a AI Agent\uff08Android + HarmonyOS NEXT\uff09\uff1aagent loop / \u5c4f\u5e55\u611f\u77e5\u4e0e\u5199\u64cd\u4f5c\u4e09\u5c42\u5b89\u5168 / \u5fc6\u67a2\u8bb0\u5fc6 / \u6280\u80fd\u7cfb\u7edf",
+    "id": "2021291696/yunkai",
+    "language": "Kotlin",
+    "name": "2021291696/yunkai",
+    "stars": 0,
+    "updated_at": "2026-09-28T10:05:12Z",
+    "url": "https://github.com/2021291696/yunkai"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 179,
+    "updated_at": "2026-09-28T10:01:38Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
     "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
     "id": "chunleik/self-analyst",
     "language": "Java",
@@ -18,15 +72,6 @@
     "url": "https://github.com/moralesangel/claimscope"
   },
   {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 20,
-    "updated_at": "2026-09-28T09:55:50Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -36,15 +81,6 @@
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 732,
-    "updated_at": "2026-09-28T10:00:14Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
     "description": "Desktop GUI Headless Local-first AI coding agent in Rust (axum, tokio, rmcp, portable-pty) behind HTTP + SSE, with an An",
     "id": "henrykbrzoska/bebok",
     "language": "Rust",
@@ -52,15 +88,6 @@
     "stars": 5,
     "updated_at": "2026-09-28T09:51:55Z",
     "url": "https://github.com/henrykbrzoska/bebok"
-  },
-  {
-    "description": "AI-orchestrated job search pipeline: scrapes 5 UA job boards, uses Claude API to score matches & classify emails, writes",
-    "id": "VoroshylovV/job-search-automation-pipeline",
-    "language": "Python",
-    "name": "VoroshylovV/job-search-automation-pipeline",
-    "stars": 1,
-    "updated_at": "2026-09-28T09:51:07Z",
-    "url": "https://github.com/VoroshylovV/job-search-automation-pipeline"
   },
   {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
@@ -338,7 +365,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 1,
-    "updated_at": "2026-09-28T08:59:49Z",
+    "updated_at": "2026-09-28T10:13:06Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-28T08:41:59Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Text-to-SQL agent that routes questions with a System One model before an LLM writes the SQL",
-    "id": "JoseVelazcoH/system-one-sql-agent",
-    "language": "TypeScript",
-    "name": "JoseVelazcoH/system-one-sql-agent",
-    "stars": 1,
-    "updated_at": "2026-09-28T08:11:31Z",
-    "url": "https://github.com/JoseVelazcoH/system-one-sql-agent"
-  },
-  {
-    "description": "ACTE\uff1a\u5bf9\u6297\u6848\u4ef6\u7406\u8bba\u673a \u2014\u2014 \u8bc9\u8bbc\u4ee3\u7406\u667a\u80fd\u4f53\u7684\u59ff\u6001\u53c2\u6570\u5316\u4e0e\u4e0d\u53ef\u9006\u52a8\u4f5c\u62a4\u680f\uff08\u8bba\u6587 F1 \u7684\u7b97\u6cd5\u672c\u4f53\uff1a\u5185\u6838 + DSH \u63d2\u4ef6 + \u8bc4\u6d4b harness + \u5f62\u5f0f\u5316\u89c4\u8303\uff09",
-    "id": "TuringArthur/acte-release",
-    "language": "Python",
-    "name": "TuringArthur/acte-release",
-    "stars": 0,
-    "updated_at": "2026-09-28T08:09:08Z",
-    "url": "https://github.com/TuringArthur/acte-release"
-  },
-  {
-    "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
-    "id": "denisotree/veles",
-    "language": "Python",
-    "name": "denisotree/veles",
-    "stars": 4,
-    "updated_at": "2026-09-28T08:08:58Z",
-    "url": "https://github.com/denisotree/veles"
   }
 ]
