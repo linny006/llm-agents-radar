@@ -1,5 +1,68 @@
 [
   {
+    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
+    "id": "diaban/jobsmith",
+    "language": "Python",
+    "name": "diaban/jobsmith",
+    "stars": 0,
+    "updated_at": "2026-09-28T19:44:42Z",
+    "url": "https://github.com/diaban/jobsmith"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4434,
+    "updated_at": "2026-09-28T19:44:40Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
+    "id": "Danisxxx/comfyUI-LongLook",
+    "language": "Python",
+    "name": "Danisxxx/comfyUI-LongLook",
+    "stars": 2,
+    "updated_at": "2026-09-28T19:41:31Z",
+    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
+  },
+  {
+    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
+    "id": "axxafo/awesome-agent-benchmarks",
+    "language": "\u2014",
+    "name": "axxafo/awesome-agent-benchmarks",
+    "stars": 4,
+    "updated_at": "2026-09-28T19:40:39Z",
+    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
+  },
+  {
+    "description": "AI-native statistics workbench that runs locally: SPSS/Stata/Excel data with labels, a deterministic statistics engine, ",
+    "id": "damndone/Arboris",
+    "language": "Python",
+    "name": "damndone/Arboris",
+    "stars": 1,
+    "updated_at": "2026-09-28T19:40:08Z",
+    "url": "https://github.com/damndone/Arboris"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 10,
+    "updated_at": "2026-09-28T19:32:58Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-28T19:40:56Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -16,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-09-28T19:28:21Z",
     "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-28T19:27:55Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "LLM \u6570\u636e\u5206\u6790\u5de5\u4f5c\u53f0\uff1a\u4e0a\u4f20\u6570\u636e\u96c6\u81ea\u52a8\u5b8c\u6210\u6e05\u6d17\u3001\u7edf\u8ba1\u5206\u6790\u3001\u53ef\u89c6\u5316\u4e0e\u62a5\u544a\uff1b\u53d7\u63a7\u5de5\u5177\u96c6 + \u53ea\u8bfb SQL\uff08SQLite / PostgreSQL\uff09\u00b7 MCP \u6570\u636e\u9762 \u00b7 Plotly + ECharts \u53cc\u5f15\u64ce \u00b7 FastAPI + Reac",
@@ -68,7 +122,7 @@
     "language": "Rust",
     "name": "ljedrz/nachalnik",
     "stars": 5,
-    "updated_at": "2026-09-28T19:15:03Z",
+    "updated_at": "2026-09-28T19:31:35Z",
     "url": "https://github.com/ljedrz/nachalnik"
   },
   {
@@ -77,7 +131,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-28T19:21:55Z",
+    "updated_at": "2026-09-28T19:44:09Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -97,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-09-28T19:11:51Z",
     "url": "https://github.com/WP2-Danikusuma/AgentX"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4434,
-    "updated_at": "2026-09-28T19:19:31Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "An agentic OBD-II scanner that never makes anything up. Bring your own model, read every module on the bus, and click an",
@@ -133,15 +178,6 @@
     "stars": 25,
     "updated_at": "2026-09-28T19:03:09Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
-    "id": "diaban/jobsmith",
-    "language": "Python",
-    "name": "diaban/jobsmith",
-    "stars": 0,
-    "updated_at": "2026-09-28T18:56:45Z",
-    "url": "https://github.com/diaban/jobsmith"
   },
   {
     "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
@@ -268,15 +304,6 @@
     "stars": 14,
     "updated_at": "2026-09-28T19:02:29Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 10,
-    "updated_at": "2026-09-28T18:08:41Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
     "description": "\u5e26\u7b56\u7565\u9a8c\u8bc1\u7684 A \u80a1 LLM \u5206\u6790\u7cfb\u7edf \u2014\u2014 \u591a\u6e90\u964d\u7ea7 + \u5b9a\u65f6\u4efb\u52a1 + \u591a\u901a\u9053\u63a8\u9001\uff1b\u6838\u5fc3\u589e\u91cf\u662f\u53ef\u8bc1\u4f2a\u7684\u56de\u6d4b\u4e0e\u9a8c\u8bc1\u5c42\uff08\u672a\u6765\u51fd\u6570\u63a2\u6d4b / \u6837\u672c\u5185\u5916\u5207\u5206 / t\u68c0\u9a8c / \u57fa\u51c6\u5bf9\u6bd4\uff09",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-28T16:12:32Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "DeepSeek Harness \u6781\u7b80 PTC \u9884\u8bbe\uff1a\u7b80\u6d01\u63d0\u793a\u8bcd\u3001run_code \u5de5\u5177\u7f16\u6392\u3001\u5b8c\u6574\u63d2\u4ef6\u5de5\u5177\uff0c\u4ee5\u53ca Windows Git Bash \u548c\u6301\u4e45 PowerShell\u3002",
-    "id": "STARDUSTLC666/dsh-minimal-ptc",
-    "language": "JavaScript",
-    "name": "STARDUSTLC666/dsh-minimal-ptc",
-    "stars": 1,
-    "updated_at": "2026-09-28T16:09:55Z",
-    "url": "https://github.com/STARDUSTLC666/dsh-minimal-ptc"
-  },
-  {
-    "description": "A game-agnostic LLM agent runtime for autonomous NPCs, with Stardew Valley as the first real-world adapter.",
-    "id": "zlci7/world-is-agent",
-    "language": "Go",
-    "name": "zlci7/world-is-agent",
-    "stars": 0,
-    "updated_at": "2026-09-28T15:59:20Z",
-    "url": "https://github.com/zlci7/world-is-agent"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-09-28T15:59:19Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   }
 ]
