@@ -1,5 +1,68 @@
 [
   {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-09-28T04:56:15Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
+    "id": "wufufu770/d2d",
+    "language": "JavaScript",
+    "name": "wufufu770/d2d",
+    "stars": 3,
+    "updated_at": "2026-09-28T04:55:48Z",
+    "url": "https://github.com/wufufu770/d2d"
+  },
+  {
+    "description": "Open-source AIMO3 math reasoning agent for vLLM and OpenAI-compatible models, with Python verification and consensus vot",
+    "id": "xufenghe/aimo3-agentic-inference",
+    "language": "Python",
+    "name": "xufenghe/aimo3-agentic-inference",
+    "stars": 0,
+    "updated_at": "2026-09-28T04:53:26Z",
+    "url": "https://github.com/xufenghe/aimo3-agentic-inference"
+  },
+  {
+    "description": "Multi-agent LLM investment committee that actually trades: AI seats debate, a CIO adopts one, 17 fail-closed risk gates ",
+    "id": "0xethanq/astra-quant-agent",
+    "language": "Python",
+    "name": "0xethanq/astra-quant-agent",
+    "stars": 263,
+    "updated_at": "2026-09-28T04:53:23Z",
+    "url": "https://github.com/0xethanq/astra-quant-agent"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-28T04:58:42Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Autonomous coding agent \u2014 a sentence in, a validated app out. Resilience stack with operational gates, completeness CRIT",
+    "id": "mtecnic/cadillac",
+    "language": "Python",
+    "name": "mtecnic/cadillac",
+    "stars": 3,
+    "updated_at": "2026-09-28T04:48:10Z",
+    "url": "https://github.com/mtecnic/cadillac"
+  },
+  {
+    "description": "Recoverable single coding agent for bounded repository repair",
+    "id": "woojune511/patchloop-agent",
+    "language": "Python",
+    "name": "woojune511/patchloop-agent",
+    "stars": 0,
+    "updated_at": "2026-09-28T04:43:24Z",
+    "url": "https://github.com/woojune511/patchloop-agent"
+  },
+  {
     "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
     "id": "jack-h-park/pm-intelligence-engine",
     "language": "Python",
@@ -14,7 +77,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-28T04:43:52Z",
+    "updated_at": "2026-09-28T04:46:48Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -25,15 +88,6 @@
     "stars": 20,
     "updated_at": "2026-09-28T04:35:49Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-28T04:33:54Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Pre-registered test of an AI analyst (Antigravity CLI) writing daily trade theses for OKX BTC/ETH/SOL perpetuals; data o",
@@ -50,7 +104,7 @@
     "language": "Go",
     "name": "anatolykoptev/quarryn",
     "stars": 0,
-    "updated_at": "2026-09-28T04:28:08Z",
+    "updated_at": "2026-09-28T04:54:35Z",
     "url": "https://github.com/anatolykoptev/quarryn"
   },
   {
@@ -59,7 +113,7 @@
     "language": "Python",
     "name": "weihuaguo270-ops/react-agent",
     "stars": 0,
-    "updated_at": "2026-09-28T04:27:22Z",
+    "updated_at": "2026-09-28T04:49:53Z",
     "url": "https://github.com/weihuaguo270-ops/react-agent"
   },
   {
@@ -95,7 +149,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 18,
-    "updated_at": "2026-09-28T04:33:42Z",
+    "updated_at": "2026-09-28T04:59:20Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -115,15 +169,6 @@
     "stars": 6059,
     "updated_at": "2026-09-28T04:19:36Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-09-28T04:15:49Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Build and run agents you can see, understand and trust.",
@@ -387,15 +432,6 @@
     "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
   },
   {
-    "description": "Multi-agent LLM investment committee that actually trades: AI seats debate, a CIO adopts one, 17 fail-closed risk gates ",
-    "id": "0xethanq/astra-quant-agent",
-    "language": "Python",
-    "name": "0xethanq/astra-quant-agent",
-    "stars": 263,
-    "updated_at": "2026-09-28T03:31:19Z",
-    "url": "https://github.com/0xethanq/astra-quant-agent"
-  },
-  {
     "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
     "id": "hasting323/AutoGLM-For-Android",
     "language": "Kotlin",
@@ -412,41 +448,5 @@
     "stars": 9,
     "updated_at": "2026-09-28T03:28:20Z",
     "url": "https://github.com/1837620622/agent-bypass"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-09-28T03:27:33Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-09-28T03:26:05Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
-    "id": "puremachinery/carapace",
-    "language": "Rust",
-    "name": "puremachinery/carapace",
-    "stars": 47,
-    "updated_at": "2026-09-28T04:12:43Z",
-    "url": "https://github.com/puremachinery/carapace"
-  },
-  {
-    "description": "\u300a\u8be1\u79d8\u4e16\u754c\u300b\u00b7 World of Mysteries \u2014 \u672c\u5730\u4f18\u5148\u7684\u5355\u4eba\u6301\u4e45\u4e16\u754c\u6f14\u7ece\u5e94\u7528\uff1aSwiftUI macOS 26+ \u5ba2\u6237\u7aef + \u72ec\u7acb Local Engine\uff08Python 3.14 + AgentScope 2.0.8\uff09+ SQ",
-    "id": "hrygo/WorldofMysteries",
-    "language": "Python",
-    "name": "hrygo/WorldofMysteries",
-    "stars": 0,
-    "updated_at": "2026-09-28T03:14:06Z",
-    "url": "https://github.com/hrygo/WorldofMysteries"
   }
 ]
