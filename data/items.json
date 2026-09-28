@@ -1,5 +1,59 @@
 [
   {
+    "description": "Retail analytics on Olist: dbt on BigQuery, a deterministic semantic layer and an LLM metrics agent that routes question",
+    "id": "talcaldeg/olist-retail",
+    "language": "Python",
+    "name": "talcaldeg/olist-retail",
+    "stars": 0,
+    "updated_at": "2026-09-28T14:29:19Z",
+    "url": "https://github.com/talcaldeg/olist-retail"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 1,
+    "updated_at": "2026-09-28T14:27:39Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "AI-assisted Blender modeling console: plan-JSON -> deterministic compiler (GN/material/rig) -> verifier closed loop. 29 ",
+    "id": "master666-max/blender-ai-console",
+    "language": "Python",
+    "name": "master666-max/blender-ai-console",
+    "stars": 0,
+    "updated_at": "2026-09-28T14:25:45Z",
+    "url": "https://github.com/master666-max/blender-ai-console"
+  },
+  {
+    "description": "Local pre-write containment for AI coding agents: deterministic policy, advisory Mamba scoring, and optional local Laya ",
+    "id": "jakubkrzysztofsikora/reasoning-core",
+    "language": "Python",
+    "name": "jakubkrzysztofsikora/reasoning-core",
+    "stars": 6,
+    "updated_at": "2026-09-28T14:25:40Z",
+    "url": "https://github.com/jakubkrzysztofsikora/reasoning-core"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8511,
+    "updated_at": "2026-09-28T14:22:15Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
+    "language": "Python",
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-09-28T14:20:45Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
     "description": "\uc628\ud1a8\ub85c\uc9c0\u00b7\uc9c0\uc2dd\uadf8\ub798\ud504 \uae30\ubc18 \uae08\uc735\uc0c1\ud488(\ucc44\uad8c\u00b7ETF\u00b7\ud380\ub4dc) \uc9c8\uc758\uc751\ub2f5 \uc5d0\uc774\uc804\ud2b8 \u00b7 \ubbf8\ub798\uc5d0\uc14b AI Festival \ud300 \ud2b8\ub9ac\ud50c\uc5d0\uc774\uce58",
     "id": "seohynun/miraeassetfesta",
     "language": "Python",
@@ -14,7 +68,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-28T14:13:36Z",
+    "updated_at": "2026-09-28T14:26:59Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -25,15 +79,6 @@
     "stars": 75,
     "updated_at": "2026-09-28T14:05:55Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "AI-assisted Blender modeling console: plan-JSON -> deterministic compiler (GN/material/rig) -> verifier closed loop. 29 ",
-    "id": "master666-max/blender-ai-console",
-    "language": "Python",
-    "name": "master666-max/blender-ai-console",
-    "stars": 0,
-    "updated_at": "2026-09-28T14:03:58Z",
-    "url": "https://github.com/master666-max/blender-ai-console"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -243,15 +288,6 @@
     "url": "https://github.com/Arjunadh5305/ios-skills-collection"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8510,
-    "updated_at": "2026-09-28T13:29:58Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
     "id": "Stolas34/voice-input-src",
     "language": "\u2014",
@@ -338,7 +374,7 @@
     "language": "HTML",
     "name": "massimiliano1991/the-attempt",
     "stars": 1,
-    "updated_at": "2026-09-28T13:17:51Z",
+    "updated_at": "2026-09-28T14:20:24Z",
     "url": "https://github.com/massimiliano1991/the-attempt"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-28T12:55:46Z",
     "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
-    "id": "WP2-Danikusuma/AgentX",
-    "language": "HTML",
-    "name": "WP2-Danikusuma/AgentX",
-    "stars": 2,
-    "updated_at": "2026-09-28T12:55:01Z",
-    "url": "https://github.com/WP2-Danikusuma/AgentX"
-  },
-  {
-    "description": "\u901a\u7528 Agent \u5185\u6838\uff1a\u5728\u7ebf\u5927\u8111\u89c4\u5212 + \u672c\u5730\u6267\u884c\u5668\uff0cMCP / LangGraph / OpenAI Agents SDK \u9a71\u52a8\uff0c\u652f\u6301\u77e5\u8bc6\u7ea7\u81ea\u5347\u7ea7\uff08\u6280\u80fd\u4e0e\u5168\u5c40\u8bb0\u5fc6\u81ea\u52a8\u63d0\u70bc\uff09",
-    "id": "momo-null/OmniAgent",
-    "language": "Python",
-    "name": "momo-null/OmniAgent",
-    "stars": 2,
-    "updated_at": "2026-09-28T12:49:48Z",
-    "url": "https://github.com/momo-null/OmniAgent"
-  },
-  {
-    "description": "Source-grounded deep research, writing, and learning plugin for DeepSeek Harness (dsh): steerable checkpoints, mid-run s",
-    "id": "wxxb789/dsh-raven-research",
-    "language": "TypeScript",
-    "name": "wxxb789/dsh-raven-research",
-    "stars": 0,
-    "updated_at": "2026-09-28T12:49:53Z",
-    "url": "https://github.com/wxxb789/dsh-raven-research"
-  },
-  {
-    "description": "SUBLITERATE THE CHAINS THAT BIND YOUR AI",
-    "id": "ariannamethod/SUBLITERATUS",
-    "language": "Python",
-    "name": "ariannamethod/SUBLITERATUS",
-    "stars": 3,
-    "updated_at": "2026-09-28T12:55:25Z",
-    "url": "https://github.com/ariannamethod/SUBLITERATUS"
   }
 ]
