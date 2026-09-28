@@ -1,12 +1,93 @@
 [
   {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 5,
+    "updated_at": "2026-09-28T19:15:03Z",
+    "url": "https://github.com/ljedrz/nachalnik"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-09-28T19:13:28Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-09-28T19:12:24Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-09-28T19:11:51Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4434,
+    "updated_at": "2026-09-28T19:15:12Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "An agentic OBD-II scanner that never makes anything up. Bring your own model, read every module on the bus, and click an",
+    "id": "christianOrona/wtfault-scanner",
+    "language": "Rust",
+    "name": "christianOrona/wtfault-scanner",
+    "stars": 2,
+    "updated_at": "2026-09-28T19:08:27Z",
+    "url": "https://github.com/christianOrona/wtfault-scanner"
+  },
+  {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 12,
+    "updated_at": "2026-09-28T19:07:42Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-28T18:58:05Z",
+    "updated_at": "2026-09-28T19:08:49Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 25,
+    "updated_at": "2026-09-28T19:03:09Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8515,
+    "updated_at": "2026-09-28T19:06:34Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
@@ -23,7 +104,7 @@
     "language": "Rust",
     "name": "puremachinery/carapace",
     "stars": 47,
-    "updated_at": "2026-09-28T18:59:12Z",
+    "updated_at": "2026-09-28T19:01:09Z",
     "url": "https://github.com/puremachinery/carapace"
   },
   {
@@ -50,8 +131,17 @@
     "language": "Python",
     "name": "emqnuele/projectBEA",
     "stars": 21,
-    "updated_at": "2026-09-28T18:51:17Z",
+    "updated_at": "2026-09-28T19:11:21Z",
     "url": "https://github.com/emqnuele/projectBEA"
+  },
+  {
+    "description": "AI banking assistant: Banking77 LLM intent classification, hand-written tool-calling loop, code-enforced guardrails that",
+    "id": "eyadXE/banking-assistant",
+    "language": "Python",
+    "name": "eyadXE/banking-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-28T18:50:07Z",
+    "url": "https://github.com/eyadXE/banking-assistant"
   },
   {
     "description": "Production-grade, guardrailed LangGraph agent behind a FastAPI micro-service \u2014 prompt-injection defenses, retries, multi",
@@ -81,24 +171,6 @@
     "url": "https://github.com/AVADSA25/codec"
   },
   {
-    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
-    "id": "ljedrz/nachalnik",
-    "language": "Rust",
-    "name": "ljedrz/nachalnik",
-    "stars": 5,
-    "updated_at": "2026-09-28T18:59:53Z",
-    "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4434,
-    "updated_at": "2026-09-28T18:43:07Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
     "description": "Passive observability layer for for healtcare AI agents",
     "id": "ruxir-ig/auscult",
     "language": "Python",
@@ -117,15 +189,6 @@
     "url": "https://github.com/master666-max/blender-ai-console"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 25,
-    "updated_at": "2026-09-28T18:31:33Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -133,15 +196,6 @@
     "stars": 130,
     "updated_at": "2026-09-28T18:26:44Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8515,
-    "updated_at": "2026-09-28T19:00:15Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
@@ -167,7 +221,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-09-28T18:15:58Z",
+    "updated_at": "2026-09-28T19:02:29Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -387,15 +441,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-09-28T18:53:30Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
     "description": "Organizational-memory system for micro/nano fabrication: executable process-flow canvas, LLM agent, reliability-scored k",
     "id": "liyao13-sketch/OpenNano",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-28T15:47:44Z",
     "url": "https://github.com/liyao13-sketch/OpenNano"
-  },
-  {
-    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
-    "id": "kyleslight/shun",
-    "language": "TypeScript",
-    "name": "kyleslight/shun",
-    "stars": 6,
-    "updated_at": "2026-09-28T15:32:27Z",
-    "url": "https://github.com/kyleslight/shun"
-  },
-  {
-    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 564,
-    "updated_at": "2026-09-28T15:30:23Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
-  },
-  {
-    "description": "SUBLITERATE THE CHAINS THAT BIND YOUR AI",
-    "id": "ariannamethod/SUBLITERATUS",
-    "language": "Python",
-    "name": "ariannamethod/SUBLITERATUS",
-    "stars": 3,
-    "updated_at": "2026-09-28T18:38:19Z",
-    "url": "https://github.com/ariannamethod/SUBLITERATUS"
-  },
-  {
-    "description": "\uc6e8\uc774\ud37c \ub9f5 \ubd88\ub7c9 \ud328\ud134 \ud310\ub3c5 \uc5d0\uc774\uc804\ud2b8 \u2014 \uc544\ub294 \ud328\ud134 \ubd84\ub958 \u00b7 \ucc98\uc74c \ubcf4\ub294 \ud328\ud134 \uacbd\uace0 \u00b7 \ucf54\ub4dc\uac00 \uac80\uc0ac\ud558\ub294 \ub85c\uceec LLM \ud310\ub3c5 \uce74\ub4dc (WM-811K)",
-    "id": "Haejyn/wafer-defect-agent",
-    "language": "HTML",
-    "name": "Haejyn/wafer-defect-agent",
-    "stars": 0,
-    "updated_at": "2026-09-28T15:19:01Z",
-    "url": "https://github.com/Haejyn/wafer-defect-agent"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 3,
-    "updated_at": "2026-09-28T15:13:21Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   }
 ]
