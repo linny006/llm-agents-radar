@@ -1,12 +1,75 @@
 [
   {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 5,
+    "updated_at": "2026-09-28T17:44:48Z",
+    "url": "https://github.com/ljedrz/nachalnik"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 10,
+    "updated_at": "2026-09-28T17:42:58Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
+    "id": "ximing/vital",
+    "language": "TypeScript",
+    "name": "ximing/vital",
+    "stars": 3,
+    "updated_at": "2026-09-28T17:42:08Z",
+    "url": "https://github.com/ximing/vital"
+  },
+  {
     "description": "AI-assisted Blender modeling console: plan-JSON -> deterministic compiler (GN/material/rig) -> verifier closed loop. 29 ",
     "id": "master666-max/blender-ai-console",
     "language": "Python",
     "name": "master666-max/blender-ai-console",
     "stars": 0,
-    "updated_at": "2026-09-28T17:28:11Z",
+    "updated_at": "2026-09-28T17:36:43Z",
     "url": "https://github.com/master666-max/blender-ai-console"
+  },
+  {
+    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
+    "id": "diaban/jobsmith",
+    "language": "Python",
+    "name": "diaban/jobsmith",
+    "stars": 0,
+    "updated_at": "2026-09-28T17:36:14Z",
+    "url": "https://github.com/diaban/jobsmith"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 128,
+    "updated_at": "2026-09-28T17:32:29Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
+    "id": "wufufu770/d2d",
+    "language": "JavaScript",
+    "name": "wufufu770/d2d",
+    "stars": 3,
+    "updated_at": "2026-09-28T17:32:18Z",
+    "url": "https://github.com/wufufu770/d2d"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 811,
+    "updated_at": "2026-09-28T17:30:32Z",
+    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "Private, local-first AI agent: planning, sandboxed tools, four-tier memory, streaming UI and OpenTelemetry \u2014 runs entire",
@@ -18,21 +81,12 @@
     "url": "https://github.com/roydonsequeira/CORTEX-Private-Intelligence-Framework"
   },
   {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 10,
-    "updated_at": "2026-09-28T17:21:26Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
     "description": "An observability-driven text-only core for coordinating ephemeral LLM agents",
     "id": "genaforvena/mishe-tauftauf",
     "language": "Python",
     "name": "genaforvena/mishe-tauftauf",
     "stars": 1,
-    "updated_at": "2026-09-28T17:15:22Z",
+    "updated_at": "2026-09-28T17:44:32Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
@@ -50,7 +104,7 @@
     "language": "Python",
     "name": "AVADSA25/codec",
     "stars": 108,
-    "updated_at": "2026-09-28T17:06:24Z",
+    "updated_at": "2026-09-28T17:38:57Z",
     "url": "https://github.com/AVADSA25/codec"
   },
   {
@@ -59,7 +113,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 8513,
-    "updated_at": "2026-09-28T17:05:32Z",
+    "updated_at": "2026-09-28T17:30:51Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -108,15 +162,6 @@
     "url": "https://github.com/Lyz103/LLM-Agent-Paper-daily"
   },
   {
-    "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
-    "id": "ximing/vital",
-    "language": "TypeScript",
-    "name": "ximing/vital",
-    "stars": 3,
-    "updated_at": "2026-09-28T16:31:43Z",
-    "url": "https://github.com/ximing/vital"
-  },
-  {
     "description": "Easy-to-use, customizable, high-quality secure code review skills for AI agents.",
     "id": "ivan-sincek/secure-code-review-agent-skills",
     "language": "\u2014",
@@ -140,7 +185,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4435,
-    "updated_at": "2026-09-28T17:28:59Z",
+    "updated_at": "2026-09-28T17:45:19Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -221,7 +266,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-28T15:48:54Z",
+    "updated_at": "2026-09-28T17:36:20Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -315,15 +360,6 @@
     "url": "https://github.com/massimiliano1991/the-attempt"
   },
   {
-    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
-    "id": "ljedrz/nachalnik",
-    "language": "Rust",
-    "name": "ljedrz/nachalnik",
-    "stars": 5,
-    "updated_at": "2026-09-28T17:17:45Z",
-    "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
     "description": "Pre-registered test of an AI analyst (Antigravity CLI) writing daily trade theses for OKX BTC/ETH/SOL perpetuals; data o",
     "id": "crypmiy/vibe-trading-okx-futures",
     "language": "Python",
@@ -365,7 +401,7 @@
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 276,
-    "updated_at": "2026-09-28T16:33:28Z",
+    "updated_at": "2026-09-28T17:41:02Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-28T14:20:45Z",
     "url": "https://github.com/rohithkandula19/Ronin"
-  },
-  {
-    "description": "\uc628\ud1a8\ub85c\uc9c0\u00b7\uc9c0\uc2dd\uadf8\ub798\ud504 \uae30\ubc18 \uae08\uc735\uc0c1\ud488(\ucc44\uad8c\u00b7ETF\u00b7\ud380\ub4dc) \uc9c8\uc758\uc751\ub2f5 \uc5d0\uc774\uc804\ud2b8 \u00b7 \ubbf8\ub798\uc5d0\uc14b AI Festival \ud300 \ud2b8\ub9ac\ud50c\uc5d0\uc774\uce58",
-    "id": "seohynun/miraeassetfesta",
-    "language": "Python",
-    "name": "seohynun/miraeassetfesta",
-    "stars": 0,
-    "updated_at": "2026-09-28T14:08:51Z",
-    "url": "https://github.com/seohynun/miraeassetfesta"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 75,
-    "updated_at": "2026-09-28T14:05:55Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
-    "id": "QQSHI13/fox-agent",
-    "language": "TypeScript",
-    "name": "QQSHI13/fox-agent",
-    "stars": 2,
-    "updated_at": "2026-09-28T13:51:54Z",
-    "url": "https://github.com/QQSHI13/fox-agent"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-09-28T13:48:41Z",
-    "url": "https://github.com/SashaEee/auditLens"
   }
 ]
