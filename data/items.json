@@ -1,12 +1,30 @@
 [
   {
-    "description": "Vector search that ships as a file. Compile a corpus into one self-contained, hash-verified .pikelet \u2014 search it anywher",
-    "id": "mcn92/pikelet",
-    "language": "JavaScript",
-    "name": "mcn92/pikelet",
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-09-28T06:14:18Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Agent-native product search: multi-source scrape \u2192 deterministic constraints \u2192 LLM match \u2192 price watches + order trackin",
+    "id": "anatolykoptev/quarryn",
+    "language": "Go",
+    "name": "anatolykoptev/quarryn",
+    "stars": 0,
+    "updated_at": "2026-09-28T06:11:04Z",
+    "url": "https://github.com/anatolykoptev/quarryn"
+  },
+  {
+    "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
+    "id": "ximing/vital",
+    "language": "TypeScript",
+    "name": "ximing/vital",
     "stars": 2,
-    "updated_at": "2026-09-28T05:59:50Z",
-    "url": "https://github.com/mcn92/pikelet"
+    "updated_at": "2026-09-28T06:10:16Z",
+    "url": "https://github.com/ximing/vital"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -14,8 +32,62 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-09-28T05:59:00Z",
+    "updated_at": "2026-09-28T06:14:33Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-09-28T06:09:37Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
+    "id": "weihuaguo270-ops/react-agent",
+    "language": "Python",
+    "name": "weihuaguo270-ops/react-agent",
+    "stars": 0,
+    "updated_at": "2026-09-28T06:12:31Z",
+    "url": "https://github.com/weihuaguo270-ops/react-agent"
+  },
+  {
+    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
+    "id": "karvidsson/kbots",
+    "language": "Python",
+    "name": "karvidsson/kbots",
+    "stars": 1,
+    "updated_at": "2026-09-28T06:10:39Z",
+    "url": "https://github.com/karvidsson/kbots"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 4,
+    "updated_at": "2026-09-28T06:01:10Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-28T06:14:53Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Vector search that ships as a file. Compile a corpus into one self-contained, hash-verified .pikelet \u2014 search it anywher",
+    "id": "mcn92/pikelet",
+    "language": "JavaScript",
+    "name": "mcn92/pikelet",
+    "stars": 2,
+    "updated_at": "2026-09-28T05:59:50Z",
+    "url": "https://github.com/mcn92/pikelet"
   },
   {
     "description": "Local-first long-term memory and safer context compression for Hermes Agent \u2014 SQLite, no required services.",
@@ -32,7 +104,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 18,
-    "updated_at": "2026-09-28T05:59:35Z",
+    "updated_at": "2026-09-28T06:13:12Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -189,15 +261,6 @@
     "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-28T06:00:12Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
     "id": "Samuelcluttered613/paper2code",
     "language": "Python",
@@ -223,15 +286,6 @@
     "stars": 3,
     "updated_at": "2026-09-28T05:35:34Z",
     "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "Agent-native product search: multi-source scrape \u2192 deterministic constraints \u2192 LLM match \u2192 price watches + order trackin",
-    "id": "anatolykoptev/quarryn",
-    "language": "Go",
-    "name": "anatolykoptev/quarryn",
-    "stars": 0,
-    "updated_at": "2026-09-28T05:59:29Z",
-    "url": "https://github.com/anatolykoptev/quarryn"
   },
   {
     "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
@@ -324,15 +378,6 @@
     "url": "https://github.com/TomKoren1/dave.io_home-assignment"
   },
   {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 4,
-    "updated_at": "2026-09-28T05:24:37Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
     "id": "SuperdeMan/cockpit-agent",
     "language": "Python",
@@ -400,53 +445,8 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 32476,
+    "stars": 32479,
     "updated_at": "2026-09-28T05:08:36Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "Autonomous Rust ground station for MAVLink drones powered by LLM agents and MCP microservices.",
-    "id": "Yusufibin/drone-explorer-rs",
-    "language": "Rust",
-    "name": "Yusufibin/drone-explorer-rs",
-    "stars": 0,
-    "updated_at": "2026-09-28T05:01:08Z",
-    "url": "https://github.com/Yusufibin/drone-explorer-rs"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 353,
-    "updated_at": "2026-09-28T05:00:53Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-09-28T04:56:15Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
-    "id": "wufufu770/d2d",
-    "language": "JavaScript",
-    "name": "wufufu770/d2d",
-    "stars": 3,
-    "updated_at": "2026-09-28T04:55:48Z",
-    "url": "https://github.com/wufufu770/d2d"
-  },
-  {
-    "description": "Open-source AIMO3 math reasoning agent for vLLM and OpenAI-compatible models, with Python verification and consensus vot",
-    "id": "xufenghe/aimo3-agentic-inference",
-    "language": "Python",
-    "name": "xufenghe/aimo3-agentic-inference",
-    "stars": 0,
-    "updated_at": "2026-09-28T04:53:26Z",
-    "url": "https://github.com/xufenghe/aimo3-agentic-inference"
   }
 ]
