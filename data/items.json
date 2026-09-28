@@ -1,21 +1,84 @@
 [
   {
-    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
-    "id": "ljedrz/nachalnik",
-    "language": "Rust",
-    "name": "ljedrz/nachalnik",
-    "stars": 5,
-    "updated_at": "2026-09-28T17:44:48Z",
-    "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
     "description": "An autopoiesic kefir for computing machines",
     "id": "genaforvena/lte-workstation",
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 10,
-    "updated_at": "2026-09-28T17:42:58Z",
+    "updated_at": "2026-09-28T17:59:57Z",
     "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "AI-assisted Blender modeling console: plan-JSON -> deterministic compiler (GN/material/rig) -> verifier closed loop. 29 ",
+    "id": "master666-max/blender-ai-console",
+    "language": "Python",
+    "name": "master666-max/blender-ai-console",
+    "stars": 0,
+    "updated_at": "2026-09-28T17:53:58Z",
+    "url": "https://github.com/master666-max/blender-ai-console"
+  },
+  {
+    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
+    "id": "diaban/jobsmith",
+    "language": "Python",
+    "name": "diaban/jobsmith",
+    "stars": 0,
+    "updated_at": "2026-09-28T17:51:57Z",
+    "url": "https://github.com/diaban/jobsmith"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4435,
+    "updated_at": "2026-09-28T17:54:13Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "\u5e26\u7b56\u7565\u9a8c\u8bc1\u7684 A \u80a1 LLM \u5206\u6790\u7cfb\u7edf \u2014\u2014 \u591a\u6e90\u964d\u7ea7 + \u5b9a\u65f6\u4efb\u52a1 + \u591a\u901a\u9053\u63a8\u9001\uff1b\u6838\u5fc3\u589e\u91cf\u662f\u53ef\u8bc1\u4f2a\u7684\u56de\u6d4b\u4e0e\u9a8c\u8bc1\u5c42\uff08\u672a\u6765\u51fd\u6570\u63a2\u6d4b / \u6837\u672c\u5185\u5916\u5207\u5206 / t\u68c0\u9a8c / \u57fa\u51c6\u5bf9\u6bd4\uff09",
+    "id": "AandBorC/dsa-lite",
+    "language": "Python",
+    "name": "AandBorC/dsa-lite",
+    "stars": 0,
+    "updated_at": "2026-09-28T17:50:21Z",
+    "url": "https://github.com/AandBorC/dsa-lite"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-09-28T17:52:22Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "\u4e91\u5f00 Yunkai \u00b7 \u672c\u5730\u624b\u673a AI Agent\u2014\u2014\u80fd\u770b\u5c4f\u5e55\u3001\u80fd\u52a8\u624b\u3001\u6709\u957f\u671f\u8bb0\u5fc6\uff0c\u6570\u636e\u5168\u5b58\u672c\u673a\u3002Android + HarmonyOS NEXT \u53cc\u7aef\u539f\u751f\u5b9e\u73b0\u3002A local-first phone AI agent.",
+    "id": "2021291696/yunkai",
+    "language": "Kotlin",
+    "name": "2021291696/yunkai",
+    "stars": 0,
+    "updated_at": "2026-09-28T17:49:25Z",
+    "url": "https://github.com/2021291696/yunkai"
+  },
+  {
+    "description": "An observability-driven text-only core for coordinating ephemeral LLM agents",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 1,
+    "updated_at": "2026-09-28T17:45:40Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 5,
+    "updated_at": "2026-09-28T17:47:54Z",
+    "url": "https://github.com/ljedrz/nachalnik"
   },
   {
     "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
@@ -25,24 +88,6 @@
     "stars": 3,
     "updated_at": "2026-09-28T17:42:08Z",
     "url": "https://github.com/ximing/vital"
-  },
-  {
-    "description": "AI-assisted Blender modeling console: plan-JSON -> deterministic compiler (GN/material/rig) -> verifier closed loop. 29 ",
-    "id": "master666-max/blender-ai-console",
-    "language": "Python",
-    "name": "master666-max/blender-ai-console",
-    "stars": 0,
-    "updated_at": "2026-09-28T17:36:43Z",
-    "url": "https://github.com/master666-max/blender-ai-console"
-  },
-  {
-    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
-    "id": "diaban/jobsmith",
-    "language": "Python",
-    "name": "diaban/jobsmith",
-    "stars": 0,
-    "updated_at": "2026-09-28T17:36:14Z",
-    "url": "https://github.com/diaban/jobsmith"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -63,12 +108,21 @@
     "url": "https://github.com/wufufu770/d2d"
   },
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8514,
+    "updated_at": "2026-09-28T17:30:51Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
     "name": "helixml/helix",
     "stars": 811,
-    "updated_at": "2026-09-28T17:30:32Z",
+    "updated_at": "2026-09-28T17:51:05Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -79,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-09-28T17:25:00Z",
     "url": "https://github.com/roydonsequeira/CORTEX-Private-Intelligence-Framework"
-  },
-  {
-    "description": "An observability-driven text-only core for coordinating ephemeral LLM agents",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 1,
-    "updated_at": "2026-09-28T17:44:32Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
@@ -106,24 +151,6 @@
     "stars": 108,
     "updated_at": "2026-09-28T17:38:57Z",
     "url": "https://github.com/AVADSA25/codec"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8513,
-    "updated_at": "2026-09-28T17:30:51Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-09-28T17:18:53Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
@@ -178,15 +205,6 @@
     "stars": 7,
     "updated_at": "2026-09-28T16:23:22Z",
     "url": "https://github.com/edjafarov/kiagent-core"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4435,
-    "updated_at": "2026-09-28T17:45:19Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Two MIT patches for Nous Research Hermes: stop busy-queue messages merging into one jumbled turn, and optionally run sel",
@@ -266,7 +284,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-28T17:36:20Z",
+    "updated_at": "2026-09-28T17:58:28Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-28T14:29:19Z",
     "url": "https://github.com/talcaldeg/olist-retail"
-  },
-  {
-    "description": "Local pre-write containment for AI coding agents: deterministic policy, advisory Mamba scoring, and optional local Laya ",
-    "id": "jakubkrzysztofsikora/reasoning-core",
-    "language": "Python",
-    "name": "jakubkrzysztofsikora/reasoning-core",
-    "stars": 6,
-    "updated_at": "2026-09-28T14:25:40Z",
-    "url": "https://github.com/jakubkrzysztofsikora/reasoning-core"
-  },
-  {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-09-28T14:20:45Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
   }
 ]
