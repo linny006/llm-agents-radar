@@ -1,11 +1,20 @@
 [
   {
+    "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
+    "id": "DylPorter/claude-telegram",
+    "language": "Python",
+    "name": "DylPorter/claude-telegram",
+    "stars": 1,
+    "updated_at": "2026-09-28T16:58:14Z",
+    "url": "https://github.com/DylPorter/claude-telegram"
+  },
+  {
     "description": "An autopoiesic kefir for computing machines",
     "id": "genaforvena/lte-workstation",
     "language": "Shell",
     "name": "genaforvena/lte-workstation",
     "stars": 10,
-    "updated_at": "2026-09-28T16:42:31Z",
+    "updated_at": "2026-09-28T16:57:26Z",
     "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
@@ -14,26 +23,8 @@
     "language": "Python",
     "name": "xiaomaozjj666/data-analysis-agent",
     "stars": 1,
-    "updated_at": "2026-09-28T16:45:06Z",
+    "updated_at": "2026-09-28T16:54:31Z",
     "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
-  },
-  {
-    "description": "Private, local-first AI agent: planning, sandboxed tools, four-tier memory, streaming UI and OpenTelemetry \u2014 runs entire",
-    "id": "roydonsequeira/CORTEX-Private-Intelligence-Framework",
-    "language": "Python",
-    "name": "roydonsequeira/CORTEX-Private-Intelligence-Framework",
-    "stars": 2,
-    "updated_at": "2026-09-28T16:44:42Z",
-    "url": "https://github.com/roydonsequeira/CORTEX-Private-Intelligence-Framework"
-  },
-  {
-    "description": "AI-assisted Blender modeling console: plan-JSON -> deterministic compiler (GN/material/rig) -> verifier closed loop. 29 ",
-    "id": "master666-max/blender-ai-console",
-    "language": "Python",
-    "name": "master666-max/blender-ai-console",
-    "stars": 0,
-    "updated_at": "2026-09-28T16:35:48Z",
-    "url": "https://github.com/master666-max/blender-ai-console"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -41,8 +32,44 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-09-28T16:33:28Z",
+    "updated_at": "2026-09-28T16:58:54Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "\ud83e\udd16 \u65b0\u4e00\u4ee3\u5f00\u6e90 Chrome \u4fa7\u8fb9\u680f\u81ea\u4e3b AI \u6d4f\u89c8\u5668\u667a\u80fd\u4f53\uff1a\u76ee\u6807\u9a71\u52a8\u3001\u957f\u7a0b\u89c4\u5212\u3001\u89c6\u89c9\u7a7a\u95f4\u611f\u77e5\u4e0e\u7269\u7406\u7ea7\u64cd\u63a7\uff0c\u652f\u6301 DeepSeek \u601d\u8003\u6a21\u578b\u4e0e\u672c\u5730\u79bb\u7ebf LLM (BYOK)",
+    "id": "lusipad/browser-agent",
+    "language": "TypeScript",
+    "name": "lusipad/browser-agent",
+    "stars": 2,
+    "updated_at": "2026-09-28T16:53:39Z",
+    "url": "https://github.com/lusipad/browser-agent"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8512,
+    "updated_at": "2026-09-28T16:51:58Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "AI-assisted Blender modeling console: plan-JSON -> deterministic compiler (GN/material/rig) -> verifier closed loop. 29 ",
+    "id": "master666-max/blender-ai-console",
+    "language": "Python",
+    "name": "master666-max/blender-ai-console",
+    "stars": 0,
+    "updated_at": "2026-09-28T16:51:07Z",
+    "url": "https://github.com/master666-max/blender-ai-console"
+  },
+  {
+    "description": "Private, local-first AI agent: planning, sandboxed tools, four-tier memory, streaming UI and OpenTelemetry \u2014 runs entire",
+    "id": "roydonsequeira/CORTEX-Private-Intelligence-Framework",
+    "language": "Python",
+    "name": "roydonsequeira/CORTEX-Private-Intelligence-Framework",
+    "stars": 2,
+    "updated_at": "2026-09-28T16:58:55Z",
+    "url": "https://github.com/roydonsequeira/CORTEX-Private-Intelligence-Framework"
   },
   {
     "description": "Automatically Update LLM-Agent Papers Daily using Github Actions (Update Every 12th hours)",
@@ -61,15 +88,6 @@
     "stars": 3,
     "updated_at": "2026-09-28T16:31:43Z",
     "url": "https://github.com/ximing/vital"
-  },
-  {
-    "description": "\ud83e\udd16 \u65b0\u4e00\u4ee3\u5f00\u6e90 Chrome \u4fa7\u8fb9\u680f\u81ea\u4e3b AI \u6d4f\u89c8\u5668\u667a\u80fd\u4f53\uff1a\u76ee\u6807\u9a71\u52a8\u3001\u957f\u7a0b\u89c4\u5212\u3001\u89c6\u89c9\u7a7a\u95f4\u611f\u77e5\u4e0e\u7269\u7406\u7ea7\u64cd\u63a7\uff0c\u652f\u6301 DeepSeek \u601d\u8003\u6a21\u578b\u4e0e\u672c\u5730\u79bb\u7ebf LLM (BYOK)",
-    "id": "lusipad/browser-agent",
-    "language": "TypeScript",
-    "name": "lusipad/browser-agent",
-    "stars": 2,
-    "updated_at": "2026-09-28T16:30:43Z",
-    "url": "https://github.com/lusipad/browser-agent"
   },
   {
     "description": "Easy-to-use, customizable, high-quality secure code review skills for AI agents.",
@@ -95,7 +113,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4435,
-    "updated_at": "2026-09-28T16:40:29Z",
+    "updated_at": "2026-09-28T16:53:59Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -169,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-28T15:51:11Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
-    "id": "DylPorter/claude-telegram",
-    "language": "Python",
-    "name": "DylPorter/claude-telegram",
-    "stars": 1,
-    "updated_at": "2026-09-28T15:49:48Z",
-    "url": "https://github.com/DylPorter/claude-telegram"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -340,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-09-28T14:51:31Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8512,
-    "updated_at": "2026-09-28T14:38:06Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Automated research loop that drives WorldQuant BRAIN alphas to all 8 submission gates. Generate, guard, simulate, evalua",
