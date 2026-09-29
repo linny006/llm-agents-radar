@@ -1,12 +1,39 @@
 [
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 738,
-    "updated_at": "2026-09-29T12:59:14Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
+    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
+    "id": "faheela-786/ComfyUI-qwenmultiangle",
+    "language": "\u2014",
+    "name": "faheela-786/ComfyUI-qwenmultiangle",
+    "stars": 2,
+    "updated_at": "2026-09-29T13:12:43Z",
+    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
+  },
+  {
+    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
+    "id": "amineeng/scraping-browser",
+    "language": "\u2014",
+    "name": "amineeng/scraping-browser",
+    "stars": 1,
+    "updated_at": "2026-09-29T13:11:15Z",
+    "url": "https://github.com/amineeng/scraping-browser"
+  },
+  {
+    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
+    "id": "Saran1536/ComfyUI-LoaderUtils",
+    "language": "Python",
+    "name": "Saran1536/ComfyUI-LoaderUtils",
+    "stars": 0,
+    "updated_at": "2026-09-29T13:08:37Z",
+    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-09-29T13:07:08Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
   },
   {
     "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
@@ -14,8 +41,26 @@
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 216,
-    "updated_at": "2026-09-29T12:58:32Z",
+    "updated_at": "2026-09-29T13:07:03Z",
     "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "Personal agents at 1/1000 the cost. A VM-less personal agent on Cloudflare: WeChat, Telegram, web, email, cloud browser.",
+    "id": "AaronWong1999/museinst",
+    "language": "TypeScript",
+    "name": "AaronWong1999/museinst",
+    "stars": 1,
+    "updated_at": "2026-09-29T13:00:18Z",
+    "url": "https://github.com/AaronWong1999/museinst"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 738,
+    "updated_at": "2026-09-29T13:09:40Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "All-in-one agent harness for OpenAI Codex CLI \u2014 Boss meta-orchestrator, 17 curated agents (+17 opt-in AI specialists), 1",
@@ -23,7 +68,7 @@
     "language": "Shell",
     "name": "sehoon787/my-codex",
     "stars": 29,
-    "updated_at": "2026-09-29T12:57:45Z",
+    "updated_at": "2026-09-29T13:12:45Z",
     "url": "https://github.com/sehoon787/my-codex"
   },
   {
@@ -160,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-09-29T12:28:35Z",
     "url": "https://github.com/massimiliano1991/the-attempt"
-  },
-  {
-    "description": "Personal agents at 1/1000 the cost. A VM-less personal agent on Cloudflare: WeChat, Telegram, web, email, cloud browser.",
-    "id": "AaronWong1999/museinst",
-    "language": "TypeScript",
-    "name": "AaronWong1999/museinst",
-    "stars": 1,
-    "updated_at": "2026-09-29T13:00:18Z",
-    "url": "https://github.com/AaronWong1999/museinst"
   },
   {
     "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
@@ -347,7 +383,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 1,
-    "updated_at": "2026-09-29T11:07:33Z",
+    "updated_at": "2026-09-29T13:07:38Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-29T10:46:44Z",
     "url": "https://github.com/juin20260102-oss/aigc-competitor-agent"
-  },
-  {
-    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 565,
-    "updated_at": "2026-09-29T10:41:19Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
-  },
-  {
-    "description": "LLM-guided model compression search framework comparing agentic decision-making with TPE, NSGA-II, and Random Search acr",
-    "id": "clairechien0627/Green_AI_Compression_Orchestrator",
-    "language": "Jupyter Notebook",
-    "name": "clairechien0627/Green_AI_Compression_Orchestrator",
-    "stars": 0,
-    "updated_at": "2026-09-29T10:38:33Z",
-    "url": "https://github.com/clairechien0627/Green_AI_Compression_Orchestrator"
-  },
-  {
-    "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
-    "id": "roxm337/osint-agent",
-    "language": "Python",
-    "name": "roxm337/osint-agent",
-    "stars": 0,
-    "updated_at": "2026-09-29T10:36:18Z",
-    "url": "https://github.com/roxm337/osint-agent"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-09-29T10:33:42Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
   }
 ]
