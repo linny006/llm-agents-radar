@@ -1,5 +1,23 @@
 [
   {
+    "description": "\u5bf9\u8bdd\u5f0f AI \u89c6\u9891\u526a\u8f91 Agent\u2014\u2014LangGraph \u7f16\u6392 \u00b7 33 \u4e2a\u53d7\u63a7\u5a92\u4f53\u5de5\u5177 \u00b7 \u591a\u6a21\u6001\u68c0\u7d22 \u00b7 \u672c\u5730\u4f18\u5148\u5a92\u4f53\u6808\uff0c\u6bcf\u4e2a\u526a\u8f91\u8ba1\u5212\u5148\u5ba1\u6279\u540e\u6267\u884c\u3002A plan-gated conversational video-editing ag",
+    "id": "LittleSongxx/ChatClip",
+    "language": "Python",
+    "name": "LittleSongxx/ChatClip",
+    "stars": 0,
+    "updated_at": "2026-09-29T14:14:42Z",
+    "url": "https://github.com/LittleSongxx/ChatClip"
+  },
+  {
+    "description": "\u589e\u957f\u8425\u9500 Buzz\uff5c\u5f15\u6d41\u5f15\u64ce\u3002Growth Marketer \u2014 the traffic engine that funnels buyers to checkout.",
+    "id": "xhqing/GrowthMarketerAgent",
+    "language": "JavaScript",
+    "name": "xhqing/GrowthMarketerAgent",
+    "stars": 1,
+    "updated_at": "2026-09-29T14:09:22Z",
+    "url": "https://github.com/xhqing/GrowthMarketerAgent"
+  },
+  {
     "description": "",
     "id": "agent-axiom/agent-arch",
     "language": "Python",
@@ -95,7 +113,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-09-29T13:34:47Z",
+    "updated_at": "2026-09-29T14:08:17Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -158,7 +176,7 @@
     "language": "Kotlin",
     "name": "haibingzhao/easyai",
     "stars": 1,
-    "updated_at": "2026-09-29T13:28:47Z",
+    "updated_at": "2026-09-29T14:12:44Z",
     "url": "https://github.com/haibingzhao/easyai"
   },
   {
@@ -212,7 +230,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4437,
-    "updated_at": "2026-09-29T14:01:37Z",
+    "updated_at": "2026-09-29T14:15:11Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -257,7 +275,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 738,
-    "updated_at": "2026-09-29T13:17:08Z",
+    "updated_at": "2026-09-29T14:10:00Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-29T12:15:33Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "A multi-agent research system for the humanities and social sciences.",
-    "id": "Luciole-Studio/Misaka-Agent",
-    "language": "Python",
-    "name": "Luciole-Studio/Misaka-Agent",
-    "stars": 4,
-    "updated_at": "2026-09-29T12:13:06Z",
-    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3480,
-    "updated_at": "2026-09-29T12:06:43Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   }
 ]
