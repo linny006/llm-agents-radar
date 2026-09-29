@@ -1,5 +1,59 @@
 [
   {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 1,
+    "updated_at": "2026-09-29T13:41:20Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "\u628a\u957f\u5bf9\u8bdd\u7684\u91cd\u590d\u8ba1\u8d39\u780d\u6389\u4e00\u534a\uff0c\u5e76\u7ed9\u6a21\u578b\u914d\u4e00\u540d\u53ea\u8bfb\u8c03\u67e5\u5458\uff1a\u5148\u6838\u5b9e\uff0c\u540e\u52a8\u624b\u3002\u9762\u5411 DeepSeek Harness \u7684\u4e0a\u4e0b\u6587\u538b\u7f29\u4e0e\u5916\u7f6e\u63a8\u7406\u63d2\u4ef6\uff08MIT\uff09\u3002",
+    "id": "ScreamingMaggot/rcs-context",
+    "language": "JavaScript",
+    "name": "ScreamingMaggot/rcs-context",
+    "stars": 1,
+    "updated_at": "2026-09-29T13:39:37Z",
+    "url": "https://github.com/ScreamingMaggot/rcs-context"
+  },
+  {
+    "description": "A quantum-inspired reasoning skill for exploring, scoring, pruning, and merging multiple solution paths.",
+    "id": "Furox-Art/quantum-reasoning-skill",
+    "language": "Python",
+    "name": "Furox-Art/quantum-reasoning-skill",
+    "stars": 0,
+    "updated_at": "2026-09-29T13:37:47Z",
+    "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-09-29T13:34:47Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
+    "id": "anchor-inference/daedalus",
+    "language": "Python",
+    "name": "anchor-inference/daedalus",
+    "stars": 0,
+    "updated_at": "2026-09-29T13:33:39Z",
+    "url": "https://github.com/anchor-inference/daedalus"
+  },
+  {
+    "description": "Axiomize 2.0 - scientific modeling engine plus quantum-inspired multi-branch reasoning",
+    "id": "Furox-Art/axiomize-quantum-skills-2.0",
+    "language": "Python",
+    "name": "Furox-Art/axiomize-quantum-skills-2.0",
+    "stars": 0,
+    "updated_at": "2026-09-29T13:34:07Z",
+    "url": "https://github.com/Furox-Art/axiomize-quantum-skills-2.0"
+  },
+  {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
     "id": "zhixuli0406/DuDuClaw",
     "language": "Rust",
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "Furox-Art/axiomize",
     "stars": 3,
-    "updated_at": "2026-09-29T13:29:29Z",
+    "updated_at": "2026-09-29T13:32:48Z",
     "url": "https://github.com/Furox-Art/axiomize"
   },
   {
@@ -32,7 +86,7 @@
     "language": "JavaScript",
     "name": "bigduu/Zenith",
     "stars": 6,
-    "updated_at": "2026-09-29T13:29:28Z",
+    "updated_at": "2026-09-29T13:31:38Z",
     "url": "https://github.com/bigduu/Zenith"
   },
   {
@@ -86,17 +140,8 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 18,
-    "updated_at": "2026-09-29T13:24:57Z",
+    "updated_at": "2026-09-29T13:35:09Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-09-29T13:25:00Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
@@ -108,21 +153,12 @@
     "url": "https://github.com/laoxs2002/genai-agentes"
   },
   {
-    "description": "A quantum-inspired reasoning skill for exploring, scoring, pruning, and merging multiple solution paths.",
-    "id": "Furox-Art/quantum-reasoning-skill",
-    "language": "Python",
-    "name": "Furox-Art/quantum-reasoning-skill",
-    "stars": 0,
-    "updated_at": "2026-09-29T13:21:46Z",
-    "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4437,
-    "updated_at": "2026-09-29T13:28:41Z",
+    "updated_at": "2026-09-29T13:39:49Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -142,24 +178,6 @@
     "stars": 0,
     "updated_at": "2026-09-29T13:20:36Z",
     "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 1,
-    "updated_at": "2026-09-29T13:20:23Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "Axiomize 2.0 - scientific modeling engine plus quantum-inspired multi-branch reasoning",
-    "id": "Furox-Art/axiomize-quantum-skills-2.0",
-    "language": "Python",
-    "name": "Furox-Art/axiomize-quantum-skills-2.0",
-    "stars": 0,
-    "updated_at": "2026-09-29T13:20:05Z",
-    "url": "https://github.com/Furox-Art/axiomize-quantum-skills-2.0"
   },
   {
     "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
@@ -257,7 +275,7 @@
     "language": "Shell",
     "name": "sehoon787/my-codex",
     "stars": 29,
-    "updated_at": "2026-09-29T13:22:24Z",
+    "updated_at": "2026-09-29T13:43:26Z",
     "url": "https://github.com/sehoon787/my-codex"
   },
   {
@@ -306,15 +324,6 @@
     "url": "https://github.com/SashaEee/auditLens"
   },
   {
-    "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
-    "id": "anchor-inference/daedalus",
-    "language": "Python",
-    "name": "anchor-inference/daedalus",
-    "stars": 0,
-    "updated_at": "2026-09-29T12:49:15Z",
-    "url": "https://github.com/anchor-inference/daedalus"
-  },
-  {
     "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
     "id": "ljedrz/nachalnik",
     "language": "Rust",
@@ -329,7 +338,7 @@
     "language": "JavaScript",
     "name": "sehoon787/my-claude",
     "stars": 16,
-    "updated_at": "2026-09-29T12:39:05Z",
+    "updated_at": "2026-09-29T13:31:21Z",
     "url": "https://github.com/sehoon787/my-claude"
   },
   {
@@ -338,7 +347,7 @@
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 277,
-    "updated_at": "2026-09-29T12:36:59Z",
+    "updated_at": "2026-09-29T13:36:40Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
@@ -412,15 +421,6 @@
     "stars": 3479,
     "updated_at": "2026-09-29T12:06:43Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "\u628a\u957f\u5bf9\u8bdd\u7684\u91cd\u590d\u8ba1\u8d39\u780d\u6389\u4e00\u534a\uff0c\u5e76\u7ed9\u6a21\u578b\u914d\u4e00\u540d\u53ea\u8bfb\u8c03\u67e5\u5458\uff1a\u5148\u6838\u5b9e\uff0c\u540e\u52a8\u624b\u3002\u9762\u5411 DeepSeek Harness \u7684\u4e0a\u4e0b\u6587\u538b\u7f29\u4e0e\u5916\u7f6e\u63a8\u7406\u63d2\u4ef6\uff08MIT\uff09\u3002",
-    "id": "ScreamingMaggot/rcs-context",
-    "language": "JavaScript",
-    "name": "ScreamingMaggot/rcs-context",
-    "stars": 1,
-    "updated_at": "2026-09-29T12:00:01Z",
-    "url": "https://github.com/ScreamingMaggot/rcs-context"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
