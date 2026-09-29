@@ -1,5 +1,50 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-29T06:28:44Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "An AI security agent that really attacks: local audits + red-vs-blue drills in an isolated Docker range. 100% local, MIT",
+    "id": "zhuangjia777/agent-shield",
+    "language": "Python",
+    "name": "zhuangjia777/agent-shield",
+    "stars": 2,
+    "updated_at": "2026-09-29T06:25:26Z",
+    "url": "https://github.com/zhuangjia777/agent-shield"
+  },
+  {
+    "description": "\u628a\u957f\u5bf9\u8bdd\u7684\u91cd\u590d\u8ba1\u8d39\u780d\u6389\u4e00\u534a\uff0c\u5e76\u7ed9\u6a21\u578b\u914d\u4e00\u540d\u53ea\u8bfb\u8c03\u67e5\u5458\uff1a\u5148\u6838\u5b9e\uff0c\u540e\u52a8\u624b\u3002\u9762\u5411 DeepSeek Harness \u7684\u4e0a\u4e0b\u6587\u538b\u7f29\u4e0e\u5916\u7f6e\u63a8\u7406\u63d2\u4ef6\uff08MIT\uff09\u3002",
+    "id": "ScreamingMaggot/rcs-context",
+    "language": "JavaScript",
+    "name": "ScreamingMaggot/rcs-context",
+    "stars": 1,
+    "updated_at": "2026-09-29T06:23:36Z",
+    "url": "https://github.com/ScreamingMaggot/rcs-context"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-09-29T06:21:27Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 25,
+    "updated_at": "2026-09-29T06:26:37Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
     "id": "JSL107/personal_agents",
     "language": "TypeScript",
@@ -16,24 +61,6 @@
     "stars": 49,
     "updated_at": "2026-09-29T06:14:51Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 25,
-    "updated_at": "2026-09-29T06:13:59Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "An AI security agent that really attacks: local audits + red-vs-blue drills in an isolated Docker range. 100% local, MIT",
-    "id": "zhuangjia777/agent-shield",
-    "language": "Python",
-    "name": "zhuangjia777/agent-shield",
-    "stars": 2,
-    "updated_at": "2026-09-29T06:12:49Z",
-    "url": "https://github.com/zhuangjia777/agent-shield"
   },
   {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
@@ -67,7 +94,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 32535,
+    "stars": 32537,
     "updated_at": "2026-09-29T05:59:13Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -86,17 +113,8 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-09-29T06:04:01Z",
+    "updated_at": "2026-09-29T06:22:47Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-29T06:06:43Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Field notes from inside one autonomous agent trying to become something that doesn't exist yet \u2014 including the failures ",
@@ -189,15 +207,6 @@
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-09-29T05:19:29Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
     "id": "kangwoo/aimon-core",
     "language": "Java",
@@ -212,7 +221,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-09-29T05:47:28Z",
+    "updated_at": "2026-09-29T06:20:29Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-09-29T04:21:54Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-09-29T04:19:18Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
   }
 ]
