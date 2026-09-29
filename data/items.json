@@ -1,11 +1,83 @@
 [
   {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-09-29T06:45:03Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Open Source Desktop AI Agent Runtime - LLM, MCP, Voice Runtime, and local/cloud models wired into one PyQt6 desktop agen",
+    "id": "kwakminoo/Project-IRIS-Light",
+    "language": "Python",
+    "name": "kwakminoo/Project-IRIS-Light",
+    "stars": 3,
+    "updated_at": "2026-09-29T06:44:40Z",
+    "url": "https://github.com/kwakminoo/Project-IRIS-Light"
+  },
+  {
+    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
+    "id": "haibingzhao/easyai",
+    "language": "Kotlin",
+    "name": "haibingzhao/easyai",
+    "stars": 1,
+    "updated_at": "2026-09-29T06:42:18Z",
+    "url": "https://github.com/haibingzhao/easyai"
+  },
+  {
+    "description": "Personal agents at 1/1000 the cost. A VM-less personal agent on Cloudflare: WeChat, Telegram, web, email, cloud browser.",
+    "id": "AaronWong1999/museinst",
+    "language": "TypeScript",
+    "name": "AaronWong1999/museinst",
+    "stars": 0,
+    "updated_at": "2026-09-29T06:42:09Z",
+    "url": "https://github.com/AaronWong1999/museinst"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-09-29T06:43:10Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 25,
+    "updated_at": "2026-09-29T06:40:59Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "A complete CRM admin built entirely with Lume \u2014 one C11 single binary plus one .lume script for the database, REST API, ",
+    "id": "erishen/lume-crm",
+    "language": "TypeScript",
+    "name": "erishen/lume-crm",
+    "stars": 0,
+    "updated_at": "2026-09-29T06:35:26Z",
+    "url": "https://github.com/erishen/lume-crm"
+  },
+  {
+    "description": "LLM agent for log anomaly detection and root-cause analysis: heuristic detectors plus a tool-calling investigation loop",
+    "id": "bolongpa/logroot-agent",
+    "language": "Python",
+    "name": "bolongpa/logroot-agent",
+    "stars": 1,
+    "updated_at": "2026-09-29T06:37:58Z",
+    "url": "https://github.com/bolongpa/logroot-agent"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-29T06:28:44Z",
+    "updated_at": "2026-09-29T06:38:15Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -36,21 +108,12 @@
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 25,
-    "updated_at": "2026-09-29T06:26:37Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
     "id": "JSL107/personal_agents",
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-29T06:15:07Z",
+    "updated_at": "2026-09-29T06:38:06Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -61,6 +124,15 @@
     "stars": 49,
     "updated_at": "2026-09-29T06:14:51Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "End-to-end agentic chatbot built with LangGraph, FastAPI & Streamlit \u2014 tool-calling LLM agent with calculator, time & we",
+    "id": "ajaysakle721/agentic_chatbot",
+    "language": "Python",
+    "name": "ajaysakle721/agentic_chatbot",
+    "stars": 0,
+    "updated_at": "2026-09-29T06:12:23Z",
+    "url": "https://github.com/ajaysakle721/agentic_chatbot"
   },
   {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
@@ -108,15 +180,6 @@
     "url": "https://github.com/Ali-Sdg90/Fabrexa-AI-Ollama"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-09-29T06:22:47Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "Field notes from inside one autonomous agent trying to become something that doesn't exist yet \u2014 including the failures ",
     "id": "massimiliano1991/the-attempt",
     "language": "HTML",
@@ -151,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-09-29T05:40:36Z",
     "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "Personal agents at 1/1000 the cost. A VM-less personal agent on Cloudflare: WeChat, Telegram, web, email, cloud browser.",
-    "id": "AaronWong1999/museinst",
-    "language": "TypeScript",
-    "name": "AaronWong1999/museinst",
-    "stars": 0,
-    "updated_at": "2026-09-29T05:39:43Z",
-    "url": "https://github.com/AaronWong1999/museinst"
   },
   {
     "description": "Agent-native product search: multi-source scrape \u2192 deterministic constraints \u2192 LLM match \u2192 price watches + order trackin",
@@ -214,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-09-29T05:16:40Z",
     "url": "https://github.com/kangwoo/aimon-core"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-09-29T06:20:29Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
@@ -333,15 +378,6 @@
     "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
   },
   {
-    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
-    "id": "haibingzhao/easyai",
-    "language": "Kotlin",
-    "name": "haibingzhao/easyai",
-    "stars": 1,
-    "updated_at": "2026-09-29T04:35:23Z",
-    "url": "https://github.com/haibingzhao/easyai"
-  },
-  {
     "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
     "id": "lsdefine/GenericAgent",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-29T04:25:44Z",
     "url": "https://github.com/Arjunadh5305/ios-skills-collection"
-  },
-  {
-    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
-    "id": "Stolas34/voice-input-src",
-    "language": "\u2014",
-    "name": "Stolas34/voice-input-src",
-    "stars": 0,
-    "updated_at": "2026-09-29T04:25:28Z",
-    "url": "https://github.com/Stolas34/voice-input-src"
-  },
-  {
-    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
-    "id": "Screwtopped-annapavlova802/SparkLabs",
-    "language": "C++",
-    "name": "Screwtopped-annapavlova802/SparkLabs",
-    "stars": 1,
-    "updated_at": "2026-09-29T04:23:27Z",
-    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-09-29T04:22:11Z",
-    "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
-    "id": "bigduu/Zenith",
-    "language": "JavaScript",
-    "name": "bigduu/Zenith",
-    "stars": 6,
-    "updated_at": "2026-09-29T04:21:54Z",
-    "url": "https://github.com/bigduu/Zenith"
   }
 ]
