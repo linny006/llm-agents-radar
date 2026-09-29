@@ -1,12 +1,48 @@
 [
   {
+    "description": "An AI security agent that really attacks: local audits + red-vs-blue drills in an isolated Docker range. 100% local, MIT",
+    "id": "zhuangjia777/agent-shield",
+    "language": "Python",
+    "name": "zhuangjia777/agent-shield",
+    "stars": 2,
+    "updated_at": "2026-09-29T15:59:31Z",
+    "url": "https://github.com/zhuangjia777/agent-shield"
+  },
+  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-29T15:38:48Z",
+    "updated_at": "2026-09-29T15:46:28Z",
     "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4437,
+    "updated_at": "2026-09-29T15:53:51Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Desktop GUI Headless Local-first AI coding agent in Rust (axum, tokio, rmcp, portable-pty) behind HTTP + SSE, with an An",
+    "id": "bsoftwaresolutions/bebok",
+    "language": "Rust",
+    "name": "bsoftwaresolutions/bebok",
+    "stars": 5,
+    "updated_at": "2026-09-29T15:44:58Z",
+    "url": "https://github.com/bsoftwaresolutions/bebok"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 739,
+    "updated_at": "2026-09-29T15:53:20Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "Mini agent: LLM -> JSON action -> tools -> feedback loop, configured from YAML (Agentic AI course)",
@@ -68,7 +104,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-09-29T15:31:54Z",
+    "updated_at": "2026-09-29T15:56:55Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 26,
-    "updated_at": "2026-09-29T15:34:53Z",
+    "updated_at": "2026-09-29T15:54:20Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -279,15 +315,6 @@
     "url": "https://github.com/laoxs2002/genai-agentes"
   },
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 739,
-    "updated_at": "2026-09-29T15:43:52Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
     "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
     "id": "heba-ramdan/harness",
     "language": "TypeScript",
@@ -365,7 +392,7 @@
     "language": "Python",
     "name": "roxm337/osint-agent",
     "stars": 0,
-    "updated_at": "2026-09-29T14:43:25Z",
+    "updated_at": "2026-09-29T15:57:48Z",
     "url": "https://github.com/roxm337/osint-agent"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 10,
     "updated_at": "2026-09-29T14:33:46Z",
     "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-09-29T14:33:24Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-09-29T14:31:29Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 49,
-    "updated_at": "2026-09-29T14:28:42Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
   }
 ]

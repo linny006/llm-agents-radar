@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-29 15:45 UTC
+> ⏰ Last updated: 2026-09-29 16:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ljchang/mecha](https://github.com/ljchang/mecha) | 7 | Rust | 2026-09-29 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
-| 2 | [NithichoteC/mini-agent](https://github.com/NithichoteC/mini-agent) | 0 | Python | 2026-09-29 | Mini agent: LLM -> JSON action -> tools -> feedback loop, configured from YAML (Agentic AI course) |
-| 3 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 3 | HTML | 2026-09-29 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 4 | [anchor-inference/daedalus](https://github.com/anchor-inference/daedalus) | 0 | Python | 2026-09-29 | A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your |
-| 5 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 8555 | Python | 2026-09-29 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
-| 6 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 14 | Go | 2026-09-29 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
-| 7 | [ljedrz/nachalnik](https://github.com/ljedrz/nachalnik) | 5 | Rust | 2026-09-29 | A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and  |
-| 8 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-09-29 | AI-powered image generation and chat studio |
-| 9 | [ongridio/ongrid](https://github.com/ongridio/ongrid) | 1094 | Go | 2026-09-29 | An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, L |
-| 10 | [puremachinery/carapace](https://github.com/puremachinery/carapace) | 47 | Rust | 2026-09-29 | A secure, stable Rust alternative to openclaw/moltbot/clawdbot |
-| 11 | [node9-ai/node9-proxy](https://github.com/node9-ai/node9-proxy) | 216 | TypeScript | 2026-09-29 | Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r |
-| 12 | [duongnq2798/vestiarion](https://github.com/duongnq2798/vestiarion) | 1 | TypeScript | 2026-09-29 | An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e |
-| 13 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 26 | Python | 2026-09-29 | A productive AI coworker that learns, self-improves, and ships work. |
-| 14 | [rugose-learnedprofession58/pi-dsh](https://github.com/rugose-learnedprofession58/pi-dsh) | 0 | TypeScript | 2026-09-29 | Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting |
-| 15 | [abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder](https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder) | 1 | JavaScript | 2026-09-29 | Build structured prompts with reference media for MiniMax H3 video model in ComfyUI. |
-| 16 | [passive-hotpepper515/area-checker-html-tool](https://github.com/passive-hotpepper515/area-checker-html-tool) | 0 | HTML | 2026-09-29 | Verify area values quickly with this web-based HTML calculator tool. |
-| 17 | [Blondieredistributed612/pocket-agent](https://github.com/Blondieredistributed612/pocket-agent) | 2 | Python | 2026-09-29 | Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte |
-| 18 | [sehoon787/my-codex](https://github.com/sehoon787/my-codex) | 29 | JavaScript | 2026-09-29 | All-in-one agent harness for OpenAI Codex CLI — Boss meta-orchestrator, 17 curated agents (+17 opt-in AI specialists), 1 |
-| 19 | [sehoon787/my-claude](https://github.com/sehoon787/my-claude) | 16 | JavaScript | 2026-09-29 | All-in-one agent harness for Claude Code — Boss meta-orchestrator, 32 curated agents, 139 curated skills, 2 named workfl |
-| 20 | [bettersilvanus849/inner-coordinates](https://github.com/bettersilvanus849/inner-coordinates) | 1 | Shell | 2026-09-29 | Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s |
-| 21 | [Blaz742/web-pentest-lab](https://github.com/Blaz742/web-pentest-lab) | 0 | — | 2026-09-29 | Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets. |
-| 22 | [Elevated-homer201/prompt-gate](https://github.com/Elevated-homer201/prompt-gate) | 1 | — | 2026-09-29 | Filter LLM prompts and shield applications from data leakage using a specialized security gateway. |
-| 23 | [Indrasclerotinia71/local-ai-research-assistant](https://github.com/Indrasclerotinia71/local-ai-research-assistant) | 0 | Python | 2026-09-29 | Automate research tasks with local LLMs, real-time web search, and structured report generation. |
-| 24 | [Furrowed-subphylumurochorda108/kimi-K2.6](https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6) | 3 | Python | 2026-09-29 | Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model. |
-| 25 | [mpardakaskon-boop/obsidian-llm-wiki-local](https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local) | 1 | — | 2026-09-29 | Query your Obsidian vault using local LLMs to generate text and retrieve information. |
-| 26 | [LittleSongxx/ChatClip](https://github.com/LittleSongxx/ChatClip) | 0 | Python | 2026-09-29 | 对话式 AI 视频剪辑 Agent——LangGraph 编排 · 33 个受控媒体工具 · 多模态检索 · 本地优先媒体栈，每个剪辑计划先审批后执行。A plan-gated conversational video-editing ag |
-| 27 | [AaronWong1999/museinst](https://github.com/AaronWong1999/museinst) | 1 | TypeScript | 2026-09-29 | Personal agents at 1/1000 the cost. A VM-less personal agent on Cloudflare: WeChat, Telegram, web, email, cloud browser. |
-| 28 | [HELLOCODINGTR/AgentForge](https://github.com/HELLOCODINGTR/AgentForge) | 1 | — | 2026-09-29 | Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API  |
-| 29 | [strobilevitellus470/argus-ai](https://github.com/strobilevitellus470/argus-ai) | 1 | Python | 2026-09-29 | Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa |
-| 30 | [juandavidru4641/dsplab](https://github.com/juandavidru4641/dsplab) | 0 | JavaScript | 2026-09-29 | Develop DSP tools and prototypes quickly with DSPLab’s environment, combining optimized code, safe testing, and embedded |
-| 31 | [laoxs2002/genai-agentes](https://github.com/laoxs2002/genai-agentes) | 0 | Jupyter Notebook | 2026-09-29 | Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a |
-| 32 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 739 | JavaScript | 2026-09-29 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
-| 33 | [heba-ramdan/harness](https://github.com/heba-ramdan/harness) | 1 | TypeScript | 2026-09-29 | Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the  |
-| 34 | [muhzars/Agent.cpp](https://github.com/muhzars/Agent.cpp) | 1 | C++ | 2026-09-29 | ⚡ Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo |
-| 35 | [faheela-786/ComfyUI-qwenmultiangle](https://github.com/faheela-786/ComfyUI-qwenmultiangle) | 2 | — | 2026-09-29 | 🎥 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp |
-| 36 | [amineeng/scraping-browser](https://github.com/amineeng/scraping-browser) | 1 | — | 2026-09-29 | 🔍 Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo |
-| 37 | [expectedparrot/edsl](https://github.com/expectedparrot/edsl) | 502 | Python | 2026-09-29 | Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w |
-| 38 | [piporyx/doc-qa-agent](https://github.com/piporyx/doc-qa-agent) | 0 | Python | 2026-09-29 | 🤖 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad |
-| 39 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 1 | TypeScript | 2026-09-29 | Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers. |
-| 40 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 18 | Rust | 2026-09-29 | Bamboo — a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule |
-| 41 | [roxm337/osint-agent](https://github.com/roxm337/osint-agent) | 0 | Python | 2026-09-29 | Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b |
-| 42 | [ximing/vital](https://github.com/ximing/vital) | 3 | TypeScript | 2026-09-29 | AI-first personal OS: capture → execute → reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac |
-| 43 | [helixml/helix](https://github.com/helixml/helix) | 812 | Go | 2026-09-29 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
-| 44 | [Amri854/obsidian-mcp-server](https://github.com/Amri854/obsidian-mcp-server) | 0 | TypeScript | 2026-09-29 | 🗂️ Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys |
-| 45 | [irandysousa/langgraph-llama-cpp-starter](https://github.com/irandysousa/langgraph-llama-cpp-starter) | 3 | Python | 2026-09-29 | 🤖 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva |
-| 46 | [nexpeakcore/deepseek-harness-pr-review](https://github.com/nexpeakcore/deepseek-harness-pr-review) | 43 | Python | 2026-09-29 | AI code review with DeepSeek: headless PR review automation that verifies PR descriptions claim-by-claim against real co |
-| 47 | [genaforvena/lte-workstation](https://github.com/genaforvena/lte-workstation) | 10 | Shell | 2026-09-29 | An autopoiesic kefir for computing machines |
-| 48 | [JortegaR/ai-notes-api](https://github.com/JortegaR/ai-notes-api) | 1 | JavaScript | 2026-09-29 |  |
-| 49 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-09-29 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 50 | [zhixuli0406/DuDuClaw](https://github.com/zhixuli0406/DuDuClaw) | 49 | Rust | 2026-09-29 | Open-source AI Agent platform — 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl |
+| 1 | [zhuangjia777/agent-shield](https://github.com/zhuangjia777/agent-shield) | 2 | Python | 2026-09-29 | An AI security agent that really attacks: local audits + red-vs-blue drills in an isolated Docker range. 100% local, MIT |
+| 2 | [ljchang/mecha](https://github.com/ljchang/mecha) | 7 | Rust | 2026-09-29 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
+| 3 | [gptme/gptme](https://github.com/gptme/gptme) | 4437 | Python | 2026-09-29 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
+| 4 | [bsoftwaresolutions/bebok](https://github.com/bsoftwaresolutions/bebok) | 5 | Rust | 2026-09-29 | Desktop GUI Headless Local-first AI coding agent in Rust (axum, tokio, rmcp, portable-pty) behind HTTP + SSE, with an An |
+| 5 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 739 | JavaScript | 2026-09-29 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
+| 6 | [NithichoteC/mini-agent](https://github.com/NithichoteC/mini-agent) | 0 | Python | 2026-09-29 | Mini agent: LLM -> JSON action -> tools -> feedback loop, configured from YAML (Agentic AI course) |
+| 7 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 3 | HTML | 2026-09-29 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 8 | [anchor-inference/daedalus](https://github.com/anchor-inference/daedalus) | 0 | Python | 2026-09-29 | A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your |
+| 9 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 8555 | Python | 2026-09-29 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 10 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 14 | Go | 2026-09-29 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
+| 11 | [ljedrz/nachalnik](https://github.com/ljedrz/nachalnik) | 5 | Rust | 2026-09-29 | A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and  |
+| 12 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-09-29 | AI-powered image generation and chat studio |
+| 13 | [ongridio/ongrid](https://github.com/ongridio/ongrid) | 1094 | Go | 2026-09-29 | An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, L |
+| 14 | [puremachinery/carapace](https://github.com/puremachinery/carapace) | 47 | Rust | 2026-09-29 | A secure, stable Rust alternative to openclaw/moltbot/clawdbot |
+| 15 | [node9-ai/node9-proxy](https://github.com/node9-ai/node9-proxy) | 216 | TypeScript | 2026-09-29 | Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r |
+| 16 | [duongnq2798/vestiarion](https://github.com/duongnq2798/vestiarion) | 1 | TypeScript | 2026-09-29 | An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e |
+| 17 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 26 | Python | 2026-09-29 | A productive AI coworker that learns, self-improves, and ships work. |
+| 18 | [rugose-learnedprofession58/pi-dsh](https://github.com/rugose-learnedprofession58/pi-dsh) | 0 | TypeScript | 2026-09-29 | Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting |
+| 19 | [abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder](https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder) | 1 | JavaScript | 2026-09-29 | Build structured prompts with reference media for MiniMax H3 video model in ComfyUI. |
+| 20 | [passive-hotpepper515/area-checker-html-tool](https://github.com/passive-hotpepper515/area-checker-html-tool) | 0 | HTML | 2026-09-29 | Verify area values quickly with this web-based HTML calculator tool. |
+| 21 | [Blondieredistributed612/pocket-agent](https://github.com/Blondieredistributed612/pocket-agent) | 2 | Python | 2026-09-29 | Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte |
+| 22 | [sehoon787/my-codex](https://github.com/sehoon787/my-codex) | 29 | JavaScript | 2026-09-29 | All-in-one agent harness for OpenAI Codex CLI — Boss meta-orchestrator, 17 curated agents (+17 opt-in AI specialists), 1 |
+| 23 | [sehoon787/my-claude](https://github.com/sehoon787/my-claude) | 16 | JavaScript | 2026-09-29 | All-in-one agent harness for Claude Code — Boss meta-orchestrator, 32 curated agents, 139 curated skills, 2 named workfl |
+| 24 | [bettersilvanus849/inner-coordinates](https://github.com/bettersilvanus849/inner-coordinates) | 1 | Shell | 2026-09-29 | Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s |
+| 25 | [Blaz742/web-pentest-lab](https://github.com/Blaz742/web-pentest-lab) | 0 | — | 2026-09-29 | Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets. |
+| 26 | [Elevated-homer201/prompt-gate](https://github.com/Elevated-homer201/prompt-gate) | 1 | — | 2026-09-29 | Filter LLM prompts and shield applications from data leakage using a specialized security gateway. |
+| 27 | [Indrasclerotinia71/local-ai-research-assistant](https://github.com/Indrasclerotinia71/local-ai-research-assistant) | 0 | Python | 2026-09-29 | Automate research tasks with local LLMs, real-time web search, and structured report generation. |
+| 28 | [Furrowed-subphylumurochorda108/kimi-K2.6](https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6) | 3 | Python | 2026-09-29 | Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model. |
+| 29 | [mpardakaskon-boop/obsidian-llm-wiki-local](https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local) | 1 | — | 2026-09-29 | Query your Obsidian vault using local LLMs to generate text and retrieve information. |
+| 30 | [LittleSongxx/ChatClip](https://github.com/LittleSongxx/ChatClip) | 0 | Python | 2026-09-29 | 对话式 AI 视频剪辑 Agent——LangGraph 编排 · 33 个受控媒体工具 · 多模态检索 · 本地优先媒体栈，每个剪辑计划先审批后执行。A plan-gated conversational video-editing ag |
+| 31 | [AaronWong1999/museinst](https://github.com/AaronWong1999/museinst) | 1 | TypeScript | 2026-09-29 | Personal agents at 1/1000 the cost. A VM-less personal agent on Cloudflare: WeChat, Telegram, web, email, cloud browser. |
+| 32 | [HELLOCODINGTR/AgentForge](https://github.com/HELLOCODINGTR/AgentForge) | 1 | — | 2026-09-29 | Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API  |
+| 33 | [strobilevitellus470/argus-ai](https://github.com/strobilevitellus470/argus-ai) | 1 | Python | 2026-09-29 | Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa |
+| 34 | [juandavidru4641/dsplab](https://github.com/juandavidru4641/dsplab) | 0 | JavaScript | 2026-09-29 | Develop DSP tools and prototypes quickly with DSPLab’s environment, combining optimized code, safe testing, and embedded |
+| 35 | [laoxs2002/genai-agentes](https://github.com/laoxs2002/genai-agentes) | 0 | Jupyter Notebook | 2026-09-29 | Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a |
+| 36 | [heba-ramdan/harness](https://github.com/heba-ramdan/harness) | 1 | TypeScript | 2026-09-29 | Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the  |
+| 37 | [muhzars/Agent.cpp](https://github.com/muhzars/Agent.cpp) | 1 | C++ | 2026-09-29 | ⚡ Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo |
+| 38 | [faheela-786/ComfyUI-qwenmultiangle](https://github.com/faheela-786/ComfyUI-qwenmultiangle) | 2 | — | 2026-09-29 | 🎥 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp |
+| 39 | [amineeng/scraping-browser](https://github.com/amineeng/scraping-browser) | 1 | — | 2026-09-29 | 🔍 Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo |
+| 40 | [expectedparrot/edsl](https://github.com/expectedparrot/edsl) | 502 | Python | 2026-09-29 | Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w |
+| 41 | [piporyx/doc-qa-agent](https://github.com/piporyx/doc-qa-agent) | 0 | Python | 2026-09-29 | 🤖 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad |
+| 42 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 1 | TypeScript | 2026-09-29 | Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers. |
+| 43 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 18 | Rust | 2026-09-29 | Bamboo — a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule |
+| 44 | [roxm337/osint-agent](https://github.com/roxm337/osint-agent) | 0 | Python | 2026-09-29 | Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b |
+| 45 | [ximing/vital](https://github.com/ximing/vital) | 3 | TypeScript | 2026-09-29 | AI-first personal OS: capture → execute → reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac |
+| 46 | [helixml/helix](https://github.com/helixml/helix) | 812 | Go | 2026-09-29 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
+| 47 | [Amri854/obsidian-mcp-server](https://github.com/Amri854/obsidian-mcp-server) | 0 | TypeScript | 2026-09-29 | 🗂️ Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys |
+| 48 | [irandysousa/langgraph-llama-cpp-starter](https://github.com/irandysousa/langgraph-llama-cpp-starter) | 3 | Python | 2026-09-29 | 🤖 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva |
+| 49 | [nexpeakcore/deepseek-harness-pr-review](https://github.com/nexpeakcore/deepseek-harness-pr-review) | 43 | Python | 2026-09-29 | AI code review with DeepSeek: headless PR review automation that verifies PR descriptions claim-by-claim against real co |
+| 50 | [genaforvena/lte-workstation](https://github.com/genaforvena/lte-workstation) | 10 | Shell | 2026-09-29 | An autopoiesic kefir for computing machines |
 <!-- TRACKER_TABLE_END -->
 
 ---
