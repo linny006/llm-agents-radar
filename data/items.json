@@ -1,5 +1,50 @@
 [
   {
+    "description": "All-in-one agent harness for Claude Code \u2014 Boss meta-orchestrator, 32 curated agents, 139 curated skills, 2 named workfl",
+    "id": "sehoon787/my-claude",
+    "language": "JavaScript",
+    "name": "sehoon787/my-claude",
+    "stars": 16,
+    "updated_at": "2026-09-29T11:28:22Z",
+    "url": "https://github.com/sehoon787/my-claude"
+  },
+  {
+    "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
+    "id": "anchor-inference/daedalus",
+    "language": "Python",
+    "name": "anchor-inference/daedalus",
+    "stars": 0,
+    "updated_at": "2026-09-29T11:25:57Z",
+    "url": "https://github.com/anchor-inference/daedalus"
+  },
+  {
+    "description": "\u7ed9\u5b83\u4e00\u4e2a\u5173\u4e8e A \u80a1\u516c\u53f8\u7684\u95ee\u9898\uff0c\u5b83\u81ea\u5df1\u89c4\u5212\u7814\u7a76\u6b65\u9aa4\u3001\u51b3\u5b9a\u8c03\u7528\u54ea\u4e9b\u6570\u636e\u5de5\u5177\u3001\u5ba1\u6838\u8bc1\u636e\u662f\u5426\u5145\u5206\uff0c\u6700\u540e\u4ea7\u51fa\u4e00\u4efd\u6bcf\u4e2a\u6570\u5b57\u90fd\u80fd\u8ffd\u6eaf\u56de\u6765\u6e90\uff08\u5e74\u62a5\u7b2c\u51e0\u9875 / \u54ea\u4e2a\u7f51\u5740\uff09\u7684\u7814\u7a76\u62a5\u544a\u3002LangGraph 8 \u8282\u70b9\u7f16\u6392 + 9 \u4e2a\u91d1\u878d\u6570\u636e\u5de5\u5177 + Chroma",
+    "id": "Wcrane-hhy/Finreserch_Ai_agent",
+    "language": "Python",
+    "name": "Wcrane-hhy/Finreserch_Ai_agent",
+    "stars": 0,
+    "updated_at": "2026-09-29T11:25:40Z",
+    "url": "https://github.com/Wcrane-hhy/Finreserch_Ai_agent"
+  },
+  {
+    "description": "An autopoiesic kefir for computing machines",
+    "id": "genaforvena/lte-workstation",
+    "language": "Shell",
+    "name": "genaforvena/lte-workstation",
+    "stars": 10,
+    "updated_at": "2026-09-29T11:18:04Z",
+    "url": "https://github.com/genaforvena/lte-workstation"
+  },
+  {
+    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
+    "id": "oldfunk/paper-trading",
+    "language": "Python",
+    "name": "oldfunk/paper-trading",
+    "stars": 1,
+    "updated_at": "2026-09-29T11:17:47Z",
+    "url": "https://github.com/oldfunk/paper-trading"
+  },
+  {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
@@ -23,7 +68,7 @@
     "language": "Python",
     "name": "SunWoo1213/broker-agent",
     "stars": 0,
-    "updated_at": "2026-09-29T11:10:16Z",
+    "updated_at": "2026-09-29T11:26:34Z",
     "url": "https://github.com/SunWoo1213/broker-agent"
   },
   {
@@ -77,7 +122,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 26,
-    "updated_at": "2026-09-29T11:03:46Z",
+    "updated_at": "2026-09-29T11:21:30Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -95,17 +140,8 @@
     "language": "Python",
     "name": "AVADSA25/codec",
     "stars": 108,
-    "updated_at": "2026-09-29T11:02:24Z",
+    "updated_at": "2026-09-29T11:25:30Z",
     "url": "https://github.com/AVADSA25/codec"
-  },
-  {
-    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
-    "id": "oldfunk/paper-trading",
-    "language": "Python",
-    "name": "oldfunk/paper-trading",
-    "stars": 1,
-    "updated_at": "2026-09-29T11:02:18Z",
-    "url": "https://github.com/oldfunk/paper-trading"
   },
   {
     "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
@@ -194,7 +230,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-09-29T10:33:31Z",
+    "updated_at": "2026-09-29T11:16:35Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -212,7 +248,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-09-29T11:14:30Z",
+    "updated_at": "2026-09-29T11:16:19Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -223,15 +259,6 @@
     "stars": 216,
     "updated_at": "2026-09-29T10:10:48Z",
     "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
-    "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
-    "id": "anchor-inference/daedalus",
-    "language": "Python",
-    "name": "anchor-inference/daedalus",
-    "stars": 0,
-    "updated_at": "2026-09-29T10:00:35Z",
-    "url": "https://github.com/anchor-inference/daedalus"
   },
   {
     "description": "Private, local-first AI agent: planning, sandboxed tools, four-tier memory, streaming UI and OpenTelemetry \u2014 runs entire",
@@ -250,6 +277,15 @@
     "stars": 32551,
     "updated_at": "2026-09-29T09:55:25Z",
     "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3479,
+    "updated_at": "2026-09-29T09:55:18Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Local pre-write containment & structural scoring for AI coding agents: deterministic policy, Mamba-3 SSM coherence, and ",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-29T09:24:00Z",
     "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "Guarded retail LLM Agent runtime with typed tools, stateful execution, evaluation, and deterministic diagnostics.",
-    "id": "Amay810/ecommerce-agent-runtime",
-    "language": "Python",
-    "name": "Amay810/ecommerce-agent-runtime",
-    "stars": 0,
-    "updated_at": "2026-09-29T09:21:53Z",
-    "url": "https://github.com/Amay810/ecommerce-agent-runtime"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-09-29T09:21:32Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-09-29T09:20:58Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-09-29T09:19:23Z",
-    "url": "https://github.com/heba-ramdan/harness"
   }
 ]
