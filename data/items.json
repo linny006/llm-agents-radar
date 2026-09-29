@@ -1,5 +1,59 @@
 [
   {
+    "description": "A multi-agent research system for the humanities and social sciences.",
+    "id": "Luciole-Studio/Misaka-Agent",
+    "language": "Python",
+    "name": "Luciole-Studio/Misaka-Agent",
+    "stars": 4,
+    "updated_at": "2026-09-29T12:13:06Z",
+    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
+  },
+  {
+    "description": "All-in-one agent harness for Claude Code \u2014 Boss meta-orchestrator, 32 curated agents, 139 curated skills, 2 named workfl",
+    "id": "sehoon787/my-claude",
+    "language": "JavaScript",
+    "name": "sehoon787/my-claude",
+    "stars": 16,
+    "updated_at": "2026-09-29T12:11:55Z",
+    "url": "https://github.com/sehoon787/my-claude"
+  },
+  {
+    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+    "id": "BlockRunAI/Franklin",
+    "language": "TypeScript",
+    "name": "BlockRunAI/Franklin",
+    "stars": 558,
+    "updated_at": "2026-09-29T12:08:00Z",
+    "url": "https://github.com/BlockRunAI/Franklin"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-09-29T12:06:04Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 738,
+    "updated_at": "2026-09-29T12:07:27Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3479,
+    "updated_at": "2026-09-29T12:06:43Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
     "description": "\u628a\u957f\u5bf9\u8bdd\u7684\u91cd\u590d\u8ba1\u8d39\u780d\u6389\u4e00\u534a\uff0c\u5e76\u7ed9\u6a21\u578b\u914d\u4e00\u540d\u53ea\u8bfb\u8c03\u67e5\u5458\uff1a\u5148\u6838\u5b9e\uff0c\u540e\u52a8\u624b\u3002\u9762\u5411 DeepSeek Harness \u7684\u4e0a\u4e0b\u6587\u538b\u7f29\u4e0e\u5916\u7f6e\u63a8\u7406\u63d2\u4ef6\uff08MIT\uff09\u3002",
     "id": "ScreamingMaggot/rcs-context",
     "language": "JavaScript",
@@ -13,7 +67,7 @@
     "id": "AaronWong1999/museinst",
     "language": "TypeScript",
     "name": "AaronWong1999/museinst",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-09-29T11:59:17Z",
     "url": "https://github.com/AaronWong1999/museinst"
   },
@@ -22,7 +76,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 8546,
+    "stars": 8549,
     "updated_at": "2026-09-29T11:58:50Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -50,17 +104,8 @@
     "language": "Python",
     "name": "expectedparrot/edsl",
     "stars": 502,
-    "updated_at": "2026-09-29T11:51:26Z",
+    "updated_at": "2026-09-29T12:06:43Z",
     "url": "https://github.com/expectedparrot/edsl"
-  },
-  {
-    "description": "A multi-agent research system for the humanities and social sciences.",
-    "id": "Luciole-Studio/Misaka-Agent",
-    "language": "Python",
-    "name": "Luciole-Studio/Misaka-Agent",
-    "stars": 4,
-    "updated_at": "2026-09-29T11:52:15Z",
-    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
   },
   {
     "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
@@ -70,24 +115,6 @@
     "stars": 4,
     "updated_at": "2026-09-29T11:49:27Z",
     "url": "https://github.com/Torvian-eu/chatbot"
-  },
-  {
-    "description": "All-in-one agent harness for Claude Code \u2014 Boss meta-orchestrator, 32 curated agents, 139 curated skills, 2 named workfl",
-    "id": "sehoon787/my-claude",
-    "language": "JavaScript",
-    "name": "sehoon787/my-claude",
-    "stars": 16,
-    "updated_at": "2026-09-29T11:45:41Z",
-    "url": "https://github.com/sehoon787/my-claude"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-09-29T11:35:22Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
@@ -124,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-09-29T11:17:47Z",
     "url": "https://github.com/oldfunk/paper-trading"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 738,
-    "updated_at": "2026-09-29T11:56:47Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "Lean, extended fork of Nous Research's Hermes Agent \u2014 free model suite, connectors, and ~20 perf fixes. Upstream credite",
@@ -203,7 +221,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 26,
-    "updated_at": "2026-09-29T11:21:30Z",
+    "updated_at": "2026-09-29T12:08:39Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -346,18 +364,9 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 32552,
+    "stars": 32557,
     "updated_at": "2026-09-29T09:55:25Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3479,
-    "updated_at": "2026-09-29T09:55:18Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Local pre-write containment & structural scoring for AI coding agents: deterministic policy, Mamba-3 SSM coherence, and ",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-29T09:32:48Z",
     "url": "https://github.com/bettersilvanus849/inner-coordinates"
-  },
-  {
-    "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
-    "id": "Blaz742/web-pentest-lab",
-    "language": "\u2014",
-    "name": "Blaz742/web-pentest-lab",
-    "stars": 0,
-    "updated_at": "2026-09-29T09:31:56Z",
-    "url": "https://github.com/Blaz742/web-pentest-lab"
   }
 ]
