@@ -1,11 +1,65 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 25,
+    "updated_at": "2026-09-29T10:14:27Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
+    "id": "oldfunk/paper-trading",
+    "language": "Python",
+    "name": "oldfunk/paper-trading",
+    "stars": 1,
+    "updated_at": "2026-09-29T10:11:23Z",
+    "url": "https://github.com/oldfunk/paper-trading"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 738,
+    "updated_at": "2026-09-29T10:09:32Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "IAM for your AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review risky a",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 216,
+    "updated_at": "2026-09-29T10:10:48Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
+    "id": "anchor-inference/daedalus",
+    "language": "Python",
+    "name": "anchor-inference/daedalus",
+    "stars": 0,
+    "updated_at": "2026-09-29T10:00:35Z",
+    "url": "https://github.com/anchor-inference/daedalus"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-09-29T10:00:18Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
     "id": "Cyrax321/CONTINUUM",
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 28,
-    "updated_at": "2026-09-29T09:59:45Z",
+    "updated_at": "2026-09-29T10:12:16Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -18,29 +72,11 @@
     "url": "https://github.com/roydonsequeira/CORTEX-Private-Intelligence-Framework"
   },
   {
-    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
-    "id": "oldfunk/paper-trading",
-    "language": "Python",
-    "name": "oldfunk/paper-trading",
-    "stars": 1,
-    "updated_at": "2026-09-29T09:56:41Z",
-    "url": "https://github.com/oldfunk/paper-trading"
-  },
-  {
-    "description": "IAM for your AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review risky a",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 216,
-    "updated_at": "2026-09-29T09:56:32Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 32547,
+    "stars": 32549,
     "updated_at": "2026-09-29T09:55:25Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -50,17 +86,8 @@
     "language": "Rust",
     "name": "ljedrz/nachalnik",
     "stars": 5,
-    "updated_at": "2026-09-29T09:54:37Z",
+    "updated_at": "2026-09-29T10:07:02Z",
     "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 25,
-    "updated_at": "2026-09-29T09:54:19Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "AI-powered image generation and chat studio",
@@ -68,7 +95,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-09-29T09:56:10Z",
+    "updated_at": "2026-09-29T10:14:32Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -77,7 +104,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 1,
-    "updated_at": "2026-09-29T09:51:27Z",
+    "updated_at": "2026-09-29T10:14:05Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -333,15 +360,6 @@
     "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
   },
   {
-    "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
-    "id": "anchor-inference/daedalus",
-    "language": "Python",
-    "name": "anchor-inference/daedalus",
-    "stars": 0,
-    "updated_at": "2026-09-29T09:15:23Z",
-    "url": "https://github.com/anchor-inference/daedalus"
-  },
-  {
     "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
     "id": "muhzars/Agent.cpp",
     "language": "C++",
@@ -378,15 +396,6 @@
     "url": "https://github.com/xhqing/DayTradingAgent"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-09-29T09:38:34Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
     "id": "faheela-786/ComfyUI-qwenmultiangle",
     "language": "\u2014",
@@ -412,15 +421,6 @@
     "stars": 1,
     "updated_at": "2026-09-29T09:09:35Z",
     "url": "https://github.com/amineeng/scraping-browser"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 738,
-    "updated_at": "2026-09-29T09:19:07Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
