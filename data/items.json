@@ -1,5 +1,50 @@
 [
   {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-09-29T00:30:04Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Versioned scientific modeling engine and Agent Skill with Model IR, simulation, fitting, uncertainty, causal/Bayesian in",
+    "id": "Furox-Art/axiomize",
+    "language": "Python",
+    "name": "Furox-Art/axiomize",
+    "stars": 3,
+    "updated_at": "2026-09-29T00:29:50Z",
+    "url": "https://github.com/Furox-Art/axiomize"
+  },
+  {
+    "description": "Pre-registered test of an AI analyst (Antigravity CLI) writing daily trade theses for OKX BTC/ETH/SOL perpetuals; data o",
+    "id": "crypmiy/vibe-trading-okx-futures",
+    "language": "Python",
+    "name": "crypmiy/vibe-trading-okx-futures",
+    "stars": 0,
+    "updated_at": "2026-09-29T00:28:51Z",
+    "url": "https://github.com/crypmiy/vibe-trading-okx-futures"
+  },
+  {
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 108,
+    "updated_at": "2026-09-29T00:30:10Z",
+    "url": "https://github.com/AVADSA25/codec"
+  },
+  {
+    "description": "A self-hosted Telegram AI bot powered by Ollama, with persistent memory, custom personalities, and real-time streaming.",
+    "id": "Ali-Sdg90/Fabrexa-AI-Ollama",
+    "language": "JavaScript",
+    "name": "Ali-Sdg90/Fabrexa-AI-Ollama",
+    "stars": 0,
+    "updated_at": "2026-09-29T00:17:32Z",
+    "url": "https://github.com/Ali-Sdg90/Fabrexa-AI-Ollama"
+  },
+  {
     "description": "\ud83e\udd16 \u65b0\u4e00\u4ee3\u5f00\u6e90 Chrome \u4fa7\u8fb9\u680f\u81ea\u4e3b AI \u6d4f\u89c8\u5668\u667a\u80fd\u4f53\uff1a\u76ee\u6807\u9a71\u52a8\u3001\u957f\u7a0b\u89c4\u5212\u3001\u89c6\u89c9\u7a7a\u95f4\u611f\u77e5\u4e0e\u7269\u7406\u7ea7\u64cd\u63a7\uff0c\u652f\u6301 DeepSeek \u601d\u8003\u6a21\u578b\u4e0e\u672c\u5730\u79bb\u7ebf LLM (BYOK)",
     "id": "lusipad/browser-agent",
     "language": "TypeScript",
@@ -23,7 +68,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-29T00:09:51Z",
+    "updated_at": "2026-09-29T00:29:36Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -104,7 +149,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-29T00:03:26Z",
+    "updated_at": "2026-09-29T00:22:22Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -115,33 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-28T23:55:33Z",
     "url": "https://github.com/hsh2578/ai-equity-research-agent"
-  },
-  {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 108,
-    "updated_at": "2026-09-29T00:13:00Z",
-    "url": "https://github.com/AVADSA25/codec"
-  },
-  {
-    "description": "A self-hosted Telegram AI bot powered by Ollama, with persistent memory, custom personalities, and real-time streaming.",
-    "id": "Ali-Sdg90/Fabrexa-AI-Ollama",
-    "language": "JavaScript",
-    "name": "Ali-Sdg90/Fabrexa-AI-Ollama",
-    "stars": 0,
-    "updated_at": "2026-09-28T23:53:39Z",
-    "url": "https://github.com/Ali-Sdg90/Fabrexa-AI-Ollama"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-09-29T00:05:28Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -288,15 +306,6 @@
     "url": "https://github.com/Furox-Art/axiomize-quantum-skills-2.0"
   },
   {
-    "description": "Versioned scientific modeling engine and Agent Skill with Model IR, simulation, fitting, uncertainty, causal/Bayesian in",
-    "id": "Furox-Art/axiomize",
-    "language": "Python",
-    "name": "Furox-Art/axiomize",
-    "stars": 3,
-    "updated_at": "2026-09-28T23:13:32Z",
-    "url": "https://github.com/Furox-Art/axiomize"
-  },
-  {
     "description": "A quantum-inspired reasoning skill for exploring, scoring, pruning, and merging multiple solution paths.",
     "id": "Furox-Art/quantum-reasoning-skill",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-28T22:50:59Z",
     "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-09-28T22:48:04Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
   }
 ]
