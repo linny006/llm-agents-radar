@@ -1,21 +1,48 @@
 [
   {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-09-29T21:27:29Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-29T21:29:08Z",
+    "updated_at": "2026-09-29T21:44:56Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "A tiny \"ask a question, get a cited answer\" service that emulates Perplexity Search",
+    "id": "Adhiambo-Cynthia/Perplexity-lite",
+    "language": "Python",
+    "name": "Adhiambo-Cynthia/Perplexity-lite",
+    "stars": 1,
+    "updated_at": "2026-09-29T21:37:46Z",
+    "url": "https://github.com/Adhiambo-Cynthia/Perplexity-lite"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 740,
+    "updated_at": "2026-09-29T21:32:48Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "\ud83d\udc27 is currently a work in progress... Stay tuned! ",
+    "id": "Maximooch/penguin",
+    "language": "Python",
+    "name": "Maximooch/penguin",
+    "stars": 6,
+    "updated_at": "2026-09-29T21:32:13Z",
+    "url": "https://github.com/Maximooch/penguin"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-09-29T21:44:54Z",
+    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "An observability-driven text-only core for coordinating ephemeral LLM agents",
@@ -50,7 +77,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4438,
-    "updated_at": "2026-09-29T21:15:49Z",
+    "updated_at": "2026-09-29T21:41:44Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -88,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-29T20:53:10Z",
     "url": "https://github.com/sunnnn2005/data-quality-agent"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 740,
-    "updated_at": "2026-09-29T21:24:33Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-29T19:28:40Z",
     "url": "https://github.com/Mooncore-inc/demon-cry"
-  },
-  {
-    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
-    "id": "bigduu/Zenith",
-    "language": "JavaScript",
-    "name": "bigduu/Zenith",
-    "stars": 6,
-    "updated_at": "2026-09-29T19:39:25Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
-    "id": "ljedrz/nachalnik",
-    "language": "Rust",
-    "name": "ljedrz/nachalnik",
-    "stars": 5,
-    "updated_at": "2026-09-29T19:36:52Z",
-    "url": "https://github.com/ljedrz/nachalnik"
   }
 ]
