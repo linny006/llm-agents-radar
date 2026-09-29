@@ -1,5 +1,68 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-29T05:42:58Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 1,
+    "updated_at": "2026-09-29T05:40:36Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "Personal agents at 1/1000 the cost. A VM-less personal agent on Cloudflare: WeChat, Telegram, web, email, cloud browser.",
+    "id": "AaronWong1999/museinst",
+    "language": "TypeScript",
+    "name": "AaronWong1999/museinst",
+    "stars": 0,
+    "updated_at": "2026-09-29T05:39:43Z",
+    "url": "https://github.com/AaronWong1999/museinst"
+  },
+  {
+    "description": "Agent-native product search: multi-source scrape \u2192 deterministic constraints \u2192 LLM match \u2192 price watches + order trackin",
+    "id": "anatolykoptev/quarryn",
+    "language": "Go",
+    "name": "anatolykoptev/quarryn",
+    "stars": 0,
+    "updated_at": "2026-09-29T05:36:09Z",
+    "url": "https://github.com/anatolykoptev/quarryn"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-09-29T05:42:23Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
+    "id": "jack-h-park/pm-intelligence-engine",
+    "language": "Python",
+    "name": "jack-h-park/pm-intelligence-engine",
+    "stars": 0,
+    "updated_at": "2026-09-29T05:32:25Z",
+    "url": "https://github.com/jack-h-park/pm-intelligence-engine"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-09-29T05:32:44Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
     "description": "Open-Source Intelligent Command Layer",
     "id": "AVADSA25/codec",
     "language": "Python",
@@ -25,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-29T05:19:29Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 1,
-    "updated_at": "2026-09-29T05:29:48Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
@@ -72,15 +126,6 @@
     "url": "https://github.com/zhuangjia777/agent-shield"
   },
   {
-    "description": "Personal agents at 1/1000 the cost. A VM-less personal agent on Cloudflare: WeChat, Telegram, web, email, cloud browser.",
-    "id": "AaronWong1999/museinst",
-    "language": "TypeScript",
-    "name": "AaronWong1999/museinst",
-    "stars": 0,
-    "updated_at": "2026-09-29T05:11:10Z",
-    "url": "https://github.com/AaronWong1999/museinst"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
@@ -106,24 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-29T05:05:42Z",
     "url": "https://github.com/djjjs22/embodied-plan-eval"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-29T05:24:07Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Agent-native product search: multi-source scrape \u2192 deterministic constraints \u2192 LLM match \u2192 price watches + order trackin",
-    "id": "anatolykoptev/quarryn",
-    "language": "Go",
-    "name": "anatolykoptev/quarryn",
-    "stars": 0,
-    "updated_at": "2026-09-29T05:24:58Z",
-    "url": "https://github.com/anatolykoptev/quarryn"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -167,7 +194,7 @@
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 276,
-    "updated_at": "2026-09-29T05:12:34Z",
+    "updated_at": "2026-09-29T05:34:06Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
@@ -229,7 +256,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 14264,
+    "stars": 14263,
     "updated_at": "2026-09-29T04:34:56Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -241,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-09-29T04:34:31Z",
     "url": "https://github.com/EpsteinF1les/tts"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-09-29T05:29:40Z",
-    "url": "https://github.com/JSL107/personal_agents"
   },
   {
     "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
@@ -324,15 +342,6 @@
     "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
   },
   {
-    "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
-    "id": "jack-h-park/pm-intelligence-engine",
-    "language": "Python",
-    "name": "jack-h-park/pm-intelligence-engine",
-    "stars": 0,
-    "updated_at": "2026-09-29T05:18:48Z",
-    "url": "https://github.com/jack-h-park/pm-intelligence-engine"
-  },
-  {
     "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
     "id": "mriazi1982/octopai",
     "language": "Python",
@@ -373,7 +382,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 32533,
+    "stars": 32534,
     "updated_at": "2026-09-29T04:18:14Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-29T04:03:41Z",
     "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-09-29T04:01:51Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
   }
 ]
