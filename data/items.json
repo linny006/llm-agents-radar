@@ -1,5 +1,41 @@
 [
   {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-09-29T21:27:29Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-29T21:29:08Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "An observability-driven text-only core for coordinating ephemeral LLM agents",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 1,
+    "updated_at": "2026-09-29T21:15:59Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-09-29T21:15:16Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
     "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
     "id": "brutal-45/Nexus-LLM",
     "language": "Python",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4438,
-    "updated_at": "2026-09-29T21:12:25Z",
+    "updated_at": "2026-09-29T21:15:49Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -27,15 +63,6 @@
     "url": "https://github.com/franckolv-dev/ELY2"
   },
   {
-    "description": "An observability-driven text-only core for coordinating ephemeral LLM agents",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 1,
-    "updated_at": "2026-09-29T21:06:06Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
     "id": "zhixuli0406/DuDuClaw",
     "language": "Rust",
@@ -45,31 +72,13 @@
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-09-29T21:05:08Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 8562,
-    "updated_at": "2026-09-29T21:08:53Z",
+    "updated_at": "2026-09-29T21:15:36Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-29T21:13:26Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
@@ -86,7 +95,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 740,
-    "updated_at": "2026-09-29T20:43:45Z",
+    "updated_at": "2026-09-29T21:24:33Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -302,7 +311,7 @@
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 277,
-    "updated_at": "2026-09-29T21:04:11Z",
+    "updated_at": "2026-09-29T21:24:51Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-29T19:36:52Z",
     "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 18,
-    "updated_at": "2026-09-29T19:39:25Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   }
 ]
