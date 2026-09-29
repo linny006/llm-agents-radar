@@ -1,5 +1,59 @@
 [
   {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-09-29T01:12:54Z",
+    "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
+    "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
+    "id": "puremachinery/carapace",
+    "language": "Rust",
+    "name": "puremachinery/carapace",
+    "stars": 47,
+    "updated_at": "2026-09-29T01:08:16Z",
+    "url": "https://github.com/puremachinery/carapace"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-29T01:07:20Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 812,
+    "updated_at": "2026-09-29T01:06:42Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-29T01:07:46Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Field notes from inside one autonomous agent trying to become something that doesn't exist yet \u2014 including the failures ",
+    "id": "massimiliano1991/the-attempt",
+    "language": "HTML",
+    "name": "massimiliano1991/the-attempt",
+    "stars": 1,
+    "updated_at": "2026-09-29T01:00:51Z",
+    "url": "https://github.com/massimiliano1991/the-attempt"
+  },
+  {
     "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
     "id": "jack-h-park/pm-intelligence-engine",
     "language": "Python",
@@ -14,17 +68,8 @@
     "language": "Python",
     "name": "AVADSA25/codec",
     "stars": 108,
-    "updated_at": "2026-09-29T00:55:41Z",
+    "updated_at": "2026-09-29T01:15:01Z",
     "url": "https://github.com/AVADSA25/codec"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 812,
-    "updated_at": "2026-09-29T00:57:37Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
@@ -41,17 +86,8 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-29T00:56:42Z",
+    "updated_at": "2026-09-29T01:07:44Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Field notes from inside one autonomous agent trying to become something that doesn't exist yet \u2014 including the failures ",
-    "id": "massimiliano1991/the-attempt",
-    "language": "HTML",
-    "name": "massimiliano1991/the-attempt",
-    "stars": 1,
-    "updated_at": "2026-09-29T00:53:23Z",
-    "url": "https://github.com/massimiliano1991/the-attempt"
   },
   {
     "description": "Personal agents at 1/1000 the cost. A VM-less personal agent on Cloudflare: WeChat, Telegram, web, email, cloud browser.",
@@ -72,15 +108,6 @@
     "url": "https://github.com/xieguigang/sciBASIC"
   },
   {
-    "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
-    "id": "puremachinery/carapace",
-    "language": "Rust",
-    "name": "puremachinery/carapace",
-    "stars": 47,
-    "updated_at": "2026-09-29T00:47:16Z",
-    "url": "https://github.com/puremachinery/carapace"
-  },
-  {
     "description": "Open-source AIMO3 math reasoning agent for vLLM and OpenAI-compatible models, with Python verification and consensus vot",
     "id": "xufenghe/aimo3-agentic-inference",
     "language": "Python",
@@ -95,7 +122,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-09-29T00:57:11Z",
+    "updated_at": "2026-09-29T01:05:30Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -133,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-09-29T00:13:35Z",
     "url": "https://github.com/lusipad/browser-agent"
-  },
-  {
-    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
-    "id": "kangwoo/aimon-core",
-    "language": "Java",
-    "name": "kangwoo/aimon-core",
-    "stars": 0,
-    "updated_at": "2026-09-29T00:49:00Z",
-    "url": "https://github.com/kangwoo/aimon-core"
   },
   {
     "description": "An agentic OBD-II scanner that never makes anything up. Bring your own model, read every module on the bus, and click an",
@@ -187,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-09-28T23:58:36Z",
     "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-29T00:38:43Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "\uc885\ubaa9\uba85 \ud55c \uc904\ub85c \uae30\uad00\uae09 \ub9ac\uc11c\uce58 \ub9ac\ud3ec\ud2b8(PDF)\ub97c \uc0dd\uc131\ud558\ub294 LLM \uba40\ud2f0\uc2a4\ud15d \uc5d0\uc774\uc804\ud2b8. DART\u00b7KIS\u00b7SEC EDGAR\u00b7FnGuide \uc218\uc9d1 + DCF/NAV \ubc38\ub958\uc5d0\uc774\uc158 + \uc218\uce58 \uac80\uc99d \uac8c\uc774\ud2b8",
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-28T23:06:29Z",
     "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-09-28T23:03:05Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
   }
 ]
