@@ -4,9 +4,45 @@
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
-    "stars": 25,
-    "updated_at": "2026-09-29T10:14:27Z",
+    "stars": 26,
+    "updated_at": "2026-09-29T10:27:50Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Experimental DSH Minimal trajectory-steering adapters for DeepSeek V4 Pro on Pi, Oh My Pi, and OpenCode V2. \u63a8\u7406\u8f68\u8ff9\u5f15\u5bfc\u5b9e\u9a8c\u3002",
+    "id": "vavilonska/SeekAnchor",
+    "language": "TypeScript",
+    "name": "vavilonska/SeekAnchor",
+    "stars": 18,
+    "updated_at": "2026-09-29T10:27:14Z",
+    "url": "https://github.com/vavilonska/SeekAnchor"
+  },
+  {
+    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 565,
+    "updated_at": "2026-09-29T10:25:14Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-09-29T10:19:49Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 1,
+    "updated_at": "2026-09-29T10:16:40Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
@@ -50,7 +86,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-09-29T10:00:18Z",
+    "updated_at": "2026-09-29T10:19:24Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -88,24 +124,6 @@
     "stars": 5,
     "updated_at": "2026-09-29T10:07:02Z",
     "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-09-29T10:14:32Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 1,
-    "updated_at": "2026-09-29T10:14:05Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
@@ -430,23 +448,5 @@
     "stars": 5802,
     "updated_at": "2026-09-29T09:08:57Z",
     "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
-    "id": "Saran1536/ComfyUI-LoaderUtils",
-    "language": "Python",
-    "name": "Saran1536/ComfyUI-LoaderUtils",
-    "stars": 0,
-    "updated_at": "2026-09-29T09:07:03Z",
-    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 0,
-    "updated_at": "2026-09-29T09:05:50Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
   }
 ]
