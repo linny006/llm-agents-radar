@@ -1,11 +1,20 @@
 [
   {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-09-29T11:35:22Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "All-in-one agent harness for Claude Code \u2014 Boss meta-orchestrator, 32 curated agents, 139 curated skills, 2 named workfl",
     "id": "sehoon787/my-claude",
     "language": "JavaScript",
     "name": "sehoon787/my-claude",
     "stars": 16,
-    "updated_at": "2026-09-29T11:28:22Z",
+    "updated_at": "2026-09-29T11:43:49Z",
     "url": "https://github.com/sehoon787/my-claude"
   },
   {
@@ -140,7 +149,7 @@
     "language": "Python",
     "name": "AVADSA25/codec",
     "stars": 108,
-    "updated_at": "2026-09-29T11:25:30Z",
+    "updated_at": "2026-09-29T11:42:39Z",
     "url": "https://github.com/AVADSA25/codec"
   },
   {
@@ -225,15 +234,6 @@
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-09-29T11:16:35Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "Experimental DSH Minimal trajectory-steering adapters for DeepSeek V4 Pro on Pi, Oh My Pi, and OpenCode V2. \u63a8\u7406\u8f68\u8ff9\u5f15\u5bfc\u5b9e\u9a8c\u3002",
     "id": "vavilonska/SeekAnchor",
     "language": "TypeScript",
@@ -257,7 +257,7 @@
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 216,
-    "updated_at": "2026-09-29T10:10:48Z",
+    "updated_at": "2026-09-29T11:41:29Z",
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
@@ -274,7 +274,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 32551,
+    "stars": 32552,
     "updated_at": "2026-09-29T09:55:25Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -400,7 +400,7 @@
     "id": "jundizhou/easy-stock",
     "language": "Go",
     "name": "jundizhou/easy-stock",
-    "stars": 1078,
+    "stars": 1079,
     "updated_at": "2026-09-29T09:30:25Z",
     "url": "https://github.com/jundizhou/easy-stock"
   },
