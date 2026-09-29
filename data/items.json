@@ -1,12 +1,93 @@
 [
   {
+    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 565,
+    "updated_at": "2026-09-29T10:41:19Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 5,
+    "updated_at": "2026-09-29T10:39:35Z",
+    "url": "https://github.com/ljedrz/nachalnik"
+  },
+  {
+    "description": "LLM-guided model compression search framework comparing agentic decision-making with TPE, NSGA-II, and Random Search acr",
+    "id": "clairechien0627/Green_AI_Compression_Orchestrator",
+    "language": "Jupyter Notebook",
+    "name": "clairechien0627/Green_AI_Compression_Orchestrator",
+    "stars": 0,
+    "updated_at": "2026-09-29T10:38:33Z",
+    "url": "https://github.com/clairechien0627/Green_AI_Compression_Orchestrator"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 1,
+    "updated_at": "2026-09-29T10:37:52Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 49,
+    "updated_at": "2026-09-29T10:37:38Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
+    "id": "roxm337/osint-agent",
+    "language": "Python",
+    "name": "roxm337/osint-agent",
+    "stars": 0,
+    "updated_at": "2026-09-29T10:36:18Z",
+    "url": "https://github.com/roxm337/osint-agent"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 26,
-    "updated_at": "2026-09-29T10:27:50Z",
+    "updated_at": "2026-09-29T10:34:27Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-09-29T10:33:42Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-09-29T10:33:31Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "AIGC \u7ade\u54c1\u6001\u52bf\u611f\u77e5\u4e0e\u5168\u666f\u60c5\u62a5\u5206\u6790 Agent - \u81ea\u52a8\u5316\u5e76\u53d1\u722c\u53d6\u3001\u65e0\u5934\u89c6\u89c9\u5b58\u8bc1\u3001\u53cc\u8f68\u753b\u50cf\u589e\u91cf\u8ffd\u8e2a\u3001\u5b8f\u89c2\u6d1e\u5bdf\u65e5\u62a5\u751f\u6210\u4e0e\u4ea4\u4e92\u5f0f\u7ba1\u7406\u63a7\u5236\u53f0",
+    "id": "juin20260102-oss/aigc-competitor-agent",
+    "language": "Python",
+    "name": "juin20260102-oss/aigc-competitor-agent",
+    "stars": 0,
+    "updated_at": "2026-09-29T10:31:07Z",
+    "url": "https://github.com/juin20260102-oss/aigc-competitor-agent"
   },
   {
     "description": "Experimental DSH Minimal trajectory-steering adapters for DeepSeek V4 Pro on Pi, Oh My Pi, and OpenCode V2. \u63a8\u7406\u8f68\u8ff9\u5f15\u5bfc\u5b9e\u9a8c\u3002",
@@ -18,31 +99,13 @@
     "url": "https://github.com/vavilonska/SeekAnchor"
   },
   {
-    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 565,
-    "updated_at": "2026-09-29T10:25:14Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
-  },
-  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-09-29T10:19:49Z",
+    "updated_at": "2026-09-29T10:38:59Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 1,
-    "updated_at": "2026-09-29T10:16:40Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
@@ -81,15 +144,6 @@
     "url": "https://github.com/anchor-inference/daedalus"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-09-29T10:19:24Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
     "id": "Cyrax321/CONTINUUM",
     "language": "Python",
@@ -112,27 +166,9 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 32549,
+    "stars": 32550,
     "updated_at": "2026-09-29T09:55:25Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
-    "id": "ljedrz/nachalnik",
-    "language": "Rust",
-    "name": "ljedrz/nachalnik",
-    "stars": 5,
-    "updated_at": "2026-09-29T10:07:02Z",
-    "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
-    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 49,
-    "updated_at": "2026-09-29T09:46:40Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
     "description": "Local pre-write containment & structural scoring for AI coding agents: deterministic policy, Mamba-3 SSM coherence, and ",
@@ -256,7 +292,7 @@
     "id": "jundizhou/easy-stock",
     "language": "Go",
     "name": "jundizhou/easy-stock",
-    "stars": 1077,
+    "stars": 1078,
     "updated_at": "2026-09-29T09:30:25Z",
     "url": "https://github.com/jundizhou/easy-stock"
   },
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-29T09:11:13Z",
     "url": "https://github.com/xhqing/DayTradingAgent"
-  },
-  {
-    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
-    "id": "faheela-786/ComfyUI-qwenmultiangle",
-    "language": "\u2014",
-    "name": "faheela-786/ComfyUI-qwenmultiangle",
-    "stars": 2,
-    "updated_at": "2026-09-29T09:11:02Z",
-    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
-  },
-  {
-    "description": "Personal agents at 1/1000 the cost. A VM-less personal agent on Cloudflare: WeChat, Telegram, web, email, cloud browser.",
-    "id": "AaronWong1999/museinst",
-    "language": "TypeScript",
-    "name": "AaronWong1999/museinst",
-    "stars": 0,
-    "updated_at": "2026-09-29T09:10:44Z",
-    "url": "https://github.com/AaronWong1999/museinst"
-  },
-  {
-    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
-    "id": "amineeng/scraping-browser",
-    "language": "\u2014",
-    "name": "amineeng/scraping-browser",
-    "stars": 1,
-    "updated_at": "2026-09-29T09:09:35Z",
-    "url": "https://github.com/amineeng/scraping-browser"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5802,
-    "updated_at": "2026-09-29T09:08:57Z",
-    "url": "https://github.com/areal-project/AReaL"
   }
 ]
