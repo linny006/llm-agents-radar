@@ -1,5 +1,68 @@
 [
   {
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 108,
+    "updated_at": "2026-09-29T05:25:47Z",
+    "url": "https://github.com/AVADSA25/codec"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 128,
+    "updated_at": "2026-09-29T05:21:45Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-09-29T05:19:29Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 1,
+    "updated_at": "2026-09-29T05:29:48Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-09-29T05:16:40Z",
+    "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-09-29T05:27:54Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
+    "id": "ximing/vital",
+    "language": "TypeScript",
+    "name": "ximing/vital",
+    "stars": 3,
+    "updated_at": "2026-09-29T05:23:15Z",
+    "url": "https://github.com/ximing/vital"
+  },
+  {
     "description": "An AI security agent that really attacks: local audits + red-vs-blue drills in an isolated Docker range. 100% local, MIT",
     "id": "zhuangjia777/agent-shield",
     "language": "Python",
@@ -36,15 +99,6 @@
     "url": "https://github.com/plurnk/plurnk-service"
   },
   {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-09-29T05:06:31Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
     "description": "\u5177\u8eab\u4efb\u52a1\u89c4\u5212\u8bc4\u6d4b \u00b7 Embodied Task Planning Eval | \u7b26\u53f7\u72b6\u6001\u673a\u6267\u884c + \u5ba2\u89c2\u771f\u503c\u5224\u5b9a\uff0c\u65e0\u9700\u4eff\u771f\u5668 / GPU / \u673a\u5668\u4eba",
     "id": "djjjs22/embodied-plan-eval",
     "language": "Python",
@@ -59,7 +113,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-29T05:13:30Z",
+    "updated_at": "2026-09-29T05:24:07Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -68,7 +122,7 @@
     "language": "Go",
     "name": "anatolykoptev/quarryn",
     "stars": 0,
-    "updated_at": "2026-09-29T05:02:46Z",
+    "updated_at": "2026-09-29T05:24:58Z",
     "url": "https://github.com/anatolykoptev/quarryn"
   },
   {
@@ -79,15 +133,6 @@
     "stars": 25,
     "updated_at": "2026-09-29T05:01:25Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 1,
-    "updated_at": "2026-09-29T05:01:23Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "MCP server for spatial transcriptomics analysis through natural language interfaces.",
@@ -106,15 +151,6 @@
     "stars": 48,
     "updated_at": "2026-09-29T04:55:40Z",
     "url": "https://github.com/ruc-datalab/CoDA-Bench"
-  },
-  {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 108,
-    "updated_at": "2026-09-29T05:14:16Z",
-    "url": "https://github.com/AVADSA25/codec"
   },
   {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
@@ -212,17 +248,8 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-29T05:07:15Z",
+    "updated_at": "2026-09-29T05:29:40Z",
     "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
-    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
-    "id": "kangwoo/aimon-core",
-    "language": "Java",
-    "name": "kangwoo/aimon-core",
-    "stars": 0,
-    "updated_at": "2026-09-29T05:05:48Z",
-    "url": "https://github.com/kangwoo/aimon-core"
   },
   {
     "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
@@ -302,7 +329,7 @@
     "language": "Python",
     "name": "jack-h-park/pm-intelligence-engine",
     "stars": 0,
-    "updated_at": "2026-09-29T04:35:57Z",
+    "updated_at": "2026-09-29T05:18:48Z",
     "url": "https://github.com/jack-h-park/pm-intelligence-engine"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-29T04:01:51Z",
     "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-09-29T05:05:27Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-09-29T03:59:09Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "AI-assisted Blender modeling console: plan-JSON -> deterministic compiler (GN/material/rig) -> verifier closed loop. 29 ",
-    "id": "master666-max/blender-ai-console",
-    "language": "Python",
-    "name": "master666-max/blender-ai-console",
-    "stars": 0,
-    "updated_at": "2026-09-29T03:57:05Z",
-    "url": "https://github.com/master666-max/blender-ai-console"
   }
 ]
