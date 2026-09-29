@@ -1,5 +1,203 @@
 [
   {
+    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 49,
+    "updated_at": "2026-09-29T13:29:49Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "Versioned scientific modeling engine and Agent Skill with Model IR, simulation, fitting, uncertainty, causal/Bayesian in",
+    "id": "Furox-Art/axiomize",
+    "language": "Python",
+    "name": "Furox-Art/axiomize",
+    "stars": 3,
+    "updated_at": "2026-09-29T13:29:29Z",
+    "url": "https://github.com/Furox-Art/axiomize"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 812,
+    "updated_at": "2026-09-29T13:29:28Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
+    "id": "bigduu/Zenith",
+    "language": "JavaScript",
+    "name": "bigduu/Zenith",
+    "stars": 6,
+    "updated_at": "2026-09-29T13:29:28Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
+    "id": "haibingzhao/easyai",
+    "language": "Kotlin",
+    "name": "haibingzhao/easyai",
+    "stars": 1,
+    "updated_at": "2026-09-29T13:28:47Z",
+    "url": "https://github.com/haibingzhao/easyai"
+  },
+  {
+    "description": "Strict plan + independent auditor Agent Skill \u2014 verifies AI agent work with real command evidence, never trusts the agen",
+    "id": "Furox-Art/plan-auditor",
+    "language": "Python",
+    "name": "Furox-Art/plan-auditor",
+    "stars": 0,
+    "updated_at": "2026-09-29T13:29:34Z",
+    "url": "https://github.com/Furox-Art/plan-auditor"
+  },
+  {
+    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 565,
+    "updated_at": "2026-09-29T13:27:25Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-29T13:25:34Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
+    "id": "strobilevitellus470/argus-ai",
+    "language": "Python",
+    "name": "strobilevitellus470/argus-ai",
+    "stars": 1,
+    "updated_at": "2026-09-29T13:25:06Z",
+    "url": "https://github.com/strobilevitellus470/argus-ai"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 18,
+    "updated_at": "2026-09-29T13:24:57Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-09-29T13:25:00Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
+    "id": "laoxs2002/genai-agentes",
+    "language": "Jupyter Notebook",
+    "name": "laoxs2002/genai-agentes",
+    "stars": 0,
+    "updated_at": "2026-09-29T13:22:40Z",
+    "url": "https://github.com/laoxs2002/genai-agentes"
+  },
+  {
+    "description": "A quantum-inspired reasoning skill for exploring, scoring, pruning, and merging multiple solution paths.",
+    "id": "Furox-Art/quantum-reasoning-skill",
+    "language": "Python",
+    "name": "Furox-Art/quantum-reasoning-skill",
+    "stars": 0,
+    "updated_at": "2026-09-29T13:21:46Z",
+    "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4437,
+    "updated_at": "2026-09-29T13:28:41Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
+    "id": "heba-ramdan/harness",
+    "language": "TypeScript",
+    "name": "heba-ramdan/harness",
+    "stars": 1,
+    "updated_at": "2026-09-29T13:21:07Z",
+    "url": "https://github.com/heba-ramdan/harness"
+  },
+  {
+    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
+    "id": "Ronit0p/AutoGod",
+    "language": "Java",
+    "name": "Ronit0p/AutoGod",
+    "stars": 0,
+    "updated_at": "2026-09-29T13:20:36Z",
+    "url": "https://github.com/Ronit0p/AutoGod"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 1,
+    "updated_at": "2026-09-29T13:20:23Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "Axiomize 2.0 - scientific modeling engine plus quantum-inspired multi-branch reasoning",
+    "id": "Furox-Art/axiomize-quantum-skills-2.0",
+    "language": "Python",
+    "name": "Furox-Art/axiomize-quantum-skills-2.0",
+    "stars": 0,
+    "updated_at": "2026-09-29T13:20:05Z",
+    "url": "https://github.com/Furox-Art/axiomize-quantum-skills-2.0"
+  },
+  {
+    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
+    "id": "lukky262/ARE",
+    "language": "\u2014",
+    "name": "lukky262/ARE",
+    "stars": 1,
+    "updated_at": "2026-09-29T13:19:42Z",
+    "url": "https://github.com/lukky262/ARE"
+  },
+  {
+    "description": "Field notes from inside one autonomous agent trying to become something that doesn't exist yet \u2014 including the failures ",
+    "id": "massimiliano1991/the-attempt",
+    "language": "HTML",
+    "name": "massimiliano1991/the-attempt",
+    "stars": 1,
+    "updated_at": "2026-09-29T13:19:20Z",
+    "url": "https://github.com/massimiliano1991/the-attempt"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 738,
+    "updated_at": "2026-09-29T13:17:08Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
+    "id": "muhzars/Agent.cpp",
+    "language": "C++",
+    "name": "muhzars/Agent.cpp",
+    "stars": 1,
+    "updated_at": "2026-09-29T13:15:30Z",
+    "url": "https://github.com/muhzars/Agent.cpp"
+  },
+  {
     "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
     "id": "faheela-786/ComfyUI-qwenmultiangle",
     "language": "\u2014",
@@ -54,21 +252,12 @@
     "url": "https://github.com/AaronWong1999/museinst"
   },
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 738,
-    "updated_at": "2026-09-29T13:09:40Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
     "description": "All-in-one agent harness for OpenAI Codex CLI \u2014 Boss meta-orchestrator, 17 curated agents (+17 opt-in AI specialists), 1",
     "id": "sehoon787/my-codex",
     "language": "Shell",
     "name": "sehoon787/my-codex",
     "stars": 29,
-    "updated_at": "2026-09-29T13:12:45Z",
+    "updated_at": "2026-09-29T13:22:24Z",
     "url": "https://github.com/sehoon787/my-codex"
   },
   {
@@ -97,15 +286,6 @@
     "stars": 3,
     "updated_at": "2026-09-29T12:53:02Z",
     "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 812,
-    "updated_at": "2026-09-29T12:50:58Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "",
@@ -198,15 +378,6 @@
     "url": "https://github.com/BlockRunAI/Franklin"
   },
   {
-    "description": "Field notes from inside one autonomous agent trying to become something that doesn't exist yet \u2014 including the failures ",
-    "id": "massimiliano1991/the-attempt",
-    "language": "HTML",
-    "name": "massimiliano1991/the-attempt",
-    "stars": 1,
-    "updated_at": "2026-09-29T12:28:35Z",
-    "url": "https://github.com/massimiliano1991/the-attempt"
-  },
-  {
     "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
     "id": "plurnk/plurnk-service",
     "language": "TypeScript",
@@ -214,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-09-29T12:19:39Z",
     "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 49,
-    "updated_at": "2026-09-29T12:19:34Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
@@ -241,15 +403,6 @@
     "stars": 4,
     "updated_at": "2026-09-29T12:13:06Z",
     "url": "https://github.com/Luciole-Studio/Misaka-Agent"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-09-29T12:28:50Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "SRE Agent - CNCF Sandbox Project",
@@ -279,15 +432,6 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "Strict plan + independent auditor Agent Skill \u2014 verifies AI agent work with real command evidence, never trusts the agen",
-    "id": "Furox-Art/plan-auditor",
-    "language": "Python",
-    "name": "Furox-Art/plan-auditor",
-    "stars": 0,
-    "updated_at": "2026-09-29T11:58:47Z",
-    "url": "https://github.com/Furox-Art/plan-auditor"
-  },
-  {
     "description": "Autonomous personal agent: talks, acts, never gives up. Multi-model, multi-user, self-improving",
     "id": "franckolv-dev/ELY2",
     "language": "Python",
@@ -304,149 +448,5 @@
     "stars": 502,
     "updated_at": "2026-09-29T12:06:43Z",
     "url": "https://github.com/expectedparrot/edsl"
-  },
-  {
-    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
-    "id": "Torvian-eu/chatbot",
-    "language": "Kotlin",
-    "name": "Torvian-eu/chatbot",
-    "stars": 4,
-    "updated_at": "2026-09-29T11:49:27Z",
-    "url": "https://github.com/Torvian-eu/chatbot"
-  },
-  {
-    "description": "\u7ed9\u5b83\u4e00\u4e2a\u5173\u4e8e A \u80a1\u516c\u53f8\u7684\u95ee\u9898\uff0c\u5b83\u81ea\u5df1\u89c4\u5212\u7814\u7a76\u6b65\u9aa4\u3001\u51b3\u5b9a\u8c03\u7528\u54ea\u4e9b\u6570\u636e\u5de5\u5177\u3001\u5ba1\u6838\u8bc1\u636e\u662f\u5426\u5145\u5206\uff0c\u6700\u540e\u4ea7\u51fa\u4e00\u4efd\u6bcf\u4e2a\u6570\u5b57\u90fd\u80fd\u8ffd\u6eaf\u56de\u6765\u6e90\uff08\u5e74\u62a5\u7b2c\u51e0\u9875 / \u54ea\u4e2a\u7f51\u5740\uff09\u7684\u7814\u7a76\u62a5\u544a\u3002LangGraph 8 \u8282\u70b9\u7f16\u6392 + 9 \u4e2a\u91d1\u878d\u6570\u636e\u5de5\u5177 + Chroma",
-    "id": "Wcrane-hhy/Finreserch_Ai_agent",
-    "language": "Python",
-    "name": "Wcrane-hhy/Finreserch_Ai_agent",
-    "stars": 0,
-    "updated_at": "2026-09-29T11:25:40Z",
-    "url": "https://github.com/Wcrane-hhy/Finreserch_Ai_agent"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 10,
-    "updated_at": "2026-09-29T11:18:04Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
-    "id": "oldfunk/paper-trading",
-    "language": "Python",
-    "name": "oldfunk/paper-trading",
-    "stars": 1,
-    "updated_at": "2026-09-29T11:17:47Z",
-    "url": "https://github.com/oldfunk/paper-trading"
-  },
-  {
-    "description": "Lean, extended fork of Nous Research's Hermes Agent \u2014 free model suite, connectors, and ~20 perf fixes. Upstream credite",
-    "id": "Chensihakniroth/anakot-agent-v1",
-    "language": "Python",
-    "name": "Chensihakniroth/anakot-agent-v1",
-    "stars": 0,
-    "updated_at": "2026-09-29T11:14:03Z",
-    "url": "https://github.com/Chensihakniroth/anakot-agent-v1"
-  },
-  {
-    "description": "\uc5d0\uc774\uc804\ud2b8 \uad8c\ud55c \ube0c\ub85c\ucee4 \u2014 AI \uc5d0\uc774\uc804\ud2b8\uc758 \ub3c4\uad6c \ud638\ucd9c\uc744 \ud5c8\uc6a9 \u00b7 \uac70\ubd80 \u00b7 \uc2b9\uc778\uc73c\ub85c \ud310\ub2e8\ud558\uace0 \uadfc\uac70\ub97c \ud574\uc2dc \uccb4\uc778 \uac10\uc0ac \ub85c\uadf8\ub85c \ub0a8\uae30\ub294 \uac80\ubb38\uc18c (OPA/Rego \u00b7 PostgreSQL \u00b7 Docker Compose, 1\uc778 \u00b7",
-    "id": "SunWoo1213/broker-agent",
-    "language": "Python",
-    "name": "SunWoo1213/broker-agent",
-    "stars": 0,
-    "updated_at": "2026-09-29T11:26:34Z",
-    "url": "https://github.com/SunWoo1213/broker-agent"
-  },
-  {
-    "description": "Streamlit app for asking plain-English questions about an uploaded CSV file, answered by a LangChain CSV agent and OpenA",
-    "id": "Hamza-Tahirr/CAI-Bot-for-CSV",
-    "language": "Python",
-    "name": "Hamza-Tahirr/CAI-Bot-for-CSV",
-    "stars": 0,
-    "updated_at": "2026-09-29T11:09:47Z",
-    "url": "https://github.com/Hamza-Tahirr/CAI-Bot-for-CSV"
-  },
-  {
-    "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
-    "id": "nitinmms/LitosAiCodingAgent",
-    "language": "C#",
-    "name": "nitinmms/LitosAiCodingAgent",
-    "stars": 5,
-    "updated_at": "2026-09-29T11:08:13Z",
-    "url": "https://github.com/nitinmms/LitosAiCodingAgent"
-  },
-  {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 1,
-    "updated_at": "2026-09-29T13:07:38Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 130,
-    "updated_at": "2026-09-29T11:05:42Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 28,
-    "updated_at": "2026-09-29T11:05:16Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 26,
-    "updated_at": "2026-09-29T12:45:10Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 108,
-    "updated_at": "2026-09-29T11:42:39Z",
-    "url": "https://github.com/AVADSA25/codec"
-  },
-  {
-    "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
-    "id": "yurika0211/lucky-agent",
-    "language": "Go",
-    "name": "yurika0211/lucky-agent",
-    "stars": 14,
-    "updated_at": "2026-09-29T10:59:00Z",
-    "url": "https://github.com/yurika0211/lucky-agent"
-  },
-  {
-    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
-    "id": "diaban/jobsmith",
-    "language": "Python",
-    "name": "diaban/jobsmith",
-    "stars": 0,
-    "updated_at": "2026-09-29T10:54:00Z",
-    "url": "https://github.com/diaban/jobsmith"
-  },
-  {
-    "description": "AIGC \u7ade\u54c1\u6001\u52bf\u611f\u77e5\u4e0e\u5168\u666f\u60c5\u62a5\u5206\u6790 Agent - \u81ea\u52a8\u5316\u5e76\u53d1\u722c\u53d6\u3001\u65e0\u5934\u89c6\u89c9\u5b58\u8bc1\u3001\u53cc\u8f68\u753b\u50cf\u589e\u91cf\u8ffd\u8e2a\u3001\u5b8f\u89c2\u6d1e\u5bdf\u65e5\u62a5\u751f\u6210\u4e0e\u4ea4\u4e92\u5f0f\u7ba1\u7406\u63a7\u5236\u53f0",
-    "id": "juin20260102-oss/aigc-competitor-agent",
-    "language": "Python",
-    "name": "juin20260102-oss/aigc-competitor-agent",
-    "stars": 0,
-    "updated_at": "2026-09-29T10:46:44Z",
-    "url": "https://github.com/juin20260102-oss/aigc-competitor-agent"
   }
 ]
