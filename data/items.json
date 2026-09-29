@@ -1,10 +1,73 @@
 [
   {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-09-29T06:15:07Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 49,
+    "updated_at": "2026-09-29T06:14:51Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 25,
+    "updated_at": "2026-09-29T06:13:59Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "An AI security agent that really attacks: local audits + red-vs-blue drills in an isolated Docker range. 100% local, MIT",
+    "id": "zhuangjia777/agent-shield",
+    "language": "Python",
+    "name": "zhuangjia777/agent-shield",
+    "stars": 2,
+    "updated_at": "2026-09-29T06:12:49Z",
+    "url": "https://github.com/zhuangjia777/agent-shield"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 738,
+    "updated_at": "2026-09-29T06:07:08Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
+    "id": "karvidsson/kbots",
+    "language": "Python",
+    "name": "karvidsson/kbots",
+    "stars": 1,
+    "updated_at": "2026-09-29T06:05:37Z",
+    "url": "https://github.com/karvidsson/kbots"
+  },
+  {
+    "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
+    "id": "anchor-inference/daedalus",
+    "language": "Python",
+    "name": "anchor-inference/daedalus",
+    "stars": 0,
+    "updated_at": "2026-09-29T06:02:10Z",
+    "url": "https://github.com/anchor-inference/daedalus"
+  },
+  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 32534,
+    "stars": 32535,
     "updated_at": "2026-09-29T05:59:13Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -14,17 +77,8 @@
     "language": "JavaScript",
     "name": "Ali-Sdg90/Fabrexa-AI-Ollama",
     "stars": 0,
-    "updated_at": "2026-09-29T05:58:45Z",
+    "updated_at": "2026-09-29T06:03:54Z",
     "url": "https://github.com/Ali-Sdg90/Fabrexa-AI-Ollama"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 25,
-    "updated_at": "2026-09-29T06:00:13Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -32,7 +86,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-09-29T05:50:55Z",
+    "updated_at": "2026-09-29T06:04:01Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -41,7 +95,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-29T05:57:35Z",
+    "updated_at": "2026-09-29T06:06:43Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -59,7 +113,7 @@
     "language": "Dart",
     "name": "justacalico/devinorium",
     "stars": 1,
-    "updated_at": "2026-09-29T05:47:17Z",
+    "updated_at": "2026-09-29T06:08:25Z",
     "url": "https://github.com/justacalico/devinorium"
   },
   {
@@ -117,21 +171,12 @@
     "url": "https://github.com/jack-h-park/pm-intelligence-engine"
   },
   {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-09-29T05:45:22Z",
-    "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
     "description": "Open-Source Intelligent Command Layer",
     "id": "AVADSA25/codec",
     "language": "Python",
     "name": "AVADSA25/codec",
     "stars": 108,
-    "updated_at": "2026-09-29T05:46:58Z",
+    "updated_at": "2026-09-29T06:04:40Z",
     "url": "https://github.com/AVADSA25/codec"
   },
   {
@@ -178,15 +223,6 @@
     "stars": 3,
     "updated_at": "2026-09-29T05:23:15Z",
     "url": "https://github.com/ximing/vital"
-  },
-  {
-    "description": "An AI security agent that really attacks: local audits + red-vs-blue drills in an isolated Docker range. 100% local, MIT",
-    "id": "zhuangjia777/agent-shield",
-    "language": "Python",
-    "name": "zhuangjia777/agent-shield",
-    "stars": 2,
-    "updated_at": "2026-09-29T05:11:45Z",
-    "url": "https://github.com/zhuangjia777/agent-shield"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -248,7 +284,7 @@
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 276,
-    "updated_at": "2026-09-29T05:55:40Z",
+    "updated_at": "2026-09-29T06:07:43Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-29T04:19:18Z",
     "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-09-29T04:19:09Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 130,
-    "updated_at": "2026-09-29T04:17:32Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 4,
-    "updated_at": "2026-09-29T04:17:22Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-09-29T04:14:01Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
   }
 ]
