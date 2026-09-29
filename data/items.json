@@ -1,12 +1,57 @@
 [
   {
-    "description": "MCP server for spatial transcriptomics analysis through natural language interfaces.",
-    "id": "cafferychen777/ChatSpatial",
+    "description": "An AI security agent that really attacks: local audits + red-vs-blue drills in an isolated Docker range. 100% local, MIT",
+    "id": "zhuangjia777/agent-shield",
     "language": "Python",
-    "name": "cafferychen777/ChatSpatial",
-    "stars": 44,
-    "updated_at": "2026-09-29T04:59:57Z",
-    "url": "https://github.com/cafferychen777/ChatSpatial"
+    "name": "zhuangjia777/agent-shield",
+    "stars": 2,
+    "updated_at": "2026-09-29T05:11:45Z",
+    "url": "https://github.com/zhuangjia777/agent-shield"
+  },
+  {
+    "description": "Personal agents at 1/1000 the cost. A VM-less personal agent on Cloudflare: WeChat, Telegram, web, email, cloud browser.",
+    "id": "AaronWong1999/museinst",
+    "language": "TypeScript",
+    "name": "AaronWong1999/museinst",
+    "stars": 0,
+    "updated_at": "2026-09-29T05:11:10Z",
+    "url": "https://github.com/AaronWong1999/museinst"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4435,
+    "updated_at": "2026-09-29T05:11:05Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-29T05:08:36Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-09-29T05:06:31Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "\u5177\u8eab\u4efb\u52a1\u89c4\u5212\u8bc4\u6d4b \u00b7 Embodied Task Planning Eval | \u7b26\u53f7\u72b6\u6001\u673a\u6267\u884c + \u5ba2\u89c2\u771f\u503c\u5224\u5b9a\uff0c\u65e0\u9700\u4eff\u771f\u5668 / GPU / \u673a\u5668\u4eba",
+    "id": "djjjs22/embodied-plan-eval",
+    "language": "Python",
+    "name": "djjjs22/embodied-plan-eval",
+    "stars": 0,
+    "updated_at": "2026-09-29T05:05:42Z",
+    "url": "https://github.com/djjjs22/embodied-plan-eval"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -14,8 +59,44 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-29T04:55:48Z",
+    "updated_at": "2026-09-29T05:13:30Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Agent-native product search: multi-source scrape \u2192 deterministic constraints \u2192 LLM match \u2192 price watches + order trackin",
+    "id": "anatolykoptev/quarryn",
+    "language": "Go",
+    "name": "anatolykoptev/quarryn",
+    "stars": 0,
+    "updated_at": "2026-09-29T05:02:46Z",
+    "url": "https://github.com/anatolykoptev/quarryn"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 25,
+    "updated_at": "2026-09-29T05:01:25Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 1,
+    "updated_at": "2026-09-29T05:01:23Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "MCP server for spatial transcriptomics analysis through natural language interfaces.",
+    "id": "cafferychen777/ChatSpatial",
+    "language": "Python",
+    "name": "cafferychen777/ChatSpatial",
+    "stars": 44,
+    "updated_at": "2026-09-29T04:59:57Z",
+    "url": "https://github.com/cafferychen777/ChatSpatial"
   },
   {
     "description": "CoDA-Bench is a benchmark for code agents on data-intensive tasks. \ud83c\udf88\u4ee3\u7801\u667a\u80fd\u4f53\u80fd\u641e\u5b9a\u6570\u636e\u5bc6\u96c6\u578b\u4efb\u52a1\u5417? ",
@@ -32,7 +113,7 @@
     "language": "Python",
     "name": "AVADSA25/codec",
     "stars": 108,
-    "updated_at": "2026-09-29T04:54:13Z",
+    "updated_at": "2026-09-29T05:14:16Z",
     "url": "https://github.com/AVADSA25/codec"
   },
   {
@@ -50,7 +131,7 @@
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 276,
-    "updated_at": "2026-09-29T04:52:08Z",
+    "updated_at": "2026-09-29T05:12:34Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
@@ -126,21 +207,12 @@
     "url": "https://github.com/EpsteinF1les/tts"
   },
   {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-09-29T04:48:30Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
     "id": "JSL107/personal_agents",
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-29T04:33:46Z",
+    "updated_at": "2026-09-29T05:07:15Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -149,7 +221,7 @@
     "language": "Java",
     "name": "kangwoo/aimon-core",
     "stars": 0,
-    "updated_at": "2026-09-29T04:53:17Z",
+    "updated_at": "2026-09-29T05:05:48Z",
     "url": "https://github.com/kangwoo/aimon-core"
   },
   {
@@ -169,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-09-29T04:30:12Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "An AI security agent that really attacks: local audits + red-vs-blue drills in an isolated Docker range. 100% local, MIT",
-    "id": "zhuangjia777/agent-shield",
-    "language": "Python",
-    "name": "zhuangjia777/agent-shield",
-    "stars": 2,
-    "updated_at": "2026-09-29T04:29:31Z",
-    "url": "https://github.com/zhuangjia777/agent-shield"
   },
   {
     "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
@@ -315,15 +378,6 @@
     "url": "https://github.com/mohahasan/ios-agentic-skills"
   },
   {
-    "description": "Agent-native product search: multi-source scrape \u2192 deterministic constraints \u2192 LLM match \u2192 price watches + order trackin",
-    "id": "anatolykoptev/quarryn",
-    "language": "Go",
-    "name": "anatolykoptev/quarryn",
-    "stars": 0,
-    "updated_at": "2026-09-29T04:58:46Z",
-    "url": "https://github.com/anatolykoptev/quarryn"
-  },
-  {
     "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
     "id": "Danisxxx/comfyUI-LongLook",
     "language": "Python",
@@ -340,15 +394,6 @@
     "stars": 4,
     "updated_at": "2026-09-29T04:08:44Z",
     "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 25,
-    "updated_at": "2026-09-29T04:51:54Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
@@ -383,7 +428,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-09-29T04:10:34Z",
+    "updated_at": "2026-09-29T05:05:27Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-29T03:57:05Z",
     "url": "https://github.com/master666-max/blender-ai-console"
-  },
-  {
-    "description": "AI-powered multi-mailbox monitoring agent (Gmail, QQ, Edu) with WeChat instant notifications & arXiv/Scholar paper readi",
-    "id": "Bowen-0x00/mail-assist",
-    "language": "Python",
-    "name": "Bowen-0x00/mail-assist",
-    "stars": 1,
-    "updated_at": "2026-09-29T03:56:33Z",
-    "url": "https://github.com/Bowen-0x00/mail-assist"
-  },
-  {
-    "description": "AI-powered social radar agent monitoring Zhihu & X for high-value tech insights with WeChat instant notifications & anti",
-    "id": "Bowen-0x00/social-radar",
-    "language": "Python",
-    "name": "Bowen-0x00/social-radar",
-    "stars": 1,
-    "updated_at": "2026-09-29T03:56:29Z",
-    "url": "https://github.com/Bowen-0x00/social-radar"
-  },
-  {
-    "description": "AI cross-channel progressive insight extractor synthesizing academic papers, notes, and discussions into profound system",
-    "id": "Bowen-0x00/insight-engine",
-    "language": "Python",
-    "name": "Bowen-0x00/insight-engine",
-    "stars": 1,
-    "updated_at": "2026-09-29T03:56:24Z",
-    "url": "https://github.com/Bowen-0x00/insight-engine"
-  },
-  {
-    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
-    "id": "WP2-Danikusuma/AgentX",
-    "language": "HTML",
-    "name": "WP2-Danikusuma/AgentX",
-    "stars": 2,
-    "updated_at": "2026-09-29T03:53:51Z",
-    "url": "https://github.com/WP2-Danikusuma/AgentX"
-  },
-  {
-    "description": "Open Source Desktop AI Agent Runtime - LLM, MCP, Voice Runtime, and local/cloud models wired into one PyQt6 desktop agen",
-    "id": "kwakminoo/Project-IRIS-Light",
-    "language": "Python",
-    "name": "kwakminoo/Project-IRIS-Light",
-    "stars": 3,
-    "updated_at": "2026-09-29T03:46:00Z",
-    "url": "https://github.com/kwakminoo/Project-IRIS-Light"
   }
 ]
