@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-29T03:13:22Z",
+    "updated_at": "2026-09-29T03:29:19Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
+    "id": "uukuguy/capstone",
+    "language": "Python",
+    "name": "uukuguy/capstone",
+    "stars": 0,
+    "updated_at": "2026-09-29T03:30:20Z",
+    "url": "https://github.com/uukuguy/capstone"
   },
   {
     "description": "Open-Source Intelligent Command Layer",
@@ -14,8 +23,44 @@
     "language": "Python",
     "name": "AVADSA25/codec",
     "stars": 108,
-    "updated_at": "2026-09-29T03:06:53Z",
+    "updated_at": "2026-09-29T03:24:21Z",
     "url": "https://github.com/AVADSA25/codec"
+  },
+  {
+    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
+    "id": "haibingzhao/easyai",
+    "language": "Kotlin",
+    "name": "haibingzhao/easyai",
+    "stars": 1,
+    "updated_at": "2026-09-29T03:23:26Z",
+    "url": "https://github.com/haibingzhao/easyai"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u7684 AI \u957f\u671f\u8bb0\u5fc6\u670d\u52a1\uff1a\u4f1a\u9057\u5fd8\u3001\u4f1a\u8054\u60f3\u3001\u4f1a\u5de9\u56fa\u3002MCP + REST + Web UI\uff0c\u4e00\u6761\u547d\u4ee4\u88c5\u597d\uff1b\u4e0d\u7528 DSH \u4e5f\u80fd\u72ec\u7acb\u4f7f\u7528\u3002",
+    "id": "Mlte0907/pangu",
+    "language": "Python",
+    "name": "Mlte0907/pangu",
+    "stars": 1,
+    "updated_at": "2026-09-29T03:23:15Z",
+    "url": "https://github.com/Mlte0907/pangu"
+  },
+  {
+    "description": "AI-assisted Blender modeling console: plan-JSON -> deterministic compiler (GN/material/rig) -> verifier closed loop. 29 ",
+    "id": "master666-max/blender-ai-console",
+    "language": "Python",
+    "name": "master666-max/blender-ai-console",
+    "stars": 0,
+    "updated_at": "2026-09-29T03:21:41Z",
+    "url": "https://github.com/master666-max/blender-ai-console"
+  },
+  {
+    "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
+    "id": "DylPorter/claude-telegram",
+    "language": "Python",
+    "name": "DylPorter/claude-telegram",
+    "stars": 1,
+    "updated_at": "2026-09-29T03:17:56Z",
+    "url": "https://github.com/DylPorter/claude-telegram"
   },
   {
     "description": "AI-powered image generation and chat studio",
@@ -23,7 +68,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-09-29T03:06:18Z",
+    "updated_at": "2026-09-29T03:26:01Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -99,21 +144,12 @@
     "url": "https://github.com/tomcounsell/ai"
   },
   {
-    "description": "AI-assisted Blender modeling console: plan-JSON -> deterministic compiler (GN/material/rig) -> verifier closed loop. 29 ",
-    "id": "master666-max/blender-ai-console",
-    "language": "Python",
-    "name": "master666-max/blender-ai-console",
-    "stars": 0,
-    "updated_at": "2026-09-29T02:46:54Z",
-    "url": "https://github.com/master666-max/blender-ai-console"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-29T03:08:14Z",
+    "updated_at": "2026-09-29T03:28:17Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -220,7 +256,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 8526,
+    "stars": 8528,
     "updated_at": "2026-09-29T02:27:55Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -286,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-09-29T02:23:35Z",
     "url": "https://github.com/zlci7/world-is-agent"
-  },
-  {
-    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
-    "id": "uukuguy/capstone",
-    "language": "Python",
-    "name": "uukuguy/capstone",
-    "stars": 0,
-    "updated_at": "2026-09-29T02:22:46Z",
-    "url": "https://github.com/uukuguy/capstone"
   },
   {
     "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-29T01:42:19Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Autonomous personal agent: talks, acts, never gives up. Multi-model, multi-user, self-improving",
-    "id": "franckolv-dev/ELY2",
-    "language": "Python",
-    "name": "franckolv-dev/ELY2",
-    "stars": 1,
-    "updated_at": "2026-09-29T02:12:41Z",
-    "url": "https://github.com/franckolv-dev/ELY2"
-  },
-  {
-    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
-    "id": "kangwoo/aimon-core",
-    "language": "Java",
-    "name": "kangwoo/aimon-core",
-    "stars": 0,
-    "updated_at": "2026-09-29T01:35:47Z",
-    "url": "https://github.com/kangwoo/aimon-core"
-  },
-  {
-    "description": "Skill-first operating layer for agentic brokerage trading \u2014 strategy, guardrails, and provider adapters an LLM agent fol",
-    "id": "jack-h-park/stock-trading-skills",
-    "language": "Python",
-    "name": "jack-h-park/stock-trading-skills",
-    "stars": 0,
-    "updated_at": "2026-09-29T01:29:33Z",
-    "url": "https://github.com/jack-h-park/stock-trading-skills"
   }
 ]
