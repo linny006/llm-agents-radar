@@ -1,12 +1,48 @@
 [
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-09-29T19:44:07Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "TypeScript",
+    "name": "dsswift/ion",
+    "stars": 3,
+    "updated_at": "2026-09-29T19:44:04Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-09-29T19:44:02Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
+    "id": "brutal-45/Nexus-LLM",
     "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-29T19:29:18Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
+    "name": "brutal-45/Nexus-LLM",
+    "stars": 0,
+    "updated_at": "2026-09-29T19:42:13Z",
+    "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 26,
+    "updated_at": "2026-09-29T19:40:43Z",
+    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "An observability-driven text-only core for coordinating ephemeral LLM agents",
@@ -14,8 +50,35 @@
     "language": "Python",
     "name": "genaforvena/mishe-tauftauf",
     "stars": 1,
-    "updated_at": "2026-09-29T19:29:01Z",
+    "updated_at": "2026-09-29T19:38:46Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8561,
+    "updated_at": "2026-09-29T19:35:51Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Put a personal agent inside your product, at 1/1000 the cost. Personal agent infra that runs VM-less personal agents on ",
+    "id": "AaronWong1999/museinst",
+    "language": "TypeScript",
+    "name": "AaronWong1999/museinst",
+    "stars": 1,
+    "updated_at": "2026-09-29T19:34:45Z",
+    "url": "https://github.com/AaronWong1999/museinst"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-29T19:33:14Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Demon Cry core - AI-powered OSINT engine",
@@ -32,17 +95,8 @@
     "language": "JavaScript",
     "name": "bigduu/Zenith",
     "stars": 6,
-    "updated_at": "2026-09-29T19:28:34Z",
+    "updated_at": "2026-09-29T19:39:25Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
-    "id": "brutal-45/Nexus-LLM",
-    "language": "Python",
-    "name": "brutal-45/Nexus-LLM",
-    "stars": 0,
-    "updated_at": "2026-09-29T19:27:08Z",
-    "url": "https://github.com/brutal-45/Nexus-LLM"
   },
   {
     "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
@@ -50,7 +104,7 @@
     "language": "Rust",
     "name": "ljedrz/nachalnik",
     "stars": 5,
-    "updated_at": "2026-09-29T19:24:27Z",
+    "updated_at": "2026-09-29T19:36:52Z",
     "url": "https://github.com/ljedrz/nachalnik"
   },
   {
@@ -59,7 +113,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 18,
-    "updated_at": "2026-09-29T19:23:44Z",
+    "updated_at": "2026-09-29T19:39:25Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -95,7 +149,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 28,
-    "updated_at": "2026-09-29T19:13:35Z",
+    "updated_at": "2026-09-29T19:32:21Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -106,15 +160,6 @@
     "stars": 4438,
     "updated_at": "2026-09-29T19:15:43Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8560,
-    "updated_at": "2026-09-29T19:26:11Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Open-source AI-native quant trading workstation for OKX crypto markets (Windows/macOS). Charts, order execution, AI trad",
@@ -162,15 +207,6 @@
     "url": "https://github.com/zhuangjia777/agent-shield"
   },
   {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "TypeScript",
-    "name": "dsswift/ion",
-    "stars": 3,
-    "updated_at": "2026-09-29T19:05:58Z",
-    "url": "https://github.com/dsswift/ion"
-  },
-  {
     "description": "An autopoiesic kefir for computing machines",
     "id": "genaforvena/lte-workstation",
     "language": "Shell",
@@ -198,15 +234,6 @@
     "url": "https://github.com/uukuguy/capstone"
   },
   {
-    "description": "Put a personal agent inside your product, at 1/1000 the cost. Personal agent infra that runs VM-less personal agents on ",
-    "id": "AaronWong1999/museinst",
-    "language": "TypeScript",
-    "name": "AaronWong1999/museinst",
-    "stars": 1,
-    "updated_at": "2026-09-29T18:49:54Z",
-    "url": "https://github.com/AaronWong1999/museinst"
-  },
-  {
     "description": "A personal assistant with a phone number: SQLite-backed todos, memories, and reflections, searchable through Algolia and",
     "id": "NatanTechofNY/fieldnote-assistant",
     "language": "TypeScript",
@@ -230,7 +257,7 @@
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 277,
-    "updated_at": "2026-09-29T19:16:32Z",
+    "updated_at": "2026-09-29T19:40:19Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-29T18:02:32Z",
     "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "Autonomous personal agent: talks, acts, never gives up. Multi-model, multi-user, self-improving",
-    "id": "franckolv-dev/ELY2",
-    "language": "Python",
-    "name": "franckolv-dev/ELY2",
-    "stars": 1,
-    "updated_at": "2026-09-29T19:28:51Z",
-    "url": "https://github.com/franckolv-dev/ELY2"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 130,
-    "updated_at": "2026-09-29T17:38:52Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-09-29T19:29:22Z",
-    "url": "https://github.com/ljchang/mecha"
   }
 ]
