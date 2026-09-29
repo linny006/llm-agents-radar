@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "cafferychen777/ChatSpatial",
     "stars": 44,
-    "updated_at": "2026-09-29T04:42:17Z",
+    "updated_at": "2026-09-29T04:59:57Z",
     "url": "https://github.com/cafferychen777/ChatSpatial"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-29T04:55:48Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "CoDA-Bench is a benchmark for code agents on data-intensive tasks. \ud83c\udf88\u4ee3\u7801\u667a\u80fd\u4f53\u80fd\u641e\u5b9a\u6570\u636e\u5bc6\u96c6\u578b\u4efb\u52a1\u5417? ",
+    "id": "ruc-datalab/CoDA-Bench",
+    "language": "Python",
+    "name": "ruc-datalab/CoDA-Bench",
+    "stars": 48,
+    "updated_at": "2026-09-29T04:55:40Z",
+    "url": "https://github.com/ruc-datalab/CoDA-Bench"
+  },
+  {
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 108,
+    "updated_at": "2026-09-29T04:54:13Z",
+    "url": "https://github.com/AVADSA25/codec"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 6066,
+    "updated_at": "2026-09-29T04:50:18Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 276,
+    "updated_at": "2026-09-29T04:52:08Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
     "description": "Field notes from inside one autonomous agent trying to become something that doesn't exist yet \u2014 including the failures ",
@@ -81,21 +126,12 @@
     "url": "https://github.com/EpsteinF1les/tts"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-29T04:40:36Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-09-29T04:42:56Z",
+    "updated_at": "2026-09-29T04:48:30Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -113,7 +149,7 @@
     "language": "Java",
     "name": "kangwoo/aimon-core",
     "stars": 0,
-    "updated_at": "2026-09-29T04:31:47Z",
+    "updated_at": "2026-09-29T04:53:17Z",
     "url": "https://github.com/kangwoo/aimon-core"
   },
   {
@@ -189,15 +225,6 @@
     "url": "https://github.com/Stolas34/voice-input-src"
   },
   {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 108,
-    "updated_at": "2026-09-29T04:42:33Z",
-    "url": "https://github.com/AVADSA25/codec"
-  },
-  {
     "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
     "id": "Screwtopped-annapavlova802/SparkLabs",
     "language": "C++",
@@ -256,7 +283,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 32531,
+    "stars": 32533,
     "updated_at": "2026-09-29T04:18:14Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -293,7 +320,7 @@
     "language": "Go",
     "name": "anatolykoptev/quarryn",
     "stars": 0,
-    "updated_at": "2026-09-29T04:12:45Z",
+    "updated_at": "2026-09-29T04:58:46Z",
     "url": "https://github.com/anatolykoptev/quarryn"
   },
   {
@@ -320,7 +347,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 25,
-    "updated_at": "2026-09-29T04:43:03Z",
+    "updated_at": "2026-09-29T04:51:54Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-29T03:46:00Z",
     "url": "https://github.com/kwakminoo/Project-IRIS-Light"
-  },
-  {
-    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
-    "id": "wufufu770/d2d",
-    "language": "JavaScript",
-    "name": "wufufu770/d2d",
-    "stars": 3,
-    "updated_at": "2026-09-29T03:44:20Z",
-    "url": "https://github.com/wufufu770/d2d"
-  },
-  {
-    "description": "\ud83d\udea7 \u5b66\u4e60\u8fc7\u7a0b ing | \u57fa\u4e8e LangChain + DeepSeek + Selenium(Edge) \u7684\u7f51\u9875\u722c\u53d6\u667a\u80fd\u4f53\uff0c\u5e26 Web \u524d\u7aef\uff08\u4e2a\u4eba\u5b66\u4e60\u7ec3\u624b\u9879\u76ee\uff09",
-    "id": "Alze-H/langchain-edge-scraper",
-    "language": "Python",
-    "name": "Alze-H/langchain-edge-scraper",
-    "stars": 0,
-    "updated_at": "2026-09-29T03:37:50Z",
-    "url": "https://github.com/Alze-H/langchain-edge-scraper"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-09-29T04:33:41Z",
-    "url": "https://github.com/ljchang/mecha"
   }
 ]
