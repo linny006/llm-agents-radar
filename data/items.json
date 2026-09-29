@@ -1,5 +1,59 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-29T22:28:15Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-09-29T22:25:49Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "An observability-driven text-only core for coordinating ephemeral LLM agents",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 1,
+    "updated_at": "2026-09-29T22:23:32Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 277,
+    "updated_at": "2026-09-29T22:21:37Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-09-29T22:30:50Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "A tiny \"ask a question, get a cited answer\" service that emulates Perplexity Search",
+    "id": "Adhiambo-Cynthia/Perplexity-lite",
+    "language": "Python",
+    "name": "Adhiambo-Cynthia/Perplexity-lite",
+    "stars": 1,
+    "updated_at": "2026-09-29T22:18:19Z",
+    "url": "https://github.com/Adhiambo-Cynthia/Perplexity-lite"
+  },
+  {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
     "id": "plurnk/plurnk-service",
     "language": "TypeScript",
@@ -14,26 +68,8 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-29T22:13:47Z",
+    "updated_at": "2026-09-29T22:30:36Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "An observability-driven text-only core for coordinating ephemeral LLM agents",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 1,
-    "updated_at": "2026-09-29T22:11:15Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-29T22:12:51Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -52,24 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-29T21:57:20Z",
     "url": "https://github.com/noahhps/Bom"
-  },
-  {
-    "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 277,
-    "updated_at": "2026-09-29T22:10:13Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-09-29T22:09:35Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "Local pre-write containment & structural scoring for AI coding agents: deterministic policy, Mamba-3 SSM coherence, and ",
@@ -97,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-09-29T21:50:48Z",
     "url": "https://github.com/massimiliano1991/the-attempt"
-  },
-  {
-    "description": "A tiny \"ask a question, get a cited answer\" service that emulates Perplexity Search",
-    "id": "Adhiambo-Cynthia/Perplexity-lite",
-    "language": "Python",
-    "name": "Adhiambo-Cynthia/Perplexity-lite",
-    "stars": 1,
-    "updated_at": "2026-09-29T21:37:46Z",
-    "url": "https://github.com/Adhiambo-Cynthia/Perplexity-lite"
   },
   {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-29T20:03:08Z",
     "url": "https://github.com/plurnk/plurnk"
-  },
-  {
-    "description": "Trace maintenance decisions, token use, and exceptions in a Java property agent.",
-    "id": "UlyssesBlack4837/property-agent-trace-java",
-    "language": "Java",
-    "name": "UlyssesBlack4837/property-agent-trace-java",
-    "stars": 0,
-    "updated_at": "2026-09-29T19:59:34Z",
-    "url": "https://github.com/UlyssesBlack4837/property-agent-trace-java"
   }
 ]
