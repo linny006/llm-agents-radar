@@ -1,5 +1,95 @@
 [
   {
+    "description": "\ud83e\udd16 \u65b0\u4e00\u4ee3\u5f00\u6e90 Chrome \u4fa7\u8fb9\u680f\u81ea\u4e3b AI \u6d4f\u89c8\u5668\u667a\u80fd\u4f53\uff1a\u76ee\u6807\u9a71\u52a8\u3001\u957f\u7a0b\u89c4\u5212\u3001\u89c6\u89c9\u7a7a\u95f4\u611f\u77e5\u4e0e\u7269\u7406\u7ea7\u64cd\u63a7\uff0c\u652f\u6301 DeepSeek \u601d\u8003\u6a21\u578b\u4e0e\u672c\u5730\u79bb\u7ebf LLM (BYOK)",
+    "id": "lusipad/browser-agent",
+    "language": "TypeScript",
+    "name": "lusipad/browser-agent",
+    "stars": 2,
+    "updated_at": "2026-09-29T00:13:35Z",
+    "url": "https://github.com/lusipad/browser-agent"
+  },
+  {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-09-29T00:11:49Z",
+    "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-09-29T00:09:51Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "An agentic OBD-II scanner that never makes anything up. Bring your own model, read every module on the bus, and click an",
+    "id": "christianOrona/wtfault-scanner",
+    "language": "Rust",
+    "name": "christianOrona/wtfault-scanner",
+    "stars": 2,
+    "updated_at": "2026-09-29T00:09:44Z",
+    "url": "https://github.com/christianOrona/wtfault-scanner"
+  },
+  {
+    "description": "Field notes from inside one autonomous agent trying to become something that doesn't exist yet \u2014 including the failures ",
+    "id": "massimiliano1991/the-attempt",
+    "language": "HTML",
+    "name": "massimiliano1991/the-attempt",
+    "stars": 1,
+    "updated_at": "2026-09-29T00:07:05Z",
+    "url": "https://github.com/massimiliano1991/the-attempt"
+  },
+  {
+    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
+    "id": "xiongweilin/agent-skills",
+    "language": "PowerShell",
+    "name": "xiongweilin/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-29T00:05:14Z",
+    "url": "https://github.com/xiongweilin/agent-skills"
+  },
+  {
+    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 0,
+    "updated_at": "2026-09-29T00:04:34Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "\u901a\u7528 Agent \u5185\u6838\uff1a\u5728\u7ebf\u5927\u8111\u89c4\u5212 + \u672c\u5730\u6267\u884c\u5668\uff0cMCP / LangGraph / OpenAI Agents SDK \u9a71\u52a8\uff0c\u652f\u6301\u77e5\u8bc6\u7ea7\u81ea\u5347\u7ea7\uff08\u6280\u80fd\u4e0e\u5168\u5c40\u8bb0\u5fc6\u81ea\u52a8\u63d0\u70bc\uff09",
+    "id": "momo-null/OmniAgent",
+    "language": "Python",
+    "name": "momo-null/OmniAgent",
+    "stars": 2,
+    "updated_at": "2026-09-29T00:03:18Z",
+    "url": "https://github.com/momo-null/OmniAgent"
+  },
+  {
+    "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
+    "id": "jack-h-park/pm-intelligence-engine",
+    "language": "Python",
+    "name": "jack-h-park/pm-intelligence-engine",
+    "stars": 0,
+    "updated_at": "2026-09-29T00:02:30Z",
+    "url": "https://github.com/jack-h-park/pm-intelligence-engine"
+  },
+  {
+    "description": "\ub9d0\ub85c \uae30\ub2a5\uc744 \ucc3e\ub294 \uc740\ud589 \uc571 UI \ud504\ub85c\ud1a0\ud0c0\uc785 \u2014 LLM \ub3c4\uad6c \ud638\ucd9c 29\uc885 + \ud638\ucd9c \uacfc\uc815 \ub178\ucd9c (\ube44\uacf5\uc2dd \uac1c\uc778 \uc2b5\uc791, \uac00\uc0c1 \ub370\uc774\ud130)",
+    "id": "hsh2578/im-ai-bank",
+    "language": "JavaScript",
+    "name": "hsh2578/im-ai-bank",
+    "stars": 0,
+    "updated_at": "2026-09-29T00:02:19Z",
+    "url": "https://github.com/hsh2578/im-ai-bank"
+  },
+  {
     "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
     "id": "duongnq2798/vestiarion",
     "language": "TypeScript",
@@ -14,7 +104,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-28T23:57:44Z",
+    "updated_at": "2026-09-29T00:03:26Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -32,7 +122,7 @@
     "language": "Python",
     "name": "AVADSA25/codec",
     "stars": 108,
-    "updated_at": "2026-09-28T23:54:56Z",
+    "updated_at": "2026-09-29T00:13:00Z",
     "url": "https://github.com/AVADSA25/codec"
   },
   {
@@ -50,26 +140,8 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-09-28T23:59:59Z",
+    "updated_at": "2026-09-29T00:05:28Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-09-28T23:58:10Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Field notes from inside one autonomous agent trying to become something that doesn't exist yet \u2014 including the failures ",
-    "id": "massimiliano1991/the-attempt",
-    "language": "HTML",
-    "name": "massimiliano1991/the-attempt",
-    "stars": 1,
-    "updated_at": "2026-09-28T23:49:32Z",
-    "url": "https://github.com/massimiliano1991/the-attempt"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -106,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-09-28T23:27:43Z",
     "url": "https://github.com/zig333/ELAI-archive"
-  },
-  {
-    "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
-    "id": "jack-h-park/pm-intelligence-engine",
-    "language": "Python",
-    "name": "jack-h-park/pm-intelligence-engine",
-    "stars": 0,
-    "updated_at": "2026-09-28T23:26:39Z",
-    "url": "https://github.com/jack-h-park/pm-intelligence-engine"
   },
   {
     "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
@@ -162,15 +225,6 @@
     "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
-    "description": "An agentic OBD-II scanner that never makes anything up. Bring your own model, read every module on the bus, and click an",
-    "id": "christianOrona/wtfault-scanner",
-    "language": "Rust",
-    "name": "christianOrona/wtfault-scanner",
-    "stars": 2,
-    "updated_at": "2026-09-28T23:20:25Z",
-    "url": "https://github.com/christianOrona/wtfault-scanner"
-  },
-  {
     "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
     "id": "Vuongngu8186/langgraph-langchain-agent-setup",
     "language": "\u2014",
@@ -187,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-09-28T23:18:28Z",
     "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "\ud83e\udd16 \u65b0\u4e00\u4ee3\u5f00\u6e90 Chrome \u4fa7\u8fb9\u680f\u81ea\u4e3b AI \u6d4f\u89c8\u5668\u667a\u80fd\u4f53\uff1a\u76ee\u6807\u9a71\u52a8\u3001\u957f\u7a0b\u89c4\u5212\u3001\u89c6\u89c9\u7a7a\u95f4\u611f\u77e5\u4e0e\u7269\u7406\u7ea7\u64cd\u63a7\uff0c\u652f\u6301 DeepSeek \u601d\u8003\u6a21\u578b\u4e0e\u672c\u5730\u79bb\u7ebf LLM (BYOK)",
-    "id": "lusipad/browser-agent",
-    "language": "TypeScript",
-    "name": "lusipad/browser-agent",
-    "stars": 2,
-    "updated_at": "2026-09-28T23:17:37Z",
-    "url": "https://github.com/lusipad/browser-agent"
   },
   {
     "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
@@ -342,15 +387,6 @@
     "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
   },
   {
-    "description": "Runtime for coding agents: one daemon, one model-facing operation language, addressable project context, and loops that ",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 0,
-    "updated_at": "2026-09-28T23:04:32Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
     "id": "mohahasan/ios-agentic-skills",
     "language": "JavaScript",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-28T22:48:04Z",
     "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
-    "id": "WP2-Danikusuma/AgentX",
-    "language": "HTML",
-    "name": "WP2-Danikusuma/AgentX",
-    "stars": 2,
-    "updated_at": "2026-09-28T22:43:24Z",
-    "url": "https://github.com/WP2-Danikusuma/AgentX"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-09-28T22:29:38Z",
-    "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 28,
-    "updated_at": "2026-09-28T22:15:59Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
-    "id": "bigduu/Zenith",
-    "language": "JavaScript",
-    "name": "bigduu/Zenith",
-    "stars": 6,
-    "updated_at": "2026-09-28T22:11:57Z",
-    "url": "https://github.com/bigduu/Zenith"
   }
 ]
