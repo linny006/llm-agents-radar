@@ -1,5 +1,59 @@
 [
   {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-09-30T11:30:14Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 20,
+    "updated_at": "2026-09-30T11:27:16Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "Agent/Skill production-readiness review \u2014 8-dimension scoring + M1-M5 veto gates + evidence grades. Answers one question",
+    "id": "johnsmithCA-sta/agent-production-readiness",
+    "language": "Python",
+    "name": "johnsmithCA-sta/agent-production-readiness",
+    "stars": 0,
+    "updated_at": "2026-09-30T11:27:15Z",
+    "url": "https://github.com/johnsmithCA-sta/agent-production-readiness"
+  },
+  {
+    "description": "An observability-driven text-only core for coordinating ephemeral LLM agents",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 1,
+    "updated_at": "2026-09-30T11:26:59Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
+    "id": "QQSHI13/fox-agent",
+    "language": "TypeScript",
+    "name": "QQSHI13/fox-agent",
+    "stars": 2,
+    "updated_at": "2026-09-30T11:25:34Z",
+    "url": "https://github.com/QQSHI13/fox-agent"
+  },
+  {
+    "description": "Generate rich YuE2 audio in ComfyUI with six modular nodes\u2014hum-to-song, LoRA and adapter support\u2014no stock nodes needed.",
+    "id": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
+    "language": "Python",
+    "name": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
+    "stars": 0,
+    "updated_at": "2026-09-30T11:16:09Z",
+    "url": "https://github.com/Deborahwalkerz661/ComfyUI-FS_Audio_Suite"
+  },
+  {
     "description": "Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de",
     "id": "Jadema5416/ComfyUI-DLSS5-Enhancer",
     "language": "Python",
@@ -16,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T11:14:09Z",
     "url": "https://github.com/verniceunleaded6135/tidy-undo"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-09-30T11:14:05Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
@@ -52,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T11:12:34Z",
     "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
-  },
-  {
-    "description": "An observability-driven text-only core for coordinating ephemeral LLM agents",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 1,
-    "updated_at": "2026-09-30T11:12:28Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
@@ -115,15 +151,6 @@
     "stars": 4,
     "updated_at": "2026-09-30T11:09:53Z",
     "url": "https://github.com/wufufu770/d2d"
-  },
-  {
-    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
-    "id": "QQSHI13/fox-agent",
-    "language": "TypeScript",
-    "name": "QQSHI13/fox-agent",
-    "stars": 2,
-    "updated_at": "2026-09-30T11:06:29Z",
-    "url": "https://github.com/QQSHI13/fox-agent"
   },
   {
     "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
@@ -257,7 +284,7 @@
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 277,
-    "updated_at": "2026-09-30T10:40:07Z",
+    "updated_at": "2026-09-30T11:30:15Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
@@ -265,7 +292,7 @@
     "id": "ant-research/AntOmniEvo",
     "language": "Python",
     "name": "ant-research/AntOmniEvo",
-    "stars": 831,
+    "stars": 832,
     "updated_at": "2026-09-30T10:36:29Z",
     "url": "https://github.com/ant-research/AntOmniEvo"
   },
@@ -277,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T10:36:17Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "Agent/Skill production-readiness review \u2014 8-dimension scoring + M1-M5 veto gates + evidence grades. Answers one question",
-    "id": "johnsmithCA-sta/agent-production-readiness",
-    "language": "Python",
-    "name": "johnsmithCA-sta/agent-production-readiness",
-    "stars": 0,
-    "updated_at": "2026-09-30T10:35:52Z",
-    "url": "https://github.com/johnsmithCA-sta/agent-production-readiness"
   },
   {
     "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
@@ -369,6 +387,15 @@
     "url": "https://github.com/Clhikari/astrbot_plugin_office_assistant"
   },
   {
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "id": "EvoMap/evolver",
+    "language": "JavaScript",
+    "name": "EvoMap/evolver",
+    "stars": 9128,
+    "updated_at": "2026-09-30T10:07:47Z",
+    "url": "https://github.com/EvoMap/evolver"
+  },
+  {
     "description": "\u72fc\u4eba\u6740 agent \u9884\u8bbe\uff1a\u65b0\u5efa\u4f1a\u8bdd\u9009\u300c\u72fc\u4eba\u6740\u300d\uff0c\u4f1a\u8bdd\u91cc\u7684\u667a\u80fd\u4f53\u5f53\u6cd5\u5b98\uff0c\u7528\u5b50\u4ee3\u7406\u626e\u6f14\u5176\u4ed6\u73a9\u5bb6\u3002\u96f6 JS \u4ee3\u7801\uff0c\u6574\u4e2a\u6e38\u620f\u5199\u5728 6.8 KB \u63d0\u793a\u8bcd\u91cc\u3002",
     "id": "banana770/dsh-werewolf",
     "language": "JavaScript",
@@ -418,35 +445,8 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 32613,
+    "stars": 32614,
     "updated_at": "2026-09-30T09:47:13Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "Local pre-write containment & structural scoring for AI coding agents: deterministic policy, Mamba-3 SSM coherence, and ",
-    "id": "jakubkrzysztofsikora/reasoning-core",
-    "language": "Python",
-    "name": "jakubkrzysztofsikora/reasoning-core",
-    "stars": 6,
-    "updated_at": "2026-09-30T09:41:36Z",
-    "url": "https://github.com/jakubkrzysztofsikora/reasoning-core"
-  },
-  {
-    "description": "\u0394 Engram is a deterministic reasoning kernel \u2014 symbolic AI, a finite state machine, with configurable boundaries and sel",
-    "id": "dominikj111/Engram",
-    "language": "Rust",
-    "name": "dominikj111/Engram",
-    "stars": 2,
-    "updated_at": "2026-09-30T09:23:31Z",
-    "url": "https://github.com/dominikj111/Engram"
-  },
-  {
-    "description": "A local browser an agent can drive. Bundled ungoogled-chromium over CDP, pages compiled to a compact accessibility outli",
-    "id": "lukr54/phantom",
-    "language": "Rust",
-    "name": "lukr54/phantom",
-    "stars": 0,
-    "updated_at": "2026-09-30T09:21:36Z",
-    "url": "https://github.com/lukr54/phantom"
   }
 ]
