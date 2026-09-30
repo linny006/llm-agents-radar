@@ -1,5 +1,41 @@
 [
   {
+    "description": "A multi-agent research system for the humanities and social sciences.",
+    "id": "Luciole-Studio/Misaka-Agent",
+    "language": "Python",
+    "name": "Luciole-Studio/Misaka-Agent",
+    "stars": 4,
+    "updated_at": "2026-09-30T10:27:30Z",
+    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-09-30T10:24:12Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "E-commerce AI customer service agent: intent routing, FSM multi-turn dialogs, confirmation-gated write ops, RAG hybrid r",
+    "id": "chlniubi23/ecommerce-ai-customer-service-agent",
+    "language": "Python",
+    "name": "chlniubi23/ecommerce-ai-customer-service-agent",
+    "stars": 0,
+    "updated_at": "2026-09-30T10:17:58Z",
+    "url": "https://github.com/chlniubi23/ecommerce-ai-customer-service-agent"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 1,
+    "updated_at": "2026-09-30T10:15:14Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
     "description": "\u5267\u672c\u5206\u955c\u667a\u80fd\u4f53\uff08PenShot\uff09\uff1a\u7535\u5f71/\u52a8\u6f2b/\u77ed\u5267/\u5c0f\u8bf4\u2192\u5206\u955c\u7247\u6bb5\u2192\u89c6\u9891\u63d0\u793a\u8bcd\u3002\u57fa\u4e8e LLM \u901a\u8fc7 LangGraph+LlamaIndex\u5b9e\u73b0\u4efb\u610f\u683c\u5f0f\u5267\u672c\u7684\u81ea\u52a8\u89e3\u6790\uff0c\u751f\u6210 Sora/Veo/Runway \u7b49\u6a21\u578b\u53ef\u7528\u7684\u8fde\u8d2ftext-to-v",
     "id": "neopen/story-shot-agent",
     "language": "Python",
@@ -45,24 +81,6 @@
     "url": "https://github.com/Clhikari/astrbot_plugin_office_assistant"
   },
   {
-    "description": "A multi-agent research system for the humanities and social sciences.",
-    "id": "Luciole-Studio/Misaka-Agent",
-    "language": "Python",
-    "name": "Luciole-Studio/Misaka-Agent",
-    "stars": 4,
-    "updated_at": "2026-09-30T10:08:22Z",
-    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
-  },
-  {
-    "description": "E-commerce AI customer service agent: intent routing, FSM multi-turn dialogs, confirmation-gated write ops, RAG hybrid r",
-    "id": "chlniubi23/ecommerce-ai-customer-service-agent",
-    "language": "Python",
-    "name": "chlniubi23/ecommerce-ai-customer-service-agent",
-    "stars": 0,
-    "updated_at": "2026-09-30T10:05:35Z",
-    "url": "https://github.com/chlniubi23/ecommerce-ai-customer-service-agent"
-  },
-  {
     "description": "An observability-driven text-only core for coordinating ephemeral LLM agents",
     "id": "genaforvena/mishe-tauftauf",
     "language": "Python",
@@ -76,8 +94,8 @@
     "id": "ant-research/AntOmniEvo",
     "language": "Python",
     "name": "ant-research/AntOmniEvo",
-    "stars": 828,
-    "updated_at": "2026-09-30T10:00:15Z",
+    "stars": 830,
+    "updated_at": "2026-09-30T10:30:04Z",
     "url": "https://github.com/ant-research/AntOmniEvo"
   },
   {
@@ -86,7 +104,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 813,
-    "updated_at": "2026-09-30T10:03:07Z",
+    "updated_at": "2026-09-30T10:21:59Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -149,7 +167,7 @@
     "language": "Python",
     "name": "denisotree/veles",
     "stars": 4,
-    "updated_at": "2026-09-30T09:43:46Z",
+    "updated_at": "2026-09-30T10:16:06Z",
     "url": "https://github.com/denisotree/veles"
   },
   {
@@ -160,15 +178,6 @@
     "stars": 6,
     "updated_at": "2026-09-30T09:41:36Z",
     "url": "https://github.com/jakubkrzysztofsikora/reasoning-core"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-09-30T10:14:01Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "\u0394 Engram is a deterministic reasoning kernel \u2014 symbolic AI, a finite state machine, with configurable boundaries and sel",
@@ -293,7 +302,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4439,
-    "updated_at": "2026-09-30T09:51:46Z",
+    "updated_at": "2026-09-30T10:24:40Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-30T08:50:28Z",
     "url": "https://github.com/hhhttyzuishuai/carbon-credit-evidence-rag"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-09-30T08:50:27Z",
-    "url": "https://github.com/JSL107/personal_agents"
   }
 ]
