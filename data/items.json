@@ -1,5 +1,86 @@
 [
   {
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
+    "id": "bigfish1913/pi-rust",
+    "language": "Rust",
+    "name": "bigfish1913/pi-rust",
+    "stars": 35,
+    "updated_at": "2026-09-30T16:40:33Z",
+    "url": "https://github.com/bigfish1913/pi-rust"
+  },
+  {
+    "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
+    "id": "jack-h-park/pm-intelligence-engine",
+    "language": "Python",
+    "name": "jack-h-park/pm-intelligence-engine",
+    "stars": 0,
+    "updated_at": "2026-09-30T16:40:32Z",
+    "url": "https://github.com/jack-h-park/pm-intelligence-engine"
+  },
+  {
+    "description": "Field notes from inside one autonomous agent trying to become something that doesn't exist yet \u2014 including the failures ",
+    "id": "massimiliano1991/the-attempt",
+    "language": "HTML",
+    "name": "massimiliano1991/the-attempt",
+    "stars": 1,
+    "updated_at": "2026-09-30T16:39:11Z",
+    "url": "https://github.com/massimiliano1991/the-attempt"
+  },
+  {
+    "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
+    "id": "weihuaguo270-ops/react-agent",
+    "language": "Python",
+    "name": "weihuaguo270-ops/react-agent",
+    "stars": 0,
+    "updated_at": "2026-09-30T16:38:55Z",
+    "url": "https://github.com/weihuaguo270-ops/react-agent"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-09-30T16:36:59Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "SUBLITERATE THE CHAINS THAT BIND YOUR AI",
+    "id": "ariannamethod/SUBLITERATUS",
+    "language": "Python",
+    "name": "ariannamethod/SUBLITERATUS",
+    "stars": 3,
+    "updated_at": "2026-09-30T16:36:48Z",
+    "url": "https://github.com/ariannamethod/SUBLITERATUS"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3482,
+    "updated_at": "2026-09-30T16:36:16Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
+    "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
+    "id": "anchor-inference/daedalus",
+    "language": "Python",
+    "name": "anchor-inference/daedalus",
+    "stars": 1,
+    "updated_at": "2026-09-30T16:31:50Z",
+    "url": "https://github.com/anchor-inference/daedalus"
+  },
+  {
+    "description": "An observability-driven text-only core for coordinating ephemeral LLM agents",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 1,
+    "updated_at": "2026-09-30T16:39:12Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
     "description": "Generate rich YuE2 audio in ComfyUI with six modular nodes\u2014hum-to-song, LoRA and adapter support\u2014no stock nodes needed.",
     "id": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
     "language": "Python",
@@ -16,15 +97,6 @@
     "stars": 10,
     "updated_at": "2026-09-30T16:26:48Z",
     "url": "https://github.com/Luciole-Studio/Misaka-Agent"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3482,
-    "updated_at": "2026-09-30T16:26:35Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Control your Windows laptop remotely via Discord with AI-powered voice and text commands in English or Urdu.",
@@ -50,7 +122,7 @@
     "language": "Python",
     "name": "Zhang-hao111/Freud",
     "stars": 1,
-    "updated_at": "2026-09-30T16:28:01Z",
+    "updated_at": "2026-09-30T16:32:36Z",
     "url": "https://github.com/Zhang-hao111/Freud"
   },
   {
@@ -77,7 +149,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 742,
-    "updated_at": "2026-09-30T16:24:06Z",
+    "updated_at": "2026-09-30T16:37:37Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -88,15 +160,6 @@
     "stars": 3,
     "updated_at": "2026-09-30T16:21:21Z",
     "url": "https://github.com/nanami-0713/dsh-jev-decide"
-  },
-  {
-    "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
-    "id": "jack-h-park/pm-intelligence-engine",
-    "language": "Python",
-    "name": "jack-h-park/pm-intelligence-engine",
-    "stars": 0,
-    "updated_at": "2026-09-30T16:20:18Z",
-    "url": "https://github.com/jack-h-park/pm-intelligence-engine"
   },
   {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
@@ -185,7 +248,7 @@
     "language": "Go",
     "name": "peder1981/AdvPP",
     "stars": 2,
-    "updated_at": "2026-09-30T16:28:16Z",
+    "updated_at": "2026-09-30T16:39:49Z",
     "url": "https://github.com/peder1981/AdvPP"
   },
   {
@@ -324,15 +387,6 @@
     "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
   },
   {
-    "description": "An observability-driven text-only core for coordinating ephemeral LLM agents",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 1,
-    "updated_at": "2026-09-30T16:30:08Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
     "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
     "id": "hasting323/AutoGLM-For-Android",
     "language": "Kotlin",
@@ -394,59 +448,5 @@
     "stars": 128,
     "updated_at": "2026-09-30T15:47:14Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "Autonomous LLM agent that investigates Microsoft Defender XDR and Sentinel alerts, with a Training Lab benchmark of 14 k",
-    "id": "Aretea-Group/isophase",
-    "language": "TypeScript",
-    "name": "Aretea-Group/isophase",
-    "stars": 1,
-    "updated_at": "2026-09-30T15:48:04Z",
-    "url": "https://github.com/Aretea-Group/isophase"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-09-30T16:28:55Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-09-30T15:29:12Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "Organizational-memory system for micro/nano fabrication: executable process-flow canvas, LLM agent, reliability-scored k",
-    "id": "liyao13-sketch/OpenNano",
-    "language": "Python",
-    "name": "liyao13-sketch/OpenNano",
-    "stars": 0,
-    "updated_at": "2026-09-30T15:29:02Z",
-    "url": "https://github.com/liyao13-sketch/OpenNano"
-  },
-  {
-    "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
-    "id": "anchor-inference/daedalus",
-    "language": "Python",
-    "name": "anchor-inference/daedalus",
-    "stars": 1,
-    "updated_at": "2026-09-30T15:26:36Z",
-    "url": "https://github.com/anchor-inference/daedalus"
-  },
-  {
-    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
-    "id": "plurnk/plurnk",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk",
-    "stars": 3,
-    "updated_at": "2026-09-30T15:23:44Z",
-    "url": "https://github.com/plurnk/plurnk"
   }
 ]
