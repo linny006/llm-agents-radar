@@ -1,5 +1,86 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 26,
+    "updated_at": "2026-09-30T18:45:06Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 77,
+    "updated_at": "2026-09-30T18:43:59Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
+    "id": "hsaghir/looplet",
+    "language": "Python",
+    "name": "hsaghir/looplet",
+    "stars": 7,
+    "updated_at": "2026-09-30T18:42:36Z",
+    "url": "https://github.com/hsaghir/looplet"
+  },
+  {
+    "description": "AI QQ bot with OneBot, NapCat, LLM routing, plugins, and WebUI",
+    "id": "dwgx/YuKiKo",
+    "language": "Python",
+    "name": "dwgx/YuKiKo",
+    "stars": 20,
+    "updated_at": "2026-09-30T18:41:32Z",
+    "url": "https://github.com/dwgx/YuKiKo"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-09-30T18:37:57Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-09-30T18:38:07Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-09-30T18:37:40Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
+    "id": "anchor-inference/daedalus",
+    "language": "Python",
+    "name": "anchor-inference/daedalus",
+    "stars": 1,
+    "updated_at": "2026-09-30T18:37:13Z",
+    "url": "https://github.com/anchor-inference/daedalus"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 742,
+    "updated_at": "2026-09-30T18:41:41Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
     "description": "Open-source AI-native quant trading workstation for OKX crypto markets (Windows/macOS). Charts, order execution, AI trad",
     "id": "xiazhi88/Desic-Terminal",
     "language": "Rust",
@@ -32,7 +113,7 @@
     "language": "Python",
     "name": "ariannamethod/SUBLITERATUS",
     "stars": 3,
-    "updated_at": "2026-09-30T18:23:44Z",
+    "updated_at": "2026-09-30T18:42:34Z",
     "url": "https://github.com/ariannamethod/SUBLITERATUS"
   },
   {
@@ -54,31 +135,13 @@
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 742,
-    "updated_at": "2026-09-30T18:25:35Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
     "description": "An observability-driven text-only core for coordinating ephemeral LLM agents",
     "id": "genaforvena/mishe-tauftauf",
     "language": "Python",
     "name": "genaforvena/mishe-tauftauf",
     "stars": 1,
-    "updated_at": "2026-09-30T18:21:07Z",
+    "updated_at": "2026-09-30T18:41:05Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-09-30T18:05:54Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
@@ -95,7 +158,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 8585,
-    "updated_at": "2026-09-30T18:04:46Z",
+    "updated_at": "2026-09-30T18:39:51Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -108,15 +171,6 @@
     "url": "https://github.com/SashaEee/auditLens"
   },
   {
-    "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
-    "id": "anchor-inference/daedalus",
-    "language": "Python",
-    "name": "anchor-inference/daedalus",
-    "stars": 1,
-    "updated_at": "2026-09-30T17:57:20Z",
-    "url": "https://github.com/anchor-inference/daedalus"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -124,15 +178,6 @@
     "stars": 10,
     "updated_at": "2026-09-30T17:54:45Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-09-30T18:26:05Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
@@ -221,7 +266,7 @@
     "language": "Python",
     "name": "cheeezis/job_finder",
     "stars": 0,
-    "updated_at": "2026-09-30T18:29:28Z",
+    "updated_at": "2026-09-30T18:41:20Z",
     "url": "https://github.com/cheeezis/job_finder"
   },
   {
@@ -328,7 +373,7 @@
     "id": "Luciole-Studio/Misaka-Agent",
     "language": "Python",
     "name": "Luciole-Studio/Misaka-Agent",
-    "stars": 10,
+    "stars": 11,
     "updated_at": "2026-09-30T16:26:48Z",
     "url": "https://github.com/Luciole-Studio/Misaka-Agent"
   },
@@ -401,52 +446,7 @@
     "language": "Python",
     "name": "liunan09-ops/llm4or-supplychain-agent-public",
     "stars": 0,
-    "updated_at": "2026-09-30T16:19:08Z",
+    "updated_at": "2026-09-30T18:32:06Z",
     "url": "https://github.com/liunan09-ops/llm4or-supplychain-agent-public"
-  },
-  {
-    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
-    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
-    "language": "Go",
-    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
-    "stars": 0,
-    "updated_at": "2026-09-30T16:17:36Z",
-    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
-  },
-  {
-    "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 277,
-    "updated_at": "2026-09-30T18:28:55Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
-    "id": "Samuelcluttered613/paper2code",
-    "language": "Python",
-    "name": "Samuelcluttered613/paper2code",
-    "stars": 1,
-    "updated_at": "2026-09-30T16:13:00Z",
-    "url": "https://github.com/Samuelcluttered613/paper2code"
-  },
-  {
-    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
-    "id": "Bastioned-successor320/learn-nanobot",
-    "language": "Python",
-    "name": "Bastioned-successor320/learn-nanobot",
-    "stars": 11,
-    "updated_at": "2026-09-30T16:12:45Z",
-    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
-  },
-  {
-    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
-    "id": "tessellated-statisticalcommission243/deep-research-skill",
-    "language": "\u2014",
-    "name": "tessellated-statisticalcommission243/deep-research-skill",
-    "stars": 3,
-    "updated_at": "2026-09-30T16:12:31Z",
-    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
   }
 ]
