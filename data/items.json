@@ -1,5 +1,95 @@
 [
   {
+    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
+    "id": "sky-valley/pi",
+    "language": "Go",
+    "name": "sky-valley/pi",
+    "stars": 59,
+    "updated_at": "2026-09-30T10:43:18Z",
+    "url": "https://github.com/sky-valley/pi"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-09-30T10:43:50Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
+    "id": "hasting323/AutoGLM-For-Android",
+    "language": "Kotlin",
+    "name": "hasting323/AutoGLM-For-Android",
+    "stars": 12,
+    "updated_at": "2026-09-30T10:42:04Z",
+    "url": "https://github.com/hasting323/AutoGLM-For-Android"
+  },
+  {
+    "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
+    "id": "denisotree/veles",
+    "language": "Python",
+    "name": "denisotree/veles",
+    "stars": 4,
+    "updated_at": "2026-09-30T10:38:36Z",
+    "url": "https://github.com/denisotree/veles"
+  },
+  {
+    "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 277,
+    "updated_at": "2026-09-30T10:40:07Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-09-30T10:36:17Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "Agent/Skill production-readiness review \u2014 8-dimension scoring + M1-M5 veto gates + evidence grades. Answers one question",
+    "id": "johnsmithCA-sta/agent-production-readiness",
+    "language": "Python",
+    "name": "johnsmithCA-sta/agent-production-readiness",
+    "stars": 0,
+    "updated_at": "2026-09-30T10:35:52Z",
+    "url": "https://github.com/johnsmithCA-sta/agent-production-readiness"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 1,
+    "updated_at": "2026-09-30T10:35:24Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 76,
+    "updated_at": "2026-09-30T10:34:04Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "An auto-evolution framework that optimizes anything \u2014 your 7\u00d724 team of algorithm engineers.",
+    "id": "ant-research/AntOmniEvo",
+    "language": "Python",
+    "name": "ant-research/AntOmniEvo",
+    "stars": 830,
+    "updated_at": "2026-09-30T10:36:29Z",
+    "url": "https://github.com/ant-research/AntOmniEvo"
+  },
+  {
     "description": "A multi-agent research system for the humanities and social sciences.",
     "id": "Luciole-Studio/Misaka-Agent",
     "language": "Python",
@@ -14,7 +104,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-09-30T10:24:12Z",
+    "updated_at": "2026-09-30T10:44:25Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -25,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T10:17:58Z",
     "url": "https://github.com/chlniubi23/ecommerce-ai-customer-service-agent"
-  },
-  {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 1,
-    "updated_at": "2026-09-30T10:15:14Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "\u5267\u672c\u5206\u955c\u667a\u80fd\u4f53\uff08PenShot\uff09\uff1a\u7535\u5f71/\u52a8\u6f2b/\u77ed\u5267/\u5c0f\u8bf4\u2192\u5206\u955c\u7247\u6bb5\u2192\u89c6\u9891\u63d0\u793a\u8bcd\u3002\u57fa\u4e8e LLM \u901a\u8fc7 LangGraph+LlamaIndex\u5b9e\u73b0\u4efb\u610f\u683c\u5f0f\u5267\u672c\u7684\u81ea\u52a8\u89e3\u6790\uff0c\u751f\u6210 Sora/Veo/Runway \u7b49\u6a21\u578b\u53ef\u7528\u7684\u8fde\u8d2ftext-to-v",
@@ -90,15 +171,6 @@
     "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
-    "description": "An auto-evolution framework that optimizes anything \u2014 your 7\u00d724 team of algorithm engineers.",
-    "id": "ant-research/AntOmniEvo",
-    "language": "Python",
-    "name": "ant-research/AntOmniEvo",
-    "stars": 830,
-    "updated_at": "2026-09-30T10:30:04Z",
-    "url": "https://github.com/ant-research/AntOmniEvo"
-  },
-  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
@@ -130,7 +202,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 14277,
+    "stars": 14276,
     "updated_at": "2026-09-30T09:52:54Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -140,7 +212,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 6081,
-    "updated_at": "2026-09-30T09:51:08Z",
+    "updated_at": "2026-09-30T10:35:05Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -157,18 +229,9 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 32611,
+    "stars": 32612,
     "updated_at": "2026-09-30T09:47:13Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
-    "id": "denisotree/veles",
-    "language": "Python",
-    "name": "denisotree/veles",
-    "stars": 4,
-    "updated_at": "2026-09-30T10:16:06Z",
-    "url": "https://github.com/denisotree/veles"
   },
   {
     "description": "Local pre-write containment & structural scoring for AI coding agents: deterministic policy, Mamba-3 SSM coherence, and ",
@@ -288,21 +351,12 @@
     "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
   },
   {
-    "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 277,
-    "updated_at": "2026-09-30T09:08:17Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4439,
-    "updated_at": "2026-09-30T10:24:40Z",
+    "updated_at": "2026-09-30T10:37:03Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-30T08:58:09Z",
     "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 3,
-    "updated_at": "2026-09-30T08:55:31Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-09-30T08:55:30Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-09-30T08:54:23Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-30T08:54:13Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
-    "id": "kyleslight/shun",
-    "language": "TypeScript",
-    "name": "kyleslight/shun",
-    "stars": 6,
-    "updated_at": "2026-09-30T08:52:36Z",
-    "url": "https://github.com/kyleslight/shun"
-  },
-  {
-    "description": "\u53ef\u8ffd\u6eaf\u8bc1\u636e\u7684\u78b3\u4fe1\u7528\u62ab\u9732\u5ba1\u6838 Agent\uff1a\u81ea\u7814 Harness \u00d7 LangGraph \u53cc\u8fd0\u884c\u65f6\u5bf9\u7167\u3001\u6df7\u5408\u68c0\u7d22 + Cross-Encoder Reranker\u3001\u4eba\u5de5\u5ba1\u6279\u4e0e\u5f15\u7528\u6821\u9a8c\u3001token \u6210\u672c\u5b9e\u6d4b\uff0cDocker \u4e00\u952e\u90e8\u7f72",
-    "id": "hhhttyzuishuai/carbon-credit-evidence-rag",
-    "language": "Python",
-    "name": "hhhttyzuishuai/carbon-credit-evidence-rag",
-    "stars": 0,
-    "updated_at": "2026-09-30T08:50:28Z",
-    "url": "https://github.com/hhhttyzuishuai/carbon-credit-evidence-rag"
   }
 ]
