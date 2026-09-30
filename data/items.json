@@ -1,5 +1,59 @@
 [
   {
+    "description": "Vector search that ships as a file. Compile a corpus into one self-contained, hash-verified .pikelet \u2014 search it anywher",
+    "id": "mcn92/pikelet",
+    "language": "JavaScript",
+    "name": "mcn92/pikelet",
+    "stars": 2,
+    "updated_at": "2026-09-30T01:28:24Z",
+    "url": "https://github.com/mcn92/pikelet"
+  },
+  {
+    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
+    "id": "Rekin226/Agronaut",
+    "language": "Python",
+    "name": "Rekin226/Agronaut",
+    "stars": 4,
+    "updated_at": "2026-09-30T01:28:24Z",
+    "url": "https://github.com/Rekin226/Agronaut"
+  },
+  {
+    "description": "Enterprise Data Agent: NL \u2192 contract-bound DSL \u2192 deterministic SQL \u2192 DuckDB. StateGraph orchestration, sandboxed analysi",
+    "id": "Cwentor/DataAgent",
+    "language": "Python",
+    "name": "Cwentor/DataAgent",
+    "stars": 1,
+    "updated_at": "2026-09-30T01:25:44Z",
+    "url": "https://github.com/Cwentor/DataAgent"
+  },
+  {
+    "description": "A complete CRM admin built entirely with Lume \u2014 one C11 single binary plus one .lume script for the database, REST API, ",
+    "id": "erishen/lume-crm",
+    "language": "TypeScript",
+    "name": "erishen/lume-crm",
+    "stars": 0,
+    "updated_at": "2026-09-30T01:21:46Z",
+    "url": "https://github.com/erishen/lume-crm"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 1096,
+    "updated_at": "2026-09-30T01:19:11Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 1,
+    "updated_at": "2026-09-30T01:18:53Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
     "description": "An observability-driven text-only core for coordinating ephemeral LLM agents",
     "id": "genaforvena/mishe-tauftauf",
     "language": "Python",
@@ -63,21 +117,12 @@
     "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
   },
   {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 1,
-    "updated_at": "2026-09-30T01:01:09Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4439,
-    "updated_at": "2026-09-30T01:00:49Z",
+    "updated_at": "2026-09-30T01:22:25Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -185,7 +230,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-30T01:06:17Z",
+    "updated_at": "2026-09-30T01:27:44Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -241,15 +286,6 @@
     "stars": 6,
     "updated_at": "2026-09-30T00:43:35Z",
     "url": "https://github.com/kyleslight/shun"
-  },
-  {
-    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
-    "id": "Rekin226/Agronaut",
-    "language": "Python",
-    "name": "Rekin226/Agronaut",
-    "stars": 4,
-    "updated_at": "2026-09-30T00:43:29Z",
-    "url": "https://github.com/Rekin226/Agronaut"
   },
   {
     "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-30T00:23:42Z",
     "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-09-30T00:49:37Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 3,
-    "updated_at": "2026-09-30T00:21:15Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-09-30T00:18:17Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-09-30T00:29:19Z",
-    "url": "https://github.com/citizenhicks/mobius"
   }
 ]
