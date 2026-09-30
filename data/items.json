@@ -1,12 +1,30 @@
 [
   {
+    "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
+    "id": "khudayarovich/onflip-agent",
+    "language": "TypeScript",
+    "name": "khudayarovich/onflip-agent",
+    "stars": 4,
+    "updated_at": "2026-09-30T22:14:08Z",
+    "url": "https://github.com/khudayarovich/onflip-agent"
+  },
+  {
     "description": "All-in-one agent harness for Claude Code \u2014 Boss meta-orchestrator, 32 curated agents, 139 curated skills, 2 named workfl",
     "id": "sehoon787/my-claude",
     "language": "JavaScript",
     "name": "sehoon787/my-claude",
     "stars": 17,
-    "updated_at": "2026-09-30T21:58:08Z",
+    "updated_at": "2026-09-30T22:09:32Z",
     "url": "https://github.com/sehoon787/my-claude"
+  },
+  {
+    "description": "a local Windows AI assistant powered by Ollama. NOVA inspects and controls your system through native, permission-gated ",
+    "id": "mccedddy/nova",
+    "language": "Python",
+    "name": "mccedddy/nova",
+    "stars": 0,
+    "updated_at": "2026-09-30T22:05:15Z",
+    "url": "https://github.com/mccedddy/nova"
   },
   {
     "description": "Harness designed for plug-and-play use with local models",
@@ -32,7 +50,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 814,
-    "updated_at": "2026-09-30T21:55:42Z",
+    "updated_at": "2026-09-30T22:12:54Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -50,7 +68,7 @@
     "language": "Python",
     "name": "ariannamethod/SUBLITERATUS",
     "stars": 3,
-    "updated_at": "2026-09-30T21:53:28Z",
+    "updated_at": "2026-09-30T22:15:19Z",
     "url": "https://github.com/ariannamethod/SUBLITERATUS"
   },
   {
@@ -59,7 +77,7 @@
     "language": "Python",
     "name": "genaforvena/mishe-tauftauf",
     "stars": 1,
-    "updated_at": "2026-09-30T21:58:10Z",
+    "updated_at": "2026-09-30T22:05:56Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
@@ -97,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T21:48:24Z",
     "url": "https://github.com/pruthviraj00007/VibeHarness"
-  },
-  {
-    "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
-    "id": "khudayarovich/onflip-agent",
-    "language": "TypeScript",
-    "name": "khudayarovich/onflip-agent",
-    "stars": 4,
-    "updated_at": "2026-09-30T21:47:54Z",
-    "url": "https://github.com/khudayarovich/onflip-agent"
   },
   {
     "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
@@ -439,14 +448,5 @@
     "stars": 12,
     "updated_at": "2026-09-30T19:52:15Z",
     "url": "https://github.com/agent-axiom/agent-arch"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 130,
-    "updated_at": "2026-09-30T19:49:50Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   }
 ]
