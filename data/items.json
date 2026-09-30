@@ -1,5 +1,41 @@
 [
   {
+    "description": "An observability-driven text-only core for coordinating ephemeral LLM agents",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 1,
+    "updated_at": "2026-09-30T00:14:50Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-09-30T00:14:34Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "TypeScript",
+    "name": "dsswift/ion",
+    "stars": 3,
+    "updated_at": "2026-09-30T00:08:43Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "Control AI agents anywhere. (github mirror)",
+    "id": "justacalico/devinorium",
+    "language": "Dart",
+    "name": "justacalico/devinorium",
+    "stars": 1,
+    "updated_at": "2026-09-30T00:07:32Z",
+    "url": "https://github.com/justacalico/devinorium"
+  },
+  {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
     "id": "plurnk/plurnk-service",
     "language": "TypeScript",
@@ -14,7 +50,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-29T23:54:52Z",
+    "updated_at": "2026-09-30T00:11:57Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -23,17 +59,8 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4438,
-    "updated_at": "2026-09-29T23:59:14Z",
+    "updated_at": "2026-09-30T00:12:30Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "An observability-driven text-only core for coordinating ephemeral LLM agents",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 1,
-    "updated_at": "2026-09-29T23:50:18Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "Organizational-memory system for micro/nano fabrication: executable process-flow canvas, LLM agent, reliability-scored k",
@@ -50,24 +77,15 @@
     "language": "Python",
     "name": "Rekin226/Agronaut",
     "stars": 4,
-    "updated_at": "2026-09-29T23:45:53Z",
+    "updated_at": "2026-09-30T00:01:15Z",
     "url": "https://github.com/Rekin226/Agronaut"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-09-29T23:49:16Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 8564,
+    "stars": 8565,
     "updated_at": "2026-09-29T23:27:00Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -257,7 +275,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 26,
-    "updated_at": "2026-09-29T23:58:43Z",
+    "updated_at": "2026-09-30T00:03:50Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -295,6 +313,15 @@
     "stars": 1,
     "updated_at": "2026-09-29T21:50:48Z",
     "url": "https://github.com/massimiliano1991/the-attempt"
+  },
+  {
+    "description": "An open-source research agent system for your Zotero library.",
+    "id": "yilewang/llm-for-zotero",
+    "language": "TypeScript",
+    "name": "yilewang/llm-for-zotero",
+    "stars": 3169,
+    "updated_at": "2026-09-29T21:43:01Z",
+    "url": "https://github.com/yilewang/llm-for-zotero"
   },
   {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
@@ -401,7 +428,7 @@
     "language": "HTML",
     "name": "iammonth1997/paperwiki-research-compiler",
     "stars": 3,
-    "updated_at": "2026-09-29T20:37:23Z",
+    "updated_at": "2026-09-30T00:15:13Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-29T20:36:22Z",
     "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
-    "id": "Indrasclerotinia71/local-ai-research-assistant",
-    "language": "Python",
-    "name": "Indrasclerotinia71/local-ai-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-29T20:35:16Z",
-    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
-  },
-  {
-    "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
-    "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "language": "Python",
-    "name": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "stars": 3,
-    "updated_at": "2026-09-29T20:34:06Z",
-    "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
-  },
-  {
-    "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
-    "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "language": "\u2014",
-    "name": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "stars": 1,
-    "updated_at": "2026-09-29T20:33:49Z",
-    "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
   }
 ]
