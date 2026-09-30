@@ -1,5 +1,14 @@
 [
   {
+    "description": "Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node\u2014no complex workflows needed.",
+    "id": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
+    "language": "JavaScript",
+    "name": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
+    "stars": 3,
+    "updated_at": "2026-09-30T19:59:39Z",
+    "url": "https://github.com/Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3"
+  },
+  {
     "description": "Control your Windows laptop remotely via Discord with AI-powered voice and text commands in English or Urdu.",
     "id": "Ottoman-reticule726/zara-ai-laptop-agent",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 77,
     "updated_at": "2026-09-30T18:43:59Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-09-30T19:49:07Z",
-    "url": "https://github.com/ljchang/mecha"
   }
 ]
