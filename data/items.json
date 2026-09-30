@@ -1,11 +1,65 @@
 [
   {
+    "description": "Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and ",
+    "id": "genieincodebottle/generative-ai",
+    "language": "Jupyter Notebook",
+    "name": "genieincodebottle/generative-ai",
+    "stars": 2644,
+    "updated_at": "2026-09-30T12:15:11Z",
+    "url": "https://github.com/genieincodebottle/generative-ai"
+  },
+  {
+    "description": "A\u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\uff1a\u80a1\u7968\u5206\u6790\u3001\u91cf\u5316\u4ea4\u6613\u5206\u6790\u3001\u76d8\u540e\u590d\u76d8\u684c\u9762\u5de5\u4f5c\u53f0\u2014\u2014easy stock",
+    "id": "jundizhou/easy-stock",
+    "language": "Go",
+    "name": "jundizhou/easy-stock",
+    "stars": 1103,
+    "updated_at": "2026-09-30T12:15:01Z",
+    "url": "https://github.com/jundizhou/easy-stock"
+  },
+  {
+    "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
+    "id": "edjafarov/kiagent-core",
+    "language": "TypeScript",
+    "name": "edjafarov/kiagent-core",
+    "stars": 7,
+    "updated_at": "2026-09-30T12:13:04Z",
+    "url": "https://github.com/edjafarov/kiagent-core"
+  },
+  {
+    "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
+    "id": "anchor-inference/daedalus",
+    "language": "Python",
+    "name": "anchor-inference/daedalus",
+    "stars": 0,
+    "updated_at": "2026-09-30T12:12:43Z",
+    "url": "https://github.com/anchor-inference/daedalus"
+  },
+  {
+    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
+    "id": "QQSHI13/fox-agent",
+    "language": "TypeScript",
+    "name": "QQSHI13/fox-agent",
+    "stars": 2,
+    "updated_at": "2026-09-30T12:05:25Z",
+    "url": "https://github.com/QQSHI13/fox-agent"
+  },
+  {
+    "description": "Visual inspection with an LLM agent: YOLOv8 + Qwen-VL, RAG standards retrieval via tool calling with grounded citations,",
+    "id": "mino19790622-dot/visual-inspection-report-generator",
+    "language": "Python",
+    "name": "mino19790622-dot/visual-inspection-report-generator",
+    "stars": 0,
+    "updated_at": "2026-09-30T12:02:06Z",
+    "url": "https://github.com/mino19790622-dot/visual-inspection-report-generator"
+  },
+  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4439,
-    "updated_at": "2026-09-30T11:59:58Z",
+    "updated_at": "2026-09-30T12:13:52Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -16,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T11:59:16Z",
     "url": "https://github.com/woojune511/patchloop-agent"
-  },
-  {
-    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
-    "id": "QQSHI13/fox-agent",
-    "language": "TypeScript",
-    "name": "QQSHI13/fox-agent",
-    "stars": 2,
-    "updated_at": "2026-09-30T11:58:37Z",
-    "url": "https://github.com/QQSHI13/fox-agent"
   },
   {
     "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
@@ -68,7 +113,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-30T11:57:24Z",
+    "updated_at": "2026-09-30T12:09:49Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -212,7 +257,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 741,
-    "updated_at": "2026-09-30T11:50:57Z",
+    "updated_at": "2026-09-30T12:05:43Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -311,7 +356,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 813,
-    "updated_at": "2026-09-30T11:58:05Z",
+    "updated_at": "2026-09-30T12:13:56Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -374,7 +419,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 1,
-    "updated_at": "2026-09-30T10:35:24Z",
+    "updated_at": "2026-09-30T12:05:54Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-30T10:17:58Z",
     "url": "https://github.com/chlniubi23/ecommerce-ai-customer-service-agent"
-  },
-  {
-    "description": "\u5267\u672c\u5206\u955c\u667a\u80fd\u4f53\uff08PenShot\uff09\uff1a\u7535\u5f71/\u52a8\u6f2b/\u77ed\u5267/\u5c0f\u8bf4\u2192\u5206\u955c\u7247\u6bb5\u2192\u89c6\u9891\u63d0\u793a\u8bcd\u3002\u57fa\u4e8e LLM \u901a\u8fc7 LangGraph+LlamaIndex\u5b9e\u73b0\u4efb\u610f\u683c\u5f0f\u5267\u672c\u7684\u81ea\u52a8\u89e3\u6790\uff0c\u751f\u6210 Sora/Veo/Runway \u7b49\u6a21\u578b\u53ef\u7528\u7684\u8fde\u8d2ftext-to-v",
-    "id": "neopen/story-shot-agent",
-    "language": "Python",
-    "name": "neopen/story-shot-agent",
-    "stars": 209,
-    "updated_at": "2026-09-30T10:14:45Z",
-    "url": "https://github.com/neopen/story-shot-agent"
-  },
-  {
-    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
-    "id": "kangwoo/aimon-core",
-    "language": "Java",
-    "name": "kangwoo/aimon-core",
-    "stars": 0,
-    "updated_at": "2026-09-30T10:13:45Z",
-    "url": "https://github.com/kangwoo/aimon-core"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-09-30T10:13:11Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
-    "id": "ljedrz/nachalnik",
-    "language": "Rust",
-    "name": "ljedrz/nachalnik",
-    "stars": 5,
-    "updated_at": "2026-09-30T10:10:08Z",
-    "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
-    "description": "\u8fd9\u662f\u4e00\u4e2a\u4e3a AstrBot \u8bbe\u8ba1\u7684 Office \u52a9\u624b\u63d2\u4ef6\u3002\u5b83\u8d4b\u4e88\u5927\u8bed\u8a00\u6a21\u578b\uff08LLM\uff09\u76f4\u63a5\u64cd\u4f5c\u6587\u4ef6\u7684\u80fd\u529b\uff0c\u652f\u6301\u8bfb\u53d6\u5e76\u5206\u6790\u591a\u79cd\u683c\u5f0f\u6587\u4ef6\uff0c\u4ee5\u53ca\u751f\u6210 Office \u6587\u6863\u548coffice\u4e92\u8f6cpdf\u7684\u529f\u80fd",
-    "id": "Clhikari/astrbot_plugin_office_assistant",
-    "language": "Python",
-    "name": "Clhikari/astrbot_plugin_office_assistant",
-    "stars": 42,
-    "updated_at": "2026-09-30T10:08:46Z",
-    "url": "https://github.com/Clhikari/astrbot_plugin_office_assistant"
   }
 ]
