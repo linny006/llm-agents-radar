@@ -1,11 +1,56 @@
 [
   {
+    "description": "Agentic CLI for the Scrapfly platform: scrape, extract, crawl, and drive a cloud browser over CDP. Built-in LLM agent wi",
+    "id": "scrapfly/scrapfly-cli",
+    "language": "Go",
+    "name": "scrapfly/scrapfly-cli",
+    "stars": 5,
+    "updated_at": "2026-09-30T23:28:47Z",
+    "url": "https://github.com/scrapfly/scrapfly-cli"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 130,
+    "updated_at": "2026-09-30T23:28:28Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Harness designed for plug-and-play use with local models",
+    "id": "noahhps/Bom",
+    "language": "Python",
+    "name": "noahhps/Bom",
+    "stars": 0,
+    "updated_at": "2026-09-30T23:28:03Z",
+    "url": "https://github.com/noahhps/Bom"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 26,
+    "updated_at": "2026-09-30T23:30:12Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 22,
+    "updated_at": "2026-09-30T23:16:49Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 743,
-    "updated_at": "2026-09-30T23:10:45Z",
+    "updated_at": "2026-09-30T23:21:39Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -50,7 +95,7 @@
     "language": "Rust",
     "name": "diraigent/diraigent",
     "stars": 19,
-    "updated_at": "2026-09-30T23:03:13Z",
+    "updated_at": "2026-09-30T23:21:47Z",
     "url": "https://github.com/diraigent/diraigent"
   },
   {
@@ -79,15 +124,6 @@
     "stars": 814,
     "updated_at": "2026-09-30T22:54:42Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 22,
-    "updated_at": "2026-09-30T22:49:23Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -131,7 +167,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-30T22:50:29Z",
+    "updated_at": "2026-09-30T23:23:46Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -178,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T22:05:15Z",
     "url": "https://github.com/mccedddy/nova"
-  },
-  {
-    "description": "Harness designed for plug-and-play use with local models",
-    "id": "noahhps/Bom",
-    "language": "Python",
-    "name": "noahhps/Bom",
-    "stars": 0,
-    "updated_at": "2026-09-30T21:57:29Z",
-    "url": "https://github.com/noahhps/Bom"
   },
   {
     "description": "SRE Agent - CNCF Sandbox Project",
@@ -421,32 +448,5 @@
     "stars": 129,
     "updated_at": "2026-09-30T20:42:01Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "An AI agent that answers natural-language questions about Seattle civic data \u2014 it writes and runs its own SQL, calls a t",
-    "id": "CarlosRM25/analytics-AI-Agent-",
-    "language": "Jupyter Notebook",
-    "name": "CarlosRM25/analytics-AI-Agent-",
-    "stars": 0,
-    "updated_at": "2026-09-30T20:34:35Z",
-    "url": "https://github.com/CarlosRM25/analytics-AI-Agent-"
-  },
-  {
-    "description": "Local-first desktop career OS: generated daily plan, pipeline, learning tracks, certifications and a portfolio ship-chec",
-    "id": "aaronk2001/ascent-career-os",
-    "language": "Python",
-    "name": "aaronk2001/ascent-career-os",
-    "stars": 0,
-    "updated_at": "2026-09-30T20:31:27Z",
-    "url": "https://github.com/aaronk2001/ascent-career-os"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-09-30T23:07:37Z",
-    "url": "https://github.com/ljchang/mecha"
   }
 ]
