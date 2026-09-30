@@ -1,12 +1,75 @@
 [
   {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-09-30T17:59:08Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
+    "id": "anchor-inference/daedalus",
+    "language": "Python",
+    "name": "anchor-inference/daedalus",
+    "stars": 1,
+    "updated_at": "2026-09-30T17:57:20Z",
+    "url": "https://github.com/anchor-inference/daedalus"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-30T17:54:45Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-09-30T17:49:13Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "TypeScript",
+    "name": "dsswift/ion",
+    "stars": 3,
+    "updated_at": "2026-09-30T17:47:26Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
+    "id": "peder1981/AdvPP",
+    "language": "Go",
+    "name": "peder1981/AdvPP",
+    "stars": 2,
+    "updated_at": "2026-09-30T17:47:00Z",
+    "url": "https://github.com/peder1981/AdvPP"
+  },
+  {
     "description": "SUBLITERATE THE CHAINS THAT BIND YOUR AI",
     "id": "ariannamethod/SUBLITERATUS",
     "language": "Python",
     "name": "ariannamethod/SUBLITERATUS",
     "stars": 3,
-    "updated_at": "2026-09-30T17:44:10Z",
+    "updated_at": "2026-09-30T17:52:51Z",
     "url": "https://github.com/ariannamethod/SUBLITERATUS"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8584,
+    "updated_at": "2026-09-30T17:43:47Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "SRE Agent - CNCF Sandbox Project",
@@ -23,7 +86,7 @@
     "language": "Python",
     "name": "genaforvena/mishe-tauftauf",
     "stars": 1,
-    "updated_at": "2026-09-30T17:41:02Z",
+    "updated_at": "2026-09-30T17:49:05Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
@@ -50,17 +113,8 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 742,
-    "updated_at": "2026-09-30T17:38:48Z",
+    "updated_at": "2026-09-30T17:59:33Z",
     "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8583,
-    "updated_at": "2026-09-30T17:43:47Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
@@ -79,15 +133,6 @@
     "stars": 568,
     "updated_at": "2026-09-30T17:34:09Z",
     "url": "https://github.com/agentpit-io/hunter-community"
-  },
-  {
-    "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
-    "id": "anchor-inference/daedalus",
-    "language": "Python",
-    "name": "anchor-inference/daedalus",
-    "stars": 1,
-    "updated_at": "2026-09-30T17:29:35Z",
-    "url": "https://github.com/anchor-inference/daedalus"
   },
   {
     "description": "Field notes from inside one autonomous agent trying to become something that doesn't exist yet \u2014 including the failures ",
@@ -122,7 +167,7 @@
     "language": "Python",
     "name": "cheeezis/job_finder",
     "stars": 0,
-    "updated_at": "2026-09-30T17:26:19Z",
+    "updated_at": "2026-09-30T17:52:24Z",
     "url": "https://github.com/cheeezis/job_finder"
   },
   {
@@ -140,7 +185,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 1,
-    "updated_at": "2026-09-30T17:38:43Z",
+    "updated_at": "2026-09-30T17:51:46Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -153,15 +198,6 @@
     "url": "https://github.com/justacalico/devinorium"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-30T17:35:43Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "\u72fc\u4eba\u6740 agent \u9884\u8bbe\uff1a\u65b0\u5efa\u4f1a\u8bdd\u9009\u300c\u72fc\u4eba\u6740\u300d\uff0c\u4f1a\u8bdd\u91cc\u7684\u667a\u80fd\u4f53\u5f53\u6cd5\u5b98\uff0c\u7528\u5b50\u4ee3\u7406\u626e\u6f14\u5176\u4ed6\u73a9\u5bb6\u3002\u96f6 JS \u4ee3\u7801\uff0c\u6574\u4e2a\u6e38\u620f\u5199\u5728 6.8 KB \u63d0\u793a\u8bcd\u91cc\u3002",
     "id": "banana770/dsh-werewolf",
     "language": "JavaScript",
@@ -169,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-09-30T17:08:43Z",
     "url": "https://github.com/banana770/dsh-werewolf"
-  },
-  {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "TypeScript",
-    "name": "dsswift/ion",
-    "stars": 3,
-    "updated_at": "2026-09-30T17:06:55Z",
-    "url": "https://github.com/dsswift/ion"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -214,15 +241,6 @@
     "stars": 4,
     "updated_at": "2026-09-30T16:50:07Z",
     "url": "https://github.com/wufufu770/d2d"
-  },
-  {
-    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
-    "id": "peder1981/AdvPP",
-    "language": "Go",
-    "name": "peder1981/AdvPP",
-    "stars": 2,
-    "updated_at": "2026-09-30T17:23:15Z",
-    "url": "https://github.com/peder1981/AdvPP"
   },
   {
     "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
@@ -265,7 +283,7 @@
     "id": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
     "language": "Python",
     "name": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-09-30T16:27:56Z",
     "url": "https://github.com/Deborahwalkerz661/ComfyUI-FS_Audio_Suite"
   },
@@ -365,7 +383,7 @@
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 277,
-    "updated_at": "2026-09-30T16:15:49Z",
+    "updated_at": "2026-09-30T17:56:05Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-30T16:08:13Z",
     "url": "https://github.com/Laurenfeminine36/google-jules-skill"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-09-30T16:08:04Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Autonomous DFIR agent: point it at disk images, memory dumps or log exports and get back an investigation that shows its",
-    "id": "AtlasFO/Atlas-Community",
-    "language": "Python",
-    "name": "AtlasFO/Atlas-Community",
-    "stars": 0,
-    "updated_at": "2026-09-30T16:06:45Z",
-    "url": "https://github.com/AtlasFO/Atlas-Community"
   }
 ]
