@@ -1,5 +1,50 @@
 [
   {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-09-30T02:43:36Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "Open Source Desktop AI Agent Runtime - LLM, MCP, Voice Runtime, and local/cloud models wired into one PyQt6 desktop agen",
+    "id": "kwakminoo/Project-IRIS-Light",
+    "language": "Python",
+    "name": "kwakminoo/Project-IRIS-Light",
+    "stars": 3,
+    "updated_at": "2026-09-30T02:41:11Z",
+    "url": "https://github.com/kwakminoo/Project-IRIS-Light"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-09-30T02:39:45Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-09-30T02:36:48Z",
+    "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
+    "description": "Vector search that ships as a file. Compile a corpus into one self-contained, hash-verified .pikelet \u2014 search it anywher",
+    "id": "mcn92/pikelet",
+    "language": "JavaScript",
+    "name": "mcn92/pikelet",
+    "stars": 2,
+    "updated_at": "2026-09-30T02:33:49Z",
+    "url": "https://github.com/mcn92/pikelet"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -13,7 +58,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 32579,
+    "stars": 32580,
     "updated_at": "2026-09-30T02:27:48Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -23,7 +68,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-30T02:29:36Z",
+    "updated_at": "2026-09-30T02:38:08Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -52,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T02:21:06Z",
     "url": "https://github.com/johnsmithCA-sta/agent-readiness-review"
-  },
-  {
-    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
-    "id": "kangwoo/aimon-core",
-    "language": "Java",
-    "name": "kangwoo/aimon-core",
-    "stars": 0,
-    "updated_at": "2026-09-30T02:21:20Z",
-    "url": "https://github.com/kangwoo/aimon-core"
   },
   {
     "description": "Local-first pentest agent: Go daemon + React dashboard + Codex/Claude Code/Pi runtimes, scoped projects, Blackboard, san",
@@ -140,7 +176,7 @@
     "language": "Rust",
     "name": "citizenhicks/mobius",
     "stars": 1,
-    "updated_at": "2026-09-30T02:17:37Z",
+    "updated_at": "2026-09-30T02:35:20Z",
     "url": "https://github.com/citizenhicks/mobius"
   },
   {
@@ -243,15 +279,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "Open Source Desktop AI Agent Runtime - LLM, MCP, Voice Runtime, and local/cloud models wired into one PyQt6 desktop agen",
-    "id": "kwakminoo/Project-IRIS-Light",
-    "language": "Python",
-    "name": "kwakminoo/Project-IRIS-Light",
-    "stars": 3,
-    "updated_at": "2026-09-30T01:34:09Z",
-    "url": "https://github.com/kwakminoo/Project-IRIS-Light"
-  },
-  {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
@@ -259,15 +286,6 @@
     "stars": 740,
     "updated_at": "2026-09-30T01:31:55Z",
     "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "Vector search that ships as a file. Compile a corpus into one self-contained, hash-verified .pikelet \u2014 search it anywher",
-    "id": "mcn92/pikelet",
-    "language": "JavaScript",
-    "name": "mcn92/pikelet",
-    "stars": 2,
-    "updated_at": "2026-09-30T01:28:24Z",
-    "url": "https://github.com/mcn92/pikelet"
   },
   {
     "description": "Enterprise Data Agent: NL \u2192 contract-bound DSL \u2192 deterministic SQL \u2192 DuckDB. StateGraph orchestration, sandboxed analysi",
@@ -313,15 +331,6 @@
     "stars": 130,
     "updated_at": "2026-09-30T01:04:00Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-09-30T01:03:17Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-30T00:48:10Z",
     "url": "https://github.com/HELLOCODINGTR/AgentForge"
-  },
-  {
-    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
-    "id": "strobilevitellus470/argus-ai",
-    "language": "Python",
-    "name": "strobilevitellus470/argus-ai",
-    "stars": 1,
-    "updated_at": "2026-09-30T00:47:24Z",
-    "url": "https://github.com/strobilevitellus470/argus-ai"
   }
 ]
