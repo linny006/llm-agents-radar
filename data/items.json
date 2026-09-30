@@ -1,12 +1,111 @@
 [
   {
+    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
+    "id": "hasting323/AutoGLM-For-Android",
+    "language": "Kotlin",
+    "name": "hasting323/AutoGLM-For-Android",
+    "stars": 12,
+    "updated_at": "2026-09-30T13:58:39Z",
+    "url": "https://github.com/hasting323/AutoGLM-For-Android"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-30T13:58:05Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
+    "id": "expectedparrot/edsl",
+    "language": "Python",
+    "name": "expectedparrot/edsl",
+    "stars": 502,
+    "updated_at": "2026-09-30T13:58:03Z",
+    "url": "https://github.com/expectedparrot/edsl"
+  },
+  {
+    "description": "A complete CRM admin built entirely with Lume \u2014 one C11 single binary plus one .lume script for the database, REST API, ",
+    "id": "erishen/lume-crm",
+    "language": "TypeScript",
+    "name": "erishen/lume-crm",
+    "stars": 0,
+    "updated_at": "2026-09-30T13:57:31Z",
+    "url": "https://github.com/erishen/lume-crm"
+  },
+  {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 1,
+    "updated_at": "2026-09-30T13:57:20Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
     "description": "Field notes from inside one autonomous agent trying to become something that doesn't exist yet \u2014 including the failures ",
     "id": "massimiliano1991/the-attempt",
     "language": "HTML",
     "name": "massimiliano1991/the-attempt",
     "stars": 1,
-    "updated_at": "2026-09-30T13:41:53Z",
+    "updated_at": "2026-09-30T13:57:03Z",
     "url": "https://github.com/massimiliano1991/the-attempt"
+  },
+  {
+    "description": "A multi-agent research system for the humanities and social sciences.",
+    "id": "Luciole-Studio/Misaka-Agent",
+    "language": "Python",
+    "name": "Luciole-Studio/Misaka-Agent",
+    "stars": 4,
+    "updated_at": "2026-09-30T13:57:00Z",
+    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
+  },
+  {
+    "description": "\u4e2a\u6027\u5316\u5b66\u4e60\u591a\u667a\u80fd\u4f53\u7cfb\u7edf\uff1aFastAPI + LangGraph\uff0cReAct \u81ea\u4e3b\u8f85\u5bfc Agent + BM25 \u4e09\u9053\u4ee3\u7801\u7ea7\u9632\u5e7b\u89c9 RAG + \u4e09\u5c42\u8bb0\u5fc6\uff0cpytest 156 \u5168\u79bb\u7ebf\u53ef\u8dd1",
+    "id": "Dongnb66/python-learning-agent",
+    "language": "Python",
+    "name": "Dongnb66/python-learning-agent",
+    "stars": 0,
+    "updated_at": "2026-09-30T13:55:53Z",
+    "url": "https://github.com/Dongnb66/python-learning-agent"
+  },
+  {
+    "description": "\u81ea\u8fdb\u5316\u7814\u7a76 Wiki \u667a\u80fd\u4f53\uff1a\u81ea\u5efa agent harness + \u4e09\u5c42\u8bb0\u5fc6 + \u5f15\u7528\u5f3a\u5236\u4e0e\u51b2\u7a81\u5bf9\u8d26",
+    "id": "111wxh/researchwiki",
+    "language": "Python",
+    "name": "111wxh/researchwiki",
+    "stars": 0,
+    "updated_at": "2026-09-30T13:55:35Z",
+    "url": "https://github.com/111wxh/researchwiki"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-09-30T13:55:33Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "A\u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\uff1a\u80a1\u7968\u5206\u6790\u3001\u91cf\u5316\u4ea4\u6613\u5206\u6790\u3001\u76d8\u540e\u590d\u76d8\u684c\u9762\u5de5\u4f5c\u53f0\u2014\u2014easy stock",
+    "id": "jundizhou/easy-stock",
+    "language": "Go",
+    "name": "jundizhou/easy-stock",
+    "stars": 1104,
+    "updated_at": "2026-09-30T13:52:17Z",
+    "url": "https://github.com/jundizhou/easy-stock"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8581,
+    "updated_at": "2026-09-30T13:47:24Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
@@ -18,31 +117,13 @@
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
   {
-    "description": "A\u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\uff1a\u80a1\u7968\u5206\u6790\u3001\u91cf\u5316\u4ea4\u6613\u5206\u6790\u3001\u76d8\u540e\u590d\u76d8\u684c\u9762\u5de5\u4f5c\u53f0\u2014\u2014easy stock",
-    "id": "jundizhou/easy-stock",
-    "language": "Go",
-    "name": "jundizhou/easy-stock",
-    "stars": 1104,
-    "updated_at": "2026-09-30T13:36:55Z",
-    "url": "https://github.com/jundizhou/easy-stock"
-  },
-  {
     "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
     "id": "ljedrz/nachalnik",
     "language": "Rust",
     "name": "ljedrz/nachalnik",
     "stars": 5,
-    "updated_at": "2026-09-30T13:36:02Z",
+    "updated_at": "2026-09-30T13:51:29Z",
     "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
-    "description": "\u4e2a\u6027\u5316\u5b66\u4e60\u591a\u667a\u80fd\u4f53\u7cfb\u7edf\uff1aFastAPI + LangGraph\uff0cReAct \u81ea\u4e3b\u8f85\u5bfc Agent + BM25 \u4e09\u9053\u4ee3\u7801\u7ea7\u9632\u5e7b\u89c9 RAG + \u4e09\u5c42\u8bb0\u5fc6\uff0cpytest 156 \u5168\u79bb\u7ebf\u53ef\u8dd1",
-    "id": "Dongnb66/python-learning-agent",
-    "language": "Python",
-    "name": "Dongnb66/python-learning-agent",
-    "stars": 0,
-    "updated_at": "2026-09-30T13:33:39Z",
-    "url": "https://github.com/Dongnb66/python-learning-agent"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -50,7 +131,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4438,
-    "updated_at": "2026-09-30T13:44:13Z",
+    "updated_at": "2026-09-30T13:59:00Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -90,15 +171,6 @@
     "url": "https://github.com/ximing/vital"
   },
   {
-    "description": "A complete CRM admin built entirely with Lume \u2014 one C11 single binary plus one .lume script for the database, REST API, ",
-    "id": "erishen/lume-crm",
-    "language": "TypeScript",
-    "name": "erishen/lume-crm",
-    "stars": 0,
-    "updated_at": "2026-09-30T13:26:56Z",
-    "url": "https://github.com/erishen/lume-crm"
-  },
-  {
     "description": "Autonomous LLM agent that investigates Microsoft Defender XDR and Sentinel alerts, with a Training Lab benchmark of 14 k",
     "id": "Aretea-Group/soc-agent-poc",
     "language": "TypeScript",
@@ -126,15 +198,6 @@
     "url": "https://github.com/mnemon-dev/mnemon"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8580,
-    "updated_at": "2026-09-30T13:21:56Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
     "id": "OtakuNathan/Pal",
     "language": "Python",
@@ -158,17 +221,8 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-30T13:39:41Z",
+    "updated_at": "2026-09-30T13:54:08Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "A multi-agent research system for the humanities and social sciences.",
-    "id": "Luciole-Studio/Misaka-Agent",
-    "language": "Python",
-    "name": "Luciole-Studio/Misaka-Agent",
-    "stars": 4,
-    "updated_at": "2026-09-30T13:06:04Z",
-    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
   },
   {
     "description": "Production-ready template for a self-hosted Agent Protocol server: FastAPI + LangGraph + PostgreSQL (+ optional Redis), ",
@@ -212,7 +266,7 @@
     "language": "Python",
     "name": "woojune511/patchloop-agent",
     "stars": 0,
-    "updated_at": "2026-09-30T13:03:27Z",
+    "updated_at": "2026-09-30T13:49:58Z",
     "url": "https://github.com/woojune511/patchloop-agent"
   },
   {
@@ -223,15 +277,6 @@
     "stars": 3,
     "updated_at": "2026-09-30T12:38:06Z",
     "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
-    "id": "expectedparrot/edsl",
-    "language": "Python",
-    "name": "expectedparrot/edsl",
-    "stars": 502,
-    "updated_at": "2026-09-30T12:35:55Z",
-    "url": "https://github.com/expectedparrot/edsl"
   },
   {
     "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
@@ -248,7 +293,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 1,
-    "updated_at": "2026-09-30T12:27:38Z",
+    "updated_at": "2026-09-30T13:53:17Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-30T11:13:33Z",
     "url": "https://github.com/plurnk/plurnk"
-  },
-  {
-    "description": "Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node\u2014no complex workflows needed.",
-    "id": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
-    "language": "JavaScript",
-    "name": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
-    "stars": 3,
-    "updated_at": "2026-09-30T11:13:29Z",
-    "url": "https://github.com/Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3"
-  },
-  {
-    "description": "Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons.",
-    "id": "alejandrogg15/Minimax-H3-Turbo",
-    "language": "Python",
-    "name": "alejandrogg15/Minimax-H3-Turbo",
-    "stars": 0,
-    "updated_at": "2026-09-30T11:12:34Z",
-    "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
-  },
-  {
-    "description": "ASTRA: Claude as the flight crew of Kerbal Space Program 1. 74 MCP tools; the AI designs, launches, lands on the Mun and",
-    "id": "shoal-rat/astra-ksp",
-    "language": "Python",
-    "name": "shoal-rat/astra-ksp",
-    "stars": 2,
-    "updated_at": "2026-09-30T11:11:54Z",
-    "url": "https://github.com/shoal-rat/astra-ksp"
-  },
-  {
-    "description": "Automate Elytra flight, navigation, and landing for Meteor Client with intelligent pathfinding and rocket management.",
-    "id": "222394/SkyPilot",
-    "language": "Java",
-    "name": "222394/SkyPilot",
-    "stars": 0,
-    "updated_at": "2026-09-30T11:11:26Z",
-    "url": "https://github.com/222394/SkyPilot"
-  },
-  {
-    "description": "Build open source deep research agents using multiple models, search tools, and MCP servers.",
-    "id": "randomvariablewhitepelican129/open_deep_research",
-    "language": "Python",
-    "name": "randomvariablewhitepelican129/open_deep_research",
-    "stars": 0,
-    "updated_at": "2026-09-30T11:10:52Z",
-    "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
   }
 ]
