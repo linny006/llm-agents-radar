@@ -1,12 +1,48 @@
 [
   {
+    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
+    "id": "QQSHI13/fox-agent",
+    "language": "TypeScript",
+    "name": "QQSHI13/fox-agent",
+    "stars": 2,
+    "updated_at": "2026-09-30T11:44:51Z",
+    "url": "https://github.com/QQSHI13/fox-agent"
+  },
+  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-09-30T11:30:14Z",
+    "updated_at": "2026-09-30T11:44:12Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-09-30T11:35:27Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "\u901a\u7528 Agent \u5185\u6838\uff1a\u5728\u7ebf\u5927\u8111\u89c4\u5212 + \u672c\u5730\u6267\u884c\u5668\uff0cMCP / LangGraph / OpenAI Agents SDK \u9a71\u52a8\uff0c\u652f\u6301\u77e5\u8bc6\u7ea7\u81ea\u5347\u7ea7\uff08\u6280\u80fd\u4e0e\u5168\u5c40\u8bb0\u5fc6\u81ea\u52a8\u63d0\u70bc\uff09",
+    "id": "momo-null/OmniAgent",
+    "language": "Python",
+    "name": "momo-null/OmniAgent",
+    "stars": 3,
+    "updated_at": "2026-09-30T11:34:25Z",
+    "url": "https://github.com/momo-null/OmniAgent"
+  },
+  {
+    "description": "\u72fc\u4eba\u6740 agent \u9884\u8bbe\uff1a\u65b0\u5efa\u4f1a\u8bdd\u9009\u300c\u72fc\u4eba\u6740\u300d\uff0c\u4f1a\u8bdd\u91cc\u7684\u667a\u80fd\u4f53\u5f53\u6cd5\u5b98\uff0c\u7528\u5b50\u4ee3\u7406\u626e\u6f14\u5176\u4ed6\u73a9\u5bb6\u3002\u96f6 JS \u4ee3\u7801\uff0c\u6574\u4e2a\u6e38\u620f\u5199\u5728 6.8 KB \u63d0\u793a\u8bcd\u91cc\u3002",
+    "id": "banana770/dsh-werewolf",
+    "language": "JavaScript",
+    "name": "banana770/dsh-werewolf",
+    "stars": 0,
+    "updated_at": "2026-09-30T11:34:08Z",
+    "url": "https://github.com/banana770/dsh-werewolf"
   },
   {
     "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
@@ -14,7 +50,7 @@
     "language": "Kotlin",
     "name": "Soodok/Deepseek-Harness-Local-Android",
     "stars": 20,
-    "updated_at": "2026-09-30T11:27:16Z",
+    "updated_at": "2026-09-30T11:33:28Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
   {
@@ -34,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-09-30T11:26:59Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
-    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
-    "id": "QQSHI13/fox-agent",
-    "language": "TypeScript",
-    "name": "QQSHI13/fox-agent",
-    "stars": 2,
-    "updated_at": "2026-09-30T11:25:34Z",
-    "url": "https://github.com/QQSHI13/fox-agent"
   },
   {
     "description": "Generate rich YuE2 audio in ComfyUI with six modular nodes\u2014hum-to-song, LoRA and adapter support\u2014no stock nodes needed.",
@@ -97,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T11:12:34Z",
     "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-09-30T11:12:12Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "ASTRA: Claude as the flight crew of Kerbal Space Program 1. 74 MCP tools; the AI designs, launches, lands on the Mun and",
@@ -167,7 +185,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-30T11:03:21Z",
+    "updated_at": "2026-09-30T11:39:56Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -248,7 +266,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 813,
-    "updated_at": "2026-09-30T10:45:45Z",
+    "updated_at": "2026-09-30T11:40:43Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -292,7 +310,7 @@
     "id": "ant-research/AntOmniEvo",
     "language": "Python",
     "name": "ant-research/AntOmniEvo",
-    "stars": 832,
+    "stars": 833,
     "updated_at": "2026-09-30T10:36:29Z",
     "url": "https://github.com/ant-research/AntOmniEvo"
   },
@@ -396,21 +414,12 @@
     "url": "https://github.com/EvoMap/evolver"
   },
   {
-    "description": "\u72fc\u4eba\u6740 agent \u9884\u8bbe\uff1a\u65b0\u5efa\u4f1a\u8bdd\u9009\u300c\u72fc\u4eba\u6740\u300d\uff0c\u4f1a\u8bdd\u91cc\u7684\u667a\u80fd\u4f53\u5f53\u6cd5\u5b98\uff0c\u7528\u5b50\u4ee3\u7406\u626e\u6f14\u5176\u4ed6\u73a9\u5bb6\u3002\u96f6 JS \u4ee3\u7801\uff0c\u6574\u4e2a\u6e38\u620f\u5199\u5728 6.8 KB \u63d0\u793a\u8bcd\u91cc\u3002",
-    "id": "banana770/dsh-werewolf",
-    "language": "JavaScript",
-    "name": "banana770/dsh-werewolf",
-    "stars": 0,
-    "updated_at": "2026-09-30T09:57:41Z",
-    "url": "https://github.com/banana770/dsh-werewolf"
-  },
-  {
     "description": "Recoverable single coding agent for bounded repository repair",
     "id": "woojune511/patchloop-agent",
     "language": "Python",
     "name": "woojune511/patchloop-agent",
     "stars": 0,
-    "updated_at": "2026-09-30T11:12:37Z",
+    "updated_at": "2026-09-30T11:31:11Z",
     "url": "https://github.com/woojune511/patchloop-agent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-30T09:49:21Z",
     "url": "https://github.com/oldfunk/paper-trading"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 32614,
-    "updated_at": "2026-09-30T09:47:13Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
   }
 ]
