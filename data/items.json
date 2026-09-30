@@ -1,12 +1,84 @@
 [
   {
-    "description": "An observability-driven text-only core for coordinating ephemeral LLM agents",
-    "id": "genaforvena/mishe-tauftauf",
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
     "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-09-30T00:29:39Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
+    "id": "kyleslight/shun",
+    "language": "TypeScript",
+    "name": "kyleslight/shun",
+    "stars": 6,
+    "updated_at": "2026-09-30T00:28:44Z",
+    "url": "https://github.com/kyleslight/shun"
+  },
+  {
+    "description": "Pre-registered test of an AI analyst (Antigravity CLI) writing daily trade theses for OKX BTC/ETH/SOL perpetuals; data o",
+    "id": "crypmiy/vibe-trading-okx-futures",
+    "language": "Python",
+    "name": "crypmiy/vibe-trading-okx-futures",
+    "stars": 0,
+    "updated_at": "2026-09-30T00:27:39Z",
+    "url": "https://github.com/crypmiy/vibe-trading-okx-futures"
+  },
+  {
+    "description": "Field notes from inside one autonomous agent trying to become something that doesn't exist yet \u2014 including the failures ",
+    "id": "massimiliano1991/the-attempt",
+    "language": "HTML",
+    "name": "massimiliano1991/the-attempt",
     "stars": 1,
-    "updated_at": "2026-09-30T00:14:50Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
+    "updated_at": "2026-09-30T00:26:51Z",
+    "url": "https://github.com/massimiliano1991/the-attempt"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 75,
+    "updated_at": "2026-09-30T00:23:43Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-09-30T00:23:42Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "\u603b\u7ed3Prompt&LLM\u8bba\u6587\uff0c\u5f00\u6e90\u6570\u636e&\u6a21\u578b\uff0cAIGC\u5e94\u7528",
+    "id": "DSXiangLi/DecryptPrompt",
+    "language": "\u2014",
+    "name": "DSXiangLi/DecryptPrompt",
+    "stars": 3441,
+    "updated_at": "2026-09-30T00:23:03Z",
+    "url": "https://github.com/DSXiangLi/DecryptPrompt"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-09-30T00:22:55Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
+    "id": "Rekin226/Agronaut",
+    "language": "Python",
+    "name": "Rekin226/Agronaut",
+    "stars": 4,
+    "updated_at": "2026-09-30T00:22:53Z",
+    "url": "https://github.com/Rekin226/Agronaut"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -14,8 +86,62 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-30T00:14:34Z",
+    "updated_at": "2026-09-30T00:30:13Z",
     "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 3,
+    "updated_at": "2026-09-30T00:21:15Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-09-30T00:20:32Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-09-30T00:18:17Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-09-30T00:29:19Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 3,
+    "updated_at": "2026-09-30T00:15:13Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "An observability-driven text-only core for coordinating ephemeral LLM agents",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 1,
+    "updated_at": "2026-09-30T00:14:50Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
@@ -32,17 +158,8 @@
     "language": "Dart",
     "name": "justacalico/devinorium",
     "stars": 1,
-    "updated_at": "2026-09-30T00:07:32Z",
+    "updated_at": "2026-09-30T00:28:07Z",
     "url": "https://github.com/justacalico/devinorium"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-09-29T23:57:47Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
@@ -50,7 +167,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-09-30T00:11:57Z",
+    "updated_at": "2026-09-30T00:28:28Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -59,7 +176,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4438,
-    "updated_at": "2026-09-30T00:12:30Z",
+    "updated_at": "2026-09-30T00:22:56Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -72,20 +189,11 @@
     "url": "https://github.com/liyao13-sketch/OpenNano"
   },
   {
-    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
-    "id": "Rekin226/Agronaut",
-    "language": "Python",
-    "name": "Rekin226/Agronaut",
-    "stars": 4,
-    "updated_at": "2026-09-30T00:01:15Z",
-    "url": "https://github.com/Rekin226/Agronaut"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 8565,
+    "stars": 8566,
     "updated_at": "2026-09-29T23:27:00Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -106,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-09-29T23:24:01Z",
     "url": "https://github.com/feder-cr/dots"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-09-30T00:00:17Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
@@ -216,15 +315,6 @@
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
   },
   {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 75,
-    "updated_at": "2026-09-29T22:53:09Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -306,15 +396,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "Field notes from inside one autonomous agent trying to become something that doesn't exist yet \u2014 including the failures ",
-    "id": "massimiliano1991/the-attempt",
-    "language": "HTML",
-    "name": "massimiliano1991/the-attempt",
-    "stars": 1,
-    "updated_at": "2026-09-29T21:50:48Z",
-    "url": "https://github.com/massimiliano1991/the-attempt"
-  },
-  {
     "description": "An open-source research agent system for your Zotero library.",
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-29T20:53:10Z",
     "url": "https://github.com/sunnnn2005/data-quality-agent"
-  },
-  {
-    "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
-    "id": "rugose-learnedprofession58/pi-dsh",
-    "language": "TypeScript",
-    "name": "rugose-learnedprofession58/pi-dsh",
-    "stars": 0,
-    "updated_at": "2026-09-29T20:43:07Z",
-    "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
-  },
-  {
-    "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
-    "id": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
-    "language": "JavaScript",
-    "name": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
-    "stars": 1,
-    "updated_at": "2026-09-29T20:42:17Z",
-    "url": "https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder"
-  },
-  {
-    "description": "Verify area values quickly with this web-based HTML calculator tool.",
-    "id": "passive-hotpepper515/area-checker-html-tool",
-    "language": "HTML",
-    "name": "passive-hotpepper515/area-checker-html-tool",
-    "stars": 0,
-    "updated_at": "2026-09-29T20:41:55Z",
-    "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
-  },
-  {
-    "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
-    "id": "jack-h-park/pm-intelligence-engine",
-    "language": "Python",
-    "name": "jack-h-park/pm-intelligence-engine",
-    "stars": 0,
-    "updated_at": "2026-09-29T23:01:43Z",
-    "url": "https://github.com/jack-h-park/pm-intelligence-engine"
-  },
-  {
-    "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
-    "id": "Blondieredistributed612/pocket-agent",
-    "language": "Python",
-    "name": "Blondieredistributed612/pocket-agent",
-    "stars": 2,
-    "updated_at": "2026-09-29T20:40:36Z",
-    "url": "https://github.com/Blondieredistributed612/pocket-agent"
-  },
-  {
-    "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
-    "id": "bettersilvanus849/inner-coordinates",
-    "language": "Shell",
-    "name": "bettersilvanus849/inner-coordinates",
-    "stars": 1,
-    "updated_at": "2026-09-29T20:37:30Z",
-    "url": "https://github.com/bettersilvanus849/inner-coordinates"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 3,
-    "updated_at": "2026-09-30T00:15:13Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "\u624b\u5199 Function Calling \u5faa\u73af\u7684 Agent \u5de5\u5177\u7bb1\uff1a\u51fd\u6570\u7b7e\u540d\u5373\u5de5\u5177 Schema\uff08FastAPI + SSE + ReAct \u53cc\u901a\u9053\uff09",
-    "id": "zhaosibo-1/agent-toolbox",
-    "language": "Python",
-    "name": "zhaosibo-1/agent-toolbox",
-    "stars": 0,
-    "updated_at": "2026-09-29T20:36:52Z",
-    "url": "https://github.com/zhaosibo-1/agent-toolbox"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 1,
-    "updated_at": "2026-09-29T20:36:22Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
   }
 ]
