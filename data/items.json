@@ -1,11 +1,56 @@
 [
   {
+    "description": "Vector search that ships as a file. Compile a corpus into one self-contained, hash-verified .pikelet \u2014 search it anywher",
+    "id": "mcn92/pikelet",
+    "language": "JavaScript",
+    "name": "mcn92/pikelet",
+    "stars": 2,
+    "updated_at": "2026-09-30T22:41:21Z",
+    "url": "https://github.com/mcn92/pikelet"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-30T22:39:55Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8587,
+    "updated_at": "2026-09-30T22:39:19Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-09-30T22:33:15Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 743,
+    "updated_at": "2026-09-30T22:32:03Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
     "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
     "id": "khudayarovich/onflip-agent",
     "language": "TypeScript",
     "name": "khudayarovich/onflip-agent",
     "stars": 4,
-    "updated_at": "2026-09-30T22:29:08Z",
+    "updated_at": "2026-09-30T22:31:35Z",
     "url": "https://github.com/khudayarovich/onflip-agent"
   },
   {
@@ -32,7 +77,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 814,
-    "updated_at": "2026-09-30T22:21:13Z",
+    "updated_at": "2026-09-30T22:43:21Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -72,6 +117,15 @@
     "url": "https://github.com/noahhps/Bom"
   },
   {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3485,
+    "updated_at": "2026-09-30T21:56:42Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
     "description": "Generate rich YuE2 audio in ComfyUI with six modular nodes\u2014hum-to-song, LoRA and adapter support\u2014no stock nodes needed.",
     "id": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
     "language": "Python",
@@ -104,7 +158,7 @@
     "language": "Python",
     "name": "genaforvena/mishe-tauftauf",
     "stars": 1,
-    "updated_at": "2026-09-30T22:26:40Z",
+    "updated_at": "2026-09-30T22:39:07Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
@@ -171,15 +225,6 @@
     "url": "https://github.com/Bastioned-successor320/learn-nanobot"
   },
   {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-09-30T21:42:02Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
     "id": "chadwickhyperboloidal943/knowl",
     "language": "TypeScript",
@@ -214,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T21:36:13Z",
     "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 743,
-    "updated_at": "2026-09-30T22:22:25Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
@@ -277,15 +313,6 @@
     "stars": 3,
     "updated_at": "2026-09-30T21:19:32Z",
     "url": "https://github.com/plurnk/plurnk"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-30T21:58:57Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
@@ -349,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T20:34:35Z",
     "url": "https://github.com/CarlosRM25/analytics-AI-Agent-"
-  },
-  {
-    "description": "Vector search that ships as a file. Compile a corpus into one self-contained, hash-verified .pikelet \u2014 search it anywher",
-    "id": "mcn92/pikelet",
-    "language": "JavaScript",
-    "name": "mcn92/pikelet",
-    "stars": 2,
-    "updated_at": "2026-09-30T20:31:53Z",
-    "url": "https://github.com/mcn92/pikelet"
   },
   {
     "description": "Local-first desktop career OS: generated daily plan, pipeline, learning tracks, certifications and a portfolio ship-chec",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-30T19:58:52Z",
     "url": "https://github.com/Ottoman-reticule726/zara-ai-laptop-agent"
-  },
-  {
-    "description": "Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons.",
-    "id": "alejandrogg15/Minimax-H3-Turbo",
-    "language": "Python",
-    "name": "alejandrogg15/Minimax-H3-Turbo",
-    "stars": 0,
-    "updated_at": "2026-09-30T19:58:38Z",
-    "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-09-30T19:56:26Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   }
 ]
