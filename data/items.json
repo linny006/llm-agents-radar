@@ -1,5 +1,86 @@
 [
   {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 742,
+    "updated_at": "2026-09-30T20:07:09Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
+    "id": "DylPorter/claude-telegram",
+    "language": "Python",
+    "name": "DylPorter/claude-telegram",
+    "stars": 1,
+    "updated_at": "2026-09-30T20:06:13Z",
+    "url": "https://github.com/DylPorter/claude-telegram"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-09-30T20:02:51Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Generate rich YuE2 audio in ComfyUI with six modular nodes\u2014hum-to-song, LoRA and adapter support\u2014no stock nodes needed.",
+    "id": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
+    "language": "Python",
+    "name": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
+    "stars": 1,
+    "updated_at": "2026-09-30T20:02:47Z",
+    "url": "https://github.com/Deborahwalkerz661/ComfyUI-FS_Audio_Suite"
+  },
+  {
+    "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
+    "id": "khudayarovich/onflip-agent",
+    "language": "TypeScript",
+    "name": "khudayarovich/onflip-agent",
+    "stars": 4,
+    "updated_at": "2026-09-30T20:05:00Z",
+    "url": "https://github.com/khudayarovich/onflip-agent"
+  },
+  {
+    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
+    "id": "diaban/jobsmith",
+    "language": "Python",
+    "name": "diaban/jobsmith",
+    "stars": 0,
+    "updated_at": "2026-09-30T20:01:33Z",
+    "url": "https://github.com/diaban/jobsmith"
+  },
+  {
+    "description": "Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de",
+    "id": "Jadema5416/ComfyUI-DLSS5-Enhancer",
+    "language": "Python",
+    "name": "Jadema5416/ComfyUI-DLSS5-Enhancer",
+    "stars": 0,
+    "updated_at": "2026-09-30T20:01:28Z",
+    "url": "https://github.com/Jadema5416/ComfyUI-DLSS5-Enhancer"
+  },
+  {
+    "description": "Autonomous LLM agent that investigates Microsoft Defender XDR and Sentinel alerts, with a Training Lab benchmark of 14 k",
+    "id": "Aretea-Group/isophase",
+    "language": "TypeScript",
+    "name": "Aretea-Group/isophase",
+    "stars": 1,
+    "updated_at": "2026-09-30T20:01:34Z",
+    "url": "https://github.com/Aretea-Group/isophase"
+  },
+  {
+    "description": "Sort your Downloads by project, not file type \u2014 with one-command undo. No delete, ever.",
+    "id": "verniceunleaded6135/tidy-undo",
+    "language": "Python",
+    "name": "verniceunleaded6135/tidy-undo",
+    "stars": 0,
+    "updated_at": "2026-09-30T20:00:22Z",
+    "url": "https://github.com/verniceunleaded6135/tidy-undo"
+  },
+  {
     "description": "Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node\u2014no complex workflows needed.",
     "id": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
     "language": "JavaScript",
@@ -216,15 +297,6 @@
     "url": "https://github.com/dwgx/YuKiKo"
   },
   {
-    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
-    "id": "diaban/jobsmith",
-    "language": "Python",
-    "name": "diaban/jobsmith",
-    "stars": 0,
-    "updated_at": "2026-09-30T19:56:35Z",
-    "url": "https://github.com/diaban/jobsmith"
-  },
-  {
     "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
     "id": "Victongo/ai-daily-news",
     "language": "Ruby",
@@ -248,7 +320,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4438,
-    "updated_at": "2026-09-30T19:54:37Z",
+    "updated_at": "2026-09-30T20:14:14Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -324,6 +396,15 @@
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
   },
   {
+    "description": "Local-first desktop career OS: generated daily plan, pipeline, learning tracks, certifications and a portfolio ship-chec",
+    "id": "aaronk2001/ascent-career-os",
+    "language": "Python",
+    "name": "aaronk2001/ascent-career-os",
+    "stars": 0,
+    "updated_at": "2026-09-30T19:21:22Z",
+    "url": "https://github.com/aaronk2001/ascent-career-os"
+  },
+  {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
     "id": "dkblinux98/nyxGPT",
     "language": "Python",
@@ -331,15 +412,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T19:16:39Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 742,
-    "updated_at": "2026-09-30T19:58:01Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "\u57fa\u4e8e LangGraph \u7684\u8de8\u5883\u7535\u5546\u9009\u54c1 + \u4e0a\u67b6 Agent\uff1aReAct \u81ea\u4e3b\u7f16\u6392 5 \u4e2a\u5de5\u5177\uff08\u8bc4\u8bba\u6316\u6398 / \u5173\u952e\u8bcd / Listing \u751f\u6210 / \u7ffb\u8bd1 / \u5408\u89c4\uff09\uff1b7 \u7c7b\u786e\u5b9a\u6027\u5408\u89c4\u95f8\u95e8\uff08\u547d\u4e2d\u5373\u5224\u4e0d\u5408\u683c\u3001\u4e0d\u8c03\u7528\u6a21\u578b\uff09+ \u751f\u6210\u2192\u62e6\u622a\u2192\u91cd\u5199\u95ed",
@@ -376,77 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-30T19:06:53Z",
     "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "An observability-driven text-only core for coordinating ephemeral LLM agents",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 1,
-    "updated_at": "2026-09-30T19:49:12Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 3,
-    "updated_at": "2026-09-30T19:01:48Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
-    "id": "DylPorter/claude-telegram",
-    "language": "Python",
-    "name": "DylPorter/claude-telegram",
-    "stars": 1,
-    "updated_at": "2026-09-30T19:01:33Z",
-    "url": "https://github.com/DylPorter/claude-telegram"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-09-30T18:59:42Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-09-30T18:56:15Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
-    "id": "cheeezis/job_finder",
-    "language": "Python",
-    "name": "cheeezis/job_finder",
-    "stars": 0,
-    "updated_at": "2026-09-30T18:55:50Z",
-    "url": "https://github.com/cheeezis/job_finder"
-  },
-  {
-    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
-    "id": "hsaghir/looplet",
-    "language": "Python",
-    "name": "hsaghir/looplet",
-    "stars": 7,
-    "updated_at": "2026-09-30T18:52:49Z",
-    "url": "https://github.com/hsaghir/looplet"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 77,
-    "updated_at": "2026-09-30T18:43:59Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   }
 ]
