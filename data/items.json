@@ -1,12 +1,12 @@
 [
   {
-    "description": "An observability-driven text-only core for coordinating ephemeral LLM agents",
-    "id": "genaforvena/mishe-tauftauf",
+    "description": "Recoverable single coding agent for bounded repository repair",
+    "id": "woojune511/patchloop-agent",
     "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 1,
-    "updated_at": "2026-09-30T12:28:49Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
+    "name": "woojune511/patchloop-agent",
+    "stars": 0,
+    "updated_at": "2026-09-30T12:44:53Z",
+    "url": "https://github.com/woojune511/patchloop-agent"
   },
   {
     "description": "A\u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\uff1a\u80a1\u7968\u5206\u6790\u3001\u91cf\u5316\u4ea4\u6613\u5206\u6790\u3001\u76d8\u540e\u590d\u76d8\u684c\u9762\u5de5\u4f5c\u53f0\u2014\u2014easy stock",
@@ -14,8 +14,53 @@
     "language": "Go",
     "name": "jundizhou/easy-stock",
     "stars": 1103,
-    "updated_at": "2026-09-30T12:29:06Z",
+    "updated_at": "2026-09-30T12:44:20Z",
     "url": "https://github.com/jundizhou/easy-stock"
+  },
+  {
+    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
+    "id": "QQSHI13/fox-agent",
+    "language": "TypeScript",
+    "name": "QQSHI13/fox-agent",
+    "stars": 2,
+    "updated_at": "2026-09-30T12:40:17Z",
+    "url": "https://github.com/QQSHI13/fox-agent"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "TypeScript",
+    "name": "dsswift/ion",
+    "stars": 3,
+    "updated_at": "2026-09-30T12:38:06Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
+    "id": "expectedparrot/edsl",
+    "language": "Python",
+    "name": "expectedparrot/edsl",
+    "stars": 502,
+    "updated_at": "2026-09-30T12:35:55Z",
+    "url": "https://github.com/expectedparrot/edsl"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-09-30T12:43:14Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "An observability-driven text-only core for coordinating ephemeral LLM agents",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 1,
+    "updated_at": "2026-09-30T12:28:49Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
@@ -34,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-09-30T12:27:38Z",
     "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
-    "id": "QQSHI13/fox-agent",
-    "language": "TypeScript",
-    "name": "QQSHI13/fox-agent",
-    "stars": 2,
-    "updated_at": "2026-09-30T12:24:06Z",
-    "url": "https://github.com/QQSHI13/fox-agent"
   },
   {
     "description": "Production crypto monitor with a bring-your-own-key agent layer. Alerts when a token pulls back from a fresh high, and t",
@@ -81,6 +117,15 @@
     "url": "https://github.com/genieincodebottle/generative-ai"
   },
   {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4438,
+    "updated_at": "2026-09-30T12:13:52Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
     "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
     "id": "edjafarov/kiagent-core",
     "language": "TypeScript",
@@ -106,24 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T12:02:06Z",
     "url": "https://github.com/mino19790622-dot/visual-inspection-report-generator"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4439,
-    "updated_at": "2026-09-30T12:13:52Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Recoverable single coding agent for bounded repository repair",
-    "id": "woojune511/patchloop-agent",
-    "language": "Python",
-    "name": "woojune511/patchloop-agent",
-    "stars": 0,
-    "updated_at": "2026-09-30T12:18:58Z",
-    "url": "https://github.com/woojune511/patchloop-agent"
   },
   {
     "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
@@ -160,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-09-30T11:55:09Z",
     "url": "https://github.com/massimiliano1991/the-attempt"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-09-30T12:26:14Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -302,7 +320,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 741,
-    "updated_at": "2026-09-30T12:05:43Z",
+    "updated_at": "2026-09-30T12:38:42Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-30T10:38:36Z",
     "url": "https://github.com/denisotree/veles"
-  },
-  {
-    "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 277,
-    "updated_at": "2026-09-30T11:30:15Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "An auto-evolution framework that optimizes anything \u2014 your 7\u00d724 team of algorithm engineers.",
-    "id": "ant-research/AntOmniEvo",
-    "language": "Python",
-    "name": "ant-research/AntOmniEvo",
-    "stars": 835,
-    "updated_at": "2026-09-30T10:36:29Z",
-    "url": "https://github.com/ant-research/AntOmniEvo"
   }
 ]
