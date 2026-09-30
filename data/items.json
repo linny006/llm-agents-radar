@@ -1,12 +1,102 @@
 [
   {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 28,
+    "updated_at": "2026-09-30T17:15:10Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 1,
+    "updated_at": "2026-09-30T17:13:34Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 742,
+    "updated_at": "2026-09-30T17:12:58Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-30T17:12:54Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "\u72fc\u4eba\u6740 agent \u9884\u8bbe\uff1a\u65b0\u5efa\u4f1a\u8bdd\u9009\u300c\u72fc\u4eba\u6740\u300d\uff0c\u4f1a\u8bdd\u91cc\u7684\u667a\u80fd\u4f53\u5f53\u6cd5\u5b98\uff0c\u7528\u5b50\u4ee3\u7406\u626e\u6f14\u5176\u4ed6\u73a9\u5bb6\u3002\u96f6 JS \u4ee3\u7801\uff0c\u6574\u4e2a\u6e38\u620f\u5199\u5728 6.8 KB \u63d0\u793a\u8bcd\u91cc\u3002",
     "id": "banana770/dsh-werewolf",
     "language": "JavaScript",
     "name": "banana770/dsh-werewolf",
     "stars": 1,
-    "updated_at": "2026-09-30T16:57:20Z",
+    "updated_at": "2026-09-30T17:08:43Z",
     "url": "https://github.com/banana770/dsh-werewolf"
+  },
+  {
+    "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
+    "id": "anchor-inference/daedalus",
+    "language": "Python",
+    "name": "anchor-inference/daedalus",
+    "stars": 1,
+    "updated_at": "2026-09-30T17:07:23Z",
+    "url": "https://github.com/anchor-inference/daedalus"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "TypeScript",
+    "name": "dsswift/ion",
+    "stars": 3,
+    "updated_at": "2026-09-30T17:06:55Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
+    "id": "cheeezis/job_finder",
+    "language": "Python",
+    "name": "cheeezis/job_finder",
+    "stars": 0,
+    "updated_at": "2026-09-30T17:03:14Z",
+    "url": "https://github.com/cheeezis/job_finder"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 814,
+    "updated_at": "2026-09-30T17:02:58Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
+    "id": "Ven0m0/gemini-web-wrapper",
+    "language": "TypeScript",
+    "name": "Ven0m0/gemini-web-wrapper",
+    "stars": 5,
+    "updated_at": "2026-09-30T17:04:36Z",
+    "url": "https://github.com/Ven0m0/gemini-web-wrapper"
+  },
+  {
+    "description": "Field notes from inside one autonomous agent trying to become something that doesn't exist yet \u2014 including the failures ",
+    "id": "massimiliano1991/the-attempt",
+    "language": "HTML",
+    "name": "massimiliano1991/the-attempt",
+    "stars": 1,
+    "updated_at": "2026-09-30T17:01:30Z",
+    "url": "https://github.com/massimiliano1991/the-attempt"
   },
   {
     "description": "Read-only AWS inventory with a graph model and an LLM agent that answers security questions with validated citations. Po",
@@ -18,22 +108,13 @@
     "url": "https://github.com/TomKoren1/dave.io_home-assignment"
   },
   {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 1,
-    "updated_at": "2026-09-30T16:55:36Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "TypeScript",
-    "name": "dsswift/ion",
-    "stars": 3,
-    "updated_at": "2026-09-30T16:56:54Z",
-    "url": "https://github.com/dsswift/ion"
+    "description": "Control AI agents anywhere. (github mirror)",
+    "id": "justacalico/devinorium",
+    "language": "Dart",
+    "name": "justacalico/devinorium",
+    "stars": 0,
+    "updated_at": "2026-09-30T16:51:34Z",
+    "url": "https://github.com/justacalico/devinorium"
   },
   {
     "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
@@ -45,21 +126,12 @@
     "url": "https://github.com/wufufu770/d2d"
   },
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 742,
-    "updated_at": "2026-09-30T16:53:47Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
     "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
     "id": "peder1981/AdvPP",
     "language": "Go",
     "name": "peder1981/AdvPP",
     "stars": 2,
-    "updated_at": "2026-09-30T16:47:41Z",
+    "updated_at": "2026-09-30T17:11:21Z",
     "url": "https://github.com/peder1981/AdvPP"
   },
   {
@@ -79,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T16:40:32Z",
     "url": "https://github.com/jack-h-park/pm-intelligence-engine"
-  },
-  {
-    "description": "Field notes from inside one autonomous agent trying to become something that doesn't exist yet \u2014 including the failures ",
-    "id": "massimiliano1991/the-attempt",
-    "language": "HTML",
-    "name": "massimiliano1991/the-attempt",
-    "stars": 1,
-    "updated_at": "2026-09-30T16:39:11Z",
-    "url": "https://github.com/massimiliano1991/the-attempt"
   },
   {
     "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
@@ -113,7 +176,7 @@
     "language": "Python",
     "name": "ariannamethod/SUBLITERATUS",
     "stars": 3,
-    "updated_at": "2026-09-30T16:52:20Z",
+    "updated_at": "2026-09-30T17:09:22Z",
     "url": "https://github.com/ariannamethod/SUBLITERATUS"
   },
   {
@@ -124,15 +187,6 @@
     "stars": 3482,
     "updated_at": "2026-09-30T16:36:16Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
-    "id": "anchor-inference/daedalus",
-    "language": "Python",
-    "name": "anchor-inference/daedalus",
-    "stars": 1,
-    "updated_at": "2026-09-30T16:31:50Z",
-    "url": "https://github.com/anchor-inference/daedalus"
   },
   {
     "description": "An observability-driven text-only core for coordinating ephemeral LLM agents",
@@ -288,15 +342,6 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 28,
-    "updated_at": "2026-09-30T16:11:18Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
     "id": "g761007/daily-dispatch",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-30T16:01:15Z",
     "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
-    "id": "emqnuele/projectBEA",
-    "language": "Python",
-    "name": "emqnuele/projectBEA",
-    "stars": 21,
-    "updated_at": "2026-09-30T16:00:44Z",
-    "url": "https://github.com/emqnuele/projectBEA"
-  },
-  {
-    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
-    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "language": "HTML",
-    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "stars": 0,
-    "updated_at": "2026-09-30T15:57:17Z",
-    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
-    "id": "hasting323/AutoGLM-For-Android",
-    "language": "Kotlin",
-    "name": "hasting323/AutoGLM-For-Android",
-    "stars": 12,
-    "updated_at": "2026-09-30T15:53:50Z",
-    "url": "https://github.com/hasting323/AutoGLM-For-Android"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-09-30T15:52:54Z",
-    "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-09-30T15:52:29Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
   }
 ]
