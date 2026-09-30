@@ -1,5 +1,77 @@
 [
   {
+    "description": "\u5267\u672c\u5206\u955c\u667a\u80fd\u4f53\uff08PenShot\uff09\uff1a\u7535\u5f71/\u52a8\u6f2b/\u77ed\u5267/\u5c0f\u8bf4\u2192\u5206\u955c\u7247\u6bb5\u2192\u89c6\u9891\u63d0\u793a\u8bcd\u3002\u57fa\u4e8e LLM \u901a\u8fc7 LangGraph+LlamaIndex\u5b9e\u73b0\u4efb\u610f\u683c\u5f0f\u5267\u672c\u7684\u81ea\u52a8\u89e3\u6790\uff0c\u751f\u6210 Sora/Veo/Runway \u7b49\u6a21\u578b\u53ef\u7528\u7684\u8fde\u8d2ftext-to-v",
+    "id": "neopen/story-shot-agent",
+    "language": "Python",
+    "name": "neopen/story-shot-agent",
+    "stars": 209,
+    "updated_at": "2026-09-30T10:14:45Z",
+    "url": "https://github.com/neopen/story-shot-agent"
+  },
+  {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-09-30T10:13:45Z",
+    "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-09-30T10:13:11Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 5,
+    "updated_at": "2026-09-30T10:10:08Z",
+    "url": "https://github.com/ljedrz/nachalnik"
+  },
+  {
+    "description": "\u8fd9\u662f\u4e00\u4e2a\u4e3a AstrBot \u8bbe\u8ba1\u7684 Office \u52a9\u624b\u63d2\u4ef6\u3002\u5b83\u8d4b\u4e88\u5927\u8bed\u8a00\u6a21\u578b\uff08LLM\uff09\u76f4\u63a5\u64cd\u4f5c\u6587\u4ef6\u7684\u80fd\u529b\uff0c\u652f\u6301\u8bfb\u53d6\u5e76\u5206\u6790\u591a\u79cd\u683c\u5f0f\u6587\u4ef6\uff0c\u4ee5\u53ca\u751f\u6210 Office \u6587\u6863\u548coffice\u4e92\u8f6cpdf\u7684\u529f\u80fd",
+    "id": "Clhikari/astrbot_plugin_office_assistant",
+    "language": "Python",
+    "name": "Clhikari/astrbot_plugin_office_assistant",
+    "stars": 42,
+    "updated_at": "2026-09-30T10:08:46Z",
+    "url": "https://github.com/Clhikari/astrbot_plugin_office_assistant"
+  },
+  {
+    "description": "A multi-agent research system for the humanities and social sciences.",
+    "id": "Luciole-Studio/Misaka-Agent",
+    "language": "Python",
+    "name": "Luciole-Studio/Misaka-Agent",
+    "stars": 4,
+    "updated_at": "2026-09-30T10:08:22Z",
+    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
+  },
+  {
+    "description": "E-commerce AI customer service agent: intent routing, FSM multi-turn dialogs, confirmation-gated write ops, RAG hybrid r",
+    "id": "chlniubi23/ecommerce-ai-customer-service-agent",
+    "language": "Python",
+    "name": "chlniubi23/ecommerce-ai-customer-service-agent",
+    "stars": 0,
+    "updated_at": "2026-09-30T10:05:35Z",
+    "url": "https://github.com/chlniubi23/ecommerce-ai-customer-service-agent"
+  },
+  {
+    "description": "An observability-driven text-only core for coordinating ephemeral LLM agents",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 1,
+    "updated_at": "2026-09-30T10:05:34Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
     "description": "An auto-evolution framework that optimizes anything \u2014 your 7\u00d724 team of algorithm engineers.",
     "id": "ant-research/AntOmniEvo",
     "language": "Python",
@@ -9,21 +81,12 @@
     "url": "https://github.com/ant-research/AntOmniEvo"
   },
   {
-    "description": "\u8fd9\u662f\u4e00\u4e2a\u4e3a AstrBot \u8bbe\u8ba1\u7684 Office \u52a9\u624b\u63d2\u4ef6\u3002\u5b83\u8d4b\u4e88\u5927\u8bed\u8a00\u6a21\u578b\uff08LLM\uff09\u76f4\u63a5\u64cd\u4f5c\u6587\u4ef6\u7684\u80fd\u529b\uff0c\u652f\u6301\u8bfb\u53d6\u5e76\u5206\u6790\u591a\u79cd\u683c\u5f0f\u6587\u4ef6\uff0c\u4ee5\u53ca\u751f\u6210 Office \u6587\u6863\u548coffice\u4e92\u8f6cpdf\u7684\u529f\u80fd",
-    "id": "Clhikari/astrbot_plugin_office_assistant",
-    "language": "Python",
-    "name": "Clhikari/astrbot_plugin_office_assistant",
-    "stars": 42,
-    "updated_at": "2026-09-30T09:59:59Z",
-    "url": "https://github.com/Clhikari/astrbot_plugin_office_assistant"
-  },
-  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
     "name": "helixml/helix",
     "stars": 813,
-    "updated_at": "2026-09-30T09:58:38Z",
+    "updated_at": "2026-09-30T10:03:07Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -34,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T09:57:41Z",
     "url": "https://github.com/banana770/dsh-werewolf"
-  },
-  {
-    "description": "E-commerce AI customer service agent: intent routing, FSM multi-turn dialogs, confirmation-gated write ops, RAG hybrid r",
-    "id": "chlniubi23/ecommerce-ai-customer-service-agent",
-    "language": "Python",
-    "name": "chlniubi23/ecommerce-ai-customer-service-agent",
-    "stars": 0,
-    "updated_at": "2026-09-30T09:54:18Z",
-    "url": "https://github.com/chlniubi23/ecommerce-ai-customer-service-agent"
   },
   {
     "description": "Recoverable single coding agent for bounded repository repair",
@@ -63,13 +117,13 @@
     "url": "https://github.com/lsdefine/GenericAgent"
   },
   {
-    "description": "A multi-agent research system for the humanities and social sciences.",
-    "id": "Luciole-Studio/Misaka-Agent",
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
     "language": "Python",
-    "name": "Luciole-Studio/Misaka-Agent",
-    "stars": 4,
-    "updated_at": "2026-09-30T09:51:44Z",
-    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
+    "name": "Mai-with-u/MaiBot",
+    "stars": 6081,
+    "updated_at": "2026-09-30T09:51:08Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
@@ -85,18 +139,9 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 32609,
+    "stars": 32611,
     "updated_at": "2026-09-30T09:47:13Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "An observability-driven text-only core for coordinating ephemeral LLM agents",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 1,
-    "updated_at": "2026-09-30T09:46:16Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
@@ -122,7 +167,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-09-30T09:59:26Z",
+    "updated_at": "2026-09-30T10:14:01Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-30T08:50:27Z",
     "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
-    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
-    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "language": "HTML",
-    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "stars": 0,
-    "updated_at": "2026-09-30T08:50:20Z",
-    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
-    "id": "hasting323/AutoGLM-For-Android",
-    "language": "Kotlin",
-    "name": "hasting323/AutoGLM-For-Android",
-    "stars": 12,
-    "updated_at": "2026-09-30T08:46:48Z",
-    "url": "https://github.com/hasting323/AutoGLM-For-Android"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-09-30T08:45:26Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "A complete CRM admin built entirely with Lume \u2014 one C11 single binary plus one .lume script for the database, REST API, ",
-    "id": "erishen/lume-crm",
-    "language": "TypeScript",
-    "name": "erishen/lume-crm",
-    "stars": 0,
-    "updated_at": "2026-09-30T08:44:12Z",
-    "url": "https://github.com/erishen/lume-crm"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-09-30T08:43:49Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
   }
 ]
