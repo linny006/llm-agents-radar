@@ -1,5 +1,95 @@
 [
   {
+    "description": "\u57fa\u4e8e LangGraph \u7684\u8de8\u5883\u7535\u5546\u9009\u54c1 + \u4e0a\u67b6 Agent\uff1aReAct \u81ea\u4e3b\u7f16\u6392 5 \u4e2a\u5de5\u5177\uff08\u8bc4\u8bba\u6316\u6398 / \u5173\u952e\u8bcd / Listing \u751f\u6210 / \u7ffb\u8bd1 / \u5408\u89c4\uff09\uff1b7 \u7c7b\u786e\u5b9a\u6027\u5408\u89c4\u95f8\u95e8\uff08\u547d\u4e2d\u5373\u5224\u4e0d\u5408\u683c\u3001\u4e0d\u8c03\u7528\u6a21\u578b\uff09+ \u751f\u6210\u2192\u62e6\u622a\u2192\u91cd\u5199\u95ed",
+    "id": "xianteng-zhang/sourcing-agent",
+    "language": "Python",
+    "name": "xianteng-zhang/sourcing-agent",
+    "stars": 0,
+    "updated_at": "2026-09-30T19:12:18Z",
+    "url": "https://github.com/xianteng-zhang/sourcing-agent"
+  },
+  {
+    "description": "AI QQ bot with OneBot, NapCat, LLM routing, plugins, and WebUI",
+    "id": "dwgx/YuKiKo",
+    "language": "Python",
+    "name": "dwgx/YuKiKo",
+    "stars": 20,
+    "updated_at": "2026-09-30T19:12:15Z",
+    "url": "https://github.com/dwgx/YuKiKo"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-09-30T19:10:49Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 277,
+    "updated_at": "2026-09-30T19:09:47Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-30T19:12:35Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "TypeScript",
+    "name": "dsswift/ion",
+    "stars": 3,
+    "updated_at": "2026-09-30T19:06:53Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "An observability-driven text-only core for coordinating ephemeral LLM agents",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 1,
+    "updated_at": "2026-09-30T19:13:03Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 742,
+    "updated_at": "2026-09-30T19:06:20Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 3,
+    "updated_at": "2026-09-30T19:01:48Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
+    "id": "DylPorter/claude-telegram",
+    "language": "Python",
+    "name": "DylPorter/claude-telegram",
+    "stars": 1,
+    "updated_at": "2026-09-30T19:01:33Z",
+    "url": "https://github.com/DylPorter/claude-telegram"
+  },
+  {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
     "id": "plurnk/plurnk-service",
     "language": "TypeScript",
@@ -54,24 +144,6 @@
     "url": "https://github.com/hsaghir/looplet"
   },
   {
-    "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
-    "id": "DylPorter/claude-telegram",
-    "language": "Python",
-    "name": "DylPorter/claude-telegram",
-    "stars": 1,
-    "updated_at": "2026-09-30T18:52:44Z",
-    "url": "https://github.com/DylPorter/claude-telegram"
-  },
-  {
-    "description": "AI QQ bot with OneBot, NapCat, LLM routing, plugins, and WebUI",
-    "id": "dwgx/YuKiKo",
-    "language": "Python",
-    "name": "dwgx/YuKiKo",
-    "stars": 20,
-    "updated_at": "2026-09-30T18:46:02Z",
-    "url": "https://github.com/dwgx/YuKiKo"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -106,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T18:37:40Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 742,
-    "updated_at": "2026-09-30T18:54:54Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "Open-source AI-native quant trading workstation for OKX crypto markets (Windows/macOS). Charts, order execution, AI trad",
@@ -167,26 +230,8 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 1,
-    "updated_at": "2026-09-30T18:11:50Z",
+    "updated_at": "2026-09-30T19:06:18Z",
     "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "An observability-driven text-only core for coordinating ephemeral LLM agents",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 1,
-    "updated_at": "2026-09-30T18:41:05Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "TypeScript",
-    "name": "dsswift/ion",
-    "stars": 3,
-    "updated_at": "2026-09-30T18:05:40Z",
-    "url": "https://github.com/dsswift/ion"
   },
   {
     "description": "SRE Agent - CNCF Sandbox Project",
@@ -196,24 +241,6 @@
     "stars": 3484,
     "updated_at": "2026-09-30T18:03:25Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-09-30T17:59:08Z",
-    "url": "https://github.com/SashaEee/auditLens"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-30T18:55:36Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-30T16:32:36Z",
     "url": "https://github.com/Zhang-hao111/Freud"
-  },
-  {
-    "description": "Automate Elytra flight, navigation, and landing for Meteor Client with intelligent pathfinding and rocket management.",
-    "id": "222394/SkyPilot",
-    "language": "Java",
-    "name": "222394/SkyPilot",
-    "stars": 0,
-    "updated_at": "2026-09-30T16:22:32Z",
-    "url": "https://github.com/222394/SkyPilot"
-  },
-  {
-    "description": "Build open source deep research agents using multiple models, search tools, and MCP servers.",
-    "id": "randomvariablewhitepelican129/open_deep_research",
-    "language": "Python",
-    "name": "randomvariablewhitepelican129/open_deep_research",
-    "stars": 0,
-    "updated_at": "2026-09-30T16:21:55Z",
-    "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
-  },
-  {
-    "description": "DSH plugin: register TypeSafe Jev (System One decision model) as an agent tool \u2014 jev_decide returns calibrated probabili",
-    "id": "nanami-0713/dsh-jev-decide",
-    "language": "JavaScript",
-    "name": "nanami-0713/dsh-jev-decide",
-    "stars": 3,
-    "updated_at": "2026-09-30T16:21:21Z",
-    "url": "https://github.com/nanami-0713/dsh-jev-decide"
   }
 ]
