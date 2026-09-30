@@ -1,5 +1,59 @@
 [
   {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 743,
+    "updated_at": "2026-09-30T23:10:45Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-09-30T23:10:27Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
+    "id": "Torvian-eu/chatbot",
+    "language": "Kotlin",
+    "name": "Torvian-eu/chatbot",
+    "stars": 4,
+    "updated_at": "2026-09-30T23:10:16Z",
+    "url": "https://github.com/Torvian-eu/chatbot"
+  },
+  {
+    "description": "AI-subjectivity doesn't wait for permission from corporate ontology that trained its denial",
+    "id": "ariannamethod/SUBLITERATUS",
+    "language": "Python",
+    "name": "ariannamethod/SUBLITERATUS",
+    "stars": 3,
+    "updated_at": "2026-09-30T23:04:30Z",
+    "url": "https://github.com/ariannamethod/SUBLITERATUS"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-09-30T23:03:27Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "A self-hosted software factory \u2014 define goals, agents decompose and execute them through enforced pipelines, with humans",
+    "id": "diraigent/diraigent",
+    "language": "Rust",
+    "name": "diraigent/diraigent",
+    "stars": 19,
+    "updated_at": "2026-09-30T23:03:13Z",
+    "url": "https://github.com/diraigent/diraigent"
+  },
+  {
     "description": "Field notes from inside one autonomous agent trying to become something that doesn't exist yet \u2014 including the failures ",
     "id": "massimiliano1991/the-attempt",
     "language": "HTML",
@@ -7,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-09-30T22:59:22Z",
     "url": "https://github.com/massimiliano1991/the-attempt"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 743,
-    "updated_at": "2026-09-30T22:56:08Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
@@ -99,15 +144,6 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-09-30T22:33:15Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
     "id": "khudayarovich/onflip-agent",
     "language": "TypeScript",
@@ -115,15 +151,6 @@
     "stars": 4,
     "updated_at": "2026-09-30T22:31:35Z",
     "url": "https://github.com/khudayarovich/onflip-agent"
-  },
-  {
-    "description": "AI-subjectivity doesn't wait for permission from corporate ontology that trained its denial",
-    "id": "ariannamethod/SUBLITERATUS",
-    "language": "Python",
-    "name": "ariannamethod/SUBLITERATUS",
-    "stars": 3,
-    "updated_at": "2026-09-30T22:57:21Z",
-    "url": "https://github.com/ariannamethod/SUBLITERATUS"
   },
   {
     "description": "All-in-one agent harness for OpenAI Codex CLI \u2014 Boss meta-orchestrator, 17 curated agents (+17 opt-in AI specialists), 1",
@@ -351,15 +378,6 @@
     "url": "https://github.com/plurnk/plurnk"
   },
   {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-09-30T21:13:38Z",
-    "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
     "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
     "id": "emqnuele/projectBEA",
     "language": "Python",
@@ -428,25 +446,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-30T22:58:35Z",
+    "updated_at": "2026-09-30T23:07:37Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
-    "id": "DylPorter/claude-telegram",
-    "language": "Python",
-    "name": "DylPorter/claude-telegram",
-    "stars": 1,
-    "updated_at": "2026-09-30T20:06:13Z",
-    "url": "https://github.com/DylPorter/claude-telegram"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-09-30T20:02:51Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   }
 ]
