@@ -1,5 +1,23 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-30T02:00:52Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-09-30T02:00:46Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
     "id": "kyleslight/shun",
     "language": "TypeScript",
@@ -7,15 +25,6 @@
     "stars": 6,
     "updated_at": "2026-09-30T01:58:53Z",
     "url": "https://github.com/kyleslight/shun"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-30T01:57:02Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -50,7 +59,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-09-30T01:56:22Z",
+    "updated_at": "2026-09-30T02:03:14Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -113,7 +122,7 @@
     "language": "Python",
     "name": "Rekin226/Agronaut",
     "stars": 4,
-    "updated_at": "2026-09-30T01:28:24Z",
+    "updated_at": "2026-09-30T02:01:07Z",
     "url": "https://github.com/Rekin226/Agronaut"
   },
   {
@@ -203,7 +212,7 @@
     "language": "Python",
     "name": "shenmintao/marginalia",
     "stars": 247,
-    "updated_at": "2026-09-30T01:03:04Z",
+    "updated_at": "2026-09-30T02:05:02Z",
     "url": "https://github.com/shenmintao/marginalia"
   },
   {
@@ -329,7 +338,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-30T01:56:40Z",
+    "updated_at": "2026-09-30T02:04:32Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 18,
     "updated_at": "2026-09-30T00:48:27Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Local-first pentest agent: Go daemon + React dashboard + Codex/Claude Code/Pi runtimes, scoped projects, Blackboard, san",
-    "id": "n1majne3/CyberPenda",
-    "language": "Go",
-    "name": "n1majne3/CyberPenda",
-    "stars": 20,
-    "updated_at": "2026-09-30T01:57:12Z",
-    "url": "https://github.com/n1majne3/CyberPenda"
   }
 ]
