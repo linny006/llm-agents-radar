@@ -1,5 +1,86 @@
 [
   {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 1,
+    "updated_at": "2026-09-30T06:58:29Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 20,
+    "updated_at": "2026-09-30T06:56:24Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-09-30T06:55:49Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
+    "id": "kyleslight/shun",
+    "language": "TypeScript",
+    "name": "kyleslight/shun",
+    "stars": 6,
+    "updated_at": "2026-09-30T06:55:38Z",
+    "url": "https://github.com/kyleslight/shun"
+  },
+  {
+    "description": "A multi-agent research system for the humanities and social sciences.",
+    "id": "Luciole-Studio/Misaka-Agent",
+    "language": "Python",
+    "name": "Luciole-Studio/Misaka-Agent",
+    "stars": 4,
+    "updated_at": "2026-09-30T06:59:53Z",
+    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
+  },
+  {
+    "description": "Agent/Skill production-readiness review \u2014 8-dimension scoring + M1-M4 veto gates + evidence grades. Answers one question",
+    "id": "johnsmithCA-sta/agent-production-readiness",
+    "language": "Python",
+    "name": "johnsmithCA-sta/agent-production-readiness",
+    "stars": 0,
+    "updated_at": "2026-09-30T06:53:42Z",
+    "url": "https://github.com/johnsmithCA-sta/agent-production-readiness"
+  },
+  {
+    "description": "Local-first pentest agent: Go daemon + React dashboard + Codex/Claude Code/Pi runtimes, scoped projects, Blackboard, san",
+    "id": "n1majne3/CyberPenda",
+    "language": "Go",
+    "name": "n1majne3/CyberPenda",
+    "stars": 20,
+    "updated_at": "2026-09-30T06:51:56Z",
+    "url": "https://github.com/n1majne3/CyberPenda"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-09-30T06:51:04Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Lets a local language model use tools and act, not just answer. Swift package for Ollama and llama.cpp, no dependencies ",
+    "id": "9t29zhmwdh-coder/EmissaryKit",
+    "language": "Swift",
+    "name": "9t29zhmwdh-coder/EmissaryKit",
+    "stars": 0,
+    "updated_at": "2026-09-30T06:52:37Z",
+    "url": "https://github.com/9t29zhmwdh-coder/EmissaryKit"
+  },
+  {
     "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
     "id": "agentpit-io/hunter-community",
     "language": "Python",
@@ -27,15 +108,6 @@
     "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-09-30T06:44:17Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
     "description": "LLM-driven embodied agent on the Misty II robot: perception, planning, and proactive assistance.",
     "id": "jyp-studio/misty-llm-embodied-agent",
     "language": "Python",
@@ -54,15 +126,6 @@
     "url": "https://github.com/CacinieP/video2knowledge"
   },
   {
-    "description": "Agent/Skill production-readiness review \u2014 8-dimension scoring + M1-M4 veto gates + evidence grades. Answers one question",
-    "id": "johnsmithCA-sta/agent-production-readiness",
-    "language": "Python",
-    "name": "johnsmithCA-sta/agent-production-readiness",
-    "stars": 0,
-    "updated_at": "2026-09-30T06:36:20Z",
-    "url": "https://github.com/johnsmithCA-sta/agent-production-readiness"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -79,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T06:32:43Z",
     "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
-  },
-  {
-    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
-    "id": "kyleslight/shun",
-    "language": "TypeScript",
-    "name": "kyleslight/shun",
-    "stars": 6,
-    "updated_at": "2026-09-30T06:31:34Z",
-    "url": "https://github.com/kyleslight/shun"
   },
   {
     "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
@@ -198,15 +252,6 @@
     "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
   },
   {
-    "description": "A multi-agent research system for the humanities and social sciences.",
-    "id": "Luciole-Studio/Misaka-Agent",
-    "language": "Python",
-    "name": "Luciole-Studio/Misaka-Agent",
-    "stars": 4,
-    "updated_at": "2026-09-30T06:21:34Z",
-    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
-  },
-  {
     "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
     "id": "hsaghir/looplet",
     "language": "Python",
@@ -214,15 +259,6 @@
     "stars": 7,
     "updated_at": "2026-09-30T06:21:33Z",
     "url": "https://github.com/hsaghir/looplet"
-  },
-  {
-    "description": "Lets a local language model use tools and act, not just answer. Swift package for Ollama and llama.cpp, no dependencies ",
-    "id": "9t29zhmwdh-coder/EmissaryKit",
-    "language": "Swift",
-    "name": "9t29zhmwdh-coder/EmissaryKit",
-    "stars": 0,
-    "updated_at": "2026-09-30T06:32:48Z",
-    "url": "https://github.com/9t29zhmwdh-coder/EmissaryKit"
   },
   {
     "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
@@ -238,18 +274,9 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 32595,
+    "stars": 32598,
     "updated_at": "2026-09-30T06:19:39Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 1,
-    "updated_at": "2026-09-30T06:17:04Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
@@ -405,15 +432,6 @@
     "url": "https://github.com/piporyx/doc-qa-agent"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-09-30T06:29:23Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "An AI security agent that really attacks: local audits + red-vs-blue drills in an isolated Docker range. 100% local, MIT",
     "id": "zhuangjia777/agent-shield",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-30T05:43:01Z",
     "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 3,
-    "updated_at": "2026-09-30T05:40:03Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "\u672c\u5730\u4f18\u5148\u7684 AI \u957f\u671f\u8bb0\u5fc6\u670d\u52a1\uff1a\u4f1a\u9057\u5fd8\u3001\u4f1a\u8054\u60f3\u3001\u4f1a\u5de9\u56fa\u3002MCP + REST + Web UI\uff0c\u4e00\u6761\u547d\u4ee4\u88c5\u597d\uff1b\u4e0d\u7528 DSH \u4e5f\u80fd\u72ec\u7acb\u4f7f\u7528\u3002",
-    "id": "Mlte0907/pangu",
-    "language": "Python",
-    "name": "Mlte0907/pangu",
-    "stars": 1,
-    "updated_at": "2026-09-30T05:37:05Z",
-    "url": "https://github.com/Mlte0907/pangu"
   }
 ]
