@@ -5,8 +5,125 @@
     "language": "TypeScript",
     "name": "erishen/lume-crm",
     "stars": 0,
-    "updated_at": "2026-09-30T08:29:21Z",
+    "updated_at": "2026-09-30T08:44:12Z",
     "url": "https://github.com/erishen/lume-crm"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-09-30T08:43:49Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-30T08:41:13Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 32605,
+    "updated_at": "2026-09-30T08:41:01Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "A curated paper list on On-Policy Distillation (OPD) & On-Policy Self-Distillation (OPSD) for LLMs \u2014 student rollouts + ",
+    "id": "kissshhot/Awesome-OPD",
+    "language": "\u2014",
+    "name": "kissshhot/Awesome-OPD",
+    "stars": 24,
+    "updated_at": "2026-09-30T08:40:32Z",
+    "url": "https://github.com/kissshhot/Awesome-OPD"
+  },
+  {
+    "description": "E-commerce AI customer service agent: intent routing, FSM multi-turn dialogs, confirmation-gated write ops, RAG hybrid r",
+    "id": "chlniubi23/ecommerce-ai-customer-service-agent",
+    "language": "Python",
+    "name": "chlniubi23/ecommerce-ai-customer-service-agent",
+    "stars": 0,
+    "updated_at": "2026-09-30T08:40:08Z",
+    "url": "https://github.com/chlniubi23/ecommerce-ai-customer-service-agent"
+  },
+  {
+    "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
+    "id": "DylPorter/claude-telegram",
+    "language": "Python",
+    "name": "DylPorter/claude-telegram",
+    "stars": 1,
+    "updated_at": "2026-09-30T08:40:00Z",
+    "url": "https://github.com/DylPorter/claude-telegram"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-09-30T08:44:22Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 565,
+    "updated_at": "2026-09-30T08:38:42Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
+    "id": "Rekin226/Agronaut",
+    "language": "Python",
+    "name": "Rekin226/Agronaut",
+    "stars": 4,
+    "updated_at": "2026-09-30T08:38:07Z",
+    "url": "https://github.com/Rekin226/Agronaut"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 1,
+    "updated_at": "2026-09-30T08:36:47Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/",
+    "id": "ZekaiShi/evo-subagent",
+    "language": "JavaScript",
+    "name": "ZekaiShi/evo-subagent",
+    "stars": 7,
+    "updated_at": "2026-09-30T08:35:57Z",
+    "url": "https://github.com/ZekaiShi/evo-subagent"
+  },
+  {
+    "description": "A multi-agent research system for the humanities and social sciences.",
+    "id": "Luciole-Studio/Misaka-Agent",
+    "language": "Python",
+    "name": "Luciole-Studio/Misaka-Agent",
+    "stars": 4,
+    "updated_at": "2026-09-30T08:34:51Z",
+    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 28,
+    "updated_at": "2026-09-30T08:33:16Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "An observability-driven text-only core for coordinating ephemeral LLM agents",
@@ -25,24 +142,6 @@
     "stars": 4,
     "updated_at": "2026-09-30T08:26:10Z",
     "url": "https://github.com/wufufu770/d2d"
-  },
-  {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 1,
-    "updated_at": "2026-09-30T08:25:46Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "E-commerce AI customer service agent: intent routing, FSM multi-turn dialogs, confirmation-gated write ops, RAG hybrid r",
-    "id": "chlniubi23/ecommerce-ai-customer-service-agent",
-    "language": "Python",
-    "name": "chlniubi23/ecommerce-ai-customer-service-agent",
-    "stars": 0,
-    "updated_at": "2026-09-30T08:24:10Z",
-    "url": "https://github.com/chlniubi23/ecommerce-ai-customer-service-agent"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -81,21 +180,12 @@
     "url": "https://github.com/kyleslight/shun"
   },
   {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-09-30T08:26:53Z",
-    "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
     "description": "Recoverable single coding agent for bounded repository repair",
     "id": "woojune511/patchloop-agent",
     "language": "Python",
     "name": "woojune511/patchloop-agent",
     "stars": 0,
-    "updated_at": "2026-09-30T08:20:15Z",
+    "updated_at": "2026-09-30T08:42:34Z",
     "url": "https://github.com/woojune511/patchloop-agent"
   },
   {
@@ -106,24 +196,6 @@
     "stars": 1101,
     "updated_at": "2026-09-30T08:13:35Z",
     "url": "https://github.com/jundizhou/easy-stock"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 28,
-    "updated_at": "2026-09-30T08:06:40Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 565,
-    "updated_at": "2026-09-30T08:05:00Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
   },
   {
     "description": "",
@@ -142,6 +214,15 @@
     "stars": 1,
     "updated_at": "2026-09-30T08:00:50Z",
     "url": "https://github.com/ScreamingMaggot/rcs-context"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8575,
+    "updated_at": "2026-09-30T08:00:25Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -178,24 +259,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T07:51:06Z",
     "url": "https://github.com/noahhps/Bom"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-30T08:26:41Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
-    "id": "Rekin226/Agronaut",
-    "language": "Python",
-    "name": "Rekin226/Agronaut",
-    "stars": 4,
-    "updated_at": "2026-09-30T07:35:10Z",
-    "url": "https://github.com/Rekin226/Agronaut"
   },
   {
     "description": "AI coding agent and LLM harness built in Rust, optimized for DeepSeek, with MCP, Skills, multi-provider AI, remote agent",
@@ -268,24 +331,6 @@
     "stars": 78,
     "updated_at": "2026-09-30T07:07:50Z",
     "url": "https://github.com/xieguigang/sciBASIC"
-  },
-  {
-    "description": "A multi-agent research system for the humanities and social sciences.",
-    "id": "Luciole-Studio/Misaka-Agent",
-    "language": "Python",
-    "name": "Luciole-Studio/Misaka-Agent",
-    "stars": 4,
-    "updated_at": "2026-09-30T07:05:19Z",
-    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 32603,
-    "updated_at": "2026-09-30T07:02:40Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
     "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-30T06:29:19Z",
     "url": "https://github.com/Blondieredistributed612/pocket-agent"
-  },
-  {
-    "description": "DeepSearch-RL\uff1a\u57fa\u4e8e Tool-Agentic RL \u7684\u591a\u8df3\u641c\u7d22\u667a\u80fd\u4f53\uff08Qwen3-8B / veRL / SGLang / GRPO\uff09",
-    "id": "yongyi999/DeepSearch-RL",
-    "language": "Python",
-    "name": "yongyi999/DeepSearch-RL",
-    "stars": 0,
-    "updated_at": "2026-09-30T06:28:24Z",
-    "url": "https://github.com/yongyi999/DeepSearch-RL"
-  },
-  {
-    "description": "Provenance-retaining cross-session context merge for DeepSeek Harness \u2014 a confluence theorem with a counterexample, and ",
-    "id": "aLIZELI/belief-merge",
-    "language": "JavaScript",
-    "name": "aLIZELI/belief-merge",
-    "stars": 2,
-    "updated_at": "2026-09-30T06:28:06Z",
-    "url": "https://github.com/aLIZELI/belief-merge"
-  },
-  {
-    "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
-    "id": "bettersilvanus849/inner-coordinates",
-    "language": "Shell",
-    "name": "bettersilvanus849/inner-coordinates",
-    "stars": 1,
-    "updated_at": "2026-09-30T06:25:10Z",
-    "url": "https://github.com/bettersilvanus849/inner-coordinates"
-  },
-  {
-    "description": "\u9ad8\u6821\u6559\u52a1\u4e0e\u5b66\u60c5\u5206\u6790\u5e73\u53f0\uff5cSpring Boot 3.5 + LLM \u667a\u80fd\u4f53 \u00b7 \u5e76\u53d1\u9009\u8bfe\u9632\u8d85\u5356\uff08\u8d85\u5356 0 \u6b21\uff09\u00b7 N+1 \u4f18\u5316\uff08122\u21922 \u6761 SQL\uff09\u00b7 8 \u4e2a\u6d4b\u8bd5\u7528\u4f8b\u5168\u7eff",
-    "id": "fangping-zheng/EduPlatform",
-    "language": "Java",
-    "name": "fangping-zheng/EduPlatform",
-    "stars": 0,
-    "updated_at": "2026-09-30T06:24:34Z",
-    "url": "https://github.com/fangping-zheng/EduPlatform"
-  },
-  {
-    "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
-    "id": "Blaz742/web-pentest-lab",
-    "language": "\u2014",
-    "name": "Blaz742/web-pentest-lab",
-    "stars": 0,
-    "updated_at": "2026-09-30T06:23:56Z",
-    "url": "https://github.com/Blaz742/web-pentest-lab"
   }
 ]
