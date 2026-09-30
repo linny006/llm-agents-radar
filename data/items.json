@@ -1,5 +1,14 @@
 [
   {
+    "description": "A complete CRM admin built entirely with Lume \u2014 one C11 single binary plus one .lume script for the database, REST API, ",
+    "id": "erishen/lume-crm",
+    "language": "TypeScript",
+    "name": "erishen/lume-crm",
+    "stars": 0,
+    "updated_at": "2026-09-30T08:29:21Z",
+    "url": "https://github.com/erishen/lume-crm"
+  },
+  {
     "description": "An observability-driven text-only core for coordinating ephemeral LLM agents",
     "id": "genaforvena/mishe-tauftauf",
     "language": "Python",
@@ -250,15 +259,6 @@
     "stars": 10,
     "updated_at": "2026-09-30T07:17:12Z",
     "url": "https://github.com/V01dMur10c/awesome-agent-rl-environments"
-  },
-  {
-    "description": "A complete CRM admin built entirely with Lume \u2014 one C11 single binary plus one .lume script for the database, REST API, ",
-    "id": "erishen/lume-crm",
-    "language": "TypeScript",
-    "name": "erishen/lume-crm",
-    "stars": 0,
-    "updated_at": "2026-09-30T08:29:21Z",
-    "url": "https://github.com/erishen/lume-crm"
   },
   {
     "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
