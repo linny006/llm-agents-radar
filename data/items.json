@@ -1,11 +1,83 @@
 [
   {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-09-30T18:59:42Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8585,
+    "updated_at": "2026-09-30T18:58:10Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-09-30T18:56:15Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
+    "id": "cheeezis/job_finder",
+    "language": "Python",
+    "name": "cheeezis/job_finder",
+    "stars": 0,
+    "updated_at": "2026-09-30T18:55:50Z",
+    "url": "https://github.com/cheeezis/job_finder"
+  },
+  {
+    "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
+    "id": "anchor-inference/daedalus",
+    "language": "Python",
+    "name": "anchor-inference/daedalus",
+    "stars": 1,
+    "updated_at": "2026-09-30T18:53:17Z",
+    "url": "https://github.com/anchor-inference/daedalus"
+  },
+  {
+    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
+    "id": "hsaghir/looplet",
+    "language": "Python",
+    "name": "hsaghir/looplet",
+    "stars": 7,
+    "updated_at": "2026-09-30T18:52:49Z",
+    "url": "https://github.com/hsaghir/looplet"
+  },
+  {
+    "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
+    "id": "DylPorter/claude-telegram",
+    "language": "Python",
+    "name": "DylPorter/claude-telegram",
+    "stars": 1,
+    "updated_at": "2026-09-30T18:52:44Z",
+    "url": "https://github.com/DylPorter/claude-telegram"
+  },
+  {
+    "description": "AI QQ bot with OneBot, NapCat, LLM routing, plugins, and WebUI",
+    "id": "dwgx/YuKiKo",
+    "language": "Python",
+    "name": "dwgx/YuKiKo",
+    "stars": 20,
+    "updated_at": "2026-09-30T18:46:02Z",
+    "url": "https://github.com/dwgx/YuKiKo"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 26,
-    "updated_at": "2026-09-30T18:45:06Z",
+    "updated_at": "2026-09-30T18:48:38Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -18,39 +90,12 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
-    "id": "hsaghir/looplet",
-    "language": "Python",
-    "name": "hsaghir/looplet",
-    "stars": 7,
-    "updated_at": "2026-09-30T18:42:36Z",
-    "url": "https://github.com/hsaghir/looplet"
-  },
-  {
-    "description": "AI QQ bot with OneBot, NapCat, LLM routing, plugins, and WebUI",
-    "id": "dwgx/YuKiKo",
-    "language": "Python",
-    "name": "dwgx/YuKiKo",
-    "stars": 20,
-    "updated_at": "2026-09-30T18:41:32Z",
-    "url": "https://github.com/dwgx/YuKiKo"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-09-30T18:37:57Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-30T18:38:07Z",
+    "updated_at": "2026-09-30T18:57:41Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -63,21 +108,12 @@
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
-    "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
-    "id": "anchor-inference/daedalus",
-    "language": "Python",
-    "name": "anchor-inference/daedalus",
-    "stars": 1,
-    "updated_at": "2026-09-30T18:37:13Z",
-    "url": "https://github.com/anchor-inference/daedalus"
-  },
-  {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 742,
-    "updated_at": "2026-09-30T18:41:41Z",
+    "updated_at": "2026-09-30T18:54:54Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "ariannamethod/SUBLITERATUS",
     "stars": 3,
-    "updated_at": "2026-09-30T18:42:34Z",
+    "updated_at": "2026-09-30T18:57:08Z",
     "url": "https://github.com/ariannamethod/SUBLITERATUS"
   },
   {
@@ -153,13 +189,13 @@
     "url": "https://github.com/dsswift/ion"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
     "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8585,
-    "updated_at": "2026-09-30T18:39:51Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3484,
+    "updated_at": "2026-09-30T18:03:25Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
@@ -176,7 +212,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-30T17:54:45Z",
+    "updated_at": "2026-09-30T18:55:36Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -185,17 +221,8 @@
     "language": "Go",
     "name": "peder1981/AdvPP",
     "stars": 2,
-    "updated_at": "2026-09-30T17:47:00Z",
+    "updated_at": "2026-09-30T18:52:39Z",
     "url": "https://github.com/peder1981/AdvPP"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3482,
-    "updated_at": "2026-09-30T18:03:25Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
@@ -259,15 +286,6 @@
     "stars": 5,
     "updated_at": "2026-09-30T17:27:18Z",
     "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
-    "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
-    "id": "cheeezis/job_finder",
-    "language": "Python",
-    "name": "cheeezis/job_finder",
-    "stars": 0,
-    "updated_at": "2026-09-30T18:41:20Z",
-    "url": "https://github.com/cheeezis/job_finder"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-30T16:21:21Z",
     "url": "https://github.com/nanami-0713/dsh-jev-decide"
-  },
-  {
-    "description": "Automate file management and coding tasks in your local directory using small language models.",
-    "id": "pruthviraj00007/VibeHarness",
-    "language": "Python",
-    "name": "pruthviraj00007/VibeHarness",
-    "stars": 0,
-    "updated_at": "2026-09-30T16:19:25Z",
-    "url": "https://github.com/pruthviraj00007/VibeHarness"
-  },
-  {
-    "description": "An LLM-powered supply chain decision agent integrating RAG, tool calling, and operations research optimization.",
-    "id": "liunan09-ops/llm4or-supplychain-agent-public",
-    "language": "Python",
-    "name": "liunan09-ops/llm4or-supplychain-agent-public",
-    "stars": 0,
-    "updated_at": "2026-09-30T18:32:06Z",
-    "url": "https://github.com/liunan09-ops/llm4or-supplychain-agent-public"
   }
 ]
