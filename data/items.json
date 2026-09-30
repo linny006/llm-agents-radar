@@ -1,5 +1,113 @@
 [
   {
+    "description": "A complete CRM admin built entirely with Lume \u2014 one C11 single binary plus one .lume script for the database, REST API, ",
+    "id": "erishen/lume-crm",
+    "language": "TypeScript",
+    "name": "erishen/lume-crm",
+    "stars": 0,
+    "updated_at": "2026-09-30T14:42:10Z",
+    "url": "https://github.com/erishen/lume-crm"
+  },
+  {
+    "description": "An observability-driven text-only core for coordinating ephemeral LLM agents",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 1,
+    "updated_at": "2026-09-30T14:42:10Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
+    "id": "wufufu770/d2d",
+    "language": "JavaScript",
+    "name": "wufufu770/d2d",
+    "stars": 4,
+    "updated_at": "2026-09-30T14:41:53Z",
+    "url": "https://github.com/wufufu770/d2d"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-09-30T14:42:35Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "\u4e2a\u6027\u5316\u5b66\u4e60\u591a\u667a\u80fd\u4f53\u7cfb\u7edf\uff1aFastAPI + LangGraph\uff0cReAct \u81ea\u4e3b\u8f85\u5bfc Agent + BM25 \u4e09\u9053\u4ee3\u7801\u7ea7\u9632\u5e7b\u89c9 RAG + \u4e09\u5c42\u8bb0\u5fc6\uff0cpytest 156 \u5168\u79bb\u7ebf\u53ef\u8dd1",
+    "id": "Dongnb66/python-learning-agent",
+    "language": "Python",
+    "name": "Dongnb66/python-learning-agent",
+    "stars": 0,
+    "updated_at": "2026-09-30T14:36:37Z",
+    "url": "https://github.com/Dongnb66/python-learning-agent"
+  },
+  {
+    "description": "Ekko Agent \u53ef\u590d\u7528\u6280\u80fd\u5e93\uff1a\u5f00\u6e90\u7ed9 Hermes/Claude Code/Codex \u7b49 agent \u4f7f\u7528",
+    "id": "w-weixiao/ekko-skills-open",
+    "language": "\u2014",
+    "name": "w-weixiao/ekko-skills-open",
+    "stars": 0,
+    "updated_at": "2026-09-30T14:36:21Z",
+    "url": "https://github.com/w-weixiao/ekko-skills-open"
+  },
+  {
+    "description": "A personal assistant with a phone number: SQLite-backed todos, memories, and reflections, searchable through Algolia and",
+    "id": "NatanTechofNY/fieldnote-assistant",
+    "language": "TypeScript",
+    "name": "NatanTechofNY/fieldnote-assistant",
+    "stars": 1,
+    "updated_at": "2026-09-30T14:32:09Z",
+    "url": "https://github.com/NatanTechofNY/fieldnote-assistant"
+  },
+  {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 5,
+    "updated_at": "2026-09-30T14:32:00Z",
+    "url": "https://github.com/ljedrz/nachalnik"
+  },
+  {
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
+    "id": "bigfish1913/pi-rust",
+    "language": "Rust",
+    "name": "bigfish1913/pi-rust",
+    "stars": 35,
+    "updated_at": "2026-09-30T14:31:48Z",
+    "url": "https://github.com/bigfish1913/pi-rust"
+  },
+  {
+    "description": "Generate rich YuE2 audio in ComfyUI with six modular nodes\u2014hum-to-song, LoRA and adapter support\u2014no stock nodes needed.",
+    "id": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
+    "language": "Python",
+    "name": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
+    "stars": 0,
+    "updated_at": "2026-09-30T14:31:33Z",
+    "url": "https://github.com/Deborahwalkerz661/ComfyUI-FS_Audio_Suite"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8582,
+    "updated_at": "2026-09-30T14:33:26Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de",
+    "id": "Jadema5416/ComfyUI-DLSS5-Enhancer",
+    "language": "Python",
+    "name": "Jadema5416/ComfyUI-DLSS5-Enhancer",
+    "stars": 0,
+    "updated_at": "2026-09-30T14:30:10Z",
+    "url": "https://github.com/Jadema5416/ComfyUI-DLSS5-Enhancer"
+  },
+  {
     "description": "Sort your Downloads by project, not file type \u2014 with one-command undo. No delete, ever.",
     "id": "verniceunleaded6135/tidy-undo",
     "language": "Python",
@@ -34,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T14:27:23Z",
     "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
-  },
-  {
-    "description": "\u4e2a\u6027\u5316\u5b66\u4e60\u591a\u667a\u80fd\u4f53\u7cfb\u7edf\uff1aFastAPI + LangGraph\uff0cReAct \u81ea\u4e3b\u8f85\u5bfc Agent + BM25 \u4e09\u9053\u4ee3\u7801\u7ea7\u9632\u5e7b\u89c9 RAG + \u4e09\u5c42\u8bb0\u5fc6\uff0cpytest 156 \u5168\u79bb\u7ebf\u53ef\u8dd1",
-    "id": "Dongnb66/python-learning-agent",
-    "language": "Python",
-    "name": "Dongnb66/python-learning-agent",
-    "stars": 0,
-    "updated_at": "2026-09-30T14:27:12Z",
-    "url": "https://github.com/Dongnb66/python-learning-agent"
   },
   {
     "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
@@ -185,7 +284,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 742,
-    "updated_at": "2026-09-30T14:11:50Z",
+    "updated_at": "2026-09-30T14:37:23Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -196,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T14:10:29Z",
     "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Ekko Agent \u53ef\u590d\u7528\u6280\u80fd\u5e93\uff1a\u5f00\u6e90\u7ed9 Hermes/Claude Code/Codex \u7b49 agent \u4f7f\u7528",
-    "id": "w-weixiao/ekko-skills-open",
-    "language": "\u2014",
-    "name": "w-weixiao/ekko-skills-open",
-    "stars": 0,
-    "updated_at": "2026-09-30T14:10:22Z",
-    "url": "https://github.com/w-weixiao/ekko-skills-open"
   },
   {
     "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
@@ -221,7 +311,7 @@
     "language": "Python",
     "name": "woojune511/patchloop-agent",
     "stars": 0,
-    "updated_at": "2026-09-30T14:18:34Z",
+    "updated_at": "2026-09-30T14:37:51Z",
     "url": "https://github.com/woojune511/patchloop-agent"
   },
   {
@@ -297,15 +387,6 @@
     "url": "https://github.com/expectedparrot/edsl"
   },
   {
-    "description": "A complete CRM admin built entirely with Lume \u2014 one C11 single binary plus one .lume script for the database, REST API, ",
-    "id": "erishen/lume-crm",
-    "language": "TypeScript",
-    "name": "erishen/lume-crm",
-    "stars": 0,
-    "updated_at": "2026-09-30T13:57:31Z",
-    "url": "https://github.com/erishen/lume-crm"
-  },
-  {
     "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
     "id": "shiro1707778/episodic-memory-pipeline",
     "language": "Python",
@@ -351,30 +432,12 @@
     "url": "https://github.com/jundizhou/easy-stock"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8582,
-    "updated_at": "2026-09-30T14:16:52Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
-    "id": "ljedrz/nachalnik",
-    "language": "Rust",
-    "name": "ljedrz/nachalnik",
-    "stars": 5,
-    "updated_at": "2026-09-30T14:24:11Z",
-    "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4438,
-    "updated_at": "2026-09-30T14:21:48Z",
+    "updated_at": "2026-09-30T14:40:05Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 12,
     "updated_at": "2026-09-30T13:32:12Z",
     "url": "https://github.com/agent-axiom/agent-arch"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 3,
-    "updated_at": "2026-09-30T13:31:44Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
-    "id": "xieguigang/sciBASIC",
-    "language": "Visual Basic .NET",
-    "name": "xieguigang/sciBASIC",
-    "stars": 78,
-    "updated_at": "2026-09-30T13:28:53Z",
-    "url": "https://github.com/xieguigang/sciBASIC"
-  },
-  {
-    "description": "Autonomous LLM agent that investigates Microsoft Defender XDR and Sentinel alerts, with a Training Lab benchmark of 14 k",
-    "id": "Aretea-Group/soc-agent-poc",
-    "language": "TypeScript",
-    "name": "Aretea-Group/soc-agent-poc",
-    "stars": 1,
-    "updated_at": "2026-09-30T13:26:33Z",
-    "url": "https://github.com/Aretea-Group/soc-agent-poc"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-09-30T14:23:57Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
-    "id": "mnemon-dev/mnemon",
-    "language": "Go",
-    "name": "mnemon-dev/mnemon",
-    "stars": 603,
-    "updated_at": "2026-09-30T13:22:45Z",
-    "url": "https://github.com/mnemon-dev/mnemon"
-  },
-  {
-    "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
-    "id": "OtakuNathan/Pal",
-    "language": "Python",
-    "name": "OtakuNathan/Pal",
-    "stars": 2,
-    "updated_at": "2026-09-30T13:16:49Z",
-    "url": "https://github.com/OtakuNathan/Pal"
-  },
-  {
-    "description": "An observability-driven text-only core for coordinating ephemeral LLM agents",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 1,
-    "updated_at": "2026-09-30T14:28:02Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   }
 ]
