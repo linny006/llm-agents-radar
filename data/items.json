@@ -1,12 +1,84 @@
 [
   {
-    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
-    "id": "sky-valley/pi",
+    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
+    "id": "Laurenfeminine36/google-jules-skill",
+    "language": "Python",
+    "name": "Laurenfeminine36/google-jules-skill",
+    "stars": 1,
+    "updated_at": "2026-09-30T10:59:10Z",
+    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
+  },
+  {
+    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
+    "id": "Asim00740/Kagantic-vault-structure",
+    "language": "\u2014",
+    "name": "Asim00740/Kagantic-vault-structure",
+    "stars": 0,
+    "updated_at": "2026-09-30T10:57:02Z",
+    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
+  },
+  {
+    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
+    "id": "Victongo/ai-daily-news",
+    "language": "Ruby",
+    "name": "Victongo/ai-daily-news",
+    "stars": 3,
+    "updated_at": "2026-09-30T10:54:06Z",
+    "url": "https://github.com/Victongo/ai-daily-news"
+  },
+  {
+    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
+    "id": "mena256/ai-pair-engineer",
+    "language": "Python",
+    "name": "mena256/ai-pair-engineer",
+    "stars": 0,
+    "updated_at": "2026-09-30T10:54:03Z",
+    "url": "https://github.com/mena256/ai-pair-engineer"
+  },
+  {
+    "description": "Android device automation MCP server. Reads the live accessibility tree in-process, acts on nodes instead of coordinates",
+    "id": "baiamansama/android-agent-mcp",
+    "language": "TypeScript",
+    "name": "baiamansama/android-agent-mcp",
+    "stars": 1,
+    "updated_at": "2026-09-30T10:52:58Z",
+    "url": "https://github.com/baiamansama/android-agent-mcp"
+  },
+  {
+    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
+    "id": "mamon9022/poc-fls-node-epicronicles",
+    "language": "TypeScript",
+    "name": "mamon9022/poc-fls-node-epicronicles",
+    "stars": 2,
+    "updated_at": "2026-09-30T10:52:54Z",
+    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
     "language": "Go",
-    "name": "sky-valley/pi",
-    "stars": 59,
-    "updated_at": "2026-09-30T10:43:18Z",
-    "url": "https://github.com/sky-valley/pi"
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-09-30T10:52:47Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "\u966a\u4f60\u901b\u52a8\u7269\u56ed\u7684\u667a\u80fd\u6e38\u4f34 Agent\uff1a\u4e00\u53e5\u8bdd\u5b9a\u5236\u6e38\u56ed\u8def\u7ebf\uff0c\u6e38\u4e2d\u8bf4\"\u7d2f\u4e86/\u592a\u6324\u4e86\"\u5b9e\u65f6\u8c03\u6574\uff0c\u5230\u9986\u4eba\u683c\u5316\u8bb2\u89e3\u4e0e\u8bed\u97f3\u95ee\u7b54\uff5cFastAPI \u00b7 Qwen \u00b7 React",
+    "id": "DerrickLinus/zoom-champion-agent",
+    "language": "TypeScript",
+    "name": "DerrickLinus/zoom-champion-agent",
+    "stars": 0,
+    "updated_at": "2026-09-30T10:49:19Z",
+    "url": "https://github.com/DerrickLinus/zoom-champion-agent"
+  },
+  {
+    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
+    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "language": "HTML",
+    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "stars": 0,
+    "updated_at": "2026-09-30T10:48:21Z",
+    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -14,8 +86,26 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-30T10:43:50Z",
+    "updated_at": "2026-09-30T10:52:29Z",
     "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 813,
+    "updated_at": "2026-09-30T10:45:45Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
+    "id": "sky-valley/pi",
+    "language": "Go",
+    "name": "sky-valley/pi",
+    "stars": 59,
+    "updated_at": "2026-09-30T10:43:18Z",
+    "url": "https://github.com/sky-valley/pi"
   },
   {
     "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
@@ -43,6 +133,15 @@
     "stars": 277,
     "updated_at": "2026-09-30T10:40:07Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "An auto-evolution framework that optimizes anything \u2014 your 7\u00d724 team of algorithm engineers.",
+    "id": "ant-research/AntOmniEvo",
+    "language": "Python",
+    "name": "ant-research/AntOmniEvo",
+    "stars": 831,
+    "updated_at": "2026-09-30T10:36:29Z",
+    "url": "https://github.com/ant-research/AntOmniEvo"
   },
   {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
@@ -81,15 +180,6 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "An auto-evolution framework that optimizes anything \u2014 your 7\u00d724 team of algorithm engineers.",
-    "id": "ant-research/AntOmniEvo",
-    "language": "Python",
-    "name": "ant-research/AntOmniEvo",
-    "stars": 830,
-    "updated_at": "2026-09-30T10:36:29Z",
-    "url": "https://github.com/ant-research/AntOmniEvo"
-  },
-  {
     "description": "A multi-agent research system for the humanities and social sciences.",
     "id": "Luciole-Studio/Misaka-Agent",
     "language": "Python",
@@ -97,15 +187,6 @@
     "stars": 4,
     "updated_at": "2026-09-30T10:27:30Z",
     "url": "https://github.com/Luciole-Studio/Misaka-Agent"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-09-30T10:44:25Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "E-commerce AI customer service agent: intent routing, FSM multi-turn dialogs, confirmation-gated write ops, RAG hybrid r",
@@ -171,15 +252,6 @@
     "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 813,
-    "updated_at": "2026-09-30T10:21:59Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
     "description": "\u72fc\u4eba\u6740 agent \u9884\u8bbe\uff1a\u65b0\u5efa\u4f1a\u8bdd\u9009\u300c\u72fc\u4eba\u6740\u300d\uff0c\u4f1a\u8bdd\u91cc\u7684\u667a\u80fd\u4f53\u5f53\u6cd5\u5b98\uff0c\u7528\u5b50\u4ee3\u7406\u626e\u6f14\u5176\u4ed6\u73a9\u5bb6\u3002\u96f6 JS \u4ee3\u7801\uff0c\u6574\u4e2a\u6e38\u620f\u5199\u5728 6.8 KB \u63d0\u793a\u8bcd\u91cc\u3002",
     "id": "banana770/dsh-werewolf",
     "language": "JavaScript",
@@ -194,7 +266,7 @@
     "language": "Python",
     "name": "woojune511/patchloop-agent",
     "stars": 0,
-    "updated_at": "2026-09-30T09:53:30Z",
+    "updated_at": "2026-09-30T10:52:09Z",
     "url": "https://github.com/woojune511/patchloop-agent"
   },
   {
@@ -229,7 +301,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 32612,
+    "stars": 32613,
     "updated_at": "2026-09-30T09:47:13Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -356,7 +428,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4439,
-    "updated_at": "2026-09-30T10:37:03Z",
+    "updated_at": "2026-09-30T10:58:41Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -365,7 +437,7 @@
     "language": "Python",
     "name": "Rekin226/Agronaut",
     "stars": 4,
-    "updated_at": "2026-09-30T09:26:26Z",
+    "updated_at": "2026-09-30T10:54:58Z",
     "url": "https://github.com/Rekin226/Agronaut"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-30T09:05:42Z",
     "url": "https://github.com/Samuelcluttered613/paper2code"
-  },
-  {
-    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
-    "id": "Bastioned-successor320/learn-nanobot",
-    "language": "Python",
-    "name": "Bastioned-successor320/learn-nanobot",
-    "stars": 10,
-    "updated_at": "2026-09-30T09:05:12Z",
-    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
-  },
-  {
-    "description": "\u966a\u4f60\u901b\u52a8\u7269\u56ed\u7684\u667a\u80fd\u6e38\u4f34 Agent\uff1a\u4e00\u53e5\u8bdd\u5b9a\u5236\u6e38\u56ed\u8def\u7ebf\uff0c\u6e38\u4e2d\u8bf4\"\u7d2f\u4e86/\u592a\u6324\u4e86\"\u5b9e\u65f6\u8c03\u6574\uff0c\u5230\u9986\u4eba\u683c\u5316\u8bb2\u89e3\u4e0e\u8bed\u97f3\u95ee\u7b54\uff5cFastAPI \u00b7 Qwen \u00b7 React",
-    "id": "DerrickLinus/zoom-champion-agent",
-    "language": "TypeScript",
-    "name": "DerrickLinus/zoom-champion-agent",
-    "stars": 0,
-    "updated_at": "2026-09-30T09:01:50Z",
-    "url": "https://github.com/DerrickLinus/zoom-champion-agent"
-  },
-  {
-    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
-    "id": "chadwickhyperboloidal943/knowl",
-    "language": "TypeScript",
-    "name": "chadwickhyperboloidal943/knowl",
-    "stars": 0,
-    "updated_at": "2026-09-30T09:01:07Z",
-    "url": "https://github.com/chadwickhyperboloidal943/knowl"
-  },
-  {
-    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
-    "id": "Laurenfeminine36/google-jules-skill",
-    "language": "Python",
-    "name": "Laurenfeminine36/google-jules-skill",
-    "stars": 1,
-    "updated_at": "2026-09-30T09:00:57Z",
-    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-09-30T09:00:49Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-    "id": "BlockRunAI/Franklin",
-    "language": "TypeScript",
-    "name": "BlockRunAI/Franklin",
-    "stars": 558,
-    "updated_at": "2026-09-30T08:59:11Z",
-    "url": "https://github.com/BlockRunAI/Franklin"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-09-30T08:58:32Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 0,
-    "updated_at": "2026-09-30T08:58:09Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
   }
 ]
