@@ -5,17 +5,8 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-30T04:59:55Z",
+    "updated_at": "2026-09-30T05:14:42Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-30T04:59:35Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "A self-improving local browser agent. Learns execution paths from first run, stores them semantically, and replays insta",
@@ -23,8 +14,89 @@
     "language": "TypeScript",
     "name": "Py528/stagehand-local",
     "stars": 0,
-    "updated_at": "2026-09-30T04:58:15Z",
+    "updated_at": "2026-09-30T05:13:31Z",
     "url": "https://github.com/Py528/stagehand-local"
+  },
+  {
+    "description": "An observability-driven text-only core for coordinating ephemeral LLM agents",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 1,
+    "updated_at": "2026-09-30T05:12:36Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-09-30T05:12:38Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-30T05:12:38Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 1,
+    "updated_at": "2026-09-30T05:12:04Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
+    "id": "Rekin226/Agronaut",
+    "language": "Python",
+    "name": "Rekin226/Agronaut",
+    "stars": 4,
+    "updated_at": "2026-09-30T05:04:52Z",
+    "url": "https://github.com/Rekin226/Agronaut"
+  },
+  {
+    "description": "Autonomous execution agent on Discord \u2014 74 tools, shell access, browser automation, scheduled tasks, sub-agents, knowled",
+    "id": "Calmingstorm/Odin",
+    "language": "Python",
+    "name": "Calmingstorm/Odin",
+    "stars": 3,
+    "updated_at": "2026-09-30T05:04:47Z",
+    "url": "https://github.com/Calmingstorm/Odin"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-09-30T05:04:12Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 28,
+    "updated_at": "2026-09-30T05:01:36Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
+    "id": "weihuaguo270-ops/react-agent",
+    "language": "Python",
+    "name": "weihuaguo270-ops/react-agent",
+    "stars": 0,
+    "updated_at": "2026-09-30T05:12:32Z",
+    "url": "https://github.com/weihuaguo270-ops/react-agent"
   },
   {
     "description": "\u672c\u5730\u4f18\u5148\u7684 AI \u957f\u671f\u8bb0\u5fc6\u670d\u52a1\uff1a\u4f1a\u9057\u5fd8\u3001\u4f1a\u8054\u60f3\u3001\u4f1a\u5de9\u56fa\u3002MCP + REST + Web UI\uff0c\u4e00\u6761\u547d\u4ee4\u88c5\u597d\uff1b\u4e0d\u7528 DSH \u4e5f\u80fd\u72ec\u7acb\u4f7f\u7528\u3002",
@@ -45,33 +117,6 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
-    "id": "weihuaguo270-ops/react-agent",
-    "language": "Python",
-    "name": "weihuaguo270-ops/react-agent",
-    "stars": 0,
-    "updated_at": "2026-09-30T04:57:24Z",
-    "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 1,
-    "updated_at": "2026-09-30T04:55:21Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "An observability-driven text-only core for coordinating ephemeral LLM agents",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 1,
-    "updated_at": "2026-09-30T04:50:52Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
     "description": "An AI security agent that really attacks: local audits + red-vs-blue drills in an isolated Docker range. 100% local, MIT",
     "id": "zhuangjia777/agent-shield",
     "language": "Python",
@@ -86,17 +131,8 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-09-30T04:48:09Z",
+    "updated_at": "2026-09-30T05:07:35Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-09-30T04:57:02Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Second Take \u2014 \u5f53 AI \u7ed9\u7684\u7b54\u6848\u4e0d\u6ee1\u610f\uff0c\u8bf4\u4e00\u53e5\"\u518d\u6765\u4e00\u6761\"\uff0c\u5e26\u4e0a\u8bca\u65ad\u597d\u7684\u91cd\u62cd\u5355\uff0c\u8ba9\u539f AI \u76f4\u63a5\u7ed9\u51fa\u66f4\u597d\u7684\u6700\u7ec8\u7b54\u6848\u3002A meta-skill for diagnosing and re-shooting weak AI rea",
@@ -108,15 +144,6 @@
     "url": "https://github.com/flashfrogluo/second-take"
   },
   {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 28,
-    "updated_at": "2026-09-30T04:47:09Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
     "description": "\uacf5\uc2dc \uc6d0\ubb38 \uadfc\uac70 \uae30\ubc18 \ubd84\uc11d \uc5d0\uc774\uc804\ud2b8 \u2014 \ubbf8\ub798\uc5d0\uc14b\uc99d\uad8c AI \ud398\uc2a4\ud2f0\ubc8c 2026 \ud504\ub85c\uc81d\ud2b8 \uc18c\uac1c (\ud300 \uc800\uc7a5\uc18c \ube44\uacf5\uac1c)",
     "id": "are012/FinNavi",
     "language": "\u2014",
@@ -124,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T04:42:49Z",
     "url": "https://github.com/are012/FinNavi"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-09-30T04:42:35Z",
-    "url": "https://github.com/JSL107/personal_agents"
   },
   {
     "description": "A multi-agent research system for the humanities and social sciences.",
@@ -151,15 +169,6 @@
     "stars": 6078,
     "updated_at": "2026-09-30T04:36:20Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
-    "id": "Rekin226/Agronaut",
-    "language": "Python",
-    "name": "Rekin226/Agronaut",
-    "stars": 4,
-    "updated_at": "2026-09-30T04:55:41Z",
-    "url": "https://github.com/Rekin226/Agronaut"
   },
   {
     "description": "\u975e\u7ebf\u667a\u80fd NoneLinear - ReLE\u8bc4\u6d4b\uff1a\u4e2d\u6587AI\u5927\u6a21\u578b\u80fd\u529b\u8bc4\u6d4b\uff08\u6301\u7eed\u66f4\u65b0\uff09\uff1a\u76ee\u524d\u5df2\u56ca\u62ec374\u4e2a\u5927\u6a21\u578b\uff0c\u8986\u76d6chatgpt\u3001gpt-5.4\u3001\u8c37\u6b4cgemini-3.1-pro\u3001Claude-4.6\u3001\u6587\u5fc3ERNIE-X1.1\u3001ERNIE",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-30T04:15:04Z",
     "url": "https://github.com/woojune511/patchloop-agent"
-  },
-  {
-    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
-    "id": "amineeng/scraping-browser",
-    "language": "\u2014",
-    "name": "amineeng/scraping-browser",
-    "stars": 1,
-    "updated_at": "2026-09-30T03:47:22Z",
-    "url": "https://github.com/amineeng/scraping-browser"
   }
 ]
