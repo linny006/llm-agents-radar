@@ -1,10 +1,82 @@
 [
   {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-10-01T03:44:20Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Local-first long-term memory and safer context compression for Hermes Agent \u2014 SQLite, no required services.",
+    "id": "indigokarasu/chronicle-agent-context-and-memory",
+    "language": "Python",
+    "name": "indigokarasu/chronicle-agent-context-and-memory",
+    "stars": 6,
+    "updated_at": "2026-10-01T03:41:41Z",
+    "url": "https://github.com/indigokarasu/chronicle-agent-context-and-memory"
+  },
+  {
+    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
+    "id": "AceGuru-mjh/Android-Guru-Agent",
+    "language": "Kotlin",
+    "name": "AceGuru-mjh/Android-Guru-Agent",
+    "stars": 2,
+    "updated_at": "2026-10-01T03:44:12Z",
+    "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 1,
+    "updated_at": "2026-10-01T03:43:24Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "Runtime security middleware for tool-using LLM agents: policy enforcement, sensitive-data egress scanning, and an append",
+    "id": "liuhaolin07/AgentShield",
+    "language": "Python",
+    "name": "liuhaolin07/AgentShield",
+    "stars": 0,
+    "updated_at": "2026-10-01T03:35:55Z",
+    "url": "https://github.com/liuhaolin07/AgentShield"
+  },
+  {
+    "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
+    "id": "ximing/vital",
+    "language": "TypeScript",
+    "name": "ximing/vital",
+    "stars": 3,
+    "updated_at": "2026-10-01T03:35:03Z",
+    "url": "https://github.com/ximing/vital"
+  },
+  {
+    "description": "A compass for autonomous agents, not an operating manual.",
+    "id": "tachyon-r/first-principles-agent-soul",
+    "language": "\u2014",
+    "name": "tachyon-r/first-principles-agent-soul",
+    "stars": 1,
+    "updated_at": "2026-10-01T03:33:21Z",
+    "url": "https://github.com/tachyon-r/first-principles-agent-soul"
+  },
+  {
+    "description": "DeepSearch-RL\uff1a\u57fa\u4e8e Tool-Agentic RL \u7684\u591a\u8df3\u641c\u7d22\u667a\u80fd\u4f53\uff08Qwen3-8B / veRL / SGLang / GRPO\uff09",
+    "id": "yongyi999/DeepSearch-RL",
+    "language": "Python",
+    "name": "yongyi999/DeepSearch-RL",
+    "stars": 0,
+    "updated_at": "2026-10-01T03:33:17Z",
+    "url": "https://github.com/yongyi999/DeepSearch-RL"
+  },
+  {
     "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
     "id": "wq19901103wq/wechat-mac-rpa",
     "language": "Python",
     "name": "wq19901103wq/wechat-mac-rpa",
-    "stars": 113,
+    "stars": 114,
     "updated_at": "2026-10-01T03:25:07Z",
     "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
   },
@@ -18,15 +90,6 @@
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-10-01T03:27:32Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
     "description": "Always-on voice assistant agent for an unrooted Android tablet: on-device wake word + speech-to-text, LLM tool loop via ",
     "id": "DevanMetz/dean-android-agent",
     "language": "Python",
@@ -34,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-01T03:24:05Z",
     "url": "https://github.com/DevanMetz/dean-android-agent"
-  },
-  {
-    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
-    "id": "AceGuru-mjh/Android-Guru-Agent",
-    "language": "Kotlin",
-    "name": "AceGuru-mjh/Android-Guru-Agent",
-    "stars": 2,
-    "updated_at": "2026-10-01T03:23:30Z",
-    "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent"
   },
   {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
@@ -86,7 +140,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-01T03:08:21Z",
+    "updated_at": "2026-10-01T03:34:54Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -324,15 +378,6 @@
     "url": "https://github.com/hasting323/AutoGLM-For-Android"
   },
   {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 1,
-    "updated_at": "2026-10-01T03:29:59Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
     "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
     "id": "shiro1707778/episodic-memory-pipeline",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-01T01:40:25Z",
     "url": "https://github.com/erishen/lume-crm"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-10-01T01:36:55Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 1104,
-    "updated_at": "2026-10-01T01:32:46Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-10-01T01:00:25Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "A self-hosted software factory \u2014 define goals, agents decompose and execute them through enforced pipelines, with humans",
-    "id": "diraigent/diraigent",
-    "language": "Rust",
-    "name": "diraigent/diraigent",
-    "stars": 19,
-    "updated_at": "2026-10-01T00:55:39Z",
-    "url": "https://github.com/diraigent/diraigent"
-  },
-  {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-10-01T03:05:10Z",
-    "url": "https://github.com/citizenhicks/mobius"
   }
 ]
