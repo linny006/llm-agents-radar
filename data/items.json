@@ -1,12 +1,147 @@
 [
   {
-    "description": "\u57fa\u4e8e LangGraph \u7684\u8de8\u5883\u7535\u5546\u9009\u54c1 + \u4e0a\u67b6 Agent\uff1aReAct \u81ea\u4e3b\u7f16\u6392 5 \u4e2a\u5de5\u5177\uff08\u8bc4\u8bba\u6316\u6398 / \u5173\u952e\u8bcd / Listing \u751f\u6210 / \u7ffb\u8bd1 / \u5408\u89c4\uff09\uff1b7 \u7c7b\u786e\u5b9a\u6027\u5408\u89c4\u95f8\u95e8\uff08\u547d\u4e2d\u5373\u5224\u4e0d\u5408\u683c\u3001\u4e0d\u8c03\u7528\u6a21\u578b\uff09+ \u751f\u6210\u2192\u62e6\u622a\u2192\u91cd\u5199\u95ed",
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 5,
+    "updated_at": "2026-10-01T14:15:04Z",
+    "url": "https://github.com/ljedrz/nachalnik"
+  },
+  {
+    "description": "A multi-agent research system for the humanities and social sciences.",
+    "id": "Luciole-Studio/Misaka-Agent",
+    "language": "Python",
+    "name": "Luciole-Studio/Misaka-Agent",
+    "stars": 13,
+    "updated_at": "2026-10-01T14:14:03Z",
+    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-01T14:14:02Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Open Source Desktop AI Agent Runtime - LLM, MCP, Voice Runtime, and local/cloud models wired into one PyQt6 desktop agen",
+    "id": "kwakminoo/Project-IRIS-Light",
+    "language": "Python",
+    "name": "kwakminoo/Project-IRIS-Light",
+    "stars": 3,
+    "updated_at": "2026-10-01T14:13:00Z",
+    "url": "https://github.com/kwakminoo/Project-IRIS-Light"
+  },
+  {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 3,
+    "updated_at": "2026-10-01T14:12:45Z",
+    "url": "https://github.com/plurnk/plurnk"
+  },
+  {
+    "description": "A Gemini agent with integrated tools, context token optimization, loop-prevention logic, and an interactive Streamlit/SQ",
+    "id": "pragamdt/agentic-trace-dashboard",
+    "language": "Python",
+    "name": "pragamdt/agentic-trace-dashboard",
+    "stars": 0,
+    "updated_at": "2026-10-01T14:09:46Z",
+    "url": "https://github.com/pragamdt/agentic-trace-dashboard"
+  },
+  {
+    "description": "\ud83e\udd16 Agent Skill \u4f18\u5148\uff1a\u4e00\u53e5\u81ea\u7136\u8bed\u8a00\u628a\u89c6\u9891\u53d8\u6210\u5e26\u65f6\u95f4\u6233\u5b57\u5e55\u3001\u77e5\u8bc6\u6587\u6863\u3001\u56fe\u6587\u7b14\u8bb0\u4e0e Anki \u5361\u7247\u2014\u2014SKILL.md \u9a71\u52a8 agent \u81ea\u52a8\u7f16\u6392\u4e09\u6761\u672c\u5730\u8def\u5f84\uff08VLM \u591a\u6a21\u6001 / faster-whisper ASR / \u97f3\u753b\u878d\u5408\uff09",
+    "id": "CacinieP/video2knowledge",
+    "language": "Python",
+    "name": "CacinieP/video2knowledge",
+    "stars": 8,
+    "updated_at": "2026-10-01T14:08:51Z",
+    "url": "https://github.com/CacinieP/video2knowledge"
+  },
+  {
+    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
+    "id": "raylanlin/Millwright",
+    "language": "TypeScript",
+    "name": "raylanlin/Millwright",
+    "stars": 21,
+    "updated_at": "2026-10-01T14:06:38Z",
+    "url": "https://github.com/raylanlin/Millwright"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-10-01T14:06:15Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 12,
+    "updated_at": "2026-10-01T14:04:28Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8596,
+    "updated_at": "2026-10-01T14:13:19Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "\u57fa\u4e8e LangGraph \u7684\u8de8\u5883\u7535\u5546\u9009\u54c1 + \u4e0a\u67b6 Agent\uff1aReAct \u81ea\u4e3b\u7f16\u6392 5 \u4e2a\u5de5\u5177\uff08\u5b9e\u6d4b\u652f\u6301\u5e76\u884c\u8c03\u7528\uff09\uff1b\u4e24\u7c7b\u786e\u5b9a\u6027\u95f8\u95e8\u2014\u2014\u8fdd\u7981\u8bcd 7 \u7c7b\u89c4\u5219\u8868 + \u53c2\u6570\u951a\u5b9a\uff08Listing \u6570\u503c\u5fc5\u987b\u6765\u81ea\u5356\u5bb6\u89c4\u683c\uff09\uff0c\u547d\u4e2d\u5373\u5224\u4e0d\u5408\u683c\u3001\u4e0d\u8c03\u7528\u6a21\u578b\uff0c",
     "id": "xianteng-zhang/sourcing-agent",
     "language": "Python",
     "name": "xianteng-zhang/sourcing-agent",
     "stars": 0,
-    "updated_at": "2026-10-01T13:59:46Z",
+    "updated_at": "2026-10-01T14:03:59Z",
     "url": "https://github.com/xianteng-zhang/sourcing-agent"
+  },
+  {
+    "description": "a durable execution framework for Python",
+    "id": "i2y/edda",
+    "language": "Python",
+    "name": "i2y/edda",
+    "stars": 9,
+    "updated_at": "2026-10-01T14:04:04Z",
+    "url": "https://github.com/i2y/edda"
+  },
+  {
+    "description": "\u81ea\u8fdb\u5316\u7814\u7a76 Wiki \u667a\u80fd\u4f53\uff1a\u81ea\u5efa agent harness + \u4e09\u5c42\u8bb0\u5fc6 + \u5f15\u7528\u5f3a\u5236\u4e0e\u51b2\u7a81\u5bf9\u8d26",
+    "id": "111wxh/researchwiki",
+    "language": "Python",
+    "name": "111wxh/researchwiki",
+    "stars": 0,
+    "updated_at": "2026-10-01T14:02:35Z",
+    "url": "https://github.com/111wxh/researchwiki"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 29,
+    "updated_at": "2026-10-01T14:01:48Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-10-01T14:00:35Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "\u6295\u8d44\u79c1\u4eba\u7ba1\u5bb6 \u00b7 A\u80a1\u57fa\u91d1 AI \u79c1\u4eba\u987e\u95ee\uff08Invest Concierge \u2014 A-share & fund AI personal investment assistant\uff09",
@@ -18,15 +153,6 @@
     "url": "https://github.com/cx-ssg/invest-concierge"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8596,
-    "updated_at": "2026-10-01T13:57:39Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "Always-on voice assistant agent for an unrooted Android tablet: on-device wake word + speech-to-text, LLM tool loop via ",
     "id": "DevanMetz/dean-android-agent",
     "language": "Python",
@@ -34,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-01T13:55:46Z",
     "url": "https://github.com/DevanMetz/dean-android-agent"
-  },
-  {
-    "description": "Open Source Desktop AI Agent Runtime - LLM, MCP, Voice Runtime, and local/cloud models wired into one PyQt6 desktop agen",
-    "id": "kwakminoo/Project-IRIS-Light",
-    "language": "Python",
-    "name": "kwakminoo/Project-IRIS-Light",
-    "stars": 3,
-    "updated_at": "2026-10-01T13:54:58Z",
-    "url": "https://github.com/kwakminoo/Project-IRIS-Light"
   },
   {
     "description": "Harness LLMs with Multi-Agent Programming",
@@ -68,17 +185,8 @@
     "language": "Python",
     "name": "ariannamethod/SUBLITERATUS",
     "stars": 3,
-    "updated_at": "2026-10-01T13:58:38Z",
+    "updated_at": "2026-10-01T14:12:01Z",
     "url": "https://github.com/ariannamethod/SUBLITERATUS"
-  },
-  {
-    "description": "\u81ea\u8fdb\u5316\u7814\u7a76 Wiki \u667a\u80fd\u4f53\uff1a\u81ea\u5efa agent harness + \u4e09\u5c42\u8bb0\u5fc6 + \u5f15\u7528\u5f3a\u5236\u4e0e\u51b2\u7a81\u5bf9\u8d26",
-    "id": "111wxh/researchwiki",
-    "language": "Python",
-    "name": "111wxh/researchwiki",
-    "stars": 0,
-    "updated_at": "2026-10-01T13:49:29Z",
-    "url": "https://github.com/111wxh/researchwiki"
   },
   {
     "description": "A multi-tool orchestration agent that answers compound financial research questions by deciding which of several financi",
@@ -88,24 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-01T13:49:18Z",
     "url": "https://github.com/12349/agentic-financial-research-assistant"
-  },
-  {
-    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
-    "id": "ljedrz/nachalnik",
-    "language": "Rust",
-    "name": "ljedrz/nachalnik",
-    "stars": 5,
-    "updated_at": "2026-10-01T13:56:21Z",
-    "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-01T14:00:05Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
@@ -124,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-10-01T13:43:11Z",
     "url": "https://github.com/Y1ZH1/douyin-fav-reading-agent"
-  },
-  {
-    "description": "a durable execution framework for Python",
-    "id": "i2y/edda",
-    "language": "Python",
-    "name": "i2y/edda",
-    "stars": 9,
-    "updated_at": "2026-10-01T13:48:02Z",
-    "url": "https://github.com/i2y/edda"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -297,15 +378,6 @@
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
   },
   {
-    "description": "\ud83e\udd16 Agent Skill \u4f18\u5148\uff1a\u4e00\u53e5\u81ea\u7136\u8bed\u8a00\u628a\u89c6\u9891\u53d8\u6210\u5e26\u65f6\u95f4\u6233\u5b57\u5e55\u3001\u77e5\u8bc6\u6587\u6863\u3001\u56fe\u6587\u7b14\u8bb0\u4e0e Anki \u5361\u7247\u2014\u2014SKILL.md \u9a71\u52a8 agent \u81ea\u52a8\u7f16\u6392\u4e09\u6761\u672c\u5730\u8def\u5f84\uff08VLM \u591a\u6a21\u6001 / faster-whisper ASR / \u97f3\u753b\u878d\u5408\uff09",
-    "id": "CacinieP/video2knowledge",
-    "language": "Python",
-    "name": "CacinieP/video2knowledge",
-    "stars": 8,
-    "updated_at": "2026-10-01T12:54:56Z",
-    "url": "https://github.com/CacinieP/video2knowledge"
-  },
-  {
     "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
     "id": "clashroy5384/ai-papers-hub",
     "language": "\u2014",
@@ -376,77 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-01T12:49:30Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
-    "id": "Screwtopped-annapavlova802/SparkLabs",
-    "language": "C++",
-    "name": "Screwtopped-annapavlova802/SparkLabs",
-    "stars": 1,
-    "updated_at": "2026-10-01T12:48:15Z",
-    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-10-01T12:46:54Z",
-    "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-10-01T12:43:50Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-10-01T12:43:37Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 4,
-    "updated_at": "2026-10-01T12:41:45Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
-    "id": "plurnk/plurnk",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk",
-    "stars": 3,
-    "updated_at": "2026-10-01T12:39:23Z",
-    "url": "https://github.com/plurnk/plurnk"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-10-01T12:37:31Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "DevOps & Cloud AI Assistant that runs locally with Ollama for complete privacy.",
-    "id": "tara-vision/taracode",
-    "language": "Go",
-    "name": "tara-vision/taracode",
-    "stars": 51,
-    "updated_at": "2026-10-01T12:35:43Z",
-    "url": "https://github.com/tara-vision/taracode"
   }
 ]
