@@ -1,5 +1,86 @@
 [
   {
+    "description": "A self-hosted software factory \u2014 define goals, agents decompose and execute them through enforced pipelines, with humans",
+    "id": "diraigent/diraigent",
+    "language": "Rust",
+    "name": "diraigent/diraigent",
+    "stars": 20,
+    "updated_at": "2026-10-01T22:15:14Z",
+    "url": "https://github.com/diraigent/diraigent"
+  },
+  {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 5,
+    "updated_at": "2026-10-01T22:14:12Z",
+    "url": "https://github.com/ljedrz/nachalnik"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-10-01T22:14:25Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-01T22:13:30Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 78,
+    "updated_at": "2026-10-01T22:09:27Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-01T22:08:47Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 746,
+    "updated_at": "2026-10-01T22:03:19Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-10-01T22:03:14Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
+    "id": "eshanized/M31A",
+    "language": "Rust",
+    "name": "eshanized/M31A",
+    "stars": 8,
+    "updated_at": "2026-10-01T22:02:22Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
     "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
     "id": "honestDS/MonoLight",
     "language": "Python",
@@ -25,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-10-01T21:54:21Z",
     "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-01T21:54:06Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Course demonstration (Agentic AI Workshop 2026, Capstone 2): an AI analyst agent that answers sales questions on Microso",
@@ -81,15 +153,6 @@
     "url": "https://github.com/EpsteinF1les/tts"
   },
   {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 78,
-    "updated_at": "2026-10-01T21:49:06Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
     "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
     "id": "Vuongngu8186/langgraph-langchain-agent-setup",
     "language": "\u2014",
@@ -97,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-01T21:47:36Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
-    "id": "ljedrz/nachalnik",
-    "language": "Rust",
-    "name": "ljedrz/nachalnik",
-    "stars": 5,
-    "updated_at": "2026-10-01T21:47:02Z",
-    "url": "https://github.com/ljedrz/nachalnik"
   },
   {
     "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
@@ -171,15 +225,6 @@
     "url": "https://github.com/Stolas34/voice-input-src"
   },
   {
-    "description": "A self-hosted software factory \u2014 define goals, agents decompose and execute them through enforced pipelines, with humans",
-    "id": "diraigent/diraigent",
-    "language": "Rust",
-    "name": "diraigent/diraigent",
-    "stars": 20,
-    "updated_at": "2026-10-01T21:41:14Z",
-    "url": "https://github.com/diraigent/diraigent"
-  },
-  {
     "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
     "id": "Screwtopped-annapavlova802/SparkLabs",
     "language": "C++",
@@ -214,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-10-01T21:36:34Z",
     "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-10-01T21:34:53Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
@@ -342,15 +378,6 @@
     "url": "https://github.com/sunnnn2005/data-quality-agent"
   },
   {
-    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
-    "id": "eshanized/M31A",
-    "language": "Rust",
-    "name": "eshanized/M31A",
-    "stars": 8,
-    "updated_at": "2026-10-01T21:04:19Z",
-    "url": "https://github.com/eshanized/M31A"
-  },
-  {
     "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
     "id": "diaban/jobsmith",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-01T20:43:54Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-01T20:41:41Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "Vector search that ships as a file. Compile a corpus into one self-contained, hash-verified .pikelet \u2014 search it anywher",
-    "id": "mcn92/pikelet",
-    "language": "JavaScript",
-    "name": "mcn92/pikelet",
-    "stars": 2,
-    "updated_at": "2026-10-01T20:40:00Z",
-    "url": "https://github.com/mcn92/pikelet"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 746,
-    "updated_at": "2026-10-01T21:52:31Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   }
 ]
