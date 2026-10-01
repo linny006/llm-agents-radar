@@ -1,5 +1,86 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-10-01T20:43:54Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-01T20:42:46Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
+    "id": "anchor-inference/daedalus",
+    "language": "Python",
+    "name": "anchor-inference/daedalus",
+    "stars": 1,
+    "updated_at": "2026-10-01T20:42:25Z",
+    "url": "https://github.com/anchor-inference/daedalus"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-01T20:41:41Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Vector search that ships as a file. Compile a corpus into one self-contained, hash-verified .pikelet \u2014 search it anywher",
+    "id": "mcn92/pikelet",
+    "language": "JavaScript",
+    "name": "mcn92/pikelet",
+    "stars": 2,
+    "updated_at": "2026-10-01T20:40:00Z",
+    "url": "https://github.com/mcn92/pikelet"
+  },
+  {
+    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
+    "id": "eshanized/M31A",
+    "language": "Rust",
+    "name": "eshanized/M31A",
+    "stars": 8,
+    "updated_at": "2026-10-01T20:38:08Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 746,
+    "updated_at": "2026-10-01T20:34:14Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "Make any agent harness token-native.",
+    "id": "camel-ai/tokin",
+    "language": "Python",
+    "name": "camel-ai/tokin",
+    "stars": 3,
+    "updated_at": "2026-10-01T20:31:13Z",
+    "url": "https://github.com/camel-ai/tokin"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-10-01T20:39:59Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "Always-on voice assistant agent for an unrooted Android tablet: on-device wake word + speech-to-text, LLM tool loop via ",
     "id": "DevanMetz/dean-android-agent",
     "language": "Python",
@@ -18,15 +99,6 @@
     "url": "https://github.com/victorsaly/business-analyst-agent-demo"
   },
   {
-    "description": "Make any agent harness token-native.",
-    "id": "camel-ai/tokin",
-    "language": "Python",
-    "name": "camel-ai/tokin",
-    "stars": 3,
-    "updated_at": "2026-10-01T20:28:59Z",
-    "url": "https://github.com/camel-ai/tokin"
-  },
-  {
     "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
     "id": "honestDS/MonoLight",
     "language": "Python",
@@ -41,7 +113,7 @@
     "language": "Python",
     "name": "rekursiv-ai/sagent",
     "stars": 78,
-    "updated_at": "2026-10-01T20:23:49Z",
+    "updated_at": "2026-10-01T20:44:05Z",
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
@@ -52,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-01T20:22:55Z",
     "url": "https://github.com/cheeezis/job_finder"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-10-01T20:27:32Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
-    "id": "eshanized/M31A",
-    "language": "Rust",
-    "name": "eshanized/M31A",
-    "stars": 8,
-    "updated_at": "2026-10-01T20:17:04Z",
-    "url": "https://github.com/eshanized/M31A"
   },
   {
     "description": "Talk to your organization's data \u2014 agentic analytics assistant over StarRocks, with Claude via Azure AI Foundry and an O",
@@ -97,15 +151,6 @@
     "stars": 20,
     "updated_at": "2026-10-01T20:05:11Z",
     "url": "https://github.com/diraigent/diraigent"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-01T20:18:09Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "\u672c\u5730\u4f18\u5148\u7684 AI \u957f\u671f\u8bb0\u5fc6\u670d\u52a1\uff1a\u4f1a\u9057\u5fd8\u3001\u4f1a\u8054\u60f3\u3001\u4f1a\u5de9\u56fa\u3002MCP + REST + Web UI\uff0c\u4e00\u6761\u547d\u4ee4\u88c5\u597d\uff1b\u4e0d\u7528 DSH \u4e5f\u80fd\u72ec\u7acb\u4f7f\u7528\u3002",
@@ -149,7 +194,7 @@
     "language": "HTML",
     "name": "Haejyn/wafer-defect-agent",
     "stars": 0,
-    "updated_at": "2026-10-01T20:17:53Z",
+    "updated_at": "2026-10-01T20:43:02Z",
     "url": "https://github.com/Haejyn/wafer-defect-agent"
   },
   {
@@ -189,15 +234,6 @@
     "url": "https://github.com/langroid/langroid"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-01T19:18:54Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
     "id": "SuperdeMan/cockpit-agent",
     "language": "Python",
@@ -221,7 +257,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 814,
-    "updated_at": "2026-10-01T20:16:36Z",
+    "updated_at": "2026-10-01T20:41:27Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-01T18:13:56Z",
     "url": "https://github.com/Arjunadh5305/ios-skills-collection"
-  },
-  {
-    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
-    "id": "Stolas34/voice-input-src",
-    "language": "\u2014",
-    "name": "Stolas34/voice-input-src",
-    "stars": 0,
-    "updated_at": "2026-10-01T18:13:36Z",
-    "url": "https://github.com/Stolas34/voice-input-src"
-  },
-  {
-    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
-    "id": "Screwtopped-annapavlova802/SparkLabs",
-    "language": "C++",
-    "name": "Screwtopped-annapavlova802/SparkLabs",
-    "stars": 1,
-    "updated_at": "2026-10-01T18:11:30Z",
-    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-10-01T18:10:15Z",
-    "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-10-01T18:07:08Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
   }
 ]
