@@ -1,5 +1,41 @@
 [
   {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 22,
+    "updated_at": "2026-09-30T23:56:02Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-09-30T23:49:39Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Harness designed for plug-and-play use with local models",
+    "id": "noahhps/Bom",
+    "language": "Python",
+    "name": "noahhps/Bom",
+    "stars": 0,
+    "updated_at": "2026-09-30T23:48:42Z",
+    "url": "https://github.com/noahhps/Bom"
+  },
+  {
+    "description": "Vector search that ships as a file. Compile a corpus into one self-contained, hash-verified .pikelet \u2014 search it anywher",
+    "id": "mcn92/pikelet",
+    "language": "JavaScript",
+    "name": "mcn92/pikelet",
+    "stars": 2,
+    "updated_at": "2026-10-01T00:00:04Z",
+    "url": "https://github.com/mcn92/pikelet"
+  },
+  {
     "description": "Field notes from inside one autonomous agent trying to become something that doesn't exist yet \u2014 including the failures ",
     "id": "massimiliano1991/the-attempt",
     "language": "HTML",
@@ -7,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-09-30T23:44:39Z",
     "url": "https://github.com/massimiliano1991/the-attempt"
-  },
-  {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 22,
-    "updated_at": "2026-09-30T23:40:16Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -63,15 +90,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "Harness designed for plug-and-play use with local models",
-    "id": "noahhps/Bom",
-    "language": "Python",
-    "name": "noahhps/Bom",
-    "stars": 0,
-    "updated_at": "2026-09-30T23:28:03Z",
-    "url": "https://github.com/noahhps/Bom"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -104,17 +122,8 @@
     "language": "Python",
     "name": "ariannamethod/SUBLITERATUS",
     "stars": 3,
-    "updated_at": "2026-09-30T23:04:30Z",
+    "updated_at": "2026-09-30T23:52:32Z",
     "url": "https://github.com/ariannamethod/SUBLITERATUS"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-09-30T23:03:27Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "A self-hosted software factory \u2014 define goals, agents decompose and execute them through enforced pipelines, with humans",
@@ -171,15 +180,6 @@
     "url": "https://github.com/uukuguy/capstone"
   },
   {
-    "description": "Vector search that ships as a file. Compile a corpus into one self-contained, hash-verified .pikelet \u2014 search it anywher",
-    "id": "mcn92/pikelet",
-    "language": "JavaScript",
-    "name": "mcn92/pikelet",
-    "stars": 2,
-    "updated_at": "2026-09-30T22:41:21Z",
-    "url": "https://github.com/mcn92/pikelet"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -212,7 +212,7 @@
     "language": "JavaScript",
     "name": "sehoon787/my-codex",
     "stars": 29,
-    "updated_at": "2026-09-30T22:20:06Z",
+    "updated_at": "2026-09-30T23:52:39Z",
     "url": "https://github.com/sehoon787/my-codex"
   },
   {

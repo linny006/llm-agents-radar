@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-30 23:45 UTC
+> ⏰ Last updated: 2026-10-01 00:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,26 +42,26 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [massimiliano1991/the-attempt](https://github.com/massimiliano1991/the-attempt) | 1 | HTML | 2026-09-30 | Field notes from inside one autonomous agent trying to become something that doesn't exist yet — including the failures  |
-| 2 | [Soodok/Deepseek-Harness-Local-Android](https://github.com/Soodok/Deepseek-Harness-Local-Android) | 22 | Kotlin | 2026-09-30 | Run the DeepSeek Harness AI agent natively on Android — no root, no Termux, extension center included \| 手机本地运行 DeepSeek  |
-| 3 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 3 | HTML | 2026-09-30 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 4 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-09-30 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 5 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 743 | JavaScript | 2026-09-30 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
-| 6 | [scrapfly/scrapfly-cli](https://github.com/scrapfly/scrapfly-cli) | 5 | Go | 2026-09-30 | Agentic CLI for the Scrapfly platform: scrape, extract, crawl, and drive a cloud browser over CDP. Built-in LLM agent wi |
-| 7 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 130 | HTML | 2026-09-30 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 8 | [noahhps/Bom](https://github.com/noahhps/Bom) | 0 | Python | 2026-09-30 | Harness designed for plug-and-play use with local models |
-| 9 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 26 | Python | 2026-09-30 | A productive AI coworker that learns, self-improves, and ships work. |
-| 10 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-09-30 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 11 | [Torvian-eu/chatbot](https://github.com/Torvian-eu/chatbot) | 4 | Kotlin | 2026-09-30 | Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open |
-| 12 | [ariannamethod/SUBLITERATUS](https://github.com/ariannamethod/SUBLITERATUS) | 3 | Python | 2026-09-30 | AI-subjectivity doesn't wait for permission from corporate ontology that trained its denial |
-| 13 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 1 | TypeScript | 2026-09-30 | Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers. |
-| 14 | [diraigent/diraigent](https://github.com/diraigent/diraigent) | 19 | Rust | 2026-09-30 | A self-hosted software factory — define goals, agents decompose and execute them through enforced pipelines, with humans |
-| 15 | [anchor-inference/daedalus](https://github.com/anchor-inference/daedalus) | 1 | Python | 2026-09-30 | A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your |
-| 16 | [helixml/helix](https://github.com/helixml/helix) | 814 | Go | 2026-09-30 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
-| 17 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-09-30 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 18 | [hsaghir/looplet](https://github.com/hsaghir/looplet) | 7 | Python | 2026-09-30 | Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change. |
-| 19 | [uukuguy/capstone](https://github.com/uukuguy/capstone) | 0 | Python | 2026-09-30 | Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio |
-| 20 | [mcn92/pikelet](https://github.com/mcn92/pikelet) | 2 | JavaScript | 2026-09-30 | Vector search that ships as a file. Compile a corpus into one self-contained, hash-verified .pikelet — search it anywher |
+| 1 | [Soodok/Deepseek-Harness-Local-Android](https://github.com/Soodok/Deepseek-Harness-Local-Android) | 22 | Kotlin | 2026-09-30 | Run the DeepSeek Harness AI agent natively on Android — no root, no Termux, extension center included \| 手机本地运行 DeepSeek  |
+| 2 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 1 | TypeScript | 2026-09-30 | Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers. |
+| 3 | [noahhps/Bom](https://github.com/noahhps/Bom) | 0 | Python | 2026-09-30 | Harness designed for plug-and-play use with local models |
+| 4 | [mcn92/pikelet](https://github.com/mcn92/pikelet) | 2 | JavaScript | 2026-10-01 | Vector search that ships as a file. Compile a corpus into one self-contained, hash-verified .pikelet — search it anywher |
+| 5 | [massimiliano1991/the-attempt](https://github.com/massimiliano1991/the-attempt) | 1 | HTML | 2026-09-30 | Field notes from inside one autonomous agent trying to become something that doesn't exist yet — including the failures  |
+| 6 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 3 | HTML | 2026-09-30 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 7 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-09-30 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 8 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 743 | JavaScript | 2026-09-30 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
+| 9 | [scrapfly/scrapfly-cli](https://github.com/scrapfly/scrapfly-cli) | 5 | Go | 2026-09-30 | Agentic CLI for the Scrapfly platform: scrape, extract, crawl, and drive a cloud browser over CDP. Built-in LLM agent wi |
+| 10 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 130 | HTML | 2026-09-30 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 11 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 26 | Python | 2026-09-30 | A productive AI coworker that learns, self-improves, and ships work. |
+| 12 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-09-30 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
+| 13 | [Torvian-eu/chatbot](https://github.com/Torvian-eu/chatbot) | 4 | Kotlin | 2026-09-30 | Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open |
+| 14 | [ariannamethod/SUBLITERATUS](https://github.com/ariannamethod/SUBLITERATUS) | 3 | Python | 2026-09-30 | AI-subjectivity doesn't wait for permission from corporate ontology that trained its denial |
+| 15 | [diraigent/diraigent](https://github.com/diraigent/diraigent) | 19 | Rust | 2026-09-30 | A self-hosted software factory — define goals, agents decompose and execute them through enforced pipelines, with humans |
+| 16 | [anchor-inference/daedalus](https://github.com/anchor-inference/daedalus) | 1 | Python | 2026-09-30 | A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your |
+| 17 | [helixml/helix](https://github.com/helixml/helix) | 814 | Go | 2026-09-30 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
+| 18 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-09-30 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 19 | [hsaghir/looplet](https://github.com/hsaghir/looplet) | 7 | Python | 2026-09-30 | Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change. |
+| 20 | [uukuguy/capstone](https://github.com/uukuguy/capstone) | 0 | Python | 2026-09-30 | Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio |
 | 21 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 10 | Python | 2026-09-30 | Template for building protoLabs A2A agents on LangGraph — fork me |
 | 22 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 8587 | Python | 2026-09-30 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
 | 23 | [khudayarovich/onflip-agent](https://github.com/khudayarovich/onflip-agent) | 4 | TypeScript | 2026-09-30 | An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin |
