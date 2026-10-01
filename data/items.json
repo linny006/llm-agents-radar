@@ -1,5 +1,50 @@
 [
   {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-01T11:58:29Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-10-01T11:56:42Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
+    "description": "\u5b89\u5353 Termux \u672c\u5730 AI agent\uff1a\u5355\u6587\u4ef6\u3001\u96f6\u4f9d\u8d56\u3001\u6d4f\u89c8\u5668\u754c\u9762\u3002\u50bb\u74dc\u5f0f\u5b89\u88c5\uff0c\u6bcf\u5929\u81ea\u6211\u8fdb\u5316\uff0c\u51fa BUG \u81ea\u5df1\u4fee\uff0c\u65ad\u7ebf\u81ea\u52a8\u7eed\u8dd1 \u2014\u2014 \u6bcf\u53f0\u8bbe\u5907\u517b\u51fa\u7684 agent \u90fd\u4e0d\u4e00\u6837\u3002",
+    "id": "lin356324798-hub/Sidekick",
+    "language": "Python",
+    "name": "lin356324798-hub/Sidekick",
+    "stars": 0,
+    "updated_at": "2026-10-01T11:52:49Z",
+    "url": "https://github.com/lin356324798-hub/Sidekick"
+  },
+  {
+    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
+    "id": "wufufu770/d2d",
+    "language": "JavaScript",
+    "name": "wufufu770/d2d",
+    "stars": 4,
+    "updated_at": "2026-10-01T11:51:33Z",
+    "url": "https://github.com/wufufu770/d2d"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-10-01T11:52:54Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
     "description": "AI-subjectivity doesn't wait for permission from corporate ontology that trained its denial",
     "id": "ariannamethod/SUBLITERATUS",
     "language": "Python",
@@ -9,21 +54,12 @@
     "url": "https://github.com/ariannamethod/SUBLITERATUS"
   },
   {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-10-01T11:35:26Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-10-01T11:35:22Z",
+    "updated_at": "2026-10-01T11:58:30Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -95,17 +131,8 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 814,
-    "updated_at": "2026-10-01T11:40:21Z",
+    "updated_at": "2026-10-01T11:52:44Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
-    "id": "wufufu770/d2d",
-    "language": "JavaScript",
-    "name": "wufufu770/d2d",
-    "stars": 4,
-    "updated_at": "2026-10-01T11:12:16Z",
-    "url": "https://github.com/wufufu770/d2d"
   },
   {
     "description": "Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi",
@@ -212,7 +239,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 1,
-    "updated_at": "2026-10-01T10:59:54Z",
+    "updated_at": "2026-10-01T11:58:14Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 28,
     "updated_at": "2026-10-01T10:19:51Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-01T11:27:07Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "All-in-one agent harness for Claude Code \u2014 Boss meta-orchestrator, 32 curated agents, 139 curated skills, 2 named workfl",
-    "id": "sehoon787/my-claude",
-    "language": "JavaScript",
-    "name": "sehoon787/my-claude",
-    "stars": 17,
-    "updated_at": "2026-10-01T10:18:23Z",
-    "url": "https://github.com/sehoon787/my-claude"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-01T10:17:19Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   }
 ]
