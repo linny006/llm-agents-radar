@@ -1,39 +1,21 @@
 [
   {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 1,
-    "updated_at": "2026-10-01T09:29:55Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 27,
+    "updated_at": "2026-10-01T09:44:57Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-10-01T09:29:49Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
-    "id": "chunleik/self-analyst",
-    "language": "Java",
-    "name": "chunleik/self-analyst",
+    "description": "AI Powered assistant desgined for a Saving and Credit cooperative (SACCO) .  The agent aims to read the official SACCO R",
+    "id": "toxidity-18/SMARTSACCO-AI-Agent-",
+    "language": "Python",
+    "name": "toxidity-18/SMARTSACCO-AI-Agent-",
     "stars": 0,
-    "updated_at": "2026-10-01T09:26:27Z",
-    "url": "https://github.com/chunleik/self-analyst"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 745,
-    "updated_at": "2026-10-01T09:28:01Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
+    "updated_at": "2026-10-01T09:42:31Z",
+    "url": "https://github.com/toxidity-18/SMARTSACCO-AI-Agent-"
   },
   {
     "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
@@ -41,8 +23,35 @@
     "language": "Python",
     "name": "weihuaguo270-ops/react-agent",
     "stars": 0,
-    "updated_at": "2026-10-01T09:22:22Z",
+    "updated_at": "2026-10-01T09:43:14Z",
     "url": "https://github.com/weihuaguo270-ops/react-agent"
+  },
+  {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 3,
+    "updated_at": "2026-10-01T09:41:09Z",
+    "url": "https://github.com/plurnk/plurnk"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-01T09:39:16Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 745,
+    "updated_at": "2026-10-01T09:41:02Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "AI-powered image generation and chat studio",
@@ -50,8 +59,44 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-10-01T09:19:53Z",
+    "updated_at": "2026-10-01T09:40:52Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 5,
+    "updated_at": "2026-10-01T09:33:33Z",
+    "url": "https://github.com/ljedrz/nachalnik"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-10-01T09:32:54Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 1,
+    "updated_at": "2026-10-01T09:30:19Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
+    "id": "chunleik/self-analyst",
+    "language": "Java",
+    "name": "chunleik/self-analyst",
+    "stars": 0,
+    "updated_at": "2026-10-01T09:36:05Z",
+    "url": "https://github.com/chunleik/self-analyst"
   },
   {
     "description": "AI-subjectivity doesn't wait for permission from corporate ontology that trained its denial",
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "ariannamethod/SUBLITERATUS",
     "stars": 3,
-    "updated_at": "2026-10-01T09:19:18Z",
+    "updated_at": "2026-10-01T09:44:48Z",
     "url": "https://github.com/ariannamethod/SUBLITERATUS"
   },
   {
@@ -144,15 +189,6 @@
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
-    "description": "AI Powered assistant desgined for a Saving and Credit cooperative (SACCO) .  The agent aims to read the official SACCO R",
-    "id": "toxidity-18/SMARTSACCO-AI-Agent-",
-    "language": "Python",
-    "name": "toxidity-18/SMARTSACCO-AI-Agent-",
-    "stars": 0,
-    "updated_at": "2026-10-01T09:09:30Z",
-    "url": "https://github.com/toxidity-18/SMARTSACCO-AI-Agent-"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
@@ -225,15 +261,6 @@
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
-    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
-    "id": "ljedrz/nachalnik",
-    "language": "Rust",
-    "name": "ljedrz/nachalnik",
-    "stars": 5,
-    "updated_at": "2026-10-01T09:25:17Z",
-    "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
     "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
     "id": "AceGuru-mjh/Android-Guru-Agent",
     "language": "Kotlin",
@@ -261,29 +288,11 @@
     "url": "https://github.com/noahhps/Bom"
   },
   {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-01T08:14:16Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
-    "id": "plurnk/plurnk",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk",
-    "stars": 3,
-    "updated_at": "2026-10-01T08:12:05Z",
-    "url": "https://github.com/plurnk/plurnk"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 8593,
+    "stars": 8594,
     "updated_at": "2026-10-01T08:03:18Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-01T07:41:54Z",
     "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-10-01T07:38:56Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
   }
 ]
