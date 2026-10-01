@@ -1,5 +1,23 @@
 [
   {
+    "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 278,
+    "updated_at": "2026-10-01T09:14:42Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "\ud83e\udd16 FindII \u2014 autonomous AI lead-gen agent for real estate: Scrapling-powered Avito scraping + Telegram monitoring, LLM lea",
+    "id": "alihosseinabadi/findii",
+    "language": "Python",
+    "name": "alihosseinabadi/findii",
+    "stars": 0,
+    "updated_at": "2026-10-01T09:14:55Z",
+    "url": "https://github.com/alihosseinabadi/findii"
+  },
+  {
     "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
     "id": "duongnq2798/vestiarion",
     "language": "TypeScript",
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "weihuaguo270-ops/react-agent",
     "stars": 0,
-    "updated_at": "2026-10-01T09:11:06Z",
+    "updated_at": "2026-10-01T09:12:32Z",
     "url": "https://github.com/weihuaguo270-ops/react-agent"
   },
   {
@@ -63,6 +81,15 @@
     "url": "https://github.com/toxidity-18/SMARTSACCO-AI-Agent-"
   },
   {
+    "description": "WAVE\uff1a\u6607\u817e\u8ba1\u7b97\u89c6\u89c9\u4e00\u4f53\u5316\u5e73\u53f0\uff08\u5f00\u6e90\u53d1\u5e03\u4ed3\u5e93\uff09",
+    "id": "Ascend-Computing-Visual-Platform/wave",
+    "language": "TypeScript",
+    "name": "Ascend-Computing-Visual-Platform/wave",
+    "stars": 0,
+    "updated_at": "2026-10-01T09:15:14Z",
+    "url": "https://github.com/Ascend-Computing-Visual-Platform/wave"
+  },
+  {
     "description": "\u81ea\u8fdb\u5316\u7814\u7a76 Wiki \u667a\u80fd\u4f53\uff1a\u81ea\u5efa agent harness + \u4e09\u5c42\u8bb0\u5fc6 + \u5f15\u7528\u5f3a\u5236\u4e0e\u51b2\u7a81\u5bf9\u8d26",
     "id": "111wxh/researchwiki",
     "language": "Python",
@@ -77,7 +104,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-01T09:00:54Z",
+    "updated_at": "2026-10-01T09:12:20Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-01T07:41:54Z",
     "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-10-01T07:38:56Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-10-01T07:38:44Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 4,
-    "updated_at": "2026-10-01T07:36:53Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
   }
 ]
