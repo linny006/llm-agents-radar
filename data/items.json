@@ -1,12 +1,39 @@
 [
   {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 27,
-    "updated_at": "2026-10-01T09:44:57Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+    "description": "Gestor ag\u00e9ntico de modelos llm",
+    "id": "bondwell79/hercules",
+    "language": "Python",
+    "name": "bondwell79/hercules",
+    "stars": 0,
+    "updated_at": "2026-10-01T09:59:47Z",
+    "url": "https://github.com/bondwell79/hercules"
+  },
+  {
+    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
+    "id": "wufufu770/d2d",
+    "language": "JavaScript",
+    "name": "wufufu770/d2d",
+    "stars": 4,
+    "updated_at": "2026-10-01T09:56:41Z",
+    "url": "https://github.com/wufufu770/d2d"
+  },
+  {
+    "description": "\u6295\u8d44\u79c1\u4eba\u7ba1\u5bb6 \u00b7 A\u80a1\u57fa\u91d1 AI \u79c1\u4eba\u987e\u95ee\uff08Invest Concierge \u2014 A-share & fund AI personal investment assistant\uff09",
+    "id": "cx-ssg/invest-concierge",
+    "language": "Python",
+    "name": "cx-ssg/invest-concierge",
+    "stars": 0,
+    "updated_at": "2026-10-01T09:56:13Z",
+    "url": "https://github.com/cx-ssg/invest-concierge"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-01T09:56:05Z",
+    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "AI Powered assistant desgined for a Saving and Credit cooperative (SACCO) .  The agent aims to read the official SACCO R",
@@ -14,8 +41,35 @@
     "language": "Python",
     "name": "toxidity-18/SMARTSACCO-AI-Agent-",
     "stars": 0,
-    "updated_at": "2026-10-01T09:42:31Z",
+    "updated_at": "2026-10-01T09:54:41Z",
     "url": "https://github.com/toxidity-18/SMARTSACCO-AI-Agent-"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-10-01T09:59:25Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 745,
+    "updated_at": "2026-10-01T09:51:22Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "AI-subjectivity doesn't wait for permission from corporate ontology that trained its denial",
+    "id": "ariannamethod/SUBLITERATUS",
+    "language": "Python",
+    "name": "ariannamethod/SUBLITERATUS",
+    "stars": 3,
+    "updated_at": "2026-10-01T09:50:25Z",
+    "url": "https://github.com/ariannamethod/SUBLITERATUS"
   },
   {
     "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
@@ -23,8 +77,26 @@
     "language": "Python",
     "name": "weihuaguo270-ops/react-agent",
     "stars": 0,
-    "updated_at": "2026-10-01T09:43:14Z",
+    "updated_at": "2026-10-01T09:46:50Z",
     "url": "https://github.com/weihuaguo270-ops/react-agent"
+  },
+  {
+    "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
+    "id": "chunleik/self-analyst",
+    "language": "Java",
+    "name": "chunleik/self-analyst",
+    "stars": 0,
+    "updated_at": "2026-10-01T09:47:15Z",
+    "url": "https://github.com/chunleik/self-analyst"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 27,
+    "updated_at": "2026-10-01T09:48:11Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
   {
     "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
@@ -45,24 +117,6 @@
     "url": "https://github.com/plurnk/plurnk-service"
   },
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 745,
-    "updated_at": "2026-10-01T09:41:02Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-10-01T09:40:52Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
     "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
     "id": "ljedrz/nachalnik",
     "language": "Rust",
@@ -77,7 +131,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-10-01T09:32:54Z",
+    "updated_at": "2026-10-01T09:49:11Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -88,24 +142,6 @@
     "stars": 1,
     "updated_at": "2026-10-01T09:30:19Z",
     "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
-    "id": "chunleik/self-analyst",
-    "language": "Java",
-    "name": "chunleik/self-analyst",
-    "stars": 0,
-    "updated_at": "2026-10-01T09:36:05Z",
-    "url": "https://github.com/chunleik/self-analyst"
-  },
-  {
-    "description": "AI-subjectivity doesn't wait for permission from corporate ontology that trained its denial",
-    "id": "ariannamethod/SUBLITERATUS",
-    "language": "Python",
-    "name": "ariannamethod/SUBLITERATUS",
-    "stars": 3,
-    "updated_at": "2026-10-01T09:44:48Z",
-    "url": "https://github.com/ariannamethod/SUBLITERATUS"
   },
   {
     "description": "Recoverable single coding agent for bounded repository repair",
@@ -185,17 +221,8 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-10-01T09:09:43Z",
+    "updated_at": "2026-10-01T09:50:53Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-01T09:29:32Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/",
@@ -214,15 +241,6 @@
     "stars": 244,
     "updated_at": "2026-10-01T08:54:18Z",
     "url": "https://github.com/AI-secure/AgentPoison"
-  },
-  {
-    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
-    "id": "wufufu770/d2d",
-    "language": "JavaScript",
-    "name": "wufufu770/d2d",
-    "stars": 4,
-    "updated_at": "2026-10-01T08:52:33Z",
-    "url": "https://github.com/wufufu770/d2d"
   },
   {
     "description": "\ud83e\udd16 Agent Skill \u4f18\u5148\uff1a\u4e00\u53e5\u81ea\u7136\u8bed\u8a00\u628a\u89c6\u9891\u53d8\u6210\u5e26\u65f6\u95f4\u6233\u5b57\u5e55\u3001\u77e5\u8bc6\u6587\u6863\u3001\u56fe\u6587\u7b14\u8bb0\u4e0e Anki \u5361\u7247\u2014\u2014SKILL.md \u9a71\u52a8 agent \u81ea\u52a8\u7f16\u6392\u4e09\u6761\u672c\u5730\u8def\u5f84\uff08VLM \u591a\u6a21\u6001 / faster-whisper ASR / \u97f3\u753b\u878d\u5408\uff09",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-01T07:43:15Z",
     "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
-    "id": "yurika0211/lucky-agent",
-    "language": "Go",
-    "name": "yurika0211/lucky-agent",
-    "stars": 14,
-    "updated_at": "2026-10-01T07:43:13Z",
-    "url": "https://github.com/yurika0211/lucky-agent"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-10-01T07:41:54Z",
-    "url": "https://github.com/mriazi1982/octopai"
   }
 ]
