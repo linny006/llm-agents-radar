@@ -1,30 +1,48 @@
 [
   {
-    "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
-    "id": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
-    "language": "Python",
-    "name": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
-    "stars": 2,
-    "updated_at": "2026-10-01T16:29:42Z",
-    "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-01T16:29:35Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "An observability-driven text-only core for coordinating ephemeral LLM agents",
     "id": "genaforvena/mishe-tauftauf",
     "language": "Python",
     "name": "genaforvena/mishe-tauftauf",
     "stars": 1,
-    "updated_at": "2026-10-01T16:29:19Z",
+    "updated_at": "2026-10-01T16:44:22Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "\u5e26\u7b56\u7565\u9a8c\u8bc1\u7684 A \u80a1 LLM \u5206\u6790\u7cfb\u7edf \u2014\u2014 \u591a\u6e90\u964d\u7ea7 + \u5b9a\u65f6\u4efb\u52a1 + \u591a\u901a\u9053\u63a8\u9001\uff1b\u6838\u5fc3\u589e\u91cf\u662f\u53ef\u8bc1\u4f2a\u7684\u56de\u6d4b\u4e0e\u9a8c\u8bc1\u5c42\uff08\u672a\u6765\u51fd\u6570\u63a2\u6d4b / \u6837\u672c\u5185\u5916\u5207\u5206 / t\u68c0\u9a8c / \u57fa\u51c6\u5bf9\u6bd4\uff09",
+    "id": "AandBorC/dsa-lite",
+    "language": "Python",
+    "name": "AandBorC/dsa-lite",
+    "stars": 0,
+    "updated_at": "2026-10-01T16:43:50Z",
+    "url": "https://github.com/AandBorC/dsa-lite"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-01T16:44:18Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 4,
+    "updated_at": "2026-10-01T16:38:46Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 21,
+    "updated_at": "2026-10-01T16:38:32Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -32,8 +50,53 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 8601,
-    "updated_at": "2026-10-01T16:29:15Z",
+    "updated_at": "2026-10-01T16:38:21Z",
     "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-01T16:34:39Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi",
+    "id": "zig333/ELAI-archive",
+    "language": "\u2014",
+    "name": "zig333/ELAI-archive",
+    "stars": 0,
+    "updated_at": "2026-10-01T16:33:53Z",
+    "url": "https://github.com/zig333/ELAI-archive"
+  },
+  {
+    "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
+    "id": "brittewestafrican981/ComfyUI-YinChao",
+    "language": "Python",
+    "name": "brittewestafrican981/ComfyUI-YinChao",
+    "stars": 0,
+    "updated_at": "2026-10-01T16:32:00Z",
+    "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
+  },
+  {
+    "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
+    "id": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
+    "language": "Python",
+    "name": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
+    "stars": 4,
+    "updated_at": "2026-10-01T16:30:47Z",
+    "url": "https://github.com/mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo"
+  },
+  {
+    "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
+    "id": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
+    "language": "Python",
+    "name": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
+    "stars": 2,
+    "updated_at": "2026-10-01T16:29:42Z",
+    "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
   },
   {
     "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
@@ -68,7 +131,7 @@
     "language": "Go",
     "name": "tara-vision/taracode",
     "stars": 51,
-    "updated_at": "2026-10-01T16:27:59Z",
+    "updated_at": "2026-10-01T16:33:16Z",
     "url": "https://github.com/tara-vision/taracode"
   },
   {
@@ -180,21 +243,12 @@
     "url": "https://github.com/thehope2k/minimalist-agent"
   },
   {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 21,
-    "updated_at": "2026-10-01T16:15:19Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-10-01T16:14:52Z",
+    "updated_at": "2026-10-01T16:33:33Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -369,21 +423,12 @@
     "url": "https://github.com/WP2-Danikusuma/AgentX"
   },
   {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-01T16:26:05Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4439,
-    "updated_at": "2026-10-01T16:29:15Z",
+    "updated_at": "2026-10-01T16:43:42Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-01T15:28:01Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 130,
-    "updated_at": "2026-10-01T15:19:01Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "\u81ea\u8fdb\u5316\u7814\u7a76 Wiki \u667a\u80fd\u4f53\uff1a\u81ea\u5efa agent harness + \u4e09\u5c42\u8bb0\u5fc6 + \u5f15\u7528\u5f3a\u5236\u4e0e\u51b2\u7a81\u5bf9\u8d26",
-    "id": "111wxh/researchwiki",
-    "language": "Python",
-    "name": "111wxh/researchwiki",
-    "stars": 0,
-    "updated_at": "2026-10-01T15:10:40Z",
-    "url": "https://github.com/111wxh/researchwiki"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 4,
-    "updated_at": "2026-10-01T15:07:39Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "A personal assistant with a phone number: SQLite-backed todos, memories, and reflections, searchable through Algolia and",
-    "id": "NatanTechofNY/fieldnote-assistant",
-    "language": "TypeScript",
-    "name": "NatanTechofNY/fieldnote-assistant",
-    "stars": 1,
-    "updated_at": "2026-10-01T15:02:22Z",
-    "url": "https://github.com/NatanTechofNY/fieldnote-assistant"
-  },
-  {
-    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
-    "id": "xieguigang/sciBASIC",
-    "language": "Visual Basic .NET",
-    "name": "xieguigang/sciBASIC",
-    "stars": 78,
-    "updated_at": "2026-10-01T14:49:30Z",
-    "url": "https://github.com/xieguigang/sciBASIC"
   }
 ]
