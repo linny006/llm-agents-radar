@@ -1,21 +1,39 @@
 [
   {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 1,
-    "updated_at": "2026-10-01T01:29:51Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
     "description": "An agentic OBD-II scanner that never makes anything up. Bring your own model, read every module on the bus, and click an",
     "id": "christianOrona/wtfault-scanner",
     "language": "Rust",
     "name": "christianOrona/wtfault-scanner",
     "stars": 2,
-    "updated_at": "2026-10-01T01:16:43Z",
+    "updated_at": "2026-10-01T01:44:52Z",
     "url": "https://github.com/christianOrona/wtfault-scanner"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-01T01:44:32Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 1,
+    "updated_at": "2026-10-01T01:41:01Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "A complete CRM admin built entirely with Lume \u2014 one C11 single binary plus one .lume script for the database, REST API, ",
+    "id": "erishen/lume-crm",
+    "language": "TypeScript",
+    "name": "erishen/lume-crm",
+    "stars": 0,
+    "updated_at": "2026-10-01T01:40:25Z",
+    "url": "https://github.com/erishen/lume-crm"
   },
   {
     "description": "\u72fc\u4eba\u6740 agent \u9884\u8bbe\uff1a\u65b0\u5efa\u4f1a\u8bdd\u9009\u300c\u72fc\u4eba\u6740\u300d\uff0c\u4f1a\u8bdd\u91cc\u7684\u667a\u80fd\u4f53\u5f53\u6cd5\u5b98\uff0c\u7528\u5b50\u4ee3\u7406\u626e\u6f14\u5176\u4ed6\u73a9\u5bb6\u3002\u96f6 JS \u4ee3\u7801\uff0c\u6574\u4e2a\u6e38\u620f\u5199\u5728 6.8 KB \u63d0\u793a\u8bcd\u91cc\u3002",
@@ -23,8 +41,26 @@
     "language": "JavaScript",
     "name": "banana770/dsh-werewolf",
     "stars": 1,
-    "updated_at": "2026-10-01T01:16:18Z",
+    "updated_at": "2026-10-01T01:37:45Z",
     "url": "https://github.com/banana770/dsh-werewolf"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-10-01T01:36:55Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 1104,
+    "updated_at": "2026-10-01T01:32:46Z",
+    "url": "https://github.com/ongridio/ongrid"
   },
   {
     "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
@@ -162,15 +198,6 @@
     "url": "https://github.com/diraigent/diraigent"
   },
   {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 1104,
-    "updated_at": "2026-10-01T01:26:45Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
     "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
     "id": "Samuelcluttered613/paper2code",
     "language": "Python",
@@ -205,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-10-01T00:52:41Z",
     "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-01T00:49:31Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-01T00:00:04Z",
     "url": "https://github.com/mcn92/pikelet"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 3,
-    "updated_at": "2026-09-30T23:36:50Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-09-30T23:33:30Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   }
 ]
