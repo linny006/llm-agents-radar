@@ -1,5 +1,32 @@
 [
   {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-01T22:26:45Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-10-01T22:19:37Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-10-01T22:18:52Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "A self-hosted software factory \u2014 define goals, agents decompose and execute them through enforced pipelines, with humans",
     "id": "diraigent/diraigent",
     "language": "Rust",
@@ -18,21 +45,12 @@
     "url": "https://github.com/ljedrz/nachalnik"
   },
   {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-10-01T22:14:25Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-01T22:13:30Z",
+    "updated_at": "2026-10-01T22:27:57Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -59,17 +77,8 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 746,
-    "updated_at": "2026-10-01T22:03:19Z",
+    "updated_at": "2026-10-01T22:30:17Z",
     "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-10-01T22:03:14Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
     "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
@@ -106,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-01T21:54:21Z",
     "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
-  },
-  {
-    "description": "Course demonstration (Agentic AI Workshop 2026, Capstone 2): an AI analyst agent that answers sales questions on Microso",
-    "id": "victorsaly/business-analyst-agent-demo",
-    "language": "HTML",
-    "name": "victorsaly/business-analyst-agent-demo",
-    "stars": 0,
-    "updated_at": "2026-10-01T21:53:15Z",
-    "url": "https://github.com/victorsaly/business-analyst-agent-demo"
   },
   {
     "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
@@ -169,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-01T21:46:53Z",
     "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-01T21:45:44Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
@@ -448,5 +439,14 @@
     "stars": 0,
     "updated_at": "2026-10-01T20:43:54Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Vector search that ships as a file. Compile a corpus into one self-contained, hash-verified .pikelet \u2014 search it anywher",
+    "id": "mcn92/pikelet",
+    "language": "JavaScript",
+    "name": "mcn92/pikelet",
+    "stars": 2,
+    "updated_at": "2026-10-01T20:40:00Z",
+    "url": "https://github.com/mcn92/pikelet"
   }
 ]
