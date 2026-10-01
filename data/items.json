@@ -1,12 +1,66 @@
 [
   {
+    "description": "\uc6e8\uc774\ud37c \ub9f5 \ubd88\ub7c9 \ud328\ud134 \ud310\ub3c5 \uc5d0\uc774\uc804\ud2b8 \u2014 \uc544\ub294 \ud328\ud134 \ubd84\ub958 \u00b7 \ucc98\uc74c \ubcf4\ub294 \ud328\ud134 \uacbd\uace0 \u00b7 \ucf54\ub4dc\uac00 \uac80\uc0ac\ud558\ub294 \ub85c\uceec LLM \ud310\ub3c5 \uce74\ub4dc (WM-811K)",
+    "id": "Haejyn/wafer-defect-agent",
+    "language": "HTML",
+    "name": "Haejyn/wafer-defect-agent",
+    "stars": 0,
+    "updated_at": "2026-10-01T19:44:24Z",
+    "url": "https://github.com/Haejyn/wafer-defect-agent"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u7684 AI \u957f\u671f\u8bb0\u5fc6\u670d\u52a1\uff1a\u4f1a\u9057\u5fd8\u3001\u4f1a\u8054\u60f3\u3001\u4f1a\u5de9\u56fa\u3002MCP + REST + Web UI\uff0c\u4e00\u6761\u547d\u4ee4\u88c5\u597d\uff1b\u4e0d\u7528 DSH \u4e5f\u80fd\u72ec\u7acb\u4f7f\u7528\u3002",
+    "id": "Mlte0907/pangu",
+    "language": "Python",
+    "name": "Mlte0907/pangu",
+    "stars": 1,
+    "updated_at": "2026-10-01T19:43:18Z",
+    "url": "https://github.com/Mlte0907/pangu"
+  },
+  {
+    "description": "Autonomous personal agent: talks, acts, never gives up. Multi-model, multi-user, self-improving",
+    "id": "franckolv-dev/ELY2",
+    "language": "Python",
+    "name": "franckolv-dev/ELY2",
+    "stars": 1,
+    "updated_at": "2026-10-01T19:40:26Z",
+    "url": "https://github.com/franckolv-dev/ELY2"
+  },
+  {
+    "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 278,
+    "updated_at": "2026-10-01T19:37:55Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-01T19:42:20Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
     "description": "LangGraph tool-calling agent for ACCESS-CI user support: documentation retrieval plus live infrastructure tools, with a ",
     "id": "connectci-platform/access-agent",
     "language": "Python",
     "name": "connectci-platform/access-agent",
     "stars": 0,
-    "updated_at": "2026-10-01T19:29:30Z",
+    "updated_at": "2026-10-01T19:38:10Z",
     "url": "https://github.com/connectci-platform/access-agent"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-10-01T19:24:57Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Harness LLMs with Multi-Agent Programming",
@@ -25,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-10-01T19:18:54Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-01T19:24:59Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
@@ -76,7 +121,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 8605,
+    "stars": 8606,
     "updated_at": "2026-10-01T18:59:03Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -86,7 +131,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 814,
-    "updated_at": "2026-10-01T18:51:49Z",
+    "updated_at": "2026-10-01T19:36:22Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -97,15 +142,6 @@
     "stars": 28,
     "updated_at": "2026-10-01T18:51:28Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "Autonomous personal agent: talks, acts, never gives up. Multi-model, multi-user, self-improving",
-    "id": "franckolv-dev/ELY2",
-    "language": "Python",
-    "name": "franckolv-dev/ELY2",
-    "stars": 1,
-    "updated_at": "2026-10-01T19:24:22Z",
-    "url": "https://github.com/franckolv-dev/ELY2"
   },
   {
     "description": "\u6295\u8d44\u79c1\u4eba\u7ba1\u5bb6 \u00b7 A\u80a1\u57fa\u91d1 AI \u79c1\u4eba\u987e\u95ee\uff08Invest Concierge \u2014 A-share & fund AI personal investment assistant\uff09",
@@ -142,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-01T19:10:38Z",
     "url": "https://github.com/justacalico/devinorium"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-10-01T19:24:57Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Lightweight CLI coordination journal for AI agent sessions. Per-shard JSONL files with BSD flock for safe concurrent wri",
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-01T17:55:56Z",
     "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 1,
-    "updated_at": "2026-10-01T17:55:29Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "Always-on voice assistant agent for an unrooted Android tablet: on-device wake word + speech-to-text, LLM tool loop via ",
-    "id": "DevanMetz/dean-android-agent",
-    "language": "Python",
-    "name": "DevanMetz/dean-android-agent",
-    "stars": 0,
-    "updated_at": "2026-10-01T17:53:59Z",
-    "url": "https://github.com/DevanMetz/dean-android-agent"
-  },
-  {
-    "description": "\u672c\u5730\u4f18\u5148\u7684 AI \u957f\u671f\u8bb0\u5fc6\u670d\u52a1\uff1a\u4f1a\u9057\u5fd8\u3001\u4f1a\u8054\u60f3\u3001\u4f1a\u5de9\u56fa\u3002MCP + REST + Web UI\uff0c\u4e00\u6761\u547d\u4ee4\u88c5\u597d\uff1b\u4e0d\u7528 DSH \u4e5f\u80fd\u72ec\u7acb\u4f7f\u7528\u3002",
-    "id": "Mlte0907/pangu",
-    "language": "Python",
-    "name": "Mlte0907/pangu",
-    "stars": 1,
-    "updated_at": "2026-10-01T17:51:56Z",
-    "url": "https://github.com/Mlte0907/pangu"
   }
 ]
