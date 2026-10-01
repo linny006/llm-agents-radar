@@ -1,5 +1,86 @@
 [
   {
+    "description": "Always-on voice assistant agent for an unrooted Android tablet: on-device wake word + speech-to-text, LLM tool loop via ",
+    "id": "DevanMetz/dean-android-agent",
+    "language": "Python",
+    "name": "DevanMetz/dean-android-agent",
+    "stars": 0,
+    "updated_at": "2026-10-01T20:29:26Z",
+    "url": "https://github.com/DevanMetz/dean-android-agent"
+  },
+  {
+    "description": "Course demonstration (Agentic AI Workshop 2026, Capstone 2): an AI analyst agent that answers sales questions on Microso",
+    "id": "victorsaly/business-analyst-agent-demo",
+    "language": "Jupyter Notebook",
+    "name": "victorsaly/business-analyst-agent-demo",
+    "stars": 0,
+    "updated_at": "2026-10-01T20:29:06Z",
+    "url": "https://github.com/victorsaly/business-analyst-agent-demo"
+  },
+  {
+    "description": "Make any agent harness token-native.",
+    "id": "camel-ai/tokin",
+    "language": "Python",
+    "name": "camel-ai/tokin",
+    "stars": 3,
+    "updated_at": "2026-10-01T20:28:59Z",
+    "url": "https://github.com/camel-ai/tokin"
+  },
+  {
+    "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
+    "id": "honestDS/MonoLight",
+    "language": "Python",
+    "name": "honestDS/MonoLight",
+    "stars": 8,
+    "updated_at": "2026-10-01T20:26:48Z",
+    "url": "https://github.com/honestDS/MonoLight"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 78,
+    "updated_at": "2026-10-01T20:23:49Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
+    "id": "cheeezis/job_finder",
+    "language": "Python",
+    "name": "cheeezis/job_finder",
+    "stars": 0,
+    "updated_at": "2026-10-01T20:22:55Z",
+    "url": "https://github.com/cheeezis/job_finder"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-10-01T20:27:32Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
+    "id": "eshanized/M31A",
+    "language": "Rust",
+    "name": "eshanized/M31A",
+    "stars": 8,
+    "updated_at": "2026-10-01T20:17:04Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "Talk to your organization's data \u2014 agentic analytics assistant over StarRocks, with Claude via Azure AI Foundry and an O",
+    "id": "leonardomb1/perguntai",
+    "language": "TypeScript",
+    "name": "leonardomb1/perguntai",
+    "stars": 0,
+    "updated_at": "2026-10-01T20:16:00Z",
+    "url": "https://github.com/leonardomb1/perguntai"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -18,30 +99,12 @@
     "url": "https://github.com/diraigent/diraigent"
   },
   {
-    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
-    "id": "eshanized/M31A",
-    "language": "Rust",
-    "name": "eshanized/M31A",
-    "stars": 8,
-    "updated_at": "2026-10-01T20:07:16Z",
-    "url": "https://github.com/eshanized/M31A"
-  },
-  {
-    "description": "Talk to your organization's data \u2014 agentic analytics assistant over StarRocks, with Claude via Azure AI Foundry and an O",
-    "id": "leonardomb1/perguntai",
-    "language": "TypeScript",
-    "name": "leonardomb1/perguntai",
-    "stars": 0,
-    "updated_at": "2026-10-01T20:02:55Z",
-    "url": "https://github.com/leonardomb1/perguntai"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-01T20:02:38Z",
+    "updated_at": "2026-10-01T20:18:09Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -72,15 +135,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-10-01T20:10:22Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
     "id": "wufufu770/d2d",
     "language": "JavaScript",
@@ -95,7 +149,7 @@
     "language": "HTML",
     "name": "Haejyn/wafer-defect-agent",
     "stars": 0,
-    "updated_at": "2026-10-01T19:44:24Z",
+    "updated_at": "2026-10-01T20:17:53Z",
     "url": "https://github.com/Haejyn/wafer-defect-agent"
   },
   {
@@ -167,7 +221,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 814,
-    "updated_at": "2026-10-01T19:55:11Z",
+    "updated_at": "2026-10-01T20:16:36Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -234,15 +288,6 @@
     "url": "https://github.com/Torvian-eu/chatbot"
   },
   {
-    "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
-    "id": "cheeezis/job_finder",
-    "language": "Python",
-    "name": "cheeezis/job_finder",
-    "stars": 0,
-    "updated_at": "2026-10-01T19:05:33Z",
-    "url": "https://github.com/cheeezis/job_finder"
-  },
-  {
     "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
     "id": "EvoMap/awesome-agent-evolution",
     "language": "JavaScript",
@@ -304,15 +349,6 @@
     "stars": 6,
     "updated_at": "2026-10-01T19:45:26Z",
     "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 78,
-    "updated_at": "2026-10-01T18:19:49Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "A multi-agent research system for the humanities and social sciences.",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-01T18:07:08Z",
     "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4439,
-    "updated_at": "2026-10-01T18:11:01Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-10-01T18:06:57Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 4,
-    "updated_at": "2026-10-01T18:04:58Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 130,
-    "updated_at": "2026-10-01T18:02:01Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   }
 ]
