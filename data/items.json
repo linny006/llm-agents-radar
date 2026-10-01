@@ -1,12 +1,39 @@
 [
   {
+    "description": "Always-on voice assistant agent for an unrooted Android tablet: on-device wake word + speech-to-text, LLM tool loop via ",
+    "id": "DevanMetz/dean-android-agent",
+    "language": "Python",
+    "name": "DevanMetz/dean-android-agent",
+    "stars": 0,
+    "updated_at": "2026-10-01T01:59:17Z",
+    "url": "https://github.com/DevanMetz/dean-android-agent"
+  },
+  {
     "description": "An agentic OBD-II scanner that never makes anything up. Bring your own model, read every module on the bus, and click an",
     "id": "christianOrona/wtfault-scanner",
     "language": "Rust",
     "name": "christianOrona/wtfault-scanner",
     "stars": 2,
-    "updated_at": "2026-10-01T01:44:52Z",
+    "updated_at": "2026-10-01T01:57:31Z",
     "url": "https://github.com/christianOrona/wtfault-scanner"
+  },
+  {
+    "description": "Local-first pentest agent: Go daemon + React dashboard + Codex/Claude Code/Pi runtimes, scoped projects, Blackboard, san",
+    "id": "n1majne3/CyberPenda",
+    "language": "Go",
+    "name": "n1majne3/CyberPenda",
+    "stars": 20,
+    "updated_at": "2026-10-01T01:57:28Z",
+    "url": "https://github.com/n1majne3/CyberPenda"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 23,
+    "updated_at": "2026-10-01T01:46:57Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -14,7 +41,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-01T01:44:32Z",
+    "updated_at": "2026-10-01T01:59:30Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -23,7 +50,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 1,
-    "updated_at": "2026-10-01T01:41:01Z",
+    "updated_at": "2026-10-01T01:57:11Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -61,15 +88,6 @@
     "stars": 1104,
     "updated_at": "2026-10-01T01:32:46Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 23,
-    "updated_at": "2026-10-01T01:14:20Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
   {
     "description": "Generate rich YuE2 audio in ComfyUI with six modular nodes\u2014hum-to-song, LoRA and adapter support\u2014no stock nodes needed.",
@@ -178,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-01T00:56:38Z",
     "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
-  },
-  {
-    "description": "Always-on voice assistant agent for an unrooted Android tablet: on-device wake word + speech-to-text, LLM tool loop via ",
-    "id": "DevanMetz/dean-android-agent",
-    "language": "Python",
-    "name": "DevanMetz/dean-android-agent",
-    "stars": 0,
-    "updated_at": "2026-10-01T00:55:55Z",
-    "url": "https://github.com/DevanMetz/dean-android-agent"
   },
   {
     "description": "A self-hosted software factory \u2014 define goals, agents decompose and execute them through enforced pipelines, with humans",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-01T01:21:01Z",
     "url": "https://github.com/aaronk2001/ascent-career-os"
-  },
-  {
-    "description": "Vector search that ships as a file. Compile a corpus into one self-contained, hash-verified .pikelet \u2014 search it anywher",
-    "id": "mcn92/pikelet",
-    "language": "JavaScript",
-    "name": "mcn92/pikelet",
-    "stars": 2,
-    "updated_at": "2026-10-01T00:00:04Z",
-    "url": "https://github.com/mcn92/pikelet"
   }
 ]
