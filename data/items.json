@@ -1,5 +1,86 @@
 [
   {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-01T14:29:11Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8597,
+    "updated_at": "2026-10-01T14:26:56Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-10-01T14:28:05Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
+    "id": "kyleslight/shun",
+    "language": "TypeScript",
+    "name": "kyleslight/shun",
+    "stars": 6,
+    "updated_at": "2026-10-01T14:24:48Z",
+    "url": "https://github.com/kyleslight/shun"
+  },
+  {
+    "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
+    "id": "cheeezis/job_finder",
+    "language": "Python",
+    "name": "cheeezis/job_finder",
+    "stars": 0,
+    "updated_at": "2026-10-01T14:20:43Z",
+    "url": "https://github.com/cheeezis/job_finder"
+  },
+  {
+    "description": "Passive observability layer for for healtcare AI agents",
+    "id": "ruxir-ig/auscult",
+    "language": "Python",
+    "name": "ruxir-ig/auscult",
+    "stars": 0,
+    "updated_at": "2026-10-01T14:18:29Z",
+    "url": "https://github.com/ruxir-ig/auscult"
+  },
+  {
+    "description": "\u4f01\u4e1a\u7ea7\u667a\u80fd\u5de5\u5355/\u552e\u540e\u8fd0\u8425 Agent | LLM + \u4ee3\u7801\u7ea7\u5b89\u5168\u95f8\u95e8 + FTS5 RAG",
+    "id": "xiaoanzi1016/AI-Ticket-Operations-Agent",
+    "language": "Python",
+    "name": "xiaoanzi1016/AI-Ticket-Operations-Agent",
+    "stars": 0,
+    "updated_at": "2026-10-01T14:18:13Z",
+    "url": "https://github.com/xiaoanzi1016/AI-Ticket-Operations-Agent"
+  },
+  {
+    "description": "A conversational agent that runs complex tasks as durable background jobs, and the domain-agnostic planner/executor fram",
+    "id": "diaban/jobsmith",
+    "language": "Python",
+    "name": "diaban/jobsmith",
+    "stars": 0,
+    "updated_at": "2026-10-01T14:17:29Z",
+    "url": "https://github.com/diaban/jobsmith"
+  },
+  {
+    "description": "A personal assistant with a phone number: SQLite-backed todos, memories, and reflections, searchable through Algolia and",
+    "id": "NatanTechofNY/fieldnote-assistant",
+    "language": "TypeScript",
+    "name": "NatanTechofNY/fieldnote-assistant",
+    "stars": 1,
+    "updated_at": "2026-10-01T14:16:17Z",
+    "url": "https://github.com/NatanTechofNY/fieldnote-assistant"
+  },
+  {
     "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
     "id": "ljedrz/nachalnik",
     "language": "Rust",
@@ -16,15 +97,6 @@
     "stars": 13,
     "updated_at": "2026-10-01T14:14:03Z",
     "url": "https://github.com/Luciole-Studio/Misaka-Agent"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-01T14:14:02Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Open Source Desktop AI Agent Runtime - LLM, MCP, Voice Runtime, and local/cloud models wired into one PyQt6 desktop agen",
@@ -68,17 +140,8 @@
     "language": "TypeScript",
     "name": "raylanlin/Millwright",
     "stars": 21,
-    "updated_at": "2026-10-01T14:06:38Z",
+    "updated_at": "2026-10-01T14:15:26Z",
     "url": "https://github.com/raylanlin/Millwright"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-10-01T14:06:15Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "",
@@ -88,15 +151,6 @@
     "stars": 12,
     "updated_at": "2026-10-01T14:04:28Z",
     "url": "https://github.com/agent-axiom/agent-arch"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8596,
-    "updated_at": "2026-10-01T14:13:19Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "\u57fa\u4e8e LangGraph \u7684\u8de8\u5883\u7535\u5546\u9009\u54c1 + \u4e0a\u67b6 Agent\uff1aReAct \u81ea\u4e3b\u7f16\u6392 5 \u4e2a\u5de5\u5177\uff08\u5b9e\u6d4b\u652f\u6301\u5e76\u884c\u8c03\u7528\uff09\uff1b\u4e24\u7c7b\u786e\u5b9a\u6027\u95f8\u95e8\u2014\u2014\u8fdd\u7981\u8bcd 7 \u7c7b\u89c4\u5219\u8868 + \u53c2\u6570\u951a\u5b9a\uff08Listing \u6570\u503c\u5fc5\u987b\u6765\u81ea\u5356\u5bb6\u89c4\u683c\uff09\uff0c\u547d\u4e2d\u5373\u5224\u4e0d\u5408\u683c\u3001\u4e0d\u8c03\u7528\u6a21\u578b\uff0c",
@@ -113,7 +167,7 @@
     "language": "Python",
     "name": "i2y/edda",
     "stars": 9,
-    "updated_at": "2026-10-01T14:04:04Z",
+    "updated_at": "2026-10-01T14:21:31Z",
     "url": "https://github.com/i2y/edda"
   },
   {
@@ -167,7 +221,7 @@
     "language": "Python",
     "name": "langroid/langroid",
     "stars": 4109,
-    "updated_at": "2026-10-01T13:53:40Z",
+    "updated_at": "2026-10-01T14:17:50Z",
     "url": "https://github.com/langroid/langroid"
   },
   {
@@ -203,7 +257,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 1,
-    "updated_at": "2026-10-01T13:46:59Z",
+    "updated_at": "2026-10-01T14:26:05Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -277,15 +331,6 @@
     "stars": 7,
     "updated_at": "2026-10-01T13:11:26Z",
     "url": "https://github.com/Cognipeer/agent-sdk"
-  },
-  {
-    "description": "\u4f01\u4e1a\u7ea7\u667a\u80fd\u5de5\u5355/\u552e\u540e\u8fd0\u8425 Agent | LLM + \u4ee3\u7801\u7ea7\u5b89\u5168\u95f8\u95e8 + FTS5 RAG",
-    "id": "xiaoanzi1016/AI-Ticket-Operations-Agent",
-    "language": "Python",
-    "name": "xiaoanzi1016/AI-Ticket-Operations-Agent",
-    "stars": 0,
-    "updated_at": "2026-10-01T13:10:24Z",
-    "url": "https://github.com/xiaoanzi1016/AI-Ticket-Operations-Agent"
   },
   {
     "description": "a local Windows AI assistant powered by Ollama. NOVA inspects and controls your system through native, permission-gated ",
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-01T12:53:35Z",
     "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
-    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "language": "Python",
-    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "stars": 5,
-    "updated_at": "2026-10-01T12:52:57Z",
-    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
-  },
-  {
-    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
-    "id": "oxidizable-malinois605/bridge-suite-mcp",
-    "language": "TypeScript",
-    "name": "oxidizable-malinois605/bridge-suite-mcp",
-    "stars": 0,
-    "updated_at": "2026-10-01T12:51:03Z",
-    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
-  },
-  {
-    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
-    "id": "Arjunadh5305/ios-skills-collection",
-    "language": "\u2014",
-    "name": "Arjunadh5305/ios-skills-collection",
-    "stars": 1,
-    "updated_at": "2026-10-01T12:50:53Z",
-    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
-  },
-  {
-    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
-    "id": "Stolas34/voice-input-src",
-    "language": "\u2014",
-    "name": "Stolas34/voice-input-src",
-    "stars": 0,
-    "updated_at": "2026-10-01T12:50:51Z",
-    "url": "https://github.com/Stolas34/voice-input-src"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 4,
-    "updated_at": "2026-10-01T12:49:30Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
   }
 ]
