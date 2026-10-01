@@ -1,11 +1,65 @@
 [
   {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 1,
+    "updated_at": "2026-10-01T03:59:39Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "Always-on voice assistant agent for an unrooted Android tablet: on-device wake word + speech-to-text, LLM tool loop via ",
+    "id": "DevanMetz/dean-android-agent",
+    "language": "Python",
+    "name": "DevanMetz/dean-android-agent",
+    "stars": 0,
+    "updated_at": "2026-10-01T03:55:31Z",
+    "url": "https://github.com/DevanMetz/dean-android-agent"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 78,
+    "updated_at": "2026-10-01T03:54:46Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-10-01T03:55:38Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-01T03:50:21Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-01T03:51:47Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-10-01T03:44:20Z",
+    "updated_at": "2026-10-01T03:45:29Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -23,17 +77,8 @@
     "language": "Kotlin",
     "name": "AceGuru-mjh/Android-Guru-Agent",
     "stars": 2,
-    "updated_at": "2026-10-01T03:44:12Z",
+    "updated_at": "2026-10-01T03:59:17Z",
     "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent"
-  },
-  {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 1,
-    "updated_at": "2026-10-01T03:43:24Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "Runtime security middleware for tool-using LLM agents: policy enforcement, sensitive-data egress scanning, and an append",
@@ -81,24 +126,6 @@
     "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
   },
   {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-10-01T03:24:56Z",
-    "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
-    "description": "Always-on voice assistant agent for an unrooted Android tablet: on-device wake word + speech-to-text, LLM tool loop via ",
-    "id": "DevanMetz/dean-android-agent",
-    "language": "Python",
-    "name": "DevanMetz/dean-android-agent",
-    "stars": 0,
-    "updated_at": "2026-10-01T03:24:05Z",
-    "url": "https://github.com/DevanMetz/dean-android-agent"
-  },
-  {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
     "id": "dkblinux98/nyxGPT",
     "language": "Python",
@@ -133,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-10-01T03:09:16Z",
     "url": "https://github.com/haibingzhao/easyai"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-01T03:34:54Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Generate rich YuE2 audio in ComfyUI with six modular nodes\u2014hum-to-song, LoRA and adapter support\u2014no stock nodes needed.",
@@ -347,7 +365,7 @@
     "language": "TypeScript",
     "name": "dsswift/ion",
     "stars": 3,
-    "updated_at": "2026-10-01T02:35:45Z",
+    "updated_at": "2026-10-01T03:58:56Z",
     "url": "https://github.com/dsswift/ion"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-01T02:06:35Z",
     "url": "https://github.com/banana770/dsh-werewolf"
-  },
-  {
-    "description": "Local-first pentest agent: Go daemon + React dashboard + Codex/Claude Code/Pi runtimes, scoped projects, Blackboard, san",
-    "id": "n1majne3/CyberPenda",
-    "language": "Go",
-    "name": "n1majne3/CyberPenda",
-    "stars": 20,
-    "updated_at": "2026-10-01T02:04:59Z",
-    "url": "https://github.com/n1majne3/CyberPenda"
-  },
-  {
-    "description": "A complete CRM admin built entirely with Lume \u2014 one C11 single binary plus one .lume script for the database, REST API, ",
-    "id": "erishen/lume-crm",
-    "language": "TypeScript",
-    "name": "erishen/lume-crm",
-    "stars": 0,
-    "updated_at": "2026-10-01T01:40:25Z",
-    "url": "https://github.com/erishen/lume-crm"
   }
 ]
