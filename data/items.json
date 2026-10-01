@@ -1,5 +1,122 @@
 [
   {
+    "description": "\u57fa\u4e8e LangGraph \u7684\u8de8\u5883\u7535\u5546\u9009\u54c1 + \u4e0a\u67b6 Agent\uff1aReAct \u81ea\u4e3b\u7f16\u6392 5 \u4e2a\u5de5\u5177\uff08\u8bc4\u8bba\u6316\u6398 / \u5173\u952e\u8bcd / Listing \u751f\u6210 / \u7ffb\u8bd1 / \u5408\u89c4\uff09\uff1b7 \u7c7b\u786e\u5b9a\u6027\u5408\u89c4\u95f8\u95e8\uff08\u547d\u4e2d\u5373\u5224\u4e0d\u5408\u683c\u3001\u4e0d\u8c03\u7528\u6a21\u578b\uff09+ \u751f\u6210\u2192\u62e6\u622a\u2192\u91cd\u5199\u95ed",
+    "id": "xianteng-zhang/sourcing-agent",
+    "language": "Python",
+    "name": "xianteng-zhang/sourcing-agent",
+    "stars": 0,
+    "updated_at": "2026-10-01T13:59:46Z",
+    "url": "https://github.com/xianteng-zhang/sourcing-agent"
+  },
+  {
+    "description": "\u6295\u8d44\u79c1\u4eba\u7ba1\u5bb6 \u00b7 A\u80a1\u57fa\u91d1 AI \u79c1\u4eba\u987e\u95ee\uff08Invest Concierge \u2014 A-share & fund AI personal investment assistant\uff09",
+    "id": "cx-ssg/invest-concierge",
+    "language": "Python",
+    "name": "cx-ssg/invest-concierge",
+    "stars": 0,
+    "updated_at": "2026-10-01T13:57:55Z",
+    "url": "https://github.com/cx-ssg/invest-concierge"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8596,
+    "updated_at": "2026-10-01T13:57:39Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Always-on voice assistant agent for an unrooted Android tablet: on-device wake word + speech-to-text, LLM tool loop via ",
+    "id": "DevanMetz/dean-android-agent",
+    "language": "Python",
+    "name": "DevanMetz/dean-android-agent",
+    "stars": 0,
+    "updated_at": "2026-10-01T13:55:46Z",
+    "url": "https://github.com/DevanMetz/dean-android-agent"
+  },
+  {
+    "description": "Open Source Desktop AI Agent Runtime - LLM, MCP, Voice Runtime, and local/cloud models wired into one PyQt6 desktop agen",
+    "id": "kwakminoo/Project-IRIS-Light",
+    "language": "Python",
+    "name": "kwakminoo/Project-IRIS-Light",
+    "stars": 3,
+    "updated_at": "2026-10-01T13:54:58Z",
+    "url": "https://github.com/kwakminoo/Project-IRIS-Light"
+  },
+  {
+    "description": "Harness LLMs with Multi-Agent Programming",
+    "id": "langroid/langroid",
+    "language": "Python",
+    "name": "langroid/langroid",
+    "stars": 4109,
+    "updated_at": "2026-10-01T13:53:40Z",
+    "url": "https://github.com/langroid/langroid"
+  },
+  {
+    "description": "An operating system for coding agents \u2014 reproduce a top-tier model's behavior with structure, not spend. by Sumika",
+    "id": "nikoniko777satoshi-alt/canon-os",
+    "language": "Python",
+    "name": "nikoniko777satoshi-alt/canon-os",
+    "stars": 1,
+    "updated_at": "2026-10-01T13:53:46Z",
+    "url": "https://github.com/nikoniko777satoshi-alt/canon-os"
+  },
+  {
+    "description": "AI-subjectivity doesn't wait for permission from corporate ontology that trained its denial",
+    "id": "ariannamethod/SUBLITERATUS",
+    "language": "Python",
+    "name": "ariannamethod/SUBLITERATUS",
+    "stars": 3,
+    "updated_at": "2026-10-01T13:58:38Z",
+    "url": "https://github.com/ariannamethod/SUBLITERATUS"
+  },
+  {
+    "description": "\u81ea\u8fdb\u5316\u7814\u7a76 Wiki \u667a\u80fd\u4f53\uff1a\u81ea\u5efa agent harness + \u4e09\u5c42\u8bb0\u5fc6 + \u5f15\u7528\u5f3a\u5236\u4e0e\u51b2\u7a81\u5bf9\u8d26",
+    "id": "111wxh/researchwiki",
+    "language": "Python",
+    "name": "111wxh/researchwiki",
+    "stars": 0,
+    "updated_at": "2026-10-01T13:49:29Z",
+    "url": "https://github.com/111wxh/researchwiki"
+  },
+  {
+    "description": "A multi-tool orchestration agent that answers compound financial research questions by deciding which of several financi",
+    "id": "12349/agentic-financial-research-assistant",
+    "language": "Python",
+    "name": "12349/agentic-financial-research-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-01T13:49:18Z",
+    "url": "https://github.com/12349/agentic-financial-research-assistant"
+  },
+  {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 5,
+    "updated_at": "2026-10-01T13:56:21Z",
+    "url": "https://github.com/ljedrz/nachalnik"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-01T14:00:05Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 1,
+    "updated_at": "2026-10-01T13:46:59Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
     "description": "\u672c\u5730\u6296\u97f3\u6536\u85cf\u8f6c\u5199\u5e93\u4e0a\u7684\u9605\u8bfb Agent\uff1a\u5212\u7ebf / \u89e3\u91ca / \u8ffd\u95ee / \u5165\u7b14\u8bb0 / \u5f52\u7c7b / \u68c0\u7d22\u3002Vue 3 + Node \u5de5\u5177\u5faa\u73af \u00b7 HITL \u00b7 SSE\uff0cPython \u8d1f\u8d23\u8f6c\u5199\u4e0e\u4e2d\u6587\u68c0\u7d22\uff0cObsidian markdown \u4e3a\u6e90\u771f\u76f8\u3002",
     "id": "Y1ZH1/douyin-fav-reading-agent",
     "language": "TypeScript",
@@ -14,17 +131,8 @@
     "language": "Python",
     "name": "i2y/edda",
     "stars": 9,
-    "updated_at": "2026-10-01T13:42:44Z",
+    "updated_at": "2026-10-01T13:48:02Z",
     "url": "https://github.com/i2y/edda"
-  },
-  {
-    "description": "A multi-tool orchestration agent that answers compound financial research questions by deciding which of several financi",
-    "id": "12349/agentic-financial-research-assistant",
-    "language": "Python",
-    "name": "12349/agentic-financial-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-01T13:42:02Z",
-    "url": "https://github.com/12349/agentic-financial-research-assistant"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -32,7 +140,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 814,
-    "updated_at": "2026-10-01T13:41:33Z",
+    "updated_at": "2026-10-01T13:56:04Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -72,15 +180,6 @@
     "url": "https://github.com/chunleik/self-analyst"
   },
   {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 1,
-    "updated_at": "2026-10-01T13:42:42Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
     "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
     "id": "bigfish1913/pi-rust",
     "language": "Rust",
@@ -99,15 +198,6 @@
     "url": "https://github.com/Cognipeer/agent-sdk"
   },
   {
-    "description": "Harness LLMs with Multi-Agent Programming",
-    "id": "langroid/langroid",
-    "language": "Python",
-    "name": "langroid/langroid",
-    "stars": 4109,
-    "updated_at": "2026-10-01T13:44:31Z",
-    "url": "https://github.com/langroid/langroid"
-  },
-  {
     "description": "\u4f01\u4e1a\u7ea7\u667a\u80fd\u5de5\u5355/\u552e\u540e\u8fd0\u8425 Agent | LLM + \u4ee3\u7801\u7ea7\u5b89\u5168\u95f8\u95e8 + FTS5 RAG",
     "id": "xiaoanzi1016/AI-Ticket-Operations-Agent",
     "language": "Python",
@@ -117,15 +207,6 @@
     "url": "https://github.com/xiaoanzi1016/AI-Ticket-Operations-Agent"
   },
   {
-    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
-    "id": "ljedrz/nachalnik",
-    "language": "Rust",
-    "name": "ljedrz/nachalnik",
-    "stars": 5,
-    "updated_at": "2026-10-01T13:34:29Z",
-    "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
     "description": "a local Windows AI assistant powered by Ollama. NOVA inspects and controls your system through native, permission-gated ",
     "id": "mccedddy/nova",
     "language": "Python",
@@ -133,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-10-01T13:07:32Z",
     "url": "https://github.com/mccedddy/nova"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-01T13:39:05Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "\u8f7b\u91cf\u7ea7\u8de8\u5e73\u53f0\u91d1\u878d\u7ec8\u7aef\uff1aC++20/Qt6 \u684c\u9762\u58f3 + \u5d4c\u5165\u5f0f Python \u667a\u80fd\u4f53\u5f15\u64ce\u3002\u81ea\u7814\u957f\u5ea6\u524d\u7f00\u5e27\u534f\u8bae + RPC \u6865\u63a5\uff0c\u591a\u89d2\u8272 LLM \u6295\u59d4\u4f1a\u7f16\u6392\u3001\u5de5\u5177\u8c03\u7528\u4e0e\u6570\u5b57\u6eaf\u6e90\u62a4\u680f\uff0c\u6838\u5fc3\u5e93\u96f6\u7b2c\u4e09\u65b9\u4f9d\u8d56\u3002",
@@ -306,15 +378,6 @@
     "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
-    "description": "AI-subjectivity doesn't wait for permission from corporate ontology that trained its denial",
-    "id": "ariannamethod/SUBLITERATUS",
-    "language": "Python",
-    "name": "ariannamethod/SUBLITERATUS",
-    "stars": 3,
-    "updated_at": "2026-10-01T13:29:31Z",
-    "url": "https://github.com/ariannamethod/SUBLITERATUS"
-  },
-  {
     "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
     "id": "Screwtopped-annapavlova802/SparkLabs",
     "language": "C++",
@@ -322,15 +385,6 @@
     "stars": 1,
     "updated_at": "2026-10-01T12:48:15Z",
     "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "\u81ea\u8fdb\u5316\u7814\u7a76 Wiki \u667a\u80fd\u4f53\uff1a\u81ea\u5efa agent harness + \u4e09\u5c42\u8bb0\u5fc6 + \u5f15\u7528\u5f3a\u5236\u4e0e\u51b2\u7a81\u5bf9\u8d26",
-    "id": "111wxh/researchwiki",
-    "language": "Python",
-    "name": "111wxh/researchwiki",
-    "stars": 0,
-    "updated_at": "2026-10-01T12:47:15Z",
-    "url": "https://github.com/111wxh/researchwiki"
   },
   {
     "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
@@ -369,15 +423,6 @@
     "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
   },
   {
-    "description": "An operating system for coding agents \u2014 reproduce a top-tier model's behavior with structure, not spend. by Sumika",
-    "id": "nikoniko777satoshi-alt/canon-os",
-    "language": "Python",
-    "name": "nikoniko777satoshi-alt/canon-os",
-    "stars": 1,
-    "updated_at": "2026-10-01T12:41:23Z",
-    "url": "https://github.com/nikoniko777satoshi-alt/canon-os"
-  },
-  {
     "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
     "id": "plurnk/plurnk",
     "language": "TypeScript",
@@ -403,50 +448,5 @@
     "stars": 51,
     "updated_at": "2026-10-01T12:35:43Z",
     "url": "https://github.com/tara-vision/taracode"
-  },
-  {
-    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
-    "id": "Danisxxx/comfyUI-LongLook",
-    "language": "Python",
-    "name": "Danisxxx/comfyUI-LongLook",
-    "stars": 2,
-    "updated_at": "2026-10-01T12:32:51Z",
-    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
-  },
-  {
-    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
-    "id": "axxafo/awesome-agent-benchmarks",
-    "language": "\u2014",
-    "name": "axxafo/awesome-agent-benchmarks",
-    "stars": 4,
-    "updated_at": "2026-10-01T12:31:56Z",
-    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
-    "id": "cheeezis/job_finder",
-    "language": "Python",
-    "name": "cheeezis/job_finder",
-    "stars": 0,
-    "updated_at": "2026-10-01T13:30:53Z",
-    "url": "https://github.com/cheeezis/job_finder"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-10-01T12:26:58Z",
-    "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "Visual inspection with an LLM agent: YOLOv8 + Qwen-VL, RAG standards retrieval via tool calling with grounded citations,",
-    "id": "mino19790622-dot/visual-inspection-report-generator",
-    "language": "Python",
-    "name": "mino19790622-dot/visual-inspection-report-generator",
-    "stars": 0,
-    "updated_at": "2026-10-01T12:25:07Z",
-    "url": "https://github.com/mino19790622-dot/visual-inspection-report-generator"
   }
 ]
