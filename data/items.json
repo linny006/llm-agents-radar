@@ -1,12 +1,66 @@
 [
   {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4439,
+    "updated_at": "2026-10-01T15:29:46Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
+    "id": "AgentEra/Agently",
+    "language": "Python",
+    "name": "AgentEra/Agently",
+    "stars": 1655,
+    "updated_at": "2026-10-01T15:28:50Z",
+    "url": "https://github.com/AgentEra/Agently"
+  },
+  {
+    "description": "\u6295\u8d44\u79c1\u4eba\u7ba1\u5bb6 \u00b7 A\u80a1\u57fa\u91d1 AI \u79c1\u4eba\u987e\u95ee\uff08Invest Concierge \u2014 A-share & fund AI personal investment assistant\uff09",
+    "id": "cx-ssg/invest-concierge",
+    "language": "Python",
+    "name": "cx-ssg/invest-concierge",
+    "stars": 0,
+    "updated_at": "2026-10-01T15:28:45Z",
+    "url": "https://github.com/cx-ssg/invest-concierge"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-01T15:28:01Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-01T15:14:09Z",
+    "updated_at": "2026-10-01T15:20:16Z",
     "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 130,
+    "updated_at": "2026-10-01T15:19:01Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 1,
+    "updated_at": "2026-10-01T15:29:05Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "\u81ea\u8fdb\u5316\u7814\u7a76 Wiki \u667a\u80fd\u4f53\uff1a\u81ea\u5efa agent harness + \u4e09\u5c42\u8bb0\u5fc6 + \u5f15\u7528\u5f3a\u5236\u4e0e\u51b2\u7a81\u5bf9\u8d26",
@@ -18,21 +72,12 @@
     "url": "https://github.com/111wxh/researchwiki"
   },
   {
-    "description": "\u6295\u8d44\u79c1\u4eba\u7ba1\u5bb6 \u00b7 A\u80a1\u57fa\u91d1 AI \u79c1\u4eba\u987e\u95ee\uff08Invest Concierge \u2014 A-share & fund AI personal investment assistant\uff09",
-    "id": "cx-ssg/invest-concierge",
-    "language": "Python",
-    "name": "cx-ssg/invest-concierge",
-    "stars": 0,
-    "updated_at": "2026-10-01T15:09:30Z",
-    "url": "https://github.com/cx-ssg/invest-concierge"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 8600,
-    "updated_at": "2026-10-01T15:09:06Z",
+    "updated_at": "2026-10-01T15:30:06Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -68,7 +113,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-10-01T15:01:22Z",
+    "updated_at": "2026-10-01T15:23:35Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -90,21 +135,12 @@
     "url": "https://github.com/plurnk/plurnk-service"
   },
   {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 1,
-    "updated_at": "2026-10-01T15:11:47Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
     "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
     "id": "anchor-inference/daedalus",
     "language": "Python",
     "name": "anchor-inference/daedalus",
     "stars": 1,
-    "updated_at": "2026-10-01T14:49:42Z",
+    "updated_at": "2026-10-01T15:28:56Z",
     "url": "https://github.com/anchor-inference/daedalus"
   },
   {
@@ -142,15 +178,6 @@
     "stars": 6,
     "updated_at": "2026-10-01T14:45:32Z",
     "url": "https://github.com/kyleslight/shun"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4439,
-    "updated_at": "2026-10-01T15:10:09Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Document-grounded adaptive tutoring with bounded tool-use agents",
@@ -369,15 +396,6 @@
     "url": "https://github.com/helixml/helix"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-01T13:37:36Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
     "id": "chunleik/self-analyst",
     "language": "Java",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-01T13:05:27Z",
     "url": "https://github.com/zig333/ELAI-archive"
-  },
-  {
-    "description": "Your Android device, now home to an AI agent. One file, zero dependencies \u2014 it doesn't chat, it does the work: files, co",
-    "id": "lin356324798-hub/Sidekick",
-    "language": "Python",
-    "name": "lin356324798-hub/Sidekick",
-    "stars": 0,
-    "updated_at": "2026-10-01T13:05:27Z",
-    "url": "https://github.com/lin356324798-hub/Sidekick"
-  },
-  {
-    "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
-    "id": "brittewestafrican981/ComfyUI-YinChao",
-    "language": "Python",
-    "name": "brittewestafrican981/ComfyUI-YinChao",
-    "stars": 0,
-    "updated_at": "2026-10-01T13:02:30Z",
-    "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
   }
 ]
