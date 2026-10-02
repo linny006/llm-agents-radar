@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-02 19:45 UTC
+> ⏰ Last updated: 2026-10-02 20:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [wufufu770/d2d](https://github.com/wufufu770/d2d) | 4 | JavaScript | 2026-10-02 | 三环并行渗透测试 dsh 插件 — discovery/deep/creative 三环 + 独立 verify 闭环，Kuzu 图黑板共享状态，多 agent 自调度、按角色模型策略、自学习知识脑。仅用于授权安全测试（SRC/靶场/自有资 |
-| 2 | [dsswift/ion](https://github.com/dsswift/ion) | 3 | TypeScript | 2026-10-02 | Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions. |
-| 3 | [gptme/gptme](https://github.com/gptme/gptme) | 4441 | Python | 2026-10-02 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
-| 4 | [rugose-learnedprofession58/pi-dsh](https://github.com/rugose-learnedprofession58/pi-dsh) | 0 | TypeScript | 2026-10-02 | Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting |
-| 5 | [abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder](https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder) | 1 | JavaScript | 2026-10-02 | Build structured prompts with reference media for MiniMax H3 video model in ComfyUI. |
-| 6 | [passive-hotpepper515/area-checker-html-tool](https://github.com/passive-hotpepper515/area-checker-html-tool) | 0 | HTML | 2026-10-02 | Verify area values quickly with this web-based HTML calculator tool. |
-| 7 | [Blondieredistributed612/pocket-agent](https://github.com/Blondieredistributed612/pocket-agent) | 2 | Python | 2026-10-02 | Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte |
-| 8 | [grauwolf32/contractor](https://github.com/grauwolf32/contractor) | 2 | Go | 2026-10-02 | Application Security orchestration platform |
+| 1 | [dsswift/ion](https://github.com/dsswift/ion) | 3 | TypeScript | 2026-10-02 | Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions. |
+| 2 | [gptme/gptme](https://github.com/gptme/gptme) | 4441 | Python | 2026-10-02 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
+| 3 | [grauwolf32/contractor](https://github.com/grauwolf32/contractor) | 2 | Go | 2026-10-02 | Application Security orchestration platform |
+| 4 | [wufufu770/d2d](https://github.com/wufufu770/d2d) | 4 | JavaScript | 2026-10-02 | 三环并行渗透测试 dsh 插件 — discovery/deep/creative 三环 + 独立 verify 闭环，Kuzu 图黑板共享状态，多 agent 自调度、按角色模型策略、自学习知识脑。仅用于授权安全测试（SRC/靶场/自有资 |
+| 5 | [rugose-learnedprofession58/pi-dsh](https://github.com/rugose-learnedprofession58/pi-dsh) | 0 | TypeScript | 2026-10-02 | Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting |
+| 6 | [abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder](https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder) | 1 | JavaScript | 2026-10-02 | Build structured prompts with reference media for MiniMax H3 video model in ComfyUI. |
+| 7 | [passive-hotpepper515/area-checker-html-tool](https://github.com/passive-hotpepper515/area-checker-html-tool) | 0 | HTML | 2026-10-02 | Verify area values quickly with this web-based HTML calculator tool. |
+| 8 | [Blondieredistributed612/pocket-agent](https://github.com/Blondieredistributed612/pocket-agent) | 2 | Python | 2026-10-02 | Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte |
 | 9 | [bettersilvanus849/inner-coordinates](https://github.com/bettersilvanus849/inner-coordinates) | 1 | Shell | 2026-10-02 | Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s |
 | 10 | [Blaz742/web-pentest-lab](https://github.com/Blaz742/web-pentest-lab) | 0 | — | 2026-10-02 | Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets. |
 | 11 | [Elevated-homer201/prompt-gate](https://github.com/Elevated-homer201/prompt-gate) | 1 | — | 2026-10-02 | Filter LLM prompts and shield applications from data leakage using a specialized security gateway. |
