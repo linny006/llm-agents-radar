@@ -1,5 +1,59 @@
 [
   {
+    "description": "LLM-Agent \u00d7 UniversalSniffer \u2014 \u0438\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u044f MCP-\u0441\u043d\u0438\u0444\u0444\u0435\u0440\u0430 (16 tools), \u0430\u0433\u0435\u043d\u0442\u043e\u0432 \u0438 OAC-\u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u0430 + Next.js 16 live-\u0434\u0430\u0448\u0431\u043e\u0440\u0434 \u0441 \u0434",
+    "id": "mobstardos/llm-agent-sniffer-integration",
+    "language": "Python",
+    "name": "mobstardos/llm-agent-sniffer-integration",
+    "stars": 0,
+    "updated_at": "2026-10-02T16:13:00Z",
+    "url": "https://github.com/mobstardos/llm-agent-sniffer-integration"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-10-02T16:09:54Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 130,
+    "updated_at": "2026-10-02T16:05:45Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 49,
+    "updated_at": "2026-10-02T16:05:15Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 814,
+    "updated_at": "2026-10-02T16:04:39Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "\u673a\u6784\u7ea7\u81ea\u4e3b\u91cf\u5316\u4ea4\u6613\u64cd\u4f5c\u7cfb\u7edf\uff1a\u591a\u6a21\u578b\u535a\u5f08\u6295\u59d4\u4f1a \u00b7 7\u5c42\u884d\u751f\u54c1\u5fae\u7ed3\u6784\u5fae\u79ef\u5206 \u00b7 \u786e\u5b9a\u6027\u7269\u7406\u98ce\u63a7\u786c\u9632\u7ebf\uff5cInstitutional-Grade Autonomous Quant Trading OS: Adversarial Multi-Age",
+    "id": "0xethanq/astra-quant-agent",
+    "language": "Python",
+    "name": "0xethanq/astra-quant-agent",
+    "stars": 290,
+    "updated_at": "2026-10-02T16:01:44Z",
+    "url": "https://github.com/0xethanq/astra-quant-agent"
+  },
+  {
     "description": "\u5e26\u7b56\u7565\u9a8c\u8bc1\u7684 A \u80a1 LLM \u5206\u6790\u7cfb\u7edf \u2014\u2014 \u591a\u6e90\u964d\u7ea7 + \u5b9a\u65f6\u4efb\u52a1 + \u591a\u901a\u9053\u63a8\u9001\uff1b\u6838\u5fc3\u589e\u91cf\u662f\u53ef\u8bc1\u4f2a\u7684\u56de\u6d4b\u4e0e\u9a8c\u8bc1\u5c42\uff08\u672a\u6765\u51fd\u6570\u63a2\u6d4b / \u6837\u672c\u5185\u5916\u5207\u5206 / t\u68c0\u9a8c / \u57fa\u51c6\u5bf9\u6bd4\uff09",
     "id": "AandBorC/dsa-lite",
     "language": "Python",
@@ -23,7 +77,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-10-02T15:59:29Z",
+    "updated_at": "2026-10-02T16:09:23Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -32,7 +86,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-02T15:59:25Z",
+    "updated_at": "2026-10-02T16:11:23Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -59,26 +113,8 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4440,
-    "updated_at": "2026-10-02T15:59:14Z",
+    "updated_at": "2026-10-02T16:07:18Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 814,
-    "updated_at": "2026-10-02T15:52:45Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "\u673a\u6784\u7ea7\u81ea\u4e3b\u91cf\u5316\u4ea4\u6613\u64cd\u4f5c\u7cfb\u7edf\uff1a\u591a\u6a21\u578b\u535a\u5f08\u6295\u59d4\u4f1a \u00b7 7\u5c42\u884d\u751f\u54c1\u5fae\u7ed3\u6784\u5fae\u79ef\u5206 \u00b7 \u786e\u5b9a\u6027\u7269\u7406\u98ce\u63a7\u786c\u9632\u7ebf\uff5cInstitutional-Grade Autonomous Quant Trading OS: Adversarial Multi-Age",
-    "id": "0xethanq/astra-quant-agent",
-    "language": "Python",
-    "name": "0xethanq/astra-quant-agent",
-    "stars": 290,
-    "updated_at": "2026-10-02T15:49:18Z",
-    "url": "https://github.com/0xethanq/astra-quant-agent"
   },
   {
     "description": "Recoverable single coding agent for bounded repository repair",
@@ -135,15 +171,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "LLM-Agent \u00d7 UniversalSniffer \u2014 \u0438\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u044f MCP-\u0441\u043d\u0438\u0444\u0444\u0435\u0440\u0430 (16 tools), \u0430\u0433\u0435\u043d\u0442\u043e\u0432 \u0438 OAC-\u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u0430 + Next.js 16 live-\u0434\u0430\u0448\u0431\u043e\u0440\u0434 \u0441 \u0434",
-    "id": "mobstardos/llm-agent-sniffer-integration",
-    "language": "Python",
-    "name": "mobstardos/llm-agent-sniffer-integration",
-    "stars": 0,
-    "updated_at": "2026-10-02T15:24:51Z",
-    "url": "https://github.com/mobstardos/llm-agent-sniffer-integration"
-  },
-  {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -167,7 +194,7 @@
     "language": "Rust",
     "name": "eshanized/M31A",
     "stars": 8,
-    "updated_at": "2026-10-02T15:55:37Z",
+    "updated_at": "2026-10-02T16:12:39Z",
     "url": "https://github.com/eshanized/M31A"
   },
   {
@@ -232,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-02T14:47:31Z",
     "url": "https://github.com/gangg111/DeepSeek-Harness-Mobile"
-  },
-  {
-    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 49,
-    "updated_at": "2026-10-02T14:47:12Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
     "description": "Harness LLMs with Multi-Agent Programming",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-02T14:09:13Z",
     "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 28,
-    "updated_at": "2026-10-02T15:05:48Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-10-02T14:05:39Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
   }
 ]
