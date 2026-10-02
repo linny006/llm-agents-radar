@@ -1,12 +1,147 @@
 [
   {
+    "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
+    "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
+    "language": "\u2014",
+    "name": "mpardakaskon-boop/obsidian-llm-wiki-local",
+    "stars": 1,
+    "updated_at": "2026-10-02T14:15:11Z",
+    "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
+  },
+  {
+    "description": "Two MIT patches for Nous Research Hermes: stop busy-queue messages merging into one jumbled turn, and optionally run sel",
+    "id": "EauDoon/hermes-parallel-followups",
+    "language": "Python",
+    "name": "EauDoon/hermes-parallel-followups",
+    "stars": 0,
+    "updated_at": "2026-10-02T14:14:22Z",
+    "url": "https://github.com/EauDoon/hermes-parallel-followups"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 196,
+    "updated_at": "2026-10-02T14:12:41Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4441,
-    "updated_at": "2026-10-02T13:59:55Z",
+    "updated_at": "2026-10-02T14:14:25Z",
     "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
+    "id": "HELLOCODINGTR/AgentForge",
+    "language": "\u2014",
+    "name": "HELLOCODINGTR/AgentForge",
+    "stars": 1,
+    "updated_at": "2026-10-02T14:10:21Z",
+    "url": "https://github.com/HELLOCODINGTR/AgentForge"
+  },
+  {
+    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
+    "id": "strobilevitellus470/argus-ai",
+    "language": "Python",
+    "name": "strobilevitellus470/argus-ai",
+    "stars": 1,
+    "updated_at": "2026-10-02T14:09:13Z",
+    "url": "https://github.com/strobilevitellus470/argus-ai"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 28,
+    "updated_at": "2026-10-02T14:07:37Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
+    "id": "juandavidru4641/dsplab",
+    "language": "JavaScript",
+    "name": "juandavidru4641/dsplab",
+    "stars": 0,
+    "updated_at": "2026-10-02T14:05:39Z",
+    "url": "https://github.com/juandavidru4641/dsplab"
+  },
+  {
+    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
+    "id": "laoxs2002/genai-agentes",
+    "language": "Jupyter Notebook",
+    "name": "laoxs2002/genai-agentes",
+    "stars": 0,
+    "updated_at": "2026-10-02T14:05:11Z",
+    "url": "https://github.com/laoxs2002/genai-agentes"
+  },
+  {
+    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
+    "id": "heba-ramdan/harness",
+    "language": "TypeScript",
+    "name": "heba-ramdan/harness",
+    "stars": 1,
+    "updated_at": "2026-10-02T14:03:02Z",
+    "url": "https://github.com/heba-ramdan/harness"
+  },
+  {
+    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
+    "id": "Ronit0p/AutoGod",
+    "language": "Java",
+    "name": "Ronit0p/AutoGod",
+    "stars": 0,
+    "updated_at": "2026-10-02T14:02:48Z",
+    "url": "https://github.com/Ronit0p/AutoGod"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-02T14:02:41Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 569,
+    "updated_at": "2026-10-02T14:01:11Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "Cross-platform Rust computer-use MCP server for macOS and Windows: AX/UIA, screenshots, OCR, pointer and keyboard input,",
+    "id": "bigduu/Nova",
+    "language": "Rust",
+    "name": "bigduu/Nova",
+    "stars": 22,
+    "updated_at": "2026-10-02T14:10:28Z",
+    "url": "https://github.com/bigduu/Nova"
+  },
+  {
+    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
+    "id": "lukky262/ARE",
+    "language": "\u2014",
+    "name": "lukky262/ARE",
+    "stars": 1,
+    "updated_at": "2026-10-02T14:00:40Z",
+    "url": "https://github.com/lukky262/ARE"
+  },
+  {
+    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
+    "id": "haibingzhao/easyai",
+    "language": "Kotlin",
+    "name": "haibingzhao/easyai",
+    "stars": 1,
+    "updated_at": "2026-10-02T14:00:21Z",
+    "url": "https://github.com/haibingzhao/easyai"
   },
   {
     "description": "",
@@ -43,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-10-02T13:51:07Z",
     "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
-  },
-  {
-    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 569,
-    "updated_at": "2026-10-02T13:49:21Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
   },
   {
     "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
@@ -122,7 +248,7 @@
     "language": "Python",
     "name": "anchor-inference/daedalus",
     "stars": 1,
-    "updated_at": "2026-10-02T13:42:44Z",
+    "updated_at": "2026-10-02T14:02:06Z",
     "url": "https://github.com/anchor-inference/daedalus"
   },
   {
@@ -196,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-10-02T13:27:26Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Cross-platform Rust computer-use MCP server for macOS and Windows: AX/UIA, screenshots, OCR, pointer and keyboard input,",
-    "id": "bigduu/Nova",
-    "language": "Rust",
-    "name": "bigduu/Nova",
-    "stars": 22,
-    "updated_at": "2026-10-02T13:50:41Z",
-    "url": "https://github.com/bigduu/Nova"
   },
   {
     "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
@@ -329,124 +446,7 @@
     "language": "Python",
     "name": "woojune511/patchloop-agent",
     "stars": 0,
-    "updated_at": "2026-10-02T12:56:07Z",
+    "updated_at": "2026-10-02T14:07:55Z",
     "url": "https://github.com/woojune511/patchloop-agent"
-  },
-  {
-    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
-    "id": "AceGuru-mjh/Android-Guru-Agent",
-    "language": "Kotlin",
-    "name": "AceGuru-mjh/Android-Guru-Agent",
-    "stars": 3,
-    "updated_at": "2026-10-02T13:00:03Z",
-    "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-02T12:31:48Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 28,
-    "updated_at": "2026-10-02T12:25:08Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
-    "id": "kyleslight/shun",
-    "language": "TypeScript",
-    "name": "kyleslight/shun",
-    "stars": 6,
-    "updated_at": "2026-10-02T12:25:00Z",
-    "url": "https://github.com/kyleslight/shun"
-  },
-  {
-    "description": "\u673a\u6784\u7ea7\u81ea\u4e3b\u91cf\u5316\u4ea4\u6613\u64cd\u4f5c\u7cfb\u7edf\uff1a\u591a\u6a21\u578b\u535a\u5f08\u6295\u59d4\u4f1a \u00b7 7\u5c42\u884d\u751f\u54c1\u5fae\u7ed3\u6784\u5fae\u79ef\u5206 \u00b7 \u786e\u5b9a\u6027\u7269\u7406\u98ce\u63a7\u786c\u9632\u7ebf\uff5cInstitutional-Grade Autonomous Quant Trading OS: Adversarial Multi-Age",
-    "id": "0xethanq/astra-quant-agent",
-    "language": "Python",
-    "name": "0xethanq/astra-quant-agent",
-    "stars": 286,
-    "updated_at": "2026-10-02T12:24:44Z",
-    "url": "https://github.com/0xethanq/astra-quant-agent"
-  },
-  {
-    "description": "AI-orchestrated job search pipeline: scrapes 5 UA job boards, uses Claude API to score matches & classify emails, writes",
-    "id": "VoroshylovV/job-search-automation-pipeline",
-    "language": "Python",
-    "name": "VoroshylovV/job-search-automation-pipeline",
-    "stars": 1,
-    "updated_at": "2026-10-02T12:19:15Z",
-    "url": "https://github.com/VoroshylovV/job-search-automation-pipeline"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 3,
-    "updated_at": "2026-10-02T12:16:32Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-10-02T12:14:48Z",
-    "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Agent Interface Discovery ",
-    "id": "agentcommunity/agent-identity-discovery",
-    "language": "TypeScript",
-    "name": "agentcommunity/agent-identity-discovery",
-    "stars": 48,
-    "updated_at": "2026-10-02T12:13:54Z",
-    "url": "https://github.com/agentcommunity/agent-identity-discovery"
-  },
-  {
-    "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
-    "id": "rugose-learnedprofession58/pi-dsh",
-    "language": "TypeScript",
-    "name": "rugose-learnedprofession58/pi-dsh",
-    "stars": 0,
-    "updated_at": "2026-10-02T12:13:42Z",
-    "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
-  },
-  {
-    "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
-    "id": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
-    "language": "JavaScript",
-    "name": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
-    "stars": 1,
-    "updated_at": "2026-10-02T12:12:47Z",
-    "url": "https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder"
-  },
-  {
-    "description": "Verify area values quickly with this web-based HTML calculator tool.",
-    "id": "passive-hotpepper515/area-checker-html-tool",
-    "language": "HTML",
-    "name": "passive-hotpepper515/area-checker-html-tool",
-    "stars": 0,
-    "updated_at": "2026-10-02T12:12:32Z",
-    "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
-  },
-  {
-    "description": "Lean, extended fork of Nous Research's Hermes Agent \u2014 free model suite, connectors, and ~20 perf fixes. Upstream credite",
-    "id": "Chensihakniroth/anakot-agent-v1",
-    "language": "Python",
-    "name": "Chensihakniroth/anakot-agent-v1",
-    "stars": 0,
-    "updated_at": "2026-10-02T12:13:57Z",
-    "url": "https://github.com/Chensihakniroth/anakot-agent-v1"
   }
 ]
