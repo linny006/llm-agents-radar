@@ -1,11 +1,65 @@
 [
   {
+    "description": "A multi-provider desktop agent IDE for tool-using local and cloud models.",
+    "id": "Poyraxx/ForgePilot",
+    "language": "JavaScript",
+    "name": "Poyraxx/ForgePilot",
+    "stars": 8,
+    "updated_at": "2026-10-02T12:56:08Z",
+    "url": "https://github.com/Poyraxx/ForgePilot"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-10-02T12:52:58Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "\u4e91\u5f00 Yunkai \u00b7 \u672c\u5730\u624b\u673a AI Agent\u2014\u2014\u80fd\u770b\u5c4f\u5e55\u3001\u80fd\u52a8\u624b\u3001\u6709\u957f\u671f\u8bb0\u5fc6\uff0c\u6570\u636e\u5168\u5b58\u672c\u673a\u3002Android + HarmonyOS NEXT \u53cc\u7aef\u539f\u751f\u5b9e\u73b0\u3002A local-first phone AI agent.",
+    "id": "2021291696/yunkai",
+    "language": "Kotlin",
+    "name": "2021291696/yunkai",
+    "stars": 1,
+    "updated_at": "2026-10-02T12:52:33Z",
+    "url": "https://github.com/2021291696/yunkai"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 21,
+    "updated_at": "2026-10-02T12:52:31Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-10-02T12:51:24Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Anime & manga recommendation agent over a Neo4j knowledge graph built from MyAnimeList. Local LLMs (gpt-oss-20b via MLX)",
+    "id": "jovempedr0/GraphRAG-MAL",
+    "language": "Python",
+    "name": "jovempedr0/GraphRAG-MAL",
+    "stars": 1,
+    "updated_at": "2026-10-02T12:50:31Z",
+    "url": "https://github.com/jovempedr0/GraphRAG-MAL"
+  },
+  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4441,
-    "updated_at": "2026-10-02T12:40:43Z",
+    "updated_at": "2026-10-02T12:53:44Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "woojune511/patchloop-agent",
     "stars": 0,
-    "updated_at": "2026-10-02T12:40:34Z",
+    "updated_at": "2026-10-02T12:56:07Z",
     "url": "https://github.com/woojune511/patchloop-agent"
   },
   {
@@ -23,7 +77,7 @@
     "language": "Kotlin",
     "name": "AceGuru-mjh/Android-Guru-Agent",
     "stars": 3,
-    "updated_at": "2026-10-02T12:37:36Z",
+    "updated_at": "2026-10-02T12:46:37Z",
     "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent"
   },
   {
@@ -41,7 +95,7 @@
     "language": "Rust",
     "name": "bigduu/Nova",
     "stars": 22,
-    "updated_at": "2026-10-02T12:42:11Z",
+    "updated_at": "2026-10-02T12:54:48Z",
     "url": "https://github.com/bigduu/Nova"
   },
   {
@@ -50,7 +104,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-10-02T12:44:47Z",
+    "updated_at": "2026-10-02T12:50:52Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -61,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-02T12:31:48Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "A multi-provider desktop agent IDE for tool-using local and cloud models.",
-    "id": "Poyraxx/ForgePilot",
-    "language": "JavaScript",
-    "name": "Poyraxx/ForgePilot",
-    "stars": 8,
-    "updated_at": "2026-10-02T12:26:26Z",
-    "url": "https://github.com/Poyraxx/ForgePilot"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -97,24 +142,6 @@
     "stars": 284,
     "updated_at": "2026-10-02T12:24:44Z",
     "url": "https://github.com/0xethanq/astra-quant-agent"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 21,
-    "updated_at": "2026-10-02T12:21:28Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-10-02T12:23:41Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "AI-orchestrated job search pipeline: scrapes 5 UA job boards, uses Claude API to score matches & classify emails, writes",
@@ -214,15 +241,6 @@
     "stars": 4110,
     "updated_at": "2026-10-02T12:09:36Z",
     "url": "https://github.com/langroid/langroid"
-  },
-  {
-    "description": "Anime & manga recommendation agent over a Neo4j knowledge graph built from MyAnimeList. Local LLMs (gpt-oss-20b via MLX)",
-    "id": "jovempedr0/GraphRAG-MAL",
-    "language": "Python",
-    "name": "jovempedr0/GraphRAG-MAL",
-    "stars": 1,
-    "updated_at": "2026-10-02T12:08:15Z",
-    "url": "https://github.com/jovempedr0/GraphRAG-MAL"
   },
   {
     "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-02T11:37:47Z",
     "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
-    "id": "eshanized/M31A",
-    "language": "Rust",
-    "name": "eshanized/M31A",
-    "stars": 8,
-    "updated_at": "2026-10-02T12:42:56Z",
-    "url": "https://github.com/eshanized/M31A"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-10-02T11:32:01Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
   }
 ]
