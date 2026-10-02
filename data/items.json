@@ -1,11 +1,65 @@
 [
   {
+    "description": "Portable nightly memory-consolidation pipeline (dreaming) for Hermes Agent: cron prompt template, memory-consolidation s",
+    "id": "yanjingzhaisun/hermes-dreaming-plugin",
+    "language": "Python",
+    "name": "yanjingzhaisun/hermes-dreaming-plugin",
+    "stars": 0,
+    "updated_at": "2026-10-02T00:14:58Z",
+    "url": "https://github.com/yanjingzhaisun/hermes-dreaming-plugin"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-02T00:13:16Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Anime & manga recommendation agent over a Neo4j knowledge graph built from MyAnimeList. Local LLMs (gpt-oss-20b via MLX)",
+    "id": "jovempedr0/GraphRAG-MAL",
+    "language": "Python",
+    "name": "jovempedr0/GraphRAG-MAL",
+    "stars": 1,
+    "updated_at": "2026-10-02T00:11:05Z",
+    "url": "https://github.com/jovempedr0/GraphRAG-MAL"
+  },
+  {
+    "description": "Vector search that ships as a file. Compile a corpus into one self-contained, hash-verified .pikelet \u2014 search it anywher",
+    "id": "mcn92/pikelet",
+    "language": "JavaScript",
+    "name": "mcn92/pikelet",
+    "stars": 2,
+    "updated_at": "2026-10-02T00:09:20Z",
+    "url": "https://github.com/mcn92/pikelet"
+  },
+  {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 3,
+    "updated_at": "2026-10-02T00:06:54Z",
+    "url": "https://github.com/plurnk/plurnk"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-10-02T00:15:03Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-02T00:00:02Z",
+    "updated_at": "2026-10-02T00:15:14Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -14,7 +68,7 @@
     "language": "TypeScript",
     "name": "ximing/vital",
     "stars": 3,
-    "updated_at": "2026-10-01T23:56:59Z",
+    "updated_at": "2026-10-02T00:02:33Z",
     "url": "https://github.com/ximing/vital"
   },
   {
@@ -34,15 +88,6 @@
     "stars": 340,
     "updated_at": "2026-10-01T23:53:33Z",
     "url": "https://github.com/monocle2ai/monocle"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-01T23:52:54Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -126,15 +171,6 @@
     "url": "https://github.com/EpsteinF1les/tts"
   },
   {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-10-01T23:47:17Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
     "id": "kangkukjin/indiebizOS",
     "language": "Python",
@@ -185,7 +221,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4439,
-    "updated_at": "2026-10-01T23:55:47Z",
+    "updated_at": "2026-10-02T00:08:47Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-01T23:03:11Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 130,
-    "updated_at": "2026-10-01T22:59:24Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
-    "id": "plurnk/plurnk",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk",
-    "stars": 3,
-    "updated_at": "2026-10-01T22:53:44Z",
-    "url": "https://github.com/plurnk/plurnk"
-  },
-  {
-    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
-    "id": "eshanized/M31A",
-    "language": "Rust",
-    "name": "eshanized/M31A",
-    "stars": 8,
-    "updated_at": "2026-10-01T22:51:04Z",
-    "url": "https://github.com/eshanized/M31A"
-  },
-  {
-    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
-    "id": "expectedparrot/edsl",
-    "language": "Python",
-    "name": "expectedparrot/edsl",
-    "stars": 502,
-    "updated_at": "2026-10-01T22:45:10Z",
-    "url": "https://github.com/expectedparrot/edsl"
   }
 ]
