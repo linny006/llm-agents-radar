@@ -1,12 +1,21 @@
 [
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
+    "description": "Policy-gated IRIS management portal",
+    "id": "AntonYartsev/iris-docket",
+    "language": "Vue",
+    "name": "AntonYartsev/iris-docket",
     "stars": 0,
-    "updated_at": "2026-10-02T20:06:43Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+    "updated_at": "2026-10-02T20:20:10Z",
+    "url": "https://github.com/AntonYartsev/iris-docket"
+  },
+  {
+    "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
+    "id": "jack-h-park/pm-intelligence-engine",
+    "language": "Python",
+    "name": "jack-h-park/pm-intelligence-engine",
+    "stars": 0,
+    "updated_at": "2026-10-02T20:19:11Z",
+    "url": "https://github.com/jack-h-park/pm-intelligence-engine"
   },
   {
     "description": "Application Security orchestration platform",
@@ -14,8 +23,17 @@
     "language": "Go",
     "name": "grauwolf32/contractor",
     "stars": 2,
-    "updated_at": "2026-10-02T20:05:31Z",
+    "updated_at": "2026-10-02T20:16:08Z",
     "url": "https://github.com/grauwolf32/contractor"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-02T20:06:43Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "A small, plantable (parasitic but only in a good sense kefir for eternity in a way) culture for development through self",
@@ -41,7 +59,7 @@
     "language": "Rust",
     "name": "ljedrz/nachalnik",
     "stars": 5,
-    "updated_at": "2026-10-02T20:04:06Z",
+    "updated_at": "2026-10-02T20:22:01Z",
     "url": "https://github.com/ljedrz/nachalnik"
   },
   {
@@ -58,8 +76,8 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 8626,
-    "updated_at": "2026-10-02T19:53:43Z",
+    "stars": 8627,
+    "updated_at": "2026-10-02T20:26:11Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -68,7 +86,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4441,
-    "updated_at": "2026-10-02T20:08:21Z",
+    "updated_at": "2026-10-02T20:26:31Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -419,7 +437,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-02T20:11:53Z",
+    "updated_at": "2026-10-02T20:27:29Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-02T18:18:33Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Deterministic orchestration, execution assurance, and quota-aware continuity runtime for GLM coding agents in ZCode",
-    "id": "Chengy257/glm-conductor",
-    "language": "Python",
-    "name": "Chengy257/glm-conductor",
-    "stars": 0,
-    "updated_at": "2026-10-02T18:19:58Z",
-    "url": "https://github.com/Chengy257/glm-conductor"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-10-02T18:09:18Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   }
 ]
