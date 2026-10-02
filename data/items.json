@@ -1,5 +1,176 @@
 [
   {
+    "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
+    "id": "rugose-learnedprofession58/pi-dsh",
+    "language": "TypeScript",
+    "name": "rugose-learnedprofession58/pi-dsh",
+    "stars": 0,
+    "updated_at": "2026-10-02T14:28:59Z",
+    "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
+  },
+  {
+    "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
+    "id": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
+    "language": "JavaScript",
+    "name": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
+    "stars": 1,
+    "updated_at": "2026-10-02T14:27:47Z",
+    "url": "https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder"
+  },
+  {
+    "description": "Verify area values quickly with this web-based HTML calculator tool.",
+    "id": "passive-hotpepper515/area-checker-html-tool",
+    "language": "HTML",
+    "name": "passive-hotpepper515/area-checker-html-tool",
+    "stars": 0,
+    "updated_at": "2026-10-02T14:27:21Z",
+    "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir for eternity in a way) culture for development through self",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 1,
+    "updated_at": "2026-10-02T14:26:48Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "\u628a\u957f\u5bf9\u8bdd\u7684\u91cd\u590d\u8ba1\u8d39\u780d\u6389\u4e00\u534a\uff0c\u5e76\u7ed9\u6a21\u578b\u914d\u4e00\u540d\u53ea\u8bfb\u8c03\u67e5\u5458\uff1a\u5148\u6838\u5b9e\uff0c\u540e\u52a8\u624b\u3002\u9762\u5411 DeepSeek Harness \u7684\u4e0a\u4e0b\u6587\u538b\u7f29\u4e0e\u5916\u7f6e\u63a8\u7406\u63d2\u4ef6\uff08MIT\uff09\u3002",
+    "id": "ScreamingMaggot/rcs-context",
+    "language": "JavaScript",
+    "name": "ScreamingMaggot/rcs-context",
+    "stars": 1,
+    "updated_at": "2026-10-02T14:26:38Z",
+    "url": "https://github.com/ScreamingMaggot/rcs-context"
+  },
+  {
+    "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
+    "id": "Blondieredistributed612/pocket-agent",
+    "language": "Python",
+    "name": "Blondieredistributed612/pocket-agent",
+    "stars": 2,
+    "updated_at": "2026-10-02T14:25:27Z",
+    "url": "https://github.com/Blondieredistributed612/pocket-agent"
+  },
+  {
+    "description": "Check your MCP servers for tool poisoning and rug pulls, and benchmark MCP security tools under verifiable conditions.",
+    "id": "Manishmaurya89/mcp-guardbench",
+    "language": "Python",
+    "name": "Manishmaurya89/mcp-guardbench",
+    "stars": 1,
+    "updated_at": "2026-10-02T14:24:08Z",
+    "url": "https://github.com/Manishmaurya89/mcp-guardbench"
+  },
+  {
+    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
+    "id": "AceGuru-mjh/Android-Guru-Agent",
+    "language": "Kotlin",
+    "name": "AceGuru-mjh/Android-Guru-Agent",
+    "stars": 3,
+    "updated_at": "2026-10-02T14:23:15Z",
+    "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 196,
+    "updated_at": "2026-10-02T14:22:22Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
+    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 569,
+    "updated_at": "2026-10-02T14:22:02Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8619,
+    "updated_at": "2026-10-02T14:22:00Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "\u4e91\u5f00 Yunkai \u00b7 \u672c\u5730\u624b\u673a AI Agent\u2014\u2014\u80fd\u770b\u5c4f\u5e55\u3001\u80fd\u52a8\u624b\u3001\u6709\u957f\u671f\u8bb0\u5fc6\uff0c\u6570\u636e\u5168\u5b58\u672c\u673a\u3002Android + HarmonyOS NEXT \u53cc\u7aef\u539f\u751f\u5b9e\u73b0\u3002A local-first phone AI agent.",
+    "id": "2021291696/yunkai",
+    "language": "Kotlin",
+    "name": "2021291696/yunkai",
+    "stars": 1,
+    "updated_at": "2026-10-02T14:21:01Z",
+    "url": "https://github.com/2021291696/yunkai"
+  },
+  {
+    "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
+    "id": "bettersilvanus849/inner-coordinates",
+    "language": "Shell",
+    "name": "bettersilvanus849/inner-coordinates",
+    "stars": 1,
+    "updated_at": "2026-10-02T14:20:56Z",
+    "url": "https://github.com/bettersilvanus849/inner-coordinates"
+  },
+  {
+    "description": "A provider-agnostic coding-agent harness for autonomous Python repository bug repair, with Docker verification and repro",
+    "id": "ztsstz711-afk/RepoFix-Harness",
+    "language": "Python",
+    "name": "ztsstz711-afk/RepoFix-Harness",
+    "stars": 0,
+    "updated_at": "2026-10-02T14:20:35Z",
+    "url": "https://github.com/ztsstz711-afk/RepoFix-Harness"
+  },
+  {
+    "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
+    "id": "Blaz742/web-pentest-lab",
+    "language": "\u2014",
+    "name": "Blaz742/web-pentest-lab",
+    "stars": 0,
+    "updated_at": "2026-10-02T14:19:35Z",
+    "url": "https://github.com/Blaz742/web-pentest-lab"
+  },
+  {
+    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
+    "id": "Elevated-homer201/prompt-gate",
+    "language": "\u2014",
+    "name": "Elevated-homer201/prompt-gate",
+    "stars": 1,
+    "updated_at": "2026-10-02T14:19:04Z",
+    "url": "https://github.com/Elevated-homer201/prompt-gate"
+  },
+  {
+    "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
+    "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
+    "language": "Python",
+    "name": "Furrowed-subphylumurochorda108/kimi-K2.6",
+    "stars": 3,
+    "updated_at": "2026-10-02T14:16:15Z",
+    "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 814,
+    "updated_at": "2026-10-02T14:28:49Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "\u628a\u5b98\u65b9\u6781\u7b80\u63d0\u793a\u8bcd\u4e0e PTC \u7f16\u6392\u7ec4\u5408\u8d77\u6765\uff0c\u63d0\u4f9b\u5b8c\u6574\u63d2\u4ef6\u5de5\u5177\u548c Windows \u7ec8\u7aef\u9002\u914d\u3002",
+    "id": "STARDUSTLC666/dsh-minimal-ptc",
+    "language": "JavaScript",
+    "name": "STARDUSTLC666/dsh-minimal-ptc",
+    "stars": 1,
+    "updated_at": "2026-10-02T14:15:59Z",
+    "url": "https://github.com/STARDUSTLC666/dsh-minimal-ptc"
+  },
+  {
     "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
     "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
     "language": "\u2014",
@@ -18,21 +189,12 @@
     "url": "https://github.com/EauDoon/hermes-parallel-followups"
   },
   {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 196,
-    "updated_at": "2026-10-02T14:12:41Z",
-    "url": "https://github.com/yologdev/yoagent"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4441,
-    "updated_at": "2026-10-02T14:14:25Z",
+    "updated_at": "2026-10-02T14:26:49Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -108,15 +270,6 @@
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
-    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 569,
-    "updated_at": "2026-10-02T14:01:11Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
-  },
-  {
     "description": "Cross-platform Rust computer-use MCP server for macOS and Windows: AX/UIA, screenshots, OCR, pointer and keyboard input,",
     "id": "bigduu/Nova",
     "language": "Rust",
@@ -169,6 +322,15 @@
     "stars": 1,
     "updated_at": "2026-10-02T13:54:58Z",
     "url": "https://github.com/muhzars/Agent.cpp"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 6093,
+    "updated_at": "2026-10-02T13:51:25Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
@@ -286,167 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-02T13:36:25Z",
     "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8619,
-    "updated_at": "2026-10-02T13:36:21Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 3,
-    "updated_at": "2026-10-02T13:33:28Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-10-02T13:29:59Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-10-02T13:27:26Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
-    "id": "eshanized/M31A",
-    "language": "Rust",
-    "name": "eshanized/M31A",
-    "stars": 8,
-    "updated_at": "2026-10-02T13:18:45Z",
-    "url": "https://github.com/eshanized/M31A"
-  },
-  {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 1,
-    "updated_at": "2026-10-02T13:38:25Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "A Gemini agent with integrated tools, context token optimization, loop-prevention logic, and an interactive Streamlit/SQ",
-    "id": "pragamdt/gemini-agent-trace-and-dashboard",
-    "language": "Python",
-    "name": "pragamdt/gemini-agent-trace-and-dashboard",
-    "stars": 0,
-    "updated_at": "2026-10-02T13:17:20Z",
-    "url": "https://github.com/pragamdt/gemini-agent-trace-and-dashboard"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-10-02T13:15:41Z",
-    "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-10-02T13:17:45Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 21,
-    "updated_at": "2026-10-02T13:09:36Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 78,
-    "updated_at": "2026-10-02T13:08:06Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-02T13:02:10Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "A multi-provider desktop agent IDE for tool-using local and cloud models.",
-    "id": "Poyraxx/ForgePilot",
-    "language": "JavaScript",
-    "name": "Poyraxx/ForgePilot",
-    "stars": 8,
-    "updated_at": "2026-10-02T13:01:31Z",
-    "url": "https://github.com/Poyraxx/ForgePilot"
-  },
-  {
-    "description": "Observable, auditable Slay the Spire 2 agent with an OpenAI-compatible model interface",
-    "id": "optima-xu/SpireMind",
-    "language": "Python",
-    "name": "optima-xu/SpireMind",
-    "stars": 0,
-    "updated_at": "2026-10-02T12:58:21Z",
-    "url": "https://github.com/optima-xu/SpireMind"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-10-02T12:52:58Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "\u4e91\u5f00 Yunkai \u00b7 \u672c\u5730\u624b\u673a AI Agent\u2014\u2014\u80fd\u770b\u5c4f\u5e55\u3001\u80fd\u52a8\u624b\u3001\u6709\u957f\u671f\u8bb0\u5fc6\uff0c\u6570\u636e\u5168\u5b58\u672c\u673a\u3002Android + HarmonyOS NEXT \u53cc\u7aef\u539f\u751f\u5b9e\u73b0\u3002A local-first phone AI agent.",
-    "id": "2021291696/yunkai",
-    "language": "Kotlin",
-    "name": "2021291696/yunkai",
-    "stars": 1,
-    "updated_at": "2026-10-02T12:52:33Z",
-    "url": "https://github.com/2021291696/yunkai"
-  },
-  {
-    "description": "Anime & manga recommendation agent over a Neo4j knowledge graph built from MyAnimeList. Local LLMs (gpt-oss-20b via MLX)",
-    "id": "jovempedr0/GraphRAG-MAL",
-    "language": "Python",
-    "name": "jovempedr0/GraphRAG-MAL",
-    "stars": 1,
-    "updated_at": "2026-10-02T12:50:31Z",
-    "url": "https://github.com/jovempedr0/GraphRAG-MAL"
-  },
-  {
-    "description": "Recoverable single coding agent for bounded repository repair",
-    "id": "woojune511/patchloop-agent",
-    "language": "Python",
-    "name": "woojune511/patchloop-agent",
-    "stars": 0,
-    "updated_at": "2026-10-02T14:07:55Z",
-    "url": "https://github.com/woojune511/patchloop-agent"
   }
 ]
