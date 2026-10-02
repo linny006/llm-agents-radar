@@ -1,5 +1,149 @@
 [
   {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-10-02T12:14:48Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "Agent Interface Discovery ",
+    "id": "agentcommunity/agent-identity-discovery",
+    "language": "TypeScript",
+    "name": "agentcommunity/agent-identity-discovery",
+    "stars": 48,
+    "updated_at": "2026-10-02T12:13:54Z",
+    "url": "https://github.com/agentcommunity/agent-identity-discovery"
+  },
+  {
+    "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
+    "id": "rugose-learnedprofession58/pi-dsh",
+    "language": "TypeScript",
+    "name": "rugose-learnedprofession58/pi-dsh",
+    "stars": 0,
+    "updated_at": "2026-10-02T12:13:42Z",
+    "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
+  },
+  {
+    "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
+    "id": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
+    "language": "JavaScript",
+    "name": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
+    "stars": 1,
+    "updated_at": "2026-10-02T12:12:47Z",
+    "url": "https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder"
+  },
+  {
+    "description": "Verify area values quickly with this web-based HTML calculator tool.",
+    "id": "passive-hotpepper515/area-checker-html-tool",
+    "language": "HTML",
+    "name": "passive-hotpepper515/area-checker-html-tool",
+    "stars": 0,
+    "updated_at": "2026-10-02T12:12:32Z",
+    "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
+  },
+  {
+    "description": "Lean, extended fork of Nous Research's Hermes Agent \u2014 free model suite, connectors, and ~20 perf fixes. Upstream credite",
+    "id": "Chensihakniroth/anakot-agent-v1",
+    "language": "Python",
+    "name": "Chensihakniroth/anakot-agent-v1",
+    "stars": 0,
+    "updated_at": "2026-10-02T12:13:57Z",
+    "url": "https://github.com/Chensihakniroth/anakot-agent-v1"
+  },
+  {
+    "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
+    "id": "Blondieredistributed612/pocket-agent",
+    "language": "Python",
+    "name": "Blondieredistributed612/pocket-agent",
+    "stars": 2,
+    "updated_at": "2026-10-02T12:11:10Z",
+    "url": "https://github.com/Blondieredistributed612/pocket-agent"
+  },
+  {
+    "description": "Anime & manga recommendation agent over a Neo4j knowledge graph built from MyAnimeList. Local LLMs (gpt-oss-20b via MLX)",
+    "id": "jovempedr0/GraphRAG-MAL",
+    "language": "Python",
+    "name": "jovempedr0/GraphRAG-MAL",
+    "stars": 1,
+    "updated_at": "2026-10-02T12:08:15Z",
+    "url": "https://github.com/jovempedr0/GraphRAG-MAL"
+  },
+  {
+    "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
+    "id": "bettersilvanus849/inner-coordinates",
+    "language": "Shell",
+    "name": "bettersilvanus849/inner-coordinates",
+    "stars": 1,
+    "updated_at": "2026-10-02T12:07:18Z",
+    "url": "https://github.com/bettersilvanus849/inner-coordinates"
+  },
+  {
+    "description": "Cross-platform Rust computer-use MCP server for macOS and Windows: AX/UIA, screenshots, OCR, pointer and keyboard input,",
+    "id": "bigduu/Nova",
+    "language": "Rust",
+    "name": "bigduu/Nova",
+    "stars": 22,
+    "updated_at": "2026-10-02T12:13:24Z",
+    "url": "https://github.com/bigduu/Nova"
+  },
+  {
+    "description": "AI-orchestrated job search pipeline: scrapes 5 UA job boards, uses Claude API to score matches & classify emails, writes",
+    "id": "VoroshylovV/job-search-automation-pipeline",
+    "language": "Python",
+    "name": "VoroshylovV/job-search-automation-pipeline",
+    "stars": 1,
+    "updated_at": "2026-10-02T12:05:46Z",
+    "url": "https://github.com/VoroshylovV/job-search-automation-pipeline"
+  },
+  {
+    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
+    "id": "Elevated-homer201/prompt-gate",
+    "language": "\u2014",
+    "name": "Elevated-homer201/prompt-gate",
+    "stars": 1,
+    "updated_at": "2026-10-02T12:04:57Z",
+    "url": "https://github.com/Elevated-homer201/prompt-gate"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 41,
+    "updated_at": "2026-10-02T12:03:56Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
+    "id": "Indrasclerotinia71/local-ai-research-assistant",
+    "language": "Python",
+    "name": "Indrasclerotinia71/local-ai-research-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-02T12:03:54Z",
+    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
+  },
+  {
+    "description": "Visual inspection with an LLM agent: YOLOv8 + Qwen-VL, RAG standards retrieval via tool calling with grounded citations,",
+    "id": "mino19790622-dot/visual-inspection-report-generator",
+    "language": "Python",
+    "name": "mino19790622-dot/visual-inspection-report-generator",
+    "stars": 0,
+    "updated_at": "2026-10-02T12:01:48Z",
+    "url": "https://github.com/mino19790622-dot/visual-inspection-report-generator"
+  },
+  {
+    "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
+    "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
+    "language": "\u2014",
+    "name": "mpardakaskon-boop/obsidian-llm-wiki-local",
+    "stars": 1,
+    "updated_at": "2026-10-02T12:00:31Z",
+    "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
+  },
+  {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
     "id": "SuperdeMan/cockpit-agent",
     "language": "Python",
@@ -23,7 +167,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4440,
-    "updated_at": "2026-10-02T11:59:59Z",
+    "updated_at": "2026-10-02T12:14:47Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -108,15 +252,6 @@
     "url": "https://github.com/muhzars/Agent.cpp"
   },
   {
-    "description": "Cross-platform Rust computer-use MCP server for macOS and Windows: AX/UIA, screenshots, OCR, pointer and keyboard input,",
-    "id": "bigduu/Nova",
-    "language": "Rust",
-    "name": "bigduu/Nova",
-    "stars": 22,
-    "updated_at": "2026-10-02T11:56:16Z",
-    "url": "https://github.com/bigduu/Nova"
-  },
-  {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -167,7 +302,7 @@
     "language": "Rust",
     "name": "citizenhicks/mobius",
     "stars": 1,
-    "updated_at": "2026-10-02T11:48:36Z",
+    "updated_at": "2026-10-02T12:01:20Z",
     "url": "https://github.com/citizenhicks/mobius"
   },
   {
@@ -185,7 +320,7 @@
     "language": "Rust",
     "name": "eshanized/M31A",
     "stars": 8,
-    "updated_at": "2026-10-02T11:34:07Z",
+    "updated_at": "2026-10-02T12:14:41Z",
     "url": "https://github.com/eshanized/M31A"
   },
   {
@@ -229,7 +364,7 @@
     "id": "0xethanq/astra-quant-agent",
     "language": "Python",
     "name": "0xethanq/astra-quant-agent",
-    "stars": 283,
+    "stars": 284,
     "updated_at": "2026-10-02T11:19:09Z",
     "url": "https://github.com/0xethanq/astra-quant-agent"
   },
@@ -313,140 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-02T10:28:22Z",
     "url": "https://github.com/shu0819-sjy/dsh-auto-continue"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-10-02T10:25:01Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
-    "id": "edjafarov/kiagent-core",
-    "language": "TypeScript",
-    "name": "edjafarov/kiagent-core",
-    "stars": 7,
-    "updated_at": "2026-10-02T10:20:14Z",
-    "url": "https://github.com/edjafarov/kiagent-core"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-10-02T10:17:27Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Lean, extended fork of Nous Research's Hermes Agent \u2014 free model suite, connectors, and ~20 perf fixes. Upstream credite",
-    "id": "Chensihakniroth/anakot-agent-v1",
-    "language": "Python",
-    "name": "Chensihakniroth/anakot-agent-v1",
-    "stars": 0,
-    "updated_at": "2026-10-02T10:13:35Z",
-    "url": "https://github.com/Chensihakniroth/anakot-agent-v1"
-  },
-  {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 1,
-    "updated_at": "2026-10-02T10:04:29Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
-    "id": "bigfish1913/pi-rust",
-    "language": "Rust",
-    "name": "bigfish1913/pi-rust",
-    "stars": 39,
-    "updated_at": "2026-10-02T10:00:24Z",
-    "url": "https://github.com/bigfish1913/pi-rust"
-  },
-  {
-    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
-    "id": "wufufu770/d2d",
-    "language": "JavaScript",
-    "name": "wufufu770/d2d",
-    "stars": 4,
-    "updated_at": "2026-10-02T09:56:34Z",
-    "url": "https://github.com/wufufu770/d2d"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 194,
-    "updated_at": "2026-10-02T09:56:05Z",
-    "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3496,
-    "updated_at": "2026-10-02T09:32:10Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
-    "id": "xieguigang/sciBASIC",
-    "language": "Visual Basic .NET",
-    "name": "xieguigang/sciBASIC",
-    "stars": 78,
-    "updated_at": "2026-10-02T09:24:22Z",
-    "url": "https://github.com/xieguigang/sciBASIC"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 130,
-    "updated_at": "2026-10-02T09:21:47Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-10-02T08:56:52Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "A provider-agnostic coding-agent harness for autonomous Python repository bug repair, with Docker verification and repro",
-    "id": "ztsstz711-afk/RepoFix-Harness",
-    "language": "Python",
-    "name": "ztsstz711-afk/RepoFix-Harness",
-    "stars": 0,
-    "updated_at": "2026-10-02T08:51:41Z",
-    "url": "https://github.com/ztsstz711-afk/RepoFix-Harness"
-  },
-  {
-    "description": "Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/",
-    "id": "ZekaiShi/evo-subagent",
-    "language": "JavaScript",
-    "name": "ZekaiShi/evo-subagent",
-    "stars": 7,
-    "updated_at": "2026-10-02T08:33:39Z",
-    "url": "https://github.com/ZekaiShi/evo-subagent"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8618,
-    "updated_at": "2026-10-02T07:59:54Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   }
 ]
