@@ -1,5 +1,95 @@
 [
   {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4441,
+    "updated_at": "2026-10-02T13:59:55Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "",
+    "id": "hichamnes-prog/exforum-auto-poster",
+    "language": "Python",
+    "name": "hichamnes-prog/exforum-auto-poster",
+    "stars": 1,
+    "updated_at": "2026-10-02T13:58:44Z",
+    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-10-02T13:58:27Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
+    "id": "muhzars/Agent.cpp",
+    "language": "C++",
+    "name": "muhzars/Agent.cpp",
+    "stars": 1,
+    "updated_at": "2026-10-02T13:54:58Z",
+    "url": "https://github.com/muhzars/Agent.cpp"
+  },
+  {
+    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
+    "id": "faheela-786/ComfyUI-qwenmultiangle",
+    "language": "\u2014",
+    "name": "faheela-786/ComfyUI-qwenmultiangle",
+    "stars": 2,
+    "updated_at": "2026-10-02T13:51:07Z",
+    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
+  },
+  {
+    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 569,
+    "updated_at": "2026-10-02T13:49:21Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
+    "id": "amineeng/scraping-browser",
+    "language": "\u2014",
+    "name": "amineeng/scraping-browser",
+    "stars": 1,
+    "updated_at": "2026-10-02T13:48:58Z",
+    "url": "https://github.com/amineeng/scraping-browser"
+  },
+  {
+    "description": "DeepSearch-RL\uff1a\u57fa\u4e8e Tool-Agentic RL \u7684\u591a\u8df3\u641c\u7d22\u667a\u80fd\u4f53\uff08Qwen3-8B / veRL / SGLang / GRPO\uff09",
+    "id": "yongyi999/DeepSearch-RL",
+    "language": "Python",
+    "name": "yongyi999/DeepSearch-RL",
+    "stars": 0,
+    "updated_at": "2026-10-02T13:46:59Z",
+    "url": "https://github.com/yongyi999/DeepSearch-RL"
+  },
+  {
+    "description": "Akane \u684c\u9762\u667a\u80fd\u4f53\u5c42\uff1a\u8ba9\u966a\u4f34\u89d2\u8272\u80fd\u5728\u771f\u5b9e IM \u5ba2\u6237\u7aef\u91cc\u66ff\u4e3b\u4eba\u8bf4\u8bdd\uff08\u53ef\u5ba1\u8ba1 / \u53ef\u62d2\u7edd / \u53ef\u56de\u6eda\uff09\u3002\u884d\u751f\u81ea misaka-coder/AkaneCompanionLab\uff0c\u8be6\u89c1 CREDITS.md \u4e0e docs/INNOVATIONS",
+    "id": "windy-0-0/akane-desktop-agent",
+    "language": "Python",
+    "name": "windy-0-0/akane-desktop-agent",
+    "stars": 2,
+    "updated_at": "2026-10-02T13:46:21Z",
+    "url": "https://github.com/windy-0-0/akane-desktop-agent"
+  },
+  {
+    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
+    "id": "Saran1536/ComfyUI-LoaderUtils",
+    "language": "Python",
+    "name": "Saran1536/ComfyUI-LoaderUtils",
+    "stars": 0,
+    "updated_at": "2026-10-02T13:45:31Z",
+    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
+  },
+  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -63,15 +153,6 @@
     "url": "https://github.com/denisotree/veles"
   },
   {
-    "description": "Akane \u684c\u9762\u667a\u80fd\u4f53\u5c42\uff1a\u8ba9\u966a\u4f34\u89d2\u8272\u80fd\u5728\u771f\u5b9e IM \u5ba2\u6237\u7aef\u91cc\u66ff\u4e3b\u4eba\u8bf4\u8bdd\uff08\u53ef\u5ba1\u8ba1 / \u53ef\u62d2\u7edd / \u53ef\u56de\u6eda\uff09\u3002\u884d\u751f\u81ea misaka-coder/AkaneCompanionLab\uff0c\u8be6\u89c1 CREDITS.md \u4e0e docs/INNOVATIONS",
-    "id": "windy-0-0/akane-desktop-agent",
-    "language": "Python",
-    "name": "windy-0-0/akane-desktop-agent",
-    "stars": 2,
-    "updated_at": "2026-10-02T13:37:04Z",
-    "url": "https://github.com/windy-0-0/akane-desktop-agent"
-  },
-  {
     "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
     "id": "Amri854/obsidian-mcp-server",
     "language": "TypeScript",
@@ -122,17 +203,8 @@
     "language": "Rust",
     "name": "bigduu/Nova",
     "stars": 22,
-    "updated_at": "2026-10-02T13:28:56Z",
+    "updated_at": "2026-10-02T13:50:41Z",
     "url": "https://github.com/bigduu/Nova"
-  },
-  {
-    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 569,
-    "updated_at": "2026-10-02T13:20:17Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
   },
   {
     "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
@@ -154,12 +226,12 @@
   },
   {
     "description": "A Gemini agent with integrated tools, context token optimization, loop-prevention logic, and an interactive Streamlit/SQ",
-    "id": "pragamdt/agentic-trace-dashboard",
+    "id": "pragamdt/gemini-agent-trace-and-dashboard",
     "language": "Python",
-    "name": "pragamdt/agentic-trace-dashboard",
+    "name": "pragamdt/gemini-agent-trace-and-dashboard",
     "stars": 0,
     "updated_at": "2026-10-02T13:17:20Z",
-    "url": "https://github.com/pragamdt/agentic-trace-dashboard"
+    "url": "https://github.com/pragamdt/gemini-agent-trace-and-dashboard"
   },
   {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
@@ -252,15 +324,6 @@
     "url": "https://github.com/jovempedr0/GraphRAG-MAL"
   },
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4441,
-    "updated_at": "2026-10-02T13:42:47Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
     "description": "Recoverable single coding agent for bounded repository repair",
     "id": "woojune511/patchloop-agent",
     "language": "Python",
@@ -310,7 +373,7 @@
     "id": "0xethanq/astra-quant-agent",
     "language": "Python",
     "name": "0xethanq/astra-quant-agent",
-    "stars": 285,
+    "stars": 286,
     "updated_at": "2026-10-02T12:24:44Z",
     "url": "https://github.com/0xethanq/astra-quant-agent"
   },
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-02T12:13:57Z",
     "url": "https://github.com/Chensihakniroth/anakot-agent-v1"
-  },
-  {
-    "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
-    "id": "Blondieredistributed612/pocket-agent",
-    "language": "Python",
-    "name": "Blondieredistributed612/pocket-agent",
-    "stars": 2,
-    "updated_at": "2026-10-02T12:11:10Z",
-    "url": "https://github.com/Blondieredistributed612/pocket-agent"
-  },
-  {
-    "description": "Harness LLMs with Multi-Agent Programming",
-    "id": "langroid/langroid",
-    "language": "Python",
-    "name": "langroid/langroid",
-    "stars": 4110,
-    "updated_at": "2026-10-02T12:09:36Z",
-    "url": "https://github.com/langroid/langroid"
-  },
-  {
-    "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
-    "id": "bettersilvanus849/inner-coordinates",
-    "language": "Shell",
-    "name": "bettersilvanus849/inner-coordinates",
-    "stars": 1,
-    "updated_at": "2026-10-02T12:07:18Z",
-    "url": "https://github.com/bettersilvanus849/inner-coordinates"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 1,
-    "updated_at": "2026-10-02T12:04:57Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 41,
-    "updated_at": "2026-10-02T12:03:56Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
-    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
-    "id": "Indrasclerotinia71/local-ai-research-assistant",
-    "language": "Python",
-    "name": "Indrasclerotinia71/local-ai-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-02T12:03:54Z",
-    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
-  },
-  {
-    "description": "Visual inspection with an LLM agent: YOLOv8 + Qwen-VL, RAG standards retrieval via tool calling with grounded citations,",
-    "id": "mino19790622-dot/visual-inspection-report-generator",
-    "language": "Python",
-    "name": "mino19790622-dot/visual-inspection-report-generator",
-    "stars": 0,
-    "updated_at": "2026-10-02T12:01:48Z",
-    "url": "https://github.com/mino19790622-dot/visual-inspection-report-generator"
   }
 ]
