@@ -1,5 +1,131 @@
 [
   {
+    "description": "LLM-Agent \u00d7 UniversalSniffer \u2014 \u0438\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u044f MCP-\u0441\u043d\u0438\u0444\u0444\u0435\u0440\u0430 (16 tools), \u0430\u0433\u0435\u043d\u0442\u043e\u0432 \u0438 OAC-\u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u0430 + Next.js 16 live-\u0434\u0430\u0448\u0431\u043e\u0440\u0434 \u0441 \u0434",
+    "id": "mobstardos/llm-agent-sniffer-integration",
+    "language": "Python",
+    "name": "mobstardos/llm-agent-sniffer-integration",
+    "stars": 0,
+    "updated_at": "2026-10-02T17:14:09Z",
+    "url": "https://github.com/mobstardos/llm-agent-sniffer-integration"
+  },
+  {
+    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
+    "id": "juandavidru4641/dsplab",
+    "language": "JavaScript",
+    "name": "juandavidru4641/dsplab",
+    "stars": 0,
+    "updated_at": "2026-10-02T17:13:13Z",
+    "url": "https://github.com/juandavidru4641/dsplab"
+  },
+  {
+    "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 278,
+    "updated_at": "2026-10-02T17:13:15Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
+    "id": "laoxs2002/genai-agentes",
+    "language": "Jupyter Notebook",
+    "name": "laoxs2002/genai-agentes",
+    "stars": 0,
+    "updated_at": "2026-10-02T17:13:04Z",
+    "url": "https://github.com/laoxs2002/genai-agentes"
+  },
+  {
+    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
+    "id": "heba-ramdan/harness",
+    "language": "TypeScript",
+    "name": "heba-ramdan/harness",
+    "stars": 1,
+    "updated_at": "2026-10-02T17:11:34Z",
+    "url": "https://github.com/heba-ramdan/harness"
+  },
+  {
+    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
+    "id": "Ronit0p/AutoGod",
+    "language": "Java",
+    "name": "Ronit0p/AutoGod",
+    "stars": 0,
+    "updated_at": "2026-10-02T17:10:49Z",
+    "url": "https://github.com/Ronit0p/AutoGod"
+  },
+  {
+    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
+    "id": "lukky262/ARE",
+    "language": "\u2014",
+    "name": "lukky262/ARE",
+    "stars": 1,
+    "updated_at": "2026-10-02T17:09:41Z",
+    "url": "https://github.com/lukky262/ARE"
+  },
+  {
+    "description": "",
+    "id": "hichamnes-prog/exforum-auto-poster",
+    "language": "Python",
+    "name": "hichamnes-prog/exforum-auto-poster",
+    "stars": 1,
+    "updated_at": "2026-10-02T17:08:26Z",
+    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
+  },
+  {
+    "description": "MLOps platform: LangGraph agent (OpenRouter/GLM-4.6), Neo4j knowledge graph, FastAPI inference, Airflow pipelines, Datad",
+    "id": "iamvisheshsrivastava/AirKube",
+    "language": "Python",
+    "name": "iamvisheshsrivastava/AirKube",
+    "stars": 1,
+    "updated_at": "2026-10-02T17:07:27Z",
+    "url": "https://github.com/iamvisheshsrivastava/AirKube"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 19,
+    "updated_at": "2026-10-02T17:12:34Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
+    "id": "muhzars/Agent.cpp",
+    "language": "C++",
+    "name": "muhzars/Agent.cpp",
+    "stars": 1,
+    "updated_at": "2026-10-02T17:05:49Z",
+    "url": "https://github.com/muhzars/Agent.cpp"
+  },
+  {
+    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
+    "id": "faheela-786/ComfyUI-qwenmultiangle",
+    "language": "\u2014",
+    "name": "faheela-786/ComfyUI-qwenmultiangle",
+    "stars": 2,
+    "updated_at": "2026-10-02T17:03:20Z",
+    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
+  },
+  {
+    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
+    "id": "amineeng/scraping-browser",
+    "language": "\u2014",
+    "name": "amineeng/scraping-browser",
+    "stars": 1,
+    "updated_at": "2026-10-02T17:01:51Z",
+    "url": "https://github.com/amineeng/scraping-browser"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-02T17:14:51Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
     "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
     "id": "agentpit-io/hunter-community",
     "language": "Python",
@@ -25,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-02T16:58:17Z",
     "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "LLM-Agent \u00d7 UniversalSniffer \u2014 \u0438\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u044f MCP-\u0441\u043d\u0438\u0444\u0444\u0435\u0440\u0430 (16 tools), \u0430\u0433\u0435\u043d\u0442\u043e\u0432 \u0438 OAC-\u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u0430 + Next.js 16 live-\u0434\u0430\u0448\u0431\u043e\u0440\u0434 \u0441 \u0434",
-    "id": "mobstardos/llm-agent-sniffer-integration",
-    "language": "Python",
-    "name": "mobstardos/llm-agent-sniffer-integration",
-    "stars": 0,
-    "updated_at": "2026-10-02T16:56:55Z",
-    "url": "https://github.com/mobstardos/llm-agent-sniffer-integration"
   },
   {
     "description": "A small, plantable (parasitic but only in a good sense kefir for eternity in a way) culture for development through self",
@@ -121,7 +238,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 8622,
+    "stars": 8625,
     "updated_at": "2026-10-02T16:31:14Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -158,7 +275,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4440,
-    "updated_at": "2026-10-02T17:00:18Z",
+    "updated_at": "2026-10-02T17:11:00Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -223,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-10-02T15:59:52Z",
     "url": "https://github.com/AandBorC/dsa-lite"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-02T16:51:58Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
@@ -302,7 +410,7 @@
     "language": "Rust",
     "name": "eshanized/M31A",
     "stars": 8,
-    "updated_at": "2026-10-02T16:54:14Z",
+    "updated_at": "2026-10-02T17:08:47Z",
     "url": "https://github.com/eshanized/M31A"
   },
   {
@@ -340,113 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-02T14:52:29Z",
     "url": "https://github.com/ScreamingMaggot/rcs-context"
-  },
-  {
-    "description": "Self-hosted AIOps agent for DevOps: an AI ops copilot that investigates incidents on Linux servers and Kubernetes, finds",
-    "id": "Ayyush-Maheshwari/SupOps",
-    "language": "TypeScript",
-    "name": "Ayyush-Maheshwari/SupOps",
-    "stars": 0,
-    "updated_at": "2026-10-02T14:48:41Z",
-    "url": "https://github.com/Ayyush-Maheshwari/SupOps"
-  },
-  {
-    "description": "DeepSeek Harness na Androidzie w jednym APK, bez Termuxa i roota, z polskim interfejsem i kompletem narz\u0119dzi programisty",
-    "id": "gangg111/DeepSeek-Harness-Mobile",
-    "language": "JavaScript",
-    "name": "gangg111/DeepSeek-Harness-Mobile",
-    "stars": 0,
-    "updated_at": "2026-10-02T14:47:31Z",
-    "url": "https://github.com/gangg111/DeepSeek-Harness-Mobile"
-  },
-  {
-    "description": "Harness LLMs with Multi-Agent Programming",
-    "id": "langroid/langroid",
-    "language": "Python",
-    "name": "langroid/langroid",
-    "stars": 4111,
-    "updated_at": "2026-10-02T14:43:50Z",
-    "url": "https://github.com/langroid/langroid"
-  },
-  {
-    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
-    "id": "AceGuru-mjh/Android-Guru-Agent",
-    "language": "Kotlin",
-    "name": "AceGuru-mjh/Android-Guru-Agent",
-    "stars": 3,
-    "updated_at": "2026-10-02T14:58:40Z",
-    "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent"
-  },
-  {
-    "description": "Observable, auditable Slay the Spire 2 agent with an OpenAI-compatible model interface",
-    "id": "optima-xu/SpireMind",
-    "language": "Python",
-    "name": "optima-xu/SpireMind",
-    "stars": 0,
-    "updated_at": "2026-10-02T14:34:13Z",
-    "url": "https://github.com/optima-xu/SpireMind"
-  },
-  {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 1,
-    "updated_at": "2026-10-02T14:33:26Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "A provider-agnostic coding-agent harness for autonomous Python repository bug repair, with Docker verification and repro",
-    "id": "ztsstz711-afk/RepoFix-Harness",
-    "language": "Python",
-    "name": "ztsstz711-afk/RepoFix-Harness",
-    "stars": 0,
-    "updated_at": "2026-10-02T14:31:40Z",
-    "url": "https://github.com/ztsstz711-afk/RepoFix-Harness"
-  },
-  {
-    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
-    "id": "wufufu770/d2d",
-    "language": "JavaScript",
-    "name": "wufufu770/d2d",
-    "stars": 4,
-    "updated_at": "2026-10-02T14:30:51Z",
-    "url": "https://github.com/wufufu770/d2d"
-  },
-  {
-    "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
-    "id": "rugose-learnedprofession58/pi-dsh",
-    "language": "TypeScript",
-    "name": "rugose-learnedprofession58/pi-dsh",
-    "stars": 0,
-    "updated_at": "2026-10-02T14:28:59Z",
-    "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
-  },
-  {
-    "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
-    "id": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
-    "language": "JavaScript",
-    "name": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
-    "stars": 1,
-    "updated_at": "2026-10-02T14:27:47Z",
-    "url": "https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder"
-  },
-  {
-    "description": "Verify area values quickly with this web-based HTML calculator tool.",
-    "id": "passive-hotpepper515/area-checker-html-tool",
-    "language": "HTML",
-    "name": "passive-hotpepper515/area-checker-html-tool",
-    "stars": 0,
-    "updated_at": "2026-10-02T14:27:21Z",
-    "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
-  },
-  {
-    "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
-    "id": "Blondieredistributed612/pocket-agent",
-    "language": "Python",
-    "name": "Blondieredistributed612/pocket-agent",
-    "stars": 2,
-    "updated_at": "2026-10-02T14:25:27Z",
-    "url": "https://github.com/Blondieredistributed612/pocket-agent"
   }
 ]
