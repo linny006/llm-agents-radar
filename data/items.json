@@ -1,12 +1,48 @@
 [
   {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-10-02T09:43:23Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
+    "id": "anchor-inference/daedalus",
+    "language": "Python",
+    "name": "anchor-inference/daedalus",
+    "stars": 1,
+    "updated_at": "2026-10-02T09:43:10Z",
+    "url": "https://github.com/anchor-inference/daedalus"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 1,
+    "updated_at": "2026-10-02T09:42:43Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
     "description": "Shared AI agents for teams: one agent per channel, with memory, connected apps and approvals. Open source and self-hosta",
     "id": "janakrathi/Teamski",
     "language": "TypeScript",
     "name": "janakrathi/Teamski",
-    "stars": 1,
-    "updated_at": "2026-10-02T09:26:28Z",
+    "stars": 2,
+    "updated_at": "2026-10-02T09:36:31Z",
     "url": "https://github.com/janakrathi/Teamski"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4439,
+    "updated_at": "2026-10-02T09:34:20Z",
+    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -49,7 +85,7 @@
     "id": "yologdev/yoagent",
     "language": "Rust",
     "name": "yologdev/yoagent",
-    "stars": 186,
+    "stars": 187,
     "updated_at": "2026-10-02T09:18:34Z",
     "url": "https://github.com/yologdev/yoagent"
   },
@@ -61,15 +97,6 @@
     "stars": 4,
     "updated_at": "2026-10-02T09:10:18Z",
     "url": "https://github.com/wufufu770/d2d"
-  },
-  {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 1,
-    "updated_at": "2026-10-02T09:05:15Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "Lean, extended fork of Nous Research's Hermes Agent \u2014 free model suite, connectors, and ~20 perf fixes. Upstream credite",
@@ -167,7 +194,7 @@
     "language": "Python",
     "name": "rekursiv-ai/sagent",
     "stars": 78,
-    "updated_at": "2026-10-02T07:50:06Z",
+    "updated_at": "2026-10-02T09:40:55Z",
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
@@ -342,15 +369,6 @@
     "url": "https://github.com/InfernoPC/Miaozhu"
   },
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4439,
-    "updated_at": "2026-10-02T09:11:03Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
     "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
     "id": "SHUKLAO/call-with-ai-agent",
     "language": "\u2014",
@@ -392,7 +410,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 26,
-    "updated_at": "2026-10-02T09:22:50Z",
+    "updated_at": "2026-10-02T09:41:46Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-02T07:16:12Z",
     "url": "https://github.com/denisotree/veles"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-10-02T06:30:05Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "A multi-agent research system for the humanities and social sciences.",
-    "id": "Luciole-Studio/Misaka-Agent",
-    "language": "Python",
-    "name": "Luciole-Studio/Misaka-Agent",
-    "stars": 30,
-    "updated_at": "2026-10-02T06:26:50Z",
-    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
   }
 ]
