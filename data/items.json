@@ -1,5 +1,14 @@
 [
   {
+    "description": "A small, plantable (parasitic but only in a good sense kefir for eternity in a way) culture for development through self",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 1,
+    "updated_at": "2026-10-02T18:11:41Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -59,7 +68,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-10-02T18:03:26Z",
+    "updated_at": "2026-10-02T18:12:10Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -68,7 +77,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-02T18:10:45Z",
+    "updated_at": "2026-10-02T18:11:33Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -97,15 +106,6 @@
     "stars": 814,
     "updated_at": "2026-10-02T17:37:03Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir for eternity in a way) culture for development through self",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 1,
-    "updated_at": "2026-10-02T17:33:26Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",

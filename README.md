@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-02 18:10 UTC
+> ⏰ Last updated: 2026-10-02 18:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 8625 | Python | 2026-10-02 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
-| 2 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-10-02 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 3 | [Chengy257/glm-conductor](https://github.com/Chengy257/glm-conductor) | 0 | Python | 2026-10-02 | Deterministic orchestration, execution assurance, and quota-aware continuity runtime for GLM coding agents in ZCode |
-| 4 | [edjafarov/kiagent-core](https://github.com/edjafarov/kiagent-core) | 7 | TypeScript | 2026-10-02 | kiagent-core — open-source personal AI brain — local, open source, speaks MCP |
-| 5 | [bondwell79/hercules](https://github.com/bondwell79/hercules) | 0 | Python | 2026-10-02 | Gestor agéntico de modelos llm |
-| 6 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 1 | C++ | 2026-10-02 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
-| 7 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 10 | Python | 2026-10-02 | Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT. |
-| 8 | [ljchang/mecha](https://github.com/ljchang/mecha) | 7 | Rust | 2026-10-02 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
-| 9 | [wufufu770/d2d](https://github.com/wufufu770/d2d) | 4 | JavaScript | 2026-10-02 | 三环并行渗透测试 dsh 插件 — discovery/deep/creative 三环 + 独立 verify 闭环，Kuzu 图黑板共享状态，多 agent 自调度、按角色模型策略、自学习知识脑。仅用于授权安全测试（SRC/靶场/自有资 |
-| 10 | [analienx/remote-desktop-commander-agent-control](https://github.com/analienx/remote-desktop-commander-agent-control) | 0 | PowerShell | 2026-10-02 | Self-healing keep-alive, watchdog and status dashboard for the Desktop Commander Remote agent and Chrome Remote Desktop  |
-| 11 | [helixml/helix](https://github.com/helixml/helix) | 814 | Go | 2026-10-02 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
-| 12 | [genaforvena/mishe-tauftauf](https://github.com/genaforvena/mishe-tauftauf) | 1 | Python | 2026-10-02 | A small, plantable (parasitic but only in a good sense kefir for eternity in a way) culture for development through self |
+| 1 | [genaforvena/mishe-tauftauf](https://github.com/genaforvena/mishe-tauftauf) | 1 | Python | 2026-10-02 | A small, plantable (parasitic but only in a good sense kefir for eternity in a way) culture for development through self |
+| 2 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 8625 | Python | 2026-10-02 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 3 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-10-02 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 4 | [Chengy257/glm-conductor](https://github.com/Chengy257/glm-conductor) | 0 | Python | 2026-10-02 | Deterministic orchestration, execution assurance, and quota-aware continuity runtime for GLM coding agents in ZCode |
+| 5 | [edjafarov/kiagent-core](https://github.com/edjafarov/kiagent-core) | 7 | TypeScript | 2026-10-02 | kiagent-core — open-source personal AI brain — local, open source, speaks MCP |
+| 6 | [bondwell79/hercules](https://github.com/bondwell79/hercules) | 0 | Python | 2026-10-02 | Gestor agéntico de modelos llm |
+| 7 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 1 | C++ | 2026-10-02 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
+| 8 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 10 | Python | 2026-10-02 | Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT. |
+| 9 | [ljchang/mecha](https://github.com/ljchang/mecha) | 7 | Rust | 2026-10-02 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
+| 10 | [wufufu770/d2d](https://github.com/wufufu770/d2d) | 4 | JavaScript | 2026-10-02 | 三环并行渗透测试 dsh 插件 — discovery/deep/creative 三环 + 独立 verify 闭环，Kuzu 图黑板共享状态，多 agent 自调度、按角色模型策略、自学习知识脑。仅用于授权安全测试（SRC/靶场/自有资 |
+| 11 | [analienx/remote-desktop-commander-agent-control](https://github.com/analienx/remote-desktop-commander-agent-control) | 0 | PowerShell | 2026-10-02 | Self-healing keep-alive, watchdog and status dashboard for the Desktop Commander Remote agent and Chrome Remote Desktop  |
+| 12 | [helixml/helix](https://github.com/helixml/helix) | 814 | Go | 2026-10-02 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
 | 13 | [rugose-learnedprofession58/pi-dsh](https://github.com/rugose-learnedprofession58/pi-dsh) | 0 | TypeScript | 2026-10-02 | Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting |
 | 14 | [abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder](https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder) | 1 | JavaScript | 2026-10-02 | Build structured prompts with reference media for MiniMax H3 video model in ComfyUI. |
 | 15 | [passive-hotpepper515/area-checker-html-tool](https://github.com/passive-hotpepper515/area-checker-html-tool) | 0 | HTML | 2026-10-02 | Verify area values quickly with this web-based HTML calculator tool. |
