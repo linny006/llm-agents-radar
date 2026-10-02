@@ -1,11 +1,20 @@
 [
   {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-10-02T08:24:28Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-10-02T08:13:17Z",
+    "updated_at": "2026-10-02T08:23:36Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -54,15 +63,6 @@
     "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
   },
   {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-10-02T08:06:40Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
     "id": "EpsteinF1les/tts",
     "language": "\u2014",
@@ -95,7 +95,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 1,
-    "updated_at": "2026-10-02T08:10:58Z",
+    "updated_at": "2026-10-02T08:29:41Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -178,6 +178,15 @@
     "stars": 2,
     "updated_at": "2026-10-02T07:36:44Z",
     "url": "https://github.com/Bowotria/aethercore"
+  },
+  {
+    "description": "Policy-driven autopilot for Dependabot PRs and patch releases, with Slack/Discord/Matrix digests",
+    "id": "no42-org/twiki",
+    "language": "TypeScript",
+    "name": "no42-org/twiki",
+    "stars": 0,
+    "updated_at": "2026-10-02T07:35:04Z",
+    "url": "https://github.com/no42-org/twiki"
   },
   {
     "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-02T05:16:16Z",
     "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 3,
-    "updated_at": "2026-10-02T05:09:28Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   }
 ]
