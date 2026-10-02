@@ -1,5 +1,68 @@
 [
   {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-10-02T20:44:40Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
+    "id": "KaletoAI/anima-verse",
+    "language": "Python",
+    "name": "KaletoAI/anima-verse",
+    "stars": 4,
+    "updated_at": "2026-10-02T20:44:13Z",
+    "url": "https://github.com/KaletoAI/anima-verse"
+  },
+  {
+    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
+    "id": "watchcat/scout",
+    "language": "Rust",
+    "name": "watchcat/scout",
+    "stars": 0,
+    "updated_at": "2026-10-02T20:43:29Z",
+    "url": "https://github.com/watchcat/scout"
+  },
+  {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 5,
+    "updated_at": "2026-10-02T20:42:41Z",
+    "url": "https://github.com/ljedrz/nachalnik"
+  },
+  {
+    "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 278,
+    "updated_at": "2026-10-02T20:40:24Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 78,
+    "updated_at": "2026-10-02T20:31:18Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Application Security orchestration platform",
+    "id": "grauwolf32/contractor",
+    "language": "Go",
+    "name": "grauwolf32/contractor",
+    "stars": 2,
+    "updated_at": "2026-10-02T20:31:06Z",
+    "url": "https://github.com/grauwolf32/contractor"
+  },
+  {
     "description": "Policy-gated IRIS management portal",
     "id": "AntonYartsev/iris-docket",
     "language": "Vue",
@@ -16,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-10-02T20:19:11Z",
     "url": "https://github.com/jack-h-park/pm-intelligence-engine"
-  },
-  {
-    "description": "Application Security orchestration platform",
-    "id": "grauwolf32/contractor",
-    "language": "Go",
-    "name": "grauwolf32/contractor",
-    "stars": 2,
-    "updated_at": "2026-10-02T20:16:08Z",
-    "url": "https://github.com/grauwolf32/contractor"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -52,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-10-02T20:04:37Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
-    "id": "ljedrz/nachalnik",
-    "language": "Rust",
-    "name": "ljedrz/nachalnik",
-    "stars": 5,
-    "updated_at": "2026-10-02T20:22:01Z",
-    "url": "https://github.com/ljedrz/nachalnik"
   },
   {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
@@ -261,15 +306,6 @@
     "url": "https://github.com/lukky262/ARE"
   },
   {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-10-02T19:01:16Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "",
     "id": "hichamnes-prog/exforum-auto-poster",
     "language": "Python",
@@ -356,7 +392,7 @@
     "language": "Python",
     "name": "franckolv-dev/ELY2",
     "stars": 1,
-    "updated_at": "2026-10-02T18:47:12Z",
+    "updated_at": "2026-10-02T20:39:47Z",
     "url": "https://github.com/franckolv-dev/ELY2"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-02T18:56:51Z",
     "url": "https://github.com/anchor-inference/daedalus"
-  },
-  {
-    "description": "Claude Code plugin: universal radial-tree exploration engine. One tree skill + swappable presets (brainstorm / attack / ",
-    "id": "skymanbp/cc-tree",
-    "language": "Python",
-    "name": "skymanbp/cc-tree",
-    "stars": 101,
-    "updated_at": "2026-10-02T18:22:02Z",
-    "url": "https://github.com/skymanbp/cc-tree"
-  },
-  {
-    "description": "Gestor ag\u00e9ntico de modelos llm",
-    "id": "bondwell79/hercules",
-    "language": "Python",
-    "name": "bondwell79/hercules",
-    "stars": 0,
-    "updated_at": "2026-10-02T19:40:13Z",
-    "url": "https://github.com/bondwell79/hercules"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-02T20:27:29Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 3,
-    "updated_at": "2026-10-02T18:18:33Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   }
 ]
