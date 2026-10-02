@@ -1,5 +1,59 @@
 [
   {
+    "description": "LLM-Agent \u00d7 UniversalSniffer \u2014 \u0438\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u044f MCP-\u0441\u043d\u0438\u0444\u0444\u0435\u0440\u0430 (16 tools), \u0430\u0433\u0435\u043d\u0442\u043e\u0432 \u0438 OAC-\u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u0430 + Next.js 16 live-\u0434\u0430\u0448\u0431\u043e\u0440\u0434 \u0441 \u0434",
+    "id": "mobstardos/llm-agent-sniffer-integration",
+    "language": "Python",
+    "name": "mobstardos/llm-agent-sniffer-integration",
+    "stars": 0,
+    "updated_at": "2026-10-02T01:14:59Z",
+    "url": "https://github.com/mobstardos/llm-agent-sniffer-integration"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-10-02T01:14:51Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "\uc6e8\uc774\ud37c \ub9f5 \ubd88\ub7c9 \ud328\ud134 \ud310\ub3c5 \uc5d0\uc774\uc804\ud2b8 \u2014 \uc544\ub294 \ud328\ud134 \ubd84\ub958 \u00b7 \ucc98\uc74c \ubcf4\ub294 \ud328\ud134 \uacbd\uace0 \u00b7 \ucf54\ub4dc\uac00 \uac80\uc0ac\ud558\ub294 \ub85c\uceec LLM \ud310\ub3c5 \uce74\ub4dc (WM-811K)",
+    "id": "Haejyn/wafer-defect-agent",
+    "language": "HTML",
+    "name": "Haejyn/wafer-defect-agent",
+    "stars": 0,
+    "updated_at": "2026-10-02T01:13:56Z",
+    "url": "https://github.com/Haejyn/wafer-defect-agent"
+  },
+  {
+    "description": "Anime & manga recommendation agent over a Neo4j knowledge graph built from MyAnimeList. Local LLMs (gpt-oss-20b via MLX)",
+    "id": "jovempedr0/GraphRAG-MAL",
+    "language": "Python",
+    "name": "jovempedr0/GraphRAG-MAL",
+    "stars": 1,
+    "updated_at": "2026-10-02T01:09:18Z",
+    "url": "https://github.com/jovempedr0/GraphRAG-MAL"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-10-02T01:10:04Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
+    "id": "ximing/vital",
+    "language": "TypeScript",
+    "name": "ximing/vital",
+    "stars": 3,
+    "updated_at": "2026-10-02T01:00:30Z",
+    "url": "https://github.com/ximing/vital"
+  },
+  {
     "description": "Always-on voice assistant agent for an unrooted Android tablet: on-device wake word + speech-to-text, LLM tool loop via ",
     "id": "DevanMetz/dean-android-agent",
     "language": "Python",
@@ -23,7 +77,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-10-02T00:51:30Z",
+    "updated_at": "2026-10-02T01:12:09Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4439,
-    "updated_at": "2026-10-02T00:58:01Z",
+    "updated_at": "2026-10-02T01:13:22Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -70,15 +124,6 @@
     "stars": 3,
     "updated_at": "2026-10-02T00:51:14Z",
     "url": "https://github.com/ariannamethod/SUBLITERATUS"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-10-02T00:53:40Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
@@ -153,15 +198,6 @@
     "url": "https://github.com/crypmiy/vibe-trading-okx-futures"
   },
   {
-    "description": "Anime & manga recommendation agent over a Neo4j knowledge graph built from MyAnimeList. Local LLMs (gpt-oss-20b via MLX)",
-    "id": "jovempedr0/GraphRAG-MAL",
-    "language": "Python",
-    "name": "jovempedr0/GraphRAG-MAL",
-    "stars": 1,
-    "updated_at": "2026-10-02T00:30:09Z",
-    "url": "https://github.com/jovempedr0/GraphRAG-MAL"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -205,15 +241,6 @@
     "stars": 3,
     "updated_at": "2026-10-02T00:06:54Z",
     "url": "https://github.com/plurnk/plurnk"
-  },
-  {
-    "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
-    "id": "ximing/vital",
-    "language": "TypeScript",
-    "name": "ximing/vital",
-    "stars": 3,
-    "updated_at": "2026-10-02T00:02:33Z",
-    "url": "https://github.com/ximing/vital"
   },
   {
     "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
@@ -268,15 +295,6 @@
     "stars": 2,
     "updated_at": "2026-10-01T23:43:43Z",
     "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
-  },
-  {
-    "description": "LLM-Agent \u00d7 UniversalSniffer \u2014 \u0438\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u044f MCP-\u0441\u043d\u0438\u0444\u0444\u0435\u0440\u0430 (16 tools), \u0430\u0433\u0435\u043d\u0442\u043e\u0432 \u0438 OAC-\u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u0430 + Next.js 16 live-\u0434\u0430\u0448\u0431\u043e\u0440\u0434 \u0441 \u0434",
-    "id": "mobstardos/llm-agent-sniffer-integration",
-    "language": "Python",
-    "name": "mobstardos/llm-agent-sniffer-integration",
-    "stars": 0,
-    "updated_at": "2026-10-01T23:43:19Z",
-    "url": "https://github.com/mobstardos/llm-agent-sniffer-integration"
   },
   {
     "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-01T23:20:06Z",
     "url": "https://github.com/Torvian-eu/chatbot"
-  },
-  {
-    "description": "Multi-step AI agent for agriculture \u2014 bloom counting, field data, and farm reporting",
-    "id": "Ezra-Zhao/Agri-Agent",
-    "language": "Python",
-    "name": "Ezra-Zhao/Agri-Agent",
-    "stars": 0,
-    "updated_at": "2026-10-01T23:19:45Z",
-    "url": "https://github.com/Ezra-Zhao/Agri-Agent"
-  },
-  {
-    "description": "LLM agent for post-silicon hardware diagnostics \u2014 GPU XID / PCIe error triage",
-    "id": "Ezra-Zhao/AI-Node-Sentinel",
-    "language": "Python",
-    "name": "Ezra-Zhao/AI-Node-Sentinel",
-    "stars": 0,
-    "updated_at": "2026-10-01T23:19:42Z",
-    "url": "https://github.com/Ezra-Zhao/AI-Node-Sentinel"
   }
 ]
