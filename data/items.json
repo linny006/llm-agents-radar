@@ -1,12 +1,12 @@
 [
   {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 3,
-    "updated_at": "2026-10-02T05:09:28Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+    "description": "A desk-slapping cat that lives on your desktop: a macOS/Windows AI assistant with file, shell, web and screenshot tools ",
+    "id": "InfernoPC/Miaozhu",
+    "language": "TypeScript",
+    "name": "InfernoPC/Miaozhu",
+    "stars": 0,
+    "updated_at": "2026-10-02T05:25:08Z",
+    "url": "https://github.com/InfernoPC/Miaozhu"
   },
   {
     "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
@@ -14,8 +14,35 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 1,
-    "updated_at": "2026-10-02T05:14:15Z",
+    "updated_at": "2026-10-02T05:24:23Z",
     "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 3,
+    "updated_at": "2026-10-02T05:17:03Z",
+    "url": "https://github.com/plurnk/plurnk"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-02T05:16:16Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 3,
+    "updated_at": "2026-10-02T05:09:28Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
@@ -59,7 +86,7 @@
     "language": "Kotlin",
     "name": "AceGuru-mjh/Android-Guru-Agent",
     "stars": 3,
-    "updated_at": "2026-10-02T05:12:58Z",
+    "updated_at": "2026-10-02T05:23:25Z",
     "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent"
   },
   {
@@ -131,7 +158,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4439,
-    "updated_at": "2026-10-02T05:14:00Z",
+    "updated_at": "2026-10-02T05:28:09Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -221,7 +248,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-10-02T05:09:53Z",
+    "updated_at": "2026-10-02T05:19:09Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -396,15 +423,6 @@
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-02T04:59:59Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-02T03:29:14Z",
     "url": "https://github.com/wufufu770/d2d"
-  },
-  {
-    "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
-    "id": "wq19901103wq/wechat-mac-rpa",
-    "language": "Python",
-    "name": "wq19901103wq/wechat-mac-rpa",
-    "stars": 114,
-    "updated_at": "2026-10-02T03:25:07Z",
-    "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
-  },
-  {
-    "description": "Control AI agents anywhere. (github mirror)",
-    "id": "justacalico/devinorium",
-    "language": "Dart",
-    "name": "justacalico/devinorium",
-    "stars": 0,
-    "updated_at": "2026-10-02T05:10:00Z",
-    "url": "https://github.com/justacalico/devinorium"
   }
 ]
