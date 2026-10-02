@@ -1,12 +1,57 @@
 [
   {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
+    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
+    "id": "agentpit-io/hunter-community",
     "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-10-02T20:44:40Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
+    "name": "agentpit-io/hunter-community",
+    "stars": 568,
+    "updated_at": "2026-10-02T20:58:56Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "openPASO (formerly OASiS): an MCP server that lets an AI model run nine finite-element and multiphysics codes, with cura",
+    "id": "open-PASO/openPASO",
+    "language": "Python",
+    "name": "open-PASO/openPASO",
+    "stars": 26,
+    "updated_at": "2026-10-02T20:55:17Z",
+    "url": "https://github.com/open-PASO/openPASO"
+  },
+  {
+    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 49,
+    "updated_at": "2026-10-02T20:54:23Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
+    "id": "hsaghir/looplet",
+    "language": "Python",
+    "name": "hsaghir/looplet",
+    "stars": 7,
+    "updated_at": "2026-10-02T20:57:44Z",
+    "url": "https://github.com/hsaghir/looplet"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-02T20:52:11Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-02T20:49:15Z",
+    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
@@ -14,8 +59,35 @@
     "language": "Python",
     "name": "KaletoAI/anima-verse",
     "stars": 4,
-    "updated_at": "2026-10-02T20:44:13Z",
+    "updated_at": "2026-10-02T20:49:04Z",
     "url": "https://github.com/KaletoAI/anima-verse"
+  },
+  {
+    "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
+    "id": "sunnnn2005/data-quality-agent",
+    "language": "Python",
+    "name": "sunnnn2005/data-quality-agent",
+    "stars": 0,
+    "updated_at": "2026-10-02T20:48:26Z",
+    "url": "https://github.com/sunnnn2005/data-quality-agent"
+  },
+  {
+    "description": "Application Security orchestration platform",
+    "id": "grauwolf32/contractor",
+    "language": "Go",
+    "name": "grauwolf32/contractor",
+    "stars": 2,
+    "updated_at": "2026-10-02T20:48:06Z",
+    "url": "https://github.com/grauwolf32/contractor"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-10-02T20:44:40Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
@@ -32,7 +104,7 @@
     "language": "Rust",
     "name": "ljedrz/nachalnik",
     "stars": 5,
-    "updated_at": "2026-10-02T20:42:41Z",
+    "updated_at": "2026-10-02T20:48:00Z",
     "url": "https://github.com/ljedrz/nachalnik"
   },
   {
@@ -54,15 +126,6 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "Application Security orchestration platform",
-    "id": "grauwolf32/contractor",
-    "language": "Go",
-    "name": "grauwolf32/contractor",
-    "stars": 2,
-    "updated_at": "2026-10-02T20:31:06Z",
-    "url": "https://github.com/grauwolf32/contractor"
-  },
-  {
     "description": "Policy-gated IRIS management portal",
     "id": "AntonYartsev/iris-docket",
     "language": "Vue",
@@ -79,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-02T20:19:11Z",
     "url": "https://github.com/jack-h-park/pm-intelligence-engine"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-02T20:06:43Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "A small, plantable (parasitic but only in a good sense kefir for eternity in a way) culture for development through self",
@@ -131,7 +185,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4441,
-    "updated_at": "2026-10-02T20:26:31Z",
+    "updated_at": "2026-10-02T20:46:15Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -392,61 +446,7 @@
     "language": "Python",
     "name": "franckolv-dev/ELY2",
     "stars": 1,
-    "updated_at": "2026-10-02T20:39:47Z",
+    "updated_at": "2026-10-02T20:50:58Z",
     "url": "https://github.com/franckolv-dev/ELY2"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-10-02T18:45:28Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 3,
-    "updated_at": "2026-10-02T18:42:30Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-10-02T19:25:41Z",
-    "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 1,
-    "updated_at": "2026-10-02T19:23:14Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-10-02T18:39:53Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
-    "id": "anchor-inference/daedalus",
-    "language": "Python",
-    "name": "anchor-inference/daedalus",
-    "stars": 1,
-    "updated_at": "2026-10-02T18:56:51Z",
-    "url": "https://github.com/anchor-inference/daedalus"
   }
 ]
