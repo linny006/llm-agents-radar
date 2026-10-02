@@ -1,12 +1,84 @@
 [
   {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-02T15:14:19Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "LLM-Agent \u00d7 UniversalSniffer \u2014 \u0438\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u044f MCP-\u0441\u043d\u0438\u0444\u0444\u0435\u0440\u0430 (16 tools), \u0430\u0433\u0435\u043d\u0442\u043e\u0432 \u0438 OAC-\u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u0430 + Next.js 16 live-\u0434\u0430\u0448\u0431\u043e\u0440\u0434 \u0441 \u0434",
+    "id": "mobstardos/llm-agent-sniffer-integration",
+    "language": "Python",
+    "name": "mobstardos/llm-agent-sniffer-integration",
+    "stars": 0,
+    "updated_at": "2026-10-02T15:14:05Z",
+    "url": "https://github.com/mobstardos/llm-agent-sniffer-integration"
+  },
+  {
     "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
     "id": "eshanized/M31A",
     "language": "Rust",
     "name": "eshanized/M31A",
     "stars": 8,
-    "updated_at": "2026-10-02T14:59:20Z",
+    "updated_at": "2026-10-02T15:12:22Z",
     "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "Check your MCP servers for tool poisoning and rug pulls, and benchmark MCP security tools under verifiable conditions.",
+    "id": "Manishmaurya89/mcp-guardbench",
+    "language": "Python",
+    "name": "Manishmaurya89/mcp-guardbench",
+    "stars": 1,
+    "updated_at": "2026-10-02T15:12:11Z",
+    "url": "https://github.com/Manishmaurya89/mcp-guardbench"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8620,
+    "updated_at": "2026-10-02T15:09:23Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "\u628a\u5b98\u65b9\u6781\u7b80\u63d0\u793a\u8bcd\u4e0e PTC \u7f16\u6392\u7ec4\u5408\u8d77\u6765\uff0c\u63d0\u4f9b\u5b8c\u6574\u63d2\u4ef6\u5de5\u5177\u548c Windows \u7ec8\u7aef\u9002\u914d\u3002",
+    "id": "STARDUSTLC666/dsh-minimal-ptc",
+    "language": "JavaScript",
+    "name": "STARDUSTLC666/dsh-minimal-ptc",
+    "stars": 1,
+    "updated_at": "2026-10-02T15:06:28Z",
+    "url": "https://github.com/STARDUSTLC666/dsh-minimal-ptc"
+  },
+  {
+    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 568,
+    "updated_at": "2026-10-02T15:04:45Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "Cross-platform Rust computer-use MCP server for macOS and Windows: AX/UIA, screenshots, OCR, pointer and keyboard input,",
+    "id": "bigduu/Nova",
+    "language": "Rust",
+    "name": "bigduu/Nova",
+    "stars": 22,
+    "updated_at": "2026-10-02T15:10:08Z",
+    "url": "https://github.com/bigduu/Nova"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-02T15:01:36Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
@@ -25,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-10-02T14:52:29Z",
     "url": "https://github.com/ScreamingMaggot/rcs-context"
-  },
-  {
-    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 569,
-    "updated_at": "2026-10-02T14:52:09Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
   },
   {
     "description": "Self-hosted AIOps agent for DevOps: an AI ops copilot that investigates incidents on Linux servers and Kubernetes, finds",
@@ -63,15 +126,6 @@
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
-    "description": "Check your MCP servers for tool poisoning and rug pulls, and benchmark MCP security tools under verifiable conditions.",
-    "id": "Manishmaurya89/mcp-guardbench",
-    "language": "Python",
-    "name": "Manishmaurya89/mcp-guardbench",
-    "stars": 1,
-    "updated_at": "2026-10-02T14:44:34Z",
-    "url": "https://github.com/Manishmaurya89/mcp-guardbench"
-  },
-  {
     "description": "Harness LLMs with Multi-Agent Programming",
     "id": "langroid/langroid",
     "language": "Python",
@@ -79,15 +133,6 @@
     "stars": 4110,
     "updated_at": "2026-10-02T14:43:50Z",
     "url": "https://github.com/langroid/langroid"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8620,
-    "updated_at": "2026-10-02T14:37:50Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
@@ -99,6 +144,15 @@
     "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent"
   },
   {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4440,
+    "updated_at": "2026-10-02T14:36:52Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
     "description": "Observable, auditable Slay the Spire 2 agent with an OpenAI-compatible model interface",
     "id": "optima-xu/SpireMind",
     "language": "Python",
@@ -106,24 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-02T14:34:13Z",
     "url": "https://github.com/optima-xu/SpireMind"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4441,
-    "updated_at": "2026-10-02T14:36:52Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "LLM-Agent \u00d7 UniversalSniffer \u2014 \u0438\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u044f MCP-\u0441\u043d\u0438\u0444\u0444\u0435\u0440\u0430 (16 tools), \u0430\u0433\u0435\u043d\u0442\u043e\u0432 \u0438 OAC-\u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u0430 + Next.js 16 live-\u0434\u0430\u0448\u0431\u043e\u0440\u0434 \u0441 \u0434",
-    "id": "mobstardos/llm-agent-sniffer-integration",
-    "language": "Python",
-    "name": "mobstardos/llm-agent-sniffer-integration",
-    "stars": 0,
-    "updated_at": "2026-10-02T14:33:33Z",
-    "url": "https://github.com/mobstardos/llm-agent-sniffer-integration"
   },
   {
     "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
@@ -202,7 +238,7 @@
     "id": "yologdev/yoagent",
     "language": "Rust",
     "name": "yologdev/yoagent",
-    "stars": 197,
+    "stars": 198,
     "updated_at": "2026-10-02T14:22:22Z",
     "url": "https://github.com/yologdev/yoagent"
   },
@@ -261,15 +297,6 @@
     "url": "https://github.com/helixml/helix"
   },
   {
-    "description": "\u628a\u5b98\u65b9\u6781\u7b80\u63d0\u793a\u8bcd\u4e0e PTC \u7f16\u6392\u7ec4\u5408\u8d77\u6765\uff0c\u63d0\u4f9b\u5b8c\u6574\u63d2\u4ef6\u5de5\u5177\u548c Windows \u7ec8\u7aef\u9002\u914d\u3002",
-    "id": "STARDUSTLC666/dsh-minimal-ptc",
-    "language": "JavaScript",
-    "name": "STARDUSTLC666/dsh-minimal-ptc",
-    "stars": 1,
-    "updated_at": "2026-10-02T14:15:59Z",
-    "url": "https://github.com/STARDUSTLC666/dsh-minimal-ptc"
-  },
-  {
     "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
     "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
     "language": "\u2014",
@@ -311,7 +338,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 28,
-    "updated_at": "2026-10-02T14:07:37Z",
+    "updated_at": "2026-10-02T15:05:48Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -349,24 +376,6 @@
     "stars": 0,
     "updated_at": "2026-10-02T14:02:48Z",
     "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-02T14:02:41Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "Cross-platform Rust computer-use MCP server for macOS and Windows: AX/UIA, screenshots, OCR, pointer and keyboard input,",
-    "id": "bigduu/Nova",
-    "language": "Rust",
-    "name": "bigduu/Nova",
-    "stars": 22,
-    "updated_at": "2026-10-02T14:30:43Z",
-    "url": "https://github.com/bigduu/Nova"
   },
   {
     "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-02T13:48:58Z",
     "url": "https://github.com/amineeng/scraping-browser"
-  },
-  {
-    "description": "DeepSearch-RL\uff1a\u57fa\u4e8e Tool-Agentic RL \u7684\u591a\u8df3\u641c\u7d22\u667a\u80fd\u4f53\uff08Qwen3-8B / veRL / SGLang / GRPO\uff09",
-    "id": "yongyi999/DeepSearch-RL",
-    "language": "Python",
-    "name": "yongyi999/DeepSearch-RL",
-    "stars": 0,
-    "updated_at": "2026-10-02T13:46:59Z",
-    "url": "https://github.com/yongyi999/DeepSearch-RL"
   }
 ]
