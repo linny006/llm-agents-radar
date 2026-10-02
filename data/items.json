@@ -1,5 +1,86 @@
 [
   {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-02T18:24:49Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-10-02T18:24:44Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-10-02T18:24:06Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Claude Code plugin: universal radial-tree exploration engine. One tree skill + swappable presets (brainstorm / attack / ",
+    "id": "skymanbp/cc-tree",
+    "language": "Python",
+    "name": "skymanbp/cc-tree",
+    "stars": 101,
+    "updated_at": "2026-10-02T18:22:02Z",
+    "url": "https://github.com/skymanbp/cc-tree"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 1,
+    "updated_at": "2026-10-02T18:20:55Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "Gestor ag\u00e9ntico de modelos llm",
+    "id": "bondwell79/hercules",
+    "language": "Python",
+    "name": "bondwell79/hercules",
+    "stars": 0,
+    "updated_at": "2026-10-02T18:19:32Z",
+    "url": "https://github.com/bondwell79/hercules"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-02T18:22:13Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 3,
+    "updated_at": "2026-10-02T18:18:33Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Deterministic orchestration, execution assurance, and quota-aware continuity runtime for GLM coding agents in ZCode",
+    "id": "Chengy257/glm-conductor",
+    "language": "Python",
+    "name": "Chengy257/glm-conductor",
+    "stars": 0,
+    "updated_at": "2026-10-02T18:19:58Z",
+    "url": "https://github.com/Chengy257/glm-conductor"
+  },
+  {
     "description": "A small, plantable (parasitic but only in a good sense kefir for eternity in a way) culture for development through self",
     "id": "genaforvena/mishe-tauftauf",
     "language": "Python",
@@ -14,7 +95,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 8625,
-    "updated_at": "2026-10-02T18:10:36Z",
+    "updated_at": "2026-10-02T18:26:52Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -27,15 +108,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "Deterministic orchestration, execution assurance, and quota-aware continuity runtime for GLM coding agents in ZCode",
-    "id": "Chengy257/glm-conductor",
-    "language": "Python",
-    "name": "Chengy257/glm-conductor",
-    "stars": 0,
-    "updated_at": "2026-10-02T18:09:15Z",
-    "url": "https://github.com/Chengy257/glm-conductor"
-  },
-  {
     "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
     "id": "edjafarov/kiagent-core",
     "language": "TypeScript",
@@ -43,42 +115,6 @@
     "stars": 7,
     "updated_at": "2026-10-02T18:02:58Z",
     "url": "https://github.com/edjafarov/kiagent-core"
-  },
-  {
-    "description": "Gestor ag\u00e9ntico de modelos llm",
-    "id": "bondwell79/hercules",
-    "language": "Python",
-    "name": "bondwell79/hercules",
-    "stars": 0,
-    "updated_at": "2026-10-02T18:02:24Z",
-    "url": "https://github.com/bondwell79/hercules"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-10-02T18:05:16Z",
-    "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-10-02T18:12:10Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-02T18:11:33Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
@@ -142,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-10-02T17:27:10Z",
     "url": "https://github.com/Blondieredistributed612/pocket-agent"
-  },
-  {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 1,
-    "updated_at": "2026-10-02T18:07:38Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-02T16:46:54Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-10-02T16:46:01Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-02T16:38:37Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-02T16:32:09Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   }
 ]
