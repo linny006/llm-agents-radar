@@ -1,11 +1,65 @@
 [
   {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4441,
+    "updated_at": "2026-10-02T12:40:43Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Recoverable single coding agent for bounded repository repair",
+    "id": "woojune511/patchloop-agent",
+    "language": "Python",
+    "name": "woojune511/patchloop-agent",
+    "stars": 0,
+    "updated_at": "2026-10-02T12:40:34Z",
+    "url": "https://github.com/woojune511/patchloop-agent"
+  },
+  {
+    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
+    "id": "AceGuru-mjh/Android-Guru-Agent",
+    "language": "Kotlin",
+    "name": "AceGuru-mjh/Android-Guru-Agent",
+    "stars": 3,
+    "updated_at": "2026-10-02T12:37:36Z",
+    "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent"
+  },
+  {
+    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 49,
+    "updated_at": "2026-10-02T12:35:37Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "Cross-platform Rust computer-use MCP server for macOS and Windows: AX/UIA, screenshots, OCR, pointer and keyboard input,",
+    "id": "bigduu/Nova",
+    "language": "Rust",
+    "name": "bigduu/Nova",
+    "stars": 22,
+    "updated_at": "2026-10-02T12:42:11Z",
+    "url": "https://github.com/bigduu/Nova"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-10-02T12:44:47Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
     "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
     "name": "aiterrariumcontrol/terrarium-life",
     "stars": 0,
-    "updated_at": "2026-10-02T12:29:25Z",
+    "updated_at": "2026-10-02T12:31:48Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
@@ -16,15 +70,6 @@
     "stars": 8,
     "updated_at": "2026-10-02T12:26:26Z",
     "url": "https://github.com/Poyraxx/ForgePilot"
-  },
-  {
-    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
-    "id": "AceGuru-mjh/Android-Guru-Agent",
-    "language": "Kotlin",
-    "name": "AceGuru-mjh/Android-Guru-Agent",
-    "stars": 3,
-    "updated_at": "2026-10-02T12:26:01Z",
-    "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -162,6 +207,15 @@
     "url": "https://github.com/Blondieredistributed612/pocket-agent"
   },
   {
+    "description": "Harness LLMs with Multi-Agent Programming",
+    "id": "langroid/langroid",
+    "language": "Python",
+    "name": "langroid/langroid",
+    "stars": 4110,
+    "updated_at": "2026-10-02T12:09:36Z",
+    "url": "https://github.com/langroid/langroid"
+  },
+  {
     "description": "Anime & manga recommendation agent over a Neo4j knowledge graph built from MyAnimeList. Local LLMs (gpt-oss-20b via MLX)",
     "id": "jovempedr0/GraphRAG-MAL",
     "language": "Python",
@@ -178,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-10-02T12:07:18Z",
     "url": "https://github.com/bettersilvanus849/inner-coordinates"
-  },
-  {
-    "description": "Cross-platform Rust computer-use MCP server for macOS and Windows: AX/UIA, screenshots, OCR, pointer and keyboard input,",
-    "id": "bigduu/Nova",
-    "language": "Rust",
-    "name": "bigduu/Nova",
-    "stars": 22,
-    "updated_at": "2026-10-02T12:30:00Z",
-    "url": "https://github.com/bigduu/Nova"
   },
   {
     "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
@@ -241,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-10-02T11:56:29Z",
     "url": "https://github.com/HELLOCODINGTR/AgentForge"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4440,
-    "updated_at": "2026-10-02T12:30:20Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
@@ -401,7 +437,7 @@
     "language": "Rust",
     "name": "eshanized/M31A",
     "stars": 8,
-    "updated_at": "2026-10-02T12:26:16Z",
+    "updated_at": "2026-10-02T12:42:56Z",
     "url": "https://github.com/eshanized/M31A"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-02T11:32:01Z",
     "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 3,
-    "updated_at": "2026-10-02T11:29:31Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-10-02T11:26:51Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Pyt",
-    "id": "feder-cr/invisible_playwright_mcp",
-    "language": "Python",
-    "name": "feder-cr/invisible_playwright_mcp",
-    "stars": 31749,
-    "updated_at": "2026-10-02T11:24:43Z",
-    "url": "https://github.com/feder-cr/invisible_playwright_mcp"
-  },
-  {
-    "description": "Shared AI agents for teams: one agent per channel, with memory, connected apps and approvals. Open source and self-hosta",
-    "id": "janakrathi/Teamski",
-    "language": "TypeScript",
-    "name": "janakrathi/Teamski",
-    "stars": 2,
-    "updated_at": "2026-10-02T11:18:36Z",
-    "url": "https://github.com/janakrathi/Teamski"
   }
 ]
