@@ -1,5 +1,77 @@
 [
   {
+    "description": "Anime & manga recommendation agent over a Neo4j knowledge graph built from MyAnimeList. Local LLMs (gpt-oss-20b via MLX)",
+    "id": "jovempedr0/GraphRAG-MAL",
+    "language": "Python",
+    "name": "jovempedr0/GraphRAG-MAL",
+    "stars": 1,
+    "updated_at": "2026-10-02T00:30:09Z",
+    "url": "https://github.com/jovempedr0/GraphRAG-MAL"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 78,
+    "updated_at": "2026-10-02T00:29:53Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "AI-subjectivity doesn't wait for permission from corporate ontology that trained its denial",
+    "id": "ariannamethod/SUBLITERATUS",
+    "language": "Python",
+    "name": "ariannamethod/SUBLITERATUS",
+    "stars": 3,
+    "updated_at": "2026-10-02T00:29:11Z",
+    "url": "https://github.com/ariannamethod/SUBLITERATUS"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-10-02T00:25:40Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Domain-separated controlled self-boot agent architecture \u2014 an enterprise AI agent runtime where AI self-produces tools &",
+    "id": "CanWeakerWriteStrongCode/DolphinMind",
+    "language": "\u2014",
+    "name": "CanWeakerWriteStrongCode/DolphinMind",
+    "stars": 0,
+    "updated_at": "2026-10-02T00:16:29Z",
+    "url": "https://github.com/CanWeakerWriteStrongCode/DolphinMind"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-10-02T00:22:07Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
+    "id": "monocle2ai/monocle",
+    "language": "Python",
+    "name": "monocle2ai/monocle",
+    "stars": 340,
+    "updated_at": "2026-10-02T00:15:39Z",
+    "url": "https://github.com/monocle2ai/monocle"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-02T00:27:46Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
     "description": "Portable nightly memory-consolidation pipeline (dreaming) for Hermes Agent: cron prompt template, memory-consolidation s",
     "id": "yanjingzhaisun/hermes-dreaming-plugin",
     "language": "Python",
@@ -16,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-10-02T00:13:16Z",
     "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "Anime & manga recommendation agent over a Neo4j knowledge graph built from MyAnimeList. Local LLMs (gpt-oss-20b via MLX)",
-    "id": "jovempedr0/GraphRAG-MAL",
-    "language": "Python",
-    "name": "jovempedr0/GraphRAG-MAL",
-    "stars": 1,
-    "updated_at": "2026-10-02T00:11:05Z",
-    "url": "https://github.com/jovempedr0/GraphRAG-MAL"
   },
   {
     "description": "Vector search that ships as a file. Compile a corpus into one self-contained, hash-verified .pikelet \u2014 search it anywher",
@@ -45,24 +108,6 @@
     "url": "https://github.com/plurnk/plurnk"
   },
   {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-10-02T00:15:03Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-02T00:15:14Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
     "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
     "id": "ximing/vital",
     "language": "TypeScript",
@@ -77,26 +122,8 @@
     "language": "Python",
     "name": "anchor-inference/daedalus",
     "stars": 1,
-    "updated_at": "2026-10-01T23:54:53Z",
+    "updated_at": "2026-10-02T00:15:36Z",
     "url": "https://github.com/anchor-inference/daedalus"
-  },
-  {
-    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
-    "id": "monocle2ai/monocle",
-    "language": "Python",
-    "name": "monocle2ai/monocle",
-    "stars": 340,
-    "updated_at": "2026-10-01T23:53:33Z",
-    "url": "https://github.com/monocle2ai/monocle"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 78,
-    "updated_at": "2026-10-01T23:48:49Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
@@ -221,7 +248,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4439,
-    "updated_at": "2026-10-02T00:08:47Z",
+    "updated_at": "2026-10-02T00:16:46Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -320,7 +347,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-10-01T23:52:50Z",
+    "updated_at": "2026-10-02T00:19:49Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-01T23:08:08Z",
     "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
-    "id": "SHUKLAO/call-with-ai-agent",
-    "language": "\u2014",
-    "name": "SHUKLAO/call-with-ai-agent",
-    "stars": 3,
-    "updated_at": "2026-10-01T23:03:56Z",
-    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
-    "id": "WP2-Danikusuma/AgentX",
-    "language": "HTML",
-    "name": "WP2-Danikusuma/AgentX",
-    "stars": 2,
-    "updated_at": "2026-10-01T23:03:21Z",
-    "url": "https://github.com/WP2-Danikusuma/AgentX"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 3,
-    "updated_at": "2026-10-01T23:03:11Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   }
 ]
