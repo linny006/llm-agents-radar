@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [dkblinux98/nyxGPT](https://github.com/dkblinux98/nyxGPT) | 0 | Python | 2026-10-02 | Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi |
-| 2 | [12349/agentic-financial-research-assistant](https://github.com/12349/agentic-financial-research-assistant) | 0 | Python | 2026-10-02 | A multi-tool orchestration agent that answers compound financial research questions by deciding which of several financi |
-| 3 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 10 | Python | 2026-10-02 | Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT. |
-| 4 | [duongnq2798/vestiarion](https://github.com/duongnq2798/vestiarion) | 1 | TypeScript | 2026-10-02 | An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e |
-| 5 | [gptme/gptme](https://github.com/gptme/gptme) | 4439 | Python | 2026-10-02 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
-| 6 | [InfernoPC/Miaozhu](https://github.com/InfernoPC/Miaozhu) | 0 | TypeScript | 2026-10-02 | A desk-slapping cat that lives on your desktop: a macOS/Windows AI assistant with file, shell, web and screenshot tools  |
+| 1 | [InfernoPC/Miaozhu](https://github.com/InfernoPC/Miaozhu) | 0 | TypeScript | 2026-10-02 | A desk-slapping cat that lives on your desktop: a macOS/Windows AI assistant with file, shell, web and screenshot tools  |
+| 2 | [dkblinux98/nyxGPT](https://github.com/dkblinux98/nyxGPT) | 0 | Python | 2026-10-02 | Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi |
+| 3 | [12349/agentic-financial-research-assistant](https://github.com/12349/agentic-financial-research-assistant) | 0 | Python | 2026-10-02 | A multi-tool orchestration agent that answers compound financial research questions by deciding which of several financi |
+| 4 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 10 | Python | 2026-10-02 | Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT. |
+| 5 | [duongnq2798/vestiarion](https://github.com/duongnq2798/vestiarion) | 1 | TypeScript | 2026-10-02 | An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e |
+| 6 | [gptme/gptme](https://github.com/gptme/gptme) | 4439 | Python | 2026-10-02 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
 | 7 | [wufufu770/d2d](https://github.com/wufufu770/d2d) | 4 | JavaScript | 2026-10-02 | 三环并行渗透测试 dsh 插件 — discovery/deep/creative 三环 + 独立 verify 闭环，Kuzu 图黑板共享状态，多 agent 自调度、按角色模型策略、自学习知识脑。仅用于授权安全测试（SRC/靶场/自有资 |
 | 8 | [gangg111/DeepSeek-Harness-Mobile](https://github.com/gangg111/DeepSeek-Harness-Mobile) | 0 | JavaScript | 2026-10-02 | DeepSeek Harness na Androidzie w jednym APK, bez Termuxa i roota, z polskim interfejsem i kompletem narzędzi programisty |
 | 9 | [justacalico/devinorium](https://github.com/justacalico/devinorium) | 0 | Dart | 2026-10-02 | Control AI agents anywhere. (github mirror) |
