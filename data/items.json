@@ -1,5 +1,140 @@
 [
   {
+    "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
+    "id": "rugose-learnedprofession58/pi-dsh",
+    "language": "TypeScript",
+    "name": "rugose-learnedprofession58/pi-dsh",
+    "stars": 0,
+    "updated_at": "2026-10-02T17:29:20Z",
+    "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
+  },
+  {
+    "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
+    "id": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
+    "language": "JavaScript",
+    "name": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
+    "stars": 1,
+    "updated_at": "2026-10-02T17:28:29Z",
+    "url": "https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder"
+  },
+  {
+    "description": "Verify area values quickly with this web-based HTML calculator tool.",
+    "id": "passive-hotpepper515/area-checker-html-tool",
+    "language": "HTML",
+    "name": "passive-hotpepper515/area-checker-html-tool",
+    "stars": 0,
+    "updated_at": "2026-10-02T17:28:11Z",
+    "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
+  },
+  {
+    "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
+    "id": "Blondieredistributed612/pocket-agent",
+    "language": "Python",
+    "name": "Blondieredistributed612/pocket-agent",
+    "stars": 2,
+    "updated_at": "2026-10-02T17:27:10Z",
+    "url": "https://github.com/Blondieredistributed612/pocket-agent"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 1,
+    "updated_at": "2026-10-02T17:25:52Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
+    "id": "roxm337/osint-agent",
+    "language": "Python",
+    "name": "roxm337/osint-agent",
+    "stars": 0,
+    "updated_at": "2026-10-02T17:25:04Z",
+    "url": "https://github.com/roxm337/osint-agent"
+  },
+  {
+    "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
+    "id": "bettersilvanus849/inner-coordinates",
+    "language": "Shell",
+    "name": "bettersilvanus849/inner-coordinates",
+    "stars": 1,
+    "updated_at": "2026-10-02T17:23:58Z",
+    "url": "https://github.com/bettersilvanus849/inner-coordinates"
+  },
+  {
+    "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
+    "id": "Blaz742/web-pentest-lab",
+    "language": "\u2014",
+    "name": "Blaz742/web-pentest-lab",
+    "stars": 0,
+    "updated_at": "2026-10-02T17:23:06Z",
+    "url": "https://github.com/Blaz742/web-pentest-lab"
+  },
+  {
+    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
+    "id": "Elevated-homer201/prompt-gate",
+    "language": "\u2014",
+    "name": "Elevated-homer201/prompt-gate",
+    "stars": 1,
+    "updated_at": "2026-10-02T17:22:49Z",
+    "url": "https://github.com/Elevated-homer201/prompt-gate"
+  },
+  {
+    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
+    "id": "Indrasclerotinia71/local-ai-research-assistant",
+    "language": "Python",
+    "name": "Indrasclerotinia71/local-ai-research-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-02T17:21:40Z",
+    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
+  },
+  {
+    "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
+    "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
+    "language": "Python",
+    "name": "Furrowed-subphylumurochorda108/kimi-K2.6",
+    "stars": 3,
+    "updated_at": "2026-10-02T17:20:26Z",
+    "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-02T17:29:20Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
+    "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
+    "language": "\u2014",
+    "name": "mpardakaskon-boop/obsidian-llm-wiki-local",
+    "stars": 1,
+    "updated_at": "2026-10-02T17:20:00Z",
+    "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
+  },
+  {
+    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
+    "id": "HELLOCODINGTR/AgentForge",
+    "language": "\u2014",
+    "name": "HELLOCODINGTR/AgentForge",
+    "stars": 1,
+    "updated_at": "2026-10-02T17:16:30Z",
+    "url": "https://github.com/HELLOCODINGTR/AgentForge"
+  },
+  {
+    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
+    "id": "strobilevitellus470/argus-ai",
+    "language": "Python",
+    "name": "strobilevitellus470/argus-ai",
+    "stars": 1,
+    "updated_at": "2026-10-02T17:15:48Z",
+    "url": "https://github.com/strobilevitellus470/argus-ai"
+  },
+  {
     "description": "LLM-Agent \u00d7 UniversalSniffer \u2014 \u0438\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u044f MCP-\u0441\u043d\u0438\u0444\u0444\u0435\u0440\u0430 (16 tools), \u0430\u0433\u0435\u043d\u0442\u043e\u0432 \u0438 OAC-\u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u0430 + Next.js 16 live-\u0434\u0430\u0448\u0431\u043e\u0440\u0434 \u0441 \u0434",
     "id": "mobstardos/llm-agent-sniffer-integration",
     "language": "Python",
@@ -117,15 +252,6 @@
     "url": "https://github.com/amineeng/scraping-browser"
   },
   {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-02T17:14:51Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
     "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
     "id": "agentpit-io/hunter-community",
     "language": "Python",
@@ -153,6 +279,15 @@
     "url": "https://github.com/piporyx/doc-qa-agent"
   },
   {
+    "description": "Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Pyt",
+    "id": "feder-cr/invisible_playwright_mcp",
+    "language": "Python",
+    "name": "feder-cr/invisible_playwright_mcp",
+    "stars": 31750,
+    "updated_at": "2026-10-02T16:57:34Z",
+    "url": "https://github.com/feder-cr/invisible_playwright_mcp"
+  },
+  {
     "description": "A small, plantable (parasitic but only in a good sense kefir for eternity in a way) culture for development through self",
     "id": "genaforvena/mishe-tauftauf",
     "language": "Python",
@@ -169,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-10-02T16:52:23Z",
     "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Pyt",
-    "id": "feder-cr/invisible_playwright_mcp",
-    "language": "Python",
-    "name": "feder-cr/invisible_playwright_mcp",
-    "stars": 31749,
-    "updated_at": "2026-10-02T16:57:34Z",
-    "url": "https://github.com/feder-cr/invisible_playwright_mcp"
   },
   {
     "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
@@ -275,7 +401,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4440,
-    "updated_at": "2026-10-02T17:11:00Z",
+    "updated_at": "2026-10-02T17:27:29Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -320,133 +446,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 814,
-    "updated_at": "2026-10-02T16:04:39Z",
+    "updated_at": "2026-10-02T17:20:33Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "\u673a\u6784\u7ea7\u81ea\u4e3b\u91cf\u5316\u4ea4\u6613\u64cd\u4f5c\u7cfb\u7edf\uff1a\u591a\u6a21\u578b\u535a\u5f08\u6295\u59d4\u4f1a \u00b7 7\u5c42\u884d\u751f\u54c1\u5fae\u7ed3\u6784\u5fae\u79ef\u5206 \u00b7 \u786e\u5b9a\u6027\u7269\u7406\u98ce\u63a7\u786c\u9632\u7ebf\uff5cInstitutional-Grade Autonomous Quant Trading OS: Adversarial Multi-Age",
-    "id": "0xethanq/astra-quant-agent",
-    "language": "Python",
-    "name": "0xethanq/astra-quant-agent",
-    "stars": 290,
-    "updated_at": "2026-10-02T16:01:44Z",
-    "url": "https://github.com/0xethanq/astra-quant-agent"
-  },
-  {
-    "description": "\u5e26\u7b56\u7565\u9a8c\u8bc1\u7684 A \u80a1 LLM \u5206\u6790\u7cfb\u7edf \u2014\u2014 \u591a\u6e90\u964d\u7ea7 + \u5b9a\u65f6\u4efb\u52a1 + \u591a\u901a\u9053\u63a8\u9001\uff1b\u6838\u5fc3\u589e\u91cf\u662f\u53ef\u8bc1\u4f2a\u7684\u56de\u6d4b\u4e0e\u9a8c\u8bc1\u5c42\uff08\u672a\u6765\u51fd\u6570\u63a2\u6d4b / \u6837\u672c\u5185\u5916\u5207\u5206 / t\u68c0\u9a8c / \u57fa\u51c6\u5bf9\u6bd4\uff09",
-    "id": "AandBorC/dsa-lite",
-    "language": "Python",
-    "name": "AandBorC/dsa-lite",
-    "stars": 0,
-    "updated_at": "2026-10-02T15:59:52Z",
-    "url": "https://github.com/AandBorC/dsa-lite"
-  },
-  {
-    "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
-    "id": "anchor-inference/daedalus",
-    "language": "Python",
-    "name": "anchor-inference/daedalus",
-    "stars": 1,
-    "updated_at": "2026-10-02T16:20:44Z",
-    "url": "https://github.com/anchor-inference/daedalus"
-  },
-  {
-    "description": "Recoverable single coding agent for bounded repository repair",
-    "id": "woojune511/patchloop-agent",
-    "language": "Python",
-    "name": "woojune511/patchloop-agent",
-    "stars": 0,
-    "updated_at": "2026-10-02T15:48:41Z",
-    "url": "https://github.com/woojune511/patchloop-agent"
-  },
-  {
-    "description": "Cross-platform Rust computer-use MCP server for macOS and Windows: AX/UIA, screenshots, OCR, pointer and keyboard input,",
-    "id": "bigduu/Nova",
-    "language": "Rust",
-    "name": "bigduu/Nova",
-    "stars": 22,
-    "updated_at": "2026-10-02T15:49:07Z",
-    "url": "https://github.com/bigduu/Nova"
-  },
-  {
-    "description": "\u5e26\u6267\u884c\u8fc7\u7a0b\u53ef\u89c6\u5316\u7684\u4e2d\u6587\u8c23\u8a00\u6838\u67e5:\u62c6\u539f\u5b50\u4e8b\u5b9e\u3001\u591a\u6e90\u5e76\u884c\u68c0\u7d22\u3001\u9010\u6761\u5224\u771f\u5047,\u5168\u7a0b\u6d41\u5f0f\u53ef\u89c2\u6d4b",
-    "id": "forwaryan/rumor-checking",
-    "language": "Python",
-    "name": "forwaryan/rumor-checking",
-    "stars": 0,
-    "updated_at": "2026-10-02T15:40:23Z",
-    "url": "https://github.com/forwaryan/rumor-checking"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 6095,
-    "updated_at": "2026-10-02T15:48:11Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-10-02T15:26:10Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 78,
-    "updated_at": "2026-10-02T15:18:43Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
-    "id": "eshanized/M31A",
-    "language": "Rust",
-    "name": "eshanized/M31A",
-    "stars": 8,
-    "updated_at": "2026-10-02T17:08:47Z",
-    "url": "https://github.com/eshanized/M31A"
-  },
-  {
-    "description": "Check your MCP servers for tool poisoning and rug pulls, and benchmark MCP security tools under verifiable conditions.",
-    "id": "Manishmaurya89/mcp-guardbench",
-    "language": "Python",
-    "name": "Manishmaurya89/mcp-guardbench",
-    "stars": 1,
-    "updated_at": "2026-10-02T15:12:11Z",
-    "url": "https://github.com/Manishmaurya89/mcp-guardbench"
-  },
-  {
-    "description": "\u628a\u5b98\u65b9\u6781\u7b80\u63d0\u793a\u8bcd\u4e0e PTC \u7f16\u6392\u7ec4\u5408\u8d77\u6765\uff0c\u63d0\u4f9b\u5b8c\u6574\u63d2\u4ef6\u5de5\u5177\u548c Windows \u7ec8\u7aef\u9002\u914d\u3002",
-    "id": "STARDUSTLC666/dsh-minimal-ptc",
-    "language": "JavaScript",
-    "name": "STARDUSTLC666/dsh-minimal-ptc",
-    "stars": 1,
-    "updated_at": "2026-10-02T15:06:28Z",
-    "url": "https://github.com/STARDUSTLC666/dsh-minimal-ptc"
-  },
-  {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "TypeScript",
-    "name": "dsswift/ion",
-    "stars": 3,
-    "updated_at": "2026-10-02T14:52:29Z",
-    "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "\u628a\u957f\u5bf9\u8bdd\u7684\u91cd\u590d\u8ba1\u8d39\u780d\u6389\u4e00\u534a\uff0c\u5e76\u7ed9\u6a21\u578b\u914d\u4e00\u540d\u53ea\u8bfb\u8c03\u67e5\u5458\uff1a\u5148\u6838\u5b9e\uff0c\u540e\u52a8\u624b\u3002\u9762\u5411 DeepSeek Harness \u7684\u4e0a\u4e0b\u6587\u538b\u7f29\u4e0e\u5916\u7f6e\u63a8\u7406\u63d2\u4ef6\uff08MIT\uff09\u3002",
-    "id": "ScreamingMaggot/rcs-context",
-    "language": "JavaScript",
-    "name": "ScreamingMaggot/rcs-context",
-    "stars": 1,
-    "updated_at": "2026-10-02T14:52:29Z",
-    "url": "https://github.com/ScreamingMaggot/rcs-context"
   }
 ]
