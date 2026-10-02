@@ -1,5 +1,104 @@
 [
   {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 130,
+    "updated_at": "2026-10-02T13:44:14Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-10-02T13:43:43Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 49,
+    "updated_at": "2026-10-02T13:42:45Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
+    "id": "anchor-inference/daedalus",
+    "language": "Python",
+    "name": "anchor-inference/daedalus",
+    "stars": 1,
+    "updated_at": "2026-10-02T13:42:44Z",
+    "url": "https://github.com/anchor-inference/daedalus"
+  },
+  {
+    "description": "A multi-tool orchestration agent that answers compound financial research questions by deciding which of several financi",
+    "id": "12349/agentic-financial-research-assistant",
+    "language": "Python",
+    "name": "12349/agentic-financial-research-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-02T13:41:56Z",
+    "url": "https://github.com/12349/agentic-financial-research-assistant"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-10-02T13:40:28Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
+    "id": "denisotree/veles",
+    "language": "Python",
+    "name": "denisotree/veles",
+    "stars": 4,
+    "updated_at": "2026-10-02T13:39:46Z",
+    "url": "https://github.com/denisotree/veles"
+  },
+  {
+    "description": "Akane \u684c\u9762\u667a\u80fd\u4f53\u5c42\uff1a\u8ba9\u966a\u4f34\u89d2\u8272\u80fd\u5728\u771f\u5b9e IM \u5ba2\u6237\u7aef\u91cc\u66ff\u4e3b\u4eba\u8bf4\u8bdd\uff08\u53ef\u5ba1\u8ba1 / \u53ef\u62d2\u7edd / \u53ef\u56de\u6eda\uff09\u3002\u884d\u751f\u81ea misaka-coder/AkaneCompanionLab\uff0c\u8be6\u89c1 CREDITS.md \u4e0e docs/INNOVATIONS",
+    "id": "windy-0-0/akane-desktop-agent",
+    "language": "Python",
+    "name": "windy-0-0/akane-desktop-agent",
+    "stars": 2,
+    "updated_at": "2026-10-02T13:37:04Z",
+    "url": "https://github.com/windy-0-0/akane-desktop-agent"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-10-02T13:36:25Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8619,
+    "updated_at": "2026-10-02T13:36:21Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 3,
+    "updated_at": "2026-10-02T13:33:28Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
     "description": "",
     "id": "JortegaR/ai-notes-api",
     "language": "JavaScript",
@@ -27,24 +126,6 @@
     "url": "https://github.com/bigduu/Nova"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8619,
-    "updated_at": "2026-10-02T13:23:05Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-10-02T13:27:35Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
     "id": "agentpit-io/hunter-community",
     "language": "Python",
@@ -68,7 +149,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 1,
-    "updated_at": "2026-10-02T13:17:57Z",
+    "updated_at": "2026-10-02T13:38:25Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -176,7 +257,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4441,
-    "updated_at": "2026-10-02T13:25:16Z",
+    "updated_at": "2026-10-02T13:42:47Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -196,15 +277,6 @@
     "stars": 3,
     "updated_at": "2026-10-02T13:00:03Z",
     "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent"
-  },
-  {
-    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 49,
-    "updated_at": "2026-10-02T12:35:37Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-02T12:01:48Z",
     "url": "https://github.com/mino19790622-dot/visual-inspection-report-generator"
-  },
-  {
-    "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
-    "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "language": "\u2014",
-    "name": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "stars": 1,
-    "updated_at": "2026-10-02T12:00:31Z",
-    "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
-    "id": "HELLOCODINGTR/AgentForge",
-    "language": "\u2014",
-    "name": "HELLOCODINGTR/AgentForge",
-    "stars": 1,
-    "updated_at": "2026-10-02T11:56:29Z",
-    "url": "https://github.com/HELLOCODINGTR/AgentForge"
-  },
-  {
-    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
-    "id": "strobilevitellus470/argus-ai",
-    "language": "Python",
-    "name": "strobilevitellus470/argus-ai",
-    "stars": 1,
-    "updated_at": "2026-10-02T11:55:45Z",
-    "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-10-02T11:53:09Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-10-02T11:52:45Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-10-02T11:51:09Z",
-    "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-10-02T11:50:31Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Two MIT patches for Nous Research Hermes: stop busy-queue messages merging into one jumbled turn, and optionally run sel",
-    "id": "EauDoon/hermes-parallel-followups",
-    "language": "Python",
-    "name": "EauDoon/hermes-parallel-followups",
-    "stars": 0,
-    "updated_at": "2026-10-02T11:49:52Z",
-    "url": "https://github.com/EauDoon/hermes-parallel-followups"
   }
 ]
