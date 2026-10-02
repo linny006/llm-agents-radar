@@ -1,5 +1,23 @@
 [
   {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-02T16:38:37Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-02T16:32:09Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
     "description": "Self-healing keep-alive, watchdog and status dashboard for the Desktop Commander Remote agent and Chrome Remote Desktop ",
     "id": "analienx/remote-desktop-commander-agent-control",
     "language": "PowerShell",
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 8621,
-    "updated_at": "2026-10-02T16:28:51Z",
+    "updated_at": "2026-10-02T16:31:14Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -23,7 +41,7 @@
     "language": "TypeScript",
     "name": "Aretea-Group/isophase",
     "stars": 1,
-    "updated_at": "2026-10-02T16:28:21Z",
+    "updated_at": "2026-10-02T16:31:01Z",
     "url": "https://github.com/Aretea-Group/isophase"
   },
   {
@@ -50,7 +68,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4440,
-    "updated_at": "2026-10-02T16:27:31Z",
+    "updated_at": "2026-10-02T16:45:07Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -149,7 +167,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-02T16:19:48Z",
+    "updated_at": "2026-10-02T16:40:57Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -216,21 +234,12 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-02T15:14:19Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
     "id": "eshanized/M31A",
     "language": "Rust",
     "name": "eshanized/M31A",
     "stars": 8,
-    "updated_at": "2026-10-02T16:25:05Z",
+    "updated_at": "2026-10-02T16:36:46Z",
     "url": "https://github.com/eshanized/M31A"
   },
   {
@@ -250,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-10-02T15:06:28Z",
     "url": "https://github.com/STARDUSTLC666/dsh-minimal-ptc"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-02T15:01:36Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
@@ -400,7 +400,7 @@
     "id": "yologdev/yoagent",
     "language": "Rust",
     "name": "yologdev/yoagent",
-    "stars": 198,
+    "stars": 199,
     "updated_at": "2026-10-02T14:22:22Z",
     "url": "https://github.com/yologdev/yoagent"
   },
