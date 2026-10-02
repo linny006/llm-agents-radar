@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-02 10:30 UTC
+> ⏰ Last updated: 2026-10-02 10:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [gptme/gptme](https://github.com/gptme/gptme) | 4439 | Python | 2026-10-02 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
-| 2 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 6 | JavaScript | 2026-10-02 | Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use,  |
-| 3 | [shu0819-sjy/dsh-auto-continue](https://github.com/shu0819-sjy/dsh-auto-continue) | 0 | JavaScript | 2026-10-02 | Auto-resume failed/stalled turns for DeepSeek Harness (DSH) — dual-chain auto-continue + anti-repetition plugins, instal |
-| 4 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 10 | Python | 2026-10-02 | Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT. |
-| 5 | [edjafarov/kiagent-core](https://github.com/edjafarov/kiagent-core) | 7 | TypeScript | 2026-10-02 | kiagent-core — open-source personal AI brain — local, open source, speaks MCP |
-| 6 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 14 | Go | 2026-10-02 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
-| 7 | [Chensihakniroth/anakot-agent-v1](https://github.com/Chensihakniroth/anakot-agent-v1) | 0 | Python | 2026-10-02 | Lean, extended fork of Nous Research's Hermes Agent — free model suite, connectors, and ~20 perf fixes. Upstream credite |
-| 8 | [duongnq2798/vestiarion](https://github.com/duongnq2798/vestiarion) | 1 | TypeScript | 2026-10-02 | An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e |
-| 9 | [janakrathi/Teamski](https://github.com/janakrathi/Teamski) | 2 | TypeScript | 2026-10-02 | Shared AI agents for teams: one agent per channel, with memory, connected apps and approvals. Open source and self-hosta |
-| 10 | [bigduu/Nova](https://github.com/bigduu/Nova) | 22 | Rust | 2026-10-02 | Cross-platform Rust computer-use MCP server for macOS and Windows: AX/UIA, screenshots, OCR, pointer and keyboard input, |
-| 11 | [bigfish1913/pi-rust](https://github.com/bigfish1913/pi-rust) | 38 | Rust | 2026-10-02 | Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s |
-| 12 | [wufufu770/d2d](https://github.com/wufufu770/d2d) | 4 | JavaScript | 2026-10-02 | 三环并行渗透测试 dsh 插件 — discovery/deep/creative 三环 + 独立 verify 闭环，Kuzu 图黑板共享状态，多 agent 自调度、按角色模型策略、自学习知识脑。仅用于授权安全测试（SRC/靶场/自有资 |
-| 13 | [yologdev/yoagent](https://github.com/yologdev/yoagent) | 188 | Rust | 2026-10-02 | The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done. |
-| 14 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 78 | Python | 2026-10-02 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
-| 15 | [dkblinux98/nyxGPT](https://github.com/dkblinux98/nyxGPT) | 0 | Python | 2026-10-02 | Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi |
-| 16 | [anchor-inference/daedalus](https://github.com/anchor-inference/daedalus) | 1 | Python | 2026-10-02 | A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your |
+| 1 | [anchor-inference/daedalus](https://github.com/anchor-inference/daedalus) | 1 | Python | 2026-10-02 | A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your |
+| 2 | [gptme/gptme](https://github.com/gptme/gptme) | 4439 | Python | 2026-10-02 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
+| 3 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 6 | JavaScript | 2026-10-02 | Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use,  |
+| 4 | [shu0819-sjy/dsh-auto-continue](https://github.com/shu0819-sjy/dsh-auto-continue) | 0 | JavaScript | 2026-10-02 | Auto-resume failed/stalled turns for DeepSeek Harness (DSH) — dual-chain auto-continue + anti-repetition plugins, instal |
+| 5 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 10 | Python | 2026-10-02 | Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT. |
+| 6 | [edjafarov/kiagent-core](https://github.com/edjafarov/kiagent-core) | 7 | TypeScript | 2026-10-02 | kiagent-core — open-source personal AI brain — local, open source, speaks MCP |
+| 7 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 14 | Go | 2026-10-02 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
+| 8 | [Chensihakniroth/anakot-agent-v1](https://github.com/Chensihakniroth/anakot-agent-v1) | 0 | Python | 2026-10-02 | Lean, extended fork of Nous Research's Hermes Agent — free model suite, connectors, and ~20 perf fixes. Upstream credite |
+| 9 | [duongnq2798/vestiarion](https://github.com/duongnq2798/vestiarion) | 1 | TypeScript | 2026-10-02 | An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e |
+| 10 | [janakrathi/Teamski](https://github.com/janakrathi/Teamski) | 2 | TypeScript | 2026-10-02 | Shared AI agents for teams: one agent per channel, with memory, connected apps and approvals. Open source and self-hosta |
+| 11 | [bigduu/Nova](https://github.com/bigduu/Nova) | 22 | Rust | 2026-10-02 | Cross-platform Rust computer-use MCP server for macOS and Windows: AX/UIA, screenshots, OCR, pointer and keyboard input, |
+| 12 | [bigfish1913/pi-rust](https://github.com/bigfish1913/pi-rust) | 38 | Rust | 2026-10-02 | Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s |
+| 13 | [wufufu770/d2d](https://github.com/wufufu770/d2d) | 4 | JavaScript | 2026-10-02 | 三环并行渗透测试 dsh 插件 — discovery/deep/creative 三环 + 独立 verify 闭环，Kuzu 图黑板共享状态，多 agent 自调度、按角色模型策略、自学习知识脑。仅用于授权安全测试（SRC/靶场/自有资 |
+| 14 | [yologdev/yoagent](https://github.com/yologdev/yoagent) | 188 | Rust | 2026-10-02 | The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done. |
+| 15 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 78 | Python | 2026-10-02 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
+| 16 | [dkblinux98/nyxGPT](https://github.com/dkblinux98/nyxGPT) | 0 | Python | 2026-10-02 | Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi |
 | 17 | [xieguigang/sciBASIC](https://github.com/xieguigang/sciBASIC) | 78 | Visual Basic .NET | 2026-10-02 | A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler |
 | 18 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 130 | HTML | 2026-10-02 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
 | 19 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-10-02 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |

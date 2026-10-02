@@ -1,11 +1,20 @@
 [
   {
+    "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
+    "id": "anchor-inference/daedalus",
+    "language": "Python",
+    "name": "anchor-inference/daedalus",
+    "stars": 1,
+    "updated_at": "2026-10-02T10:42:13Z",
+    "url": "https://github.com/anchor-inference/daedalus"
+  },
+  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4439,
-    "updated_at": "2026-10-02T10:29:42Z",
+    "updated_at": "2026-10-02T10:43:38Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -14,7 +23,7 @@
     "language": "JavaScript",
     "name": "bigduu/Zenith",
     "stars": 6,
-    "updated_at": "2026-10-02T10:29:01Z",
+    "updated_at": "2026-10-02T10:34:56Z",
     "url": "https://github.com/bigduu/Zenith"
   },
   {
@@ -131,17 +140,8 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-10-02T10:27:53Z",
+    "updated_at": "2026-10-02T10:39:05Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
-    "id": "anchor-inference/daedalus",
-    "language": "Python",
-    "name": "anchor-inference/daedalus",
-    "stars": 1,
-    "updated_at": "2026-10-02T09:43:10Z",
-    "url": "https://github.com/anchor-inference/daedalus"
   },
   {
     "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
