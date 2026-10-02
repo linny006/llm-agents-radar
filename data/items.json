@@ -1,11 +1,56 @@
 [
   {
+    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
+    "id": "AceGuru-mjh/Android-Guru-Agent",
+    "language": "Kotlin",
+    "name": "AceGuru-mjh/Android-Guru-Agent",
+    "stars": 3,
+    "updated_at": "2026-10-02T03:13:00Z",
+    "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent"
+  },
+  {
+    "description": "A desk-slapping cat that lives on your desktop: a macOS/Windows AI assistant with file, shell, web and screenshot tools ",
+    "id": "InfernoPC/Miaozhu",
+    "language": "TypeScript",
+    "name": "InfernoPC/Miaozhu",
+    "stars": 0,
+    "updated_at": "2026-10-02T03:13:54Z",
+    "url": "https://github.com/InfernoPC/Miaozhu"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-10-02T03:09:57Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-02T03:05:58Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 1,
+    "updated_at": "2026-10-02T03:00:56Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
     "description": "Vector search that ships as a file. Compile a corpus into one self-contained, hash-verified .pikelet \u2014 search it anywher",
     "id": "mcn92/pikelet",
     "language": "JavaScript",
     "name": "mcn92/pikelet",
     "stars": 2,
-    "updated_at": "2026-10-02T02:58:17Z",
+    "updated_at": "2026-10-02T03:06:23Z",
     "url": "https://github.com/mcn92/pikelet"
   },
   {
@@ -63,15 +108,6 @@
     "url": "https://github.com/mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo"
   },
   {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 1,
-    "updated_at": "2026-10-02T03:00:14Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
     "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
     "id": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
     "language": "Python",
@@ -90,15 +126,6 @@
     "url": "https://github.com/EpsteinF1les/tts"
   },
   {
-    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
-    "id": "AceGuru-mjh/Android-Guru-Agent",
-    "language": "Kotlin",
-    "name": "AceGuru-mjh/Android-Guru-Agent",
-    "stars": 3,
-    "updated_at": "2026-10-02T03:00:04Z",
-    "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent"
-  },
-  {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
     "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
@@ -115,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-10-02T02:54:12Z",
     "url": "https://github.com/jovempedr0/GraphRAG-MAL"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-02T02:53:17Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
@@ -275,7 +293,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-10-02T02:37:17Z",
+    "updated_at": "2026-10-02T03:07:03Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -428,25 +446,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4439,
-    "updated_at": "2026-10-02T02:51:18Z",
+    "updated_at": "2026-10-02T03:09:18Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Make any agent harness token-native.",
-    "id": "camel-ai/tokin",
-    "language": "Python",
-    "name": "camel-ai/tokin",
-    "stars": 4,
-    "updated_at": "2026-10-02T01:56:13Z",
-    "url": "https://github.com/camel-ai/tokin"
-  },
-  {
-    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
-    "id": "bigduu/Zenith",
-    "language": "JavaScript",
-    "name": "bigduu/Zenith",
-    "stars": 6,
-    "updated_at": "2026-10-02T01:56:17Z",
-    "url": "https://github.com/bigduu/Zenith"
   }
 ]
