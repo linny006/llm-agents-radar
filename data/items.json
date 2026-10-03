@@ -1,5 +1,32 @@
 [
   {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 1,
+    "updated_at": "2026-10-03T10:10:34Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-10-03T10:04:17Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "Send Pi agents back to work when they stop before the job is done.",
+    "id": "alexshpunt/pi-agent-foreman",
+    "language": "TypeScript",
+    "name": "alexshpunt/pi-agent-foreman",
+    "stars": 0,
+    "updated_at": "2026-10-03T10:05:18Z",
+    "url": "https://github.com/alexshpunt/pi-agent-foreman"
+  },
+  {
     "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
     "id": "yologdev/yoagent",
     "language": "Rust",
@@ -61,15 +88,6 @@
     "stars": 6,
     "updated_at": "2026-10-03T09:31:16Z",
     "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-10-03T09:29:40Z",
-    "url": "https://github.com/SashaEee/auditLens"
   },
   {
     "description": "Shared AI agents for teams: one agent per channel, with memory, connected apps and approvals. Open source and self-hosta",
@@ -160,15 +178,6 @@
     "stars": 6,
     "updated_at": "2026-10-03T08:48:13Z",
     "url": "https://github.com/kyleslight/shun"
-  },
-  {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 1,
-    "updated_at": "2026-10-03T09:55:19Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "Multi-step SQL agent over a relational e-commerce database: schema exploration, self-correcting retry loop, numeric hall",
@@ -277,15 +286,6 @@
     "stars": 10,
     "updated_at": "2026-10-03T09:25:37Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Send Pi agents back to work when they stop before the job is done.",
-    "id": "alexshpunt/pi-agent-foreman",
-    "language": "TypeScript",
-    "name": "alexshpunt/pi-agent-foreman",
-    "stars": 0,
-    "updated_at": "2026-10-03T09:55:01Z",
-    "url": "https://github.com/alexshpunt/pi-agent-foreman"
   },
   {
     "description": "Claude Code plugin to draft, review, revise, proofread, and audit quantitative-science journal manuscripts at submission",
