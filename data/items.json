@@ -1,11 +1,83 @@
 [
   {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 3,
+    "updated_at": "2026-10-03T01:08:57Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "A Go delivery loop that keeps creator asset decisions, token usage, and captured processing exceptions together.",
+    "id": "DaxHarrington7619/creator-delivery-loop-observer",
+    "language": "Go",
+    "name": "DaxHarrington7619/creator-delivery-loop-observer",
+    "stars": 0,
+    "updated_at": "2026-10-03T01:08:13Z",
+    "url": "https://github.com/DaxHarrington7619/creator-delivery-loop-observer"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "TypeScript",
+    "name": "dsswift/ion",
+    "stars": 3,
+    "updated_at": "2026-10-03T01:07:39Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-03T01:07:12Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Application Security orchestration platform",
+    "id": "grauwolf32/contractor",
+    "language": "Go",
+    "name": "grauwolf32/contractor",
+    "stars": 2,
+    "updated_at": "2026-10-03T01:06:42Z",
+    "url": "https://github.com/grauwolf32/contractor"
+  },
+  {
+    "description": "Cross-platform Rust computer-use MCP server for macOS and Windows: AX/UIA, screenshots, OCR, pointer and keyboard input,",
+    "id": "bigduu/Nova",
+    "language": "Rust",
+    "name": "bigduu/Nova",
+    "stars": 22,
+    "updated_at": "2026-10-03T01:06:13Z",
+    "url": "https://github.com/bigduu/Nova"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 1,
+    "updated_at": "2026-10-03T01:03:00Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-10-03T01:02:20Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
     "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
     "id": "BlockRunAI/Franklin",
     "language": "TypeScript",
     "name": "BlockRunAI/Franklin",
     "stars": 556,
-    "updated_at": "2026-10-03T00:59:59Z",
+    "updated_at": "2026-10-03T01:00:20Z",
     "url": "https://github.com/BlockRunAI/Franklin"
   },
   {
@@ -18,15 +90,6 @@
     "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent"
   },
   {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "TypeScript",
-    "name": "dsswift/ion",
-    "stars": 3,
-    "updated_at": "2026-10-03T00:59:42Z",
-    "url": "https://github.com/dsswift/ion"
-  },
-  {
     "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
     "id": "puremachinery/carapace",
     "language": "Rust",
@@ -34,15 +97,6 @@
     "stars": 47,
     "updated_at": "2026-10-03T00:59:25Z",
     "url": "https://github.com/puremachinery/carapace"
-  },
-  {
-    "description": "Application Security orchestration platform",
-    "id": "grauwolf32/contractor",
-    "language": "Go",
-    "name": "grauwolf32/contractor",
-    "stars": 2,
-    "updated_at": "2026-10-03T00:57:31Z",
-    "url": "https://github.com/grauwolf32/contractor"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -70,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-10-03T00:51:06Z",
     "url": "https://github.com/Stephenson-Software/create-dev-loop"
-  },
-  {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 1,
-    "updated_at": "2026-10-03T00:51:49Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
@@ -117,15 +162,6 @@
     "url": "https://github.com/crypmiy/vibe-trading-okx-futures"
   },
   {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-03T00:38:18Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
     "id": "genaforvena/mishe-tauftauf",
     "language": "Python",
@@ -140,7 +176,7 @@
     "language": "Python",
     "name": "franckolv-dev/ELY2",
     "stars": 1,
-    "updated_at": "2026-10-03T00:18:25Z",
+    "updated_at": "2026-10-03T01:01:00Z",
     "url": "https://github.com/franckolv-dev/ELY2"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-02T22:38:56Z",
     "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-10-02T22:37:28Z",
-    "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-10-02T22:36:56Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-10-02T22:36:07Z",
-    "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
-    "id": "bigduu/Zenith",
-    "language": "JavaScript",
-    "name": "bigduu/Zenith",
-    "stars": 6,
-    "updated_at": "2026-10-02T22:42:44Z",
-    "url": "https://github.com/bigduu/Zenith"
   }
 ]
