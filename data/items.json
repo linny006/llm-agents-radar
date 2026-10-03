@@ -1,5 +1,50 @@
 [
   {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 21,
+    "updated_at": "2026-10-03T21:54:57Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
+    "id": "kashyaprajharsh/medha-agent",
+    "language": "Rust",
+    "name": "kashyaprajharsh/medha-agent",
+    "stars": 0,
+    "updated_at": "2026-10-03T21:53:54Z",
+    "url": "https://github.com/kashyaprajharsh/medha-agent"
+  },
+  {
+    "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
+    "id": "jack-h-park/pm-intelligence-engine",
+    "language": "Python",
+    "name": "jack-h-park/pm-intelligence-engine",
+    "stars": 0,
+    "updated_at": "2026-10-03T21:49:55Z",
+    "url": "https://github.com/jack-h-park/pm-intelligence-engine"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-03T21:54:36Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "DSV4 behavior-discrimination benchmark: 81 lightweight zero-dependency pytest grading tests (d10/d11/d12/t2/t3/t4/v4) fo",
+    "id": "orangeofcarl0-sys/dsv4-behavior-bench",
+    "language": "Python",
+    "name": "orangeofcarl0-sys/dsv4-behavior-bench",
+    "stars": 2,
+    "updated_at": "2026-10-03T21:45:16Z",
+    "url": "https://github.com/orangeofcarl0-sys/dsv4-behavior-bench"
+  },
+  {
     "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
     "id": "honestDS/MonoLight",
     "language": "Python",
@@ -14,17 +59,8 @@
     "language": "Python",
     "name": "njfuzrs/agent-backend",
     "stars": 0,
-    "updated_at": "2026-10-03T21:44:29Z",
+    "updated_at": "2026-10-03T21:50:52Z",
     "url": "https://github.com/njfuzrs/agent-backend"
-  },
-  {
-    "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
-    "id": "kashyaprajharsh/medha-agent",
-    "language": "Rust",
-    "name": "kashyaprajharsh/medha-agent",
-    "stars": 0,
-    "updated_at": "2026-10-03T21:43:30Z",
-    "url": "https://github.com/kashyaprajharsh/medha-agent"
   },
   {
     "description": "Application Security orchestration platform",
@@ -34,15 +70,6 @@
     "stars": 2,
     "updated_at": "2026-10-03T21:42:06Z",
     "url": "https://github.com/grauwolf32/contractor"
-  },
-  {
-    "description": "DSV4 behavior-discrimination benchmark: 81 lightweight zero-dependency pytest grading tests (d10/d11/d12/t2/t3/t4/v4) fo",
-    "id": "orangeofcarl0-sys/dsv4-behavior-bench",
-    "language": "Python",
-    "name": "orangeofcarl0-sys/dsv4-behavior-bench",
-    "stars": 2,
-    "updated_at": "2026-10-03T21:45:16Z",
-    "url": "https://github.com/orangeofcarl0-sys/dsv4-behavior-bench"
   },
   {
     "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
@@ -76,7 +103,7 @@
     "id": "Luciole-Studio/Misaka-Agent",
     "language": "Python",
     "name": "Luciole-Studio/Misaka-Agent",
-    "stars": 70,
+    "stars": 71,
     "updated_at": "2026-10-03T21:20:32Z",
     "url": "https://github.com/Luciole-Studio/Misaka-Agent"
   },
@@ -88,15 +115,6 @@
     "stars": 263,
     "updated_at": "2026-10-03T21:20:09Z",
     "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 21,
-    "updated_at": "2026-10-03T21:06:43Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
     "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
@@ -176,7 +194,7 @@
     "language": "Python",
     "name": "ariannamethod/SUBLITERATUS",
     "stars": 3,
-    "updated_at": "2026-10-03T21:31:56Z",
+    "updated_at": "2026-10-03T21:52:18Z",
     "url": "https://github.com/ariannamethod/SUBLITERATUS"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-03T18:54:18Z",
     "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de",
-    "id": "Jadema5416/ComfyUI-DLSS5-Enhancer",
-    "language": "Python",
-    "name": "Jadema5416/ComfyUI-DLSS5-Enhancer",
-    "stars": 0,
-    "updated_at": "2026-10-03T18:15:24Z",
-    "url": "https://github.com/Jadema5416/ComfyUI-DLSS5-Enhancer"
-  },
-  {
-    "description": "Sort your Downloads by project, not file type \u2014 with one-command undo. No delete, ever.",
-    "id": "verniceunleaded6135/tidy-undo",
-    "language": "Python",
-    "name": "verniceunleaded6135/tidy-undo",
-    "stars": 0,
-    "updated_at": "2026-10-03T18:14:23Z",
-    "url": "https://github.com/verniceunleaded6135/tidy-undo"
   }
 ]
