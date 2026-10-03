@@ -1,5 +1,86 @@
 [
   {
+    "description": "Application Security orchestration platform",
+    "id": "grauwolf32/contractor",
+    "language": "Go",
+    "name": "grauwolf32/contractor",
+    "stars": 2,
+    "updated_at": "2026-10-03T10:59:16Z",
+    "url": "https://github.com/grauwolf32/contractor"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-10-03T10:54:05Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "Open-source AI coding agent framework with a verification-first runtime, CLI, TUI cockpit, SDK, permission gates, event ",
+    "id": "codexceed/avatar-harness",
+    "language": "Python",
+    "name": "codexceed/avatar-harness",
+    "stars": 1,
+    "updated_at": "2026-10-03T10:51:23Z",
+    "url": "https://github.com/codexceed/avatar-harness"
+  },
+  {
+    "description": "Generate rich YuE2 audio in ComfyUI with six modular nodes\u2014hum-to-song, LoRA and adapter support\u2014no stock nodes needed.",
+    "id": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
+    "language": "Python",
+    "name": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
+    "stars": 1,
+    "updated_at": "2026-10-03T10:50:03Z",
+    "url": "https://github.com/Deborahwalkerz661/ComfyUI-FS_Audio_Suite"
+  },
+  {
+    "description": "Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de",
+    "id": "Jadema5416/ComfyUI-DLSS5-Enhancer",
+    "language": "Python",
+    "name": "Jadema5416/ComfyUI-DLSS5-Enhancer",
+    "stars": 0,
+    "updated_at": "2026-10-03T10:48:53Z",
+    "url": "https://github.com/Jadema5416/ComfyUI-DLSS5-Enhancer"
+  },
+  {
+    "description": "Sort your Downloads by project, not file type \u2014 with one-command undo. No delete, ever.",
+    "id": "verniceunleaded6135/tidy-undo",
+    "language": "Python",
+    "name": "verniceunleaded6135/tidy-undo",
+    "stars": 0,
+    "updated_at": "2026-10-03T10:47:51Z",
+    "url": "https://github.com/verniceunleaded6135/tidy-undo"
+  },
+  {
+    "description": "Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node\u2014no complex workflows needed.",
+    "id": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
+    "language": "JavaScript",
+    "name": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
+    "stars": 3,
+    "updated_at": "2026-10-03T10:47:08Z",
+    "url": "https://github.com/Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3"
+  },
+  {
+    "description": "Control your Windows laptop remotely via Discord with AI-powered voice and text commands in English or Urdu.",
+    "id": "Ottoman-reticule726/zara-ai-laptop-agent",
+    "language": "Python",
+    "name": "Ottoman-reticule726/zara-ai-laptop-agent",
+    "stars": 0,
+    "updated_at": "2026-10-03T10:46:22Z",
+    "url": "https://github.com/Ottoman-reticule726/zara-ai-laptop-agent"
+  },
+  {
+    "description": "Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons.",
+    "id": "alejandrogg15/Minimax-H3-Turbo",
+    "language": "Python",
+    "name": "alejandrogg15/Minimax-H3-Turbo",
+    "stars": 0,
+    "updated_at": "2026-10-03T10:46:11Z",
+    "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
+  },
+  {
     "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
     "id": "Aureliedumbfounding630/agent-governance-toolkit",
     "language": "\u2014",
@@ -41,7 +122,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 1,
-    "updated_at": "2026-10-03T10:44:12Z",
+    "updated_at": "2026-10-03T10:51:00Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -88,15 +169,6 @@
     "stars": 21,
     "updated_at": "2026-10-03T10:39:46Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "Application Security orchestration platform",
-    "id": "grauwolf32/contractor",
-    "language": "Go",
-    "name": "grauwolf32/contractor",
-    "stars": 2,
-    "updated_at": "2026-10-03T10:37:20Z",
-    "url": "https://github.com/grauwolf32/contractor"
   },
   {
     "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
@@ -167,7 +239,7 @@
     "language": "Kotlin",
     "name": "AceGuru-mjh/Android-Guru-Agent",
     "stars": 4,
-    "updated_at": "2026-10-03T10:42:08Z",
+    "updated_at": "2026-10-03T10:54:50Z",
     "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent"
   },
   {
@@ -205,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T10:27:21Z",
     "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-10-03T10:27:08Z",
-    "url": "https://github.com/SashaEee/auditLens"
   },
   {
     "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
@@ -265,7 +328,7 @@
     "id": "yologdev/yoagent",
     "language": "Rust",
     "name": "yologdev/yoagent",
-    "stars": 232,
+    "stars": 233,
     "updated_at": "2026-10-03T10:17:45Z",
     "url": "https://github.com/yologdev/yoagent"
   },
@@ -328,7 +391,7 @@
     "id": "dragonked2/alphacode",
     "language": "Rust",
     "name": "dragonked2/alphacode",
-    "stars": 157,
+    "stars": 158,
     "updated_at": "2026-10-03T09:36:05Z",
     "url": "https://github.com/dragonked2/alphacode"
   },
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-03T09:09:19Z",
     "url": "https://github.com/JAYANSHUBADLANI/olist-analyst-agent"
-  },
-  {
-    "description": "\u8f7b\u91cf\u7ea7\u8de8\u5e73\u53f0\u91d1\u878d\u7ec8\u7aef\uff1aC++20/Qt6 \u684c\u9762\u58f3 + \u5d4c\u5165\u5f0f Python \u667a\u80fd\u4f53\u5f15\u64ce\u3002\u81ea\u7814\u957f\u5ea6\u524d\u7f00\u5e27\u534f\u8bae + RPC \u6865\u63a5\uff0c\u591a\u89d2\u8272 LLM \u6295\u59d4\u4f1a\u7f16\u6392\u3001\u5de5\u5177\u8c03\u7528\u4e0e\u6570\u5b57\u6eaf\u6e90\u62a4\u680f\uff0c\u6838\u5fc3\u5e93\u96f6\u7b2c\u4e09\u65b9\u4f9d\u8d56\u3002",
-    "id": "RaganaBloodedge/FinPulseTerminal",
-    "language": "Python",
-    "name": "RaganaBloodedge/FinPulseTerminal",
-    "stars": 0,
-    "updated_at": "2026-10-03T09:05:14Z",
-    "url": "https://github.com/RaganaBloodedge/FinPulseTerminal"
-  },
-  {
-    "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
-    "id": "cheeezis/job_finder",
-    "language": "Python",
-    "name": "cheeezis/job_finder",
-    "stars": 0,
-    "updated_at": "2026-10-03T08:52:24Z",
-    "url": "https://github.com/cheeezis/job_finder"
-  },
-  {
-    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
-    "id": "kyleslight/shun",
-    "language": "TypeScript",
-    "name": "kyleslight/shun",
-    "stars": 6,
-    "updated_at": "2026-10-03T08:48:13Z",
-    "url": "https://github.com/kyleslight/shun"
-  },
-  {
-    "description": "Multi-step SQL agent over a relational e-commerce database: schema exploration, self-correcting retry loop, numeric hall",
-    "id": "JAYANSHUBADLANI/grounded-data-analyst-agent",
-    "language": "Python",
-    "name": "JAYANSHUBADLANI/grounded-data-analyst-agent",
-    "stars": 0,
-    "updated_at": "2026-10-03T08:44:13Z",
-    "url": "https://github.com/JAYANSHUBADLANI/grounded-data-analyst-agent"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 26,
-    "updated_at": "2026-10-03T08:44:59Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
-    "id": "peder1981/AdvPP",
-    "language": "Go",
-    "name": "peder1981/AdvPP",
-    "stars": 2,
-    "updated_at": "2026-10-03T08:28:26Z",
-    "url": "https://github.com/peder1981/AdvPP"
-  },
-  {
-    "description": "Policy-gated IRIS management portal",
-    "id": "AntonYartsev/iris-docket",
-    "language": "Vue",
-    "name": "AntonYartsev/iris-docket",
-    "stars": 0,
-    "updated_at": "2026-10-03T08:23:40Z",
-    "url": "https://github.com/AntonYartsev/iris-docket"
   }
 ]
