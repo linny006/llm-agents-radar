@@ -1,12 +1,39 @@
 [
   {
-    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
-    "id": "faheela-786/ComfyUI-qwenmultiangle",
-    "language": "\u2014",
-    "name": "faheela-786/ComfyUI-qwenmultiangle",
-    "stars": 2,
-    "updated_at": "2026-10-03T01:43:23Z",
-    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
+    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 568,
+    "updated_at": "2026-10-03T01:59:25Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "",
+    "id": "hichamnes-prog/exforum-auto-poster",
+    "language": "Python",
+    "name": "hichamnes-prog/exforum-auto-poster",
+    "stars": 1,
+    "updated_at": "2026-10-03T01:58:16Z",
+    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4442,
+    "updated_at": "2026-10-03T01:58:05Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 1,
+    "updated_at": "2026-10-03T01:53:40Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "Application Security orchestration platform",
@@ -14,8 +41,44 @@
     "language": "Go",
     "name": "grauwolf32/contractor",
     "stars": 2,
-    "updated_at": "2026-10-03T01:42:55Z",
+    "updated_at": "2026-10-03T01:52:38Z",
     "url": "https://github.com/grauwolf32/contractor"
+  },
+  {
+    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
+    "id": "muhzars/Agent.cpp",
+    "language": "C++",
+    "name": "muhzars/Agent.cpp",
+    "stars": 1,
+    "updated_at": "2026-10-03T01:50:56Z",
+    "url": "https://github.com/muhzars/Agent.cpp"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 3,
+    "updated_at": "2026-10-03T01:50:09Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+    "id": "BlockRunAI/Franklin",
+    "language": "TypeScript",
+    "name": "BlockRunAI/Franklin",
+    "stars": 556,
+    "updated_at": "2026-10-03T01:55:09Z",
+    "url": "https://github.com/BlockRunAI/Franklin"
+  },
+  {
+    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
+    "id": "faheela-786/ComfyUI-qwenmultiangle",
+    "language": "\u2014",
+    "name": "faheela-786/ComfyUI-qwenmultiangle",
+    "stars": 2,
+    "updated_at": "2026-10-03T01:43:23Z",
+    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
   },
   {
     "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
@@ -171,15 +234,6 @@
     "url": "https://github.com/bigduu/Nova"
   },
   {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 1,
-    "updated_at": "2026-10-03T01:03:00Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
     "description": "",
     "id": "JortegaR/ai-notes-api",
     "language": "JavaScript",
@@ -187,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-10-03T01:02:20Z",
     "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-    "id": "BlockRunAI/Franklin",
-    "language": "TypeScript",
-    "name": "BlockRunAI/Franklin",
-    "stars": 556,
-    "updated_at": "2026-10-03T01:38:39Z",
-    "url": "https://github.com/BlockRunAI/Franklin"
   },
   {
     "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
@@ -252,15 +297,6 @@
     "url": "https://github.com/xufenghe/aimo3-agentic-inference"
   },
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4442,
-    "updated_at": "2026-10-03T00:50:51Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
     "description": "Pre-registered test of an AI analyst (Antigravity CLI) writing daily trade theses for OKX BTC/ETH/SOL perpetuals; data o",
     "id": "crypmiy/vibe-trading-okx-futures",
     "language": "Python",
@@ -277,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-10-03T01:01:00Z",
     "url": "https://github.com/franckolv-dev/ELY2"
-  },
-  {
-    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 568,
-    "updated_at": "2026-10-03T00:01:14Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
   },
   {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
@@ -405,15 +432,6 @@
     "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
   },
   {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 3,
-    "updated_at": "2026-10-02T22:53:19Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
     "id": "Blondieredistributed612/pocket-agent",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-02T22:49:44Z",
     "url": "https://github.com/bettersilvanus849/inner-coordinates"
-  },
-  {
-    "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
-    "id": "Blaz742/web-pentest-lab",
-    "language": "\u2014",
-    "name": "Blaz742/web-pentest-lab",
-    "stars": 0,
-    "updated_at": "2026-10-02T22:48:51Z",
-    "url": "https://github.com/Blaz742/web-pentest-lab"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 1,
-    "updated_at": "2026-10-02T22:48:29Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
   }
 ]
