@@ -1,11 +1,74 @@
 [
   {
+    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
+    "id": "watchcat/scout",
+    "language": "Rust",
+    "name": "watchcat/scout",
+    "stars": 0,
+    "updated_at": "2026-10-03T08:13:44Z",
+    "url": "https://github.com/watchcat/scout"
+  },
+  {
+    "description": "Shared AI agents for teams: one agent per channel, with memory, connected apps and approvals. Open source and self-hosta",
+    "id": "janakrathi/Teamski",
+    "language": "TypeScript",
+    "name": "janakrathi/Teamski",
+    "stars": 4,
+    "updated_at": "2026-10-03T08:13:07Z",
+    "url": "https://github.com/janakrathi/Teamski"
+  },
+  {
+    "description": "Application Security orchestration platform",
+    "id": "grauwolf32/contractor",
+    "language": "Go",
+    "name": "grauwolf32/contractor",
+    "stars": 2,
+    "updated_at": "2026-10-03T08:12:50Z",
+    "url": "https://github.com/grauwolf32/contractor"
+  },
+  {
+    "description": "Self-healing keep-alive, watchdog and status dashboard for the Desktop Commander Remote agent and Chrome Remote Desktop ",
+    "id": "analienx/remote-desktop-commander-agent-control",
+    "language": "Python",
+    "name": "analienx/remote-desktop-commander-agent-control",
+    "stars": 0,
+    "updated_at": "2026-10-03T08:08:10Z",
+    "url": "https://github.com/analienx/remote-desktop-commander-agent-control"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 21,
+    "updated_at": "2026-10-03T08:07:58Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/",
+    "id": "ZekaiShi/evo-subagent",
+    "language": "JavaScript",
+    "name": "ZekaiShi/evo-subagent",
+    "stars": 7,
+    "updated_at": "2026-10-03T08:07:38Z",
+    "url": "https://github.com/ZekaiShi/evo-subagent"
+  },
+  {
+    "description": "LLM shopping agent: plain English \u2192 ranked products across Amazon, Flipkart, Myntra. 1st Runner-Up, HackXLerate",
+    "id": "beutkarshh/AI_WEB_NAV",
+    "language": "Python",
+    "name": "beutkarshh/AI_WEB_NAV",
+    "stars": 1,
+    "updated_at": "2026-10-03T08:00:35Z",
+    "url": "https://github.com/beutkarshh/AI_WEB_NAV"
+  },
+  {
     "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-10-03T08:00:07Z",
+    "updated_at": "2026-10-03T08:14:58Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -14,7 +77,7 @@
     "language": "TypeScript",
     "name": "alexshpunt/pi-agent-foreman",
     "stars": 0,
-    "updated_at": "2026-10-03T07:59:47Z",
+    "updated_at": "2026-10-03T08:02:37Z",
     "url": "https://github.com/alexshpunt/pi-agent-foreman"
   },
   {
@@ -25,15 +88,6 @@
     "stars": 8,
     "updated_at": "2026-10-03T07:59:40Z",
     "url": "https://github.com/Rekin226/paper-agent"
-  },
-  {
-    "description": "Application Security orchestration platform",
-    "id": "grauwolf32/contractor",
-    "language": "Go",
-    "name": "grauwolf32/contractor",
-    "stars": 2,
-    "updated_at": "2026-10-03T07:58:25Z",
-    "url": "https://github.com/grauwolf32/contractor"
   },
   {
     "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
@@ -54,15 +108,6 @@
     "url": "https://github.com/alex8224/synapse-agent"
   },
   {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 21,
-    "updated_at": "2026-10-03T07:54:17Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -70,15 +115,6 @@
     "stars": 3,
     "updated_at": "2026-10-03T07:52:51Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Shared AI agents for teams: one agent per channel, with memory, connected apps and approvals. Open source and self-hosta",
-    "id": "janakrathi/Teamski",
-    "language": "TypeScript",
-    "name": "janakrathi/Teamski",
-    "stars": 4,
-    "updated_at": "2026-10-03T07:52:36Z",
-    "url": "https://github.com/janakrathi/Teamski"
   },
   {
     "description": "Production-ready template for a self-hosted Agent Protocol server: FastAPI + LangGraph + PostgreSQL (+ optional Redis), ",
@@ -153,24 +189,6 @@
     "url": "https://github.com/agentpit-io/hunter-community"
   },
   {
-    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
-    "id": "watchcat/scout",
-    "language": "Rust",
-    "name": "watchcat/scout",
-    "stars": 0,
-    "updated_at": "2026-10-03T07:37:24Z",
-    "url": "https://github.com/watchcat/scout"
-  },
-  {
-    "description": "LLM shopping agent: plain English \u2192 ranked products across Amazon, Flipkart, Myntra. 1st Runner-Up, HackXLerate",
-    "id": "beutkarshh/AI_WEB_NAV",
-    "language": "Python",
-    "name": "beutkarshh/AI_WEB_NAV",
-    "stars": 1,
-    "updated_at": "2026-10-03T07:37:18Z",
-    "url": "https://github.com/beutkarshh/AI_WEB_NAV"
-  },
-  {
     "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
     "id": "bettersilvanus849/inner-coordinates",
     "language": "Shell",
@@ -194,7 +212,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 1,
-    "updated_at": "2026-10-03T07:46:47Z",
+    "updated_at": "2026-10-03T08:05:46Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-03T07:09:28Z",
     "url": "https://github.com/uukuguy/capstone"
-  },
-  {
-    "description": "A\u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\uff1a\u80a1\u7968\u5206\u6790\u3001\u91cf\u5316\u4ea4\u6613\u5206\u6790\u3001\u76d8\u540e\u590d\u76d8\u684c\u9762\u5de5\u4f5c\u53f0\u2014\u2014easy stock",
-    "id": "jundizhou/easy-stock",
-    "language": "Go",
-    "name": "jundizhou/easy-stock",
-    "stars": 1126,
-    "updated_at": "2026-10-03T07:07:18Z",
-    "url": "https://github.com/jundizhou/easy-stock"
-  },
-  {
-    "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
-    "id": "cheeezis/job_finder",
-    "language": "Python",
-    "name": "cheeezis/job_finder",
-    "stars": 0,
-    "updated_at": "2026-10-03T07:07:00Z",
-    "url": "https://github.com/cheeezis/job_finder"
   }
 ]
