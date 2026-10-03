@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "SuperdeMan/cockpit-agent",
     "stars": 21,
-    "updated_at": "2026-10-03T06:13:53Z",
+    "updated_at": "2026-10-03T06:22:37Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "Application Security orchestration platform",
+    "id": "grauwolf32/contractor",
+    "language": "Go",
+    "name": "grauwolf32/contractor",
+    "stars": 2,
+    "updated_at": "2026-10-03T06:21:51Z",
+    "url": "https://github.com/grauwolf32/contractor"
+  },
+  {
+    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
+    "id": "Rekin226/Agronaut",
+    "language": "Python",
+    "name": "Rekin226/Agronaut",
+    "stars": 4,
+    "updated_at": "2026-10-03T06:21:18Z",
+    "url": "https://github.com/Rekin226/Agronaut"
+  },
+  {
+    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
+    "id": "AceGuru-mjh/Android-Guru-Agent",
+    "language": "Kotlin",
+    "name": "AceGuru-mjh/Android-Guru-Agent",
+    "stars": 4,
+    "updated_at": "2026-10-03T06:26:43Z",
+    "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent"
   },
   {
     "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
@@ -36,15 +63,6 @@
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
-    "description": "Application Security orchestration platform",
-    "id": "grauwolf32/contractor",
-    "language": "Go",
-    "name": "grauwolf32/contractor",
-    "stars": 2,
-    "updated_at": "2026-10-03T06:09:55Z",
-    "url": "https://github.com/grauwolf32/contractor"
-  },
-  {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -59,7 +77,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 6099,
-    "updated_at": "2026-10-03T06:09:09Z",
+    "updated_at": "2026-10-03T06:24:42Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 14,
     "updated_at": "2026-10-03T05:10:52Z",
     "url": "https://github.com/yurika0211/lucky-agent"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-03T05:02:05Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
-    "id": "AceGuru-mjh/Android-Guru-Agent",
-    "language": "Kotlin",
-    "name": "AceGuru-mjh/Android-Guru-Agent",
-    "stars": 4,
-    "updated_at": "2026-10-03T05:11:54Z",
-    "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent"
   }
 ]
