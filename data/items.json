@@ -1,12 +1,39 @@
 [
   {
-    "description": "Build open source deep research agents using multiple models, search tools, and MCP servers.",
-    "id": "randomvariablewhitepelican129/open_deep_research",
+    "description": "\u6295\u8d44\u79c1\u4eba\u7ba1\u5bb6 \u00b7 A\u80a1\u57fa\u91d1 AI \u79c1\u4eba\u987e\u95ee\uff08Invest Concierge \u2014 A-share & fund AI personal investment assistant\uff09",
+    "id": "cx-ssg/invest-concierge",
     "language": "Python",
-    "name": "randomvariablewhitepelican129/open_deep_research",
+    "name": "cx-ssg/invest-concierge",
     "stars": 0,
-    "updated_at": "2026-10-03T16:14:45Z",
-    "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
+    "updated_at": "2026-10-03T16:29:10Z",
+    "url": "https://github.com/cx-ssg/invest-concierge"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 6101,
+    "updated_at": "2026-10-03T16:29:28Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-10-03T16:29:04Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
+    "id": "haibingzhao/easyai",
+    "language": "Kotlin",
+    "name": "haibingzhao/easyai",
+    "stars": 1,
+    "updated_at": "2026-10-03T16:28:34Z",
+    "url": "https://github.com/haibingzhao/easyai"
   },
   {
     "description": "Shared AI agents for teams: one agent per channel, with memory, connected apps and approvals. Open source and self-hosta",
@@ -14,8 +41,161 @@
     "language": "TypeScript",
     "name": "janakrathi/Teamski",
     "stars": 4,
-    "updated_at": "2026-10-03T16:13:43Z",
+    "updated_at": "2026-10-03T16:26:39Z",
     "url": "https://github.com/janakrathi/Teamski"
+  },
+  {
+    "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
+    "id": "kashyaprajharsh/medha-agent",
+    "language": "Rust",
+    "name": "kashyaprajharsh/medha-agent",
+    "stars": 0,
+    "updated_at": "2026-10-03T16:26:36Z",
+    "url": "https://github.com/kashyaprajharsh/medha-agent"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-10-03T16:26:22Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
+    "id": "anchor-inference/daedalus",
+    "language": "Python",
+    "name": "anchor-inference/daedalus",
+    "stars": 1,
+    "updated_at": "2026-10-03T16:24:31Z",
+    "url": "https://github.com/anchor-inference/daedalus"
+  },
+  {
+    "description": "J.A.R.V.I.S.-style desktop assistant for Windows: voice + LLM agent with 46 tools, offline wake phrase, live wallpaper m",
+    "id": "AleixAj/nexus",
+    "language": "TypeScript",
+    "name": "AleixAj/nexus",
+    "stars": 0,
+    "updated_at": "2026-10-03T16:23:03Z",
+    "url": "https://github.com/AleixAj/nexus"
+  },
+  {
+    "description": "Generate rich YuE2 audio in ComfyUI with six modular nodes\u2014hum-to-song, LoRA and adapter support\u2014no stock nodes needed.",
+    "id": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
+    "language": "Python",
+    "name": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
+    "stars": 1,
+    "updated_at": "2026-10-03T16:20:58Z",
+    "url": "https://github.com/Deborahwalkerz661/ComfyUI-FS_Audio_Suite"
+  },
+  {
+    "description": "Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de",
+    "id": "Jadema5416/ComfyUI-DLSS5-Enhancer",
+    "language": "Python",
+    "name": "Jadema5416/ComfyUI-DLSS5-Enhancer",
+    "stars": 0,
+    "updated_at": "2026-10-03T16:19:51Z",
+    "url": "https://github.com/Jadema5416/ComfyUI-DLSS5-Enhancer"
+  },
+  {
+    "description": "A personal expense-tracking agent running on Claude Code: the capture side is deliberately stupid (one sentence to Siri)",
+    "id": "seanlu2006/CountAgent",
+    "language": "Python",
+    "name": "seanlu2006/CountAgent",
+    "stars": 0,
+    "updated_at": "2026-10-03T16:19:31Z",
+    "url": "https://github.com/seanlu2006/CountAgent"
+  },
+  {
+    "description": "Application Security orchestration platform",
+    "id": "grauwolf32/contractor",
+    "language": "Go",
+    "name": "grauwolf32/contractor",
+    "stars": 2,
+    "updated_at": "2026-10-03T16:19:31Z",
+    "url": "https://github.com/grauwolf32/contractor"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-10-03T16:29:35Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Sort your Downloads by project, not file type \u2014 with one-command undo. No delete, ever.",
+    "id": "verniceunleaded6135/tidy-undo",
+    "language": "Python",
+    "name": "verniceunleaded6135/tidy-undo",
+    "stars": 0,
+    "updated_at": "2026-10-03T16:18:41Z",
+    "url": "https://github.com/verniceunleaded6135/tidy-undo"
+  },
+  {
+    "description": "Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node\u2014no complex workflows needed.",
+    "id": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
+    "language": "JavaScript",
+    "name": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
+    "stars": 3,
+    "updated_at": "2026-10-03T16:17:36Z",
+    "url": "https://github.com/Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3"
+  },
+  {
+    "description": "Runtime LLM agent for game NPCs: persona and player-state injection, tool calls, guardrails that survived live testing, ",
+    "id": "linynZ/chrono-npc-agent",
+    "language": "Python",
+    "name": "linynZ/chrono-npc-agent",
+    "stars": 0,
+    "updated_at": "2026-10-03T16:17:32Z",
+    "url": "https://github.com/linynZ/chrono-npc-agent"
+  },
+  {
+    "description": "Control your Windows laptop remotely via Discord with AI-powered voice and text commands in English or Urdu.",
+    "id": "Ottoman-reticule726/zara-ai-laptop-agent",
+    "language": "Python",
+    "name": "Ottoman-reticule726/zara-ai-laptop-agent",
+    "stars": 0,
+    "updated_at": "2026-10-03T16:16:49Z",
+    "url": "https://github.com/Ottoman-reticule726/zara-ai-laptop-agent"
+  },
+  {
+    "description": "Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons.",
+    "id": "alejandrogg15/Minimax-H3-Turbo",
+    "language": "Python",
+    "name": "alejandrogg15/Minimax-H3-Turbo",
+    "stars": 0,
+    "updated_at": "2026-10-03T16:16:38Z",
+    "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
+  },
+  {
+    "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
+    "id": "Aureliedumbfounding630/agent-governance-toolkit",
+    "language": "\u2014",
+    "name": "Aureliedumbfounding630/agent-governance-toolkit",
+    "stars": 0,
+    "updated_at": "2026-10-03T16:15:30Z",
+    "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
+  },
+  {
+    "description": "Automate Elytra flight, navigation, and landing for Meteor Client with intelligent pathfinding and rocket management.",
+    "id": "222394/SkyPilot",
+    "language": "Java",
+    "name": "222394/SkyPilot",
+    "stars": 0,
+    "updated_at": "2026-10-03T16:15:28Z",
+    "url": "https://github.com/222394/SkyPilot"
+  },
+  {
+    "description": "Build open source deep research agents using multiple models, search tools, and MCP servers.",
+    "id": "randomvariablewhitepelican129/open_deep_research",
+    "language": "Python",
+    "name": "randomvariablewhitepelican129/open_deep_research",
+    "stars": 0,
+    "updated_at": "2026-10-03T16:14:45Z",
+    "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
   },
   {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
@@ -34,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T16:10:54Z",
     "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
-  },
-  {
-    "description": "Application Security orchestration platform",
-    "id": "grauwolf32/contractor",
-    "language": "Go",
-    "name": "grauwolf32/contractor",
-    "stars": 2,
-    "updated_at": "2026-10-03T16:09:22Z",
-    "url": "https://github.com/grauwolf32/contractor"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -88,15 +259,6 @@
     "stars": 3,
     "updated_at": "2026-10-03T16:06:55Z",
     "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "\u6295\u8d44\u79c1\u4eba\u7ba1\u5bb6 \u00b7 A\u80a1\u57fa\u91d1 AI \u79c1\u4eba\u987e\u95ee\uff08Invest Concierge \u2014 A-share & fund AI personal investment assistant\uff09",
-    "id": "cx-ssg/invest-concierge",
-    "language": "Python",
-    "name": "cx-ssg/invest-concierge",
-    "stars": 0,
-    "updated_at": "2026-10-03T16:06:09Z",
-    "url": "https://github.com/cx-ssg/invest-concierge"
   },
   {
     "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
@@ -203,7 +365,7 @@
     "language": "Python",
     "name": "ariannamethod/SUBLITERATUS",
     "stars": 3,
-    "updated_at": "2026-10-03T16:14:19Z",
+    "updated_at": "2026-10-03T16:30:11Z",
     "url": "https://github.com/ariannamethod/SUBLITERATUS"
   },
   {
@@ -230,7 +392,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 1,
-    "updated_at": "2026-10-03T15:52:55Z",
+    "updated_at": "2026-10-03T16:21:22Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -241,15 +403,6 @@
     "stars": 1,
     "updated_at": "2026-10-03T15:52:24Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-10-03T15:52:19Z",
-    "url": "https://github.com/SashaEee/auditLens"
   },
   {
     "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
@@ -275,7 +428,7 @@
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 49,
-    "updated_at": "2026-10-03T15:44:09Z",
+    "updated_at": "2026-10-03T16:24:48Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
@@ -295,158 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-03T15:41:36Z",
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "Zero-dependency LLM agent runtime \u2014 tool use, MCP, sandboxed self-written tools, checkpoint/resume, approval gates, bi-t",
-    "id": "laazizi/autoagent",
-    "language": "Python",
-    "name": "laazizi/autoagent",
-    "stars": 2,
-    "updated_at": "2026-10-03T15:39:00Z",
-    "url": "https://github.com/laazizi/autoagent"
-  },
-  {
-    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
-    "id": "kyleslight/shun",
-    "language": "TypeScript",
-    "name": "kyleslight/shun",
-    "stars": 6,
-    "updated_at": "2026-10-03T15:25:17Z",
-    "url": "https://github.com/kyleslight/shun"
-  },
-  {
-    "description": "LLM-powered TeamSpeak bot | LLM\u9a71\u52a8\u7684TeamSpeak\u673a\u5668\u4eba",
-    "id": "Dr1mH4X/TeamSpeakClaw",
-    "language": "Rust",
-    "name": "Dr1mH4X/TeamSpeakClaw",
-    "stars": 6,
-    "updated_at": "2026-10-03T15:21:52Z",
-    "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
-  },
-  {
-    "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
-    "id": "feder-cr/dots",
-    "language": "Python",
-    "name": "feder-cr/dots",
-    "stars": 2570,
-    "updated_at": "2026-10-03T15:21:24Z",
-    "url": "https://github.com/feder-cr/dots"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 78,
-    "updated_at": "2026-10-03T15:10:19Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 129,
-    "updated_at": "2026-10-03T15:05:52Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 568,
-    "updated_at": "2026-10-03T15:00:25Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
-  },
-  {
-    "description": "PRD-to-Rust pipeline: a Claude Code skill + companion binary that ship code only when 7 digest-bound receipts agree",
-    "id": "j0yen/autobuilder",
-    "language": "Rust",
-    "name": "j0yen/autobuilder",
-    "stars": 0,
-    "updated_at": "2026-10-03T14:57:12Z",
-    "url": "https://github.com/j0yen/autobuilder"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-03T16:10:57Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
-    "id": "mark-weeks/hello-nested-worlds-adventure",
-    "language": "Python",
-    "name": "mark-weeks/hello-nested-worlds-adventure",
-    "stars": 5,
-    "updated_at": "2026-10-03T15:45:37Z",
-    "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4442,
-    "updated_at": "2026-10-03T16:12:33Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "\u7ed3\u5408\u591a\u5927\u6a21\u578b\u5206\u6790\u4e0e\u786e\u5b9a\u6027\u4ee3\u7801\u98ce\u63a7\u7684\u81ea\u4e3b\u91cf\u5316\u4ea4\u6613\u7cfb\u7edf \uff5c Autonomous crypto trading system with multi-LLM analysis, deterministic Python risk control ",
-    "id": "0xethanq/astra-quant-agent",
-    "language": "Python",
-    "name": "0xethanq/astra-quant-agent",
-    "stars": 316,
-    "updated_at": "2026-10-03T14:23:22Z",
-    "url": "https://github.com/0xethanq/astra-quant-agent"
-  },
-  {
-    "description": "LLM-Agent \u00d7 UniversalSniffer \u2014 \u0438\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u044f MCP-\u0441\u043d\u0438\u0444\u0444\u0435\u0440\u0430 (16 tools), \u0430\u0433\u0435\u043d\u0442\u043e\u0432 \u0438 OAC-\u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u0430 + Next.js 16 live-\u0434\u0430\u0448\u0431\u043e\u0440\u0434 \u0441 \u0434",
-    "id": "mobstardos/llm-agent-sniffer-integration",
-    "language": "Python",
-    "name": "mobstardos/llm-agent-sniffer-integration",
-    "stars": 0,
-    "updated_at": "2026-10-03T14:16:57Z",
-    "url": "https://github.com/mobstardos/llm-agent-sniffer-integration"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 6101,
-    "updated_at": "2026-10-03T14:55:45Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "AI agent\u7092\u80a1\u8350\u80a1\u76ef\u76d8+open claw\u5fae\u4fe1\u5b9e\u65f6\u63a8\u9001\u64ad\u62a5\u5de5\u4f5c\u6d41",
-    "id": "Heliotrope-dev/finance-agent",
-    "language": "Python",
-    "name": "Heliotrope-dev/finance-agent",
-    "stars": 2,
-    "updated_at": "2026-10-03T14:05:38Z",
-    "url": "https://github.com/Heliotrope-dev/finance-agent"
-  },
-  {
-    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
-    "id": "wufufu770/d2d",
-    "language": "JavaScript",
-    "name": "wufufu770/d2d",
-    "stars": 4,
-    "updated_at": "2026-10-03T14:25:16Z",
-    "url": "https://github.com/wufufu770/d2d"
-  },
-  {
-    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
-    "id": "eshanized/M31A",
-    "language": "Rust",
-    "name": "eshanized/M31A",
-    "stars": 8,
-    "updated_at": "2026-10-03T13:48:51Z",
-    "url": "https://github.com/eshanized/M31A"
   }
 ]
