@@ -1,21 +1,129 @@
 [
   {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
+    "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
+    "id": "Aureliedumbfounding630/agent-governance-toolkit",
+    "language": "\u2014",
+    "name": "Aureliedumbfounding630/agent-governance-toolkit",
     "stars": 0,
-    "updated_at": "2026-10-03T10:29:54Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
+    "updated_at": "2026-10-03T10:45:05Z",
+    "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
   },
   {
-    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
-    "id": "AceGuru-mjh/Android-Guru-Agent",
-    "language": "Kotlin",
-    "name": "AceGuru-mjh/Android-Guru-Agent",
-    "stars": 4,
-    "updated_at": "2026-10-03T10:29:09Z",
-    "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent"
+    "description": "Automate Elytra flight, navigation, and landing for Meteor Client with intelligent pathfinding and rocket management.",
+    "id": "222394/SkyPilot",
+    "language": "Java",
+    "name": "222394/SkyPilot",
+    "stars": 0,
+    "updated_at": "2026-10-03T10:45:03Z",
+    "url": "https://github.com/222394/SkyPilot"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 1,
+    "updated_at": "2026-10-03T10:44:59Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Build open source deep research agents using multiple models, search tools, and MCP servers.",
+    "id": "randomvariablewhitepelican129/open_deep_research",
+    "language": "Python",
+    "name": "randomvariablewhitepelican129/open_deep_research",
+    "stars": 0,
+    "updated_at": "2026-10-03T10:44:21Z",
+    "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 1,
+    "updated_at": "2026-10-03T10:44:12Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
+    "id": "kashyaprajharsh/medha-agent",
+    "language": "Rust",
+    "name": "kashyaprajharsh/medha-agent",
+    "stars": 0,
+    "updated_at": "2026-10-03T10:42:57Z",
+    "url": "https://github.com/kashyaprajharsh/medha-agent"
+  },
+  {
+    "description": "Automate file management and coding tasks in your local directory using small language models.",
+    "id": "pruthviraj00007/VibeHarness",
+    "language": "Python",
+    "name": "pruthviraj00007/VibeHarness",
+    "stars": 0,
+    "updated_at": "2026-10-03T10:41:57Z",
+    "url": "https://github.com/pruthviraj00007/VibeHarness"
+  },
+  {
+    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
+    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "language": "Go",
+    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "stars": 0,
+    "updated_at": "2026-10-03T10:40:32Z",
+    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
+  },
+  {
+    "description": "A\u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\uff1a\u80a1\u7968\u5206\u6790\u3001\u91cf\u5316\u4ea4\u6613\u5206\u6790\u3001\u76d8\u540e\u590d\u76d8\u684c\u9762\u5de5\u4f5c\u53f0\u2014\u2014easy stock",
+    "id": "jundizhou/easy-stock",
+    "language": "Go",
+    "name": "jundizhou/easy-stock",
+    "stars": 1125,
+    "updated_at": "2026-10-03T10:40:02Z",
+    "url": "https://github.com/jundizhou/easy-stock"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 21,
+    "updated_at": "2026-10-03T10:39:46Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "Application Security orchestration platform",
+    "id": "grauwolf32/contractor",
+    "language": "Go",
+    "name": "grauwolf32/contractor",
+    "stars": 2,
+    "updated_at": "2026-10-03T10:37:20Z",
+    "url": "https://github.com/grauwolf32/contractor"
+  },
+  {
+    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
+    "id": "Samuelcluttered613/paper2code",
+    "language": "Python",
+    "name": "Samuelcluttered613/paper2code",
+    "stars": 1,
+    "updated_at": "2026-10-03T10:36:53Z",
+    "url": "https://github.com/Samuelcluttered613/paper2code"
+  },
+  {
+    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
+    "id": "Bastioned-successor320/learn-nanobot",
+    "language": "Python",
+    "name": "Bastioned-successor320/learn-nanobot",
+    "stars": 11,
+    "updated_at": "2026-10-03T10:36:37Z",
+    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
+  },
+  {
+    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
+    "id": "tessellated-statisticalcommission243/deep-research-skill",
+    "language": "\u2014",
+    "name": "tessellated-statisticalcommission243/deep-research-skill",
+    "stars": 3,
+    "updated_at": "2026-10-03T10:36:24Z",
+    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
   },
   {
     "description": "\u7535\u8f66\u771f\u5b9e\u7eed\u822a\u53c2\u8c0b \u2014\u2014 \u8f93\u5165\u8f66\u578b/\u4eba\u6570/\u51fa\u53d1\u5730/\u76ee\u7684\u5730\uff0c\u81ea\u52a8\u62c9\u53d6\u771f\u5b9e\u8def\u7f51\u3001\u5730\u5f62\u6d77\u62d4\u4e0e\u6cbf\u9014\u5929\u6c14\uff0c\u7b97\u6e05\u6bcf\u4e00\u5ea6\u7535\u82b1\u5728\u54ea\u513f\uff08\u542b\u722c\u5761\u591a\u8017\u4e0e\u4e0b\u5761\u56de\u6536\uff09\u3002\u7eaf\u524d\u7aef\u9759\u6001\u7ad9\uff0c\u96f6\u4f9d\u8d56\u96f6\u6784\u5efa\uff0c\u6570\u636e\u6e90\u5168\u514d Key",
@@ -23,8 +131,62 @@
     "language": "JavaScript",
     "name": "Leruo212/ev-range-agent",
     "stars": 0,
-    "updated_at": "2026-10-03T10:27:43Z",
+    "updated_at": "2026-10-03T10:33:55Z",
     "url": "https://github.com/Leruo212/ev-range-agent"
+  },
+  {
+    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
+    "id": "chadwickhyperboloidal943/knowl",
+    "language": "TypeScript",
+    "name": "chadwickhyperboloidal943/knowl",
+    "stars": 0,
+    "updated_at": "2026-10-03T10:32:47Z",
+    "url": "https://github.com/chadwickhyperboloidal943/knowl"
+  },
+  {
+    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
+    "id": "Laurenfeminine36/google-jules-skill",
+    "language": "Python",
+    "name": "Laurenfeminine36/google-jules-skill",
+    "stars": 1,
+    "updated_at": "2026-10-03T10:32:33Z",
+    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
+  },
+  {
+    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
+    "id": "Jssu8541/ouro-loop",
+    "language": "\u2014",
+    "name": "Jssu8541/ouro-loop",
+    "stars": 0,
+    "updated_at": "2026-10-03T10:32:31Z",
+    "url": "https://github.com/Jssu8541/ouro-loop"
+  },
+  {
+    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
+    "id": "AceGuru-mjh/Android-Guru-Agent",
+    "language": "Kotlin",
+    "name": "AceGuru-mjh/Android-Guru-Agent",
+    "stars": 4,
+    "updated_at": "2026-10-03T10:42:08Z",
+    "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent"
+  },
+  {
+    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
+    "id": "Asim00740/Kagantic-vault-structure",
+    "language": "\u2014",
+    "name": "Asim00740/Kagantic-vault-structure",
+    "stars": 0,
+    "updated_at": "2026-10-03T10:30:15Z",
+    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
+  },
+  {
+    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
+    "id": "Tonyx79/clov-ai",
+    "language": "Rust",
+    "name": "Tonyx79/clov-ai",
+    "stars": 0,
+    "updated_at": "2026-10-03T10:29:54Z",
+    "url": "https://github.com/Tonyx79/clov-ai"
   },
   {
     "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
@@ -99,6 +261,15 @@
     "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
   },
   {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 232,
+    "updated_at": "2026-10-03T10:17:45Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
     "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
     "id": "ibrahima0101/python-ai-chatbot-huggingface",
     "language": "Python",
@@ -108,15 +279,6 @@
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
   },
   {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 1,
-    "updated_at": "2026-10-03T10:29:39Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
     "description": "Send Pi agents back to work when they stop before the job is done.",
     "id": "alexshpunt/pi-agent-foreman",
     "language": "TypeScript",
@@ -124,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T10:05:18Z",
     "url": "https://github.com/alexshpunt/pi-agent-foreman"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 231,
-    "updated_at": "2026-10-03T10:17:45Z",
-    "url": "https://github.com/yologdev/yoagent"
   },
   {
     "description": "Runtime LLM agent for game NPCs: persona and player-state injection, tool calls, guardrails that survived live testing, ",
@@ -225,15 +378,6 @@
     "url": "https://github.com/ztsstz711-afk/RepoFix-Harness"
   },
   {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 21,
-    "updated_at": "2026-10-03T09:20:54Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
     "description": "Multi-step SQL agent over the Olist e-commerce database: plan/act/observe loop, self-correction, grounding guard that ch",
     "id": "JAYANSHUBADLANI/olist-analyst-agent",
     "language": "Python",
@@ -250,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T09:05:14Z",
     "url": "https://github.com/RaganaBloodedge/FinPulseTerminal"
-  },
-  {
-    "description": "Application Security orchestration platform",
-    "id": "grauwolf32/contractor",
-    "language": "Go",
-    "name": "grauwolf32/contractor",
-    "stars": 2,
-    "updated_at": "2026-10-03T10:25:02Z",
-    "url": "https://github.com/grauwolf32/contractor"
   },
   {
     "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
@@ -313,140 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-03T08:23:40Z",
     "url": "https://github.com/AntonYartsev/iris-docket"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4442,
-    "updated_at": "2026-10-03T09:14:06Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-10-03T08:18:32Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
-    "id": "bigduu/Zenith",
-    "language": "JavaScript",
-    "name": "bigduu/Zenith",
-    "stars": 6,
-    "updated_at": "2026-10-03T08:24:22Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
-    "id": "watchcat/scout",
-    "language": "Rust",
-    "name": "watchcat/scout",
-    "stars": 0,
-    "updated_at": "2026-10-03T08:13:44Z",
-    "url": "https://github.com/watchcat/scout"
-  },
-  {
-    "description": "Self-healing keep-alive, watchdog and status dashboard for the Desktop Commander Remote agent and Chrome Remote Desktop ",
-    "id": "analienx/remote-desktop-commander-agent-control",
-    "language": "Python",
-    "name": "analienx/remote-desktop-commander-agent-control",
-    "stars": 0,
-    "updated_at": "2026-10-03T08:08:10Z",
-    "url": "https://github.com/analienx/remote-desktop-commander-agent-control"
-  },
-  {
-    "description": "Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/",
-    "id": "ZekaiShi/evo-subagent",
-    "language": "JavaScript",
-    "name": "ZekaiShi/evo-subagent",
-    "stars": 7,
-    "updated_at": "2026-10-03T08:07:38Z",
-    "url": "https://github.com/ZekaiShi/evo-subagent"
-  },
-  {
-    "description": "LLM shopping agent: plain English \u2192 ranked products across Amazon, Flipkart, Myntra. 1st Runner-Up, HackXLerate",
-    "id": "beutkarshh/AI_WEB_NAV",
-    "language": "Python",
-    "name": "beutkarshh/AI_WEB_NAV",
-    "stars": 1,
-    "updated_at": "2026-10-03T08:00:35Z",
-    "url": "https://github.com/beutkarshh/AI_WEB_NAV"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-10-03T09:25:37Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Claude Code plugin to draft, review, revise, proofread, and audit quantitative-science journal manuscripts at submission",
-    "id": "Rekin226/paper-agent",
-    "language": "Python",
-    "name": "Rekin226/paper-agent",
-    "stars": 8,
-    "updated_at": "2026-10-03T07:59:40Z",
-    "url": "https://github.com/Rekin226/paper-agent"
-  },
-  {
-    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
-    "id": "Rekin226/Agronaut",
-    "language": "Python",
-    "name": "Rekin226/Agronaut",
-    "stars": 4,
-    "updated_at": "2026-10-03T08:26:26Z",
-    "url": "https://github.com/Rekin226/Agronaut"
-  },
-  {
-    "description": " Where intent meets code \u2014 a local AI coding agent         ",
-    "id": "alex8224/synapse-agent",
-    "language": "Python",
-    "name": "alex8224/synapse-agent",
-    "stars": 7,
-    "updated_at": "2026-10-03T07:56:47Z",
-    "url": "https://github.com/alex8224/synapse-agent"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 3,
-    "updated_at": "2026-10-03T07:52:51Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Production-ready template for a self-hosted Agent Protocol server: FastAPI + LangGraph + PostgreSQL (+ optional Redis), ",
-    "id": "TekkenSteve/fastapi_langgraph_template",
-    "language": "Python",
-    "name": "TekkenSteve/fastapi_langgraph_template",
-    "stars": 2,
-    "updated_at": "2026-10-03T07:51:41Z",
-    "url": "https://github.com/TekkenSteve/fastapi_langgraph_template"
-  },
-  {
-    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
-    "id": "kangwoo/aimon-core",
-    "language": "Java",
-    "name": "kangwoo/aimon-core",
-    "stars": 0,
-    "updated_at": "2026-10-03T07:49:20Z",
-    "url": "https://github.com/kangwoo/aimon-core"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-10-03T07:44:59Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   }
 ]
