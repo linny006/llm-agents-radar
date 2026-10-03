@@ -1,12 +1,75 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-10-03T16:59:13Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 130,
+    "updated_at": "2026-10-03T16:58:47Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "sid-code \u4e0e claude-trace \u5171\u540c\u9762\u5bf9\u7684\u4f01\u4e1a\u7ea7\u540e\u7aef\uff1a\u63a7\u5236\u9762\uff08policy / flag / \u8eab\u4efd\uff09\u4e0e\u6570\u636e\u9762\uff08\u8f68\u8ff9 / \u4e8b\u4ef6\uff09\u540c\u4ed3\u3001\u9274\u6743\u9694\u79bb\u3002\u5df2\u4ea4\u4ed8\u8f68\u8ff9\u5b58\u50a8\u4e0e\u5206\u6790\uff0c\u5176\u4f59\u6a21\u5757\u6309\u91cc\u7a0b\u7891\u8fed\u4ee3",
+    "id": "njfuzrs/agent-backend",
+    "language": "Python",
+    "name": "njfuzrs/agent-backend",
+    "stars": 0,
+    "updated_at": "2026-10-03T16:56:29Z",
+    "url": "https://github.com/njfuzrs/agent-backend"
+  },
+  {
     "description": "Application Security orchestration platform",
     "id": "grauwolf32/contractor",
     "language": "Go",
     "name": "grauwolf32/contractor",
     "stars": 2,
-    "updated_at": "2026-10-03T16:43:02Z",
+    "updated_at": "2026-10-03T16:53:47Z",
     "url": "https://github.com/grauwolf32/contractor"
+  },
+  {
+    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
+    "id": "Rekin226/Agronaut",
+    "language": "Python",
+    "name": "Rekin226/Agronaut",
+    "stars": 4,
+    "updated_at": "2026-10-03T16:59:58Z",
+    "url": "https://github.com/Rekin226/Agronaut"
+  },
+  {
+    "description": "Shared AI agents for teams: one agent per channel, with memory, connected apps and approvals. Open source and self-hosta",
+    "id": "janakrathi/Teamski",
+    "language": "TypeScript",
+    "name": "janakrathi/Teamski",
+    "stars": 4,
+    "updated_at": "2026-10-03T16:53:03Z",
+    "url": "https://github.com/janakrathi/Teamski"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-03T16:51:49Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 1,
+    "updated_at": "2026-10-03T16:46:26Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
@@ -18,20 +81,11 @@
     "url": "https://github.com/kashyaprajharsh/medha-agent"
   },
   {
-    "description": "Shared AI agents for teams: one agent per channel, with memory, connected apps and approvals. Open source and self-hosta",
-    "id": "janakrathi/Teamski",
-    "language": "TypeScript",
-    "name": "janakrathi/Teamski",
-    "stars": 4,
-    "updated_at": "2026-10-03T16:41:37Z",
-    "url": "https://github.com/janakrathi/Teamski"
-  },
-  {
     "description": "A\u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\uff1a\u80a1\u7968\u5206\u6790\u3001\u91cf\u5316\u4ea4\u6613\u5206\u6790\u3001\u76d8\u540e\u590d\u76d8\u684c\u9762\u5de5\u4f5c\u53f0\u2014\u2014easy stock",
     "id": "jundizhou/easy-stock",
     "language": "Go",
     "name": "jundizhou/easy-stock",
-    "stars": 1157,
+    "stars": 1159,
     "updated_at": "2026-10-03T16:40:49Z",
     "url": "https://github.com/jundizhou/easy-stock"
   },
@@ -54,15 +108,6 @@
     "url": "https://github.com/wufufu770/d2d"
   },
   {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 1,
-    "updated_at": "2026-10-03T16:33:16Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
     "id": "ongridio/ongrid",
     "language": "Go",
@@ -70,15 +115,6 @@
     "stars": 1111,
     "updated_at": "2026-10-03T16:32:48Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "sid-code \u4e0e claude-trace \u5171\u540c\u9762\u5bf9\u7684\u4f01\u4e1a\u7ea7\u540e\u7aef\uff1a\u63a7\u5236\u9762\uff08policy / flag / \u8eab\u4efd\uff09\u4e0e\u6570\u636e\u9762\uff08\u8f68\u8ff9 / \u4e8b\u4ef6\uff09\u540c\u4ed3\u3001\u9274\u6743\u9694\u79bb\u3002\u5df2\u4ea4\u4ed8\u8f68\u8ff9\u5b58\u50a8\u4e0e\u5206\u6790\uff0c\u5176\u4f59\u6a21\u5757\u6309\u91cc\u7a0b\u7891\u8fed\u4ee3",
-    "id": "njfuzrs/agent-backend",
-    "language": "Python",
-    "name": "njfuzrs/agent-backend",
-    "stars": 0,
-    "updated_at": "2026-10-03T16:33:05Z",
-    "url": "https://github.com/njfuzrs/agent-backend"
   },
   {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
@@ -104,7 +140,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-10-03T16:29:04Z",
+    "updated_at": "2026-10-03T16:50:08Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -351,15 +387,6 @@
     "url": "https://github.com/Tonyx79/clov-ai"
   },
   {
-    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
-    "id": "Rekin226/Agronaut",
-    "language": "Python",
-    "name": "Rekin226/Agronaut",
-    "stars": 4,
-    "updated_at": "2026-10-03T16:42:50Z",
-    "url": "https://github.com/Rekin226/Agronaut"
-  },
-  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-03T15:53:34Z",
     "url": "https://github.com/Arcticfox-star/SciFormula"
-  },
-  {
-    "description": "JevHub \u00b7 Jev \u751f\u6001\u70ed\u699c \u628a\u503c\u5f97\u5173\u6ce8\u7684 Jev \u9879\u76ee\u3001\u6559\u7a0b\u548c\u8ba8\u8bba\uff0c\u6c47\u5230\u4e00\u9875\u3002 \u81ea\u52a8\u53d1\u73b0 \u00b7 \u6bcf\u65e5\u66f4\u65b0 \u00b7 \u6309 Stars \u6392\u5e8f \u00b7 \u4e2d\u82f1\u53cc\u8bed",
-    "id": "frontierlabai/JevHub",
-    "language": "Python",
-    "name": "frontierlabai/JevHub",
-    "stars": 6,
-    "updated_at": "2026-10-03T15:53:03Z",
-    "url": "https://github.com/frontierlabai/JevHub"
-  },
-  {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 1,
-    "updated_at": "2026-10-03T16:21:22Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
-    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "language": "HTML",
-    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "stars": 0,
-    "updated_at": "2026-10-03T15:49:24Z",
-    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
   }
 ]
