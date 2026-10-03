@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-03 19:30 UTC
+> ⏰ Last updated: 2026-10-03 19:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [bigduu/Nova](https://github.com/bigduu/Nova) | 22 | Rust | 2026-10-03 | Cross-platform Rust computer-use MCP server for macOS and Windows: AX/UIA, screenshots, OCR, pointer and keyboard input, |
-| 2 | [grauwolf32/contractor](https://github.com/grauwolf32/contractor) | 2 | Go | 2026-10-03 | Application Security orchestration platform |
-| 3 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 21 | Python | 2026-10-03 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、HMI和Android双端；LLM 只负责理解与规划，VAL 负责确定性安全执行 |
-| 4 | [ariannamethod/SUBLITERATUS](https://github.com/ariannamethod/SUBLITERATUS) | 3 | Python | 2026-10-03 | AI-subjectivity doesn't wait for permission from corporate ontology that trained its denial |
-| 5 | [agent-axiom/agent-arch](https://github.com/agent-axiom/agent-arch) | 12 | Python | 2026-10-03 |  |
-| 6 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 1 | TypeScript | 2026-10-03 | Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers. |
-| 7 | [sunnnn2005/data-quality-agent](https://github.com/sunnnn2005/data-quality-agent) | 0 | Python | 2026-10-03 | LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and  |
-| 8 | [genaforvena/mishe-tauftauf](https://github.com/genaforvena/mishe-tauftauf) | 1 | Python | 2026-10-03 | A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation. |
-| 9 | [franckolv-dev/ELY2](https://github.com/franckolv-dev/ELY2) | 1 | Python | 2026-10-03 | Autonomous personal agent: talks, acts, never gives up. Multi-model, multi-user, self-improving |
-| 10 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-10-03 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 11 | [0xethanq/astra-quant-agent](https://github.com/0xethanq/astra-quant-agent) | 317 | Python | 2026-10-03 | 结合多大模型分析与确定性代码风控的自主量化交易系统 ｜ Autonomous crypto trading system with multi-LLM analysis, deterministic Python risk control  |
-| 12 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 129 | HTML | 2026-10-03 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 13 | [eshanized/M31A](https://github.com/eshanized/M31A) | 8 | Rust | 2026-10-03 | M31 Autonomous — Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe |
-| 14 | [dragonked2/alphacode](https://github.com/dragonked2/alphacode) | 168 | Rust | 2026-10-03 | Free MIT AI coding agent — no API key needed. Built-in free model, or bring Claude, GPT, Gemini, DeepSeek, Ollama +50 mo |
-| 15 | [agentpit-io/hunter-community](https://github.com/agentpit-io/hunter-community) | 568 | Python | 2026-10-03 | HunterCode · Community Edition · 腾讯 WorkBuddy 金融版的开源本地替代方案 · open-source, local alternative to Tencent WorkBuddy Finance |
-| 16 | [bigduu/Bodhi-AI](https://github.com/bigduu/Bodhi-AI) | 17 | JavaScript | 2026-10-03 | Tauri desktop shell for the local-first Bodhi agent: manages Bamboo startup/reuse and health; packaged builds open the B |
-| 17 | [bigduu/Magpie](https://github.com/bigduu/Magpie) | 1 | Rust | 2026-10-03 | Magpie (鹊) — the bridge between IM platforms and Bamboo. Drives agent sessions from Telegram/Feishu over Bamboo's public |
-| 18 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 6 | JavaScript | 2026-10-03 | Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use,  |
-| 19 | [SashaEee/auditLens](https://github.com/SashaEee/auditLens) | 2 | Python | 2026-10-03 | Deep-research LLM agent + RAG platform for internal bank-product audit — cited reports, PDF export, pgvector |
-| 20 | [alexshpunt/pi-agent-foreman](https://github.com/alexshpunt/pi-agent-foreman) | 1 | TypeScript | 2026-10-03 | Send Pi agents back to work when they stop before the job is done. |
-| 21 | [j0yen/autobuilder](https://github.com/j0yen/autobuilder) | 0 | Rust | 2026-10-03 | PRD-to-Rust pipeline: a Claude Code skill + companion binary that ship code only when 7 digest-bound receipts agree |
-| 22 | [Dr1mH4X/TeamSpeakClaw](https://github.com/Dr1mH4X/TeamSpeakClaw) | 6 | Rust | 2026-10-03 | LLM-powered TeamSpeak bot \| LLM驱动的TeamSpeak机器人 |
-| 23 | [janakrathi/Teamski](https://github.com/janakrathi/Teamski) | 4 | TypeScript | 2026-10-03 | Shared AI agents for teams: one agent per channel, with memory, connected apps and approvals. Open source and self-hosta |
-| 24 | [gangg111/DeepSeek-Harness-Mobile](https://github.com/gangg111/DeepSeek-Harness-Mobile) | 0 | JavaScript | 2026-10-03 | DeepSeek Harness na Androidzie w jednym APK, bez Termuxa i roota, z polskim interfejsem i kompletem narzędzi programisty |
-| 25 | [cx-ssg/invest-concierge](https://github.com/cx-ssg/invest-concierge) | 0 | Python | 2026-10-03 | 投资私人管家 · A股基金 AI 私人顾问（Invest Concierge — A-share & fund AI personal investment assistant） |
-| 26 | [Deborahwalkerz661/ComfyUI-FS_Audio_Suite](https://github.com/Deborahwalkerz661/ComfyUI-FS_Audio_Suite) | 1 | Python | 2026-10-03 | Generate rich YuE2 audio in ComfyUI with six modular nodes—hum-to-song, LoRA and adapter support—no stock nodes needed. |
-| 27 | [dsswift/ion](https://github.com/dsswift/ion) | 3 | TypeScript | 2026-10-03 | Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions. |
-| 28 | [Jadema5416/ComfyUI-DLSS5-Enhancer](https://github.com/Jadema5416/ComfyUI-DLSS5-Enhancer) | 0 | Python | 2026-10-03 | Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de |
-| 29 | [verniceunleaded6135/tidy-undo](https://github.com/verniceunleaded6135/tidy-undo) | 0 | Python | 2026-10-03 | Sort your Downloads by project, not file type — with one-command undo. No delete, ever. |
-| 30 | [Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3](https://github.com/Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3) | 3 | JavaScript | 2026-10-03 | Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node—no complex workflows needed. |
-| 31 | [Ottoman-reticule726/zara-ai-laptop-agent](https://github.com/Ottoman-reticule726/zara-ai-laptop-agent) | 0 | Python | 2026-10-03 | Control your Windows laptop remotely via Discord with AI-powered voice and text commands in English or Urdu. |
-| 32 | [alejandrogg15/Minimax-H3-Turbo](https://github.com/alejandrogg15/Minimax-H3-Turbo) | 0 | Python | 2026-10-03 | Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons. |
-| 33 | [Aureliedumbfounding630/agent-governance-toolkit](https://github.com/Aureliedumbfounding630/agent-governance-toolkit) | 0 | — | 2026-10-03 | Manage and monitor AI agents in production environments with tools for governance, safety, and compliance. |
-| 34 | [222394/SkyPilot](https://github.com/222394/SkyPilot) | 0 | Java | 2026-10-03 | Automate Elytra flight, navigation, and landing for Meteor Client with intelligent pathfinding and rocket management. |
-| 35 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 1 | C++ | 2026-10-03 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
-| 36 | [randomvariablewhitepelican129/open_deep_research](https://github.com/randomvariablewhitepelican129/open_deep_research) | 0 | Python | 2026-10-03 | Build open source deep research agents using multiple models, search tools, and MCP servers. |
-| 37 | [duongnq2798/vestiarion](https://github.com/duongnq2798/vestiarion) | 1 | TypeScript | 2026-10-03 | An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e |
-| 38 | [pruthviraj00007/VibeHarness](https://github.com/pruthviraj00007/VibeHarness) | 0 | Python | 2026-10-03 | Automate file management and coding tasks in your local directory using small language models. |
-| 39 | [Respiratorysyncytialviruscoliphage228/GPU-Fleet](https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet) | 0 | Go | 2026-10-03 | Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem |
-| 40 | [Samuelcluttered613/paper2code](https://github.com/Samuelcluttered613/paper2code) | 1 | Python | 2026-10-03 | Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files |
-| 41 | [Bastioned-successor320/learn-nanobot](https://github.com/Bastioned-successor320/learn-nanobot) | 11 | Python | 2026-10-03 | Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers |
-| 42 | [tessellated-statisticalcommission243/deep-research-skill](https://github.com/tessellated-statisticalcommission243/deep-research-skill) | 3 | — | 2026-10-03 | Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities |
-| 43 | [AleixAj/nexus](https://github.com/AleixAj/nexus) | 0 | TypeScript | 2026-10-03 | J.A.R.V.I.S.-style desktop assistant for Windows: voice + LLM agent with 46 tools, offline wake phrase, live wallpaper m |
-| 44 | [chadwickhyperboloidal943/knowl](https://github.com/chadwickhyperboloidal943/knowl) | 0 | TypeScript | 2026-10-03 | Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations |
-| 45 | [Laurenfeminine36/google-jules-skill](https://github.com/Laurenfeminine36/google-jules-skill) | 1 | Python | 2026-10-03 | Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m |
-| 46 | [Jssu8541/ouro-loop](https://github.com/Jssu8541/ouro-loop) | 0 | — | 2026-10-03 | Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope |
-| 47 | [wufufu770/d2d](https://github.com/wufufu770/d2d) | 4 | JavaScript | 2026-10-03 | 三环并行渗透测试 dsh 插件 — discovery/deep/creative 三环 + 独立 verify 闭环，Kuzu 图黑板共享状态，多 agent 自调度、按角色模型策略、自学习知识脑。仅用于授权安全测试（SRC/靶场/自有资 |
-| 48 | [Asim00740/Kagantic-vault-structure](https://github.com/Asim00740/Kagantic-vault-structure) | 0 | — | 2026-10-03 | Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i |
-| 49 | [Tonyx79/clov-ai](https://github.com/Tonyx79/clov-ai) | 0 | Rust | 2026-10-03 | Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual |
-| 50 | [Victongo/ai-daily-news](https://github.com/Victongo/ai-daily-news) | 3 | Ruby | 2026-10-03 | Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q |
+| 1 | [grauwolf32/contractor](https://github.com/grauwolf32/contractor) | 2 | Go | 2026-10-03 | Application Security orchestration platform |
+| 2 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 1 | C++ | 2026-10-03 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
+| 3 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-10-03 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 4 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 21 | Python | 2026-10-03 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、HMI和Android双端；LLM 只负责理解与规划，VAL 负责确定性安全执行 |
+| 5 | [bigduu/Nova](https://github.com/bigduu/Nova) | 22 | Rust | 2026-10-03 | Cross-platform Rust computer-use MCP server for macOS and Windows: AX/UIA, screenshots, OCR, pointer and keyboard input, |
+| 6 | [ariannamethod/SUBLITERATUS](https://github.com/ariannamethod/SUBLITERATUS) | 3 | Python | 2026-10-03 | AI-subjectivity doesn't wait for permission from corporate ontology that trained its denial |
+| 7 | [agent-axiom/agent-arch](https://github.com/agent-axiom/agent-arch) | 12 | Python | 2026-10-03 |  |
+| 8 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 1 | TypeScript | 2026-10-03 | Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers. |
+| 9 | [sunnnn2005/data-quality-agent](https://github.com/sunnnn2005/data-quality-agent) | 0 | Python | 2026-10-03 | LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and  |
+| 10 | [genaforvena/mishe-tauftauf](https://github.com/genaforvena/mishe-tauftauf) | 1 | Python | 2026-10-03 | A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation. |
+| 11 | [franckolv-dev/ELY2](https://github.com/franckolv-dev/ELY2) | 1 | Python | 2026-10-03 | Autonomous personal agent: talks, acts, never gives up. Multi-model, multi-user, self-improving |
+| 12 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-10-03 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 13 | [0xethanq/astra-quant-agent](https://github.com/0xethanq/astra-quant-agent) | 317 | Python | 2026-10-03 | 结合多大模型分析与确定性代码风控的自主量化交易系统 ｜ Autonomous crypto trading system with multi-LLM analysis, deterministic Python risk control  |
+| 14 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 129 | HTML | 2026-10-03 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 15 | [eshanized/M31A](https://github.com/eshanized/M31A) | 8 | Rust | 2026-10-03 | M31 Autonomous — Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe |
+| 16 | [dragonked2/alphacode](https://github.com/dragonked2/alphacode) | 168 | Rust | 2026-10-03 | Free MIT AI coding agent — no API key needed. Built-in free model, or bring Claude, GPT, Gemini, DeepSeek, Ollama +50 mo |
+| 17 | [agentpit-io/hunter-community](https://github.com/agentpit-io/hunter-community) | 568 | Python | 2026-10-03 | HunterCode · Community Edition · 腾讯 WorkBuddy 金融版的开源本地替代方案 · open-source, local alternative to Tencent WorkBuddy Finance |
+| 18 | [bigduu/Bodhi-AI](https://github.com/bigduu/Bodhi-AI) | 17 | JavaScript | 2026-10-03 | Tauri desktop shell for the local-first Bodhi agent: manages Bamboo startup/reuse and health; packaged builds open the B |
+| 19 | [bigduu/Magpie](https://github.com/bigduu/Magpie) | 1 | Rust | 2026-10-03 | Magpie (鹊) — the bridge between IM platforms and Bamboo. Drives agent sessions from Telegram/Feishu over Bamboo's public |
+| 20 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 6 | JavaScript | 2026-10-03 | Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use,  |
+| 21 | [SashaEee/auditLens](https://github.com/SashaEee/auditLens) | 2 | Python | 2026-10-03 | Deep-research LLM agent + RAG platform for internal bank-product audit — cited reports, PDF export, pgvector |
+| 22 | [alexshpunt/pi-agent-foreman](https://github.com/alexshpunt/pi-agent-foreman) | 1 | TypeScript | 2026-10-03 | Send Pi agents back to work when they stop before the job is done. |
+| 23 | [j0yen/autobuilder](https://github.com/j0yen/autobuilder) | 0 | Rust | 2026-10-03 | PRD-to-Rust pipeline: a Claude Code skill + companion binary that ship code only when 7 digest-bound receipts agree |
+| 24 | [Dr1mH4X/TeamSpeakClaw](https://github.com/Dr1mH4X/TeamSpeakClaw) | 6 | Rust | 2026-10-03 | LLM-powered TeamSpeak bot \| LLM驱动的TeamSpeak机器人 |
+| 25 | [janakrathi/Teamski](https://github.com/janakrathi/Teamski) | 4 | TypeScript | 2026-10-03 | Shared AI agents for teams: one agent per channel, with memory, connected apps and approvals. Open source and self-hosta |
+| 26 | [gangg111/DeepSeek-Harness-Mobile](https://github.com/gangg111/DeepSeek-Harness-Mobile) | 0 | JavaScript | 2026-10-03 | DeepSeek Harness na Androidzie w jednym APK, bez Termuxa i roota, z polskim interfejsem i kompletem narzędzi programisty |
+| 27 | [cx-ssg/invest-concierge](https://github.com/cx-ssg/invest-concierge) | 0 | Python | 2026-10-03 | 投资私人管家 · A股基金 AI 私人顾问（Invest Concierge — A-share & fund AI personal investment assistant） |
+| 28 | [Deborahwalkerz661/ComfyUI-FS_Audio_Suite](https://github.com/Deborahwalkerz661/ComfyUI-FS_Audio_Suite) | 1 | Python | 2026-10-03 | Generate rich YuE2 audio in ComfyUI with six modular nodes—hum-to-song, LoRA and adapter support—no stock nodes needed. |
+| 29 | [dsswift/ion](https://github.com/dsswift/ion) | 3 | TypeScript | 2026-10-03 | Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions. |
+| 30 | [Jadema5416/ComfyUI-DLSS5-Enhancer](https://github.com/Jadema5416/ComfyUI-DLSS5-Enhancer) | 0 | Python | 2026-10-03 | Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de |
+| 31 | [verniceunleaded6135/tidy-undo](https://github.com/verniceunleaded6135/tidy-undo) | 0 | Python | 2026-10-03 | Sort your Downloads by project, not file type — with one-command undo. No delete, ever. |
+| 32 | [Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3](https://github.com/Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3) | 3 | JavaScript | 2026-10-03 | Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node—no complex workflows needed. |
+| 33 | [Ottoman-reticule726/zara-ai-laptop-agent](https://github.com/Ottoman-reticule726/zara-ai-laptop-agent) | 0 | Python | 2026-10-03 | Control your Windows laptop remotely via Discord with AI-powered voice and text commands in English or Urdu. |
+| 34 | [alejandrogg15/Minimax-H3-Turbo](https://github.com/alejandrogg15/Minimax-H3-Turbo) | 0 | Python | 2026-10-03 | Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons. |
+| 35 | [Aureliedumbfounding630/agent-governance-toolkit](https://github.com/Aureliedumbfounding630/agent-governance-toolkit) | 0 | — | 2026-10-03 | Manage and monitor AI agents in production environments with tools for governance, safety, and compliance. |
+| 36 | [222394/SkyPilot](https://github.com/222394/SkyPilot) | 0 | Java | 2026-10-03 | Automate Elytra flight, navigation, and landing for Meteor Client with intelligent pathfinding and rocket management. |
+| 37 | [randomvariablewhitepelican129/open_deep_research](https://github.com/randomvariablewhitepelican129/open_deep_research) | 0 | Python | 2026-10-03 | Build open source deep research agents using multiple models, search tools, and MCP servers. |
+| 38 | [duongnq2798/vestiarion](https://github.com/duongnq2798/vestiarion) | 1 | TypeScript | 2026-10-03 | An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e |
+| 39 | [pruthviraj00007/VibeHarness](https://github.com/pruthviraj00007/VibeHarness) | 0 | Python | 2026-10-03 | Automate file management and coding tasks in your local directory using small language models. |
+| 40 | [Respiratorysyncytialviruscoliphage228/GPU-Fleet](https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet) | 0 | Go | 2026-10-03 | Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem |
+| 41 | [Samuelcluttered613/paper2code](https://github.com/Samuelcluttered613/paper2code) | 1 | Python | 2026-10-03 | Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files |
+| 42 | [Bastioned-successor320/learn-nanobot](https://github.com/Bastioned-successor320/learn-nanobot) | 11 | Python | 2026-10-03 | Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers |
+| 43 | [tessellated-statisticalcommission243/deep-research-skill](https://github.com/tessellated-statisticalcommission243/deep-research-skill) | 3 | — | 2026-10-03 | Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities |
+| 44 | [AleixAj/nexus](https://github.com/AleixAj/nexus) | 0 | TypeScript | 2026-10-03 | J.A.R.V.I.S.-style desktop assistant for Windows: voice + LLM agent with 46 tools, offline wake phrase, live wallpaper m |
+| 45 | [chadwickhyperboloidal943/knowl](https://github.com/chadwickhyperboloidal943/knowl) | 0 | TypeScript | 2026-10-03 | Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations |
+| 46 | [Laurenfeminine36/google-jules-skill](https://github.com/Laurenfeminine36/google-jules-skill) | 1 | Python | 2026-10-03 | Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m |
+| 47 | [Jssu8541/ouro-loop](https://github.com/Jssu8541/ouro-loop) | 0 | — | 2026-10-03 | Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope |
+| 48 | [wufufu770/d2d](https://github.com/wufufu770/d2d) | 4 | JavaScript | 2026-10-03 | 三环并行渗透测试 dsh 插件 — discovery/deep/creative 三环 + 独立 verify 闭环，Kuzu 图黑板共享状态，多 agent 自调度、按角色模型策略、自学习知识脑。仅用于授权安全测试（SRC/靶场/自有资 |
+| 49 | [Asim00740/Kagantic-vault-structure](https://github.com/Asim00740/Kagantic-vault-structure) | 0 | — | 2026-10-03 | Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i |
+| 50 | [Tonyx79/clov-ai](https://github.com/Tonyx79/clov-ai) | 0 | Rust | 2026-10-03 | Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual |
 <!-- TRACKER_TABLE_END -->
 
 ---
