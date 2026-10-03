@@ -1,11 +1,173 @@
 [
   {
+    "description": "Shared AI agents for teams: one agent per channel, with memory, connected apps and approvals. Open source and self-hosta",
+    "id": "janakrathi/Teamski",
+    "language": "TypeScript",
+    "name": "janakrathi/Teamski",
+    "stars": 4,
+    "updated_at": "2026-10-03T18:14:32Z",
+    "url": "https://github.com/janakrathi/Teamski"
+  },
+  {
+    "description": "Sort your Downloads by project, not file type \u2014 with one-command undo. No delete, ever.",
+    "id": "verniceunleaded6135/tidy-undo",
+    "language": "Python",
+    "name": "verniceunleaded6135/tidy-undo",
+    "stars": 0,
+    "updated_at": "2026-10-03T18:14:23Z",
+    "url": "https://github.com/verniceunleaded6135/tidy-undo"
+  },
+  {
+    "description": "Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node\u2014no complex workflows needed.",
+    "id": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
+    "language": "JavaScript",
+    "name": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
+    "stars": 3,
+    "updated_at": "2026-10-03T18:13:44Z",
+    "url": "https://github.com/Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 1,
+    "updated_at": "2026-10-03T18:12:51Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Control your Windows laptop remotely via Discord with AI-powered voice and text commands in English or Urdu.",
+    "id": "Ottoman-reticule726/zara-ai-laptop-agent",
+    "language": "Python",
+    "name": "Ottoman-reticule726/zara-ai-laptop-agent",
+    "stars": 0,
+    "updated_at": "2026-10-03T18:12:44Z",
+    "url": "https://github.com/Ottoman-reticule726/zara-ai-laptop-agent"
+  },
+  {
+    "description": "Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons.",
+    "id": "alejandrogg15/Minimax-H3-Turbo",
+    "language": "Python",
+    "name": "alejandrogg15/Minimax-H3-Turbo",
+    "stars": 0,
+    "updated_at": "2026-10-03T18:12:23Z",
+    "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
+  },
+  {
+    "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
+    "id": "Aureliedumbfounding630/agent-governance-toolkit",
+    "language": "\u2014",
+    "name": "Aureliedumbfounding630/agent-governance-toolkit",
+    "stars": 0,
+    "updated_at": "2026-10-03T18:11:10Z",
+    "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
+  },
+  {
+    "description": "Automate Elytra flight, navigation, and landing for Meteor Client with intelligent pathfinding and rocket management.",
+    "id": "222394/SkyPilot",
+    "language": "Java",
+    "name": "222394/SkyPilot",
+    "stars": 0,
+    "updated_at": "2026-10-03T18:11:08Z",
+    "url": "https://github.com/222394/SkyPilot"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-10-03T18:11:14Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "Build open source deep research agents using multiple models, search tools, and MCP servers.",
+    "id": "randomvariablewhitepelican129/open_deep_research",
+    "language": "Python",
+    "name": "randomvariablewhitepelican129/open_deep_research",
+    "stars": 0,
+    "updated_at": "2026-10-03T18:10:29Z",
+    "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 1,
+    "updated_at": "2026-10-03T18:07:57Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "Automate file management and coding tasks in your local directory using small language models.",
+    "id": "pruthviraj00007/VibeHarness",
+    "language": "Python",
+    "name": "pruthviraj00007/VibeHarness",
+    "stars": 0,
+    "updated_at": "2026-10-03T18:07:56Z",
+    "url": "https://github.com/pruthviraj00007/VibeHarness"
+  },
+  {
+    "description": "Application Security orchestration platform",
+    "id": "grauwolf32/contractor",
+    "language": "Go",
+    "name": "grauwolf32/contractor",
+    "stars": 2,
+    "updated_at": "2026-10-03T18:07:06Z",
+    "url": "https://github.com/grauwolf32/contractor"
+  },
+  {
+    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
+    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "language": "Go",
+    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "stars": 0,
+    "updated_at": "2026-10-03T18:06:33Z",
+    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "TypeScript",
+    "name": "dsswift/ion",
+    "stars": 3,
+    "updated_at": "2026-10-03T18:10:16Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
+    "id": "Samuelcluttered613/paper2code",
+    "language": "Python",
+    "name": "Samuelcluttered613/paper2code",
+    "stars": 1,
+    "updated_at": "2026-10-03T18:03:08Z",
+    "url": "https://github.com/Samuelcluttered613/paper2code"
+  },
+  {
+    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
+    "id": "Bastioned-successor320/learn-nanobot",
+    "language": "Python",
+    "name": "Bastioned-successor320/learn-nanobot",
+    "stars": 11,
+    "updated_at": "2026-10-03T18:02:53Z",
+    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
+  },
+  {
+    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
+    "id": "tessellated-statisticalcommission243/deep-research-skill",
+    "language": "\u2014",
+    "name": "tessellated-statisticalcommission243/deep-research-skill",
+    "stars": 3,
+    "updated_at": "2026-10-03T18:02:45Z",
+    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
+  },
+  {
     "description": "J.A.R.V.I.S.-style desktop assistant for Windows: voice + LLM agent with 46 tools, offline wake phrase, live wallpaper m",
     "id": "AleixAj/nexus",
     "language": "TypeScript",
     "name": "AleixAj/nexus",
     "stars": 0,
-    "updated_at": "2026-10-03T17:59:07Z",
+    "updated_at": "2026-10-03T18:00:18Z",
     "url": "https://github.com/AleixAj/nexus"
   },
   {
@@ -72,15 +234,6 @@
     "url": "https://github.com/SashaEee/auditLens"
   },
   {
-    "description": "Shared AI agents for teams: one agent per channel, with memory, connected apps and approvals. Open source and self-hosta",
-    "id": "janakrathi/Teamski",
-    "language": "TypeScript",
-    "name": "janakrathi/Teamski",
-    "stars": 4,
-    "updated_at": "2026-10-03T17:56:56Z",
-    "url": "https://github.com/janakrathi/Teamski"
-  },
-  {
     "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
     "id": "Asim00740/Kagantic-vault-structure",
     "language": "\u2014",
@@ -99,15 +252,6 @@
     "url": "https://github.com/Tonyx79/clov-ai"
   },
   {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "TypeScript",
-    "name": "dsswift/ion",
-    "stars": 3,
-    "updated_at": "2026-10-03T17:55:38Z",
-    "url": "https://github.com/dsswift/ion"
-  },
-  {
     "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
     "id": "agentpit-io/hunter-community",
     "language": "Python",
@@ -115,15 +259,6 @@
     "stars": 568,
     "updated_at": "2026-10-03T17:55:09Z",
     "url": "https://github.com/agentpit-io/hunter-community"
-  },
-  {
-    "description": "Application Security orchestration platform",
-    "id": "grauwolf32/contractor",
-    "language": "Go",
-    "name": "grauwolf32/contractor",
-    "stars": 2,
-    "updated_at": "2026-10-03T17:53:32Z",
-    "url": "https://github.com/grauwolf32/contractor"
   },
   {
     "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
@@ -160,15 +295,6 @@
     "stars": 2,
     "updated_at": "2026-10-03T17:51:34Z",
     "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 1,
-    "updated_at": "2026-10-03T17:50:23Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
@@ -270,15 +396,6 @@
     "url": "https://github.com/aviskaar/zorp"
   },
   {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-10-03T17:45:44Z",
-    "url": "https://github.com/b-macker/NAAb"
-  },
-  {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -302,7 +419,7 @@
     "language": "Rust",
     "name": "bigduu/Nova",
     "stars": 22,
-    "updated_at": "2026-10-03T17:43:50Z",
+    "updated_at": "2026-10-03T18:00:27Z",
     "url": "https://github.com/bigduu/Nova"
   },
   {
@@ -331,122 +448,5 @@
     "stars": 130,
     "updated_at": "2026-10-03T16:58:47Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "sid-code \u4e0e claude-trace \u5171\u540c\u9762\u5bf9\u7684\u4f01\u4e1a\u7ea7\u540e\u7aef\uff1a\u63a7\u5236\u9762\uff08policy / flag / \u8eab\u4efd\uff09\u4e0e\u6570\u636e\u9762\uff08\u8f68\u8ff9 / \u4e8b\u4ef6\uff09\u540c\u4ed3\u3001\u9274\u6743\u9694\u79bb\u3002\u5df2\u4ea4\u4ed8\u8f68\u8ff9\u5b58\u50a8\u4e0e\u5206\u6790\uff0c\u5176\u4f59\u6a21\u5757\u6309\u91cc\u7a0b\u7891\u8fed\u4ee3",
-    "id": "njfuzrs/agent-backend",
-    "language": "Python",
-    "name": "njfuzrs/agent-backend",
-    "stars": 0,
-    "updated_at": "2026-10-03T17:30:14Z",
-    "url": "https://github.com/njfuzrs/agent-backend"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-03T16:51:49Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
-    "id": "kashyaprajharsh/medha-agent",
-    "language": "Rust",
-    "name": "kashyaprajharsh/medha-agent",
-    "stars": 0,
-    "updated_at": "2026-10-03T16:41:41Z",
-    "url": "https://github.com/kashyaprajharsh/medha-agent"
-  },
-  {
-    "description": "A\u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\uff1a\u80a1\u7968\u5206\u6790\u3001\u91cf\u5316\u4ea4\u6613\u5206\u6790\u3001\u76d8\u540e\u590d\u76d8\u684c\u9762\u5de5\u4f5c\u53f0\u2014\u2014easy stock",
-    "id": "jundizhou/easy-stock",
-    "language": "Go",
-    "name": "jundizhou/easy-stock",
-    "stars": 1166,
-    "updated_at": "2026-10-03T16:40:49Z",
-    "url": "https://github.com/jundizhou/easy-stock"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-10-03T16:38:28Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 1111,
-    "updated_at": "2026-10-03T16:32:48Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 6102,
-    "updated_at": "2026-10-03T16:30:53Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-10-03T17:59:42Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
-    "id": "haibingzhao/easyai",
-    "language": "Kotlin",
-    "name": "haibingzhao/easyai",
-    "stars": 1,
-    "updated_at": "2026-10-03T16:28:34Z",
-    "url": "https://github.com/haibingzhao/easyai"
-  },
-  {
-    "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
-    "id": "anchor-inference/daedalus",
-    "language": "Python",
-    "name": "anchor-inference/daedalus",
-    "stars": 1,
-    "updated_at": "2026-10-03T16:24:31Z",
-    "url": "https://github.com/anchor-inference/daedalus"
-  },
-  {
-    "description": "Generate rich YuE2 audio in ComfyUI with six modular nodes\u2014hum-to-song, LoRA and adapter support\u2014no stock nodes needed.",
-    "id": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
-    "language": "Python",
-    "name": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
-    "stars": 1,
-    "updated_at": "2026-10-03T16:20:58Z",
-    "url": "https://github.com/Deborahwalkerz661/ComfyUI-FS_Audio_Suite"
-  },
-  {
-    "description": "Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de",
-    "id": "Jadema5416/ComfyUI-DLSS5-Enhancer",
-    "language": "Python",
-    "name": "Jadema5416/ComfyUI-DLSS5-Enhancer",
-    "stars": 0,
-    "updated_at": "2026-10-03T16:19:51Z",
-    "url": "https://github.com/Jadema5416/ComfyUI-DLSS5-Enhancer"
-  },
-  {
-    "description": "A personal expense-tracking agent running on Claude Code: the capture side is deliberately stupid (one sentence to Siri)",
-    "id": "seanlu2006/CountAgent",
-    "language": "Python",
-    "name": "seanlu2006/CountAgent",
-    "stars": 0,
-    "updated_at": "2026-10-03T16:19:31Z",
-    "url": "https://github.com/seanlu2006/CountAgent"
   }
 ]
