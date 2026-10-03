@@ -1,12 +1,57 @@
 [
   {
+    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
+    "id": "bigduu/Zenith",
+    "language": "JavaScript",
+    "name": "bigduu/Zenith",
+    "stars": 6,
+    "updated_at": "2026-10-03T17:29:18Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
+    "id": "aviskaar/zorp",
+    "language": "Rust",
+    "name": "aviskaar/zorp",
+    "stars": 3,
+    "updated_at": "2026-10-03T17:27:07Z",
+    "url": "https://github.com/aviskaar/zorp"
+  },
+  {
     "description": "Application Security orchestration platform",
     "id": "grauwolf32/contractor",
     "language": "Go",
     "name": "grauwolf32/contractor",
     "stars": 2,
-    "updated_at": "2026-10-03T17:14:53Z",
+    "updated_at": "2026-10-03T17:20:51Z",
     "url": "https://github.com/grauwolf32/contractor"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-10-03T17:19:33Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 568,
+    "updated_at": "2026-10-03T17:18:09Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 1,
+    "updated_at": "2026-10-03T17:17:50Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -45,15 +90,6 @@
     "url": "https://github.com/AleixAj/nexus"
   },
   {
-    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 568,
-    "updated_at": "2026-10-03T17:04:16Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
-  },
-  {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
     "id": "plurnk/plurnk-service",
     "language": "TypeScript",
@@ -86,7 +122,7 @@
     "language": "Python",
     "name": "njfuzrs/agent-backend",
     "stars": 0,
-    "updated_at": "2026-10-03T16:56:29Z",
+    "updated_at": "2026-10-03T17:30:14Z",
     "url": "https://github.com/njfuzrs/agent-backend"
   },
   {
@@ -108,15 +144,6 @@
     "url": "https://github.com/ljchang/mecha"
   },
   {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 1,
-    "updated_at": "2026-10-03T16:46:26Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
     "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
     "id": "kashyaprajharsh/medha-agent",
     "language": "Rust",
@@ -130,7 +157,7 @@
     "id": "jundizhou/easy-stock",
     "language": "Go",
     "name": "jundizhou/easy-stock",
-    "stars": 1161,
+    "stars": 1163,
     "updated_at": "2026-10-03T16:40:49Z",
     "url": "https://github.com/jundizhou/easy-stock"
   },
@@ -166,7 +193,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 6101,
+    "stars": 6102,
     "updated_at": "2026-10-03T16:30:53Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-03T16:00:05Z",
     "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 20,
-    "updated_at": "2026-10-03T16:11:50Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 3,
-    "updated_at": "2026-10-03T15:56:46Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-10-03T15:56:27Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
   }
 ]
