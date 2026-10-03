@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-03 15:30 UTC
+> ⏰ Last updated: 2026-10-03 15:33 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 21 | Python | 2026-10-03 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、HMI和Android双端；LLM 只负责理解与规划，VAL 负责确定性安全执行 |
-| 2 | [kyleslight/shun](https://github.com/kyleslight/shun) | 6 | TypeScript | 2026-10-03 | The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier. |
-| 3 | [grauwolf32/contractor](https://github.com/grauwolf32/contractor) | 2 | Go | 2026-10-03 | Application Security orchestration platform |
-| 4 | [Dr1mH4X/TeamSpeakClaw](https://github.com/Dr1mH4X/TeamSpeakClaw) | 6 | Rust | 2026-10-03 | LLM-powered TeamSpeak bot \| LLM驱动的TeamSpeak机器人 |
-| 5 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 1 | TypeScript | 2026-10-03 | Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers. |
+| 1 | [grauwolf32/contractor](https://github.com/grauwolf32/contractor) | 2 | Go | 2026-10-03 | Application Security orchestration platform |
+| 2 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 1 | TypeScript | 2026-10-03 | Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers. |
+| 3 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 21 | Python | 2026-10-03 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、HMI和Android双端；LLM 只负责理解与规划，VAL 负责确定性安全执行 |
+| 4 | [kyleslight/shun](https://github.com/kyleslight/shun) | 6 | TypeScript | 2026-10-03 | The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier. |
+| 5 | [Dr1mH4X/TeamSpeakClaw](https://github.com/Dr1mH4X/TeamSpeakClaw) | 6 | Rust | 2026-10-03 | LLM-powered TeamSpeak bot \| LLM驱动的TeamSpeak机器人 |
 | 6 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 78 | Python | 2026-10-03 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
 | 7 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 129 | HTML | 2026-10-03 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
 | 8 | [zhixuli0406/DuDuClaw](https://github.com/zhixuli0406/DuDuClaw) | 49 | Rust | 2026-10-03 | Open-source AI Agent platform — 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl |
