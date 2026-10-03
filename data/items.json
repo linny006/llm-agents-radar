@@ -1,5 +1,32 @@
 [
   {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-10-03T01:14:42Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 3,
+    "updated_at": "2026-10-03T01:14:09Z",
+    "url": "https://github.com/plurnk/plurnk"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-10-03T01:13:00Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
     "id": "irandysousa/langgraph-llama-cpp-starter",
     "language": "Python",
@@ -32,7 +59,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-03T01:07:12Z",
+    "updated_at": "2026-10-03T01:15:06Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -196,15 +223,6 @@
     "stars": 49,
     "updated_at": "2026-10-02T23:56:29Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
-    "id": "plurnk/plurnk",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk",
-    "stars": 3,
-    "updated_at": "2026-10-02T23:43:55Z",
-    "url": "https://github.com/plurnk/plurnk"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-02T22:41:41Z",
     "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-10-02T22:39:18Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-10-02T22:38:56Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
   }
 ]
