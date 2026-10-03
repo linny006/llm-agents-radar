@@ -1,11 +1,20 @@
 [
   {
+    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
+    "id": "memoways/ava-proto1",
+    "language": "TypeScript",
+    "name": "memoways/ava-proto1",
+    "stars": 0,
+    "updated_at": "2026-10-03T11:55:36Z",
+    "url": "https://github.com/memoways/ava-proto1"
+  },
+  {
     "description": "Application Security orchestration platform",
     "id": "grauwolf32/contractor",
     "language": "Go",
     "name": "grauwolf32/contractor",
     "stars": 2,
-    "updated_at": "2026-10-03T11:43:44Z",
+    "updated_at": "2026-10-03T11:52:23Z",
     "url": "https://github.com/grauwolf32/contractor"
   },
   {
@@ -382,7 +391,7 @@
     "id": "yologdev/yoagent",
     "language": "Rust",
     "name": "yologdev/yoagent",
-    "stars": 236,
+    "stars": 237,
     "updated_at": "2026-10-03T10:17:45Z",
     "url": "https://github.com/yologdev/yoagent"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-03T09:45:37Z",
     "url": "https://github.com/j0yen/autobuilder"
-  },
-  {
-    "description": "Free MIT AI coding agent \u2014 no API key needed. Built-in free model, or bring Claude, GPT, Gemini, DeepSeek, Ollama +50 mo",
-    "id": "dragonked2/alphacode",
-    "language": "Rust",
-    "name": "dragonked2/alphacode",
-    "stars": 158,
-    "updated_at": "2026-10-03T09:36:05Z",
-    "url": "https://github.com/dragonked2/alphacode"
   }
 ]
