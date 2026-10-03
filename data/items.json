@@ -1,12 +1,30 @@
 [
   {
-    "description": "Application Security orchestration platform",
-    "id": "grauwolf32/contractor",
-    "language": "Go",
-    "name": "grauwolf32/contractor",
+    "description": "Multi-step SQL agent over the Olist e-commerce database: plan/act/observe loop, self-correction, grounding guard that ch",
+    "id": "JAYANSHUBADLANI/olist-analyst-agent",
+    "language": "Python",
+    "name": "JAYANSHUBADLANI/olist-analyst-agent",
+    "stars": 0,
+    "updated_at": "2026-10-03T09:09:19Z",
+    "url": "https://github.com/JAYANSHUBADLANI/olist-analyst-agent"
+  },
+  {
+    "description": "Shared AI agents for teams: one agent per channel, with memory, connected apps and approvals. Open source and self-hosta",
+    "id": "janakrathi/Teamski",
+    "language": "TypeScript",
+    "name": "janakrathi/Teamski",
+    "stars": 4,
+    "updated_at": "2026-10-03T09:07:21Z",
+    "url": "https://github.com/janakrathi/Teamski"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
     "stars": 2,
-    "updated_at": "2026-10-03T08:56:43Z",
-    "url": "https://github.com/grauwolf32/contractor"
+    "updated_at": "2026-10-03T09:05:21Z",
+    "url": "https://github.com/SashaEee/auditLens"
   },
   {
     "description": "\u8f7b\u91cf\u7ea7\u8de8\u5e73\u53f0\u91d1\u878d\u7ec8\u7aef\uff1aC++20/Qt6 \u684c\u9762\u58f3 + \u5d4c\u5165\u5f0f Python \u667a\u80fd\u4f53\u5f15\u64ce\u3002\u81ea\u7814\u957f\u5ea6\u524d\u7f00\u5e27\u534f\u8bae + RPC \u6865\u63a5\uff0c\u591a\u89d2\u8272 LLM \u6295\u59d4\u4f1a\u7f16\u6392\u3001\u5de5\u5177\u8c03\u7528\u4e0e\u6570\u5b57\u6eaf\u6e90\u62a4\u680f\uff0c\u6838\u5fc3\u5e93\u96f6\u7b2c\u4e09\u65b9\u4f9d\u8d56\u3002",
@@ -14,8 +32,26 @@
     "language": "Python",
     "name": "RaganaBloodedge/FinPulseTerminal",
     "stars": 0,
-    "updated_at": "2026-10-03T08:56:19Z",
+    "updated_at": "2026-10-03T09:05:14Z",
     "url": "https://github.com/RaganaBloodedge/FinPulseTerminal"
+  },
+  {
+    "description": "LLM-powered TeamSpeak bot | LLM\u9a71\u52a8\u7684TeamSpeak\u673a\u5668\u4eba",
+    "id": "Dr1mH4X/TeamSpeakClaw",
+    "language": "Rust",
+    "name": "Dr1mH4X/TeamSpeakClaw",
+    "stars": 6,
+    "updated_at": "2026-10-03T09:10:19Z",
+    "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
+  },
+  {
+    "description": "Application Security orchestration platform",
+    "id": "grauwolf32/contractor",
+    "language": "Go",
+    "name": "grauwolf32/contractor",
+    "stars": 2,
+    "updated_at": "2026-10-03T09:02:23Z",
+    "url": "https://github.com/grauwolf32/contractor"
   },
   {
     "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
@@ -81,24 +117,6 @@
     "url": "https://github.com/tomcounsell/ai"
   },
   {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-10-03T08:34:52Z",
-    "url": "https://github.com/SashaEee/auditLens"
-  },
-  {
-    "description": "Shared AI agents for teams: one agent per channel, with memory, connected apps and approvals. Open source and self-hosta",
-    "id": "janakrathi/Teamski",
-    "language": "TypeScript",
-    "name": "janakrathi/Teamski",
-    "stars": 4,
-    "updated_at": "2026-10-03T08:29:16Z",
-    "url": "https://github.com/janakrathi/Teamski"
-  },
-  {
     "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
     "id": "peder1981/AdvPP",
     "language": "Go",
@@ -122,7 +140,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4442,
-    "updated_at": "2026-10-03T08:24:36Z",
+    "updated_at": "2026-10-03T09:14:06Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 6100,
     "updated_at": "2026-10-03T07:24:36Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-10-03T07:23:58Z",
-    "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-10-03T07:23:25Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
   }
 ]
