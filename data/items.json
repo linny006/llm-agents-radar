@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "SuperdeMan/cockpit-agent",
     "stars": 21,
-    "updated_at": "2026-10-03T06:22:37Z",
+    "updated_at": "2026-10-03T06:45:10Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-10-03T06:35:24Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Application Security orchestration platform",
@@ -14,7 +23,7 @@
     "language": "Go",
     "name": "grauwolf32/contractor",
     "stars": 2,
-    "updated_at": "2026-10-03T06:21:51Z",
+    "updated_at": "2026-10-03T06:40:14Z",
     "url": "https://github.com/grauwolf32/contractor"
   },
   {
@@ -59,7 +68,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-10-03T06:11:50Z",
+    "updated_at": "2026-10-03T06:31:55Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-03T05:10:21Z",
     "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
-    "id": "yurika0211/lucky-agent",
-    "language": "Go",
-    "name": "yurika0211/lucky-agent",
-    "stars": 14,
-    "updated_at": "2026-10-03T05:10:52Z",
-    "url": "https://github.com/yurika0211/lucky-agent"
   }
 ]
