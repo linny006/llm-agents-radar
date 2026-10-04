@@ -1,11 +1,65 @@
 [
   {
+    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 568,
+    "updated_at": "2026-10-04T05:56:10Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
+    "id": "bigduu/Zenith",
+    "language": "JavaScript",
+    "name": "bigduu/Zenith",
+    "stars": 6,
+    "updated_at": "2026-10-04T05:50:12Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "Cross-platform Rust computer-use MCP server for macOS and Windows: AX/UIA, screenshots, OCR, pointer and keyboard input,",
+    "id": "bigduu/Nova",
+    "language": "Rust",
+    "name": "bigduu/Nova",
+    "stars": 22,
+    "updated_at": "2026-10-04T05:50:03Z",
+    "url": "https://github.com/bigduu/Nova"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 20,
+    "updated_at": "2026-10-04T05:55:05Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Application Security orchestration platform",
+    "id": "grauwolf32/contractor",
+    "language": "Go",
+    "name": "grauwolf32/contractor",
+    "stars": 2,
+    "updated_at": "2026-10-04T05:49:33Z",
+    "url": "https://github.com/grauwolf32/contractor"
+  },
+  {
+    "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
+    "id": "chunleik/self-analyst",
+    "language": "Java",
+    "name": "chunleik/self-analyst",
+    "stars": 0,
+    "updated_at": "2026-10-04T05:56:08Z",
+    "url": "https://github.com/chunleik/self-analyst"
+  },
+  {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
     "id": "zhixuli0406/DuDuClaw",
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 49,
-    "updated_at": "2026-10-04T05:45:03Z",
+    "updated_at": "2026-10-04T05:55:02Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
@@ -18,40 +72,13 @@
     "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
-    "description": "Nine-submodule workspace for a local-first AI system: Bamboo runtime, Lotus/Bodhi UX, Jiandu memory, Nova computer use, ",
-    "id": "bigduu/Zenith",
-    "language": "JavaScript",
-    "name": "bigduu/Zenith",
-    "stars": 6,
-    "updated_at": "2026-10-04T05:39:50Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 568,
-    "updated_at": "2026-10-04T05:38:55Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
-  },
-  {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
     "id": "dkblinux98/nyxGPT",
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-10-04T05:44:32Z",
+    "updated_at": "2026-10-04T05:52:12Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
-    "id": "chunleik/self-analyst",
-    "language": "Java",
-    "name": "chunleik/self-analyst",
-    "stars": 0,
-    "updated_at": "2026-10-04T05:38:41Z",
-    "url": "https://github.com/chunleik/self-analyst"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -126,13 +153,13 @@
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
-    "description": "Application Security orchestration platform",
-    "id": "grauwolf32/contractor",
-    "language": "Go",
-    "name": "grauwolf32/contractor",
-    "stars": 2,
-    "updated_at": "2026-10-04T04:44:07Z",
-    "url": "https://github.com/grauwolf32/contractor"
+    "description": "A lightweight AI chat client for Wear OS round-screen watches - SSE streaming for OpenAI-compatible (Completions/Respons",
+    "id": "ImWuMie/wear-agent",
+    "language": "Kotlin",
+    "name": "ImWuMie/wear-agent",
+    "stars": 3,
+    "updated_at": "2026-10-04T04:48:58Z",
+    "url": "https://github.com/ImWuMie/wear-agent"
   },
   {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
@@ -158,7 +185,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-04T05:32:20Z",
+    "updated_at": "2026-10-04T05:51:03Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-04T03:53:52Z",
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-04T03:20:20Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "Cross-platform Rust computer-use MCP server for macOS and Windows: AX/UIA, screenshots, OCR, pointer and keyboard input,",
-    "id": "bigduu/Nova",
-    "language": "Rust",
-    "name": "bigduu/Nova",
-    "stars": 22,
-    "updated_at": "2026-10-04T04:47:04Z",
-    "url": "https://github.com/bigduu/Nova"
-  },
-  {
-    "description": "AI agent\u7092\u80a1\u8350\u80a1\u76ef\u76d8+open claw\u5fae\u4fe1\u5b9e\u65f6\u63a8\u9001\u64ad\u62a5\u5de5\u4f5c\u6d41",
-    "id": "Heliotrope-dev/finance-agent",
-    "language": "Python",
-    "name": "Heliotrope-dev/finance-agent",
-    "stars": 2,
-    "updated_at": "2026-10-04T03:18:48Z",
-    "url": "https://github.com/Heliotrope-dev/finance-agent"
   }
 ]
