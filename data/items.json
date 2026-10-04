@@ -1,5 +1,41 @@
 [
   {
+    "description": "Shared AI agents for teams: one agent per channel, with memory, connected apps and approvals. Open source and self-hosta",
+    "id": "janakrathi/Teamski",
+    "language": "TypeScript",
+    "name": "janakrathi/Teamski",
+    "stars": 4,
+    "updated_at": "2026-10-04T11:12:07Z",
+    "url": "https://github.com/janakrathi/Teamski"
+  },
+  {
+    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
+    "id": "brutal-45/Nexus-LLM",
+    "language": "Python",
+    "name": "brutal-45/Nexus-LLM",
+    "stars": 0,
+    "updated_at": "2026-10-04T11:11:40Z",
+    "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "One-Stop Personal Health AI Agent \"Say Hi to Healthy Me\"",
+    "id": "thinkwee/HiMe",
+    "language": "Python",
+    "name": "thinkwee/HiMe",
+    "stars": 69,
+    "updated_at": "2026-10-04T11:11:06Z",
+    "url": "https://github.com/thinkwee/HiMe"
+  },
+  {
+    "description": "Lean, extended fork of Nous Research's Hermes Agent \u2014 free model suite, connectors, and ~20 perf fixes. Upstream credite",
+    "id": "Chensihakniroth/anakot-agent-v1",
+    "language": "Python",
+    "name": "Chensihakniroth/anakot-agent-v1",
+    "stars": 0,
+    "updated_at": "2026-10-04T11:09:27Z",
+    "url": "https://github.com/Chensihakniroth/anakot-agent-v1"
+  },
+  {
     "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
     "id": "410979729/scope-recall-hermes",
     "language": "Python",
@@ -25,24 +61,6 @@
     "stars": 0,
     "updated_at": "2026-10-04T10:58:14Z",
     "url": "https://github.com/ZHUPO233/UE-Planar-SceneBuilder-MCP"
-  },
-  {
-    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
-    "id": "brutal-45/Nexus-LLM",
-    "language": "Python",
-    "name": "brutal-45/Nexus-LLM",
-    "stars": 0,
-    "updated_at": "2026-10-04T10:56:37Z",
-    "url": "https://github.com/brutal-45/Nexus-LLM"
-  },
-  {
-    "description": "Shared AI agents for teams: one agent per channel, with memory, connected apps and approvals. Open source and self-hosta",
-    "id": "janakrathi/Teamski",
-    "language": "TypeScript",
-    "name": "janakrathi/Teamski",
-    "stars": 4,
-    "updated_at": "2026-10-04T10:50:22Z",
-    "url": "https://github.com/janakrathi/Teamski"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -113,7 +131,7 @@
     "language": "Go",
     "name": "grauwolf32/contractor",
     "stars": 2,
-    "updated_at": "2026-10-04T10:47:56Z",
+    "updated_at": "2026-10-04T11:04:45Z",
     "url": "https://github.com/grauwolf32/contractor"
   },
   {
@@ -158,7 +176,7 @@
     "language": "Rust",
     "name": "citizenhicks/mobius",
     "stars": 1,
-    "updated_at": "2026-10-04T10:07:55Z",
+    "updated_at": "2026-10-04T11:12:17Z",
     "url": "https://github.com/citizenhicks/mobius"
   },
   {
@@ -185,7 +203,7 @@
     "language": "Python",
     "name": "njfuzrs/agent-backend",
     "stars": 0,
-    "updated_at": "2026-10-04T09:45:37Z",
+    "updated_at": "2026-10-04T11:13:55Z",
     "url": "https://github.com/njfuzrs/agent-backend"
   },
   {
@@ -409,7 +427,7 @@
     "id": "jundizhou/easy-stock",
     "language": "Go",
     "name": "jundizhou/easy-stock",
-    "stars": 1231,
+    "stars": 1232,
     "updated_at": "2026-10-04T08:57:58Z",
     "url": "https://github.com/jundizhou/easy-stock"
   },
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-04T08:53:38Z",
     "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "Observable, auditable Slay the Spire 2 agent with an OpenAI-compatible model interface",
-    "id": "optima-xu/SpireMind",
-    "language": "Python",
-    "name": "optima-xu/SpireMind",
-    "stars": 0,
-    "updated_at": "2026-10-04T08:52:39Z",
-    "url": "https://github.com/optima-xu/SpireMind"
-  },
-  {
-    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
-    "id": "Rekin226/Agronaut",
-    "language": "Python",
-    "name": "Rekin226/Agronaut",
-    "stars": 4,
-    "updated_at": "2026-10-04T08:50:21Z",
-    "url": "https://github.com/Rekin226/Agronaut"
   }
 ]
