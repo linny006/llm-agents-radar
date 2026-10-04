@@ -1,5 +1,77 @@
 [
   {
+    "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 278,
+    "updated_at": "2026-10-04T11:29:40Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 1,
+    "updated_at": "2026-10-04T11:27:06Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
+    "id": "brutal-45/Nexus-LLM",
+    "language": "Python",
+    "name": "brutal-45/Nexus-LLM",
+    "stars": 0,
+    "updated_at": "2026-10-04T11:26:43Z",
+    "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-10-04T11:24:58Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "\u91cf\u7eb2\u611f\u77e5\u7684\u7269\u7406\u5b9a\u5f8b\u81ea\u52a8\u53d1\u73b0\u667a\u80fd\u4f53\uff1a\u91cf\u7eb2\u526a\u679d + OMP \u7a00\u758f\u56de\u5f52 + \u5916\u63a8\u4e0e\u7b26\u53f7\u53cc\u91cd\u9a8c\u8bc1\uff0c\u7ed3\u679c\u53ef\u590d\u73b0\u3001\u53ef\u5ba1\u8ba1\uff1b\u7ecf MCP \u63a5\u5165 Agnes Harness (AGH)\u3002\u6c5f\u82cf\u7701 AI+ \u9ed1\u5ba2\u677e\u53c2\u8d5b\u4f5c\u54c1\u3002",
+    "id": "Arcticfox-star/SciFormula",
+    "language": "HTML",
+    "name": "Arcticfox-star/SciFormula",
+    "stars": 0,
+    "updated_at": "2026-10-04T11:24:29Z",
+    "url": "https://github.com/Arcticfox-star/SciFormula"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3503,
+    "updated_at": "2026-10-04T11:22:18Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
+    "description": "One-Stop Personal Health AI Agent \"Say Hi to Healthy Me\"",
+    "id": "thinkwee/HiMe",
+    "language": "Python",
+    "name": "thinkwee/HiMe",
+    "stars": 69,
+    "updated_at": "2026-10-04T11:19:30Z",
+    "url": "https://github.com/thinkwee/HiMe"
+  },
+  {
+    "description": "sid-code \u4e0e claude-trace \u5171\u540c\u9762\u5bf9\u7684\u4f01\u4e1a\u7ea7\u540e\u7aef\uff1a\u63a7\u5236\u9762\uff08policy / flag / \u8eab\u4efd\uff09\u4e0e\u6570\u636e\u9762\uff08\u8f68\u8ff9 / \u4e8b\u4ef6\uff09\u540c\u4ed3\u3001\u9274\u6743\u9694\u79bb\u3002\u5df2\u4ea4\u4ed8\u8f68\u8ff9\u5b58\u50a8\u4e0e\u5206\u6790\uff0c\u5176\u4f59\u6a21\u5757\u6309\u91cc\u7a0b\u7891\u8fed\u4ee3",
+    "id": "njfuzrs/agent-backend",
+    "language": "Python",
+    "name": "njfuzrs/agent-backend",
+    "stars": 0,
+    "updated_at": "2026-10-04T11:18:46Z",
+    "url": "https://github.com/njfuzrs/agent-backend"
+  },
+  {
     "description": "Shared AI agents for teams: one agent per channel, with memory, connected apps and approvals. Open source and self-hosta",
     "id": "janakrathi/Teamski",
     "language": "TypeScript",
@@ -9,24 +81,6 @@
     "url": "https://github.com/janakrathi/Teamski"
   },
   {
-    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
-    "id": "brutal-45/Nexus-LLM",
-    "language": "Python",
-    "name": "brutal-45/Nexus-LLM",
-    "stars": 0,
-    "updated_at": "2026-10-04T11:11:40Z",
-    "url": "https://github.com/brutal-45/Nexus-LLM"
-  },
-  {
-    "description": "One-Stop Personal Health AI Agent \"Say Hi to Healthy Me\"",
-    "id": "thinkwee/HiMe",
-    "language": "Python",
-    "name": "thinkwee/HiMe",
-    "stars": 69,
-    "updated_at": "2026-10-04T11:11:06Z",
-    "url": "https://github.com/thinkwee/HiMe"
-  },
-  {
     "description": "Lean, extended fork of Nous Research's Hermes Agent \u2014 free model suite, connectors, and ~20 perf fixes. Upstream credite",
     "id": "Chensihakniroth/anakot-agent-v1",
     "language": "Python",
@@ -34,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-10-04T11:09:27Z",
     "url": "https://github.com/Chensihakniroth/anakot-agent-v1"
-  },
-  {
-    "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 278,
-    "updated_at": "2026-10-04T10:59:57Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
@@ -72,15 +117,6 @@
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
-    "description": "\u91cf\u7eb2\u611f\u77e5\u7684\u7269\u7406\u5b9a\u5f8b\u81ea\u52a8\u53d1\u73b0\u667a\u80fd\u4f53\uff1a\u91cf\u7eb2\u526a\u679d + OMP \u7a00\u758f\u56de\u5f52 + \u5916\u63a8\u4e0e\u7b26\u53f7\u53cc\u91cd\u9a8c\u8bc1\uff0c\u7ed3\u679c\u53ef\u590d\u73b0\u3001\u53ef\u5ba1\u8ba1\uff1b\u7ecf MCP \u63a5\u5165 Agnes Harness (AGH)\u3002\u6c5f\u82cf\u7701 AI+ \u9ed1\u5ba2\u677e\u53c2\u8d5b\u4f5c\u54c1\u3002",
-    "id": "Arcticfox-star/SciFormula",
-    "language": "HTML",
-    "name": "Arcticfox-star/SciFormula",
-    "stars": 0,
-    "updated_at": "2026-10-04T10:34:28Z",
-    "url": "https://github.com/Arcticfox-star/SciFormula"
-  },
-  {
     "description": "Verifiable e-commerce analytics agent with business metric semantics, safe Text-to-SQL, deterministic calculations, Fast",
     "id": "Siao19299/ecommerce-analytics-agent",
     "language": "Python",
@@ -88,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-04T10:21:07Z",
     "url": "https://github.com/Siao19299/ecommerce-analytics-agent"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-10-04T10:17:30Z",
-    "url": "https://github.com/SashaEee/auditLens"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -131,17 +158,8 @@
     "language": "Go",
     "name": "grauwolf32/contractor",
     "stars": 2,
-    "updated_at": "2026-10-04T11:04:45Z",
+    "updated_at": "2026-10-04T11:26:18Z",
     "url": "https://github.com/grauwolf32/contractor"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 1,
-    "updated_at": "2026-10-04T10:11:36Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
@@ -196,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-10-04T09:56:03Z",
     "url": "https://github.com/kangwoo/aimon-core"
-  },
-  {
-    "description": "sid-code \u4e0e claude-trace \u5171\u540c\u9762\u5bf9\u7684\u4f01\u4e1a\u7ea7\u540e\u7aef\uff1a\u63a7\u5236\u9762\uff08policy / flag / \u8eab\u4efd\uff09\u4e0e\u6570\u636e\u9762\uff08\u8f68\u8ff9 / \u4e8b\u4ef6\uff09\u540c\u4ed3\u3001\u9274\u6743\u9694\u79bb\u3002\u5df2\u4ea4\u4ed8\u8f68\u8ff9\u5b58\u50a8\u4e0e\u5206\u6790\uff0c\u5176\u4f59\u6a21\u5757\u6309\u91cc\u7a0b\u7891\u8fed\u4ee3",
-    "id": "njfuzrs/agent-backend",
-    "language": "Python",
-    "name": "njfuzrs/agent-backend",
-    "stars": 0,
-    "updated_at": "2026-10-04T11:13:55Z",
-    "url": "https://github.com/njfuzrs/agent-backend"
   },
   {
     "description": "\ud83e\udd16 Agente conversacional en Python con Gemini 2.5 Flash \u2014 9 tools, whitelist de seguridad, memoria y bucle de razonamient",
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-04T08:57:03Z",
     "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-10-04T08:53:38Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
   }
 ]
