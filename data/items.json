@@ -1,21 +1,12 @@
 [
   {
-    "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 278,
-    "updated_at": "2026-10-04T11:29:40Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 1,
-    "updated_at": "2026-10-04T11:27:06Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
+    "description": "Application Security orchestration platform",
+    "id": "grauwolf32/contractor",
+    "language": "Go",
+    "name": "grauwolf32/contractor",
+    "stars": 2,
+    "updated_at": "2026-10-04T11:43:15Z",
+    "url": "https://github.com/grauwolf32/contractor"
   },
   {
     "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
@@ -23,8 +14,26 @@
     "language": "Python",
     "name": "brutal-45/Nexus-LLM",
     "stars": 0,
-    "updated_at": "2026-10-04T11:26:43Z",
+    "updated_at": "2026-10-04T11:41:46Z",
     "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-04T11:41:44Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Pyt",
+    "id": "feder-cr/invisible_playwright_mcp",
+    "language": "Python",
+    "name": "feder-cr/invisible_playwright_mcp",
+    "stars": 31769,
+    "updated_at": "2026-10-04T11:42:01Z",
+    "url": "https://github.com/feder-cr/invisible_playwright_mcp"
   },
   {
     "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "SashaEee/auditLens",
     "stars": 2,
-    "updated_at": "2026-10-04T11:24:58Z",
+    "updated_at": "2026-10-04T11:37:31Z",
     "url": "https://github.com/SashaEee/auditLens"
   },
   {
@@ -41,8 +50,26 @@
     "language": "HTML",
     "name": "Arcticfox-star/SciFormula",
     "stars": 0,
-    "updated_at": "2026-10-04T11:24:29Z",
+    "updated_at": "2026-10-04T11:35:18Z",
     "url": "https://github.com/Arcticfox-star/SciFormula"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 1,
+    "updated_at": "2026-10-04T11:34:32Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 278,
+    "updated_at": "2026-10-04T11:29:40Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
     "description": "SRE Agent - CNCF Sandbox Project",
@@ -108,15 +135,6 @@
     "url": "https://github.com/ZHUPO233/UE-Planar-SceneBuilder-MCP"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-04T10:40:37Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "Verifiable e-commerce analytics agent with business metric semantics, safe Text-to-SQL, deterministic calculations, Fast",
     "id": "Siao19299/ecommerce-analytics-agent",
     "language": "Python",
@@ -151,15 +169,6 @@
     "stars": 8,
     "updated_at": "2026-10-04T10:14:18Z",
     "url": "https://github.com/CacinieP/video2knowledge"
-  },
-  {
-    "description": "Application Security orchestration platform",
-    "id": "grauwolf32/contractor",
-    "language": "Go",
-    "name": "grauwolf32/contractor",
-    "stars": 2,
-    "updated_at": "2026-10-04T11:26:18Z",
-    "url": "https://github.com/grauwolf32/contractor"
   },
   {
     "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
@@ -439,14 +448,5 @@
     "stars": 1232,
     "updated_at": "2026-10-04T08:57:58Z",
     "url": "https://github.com/jundizhou/easy-stock"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 4,
-    "updated_at": "2026-10-04T08:57:03Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
   }
 ]
