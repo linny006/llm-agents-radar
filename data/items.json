@@ -1,5 +1,41 @@
 [
   {
+    "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
+    "id": "chunleik/self-analyst",
+    "language": "Java",
+    "name": "chunleik/self-analyst",
+    "stars": 0,
+    "updated_at": "2026-10-04T05:29:36Z",
+    "url": "https://github.com/chunleik/self-analyst"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 3,
+    "updated_at": "2026-10-04T05:24:29Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "J.A.R.V.I.S.-style desktop assistant for Windows: voice + LLM agent with 46 tools, offline wake phrase, live wallpaper m",
+    "id": "AleixAj/nexus",
+    "language": "TypeScript",
+    "name": "AleixAj/nexus",
+    "stars": 0,
+    "updated_at": "2026-10-04T05:23:26Z",
+    "url": "https://github.com/AleixAj/nexus"
+  },
+  {
+    "description": "\ud83d\udd2c An AI agent that answers questions about your lab's sensor data in plain English \u2014 LLM tool-calling grounded in a real",
+    "id": "gshivaprasad0009-gana/ask-my-lab",
+    "language": "Python",
+    "name": "gshivaprasad0009-gana/ask-my-lab",
+    "stars": 0,
+    "updated_at": "2026-10-04T05:15:17Z",
+    "url": "https://github.com/gshivaprasad0009-gana/ask-my-lab"
+  },
+  {
     "description": "Local AI router. One OpenAI-compatible endpoint for every provider you already have, and one key for opencode, claude co",
     "id": "foisalislambd/airoute",
     "language": "Go",
@@ -7,15 +43,6 @@
     "stars": 4,
     "updated_at": "2026-10-04T05:13:53Z",
     "url": "https://github.com/foisalislambd/airoute"
-  },
-  {
-    "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
-    "id": "chunleik/self-analyst",
-    "language": "Java",
-    "name": "chunleik/self-analyst",
-    "stars": 0,
-    "updated_at": "2026-10-04T05:10:42Z",
-    "url": "https://github.com/chunleik/self-analyst"
   },
   {
     "description": "A\u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\uff1a\u80a1\u7968\u5206\u6790\u3001\u91cf\u5316\u4ea4\u6613\u5206\u6790\u3001\u76d8\u540e\u590d\u76d8\u684c\u9762\u5de5\u4f5c\u53f0\u2014\u2014easy stock",
@@ -77,17 +104,8 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-10-04T05:02:22Z",
+    "updated_at": "2026-10-04T05:16:16Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "J.A.R.V.I.S.-style desktop assistant for Windows: voice + LLM agent with 46 tools, offline wake phrase, live wallpaper m",
-    "id": "AleixAj/nexus",
-    "language": "TypeScript",
-    "name": "AleixAj/nexus",
-    "stars": 0,
-    "updated_at": "2026-10-04T04:40:21Z",
-    "url": "https://github.com/AleixAj/nexus"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -430,23 +448,5 @@
     "stars": 78,
     "updated_at": "2026-10-04T02:45:17Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "\ud83e\udd16 \u65b0\u4e00\u4ee3\u5f00\u6e90 Chrome \u4fa7\u8fb9\u680f\u81ea\u4e3b AI \u6d4f\u89c8\u5668\u667a\u80fd\u4f53\uff1a\u76ee\u6807\u9a71\u52a8\u3001\u957f\u7a0b\u89c4\u5212\u3001\u89c6\u89c9\u7a7a\u95f4\u611f\u77e5\u3001\u5feb\u6162\u53cc\u6838\u8ba4\u77e5\u4e0e\u7269\u7406\u7ea7\u64cd\u63a7\uff0c\u652f\u6301 DeepSeek \u601d\u8003\u6a21\u578b\u4e0e\u672c\u5730\u79bb\u7ebf LLM (BYOK)",
-    "id": "lusipad/browser-agent",
-    "language": "TypeScript",
-    "name": "lusipad/browser-agent",
-    "stars": 2,
-    "updated_at": "2026-10-04T02:39:05Z",
-    "url": "https://github.com/lusipad/browser-agent"
-  },
-  {
-    "description": "Ask your data questions in plain English. A LangGraph agent writes the SQL, runs pandas, draws the charts and checks its",
-    "id": "asadaslam556/prism-data-agent",
-    "language": "Python",
-    "name": "asadaslam556/prism-data-agent",
-    "stars": 0,
-    "updated_at": "2026-10-04T02:37:23Z",
-    "url": "https://github.com/asadaslam556/prism-data-agent"
   }
 ]
