@@ -1,12 +1,12 @@
 [
   {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 1,
-    "updated_at": "2026-10-04T04:59:02Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
+    "description": "Local AI router. One OpenAI-compatible endpoint for every provider you already have, and one key for opencode, claude co",
+    "id": "foisalislambd/airoute",
+    "language": "Go",
+    "name": "foisalislambd/airoute",
+    "stars": 4,
+    "updated_at": "2026-10-04T05:13:53Z",
+    "url": "https://github.com/foisalislambd/airoute"
   },
   {
     "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
@@ -14,8 +14,26 @@
     "language": "Java",
     "name": "chunleik/self-analyst",
     "stars": 0,
-    "updated_at": "2026-10-04T04:59:14Z",
+    "updated_at": "2026-10-04T05:10:42Z",
     "url": "https://github.com/chunleik/self-analyst"
+  },
+  {
+    "description": "A\u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\uff1a\u80a1\u7968\u5206\u6790\u3001\u91cf\u5316\u4ea4\u6613\u5206\u6790\u3001\u76d8\u540e\u590d\u76d8\u684c\u9762\u5de5\u4f5c\u53f0\u2014\u2014easy stock",
+    "id": "jundizhou/easy-stock",
+    "language": "Go",
+    "name": "jundizhou/easy-stock",
+    "stars": 1207,
+    "updated_at": "2026-10-04T05:04:35Z",
+    "url": "https://github.com/jundizhou/easy-stock"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 1,
+    "updated_at": "2026-10-04T04:59:02Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
@@ -59,7 +77,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-10-04T04:56:04Z",
+    "updated_at": "2026-10-04T05:02:22Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -104,7 +122,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-04T04:59:14Z",
+    "updated_at": "2026-10-04T05:10:53Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -360,15 +378,6 @@
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
   },
   {
-    "description": "A\u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\uff1a\u80a1\u7968\u5206\u6790\u3001\u91cf\u5316\u4ea4\u6613\u5206\u6790\u3001\u76d8\u540e\u590d\u76d8\u684c\u9762\u5de5\u4f5c\u53f0\u2014\u2014easy stock",
-    "id": "jundizhou/easy-stock",
-    "language": "Go",
-    "name": "jundizhou/easy-stock",
-    "stars": 1207,
-    "updated_at": "2026-10-04T03:30:53Z",
-    "url": "https://github.com/jundizhou/easy-stock"
-  },
-  {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
     "id": "plurnk/plurnk-service",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-04T02:37:23Z",
     "url": "https://github.com/asadaslam556/prism-data-agent"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-10-04T02:30:40Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   }
 ]
