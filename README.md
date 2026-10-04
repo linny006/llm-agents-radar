@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-04 00:15 UTC
+> ⏰ Last updated: 2026-10-04 00:16 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -48,7 +48,7 @@ expired items removed — so you can rely on what you see being current.
 | 4 | [ljchang/mecha](https://github.com/ljchang/mecha) | 7 | Rust | 2026-10-04 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
 | 5 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 1 | TypeScript | 2026-10-04 | Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers. |
 | 6 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 21 | Python | 2026-10-04 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、HMI和Android双端；LLM 只负责理解与规划，VAL 负责确定性安全执行 |
-| 7 | [grauwolf32/contractor](https://github.com/grauwolf32/contractor) | 2 | Go | 2026-10-03 | Application Security orchestration platform |
+| 7 | [grauwolf32/contractor](https://github.com/grauwolf32/contractor) | 2 | Go | 2026-10-04 | Application Security orchestration platform |
 | 8 | [eshanized/M31A](https://github.com/eshanized/M31A) | 8 | Rust | 2026-10-03 | M31 Autonomous — Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe |
 | 9 | [anchor-inference/daedalus](https://github.com/anchor-inference/daedalus) | 1 | Python | 2026-10-03 | A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your |
 | 10 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-10-04 | AI-powered image generation and chat studio |
