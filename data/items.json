@@ -1,12 +1,12 @@
 [
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
+    "description": "Minimal research agent framework with falsification-driven rollback discipline; 253 tests.",
+    "id": "aidless/just-agent",
     "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
+    "name": "aidless/just-agent",
     "stars": 0,
-    "updated_at": "2026-10-04T13:43:47Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+    "updated_at": "2026-10-04T13:58:57Z",
+    "url": "https://github.com/aidless/just-agent"
   },
   {
     "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
@@ -14,7 +14,7 @@
     "language": "Kotlin",
     "name": "Soodok/Deepseek-Harness-Local-Android",
     "stars": 64,
-    "updated_at": "2026-10-04T13:37:15Z",
+    "updated_at": "2026-10-04T13:57:51Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
   {
@@ -23,8 +23,89 @@
     "language": "Python",
     "name": "SuperdeMan/cockpit-agent",
     "stars": 21,
-    "updated_at": "2026-10-04T13:32:55Z",
+    "updated_at": "2026-10-04T13:57:28Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-10-04T13:56:53Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "An AI Agent for everyday SWE with minimalist style",
+    "id": "thehope2k/minimalist-agent",
+    "language": "TypeScript",
+    "name": "thehope2k/minimalist-agent",
+    "stars": 1,
+    "updated_at": "2026-10-04T13:55:48Z",
+    "url": "https://github.com/thehope2k/minimalist-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-10-04T13:55:11Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "Two MIT patches for Nous Research Hermes: stop busy-queue messages merging into one jumbled turn, and optionally run sel",
+    "id": "EauDoon/hermes-parallel-followups",
+    "language": "Python",
+    "name": "EauDoon/hermes-parallel-followups",
+    "stars": 0,
+    "updated_at": "2026-10-04T13:53:16Z",
+    "url": "https://github.com/EauDoon/hermes-parallel-followups"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-10-04T13:51:54Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-10-04T13:47:40Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-10-04T13:47:12Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 753,
+    "updated_at": "2026-10-04T13:45:43Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-04T13:43:47Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "DSV4 behavior-discrimination benchmark: 81 lightweight zero-dependency pytest grading tests (d10/d11/d12/t2/t3/t4/v4) fo",
@@ -61,15 +142,6 @@
     "stars": 3,
     "updated_at": "2026-10-04T13:22:38Z",
     "url": "https://github.com/ximing/vital"
-  },
-  {
-    "description": "Minimal research agent framework with falsification-driven rollback discipline; 253 tests.",
-    "id": "aidless/just-agent",
-    "language": "Python",
-    "name": "aidless/just-agent",
-    "stars": 0,
-    "updated_at": "2026-10-04T13:15:49Z",
-    "url": "https://github.com/aidless/just-agent"
   },
   {
     "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
@@ -122,7 +194,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-10-04T13:25:59Z",
+    "updated_at": "2026-10-04T13:49:23Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -149,7 +221,7 @@
     "language": "Rust",
     "name": "eshanized/M31A",
     "stars": 8,
-    "updated_at": "2026-10-04T12:58:51Z",
+    "updated_at": "2026-10-04T13:50:54Z",
     "url": "https://github.com/eshanized/M31A"
   },
   {
@@ -247,7 +319,7 @@
     "id": "brittewestafrican981/ComfyUI-YinChao",
     "language": "Python",
     "name": "brittewestafrican981/ComfyUI-YinChao",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-10-04T12:37:14Z",
     "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
   },
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-04T12:21:56Z",
     "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-10-04T12:19:06Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-10-04T12:18:54Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 4,
-    "updated_at": "2026-10-04T12:17:08Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-10-04T12:13:37Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "Magpie (\u9e4a) \u2014 the bridge between IM platforms and Bamboo. Drives agent sessions from Telegram/Feishu over Bamboo's public",
-    "id": "bigduu/Magpie",
-    "language": "Rust",
-    "name": "bigduu/Magpie",
-    "stars": 1,
-    "updated_at": "2026-10-04T12:41:19Z",
-    "url": "https://github.com/bigduu/Magpie"
-  },
-  {
-    "description": "Cross-platform Rust computer-use MCP server for macOS and Windows: AX/UIA, screenshots, OCR, pointer and keyboard input,",
-    "id": "bigduu/Nova",
-    "language": "Rust",
-    "name": "bigduu/Nova",
-    "stars": 22,
-    "updated_at": "2026-10-04T12:41:17Z",
-    "url": "https://github.com/bigduu/Nova"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-04T12:09:32Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
-    "id": "Danisxxx/comfyUI-LongLook",
-    "language": "Python",
-    "name": "Danisxxx/comfyUI-LongLook",
-    "stars": 2,
-    "updated_at": "2026-10-04T12:09:07Z",
-    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
   }
 ]
