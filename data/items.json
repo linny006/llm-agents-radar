@@ -1,5 +1,68 @@
 [
   {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 1,
+    "updated_at": "2026-10-04T19:50:43Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-04T19:49:53Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Ask your data questions in plain English. A LangGraph agent writes the SQL, runs pandas, draws the charts and checks its",
+    "id": "asadaslam556/prism-data-agent",
+    "language": "Python",
+    "name": "asadaslam556/prism-data-agent",
+    "stars": 0,
+    "updated_at": "2026-10-04T19:51:08Z",
+    "url": "https://github.com/asadaslam556/prism-data-agent"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-10-04T19:49:31Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-10-04T19:48:57Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 568,
+    "updated_at": "2026-10-04T19:46:05Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "Telegram bot that runs a spiking simulation of the whole fruit-fly brain (FlyWire connectome, 138k neurons) and shows wh",
+    "id": "kh-serhii-ai/fly-brain-bot",
+    "language": "Python",
+    "name": "kh-serhii-ai/fly-brain-bot",
+    "stars": 0,
+    "updated_at": "2026-10-04T19:45:16Z",
+    "url": "https://github.com/kh-serhii-ai/fly-brain-bot"
+  },
+  {
     "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -36,24 +99,6 @@
     "url": "https://github.com/fernandotellado/ai-skills"
   },
   {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 1,
-    "updated_at": "2026-10-04T19:38:39Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
-    "description": "Telegram bot that runs a spiking simulation of the whole fruit-fly brain (FlyWire connectome, 138k neurons) and shows wh",
-    "id": "kh-serhii-ai/fly-brain-bot",
-    "language": "Python",
-    "name": "kh-serhii-ai/fly-brain-bot",
-    "stars": 0,
-    "updated_at": "2026-10-04T19:45:16Z",
-    "url": "https://github.com/kh-serhii-ai/fly-brain-bot"
-  },
-  {
     "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
     "id": "ljedrz/nachalnik",
     "language": "Rust",
@@ -79,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-04T19:35:34Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 568,
-    "updated_at": "2026-10-04T19:30:52Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -176,7 +212,7 @@
     "language": "Python",
     "name": "ariannamethod/SUBLITERATUS",
     "stars": 3,
-    "updated_at": "2026-10-04T18:57:10Z",
+    "updated_at": "2026-10-04T19:47:53Z",
     "url": "https://github.com/ariannamethod/SUBLITERATUS"
   },
   {
@@ -205,15 +241,6 @@
     "stars": 7,
     "updated_at": "2026-10-04T18:51:06Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-04T18:48:46Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi",
@@ -421,32 +448,5 @@
     "stars": 6,
     "updated_at": "2026-10-04T18:10:18Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "One-Stop Personal Health AI Agent \"Say Hi to Healthy Me\"",
-    "id": "thinkwee/HiMe",
-    "language": "Python",
-    "name": "thinkwee/HiMe",
-    "stars": 69,
-    "updated_at": "2026-10-04T18:10:18Z",
-    "url": "https://github.com/thinkwee/HiMe"
-  },
-  {
-    "description": "Tauri desktop shell for the local-first Bodhi agent: manages Bamboo startup/reuse and health; packaged builds open the B",
-    "id": "bigduu/Bodhi-AI",
-    "language": "JavaScript",
-    "name": "bigduu/Bodhi-AI",
-    "stars": 17,
-    "updated_at": "2026-10-04T18:10:14Z",
-    "url": "https://github.com/bigduu/Bodhi-AI"
-  },
-  {
-    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
-    "id": "axxafo/awesome-agent-benchmarks",
-    "language": "\u2014",
-    "name": "axxafo/awesome-agent-benchmarks",
-    "stars": 4,
-    "updated_at": "2026-10-04T18:10:07Z",
-    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
   }
 ]
