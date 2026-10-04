@@ -1,5 +1,23 @@
 [
   {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 130,
+    "updated_at": "2026-10-04T22:44:22Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8656,
+    "updated_at": "2026-10-04T22:40:33Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
     "id": "kashyaprajharsh/medha-agent",
     "language": "Rust",
@@ -25,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-10-04T22:23:51Z",
     "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8656,
-    "updated_at": "2026-10-04T22:21:28Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-04T20:01:19Z",
     "url": "https://github.com/justacalico/devinorium"
-  },
-  {
-    "description": "AI SKILL.md files",
-    "id": "fernandotellado/ai-skills",
-    "language": "PHP",
-    "name": "fernandotellado/ai-skills",
-    "stars": 41,
-    "updated_at": "2026-10-04T19:41:31Z",
-    "url": "https://github.com/fernandotellado/ai-skills"
   }
 ]
