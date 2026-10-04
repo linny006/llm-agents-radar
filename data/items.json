@@ -1,12 +1,93 @@
 [
   {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 11,
+    "updated_at": "2026-10-04T19:45:03Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-04T19:44:26Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Control AI agents anywhere. (github mirror)",
+    "id": "justacalico/devinorium",
+    "language": "Dart",
+    "name": "justacalico/devinorium",
+    "stars": 0,
+    "updated_at": "2026-10-04T19:42:39Z",
+    "url": "https://github.com/justacalico/devinorium"
+  },
+  {
+    "description": "AI SKILL.md files",
+    "id": "fernandotellado/ai-skills",
+    "language": "PHP",
+    "name": "fernandotellado/ai-skills",
+    "stars": 41,
+    "updated_at": "2026-10-04T19:41:31Z",
+    "url": "https://github.com/fernandotellado/ai-skills"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 1,
+    "updated_at": "2026-10-04T19:38:39Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Telegram bot that runs a spiking simulation of the whole fruit-fly brain (FlyWire connectome, 138k neurons) and shows wh",
+    "id": "kh-serhii-ai/fly-brain-bot",
+    "language": "Python",
+    "name": "kh-serhii-ai/fly-brain-bot",
+    "stars": 0,
+    "updated_at": "2026-10-04T19:45:16Z",
+    "url": "https://github.com/kh-serhii-ai/fly-brain-bot"
+  },
+  {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 5,
+    "updated_at": "2026-10-04T19:35:15Z",
+    "url": "https://github.com/ljedrz/nachalnik"
+  },
+  {
+    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
+    "id": "eshanized/M31A",
+    "language": "Rust",
+    "name": "eshanized/M31A",
+    "stars": 8,
+    "updated_at": "2026-10-04T19:34:08Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
     "id": "dkblinux98/nyxGPT",
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-10-04T19:30:10Z",
+    "updated_at": "2026-10-04T19:35:34Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 568,
+    "updated_at": "2026-10-04T19:30:52Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -54,33 +135,6 @@
     "url": "https://github.com/agent-axiom/agent-arch"
   },
   {
-    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
-    "id": "ljedrz/nachalnik",
-    "language": "Rust",
-    "name": "ljedrz/nachalnik",
-    "stars": 5,
-    "updated_at": "2026-10-04T19:21:17Z",
-    "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
-    "description": "Control AI agents anywhere. (github mirror)",
-    "id": "justacalico/devinorium",
-    "language": "Dart",
-    "name": "justacalico/devinorium",
-    "stars": 0,
-    "updated_at": "2026-10-04T19:19:35Z",
-    "url": "https://github.com/justacalico/devinorium"
-  },
-  {
-    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 568,
-    "updated_at": "2026-10-04T19:11:11Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
-  },
-  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -97,15 +151,6 @@
     "stars": 14,
     "updated_at": "2026-10-04T19:19:39Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-04T19:01:26Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "MLOps platform: LangGraph agent (OpenRouter/GLM-4.6), Neo4j knowledge graph, FastAPI inference, Airflow pipelines, Datad",
@@ -315,15 +360,6 @@
     "url": "https://github.com/Bowotria/aethercore"
   },
   {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 1,
-    "updated_at": "2026-10-04T18:21:11Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
     "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
     "id": "Soodok/Deepseek-Harness-Local-Android",
     "language": "Kotlin",
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-04T18:10:07Z",
     "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "The living React + Vite interface for Bamboo agents: streams reasoning, tool calls, and task progress over WebSocket, wi",
-    "id": "bigduu/Lotus",
-    "language": "TypeScript",
-    "name": "bigduu/Lotus",
-    "stars": 3,
-    "updated_at": "2026-10-04T18:10:01Z",
-    "url": "https://github.com/bigduu/Lotus"
-  },
-  {
-    "description": "Magpie (\u9e4a) \u2014 the bridge between IM platforms and Bamboo. Drives agent sessions from Telegram/Feishu over Bamboo's public",
-    "id": "bigduu/Magpie",
-    "language": "Rust",
-    "name": "bigduu/Magpie",
-    "stars": 1,
-    "updated_at": "2026-10-04T18:09:54Z",
-    "url": "https://github.com/bigduu/Magpie"
-  },
-  {
-    "description": "Cross-platform Rust computer-use MCP server for macOS and Windows: AX/UIA, screenshots, OCR, pointer and keyboard input,",
-    "id": "bigduu/Nova",
-    "language": "Rust",
-    "name": "bigduu/Nova",
-    "stars": 22,
-    "updated_at": "2026-10-04T18:09:46Z",
-    "url": "https://github.com/bigduu/Nova"
-  },
-  {
-    "description": "Zero-dependency LLM agent runtime \u2014 tool use, MCP, sandboxed self-written tools, checkpoint/resume, approval gates, bi-t",
-    "id": "laazizi/autoagent",
-    "language": "Python",
-    "name": "laazizi/autoagent",
-    "stars": 2,
-    "updated_at": "2026-10-04T18:08:51Z",
-    "url": "https://github.com/laazizi/autoagent"
   }
 ]
