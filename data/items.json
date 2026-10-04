@@ -1,12 +1,48 @@
 [
   {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 1,
+    "updated_at": "2026-10-04T04:59:02Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
     "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
     "id": "chunleik/self-analyst",
     "language": "Java",
     "name": "chunleik/self-analyst",
     "stars": 0,
-    "updated_at": "2026-10-04T04:44:44Z",
+    "updated_at": "2026-10-04T04:59:14Z",
     "url": "https://github.com/chunleik/self-analyst"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 1,
+    "updated_at": "2026-10-04T04:55:15Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 6104,
+    "updated_at": "2026-10-04T04:52:55Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 49,
+    "updated_at": "2026-10-04T04:50:08Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
     "description": "Application Security orchestration platform",
@@ -23,7 +59,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-10-04T04:42:48Z",
+    "updated_at": "2026-10-04T04:56:04Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -68,7 +104,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-04T04:42:21Z",
+    "updated_at": "2026-10-04T04:59:14Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -85,7 +121,7 @@
     "id": "Jadema5416/ComfyUI-DLSS5-Enhancer",
     "language": "Python",
     "name": "Jadema5416/ComfyUI-DLSS5-Enhancer",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-10-04T04:25:04Z",
     "url": "https://github.com/Jadema5416/ComfyUI-DLSS5-Enhancer"
   },
@@ -160,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-04T04:20:46Z",
     "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
-  },
-  {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 1,
-    "updated_at": "2026-10-04T04:32:56Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
@@ -315,15 +342,6 @@
     "url": "https://github.com/hasting323/AutoGLM-For-Android"
   },
   {
-    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 49,
-    "updated_at": "2026-10-04T04:07:00Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
     "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
     "id": "shiro1707778/episodic-memory-pipeline",
     "language": "Python",
@@ -342,20 +360,11 @@
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
   },
   {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 1,
-    "updated_at": "2026-10-04T03:48:40Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
     "description": "A\u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\uff1a\u80a1\u7968\u5206\u6790\u3001\u91cf\u5316\u4ea4\u6613\u5206\u6790\u3001\u76d8\u540e\u590d\u76d8\u684c\u9762\u5de5\u4f5c\u53f0\u2014\u2014easy stock",
     "id": "jundizhou/easy-stock",
     "language": "Go",
     "name": "jundizhou/easy-stock",
-    "stars": 1204,
+    "stars": 1207,
     "updated_at": "2026-10-04T03:30:53Z",
     "url": "https://github.com/jundizhou/easy-stock"
   },
@@ -374,7 +383,7 @@
     "language": "Rust",
     "name": "bigduu/Nova",
     "stars": 22,
-    "updated_at": "2026-10-04T03:20:06Z",
+    "updated_at": "2026-10-04T04:47:04Z",
     "url": "https://github.com/bigduu/Nova"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-04T02:30:40Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 11,
-    "updated_at": "2026-10-04T02:30:07Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   }
 ]
