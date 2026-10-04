@@ -1,11 +1,38 @@
 [
   {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-10-04T17:00:05Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Gestor ag\u00e9ntico de modelos llm",
+    "id": "bondwell79/hercules",
+    "language": "Python",
+    "name": "bondwell79/hercules",
+    "stars": 0,
+    "updated_at": "2026-10-04T16:57:45Z",
+    "url": "https://github.com/bondwell79/hercules"
+  },
+  {
+    "description": "Free MIT AI coding agent \u2014 no API key needed. Built-in free model, or bring Claude, GPT, Gemini, DeepSeek, Ollama +50 mo",
+    "id": "dragonked2/alphacode",
+    "language": "Rust",
+    "name": "dragonked2/alphacode",
+    "stars": 185,
+    "updated_at": "2026-10-04T16:58:17Z",
+    "url": "https://github.com/dragonked2/alphacode"
+  },
+  {
     "description": "One-Stop Personal Health AI Agent \"Say Hi to Healthy Me\"",
     "id": "thinkwee/HiMe",
     "language": "Python",
     "name": "thinkwee/HiMe",
     "stars": 69,
-    "updated_at": "2026-10-04T16:54:56Z",
+    "updated_at": "2026-10-04T16:56:47Z",
     "url": "https://github.com/thinkwee/HiMe"
   },
   {
@@ -16,6 +43,15 @@
     "stars": 5,
     "updated_at": "2026-10-04T16:54:44Z",
     "url": "https://github.com/NatanTechofNY/fieldnote-assistant"
+  },
+  {
+    "description": "MARY III Skill Market",
+    "id": "yunqingtao/tigermm-skills",
+    "language": "Python",
+    "name": "yunqingtao/tigermm-skills",
+    "stars": 1,
+    "updated_at": "2026-10-04T16:52:18Z",
+    "url": "https://github.com/yunqingtao/tigermm-skills"
   },
   {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
@@ -52,15 +88,6 @@
     "stars": 217,
     "updated_at": "2026-10-04T16:49:37Z",
     "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
-    "description": "Gestor ag\u00e9ntico de modelos llm",
-    "id": "bondwell79/hercules",
-    "language": "Python",
-    "name": "bondwell79/hercules",
-    "stars": 0,
-    "updated_at": "2026-10-04T16:46:02Z",
-    "url": "https://github.com/bondwell79/hercules"
   },
   {
     "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
@@ -239,7 +266,7 @@
     "language": "Rust",
     "name": "yologdev/yoagent",
     "stars": 284,
-    "updated_at": "2026-10-04T15:32:51Z",
+    "updated_at": "2026-10-04T16:57:19Z",
     "url": "https://github.com/yologdev/yoagent"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-04T14:33:53Z",
     "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
-  },
-  {
-    "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
-    "id": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
-    "language": "Python",
-    "name": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
-    "stars": 5,
-    "updated_at": "2026-10-04T14:32:42Z",
-    "url": "https://github.com/mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo"
-  },
-  {
-    "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
-    "id": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
-    "language": "Python",
-    "name": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
-    "stars": 3,
-    "updated_at": "2026-10-04T14:31:41Z",
-    "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
-  },
-  {
-    "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
-    "id": "EpsteinF1les/tts",
-    "language": "\u2014",
-    "name": "EpsteinF1les/tts",
-    "stars": 0,
-    "updated_at": "2026-10-04T14:29:41Z",
-    "url": "https://github.com/EpsteinF1les/tts"
   }
 ]
