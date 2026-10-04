@@ -1,5 +1,23 @@
 [
   {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-04T01:06:18Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Futo Notes Organizer - LLM-powered auto-tagger, organizer and rewriter for a folder of Markdown notes (Python, stdlib on",
+    "id": "farhanshahlabs/futo-notes-organizer",
+    "language": "Python",
+    "name": "farhanshahlabs/futo-notes-organizer",
+    "stars": 0,
+    "updated_at": "2026-10-04T01:03:56Z",
+    "url": "https://github.com/farhanshahlabs/futo-notes-organizer"
+  },
+  {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
     "id": "genaforvena/mishe-tauftauf",
     "language": "Python",
@@ -41,17 +59,8 @@
     "language": "Go",
     "name": "grauwolf32/contractor",
     "stars": 2,
-    "updated_at": "2026-10-04T00:52:17Z",
+    "updated_at": "2026-10-04T01:11:13Z",
     "url": "https://github.com/grauwolf32/contractor"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-04T00:42:35Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -68,7 +77,7 @@
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 277,
-    "updated_at": "2026-10-04T00:35:33Z",
+    "updated_at": "2026-10-04T01:07:57Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
@@ -167,7 +176,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-04T00:56:27Z",
+    "updated_at": "2026-10-04T01:11:01Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-03T22:21:43Z",
     "url": "https://github.com/chadwickhyperboloidal943/knowl"
-  },
-  {
-    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
-    "id": "Laurenfeminine36/google-jules-skill",
-    "language": "Python",
-    "name": "Laurenfeminine36/google-jules-skill",
-    "stars": 1,
-    "updated_at": "2026-10-03T22:21:29Z",
-    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
   }
 ]
