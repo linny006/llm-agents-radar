@@ -1,12 +1,84 @@
 [
   {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 1,
+    "updated_at": "2026-10-04T17:27:51Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 568,
+    "updated_at": "2026-10-04T17:25:43Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
     "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 11,
-    "updated_at": "2026-10-04T17:14:38Z",
+    "updated_at": "2026-10-04T17:24:13Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Shared AI agents for teams: one agent per channel, with memory, connected apps and approvals. Open source and self-hosta",
+    "id": "janakrathi/Teamski",
+    "language": "TypeScript",
+    "name": "janakrathi/Teamski",
+    "stars": 4,
+    "updated_at": "2026-10-04T17:24:01Z",
+    "url": "https://github.com/janakrathi/Teamski"
+  },
+  {
+    "description": " An opinionated list of awesome Pydantic-AI frameworks, libraries, software and resources. ",
+    "id": "vstorm-co/awesome-pydantic-ai",
+    "language": "\u2014",
+    "name": "vstorm-co/awesome-pydantic-ai",
+    "stars": 106,
+    "updated_at": "2026-10-04T17:23:55Z",
+    "url": "https://github.com/vstorm-co/awesome-pydantic-ai"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 3,
+    "updated_at": "2026-10-04T17:23:53Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 64,
+    "updated_at": "2026-10-04T17:20:04Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "AI-Assisted Development Workflow \u2014 Claude Code Plugin",
+    "id": "cunhaax/ai-workflow",
+    "language": "Python",
+    "name": "cunhaax/ai-workflow",
+    "stars": 5,
+    "updated_at": "2026-10-04T17:17:53Z",
+    "url": "https://github.com/cunhaax/ai-workflow"
+  },
+  {
+    "description": "\u628a\u5b98\u65b9\u6781\u7b80\u63d0\u793a\u8bcd\u4e0e PTC \u7f16\u6392\u7ec4\u5408\u8d77\u6765\uff0c\u63d0\u4f9b\u5b8c\u6574\u63d2\u4ef6\u5de5\u5177\u548c Windows \u7ec8\u7aef\u9002\u914d\u3002",
+    "id": "STARDUSTLC666/dsh-minimal-ptc",
+    "language": "JavaScript",
+    "name": "STARDUSTLC666/dsh-minimal-ptc",
+    "stars": 2,
+    "updated_at": "2026-10-04T17:17:23Z",
+    "url": "https://github.com/STARDUSTLC666/dsh-minimal-ptc"
   },
   {
     "description": "\u8ba9\u4efb\u4f55 AI Agent \u7528\u4e0a\u4f60\u7684\u771f\u5b9e\u6d4f\u89c8\u5668\uff08CDP\uff0c\u81ea\u5e26\u767b\u5f55\u6001\uff09\u2014\u2014 \u8de8\u5e73\u53f0 / \u8de8 Agent \u6280\u80fd\u5305\uff0c\u57fa\u4e8e web-access (MIT, \u4e00\u6cfdEze)",
@@ -16,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-10-04T17:09:42Z",
     "url": "https://github.com/yufeiyufei888/browser-bridge"
-  },
-  {
-    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 568,
-    "updated_at": "2026-10-04T17:07:00Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
   },
   {
     "description": "Free MIT AI coding agent \u2014 no API key needed. Built-in free model, or bring Claude, GPT, Gemini, DeepSeek, Ollama +50 mo",
@@ -41,7 +104,7 @@
     "language": "TypeScript",
     "name": "AskTheWay/dsh-auto-memory",
     "stars": 81,
-    "updated_at": "2026-10-04T17:06:51Z",
+    "updated_at": "2026-10-04T17:18:06Z",
     "url": "https://github.com/AskTheWay/dsh-auto-memory"
   },
   {
@@ -52,15 +115,6 @@
     "stars": 5,
     "updated_at": "2026-10-04T17:06:08Z",
     "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
-  },
-  {
-    "description": "Shared AI agents for teams: one agent per channel, with memory, connected apps and approvals. Open source and self-hosta",
-    "id": "janakrathi/Teamski",
-    "language": "TypeScript",
-    "name": "janakrathi/Teamski",
-    "stars": 4,
-    "updated_at": "2026-10-04T17:01:59Z",
-    "url": "https://github.com/janakrathi/Teamski"
   },
   {
     "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
@@ -131,7 +185,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-04T17:10:00Z",
+    "updated_at": "2026-10-04T17:19:41Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -369,15 +423,6 @@
     "url": "https://github.com/peder1981/AdvPP"
   },
   {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 1,
-    "updated_at": "2026-10-04T15:17:50Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -403,50 +448,5 @@
     "stars": 556,
     "updated_at": "2026-10-04T15:08:00Z",
     "url": "https://github.com/BlockRunAI/Franklin"
-  },
-  {
-    "description": "run https://pi.dev in a container ",
-    "id": "7h145/piinabox",
-    "language": "Shell",
-    "name": "7h145/piinabox",
-    "stars": 4,
-    "updated_at": "2026-10-04T15:07:31Z",
-    "url": "https://github.com/7h145/piinabox"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-10-04T15:05:22Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Autonomous personal agent: talks, acts, never gives up. Multi-model, multi-user, self-improving",
-    "id": "franckolv-dev/ELY2",
-    "language": "Python",
-    "name": "franckolv-dev/ELY2",
-    "stars": 1,
-    "updated_at": "2026-10-04T15:33:25Z",
-    "url": "https://github.com/franckolv-dev/ELY2"
-  },
-  {
-    "description": "\u91cf\u7eb2\u611f\u77e5\u7684\u7269\u7406\u5b9a\u5f8b\u81ea\u52a8\u53d1\u73b0\u667a\u80fd\u4f53\uff1a\u91cf\u7eb2\u526a\u679d + OMP \u7a00\u758f\u56de\u5f52 + \u5916\u63a8\u4e0e\u7b26\u53f7\u53cc\u91cd\u9a8c\u8bc1\uff0c\u7ed3\u679c\u53ef\u590d\u73b0\u3001\u53ef\u5ba1\u8ba1\uff1b\u7ecf MCP \u63a5\u5165 Agnes Harness (AGH)\u3002\u6c5f\u82cf\u7701 AI+ \u9ed1\u5ba2\u677e\u53c2\u8d5b\u4f5c\u54c1\u3002",
-    "id": "Arcticfox-star/SciFormula",
-    "language": "HTML",
-    "name": "Arcticfox-star/SciFormula",
-    "stars": 0,
-    "updated_at": "2026-10-04T15:04:31Z",
-    "url": "https://github.com/Arcticfox-star/SciFormula"
-  },
-  {
-    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
-    "id": "xieguigang/sciBASIC",
-    "language": "Visual Basic .NET",
-    "name": "xieguigang/sciBASIC",
-    "stars": 78,
-    "updated_at": "2026-10-04T14:46:26Z",
-    "url": "https://github.com/xieguigang/sciBASIC"
   }
 ]
