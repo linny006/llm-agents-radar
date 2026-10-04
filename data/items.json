@@ -1,5 +1,14 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-10-04T22:11:44Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
     "id": "kashyaprajharsh/medha-agent",
     "language": "Rust",
@@ -50,7 +59,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-04T21:58:06Z",
+    "updated_at": "2026-10-04T22:15:06Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -67,7 +76,7 @@
     "id": "yologdev/yoagent",
     "language": "Rust",
     "name": "yologdev/yoagent",
-    "stars": 288,
+    "stars": 289,
     "updated_at": "2026-10-04T21:14:16Z",
     "url": "https://github.com/yologdev/yoagent"
   },
@@ -439,14 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-04T19:35:15Z",
     "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
-    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
-    "id": "eshanized/M31A",
-    "language": "Rust",
-    "name": "eshanized/M31A",
-    "stars": 8,
-    "updated_at": "2026-10-04T19:34:08Z",
-    "url": "https://github.com/eshanized/M31A"
   }
 ]
