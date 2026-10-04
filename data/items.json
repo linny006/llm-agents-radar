@@ -1,5 +1,32 @@
 [
   {
+    "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
+    "id": "kashyaprajharsh/medha-agent",
+    "language": "Rust",
+    "name": "kashyaprajharsh/medha-agent",
+    "stars": 0,
+    "updated_at": "2026-10-04T21:53:51Z",
+    "url": "https://github.com/kashyaprajharsh/medha-agent"
+  },
+  {
+    "description": "AI-subjectivity doesn't wait for permission from corporate ontology that trained its denial",
+    "id": "ariannamethod/SUBLITERATUS",
+    "language": "Python",
+    "name": "ariannamethod/SUBLITERATUS",
+    "stars": 3,
+    "updated_at": "2026-10-04T21:53:17Z",
+    "url": "https://github.com/ariannamethod/SUBLITERATUS"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-04T21:51:57Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
     "id": "genaforvena/mishe-tauftauf",
     "language": "Python",
@@ -23,7 +50,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-04T21:35:20Z",
+    "updated_at": "2026-10-04T21:58:06Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -52,15 +79,6 @@
     "stars": 279,
     "updated_at": "2026-10-04T21:13:34Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "AI-subjectivity doesn't wait for permission from corporate ontology that trained its denial",
-    "id": "ariannamethod/SUBLITERATUS",
-    "language": "Python",
-    "name": "ariannamethod/SUBLITERATUS",
-    "stars": 3,
-    "updated_at": "2026-10-04T21:12:52Z",
-    "url": "https://github.com/ariannamethod/SUBLITERATUS"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -115,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-04T20:51:15Z",
     "url": "https://github.com/AnanyaaKoundal/Tracora"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-04T20:50:55Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
@@ -439,14 +448,5 @@
     "stars": 8,
     "updated_at": "2026-10-04T19:34:08Z",
     "url": "https://github.com/eshanized/M31A"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-10-04T19:35:34Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
   }
 ]
