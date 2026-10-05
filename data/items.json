@@ -1,12 +1,57 @@
 [
   {
-    "description": "Send Pi agents back to work when they stop before the job is done.",
-    "id": "alexshpunt/pi-agent-foreman",
+    "description": "Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into",
+    "id": "AskTheWay/dsh-auto-memory",
     "language": "TypeScript",
-    "name": "alexshpunt/pi-agent-foreman",
+    "name": "AskTheWay/dsh-auto-memory",
+    "stars": 87,
+    "updated_at": "2026-10-05T06:58:12Z",
+    "url": "https://github.com/AskTheWay/dsh-auto-memory"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
     "stars": 1,
-    "updated_at": "2026-10-05T06:45:12Z",
-    "url": "https://github.com/alexshpunt/pi-agent-foreman"
+    "updated_at": "2026-10-05T06:56:51Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Ouroboros-Quant \u8854\u5c3e\u86c7: Recursive self-improvement (RSI) agent for quant strategy research \u2014 OpenEvolve evolves strategy co",
+    "id": "wuhandong313/ouroboros-quant",
+    "language": "Python",
+    "name": "wuhandong313/ouroboros-quant",
+    "stars": 0,
+    "updated_at": "2026-10-05T06:54:29Z",
+    "url": "https://github.com/wuhandong313/ouroboros-quant"
+  },
+  {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-10-05T06:52:39Z",
+    "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-10-05T06:58:35Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 83,
+    "updated_at": "2026-10-05T06:50:31Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
   {
     "description": "Pre-registered test of an AI analyst (Antigravity CLI) writing daily trade theses for OKX BTC/ETH/SOL perpetuals; data o",
@@ -14,8 +59,35 @@
     "language": "Python",
     "name": "crypmiy/vibe-trading-okx-futures",
     "stars": 0,
-    "updated_at": "2026-10-05T06:43:09Z",
+    "updated_at": "2026-10-05T06:48:16Z",
     "url": "https://github.com/crypmiy/vibe-trading-okx-futures"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-10-05T06:47:57Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 3,
+    "updated_at": "2026-10-05T06:45:30Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Send Pi agents back to work when they stop before the job is done.",
+    "id": "alexshpunt/pi-agent-foreman",
+    "language": "TypeScript",
+    "name": "alexshpunt/pi-agent-foreman",
+    "stars": 1,
+    "updated_at": "2026-10-05T06:52:02Z",
+    "url": "https://github.com/alexshpunt/pi-agent-foreman"
   },
   {
     "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
@@ -25,24 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-05T06:40:19Z",
     "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-10-05T06:40:03Z",
-    "url": "https://github.com/SashaEee/auditLens"
-  },
-  {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 83,
-    "updated_at": "2026-10-05T06:37:41Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
   {
     "description": "An agentic OBD-II scanner that never makes anything up. Bring your own model, read every module on the bus, and click an",
@@ -70,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-05T06:33:34Z",
     "url": "https://github.com/Ayyush-Maheshwari/SupOps"
-  },
-  {
-    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
-    "id": "kangwoo/aimon-core",
-    "language": "Java",
-    "name": "kangwoo/aimon-core",
-    "stars": 0,
-    "updated_at": "2026-10-05T06:41:14Z",
-    "url": "https://github.com/kangwoo/aimon-core"
   },
   {
     "description": "Claude plays Factorio via FLE (Lua/RCON bridge, Docker)",
@@ -392,7 +437,7 @@
     "language": "Python",
     "name": "jack-h-park/pm-intelligence-engine",
     "stars": 0,
-    "updated_at": "2026-10-05T05:54:25Z",
+    "updated_at": "2026-10-05T06:55:33Z",
     "url": "https://github.com/jack-h-park/pm-intelligence-engine"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-05T05:54:01Z",
     "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-10-05T05:51:16Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
-    "id": "alexwkleung/reika",
-    "language": "TypeScript",
-    "name": "alexwkleung/reika",
-    "stars": 1,
-    "updated_at": "2026-10-05T05:49:03Z",
-    "url": "https://github.com/alexwkleung/reika"
-  },
-  {
-    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
-    "id": "Danisxxx/comfyUI-LongLook",
-    "language": "Python",
-    "name": "Danisxxx/comfyUI-LongLook",
-    "stars": 2,
-    "updated_at": "2026-10-05T05:46:20Z",
-    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
-  },
-  {
-    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
-    "id": "axxafo/awesome-agent-benchmarks",
-    "language": "\u2014",
-    "name": "axxafo/awesome-agent-benchmarks",
-    "stars": 4,
-    "updated_at": "2026-10-05T05:45:33Z",
-    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-10-05T05:40:41Z",
-    "url": "https://github.com/yigido41/agentic-ai"
   }
 ]
