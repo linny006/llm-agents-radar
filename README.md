@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-05 21:25 UTC
+> ⏰ Last updated: 2026-10-05 21:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,21 +42,21 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [genaforvena/mishe-tauftauf](https://github.com/genaforvena/mishe-tauftauf) | 1 | Python | 2026-10-05 | A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation. |
-| 2 | [yologdev/yoagent](https://github.com/yologdev/yoagent) | 318 | Rust | 2026-10-05 | The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done. |
-| 3 | [Moxxkidd/foam](https://github.com/Moxxkidd/foam) | 0 | Python | 2026-10-05 | Kali 原生的 LLM 渗透测试 harness:大模型自主驱动 Kali 完整工具链,scope 护栏 + 持久 PTY + 哈希链审计。Python,GPL-3.0。 |
-| 4 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-05 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
-| 5 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-10-05 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 6 | [AskTheWay/dsh-auto-memory](https://github.com/AskTheWay/dsh-auto-memory) | 89 | TypeScript | 2026-10-05 | Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into |
-| 7 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 20 | Rust | 2026-10-05 | Bamboo — a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule |
-| 8 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 8676 | Python | 2026-10-05 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
-| 9 | [hzdzx2003-ai/DataQuery-Agent](https://github.com/hzdzx2003-ai/DataQuery-Agent) | 0 | Python | 2026-10-05 | Auditable AI data-analysis agent exploring semantic routing, clarification and safe Text-to-SQL workflows. |
-| 10 | [Rxyxs/chile-mining-ops-agent](https://github.com/Rxyxs/chile-mining-ops-agent) | 0 | Python | 2026-10-05 | Agente con tool-calling real (API de OpenAI) sobre operaciones mineras: consultas SQL a DuckDB, scoring de riesgo credit |
-| 11 | [wh520-wh/wwriting-novel-agent](https://github.com/wh520-wh/wwriting-novel-agent) | 0 | JavaScript | 2026-10-05 | 把长篇小说写作当作工程管理的本地桌面智能体：真实字数门禁、断点恢复、文件即项目，数据不出电脑。A local-first desktop agent that manages long-form novel writing like an  |
-| 12 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 1 | TypeScript | 2026-10-05 | Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers. |
-| 13 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-10-05 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 14 | [wufufu770/d2d](https://github.com/wufufu770/d2d) | 4 | JavaScript | 2026-10-05 | 三环并行渗透测试 dsh 插件 — discovery/deep/creative 三环 + 独立 verify 闭环，Kuzu 图黑板共享状态，多 agent 自调度、按角色模型策略、自学习知识脑。仅用于授权安全测试（SRC/靶场/自有资 |
-| 15 | [jack-h-park/pm-intelligence-engine](https://github.com/jack-h-park/pm-intelligence-engine) | 0 | Python | 2026-10-05 | This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei |
+| 1 | [jack-h-park/pm-intelligence-engine](https://github.com/jack-h-park/pm-intelligence-engine) | 0 | Python | 2026-10-05 | This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei |
+| 2 | [genaforvena/mishe-tauftauf](https://github.com/genaforvena/mishe-tauftauf) | 1 | Python | 2026-10-05 | A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation. |
+| 3 | [yologdev/yoagent](https://github.com/yologdev/yoagent) | 318 | Rust | 2026-10-05 | The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done. |
+| 4 | [Moxxkidd/foam](https://github.com/Moxxkidd/foam) | 0 | Python | 2026-10-05 | Kali 原生的 LLM 渗透测试 harness:大模型自主驱动 Kali 完整工具链,scope 护栏 + 持久 PTY + 哈希链审计。Python,GPL-3.0。 |
+| 5 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-05 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
+| 6 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-10-05 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
+| 7 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 8675 | Python | 2026-10-05 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 8 | [AskTheWay/dsh-auto-memory](https://github.com/AskTheWay/dsh-auto-memory) | 89 | TypeScript | 2026-10-05 | Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into |
+| 9 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 20 | Rust | 2026-10-05 | Bamboo — a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule |
+| 10 | [hzdzx2003-ai/DataQuery-Agent](https://github.com/hzdzx2003-ai/DataQuery-Agent) | 0 | Python | 2026-10-05 | Auditable AI data-analysis agent exploring semantic routing, clarification and safe Text-to-SQL workflows. |
+| 11 | [Rxyxs/chile-mining-ops-agent](https://github.com/Rxyxs/chile-mining-ops-agent) | 0 | Python | 2026-10-05 | Agente con tool-calling real (API de OpenAI) sobre operaciones mineras: consultas SQL a DuckDB, scoring de riesgo credit |
+| 12 | [wh520-wh/wwriting-novel-agent](https://github.com/wh520-wh/wwriting-novel-agent) | 0 | JavaScript | 2026-10-05 | 把长篇小说写作当作工程管理的本地桌面智能体：真实字数门禁、断点恢复、文件即项目，数据不出电脑。A local-first desktop agent that manages long-form novel writing like an  |
+| 13 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 1 | TypeScript | 2026-10-05 | Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers. |
+| 14 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-10-05 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 15 | [wufufu770/d2d](https://github.com/wufufu770/d2d) | 4 | JavaScript | 2026-10-05 | 三环并行渗透测试 dsh 插件 — discovery/deep/creative 三环 + 独立 verify 闭环，Kuzu 图黑板共享状态，多 agent 自调度、按角色模型策略、自学习知识脑。仅用于授权安全测试（SRC/靶场/自有资 |
 | 16 | [ljchang/mecha](https://github.com/ljchang/mecha) | 7 | Rust | 2026-10-05 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
 | 17 | [plurnk/plurnk](https://github.com/plurnk/plurnk) | 4 | TypeScript | 2026-10-05 | Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models. |
 | 18 | [xieguigang/sciBASIC](https://github.com/xieguigang/sciBASIC) | 78 | Visual Basic .NET | 2026-10-05 | A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler |

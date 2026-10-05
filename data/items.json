@@ -1,5 +1,14 @@
 [
   {
+    "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
+    "id": "jack-h-park/pm-intelligence-engine",
+    "language": "Python",
+    "name": "jack-h-park/pm-intelligence-engine",
+    "stars": 0,
+    "updated_at": "2026-10-05T21:27:28Z",
+    "url": "https://github.com/jack-h-park/pm-intelligence-engine"
+  },
+  {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
     "id": "genaforvena/mishe-tauftauf",
     "language": "Python",
@@ -14,7 +23,7 @@
     "language": "Rust",
     "name": "yologdev/yoagent",
     "stars": 318,
-    "updated_at": "2026-10-05T21:24:10Z",
+    "updated_at": "2026-10-05T21:29:13Z",
     "url": "https://github.com/yologdev/yoagent"
   },
   {
@@ -45,6 +54,15 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8675,
+    "updated_at": "2026-10-05T21:08:21Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into",
     "id": "AskTheWay/dsh-auto-memory",
     "language": "TypeScript",
@@ -61,15 +79,6 @@
     "stars": 20,
     "updated_at": "2026-10-05T21:06:37Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8676,
-    "updated_at": "2026-10-05T21:08:21Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Auditable AI data-analysis agent exploring semantic routing, clarification and safe Text-to-SQL workflows.",
@@ -124,15 +133,6 @@
     "stars": 4,
     "updated_at": "2026-10-05T20:44:47Z",
     "url": "https://github.com/wufufu770/d2d"
-  },
-  {
-    "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
-    "id": "jack-h-park/pm-intelligence-engine",
-    "language": "Python",
-    "name": "jack-h-park/pm-intelligence-engine",
-    "stars": 0,
-    "updated_at": "2026-10-05T21:08:04Z",
-    "url": "https://github.com/jack-h-park/pm-intelligence-engine"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
