@@ -1,11 +1,47 @@
 [
   {
+    "description": "Demon Cry core - AI-powered OSINT engine",
+    "id": "Mooncore-inc/demon-cry",
+    "language": "Python",
+    "name": "Mooncore-inc/demon-cry",
+    "stars": 2,
+    "updated_at": "2026-10-05T14:59:50Z",
+    "url": "https://github.com/Mooncore-inc/demon-cry"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8672,
+    "updated_at": "2026-10-05T14:56:24Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-10-05T14:54:11Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+    "id": "BlockRunAI/Franklin",
+    "language": "TypeScript",
+    "name": "BlockRunAI/Franklin",
+    "stars": 556,
+    "updated_at": "2026-10-05T14:51:17Z",
+    "url": "https://github.com/BlockRunAI/Franklin"
+  },
+  {
     "description": "Harness LLMs with Multi-Agent Programming",
     "id": "langroid/langroid",
     "language": "Python",
     "name": "langroid/langroid",
     "stars": 4109,
-    "updated_at": "2026-10-05T14:44:35Z",
+    "updated_at": "2026-10-05T14:46:07Z",
     "url": "https://github.com/langroid/langroid"
   },
   {
@@ -32,7 +68,7 @@
     "language": "Rust",
     "name": "ljedrz/nachalnik",
     "stars": 5,
-    "updated_at": "2026-10-05T14:44:18Z",
+    "updated_at": "2026-10-05T14:48:51Z",
     "url": "https://github.com/ljedrz/nachalnik"
   },
   {
@@ -41,7 +77,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-05T14:36:10Z",
+    "updated_at": "2026-10-05T14:54:51Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -77,7 +113,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-05T14:36:16Z",
+    "updated_at": "2026-10-05T14:59:20Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -207,6 +243,15 @@
     "url": "https://github.com/strobilevitellus470/argus-ai"
   },
   {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 104,
+    "updated_at": "2026-10-05T13:59:44Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
     "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
     "id": "ximing/vital",
     "language": "TypeScript",
@@ -268,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-10-05T13:55:35Z",
     "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8671,
-    "updated_at": "2026-10-05T14:42:42Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-05T13:25:46Z",
     "url": "https://github.com/Jovanqing/Vibe-Building"
-  },
-  {
-    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
-    "id": "IAmNo1Special/mvgeos",
-    "language": "Python",
-    "name": "IAmNo1Special/mvgeos",
-    "stars": 1,
-    "updated_at": "2026-10-05T13:25:35Z",
-    "url": "https://github.com/IAmNo1Special/mvgeos"
-  },
-  {
-    "description": "A self-hosted Telegram AI bot powered by Ollama, with persistent memory, custom personalities, and real-time streaming.",
-    "id": "Ali-Sdg90/Fabrexa-AI-Ollama",
-    "language": "JavaScript",
-    "name": "Ali-Sdg90/Fabrexa-AI-Ollama",
-    "stars": 0,
-    "updated_at": "2026-10-05T13:20:28Z",
-    "url": "https://github.com/Ali-Sdg90/Fabrexa-AI-Ollama"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3506,
-    "updated_at": "2026-10-05T14:02:41Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4444,
-    "updated_at": "2026-10-05T14:40:51Z",
-    "url": "https://github.com/gptme/gptme"
   }
 ]
