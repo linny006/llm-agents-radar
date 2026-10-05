@@ -1,5 +1,59 @@
 [
   {
+    "description": "Visual inspection with an LLM agent: YOLOv8 + Qwen-VL, RAG standards retrieval via tool calling with grounded citations,",
+    "id": "mino19790622-dot/visual-inspection-report-generator",
+    "language": "Python",
+    "name": "mino19790622-dot/visual-inspection-report-generator",
+    "stars": 0,
+    "updated_at": "2026-10-05T12:45:03Z",
+    "url": "https://github.com/mino19790622-dot/visual-inspection-report-generator"
+  },
+  {
+    "description": "Vibe Building: a deterministic physics engine, not a language model, decides whether a building design is accepted.",
+    "id": "Jovanqing/vibe-building",
+    "language": "\u2014",
+    "name": "Jovanqing/vibe-building",
+    "stars": 0,
+    "updated_at": "2026-10-05T12:44:34Z",
+    "url": "https://github.com/Jovanqing/vibe-building"
+  },
+  {
+    "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
+    "id": "OtakuNathan/Pal",
+    "language": "Python",
+    "name": "OtakuNathan/Pal",
+    "stars": 2,
+    "updated_at": "2026-10-05T12:42:26Z",
+    "url": "https://github.com/OtakuNathan/Pal"
+  },
+  {
+    "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
+    "id": "ximing/vital",
+    "language": "TypeScript",
+    "name": "ximing/vital",
+    "stars": 3,
+    "updated_at": "2026-10-05T12:40:52Z",
+    "url": "https://github.com/ximing/vital"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-10-05T12:37:53Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-10-05T12:32:58Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
     "id": "yologdev/yoagent",
     "language": "Rust",
@@ -18,15 +72,6 @@
     "url": "https://github.com/xianyu-sheng/Xenon"
   },
   {
-    "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
-    "id": "OtakuNathan/Pal",
-    "language": "Python",
-    "name": "OtakuNathan/Pal",
-    "stars": 2,
-    "updated_at": "2026-10-05T12:28:15Z",
-    "url": "https://github.com/OtakuNathan/Pal"
-  },
-  {
     "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
     "id": "memoways/ava-proto1",
     "language": "TypeScript",
@@ -41,17 +86,8 @@
     "language": "Kotlin",
     "name": "AceGuru-mjh/Android-Guru-Agent",
     "stars": 4,
-    "updated_at": "2026-10-05T12:29:45Z",
+    "updated_at": "2026-10-05T12:38:38Z",
     "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent"
-  },
-  {
-    "description": "Vibe Building: a deterministic physics engine, not a language model, decides whether a building design is accepted.",
-    "id": "Jovanqing/vibe-building",
-    "language": "\u2014",
-    "name": "Jovanqing/vibe-building",
-    "stars": 0,
-    "updated_at": "2026-10-05T12:26:44Z",
-    "url": "https://github.com/Jovanqing/vibe-building"
   },
   {
     "description": "The LLM Anti-Framework",
@@ -95,7 +131,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-10-05T12:12:17Z",
+    "updated_at": "2026-10-05T12:44:26Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -121,7 +157,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 8669,
+    "stars": 8671,
     "updated_at": "2026-10-05T11:56:00Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -140,7 +176,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4445,
-    "updated_at": "2026-10-05T12:28:49Z",
+    "updated_at": "2026-10-05T12:42:54Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -169,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-10-05T11:42:17Z",
     "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-10-05T11:53:20Z",
-    "url": "https://github.com/b-macker/NAAb"
   },
   {
     "description": "RAG assistant for AML/KYC compliance (FATF, Wolfsberg, CBAR) with citation-linked answers, a tool-calling agent and RAGA",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-05T10:48:16Z",
     "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "\u4fe1\u606f\u91c7\u96c6\u88c5\u7f6e\u667a\u80fd\u8fd0\u7ef4 Agent \u7cfb\u7edf\u590d\u73b0\uff1a\u7528 OpenSpec \u89c4\u683c\u9a71\u52a8\uff0c\u4ece\u544a\u8b66\u63a5\u5165\u5230\u8bca\u65ad\u62a5\u544a\u7684\u5b8c\u6574\u94fe\u8def\u3002",
-    "id": "hl7321/aiops-agent-reproduction",
-    "language": "Python",
-    "name": "hl7321/aiops-agent-reproduction",
-    "stars": 1,
-    "updated_at": "2026-10-05T10:47:36Z",
-    "url": "https://github.com/hl7321/aiops-agent-reproduction"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-10-05T10:46:58Z",
-    "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-10-05T10:45:43Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
   }
 ]
