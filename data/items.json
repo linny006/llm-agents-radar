@@ -1,5 +1,50 @@
 [
   {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-10-05T16:29:30Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "A self-hosted software factory \u2014 define goals, agents decompose and execute them through enforced pipelines, with humans",
+    "id": "diraigent/diraigent",
+    "language": "Rust",
+    "name": "diraigent/diraigent",
+    "stars": 21,
+    "updated_at": "2026-10-05T16:28:32Z",
+    "url": "https://github.com/diraigent/diraigent"
+  },
+  {
+    "description": "\u57fa\u4e8e LangGraph \u7684\u8de8\u5883\u7535\u5546\u9009\u54c1 + \u4e0a\u67b6 Agent\uff1aReAct \u81ea\u4e3b\u7f16\u6392 5 \u4e2a\u5de5\u5177\uff08\u5b9e\u6d4b\u652f\u6301\u5e76\u884c\u8c03\u7528\uff09\uff1b\u4e24\u7c7b\u786e\u5b9a\u6027\u95f8\u95e8\u2014\u2014\u8fdd\u7981\u8bcd 7 \u7c7b\u89c4\u5219\u8868 + \u53c2\u6570\u951a\u5b9a\uff08Listing \u6570\u503c\u5fc5\u987b\u6765\u81ea\u5356\u5bb6\u89c4\u683c\uff09\uff0c\u547d\u4e2d\u5373\u5224\u4e0d\u5408\u683c\u3001\u4e0d\u8c03\u7528\u6a21\u578b\uff0c",
+    "id": "xianteng-zhang/sourcing-agent",
+    "language": "Python",
+    "name": "xianteng-zhang/sourcing-agent",
+    "stars": 1,
+    "updated_at": "2026-10-05T16:27:11Z",
+    "url": "https://github.com/xianteng-zhang/sourcing-agent"
+  },
+  {
+    "description": "Second Take \u2014 \u5f53 AI \u7ed9\u7684\u7b54\u6848\u4e0d\u6ee1\u610f\uff0c\u8bf4\u4e00\u53e5\"\u518d\u6765\u4e00\u6761\"\uff0c\u5e26\u4e0a\u8bca\u65ad\u597d\u7684\u91cd\u62cd\u5355\uff0c\u8ba9\u539f AI \u76f4\u63a5\u7ed9\u51fa\u66f4\u597d\u7684\u6700\u7ec8\u7b54\u6848\u3002A meta-skill for diagnosing and re-shooting weak AI rea",
+    "id": "flashfrogluo/second-take",
+    "language": "Shell",
+    "name": "flashfrogluo/second-take",
+    "stars": 0,
+    "updated_at": "2026-10-05T16:25:33Z",
+    "url": "https://github.com/flashfrogluo/second-take"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8672,
+    "updated_at": "2026-10-05T16:19:33Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
     "id": "rugose-learnedprofession58/pi-dsh",
     "language": "TypeScript",
@@ -41,7 +86,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-05T16:15:17Z",
+    "updated_at": "2026-10-05T16:26:45Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -54,15 +99,6 @@
     "url": "https://github.com/Blondieredistributed612/pocket-agent"
   },
   {
-    "description": "\u57fa\u4e8e LangGraph \u7684\u8de8\u5883\u7535\u5546\u9009\u54c1 + \u4e0a\u67b6 Agent\uff1aReAct \u81ea\u4e3b\u7f16\u6392 5 \u4e2a\u5de5\u5177\uff08\u5b9e\u6d4b\u652f\u6301\u5e76\u884c\u8c03\u7528\uff09\uff1b\u4e24\u7c7b\u786e\u5b9a\u6027\u95f8\u95e8\u2014\u2014\u8fdd\u7981\u8bcd 7 \u7c7b\u89c4\u5219\u8868 + \u53c2\u6570\u951a\u5b9a\uff08Listing \u6570\u503c\u5fc5\u987b\u6765\u81ea\u5356\u5bb6\u89c4\u683c\uff09\uff0c\u547d\u4e2d\u5373\u5224\u4e0d\u5408\u683c\u3001\u4e0d\u8c03\u7528\u6a21\u578b\uff0c",
-    "id": "xianteng-zhang/sourcing-agent",
-    "language": "Python",
-    "name": "xianteng-zhang/sourcing-agent",
-    "stars": 1,
-    "updated_at": "2026-10-05T16:12:07Z",
-    "url": "https://github.com/xianteng-zhang/sourcing-agent"
-  },
-  {
     "description": "Claude plays Factorio via FLE (Lua/RCON bridge, Docker)",
     "id": "nulljosh/conveyer",
     "language": "Python",
@@ -70,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-10-05T16:11:48Z",
     "url": "https://github.com/nulljosh/conveyer"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8672,
-    "updated_at": "2026-10-05T16:14:09Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -151,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-05T16:06:40Z",
     "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
-  },
-  {
-    "description": "A self-hosted software factory \u2014 define goals, agents decompose and execute them through enforced pipelines, with humans",
-    "id": "diraigent/diraigent",
-    "language": "Rust",
-    "name": "diraigent/diraigent",
-    "stars": 21,
-    "updated_at": "2026-10-05T16:05:28Z",
-    "url": "https://github.com/diraigent/diraigent"
   },
   {
     "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
@@ -396,15 +414,6 @@
     "url": "https://github.com/Amri854/obsidian-mcp-server"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-10-05T16:06:34Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
     "id": "irandysousa/langgraph-llama-cpp-starter",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-05T15:27:32Z",
     "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "openPASO (formerly OASiS): an MCP server that lets an AI model run nine finite-element and multiphysics codes, with cura",
-    "id": "open-PASO/openPASO",
-    "language": "Python",
-    "name": "open-PASO/openPASO",
-    "stars": 26,
-    "updated_at": "2026-10-05T15:29:14Z",
-    "url": "https://github.com/open-PASO/openPASO"
   }
 ]
