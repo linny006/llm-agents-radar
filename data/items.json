@@ -1,12 +1,93 @@
 [
   {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-10-05T17:13:43Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "Agent de triage web-s\u00e9curit\u00e9 (Claude Agent SDK) : heuristiques + classifieur entra\u00een\u00e9 (MLOps) pour la d\u00e9tection de phish",
     "id": "TatianaT13/websec-triage-agent",
     "language": "Python",
     "name": "TatianaT13/websec-triage-agent",
     "stars": 0,
-    "updated_at": "2026-10-05T16:58:47Z",
+    "updated_at": "2026-10-05T17:12:36Z",
     "url": "https://github.com/TatianaT13/websec-triage-agent"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-05T17:11:31Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
+    "id": "kyleslight/shun",
+    "language": "TypeScript",
+    "name": "kyleslight/shun",
+    "stars": 6,
+    "updated_at": "2026-10-05T17:09:01Z",
+    "url": "https://github.com/kyleslight/shun"
+  },
+  {
+    "description": "Control AI agents anywhere. (github mirror)",
+    "id": "justacalico/devinorium",
+    "language": "Dart",
+    "name": "justacalico/devinorium",
+    "stars": 0,
+    "updated_at": "2026-10-05T17:08:23Z",
+    "url": "https://github.com/justacalico/devinorium"
+  },
+  {
+    "description": "Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Pyt",
+    "id": "feder-cr/invisible_playwright_mcp",
+    "language": "Python",
+    "name": "feder-cr/invisible_playwright_mcp",
+    "stars": 31770,
+    "updated_at": "2026-10-05T17:07:07Z",
+    "url": "https://github.com/feder-cr/invisible_playwright_mcp"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 6111,
+    "updated_at": "2026-10-05T17:06:09Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 1,
+    "updated_at": "2026-10-05T17:03:19Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 105,
+    "updated_at": "2026-10-05T17:01:09Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
+    "id": "IAmNo1Special/mvgeos",
+    "language": "Python",
+    "name": "IAmNo1Special/mvgeos",
+    "stars": 1,
+    "updated_at": "2026-10-05T17:01:50Z",
+    "url": "https://github.com/IAmNo1Special/mvgeos"
   },
   {
     "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
@@ -27,15 +108,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
-    "id": "IAmNo1Special/mvgeos",
-    "language": "Python",
-    "name": "IAmNo1Special/mvgeos",
-    "stars": 1,
-    "updated_at": "2026-10-05T16:57:46Z",
-    "url": "https://github.com/IAmNo1Special/mvgeos"
-  },
-  {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
     "id": "dsswift/ion",
     "language": "TypeScript",
@@ -43,15 +115,6 @@
     "stars": 3,
     "updated_at": "2026-10-05T16:54:32Z",
     "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 1,
-    "updated_at": "2026-10-05T16:53:47Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "AI \u7ed9\u7684\u7b54\u6848\u4e0d\u6ee1\u610f\uff1f\u8bca\u65ad\u90a3\u6bb5\u6df1\u5ea6\u601d\u8003\uff08CoT\uff09\u54ea\u91cc\u9519\uff0c\u4ea7\u51fa\u4e00\u6bb5\u53ef\u7c98\u56de\u539f\u5bf9\u8bdd\u7684\u91cd\u62cd\u5355\uff0c\u8ba9\u539f AI \u76f4\u63a5\u7ed9\u51fa\u66f4\u597d\u7684\u6700\u7ec8\u7b54\u6848\u3002\u89e3\u51b3\"\u53ea\u4f1a\u8bf4\u518d\u6539\u6539\u3001\u8bf4\u4e0d\u6e05\u54ea\u91cc\u4e0d\u5bf9\"\uff1b\u652f\u6301\u6587\u672c/\u56fe\u50cf/\u89c6\u9891\u63d0\u793a\u8bcd\uff0c\u517c\u5bb9 Claude\u3001DeepSeek\u3001ChatGPT",
@@ -72,21 +135,12 @@
     "url": "https://github.com/langroid/langroid"
   },
   {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 105,
-    "updated_at": "2026-10-05T16:48:46Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-05T16:53:31Z",
+    "updated_at": "2026-10-05T17:00:45Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -97,15 +151,6 @@
     "stars": 20,
     "updated_at": "2026-10-05T16:44:07Z",
     "url": "https://github.com/Lyz103/LLM-Agent-Paper-daily"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-10-05T16:51:53Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "A self-hosted software factory \u2014 define goals, agents decompose and execute them through enforced pipelines, with humans",
@@ -131,7 +176,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 8672,
-    "updated_at": "2026-10-05T16:36:45Z",
+    "updated_at": "2026-10-05T17:11:13Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -221,17 +266,8 @@
     "language": "Python",
     "name": "nulljosh/conveyer",
     "stars": 0,
-    "updated_at": "2026-10-05T16:11:48Z",
+    "updated_at": "2026-10-05T17:02:16Z",
     "url": "https://github.com/nulljosh/conveyer"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-05T16:10:36Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-05T15:52:32Z",
     "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
-    "id": "muhzars/Agent.cpp",
-    "language": "C++",
-    "name": "muhzars/Agent.cpp",
-    "stars": 1,
-    "updated_at": "2026-10-05T15:49:20Z",
-    "url": "https://github.com/muhzars/Agent.cpp"
-  },
-  {
-    "description": "A character engine for AI agents \u2014 persistent affect, provenance-aware memory, gated proactivity, and an auditable forge",
-    "id": "Morephine/feltstate",
-    "language": "Python",
-    "name": "Morephine/feltstate",
-    "stars": 9,
-    "updated_at": "2026-10-05T15:48:18Z",
-    "url": "https://github.com/Morephine/feltstate"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 3,
-    "updated_at": "2026-10-05T15:47:16Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
-    "id": "faheela-786/ComfyUI-qwenmultiangle",
-    "language": "\u2014",
-    "name": "faheela-786/ComfyUI-qwenmultiangle",
-    "stars": 2,
-    "updated_at": "2026-10-05T15:46:51Z",
-    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
   }
 ]
