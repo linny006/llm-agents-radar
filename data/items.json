@@ -1,5 +1,86 @@
 [
   {
+    "description": "One-Stop Personal Health AI Agent \"Say Hi to Healthy Me\"",
+    "id": "thinkwee/HiMe",
+    "language": "Python",
+    "name": "thinkwee/HiMe",
+    "stars": 69,
+    "updated_at": "2026-10-05T09:29:26Z",
+    "url": "https://github.com/thinkwee/HiMe"
+  },
+  {
+    "description": "Autonomous LLM agent that investigates Microsoft Defender XDR and Sentinel alerts, with a Training Lab benchmark of 14 k",
+    "id": "Aretea-Group/isophase",
+    "language": "TypeScript",
+    "name": "Aretea-Group/isophase",
+    "stars": 1,
+    "updated_at": "2026-10-05T09:25:27Z",
+    "url": "https://github.com/Aretea-Group/isophase"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 1,
+    "updated_at": "2026-10-05T09:24:52Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
+    "id": "IAmNo1Special/mvgeos",
+    "language": "Python",
+    "name": "IAmNo1Special/mvgeos",
+    "stars": 1,
+    "updated_at": "2026-10-05T09:27:50Z",
+    "url": "https://github.com/IAmNo1Special/mvgeos"
+  },
+  {
+    "description": "Hardware-procurement & asset-lifecycle SCM with an AI decision layer: should-cost, TCO/TSCMC, and an LLM copilot that ad",
+    "id": "eugnmueller-87/SCM-Master",
+    "language": "Python",
+    "name": "eugnmueller-87/SCM-Master",
+    "stars": 0,
+    "updated_at": "2026-10-05T09:24:19Z",
+    "url": "https://github.com/eugnmueller-87/SCM-Master"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-10-05T09:28:45Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 89,
+    "updated_at": "2026-10-05T09:22:41Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "\u91cf\u7eb2\u611f\u77e5\u7684\u7269\u7406\u5b9a\u5f8b\u81ea\u52a8\u53d1\u73b0\u667a\u80fd\u4f53\uff1a\u91cf\u7eb2\u526a\u679d + OMP \u7a00\u758f\u56de\u5f52 + \u5916\u63a8\u4e0e\u7b26\u53f7\u53cc\u91cd\u9a8c\u8bc1\uff0c\u7ed3\u679c\u53ef\u590d\u73b0\u3001\u53ef\u5ba1\u8ba1\uff1b\u7ecf MCP \u63a5\u5165 Agnes Harness (AGH)\u3002\u6c5f\u82cf\u7701 AI+ \u9ed1\u5ba2\u677e\u53c2\u8d5b\u4f5c\u54c1\u3002",
+    "id": "Arcticfox-star/SciFormula",
+    "language": "HTML",
+    "name": "Arcticfox-star/SciFormula",
+    "stars": 0,
+    "updated_at": "2026-10-05T09:22:27Z",
+    "url": "https://github.com/Arcticfox-star/SciFormula"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 1,
+    "updated_at": "2026-10-05T09:16:58Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
     "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
     "id": "rugose-learnedprofession58/pi-dsh",
     "language": "TypeScript",
@@ -59,7 +140,7 @@
     "language": "Python",
     "name": "bondwell79/hercules",
     "stars": 0,
-    "updated_at": "2026-10-05T09:12:24Z",
+    "updated_at": "2026-10-05T09:22:15Z",
     "url": "https://github.com/bondwell79/hercules"
   },
   {
@@ -79,24 +160,6 @@
     "stars": 231,
     "updated_at": "2026-10-05T09:11:50Z",
     "url": "https://github.com/EvoMap/awesome-agent-evolution"
-  },
-  {
-    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
-    "id": "IAmNo1Special/mvgeos",
-    "language": "Python",
-    "name": "IAmNo1Special/mvgeos",
-    "stars": 1,
-    "updated_at": "2026-10-05T09:14:34Z",
-    "url": "https://github.com/IAmNo1Special/mvgeos"
-  },
-  {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 1,
-    "updated_at": "2026-10-05T09:10:37Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
@@ -130,7 +193,7 @@
     "id": "yologdev/yoagent",
     "language": "Rust",
     "name": "yologdev/yoagent",
-    "stars": 304,
+    "stars": 305,
     "updated_at": "2026-10-05T09:08:15Z",
     "url": "https://github.com/yologdev/yoagent"
   },
@@ -234,15 +297,6 @@
     "url": "https://github.com/AKArrok/McPwn"
   },
   {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 89,
-    "updated_at": "2026-10-05T08:57:05Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
     "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
     "id": "heba-ramdan/harness",
     "language": "TypeScript",
@@ -324,15 +378,6 @@
     "url": "https://github.com/amineeng/scraping-browser"
   },
   {
-    "description": "\u91cf\u7eb2\u611f\u77e5\u7684\u7269\u7406\u5b9a\u5f8b\u81ea\u52a8\u53d1\u73b0\u667a\u80fd\u4f53\uff1a\u91cf\u7eb2\u526a\u679d + OMP \u7a00\u758f\u56de\u5f52 + \u5916\u63a8\u4e0e\u7b26\u53f7\u53cc\u91cd\u9a8c\u8bc1\uff0c\u7ed3\u679c\u53ef\u590d\u73b0\u3001\u53ef\u5ba1\u8ba1\uff1b\u7ecf MCP \u63a5\u5165 Agnes Harness (AGH)\u3002\u6c5f\u82cf\u7701 AI+ \u9ed1\u5ba2\u677e\u53c2\u8d5b\u4f5c\u54c1\u3002",
-    "id": "Arcticfox-star/SciFormula",
-    "language": "HTML",
-    "name": "Arcticfox-star/SciFormula",
-    "stars": 0,
-    "updated_at": "2026-10-05T08:46:43Z",
-    "url": "https://github.com/Arcticfox-star/SciFormula"
-  },
-  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -369,15 +414,6 @@
     "url": "https://github.com/BlockRunAI/Franklin"
   },
   {
-    "description": "Autonomous LLM agent that investigates Microsoft Defender XDR and Sentinel alerts, with a Training Lab benchmark of 14 k",
-    "id": "Aretea-Group/isophase",
-    "language": "TypeScript",
-    "name": "Aretea-Group/isophase",
-    "stars": 1,
-    "updated_at": "2026-10-05T08:48:00Z",
-    "url": "https://github.com/Aretea-Group/isophase"
-  },
-  {
     "description": "E-commerce AI customer service agent: intent routing, FSM multi-turn dialogs, confirmation-gated write ops, RAG hybrid r",
     "id": "chlniubi23/ecommerce-ai-customer-service-agent",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 22,
     "updated_at": "2026-10-05T08:40:34Z",
     "url": "https://github.com/bigduu/Nova"
-  },
-  {
-    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
-    "id": "AceGuru-mjh/Android-Guru-Agent",
-    "language": "Kotlin",
-    "name": "AceGuru-mjh/Android-Guru-Agent",
-    "stars": 4,
-    "updated_at": "2026-10-05T09:11:12Z",
-    "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-10-05T08:38:40Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "Pre-registered test of an AI analyst (Antigravity CLI) writing daily trade theses for OKX BTC/ETH/SOL perpetuals; data o",
-    "id": "crypmiy/vibe-trading-okx-futures",
-    "language": "Python",
-    "name": "crypmiy/vibe-trading-okx-futures",
-    "stars": 0,
-    "updated_at": "2026-10-05T08:37:58Z",
-    "url": "https://github.com/crypmiy/vibe-trading-okx-futures"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 3,
-    "updated_at": "2026-10-05T08:36:12Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
   }
 ]
