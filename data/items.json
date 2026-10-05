@@ -1,5 +1,59 @@
 [
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8673,
+    "updated_at": "2026-10-05T19:00:09Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Autonomous LLM agent that investigates Microsoft Defender XDR and Sentinel alerts, with a Training Lab benchmark of 14 k",
+    "id": "Aretea-Group/isophase",
+    "language": "TypeScript",
+    "name": "Aretea-Group/isophase",
+    "stars": 2,
+    "updated_at": "2026-10-05T18:58:52Z",
+    "url": "https://github.com/Aretea-Group/isophase"
+  },
+  {
+    "description": "Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into",
+    "id": "AskTheWay/dsh-auto-memory",
+    "language": "TypeScript",
+    "name": "AskTheWay/dsh-auto-memory",
+    "stars": 89,
+    "updated_at": "2026-10-05T18:58:05Z",
+    "url": "https://github.com/AskTheWay/dsh-auto-memory"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 314,
+    "updated_at": "2026-10-05T18:54:59Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
+    "description": "\u5e26\u7b56\u7565\u9a8c\u8bc1\u7684 A \u80a1 LLM \u5206\u6790\u7cfb\u7edf \u2014\u2014 \u591a\u6e90\u964d\u7ea7 + \u5b9a\u65f6\u4efb\u52a1 + \u591a\u901a\u9053\u63a8\u9001\uff1b\u6838\u5fc3\u589e\u91cf\u662f\u53ef\u8bc1\u4f2a\u7684\u56de\u6d4b\u4e0e\u9a8c\u8bc1\u5c42\uff08\u672a\u6765\u51fd\u6570\u63a2\u6d4b / \u6837\u672c\u5185\u5916\u5207\u5206 / t\u68c0\u9a8c / \u57fa\u51c6\u5bf9\u6bd4\uff09",
+    "id": "AandBorC/dsa-lite",
+    "language": "Python",
+    "name": "AandBorC/dsa-lite",
+    "stars": 0,
+    "updated_at": "2026-10-05T18:53:44Z",
+    "url": "https://github.com/AandBorC/dsa-lite"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 1,
+    "updated_at": "2026-10-05T18:47:37Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
     "description": "Claude plays Factorio via FLE (Lua/RCON bridge, Docker)",
     "id": "nulljosh/conveyer",
     "language": "Python",
@@ -34,15 +88,6 @@
     "stars": 4,
     "updated_at": "2026-10-05T18:38:52Z",
     "url": "https://github.com/KaletoAI/anima-verse"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8673,
-    "updated_at": "2026-10-05T18:43:13Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Auditable AI data-analysis agent exploring semantic routing, clarification and safe Text-to-SQL workflows.",
@@ -126,21 +171,12 @@
     "url": "https://github.com/v2-io/agentic-systems"
   },
   {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 1,
-    "updated_at": "2026-10-05T18:08:07Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-05T18:40:01Z",
+    "updated_at": "2026-10-05T18:57:21Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -196,15 +232,6 @@
     "stars": 4,
     "updated_at": "2026-10-05T17:45:01Z",
     "url": "https://github.com/wufufu770/d2d"
-  },
-  {
-    "description": "Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into",
-    "id": "AskTheWay/dsh-auto-memory",
-    "language": "TypeScript",
-    "name": "AskTheWay/dsh-auto-memory",
-    "stars": 89,
-    "updated_at": "2026-10-05T17:43:35Z",
-    "url": "https://github.com/AskTheWay/dsh-auto-memory"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -284,7 +311,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 6111,
-    "updated_at": "2026-10-05T17:21:32Z",
+    "updated_at": "2026-10-05T18:59:58Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -396,15 +423,6 @@
     "url": "https://github.com/xianteng-zhang/sourcing-agent"
   },
   {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 314,
-    "updated_at": "2026-10-05T16:17:04Z",
-    "url": "https://github.com/yologdev/yoagent"
-  },
-  {
     "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
     "id": "rugose-learnedprofession58/pi-dsh",
     "language": "TypeScript",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-05T16:13:17Z",
     "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
-  },
-  {
-    "description": "An open-source research agent system for your Zotero library.",
-    "id": "yilewang/llm-for-zotero",
-    "language": "TypeScript",
-    "name": "yilewang/llm-for-zotero",
-    "stars": 3193,
-    "updated_at": "2026-10-05T16:13:11Z",
-    "url": "https://github.com/yilewang/llm-for-zotero"
-  },
-  {
-    "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
-    "id": "Blondieredistributed612/pocket-agent",
-    "language": "Python",
-    "name": "Blondieredistributed612/pocket-agent",
-    "stars": 2,
-    "updated_at": "2026-10-05T16:12:10Z",
-    "url": "https://github.com/Blondieredistributed612/pocket-agent"
   }
 ]
