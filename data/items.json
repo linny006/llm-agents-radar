@@ -1,11 +1,65 @@
 [
   {
+    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
+    "id": "AceGuru-mjh/Android-Guru-Agent",
+    "language": "Kotlin",
+    "name": "AceGuru-mjh/Android-Guru-Agent",
+    "stars": 4,
+    "updated_at": "2026-10-05T04:45:05Z",
+    "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent"
+  },
+  {
+    "description": "AI-driven CAD workbench and coding agent for Windows, evolved from illusion-agent: shared canvas for design discussion, ",
+    "id": "YunTaiHua/illusion-forge",
+    "language": "Python",
+    "name": "YunTaiHua/illusion-forge",
+    "stars": 2,
+    "updated_at": "2026-10-05T04:41:43Z",
+    "url": "https://github.com/YunTaiHua/illusion-forge"
+  },
+  {
+    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 568,
+    "updated_at": "2026-10-05T04:40:57Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 6106,
+    "updated_at": "2026-10-05T04:40:30Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 1,
+    "updated_at": "2026-10-05T04:36:26Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 21,
+    "updated_at": "2026-10-05T04:33:23Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-05T04:28:29Z",
+    "updated_at": "2026-10-05T04:41:40Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -36,13 +90,13 @@
     "url": "https://github.com/plurnk/plurnk-service"
   },
   {
-    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 568,
-    "updated_at": "2026-10-05T04:25:29Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
+    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
+    "id": "alexwkleung/reika",
+    "language": "TypeScript",
+    "name": "alexwkleung/reika",
+    "stars": 1,
+    "updated_at": "2026-10-05T04:24:53Z",
+    "url": "https://github.com/alexwkleung/reika"
   },
   {
     "description": "Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi",
@@ -52,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-10-05T04:24:39Z",
     "url": "https://github.com/zig333/ELAI-archive"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 1,
-    "updated_at": "2026-10-05T04:23:38Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "Minimal research agent framework with falsification-driven rollback discipline; 253 tests.",
@@ -149,7 +194,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-10-05T04:16:42Z",
+    "updated_at": "2026-10-05T04:45:14Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -176,7 +221,7 @@
     "language": "Java",
     "name": "kangwoo/aimon-core",
     "stars": 0,
-    "updated_at": "2026-10-05T04:14:45Z",
+    "updated_at": "2026-10-05T04:32:57Z",
     "url": "https://github.com/kangwoo/aimon-core"
   },
   {
@@ -288,15 +333,6 @@
     "url": "https://github.com/STARDUSTLC666/dsh-minimal-ptc"
   },
   {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 21,
-    "updated_at": "2026-10-05T04:01:07Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
     "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
     "id": "mohahasan/ios-agentic-skills",
     "language": "JavaScript",
@@ -331,15 +367,6 @@
     "stars": 4,
     "updated_at": "2026-10-05T03:55:06Z",
     "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "AI-driven CAD workbench and coding agent for Windows, evolved from illusion-agent: shared canvas for design discussion, ",
-    "id": "YunTaiHua/illusion-forge",
-    "language": "Python",
-    "name": "YunTaiHua/illusion-forge",
-    "stars": 2,
-    "updated_at": "2026-10-05T03:53:50Z",
-    "url": "https://github.com/YunTaiHua/illusion-forge"
   },
   {
     "description": "\uc885\ubaa9\uba85 \ud55c \uc904\ub85c \uae30\uad00\uae09 \ub9ac\uc11c\uce58 \ub9ac\ud3ec\ud2b8(PDF)\ub97c \uc0dd\uc131\ud558\ub294 LLM \uba40\ud2f0\uc2a4\ud15d \uc5d0\uc774\uc804\ud2b8. DART\u00b7KIS\u00b7SEC EDGAR + \uac70\uc2dc 13\uacc4\uc5f4(FRED 9\u00b7ECOS 4) \uc218\uc9d1, \uc2dc\uc810\u00b7\ub2e8\uc704\u00b7\ubc94\uc704 \uac80\uc99d \ub0b4\uc7a5",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-05T03:40:29Z",
     "url": "https://github.com/chunleik/self-analyst"
-  },
-  {
-    "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
-    "id": "wq19901103wq/wechat-mac-rpa",
-    "language": "Python",
-    "name": "wq19901103wq/wechat-mac-rpa",
-    "stars": 114,
-    "updated_at": "2026-10-05T03:20:49Z",
-    "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
-  },
-  {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-10-05T03:23:24Z",
-    "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8662,
-    "updated_at": "2026-10-05T03:00:57Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   }
 ]
