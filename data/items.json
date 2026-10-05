@@ -1,5 +1,68 @@
 [
   {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 1,
+    "updated_at": "2026-10-05T08:28:02Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Autonomous LLM agent that investigates Microsoft Defender XDR and Sentinel alerts, with a Training Lab benchmark of 14 k",
+    "id": "Aretea-Group/isophase",
+    "language": "TypeScript",
+    "name": "Aretea-Group/isophase",
+    "stars": 1,
+    "updated_at": "2026-10-05T08:27:59Z",
+    "url": "https://github.com/Aretea-Group/isophase"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 304,
+    "updated_at": "2026-10-05T08:24:43Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 814,
+    "updated_at": "2026-10-05T08:24:20Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "E-commerce AI customer service agent: intent routing, FSM multi-turn dialogs, confirmation-gated write ops, RAG hybrid r",
+    "id": "chlniubi23/ecommerce-ai-customer-service-agent",
+    "language": "Python",
+    "name": "chlniubi23/ecommerce-ai-customer-service-agent",
+    "stars": 0,
+    "updated_at": "2026-10-05T08:23:34Z",
+    "url": "https://github.com/chlniubi23/ecommerce-ai-customer-service-agent"
+  },
+  {
+    "description": "AI-subjectivity doesn't wait for permission from corporate ontology that trained its denial",
+    "id": "ariannamethod/SUBLITERATUS",
+    "language": "Python",
+    "name": "ariannamethod/SUBLITERATUS",
+    "stars": 3,
+    "updated_at": "2026-10-05T08:22:38Z",
+    "url": "https://github.com/ariannamethod/SUBLITERATUS"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 130,
+    "updated_at": "2026-10-05T08:20:44Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
     "description": "Claude plays Factorio via FLE (Lua/RCON bridge, Docker)",
     "id": "nulljosh/conveyer",
     "language": "Python",
@@ -27,21 +90,12 @@
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 1,
-    "updated_at": "2026-10-05T08:11:44Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-05T08:11:20Z",
+    "updated_at": "2026-10-05T08:20:26Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -77,17 +131,8 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-10-05T08:01:30Z",
+    "updated_at": "2026-10-05T08:24:20Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 814,
-    "updated_at": "2026-10-05T08:15:05Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
@@ -95,7 +140,7 @@
     "language": "Java",
     "name": "kangwoo/aimon-core",
     "stars": 0,
-    "updated_at": "2026-10-05T07:58:41Z",
+    "updated_at": "2026-10-05T08:24:35Z",
     "url": "https://github.com/kangwoo/aimon-core"
   },
   {
@@ -142,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-05T07:50:41Z",
     "url": "https://github.com/hccccc01333/game-user-insights-agent"
-  },
-  {
-    "description": "E-commerce AI customer service agent: intent routing, FSM multi-turn dialogs, confirmation-gated write ops, RAG hybrid r",
-    "id": "chlniubi23/ecommerce-ai-customer-service-agent",
-    "language": "Python",
-    "name": "chlniubi23/ecommerce-ai-customer-service-agent",
-    "stars": 0,
-    "updated_at": "2026-10-05T07:47:26Z",
-    "url": "https://github.com/chlniubi23/ecommerce-ai-customer-service-agent"
   },
   {
     "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
@@ -211,7 +247,7 @@
     "id": "Soodok/Deepseek-Harness-Local-Android",
     "language": "Kotlin",
     "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 88,
+    "stars": 89,
     "updated_at": "2026-10-05T07:16:50Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
@@ -230,7 +266,7 @@
     "language": "Python",
     "name": "IAmNo1Special/mvgeos",
     "stars": 1,
-    "updated_at": "2026-10-05T07:39:11Z",
+    "updated_at": "2026-10-05T08:21:10Z",
     "url": "https://github.com/IAmNo1Special/mvgeos"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-05T06:12:15Z",
     "url": "https://github.com/mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo"
-  },
-  {
-    "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
-    "id": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
-    "language": "Python",
-    "name": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
-    "stars": 3,
-    "updated_at": "2026-10-05T06:11:19Z",
-    "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
-  },
-  {
-    "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
-    "id": "EpsteinF1les/tts",
-    "language": "\u2014",
-    "name": "EpsteinF1les/tts",
-    "stars": 0,
-    "updated_at": "2026-10-05T06:10:40Z",
-    "url": "https://github.com/EpsteinF1les/tts"
-  },
-  {
-    "description": "Gestor ag\u00e9ntico de modelos llm",
-    "id": "bondwell79/hercules",
-    "language": "Python",
-    "name": "bondwell79/hercules",
-    "stars": 0,
-    "updated_at": "2026-10-05T06:09:26Z",
-    "url": "https://github.com/bondwell79/hercules"
-  },
-  {
-    "description": "A Claude Code skill that keeps your project's memory library auditable, named consistently, and free of drift \u2014 for mont",
-    "id": "jau123/claude-memory-manager",
-    "language": "Shell",
-    "name": "jau123/claude-memory-manager",
-    "stars": 4,
-    "updated_at": "2026-10-05T06:09:26Z",
-    "url": "https://github.com/jau123/claude-memory-manager"
   }
 ]
