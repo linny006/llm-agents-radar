@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "chlniubi23/ecommerce-ai-customer-service-agent",
     "stars": 0,
-    "updated_at": "2026-10-05T07:29:14Z",
+    "updated_at": "2026-10-05T07:43:24Z",
     "url": "https://github.com/chlniubi23/ecommerce-ai-customer-service-agent"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 1,
+    "updated_at": "2026-10-05T07:41:53Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "Claude plays Factorio via FLE (Lua/RCON bridge, Docker)",
+    "id": "nulljosh/conveyer",
+    "language": "Python",
+    "name": "nulljosh/conveyer",
+    "stars": 0,
+    "updated_at": "2026-10-05T07:36:59Z",
+    "url": "https://github.com/nulljosh/conveyer"
+  },
+  {
+    "description": "An agent for coding and everyday tasks, powered by your own ChatGPT or DeepSeek account. No API key, no per-token billin",
+    "id": "khudayarovich/onflip-agent",
+    "language": "TypeScript",
+    "name": "khudayarovich/onflip-agent",
+    "stars": 4,
+    "updated_at": "2026-10-05T07:38:06Z",
+    "url": "https://github.com/khudayarovich/onflip-agent"
   },
   {
     "description": "Hardware-procurement & asset-lifecycle SCM with an AI decision layer: should-cost, TCO/TSCMC, and an LLM copilot that ad",
@@ -14,8 +41,17 @@
     "language": "Python",
     "name": "eugnmueller-87/SCM-Master",
     "stars": 0,
-    "updated_at": "2026-10-05T07:26:43Z",
+    "updated_at": "2026-10-05T07:31:37Z",
     "url": "https://github.com/eugnmueller-87/SCM-Master"
+  },
+  {
+    "description": "Autonomous red-team agent for MCP servers: recon\u2192hypothesis\u2192attack\u2192verify\u2192report, grounded anti-hallucination evidence, ",
+    "id": "AKArrok/McPwn",
+    "language": "Python",
+    "name": "AKArrok/McPwn",
+    "stars": 0,
+    "updated_at": "2026-10-05T07:30:37Z",
+    "url": "https://github.com/AKArrok/McPwn"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
@@ -41,7 +77,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-05T07:21:34Z",
+    "updated_at": "2026-10-05T07:32:54Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -58,7 +94,7 @@
     "id": "Soodok/Deepseek-Harness-Local-Android",
     "language": "Kotlin",
     "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 86,
+    "stars": 87,
     "updated_at": "2026-10-05T07:16:50Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
@@ -86,7 +122,7 @@
     "language": "Python",
     "name": "IAmNo1Special/mvgeos",
     "stars": 1,
-    "updated_at": "2026-10-05T07:26:37Z",
+    "updated_at": "2026-10-05T07:39:11Z",
     "url": "https://github.com/IAmNo1Special/mvgeos"
   },
   {
@@ -97,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-10-05T07:09:32Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
-    "description": "Claude plays Factorio via FLE (Lua/RCON bridge, Docker)",
-    "id": "nulljosh/conveyer",
-    "language": "Python",
-    "name": "nulljosh/conveyer",
-    "stars": 0,
-    "updated_at": "2026-10-05T07:05:45Z",
-    "url": "https://github.com/nulljosh/conveyer"
   },
   {
     "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
@@ -167,7 +194,7 @@
     "language": "Java",
     "name": "kangwoo/aimon-core",
     "stars": 0,
-    "updated_at": "2026-10-05T07:25:59Z",
+    "updated_at": "2026-10-05T07:44:53Z",
     "url": "https://github.com/kangwoo/aimon-core"
   },
   {
@@ -176,7 +203,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-10-05T06:58:35Z",
+    "updated_at": "2026-10-05T07:33:19Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -351,15 +378,6 @@
     "url": "https://github.com/EpsteinF1les/tts"
   },
   {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 1,
-    "updated_at": "2026-10-05T07:22:19Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
     "description": "Gestor ag\u00e9ntico de modelos llm",
     "id": "bondwell79/hercules",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-05T06:02:28Z",
     "url": "https://github.com/kashyaprajharsh/medha-agent"
-  },
-  {
-    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
-    "id": "oxidizable-malinois605/bridge-suite-mcp",
-    "language": "TypeScript",
-    "name": "oxidizable-malinois605/bridge-suite-mcp",
-    "stars": 0,
-    "updated_at": "2026-10-05T06:02:15Z",
-    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
-  },
-  {
-    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
-    "id": "Arjunadh5305/ios-skills-collection",
-    "language": "\u2014",
-    "name": "Arjunadh5305/ios-skills-collection",
-    "stars": 1,
-    "updated_at": "2026-10-05T06:02:13Z",
-    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
   }
 ]
