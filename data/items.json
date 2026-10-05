@@ -1,5 +1,68 @@
 [
   {
+    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
+    "id": "muhzars/Agent.cpp",
+    "language": "C++",
+    "name": "muhzars/Agent.cpp",
+    "stars": 1,
+    "updated_at": "2026-10-05T10:43:08Z",
+    "url": "https://github.com/muhzars/Agent.cpp"
+  },
+  {
+    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
+    "id": "IAmNo1Special/mvgeos",
+    "language": "Python",
+    "name": "IAmNo1Special/mvgeos",
+    "stars": 1,
+    "updated_at": "2026-10-05T10:42:27Z",
+    "url": "https://github.com/IAmNo1Special/mvgeos"
+  },
+  {
+    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
+    "id": "faheela-786/ComfyUI-qwenmultiangle",
+    "language": "\u2014",
+    "name": "faheela-786/ComfyUI-qwenmultiangle",
+    "stars": 2,
+    "updated_at": "2026-10-05T10:40:41Z",
+    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
+  },
+  {
+    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
+    "id": "amineeng/scraping-browser",
+    "language": "\u2014",
+    "name": "amineeng/scraping-browser",
+    "stars": 1,
+    "updated_at": "2026-10-05T10:39:19Z",
+    "url": "https://github.com/amineeng/scraping-browser"
+  },
+  {
+    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
+    "id": "Saran1536/ComfyUI-LoaderUtils",
+    "language": "Python",
+    "name": "Saran1536/ComfyUI-LoaderUtils",
+    "stars": 1,
+    "updated_at": "2026-10-05T10:36:56Z",
+    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-10-05T10:35:44Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "sid-code \u4e0e claude-trace \u5171\u540c\u9762\u5bf9\u7684\u4f01\u4e1a\u7ea7\u540e\u7aef\uff1a\u63a7\u5236\u9762\uff08policy / flag / \u8eab\u4efd\uff09\u4e0e\u6570\u636e\u9762\uff08\u8f68\u8ff9 / \u4e8b\u4ef6\uff09\u540c\u4ed3\u3001\u9274\u6743\u9694\u79bb\u3002\u5df2\u4ea4\u4ed8\u8f68\u8ff9\u5b58\u50a8\u4e0e\u5206\u6790\uff0c\u5176\u4f59\u6a21\u5757\u6309\u91cc\u7a0b\u7891\u8fed\u4ee3",
+    "id": "njfuzrs/agent-backend",
+    "language": "Python",
+    "name": "njfuzrs/agent-backend",
+    "stars": 0,
+    "updated_at": "2026-10-05T10:34:29Z",
+    "url": "https://github.com/njfuzrs/agent-backend"
+  },
+  {
     "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
     "id": "Amri854/obsidian-mcp-server",
     "language": "TypeScript",
@@ -68,7 +131,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4444,
-    "updated_at": "2026-10-05T10:24:19Z",
+    "updated_at": "2026-10-05T10:42:29Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -86,7 +149,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 1,
-    "updated_at": "2026-10-05T10:14:59Z",
+    "updated_at": "2026-10-05T10:38:34Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -94,7 +157,7 @@
     "id": "Soodok/Deepseek-Harness-Local-Android",
     "language": "Kotlin",
     "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 91,
+    "stars": 92,
     "updated_at": "2026-10-05T10:14:38Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
@@ -133,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-05T10:04:19Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
-    "id": "IAmNo1Special/mvgeos",
-    "language": "Python",
-    "name": "IAmNo1Special/mvgeos",
-    "stars": 1,
-    "updated_at": "2026-10-05T10:25:05Z",
-    "url": "https://github.com/IAmNo1Special/mvgeos"
   },
   {
     "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-05T09:01:22Z",
     "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-10-05T08:58:55Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-10-05T08:58:34Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-10-05T08:57:01Z",
-    "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-10-05T08:56:32Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
-    "id": "ximing/vital",
-    "language": "TypeScript",
-    "name": "ximing/vital",
-    "stars": 3,
-    "updated_at": "2026-10-05T09:03:25Z",
-    "url": "https://github.com/ximing/vital"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-10-05T08:55:29Z",
-    "url": "https://github.com/lukky262/ARE"
   }
 ]
