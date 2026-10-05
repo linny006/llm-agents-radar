@@ -1,12 +1,120 @@
 [
   {
+    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
+    "id": "IAmNo1Special/mvgeos",
+    "language": "Python",
+    "name": "IAmNo1Special/mvgeos",
+    "stars": 1,
+    "updated_at": "2026-10-05T13:15:01Z",
+    "url": "https://github.com/IAmNo1Special/mvgeos"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 20,
+    "updated_at": "2026-10-05T13:14:35Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
     "description": "Vibe Building: a deterministic physics engine, not a language model, decides whether a building design is accepted.",
-    "id": "Jovanqing/vibe-building",
+    "id": "Jovanqing/Vibe-Building",
     "language": "\u2014",
-    "name": "Jovanqing/vibe-building",
+    "name": "Jovanqing/Vibe-Building",
     "stars": 0,
-    "updated_at": "2026-10-05T12:58:16Z",
-    "url": "https://github.com/Jovanqing/vibe-building"
+    "updated_at": "2026-10-05T13:10:16Z",
+    "url": "https://github.com/Jovanqing/Vibe-Building"
+  },
+  {
+    "description": "Autonomous red-team agent for MCP servers: recon\u2192hypothesis\u2192attack\u2192verify\u2192report, grounded anti-hallucination evidence, ",
+    "id": "AKArrok/McPwn",
+    "language": "Python",
+    "name": "AKArrok/McPwn",
+    "stars": 0,
+    "updated_at": "2026-10-05T13:08:54Z",
+    "url": "https://github.com/AKArrok/McPwn"
+  },
+  {
+    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
+    "id": "eshanized/M31A",
+    "language": "Rust",
+    "name": "eshanized/M31A",
+    "stars": 10,
+    "updated_at": "2026-10-05T13:07:51Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-05T13:07:29Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "LLM \u6570\u636e\u5206\u6790\u5de5\u4f5c\u53f0\uff1a\u4e0a\u4f20\u6570\u636e\u96c6\u81ea\u52a8\u5b8c\u6210\u6e05\u6d17\u3001\u7edf\u8ba1\u5206\u6790\u3001\u53ef\u89c6\u5316\u4e0e\u62a5\u544a\uff1b\u53d7\u63a7\u5de5\u5177\u96c6 + \u53ea\u8bfb SQL\uff08SQLite / PostgreSQL\uff09\u00b7 MCP \u6570\u636e\u9762 \u00b7 Plotly + ECharts \u53cc\u5f15\u64ce \u00b7 FastAPI + Reac",
+    "id": "xiaomaozjj666/data-analysis-agent",
+    "language": "Python",
+    "name": "xiaomaozjj666/data-analysis-agent",
+    "stars": 1,
+    "updated_at": "2026-10-05T13:06:40Z",
+    "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
+  },
+  {
+    "description": " An opinionated list of awesome Pydantic-AI frameworks, libraries, software and resources. ",
+    "id": "vstorm-co/awesome-pydantic-ai",
+    "language": "\u2014",
+    "name": "vstorm-co/awesome-pydantic-ai",
+    "stars": 106,
+    "updated_at": "2026-10-05T13:05:31Z",
+    "url": "https://github.com/vstorm-co/awesome-pydantic-ai"
+  },
+  {
+    "description": "PRD-to-Rust pipeline: a Claude Code skill + companion binary that ship code only when 7 digest-bound receipts agree",
+    "id": "j0yen/autobuilder",
+    "language": "Rust",
+    "name": "j0yen/autobuilder",
+    "stars": 0,
+    "updated_at": "2026-10-05T13:05:06Z",
+    "url": "https://github.com/j0yen/autobuilder"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-05T13:04:11Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "TypeScript",
+    "name": "dsswift/ion",
+    "stars": 3,
+    "updated_at": "2026-10-05T13:03:30Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "tmux for coding agents. Run AI coding agents side by side in tabs.",
+    "id": "mmoehabb/maestro",
+    "language": "Go",
+    "name": "mmoehabb/maestro",
+    "stars": 0,
+    "updated_at": "2026-10-05T13:10:43Z",
+    "url": "https://github.com/mmoehabb/maestro"
+  },
+  {
+    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
+    "id": "AceGuru-mjh/Android-Guru-Agent",
+    "language": "Kotlin",
+    "name": "AceGuru-mjh/Android-Guru-Agent",
+    "stars": 5,
+    "updated_at": "2026-10-05T13:00:52Z",
+    "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent"
   },
   {
     "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
@@ -41,7 +149,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4445,
-    "updated_at": "2026-10-05T12:57:12Z",
+    "updated_at": "2026-10-05T13:13:19Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -50,7 +158,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-10-05T12:48:11Z",
+    "updated_at": "2026-10-05T13:13:44Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -126,15 +234,6 @@
     "url": "https://github.com/memoways/ava-proto1"
   },
   {
-    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
-    "id": "AceGuru-mjh/Android-Guru-Agent",
-    "language": "Kotlin",
-    "name": "AceGuru-mjh/Android-Guru-Agent",
-    "stars": 4,
-    "updated_at": "2026-10-05T12:38:38Z",
-    "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent"
-  },
-  {
     "description": "The LLM Anti-Framework",
     "id": "Mirascope/mirascope",
     "language": "Python",
@@ -180,15 +279,6 @@
     "url": "https://github.com/khudayarovich/onflip-agent"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-05T12:06:27Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -216,24 +306,6 @@
     "url": "https://github.com/langroid/langroid"
   },
   {
-    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
-    "id": "eshanized/M31A",
-    "language": "Rust",
-    "name": "eshanized/M31A",
-    "stars": 10,
-    "updated_at": "2026-10-05T11:40:00Z",
-    "url": "https://github.com/eshanized/M31A"
-  },
-  {
-    "description": "LLM \u6570\u636e\u5206\u6790\u5de5\u4f5c\u53f0\uff1a\u4e0a\u4f20\u6570\u636e\u96c6\u81ea\u52a8\u5b8c\u6210\u6e05\u6d17\u3001\u7edf\u8ba1\u5206\u6790\u3001\u53ef\u89c6\u5316\u4e0e\u62a5\u544a\uff1b\u53d7\u63a7\u5de5\u5177\u96c6 + \u53ea\u8bfb SQL\uff08SQLite / PostgreSQL\uff09\u00b7 MCP \u6570\u636e\u9762 \u00b7 Plotly + ECharts \u53cc\u5f15\u64ce \u00b7 FastAPI + Reac",
-    "id": "xiaomaozjj666/data-analysis-agent",
-    "language": "Python",
-    "name": "xiaomaozjj666/data-analysis-agent",
-    "stars": 1,
-    "updated_at": "2026-10-05T11:42:17Z",
-    "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
-  },
-  {
     "description": "RAG assistant for AML/KYC compliance (FATF, Wolfsberg, CBAR) with citation-linked answers, a tool-calling agent and RAGA",
     "id": "emiliaismailova3/aml-kyc-rag-assistant",
     "language": "Python",
@@ -250,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-10-05T11:37:10Z",
     "url": "https://github.com/hccccc01333/game-user-insights-agent"
-  },
-  {
-    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
-    "id": "IAmNo1Special/mvgeos",
-    "language": "Python",
-    "name": "IAmNo1Special/mvgeos",
-    "stars": 1,
-    "updated_at": "2026-10-05T12:53:19Z",
-    "url": "https://github.com/IAmNo1Special/mvgeos"
   },
   {
     "description": "A production-grade Multi-Vendor Food Delivery Platform with AI Chatbot (Groq LLM), Real-Time GPS Tracking (Socket.io), B",
@@ -378,15 +441,6 @@
     "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
   },
   {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 20,
-    "updated_at": "2026-10-05T12:59:10Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
     "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
     "language": "\u2014",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-05T10:57:14Z",
     "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "\u53d7\u7ea6\u675f\u7684 A \u80a1\u6a21\u62df\u4ea4\u6613 Agent Runtime\uff1aLLM \u53ea\u8bfb\u63d0\u6848 \u2192 \u786e\u5b9a\u6027\u98ce\u63a7\u95e8 \u2192 \u4eba\u5de5\u5ba1\u6279 \u2192 \u5e42\u7b49\u6267\u884c \u2192 \u4e8b\u4ef6\u6eaf\u6e90\u5ba1\u8ba1",
-    "id": "happiness-cheng/ai-trader",
-    "language": "Python",
-    "name": "happiness-cheng/ai-trader",
-    "stars": 3,
-    "updated_at": "2026-10-05T10:55:20Z",
-    "url": "https://github.com/happiness-cheng/ai-trader"
-  },
-  {
-    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
-    "id": "HELLOCODINGTR/AgentForge",
-    "language": "\u2014",
-    "name": "HELLOCODINGTR/AgentForge",
-    "stars": 1,
-    "updated_at": "2026-10-05T10:53:37Z",
-    "url": "https://github.com/HELLOCODINGTR/AgentForge"
-  },
-  {
-    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
-    "id": "strobilevitellus470/argus-ai",
-    "language": "Python",
-    "name": "strobilevitellus470/argus-ai",
-    "stars": 1,
-    "updated_at": "2026-10-05T10:52:56Z",
-    "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-10-05T10:50:28Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-10-05T10:50:06Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-10-05T10:48:38Z",
-    "url": "https://github.com/heba-ramdan/harness"
   }
 ]
