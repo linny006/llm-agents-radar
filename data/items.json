@@ -1,11 +1,128 @@
 [
   {
+    "description": "Agente con tool-calling real (API de OpenAI) sobre operaciones mineras: consultas SQL a DuckDB, scoring de riesgo credit",
+    "id": "Rxyxs/chile-mining-ops-agent",
+    "language": "Python",
+    "name": "Rxyxs/chile-mining-ops-agent",
+    "stars": 0,
+    "updated_at": "2026-10-05T20:53:03Z",
+    "url": "https://github.com/Rxyxs/chile-mining-ops-agent"
+  },
+  {
+    "description": "Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into",
+    "id": "AskTheWay/dsh-auto-memory",
+    "language": "TypeScript",
+    "name": "AskTheWay/dsh-auto-memory",
+    "stars": 89,
+    "updated_at": "2026-10-05T20:51:19Z",
+    "url": "https://github.com/AskTheWay/dsh-auto-memory"
+  },
+  {
+    "description": "\u628a\u957f\u7bc7\u5c0f\u8bf4\u5199\u4f5c\u5f53\u4f5c\u5de5\u7a0b\u7ba1\u7406\u7684\u672c\u5730\u684c\u9762\u667a\u80fd\u4f53\uff1a\u771f\u5b9e\u5b57\u6570\u95e8\u7981\u3001\u65ad\u70b9\u6062\u590d\u3001\u6587\u4ef6\u5373\u9879\u76ee\uff0c\u6570\u636e\u4e0d\u51fa\u7535\u8111\u3002A local-first desktop agent that manages long-form novel writing like an ",
+    "id": "wh520-wh/wwriting-novel-agent",
+    "language": "JavaScript",
+    "name": "wh520-wh/wwriting-novel-agent",
+    "stars": 0,
+    "updated_at": "2026-10-05T20:49:28Z",
+    "url": "https://github.com/wh520-wh/wwriting-novel-agent"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-05T20:48:10Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-10-05T20:46:52Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
+    "id": "wufufu770/d2d",
+    "language": "JavaScript",
+    "name": "wufufu770/d2d",
+    "stars": 4,
+    "updated_at": "2026-10-05T20:44:47Z",
+    "url": "https://github.com/wufufu770/d2d"
+  },
+  {
+    "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
+    "id": "jack-h-park/pm-intelligence-engine",
+    "language": "Python",
+    "name": "jack-h-park/pm-intelligence-engine",
+    "stars": 0,
+    "updated_at": "2026-10-05T20:40:28Z",
+    "url": "https://github.com/jack-h-park/pm-intelligence-engine"
+  },
+  {
+    "description": "Auditable AI data-analysis agent exploring semantic routing, clarification and safe Text-to-SQL workflows.",
+    "id": "hzdzx2003-ai/DataQuery-Agent",
+    "language": "Python",
+    "name": "hzdzx2003-ai/DataQuery-Agent",
+    "stars": 0,
+    "updated_at": "2026-10-05T20:36:49Z",
+    "url": "https://github.com/hzdzx2003-ai/DataQuery-Agent"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-05T20:37:45Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 4,
+    "updated_at": "2026-10-05T20:30:35Z",
+    "url": "https://github.com/plurnk/plurnk"
+  },
+  {
+    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
+    "id": "xieguigang/sciBASIC",
+    "language": "Visual Basic .NET",
+    "name": "xieguigang/sciBASIC",
+    "stars": 78,
+    "updated_at": "2026-10-05T20:26:11Z",
+    "url": "https://github.com/xieguigang/sciBASIC"
+  },
+  {
+    "description": "Verify area values quickly with this web-based HTML calculator tool.",
+    "id": "passive-hotpepper515/area-checker-html-tool",
+    "language": "HTML",
+    "name": "passive-hotpepper515/area-checker-html-tool",
+    "stars": 0,
+    "updated_at": "2026-10-05T20:23:38Z",
+    "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
+  },
+  {
+    "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
+    "id": "Blondieredistributed612/pocket-agent",
+    "language": "Python",
+    "name": "Blondieredistributed612/pocket-agent",
+    "stars": 2,
+    "updated_at": "2026-10-05T20:22:30Z",
+    "url": "https://github.com/Blondieredistributed612/pocket-agent"
+  },
+  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-05T20:20:18Z",
+    "updated_at": "2026-10-05T20:28:27Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -90,15 +207,6 @@
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
-    "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
-    "id": "jack-h-park/pm-intelligence-engine",
-    "language": "Python",
-    "name": "jack-h-park/pm-intelligence-engine",
-    "stars": 0,
-    "updated_at": "2026-10-05T20:17:20Z",
-    "url": "https://github.com/jack-h-park/pm-intelligence-engine"
-  },
-  {
     "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
     "id": "HELLOCODINGTR/AgentForge",
     "language": "\u2014",
@@ -158,7 +266,7 @@
     "language": "Python",
     "name": "nulljosh/conveyer",
     "stars": 0,
-    "updated_at": "2026-10-05T20:08:54Z",
+    "updated_at": "2026-10-05T20:40:35Z",
     "url": "https://github.com/nulljosh/conveyer"
   },
   {
@@ -207,6 +315,15 @@
     "url": "https://github.com/Moxxkidd/foam"
   },
   {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 318,
+    "updated_at": "2026-10-05T20:00:12Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
     "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
     "id": "muhzars/Agent.cpp",
     "language": "C++",
@@ -223,15 +340,6 @@
     "stars": 2,
     "updated_at": "2026-10-05T19:57:40Z",
     "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
-  },
-  {
-    "description": "Auditable AI data-analysis agent exploring semantic routing, clarification and safe Text-to-SQL workflows.",
-    "id": "hzdzx2003-ai/DataQuery-Agent",
-    "language": "Python",
-    "name": "hzdzx2003-ai/DataQuery-Agent",
-    "stars": 0,
-    "updated_at": "2026-10-05T19:56:56Z",
-    "url": "https://github.com/hzdzx2003-ai/DataQuery-Agent"
   },
   {
     "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
@@ -266,7 +374,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 8675,
-    "updated_at": "2026-10-05T20:02:02Z",
+    "updated_at": "2026-10-05T20:52:13Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -324,21 +432,12 @@
     "url": "https://github.com/eshanized/M31A"
   },
   {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 316,
-    "updated_at": "2026-10-05T20:00:12Z",
-    "url": "https://github.com/yologdev/yoagent"
-  },
-  {
     "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
     "id": "cheeezis/job_finder",
     "language": "Python",
     "name": "cheeezis/job_finder",
     "stars": 0,
-    "updated_at": "2026-10-05T19:14:58Z",
+    "updated_at": "2026-10-05T20:43:11Z",
     "url": "https://github.com/cheeezis/job_finder"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-05T19:04:15Z",
     "url": "https://github.com/xiaomaozjj666/web-crawler"
-  },
-  {
-    "description": "Shared AI agents for teams: one agent per channel, with memory, connected apps and approvals. Open source and self-hosta",
-    "id": "janakrathi/Teamski",
-    "language": "TypeScript",
-    "name": "janakrathi/Teamski",
-    "stars": 4,
-    "updated_at": "2026-10-05T19:03:19Z",
-    "url": "https://github.com/janakrathi/Teamski"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-05T19:01:18Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "Autonomous LLM agent that investigates Microsoft Defender XDR and Sentinel alerts, with a Training Lab benchmark of 14 k",
-    "id": "Aretea-Group/isophase",
-    "language": "TypeScript",
-    "name": "Aretea-Group/isophase",
-    "stars": 2,
-    "updated_at": "2026-10-05T18:58:52Z",
-    "url": "https://github.com/Aretea-Group/isophase"
-  },
-  {
-    "description": "Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into",
-    "id": "AskTheWay/dsh-auto-memory",
-    "language": "TypeScript",
-    "name": "AskTheWay/dsh-auto-memory",
-    "stars": 89,
-    "updated_at": "2026-10-05T18:58:05Z",
-    "url": "https://github.com/AskTheWay/dsh-auto-memory"
-  },
-  {
-    "description": "\u5e26\u7b56\u7565\u9a8c\u8bc1\u7684 A \u80a1 LLM \u5206\u6790\u7cfb\u7edf \u2014\u2014 \u591a\u6e90\u964d\u7ea7 + \u5b9a\u65f6\u4efb\u52a1 + \u591a\u901a\u9053\u63a8\u9001\uff1b\u6838\u5fc3\u589e\u91cf\u662f\u53ef\u8bc1\u4f2a\u7684\u56de\u6d4b\u4e0e\u9a8c\u8bc1\u5c42\uff08\u672a\u6765\u51fd\u6570\u63a2\u6d4b / \u6837\u672c\u5185\u5916\u5207\u5206 / t\u68c0\u9a8c / \u57fa\u51c6\u5bf9\u6bd4\uff09",
-    "id": "AandBorC/dsa-lite",
-    "language": "Python",
-    "name": "AandBorC/dsa-lite",
-    "stars": 0,
-    "updated_at": "2026-10-05T18:53:44Z",
-    "url": "https://github.com/AandBorC/dsa-lite"
-  },
-  {
-    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
-    "id": "KaletoAI/anima-verse",
-    "language": "Python",
-    "name": "KaletoAI/anima-verse",
-    "stars": 4,
-    "updated_at": "2026-10-05T18:38:52Z",
-    "url": "https://github.com/KaletoAI/anima-verse"
-  },
-  {
-    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
-    "id": "expectedparrot/edsl",
-    "language": "Python",
-    "name": "expectedparrot/edsl",
-    "stars": 502,
-    "updated_at": "2026-10-05T18:30:02Z",
-    "url": "https://github.com/expectedparrot/edsl"
-  },
-  {
-    "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 280,
-    "updated_at": "2026-10-05T18:19:28Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-10-05T18:15:44Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 129,
-    "updated_at": "2026-10-05T18:13:54Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "Bodhi \u2014 a local-first AI agent workbench in Rust: desktop app, Bamboo runtime, Jiandu shared memory, Nova computer use a",
-    "id": "bigduu/Zenith",
-    "language": "JavaScript",
-    "name": "bigduu/Zenith",
-    "stars": 6,
-    "updated_at": "2026-10-05T18:11:36Z",
-    "url": "https://github.com/bigduu/Zenith"
   }
 ]
