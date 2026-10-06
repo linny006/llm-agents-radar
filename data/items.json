@@ -1,12 +1,12 @@
 [
   {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
+    "description": "Voyager \u00d7 VLML \u00d7 \u732b\u5a18\u4f34\u5b66\uff1a\u628a\u300c\u5b66\u4e60\u8005\u300d\u6362\u6210 agent \u7684\u6700\u5c0f\u53ef\u6267\u884c\u539f\u578b\uff08\u9762\u677f\u5df2\u4e0a\u817e\u8baf\u4e91\uff09",
+    "id": "Zxy876/voyager-vlml-mve",
     "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3513,
-    "updated_at": "2026-10-06T14:44:23Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
+    "name": "Zxy876/voyager-vlml-mve",
+    "stars": 0,
+    "updated_at": "2026-10-06T14:59:20Z",
+    "url": "https://github.com/Zxy876/voyager-vlml-mve"
   },
   {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
@@ -14,7 +14,7 @@
     "language": "Python",
     "name": "genaforvena/mishe-tauftauf",
     "stars": 1,
-    "updated_at": "2026-10-06T14:44:07Z",
+    "updated_at": "2026-10-06T14:59:16Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
@@ -23,8 +23,80 @@
     "language": "Go",
     "name": "mmoehabb/maestro",
     "stars": 0,
-    "updated_at": "2026-10-06T14:45:05Z",
+    "updated_at": "2026-10-06T14:57:36Z",
     "url": "https://github.com/mmoehabb/maestro"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 129,
+    "updated_at": "2026-10-06T14:57:35Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-06T14:59:03Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "TypeScript",
+    "name": "dsswift/ion",
+    "stars": 3,
+    "updated_at": "2026-10-06T14:53:51Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
+    "id": "anchor-inference/daedalus",
+    "language": "Python",
+    "name": "anchor-inference/daedalus",
+    "stars": 1,
+    "updated_at": "2026-10-06T14:53:41Z",
+    "url": "https://github.com/anchor-inference/daedalus"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8690,
+    "updated_at": "2026-10-06T14:53:23Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 281,
+    "updated_at": "2026-10-06T14:52:07Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "A gaming-community user-insights agent: publicly observable behavioral traces -> five-dim features -> activity/migration",
+    "id": "hccccc01333/game-user-insights-agent",
+    "language": "Python",
+    "name": "hccccc01333/game-user-insights-agent",
+    "stars": 0,
+    "updated_at": "2026-10-06T14:50:57Z",
+    "url": "https://github.com/hccccc01333/game-user-insights-agent"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3513,
+    "updated_at": "2026-10-06T14:46:44Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
@@ -90,15 +162,6 @@
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-06T14:17:50Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
     "description": "Coding agent that plans, changes, tests and reviews, and touches your files only when you approve. Windows, macOS, Linux",
     "id": "huynvic/albertcode-swe-agent",
     "language": "Shell",
@@ -126,15 +189,6 @@
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "TypeScript",
-    "name": "dsswift/ion",
-    "stars": 3,
-    "updated_at": "2026-10-06T14:12:09Z",
-    "url": "https://github.com/dsswift/ion"
-  },
-  {
     "description": "AI-assisted music production pipeline: LLM agent + Python DSP tools for recording prep, mixing, mastering, and analysis",
     "id": "cseti007/music-studio-agent",
     "language": "Python",
@@ -149,7 +203,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-06T14:41:41Z",
+    "updated_at": "2026-10-06T14:57:57Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -225,15 +279,6 @@
     "url": "https://github.com/edjafarov/kiagent-core"
   },
   {
-    "description": "Voyager \u00d7 VLML \u00d7 \u732b\u5a18\u4f34\u5b66\uff1a\u628a\u300c\u5b66\u4e60\u8005\u300d\u6362\u6210 agent \u7684\u6700\u5c0f\u53ef\u6267\u884c\u539f\u578b\uff08\u9762\u677f\u5df2\u4e0a\u817e\u8baf\u4e91\uff09",
-    "id": "Zxy876/voyager-vlml-mve",
-    "language": "Python",
-    "name": "Zxy876/voyager-vlml-mve",
-    "stars": 0,
-    "updated_at": "2026-10-06T13:35:11Z",
-    "url": "https://github.com/Zxy876/voyager-vlml-mve"
-  },
-  {
     "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
     "id": "expectedparrot/edsl",
     "language": "Python",
@@ -284,7 +329,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-10-06T14:08:46Z",
+    "updated_at": "2026-10-06T14:48:45Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 11,
     "updated_at": "2026-10-06T13:11:55Z",
     "url": "https://github.com/Bastioned-successor320/learn-nanobot"
-  },
-  {
-    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
-    "id": "tessellated-statisticalcommission243/deep-research-skill",
-    "language": "\u2014",
-    "name": "tessellated-statisticalcommission243/deep-research-skill",
-    "stars": 3,
-    "updated_at": "2026-10-06T13:11:45Z",
-    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
-    "id": "chadwickhyperboloidal943/knowl",
-    "language": "TypeScript",
-    "name": "chadwickhyperboloidal943/knowl",
-    "stars": 0,
-    "updated_at": "2026-10-06T13:07:42Z",
-    "url": "https://github.com/chadwickhyperboloidal943/knowl"
-  },
-  {
-    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
-    "id": "Laurenfeminine36/google-jules-skill",
-    "language": "Python",
-    "name": "Laurenfeminine36/google-jules-skill",
-    "stars": 1,
-    "updated_at": "2026-10-06T13:07:30Z",
-    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-10-06T13:07:20Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-10-06T13:05:03Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
   }
 ]
