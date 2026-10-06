@@ -1,5 +1,50 @@
 [
   {
+    "description": "DeepSeek Harness na Androidzie w jednym APK, bez Termuxa i roota, z polskim interfejsem i kompletem narz\u0119dzi programisty",
+    "id": "gangg111/DeepSeek-Harness-Mobile",
+    "language": "JavaScript",
+    "name": "gangg111/DeepSeek-Harness-Mobile",
+    "stars": 0,
+    "updated_at": "2026-10-06T21:59:24Z",
+    "url": "https://github.com/gangg111/DeepSeek-Harness-Mobile"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 326,
+    "updated_at": "2026-10-06T21:50:56Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
+    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
+    "id": "eshanized/M31A",
+    "language": "Rust",
+    "name": "eshanized/M31A",
+    "stars": 10,
+    "updated_at": "2026-10-06T21:50:40Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 2,
+    "updated_at": "2026-10-06T21:47:20Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "This is a health based project. NutriAI is a personal AI nutrition expert powered by IBM Watsonx.ai (Granite). API Keys,",
+    "id": "Mayukh-Bhattacharyya/NutriAI---Nutrition-Agent",
+    "language": "HTML",
+    "name": "Mayukh-Bhattacharyya/NutriAI---Nutrition-Agent",
+    "stars": 1,
+    "updated_at": "2026-10-06T21:47:20Z",
+    "url": "https://github.com/Mayukh-Bhattacharyya/NutriAI---Nutrition-Agent"
+  },
+  {
     "description": "Bodhi \u2014 a local-first AI agent workbench in Rust: desktop app, Bamboo runtime, Jiandu shared memory, Nova computer use a",
     "id": "bigduu/Zenith",
     "language": "JavaScript",
@@ -41,7 +86,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-06T21:37:37Z",
+    "updated_at": "2026-10-06T21:45:58Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -79,15 +124,6 @@
     "stars": 11,
     "updated_at": "2026-10-06T21:25:58Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 2,
-    "updated_at": "2026-10-06T21:18:30Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "Label-driven orchestrator that routes work to different sub-agents based on labels and keeps looping until all automated",
@@ -162,15 +198,6 @@
     "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 326,
-    "updated_at": "2026-10-06T21:42:45Z",
-    "url": "https://github.com/yologdev/yoagent"
-  },
-  {
     "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
     "id": "feder-cr/dots",
     "language": "Python",
@@ -216,21 +243,12 @@
     "url": "https://github.com/NevilleChristensen2637/checkout-agent-failure-ledger-agent-run-telemetry-ecommerce-"
   },
   {
-    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
-    "id": "eshanized/M31A",
-    "language": "Rust",
-    "name": "eshanized/M31A",
-    "stars": 10,
-    "updated_at": "2026-10-06T20:25:45Z",
-    "url": "https://github.com/eshanized/M31A"
-  },
-  {
     "description": "Tauri desktop shell for the local-first Bodhi agent: manages Bamboo startup/reuse and health; packaged builds open the B",
     "id": "bigduu/Bodhi-AI",
     "language": "JavaScript",
     "name": "bigduu/Bodhi-AI",
     "stars": 17,
-    "updated_at": "2026-10-06T20:25:21Z",
+    "updated_at": "2026-10-06T21:46:09Z",
     "url": "https://github.com/bigduu/Bodhi-AI"
   },
   {
@@ -306,15 +324,6 @@
     "url": "https://github.com/agent-axiom/agent-arch"
   },
   {
-    "description": "DeepSeek Harness na Androidzie w jednym APK, bez Termuxa i roota, z polskim interfejsem i kompletem narz\u0119dzi programisty",
-    "id": "gangg111/DeepSeek-Harness-Mobile",
-    "language": "JavaScript",
-    "name": "gangg111/DeepSeek-Harness-Mobile",
-    "stars": 0,
-    "updated_at": "2026-10-06T19:39:05Z",
-    "url": "https://github.com/gangg111/DeepSeek-Harness-Mobile"
-  },
-  {
     "description": "Control AI agents anywhere. (github mirror)",
     "id": "justacalico/devinorium",
     "language": "Dart",
@@ -338,7 +347,7 @@
     "language": "TypeScript",
     "name": "dsswift/ion",
     "stars": 3,
-    "updated_at": "2026-10-06T19:28:19Z",
+    "updated_at": "2026-10-06T22:00:14Z",
     "url": "https://github.com/dsswift/ion"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 28,
     "updated_at": "2026-10-06T18:24:54Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "Open source AI agent for macOS (MIT). One Command Panel for your mail, calendar, meetings, files and a shell it can undo",
-    "id": "dotcomjack/grux",
-    "language": "Swift",
-    "name": "dotcomjack/grux",
-    "stars": 30,
-    "updated_at": "2026-10-06T18:19:34Z",
-    "url": "https://github.com/dotcomjack/grux"
   }
 ]
