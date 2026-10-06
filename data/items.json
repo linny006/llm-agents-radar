@@ -1,5 +1,14 @@
 [
   {
+    "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
+    "id": "cheeezis/job_finder",
+    "language": "Python",
+    "name": "cheeezis/job_finder",
+    "stars": 0,
+    "updated_at": "2026-10-06T20:58:29Z",
+    "url": "https://github.com/cheeezis/job_finder"
+  },
+  {
     "description": "Production-grade hybrid Model Context Protocol (MCP) ecosystem featuring 4 FastMCP servers (2 Local stdio + 2 Remote SSE",
     "id": "yashsham/lifeflow-mcp",
     "language": "Python",
@@ -32,7 +41,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-06T20:51:43Z",
+    "updated_at": "2026-10-06T20:57:53Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -43,6 +52,15 @@
     "stars": 326,
     "updated_at": "2026-10-06T20:50:00Z",
     "url": "https://github.com/yologdev/yoagent"
+  },
+  {
+    "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+    "id": "feder-cr/dots",
+    "language": "Python",
+    "name": "feder-cr/dots",
+    "stars": 2632,
+    "updated_at": "2026-10-06T20:45:28Z",
+    "url": "https://github.com/feder-cr/dots"
   },
   {
     "description": "Unified multi-engine web search plugin for DeepSeek Harness: one plugin, three engines (Exa / Tavily / Firecrawl), three",
@@ -142,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-10-06T20:21:30Z",
     "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
-    "id": "cheeezis/job_finder",
-    "language": "Python",
-    "name": "cheeezis/job_finder",
-    "stars": 0,
-    "updated_at": "2026-10-06T20:52:34Z",
-    "url": "https://github.com/cheeezis/job_finder"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-06T17:45:21Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
-    "id": "watchcat/scout",
-    "language": "Rust",
-    "name": "watchcat/scout",
-    "stars": 0,
-    "updated_at": "2026-10-06T17:33:21Z",
-    "url": "https://github.com/watchcat/scout"
   }
 ]
