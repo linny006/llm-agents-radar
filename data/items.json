@@ -1,5 +1,23 @@
 [
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8677,
+    "updated_at": "2026-10-05T23:59:25Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
+    "id": "denisotree/veles",
+    "language": "Python",
+    "name": "denisotree/veles",
+    "stars": 4,
+    "updated_at": "2026-10-05T23:46:03Z",
+    "url": "https://github.com/denisotree/veles"
+  },
+  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -34,15 +52,6 @@
     "stars": 2,
     "updated_at": "2026-10-05T23:28:47Z",
     "url": "https://github.com/christianOrona/wtfault-scanner"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8676,
-    "updated_at": "2026-10-05T23:23:26Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
@@ -121,7 +130,7 @@
     "id": "yologdev/yoagent",
     "language": "Rust",
     "name": "yologdev/yoagent",
-    "stars": 319,
+    "stars": 320,
     "updated_at": "2026-10-05T22:36:25Z",
     "url": "https://github.com/yologdev/yoagent"
   },
@@ -230,7 +239,7 @@
     "language": "Python",
     "name": "nulljosh/conveyer",
     "stars": 0,
-    "updated_at": "2026-10-05T22:06:05Z",
+    "updated_at": "2026-10-05T23:47:12Z",
     "url": "https://github.com/nulljosh/conveyer"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-05T21:23:04Z",
     "url": "https://github.com/Moxxkidd/foam"
-  },
-  {
-    "description": "Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into",
-    "id": "AskTheWay/dsh-auto-memory",
-    "language": "TypeScript",
-    "name": "AskTheWay/dsh-auto-memory",
-    "stars": 89,
-    "updated_at": "2026-10-05T20:59:41Z",
-    "url": "https://github.com/AskTheWay/dsh-auto-memory"
   }
 ]
