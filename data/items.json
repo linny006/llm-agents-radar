@@ -1,5 +1,41 @@
 [
   {
+    "description": "Coding agent that plans, changes, tests and reviews, and touches your files only when you approve. Windows, macOS, Linux",
+    "id": "huynvic/albertcode-swe-agent",
+    "language": "Shell",
+    "name": "huynvic/albertcode-swe-agent",
+    "stars": 0,
+    "updated_at": "2026-10-06T12:13:27Z",
+    "url": "https://github.com/huynvic/albertcode-swe-agent"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-06T12:08:10Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "A\u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\uff1a\u80a1\u7968\u5206\u6790\u3001\u91cf\u5316\u4ea4\u6613\u5206\u6790\u3001\u76d8\u540e\u590d\u76d8\u684c\u9762\u5de5\u4f5c\u53f0\u2014\u2014easy stock",
+    "id": "jundizhou/easy-stock",
+    "language": "Go",
+    "name": "jundizhou/easy-stock",
+    "stars": 1306,
+    "updated_at": "2026-10-06T12:07:59Z",
+    "url": "https://github.com/jundizhou/easy-stock"
+  },
+  {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 5,
+    "updated_at": "2026-10-06T12:04:05Z",
+    "url": "https://github.com/ljedrz/nachalnik"
+  },
+  {
     "description": "Autonomous red-team agent for MCP servers: recon\u2192hypothesis\u2192attack\u2192verify\u2192report, grounded anti-hallucination evidence, ",
     "id": "AKArrok/McPwn",
     "language": "Python",
@@ -45,21 +81,12 @@
     "url": "https://github.com/Arcticfox-star/SciFormula"
   },
   {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-06T11:48:11Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4445,
-    "updated_at": "2026-10-06T11:56:42Z",
+    "updated_at": "2026-10-06T12:11:05Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -70,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T11:46:25Z",
     "url": "https://github.com/analienx/remote-desktop-commander-agent-control"
-  },
-  {
-    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
-    "id": "ljedrz/nachalnik",
-    "language": "Rust",
-    "name": "ljedrz/nachalnik",
-    "stars": 5,
-    "updated_at": "2026-10-06T11:57:42Z",
-    "url": "https://github.com/ljedrz/nachalnik"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -311,7 +329,7 @@
     "language": "Java",
     "name": "kangwoo/aimon-core",
     "stars": 0,
-    "updated_at": "2026-10-06T11:17:20Z",
+    "updated_at": "2026-10-06T12:13:18Z",
     "url": "https://github.com/kangwoo/aimon-core"
   },
   {
@@ -320,7 +338,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-10-06T11:10:53Z",
+    "updated_at": "2026-10-06T12:10:56Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-06T11:01:06Z",
     "url": "https://github.com/xiaomaozjj666/issue-agent"
-  },
-  {
-    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
-    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "language": "HTML",
-    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "stars": 0,
-    "updated_at": "2026-10-06T11:00:30Z",
-    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
-    "id": "hasting323/AutoGLM-For-Android",
-    "language": "Kotlin",
-    "name": "hasting323/AutoGLM-For-Android",
-    "stars": 13,
-    "updated_at": "2026-10-06T10:57:14Z",
-    "url": "https://github.com/hasting323/AutoGLM-For-Android"
   }
 ]
