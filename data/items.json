@@ -1,10 +1,109 @@
 [
   {
+    "description": "Cost-aware multi-agent orchestrator kit for OpenCode CLI \u2014 one routing agent, 14 specialized subagents, zero application",
+    "id": "NicoGenti/opencode-orchestrator-kit",
+    "language": "TypeScript",
+    "name": "NicoGenti/opencode-orchestrator-kit",
+    "stars": 7,
+    "updated_at": "2026-10-06T16:00:18Z",
+    "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
+  },
+  {
+    "description": "Coding agent that plans, changes, tests and reviews, and touches your files only when you approve. Windows, macOS, Linux",
+    "id": "huynvic/albertcode-swe-agent",
+    "language": "Shell",
+    "name": "huynvic/albertcode-swe-agent",
+    "stars": 0,
+    "updated_at": "2026-10-06T15:59:02Z",
+    "url": "https://github.com/huynvic/albertcode-swe-agent"
+  },
+  {
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 108,
+    "updated_at": "2026-10-06T15:59:48Z",
+    "url": "https://github.com/AVADSA25/codec"
+  },
+  {
+    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
+    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "language": "HTML",
+    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "stars": 0,
+    "updated_at": "2026-10-06T15:58:14Z",
+    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
+    "id": "hasting323/AutoGLM-For-Android",
+    "language": "Kotlin",
+    "name": "hasting323/AutoGLM-For-Android",
+    "stars": 13,
+    "updated_at": "2026-10-06T15:54:45Z",
+    "url": "https://github.com/hasting323/AutoGLM-For-Android"
+  },
+  {
+    "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
+    "id": "cheeezis/job_finder",
+    "language": "Python",
+    "name": "cheeezis/job_finder",
+    "stars": 0,
+    "updated_at": "2026-10-06T15:53:51Z",
+    "url": "https://github.com/cheeezis/job_finder"
+  },
+  {
+    "description": "Open source AI agent for macOS (MIT). One Command Panel for your mail, calendar, meetings, files and a shell it can undo",
+    "id": "dotcomjack/grux",
+    "language": "Swift",
+    "name": "dotcomjack/grux",
+    "stars": 30,
+    "updated_at": "2026-10-06T15:53:31Z",
+    "url": "https://github.com/dotcomjack/grux"
+  },
+  {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 1,
+    "updated_at": "2026-10-06T15:53:13Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-10-06T15:51:30Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 1,
+    "updated_at": "2026-10-06T15:50:49Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8691,
+    "updated_at": "2026-10-06T15:45:17Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "A\u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\uff1a\u80a1\u7968\u5206\u6790\u3001\u91cf\u5316\u4ea4\u6613\u5206\u6790\u3001\u76d8\u540e\u590d\u76d8\u684c\u9762\u5de5\u4f5c\u53f0\u2014\u2014easy stock",
     "id": "jundizhou/easy-stock",
     "language": "Go",
     "name": "jundizhou/easy-stock",
-    "stars": 1311,
+    "stars": 1312,
     "updated_at": "2026-10-06T15:40:54Z",
     "url": "https://github.com/jundizhou/easy-stock"
   },
@@ -27,30 +126,12 @@
     "url": "https://github.com/helixml/helix"
   },
   {
-    "description": "Coding agent that plans, changes, tests and reviews, and touches your files only when you approve. Windows, macOS, Linux",
-    "id": "huynvic/albertcode-swe-agent",
-    "language": "Shell",
-    "name": "huynvic/albertcode-swe-agent",
-    "stars": 0,
-    "updated_at": "2026-10-06T15:28:55Z",
-    "url": "https://github.com/huynvic/albertcode-swe-agent"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 1,
-    "updated_at": "2026-10-06T15:23:50Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
     "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
     "id": "duongnq2798/vestiarion",
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 2,
-    "updated_at": "2026-10-06T15:21:52Z",
+    "updated_at": "2026-10-06T15:58:46Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -70,6 +151,15 @@
     "stars": 1,
     "updated_at": "2026-10-06T15:15:13Z",
     "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 280,
+    "updated_at": "2026-10-06T15:14:22Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
     "description": "Personal AI agent built from scratch \u2014 LLM layer, RAG knowledge base, tool calling loop. No frameworks, learn by buildin",
@@ -162,24 +252,6 @@
     "url": "https://github.com/anchor-inference/daedalus"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8691,
-    "updated_at": "2026-10-06T15:45:17Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 281,
-    "updated_at": "2026-10-06T15:14:22Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
     "description": "A gaming-community user-insights agent: publicly observable behavioral traces -> five-dim features -> activity/migration",
     "id": "hccccc01333/game-user-insights-agent",
     "language": "Python",
@@ -193,25 +265,16 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 3513,
+    "stars": 3514,
     "updated_at": "2026-10-06T14:46:44Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
-    "id": "cheeezis/job_finder",
-    "language": "Python",
-    "name": "cheeezis/job_finder",
-    "stars": 0,
-    "updated_at": "2026-10-06T14:39:38Z",
-    "url": "https://github.com/cheeezis/job_finder"
   },
   {
     "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
     "id": "Soodok/Deepseek-Harness-Local-Android",
     "language": "Kotlin",
     "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 130,
+    "stars": 131,
     "updated_at": "2026-10-06T14:32:40Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
@@ -275,7 +338,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-06T15:19:22Z",
+    "updated_at": "2026-10-06T15:57:54Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -342,6 +405,15 @@
     "url": "https://github.com/edjafarov/kiagent-core"
   },
   {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 6118,
+    "updated_at": "2026-10-06T13:35:11Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
     "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
     "id": "expectedparrot/edsl",
     "language": "Python",
@@ -360,15 +432,6 @@
     "url": "https://github.com/wufufu770/d2d"
   },
   {
-    "description": "Open source AI agent for macOS (MIT). One Command Panel for your mail, calendar, meetings, files and a shell it can undo",
-    "id": "dotcomjack/grux",
-    "language": "Swift",
-    "name": "dotcomjack/grux",
-    "stars": 30,
-    "updated_at": "2026-10-06T13:29:03Z",
-    "url": "https://github.com/dotcomjack/grux"
-  },
-  {
     "description": "Generate rich YuE2 audio in ComfyUI with six modular nodes\u2014hum-to-song, LoRA and adapter support\u2014no stock nodes needed.",
     "id": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-06T13:25:17Z",
     "url": "https://github.com/Jadema5416/ComfyUI-DLSS5-Enhancer"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-10-06T14:48:45Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Sort your Downloads by project, not file type \u2014 with one-command undo. No delete, ever.",
-    "id": "verniceunleaded6135/tidy-undo",
-    "language": "Python",
-    "name": "verniceunleaded6135/tidy-undo",
-    "stars": 0,
-    "updated_at": "2026-10-06T13:24:09Z",
-    "url": "https://github.com/verniceunleaded6135/tidy-undo"
-  },
-  {
-    "description": "Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node\u2014no complex workflows needed.",
-    "id": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
-    "language": "JavaScript",
-    "name": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
-    "stars": 4,
-    "updated_at": "2026-10-06T13:23:28Z",
-    "url": "https://github.com/Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3"
-  },
-  {
-    "description": "Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons.",
-    "id": "alejandrogg15/Minimax-H3-Turbo",
-    "language": "Python",
-    "name": "alejandrogg15/Minimax-H3-Turbo",
-    "stars": 1,
-    "updated_at": "2026-10-06T13:22:50Z",
-    "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
-  },
-  {
-    "description": "Control your Windows laptop remotely via Discord with AI-powered voice and text commands in English or Urdu.",
-    "id": "Ottoman-reticule726/zara-ai-laptop-agent",
-    "language": "Python",
-    "name": "Ottoman-reticule726/zara-ai-laptop-agent",
-    "stars": 0,
-    "updated_at": "2026-10-06T13:22:36Z",
-    "url": "https://github.com/Ottoman-reticule726/zara-ai-laptop-agent"
-  },
-  {
-    "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
-    "id": "Aureliedumbfounding630/agent-governance-toolkit",
-    "language": "\u2014",
-    "name": "Aureliedumbfounding630/agent-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-10-06T13:21:19Z",
-    "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
-  },
-  {
-    "description": "Automate Elytra flight, navigation, and landing for Meteor Client with intelligent pathfinding and rocket management.",
-    "id": "222394/SkyPilot",
-    "language": "Java",
-    "name": "222394/SkyPilot",
-    "stars": 0,
-    "updated_at": "2026-10-06T13:21:12Z",
-    "url": "https://github.com/222394/SkyPilot"
   }
 ]
