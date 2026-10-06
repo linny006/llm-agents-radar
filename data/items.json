@@ -1,12 +1,66 @@
 [
   {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 20,
+    "updated_at": "2026-10-06T23:44:25Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 327,
+    "updated_at": "2026-10-06T23:42:39Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
     "description": "DeepSeek Harness na Androidzie w jednym APK, bez Termuxa i roota, z polskim interfejsem i kompletem narz\u0119dzi programisty",
     "id": "gangg111/DeepSeek-Harness-Mobile",
     "language": "JavaScript",
     "name": "gangg111/DeepSeek-Harness-Mobile",
     "stars": 0,
-    "updated_at": "2026-10-06T23:28:46Z",
+    "updated_at": "2026-10-06T23:42:15Z",
     "url": "https://github.com/gangg111/DeepSeek-Harness-Mobile"
+  },
+  {
+    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
+    "id": "AceGuru-mjh/Android-Guru-Agent",
+    "language": "Kotlin",
+    "name": "AceGuru-mjh/Android-Guru-Agent",
+    "stars": 6,
+    "updated_at": "2026-10-06T23:41:40Z",
+    "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-06T23:41:25Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "[NeurIPS 2024] Official implementation for \"AgentPoison: Red-teaming LLM Agents via Memory or Knowledge Base Backdoor Po",
+    "id": "AI-secure/AgentPoison",
+    "language": "Python",
+    "name": "AI-secure/AgentPoison",
+    "stars": 244,
+    "updated_at": "2026-10-06T23:37:31Z",
+    "url": "https://github.com/AI-secure/AgentPoison"
+  },
+  {
+    "description": "Cost-aware multi-agent orchestrator kit for OpenCode CLI \u2014 one routing agent, 14 specialized subagents, zero application",
+    "id": "NicoGenti/opencode-orchestrator-kit",
+    "language": "TypeScript",
+    "name": "NicoGenti/opencode-orchestrator-kit",
+    "stars": 7,
+    "updated_at": "2026-10-06T23:31:03Z",
+    "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
   },
   {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
@@ -108,15 +162,6 @@
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 20,
-    "updated_at": "2026-10-06T23:16:54Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -135,15 +180,6 @@
     "url": "https://github.com/alexwkleung/reika"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-06T22:40:18Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "Generate rich YuE2 audio in ComfyUI with six modular nodes\u2014hum-to-song, LoRA and adapter support\u2014no stock nodes needed.",
     "id": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
     "language": "Python",
@@ -160,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-10-06T22:32:35Z",
     "url": "https://github.com/Jadema5416/ComfyUI-DLSS5-Enhancer"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 327,
-    "updated_at": "2026-10-06T23:24:47Z",
-    "url": "https://github.com/yologdev/yoagent"
   },
   {
     "description": "Sort your Downloads by project, not file type \u2014 with one-command undo. No delete, ever.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-06T22:01:00Z",
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "This is a health based project. NutriAI is a personal AI nutrition expert powered by IBM Watsonx.ai (Granite). API Keys,",
-    "id": "Mayukh-Bhattacharyya/NutriAI---Nutrition-Agent",
-    "language": "HTML",
-    "name": "Mayukh-Bhattacharyya/NutriAI---Nutrition-Agent",
-    "stars": 1,
-    "updated_at": "2026-10-06T21:47:20Z",
-    "url": "https://github.com/Mayukh-Bhattacharyya/NutriAI---Nutrition-Agent"
-  },
-  {
-    "description": "Bodhi \u2014 a local-first AI agent workbench in Rust: desktop app, Bamboo runtime, Jiandu shared memory, Nova computer use a",
-    "id": "bigduu/Zenith",
-    "language": "JavaScript",
-    "name": "bigduu/Zenith",
-    "stars": 6,
-    "updated_at": "2026-10-06T21:43:47Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "LLM-driven phased-array antenna design & analysis via MCP tools \u2014 unit-cell simulation, array patterns, system trades",
-    "id": "jman4162/agentic-phased-array-builder",
-    "language": "Python",
-    "name": "jman4162/agentic-phased-array-builder",
-    "stars": 1,
-    "updated_at": "2026-10-06T21:42:59Z",
-    "url": "https://github.com/jman4162/agentic-phased-array-builder"
   }
 ]
