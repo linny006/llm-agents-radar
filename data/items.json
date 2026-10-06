@@ -1,5 +1,32 @@
 [
   {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-06T12:42:42Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "\ud83e\udd16 MioChat \u2014 \u5f00\u6e90\u7684 Agent \u64cd\u4f5c\u7cfb\u7edf\u3002Agent / Session / SubAgent \u4e09\u7ea7\u4e0a\u4e0b\u6587\u6a21\u578b\u3001V3 Hook \u5207\u9762\u3001MCP + Skills \u53cc\u6807\u51c6\u5de5\u5177\u751f\u6001\u3001\u591a\u6e20\u9053\u63a5\u5165\u4e0e\u5b9a\u65f6\u81ea\u6cbb\u3002\u6a21\u578b\u65e0\u5173\u3001\u81ea\u6258\u7ba1\u3002",
+    "id": "Pretend-to/mio-chat-backend",
+    "language": "JavaScript",
+    "name": "Pretend-to/mio-chat-backend",
+    "stars": 38,
+    "updated_at": "2026-10-06T12:36:43Z",
+    "url": "https://github.com/Pretend-to/mio-chat-backend"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-06T12:31:10Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
     "description": "SRE Agent - CNCF Sandbox Project",
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
@@ -140,7 +167,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4445,
-    "updated_at": "2026-10-06T12:11:05Z",
+    "updated_at": "2026-10-06T12:32:29Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -196,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T11:34:17Z",
     "url": "https://github.com/AleixAj/nexus"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-06T11:30:09Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Generate rich YuE2 audio in ComfyUI with six modular nodes\u2014hum-to-song, LoRA and adapter support\u2014no stock nodes needed.",
@@ -365,7 +383,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-10-06T12:10:56Z",
+    "updated_at": "2026-10-06T12:37:28Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -394,15 +412,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T11:10:23Z",
     "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-06T12:28:36Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-06T11:05:23Z",
     "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-10-06T11:04:15Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
   }
 ]
