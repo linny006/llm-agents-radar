@@ -1,5 +1,50 @@
 [
   {
+    "description": "A self-hosted software factory \u2014 define goals, agents decompose and execute them through enforced pipelines, with humans",
+    "id": "diraigent/diraigent",
+    "language": "Rust",
+    "name": "diraigent/diraigent",
+    "stars": 21,
+    "updated_at": "2026-10-06T21:26:11Z",
+    "url": "https://github.com/diraigent/diraigent"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 11,
+    "updated_at": "2026-10-06T21:25:58Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 1,
+    "updated_at": "2026-10-06T21:18:30Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Label-driven orchestrator that routes work to different sub-agents based on labels and keeps looping until all automated",
+    "id": "mesqueeb/moonjelly-reef",
+    "language": "Shell",
+    "name": "mesqueeb/moonjelly-reef",
+    "stars": 3,
+    "updated_at": "2026-10-06T21:18:06Z",
+    "url": "https://github.com/mesqueeb/moonjelly-reef"
+  },
+  {
+    "description": "Production-grade hybrid Model Context Protocol (MCP) ecosystem featuring 4 FastMCP servers (2 Local stdio + 2 Remote SSE",
+    "id": "yashsham/lifeflow-mcp",
+    "language": "Python",
+    "name": "yashsham/lifeflow-mcp",
+    "stars": 0,
+    "updated_at": "2026-10-06T21:15:47Z",
+    "url": "https://github.com/yashsham/lifeflow-mcp"
+  },
+  {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
     "id": "g761007/daily-dispatch",
     "language": "Python",
@@ -25,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-10-06T21:10:30Z",
     "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "Production-grade hybrid Model Context Protocol (MCP) ecosystem featuring 4 FastMCP servers (2 Local stdio + 2 Remote SSE",
-    "id": "yashsham/lifeflow-mcp",
-    "language": "Python",
-    "name": "yashsham/lifeflow-mcp",
-    "stars": 0,
-    "updated_at": "2026-10-06T21:09:25Z",
-    "url": "https://github.com/yashsham/lifeflow-mcp"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -86,7 +122,7 @@
     "language": "Rust",
     "name": "yologdev/yoagent",
     "stars": 326,
-    "updated_at": "2026-10-06T20:50:00Z",
+    "updated_at": "2026-10-06T21:16:37Z",
     "url": "https://github.com/yologdev/yoagent"
   },
   {
@@ -131,7 +167,7 @@
     "language": "Rust",
     "name": "ljedrz/nachalnik",
     "stars": 5,
-    "updated_at": "2026-10-06T20:35:47Z",
+    "updated_at": "2026-10-06T21:28:24Z",
     "url": "https://github.com/ljedrz/nachalnik"
   },
   {
@@ -142,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T20:32:48Z",
     "url": "https://github.com/NevilleChristensen2637/checkout-agent-failure-ledger-agent-run-telemetry-ecommerce-"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 1,
-    "updated_at": "2026-10-06T20:28:48Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
@@ -259,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T19:32:33Z",
     "url": "https://github.com/justacalico/devinorium"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 11,
-    "updated_at": "2026-10-06T21:04:55Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-06T18:08:56Z",
     "url": "https://github.com/Zxy876/voyager-vlml-mve"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 130,
-    "updated_at": "2026-10-06T17:56:21Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
-    "id": "wufufu770/d2d",
-    "language": "JavaScript",
-    "name": "wufufu770/d2d",
-    "stars": 4,
-    "updated_at": "2026-10-06T17:54:25Z",
-    "url": "https://github.com/wufufu770/d2d"
   }
 ]
