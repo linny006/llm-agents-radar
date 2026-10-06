@@ -1,5 +1,77 @@
 [
   {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-06T08:27:03Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "\u9002\u7528\u4e8e Claude Code \u548c Codex \u7684\u6c42\u804c Skill\uff1a\u67e5\u627e\u5c97\u4f4d\u3001\u5224\u65ad\u662f\u5426\u503c\u5f97\u6295\u9012\u3001\u5236\u4f5c\u7b80\u5386\u4e0e\u7533\u8bf7\u6750\u6599\u3001\u68c0\u9a8c\u7533\u8bf7\u6750\u6599\u5e76\u6a21\u62df\u9762\u8bd5\u3002\u4e0d\u7f16\u9020\u6280\u80fd\u6216\u4e1a\u7ee9\u6570\u5b57\uff0c\u4e0d\u9884\u6d4b\u5f55\u7528\u6982\u7387\uff1b\u68c0\u67e5\u7b80\u5386\u662f\u5426\u4fbf\u4e8e\u62db\u8058\u7ba1\u7406\u7cfb\u7edf\uff08ATS\uff09\u8bfb\u53d6\uff0c\u5e76\u4ece\u62db\u8058\u4eba\u5458\u548c\u7528\u4eba",
+    "id": "addsumtech/job-hunt",
+    "language": "Python",
+    "name": "addsumtech/job-hunt",
+    "stars": 5,
+    "updated_at": "2026-10-06T08:25:27Z",
+    "url": "https://github.com/addsumtech/job-hunt"
+  },
+  {
+    "description": "Kali \u539f\u751f\u7684 LLM \u6e17\u900f\u6d4b\u8bd5 harness:\u5927\u6a21\u578b\u81ea\u4e3b\u9a71\u52a8 Kali \u5b8c\u6574\u5de5\u5177\u94fe,scope \u62a4\u680f + \u6301\u4e45 PTY + \u54c8\u5e0c\u94fe\u5ba1\u8ba1\u3002Python,GPL-3.0\u3002",
+    "id": "Moxxkidd/foam",
+    "language": "Python",
+    "name": "Moxxkidd/foam",
+    "stars": 0,
+    "updated_at": "2026-10-06T08:24:53Z",
+    "url": "https://github.com/Moxxkidd/foam"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 11,
+    "updated_at": "2026-10-06T08:22:59Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Generate rich YuE2 audio in ComfyUI with six modular nodes\u2014hum-to-song, LoRA and adapter support\u2014no stock nodes needed.",
+    "id": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
+    "language": "Python",
+    "name": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
+    "stars": 1,
+    "updated_at": "2026-10-06T08:16:45Z",
+    "url": "https://github.com/Deborahwalkerz661/ComfyUI-FS_Audio_Suite"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 1,
+    "updated_at": "2026-10-06T08:15:51Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "RAG assistant for AML/KYC compliance (FATF, Wolfsberg, CBAR) with citation-linked answers, a tool-calling agent and RAGA",
+    "id": "emiliaismailova3/aml-kyc-rag-assistant",
+    "language": "Python",
+    "name": "emiliaismailova3/aml-kyc-rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-06T08:15:44Z",
+    "url": "https://github.com/emiliaismailova3/aml-kyc-rag-assistant"
+  },
+  {
+    "description": "Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de",
+    "id": "Jadema5416/ComfyUI-DLSS5-Enhancer",
+    "language": "Python",
+    "name": "Jadema5416/ComfyUI-DLSS5-Enhancer",
+    "stars": 1,
+    "updated_at": "2026-10-06T08:15:35Z",
+    "url": "https://github.com/Jadema5416/ComfyUI-DLSS5-Enhancer"
+  },
+  {
     "description": "Sort your Downloads by project, not file type \u2014 with one-command undo. No delete, ever.",
     "id": "verniceunleaded6135/tidy-undo",
     "language": "Python",
@@ -14,7 +86,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-06T08:14:19Z",
+    "updated_at": "2026-10-06T08:19:36Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -45,15 +117,6 @@
     "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
   },
   {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 11,
-    "updated_at": "2026-10-06T08:13:28Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "Automate Elytra flight, navigation, and landing for Meteor Client with intelligent pathfinding and rocket management.",
     "id": "222394/SkyPilot",
     "language": "Java",
@@ -79,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T08:11:05Z",
     "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 1,
-    "updated_at": "2026-10-06T08:09:13Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
@@ -140,7 +194,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3510,
-    "updated_at": "2026-10-06T08:05:04Z",
+    "updated_at": "2026-10-06T08:26:42Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -356,7 +410,7 @@
     "language": "Python",
     "name": "noahhps/Bom",
     "stars": 0,
-    "updated_at": "2026-10-06T07:33:20Z",
+    "updated_at": "2026-10-06T08:22:38Z",
     "url": "https://github.com/noahhps/Bom"
   },
   {
@@ -378,15 +432,6 @@
     "url": "https://github.com/bigduu/Bodhi-AI"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-06T07:25:57Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-06T07:24:48Z",
     "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
-    "id": "weihuaguo270-ops/react-agent",
-    "language": "Python",
-    "name": "weihuaguo270-ops/react-agent",
-    "stars": 0,
-    "updated_at": "2026-10-06T07:21:24Z",
-    "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-10-06T07:19:53Z",
-    "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 6117,
-    "updated_at": "2026-10-06T07:16:11Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
-    "id": "wufufu770/d2d",
-    "language": "JavaScript",
-    "name": "wufufu770/d2d",
-    "stars": 4,
-    "updated_at": "2026-10-06T07:05:13Z",
-    "url": "https://github.com/wufufu770/d2d"
-  },
-  {
-    "description": "A self-hosted software factory \u2014 define goals, agents decompose and execute them through enforced pipelines, with humans",
-    "id": "diraigent/diraigent",
-    "language": "Rust",
-    "name": "diraigent/diraigent",
-    "stars": 21,
-    "updated_at": "2026-10-06T07:02:05Z",
-    "url": "https://github.com/diraigent/diraigent"
   }
 ]
