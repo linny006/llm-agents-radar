@@ -1,5 +1,68 @@
 [
   {
+    "description": "Bodhi \u2014 a local-first AI agent workbench in Rust: desktop app, Bamboo runtime, Jiandu shared memory, Nova computer use a",
+    "id": "bigduu/Zenith",
+    "language": "JavaScript",
+    "name": "bigduu/Zenith",
+    "stars": 6,
+    "updated_at": "2026-10-06T21:43:47Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "LLM-driven phased-array antenna design & analysis via MCP tools \u2014 unit-cell simulation, array patterns, system trades",
+    "id": "jman4162/agentic-phased-array-builder",
+    "language": "Python",
+    "name": "jman4162/agentic-phased-array-builder",
+    "stars": 1,
+    "updated_at": "2026-10-06T21:42:59Z",
+    "url": "https://github.com/jman4162/agentic-phased-array-builder"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-06T21:39:27Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Production-grade hybrid Model Context Protocol (MCP) ecosystem featuring 4 FastMCP servers (2 Local stdio + 2 Remote SSE",
+    "id": "yashsham/lifeflow-mcp",
+    "language": "Python",
+    "name": "yashsham/lifeflow-mcp",
+    "stars": 0,
+    "updated_at": "2026-10-06T21:38:24Z",
+    "url": "https://github.com/yashsham/lifeflow-mcp"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 20,
+    "updated_at": "2026-10-06T21:37:37Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
+    "id": "honestDS/MonoLight",
+    "language": "Python",
+    "name": "honestDS/MonoLight",
+    "stars": 8,
+    "updated_at": "2026-10-06T21:35:38Z",
+    "url": "https://github.com/honestDS/MonoLight"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 3,
+    "updated_at": "2026-10-06T21:32:03Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "A self-hosted software factory \u2014 define goals, agents decompose and execute them through enforced pipelines, with humans",
     "id": "diraigent/diraigent",
     "language": "Rust",
@@ -22,7 +85,7 @@
     "id": "genaforvena/mishe-tauftauf",
     "language": "Python",
     "name": "genaforvena/mishe-tauftauf",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-10-06T21:18:30Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
@@ -34,15 +97,6 @@
     "stars": 3,
     "updated_at": "2026-10-06T21:18:06Z",
     "url": "https://github.com/mesqueeb/moonjelly-reef"
-  },
-  {
-    "description": "Production-grade hybrid Model Context Protocol (MCP) ecosystem featuring 4 FastMCP servers (2 Local stdio + 2 Remote SSE",
-    "id": "yashsham/lifeflow-mcp",
-    "language": "Python",
-    "name": "yashsham/lifeflow-mcp",
-    "stars": 0,
-    "updated_at": "2026-10-06T21:15:47Z",
-    "url": "https://github.com/yashsham/lifeflow-mcp"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
@@ -108,21 +162,12 @@
     "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 20,
-    "updated_at": "2026-10-06T21:05:31Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
     "id": "yologdev/yoagent",
     "language": "Rust",
     "name": "yologdev/yoagent",
     "stars": 326,
-    "updated_at": "2026-10-06T21:16:37Z",
+    "updated_at": "2026-10-06T21:42:45Z",
     "url": "https://github.com/yologdev/yoagent"
   },
   {
@@ -142,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T20:44:17Z",
     "url": "https://github.com/Fourteenth-Night/dsh-web-search-multi"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-06T20:38:25Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "AI-powered image generation and chat studio",
@@ -234,15 +270,6 @@
     "url": "https://github.com/Ayyush-Maheshwari/SupOps"
   },
   {
-    "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
-    "id": "honestDS/MonoLight",
-    "language": "Python",
-    "name": "honestDS/MonoLight",
-    "stars": 8,
-    "updated_at": "2026-10-06T19:57:43Z",
-    "url": "https://github.com/honestDS/MonoLight"
-  },
-  {
     "description": "SRE Agent - CNCF Sandbox Project",
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
@@ -250,6 +277,15 @@
     "stars": 3515,
     "updated_at": "2026-10-06T21:15:08Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 816,
+    "updated_at": "2026-10-06T19:49:26Z",
+    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "Project-local Markdown progress tracking for Codex, Claude Code, and MCP-compatible agents \u2014 resumable memory across ses",
@@ -333,15 +369,6 @@
     "url": "https://github.com/mcn92/pikelet"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 815,
-    "updated_at": "2026-10-06T19:49:26Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
     "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
     "id": "SashaEee/auditLens",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 30,
     "updated_at": "2026-10-06T18:19:34Z",
     "url": "https://github.com/dotcomjack/grux"
-  },
-  {
-    "description": "Is your backtest real? Deflated Sharpe Ratio, backtest-overfitting (PBO) and lookahead checks with measured false-positi",
-    "id": "jordanahern2009-svg/Tokio-ai",
-    "language": "Python",
-    "name": "jordanahern2009-svg/Tokio-ai",
-    "stars": 3,
-    "updated_at": "2026-10-06T18:18:11Z",
-    "url": "https://github.com/jordanahern2009-svg/Tokio-ai"
-  },
-  {
-    "description": "Multi-PDF question answering with a LangChain tool-calling agent, FAISS retrieval and page-level citations. FastAPI + St",
-    "id": "Nitesh-kelwani/Document-Q-A-Chatbot",
-    "language": "Python",
-    "name": "Nitesh-kelwani/Document-Q-A-Chatbot",
-    "stars": 0,
-    "updated_at": "2026-10-06T18:17:35Z",
-    "url": "https://github.com/Nitesh-kelwani/Document-Q-A-Chatbot"
-  },
-  {
-    "description": "Voyager \u00d7 VLML \u00d7 \u732b\u5a18\u4f34\u5b66\uff1a\u628a\u300c\u5b66\u4e60\u8005\u300d\u6362\u6210 agent \u7684\u6700\u5c0f\u53ef\u6267\u884c\u539f\u578b\uff08\u9762\u677f\u5df2\u4e0a\u817e\u8baf\u4e91\uff09",
-    "id": "Zxy876/voyager-vlml-mve",
-    "language": "Python",
-    "name": "Zxy876/voyager-vlml-mve",
-    "stars": 0,
-    "updated_at": "2026-10-06T18:08:56Z",
-    "url": "https://github.com/Zxy876/voyager-vlml-mve"
   }
 ]
