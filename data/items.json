@@ -1,10 +1,73 @@
 [
   {
+    "description": "\u6d77\u9f9f\u6c64\uff08\u60c5\u5883\u731c\u8c1c/\u6a2a\u5411\u601d\u7ef4\u8c1c\u9898\uff09\u521b\u4f5c\u65b9\u6cd5\u8bba\u2014\u2014\u56db\u9636\u6bb5\u65bd\u5de5\u6846\u67b6 | A methodology for crafting turtle soup / lateral thinking puzzles: 4-phase pipeline fro",
+    "id": "906491213/writing-turtle-soup",
+    "language": "\u2014",
+    "name": "906491213/writing-turtle-soup",
+    "stars": 2,
+    "updated_at": "2026-10-06T06:45:11Z",
+    "url": "https://github.com/906491213/writing-turtle-soup"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-06T06:42:29Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-06T06:38:38Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 4,
+    "updated_at": "2026-10-06T06:37:36Z",
+    "url": "https://github.com/plurnk/plurnk"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 78,
+    "updated_at": "2026-10-06T06:37:26Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
+    "id": "wufufu770/d2d",
+    "language": "JavaScript",
+    "name": "wufufu770/d2d",
+    "stars": 4,
+    "updated_at": "2026-10-06T06:35:49Z",
+    "url": "https://github.com/wufufu770/d2d"
+  },
+  {
+    "description": "Coding agent that plans, changes, tests and reviews, and touches your files only when you approve. Windows, macOS, Linux",
+    "id": "huynvic/albertcode-swe-agent",
+    "language": "Shell",
+    "name": "huynvic/albertcode-swe-agent",
+    "stars": 0,
+    "updated_at": "2026-10-06T06:32:39Z",
+    "url": "https://github.com/huynvic/albertcode-swe-agent"
+  },
+  {
     "description": "Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Pyt",
     "id": "feder-cr/invisible_playwright_mcp",
     "language": "Python",
     "name": "feder-cr/invisible_playwright_mcp",
-    "stars": 31776,
+    "stars": 31775,
     "updated_at": "2026-10-06T06:28:34Z",
     "url": "https://github.com/feder-cr/invisible_playwright_mcp"
   },
@@ -16,6 +79,15 @@
     "stars": 0,
     "updated_at": "2026-10-06T06:25:00Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8680,
+    "updated_at": "2026-10-06T06:24:34Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
@@ -88,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T06:16:00Z",
     "url": "https://github.com/Blaz742/web-pentest-lab"
-  },
-  {
-    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
-    "id": "wufufu770/d2d",
-    "language": "JavaScript",
-    "name": "wufufu770/d2d",
-    "stars": 4,
-    "updated_at": "2026-10-06T06:16:00Z",
-    "url": "https://github.com/wufufu770/d2d"
   },
   {
     "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
@@ -207,15 +270,6 @@
     "url": "https://github.com/lukky262/ARE"
   },
   {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 78,
-    "updated_at": "2026-10-06T06:01:54Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
     "description": "",
     "id": "hichamnes-prog/exforum-auto-poster",
     "language": "Python",
@@ -311,7 +365,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-06T06:07:20Z",
+    "updated_at": "2026-10-06T06:45:16Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -320,7 +374,7 @@
     "language": "Kotlin",
     "name": "AceGuru-mjh/Android-Guru-Agent",
     "stars": 5,
-    "updated_at": "2026-10-06T06:24:14Z",
+    "updated_at": "2026-10-06T06:36:06Z",
     "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent"
   },
   {
@@ -347,7 +401,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-10-06T05:48:46Z",
+    "updated_at": "2026-10-06T06:32:11Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -391,62 +445,8 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 6114,
+    "stars": 6115,
     "updated_at": "2026-10-06T05:26:49Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-06T05:14:11Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 11,
-    "updated_at": "2026-10-06T05:07:40Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-06T04:57:16Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 130,
-    "updated_at": "2026-10-06T04:55:20Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
-    "id": "plurnk/plurnk",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk",
-    "stars": 4,
-    "updated_at": "2026-10-06T04:51:29Z",
-    "url": "https://github.com/plurnk/plurnk"
-  },
-  {
-    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
-    "id": "IAmNo1Special/mvgeos",
-    "language": "Python",
-    "name": "IAmNo1Special/mvgeos",
-    "stars": 1,
-    "updated_at": "2026-10-06T05:07:35Z",
-    "url": "https://github.com/IAmNo1Special/mvgeos"
   }
 ]
