@@ -1,12 +1,66 @@
 [
   {
-    "description": "Single-user Hebrew/English personal assistant: Cloudflare Workers + SQLite Durable Object, Groq tool-calling agent where",
-    "id": "tzur669-lab/whatsapp-assistant",
-    "language": "TypeScript",
-    "name": "tzur669-lab/whatsapp-assistant",
+    "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
+    "id": "kashyaprajharsh/medha-agent",
+    "language": "Rust",
+    "name": "kashyaprajharsh/medha-agent",
     "stars": 0,
-    "updated_at": "2026-10-06T18:42:12Z",
-    "url": "https://github.com/tzur669-lab/whatsapp-assistant"
+    "updated_at": "2026-10-06T18:59:04Z",
+    "url": "https://github.com/kashyaprajharsh/medha-agent"
+  },
+  {
+    "description": "\u9ad8\u4e2d\u5316\u5b66\u8bd5\u5377 docx \u2192 Markdown \u65e0\u635f\u8f6c\u6362\u6d41\u6c34\u7ebf\uff1aMTEF5 \u4e8c\u8fdb\u5236\u516c\u5f0f\u8fd8\u539f\u3001OMML \u7ebf\u6027\u5316\u3001\u50cf\u7d20\u7ea7\u5224\u56fe\uff0caudit.py 10 \u9879\u673a\u5ba1 + \u5b88\u6052\u590d\u7b97\u53cc\u5224\u636e\uff0cU1\u2013U189 \u7ecf\u9a8c\u4f53\u7cfb\u3002\u5168\u6d41\u7a0b\u79bb\u7ebf\u3002",
+    "id": "xmmmymm/docx-markdown-skill",
+    "language": "Python",
+    "name": "xmmmymm/docx-markdown-skill",
+    "stars": 0,
+    "updated_at": "2026-10-06T18:57:44Z",
+    "url": "https://github.com/xmmmymm/docx-markdown-skill"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-06T18:54:54Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8692,
+    "updated_at": "2026-10-06T18:50:41Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-10-06T18:49:25Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 1,
+    "updated_at": "2026-10-06T18:49:05Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Cost-aware multi-agent orchestrator kit for OpenCode CLI \u2014 one routing agent, 14 specialized subagents, zero application",
+    "id": "NicoGenti/opencode-orchestrator-kit",
+    "language": "TypeScript",
+    "name": "NicoGenti/opencode-orchestrator-kit",
+    "stars": 7,
+    "updated_at": "2026-10-06T18:49:02Z",
+    "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
   },
   {
     "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
@@ -14,8 +68,26 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 11,
-    "updated_at": "2026-10-06T18:41:48Z",
+    "updated_at": "2026-10-06T18:46:37Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 20,
+    "updated_at": "2026-10-06T18:58:42Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Single-user Hebrew/English personal assistant: Cloudflare Workers + SQLite Durable Object, Groq tool-calling agent where",
+    "id": "tzur669-lab/whatsapp-assistant",
+    "language": "TypeScript",
+    "name": "tzur669-lab/whatsapp-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-06T18:42:12Z",
+    "url": "https://github.com/tzur669-lab/whatsapp-assistant"
   },
   {
     "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
@@ -63,24 +135,6 @@
     "url": "https://github.com/connectci-platform/access-agent"
   },
   {
-    "description": "\u9ad8\u4e2d\u5316\u5b66\u8bd5\u5377 docx \u2192 Markdown \u65e0\u635f\u8f6c\u6362\u6d41\u6c34\u7ebf\uff1aMTEF5 \u4e8c\u8fdb\u5236\u516c\u5f0f\u8fd8\u539f\u3001OMML \u7ebf\u6027\u5316\u3001\u50cf\u7d20\u7ea7\u5224\u56fe\uff0caudit.py 10 \u9879\u673a\u5ba1 + \u5b88\u6052\u590d\u7b97\u53cc\u5224\u636e\uff0cU1\u2013U189 \u7ecf\u9a8c\u4f53\u7cfb\u3002\u5168\u6d41\u7a0b\u79bb\u7ebf\u3002",
-    "id": "xmmmymm/docx-markdown-skill",
-    "language": "Python",
-    "name": "xmmmymm/docx-markdown-skill",
-    "stars": 0,
-    "updated_at": "2026-10-06T18:31:54Z",
-    "url": "https://github.com/xmmmymm/docx-markdown-skill"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 1,
-    "updated_at": "2026-10-06T18:27:59Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
     "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
     "id": "ljedrz/nachalnik",
     "language": "Rust",
@@ -117,15 +171,6 @@
     "url": "https://github.com/dotcomjack/grux"
   },
   {
-    "description": "Cost-aware multi-agent orchestrator kit for OpenCode CLI \u2014 one routing agent, 14 specialized subagents, zero application",
-    "id": "NicoGenti/opencode-orchestrator-kit",
-    "language": "TypeScript",
-    "name": "NicoGenti/opencode-orchestrator-kit",
-    "stars": 7,
-    "updated_at": "2026-10-06T18:18:19Z",
-    "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
-  },
-  {
     "description": "Is your backtest real? Deflated Sharpe Ratio, backtest-overfitting (PBO) and lookahead checks with measured false-positi",
     "id": "jordanahern2009-svg/Tokio-ai",
     "language": "Python",
@@ -151,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T18:08:56Z",
     "url": "https://github.com/Zxy876/voyager-vlml-mve"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 20,
-    "updated_at": "2026-10-06T18:07:23Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -194,17 +230,8 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 815,
-    "updated_at": "2026-10-06T18:22:11Z",
+    "updated_at": "2026-10-06T18:52:45Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-06T17:48:11Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
@@ -234,15 +261,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8691,
-    "updated_at": "2026-10-06T17:40:22Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
     "id": "watchcat/scout",
     "language": "Rust",
@@ -250,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T17:33:21Z",
     "url": "https://github.com/watchcat/scout"
-  },
-  {
-    "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
-    "id": "kashyaprajharsh/medha-agent",
-    "language": "Rust",
-    "name": "kashyaprajharsh/medha-agent",
-    "stars": 0,
-    "updated_at": "2026-10-06T17:30:16Z",
-    "url": "https://github.com/kashyaprajharsh/medha-agent"
   },
   {
     "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
@@ -277,6 +286,15 @@
     "stars": 0,
     "updated_at": "2026-10-06T17:22:04Z",
     "url": "https://github.com/6duck/review-anything"
+  },
+  {
+    "description": "Tauri desktop shell for the local-first Bodhi agent: manages Bamboo startup/reuse and health; packaged builds open the B",
+    "id": "bigduu/Bodhi-AI",
+    "language": "JavaScript",
+    "name": "bigduu/Bodhi-AI",
+    "stars": 17,
+    "updated_at": "2026-10-06T17:20:42Z",
+    "url": "https://github.com/bigduu/Bodhi-AI"
   },
   {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-06T16:58:20Z",
     "url": "https://github.com/mcn92/pikelet"
-  },
-  {
-    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
-    "id": "expectedparrot/edsl",
-    "language": "Python",
-    "name": "expectedparrot/edsl",
-    "stars": 502,
-    "updated_at": "2026-10-06T16:53:42Z",
-    "url": "https://github.com/expectedparrot/edsl"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 3,
-    "updated_at": "2026-10-06T16:42:36Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   }
 ]
