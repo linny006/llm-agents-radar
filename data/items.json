@@ -1,5 +1,50 @@
 [
   {
+    "description": "Vector search that ships as a file. Compile a corpus into one self-contained, hash-verified .pikelet \u2014 search it anywher",
+    "id": "mcn92/pikelet",
+    "language": "JavaScript",
+    "name": "mcn92/pikelet",
+    "stars": 2,
+    "updated_at": "2026-10-06T16:58:20Z",
+    "url": "https://github.com/mcn92/pikelet"
+  },
+  {
+    "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
+    "id": "kashyaprajharsh/medha-agent",
+    "language": "Rust",
+    "name": "kashyaprajharsh/medha-agent",
+    "stars": 0,
+    "updated_at": "2026-10-06T16:57:00Z",
+    "url": "https://github.com/kashyaprajharsh/medha-agent"
+  },
+  {
+    "description": "An agent skill that turns any study material \u2014 textbook PDF, slide deck, scanned handout, transcript, chat log \u2014 into st",
+    "id": "6duck/review-anything",
+    "language": "Python",
+    "name": "6duck/review-anything",
+    "stars": 0,
+    "updated_at": "2026-10-06T16:55:47Z",
+    "url": "https://github.com/6duck/review-anything"
+  },
+  {
+    "description": "Not a chatbot\u2014a tireless digital secretary. Jarvis is a persistent, self-hosted AI operating system that manages communi",
+    "id": "Lucky-1608/Jarvis",
+    "language": "Python",
+    "name": "Lucky-1608/Jarvis",
+    "stars": 0,
+    "updated_at": "2026-10-06T16:55:24Z",
+    "url": "https://github.com/Lucky-1608/Jarvis"
+  },
+  {
+    "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
+    "id": "cheeezis/job_finder",
+    "language": "Python",
+    "name": "cheeezis/job_finder",
+    "stars": 0,
+    "updated_at": "2026-10-06T16:49:07Z",
+    "url": "https://github.com/cheeezis/job_finder"
+  },
+  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -16,15 +61,6 @@
     "stars": 30,
     "updated_at": "2026-10-06T16:42:10Z",
     "url": "https://github.com/dotcomjack/grux"
-  },
-  {
-    "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
-    "id": "kashyaprajharsh/medha-agent",
-    "language": "Rust",
-    "name": "kashyaprajharsh/medha-agent",
-    "stars": 0,
-    "updated_at": "2026-10-06T16:39:38Z",
-    "url": "https://github.com/kashyaprajharsh/medha-agent"
   },
   {
     "description": "\u4e00\u4e2a\u53ef\u4ee5\u7528\u4e8e\u5904\u7406USTC\u90ae\u7bb1\u90ae\u4ef6\u7684skill",
@@ -95,7 +131,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 2,
-    "updated_at": "2026-10-06T16:27:07Z",
+    "updated_at": "2026-10-06T16:51:52Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -133,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T16:25:17Z",
     "url": "https://github.com/Zxy876/voyager-vlml-mve"
-  },
-  {
-    "description": "An agent skill that turns any study material \u2014 textbook PDF, slide deck, scanned handout, transcript, chat log \u2014 into st",
-    "id": "6duck/review-anything",
-    "language": "Python",
-    "name": "6duck/review-anything",
-    "stars": 0,
-    "updated_at": "2026-10-06T16:23:43Z",
-    "url": "https://github.com/6duck/review-anything"
   },
   {
     "description": "Open-Source Intelligent Command Layer",
@@ -315,15 +342,6 @@
     "url": "https://github.com/hasting323/AutoGLM-For-Android"
   },
   {
-    "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
-    "id": "cheeezis/job_finder",
-    "language": "Python",
-    "name": "cheeezis/job_finder",
-    "stars": 0,
-    "updated_at": "2026-10-06T16:39:11Z",
-    "url": "https://github.com/cheeezis/job_finder"
-  },
-  {
     "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
     "id": "shiro1707778/episodic-memory-pipeline",
     "language": "Python",
@@ -346,7 +364,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 8692,
+    "stars": 8693,
     "updated_at": "2026-10-06T15:45:17Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -355,7 +373,7 @@
     "id": "jundizhou/easy-stock",
     "language": "Go",
     "name": "jundizhou/easy-stock",
-    "stars": 1312,
+    "stars": 1313,
     "updated_at": "2026-10-06T15:40:54Z",
     "url": "https://github.com/jundizhou/easy-stock"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-06T15:03:04Z",
     "url": "https://github.com/mmoehabb/maestro"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 129,
-    "updated_at": "2026-10-06T14:57:35Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
-    "id": "anchor-inference/daedalus",
-    "language": "Python",
-    "name": "anchor-inference/daedalus",
-    "stars": 1,
-    "updated_at": "2026-10-06T14:53:41Z",
-    "url": "https://github.com/anchor-inference/daedalus"
   }
 ]
