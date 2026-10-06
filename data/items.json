@@ -1,11 +1,74 @@
 [
   {
+    "description": "Production-grade hybrid Model Context Protocol (MCP) ecosystem featuring 4 FastMCP servers (2 Local stdio + 2 Remote SSE",
+    "id": "yashsham/lifeflow-mcp",
+    "language": "Python",
+    "name": "yashsham/lifeflow-mcp",
+    "stars": 0,
+    "updated_at": "2026-10-06T19:43:11Z",
+    "url": "https://github.com/yashsham/lifeflow-mcp"
+  },
+  {
+    "description": "DeepSeek Harness na Androidzie w jednym APK, bez Termuxa i roota, z polskim interfejsem i kompletem narz\u0119dzi programisty",
+    "id": "gangg111/DeepSeek-Harness-Mobile",
+    "language": "JavaScript",
+    "name": "gangg111/DeepSeek-Harness-Mobile",
+    "stars": 0,
+    "updated_at": "2026-10-06T19:39:05Z",
+    "url": "https://github.com/gangg111/DeepSeek-Harness-Mobile"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-06T19:37:25Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 1,
+    "updated_at": "2026-10-06T19:37:20Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Control AI agents anywhere. (github mirror)",
+    "id": "justacalico/devinorium",
+    "language": "Dart",
+    "name": "justacalico/devinorium",
+    "stars": 0,
+    "updated_at": "2026-10-06T19:32:33Z",
+    "url": "https://github.com/justacalico/devinorium"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 78,
+    "updated_at": "2026-10-06T19:30:55Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 11,
+    "updated_at": "2026-10-06T19:30:19Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-06T19:29:58Z",
+    "updated_at": "2026-10-06T19:38:51Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -45,24 +108,6 @@
     "url": "https://github.com/kashyaprajharsh/medha-agent"
   },
   {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 1,
-    "updated_at": "2026-10-06T19:23:37Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
-    "description": "Production-grade hybrid Model Context Protocol (MCP) ecosystem featuring 4 FastMCP servers (2 Local stdio + 2 Remote SSE",
-    "id": "yashsham/lifeflow-mcp",
-    "language": "Python",
-    "name": "yashsham/lifeflow-mcp",
-    "stars": 0,
-    "updated_at": "2026-10-06T19:19:53Z",
-    "url": "https://github.com/yashsham/lifeflow-mcp"
-  },
-  {
     "description": "Vector search that ships as a file. Compile a corpus into one self-contained, hash-verified .pikelet \u2014 search it anywher",
     "id": "mcn92/pikelet",
     "language": "JavaScript",
@@ -77,7 +122,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 815,
-    "updated_at": "2026-10-06T19:23:26Z",
+    "updated_at": "2026-10-06T19:41:06Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -122,7 +167,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 8692,
-    "updated_at": "2026-10-06T19:27:33Z",
+    "updated_at": "2026-10-06T19:33:35Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -135,15 +180,6 @@
     "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
   },
   {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 11,
-    "updated_at": "2026-10-06T19:30:16Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
     "id": "cheeezis/job_finder",
     "language": "Python",
@@ -151,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T19:25:11Z",
     "url": "https://github.com/cheeezis/job_finder"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-06T18:37:06Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
@@ -189,6 +216,15 @@
     "url": "https://github.com/connectci-platform/access-agent"
   },
   {
+    "description": "Unified multi-engine web search plugin for DeepSeek Harness: one plugin, three engines (Exa / Tavily / Firecrawl), three",
+    "id": "Fourteenth-Night/dsh-web-search-multi",
+    "language": "JavaScript",
+    "name": "Fourteenth-Night/dsh-web-search-multi",
+    "stars": 0,
+    "updated_at": "2026-10-06T18:32:11Z",
+    "url": "https://github.com/Fourteenth-Night/dsh-web-search-multi"
+  },
+  {
     "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
     "id": "ljedrz/nachalnik",
     "language": "Rust",
@@ -203,7 +239,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-10-06T19:08:39Z",
+    "updated_at": "2026-10-06T19:31:26Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -310,7 +346,7 @@
     "id": "yologdev/yoagent",
     "language": "Rust",
     "name": "yologdev/yoagent",
-    "stars": 324,
+    "stars": 325,
     "updated_at": "2026-10-06T17:33:10Z",
     "url": "https://github.com/yologdev/yoagent"
   },
@@ -320,7 +356,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 2,
-    "updated_at": "2026-10-06T17:28:24Z",
+    "updated_at": "2026-10-06T19:30:47Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-06T17:04:57Z",
     "url": "https://github.com/Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3"
-  },
-  {
-    "description": "Control your Windows laptop remotely via Discord with AI-powered voice and text commands in English or Urdu.",
-    "id": "Ottoman-reticule726/zara-ai-laptop-agent",
-    "language": "Python",
-    "name": "Ottoman-reticule726/zara-ai-laptop-agent",
-    "stars": 0,
-    "updated_at": "2026-10-06T17:04:24Z",
-    "url": "https://github.com/Ottoman-reticule726/zara-ai-laptop-agent"
-  },
-  {
-    "description": "Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons.",
-    "id": "alejandrogg15/Minimax-H3-Turbo",
-    "language": "Python",
-    "name": "alejandrogg15/Minimax-H3-Turbo",
-    "stars": 1,
-    "updated_at": "2026-10-06T17:04:02Z",
-    "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
-  },
-  {
-    "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
-    "id": "Aureliedumbfounding630/agent-governance-toolkit",
-    "language": "\u2014",
-    "name": "Aureliedumbfounding630/agent-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-10-06T17:02:56Z",
-    "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
-  },
-  {
-    "description": "Automate Elytra flight, navigation, and landing for Meteor Client with intelligent pathfinding and rocket management.",
-    "id": "222394/SkyPilot",
-    "language": "Java",
-    "name": "222394/SkyPilot",
-    "stars": 0,
-    "updated_at": "2026-10-06T17:02:54Z",
-    "url": "https://github.com/222394/SkyPilot"
   }
 ]
