@@ -1,5 +1,59 @@
 [
   {
+    "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
+    "id": "cheeezis/job_finder",
+    "language": "Python",
+    "name": "cheeezis/job_finder",
+    "stars": 0,
+    "updated_at": "2026-10-06T20:12:03Z",
+    "url": "https://github.com/cheeezis/job_finder"
+  },
+  {
+    "description": "Production-grade hybrid Model Context Protocol (MCP) ecosystem featuring 4 FastMCP servers (2 Local stdio + 2 Remote SSE",
+    "id": "yashsham/lifeflow-mcp",
+    "language": "Python",
+    "name": "yashsham/lifeflow-mcp",
+    "stars": 0,
+    "updated_at": "2026-10-06T20:11:54Z",
+    "url": "https://github.com/yashsham/lifeflow-mcp"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 129,
+    "updated_at": "2026-10-06T20:09:22Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 326,
+    "updated_at": "2026-10-06T20:08:43Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-10-06T20:08:26Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Self-hosted AIOps agent for DevOps: an AI ops copilot that investigates incidents on Linux servers and Kubernetes, finds",
+    "id": "Ayyush-Maheshwari/SupOps",
+    "language": "TypeScript",
+    "name": "Ayyush-Maheshwari/SupOps",
+    "stars": 0,
+    "updated_at": "2026-10-06T20:05:49Z",
+    "url": "https://github.com/Ayyush-Maheshwari/SupOps"
+  },
+  {
     "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
     "id": "honestDS/MonoLight",
     "language": "Python",
@@ -34,15 +88,6 @@
     "stars": 12,
     "updated_at": "2026-10-06T19:47:37Z",
     "url": "https://github.com/agent-axiom/agent-arch"
-  },
-  {
-    "description": "Production-grade hybrid Model Context Protocol (MCP) ecosystem featuring 4 FastMCP servers (2 Local stdio + 2 Remote SSE",
-    "id": "yashsham/lifeflow-mcp",
-    "language": "Python",
-    "name": "yashsham/lifeflow-mcp",
-    "stars": 0,
-    "updated_at": "2026-10-06T19:43:11Z",
-    "url": "https://github.com/yashsham/lifeflow-mcp"
   },
   {
     "description": "DeepSeek Harness na Androidzie w jednym APK, bez Termuxa i roota, z polskim interfejsem i kompletem narz\u0119dzi programisty",
@@ -86,7 +131,7 @@
     "language": "Python",
     "name": "rekursiv-ai/sagent",
     "stars": 78,
-    "updated_at": "2026-10-06T19:30:55Z",
+    "updated_at": "2026-10-06T20:08:58Z",
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
@@ -214,15 +259,6 @@
     "stars": 7,
     "updated_at": "2026-10-06T18:49:02Z",
     "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
-  },
-  {
-    "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
-    "id": "cheeezis/job_finder",
-    "language": "Python",
-    "name": "cheeezis/job_finder",
-    "stars": 0,
-    "updated_at": "2026-10-06T19:25:11Z",
-    "url": "https://github.com/cheeezis/job_finder"
   },
   {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
@@ -378,15 +414,6 @@
     "url": "https://github.com/watchcat/scout"
   },
   {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 325,
-    "updated_at": "2026-10-06T19:51:49Z",
-    "url": "https://github.com/yologdev/yoagent"
-  },
-  {
     "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
     "id": "duongnq2798/vestiarion",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-06T17:15:01Z",
     "url": "https://github.com/NatanTechofNY/fieldnote-assistant"
-  },
-  {
-    "description": "Generate rich YuE2 audio in ComfyUI with six modular nodes\u2014hum-to-song, LoRA and adapter support\u2014no stock nodes needed.",
-    "id": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
-    "language": "Python",
-    "name": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
-    "stars": 1,
-    "updated_at": "2026-10-06T17:07:47Z",
-    "url": "https://github.com/Deborahwalkerz661/ComfyUI-FS_Audio_Suite"
-  },
-  {
-    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
-    "id": "xieguigang/sciBASIC",
-    "language": "Visual Basic .NET",
-    "name": "xieguigang/sciBASIC",
-    "stars": 78,
-    "updated_at": "2026-10-06T17:07:23Z",
-    "url": "https://github.com/xieguigang/sciBASIC"
-  },
-  {
-    "description": "\u4e00\u4e2a\u53ef\u4ee5\u7528\u4e8e\u5904\u7406USTC\u90ae\u7bb1\u90ae\u4ef6\u7684skill",
-    "id": "charienustc/USTC-email-skill",
-    "language": "JavaScript",
-    "name": "charienustc/USTC-email-skill",
-    "stars": 0,
-    "updated_at": "2026-10-06T17:07:06Z",
-    "url": "https://github.com/charienustc/USTC-email-skill"
   }
 ]
