@@ -1,11 +1,101 @@
 [
   {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 3,
+    "updated_at": "2026-10-06T09:59:55Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Coding agent that plans, changes, tests and reviews, and touches your files only when you approve. Windows, macOS, Linux",
+    "id": "huynvic/albertcode-swe-agent",
+    "language": "Shell",
+    "name": "huynvic/albertcode-swe-agent",
+    "stars": 0,
+    "updated_at": "2026-10-06T09:59:33Z",
+    "url": "https://github.com/huynvic/albertcode-swe-agent"
+  },
+  {
+    "description": "\u5927\u6a21\u578b\u8c03\u5ea6\u3001\u672c\u5730\u5de5\u5177\u8ba1\u7b97\u7684\u5fc3\u7535\u56fe\u667a\u80fd\u4f53\uff1a\u6240\u6709\u6570\u503c\u90fd\u80fd\u8ffd\u6eaf\u5230\u4e00\u6b21\u5de5\u5177\u8c03\u7528 | ECG Agent \u2014 an LLM agent for ECG interpretation where every number is traced to a ",
+    "id": "Muhan-Qiu/ecg-agent",
+    "language": "Python",
+    "name": "Muhan-Qiu/ecg-agent",
+    "stars": 0,
+    "updated_at": "2026-10-06T09:57:02Z",
+    "url": "https://github.com/Muhan-Qiu/ecg-agent"
+  },
+  {
+    "description": "A self-hosted software factory \u2014 define goals, agents decompose and execute them through enforced pipelines, with humans",
+    "id": "diraigent/diraigent",
+    "language": "Rust",
+    "name": "diraigent/diraigent",
+    "stars": 21,
+    "updated_at": "2026-10-06T09:54:31Z",
+    "url": "https://github.com/diraigent/diraigent"
+  },
+  {
+    "description": "Uplift targeting plus an evidence-grounded local LLM agent and always-valid experiments \u2014 a growth system built to say \"",
+    "id": "ashvolt/free2Genius",
+    "language": "Python",
+    "name": "ashvolt/free2Genius",
+    "stars": 0,
+    "updated_at": "2026-10-06T09:54:24Z",
+    "url": "https://github.com/ashvolt/free2Genius"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-10-06T09:49:58Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
+    "id": "wufufu770/d2d",
+    "language": "JavaScript",
+    "name": "wufufu770/d2d",
+    "stars": 4,
+    "updated_at": "2026-10-06T09:49:43Z",
+    "url": "https://github.com/wufufu770/d2d"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 1,
+    "updated_at": "2026-10-06T09:47:54Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "RetailIQ: AI analyst for retail promotion performance. FastAPI + LangGraph agent with KPI tools and hybrid RAG, React UI",
+    "id": "Techspell01/retailiq-promotion-analyzer",
+    "language": "Python",
+    "name": "Techspell01/retailiq-promotion-analyzer",
+    "stars": 0,
+    "updated_at": "2026-10-06T09:45:45Z",
+    "url": "https://github.com/Techspell01/retailiq-promotion-analyzer"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-10-06T09:48:43Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4445,
-    "updated_at": "2026-10-06T09:44:45Z",
+    "updated_at": "2026-10-06T09:47:09Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -36,15 +126,6 @@
     "url": "https://github.com/qlheric/xizi-rujin"
   },
   {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 1,
-    "updated_at": "2026-10-06T09:41:22Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
     "description": "Stateful LangGraph research CLI with source-linked evidence, OpenAI/Gemini fallback, SQLite recovery, and optional Pinec",
     "id": "seekerPrice/research-assistant-agent",
     "language": "Python",
@@ -52,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-10-06T09:31:30Z",
     "url": "https://github.com/seekerPrice/research-assistant-agent"
-  },
-  {
-    "description": "A self-hosted software factory \u2014 define goals, agents decompose and execute them through enforced pipelines, with humans",
-    "id": "diraigent/diraigent",
-    "language": "Rust",
-    "name": "diraigent/diraigent",
-    "stars": 21,
-    "updated_at": "2026-10-06T09:31:16Z",
-    "url": "https://github.com/diraigent/diraigent"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -95,7 +167,7 @@
     "language": "Python",
     "name": "cheeezis/job_finder",
     "stars": 0,
-    "updated_at": "2026-10-06T09:24:10Z",
+    "updated_at": "2026-10-06T09:58:28Z",
     "url": "https://github.com/cheeezis/job_finder"
   },
   {
@@ -126,15 +198,6 @@
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
-    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
-    "id": "wufufu770/d2d",
-    "language": "JavaScript",
-    "name": "wufufu770/d2d",
-    "stars": 4,
-    "updated_at": "2026-10-06T09:13:50Z",
-    "url": "https://github.com/wufufu770/d2d"
-  },
-  {
     "description": "Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/",
     "id": "ZekaiShi/evo-subagent",
     "language": "JavaScript",
@@ -158,7 +221,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-06T09:18:22Z",
+    "updated_at": "2026-10-06T09:50:01Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -185,7 +248,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3511,
-    "updated_at": "2026-10-06T09:28:12Z",
+    "updated_at": "2026-10-06T09:56:38Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -205,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T08:43:41Z",
     "url": "https://github.com/crypmiy/vibe-trading-okx-futures"
-  },
-  {
-    "description": "Coding agent that plans, changes, tests and reviews, and touches your files only when you approve. Windows, macOS, Linux",
-    "id": "huynvic/albertcode-swe-agent",
-    "language": "Shell",
-    "name": "huynvic/albertcode-swe-agent",
-    "stars": 0,
-    "updated_at": "2026-10-06T08:43:33Z",
-    "url": "https://github.com/huynvic/albertcode-swe-agent"
   },
   {
     "description": "Scientific literature agent for grounded RAG, structured fact extraction, cross-paper quantitative analysis, evidence-tr",
@@ -394,59 +448,5 @@
     "stars": 8683,
     "updated_at": "2026-10-06T08:01:52Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-10-06T08:00:28Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Open-source AI coding agent and agent harness in Rust. Terminal CLI (TUI) for DeepSeek, Claude, OpenAI, Gemini and 10+ p",
-    "id": "zlogic-labs/zlogic",
-    "language": "Rust",
-    "name": "zlogic-labs/zlogic",
-    "stars": 3,
-    "updated_at": "2026-10-06T08:00:23Z",
-    "url": "https://github.com/zlogic-labs/zlogic"
-  },
-  {
-    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
-    "id": "chadwickhyperboloidal943/knowl",
-    "language": "TypeScript",
-    "name": "chadwickhyperboloidal943/knowl",
-    "stars": 0,
-    "updated_at": "2026-10-06T07:59:37Z",
-    "url": "https://github.com/chadwickhyperboloidal943/knowl"
-  },
-  {
-    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
-    "id": "Laurenfeminine36/google-jules-skill",
-    "language": "Python",
-    "name": "Laurenfeminine36/google-jules-skill",
-    "stars": 1,
-    "updated_at": "2026-10-06T07:59:30Z",
-    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-10-06T07:59:16Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-10-06T07:57:16Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
   }
 ]
