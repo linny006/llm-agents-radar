@@ -1,5 +1,86 @@
 [
   {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 1,
+    "updated_at": "2026-10-06T18:27:59Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 5,
+    "updated_at": "2026-10-06T18:27:21Z",
+    "url": "https://github.com/ljedrz/nachalnik"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-10-06T18:29:03Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 28,
+    "updated_at": "2026-10-06T18:24:54Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 11,
+    "updated_at": "2026-10-06T18:23:55Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Open source AI agent for macOS (MIT). One Command Panel for your mail, calendar, meetings, files and a shell it can undo",
+    "id": "dotcomjack/grux",
+    "language": "Swift",
+    "name": "dotcomjack/grux",
+    "stars": 30,
+    "updated_at": "2026-10-06T18:19:34Z",
+    "url": "https://github.com/dotcomjack/grux"
+  },
+  {
+    "description": "Cost-aware multi-agent orchestrator kit for OpenCode CLI \u2014 one routing agent, 14 specialized subagents, zero application",
+    "id": "NicoGenti/opencode-orchestrator-kit",
+    "language": "TypeScript",
+    "name": "NicoGenti/opencode-orchestrator-kit",
+    "stars": 7,
+    "updated_at": "2026-10-06T18:18:19Z",
+    "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
+  },
+  {
+    "description": "Is your backtest real? Deflated Sharpe Ratio, backtest-overfitting (PBO) and lookahead checks with measured false-positi",
+    "id": "jordanahern2009-svg/Tokio-ai",
+    "language": "Python",
+    "name": "jordanahern2009-svg/Tokio-ai",
+    "stars": 3,
+    "updated_at": "2026-10-06T18:18:11Z",
+    "url": "https://github.com/jordanahern2009-svg/Tokio-ai"
+  },
+  {
+    "description": "Multi-PDF question answering with a LangChain tool-calling agent, FAISS retrieval and page-level citations. FastAPI + St",
+    "id": "Nitesh-kelwani/Document-Q-A-Chatbot",
+    "language": "Python",
+    "name": "Nitesh-kelwani/Document-Q-A-Chatbot",
+    "stars": 0,
+    "updated_at": "2026-10-06T18:17:35Z",
+    "url": "https://github.com/Nitesh-kelwani/Document-Q-A-Chatbot"
+  },
+  {
     "description": "\u9ad8\u4e2d\u5316\u5b66\u8bd5\u5377 docx \u2192 Markdown \u65e0\u635f\u8f6c\u6362\u6d41\u6c34\u7ebf\uff1aMTEF5 \u4e8c\u8fdb\u5236\u516c\u5f0f\u8fd8\u539f\u3001OMML \u7ebf\u6027\u5316\u3001\u50cf\u7d20\u7ea7\u5224\u56fe\uff0caudit.py 10 \u9879\u673a\u5ba1 + \u5b88\u6052\u590d\u7b97\u53cc\u5224\u636e\uff0cU1\u2013U189 \u7ecf\u9a8c\u4f53\u7cfb\u3002\u5168\u6d41\u7a0b\u79bb\u7ebf\u3002",
     "id": "xmmmymm/docx-markdown-skill",
     "language": "Python",
@@ -7,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T18:14:53Z",
     "url": "https://github.com/xmmmymm/docx-markdown-skill"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 1,
-    "updated_at": "2026-10-06T18:09:13Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "Voyager \u00d7 VLML \u00d7 \u732b\u5a18\u4f34\u5b66\uff1a\u628a\u300c\u5b66\u4e60\u8005\u300d\u6362\u6210 agent \u7684\u6700\u5c0f\u53ef\u6267\u884c\u539f\u578b\uff08\u9762\u677f\u5df2\u4e0a\u817e\u8baf\u4e91\uff09",
@@ -54,15 +126,6 @@
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-10-06T18:13:37Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -95,17 +158,8 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 815,
-    "updated_at": "2026-10-06T17:53:12Z",
+    "updated_at": "2026-10-06T18:22:11Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 11,
-    "updated_at": "2026-10-06T17:57:50Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
@@ -160,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T17:36:04Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "Cost-aware multi-agent orchestrator kit for OpenCode CLI \u2014 one routing agent, 14 specialized subagents, zero application",
-    "id": "NicoGenti/opencode-orchestrator-kit",
-    "language": "TypeScript",
-    "name": "NicoGenti/opencode-orchestrator-kit",
-    "stars": 7,
-    "updated_at": "2026-10-06T17:35:02Z",
-    "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
   },
   {
     "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
@@ -387,15 +432,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "Open source AI agent for macOS (MIT). One Command Panel for your mail, calendar, meetings, files and a shell it can undo",
-    "id": "dotcomjack/grux",
-    "language": "Swift",
-    "name": "dotcomjack/grux",
-    "stars": 30,
-    "updated_at": "2026-10-06T16:42:10Z",
-    "url": "https://github.com/dotcomjack/grux"
-  },
-  {
     "description": "A local-first AI companion for Windows: it remembers you, dreams over your day at night, follows up on what matters and ",
     "id": "b7216309-jpg/little-bot",
     "language": "JavaScript",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-06T16:37:07Z",
     "url": "https://github.com/crypmiy/vibe-trading-okx-futures"
-  },
-  {
-    "description": "Read-only SRE assistant: plain-English questions answered from Prometheus, Loki, Grafana alerting, OnCall and cloud inve",
-    "id": "swaroop002/infra-agent",
-    "language": "Python",
-    "name": "swaroop002/infra-agent",
-    "stars": 0,
-    "updated_at": "2026-10-06T16:34:50Z",
-    "url": "https://github.com/swaroop002/infra-agent"
-  },
-  {
-    "description": "Visual inspection with an LLM agent: YOLOv8 + Qwen-VL, RAG standards retrieval via tool calling with grounded citations,",
-    "id": "mino19790622-dot/visual-inspection-report-generator",
-    "language": "Python",
-    "name": "mino19790622-dot/visual-inspection-report-generator",
-    "stars": 0,
-    "updated_at": "2026-10-06T16:32:22Z",
-    "url": "https://github.com/mino19790622-dot/visual-inspection-report-generator"
-  },
-  {
-    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
-    "id": "tessellated-statisticalcommission243/deep-research-skill",
-    "language": "\u2014",
-    "name": "tessellated-statisticalcommission243/deep-research-skill",
-    "stars": 3,
-    "updated_at": "2026-10-06T16:30:15Z",
-    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "Security operations AI agent built with LangGraph, deterministic policy enforcement, human approval, auditable tool use,",
-    "id": "luozhonglzw/cybersec-agent",
-    "language": "Python",
-    "name": "luozhonglzw/cybersec-agent",
-    "stars": 0,
-    "updated_at": "2026-10-06T16:26:03Z",
-    "url": "https://github.com/luozhonglzw/cybersec-agent"
   }
 ]
