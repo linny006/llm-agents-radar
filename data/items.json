@@ -1,21 +1,39 @@
 [
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
+    "description": "Autonomous red-team agent for MCP servers: recon\u2192hypothesis\u2192attack\u2192verify\u2192report, grounded anti-hallucination evidence, ",
+    "id": "AKArrok/McPwn",
     "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4445,
-    "updated_at": "2026-10-06T11:44:26Z",
-    "url": "https://github.com/gptme/gptme"
+    "name": "AKArrok/McPwn",
+    "stars": 0,
+    "updated_at": "2026-10-06T11:57:02Z",
+    "url": "https://github.com/AKArrok/McPwn"
   },
   {
-    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
-    "id": "ljedrz/nachalnik",
-    "language": "Rust",
-    "name": "ljedrz/nachalnik",
-    "stars": 5,
-    "updated_at": "2026-10-06T11:41:54Z",
-    "url": "https://github.com/ljedrz/nachalnik"
+    "description": "Vector search that ships as a file. Compile a corpus into one self-contained, hash-verified .pikelet \u2014 search it anywher",
+    "id": "mcn92/pikelet",
+    "language": "JavaScript",
+    "name": "mcn92/pikelet",
+    "stars": 2,
+    "updated_at": "2026-10-06T11:55:30Z",
+    "url": "https://github.com/mcn92/pikelet"
+  },
+  {
+    "description": "Self-hosted AIOps agent for DevOps: an AI ops copilot that investigates incidents on Linux servers and Kubernetes, finds",
+    "id": "Ayyush-Maheshwari/SupOps",
+    "language": "TypeScript",
+    "name": "Ayyush-Maheshwari/SupOps",
+    "stars": 0,
+    "updated_at": "2026-10-06T11:51:37Z",
+    "url": "https://github.com/Ayyush-Maheshwari/SupOps"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 130,
+    "updated_at": "2026-10-06T11:48:31Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "\u91cf\u7eb2\u611f\u77e5\u7684\u7269\u7406\u5b9a\u5f8b\u81ea\u52a8\u53d1\u73b0\u667a\u80fd\u4f53\uff1a\u91cf\u7eb2\u526a\u679d + OMP \u7a00\u758f\u56de\u5f52 + \u5916\u63a8\u4e0e\u7b26\u53f7\u53cc\u91cd\u9a8c\u8bc1\uff0c\u7ed3\u679c\u53ef\u590d\u73b0\u3001\u53ef\u5ba1\u8ba1\uff1b\u7ecf MCP \u63a5\u5165 Agnes Harness (AGH)\u3002\u6c5f\u82cf\u7701 AI+ \u9ed1\u5ba2\u677e\u53c2\u8d5b\u4f5c\u54c1\u3002",
@@ -23,8 +41,44 @@
     "language": "HTML",
     "name": "Arcticfox-star/SciFormula",
     "stars": 0,
-    "updated_at": "2026-10-06T11:41:24Z",
+    "updated_at": "2026-10-06T11:48:19Z",
     "url": "https://github.com/Arcticfox-star/SciFormula"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-06T11:48:11Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4445,
+    "updated_at": "2026-10-06T11:56:42Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Self-healing keep-alive, watchdog and status dashboard for the Desktop Commander Remote agent and Chrome Remote Desktop ",
+    "id": "analienx/remote-desktop-commander-agent-control",
+    "language": "Python",
+    "name": "analienx/remote-desktop-commander-agent-control",
+    "stars": 0,
+    "updated_at": "2026-10-06T11:46:25Z",
+    "url": "https://github.com/analienx/remote-desktop-commander-agent-control"
+  },
+  {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 5,
+    "updated_at": "2026-10-06T11:57:42Z",
+    "url": "https://github.com/ljedrz/nachalnik"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -59,7 +113,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-06T11:37:09Z",
+    "updated_at": "2026-10-06T11:49:42Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -211,18 +265,9 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 3511,
-    "updated_at": "2026-10-06T11:17:30Z",
+    "stars": 3512,
+    "updated_at": "2026-10-06T11:57:27Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-06T11:17:27Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
@@ -320,7 +365,7 @@
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 281,
-    "updated_at": "2026-10-06T11:08:57Z",
+    "updated_at": "2026-10-06T11:58:14Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 13,
     "updated_at": "2026-10-06T10:57:14Z",
     "url": "https://github.com/hasting323/AutoGLM-For-Android"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-10-06T10:55:54Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-10-06T10:54:20Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-10-06T10:57:12Z",
-    "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 4,
-    "updated_at": "2026-10-06T10:54:04Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "\ud83e\udd16 MioChat \u2014 \u5f00\u6e90\u7684 Agent \u64cd\u4f5c\u7cfb\u7edf\u3002Agent / Session / SubAgent \u4e09\u7ea7\u4e0a\u4e0b\u6587\u6a21\u578b\u3001V3 Hook \u5207\u9762\u3001MCP + Skills \u53cc\u6807\u51c6\u5de5\u5177\u751f\u6001\u3001\u591a\u6e20\u9053\u63a5\u5165\u4e0e\u5b9a\u65f6\u81ea\u6cbb\u3002\u6a21\u578b\u65e0\u5173\u3001\u81ea\u6258\u7ba1\u3002",
-    "id": "Pretend-to/mio-chat-backend",
-    "language": "JavaScript",
-    "name": "Pretend-to/mio-chat-backend",
-    "stars": 38,
-    "updated_at": "2026-10-06T10:39:47Z",
-    "url": "https://github.com/Pretend-to/mio-chat-backend"
   }
 ]
