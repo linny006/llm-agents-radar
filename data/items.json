@@ -1,11 +1,20 @@
 [
   {
+    "description": "Local-first AI workstation: Maple, a 20B ternary MLX model, lives in a 3D grove, runs deterministic experiments, and imp",
+    "id": "RasputinKaiser/Hemlock-Local-AI",
+    "language": "JavaScript",
+    "name": "RasputinKaiser/Hemlock-Local-AI",
+    "stars": 0,
+    "updated_at": "2026-10-06T00:10:43Z",
+    "url": "https://github.com/RasputinKaiser/Hemlock-Local-AI"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 8677,
-    "updated_at": "2026-10-05T23:59:25Z",
+    "updated_at": "2026-10-06T00:10:36Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-05T21:27:28Z",
     "url": "https://github.com/jack-h-park/pm-intelligence-engine"
-  },
-  {
-    "description": "Kali \u539f\u751f\u7684 LLM \u6e17\u900f\u6d4b\u8bd5 harness:\u5927\u6a21\u578b\u81ea\u4e3b\u9a71\u52a8 Kali \u5b8c\u6574\u5de5\u5177\u94fe,scope \u62a4\u680f + \u6301\u4e45 PTY + \u54c8\u5e0c\u94fe\u5ba1\u8ba1\u3002Python,GPL-3.0\u3002",
-    "id": "Moxxkidd/foam",
-    "language": "Python",
-    "name": "Moxxkidd/foam",
-    "stars": 0,
-    "updated_at": "2026-10-05T21:23:04Z",
-    "url": "https://github.com/Moxxkidd/foam"
   }
 ]
