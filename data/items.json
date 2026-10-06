@@ -1,5 +1,41 @@
 [
   {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-06T01:56:13Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-10-06T01:55:36Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
+    "id": "alexwkleung/reika",
+    "language": "TypeScript",
+    "name": "alexwkleung/reika",
+    "stars": 5,
+    "updated_at": "2026-10-06T01:54:00Z",
+    "url": "https://github.com/alexwkleung/reika"
+  },
+  {
+    "description": "Harness LLMs with Multi-Agent Programming",
+    "id": "langroid/langroid",
+    "language": "Python",
+    "name": "langroid/langroid",
+    "stars": 4109,
+    "updated_at": "2026-10-06T01:46:13Z",
+    "url": "https://github.com/langroid/langroid"
+  },
+  {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
     "id": "zhixuli0406/DuDuClaw",
     "language": "Rust",
@@ -23,7 +59,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-06T01:41:32Z",
+    "updated_at": "2026-10-06T01:51:08Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -34,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-10-06T01:31:47Z",
     "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-06T01:31:12Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -68,7 +95,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-10-06T01:26:16Z",
+    "updated_at": "2026-10-06T02:00:00Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -324,15 +351,6 @@
     "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
   },
   {
-    "description": "Harness LLMs with Multi-Agent Programming",
-    "id": "langroid/langroid",
-    "language": "Python",
-    "name": "langroid/langroid",
-    "stars": 4109,
-    "updated_at": "2026-10-06T00:45:23Z",
-    "url": "https://github.com/langroid/langroid"
-  },
-  {
     "description": "",
     "id": "JortegaR/ai-notes-api",
     "language": "JavaScript",
@@ -405,15 +423,6 @@
     "url": "https://github.com/RasputinKaiser/Hemlock-Local-AI"
   },
   {
-    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
-    "id": "alexwkleung/reika",
-    "language": "TypeScript",
-    "name": "alexwkleung/reika",
-    "stars": 5,
-    "updated_at": "2026-10-06T00:07:13Z",
-    "url": "https://github.com/alexwkleung/reika"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 130,
     "updated_at": "2026-10-05T23:44:39Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-10-05T23:35:32Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   }
 ]
