@@ -1,5 +1,149 @@
 [
   {
+    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
+    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "language": "\u2014",
+    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "stars": 0,
+    "updated_at": "2026-10-07T18:43:57Z",
+    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
+  },
+  {
+    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
+    "id": "clashroy5384/ai-papers-hub",
+    "language": "\u2014",
+    "name": "clashroy5384/ai-papers-hub",
+    "stars": 0,
+    "updated_at": "2026-10-07T18:43:19Z",
+    "url": "https://github.com/clashroy5384/ai-papers-hub"
+  },
+  {
+    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
+    "id": "eshanized/M31A",
+    "language": "Rust",
+    "name": "eshanized/M31A",
+    "stars": 10,
+    "updated_at": "2026-10-07T18:42:49Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
+    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
+    "language": "Python",
+    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
+    "stars": 5,
+    "updated_at": "2026-10-07T18:41:29Z",
+    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
+  },
+  {
+    "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
+    "id": "Shuffle-1992/dsh-context-pilot",
+    "language": "JavaScript",
+    "name": "Shuffle-1992/dsh-context-pilot",
+    "stars": 0,
+    "updated_at": "2026-10-07T18:39:58Z",
+    "url": "https://github.com/Shuffle-1992/dsh-context-pilot"
+  },
+  {
+    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
+    "id": "oxidizable-malinois605/bridge-suite-mcp",
+    "language": "TypeScript",
+    "name": "oxidizable-malinois605/bridge-suite-mcp",
+    "stars": 0,
+    "updated_at": "2026-10-07T18:39:28Z",
+    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
+  },
+  {
+    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
+    "id": "Arjunadh5305/ios-skills-collection",
+    "language": "\u2014",
+    "name": "Arjunadh5305/ios-skills-collection",
+    "stars": 1,
+    "updated_at": "2026-10-07T18:39:25Z",
+    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
+  },
+  {
+    "description": "Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into",
+    "id": "AskTheWay/dsh-auto-memory",
+    "language": "TypeScript",
+    "name": "AskTheWay/dsh-auto-memory",
+    "stars": 104,
+    "updated_at": "2026-10-07T18:39:08Z",
+    "url": "https://github.com/AskTheWay/dsh-auto-memory"
+  },
+  {
+    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
+    "id": "Screwtopped-annapavlova802/SparkLabs",
+    "language": "C++",
+    "name": "Screwtopped-annapavlova802/SparkLabs",
+    "stars": 1,
+    "updated_at": "2026-10-07T18:35:47Z",
+    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
+  },
+  {
+    "description": "Skill-first operating layer for agentic brokerage trading \u2014 strategy, guardrails, and provider adapters an LLM agent fol",
+    "id": "jack-h-park/stock-trading-skills",
+    "language": "Python",
+    "name": "jack-h-park/stock-trading-skills",
+    "stars": 0,
+    "updated_at": "2026-10-07T18:34:35Z",
+    "url": "https://github.com/jack-h-park/stock-trading-skills"
+  },
+  {
+    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
+    "id": "mriazi1982/octopai",
+    "language": "Python",
+    "name": "mriazi1982/octopai",
+    "stars": 1,
+    "updated_at": "2026-10-07T18:34:20Z",
+    "url": "https://github.com/mriazi1982/octopai"
+  },
+  {
+    "description": "Open-source AI coding agent for the terminal that works with several subscriptions in one session \u2014 your Claude Pro/Max,",
+    "id": "onembyte/kolkrabbi",
+    "language": "Go",
+    "name": "onembyte/kolkrabbi",
+    "stars": 2,
+    "updated_at": "2026-10-07T18:35:49Z",
+    "url": "https://github.com/onembyte/kolkrabbi"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-07T18:31:26Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
+    "id": "mezoali100/exforum-auto-poster",
+    "language": "\u2014",
+    "name": "mezoali100/exforum-auto-poster",
+    "stars": 1,
+    "updated_at": "2026-10-07T18:31:15Z",
+    "url": "https://github.com/mezoali100/exforum-auto-poster"
+  },
+  {
+    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
+    "id": "Bowotria/aethercore",
+    "language": "Go",
+    "name": "Bowotria/aethercore",
+    "stars": 2,
+    "updated_at": "2026-10-07T18:30:57Z",
+    "url": "https://github.com/Bowotria/aethercore"
+  },
+  {
+    "description": "A multi-agent research system for the humanities and social sciences.",
+    "id": "Luciole-Studio/Misaka-Agent",
+    "language": "Python",
+    "name": "Luciole-Studio/Misaka-Agent",
+    "stars": 133,
+    "updated_at": "2026-10-07T18:30:36Z",
+    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
+  },
+  {
     "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
     "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
     "language": "Python",
@@ -14,26 +158,8 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-07T18:30:04Z",
+    "updated_at": "2026-10-07T18:40:47Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into",
-    "id": "AskTheWay/dsh-auto-memory",
-    "language": "TypeScript",
-    "name": "AskTheWay/dsh-auto-memory",
-    "stars": 104,
-    "updated_at": "2026-10-07T18:25:49Z",
-    "url": "https://github.com/AskTheWay/dsh-auto-memory"
-  },
-  {
-    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
-    "id": "eshanized/M31A",
-    "language": "Rust",
-    "name": "eshanized/M31A",
-    "stars": 10,
-    "updated_at": "2026-10-07T18:25:43Z",
-    "url": "https://github.com/eshanized/M31A"
   },
   {
     "description": "AIOps for telecom: synthetic network KPIs with labeled fault injection, Isolation Forest vs LSTM autoencoder, and an LLM",
@@ -52,15 +178,6 @@
     "stars": 4,
     "updated_at": "2026-10-07T18:25:09Z",
     "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "Open-source AI coding agent for the terminal that works with several subscriptions in one session \u2014 your Claude Pro/Max,",
-    "id": "onembyte/kolkrabbi",
-    "language": "Go",
-    "name": "onembyte/kolkrabbi",
-    "stars": 2,
-    "updated_at": "2026-10-07T18:24:00Z",
-    "url": "https://github.com/onembyte/kolkrabbi"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -149,7 +266,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-07T18:21:01Z",
+    "updated_at": "2026-10-07T18:40:27Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -196,24 +313,6 @@
     "stars": 0,
     "updated_at": "2026-10-07T18:06:08Z",
     "url": "https://github.com/cheeezis/job_finder"
-  },
-  {
-    "description": "A multi-agent research system for the humanities and social sciences.",
-    "id": "Luciole-Studio/Misaka-Agent",
-    "language": "Python",
-    "name": "Luciole-Studio/Misaka-Agent",
-    "stars": 133,
-    "updated_at": "2026-10-07T18:05:33Z",
-    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
-  },
-  {
-    "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
-    "id": "Shuffle-1992/dsh-context-pilot",
-    "language": "JavaScript",
-    "name": "Shuffle-1992/dsh-context-pilot",
-    "stars": 0,
-    "updated_at": "2026-10-07T18:03:34Z",
-    "url": "https://github.com/Shuffle-1992/dsh-context-pilot"
   },
   {
     "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
@@ -266,7 +365,7 @@
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 280,
-    "updated_at": "2026-10-07T18:27:00Z",
+    "updated_at": "2026-10-07T18:40:18Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-07T17:35:57Z",
     "url": "https://github.com/tzur669-lab/whatsapp-assistant"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8721,
-    "updated_at": "2026-10-07T17:31:21Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
-    "id": "yurika0211/lucky-agent",
-    "language": "Go",
-    "name": "yurika0211/lucky-agent",
-    "stars": 14,
-    "updated_at": "2026-10-07T17:29:39Z",
-    "url": "https://github.com/yurika0211/lucky-agent"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-07T17:23:44Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
-    "id": "zty522/partner",
-    "language": "Python",
-    "name": "zty522/partner",
-    "stars": 5,
-    "updated_at": "2026-10-07T17:17:46Z",
-    "url": "https://github.com/zty522/partner"
-  },
-  {
-    "description": "DeepSeek Harness na Androidzie w jednym APK, bez Termuxa i roota, z polskim interfejsem i kompletem narz\u0119dzi programisty",
-    "id": "gangg111/DeepSeek-Harness-Mobile",
-    "language": "JavaScript",
-    "name": "gangg111/DeepSeek-Harness-Mobile",
-    "stars": 0,
-    "updated_at": "2026-10-07T17:17:44Z",
-    "url": "https://github.com/gangg111/DeepSeek-Harness-Mobile"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 130,
-    "updated_at": "2026-10-07T17:15:09Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "\u5e26\u7b56\u7565\u9a8c\u8bc1\u7684 A \u80a1 LLM \u5206\u6790\u7cfb\u7edf \u2014\u2014 \u591a\u6e90\u964d\u7ea7 + \u5b9a\u65f6\u4efb\u52a1 + \u591a\u901a\u9053\u63a8\u9001\uff1b\u6838\u5fc3\u589e\u91cf\u662f\u53ef\u8bc1\u4f2a\u7684\u56de\u6d4b\u4e0e\u9a8c\u8bc1\u5c42\uff08\u672a\u6765\u51fd\u6570\u63a2\u6d4b / \u6837\u672c\u5185\u5916\u5207\u5206 / t\u68c0\u9a8c / \u57fa\u51c6\u5bf9\u6bd4\uff09",
-    "id": "AandBorC/dsa-lite",
-    "language": "Python",
-    "name": "AandBorC/dsa-lite",
-    "stars": 0,
-    "updated_at": "2026-10-07T17:02:41Z",
-    "url": "https://github.com/AandBorC/dsa-lite"
-  },
-  {
-    "description": "Self-hosted AIOps agent for DevOps: an AI ops copilot that investigates incidents on Linux servers and Kubernetes, finds",
-    "id": "Ayyush-Maheshwari/SupOps",
-    "language": "TypeScript",
-    "name": "Ayyush-Maheshwari/SupOps",
-    "stars": 0,
-    "updated_at": "2026-10-07T17:02:13Z",
-    "url": "https://github.com/Ayyush-Maheshwari/SupOps"
-  },
-  {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-07T16:52:08Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "tmux for coding agents. Run AI coding agents side by side in tabs.",
-    "id": "mmoehabb/maestro",
-    "language": "Go",
-    "name": "mmoehabb/maestro",
-    "stars": 0,
-    "updated_at": "2026-10-07T16:50:43Z",
-    "url": "https://github.com/mmoehabb/maestro"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 78,
-    "updated_at": "2026-10-07T16:46:38Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   }
 ]
