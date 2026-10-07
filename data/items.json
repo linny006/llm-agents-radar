@@ -1,12 +1,129 @@
 [
   {
+    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
+    "id": "QQSHI13/fox-agent",
+    "language": "TypeScript",
+    "name": "QQSHI13/fox-agent",
+    "stars": 2,
+    "updated_at": "2026-10-07T09:30:07Z",
+    "url": "https://github.com/QQSHI13/fox-agent"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-10-07T09:29:48Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+    "id": "feder-cr/dots",
+    "language": "TypeScript",
+    "name": "feder-cr/dots",
+    "stars": 31782,
+    "updated_at": "2026-10-07T09:28:32Z",
+    "url": "https://github.com/feder-cr/dots"
+  },
+  {
     "description": "A multi-agent research system for the humanities and social sciences.",
     "id": "Luciole-Studio/Misaka-Agent",
     "language": "Python",
     "name": "Luciole-Studio/Misaka-Agent",
     "stars": 126,
-    "updated_at": "2026-10-07T09:15:11Z",
+    "updated_at": "2026-10-07T09:27:43Z",
     "url": "https://github.com/Luciole-Studio/Misaka-Agent"
+  },
+  {
+    "description": "\u8001\u5ba1\u8ba1\u00b7\u62e6\u622a\u5047\u7eff\uff1aAI \u8bf4\u300c\u6d4b\u8bd5\u5168\u8fc7\u4e86\u300d\u65f6\uff0c\u7528\u4e09\u95ee\uff08\u7ea2\u8fc7\u5417 / \u9519\u7684\u6293\u5f97\u4f4f\u5417 / \u6302\u7684\u90a3\u4e9b\u5462\uff09+ \u786e\u5b9a\u6027\u5de5\u5177\u94fe\u9a8c\u8bc1\u8fd9\u4e2a\u300c\u901a\u8fc7\u300d\u7b97\u4e0d\u7b97\u6570\u3002\u6ca1\u7ea2\u8fc7\u7684\u7eff\uff0c\u90fd\u662f\u5047\u7eff\u3002",
+    "id": "qlheric/xizi-rujin",
+    "language": "Python",
+    "name": "qlheric/xizi-rujin",
+    "stars": 1,
+    "updated_at": "2026-10-07T09:27:14Z",
+    "url": "https://github.com/qlheric/xizi-rujin"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 21,
+    "updated_at": "2026-10-07T09:27:05Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
+    "id": "cheeezis/job_finder",
+    "language": "Python",
+    "name": "cheeezis/job_finder",
+    "stars": 0,
+    "updated_at": "2026-10-07T09:26:47Z",
+    "url": "https://github.com/cheeezis/job_finder"
+  },
+  {
+    "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
+    "id": "yurika0211/lucky-agent",
+    "language": "Go",
+    "name": "yurika0211/lucky-agent",
+    "stars": 14,
+    "updated_at": "2026-10-07T09:26:09Z",
+    "url": "https://github.com/yurika0211/lucky-agent"
+  },
+  {
+    "description": "Control a real iPhone from a Mac over WebDriverAgent \u2014 live screen, tap/swipe/type, plus a Python client for LLM agents.",
+    "id": "koprjaa/iphone-agent",
+    "language": "Python",
+    "name": "koprjaa/iphone-agent",
+    "stars": 0,
+    "updated_at": "2026-10-07T09:24:59Z",
+    "url": "https://github.com/koprjaa/iphone-agent"
+  },
+  {
+    "description": "\ud83d\ude80 Xenon 0.9.2 \u2014 \u53ef\u9a8c\u8bc1\u7684 AI coding agent runtime\uff1a\u5355\u4e00\u4efb\u52a1\u72b6\u6001\u673a\u3001\u8bc1\u636e\u9a71\u52a8\u6267\u884c\u30017 \u79cd\u63a8\u7406\u8303\u5f0f\u3001MCP\u3001\u591a\u6a21\u578b\u4e0e Windows/GBK \u517c\u5bb9\u3002",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 53,
+    "updated_at": "2026-10-07T09:20:48Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "Personal AI agent built from scratch \u2014 LLM layer, RAG knowledge base, tool calling loop. No frameworks, learn by buildin",
+    "id": "Wenyan0315/facta",
+    "language": "Python",
+    "name": "Wenyan0315/facta",
+    "stars": 1,
+    "updated_at": "2026-10-07T09:20:13Z",
+    "url": "https://github.com/Wenyan0315/facta"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-10-07T09:19:15Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Agent de triage web-s\u00e9curit\u00e9 (Claude Agent SDK) : heuristiques + classifieur entra\u00een\u00e9 (MLOps) pour la d\u00e9tection de phish",
+    "id": "TatianaT13/websec-triage-agent",
+    "language": "Python",
+    "name": "TatianaT13/websec-triage-agent",
+    "stars": 0,
+    "updated_at": "2026-10-07T09:18:36Z",
+    "url": "https://github.com/TatianaT13/websec-triage-agent"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 330,
+    "updated_at": "2026-10-07T09:17:36Z",
+    "url": "https://github.com/yologdev/yoagent"
   },
   {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
@@ -23,7 +140,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 2,
-    "updated_at": "2026-10-07T09:11:58Z",
+    "updated_at": "2026-10-07T09:29:45Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -34,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-07T09:10:44Z",
     "url": "https://github.com/shrek-abaper/sap-nexus-agent"
-  },
-  {
-    "description": "\ud83d\ude80 Xenon 0.9.2 \u2014 \u53ef\u9a8c\u8bc1\u7684 AI coding agent runtime\uff1a\u5355\u4e00\u4efb\u52a1\u72b6\u6001\u673a\u3001\u8bc1\u636e\u9a71\u52a8\u6267\u884c\u30017 \u79cd\u63a8\u7406\u8303\u5f0f\u3001MCP\u3001\u591a\u6a21\u578b\u4e0e Windows/GBK \u517c\u5bb9\u3002",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 53,
-    "updated_at": "2026-10-07T09:09:57Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
   },
   {
     "description": "Cost-aware multi-agent orchestrator kit for OpenCode CLI \u2014 one routing agent, 14 specialized subagents, zero application",
@@ -59,7 +167,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4444,
-    "updated_at": "2026-10-07T09:13:19Z",
+    "updated_at": "2026-10-07T09:23:32Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -95,7 +203,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3519,
-    "updated_at": "2026-10-07T09:10:29Z",
+    "updated_at": "2026-10-07T09:28:05Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -108,15 +216,6 @@
     "url": "https://github.com/kangwoo/aimon-core"
   },
   {
-    "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
-    "id": "feder-cr/dots",
-    "language": "TypeScript",
-    "name": "feder-cr/dots",
-    "stars": 31782,
-    "updated_at": "2026-10-07T09:10:44Z",
-    "url": "https://github.com/feder-cr/dots"
-  },
-  {
     "description": "LLM-powered TeamSpeak bot | LLM\u9a71\u52a8\u7684TeamSpeak\u673a\u5668\u4eba",
     "id": "Dr1mH4X/TeamSpeakClaw",
     "language": "Rust",
@@ -124,15 +223,6 @@
     "stars": 6,
     "updated_at": "2026-10-07T08:58:02Z",
     "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-10-07T09:08:55Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
@@ -144,15 +234,6 @@
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 21,
-    "updated_at": "2026-10-07T08:51:40Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
     "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
@@ -162,21 +243,12 @@
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
-    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
-    "id": "QQSHI13/fox-agent",
-    "language": "TypeScript",
-    "name": "QQSHI13/fox-agent",
-    "stars": 2,
-    "updated_at": "2026-10-07T08:50:29Z",
-    "url": "https://github.com/QQSHI13/fox-agent"
-  },
-  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-07T08:59:53Z",
+    "updated_at": "2026-10-07T09:19:56Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -205,15 +277,6 @@
     "stars": 2637,
     "updated_at": "2026-10-07T08:43:14Z",
     "url": "https://github.com/feder-cr/invisible_playwright_mcp"
-  },
-  {
-    "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
-    "id": "cheeezis/job_finder",
-    "language": "Python",
-    "name": "cheeezis/job_finder",
-    "stars": 0,
-    "updated_at": "2026-10-07T08:42:58Z",
-    "url": "https://github.com/cheeezis/job_finder"
   },
   {
     "description": "Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/",
@@ -297,15 +360,6 @@
     "url": "https://github.com/Ayyush-Maheshwari/SupOps"
   },
   {
-    "description": "Agent de triage web-s\u00e9curit\u00e9 (Claude Agent SDK) : heuristiques + classifieur entra\u00een\u00e9 (MLOps) pour la d\u00e9tection de phish",
-    "id": "TatianaT13/websec-triage-agent",
-    "language": "Python",
-    "name": "TatianaT13/websec-triage-agent",
-    "stars": 0,
-    "updated_at": "2026-10-07T08:26:28Z",
-    "url": "https://github.com/TatianaT13/websec-triage-agent"
-  },
-  {
     "description": "Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi",
     "id": "zig333/ELAI-archive",
     "language": "\u2014",
@@ -319,7 +373,7 @@
     "id": "wuyhong715/rikkahub-agent-pure",
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
-    "stars": 4,
+    "stars": 5,
     "updated_at": "2026-10-07T08:22:50Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-07T08:16:49Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "TCMS \u00d7 AI \u5168\u6d41\u7a0b\u6d4b\u8bd5\u5de5\u7a0b\u5e08 Agent\uff08\u4e09\u4ed3\u5408\u4e00 monorepo\uff09\uff1a\u771f\u5b9e\u5217\u8f66\u8d44\u4ea7 \u2192 \u9886\u57df\u5f15\u64ce \u2192 \u77e5\u8bc6\u5e95\u5ea7 \u2192 Agent \u67e5\u8bc1/\u9020\u7528\u4f8b/\u771f\u8dd1 \u2192 \u673a\u5668\u81ea\u8bc1\u3002\u56db\u7ea7\u5de5\u5177\u6743\u9650 + \u4eba\u5728\u73af\u8def\u5ba1\u6279 + \u56db\u5c42\u8bb0\u5fc6 + GraphRAG ",
-    "id": "zych2002918/tcms-agent",
-    "language": "Python",
-    "name": "zych2002918/tcms-agent",
-    "stars": 0,
-    "updated_at": "2026-10-07T08:15:08Z",
-    "url": "https://github.com/zych2002918/tcms-agent"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-10-07T08:14:48Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
-    "id": "clashroy5384/ai-papers-hub",
-    "language": "\u2014",
-    "name": "clashroy5384/ai-papers-hub",
-    "stars": 0,
-    "updated_at": "2026-10-07T08:13:28Z",
-    "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "The Agent Knowledge Cycle as a single behavioral rules file \u2014 install all six phases without the six standalone skills.",
-    "id": "shimo4228/akc-cycle",
-    "language": "Python",
-    "name": "shimo4228/akc-cycle",
-    "stars": 1,
-    "updated_at": "2026-10-07T08:12:33Z",
-    "url": "https://github.com/shimo4228/akc-cycle"
-  },
-  {
-    "description": "SPXH \u00b7 \u667a\u80fd\u5c04\u9891\u4fe1\u53f7\u5206\u6790\u5e73\u53f0\uff1a\u4ece\u672a\u77e5 I/Q \u5230\u53ef\u8bfb\u4e1a\u52a1\u6bd4\u7279\u7684\u786e\u5b9a\u6027\u6d41\u6c34\u7ebf\uff08\u7eaf Python\uff0c\u6838\u5fc3\u53ea\u4f9d\u8d56 numpy + scipy\uff09",
-    "id": "WmjXiaoJun/SPXH",
-    "language": "Python",
-    "name": "WmjXiaoJun/SPXH",
-    "stars": 0,
-    "updated_at": "2026-10-07T08:12:10Z",
-    "url": "https://github.com/WmjXiaoJun/SPXH"
-  },
-  {
-    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
-    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "language": "Python",
-    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "stars": 5,
-    "updated_at": "2026-10-07T08:11:42Z",
-    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
   }
 ]
