@@ -1,21 +1,21 @@
 [
   {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-10-07T12:15:00Z",
-    "url": "https://github.com/g761007/daily-dispatch"
+    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
+    "id": "QQSHI13/fox-agent",
+    "language": "TypeScript",
+    "name": "QQSHI13/fox-agent",
+    "stars": 2,
+    "updated_at": "2026-10-07T12:29:23Z",
+    "url": "https://github.com/QQSHI13/fox-agent"
   },
   {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 2,
-    "updated_at": "2026-10-07T12:14:08Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 333,
+    "updated_at": "2026-10-07T12:27:56Z",
+    "url": "https://github.com/yologdev/yoagent"
   },
   {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
@@ -23,8 +23,116 @@
     "language": "TypeScript",
     "name": "dsswift/ion",
     "stars": 3,
-    "updated_at": "2026-10-07T12:12:38Z",
+    "updated_at": "2026-10-07T12:27:52Z",
     "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
+    "id": "anchor-inference/daedalus",
+    "language": "Python",
+    "name": "anchor-inference/daedalus",
+    "stars": 1,
+    "updated_at": "2026-10-07T12:27:20Z",
+    "url": "https://github.com/anchor-inference/daedalus"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-07T12:26:44Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 2,
+    "updated_at": "2026-10-07T12:25:27Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "A multi-agent research system for the humanities and social sciences.",
+    "id": "Luciole-Studio/Misaka-Agent",
+    "language": "Python",
+    "name": "Luciole-Studio/Misaka-Agent",
+    "stars": 127,
+    "updated_at": "2026-10-07T12:23:21Z",
+    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
+  },
+  {
+    "description": "A\u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\uff1a\u80a1\u7968\u5206\u6790\u3001\u91cf\u5316\u4ea4\u6613\u5206\u6790\u3001\u76d8\u540e\u590d\u76d8\u684c\u9762\u5de5\u4f5c\u53f0\u2014\u2014easy stock",
+    "id": "jundizhou/easy-stock",
+    "language": "Go",
+    "name": "jundizhou/easy-stock",
+    "stars": 1341,
+    "updated_at": "2026-10-07T12:23:44Z",
+    "url": "https://github.com/jundizhou/easy-stock"
+  },
+  {
+    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
+    "id": "wuyhong715/rikkahub-agent-pure",
+    "language": "Kotlin",
+    "name": "wuyhong715/rikkahub-agent-pure",
+    "stars": 6,
+    "updated_at": "2026-10-07T12:22:24Z",
+    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-10-07T12:21:48Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Coding agent that plans, changes, tests and reviews, and touches your files only when you approve. Windows, macOS, Linux",
+    "id": "huynvic/albertcode-swe-agent",
+    "language": "Shell",
+    "name": "huynvic/albertcode-swe-agent",
+    "stars": 0,
+    "updated_at": "2026-10-07T12:19:57Z",
+    "url": "https://github.com/huynvic/albertcode-swe-agent"
+  },
+  {
+    "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
+    "id": "kashyaprajharsh/medha-agent",
+    "language": "Rust",
+    "name": "kashyaprajharsh/medha-agent",
+    "stars": 0,
+    "updated_at": "2026-10-07T12:19:38Z",
+    "url": "https://github.com/kashyaprajharsh/medha-agent"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 20,
+    "updated_at": "2026-10-07T12:26:38Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "\u628a\u5927\u6a21\u578b\u5f53\u53f8\u4ee4\u3001\u811a\u672c\u5f53\u624b\u7684 DSH Agent \u9884\u8bbe\uff1a\u5de5\u5177\u91cc\u96f6\u4e1a\u52a1\u5224\u65ad\uff0c\u8ba9\u6a21\u578b\u5728\u8fd0\u884c\u65f6\u81ea\u9002\u5e94\u52a8\u6001\u7ed3\u6784\u7684\u7f51\u7ad9",
+    "id": "LeuJasYoh/dsh-chaoxing",
+    "language": "JavaScript",
+    "name": "LeuJasYoh/dsh-chaoxing",
+    "stars": 0,
+    "updated_at": "2026-10-07T12:16:07Z",
+    "url": "https://github.com/LeuJasYoh/dsh-chaoxing"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-10-07T12:15:00Z",
+    "url": "https://github.com/g761007/daily-dispatch"
   },
   {
     "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
@@ -43,33 +151,6 @@
     "stars": 2,
     "updated_at": "2026-10-07T12:08:00Z",
     "url": "https://github.com/grauwolf32/contractor"
-  },
-  {
-    "description": "A multi-agent research system for the humanities and social sciences.",
-    "id": "Luciole-Studio/Misaka-Agent",
-    "language": "Python",
-    "name": "Luciole-Studio/Misaka-Agent",
-    "stars": 126,
-    "updated_at": "2026-10-07T12:07:28Z",
-    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
-  },
-  {
-    "description": "A\u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\uff1a\u80a1\u7968\u5206\u6790\u3001\u91cf\u5316\u4ea4\u6613\u5206\u6790\u3001\u76d8\u540e\u590d\u76d8\u684c\u9762\u5de5\u4f5c\u53f0\u2014\u2014easy stock",
-    "id": "jundizhou/easy-stock",
-    "language": "Go",
-    "name": "jundizhou/easy-stock",
-    "stars": 1341,
-    "updated_at": "2026-10-07T12:05:35Z",
-    "url": "https://github.com/jundizhou/easy-stock"
-  },
-  {
-    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
-    "id": "QQSHI13/fox-agent",
-    "language": "TypeScript",
-    "name": "QQSHI13/fox-agent",
-    "stars": 2,
-    "updated_at": "2026-10-07T12:05:15Z",
-    "url": "https://github.com/QQSHI13/fox-agent"
   },
   {
     "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
@@ -126,31 +207,13 @@
     "url": "https://github.com/genieincodebottle/generative-ai"
   },
   {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-07T12:02:57Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "AI agents that each own a computer: a VM on your PC with a desktop, shell, files, memory and skills, an anti-detect Fire",
+    "description": "Open-source, self-hosted alternative to OpenAI Dots, Meta Muse, Grok Bot, Manus Cue and Claude Cowork. AI agents that ea",
     "id": "feder-cr/dots",
     "language": "TypeScript",
     "name": "feder-cr/dots",
     "stars": 31782,
     "updated_at": "2026-10-07T11:34:19Z",
     "url": "https://github.com/feder-cr/dots"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-10-07T12:03:31Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -160,15 +223,6 @@
     "stars": 7,
     "updated_at": "2026-10-07T11:31:35Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 20,
-    "updated_at": "2026-10-07T12:12:39Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
@@ -243,15 +297,6 @@
     "url": "https://github.com/helixml/helix"
   },
   {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 331,
-    "updated_at": "2026-10-07T12:10:36Z",
-    "url": "https://github.com/yologdev/yoagent"
-  },
-  {
     "description": "LLM agent for delivery-rider payout disputes: deterministic money rules, idempotent payouts, ops approval queue, black-b",
     "id": "lakshya29sh/quickdrop-dispute-agent",
     "language": "Python",
@@ -266,7 +311,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4443,
-    "updated_at": "2026-10-07T12:11:20Z",
+    "updated_at": "2026-10-07T12:27:47Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -329,7 +374,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 6125,
-    "updated_at": "2026-10-07T10:29:16Z",
+    "updated_at": "2026-10-07T12:30:12Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-07T10:12:09Z",
     "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
-  },
-  {
-    "description": "Field notes from inside one autonomous agent trying to become something that doesn't exist yet \u2014 including the failures ",
-    "id": "massimiliano1991/the-attempt",
-    "language": "HTML",
-    "name": "massimiliano1991/the-attempt",
-    "stars": 1,
-    "updated_at": "2026-10-07T10:12:03Z",
-    "url": "https://github.com/massimiliano1991/the-attempt"
-  },
-  {
-    "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
-    "id": "EpsteinF1les/tts",
-    "language": "\u2014",
-    "name": "EpsteinF1les/tts",
-    "stars": 0,
-    "updated_at": "2026-10-07T10:11:27Z",
-    "url": "https://github.com/EpsteinF1les/tts"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-10-07T10:07:14Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
-    "id": "clashroy5384/ai-papers-hub",
-    "language": "\u2014",
-    "name": "clashroy5384/ai-papers-hub",
-    "stars": 0,
-    "updated_at": "2026-10-07T10:06:33Z",
-    "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
-    "id": "zty522/partner",
-    "language": "Python",
-    "name": "zty522/partner",
-    "stars": 5,
-    "updated_at": "2026-10-07T10:05:47Z",
-    "url": "https://github.com/zty522/partner"
   }
 ]
