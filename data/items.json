@@ -1,5 +1,140 @@
 [
   {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 5,
+    "updated_at": "2026-10-07T12:58:29Z",
+    "url": "https://github.com/ljedrz/nachalnik"
+  },
+  {
+    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
+    "id": "QQSHI13/fox-agent",
+    "language": "TypeScript",
+    "name": "QQSHI13/fox-agent",
+    "stars": 2,
+    "updated_at": "2026-10-07T12:58:21Z",
+    "url": "https://github.com/QQSHI13/fox-agent"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-10-07T12:58:15Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "Open-source AI coding agent for the terminal that works with several subscriptions in one session \u2014 your Claude Pro/Max,",
+    "id": "onembyte/kolkrabbi",
+    "language": "Go",
+    "name": "onembyte/kolkrabbi",
+    "stars": 2,
+    "updated_at": "2026-10-07T12:57:52Z",
+    "url": "https://github.com/onembyte/kolkrabbi"
+  },
+  {
+    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
+    "id": "mohahasan/ios-agentic-skills",
+    "language": "JavaScript",
+    "name": "mohahasan/ios-agentic-skills",
+    "stars": 4,
+    "updated_at": "2026-10-07T12:56:54Z",
+    "url": "https://github.com/mohahasan/ios-agentic-skills"
+  },
+  {
+    "description": "\u628a\u5927\u6a21\u578b\u5f53\u53f8\u4ee4\u3001\u811a\u672c\u5f53\u624b\u7684 DSH Agent \u9884\u8bbe\uff1a\u5de5\u5177\u91cc\u96f6\u4e1a\u52a1\u5224\u65ad\uff0c\u8ba9\u6a21\u578b\u5728\u8fd0\u884c\u65f6\u81ea\u9002\u5e94\u52a8\u6001\u7ed3\u6784\u7684\u7f51\u7ad9",
+    "id": "LeuJasYoh/dsh-chaoxing",
+    "language": "JavaScript",
+    "name": "LeuJasYoh/dsh-chaoxing",
+    "stars": 0,
+    "updated_at": "2026-10-07T12:56:38Z",
+    "url": "https://github.com/LeuJasYoh/dsh-chaoxing"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-07T12:54:49Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-07T12:56:38Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "DeepSeek Harness na Androidzie w jednym APK, bez Termuxa i roota, z polskim interfejsem i kompletem narz\u0119dzi programisty",
+    "id": "gangg111/DeepSeek-Harness-Mobile",
+    "language": "JavaScript",
+    "name": "gangg111/DeepSeek-Harness-Mobile",
+    "stars": 0,
+    "updated_at": "2026-10-07T12:52:25Z",
+    "url": "https://github.com/gangg111/DeepSeek-Harness-Mobile"
+  },
+  {
+    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
+    "id": "Danisxxx/comfyUI-LongLook",
+    "language": "Python",
+    "name": "Danisxxx/comfyUI-LongLook",
+    "stars": 2,
+    "updated_at": "2026-10-07T12:52:11Z",
+    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
+  },
+  {
+    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
+    "id": "axxafo/awesome-agent-benchmarks",
+    "language": "\u2014",
+    "name": "axxafo/awesome-agent-benchmarks",
+    "stars": 4,
+    "updated_at": "2026-10-07T12:51:22Z",
+    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 816,
+    "updated_at": "2026-10-07T12:47:41Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Production-ready template for a self-hosted Agent Protocol server: FastAPI + LangGraph + PostgreSQL (+ optional Redis), ",
+    "id": "TekkenSteve/fastapi_langgraph_template",
+    "language": "Python",
+    "name": "TekkenSteve/fastapi_langgraph_template",
+    "stars": 3,
+    "updated_at": "2026-10-07T12:46:19Z",
+    "url": "https://github.com/TekkenSteve/fastapi_langgraph_template"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-10-07T12:46:12Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-07T12:45:50Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
     "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
     "id": "kashyaprajharsh/medha-agent",
     "language": "Rust",
@@ -18,15 +153,6 @@
     "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
   },
   {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-07T12:44:10Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "Bodhi \u2014 a local-first AI agent workbench in Rust: desktop app, Bamboo runtime, Jiandu shared memory, Nova computer use a",
     "id": "bigduu/Zenith",
     "language": "JavaScript",
@@ -40,7 +166,7 @@
     "id": "wuyhong715/rikkahub-agent-pure",
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
-    "stars": 6,
+    "stars": 7,
     "updated_at": "2026-10-07T12:41:49Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
@@ -52,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-10-07T12:41:13Z",
     "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "DeepSeek Harness na Androidzie w jednym APK, bez Termuxa i roota, z polskim interfejsem i kompletem narz\u0119dzi programisty",
-    "id": "gangg111/DeepSeek-Harness-Mobile",
-    "language": "JavaScript",
-    "name": "gangg111/DeepSeek-Harness-Mobile",
-    "stars": 0,
-    "updated_at": "2026-10-07T12:39:58Z",
-    "url": "https://github.com/gangg111/DeepSeek-Harness-Mobile"
   },
   {
     "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
@@ -126,21 +243,12 @@
     "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
   },
   {
-    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
-    "id": "QQSHI13/fox-agent",
-    "language": "TypeScript",
-    "name": "QQSHI13/fox-agent",
-    "stars": 2,
-    "updated_at": "2026-10-07T12:29:23Z",
-    "url": "https://github.com/QQSHI13/fox-agent"
-  },
-  {
     "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
     "id": "yologdev/yoagent",
     "language": "Rust",
     "name": "yologdev/yoagent",
     "stars": 333,
-    "updated_at": "2026-10-07T12:44:25Z",
+    "updated_at": "2026-10-07T12:54:11Z",
     "url": "https://github.com/yologdev/yoagent"
   },
   {
@@ -160,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-10-07T12:27:20Z",
     "url": "https://github.com/anchor-inference/daedalus"
-  },
-  {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-07T12:26:44Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "A\u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\uff1a\u80a1\u7968\u5206\u6790\u3001\u91cf\u5316\u4ea4\u6613\u5206\u6790\u3001\u76d8\u540e\u590d\u76d8\u684c\u9762\u5de5\u4f5c\u53f0\u2014\u2014easy stock",
@@ -212,17 +311,8 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-07T12:42:41Z",
+    "updated_at": "2026-10-07T12:48:27Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "\u628a\u5927\u6a21\u578b\u5f53\u53f8\u4ee4\u3001\u811a\u672c\u5f53\u624b\u7684 DSH Agent \u9884\u8bbe\uff1a\u5de5\u5177\u91cc\u96f6\u4e1a\u52a1\u5224\u65ad\uff0c\u8ba9\u6a21\u578b\u5728\u8fd0\u884c\u65f6\u81ea\u9002\u5e94\u52a8\u6001\u7ed3\u6784\u7684\u7f51\u7ad9",
-    "id": "LeuJasYoh/dsh-chaoxing",
-    "language": "JavaScript",
-    "name": "LeuJasYoh/dsh-chaoxing",
-    "stars": 0,
-    "updated_at": "2026-10-07T12:16:07Z",
-    "url": "https://github.com/LeuJasYoh/dsh-chaoxing"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
@@ -257,7 +347,7 @@
     "language": "Python",
     "name": "cheeezis/job_finder",
     "stars": 0,
-    "updated_at": "2026-10-07T12:01:47Z",
+    "updated_at": "2026-10-07T12:56:00Z",
     "url": "https://github.com/cheeezis/job_finder"
   },
   {
@@ -266,17 +356,8 @@
     "language": "Rust",
     "name": "citizenhicks/mobius",
     "stars": 1,
-    "updated_at": "2026-10-07T11:58:10Z",
+    "updated_at": "2026-10-07T12:50:04Z",
     "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-07T11:53:47Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Production-grade hybrid Model Context Protocol (MCP) ecosystem featuring 4 FastMCP servers (2 Local stdio + 2 Remote SSE",
@@ -301,7 +382,7 @@
     "id": "feder-cr/dots",
     "language": "TypeScript",
     "name": "feder-cr/dots",
-    "stars": 31783,
+    "stars": 31784,
     "updated_at": "2026-10-07T11:34:19Z",
     "url": "https://github.com/feder-cr/dots"
   },
@@ -311,7 +392,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-07T11:31:35Z",
+    "updated_at": "2026-10-07T12:46:33Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -360,15 +441,6 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 816,
-    "updated_at": "2026-10-07T12:33:36Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
     "description": "LLM agent for delivery-rider payout disputes: deterministic money rules, idempotent payouts, ops approval queue, black-b",
     "id": "lakshya29sh/quickdrop-dispute-agent",
     "language": "Python",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-07T10:52:02Z",
     "url": "https://github.com/lakshya29sh/quickdrop-dispute-agent"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4443,
-    "updated_at": "2026-10-07T12:41:28Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Turn your Claude subscription into an AI employee in Telegram. Open-source kit behind 18 working assistants.",
-    "id": "shakhruz/mila-companion",
-    "language": "Python",
-    "name": "shakhruz/mila-companion",
-    "stars": 3,
-    "updated_at": "2026-10-07T10:48:19Z",
-    "url": "https://github.com/shakhruz/mila-companion"
-  },
-  {
-    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
-    "id": "peder1981/AdvPP",
-    "language": "Go",
-    "name": "peder1981/AdvPP",
-    "stars": 2,
-    "updated_at": "2026-10-07T10:44:27Z",
-    "url": "https://github.com/peder1981/AdvPP"
-  },
-  {
-    "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
-    "id": "denisotree/veles",
-    "language": "Python",
-    "name": "denisotree/veles",
-    "stars": 4,
-    "updated_at": "2026-10-07T11:40:54Z",
-    "url": "https://github.com/denisotree/veles"
-  },
-  {
-    "description": "\ubc18\ub824\uacac \uc0c1\ub2f4 \uc624\ucf00\uc2a4\ud2b8\ub808\uc774\ud130 \u2014 \uadfc\uac70 RAG\uc640 \ud53c\ubd80 \uc2a4\ud06c\ub9ac\ub2dd \ubaa8\ub378\uc744 MCP \uc11c\ube0c\uc5d0\uc774\uc804\ud2b8\ub85c \ub450\uace0, \ubaa8\ub378\uc774 \ub9d0\ud574\ub3c4 \ub418\ub294 \uac83\uc744 \ucf54\ub4dc\uac00 \uc815\ud55c\ub2e4 (MCP \u00b7 tool calling \u00b7 \uacb0\uc815\ub860\uc801 \uc548\uc804 \uac8c\uc774\ud2b8)",
-    "id": "gayeoniee/dog-care-agent",
-    "language": "Python",
-    "name": "gayeoniee/dog-care-agent",
-    "stars": 0,
-    "updated_at": "2026-10-07T10:39:37Z",
-    "url": "https://github.com/gayeoniee/dog-care-agent"
-  },
-  {
-    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
-    "id": "uukuguy/capstone",
-    "language": "Python",
-    "name": "uukuguy/capstone",
-    "stars": 0,
-    "updated_at": "2026-10-07T11:49:09Z",
-    "url": "https://github.com/uukuguy/capstone"
-  },
-  {
-    "description": "LLM-powered TeamSpeak bot | LLM\u9a71\u52a8\u7684TeamSpeak\u673a\u5668\u4eba",
-    "id": "Dr1mH4X/TeamSpeakClaw",
-    "language": "Rust",
-    "name": "Dr1mH4X/TeamSpeakClaw",
-    "stars": 6,
-    "updated_at": "2026-10-07T10:35:44Z",
-    "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 6125,
-    "updated_at": "2026-10-07T12:30:12Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
   }
 ]
