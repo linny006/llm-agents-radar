@@ -1,5 +1,68 @@
 [
   {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-07T17:59:58Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
+    "id": "SugarMGP/MumuBot",
+    "language": "Go",
+    "name": "SugarMGP/MumuBot",
+    "stars": 25,
+    "updated_at": "2026-10-07T17:57:10Z",
+    "url": "https://github.com/SugarMGP/MumuBot"
+  },
+  {
+    "description": "AIOps for telecom: synthetic network KPIs with labeled fault injection, Isolation Forest vs LSTM autoencoder, and an LLM",
+    "id": "KnissMootez/Anomaly-Detection",
+    "language": "Jupyter Notebook",
+    "name": "KnissMootez/Anomaly-Detection",
+    "stars": 0,
+    "updated_at": "2026-10-07T17:56:29Z",
+    "url": "https://github.com/KnissMootez/Anomaly-Detection"
+  },
+  {
+    "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 280,
+    "updated_at": "2026-10-07T17:54:28Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "Multi-agent orchestration runtime with task board, flow engine, budget control, MCP integration and real-time dashboard.",
+    "id": "swoelffel/claw-pilot",
+    "language": "TypeScript",
+    "name": "swoelffel/claw-pilot",
+    "stars": 10,
+    "updated_at": "2026-10-07T17:55:26Z",
+    "url": "https://github.com/swoelffel/claw-pilot"
+  },
+  {
+    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 49,
+    "updated_at": "2026-10-07T17:53:17Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "\ud83d\udc27 is currently a work in progress... Stay tuned! ",
+    "id": "Maximooch/penguin",
+    "language": "Python",
+    "name": "Maximooch/penguin",
+    "stars": 6,
+    "updated_at": "2026-10-07T17:49:17Z",
+    "url": "https://github.com/Maximooch/penguin"
+  },
+  {
     "description": "Open-source AI-native quant trading workstation for OKX crypto markets (Windows/macOS). Charts, order execution, AI trad",
     "id": "xiazhi88/Desic-Terminal",
     "language": "Rust",
@@ -108,15 +171,6 @@
     "url": "https://github.com/yurika0211/lucky-agent"
   },
   {
-    "description": "Multi-agent orchestration runtime with task board, flow engine, budget control, MCP integration and real-time dashboard.",
-    "id": "swoelffel/claw-pilot",
-    "language": "TypeScript",
-    "name": "swoelffel/claw-pilot",
-    "stars": 10,
-    "updated_at": "2026-10-07T17:39:02Z",
-    "url": "https://github.com/swoelffel/claw-pilot"
-  },
-  {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
     "id": "plurnk/plurnk-service",
     "language": "TypeScript",
@@ -221,7 +275,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4443,
-    "updated_at": "2026-10-07T17:42:15Z",
+    "updated_at": "2026-10-07T17:59:48Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -250,15 +304,6 @@
     "stars": 4112,
     "updated_at": "2026-10-07T16:42:18Z",
     "url": "https://github.com/langroid/langroid"
-  },
-  {
-    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 49,
-    "updated_at": "2026-10-07T16:28:22Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
     "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
@@ -315,21 +360,12 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "AIOps for telecom: synthetic network KPIs with labeled fault injection, Isolation Forest vs LSTM autoencoder, and an LLM",
-    "id": "KnissMootez/Anomaly-Detection",
-    "language": "Jupyter Notebook",
-    "name": "KnissMootez/Anomaly-Detection",
-    "stars": 0,
-    "updated_at": "2026-10-07T16:10:48Z",
-    "url": "https://github.com/KnissMootez/Anomaly-Detection"
-  },
-  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-07T17:37:09Z",
+    "updated_at": "2026-10-07T17:49:11Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -338,7 +374,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 816,
-    "updated_at": "2026-10-07T17:33:45Z",
+    "updated_at": "2026-10-07T17:51:29Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -378,15 +414,6 @@
     "url": "https://github.com/Zahnschmelz/vishva"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-07T15:58:00Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and ",
     "id": "genieincodebottle/generative-ai",
     "language": "Jupyter Notebook",
@@ -421,32 +448,5 @@
     "stars": 14,
     "updated_at": "2026-10-07T16:19:22Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Coding agent that plans, changes, tests and reviews, and touches your files only when you approve. Windows, macOS, Linux",
-    "id": "huynvic/albertcode-swe-agent",
-    "language": "Shell",
-    "name": "huynvic/albertcode-swe-agent",
-    "stars": 0,
-    "updated_at": "2026-10-07T15:47:38Z",
-    "url": "https://github.com/huynvic/albertcode-swe-agent"
-  },
-  {
-    "description": "Multimodal agent for answering questions about scientific papers from LaTeX, PDFs, and figures.",
-    "id": "AMaslov01/multimodal-paper-agent",
-    "language": "Python",
-    "name": "AMaslov01/multimodal-paper-agent",
-    "stars": 0,
-    "updated_at": "2026-10-07T15:41:59Z",
-    "url": "https://github.com/AMaslov01/multimodal-paper-agent"
-  },
-  {
-    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
-    "id": "eshanized/M31A",
-    "language": "Rust",
-    "name": "eshanized/M31A",
-    "stars": 10,
-    "updated_at": "2026-10-07T15:37:32Z",
-    "url": "https://github.com/eshanized/M31A"
   }
 ]
