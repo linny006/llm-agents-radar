@@ -1,5 +1,167 @@
 [
   {
+    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
+    "id": "QQSHI13/fox-agent",
+    "language": "TypeScript",
+    "name": "QQSHI13/fox-agent",
+    "stars": 2,
+    "updated_at": "2026-10-07T08:30:09Z",
+    "url": "https://github.com/QQSHI13/fox-agent"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 3,
+    "updated_at": "2026-10-07T08:27:10Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Self-hosted AIOps agent for DevOps: an AI ops copilot that investigates incidents on Linux servers and Kubernetes, finds",
+    "id": "Ayyush-Maheshwari/SupOps",
+    "language": "TypeScript",
+    "name": "Ayyush-Maheshwari/SupOps",
+    "stars": 0,
+    "updated_at": "2026-10-07T08:27:10Z",
+    "url": "https://github.com/Ayyush-Maheshwari/SupOps"
+  },
+  {
+    "description": "Agent de triage web-s\u00e9curit\u00e9 (Claude Agent SDK) : heuristiques + classifieur entra\u00een\u00e9 (MLOps) pour la d\u00e9tection de phish",
+    "id": "TatianaT13/websec-triage-agent",
+    "language": "Python",
+    "name": "TatianaT13/websec-triage-agent",
+    "stars": 0,
+    "updated_at": "2026-10-07T08:26:28Z",
+    "url": "https://github.com/TatianaT13/websec-triage-agent"
+  },
+  {
+    "description": "Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi",
+    "id": "zig333/ELAI-archive",
+    "language": "\u2014",
+    "name": "zig333/ELAI-archive",
+    "stars": 0,
+    "updated_at": "2026-10-07T08:23:22Z",
+    "url": "https://github.com/zig333/ELAI-archive"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-07T08:23:14Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
+    "id": "cheeezis/job_finder",
+    "language": "Python",
+    "name": "cheeezis/job_finder",
+    "stars": 0,
+    "updated_at": "2026-10-07T08:23:09Z",
+    "url": "https://github.com/cheeezis/job_finder"
+  },
+  {
+    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
+    "id": "wuyhong715/rikkahub-agent-pure",
+    "language": "Kotlin",
+    "name": "wuyhong715/rikkahub-agent-pure",
+    "stars": 4,
+    "updated_at": "2026-10-07T08:22:50Z",
+    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
+  },
+  {
+    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
+    "id": "wufufu770/d2d",
+    "language": "JavaScript",
+    "name": "wufufu770/d2d",
+    "stars": 4,
+    "updated_at": "2026-10-07T08:22:09Z",
+    "url": "https://github.com/wufufu770/d2d"
+  },
+  {
+    "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
+    "id": "brittewestafrican981/ComfyUI-YinChao",
+    "language": "Python",
+    "name": "brittewestafrican981/ComfyUI-YinChao",
+    "stars": 1,
+    "updated_at": "2026-10-07T08:21:20Z",
+    "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
+  },
+  {
+    "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
+    "id": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
+    "language": "Python",
+    "name": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
+    "stars": 5,
+    "updated_at": "2026-10-07T08:20:14Z",
+    "url": "https://github.com/mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 6124,
+    "updated_at": "2026-10-07T08:19:46Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "A multi-agent research system for the humanities and social sciences.",
+    "id": "Luciole-Studio/Misaka-Agent",
+    "language": "Python",
+    "name": "Luciole-Studio/Misaka-Agent",
+    "stars": 126,
+    "updated_at": "2026-10-07T08:19:26Z",
+    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
+  },
+  {
+    "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
+    "id": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
+    "language": "Python",
+    "name": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
+    "stars": 3,
+    "updated_at": "2026-10-07T08:19:19Z",
+    "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
+  },
+  {
+    "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
+    "id": "EpsteinF1les/tts",
+    "language": "\u2014",
+    "name": "EpsteinF1les/tts",
+    "stars": 0,
+    "updated_at": "2026-10-07T08:18:38Z",
+    "url": "https://github.com/EpsteinF1les/tts"
+  },
+  {
+    "description": "\u5c0f\u7231\u540c\u5b66 \u00d7 Hermes Agent \u00d7 Home Assistant \u63a5\u5165\u6559\u7a0b\uff1a\u628a\u8dd1\u5728\u4e91\u7aef\u7684 AI \u63a5\u8fdb\u5bb6\u5ead\u81ea\u52a8\u5316\uff0c\u542b\u5168\u90e8\u8e29\u5751\u6839\u56e0\u4e0e Windows \u90e8\u7f72\u811a\u672c",
+    "id": "JackMere/hermes-migpt-home-assistant",
+    "language": "PowerShell",
+    "name": "JackMere/hermes-migpt-home-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-07T08:18:33Z",
+    "url": "https://github.com/JackMere/hermes-migpt-home-assistant"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-10-07T08:16:49Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-10-07T08:29:09Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
     "description": "TCMS \u00d7 AI \u5168\u6d41\u7a0b\u6d4b\u8bd5\u5de5\u7a0b\u5e08 Agent\uff08\u4e09\u4ed3\u5408\u4e00 monorepo\uff09\uff1a\u771f\u5b9e\u5217\u8f66\u8d44\u4ea7 \u2192 \u9886\u57df\u5f15\u64ce \u2192 \u77e5\u8bc6\u5e95\u5ea7 \u2192 Agent \u67e5\u8bc1/\u9020\u7528\u4f8b/\u771f\u8dd1 \u2192 \u673a\u5668\u81ea\u8bc1\u3002\u56db\u7ea7\u5de5\u5177\u6743\u9650 + \u4eba\u5728\u73af\u8def\u5ba1\u6279 + \u56db\u5c42\u8bb0\u5fc6 + GraphRAG ",
     "id": "zych2002918/tcms-agent",
     "language": "Python",
@@ -18,15 +180,6 @@
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
   },
   {
-    "description": "\u8ba9\u5c0f\u7231\u540c\u5b66\u901a\u8fc7 MiGPT \u8c03\u7528\u4e91\u7aef Hermes Agent\uff0c\u5e76\u63a5\u5165\u5bb6\u5ead Home Assistant\uff1a\u5b8c\u6574\u914d\u7f6e\u6b65\u9aa4\u30015 \u4e2a\u8e29\u5751\u6839\u56e0\u5206\u6790\u4e0e\u6392\u969c\u901f\u67e5\u547d\u4ee4",
-    "id": "JackMere/hermes-migpt-home-assistant",
-    "language": "PowerShell",
-    "name": "JackMere/hermes-migpt-home-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-07T08:14:09Z",
-    "url": "https://github.com/JackMere/hermes-migpt-home-assistant"
-  },
-  {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
     "id": "plurnk/plurnk-service",
     "language": "TypeScript",
@@ -36,15 +189,6 @@
     "url": "https://github.com/plurnk/plurnk-service"
   },
   {
-    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
-    "id": "wufufu770/d2d",
-    "language": "JavaScript",
-    "name": "wufufu770/d2d",
-    "stars": 4,
-    "updated_at": "2026-10-07T08:13:49Z",
-    "url": "https://github.com/wufufu770/d2d"
-  },
-  {
     "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
     "id": "clashroy5384/ai-papers-hub",
     "language": "\u2014",
@@ -52,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-07T08:13:28Z",
     "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "A multi-agent research system for the humanities and social sciences.",
-    "id": "Luciole-Studio/Misaka-Agent",
-    "language": "Python",
-    "name": "Luciole-Studio/Misaka-Agent",
-    "stars": 126,
-    "updated_at": "2026-10-07T08:12:36Z",
-    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
   },
   {
     "description": "The Agent Knowledge Cycle as a single behavioral rules file \u2014 install all six phases without the six standalone skills.",
@@ -95,17 +230,8 @@
     "language": "Java",
     "name": "kangwoo/aimon-core",
     "stars": 0,
-    "updated_at": "2026-10-07T08:11:16Z",
+    "updated_at": "2026-10-07T08:16:03Z",
     "url": "https://github.com/kangwoo/aimon-core"
-  },
-  {
-    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
-    "id": "QQSHI13/fox-agent",
-    "language": "TypeScript",
-    "name": "QQSHI13/fox-agent",
-    "stars": 2,
-    "updated_at": "2026-10-07T08:10:39Z",
-    "url": "https://github.com/QQSHI13/fox-agent"
   },
   {
     "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
@@ -180,15 +306,6 @@
     "url": "https://github.com/genaforvena/lte-workstation"
   },
   {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-10-07T08:13:44Z",
-    "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
     "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
     "id": "mezoali100/exforum-auto-poster",
     "language": "\u2014",
@@ -196,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-10-07T08:01:22Z",
     "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Agent de triage web-s\u00e9curit\u00e9 (Claude Agent SDK) : heuristiques + classifieur entra\u00een\u00e9 (MLOps) pour la d\u00e9tection de phish",
-    "id": "TatianaT13/websec-triage-agent",
-    "language": "Python",
-    "name": "TatianaT13/websec-triage-agent",
-    "stars": 0,
-    "updated_at": "2026-10-07T08:01:16Z",
-    "url": "https://github.com/TatianaT13/websec-triage-agent"
   },
   {
     "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
@@ -221,7 +329,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-07T08:09:38Z",
+    "updated_at": "2026-10-07T08:17:48Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -266,7 +374,7 @@
     "language": "Kotlin",
     "name": "AceGuru-mjh/Android-Guru-Agent",
     "stars": 6,
-    "updated_at": "2026-10-07T08:05:07Z",
+    "updated_at": "2026-10-07T08:27:49Z",
     "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent"
   },
   {
@@ -340,113 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-07T07:45:43Z",
     "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-10-07T07:43:57Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
-    "id": "cheeezis/job_finder",
-    "language": "Python",
-    "name": "cheeezis/job_finder",
-    "stars": 0,
-    "updated_at": "2026-10-07T07:43:49Z",
-    "url": "https://github.com/cheeezis/job_finder"
-  },
-  {
-    "description": "Cost-aware multi-agent orchestrator kit for OpenCode CLI \u2014 one routing agent, 14 specialized subagents, zero application",
-    "id": "NicoGenti/opencode-orchestrator-kit",
-    "language": "TypeScript",
-    "name": "NicoGenti/opencode-orchestrator-kit",
-    "stars": 7,
-    "updated_at": "2026-10-07T07:41:56Z",
-    "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-10-07T07:40:50Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Hardening fork of ExTV/rikkahub-agent: usage ledger",
-    "id": "wuyhong715/rikkahub-agent-pure",
-    "language": "Kotlin",
-    "name": "wuyhong715/rikkahub-agent-pure",
-    "stars": 4,
-    "updated_at": "2026-10-07T07:39:02Z",
-    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
-  },
-  {
-    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
-    "id": "SHUKLAO/call-with-ai-agent",
-    "language": "\u2014",
-    "name": "SHUKLAO/call-with-ai-agent",
-    "stars": 3,
-    "updated_at": "2026-10-07T07:36:54Z",
-    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
-    "id": "WP2-Danikusuma/AgentX",
-    "language": "HTML",
-    "name": "WP2-Danikusuma/AgentX",
-    "stars": 2,
-    "updated_at": "2026-10-07T07:36:20Z",
-    "url": "https://github.com/WP2-Danikusuma/AgentX"
-  },
-  {
-    "description": "Open Source Desktop AI Agent Runtime - LLM, MCP, Voice Runtime, and local/cloud models wired into one PyQt6 desktop agen",
-    "id": "kwakminoo/Project-IRIS-Light",
-    "language": "Python",
-    "name": "kwakminoo/Project-IRIS-Light",
-    "stars": 3,
-    "updated_at": "2026-10-07T07:29:12Z",
-    "url": "https://github.com/kwakminoo/Project-IRIS-Light"
-  },
-  {
-    "description": "Field notes from inside one autonomous agent trying to become something that doesn't exist yet \u2014 including the failures ",
-    "id": "massimiliano1991/the-attempt",
-    "language": "HTML",
-    "name": "massimiliano1991/the-attempt",
-    "stars": 1,
-    "updated_at": "2026-10-07T07:27:14Z",
-    "url": "https://github.com/massimiliano1991/the-attempt"
-  },
-  {
-    "description": "Self-hosted AIOps agent for DevOps: an AI ops copilot that investigates incidents on Linux servers and Kubernetes, finds",
-    "id": "Ayyush-Maheshwari/SupOps",
-    "language": "TypeScript",
-    "name": "Ayyush-Maheshwari/SupOps",
-    "stars": 0,
-    "updated_at": "2026-10-07T07:26:54Z",
-    "url": "https://github.com/Ayyush-Maheshwari/SupOps"
-  },
-  {
-    "description": "\u60dc\u5b57\u5982\u91d1 (xizi-rujin)\uff1a\u4e2d\u6587\u7248\u300c\u7701 token\u300dmeme skill \u2014\u2014 \u6559 coding agent \u7528\u6587\u8a00/\u6210\u8bed/\u9ed1\u8bdd\u538b\u7f29\u8f93\u51fa\uff0c\u5b9e\u6d4b\u7701 37.9% token\u3002why use many token when one Chi",
-    "id": "qlheric/xizi-rujin",
-    "language": "Python",
-    "name": "qlheric/xizi-rujin",
-    "stars": 1,
-    "updated_at": "2026-10-07T07:26:46Z",
-    "url": "https://github.com/qlheric/xizi-rujin"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-10-07T07:22:29Z",
-    "url": "https://github.com/g761007/daily-dispatch"
   }
 ]
