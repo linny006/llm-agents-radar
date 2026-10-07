@@ -1,5 +1,122 @@
 [
   {
+    "description": "Open Source Desktop AI Agent Runtime - LLM, MCP, Voice Runtime, and local/cloud models wired into one PyQt6 desktop agen",
+    "id": "kwakminoo/Project-IRIS-Light",
+    "language": "Python",
+    "name": "kwakminoo/Project-IRIS-Light",
+    "stars": 3,
+    "updated_at": "2026-10-07T07:29:12Z",
+    "url": "https://github.com/kwakminoo/Project-IRIS-Light"
+  },
+  {
+    "description": "Agent de triage web-s\u00e9curit\u00e9 (Claude Agent SDK) : heuristiques + classifieur entra\u00een\u00e9 (MLOps) pour la d\u00e9tection de phish",
+    "id": "TatianaT13/websec-triage-agent",
+    "language": "Python",
+    "name": "TatianaT13/websec-triage-agent",
+    "stars": 0,
+    "updated_at": "2026-10-07T07:28:29Z",
+    "url": "https://github.com/TatianaT13/websec-triage-agent"
+  },
+  {
+    "description": "Field notes from inside one autonomous agent trying to become something that doesn't exist yet \u2014 including the failures ",
+    "id": "massimiliano1991/the-attempt",
+    "language": "HTML",
+    "name": "massimiliano1991/the-attempt",
+    "stars": 1,
+    "updated_at": "2026-10-07T07:27:14Z",
+    "url": "https://github.com/massimiliano1991/the-attempt"
+  },
+  {
+    "description": "Self-hosted AIOps agent for DevOps: an AI ops copilot that investigates incidents on Linux servers and Kubernetes, finds",
+    "id": "Ayyush-Maheshwari/SupOps",
+    "language": "TypeScript",
+    "name": "Ayyush-Maheshwari/SupOps",
+    "stars": 0,
+    "updated_at": "2026-10-07T07:26:54Z",
+    "url": "https://github.com/Ayyush-Maheshwari/SupOps"
+  },
+  {
+    "description": "\u60dc\u5b57\u5982\u91d1 (xizi-rujin)\uff1a\u4e2d\u6587\u7248\u300c\u7701 token\u300dmeme skill \u2014\u2014 \u6559 coding agent \u7528\u6587\u8a00/\u6210\u8bed/\u9ed1\u8bdd\u538b\u7f29\u8f93\u51fa\uff0c\u5b9e\u6d4b\u7701 37.9% token\u3002why use many token when one Chi",
+    "id": "qlheric/xizi-rujin",
+    "language": "Python",
+    "name": "qlheric/xizi-rujin",
+    "stars": 1,
+    "updated_at": "2026-10-07T07:26:46Z",
+    "url": "https://github.com/qlheric/xizi-rujin"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-10-07T07:22:29Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "\ub300\ud654 \uc18d \ud638\uce6d(\ud300\uc7a5 \u2192 \uae40\ud300\uc7a5 \u2192 \ubd80\uc7a5\ub2d8)\uc744 \uac19\uc740 \uc0ac\ub78c\uc73c\ub85c \ubb36\ub294 \uad00\uacc4 \uba54\ubaa8\ub9ac \uc5d0\uc774\uc804\ud2b8 \u2014 \uc5d4\ud2f0\ud2f0 \ud574\uc11d \ud30c\uc774\ud504\ub77c\uc778\uacfc \ud3c9\uac00 \uc7a5\uce58 (FastAPI \u00b7 PostgreSQL + pgvector, 1\uc778 \u00b7 \ucea1\uc2a4\ud1a4\ub514\uc790\uc778 2 \u00b7 ",
+    "id": "SunWoo1213/Relationship",
+    "language": "Python",
+    "name": "SunWoo1213/Relationship",
+    "stars": 0,
+    "updated_at": "2026-10-07T07:23:09Z",
+    "url": "https://github.com/SunWoo1213/Relationship"
+  },
+  {
+    "description": "\uc5d0\uc774\uc804\ud2b8 \uad8c\ud55c \ube0c\ub85c\ucee4 \u2014 AI \uc5d0\uc774\uc804\ud2b8\uc758 \ub3c4\uad6c \ud638\ucd9c\uc744 \ud5c8\uc6a9 \u00b7 \uac70\ubd80 \u00b7 \uc2b9\uc778\uc73c\ub85c \ud310\ub2e8\ud558\uace0 \uadfc\uac70\ub97c \ud574\uc2dc \uccb4\uc778 \uac10\uc0ac \ub85c\uadf8\ub85c \ub0a8\uae30\ub294 \uac80\ubb38\uc18c (OPA/Rego \u00b7 PostgreSQL \u00b7 Docker Compose, 1\uc778 \u00b7",
+    "id": "SunWoo1213/broker-agent",
+    "language": "Python",
+    "name": "SunWoo1213/broker-agent",
+    "stars": 0,
+    "updated_at": "2026-10-07T07:26:27Z",
+    "url": "https://github.com/SunWoo1213/broker-agent"
+  },
+  {
+    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
+    "id": "QQSHI13/fox-agent",
+    "language": "TypeScript",
+    "name": "QQSHI13/fox-agent",
+    "stars": 2,
+    "updated_at": "2026-10-07T07:21:51Z",
+    "url": "https://github.com/QQSHI13/fox-agent"
+  },
+  {
+    "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
+    "id": "yurika0211/lucky-agent",
+    "language": "Go",
+    "name": "yurika0211/lucky-agent",
+    "stars": 14,
+    "updated_at": "2026-10-07T07:21:23Z",
+    "url": "https://github.com/yurika0211/lucky-agent"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 20,
+    "updated_at": "2026-10-07T07:21:47Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 49,
+    "updated_at": "2026-10-07T07:19:32Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
+    "id": "xieguigang/sciBASIC",
+    "language": "Visual Basic .NET",
+    "name": "xieguigang/sciBASIC",
+    "stars": 78,
+    "updated_at": "2026-10-07T07:17:19Z",
+    "url": "https://github.com/xieguigang/sciBASIC"
+  },
+  {
     "description": "JevHub \u00b7 Jev \u751f\u6001\u70ed\u699c \u628a\u503c\u5f97\u5173\u6ce8\u7684 Jev \u9879\u76ee\u3001\u6559\u7a0b\u548c\u8ba8\u8bba\uff0c\u6c47\u5230\u4e00\u9875\u3002 \u81ea\u52a8\u53d1\u73b0 \u00b7 \u6bcf\u65e5\u66f4\u65b0 \u00b7 \u6309 Stars \u6392\u5e8f \u00b7 \u4e2d\u82f1\u53cc\u8bed",
     "id": "frontierlabai/JevHub",
     "language": "Python",
@@ -14,26 +131,8 @@
     "language": "Python",
     "name": "addsumtech/job-hunt",
     "stars": 5,
-    "updated_at": "2026-10-07T07:13:23Z",
+    "updated_at": "2026-10-07T07:26:49Z",
     "url": "https://github.com/addsumtech/job-hunt"
-  },
-  {
-    "description": "Agent de triage web-s\u00e9curit\u00e9 (Claude Agent SDK) : heuristiques + classifieur entra\u00een\u00e9 (MLOps) pour la d\u00e9tection de phish",
-    "id": "TatianaT13/websec-triage-agent",
-    "language": "Python",
-    "name": "TatianaT13/websec-triage-agent",
-    "stars": 0,
-    "updated_at": "2026-10-07T07:12:52Z",
-    "url": "https://github.com/TatianaT13/websec-triage-agent"
-  },
-  {
-    "description": "\u60dc\u5b57\u5982\u91d1 (xizi-rujin)\uff1a\u4e2d\u6587\u7248\u300c\u7701 token\u300dmeme skill \u2014\u2014 \u6559 coding agent \u7528\u6587\u8a00/\u6210\u8bed/\u9ed1\u8bdd\u538b\u7f29\u8f93\u51fa\uff0c\u5b9e\u6d4b\u7701 37.9% token\u3002why use many token when one Chi",
-    "id": "qlheric/xizi-rujin",
-    "language": "Python",
-    "name": "qlheric/xizi-rujin",
-    "stars": 1,
-    "updated_at": "2026-10-07T07:12:14Z",
-    "url": "https://github.com/qlheric/xizi-rujin"
   },
   {
     "description": "Tauri desktop shell for the local-first Bodhi agent: manages Bamboo startup/reuse and health; packaged builds open the B",
@@ -113,7 +212,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-10-07T07:01:34Z",
+    "updated_at": "2026-10-07T07:19:26Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -124,15 +223,6 @@
     "stars": 5,
     "updated_at": "2026-10-07T06:58:10Z",
     "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
-    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
-    "id": "QQSHI13/fox-agent",
-    "language": "TypeScript",
-    "name": "QQSHI13/fox-agent",
-    "stars": 2,
-    "updated_at": "2026-10-07T06:49:11Z",
-    "url": "https://github.com/QQSHI13/fox-agent"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -160,15 +250,6 @@
     "stars": 2,
     "updated_at": "2026-10-07T06:45:18Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 20,
-    "updated_at": "2026-10-07T07:13:22Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
@@ -223,15 +304,6 @@
     "stars": 4,
     "updated_at": "2026-10-07T06:20:01Z",
     "url": "https://github.com/wufufu770/d2d"
-  },
-  {
-    "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
-    "id": "yurika0211/lucky-agent",
-    "language": "Go",
-    "name": "yurika0211/lucky-agent",
-    "stars": 14,
-    "updated_at": "2026-10-07T06:11:58Z",
-    "url": "https://github.com/yurika0211/lucky-agent"
   },
   {
     "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
@@ -376,77 +448,5 @@
     "stars": 329,
     "updated_at": "2026-10-07T05:25:20Z",
     "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 816,
-    "updated_at": "2026-10-07T05:37:24Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Generate rich YuE2 audio in ComfyUI with six modular nodes\u2014hum-to-song, LoRA and adapter support\u2014no stock nodes needed.",
-    "id": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
-    "language": "Python",
-    "name": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
-    "stars": 1,
-    "updated_at": "2026-10-07T05:17:14Z",
-    "url": "https://github.com/Deborahwalkerz661/ComfyUI-FS_Audio_Suite"
-  },
-  {
-    "description": "Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de",
-    "id": "Jadema5416/ComfyUI-DLSS5-Enhancer",
-    "language": "Python",
-    "name": "Jadema5416/ComfyUI-DLSS5-Enhancer",
-    "stars": 1,
-    "updated_at": "2026-10-07T05:16:02Z",
-    "url": "https://github.com/Jadema5416/ComfyUI-DLSS5-Enhancer"
-  },
-  {
-    "description": "\u7535\u5546\u552e\u540e\u5ba2\u670d Agent\uff1aTool Calling + Policy Guard + \u4eba\u5de5\u5ba1\u6279 + \u5e42\u7b49\u6267\u884c + \u53ef\u9a8c\u8bc1\u8bc4\u6d4b",
-    "id": "sjhesjaj/GroundedAgent",
-    "language": "Python",
-    "name": "sjhesjaj/GroundedAgent",
-    "stars": 0,
-    "updated_at": "2026-10-07T05:16:01Z",
-    "url": "https://github.com/sjhesjaj/GroundedAgent"
-  },
-  {
-    "description": "Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node\u2014no complex workflows needed.",
-    "id": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
-    "language": "JavaScript",
-    "name": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
-    "stars": 4,
-    "updated_at": "2026-10-07T05:15:13Z",
-    "url": "https://github.com/Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3"
-  },
-  {
-    "description": "Sort your Downloads by project, not file type \u2014 with one-command undo. No delete, ever.",
-    "id": "verniceunleaded6135/tidy-undo",
-    "language": "Python",
-    "name": "verniceunleaded6135/tidy-undo",
-    "stars": 0,
-    "updated_at": "2026-10-07T05:14:59Z",
-    "url": "https://github.com/verniceunleaded6135/tidy-undo"
-  },
-  {
-    "description": "Control your Windows laptop remotely via Discord with AI-powered voice and text commands in English or Urdu.",
-    "id": "Ottoman-reticule726/zara-ai-laptop-agent",
-    "language": "Python",
-    "name": "Ottoman-reticule726/zara-ai-laptop-agent",
-    "stars": 0,
-    "updated_at": "2026-10-07T05:13:34Z",
-    "url": "https://github.com/Ottoman-reticule726/zara-ai-laptop-agent"
-  },
-  {
-    "description": "Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons.",
-    "id": "alejandrogg15/Minimax-H3-Turbo",
-    "language": "Python",
-    "name": "alejandrogg15/Minimax-H3-Turbo",
-    "stars": 1,
-    "updated_at": "2026-10-07T05:13:23Z",
-    "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
   }
 ]
