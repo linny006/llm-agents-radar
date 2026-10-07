@@ -1,12 +1,66 @@
 [
   {
+    "description": "Voyager \u00d7 VLML \u00d7 \u732b\u5a18\u4f34\u5b66\uff1a\u628a\u300c\u5b66\u4e60\u8005\u300d\u6362\u6210 agent \u7684\u6700\u5c0f\u53ef\u6267\u884c\u539f\u578b\uff08\u9762\u677f\u5df2\u4e0a\u817e\u8baf\u4e91\uff09",
+    "id": "Zxy876/voyager-vlml-mve",
+    "language": "Python",
+    "name": "Zxy876/voyager-vlml-mve",
+    "stars": 0,
+    "updated_at": "2026-10-07T01:28:04Z",
+    "url": "https://github.com/Zxy876/voyager-vlml-mve"
+  },
+  {
     "description": "\u4e00\u4e2a\u53ef\u4ee5\u7528\u4e8e\u5904\u7406USTC\u90ae\u7bb1\u90ae\u4ef6\u7684skill",
     "id": "charienustc/USTC-email-skill",
     "language": "JavaScript",
     "name": "charienustc/USTC-email-skill",
     "stars": 0,
-    "updated_at": "2026-10-07T01:14:29Z",
+    "updated_at": "2026-10-07T01:25:33Z",
     "url": "https://github.com/charienustc/USTC-email-skill"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-07T01:25:12Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 3,
+    "updated_at": "2026-10-07T01:21:16Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "\ud83d\ude80 Xenon 0.9.2 \u2014 \u53ef\u9a8c\u8bc1\u7684 AI coding agent runtime\uff1a\u5355\u4e00\u4efb\u52a1\u72b6\u6001\u673a\u3001\u8bc1\u636e\u9a71\u52a8\u6267\u884c\u30017 \u79cd\u63a8\u7406\u8303\u5f0f\u3001MCP\u3001\u591a\u6a21\u578b\u4e0e Windows/GBK \u517c\u5bb9\u3002",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 53,
+    "updated_at": "2026-10-07T01:18:09Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
+    "id": "AceGuru-mjh/Android-Guru-Agent",
+    "language": "Kotlin",
+    "name": "AceGuru-mjh/Android-Guru-Agent",
+    "stars": 6,
+    "updated_at": "2026-10-07T01:29:31Z",
+    "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent"
+  },
+  {
+    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
+    "id": "eshanized/M31A",
+    "language": "Rust",
+    "name": "eshanized/M31A",
+    "stars": 10,
+    "updated_at": "2026-10-07T01:15:40Z",
+    "url": "https://github.com/eshanized/M31A"
   },
   {
     "description": "A self-hosted software factory \u2014 define goals, agents decompose and execute them through enforced pipelines, with humans",
@@ -23,7 +77,7 @@
     "language": "Python",
     "name": "franckolv-dev/ELY2",
     "stars": 1,
-    "updated_at": "2026-10-07T01:10:54Z",
+    "updated_at": "2026-10-07T01:20:21Z",
     "url": "https://github.com/franckolv-dev/ELY2"
   },
   {
@@ -36,15 +90,6 @@
     "url": "https://github.com/dsswift/ion"
   },
   {
-    "description": "Voyager \u00d7 VLML \u00d7 \u732b\u5a18\u4f34\u5b66\uff1a\u628a\u300c\u5b66\u4e60\u8005\u300d\u6362\u6210 agent \u7684\u6700\u5c0f\u53ef\u6267\u884c\u539f\u578b\uff08\u9762\u677f\u5df2\u4e0a\u817e\u8baf\u4e91\uff09",
-    "id": "Zxy876/voyager-vlml-mve",
-    "language": "Python",
-    "name": "Zxy876/voyager-vlml-mve",
-    "stars": 0,
-    "updated_at": "2026-10-07T00:52:39Z",
-    "url": "https://github.com/Zxy876/voyager-vlml-mve"
-  },
-  {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
     "id": "genaforvena/mishe-tauftauf",
     "language": "Python",
@@ -52,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-10-07T00:44:55Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
-    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
-    "id": "AceGuru-mjh/Android-Guru-Agent",
-    "language": "Kotlin",
-    "name": "AceGuru-mjh/Android-Guru-Agent",
-    "stars": 6,
-    "updated_at": "2026-10-07T01:09:34Z",
-    "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -187,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-10-07T00:21:09Z",
     "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
-  },
-  {
-    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
-    "id": "eshanized/M31A",
-    "language": "Rust",
-    "name": "eshanized/M31A",
-    "stars": 10,
-    "updated_at": "2026-10-07T00:21:06Z",
-    "url": "https://github.com/eshanized/M31A"
   },
   {
     "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-06T23:52:04Z",
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-10-06T23:46:30Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "The Agent Knowledge Cycle as a single behavioral rules file \u2014 install all six phases without the six standalone skills.",
-    "id": "shimo4228/akc-cycle",
-    "language": "Python",
-    "name": "shimo4228/akc-cycle",
-    "stars": 1,
-    "updated_at": "2026-10-06T23:45:49Z",
-    "url": "https://github.com/shimo4228/akc-cycle"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 327,
-    "updated_at": "2026-10-06T23:42:39Z",
-    "url": "https://github.com/yologdev/yoagent"
   }
 ]
