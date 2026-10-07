@@ -1,11 +1,38 @@
 [
   {
+    "description": "\u4e00\u4e2a\u53ef\u4ee5\u7528\u4e8e\u5904\u7406USTC\u90ae\u7bb1\u90ae\u4ef6\u7684skill",
+    "id": "charienustc/USTC-email-skill",
+    "language": "JavaScript",
+    "name": "charienustc/USTC-email-skill",
+    "stars": 0,
+    "updated_at": "2026-10-07T01:14:29Z",
+    "url": "https://github.com/charienustc/USTC-email-skill"
+  },
+  {
+    "description": "A self-hosted software factory \u2014 define goals, agents decompose and execute them through enforced pipelines, with humans",
+    "id": "diraigent/diraigent",
+    "language": "Rust",
+    "name": "diraigent/diraigent",
+    "stars": 21,
+    "updated_at": "2026-10-07T01:07:15Z",
+    "url": "https://github.com/diraigent/diraigent"
+  },
+  {
+    "description": "Autonomous personal agent: talks, acts, never gives up. Multi-model, multi-user, self-improving",
+    "id": "franckolv-dev/ELY2",
+    "language": "Python",
+    "name": "franckolv-dev/ELY2",
+    "stars": 1,
+    "updated_at": "2026-10-07T01:10:54Z",
+    "url": "https://github.com/franckolv-dev/ELY2"
+  },
+  {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
     "id": "dsswift/ion",
     "language": "TypeScript",
     "name": "dsswift/ion",
     "stars": 3,
-    "updated_at": "2026-10-07T00:59:37Z",
+    "updated_at": "2026-10-07T01:00:47Z",
     "url": "https://github.com/dsswift/ion"
   },
   {
@@ -32,7 +59,7 @@
     "language": "Kotlin",
     "name": "AceGuru-mjh/Android-Guru-Agent",
     "stars": 6,
-    "updated_at": "2026-10-07T00:44:12Z",
+    "updated_at": "2026-10-07T01:09:34Z",
     "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent"
   },
   {
@@ -104,7 +131,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-07T00:41:30Z",
+    "updated_at": "2026-10-07T01:09:56Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -115,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-10-07T00:24:53Z",
     "url": "https://github.com/Deborahwalkerz661/ComfyUI-FS_Audio_Suite"
-  },
-  {
-    "description": "\u4e00\u4e2a\u53ef\u4ee5\u7528\u4e8e\u5904\u7406USTC\u90ae\u7bb1\u90ae\u4ef6\u7684skill",
-    "id": "charienustc/USTC-email-skill",
-    "language": "JavaScript",
-    "name": "charienustc/USTC-email-skill",
-    "stars": 0,
-    "updated_at": "2026-10-07T00:24:49Z",
-    "url": "https://github.com/charienustc/USTC-email-skill"
   },
   {
     "description": "Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de",
@@ -430,23 +448,5 @@
     "stars": 327,
     "updated_at": "2026-10-06T23:42:39Z",
     "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "DeepSeek Harness na Androidzie w jednym APK, bez Termuxa i roota, z polskim interfejsem i kompletem narz\u0119dzi programisty",
-    "id": "gangg111/DeepSeek-Harness-Mobile",
-    "language": "JavaScript",
-    "name": "gangg111/DeepSeek-Harness-Mobile",
-    "stars": 0,
-    "updated_at": "2026-10-06T23:42:15Z",
-    "url": "https://github.com/gangg111/DeepSeek-Harness-Mobile"
-  },
-  {
-    "description": "[NeurIPS 2024] Official implementation for \"AgentPoison: Red-teaming LLM Agents via Memory or Knowledge Base Backdoor Po",
-    "id": "AI-secure/AgentPoison",
-    "language": "Python",
-    "name": "AI-secure/AgentPoison",
-    "stars": 244,
-    "updated_at": "2026-10-06T23:37:31Z",
-    "url": "https://github.com/AI-secure/AgentPoison"
   }
 ]
