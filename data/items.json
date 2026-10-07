@@ -1,5 +1,14 @@
 [
   {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-07T22:26:13Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
     "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
@@ -284,7 +293,7 @@
     "language": "Rust",
     "name": "yologdev/yoagent",
     "stars": 338,
-    "updated_at": "2026-10-07T22:08:26Z",
+    "updated_at": "2026-10-07T22:25:42Z",
     "url": "https://github.com/yologdev/yoagent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-07T20:07:07Z",
     "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
-    "id": "eshanized/M31A",
-    "language": "Rust",
-    "name": "eshanized/M31A",
-    "stars": 10,
-    "updated_at": "2026-10-07T20:05:16Z",
-    "url": "https://github.com/eshanized/M31A"
   }
 ]
