@@ -1,11 +1,101 @@
 [
   {
+    "description": "Open-source AI-native quant trading workstation for OKX crypto markets (Windows/macOS). Charts, order execution, AI trad",
+    "id": "xiazhi88/Desic-Terminal",
+    "language": "Rust",
+    "name": "xiazhi88/Desic-Terminal",
+    "stars": 25,
+    "updated_at": "2026-10-07T17:44:51Z",
+    "url": "https://github.com/xiazhi88/Desic-Terminal"
+  },
+  {
+    "description": "\u7528\u81ea\u7136\u8bed\u8a00\u6307\u6325\u89c6\u9891\u526a\u8f91\u7684\u5168\u94fe\u8def\u672c\u5730\u667a\u80fd\u4f53\uff1a\u7d20\u6750\u7406\u89e3 \u2192 \u64cd\u4f5c\u89c4\u5212 \u2192 \u4e8b\u5b9e\u6821\u9a8c \u2192 \u771f\u5b9e\u51fa\u7247\uff0c\u914d\u5957 163 \u4e2a\u5355\u5143\u6d4b\u8bd5\u4e0e 22 \u4e2a\u53ef\u590d\u8dd1\u9a8c\u6536\u811a\u672c\u3002",
+    "id": "ryhirz/ai-video-agent",
+    "language": "Python",
+    "name": "ryhirz/ai-video-agent",
+    "stars": 0,
+    "updated_at": "2026-10-07T17:44:46Z",
+    "url": "https://github.com/ryhirz/ai-video-agent"
+  },
+  {
+    "description": "Application Security orchestration platform",
+    "id": "grauwolf32/contractor",
+    "language": "Go",
+    "name": "grauwolf32/contractor",
+    "stars": 2,
+    "updated_at": "2026-10-07T17:43:32Z",
+    "url": "https://github.com/grauwolf32/contractor"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-10-07T17:40:15Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "Open-source, self-hostable AppSec agent that finds, proves, and helps fix web/API vulnerabilities \u2014 evidence-first (inde",
+    "id": "NitinReddy-A/HackOps_Recon",
+    "language": "Python",
+    "name": "NitinReddy-A/HackOps_Recon",
+    "stars": 2,
+    "updated_at": "2026-10-07T17:37:09Z",
+    "url": "https://github.com/NitinReddy-A/HackOps_Recon"
+  },
+  {
+    "description": "Conversational & memory-enabled AI research partner for multi-omics analysis. CLI + Desktop App (installers in Releases)",
+    "id": "TianGzlab/OmicsClaw",
+    "language": "Python",
+    "name": "TianGzlab/OmicsClaw",
+    "stars": 161,
+    "updated_at": "2026-10-07T17:36:11Z",
+    "url": "https://github.com/TianGzlab/OmicsClaw"
+  },
+  {
+    "description": "A self-hosted AI workspace made in nodejs with features according to my own preference",
+    "id": "moyshik7/marnie",
+    "language": "JavaScript",
+    "name": "moyshik7/marnie",
+    "stars": 0,
+    "updated_at": "2026-10-07T17:36:10Z",
+    "url": "https://github.com/moyshik7/marnie"
+  },
+  {
+    "description": "Single-user Hebrew/English personal assistant: Cloudflare Workers + SQLite Durable Object, Groq tool-calling agent where",
+    "id": "tzur669-lab/whatsapp-assistant",
+    "language": "TypeScript",
+    "name": "tzur669-lab/whatsapp-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-07T17:35:57Z",
+    "url": "https://github.com/tzur669-lab/whatsapp-assistant"
+  },
+  {
+    "description": "A multi-agent research system for the humanities and social sciences.",
+    "id": "Luciole-Studio/Misaka-Agent",
+    "language": "Python",
+    "name": "Luciole-Studio/Misaka-Agent",
+    "stars": 133,
+    "updated_at": "2026-10-07T17:35:28Z",
+    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
+  },
+  {
+    "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
+    "id": "Shuffle-1992/dsh-context-pilot",
+    "language": "JavaScript",
+    "name": "Shuffle-1992/dsh-context-pilot",
+    "stars": 0,
+    "updated_at": "2026-10-07T17:35:10Z",
+    "url": "https://github.com/Shuffle-1992/dsh-context-pilot"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 8721,
-    "updated_at": "2026-10-07T17:30:09Z",
+    "updated_at": "2026-10-07T17:31:21Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -23,7 +113,7 @@
     "language": "TypeScript",
     "name": "swoelffel/claw-pilot",
     "stars": 10,
-    "updated_at": "2026-10-07T17:27:14Z",
+    "updated_at": "2026-10-07T17:39:02Z",
     "url": "https://github.com/swoelffel/claw-pilot"
   },
   {
@@ -43,15 +133,6 @@
     "stars": 4,
     "updated_at": "2026-10-07T17:29:59Z",
     "url": "https://github.com/plurnk/plurnk"
-  },
-  {
-    "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
-    "id": "Shuffle-1992/dsh-context-pilot",
-    "language": "JavaScript",
-    "name": "Shuffle-1992/dsh-context-pilot",
-    "stars": 0,
-    "updated_at": "2026-10-07T17:18:15Z",
-    "url": "https://github.com/Shuffle-1992/dsh-context-pilot"
   },
   {
     "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
@@ -81,15 +162,6 @@
     "url": "https://github.com/roxm337/osint-agent"
   },
   {
-    "description": "\u7528\u81ea\u7136\u8bed\u8a00\u6307\u6325\u89c6\u9891\u526a\u8f91\u7684\u5168\u94fe\u8def\u672c\u5730\u667a\u80fd\u4f53\uff1a\u7d20\u6750\u7406\u89e3 \u2192 \u64cd\u4f5c\u89c4\u5212 \u2192 \u4e8b\u5b9e\u6821\u9a8c \u2192 \u771f\u5b9e\u51fa\u7247\uff0c\u914d\u5957 163 \u4e2a\u5355\u5143\u6d4b\u8bd5\u4e0e 22 \u4e2a\u53ef\u590d\u8dd1\u9a8c\u6536\u811a\u672c\u3002",
-    "id": "ryhirz/ai-video-agent",
-    "language": "Python",
-    "name": "ryhirz/ai-video-agent",
-    "stars": 0,
-    "updated_at": "2026-10-07T17:15:14Z",
-    "url": "https://github.com/ryhirz/ai-video-agent"
-  },
-  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -115,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-07T17:02:13Z",
     "url": "https://github.com/Ayyush-Maheshwari/SupOps"
-  },
-  {
-    "description": "A multi-agent research system for the humanities and social sciences.",
-    "id": "Luciole-Studio/Misaka-Agent",
-    "language": "Python",
-    "name": "Luciole-Studio/Misaka-Agent",
-    "stars": 133,
-    "updated_at": "2026-10-07T17:01:07Z",
-    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
   },
   {
     "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
@@ -158,7 +221,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4443,
-    "updated_at": "2026-10-07T17:16:25Z",
+    "updated_at": "2026-10-07T17:42:15Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -187,15 +250,6 @@
     "stars": 4112,
     "updated_at": "2026-10-07T16:42:18Z",
     "url": "https://github.com/langroid/langroid"
-  },
-  {
-    "description": "Application Security orchestration platform",
-    "id": "grauwolf32/contractor",
-    "language": "Go",
-    "name": "grauwolf32/contractor",
-    "stars": 2,
-    "updated_at": "2026-10-07T16:28:46Z",
-    "url": "https://github.com/grauwolf32/contractor"
   },
   {
     "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
@@ -275,7 +329,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-07T17:18:22Z",
+    "updated_at": "2026-10-07T17:37:09Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -284,7 +338,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 816,
-    "updated_at": "2026-10-07T16:08:02Z",
+    "updated_at": "2026-10-07T17:33:45Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 10,
     "updated_at": "2026-10-07T15:37:32Z",
     "url": "https://github.com/eshanized/M31A"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-07T16:52:46Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "AI \u7ed9\u7684\u7b54\u6848\u4e0d\u6ee1\u610f\uff1f\u8bca\u65ad\u90a3\u6bb5\u6df1\u5ea6\u601d\u8003\uff08CoT\uff09\u54ea\u91cc\u9519\uff0c\u4ea7\u51fa\u4e00\u6bb5\u53ef\u7c98\u56de\u539f\u5bf9\u8bdd\u7684\u91cd\u62cd\u5355\uff0c\u8ba9\u539f AI \u76f4\u63a5\u7ed9\u51fa\u66f4\u597d\u7684\u6700\u7ec8\u7b54\u6848\u3002\u89e3\u51b3\"\u53ea\u4f1a\u8bf4\u518d\u6539\u6539\u3001\u8bf4\u4e0d\u6e05\u54ea\u91cc\u4e0d\u5bf9\"\uff1b\u652f\u6301\u6587\u672c/\u56fe\u50cf/\u89c6\u9891\u63d0\u793a\u8bcd\uff0c\u517c\u5bb9 Claude\u3001DeepSeek\u3001ChatGPT",
-    "id": "flashfrogluo/second-take",
-    "language": "Shell",
-    "name": "flashfrogluo/second-take",
-    "stars": 0,
-    "updated_at": "2026-10-07T15:26:53Z",
-    "url": "https://github.com/flashfrogluo/second-take"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 129,
-    "updated_at": "2026-10-07T15:25:42Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3521,
-    "updated_at": "2026-10-07T16:27:11Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Control a real iPhone from a Mac over WebDriverAgent \u2014 live screen, tap/swipe/type, plus a Python client for LLM agents.",
-    "id": "koprjaa/iphone-agent",
-    "language": "Python",
-    "name": "koprjaa/iphone-agent",
-    "stars": 0,
-    "updated_at": "2026-10-07T15:22:46Z",
-    "url": "https://github.com/koprjaa/iphone-agent"
-  },
-  {
-    "description": "Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi",
-    "id": "zig333/ELAI-archive",
-    "language": "\u2014",
-    "name": "zig333/ELAI-archive",
-    "stars": 0,
-    "updated_at": "2026-10-07T15:22:03Z",
-    "url": "https://github.com/zig333/ELAI-archive"
   }
 ]
