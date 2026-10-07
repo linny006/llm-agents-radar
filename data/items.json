@@ -1,12 +1,30 @@
 [
   {
-    "description": "Field notes from inside one autonomous agent trying to become something that doesn't exist yet \u2014 including the failures ",
-    "id": "massimiliano1991/the-attempt",
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-07T02:44:36Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
-    "name": "massimiliano1991/the-attempt",
-    "stars": 1,
-    "updated_at": "2026-10-07T02:26:42Z",
-    "url": "https://github.com/massimiliano1991/the-attempt"
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-10-07T02:43:17Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "AI chess coaching agent that analyses your Chess.com games with Stockfish, profiles your tactical weaknesses, and lets y",
+    "id": "nandinitiw/morphy",
+    "language": "Python",
+    "name": "nandinitiw/morphy",
+    "stars": 2,
+    "updated_at": "2026-10-07T02:41:54Z",
+    "url": "https://github.com/nandinitiw/morphy"
   },
   {
     "description": "Open-Source Intelligent Command Layer",
@@ -14,8 +32,26 @@
     "language": "Python",
     "name": "AVADSA25/codec",
     "stars": 108,
-    "updated_at": "2026-10-07T02:29:15Z",
+    "updated_at": "2026-10-07T02:45:15Z",
     "url": "https://github.com/AVADSA25/codec"
+  },
+  {
+    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
+    "id": "AceGuru-mjh/Android-Guru-Agent",
+    "language": "Kotlin",
+    "name": "AceGuru-mjh/Android-Guru-Agent",
+    "stars": 6,
+    "updated_at": "2026-10-07T02:32:22Z",
+    "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent"
+  },
+  {
+    "description": "Field notes from inside one autonomous agent trying to become something that doesn't exist yet \u2014 including the failures ",
+    "id": "massimiliano1991/the-attempt",
+    "language": "HTML",
+    "name": "massimiliano1991/the-attempt",
+    "stars": 1,
+    "updated_at": "2026-10-07T02:26:42Z",
+    "url": "https://github.com/massimiliano1991/the-attempt"
   },
   {
     "description": "\ud83d\ude80 Xenon 0.9.2 \u2014 \u53ef\u9a8c\u8bc1\u7684 AI coding agent runtime\uff1a\u5355\u4e00\u4efb\u52a1\u72b6\u6001\u673a\u3001\u8bc1\u636e\u9a71\u52a8\u6267\u884c\u30017 \u79cd\u63a8\u7406\u8303\u5f0f\u3001MCP\u3001\u591a\u6a21\u578b\u4e0e Windows/GBK \u517c\u5bb9\u3002",
@@ -45,15 +81,6 @@
     "url": "https://github.com/lusipad/browser-agent"
   },
   {
-    "description": "AI chess coaching agent that analyses your Chess.com games with Stockfish, profiles your tactical weaknesses, and lets y",
-    "id": "nandinitiw/morphy",
-    "language": "Python",
-    "name": "nandinitiw/morphy",
-    "stars": 2,
-    "updated_at": "2026-10-07T02:12:13Z",
-    "url": "https://github.com/nandinitiw/morphy"
-  },
-  {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
     "id": "g761007/daily-dispatch",
     "language": "Python",
@@ -68,7 +95,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4444,
-    "updated_at": "2026-10-07T02:27:32Z",
+    "updated_at": "2026-10-07T02:36:41Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -153,15 +180,6 @@
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-07T01:43:34Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "\u60dc\u5b57\u5982\u91d1 (xizi-rujin)\uff1a\u4e2d\u6587\u7248\u300c\u7701 token\u300dmeme skill \u2014\u2014 \u6559 coding agent \u7528\u6587\u8a00/\u6210\u8bed/\u9ed1\u8bdd\u538b\u7f29\u8f93\u51fa\uff0c\u5b9e\u6d4b\u7701 37.9% token\u3002why use many token when one Chi",
     "id": "qlheric/xizi-rujin",
     "language": "Python",
@@ -196,15 +214,6 @@
     "stars": 3,
     "updated_at": "2026-10-07T01:21:16Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
-    "id": "AceGuru-mjh/Android-Guru-Agent",
-    "language": "Kotlin",
-    "name": "AceGuru-mjh/Android-Guru-Agent",
-    "stars": 6,
-    "updated_at": "2026-10-07T01:29:31Z",
-    "url": "https://github.com/AceGuru-mjh/Android-Guru-Agent"
   },
   {
     "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-07T00:10:35Z",
     "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
-    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
-    "id": "chadwickhyperboloidal943/knowl",
-    "language": "TypeScript",
-    "name": "chadwickhyperboloidal943/knowl",
-    "stars": 0,
-    "updated_at": "2026-10-07T00:08:15Z",
-    "url": "https://github.com/chadwickhyperboloidal943/knowl"
   }
 ]
