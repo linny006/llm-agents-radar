@@ -1,12 +1,57 @@
 [
   {
-    "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
-    "id": "Blaz742/web-pentest-lab",
-    "language": "\u2014",
-    "name": "Blaz742/web-pentest-lab",
+    "description": "\u835f\u8bca \u00b7 \u82a6\u835f\u75c5\u866b\u5bb3\u667a\u80fd\u95ee\u7b54\u4e0e\u8bca\u65ad Agent\uff1aRAG + Function Calling + \u53ef\u590d\u73b0\u8bc4\u6d4b\uff08\u79bb\u7ebf\u53ef\u8dd1\uff09",
+    "id": "zhouyi041025/agri-rag-agent",
+    "language": "Python",
+    "name": "zhouyi041025/agri-rag-agent",
     "stars": 0,
-    "updated_at": "2026-10-08T14:59:50Z",
-    "url": "https://github.com/Blaz742/web-pentest-lab"
+    "updated_at": "2026-10-08T15:07:12Z",
+    "url": "https://github.com/zhouyi041025/agri-rag-agent"
+  },
+  {
+    "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
+    "id": "rugose-learnedprofession58/pi-dsh",
+    "language": "TypeScript",
+    "name": "rugose-learnedprofession58/pi-dsh",
+    "stars": 0,
+    "updated_at": "2026-10-08T15:06:19Z",
+    "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
+  },
+  {
+    "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
+    "id": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
+    "language": "JavaScript",
+    "name": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
+    "stars": 2,
+    "updated_at": "2026-10-08T15:05:25Z",
+    "url": "https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder"
+  },
+  {
+    "description": "Verify area values quickly with this web-based HTML calculator tool.",
+    "id": "passive-hotpepper515/area-checker-html-tool",
+    "language": "HTML",
+    "name": "passive-hotpepper515/area-checker-html-tool",
+    "stars": 0,
+    "updated_at": "2026-10-08T15:05:02Z",
+    "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 20,
+    "updated_at": "2026-10-08T15:08:33Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
+    "id": "Blondieredistributed612/pocket-agent",
+    "language": "Python",
+    "name": "Blondieredistributed612/pocket-agent",
+    "stars": 2,
+    "updated_at": "2026-10-08T15:03:51Z",
+    "url": "https://github.com/Blondieredistributed612/pocket-agent"
   },
   {
     "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
@@ -14,8 +59,26 @@
     "language": "Rust",
     "name": "eshanized/M31A",
     "stars": 10,
-    "updated_at": "2026-10-08T14:59:43Z",
+    "updated_at": "2026-10-08T15:00:45Z",
     "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
+    "id": "bettersilvanus849/inner-coordinates",
+    "language": "Shell",
+    "name": "bettersilvanus849/inner-coordinates",
+    "stars": 1,
+    "updated_at": "2026-10-08T15:00:32Z",
+    "url": "https://github.com/bettersilvanus849/inner-coordinates"
+  },
+  {
+    "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
+    "id": "Blaz742/web-pentest-lab",
+    "language": "\u2014",
+    "name": "Blaz742/web-pentest-lab",
+    "stars": 0,
+    "updated_at": "2026-10-08T14:59:50Z",
+    "url": "https://github.com/Blaz742/web-pentest-lab"
   },
   {
     "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
@@ -52,6 +115,15 @@
     "stars": 0,
     "updated_at": "2026-10-08T14:58:07Z",
     "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
+  },
+  {
+    "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
+    "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
+    "language": "Python",
+    "name": "Furrowed-subphylumurochorda108/kimi-K2.6",
+    "stars": 3,
+    "updated_at": "2026-10-08T14:56:46Z",
+    "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
   },
   {
     "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
@@ -185,7 +257,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 21,
-    "updated_at": "2026-10-08T14:43:53Z",
+    "updated_at": "2026-10-08T15:09:59Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -329,7 +401,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-10-08T14:46:41Z",
+    "updated_at": "2026-10-08T15:13:52Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -374,79 +446,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-08T14:50:36Z",
+    "updated_at": "2026-10-08T15:12:23Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Pyt",
-    "id": "feder-cr/invisible_playwright_mcp",
-    "language": "Python",
-    "name": "feder-cr/invisible_playwright_mcp",
-    "stars": 2660,
-    "updated_at": "2026-10-08T13:48:26Z",
-    "url": "https://github.com/feder-cr/invisible_playwright_mcp"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-10-08T14:01:07Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "[WWW '25 Oral - GenMentor] Official code of our paper \"LLM-powered Multi-agent Framework for Goal-oriented Learning in I",
-    "id": "GeminiLight/gen-mentor",
-    "language": "TypeScript",
-    "name": "GeminiLight/gen-mentor",
-    "stars": 132,
-    "updated_at": "2026-10-08T13:44:12Z",
-    "url": "https://github.com/GeminiLight/gen-mentor"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8738,
-    "updated_at": "2026-10-08T14:13:49Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "LLM Agent \u670d\u52a1\uff1aLangChain + FastAPI + Vue3\uff0c\u6df7\u5408\u68c0\u7d22 RAG \u5e26\u5f15\u7528\u6eaf\u6e90\uff0cReAct \u53cc\u67b6\u6784\u5b9e\u6d4b\u62e9\u4f18\uff0898.5% vs 89.7%\uff09\uff0c\u8bed\u4e49\u7f13\u5b58\u96f6\u8bef\u547d\u4e2d\uff0c158 \u6761\u8bc4\u6d4b + CI \u56de\u5f52\u95e8\u7981\uff0cDocker \u516c",
-    "id": "SYM529/sym1",
-    "language": "Python",
-    "name": "SYM529/sym1",
-    "stars": 0,
-    "updated_at": "2026-10-08T13:35:57Z",
-    "url": "https://github.com/SYM529/sym1"
-  },
-  {
-    "description": "\u57fa\u4e8e\u672c\u5730 Ollama \u5927\u6a21\u578b\u7684\u5168\u79bb\u7ebf CTF \u81ea\u52a8\u89e3\u9898 Agent\uff1a\u5355\u6587\u4ef6\u3001\u7eaf Python\u3001\u56db\u91cd\u5b89\u5168\u95f8\u95e8",
-    "id": "Sec-RUM/Local-Pentest-Agent",
-    "language": "Python",
-    "name": "Sec-RUM/Local-Pentest-Agent",
-    "stars": 0,
-    "updated_at": "2026-10-08T13:29:57Z",
-    "url": "https://github.com/Sec-RUM/Local-Pentest-Agent"
-  },
-  {
-    "description": "A self-hosted software factory \u2014 define goals, agents decompose and execute them through enforced pipelines, with humans",
-    "id": "diraigent/diraigent",
-    "language": "Rust",
-    "name": "diraigent/diraigent",
-    "stars": 21,
-    "updated_at": "2026-10-08T13:28:21Z",
-    "url": "https://github.com/diraigent/diraigent"
-  },
-  {
-    "description": "\u7535\u5546\u552e\u540e\u5ba2\u670d Agent\uff1aTool Calling + Policy Guard + \u4eba\u5de5\u5ba1\u6279 + \u5e42\u7b49\u6267\u884c + \u53ef\u9a8c\u8bc1\u8bc4\u6d4b",
-    "id": "sjhesjaj/GroundedAgent",
-    "language": "Python",
-    "name": "sjhesjaj/GroundedAgent",
-    "stars": 0,
-    "updated_at": "2026-10-08T14:24:35Z",
-    "url": "https://github.com/sjhesjaj/GroundedAgent"
   }
 ]
