@@ -1,5 +1,41 @@
 [
   {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-08T21:27:52Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 341,
+    "updated_at": "2026-10-08T21:27:43Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
+    "description": "Control AI agents anywhere. (github mirror)",
+    "id": "justacalico/devinorium",
+    "language": "Dart",
+    "name": "justacalico/devinorium",
+    "stars": 0,
+    "updated_at": "2026-10-08T21:24:32Z",
+    "url": "https://github.com/justacalico/devinorium"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-10-08T21:15:16Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
     "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
     "id": "cheeezis/job_finder",
     "language": "Python",
@@ -306,21 +342,12 @@
     "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-08T20:26:50Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-08T21:15:08Z",
+    "updated_at": "2026-10-08T21:23:44Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -414,15 +441,6 @@
     "url": "https://github.com/bigduu/Bodhi-AI"
   },
   {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 341,
-    "updated_at": "2026-10-08T21:14:20Z",
-    "url": "https://github.com/yologdev/yoagent"
-  },
-  {
     "description": "\u672c\u5730\u4f18\u5148\u3001\u53ef\u56de\u6eaf\u7684 Agent \u65f6\u95f4\u5206\u5c42\u8bb0\u5fc6\u7cfb\u7edf\uff5c\u7eaf Python \u6807\u51c6\u5e93\uff5c196 \u9879\u6d4b\u8bd5 + 13 \u6761\u5ba1\u8ba1\u547d\u4ee4",
     "id": "sins-gif/moonshadow",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-08T19:41:49Z",
     "url": "https://github.com/sins-gif/moonshadow"
-  },
-  {
-    "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
-    "id": "jack-h-park/pm-intelligence-engine",
-    "language": "Python",
-    "name": "jack-h-park/pm-intelligence-engine",
-    "stars": 0,
-    "updated_at": "2026-10-08T19:39:00Z",
-    "url": "https://github.com/jack-h-park/pm-intelligence-engine"
-  },
-  {
-    "description": "A self-hosted AI workspace made in nodejs with features according to my own preference",
-    "id": "moyshik7/marnie",
-    "language": "JavaScript",
-    "name": "moyshik7/marnie",
-    "stars": 1,
-    "updated_at": "2026-10-08T20:55:49Z",
-    "url": "https://github.com/moyshik7/marnie"
   }
 ]
