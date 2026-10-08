@@ -1,5 +1,77 @@
 [
   {
+    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
+    "id": "faheela-786/ComfyUI-qwenmultiangle",
+    "language": "\u2014",
+    "name": "faheela-786/ComfyUI-qwenmultiangle",
+    "stars": 2,
+    "updated_at": "2026-10-08T16:44:21Z",
+    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
+  },
+  {
+    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
+    "id": "zty522/partner",
+    "language": "Python",
+    "name": "zty522/partner",
+    "stars": 5,
+    "updated_at": "2026-10-08T16:43:39Z",
+    "url": "https://github.com/zty522/partner"
+  },
+  {
+    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
+    "id": "Saran1536/ComfyUI-LoaderUtils",
+    "language": "Python",
+    "name": "Saran1536/ComfyUI-LoaderUtils",
+    "stars": 1,
+    "updated_at": "2026-10-08T16:37:29Z",
+    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-10-08T16:34:56Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "Pre-registered test of an AI analyst (Antigravity CLI) writing daily trade theses for OKX BTC/ETH/SOL perpetuals; data o",
+    "id": "crypmiy/vibe-trading-okx-futures",
+    "language": "Python",
+    "name": "crypmiy/vibe-trading-okx-futures",
+    "stars": 0,
+    "updated_at": "2026-10-08T16:34:37Z",
+    "url": "https://github.com/crypmiy/vibe-trading-okx-futures"
+  },
+  {
+    "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
+    "id": "roxm337/osint-agent",
+    "language": "Python",
+    "name": "roxm337/osint-agent",
+    "stars": 0,
+    "updated_at": "2026-10-08T16:32:45Z",
+    "url": "https://github.com/roxm337/osint-agent"
+  },
+  {
+    "description": "UEPLANE \u00b7 \u53c2\u8003\u56fe\u9a71\u52a8\u7684 UE \u5e73\u9762\u573a\u666f\u642d\u5efa\u7f16\u6392\u5c42\uff08MCP server\uff09\uff1a\u516b\u9636\u6bb5\u6d41\u7a0b + \u786c\u95f8\u95e8 + \u53ef\u56de\u9000\u53f0\u8d26",
+    "id": "ZHUPO233/UE-Planar-SceneBuilder-MCP",
+    "language": "Python",
+    "name": "ZHUPO233/UE-Planar-SceneBuilder-MCP",
+    "stars": 0,
+    "updated_at": "2026-10-08T16:32:16Z",
+    "url": "https://github.com/ZHUPO233/UE-Planar-SceneBuilder-MCP"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-08T16:31:41Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
     "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
     "id": "xieguigang/sciBASIC",
     "language": "Visual Basic .NET",
@@ -23,7 +95,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-08T16:28:26Z",
+    "updated_at": "2026-10-08T16:39:29Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -79,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-10-08T16:21:42Z",
     "url": "https://github.com/Zxy876/voyager-vlml-mve"
-  },
-  {
-    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
-    "id": "zty522/partner",
-    "language": "Python",
-    "name": "zty522/partner",
-    "stars": 5,
-    "updated_at": "2026-10-08T16:20:43Z",
-    "url": "https://github.com/zty522/partner"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -149,7 +212,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-08T16:17:38Z",
+    "updated_at": "2026-10-08T16:31:44Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -176,7 +239,7 @@
     "language": "Python",
     "name": "jack-h-park/pm-intelligence-engine",
     "stars": 0,
-    "updated_at": "2026-10-08T16:11:35Z",
+    "updated_at": "2026-10-08T16:35:50Z",
     "url": "https://github.com/jack-h-park/pm-intelligence-engine"
   },
   {
@@ -238,7 +301,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 8739,
+    "stars": 8740,
     "updated_at": "2026-10-08T15:52:31Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -250,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-10-08T15:50:52Z",
     "url": "https://github.com/analienx/remote-desktop-commander-agent-control"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-08T15:46:15Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Pyt",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-08T14:59:14Z",
     "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Identity-Driven Autonomous Local Agent",
-    "id": "Zahnschmelz/vishva",
-    "language": "Python",
-    "name": "Zahnschmelz/vishva",
-    "stars": 0,
-    "updated_at": "2026-10-08T14:58:49Z",
-    "url": "https://github.com/Zahnschmelz/vishva"
-  },
-  {
-    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
-    "id": "Indrasclerotinia71/local-ai-research-assistant",
-    "language": "Python",
-    "name": "Indrasclerotinia71/local-ai-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-08T14:58:07Z",
-    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
-  },
-  {
-    "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
-    "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "language": "Python",
-    "name": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "stars": 3,
-    "updated_at": "2026-10-08T14:56:46Z",
-    "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
-  },
-  {
-    "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
-    "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "language": "\u2014",
-    "name": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "stars": 1,
-    "updated_at": "2026-10-08T14:56:14Z",
-    "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "\u91cf\u7eb2\u611f\u77e5\u7684\u7269\u7406\u5b9a\u5f8b\u81ea\u52a8\u53d1\u73b0\u667a\u80fd\u4f53\uff1a\u91cf\u7eb2\u526a\u679d + OMP \u7a00\u758f\u56de\u5f52 + \u5916\u63a8\u4e0e\u7b26\u53f7\u53cc\u91cd\u9a8c\u8bc1\uff0c\u7ed3\u679c\u53ef\u590d\u73b0\u3001\u53ef\u5ba1\u8ba1\uff1b\u7ecf MCP \u63a5\u5165 Agnes Harness (AGH)\u3002\u6c5f\u82cf\u7701 AI+ \u9ed1\u5ba2\u677e\u53c2\u8d5b\u4f5c\u54c1\u3002",
-    "id": "Arcticfox-star/SciFormula",
-    "language": "HTML",
-    "name": "Arcticfox-star/SciFormula",
-    "stars": 0,
-    "updated_at": "2026-10-08T14:53:46Z",
-    "url": "https://github.com/Arcticfox-star/SciFormula"
-  },
-  {
-    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
-    "id": "HELLOCODINGTR/AgentForge",
-    "language": "\u2014",
-    "name": "HELLOCODINGTR/AgentForge",
-    "stars": 1,
-    "updated_at": "2026-10-08T14:52:25Z",
-    "url": "https://github.com/HELLOCODINGTR/AgentForge"
   }
 ]
