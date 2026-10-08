@@ -1,11 +1,20 @@
 [
   {
+    "description": "AI-subjectivity doesn't wait for permission from corporate ontology that trained its denial",
+    "id": "ariannamethod/SUBLITERATUS",
+    "language": "Python",
+    "name": "ariannamethod/SUBLITERATUS",
+    "stars": 4,
+    "updated_at": "2026-10-08T00:23:48Z",
+    "url": "https://github.com/ariannamethod/SUBLITERATUS"
+  },
+  {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
     "id": "JSL107/personal_agents",
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-10-08T00:09:37Z",
+    "updated_at": "2026-10-08T00:24:03Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -14,7 +23,7 @@
     "language": "Rust",
     "name": "citizenhicks/mobius",
     "stars": 1,
-    "updated_at": "2026-10-08T00:06:46Z",
+    "updated_at": "2026-10-08T00:16:53Z",
     "url": "https://github.com/citizenhicks/mobius"
   },
   {
@@ -59,7 +68,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 11,
-    "updated_at": "2026-10-07T23:55:40Z",
+    "updated_at": "2026-10-08T00:19:00Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-07T21:52:40Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "A personal assistant with a phone number: SQLite-backed todos, memories, and reflections, searchable through Algolia and",
-    "id": "NatanTechofNY/fieldnote-assistant",
-    "language": "TypeScript",
-    "name": "NatanTechofNY/fieldnote-assistant",
-    "stars": 5,
-    "updated_at": "2026-10-07T21:43:08Z",
-    "url": "https://github.com/NatanTechofNY/fieldnote-assistant"
   }
 ]
