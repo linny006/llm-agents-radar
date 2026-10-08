@@ -1,5 +1,23 @@
 [
   {
+    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
+    "id": "zty522/partner",
+    "language": "Python",
+    "name": "zty522/partner",
+    "stars": 5,
+    "updated_at": "2026-10-08T17:02:12Z",
+    "url": "https://github.com/zty522/partner"
+  },
+  {
+    "description": "\u5e26\u7b56\u7565\u9a8c\u8bc1\u7684 A \u80a1 LLM \u5206\u6790\u7cfb\u7edf \u2014\u2014 \u591a\u6e90\u964d\u7ea7 + \u5b9a\u65f6\u4efb\u52a1 + \u591a\u901a\u9053\u63a8\u9001\uff1b\u6838\u5fc3\u589e\u91cf\u662f\u53ef\u8bc1\u4f2a\u7684\u56de\u6d4b\u4e0e\u9a8c\u8bc1\u5c42\uff08\u672a\u6765\u51fd\u6570\u63a2\u6d4b / \u6837\u672c\u5185\u5916\u5207\u5206 / t\u68c0\u9a8c / \u57fa\u51c6\u5bf9\u6bd4\uff09",
+    "id": "AandBorC/dsa-lite",
+    "language": "Python",
+    "name": "AandBorC/dsa-lite",
+    "stars": 0,
+    "updated_at": "2026-10-08T17:01:04Z",
+    "url": "https://github.com/AandBorC/dsa-lite"
+  },
+  {
     "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
     "id": "xieguigang/sciBASIC",
     "language": "Visual Basic .NET",
@@ -7,15 +25,6 @@
     "stars": 78,
     "updated_at": "2026-10-08T16:58:00Z",
     "url": "https://github.com/xieguigang/sciBASIC"
-  },
-  {
-    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
-    "id": "zty522/partner",
-    "language": "Python",
-    "name": "zty522/partner",
-    "stars": 5,
-    "updated_at": "2026-10-08T16:55:00Z",
-    "url": "https://github.com/zty522/partner"
   },
   {
     "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
@@ -131,7 +140,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-08T16:58:13Z",
+    "updated_at": "2026-10-08T17:04:32Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -329,7 +338,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 8740,
-    "updated_at": "2026-10-08T15:52:31Z",
+    "updated_at": "2026-10-08T17:03:05Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -346,7 +355,7 @@
     "id": "feder-cr/invisible_playwright_mcp",
     "language": "Python",
     "name": "feder-cr/invisible_playwright_mcp",
-    "stars": 2660,
+    "stars": 2661,
     "updated_at": "2026-10-08T15:40:13Z",
     "url": "https://github.com/feder-cr/invisible_playwright_mcp"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-08T15:00:32Z",
     "url": "https://github.com/bettersilvanus849/inner-coordinates"
-  },
-  {
-    "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
-    "id": "Blaz742/web-pentest-lab",
-    "language": "\u2014",
-    "name": "Blaz742/web-pentest-lab",
-    "stars": 0,
-    "updated_at": "2026-10-08T14:59:50Z",
-    "url": "https://github.com/Blaz742/web-pentest-lab"
   }
 ]
