@@ -1,12 +1,75 @@
 [
   {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-08T18:45:15Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
+    "id": "Torvian-eu/chatbot",
+    "language": "Kotlin",
+    "name": "Torvian-eu/chatbot",
+    "stars": 4,
+    "updated_at": "2026-10-08T18:41:45Z",
+    "url": "https://github.com/Torvian-eu/chatbot"
+  },
+  {
+    "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
+    "id": "edjafarov/kiagent-core",
+    "language": "TypeScript",
+    "name": "edjafarov/kiagent-core",
+    "stars": 7,
+    "updated_at": "2026-10-08T18:35:48Z",
+    "url": "https://github.com/edjafarov/kiagent-core"
+  },
+  {
     "description": "Agent de triage web-s\u00e9curit\u00e9 (Claude Agent SDK) : heuristiques + classifieur entra\u00een\u00e9 (MLOps) pour la d\u00e9tection de phish",
     "id": "TatianaT13/websec-triage-agent",
     "language": "Python",
     "name": "TatianaT13/websec-triage-agent",
     "stars": 0,
-    "updated_at": "2026-10-08T18:29:51Z",
+    "updated_at": "2026-10-08T18:35:43Z",
     "url": "https://github.com/TatianaT13/websec-triage-agent"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-08T18:37:26Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "AI \u7ed9\u7684\u7b54\u6848\u4e0d\u6ee1\u610f\uff1f\u8bca\u65ad\u90a3\u6bb5\u6df1\u5ea6\u601d\u8003\uff08CoT\uff09\u54ea\u91cc\u9519\uff0c\u4ea7\u51fa\u4e00\u6bb5\u53ef\u7c98\u56de\u539f\u5bf9\u8bdd\u7684\u91cd\u62cd\u5355\uff0c\u8ba9\u539f AI \u76f4\u63a5\u7ed9\u51fa\u66f4\u597d\u7684\u6700\u7ec8\u7b54\u6848\u3002\u89e3\u51b3\"\u53ea\u4f1a\u8bf4\u518d\u6539\u6539\u3001\u8bf4\u4e0d\u6e05\u54ea\u91cc\u4e0d\u5bf9\"\uff1b\u652f\u6301\u6587\u672c/\u56fe\u50cf/\u89c6\u9891\u63d0\u793a\u8bcd\uff0c\u517c\u5bb9 Claude\u3001DeepSeek\u3001ChatGPT",
+    "id": "flashfrogluo/second-take",
+    "language": "Shell",
+    "name": "flashfrogluo/second-take",
+    "stars": 1,
+    "updated_at": "2026-10-08T18:33:18Z",
+    "url": "https://github.com/flashfrogluo/second-take"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 816,
+    "updated_at": "2026-10-08T18:31:59Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "A self-hosted AI workspace made in nodejs with features according to my own preference",
+    "id": "moyshik7/marnie",
+    "language": "JavaScript",
+    "name": "moyshik7/marnie",
+    "stars": 1,
+    "updated_at": "2026-10-08T18:33:52Z",
+    "url": "https://github.com/moyshik7/marnie"
   },
   {
     "description": "\u672c\u5730\u4f18\u5148\u3001\u53ef\u56de\u6eaf\u7684 Agent \u65f6\u95f4\u5206\u5c42\u8bb0\u5fc6\u7cfb\u7edf\uff5c\u7eaf Python \u6807\u51c6\u5e93\uff5c196 \u9879\u6d4b\u8bd5 + 13 \u6761\u5ba1\u8ba1\u547d\u4ee4",
@@ -45,15 +108,6 @@
     "url": "https://github.com/roxm337/osint-agent"
   },
   {
-    "description": "AI \u7ed9\u7684\u7b54\u6848\u4e0d\u6ee1\u610f\uff1f\u8bca\u65ad\u90a3\u6bb5\u6df1\u5ea6\u601d\u8003\uff08CoT\uff09\u54ea\u91cc\u9519\uff0c\u4ea7\u51fa\u4e00\u6bb5\u53ef\u7c98\u56de\u539f\u5bf9\u8bdd\u7684\u91cd\u62cd\u5355\uff0c\u8ba9\u539f AI \u76f4\u63a5\u7ed9\u51fa\u66f4\u597d\u7684\u6700\u7ec8\u7b54\u6848\u3002\u89e3\u51b3\"\u53ea\u4f1a\u8bf4\u518d\u6539\u6539\u3001\u8bf4\u4e0d\u6e05\u54ea\u91cc\u4e0d\u5bf9\"\uff1b\u652f\u6301\u6587\u672c/\u56fe\u50cf/\u89c6\u9891\u63d0\u793a\u8bcd\uff0c\u517c\u5bb9 Claude\u3001DeepSeek\u3001ChatGPT",
-    "id": "flashfrogluo/second-take",
-    "language": "Shell",
-    "name": "flashfrogluo/second-take",
-    "stars": 1,
-    "updated_at": "2026-10-08T18:26:27Z",
-    "url": "https://github.com/flashfrogluo/second-take"
-  },
-  {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
     "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
@@ -68,7 +122,7 @@
     "language": "JavaScript",
     "name": "bigduu/Zenith",
     "stars": 6,
-    "updated_at": "2026-10-08T18:24:27Z",
+    "updated_at": "2026-10-08T18:32:42Z",
     "url": "https://github.com/bigduu/Zenith"
   },
   {
@@ -77,7 +131,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-08T18:16:31Z",
+    "updated_at": "2026-10-08T18:32:30Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -133,15 +187,6 @@
     "stars": 78,
     "updated_at": "2026-10-08T18:03:21Z",
     "url": "https://github.com/xieguigang/sciBASIC"
-  },
-  {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-08T17:51:55Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
@@ -311,7 +356,7 @@
     "language": "Python",
     "name": "rekursiv-ai/sagent",
     "stars": 79,
-    "updated_at": "2026-10-08T17:09:38Z",
+    "updated_at": "2026-10-08T18:41:34Z",
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
@@ -328,7 +373,7 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 3537,
+    "stars": 3538,
     "updated_at": "2026-10-08T17:01:26Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
@@ -340,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-10-08T17:01:04Z",
     "url": "https://github.com/AandBorC/dsa-lite"
-  },
-  {
-    "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
-    "id": "edjafarov/kiagent-core",
-    "language": "TypeScript",
-    "name": "edjafarov/kiagent-core",
-    "stars": 7,
-    "updated_at": "2026-10-08T16:54:53Z",
-    "url": "https://github.com/edjafarov/kiagent-core"
   },
   {
     "description": "UEPLANE \u00b7 \u53c2\u8003\u56fe\u9a71\u52a8\u7684 UE \u5e73\u9762\u573a\u666f\u642d\u5efa\u7f16\u6392\u5c42\uff08MCP server\uff09\uff1a\u516b\u9636\u6bb5\u6d41\u7a0b + \u786c\u95f8\u95e8 + \u53ef\u56de\u9000\u53f0\u8d26",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-08T16:29:20Z",
     "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-08T18:12:33Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Single-user Hebrew/English personal assistant: Cloudflare Workers + SQLite Durable Object, Groq tool-calling agent where",
-    "id": "tzur669-lab/whatsapp-assistant",
-    "language": "TypeScript",
-    "name": "tzur669-lab/whatsapp-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-08T16:28:08Z",
-    "url": "https://github.com/tzur669-lab/whatsapp-assistant"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 2,
-    "updated_at": "2026-10-08T16:25:14Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
-    "id": "anchor-inference/daedalus",
-    "language": "Python",
-    "name": "anchor-inference/daedalus",
-    "stars": 1,
-    "updated_at": "2026-10-08T16:23:50Z",
-    "url": "https://github.com/anchor-inference/daedalus"
   }
 ]
