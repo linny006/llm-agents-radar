@@ -1,5 +1,77 @@
 [
   {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 28,
+    "updated_at": "2026-10-08T18:13:55Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-08T18:09:55Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "AI-assisted photo development for Lightroom Classic \u2014 analyzes your photo with a vision model and applies real, non-dest",
+    "id": "sesterzo/VenzAI",
+    "language": "Lua",
+    "name": "sesterzo/VenzAI",
+    "stars": 1,
+    "updated_at": "2026-10-08T18:08:31Z",
+    "url": "https://github.com/sesterzo/VenzAI"
+  },
+  {
+    "description": "Autonomous personal agent: talks, acts, never gives up. Multi-model, multi-user, self-improving",
+    "id": "franckolv-dev/ELY2",
+    "language": "Python",
+    "name": "franckolv-dev/ELY2",
+    "stars": 1,
+    "updated_at": "2026-10-08T18:07:07Z",
+    "url": "https://github.com/franckolv-dev/ELY2"
+  },
+  {
+    "description": "LangGraph tool-calling agent for ACCESS-CI user support: documentation retrieval plus live infrastructure tools, with a ",
+    "id": "connectci-platform/access-agent",
+    "language": "Python",
+    "name": "connectci-platform/access-agent",
+    "stars": 0,
+    "updated_at": "2026-10-08T18:06:58Z",
+    "url": "https://github.com/connectci-platform/access-agent"
+  },
+  {
+    "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
+    "id": "roxm337/osint-agent",
+    "language": "Python",
+    "name": "roxm337/osint-agent",
+    "stars": 0,
+    "updated_at": "2026-10-08T18:04:14Z",
+    "url": "https://github.com/roxm337/osint-agent"
+  },
+  {
+    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
+    "id": "xieguigang/sciBASIC",
+    "language": "Visual Basic .NET",
+    "name": "xieguigang/sciBASIC",
+    "stars": 78,
+    "updated_at": "2026-10-08T18:03:21Z",
+    "url": "https://github.com/xieguigang/sciBASIC"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u3001\u53ef\u56de\u6eaf\u7684 Agent \u65f6\u95f4\u5206\u5c42\u8bb0\u5fc6\u7cfb\u7edf\uff5c\u7eaf Python \u6807\u51c6\u5e93\uff5c196 \u9879\u6d4b\u8bd5 + 13 \u6761\u5ba1\u8ba1\u547d\u4ee4",
+    "id": "sins-gif/moonshadow",
+    "language": "Python",
+    "name": "sins-gif/moonshadow",
+    "stars": 0,
+    "updated_at": "2026-10-08T18:01:38Z",
+    "url": "https://github.com/sins-gif/moonshadow"
+  },
+  {
     "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
     "id": "duongnq2798/vestiarion",
     "language": "TypeScript",
@@ -16,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-10-08T17:51:04Z",
     "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 28,
-    "updated_at": "2026-10-08T17:51:35Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "Verify area values quickly with this web-based HTML calculator tool.",
@@ -52,24 +115,6 @@
     "stars": 1,
     "updated_at": "2026-10-08T17:43:49Z",
     "url": "https://github.com/bettersilvanus849/inner-coordinates"
-  },
-  {
-    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
-    "id": "xieguigang/sciBASIC",
-    "language": "Visual Basic .NET",
-    "name": "xieguigang/sciBASIC",
-    "stars": 78,
-    "updated_at": "2026-10-08T17:43:47Z",
-    "url": "https://github.com/xieguigang/sciBASIC"
-  },
-  {
-    "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
-    "id": "roxm337/osint-agent",
-    "language": "Python",
-    "name": "roxm337/osint-agent",
-    "stars": 0,
-    "updated_at": "2026-10-08T17:42:50Z",
-    "url": "https://github.com/roxm337/osint-agent"
   },
   {
     "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
@@ -216,15 +261,6 @@
     "url": "https://github.com/eshanized/M31A"
   },
   {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-08T17:11:39Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -297,15 +333,6 @@
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
-    "description": "LangGraph tool-calling agent for ACCESS-CI user support: documentation retrieval plus live infrastructure tools, with a ",
-    "id": "connectci-platform/access-agent",
-    "language": "Python",
-    "name": "connectci-platform/access-agent",
-    "stars": 0,
-    "updated_at": "2026-10-08T16:46:18Z",
-    "url": "https://github.com/connectci-platform/access-agent"
-  },
-  {
     "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
     "id": "faheela-786/ComfyUI-qwenmultiangle",
     "language": "\u2014",
@@ -356,7 +383,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-08T17:56:00Z",
+    "updated_at": "2026-10-08T18:12:33Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-08T16:17:45Z",
     "url": "https://github.com/keito118/lilas-llm-from-scratch"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 3,
-    "updated_at": "2026-10-08T16:17:41Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into",
-    "id": "AskTheWay/dsh-auto-memory",
-    "language": "TypeScript",
-    "name": "AskTheWay/dsh-auto-memory",
-    "stars": 104,
-    "updated_at": "2026-10-08T16:16:16Z",
-    "url": "https://github.com/AskTheWay/dsh-auto-memory"
-  },
-  {
-    "description": "An autonomous on-call agent that investigates and remediates incidents on the Incident Platform through its MCP tool sur",
-    "id": "kudratsingh/incident-commander",
-    "language": "Python",
-    "name": "kudratsingh/incident-commander",
-    "stars": 0,
-    "updated_at": "2026-10-08T16:16:11Z",
-    "url": "https://github.com/kudratsingh/incident-commander"
   }
 ]
