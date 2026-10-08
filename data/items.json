@@ -1,5 +1,23 @@
 [
   {
+    "description": "Six verbs for on-device AI in TypeScript. Edgewise runs language, vision, speech, judging, embedding, image and forecast",
+    "id": "kucukkanat/edgewise",
+    "language": "TypeScript",
+    "name": "kucukkanat/edgewise",
+    "stars": 3,
+    "updated_at": "2026-10-08T09:45:54Z",
+    "url": "https://github.com/kucukkanat/edgewise"
+  },
+  {
+    "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
+    "id": "Blondieredistributed612/pocket-agent",
+    "language": "Python",
+    "name": "Blondieredistributed612/pocket-agent",
+    "stars": 2,
+    "updated_at": "2026-10-08T09:45:38Z",
+    "url": "https://github.com/Blondieredistributed612/pocket-agent"
+  },
+  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
@@ -169,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-10-08T09:28:08Z",
     "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Six verbs for on-device AI in TypeScript. Edgewise runs language, vision, speech, judging, embedding, image and forecast",
-    "id": "kucukkanat/edgewise",
-    "language": "TypeScript",
-    "name": "kucukkanat/edgewise",
-    "stars": 3,
-    "updated_at": "2026-10-08T09:27:18Z",
-    "url": "https://github.com/kucukkanat/edgewise"
   },
   {
     "description": "",
@@ -439,14 +448,5 @@
     "stars": 1068,
     "updated_at": "2026-10-08T08:42:02Z",
     "url": "https://github.com/ant-research/AntOmniEvo"
-  },
-  {
-    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
-    "id": "ljedrz/nachalnik",
-    "language": "Rust",
-    "name": "ljedrz/nachalnik",
-    "stars": 5,
-    "updated_at": "2026-10-08T08:55:35Z",
-    "url": "https://github.com/ljedrz/nachalnik"
   }
 ]
