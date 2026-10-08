@@ -1,12 +1,12 @@
 [
   {
-    "description": "\u628a\u5927\u6a21\u578b\u5f53\u53f8\u4ee4\u3001\u811a\u672c\u5f53\u624b\u7684 DSH Agent \u9884\u8bbe\uff1a\u5de5\u5177\u91cc\u96f6\u4e1a\u52a1\u5224\u65ad\uff0c\u8ba9\u6a21\u578b\u5728\u8fd0\u884c\u65f6\u81ea\u9002\u5e94\u52a8\u6001\u7ed3\u6784\u7684\u7f51\u7ad9",
-    "id": "LeuJasYoh/dsh-chaoxing",
-    "language": "JavaScript",
-    "name": "LeuJasYoh/dsh-chaoxing",
-    "stars": 0,
-    "updated_at": "2026-10-08T04:59:43Z",
-    "url": "https://github.com/LeuJasYoh/dsh-chaoxing"
+    "description": "\ud55c\uad6d\ud22c\uc790\uc99d\uad8c OpenAPI Python \ub798\ud37c \u2014 CLI \u00b7 Python SDK \u00b7 LLM Agent \u00b7 \uc2e4\uc2dc\uac04 WebSocket. \ubb38\uc11c: unohee.github.io/kis-agent",
+    "id": "unohee/kis-agent",
+    "language": "Python",
+    "name": "unohee/kis-agent",
+    "stars": 52,
+    "updated_at": "2026-10-08T05:14:38Z",
+    "url": "https://github.com/unohee/kis-agent"
   },
   {
     "description": "Build and run agents you can see, understand and trust.",
@@ -14,8 +14,44 @@
     "language": "Python",
     "name": "agentscope-ai/agentscope",
     "stars": 32869,
-    "updated_at": "2026-10-08T04:59:36Z",
+    "updated_at": "2026-10-08T05:13:33Z",
     "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-08T05:11:18Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-08T05:09:45Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-10-08T05:10:47Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "\u628a\u5927\u6a21\u578b\u5f53\u53f8\u4ee4\u3001\u811a\u672c\u5f53\u624b\u7684 DSH Agent \u9884\u8bbe\uff1a\u5de5\u5177\u91cc\u96f6\u4e1a\u52a1\u5224\u65ad\uff0c\u8ba9\u6a21\u578b\u5728\u8fd0\u884c\u65f6\u81ea\u9002\u5e94\u52a8\u6001\u7ed3\u6784\u7684\u7f51\u7ad9",
+    "id": "LeuJasYoh/dsh-chaoxing",
+    "language": "JavaScript",
+    "name": "LeuJasYoh/dsh-chaoxing",
+    "stars": 0,
+    "updated_at": "2026-10-08T05:01:24Z",
+    "url": "https://github.com/LeuJasYoh/dsh-chaoxing"
   },
   {
     "description": "Voyager \u00d7 VLML \u00d7 \u732b\u5a18\u4f34\u5b66\uff1a\u628a\u300c\u5b66\u4e60\u8005\u300d\u6362\u6210 agent \u7684\u6700\u5c0f\u53ef\u6267\u884c\u539f\u578b\uff08\u9762\u677f\u5df2\u4e0a\u817e\u8baf\u4e91\uff09",
@@ -25,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-10-08T04:58:50Z",
     "url": "https://github.com/Zxy876/voyager-vlml-mve"
-  },
-  {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-08T04:58:23Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "\u628a DeepSeek Harness \u7684\u4e0a\u4e0b\u6587\u538b\u7f29\u4ece\u300c\u6eda\u52a8\u91cd\u5199\u7684\u53d9\u4e8b\u6458\u8981\u300d\u6539\u6210\u300c\u53ea\u8ffd\u52a0\u7684\u4f1a\u8bdd\u7d22\u5f15\u300d\uff1b\u4e09\u6761\u5b9e\u6d4b\u7f3a\u9677\u5df2\u53d6\u8bc1\uff0c\u5f81\u96c6\u793e\u533a\u4fee\u590d\u3002",
@@ -194,7 +221,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-08T04:57:41Z",
+    "updated_at": "2026-10-08T05:09:45Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -203,7 +230,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4443,
-    "updated_at": "2026-10-08T04:57:46Z",
+    "updated_at": "2026-10-08T05:06:09Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -214,15 +241,6 @@
     "stars": 5,
     "updated_at": "2026-10-08T04:38:39Z",
     "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-10-08T04:44:22Z",
-    "url": "https://github.com/JSL107/personal_agents"
   },
   {
     "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
@@ -423,15 +441,6 @@
     "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-08T04:10:21Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "",
     "id": "sanitprime/Advanced_Graph_RAG",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-08T04:09:47Z",
     "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 109,
-    "updated_at": "2026-10-08T04:08:50Z",
-    "url": "https://github.com/AVADSA25/codec"
   }
 ]
