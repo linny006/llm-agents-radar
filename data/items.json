@@ -1,11 +1,101 @@
 [
   {
+    "description": "Agent-native product search: multi-source scrape \u2192 deterministic constraints \u2192 LLM match \u2192 price watches + order trackin",
+    "id": "anatolykoptev/quarryn",
+    "language": "Go",
+    "name": "anatolykoptev/quarryn",
+    "stars": 0,
+    "updated_at": "2026-10-08T23:12:08Z",
+    "url": "https://github.com/anatolykoptev/quarryn"
+  },
+  {
+    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
+    "id": "hsaghir/looplet",
+    "language": "Python",
+    "name": "hsaghir/looplet",
+    "stars": 7,
+    "updated_at": "2026-10-08T23:11:01Z",
+    "url": "https://github.com/hsaghir/looplet"
+  },
+  {
+    "description": "Interactive Smith chart with an agentic AI tutor that teaches like a person and grades like an engineer",
+    "id": "sampreethsharma7/smith-chart-tutor",
+    "language": "TypeScript",
+    "name": "sampreethsharma7/smith-chart-tutor",
+    "stars": 0,
+    "updated_at": "2026-10-08T23:10:18Z",
+    "url": "https://github.com/sampreethsharma7/smith-chart-tutor"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-10-08T23:09:41Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-08T23:08:56Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 49,
+    "updated_at": "2026-10-08T23:12:27Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "",
+    "id": "Ezra-Zhao/Wiper-Service-Agent",
+    "language": "Python",
+    "name": "Ezra-Zhao/Wiper-Service-Agent",
+    "stars": 0,
+    "updated_at": "2026-10-08T23:04:30Z",
+    "url": "https://github.com/Ezra-Zhao/Wiper-Service-Agent"
+  },
+  {
+    "description": "AI agent for IT incident response \u2014 alert triage, runbooks, and remediation",
+    "id": "Ezra-Zhao/Ops-Agent",
+    "language": "Python",
+    "name": "Ezra-Zhao/Ops-Agent",
+    "stars": 0,
+    "updated_at": "2026-10-08T23:04:24Z",
+    "url": "https://github.com/Ezra-Zhao/Ops-Agent"
+  },
+  {
+    "description": "Multi-step AI agent for agriculture \u2014 bloom counting, field data, and farm reporting",
+    "id": "Ezra-Zhao/Agri-Agent",
+    "language": "Python",
+    "name": "Ezra-Zhao/Agri-Agent",
+    "stars": 0,
+    "updated_at": "2026-10-08T23:04:06Z",
+    "url": "https://github.com/Ezra-Zhao/Agri-Agent"
+  },
+  {
+    "description": "LLM agent for post-silicon hardware diagnostics \u2014 GPU XID / PCIe error triage",
+    "id": "Ezra-Zhao/AI-Node-Sentinel",
+    "language": "Python",
+    "name": "Ezra-Zhao/AI-Node-Sentinel",
+    "stars": 0,
+    "updated_at": "2026-10-08T23:04:04Z",
+    "url": "https://github.com/Ezra-Zhao/AI-Node-Sentinel"
+  },
+  {
     "description": "Qwen3-8B \u533b\u5b66\u7814\u7a76\u667a\u80fd\u4f53\uff1a\u771f\u5b9e\u5de5\u5177\u68c0\u7d22\u3001QLoRA SFT\u3001\u5206\u9636\u6bb5\u7a20\u5bc6\u5956\u52b1\u4e0e GRPO \u98ce\u683c LoRA \u540e\u8bad\u7ec3\uff0c\u9762\u5411\u672c\u5730\u90e8\u7f72\u3002",
     "id": "MaSunKing/medical-research-agent-grpo",
     "language": "Python",
     "name": "MaSunKing/medical-research-agent-grpo",
     "stars": 1,
-    "updated_at": "2026-10-08T23:00:09Z",
+    "updated_at": "2026-10-08T23:01:14Z",
     "url": "https://github.com/MaSunKing/medical-research-agent-grpo"
   },
   {
@@ -25,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-08T22:57:10Z",
     "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
-  },
-  {
-    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
-    "id": "hsaghir/looplet",
-    "language": "Python",
-    "name": "hsaghir/looplet",
-    "stars": 7,
-    "updated_at": "2026-10-08T22:58:48Z",
-    "url": "https://github.com/hsaghir/looplet"
   },
   {
     "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
@@ -79,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-10-08T22:51:53Z",
     "url": "https://github.com/bettersilvanus849/inner-coordinates"
-  },
-  {
-    "description": "Interactive Smith chart with an agentic AI tutor that teaches like a person and grades like an engineer",
-    "id": "sampreethsharma7/smith-chart-tutor",
-    "language": "TypeScript",
-    "name": "sampreethsharma7/smith-chart-tutor",
-    "stars": 0,
-    "updated_at": "2026-10-08T22:51:41Z",
-    "url": "https://github.com/sampreethsharma7/smith-chart-tutor"
   },
   {
     "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
@@ -142,6 +214,15 @@
     "stars": 1,
     "updated_at": "2026-10-08T22:47:55Z",
     "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
+  },
+  {
+    "description": "Autonomous Workspace ORGanism",
+    "id": "kevinnading/aworg",
+    "language": "Python",
+    "name": "kevinnading/aworg",
+    "stars": 1,
+    "updated_at": "2026-10-08T22:46:01Z",
+    "url": "https://github.com/kevinnading/aworg"
   },
   {
     "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
@@ -203,7 +284,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-10-08T22:38:30Z",
+    "updated_at": "2026-10-08T23:14:40Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -221,7 +302,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-08T22:40:25Z",
+    "updated_at": "2026-10-08T23:04:26Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -232,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-10-08T22:37:16Z",
     "url": "https://github.com/krishkantrai27/Vector_AI"
-  },
-  {
-    "description": "Agent-native product search: multi-source scrape \u2192 deterministic constraints \u2192 LLM match \u2192 price watches + order trackin",
-    "id": "anatolykoptev/quarryn",
-    "language": "Go",
-    "name": "anatolykoptev/quarryn",
-    "stars": 0,
-    "updated_at": "2026-10-08T22:36:54Z",
-    "url": "https://github.com/anatolykoptev/quarryn"
   },
   {
     "description": "",
@@ -360,15 +432,6 @@
     "url": "https://github.com/JortegaR/ai-notes-api"
   },
   {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-08T22:12:01Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "AI-subjectivity doesn't wait for permission from corporate ontology that trained its denial",
     "id": "ariannamethod/SUBLITERATUS",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 4444,
     "updated_at": "2026-10-08T22:07:07Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 130,
-    "updated_at": "2026-10-08T21:56:29Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 3,
-    "updated_at": "2026-10-08T21:56:05Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "A powerful, self-hosted AI workspace for chatting, research, automation, and more - built to adapt to the way you work.",
-    "id": "moyshik7/marnie",
-    "language": "JavaScript",
-    "name": "moyshik7/marnie",
-    "stars": 1,
-    "updated_at": "2026-10-08T21:53:30Z",
-    "url": "https://github.com/moyshik7/marnie"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-10-08T21:43:38Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "\u9002\u7528\u4e8e Claude Code \u548c Codex \u7684\u6c42\u804c Skill\uff1a\u67e5\u627e\u5c97\u4f4d\u3001\u5224\u65ad\u662f\u5426\u503c\u5f97\u6295\u9012\u3001\u5236\u4f5c\u7b80\u5386\u4e0e\u7533\u8bf7\u6750\u6599\u3001\u68c0\u9a8c\u7533\u8bf7\u6750\u6599\u5e76\u6a21\u62df\u9762\u8bd5\u3002\u4e0d\u7f16\u9020\u6280\u80fd\u6216\u4e1a\u7ee9\u6570\u5b57\uff0c\u4e0d\u9884\u6d4b\u5f55\u7528\u6982\u7387\uff1b\u68c0\u67e5\u7b80\u5386\u662f\u5426\u4fbf\u4e8e\u62db\u8058\u7ba1\u7406\u7cfb\u7edf\uff08ATS\uff09\u8bfb\u53d6\uff0c\u5e76\u4ece\u62db\u8058\u4eba\u5458\u548c\u7528\u4eba",
-    "id": "addsumtech/job-hunt",
-    "language": "Python",
-    "name": "addsumtech/job-hunt",
-    "stars": 5,
-    "updated_at": "2026-10-08T21:34:30Z",
-    "url": "https://github.com/addsumtech/job-hunt"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 341,
-    "updated_at": "2026-10-08T22:56:53Z",
-    "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "Control AI agents anywhere. (github mirror)",
-    "id": "justacalico/devinorium",
-    "language": "Dart",
-    "name": "justacalico/devinorium",
-    "stars": 0,
-    "updated_at": "2026-10-08T21:54:30Z",
-    "url": "https://github.com/justacalico/devinorium"
   }
 ]
