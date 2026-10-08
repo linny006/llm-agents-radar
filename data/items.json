@@ -1,12 +1,48 @@
 [
   {
-    "description": "\u57fa\u4e8e\u672c\u5730 Ollama \u5927\u6a21\u578b\u7684\u5168\u79bb\u7ebf CTF \u81ea\u52a8\u89e3\u9898 Agent\uff1a\u5355\u6587\u4ef6\u3001\u7eaf Python\u3001\u56db\u91cd\u5b89\u5168\u95f8\u95e8",
-    "id": "Sec-RUM/Local-Pentest-Agent",
+    "description": "[WWW '25 Oral - GenMentor] Official code of our paper \"LLM-powered Multi-agent Framework for Goal-oriented Learning in I",
+    "id": "GeminiLight/gen-mentor",
+    "language": "TypeScript",
+    "name": "GeminiLight/gen-mentor",
+    "stars": 132,
+    "updated_at": "2026-10-08T13:44:12Z",
+    "url": "https://github.com/GeminiLight/gen-mentor"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
     "language": "Python",
-    "name": "Sec-RUM/Local-Pentest-Agent",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3535,
+    "updated_at": "2026-10-08T13:44:37Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
+    "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
+    "id": "Shuffle-1992/dsh-context-pilot",
+    "language": "JavaScript",
+    "name": "Shuffle-1992/dsh-context-pilot",
     "stars": 0,
-    "updated_at": "2026-10-08T13:29:57Z",
-    "url": "https://github.com/Sec-RUM/Local-Pentest-Agent"
+    "updated_at": "2026-10-08T13:38:57Z",
+    "url": "https://github.com/Shuffle-1992/dsh-context-pilot"
+  },
+  {
+    "description": "Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Pyt",
+    "id": "feder-cr/invisible_playwright_mcp",
+    "language": "Python",
+    "name": "feder-cr/invisible_playwright_mcp",
+    "stars": 2656,
+    "updated_at": "2026-10-08T13:37:23Z",
+    "url": "https://github.com/feder-cr/invisible_playwright_mcp"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-08T13:36:38Z",
+    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -14,8 +50,44 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-10-08T13:29:54Z",
+    "updated_at": "2026-10-08T13:38:20Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "LLM Agent \u670d\u52a1\uff1aLangChain + FastAPI + Vue3\uff0c\u6df7\u5408\u68c0\u7d22 RAG \u5e26\u5f15\u7528\u6eaf\u6e90\uff0cReAct \u53cc\u67b6\u6784\u5b9e\u6d4b\u62e9\u4f18\uff0898.5% vs 89.7%\uff09\uff0c\u8bed\u4e49\u7f13\u5b58\u96f6\u8bef\u547d\u4e2d\uff0c158 \u6761\u8bc4\u6d4b + CI \u56de\u5f52\u95e8\u7981\uff0cDocker \u516c",
+    "id": "SYM529/sym1",
+    "language": "Python",
+    "name": "SYM529/sym1",
+    "stars": 0,
+    "updated_at": "2026-10-08T13:35:57Z",
+    "url": "https://github.com/SYM529/sym1"
+  },
+  {
+    "description": "\u91cf\u7eb2\u611f\u77e5\u7684\u7269\u7406\u5b9a\u5f8b\u81ea\u52a8\u53d1\u73b0\u667a\u80fd\u4f53\uff1a\u91cf\u7eb2\u526a\u679d + OMP \u7a00\u758f\u56de\u5f52 + \u5916\u63a8\u4e0e\u7b26\u53f7\u53cc\u91cd\u9a8c\u8bc1\uff0c\u7ed3\u679c\u53ef\u590d\u73b0\u3001\u53ef\u5ba1\u8ba1\uff1b\u7ecf MCP \u63a5\u5165 Agnes Harness (AGH)\u3002\u6c5f\u82cf\u7701 AI+ \u9ed1\u5ba2\u677e\u53c2\u8d5b\u4f5c\u54c1\u3002",
+    "id": "Arcticfox-star/SciFormula",
+    "language": "HTML",
+    "name": "Arcticfox-star/SciFormula",
+    "stars": 0,
+    "updated_at": "2026-10-08T13:32:49Z",
+    "url": "https://github.com/Arcticfox-star/SciFormula"
+  },
+  {
+    "description": "Open-source, self-hostable AppSec agent that finds, proves, and helps fix web/API vulnerabilities \u2014 evidence-first (inde",
+    "id": "NitinReddy-A/HackOps_Recon",
+    "language": "Python",
+    "name": "NitinReddy-A/HackOps_Recon",
+    "stars": 2,
+    "updated_at": "2026-10-08T13:32:05Z",
+    "url": "https://github.com/NitinReddy-A/HackOps_Recon"
+  },
+  {
+    "description": "\u57fa\u4e8e\u672c\u5730 Ollama \u5927\u6a21\u578b\u7684\u5168\u79bb\u7ebf CTF \u81ea\u52a8\u89e3\u9898 Agent\uff1a\u5355\u6587\u4ef6\u3001\u7eaf Python\u3001\u56db\u91cd\u5b89\u5168\u95f8\u95e8",
+    "id": "Sec-RUM/Local-Pentest-Agent",
+    "language": "Python",
+    "name": "Sec-RUM/Local-Pentest-Agent",
+    "stars": 0,
+    "updated_at": "2026-10-08T13:29:57Z",
+    "url": "https://github.com/Sec-RUM/Local-Pentest-Agent"
   },
   {
     "description": "A stateful agent harness: tool governance, context budgeting, structured memory, resumable runs, and contract-based eval",
@@ -32,7 +104,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-08T13:28:24Z",
+    "updated_at": "2026-10-08T13:37:45Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -59,7 +131,7 @@
     "language": "Python",
     "name": "sjhesjaj/GroundedAgent",
     "stars": 0,
-    "updated_at": "2026-10-08T13:28:00Z",
+    "updated_at": "2026-10-08T13:43:32Z",
     "url": "https://github.com/sjhesjaj/GroundedAgent"
   },
   {
@@ -99,42 +171,6 @@
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
-    "description": "LLM Agent \u670d\u52a1\uff1aLangChain + FastAPI + Vue3\uff0c\u6df7\u5408\u68c0\u7d22 RAG \u5e26\u5f15\u7528\u6eaf\u6e90\uff0cReAct \u53cc\u67b6\u6784\u5b9e\u6d4b\u62e9\u4f18\uff0898.5% vs 89.7%\uff09\uff0c\u8bed\u4e49\u7f13\u5b58\u96f6\u8bef\u547d\u4e2d\uff0c158 \u6761\u8bc4\u6d4b + CI \u56de\u5f52\u95e8\u7981\uff0cDocker \u516c",
-    "id": "SYM529/sym1",
-    "language": "Python",
-    "name": "SYM529/sym1",
-    "stars": 0,
-    "updated_at": "2026-10-08T13:16:00Z",
-    "url": "https://github.com/SYM529/sym1"
-  },
-  {
-    "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
-    "id": "Shuffle-1992/dsh-context-pilot",
-    "language": "JavaScript",
-    "name": "Shuffle-1992/dsh-context-pilot",
-    "stars": 0,
-    "updated_at": "2026-10-08T13:15:48Z",
-    "url": "https://github.com/Shuffle-1992/dsh-context-pilot"
-  },
-  {
-    "description": "\u91cf\u7eb2\u611f\u77e5\u7684\u7269\u7406\u5b9a\u5f8b\u81ea\u52a8\u53d1\u73b0\u667a\u80fd\u4f53\uff1a\u91cf\u7eb2\u526a\u679d + OMP \u7a00\u758f\u56de\u5f52 + \u5916\u63a8\u4e0e\u7b26\u53f7\u53cc\u91cd\u9a8c\u8bc1\uff0c\u7ed3\u679c\u53ef\u590d\u73b0\u3001\u53ef\u5ba1\u8ba1\uff1b\u7ecf MCP \u63a5\u5165 Agnes Harness (AGH)\u3002\u6c5f\u82cf\u7701 AI+ \u9ed1\u5ba2\u677e\u53c2\u8d5b\u4f5c\u54c1\u3002",
-    "id": "Arcticfox-star/SciFormula",
-    "language": "HTML",
-    "name": "Arcticfox-star/SciFormula",
-    "stars": 0,
-    "updated_at": "2026-10-08T13:11:23Z",
-    "url": "https://github.com/Arcticfox-star/SciFormula"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-08T13:11:10Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "\u628a\u5927\u6a21\u578b\u5f53\u53f8\u4ee4\u3001\u811a\u672c\u5f53\u624b\u7684 DSH Agent \u9884\u8bbe\uff1a\u5de5\u5177\u91cc\u96f6\u4e1a\u52a1\u5224\u65ad\uff0c\u8ba9\u6a21\u578b\u5728\u8fd0\u884c\u65f6\u81ea\u9002\u5e94\u52a8\u6001\u7ed3\u6784\u7684\u7f51\u7ad9",
     "id": "LeuJasYoh/dsh-xuexi",
     "language": "JavaScript",
@@ -149,7 +185,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 18,
-    "updated_at": "2026-10-08T13:10:29Z",
+    "updated_at": "2026-10-08T13:39:28Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -252,15 +288,6 @@
     "url": "https://github.com/tzur669-lab/whatsapp-assistant"
   },
   {
-    "description": "Open-source, self-hostable AppSec agent that finds, proves, and helps fix web/API vulnerabilities \u2014 evidence-first (inde",
-    "id": "NitinReddy-A/HackOps_Recon",
-    "language": "Python",
-    "name": "NitinReddy-A/HackOps_Recon",
-    "stars": 2,
-    "updated_at": "2026-10-08T12:42:18Z",
-    "url": "https://github.com/NitinReddy-A/HackOps_Recon"
-  },
-  {
     "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
     "id": "honestDS/MonoLight",
     "language": "Python",
@@ -286,15 +313,6 @@
     "stars": 2,
     "updated_at": "2026-10-08T12:34:42Z",
     "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3535,
-    "updated_at": "2026-10-08T13:29:35Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Agent Knowledge Cycle (AKC) is a six-phase, human-gated cycle that turns a coding agent's repeated experience into skill",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-08T11:48:59Z",
     "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
-  },
-  {
-    "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
-    "id": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
-    "language": "JavaScript",
-    "name": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
-    "stars": 2,
-    "updated_at": "2026-10-08T11:48:07Z",
-    "url": "https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder"
-  },
-  {
-    "description": "Verify area values quickly with this web-based HTML calculator tool.",
-    "id": "passive-hotpepper515/area-checker-html-tool",
-    "language": "HTML",
-    "name": "passive-hotpepper515/area-checker-html-tool",
-    "stars": 0,
-    "updated_at": "2026-10-08T11:47:45Z",
-    "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
   }
 ]
