@@ -1,12 +1,120 @@
 [
   {
+    "description": "An open-source research agent system for your Zotero library.",
+    "id": "yilewang/llm-for-zotero",
+    "language": "TypeScript",
+    "name": "yilewang/llm-for-zotero",
+    "stars": 3211,
+    "updated_at": "2026-10-08T02:45:16Z",
+    "url": "https://github.com/yilewang/llm-for-zotero"
+  },
+  {
+    "description": "AlisonBot\uff1a\u5fae\u5185\u6838 + \u4e00\u5207\u7686\u63d2\u4ef6\uff08UI / \u5bf9\u8bdd\u5e73\u53f0 / \u4eba\u8bbe / \u5f15\u5bfc / \u81ea\u6cbb\u90fd\u662f\u63d2\u4ef6\uff09\u2014\u2014 \u57fa\u4e8e Koishi + ChatLuna \u7684\u81ea\u6258\u7ba1 AI \u804a\u5929\u673a\u5668\u4eba\uff0c\u652f\u6301\u70ed\u66f4\u65b0\u3001\u63d2\u4ef6\u81ea\u88c5\u81ea\u4fee\u4e0e\u591a\u5e73\u53f0\u9002\u914d\uff08OneBot / Sno",
+    "id": "GWNWRAL/alisonbot",
+    "language": "JavaScript",
+    "name": "GWNWRAL/alisonbot",
+    "stars": 1,
+    "updated_at": "2026-10-08T02:44:14Z",
+    "url": "https://github.com/GWNWRAL/alisonbot"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-08T02:41:50Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
+    "id": "IAmNo1Special/mvgeos",
+    "language": "Python",
+    "name": "IAmNo1Special/mvgeos",
+    "stars": 1,
+    "updated_at": "2026-10-08T02:41:08Z",
+    "url": "https://github.com/IAmNo1Special/mvgeos"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5816,
+    "updated_at": "2026-10-08T02:39:15Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
     "description": "\ud83d\ude80 Xenon 0.9.2 \u2014 \u53ef\u9a8c\u8bc1\u7684 AI coding agent runtime\uff1a\u5355\u4e00\u4efb\u52a1\u72b6\u6001\u673a\u3001\u8bc1\u636e\u9a71\u52a8\u6267\u884c\u30017 \u79cd\u63a8\u7406\u8303\u5f0f\u3001MCP\u3001\u591a\u6a21\u578b\u4e0e Windows/GBK \u517c\u5bb9\u3002",
     "id": "xianyu-sheng/Xenon",
     "language": "Python",
     "name": "xianyu-sheng/Xenon",
     "stars": 53,
-    "updated_at": "2026-10-08T02:28:39Z",
+    "updated_at": "2026-10-08T02:38:04Z",
     "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 7,
+    "updated_at": "2026-10-08T02:37:40Z",
+    "url": "https://github.com/alex8224/synapse-agent"
+  },
+  {
+    "description": "\u628a\u5927\u6a21\u578b\u5f53\u53f8\u4ee4\u3001\u811a\u672c\u5f53\u624b\u7684 DSH Agent \u9884\u8bbe\uff1a\u5de5\u5177\u91cc\u96f6\u4e1a\u52a1\u5224\u65ad\uff0c\u8ba9\u6a21\u578b\u5728\u8fd0\u884c\u65f6\u81ea\u9002\u5e94\u52a8\u6001\u7ed3\u6784\u7684\u7f51\u7ad9",
+    "id": "LeuJasYoh/dsh-chaoxing",
+    "language": "JavaScript",
+    "name": "LeuJasYoh/dsh-chaoxing",
+    "stars": 0,
+    "updated_at": "2026-10-08T02:37:37Z",
+    "url": "https://github.com/LeuJasYoh/dsh-chaoxing"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-10-08T02:36:02Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
+    "id": "xieguigang/sciBASIC",
+    "language": "Visual Basic .NET",
+    "name": "xieguigang/sciBASIC",
+    "stars": 78,
+    "updated_at": "2026-10-08T02:34:21Z",
+    "url": "https://github.com/xieguigang/sciBASIC"
+  },
+  {
+    "description": "Voyager \u00d7 VLML \u00d7 \u732b\u5a18\u4f34\u5b66\uff1a\u628a\u300c\u5b66\u4e60\u8005\u300d\u6362\u6210 agent \u7684\u6700\u5c0f\u53ef\u6267\u884c\u539f\u578b\uff08\u9762\u677f\u5df2\u4e0a\u817e\u8baf\u4e91\uff09",
+    "id": "Zxy876/voyager-vlml-mve",
+    "language": "Python",
+    "name": "Zxy876/voyager-vlml-mve",
+    "stars": 0,
+    "updated_at": "2026-10-08T02:31:05Z",
+    "url": "https://github.com/Zxy876/voyager-vlml-mve"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-08T02:32:26Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 130,
+    "updated_at": "2026-10-08T02:30:34Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
@@ -23,7 +131,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 12,
-    "updated_at": "2026-10-08T02:25:12Z",
+    "updated_at": "2026-10-08T02:31:47Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -32,17 +140,8 @@
     "language": "Python",
     "name": "ariannamethod/SUBLITERATUS",
     "stars": 4,
-    "updated_at": "2026-10-08T02:22:48Z",
+    "updated_at": "2026-10-08T02:45:24Z",
     "url": "https://github.com/ariannamethod/SUBLITERATUS"
-  },
-  {
-    "description": "Voyager \u00d7 VLML \u00d7 \u732b\u5a18\u4f34\u5b66\uff1a\u628a\u300c\u5b66\u4e60\u8005\u300d\u6362\u6210 agent \u7684\u6700\u5c0f\u53ef\u6267\u884c\u539f\u578b\uff08\u9762\u677f\u5df2\u4e0a\u817e\u8baf\u4e91\uff09",
-    "id": "Zxy876/voyager-vlml-mve",
-    "language": "Python",
-    "name": "Zxy876/voyager-vlml-mve",
-    "stars": 0,
-    "updated_at": "2026-10-08T02:21:09Z",
-    "url": "https://github.com/Zxy876/voyager-vlml-mve"
   },
   {
     "description": "\ud83e\udd16 \u65b0\u4e00\u4ee3\u5f00\u6e90 Chrome \u4fa7\u8fb9\u680f\u81ea\u4e3b AI \u6d4f\u89c8\u5668\u667a\u80fd\u4f53\uff1a\u76ee\u6807\u9a71\u52a8\u3001\u957f\u7a0b\u89c4\u5212\u3001\u89c6\u89c9\u7a7a\u95f4\u611f\u77e5\u3001\u5feb\u6162\u53cc\u6838\u8ba4\u77e5\u4e0e\u7269\u7406\u7ea7\u64cd\u63a7\uff0c\u652f\u6301 DeepSeek \u601d\u8003\u6a21\u578b\u4e0e\u672c\u5730\u79bb\u7ebf LLM (BYOK)",
@@ -59,7 +158,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-10-08T02:19:47Z",
+    "updated_at": "2026-10-08T02:37:10Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -76,7 +175,7 @@
     "id": "Luciole-Studio/Misaka-Agent",
     "language": "Python",
     "name": "Luciole-Studio/Misaka-Agent",
-    "stars": 136,
+    "stars": 137,
     "updated_at": "2026-10-08T02:12:19Z",
     "url": "https://github.com/Luciole-Studio/Misaka-Agent"
   },
@@ -88,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-08T02:08:17Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "AlisonBot\uff1a\u5fae\u5185\u6838 + \u4e00\u5207\u7686\u63d2\u4ef6\uff08UI / \u5bf9\u8bdd\u5e73\u53f0 / \u4eba\u8bbe / \u5f15\u5bfc / \u81ea\u6cbb\u90fd\u662f\u63d2\u4ef6\uff09\u2014\u2014 \u57fa\u4e8e Koishi + ChatLuna \u7684\u81ea\u6258\u7ba1 AI \u804a\u5929\u673a\u5668\u4eba\uff0c\u652f\u6301\u70ed\u66f4\u65b0\u3001\u63d2\u4ef6\u81ea\u88c5\u81ea\u4fee\u4e0e\u591a\u5e73\u53f0\u9002\u914d\uff08OneBot / Sno",
-    "id": "GWNWRAL/alisonbot",
-    "language": "JavaScript",
-    "name": "GWNWRAL/alisonbot",
-    "stars": 1,
-    "updated_at": "2026-10-08T02:03:33Z",
-    "url": "https://github.com/GWNWRAL/alisonbot"
   },
   {
     "description": "Community registry of AI agent manifests, capabilities, skills, and workflows for Octomind \u2014 run a fully-configured spec",
@@ -124,15 +214,6 @@
     "stars": 10,
     "updated_at": "2026-10-08T01:53:26Z",
     "url": "https://github.com/Intelligent-CAT-Lab/ReCodeAgent"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-08T01:51:38Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -169,15 +250,6 @@
     "stars": 4,
     "updated_at": "2026-10-08T01:47:11Z",
     "url": "https://github.com/Rekin226/Agronaut"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-10-08T02:28:13Z",
-    "url": "https://github.com/JSL107/personal_agents"
   },
   {
     "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
@@ -266,7 +338,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-08T02:19:43Z",
+    "updated_at": "2026-10-08T02:43:22Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -275,7 +347,7 @@
     "language": "TypeScript",
     "name": "BlockRunAI/Franklin",
     "stars": 555,
-    "updated_at": "2026-10-08T02:06:46Z",
+    "updated_at": "2026-10-08T02:42:09Z",
     "url": "https://github.com/BlockRunAI/Franklin"
   },
   {
@@ -347,7 +419,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-08T02:18:04Z",
+    "updated_at": "2026-10-08T02:34:50Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-08T01:29:36Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-10-08T01:28:14Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-10-08T01:28:02Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 5,
-    "updated_at": "2026-10-08T01:26:15Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "Enterprise Data Agent: NL \u2192 contract-bound DSL \u2192 deterministic SQL \u2192 DuckDB. StateGraph orchestration, sandboxed analysi",
-    "id": "Cwentor/DataAgent",
-    "language": "Python",
-    "name": "Cwentor/DataAgent",
-    "stars": 1,
-    "updated_at": "2026-10-08T01:23:02Z",
-    "url": "https://github.com/Cwentor/DataAgent"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-10-08T01:22:58Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
-    "id": "Danisxxx/comfyUI-LongLook",
-    "language": "Python",
-    "name": "Danisxxx/comfyUI-LongLook",
-    "stars": 2,
-    "updated_at": "2026-10-08T01:18:30Z",
-    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
-  },
-  {
-    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
-    "id": "axxafo/awesome-agent-benchmarks",
-    "language": "\u2014",
-    "name": "axxafo/awesome-agent-benchmarks",
-    "stars": 4,
-    "updated_at": "2026-10-08T01:17:40Z",
-    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-10-08T01:16:15Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   }
 ]
