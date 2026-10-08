@@ -1,5 +1,68 @@
 [
   {
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 109,
+    "updated_at": "2026-10-08T03:59:55Z",
+    "url": "https://github.com/AVADSA25/codec"
+  },
+  {
+    "description": "Open-source, self-hostable AppSec agent that finds, proves, and helps fix web/API vulnerabilities \u2014 evidence-first (inde",
+    "id": "NitinReddy-A/HackOps_Recon",
+    "language": "Python",
+    "name": "NitinReddy-A/HackOps_Recon",
+    "stars": 2,
+    "updated_at": "2026-10-08T03:55:50Z",
+    "url": "https://github.com/NitinReddy-A/HackOps_Recon"
+  },
+  {
+    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
+    "id": "alexwkleung/reika",
+    "language": "TypeScript",
+    "name": "alexwkleung/reika",
+    "stars": 6,
+    "updated_at": "2026-10-08T03:54:42Z",
+    "url": "https://github.com/alexwkleung/reika"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-10-08T03:58:22Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4442,
+    "updated_at": "2026-10-08T03:56:57Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-08T03:50:44Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
+    "id": "honestDS/MonoLight",
+    "language": "Python",
+    "name": "honestDS/MonoLight",
+    "stars": 8,
+    "updated_at": "2026-10-08T03:45:31Z",
+    "url": "https://github.com/honestDS/MonoLight"
+  },
+  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
@@ -32,7 +95,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-08T03:45:07Z",
+    "updated_at": "2026-10-08T03:52:04Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -41,7 +104,7 @@
     "language": "Go",
     "name": "agentscope-ai/agentscope-go",
     "stars": 47,
-    "updated_at": "2026-10-08T03:32:24Z",
+    "updated_at": "2026-10-08T03:55:59Z",
     "url": "https://github.com/agentscope-ai/agentscope-go"
   },
   {
@@ -81,21 +144,12 @@
     "url": "https://github.com/liuhaolin07/AgentShield"
   },
   {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-10-08T03:44:24Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
     "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 11,
-    "updated_at": "2026-10-08T03:11:07Z",
+    "updated_at": "2026-10-08T03:54:42Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -203,7 +257,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-08T03:31:26Z",
+    "updated_at": "2026-10-08T03:52:57Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -221,7 +275,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 12,
-    "updated_at": "2026-10-08T03:42:53Z",
+    "updated_at": "2026-10-08T03:48:37Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -234,20 +288,11 @@
     "url": "https://github.com/xianyu-sheng/Xenon"
   },
   {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-08T03:44:47Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
     "description": "An open-source research agent system for your Zotero library.",
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
-    "stars": 3212,
+    "stars": 3213,
     "updated_at": "2026-10-08T02:45:16Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
@@ -320,7 +365,7 @@
     "language": "Python",
     "name": "ariannamethod/SUBLITERATUS",
     "stars": 4,
-    "updated_at": "2026-10-08T03:44:55Z",
+    "updated_at": "2026-10-08T04:00:04Z",
     "url": "https://github.com/ariannamethod/SUBLITERATUS"
   },
   {
@@ -346,7 +391,7 @@
     "id": "Luciole-Studio/Misaka-Agent",
     "language": "Python",
     "name": "Luciole-Studio/Misaka-Agent",
-    "stars": 138,
+    "stars": 139,
     "updated_at": "2026-10-08T02:12:19Z",
     "url": "https://github.com/Luciole-Studio/Misaka-Agent"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-08T01:47:46Z",
     "url": "https://github.com/zig333/ELAI-archive"
-  },
-  {
-    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
-    "id": "Rekin226/Agronaut",
-    "language": "Python",
-    "name": "Rekin226/Agronaut",
-    "stars": 4,
-    "updated_at": "2026-10-08T01:47:11Z",
-    "url": "https://github.com/Rekin226/Agronaut"
-  },
-  {
-    "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
-    "id": "brittewestafrican981/ComfyUI-YinChao",
-    "language": "Python",
-    "name": "brittewestafrican981/ComfyUI-YinChao",
-    "stars": 1,
-    "updated_at": "2026-10-08T01:46:03Z",
-    "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
-  },
-  {
-    "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
-    "id": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
-    "language": "Python",
-    "name": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
-    "stars": 5,
-    "updated_at": "2026-10-08T01:44:41Z",
-    "url": "https://github.com/mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo"
-  },
-  {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-10-08T02:16:27Z",
-    "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
-    "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
-    "id": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
-    "language": "Python",
-    "name": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
-    "stars": 3,
-    "updated_at": "2026-10-08T01:43:49Z",
-    "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
   }
 ]
