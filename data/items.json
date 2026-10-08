@@ -1,5 +1,59 @@
 [
   {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-10-08T23:44:19Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Interactive Smith chart with an agentic AI tutor that teaches like a person and grades like an engineer",
+    "id": "sampreethsharma7/smith-chart-tutor",
+    "language": "TypeScript",
+    "name": "sampreethsharma7/smith-chart-tutor",
+    "stars": 0,
+    "updated_at": "2026-10-08T23:38:01Z",
+    "url": "https://github.com/sampreethsharma7/smith-chart-tutor"
+  },
+  {
+    "description": "A local-first, standalone personal knowledge base for Windows. Import, organize, and create your own links \u2014 no browser ",
+    "id": "Hrecer/LinkPocket",
+    "language": "C#",
+    "name": "Hrecer/LinkPocket",
+    "stars": 0,
+    "updated_at": "2026-10-08T23:37:47Z",
+    "url": "https://github.com/Hrecer/LinkPocket"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-08T23:35:17Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Control AI agents anywhere. (github mirror)",
+    "id": "justacalico/devinorium",
+    "language": "Dart",
+    "name": "justacalico/devinorium",
+    "stars": 0,
+    "updated_at": "2026-10-08T23:31:45Z",
+    "url": "https://github.com/justacalico/devinorium"
+  },
+  {
+    "description": "A personal assistant with a phone number: SQLite-backed todos, memories, and reflections, searchable through Algolia and",
+    "id": "NatanTechofNY/fieldnote-assistant",
+    "language": "TypeScript",
+    "name": "NatanTechofNY/fieldnote-assistant",
+    "stars": 5,
+    "updated_at": "2026-10-08T23:30:13Z",
+    "url": "https://github.com/NatanTechofNY/fieldnote-assistant"
+  },
+  {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
     "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
@@ -34,15 +88,6 @@
     "stars": 7,
     "updated_at": "2026-10-08T23:19:33Z",
     "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
-    "description": "Interactive Smith chart with an agentic AI tutor that teaches like a person and grades like an engineer",
-    "id": "sampreethsharma7/smith-chart-tutor",
-    "language": "TypeScript",
-    "name": "sampreethsharma7/smith-chart-tutor",
-    "stars": 0,
-    "updated_at": "2026-10-08T23:17:46Z",
-    "url": "https://github.com/sampreethsharma7/smith-chart-tutor"
   },
   {
     "description": "Agent-native product search: multi-source scrape \u2192 deterministic constraints \u2192 LLM match \u2192 price watches + order trackin",
@@ -324,15 +369,6 @@
     "url": "https://github.com/lukky262/ARE"
   },
   {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-08T23:24:30Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
     "description": "Vector database built from scratch in Java with zero dependencies. HNSW, KD-Tree and Brute Force search side by side, pl",
     "id": "krishkantrai27/Vector_AI",
     "language": "Java",
@@ -367,15 +403,6 @@
     "stars": 2,
     "updated_at": "2026-10-08T22:31:24Z",
     "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
-  },
-  {
-    "description": "A local-first, standalone personal knowledge base for Windows. Import, organize, and create your own links \u2014 no browser ",
-    "id": "Hrecer/LinkPocket",
-    "language": "C#",
-    "name": "Hrecer/LinkPocket",
-    "stars": 0,
-    "updated_at": "2026-10-08T22:31:08Z",
-    "url": "https://github.com/Hrecer/LinkPocket"
   },
   {
     "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-08T22:20:53Z",
     "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 816,
-    "updated_at": "2026-10-08T22:30:26Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 2,
-    "updated_at": "2026-10-08T22:18:24Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-10-08T22:15:44Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
   }
 ]
