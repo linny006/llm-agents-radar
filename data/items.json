@@ -1,12 +1,93 @@
 [
   {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 32872,
+    "updated_at": "2026-10-08T05:59:52Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "\u5236\u9020\u4e1a\u8bbe\u5907\u8fd0\u7ef4 RAG \u667a\u80fd\u95ee\u7b54\u667a\u80fd\u4f53 Demo\uff1a\u6587\u6863\u89e3\u6790\u2192\u68c0\u7d22\u2192\u5927\u6a21\u578b\u751f\u6210\u2192\u667a\u80fd\u4f53\u5de5\u5177\u6821\u9a8c\u5168\u94fe\u8def\uff0c\u542b\u591a\u7248\u672c Prompt A/B \u6548\u679c\u8bc4\u6d4b\uff08\u51c6\u786e\u7387/\u5e7b\u89c9\u7387/\u5f15\u7528\u7387\uff09",
+    "id": "Liu-350/demo-rag-agent-manufacture",
+    "language": "Python",
+    "name": "Liu-350/demo-rag-agent-manufacture",
+    "stars": 0,
+    "updated_at": "2026-10-08T05:59:47Z",
+    "url": "https://github.com/Liu-350/demo-rag-agent-manufacture"
+  },
+  {
+    "description": "Lean, extended fork of Nous Research's Hermes Agent \u2014 free model suite, connectors, and ~20 perf fixes. Upstream credite",
+    "id": "Chensihakniroth/anakot-agent-v1",
+    "language": "Python",
+    "name": "Chensihakniroth/anakot-agent-v1",
+    "stars": 0,
+    "updated_at": "2026-10-08T05:58:20Z",
+    "url": "https://github.com/Chensihakniroth/anakot-agent-v1"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-10-08T05:57:26Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-10-08T05:57:01Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "Voyager \u00d7 VLML \u00d7 \u732b\u5a18\u4f34\u5b66\uff1a\u628a\u300c\u5b66\u4e60\u8005\u300d\u6362\u6210 agent \u7684\u6700\u5c0f\u53ef\u6267\u884c\u539f\u578b\uff08\u9762\u677f\u5df2\u4e0a\u817e\u8baf\u4e91\uff09",
+    "id": "Zxy876/voyager-vlml-mve",
+    "language": "Python",
+    "name": "Zxy876/voyager-vlml-mve",
+    "stars": 0,
+    "updated_at": "2026-10-08T05:56:28Z",
+    "url": "https://github.com/Zxy876/voyager-vlml-mve"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-10-08T05:56:28Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 280,
+    "updated_at": "2026-10-08T05:54:29Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
     "description": "\u628a\u5927\u6a21\u578b\u5f53\u53f8\u4ee4\u3001\u811a\u672c\u5f53\u624b\u7684 DSH Agent \u9884\u8bbe\uff1a\u5de5\u5177\u91cc\u96f6\u4e1a\u52a1\u5224\u65ad\uff0c\u8ba9\u6a21\u578b\u5728\u8fd0\u884c\u65f6\u81ea\u9002\u5e94\u52a8\u6001\u7ed3\u6784\u7684\u7f51\u7ad9",
     "id": "LeuJasYoh/dsh-chaoxing",
     "language": "JavaScript",
     "name": "LeuJasYoh/dsh-chaoxing",
     "stars": 0,
-    "updated_at": "2026-10-08T05:43:36Z",
+    "updated_at": "2026-10-08T05:53:31Z",
     "url": "https://github.com/LeuJasYoh/dsh-chaoxing"
+  },
+  {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 1290,
+    "updated_at": "2026-10-08T05:53:06Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
     "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
@@ -14,8 +95,53 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 2,
-    "updated_at": "2026-10-08T05:41:52Z",
+    "updated_at": "2026-10-08T05:58:28Z",
     "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
+    "id": "cheeezis/job_finder",
+    "language": "Python",
+    "name": "cheeezis/job_finder",
+    "stars": 0,
+    "updated_at": "2026-10-08T05:51:56Z",
+    "url": "https://github.com/cheeezis/job_finder"
+  },
+  {
+    "description": "\u4ecb\u8b77\u306e\u9700\u7d66\u30c7\u30fc\u30bf\u3092AI\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u306e\u9053\u5177\u3068\u3057\u3066\u516c\u958b\u3059\u308bMCP\u30b5\u30fc\u30d0\u30fc\u3002\u9053\u5177\u306f3\u3064\u3002\u547c\u3076\u5074\u306e\u30e2\u30c7\u30eb\u3092\u5909\u3048\u3066\u3082\u7b54\u3048\u304c\u3076\u308c\u306a\u3044\u3088\u3046\u3001\u5168\u56fd\u5024\u3092\u9053\u5177\u306e\u5fdc\u7b54\u306b\u57cb\u3081\u305f",
+    "id": "ossudesu-lab/kaigo_mcp",
+    "language": "Python",
+    "name": "ossudesu-lab/kaigo_mcp",
+    "stars": 0,
+    "updated_at": "2026-10-08T05:51:25Z",
+    "url": "https://github.com/ossudesu-lab/kaigo_mcp"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 21,
+    "updated_at": "2026-10-08T05:51:05Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
+    "id": "Shuffle-1992/dsh-context-pilot",
+    "language": "JavaScript",
+    "name": "Shuffle-1992/dsh-context-pilot",
+    "stars": 0,
+    "updated_at": "2026-10-08T05:47:31Z",
+    "url": "https://github.com/Shuffle-1992/dsh-context-pilot"
+  },
+  {
+    "description": "Local incident investigation agent: a LangGraph tool loop queries fixture logs and writes reports whose cited evidence m",
+    "id": "Luciano0322/incident-agent-runtime",
+    "language": "Python",
+    "name": "Luciano0322/incident-agent-runtime",
+    "stars": 0,
+    "updated_at": "2026-10-08T05:43:37Z",
+    "url": "https://github.com/Luciano0322/incident-agent-runtime"
   },
   {
     "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
@@ -45,15 +171,6 @@
     "url": "https://github.com/OtakuNathan/Pal"
   },
   {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 32872,
-    "updated_at": "2026-10-08T05:24:29Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
     "description": "A multi-agent research system for the humanities and social sciences.",
     "id": "Luciole-Studio/Misaka-Agent",
     "language": "Python",
@@ -61,15 +178,6 @@
     "stars": 142,
     "updated_at": "2026-10-08T05:24:26Z",
     "url": "https://github.com/Luciole-Studio/Misaka-Agent"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-10-08T05:23:43Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
@@ -95,7 +203,7 @@
     "language": "Dart",
     "name": "justacalico/devinorium",
     "stars": 0,
-    "updated_at": "2026-10-08T05:22:39Z",
+    "updated_at": "2026-10-08T05:50:26Z",
     "url": "https://github.com/justacalico/devinorium"
   },
   {
@@ -153,15 +261,6 @@
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
-    "description": "Voyager \u00d7 VLML \u00d7 \u732b\u5a18\u4f34\u5b66\uff1a\u628a\u300c\u5b66\u4e60\u8005\u300d\u6362\u6210 agent \u7684\u6700\u5c0f\u53ef\u6267\u884c\u539f\u578b\uff08\u9762\u677f\u5df2\u4e0a\u817e\u8baf\u4e91\uff09",
-    "id": "Zxy876/voyager-vlml-mve",
-    "language": "Python",
-    "name": "Zxy876/voyager-vlml-mve",
-    "stars": 0,
-    "updated_at": "2026-10-08T04:58:50Z",
-    "url": "https://github.com/Zxy876/voyager-vlml-mve"
-  },
-  {
     "description": "\u628a DeepSeek Harness \u7684\u4e0a\u4e0b\u6587\u538b\u7f29\u4ece\u300c\u6eda\u52a8\u91cd\u5199\u7684\u53d9\u4e8b\u6458\u8981\u300d\u6539\u6210\u300c\u53ea\u8ffd\u52a0\u7684\u4f1a\u8bdd\u7d22\u5f15\u300d\uff1b\u4e09\u6761\u5b9e\u6d4b\u7f3a\u9677\u5df2\u53d6\u8bc1\uff0c\u5f81\u96c6\u793e\u533a\u4fee\u590d\u3002",
     "id": "zongyanbai/dsh-context-continuum",
     "language": "TypeScript",
@@ -171,13 +270,13 @@
     "url": "https://github.com/zongyanbai/dsh-context-continuum"
   },
   {
-    "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
-    "id": "cheeezis/job_finder",
+    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
+    "id": "expectedparrot/edsl",
     "language": "Python",
-    "name": "cheeezis/job_finder",
-    "stars": 0,
-    "updated_at": "2026-10-08T05:16:35Z",
-    "url": "https://github.com/cheeezis/job_finder"
+    "name": "expectedparrot/edsl",
+    "stars": 503,
+    "updated_at": "2026-10-08T04:57:19Z",
+    "url": "https://github.com/expectedparrot/edsl"
   },
   {
     "description": " Where intent meets code \u2014 a local AI coding agent         ",
@@ -212,7 +311,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-08T05:30:05Z",
+    "updated_at": "2026-10-08T05:58:23Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -284,7 +383,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4443,
-    "updated_at": "2026-10-08T05:25:04Z",
+    "updated_at": "2026-10-08T05:54:20Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-08T04:34:20Z",
     "url": "https://github.com/zty522/partner"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-10-08T04:33:07Z",
-    "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
-    "id": "eshanized/M31A",
-    "language": "Rust",
-    "name": "eshanized/M31A",
-    "stars": 10,
-    "updated_at": "2026-10-08T04:32:02Z",
-    "url": "https://github.com/eshanized/M31A"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-10-08T04:30:15Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-10-08T04:30:00Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "An AI Agent for everyday SWE with minimalist style",
-    "id": "thehope2k/minimalist-agent",
-    "language": "TypeScript",
-    "name": "thehope2k/minimalist-agent",
-    "stars": 1,
-    "updated_at": "2026-10-08T04:29:33Z",
-    "url": "https://github.com/thehope2k/minimalist-agent"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 5,
-    "updated_at": "2026-10-08T04:28:17Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and ",
-    "id": "genieincodebottle/generative-ai",
-    "language": "Jupyter Notebook",
-    "name": "genieincodebottle/generative-ai",
-    "stars": 2643,
-    "updated_at": "2026-10-08T04:27:35Z",
-    "url": "https://github.com/genieincodebottle/generative-ai"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5818,
-    "updated_at": "2026-10-08T04:26:05Z",
-    "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-10-08T04:24:59Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
-    "id": "Danisxxx/comfyUI-LongLook",
-    "language": "Python",
-    "name": "Danisxxx/comfyUI-LongLook",
-    "stars": 2,
-    "updated_at": "2026-10-08T04:20:30Z",
-    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
-  },
-  {
-    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
-    "id": "axxafo/awesome-agent-benchmarks",
-    "language": "\u2014",
-    "name": "axxafo/awesome-agent-benchmarks",
-    "stars": 4,
-    "updated_at": "2026-10-08T04:19:33Z",
-    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
   }
 ]
