@@ -1,12 +1,57 @@
 [
   {
+    "description": "tmux for coding agents. Run AI coding agents side by side in tabs.",
+    "id": "mmoehabb/maestro",
+    "language": "Go",
+    "name": "mmoehabb/maestro",
+    "stars": 0,
+    "updated_at": "2026-10-08T10:59:54Z",
+    "url": "https://github.com/mmoehabb/maestro"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 28,
+    "updated_at": "2026-10-08T10:57:03Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
     "description": "\u628a\u5927\u6a21\u578b\u5f53\u53f8\u4ee4\u3001\u811a\u672c\u5f53\u624b\u7684 DSH Agent \u9884\u8bbe\uff1a\u5de5\u5177\u91cc\u96f6\u4e1a\u52a1\u5224\u65ad\uff0c\u8ba9\u6a21\u578b\u5728\u8fd0\u884c\u65f6\u81ea\u9002\u5e94\u52a8\u6001\u7ed3\u6784\u7684\u7f51\u7ad9",
     "id": "LeuJasYoh/dsh-xuexi",
     "language": "JavaScript",
     "name": "LeuJasYoh/dsh-xuexi",
     "stars": 0,
-    "updated_at": "2026-10-08T10:43:43Z",
+    "updated_at": "2026-10-08T10:52:16Z",
     "url": "https://github.com/LeuJasYoh/dsh-xuexi"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 21,
+    "updated_at": "2026-10-08T10:51:03Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
+    "id": "QQSHI13/fox-agent",
+    "language": "TypeScript",
+    "name": "QQSHI13/fox-agent",
+    "stars": 2,
+    "updated_at": "2026-10-08T10:50:41Z",
+    "url": "https://github.com/QQSHI13/fox-agent"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 32895,
+    "updated_at": "2026-10-08T10:48:59Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
     "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
@@ -27,21 +72,12 @@
     "url": "https://github.com/YixNuo/dsh-memory-hermes"
   },
   {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 21,
-    "updated_at": "2026-10-08T10:37:31Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
     "name": "helixml/helix",
     "stars": 816,
-    "updated_at": "2026-10-08T10:36:02Z",
+    "updated_at": "2026-10-08T10:53:37Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -122,17 +158,8 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3532,
-    "updated_at": "2026-10-08T10:24:24Z",
+    "updated_at": "2026-10-08T10:54:22Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
-    "id": "QQSHI13/fox-agent",
-    "language": "TypeScript",
-    "name": "QQSHI13/fox-agent",
-    "stars": 2,
-    "updated_at": "2026-10-08T10:21:21Z",
-    "url": "https://github.com/QQSHI13/fox-agent"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -220,7 +247,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 6135,
+    "stars": 6136,
     "updated_at": "2026-10-08T10:07:58Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -243,13 +270,13 @@
     "url": "https://github.com/Moxxkidd/foam"
   },
   {
-    "description": "Production-grade LangGraph multi-agent \u81ea\u4e60\u5ba4\u9884\u7ea6\u7cfb\u7edf\uff1a\u5de5\u5177\u5931\u8d25\u81ea\u6108\uff08\u5df2\u77e5\u5f02\u5e38 0 LLM \u8c03\u7528\u67e5\u8868\u4fee\u590d\uff09\u3001\u56db\u5c42 IDOR \u8d8a\u6743\u9632\u5fa1\u3001\u6267\u884c\u8f68\u8ff9\u5168\u7a0b\u53ef\u89c2\u6d4b\u300299 tests\u3002",
-    "id": "Jmiao11/langgraph-self-healing-agent",
+    "description": "A LangGraph-based airline workflow agent for flight search, booking operations, and policy Q&A. Features human-in-the-lo",
+    "id": "Jmiao11/airline-workflow-agent",
     "language": "Python",
-    "name": "Jmiao11/langgraph-self-healing-agent",
+    "name": "Jmiao11/airline-workflow-agent",
     "stars": 1,
     "updated_at": "2026-10-08T10:05:20Z",
-    "url": "https://github.com/Jmiao11/langgraph-self-healing-agent"
+    "url": "https://github.com/Jmiao11/airline-workflow-agent"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -277,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-10-08T09:48:05Z",
     "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 32894,
-    "updated_at": "2026-10-08T09:47:15Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
     "description": "Verify area values quickly with this web-based HTML calculator tool.",
@@ -338,7 +356,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 15,
-    "updated_at": "2026-10-08T09:43:52Z",
+    "updated_at": "2026-10-08T10:49:30Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-08T09:31:49Z",
     "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-10-08T09:31:20Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-10-08T09:29:47Z",
-    "url": "https://github.com/heba-ramdan/harness"
   }
 ]
