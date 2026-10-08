@@ -1,12 +1,111 @@
 [
   {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 20,
+    "updated_at": "2026-10-08T16:15:09Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Agent de triage web-s\u00e9curit\u00e9 (Claude Agent SDK) : heuristiques + classifieur entra\u00een\u00e9 (MLOps) pour la d\u00e9tection de phish",
+    "id": "TatianaT13/websec-triage-agent",
+    "language": "Python",
+    "name": "TatianaT13/websec-triage-agent",
+    "stars": 0,
+    "updated_at": "2026-10-08T16:13:19Z",
+    "url": "https://github.com/TatianaT13/websec-triage-agent"
+  },
+  {
+    "description": "Send Pi agents back to work when they stop before the job is done.",
+    "id": "alexshpunt/pi-agent-foreman",
+    "language": "TypeScript",
+    "name": "alexshpunt/pi-agent-foreman",
+    "stars": 2,
+    "updated_at": "2026-10-08T16:12:32Z",
+    "url": "https://github.com/alexshpunt/pi-agent-foreman"
+  },
+  {
+    "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
+    "id": "jack-h-park/pm-intelligence-engine",
+    "language": "Python",
+    "name": "jack-h-park/pm-intelligence-engine",
+    "stars": 0,
+    "updated_at": "2026-10-08T16:11:35Z",
+    "url": "https://github.com/jack-h-park/pm-intelligence-engine"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-10-08T16:11:23Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "An autonomous on-call agent that investigates and remediates incidents on the Incident Platform through its MCP tool sur",
+    "id": "kudratsingh/incident-commander",
+    "language": "Python",
+    "name": "kudratsingh/incident-commander",
+    "stars": 0,
+    "updated_at": "2026-10-08T16:11:25Z",
+    "url": "https://github.com/kudratsingh/incident-commander"
+  },
+  {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
     "id": "SuperdeMan/cockpit-agent",
     "language": "Python",
     "name": "SuperdeMan/cockpit-agent",
     "stars": 21,
-    "updated_at": "2026-10-08T15:58:05Z",
+    "updated_at": "2026-10-08T16:09:53Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "Single-user Hebrew/English personal assistant: Cloudflare Workers + SQLite Durable Object, Groq tool-calling agent where",
+    "id": "tzur669-lab/whatsapp-assistant",
+    "language": "TypeScript",
+    "name": "tzur669-lab/whatsapp-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-08T16:06:38Z",
+    "url": "https://github.com/tzur669-lab/whatsapp-assistant"
+  },
+  {
+    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
+    "id": "zty522/partner",
+    "language": "Python",
+    "name": "zty522/partner",
+    "stars": 5,
+    "updated_at": "2026-10-08T16:05:45Z",
+    "url": "https://github.com/zty522/partner"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-08T16:04:35Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-10-08T16:02:15Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 11,
+    "updated_at": "2026-10-08T16:02:29Z",
+    "url": "https://github.com/metric-space-ai/greppy"
   },
   {
     "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
@@ -43,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-10-08T15:50:52Z",
     "url": "https://github.com/analienx/remote-desktop-commander-agent-control"
-  },
-  {
-    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
-    "id": "zty522/partner",
-    "language": "Python",
-    "name": "zty522/partner",
-    "stars": 5,
-    "updated_at": "2026-10-08T15:50:32Z",
-    "url": "https://github.com/zty522/partner"
   },
   {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
@@ -169,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-08T15:05:02Z",
     "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 20,
-    "updated_at": "2026-10-08T15:35:35Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
@@ -329,7 +410,7 @@
     "language": "Rust",
     "name": "bigfish1913/pi-rust",
     "stars": 71,
-    "updated_at": "2026-10-08T14:47:23Z",
+    "updated_at": "2026-10-08T16:09:05Z",
     "url": "https://github.com/bigfish1913/pi-rust"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-08T14:45:10Z",
     "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-10-08T14:43:56Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "Open-source, self-hostable AppSec agent that finds, proves, and helps fix web/API vulnerabilities \u2014 evidence-first (inde",
-    "id": "NitinReddy-A/HackOps_Recon",
-    "language": "Python",
-    "name": "NitinReddy-A/HackOps_Recon",
-    "stars": 2,
-    "updated_at": "2026-10-08T14:42:40Z",
-    "url": "https://github.com/NitinReddy-A/HackOps_Recon"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3536,
-    "updated_at": "2026-10-08T15:35:33Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
-    "id": "muhzars/Agent.cpp",
-    "language": "C++",
-    "name": "muhzars/Agent.cpp",
-    "stars": 1,
-    "updated_at": "2026-10-08T14:40:47Z",
-    "url": "https://github.com/muhzars/Agent.cpp"
-  },
-  {
-    "description": "Coding agent that plans, changes, tests and reviews, and touches your files only when you approve. Windows, macOS, Linux",
-    "id": "huynvic/albertcode-swe-agent",
-    "language": "Shell",
-    "name": "huynvic/albertcode-swe-agent",
-    "stars": 0,
-    "updated_at": "2026-10-08T14:39:17Z",
-    "url": "https://github.com/huynvic/albertcode-swe-agent"
-  },
-  {
-    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
-    "id": "faheela-786/ComfyUI-qwenmultiangle",
-    "language": "\u2014",
-    "name": "faheela-786/ComfyUI-qwenmultiangle",
-    "stars": 2,
-    "updated_at": "2026-10-08T14:37:57Z",
-    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
-  },
-  {
-    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
-    "id": "amineeng/scraping-browser",
-    "language": "\u2014",
-    "name": "amineeng/scraping-browser",
-    "stars": 1,
-    "updated_at": "2026-10-08T14:36:15Z",
-    "url": "https://github.com/amineeng/scraping-browser"
-  },
-  {
-    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
-    "id": "Saran1536/ComfyUI-LoaderUtils",
-    "language": "Python",
-    "name": "Saran1536/ComfyUI-LoaderUtils",
-    "stars": 1,
-    "updated_at": "2026-10-08T14:33:34Z",
-    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
-  },
-  {
-    "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 280,
-    "updated_at": "2026-10-08T14:32:13Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
   }
 ]
