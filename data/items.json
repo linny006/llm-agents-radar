@@ -1,5 +1,23 @@
 [
   {
+    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
+    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "language": "JavaScript",
+    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "stars": 1,
+    "updated_at": "2026-10-08T02:56:54Z",
+    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-08T02:55:59Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
     "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
     "id": "plurnk/plurnk",
     "language": "TypeScript",
@@ -85,7 +103,7 @@
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
-    "stars": 3211,
+    "stars": 3212,
     "updated_at": "2026-10-08T02:45:16Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
@@ -97,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-10-08T02:44:14Z",
     "url": "https://github.com/GWNWRAL/alisonbot"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-08T02:41:50Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
@@ -140,7 +149,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-10-08T02:36:02Z",
+    "updated_at": "2026-10-08T02:59:49Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -176,7 +185,7 @@
     "language": "Python",
     "name": "ariannamethod/SUBLITERATUS",
     "stars": 4,
-    "updated_at": "2026-10-08T02:55:11Z",
+    "updated_at": "2026-10-08T03:00:11Z",
     "url": "https://github.com/ariannamethod/SUBLITERATUS"
   },
   {
@@ -194,7 +203,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-10-08T02:37:10Z",
+    "updated_at": "2026-10-08T02:59:59Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-08T01:31:55Z",
     "url": "https://github.com/b0nsu/CTF-Rat"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-10-08T01:30:59Z",
-    "url": "https://github.com/mriazi1982/octopai"
   }
 ]
