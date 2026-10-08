@@ -1,5 +1,176 @@
 [
   {
+    "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
+    "id": "bettersilvanus849/inner-coordinates",
+    "language": "Shell",
+    "name": "bettersilvanus849/inner-coordinates",
+    "stars": 1,
+    "updated_at": "2026-10-08T20:59:41Z",
+    "url": "https://github.com/bettersilvanus849/inner-coordinates"
+  },
+  {
+    "description": "Interactive Smith chart with an agentic AI tutor that teaches like a person and grades like an engineer",
+    "id": "sampreethsharma7/smith-chart-tutor",
+    "language": "TypeScript",
+    "name": "sampreethsharma7/smith-chart-tutor",
+    "stars": 0,
+    "updated_at": "2026-10-08T20:59:37Z",
+    "url": "https://github.com/sampreethsharma7/smith-chart-tutor"
+  },
+  {
+    "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
+    "id": "Blaz742/web-pentest-lab",
+    "language": "\u2014",
+    "name": "Blaz742/web-pentest-lab",
+    "stars": 0,
+    "updated_at": "2026-10-08T20:58:51Z",
+    "url": "https://github.com/Blaz742/web-pentest-lab"
+  },
+  {
+    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
+    "id": "Elevated-homer201/prompt-gate",
+    "language": "\u2014",
+    "name": "Elevated-homer201/prompt-gate",
+    "stars": 1,
+    "updated_at": "2026-10-08T20:58:32Z",
+    "url": "https://github.com/Elevated-homer201/prompt-gate"
+  },
+  {
+    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
+    "id": "Indrasclerotinia71/local-ai-research-assistant",
+    "language": "Python",
+    "name": "Indrasclerotinia71/local-ai-research-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-08T20:57:28Z",
+    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
+  },
+  {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 12,
+    "updated_at": "2026-10-08T20:56:23Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
+    "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
+    "language": "Python",
+    "name": "Furrowed-subphylumurochorda108/kimi-K2.6",
+    "stars": 3,
+    "updated_at": "2026-10-08T20:56:15Z",
+    "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
+  },
+  {
+    "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
+    "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
+    "language": "\u2014",
+    "name": "mpardakaskon-boop/obsidian-llm-wiki-local",
+    "stars": 1,
+    "updated_at": "2026-10-08T20:55:47Z",
+    "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-08T20:54:46Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
+    "id": "HELLOCODINGTR/AgentForge",
+    "language": "\u2014",
+    "name": "HELLOCODINGTR/AgentForge",
+    "stars": 1,
+    "updated_at": "2026-10-08T20:52:15Z",
+    "url": "https://github.com/HELLOCODINGTR/AgentForge"
+  },
+  {
+    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
+    "id": "strobilevitellus470/argus-ai",
+    "language": "Python",
+    "name": "strobilevitellus470/argus-ai",
+    "stars": 1,
+    "updated_at": "2026-10-08T20:51:31Z",
+    "url": "https://github.com/strobilevitellus470/argus-ai"
+  },
+  {
+    "description": "Qwen3-8B \u533b\u5b66\u7814\u7a76\u667a\u80fd\u4f53\uff1a\u771f\u5b9e\u5de5\u5177\u68c0\u7d22\u3001QLoRA SFT\u3001\u5206\u9636\u6bb5\u7a20\u5bc6\u5956\u52b1\u4e0e GRPO \u98ce\u683c LoRA \u540e\u8bad\u7ec3\uff0c\u9762\u5411\u672c\u5730\u90e8\u7f72\u3002",
+    "id": "MaSunKing/medical-research-agent-grpo",
+    "language": "Python",
+    "name": "MaSunKing/medical-research-agent-grpo",
+    "stars": 1,
+    "updated_at": "2026-10-08T20:50:05Z",
+    "url": "https://github.com/MaSunKing/medical-research-agent-grpo"
+  },
+  {
+    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
+    "id": "juandavidru4641/dsplab",
+    "language": "JavaScript",
+    "name": "juandavidru4641/dsplab",
+    "stars": 0,
+    "updated_at": "2026-10-08T20:49:08Z",
+    "url": "https://github.com/juandavidru4641/dsplab"
+  },
+  {
+    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
+    "id": "laoxs2002/genai-agentes",
+    "language": "Jupyter Notebook",
+    "name": "laoxs2002/genai-agentes",
+    "stars": 0,
+    "updated_at": "2026-10-08T20:48:45Z",
+    "url": "https://github.com/laoxs2002/genai-agentes"
+  },
+  {
+    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
+    "id": "heba-ramdan/harness",
+    "language": "TypeScript",
+    "name": "heba-ramdan/harness",
+    "stars": 1,
+    "updated_at": "2026-10-08T20:47:17Z",
+    "url": "https://github.com/heba-ramdan/harness"
+  },
+  {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 4,
+    "updated_at": "2026-10-08T20:47:11Z",
+    "url": "https://github.com/plurnk/plurnk"
+  },
+  {
+    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
+    "id": "Ronit0p/AutoGod",
+    "language": "Java",
+    "name": "Ronit0p/AutoGod",
+    "stars": 0,
+    "updated_at": "2026-10-08T20:46:52Z",
+    "url": "https://github.com/Ronit0p/AutoGod"
+  },
+  {
+    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
+    "id": "eshanized/M31A",
+    "language": "Rust",
+    "name": "eshanized/M31A",
+    "stars": 10,
+    "updated_at": "2026-10-08T20:46:18Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
+    "id": "lukky262/ARE",
+    "language": "\u2014",
+    "name": "lukky262/ARE",
+    "stars": 1,
+    "updated_at": "2026-10-08T20:45:43Z",
+    "url": "https://github.com/lukky262/ARE"
+  },
+  {
     "description": "",
     "id": "hichamnes-prog/exforum-auto-poster",
     "language": "Python",
@@ -104,7 +275,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-08T20:25:55Z",
+    "updated_at": "2026-10-08T20:47:16Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -171,15 +342,6 @@
     "url": "https://github.com/bigduu/Zenith"
   },
   {
-    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
-    "id": "eshanized/M31A",
-    "language": "Rust",
-    "name": "eshanized/M31A",
-    "stars": 10,
-    "updated_at": "2026-10-08T20:05:33Z",
-    "url": "https://github.com/eshanized/M31A"
-  },
-  {
     "description": "Local AI cycling coach built on Claude: reads Intervals.icu, WHOOP and weather, keeps a training plan, gives a morning b",
     "id": "jehrr/home-trainer",
     "language": "Python",
@@ -212,7 +374,7 @@
     "language": "Rust",
     "name": "yologdev/yoagent",
     "stars": 341,
-    "updated_at": "2026-10-08T20:07:58Z",
+    "updated_at": "2026-10-08T20:56:54Z",
     "url": "https://github.com/yologdev/yoagent"
   },
   {
@@ -239,17 +401,8 @@
     "language": "JavaScript",
     "name": "moyshik7/marnie",
     "stars": 1,
-    "updated_at": "2026-10-08T19:36:18Z",
+    "updated_at": "2026-10-08T20:55:49Z",
     "url": "https://github.com/moyshik7/marnie"
-  },
-  {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
-    "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 12,
-    "updated_at": "2026-10-08T19:16:35Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
   },
   {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
@@ -295,158 +448,5 @@
     "stars": 28,
     "updated_at": "2026-10-08T18:59:38Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-10-08T19:00:27Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 79,
-    "updated_at": "2026-10-08T18:54:04Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Identity-Driven Autonomous Local Agent",
-    "id": "Zahnschmelz/vishva",
-    "language": "Python",
-    "name": "Zahnschmelz/vishva",
-    "stars": 0,
-    "updated_at": "2026-10-08T18:45:26Z",
-    "url": "https://github.com/Zahnschmelz/vishva"
-  },
-  {
-    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
-    "id": "Torvian-eu/chatbot",
-    "language": "Kotlin",
-    "name": "Torvian-eu/chatbot",
-    "stars": 4,
-    "updated_at": "2026-10-08T18:41:45Z",
-    "url": "https://github.com/Torvian-eu/chatbot"
-  },
-  {
-    "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
-    "id": "edjafarov/kiagent-core",
-    "language": "TypeScript",
-    "name": "edjafarov/kiagent-core",
-    "stars": 7,
-    "updated_at": "2026-10-08T18:35:48Z",
-    "url": "https://github.com/edjafarov/kiagent-core"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 816,
-    "updated_at": "2026-10-08T18:31:59Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "tmux for coding agents. Run AI coding agents side by side in tabs.",
-    "id": "mmoehabb/maestro",
-    "language": "Go",
-    "name": "mmoehabb/maestro",
-    "stars": 0,
-    "updated_at": "2026-10-08T18:29:41Z",
-    "url": "https://github.com/mmoehabb/maestro"
-  },
-  {
-    "description": "Small Japanese conversational GPT built from scratch in PyTorch",
-    "id": "keito118/lilas-llm-from-scratch",
-    "language": "Python",
-    "name": "keito118/lilas-llm-from-scratch",
-    "stars": 0,
-    "updated_at": "2026-10-08T18:29:01Z",
-    "url": "https://github.com/keito118/lilas-llm-from-scratch"
-  },
-  {
-    "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
-    "id": "roxm337/osint-agent",
-    "language": "Python",
-    "name": "roxm337/osint-agent",
-    "stars": 0,
-    "updated_at": "2026-10-08T18:28:43Z",
-    "url": "https://github.com/roxm337/osint-agent"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-08T18:09:55Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "AI-assisted photo development for Lightroom Classic \u2014 analyzes your photo with a vision model and applies real, non-dest",
-    "id": "sesterzo/VenzAI",
-    "language": "Lua",
-    "name": "sesterzo/VenzAI",
-    "stars": 1,
-    "updated_at": "2026-10-08T18:08:31Z",
-    "url": "https://github.com/sesterzo/VenzAI"
-  },
-  {
-    "description": "Autonomous personal agent: talks, acts, never gives up. Multi-model, multi-user, self-improving",
-    "id": "franckolv-dev/ELY2",
-    "language": "Python",
-    "name": "franckolv-dev/ELY2",
-    "stars": 1,
-    "updated_at": "2026-10-08T18:07:07Z",
-    "url": "https://github.com/franckolv-dev/ELY2"
-  },
-  {
-    "description": "LangGraph tool-calling agent for ACCESS-CI user support: documentation retrieval plus live infrastructure tools, with a ",
-    "id": "connectci-platform/access-agent",
-    "language": "Python",
-    "name": "connectci-platform/access-agent",
-    "stars": 0,
-    "updated_at": "2026-10-08T18:06:58Z",
-    "url": "https://github.com/connectci-platform/access-agent"
-  },
-  {
-    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
-    "id": "xieguigang/sciBASIC",
-    "language": "Visual Basic .NET",
-    "name": "xieguigang/sciBASIC",
-    "stars": 78,
-    "updated_at": "2026-10-08T18:03:21Z",
-    "url": "https://github.com/xieguigang/sciBASIC"
-  },
-  {
-    "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
-    "id": "rugose-learnedprofession58/pi-dsh",
-    "language": "TypeScript",
-    "name": "rugose-learnedprofession58/pi-dsh",
-    "stars": 0,
-    "updated_at": "2026-10-08T17:51:04Z",
-    "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
-  },
-  {
-    "description": "Verify area values quickly with this web-based HTML calculator tool.",
-    "id": "passive-hotpepper515/area-checker-html-tool",
-    "language": "HTML",
-    "name": "passive-hotpepper515/area-checker-html-tool",
-    "stars": 0,
-    "updated_at": "2026-10-08T17:48:39Z",
-    "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
-  },
-  {
-    "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
-    "id": "Blondieredistributed612/pocket-agent",
-    "language": "Python",
-    "name": "Blondieredistributed612/pocket-agent",
-    "stars": 2,
-    "updated_at": "2026-10-08T17:47:29Z",
-    "url": "https://github.com/Blondieredistributed612/pocket-agent"
   }
 ]
