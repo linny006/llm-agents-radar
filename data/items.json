@@ -1,5 +1,77 @@
 [
   {
+    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
+    "id": "zty522/partner",
+    "language": "Python",
+    "name": "zty522/partner",
+    "stars": 5,
+    "updated_at": "2026-10-09T04:14:08Z",
+    "url": "https://github.com/zty522/partner"
+  },
+  {
+    "description": "\u9762\u5411\u5217\u8f66\u7f51\u7edc\u63a7\u5236\u7cfb\u7edf\uff08TCMS/CAN\uff09\u7684\u6d4b\u8bd5\u5e73\u53f0 + \u4f1a\u81ea\u5df1\u8dd1\u6d4b\u8bd5\u7684 AI Agent\uff1a\u5e95\u5ea7\u662f 960 \u6761 CAN \u62a5\u6587\u7528\u4f8b\uff0897.96% \u8986\u76d6\uff09\u3001203 \u6761 FMEA\u3001104 \u4e2a\u53ef\u6267\u884c\u573a\u666f\uff1bAgent \u67e5\u77e5\u8bc6\u5e93\u3001\u9020\u7528\u4f8b\u3001\u5728\u672c\u673a\u771f\u8dd1\uff0c\u7ed3\u8bba",
+    "id": "zych2002918/tcms-agent",
+    "language": "Python",
+    "name": "zych2002918/tcms-agent",
+    "stars": 0,
+    "updated_at": "2026-10-09T04:13:42Z",
+    "url": "https://github.com/zych2002918/tcms-agent"
+  },
+  {
+    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
+    "id": "hsaghir/looplet",
+    "language": "Python",
+    "name": "hsaghir/looplet",
+    "stars": 7,
+    "updated_at": "2026-10-09T04:10:56Z",
+    "url": "https://github.com/hsaghir/looplet"
+  },
+  {
+    "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
+    "id": "rugose-learnedprofession58/pi-dsh",
+    "language": "TypeScript",
+    "name": "rugose-learnedprofession58/pi-dsh",
+    "stars": 0,
+    "updated_at": "2026-10-09T04:04:12Z",
+    "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
+  },
+  {
+    "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
+    "id": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
+    "language": "JavaScript",
+    "name": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
+    "stars": 2,
+    "updated_at": "2026-10-09T04:03:25Z",
+    "url": "https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder"
+  },
+  {
+    "description": "Verify area values quickly with this web-based HTML calculator tool.",
+    "id": "passive-hotpepper515/area-checker-html-tool",
+    "language": "HTML",
+    "name": "passive-hotpepper515/area-checker-html-tool",
+    "stars": 0,
+    "updated_at": "2026-10-09T04:03:04Z",
+    "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
+  },
+  {
+    "description": "Deterministic orchestration, execution assurance, and quota-aware continuity runtime for GLM coding agents in ZCode",
+    "id": "Chengy257/glm-conductor",
+    "language": "Python",
+    "name": "Chengy257/glm-conductor",
+    "stars": 0,
+    "updated_at": "2026-10-09T04:02:25Z",
+    "url": "https://github.com/Chengy257/glm-conductor"
+  },
+  {
+    "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
+    "id": "Blondieredistributed612/pocket-agent",
+    "language": "Python",
+    "name": "Blondieredistributed612/pocket-agent",
+    "stars": 3,
+    "updated_at": "2026-10-09T04:01:43Z",
+    "url": "https://github.com/Blondieredistributed612/pocket-agent"
+  },
+  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
@@ -180,15 +252,6 @@
     "url": "https://github.com/lukky262/ARE"
   },
   {
-    "description": "\u9762\u5411\u5217\u8f66\u7f51\u7edc\u63a7\u5236\u7cfb\u7edf\uff08TCMS/CAN\uff09\u7684\u6d4b\u8bd5\u5e73\u53f0 + \u4f1a\u81ea\u5df1\u8dd1\u6d4b\u8bd5\u7684 AI Agent\uff1a\u5e95\u5ea7\u662f 960 \u6761 CAN \u62a5\u6587\u7528\u4f8b\uff0897.96% \u8986\u76d6\uff09\u3001203 \u6761 FMEA\u3001104 \u4e2a\u53ef\u6267\u884c\u573a\u666f\uff1bAgent \u67e5\u77e5\u8bc6\u5e93\u3001\u9020\u7528\u4f8b\u3001\u5728\u672c\u673a\u771f\u8dd1\uff0c\u7ed3\u8bba",
-    "id": "zych2002918/tcms-agent",
-    "language": "Python",
-    "name": "zych2002918/tcms-agent",
-    "stars": 0,
-    "updated_at": "2026-10-09T03:45:27Z",
-    "url": "https://github.com/zych2002918/tcms-agent"
-  },
-  {
     "description": "",
     "id": "hichamnes-prog/exforum-auto-poster",
     "language": "Python",
@@ -221,7 +284,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 23,
-    "updated_at": "2026-10-09T03:39:08Z",
+    "updated_at": "2026-10-09T04:09:23Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 10,
     "updated_at": "2026-10-09T02:59:13Z",
     "url": "https://github.com/eshanized/M31A"
-  },
-  {
-    "description": "Tauri desktop shell for the local-first Bodhi agent: manages Bamboo startup/reuse and health; packaged builds open the B",
-    "id": "bigduu/Bodhi-AI",
-    "language": "JavaScript",
-    "name": "bigduu/Bodhi-AI",
-    "stars": 17,
-    "updated_at": "2026-10-09T02:54:28Z",
-    "url": "https://github.com/bigduu/Bodhi-AI"
-  },
-  {
-    "description": "\u57fa\u4e8e LangGraph \u7684 MES \u4e1a\u52a1\u5206\u6790 Agent\uff5c1 \u79d2\u54cd\u5e94 + MES \u5b9e\u65f6\u96c6\u6210 + \u5b8c\u6574\u5de5\u7a0b\u5316",
-    "id": "Wang-qi-git/langgraph-mes-business-agent",
-    "language": "Python",
-    "name": "Wang-qi-git/langgraph-mes-business-agent",
-    "stars": 0,
-    "updated_at": "2026-10-09T02:53:56Z",
-    "url": "https://github.com/Wang-qi-git/langgraph-mes-business-agent"
-  },
-  {
-    "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
-    "id": "chunleik/self-analyst",
-    "language": "Java",
-    "name": "chunleik/self-analyst",
-    "stars": 0,
-    "updated_at": "2026-10-09T02:48:17Z",
-    "url": "https://github.com/chunleik/self-analyst"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 130,
-    "updated_at": "2026-10-09T02:46:39Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
-    "id": "zty522/partner",
-    "language": "Python",
-    "name": "zty522/partner",
-    "stars": 5,
-    "updated_at": "2026-10-09T02:45:13Z",
-    "url": "https://github.com/zty522/partner"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5820,
-    "updated_at": "2026-10-09T03:28:21Z",
-    "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 1122,
-    "updated_at": "2026-10-09T02:21:55Z",
-    "url": "https://github.com/ongridio/ongrid"
   }
 ]
