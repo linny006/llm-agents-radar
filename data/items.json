@@ -1,11 +1,20 @@
 [
   {
+    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
+    "id": "expectedparrot/edsl",
+    "language": "Python",
+    "name": "expectedparrot/edsl",
+    "stars": 503,
+    "updated_at": "2026-10-09T18:29:56Z",
+    "url": "https://github.com/expectedparrot/edsl"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 8749,
-    "updated_at": "2026-10-09T18:13:33Z",
+    "updated_at": "2026-10-09T18:26:42Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -14,8 +23,62 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 764,
-    "updated_at": "2026-10-09T18:12:45Z",
+    "updated_at": "2026-10-09T18:30:15Z",
     "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
+    "id": "SugarMGP/MumuBot",
+    "language": "Go",
+    "name": "SugarMGP/MumuBot",
+    "stars": 25,
+    "updated_at": "2026-10-09T18:25:33Z",
+    "url": "https://github.com/SugarMGP/MumuBot"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u3001\u53ef\u56de\u6eaf\u7684 Agent \u65f6\u95f4\u5206\u5c42\u8bb0\u5fc6\u7cfb\u7edf\uff5c\u7eaf Python \u6807\u51c6\u5e93\uff5c196 \u9879\u6d4b\u8bd5 + 13 \u6761\u5ba1\u8ba1\u547d\u4ee4",
+    "id": "sins-gif/moonshadow",
+    "language": "Python",
+    "name": "sins-gif/moonshadow",
+    "stars": 0,
+    "updated_at": "2026-10-09T18:24:45Z",
+    "url": "https://github.com/sins-gif/moonshadow"
+  },
+  {
+    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
+    "id": "eshanized/M31A",
+    "language": "Rust",
+    "name": "eshanized/M31A",
+    "stars": 10,
+    "updated_at": "2026-10-09T18:21:48Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
+    "id": "zty522/partner",
+    "language": "Python",
+    "name": "zty522/partner",
+    "stars": 5,
+    "updated_at": "2026-10-09T18:20:59Z",
+    "url": "https://github.com/zty522/partner"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 20,
+    "updated_at": "2026-10-09T18:23:39Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "The LLM Anti-Framework",
+    "id": "Mirascope/mirascope",
+    "language": "Python",
+    "name": "Mirascope/mirascope",
+    "stars": 1531,
+    "updated_at": "2026-10-09T18:16:56Z",
+    "url": "https://github.com/Mirascope/mirascope"
   },
   {
     "description": "Bodhi \u2014 a local-first AI agent workbench in Rust: desktop app, Bamboo runtime, Jiandu shared memory, Nova computer use a",
@@ -23,7 +86,7 @@
     "language": "JavaScript",
     "name": "bigduu/Zenith",
     "stars": 6,
-    "updated_at": "2026-10-09T18:12:31Z",
+    "updated_at": "2026-10-09T18:21:38Z",
     "url": "https://github.com/bigduu/Zenith"
   },
   {
@@ -41,7 +104,7 @@
     "language": "Python",
     "name": "cafferychen777/ChatSpatial",
     "stars": 44,
-    "updated_at": "2026-10-09T18:10:28Z",
+    "updated_at": "2026-10-09T18:19:17Z",
     "url": "https://github.com/cafferychen777/ChatSpatial"
   },
   {
@@ -50,7 +113,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-09T18:08:19Z",
+    "updated_at": "2026-10-09T18:29:50Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -97,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T17:48:13Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 20,
-    "updated_at": "2026-10-09T17:49:31Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "\ud83d\udc27 is currently a work in progress... Stay tuned! ",
@@ -171,15 +225,6 @@
     "url": "https://github.com/b-macker/NAAb"
   },
   {
-    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
-    "id": "zty522/partner",
-    "language": "Python",
-    "name": "zty522/partner",
-    "stars": 5,
-    "updated_at": "2026-10-09T17:07:19Z",
-    "url": "https://github.com/zty522/partner"
-  },
-  {
     "description": "Open-source enterprise AI agent: LLM tool-calling engine, permissions, RAG and a Python analytics engine, with a working",
     "id": "Zeetech-soft-solution/erp-ai-agent",
     "language": "TypeScript",
@@ -194,17 +239,8 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-10-09T18:03:51Z",
+    "updated_at": "2026-10-09T18:19:32Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "\u672c\u5730\u4f18\u5148\u3001\u53ef\u56de\u6eaf\u7684 Agent \u65f6\u95f4\u5206\u5c42\u8bb0\u5fc6\u7cfb\u7edf\uff5c\u7eaf Python \u6807\u51c6\u5e93\uff5c196 \u9879\u6d4b\u8bd5 + 13 \u6761\u5ba1\u8ba1\u547d\u4ee4",
-    "id": "sins-gif/moonshadow",
-    "language": "Python",
-    "name": "sins-gif/moonshadow",
-    "stars": 0,
-    "updated_at": "2026-10-09T16:59:49Z",
-    "url": "https://github.com/sins-gif/moonshadow"
   },
   {
     "description": "\u9879\u76ee\u4e2d\u5fc3\u667a\u80fd. BaijiMind. DolphinMind. Open\u2011source runOpen\u2011source runtime for Domain\u2011Separated Controlled Self\u2011Boot Agent Archi",
@@ -400,7 +436,7 @@
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
-    "stars": 3246,
+    "stars": 3247,
     "updated_at": "2026-10-09T15:52:56Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-09T15:47:19Z",
     "url": "https://github.com/plurnk/plurnk"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-10-09T15:44:14Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
-    "id": "edjafarov/kiagent-core",
-    "language": "TypeScript",
-    "name": "edjafarov/kiagent-core",
-    "stars": 7,
-    "updated_at": "2026-10-09T15:44:04Z",
-    "url": "https://github.com/edjafarov/kiagent-core"
-  },
-  {
-    "description": "Python SDK for durable AI agents: survive crashes, pause for human approval at no cost, scale from a script to a multi-h",
-    "id": "initxy/noeta",
-    "language": "Python",
-    "name": "initxy/noeta",
-    "stars": 10,
-    "updated_at": "2026-10-09T15:40:18Z",
-    "url": "https://github.com/initxy/noeta"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-09T15:37:34Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   }
 ]
