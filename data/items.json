@@ -1,5 +1,86 @@
 [
   {
+    "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
+    "id": "SugarMGP/MumuBot",
+    "language": "Go",
+    "name": "SugarMGP/MumuBot",
+    "stars": 25,
+    "updated_at": "2026-10-09T11:44:05Z",
+    "url": "https://github.com/SugarMGP/MumuBot"
+  },
+  {
+    "description": "A local, citation-backed knowledge assistant for searching and tracking information across WeChat conversations.",
+    "id": "Fongkai777/wechat-agent",
+    "language": "Python",
+    "name": "Fongkai777/wechat-agent",
+    "stars": 0,
+    "updated_at": "2026-10-09T11:42:50Z",
+    "url": "https://github.com/Fongkai777/wechat-agent"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 22,
+    "updated_at": "2026-10-09T11:42:46Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-09T11:42:12Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
+    "id": "QQSHI13/fox-agent",
+    "language": "TypeScript",
+    "name": "QQSHI13/fox-agent",
+    "stars": 2,
+    "updated_at": "2026-10-09T11:42:01Z",
+    "url": "https://github.com/QQSHI13/fox-agent"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 765,
+    "updated_at": "2026-10-09T11:36:39Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 343,
+    "updated_at": "2026-10-09T11:42:35Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
+    "description": "Conversational terminal assistant for tasks, calendar events and reminders - understands free-text Swedish and English.",
+    "id": "Lullow/personal-life-agent",
+    "language": "Python",
+    "name": "Lullow/personal-life-agent",
+    "stars": 0,
+    "updated_at": "2026-10-09T11:30:59Z",
+    "url": "https://github.com/Lullow/personal-life-agent"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-09T11:30:51Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
     "description": "Give your Hana agent a mouth (v2 app): three-stage narration written by a model on the fly (opening / progress / closing",
     "id": "givfei5-hash/openhanako-voiceloop-app",
     "language": "JavaScript",
@@ -34,15 +115,6 @@
     "stars": 24,
     "updated_at": "2026-10-09T11:21:18Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 22,
-    "updated_at": "2026-10-09T11:20:43Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
     "description": "A gaming-community user-insights agent: publicly observable behavioral traces -> five-dim features -> activity/migration",
@@ -81,15 +153,6 @@
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-09T10:58:31Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "\u9002\u7528\u4e8e Claude Code \u548c Codex \u7684\u6c42\u804c Skill\uff1a\u67e5\u627e\u5c97\u4f4d\u3001\u5224\u65ad\u662f\u5426\u503c\u5f97\u6295\u9012\u3001\u5236\u4f5c\u7b80\u5386\u4e0e\u7533\u8bf7\u6750\u6599\u3001\u68c0\u9a8c\u7533\u8bf7\u6750\u6599\u5e76\u6a21\u62df\u9762\u8bd5\u3002\u4e0d\u7f16\u9020\u6280\u80fd\u6216\u4e1a\u7ee9\u6570\u5b57\uff0c\u4e0d\u9884\u6d4b\u5f55\u7528\u6982\u7387\uff1b\u68c0\u67e5\u7b80\u5386\u662f\u5426\u4fbf\u4e8e\u62db\u8058\u7ba1\u7406\u7cfb\u7edf\uff08ATS\uff09\u8bfb\u53d6\uff0c\u5e76\u4ece\u62db\u8058\u4eba\u5458\u548c\u7528\u4eba",
     "id": "addsumtech/job-hunt",
     "language": "Python",
@@ -117,15 +180,6 @@
     "url": "https://github.com/Shuffle-1992/dsh-context-pilot"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-09T10:41:15Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
     "id": "ximing/vital",
     "language": "TypeScript",
@@ -148,7 +202,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 1129,
+    "stars": 1130,
     "updated_at": "2026-10-09T10:29:08Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -184,18 +238,9 @@
     "id": "ant-research/AntOmniEvo",
     "language": "Python",
     "name": "ant-research/AntOmniEvo",
-    "stars": 1095,
+    "stars": 1096,
     "updated_at": "2026-10-09T10:23:04Z",
     "url": "https://github.com/ant-research/AntOmniEvo"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 343,
-    "updated_at": "2026-10-09T11:27:19Z",
-    "url": "https://github.com/yologdev/yoagent"
   },
   {
     "description": "A\u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\uff1a\u80a1\u7968\u5206\u6790\u3001\u91cf\u5316\u4ea4\u6613\u5206\u6790\u3001\u76d8\u540e\u590d\u76d8\u684c\u9762\u5de5\u4f5c\u53f0\u2014\u2014easy stock",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-09T09:20:08Z",
     "url": "https://github.com/kalpak44/deepaudit"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-10-09T09:19:46Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
-    "id": "Samuelcluttered613/paper2code",
-    "language": "Python",
-    "name": "Samuelcluttered613/paper2code",
-    "stars": 1,
-    "updated_at": "2026-10-09T09:18:25Z",
-    "url": "https://github.com/Samuelcluttered613/paper2code"
-  },
-  {
-    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
-    "id": "Bastioned-successor320/learn-nanobot",
-    "language": "Python",
-    "name": "Bastioned-successor320/learn-nanobot",
-    "stars": 12,
-    "updated_at": "2026-10-09T09:18:09Z",
-    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
-  },
-  {
-    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
-    "id": "tessellated-statisticalcommission243/deep-research-skill",
-    "language": "\u2014",
-    "name": "tessellated-statisticalcommission243/deep-research-skill",
-    "stars": 3,
-    "updated_at": "2026-10-09T09:17:57Z",
-    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
-    "id": "chadwickhyperboloidal943/knowl",
-    "language": "TypeScript",
-    "name": "chadwickhyperboloidal943/knowl",
-    "stars": 0,
-    "updated_at": "2026-10-09T09:14:16Z",
-    "url": "https://github.com/chadwickhyperboloidal943/knowl"
   }
 ]
