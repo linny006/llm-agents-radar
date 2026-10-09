@@ -1,5 +1,59 @@
 [
   {
+    "description": "Scoped, tool-using DeepSeek audit agent that turns authorized HTTP/TLS checks into reproducible evidence",
+    "id": "kalpak44/deepaudit",
+    "language": "Python",
+    "name": "kalpak44/deepaudit",
+    "stars": 0,
+    "updated_at": "2026-10-09T12:12:25Z",
+    "url": "https://github.com/kalpak44/deepaudit"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 816,
+    "updated_at": "2026-10-09T12:09:51Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "\u7535\u5546\u552e\u540e\u5ba2\u670d Agent\uff1aTool Calling + Policy Guard + \u4eba\u5de5\u5ba1\u6279 + \u5e42\u7b49\u6267\u884c + \u53ef\u9a8c\u8bc1\u8bc4\u6d4b",
+    "id": "sjhesjaj/GroundedAgent",
+    "language": "Python",
+    "name": "sjhesjaj/GroundedAgent",
+    "stars": 0,
+    "updated_at": "2026-10-09T12:09:47Z",
+    "url": "https://github.com/sjhesjaj/GroundedAgent"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 765,
+    "updated_at": "2026-10-09T12:09:50Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "A local, citation-backed knowledge assistant for searching and tracking information across WeChat conversations.",
+    "id": "Fongkai777/wechat-agent",
+    "language": "Python",
+    "name": "Fongkai777/wechat-agent",
+    "stars": 0,
+    "updated_at": "2026-10-09T12:02:13Z",
+    "url": "https://github.com/Fongkai777/wechat-agent"
+  },
+  {
+    "description": "A bank credit is a bundle of orders, so \"unbundle\" it. Ties each credit back to the orders behind it and says honestly w",
+    "id": "tech-philomath-anjana/unbundle",
+    "language": "HTML",
+    "name": "tech-philomath-anjana/unbundle",
+    "stars": 0,
+    "updated_at": "2026-10-09T12:01:02Z",
+    "url": "https://github.com/tech-philomath-anjana/unbundle"
+  },
+  {
     "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
     "id": "kyleslight/shun",
     "language": "TypeScript",
@@ -16,15 +70,6 @@
     "stars": 4113,
     "updated_at": "2026-10-09T12:00:05Z",
     "url": "https://github.com/langroid/langroid"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 816,
-    "updated_at": "2026-10-09T11:55:10Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "Give your Hana agent a mouth (v2 app): three-stage narration written by a model on the fly (opening / progress / closing",
@@ -50,7 +95,7 @@
     "language": "Rust",
     "name": "yologdev/yoagent",
     "stars": 343,
-    "updated_at": "2026-10-09T11:59:59Z",
+    "updated_at": "2026-10-09T12:15:17Z",
     "url": "https://github.com/yologdev/yoagent"
   },
   {
@@ -59,7 +104,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-09T11:50:58Z",
+    "updated_at": "2026-10-09T12:05:27Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -70,15 +115,6 @@
     "stars": 25,
     "updated_at": "2026-10-09T11:44:05Z",
     "url": "https://github.com/SugarMGP/MumuBot"
-  },
-  {
-    "description": "A local, citation-backed knowledge assistant for searching and tracking information across WeChat conversations.",
-    "id": "Fongkai777/wechat-agent",
-    "language": "Python",
-    "name": "Fongkai777/wechat-agent",
-    "stars": 0,
-    "updated_at": "2026-10-09T11:42:50Z",
-    "url": "https://github.com/Fongkai777/wechat-agent"
   },
   {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
@@ -108,15 +144,6 @@
     "url": "https://github.com/QQSHI13/fox-agent"
   },
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 765,
-    "updated_at": "2026-10-09T11:59:26Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
     "description": "Conversational terminal assistant for tasks, calendar events and reminders - understands free-text Swedish and English.",
     "id": "Lullow/personal-life-agent",
     "language": "Python",
@@ -135,15 +162,6 @@
     "url": "https://github.com/plurnk/plurnk-service"
   },
   {
-    "description": "\u7535\u5546\u552e\u540e\u5ba2\u670d Agent\uff1aTool Calling + Policy Guard + \u4eba\u5de5\u5ba1\u6279 + \u5e42\u7b49\u6267\u884c + \u53ef\u9a8c\u8bc1\u8bc4\u6d4b",
-    "id": "sjhesjaj/GroundedAgent",
-    "language": "Python",
-    "name": "sjhesjaj/GroundedAgent",
-    "stars": 0,
-    "updated_at": "2026-10-09T11:55:33Z",
-    "url": "https://github.com/sjhesjaj/GroundedAgent"
-  },
-  {
     "description": "Open-source, self-hostable AppSec agent that finds, proves, and helps fix web/API vulnerabilities \u2014 evidence-first (inde",
     "id": "NitinReddy-A/Rampart",
     "language": "Python",
@@ -158,7 +176,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 24,
-    "updated_at": "2026-10-09T11:57:35Z",
+    "updated_at": "2026-10-09T12:02:35Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-09T09:26:10Z",
     "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 11,
-    "updated_at": "2026-10-09T09:26:11Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Automate file management and coding tasks in your local directory using small language models.",
-    "id": "pruthviraj00007/VibeHarness",
-    "language": "Python",
-    "name": "pruthviraj00007/VibeHarness",
-    "stars": 0,
-    "updated_at": "2026-10-09T09:23:27Z",
-    "url": "https://github.com/pruthviraj00007/VibeHarness"
   }
 ]
