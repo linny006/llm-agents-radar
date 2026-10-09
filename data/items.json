@@ -1,11 +1,101 @@
 [
   {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-10-09T17:00:09Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u3001\u53ef\u56de\u6eaf\u7684 Agent \u65f6\u95f4\u5206\u5c42\u8bb0\u5fc6\u7cfb\u7edf\uff5c\u7eaf Python \u6807\u51c6\u5e93\uff5c196 \u9879\u6d4b\u8bd5 + 13 \u6761\u5ba1\u8ba1\u547d\u4ee4",
+    "id": "sins-gif/moonshadow",
+    "language": "Python",
+    "name": "sins-gif/moonshadow",
+    "stars": 0,
+    "updated_at": "2026-10-09T16:59:49Z",
+    "url": "https://github.com/sins-gif/moonshadow"
+  },
+  {
+    "description": "\u9879\u76ee\u4e2d\u5fc3\u667a\u80fd. BaijiMind. DolphinMind. Open\u2011source runOpen\u2011source runtime for Domain\u2011Separated Controlled Self\u2011Boot Agent Archi",
+    "id": "CanWeakerWriteStrongCode/DolphinMind",
+    "language": "\u2014",
+    "name": "CanWeakerWriteStrongCode/DolphinMind",
+    "stars": 0,
+    "updated_at": "2026-10-09T16:58:44Z",
+    "url": "https://github.com/CanWeakerWriteStrongCode/DolphinMind"
+  },
+  {
+    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
+    "id": "uukuguy/capstone",
+    "language": "Python",
+    "name": "uukuguy/capstone",
+    "stars": 0,
+    "updated_at": "2026-10-09T16:56:59Z",
+    "url": "https://github.com/uukuguy/capstone"
+  },
+  {
+    "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
+    "id": "yurika0211/lucky-agent",
+    "language": "Go",
+    "name": "yurika0211/lucky-agent",
+    "stars": 14,
+    "updated_at": "2026-10-09T16:56:53Z",
+    "url": "https://github.com/yurika0211/lucky-agent"
+  },
+  {
+    "description": "Interactive Smith chart with an agentic AI tutor that teaches like a person and grades like an engineer",
+    "id": "sampreethsharma7/smith-chart-tutor",
+    "language": "TypeScript",
+    "name": "sampreethsharma7/smith-chart-tutor",
+    "stars": 0,
+    "updated_at": "2026-10-09T16:54:12Z",
+    "url": "https://github.com/sampreethsharma7/smith-chart-tutor"
+  },
+  {
+    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
+    "id": "zty522/partner",
+    "language": "Python",
+    "name": "zty522/partner",
+    "stars": 5,
+    "updated_at": "2026-10-09T16:50:34Z",
+    "url": "https://github.com/zty522/partner"
+  },
+  {
+    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
+    "id": "xieguigang/sciBASIC",
+    "language": "Visual Basic .NET",
+    "name": "xieguigang/sciBASIC",
+    "stars": 79,
+    "updated_at": "2026-10-09T16:48:15Z",
+    "url": "https://github.com/xieguigang/sciBASIC"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-09T16:47:26Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 765,
+    "updated_at": "2026-10-09T16:58:44Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 8752,
-    "updated_at": "2026-10-09T16:43:55Z",
+    "updated_at": "2026-10-09T16:56:41Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -16,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-10-09T16:39:47Z",
     "url": "https://github.com/OtakuNathan/Pal"
-  },
-  {
-    "description": "\u5206\u57df\u53d7\u63a7\u81ea\u4e3e\u667a\u80fd\u4f53\u8fd0\u884c\u65f6. BaijiMind. DolphinMind. Open\u2011source runOpen\u2011source runtime for Domain\u2011Separated Controlled Self\u2011Boot Agent",
-    "id": "CanWeakerWriteStrongCode/DolphinMind",
-    "language": "\u2014",
-    "name": "CanWeakerWriteStrongCode/DolphinMind",
-    "stars": 0,
-    "updated_at": "2026-10-09T16:39:10Z",
-    "url": "https://github.com/CanWeakerWriteStrongCode/DolphinMind"
   },
   {
     "description": "\u5e26\u7b56\u7565\u9a8c\u8bc1\u7684 A \u80a1 LLM \u5206\u6790\u7cfb\u7edf \u2014\u2014 \u591a\u6e90\u964d\u7ea7 + \u5b9a\u65f6\u4efb\u52a1 + \u591a\u901a\u9053\u63a8\u9001\uff1b\u6838\u5fc3\u589e\u91cf\u662f\u53ef\u8bc1\u4f2a\u7684\u56de\u6d4b\u4e0e\u9a8c\u8bc1\u5c42\uff08\u672a\u6765\u51fd\u6570\u63a2\u6d4b / \u6837\u672c\u5185\u5916\u5207\u5206 / t\u68c0\u9a8c / \u57fa\u51c6\u5bf9\u6bd4\uff09",
@@ -95,7 +176,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-09T16:30:24Z",
+    "updated_at": "2026-10-09T16:49:17Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -124,24 +205,6 @@
     "stars": 25,
     "updated_at": "2026-10-09T16:40:19Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 765,
-    "updated_at": "2026-10-09T16:40:00Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
-    "id": "zty522/partner",
-    "language": "Python",
-    "name": "zty522/partner",
-    "stars": 5,
-    "updated_at": "2026-10-09T16:13:02Z",
-    "url": "https://github.com/zty522/partner"
   },
   {
     "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
@@ -243,15 +306,6 @@
     "url": "https://github.com/plurnk/plurnk"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-09T15:46:19Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -313,15 +367,6 @@
     "stars": 1,
     "updated_at": "2026-10-09T15:34:35Z",
     "url": "https://github.com/ys118/ra2web-jev-player"
-  },
-  {
-    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
-    "id": "xieguigang/sciBASIC",
-    "language": "Visual Basic .NET",
-    "name": "xieguigang/sciBASIC",
-    "stars": 79,
-    "updated_at": "2026-10-09T15:32:44Z",
-    "url": "https://github.com/xieguigang/sciBASIC"
   },
   {
     "description": "Application Security orchestration platform",
@@ -403,50 +448,5 @@
     "stars": 6,
     "updated_at": "2026-10-09T14:36:02Z",
     "url": "https://github.com/general-intelligence-systems/brute"
-  },
-  {
-    "description": "Community DSH host plugin that automatically resumes root-agent sessions after max-token truncation, with bounded retrie",
-    "id": "Wepoi9/dsh-max-token-auto-continue",
-    "language": "TypeScript",
-    "name": "Wepoi9/dsh-max-token-auto-continue",
-    "stars": 0,
-    "updated_at": "2026-10-09T14:33:23Z",
-    "url": "https://github.com/Wepoi9/dsh-max-token-auto-continue"
-  },
-  {
-    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
-    "id": "metric-space-ai/greppy",
-    "language": "Rust",
-    "name": "metric-space-ai/greppy",
-    "stars": 11,
-    "updated_at": "2026-10-09T14:34:28Z",
-    "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
-    "description": "Local AI router. One OpenAI-compatible endpoint for every provider you already have, and one key for opencode, claude co",
-    "id": "foisalislambd/wowrouter",
-    "language": "Go",
-    "name": "foisalislambd/wowrouter",
-    "stars": 4,
-    "updated_at": "2026-10-09T14:36:01Z",
-    "url": "https://github.com/foisalislambd/wowrouter"
-  },
-  {
-    "description": "\u7535\u5546\u552e\u540e\u5ba2\u670d Agent\uff1aTool Calling + Policy Guard + \u4eba\u5de5\u5ba1\u6279 + \u5e42\u7b49\u6267\u884c + \u53ef\u9a8c\u8bc1\u8bc4\u6d4b",
-    "id": "sjhesjaj/GroundedAgent",
-    "language": "Python",
-    "name": "sjhesjaj/GroundedAgent",
-    "stars": 0,
-    "updated_at": "2026-10-09T15:04:10Z",
-    "url": "https://github.com/sjhesjaj/GroundedAgent"
-  },
-  {
-    "description": "A multi-agent medical assistant: skill registry, agent loop, optional agent swarm, layered memory, constraint enforcemen",
-    "id": "yu-harness/medix-agent-swarm",
-    "language": "Python",
-    "name": "yu-harness/medix-agent-swarm",
-    "stars": 0,
-    "updated_at": "2026-10-09T14:21:29Z",
-    "url": "https://github.com/yu-harness/medix-agent-swarm"
   }
 ]
