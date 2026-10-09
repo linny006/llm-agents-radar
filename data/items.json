@@ -1,5 +1,176 @@
 [
   {
+    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
+    "id": "chadwickhyperboloidal943/knowl",
+    "language": "TypeScript",
+    "name": "chadwickhyperboloidal943/knowl",
+    "stars": 0,
+    "updated_at": "2026-10-09T09:14:16Z",
+    "url": "https://github.com/chadwickhyperboloidal943/knowl"
+  },
+  {
+    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
+    "id": "Laurenfeminine36/google-jules-skill",
+    "language": "Python",
+    "name": "Laurenfeminine36/google-jules-skill",
+    "stars": 1,
+    "updated_at": "2026-10-09T09:14:02Z",
+    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
+  },
+  {
+    "description": "Kali \u539f\u751f\u7684 LLM \u6e17\u900f\u6d4b\u8bd5 harness:\u5927\u6a21\u578b\u81ea\u4e3b\u9a71\u52a8 Kali \u5b8c\u6574\u5de5\u5177\u94fe,scope \u62a4\u680f + \u6301\u4e45 PTY + \u54c8\u5e0c\u94fe\u5ba1\u8ba1\u3002Python,GPL-3.0\u3002",
+    "id": "Moxxkidd/foam",
+    "language": "Python",
+    "name": "Moxxkidd/foam",
+    "stars": 0,
+    "updated_at": "2026-10-09T09:14:00Z",
+    "url": "https://github.com/Moxxkidd/foam"
+  },
+  {
+    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
+    "id": "Jssu8541/ouro-loop",
+    "language": "\u2014",
+    "name": "Jssu8541/ouro-loop",
+    "stars": 0,
+    "updated_at": "2026-10-09T09:13:48Z",
+    "url": "https://github.com/Jssu8541/ouro-loop"
+  },
+  {
+    "description": "Security operations AI agent built with LangGraph, deterministic policy enforcement, human approval, auditable tool use,",
+    "id": "luozhonglzw/cybersec-agent",
+    "language": "Python",
+    "name": "luozhonglzw/cybersec-agent",
+    "stars": 0,
+    "updated_at": "2026-10-09T09:13:42Z",
+    "url": "https://github.com/luozhonglzw/cybersec-agent"
+  },
+  {
+    "description": "\u9762\u5411\u5217\u8f66\u7f51\u7edc\u63a7\u5236\u7cfb\u7edf\uff08TCMS/CAN\uff09\u7684\u6d4b\u8bd5\u5e73\u53f0\uff0c\u5916\u52a0\u4e00\u5c42 AI \u6d4b\u8bd5 Agent\uff1a\u67e5\u77e5\u8bc6\u5e93\u3001\u9020\u7528\u4f8b\u3001\u5728\u672c\u673a\u771f\u8dd1\uff0c\u7ed3\u8bba\u5e26\u5f15\u7528\u3001\u80fd\u9010\u6761\u6838\u5bf9\u3002\u5f15\u64ce 960 \u6761\u62a5\u6587\u7528\u4f8b\u3001203 \u6761 FMEA\u3001104 \u4e2a\u53ef\u6267\u884c\u573a\u666f\u90fd\u662f\u771f\u8d44\u4ea7\uff1b\u56db\u7ea7\u5de5\u5177\u6743\u9650 + \u4eba",
+    "id": "zych2002918/tcms-agent",
+    "language": "Python",
+    "name": "zych2002918/tcms-agent",
+    "stars": 0,
+    "updated_at": "2026-10-09T09:13:29Z",
+    "url": "https://github.com/zych2002918/tcms-agent"
+  },
+  {
+    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
+    "id": "wufufu770/d2d",
+    "language": "JavaScript",
+    "name": "wufufu770/d2d",
+    "stars": 4,
+    "updated_at": "2026-10-09T09:12:22Z",
+    "url": "https://github.com/wufufu770/d2d"
+  },
+  {
+    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
+    "id": "Asim00740/Kagantic-vault-structure",
+    "language": "\u2014",
+    "name": "Asim00740/Kagantic-vault-structure",
+    "stars": 0,
+    "updated_at": "2026-10-09T09:11:35Z",
+    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
+  },
+  {
+    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
+    "id": "Tonyx79/clov-ai",
+    "language": "Rust",
+    "name": "Tonyx79/clov-ai",
+    "stars": 0,
+    "updated_at": "2026-10-09T09:11:15Z",
+    "url": "https://github.com/Tonyx79/clov-ai"
+  },
+  {
+    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
+    "id": "wuyhong715/rikkahub-agent-pure",
+    "language": "Kotlin",
+    "name": "wuyhong715/rikkahub-agent-pure",
+    "stars": 24,
+    "updated_at": "2026-10-09T09:09:48Z",
+    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
+  },
+  {
+    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
+    "id": "Victongo/ai-daily-news",
+    "language": "Ruby",
+    "name": "Victongo/ai-daily-news",
+    "stars": 3,
+    "updated_at": "2026-10-09T09:08:43Z",
+    "url": "https://github.com/Victongo/ai-daily-news"
+  },
+  {
+    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
+    "id": "mena256/ai-pair-engineer",
+    "language": "Python",
+    "name": "mena256/ai-pair-engineer",
+    "stars": 0,
+    "updated_at": "2026-10-09T09:08:33Z",
+    "url": "https://github.com/mena256/ai-pair-engineer"
+  },
+  {
+    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
+    "id": "mamon9022/poc-fls-node-epicronicles",
+    "language": "TypeScript",
+    "name": "mamon9022/poc-fls-node-epicronicles",
+    "stars": 2,
+    "updated_at": "2026-10-09T09:07:27Z",
+    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
+  },
+  {
+    "description": "Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/",
+    "id": "ZekaiShi/evo-subagent",
+    "language": "JavaScript",
+    "name": "ZekaiShi/evo-subagent",
+    "stars": 7,
+    "updated_at": "2026-10-09T09:06:55Z",
+    "url": "https://github.com/ZekaiShi/evo-subagent"
+  },
+  {
+    "description": "Local AI router. One OpenAI-compatible endpoint for every provider you already have, and one key for opencode, claude co",
+    "id": "foisalislambd/wowrouter",
+    "language": "Go",
+    "name": "foisalislambd/wowrouter",
+    "stars": 4,
+    "updated_at": "2026-10-09T09:09:51Z",
+    "url": "https://github.com/foisalislambd/wowrouter"
+  },
+  {
+    "description": "Pre-registered test of an AI analyst (Antigravity CLI) writing daily trade theses for OKX BTC/ETH/SOL perpetuals; data o",
+    "id": "crypmiy/vibe-trading-okx-futures",
+    "language": "Python",
+    "name": "crypmiy/vibe-trading-okx-futures",
+    "stars": 0,
+    "updated_at": "2026-10-09T09:03:37Z",
+    "url": "https://github.com/crypmiy/vibe-trading-okx-futures"
+  },
+  {
+    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
+    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "language": "HTML",
+    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "stars": 0,
+    "updated_at": "2026-10-09T09:03:34Z",
+    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
+  },
+  {
+    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 49,
+    "updated_at": "2026-10-09T09:02:13Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 342,
+    "updated_at": "2026-10-09T09:05:26Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
     "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
     "id": "hasting323/AutoGLM-For-Android",
     "language": "Kotlin",
@@ -50,7 +221,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-10-09T08:55:49Z",
+    "updated_at": "2026-10-09T09:12:32Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -97,24 +268,6 @@
     "stars": 20,
     "updated_at": "2026-10-09T08:43:19Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 49,
-    "updated_at": "2026-10-09T08:42:56Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 342,
-    "updated_at": "2026-10-09T08:55:27Z",
-    "url": "https://github.com/yologdev/yoagent"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -261,15 +414,6 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "Kali \u539f\u751f\u7684 LLM \u6e17\u900f\u6d4b\u8bd5 harness:\u5927\u6a21\u578b\u81ea\u4e3b\u9a71\u52a8 Kali \u5b8c\u6574\u5de5\u5177\u94fe,scope \u62a4\u680f + \u6301\u4e45 PTY + \u54c8\u5e0c\u94fe\u5ba1\u8ba1\u3002Python,GPL-3.0\u3002",
-    "id": "Moxxkidd/foam",
-    "language": "Python",
-    "name": "Moxxkidd/foam",
-    "stars": 0,
-    "updated_at": "2026-10-09T08:00:13Z",
-    "url": "https://github.com/Moxxkidd/foam"
-  },
-  {
     "description": "A multi-agent medical assistant: skill registry, agent loop, optional agent swarm, layered memory, constraint enforcemen",
     "id": "yu-harness/medix-agent-swarm",
     "language": "Python",
@@ -304,149 +448,5 @@
     "stars": 10,
     "updated_at": "2026-10-09T07:47:35Z",
     "url": "https://github.com/eshanized/M31A"
-  },
-  {
-    "description": "\u591a\u53f0\u670d\u52a1\u5668\u4e0a\u7684 agent \u5982\u4f55\u5171\u4eab\u540c\u4e00\u4efd\u4e0a\u4e0b\u6587\u4e0e\u6280\u80fd\uff1a\u4ece\u5907\u5fd8\u5f55\u5524\u56de\u3001\u6280\u80fd\u8fed\u4ee3\u5206\u53d1\u5230\u8de8\u7aef\u901a\u4fe1\u7684\u81ea\u6258\u7ba1\u65b9\u6848\u3002How agents on different servers share one set of context and skills",
-    "id": "arlen-liang/nest-sync",
-    "language": "Shell",
-    "name": "arlen-liang/nest-sync",
-    "stars": 1,
-    "updated_at": "2026-10-09T07:44:59Z",
-    "url": "https://github.com/arlen-liang/nest-sync"
-  },
-  {
-    "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
-    "id": "rugose-learnedprofession58/pi-dsh",
-    "language": "TypeScript",
-    "name": "rugose-learnedprofession58/pi-dsh",
-    "stars": 0,
-    "updated_at": "2026-10-09T07:34:37Z",
-    "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
-  },
-  {
-    "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
-    "id": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
-    "language": "JavaScript",
-    "name": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
-    "stars": 2,
-    "updated_at": "2026-10-09T07:33:44Z",
-    "url": "https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder"
-  },
-  {
-    "description": "Verify area values quickly with this web-based HTML calculator tool.",
-    "id": "passive-hotpepper515/area-checker-html-tool",
-    "language": "HTML",
-    "name": "passive-hotpepper515/area-checker-html-tool",
-    "stars": 0,
-    "updated_at": "2026-10-09T07:33:38Z",
-    "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
-  },
-  {
-    "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
-    "id": "Blondieredistributed612/pocket-agent",
-    "language": "Python",
-    "name": "Blondieredistributed612/pocket-agent",
-    "stars": 3,
-    "updated_at": "2026-10-09T07:32:11Z",
-    "url": "https://github.com/Blondieredistributed612/pocket-agent"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 11,
-    "updated_at": "2026-10-09T07:29:31Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
-    "id": "bettersilvanus849/inner-coordinates",
-    "language": "Shell",
-    "name": "bettersilvanus849/inner-coordinates",
-    "stars": 1,
-    "updated_at": "2026-10-09T07:29:19Z",
-    "url": "https://github.com/bettersilvanus849/inner-coordinates"
-  },
-  {
-    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
-    "id": "wufufu770/d2d",
-    "language": "JavaScript",
-    "name": "wufufu770/d2d",
-    "stars": 4,
-    "updated_at": "2026-10-09T08:48:32Z",
-    "url": "https://github.com/wufufu770/d2d"
-  },
-  {
-    "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
-    "id": "Blaz742/web-pentest-lab",
-    "language": "\u2014",
-    "name": "Blaz742/web-pentest-lab",
-    "stars": 0,
-    "updated_at": "2026-10-09T07:28:27Z",
-    "url": "https://github.com/Blaz742/web-pentest-lab"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 1,
-    "updated_at": "2026-10-09T07:28:07Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
-    "id": "Indrasclerotinia71/local-ai-research-assistant",
-    "language": "Python",
-    "name": "Indrasclerotinia71/local-ai-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-09T07:26:52Z",
-    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
-  },
-  {
-    "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
-    "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "language": "Python",
-    "name": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "stars": 3,
-    "updated_at": "2026-10-09T07:25:41Z",
-    "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-10-09T07:25:22Z",
-    "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
-    "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "language": "\u2014",
-    "name": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "stars": 1,
-    "updated_at": "2026-10-09T07:25:13Z",
-    "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "JevHub \u00b7 Jev \u751f\u6001\u70ed\u699c \u628a\u503c\u5f97\u5173\u6ce8\u7684 Jev \u9879\u76ee\u3001\u6559\u7a0b\u548c\u8ba8\u8bba\uff0c\u6c47\u5230\u4e00\u9875\u3002 \u81ea\u52a8\u53d1\u73b0 \u00b7 \u6bcf\u65e5\u66f4\u65b0 \u00b7 \u6309 Stars \u6392\u5e8f \u00b7 \u4e2d\u82f1\u53cc\u8bed",
-    "id": "frontierlabai/JevHub",
-    "language": "Python",
-    "name": "frontierlabai/JevHub",
-    "stars": 7,
-    "updated_at": "2026-10-09T07:23:38Z",
-    "url": "https://github.com/frontierlabai/JevHub"
-  },
-  {
-    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
-    "id": "HELLOCODINGTR/AgentForge",
-    "language": "\u2014",
-    "name": "HELLOCODINGTR/AgentForge",
-    "stars": 1,
-    "updated_at": "2026-10-09T07:21:40Z",
-    "url": "https://github.com/HELLOCODINGTR/AgentForge"
   }
 ]
