@@ -1,5 +1,95 @@
 [
   {
+    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
+    "id": "kyleslight/shun",
+    "language": "TypeScript",
+    "name": "kyleslight/shun",
+    "stars": 7,
+    "updated_at": "2026-10-09T12:30:05Z",
+    "url": "https://github.com/kyleslight/shun"
+  },
+  {
+    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
+    "id": "wuyhong715/rikkahub-agent-pure",
+    "language": "Kotlin",
+    "name": "wuyhong715/rikkahub-agent-pure",
+    "stars": 25,
+    "updated_at": "2026-10-09T12:27:46Z",
+    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
+  },
+  {
+    "description": "\u8ba9\u5c0f\u82b1\u5f00\u53e3\u8bf4\u8bdd\uff1aHana \u52a9\u624b\u4e0d\u518d\u53ea\u662f\u4e2a\u5bf9\u8bdd\u6846\u2014\u2014\u65b0\u4f1a\u8bdd\u5148\u6253\u62db\u547c\u3001\u5e72\u6d3b\u4e2d\u95f4\u62a5\u8fdb\u5c55\u3001\u6536\u5c3e\u628a\u7ed3\u8bba\u5ff5\u7ed9\u4f60\u542c\uff1b\u4e09\u6bb5\u7531\u5e94\u7528\u94a9\u5b50\u4e3b\u52a8\u4ecb\u5165\u3001\u53e5\u5b50\u7531\u4f1a\u8bdd\u6a21\u578b\u73b0\u5199\u3002\u63a5\u4e0a\u8bed\u97f3\u8f93\u5165\uff0c\u5c0f\u82b1\u5c31\u662f\u4f60\u7684\u8d3e\u7ef4\u65af\u3002\uff08Hana v2 App\uff09",
+    "id": "givfei5-hash/openhanako-voiceloop-app",
+    "language": "JavaScript",
+    "name": "givfei5-hash/openhanako-voiceloop-app",
+    "stars": 1,
+    "updated_at": "2026-10-09T12:26:47Z",
+    "url": "https://github.com/givfei5-hash/openhanako-voiceloop-app"
+  },
+  {
+    "description": "\u57fa\u4e8e\u672c\u5730 Ollama \u5927\u6a21\u578b\u7684\u5168\u79bb\u7ebf CTF \u81ea\u52a8\u89e3\u9898 Agent\uff1a\u5355\u6587\u4ef6\u3001\u7eaf Python\u3001\u56db\u91cd\u5b89\u5168\u95f8\u95e8",
+    "id": "Sec-RUM/Local-Pentest-Agent",
+    "language": "Python",
+    "name": "Sec-RUM/Local-Pentest-Agent",
+    "stars": 0,
+    "updated_at": "2026-10-09T12:25:29Z",
+    "url": "https://github.com/Sec-RUM/Local-Pentest-Agent"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 343,
+    "updated_at": "2026-10-09T12:25:46Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
+    "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
+    "id": "SugarMGP/MumuBot",
+    "language": "Go",
+    "name": "SugarMGP/MumuBot",
+    "stars": 25,
+    "updated_at": "2026-10-09T12:25:00Z",
+    "url": "https://github.com/SugarMGP/MumuBot"
+  },
+  {
+    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
+    "id": "zty522/partner",
+    "language": "Python",
+    "name": "zty522/partner",
+    "stars": 5,
+    "updated_at": "2026-10-09T12:23:40Z",
+    "url": "https://github.com/zty522/partner"
+  },
+  {
+    "description": "The LLM Anti-Framework",
+    "id": "Mirascope/mirascope",
+    "language": "Python",
+    "name": "Mirascope/mirascope",
+    "stars": 1532,
+    "updated_at": "2026-10-09T12:19:59Z",
+    "url": "https://github.com/Mirascope/mirascope"
+  },
+  {
+    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
+    "id": "QQSHI13/fox-agent",
+    "language": "TypeScript",
+    "name": "QQSHI13/fox-agent",
+    "stars": 2,
+    "updated_at": "2026-10-09T12:17:09Z",
+    "url": "https://github.com/QQSHI13/fox-agent"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-10-09T12:15:37Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
     "description": "Scoped, tool-using DeepSeek audit agent that turns authorized HTTP/TLS checks into reproducible evidence",
     "id": "kalpak44/deepaudit",
     "language": "Python",
@@ -54,15 +144,6 @@
     "url": "https://github.com/tech-philomath-anjana/unbundle"
   },
   {
-    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
-    "id": "kyleslight/shun",
-    "language": "TypeScript",
-    "name": "kyleslight/shun",
-    "stars": 7,
-    "updated_at": "2026-10-09T12:00:08Z",
-    "url": "https://github.com/kyleslight/shun"
-  },
-  {
     "description": "Harness LLMs with Multi-Agent Programming",
     "id": "langroid/langroid",
     "language": "Python",
@@ -70,15 +151,6 @@
     "stars": 4113,
     "updated_at": "2026-10-09T12:00:05Z",
     "url": "https://github.com/langroid/langroid"
-  },
-  {
-    "description": "Give your Hana agent a mouth (v2 app): three-stage narration written by a model on the fly (opening / progress / closing",
-    "id": "givfei5-hash/openhanako-voiceloop-app",
-    "language": "JavaScript",
-    "name": "givfei5-hash/openhanako-voiceloop-app",
-    "stars": 0,
-    "updated_at": "2026-10-09T11:53:10Z",
-    "url": "https://github.com/givfei5-hash/openhanako-voiceloop-app"
   },
   {
     "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
@@ -90,31 +162,13 @@
     "url": "https://github.com/roxm337/osint-agent"
   },
   {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 343,
-    "updated_at": "2026-10-09T12:15:17Z",
-    "url": "https://github.com/yologdev/yoagent"
-  },
-  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-09T12:05:27Z",
+    "updated_at": "2026-10-09T12:27:54Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
-    "id": "SugarMGP/MumuBot",
-    "language": "Go",
-    "name": "SugarMGP/MumuBot",
-    "stars": 25,
-    "updated_at": "2026-10-09T11:44:05Z",
-    "url": "https://github.com/SugarMGP/MumuBot"
   },
   {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
@@ -133,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T11:42:12Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
-    "id": "QQSHI13/fox-agent",
-    "language": "TypeScript",
-    "name": "QQSHI13/fox-agent",
-    "stars": 2,
-    "updated_at": "2026-10-09T11:42:01Z",
-    "url": "https://github.com/QQSHI13/fox-agent"
   },
   {
     "description": "Conversational terminal assistant for tasks, calendar events and reminders - understands free-text Swedish and English.",
@@ -169,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-10-09T11:21:28Z",
     "url": "https://github.com/NitinReddy-A/Rampart"
-  },
-  {
-    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
-    "id": "wuyhong715/rikkahub-agent-pure",
-    "language": "Kotlin",
-    "name": "wuyhong715/rikkahub-agent-pure",
-    "stars": 24,
-    "updated_at": "2026-10-09T12:02:35Z",
-    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
     "description": "A gaming-community user-insights agent: publicly observable behavioral traces -> five-dim features -> activity/migration",
@@ -283,7 +319,7 @@
     "id": "ant-research/AntOmniEvo",
     "language": "Python",
     "name": "ant-research/AntOmniEvo",
-    "stars": 1096,
+    "stars": 1098,
     "updated_at": "2026-10-09T10:23:04Z",
     "url": "https://github.com/ant-research/AntOmniEvo"
   },
@@ -324,15 +360,6 @@
     "url": "https://github.com/TomKoren1/Sightline"
   },
   {
-    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
-    "id": "zty522/partner",
-    "language": "Python",
-    "name": "zty522/partner",
-    "stars": 5,
-    "updated_at": "2026-10-09T09:58:39Z",
-    "url": "https://github.com/zty522/partner"
-  },
-  {
     "description": "DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy.",
     "id": "tara-vision/taracode",
     "language": "Go",
@@ -340,15 +367,6 @@
     "stars": 51,
     "updated_at": "2026-10-09T09:53:14Z",
     "url": "https://github.com/tara-vision/taracode"
-  },
-  {
-    "description": "\u57fa\u4e8e\u672c\u5730 Ollama \u5927\u6a21\u578b\u7684\u5168\u79bb\u7ebf CTF \u81ea\u52a8\u89e3\u9898 Agent\uff1a\u5355\u6587\u4ef6\u3001\u7eaf Python\u3001\u56db\u91cd\u5b89\u5168\u95f8\u95e8",
-    "id": "Sec-RUM/Local-Pentest-Agent",
-    "language": "Python",
-    "name": "Sec-RUM/Local-Pentest-Agent",
-    "stars": 0,
-    "updated_at": "2026-10-09T09:49:02Z",
-    "url": "https://github.com/Sec-RUM/Local-Pentest-Agent"
   },
   {
     "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-09T09:26:55Z",
     "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
-  },
-  {
-    "description": "Automate Elytra flight, navigation, and landing for Meteor Client with intelligent pathfinding and rocket management.",
-    "id": "222394/SkyPilot",
-    "language": "Java",
-    "name": "222394/SkyPilot",
-    "stars": 0,
-    "updated_at": "2026-10-09T09:26:52Z",
-    "url": "https://github.com/222394/SkyPilot"
-  },
-  {
-    "description": "Build open source deep research agents using multiple models, search tools, and MCP servers.",
-    "id": "randomvariablewhitepelican129/open_deep_research",
-    "language": "Python",
-    "name": "randomvariablewhitepelican129/open_deep_research",
-    "stars": 0,
-    "updated_at": "2026-10-09T09:26:10Z",
-    "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
   }
 ]
