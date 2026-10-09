@@ -1,5 +1,68 @@
 [
   {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 20,
+    "updated_at": "2026-10-09T17:43:12Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "\ud83d\udc27 is currently a work in progress... Stay tuned! ",
+    "id": "Maximooch/penguin",
+    "language": "Python",
+    "name": "Maximooch/penguin",
+    "stars": 6,
+    "updated_at": "2026-10-09T17:43:07Z",
+    "url": "https://github.com/Maximooch/penguin"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 764,
+    "updated_at": "2026-10-09T17:42:21Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "Interactive Smith chart with an agentic AI tutor that teaches like a person and grades like an engineer",
+    "id": "sampreethsharma7/smith-chart-tutor",
+    "language": "TypeScript",
+    "name": "sampreethsharma7/smith-chart-tutor",
+    "stars": 0,
+    "updated_at": "2026-10-09T17:41:29Z",
+    "url": "https://github.com/sampreethsharma7/smith-chart-tutor"
+  },
+  {
+    "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
+    "id": "roxm337/osint-agent",
+    "language": "Python",
+    "name": "roxm337/osint-agent",
+    "stars": 0,
+    "updated_at": "2026-10-09T17:36:19Z",
+    "url": "https://github.com/roxm337/osint-agent"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-09T17:36:18Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8750,
+    "updated_at": "2026-10-09T17:43:00Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "Application Security orchestration platform",
     "id": "grauwolf32/contractor",
     "language": "Go",
@@ -41,7 +104,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4444,
-    "updated_at": "2026-10-09T17:21:52Z",
+    "updated_at": "2026-10-09T17:36:07Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -54,33 +117,6 @@
     "url": "https://github.com/b-macker/NAAb"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8751,
-    "updated_at": "2026-10-09T17:15:25Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Interactive Smith chart with an agentic AI tutor that teaches like a person and grades like an engineer",
-    "id": "sampreethsharma7/smith-chart-tutor",
-    "language": "TypeScript",
-    "name": "sampreethsharma7/smith-chart-tutor",
-    "stars": 0,
-    "updated_at": "2026-10-09T17:15:19Z",
-    "url": "https://github.com/sampreethsharma7/smith-chart-tutor"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 765,
-    "updated_at": "2026-10-09T17:27:03Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
     "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
     "id": "zty522/partner",
     "language": "Python",
@@ -90,12 +126,21 @@
     "url": "https://github.com/zty522/partner"
   },
   {
+    "description": "Open-source enterprise AI agent: LLM tool-calling engine, permissions, RAG and a Python analytics engine, with a working",
+    "id": "Zeetech-soft-solution/erp-ai-agent",
+    "language": "TypeScript",
+    "name": "Zeetech-soft-solution/erp-ai-agent",
+    "stars": 2,
+    "updated_at": "2026-10-09T17:05:09Z",
+    "url": "https://github.com/Zeetech-soft-solution/erp-ai-agent"
+  },
+  {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
     "id": "dkblinux98/nyxGPT",
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-10-09T17:16:19Z",
+    "updated_at": "2026-10-09T17:41:59Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -171,24 +216,6 @@
     "url": "https://github.com/AandBorC/dsa-lite"
   },
   {
-    "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
-    "id": "roxm337/osint-agent",
-    "language": "Python",
-    "name": "roxm337/osint-agent",
-    "stars": 0,
-    "updated_at": "2026-10-09T16:35:16Z",
-    "url": "https://github.com/roxm337/osint-agent"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 20,
-    "updated_at": "2026-10-09T16:37:45Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
     "id": "SuperdeMan/cockpit-agent",
     "language": "Python",
@@ -225,15 +252,6 @@
     "url": "https://github.com/diraigent/diraigent"
   },
   {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-09T17:25:26Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -257,7 +275,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 25,
-    "updated_at": "2026-10-09T17:07:30Z",
+    "updated_at": "2026-10-09T17:39:06Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -337,7 +355,7 @@
     "id": "bigfish1913/pi-rust",
     "language": "Rust",
     "name": "bigfish1913/pi-rust",
-    "stars": 72,
+    "stars": 69,
     "updated_at": "2026-10-09T15:53:54Z",
     "url": "https://github.com/bigfish1913/pi-rust"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-09T15:34:35Z",
     "url": "https://github.com/ys118/ra2web-jev-player"
-  },
-  {
-    "description": "\u57fa\u4e8e\u672c\u5730 Ollama \u5927\u6a21\u578b\u7684\u5168\u79bb\u7ebf CTF \u81ea\u52a8\u89e3\u9898 Agent\uff1a\u5355\u6587\u4ef6\u3001\u7eaf Python\u3001\u56db\u91cd\u5b89\u5168\u95f8\u95e8",
-    "id": "Sec-RUM/Local-Pentest-Agent",
-    "language": "Python",
-    "name": "Sec-RUM/Local-Pentest-Agent",
-    "stars": 0,
-    "updated_at": "2026-10-09T15:25:04Z",
-    "url": "https://github.com/Sec-RUM/Local-Pentest-Agent"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 817,
-    "updated_at": "2026-10-09T16:35:21Z",
-    "url": "https://github.com/helixml/helix"
   }
 ]
