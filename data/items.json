@@ -1,5 +1,23 @@
 [
   {
+    "description": "Trace token use and policy-held appointment notices through one Spring service.",
+    "id": "RemingtonCross7658/patient-safe-agent-telemetry",
+    "language": "Java",
+    "name": "RemingtonCross7658/patient-safe-agent-telemetry",
+    "stars": 0,
+    "updated_at": "2026-10-09T20:24:55Z",
+    "url": "https://github.com/RemingtonCross7658/patient-safe-agent-telemetry"
+  },
+  {
+    "description": "LLM agent for post-silicon hardware diagnostics \u2014 GPU XID / PCIe error triage",
+    "id": "Ezra-Zhao/AI-Node-Sentinel",
+    "language": "Python",
+    "name": "Ezra-Zhao/AI-Node-Sentinel",
+    "stars": 0,
+    "updated_at": "2026-10-09T20:17:57Z",
+    "url": "https://github.com/Ezra-Zhao/AI-Node-Sentinel"
+  },
+  {
     "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
     "id": "Shuffle-1992/dsh-context-pilot",
     "language": "JavaScript",
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-10-09T20:13:24Z",
+    "updated_at": "2026-10-09T20:23:31Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -68,7 +86,7 @@
     "language": "Python",
     "name": "cafferychen777/ChatSpatial",
     "stars": 44,
-    "updated_at": "2026-10-09T20:05:43Z",
+    "updated_at": "2026-10-09T20:15:31Z",
     "url": "https://github.com/cafferychen777/ChatSpatial"
   },
   {
@@ -401,7 +419,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 8749,
-    "updated_at": "2026-10-09T20:14:37Z",
+    "updated_at": "2026-10-09T20:23:07Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-09T18:43:38Z",
     "url": "https://github.com/JamesAnderson6217/nonprofit-agent-usage-ledger"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-10-09T19:31:14Z",
-    "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
-    "id": "expectedparrot/edsl",
-    "language": "Python",
-    "name": "expectedparrot/edsl",
-    "stars": 503,
-    "updated_at": "2026-10-09T18:29:56Z",
-    "url": "https://github.com/expectedparrot/edsl"
   }
 ]
