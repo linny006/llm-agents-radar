@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-09 19:00 UTC
+> ⏰ Last updated: 2026-10-09 19:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-10-09 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 2 | [grauwolf32/contractor](https://github.com/grauwolf32/contractor) | 2 | Go | 2026-10-09 | Application Security orchestration platform |
-| 3 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 20 | Rust | 2026-10-09 | Bamboo — a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule |
-| 4 | [analienx/remote-desktop-commander-agent-control](https://github.com/analienx/remote-desktop-commander-agent-control) | 1 | Python | 2026-10-09 | Self-healing keep-alive, watchdog and status dashboard for the Desktop Commander Remote agent and Chrome Remote Desktop  |
-| 5 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 765 | JavaScript | 2026-10-09 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
-| 6 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-09 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
-| 7 | [sins-gif/moonshadow](https://github.com/sins-gif/moonshadow) | 0 | Python | 2026-10-09 | 本地优先、可回溯的 Agent 时间分层记忆系统｜纯 Python 标准库｜196 项测试 + 13 条审计命令 |
-| 8 | [JamesAnderson6217/nonprofit-agent-usage-ledger](https://github.com/JamesAnderson6217/nonprofit-agent-usage-ledger) | 0 | Java | 2026-10-09 | Trace token usage and compliance failures across a nonprofit Java agent loop with one Infrai credential. |
-| 9 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 1 | C++ | 2026-10-09 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
-| 10 | [plurnk/plurnk](https://github.com/plurnk/plurnk) | 4 | TypeScript | 2026-10-09 | Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models. |
-| 11 | [expectedparrot/edsl](https://github.com/expectedparrot/edsl) | 503 | Python | 2026-10-09 | Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w |
-| 12 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 8749 | Python | 2026-10-09 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 1 | [sins-gif/moonshadow](https://github.com/sins-gif/moonshadow) | 0 | Python | 2026-10-09 | 本地优先、可回溯的 Agent 时间分层记忆系统｜纯 Python 标准库｜196 项测试 + 13 条审计命令 |
+| 2 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 8749 | Python | 2026-10-09 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 3 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-10-09 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 4 | [grauwolf32/contractor](https://github.com/grauwolf32/contractor) | 2 | Go | 2026-10-09 | Application Security orchestration platform |
+| 5 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 20 | Rust | 2026-10-09 | Bamboo — a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule |
+| 6 | [analienx/remote-desktop-commander-agent-control](https://github.com/analienx/remote-desktop-commander-agent-control) | 1 | Python | 2026-10-09 | Self-healing keep-alive, watchdog and status dashboard for the Desktop Commander Remote agent and Chrome Remote Desktop  |
+| 7 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 765 | JavaScript | 2026-10-09 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
+| 8 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-09 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
+| 9 | [JamesAnderson6217/nonprofit-agent-usage-ledger](https://github.com/JamesAnderson6217/nonprofit-agent-usage-ledger) | 0 | Java | 2026-10-09 | Trace token usage and compliance failures across a nonprofit Java agent loop with one Infrai credential. |
+| 10 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 1 | C++ | 2026-10-09 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
+| 11 | [plurnk/plurnk](https://github.com/plurnk/plurnk) | 4 | TypeScript | 2026-10-09 | Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models. |
+| 12 | [expectedparrot/edsl](https://github.com/expectedparrot/edsl) | 503 | Python | 2026-10-09 | Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w |
 | 13 | [SugarMGP/MumuBot](https://github.com/SugarMGP/MumuBot) | 25 | Go | 2026-10-09 | 一个会聊天、会记事、会融入群文化的赛博 QQ 群友 |
 | 14 | [eshanized/M31A](https://github.com/eshanized/M31A) | 10 | Rust | 2026-10-09 | M31 Autonomous — Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe |
 | 15 | [zty522/partner](https://github.com/zty522/partner) | 5 | Python | 2026-10-09 | Partner 🤝 Your AI Research Companion. "What have you been doing?" |
