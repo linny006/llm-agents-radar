@@ -1,5 +1,23 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-10-09T20:27:46Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Control AI agents anywhere. (github mirror)",
+    "id": "justacalico/devinorium",
+    "language": "Dart",
+    "name": "justacalico/devinorium",
+    "stars": 0,
+    "updated_at": "2026-10-09T20:27:35Z",
+    "url": "https://github.com/justacalico/devinorium"
+  },
+  {
     "description": "Trace token use and policy-held appointment notices through one Spring service.",
     "id": "RemingtonCross7658/patient-safe-agent-telemetry",
     "language": "Java",
@@ -32,7 +50,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-10-09T20:23:31Z",
+    "updated_at": "2026-10-09T20:25:10Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -261,15 +279,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-10-09T19:48:09Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -419,7 +428,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 8749,
-    "updated_at": "2026-10-09T20:23:07Z",
+    "updated_at": "2026-10-09T20:28:04Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-09T18:53:34Z",
     "url": "https://github.com/analienx/remote-desktop-commander-agent-control"
-  },
-  {
-    "description": "Trace token usage and compliance failures across a nonprofit Java agent loop with one Infrai credential.",
-    "id": "JamesAnderson6217/nonprofit-agent-usage-ledger",
-    "language": "Java",
-    "name": "JamesAnderson6217/nonprofit-agent-usage-ledger",
-    "stars": 0,
-    "updated_at": "2026-10-09T18:43:38Z",
-    "url": "https://github.com/JamesAnderson6217/nonprofit-agent-usage-ledger"
   }
 ]
