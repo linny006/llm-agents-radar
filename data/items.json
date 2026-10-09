@@ -1,5 +1,68 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-10-09T18:58:58Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Application Security orchestration platform",
+    "id": "grauwolf32/contractor",
+    "language": "Go",
+    "name": "grauwolf32/contractor",
+    "stars": 2,
+    "updated_at": "2026-10-09T18:56:48Z",
+    "url": "https://github.com/grauwolf32/contractor"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 20,
+    "updated_at": "2026-10-09T18:58:19Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Self-healing keep-alive, watchdog and status dashboard for the Desktop Commander Remote agent and Chrome Remote Desktop ",
+    "id": "analienx/remote-desktop-commander-agent-control",
+    "language": "Python",
+    "name": "analienx/remote-desktop-commander-agent-control",
+    "stars": 1,
+    "updated_at": "2026-10-09T18:53:34Z",
+    "url": "https://github.com/analienx/remote-desktop-commander-agent-control"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 765,
+    "updated_at": "2026-10-09T18:52:15Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-09T18:49:24Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u3001\u53ef\u56de\u6eaf\u7684 Agent \u65f6\u95f4\u5206\u5c42\u8bb0\u5fc6\u7cfb\u7edf\uff5c\u7eaf Python \u6807\u51c6\u5e93\uff5c196 \u9879\u6d4b\u8bd5 + 13 \u6761\u5ba1\u8ba1\u547d\u4ee4",
+    "id": "sins-gif/moonshadow",
+    "language": "Python",
+    "name": "sins-gif/moonshadow",
+    "stars": 0,
+    "updated_at": "2026-10-09T18:45:53Z",
+    "url": "https://github.com/sins-gif/moonshadow"
+  },
+  {
     "description": "Trace token usage and compliance failures across a nonprofit Java agent loop with one Infrai credential.",
     "id": "JamesAnderson6217/nonprofit-agent-usage-ledger",
     "language": "Java",
@@ -9,15 +72,6 @@
     "url": "https://github.com/JamesAnderson6217/nonprofit-agent-usage-ledger"
   },
   {
-    "description": "\u672c\u5730\u4f18\u5148\u3001\u53ef\u56de\u6eaf\u7684 Agent \u65f6\u95f4\u5206\u5c42\u8bb0\u5fc6\u7cfb\u7edf\uff5c\u7eaf Python \u6807\u51c6\u5e93\uff5c196 \u9879\u6d4b\u8bd5 + 13 \u6761\u5ba1\u8ba1\u547d\u4ee4",
-    "id": "sins-gif/moonshadow",
-    "language": "Python",
-    "name": "sins-gif/moonshadow",
-    "stars": 0,
-    "updated_at": "2026-10-09T18:42:23Z",
-    "url": "https://github.com/sins-gif/moonshadow"
-  },
-  {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
     "id": "b-macker/NAAb",
     "language": "C++",
@@ -25,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-10-09T18:41:11Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 764,
-    "updated_at": "2026-10-09T18:44:05Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 8749,
-    "updated_at": "2026-10-09T18:26:42Z",
+    "updated_at": "2026-10-09T18:47:29Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -88,15 +133,6 @@
     "stars": 5,
     "updated_at": "2026-10-09T18:20:59Z",
     "url": "https://github.com/zty522/partner"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 20,
-    "updated_at": "2026-10-09T18:36:30Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "The LLM Anti-Framework",
@@ -140,7 +176,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-09T18:45:09Z",
+    "updated_at": "2026-10-09T19:00:04Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -151,15 +187,6 @@
     "stars": 26,
     "updated_at": "2026-10-09T18:02:25Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
-  },
-  {
-    "description": "Application Security orchestration platform",
-    "id": "grauwolf32/contractor",
-    "language": "Go",
-    "name": "grauwolf32/contractor",
-    "stars": 2,
-    "updated_at": "2026-10-09T18:02:24Z",
-    "url": "https://github.com/grauwolf32/contractor"
   },
   {
     "description": "DeepSeek Harness na Androidzie w jednym APK, bez Termuxa i roota, z polskim interfejsem i kompletem narz\u0119dzi programisty",
@@ -178,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T17:52:40Z",
     "url": "https://github.com/krishkantrai27/StackForge"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-09T17:48:13Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "\ud83d\udc27 is currently a work in progress... Stay tuned! ",
@@ -365,7 +383,7 @@
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 218,
-    "updated_at": "2026-10-09T18:42:32Z",
+    "updated_at": "2026-10-09T18:53:04Z",
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
@@ -418,7 +436,7 @@
     "id": "Soodok/Deepseek-Harness-Local-Android",
     "language": "Kotlin",
     "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 189,
+    "stars": 190,
     "updated_at": "2026-10-09T16:01:49Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-09T16:01:45Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
-    "id": "bigfish1913/pi-rust",
-    "language": "Rust",
-    "name": "bigfish1913/pi-rust",
-    "stars": 69,
-    "updated_at": "2026-10-09T15:53:54Z",
-    "url": "https://github.com/bigfish1913/pi-rust"
-  },
-  {
-    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
-    "id": "haibingzhao/easyai",
-    "language": "Kotlin",
-    "name": "haibingzhao/easyai",
-    "stars": 1,
-    "updated_at": "2026-10-09T15:53:25Z",
-    "url": "https://github.com/haibingzhao/easyai"
   }
 ]
