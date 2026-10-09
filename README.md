@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-09 10:15 UTC
+> ⏰ Last updated: 2026-10-09 10:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 14 | Go | 2026-10-09 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
-| 2 | [Shuffle-1992/dsh-context-pilot](https://github.com/Shuffle-1992/dsh-context-pilot) | 1 | JavaScript | 2026-10-09 | DSH 上下文智能压缩 + 智能思考：每轮注入用量、模型自主决定压缩并自动续跑；可选让模型按任务难度自主调整思考强度档位 |
-| 3 | [jundizhou/easy-stock](https://github.com/jundizhou/easy-stock) | 1377 | Go | 2026-10-09 | A股行情分析与AI智能投研智能体：股票分析、量化交易分析、盘后复盘桌面工作台——easy stock |
-| 4 | [shimo4228/contemplative-agent](https://github.com/shimo4228/contemplative-agent) | 7 | Python | 2026-10-09 | A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to |
-| 5 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 130 | HTML | 2026-10-09 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 6 | [TomKoren1/Sightline](https://github.com/TomKoren1/Sightline) | 0 | TypeScript | 2026-10-09 | Read-only AWS inventory with a graph model and an LLM agent that answers security questions with validated citations. Po |
-| 7 | [yologdev/yoagent](https://github.com/yologdev/yoagent) | 342 | Rust | 2026-10-09 | The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done. |
-| 8 | [zty522/partner](https://github.com/zty522/partner) | 5 | Python | 2026-10-09 | Partner 🤝 Your AI Research Companion. "What have you been doing?" |
-| 9 | [sjhesjaj/GroundedAgent](https://github.com/sjhesjaj/GroundedAgent) | 0 | Python | 2026-10-09 | 电商售后客服 Agent：Tool Calling + Policy Guard + 人工审批 + 幂等执行 + 可验证评测 |
-| 10 | [tara-vision/taracode](https://github.com/tara-vision/taracode) | 51 | Go | 2026-10-09 | DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy. |
-| 11 | [Sec-RUM/Local-Pentest-Agent](https://github.com/Sec-RUM/Local-Pentest-Agent) | 0 | Python | 2026-10-09 | 基于本地 Ollama 大模型的全离线 CTF 自动解题 Agent：单文件、纯 Python、四重安全闸门 |
-| 12 | [xiongweilin/agent-skills](https://github.com/xiongweilin/agent-skills) | 0 | PowerShell | 2026-10-09 | Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent |
-| 13 | [addsumtech/job-hunt](https://github.com/addsumtech/job-hunt) | 5 | Python | 2026-10-09 | 适用于 Claude Code 和 Codex 的求职 Skill：查找岗位、判断是否值得投递、制作简历与申请材料、检验申请材料并模拟面试。不编造技能或业绩数字，不预测录用概率；检查简历是否便于招聘管理系统（ATS）读取，并从招聘人员和用人 |
-| 14 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-09 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
-| 15 | [holylong/luban](https://github.com/holylong/luban) | 0 | TypeScript | 2026-10-09 | AI coding agent for terminal, desktop and browser. Visible execution records, LAN mesh collaboration across machines, ph |
-| 16 | [Deborahwalkerz661/ComfyUI-FS_Audio_Suite](https://github.com/Deborahwalkerz661/ComfyUI-FS_Audio_Suite) | 1 | Python | 2026-10-09 | Generate rich YuE2 audio in ComfyUI with six modular nodes—hum-to-song, LoRA and adapter support—no stock nodes needed. |
-| 17 | [Jadema5416/ComfyUI-DLSS5-Enhancer](https://github.com/Jadema5416/ComfyUI-DLSS5-Enhancer) | 1 | Python | 2026-10-09 | Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de |
-| 18 | [verniceunleaded6135/tidy-undo](https://github.com/verniceunleaded6135/tidy-undo) | 0 | Python | 2026-10-09 | Sort your Downloads by project, not file type — with one-command undo. No delete, ever. |
-| 19 | [Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3](https://github.com/Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3) | 4 | JavaScript | 2026-10-09 | Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node—no complex workflows needed. |
-| 20 | [Ottoman-reticule726/zara-ai-laptop-agent](https://github.com/Ottoman-reticule726/zara-ai-laptop-agent) | 0 | Python | 2026-10-09 | Control your Windows laptop remotely via Discord with AI-powered voice and text commands in English or Urdu. |
-| 21 | [alejandrogg15/Minimax-H3-Turbo](https://github.com/alejandrogg15/Minimax-H3-Turbo) | 1 | Python | 2026-10-09 | Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons. |
-| 22 | [Aureliedumbfounding630/agent-governance-toolkit](https://github.com/Aureliedumbfounding630/agent-governance-toolkit) | 0 | — | 2026-10-09 | Manage and monitor AI agents in production environments with tools for governance, safety, and compliance. |
-| 23 | [222394/SkyPilot](https://github.com/222394/SkyPilot) | 0 | Java | 2026-10-09 | Automate Elytra flight, navigation, and landing for Meteor Client with intelligent pathfinding and rocket management. |
-| 24 | [randomvariablewhitepelican129/open_deep_research](https://github.com/randomvariablewhitepelican129/open_deep_research) | 0 | Python | 2026-10-09 | Build open source deep research agents using multiple models, search tools, and MCP servers. |
-| 25 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 11 | Python | 2026-10-09 | Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT. |
-| 26 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 22 | Python | 2026-10-09 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、HMI和Android双端；LLM 只负责理解与规划，VAL 负责确定性安全执行 |
-| 27 | [pruthviraj00007/VibeHarness](https://github.com/pruthviraj00007/VibeHarness) | 0 | Python | 2026-10-09 | Automate file management and coding tasks in your local directory using small language models. |
-| 28 | [honestDS/MonoLight](https://github.com/honestDS/MonoLight) | 8 | Python | 2026-10-09 | MonoLight 是一个专注于安全执行与人机协同的通用自主智能体（General Autonomous Agent）运行时。 |
-| 29 | [Respiratorysyncytialviruscoliphage228/GPU-Fleet](https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet) | 0 | Go | 2026-10-09 | Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem |
-| 30 | [kalpak44/deepaudit](https://github.com/kalpak44/deepaudit) | 0 | Python | 2026-10-09 | Scoped, tool-using DeepSeek audit agent that turns authorized HTTP/TLS checks into reproducible evidence |
-| 31 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-10-09 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 32 | [Samuelcluttered613/paper2code](https://github.com/Samuelcluttered613/paper2code) | 1 | Python | 2026-10-09 | Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files |
-| 33 | [Bastioned-successor320/learn-nanobot](https://github.com/Bastioned-successor320/learn-nanobot) | 12 | Python | 2026-10-09 | Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers |
-| 34 | [tessellated-statisticalcommission243/deep-research-skill](https://github.com/tessellated-statisticalcommission243/deep-research-skill) | 3 | — | 2026-10-09 | Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities |
-| 35 | [chadwickhyperboloidal943/knowl](https://github.com/chadwickhyperboloidal943/knowl) | 0 | TypeScript | 2026-10-09 | Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations |
-| 36 | [Laurenfeminine36/google-jules-skill](https://github.com/Laurenfeminine36/google-jules-skill) | 1 | Python | 2026-10-09 | Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m |
-| 37 | [Moxxkidd/foam](https://github.com/Moxxkidd/foam) | 0 | Python | 2026-10-09 | Kali 原生的 LLM 渗透测试 harness:大模型自主驱动 Kali 完整工具链,scope 护栏 + 持久 PTY + 哈希链审计。Python,GPL-3.0。 |
-| 38 | [Jssu8541/ouro-loop](https://github.com/Jssu8541/ouro-loop) | 0 | — | 2026-10-09 | Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope |
-| 39 | [luozhonglzw/cybersec-agent](https://github.com/luozhonglzw/cybersec-agent) | 0 | Python | 2026-10-09 | Security operations AI agent built with LangGraph, deterministic policy enforcement, human approval, auditable tool use, |
-| 40 | [zych2002918/tcms-agent](https://github.com/zych2002918/tcms-agent) | 0 | Python | 2026-10-09 | 面向列车网络控制系统（TCMS/CAN）的测试平台，外加一层 AI 测试 Agent：查知识库、造用例、在本机真跑，结论带引用、能逐条核对。引擎 960 条报文用例、203 条 FMEA、104 个可执行场景都是真资产；四级工具权限 + 人 |
-| 41 | [wufufu770/d2d](https://github.com/wufufu770/d2d) | 4 | JavaScript | 2026-10-09 | 三环并行渗透测试 dsh 插件 — discovery/deep/creative 三环 + 独立 verify 闭环，Kuzu 图黑板共享状态，多 agent 自调度、按角色模型策略、自学习知识脑。仅用于授权安全测试（SRC/靶场/自有资 |
-| 42 | [Asim00740/Kagantic-vault-structure](https://github.com/Asim00740/Kagantic-vault-structure) | 0 | — | 2026-10-09 | Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i |
-| 43 | [Tonyx79/clov-ai](https://github.com/Tonyx79/clov-ai) | 0 | Rust | 2026-10-09 | Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual |
-| 44 | [wuyhong715/rikkahub-agent-pure](https://github.com/wuyhong715/rikkahub-agent-pure) | 24 | Kotlin | 2026-10-09 | RikkaHub Agent · Pure — an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic |
-| 45 | [Victongo/ai-daily-news](https://github.com/Victongo/ai-daily-news) | 3 | Ruby | 2026-10-09 | Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q |
-| 46 | [mena256/ai-pair-engineer](https://github.com/mena256/ai-pair-engineer) | 0 | Python | 2026-10-09 | Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr |
-| 47 | [mamon9022/poc-fls-node-epicronicles](https://github.com/mamon9022/poc-fls-node-epicronicles) | 2 | TypeScript | 2026-10-09 | 🌌 Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management |
-| 48 | [ZekaiShi/evo-subagent](https://github.com/ZekaiShi/evo-subagent) | 7 | JavaScript | 2026-10-09 | Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/ |
-| 49 | [foisalislambd/wowrouter](https://github.com/foisalislambd/wowrouter) | 4 | Go | 2026-10-09 | Local AI router. One OpenAI-compatible endpoint for every provider you already have, and one key for opencode, claude co |
-| 50 | [crypmiy/vibe-trading-okx-futures](https://github.com/crypmiy/vibe-trading-okx-futures) | 0 | Python | 2026-10-09 | Pre-registered test of an AI analyst (Antigravity CLI) writing daily trade theses for OKX BTC/ETH/SOL perpetuals; data o |
+| 1 | [ongridio/ongrid](https://github.com/ongridio/ongrid) | 1129 | Go | 2026-10-09 | An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, L |
+| 2 | [agentpit-io/hunter-community](https://github.com/agentpit-io/hunter-community) | 573 | Python | 2026-10-09 | HunterCode · Community Edition · 腾讯 WorkBuddy 金融版的开源本地替代方案 · open-source, local alternative to Tencent WorkBuddy Finance |
+| 3 | [roxm337/osint-agent](https://github.com/roxm337/osint-agent) | 0 | Python | 2026-10-09 | Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b |
+| 4 | [ant-research/AntOmniEvo](https://github.com/ant-research/AntOmniEvo) | 1095 | Python | 2026-10-09 | An auto-evolution framework that optimizes anything — your 7×24 team of algorithm engineers. |
+| 5 | [givfei5-hash/openhanako-voiceloop-app](https://github.com/givfei5-hash/openhanako-voiceloop-app) | 0 | JavaScript | 2026-10-09 | Give your Hana agent a mouth (v2 app): three-stage narration written by a model on the fly (opening / progress / closing |
+| 6 | [Shuffle-1992/dsh-context-pilot](https://github.com/Shuffle-1992/dsh-context-pilot) | 1 | JavaScript | 2026-10-09 | DSH 上下文智能压缩 + 智能思考：每轮注入用量、模型自主决定压缩并自动续跑；可选让模型按任务难度自主调整思考强度档位 |
+| 7 | [NitinReddy-A/HackOps_Recon](https://github.com/NitinReddy-A/HackOps_Recon) | 2 | Python | 2026-10-09 | Open-source, self-hostable AppSec agent that finds, proves, and helps fix web/API vulnerabilities — evidence-first (inde |
+| 8 | [feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) | 2693 | Python | 2026-10-09 | Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Pyt |
+| 9 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 14 | Go | 2026-10-09 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
+| 10 | [jundizhou/easy-stock](https://github.com/jundizhou/easy-stock) | 1377 | Go | 2026-10-09 | A股行情分析与AI智能投研智能体：股票分析、量化交易分析、盘后复盘桌面工作台——easy stock |
+| 11 | [shimo4228/contemplative-agent](https://github.com/shimo4228/contemplative-agent) | 7 | Python | 2026-10-09 | A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to |
+| 12 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 130 | HTML | 2026-10-09 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 13 | [TomKoren1/Sightline](https://github.com/TomKoren1/Sightline) | 0 | TypeScript | 2026-10-09 | Read-only AWS inventory with a graph model and an LLM agent that answers security questions with validated citations. Po |
+| 14 | [yologdev/yoagent](https://github.com/yologdev/yoagent) | 342 | Rust | 2026-10-09 | The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done. |
+| 15 | [zty522/partner](https://github.com/zty522/partner) | 5 | Python | 2026-10-09 | Partner 🤝 Your AI Research Companion. "What have you been doing?" |
+| 16 | [sjhesjaj/GroundedAgent](https://github.com/sjhesjaj/GroundedAgent) | 0 | Python | 2026-10-09 | 电商售后客服 Agent：Tool Calling + Policy Guard + 人工审批 + 幂等执行 + 可验证评测 |
+| 17 | [tara-vision/taracode](https://github.com/tara-vision/taracode) | 51 | Go | 2026-10-09 | DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy. |
+| 18 | [Sec-RUM/Local-Pentest-Agent](https://github.com/Sec-RUM/Local-Pentest-Agent) | 0 | Python | 2026-10-09 | 基于本地 Ollama 大模型的全离线 CTF 自动解题 Agent：单文件、纯 Python、四重安全闸门 |
+| 19 | [xiongweilin/agent-skills](https://github.com/xiongweilin/agent-skills) | 0 | PowerShell | 2026-10-09 | Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent |
+| 20 | [addsumtech/job-hunt](https://github.com/addsumtech/job-hunt) | 5 | Python | 2026-10-09 | 适用于 Claude Code 和 Codex 的求职 Skill：查找岗位、判断是否值得投递、制作简历与申请材料、检验申请材料并模拟面试。不编造技能或业绩数字，不预测录用概率；检查简历是否便于招聘管理系统（ATS）读取，并从招聘人员和用人 |
+| 21 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-09 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
+| 22 | [holylong/luban](https://github.com/holylong/luban) | 0 | TypeScript | 2026-10-09 | AI coding agent for terminal, desktop and browser. Visible execution records, LAN mesh collaboration across machines, ph |
+| 23 | [Deborahwalkerz661/ComfyUI-FS_Audio_Suite](https://github.com/Deborahwalkerz661/ComfyUI-FS_Audio_Suite) | 1 | Python | 2026-10-09 | Generate rich YuE2 audio in ComfyUI with six modular nodes—hum-to-song, LoRA and adapter support—no stock nodes needed. |
+| 24 | [Jadema5416/ComfyUI-DLSS5-Enhancer](https://github.com/Jadema5416/ComfyUI-DLSS5-Enhancer) | 1 | Python | 2026-10-09 | Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de |
+| 25 | [verniceunleaded6135/tidy-undo](https://github.com/verniceunleaded6135/tidy-undo) | 0 | Python | 2026-10-09 | Sort your Downloads by project, not file type — with one-command undo. No delete, ever. |
+| 26 | [Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3](https://github.com/Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3) | 4 | JavaScript | 2026-10-09 | Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node—no complex workflows needed. |
+| 27 | [Ottoman-reticule726/zara-ai-laptop-agent](https://github.com/Ottoman-reticule726/zara-ai-laptop-agent) | 0 | Python | 2026-10-09 | Control your Windows laptop remotely via Discord with AI-powered voice and text commands in English or Urdu. |
+| 28 | [alejandrogg15/Minimax-H3-Turbo](https://github.com/alejandrogg15/Minimax-H3-Turbo) | 1 | Python | 2026-10-09 | Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons. |
+| 29 | [Aureliedumbfounding630/agent-governance-toolkit](https://github.com/Aureliedumbfounding630/agent-governance-toolkit) | 0 | — | 2026-10-09 | Manage and monitor AI agents in production environments with tools for governance, safety, and compliance. |
+| 30 | [222394/SkyPilot](https://github.com/222394/SkyPilot) | 0 | Java | 2026-10-09 | Automate Elytra flight, navigation, and landing for Meteor Client with intelligent pathfinding and rocket management. |
+| 31 | [randomvariablewhitepelican129/open_deep_research](https://github.com/randomvariablewhitepelican129/open_deep_research) | 0 | Python | 2026-10-09 | Build open source deep research agents using multiple models, search tools, and MCP servers. |
+| 32 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 11 | Python | 2026-10-09 | Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT. |
+| 33 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 22 | Python | 2026-10-09 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、HMI和Android双端；LLM 只负责理解与规划，VAL 负责确定性安全执行 |
+| 34 | [pruthviraj00007/VibeHarness](https://github.com/pruthviraj00007/VibeHarness) | 0 | Python | 2026-10-09 | Automate file management and coding tasks in your local directory using small language models. |
+| 35 | [honestDS/MonoLight](https://github.com/honestDS/MonoLight) | 8 | Python | 2026-10-09 | MonoLight 是一个专注于安全执行与人机协同的通用自主智能体（General Autonomous Agent）运行时。 |
+| 36 | [Respiratorysyncytialviruscoliphage228/GPU-Fleet](https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet) | 0 | Go | 2026-10-09 | Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem |
+| 37 | [kalpak44/deepaudit](https://github.com/kalpak44/deepaudit) | 0 | Python | 2026-10-09 | Scoped, tool-using DeepSeek audit agent that turns authorized HTTP/TLS checks into reproducible evidence |
+| 38 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-10-09 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 39 | [Samuelcluttered613/paper2code](https://github.com/Samuelcluttered613/paper2code) | 1 | Python | 2026-10-09 | Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files |
+| 40 | [Bastioned-successor320/learn-nanobot](https://github.com/Bastioned-successor320/learn-nanobot) | 12 | Python | 2026-10-09 | Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers |
+| 41 | [tessellated-statisticalcommission243/deep-research-skill](https://github.com/tessellated-statisticalcommission243/deep-research-skill) | 3 | — | 2026-10-09 | Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities |
+| 42 | [chadwickhyperboloidal943/knowl](https://github.com/chadwickhyperboloidal943/knowl) | 0 | TypeScript | 2026-10-09 | Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations |
+| 43 | [Laurenfeminine36/google-jules-skill](https://github.com/Laurenfeminine36/google-jules-skill) | 1 | Python | 2026-10-09 | Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m |
+| 44 | [Moxxkidd/foam](https://github.com/Moxxkidd/foam) | 0 | Python | 2026-10-09 | Kali 原生的 LLM 渗透测试 harness:大模型自主驱动 Kali 完整工具链,scope 护栏 + 持久 PTY + 哈希链审计。Python,GPL-3.0。 |
+| 45 | [Jssu8541/ouro-loop](https://github.com/Jssu8541/ouro-loop) | 0 | — | 2026-10-09 | Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope |
+| 46 | [luozhonglzw/cybersec-agent](https://github.com/luozhonglzw/cybersec-agent) | 0 | Python | 2026-10-09 | Security operations AI agent built with LangGraph, deterministic policy enforcement, human approval, auditable tool use, |
+| 47 | [zych2002918/tcms-agent](https://github.com/zych2002918/tcms-agent) | 0 | Python | 2026-10-09 | 面向列车网络控制系统（TCMS/CAN）的测试平台，外加一层 AI 测试 Agent：查知识库、造用例、在本机真跑，结论带引用、能逐条核对。引擎 960 条报文用例、203 条 FMEA、104 个可执行场景都是真资产；四级工具权限 + 人 |
+| 48 | [wufufu770/d2d](https://github.com/wufufu770/d2d) | 4 | JavaScript | 2026-10-09 | 三环并行渗透测试 dsh 插件 — discovery/deep/creative 三环 + 独立 verify 闭环，Kuzu 图黑板共享状态，多 agent 自调度、按角色模型策略、自学习知识脑。仅用于授权安全测试（SRC/靶场/自有资 |
+| 49 | [Asim00740/Kagantic-vault-structure](https://github.com/Asim00740/Kagantic-vault-structure) | 0 | — | 2026-10-09 | Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i |
+| 50 | [Tonyx79/clov-ai](https://github.com/Tonyx79/clov-ai) | 0 | Rust | 2026-10-09 | Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual |
 <!-- TRACKER_TABLE_END -->
 
 ---
