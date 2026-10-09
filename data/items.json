@@ -1,11 +1,65 @@
 [
   {
+    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
+    "id": "eshanized/M31A",
+    "language": "Rust",
+    "name": "eshanized/M31A",
+    "stars": 10,
+    "updated_at": "2026-10-09T02:59:13Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "Tauri desktop shell for the local-first Bodhi agent: manages Bamboo startup/reuse and health; packaged builds open the B",
+    "id": "bigduu/Bodhi-AI",
+    "language": "JavaScript",
+    "name": "bigduu/Bodhi-AI",
+    "stars": 17,
+    "updated_at": "2026-10-09T02:54:28Z",
+    "url": "https://github.com/bigduu/Bodhi-AI"
+  },
+  {
+    "description": "\u57fa\u4e8e LangGraph \u7684 MES \u4e1a\u52a1\u5206\u6790 Agent\uff5c1 \u79d2\u54cd\u5e94 + MES \u5b9e\u65f6\u96c6\u6210 + \u5b8c\u6574\u5de5\u7a0b\u5316",
+    "id": "Wang-qi-git/langgraph-mes-business-agent",
+    "language": "Python",
+    "name": "Wang-qi-git/langgraph-mes-business-agent",
+    "stars": 0,
+    "updated_at": "2026-10-09T02:53:56Z",
+    "url": "https://github.com/Wang-qi-git/langgraph-mes-business-agent"
+  },
+  {
+    "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
+    "id": "chunleik/self-analyst",
+    "language": "Java",
+    "name": "chunleik/self-analyst",
+    "stars": 0,
+    "updated_at": "2026-10-09T02:48:17Z",
+    "url": "https://github.com/chunleik/self-analyst"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 130,
+    "updated_at": "2026-10-09T02:46:39Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
+    "id": "zty522/partner",
+    "language": "Python",
+    "name": "zty522/partner",
+    "stars": 5,
+    "updated_at": "2026-10-09T02:45:13Z",
+    "url": "https://github.com/zty522/partner"
+  },
+  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-09T02:44:18Z",
+    "updated_at": "2026-10-09T02:53:45Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -16,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T02:33:01Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
-    "id": "chunleik/self-analyst",
-    "language": "Java",
-    "name": "chunleik/self-analyst",
-    "stars": 0,
-    "updated_at": "2026-10-09T02:34:41Z",
-    "url": "https://github.com/chunleik/self-analyst"
   },
   {
     "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
@@ -40,7 +85,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 1121,
+    "stars": 1122,
     "updated_at": "2026-10-09T02:21:55Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -86,7 +131,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 23,
-    "updated_at": "2026-10-09T02:13:25Z",
+    "updated_at": "2026-10-09T02:59:31Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -256,7 +301,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 32927,
+    "stars": 32928,
     "updated_at": "2026-10-09T01:57:15Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-09T01:38:18Z",
     "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-10-09T01:32:14Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 764,
-    "updated_at": "2026-10-09T01:31:04Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 2,
-    "updated_at": "2026-10-09T01:29:45Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "Is your backtest real? Deflated Sharpe Ratio, backtest-overfitting (PBO) and lookahead checks with measured false-positi",
-    "id": "Kuzi-DEV/Tokio-ai",
-    "language": "Python",
-    "name": "Kuzi-DEV/Tokio-ai",
-    "stars": 4,
-    "updated_at": "2026-10-09T01:29:52Z",
-    "url": "https://github.com/Kuzi-DEV/Tokio-ai"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-10-09T01:26:52Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
   }
 ]
