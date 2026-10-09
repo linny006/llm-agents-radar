@@ -1,5 +1,32 @@
 [
   {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 20,
+    "updated_at": "2026-10-09T02:44:18Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-09T02:33:01Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
+    "id": "chunleik/self-analyst",
+    "language": "Java",
+    "name": "chunleik/self-analyst",
+    "stars": 0,
+    "updated_at": "2026-10-09T02:34:41Z",
+    "url": "https://github.com/chunleik/self-analyst"
+  },
+  {
     "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
     "id": "areal-project/AReaL",
     "language": "Python",
@@ -158,7 +185,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-10-09T02:22:03Z",
+    "updated_at": "2026-10-09T02:43:32Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -229,7 +256,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 32925,
+    "stars": 32927,
     "updated_at": "2026-10-09T01:57:15Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -387,15 +414,6 @@
     "url": "https://github.com/Amri854/obsidian-mcp-server"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-09T01:31:54Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-09T01:26:52Z",
     "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Pyt",
-    "id": "feder-cr/invisible_playwright_mcp",
-    "language": "Python",
-    "name": "feder-cr/invisible_playwright_mcp",
-    "stars": 2681,
-    "updated_at": "2026-10-09T01:24:42Z",
-    "url": "https://github.com/feder-cr/invisible_playwright_mcp"
-  },
-  {
-    "description": "Bodhi \u2014 a local-first AI agent workbench in Rust: desktop app, Bamboo runtime, Jiandu shared memory, Nova computer use a",
-    "id": "bigduu/Zenith",
-    "language": "JavaScript",
-    "name": "bigduu/Zenith",
-    "stars": 6,
-    "updated_at": "2026-10-09T01:22:01Z",
-    "url": "https://github.com/bigduu/Zenith"
   }
 ]
