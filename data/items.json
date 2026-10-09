@@ -1,12 +1,75 @@
 [
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8752,
+    "updated_at": "2026-10-09T16:43:55Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
     "id": "OtakuNathan/Pal",
     "language": "Python",
     "name": "OtakuNathan/Pal",
     "stars": 2,
-    "updated_at": "2026-10-09T16:27:46Z",
+    "updated_at": "2026-10-09T16:39:47Z",
     "url": "https://github.com/OtakuNathan/Pal"
+  },
+  {
+    "description": "\u5206\u57df\u53d7\u63a7\u81ea\u4e3e\u667a\u80fd\u4f53\u8fd0\u884c\u65f6. BaijiMind. DolphinMind. Open\u2011source runOpen\u2011source runtime for Domain\u2011Separated Controlled Self\u2011Boot Agent",
+    "id": "CanWeakerWriteStrongCode/DolphinMind",
+    "language": "\u2014",
+    "name": "CanWeakerWriteStrongCode/DolphinMind",
+    "stars": 0,
+    "updated_at": "2026-10-09T16:39:10Z",
+    "url": "https://github.com/CanWeakerWriteStrongCode/DolphinMind"
+  },
+  {
+    "description": "\u5e26\u7b56\u7565\u9a8c\u8bc1\u7684 A \u80a1 LLM \u5206\u6790\u7cfb\u7edf \u2014\u2014 \u591a\u6e90\u964d\u7ea7 + \u5b9a\u65f6\u4efb\u52a1 + \u591a\u901a\u9053\u63a8\u9001\uff1b\u6838\u5fc3\u589e\u91cf\u662f\u53ef\u8bc1\u4f2a\u7684\u56de\u6d4b\u4e0e\u9a8c\u8bc1\u5c42\uff08\u672a\u6765\u51fd\u6570\u63a2\u6d4b / \u6837\u672c\u5185\u5916\u5207\u5206 / t\u68c0\u9a8c / \u57fa\u51c6\u5bf9\u6bd4\uff09",
+    "id": "AandBorC/dsa-lite",
+    "language": "Python",
+    "name": "AandBorC/dsa-lite",
+    "stars": 0,
+    "updated_at": "2026-10-09T16:39:09Z",
+    "url": "https://github.com/AandBorC/dsa-lite"
+  },
+  {
+    "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
+    "id": "roxm337/osint-agent",
+    "language": "Python",
+    "name": "roxm337/osint-agent",
+    "stars": 0,
+    "updated_at": "2026-10-09T16:35:16Z",
+    "url": "https://github.com/roxm337/osint-agent"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 20,
+    "updated_at": "2026-10-09T16:37:45Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 22,
+    "updated_at": "2026-10-09T16:34:14Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
+    "id": "Shuffle-1992/dsh-context-pilot",
+    "language": "JavaScript",
+    "name": "Shuffle-1992/dsh-context-pilot",
+    "stars": 1,
+    "updated_at": "2026-10-09T16:33:32Z",
+    "url": "https://github.com/Shuffle-1992/dsh-context-pilot"
   },
   {
     "description": "Vector database built from scratch in Java with zero dependencies. HNSW, KD-Tree and Brute Force search side by side, pl",
@@ -32,7 +95,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-09T16:22:32Z",
+    "updated_at": "2026-10-09T16:30:24Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -59,17 +122,8 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 25,
-    "updated_at": "2026-10-09T16:29:45Z",
+    "updated_at": "2026-10-09T16:40:19Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 22,
-    "updated_at": "2026-10-09T16:19:07Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
@@ -77,17 +131,8 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 765,
-    "updated_at": "2026-10-09T16:18:13Z",
+    "updated_at": "2026-10-09T16:40:00Z",
     "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
-    "id": "Shuffle-1992/dsh-context-pilot",
-    "language": "JavaScript",
-    "name": "Shuffle-1992/dsh-context-pilot",
-    "stars": 1,
-    "updated_at": "2026-10-09T16:14:50Z",
-    "url": "https://github.com/Shuffle-1992/dsh-context-pilot"
   },
   {
     "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
@@ -153,6 +198,15 @@
     "url": "https://github.com/honestDS/MonoLight"
   },
   {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 189,
+    "updated_at": "2026-10-09T16:01:49Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -160,24 +214,6 @@
     "stars": 2,
     "updated_at": "2026-10-09T16:01:45Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 188,
-    "updated_at": "2026-10-09T16:01:49Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8752,
-    "updated_at": "2026-10-09T15:57:56Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
@@ -196,15 +232,6 @@
     "stars": 3245,
     "updated_at": "2026-10-09T15:52:56Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
-  },
-  {
-    "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
-    "id": "roxm337/osint-agent",
-    "language": "Python",
-    "name": "roxm337/osint-agent",
-    "stars": 0,
-    "updated_at": "2026-10-09T15:52:08Z",
-    "url": "https://github.com/roxm337/osint-agent"
   },
   {
     "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
@@ -320,7 +347,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 817,
-    "updated_at": "2026-10-09T16:00:16Z",
+    "updated_at": "2026-10-09T16:35:21Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -331,15 +358,6 @@
     "stars": 49,
     "updated_at": "2026-10-09T15:27:14Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 20,
-    "updated_at": "2026-10-09T15:54:52Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "Local-first long-term memory and safer context compression for Hermes Agent \u2014 SQLite, no required services.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-09T14:21:29Z",
     "url": "https://github.com/yu-harness/medix-agent-swarm"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 6142,
-    "updated_at": "2026-10-09T16:29:42Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "A bank credit is a bundle of orders, so \"unbundle\" it. Ties each credit back to the orders behind it and says honestly w",
-    "id": "tech-philomath-anjana/unbundle",
-    "language": "HTML",
-    "name": "tech-philomath-anjana/unbundle",
-    "stars": 0,
-    "updated_at": "2026-10-09T14:18:05Z",
-    "url": "https://github.com/tech-philomath-anjana/unbundle"
   }
 ]
