@@ -1,12 +1,120 @@
 [
   {
+    "description": "\u628a\u5927\u6a21\u578b\u5f53\u53f8\u4ee4\u3001\u811a\u672c\u5f53\u624b\u7684 DSH Agent \u9884\u8bbe\uff1a\u5de5\u5177\u91cc\u96f6\u4e1a\u52a1\u5224\u65ad\uff0c\u8ba9\u6a21\u578b\u5728\u8fd0\u884c\u65f6\u81ea\u9002\u5e94\u52a8\u6001\u7ed3\u6784\u7684\u7f51\u7ad9",
+    "id": "LeuJasYoh/dsh-xuexi",
+    "language": "JavaScript",
+    "name": "LeuJasYoh/dsh-xuexi",
+    "stars": 0,
+    "updated_at": "2026-10-09T14:15:05Z",
+    "url": "https://github.com/LeuJasYoh/dsh-xuexi"
+  },
+  {
+    "description": "QQ-BOT-Creative \u00b7 QQ \u7fa4 AI \u7fa4\u53cb\u673a\u5668\u4eba\u3002\u628a QQ \u5c0f\u53f7\u63a5\u7ed9\u4efb\u610f OpenAI \u517c\u5bb9\u6a21\u578b\uff08\u672c\u673a / DeepSeek / \u667a\u8c31 / \u901a\u4e49\uff09\uff0c\u8ba9 AI \u50cf\u7fa4\u53cb\u4e00\u6837\u63d2\u8bdd\u3001\u63a5\u6897\u3001\u6f5c\u6c34\u3002OneBot v11 + NapCat\uff0c",
+    "id": "Canvixel-Eloweny/ai-bot-groupmate",
+    "language": "JavaScript",
+    "name": "Canvixel-Eloweny/ai-bot-groupmate",
+    "stars": 13,
+    "updated_at": "2026-10-09T14:14:09Z",
+    "url": "https://github.com/Canvixel-Eloweny/ai-bot-groupmate"
+  },
+  {
+    "description": "Community DSH host plugin that automatically resumes root-agent sessions after max-token truncation, with bounded retrie",
+    "id": "Wepoi9/dsh-max-token-auto-continue",
+    "language": "TypeScript",
+    "name": "Wepoi9/dsh-max-token-auto-continue",
+    "stars": 0,
+    "updated_at": "2026-10-09T14:12:43Z",
+    "url": "https://github.com/Wepoi9/dsh-max-token-auto-continue"
+  },
+  {
+    "description": "Personal AI agent built from scratch \u2014 LLM layer, RAG knowledge base, tool calling loop. No frameworks, learn by buildin",
+    "id": "Wenyan0315/facta",
+    "language": "Python",
+    "name": "Wenyan0315/facta",
+    "stars": 1,
+    "updated_at": "2026-10-09T14:10:09Z",
+    "url": "https://github.com/Wenyan0315/facta"
+  },
+  {
+    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
+    "id": "zty522/partner",
+    "language": "Python",
+    "name": "zty522/partner",
+    "stars": 5,
+    "updated_at": "2026-10-09T14:08:08Z",
+    "url": "https://github.com/zty522/partner"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 765,
+    "updated_at": "2026-10-09T14:07:08Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 816,
+    "updated_at": "2026-10-09T14:05:41Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
+    "id": "QQSHI13/fox-agent",
+    "language": "TypeScript",
+    "name": "QQSHI13/fox-agent",
+    "stars": 2,
+    "updated_at": "2026-10-09T14:03:30Z",
+    "url": "https://github.com/QQSHI13/fox-agent"
+  },
+  {
     "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
     "id": "wuyhong715/rikkahub-agent-pure",
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 25,
-    "updated_at": "2026-10-09T14:00:02Z",
+    "updated_at": "2026-10-09T14:03:11Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
+  },
+  {
+    "description": "Generate rich YuE2 audio in ComfyUI with six modular nodes\u2014hum-to-song, LoRA and adapter support\u2014no stock nodes needed.",
+    "id": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
+    "language": "Python",
+    "name": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
+    "stars": 1,
+    "updated_at": "2026-10-09T14:02:58Z",
+    "url": "https://github.com/Deborahwalkerz661/ComfyUI-FS_Audio_Suite"
+  },
+  {
+    "description": "Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de",
+    "id": "Jadema5416/ComfyUI-DLSS5-Enhancer",
+    "language": "Python",
+    "name": "Jadema5416/ComfyUI-DLSS5-Enhancer",
+    "stars": 1,
+    "updated_at": "2026-10-09T14:01:46Z",
+    "url": "https://github.com/Jadema5416/ComfyUI-DLSS5-Enhancer"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-10-09T14:01:11Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Sort your Downloads by project, not file type \u2014 with one-command undo. No delete, ever.",
+    "id": "verniceunleaded6135/tidy-undo",
+    "language": "Python",
+    "name": "verniceunleaded6135/tidy-undo",
+    "stars": 0,
+    "updated_at": "2026-10-09T14:00:39Z",
+    "url": "https://github.com/verniceunleaded6135/tidy-undo"
   },
   {
     "description": "Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node\u2014no complex workflows needed.",
@@ -43,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-10-09T13:58:57Z",
     "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
-  },
-  {
-    "description": "QQ-BOT-Creative \u00b7 QQ \u7fa4 AI \u7fa4\u53cb\u673a\u5668\u4eba\u3002\u628a QQ \u5c0f\u53f7\u63a5\u7ed9\u4efb\u610f OpenAI \u517c\u5bb9\u6a21\u578b\uff08\u672c\u673a / DeepSeek / \u667a\u8c31 / \u901a\u4e49\uff09\uff0c\u8ba9 AI \u50cf\u7fa4\u53cb\u4e00\u6837\u63d2\u8bdd\u3001\u63a5\u6897\u3001\u6f5c\u6c34\u3002OneBot v11 + NapCat\uff0c",
-    "id": "Canvixel-Eloweny/ai-bot-groupmate",
-    "language": "JavaScript",
-    "name": "Canvixel-Eloweny/ai-bot-groupmate",
-    "stars": 13,
-    "updated_at": "2026-10-09T13:58:53Z",
-    "url": "https://github.com/Canvixel-Eloweny/ai-bot-groupmate"
   },
   {
     "description": "Automate Elytra flight, navigation, and landing for Meteor Client with intelligent pathfinding and rocket management.",
@@ -162,15 +261,6 @@
     "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
   },
   {
-    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
-    "id": "zty522/partner",
-    "language": "Python",
-    "name": "zty522/partner",
-    "stars": 5,
-    "updated_at": "2026-10-09T13:48:17Z",
-    "url": "https://github.com/zty522/partner"
-  },
-  {
     "description": "Python SDK for durable AI agents: survive crashes, pause for human approval at no cost, scale from a script to a multi-h",
     "id": "initxy/noeta",
     "language": "Python",
@@ -178,6 +268,15 @@
     "stars": 10,
     "updated_at": "2026-10-09T13:48:07Z",
     "url": "https://github.com/initxy/noeta"
+  },
+  {
+    "description": "The local AI workspace with built-in tools. Run deep research, scrape websites, interact with local files, and trigger w",
+    "id": "moyshik7/marnie",
+    "language": "JavaScript",
+    "name": "moyshik7/marnie",
+    "stars": 1,
+    "updated_at": "2026-10-09T14:14:02Z",
+    "url": "https://github.com/moyshik7/marnie"
   },
   {
     "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
@@ -234,15 +333,6 @@
     "url": "https://github.com/Tonyx79/clov-ai"
   },
   {
-    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
-    "id": "QQSHI13/fox-agent",
-    "language": "TypeScript",
-    "name": "QQSHI13/fox-agent",
-    "stars": 2,
-    "updated_at": "2026-10-09T13:41:45Z",
-    "url": "https://github.com/QQSHI13/fox-agent"
-  },
-  {
     "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
     "id": "kyleslight/shun",
     "language": "TypeScript",
@@ -250,15 +340,6 @@
     "stars": 7,
     "updated_at": "2026-10-09T13:40:38Z",
     "url": "https://github.com/kyleslight/shun"
-  },
-  {
-    "description": "Personal AI agent built from scratch \u2014 LLM layer, RAG knowledge base, tool calling loop. No frameworks, learn by buildin",
-    "id": "Wenyan0315/facta",
-    "language": "Python",
-    "name": "Wenyan0315/facta",
-    "stars": 1,
-    "updated_at": "2026-10-09T13:58:06Z",
-    "url": "https://github.com/Wenyan0315/facta"
   },
   {
     "description": "Open-source, self-hostable AppSec agent that finds, proves, and helps fix web/API vulnerabilities \u2014 evidence-first (inde",
@@ -284,7 +365,7 @@
     "language": "TypeScript",
     "name": "Cognipeer/agent-sdk",
     "stars": 7,
-    "updated_at": "2026-10-09T13:37:36Z",
+    "updated_at": "2026-10-09T14:03:23Z",
     "url": "https://github.com/Cognipeer/agent-sdk"
   },
   {
@@ -306,20 +387,11 @@
     "url": "https://github.com/dsswift/ion"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 816,
-    "updated_at": "2026-10-09T13:54:24Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
     "description": "Self-contained bot that plays single-player skirmish matches in the browser game Chrono Divide (web Red Alert 2) using t",
     "id": "ys118/ra2web-jev-player",
     "language": "Python",
     "name": "ys118/ra2web-jev-player",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-10-09T13:34:59Z",
     "url": "https://github.com/ys118/ra2web-jev-player"
   },
@@ -331,15 +403,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T13:31:25Z",
     "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 765,
-    "updated_at": "2026-10-09T13:48:51Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-09T13:25:08Z",
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "Scoped, tool-using DeepSeek audit agent that turns authorized HTTP/TLS checks into reproducible evidence",
-    "id": "kalpak44/deepaudit",
-    "language": "Python",
-    "name": "kalpak44/deepaudit",
-    "stars": 0,
-    "updated_at": "2026-10-09T13:23:56Z",
-    "url": "https://github.com/kalpak44/deepaudit"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-10-09T13:49:40Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "\u589e\u957f\u8425\u9500 Buzz\uff5c\u5f15\u6d41\u5f15\u64ce\u3002Growth Marketer \u2014 the traffic engine that funnels buyers to checkout.",
-    "id": "xhqing/GrowthMarketerAgent",
-    "language": "JavaScript",
-    "name": "xhqing/GrowthMarketerAgent",
-    "stars": 1,
-    "updated_at": "2026-10-09T13:17:06Z",
-    "url": "https://github.com/xhqing/GrowthMarketerAgent"
-  },
-  {
-    "description": "Harness LLMs with Multi-Agent Programming",
-    "id": "langroid/langroid",
-    "language": "Python",
-    "name": "langroid/langroid",
-    "stars": 4113,
-    "updated_at": "2026-10-09T13:15:10Z",
-    "url": "https://github.com/langroid/langroid"
-  },
-  {
-    "description": "Free MIT AI coding agent \u2014 no API key needed. Built-in free model, or bring Claude, GPT, Gemini, DeepSeek, Ollama +50 mo",
-    "id": "dragonked2/alphacode",
-    "language": "Rust",
-    "name": "dragonked2/alphacode",
-    "stars": 245,
-    "updated_at": "2026-10-09T13:14:08Z",
-    "url": "https://github.com/dragonked2/alphacode"
-  },
-  {
-    "description": "\u8f7b\u91cf\u7ea7\u8de8\u5e73\u53f0\u91d1\u878d\u7ec8\u7aef\uff1aC++20/Qt6 \u684c\u9762\u58f3 + \u5d4c\u5165\u5f0f Python \u667a\u80fd\u4f53\u5f15\u64ce\u3002\u81ea\u7814\u957f\u5ea6\u524d\u7f00\u5e27\u534f\u8bae + RPC \u6865\u63a5\uff0c\u591a\u89d2\u8272 LLM \u6295\u59d4\u4f1a\u7f16\u6392\u3001\u5de5\u5177\u8c03\u7528\u4e0e\u6570\u5b57\u6eaf\u6e90\u62a4\u680f\uff0c\u6838\u5fc3\u5e93\u96f6\u7b2c\u4e09\u65b9\u4f9d\u8d56\u3002",
-    "id": "RaganaBloodedge/FinPulseTerminal",
-    "language": "Python",
-    "name": "RaganaBloodedge/FinPulseTerminal",
-    "stars": 0,
-    "updated_at": "2026-10-09T13:09:58Z",
-    "url": "https://github.com/RaganaBloodedge/FinPulseTerminal"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-09T13:20:47Z",
-    "url": "https://github.com/ljchang/mecha"
   }
 ]
