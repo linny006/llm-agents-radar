@@ -1,11 +1,38 @@
 [
   {
+    "description": "Coding agent that plans, changes, tests and reviews, and touches your files only when you approve. Windows, macOS, Linux",
+    "id": "huynvic/albertcode-swe-agent",
+    "language": "Shell",
+    "name": "huynvic/albertcode-swe-agent",
+    "stars": 0,
+    "updated_at": "2026-10-09T01:13:39Z",
+    "url": "https://github.com/huynvic/albertcode-swe-agent"
+  },
+  {
+    "description": "Harness LLMs with Multi-Agent Programming",
+    "id": "langroid/langroid",
+    "language": "Python",
+    "name": "langroid/langroid",
+    "stars": 4113,
+    "updated_at": "2026-10-09T01:03:27Z",
+    "url": "https://github.com/langroid/langroid"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-09T01:00:49Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
     "description": "Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Pyt",
     "id": "feder-cr/invisible_playwright_mcp",
     "language": "Python",
     "name": "feder-cr/invisible_playwright_mcp",
     "stars": 2678,
-    "updated_at": "2026-10-09T00:59:47Z",
+    "updated_at": "2026-10-09T01:07:29Z",
     "url": "https://github.com/feder-cr/invisible_playwright_mcp"
   },
   {
@@ -31,7 +58,7 @@
     "id": "agentsope/SkillAlchemy",
     "language": "Python",
     "name": "agentsope/SkillAlchemy",
-    "stars": 463,
+    "stars": 464,
     "updated_at": "2026-10-09T00:56:08Z",
     "url": "https://github.com/agentsope/SkillAlchemy"
   },
@@ -59,17 +86,8 @@
     "language": "Python",
     "name": "SlavaKlkv/ai_operations_agent",
     "stars": 0,
-    "updated_at": "2026-10-09T00:53:52Z",
+    "updated_at": "2026-10-09T01:03:54Z",
     "url": "https://github.com/SlavaKlkv/ai_operations_agent"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-09T00:49:01Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
@@ -86,7 +104,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-10-09T00:46:31Z",
+    "updated_at": "2026-10-09T01:11:37Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -149,7 +167,7 @@
     "language": "TypeScript",
     "name": "alexwkleung/reika",
     "stars": 6,
-    "updated_at": "2026-10-09T00:29:55Z",
+    "updated_at": "2026-10-09T01:10:39Z",
     "url": "https://github.com/alexwkleung/reika"
   },
   {
@@ -261,15 +279,6 @@
     "url": "https://github.com/NatanTechofNY/fieldnote-assistant"
   },
   {
-    "description": "Harness LLMs with Multi-Agent Programming",
-    "id": "langroid/langroid",
-    "language": "Python",
-    "name": "langroid/langroid",
-    "stars": 4113,
-    "updated_at": "2026-10-08T23:26:58Z",
-    "url": "https://github.com/langroid/langroid"
-  },
-  {
     "description": "MCP server for spatial transcriptomics analysis through natural language interfaces.",
     "id": "cafferychen777/ChatSpatial",
     "language": "Python",
@@ -365,7 +374,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-09T00:54:54Z",
+    "updated_at": "2026-10-09T01:14:58Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-08T22:50:42Z",
     "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
-    "id": "Indrasclerotinia71/local-ai-research-assistant",
-    "language": "Python",
-    "name": "Indrasclerotinia71/local-ai-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-08T22:49:39Z",
-    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
   }
 ]
