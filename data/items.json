@@ -1,5 +1,50 @@
 [
   {
+    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
+    "id": "wuyhong715/rikkahub-agent-pure",
+    "language": "Kotlin",
+    "name": "wuyhong715/rikkahub-agent-pure",
+    "stars": 25,
+    "updated_at": "2026-10-09T15:15:14Z",
+    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8751,
+    "updated_at": "2026-10-09T15:08:57Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
+    "id": "xieguigang/sciBASIC",
+    "language": "Visual Basic .NET",
+    "name": "xieguigang/sciBASIC",
+    "stars": 79,
+    "updated_at": "2026-10-09T15:08:32Z",
+    "url": "https://github.com/xieguigang/sciBASIC"
+  },
+  {
+    "description": "Self-contained bot that plays single-player skirmish matches in the browser game Chrono Divide (web Red Alert 2) using t",
+    "id": "ys118/ra2web-jev-player",
+    "language": "Python",
+    "name": "ys118/ra2web-jev-player",
+    "stars": 1,
+    "updated_at": "2026-10-09T15:07:52Z",
+    "url": "https://github.com/ys118/ra2web-jev-player"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 20,
+    "updated_at": "2026-10-09T15:07:48Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
     "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
     "id": "roxm337/osint-agent",
     "language": "Python",
@@ -99,30 +144,12 @@
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
-    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
-    "id": "xieguigang/sciBASIC",
-    "language": "Visual Basic .NET",
-    "name": "xieguigang/sciBASIC",
-    "stars": 79,
-    "updated_at": "2026-10-09T14:44:26Z",
-    "url": "https://github.com/xieguigang/sciBASIC"
-  },
-  {
-    "description": "Self-contained bot that plays single-player skirmish matches in the browser game Chrono Divide (web Red Alert 2) using t",
-    "id": "ys118/ra2web-jev-player",
-    "language": "Python",
-    "name": "ys118/ra2web-jev-player",
-    "stars": 1,
-    "updated_at": "2026-10-09T14:54:48Z",
-    "url": "https://github.com/ys118/ra2web-jev-player"
-  },
-  {
     "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
     "id": "node9-ai/node9-proxy",
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 218,
-    "updated_at": "2026-10-09T14:53:45Z",
+    "updated_at": "2026-10-09T15:12:33Z",
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
@@ -176,7 +203,7 @@
     "language": "Python",
     "name": "sjhesjaj/GroundedAgent",
     "stars": 0,
-    "updated_at": "2026-10-09T14:22:53Z",
+    "updated_at": "2026-10-09T15:04:10Z",
     "url": "https://github.com/sjhesjaj/GroundedAgent"
   },
   {
@@ -214,15 +241,6 @@
     "stars": 2,
     "updated_at": "2026-10-09T14:17:02Z",
     "url": "https://github.com/QQSHI13/fox-agent"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 20,
-    "updated_at": "2026-10-09T14:53:45Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "\u628a\u5927\u6a21\u578b\u5f53\u53f8\u4ee4\u3001\u811a\u672c\u5f53\u624b\u7684 DSH Agent \u9884\u8bbe\uff1a\u5de5\u5177\u91cc\u96f6\u4e1a\u52a1\u5224\u65ad\uff0c\u8ba9\u6a21\u578b\u5728\u8fd0\u884c\u65f6\u81ea\u9002\u5e94\u52a8\u6001\u7ed3\u6784\u7684\u7f51\u7ad9",
@@ -268,15 +286,6 @@
     "stars": 816,
     "updated_at": "2026-10-09T14:57:41Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
-    "id": "wuyhong715/rikkahub-agent-pure",
-    "language": "Kotlin",
-    "name": "wuyhong715/rikkahub-agent-pure",
-    "stars": 25,
-    "updated_at": "2026-10-09T14:55:03Z",
-    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
     "description": "Generate rich YuE2 audio in ComfyUI with six modular nodes\u2014hum-to-song, LoRA and adapter support\u2014no stock nodes needed.",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-09T14:45:07Z",
     "url": "https://github.com/moyshik7/marnie"
-  },
-  {
-    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
-    "id": "chadwickhyperboloidal943/knowl",
-    "language": "TypeScript",
-    "name": "chadwickhyperboloidal943/knowl",
-    "stars": 0,
-    "updated_at": "2026-10-09T13:45:09Z",
-    "url": "https://github.com/chadwickhyperboloidal943/knowl"
   }
 ]
