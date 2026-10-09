@@ -1,11 +1,65 @@
 [
   {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 764,
+    "updated_at": "2026-10-09T18:00:10Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "DeepSeek Harness na Androidzie w jednym APK, bez Termuxa i roota, z polskim interfejsem i kompletem narz\u0119dzi programisty",
+    "id": "gangg111/DeepSeek-Harness-Mobile",
+    "language": "JavaScript",
+    "name": "gangg111/DeepSeek-Harness-Mobile",
+    "stars": 0,
+    "updated_at": "2026-10-09T17:57:51Z",
+    "url": "https://github.com/gangg111/DeepSeek-Harness-Mobile"
+  },
+  {
+    "description": "Vector database built from scratch in Java with zero dependencies. HNSW, KD-Tree and Brute Force search side by side, pl",
+    "id": "krishkantrai27/StackForge",
+    "language": "Java",
+    "name": "krishkantrai27/StackForge",
+    "stars": 0,
+    "updated_at": "2026-10-09T17:52:40Z",
+    "url": "https://github.com/krishkantrai27/StackForge"
+  },
+  {
+    "description": "Interactive Smith chart with an agentic AI tutor that teaches like a person and grades like an engineer",
+    "id": "sampreethsharma7/smith-chart-tutor",
+    "language": "TypeScript",
+    "name": "sampreethsharma7/smith-chart-tutor",
+    "stars": 0,
+    "updated_at": "2026-10-09T17:49:58Z",
+    "url": "https://github.com/sampreethsharma7/smith-chart-tutor"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8749,
+    "updated_at": "2026-10-09T17:48:13Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-09T17:48:13Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-09T17:43:12Z",
+    "updated_at": "2026-10-09T17:49:31Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -16,24 +70,6 @@
     "stars": 6,
     "updated_at": "2026-10-09T17:43:07Z",
     "url": "https://github.com/Maximooch/penguin"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 764,
-    "updated_at": "2026-10-09T17:42:21Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "Interactive Smith chart with an agentic AI tutor that teaches like a person and grades like an engineer",
-    "id": "sampreethsharma7/smith-chart-tutor",
-    "language": "TypeScript",
-    "name": "sampreethsharma7/smith-chart-tutor",
-    "stars": 0,
-    "updated_at": "2026-10-09T17:41:29Z",
-    "url": "https://github.com/sampreethsharma7/smith-chart-tutor"
   },
   {
     "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
@@ -50,17 +86,8 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-09T17:36:18Z",
+    "updated_at": "2026-10-09T17:49:00Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8750,
-    "updated_at": "2026-10-09T17:43:00Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Application Security orchestration platform",
@@ -176,7 +203,7 @@
     "language": "Go",
     "name": "yurika0211/lucky-agent",
     "stars": 14,
-    "updated_at": "2026-10-09T16:56:53Z",
+    "updated_at": "2026-10-09T17:46:10Z",
     "url": "https://github.com/yurika0211/lucky-agent"
   },
   {
@@ -187,15 +214,6 @@
     "stars": 79,
     "updated_at": "2026-10-09T16:48:15Z",
     "url": "https://github.com/xieguigang/sciBASIC"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-09T16:47:26Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
@@ -232,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-10-09T16:33:32Z",
     "url": "https://github.com/Shuffle-1992/dsh-context-pilot"
-  },
-  {
-    "description": "Vector database built from scratch in Java with zero dependencies. HNSW, KD-Tree and Brute Force search side by side, pl",
-    "id": "krishkantrai27/StackForge",
-    "language": "Java",
-    "name": "krishkantrai27/StackForge",
-    "stars": 0,
-    "updated_at": "2026-10-09T16:24:38Z",
-    "url": "https://github.com/krishkantrai27/StackForge"
   },
   {
     "description": "A self-hosted software factory \u2014 define goals, agents decompose and execute them through enforced pipelines, with humans",
@@ -373,7 +382,7 @@
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
-    "stars": 3245,
+    "stars": 3246,
     "updated_at": "2026-10-09T15:52:56Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-09T15:38:07Z",
     "url": "https://github.com/EauDoon/hermes-parallel-followups"
-  },
-  {
-    "description": "Self-contained bot that plays single-player skirmish matches in the browser game Chrono Divide (web Red Alert 2) using t",
-    "id": "ys118/ra2web-jev-player",
-    "language": "Python",
-    "name": "ys118/ra2web-jev-player",
-    "stars": 1,
-    "updated_at": "2026-10-09T15:34:35Z",
-    "url": "https://github.com/ys118/ra2web-jev-player"
   }
 ]
