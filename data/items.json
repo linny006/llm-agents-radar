@@ -1,12 +1,39 @@
 [
   {
+    "description": "The local AI workspace with built-in tools. Run deep research, scrape websites, interact with local files, and trigger w",
+    "id": "moyshik7/marnie",
+    "language": "JavaScript",
+    "name": "moyshik7/marnie",
+    "stars": 1,
+    "updated_at": "2026-10-09T19:28:31Z",
+    "url": "https://github.com/moyshik7/marnie"
+  },
+  {
     "description": "\u672c\u5730\u4f18\u5148\u3001\u53ef\u56de\u6eaf\u7684 Agent \u65f6\u95f4\u5206\u5c42\u8bb0\u5fc6\u7cfb\u7edf\uff5c\u7eaf Python \u6807\u51c6\u5e93\uff5c196 \u9879\u6d4b\u8bd5 + 13 \u6761\u5ba1\u8ba1\u547d\u4ee4",
     "id": "sins-gif/moonshadow",
     "language": "Python",
     "name": "sins-gif/moonshadow",
     "stars": 0,
-    "updated_at": "2026-10-09T19:11:37Z",
+    "updated_at": "2026-10-09T19:21:49Z",
     "url": "https://github.com/sins-gif/moonshadow"
+  },
+  {
+    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
+    "id": "eshanized/M31A",
+    "language": "Rust",
+    "name": "eshanized/M31A",
+    "stars": 10,
+    "updated_at": "2026-10-09T19:21:21Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-09T19:16:22Z",
+    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -41,7 +68,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-09T18:58:19Z",
+    "updated_at": "2026-10-09T19:23:11Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -59,7 +86,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 765,
-    "updated_at": "2026-10-09T18:52:15Z",
+    "updated_at": "2026-10-09T19:21:53Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -117,15 +144,6 @@
     "url": "https://github.com/SugarMGP/MumuBot"
   },
   {
-    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
-    "id": "eshanized/M31A",
-    "language": "Rust",
-    "name": "eshanized/M31A",
-    "stars": 10,
-    "updated_at": "2026-10-09T18:21:48Z",
-    "url": "https://github.com/eshanized/M31A"
-  },
-  {
     "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
     "id": "zty522/partner",
     "language": "Python",
@@ -176,7 +194,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-09T19:12:45Z",
+    "updated_at": "2026-10-09T19:28:01Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -185,7 +203,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 26,
-    "updated_at": "2026-10-09T18:02:25Z",
+    "updated_at": "2026-10-09T19:21:18Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -239,7 +257,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 27,
-    "updated_at": "2026-10-09T19:07:53Z",
+    "updated_at": "2026-10-09T19:16:27Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 8,
     "updated_at": "2026-10-09T16:02:30Z",
     "url": "https://github.com/honestDS/MonoLight"
-  },
-  {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 190,
-    "updated_at": "2026-10-09T16:01:49Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-10-09T16:01:45Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   }
 ]
