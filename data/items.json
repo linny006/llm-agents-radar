@@ -1,11 +1,56 @@
 [
   {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 817,
+    "updated_at": "2026-10-09T20:59:20Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 5,
+    "updated_at": "2026-10-09T20:58:27Z",
+    "url": "https://github.com/ljedrz/nachalnik"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-09T20:55:26Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-09T20:51:33Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
+    "id": "alexwkleung/reika",
+    "language": "TypeScript",
+    "name": "alexwkleung/reika",
+    "stars": 7,
+    "updated_at": "2026-10-09T20:45:43Z",
+    "url": "https://github.com/alexwkleung/reika"
+  },
+  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-09T20:44:35Z",
+    "updated_at": "2026-10-09T20:56:46Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -41,7 +86,7 @@
     "language": "Dart",
     "name": "justacalico/devinorium",
     "stars": 0,
-    "updated_at": "2026-10-09T20:27:35Z",
+    "updated_at": "2026-10-09T20:51:38Z",
     "url": "https://github.com/justacalico/devinorium"
   },
   {
@@ -79,15 +124,6 @@
     "stars": 11,
     "updated_at": "2026-10-09T20:11:53Z",
     "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-09T20:09:43Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "Vector database built from scratch in Java with zero dependencies. HNSW, KD-Tree and Brute Force search side by side, pl",
@@ -158,7 +194,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 27,
-    "updated_at": "2026-10-09T20:45:08Z",
+    "updated_at": "2026-10-09T20:45:36Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -250,15 +286,6 @@
     "stars": 4,
     "updated_at": "2026-10-09T19:50:55Z",
     "url": "https://github.com/plurnk/plurnk"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-09T19:50:26Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-09T19:21:49Z",
     "url": "https://github.com/sins-gif/moonshadow"
-  },
-  {
-    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
-    "id": "eshanized/M31A",
-    "language": "Rust",
-    "name": "eshanized/M31A",
-    "stars": 10,
-    "updated_at": "2026-10-09T19:21:21Z",
-    "url": "https://github.com/eshanized/M31A"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8749,
-    "updated_at": "2026-10-09T20:43:59Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Application Security orchestration platform",
-    "id": "grauwolf32/contractor",
-    "language": "Go",
-    "name": "grauwolf32/contractor",
-    "stars": 2,
-    "updated_at": "2026-10-09T18:56:48Z",
-    "url": "https://github.com/grauwolf32/contractor"
   }
 ]
