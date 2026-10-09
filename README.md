@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-09 12:30 UTC
+> ⏰ Last updated: 2026-10-09 12:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,27 +42,27 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [kyleslight/shun](https://github.com/kyleslight/shun) | 7 | TypeScript | 2026-10-09 | The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier. |
-| 2 | [wuyhong715/rikkahub-agent-pure](https://github.com/wuyhong715/rikkahub-agent-pure) | 25 | Kotlin | 2026-10-09 | RikkaHub Agent · Pure — an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic |
-| 3 | [givfei5-hash/openhanako-voiceloop-app](https://github.com/givfei5-hash/openhanako-voiceloop-app) | 1 | JavaScript | 2026-10-09 | 让小花开口说话：Hana 助手不再只是个对话框——新会话先打招呼、干活中间报进展、收尾把结论念给你听；三段由应用钩子主动介入、句子由会话模型现写。接上语音输入，小花就是你的贾维斯。（Hana v2 App） |
-| 4 | [Sec-RUM/Local-Pentest-Agent](https://github.com/Sec-RUM/Local-Pentest-Agent) | 0 | Python | 2026-10-09 | 基于本地 Ollama 大模型的全离线 CTF 自动解题 Agent：单文件、纯 Python、四重安全闸门 |
-| 5 | [yologdev/yoagent](https://github.com/yologdev/yoagent) | 343 | Rust | 2026-10-09 | The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done. |
-| 6 | [SugarMGP/MumuBot](https://github.com/SugarMGP/MumuBot) | 25 | Go | 2026-10-09 | 一个会聊天、会记事、会融入群文化的赛博 QQ 群友 |
-| 7 | [zty522/partner](https://github.com/zty522/partner) | 5 | Python | 2026-10-09 | Partner 🤝 Your AI Research Companion. "What have you been doing?" |
-| 8 | [Mirascope/mirascope](https://github.com/Mirascope/mirascope) | 1532 | Python | 2026-10-09 | The LLM Anti-Framework |
-| 9 | [QQSHI13/fox-agent](https://github.com/QQSHI13/fox-agent) | 2 | TypeScript | 2026-10-09 | A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers, |
-| 10 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-10-09 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 11 | [kalpak44/deepaudit](https://github.com/kalpak44/deepaudit) | 0 | Python | 2026-10-09 | Scoped, tool-using DeepSeek audit agent that turns authorized HTTP/TLS checks into reproducible evidence |
-| 12 | [helixml/helix](https://github.com/helixml/helix) | 816 | Go | 2026-10-09 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
-| 13 | [sjhesjaj/GroundedAgent](https://github.com/sjhesjaj/GroundedAgent) | 0 | Python | 2026-10-09 | 电商售后客服 Agent：Tool Calling + Policy Guard + 人工审批 + 幂等执行 + 可验证评测 |
-| 14 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 765 | JavaScript | 2026-10-09 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
-| 15 | [Fongkai777/wechat-agent](https://github.com/Fongkai777/wechat-agent) | 0 | Python | 2026-10-09 | A local, citation-backed knowledge assistant for searching and tracking information across WeChat conversations. |
-| 16 | [tech-philomath-anjana/unbundle](https://github.com/tech-philomath-anjana/unbundle) | 0 | HTML | 2026-10-09 | A bank credit is a bundle of orders, so "unbundle" it. Ties each credit back to the orders behind it and says honestly w |
-| 17 | [langroid/langroid](https://github.com/langroid/langroid) | 4113 | Python | 2026-10-09 | Harness LLMs with Multi-Agent Programming |
-| 18 | [roxm337/osint-agent](https://github.com/roxm337/osint-agent) | 0 | Python | 2026-10-09 | Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b |
-| 19 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 20 | Rust | 2026-10-09 | Bamboo — a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule |
-| 20 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 22 | Python | 2026-10-09 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、HMI和Android双端；LLM 只负责理解与规划，VAL 负责确定性安全执行 |
-| 21 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-09 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
+| 1 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-09 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
+| 2 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 20 | Rust | 2026-10-09 | Bamboo — a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule |
+| 3 | [kyleslight/shun](https://github.com/kyleslight/shun) | 7 | TypeScript | 2026-10-09 | The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier. |
+| 4 | [wuyhong715/rikkahub-agent-pure](https://github.com/wuyhong715/rikkahub-agent-pure) | 25 | Kotlin | 2026-10-09 | RikkaHub Agent · Pure — an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic |
+| 5 | [givfei5-hash/openhanako-voiceloop-app](https://github.com/givfei5-hash/openhanako-voiceloop-app) | 1 | JavaScript | 2026-10-09 | 让小花开口说话：Hana 助手不再只是个对话框——新会话先打招呼、干活中间报进展、收尾把结论念给你听；三段由应用钩子主动介入、句子由会话模型现写。接上语音输入，小花就是你的贾维斯。（Hana v2 App） |
+| 6 | [Sec-RUM/Local-Pentest-Agent](https://github.com/Sec-RUM/Local-Pentest-Agent) | 0 | Python | 2026-10-09 | 基于本地 Ollama 大模型的全离线 CTF 自动解题 Agent：单文件、纯 Python、四重安全闸门 |
+| 7 | [yologdev/yoagent](https://github.com/yologdev/yoagent) | 343 | Rust | 2026-10-09 | The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done. |
+| 8 | [SugarMGP/MumuBot](https://github.com/SugarMGP/MumuBot) | 25 | Go | 2026-10-09 | 一个会聊天、会记事、会融入群文化的赛博 QQ 群友 |
+| 9 | [zty522/partner](https://github.com/zty522/partner) | 5 | Python | 2026-10-09 | Partner 🤝 Your AI Research Companion. "What have you been doing?" |
+| 10 | [Mirascope/mirascope](https://github.com/Mirascope/mirascope) | 1532 | Python | 2026-10-09 | The LLM Anti-Framework |
+| 11 | [QQSHI13/fox-agent](https://github.com/QQSHI13/fox-agent) | 2 | TypeScript | 2026-10-09 | A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers, |
+| 12 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-10-09 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
+| 13 | [kalpak44/deepaudit](https://github.com/kalpak44/deepaudit) | 0 | Python | 2026-10-09 | Scoped, tool-using DeepSeek audit agent that turns authorized HTTP/TLS checks into reproducible evidence |
+| 14 | [helixml/helix](https://github.com/helixml/helix) | 816 | Go | 2026-10-09 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
+| 15 | [sjhesjaj/GroundedAgent](https://github.com/sjhesjaj/GroundedAgent) | 0 | Python | 2026-10-09 | 电商售后客服 Agent：Tool Calling + Policy Guard + 人工审批 + 幂等执行 + 可验证评测 |
+| 16 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 765 | JavaScript | 2026-10-09 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
+| 17 | [Fongkai777/wechat-agent](https://github.com/Fongkai777/wechat-agent) | 0 | Python | 2026-10-09 | A local, citation-backed knowledge assistant for searching and tracking information across WeChat conversations. |
+| 18 | [tech-philomath-anjana/unbundle](https://github.com/tech-philomath-anjana/unbundle) | 0 | HTML | 2026-10-09 | A bank credit is a bundle of orders, so "unbundle" it. Ties each credit back to the orders behind it and says honestly w |
+| 19 | [langroid/langroid](https://github.com/langroid/langroid) | 4113 | Python | 2026-10-09 | Harness LLMs with Multi-Agent Programming |
+| 20 | [roxm337/osint-agent](https://github.com/roxm337/osint-agent) | 0 | Python | 2026-10-09 | Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b |
+| 21 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 22 | Python | 2026-10-09 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、HMI和Android双端；LLM 只负责理解与规划，VAL 负责确定性安全执行 |
 | 22 | [Lullow/personal-life-agent](https://github.com/Lullow/personal-life-agent) | 0 | Python | 2026-10-09 | Conversational terminal assistant for tasks, calendar events and reminders - understands free-text Swedish and English. |
 | 23 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 1 | TypeScript | 2026-10-09 | Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers. |
 | 24 | [NitinReddy-A/Rampart](https://github.com/NitinReddy-A/Rampart) | 2 | Python | 2026-10-09 | Open-source, self-hostable AppSec agent that finds, proves, and helps fix web/API vulnerabilities — evidence-first (inde |

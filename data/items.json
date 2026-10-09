@@ -1,5 +1,23 @@
 [
   {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-09T12:43:19Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 20,
+    "updated_at": "2026-10-09T12:38:04Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
     "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
     "id": "kyleslight/shun",
     "language": "TypeScript",
@@ -23,7 +41,7 @@
     "language": "JavaScript",
     "name": "givfei5-hash/openhanako-voiceloop-app",
     "stars": 1,
-    "updated_at": "2026-10-09T12:26:47Z",
+    "updated_at": "2026-10-09T12:36:45Z",
     "url": "https://github.com/givfei5-hash/openhanako-voiceloop-app"
   },
   {
@@ -113,7 +131,7 @@
     "language": "Python",
     "name": "sjhesjaj/GroundedAgent",
     "stars": 0,
-    "updated_at": "2026-10-09T12:09:47Z",
+    "updated_at": "2026-10-09T12:35:47Z",
     "url": "https://github.com/sjhesjaj/GroundedAgent"
   },
   {
@@ -122,7 +140,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 765,
-    "updated_at": "2026-10-09T12:09:50Z",
+    "updated_at": "2026-10-09T12:38:08Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -162,15 +180,6 @@
     "url": "https://github.com/roxm337/osint-agent"
   },
   {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 20,
-    "updated_at": "2026-10-09T12:27:54Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
     "id": "SuperdeMan/cockpit-agent",
     "language": "Python",
@@ -178,15 +187,6 @@
     "stars": 22,
     "updated_at": "2026-10-09T11:42:46Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-09T11:42:12Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Conversational terminal assistant for tasks, calendar events and reminders - understands free-text Swedish and English.",
