@@ -1,12 +1,75 @@
 [
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8749,
+    "updated_at": "2026-10-09T18:13:33Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 764,
-    "updated_at": "2026-10-09T18:00:10Z",
+    "updated_at": "2026-10-09T18:12:45Z",
     "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "Bodhi \u2014 a local-first AI agent workbench in Rust: desktop app, Bamboo runtime, Jiandu shared memory, Nova computer use a",
+    "id": "bigduu/Zenith",
+    "language": "JavaScript",
+    "name": "bigduu/Zenith",
+    "stars": 6,
+    "updated_at": "2026-10-09T18:12:31Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "Interactive Smith chart with an agentic AI tutor that teaches like a person and grades like an engineer",
+    "id": "sampreethsharma7/smith-chart-tutor",
+    "language": "TypeScript",
+    "name": "sampreethsharma7/smith-chart-tutor",
+    "stars": 0,
+    "updated_at": "2026-10-09T18:11:14Z",
+    "url": "https://github.com/sampreethsharma7/smith-chart-tutor"
+  },
+  {
+    "description": "MCP server for spatial transcriptomics analysis through natural language interfaces.",
+    "id": "cafferychen777/ChatSpatial",
+    "language": "Python",
+    "name": "cafferychen777/ChatSpatial",
+    "stars": 44,
+    "updated_at": "2026-10-09T18:10:28Z",
+    "url": "https://github.com/cafferychen777/ChatSpatial"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-09T18:08:19Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
+    "id": "wuyhong715/rikkahub-agent-pure",
+    "language": "Kotlin",
+    "name": "wuyhong715/rikkahub-agent-pure",
+    "stars": 26,
+    "updated_at": "2026-10-09T18:02:25Z",
+    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
+  },
+  {
+    "description": "Application Security orchestration platform",
+    "id": "grauwolf32/contractor",
+    "language": "Go",
+    "name": "grauwolf32/contractor",
+    "stars": 2,
+    "updated_at": "2026-10-09T18:02:24Z",
+    "url": "https://github.com/grauwolf32/contractor"
   },
   {
     "description": "DeepSeek Harness na Androidzie w jednym APK, bez Termuxa i roota, z polskim interfejsem i kompletem narz\u0119dzi programisty",
@@ -25,24 +88,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T17:52:40Z",
     "url": "https://github.com/krishkantrai27/StackForge"
-  },
-  {
-    "description": "Interactive Smith chart with an agentic AI tutor that teaches like a person and grades like an engineer",
-    "id": "sampreethsharma7/smith-chart-tutor",
-    "language": "TypeScript",
-    "name": "sampreethsharma7/smith-chart-tutor",
-    "stars": 0,
-    "updated_at": "2026-10-09T17:49:58Z",
-    "url": "https://github.com/sampreethsharma7/smith-chart-tutor"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8749,
-    "updated_at": "2026-10-09T17:48:13Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -81,24 +126,6 @@
     "url": "https://github.com/roxm337/osint-agent"
   },
   {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-09T17:49:00Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Application Security orchestration platform",
-    "id": "grauwolf32/contractor",
-    "language": "Go",
-    "name": "grauwolf32/contractor",
-    "stars": 2,
-    "updated_at": "2026-10-09T17:27:46Z",
-    "url": "https://github.com/grauwolf32/contractor"
-  },
-  {
     "description": "Local-first desktop career OS: generated daily plan, pipeline, learning tracks, certifications and a portfolio ship-chec",
     "id": "aaronk2001/ascent-career-os",
     "language": "Python",
@@ -131,7 +158,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4444,
-    "updated_at": "2026-10-09T17:36:07Z",
+    "updated_at": "2026-10-09T18:08:22Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -140,7 +167,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-10-09T17:16:57Z",
+    "updated_at": "2026-10-09T18:03:45Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -167,7 +194,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-10-09T17:41:59Z",
+    "updated_at": "2026-10-09T18:03:51Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -277,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T16:20:29Z",
     "url": "https://github.com/natonet-labs/voice-agent"
-  },
-  {
-    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
-    "id": "wuyhong715/rikkahub-agent-pure",
-    "language": "Kotlin",
-    "name": "wuyhong715/rikkahub-agent-pure",
-    "stars": 25,
-    "updated_at": "2026-10-09T17:39:06Z",
-    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
     "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-09T15:37:34Z",
     "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Pyt",
-    "id": "feder-cr/invisible_playwright_mcp",
-    "language": "Python",
-    "name": "feder-cr/invisible_playwright_mcp",
-    "stars": 2698,
-    "updated_at": "2026-10-09T15:34:46Z",
-    "url": "https://github.com/feder-cr/invisible_playwright_mcp"
-  },
-  {
-    "description": "Two MIT patches for Nous Research Hermes: stop busy-queue messages merging into one jumbled turn, and optionally run sel",
-    "id": "EauDoon/hermes-parallel-followups",
-    "language": "Python",
-    "name": "EauDoon/hermes-parallel-followups",
-    "stars": 0,
-    "updated_at": "2026-10-09T15:38:07Z",
-    "url": "https://github.com/EauDoon/hermes-parallel-followups"
   }
 ]
