@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-09 07:30 UTC
+> ⏰ Last updated: 2026-10-09 07:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 11 | Python | 2026-10-09 | Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT. |
-| 2 | [bettersilvanus849/inner-coordinates](https://github.com/bettersilvanus849/inner-coordinates) | 1 | Shell | 2026-10-09 | Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s |
-| 3 | [wufufu770/d2d](https://github.com/wufufu770/d2d) | 4 | JavaScript | 2026-10-09 | 三环并行渗透测试 dsh 插件 — discovery/deep/creative 三环 + 独立 verify 闭环，Kuzu 图黑板共享状态，多 agent 自调度、按角色模型策略、自学习知识脑。仅用于授权安全测试（SRC/靶场/自有资 |
-| 4 | [Blaz742/web-pentest-lab](https://github.com/Blaz742/web-pentest-lab) | 0 | — | 2026-10-09 | Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets. |
-| 5 | [Elevated-homer201/prompt-gate](https://github.com/Elevated-homer201/prompt-gate) | 1 | — | 2026-10-09 | Filter LLM prompts and shield applications from data leakage using a specialized security gateway. |
-| 6 | [Indrasclerotinia71/local-ai-research-assistant](https://github.com/Indrasclerotinia71/local-ai-research-assistant) | 0 | Python | 2026-10-09 | Automate research tasks with local LLMs, real-time web search, and structured report generation. |
-| 7 | [Furrowed-subphylumurochorda108/kimi-K2.6](https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6) | 3 | Python | 2026-10-09 | Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model. |
-| 8 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-10-09 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 9 | [mpardakaskon-boop/obsidian-llm-wiki-local](https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local) | 1 | — | 2026-10-09 | Query your Obsidian vault using local LLMs to generate text and retrieve information. |
-| 10 | [frontierlabai/JevHub](https://github.com/frontierlabai/JevHub) | 7 | Python | 2026-10-09 | JevHub · Jev 生态热榜 把值得关注的 Jev 项目、教程和讨论，汇到一页。 自动发现 · 每日更新 · 按 Stars 排序 · 中英双语 |
-| 11 | [HELLOCODINGTR/AgentForge](https://github.com/HELLOCODINGTR/AgentForge) | 1 | — | 2026-10-09 | Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API  |
-| 12 | [strobilevitellus470/argus-ai](https://github.com/strobilevitellus470/argus-ai) | 1 | Python | 2026-10-09 | Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa |
-| 13 | [addsumtech/job-hunt](https://github.com/addsumtech/job-hunt) | 5 | Python | 2026-10-09 | 适用于 Claude Code 和 Codex 的求职 Skill：查找岗位、判断是否值得投递、制作简历与申请材料、检验申请材料并模拟面试。不编造技能或业绩数字，不预测录用概率；检查简历是否便于招聘管理系统（ATS）读取，并从招聘人员和用人 |
-| 14 | [juandavidru4641/dsplab](https://github.com/juandavidru4641/dsplab) | 0 | JavaScript | 2026-10-09 | Develop DSP tools and prototypes quickly with DSPLab’s environment, combining optimized code, safe testing, and embedded |
-| 15 | [laoxs2002/genai-agentes](https://github.com/laoxs2002/genai-agentes) | 0 | Jupyter Notebook | 2026-10-09 | Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a |
-| 16 | [heba-ramdan/harness](https://github.com/heba-ramdan/harness) | 1 | TypeScript | 2026-10-09 | Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the  |
-| 17 | [Ronit0p/AutoGod](https://github.com/Ronit0p/AutoGod) | 0 | Java | 2026-10-09 | Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft  |
-| 18 | [lukky262/ARE](https://github.com/lukky262/ARE) | 1 | — | 2026-10-09 | Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a |
-| 19 | [weihuaguo270-ops/react-agent](https://github.com/weihuaguo270-ops/react-agent) | 0 | Python | 2026-10-09 | Agent 业务执行底座：受控工具调用、多应用 HTTP、可审计轨迹与回归闭环 |
-| 20 | [hichamnes-prog/exforum-auto-poster](https://github.com/hichamnes-prog/exforum-auto-poster) | 1 | Python | 2026-10-09 |  |
-| 21 | [Hayliy/naixi-desktop](https://github.com/Hayliy/naixi-desktop) | 0 | Python | 2026-10-09 | 本地优先的桌面 AI 智能体：对话 / 桌宠 / 直播互动 / 工作流 / 自动化 / 知识库 / 记忆，模型调用走你自己的 Key，数据留在本机。Tauri 2 + React 19 + Python 3.13。 |
-| 22 | [Sigmanih/SigmaStudio](https://github.com/Sigmanih/SigmaStudio) | 8 | Python | 2026-10-09 | Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode |
-| 23 | [muhzars/Agent.cpp](https://github.com/muhzars/Agent.cpp) | 1 | C++ | 2026-10-09 | ⚡ Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo |
-| 24 | [faheela-786/ComfyUI-qwenmultiangle](https://github.com/faheela-786/ComfyUI-qwenmultiangle) | 2 | — | 2026-10-09 | 🎥 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp |
-| 25 | [amineeng/scraping-browser](https://github.com/amineeng/scraping-browser) | 1 | — | 2026-10-09 | 🔍 Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo |
-| 26 | [diraigent/diraigent](https://github.com/diraigent/diraigent) | 21 | Rust | 2026-10-09 | A self-hosted software factory — define goals, agents decompose and execute them through enforced pipelines, with humans |
-| 27 | [Saran1536/ComfyUI-LoaderUtils](https://github.com/Saran1536/ComfyUI-LoaderUtils) | 1 | Python | 2026-10-09 | 🔄 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m |
-| 28 | [piporyx/doc-qa-agent](https://github.com/piporyx/doc-qa-agent) | 0 | Python | 2026-10-09 | 🤖 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad |
-| 29 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 14 | Go | 2026-10-09 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
-| 30 | [Amri854/obsidian-mcp-server](https://github.com/Amri854/obsidian-mcp-server) | 0 | TypeScript | 2026-10-09 | 🗂️ Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys |
-| 31 | [wuyhong715/rikkahub-agent-pure](https://github.com/wuyhong715/rikkahub-agent-pure) | 24 | Kotlin | 2026-10-09 | RikkaHub Agent · Pure — an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic |
-| 32 | [irandysousa/langgraph-llama-cpp-starter](https://github.com/irandysousa/langgraph-llama-cpp-starter) | 2 | Python | 2026-10-09 | 🤖 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva |
-| 33 | [JortegaR/ai-notes-api](https://github.com/JortegaR/ai-notes-api) | 1 | JavaScript | 2026-10-09 |  |
-| 34 | [holylong/luban](https://github.com/holylong/luban) | 0 | TypeScript | 2026-10-09 | AI coding agent for terminal, desktop and browser. Visible execution records, LAN mesh collaboration across machines, ph |
-| 35 | [agentpit-io/hunter-community](https://github.com/agentpit-io/hunter-community) | 573 | Python | 2026-10-09 | HunterCode · Community Edition · 腾讯 WorkBuddy 金融版的开源本地替代方案 · open-source, local alternative to Tencent WorkBuddy Finance |
-| 36 | [TomKoren1/dave.io_home-assignment](https://github.com/TomKoren1/dave.io_home-assignment) | 0 | TypeScript | 2026-10-09 | Read-only AWS inventory with a graph model and an LLM agent that answers security questions with validated citations. Po |
-| 37 | [chlniubi23/ecommerce-ai-customer-service-agent](https://github.com/chlniubi23/ecommerce-ai-customer-service-agent) | 0 | Python | 2026-10-09 | E-commerce AI customer service agent: intent routing, FSM multi-turn dialogs, confirmation-gated write ops, RAG hybrid r |
-| 38 | [xieguigang/sciBASIC](https://github.com/xieguigang/sciBASIC) | 79 | Visual Basic .NET | 2026-10-09 | A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler |
-| 39 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-09 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
-| 40 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-10-09 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 41 | [zty522/partner](https://github.com/zty522/partner) | 5 | Python | 2026-10-09 | Partner 🤝 Your AI Research Companion. "What have you been doing?" |
-| 42 | [chunleik/self-analyst](https://github.com/chunleik/self-analyst) | 0 | Java | 2026-10-09 | A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent |
-| 43 | [zych2002918/tcms-agent](https://github.com/zych2002918/tcms-agent) | 0 | Python | 2026-10-09 | 面向列车网络控制系统（TCMS/CAN）的测试平台，外加一层 AI 测试 Agent：查知识库、造用例、在本机真跑，结论带引用、能逐条核对。引擎 960 条报文用例、203 条 FMEA、104 个可执行场景都是真资产，覆盖率 97.96% |
-| 44 | [dkblinux98/nyxGPT](https://github.com/dkblinux98/nyxGPT) | 0 | Python | 2026-10-09 | Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi |
-| 45 | [ongridio/ongrid](https://github.com/ongridio/ongrid) | 1127 | Go | 2026-10-09 | An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, L |
-| 46 | [yologdev/yoagent](https://github.com/yologdev/yoagent) | 341 | Rust | 2026-10-09 | The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done. |
-| 47 | [cheeezis/job_finder](https://github.com/cheeezis/job_finder) | 0 | Python | 2026-10-09 | Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules  |
-| 48 | [Hrecer/LinkPocket](https://github.com/Hrecer/LinkPocket) | 0 | C# | 2026-10-09 | A local-first, standalone personal knowledge base for Windows. Import, organize, and create your own links — no browser  |
-| 49 | [edjafarov/kiagent-core](https://github.com/edjafarov/kiagent-core) | 7 | TypeScript | 2026-10-09 | kiagent-core — open-source personal AI brain — local, open source, speaks MCP |
-| 50 | [sjhesjaj/GroundedAgent](https://github.com/sjhesjaj/GroundedAgent) | 0 | Python | 2026-10-09 | 电商售后客服 Agent：Tool Calling + Policy Guard + 人工审批 + 幂等执行 + 可验证评测 |
+| 1 | [arlen-liang/nest-sync](https://github.com/arlen-liang/nest-sync) | 1 | Shell | 2026-10-09 | 多台服务器上的 agent 如何共享同一份上下文与技能：从备忘录唤回、技能迭代分发到跨端通信的自托管方案。How agents on different servers share one set of context and skills |
+| 2 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 20 | Rust | 2026-10-09 | Bamboo — a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule |
+| 3 | [cheeezis/job_finder](https://github.com/cheeezis/job_finder) | 0 | Python | 2026-10-09 | Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules  |
+| 4 | [yologdev/yoagent](https://github.com/yologdev/yoagent) | 341 | Rust | 2026-10-09 | The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done. |
+| 5 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-09 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
+| 6 | [rugose-learnedprofession58/pi-dsh](https://github.com/rugose-learnedprofession58/pi-dsh) | 0 | TypeScript | 2026-10-09 | Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting |
+| 7 | [abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder](https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder) | 2 | JavaScript | 2026-10-09 | Build structured prompts with reference media for MiniMax H3 video model in ComfyUI. |
+| 8 | [passive-hotpepper515/area-checker-html-tool](https://github.com/passive-hotpepper515/area-checker-html-tool) | 0 | HTML | 2026-10-09 | Verify area values quickly with this web-based HTML calculator tool. |
+| 9 | [xianyu-sheng/Xenon](https://github.com/xianyu-sheng/Xenon) | 53 | Python | 2026-10-09 | 🚀 Xenon 0.9.2 — 可验证的 AI coding agent runtime：单一任务状态机、证据驱动执行、7 种推理范式、MCP、多模型与 Windows/GBK 兼容。 |
+| 10 | [Blondieredistributed612/pocket-agent](https://github.com/Blondieredistributed612/pocket-agent) | 3 | Python | 2026-10-09 | Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte |
+| 11 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 11 | Python | 2026-10-09 | Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT. |
+| 12 | [bettersilvanus849/inner-coordinates](https://github.com/bettersilvanus849/inner-coordinates) | 1 | Shell | 2026-10-09 | Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s |
+| 13 | [wufufu770/d2d](https://github.com/wufufu770/d2d) | 4 | JavaScript | 2026-10-09 | 三环并行渗透测试 dsh 插件 — discovery/deep/creative 三环 + 独立 verify 闭环，Kuzu 图黑板共享状态，多 agent 自调度、按角色模型策略、自学习知识脑。仅用于授权安全测试（SRC/靶场/自有资 |
+| 14 | [Blaz742/web-pentest-lab](https://github.com/Blaz742/web-pentest-lab) | 0 | — | 2026-10-09 | Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets. |
+| 15 | [Elevated-homer201/prompt-gate](https://github.com/Elevated-homer201/prompt-gate) | 1 | — | 2026-10-09 | Filter LLM prompts and shield applications from data leakage using a specialized security gateway. |
+| 16 | [Indrasclerotinia71/local-ai-research-assistant](https://github.com/Indrasclerotinia71/local-ai-research-assistant) | 0 | Python | 2026-10-09 | Automate research tasks with local LLMs, real-time web search, and structured report generation. |
+| 17 | [Furrowed-subphylumurochorda108/kimi-K2.6](https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6) | 3 | Python | 2026-10-09 | Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model. |
+| 18 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-10-09 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
+| 19 | [mpardakaskon-boop/obsidian-llm-wiki-local](https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local) | 1 | — | 2026-10-09 | Query your Obsidian vault using local LLMs to generate text and retrieve information. |
+| 20 | [frontierlabai/JevHub](https://github.com/frontierlabai/JevHub) | 7 | Python | 2026-10-09 | JevHub · Jev 生态热榜 把值得关注的 Jev 项目、教程和讨论，汇到一页。 自动发现 · 每日更新 · 按 Stars 排序 · 中英双语 |
+| 21 | [HELLOCODINGTR/AgentForge](https://github.com/HELLOCODINGTR/AgentForge) | 1 | — | 2026-10-09 | Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API  |
+| 22 | [strobilevitellus470/argus-ai](https://github.com/strobilevitellus470/argus-ai) | 1 | Python | 2026-10-09 | Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa |
+| 23 | [addsumtech/job-hunt](https://github.com/addsumtech/job-hunt) | 5 | Python | 2026-10-09 | 适用于 Claude Code 和 Codex 的求职 Skill：查找岗位、判断是否值得投递、制作简历与申请材料、检验申请材料并模拟面试。不编造技能或业绩数字，不预测录用概率；检查简历是否便于招聘管理系统（ATS）读取，并从招聘人员和用人 |
+| 24 | [juandavidru4641/dsplab](https://github.com/juandavidru4641/dsplab) | 0 | JavaScript | 2026-10-09 | Develop DSP tools and prototypes quickly with DSPLab’s environment, combining optimized code, safe testing, and embedded |
+| 25 | [laoxs2002/genai-agentes](https://github.com/laoxs2002/genai-agentes) | 0 | Jupyter Notebook | 2026-10-09 | Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a |
+| 26 | [songhting/macrobuddy](https://github.com/songhting/macrobuddy) | 1 | Python | 2026-10-09 | Nutrition-aware McDonald's China MCP skill: pick the best combo under calorie, protein and coupon constraints. |
+| 27 | [heba-ramdan/harness](https://github.com/heba-ramdan/harness) | 1 | TypeScript | 2026-10-09 | Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the  |
+| 28 | [Ronit0p/AutoGod](https://github.com/Ronit0p/AutoGod) | 0 | Java | 2026-10-09 | Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft  |
+| 29 | [lukky262/ARE](https://github.com/lukky262/ARE) | 1 | — | 2026-10-09 | Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a |
+| 30 | [weihuaguo270-ops/react-agent](https://github.com/weihuaguo270-ops/react-agent) | 0 | Python | 2026-10-09 | Agent 业务执行底座：受控工具调用、多应用 HTTP、可审计轨迹与回归闭环 |
+| 31 | [hichamnes-prog/exforum-auto-poster](https://github.com/hichamnes-prog/exforum-auto-poster) | 1 | Python | 2026-10-09 |  |
+| 32 | [Hayliy/naixi-desktop](https://github.com/Hayliy/naixi-desktop) | 0 | Python | 2026-10-09 | 本地优先的桌面 AI 智能体：对话 / 桌宠 / 直播互动 / 工作流 / 自动化 / 知识库 / 记忆，模型调用走你自己的 Key，数据留在本机。Tauri 2 + React 19 + Python 3.13。 |
+| 33 | [Sigmanih/SigmaStudio](https://github.com/Sigmanih/SigmaStudio) | 8 | Python | 2026-10-09 | Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode |
+| 34 | [muhzars/Agent.cpp](https://github.com/muhzars/Agent.cpp) | 1 | C++ | 2026-10-09 | ⚡ Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo |
+| 35 | [faheela-786/ComfyUI-qwenmultiangle](https://github.com/faheela-786/ComfyUI-qwenmultiangle) | 2 | — | 2026-10-09 | 🎥 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp |
+| 36 | [amineeng/scraping-browser](https://github.com/amineeng/scraping-browser) | 1 | — | 2026-10-09 | 🔍 Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo |
+| 37 | [diraigent/diraigent](https://github.com/diraigent/diraigent) | 21 | Rust | 2026-10-09 | A self-hosted software factory — define goals, agents decompose and execute them through enforced pipelines, with humans |
+| 38 | [Saran1536/ComfyUI-LoaderUtils](https://github.com/Saran1536/ComfyUI-LoaderUtils) | 1 | Python | 2026-10-09 | 🔄 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m |
+| 39 | [piporyx/doc-qa-agent](https://github.com/piporyx/doc-qa-agent) | 0 | Python | 2026-10-09 | 🤖 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad |
+| 40 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 14 | Go | 2026-10-09 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
+| 41 | [Amri854/obsidian-mcp-server](https://github.com/Amri854/obsidian-mcp-server) | 0 | TypeScript | 2026-10-09 | 🗂️ Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys |
+| 42 | [wuyhong715/rikkahub-agent-pure](https://github.com/wuyhong715/rikkahub-agent-pure) | 24 | Kotlin | 2026-10-09 | RikkaHub Agent · Pure — an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic |
+| 43 | [irandysousa/langgraph-llama-cpp-starter](https://github.com/irandysousa/langgraph-llama-cpp-starter) | 2 | Python | 2026-10-09 | 🤖 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva |
+| 44 | [JortegaR/ai-notes-api](https://github.com/JortegaR/ai-notes-api) | 1 | JavaScript | 2026-10-09 |  |
+| 45 | [holylong/luban](https://github.com/holylong/luban) | 0 | TypeScript | 2026-10-09 | AI coding agent for terminal, desktop and browser. Visible execution records, LAN mesh collaboration across machines, ph |
+| 46 | [agentpit-io/hunter-community](https://github.com/agentpit-io/hunter-community) | 573 | Python | 2026-10-09 | HunterCode · Community Edition · 腾讯 WorkBuddy 金融版的开源本地替代方案 · open-source, local alternative to Tencent WorkBuddy Finance |
+| 47 | [TomKoren1/dave.io_home-assignment](https://github.com/TomKoren1/dave.io_home-assignment) | 0 | TypeScript | 2026-10-09 | Read-only AWS inventory with a graph model and an LLM agent that answers security questions with validated citations. Po |
+| 48 | [chlniubi23/ecommerce-ai-customer-service-agent](https://github.com/chlniubi23/ecommerce-ai-customer-service-agent) | 0 | Python | 2026-10-09 | E-commerce AI customer service agent: intent routing, FSM multi-turn dialogs, confirmation-gated write ops, RAG hybrid r |
+| 49 | [xieguigang/sciBASIC](https://github.com/xieguigang/sciBASIC) | 79 | Visual Basic .NET | 2026-10-09 | A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler |
+| 50 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-10-09 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
 <!-- TRACKER_TABLE_END -->
 
 ---
