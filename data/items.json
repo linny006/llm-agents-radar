@@ -1,21 +1,66 @@
 [
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 765,
-    "updated_at": "2026-10-09T17:14:51Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
     "description": "Application Security orchestration platform",
     "id": "grauwolf32/contractor",
     "language": "Go",
     "name": "grauwolf32/contractor",
     "stars": 2,
-    "updated_at": "2026-10-09T17:12:19Z",
+    "updated_at": "2026-10-09T17:27:46Z",
     "url": "https://github.com/grauwolf32/contractor"
+  },
+  {
+    "description": "Local-first desktop career OS: generated daily plan, pipeline, learning tracks, certifications and a portfolio ship-chec",
+    "id": "aaronk2001/ascent-career-os",
+    "language": "Python",
+    "name": "aaronk2001/ascent-career-os",
+    "stars": 0,
+    "updated_at": "2026-10-09T17:22:41Z",
+    "url": "https://github.com/aaronk2001/ascent-career-os"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 27,
+    "updated_at": "2026-10-09T17:21:17Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 130,
+    "updated_at": "2026-10-09T17:18:39Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4444,
+    "updated_at": "2026-10-09T17:21:52Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-10-09T17:16:57Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8751,
+    "updated_at": "2026-10-09T17:15:25Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Interactive Smith chart with an agentic AI tutor that teaches like a person and grades like an engineer",
@@ -23,8 +68,17 @@
     "language": "TypeScript",
     "name": "sampreethsharma7/smith-chart-tutor",
     "stars": 0,
-    "updated_at": "2026-10-09T17:08:42Z",
+    "updated_at": "2026-10-09T17:15:19Z",
     "url": "https://github.com/sampreethsharma7/smith-chart-tutor"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 765,
+    "updated_at": "2026-10-09T17:27:03Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
@@ -41,7 +95,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-10-09T17:04:00Z",
+    "updated_at": "2026-10-09T17:16:19Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -97,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T16:47:26Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8752,
-    "updated_at": "2026-10-09T17:12:02Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
@@ -185,7 +230,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-09T17:14:49Z",
+    "updated_at": "2026-10-09T17:25:26Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -221,7 +266,7 @@
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 218,
-    "updated_at": "2026-10-09T16:14:14Z",
+    "updated_at": "2026-10-09T17:28:10Z",
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
@@ -292,7 +337,7 @@
     "id": "bigfish1913/pi-rust",
     "language": "Rust",
     "name": "bigfish1913/pi-rust",
-    "stars": 71,
+    "stars": 72,
     "updated_at": "2026-10-09T15:53:54Z",
     "url": "https://github.com/bigfish1913/pi-rust"
   },
@@ -403,50 +448,5 @@
     "stars": 817,
     "updated_at": "2026-10-09T16:35:21Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 49,
-    "updated_at": "2026-10-09T15:27:14Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 26,
-    "updated_at": "2026-10-09T15:08:23Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "Local-first long-term memory and safer context compression for Hermes Agent \u2014 SQLite, no required services.",
-    "id": "indigokarasu/chronicle-agent-context-and-memory",
-    "language": "Python",
-    "name": "indigokarasu/chronicle-agent-context-and-memory",
-    "stars": 9,
-    "updated_at": "2026-10-09T14:55:46Z",
-    "url": "https://github.com/indigokarasu/chronicle-agent-context-and-memory"
-  },
-  {
-    "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
-    "id": "weihuaguo270-ops/react-agent",
-    "language": "Python",
-    "name": "weihuaguo270-ops/react-agent",
-    "stars": 0,
-    "updated_at": "2026-10-09T14:54:38Z",
-    "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
-    "description": "Scoped, tool-using DeepSeek audit agent that turns authorized HTTP/TLS checks into reproducible evidence",
-    "id": "kalpak44/deepaudit",
-    "language": "Python",
-    "name": "kalpak44/deepaudit",
-    "stars": 0,
-    "updated_at": "2026-10-09T14:49:01Z",
-    "url": "https://github.com/kalpak44/deepaudit"
   }
 ]
