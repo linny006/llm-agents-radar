@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "SuperdeMan/cockpit-agent",
     "stars": 22,
-    "updated_at": "2026-10-10T03:13:48Z",
+    "updated_at": "2026-10-10T03:29:50Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "LangGraph agent powering an AI voice assistant, served as an OpenAI-compatible custom LLM endpoint on a bare-metal K3s c",
+    "id": "natonet-labs/voice-agent",
+    "language": "Python",
+    "name": "natonet-labs/voice-agent",
+    "stars": 0,
+    "updated_at": "2026-10-10T03:23:26Z",
+    "url": "https://github.com/natonet-labs/voice-agent"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 32996,
+    "updated_at": "2026-10-10T03:20:54Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "Your personal agent, on your own machine. Change the AI underneath (Ollama, OpenAI, Anthropic, Codex, Claude Code); keep",
+    "id": "Jongtae/agentos",
+    "language": "Python",
+    "name": "Jongtae/agentos",
+    "stars": 0,
+    "updated_at": "2026-10-10T03:20:35Z",
+    "url": "https://github.com/Jongtae/agentos"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 20,
+    "updated_at": "2026-10-10T03:26:21Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "Free, local, open-source MCP server that audits your ClickUp, Slack & Teams for what fell through the cracks \u2014 stale tas",
@@ -22,18 +58,9 @@
     "id": "liaosiliangCodeLife/harness-mate-plat",
     "language": "Python",
     "name": "liaosiliangCodeLife/harness-mate-plat",
-    "stars": 10,
+    "stars": 11,
     "updated_at": "2026-10-10T03:11:58Z",
     "url": "https://github.com/liaosiliangCodeLife/harness-mate-plat"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 32994,
-    "updated_at": "2026-10-10T03:10:56Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
     "description": "\u9ea6\u5f53\u52b3\u5b98\u65b9 MCP x WorkBuddy Skill\uff5c\u63a7\u5361+\u7701\u94b1\u53cc\u5f15\u64ce\u667a\u80fd\u70b9\u9910",
@@ -121,7 +148,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 1132,
+    "stars": 1133,
     "updated_at": "2026-10-10T02:28:55Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -158,7 +185,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 29,
-    "updated_at": "2026-10-10T02:26:27Z",
+    "updated_at": "2026-10-10T03:16:03Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -214,15 +241,6 @@
     "stars": 44,
     "updated_at": "2026-10-10T02:20:19Z",
     "url": "https://github.com/cafferychen777/ChatSpatial"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 20,
-    "updated_at": "2026-10-10T02:30:15Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
@@ -430,23 +448,5 @@
     "stars": 14,
     "updated_at": "2026-10-10T01:03:55Z",
     "url": "https://github.com/yurika0211/lucky-agent"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8750,
-    "updated_at": "2026-10-10T01:01:49Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
-    "id": "Samuelcluttered613/paper2code",
-    "language": "Python",
-    "name": "Samuelcluttered613/paper2code",
-    "stars": 1,
-    "updated_at": "2026-10-10T01:00:57Z",
-    "url": "https://github.com/Samuelcluttered613/paper2code"
   }
 ]
