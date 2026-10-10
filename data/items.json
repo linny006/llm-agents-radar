@@ -1,5 +1,77 @@
 [
   {
+    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
+    "id": "zty522/partner",
+    "language": "Python",
+    "name": "zty522/partner",
+    "stars": 5,
+    "updated_at": "2026-10-10T15:59:15Z",
+    "url": "https://github.com/zty522/partner"
+  },
+  {
+    "description": "MCP server for spatial transcriptomics analysis through natural language interfaces.",
+    "id": "cafferychen777/ChatSpatial",
+    "language": "Python",
+    "name": "cafferychen777/ChatSpatial",
+    "stars": 44,
+    "updated_at": "2026-10-10T15:58:14Z",
+    "url": "https://github.com/cafferychen777/ChatSpatial"
+  },
+  {
+    "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
+    "id": "Jongtae/agentos",
+    "language": "Python",
+    "name": "Jongtae/agentos",
+    "stars": 0,
+    "updated_at": "2026-10-10T15:56:48Z",
+    "url": "https://github.com/Jongtae/agentos"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4446,
+    "updated_at": "2026-10-10T15:58:28Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "UEPLANE \u00b7 \u53c2\u8003\u56fe\u9a71\u52a8\u7684 UE \u5e73\u9762\u573a\u666f\u642d\u5efa\u7f16\u6392\u5c42\uff08MCP server\uff09\uff1a\u516b\u9636\u6bb5\u6d41\u7a0b + \u786c\u95f8\u95e8 + \u53ef\u56de\u9000\u53f0\u8d26",
+    "id": "ZHUPO233/UE-Planar-SceneBuilder-MCP",
+    "language": "Python",
+    "name": "ZHUPO233/UE-Planar-SceneBuilder-MCP",
+    "stars": 0,
+    "updated_at": "2026-10-10T15:50:39Z",
+    "url": "https://github.com/ZHUPO233/UE-Planar-SceneBuilder-MCP"
+  },
+  {
+    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
+    "id": "haibingzhao/easyai",
+    "language": "Kotlin",
+    "name": "haibingzhao/easyai",
+    "stars": 1,
+    "updated_at": "2026-10-10T15:50:37Z",
+    "url": "https://github.com/haibingzhao/easyai"
+  },
+  {
+    "description": "LLM \u5e94\u7528\u5e76\u53d1\u8d28\u91cf\u5224\u5b9a\u5de5\u5177\uff08\u5efa\u8bbe\u4e2d\uff09\uff1aM1 \u5e95\u5ea7\u5df2\u4ea4\u4ed8\uff08SSE \u5e27\u89e3\u6790 / \u65f6\u5e8f\u56de\u653e / \u9884\u7b97\u7194\u65ad / \u591a\u6a21\u578b\u9002\u914d\uff09\uff1bM3-M4 \u5c06\u4ea4\u4ed8\u7edf\u8ba1\u63a8\u65ad + \u6d4b\u91cf\u81ea\u8bc1 + \u9884\u6ce8\u518c\u51bb\u7ed3\u95e8\u7981\u3002",
+    "id": "hu-chenyu/AquaMind",
+    "language": "Python",
+    "name": "hu-chenyu/AquaMind",
+    "stars": 1,
+    "updated_at": "2026-10-10T15:48:56Z",
+    "url": "https://github.com/hu-chenyu/AquaMind"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 765,
+    "updated_at": "2026-10-10T15:48:38Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
     "id": "genaforvena/mishe-tauftauf",
     "language": "Python",
@@ -18,24 +90,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "UEPLANE \u00b7 \u53c2\u8003\u56fe\u9a71\u52a8\u7684 UE \u5e73\u9762\u573a\u666f\u642d\u5efa\u7f16\u6392\u5c42\uff08MCP server\uff09\uff1a\u516b\u9636\u6bb5\u6d41\u7a0b + \u786c\u95f8\u95e8 + \u53ef\u56de\u9000\u53f0\u8d26",
-    "id": "ZHUPO233/UE-Planar-SceneBuilder-MCP",
-    "language": "Python",
-    "name": "ZHUPO233/UE-Planar-SceneBuilder-MCP",
-    "stars": 0,
-    "updated_at": "2026-10-10T15:39:33Z",
-    "url": "https://github.com/ZHUPO233/UE-Planar-SceneBuilder-MCP"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 765,
-    "updated_at": "2026-10-10T15:44:21Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
     "description": "An autonomous on-call agent that investigates and remediates incidents on the Incident Platform through its MCP tool sur",
     "id": "kudratsingh/incident-commander",
     "language": "Python",
@@ -50,7 +104,7 @@
     "language": "Python",
     "name": "Wenyan0315/facta",
     "stars": 1,
-    "updated_at": "2026-10-10T15:23:25Z",
+    "updated_at": "2026-10-10T15:45:54Z",
     "url": "https://github.com/Wenyan0315/facta"
   },
   {
@@ -70,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-10-10T15:17:44Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4446,
-    "updated_at": "2026-10-10T15:44:42Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
@@ -153,21 +198,12 @@
     "url": "https://github.com/anchor-inference/daedalus"
   },
   {
-    "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
-    "id": "Jongtae/agentos",
-    "language": "Python",
-    "name": "Jongtae/agentos",
-    "stars": 0,
-    "updated_at": "2026-10-10T14:46:49Z",
-    "url": "https://github.com/Jongtae/agentos"
-  },
-  {
     "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
     "id": "IAmNo1Special/mvgeos",
     "language": "Python",
     "name": "IAmNo1Special/mvgeos",
     "stars": 1,
-    "updated_at": "2026-10-10T15:36:41Z",
+    "updated_at": "2026-10-10T15:58:13Z",
     "url": "https://github.com/IAmNo1Special/mvgeos"
   },
   {
@@ -216,15 +252,6 @@
     "url": "https://github.com/SlavaKlkv/ai_operations_agent"
   },
   {
-    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
-    "id": "zty522/partner",
-    "language": "Python",
-    "name": "zty522/partner",
-    "stars": 5,
-    "updated_at": "2026-10-10T14:34:00Z",
-    "url": "https://github.com/zty522/partner"
-  },
-  {
     "description": "Native LLM Copilot for Your Terminal \u2013 **No Daemons. Zero Idle Memory. 100% On-Demand.**",
     "id": "akatzmann/slash-agent",
     "language": "Python",
@@ -248,7 +275,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 23,
-    "updated_at": "2026-10-10T15:43:56Z",
+    "updated_at": "2026-10-10T15:49:04Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-10T13:13:44Z",
     "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-10-10T13:12:52Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "NEXUS Web LLM is a browser-based local inference app for compatible GGUF and LittleBit models, featuring custom WebGPU a",
-    "id": "RDunbar01/Nexus-Web-LLM",
-    "language": "HTML",
-    "name": "RDunbar01/Nexus-Web-LLM",
-    "stars": 1,
-    "updated_at": "2026-10-10T13:11:51Z",
-    "url": "https://github.com/RDunbar01/Nexus-Web-LLM"
-  },
-  {
-    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
-    "id": "Ultra-Guru/Android-Guru-Agent",
-    "language": "Kotlin",
-    "name": "Ultra-Guru/Android-Guru-Agent",
-    "stars": 8,
-    "updated_at": "2026-10-10T13:11:42Z",
-    "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
   }
 ]
