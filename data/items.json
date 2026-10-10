@@ -1,5 +1,77 @@
 [
   {
+    "description": "A\u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\uff1a\u80a1\u7968\u5206\u6790\u3001\u91cf\u5316\u4ea4\u6613\u5206\u6790\u3001\u76d8\u540e\u590d\u76d8\u684c\u9762\u5de5\u4f5c\u53f0\u2014\u2014easy stock",
+    "id": "jundizhou/easy-stock",
+    "language": "Go",
+    "name": "jundizhou/easy-stock",
+    "stars": 1387,
+    "updated_at": "2026-10-10T02:29:29Z",
+    "url": "https://github.com/jundizhou/easy-stock"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 1132,
+    "updated_at": "2026-10-10T02:28:55Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
+    "id": "Shuffle-1992/dsh-context-pilot",
+    "language": "JavaScript",
+    "name": "Shuffle-1992/dsh-context-pilot",
+    "stars": 1,
+    "updated_at": "2026-10-10T02:27:21Z",
+    "url": "https://github.com/Shuffle-1992/dsh-context-pilot"
+  },
+  {
+    "description": "tmux for coding agents. Run AI coding agents side by side in tabs.",
+    "id": "mmoehabb/maestro",
+    "language": "Go",
+    "name": "mmoehabb/maestro",
+    "stars": 0,
+    "updated_at": "2026-10-10T02:28:45Z",
+    "url": "https://github.com/mmoehabb/maestro"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "TypeScript",
+    "name": "dsswift/ion",
+    "stars": 4,
+    "updated_at": "2026-10-10T02:28:18Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-10T02:26:56Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Vector search that ships as a file. Compile a corpus into one self-contained, hash-verified .pikelet \u2014 search it anywher",
+    "id": "mcn92/pikelet",
+    "language": "JavaScript",
+    "name": "mcn92/pikelet",
+    "stars": 2,
+    "updated_at": "2026-10-10T02:24:47Z",
+    "url": "https://github.com/mcn92/pikelet"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-10-10T02:17:22Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "\ud83e\udd16 \u65b0\u4e00\u4ee3\u5f00\u6e90 Chrome \u4fa7\u8fb9\u680f\u81ea\u4e3b AI \u6d4f\u89c8\u5668\u667a\u80fd\u4f53\uff1a\u76ee\u6807\u9a71\u52a8\u3001\u957f\u7a0b\u89c4\u5212\u3001\u89c6\u89c9\u7a7a\u95f4\u611f\u77e5\u3001\u5feb\u6162\u53cc\u6838\u8ba4\u77e5\u4e0e\u7269\u7406\u7ea7\u64cd\u63a7\uff0c\u652f\u6301 DeepSeek \u601d\u8003\u6a21\u578b\u4e0e\u672c\u5730\u79bb\u7ebf LLM (BYOK)",
     "id": "lusipad/browser-agent",
     "language": "TypeScript",
@@ -32,7 +104,7 @@
     "language": "Python",
     "name": "cafferychen777/ChatSpatial",
     "stars": 44,
-    "updated_at": "2026-10-10T02:12:36Z",
+    "updated_at": "2026-10-10T02:20:19Z",
     "url": "https://github.com/cafferychen777/ChatSpatial"
   },
   {
@@ -41,7 +113,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-10T02:12:17Z",
+    "updated_at": "2026-10-10T02:30:15Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -63,15 +135,6 @@
     "url": "https://github.com/robinxxd/mcd-macro-buddy"
   },
   {
-    "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
-    "id": "Shuffle-1992/dsh-context-pilot",
-    "language": "JavaScript",
-    "name": "Shuffle-1992/dsh-context-pilot",
-    "stars": 1,
-    "updated_at": "2026-10-10T02:08:06Z",
-    "url": "https://github.com/Shuffle-1992/dsh-context-pilot"
-  },
-  {
     "description": "A multi-agent medical assistant: skill registry, agent loop, optional agent swarm, layered memory, constraint enforcemen",
     "id": "yu-harness/medix-agent-swarm",
     "language": "Python",
@@ -90,15 +153,6 @@
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 1132,
-    "updated_at": "2026-10-10T02:05:01Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -113,7 +167,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-10-10T02:09:38Z",
+    "updated_at": "2026-10-10T02:22:55Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -133,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-10T01:53:47Z",
     "url": "https://github.com/sjhesjaj/GroundedAgent"
-  },
-  {
-    "description": "A\u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\uff1a\u80a1\u7968\u5206\u6790\u3001\u91cf\u5316\u4ea4\u6613\u5206\u6790\u3001\u76d8\u540e\u590d\u76d8\u684c\u9762\u5de5\u4f5c\u53f0\u2014\u2014easy stock",
-    "id": "jundizhou/easy-stock",
-    "language": "Go",
-    "name": "jundizhou/easy-stock",
-    "stars": 1386,
-    "updated_at": "2026-10-10T01:47:45Z",
-    "url": "https://github.com/jundizhou/easy-stock"
   },
   {
     "description": "Free MIT AI coding agent \u2014 no API key needed. Built-in free model, or bring Claude, GPT, Gemini, DeepSeek, Ollama +50 mo",
@@ -288,15 +333,6 @@
     "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
   },
   {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "TypeScript",
-    "name": "dsswift/ion",
-    "stars": 4,
-    "updated_at": "2026-10-10T01:08:19Z",
-    "url": "https://github.com/dsswift/ion"
-  },
-  {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
     "id": "pruthviraj00007/VibeHarness",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-10T00:53:05Z",
     "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 3,
-    "updated_at": "2026-10-10T00:49:46Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-10-10T00:49:41Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-10-10T00:48:14Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "Organizational-memory system for micro/nano fabrication: executable process-flow canvas, LLM agent, reliability-scored k",
-    "id": "liyao13-sketch/OpenNano",
-    "language": "Python",
-    "name": "liyao13-sketch/OpenNano",
-    "stars": 0,
-    "updated_at": "2026-10-10T00:47:23Z",
-    "url": "https://github.com/liyao13-sketch/OpenNano"
   }
 ]
