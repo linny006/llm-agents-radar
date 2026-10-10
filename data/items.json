@@ -1,12 +1,93 @@
 [
   {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-10T15:12:25Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "A lightweight AI chat client for Wear OS round-screen watches - SSE streaming for OpenAI-compatible (Completions/Respons",
+    "id": "ImWuMie/wear-agent",
+    "language": "Kotlin",
+    "name": "ImWuMie/wear-agent",
+    "stars": 3,
+    "updated_at": "2026-10-10T15:11:44Z",
+    "url": "https://github.com/ImWuMie/wear-agent"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 130,
+    "updated_at": "2026-10-10T15:10:57Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-10-10T15:10:04Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-10T15:09:56Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 345,
+    "updated_at": "2026-10-10T15:08:19Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
     "id": "genaforvena/mishe-tauftauf",
     "language": "Python",
     "name": "genaforvena/mishe-tauftauf",
     "stars": 2,
-    "updated_at": "2026-10-10T14:53:41Z",
+    "updated_at": "2026-10-10T15:07:11Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
+    "id": "kyleslight/shun",
+    "language": "TypeScript",
+    "name": "kyleslight/shun",
+    "stars": 7,
+    "updated_at": "2026-10-10T15:06:21Z",
+    "url": "https://github.com/kyleslight/shun"
+  },
+  {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 5,
+    "updated_at": "2026-10-10T15:04:42Z",
+    "url": "https://github.com/ljedrz/nachalnik"
+  },
+  {
+    "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
+    "id": "anchor-inference/daedalus",
+    "language": "Python",
+    "name": "anchor-inference/daedalus",
+    "stars": 1,
+    "updated_at": "2026-10-10T15:03:08Z",
+    "url": "https://github.com/anchor-inference/daedalus"
   },
   {
     "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
@@ -32,26 +113,8 @@
     "language": "JavaScript",
     "name": "moyshik7/marnie",
     "stars": 2,
-    "updated_at": "2026-10-10T14:49:42Z",
+    "updated_at": "2026-10-10T15:10:08Z",
     "url": "https://github.com/moyshik7/marnie"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 345,
-    "updated_at": "2026-10-10T14:51:17Z",
-    "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-10T14:43:36Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -144,21 +207,12 @@
     "url": "https://github.com/cheeezis/job_finder"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-10T14:09:04Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "An autonomous on-call agent that investigates and remediates incidents on the Incident Platform through its MCP tool sur",
     "id": "kudratsingh/incident-commander",
     "language": "Python",
     "name": "kudratsingh/incident-commander",
     "stars": 0,
-    "updated_at": "2026-10-10T13:58:27Z",
+    "updated_at": "2026-10-10T15:06:28Z",
     "url": "https://github.com/kudratsingh/incident-commander"
   },
   {
@@ -241,15 +295,6 @@
     "stars": 7,
     "updated_at": "2026-10-10T14:33:02Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "A lightweight AI chat client for Wear OS round-screen watches - SSE streaming for OpenAI-compatible (Completions/Respons",
-    "id": "ImWuMie/wear-agent",
-    "language": "Kotlin",
-    "name": "ImWuMie/wear-agent",
-    "stars": 3,
-    "updated_at": "2026-10-10T13:35:23Z",
-    "url": "https://github.com/ImWuMie/wear-agent"
   },
   {
     "description": "AI-powered image generation and chat studio",
@@ -403,50 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-10T12:58:00Z",
     "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-10-10T12:53:20Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
-    "id": "Danisxxx/comfyUI-LongLook",
-    "language": "Python",
-    "name": "Danisxxx/comfyUI-LongLook",
-    "stars": 2,
-    "updated_at": "2026-10-10T12:50:56Z",
-    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
-  },
-  {
-    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
-    "id": "axxafo/awesome-agent-benchmarks",
-    "language": "\u2014",
-    "name": "axxafo/awesome-agent-benchmarks",
-    "stars": 4,
-    "updated_at": "2026-10-10T12:49:47Z",
-    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "\u628a ZCode\uff08Z.ai / BigModel Coding Plan\uff09\u6ce8\u518c\u4e3a DeepSeek Harness\uff08DSH\uff09\u7684 LLM provider\uff1aDSH \u7684 agent loop \u76f4\u63a5\u590d\u7528 ZCode \u5957\u9910\u989d\u5ea6\uff08provider \u6a21\u5f0f",
-    "id": "Shuffle-1992/dsh-connect-zcode",
-    "language": "JavaScript",
-    "name": "Shuffle-1992/dsh-connect-zcode",
-    "stars": 0,
-    "updated_at": "2026-10-10T12:48:23Z",
-    "url": "https://github.com/Shuffle-1992/dsh-connect-zcode"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 6150,
-    "updated_at": "2026-10-10T12:44:50Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
   }
 ]
