@@ -1,5 +1,68 @@
 [
   {
+    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
+    "id": "mohahasan/ios-agentic-skills",
+    "language": "JavaScript",
+    "name": "mohahasan/ios-agentic-skills",
+    "stars": 4,
+    "updated_at": "2026-10-10T20:57:11Z",
+    "url": "https://github.com/mohahasan/ios-agentic-skills"
+  },
+  {
+    "description": "Application Security orchestration platform",
+    "id": "grauwolf32/contractor",
+    "language": "Go",
+    "name": "grauwolf32/contractor",
+    "stars": 2,
+    "updated_at": "2026-10-10T20:53:51Z",
+    "url": "https://github.com/grauwolf32/contractor"
+  },
+  {
+    "description": "Free MIT AI coding agent \u2014 no API key needed. Built-in free model, or bring Claude, GPT, Gemini, DeepSeek, Ollama +50 mo",
+    "id": "dragonked2/alphacode",
+    "language": "Rust",
+    "name": "dragonked2/alphacode",
+    "stars": 262,
+    "updated_at": "2026-10-10T20:51:59Z",
+    "url": "https://github.com/dragonked2/alphacode"
+  },
+  {
+    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
+    "id": "Danisxxx/comfyUI-LongLook",
+    "language": "Python",
+    "name": "Danisxxx/comfyUI-LongLook",
+    "stars": 2,
+    "updated_at": "2026-10-10T20:51:19Z",
+    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
+  },
+  {
+    "description": "Reproducible California watershed analysis with validation, causal caveats, and a read-only LLM SQL agent",
+    "id": "youssefabdelhafez04/california-water-analysis",
+    "language": "Python",
+    "name": "youssefabdelhafez04/california-water-analysis",
+    "stars": 0,
+    "updated_at": "2026-10-10T20:50:44Z",
+    "url": "https://github.com/youssefabdelhafez04/california-water-analysis"
+  },
+  {
+    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
+    "id": "axxafo/awesome-agent-benchmarks",
+    "language": "\u2014",
+    "name": "axxafo/awesome-agent-benchmarks",
+    "stars": 4,
+    "updated_at": "2026-10-10T20:50:24Z",
+    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 346,
+    "updated_at": "2026-10-10T20:49:15Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
     "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
     "id": "yigido41/agentic-ai",
     "language": "Python",
@@ -45,15 +108,6 @@
     "url": "https://github.com/feder-cr/invisible_playwright_mcp"
   },
   {
-    "description": "Reproducible California watershed analysis with validation, causal caveats, and a read-only LLM SQL agent",
-    "id": "youssefabdelhafez04/california-water-analysis",
-    "language": "Jupyter Notebook",
-    "name": "youssefabdelhafez04/california-water-analysis",
-    "stars": 0,
-    "updated_at": "2026-10-10T20:37:36Z",
-    "url": "https://github.com/youssefabdelhafez04/california-water-analysis"
-  },
-  {
     "description": "",
     "id": "sanitprime/Advanced_Graph_RAG",
     "language": "Python",
@@ -72,15 +126,6 @@
     "url": "https://github.com/IAmNo1Special/mvgeos"
   },
   {
-    "description": "Application Security orchestration platform",
-    "id": "grauwolf32/contractor",
-    "language": "Go",
-    "name": "grauwolf32/contractor",
-    "stars": 2,
-    "updated_at": "2026-10-10T20:36:21Z",
-    "url": "https://github.com/grauwolf32/contractor"
-  },
-  {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -95,7 +140,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-10-10T20:35:58Z",
+    "updated_at": "2026-10-10T20:58:03Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -216,15 +261,6 @@
     "url": "https://github.com/kudratsingh/incident-commander"
   },
   {
-    "description": "Free MIT AI coding agent \u2014 no API key needed. Built-in free model, or bring Claude, GPT, Gemini, DeepSeek, Ollama +50 mo",
-    "id": "dragonked2/alphacode",
-    "language": "Rust",
-    "name": "dragonked2/alphacode",
-    "stars": 262,
-    "updated_at": "2026-10-10T19:31:00Z",
-    "url": "https://github.com/dragonked2/alphacode"
-  },
-  {
     "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
     "id": "aviskaar/zorp",
     "language": "Rust",
@@ -304,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-10-10T19:15:59Z",
     "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 346,
-    "updated_at": "2026-10-10T19:14:48Z",
-    "url": "https://github.com/yologdev/yoagent"
   },
   {
     "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-10T19:00:57Z",
     "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-10-10T18:59:40Z",
-    "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-10-10T18:56:42Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-10-10T18:56:30Z",
-    "url": "https://github.com/Bowotria/aethercore"
   }
 ]
