@@ -1,12 +1,48 @@
 [
   {
+    "description": "Agent-native product search: multi-source scrape \u2192 deterministic constraints \u2192 LLM match \u2192 price watches + order trackin",
+    "id": "anatolykoptev/quarryn",
+    "language": "Go",
+    "name": "anatolykoptev/quarryn",
+    "stars": 0,
+    "updated_at": "2026-10-10T22:00:14Z",
+    "url": "https://github.com/anatolykoptev/quarryn"
+  },
+  {
+    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
+    "id": "shimo4228/contemplative-agent",
+    "language": "Python",
+    "name": "shimo4228/contemplative-agent",
+    "stars": 7,
+    "updated_at": "2026-10-10T21:57:18Z",
+    "url": "https://github.com/shimo4228/contemplative-agent"
+  },
+  {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
     "id": "genaforvena/mishe-tauftauf",
     "language": "Python",
     "name": "genaforvena/mishe-tauftauf",
     "stars": 2,
-    "updated_at": "2026-10-10T21:44:26Z",
+    "updated_at": "2026-10-10T21:55:56Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Alan - a personal assistant that lives on your machine. Local-first memory, permission-gated tools, always-on scheduling",
+    "id": "akashjoshi1209/Alan",
+    "language": "Python",
+    "name": "akashjoshi1209/Alan",
+    "stars": 0,
+    "updated_at": "2026-10-10T21:50:12Z",
+    "url": "https://github.com/akashjoshi1209/Alan"
+  },
+  {
+    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
+    "id": "IAmNo1Special/mvgeos",
+    "language": "Python",
+    "name": "IAmNo1Special/mvgeos",
+    "stars": 1,
+    "updated_at": "2026-10-10T21:46:02Z",
+    "url": "https://github.com/IAmNo1Special/mvgeos"
   },
   {
     "description": "Non-custodial Hyperliquid execution + tracking CLI for autonomous LLM agents. Signs EIP-712 actions with an agent wallet",
@@ -234,15 +270,6 @@
     "url": "https://github.com/shimo4228/agent-knowledge-cycle"
   },
   {
-    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 7,
-    "updated_at": "2026-10-10T21:04:41Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
     "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
     "id": "mezoali100/exforum-auto-poster",
     "language": "\u2014",
@@ -301,7 +328,7 @@
     "id": "dragonked2/alphacode",
     "language": "Rust",
     "name": "dragonked2/alphacode",
-    "stars": 262,
+    "stars": 264,
     "updated_at": "2026-10-10T20:51:59Z",
     "url": "https://github.com/dragonked2/alphacode"
   },
@@ -329,7 +356,7 @@
     "language": "Rust",
     "name": "yologdev/yoagent",
     "stars": 346,
-    "updated_at": "2026-10-10T20:49:15Z",
+    "updated_at": "2026-10-10T21:46:57Z",
     "url": "https://github.com/yologdev/yoagent"
   },
   {
@@ -340,15 +367,6 @@
     "stars": 2,
     "updated_at": "2026-10-10T20:44:34Z",
     "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "Alan - a personal assistant that lives on your machine. Local-first memory, permission-gated tools, always-on scheduling",
-    "id": "akashjoshi1209/Alan",
-    "language": "Python",
-    "name": "akashjoshi1209/Alan",
-    "stars": 0,
-    "updated_at": "2026-10-10T20:43:05Z",
-    "url": "https://github.com/akashjoshi1209/Alan"
   },
   {
     "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
@@ -373,7 +391,7 @@
     "id": "feder-cr/invisible_playwright_mcp",
     "language": "Python",
     "name": "feder-cr/invisible_playwright_mcp",
-    "stars": 2730,
+    "stars": 2731,
     "updated_at": "2026-10-10T20:41:01Z",
     "url": "https://github.com/feder-cr/invisible_playwright_mcp"
   },
@@ -385,15 +403,6 @@
     "stars": 2,
     "updated_at": "2026-10-10T20:37:22Z",
     "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
-    "id": "IAmNo1Special/mvgeos",
-    "language": "Python",
-    "name": "IAmNo1Special/mvgeos",
-    "stars": 1,
-    "updated_at": "2026-10-10T21:35:09Z",
-    "url": "https://github.com/IAmNo1Special/mvgeos"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-10T19:57:06Z",
     "url": "https://github.com/SlavaKlkv/ai_operations_agent"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 130,
-    "updated_at": "2026-10-10T19:56:38Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
   }
 ]
