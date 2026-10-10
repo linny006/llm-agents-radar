@@ -1,12 +1,12 @@
 [
   {
-    "description": "The local AI workspace with built-in tools. Run deep research, scrape websites, interact with local files, and trigger w",
-    "id": "moyshik7/marnie",
-    "language": "JavaScript",
-    "name": "moyshik7/marnie",
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
     "stars": 2,
-    "updated_at": "2026-10-10T14:44:48Z",
-    "url": "https://github.com/moyshik7/marnie"
+    "updated_at": "2026-10-10T14:53:41Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
@@ -14,8 +14,26 @@
     "language": "Python",
     "name": "Jongtae/agentos",
     "stars": 0,
-    "updated_at": "2026-10-10T14:44:44Z",
+    "updated_at": "2026-10-10T14:46:49Z",
     "url": "https://github.com/Jongtae/agentos"
+  },
+  {
+    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
+    "id": "IAmNo1Special/mvgeos",
+    "language": "Python",
+    "name": "IAmNo1Special/mvgeos",
+    "stars": 1,
+    "updated_at": "2026-10-10T14:53:36Z",
+    "url": "https://github.com/IAmNo1Special/mvgeos"
+  },
+  {
+    "description": "The local AI workspace with built-in tools. Run deep research, scrape websites, interact with local files, and trigger w",
+    "id": "moyshik7/marnie",
+    "language": "JavaScript",
+    "name": "moyshik7/marnie",
+    "stars": 2,
+    "updated_at": "2026-10-10T14:49:42Z",
+    "url": "https://github.com/moyshik7/marnie"
   },
   {
     "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
@@ -23,7 +41,7 @@
     "language": "Rust",
     "name": "yologdev/yoagent",
     "stars": 345,
-    "updated_at": "2026-10-10T14:43:53Z",
+    "updated_at": "2026-10-10T14:51:17Z",
     "url": "https://github.com/yologdev/yoagent"
   },
   {
@@ -45,15 +63,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
-    "id": "IAmNo1Special/mvgeos",
-    "language": "Python",
-    "name": "IAmNo1Special/mvgeos",
-    "stars": 1,
-    "updated_at": "2026-10-10T14:42:26Z",
-    "url": "https://github.com/IAmNo1Special/mvgeos"
-  },
-  {
     "description": "LLM Agent \u670d\u52a1\uff1aLangChain + FastAPI + Vue3\uff0c\u6df7\u5408\u68c0\u7d22 RAG \u5e26\u5f15\u7528\u6eaf\u6e90\uff0cReAct \u53cc\u67b6\u6784\u5b9e\u6d4b\u62e9\u4f18\uff0898.5% vs 89.7%\uff09\uff0c\u8bed\u4e49\u7f13\u5b58\u96f6\u8bef\u547d\u4e2d\uff0c158 \u6761\u8bc4\u6d4b + CI \u56de\u5f52\u95e8\u7981\uff0cDocker \u516c",
     "id": "SYM529/myAgent",
     "language": "Python",
@@ -72,15 +81,6 @@
     "url": "https://github.com/codelformat/Aftersales-agent"
   },
   {
-    "description": "\u8001\u5ba1\u8ba1\u00b7\u62e6\u622a\u5047\u7eff\uff1aAI \u8bf4\u300c\u6d4b\u8bd5\u5168\u8fc7\u4e86\u300d\u65f6\uff0c\u7528\u4e09\u95ee\uff08\u7ea2\u8fc7\u5417 / \u9519\u7684\u6293\u5f97\u4f4f\u5417 / \u6302\u7684\u90a3\u4e9b\u5462\uff09+ \u786e\u5b9a\u6027\u5de5\u5177\u94fe\u9a8c\u8bc1\u8fd9\u4e2a\u300c\u901a\u8fc7\u300d\u7b97\u4e0d\u7b97\u6570\u3002\u6ca1\u7ea2\u8fc7\u7684\u7eff\uff0c\u90fd\u662f\u5047\u7eff\u3002",
-    "id": "qlheric/xizi-rujin",
-    "language": "Python",
-    "name": "qlheric/xizi-rujin",
-    "stars": 1,
-    "updated_at": "2026-10-10T14:41:08Z",
-    "url": "https://github.com/qlheric/xizi-rujin"
-  },
-  {
     "description": "\u0410\u0433\u0435\u043d\u0442\u043d\u044b\u0439 \u0430\u043d\u0430\u043b\u0438\u0437 \u0438\u043d\u0446\u0438\u0434\u0435\u043d\u0442\u043e\u0432 \u0434\u043b\u044f \u0431\u044d\u043a\u0435\u043d\u0434-\u0441\u0435\u0440\u0432\u0438\u0441\u043e\u0432: workflow \u043d\u0430 LangGraph, \u0438\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u0438 \u0447\u0435\u0440\u0435\u0437 MCP, \u0432\u044b\u0437\u043e\u0432 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u043e\u0432 \u0438 \u043e\u043f\u0435\u0440\u0430\u0446",
     "id": "SlavaKlkv/ai_operations_agent",
     "language": "Python",
@@ -97,15 +97,6 @@
     "stars": 5,
     "updated_at": "2026-10-10T14:34:00Z",
     "url": "https://github.com/zty522/partner"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 2,
-    "updated_at": "2026-10-10T14:31:51Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "Native LLM Copilot for Your Terminal \u2013 **No Daemons. Zero Idle Memory. 100% On-Demand.**",
@@ -139,7 +130,7 @@
     "id": "Soodok/Deepseek-Harness-Local-Android",
     "language": "Kotlin",
     "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 211,
+    "stars": 212,
     "updated_at": "2026-10-10T14:19:24Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
@@ -184,7 +175,7 @@
     "id": "Canvixel-Eloweny/ai-bot-groupmate",
     "language": "JavaScript",
     "name": "Canvixel-Eloweny/ai-bot-groupmate",
-    "stars": 19,
+    "stars": 21,
     "updated_at": "2026-10-10T13:53:36Z",
     "url": "https://github.com/Canvixel-Eloweny/ai-bot-groupmate"
   },
@@ -342,6 +333,15 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
+    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
+    "id": "Ultra-Guru/Android-Guru-Agent",
+    "language": "Kotlin",
+    "name": "Ultra-Guru/Android-Guru-Agent",
+    "stars": 8,
+    "updated_at": "2026-10-10T13:11:42Z",
+    "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
+  },
+  {
     "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
     "id": "mriazi1982/octopai",
     "language": "Python",
@@ -441,12 +441,12 @@
     "url": "https://github.com/Shuffle-1992/dsh-connect-zcode"
   },
   {
-    "description": "DSH \u63d2\u4ef6\uff1aZCode \u6d3e\u53d1\u53f0 \u2014\u2014 \u5728 DeepSeek Harness \u9762\u677f\u91cc\u6d3e\u53d1/\u76d1\u89c6 ZCode \u65e0\u5934\u8fdb\u7a0b\uff08agent \u5de5\u5177 + \u60ac\u6d6e\u9762\u677f\uff1a\u5355\u5199\u8005\u4e92\u65a5 / \u7528\u91cf\u805a\u5408 / \u5957\u9910\u901a\u9053 / \u964d\u7ea7\u94fe\uff09",
-    "id": "Shuffle-1992/zcode-dispatch",
-    "language": "JavaScript",
-    "name": "Shuffle-1992/zcode-dispatch",
-    "stars": 1,
-    "updated_at": "2026-10-10T12:44:13Z",
-    "url": "https://github.com/Shuffle-1992/zcode-dispatch"
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 6150,
+    "updated_at": "2026-10-10T12:44:50Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
   }
 ]
