@@ -1,12 +1,30 @@
 [
   {
+    "description": "An autonomous on-call agent that investigates and remediates incidents on the Incident Platform through its MCP tool sur",
+    "id": "kudratsingh/incident-commander",
+    "language": "Python",
+    "name": "kudratsingh/incident-commander",
+    "stars": 0,
+    "updated_at": "2026-10-10T19:34:52Z",
+    "url": "https://github.com/kudratsingh/incident-commander"
+  },
+  {
     "description": "Interactive Smith chart with an agentic AI tutor that teaches like a person and grades like an engineer",
     "id": "sampreethsharma7/smith-chart-tutor",
     "language": "TypeScript",
     "name": "sampreethsharma7/smith-chart-tutor",
     "stars": 0,
-    "updated_at": "2026-10-10T19:29:27Z",
+    "updated_at": "2026-10-10T19:32:39Z",
     "url": "https://github.com/sampreethsharma7/smith-chart-tutor"
+  },
+  {
+    "description": "Free MIT AI coding agent \u2014 no API key needed. Built-in free model, or bring Claude, GPT, Gemini, DeepSeek, Ollama +50 mo",
+    "id": "dragonked2/alphacode",
+    "language": "Rust",
+    "name": "dragonked2/alphacode",
+    "stars": 262,
+    "updated_at": "2026-10-10T19:31:00Z",
+    "url": "https://github.com/dragonked2/alphacode"
   },
   {
     "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
@@ -45,15 +63,6 @@
     "url": "https://github.com/grauwolf32/contractor"
   },
   {
-    "description": "Free MIT AI coding agent \u2014 no API key needed. Built-in free model, or bring Claude, GPT, Gemini, DeepSeek, Ollama +50 mo",
-    "id": "dragonked2/alphacode",
-    "language": "Rust",
-    "name": "dragonked2/alphacode",
-    "stars": 262,
-    "updated_at": "2026-10-10T19:25:50Z",
-    "url": "https://github.com/dragonked2/alphacode"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
@@ -88,15 +97,6 @@
     "stars": 6,
     "updated_at": "2026-10-10T19:23:47Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "An autonomous on-call agent that investigates and remediates incidents on the Incident Platform through its MCP tool sur",
-    "id": "kudratsingh/incident-commander",
-    "language": "Python",
-    "name": "kudratsingh/incident-commander",
-    "stars": 0,
-    "updated_at": "2026-10-10T19:25:48Z",
-    "url": "https://github.com/kudratsingh/incident-commander"
   },
   {
     "description": "Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi",
@@ -401,7 +401,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 12,
-    "updated_at": "2026-10-10T19:19:45Z",
+    "updated_at": "2026-10-10T19:39:16Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
