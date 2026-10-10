@@ -1,19 +1,109 @@
 [
   {
+    "description": "Watches public company job boards and pushes new matches to your phone. One Go binary, Postgres, a React PWA, and a dail",
+    "id": "junaid51/job-pulse",
+    "language": "Go",
+    "name": "junaid51/job-pulse",
+    "stars": 0,
+    "updated_at": "2026-10-10T09:59:15Z",
+    "url": "https://github.com/junaid51/job-pulse"
+  },
+  {
+    "description": "An autonomous on-call agent that investigates and remediates incidents on the Incident Platform through its MCP tool sur",
+    "id": "kudratsingh/incident-commander",
+    "language": "Python",
+    "name": "kudratsingh/incident-commander",
+    "stars": 0,
+    "updated_at": "2026-10-10T09:57:30Z",
+    "url": "https://github.com/kudratsingh/incident-commander"
+  },
+  {
+    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
+    "id": "zty522/partner",
+    "language": "Python",
+    "name": "zty522/partner",
+    "stars": 5,
+    "updated_at": "2026-10-10T09:53:42Z",
+    "url": "https://github.com/zty522/partner"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 818,
+    "updated_at": "2026-10-10T09:53:49Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u7684\u684c\u9762 AI \u667a\u80fd\u4f53\uff1a\u5bf9\u8bdd / \u684c\u5ba0 / \u76f4\u64ad\u4e92\u52a8 / \u5de5\u4f5c\u6d41 / \u81ea\u52a8\u5316 / \u77e5\u8bc6\u5e93 / \u8bb0\u5fc6\uff0c\u6a21\u578b\u8c03\u7528\u8d70\u4f60\u81ea\u5df1\u7684 Key\uff0c\u6570\u636e\u7559\u5728\u672c\u673a\u3002Tauri 2 + React 19 + Python 3.13\u3002",
+    "id": "Hayliy/naixi-desktop",
+    "language": "Python",
+    "name": "Hayliy/naixi-desktop",
+    "stars": 0,
+    "updated_at": "2026-10-10T09:53:20Z",
+    "url": "https://github.com/Hayliy/naixi-desktop"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 20,
+    "updated_at": "2026-10-10T09:58:25Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 2,
+    "updated_at": "2026-10-10T09:53:00Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "\u975e\u7ebf\u667a\u80fd NoneLinear - ReLE\u8bc4\u6d4b\uff1a\u4e2d\u6587AI\u5927\u6a21\u578b\u80fd\u529b\u8bc4\u6d4b\uff08\u6301\u7eed\u66f4\u65b0\uff09\uff1a\u76ee\u524d\u5df2\u56ca\u62ec374\u4e2a\u5927\u6a21\u578b\uff0c\u8986\u76d6chatgpt\u3001gpt-5.4\u3001\u8c37\u6b4cgemini-3.1-pro\u3001Claude-4.6\u3001\u6587\u5fc3ERNIE-X1.1\u3001ERNIE",
+    "id": "jeinlee1991/chinese-llm-benchmark",
+    "language": "\u2014",
+    "name": "jeinlee1991/chinese-llm-benchmark",
+    "stars": 6467,
+    "updated_at": "2026-10-10T09:51:00Z",
+    "url": "https://github.com/jeinlee1991/chinese-llm-benchmark"
+  },
+  {
+    "description": "\u81ea\u8fdb\u5316\u7814\u7a76 Wiki \u667a\u80fd\u4f53\uff1a\u81ea\u5efa agent harness + \u4e09\u5c42\u8bb0\u5fc6 + \u5f15\u7528\u5f3a\u5236\u4e0e\u51b2\u7a81\u5bf9\u8d26",
+    "id": "111wxh/researchwiki",
+    "language": "Python",
+    "name": "111wxh/researchwiki",
+    "stars": 0,
+    "updated_at": "2026-10-10T09:49:58Z",
+    "url": "https://github.com/111wxh/researchwiki"
+  },
+  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4446,
-    "updated_at": "2026-10-10T09:44:54Z",
+    "updated_at": "2026-10-10T09:56:04Z",
     "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
+    "id": "bigfish1913/pi-rust",
+    "language": "Rust",
+    "name": "bigfish1913/pi-rust",
+    "stars": 78,
+    "updated_at": "2026-10-10T09:46:21Z",
+    "url": "https://github.com/bigfish1913/pi-rust"
   },
   {
     "description": "A\u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\uff1a\u80a1\u7968\u5206\u6790\u3001\u91cf\u5316\u4ea4\u6613\u5206\u6790\u3001\u76d8\u540e\u590d\u76d8\u684c\u9762\u5de5\u4f5c\u53f0\u2014\u2014easy stock",
     "id": "jundizhou/easy-stock",
     "language": "Go",
     "name": "jundizhou/easy-stock",
-    "stars": 1397,
+    "stars": 1398,
     "updated_at": "2026-10-10T09:37:01Z",
     "url": "https://github.com/jundizhou/easy-stock"
   },
@@ -36,6 +126,15 @@
     "url": "https://github.com/xiongweilin/agent-skills"
   },
   {
+    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
+    "id": "wuyhong715/rikkahub-agent-pure",
+    "language": "Kotlin",
+    "name": "wuyhong715/rikkahub-agent-pure",
+    "stars": 32,
+    "updated_at": "2026-10-10T10:00:00Z",
+    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
+  },
+  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -43,24 +142,6 @@
     "stars": 130,
     "updated_at": "2026-10-10T09:24:29Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "An autonomous on-call agent that investigates and remediates incidents on the Incident Platform through its MCP tool sur",
-    "id": "kudratsingh/incident-commander",
-    "language": "Python",
-    "name": "kudratsingh/incident-commander",
-    "stars": 0,
-    "updated_at": "2026-10-10T09:33:34Z",
-    "url": "https://github.com/kudratsingh/incident-commander"
-  },
-  {
-    "description": "Watches public company job boards and pushes new matches to your phone. One Go binary, Postgres, a React PWA, and a dail",
-    "id": "junaid51/job-pulse",
-    "language": "Go",
-    "name": "junaid51/job-pulse",
-    "stars": 0,
-    "updated_at": "2026-10-10T09:15:03Z",
-    "url": "https://github.com/junaid51/job-pulse"
   },
   {
     "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
@@ -108,15 +189,6 @@
     "url": "https://github.com/OtakuNathan/Pal"
   },
   {
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
-    "id": "bigfish1913/pi-rust",
-    "language": "Rust",
-    "name": "bigfish1913/pi-rust",
-    "stars": 78,
-    "updated_at": "2026-10-10T09:02:44Z",
-    "url": "https://github.com/bigfish1913/pi-rust"
-  },
-  {
     "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
     "id": "xieguigang/sciBASIC",
     "language": "Visual Basic .NET",
@@ -153,15 +225,6 @@
     "url": "https://github.com/crypmiy/vibe-trading-okx-futures"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 818,
-    "updated_at": "2026-10-10T08:35:02Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
     "description": "Google Search Console analysis and SEO workflows for Grok, Grok Bots and Grok Build: rankings, content decay, cannibaliz",
     "id": "gscwizard/grok-plugin",
     "language": "\u2014",
@@ -178,15 +241,6 @@
     "stars": 7,
     "updated_at": "2026-10-10T08:30:51Z",
     "url": "https://github.com/ZekaiShi/evo-subagent"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 20,
-    "updated_at": "2026-10-10T09:25:18Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
@@ -207,15 +261,6 @@
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
   },
   {
-    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
-    "id": "zty522/partner",
-    "language": "Python",
-    "name": "zty522/partner",
-    "stars": 5,
-    "updated_at": "2026-10-10T08:19:50Z",
-    "url": "https://github.com/zty522/partner"
-  },
-  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -223,15 +268,6 @@
     "stars": 2,
     "updated_at": "2026-10-10T08:19:09Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "\u672c\u5730\u4f18\u5148\u7684\u684c\u9762 AI \u667a\u80fd\u4f53\uff1a\u5bf9\u8bdd / \u684c\u5ba0 / \u76f4\u64ad\u4e92\u52a8 / \u5de5\u4f5c\u6d41 / \u81ea\u52a8\u5316 / \u77e5\u8bc6\u5e93 / \u8bb0\u5fc6\uff0c\u6a21\u578b\u8c03\u7528\u8d70\u4f60\u81ea\u5df1\u7684 Key\uff0c\u6570\u636e\u7559\u5728\u672c\u673a\u3002Tauri 2 + React 19 + Python 3.13\u3002",
-    "id": "Hayliy/naixi-desktop",
-    "language": "Python",
-    "name": "Hayliy/naixi-desktop",
-    "stars": 0,
-    "updated_at": "2026-10-10T08:15:15Z",
-    "url": "https://github.com/Hayliy/naixi-desktop"
   },
   {
     "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
@@ -378,15 +414,6 @@
     "url": "https://github.com/TatianaT13/websec-triage-agent"
   },
   {
-    "description": "\u81ea\u8fdb\u5316\u7814\u7a76 Wiki \u667a\u80fd\u4f53\uff1a\u81ea\u5efa agent harness + \u4e09\u5c42\u8bb0\u5fc6 + \u5f15\u7528\u5f3a\u5236\u4e0e\u51b2\u7a81\u5bf9\u8d26",
-    "id": "111wxh/researchwiki",
-    "language": "Python",
-    "name": "111wxh/researchwiki",
-    "stars": 0,
-    "updated_at": "2026-10-10T07:41:25Z",
-    "url": "https://github.com/111wxh/researchwiki"
-  },
-  {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
     "id": "pruthviraj00007/VibeHarness",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-10T07:34:42Z",
     "url": "https://github.com/Samuelcluttered613/paper2code"
-  },
-  {
-    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
-    "id": "Bastioned-successor320/learn-nanobot",
-    "language": "Python",
-    "name": "Bastioned-successor320/learn-nanobot",
-    "stars": 12,
-    "updated_at": "2026-10-10T07:34:36Z",
-    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
-  },
-  {
-    "description": "Open Source Desktop AI Agent Runtime - LLM, MCP, Voice Runtime, and local/cloud models wired into one PyQt6 desktop agen",
-    "id": "kwakminoo/Project-IRIS-Light",
-    "language": "Python",
-    "name": "kwakminoo/Project-IRIS-Light",
-    "stars": 3,
-    "updated_at": "2026-10-10T07:34:18Z",
-    "url": "https://github.com/kwakminoo/Project-IRIS-Light"
-  },
-  {
-    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
-    "id": "tessellated-statisticalcommission243/deep-research-skill",
-    "language": "\u2014",
-    "name": "tessellated-statisticalcommission243/deep-research-skill",
-    "stars": 3,
-    "updated_at": "2026-10-10T07:34:18Z",
-    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
   }
 ]
