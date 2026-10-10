@@ -1,5 +1,23 @@
 [
   {
+    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
+    "id": "uukuguy/capstone",
+    "language": "Python",
+    "name": "uukuguy/capstone",
+    "stars": 0,
+    "updated_at": "2026-10-10T05:46:08Z",
+    "url": "https://github.com/uukuguy/capstone"
+  },
+  {
+    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
+    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "language": "Go",
+    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "stars": 0,
+    "updated_at": "2026-10-10T05:45:29Z",
+    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
+  },
+  {
     "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
     "id": "agentpit-io/hunter-community",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 119,
     "updated_at": "2026-10-10T03:39:27Z",
     "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
-  },
-  {
-    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
-    "id": "plurnk/plurnk",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk",
-    "stars": 4,
-    "updated_at": "2026-10-10T03:36:41Z",
-    "url": "https://github.com/plurnk/plurnk"
-  },
-  {
-    "description": "LangGraph agent powering an AI voice assistant, served as an OpenAI-compatible custom LLM endpoint on a bare-metal K3s c",
-    "id": "natonet-labs/voice-agent",
-    "language": "Python",
-    "name": "natonet-labs/voice-agent",
-    "stars": 0,
-    "updated_at": "2026-10-10T03:23:26Z",
-    "url": "https://github.com/natonet-labs/voice-agent"
   }
 ]
