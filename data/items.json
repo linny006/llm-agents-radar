@@ -1,12 +1,48 @@
 [
   {
+    "description": "Identity-Driven Autonomous Local Agent",
+    "id": "Zahnschmelz/vishva",
+    "language": "Python",
+    "name": "Zahnschmelz/vishva",
+    "stars": 0,
+    "updated_at": "2026-10-10T00:08:44Z",
+    "url": "https://github.com/Zahnschmelz/vishva"
+  },
+  {
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
+    "id": "bigfish1913/pi-rust",
+    "language": "Rust",
+    "name": "bigfish1913/pi-rust",
+    "stars": 70,
+    "updated_at": "2026-10-10T00:07:58Z",
+    "url": "https://github.com/bigfish1913/pi-rust"
+  },
+  {
     "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
     "id": "IAmNo1Special/mvgeos",
     "language": "Python",
     "name": "IAmNo1Special/mvgeos",
     "stars": 1,
-    "updated_at": "2026-10-09T23:59:58Z",
+    "updated_at": "2026-10-10T00:07:32Z",
     "url": "https://github.com/IAmNo1Special/mvgeos"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-10T00:07:14Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
+    "id": "denisotree/veles",
+    "language": "Python",
+    "name": "denisotree/veles",
+    "stars": 4,
+    "updated_at": "2026-10-10T00:08:55Z",
+    "url": "https://github.com/denisotree/veles"
   },
   {
     "description": "Interactive Smith chart with an agentic AI tutor that teaches like a person and grades like an engineer",
@@ -50,7 +86,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 765,
-    "updated_at": "2026-10-09T23:57:43Z",
+    "updated_at": "2026-10-10T00:07:23Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -124,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T22:48:33Z",
     "url": "https://github.com/Ezra-Zhao/AI-Node-Sentinel"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-09T22:29:43Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "LLM-agnostic tabletop RPG Game Master framework. Runs on OpenCode, LM Studio, or any LLM service. D&D 5e included as ref",
@@ -421,32 +448,5 @@
     "stars": 130,
     "updated_at": "2026-10-09T21:32:24Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-10-09T21:31:57Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Coding agent that plans, changes, tests and reviews, and touches your files only when you approve. Windows, macOS, Linux",
-    "id": "huynvic/albertcode-swe-agent",
-    "language": "Shell",
-    "name": "huynvic/albertcode-swe-agent",
-    "stars": 0,
-    "updated_at": "2026-10-09T21:31:23Z",
-    "url": "https://github.com/huynvic/albertcode-swe-agent"
-  },
-  {
-    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
-    "id": "alexwkleung/reika",
-    "language": "TypeScript",
-    "name": "alexwkleung/reika",
-    "stars": 7,
-    "updated_at": "2026-10-09T21:29:56Z",
-    "url": "https://github.com/alexwkleung/reika"
   }
 ]
