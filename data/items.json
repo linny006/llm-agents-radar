@@ -1,5 +1,41 @@
 [
   {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 346,
+    "updated_at": "2026-10-10T22:28:46Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
+    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
+    "id": "IAmNo1Special/mvgeos",
+    "language": "Python",
+    "name": "IAmNo1Special/mvgeos",
+    "stars": 1,
+    "updated_at": "2026-10-10T22:29:14Z",
+    "url": "https://github.com/IAmNo1Special/mvgeos"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-10T22:17:13Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 2,
+    "updated_at": "2026-10-10T22:15:48Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
     "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
     "id": "410979729/scope-recall-hermes",
     "language": "Python",
@@ -36,15 +72,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 2,
-    "updated_at": "2026-10-10T22:04:07Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
     "description": "Agent-native product search: multi-source scrape \u2192 deterministic constraints \u2192 LLM match \u2192 price watches + order trackin",
     "id": "anatolykoptev/quarryn",
     "language": "Go",
@@ -63,21 +90,12 @@
     "url": "https://github.com/shimo4228/contemplative-agent"
   },
   {
-    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
-    "id": "IAmNo1Special/mvgeos",
-    "language": "Python",
-    "name": "IAmNo1Special/mvgeos",
-    "stars": 1,
-    "updated_at": "2026-10-10T22:09:28Z",
-    "url": "https://github.com/IAmNo1Special/mvgeos"
-  },
-  {
     "description": "Non-custodial Hyperliquid execution + tracking CLI for autonomous LLM agents. Signs EIP-712 actions with an agent wallet",
     "id": "erickuhn19/deliverator",
     "language": "Go",
     "name": "erickuhn19/deliverator",
     "stars": 5,
-    "updated_at": "2026-10-10T21:44:08Z",
+    "updated_at": "2026-10-10T22:24:30Z",
     "url": "https://github.com/erickuhn19/deliverator"
   },
   {
@@ -169,15 +187,6 @@
     "stars": 4,
     "updated_at": "2026-10-10T21:20:22Z",
     "url": "https://github.com/farikonsec/topgent"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-10T21:16:11Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
@@ -376,15 +385,6 @@
     "stars": 4,
     "updated_at": "2026-10-10T20:50:24Z",
     "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 346,
-    "updated_at": "2026-10-10T22:05:52Z",
-    "url": "https://github.com/yologdev/yoagent"
   },
   {
     "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
