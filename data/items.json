@@ -1,5 +1,113 @@
 [
   {
+    "description": "The local AI workspace with built-in tools. Run deep research, scrape websites, interact with local files, and trigger w",
+    "id": "moyshik7/marnie",
+    "language": "JavaScript",
+    "name": "moyshik7/marnie",
+    "stars": 2,
+    "updated_at": "2026-10-10T14:44:48Z",
+    "url": "https://github.com/moyshik7/marnie"
+  },
+  {
+    "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
+    "id": "Jongtae/agentos",
+    "language": "Python",
+    "name": "Jongtae/agentos",
+    "stars": 0,
+    "updated_at": "2026-10-10T14:44:44Z",
+    "url": "https://github.com/Jongtae/agentos"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 345,
+    "updated_at": "2026-10-10T14:43:53Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-10T14:43:36Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-10-10T14:43:15Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
+    "id": "IAmNo1Special/mvgeos",
+    "language": "Python",
+    "name": "IAmNo1Special/mvgeos",
+    "stars": 1,
+    "updated_at": "2026-10-10T14:42:26Z",
+    "url": "https://github.com/IAmNo1Special/mvgeos"
+  },
+  {
+    "description": "LLM Agent \u670d\u52a1\uff1aLangChain + FastAPI + Vue3\uff0c\u6df7\u5408\u68c0\u7d22 RAG \u5e26\u5f15\u7528\u6eaf\u6e90\uff0cReAct \u53cc\u67b6\u6784\u5b9e\u6d4b\u62e9\u4f18\uff0898.5% vs 89.7%\uff09\uff0c\u8bed\u4e49\u7f13\u5b58\u96f6\u8bef\u547d\u4e2d\uff0c158 \u6761\u8bc4\u6d4b + CI \u56de\u5f52\u95e8\u7981\uff0cDocker \u516c",
+    "id": "SYM529/myAgent",
+    "language": "Python",
+    "name": "SYM529/myAgent",
+    "stars": 0,
+    "updated_at": "2026-10-10T14:41:36Z",
+    "url": "https://github.com/SYM529/myAgent"
+  },
+  {
+    "description": "LangGraph after-sales agent that cites evidence, refuses when evidence is weak, and learns from human review. Hybrid RAG",
+    "id": "codelformat/Aftersales-agent",
+    "language": "Python",
+    "name": "codelformat/Aftersales-agent",
+    "stars": 0,
+    "updated_at": "2026-10-10T14:41:04Z",
+    "url": "https://github.com/codelformat/Aftersales-agent"
+  },
+  {
+    "description": "\u8001\u5ba1\u8ba1\u00b7\u62e6\u622a\u5047\u7eff\uff1aAI \u8bf4\u300c\u6d4b\u8bd5\u5168\u8fc7\u4e86\u300d\u65f6\uff0c\u7528\u4e09\u95ee\uff08\u7ea2\u8fc7\u5417 / \u9519\u7684\u6293\u5f97\u4f4f\u5417 / \u6302\u7684\u90a3\u4e9b\u5462\uff09+ \u786e\u5b9a\u6027\u5de5\u5177\u94fe\u9a8c\u8bc1\u8fd9\u4e2a\u300c\u901a\u8fc7\u300d\u7b97\u4e0d\u7b97\u6570\u3002\u6ca1\u7ea2\u8fc7\u7684\u7eff\uff0c\u90fd\u662f\u5047\u7eff\u3002",
+    "id": "qlheric/xizi-rujin",
+    "language": "Python",
+    "name": "qlheric/xizi-rujin",
+    "stars": 1,
+    "updated_at": "2026-10-10T14:41:08Z",
+    "url": "https://github.com/qlheric/xizi-rujin"
+  },
+  {
+    "description": "\u0410\u0433\u0435\u043d\u0442\u043d\u044b\u0439 \u0430\u043d\u0430\u043b\u0438\u0437 \u0438\u043d\u0446\u0438\u0434\u0435\u043d\u0442\u043e\u0432 \u0434\u043b\u044f \u0431\u044d\u043a\u0435\u043d\u0434-\u0441\u0435\u0440\u0432\u0438\u0441\u043e\u0432: workflow \u043d\u0430 LangGraph, \u0438\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u0438 \u0447\u0435\u0440\u0435\u0437 MCP, \u0432\u044b\u0437\u043e\u0432 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u043e\u0432 \u0438 \u043e\u043f\u0435\u0440\u0430\u0446",
+    "id": "SlavaKlkv/ai_operations_agent",
+    "language": "Python",
+    "name": "SlavaKlkv/ai_operations_agent",
+    "stars": 0,
+    "updated_at": "2026-10-10T14:35:38Z",
+    "url": "https://github.com/SlavaKlkv/ai_operations_agent"
+  },
+  {
+    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
+    "id": "zty522/partner",
+    "language": "Python",
+    "name": "zty522/partner",
+    "stars": 5,
+    "updated_at": "2026-10-10T14:34:00Z",
+    "url": "https://github.com/zty522/partner"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 2,
+    "updated_at": "2026-10-10T14:31:51Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
     "description": "Native LLM Copilot for Your Terminal \u2013 **No Daemons. Zero Idle Memory. 100% On-Demand.**",
     "id": "akatzmann/slash-agent",
     "language": "Python",
@@ -14,17 +122,8 @@
     "language": "Kotlin",
     "name": "zeng6125-rgb/suixing",
     "stars": 0,
-    "updated_at": "2026-10-10T14:28:02Z",
+    "updated_at": "2026-10-10T14:38:05Z",
     "url": "https://github.com/zeng6125-rgb/suixing"
-  },
-  {
-    "description": "The local AI workspace with built-in tools. Run deep research, scrape websites, interact with local files, and trigger w",
-    "id": "moyshik7/marnie",
-    "language": "JavaScript",
-    "name": "moyshik7/marnie",
-    "stars": 1,
-    "updated_at": "2026-10-10T14:28:14Z",
-    "url": "https://github.com/moyshik7/marnie"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -36,15 +135,6 @@
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 2,
-    "updated_at": "2026-10-10T14:20:14Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
     "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
     "id": "Soodok/Deepseek-Harness-Local-Android",
     "language": "Kotlin",
@@ -52,24 +142,6 @@
     "stars": 211,
     "updated_at": "2026-10-10T14:19:24Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-10T14:18:12Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 345,
-    "updated_at": "2026-10-10T14:16:20Z",
-    "url": "https://github.com/yologdev/yoagent"
   },
   {
     "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
@@ -106,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-10T13:57:08Z",
     "url": "https://github.com/111wxh/researchwiki"
-  },
-  {
-    "description": "LLM Agent \u670d\u52a1\uff1aLangChain + FastAPI + Vue3\uff0c\u6df7\u5408\u68c0\u7d22 RAG \u5e26\u5f15\u7528\u6eaf\u6e90\uff0cReAct \u53cc\u67b6\u6784\u5b9e\u6d4b\u62e9\u4f18\uff0898.5% vs 89.7%\uff09\uff0c\u8bed\u4e49\u7f13\u5b58\u96f6\u8bef\u547d\u4e2d\uff0c158 \u6761\u8bc4\u6d4b + CI \u56de\u5f52\u95e8\u7981\uff0cDocker \u516c",
-    "id": "SYM529/myAgent",
-    "language": "Python",
-    "name": "SYM529/myAgent",
-    "stars": 0,
-    "updated_at": "2026-10-10T13:56:43Z",
-    "url": "https://github.com/SYM529/myAgent"
   },
   {
     "description": "QQ-BOT-Creative \u00b7 QQ \u7fa4 AI \u7fa4\u53cb\u673a\u5668\u4eba\u3002\u628a QQ \u5c0f\u53f7\u63a5\u7ed9\u4efb\u610f OpenAI \u517c\u5bb9\u6a21\u578b\uff08\u672c\u673a / DeepSeek / \u667a\u8c31 / \u901a\u4e49\uff09\uff0c\u8ba9 AI \u50cf\u7fa4\u53cb\u4e00\u6837\u63d2\u8bdd\u3001\u63a5\u6897\u3001\u6f5c\u6c34\u3002OneBot v11 + NapCat\uff0c",
@@ -185,7 +248,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-10T14:22:37Z",
+    "updated_at": "2026-10-10T14:33:02Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -225,15 +288,6 @@
     "url": "https://github.com/clashroy5384/ai-papers-hub"
   },
   {
-    "description": "\u8001\u5ba1\u8ba1\u00b7\u62e6\u622a\u5047\u7eff\uff1aAI \u8bf4\u300c\u6d4b\u8bd5\u5168\u8fc7\u4e86\u300d\u65f6\uff0c\u7528\u4e09\u95ee\uff08\u7ea2\u8fc7\u5417 / \u9519\u7684\u6293\u5f97\u4f4f\u5417 / \u6302\u7684\u90a3\u4e9b\u5462\uff09+ \u786e\u5b9a\u6027\u5de5\u5177\u94fe\u9a8c\u8bc1\u8fd9\u4e2a\u300c\u901a\u8fc7\u300d\u7b97\u4e0d\u7b97\u6570\u3002\u6ca1\u7ea2\u8fc7\u7684\u7eff\uff0c\u90fd\u662f\u5047\u7eff\u3002",
-    "id": "qlheric/xizi-rujin",
-    "language": "Python",
-    "name": "qlheric/xizi-rujin",
-    "stars": 1,
-    "updated_at": "2026-10-10T14:26:39Z",
-    "url": "https://github.com/qlheric/xizi-rujin"
-  },
-  {
     "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
     "id": "Ahmed4644/ComfyUI-zveroboy-photo",
     "language": "Python",
@@ -268,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-10-10T13:17:05Z",
     "url": "https://github.com/Stolas34/voice-input-src"
-  },
-  {
-    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
-    "id": "zty522/partner",
-    "language": "Python",
-    "name": "zty522/partner",
-    "stars": 5,
-    "updated_at": "2026-10-10T13:17:03Z",
-    "url": "https://github.com/zty522/partner"
   },
   {
     "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-10T12:44:13Z",
     "url": "https://github.com/Shuffle-1992/zcode-dispatch"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-10-10T12:41:20Z",
-    "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-10-10T12:38:19Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "Alan - a personal assistant that lives on your machine. Local-first memory, permission-gated tools, always-on scheduling",
-    "id": "akashjoshi1209/Alan",
-    "language": "Python",
-    "name": "akashjoshi1209/Alan",
-    "stars": 0,
-    "updated_at": "2026-10-10T12:36:36Z",
-    "url": "https://github.com/akashjoshi1209/Alan"
-  },
-  {
-    "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
-    "id": "OtakuNathan/Pal",
-    "language": "Python",
-    "name": "OtakuNathan/Pal",
-    "stars": 2,
-    "updated_at": "2026-10-10T12:35:45Z",
-    "url": "https://github.com/OtakuNathan/Pal"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-10-10T12:32:59Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
   }
 ]
