@@ -1,12 +1,66 @@
 [
   {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 130,
+    "updated_at": "2026-10-10T23:13:39Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Alan - a personal assistant that lives on your machine. Local-first memory, permission-gated tools, always-on scheduling",
+    "id": "akashjoshi1209/Alan",
+    "language": "Python",
+    "name": "akashjoshi1209/Alan",
+    "stars": 0,
+    "updated_at": "2026-10-10T23:11:08Z",
+    "url": "https://github.com/akashjoshi1209/Alan"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-10-10T23:09:32Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
+    "id": "watchcat/scout",
+    "language": "Rust",
+    "name": "watchcat/scout",
+    "stars": 0,
+    "updated_at": "2026-10-10T23:08:05Z",
+    "url": "https://github.com/watchcat/scout"
+  },
+  {
     "description": "US-equities strategy research: rule-based strategies and an LLM agent paper-traded daily via GitHub Actions against real",
     "id": "udayjain2102/agentic-paper-trading",
     "language": "Python",
     "name": "udayjain2102/agentic-paper-trading",
     "stars": 0,
-    "updated_at": "2026-10-10T22:58:15Z",
+    "updated_at": "2026-10-10T23:06:55Z",
     "url": "https://github.com/udayjain2102/agentic-paper-trading"
+  },
+  {
+    "description": "Keeps the rules and skills in a Claude Code setup from piling up and going stale: a Claude Code plugin of audit and upke",
+    "id": "shimo4228/akc-cycle",
+    "language": "Python",
+    "name": "shimo4228/akc-cycle",
+    "stars": 1,
+    "updated_at": "2026-10-10T23:06:16Z",
+    "url": "https://github.com/shimo4228/akc-cycle"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 6,
+    "updated_at": "2026-10-10T23:04:34Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
@@ -16,15 +70,6 @@
     "stars": 2,
     "updated_at": "2026-10-10T22:49:30Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 6,
-    "updated_at": "2026-10-10T22:43:09Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "IAmNo1Special/mvgeos",
     "stars": 1,
-    "updated_at": "2026-10-10T22:47:22Z",
+    "updated_at": "2026-10-10T23:07:35Z",
     "url": "https://github.com/IAmNo1Special/mvgeos"
   },
   {
@@ -79,15 +124,6 @@
     "stars": 280,
     "updated_at": "2026-10-10T22:13:11Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "Alan - a personal assistant that lives on your machine. Local-first memory, permission-gated tools, always-on scheduling",
-    "id": "akashjoshi1209/Alan",
-    "language": "Python",
-    "name": "akashjoshi1209/Alan",
-    "stars": 0,
-    "updated_at": "2026-10-10T22:11:32Z",
-    "url": "https://github.com/akashjoshi1209/Alan"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -151,15 +187,6 @@
     "stars": 79,
     "updated_at": "2026-10-10T21:39:46Z",
     "url": "https://github.com/xieguigang/sciBASIC"
-  },
-  {
-    "description": "Keeps the rules and skills in a Claude Code setup from piling up and going stale: a Claude Code plugin of audit and upke",
-    "id": "shimo4228/akc-cycle",
-    "language": "Python",
-    "name": "shimo4228/akc-cycle",
-    "stars": 1,
-    "updated_at": "2026-10-10T21:35:11Z",
-    "url": "https://github.com/shimo4228/akc-cycle"
   },
   {
     "description": "Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi",
@@ -241,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-10-10T21:15:23Z",
     "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-10-10T21:14:24Z",
-    "url": "https://github.com/g761007/daily-dispatch"
   },
   {
     "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-10T20:44:34Z",
     "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-10-10T20:42:02Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-10-10T20:41:09Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   }
 ]
