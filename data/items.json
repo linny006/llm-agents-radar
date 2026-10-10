@@ -1,5 +1,140 @@
 [
   {
+    "description": "AI coding agent for terminal, desktop and browser. Visible execution records, LAN mesh collaboration across machines, ph",
+    "id": "holylong/luban",
+    "language": "TypeScript",
+    "name": "holylong/luban",
+    "stars": 0,
+    "updated_at": "2026-10-10T11:00:00Z",
+    "url": "https://github.com/holylong/luban"
+  },
+  {
+    "description": "A compass for autonomous agents, not an operating manual.",
+    "id": "tachyon-r/first-principles-agent-soul",
+    "language": "\u2014",
+    "name": "tachyon-r/first-principles-agent-soul",
+    "stars": 1,
+    "updated_at": "2026-10-10T10:58:19Z",
+    "url": "https://github.com/tachyon-r/first-principles-agent-soul"
+  },
+  {
+    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
+    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "language": "\u2014",
+    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "stars": 0,
+    "updated_at": "2026-10-10T10:56:47Z",
+    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
+  },
+  {
+    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
+    "id": "clashroy5384/ai-papers-hub",
+    "language": "\u2014",
+    "name": "clashroy5384/ai-papers-hub",
+    "stars": 0,
+    "updated_at": "2026-10-10T10:55:50Z",
+    "url": "https://github.com/clashroy5384/ai-papers-hub"
+  },
+  {
+    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
+    "id": "wufufu770/d2d",
+    "language": "JavaScript",
+    "name": "wufufu770/d2d",
+    "stars": 4,
+    "updated_at": "2026-10-10T11:00:04Z",
+    "url": "https://github.com/wufufu770/d2d"
+  },
+  {
+    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
+    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
+    "language": "Python",
+    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
+    "stars": 5,
+    "updated_at": "2026-10-10T10:53:59Z",
+    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 2,
+    "updated_at": "2026-10-10T10:53:53Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
+    "id": "oxidizable-malinois605/bridge-suite-mcp",
+    "language": "TypeScript",
+    "name": "oxidizable-malinois605/bridge-suite-mcp",
+    "stars": 0,
+    "updated_at": "2026-10-10T10:52:01Z",
+    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
+  },
+  {
+    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
+    "id": "Arjunadh5305/ios-skills-collection",
+    "language": "\u2014",
+    "name": "Arjunadh5305/ios-skills-collection",
+    "stars": 1,
+    "updated_at": "2026-10-10T10:52:00Z",
+    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
+  },
+  {
+    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
+    "id": "Stolas34/voice-input-src",
+    "language": "\u2014",
+    "name": "Stolas34/voice-input-src",
+    "stars": 0,
+    "updated_at": "2026-10-10T10:51:39Z",
+    "url": "https://github.com/Stolas34/voice-input-src"
+  },
+  {
+    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
+    "id": "Screwtopped-annapavlova802/SparkLabs",
+    "language": "C++",
+    "name": "Screwtopped-annapavlova802/SparkLabs",
+    "stars": 1,
+    "updated_at": "2026-10-10T10:49:33Z",
+    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 20,
+    "updated_at": "2026-10-10T10:56:49Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
+    "id": "mriazi1982/octopai",
+    "language": "Python",
+    "name": "mriazi1982/octopai",
+    "stars": 1,
+    "updated_at": "2026-10-10T10:48:11Z",
+    "url": "https://github.com/mriazi1982/octopai"
+  },
+  {
+    "description": "A self-hosted software factory \u2014 define goals, agents decompose and execute them through enforced pipelines, with humans",
+    "id": "diraigent/diraigent",
+    "language": "Rust",
+    "name": "diraigent/diraigent",
+    "stars": 20,
+    "updated_at": "2026-10-10T10:47:11Z",
+    "url": "https://github.com/diraigent/diraigent"
+  },
+  {
+    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
+    "id": "mezoali100/exforum-auto-poster",
+    "language": "\u2014",
+    "name": "mezoali100/exforum-auto-poster",
+    "stars": 1,
+    "updated_at": "2026-10-10T10:45:20Z",
+    "url": "https://github.com/mezoali100/exforum-auto-poster"
+  },
+  {
     "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
     "id": "Bowotria/aethercore",
     "language": "Go",
@@ -14,17 +149,8 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4446,
-    "updated_at": "2026-10-10T10:44:33Z",
+    "updated_at": "2026-10-10T10:59:43Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 2,
-    "updated_at": "2026-10-10T10:43:07Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -50,7 +176,7 @@
     "language": "Python",
     "name": "Jongtae/agentos",
     "stars": 0,
-    "updated_at": "2026-10-10T10:41:04Z",
+    "updated_at": "2026-10-10T10:55:51Z",
     "url": "https://github.com/Jongtae/agentos"
   },
   {
@@ -108,15 +234,6 @@
     "url": "https://github.com/NitinReddy-A/Rampart"
   },
   {
-    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
-    "id": "wufufu770/d2d",
-    "language": "JavaScript",
-    "name": "wufufu770/d2d",
-    "stars": 4,
-    "updated_at": "2026-10-10T10:30:05Z",
-    "url": "https://github.com/wufufu770/d2d"
-  },
-  {
     "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
     "id": "yigido41/agentic-ai",
     "language": "Python",
@@ -142,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-10-10T10:25:33Z",
     "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "A self-hosted software factory \u2014 define goals, agents decompose and execute them through enforced pipelines, with humans",
-    "id": "diraigent/diraigent",
-    "language": "Rust",
-    "name": "diraigent/diraigent",
-    "stars": 20,
-    "updated_at": "2026-10-10T10:24:21Z",
-    "url": "https://github.com/diraigent/diraigent"
   },
   {
     "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
@@ -202,7 +310,7 @@
     "id": "jundizhou/easy-stock",
     "language": "Go",
     "name": "jundizhou/easy-stock",
-    "stars": 1398,
+    "stars": 1399,
     "updated_at": "2026-10-10T10:13:37Z",
     "url": "https://github.com/jundizhou/easy-stock"
   },
@@ -279,15 +387,6 @@
     "url": "https://github.com/Hayliy/naixi-desktop"
   },
   {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 20,
-    "updated_at": "2026-10-10T09:58:25Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "\u975e\u7ebf\u667a\u80fd NoneLinear - ReLE\u8bc4\u6d4b\uff1a\u4e2d\u6587AI\u5927\u6a21\u578b\u80fd\u529b\u8bc4\u6d4b\uff08\u6301\u7eed\u66f4\u65b0\uff09\uff1a\u76ee\u524d\u5df2\u56ca\u62ec374\u4e2a\u5927\u6a21\u578b\uff0c\u8986\u76d6chatgpt\u3001gpt-5.4\u3001\u8c37\u6b4cgemini-3.1-pro\u3001Claude-4.6\u3001\u6587\u5fc3ERNIE-X1.1\u3001ERNIE",
     "id": "jeinlee1991/chinese-llm-benchmark",
     "language": "\u2014",
@@ -320,7 +419,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 32,
-    "updated_at": "2026-10-10T10:20:52Z",
+    "updated_at": "2026-10-10T10:46:14Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -338,7 +437,7 @@
     "language": "Python",
     "name": "uukuguy/capstone",
     "stars": 0,
-    "updated_at": "2026-10-10T10:31:29Z",
+    "updated_at": "2026-10-10T10:48:22Z",
     "url": "https://github.com/uukuguy/capstone"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-10T09:11:12Z",
     "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
-    "description": "Verified DFT workflow MCP toolchain: dual-engine (GPAW/QE), convergence gates that actually gate, runtime results-vs-Mat",
-    "id": "Crystalhihihi/matmcp",
-    "language": "Python",
-    "name": "Crystalhihihi/matmcp",
-    "stars": 3,
-    "updated_at": "2026-10-10T09:05:22Z",
-    "url": "https://github.com/Crystalhihihi/matmcp"
-  },
-  {
-    "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
-    "id": "OtakuNathan/Pal",
-    "language": "Python",
-    "name": "OtakuNathan/Pal",
-    "stars": 2,
-    "updated_at": "2026-10-10T09:03:49Z",
-    "url": "https://github.com/OtakuNathan/Pal"
-  },
-  {
-    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
-    "id": "xieguigang/sciBASIC",
-    "language": "Visual Basic .NET",
-    "name": "xieguigang/sciBASIC",
-    "stars": 79,
-    "updated_at": "2026-10-10T08:52:40Z",
-    "url": "https://github.com/xieguigang/sciBASIC"
-  },
-  {
-    "description": "Evidence-grounded research agent with multi-step retrieval, citation verification, and reproducible evaluation.",
-    "id": "xiaolei-aba/research-evidence-agent",
-    "language": "Python",
-    "name": "xiaolei-aba/research-evidence-agent",
-    "stars": 0,
-    "updated_at": "2026-10-10T08:42:42Z",
-    "url": "https://github.com/xiaolei-aba/research-evidence-agent"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-10-10T08:38:09Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Pre-registered test of an AI analyst (Antigravity CLI) writing daily trade theses for OKX BTC/ETH/SOL perpetuals; data o",
-    "id": "crypmiy/vibe-trading-okx-futures",
-    "language": "Python",
-    "name": "crypmiy/vibe-trading-okx-futures",
-    "stars": 0,
-    "updated_at": "2026-10-10T08:37:54Z",
-    "url": "https://github.com/crypmiy/vibe-trading-okx-futures"
-  },
-  {
-    "description": "Google Search Console analysis and SEO workflows for Grok, Grok Bots and Grok Build: rankings, content decay, cannibaliz",
-    "id": "gscwizard/grok-plugin",
-    "language": "\u2014",
-    "name": "gscwizard/grok-plugin",
-    "stars": 0,
-    "updated_at": "2026-10-10T08:33:11Z",
-    "url": "https://github.com/gscwizard/grok-plugin"
-  },
-  {
-    "description": "Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/",
-    "id": "ZekaiShi/evo-subagent",
-    "language": "JavaScript",
-    "name": "ZekaiShi/evo-subagent",
-    "stars": 7,
-    "updated_at": "2026-10-10T08:30:51Z",
-    "url": "https://github.com/ZekaiShi/evo-subagent"
-  },
-  {
-    "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
-    "id": "yurika0211/lucky-agent",
-    "language": "Go",
-    "name": "yurika0211/lucky-agent",
-    "stars": 14,
-    "updated_at": "2026-10-10T08:29:03Z",
-    "url": "https://github.com/yurika0211/lucky-agent"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 130,
-    "updated_at": "2026-10-10T08:20:00Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-10-10T08:19:09Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   }
 ]
