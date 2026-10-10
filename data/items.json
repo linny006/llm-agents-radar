@@ -1,5 +1,59 @@
 [
   {
+    "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
+    "id": "yurika0211/lucky-agent",
+    "language": "Go",
+    "name": "yurika0211/lucky-agent",
+    "stars": 14,
+    "updated_at": "2026-10-10T08:29:03Z",
+    "url": "https://github.com/yurika0211/lucky-agent"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 130,
+    "updated_at": "2026-10-10T08:20:00Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
+    "id": "zty522/partner",
+    "language": "Python",
+    "name": "zty522/partner",
+    "stars": 5,
+    "updated_at": "2026-10-10T08:19:50Z",
+    "url": "https://github.com/zty522/partner"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-10-10T08:19:09Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "An autonomous on-call agent that investigates and remediates incidents on the Incident Platform through its MCP tool sur",
+    "id": "kudratsingh/incident-commander",
+    "language": "Python",
+    "name": "kudratsingh/incident-commander",
+    "stars": 0,
+    "updated_at": "2026-10-10T08:15:20Z",
+    "url": "https://github.com/kudratsingh/incident-commander"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u7684\u684c\u9762 AI \u667a\u80fd\u4f53\uff1a\u5bf9\u8bdd / \u684c\u5ba0 / \u76f4\u64ad\u4e92\u52a8 / \u5de5\u4f5c\u6d41 / \u81ea\u52a8\u5316 / \u77e5\u8bc6\u5e93 / \u8bb0\u5fc6\uff0c\u6a21\u578b\u8c03\u7528\u8d70\u4f60\u81ea\u5df1\u7684 Key\uff0c\u6570\u636e\u7559\u5728\u672c\u673a\u3002Tauri 2 + React 19 + Python 3.13\u3002",
+    "id": "Hayliy/naixi-desktop",
+    "language": "Python",
+    "name": "Hayliy/naixi-desktop",
+    "stars": 0,
+    "updated_at": "2026-10-10T08:15:15Z",
+    "url": "https://github.com/Hayliy/naixi-desktop"
+  },
+  {
     "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
     "id": "IAmNo1Special/mvgeos",
     "language": "Python",
@@ -16,24 +70,6 @@
     "stars": 1396,
     "updated_at": "2026-10-10T08:09:11Z",
     "url": "https://github.com/jundizhou/easy-stock"
-  },
-  {
-    "description": "\u672c\u5730\u4f18\u5148\u7684\u684c\u9762 AI \u667a\u80fd\u4f53\uff1a\u5bf9\u8bdd / \u684c\u5ba0 / \u76f4\u64ad\u4e92\u52a8 / \u5de5\u4f5c\u6d41 / \u81ea\u52a8\u5316 / \u77e5\u8bc6\u5e93 / \u8bb0\u5fc6\uff0c\u6a21\u578b\u8c03\u7528\u8d70\u4f60\u81ea\u5df1\u7684 Key\uff0c\u6570\u636e\u7559\u5728\u672c\u673a\u3002Tauri 2 + React 19 + Python 3.13\u3002",
-    "id": "Hayliy/naixi-desktop",
-    "language": "Python",
-    "name": "Hayliy/naixi-desktop",
-    "stars": 0,
-    "updated_at": "2026-10-10T08:15:15Z",
-    "url": "https://github.com/Hayliy/naixi-desktop"
-  },
-  {
-    "description": "An autonomous on-call agent that investigates and remediates incidents on the Incident Platform through its MCP tool sur",
-    "id": "kudratsingh/incident-commander",
-    "language": "Python",
-    "name": "kudratsingh/incident-commander",
-    "stars": 0,
-    "updated_at": "2026-10-10T08:08:07Z",
-    "url": "https://github.com/kudratsingh/incident-commander"
   },
   {
     "description": "Python SDK for durable AI agents: survive crashes, pause for human approval at no cost, scale from a script to a multi-h",
@@ -61,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-10T08:02:39Z",
     "url": "https://github.com/Jongtae/agentos"
-  },
-  {
-    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
-    "id": "zty522/partner",
-    "language": "Python",
-    "name": "zty522/partner",
-    "stars": 5,
-    "updated_at": "2026-10-10T08:01:43Z",
-    "url": "https://github.com/zty522/partner"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -131,7 +158,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 12,
-    "updated_at": "2026-10-10T08:09:56Z",
+    "updated_at": "2026-10-10T08:20:06Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 64,
     "updated_at": "2026-10-10T07:10:36Z",
     "url": "https://github.com/Sev7eEn7/dsh-sieve"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 33013,
-    "updated_at": "2026-10-10T07:08:26Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 575,
-    "updated_at": "2026-10-10T07:06:24Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
-  },
-  {
-    "description": "JevHub \u00b7 Jev \u751f\u6001\u70ed\u699c \u628a\u503c\u5f97\u5173\u6ce8\u7684 Jev \u9879\u76ee\u3001\u6559\u7a0b\u548c\u8ba8\u8bba\uff0c\u6c47\u5230\u4e00\u9875\u3002 \u81ea\u52a8\u53d1\u73b0 \u00b7 \u6bcf\u65e5\u66f4\u65b0 \u00b7 \u6309 Stars \u6392\u5e8f \u00b7 \u4e2d\u82f1\u53cc\u8bed",
-    "id": "frontierlabai/JevHub",
-    "language": "Python",
-    "name": "frontierlabai/JevHub",
-    "stars": 7,
-    "updated_at": "2026-10-10T07:05:27Z",
-    "url": "https://github.com/frontierlabai/JevHub"
   }
 ]
