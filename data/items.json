@@ -1,5 +1,23 @@
 [
   {
+    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
+    "id": "zty522/partner",
+    "language": "Python",
+    "name": "zty522/partner",
+    "stars": 5,
+    "updated_at": "2026-10-10T16:20:16Z",
+    "url": "https://github.com/zty522/partner"
+  },
+  {
+    "description": "Production-ready template for a self-hosted Agent Protocol server: FastAPI + LangGraph + PostgreSQL (+ optional Redis), ",
+    "id": "TekkenSteve/fastapi_langgraph_template",
+    "language": "Python",
+    "name": "TekkenSteve/fastapi_langgraph_template",
+    "stars": 3,
+    "updated_at": "2026-10-10T16:19:43Z",
+    "url": "https://github.com/TekkenSteve/fastapi_langgraph_template"
+  },
+  {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
     "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
@@ -36,6 +54,15 @@
     "url": "https://github.com/steven-vvv/gosim26-agentic-observer"
   },
   {
+    "description": "\u9ea6\u5a18\u684c\u9762 McDesk \u2014\u2014 \u4f4f\u5728\u4f60\u684c\u9762\u4e0a\u7684\u4e8c\u6b21\u5143\u9ea6\u5f53\u52b3\u5e97\u5458\u3002\u7531\u771f\u5b9e\u9ea6\u5f53\u52b3 MCP \u9a71\u52a8\uff1a\u4f1a\u547c\u5438\u3001\u4f1a\u7728\u773c\u3001\u4f1a\u8f6c\u5934\u770b\u4f60\uff0c\u53cc\u51fb\u5c31\u8df3\u821e\uff0c\u5238\u5feb\u8fc7\u671f\u4e86\u5979\u4f1a\u5148\u6025\u3002",
+    "id": "For-Chance/mcd-desk-mate",
+    "language": "JavaScript",
+    "name": "For-Chance/mcd-desk-mate",
+    "stars": 0,
+    "updated_at": "2026-10-10T16:05:05Z",
+    "url": "https://github.com/For-Chance/mcd-desk-mate"
+  },
+  {
     "description": "LLM-assisted code auditing. 54 phases, custom overlays, accountability.",
     "id": "sturec5/code-audit-protocol",
     "language": "Shell",
@@ -52,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-10-10T16:04:48Z",
     "url": "https://github.com/zeng6125-rgb/suixing"
-  },
-  {
-    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
-    "id": "zty522/partner",
-    "language": "Python",
-    "name": "zty522/partner",
-    "stars": 5,
-    "updated_at": "2026-10-10T15:59:15Z",
-    "url": "https://github.com/zty522/partner"
   },
   {
     "description": "MCP server for spatial transcriptomics analysis through natural language interfaces.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-10T13:23:26Z",
     "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
-    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "language": "Python",
-    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "stars": 5,
-    "updated_at": "2026-10-10T13:20:36Z",
-    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
-  },
-  {
-    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
-    "id": "oxidizable-malinois605/bridge-suite-mcp",
-    "language": "TypeScript",
-    "name": "oxidizable-malinois605/bridge-suite-mcp",
-    "stars": 0,
-    "updated_at": "2026-10-10T13:17:34Z",
-    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
   }
 ]
