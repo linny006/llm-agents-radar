@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-10 00:08 UTC
+> ⏰ Last updated: 2026-10-10 00:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Zahnschmelz/vishva](https://github.com/Zahnschmelz/vishva) | 0 | Python | 2026-10-10 | Identity-Driven Autonomous Local Agent |
-| 2 | [bigfish1913/pi-rust](https://github.com/bigfish1913/pi-rust) | 70 | Rust | 2026-10-10 | Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s |
-| 3 | [IAmNo1Special/mvgeos](https://github.com/IAmNo1Special/mvgeos) | 1 | Python | 2026-10-10 | An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to |
-| 4 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 1 | TypeScript | 2026-10-10 | Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers. |
-| 5 | [denisotree/veles](https://github.com/denisotree/veles) | 4 | Python | 2026-10-10 | Minimal CLI agent framework with compounding project memory — gets smarter with every session. Clean, modular, any LLM p |
-| 6 | [sampreethsharma7/smith-chart-tutor](https://github.com/sampreethsharma7/smith-chart-tutor) | 0 | TypeScript | 2026-10-09 | Interactive Smith chart with an agentic AI tutor that teaches like a person and grades like an engineer |
-| 7 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-09 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
-| 8 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 22 | Python | 2026-10-09 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、HMI和Android双端；LLM 只负责理解与规划，VAL 负责确定性安全执行 |
-| 9 | [zhixuli0406/DuDuClaw](https://github.com/zhixuli0406/DuDuClaw) | 49 | Rust | 2026-10-09 | Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha |
-| 10 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 765 | JavaScript | 2026-10-10 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
+| 1 | [denisotree/veles](https://github.com/denisotree/veles) | 4 | Python | 2026-10-10 | Minimal CLI agent framework with compounding project memory — gets smarter with every session. Clean, modular, any LLM p |
+| 2 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 765 | JavaScript | 2026-10-10 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
+| 3 | [Zahnschmelz/vishva](https://github.com/Zahnschmelz/vishva) | 0 | Python | 2026-10-10 | Identity-Driven Autonomous Local Agent |
+| 4 | [bigfish1913/pi-rust](https://github.com/bigfish1913/pi-rust) | 70 | Rust | 2026-10-10 | Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s |
+| 5 | [IAmNo1Special/mvgeos](https://github.com/IAmNo1Special/mvgeos) | 1 | Python | 2026-10-10 | An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to |
+| 6 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 1 | TypeScript | 2026-10-10 | Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers. |
+| 7 | [sampreethsharma7/smith-chart-tutor](https://github.com/sampreethsharma7/smith-chart-tutor) | 0 | TypeScript | 2026-10-09 | Interactive Smith chart with an agentic AI tutor that teaches like a person and grades like an engineer |
+| 8 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-09 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
+| 9 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 22 | Python | 2026-10-09 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、HMI和Android双端；LLM 只负责理解与规划，VAL 负责确定性安全执行 |
+| 10 | [zhixuli0406/DuDuClaw](https://github.com/zhixuli0406/DuDuClaw) | 49 | Rust | 2026-10-09 | Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha |
 | 11 | [SlavaKlkv/ai_operations_agent](https://github.com/SlavaKlkv/ai_operations_agent) | 0 | Python | 2026-10-09 | Агентный анализ инцидентов для бэкенд-сервисов: workflow на LangGraph, интеграции через MCP, вызов инструментов и операц |
 | 12 | [dkblinux98/nyxGPT](https://github.com/dkblinux98/nyxGPT) | 0 | Python | 2026-10-09 | Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi |
 | 13 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-10-09 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |

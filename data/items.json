@@ -1,5 +1,23 @@
 [
   {
+    "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
+    "id": "denisotree/veles",
+    "language": "Python",
+    "name": "denisotree/veles",
+    "stars": 4,
+    "updated_at": "2026-10-10T00:15:08Z",
+    "url": "https://github.com/denisotree/veles"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 765,
+    "updated_at": "2026-10-10T00:12:39Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
     "description": "Identity-Driven Autonomous Local Agent",
     "id": "Zahnschmelz/vishva",
     "language": "Python",
@@ -23,7 +41,7 @@
     "language": "Python",
     "name": "IAmNo1Special/mvgeos",
     "stars": 1,
-    "updated_at": "2026-10-10T00:07:32Z",
+    "updated_at": "2026-10-10T00:12:32Z",
     "url": "https://github.com/IAmNo1Special/mvgeos"
   },
   {
@@ -34,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-10-10T00:07:14Z",
     "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
-    "id": "denisotree/veles",
-    "language": "Python",
-    "name": "denisotree/veles",
-    "stars": 4,
-    "updated_at": "2026-10-10T00:08:55Z",
-    "url": "https://github.com/denisotree/veles"
   },
   {
     "description": "Interactive Smith chart with an agentic AI tutor that teaches like a person and grades like an engineer",
@@ -79,15 +88,6 @@
     "stars": 49,
     "updated_at": "2026-10-09T23:47:00Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 765,
-    "updated_at": "2026-10-10T00:07:23Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "\u0410\u0433\u0435\u043d\u0442\u043d\u044b\u0439 \u0430\u043d\u0430\u043b\u0438\u0437 \u0438\u043d\u0446\u0438\u0434\u0435\u043d\u0442\u043e\u0432 \u0434\u043b\u044f \u0431\u044d\u043a\u0435\u043d\u0434-\u0441\u0435\u0440\u0432\u0438\u0441\u043e\u0432: workflow \u043d\u0430 LangGraph, \u0438\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u0438 \u0447\u0435\u0440\u0435\u0437 MCP, \u0432\u044b\u0437\u043e\u0432 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u043e\u0432 \u0438 \u043e\u043f\u0435\u0440\u0430\u0446",
