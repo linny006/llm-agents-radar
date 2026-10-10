@@ -1,12 +1,39 @@
 [
   {
-    "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
-    "id": "denisotree/veles",
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
     "language": "Python",
-    "name": "denisotree/veles",
-    "stars": 4,
-    "updated_at": "2026-10-10T00:15:08Z",
-    "url": "https://github.com/denisotree/veles"
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 22,
+    "updated_at": "2026-10-10T00:29:10Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-10-10T00:25:52Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "\u9762\u5411\u5217\u8f66\u7f51\u7edc\u63a7\u5236\u7cfb\u7edf\uff08TCMS/CAN\uff09\u7684\u6d4b\u8bd5\u5e73\u53f0\uff0c\u5916\u52a0\u4e00\u5c42 AI \u6d4b\u8bd5 Agent\uff1a\u67e5\u77e5\u8bc6\u5e93\u3001\u9020\u7528\u4f8b\u3001\u5728\u672c\u673a\u771f\u8dd1\uff0c\u7ed3\u8bba\u5e26\u5f15\u7528\u3001\u80fd\u9010\u6761\u6838\u5bf9\u3002\u5f15\u64ce 960 \u6761\u62a5\u6587\u7528\u4f8b\u3001203 \u6761 FMEA\u3001104 \u4e2a\u53ef\u6267\u884c\u573a\u666f\u90fd\u662f\u771f\u8d44\u4ea7\uff1b\u56db\u7ea7\u5de5\u5177\u6743\u9650 + \u4eba",
+    "id": "zych2002918/tcms-agent",
+    "language": "Python",
+    "name": "zych2002918/tcms-agent",
+    "stars": 0,
+    "updated_at": "2026-10-10T00:23:16Z",
+    "url": "https://github.com/zych2002918/tcms-agent"
+  },
+  {
+    "description": "\u7aef\u5230\u7aef\u667a\u80fd\u4f53\u5e73\u53f0\uff1a\u628a\u672c\u673a\u7684 AI Agent \u53d8\u6210\u4eba\u4eba\u53ef\u7528\u7684 Web \u4ea7\u54c1\uff08Vue 3 + Flask + Go WS \u7f51\u5173 + Docker \u90e8\u7f72\uff09",
+    "id": "liaosiliangCodeLife/harness-mate-plat",
+    "language": "Python",
+    "name": "liaosiliangCodeLife/harness-mate-plat",
+    "stars": 10,
+    "updated_at": "2026-10-10T00:22:01Z",
+    "url": "https://github.com/liaosiliangCodeLife/harness-mate-plat"
   },
   {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
@@ -14,8 +41,44 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 765,
-    "updated_at": "2026-10-10T00:12:39Z",
+    "updated_at": "2026-10-10T00:21:20Z",
     "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 195,
+    "updated_at": "2026-10-10T00:20:34Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
+    "id": "IAmNo1Special/mvgeos",
+    "language": "Python",
+    "name": "IAmNo1Special/mvgeos",
+    "stars": 1,
+    "updated_at": "2026-10-10T00:16:58Z",
+    "url": "https://github.com/IAmNo1Special/mvgeos"
+  },
+  {
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
+    "id": "bigfish1913/pi-rust",
+    "language": "Rust",
+    "name": "bigfish1913/pi-rust",
+    "stars": 70,
+    "updated_at": "2026-10-10T00:22:22Z",
+    "url": "https://github.com/bigfish1913/pi-rust"
+  },
+  {
+    "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
+    "id": "denisotree/veles",
+    "language": "Python",
+    "name": "denisotree/veles",
+    "stars": 4,
+    "updated_at": "2026-10-10T00:19:33Z",
+    "url": "https://github.com/denisotree/veles"
   },
   {
     "description": "Identity-Driven Autonomous Local Agent",
@@ -25,24 +88,6 @@
     "stars": 0,
     "updated_at": "2026-10-10T00:08:44Z",
     "url": "https://github.com/Zahnschmelz/vishva"
-  },
-  {
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
-    "id": "bigfish1913/pi-rust",
-    "language": "Rust",
-    "name": "bigfish1913/pi-rust",
-    "stars": 70,
-    "updated_at": "2026-10-10T00:07:58Z",
-    "url": "https://github.com/bigfish1913/pi-rust"
-  },
-  {
-    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
-    "id": "IAmNo1Special/mvgeos",
-    "language": "Python",
-    "name": "IAmNo1Special/mvgeos",
-    "stars": 1,
-    "updated_at": "2026-10-10T00:12:32Z",
-    "url": "https://github.com/IAmNo1Special/mvgeos"
   },
   {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
@@ -70,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T23:54:33Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 22,
-    "updated_at": "2026-10-09T23:48:51Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
     "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
@@ -124,6 +160,15 @@
     "stars": 0,
     "updated_at": "2026-10-09T23:07:37Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "An experimental agentic overlay for Zelda: Breath of the Wild, combining screenshots, speech, persistent campaign memory",
+    "id": "Cobblecat/The-Lens",
+    "language": "\u2014",
+    "name": "Cobblecat/The-Lens",
+    "stars": 1,
+    "updated_at": "2026-10-09T22:59:32Z",
+    "url": "https://github.com/Cobblecat/The-Lens"
   },
   {
     "description": "Easy-to-use, customizable, high-quality secure code review skills for AI agents.",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-09T21:40:21Z",
     "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-10-09T21:37:53Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 3,
-    "updated_at": "2026-10-09T21:37:44Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-10-09T21:36:34Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
-    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "language": "HTML",
-    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "stars": 0,
-    "updated_at": "2026-10-09T21:32:46Z",
-    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 130,
-    "updated_at": "2026-10-09T21:32:24Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
   }
 ]
