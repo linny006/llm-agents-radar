@@ -1,12 +1,66 @@
 [
   {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-10T17:11:54Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-10T17:12:29Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Alan - a personal assistant that lives on your machine. Local-first memory, permission-gated tools, always-on scheduling",
+    "id": "akashjoshi1209/Alan",
+    "language": "Python",
+    "name": "akashjoshi1209/Alan",
+    "stars": 0,
+    "updated_at": "2026-10-10T17:10:51Z",
+    "url": "https://github.com/akashjoshi1209/Alan"
+  },
+  {
+    "description": "\u8b93 Jev \u6a21\u578b\u6253\u7210\u77f3\u6230\u8a18\u7684\u6a5f\u5668\u4eba\uff1a\u8b80 Power.log \u5224\u8b80\u76e4\u9762\uff0c\u898f\u5247\u8207\u641c\u5c0b\u526a\u679d\u5f8c\u7531\u6a21\u578b\u9078\u4e00\u6b65\uff0c\u518d\u7528\u6ed1\u9f20\u9ede\u51fa\u4f86\u3002\u542b\u68c4\u724c\u8853\u6253\u6cd5\u8207\u7121\u4eba\u503c\u5b88\u5929\u68af\u8173\u672c\u3002",
+    "id": "Lanternko/jev-hearthstone",
+    "language": "JavaScript",
+    "name": "Lanternko/jev-hearthstone",
+    "stars": 1,
+    "updated_at": "2026-10-10T17:08:12Z",
+    "url": "https://github.com/Lanternko/jev-hearthstone"
+  },
+  {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
     "id": "genaforvena/mishe-tauftauf",
     "language": "Python",
     "name": "genaforvena/mishe-tauftauf",
     "stars": 2,
-    "updated_at": "2026-10-10T17:00:02Z",
+    "updated_at": "2026-10-10T17:03:59Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
+    "id": "OtakuNathan/Pal",
+    "language": "Python",
+    "name": "OtakuNathan/Pal",
+    "stars": 2,
+    "updated_at": "2026-10-10T17:01:01Z",
+    "url": "https://github.com/OtakuNathan/Pal"
+  },
+  {
+    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
+    "id": "zty522/partner",
+    "language": "Python",
+    "name": "zty522/partner",
+    "stars": 5,
+    "updated_at": "2026-10-10T17:00:47Z",
+    "url": "https://github.com/zty522/partner"
   },
   {
     "description": "LLM \u5e94\u7528\u5e76\u53d1\u8d28\u91cf\u5224\u5b9a\u5de5\u5177\uff08\u5efa\u8bbe\u4e2d\uff09\uff1aM1 \u5e95\u5ea7\u5df2\u4ea4\u4ed8\uff08SSE \u5e27\u89e3\u6790 / \u65f6\u5e8f\u56de\u653e / \u9884\u7b97\u7194\u65ad / \u591a\u6a21\u578b\u9002\u914d\uff09\uff1bM3-M4 \u5c06\u4ea4\u4ed8\u7edf\u8ba1\u63a8\u65ad + \u6d4b\u91cf\u81ea\u8bc1 + \u9884\u6ce8\u518c\u51bb\u7ed3\u95e8\u7981\u3002\u56de\u7b54 ' \u8fd9\u4e2a\u4e0b\u964d\u662f\u4e0d\u662f\u771f\u7684 '\u3002",
@@ -50,26 +104,8 @@
     "language": "Python",
     "name": "kudratsingh/incident-commander",
     "stars": 0,
-    "updated_at": "2026-10-10T16:53:19Z",
+    "updated_at": "2026-10-10T17:06:20Z",
     "url": "https://github.com/kudratsingh/incident-commander"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-10T16:59:07Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "\u8b93 Jev \u6a21\u578b\u6253\u7210\u77f3\u6230\u8a18\u7684\u6a5f\u5668\u4eba\uff1a\u8b80 Power.log \u5224\u8b80\u76e4\u9762\uff0c\u898f\u5247\u8207\u641c\u5c0b\u526a\u679d\u5f8c\u7531\u6a21\u578b\u9078\u4e00\u6b65\uff0c\u518d\u7528\u6ed1\u9f20\u9ede\u51fa\u4f86\u3002\u542b\u68c4\u724c\u8853\u6253\u6cd5\u8207\u7121\u4eba\u503c\u5b88\u5929\u68af\u8173\u672c\u3002",
-    "id": "Lanternko/jev-hearthstone",
-    "language": "JavaScript",
-    "name": "Lanternko/jev-hearthstone",
-    "stars": 1,
-    "updated_at": "2026-10-10T16:49:37Z",
-    "url": "https://github.com/Lanternko/jev-hearthstone"
   },
   {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
@@ -86,7 +122,7 @@
     "language": "Dart",
     "name": "justacalico/devinorium",
     "stars": 0,
-    "updated_at": "2026-10-10T16:44:30Z",
+    "updated_at": "2026-10-10T17:08:36Z",
     "url": "https://github.com/justacalico/devinorium"
   },
   {
@@ -153,15 +189,6 @@
     "url": "https://github.com/zeng6125-rgb/suixing"
   },
   {
-    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
-    "id": "zty522/partner",
-    "language": "Python",
-    "name": "zty522/partner",
-    "stars": 5,
-    "updated_at": "2026-10-10T16:20:16Z",
-    "url": "https://github.com/zty522/partner"
-  },
-  {
     "description": "Production-ready template for a self-hosted Agent Protocol server: FastAPI + LangGraph + PostgreSQL (+ optional Redis), ",
     "id": "TekkenSteve/fastapi_langgraph_template",
     "language": "Python",
@@ -171,13 +198,13 @@
     "url": "https://github.com/TekkenSteve/fastapi_langgraph_template"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
+    "description": "Support ticket triage service: an LLM proposes, a policy table decides who approves, and code executes. FastAPI, Postgre",
+    "id": "Genedevelop/ticket-triage-service",
     "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
+    "name": "Genedevelop/ticket-triage-service",
     "stars": 0,
-    "updated_at": "2026-10-10T16:11:07Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+    "updated_at": "2026-10-10T16:11:37Z",
+    "url": "https://github.com/Genedevelop/ticket-triage-service"
   },
   {
     "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
@@ -185,7 +212,7 @@
     "language": "Python",
     "name": "IAmNo1Special/mvgeos",
     "stars": 1,
-    "updated_at": "2026-10-10T16:53:11Z",
+    "updated_at": "2026-10-10T17:07:49Z",
     "url": "https://github.com/IAmNo1Special/mvgeos"
   },
   {
@@ -239,7 +266,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4446,
-    "updated_at": "2026-10-10T16:54:29Z",
+    "updated_at": "2026-10-10T17:05:17Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -266,7 +293,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 765,
-    "updated_at": "2026-10-10T17:00:00Z",
+    "updated_at": "2026-10-10T17:12:04Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -277,6 +304,15 @@
     "stars": 130,
     "updated_at": "2026-10-10T15:42:12Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "The local AI workspace with built-in tools. Run deep research, scrape websites, interact with local files, and trigger w",
+    "id": "moyshik7/marnie",
+    "language": "JavaScript",
+    "name": "moyshik7/marnie",
+    "stars": 2,
+    "updated_at": "2026-10-10T15:39:27Z",
+    "url": "https://github.com/moyshik7/marnie"
   },
   {
     "description": "Personal AI agent built from scratch \u2014 LLM layer, RAG knowledge base, tool calling loop. No frameworks, learn by buildin",
@@ -360,15 +396,6 @@
     "url": "https://github.com/anchor-inference/daedalus"
   },
   {
-    "description": "The local AI workspace with built-in tools. Run deep research, scrape websites, interact with local files, and trigger w",
-    "id": "moyshik7/marnie",
-    "language": "JavaScript",
-    "name": "moyshik7/marnie",
-    "stars": 2,
-    "updated_at": "2026-10-10T15:39:27Z",
-    "url": "https://github.com/moyshik7/marnie"
-  },
-  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -421,32 +448,5 @@
     "stars": 215,
     "updated_at": "2026-10-10T14:19:24Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
-    "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
-    "id": "cheeezis/job_finder",
-    "language": "Python",
-    "name": "cheeezis/job_finder",
-    "stars": 0,
-    "updated_at": "2026-10-10T14:15:36Z",
-    "url": "https://github.com/cheeezis/job_finder"
-  },
-  {
-    "description": "\u81ea\u8fdb\u5316\u7814\u7a76 Wiki \u667a\u80fd\u4f53\uff1a\u81ea\u5efa agent harness + \u4e09\u5c42\u8bb0\u5fc6 + \u5f15\u7528\u5f3a\u5236\u4e0e\u51b2\u7a81\u5bf9\u8d26",
-    "id": "111wxh/researchwiki",
-    "language": "Python",
-    "name": "111wxh/researchwiki",
-    "stars": 0,
-    "updated_at": "2026-10-10T13:57:08Z",
-    "url": "https://github.com/111wxh/researchwiki"
-  },
-  {
-    "description": "QQ-BOT-Creative \u00b7 QQ \u7fa4 AI \u7fa4\u53cb\u673a\u5668\u4eba\u3002\u628a QQ \u5c0f\u53f7\u63a5\u7ed9\u4efb\u610f OpenAI \u517c\u5bb9\u6a21\u578b\uff08\u672c\u673a / DeepSeek / \u667a\u8c31 / \u901a\u4e49\uff09\uff0c\u8ba9 AI \u50cf\u7fa4\u53cb\u4e00\u6837\u63d2\u8bdd\u3001\u63a5\u6897\u3001\u6f5c\u6c34\u3002OneBot v11 + NapCat\uff0c",
-    "id": "Canvixel-Eloweny/ai-bot-groupmate",
-    "language": "JavaScript",
-    "name": "Canvixel-Eloweny/ai-bot-groupmate",
-    "stars": 21,
-    "updated_at": "2026-10-10T13:53:36Z",
-    "url": "https://github.com/Canvixel-Eloweny/ai-bot-groupmate"
   }
 ]
