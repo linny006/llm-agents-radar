@@ -1,5 +1,41 @@
 [
   {
+    "description": "LLM \u5e94\u7528\u5728\u5e76\u53d1\u8d1f\u8f7d\u4e0b\u7684\u8d28\u91cf\u53d8\u5316\u5224\u5b9a\uff1a\u7edf\u8ba1\u63a8\u65ad + \u6d4b\u91cf\u6709\u6548\u6027 + \u9884\u6ce8\u518c\u51bb\u7ed3",
+    "id": "hu-chenyu/AquaMind",
+    "language": "Python",
+    "name": "hu-chenyu/AquaMind",
+    "stars": 1,
+    "updated_at": "2026-10-10T11:44:38Z",
+    "url": "https://github.com/hu-chenyu/AquaMind"
+  },
+  {
+    "description": "\u81ea\u8fdb\u5316\u7814\u7a76 Wiki \u667a\u80fd\u4f53\uff1a\u81ea\u5efa agent harness + \u4e09\u5c42\u8bb0\u5fc6 + \u5f15\u7528\u5f3a\u5236\u4e0e\u51b2\u7a81\u5bf9\u8d26",
+    "id": "111wxh/researchwiki",
+    "language": "Python",
+    "name": "111wxh/researchwiki",
+    "stars": 0,
+    "updated_at": "2026-10-10T11:43:56Z",
+    "url": "https://github.com/111wxh/researchwiki"
+  },
+  {
+    "description": "Autonomous Workspace ORGanism",
+    "id": "kevinnading/aworg",
+    "language": "Python",
+    "name": "kevinnading/aworg",
+    "stars": 1,
+    "updated_at": "2026-10-10T11:43:42Z",
+    "url": "https://github.com/kevinnading/aworg"
+  },
+  {
+    "description": "Open-source, self-hostable AppSec agent that finds, proves, and helps fix web/API vulnerabilities \u2014 evidence-first (inde",
+    "id": "NitinReddy-A/Rampart",
+    "language": "Python",
+    "name": "NitinReddy-A/Rampart",
+    "stars": 4,
+    "updated_at": "2026-10-10T11:43:29Z",
+    "url": "https://github.com/NitinReddy-A/Rampart"
+  },
+  {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
     "id": "genaforvena/mishe-tauftauf",
     "language": "Python",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4446,
-    "updated_at": "2026-10-10T11:37:27Z",
+    "updated_at": "2026-10-10T11:39:49Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -68,7 +104,7 @@
     "language": "Python",
     "name": "kudratsingh/incident-commander",
     "stars": 0,
-    "updated_at": "2026-10-10T11:39:22Z",
+    "updated_at": "2026-10-10T11:43:49Z",
     "url": "https://github.com/kudratsingh/incident-commander"
   },
   {
@@ -79,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-10-10T11:21:52Z",
     "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "\u81ea\u8fdb\u5316\u7814\u7a76 Wiki \u667a\u80fd\u4f53\uff1a\u81ea\u5efa agent harness + \u4e09\u5c42\u8bb0\u5fc6 + \u5f15\u7528\u5f3a\u5236\u4e0e\u51b2\u7a81\u5bf9\u8d26",
-    "id": "111wxh/researchwiki",
-    "language": "Python",
-    "name": "111wxh/researchwiki",
-    "stars": 0,
-    "updated_at": "2026-10-10T11:12:11Z",
-    "url": "https://github.com/111wxh/researchwiki"
   },
   {
     "description": "Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi",
@@ -342,15 +369,6 @@
     "url": "https://github.com/axxafo/awesome-agent-benchmarks"
   },
   {
-    "description": "Open-source, self-hostable AppSec agent that finds, proves, and helps fix web/API vulnerabilities \u2014 evidence-first (inde",
-    "id": "NitinReddy-A/Rampart",
-    "language": "Python",
-    "name": "NitinReddy-A/Rampart",
-    "stars": 4,
-    "updated_at": "2026-10-10T10:31:24Z",
-    "url": "https://github.com/NitinReddy-A/Rampart"
-  },
-  {
     "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
     "id": "yigido41/agentic-ai",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-10T10:12:40Z",
     "url": "https://github.com/zty522/partner"
-  },
-  {
-    "description": "tmux for coding agents. Run AI coding agents side by side in tabs.",
-    "id": "mmoehabb/maestro",
-    "language": "Go",
-    "name": "mmoehabb/maestro",
-    "stars": 0,
-    "updated_at": "2026-10-10T10:10:57Z",
-    "url": "https://github.com/mmoehabb/maestro"
-  },
-  {
-    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
-    "id": "ljedrz/nachalnik",
-    "language": "Rust",
-    "name": "ljedrz/nachalnik",
-    "stars": 5,
-    "updated_at": "2026-10-10T10:07:56Z",
-    "url": "https://github.com/ljedrz/nachalnik"
   }
 ]
