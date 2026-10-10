@@ -1,5 +1,14 @@
 [
   {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 80,
+    "updated_at": "2026-10-10T23:30:39Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
     "id": "genaforvena/mishe-tauftauf",
     "language": "Python",
@@ -311,7 +320,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-10-10T21:33:23Z",
+    "updated_at": "2026-10-10T23:31:13Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-10T20:57:11Z",
     "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "Free MIT AI coding agent \u2014 no API key needed. Built-in free model, or bring Claude, GPT, Gemini, DeepSeek, Ollama +50 mo",
-    "id": "dragonked2/alphacode",
-    "language": "Rust",
-    "name": "dragonked2/alphacode",
-    "stars": 264,
-    "updated_at": "2026-10-10T20:51:59Z",
-    "url": "https://github.com/dragonked2/alphacode"
   }
 ]
