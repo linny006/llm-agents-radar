@@ -1,5 +1,68 @@
 [
   {
+    "description": "An autonomous on-call agent that investigates and remediates incidents on the Incident Platform through its MCP tool sur",
+    "id": "kudratsingh/incident-commander",
+    "language": "Python",
+    "name": "kudratsingh/incident-commander",
+    "stars": 0,
+    "updated_at": "2026-10-10T13:58:27Z",
+    "url": "https://github.com/kudratsingh/incident-commander"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 23,
+    "updated_at": "2026-10-10T13:58:05Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "\u81ea\u8fdb\u5316\u7814\u7a76 Wiki \u667a\u80fd\u4f53\uff1a\u81ea\u5efa agent harness + \u4e09\u5c42\u8bb0\u5fc6 + \u5f15\u7528\u5f3a\u5236\u4e0e\u51b2\u7a81\u5bf9\u8d26",
+    "id": "111wxh/researchwiki",
+    "language": "Python",
+    "name": "111wxh/researchwiki",
+    "stars": 0,
+    "updated_at": "2026-10-10T13:57:08Z",
+    "url": "https://github.com/111wxh/researchwiki"
+  },
+  {
+    "description": "LLM Agent \u670d\u52a1\uff1aLangChain + FastAPI + Vue3\uff0c\u6df7\u5408\u68c0\u7d22 RAG \u5e26\u5f15\u7528\u6eaf\u6e90\uff0cReAct \u53cc\u67b6\u6784\u5b9e\u6d4b\u62e9\u4f18\uff0898.5% vs 89.7%\uff09\uff0c\u8bed\u4e49\u7f13\u5b58\u96f6\u8bef\u547d\u4e2d\uff0c158 \u6761\u8bc4\u6d4b + CI \u56de\u5f52\u95e8\u7981\uff0cDocker \u516c",
+    "id": "SYM529/myAgent",
+    "language": "Python",
+    "name": "SYM529/myAgent",
+    "stars": 0,
+    "updated_at": "2026-10-10T13:56:43Z",
+    "url": "https://github.com/SYM529/myAgent"
+  },
+  {
+    "description": "QQ-BOT-Creative \u00b7 QQ \u7fa4 AI \u7fa4\u53cb\u673a\u5668\u4eba\u3002\u628a QQ \u5c0f\u53f7\u63a5\u7ed9\u4efb\u610f OpenAI \u517c\u5bb9\u6a21\u578b\uff08\u672c\u673a / DeepSeek / \u667a\u8c31 / \u901a\u4e49\uff09\uff0c\u8ba9 AI \u50cf\u7fa4\u53cb\u4e00\u6837\u63d2\u8bdd\u3001\u63a5\u6897\u3001\u6f5c\u6c34\u3002OneBot v11 + NapCat\uff0c",
+    "id": "Canvixel-Eloweny/ai-bot-groupmate",
+    "language": "JavaScript",
+    "name": "Canvixel-Eloweny/ai-bot-groupmate",
+    "stars": 19,
+    "updated_at": "2026-10-10T13:53:36Z",
+    "url": "https://github.com/Canvixel-Eloweny/ai-bot-groupmate"
+  },
+  {
+    "description": "A personal expense-tracking agent running on Claude Code: the capture side is deliberately stupid (one sentence to Siri)",
+    "id": "seanlu2006/CountAgent",
+    "language": "Python",
+    "name": "seanlu2006/CountAgent",
+    "stars": 0,
+    "updated_at": "2026-10-10T13:51:21Z",
+    "url": "https://github.com/seanlu2006/CountAgent"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 2,
+    "updated_at": "2026-10-10T13:48:07Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
     "description": "Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi",
     "id": "zig333/ELAI-archive",
     "language": "\u2014",
@@ -50,7 +113,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-10T13:41:05Z",
+    "updated_at": "2026-10-10T13:52:01Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -63,15 +126,6 @@
     "url": "https://github.com/ImWuMie/wear-agent"
   },
   {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 2,
-    "updated_at": "2026-10-10T13:26:50Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
@@ -79,15 +133,6 @@
     "stars": 3,
     "updated_at": "2026-10-10T13:41:48Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 23,
-    "updated_at": "2026-10-10T13:40:08Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
@@ -176,7 +221,7 @@
     "language": "Python",
     "name": "cheeezis/job_finder",
     "stars": 0,
-    "updated_at": "2026-10-10T13:14:11Z",
+    "updated_at": "2026-10-10T13:59:47Z",
     "url": "https://github.com/cheeezis/job_finder"
   },
   {
@@ -306,15 +351,6 @@
     "url": "https://github.com/axxafo/awesome-agent-benchmarks"
   },
   {
-    "description": "LLM Agent \u670d\u52a1\uff1aLangChain + FastAPI + Vue3\uff0c\u6df7\u5408\u68c0\u7d22 RAG \u5e26\u5f15\u7528\u6eaf\u6e90\uff0cReAct \u53cc\u67b6\u6784\u5b9e\u6d4b\u62e9\u4f18\uff0898.5% vs 89.7%\uff09\uff0c\u8bed\u4e49\u7f13\u5b58\u96f6\u8bef\u547d\u4e2d\uff0c158 \u6761\u8bc4\u6d4b + CI \u56de\u5f52\u95e8\u7981\uff0cDocker \u516c",
-    "id": "SYM529/myAgent",
-    "language": "Python",
-    "name": "SYM529/myAgent",
-    "stars": 0,
-    "updated_at": "2026-10-10T12:49:20Z",
-    "url": "https://github.com/SYM529/myAgent"
-  },
-  {
     "description": "\u628a ZCode\uff08Z.ai / BigModel Coding Plan\uff09\u6ce8\u518c\u4e3a DeepSeek Harness\uff08DSH\uff09\u7684 LLM provider\uff1aDSH \u7684 agent loop \u76f4\u63a5\u590d\u7528 ZCode \u5957\u9910\u989d\u5ea6\uff08provider \u6a21\u5f0f",
     "id": "Shuffle-1992/dsh-connect-zcode",
     "language": "JavaScript",
@@ -340,15 +376,6 @@
     "stars": 2,
     "updated_at": "2026-10-10T12:41:20Z",
     "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "An autonomous on-call agent that investigates and remediates incidents on the Incident Platform through its MCP tool sur",
-    "id": "kudratsingh/incident-commander",
-    "language": "Python",
-    "name": "kudratsingh/incident-commander",
-    "stars": 0,
-    "updated_at": "2026-10-10T12:41:20Z",
-    "url": "https://github.com/kudratsingh/incident-commander"
   },
   {
     "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-10T12:28:01Z",
     "url": "https://github.com/WP2-Danikusuma/AgentX"
-  },
-  {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-10T12:26:55Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
-    "id": "weihuaguo270-ops/react-agent",
-    "language": "Python",
-    "name": "weihuaguo270-ops/react-agent",
-    "stars": 0,
-    "updated_at": "2026-10-10T12:23:06Z",
-    "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
-    "description": "Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into",
-    "id": "AskTheWay/dsh-auto-memory",
-    "language": "TypeScript",
-    "name": "AskTheWay/dsh-auto-memory",
-    "stars": 105,
-    "updated_at": "2026-10-10T12:16:07Z",
-    "url": "https://github.com/AskTheWay/dsh-auto-memory"
   }
 ]
