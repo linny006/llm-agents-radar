@@ -5,8 +5,80 @@
     "language": "TypeScript",
     "name": "sampreethsharma7/smith-chart-tutor",
     "stars": 0,
-    "updated_at": "2026-10-10T18:28:58Z",
+    "updated_at": "2026-10-10T18:45:08Z",
     "url": "https://github.com/sampreethsharma7/smith-chart-tutor"
+  },
+  {
+    "description": "\u628a\u4efb\u52a1\u6d3e\u53d1\u7ed9\u672c\u673a ZCode CLI \u65e0\u5934\u8fdb\u7a0b\u7684 DeepSeek Harness \u63d2\u4ef6\uff1a\u9762\u677f\u53ef\u76d1\u89c6/\u7ec8\u6b62/\u7eed\u8dd1/\u6362\u901a\u9053\uff1b\u5355\u5199\u8005\u6587\u4ef6\u9501 + \u7528\u91cf\u53f0\u8d26 + \u964d\u7ea7\u94fe\u3002\u652f\u6301\u4ed8\u8d39\u5957\u9910\u4e0e\u514d\u8d39\u989d\u5ea6\uff08Start Plan \u6d3b\u52a8\u8d60\u9001\uff09\u4e24\u79cd\u989d\u5ea6\uff0c\u540e\u8005\u6258\u7ba1\u5b98\u65b9",
+    "id": "Shuffle-1992/zcode-dispatch",
+    "language": "JavaScript",
+    "name": "Shuffle-1992/zcode-dispatch",
+    "stars": 1,
+    "updated_at": "2026-10-10T18:44:52Z",
+    "url": "https://github.com/Shuffle-1992/zcode-dispatch"
+  },
+  {
+    "description": "This platform automates a 7-stage PM decision workflow. Each stage is a discrete step that transforms the input it recei",
+    "id": "jack-h-park/pm-intelligence-engine",
+    "language": "Python",
+    "name": "jack-h-park/pm-intelligence-engine",
+    "stars": 0,
+    "updated_at": "2026-10-10T18:40:22Z",
+    "url": "https://github.com/jack-h-park/pm-intelligence-engine"
+  },
+  {
+    "description": "Pleiades: 1st place in the GOSIM 2026 Agentic Observer hidden final. Survey-telescope scheduling agent: numerical optimi",
+    "id": "anantheparty/gosim-observer",
+    "language": "Python",
+    "name": "anantheparty/gosim-observer",
+    "stars": 0,
+    "updated_at": "2026-10-10T18:40:09Z",
+    "url": "https://github.com/anantheparty/gosim-observer"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-10-10T18:40:06Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-10-10T18:37:39Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 80,
+    "updated_at": "2026-10-10T18:38:21Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-10-10T18:34:01Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 12,
+    "updated_at": "2026-10-10T18:38:11Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -14,7 +86,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-10T18:28:47Z",
+    "updated_at": "2026-10-10T18:42:12Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -59,17 +131,8 @@
     "language": "Python",
     "name": "kudratsingh/incident-commander",
     "stars": 0,
-    "updated_at": "2026-10-10T18:24:02Z",
+    "updated_at": "2026-10-10T18:38:40Z",
     "url": "https://github.com/kudratsingh/incident-commander"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 12,
-    "updated_at": "2026-10-10T18:30:12Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "The LLM Anti-Framework",
@@ -230,7 +293,7 @@
     "language": "Python",
     "name": "akashjoshi1209/Alan",
     "stars": 0,
-    "updated_at": "2026-10-10T17:10:51Z",
+    "updated_at": "2026-10-10T18:44:20Z",
     "url": "https://github.com/akashjoshi1209/Alan"
   },
   {
@@ -293,7 +356,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 23,
-    "updated_at": "2026-10-10T18:18:37Z",
+    "updated_at": "2026-10-10T18:31:04Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -304,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-10-10T16:41:18Z",
     "url": "https://github.com/crypmiy/vibe-trading-okx-futures"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 80,
-    "updated_at": "2026-10-10T16:39:37Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-10T15:56:48Z",
     "url": "https://github.com/Jongtae/agentos"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4446,
-    "updated_at": "2026-10-10T17:05:17Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "UEPLANE \u00b7 \u53c2\u8003\u56fe\u9a71\u52a8\u7684 UE \u5e73\u9762\u573a\u666f\u642d\u5efa\u7f16\u6392\u5c42\uff08MCP server\uff09\uff1a\u516b\u9636\u6bb5\u6d41\u7a0b + \u786c\u95f8\u95e8 + \u53ef\u56de\u9000\u53f0\u8d26",
-    "id": "ZHUPO233/UE-Planar-SceneBuilder-MCP",
-    "language": "Python",
-    "name": "ZHUPO233/UE-Planar-SceneBuilder-MCP",
-    "stars": 0,
-    "updated_at": "2026-10-10T15:50:39Z",
-    "url": "https://github.com/ZHUPO233/UE-Planar-SceneBuilder-MCP"
-  },
-  {
-    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
-    "id": "haibingzhao/easyai",
-    "language": "Kotlin",
-    "name": "haibingzhao/easyai",
-    "stars": 1,
-    "updated_at": "2026-10-10T15:50:37Z",
-    "url": "https://github.com/haibingzhao/easyai"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 130,
-    "updated_at": "2026-10-10T15:42:12Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "The local AI workspace with built-in tools. Run deep research, scrape websites, interact with local files, and trigger w",
-    "id": "moyshik7/marnie",
-    "language": "JavaScript",
-    "name": "moyshik7/marnie",
-    "stars": 2,
-    "updated_at": "2026-10-10T15:39:27Z",
-    "url": "https://github.com/moyshik7/marnie"
-  },
-  {
-    "description": "Personal AI agent built from scratch \u2014 LLM layer, RAG knowledge base, tool calling loop. No frameworks, learn by buildin",
-    "id": "Wenyan0315/facta",
-    "language": "Python",
-    "name": "Wenyan0315/facta",
-    "stars": 1,
-    "updated_at": "2026-10-10T15:45:54Z",
-    "url": "https://github.com/Wenyan0315/facta"
   }
 ]
