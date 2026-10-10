@@ -1,12 +1,57 @@
 [
   {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-10T03:44:24Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
+    "id": "bigfish1913/pi-rust",
+    "language": "Rust",
+    "name": "bigfish1913/pi-rust",
+    "stars": 71,
+    "updated_at": "2026-10-10T03:45:05Z",
+    "url": "https://github.com/bigfish1913/pi-rust"
+  },
+  {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
     "id": "SuperdeMan/cockpit-agent",
     "language": "Python",
     "name": "SuperdeMan/cockpit-agent",
     "stars": 22,
-    "updated_at": "2026-10-10T03:29:50Z",
+    "updated_at": "2026-10-10T03:39:35Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
+    "id": "wq19901103wq/wechat-mac-rpa",
+    "language": "Python",
+    "name": "wq19901103wq/wechat-mac-rpa",
+    "stars": 119,
+    "updated_at": "2026-10-10T03:39:27Z",
+    "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
+  },
+  {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 4,
+    "updated_at": "2026-10-10T03:36:41Z",
+    "url": "https://github.com/plurnk/plurnk"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 202,
+    "updated_at": "2026-10-10T03:36:39Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
   {
     "description": "LangGraph agent powering an AI voice assistant, served as an OpenAI-compatible custom LLM endpoint on a bare-metal K3s c",
@@ -41,7 +86,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-10T03:26:21Z",
+    "updated_at": "2026-10-10T03:39:19Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -72,15 +117,6 @@
     "url": "https://github.com/robinxxd/mcd-macro-buddy"
   },
   {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-10T03:06:39Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "Is your backtest real? Deflated Sharpe Ratio, backtest-overfitting (PBO) and lookahead checks with measured false-positi",
     "id": "Kuzi-DEV/Tokio-ai",
     "language": "Python",
@@ -88,15 +124,6 @@
     "stars": 4,
     "updated_at": "2026-10-10T03:03:20Z",
     "url": "https://github.com/Kuzi-DEV/Tokio-ai"
-  },
-  {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 201,
-    "updated_at": "2026-10-10T03:03:06Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -333,15 +360,6 @@
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
-    "id": "bigfish1913/pi-rust",
-    "language": "Rust",
-    "name": "bigfish1913/pi-rust",
-    "stars": 71,
-    "updated_at": "2026-10-10T01:26:14Z",
-    "url": "https://github.com/bigfish1913/pi-rust"
-  },
-  {
     "description": "Generate rich YuE2 audio in ComfyUI with six modular nodes\u2014hum-to-song, LoRA and adapter support\u2014no stock nodes needed.",
     "id": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-10T01:06:34Z",
     "url": "https://github.com/pruthviraj00007/VibeHarness"
-  },
-  {
-    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
-    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
-    "language": "Go",
-    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
-    "stars": 0,
-    "updated_at": "2026-10-10T01:05:11Z",
-    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
-  },
-  {
-    "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
-    "id": "yurika0211/lucky-agent",
-    "language": "Go",
-    "name": "yurika0211/lucky-agent",
-    "stars": 14,
-    "updated_at": "2026-10-10T01:03:55Z",
-    "url": "https://github.com/yurika0211/lucky-agent"
   }
 ]
