@@ -1,5 +1,86 @@
 [
   {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 2,
+    "updated_at": "2026-10-10T17:00:02Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "LLM \u5e94\u7528\u5e76\u53d1\u8d28\u91cf\u5224\u5b9a\u5de5\u5177\uff08\u5efa\u8bbe\u4e2d\uff09\uff1aM1 \u5e95\u5ea7\u5df2\u4ea4\u4ed8\uff08SSE \u5e27\u89e3\u6790 / \u65f6\u5e8f\u56de\u653e / \u9884\u7b97\u7194\u65ad / \u591a\u6a21\u578b\u9002\u914d\uff09\uff1bM3-M4 \u5c06\u4ea4\u4ed8\u7edf\u8ba1\u63a8\u65ad + \u6d4b\u91cf\u81ea\u8bc1 + \u9884\u6ce8\u518c\u51bb\u7ed3\u95e8\u7981\u3002\u56de\u7b54 ' \u8fd9\u4e2a\u4e0b\u964d\u662f\u4e0d\u662f\u771f\u7684 '\u3002",
+    "id": "hu-chenyu/AquaMind",
+    "language": "Python",
+    "name": "hu-chenyu/AquaMind",
+    "stars": 1,
+    "updated_at": "2026-10-10T16:59:13Z",
+    "url": "https://github.com/hu-chenyu/AquaMind"
+  },
+  {
+    "description": "Talk2Stock \u00b7 \u5bf9\u8bdd\u5f0f\u8fdb\u9500\u5b58\u667a\u80fd\u4f53\uff08Conversational ERP Agent\uff09\uff1a\u4e00\u53e5\u8bdd \u2192 \u5355\u636e\u8349\u7a3f \u2192 \u5b57\u6bb5\u6765\u5386\u6807\u6ce8 \u2192 \u4eba\u5de5\u786e\u8ba4 \u2192 \u5199\u5165\u771f\u5b9e ERP\uff0c\u670d\u52a1\u7aef\u5199\u5165\u95f8\u95e8 + \u5ba1\u8ba1\u7559\u75d5 + \u51bb\u7ed3\u8bed\u6599\u8bc4\u6d4b",
+    "id": "honlam6/talk2stock",
+    "language": "Java",
+    "name": "honlam6/talk2stock",
+    "stars": 0,
+    "updated_at": "2026-10-10T16:58:10Z",
+    "url": "https://github.com/honlam6/talk2stock"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 20,
+    "updated_at": "2026-10-10T16:57:15Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Interactive Smith chart with an agentic AI tutor that teaches like a person and grades like an engineer",
+    "id": "sampreethsharma7/smith-chart-tutor",
+    "language": "TypeScript",
+    "name": "sampreethsharma7/smith-chart-tutor",
+    "stars": 0,
+    "updated_at": "2026-10-10T16:54:06Z",
+    "url": "https://github.com/sampreethsharma7/smith-chart-tutor"
+  },
+  {
+    "description": "An autonomous on-call agent that investigates and remediates incidents on the Incident Platform through its MCP tool sur",
+    "id": "kudratsingh/incident-commander",
+    "language": "Python",
+    "name": "kudratsingh/incident-commander",
+    "stars": 0,
+    "updated_at": "2026-10-10T16:53:19Z",
+    "url": "https://github.com/kudratsingh/incident-commander"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-10T16:59:07Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "\u8b93 Jev \u6a21\u578b\u6253\u7210\u77f3\u6230\u8a18\u7684\u6a5f\u5668\u4eba\uff1a\u8b80 Power.log \u5224\u8b80\u76e4\u9762\uff0c\u898f\u5247\u8207\u641c\u5c0b\u526a\u679d\u5f8c\u7531\u6a21\u578b\u9078\u4e00\u6b65\uff0c\u518d\u7528\u6ed1\u9f20\u9ede\u51fa\u4f86\u3002\u542b\u68c4\u724c\u8853\u6253\u6cd5\u8207\u7121\u4eba\u503c\u5b88\u5929\u68af\u8173\u672c\u3002",
+    "id": "Lanternko/jev-hearthstone",
+    "language": "JavaScript",
+    "name": "Lanternko/jev-hearthstone",
+    "stars": 1,
+    "updated_at": "2026-10-10T16:49:37Z",
+    "url": "https://github.com/Lanternko/jev-hearthstone"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-10T16:45:44Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
     "description": "Control AI agents anywhere. (github mirror)",
     "id": "justacalico/devinorium",
     "language": "Dart",
@@ -23,7 +104,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 23,
-    "updated_at": "2026-10-10T16:42:45Z",
+    "updated_at": "2026-10-10T16:59:07Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -63,24 +144,6 @@
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
-    "description": "LLM \u5e94\u7528\u5e76\u53d1\u8d28\u91cf\u5224\u5b9a\u5de5\u5177\uff08\u5efa\u8bbe\u4e2d\uff09\uff1aM1 \u5e95\u5ea7\u5df2\u4ea4\u4ed8\uff08SSE \u5e27\u89e3\u6790 / \u65f6\u5e8f\u56de\u653e / \u9884\u7b97\u7194\u65ad / \u591a\u6a21\u578b\u9002\u914d\uff09\uff1bM3-M4 \u5c06\u4ea4\u4ed8\u7edf\u8ba1\u63a8\u65ad + \u6d4b\u91cf\u81ea\u8bc1 + \u9884\u6ce8\u518c\u51bb\u7ed3\u95e8\u7981\u3002\u56de\u7b54 ' \u8fd9\u4e2a\u4e0b\u964d\u662f\u4e0d\u662f\u771f\u7684 '\u3002",
-    "id": "hu-chenyu/AquaMind",
-    "language": "Python",
-    "name": "hu-chenyu/AquaMind",
-    "stars": 1,
-    "updated_at": "2026-10-10T16:35:44Z",
-    "url": "https://github.com/hu-chenyu/AquaMind"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-10T16:38:53Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
     "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
     "id": "zeng6125-rgb/suixing",
     "language": "Kotlin",
@@ -88,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-10T16:28:50Z",
     "url": "https://github.com/zeng6125-rgb/suixing"
-  },
-  {
-    "description": "Talk2Stock \u00b7 \u5bf9\u8bdd\u5f0f\u8fdb\u9500\u5b58\u667a\u80fd\u4f53\uff08Conversational ERP Agent\uff09\uff1a\u4e00\u53e5\u8bdd \u2192 \u5355\u636e\u8349\u7a3f \u2192 \u5b57\u6bb5\u6765\u5386\u6807\u6ce8 \u2192 \u4eba\u5de5\u786e\u8ba4 \u2192 \u5199\u5165\u771f\u5b9e ERP\uff0c\u670d\u52a1\u7aef\u5199\u5165\u95f8\u95e8 + \u5ba1\u8ba1\u7559\u75d5 + \u51bb\u7ed3\u8bed\u6599\u8bc4\u6d4b",
-    "id": "honlam6/talk2stock",
-    "language": "Java",
-    "name": "honlam6/talk2stock",
-    "stars": 0,
-    "updated_at": "2026-10-10T16:25:24Z",
-    "url": "https://github.com/honlam6/talk2stock"
   },
   {
     "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
@@ -131,7 +185,7 @@
     "language": "Python",
     "name": "IAmNo1Special/mvgeos",
     "stars": 1,
-    "updated_at": "2026-10-10T16:10:34Z",
+    "updated_at": "2026-10-10T16:53:11Z",
     "url": "https://github.com/IAmNo1Special/mvgeos"
   },
   {
@@ -185,7 +239,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4446,
-    "updated_at": "2026-10-10T16:40:39Z",
+    "updated_at": "2026-10-10T16:54:29Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -212,17 +266,8 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 765,
-    "updated_at": "2026-10-10T15:48:38Z",
+    "updated_at": "2026-10-10T17:00:00Z",
     "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 2,
-    "updated_at": "2026-10-10T15:44:19Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -232,15 +277,6 @@
     "stars": 130,
     "updated_at": "2026-10-10T15:42:12Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "An autonomous on-call agent that investigates and remediates incidents on the Incident Platform through its MCP tool sur",
-    "id": "kudratsingh/incident-commander",
-    "language": "Python",
-    "name": "kudratsingh/incident-commander",
-    "stars": 0,
-    "updated_at": "2026-10-10T16:42:48Z",
-    "url": "https://github.com/kudratsingh/incident-commander"
   },
   {
     "description": "Personal AI agent built from scratch \u2014 LLM layer, RAG knowledge base, tool calling loop. No frameworks, learn by buildin",
@@ -268,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-10-10T15:17:44Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-10T15:12:25Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "A lightweight AI chat client for Wear OS round-screen watches - SSE streaming for OpenAI-compatible (Completions/Respons",
@@ -421,32 +448,5 @@
     "stars": 21,
     "updated_at": "2026-10-10T13:53:36Z",
     "url": "https://github.com/Canvixel-Eloweny/ai-bot-groupmate"
-  },
-  {
-    "description": "A personal expense-tracking agent running on Claude Code: the capture side is deliberately stupid (one sentence to Siri)",
-    "id": "seanlu2006/CountAgent",
-    "language": "Python",
-    "name": "seanlu2006/CountAgent",
-    "stars": 0,
-    "updated_at": "2026-10-10T13:51:21Z",
-    "url": "https://github.com/seanlu2006/CountAgent"
-  },
-  {
-    "description": "Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi",
-    "id": "zig333/ELAI-archive",
-    "language": "\u2014",
-    "name": "zig333/ELAI-archive",
-    "stars": 0,
-    "updated_at": "2026-10-10T13:37:28Z",
-    "url": "https://github.com/zig333/ELAI-archive"
-  },
-  {
-    "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
-    "id": "brittewestafrican981/ComfyUI-YinChao",
-    "language": "Python",
-    "name": "brittewestafrican981/ComfyUI-YinChao",
-    "stars": 1,
-    "updated_at": "2026-10-10T13:35:07Z",
-    "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
   }
 ]
