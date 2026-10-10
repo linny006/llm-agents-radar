@@ -1,5 +1,86 @@
 [
   {
+    "description": "Control AI agents anywhere. (github mirror)",
+    "id": "justacalico/devinorium",
+    "language": "Dart",
+    "name": "justacalico/devinorium",
+    "stars": 0,
+    "updated_at": "2026-10-10T16:44:30Z",
+    "url": "https://github.com/justacalico/devinorium"
+  },
+  {
+    "description": "\u9ea6\u5a18\u684c\u9762 McDesk \u2014\u2014 \u4f4f\u5728\u4f60\u684c\u9762\u4e0a\u7684\u4e8c\u6b21\u5143\u9ea6\u5f53\u52b3\u5e97\u5458\u3002\u7531\u771f\u5b9e\u9ea6\u5f53\u52b3 MCP \u9a71\u52a8\uff1a\u4f1a\u547c\u5438\u3001\u4f1a\u7728\u773c\u3001\u4f1a\u8f6c\u5934\u770b\u4f60\uff0c\u53cc\u51fb\u5c31\u8df3\u821e\uff0c\u5238\u5feb\u8fc7\u671f\u4e86\u5979\u4f1a\u5148\u6025\u3002",
+    "id": "For-Chance/mcd-desk-mate",
+    "language": "JavaScript",
+    "name": "For-Chance/mcd-desk-mate",
+    "stars": 0,
+    "updated_at": "2026-10-10T16:43:06Z",
+    "url": "https://github.com/For-Chance/mcd-desk-mate"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 23,
+    "updated_at": "2026-10-10T16:42:45Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Pre-registered test of an AI analyst (Antigravity CLI) writing daily trade theses for OKX BTC/ETH/SOL perpetuals; data o",
+    "id": "crypmiy/vibe-trading-okx-futures",
+    "language": "Python",
+    "name": "crypmiy/vibe-trading-okx-futures",
+    "stars": 0,
+    "updated_at": "2026-10-10T16:41:18Z",
+    "url": "https://github.com/crypmiy/vibe-trading-okx-futures"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 80,
+    "updated_at": "2026-10-10T16:39:37Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 4,
+    "updated_at": "2026-10-10T16:38:04Z",
+    "url": "https://github.com/plurnk/plurnk"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 25,
+    "updated_at": "2026-10-10T16:36:09Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "LLM \u5e94\u7528\u5e76\u53d1\u8d28\u91cf\u5224\u5b9a\u5de5\u5177\uff08\u5efa\u8bbe\u4e2d\uff09\uff1aM1 \u5e95\u5ea7\u5df2\u4ea4\u4ed8\uff08SSE \u5e27\u89e3\u6790 / \u65f6\u5e8f\u56de\u653e / \u9884\u7b97\u7194\u65ad / \u591a\u6a21\u578b\u9002\u914d\uff09\uff1bM3-M4 \u5c06\u4ea4\u4ed8\u7edf\u8ba1\u63a8\u65ad + \u6d4b\u91cf\u81ea\u8bc1 + \u9884\u6ce8\u518c\u51bb\u7ed3\u95e8\u7981\u3002\u56de\u7b54 ' \u8fd9\u4e2a\u4e0b\u964d\u662f\u4e0d\u662f\u771f\u7684 '\u3002",
+    "id": "hu-chenyu/AquaMind",
+    "language": "Python",
+    "name": "hu-chenyu/AquaMind",
+    "stars": 1,
+    "updated_at": "2026-10-10T16:35:44Z",
+    "url": "https://github.com/hu-chenyu/AquaMind"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-10T16:38:53Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
     "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
     "id": "zeng6125-rgb/suixing",
     "language": "Kotlin",
@@ -72,15 +153,6 @@
     "url": "https://github.com/steven-vvv/gosim26-agentic-observer"
   },
   {
-    "description": "\u9ea6\u5a18\u684c\u9762 McDesk \u2014\u2014 \u4f4f\u5728\u4f60\u684c\u9762\u4e0a\u7684\u4e8c\u6b21\u5143\u9ea6\u5f53\u52b3\u5e97\u5458\u3002\u7531\u771f\u5b9e\u9ea6\u5f53\u52b3 MCP \u9a71\u52a8\uff1a\u4f1a\u547c\u5438\u3001\u4f1a\u7728\u773c\u3001\u4f1a\u8f6c\u5934\u770b\u4f60\uff0c\u53cc\u51fb\u5c31\u8df3\u821e\uff0c\u5238\u5feb\u8fc7\u671f\u4e86\u5979\u4f1a\u5148\u6025\u3002",
-    "id": "For-Chance/mcd-desk-mate",
-    "language": "JavaScript",
-    "name": "For-Chance/mcd-desk-mate",
-    "stars": 0,
-    "updated_at": "2026-10-10T16:05:05Z",
-    "url": "https://github.com/For-Chance/mcd-desk-mate"
-  },
-  {
     "description": "LLM-assisted code auditing. 54 phases, custom overlays, accountability.",
     "id": "sturec5/code-audit-protocol",
     "language": "Shell",
@@ -113,7 +185,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4446,
-    "updated_at": "2026-10-10T16:27:19Z",
+    "updated_at": "2026-10-10T16:40:39Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -133,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-10-10T15:50:37Z",
     "url": "https://github.com/haibingzhao/easyai"
-  },
-  {
-    "description": "LLM \u5e94\u7528\u5e76\u53d1\u8d28\u91cf\u5224\u5b9a\u5de5\u5177\uff08\u5efa\u8bbe\u4e2d\uff09\uff1aM1 \u5e95\u5ea7\u5df2\u4ea4\u4ed8\uff08SSE \u5e27\u89e3\u6790 / \u65f6\u5e8f\u56de\u653e / \u9884\u7b97\u7194\u65ad / \u591a\u6a21\u578b\u9002\u914d\uff09\uff1bM3-M4 \u5c06\u4ea4\u4ed8\u7edf\u8ba1\u63a8\u65ad + \u6d4b\u91cf\u81ea\u8bc1 + \u9884\u6ce8\u518c\u51bb\u7ed3\u95e8\u7981\u3002\u56de\u7b54 ' \u8fd9\u4e2a\u4e0b\u964d\u662f\u4e0d\u662f\u771f\u7684 '\u3002",
-    "id": "hu-chenyu/AquaMind",
-    "language": "Python",
-    "name": "hu-chenyu/AquaMind",
-    "stars": 1,
-    "updated_at": "2026-10-10T15:48:56Z",
-    "url": "https://github.com/hu-chenyu/AquaMind"
   },
   {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
@@ -176,7 +239,7 @@
     "language": "Python",
     "name": "kudratsingh/incident-commander",
     "stars": 0,
-    "updated_at": "2026-10-10T15:27:46Z",
+    "updated_at": "2026-10-10T16:42:48Z",
     "url": "https://github.com/kudratsingh/incident-commander"
   },
   {
@@ -311,7 +374,7 @@
     "language": "Python",
     "name": "SlavaKlkv/ai_operations_agent",
     "stars": 0,
-    "updated_at": "2026-10-10T14:35:38Z",
+    "updated_at": "2026-10-10T16:37:31Z",
     "url": "https://github.com/SlavaKlkv/ai_operations_agent"
   },
   {
@@ -324,20 +387,11 @@
     "url": "https://github.com/akatzmann/slash-agent"
   },
   {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 23,
-    "updated_at": "2026-10-10T15:49:04Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
     "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
     "id": "Soodok/Deepseek-Harness-Local-Android",
     "language": "Kotlin",
     "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 214,
+    "stars": 215,
     "updated_at": "2026-10-10T14:19:24Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-10T13:35:07Z",
     "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
-  },
-  {
-    "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
-    "id": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
-    "language": "Python",
-    "name": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
-    "stars": 5,
-    "updated_at": "2026-10-10T13:34:00Z",
-    "url": "https://github.com/mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo"
-  },
-  {
-    "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
-    "id": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
-    "language": "Python",
-    "name": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
-    "stars": 3,
-    "updated_at": "2026-10-10T13:32:58Z",
-    "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
-  },
-  {
-    "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
-    "id": "EpsteinF1les/tts",
-    "language": "\u2014",
-    "name": "EpsteinF1les/tts",
-    "stars": 0,
-    "updated_at": "2026-10-10T13:32:20Z",
-    "url": "https://github.com/EpsteinF1les/tts"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-10T14:33:02Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-10-10T13:41:48Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-10-10T13:24:29Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
   }
 ]
