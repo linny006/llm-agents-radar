@@ -1,12 +1,93 @@
 [
   {
+    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
+    "id": "uukuguy/capstone",
+    "language": "Python",
+    "name": "uukuguy/capstone",
+    "stars": 0,
+    "updated_at": "2026-10-11T08:28:21Z",
+    "url": "https://github.com/uukuguy/capstone"
+  },
+  {
+    "description": "\u81ea\u8fdb\u5316\u7814\u7a76 Wiki \u667a\u80fd\u4f53\uff1a\u81ea\u5efa agent harness + \u4e09\u5c42\u8bb0\u5fc6 + \u5f15\u7528\u5f3a\u5236\u4e0e\u51b2\u7a81\u5bf9\u8d26",
+    "id": "111wxh/researchwiki",
+    "language": "Python",
+    "name": "111wxh/researchwiki",
+    "stars": 0,
+    "updated_at": "2026-10-11T08:28:03Z",
+    "url": "https://github.com/111wxh/researchwiki"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-11T08:26:31Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
     "description": "RAG assistant for AML/KYC compliance (FATF, Wolfsberg, CBAR) with citation-linked answers, a tool-calling agent and RAGA",
     "id": "emiliaismailova3/aml-kyc-rag-assistant",
     "language": "Python",
     "name": "emiliaismailova3/aml-kyc-rag-assistant",
     "stars": 0,
-    "updated_at": "2026-10-11T08:14:28Z",
+    "updated_at": "2026-10-11T08:26:21Z",
     "url": "https://github.com/emiliaismailova3/aml-kyc-rag-assistant"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 25,
+    "updated_at": "2026-10-11T08:24:26Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "Provider-neutral agentic harness for playing Hearts of Iron IV with an LLM: clock-owning turn loop, reflex/planner split",
+    "id": "Xocas12/hoi4-agent-harness",
+    "language": "Python",
+    "name": "Xocas12/hoi4-agent-harness",
+    "stars": 1,
+    "updated_at": "2026-10-11T08:21:30Z",
+    "url": "https://github.com/Xocas12/hoi4-agent-harness"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-11T08:20:53Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "\u9002\u7528\u4e8e Claude Code \u548c Codex \u7684\u6c42\u804c Skill\uff1a\u67e5\u627e\u5c97\u4f4d\u3001\u5224\u65ad\u662f\u5426\u503c\u5f97\u6295\u9012\u3001\u5236\u4f5c\u7b80\u5386\u4e0e\u7533\u8bf7\u6750\u6599\u3001\u68c0\u9a8c\u7533\u8bf7\u6750\u6599\u5e76\u6a21\u62df\u9762\u8bd5\u3002\u4e0d\u7f16\u9020\u6280\u80fd\u6216\u4e1a\u7ee9\u6570\u5b57\uff0c\u4e0d\u9884\u6d4b\u5f55\u7528\u6982\u7387\uff1b\u68c0\u67e5\u7b80\u5386\u662f\u5426\u4fbf\u4e8e\u62db\u8058\u7ba1\u7406\u7cfb\u7edf\uff08ATS\uff09\u8bfb\u53d6\uff0c\u5e76\u4ece\u62db\u8058\u4eba\u5458\u548c\u7528\u4eba",
+    "id": "addsumtech/job-hunt",
+    "language": "Python",
+    "name": "addsumtech/job-hunt",
+    "stars": 5,
+    "updated_at": "2026-10-11T08:19:00Z",
+    "url": "https://github.com/addsumtech/job-hunt"
+  },
+  {
+    "description": "An autonomous on-call agent that investigates and remediates incidents on the Incident Platform through its MCP tool sur",
+    "id": "kudratsingh/incident-commander",
+    "language": "Python",
+    "name": "kudratsingh/incident-commander",
+    "stars": 0,
+    "updated_at": "2026-10-11T08:16:58Z",
+    "url": "https://github.com/kudratsingh/incident-commander"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-11T08:20:06Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "Alan - a personal assistant that lives on your machine. Local-first memory, permission-gated tools, always-on scheduling",
@@ -54,24 +135,6 @@
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
-    "description": "\u81ea\u8fdb\u5316\u7814\u7a76 Wiki \u667a\u80fd\u4f53\uff1a\u81ea\u5efa agent harness + \u4e09\u5c42\u8bb0\u5fc6 + \u5f15\u7528\u5f3a\u5236\u4e0e\u51b2\u7a81\u5bf9\u8d26",
-    "id": "111wxh/researchwiki",
-    "language": "Python",
-    "name": "111wxh/researchwiki",
-    "stars": 0,
-    "updated_at": "2026-10-11T08:04:04Z",
-    "url": "https://github.com/111wxh/researchwiki"
-  },
-  {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-11T08:03:26Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
     "description": "Application Security orchestration platform",
     "id": "grauwolf32/contractor",
     "language": "Go",
@@ -115,6 +178,15 @@
     "stars": 43,
     "updated_at": "2026-10-11T07:47:23Z",
     "url": "https://github.com/nexpeakcore/deepseek-harness-pr-review"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 6158,
+    "updated_at": "2026-10-11T07:47:05Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi",
@@ -189,15 +261,6 @@
     "url": "https://github.com/EpsteinF1les/tts"
   },
   {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 25,
-    "updated_at": "2026-10-11T07:38:23Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
     "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
     "id": "plurnk/plurnk",
     "language": "TypeScript",
@@ -205,15 +268,6 @@
     "stars": 4,
     "updated_at": "2026-10-11T07:38:22Z",
     "url": "https://github.com/plurnk/plurnk"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-11T07:37:06Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
@@ -250,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-10-11T07:33:59Z",
     "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "An autonomous on-call agent that investigates and remediates incidents on the Incident Platform through its MCP tool sur",
-    "id": "kudratsingh/incident-commander",
-    "language": "Python",
-    "name": "kudratsingh/incident-commander",
-    "stars": 0,
-    "updated_at": "2026-10-11T08:06:02Z",
-    "url": "https://github.com/kudratsingh/incident-commander"
   },
   {
     "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
@@ -320,8 +365,17 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-11T08:12:56Z",
+    "updated_at": "2026-10-11T08:24:42Z",
     "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 769,
+    "updated_at": "2026-10-11T07:28:18Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
@@ -340,15 +394,6 @@
     "stars": 1,
     "updated_at": "2026-10-11T07:26:15Z",
     "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-11T07:25:24Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
@@ -403,50 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-11T07:17:58Z",
     "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "Single-user Hebrew/English personal assistant: Cloudflare Workers + SQLite Durable Object, Groq tool-calling agent where",
-    "id": "tzur669-lab/whatsapp-assistant",
-    "language": "TypeScript",
-    "name": "tzur669-lab/whatsapp-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-11T07:17:33Z",
-    "url": "https://github.com/tzur669-lab/whatsapp-assistant"
-  },
-  {
-    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
-    "id": "Danisxxx/comfyUI-LongLook",
-    "language": "Python",
-    "name": "Danisxxx/comfyUI-LongLook",
-    "stars": 2,
-    "updated_at": "2026-10-11T07:13:18Z",
-    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
-  },
-  {
-    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
-    "id": "axxafo/awesome-agent-benchmarks",
-    "language": "\u2014",
-    "name": "axxafo/awesome-agent-benchmarks",
-    "stars": 4,
-    "updated_at": "2026-10-11T07:12:23Z",
-    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "JevHub \u00b7 Jev \u751f\u6001\u70ed\u699c \u628a\u503c\u5f97\u5173\u6ce8\u7684 Jev \u9879\u76ee\u3001\u6559\u7a0b\u548c\u8ba8\u8bba\uff0c\u6c47\u5230\u4e00\u9875\u3002 \u81ea\u52a8\u53d1\u73b0 \u00b7 \u6bcf\u65e5\u66f4\u65b0 \u00b7 \u6309 Stars \u6392\u5e8f \u00b7 \u4e2d\u82f1\u53cc\u8bed",
-    "id": "frontierlabai/JevHub",
-    "language": "Python",
-    "name": "frontierlabai/JevHub",
-    "stars": 7,
-    "updated_at": "2026-10-11T07:11:38Z",
-    "url": "https://github.com/frontierlabai/JevHub"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-10-11T07:07:22Z",
-    "url": "https://github.com/yigido41/agentic-ai"
   }
 ]
