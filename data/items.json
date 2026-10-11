@@ -1,21 +1,30 @@
 [
   {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 5,
-    "updated_at": "2026-10-11T00:30:06Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
     "description": "A local-only ReAct agent running on Ollama, with no agent framework. Hand-rolled loop, typed tools, a real filesystem sa",
     "id": "mntoyg/OmniAgent",
     "language": "Python",
     "name": "mntoyg/OmniAgent",
     "stars": 0,
-    "updated_at": "2026-10-11T00:29:27Z",
+    "updated_at": "2026-10-11T00:44:47Z",
     "url": "https://github.com/mntoyg/OmniAgent"
+  },
+  {
+    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
+    "id": "Ultra-Guru/Android-Guru-Agent",
+    "language": "Kotlin",
+    "name": "Ultra-Guru/Android-Guru-Agent",
+    "stars": 8,
+    "updated_at": "2026-10-11T00:43:48Z",
+    "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
+  },
+  {
+    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
+    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "language": "\u2014",
+    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "stars": 0,
+    "updated_at": "2026-10-11T00:43:07Z",
+    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
   },
   {
     "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
@@ -23,8 +32,134 @@
     "language": "Python",
     "name": "Jongtae/agentos",
     "stars": 0,
-    "updated_at": "2026-10-11T00:28:05Z",
+    "updated_at": "2026-10-11T00:43:04Z",
     "url": "https://github.com/Jongtae/agentos"
+  },
+  {
+    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
+    "id": "clashroy5384/ai-papers-hub",
+    "language": "\u2014",
+    "name": "clashroy5384/ai-papers-hub",
+    "stars": 0,
+    "updated_at": "2026-10-11T00:42:27Z",
+    "url": "https://github.com/clashroy5384/ai-papers-hub"
+  },
+  {
+    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
+    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
+    "language": "Python",
+    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
+    "stars": 5,
+    "updated_at": "2026-10-11T00:40:36Z",
+    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
+  },
+  {
+    "description": "LLM \u5e94\u7528\u5e76\u53d1\u8d28\u91cf\u5224\u5b9a\u5de5\u5177\uff08\u5efa\u8bbe\u4e2d\uff09\uff1aM1 \u5e95\u5ea7\u5df2\u4ea4\u4ed8\uff08SSE \u5e27\u89e3\u6790 / \u65f6\u5e8f\u56de\u653e / \u9884\u7b97\u7194\u65ad / \u591a\u6a21\u578b\u9002\u914d\uff09\uff1bM3-M4 \u5c06\u4ea4\u4ed8\u7edf\u8ba1\u63a8\u65ad + \u6d4b\u91cf\u81ea\u8bc1 + \u9884\u6ce8\u518c\u51bb\u7ed3\u95e8\u7981\u3002\u56de\u7b54 ' \u8fd9\u4e2a\u4e0b\u964d\u662f\u4e0d\u662f\u771f\u7684 '\u3002",
+    "id": "hu-chenyu/AquaMind",
+    "language": "Python",
+    "name": "hu-chenyu/AquaMind",
+    "stars": 1,
+    "updated_at": "2026-10-11T00:40:36Z",
+    "url": "https://github.com/hu-chenyu/AquaMind"
+  },
+  {
+    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
+    "id": "oxidizable-malinois605/bridge-suite-mcp",
+    "language": "TypeScript",
+    "name": "oxidizable-malinois605/bridge-suite-mcp",
+    "stars": 0,
+    "updated_at": "2026-10-11T00:38:40Z",
+    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
+  },
+  {
+    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
+    "id": "Arjunadh5305/ios-skills-collection",
+    "language": "\u2014",
+    "name": "Arjunadh5305/ios-skills-collection",
+    "stars": 1,
+    "updated_at": "2026-10-11T00:38:40Z",
+    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
+  },
+  {
+    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
+    "id": "Stolas34/voice-input-src",
+    "language": "\u2014",
+    "name": "Stolas34/voice-input-src",
+    "stars": 0,
+    "updated_at": "2026-10-11T00:38:22Z",
+    "url": "https://github.com/Stolas34/voice-input-src"
+  },
+  {
+    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
+    "id": "Screwtopped-annapavlova802/SparkLabs",
+    "language": "C++",
+    "name": "Screwtopped-annapavlova802/SparkLabs",
+    "stars": 1,
+    "updated_at": "2026-10-11T00:36:19Z",
+    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 80,
+    "updated_at": "2026-10-11T00:35:36Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
+    "id": "mriazi1982/octopai",
+    "language": "Python",
+    "name": "mriazi1982/octopai",
+    "stars": 1,
+    "updated_at": "2026-10-11T00:34:59Z",
+    "url": "https://github.com/mriazi1982/octopai"
+  },
+  {
+    "description": "Pre-registered test of an AI analyst (Antigravity CLI) writing daily trade theses for OKX BTC/ETH/SOL perpetuals; data o",
+    "id": "crypmiy/vibe-trading-okx-futures",
+    "language": "Python",
+    "name": "crypmiy/vibe-trading-okx-futures",
+    "stars": 0,
+    "updated_at": "2026-10-11T00:34:33Z",
+    "url": "https://github.com/crypmiy/vibe-trading-okx-futures"
+  },
+  {
+    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
+    "id": "mezoali100/exforum-auto-poster",
+    "language": "\u2014",
+    "name": "mezoali100/exforum-auto-poster",
+    "stars": 1,
+    "updated_at": "2026-10-11T00:32:05Z",
+    "url": "https://github.com/mezoali100/exforum-auto-poster"
+  },
+  {
+    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
+    "id": "Bowotria/aethercore",
+    "language": "Go",
+    "name": "Bowotria/aethercore",
+    "stars": 2,
+    "updated_at": "2026-10-11T00:31:50Z",
+    "url": "https://github.com/Bowotria/aethercore"
+  },
+  {
+    "description": "Autonomous personal agent: talks, acts, never gives up. Multi-model, multi-user, self-improving",
+    "id": "franckolv-dev/ELY2",
+    "language": "Python",
+    "name": "franckolv-dev/ELY2",
+    "stars": 1,
+    "updated_at": "2026-10-11T00:30:48Z",
+    "url": "https://github.com/franckolv-dev/ELY2"
+  },
+  {
+    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
+    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "language": "Python",
+    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "stars": 5,
+    "updated_at": "2026-10-11T00:30:06Z",
+    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
   },
   {
     "description": "Open-source AIMO3 math reasoning agent for vLLM and OpenAI-compatible models, with Python verification and consensus vot",
@@ -52,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-10-11T00:26:42Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
-    "description": "LLM \u5e94\u7528\u5e76\u53d1\u8d28\u91cf\u5224\u5b9a\u5de5\u5177\uff08\u5efa\u8bbe\u4e2d\uff09\uff1aM1 \u5e95\u5ea7\u5df2\u4ea4\u4ed8\uff08SSE \u5e27\u89e3\u6790 / \u65f6\u5e8f\u56de\u653e / \u9884\u7b97\u7194\u65ad / \u591a\u6a21\u578b\u9002\u914d\uff09\uff1bM3-M4 \u5c06\u4ea4\u4ed8\u7edf\u8ba1\u63a8\u65ad + \u6d4b\u91cf\u81ea\u8bc1 + \u9884\u6ce8\u518c\u51bb\u7ed3\u95e8\u7981\u3002\u56de\u7b54 ' \u8fd9\u4e2a\u4e0b\u964d\u662f\u4e0d\u662f\u771f\u7684 '\u3002",
-    "id": "hu-chenyu/AquaMind",
-    "language": "Python",
-    "name": "hu-chenyu/AquaMind",
-    "stars": 1,
-    "updated_at": "2026-10-11T00:26:04Z",
-    "url": "https://github.com/hu-chenyu/AquaMind"
   },
   {
     "description": "Interactive Smith chart with an agentic AI tutor that teaches like a person and grades like an engineer",
@@ -104,17 +230,8 @@
     "language": "Python",
     "name": "IAmNo1Special/mvgeos",
     "stars": 1,
-    "updated_at": "2026-10-11T00:16:13Z",
+    "updated_at": "2026-10-11T00:38:13Z",
     "url": "https://github.com/IAmNo1Special/mvgeos"
-  },
-  {
-    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
-    "id": "Ultra-Guru/Android-Guru-Agent",
-    "language": "Kotlin",
-    "name": "Ultra-Guru/Android-Guru-Agent",
-    "stars": 8,
-    "updated_at": "2026-10-11T00:16:01Z",
-    "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
   },
   {
     "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
@@ -187,24 +304,6 @@
     "stars": 0,
     "updated_at": "2026-10-10T23:45:51Z",
     "url": "https://github.com/watchcat/scout"
-  },
-  {
-    "description": "Autonomous personal agent: talks, acts, never gives up. Multi-model, multi-user, self-improving",
-    "id": "franckolv-dev/ELY2",
-    "language": "Python",
-    "name": "franckolv-dev/ELY2",
-    "stars": 1,
-    "updated_at": "2026-10-11T00:12:58Z",
-    "url": "https://github.com/franckolv-dev/ELY2"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 80,
-    "updated_at": "2026-10-10T23:43:11Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -349,104 +448,5 @@
     "stars": 7,
     "updated_at": "2026-10-10T21:57:18Z",
     "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
-    "description": "Non-custodial Hyperliquid execution + tracking CLI for autonomous LLM agents. Signs EIP-712 actions with an agent wallet",
-    "id": "erickuhn19/deliverator",
-    "language": "Go",
-    "name": "erickuhn19/deliverator",
-    "stars": 5,
-    "updated_at": "2026-10-10T22:24:30Z",
-    "url": "https://github.com/erickuhn19/deliverator"
-  },
-  {
-    "description": "Application Security orchestration platform",
-    "id": "grauwolf32/contractor",
-    "language": "Go",
-    "name": "grauwolf32/contractor",
-    "stars": 2,
-    "updated_at": "2026-10-10T21:40:02Z",
-    "url": "https://github.com/grauwolf32/contractor"
-  },
-  {
-    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
-    "id": "xieguigang/sciBASIC",
-    "language": "Visual Basic .NET",
-    "name": "xieguigang/sciBASIC",
-    "stars": 79,
-    "updated_at": "2026-10-10T21:39:46Z",
-    "url": "https://github.com/xieguigang/sciBASIC"
-  },
-  {
-    "description": "Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi",
-    "id": "zig333/ELAI-archive",
-    "language": "\u2014",
-    "name": "zig333/ELAI-archive",
-    "stars": 0,
-    "updated_at": "2026-10-10T21:27:18Z",
-    "url": "https://github.com/zig333/ELAI-archive"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-10-10T21:26:04Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
-    "id": "brittewestafrican981/ComfyUI-YinChao",
-    "language": "Python",
-    "name": "brittewestafrican981/ComfyUI-YinChao",
-    "stars": 1,
-    "updated_at": "2026-10-10T21:25:14Z",
-    "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
-  },
-  {
-    "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
-    "id": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
-    "language": "Python",
-    "name": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
-    "stars": 5,
-    "updated_at": "2026-10-10T21:24:07Z",
-    "url": "https://github.com/mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo"
-  },
-  {
-    "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
-    "id": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
-    "language": "Python",
-    "name": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
-    "stars": 3,
-    "updated_at": "2026-10-10T21:22:16Z",
-    "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
-  },
-  {
-    "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
-    "id": "EpsteinF1les/tts",
-    "language": "\u2014",
-    "name": "EpsteinF1les/tts",
-    "stars": 0,
-    "updated_at": "2026-10-10T21:21:37Z",
-    "url": "https://github.com/EpsteinF1les/tts"
-  },
-  {
-    "description": "Monitor your local AI agents. See what files they can reach, what networks they communicate with, and stop them if requi",
-    "id": "farikonsec/topgent",
-    "language": "Rust",
-    "name": "farikonsec/topgent",
-    "stars": 4,
-    "updated_at": "2026-10-10T21:20:22Z",
-    "url": "https://github.com/farikonsec/topgent"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-10-10T21:16:08Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
   }
 ]
