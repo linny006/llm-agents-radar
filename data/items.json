@@ -1,12 +1,21 @@
 [
   {
-    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
-    "id": "watchcat/scout",
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
     "language": "Rust",
-    "name": "watchcat/scout",
-    "stars": 0,
-    "updated_at": "2026-10-11T22:44:39Z",
-    "url": "https://github.com/watchcat/scout"
+    "name": "yologdev/yoagent",
+    "stars": 347,
+    "updated_at": "2026-10-11T22:59:11Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-11T22:59:07Z",
+    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
@@ -14,8 +23,26 @@
     "language": "Python",
     "name": "genaforvena/mishe-tauftauf",
     "stars": 3,
-    "updated_at": "2026-10-11T22:42:23Z",
+    "updated_at": "2026-10-11T22:57:54Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "A self-hosted software factory \u2014 define goals, agents decompose and execute them through enforced pipelines, with humans",
+    "id": "diraigent/diraigent",
+    "language": "Rust",
+    "name": "diraigent/diraigent",
+    "stars": 20,
+    "updated_at": "2026-10-11T22:50:21Z",
+    "url": "https://github.com/diraigent/diraigent"
+  },
+  {
+    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
+    "id": "watchcat/scout",
+    "language": "Rust",
+    "name": "watchcat/scout",
+    "stars": 0,
+    "updated_at": "2026-10-11T22:44:39Z",
+    "url": "https://github.com/watchcat/scout"
   },
   {
     "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
@@ -41,7 +68,7 @@
     "language": "Python",
     "name": "Jongtae/agentos",
     "stars": 0,
-    "updated_at": "2026-10-11T22:40:24Z",
+    "updated_at": "2026-10-11T22:57:22Z",
     "url": "https://github.com/Jongtae/agentos"
   },
   {
@@ -68,7 +95,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-11T22:30:29Z",
+    "updated_at": "2026-10-11T22:52:23Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -329,7 +356,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-10-11T22:23:39Z",
+    "updated_at": "2026-10-11T22:48:58Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -340,15 +367,6 @@
     "stars": 130,
     "updated_at": "2026-10-11T21:48:06Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-11T21:47:52Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -419,7 +437,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-10-11T22:29:32Z",
+    "updated_at": "2026-10-11T22:47:47Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-11T21:14:57Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-10-11T21:09:18Z",
-    "url": "https://github.com/SashaEee/auditLens"
-  },
-  {
-    "description": "Executives hint forecasts changed. Call Desk listens live and shows the new number, with proof. Built at AI Engineer NYC",
-    "id": "zaeem-rafiq/Call-Desk-public",
-    "language": "Python",
-    "name": "zaeem-rafiq/Call-Desk-public",
-    "stars": 0,
-    "updated_at": "2026-10-11T20:57:39Z",
-    "url": "https://github.com/zaeem-rafiq/Call-Desk-public"
   }
 ]
