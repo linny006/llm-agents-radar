@@ -1,5 +1,32 @@
 [
   {
+    "description": "Application Security orchestration platform",
+    "id": "grauwolf32/contractor",
+    "language": "Go",
+    "name": "grauwolf32/contractor",
+    "stars": 2,
+    "updated_at": "2026-10-11T06:29:28Z",
+    "url": "https://github.com/grauwolf32/contractor"
+  },
+  {
+    "description": "Single-user Hebrew/English personal assistant: Cloudflare Workers + SQLite Durable Object, Groq tool-calling agent where",
+    "id": "tzur669-lab/whatsapp-assistant",
+    "language": "TypeScript",
+    "name": "tzur669-lab/whatsapp-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-11T06:29:14Z",
+    "url": "https://github.com/tzur669-lab/whatsapp-assistant"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-11T06:24:27Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
     "description": "Self-contained bot that plays single-player skirmish matches in the browser game Chrono Divide (web Red Alert 2) using t",
     "id": "ys118/ra2web-jev-player",
     "language": "Python",
@@ -34,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-10-11T06:06:33Z",
     "url": "https://github.com/zeng6125-rgb/suixing"
-  },
-  {
-    "description": "Single-user Hebrew/English personal assistant: Cloudflare Workers + SQLite Durable Object, Groq tool-calling agent where",
-    "id": "tzur669-lab/whatsapp-assistant",
-    "language": "TypeScript",
-    "name": "tzur669-lab/whatsapp-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-11T06:05:09Z",
-    "url": "https://github.com/tzur669-lab/whatsapp-assistant"
   },
   {
     "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
@@ -149,7 +167,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-11T05:57:13Z",
+    "updated_at": "2026-10-11T06:17:15Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -268,15 +286,6 @@
     "stars": 4,
     "updated_at": "2026-10-11T05:26:02Z",
     "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-11T05:23:21Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-11T04:57:52Z",
     "url": "https://github.com/xianteng-zhang/sourcing-agent"
-  },
-  {
-    "description": "A BI agent that answers questions about 311 service requests from a Snowflake warehouse. Strands Agents, MCP, AWS Bedroc",
-    "id": "chenziliang1/311-analytics-agent",
-    "language": "Python",
-    "name": "chenziliang1/311-analytics-agent",
-    "stars": 0,
-    "updated_at": "2026-10-11T04:52:34Z",
-    "url": "https://github.com/chenziliang1/311-analytics-agent"
   }
 ]
