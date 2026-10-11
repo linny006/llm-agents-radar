@@ -1,12 +1,48 @@
 [
   {
+    "description": "Executives hint forecasts changed. Call Desk listens live and shows the new number, with proof. Built at AI Engineer NYC",
+    "id": "zaeem-rafiq/Call-Desk-public",
+    "language": "Python",
+    "name": "zaeem-rafiq/Call-Desk-public",
+    "stars": 0,
+    "updated_at": "2026-10-11T20:57:39Z",
+    "url": "https://github.com/zaeem-rafiq/Call-Desk-public"
+  },
+  {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
     "id": "genaforvena/mishe-tauftauf",
     "language": "Python",
     "name": "genaforvena/mishe-tauftauf",
     "stars": 2,
-    "updated_at": "2026-10-11T20:43:06Z",
+    "updated_at": "2026-10-11T20:56:08Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-10-11T20:55:22Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-11T20:53:05Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 20,
+    "updated_at": "2026-10-11T20:59:24Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "Lets a local language model use tools and act, not just answer. Swift package for Ollama and llama.cpp, no dependencies ",
@@ -27,15 +63,6 @@
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
-    "description": "Executives hint forecasts changed. Call Desk listens live and shows the new number, with proof. Built at AI Engineer NYC",
-    "id": "zaeem-rafiq/Call-Desk-public",
-    "language": "Python",
-    "name": "zaeem-rafiq/Call-Desk-public",
-    "stars": 0,
-    "updated_at": "2026-10-11T20:36:39Z",
-    "url": "https://github.com/zaeem-rafiq/Call-Desk-public"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
@@ -43,15 +70,6 @@
     "stars": 7,
     "updated_at": "2026-10-11T20:42:47Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-10-11T20:27:45Z",
-    "url": "https://github.com/SashaEee/auditLens"
   },
   {
     "description": "Trace moderation failures and wasted tokens through one game backend agent run.",
@@ -135,15 +153,6 @@
     "url": "https://github.com/KaletoAI/anima-verse"
   },
   {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 20,
-    "updated_at": "2026-10-11T20:18:38Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
     "id": "anchor-inference/daedalus",
     "language": "Python",
@@ -223,15 +232,6 @@
     "stars": 14,
     "updated_at": "2026-10-11T19:33:38Z",
     "url": "https://github.com/yurika0211/lucky-agent"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-11T19:13:52Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "A local-first, standalone personal knowledge base for Windows. Import, organize, and create your own links \u2014 no browser ",

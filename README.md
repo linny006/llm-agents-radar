@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-11 20:45 UTC
+> ⏰ Last updated: 2026-10-11 21:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,32 +42,32 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [genaforvena/mishe-tauftauf](https://github.com/genaforvena/mishe-tauftauf) | 2 | Python | 2026-10-11 | A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation. |
-| 2 | [9t29zhmwdh-coder/EmissaryKit](https://github.com/9t29zhmwdh-coder/EmissaryKit) | 0 | Swift | 2026-10-11 | Lets a local language model use tools and act, not just answer. Swift package for Ollama and llama.cpp, no dependencies  |
-| 3 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-11 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
-| 4 | [zaeem-rafiq/Call-Desk-public](https://github.com/zaeem-rafiq/Call-Desk-public) | 0 | Python | 2026-10-11 | Executives hint forecasts changed. Call Desk listens live and shows the new number, with proof. Built at AI Engineer NYC |
-| 5 | [ljchang/mecha](https://github.com/ljchang/mecha) | 7 | Rust | 2026-10-11 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
-| 6 | [SashaEee/auditLens](https://github.com/SashaEee/auditLens) | 2 | Python | 2026-10-11 | Deep-research LLM agent + RAG platform for internal bank-product audit — cited reports, PDF export, pgvector |
-| 7 | [KeeganNash8314/game-agent-run-telemetry](https://github.com/KeeganNash8314/game-agent-run-telemetry) | 0 | Go | 2026-10-11 | Trace moderation failures and wasted tokens through one game backend agent run. |
-| 8 | [dragonked2/alphacode](https://github.com/dragonked2/alphacode) | 271 | Rust | 2026-10-11 | Free MIT AI coding agent — no API key needed. Built-in free model, or bring Claude, GPT, Gemini, DeepSeek, Ollama +50 mo |
-| 9 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 6 | Swift | 2026-10-11 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
-| 10 | [Cobblecat/The-Lens](https://github.com/Cobblecat/The-Lens) | 1 | — | 2026-10-11 | An experimental agentic overlay for Zelda: Breath of the Wild, combining screenshots, speech, persistent campaign memory |
-| 11 | [Xyntopia/taskyon](https://github.com/Xyntopia/taskyon) | 56 | TypeScript | 2026-10-11 | Browser based Interface for Generative AI. Chat/Agent/Taskmanager Hybrid. |
-| 12 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-10-11 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 13 | [node9-ai/node9-proxy](https://github.com/node9-ai/node9-proxy) | 220 | TypeScript | 2026-10-11 | Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r |
-| 14 | [akatzmann/slash-agent](https://github.com/akatzmann/slash-agent) | 10 | Python | 2026-10-11 | Native LLM Copilot for Your Terminal – **No Daemons. Zero Idle Memory. 100% On-Demand.** |
-| 15 | [KaletoAI/anima-verse](https://github.com/KaletoAI/anima-verse) | 4 | Python | 2026-10-11 | Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system, |
-| 16 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 20 | Rust | 2026-10-11 | Bamboo — a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule |
-| 17 | [anchor-inference/daedalus](https://github.com/anchor-inference/daedalus) | 2 | Python | 2026-10-11 | A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your |
-| 18 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-10-11 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 19 | [zeng6125-rgb/suixing](https://github.com/zeng6125-rgb/suixing) | 0 | Kotlin | 2026-10-11 | 随行 Suixing —— 手机端 AI Agent（Android · Kotlin + Compose）：读屏、点按、改文件、跑命令，纯本地、无云同步 |
-| 20 | [edjafarov/kiagent-core](https://github.com/edjafarov/kiagent-core) | 7 | TypeScript | 2026-10-11 | kiagent-core — open-source personal AI brain — local, open source, speaks MCP |
-| 21 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 769 | JavaScript | 2026-10-11 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
-| 22 | [NitinReddy-A/Rampart](https://github.com/NitinReddy-A/Rampart) | 5 | Python | 2026-10-11 | Open-source, self-hostable AppSec agent that finds, proves, and helps fix web/API vulnerabilities — evidence-first (inde |
-| 23 | [langroid/langroid](https://github.com/langroid/langroid) | 4113 | Python | 2026-10-11 | Harness LLMs with Multi-Agent Programming |
-| 24 | [mark-weeks/hello-nested-worlds-adventure](https://github.com/mark-weeks/hello-nested-worlds-adventure) | 5 | Python | 2026-10-11 | Enfolded: Nested World Adventure — a shared persistent multiverse where humans and AI agents traverse nested scales of r |
-| 25 | [yurika0211/lucky-agent](https://github.com/yurika0211/lucky-agent) | 14 | Go | 2026-10-11 | LuckyAgent — 注重长任务规划和系统记忆性的Agent框架 |
-| 26 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 1 | TypeScript | 2026-10-11 | Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers. |
+| 1 | [zaeem-rafiq/Call-Desk-public](https://github.com/zaeem-rafiq/Call-Desk-public) | 0 | Python | 2026-10-11 | Executives hint forecasts changed. Call Desk listens live and shows the new number, with proof. Built at AI Engineer NYC |
+| 2 | [genaforvena/mishe-tauftauf](https://github.com/genaforvena/mishe-tauftauf) | 2 | Python | 2026-10-11 | A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation. |
+| 3 | [SashaEee/auditLens](https://github.com/SashaEee/auditLens) | 2 | Python | 2026-10-11 | Deep-research LLM agent + RAG platform for internal bank-product audit — cited reports, PDF export, pgvector |
+| 4 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 1 | TypeScript | 2026-10-11 | Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers. |
+| 5 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 20 | Rust | 2026-10-11 | Bamboo — a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule |
+| 6 | [9t29zhmwdh-coder/EmissaryKit](https://github.com/9t29zhmwdh-coder/EmissaryKit) | 0 | Swift | 2026-10-11 | Lets a local language model use tools and act, not just answer. Swift package for Ollama and llama.cpp, no dependencies  |
+| 7 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-11 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
+| 8 | [ljchang/mecha](https://github.com/ljchang/mecha) | 7 | Rust | 2026-10-11 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
+| 9 | [KeeganNash8314/game-agent-run-telemetry](https://github.com/KeeganNash8314/game-agent-run-telemetry) | 0 | Go | 2026-10-11 | Trace moderation failures and wasted tokens through one game backend agent run. |
+| 10 | [dragonked2/alphacode](https://github.com/dragonked2/alphacode) | 271 | Rust | 2026-10-11 | Free MIT AI coding agent — no API key needed. Built-in free model, or bring Claude, GPT, Gemini, DeepSeek, Ollama +50 mo |
+| 11 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 6 | Swift | 2026-10-11 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
+| 12 | [Cobblecat/The-Lens](https://github.com/Cobblecat/The-Lens) | 1 | — | 2026-10-11 | An experimental agentic overlay for Zelda: Breath of the Wild, combining screenshots, speech, persistent campaign memory |
+| 13 | [Xyntopia/taskyon](https://github.com/Xyntopia/taskyon) | 56 | TypeScript | 2026-10-11 | Browser based Interface for Generative AI. Chat/Agent/Taskmanager Hybrid. |
+| 14 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-10-11 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 15 | [node9-ai/node9-proxy](https://github.com/node9-ai/node9-proxy) | 220 | TypeScript | 2026-10-11 | Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r |
+| 16 | [akatzmann/slash-agent](https://github.com/akatzmann/slash-agent) | 10 | Python | 2026-10-11 | Native LLM Copilot for Your Terminal – **No Daemons. Zero Idle Memory. 100% On-Demand.** |
+| 17 | [KaletoAI/anima-verse](https://github.com/KaletoAI/anima-verse) | 4 | Python | 2026-10-11 | Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system, |
+| 18 | [anchor-inference/daedalus](https://github.com/anchor-inference/daedalus) | 2 | Python | 2026-10-11 | A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your |
+| 19 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-10-11 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 20 | [zeng6125-rgb/suixing](https://github.com/zeng6125-rgb/suixing) | 0 | Kotlin | 2026-10-11 | 随行 Suixing —— 手机端 AI Agent（Android · Kotlin + Compose）：读屏、点按、改文件、跑命令，纯本地、无云同步 |
+| 21 | [edjafarov/kiagent-core](https://github.com/edjafarov/kiagent-core) | 7 | TypeScript | 2026-10-11 | kiagent-core — open-source personal AI brain — local, open source, speaks MCP |
+| 22 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 769 | JavaScript | 2026-10-11 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
+| 23 | [NitinReddy-A/Rampart](https://github.com/NitinReddy-A/Rampart) | 5 | Python | 2026-10-11 | Open-source, self-hostable AppSec agent that finds, proves, and helps fix web/API vulnerabilities — evidence-first (inde |
+| 24 | [langroid/langroid](https://github.com/langroid/langroid) | 4113 | Python | 2026-10-11 | Harness LLMs with Multi-Agent Programming |
+| 25 | [mark-weeks/hello-nested-worlds-adventure](https://github.com/mark-weeks/hello-nested-worlds-adventure) | 5 | Python | 2026-10-11 | Enfolded: Nested World Adventure — a shared persistent multiverse where humans and AI agents traverse nested scales of r |
+| 26 | [yurika0211/lucky-agent](https://github.com/yurika0211/lucky-agent) | 14 | Go | 2026-10-11 | LuckyAgent — 注重长任务规划和系统记忆性的Agent框架 |
 | 27 | [Hrecer/LinkPocket](https://github.com/Hrecer/LinkPocket) | 0 | C# | 2026-10-11 | A local-first, standalone personal knowledge base for Windows. Import, organize, and create your own links — no browser  |
 | 28 | [feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) | 2746 | Python | 2026-10-11 | Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Pyt |
 | 29 | [alexwkleung/reika](https://github.com/alexwkleung/reika) | 9 | TypeScript | 2026-10-11 | Coding agent CLI for local and hosted models, designed around small local models first |
