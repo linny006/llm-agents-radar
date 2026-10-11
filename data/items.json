@@ -1,5 +1,77 @@
 [
   {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-10-11T20:27:45Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 2,
+    "updated_at": "2026-10-11T20:27:02Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Trace moderation failures and wasted tokens through one game backend agent run.",
+    "id": "KeeganNash8314/game-agent-run-telemetry",
+    "language": "Go",
+    "name": "KeeganNash8314/game-agent-run-telemetry",
+    "stars": 0,
+    "updated_at": "2026-10-11T20:26:30Z",
+    "url": "https://github.com/KeeganNash8314/game-agent-run-telemetry"
+  },
+  {
+    "description": "Free MIT AI coding agent \u2014 no API key needed. Built-in free model, or bring Claude, GPT, Gemini, DeepSeek, Ollama +50 mo",
+    "id": "dragonked2/alphacode",
+    "language": "Rust",
+    "name": "dragonked2/alphacode",
+    "stars": 271,
+    "updated_at": "2026-10-11T20:25:54Z",
+    "url": "https://github.com/dragonked2/alphacode"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 6,
+    "updated_at": "2026-10-11T20:25:32Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "An experimental agentic overlay for Zelda: Breath of the Wild, combining screenshots, speech, persistent campaign memory",
+    "id": "Cobblecat/The-Lens",
+    "language": "\u2014",
+    "name": "Cobblecat/The-Lens",
+    "stars": 1,
+    "updated_at": "2026-10-11T20:24:50Z",
+    "url": "https://github.com/Cobblecat/The-Lens"
+  },
+  {
+    "description": "Executives hint forecasts changed. Call Desk listens live and shows the new number, with proof. Built at AI Engineer NYC",
+    "id": "zaeem-rafiq/Call-Desk-public",
+    "language": "Python",
+    "name": "zaeem-rafiq/Call-Desk-public",
+    "stars": 0,
+    "updated_at": "2026-10-11T20:24:28Z",
+    "url": "https://github.com/zaeem-rafiq/Call-Desk-public"
+  },
+  {
+    "description": "Browser based Interface for Generative AI. Chat/Agent/Taskmanager Hybrid.",
+    "id": "Xyntopia/taskyon",
+    "language": "TypeScript",
+    "name": "Xyntopia/taskyon",
+    "stars": 56,
+    "updated_at": "2026-10-11T20:21:20Z",
+    "url": "https://github.com/Xyntopia/taskyon"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -9,30 +81,12 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "Free MIT AI coding agent \u2014 no API key needed. Built-in free model, or bring Claude, GPT, Gemini, DeepSeek, Ollama +50 mo",
-    "id": "dragonked2/alphacode",
-    "language": "Rust",
-    "name": "dragonked2/alphacode",
-    "stars": 271,
-    "updated_at": "2026-10-11T20:12:37Z",
-    "url": "https://github.com/dragonked2/alphacode"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 2,
-    "updated_at": "2026-10-11T20:11:23Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
     "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
     "id": "node9-ai/node9-proxy",
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 220,
-    "updated_at": "2026-10-11T20:06:28Z",
+    "updated_at": "2026-10-11T20:16:22Z",
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
@@ -59,7 +113,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-11T20:14:05Z",
+    "updated_at": "2026-10-11T20:18:38Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -70,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-10-11T19:59:00Z",
     "url": "https://github.com/anchor-inference/daedalus"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-10-11T19:54:23Z",
-    "url": "https://github.com/SashaEee/auditLens"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -97,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-11T19:49:30Z",
     "url": "https://github.com/zeng6125-rgb/suixing"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 6,
-    "updated_at": "2026-10-11T19:40:49Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
@@ -212,7 +248,7 @@
     "language": "Swift",
     "name": "9t29zhmwdh-coder/EmissaryKit",
     "stars": 0,
-    "updated_at": "2026-10-11T19:04:53Z",
+    "updated_at": "2026-10-11T20:29:01Z",
     "url": "https://github.com/9t29zhmwdh-coder/EmissaryKit"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-11T17:49:46Z",
     "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-10-11T17:48:12Z",
-    "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
-    "id": "eshanized/M31A",
-    "language": "Rust",
-    "name": "eshanized/M31A",
-    "stars": 10,
-    "updated_at": "2026-10-11T17:48:07Z",
-    "url": "https://github.com/eshanized/M31A"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-10-11T17:47:42Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Force an agent to write an ML contract before it writes a single line of training code. 94 stage-by-stage discipline rul",
-    "id": "Jxbbbbbyan/dsh-ml-planner",
-    "language": "JavaScript",
-    "name": "Jxbbbbbyan/dsh-ml-planner",
-    "stars": 0,
-    "updated_at": "2026-10-11T17:47:41Z",
-    "url": "https://github.com/Jxbbbbbyan/dsh-ml-planner"
   }
 ]
