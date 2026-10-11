@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-11 19:30 UTC
+> ⏰ Last updated: 2026-10-11 19:33 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [NitinReddy-A/Rampart](https://github.com/NitinReddy-A/Rampart) | 5 | Python | 2026-10-11 | Open-source, self-hostable AppSec agent that finds, proves, and helps fix web/API vulnerabilities — evidence-first (inde |
-| 2 | [langroid/langroid](https://github.com/langroid/langroid) | 4113 | Python | 2026-10-11 | Harness LLMs with Multi-Agent Programming |
-| 3 | [zeng6125-rgb/suixing](https://github.com/zeng6125-rgb/suixing) | 0 | Kotlin | 2026-10-11 | 随行 Suixing —— 手机端 AI Agent（Android · Kotlin + Compose）：读屏、点按、改文件、跑命令，纯本地、无云同步 |
-| 4 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 769 | JavaScript | 2026-10-11 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
+| 1 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 769 | JavaScript | 2026-10-11 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
+| 2 | [NitinReddy-A/Rampart](https://github.com/NitinReddy-A/Rampart) | 5 | Python | 2026-10-11 | Open-source, self-hostable AppSec agent that finds, proves, and helps fix web/API vulnerabilities — evidence-first (inde |
+| 3 | [langroid/langroid](https://github.com/langroid/langroid) | 4113 | Python | 2026-10-11 | Harness LLMs with Multi-Agent Programming |
+| 4 | [zeng6125-rgb/suixing](https://github.com/zeng6125-rgb/suixing) | 0 | Kotlin | 2026-10-11 | 随行 Suixing —— 手机端 AI Agent（Android · Kotlin + Compose）：读屏、点按、改文件、跑命令，纯本地、无云同步 |
 | 5 | [mark-weeks/hello-nested-worlds-adventure](https://github.com/mark-weeks/hello-nested-worlds-adventure) | 5 | Python | 2026-10-11 | Enfolded: Nested World Adventure — a shared persistent multiverse where humans and AI agents traverse nested scales of r |
 | 6 | [yurika0211/lucky-agent](https://github.com/yurika0211/lucky-agent) | 14 | Go | 2026-10-11 | LuckyAgent — 注重长任务规划和系统记忆性的Agent框架 |
 | 7 | [anchor-inference/daedalus](https://github.com/anchor-inference/daedalus) | 2 | Python | 2026-10-11 | A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your |
