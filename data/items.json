@@ -1,5 +1,23 @@
 [
   {
+    "description": "A local-first, standalone personal knowledge base for Windows. Import, organize, and create your own links \u2014 no browser ",
+    "id": "Hrecer/LinkPocket",
+    "language": "C#",
+    "name": "Hrecer/LinkPocket",
+    "stars": 0,
+    "updated_at": "2026-10-11T18:50:32Z",
+    "url": "https://github.com/Hrecer/LinkPocket"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 2,
+    "updated_at": "2026-10-11T18:48:53Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
     "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
     "id": "Sigmanih/SigmaStudio",
     "language": "Python",
@@ -54,21 +72,12 @@
     "url": "https://github.com/NitinReddy-A/Rampart"
   },
   {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 2,
-    "updated_at": "2026-10-11T18:28:30Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 769,
-    "updated_at": "2026-10-11T18:27:06Z",
+    "updated_at": "2026-10-11T18:57:51Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -86,7 +95,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-11T18:42:59Z",
+    "updated_at": "2026-10-11T18:51:43Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -194,7 +203,7 @@
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 220,
-    "updated_at": "2026-10-11T18:07:34Z",
+    "updated_at": "2026-10-11T19:00:12Z",
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-11T17:26:04Z",
     "url": "https://github.com/JoeLiaoo/my-slides"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 130,
-    "updated_at": "2026-10-11T17:19:54Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   }
 ]
