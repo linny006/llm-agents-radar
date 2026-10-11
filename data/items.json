@@ -1,12 +1,48 @@
 [
   {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-11T19:13:52Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 20,
+    "updated_at": "2026-10-11T19:14:13Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 769,
+    "updated_at": "2026-10-11T19:13:33Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
     "description": "A local-first, standalone personal knowledge base for Windows. Import, organize, and create your own links \u2014 no browser ",
     "id": "Hrecer/LinkPocket",
     "language": "C#",
     "name": "Hrecer/LinkPocket",
     "stars": 0,
-    "updated_at": "2026-10-11T18:50:32Z",
+    "updated_at": "2026-10-11T19:13:22Z",
     "url": "https://github.com/Hrecer/LinkPocket"
+  },
+  {
+    "description": "Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Pyt",
+    "id": "feder-cr/invisible_playwright_mcp",
+    "language": "Python",
+    "name": "feder-cr/invisible_playwright_mcp",
+    "stars": 2745,
+    "updated_at": "2026-10-11T19:10:36Z",
+    "url": "https://github.com/feder-cr/invisible_playwright_mcp"
   },
   {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
@@ -14,8 +50,35 @@
     "language": "Python",
     "name": "genaforvena/mishe-tauftauf",
     "stars": 2,
-    "updated_at": "2026-10-11T18:48:53Z",
+    "updated_at": "2026-10-11T19:09:07Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 6,
+    "updated_at": "2026-10-11T19:08:54Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
+    "id": "alexwkleung/reika",
+    "language": "TypeScript",
+    "name": "alexwkleung/reika",
+    "stars": 8,
+    "updated_at": "2026-10-11T19:08:37Z",
+    "url": "https://github.com/alexwkleung/reika"
+  },
+  {
+    "description": "Lets a local language model use tools and act, not just answer. Swift package for Ollama and llama.cpp, no dependencies ",
+    "id": "9t29zhmwdh-coder/EmissaryKit",
+    "language": "Swift",
+    "name": "9t29zhmwdh-coder/EmissaryKit",
+    "stars": 0,
+    "updated_at": "2026-10-11T19:04:53Z",
+    "url": "https://github.com/9t29zhmwdh-coder/EmissaryKit"
   },
   {
     "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
@@ -45,15 +108,6 @@
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 6,
-    "updated_at": "2026-10-11T18:36:43Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
     "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
     "id": "duongnq2798/vestiarion",
     "language": "TypeScript",
@@ -72,15 +126,6 @@
     "url": "https://github.com/NitinReddy-A/Rampart"
   },
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 769,
-    "updated_at": "2026-10-11T18:57:51Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -88,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-11T18:25:29Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 20,
-    "updated_at": "2026-10-11T18:51:43Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-11T17:34:14Z",
     "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 0,
-    "updated_at": "2026-10-11T17:32:25Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-10-11T17:27:01Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 2,
-    "updated_at": "2026-10-11T17:23:37Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "\u6295\u8d44\u7814\u7a76\u7528\u7684\u672c\u5730 Agent CLI\uff1a\u8d44\u6599 \u2192 Wiki \u2192 \u62a5\u544a \u2192 Spec \u2192 \u79bb\u7ebf HTML \u6295\u8d44\u6c47\u62a5 Slides\uff0c\u6309\u5c0f\u7ae0\u8282\u5ba1\u6279\u4e0e\u589e\u91cf\u6784\u5efa",
-    "id": "JoeLiaoo/my-slides",
-    "language": "Python",
-    "name": "JoeLiaoo/my-slides",
-    "stars": 0,
-    "updated_at": "2026-10-11T17:26:04Z",
-    "url": "https://github.com/JoeLiaoo/my-slides"
   }
 ]
