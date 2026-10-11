@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-11 04:15 UTC
+> ⏰ Last updated: 2026-10-11 04:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,22 +43,22 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [Jongtae/agentos](https://github.com/Jongtae/agentos) | 0 | Python | 2026-10-11 | Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude  |
-| 2 | [Shuffle-1992/zcode-dispatch](https://github.com/Shuffle-1992/zcode-dispatch) | 1 | JavaScript | 2026-10-11 | 把任务派发给本机 ZCode CLI 无头进程的 DeepSeek Harness 插件：面板可监视/终止/续跑/换通道；单写者文件锁 + 用量台账 + 降级链。支持付费套餐与免费额度（Start Plan 活动赠送）两种额度，后者托管官方 |
-| 3 | [chenziliang1/311-analytics-agent](https://github.com/chenziliang1/311-analytics-agent) | 0 | Python | 2026-10-11 | A BI agent that answers questions about 311 service requests from a Snowflake warehouse. Strands Agents, MCP, AWS Bedroc |
-| 4 | [xianteng-zhang/sourcing-agent](https://github.com/xianteng-zhang/sourcing-agent) | 1 | Python | 2026-10-11 | 基于 LangGraph 的跨境电商选品 + 上架 Agent：ReAct 自主编排 5 个工具（实测支持并行调用）；两类确定性闸门——违禁词 7 类规则表 + 参数锚定（Listing 数值必须来自卖家规格），命中即判不合格、不调用模型， |
-| 5 | [Ultra-Guru/Android-Guru-Agent](https://github.com/Ultra-Guru/Android-Guru-Agent) | 8 | Kotlin | 2026-10-11 | 🤖 An autonomous AI agent that lives entirely on your Android device — 109 tools · PRoot Ubuntu terminal · bionic memory  |
-| 6 | [zhixuli0406/DuDuClaw](https://github.com/zhixuli0406/DuDuClaw) | 49 | Rust | 2026-10-11 | Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha |
-| 7 | [Wenyan0315/facta](https://github.com/Wenyan0315/facta) | 1 | Python | 2026-10-11 | Personal AI agent built from scratch — LLM layer, RAG knowledge base, tool calling loop. No frameworks, learn by buildin |
-| 8 | [genaforvena/mishe-tauftauf](https://github.com/genaforvena/mishe-tauftauf) | 2 | Python | 2026-10-11 | A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation. |
-| 9 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 130 | HTML | 2026-10-11 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 10 | [111wxh/researchwiki](https://github.com/111wxh/researchwiki) | 0 | Python | 2026-10-11 | 自进化研究 Wiki 智能体：自建 agent harness + 三层记忆 + 引用强制与冲突对账 |
-| 11 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 25 | Python | 2026-10-11 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、HMI和Android双端；LLM 只负责理解与规划，VAL 负责确定性安全执行 |
-| 12 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 80 | Python | 2026-10-11 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
-| 13 | [zty522/partner](https://github.com/zty522/partner) | 5 | Python | 2026-10-11 | Partner 🤝 Your AI Research Companion. "What have you been doing?" |
-| 14 | [ljchang/mecha](https://github.com/ljchang/mecha) | 7 | Rust | 2026-10-11 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
-| 15 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-10-11 | AI-powered image generation and chat studio |
-| 16 | [NatanTechofNY/fieldnote-assistant](https://github.com/NatanTechofNY/fieldnote-assistant) | 5 | TypeScript | 2026-10-11 | A personal assistant with a phone number: SQLite-backed todos, memories, and reflections, searchable through Algolia and |
-| 17 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-11 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
+| 2 | [xianteng-zhang/sourcing-agent](https://github.com/xianteng-zhang/sourcing-agent) | 1 | Python | 2026-10-11 | 基于 LangGraph 的跨境电商选品 + 上架 Agent：ReAct 自主编排 5 个工具（实测支持并行调用）；两类确定性闸门——违禁词 7 类规则表 + 参数锚定（Listing 数值必须来自卖家规格），命中即判不合格、不调用模型， |
+| 3 | [Ultra-Guru/Android-Guru-Agent](https://github.com/Ultra-Guru/Android-Guru-Agent) | 8 | Kotlin | 2026-10-11 | 🤖 An autonomous AI agent that lives entirely on your Android device — 109 tools · PRoot Ubuntu terminal · bionic memory  |
+| 4 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-11 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
+| 5 | [Wenyan0315/facta](https://github.com/Wenyan0315/facta) | 1 | Python | 2026-10-11 | Personal AI agent built from scratch — LLM layer, RAG knowledge base, tool calling loop. No frameworks, learn by buildin |
+| 6 | [Shuffle-1992/zcode-dispatch](https://github.com/Shuffle-1992/zcode-dispatch) | 1 | JavaScript | 2026-10-11 | 把任务派发给本机 ZCode CLI 无头进程的 DeepSeek Harness 插件：面板可监视/终止/续跑/换通道；单写者文件锁 + 用量台账 + 降级链。支持付费套餐与免费额度（Start Plan 活动赠送）两种额度，后者托管官方 |
+| 7 | [chenziliang1/311-analytics-agent](https://github.com/chenziliang1/311-analytics-agent) | 0 | Python | 2026-10-11 | A BI agent that answers questions about 311 service requests from a Snowflake warehouse. Strands Agents, MCP, AWS Bedroc |
+| 8 | [zhixuli0406/DuDuClaw](https://github.com/zhixuli0406/DuDuClaw) | 49 | Rust | 2026-10-11 | Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha |
+| 9 | [genaforvena/mishe-tauftauf](https://github.com/genaforvena/mishe-tauftauf) | 2 | Python | 2026-10-11 | A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation. |
+| 10 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 130 | HTML | 2026-10-11 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 11 | [111wxh/researchwiki](https://github.com/111wxh/researchwiki) | 0 | Python | 2026-10-11 | 自进化研究 Wiki 智能体：自建 agent harness + 三层记忆 + 引用强制与冲突对账 |
+| 12 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 25 | Python | 2026-10-11 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、HMI和Android双端；LLM 只负责理解与规划，VAL 负责确定性安全执行 |
+| 13 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 80 | Python | 2026-10-11 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
+| 14 | [zty522/partner](https://github.com/zty522/partner) | 5 | Python | 2026-10-11 | Partner 🤝 Your AI Research Companion. "What have you been doing?" |
+| 15 | [ljchang/mecha](https://github.com/ljchang/mecha) | 7 | Rust | 2026-10-11 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
+| 16 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-10-11 | AI-powered image generation and chat studio |
+| 17 | [NatanTechofNY/fieldnote-assistant](https://github.com/NatanTechofNY/fieldnote-assistant) | 5 | TypeScript | 2026-10-11 | A personal assistant with a phone number: SQLite-backed todos, memories, and reflections, searchable through Algolia and |
 | 18 | [wq19901103wq/wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa) | 120 | Python | 2026-10-11 | 基于多模态视觉感知与 LLM Agent 的 macOS 微信自动化框架 \| Visual RPA for WeChat |
 | 19 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-10-11 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
 | 20 | [zig333/ELAI-archive](https://github.com/zig333/ELAI-archive) | 0 | — | 2026-10-11 | Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi |
