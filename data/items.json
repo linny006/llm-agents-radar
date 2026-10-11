@@ -1,5 +1,50 @@
 [
   {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 2,
+    "updated_at": "2026-10-11T20:43:06Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Lets a local language model use tools and act, not just answer. Swift package for Ollama and llama.cpp, no dependencies ",
+    "id": "9t29zhmwdh-coder/EmissaryKit",
+    "language": "Swift",
+    "name": "9t29zhmwdh-coder/EmissaryKit",
+    "stars": 0,
+    "updated_at": "2026-10-11T20:41:12Z",
+    "url": "https://github.com/9t29zhmwdh-coder/EmissaryKit"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-11T20:38:53Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Executives hint forecasts changed. Call Desk listens live and shows the new number, with proof. Built at AI Engineer NYC",
+    "id": "zaeem-rafiq/Call-Desk-public",
+    "language": "Python",
+    "name": "zaeem-rafiq/Call-Desk-public",
+    "stars": 0,
+    "updated_at": "2026-10-11T20:36:39Z",
+    "url": "https://github.com/zaeem-rafiq/Call-Desk-public"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-11T20:42:47Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
     "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
     "id": "SashaEee/auditLens",
     "language": "Python",
@@ -7,15 +52,6 @@
     "stars": 2,
     "updated_at": "2026-10-11T20:27:45Z",
     "url": "https://github.com/SashaEee/auditLens"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 2,
-    "updated_at": "2026-10-11T20:27:02Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "Trace moderation failures and wasted tokens through one game backend agent run.",
@@ -52,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-10-11T20:24:50Z",
     "url": "https://github.com/Cobblecat/The-Lens"
-  },
-  {
-    "description": "Executives hint forecasts changed. Call Desk listens live and shows the new number, with proof. Built at AI Engineer NYC",
-    "id": "zaeem-rafiq/Call-Desk-public",
-    "language": "Python",
-    "name": "zaeem-rafiq/Call-Desk-public",
-    "stars": 0,
-    "updated_at": "2026-10-11T20:24:28Z",
-    "url": "https://github.com/zaeem-rafiq/Call-Desk-public"
   },
   {
     "description": "Browser based Interface for Generative AI. Chat/Agent/Taskmanager Hybrid.",
@@ -153,15 +180,6 @@
     "url": "https://github.com/edjafarov/kiagent-core"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-11T19:37:51Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
@@ -241,15 +259,6 @@
     "stars": 9,
     "updated_at": "2026-10-11T19:28:01Z",
     "url": "https://github.com/alexwkleung/reika"
-  },
-  {
-    "description": "Lets a local language model use tools and act, not just answer. Swift package for Ollama and llama.cpp, no dependencies ",
-    "id": "9t29zhmwdh-coder/EmissaryKit",
-    "language": "Swift",
-    "name": "9t29zhmwdh-coder/EmissaryKit",
-    "stars": 0,
-    "updated_at": "2026-10-11T20:29:01Z",
-    "url": "https://github.com/9t29zhmwdh-coder/EmissaryKit"
   },
   {
     "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-11T17:50:13Z",
     "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-10-11T17:49:46Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
   }
 ]
