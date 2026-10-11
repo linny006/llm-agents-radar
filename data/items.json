@@ -5,8 +5,98 @@
     "language": "Python",
     "name": "mntoyg/OmniAgent",
     "stars": 0,
-    "updated_at": "2026-10-11T00:44:47Z",
+    "updated_at": "2026-10-11T00:59:30Z",
     "url": "https://github.com/mntoyg/OmniAgent"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-10-11T00:56:46Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "A compass for autonomous agents, not an operating manual.",
+    "id": "tachyon-r/first-principles-agent-soul",
+    "language": "\u2014",
+    "name": "tachyon-r/first-principles-agent-soul",
+    "stars": 1,
+    "updated_at": "2026-10-11T00:55:42Z",
+    "url": "https://github.com/tachyon-r/first-principles-agent-soul"
+  },
+  {
+    "description": "LLM \u5e94\u7528\u5e76\u53d1\u8d28\u91cf\u5224\u5b9a\u5de5\u5177\uff08\u5efa\u8bbe\u4e2d\uff09\uff1aM1 \u5e95\u5ea7\u5df2\u4ea4\u4ed8\uff08SSE \u5e27\u89e3\u6790 / \u65f6\u5e8f\u56de\u653e / \u9884\u7b97\u7194\u65ad / \u591a\u6a21\u578b\u9002\u914d\uff09\uff1bM3-M4 \u5c06\u4ea4\u4ed8\u7edf\u8ba1\u63a8\u65ad + \u6d4b\u91cf\u81ea\u8bc1 + \u9884\u6ce8\u518c\u51bb\u7ed3\u95e8\u7981\u3002\u56de\u7b54 ' \u8fd9\u4e2a\u4e0b\u964d\u662f\u4e0d\u662f\u771f\u7684 '\u3002",
+    "id": "hu-chenyu/AquaMind",
+    "language": "Python",
+    "name": "hu-chenyu/AquaMind",
+    "stars": 1,
+    "updated_at": "2026-10-11T00:52:04Z",
+    "url": "https://github.com/hu-chenyu/AquaMind"
+  },
+  {
+    "description": "Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi",
+    "id": "zig333/ELAI-archive",
+    "language": "\u2014",
+    "name": "zig333/ELAI-archive",
+    "stars": 0,
+    "updated_at": "2026-10-11T00:51:58Z",
+    "url": "https://github.com/zig333/ELAI-archive"
+  },
+  {
+    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
+    "id": "IAmNo1Special/mvgeos",
+    "language": "Python",
+    "name": "IAmNo1Special/mvgeos",
+    "stars": 1,
+    "updated_at": "2026-10-11T00:58:35Z",
+    "url": "https://github.com/IAmNo1Special/mvgeos"
+  },
+  {
+    "description": "Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Pyt",
+    "id": "feder-cr/invisible_playwright_mcp",
+    "language": "Python",
+    "name": "feder-cr/invisible_playwright_mcp",
+    "stars": 2734,
+    "updated_at": "2026-10-11T00:50:13Z",
+    "url": "https://github.com/feder-cr/invisible_playwright_mcp"
+  },
+  {
+    "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
+    "id": "brittewestafrican981/ComfyUI-YinChao",
+    "language": "Python",
+    "name": "brittewestafrican981/ComfyUI-YinChao",
+    "stars": 1,
+    "updated_at": "2026-10-11T00:49:57Z",
+    "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
+  },
+  {
+    "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
+    "id": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
+    "language": "Python",
+    "name": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
+    "stars": 5,
+    "updated_at": "2026-10-11T00:49:05Z",
+    "url": "https://github.com/mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo"
+  },
+  {
+    "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
+    "id": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
+    "language": "Python",
+    "name": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
+    "stars": 3,
+    "updated_at": "2026-10-11T00:48:03Z",
+    "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
+  },
+  {
+    "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
+    "id": "EpsteinF1les/tts",
+    "language": "\u2014",
+    "name": "EpsteinF1les/tts",
+    "stars": 0,
+    "updated_at": "2026-10-11T00:47:21Z",
+    "url": "https://github.com/EpsteinF1les/tts"
   },
   {
     "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
@@ -14,7 +104,7 @@
     "language": "Kotlin",
     "name": "Ultra-Guru/Android-Guru-Agent",
     "stars": 8,
-    "updated_at": "2026-10-11T00:43:48Z",
+    "updated_at": "2026-10-11T00:50:54Z",
     "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
   },
   {
@@ -32,7 +122,7 @@
     "language": "Python",
     "name": "Jongtae/agentos",
     "stars": 0,
-    "updated_at": "2026-10-11T00:43:04Z",
+    "updated_at": "2026-10-11T00:57:17Z",
     "url": "https://github.com/Jongtae/agentos"
   },
   {
@@ -52,15 +142,6 @@
     "stars": 5,
     "updated_at": "2026-10-11T00:40:36Z",
     "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
-  },
-  {
-    "description": "LLM \u5e94\u7528\u5e76\u53d1\u8d28\u91cf\u5224\u5b9a\u5de5\u5177\uff08\u5efa\u8bbe\u4e2d\uff09\uff1aM1 \u5e95\u5ea7\u5df2\u4ea4\u4ed8\uff08SSE \u5e27\u89e3\u6790 / \u65f6\u5e8f\u56de\u653e / \u9884\u7b97\u7194\u65ad / \u591a\u6a21\u578b\u9002\u914d\uff09\uff1bM3-M4 \u5c06\u4ea4\u4ed8\u7edf\u8ba1\u63a8\u65ad + \u6d4b\u91cf\u81ea\u8bc1 + \u9884\u6ce8\u518c\u51bb\u7ed3\u95e8\u7981\u3002\u56de\u7b54 ' \u8fd9\u4e2a\u4e0b\u964d\u662f\u4e0d\u662f\u771f\u7684 '\u3002",
-    "id": "hu-chenyu/AquaMind",
-    "language": "Python",
-    "name": "hu-chenyu/AquaMind",
-    "stars": 1,
-    "updated_at": "2026-10-11T00:40:36Z",
-    "url": "https://github.com/hu-chenyu/AquaMind"
   },
   {
     "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
@@ -225,15 +306,6 @@
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
-    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
-    "id": "IAmNo1Special/mvgeos",
-    "language": "Python",
-    "name": "IAmNo1Special/mvgeos",
-    "stars": 1,
-    "updated_at": "2026-10-11T00:38:13Z",
-    "url": "https://github.com/IAmNo1Special/mvgeos"
-  },
-  {
     "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
     "id": "yigido41/agentic-ai",
     "language": "Python",
@@ -376,77 +448,5 @@
     "stars": 6,
     "updated_at": "2026-10-10T23:04:34Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
-    "id": "eshanized/M31A",
-    "language": "Rust",
-    "name": "eshanized/M31A",
-    "stars": 10,
-    "updated_at": "2026-10-10T22:47:32Z",
-    "url": "https://github.com/eshanized/M31A"
-  },
-  {
-    "description": "A self-hosted software factory \u2014 define goals, agents decompose and execute them through enforced pipelines, with humans",
-    "id": "diraigent/diraigent",
-    "language": "Rust",
-    "name": "diraigent/diraigent",
-    "stars": 20,
-    "updated_at": "2026-10-10T22:37:49Z",
-    "url": "https://github.com/diraigent/diraigent"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 346,
-    "updated_at": "2026-10-10T22:28:46Z",
-    "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 281,
-    "updated_at": "2026-10-10T22:13:11Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-10-10T22:09:09Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-10-10T22:06:09Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Agent-native product search: multi-source scrape \u2192 deterministic constraints \u2192 LLM match \u2192 price watches + order trackin",
-    "id": "anatolykoptev/quarryn",
-    "language": "Go",
-    "name": "anatolykoptev/quarryn",
-    "stars": 0,
-    "updated_at": "2026-10-10T22:00:50Z",
-    "url": "https://github.com/anatolykoptev/quarryn"
-  },
-  {
-    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 7,
-    "updated_at": "2026-10-10T21:57:18Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
   }
 ]
