@@ -1,12 +1,66 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-10-11T01:28:37Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
     "id": "Jongtae/agentos",
     "language": "Python",
     "name": "Jongtae/agentos",
     "stars": 0,
-    "updated_at": "2026-10-11T01:11:52Z",
+    "updated_at": "2026-10-11T01:26:53Z",
     "url": "https://github.com/Jongtae/agentos"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 2,
+    "updated_at": "2026-10-11T01:22:23Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 25,
+    "updated_at": "2026-10-11T01:22:08Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "Memory Model for Personalized LLM-agents based on Graph Data Structures",
+    "id": "Dzigen/PersonalAI",
+    "language": "Python",
+    "name": "Dzigen/PersonalAI",
+    "stars": 2,
+    "updated_at": "2026-10-11T01:21:50Z",
+    "url": "https://github.com/Dzigen/PersonalAI"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-11T01:19:13Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "LLM \u5e94\u7528\u5e76\u53d1\u8d28\u91cf\u5224\u5b9a\u5de5\u5177\uff08\u5efa\u8bbe\u4e2d\uff09\uff1aM1 \u5e95\u5ea7\u5df2\u4ea4\u4ed8\uff08SSE \u5e27\u89e3\u6790 / \u65f6\u5e8f\u56de\u653e / \u9884\u7b97\u7194\u65ad / \u591a\u6a21\u578b\u9002\u914d\uff09\uff1bM3-M4 \u5c06\u4ea4\u4ed8\u7edf\u8ba1\u63a8\u65ad + \u6d4b\u91cf\u81ea\u8bc1 + \u9884\u6ce8\u518c\u51bb\u7ed3\u95e8\u7981\u3002\u56de\u7b54 ' \u8fd9\u4e2a\u4e0b\u964d\u662f\u4e0d\u662f\u771f\u7684 '\u3002",
+    "id": "hu-chenyu/AquaMind",
+    "language": "Python",
+    "name": "hu-chenyu/AquaMind",
+    "stars": 1,
+    "updated_at": "2026-10-11T01:18:32Z",
+    "url": "https://github.com/hu-chenyu/AquaMind"
   },
   {
     "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
@@ -43,24 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-11T00:56:46Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "A compass for autonomous agents, not an operating manual.",
-    "id": "tachyon-r/first-principles-agent-soul",
-    "language": "\u2014",
-    "name": "tachyon-r/first-principles-agent-soul",
-    "stars": 1,
-    "updated_at": "2026-10-11T00:55:42Z",
-    "url": "https://github.com/tachyon-r/first-principles-agent-soul"
-  },
-  {
-    "description": "LLM \u5e94\u7528\u5e76\u53d1\u8d28\u91cf\u5224\u5b9a\u5de5\u5177\uff08\u5efa\u8bbe\u4e2d\uff09\uff1aM1 \u5e95\u5ea7\u5df2\u4ea4\u4ed8\uff08SSE \u5e27\u89e3\u6790 / \u65f6\u5e8f\u56de\u653e / \u9884\u7b97\u7194\u65ad / \u591a\u6a21\u578b\u9002\u914d\uff09\uff1bM3-M4 \u5c06\u4ea4\u4ed8\u7edf\u8ba1\u63a8\u65ad + \u6d4b\u91cf\u81ea\u8bc1 + \u9884\u6ce8\u518c\u51bb\u7ed3\u95e8\u7981\u3002\u56de\u7b54 ' \u8fd9\u4e2a\u4e0b\u964d\u662f\u4e0d\u662f\u771f\u7684 '\u3002",
-    "id": "hu-chenyu/AquaMind",
-    "language": "Python",
-    "name": "hu-chenyu/AquaMind",
-    "stars": 1,
-    "updated_at": "2026-10-11T00:52:04Z",
-    "url": "https://github.com/hu-chenyu/AquaMind"
   },
   {
     "description": "Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi",
@@ -122,7 +158,7 @@
     "language": "Kotlin",
     "name": "Ultra-Guru/Android-Guru-Agent",
     "stars": 8,
-    "updated_at": "2026-10-11T01:11:18Z",
+    "updated_at": "2026-10-11T01:27:15Z",
     "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
   },
   {
@@ -270,15 +306,6 @@
     "url": "https://github.com/mohahasan/ios-agentic-skills"
   },
   {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 2,
-    "updated_at": "2026-10-11T00:26:42Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
     "description": "Interactive Smith chart with an agentic AI tutor that teaches like a person and grades like an engineer",
     "id": "sampreethsharma7/smith-chart-tutor",
     "language": "TypeScript",
@@ -304,15 +331,6 @@
     "stars": 4,
     "updated_at": "2026-10-11T00:21:07Z",
     "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-11T00:18:12Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-10T23:09:32Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "US-equities strategy research: rule-based strategies and an LLM agent paper-traded daily via GitHub Actions against real",
-    "id": "udayjain2102/agentic-paper-trading",
-    "language": "Python",
-    "name": "udayjain2102/agentic-paper-trading",
-    "stars": 0,
-    "updated_at": "2026-10-10T23:06:55Z",
-    "url": "https://github.com/udayjain2102/agentic-paper-trading"
-  },
-  {
-    "description": "Keeps the rules and skills in a Claude Code setup from piling up and going stale: a Claude Code plugin of audit and upke",
-    "id": "shimo4228/akc-cycle",
-    "language": "Python",
-    "name": "shimo4228/akc-cycle",
-    "stars": 1,
-    "updated_at": "2026-10-10T23:06:16Z",
-    "url": "https://github.com/shimo4228/akc-cycle"
   }
 ]
