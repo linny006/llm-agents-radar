@@ -1,5 +1,23 @@
 [
   {
+    "description": "\u57fa\u4e8e LangGraph \u7684\u8de8\u5883\u7535\u5546\u9009\u54c1 + \u4e0a\u67b6 Agent\uff1aReAct \u81ea\u4e3b\u7f16\u6392 5 \u4e2a\u5de5\u5177\uff08\u5b9e\u6d4b\u652f\u6301\u5e76\u884c\u8c03\u7528\uff09\uff1b\u4e24\u7c7b\u786e\u5b9a\u6027\u95f8\u95e8\u2014\u2014\u8fdd\u7981\u8bcd 7 \u7c7b\u89c4\u5219\u8868 + \u53c2\u6570\u951a\u5b9a\uff08Listing \u6570\u503c\u5fc5\u987b\u6765\u81ea\u5356\u5bb6\u89c4\u683c\uff09\uff0c\u547d\u4e2d\u5373\u5224\u4e0d\u5408\u683c\u3001\u4e0d\u8c03\u7528\u6a21\u578b\uff0c",
+    "id": "xianteng-zhang/sourcing-agent",
+    "language": "Python",
+    "name": "xianteng-zhang/sourcing-agent",
+    "stars": 1,
+    "updated_at": "2026-10-11T03:56:47Z",
+    "url": "https://github.com/xianteng-zhang/sourcing-agent"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 2,
+    "updated_at": "2026-10-11T03:49:12Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
     "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
     "id": "Jongtae/agentos",
     "language": "Python",
@@ -16,15 +34,6 @@
     "stars": 25,
     "updated_at": "2026-10-11T03:43:27Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 2,
-    "updated_at": "2026-10-11T03:38:48Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -50,7 +59,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-11T03:28:23Z",
+    "updated_at": "2026-10-11T03:58:41Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -77,7 +86,7 @@
     "language": "Kotlin",
     "name": "Ultra-Guru/Android-Guru-Agent",
     "stars": 8,
-    "updated_at": "2026-10-11T03:44:46Z",
+    "updated_at": "2026-10-11T03:55:02Z",
     "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-11T01:09:41Z",
     "url": "https://github.com/IAmNo1Special/mvgeos"
-  },
-  {
-    "description": "Non-custodial Hyperliquid execution + tracking CLI for autonomous LLM agents. Signs EIP-712 actions with an agent wallet",
-    "id": "erickuhn19/deliverator",
-    "language": "Go",
-    "name": "erickuhn19/deliverator",
-    "stars": 5,
-    "updated_at": "2026-10-11T01:05:55Z",
-    "url": "https://github.com/erickuhn19/deliverator"
   }
 ]
