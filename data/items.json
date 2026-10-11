@@ -1,12 +1,75 @@
 [
   {
+    "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
+    "id": "edjafarov/kiagent-core",
+    "language": "TypeScript",
+    "name": "edjafarov/kiagent-core",
+    "stars": 7,
+    "updated_at": "2026-10-11T12:59:09Z",
+    "url": "https://github.com/edjafarov/kiagent-core"
+  },
+  {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 5,
+    "updated_at": "2026-10-11T12:57:57Z",
+    "url": "https://github.com/ljedrz/nachalnik"
+  },
+  {
+    "description": "\u9002\u7528\u4e8e Claude Code \u548c Codex \u7684\u6c42\u804c Skill\uff1a\u67e5\u627e\u5c97\u4f4d\u3001\u5224\u65ad\u662f\u5426\u503c\u5f97\u6295\u9012\u3001\u5236\u4f5c\u7b80\u5386\u4e0e\u7533\u8bf7\u6750\u6599\u3001\u68c0\u9a8c\u7533\u8bf7\u6750\u6599\u5e76\u6a21\u62df\u9762\u8bd5\u3002\u4e0d\u7f16\u9020\u6280\u80fd\u6216\u4e1a\u7ee9\u6570\u5b57\uff0c\u4e0d\u9884\u6d4b\u5f55\u7528\u6982\u7387\uff1b\u68c0\u67e5\u7b80\u5386\u662f\u5426\u4fbf\u4e8e\u62db\u8058\u7ba1\u7406\u7cfb\u7edf\uff08ATS\uff09\u8bfb\u53d6\uff0c\u5e76\u4ece\u62db\u8058\u4eba\u5458\u548c\u7528\u4eba",
+    "id": "addsumtech/job-hunt",
+    "language": "Python",
+    "name": "addsumtech/job-hunt",
+    "stars": 5,
+    "updated_at": "2026-10-11T12:54:56Z",
+    "url": "https://github.com/addsumtech/job-hunt"
+  },
+  {
+    "description": "Harness LLMs with Multi-Agent Programming",
+    "id": "langroid/langroid",
+    "language": "Python",
+    "name": "langroid/langroid",
+    "stars": 4113,
+    "updated_at": "2026-10-11T12:53:44Z",
+    "url": "https://github.com/langroid/langroid"
+  },
+  {
+    "description": "An LLM agent that plays Minecraft \u2014 symbolic world perception, a strictly validated tool surface, and a reactive safety ",
+    "id": "BugraAkdemir/mindshaft-llm",
+    "language": "TypeScript",
+    "name": "BugraAkdemir/mindshaft-llm",
+    "stars": 1,
+    "updated_at": "2026-10-11T12:53:27Z",
+    "url": "https://github.com/BugraAkdemir/mindshaft-llm"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-11T12:58:02Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
     "description": "LLM Agent \u670d\u52a1\uff1aLangChain + FastAPI + Vue3\uff0c\u6df7\u5408\u68c0\u7d22 RAG \u5e26\u5f15\u7528\u6eaf\u6e90\uff0cReAct \u53cc\u67b6\u6784\u5b9e\u6d4b\u62e9\u4f18\uff0898.5% vs 89.7%\uff09\uff0c\u8bed\u4e49\u7f13\u5b58\u96f6\u8bef\u547d\u4e2d\uff0c158 \u6761\u8bc4\u6d4b + CI \u56de\u5f52\u95e8\u7981\uff0cDocker \u516c",
     "id": "SYM529/myAgent",
     "language": "Python",
     "name": "SYM529/myAgent",
     "stars": 0,
-    "updated_at": "2026-10-11T12:42:12Z",
+    "updated_at": "2026-10-11T12:47:22Z",
     "url": "https://github.com/SYM529/myAgent"
+  },
+  {
+    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
+    "id": "zty522/partner",
+    "language": "Python",
+    "name": "zty522/partner",
+    "stars": 5,
+    "updated_at": "2026-10-11T12:45:49Z",
+    "url": "https://github.com/zty522/partner"
   },
   {
     "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
@@ -50,7 +113,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-11T12:40:07Z",
+    "updated_at": "2026-10-11T13:00:07Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -99,31 +162,13 @@
     "url": "https://github.com/Canvixel-Eloweny/ai-bot-groupmate"
   },
   {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-11T12:37:48Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
     "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
     "id": "zhixuli0406/DuDuClaw",
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 49,
-    "updated_at": "2026-10-11T11:48:04Z",
+    "updated_at": "2026-10-11T12:52:08Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "Harness LLMs with Multi-Agent Programming",
-    "id": "langroid/langroid",
-    "language": "Python",
-    "name": "langroid/langroid",
-    "stars": 4113,
-    "updated_at": "2026-10-11T12:25:44Z",
-    "url": "https://github.com/langroid/langroid"
   },
   {
     "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-11T11:03:01Z",
     "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-10-11T10:56:04Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "UEPLANE \u00b7 \u53c2\u8003\u56fe\u9a71\u52a8\u7684 UE \u5e73\u9762\u573a\u666f\u642d\u5efa\u7f16\u6392\u5c42\uff08MCP server\uff09\uff1a\u516b\u9636\u6bb5\u6d41\u7a0b + \u786c\u95f8\u95e8 + \u53ef\u56de\u9000\u53f0\u8d26",
-    "id": "ZHUPO233/UE-Planar-SceneBuilder-MCP",
-    "language": "Python",
-    "name": "ZHUPO233/UE-Planar-SceneBuilder-MCP",
-    "stars": 0,
-    "updated_at": "2026-10-11T10:52:20Z",
-    "url": "https://github.com/ZHUPO233/UE-Planar-SceneBuilder-MCP"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 2,
-    "updated_at": "2026-10-11T10:51:38Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-10-11T10:48:58Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
-    "id": "QQSHI13/fox-agent",
-    "language": "TypeScript",
-    "name": "QQSHI13/fox-agent",
-    "stars": 2,
-    "updated_at": "2026-10-11T10:37:29Z",
-    "url": "https://github.com/QQSHI13/fox-agent"
   }
 ]
