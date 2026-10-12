@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "brutal-45/Nexus-LLM",
     "stars": 0,
-    "updated_at": "2026-10-12T16:29:55Z",
+    "updated_at": "2026-10-12T16:44:59Z",
     "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "Voyager \u00d7 VLML \u00d7 \u732b\u5a18\u4f34\u5b66\uff1a\u628a\u300c\u5b66\u4e60\u8005\u300d\u6362\u6210 agent \u7684\u6700\u5c0f\u53ef\u6267\u884c\u539f\u578b\uff08\u9762\u677f\u5df2\u4e0a\u817e\u8baf\u4e91\uff09",
+    "id": "Zxy876/voyager-vlml-mve",
+    "language": "Python",
+    "name": "Zxy876/voyager-vlml-mve",
+    "stars": 1,
+    "updated_at": "2026-10-12T16:41:16Z",
+    "url": "https://github.com/Zxy876/voyager-vlml-mve"
+  },
+  {
+    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
+    "id": "xanstomper/mochi",
+    "language": "JavaScript",
+    "name": "xanstomper/mochi",
+    "stars": 0,
+    "updated_at": "2026-10-12T16:39:49Z",
+    "url": "https://github.com/xanstomper/mochi"
+  },
+  {
+    "description": "\u9762\u5411\u4e1a\u52a1\u5206\u6790\u573a\u666f\u7684\u6570\u636e\u5206\u6790 Agent\uff1a\u7ed3\u8bba + \u8bc1\u636e\u94fe + \u89e3\u91ca\u5f3a\u5ea6\u7ea6\u675f\uff08DuckDB / FastAPI / Docker\uff0c\u542b\u8bc4\u6d4b\u4e0e\u5931\u8d25\u8bb0\u5f55\uff09",
+    "id": "X-0240/analytics-copilot",
+    "language": "Python",
+    "name": "X-0240/analytics-copilot",
+    "stars": 0,
+    "updated_at": "2026-10-12T16:32:49Z",
+    "url": "https://github.com/X-0240/analytics-copilot"
   },
   {
     "description": "Single-user Hebrew/English personal assistant: Cloudflare Workers + SQLite Durable Object, Groq tool-calling agent where",
@@ -16,24 +43,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T16:27:59Z",
     "url": "https://github.com/tzur669-lab/whatsapp-assistant"
-  },
-  {
-    "description": "Voyager \u00d7 VLML \u00d7 \u732b\u5a18\u4f34\u5b66\uff1a\u628a\u300c\u5b66\u4e60\u8005\u300d\u6362\u6210 agent \u7684\u6700\u5c0f\u53ef\u6267\u884c\u539f\u578b\uff08\u9762\u677f\u5df2\u4e0a\u817e\u8baf\u4e91\uff09",
-    "id": "Zxy876/voyager-vlml-mve",
-    "language": "Python",
-    "name": "Zxy876/voyager-vlml-mve",
-    "stars": 1,
-    "updated_at": "2026-10-12T16:26:37Z",
-    "url": "https://github.com/Zxy876/voyager-vlml-mve"
-  },
-  {
-    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
-    "id": "xanstomper/mochi",
-    "language": "JavaScript",
-    "name": "xanstomper/mochi",
-    "stars": 0,
-    "updated_at": "2026-10-12T16:25:06Z",
-    "url": "https://github.com/xanstomper/mochi"
   },
   {
     "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
@@ -77,7 +86,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-12T16:18:31Z",
+    "updated_at": "2026-10-12T16:41:27Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -153,6 +162,15 @@
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8782,
+    "updated_at": "2026-10-12T15:46:31Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -166,7 +184,7 @@
     "id": "ant-research/AntOmniEvo",
     "language": "Python",
     "name": "ant-research/AntOmniEvo",
-    "stars": 986,
+    "stars": 978,
     "updated_at": "2026-10-12T15:42:23Z",
     "url": "https://github.com/ant-research/AntOmniEvo"
   },
@@ -205,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-10-12T15:18:21Z",
     "url": "https://github.com/Deborahwalkerz661/ComfyUI-FS_Audio_Suite"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8781,
-    "updated_at": "2026-10-12T15:46:31Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-12T14:54:15Z",
     "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-10-12T14:53:00Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
   }
 ]
