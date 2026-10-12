@@ -1,5 +1,50 @@
 [
   {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 5,
+    "updated_at": "2026-10-12T22:56:38Z",
+    "url": "https://github.com/plurnk/plurnk"
+  },
+  {
+    "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
+    "id": "Jongtae/agentos",
+    "language": "Python",
+    "name": "Jongtae/agentos",
+    "stars": 0,
+    "updated_at": "2026-10-12T22:56:02Z",
+    "url": "https://github.com/Jongtae/agentos"
+  },
+  {
+    "description": "Voyager \u00d7 VLML \u00d7 \u732b\u5a18\u4f34\u5b66\uff1a\u628a\u300c\u5b66\u4e60\u8005\u300d\u6362\u6210 agent \u7684\u6700\u5c0f\u53ef\u6267\u884c\u539f\u578b\uff08\u9762\u677f\u5df2\u4e0a\u817e\u8baf\u4e91\uff09",
+    "id": "Zxy876/voyager-vlml-mve",
+    "language": "Python",
+    "name": "Zxy876/voyager-vlml-mve",
+    "stars": 1,
+    "updated_at": "2026-10-12T22:53:46Z",
+    "url": "https://github.com/Zxy876/voyager-vlml-mve"
+  },
+  {
+    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
+    "id": "alexwkleung/reika",
+    "language": "TypeScript",
+    "name": "alexwkleung/reika",
+    "stars": 9,
+    "updated_at": "2026-10-12T22:51:49Z",
+    "url": "https://github.com/alexwkleung/reika"
+  },
+  {
+    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
+    "id": "watchcat/scout",
+    "language": "Rust",
+    "name": "watchcat/scout",
+    "stars": 0,
+    "updated_at": "2026-10-12T22:45:42Z",
+    "url": "https://github.com/watchcat/scout"
+  },
+  {
     "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
     "id": "xanstomper/mochi",
     "language": "JavaScript",
@@ -18,15 +63,6 @@
     "url": "https://github.com/dy2is/kern"
   },
   {
-    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
-    "id": "watchcat/scout",
-    "language": "Rust",
-    "name": "watchcat/scout",
-    "stars": 0,
-    "updated_at": "2026-10-12T22:41:01Z",
-    "url": "https://github.com/watchcat/scout"
-  },
-  {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
     "id": "SuperdeMan/cockpit-agent",
     "language": "Python",
@@ -34,15 +70,6 @@
     "stars": 25,
     "updated_at": "2026-10-12T22:28:28Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "Voyager \u00d7 VLML \u00d7 \u732b\u5a18\u4f34\u5b66\uff1a\u628a\u300c\u5b66\u4e60\u8005\u300d\u6362\u6210 agent \u7684\u6700\u5c0f\u53ef\u6267\u884c\u539f\u578b\uff08\u9762\u677f\u5df2\u4e0a\u817e\u8baf\u4e91\uff09",
-    "id": "Zxy876/voyager-vlml-mve",
-    "language": "Python",
-    "name": "Zxy876/voyager-vlml-mve",
-    "stars": 1,
-    "updated_at": "2026-10-12T22:20:59Z",
-    "url": "https://github.com/Zxy876/voyager-vlml-mve"
   },
   {
     "description": "An agentic OBD-II scanner that never makes anything up. Bring your own model, read every module on the bus, and click an",
@@ -122,7 +149,7 @@
     "language": "Rust",
     "name": "yologdev/yoagent",
     "stars": 350,
-    "updated_at": "2026-10-12T22:40:29Z",
+    "updated_at": "2026-10-12T22:53:48Z",
     "url": "https://github.com/yologdev/yoagent"
   },
   {
@@ -131,7 +158,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-12T21:45:25Z",
+    "updated_at": "2026-10-12T22:59:27Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 12,
-    "updated_at": "2026-10-12T22:43:39Z",
+    "updated_at": "2026-10-12T22:59:57Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -158,7 +185,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-12T22:34:00Z",
+    "updated_at": "2026-10-12T22:57:43Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-12T20:31:48Z",
     "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-10-12T20:30:39Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into",
-    "id": "AskTheWay/dsh-auto-memory",
-    "language": "TypeScript",
-    "name": "AskTheWay/dsh-auto-memory",
-    "stars": 106,
-    "updated_at": "2026-10-12T20:30:25Z",
-    "url": "https://github.com/AskTheWay/dsh-auto-memory"
-  },
-  {
-    "description": "Agentic CLI for the Scrapfly platform: scrape, extract, crawl, and drive a cloud browser over CDP. Built-in LLM agent wi",
-    "id": "scrapfly/scrapfly-cli",
-    "language": "Go",
-    "name": "scrapfly/scrapfly-cli",
-    "stars": 5,
-    "updated_at": "2026-10-12T20:29:53Z",
-    "url": "https://github.com/scrapfly/scrapfly-cli"
   }
 ]
