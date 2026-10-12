@@ -1,12 +1,156 @@
 [
   {
-    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
-    "id": "zty522/partner",
+    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
+    "id": "wuyhong715/rikkahub-agent-pure",
+    "language": "Kotlin",
+    "name": "wuyhong715/rikkahub-agent-pure",
+    "stars": 36,
+    "updated_at": "2026-10-12T04:44:57Z",
+    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
+  },
+  {
+    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
+    "id": "Ronit0p/AutoGod",
+    "language": "Java",
+    "name": "Ronit0p/AutoGod",
+    "stars": 0,
+    "updated_at": "2026-10-12T04:44:57Z",
+    "url": "https://github.com/Ronit0p/AutoGod"
+  },
+  {
+    "description": "An autonomous on-call agent that investigates and remediates incidents on the Incident Platform through its MCP tool sur",
+    "id": "kudratsingh/incident-commander",
     "language": "Python",
-    "name": "zty522/partner",
-    "stars": 5,
-    "updated_at": "2026-10-12T04:29:30Z",
-    "url": "https://github.com/zty522/partner"
+    "name": "kudratsingh/incident-commander",
+    "stars": 0,
+    "updated_at": "2026-10-12T04:44:56Z",
+    "url": "https://github.com/kudratsingh/incident-commander"
+  },
+  {
+    "description": "\u9762\u5411\u4e1a\u52a1\u5206\u6790\u573a\u666f\u7684\u6570\u636e\u5206\u6790 Agent\uff1a\u7ed3\u8bba + \u8bc1\u636e\u94fe + \u89e3\u91ca\u5f3a\u5ea6\u7ea6\u675f\uff08DuckDB / FastAPI / Docker\uff0c\u542b\u8bc4\u6d4b\u4e0e\u5931\u8d25\u8bb0\u5f55\uff09",
+    "id": "X-0240/analytics-copilot",
+    "language": "Python",
+    "name": "X-0240/analytics-copilot",
+    "stars": 0,
+    "updated_at": "2026-10-12T04:44:24Z",
+    "url": "https://github.com/X-0240/analytics-copilot"
+  },
+  {
+    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
+    "id": "lukky262/ARE",
+    "language": "\u2014",
+    "name": "lukky262/ARE",
+    "stars": 1,
+    "updated_at": "2026-10-12T04:43:57Z",
+    "url": "https://github.com/lukky262/ARE"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 23,
+    "updated_at": "2026-10-12T04:43:53Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "",
+    "id": "hichamnes-prog/exforum-auto-poster",
+    "language": "Python",
+    "name": "hichamnes-prog/exforum-auto-poster",
+    "stars": 1,
+    "updated_at": "2026-10-12T04:42:45Z",
+    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
+  },
+  {
+    "description": "A small Python harness that keeps an LLM coding agent on track: durable memory, a code graph, a live todo plan, and loop",
+    "id": "dy2is/kern",
+    "language": "Python",
+    "name": "dy2is/kern",
+    "stars": 2,
+    "updated_at": "2026-10-12T04:42:29Z",
+    "url": "https://github.com/dy2is/kern"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 25,
+    "updated_at": "2026-10-12T04:41:59Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
+    "id": "Jongtae/agentos",
+    "language": "Python",
+    "name": "Jongtae/agentos",
+    "stars": 0,
+    "updated_at": "2026-10-12T04:41:29Z",
+    "url": "https://github.com/Jongtae/agentos"
+  },
+  {
+    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
+    "id": "IAmNo1Special/mvgeos",
+    "language": "Python",
+    "name": "IAmNo1Special/mvgeos",
+    "stars": 1,
+    "updated_at": "2026-10-12T04:41:20Z",
+    "url": "https://github.com/IAmNo1Special/mvgeos"
+  },
+  {
+    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
+    "id": "muhzars/Agent.cpp",
+    "language": "C++",
+    "name": "muhzars/Agent.cpp",
+    "stars": 1,
+    "updated_at": "2026-10-12T04:40:07Z",
+    "url": "https://github.com/muhzars/Agent.cpp"
+  },
+  {
+    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
+    "id": "QQSHI13/fox-agent",
+    "language": "TypeScript",
+    "name": "QQSHI13/fox-agent",
+    "stars": 2,
+    "updated_at": "2026-10-12T04:42:30Z",
+    "url": "https://github.com/QQSHI13/fox-agent"
+  },
+  {
+    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
+    "id": "faheela-786/ComfyUI-qwenmultiangle",
+    "language": "\u2014",
+    "name": "faheela-786/ComfyUI-qwenmultiangle",
+    "stars": 2,
+    "updated_at": "2026-10-12T04:37:44Z",
+    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
+  },
+  {
+    "description": "Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics.",
+    "id": "BiBoyang/ForgeLoop",
+    "language": "Swift",
+    "name": "BiBoyang/ForgeLoop",
+    "stars": 0,
+    "updated_at": "2026-10-12T04:36:38Z",
+    "url": "https://github.com/BiBoyang/ForgeLoop"
+  },
+  {
+    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
+    "id": "amineeng/scraping-browser",
+    "language": "\u2014",
+    "name": "amineeng/scraping-browser",
+    "stars": 1,
+    "updated_at": "2026-10-12T04:36:21Z",
+    "url": "https://github.com/amineeng/scraping-browser"
+  },
+  {
+    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
+    "id": "Saran1536/ComfyUI-LoaderUtils",
+    "language": "Python",
+    "name": "Saran1536/ComfyUI-LoaderUtils",
+    "stars": 1,
+    "updated_at": "2026-10-12T04:34:02Z",
+    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
   },
   {
     "description": "Voyager \u00d7 VLML \u00d7 \u732b\u5a18\u4f34\u5b66\uff1a\u628a\u300c\u5b66\u4e60\u8005\u300d\u6362\u6210 agent \u7684\u6700\u5c0f\u53ef\u6267\u884c\u539f\u578b\uff08\u9762\u677f\u5df2\u4e0a\u817e\u8baf\u4e91\uff09",
@@ -14,8 +158,35 @@
     "language": "Python",
     "name": "Zxy876/voyager-vlml-mve",
     "stars": 1,
-    "updated_at": "2026-10-12T04:29:01Z",
+    "updated_at": "2026-10-12T04:33:00Z",
     "url": "https://github.com/Zxy876/voyager-vlml-mve"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-10-12T04:32:52Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 1142,
+    "updated_at": "2026-10-12T04:32:22Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
+    "id": "zty522/partner",
+    "language": "Python",
+    "name": "zty522/partner",
+    "stars": 5,
+    "updated_at": "2026-10-12T04:29:30Z",
+    "url": "https://github.com/zty522/partner"
   },
   {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
@@ -95,17 +266,8 @@
     "language": "Python",
     "name": "codelformat/Aftersales-agent",
     "stars": 0,
-    "updated_at": "2026-10-12T04:21:12Z",
+    "updated_at": "2026-10-12T04:39:18Z",
     "url": "https://github.com/codelformat/Aftersales-agent"
-  },
-  {
-    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
-    "id": "QQSHI13/fox-agent",
-    "language": "TypeScript",
-    "name": "QQSHI13/fox-agent",
-    "stars": 2,
-    "updated_at": "2026-10-12T04:20:00Z",
-    "url": "https://github.com/QQSHI13/fox-agent"
   },
   {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
@@ -117,21 +279,12 @@
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
-    "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
-    "id": "Jongtae/agentos",
-    "language": "Python",
-    "name": "Jongtae/agentos",
-    "stars": 0,
-    "updated_at": "2026-10-12T04:30:07Z",
-    "url": "https://github.com/Jongtae/agentos"
-  },
-  {
     "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 12,
-    "updated_at": "2026-10-12T04:11:49Z",
+    "updated_at": "2026-10-12T04:41:32Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -144,24 +297,6 @@
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
-    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
-    "id": "IAmNo1Special/mvgeos",
-    "language": "Python",
-    "name": "IAmNo1Special/mvgeos",
-    "stars": 1,
-    "updated_at": "2026-10-12T04:07:25Z",
-    "url": "https://github.com/IAmNo1Special/mvgeos"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 25,
-    "updated_at": "2026-10-12T04:06:36Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
     "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
     "id": "HumanStudy-Hub/HumanStudy-Bench",
     "language": "Python",
@@ -171,15 +306,6 @@
     "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
   },
   {
-    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
-    "id": "wuyhong715/rikkahub-agent-pure",
-    "language": "Kotlin",
-    "name": "wuyhong715/rikkahub-agent-pure",
-    "stars": 36,
-    "updated_at": "2026-10-12T03:58:51Z",
-    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
-  },
-  {
     "description": "LLM Agent \u670d\u52a1\uff1aLangChain + FastAPI + Vue3\uff0c\u6df7\u5408\u68c0\u7d22 RAG \u5e26\u5f15\u7528\u6eaf\u6e90\uff0cReAct \u53cc\u67b6\u6784\u5b9e\u6d4b\u62e9\u4f18\uff0898.5% vs 89.7%\uff09\uff0c\u8bed\u4e49\u7f13\u5b58\u96f6\u8bef\u547d\u4e2d\uff0c158 \u6761\u8bc4\u6d4b + CI \u56de\u5f52\u95e8\u7981\uff0cDocker \u516c",
     "id": "SYM529/myAgent",
     "language": "Python",
@@ -187,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T03:58:18Z",
     "url": "https://github.com/SYM529/myAgent"
-  },
-  {
-    "description": "Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics.",
-    "id": "BiBoyang/ForgeLoop",
-    "language": "Swift",
-    "name": "BiBoyang/ForgeLoop",
-    "stars": 0,
-    "updated_at": "2026-10-12T03:56:09Z",
-    "url": "https://github.com/BiBoyang/ForgeLoop"
   },
   {
     "description": "\u57fa\u4e8e LangGraph \u56fe\u7f16\u6392 + MCP \u5de5\u5177\u94fe\u7684 Linux / \u5d4c\u5165\u5f0f\u7cfb\u7edf\u8bca\u65ad Agent\uff1a\u7a0b\u5e8f\u7b97\u786e\u5b9a\u6027\u3001\u6a21\u578b\u505a\u5f52\u56e0\u3001\u526f\u4f5c\u7528\u5fc5\u987b\u4eba\u6279\u51c6\uff5c\u542b\u4e09\u5c42\u5224\u636e\u8bc4\u6d4b\u3001\u9884\u7b97\u5239\u8f66\u4e0e\u5b89\u5168\u5ba1\u8ba1\u95ed\u73af",
@@ -212,7 +329,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 2,
-    "updated_at": "2026-10-12T04:26:40Z",
+    "updated_at": "2026-10-12T04:44:56Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -223,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T03:49:58Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 1142,
-    "updated_at": "2026-10-12T04:24:13Z",
-    "url": "https://github.com/ongridio/ongrid"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -277,6 +385,15 @@
     "stars": 0,
     "updated_at": "2026-10-12T03:19:00Z",
     "url": "https://github.com/qyiun666/meowire"
+  },
+  {
+    "description": "A decision gate for DSH \u2014 ask five questions before every shell command, then allow, ask, or deny.",
+    "id": "SeasonTemple/dsh-decision-gate",
+    "language": "Python",
+    "name": "SeasonTemple/dsh-decision-gate",
+    "stars": 1,
+    "updated_at": "2026-10-12T03:15:53Z",
+    "url": "https://github.com/SeasonTemple/dsh-decision-gate"
   },
   {
     "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
@@ -331,122 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-12T03:06:13Z",
     "url": "https://github.com/Blaz742/web-pentest-lab"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 1,
-    "updated_at": "2026-10-12T03:05:57Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 290,
-    "updated_at": "2026-10-12T03:05:48Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
-    "id": "Indrasclerotinia71/local-ai-research-assistant",
-    "language": "Python",
-    "name": "Indrasclerotinia71/local-ai-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-12T03:04:54Z",
-    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
-  },
-  {
-    "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
-    "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "language": "Python",
-    "name": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "stars": 3,
-    "updated_at": "2026-10-12T03:03:44Z",
-    "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
-  },
-  {
-    "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
-    "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "language": "\u2014",
-    "name": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "stars": 1,
-    "updated_at": "2026-10-12T03:03:15Z",
-    "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
-    "id": "HELLOCODINGTR/AgentForge",
-    "language": "\u2014",
-    "name": "HELLOCODINGTR/AgentForge",
-    "stars": 1,
-    "updated_at": "2026-10-12T02:59:47Z",
-    "url": "https://github.com/HELLOCODINGTR/AgentForge"
-  },
-  {
-    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
-    "id": "strobilevitellus470/argus-ai",
-    "language": "Python",
-    "name": "strobilevitellus470/argus-ai",
-    "stars": 1,
-    "updated_at": "2026-10-12T02:59:07Z",
-    "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-12T04:25:41Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-10-12T02:56:47Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-10-12T02:56:25Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-10-12T02:54:55Z",
-    "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
-    "id": "agentscope-ai/agentscope-go",
-    "language": "Go",
-    "name": "agentscope-ai/agentscope-go",
-    "stars": 55,
-    "updated_at": "2026-10-12T02:54:51Z",
-    "url": "https://github.com/agentscope-ai/agentscope-go"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-10-12T02:54:24Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
   }
 ]
