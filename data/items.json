@@ -1,5 +1,59 @@
 [
   {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-12T01:54:23Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Cron scheduling for the DeepSeek Harness \u2014 bounded tasks with calendar & interval rules, delivered to live agents",
+    "id": "fan56/dsh-cron",
+    "language": "TypeScript",
+    "name": "fan56/dsh-cron",
+    "stars": 0,
+    "updated_at": "2026-10-12T01:52:20Z",
+    "url": "https://github.com/fan56/dsh-cron"
+  },
+  {
+    "description": "GateMem: a benchmark and evaluation toolkit for memory governance in multi-principal shared-memory LLM agents.",
+    "id": "rzhub/GateMem",
+    "language": "Python",
+    "name": "rzhub/GateMem",
+    "stars": 139,
+    "updated_at": "2026-10-12T01:50:17Z",
+    "url": "https://github.com/rzhub/GateMem"
+  },
+  {
+    "description": "\u8f7b\u91cf\u7684agent\u6846\u67b6",
+    "id": "qiuzixu/agent-core",
+    "language": "Python",
+    "name": "qiuzixu/agent-core",
+    "stars": 1,
+    "updated_at": "2026-10-12T01:50:43Z",
+    "url": "https://github.com/qiuzixu/agent-core"
+  },
+  {
+    "description": "Controllable and Transparent LLM Application Framework",
+    "id": "gumblex/aitoolman",
+    "language": "Python",
+    "name": "gumblex/aitoolman",
+    "stars": 4,
+    "updated_at": "2026-10-12T01:46:26Z",
+    "url": "https://github.com/gumblex/aitoolman"
+  },
+  {
+    "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 288,
+    "updated_at": "2026-10-12T01:45:49Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
     "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
@@ -7,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T01:44:07Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-12T01:42:55Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "AI coding agent for terminal, desktop and browser. Visible execution records, LAN mesh collaboration across machines, ph",
@@ -32,7 +77,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 12,
-    "updated_at": "2026-10-12T01:41:47Z",
+    "updated_at": "2026-10-12T01:59:53Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -59,7 +104,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-12T01:37:16Z",
+    "updated_at": "2026-10-12T02:00:01Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -68,7 +113,7 @@
     "language": "Dart",
     "name": "justacalico/devinorium",
     "stars": 0,
-    "updated_at": "2026-10-12T01:29:50Z",
+    "updated_at": "2026-10-12T01:55:32Z",
     "url": "https://github.com/justacalico/devinorium"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-11T23:51:45Z",
     "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
-    "id": "muhzars/Agent.cpp",
-    "language": "C++",
-    "name": "muhzars/Agent.cpp",
-    "stars": 1,
-    "updated_at": "2026-10-11T23:49:16Z",
-    "url": "https://github.com/muhzars/Agent.cpp"
-  },
-  {
-    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
-    "id": "Torvian-eu/chatbot",
-    "language": "Kotlin",
-    "name": "Torvian-eu/chatbot",
-    "stars": 4,
-    "updated_at": "2026-10-11T23:48:38Z",
-    "url": "https://github.com/Torvian-eu/chatbot"
-  },
-  {
-    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
-    "id": "faheela-786/ComfyUI-qwenmultiangle",
-    "language": "\u2014",
-    "name": "faheela-786/ComfyUI-qwenmultiangle",
-    "stars": 2,
-    "updated_at": "2026-10-11T23:47:00Z",
-    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
-  },
-  {
-    "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
-    "id": "anchor-inference/daedalus",
-    "language": "Python",
-    "name": "anchor-inference/daedalus",
-    "stars": 2,
-    "updated_at": "2026-10-12T00:10:44Z",
-    "url": "https://github.com/anchor-inference/daedalus"
-  },
-  {
-    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
-    "id": "peder1981/AdvPP",
-    "language": "Go",
-    "name": "peder1981/AdvPP",
-    "stars": 2,
-    "updated_at": "2026-10-11T23:54:35Z",
-    "url": "https://github.com/peder1981/AdvPP"
   }
 ]
