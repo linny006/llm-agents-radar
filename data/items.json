@@ -1,11 +1,38 @@
 [
   {
+    "description": "\u9ea6\u9ea6\u56e2\u9910\u7edf\u7b79\u5b98 \u00b7 \u57fa\u4e8e\u9ea6\u5f53\u52b3 MCP \u7684\u4f01\u4e1a\u56e2\u9910\u7ea6\u675f\u6c42\u89e3\u4e0e\u6bd4\u4ef7\u5f15\u64ce(\u9ea6\u5f53\u52b3\u7a0b\u5e8f\u5458\u8282\u521b\u610f\u5f00\u53d1\u5927\u8d5b\u53c2\u8d5b\u4f5c\u54c1)",
+    "id": "yschdxm/mcd-group-catering",
+    "language": "Python",
+    "name": "yschdxm/mcd-group-catering",
+    "stars": 0,
+    "updated_at": "2026-10-12T10:27:03Z",
+    "url": "https://github.com/yschdxm/mcd-group-catering"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-12T10:22:02Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
+    "id": "roxm337/osint-agent",
+    "language": "Python",
+    "name": "roxm337/osint-agent",
+    "stars": 0,
+    "updated_at": "2026-10-12T10:19:00Z",
+    "url": "https://github.com/roxm337/osint-agent"
+  },
+  {
     "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
     "id": "zhixuli0406/DuDuClaw",
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 49,
-    "updated_at": "2026-10-12T10:14:40Z",
+    "updated_at": "2026-10-12T10:18:22Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
@@ -13,7 +40,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 33114,
+    "stars": 33115,
     "updated_at": "2026-10-12T10:13:23Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -52,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-10-12T10:09:21Z",
     "url": "https://github.com/Deborahwalkerz661/ComfyUI-FS_Audio_Suite"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-12T10:08:28Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de",
@@ -158,7 +176,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-10-12T10:03:18Z",
+    "updated_at": "2026-10-12T10:19:52Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -169,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T10:01:13Z",
     "url": "https://github.com/pruthviraj00007/VibeHarness"
-  },
-  {
-    "description": "\u9ea6\u9ea6\u56e2\u9910\u7edf\u7b79\u5b98 \u00b7 \u57fa\u4e8e\u9ea6\u5f53\u52b3 MCP \u7684\u4f01\u4e1a\u56e2\u9910\u7ea6\u675f\u6c42\u89e3\u4e0e\u6bd4\u4ef7\u5f15\u64ce(\u9ea6\u5f53\u52b3\u7a0b\u5e8f\u5458\u8282\u521b\u610f\u5f00\u53d1\u5927\u8d5b\u53c2\u8d5b\u4f5c\u54c1)",
-    "id": "yschdxm/mcd-group-catering",
-    "language": "Python",
-    "name": "yschdxm/mcd-group-catering",
-    "stars": 0,
-    "updated_at": "2026-10-12T10:01:02Z",
-    "url": "https://github.com/yschdxm/mcd-group-catering"
   },
   {
     "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
@@ -347,7 +356,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5828,
-    "updated_at": "2026-10-12T10:07:19Z",
+    "updated_at": "2026-10-12T10:21:04Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-12T09:30:10Z",
     "url": "https://github.com/cheeezis/job_finder"
-  },
-  {
-    "description": "Local-first campus email assistant with source isolation, privacy gates and small-model agent foundations. M2 preview.",
-    "id": "jianingliu25/campus-flow",
-    "language": "Python",
-    "name": "jianingliu25/campus-flow",
-    "stars": 0,
-    "updated_at": "2026-10-12T09:27:25Z",
-    "url": "https://github.com/jianingliu25/campus-flow"
   }
 ]
