@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-12 22:30 UTC
+> ⏰ Last updated: 2026-10-12 22:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -44,8 +44,8 @@ expired items removed — so you can rely on what you see being current.
 |---|------|---|------|---------|-------------|
 | 1 | [xanstomper/mochi](https://github.com/xanstomper/mochi) | 0 | JavaScript | 2026-10-12 | Mochi — a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP  |
 | 2 | [dy2is/kern](https://github.com/dy2is/kern) | 2 | Python | 2026-10-12 | A small Python harness that keeps an LLM coding agent on track: durable memory, a code graph, a live todo plan, and loop |
-| 3 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 25 | Python | 2026-10-12 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、HMI和Android双端；LLM 只负责理解与规划，VAL 负责确定性安全执行 |
-| 4 | [watchcat/scout](https://github.com/watchcat/scout) | 0 | Rust | 2026-10-12 | A Telegram shopping researcher that verifies prices and links instead of inventing them |
+| 3 | [watchcat/scout](https://github.com/watchcat/scout) | 0 | Rust | 2026-10-12 | A Telegram shopping researcher that verifies prices and links instead of inventing them |
+| 4 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 25 | Python | 2026-10-12 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、HMI和Android双端；LLM 只负责理解与规划，VAL 负责确定性安全执行 |
 | 5 | [Zxy876/voyager-vlml-mve](https://github.com/Zxy876/voyager-vlml-mve) | 1 | Python | 2026-10-12 | Voyager × VLML × 猫娘伴学：把「学习者」换成 agent 的最小可执行原型（面板已上腾讯云） |
 | 6 | [christianOrona/wtfault-scanner](https://github.com/christianOrona/wtfault-scanner) | 2 | Rust | 2026-10-12 | An agentic OBD-II scanner that never makes anything up. Bring your own model, read every module on the bus, and click an |
 | 7 | [xieguigang/sciBASIC](https://github.com/xieguigang/sciBASIC) | 79 | Visual Basic .NET | 2026-10-12 | A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler |
