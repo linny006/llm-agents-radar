@@ -1,5 +1,86 @@
 [
   {
+    "description": "Single-user Hebrew/English personal assistant: Cloudflare Workers + SQLite Durable Object, Groq tool-calling agent where",
+    "id": "tzur669-lab/whatsapp-assistant",
+    "language": "TypeScript",
+    "name": "tzur669-lab/whatsapp-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-12T11:59:26Z",
+    "url": "https://github.com/tzur669-lab/whatsapp-assistant"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "TypeScript",
+    "name": "dsswift/ion",
+    "stars": 4,
+    "updated_at": "2026-10-12T11:54:20Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
+    "id": "Jongtae/agentos",
+    "language": "Python",
+    "name": "Jongtae/agentos",
+    "stars": 0,
+    "updated_at": "2026-10-12T11:55:33Z",
+    "url": "https://github.com/Jongtae/agentos"
+  },
+  {
+    "description": "A small Python harness that keeps an LLM coding agent on track: durable memory, a code graph, a live todo plan, and loop",
+    "id": "dy2is/kern",
+    "language": "Python",
+    "name": "dy2is/kern",
+    "stars": 2,
+    "updated_at": "2026-10-12T11:54:04Z",
+    "url": "https://github.com/dy2is/kern"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-12T11:53:20Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "An \"LLM wiki\" upgraded to a real database \u2014 typed entities, graph relations, HTTP API, and a built-in natural-language a",
+    "id": "dimknaf/braindb",
+    "language": "Python",
+    "name": "dimknaf/braindb",
+    "stars": 111,
+    "updated_at": "2026-10-12T11:51:38Z",
+    "url": "https://github.com/dimknaf/braindb"
+  },
+  {
+    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 49,
+    "updated_at": "2026-10-12T11:49:24Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "RETECO: A SemEval-2027 Shared Task on Reasoning-Oriented Retrieval",
+    "id": "DataScienceUIBK/RETECO",
+    "language": "Python",
+    "name": "DataScienceUIBK/RETECO",
+    "stars": 5,
+    "updated_at": "2026-10-12T11:48:08Z",
+    "url": "https://github.com/DataScienceUIBK/RETECO"
+  },
+  {
+    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
+    "id": "QQSHI13/fox-agent",
+    "language": "TypeScript",
+    "name": "QQSHI13/fox-agent",
+    "stars": 2,
+    "updated_at": "2026-10-12T11:47:07Z",
+    "url": "https://github.com/QQSHI13/fox-agent"
+  },
+  {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
     "id": "genaforvena/mishe-tauftauf",
     "language": "Python",
@@ -13,7 +94,7 @@
     "id": "helixml/helix",
     "language": "Go",
     "name": "helixml/helix",
-    "stars": 818,
+    "stars": 819,
     "updated_at": "2026-10-12T11:40:33Z",
     "url": "https://github.com/helixml/helix"
   },
@@ -36,24 +117,6 @@
     "url": "https://github.com/memoways/ava-proto1"
   },
   {
-    "description": "A small Python harness that keeps an LLM coding agent on track: durable memory, a code graph, a live todo plan, and loop",
-    "id": "dy2is/kern",
-    "language": "Python",
-    "name": "dy2is/kern",
-    "stars": 2,
-    "updated_at": "2026-10-12T11:39:07Z",
-    "url": "https://github.com/dy2is/kern"
-  },
-  {
-    "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
-    "id": "Jongtae/agentos",
-    "language": "Python",
-    "name": "Jongtae/agentos",
-    "stars": 0,
-    "updated_at": "2026-10-12T11:34:59Z",
-    "url": "https://github.com/Jongtae/agentos"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -70,15 +133,6 @@
     "stars": 21,
     "updated_at": "2026-10-12T11:31:36Z",
     "url": "https://github.com/liaosiliangCodeLife/harness-mate-plat"
-  },
-  {
-    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
-    "id": "QQSHI13/fox-agent",
-    "language": "TypeScript",
-    "name": "QQSHI13/fox-agent",
-    "stars": 2,
-    "updated_at": "2026-10-12T11:26:38Z",
-    "url": "https://github.com/QQSHI13/fox-agent"
   },
   {
     "description": "From Classical ML & Deep Learning to Modern AI & LLMs",
@@ -126,15 +180,6 @@
     "url": "https://github.com/jianingliu25/campus-flow"
   },
   {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "TypeScript",
-    "name": "dsswift/ion",
-    "stars": 4,
-    "updated_at": "2026-10-12T11:10:03Z",
-    "url": "https://github.com/dsswift/ion"
-  },
-  {
     "description": "LLM-powered TeamSpeak bot | LLM\u9a71\u52a8\u7684TeamSpeak\u673a\u5668\u4eba",
     "id": "Dr1mH4X/TeamSpeakClaw",
     "language": "Rust",
@@ -142,24 +187,6 @@
     "stars": 6,
     "updated_at": "2026-10-12T11:11:09Z",
     "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
-  },
-  {
-    "description": "Single-user Hebrew/English personal assistant: Cloudflare Workers + SQLite Durable Object, Groq tool-calling agent where",
-    "id": "tzur669-lab/whatsapp-assistant",
-    "language": "TypeScript",
-    "name": "tzur669-lab/whatsapp-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-12T11:01:06Z",
-    "url": "https://github.com/tzur669-lab/whatsapp-assistant"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-12T10:52:24Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "\u628a DeepSeek Harness \u6253\u5305\u6210\u72ec\u7acb Android \u5e94\u7528\uff1a\u81ea\u5e26 Node \u8fd0\u884c\u65f6\uff0c\u88c5\u4e2a APK \u5c31\u80fd\u7528\u3002\u4e0d\u9700\u8981 Termux\u3001\u4e0d\u9700\u8981 proot\u3001\u4e0d\u9700\u8981 root\u3001\u4e0d\u9700\u8981\u7535\u8111\u3002\u5185\u542b\u5b8c\u6574\u7684 Android \u5e73\u53f0\u9002\u914d\u8e29\u5751\u8bb0\u5f55\uff08se",
@@ -176,7 +203,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 37,
-    "updated_at": "2026-10-12T10:44:30Z",
+    "updated_at": "2026-10-12T11:56:06Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -225,20 +252,11 @@
     "url": "https://github.com/roxm337/osint-agent"
   },
   {
-    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 49,
-    "updated_at": "2026-10-12T10:18:22Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 33117,
+    "stars": 33118,
     "updated_at": "2026-10-12T10:13:23Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-12T09:52:13Z",
     "url": "https://github.com/chadwickhyperboloidal943/knowl"
-  },
-  {
-    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
-    "id": "Laurenfeminine36/google-jules-skill",
-    "language": "Python",
-    "name": "Laurenfeminine36/google-jules-skill",
-    "stars": 1,
-    "updated_at": "2026-10-12T09:51:58Z",
-    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-10-12T09:51:48Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
   }
 ]
