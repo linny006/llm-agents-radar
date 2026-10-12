@@ -1,12 +1,66 @@
 [
   {
-    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
-    "id": "memoways/ava-proto1",
-    "language": "TypeScript",
-    "name": "memoways/ava-proto1",
+    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
+    "id": "xanstomper/mochi",
+    "language": "JavaScript",
+    "name": "xanstomper/mochi",
     "stars": 0,
-    "updated_at": "2026-10-12T18:14:13Z",
-    "url": "https://github.com/memoways/ava-proto1"
+    "updated_at": "2026-10-12T18:29:34Z",
+    "url": "https://github.com/xanstomper/mochi"
+  },
+  {
+    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
+    "id": "zty522/partner",
+    "language": "Python",
+    "name": "zty522/partner",
+    "stars": 5,
+    "updated_at": "2026-10-12T18:28:57Z",
+    "url": "https://github.com/zty522/partner"
+  },
+  {
+    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
+    "id": "xieguigang/sciBASIC",
+    "language": "Visual Basic .NET",
+    "name": "xieguigang/sciBASIC",
+    "stars": 79,
+    "updated_at": "2026-10-12T18:28:55Z",
+    "url": "https://github.com/xieguigang/sciBASIC"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8784,
+    "updated_at": "2026-10-12T18:28:39Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
+    "id": "hasting323/AutoGLM-For-Android",
+    "language": "Kotlin",
+    "name": "hasting323/AutoGLM-For-Android",
+    "stars": 13,
+    "updated_at": "2026-10-12T18:28:35Z",
+    "url": "https://github.com/hasting323/AutoGLM-For-Android"
+  },
+  {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 1,
+    "updated_at": "2026-10-12T18:26:54Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
+    "description": "Voyager \u00d7 VLML \u00d7 \u732b\u5a18\u4f34\u5b66\uff1a\u628a\u300c\u5b66\u4e60\u8005\u300d\u6362\u6210 agent \u7684\u6700\u5c0f\u53ef\u6267\u884c\u539f\u578b\uff08\u9762\u677f\u5df2\u4e0a\u817e\u8baf\u4e91\uff09",
+    "id": "Zxy876/voyager-vlml-mve",
+    "language": "Python",
+    "name": "Zxy876/voyager-vlml-mve",
+    "stars": 1,
+    "updated_at": "2026-10-12T18:26:10Z",
+    "url": "https://github.com/Zxy876/voyager-vlml-mve"
   },
   {
     "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
@@ -14,17 +68,62 @@
     "language": "Python",
     "name": "brutal-45/Nexus-LLM",
     "stars": 0,
-    "updated_at": "2026-10-12T18:10:23Z",
+    "updated_at": "2026-10-12T18:25:27Z",
     "url": "https://github.com/brutal-45/Nexus-LLM"
   },
   {
-    "description": "Local-first campus email assistant with source isolation, privacy gates and small-model agent foundations. M2 preview.",
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-10-12T18:25:09Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "Local-first campus email assistant: read-only connectors, verified task agent, private calendar and offline evaluation. ",
     "id": "jianingliu25/campus-flow",
     "language": "Python",
     "name": "jianingliu25/campus-flow",
     "stars": 0,
-    "updated_at": "2026-10-12T18:09:02Z",
+    "updated_at": "2026-10-12T18:23:18Z",
     "url": "https://github.com/jianingliu25/campus-flow"
+  },
+  {
+    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
+    "id": "memoways/ava-proto1",
+    "language": "TypeScript",
+    "name": "memoways/ava-proto1",
+    "stars": 0,
+    "updated_at": "2026-10-12T18:22:18Z",
+    "url": "https://github.com/memoways/ava-proto1"
+  },
+  {
+    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
+    "id": "alexwkleung/reika",
+    "language": "TypeScript",
+    "name": "alexwkleung/reika",
+    "stars": 9,
+    "updated_at": "2026-10-12T18:19:14Z",
+    "url": "https://github.com/alexwkleung/reika"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-12T18:18:15Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Application Security orchestration platform",
+    "id": "grauwolf32/contractor",
+    "language": "Go",
+    "name": "grauwolf32/contractor",
+    "stars": 2,
+    "updated_at": "2026-10-12T18:16:30Z",
+    "url": "https://github.com/grauwolf32/contractor"
   },
   {
     "description": "A small Python harness that keeps an LLM coding agent on track: durable memory, a code graph, a live todo plan, and loop",
@@ -72,15 +171,6 @@
     "url": "https://github.com/langroid/langroid"
   },
   {
-    "description": "Voyager \u00d7 VLML \u00d7 \u732b\u5a18\u4f34\u5b66\uff1a\u628a\u300c\u5b66\u4e60\u8005\u300d\u6362\u6210 agent \u7684\u6700\u5c0f\u53ef\u6267\u884c\u539f\u578b\uff08\u9762\u677f\u5df2\u4e0a\u817e\u8baf\u4e91\uff09",
-    "id": "Zxy876/voyager-vlml-mve",
-    "language": "Python",
-    "name": "Zxy876/voyager-vlml-mve",
-    "stars": 1,
-    "updated_at": "2026-10-12T17:51:24Z",
-    "url": "https://github.com/Zxy876/voyager-vlml-mve"
-  },
-  {
     "description": "DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy.",
     "id": "tara-vision/taracode",
     "language": "Go",
@@ -88,24 +178,6 @@
     "stars": 51,
     "updated_at": "2026-10-12T17:57:02Z",
     "url": "https://github.com/tara-vision/taracode"
-  },
-  {
-    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
-    "id": "xanstomper/mochi",
-    "language": "JavaScript",
-    "name": "xanstomper/mochi",
-    "stars": 0,
-    "updated_at": "2026-10-12T18:03:25Z",
-    "url": "https://github.com/xanstomper/mochi"
-  },
-  {
-    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
-    "id": "zty522/partner",
-    "language": "Python",
-    "name": "zty522/partner",
-    "stars": 5,
-    "updated_at": "2026-10-12T17:34:23Z",
-    "url": "https://github.com/zty522/partner"
   },
   {
     "description": "SRE Agent - CNCF Sandbox Project",
@@ -153,15 +225,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8783,
-    "updated_at": "2026-10-12T17:20:16Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "Free MIT AI coding agent \u2014 no API key needed. Built-in free model, or bring Claude, GPT, Gemini, DeepSeek, Ollama +50 mo",
     "id": "dragonked2/alphacode",
     "language": "Rust",
@@ -171,21 +234,12 @@
     "url": "https://github.com/dragonked2/alphacode"
   },
   {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-12T17:10:06Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-12T18:01:10Z",
+    "updated_at": "2026-10-12T18:29:53Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -257,7 +311,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-12T18:05:05Z",
+    "updated_at": "2026-10-12T18:22:37Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-12T15:17:27Z",
     "url": "https://github.com/xhqing/DigiVendAgent"
-  },
-  {
-    "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
-    "id": "Aureliedumbfounding630/agent-governance-toolkit",
-    "language": "\u2014",
-    "name": "Aureliedumbfounding630/agent-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-10-12T15:13:11Z",
-    "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
-  },
-  {
-    "description": "Automate Elytra flight, navigation, and landing for Meteor Client with intelligent pathfinding and rocket management.",
-    "id": "222394/SkyPilot",
-    "language": "Java",
-    "name": "222394/SkyPilot",
-    "stars": 0,
-    "updated_at": "2026-10-12T15:13:07Z",
-    "url": "https://github.com/222394/SkyPilot"
-  },
-  {
-    "description": "Build open source deep research agents using multiple models, search tools, and MCP servers.",
-    "id": "randomvariablewhitepelican129/open_deep_research",
-    "language": "Python",
-    "name": "randomvariablewhitepelican129/open_deep_research",
-    "stars": 0,
-    "updated_at": "2026-10-12T15:12:27Z",
-    "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
-  },
-  {
-    "description": "Automate file management and coding tasks in your local directory using small language models.",
-    "id": "pruthviraj00007/VibeHarness",
-    "language": "Python",
-    "name": "pruthviraj00007/VibeHarness",
-    "stars": 0,
-    "updated_at": "2026-10-12T15:09:43Z",
-    "url": "https://github.com/pruthviraj00007/VibeHarness"
-  },
-  {
-    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
-    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
-    "language": "Go",
-    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
-    "stars": 0,
-    "updated_at": "2026-10-12T15:08:08Z",
-    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
-  },
-  {
-    "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 220,
-    "updated_at": "2026-10-12T15:08:25Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
   }
 ]
