@@ -1,12 +1,21 @@
 [
   {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
+    "description": "\u7535\u5546\u5e73\u53f0\u5546\u54c1\u5185\u5bb9\u6cbb\u7406\u7684\u590d\u6742\u98ce\u9669\u8c03\u67e5 Agent\uff1aLangGraph \u591a\u6b65\u8c03\u67e5 + \u786e\u5b9a\u6027 Decision Gate\uff0c\u8f93\u51fa PASS / REJECT / HUMAN_REVIEW\uff1b\u5168\u94fe\u8def\u786e\u5b9a\u6027\u53ef\u91cd\u653e\u8bc4\u6d4b",
+    "id": "donglongjun886/product-review-agent",
+    "language": "Python",
+    "name": "donglongjun886/product-review-agent",
     "stars": 1,
-    "updated_at": "2026-10-12T02:21:02Z",
-    "url": "https://github.com/plurnk/plurnk-service"
+    "updated_at": "2026-10-12T02:29:08Z",
+    "url": "https://github.com/donglongjun886/product-review-agent"
+  },
+  {
+    "description": "Terminal assistant for low-resource Windows PCs: a single ~70 KB 32-bit exe, every command approved by you",
+    "id": "lucasvidela94/tinyagent",
+    "language": "C",
+    "name": "lucasvidela94/tinyagent",
+    "stars": 0,
+    "updated_at": "2026-10-12T02:27:45Z",
+    "url": "https://github.com/lucasvidela94/tinyagent"
   },
   {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
@@ -14,8 +23,44 @@
     "language": "Python",
     "name": "genaforvena/mishe-tauftauf",
     "stars": 3,
-    "updated_at": "2026-10-12T02:20:25Z",
+    "updated_at": "2026-10-12T02:26:32Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
+    "id": "wuyhong715/rikkahub-agent-pure",
+    "language": "Kotlin",
+    "name": "wuyhong715/rikkahub-agent-pure",
+    "stars": 36,
+    "updated_at": "2026-10-12T02:26:07Z",
+    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-10-12T02:25:44Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "\ud83e\udd16 \u65b0\u4e00\u4ee3\u5f00\u6e90 Chrome \u4fa7\u8fb9\u680f\u81ea\u4e3b AI \u6d4f\u89c8\u5668\u667a\u80fd\u4f53\uff1a\u76ee\u6807\u9a71\u52a8\u3001\u957f\u7a0b\u89c4\u5212\u3001\u89c6\u89c9\u7a7a\u95f4\u611f\u77e5\u3001\u5feb\u6162\u53cc\u6838\u8ba4\u77e5\u4e0e\u7269\u7406\u7ea7\u64cd\u63a7\uff0c\u652f\u6301 DeepSeek \u601d\u8003\u6a21\u578b\u4e0e\u672c\u5730\u79bb\u7ebf LLM (BYOK)",
+    "id": "lusipad/browser-agent",
+    "language": "TypeScript",
+    "name": "lusipad/browser-agent",
+    "stars": 3,
+    "updated_at": "2026-10-12T02:23:03Z",
+    "url": "https://github.com/lusipad/browser-agent"
+  },
+  {
+    "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
+    "id": "Jongtae/agentos",
+    "language": "Python",
+    "name": "Jongtae/agentos",
+    "stars": 0,
+    "updated_at": "2026-10-12T02:22:50Z",
+    "url": "https://github.com/Jongtae/agentos"
   },
   {
     "description": "Vector search that ships as a file. Compile a corpus into one self-contained, hash-verified .pikelet \u2014 search it anywher",
@@ -23,8 +68,17 @@
     "language": "JavaScript",
     "name": "mcn92/pikelet",
     "stars": 2,
-    "updated_at": "2026-10-12T02:17:14Z",
+    "updated_at": "2026-10-12T02:21:45Z",
     "url": "https://github.com/mcn92/pikelet"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-12T02:21:02Z",
+    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "GateMem: a benchmark and evaluation toolkit for memory governance in multi-principal shared-memory LLM agents.",
@@ -49,7 +103,7 @@
     "id": "liaosiliangCodeLife/harness-mate-plat",
     "language": "Python",
     "name": "liaosiliangCodeLife/harness-mate-plat",
-    "stars": 13,
+    "stars": 14,
     "updated_at": "2026-10-12T02:12:30Z",
     "url": "https://github.com/liaosiliangCodeLife/harness-mate-plat"
   },
@@ -61,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T02:10:36Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Terminal assistant for low-resource Windows PCs: a single ~70 KB 32-bit exe, every command approved by you",
-    "id": "lucasvidela94/tinyagent",
-    "language": "C",
-    "name": "lucasvidela94/tinyagent",
-    "stars": 0,
-    "updated_at": "2026-10-12T02:02:32Z",
-    "url": "https://github.com/lucasvidela94/tinyagent"
   },
   {
     "description": "Cron scheduling for the DeepSeek Harness \u2014 bounded tasks with calendar & interval rules, delivered to live agents",
@@ -144,21 +189,12 @@
     "url": "https://github.com/grauwolf32/contractor"
   },
   {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-10-12T02:06:17Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-12T02:03:33Z",
+    "updated_at": "2026-10-12T02:23:50Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -387,15 +423,6 @@
     "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
   },
   {
-    "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
-    "id": "Jongtae/agentos",
-    "language": "Python",
-    "name": "Jongtae/agentos",
-    "stars": 0,
-    "updated_at": "2026-10-12T02:16:52Z",
-    "url": "https://github.com/Jongtae/agentos"
-  },
-  {
     "description": "An \"LLM wiki\" upgraded to a real database \u2014 typed entities, graph relations, HTTP API, and a built-in natural-language a",
     "id": "dimknaf/braindb",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-11T23:58:48Z",
     "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
-    "id": "uukuguy/capstone",
-    "language": "Python",
-    "name": "uukuguy/capstone",
-    "stars": 0,
-    "updated_at": "2026-10-11T23:58:14Z",
-    "url": "https://github.com/uukuguy/capstone"
-  },
-  {
-    "description": "Personal QQ copilot: message archive with roaming backfill, multimodal LLM agent, RAG, WebUI/CLI. Speaks the Milky proto",
-    "id": "char-46/copilot-muze",
-    "language": "Python",
-    "name": "char-46/copilot-muze",
-    "stars": 0,
-    "updated_at": "2026-10-11T23:57:03Z",
-    "url": "https://github.com/char-46/copilot-muze"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-10-11T23:56:21Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
   }
 ]
