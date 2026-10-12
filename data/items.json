@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "brutal-45/Nexus-LLM",
     "stars": 0,
-    "updated_at": "2026-10-12T15:44:44Z",
+    "updated_at": "2026-10-12T15:59:47Z",
     "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
+    "id": "IAmNo1Special/mvgeos",
+    "language": "Python",
+    "name": "IAmNo1Special/mvgeos",
+    "stars": 1,
+    "updated_at": "2026-10-12T15:59:43Z",
+    "url": "https://github.com/IAmNo1Special/mvgeos"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-12T15:57:27Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
+    "id": "xanstomper/mochi",
+    "language": "JavaScript",
+    "name": "xanstomper/mochi",
+    "stars": 0,
+    "updated_at": "2026-10-12T15:52:33Z",
+    "url": "https://github.com/xanstomper/mochi"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -16,15 +43,6 @@
     "stars": 14,
     "updated_at": "2026-10-12T15:44:23Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
-    "id": "xanstomper/mochi",
-    "language": "JavaScript",
-    "name": "xanstomper/mochi",
-    "stars": 0,
-    "updated_at": "2026-10-12T15:43:45Z",
-    "url": "https://github.com/xanstomper/mochi"
   },
   {
     "description": "An auto-evolution framework that optimizes anything \u2014 your 7\u00d724 team of algorithm engineers.",
@@ -67,7 +85,7 @@
     "id": "guzmandrade-dev/lyx-acp-assist",
     "language": "TypeScript",
     "name": "guzmandrade-dev/lyx-acp-assist",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-10-12T15:33:31Z",
     "url": "https://github.com/guzmandrade-dev/lyx-acp-assist"
   },
@@ -104,7 +122,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 8781,
-    "updated_at": "2026-10-12T15:17:22Z",
+    "updated_at": "2026-10-12T15:46:31Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -306,15 +324,6 @@
     "url": "https://github.com/Tonyx79/clov-ai"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-12T14:56:31Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "\u6570\u5b57\u4ea7\u54c1\u5236\u4f5c\u4eba Wright\uff5c\u628a\u673a\u4f1a\u505a\u6210\u53ef\u552e\u5356\u6210\u54c1\u3002Digital Product Producer \u2014 turns opportunities into finished products.",
     "id": "xhqing/ProductProducerAgent",
     "language": "JavaScript",
@@ -356,7 +365,7 @@
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 49,
-    "updated_at": "2026-10-12T14:50:17Z",
+    "updated_at": "2026-10-12T15:56:40Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 236,
     "updated_at": "2026-10-12T14:37:35Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
-    "id": "bigfish1913/pi-rust",
-    "language": "Rust",
-    "name": "bigfish1913/pi-rust",
-    "stars": 94,
-    "updated_at": "2026-10-12T14:36:48Z",
-    "url": "https://github.com/bigfish1913/pi-rust"
   }
 ]
