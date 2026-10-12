@@ -1,12 +1,84 @@
 [
   {
+    "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
+    "id": "weihuaguo270-ops/react-agent",
+    "language": "Python",
+    "name": "weihuaguo270-ops/react-agent",
+    "stars": 0,
+    "updated_at": "2026-10-12T14:29:59Z",
+    "url": "https://github.com/weihuaguo270-ops/react-agent"
+  },
+  {
+    "description": "Agent de triage web-s\u00e9curit\u00e9 (Claude Agent SDK) : heuristiques + classifieur entra\u00een\u00e9 (MLOps) pour la d\u00e9tection de phish",
+    "id": "TatianaT13/websec-triage-agent",
+    "language": "Python",
+    "name": "TatianaT13/websec-triage-agent",
+    "stars": 0,
+    "updated_at": "2026-10-12T14:29:56Z",
+    "url": "https://github.com/TatianaT13/websec-triage-agent"
+  },
+  {
+    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
+    "id": "brutal-45/Nexus-LLM",
+    "language": "Python",
+    "name": "brutal-45/Nexus-LLM",
+    "stars": 0,
+    "updated_at": "2026-10-12T14:29:24Z",
+    "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
+    "id": "memoways/ava-proto1",
+    "language": "TypeScript",
+    "name": "memoways/ava-proto1",
+    "stars": 0,
+    "updated_at": "2026-10-12T14:27:41Z",
+    "url": "https://github.com/memoways/ava-proto1"
+  },
+  {
+    "description": "Local-first pentest agent: Go daemon + React dashboard + Codex/Claude Code/Pi runtimes, scoped projects, Blackboard, san",
+    "id": "n1majne3/CyberPenda",
+    "language": "Go",
+    "name": "n1majne3/CyberPenda",
+    "stars": 24,
+    "updated_at": "2026-10-12T14:27:03Z",
+    "url": "https://github.com/n1majne3/CyberPenda"
+  },
+  {
     "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
     "id": "Soodok/Deepseek-Harness-Local-Android",
     "language": "Kotlin",
     "name": "Soodok/Deepseek-Harness-Local-Android",
     "stars": 236,
-    "updated_at": "2026-10-12T14:15:00Z",
+    "updated_at": "2026-10-12T14:26:20Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-10-12T14:26:24Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-10-12T14:25:54Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "A self-hosted software factory \u2014 define goals, agents decompose and execute them through enforced pipelines, with humans",
+    "id": "diraigent/diraigent",
+    "language": "Rust",
+    "name": "diraigent/diraigent",
+    "stars": 20,
+    "updated_at": "2026-10-12T14:25:13Z",
+    "url": "https://github.com/diraigent/diraigent"
   },
   {
     "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
@@ -14,8 +86,26 @@
     "language": "Python",
     "name": "Jongtae/agentos",
     "stars": 0,
-    "updated_at": "2026-10-12T14:12:52Z",
+    "updated_at": "2026-10-12T14:24:14Z",
     "url": "https://github.com/Jongtae/agentos"
+  },
+  {
+    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
+    "id": "wuyhong715/rikkahub-agent-pure",
+    "language": "Kotlin",
+    "name": "wuyhong715/rikkahub-agent-pure",
+    "stars": 38,
+    "updated_at": "2026-10-12T14:27:46Z",
+    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
+  },
+  {
+    "description": "Copilot-for-Word-style LLM assistant for LyX: ACP agent, LyXServer pipe write path, read-only .lyx parser.",
+    "id": "guzmandrade-dev/lyx-acp-assist",
+    "language": "TypeScript",
+    "name": "guzmandrade-dev/lyx-acp-assist",
+    "stars": 0,
+    "updated_at": "2026-10-12T14:16:31Z",
+    "url": "https://github.com/guzmandrade-dev/lyx-acp-assist"
   },
   {
     "description": "\u7aef\u5230\u7aef\u667a\u80fd\u4f53\u5e73\u53f0\uff1a\u628a\u672c\u673a\u7684 AI Agent \u53d8\u6210\u4eba\u4eba\u53ef\u7528\u7684 Web \u4ea7\u54c1\uff08Vue 3 + Flask + Go WS \u7f51\u5173 + Docker \u90e8\u7f72\uff09",
@@ -54,15 +144,6 @@
     "url": "https://github.com/yhm080315-sudo/dsh-android"
   },
   {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-10-12T14:06:25Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
     "description": "A local, citation-backed knowledge assistant for searching and tracking information across WeChat conversations.",
     "id": "Fongkai777/wechat-agent",
     "language": "Python",
@@ -79,24 +160,6 @@
     "stars": 8777,
     "updated_at": "2026-10-12T14:11:36Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
-    "id": "wuyhong715/rikkahub-agent-pure",
-    "language": "Kotlin",
-    "name": "wuyhong715/rikkahub-agent-pure",
-    "stars": 38,
-    "updated_at": "2026-10-12T13:58:27Z",
-    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-10-12T13:56:10Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -193,7 +256,7 @@
     "id": "zqc3117/Spotter",
     "language": "Python",
     "name": "zqc3117/Spotter",
-    "stars": 146,
+    "stars": 147,
     "updated_at": "2026-10-12T13:26:43Z",
     "url": "https://github.com/zqc3117/Spotter"
   },
@@ -250,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-10-12T13:16:19Z",
     "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
-  },
-  {
-    "description": "Copilot-for-Word-style LLM assistant for LyX: ACP agent, LyXServer pipe write path, read-only .lyx parser.",
-    "id": "guzmandrade-dev/lyx-acp-assist",
-    "language": "TypeScript",
-    "name": "guzmandrade-dev/lyx-acp-assist",
-    "stars": 0,
-    "updated_at": "2026-10-12T13:15:57Z",
-    "url": "https://github.com/guzmandrade-dev/lyx-acp-assist"
   },
   {
     "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
@@ -342,15 +396,6 @@
     "url": "https://github.com/Bastioned-successor320/learn-nanobot"
   },
   {
-    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
-    "id": "memoways/ava-proto1",
-    "language": "TypeScript",
-    "name": "memoways/ava-proto1",
-    "stars": 0,
-    "updated_at": "2026-10-12T14:03:55Z",
-    "url": "https://github.com/memoways/ava-proto1"
-  },
-  {
     "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
     "id": "tessellated-statisticalcommission243/deep-research-skill",
     "language": "\u2014",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-12T13:01:43Z",
     "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-10-12T12:59:30Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 0,
-    "updated_at": "2026-10-12T12:59:08Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "\u57fa\u4e8e Luokavin/AutoGLM-For-Android (MIT) \u7684\u5bf9\u8bdd\u5f0f UI \u6539\u7248\uff1a\u8c46\u5305\u98ce\u683c\u6c14\u6ce1 + Markdown \u6e32\u67d3 + \u4fa7\u8fb9 Agent \u6267\u884c\u9762\u677f + \u4e00\u952e\u6df1\u6d45\u8272\uff0893 \u8272\u952e\u6d45\u6df1\u5bf9\u9f50\uff09\uff1b\u5e76\u4fee\u590d Android 14+",
-    "id": "shiqi123765/AutoGLM-Android-ChatUI",
-    "language": "Kotlin",
-    "name": "shiqi123765/AutoGLM-Android-ChatUI",
-    "stars": 0,
-    "updated_at": "2026-10-12T12:58:50Z",
-    "url": "https://github.com/shiqi123765/AutoGLM-Android-ChatUI"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 3,
-    "updated_at": "2026-10-12T12:56:22Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-10-12T12:56:18Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
   }
 ]
