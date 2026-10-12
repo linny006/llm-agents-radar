@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-12 17:45 UTC
+> ⏰ Last updated: 2026-10-12 18:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,39 +42,39 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [xanstomper/mochi](https://github.com/xanstomper/mochi) | 0 | JavaScript | 2026-10-12 | Mochi — a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP  |
-| 2 | [brutal-45/Nexus-LLM](https://github.com/brutal-45/Nexus-LLM) | 0 | Python | 2026-10-12 | Nexus-LLM is LLM ai model which can run locally on your device. |
-| 3 | [memoways/ava-proto1](https://github.com/memoways/ava-proto1) | 0 | TypeScript | 2026-10-12 | Le prototype de l'expérience conversationnelle à partir d'un univers d'un film de fiction |
-| 4 | [Zxy876/voyager-vlml-mve](https://github.com/Zxy876/voyager-vlml-mve) | 1 | Python | 2026-10-12 | Voyager × VLML × 猫娘伴学：把「学习者」换成 agent 的最小可执行原型（面板已上腾讯云） |
-| 5 | [dy2is/kern](https://github.com/dy2is/kern) | 2 | Python | 2026-10-12 | A small Python harness that keeps an LLM coding agent on track: durable memory, a code graph, a live todo plan, and loop |
-| 6 | [zty522/partner](https://github.com/zty522/partner) | 5 | Python | 2026-10-12 | Partner 🤝 Your AI Research Companion. "What have you been doing?" |
-| 7 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 3573 | Python | 2026-10-12 | SRE Agent - CNCF Sandbox Project |
+| 1 | [memoways/ava-proto1](https://github.com/memoways/ava-proto1) | 0 | TypeScript | 2026-10-12 | Le prototype de l'expérience conversationnelle à partir d'un univers d'un film de fiction |
+| 2 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-12 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
+| 3 | [langroid/langroid](https://github.com/langroid/langroid) | 4113 | Python | 2026-10-12 | Harness LLMs with Multi-Agent Programming |
+| 4 | [dy2is/kern](https://github.com/dy2is/kern) | 2 | Python | 2026-10-12 | A small Python harness that keeps an LLM coding agent on track: durable memory, a code graph, a live todo plan, and loop |
+| 5 | [brutal-45/Nexus-LLM](https://github.com/brutal-45/Nexus-LLM) | 0 | Python | 2026-10-12 | Nexus-LLM is LLM ai model which can run locally on your device. |
+| 6 | [Zxy876/voyager-vlml-mve](https://github.com/Zxy876/voyager-vlml-mve) | 1 | Python | 2026-10-12 | Voyager × VLML × 猫娘伴学：把「学习者」换成 agent 的最小可执行原型（面板已上腾讯云） |
+| 7 | [tara-vision/taracode](https://github.com/tara-vision/taracode) | 51 | Go | 2026-10-12 | DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy. |
 | 8 | [tzur669-lab/whatsapp-assistant](https://github.com/tzur669-lab/whatsapp-assistant) | 0 | TypeScript | 2026-10-12 | Single-user Hebrew/English personal assistant: Cloudflare Workers + SQLite Durable Object, Groq tool-calling agent where |
-| 9 | [edjafarov/kiagent-core](https://github.com/edjafarov/kiagent-core) | 7 | TypeScript | 2026-10-12 | kiagent-core — open-source personal AI brain — local, open source, speaks MCP |
-| 10 | [bitranox/vnc-remote-control](https://github.com/bitranox/vnc-remote-control) | 0 | Python | 2026-10-12 | Layout-aware VNC/RFB remote control CLI: type, key, click, screenshot, OCR, against any VNC/RFB server. |
-| 11 | [Lyz103/LLM-Agent-Paper-daily](https://github.com/Lyz103/LLM-Agent-Paper-daily) | 20 | Python | 2026-10-12 | Automatically Update LLM-Agent Papers Daily using Github Actions (Update Every 12th hours) |
-| 12 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 131 | HTML | 2026-10-12 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 13 | [tara-vision/taracode](https://github.com/tara-vision/taracode) | 51 | Go | 2026-10-12 | DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy. |
-| 14 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 8783 | Python | 2026-10-12 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
-| 15 | [dragonked2/alphacode](https://github.com/dragonked2/alphacode) | 284 | Rust | 2026-10-12 | Free MIT AI coding agent — no API key needed. Built-in free model, or bring Claude, GPT, Gemini, DeepSeek, Ollama +50 mo |
-| 16 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 1 | TypeScript | 2026-10-12 | Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers. |
-| 17 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 20 | Rust | 2026-10-12 | Bamboo — a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule |
-| 18 | [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 16698 | Python | 2026-10-12 | "DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)" |
-| 19 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-12 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
-| 20 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-10-12 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 21 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 12 | Python | 2026-10-12 | Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT. |
-| 22 | [X-0240/analytics-copilot](https://github.com/X-0240/analytics-copilot) | 0 | Python | 2026-10-12 | 面向业务分析场景的数据分析 Agent：结论 + 证据链 + 解释强度约束（DuckDB / FastAPI / Docker，含评测与失败记录） |
-| 23 | [kyleslight/shun](https://github.com/kyleslight/shun) | 7 | TypeScript | 2026-10-12 | The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier. |
-| 24 | [yhm080315-sudo/dsh-android](https://github.com/yhm080315-sudo/dsh-android) | 0 | Java | 2026-10-12 | 把 DeepSeek Harness 打包成独立 Android 应用：自带 Node 运行时，装个 APK 就能用。不需要 Termux、不需要 proot、不需要 root、不需要电脑。内含完整的 Android 平台适配踩坑记录（se |
-| 25 | [hhyqhh/inno-agent](https://github.com/hhyqhh/inno-agent) | 1294 | TypeScript | 2026-10-12 | An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati |
-| 26 | [ljchang/mecha](https://github.com/ljchang/mecha) | 7 | Rust | 2026-10-12 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
-| 27 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-10-12 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 28 | [jundizhou/easy-stock](https://github.com/jundizhou/easy-stock) | 1440 | Go | 2026-10-12 | A股行情分析与AI智能投研智能体：股票分析、量化交易分析、盘后复盘桌面工作台——easy stock |
-| 29 | [langroid/langroid](https://github.com/langroid/langroid) | 4113 | Python | 2026-10-12 | Harness LLMs with Multi-Agent Programming |
+| 9 | [xanstomper/mochi](https://github.com/xanstomper/mochi) | 0 | JavaScript | 2026-10-12 | Mochi — a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP  |
+| 10 | [zty522/partner](https://github.com/zty522/partner) | 5 | Python | 2026-10-12 | Partner 🤝 Your AI Research Companion. "What have you been doing?" |
+| 11 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 3573 | Python | 2026-10-12 | SRE Agent - CNCF Sandbox Project |
+| 12 | [edjafarov/kiagent-core](https://github.com/edjafarov/kiagent-core) | 7 | TypeScript | 2026-10-12 | kiagent-core — open-source personal AI brain — local, open source, speaks MCP |
+| 13 | [bitranox/vnc-remote-control](https://github.com/bitranox/vnc-remote-control) | 0 | Python | 2026-10-12 | Layout-aware VNC/RFB remote control CLI: type, key, click, screenshot, OCR, against any VNC/RFB server. |
+| 14 | [Lyz103/LLM-Agent-Paper-daily](https://github.com/Lyz103/LLM-Agent-Paper-daily) | 20 | Python | 2026-10-12 | Automatically Update LLM-Agent Papers Daily using Github Actions (Update Every 12th hours) |
+| 15 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 131 | HTML | 2026-10-12 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 16 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 8783 | Python | 2026-10-12 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 17 | [dragonked2/alphacode](https://github.com/dragonked2/alphacode) | 284 | Rust | 2026-10-12 | Free MIT AI coding agent — no API key needed. Built-in free model, or bring Claude, GPT, Gemini, DeepSeek, Ollama +50 mo |
+| 18 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 1 | TypeScript | 2026-10-12 | Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers. |
+| 19 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 20 | Rust | 2026-10-12 | Bamboo — a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule |
+| 20 | [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 16699 | Python | 2026-10-12 | "DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)" |
+| 21 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-10-12 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 22 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 12 | Python | 2026-10-12 | Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT. |
+| 23 | [X-0240/analytics-copilot](https://github.com/X-0240/analytics-copilot) | 0 | Python | 2026-10-12 | 面向业务分析场景的数据分析 Agent：结论 + 证据链 + 解释强度约束（DuckDB / FastAPI / Docker，含评测与失败记录） |
+| 24 | [kyleslight/shun](https://github.com/kyleslight/shun) | 7 | TypeScript | 2026-10-12 | The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier. |
+| 25 | [yhm080315-sudo/dsh-android](https://github.com/yhm080315-sudo/dsh-android) | 0 | Java | 2026-10-12 | 把 DeepSeek Harness 打包成独立 Android 应用：自带 Node 运行时，装个 APK 就能用。不需要 Termux、不需要 proot、不需要 root、不需要电脑。内含完整的 Android 平台适配踩坑记录（se |
+| 26 | [hhyqhh/inno-agent](https://github.com/hhyqhh/inno-agent) | 1294 | TypeScript | 2026-10-12 | An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati |
+| 27 | [ljchang/mecha](https://github.com/ljchang/mecha) | 7 | Rust | 2026-10-12 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
+| 28 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-10-12 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
+| 29 | [jundizhou/easy-stock](https://github.com/jundizhou/easy-stock) | 1440 | Go | 2026-10-12 | A股行情分析与AI智能投研智能体：股票分析、量化交易分析、盘后复盘桌面工作台——easy stock |
 | 30 | [IAmNo1Special/mvgeos](https://github.com/IAmNo1Special/mvgeos) | 1 | Python | 2026-10-12 | An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to |
 | 31 | [ce1lcn/harmonywhale](https://github.com/ce1lcn/harmonywhale) | 0 | JavaScript | 2026-10-12 | 参考 DeepSeek Harness 实现的鸿蒙平板 AI Agent：模型由你配置的远程 API 提供，通过工具调用直接操作设备 |
 | 32 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 14 | Go | 2026-10-12 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
-| 33 | [ant-research/AntOmniEvo](https://github.com/ant-research/AntOmniEvo) | 934 | Python | 2026-10-12 | An auto-evolution framework that optimizes anything — your 7×24 team of algorithm engineers. |
+| 33 | [ant-research/AntOmniEvo](https://github.com/ant-research/AntOmniEvo) | 935 | Python | 2026-10-12 | An auto-evolution framework that optimizes anything — your 7×24 team of algorithm engineers. |
 | 34 | [NitinReddy-A/Rampart](https://github.com/NitinReddy-A/Rampart) | 6 | Python | 2026-10-12 | Open-source, self-hostable AppSec agent that finds, proves, and helps fix web/API vulnerabilities — evidence-first (inde |
 | 35 | [guzmandrade-dev/lyx-acp-assist](https://github.com/guzmandrade-dev/lyx-acp-assist) | 1 | TypeScript | 2026-10-12 | Copilot-for-Word-style LLM assistant for LyX: ACP agent, LyXServer pipe write path, read-only .lyx parser. |
 | 36 | [yilewang/llm-for-zotero](https://github.com/yilewang/llm-for-zotero) | 3278 | TypeScript | 2026-10-12 | An open-source research agent system for your Zotero library. |
