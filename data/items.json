@@ -1,12 +1,120 @@
 [
   {
-    "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
-    "id": "cheeezis/job_finder",
+    "description": "\u9ea6\u9ea6\u56e2\u9910\u7edf\u7b79\u5b98 \u00b7 \u57fa\u4e8e\u9ea6\u5f53\u52b3 MCP \u7684\u4f01\u4e1a\u56e2\u9910\u7ea6\u675f\u6c42\u89e3\u4e0e\u6bd4\u4ef7\u5f15\u64ce(\u9ea6\u5f53\u52b3\u7a0b\u5e8f\u5458\u8282\u521b\u610f\u5f00\u53d1\u5927\u8d5b\u53c2\u8d5b\u4f5c\u54c1)",
+    "id": "yschdxm/mcd-group-catering",
     "language": "Python",
-    "name": "cheeezis/job_finder",
+    "name": "yschdxm/mcd-group-catering",
     "stars": 0,
-    "updated_at": "2026-10-12T09:30:10Z",
-    "url": "https://github.com/cheeezis/job_finder"
+    "updated_at": "2026-10-12T09:45:06Z",
+    "url": "https://github.com/yschdxm/mcd-group-catering"
+  },
+  {
+    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
+    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "language": "HTML",
+    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "stars": 0,
+    "updated_at": "2026-10-12T09:41:39Z",
+    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5828,
+    "updated_at": "2026-10-12T09:40:15Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
+    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
+    "id": "agentscope-ai/agentscope-go",
+    "language": "Go",
+    "name": "agentscope-ai/agentscope-go",
+    "stars": 55,
+    "updated_at": "2026-10-12T09:39:37Z",
+    "url": "https://github.com/agentscope-ai/agentscope-go"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-12T09:39:26Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
+    "id": "hasting323/AutoGLM-For-Android",
+    "language": "Kotlin",
+    "name": "hasting323/AutoGLM-For-Android",
+    "stars": 13,
+    "updated_at": "2026-10-12T09:38:12Z",
+    "url": "https://github.com/hasting323/AutoGLM-For-Android"
+  },
+  {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 5,
+    "updated_at": "2026-10-12T09:38:11Z",
+    "url": "https://github.com/plurnk/plurnk"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-10-12T09:38:03Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "A small Python harness that keeps an LLM coding agent on track: durable memory, a code graph, a live todo plan, and loop",
+    "id": "dy2is/kern",
+    "language": "Python",
+    "name": "dy2is/kern",
+    "stars": 2,
+    "updated_at": "2026-10-12T09:37:23Z",
+    "url": "https://github.com/dy2is/kern"
+  },
+  {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 1,
+    "updated_at": "2026-10-12T09:36:49Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-10-12T09:35:31Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-12T09:43:17Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
+    "id": "anchor-inference/daedalus",
+    "language": "Python",
+    "name": "anchor-inference/daedalus",
+    "stars": 2,
+    "updated_at": "2026-10-12T09:35:09Z",
+    "url": "https://github.com/anchor-inference/daedalus"
   },
   {
     "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
@@ -14,8 +122,26 @@
     "language": "Python",
     "name": "Jongtae/agentos",
     "stars": 0,
-    "updated_at": "2026-10-12T09:30:01Z",
+    "updated_at": "2026-10-12T09:33:43Z",
     "url": "https://github.com/Jongtae/agentos"
+  },
+  {
+    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
+    "id": "zeng6125-rgb/suixing",
+    "language": "Kotlin",
+    "name": "zeng6125-rgb/suixing",
+    "stars": 0,
+    "updated_at": "2026-10-12T09:34:08Z",
+    "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
+    "id": "cheeezis/job_finder",
+    "language": "Python",
+    "name": "cheeezis/job_finder",
+    "stars": 0,
+    "updated_at": "2026-10-12T09:30:10Z",
+    "url": "https://github.com/cheeezis/job_finder"
   },
   {
     "description": "Local-first campus email assistant with source isolation, privacy gates and small-model agent foundations. M2 preview.",
@@ -45,21 +171,12 @@
     "url": "https://github.com/xiaolei-aba/research-evidence-agent"
   },
   {
-    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
-    "id": "agentscope-ai/agentscope-go",
-    "language": "Go",
-    "name": "agentscope-ai/agentscope-go",
-    "stars": 55,
-    "updated_at": "2026-10-12T09:27:46Z",
-    "url": "https://github.com/agentscope-ai/agentscope-go"
-  },
-  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
     "name": "helixml/helix",
     "stars": 818,
-    "updated_at": "2026-10-12T09:25:58Z",
+    "updated_at": "2026-10-12T09:41:19Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -70,15 +187,6 @@
     "stars": 349,
     "updated_at": "2026-10-12T09:25:53Z",
     "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-12T09:24:59Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
@@ -103,18 +211,9 @@
     "id": "HKUDS/DeepCode",
     "language": "Python",
     "name": "HKUDS/DeepCode",
-    "stars": 16696,
+    "stars": 16697,
     "updated_at": "2026-10-12T09:23:34Z",
     "url": "https://github.com/HKUDS/DeepCode"
-  },
-  {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-12T09:24:13Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "An AI companion that decides when to stay silent \u2014 heartbeat-driven proactive dialogue with 16-dim emotion engine and co",
@@ -158,7 +257,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-10-12T09:22:06Z",
+    "updated_at": "2026-10-12T09:34:08Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -189,15 +288,6 @@
     "url": "https://github.com/QQSHI13/fox-agent"
   },
   {
-    "description": "A small Python harness that keeps an LLM coding agent on track: durable memory, a code graph, a live todo plan, and loop",
-    "id": "dy2is/kern",
-    "language": "Python",
-    "name": "dy2is/kern",
-    "stars": 2,
-    "updated_at": "2026-10-12T09:03:17Z",
-    "url": "https://github.com/dy2is/kern"
-  },
-  {
     "description": "\ud83e\udd16 Lightweight, message-first agent runtime",
     "id": "Cognipeer/agent-sdk",
     "language": "TypeScript",
@@ -205,6 +295,15 @@
     "stars": 7,
     "updated_at": "2026-10-12T09:02:58Z",
     "url": "https://github.com/Cognipeer/agent-sdk"
+  },
+  {
+    "description": "Single-user Hebrew/English personal assistant: Cloudflare Workers + SQLite Durable Object, Groq tool-calling agent where",
+    "id": "tzur669-lab/whatsapp-assistant",
+    "language": "TypeScript",
+    "name": "tzur669-lab/whatsapp-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-12T09:01:12Z",
+    "url": "https://github.com/tzur669-lab/whatsapp-assistant"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -220,7 +319,7 @@
     "id": "titanwings/distilly",
     "language": "Python",
     "name": "titanwings/distilly",
-    "stars": 25508,
+    "stars": 25511,
     "updated_at": "2026-10-12T08:58:09Z",
     "url": "https://github.com/titanwings/distilly"
   },
@@ -248,7 +347,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-12T09:24:16Z",
+    "updated_at": "2026-10-12T09:31:36Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -259,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T08:55:41Z",
     "url": "https://github.com/wh520-wh/wwriting-novel-agent"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-10-12T09:20:17Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "An autonomous on-call agent that investigates and remediates incidents on the Incident Platform through its MCP tool sur",
@@ -319,7 +409,7 @@
     "id": "jundizhou/easy-stock",
     "language": "Go",
     "name": "jundizhou/easy-stock",
-    "stars": 1436,
+    "stars": 1437,
     "updated_at": "2026-10-12T08:44:53Z",
     "url": "https://github.com/jundizhou/easy-stock"
   },
@@ -355,98 +445,8 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 33115,
+    "stars": 33114,
     "updated_at": "2026-10-12T08:27:11Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
-    "id": "KaletoAI/anima-verse",
-    "language": "Python",
-    "name": "KaletoAI/anima-verse",
-    "stars": 4,
-    "updated_at": "2026-10-12T08:23:49Z",
-    "url": "https://github.com/KaletoAI/anima-verse"
-  },
-  {
-    "description": "Claude Code skill that generates a tailored autonomous dev loop for any git repository",
-    "id": "Stephenson-Software/create-dev-loop",
-    "language": "Python",
-    "name": "Stephenson-Software/create-dev-loop",
-    "stars": 1,
-    "updated_at": "2026-10-12T08:21:50Z",
-    "url": "https://github.com/Stephenson-Software/create-dev-loop"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 2,
-    "updated_at": "2026-10-12T08:21:11Z",
-    "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Generate rich YuE2 audio in ComfyUI with six modular nodes\u2014hum-to-song, LoRA and adapter support\u2014no stock nodes needed.",
-    "id": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
-    "language": "Python",
-    "name": "Deborahwalkerz661/ComfyUI-FS_Audio_Suite",
-    "stars": 1,
-    "updated_at": "2026-10-12T08:15:59Z",
-    "url": "https://github.com/Deborahwalkerz661/ComfyUI-FS_Audio_Suite"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 25,
-    "updated_at": "2026-10-12T08:15:36Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
-    "id": "wuyhong715/rikkahub-agent-pure",
-    "language": "Kotlin",
-    "name": "wuyhong715/rikkahub-agent-pure",
-    "stars": 37,
-    "updated_at": "2026-10-12T09:27:00Z",
-    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
-  },
-  {
-    "description": "Run NVIDIA DLSS 5 neural rendering on frames and videos inside ComfyUI, with optional upscaling for enhanced material de",
-    "id": "Jadema5416/ComfyUI-DLSS5-Enhancer",
-    "language": "Python",
-    "name": "Jadema5416/ComfyUI-DLSS5-Enhancer",
-    "stars": 1,
-    "updated_at": "2026-10-12T08:14:28Z",
-    "url": "https://github.com/Jadema5416/ComfyUI-DLSS5-Enhancer"
-  },
-  {
-    "description": "Sort your Downloads by project, not file type \u2014 with one-command undo. No delete, ever.",
-    "id": "verniceunleaded6135/tidy-undo",
-    "language": "Python",
-    "name": "verniceunleaded6135/tidy-undo",
-    "stars": 0,
-    "updated_at": "2026-10-12T08:13:01Z",
-    "url": "https://github.com/verniceunleaded6135/tidy-undo"
-  },
-  {
-    "description": "Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node\u2014no complex workflows needed.",
-    "id": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
-    "language": "JavaScript",
-    "name": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
-    "stars": 4,
-    "updated_at": "2026-10-12T08:11:22Z",
-    "url": "https://github.com/Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3"
-  },
-  {
-    "description": "Control your Windows laptop remotely via Discord with AI-powered voice and text commands in English or Urdu.",
-    "id": "Ottoman-reticule726/zara-ai-laptop-agent",
-    "language": "Python",
-    "name": "Ottoman-reticule726/zara-ai-laptop-agent",
-    "stars": 0,
-    "updated_at": "2026-10-12T08:10:15Z",
-    "url": "https://github.com/Ottoman-reticule726/zara-ai-laptop-agent"
   }
 ]
