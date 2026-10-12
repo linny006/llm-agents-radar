@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "brutal-45/Nexus-LLM",
     "stars": 0,
-    "updated_at": "2026-10-12T15:29:40Z",
+    "updated_at": "2026-10-12T15:44:44Z",
     "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-10-12T15:44:23Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
@@ -14,17 +23,35 @@
     "language": "JavaScript",
     "name": "xanstomper/mochi",
     "stars": 0,
-    "updated_at": "2026-10-12T15:29:25Z",
+    "updated_at": "2026-10-12T15:43:45Z",
     "url": "https://github.com/xanstomper/mochi"
   },
   {
-    "description": "Voyager \u00d7 VLML \u00d7 \u732b\u5a18\u4f34\u5b66\uff1a\u628a\u300c\u5b66\u4e60\u8005\u300d\u6362\u6210 agent \u7684\u6700\u5c0f\u53ef\u6267\u884c\u539f\u578b\uff08\u9762\u677f\u5df2\u4e0a\u817e\u8baf\u4e91\uff09",
-    "id": "Zxy876/voyager-vlml-mve",
+    "description": "An auto-evolution framework that optimizes anything \u2014 your 7\u00d724 team of algorithm engineers.",
+    "id": "ant-research/AntOmniEvo",
     "language": "Python",
-    "name": "Zxy876/voyager-vlml-mve",
-    "stars": 1,
-    "updated_at": "2026-10-12T15:27:03Z",
-    "url": "https://github.com/Zxy876/voyager-vlml-mve"
+    "name": "ant-research/AntOmniEvo",
+    "stars": 986,
+    "updated_at": "2026-10-12T15:42:23Z",
+    "url": "https://github.com/ant-research/AntOmniEvo"
+  },
+  {
+    "description": "Open-source, self-hostable AppSec agent that finds, proves, and helps fix web/API vulnerabilities \u2014 evidence-first (inde",
+    "id": "NitinReddy-A/Rampart",
+    "language": "Python",
+    "name": "NitinReddy-A/Rampart",
+    "stars": 6,
+    "updated_at": "2026-10-12T15:40:56Z",
+    "url": "https://github.com/NitinReddy-A/Rampart"
+  },
+  {
+    "description": "A\u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\uff1a\u80a1\u7968\u5206\u6790\u3001\u91cf\u5316\u4ea4\u6613\u5206\u6790\u3001\u76d8\u540e\u590d\u76d8\u684c\u9762\u5de5\u4f5c\u53f0\u2014\u2014easy stock",
+    "id": "jundizhou/easy-stock",
+    "language": "Go",
+    "name": "jundizhou/easy-stock",
+    "stars": 1440,
+    "updated_at": "2026-10-12T15:38:34Z",
+    "url": "https://github.com/jundizhou/easy-stock"
   },
   {
     "description": "\u628a DeepSeek Harness \u6253\u5305\u6210\u72ec\u7acb Android \u5e94\u7528\uff1a\u81ea\u5e26 Node \u8fd0\u884c\u65f6\uff0c\u88c5\u4e2a APK \u5c31\u80fd\u7528\u3002\u4e0d\u9700\u8981 Termux\u3001\u4e0d\u9700\u8981 proot\u3001\u4e0d\u9700\u8981 root\u3001\u4e0d\u9700\u8981\u7535\u8111\u3002\u5185\u542b\u5b8c\u6574\u7684 Android \u5e73\u53f0\u9002\u914d\u8e29\u5751\u8bb0\u5f55\uff08se",
@@ -32,8 +59,26 @@
     "language": "Java",
     "name": "yhm080315-sudo/dsh-android",
     "stars": 0,
-    "updated_at": "2026-10-12T15:26:13Z",
+    "updated_at": "2026-10-12T15:38:16Z",
     "url": "https://github.com/yhm080315-sudo/dsh-android"
+  },
+  {
+    "description": "Copilot-for-Word-style LLM assistant for LyX: ACP agent, LyXServer pipe write path, read-only .lyx parser.",
+    "id": "guzmandrade-dev/lyx-acp-assist",
+    "language": "TypeScript",
+    "name": "guzmandrade-dev/lyx-acp-assist",
+    "stars": 0,
+    "updated_at": "2026-10-12T15:33:31Z",
+    "url": "https://github.com/guzmandrade-dev/lyx-acp-assist"
+  },
+  {
+    "description": "Voyager \u00d7 VLML \u00d7 \u732b\u5a18\u4f34\u5b66\uff1a\u628a\u300c\u5b66\u4e60\u8005\u300d\u6362\u6210 agent \u7684\u6700\u5c0f\u53ef\u6267\u884c\u539f\u578b\uff08\u9762\u677f\u5df2\u4e0a\u817e\u8baf\u4e91\uff09",
+    "id": "Zxy876/voyager-vlml-mve",
+    "language": "Python",
+    "name": "Zxy876/voyager-vlml-mve",
+    "stars": 1,
+    "updated_at": "2026-10-12T15:30:51Z",
+    "url": "https://github.com/Zxy876/voyager-vlml-mve"
   },
   {
     "description": "An open-source research agent system for your Zotero library.",
@@ -58,7 +103,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 8780,
+    "stars": 8781,
     "updated_at": "2026-10-12T15:17:22Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -216,15 +261,6 @@
     "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
   },
   {
-    "description": "An auto-evolution framework that optimizes anything \u2014 your 7\u00d724 team of algorithm engineers.",
-    "id": "ant-research/AntOmniEvo",
-    "language": "Python",
-    "name": "ant-research/AntOmniEvo",
-    "stars": 985,
-    "updated_at": "2026-10-12T15:03:28Z",
-    "url": "https://github.com/ant-research/AntOmniEvo"
-  },
-  {
     "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
     "id": "chadwickhyperboloidal943/knowl",
     "language": "TypeScript",
@@ -351,15 +387,6 @@
     "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-10-12T15:28:16Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "Executive Assistant Kit | Gig hunting & general coordination. \u603b\u7ecf\u7406\u52a9\u7406\u2014\u2014\u627e\u5355\u63a5\u6d3b\u5165\u53e3\u4e0e\u7efc\u5408\u4e8b\u52a1\u534f\u8c03\u3002",
     "id": "xhqing/ExecutiveAssistantAgent",
     "language": "\u2014",
@@ -367,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T14:49:20Z",
     "url": "https://github.com/xhqing/ExecutiveAssistantAgent"
-  },
-  {
-    "description": "Copilot-for-Word-style LLM assistant for LyX: ACP agent, LyXServer pipe write path, read-only .lyx parser.",
-    "id": "guzmandrade-dev/lyx-acp-assist",
-    "language": "TypeScript",
-    "name": "guzmandrade-dev/lyx-acp-assist",
-    "stars": 0,
-    "updated_at": "2026-10-12T14:47:57Z",
-    "url": "https://github.com/guzmandrade-dev/lyx-acp-assist"
   },
   {
     "description": "PocketFlow from 0 to 1 \uff5c 100 \u884c\u4ee3\u7801\u6784\u5efa\u6240\u6709 LLM \u5e94\u7528 \uff5c \u9996\u4e2a PocketFlow \u4ea4\u4e92\u5f0f\u6559\u7a0b \uff5c \u5149\u901f\u638c\u63e1\u667a\u80fd\u4f53\u5f00\u53d1\u5b9e\u6218",
@@ -430,23 +448,5 @@
     "stars": 94,
     "updated_at": "2026-10-12T14:36:48Z",
     "url": "https://github.com/bigfish1913/pi-rust"
-  },
-  {
-    "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
-    "id": "xhqing/DayTradingAgent",
-    "language": "Python",
-    "name": "xhqing/DayTradingAgent",
-    "stars": 3,
-    "updated_at": "2026-10-12T14:37:52Z",
-    "url": "https://github.com/xhqing/DayTradingAgent"
-  },
-  {
-    "description": "Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics.",
-    "id": "BiBoyang/ForgeLoop",
-    "language": "Swift",
-    "name": "BiBoyang/ForgeLoop",
-    "stars": 0,
-    "updated_at": "2026-10-12T14:30:38Z",
-    "url": "https://github.com/BiBoyang/ForgeLoop"
   }
 ]
