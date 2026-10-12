@@ -1,12 +1,30 @@
 [
   {
+    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
+    "id": "xanstomper/mochi",
+    "language": "JavaScript",
+    "name": "xanstomper/mochi",
+    "stars": 0,
+    "updated_at": "2026-10-12T17:42:36Z",
+    "url": "https://github.com/xanstomper/mochi"
+  },
+  {
     "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
     "id": "brutal-45/Nexus-LLM",
     "language": "Python",
     "name": "brutal-45/Nexus-LLM",
     "stars": 0,
-    "updated_at": "2026-10-12T17:30:12Z",
+    "updated_at": "2026-10-12T17:45:16Z",
     "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
+    "id": "memoways/ava-proto1",
+    "language": "TypeScript",
+    "name": "memoways/ava-proto1",
+    "stars": 0,
+    "updated_at": "2026-10-12T17:39:43Z",
+    "url": "https://github.com/memoways/ava-proto1"
   },
   {
     "description": "Voyager \u00d7 VLML \u00d7 \u732b\u5a18\u4f34\u5b66\uff1a\u628a\u300c\u5b66\u4e60\u8005\u300d\u6362\u6210 agent \u7684\u6700\u5c0f\u53ef\u6267\u884c\u539f\u578b\uff08\u9762\u677f\u5df2\u4e0a\u817e\u8baf\u4e91\uff09",
@@ -14,8 +32,35 @@
     "language": "Python",
     "name": "Zxy876/voyager-vlml-mve",
     "stars": 1,
-    "updated_at": "2026-10-12T17:30:01Z",
+    "updated_at": "2026-10-12T17:39:15Z",
     "url": "https://github.com/Zxy876/voyager-vlml-mve"
+  },
+  {
+    "description": "A small Python harness that keeps an LLM coding agent on track: durable memory, a code graph, a live todo plan, and loop",
+    "id": "dy2is/kern",
+    "language": "Python",
+    "name": "dy2is/kern",
+    "stars": 2,
+    "updated_at": "2026-10-12T17:36:18Z",
+    "url": "https://github.com/dy2is/kern"
+  },
+  {
+    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
+    "id": "zty522/partner",
+    "language": "Python",
+    "name": "zty522/partner",
+    "stars": 5,
+    "updated_at": "2026-10-12T17:34:23Z",
+    "url": "https://github.com/zty522/partner"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3573,
+    "updated_at": "2026-10-12T17:35:32Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Single-user Hebrew/English personal assistant: Cloudflare Workers + SQLite Durable Object, Groq tool-calling agent where",
@@ -25,24 +70,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T17:29:55Z",
     "url": "https://github.com/tzur669-lab/whatsapp-assistant"
-  },
-  {
-    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
-    "id": "memoways/ava-proto1",
-    "language": "TypeScript",
-    "name": "memoways/ava-proto1",
-    "stars": 0,
-    "updated_at": "2026-10-12T17:28:40Z",
-    "url": "https://github.com/memoways/ava-proto1"
-  },
-  {
-    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
-    "id": "xanstomper/mochi",
-    "language": "JavaScript",
-    "name": "xanstomper/mochi",
-    "stars": 0,
-    "updated_at": "2026-10-12T17:28:38Z",
-    "url": "https://github.com/xanstomper/mochi"
   },
   {
     "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
@@ -59,7 +86,7 @@
     "language": "Python",
     "name": "bitranox/vnc-remote-control",
     "stars": 0,
-    "updated_at": "2026-10-12T17:25:45Z",
+    "updated_at": "2026-10-12T17:34:14Z",
     "url": "https://github.com/bitranox/vnc-remote-control"
   },
   {
@@ -103,7 +130,7 @@
     "id": "dragonked2/alphacode",
     "language": "Rust",
     "name": "dragonked2/alphacode",
-    "stars": 283,
+    "stars": 284,
     "updated_at": "2026-10-12T17:19:10Z",
     "url": "https://github.com/dragonked2/alphacode"
   },
@@ -122,7 +149,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-12T17:00:44Z",
+    "updated_at": "2026-10-12T17:44:27Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -203,7 +230,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-12T17:30:08Z",
+    "updated_at": "2026-10-12T17:38:17Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -223,15 +250,6 @@
     "stars": 1440,
     "updated_at": "2026-10-12T16:06:29Z",
     "url": "https://github.com/jundizhou/easy-stock"
-  },
-  {
-    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
-    "id": "zty522/partner",
-    "language": "Python",
-    "name": "zty522/partner",
-    "stars": 5,
-    "updated_at": "2026-10-12T16:03:12Z",
-    "url": "https://github.com/zty522/partner"
   },
   {
     "description": "Harness LLMs with Multi-Agent Programming",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-12T15:06:03Z",
     "url": "https://github.com/xhqing/GrowthMarketerAgent"
-  },
-  {
-    "description": "An iMessage agent that learns what you like from what you send it.",
-    "id": "gabehassan/taste-agent",
-    "language": "Python",
-    "name": "gabehassan/taste-agent",
-    "stars": 0,
-    "updated_at": "2026-10-12T15:05:10Z",
-    "url": "https://github.com/gabehassan/taste-agent"
-  },
-  {
-    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
-    "id": "Samuelcluttered613/paper2code",
-    "language": "Python",
-    "name": "Samuelcluttered613/paper2code",
-    "stars": 1,
-    "updated_at": "2026-10-12T15:04:29Z",
-    "url": "https://github.com/Samuelcluttered613/paper2code"
   }
 ]
