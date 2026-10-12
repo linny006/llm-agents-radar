@@ -1,12 +1,12 @@
 [
   {
-    "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
-    "id": "rugose-learnedprofession58/pi-dsh",
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
     "language": "TypeScript",
-    "name": "rugose-learnedprofession58/pi-dsh",
-    "stars": 0,
-    "updated_at": "2026-10-12T00:11:54Z",
-    "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-12T00:28:48Z",
+    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
@@ -14,8 +14,35 @@
     "language": "Python",
     "name": "genaforvena/mishe-tauftauf",
     "stars": 3,
-    "updated_at": "2026-10-12T00:11:22Z",
+    "updated_at": "2026-10-12T00:26:21Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 5,
+    "updated_at": "2026-10-12T00:20:27Z",
+    "url": "https://github.com/plurnk/plurnk"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-10-12T00:20:25Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
+    "id": "rugose-learnedprofession58/pi-dsh",
+    "language": "TypeScript",
+    "name": "rugose-learnedprofession58/pi-dsh",
+    "stars": 0,
+    "updated_at": "2026-10-12T00:11:54Z",
+    "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
   },
   {
     "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
@@ -356,7 +383,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-11T23:53:50Z",
+    "updated_at": "2026-10-12T00:15:23Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -369,15 +396,6 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-10-11T23:42:01Z",
-    "url": "https://github.com/b-macker/NAAb"
-  },
-  {
     "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
     "id": "yologdev/yoagent",
     "language": "Rust",
@@ -385,15 +403,6 @@
     "stars": 347,
     "updated_at": "2026-10-11T22:59:11Z",
     "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-11T22:59:07Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "A self-hosted software factory \u2014 define goals, agents decompose and execute them through enforced pipelines, with humans",
@@ -412,15 +421,6 @@
     "stars": 0,
     "updated_at": "2026-10-11T22:44:39Z",
     "url": "https://github.com/watchcat/scout"
-  },
-  {
-    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
-    "id": "plurnk/plurnk",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk",
-    "stars": 5,
-    "updated_at": "2026-10-11T22:41:04Z",
-    "url": "https://github.com/plurnk/plurnk"
   },
   {
     "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
