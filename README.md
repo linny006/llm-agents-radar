@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-12 19:45 UTC
+> ⏰ Last updated: 2026-10-12 20:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [plurnk/plurnk](https://github.com/plurnk/plurnk) | 5 | TypeScript | 2026-10-12 | Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models. |
-| 2 | [genaforvena/mishe-tauftauf](https://github.com/genaforvena/mishe-tauftauf) | 3 | Python | 2026-10-12 | A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation. |
-| 3 | [memoways/ava-proto1](https://github.com/memoways/ava-proto1) | 0 | TypeScript | 2026-10-12 | Le prototype de l'expérience conversationnelle à partir d'un univers d'un film de fiction |
-| 4 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 20 | Rust | 2026-10-12 | Bamboo — a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule |
-| 5 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 8784 | Python | 2026-10-12 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
-| 6 | [TomKoren1/Sightline](https://github.com/TomKoren1/Sightline) | 0 | TypeScript | 2026-10-12 | Read-only AWS inventory with a graph model and an LLM agent that answers security questions with validated citations. Po |
-| 7 | [ljchang/mecha](https://github.com/ljchang/mecha) | 7 | Rust | 2026-10-12 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
-| 8 | [AandBorC/dsa-lite](https://github.com/AandBorC/dsa-lite) | 0 | Python | 2026-10-12 | 带策略验证的 A 股 LLM 分析系统 —— 多源降级 + 定时任务 + 多通道推送；核心增量是可证伪的回测与验证层（未来函数探测 / 样本内外切分 / t检验 / 基准对比） |
-| 9 | [xanstomper/mochi](https://github.com/xanstomper/mochi) | 0 | JavaScript | 2026-10-12 | Mochi — a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP  |
-| 10 | [scrapfly/scrapfly-cli](https://github.com/scrapfly/scrapfly-cli) | 5 | Go | 2026-10-12 | Agentic CLI for the Scrapfly platform: scrape, extract, crawl, and drive a cloud browser over CDP. Built-in LLM agent wi |
-| 11 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-10-12 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 12 | [dy2is/kern](https://github.com/dy2is/kern) | 2 | Python | 2026-10-12 | A small Python harness that keeps an LLM coding agent on track: durable memory, a code graph, a live todo plan, and loop |
-| 13 | [yilewang/llm-for-zotero](https://github.com/yilewang/llm-for-zotero) | 3278 | TypeScript | 2026-10-12 | An open-source research agent system for your Zotero library. |
-| 14 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 2 | C++ | 2026-10-12 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
-| 15 | [brutal-45/Nexus-LLM](https://github.com/brutal-45/Nexus-LLM) | 0 | Python | 2026-10-12 | Nexus-LLM is LLM ai model which can run locally on your device. |
-| 16 | [xieguigang/sciBASIC](https://github.com/xieguigang/sciBASIC) | 79 | Visual Basic .NET | 2026-10-12 | A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler |
+| 1 | [xieguigang/sciBASIC](https://github.com/xieguigang/sciBASIC) | 79 | Visual Basic .NET | 2026-10-12 | A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler |
+| 2 | [xanstomper/mochi](https://github.com/xanstomper/mochi) | 0 | JavaScript | 2026-10-12 | Mochi — a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP  |
+| 3 | [genaforvena/mishe-tauftauf](https://github.com/genaforvena/mishe-tauftauf) | 3 | Python | 2026-10-12 | A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation. |
+| 4 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 8784 | Python | 2026-10-12 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 5 | [dy2is/kern](https://github.com/dy2is/kern) | 2 | Python | 2026-10-12 | A small Python harness that keeps an LLM coding agent on track: durable memory, a code graph, a live todo plan, and loop |
+| 6 | [memoways/ava-proto1](https://github.com/memoways/ava-proto1) | 0 | TypeScript | 2026-10-12 | Le prototype de l'expérience conversationnelle à partir d'un univers d'un film de fiction |
+| 7 | [plurnk/plurnk](https://github.com/plurnk/plurnk) | 5 | TypeScript | 2026-10-12 | Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models. |
+| 8 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 20 | Rust | 2026-10-12 | Bamboo — a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule |
+| 9 | [TomKoren1/Sightline](https://github.com/TomKoren1/Sightline) | 0 | TypeScript | 2026-10-12 | Read-only AWS inventory with a graph model and an LLM agent that answers security questions with validated citations. Po |
+| 10 | [ljchang/mecha](https://github.com/ljchang/mecha) | 7 | Rust | 2026-10-12 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
+| 11 | [AandBorC/dsa-lite](https://github.com/AandBorC/dsa-lite) | 0 | Python | 2026-10-12 | 带策略验证的 A 股 LLM 分析系统 —— 多源降级 + 定时任务 + 多通道推送；核心增量是可证伪的回测与验证层（未来函数探测 / 样本内外切分 / t检验 / 基准对比） |
+| 12 | [scrapfly/scrapfly-cli](https://github.com/scrapfly/scrapfly-cli) | 5 | Go | 2026-10-12 | Agentic CLI for the Scrapfly platform: scrape, extract, crawl, and drive a cloud browser over CDP. Built-in LLM agent wi |
+| 13 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-10-12 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 14 | [yilewang/llm-for-zotero](https://github.com/yilewang/llm-for-zotero) | 3278 | TypeScript | 2026-10-12 | An open-source research agent system for your Zotero library. |
+| 15 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 2 | C++ | 2026-10-12 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
+| 16 | [brutal-45/Nexus-LLM](https://github.com/brutal-45/Nexus-LLM) | 0 | Python | 2026-10-12 | Nexus-LLM is LLM ai model which can run locally on your device. |
 | 17 | [Torvian-eu/chatbot](https://github.com/Torvian-eu/chatbot) | 4 | Kotlin | 2026-10-12 | Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open |
 | 18 | [solakli/wax-digger](https://github.com/solakli/wax-digger) | 0 | — | 2026-10-12 | Buy your Discogs wantlist for the cheapest total including shipping. The cart optimizer solves a facility-location appro |
 | 19 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-12 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
