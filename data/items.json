@@ -1,12 +1,120 @@
 [
   {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 349,
+    "updated_at": "2026-10-12T09:13:30Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
+    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
+    "id": "memoways/ava-proto1",
+    "language": "TypeScript",
+    "name": "memoways/ava-proto1",
+    "stars": 0,
+    "updated_at": "2026-10-12T09:12:42Z",
+    "url": "https://github.com/memoways/ava-proto1"
+  },
+  {
+    "description": "An AI companion that decides when to stay silent \u2014 heartbeat-driven proactive dialogue with 16-dim emotion engine and co",
+    "id": "olise366oi/kairos-agent",
+    "language": "Python",
+    "name": "olise366oi/kairos-agent",
+    "stars": 1,
+    "updated_at": "2026-10-12T09:11:23Z",
+    "url": "https://github.com/olise366oi/kairos-agent"
+  },
+  {
+    "description": "\u58a8\u8bb0 \u00b7 \u8bba\u6587\u5199\u4f5c\u667a\u80fd\u4f53\uff1a\u901a\u7528\u578b\u4e2d\u6587\u5b66\u672f\u8bba\u6587\u5199\u4f5c Agent\uff08\u9879\u76ee\u7406\u89e3 + \u9886\u57df\u81ea\u9002\u5e94 + \u53cc\u77e5\u8bc6\u5e93 RAG + \u591a\u6a21\u6001\u6587\u732e\u5f15\u64ce + RBAC \u591a\u7528\u6237\uff09",
+    "id": "hlh-syd/moji-paper-agent",
+    "language": "Python",
+    "name": "hlh-syd/moji-paper-agent",
+    "stars": 0,
+    "updated_at": "2026-10-12T09:09:03Z",
+    "url": "https://github.com/hlh-syd/moji-paper-agent"
+  },
+  {
+    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
+    "id": "eshanized/M31A",
+    "language": "Rust",
+    "name": "eshanized/M31A",
+    "stars": 10,
+    "updated_at": "2026-10-12T09:08:30Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
+    "id": "QQSHI13/fox-agent",
+    "language": "TypeScript",
+    "name": "QQSHI13/fox-agent",
+    "stars": 2,
+    "updated_at": "2026-10-12T09:06:14Z",
+    "url": "https://github.com/QQSHI13/fox-agent"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-12T09:05:21Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
     "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
     "id": "Jongtae/agentos",
     "language": "Python",
     "name": "Jongtae/agentos",
     "stars": 0,
-    "updated_at": "2026-10-12T08:59:30Z",
+    "updated_at": "2026-10-12T09:14:51Z",
     "url": "https://github.com/Jongtae/agentos"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-12T09:03:39Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "A small Python harness that keeps an LLM coding agent on track: durable memory, a code graph, a live todo plan, and loop",
+    "id": "dy2is/kern",
+    "language": "Python",
+    "name": "dy2is/kern",
+    "stars": 2,
+    "updated_at": "2026-10-12T09:03:17Z",
+    "url": "https://github.com/dy2is/kern"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-12T09:07:51Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "\ud83e\udd16 Lightweight, message-first agent runtime",
+    "id": "Cognipeer/agent-sdk",
+    "language": "TypeScript",
+    "name": "Cognipeer/agent-sdk",
+    "stars": 7,
+    "updated_at": "2026-10-12T09:02:58Z",
+    "url": "https://github.com/Cognipeer/agent-sdk"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 130,
+    "updated_at": "2026-10-12T08:58:09Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
   },
   {
     "description": "Distilly \u2014 Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill\uff08\u539f\u540c\u4e8b Skill\uff09.",
@@ -41,7 +149,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-12T08:55:44Z",
+    "updated_at": "2026-10-12T09:11:38Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -59,7 +167,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-10-12T08:51:12Z",
+    "updated_at": "2026-10-12T09:11:06Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -81,24 +189,6 @@
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
-    "description": "An AI companion that decides when to stay silent \u2014 heartbeat-driven proactive dialogue with 16-dim emotion engine and co",
-    "id": "olise366oi/kairos-agent",
-    "language": "Python",
-    "name": "olise366oi/kairos-agent",
-    "stars": 1,
-    "updated_at": "2026-10-12T08:49:18Z",
-    "url": "https://github.com/olise366oi/kairos-agent"
-  },
-  {
-    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
-    "id": "QQSHI13/fox-agent",
-    "language": "TypeScript",
-    "name": "QQSHI13/fox-agent",
-    "stars": 2,
-    "updated_at": "2026-10-12T08:48:40Z",
-    "url": "https://github.com/QQSHI13/fox-agent"
-  },
-  {
     "description": "Open-source, self-hostable AppSec agent that finds, proves, and helps fix web/API vulnerabilities \u2014 evidence-first (inde",
     "id": "NitinReddy-A/Rampart",
     "language": "Python",
@@ -106,15 +196,6 @@
     "stars": 5,
     "updated_at": "2026-10-12T08:49:30Z",
     "url": "https://github.com/NitinReddy-A/Rampart"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-12T08:48:12Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
@@ -133,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T08:48:30Z",
     "url": "https://github.com/xhqing/ExecutiveAssistantAgent"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-12T08:46:09Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "A\u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\uff1a\u80a1\u7968\u5206\u6790\u3001\u91cf\u5316\u4ea4\u6613\u5206\u6790\u3001\u76d8\u540e\u590d\u76d8\u684c\u9762\u5de5\u4f5c\u53f0\u2014\u2014easy stock",
@@ -180,24 +252,6 @@
     "url": "https://github.com/Fongkai777/wechat-agent"
   },
   {
-    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
-    "id": "memoways/ava-proto1",
-    "language": "TypeScript",
-    "name": "memoways/ava-proto1",
-    "stars": 0,
-    "updated_at": "2026-10-12T08:40:15Z",
-    "url": "https://github.com/memoways/ava-proto1"
-  },
-  {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-12T08:40:11Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
     "description": "Self-evolving long-term memory plugin for opencode: sessions become a decision tree, retrieval never regresses, and a st",
     "id": "897243839/dream-RSI-memory",
     "language": "TypeScript",
@@ -212,7 +266,7 @@
     "language": "Python",
     "name": "cheeezis/job_finder",
     "stars": 0,
-    "updated_at": "2026-10-12T08:34:05Z",
+    "updated_at": "2026-10-12T09:12:41Z",
     "url": "https://github.com/cheeezis/job_finder"
   },
   {
@@ -221,17 +275,8 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-10-12T08:30:51Z",
+    "updated_at": "2026-10-12T09:10:23Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "A small Python harness that keeps an LLM coding agent on track: durable memory, a code graph, a live todo plan, and loop",
-    "id": "dy2is/kern",
-    "language": "Python",
-    "name": "dy2is/kern",
-    "stars": 2,
-    "updated_at": "2026-10-12T08:30:26Z",
-    "url": "https://github.com/dy2is/kern"
   },
   {
     "description": "Build and run agents you can see, understand and trust.",
@@ -266,7 +311,7 @@
     "language": "Go",
     "name": "agentscope-ai/agentscope-go",
     "stars": 55,
-    "updated_at": "2026-10-12T08:36:54Z",
+    "updated_at": "2026-10-12T09:11:09Z",
     "url": "https://github.com/agentscope-ai/agentscope-go"
   },
   {
@@ -286,15 +331,6 @@
     "stars": 2,
     "updated_at": "2026-10-12T08:21:11Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 349,
-    "updated_at": "2026-10-12T08:56:38Z",
-    "url": "https://github.com/yologdev/yoagent"
   },
   {
     "description": "Generate rich YuE2 audio in ComfyUI with six modular nodes\u2014hum-to-song, LoRA and adapter support\u2014no stock nodes needed.",
@@ -320,7 +356,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 37,
-    "updated_at": "2026-10-12T08:42:11Z",
+    "updated_at": "2026-10-12T09:01:20Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -400,7 +436,7 @@
     "id": "ant-research/AntOmniEvo",
     "language": "Python",
     "name": "ant-research/AntOmniEvo",
-    "stars": 979,
+    "stars": 980,
     "updated_at": "2026-10-12T08:07:30Z",
     "url": "https://github.com/ant-research/AntOmniEvo"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-12T08:07:25Z",
     "url": "https://github.com/jianingliu25/campus-flow"
-  },
-  {
-    "description": "Voyager \u00d7 VLML \u00d7 \u732b\u5a18\u4f34\u5b66\uff1a\u628a\u300c\u5b66\u4e60\u8005\u300d\u6362\u6210 agent \u7684\u6700\u5c0f\u53ef\u6267\u884c\u539f\u578b\uff08\u9762\u677f\u5df2\u4e0a\u817e\u8baf\u4e91\uff09",
-    "id": "Zxy876/voyager-vlml-mve",
-    "language": "Python",
-    "name": "Zxy876/voyager-vlml-mve",
-    "stars": 1,
-    "updated_at": "2026-10-12T08:04:38Z",
-    "url": "https://github.com/Zxy876/voyager-vlml-mve"
-  },
-  {
-    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
-    "id": "kyleslight/shun",
-    "language": "TypeScript",
-    "name": "kyleslight/shun",
-    "stars": 7,
-    "updated_at": "2026-10-12T08:04:25Z",
-    "url": "https://github.com/kyleslight/shun"
-  },
-  {
-    "description": "Automate file management and coding tasks in your local directory using small language models.",
-    "id": "pruthviraj00007/VibeHarness",
-    "language": "Python",
-    "name": "pruthviraj00007/VibeHarness",
-    "stars": 0,
-    "updated_at": "2026-10-12T08:03:47Z",
-    "url": "https://github.com/pruthviraj00007/VibeHarness"
-  },
-  {
-    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
-    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
-    "language": "Go",
-    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
-    "stars": 0,
-    "updated_at": "2026-10-12T08:02:17Z",
-    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
   }
 ]
