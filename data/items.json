@@ -1,21 +1,57 @@
 [
   {
-    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
-    "id": "alexwkleung/reika",
-    "language": "TypeScript",
-    "name": "alexwkleung/reika",
-    "stars": 9,
-    "updated_at": "2026-10-13T06:28:35Z",
-    "url": "https://github.com/alexwkleung/reika"
-  },
-  {
     "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
     "id": "memoways/ava-proto1",
     "language": "TypeScript",
     "name": "memoways/ava-proto1",
     "stars": 0,
-    "updated_at": "2026-10-13T06:28:12Z",
+    "updated_at": "2026-10-13T06:44:53Z",
     "url": "https://github.com/memoways/ava-proto1"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-10-13T06:44:30Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
+    "id": "QQSHI13/fox-agent",
+    "language": "TypeScript",
+    "name": "QQSHI13/fox-agent",
+    "stars": 2,
+    "updated_at": "2026-10-13T06:43:29Z",
+    "url": "https://github.com/QQSHI13/fox-agent"
+  },
+  {
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 4,
+    "updated_at": "2026-10-13T06:42:13Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "A production-grade Multi-Vendor Food Delivery Platform with AI Chatbot (Groq LLM), Real-Time GPS Tracking (Socket.io), B",
+    "id": "theunstopabble/SwadKart",
+    "language": "JavaScript",
+    "name": "theunstopabble/SwadKart",
+    "stars": 17,
+    "updated_at": "2026-10-13T06:39:08Z",
+    "url": "https://github.com/theunstopabble/SwadKart"
+  },
+  {
+    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
+    "id": "zty522/partner",
+    "language": "Python",
+    "name": "zty522/partner",
+    "stars": 5,
+    "updated_at": "2026-10-13T06:36:18Z",
+    "url": "https://github.com/zty522/partner"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -23,8 +59,17 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-10-13T06:29:37Z",
+    "updated_at": "2026-10-13T06:31:14Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
+    "id": "alexwkleung/reika",
+    "language": "TypeScript",
+    "name": "alexwkleung/reika",
+    "stars": 9,
+    "updated_at": "2026-10-13T06:28:35Z",
+    "url": "https://github.com/alexwkleung/reika"
   },
   {
     "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
@@ -54,31 +99,13 @@
     "url": "https://github.com/Fongkai777/wechat-agent"
   },
   {
-    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
-    "id": "zty522/partner",
-    "language": "Python",
-    "name": "zty522/partner",
-    "stars": 5,
-    "updated_at": "2026-10-13T06:20:20Z",
-    "url": "https://github.com/zty522/partner"
-  },
-  {
     "description": "Fix context rot & pollution in long AI agent sessions. Subagents run in isolated processes \u2014 main agent stays read-only.",
     "id": "Wolido/async-subagent-isolation",
     "language": "TypeScript",
     "name": "Wolido/async-subagent-isolation",
     "stars": 5,
-    "updated_at": "2026-10-13T06:18:19Z",
+    "updated_at": "2026-10-13T06:34:30Z",
     "url": "https://github.com/Wolido/async-subagent-isolation"
-  },
-  {
-    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
-    "id": "QQSHI13/fox-agent",
-    "language": "TypeScript",
-    "name": "QQSHI13/fox-agent",
-    "stars": 2,
-    "updated_at": "2026-10-13T06:16:46Z",
-    "url": "https://github.com/QQSHI13/fox-agent"
   },
   {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
@@ -135,22 +162,22 @@
     "url": "https://github.com/camel-ai/tokin"
   },
   {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 4,
-    "updated_at": "2026-10-13T05:59:26Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
-  },
-  {
     "description": "An auto-evolution framework that optimizes anything \u2014 your 7\u00d724 team of algorithm engineers.",
     "id": "ant-research/AntOmniEvo",
     "language": "Python",
     "name": "ant-research/AntOmniEvo",
-    "stars": 881,
+    "stars": 886,
     "updated_at": "2026-10-13T05:59:09Z",
     "url": "https://github.com/ant-research/AntOmniEvo"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 6177,
+    "updated_at": "2026-10-13T05:58:07Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "Hybrid Multimodal Document RAG",
@@ -166,7 +193,7 @@
     "id": "titanwings/distilly",
     "language": "Python",
     "name": "titanwings/distilly",
-    "stars": 25546,
+    "stars": 25547,
     "updated_at": "2026-10-13T05:57:17Z",
     "url": "https://github.com/titanwings/distilly"
   },
@@ -194,7 +221,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-10-13T05:52:00Z",
+    "updated_at": "2026-10-13T06:39:38Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -266,7 +293,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 2,
-    "updated_at": "2026-10-13T06:22:59Z",
+    "updated_at": "2026-10-13T06:40:48Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 53,
     "updated_at": "2026-10-13T05:10:34Z",
     "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
-    "id": "chadwickhyperboloidal943/knowl",
-    "language": "TypeScript",
-    "name": "chadwickhyperboloidal943/knowl",
-    "stars": 0,
-    "updated_at": "2026-10-13T05:08:18Z",
-    "url": "https://github.com/chadwickhyperboloidal943/knowl"
-  },
-  {
-    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
-    "id": "Laurenfeminine36/google-jules-skill",
-    "language": "Python",
-    "name": "Laurenfeminine36/google-jules-skill",
-    "stars": 1,
-    "updated_at": "2026-10-13T05:08:10Z",
-    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-10-13T05:07:57Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
   }
 ]
