@@ -1,12 +1,30 @@
 [
   {
-    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
-    "id": "agentscope-ai/agentscope-go",
-    "language": "Go",
-    "name": "agentscope-ai/agentscope-go",
-    "stars": 57,
-    "updated_at": "2026-10-13T03:58:19Z",
-    "url": "https://github.com/agentscope-ai/agentscope-go"
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 20,
+    "updated_at": "2026-10-13T04:13:05Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-10-13T04:10:56Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-13T04:09:50Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
@@ -14,8 +32,35 @@
     "language": "Python",
     "name": "lzmd-arch/BioSNN-Plug",
     "stars": 4,
-    "updated_at": "2026-10-13T03:57:19Z",
+    "updated_at": "2026-10-13T04:04:55Z",
     "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 4,
+    "updated_at": "2026-10-13T04:03:16Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "An auto-evolution framework that optimizes anything \u2014 your 7\u00d724 team of algorithm engineers.",
+    "id": "ant-research/AntOmniEvo",
+    "language": "Python",
+    "name": "ant-research/AntOmniEvo",
+    "stars": 858,
+    "updated_at": "2026-10-13T04:02:24Z",
+    "url": "https://github.com/ant-research/AntOmniEvo"
+  },
+  {
+    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
+    "id": "agentscope-ai/agentscope-go",
+    "language": "Go",
+    "name": "agentscope-ai/agentscope-go",
+    "stars": 57,
+    "updated_at": "2026-10-13T03:58:19Z",
+    "url": "https://github.com/agentscope-ai/agentscope-go"
   },
   {
     "description": "Voyager \u00d7 VLML \u00d7 \u732b\u5a18\u4f34\u5b66\uff1a\u628a\u300c\u5b66\u4e60\u8005\u300d\u6362\u6210 agent \u7684\u6700\u5c0f\u53ef\u6267\u884c\u539f\u578b\uff08\u9762\u677f\u5df2\u4e0a\u817e\u8baf\u4e91\uff09",
@@ -31,7 +76,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 33154,
+    "stars": 33155,
     "updated_at": "2026-10-13T03:56:52Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -41,7 +86,7 @@
     "language": "TypeScript",
     "name": "NatanTechofNY/fieldnote-assistant",
     "stars": 5,
-    "updated_at": "2026-10-13T03:55:51Z",
+    "updated_at": "2026-10-13T04:11:03Z",
     "url": "https://github.com/NatanTechofNY/fieldnote-assistant"
   },
   {
@@ -180,15 +225,6 @@
     "url": "https://github.com/njfuzrs/agent-backend"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-13T03:08:47Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -205,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-13T02:57:31Z",
     "url": "https://github.com/chunleik/self-analyst"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-10-13T02:59:42Z",
-    "url": "https://github.com/JSL107/personal_agents"
   },
   {
     "description": "Open source AI agent for macOS (MIT). One Command Panel for your mail, calendar, meetings, files and a shell it can undo",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-13T02:08:47Z",
     "url": "https://github.com/Samuelcluttered613/paper2code"
-  },
-  {
-    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
-    "id": "Bastioned-successor320/learn-nanobot",
-    "language": "Python",
-    "name": "Bastioned-successor320/learn-nanobot",
-    "stars": 12,
-    "updated_at": "2026-10-13T02:08:34Z",
-    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
-  },
-  {
-    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
-    "id": "tessellated-statisticalcommission243/deep-research-skill",
-    "language": "\u2014",
-    "name": "tessellated-statisticalcommission243/deep-research-skill",
-    "stars": 4,
-    "updated_at": "2026-10-13T02:08:30Z",
-    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "Experimental DSH Minimal trajectory-steering adapters for DeepSeek V4 Pro on Pi, Oh My Pi, and OpenCode V2. \u63a8\u7406\u8f68\u8ff9\u5f15\u5bfc\u5b9e\u9a8c\u3002",
-    "id": "vavilonska/SeekAnchor",
-    "language": "TypeScript",
-    "name": "vavilonska/SeekAnchor",
-    "stars": 18,
-    "updated_at": "2026-10-13T02:07:27Z",
-    "url": "https://github.com/vavilonska/SeekAnchor"
   }
 ]
