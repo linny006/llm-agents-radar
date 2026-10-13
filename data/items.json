@@ -1,12 +1,57 @@
 [
   {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-13T17:59:49Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
+    "id": "kyleslight/shun",
+    "language": "TypeScript",
+    "name": "kyleslight/shun",
+    "stars": 7,
+    "updated_at": "2026-10-13T17:59:04Z",
+    "url": "https://github.com/kyleslight/shun"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 12,
+    "updated_at": "2026-10-13T17:58:51Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "Voyager \u00d7 VLML \u00d7 \u732b\u5a18\u4f34\u5b66\uff1a\u628a\u300c\u5b66\u4e60\u8005\u300d\u6362\u6210 agent \u7684\u6700\u5c0f\u53ef\u6267\u884c\u539f\u578b\uff08\u9762\u677f\u5df2\u4e0a\u817e\u8baf\u4e91\uff09",
     "id": "Zxy876/voyager-vlml-mve",
     "language": "Python",
     "name": "Zxy876/voyager-vlml-mve",
     "stars": 1,
-    "updated_at": "2026-10-13T17:43:48Z",
+    "updated_at": "2026-10-13T17:52:34Z",
     "url": "https://github.com/Zxy876/voyager-vlml-mve"
+  },
+  {
+    "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
+    "id": "SugarMGP/MumuBot",
+    "language": "Go",
+    "name": "SugarMGP/MumuBot",
+    "stars": 25,
+    "updated_at": "2026-10-13T17:51:50Z",
+    "url": "https://github.com/SugarMGP/MumuBot"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 6,
+    "updated_at": "2026-10-13T17:48:07Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "The coordination layer for Multiplayer AI",
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "cohexa-ai/agent-coherence",
     "stars": 11,
-    "updated_at": "2026-10-13T17:44:21Z",
+    "updated_at": "2026-10-13T17:46:23Z",
     "url": "https://github.com/cohexa-ai/agent-coherence"
   },
   {
@@ -162,15 +207,6 @@
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-13T17:44:43Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "AI-native coding governance framework, architecture-agnostic: intent routing, red-line pre-commit gates, doc gardener, s",
     "id": "baixinghao/agent-tiller",
     "language": "Python",
@@ -261,15 +297,6 @@
     "url": "https://github.com/DylPorter/claude-telegram"
   },
   {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 6,
-    "updated_at": "2026-10-13T15:52:30Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
     "description": "Kali \u539f\u751f\u7684 LLM \u6e17\u900f\u6d4b\u8bd5 harness:\u5927\u6a21\u578b\u81ea\u4e3b\u9a71\u52a8 Kali \u5b8c\u6574\u5de5\u5177\u94fe,scope \u62a4\u680f + \u6301\u4e45 PTY + \u54c8\u5e0c\u94fe\u5ba1\u8ba1\u3002Python,GPL-3.0\u3002",
     "id": "Moxxkidd/foam",
     "language": "Python",
@@ -351,6 +378,15 @@
     "url": "https://github.com/b-macker/NAAb"
   },
   {
+    "description": "A multi-agent research system for the humanities and social sciences.",
+    "id": "Luciole-Studio/Misaka-Agent",
+    "language": "Python",
+    "name": "Luciole-Studio/Misaka-Agent",
+    "stars": 211,
+    "updated_at": "2026-10-13T15:27:04Z",
+    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
+  },
+  {
     "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
     "id": "edjafarov/kiagent-core",
     "language": "TypeScript",
@@ -376,15 +412,6 @@
     "stars": 79,
     "updated_at": "2026-10-13T15:20:03Z",
     "url": "https://github.com/xieguigang/sciBASIC"
-  },
-  {
-    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
-    "id": "kyleslight/shun",
-    "language": "TypeScript",
-    "name": "kyleslight/shun",
-    "stars": 7,
-    "updated_at": "2026-10-13T15:19:19Z",
-    "url": "https://github.com/kyleslight/shun"
   },
   {
     "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-13T15:07:17Z",
     "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
-  },
-  {
-    "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
-    "id": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
-    "language": "Python",
-    "name": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
-    "stars": 5,
-    "updated_at": "2026-10-13T15:06:01Z",
-    "url": "https://github.com/mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo"
-  },
-  {
-    "description": "Generate real-time AI human motion in Blender with NVIDIA ARDY, using text prompts, waypoints, and crowd simulation.",
-    "id": "passive-hotpepper515/CEB_Ardy",
-    "language": "Python",
-    "name": "passive-hotpepper515/CEB_Ardy",
-    "stars": 0,
-    "updated_at": "2026-10-13T15:05:04Z",
-    "url": "https://github.com/passive-hotpepper515/CEB_Ardy"
-  },
-  {
-    "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
-    "id": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
-    "language": "Python",
-    "name": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
-    "stars": 3,
-    "updated_at": "2026-10-13T15:04:58Z",
-    "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
   }
 ]
