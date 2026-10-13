@@ -5,8 +5,17 @@
     "language": "TypeScript",
     "name": "xanstomper/mochi",
     "stars": 0,
-    "updated_at": "2026-10-13T21:44:46Z",
+    "updated_at": "2026-10-13T21:56:17Z",
     "url": "https://github.com/xanstomper/mochi"
+  },
+  {
+    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
+    "id": "hsaghir/looplet",
+    "language": "Python",
+    "name": "hsaghir/looplet",
+    "stars": 7,
+    "updated_at": "2026-10-13T21:46:28Z",
+    "url": "https://github.com/hsaghir/looplet"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -302,7 +311,7 @@
     "language": "Python",
     "name": "KaletoAI/anima-verse",
     "stars": 4,
-    "updated_at": "2026-10-13T20:48:34Z",
+    "updated_at": "2026-10-13T21:58:08Z",
     "url": "https://github.com/KaletoAI/anima-verse"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 12,
     "updated_at": "2026-10-13T20:53:44Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Code and data for \"Et Tu, Brute? Economic Misalignment in Personal AI Agents,\" reproduces the paper's finding that perso",
-    "id": "looni-lab/Adversarial-Delegation-AI-Economic-Misalignment",
-    "language": "HTML",
-    "name": "looni-lab/Adversarial-Delegation-AI-Economic-Misalignment",
-    "stars": 1,
-    "updated_at": "2026-10-13T19:23:14Z",
-    "url": "https://github.com/looni-lab/Adversarial-Delegation-AI-Economic-Misalignment"
   }
 ]
