@@ -1,5 +1,59 @@
 [
   {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-13T16:22:11Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8792,
+    "updated_at": "2026-10-13T16:22:01Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 25,
+    "updated_at": "2026-10-13T16:21:52Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-13T16:20:25Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "AI-native coding governance framework, architecture-agnostic: intent routing, red-line pre-commit gates, doc gardener, s",
+    "id": "baixinghao/agent-tiller",
+    "language": "Python",
+    "name": "baixinghao/agent-tiller",
+    "stars": 1,
+    "updated_at": "2026-10-13T16:17:39Z",
+    "url": "https://github.com/baixinghao/agent-tiller"
+  },
+  {
+    "description": "Personal QQ copilot: message archive with roaming backfill, multimodal LLM agent, RAG, WebUI/CLI. Speaks the Milky proto",
+    "id": "char-46/copilot-muze",
+    "language": "Python",
+    "name": "char-46/copilot-muze",
+    "stars": 0,
+    "updated_at": "2026-10-13T16:17:08Z",
+    "url": "https://github.com/char-46/copilot-muze"
+  },
+  {
     "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
     "id": "memoways/ava-proto1",
     "language": "TypeScript",
@@ -36,15 +90,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8792,
-    "updated_at": "2026-10-13T16:07:23Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "Deterministic orchestration, execution assurance, and quota-aware continuity runtime for GLM coding agents in ZCode",
     "id": "Chengy257/glm-conductor",
     "language": "Python",
@@ -79,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-13T15:58:13Z",
     "url": "https://github.com/Jongtae/agentos"
-  },
-  {
-    "description": "Personal QQ copilot: message archive with roaming backfill, multimodal LLM agent, RAG, WebUI/CLI. Speaks the Milky proto",
-    "id": "char-46/copilot-muze",
-    "language": "Python",
-    "name": "char-46/copilot-muze",
-    "stars": 0,
-    "updated_at": "2026-10-13T15:57:12Z",
-    "url": "https://github.com/char-46/copilot-muze"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-13T16:15:14Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
@@ -157,7 +184,7 @@
     "id": "yologdev/yoagent",
     "language": "Rust",
     "name": "yologdev/yoagent",
-    "stars": 355,
+    "stars": 356,
     "updated_at": "2026-10-13T15:37:43Z",
     "url": "https://github.com/yologdev/yoagent"
   },
@@ -167,17 +194,8 @@
     "language": "Python",
     "name": "lefan17/agent-test-hub",
     "stars": 2,
-    "updated_at": "2026-10-13T16:10:14Z",
+    "updated_at": "2026-10-13T16:17:35Z",
     "url": "https://github.com/lefan17/agent-test-hub"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 25,
-    "updated_at": "2026-10-13T15:36:04Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -212,7 +230,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 2,
-    "updated_at": "2026-10-13T15:30:52Z",
+    "updated_at": "2026-10-13T16:26:11Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -225,20 +243,11 @@
     "url": "https://github.com/edjafarov/kiagent-core"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-13T15:21:14Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "SRE Agent - CNCF Sandbox Project",
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 3583,
+    "stars": 3584,
     "updated_at": "2026-10-13T15:20:11Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-13T14:48:36Z",
     "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-10-13T14:45:01Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
   }
 ]
