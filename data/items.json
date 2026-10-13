@@ -1,12 +1,30 @@
 [
   {
-    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
-    "id": "shimo4228/contemplative-agent",
+    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
+    "id": "eshanized/M31A",
+    "language": "Rust",
+    "name": "eshanized/M31A",
+    "stars": 10,
+    "updated_at": "2026-10-13T11:59:36Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "id": "lsdefine/GenericAgent",
     "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 7,
-    "updated_at": "2026-10-13T11:43:11Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
+    "name": "lsdefine/GenericAgent",
+    "stars": 14307,
+    "updated_at": "2026-10-13T11:57:43Z",
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
+    "id": "ximing/vital",
+    "language": "TypeScript",
+    "name": "ximing/vital",
+    "stars": 3,
+    "updated_at": "2026-10-13T11:57:41Z",
+    "url": "https://github.com/ximing/vital"
   },
   {
     "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
@@ -14,8 +32,71 @@
     "language": "TypeScript",
     "name": "xanstomper/mochi",
     "stars": 0,
-    "updated_at": "2026-10-13T11:39:42Z",
+    "updated_at": "2026-10-13T11:57:35Z",
     "url": "https://github.com/xanstomper/mochi"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-10-13T11:56:59Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
+    "description": "Experimental TypeScript plugin for STM/SPM control in DeepSeek Harness, with simulator workflows, persistent tool record",
+    "id": "HamsterPark/dsh-spm",
+    "language": "TypeScript",
+    "name": "HamsterPark/dsh-spm",
+    "stars": 2,
+    "updated_at": "2026-10-13T11:56:36Z",
+    "url": "https://github.com/HamsterPark/dsh-spm"
+  },
+  {
+    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
+    "id": "zty522/partner",
+    "language": "Python",
+    "name": "zty522/partner",
+    "stars": 5,
+    "updated_at": "2026-10-13T11:53:10Z",
+    "url": "https://github.com/zty522/partner"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-13T11:55:57Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
+    "id": "roxm337/osint-agent",
+    "language": "Python",
+    "name": "roxm337/osint-agent",
+    "stars": 0,
+    "updated_at": "2026-10-13T11:49:10Z",
+    "url": "https://github.com/roxm337/osint-agent"
+  },
+  {
+    "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
+    "id": "Jongtae/agentos",
+    "language": "Python",
+    "name": "Jongtae/agentos",
+    "stars": 0,
+    "updated_at": "2026-10-13T11:46:00Z",
+    "url": "https://github.com/Jongtae/agentos"
+  },
+  {
+    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
+    "id": "shimo4228/contemplative-agent",
+    "language": "Python",
+    "name": "shimo4228/contemplative-agent",
+    "stars": 7,
+    "updated_at": "2026-10-13T11:43:11Z",
+    "url": "https://github.com/shimo4228/contemplative-agent"
   },
   {
     "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
@@ -27,15 +108,6 @@
     "url": "https://github.com/OtakuNathan/Pal"
   },
   {
-    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
-    "id": "zty522/partner",
-    "language": "Python",
-    "name": "zty522/partner",
-    "stars": 5,
-    "updated_at": "2026-10-13T11:36:52Z",
-    "url": "https://github.com/zty522/partner"
-  },
-  {
     "description": "Single-user Hebrew/English personal assistant: Cloudflare Workers + SQLite Durable Object, Groq tool-calling agent where",
     "id": "tzur669-lab/whatsapp-assistant",
     "language": "TypeScript",
@@ -43,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-13T11:26:38Z",
     "url": "https://github.com/tzur669-lab/whatsapp-assistant"
-  },
-  {
-    "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
-    "id": "roxm337/osint-agent",
-    "language": "Python",
-    "name": "roxm337/osint-agent",
-    "stars": 0,
-    "updated_at": "2026-10-13T11:18:44Z",
-    "url": "https://github.com/roxm337/osint-agent"
   },
   {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
@@ -162,15 +225,6 @@
     "url": "https://github.com/konglong87/go-e2e"
   },
   {
-    "description": "Experimental TypeScript plugin for STM/SPM control in DeepSeek Harness, with simulator workflows, persistent tool record",
-    "id": "HamsterPark/dsh-spm",
-    "language": "TypeScript",
-    "name": "HamsterPark/dsh-spm",
-    "stars": 2,
-    "updated_at": "2026-10-13T11:25:07Z",
-    "url": "https://github.com/HamsterPark/dsh-spm"
-  },
-  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
@@ -178,15 +232,6 @@
     "stars": 33172,
     "updated_at": "2026-10-13T10:55:20Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-13T11:32:00Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "\u8b93 Jev \u6a21\u578b\u6253\u7210\u77f3\u6230\u8a18\u7684\u6a5f\u5668\u4eba\uff1a\u8b80 Power.log \u5224\u8b80\u76e4\u9762\uff0c\u898f\u5247\u8207\u641c\u5c0b\u526a\u679d\u5f8c\u7531\u6a21\u578b\u9078\u4e00\u6b65\uff0c\u518d\u7528\u6ed1\u9f20\u9ede\u51fa\u4f86\u3002\u542b\u68c4\u724c\u8853\u6253\u6cd5\u8207\u7121\u4eba\u503c\u5b88\u5929\u68af\u8173\u672c\u3002",
@@ -239,7 +284,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3580,
-    "updated_at": "2026-10-13T11:34:18Z",
+    "updated_at": "2026-10-13T11:51:32Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -383,7 +428,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5828,
-    "updated_at": "2026-10-13T11:43:37Z",
+    "updated_at": "2026-10-13T11:49:42Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-13T10:17:55Z",
     "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "A local, citation-backed knowledge assistant for searching and tracking information across WeChat conversations.",
-    "id": "Fongkai777/wechat-agent",
-    "language": "Python",
-    "name": "Fongkai777/wechat-agent",
-    "stars": 0,
-    "updated_at": "2026-10-13T10:16:33Z",
-    "url": "https://github.com/Fongkai777/wechat-agent"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-10-13T10:16:24Z",
-    "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-10-13T10:13:00Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-10-13T10:12:42Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 4,
-    "updated_at": "2026-10-13T10:30:37Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   }
 ]
