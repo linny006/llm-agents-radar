@@ -1,11 +1,128 @@
 [
   {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-10-13T10:44:49Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Local-first open-source AI coding agent built with Go \u2014 Desktop, CLI, TUI, WebUI, MCP, Skills, multi-agent workflows, an",
+    "id": "konglong87/go-e2e",
+    "language": "Go",
+    "name": "konglong87/go-e2e",
+    "stars": 0,
+    "updated_at": "2026-10-13T10:40:37Z",
+    "url": "https://github.com/konglong87/go-e2e"
+  },
+  {
+    "description": "Self-hosted AIOps agent for DevOps: an AI ops copilot that investigates incidents on Linux servers and Kubernetes, finds",
+    "id": "Ayyush-Maheshwari/SupOps",
+    "language": "TypeScript",
+    "name": "Ayyush-Maheshwari/SupOps",
+    "stars": 0,
+    "updated_at": "2026-10-13T10:40:32Z",
+    "url": "https://github.com/Ayyush-Maheshwari/SupOps"
+  },
+  {
+    "description": "Executive Assistant Kit | Gig hunting & general coordination. \u603b\u7ecf\u7406\u52a9\u7406\u2014\u2014\u627e\u5355\u63a5\u6d3b\u5165\u53e3\u4e0e\u7efc\u5408\u4e8b\u52a1\u534f\u8c03\u3002",
+    "id": "xhqing/ExecutiveAssistantAgent",
+    "language": "\u2014",
+    "name": "xhqing/ExecutiveAssistantAgent",
+    "stars": 0,
+    "updated_at": "2026-10-13T10:40:15Z",
+    "url": "https://github.com/xhqing/ExecutiveAssistantAgent"
+  },
+  {
+    "description": "Generate real-time AI human motion in Blender with NVIDIA ARDY, using text prompts, waypoints, and crowd simulation.",
+    "id": "passive-hotpepper515/CEB_Ardy",
+    "language": "Python",
+    "name": "passive-hotpepper515/CEB_Ardy",
+    "stars": 0,
+    "updated_at": "2026-10-13T10:39:10Z",
+    "url": "https://github.com/passive-hotpepper515/CEB_Ardy"
+  },
+  {
+    "description": "A self-hosted Telegram AI bot powered by Ollama, with persistent memory, custom personalities, and real-time streaming.",
+    "id": "Ali-Sdg90/Fabrexa-AI-Ollama",
+    "language": "JavaScript",
+    "name": "Ali-Sdg90/Fabrexa-AI-Ollama",
+    "stars": 0,
+    "updated_at": "2026-10-13T10:38:52Z",
+    "url": "https://github.com/Ali-Sdg90/Fabrexa-AI-Ollama"
+  },
+  {
+    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
+    "id": "memoways/ava-proto1",
+    "language": "TypeScript",
+    "name": "memoways/ava-proto1",
+    "stars": 0,
+    "updated_at": "2026-10-13T10:37:58Z",
+    "url": "https://github.com/memoways/ava-proto1"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3580,
+    "updated_at": "2026-10-13T10:39:08Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
+    "description": "Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi",
+    "id": "zig333/ELAI-archive",
+    "language": "\u2014",
+    "name": "zig333/ELAI-archive",
+    "stars": 0,
+    "updated_at": "2026-10-13T10:36:34Z",
+    "url": "https://github.com/zig333/ELAI-archive"
+  },
+  {
+    "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
+    "id": "brittewestafrican981/ComfyUI-YinChao",
+    "language": "Python",
+    "name": "brittewestafrican981/ComfyUI-YinChao",
+    "stars": 1,
+    "updated_at": "2026-10-13T10:34:52Z",
+    "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
+  },
+  {
+    "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
+    "id": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
+    "language": "Python",
+    "name": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
+    "stars": 5,
+    "updated_at": "2026-10-13T10:33:02Z",
+    "url": "https://github.com/mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo"
+  },
+  {
+    "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
+    "id": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
+    "language": "Python",
+    "name": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
+    "stars": 3,
+    "updated_at": "2026-10-13T10:31:51Z",
+    "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
+  },
+  {
+    "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
+    "id": "EpsteinF1les/tts",
+    "language": "\u2014",
+    "name": "EpsteinF1les/tts",
+    "stars": 0,
+    "updated_at": "2026-10-13T10:31:00Z",
+    "url": "https://github.com/EpsteinF1les/tts"
+  },
+  {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
     "stars": 1148,
-    "updated_at": "2026-10-13T10:29:41Z",
+    "updated_at": "2026-10-13T10:32:33Z",
     "url": "https://github.com/ongridio/ongrid"
   },
   {
@@ -23,7 +140,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-13T10:25:28Z",
+    "updated_at": "2026-10-13T10:41:40Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -99,15 +216,6 @@
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
-    "description": "Local-first open-source AI coding agent built with Go \u2014 Desktop, CLI, TUI, WebUI, MCP, Skills, multi-agent workflows, an",
-    "id": "konglong87/go-e2e",
-    "language": "Go",
-    "name": "konglong87/go-e2e",
-    "stars": 0,
-    "updated_at": "2026-10-13T10:19:42Z",
-    "url": "https://github.com/konglong87/go-e2e"
-  },
-  {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
@@ -131,7 +239,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5828,
-    "updated_at": "2026-10-13T10:23:02Z",
+    "updated_at": "2026-10-13T10:38:43Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -203,7 +311,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 4,
-    "updated_at": "2026-10-13T10:11:51Z",
+    "updated_at": "2026-10-13T10:30:37Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -340,113 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-13T09:48:47Z",
     "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
-    "id": "Jongtae/agentos",
-    "language": "Python",
-    "name": "Jongtae/agentos",
-    "stars": 0,
-    "updated_at": "2026-10-13T09:47:04Z",
-    "url": "https://github.com/Jongtae/agentos"
-  },
-  {
-    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
-    "id": "SHUKLAO/call-with-ai-agent",
-    "language": "\u2014",
-    "name": "SHUKLAO/call-with-ai-agent",
-    "stars": 3,
-    "updated_at": "2026-10-13T09:43:13Z",
-    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
-    "id": "WP2-Danikusuma/AgentX",
-    "language": "HTML",
-    "name": "WP2-Danikusuma/AgentX",
-    "stars": 2,
-    "updated_at": "2026-10-13T09:42:39Z",
-    "url": "https://github.com/WP2-Danikusuma/AgentX"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-13T09:40:19Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
-    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
-    "id": "memoways/ava-proto1",
-    "language": "TypeScript",
-    "name": "memoways/ava-proto1",
-    "stars": 0,
-    "updated_at": "2026-10-13T10:27:35Z",
-    "url": "https://github.com/memoways/ava-proto1"
-  },
-  {
-    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
-    "id": "zty522/partner",
-    "language": "Python",
-    "name": "zty522/partner",
-    "stars": 5,
-    "updated_at": "2026-10-13T09:28:29Z",
-    "url": "https://github.com/zty522/partner"
-  },
-  {
-    "description": "Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/",
-    "id": "ZekaiShi/evo-subagent",
-    "language": "JavaScript",
-    "name": "ZekaiShi/evo-subagent",
-    "stars": 7,
-    "updated_at": "2026-10-13T09:26:43Z",
-    "url": "https://github.com/ZekaiShi/evo-subagent"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 130,
-    "updated_at": "2026-10-13T09:25:58Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "\u8bc1\u636e\u7ea6\u675f\u7684\u4ee3\u7801\u8bca\u65ad\u5de5\u4f5c\u53f0\uff1a\u786e\u5b9a\u6027\u9759\u6001\u5206\u6790\u62e5\u6709\u6e90\u7801\u4e8b\u5b9e\uff0cLLM \u53ea\u63d0\u5047\u8bbe\uff0cresolver/validator \u51b3\u5b9a\u80fd\u5426\u7ed1\u5b9a\u56de\u771f\u5b9e\u64cd\u4f5c\u2014\u2014\u8bc1\u636e\u4e0d\u8db3\u4fdd\u6301 unknown/abstained\uff0c\u4ece\u67b6\u6784\u6291\u5236\u5e7b\u89c9\u3002\u5df2\u5728\u771f\u5b9e\u5f00\u6e90\u9879\u76ee\u53d1\u73b0 bug\uff08stun",
-    "id": "xianyu-sheng/SmartBench",
-    "language": "Python",
-    "name": "xianyu-sheng/SmartBench",
-    "stars": 2,
-    "updated_at": "2026-10-13T09:25:58Z",
-    "url": "https://github.com/xianyu-sheng/SmartBench"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 131,
-    "updated_at": "2026-10-13T09:25:06Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Agent \u81ea\u52a8\u6d4b\u8bd5\u7cfb\u7edf\uff1aLangGraph + LLM \u7f16\u6392\u7684 API/Web UI \u81ea\u52a8\u5316\u6d4b\u8bd5\uff0c\u4ece OpenAPI \u5951\u7ea6\u751f\u6210\u7528\u4f8b\u3001\u6267\u884c\u6d4b\u8bd5\u3001\u81ea\u52a8\u91cd\u8bd5\u4e0e\u7f3a\u9677\u5f52\u56e0\uff0c\u4ea7\u51fa\u53ef\u89c6\u5316\u62a5\u544a",
-    "id": "lefan17/agent-test-hub",
-    "language": "Python",
-    "name": "lefan17/agent-test-hub",
-    "stars": 2,
-    "updated_at": "2026-10-13T09:33:18Z",
-    "url": "https://github.com/lefan17/agent-test-hub"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3580,
-    "updated_at": "2026-10-13T10:29:10Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   }
 ]
