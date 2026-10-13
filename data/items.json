@@ -1,11 +1,128 @@
 [
   {
+    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
+    "id": "QQSHI13/fox-agent",
+    "language": "HTML",
+    "name": "QQSHI13/fox-agent",
+    "stars": 2,
+    "updated_at": "2026-10-13T10:13:23Z",
+    "url": "https://github.com/QQSHI13/fox-agent"
+  },
+  {
+    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
+    "id": "mezoali100/exforum-auto-poster",
+    "language": "\u2014",
+    "name": "mezoali100/exforum-auto-poster",
+    "stars": 1,
+    "updated_at": "2026-10-13T10:13:00Z",
+    "url": "https://github.com/mezoali100/exforum-auto-poster"
+  },
+  {
+    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
+    "id": "Bowotria/aethercore",
+    "language": "Go",
+    "name": "Bowotria/aethercore",
+    "stars": 2,
+    "updated_at": "2026-10-13T10:12:42Z",
+    "url": "https://github.com/Bowotria/aethercore"
+  },
+  {
+    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
+    "id": "agentscope-ai/agentscope-go",
+    "language": "Go",
+    "name": "agentscope-ai/agentscope-go",
+    "stars": 57,
+    "updated_at": "2026-10-13T10:12:32Z",
+    "url": "https://github.com/agentscope-ai/agentscope-go"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 4,
+    "updated_at": "2026-10-13T10:11:51Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
+    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "language": "Python",
+    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "stars": 5,
+    "updated_at": "2026-10-13T10:10:37Z",
+    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
+  },
+  {
+    "description": "Local-first open-source AI coding agent built with Go \u2014 Desktop, CLI, TUI, WebUI, MCP, Skills, multi-agent workflows, an",
+    "id": "konglong87/go-e2e",
+    "language": "Go",
+    "name": "konglong87/go-e2e",
+    "stars": 0,
+    "updated_at": "2026-10-13T10:07:33Z",
+    "url": "https://github.com/konglong87/go-e2e"
+  },
+  {
+    "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
+    "id": "cheeezis/job_finder",
+    "language": "Python",
+    "name": "cheeezis/job_finder",
+    "stars": 0,
+    "updated_at": "2026-10-13T10:07:00Z",
+    "url": "https://github.com/cheeezis/job_finder"
+  },
+  {
+    "description": "Single-user Hebrew/English personal assistant: Cloudflare Workers + SQLite Durable Object, Groq tool-calling agent where",
+    "id": "tzur669-lab/whatsapp-assistant",
+    "language": "TypeScript",
+    "name": "tzur669-lab/whatsapp-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-13T10:06:45Z",
+    "url": "https://github.com/tzur669-lab/whatsapp-assistant"
+  },
+  {
+    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
+    "id": "mohahasan/ios-agentic-skills",
+    "language": "JavaScript",
+    "name": "mohahasan/ios-agentic-skills",
+    "stars": 4,
+    "updated_at": "2026-10-13T10:06:36Z",
+    "url": "https://github.com/mohahasan/ios-agentic-skills"
+  },
+  {
+    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
+    "id": "Danisxxx/comfyUI-LongLook",
+    "language": "Python",
+    "name": "Danisxxx/comfyUI-LongLook",
+    "stars": 2,
+    "updated_at": "2026-10-13T10:01:19Z",
+    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
+  },
+  {
+    "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
+    "id": "chunleik/self-analyst",
+    "language": "Java",
+    "name": "chunleik/self-analyst",
+    "stars": 0,
+    "updated_at": "2026-10-13T10:08:31Z",
+    "url": "https://github.com/chunleik/self-analyst"
+  },
+  {
+    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
+    "id": "axxafo/awesome-agent-benchmarks",
+    "language": "\u2014",
+    "name": "axxafo/awesome-agent-benchmarks",
+    "stars": 4,
+    "updated_at": "2026-10-13T10:00:18Z",
+    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
+  },
+  {
     "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
     "id": "xhqing/DayTradingAgent",
     "language": "Python",
     "name": "xhqing/DayTradingAgent",
     "stars": 3,
-    "updated_at": "2026-10-13T09:59:24Z",
+    "updated_at": "2026-10-13T10:03:31Z",
     "url": "https://github.com/xhqing/DayTradingAgent"
   },
   {
@@ -36,13 +153,13 @@
     "url": "https://github.com/ximing/vital"
   },
   {
-    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
-    "id": "QQSHI13/fox-agent",
-    "language": "HTML",
-    "name": "QQSHI13/fox-agent",
-    "stars": 2,
-    "updated_at": "2026-10-13T09:56:33Z",
-    "url": "https://github.com/QQSHI13/fox-agent"
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 6181,
+    "updated_at": "2026-10-13T10:14:44Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
@@ -90,15 +207,6 @@
     "url": "https://github.com/areal-project/AReaL"
   },
   {
-    "description": "Single-user Hebrew/English personal assistant: Cloudflare Workers + SQLite Durable Object, Groq tool-calling agent where",
-    "id": "tzur669-lab/whatsapp-assistant",
-    "language": "TypeScript",
-    "name": "tzur669-lab/whatsapp-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-13T09:49:09Z",
-    "url": "https://github.com/tzur669-lab/whatsapp-assistant"
-  },
-  {
     "description": "",
     "id": "sanitprime/Advanced_Graph_RAG",
     "language": "Python",
@@ -122,17 +230,8 @@
     "language": "Python",
     "name": "neopen/story-shot-agent",
     "stars": 218,
-    "updated_at": "2026-10-13T09:47:02Z",
+    "updated_at": "2026-10-13T10:13:49Z",
     "url": "https://github.com/neopen/story-shot-agent"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 4,
-    "updated_at": "2026-10-13T09:55:29Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
@@ -167,7 +266,7 @@
     "language": "TypeScript",
     "name": "memoways/ava-proto1",
     "stars": 0,
-    "updated_at": "2026-10-13T09:36:42Z",
+    "updated_at": "2026-10-13T10:12:33Z",
     "url": "https://github.com/memoways/ava-proto1"
   },
   {
@@ -234,21 +333,12 @@
     "url": "https://github.com/lefan17/agent-test-hub"
   },
   {
-    "description": "Local-first open-source AI coding agent built with Go \u2014 Desktop, CLI, TUI, WebUI, MCP, Skills, multi-agent workflows, an",
-    "id": "konglong87/go-e2e",
-    "language": "Go",
-    "name": "konglong87/go-e2e",
-    "stars": 0,
-    "updated_at": "2026-10-13T09:18:21Z",
-    "url": "https://github.com/konglong87/go-e2e"
-  },
-  {
     "description": "SRE Agent - CNCF Sandbox Project",
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3580,
-    "updated_at": "2026-10-13T09:17:31Z",
+    "updated_at": "2026-10-13T10:13:16Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -311,7 +401,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-10-13T09:03:43Z",
+    "updated_at": "2026-10-13T10:09:34Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-13T08:50:19Z",
     "url": "https://github.com/jehrr/home-trainer"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-10-13T08:38:57Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-10-13T08:38:53Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
-    "id": "eshanized/M31A",
-    "language": "Rust",
-    "name": "eshanized/M31A",
-    "stars": 10,
-    "updated_at": "2026-10-13T08:22:09Z",
-    "url": "https://github.com/eshanized/M31A"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-13T09:56:24Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 4,
-    "updated_at": "2026-10-13T07:51:28Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
-  },
-  {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "TypeScript",
-    "name": "dsswift/ion",
-    "stars": 4,
-    "updated_at": "2026-10-13T07:44:50Z",
-    "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "JevHub \u00b7 Jev \u751f\u6001\u70ed\u699c \u628a\u503c\u5f97\u5173\u6ce8\u7684 Jev \u9879\u76ee\u3001\u6559\u7a0b\u548c\u8ba8\u8bba\uff0c\u6c47\u5230\u4e00\u9875\u3002 \u81ea\u52a8\u53d1\u73b0 \u00b7 \u6bcf\u65e5\u66f4\u65b0 \u00b7 \u6309 Stars \u6392\u5e8f \u00b7 \u4e2d\u82f1\u53cc\u8bed",
-    "id": "frontierlabai/JevHub",
-    "language": "Python",
-    "name": "frontierlabai/JevHub",
-    "stars": 7,
-    "updated_at": "2026-10-13T07:42:41Z",
-    "url": "https://github.com/frontierlabai/JevHub"
-  },
-  {
-    "description": "The coordination layer for Multiplayer AI",
-    "id": "cohexa-ai/agent-coherence",
-    "language": "Python",
-    "name": "cohexa-ai/agent-coherence",
-    "stars": 11,
-    "updated_at": "2026-10-13T08:53:14Z",
-    "url": "https://github.com/cohexa-ai/agent-coherence"
-  },
-  {
-    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
-    "id": "alexwkleung/reika",
-    "language": "TypeScript",
-    "name": "alexwkleung/reika",
-    "stars": 9,
-    "updated_at": "2026-10-13T07:32:29Z",
-    "url": "https://github.com/alexwkleung/reika"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 12,
-    "updated_at": "2026-10-13T07:31:48Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   }
 ]
