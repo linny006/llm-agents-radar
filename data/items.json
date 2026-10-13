@@ -1,5 +1,113 @@
 [
   {
+    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
+    "id": "oxidizable-malinois605/bridge-suite-mcp",
+    "language": "TypeScript",
+    "name": "oxidizable-malinois605/bridge-suite-mcp",
+    "stars": 0,
+    "updated_at": "2026-10-13T21:12:09Z",
+    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
+  },
+  {
+    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
+    "id": "Arjunadh5305/ios-skills-collection",
+    "language": "\u2014",
+    "name": "Arjunadh5305/ios-skills-collection",
+    "stars": 1,
+    "updated_at": "2026-10-13T21:12:09Z",
+    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
+  },
+  {
+    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
+    "id": "Stolas34/voice-input-src",
+    "language": "\u2014",
+    "name": "Stolas34/voice-input-src",
+    "stars": 0,
+    "updated_at": "2026-10-13T21:11:53Z",
+    "url": "https://github.com/Stolas34/voice-input-src"
+  },
+  {
+    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
+    "id": "xanstomper/mochi",
+    "language": "TypeScript",
+    "name": "xanstomper/mochi",
+    "stars": 0,
+    "updated_at": "2026-10-13T21:11:16Z",
+    "url": "https://github.com/xanstomper/mochi"
+  },
+  {
+    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
+    "id": "Screwtopped-annapavlova802/SparkLabs",
+    "language": "C++",
+    "name": "Screwtopped-annapavlova802/SparkLabs",
+    "stars": 1,
+    "updated_at": "2026-10-13T21:09:43Z",
+    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
+  },
+  {
+    "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
+    "id": "DylPorter/claude-telegram",
+    "language": "Python",
+    "name": "DylPorter/claude-telegram",
+    "stars": 1,
+    "updated_at": "2026-10-13T21:08:43Z",
+    "url": "https://github.com/DylPorter/claude-telegram"
+  },
+  {
+    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
+    "id": "mriazi1982/octopai",
+    "language": "Python",
+    "name": "mriazi1982/octopai",
+    "stars": 1,
+    "updated_at": "2026-10-13T21:08:24Z",
+    "url": "https://github.com/mriazi1982/octopai"
+  },
+  {
+    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
+    "id": "mezoali100/exforum-auto-poster",
+    "language": "\u2014",
+    "name": "mezoali100/exforum-auto-poster",
+    "stars": 1,
+    "updated_at": "2026-10-13T21:05:23Z",
+    "url": "https://github.com/mezoali100/exforum-auto-poster"
+  },
+  {
+    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
+    "id": "Bowotria/aethercore",
+    "language": "Go",
+    "name": "Bowotria/aethercore",
+    "stars": 2,
+    "updated_at": "2026-10-13T21:05:12Z",
+    "url": "https://github.com/Bowotria/aethercore"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "TypeScript",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8792,
+    "updated_at": "2026-10-13T21:06:51Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
+    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "language": "Python",
+    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "stars": 5,
+    "updated_at": "2026-10-13T21:03:04Z",
+    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
+  },
+  {
+    "description": "Coding agent that plans, changes, tests and reviews, and touches your files only when you approve. Windows, macOS, Linux",
+    "id": "huynvic/albertcode-swe-agent",
+    "language": "Shell",
+    "name": "huynvic/albertcode-swe-agent",
+    "stars": 0,
+    "updated_at": "2026-10-13T21:02:11Z",
+    "url": "https://github.com/huynvic/albertcode-swe-agent"
+  },
+  {
     "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
     "id": "mohahasan/ios-agentic-skills",
     "language": "JavaScript",
@@ -117,15 +225,6 @@
     "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "TypeScript",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8792,
-    "updated_at": "2026-10-13T20:41:40Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
     "id": "SHUKLAO/call-with-ai-agent",
     "language": "\u2014",
@@ -151,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-10-13T20:35:55Z",
     "url": "https://github.com/Jongtae/agentos"
-  },
-  {
-    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
-    "id": "xanstomper/mochi",
-    "language": "TypeScript",
-    "name": "xanstomper/mochi",
-    "stars": 0,
-    "updated_at": "2026-10-13T20:33:05Z",
-    "url": "https://github.com/xanstomper/mochi"
   },
   {
     "description": "The LLM Anti-Framework",
@@ -351,51 +441,6 @@
     "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
   },
   {
-    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
-    "id": "oxidizable-malinois605/bridge-suite-mcp",
-    "language": "TypeScript",
-    "name": "oxidizable-malinois605/bridge-suite-mcp",
-    "stars": 0,
-    "updated_at": "2026-10-13T19:13:46Z",
-    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
-  },
-  {
-    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
-    "id": "Arjunadh5305/ios-skills-collection",
-    "language": "\u2014",
-    "name": "Arjunadh5305/ios-skills-collection",
-    "stars": 1,
-    "updated_at": "2026-10-13T19:13:44Z",
-    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
-  },
-  {
-    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
-    "id": "Stolas34/voice-input-src",
-    "language": "\u2014",
-    "name": "Stolas34/voice-input-src",
-    "stars": 0,
-    "updated_at": "2026-10-13T19:13:23Z",
-    "url": "https://github.com/Stolas34/voice-input-src"
-  },
-  {
-    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
-    "id": "Screwtopped-annapavlova802/SparkLabs",
-    "language": "C++",
-    "name": "Screwtopped-annapavlova802/SparkLabs",
-    "stars": 1,
-    "updated_at": "2026-10-13T19:11:08Z",
-    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-10-13T19:09:38Z",
-    "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
     "description": "MLOps platform: LangGraph agent (OpenRouter/GLM-4.6), Neo4j knowledge graph, FastAPI inference, Airflow pipelines, Datad",
     "id": "iamvisheshsrivastava/AirKube",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-13T19:06:49Z",
     "url": "https://github.com/iamvisheshsrivastava/AirKube"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-10-13T19:06:04Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-10-13T19:05:48Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into",
-    "id": "AskTheWay/dsh-auto-memory",
-    "language": "TypeScript",
-    "name": "AskTheWay/dsh-auto-memory",
-    "stars": 106,
-    "updated_at": "2026-10-13T19:03:36Z",
-    "url": "https://github.com/AskTheWay/dsh-auto-memory"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 5,
-    "updated_at": "2026-10-13T19:03:09Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "Skill-first operating layer for agentic brokerage trading \u2014 strategy, guardrails, and provider adapters an LLM agent fol",
-    "id": "jack-h-park/stock-trading-skills",
-    "language": "Python",
-    "name": "jack-h-park/stock-trading-skills",
-    "stars": 0,
-    "updated_at": "2026-10-13T19:01:39Z",
-    "url": "https://github.com/jack-h-park/stock-trading-skills"
   }
 ]
