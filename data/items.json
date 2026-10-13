@@ -5,8 +5,80 @@
     "language": "TypeScript",
     "name": "NatanTechofNY/fieldnote-assistant",
     "stars": 5,
-    "updated_at": "2026-10-13T02:45:05Z",
+    "updated_at": "2026-10-13T02:59:54Z",
     "url": "https://github.com/NatanTechofNY/fieldnote-assistant"
+  },
+  {
+    "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
+    "id": "chunleik/self-analyst",
+    "language": "Java",
+    "name": "chunleik/self-analyst",
+    "stars": 0,
+    "updated_at": "2026-10-13T02:57:31Z",
+    "url": "https://github.com/chunleik/self-analyst"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-13T02:56:28Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-10-13T02:59:42Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "Open source AI agent for macOS (MIT). One Command Panel for your mail, calendar, meetings, files and a shell it can undo",
+    "id": "dotcomjack/grux",
+    "language": "Swift",
+    "name": "dotcomjack/grux",
+    "stars": 30,
+    "updated_at": "2026-10-13T02:53:10Z",
+    "url": "https://github.com/dotcomjack/grux"
+  },
+  {
+    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
+    "id": "alexwkleung/reika",
+    "language": "TypeScript",
+    "name": "alexwkleung/reika",
+    "stars": 9,
+    "updated_at": "2026-10-13T02:52:17Z",
+    "url": "https://github.com/alexwkleung/reika"
+  },
+  {
+    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
+    "id": "agentscope-ai/agentscope-go",
+    "language": "Go",
+    "name": "agentscope-ai/agentscope-go",
+    "stars": 56,
+    "updated_at": "2026-10-13T02:49:04Z",
+    "url": "https://github.com/agentscope-ai/agentscope-go"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-13T02:47:14Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 33151,
+    "updated_at": "2026-10-13T02:46:56Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
     "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
@@ -27,21 +99,12 @@
     "url": "https://github.com/Zxy876/voyager-vlml-mve"
   },
   {
-    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
-    "id": "alexwkleung/reika",
-    "language": "TypeScript",
-    "name": "alexwkleung/reika",
-    "stars": 9,
-    "updated_at": "2026-10-13T02:35:23Z",
-    "url": "https://github.com/alexwkleung/reika"
-  },
-  {
     "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
     "id": "duongnq2798/vestiarion",
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 2,
-    "updated_at": "2026-10-13T02:32:18Z",
+    "updated_at": "2026-10-13T02:54:42Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -180,15 +243,6 @@
     "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
   },
   {
-    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
-    "id": "agentscope-ai/agentscope-go",
-    "language": "Go",
-    "name": "agentscope-ai/agentscope-go",
-    "stars": 56,
-    "updated_at": "2026-10-13T02:15:48Z",
-    "url": "https://github.com/agentscope-ai/agentscope-go"
-  },
-  {
     "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
     "id": "xieguigang/sciBASIC",
     "language": "Visual Basic .NET",
@@ -205,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-13T02:13:38Z",
     "url": "https://github.com/pruthviraj00007/VibeHarness"
-  },
-  {
-    "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
-    "id": "chunleik/self-analyst",
-    "language": "Java",
-    "name": "chunleik/self-analyst",
-    "stars": 0,
-    "updated_at": "2026-10-13T02:40:20Z",
-    "url": "https://github.com/chunleik/self-analyst"
   },
   {
     "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
@@ -351,15 +396,6 @@
     "url": "https://github.com/mena256/ai-pair-engineer"
   },
   {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-10-13T01:59:02Z",
-    "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
     "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
     "id": "mamon9022/poc-fls-node-epicronicles",
     "language": "TypeScript",
@@ -383,7 +419,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-13T02:41:37Z",
+    "updated_at": "2026-10-13T02:54:43Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 13,
     "updated_at": "2026-10-13T01:51:13Z",
     "url": "https://github.com/hasting323/AutoGLM-For-Android"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-10-13T01:49:49Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-10-13T01:48:14Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-13T01:41:00Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 4,
-    "updated_at": "2026-10-13T02:43:41Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   }
 ]
