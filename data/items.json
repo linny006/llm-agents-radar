@@ -1,5 +1,68 @@
 [
   {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "TypeScript",
+    "name": "dsswift/ion",
+    "stars": 4,
+    "updated_at": "2026-10-13T07:44:50Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "JevHub \u00b7 Jev \u751f\u6001\u70ed\u699c \u628a\u503c\u5f97\u5173\u6ce8\u7684 Jev \u9879\u76ee\u3001\u6559\u7a0b\u548c\u8ba8\u8bba\uff0c\u6c47\u5230\u4e00\u9875\u3002 \u81ea\u52a8\u53d1\u73b0 \u00b7 \u6bcf\u65e5\u66f4\u65b0 \u00b7 \u6309 Stars \u6392\u5e8f \u00b7 \u4e2d\u82f1\u53cc\u8bed",
+    "id": "frontierlabai/JevHub",
+    "language": "Python",
+    "name": "frontierlabai/JevHub",
+    "stars": 7,
+    "updated_at": "2026-10-13T07:42:41Z",
+    "url": "https://github.com/frontierlabai/JevHub"
+  },
+  {
+    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 49,
+    "updated_at": "2026-10-13T07:41:32Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
+    "id": "QQSHI13/fox-agent",
+    "language": "TypeScript",
+    "name": "QQSHI13/fox-agent",
+    "stars": 2,
+    "updated_at": "2026-10-13T07:36:13Z",
+    "url": "https://github.com/QQSHI13/fox-agent"
+  },
+  {
+    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
+    "id": "alexwkleung/reika",
+    "language": "TypeScript",
+    "name": "alexwkleung/reika",
+    "stars": 9,
+    "updated_at": "2026-10-13T07:32:29Z",
+    "url": "https://github.com/alexwkleung/reika"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 12,
+    "updated_at": "2026-10-13T07:31:48Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-13T07:31:00Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
     "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
     "id": "memoways/ava-proto1",
     "language": "TypeScript",
@@ -40,7 +103,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 33165,
+    "stars": 33166,
     "updated_at": "2026-10-13T07:24:11Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -162,15 +225,6 @@
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 12,
-    "updated_at": "2026-10-13T07:21:57Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
     "id": "zty522/partner",
     "language": "Python",
@@ -243,15 +297,6 @@
     "url": "https://github.com/gaoming-a/OppScout-showcase"
   },
   {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-13T07:20:15Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
     "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
     "id": "Laurenfeminine36/google-jules-skill",
     "language": "Python",
@@ -288,15 +333,6 @@
     "url": "https://github.com/Tonyx79/clov-ai"
   },
   {
-    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
-    "id": "alexwkleung/reika",
-    "language": "TypeScript",
-    "name": "alexwkleung/reika",
-    "stars": 9,
-    "updated_at": "2026-10-13T07:29:05Z",
-    "url": "https://github.com/alexwkleung/reika"
-  },
-  {
     "description": "\u8b93 Jev \u6a21\u578b\u6253\u7210\u77f3\u6230\u8a18\u7684\u6a5f\u5668\u4eba\uff1a\u8b80 Power.log \u5224\u8b80\u76e4\u9762\uff0c\u898f\u5247\u8207\u641c\u5c0b\u526a\u679d\u5f8c\u7531\u6a21\u578b\u9078\u4e00\u6b65\uff0c\u518d\u7528\u6ed1\u9f20\u9ede\u51fa\u4f86\u3002\u542b\u68c4\u724c\u8853\u6253\u6cd5\u8207\u7121\u4eba\u503c\u5b88\u5929\u68af\u8173\u672c\u3002",
     "id": "Lanternko/jev-hearthstone",
     "language": "JavaScript",
@@ -304,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-10-13T06:57:29Z",
     "url": "https://github.com/Lanternko/jev-hearthstone"
-  },
-  {
-    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
-    "id": "QQSHI13/fox-agent",
-    "language": "TypeScript",
-    "name": "QQSHI13/fox-agent",
-    "stars": 2,
-    "updated_at": "2026-10-13T06:57:01Z",
-    "url": "https://github.com/QQSHI13/fox-agent"
   },
   {
     "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
@@ -421,32 +448,5 @@
     "stars": 57,
     "updated_at": "2026-10-13T06:21:52Z",
     "url": "https://github.com/agentscope-ai/agentscope-go"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 81,
-    "updated_at": "2026-10-13T06:23:38Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "A local, citation-backed knowledge assistant for searching and tracking information across WeChat conversations.",
-    "id": "Fongkai777/wechat-agent",
-    "language": "Python",
-    "name": "Fongkai777/wechat-agent",
-    "stars": 0,
-    "updated_at": "2026-10-13T06:21:02Z",
-    "url": "https://github.com/Fongkai777/wechat-agent"
-  },
-  {
-    "description": "Fix context rot & pollution in long AI agent sessions. Subagents run in isolated processes \u2014 main agent stays read-only.",
-    "id": "Wolido/async-subagent-isolation",
-    "language": "TypeScript",
-    "name": "Wolido/async-subagent-isolation",
-    "stars": 5,
-    "updated_at": "2026-10-13T06:34:30Z",
-    "url": "https://github.com/Wolido/async-subagent-isolation"
   }
 ]
