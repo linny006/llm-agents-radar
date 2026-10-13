@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-13 13:30 UTC
+> ⏰ Last updated: 2026-10-13 13:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [zhixuli0406/DuDuClaw](https://github.com/zhixuli0406/DuDuClaw) | 49 | Rust | 2026-10-13 | Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha |
-| 2 | [cheeezis/job_finder](https://github.com/cheeezis/job_finder) | 0 | Python | 2026-10-13 | Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules  |
-| 3 | [indigokarasu/chronicle-agent-context-and-memory](https://github.com/indigokarasu/chronicle-agent-context-and-memory) | 10 | Python | 2026-10-13 | Local-first long-term memory and safer context compression for Hermes Agent — SQLite, no required services. |
-| 4 | [HamsterPark/dsh-spm](https://github.com/HamsterPark/dsh-spm) | 2 | TypeScript | 2026-10-13 | Experimental TypeScript plugin for STM/SPM control in DeepSeek Harness, with simulator workflows, persistent tool record |
-| 5 | [tara-vision/taracode](https://github.com/tara-vision/taracode) | 51 | Go | 2026-10-13 | DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy. |
-| 6 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-13 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
-| 7 | [lefan17/agent-test-hub](https://github.com/lefan17/agent-test-hub) | 2 | Python | 2026-10-13 | Agent 自动测试系统：LangGraph + LLM 编排的 API/Web UI 自动化测试，从 OpenAPI 契约生成用例、执行测试、自动重试与缺陷归因，产出可视化报告 |
-| 8 | [xhqing/DayTradingAgent](https://github.com/xhqing/DayTradingAgent) | 3 | Python | 2026-10-13 | AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s |
-| 9 | [Shuffle-1992/dsh-context-pilot](https://github.com/Shuffle-1992/dsh-context-pilot) | 2 | JavaScript | 2026-10-13 | DSH 上下文智能压缩 + 智能思考：每轮注入用量、模型自主决定压缩并自动续跑；可选让模型按任务难度自主调整思考强度档位 |
-| 10 | [huiyiyichen/ai-canvas-studio](https://github.com/huiyiyichen/ai-canvas-studio) | 0 | — | 2026-10-13 | 大威天龙画布 · 本地 AI 视觉创作工作台：无限画布节点图、分镜系统与可审批的画布导演 Agent \| Local-first AI visual creation canvas with a reviewable director ag |
-| 11 | [genaforvena/mishe-tauftauf](https://github.com/genaforvena/mishe-tauftauf) | 3 | Python | 2026-10-13 | A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation. |
+| 1 | [genaforvena/mishe-tauftauf](https://github.com/genaforvena/mishe-tauftauf) | 3 | Python | 2026-10-13 | A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation. |
+| 2 | [zhixuli0406/DuDuClaw](https://github.com/zhixuli0406/DuDuClaw) | 49 | Rust | 2026-10-13 | Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha |
+| 3 | [cheeezis/job_finder](https://github.com/cheeezis/job_finder) | 0 | Python | 2026-10-13 | Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules  |
+| 4 | [indigokarasu/chronicle-agent-context-and-memory](https://github.com/indigokarasu/chronicle-agent-context-and-memory) | 10 | Python | 2026-10-13 | Local-first long-term memory and safer context compression for Hermes Agent — SQLite, no required services. |
+| 5 | [HamsterPark/dsh-spm](https://github.com/HamsterPark/dsh-spm) | 2 | TypeScript | 2026-10-13 | Experimental TypeScript plugin for STM/SPM control in DeepSeek Harness, with simulator workflows, persistent tool record |
+| 6 | [tara-vision/taracode](https://github.com/tara-vision/taracode) | 51 | Go | 2026-10-13 | DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy. |
+| 7 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-13 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
+| 8 | [lefan17/agent-test-hub](https://github.com/lefan17/agent-test-hub) | 2 | Python | 2026-10-13 | Agent 自动测试系统：LangGraph + LLM 编排的 API/Web UI 自动化测试，从 OpenAPI 契约生成用例、执行测试、自动重试与缺陷归因，产出可视化报告 |
+| 9 | [xhqing/DayTradingAgent](https://github.com/xhqing/DayTradingAgent) | 3 | Python | 2026-10-13 | AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s |
+| 10 | [Shuffle-1992/dsh-context-pilot](https://github.com/Shuffle-1992/dsh-context-pilot) | 2 | JavaScript | 2026-10-13 | DSH 上下文智能压缩 + 智能思考：每轮注入用量、模型自主决定压缩并自动续跑；可选让模型按任务难度自主调整思考强度档位 |
+| 11 | [huiyiyichen/ai-canvas-studio](https://github.com/huiyiyichen/ai-canvas-studio) | 0 | — | 2026-10-13 | 大威天龙画布 · 本地 AI 视觉创作工作台：无限画布节点图、分镜系统与可审批的画布导演 Agent \| Local-first AI visual creation canvas with a reviewable director ag |
 | 12 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 5 | TypeScript | 2026-10-13 | AI-powered image generation and chat studio |
 | 13 | [jundizhou/easy-stock](https://github.com/jundizhou/easy-stock) | 1453 | Go | 2026-10-13 | A股行情分析与AI智能投研智能体：股票分析、量化交易分析、盘后复盘桌面工作台——easy stock |
 | 14 | [helixml/helix](https://github.com/helixml/helix) | 820 | Go | 2026-10-13 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
@@ -89,7 +89,7 @@ expired items removed — so you can rely on what you see being current.
 | 45 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 25 | Python | 2026-10-13 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、HMI和Android双端；LLM 只负责理解与规划，VAL 负责确定性安全执行 |
 | 46 | [memoways/ava-proto1](https://github.com/memoways/ava-proto1) | 0 | TypeScript | 2026-10-13 | Le prototype de l'expérience conversationnelle à partir d'un univers d'un film de fiction |
 | 47 | [konglong87/go-e2e](https://github.com/konglong87/go-e2e) | 0 | Go | 2026-10-13 | Local-first open-source AI coding agent built with Go — Desktop, CLI, TUI, WebUI, MCP, Skills, multi-agent workflows, an |
-| 48 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 33174 | Python | 2026-10-13 | Build and run agents you can see, understand and trust. |
+| 48 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 33175 | Python | 2026-10-13 | Build and run agents you can see, understand and trust. |
 | 49 | [Lanternko/jev-hearthstone](https://github.com/Lanternko/jev-hearthstone) | 1 | JavaScript | 2026-10-13 | 讓 Jev 模型打爐石戰記的機器人：讀 Power.log 判讀盤面，規則與搜尋剪枝後由模型選一步，再用滑鼠點出來。含棄牌術打法與無人值守天梯腳本。 |
 | 50 | [Ayyush-Maheshwari/SupOps](https://github.com/Ayyush-Maheshwari/SupOps) | 0 | TypeScript | 2026-10-13 | Self-hosted AIOps agent for DevOps: an AI ops copilot that investigates incidents on Linux servers and Kubernetes, finds |
 <!-- TRACKER_TABLE_END -->

@@ -1,11 +1,20 @@
 [
   {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-13T13:44:02Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
     "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
     "id": "zhixuli0406/DuDuClaw",
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 49,
-    "updated_at": "2026-10-13T13:26:47Z",
+    "updated_at": "2026-10-13T13:40:55Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
@@ -90,21 +99,12 @@
     "url": "https://github.com/huiyiyichen/ai-canvas-studio"
   },
   {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-13T13:09:56Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-13T13:25:19Z",
+    "updated_at": "2026-10-13T13:44:08Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -203,7 +203,7 @@
     "language": "Rust",
     "name": "yologdev/yoagent",
     "stars": 352,
-    "updated_at": "2026-10-13T13:23:41Z",
+    "updated_at": "2026-10-13T13:33:32Z",
     "url": "https://github.com/yologdev/yoagent"
   },
   {
@@ -230,7 +230,7 @@
     "language": "Python",
     "name": "Jongtae/agentos",
     "stars": 0,
-    "updated_at": "2026-10-13T13:18:07Z",
+    "updated_at": "2026-10-13T13:41:53Z",
     "url": "https://github.com/Jongtae/agentos"
   },
   {
@@ -427,7 +427,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 33174,
+    "stars": 33175,
     "updated_at": "2026-10-13T10:55:20Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
