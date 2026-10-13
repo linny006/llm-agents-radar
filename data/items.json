@@ -1,5 +1,41 @@
 [
   {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-13T22:58:10Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 357,
+    "updated_at": "2026-10-13T22:57:47Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-10-13T22:54:31Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 2,
+    "updated_at": "2026-10-13T22:53:32Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -7,15 +43,6 @@
     "stars": 131,
     "updated_at": "2026-10-13T22:31:58Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-13T22:31:56Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -41,7 +68,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-13T22:40:22Z",
+    "updated_at": "2026-10-13T22:57:06Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -104,7 +131,7 @@
     "language": "Python",
     "name": "Jongtae/agentos",
     "stars": 0,
-    "updated_at": "2026-10-13T21:39:54Z",
+    "updated_at": "2026-10-13T22:59:26Z",
     "url": "https://github.com/Jongtae/agentos"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1531,
     "updated_at": "2026-10-13T20:27:57Z",
     "url": "https://github.com/Mirascope/mirascope"
-  },
-  {
-    "description": "The coordination layer for Multiplayer AI",
-    "id": "cohexa-ai/agent-coherence",
-    "language": "Python",
-    "name": "cohexa-ai/agent-coherence",
-    "stars": 11,
-    "updated_at": "2026-10-13T20:15:08Z",
-    "url": "https://github.com/cohexa-ai/agent-coherence"
-  },
-  {
-    "description": "An experiment in developing subjective AI",
-    "id": "artemyvo/ProjectAva",
-    "language": "Python",
-    "name": "artemyvo/ProjectAva",
-    "stars": 1,
-    "updated_at": "2026-10-13T19:57:38Z",
-    "url": "https://github.com/artemyvo/ProjectAva"
-  },
-  {
-    "description": "GitHub PR \uc790\ub3d9 \ub9ac\ubdf0 \uc11c\ube44\uc2a4 \u2014 \uc6f9\ud6c5 \ud2b8\ub9ac\uac70",
-    "id": "devcy0922/pr-guardian",
-    "language": "TypeScript",
-    "name": "devcy0922/pr-guardian",
-    "stars": 0,
-    "updated_at": "2026-10-13T19:47:06Z",
-    "url": "https://github.com/devcy0922/pr-guardian"
   }
 ]
