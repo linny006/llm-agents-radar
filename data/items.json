@@ -1,12 +1,30 @@
 [
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-10-13T10:44:49Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
+    "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
+    "id": "anchor-inference/daedalus",
+    "language": "Python",
+    "name": "anchor-inference/daedalus",
+    "stars": 2,
+    "updated_at": "2026-10-13T11:00:01Z",
+    "url": "https://github.com/anchor-inference/daedalus"
+  },
+  {
+    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
+    "id": "memoways/ava-proto1",
+    "language": "TypeScript",
+    "name": "memoways/ava-proto1",
+    "stars": 0,
+    "updated_at": "2026-10-13T10:58:34Z",
+    "url": "https://github.com/memoways/ava-proto1"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-13T10:56:22Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "Local-first open-source AI coding agent built with Go \u2014 Desktop, CLI, TUI, WebUI, MCP, Skills, multi-agent workflows, an",
@@ -14,8 +32,71 @@
     "language": "Go",
     "name": "konglong87/go-e2e",
     "stars": 0,
-    "updated_at": "2026-10-13T10:40:37Z",
+    "updated_at": "2026-10-13T10:56:12Z",
     "url": "https://github.com/konglong87/go-e2e"
+  },
+  {
+    "description": "Experimental TypeScript plugin for STM/SPM control in DeepSeek Harness, with simulator workflows, persistent tool record",
+    "id": "HamsterPark/dsh-spm",
+    "language": "TypeScript",
+    "name": "HamsterPark/dsh-spm",
+    "stars": 2,
+    "updated_at": "2026-10-13T10:55:28Z",
+    "url": "https://github.com/HamsterPark/dsh-spm"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 33171,
+    "updated_at": "2026-10-13T10:55:20Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-13T10:55:16Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
+    "id": "QQSHI13/fox-agent",
+    "language": "TypeScript",
+    "name": "QQSHI13/fox-agent",
+    "stars": 2,
+    "updated_at": "2026-10-13T10:54:17Z",
+    "url": "https://github.com/QQSHI13/fox-agent"
+  },
+  {
+    "description": "\u8b93 Jev \u6a21\u578b\u6253\u7210\u77f3\u6230\u8a18\u7684\u6a5f\u5668\u4eba\uff1a\u8b80 Power.log \u5224\u8b80\u76e4\u9762\uff0c\u898f\u5247\u8207\u641c\u5c0b\u526a\u679d\u5f8c\u7531\u6a21\u578b\u9078\u4e00\u6b65\uff0c\u518d\u7528\u6ed1\u9f20\u9ede\u51fa\u4f86\u3002\u542b\u68c4\u724c\u8853\u6253\u6cd5\u8207\u7121\u4eba\u503c\u5b88\u5929\u68af\u8173\u672c\u3002",
+    "id": "Lanternko/jev-hearthstone",
+    "language": "JavaScript",
+    "name": "Lanternko/jev-hearthstone",
+    "stars": 1,
+    "updated_at": "2026-10-13T10:48:48Z",
+    "url": "https://github.com/Lanternko/jev-hearthstone"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 25,
+    "updated_at": "2026-10-13T11:00:14Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-10-13T10:58:13Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Self-hosted AIOps agent for DevOps: an AI ops copilot that investigates incidents on Linux servers and Kubernetes, finds",
@@ -54,21 +135,12 @@
     "url": "https://github.com/Ali-Sdg90/Fabrexa-AI-Ollama"
   },
   {
-    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
-    "id": "memoways/ava-proto1",
-    "language": "TypeScript",
-    "name": "memoways/ava-proto1",
-    "stars": 0,
-    "updated_at": "2026-10-13T10:37:58Z",
-    "url": "https://github.com/memoways/ava-proto1"
-  },
-  {
     "description": "SRE Agent - CNCF Sandbox Project",
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3580,
-    "updated_at": "2026-10-13T10:39:08Z",
+    "updated_at": "2026-10-13T10:50:23Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -135,15 +207,6 @@
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
   },
   {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-13T10:41:40Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
     "id": "clashroy5384/ai-papers-hub",
     "language": "\u2014",
@@ -151,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-10-13T10:25:09Z",
     "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
-    "id": "QQSHI13/fox-agent",
-    "language": "HTML",
-    "name": "QQSHI13/fox-agent",
-    "stars": 2,
-    "updated_at": "2026-10-13T10:23:41Z",
-    "url": "https://github.com/QQSHI13/fox-agent"
   },
   {
     "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
@@ -205,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-13T10:20:14Z",
     "url": "https://github.com/Stolas34/voice-input-src"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 25,
-    "updated_at": "2026-10-13T10:19:46Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-13T09:57:43Z",
     "url": "https://github.com/ximing/vital"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-10-13T09:54:32Z",
-    "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-10-13T09:52:23Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "Kali \u539f\u751f\u7684 LLM \u6e17\u900f\u6d4b\u8bd5 harness:\u5927\u6a21\u578b\u81ea\u4e3b\u9a71\u52a8 Kali \u5b8c\u6574\u5de5\u5177\u94fe,scope \u62a4\u680f + \u6301\u4e45 PTY + \u54c8\u5e0c\u94fe\u5ba1\u8ba1\u3002Python,GPL-3.0\u3002",
-    "id": "Moxxkidd/foam",
-    "language": "Python",
-    "name": "Moxxkidd/foam",
-    "stars": 0,
-    "updated_at": "2026-10-13T09:52:05Z",
-    "url": "https://github.com/Moxxkidd/foam"
-  },
-  {
-    "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
-    "id": "OtakuNathan/Pal",
-    "language": "Python",
-    "name": "OtakuNathan/Pal",
-    "stars": 2,
-    "updated_at": "2026-10-13T09:51:12Z",
-    "url": "https://github.com/OtakuNathan/Pal"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-10-13T09:48:47Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
   }
 ]
