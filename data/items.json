@@ -1,5 +1,41 @@
 [
   {
+    "description": "Voyager \u00d7 VLML \u00d7 \u732b\u5a18\u4f34\u5b66\uff1a\u628a\u300c\u5b66\u4e60\u8005\u300d\u6362\u6210 agent \u7684\u6700\u5c0f\u53ef\u6267\u884c\u539f\u578b\uff08\u9762\u677f\u5df2\u4e0a\u817e\u8baf\u4e91\uff09",
+    "id": "Zxy876/voyager-vlml-mve",
+    "language": "Python",
+    "name": "Zxy876/voyager-vlml-mve",
+    "stars": 1,
+    "updated_at": "2026-10-13T17:43:48Z",
+    "url": "https://github.com/Zxy876/voyager-vlml-mve"
+  },
+  {
+    "description": "The coordination layer for Multiplayer AI",
+    "id": "cohexa-ai/agent-coherence",
+    "language": "Python",
+    "name": "cohexa-ai/agent-coherence",
+    "stars": 11,
+    "updated_at": "2026-10-13T17:44:21Z",
+    "url": "https://github.com/cohexa-ai/agent-coherence"
+  },
+  {
+    "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
+    "id": "roxm337/osint-agent",
+    "language": "Python",
+    "name": "roxm337/osint-agent",
+    "stars": 0,
+    "updated_at": "2026-10-13T17:41:28Z",
+    "url": "https://github.com/roxm337/osint-agent"
+  },
+  {
+    "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
+    "id": "Jongtae/agentos",
+    "language": "Python",
+    "name": "Jongtae/agentos",
+    "stars": 0,
+    "updated_at": "2026-10-13T17:37:09Z",
+    "url": "https://github.com/Jongtae/agentos"
+  },
+  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -43,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-10-13T17:23:18Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
-    "id": "Jongtae/agentos",
-    "language": "Python",
-    "name": "Jongtae/agentos",
-    "stars": 0,
-    "updated_at": "2026-10-13T17:21:13Z",
-    "url": "https://github.com/Jongtae/agentos"
   },
   {
     "description": "\u8b93 Jev \u6a21\u578b\u6253\u7210\u77f3\u6230\u8a18\u7684\u6a5f\u5668\u4eba\uff1a\u8b80 Power.log \u5224\u8b80\u76e4\u9762\uff0c\u898f\u5247\u8207\u641c\u5c0b\u526a\u679d\u5f8c\u7531\u6a21\u578b\u9078\u4e00\u6b65\uff0c\u518d\u7528\u6ed1\u9f20\u9ede\u51fa\u4f86\u3002\u542b\u68c4\u724c\u8853\u6253\u6cd5\u8207\u7121\u4eba\u503c\u5b88\u5929\u68af\u8173\u672c\u3002",
@@ -112,7 +139,7 @@
     "id": "areal-project/AReaL",
     "language": "Python",
     "name": "areal-project/AReaL",
-    "stars": 5828,
+    "stars": 5829,
     "updated_at": "2026-10-13T16:44:52Z",
     "url": "https://github.com/areal-project/AReaL"
   },
@@ -140,7 +167,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-13T17:11:56Z",
+    "updated_at": "2026-10-13T17:44:43Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-13T15:04:58Z",
     "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
-  },
-  {
-    "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
-    "id": "EpsteinF1les/tts",
-    "language": "\u2014",
-    "name": "EpsteinF1les/tts",
-    "stars": 0,
-    "updated_at": "2026-10-13T15:04:07Z",
-    "url": "https://github.com/EpsteinF1les/tts"
-  },
-  {
-    "description": "The coordination layer for Multiplayer AI",
-    "id": "cohexa-ai/agent-coherence",
-    "language": "Python",
-    "name": "cohexa-ai/agent-coherence",
-    "stars": 11,
-    "updated_at": "2026-10-13T17:29:04Z",
-    "url": "https://github.com/cohexa-ai/agent-coherence"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-10-13T14:58:30Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
   }
 ]
