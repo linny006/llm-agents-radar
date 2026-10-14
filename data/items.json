@@ -1,5 +1,32 @@
 [
   {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-10-14T04:19:55Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
+    "id": "haibingzhao/easyai",
+    "language": "Kotlin",
+    "name": "haibingzhao/easyai",
+    "stars": 1,
+    "updated_at": "2026-10-14T04:19:20Z",
+    "url": "https://github.com/haibingzhao/easyai"
+  },
+  {
+    "description": "\uc9c1\ubc29\u00b7\ub124\uc774\ubc84 \ubd80\ub3d9\uc0b0\u00b7\ub2f9\uadfc\ubd80\ub3d9\uc0b0 \ub9e4\ubb3c\uacfc \uc2e4\uac70\ub798\uac00\ub97c \uc870\ud68c\ud558\ub294 LLM \uc5d0\uc774\uc804\ud2b8\uc6a9 CLI \u00b7 Korean real estate listings CLI for LLM agents (Zigbang, Naver Real Esta",
+    "id": "Rukkakka/jibsa",
+    "language": "Python",
+    "name": "Rukkakka/jibsa",
+    "stars": 0,
+    "updated_at": "2026-10-14T04:14:15Z",
+    "url": "https://github.com/Rukkakka/jibsa"
+  },
+  {
     "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
     "id": "duongnq2798/vestiarion",
     "language": "TypeScript",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 313,
-    "updated_at": "2026-10-14T04:05:15Z",
+    "updated_at": "2026-10-14T04:18:48Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
@@ -32,7 +59,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-14T04:02:25Z",
+    "updated_at": "2026-10-14T04:24:30Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -77,7 +104,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 41,
-    "updated_at": "2026-10-14T03:48:12Z",
+    "updated_at": "2026-10-14T04:18:42Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "Jongtae/agentos",
     "stars": 0,
-    "updated_at": "2026-10-14T03:24:56Z",
+    "updated_at": "2026-10-14T04:27:48Z",
     "url": "https://github.com/Jongtae/agentos"
   },
   {
@@ -205,15 +232,6 @@
     "stars": 33206,
     "updated_at": "2026-10-14T02:42:22Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-10-14T04:10:36Z",
-    "url": "https://github.com/JSL107/personal_agents"
   },
   {
     "description": "Local coding agent with native Zhipu GLM / StepFun Step Coding-Plan support. Four hard gates \u2014 the agent can't claim don",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-14T02:09:40Z",
     "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 5,
-    "updated_at": "2026-10-14T02:07:51Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\ud83e\udd16 \u65b0\u4e00\u4ee3\u5f00\u6e90 Chrome \u4fa7\u8fb9\u680f\u81ea\u4e3b AI \u6d4f\u89c8\u5668\u667a\u80fd\u4f53\uff1a\u76ee\u6807\u9a71\u52a8\u3001\u957f\u7a0b\u89c4\u5212\u3001\u89c6\u89c9\u7a7a\u95f4\u611f\u77e5\u3001\u5feb\u6162\u53cc\u6838\u8ba4\u77e5\u4e0e\u7269\u7406\u7ea7\u64cd\u63a7\uff0c\u652f\u6301 DeepSeek \u601d\u8003\u6a21\u578b\u4e0e\u672c\u5730\u79bb\u7ebf LLM (BYOK)",
-    "id": "lusipad/browser-agent",
-    "language": "TypeScript",
-    "name": "lusipad/browser-agent",
-    "stars": 3,
-    "updated_at": "2026-10-14T02:06:01Z",
-    "url": "https://github.com/lusipad/browser-agent"
   }
 ]
