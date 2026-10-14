@@ -1,5 +1,59 @@
 [
   {
+    "description": "Local-first open-source AI coding agent built with Go \u2014 Desktop, CLI, TUI, WebUI, MCP, Skills, multi-agent workflows, an",
+    "id": "konglong87/go-e2e",
+    "language": "Go",
+    "name": "konglong87/go-e2e",
+    "stars": 0,
+    "updated_at": "2026-10-14T03:44:37Z",
+    "url": "https://github.com/konglong87/go-e2e"
+  },
+  {
+    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
+    "id": "IAmNo1Special/mvgeos",
+    "language": "Python",
+    "name": "IAmNo1Special/mvgeos",
+    "stars": 1,
+    "updated_at": "2026-10-14T03:44:06Z",
+    "url": "https://github.com/IAmNo1Special/mvgeos"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-14T03:37:07Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "\u628a\u957f\u7bc7\u5c0f\u8bf4\u5199\u4f5c\u5f53\u4f5c\u5de5\u7a0b\u7ba1\u7406\u7684\u672c\u5730\u684c\u9762\u667a\u80fd\u4f53\uff1a\u771f\u5b9e\u5b57\u6570\u95e8\u7981\u3001\u65ad\u70b9\u6062\u590d\u3001\u6587\u4ef6\u5373\u9879\u76ee\uff0c\u6570\u636e\u4e0d\u51fa\u7535\u8111\u3002A local-first desktop agent that manages long-form novel writing like an ",
+    "id": "wh520-wh/wwriting-novel-agent",
+    "language": "JavaScript",
+    "name": "wh520-wh/wwriting-novel-agent",
+    "stars": 0,
+    "updated_at": "2026-10-14T03:37:07Z",
+    "url": "https://github.com/wh520-wh/wwriting-novel-agent"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-14T03:34:31Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
+    "id": "agentscope-ai/agentscope-go",
+    "language": "Go",
+    "name": "agentscope-ai/agentscope-go",
+    "stars": 57,
+    "updated_at": "2026-10-14T03:32:56Z",
+    "url": "https://github.com/agentscope-ai/agentscope-go"
+  },
+  {
     "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
     "id": "kyleslight/shun",
     "language": "TypeScript",
@@ -27,24 +81,6 @@
     "url": "https://github.com/Jongtae/agentos"
   },
   {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-14T03:29:23Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
-    "id": "agentscope-ai/agentscope-go",
-    "language": "Go",
-    "name": "agentscope-ai/agentscope-go",
-    "stars": 57,
-    "updated_at": "2026-10-14T03:22:04Z",
-    "url": "https://github.com/agentscope-ai/agentscope-go"
-  },
-  {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
     "id": "plurnk/plurnk-service",
     "language": "TypeScript",
@@ -63,21 +99,12 @@
     "url": "https://github.com/char-46/copilot-muze"
   },
   {
-    "description": "Local-first open-source AI coding agent built with Go \u2014 Desktop, CLI, TUI, WebUI, MCP, Skills, multi-agent workflows, an",
-    "id": "konglong87/go-e2e",
-    "language": "Go",
-    "name": "konglong87/go-e2e",
-    "stars": 0,
-    "updated_at": "2026-10-14T03:05:12Z",
-    "url": "https://github.com/konglong87/go-e2e"
-  },
-  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-14T03:04:39Z",
+    "updated_at": "2026-10-14T03:42:49Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -112,7 +139,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 33199,
+    "stars": 33203,
     "updated_at": "2026-10-14T02:42:22Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -142,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T02:38:42Z",
     "url": "https://github.com/KiKDraS/mtg-life-counter-app"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-14T02:33:29Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-14T01:52:22Z",
     "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-10-14T01:49:18Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "A voice call-center agent with real tools and real limits, plus automatic after-call QA, served on Chalk through the mod",
-    "id": "chalk-ai/call-center-agent",
-    "language": "Python",
-    "name": "chalk-ai/call-center-agent",
-    "stars": 0,
-    "updated_at": "2026-10-14T01:46:35Z",
-    "url": "https://github.com/chalk-ai/call-center-agent"
   }
 ]
