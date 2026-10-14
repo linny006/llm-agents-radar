@@ -1,12 +1,21 @@
 [
   {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-14T13:45:03Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
+    "description": "\u6b66\u6c49\u5927\u5b66\u5730\u7a7a\u5b66\u9662 2026 \u5927\u521b\uff1a\u591a\u667a\u80fd\u4f53 AI \u91ce\u5916\u53f0\u7ad9\u7ba1\u7406\u7cfb\u7edf \u2014\u2014 \u76d1\u6d4b/\u8d28\u63a7/\u7814\u5224/\u6d3e\u5355/\u5f52\u6863\u95ed\u73af\u3002LangGraph \u8fd0\u884c\u65f6 \u00b7 MCP \u5de5\u5177\u63a5\u53e3 \u00b7 \u89c4\u5219\u88c1\u51b3 + \u5927\u6a21\u578b\u5f52\u56e0\u3002\u516c\u5f00\u8131\u654f\u4ed3\u5e93",
+    "id": "yasunosubaru/field-station-agent",
+    "language": "Python",
+    "name": "yasunosubaru/field-station-agent",
+    "stars": 0,
+    "updated_at": "2026-10-14T13:58:40Z",
+    "url": "https://github.com/yasunosubaru/field-station-agent"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 6194,
+    "updated_at": "2026-10-14T13:52:38Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "Capability-ontology-driven SAP capability supplier. One call answers one business question; endpoint chains, as-of consi",
@@ -14,8 +23,71 @@
     "language": "Python",
     "name": "shrek-abaper/sap-nexus-agent",
     "stars": 0,
-    "updated_at": "2026-10-14T13:45:03Z",
+    "updated_at": "2026-10-14T13:51:55Z",
     "url": "https://github.com/shrek-abaper/sap-nexus-agent"
+  },
+  {
+    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
+    "id": "memoways/ava-proto1",
+    "language": "TypeScript",
+    "name": "memoways/ava-proto1",
+    "stars": 0,
+    "updated_at": "2026-10-14T13:51:53Z",
+    "url": "https://github.com/memoways/ava-proto1"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-14T13:51:15Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-14T13:49:30Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
+    "id": "uukuguy/capstone",
+    "language": "Python",
+    "name": "uukuguy/capstone",
+    "stars": 0,
+    "updated_at": "2026-10-14T13:48:49Z",
+    "url": "https://github.com/uukuguy/capstone"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-10-14T13:52:34Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4448,
+    "updated_at": "2026-10-14T13:49:56Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-14T13:45:03Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -68,7 +140,7 @@
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 49,
-    "updated_at": "2026-10-14T13:37:20Z",
+    "updated_at": "2026-10-14T13:45:41Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
@@ -79,15 +151,6 @@
     "stars": 5,
     "updated_at": "2026-10-14T13:36:10Z",
     "url": "https://github.com/plurnk/plurnk"
-  },
-  {
-    "description": "\u6b66\u6c49\u5927\u5b66\u5730\u7a7a\u5b66\u9662 2026 \u5927\u521b\uff1a\u591a\u667a\u80fd\u4f53 AI \u91ce\u5916\u53f0\u7ad9\u7ba1\u7406\u7cfb\u7edf \u2014\u2014 \u76d1\u6d4b/\u8d28\u63a7/\u7814\u5224/\u6d3e\u5355/\u5f52\u6863\u95ed\u73af\u3002LangGraph \u8fd0\u884c\u65f6 \u00b7 MCP \u5de5\u5177\u63a5\u53e3 \u00b7 \u89c4\u5219\u88c1\u51b3 + \u5927\u6a21\u578b\u5f52\u56e0\u3002\u516c\u5f00\u8131\u654f\u4ed3\u5e93",
-    "id": "yasunosubaru/field-station-agent",
-    "language": "Python",
-    "name": "yasunosubaru/field-station-agent",
-    "stars": 0,
-    "updated_at": "2026-10-14T13:33:31Z",
-    "url": "https://github.com/yasunosubaru/field-station-agent"
   },
   {
     "description": "A local-first, standalone personal knowledge base for Windows. Import, organize, and create your own links \u2014 no browser ",
@@ -126,22 +189,13 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
+    "description": "CIRIS: an open-source AI assistant with a conscience you can check. Signed, auditable reasoning on every decision, a hum",
+    "id": "CIRISAI/CIRISAgent",
     "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-14T13:30:35Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 6194,
-    "updated_at": "2026-10-14T13:29:44Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
+    "name": "CIRISAI/CIRISAgent",
+    "stars": 56,
+    "updated_at": "2026-10-14T13:52:14Z",
+    "url": "https://github.com/CIRISAI/CIRISAgent"
   },
   {
     "description": "Zemax OpticStudio \u8bed\u97f3\u52a9\u6559:\u672c\u5730 FunASR \u8bc6\u522b + \u667a\u8c31 GLM + TTS,22 \u4e2a ZOS-API \u5de5\u5177 + 10 \u8bfe\u5149\u5b66\u8bbe\u8ba1\u8bfe\u4ef6 | Voice tutor for Zemax OpticStudio: loc",
@@ -162,15 +216,6 @@
     "url": "https://github.com/yy606747/obsidian-vow"
   },
   {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-14T13:40:58Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
     "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
     "id": "Jongtae/agentos",
     "language": "Python",
@@ -178,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T13:34:52Z",
     "url": "https://github.com/Jongtae/agentos"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-10-14T13:25:54Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
@@ -207,15 +243,6 @@
     "url": "https://github.com/denisakkavim/sixnimmt"
   },
   {
-    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
-    "id": "uukuguy/capstone",
-    "language": "Python",
-    "name": "uukuguy/capstone",
-    "stars": 0,
-    "updated_at": "2026-10-14T13:43:48Z",
-    "url": "https://github.com/uukuguy/capstone"
-  },
-  {
     "description": "An AI Agent for everyday SWE with minimalist style",
     "id": "thehope2k/minimalist-agent",
     "language": "TypeScript",
@@ -223,6 +250,15 @@
     "stars": 1,
     "updated_at": "2026-10-14T13:00:47Z",
     "url": "https://github.com/thehope2k/minimalist-agent"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 1173,
+    "updated_at": "2026-10-14T12:57:15Z",
+    "url": "https://github.com/ongridio/ongrid"
   },
   {
     "description": "SRE Agent - CNCF Sandbox Project",
@@ -320,7 +356,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 42,
-    "updated_at": "2026-10-14T13:17:03Z",
+    "updated_at": "2026-10-14T13:51:33Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -349,24 +385,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T12:15:03Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4448,
-    "updated_at": "2026-10-14T13:20:41Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
-    "id": "memoways/ava-proto1",
-    "language": "TypeScript",
-    "name": "memoways/ava-proto1",
-    "stars": 0,
-    "updated_at": "2026-10-14T13:35:38Z",
-    "url": "https://github.com/memoways/ava-proto1"
   },
   {
     "description": "Harness LLMs with Multi-Agent Programming",
@@ -430,23 +448,5 @@
     "stars": 29,
     "updated_at": "2026-10-14T11:43:16Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
-    "id": "roxm337/osint-agent",
-    "language": "Python",
-    "name": "roxm337/osint-agent",
-    "stars": 0,
-    "updated_at": "2026-10-14T11:40:27Z",
-    "url": "https://github.com/roxm337/osint-agent"
-  },
-  {
-    "description": "Single-user Hebrew/English personal assistant: Cloudflare Workers + SQLite Durable Object, Groq tool-calling agent where",
-    "id": "tzur669-lab/whatsapp-assistant",
-    "language": "TypeScript",
-    "name": "tzur669-lab/whatsapp-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-14T11:34:35Z",
-    "url": "https://github.com/tzur669-lab/whatsapp-assistant"
   }
 ]
