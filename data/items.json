@@ -1,5 +1,104 @@
 [
   {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-14T02:45:02Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "\u9762\u5411 AI Agent \u7684\u9879\u76ee\u6cbb\u7406 Skill \u96c6\u5408\uff1a\u5c06\u4ed3\u5e93\u7ed3\u6784\u3001\u7814\u53d1\u5168\u751f\u547d\u5468\u671f\u4ea7\u7269\u3001Agent \u6267\u884c\u8fb9\u754c\u548c\u670d\u52a1\u53d1\u5e03/\u8fd0\u884c\u6761\u4ef6\uff0c\u8f6c\u5316\u4e3a\u53ef\u6267\u884c\u7684\u786e\u5b9a\u6027\u95e8\u7981\u4e0e\u68c0\u67e5\u5668",
+    "id": "farfarfun-skill/project-manager",
+    "language": "Python",
+    "name": "farfarfun-skill/project-manager",
+    "stars": 0,
+    "updated_at": "2026-10-14T02:42:36Z",
+    "url": "https://github.com/farfarfun-skill/project-manager"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 33196,
+    "updated_at": "2026-10-14T02:42:22Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-10-14T02:42:08Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "Local coding agent with native Zhipu GLM / StepFun Step Coding-Plan support. Four hard gates \u2014 the agent can't claim don",
+    "id": "Lion-1209/coderio",
+    "language": "Python",
+    "name": "Lion-1209/coderio",
+    "stars": 9,
+    "updated_at": "2026-10-14T02:41:34Z",
+    "url": "https://github.com/Lion-1209/coderio"
+  },
+  {
+    "description": "PWA for Magic: The Gathering \u2014 life tracking at dice speed for 2\u20136 players, plus an AI rules judge grounded in the Compr",
+    "id": "KiKDraS/mtg-life-counter-app",
+    "language": "TypeScript",
+    "name": "KiKDraS/mtg-life-counter-app",
+    "stars": 0,
+    "updated_at": "2026-10-14T02:38:42Z",
+    "url": "https://github.com/KiKDraS/mtg-life-counter-app"
+  },
+  {
+    "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
+    "id": "Jongtae/agentos",
+    "language": "Python",
+    "name": "Jongtae/agentos",
+    "stars": 0,
+    "updated_at": "2026-10-14T02:42:25Z",
+    "url": "https://github.com/Jongtae/agentos"
+  },
+  {
+    "description": "Make any agent harness token-native.",
+    "id": "camel-ai/tokin",
+    "language": "Python",
+    "name": "camel-ai/tokin",
+    "stars": 5,
+    "updated_at": "2026-10-14T02:34:59Z",
+    "url": "https://github.com/camel-ai/tokin"
+  },
+  {
+    "description": "Google ADK (Go) meeting agent: turns meeting goals into a time-boxed agenda or a transcript into evidence-backed minutes",
+    "id": "GhandyP/meeting-agenda-minutes-agent",
+    "language": "Go",
+    "name": "GhandyP/meeting-agenda-minutes-agent",
+    "stars": 0,
+    "updated_at": "2026-10-14T02:33:59Z",
+    "url": "https://github.com/GhandyP/meeting-agenda-minutes-agent"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-14T02:33:29Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 53,
+    "updated_at": "2026-10-14T02:30:22Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
     "description": "Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi",
     "id": "zig333/ELAI-archive",
     "language": "\u2014",
@@ -9,15 +108,6 @@
     "url": "https://github.com/zig333/ELAI-archive"
   },
   {
-    "description": "Local coding agent with native Zhipu GLM / StepFun Step Coding-Plan support. Four hard gates \u2014 the agent can't claim don",
-    "id": "Lion-1209/coderio",
-    "language": "Python",
-    "name": "Lion-1209/coderio",
-    "stars": 9,
-    "updated_at": "2026-10-14T02:29:49Z",
-    "url": "https://github.com/Lion-1209/coderio"
-  },
-  {
     "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
     "id": "wuyhong715/rikkahub-agent-pure",
     "language": "Kotlin",
@@ -25,15 +115,6 @@
     "stars": 41,
     "updated_at": "2026-10-14T02:30:14Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
-  },
-  {
-    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 53,
-    "updated_at": "2026-10-14T02:29:09Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
   },
   {
     "description": "\u6295\u8d44\u7814\u7a76\u7528\u7684\u672c\u5730 Agent CLI\uff1a\u8d44\u6599 \u2192 Wiki \u2192 \u62a5\u544a \u2192 Spec \u2192 \u79bb\u7ebf HTML \u6295\u8d44\u6c47\u62a5 Slides\uff0c\u6309\u5c0f\u7ae0\u8282\u5ba1\u6279\u4e0e\u589e\u91cf\u6784\u5efa",
@@ -99,15 +180,6 @@
     "url": "https://github.com/ongridio/ongrid"
   },
   {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-10-14T02:29:55Z",
-    "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
@@ -133,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T02:20:26Z",
     "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "Google ADK (Go) meeting agent: turns meeting goals into a time-boxed agenda or a transcript into evidence-backed minutes",
-    "id": "GhandyP/meeting-agenda-minutes-agent",
-    "language": "Go",
-    "name": "GhandyP/meeting-agenda-minutes-agent",
-    "stars": 0,
-    "updated_at": "2026-10-14T02:18:41Z",
-    "url": "https://github.com/GhandyP/meeting-agenda-minutes-agent"
   },
   {
     "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
@@ -252,15 +315,6 @@
     "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
   },
   {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-14T02:07:15Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "\ud83e\udd16 \u65b0\u4e00\u4ee3\u5f00\u6e90 Chrome \u4fa7\u8fb9\u680f\u81ea\u4e3b AI \u6d4f\u89c8\u5668\u667a\u80fd\u4f53\uff1a\u76ee\u6807\u9a71\u52a8\u3001\u957f\u7a0b\u89c4\u5212\u3001\u89c6\u89c9\u7a7a\u95f4\u611f\u77e5\u3001\u5feb\u6162\u53cc\u6838\u8ba4\u77e5\u4e0e\u7269\u7406\u7ea7\u64cd\u63a7\uff0c\u652f\u6301 DeepSeek \u601d\u8003\u6a21\u578b\u4e0e\u672c\u5730\u79bb\u7ebf LLM (BYOK)",
     "id": "lusipad/browser-agent",
     "language": "TypeScript",
@@ -277,15 +331,6 @@
     "stars": 4,
     "updated_at": "2026-10-14T02:04:28Z",
     "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "Make any agent harness token-native.",
-    "id": "camel-ai/tokin",
-    "language": "Python",
-    "name": "camel-ai/tokin",
-    "stars": 5,
-    "updated_at": "2026-10-14T02:02:00Z",
-    "url": "https://github.com/camel-ai/tokin"
   },
   {
     "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
@@ -331,15 +376,6 @@
     "stars": 2,
     "updated_at": "2026-10-14T01:52:22Z",
     "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
-    "id": "Jongtae/agentos",
-    "language": "Python",
-    "name": "Jongtae/agentos",
-    "stars": 0,
-    "updated_at": "2026-10-14T01:50:41Z",
-    "url": "https://github.com/Jongtae/agentos"
   },
   {
     "description": "",
@@ -405,15 +441,6 @@
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-14T01:32:27Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-14T01:32:01Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-10-14T01:31:41Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 81,
-    "updated_at": "2026-10-14T01:28:04Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "\u8861\u77e5 \u00b7 \u4e61\u6751\u5b66\u6821\u8bd5\u5377\u51cf\u8d1f\u5de5\u4f5c\u53f0\uff1a\u771f\u5b9e\u8bd5\u5377\u5bfc\u5165 \u2192 \u9010\u9898\u5224\u5377 \u2192 \u9519\u8bef\u7387\u5206\u6790 \u2192 \u540c\u4f34\u4e92\u52a9 \u2192 \u5f31\u9879\u5355\u4e0e\u8bb2\u8bc4\u4ea7\u7269\uff08FastAPI + \u672c\u5730 OCR + \u591a Agent SSE\uff09",
-    "id": "Finn-jiejie/hengzhi",
-    "language": "JavaScript",
-    "name": "Finn-jiejie/hengzhi",
-    "stars": 0,
-    "updated_at": "2026-10-14T01:24:18Z",
-    "url": "https://github.com/Finn-jiejie/hengzhi"
   }
 ]
