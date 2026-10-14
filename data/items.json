@@ -1,12 +1,21 @@
 [
   {
-    "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
-    "id": "HKUDS/DeepCode",
+    "description": "Keeps the rules and skills in a Claude Code setup from piling up and going stale: a Claude Code plugin of audit and upke",
+    "id": "shimo4228/akc-cycle",
     "language": "Python",
-    "name": "HKUDS/DeepCode",
-    "stars": 16704,
-    "updated_at": "2026-10-14T12:27:50Z",
-    "url": "https://github.com/HKUDS/DeepCode"
+    "name": "shimo4228/akc-cycle",
+    "stars": 1,
+    "updated_at": "2026-10-14T12:45:01Z",
+    "url": "https://github.com/shimo4228/akc-cycle"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-14T12:43:47Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Lean, extended fork of Nous Research's Hermes Agent \u2014 free model suite, connectors, and ~20 perf fixes. Upstream credite",
@@ -14,8 +23,71 @@
     "language": "Python",
     "name": "Chensihakniroth/anakot-agent-v1",
     "stars": 0,
-    "updated_at": "2026-10-14T12:29:40Z",
+    "updated_at": "2026-10-14T12:44:57Z",
     "url": "https://github.com/Chensihakniroth/anakot-agent-v1"
+  },
+  {
+    "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
+    "id": "HKUDS/DeepCode",
+    "language": "Python",
+    "name": "HKUDS/DeepCode",
+    "stars": 16704,
+    "updated_at": "2026-10-14T12:39:54Z",
+    "url": "https://github.com/HKUDS/DeepCode"
+  },
+  {
+    "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
+    "id": "Jongtae/agentos",
+    "language": "Python",
+    "name": "Jongtae/agentos",
+    "stars": 0,
+    "updated_at": "2026-10-14T12:39:31Z",
+    "url": "https://github.com/Jongtae/agentos"
+  },
+  {
+    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 53,
+    "updated_at": "2026-10-14T12:38:47Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 5,
+    "updated_at": "2026-10-14T12:37:59Z",
+    "url": "https://github.com/ljedrz/nachalnik"
+  },
+  {
+    "description": "Executives hint forecasts changed. Call Desk listens live and shows the new number, with proof. Built at AI Engineer NYC",
+    "id": "zaeem-rafiq/Call-Desk-public",
+    "language": "Python",
+    "name": "zaeem-rafiq/Call-Desk-public",
+    "stars": 0,
+    "updated_at": "2026-10-14T12:33:39Z",
+    "url": "https://github.com/zaeem-rafiq/Call-Desk-public"
+  },
+  {
+    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
+    "id": "wuyhong715/rikkahub-agent-pure",
+    "language": "Kotlin",
+    "name": "wuyhong715/rikkahub-agent-pure",
+    "stars": 42,
+    "updated_at": "2026-10-14T12:33:19Z",
+    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-14T12:31:18Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "An AI companion that decides when to stay silent \u2014 heartbeat-driven proactive dialogue with 16-dim emotion engine and co",
@@ -135,24 +207,6 @@
     "url": "https://github.com/edjafarov/kiagent-core"
   },
   {
-    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
-    "id": "wuyhong715/rikkahub-agent-pure",
-    "language": "Kotlin",
-    "name": "wuyhong715/rikkahub-agent-pure",
-    "stars": 42,
-    "updated_at": "2026-10-14T12:11:17Z",
-    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
-  },
-  {
-    "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
-    "id": "Jongtae/agentos",
-    "language": "Python",
-    "name": "Jongtae/agentos",
-    "stars": 0,
-    "updated_at": "2026-10-14T11:57:11Z",
-    "url": "https://github.com/Jongtae/agentos"
-  },
-  {
     "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
     "id": "yurika0211/lucky-agent",
     "language": "Go",
@@ -160,15 +214,6 @@
     "stars": 15,
     "updated_at": "2026-10-14T11:54:42Z",
     "url": "https://github.com/yurika0211/lucky-agent"
-  },
-  {
-    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
-    "id": "ljedrz/nachalnik",
-    "language": "Rust",
-    "name": "ljedrz/nachalnik",
-    "stars": 5,
-    "updated_at": "2026-10-14T11:53:04Z",
-    "url": "https://github.com/ljedrz/nachalnik"
   },
   {
     "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
@@ -194,7 +239,7 @@
     "language": "Python",
     "name": "uukuguy/capstone",
     "stars": 0,
-    "updated_at": "2026-10-14T12:29:56Z",
+    "updated_at": "2026-10-14T12:44:31Z",
     "url": "https://github.com/uukuguy/capstone"
   },
   {
@@ -207,15 +252,6 @@
     "url": "https://github.com/tomcounsell/ai"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-14T11:42:45Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
     "id": "roxm337/osint-agent",
     "language": "Python",
@@ -223,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T11:40:27Z",
     "url": "https://github.com/roxm337/osint-agent"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-14T12:10:50Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
@@ -337,18 +364,9 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 3595,
-    "updated_at": "2026-10-14T10:55:27Z",
+    "stars": 3594,
+    "updated_at": "2026-10-14T12:43:15Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 53,
-    "updated_at": "2026-10-14T10:55:20Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
   },
   {
     "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
@@ -382,7 +400,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 6190,
+    "stars": 6192,
     "updated_at": "2026-10-14T10:39:11Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-14T10:12:05Z",
     "url": "https://github.com/chunleik/self-analyst"
-  },
-  {
-    "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
-    "id": "anchor-inference/daedalus",
-    "language": "Python",
-    "name": "anchor-inference/daedalus",
-    "stars": 2,
-    "updated_at": "2026-10-14T10:11:12Z",
-    "url": "https://github.com/anchor-inference/daedalus"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-10-14T10:07:21Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   }
 ]
