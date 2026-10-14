@@ -1,12 +1,75 @@
 [
   {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 131,
+    "updated_at": "2026-10-14T18:26:51Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-10-14T18:26:17Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
+    "id": "xanstomper/mochi",
+    "language": "TypeScript",
+    "name": "xanstomper/mochi",
+    "stars": 0,
+    "updated_at": "2026-10-14T18:24:21Z",
+    "url": "https://github.com/xanstomper/mochi"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-10-14T18:22:29Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
     "id": "IAmNo1Special/mvgeos",
     "language": "Python",
     "name": "IAmNo1Special/mvgeos",
     "stars": 1,
-    "updated_at": "2026-10-14T18:14:52Z",
+    "updated_at": "2026-10-14T18:20:03Z",
     "url": "https://github.com/IAmNo1Special/mvgeos"
+  },
+  {
+    "description": "Estrella Bot \u00b7 QQ \u7fa4 AI \u7fa4\u53cb\u673a\u5668\u4eba\u3002\u628a QQ \u5c0f\u53f7\u63a5\u7ed9\u4efb\u610f OpenAI \u517c\u5bb9\u6a21\u578b\uff08\u672c\u673a / DeepSeek / \u667a\u8c31 / \u901a\u4e49\uff09\uff0c\u8ba9 AI \u50cf\u7fa4\u53cb\u4e00\u6837\u63d2\u8bdd\u3001\u63a5\u6897\u3001\u6f5c\u6c34\u3002OneBot v11 + NapCat\uff0c\u96f6\u6784\u5efa",
+    "id": "Canvixel-Eloweny/ai-bot-groupmate",
+    "language": "JavaScript",
+    "name": "Canvixel-Eloweny/ai-bot-groupmate",
+    "stars": 50,
+    "updated_at": "2026-10-14T18:26:06Z",
+    "url": "https://github.com/Canvixel-Eloweny/ai-bot-groupmate"
+  },
+  {
+    "description": "Bodhi \u2014 a local-first AI agent workbench in Rust: desktop app, Bamboo runtime, Jiandu shared memory, Nova computer use a",
+    "id": "bigduu/Zenith",
+    "language": "JavaScript",
+    "name": "bigduu/Zenith",
+    "stars": 6,
+    "updated_at": "2026-10-14T18:18:57Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "A local-first, standalone personal knowledge base for Windows. Import, organize, and create your own links \u2014 no browser ",
+    "id": "Hrecer/LinkPocket",
+    "language": "C#",
+    "name": "Hrecer/LinkPocket",
+    "stars": 0,
+    "updated_at": "2026-10-14T18:15:46Z",
+    "url": "https://github.com/Hrecer/LinkPocket"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4448,
-    "updated_at": "2026-10-14T18:13:42Z",
+    "updated_at": "2026-10-14T18:18:01Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -25,15 +88,6 @@
     "stars": 7,
     "updated_at": "2026-10-14T18:13:08Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-10-14T18:15:10Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
@@ -63,24 +117,6 @@
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
-    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
-    "id": "xanstomper/mochi",
-    "language": "TypeScript",
-    "name": "xanstomper/mochi",
-    "stars": 0,
-    "updated_at": "2026-10-14T18:02:17Z",
-    "url": "https://github.com/xanstomper/mochi"
-  },
-  {
-    "description": "A local-first, standalone personal knowledge base for Windows. Import, organize, and create your own links \u2014 no browser ",
-    "id": "Hrecer/LinkPocket",
-    "language": "C#",
-    "name": "Hrecer/LinkPocket",
-    "stars": 0,
-    "updated_at": "2026-10-14T17:51:52Z",
-    "url": "https://github.com/Hrecer/LinkPocket"
-  },
-  {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
     "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
@@ -88,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T17:49:01Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "Estrella Bot \u00b7 QQ \u7fa4 AI \u7fa4\u53cb\u673a\u5668\u4eba\u3002\u628a QQ \u5c0f\u53f7\u63a5\u7ed9\u4efb\u610f OpenAI \u517c\u5bb9\u6a21\u578b\uff08\u672c\u673a / DeepSeek / \u667a\u8c31 / \u901a\u4e49\uff09\uff0c\u8ba9 AI \u50cf\u7fa4\u53cb\u4e00\u6837\u63d2\u8bdd\u3001\u63a5\u6897\u3001\u6f5c\u6c34\u3002OneBot v11 + NapCat\uff0c\u96f6\u6784\u5efa",
-    "id": "Canvixel-Eloweny/ai-bot-groupmate",
-    "language": "JavaScript",
-    "name": "Canvixel-Eloweny/ai-bot-groupmate",
-    "stars": 49,
-    "updated_at": "2026-10-14T17:46:32Z",
-    "url": "https://github.com/Canvixel-Eloweny/ai-bot-groupmate"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -225,15 +252,6 @@
     "url": "https://github.com/njfuzrs/agent-backend"
   },
   {
-    "description": "Bodhi \u2014 a local-first AI agent workbench in Rust: desktop app, Bamboo runtime, Jiandu shared memory, Nova computer use a",
-    "id": "bigduu/Zenith",
-    "language": "JavaScript",
-    "name": "bigduu/Zenith",
-    "stars": 6,
-    "updated_at": "2026-10-14T18:13:33Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -266,7 +284,7 @@
     "language": "Python",
     "name": "CIRISAI/CIRISAgent",
     "stars": 56,
-    "updated_at": "2026-10-14T17:24:55Z",
+    "updated_at": "2026-10-14T18:15:40Z",
     "url": "https://github.com/CIRISAI/CIRISAgent"
   },
   {
@@ -293,7 +311,7 @@
     "language": "Rust",
     "name": "ljedrz/nachalnik",
     "stars": 5,
-    "updated_at": "2026-10-14T16:24:46Z",
+    "updated_at": "2026-10-14T18:29:40Z",
     "url": "https://github.com/ljedrz/nachalnik"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-14T15:35:48Z",
     "url": "https://github.com/xhqing/ExecutiveAssistantAgent"
-  },
-  {
-    "description": "DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy.",
-    "id": "michaelt69492/taracode",
-    "language": "Go",
-    "name": "michaelt69492/taracode",
-    "stars": 0,
-    "updated_at": "2026-10-14T15:34:08Z",
-    "url": "https://github.com/michaelt69492/taracode"
-  },
-  {
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
-    "id": "bigfish1913/pi-rust",
-    "language": "Rust",
-    "name": "bigfish1913/pi-rust",
-    "stars": 104,
-    "updated_at": "2026-10-14T15:26:25Z",
-    "url": "https://github.com/bigfish1913/pi-rust"
   }
 ]
