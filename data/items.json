@@ -1,11 +1,92 @@
 [
   {
+    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
+    "id": "xanstomper/mochi",
+    "language": "TypeScript",
+    "name": "xanstomper/mochi",
+    "stars": 0,
+    "updated_at": "2026-10-14T14:29:40Z",
+    "url": "https://github.com/xanstomper/mochi"
+  },
+  {
+    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
+    "id": "wuyhong715/rikkahub-agent-pure",
+    "language": "Kotlin",
+    "name": "wuyhong715/rikkahub-agent-pure",
+    "stars": 42,
+    "updated_at": "2026-10-14T14:29:52Z",
+    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
+  },
+  {
+    "description": "YantrikDB memory provider for NousResearch/hermes-agent \u2014 self-maintaining memory with benchmarked recall, self-tuning r",
+    "id": "yantrikos/yantrikdb-hermes-plugin",
+    "language": "Python",
+    "name": "yantrikos/yantrikdb-hermes-plugin",
+    "stars": 96,
+    "updated_at": "2026-10-14T14:28:41Z",
+    "url": "https://github.com/yantrikos/yantrikdb-hermes-plugin"
+  },
+  {
+    "description": "\u628a DeepSeek Harness \u6253\u5305\u6210\u72ec\u7acb Android \u5e94\u7528\uff1a\u81ea\u5e26 Node \u8fd0\u884c\u65f6\uff0c\u88c5\u4e2a APK \u5c31\u80fd\u7528\u3002\u4e0d\u9700\u8981 Termux\u3001\u4e0d\u9700\u8981 proot\u3001\u4e0d\u9700\u8981 root\u3001\u4e0d\u9700\u8981\u7535\u8111\u3002\u5185\u542b\u5b8c\u6574\u7684 Android \u5e73\u53f0\u9002\u914d\u8e29\u5751\u8bb0\u5f55\uff08se",
+    "id": "yhm080315-sudo/dsh-android",
+    "language": "Java",
+    "name": "yhm080315-sudo/dsh-android",
+    "stars": 1,
+    "updated_at": "2026-10-14T14:27:21Z",
+    "url": "https://github.com/yhm080315-sudo/dsh-android"
+  },
+  {
+    "description": "\u7ed9 DSH \u7528\u7684\u5f00\u53d1\u65e5\u5fd7\u63d2\u4ef6\u3002\u81ea\u52a8\u8bb0\u5f55\"\u4e3a\u4ec0\u4e48\"\u548c\"\u8e29\u4e86\u4ec0\u4e48\u5751\"\u3002",
+    "id": "ccr-wer/dsh-devlog-auto",
+    "language": "JavaScript",
+    "name": "ccr-wer/dsh-devlog-auto",
+    "stars": 0,
+    "updated_at": "2026-10-14T14:24:33Z",
+    "url": "https://github.com/ccr-wer/dsh-devlog-auto"
+  },
+  {
+    "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
+    "id": "Jongtae/agentos",
+    "language": "Python",
+    "name": "Jongtae/agentos",
+    "stars": 0,
+    "updated_at": "2026-10-14T14:22:15Z",
+    "url": "https://github.com/Jongtae/agentos"
+  },
+  {
+    "description": "A local-first, standalone personal knowledge base for Windows. Import, organize, and create your own links \u2014 no browser ",
+    "id": "Hrecer/LinkPocket",
+    "language": "C#",
+    "name": "Hrecer/LinkPocket",
+    "stars": 0,
+    "updated_at": "2026-10-14T14:21:30Z",
+    "url": "https://github.com/Hrecer/LinkPocket"
+  },
+  {
+    "description": "CIRIS: an open-source AI assistant with a conscience you can check. Signed, auditable reasoning on every decision, a hum",
+    "id": "CIRISAI/CIRISAgent",
+    "language": "Python",
+    "name": "CIRISAI/CIRISAgent",
+    "stars": 56,
+    "updated_at": "2026-10-14T14:29:12Z",
+    "url": "https://github.com/CIRISAI/CIRISAgent"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-14T14:20:31Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
     "id": "genaforvena/mishe-tauftauf",
     "language": "Python",
     "name": "genaforvena/mishe-tauftauf",
     "stars": 3,
-    "updated_at": "2026-10-14T14:13:17Z",
+    "updated_at": "2026-10-14T14:29:50Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
@@ -22,7 +103,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "TypeScript",
     "name": "strands-agents/harness-sdk",
-    "stars": 8807,
+    "stars": 8808,
     "updated_at": "2026-10-14T14:06:47Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -34,24 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T14:04:53Z",
     "url": "https://github.com/junghyun-han/LEO-Routing-Optimization"
-  },
-  {
-    "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
-    "id": "Jongtae/agentos",
-    "language": "Python",
-    "name": "Jongtae/agentos",
-    "stars": 0,
-    "updated_at": "2026-10-14T14:03:39Z",
-    "url": "https://github.com/Jongtae/agentos"
-  },
-  {
-    "description": "\u7ed9 DSH \u7528\u7684\u5f00\u53d1\u65e5\u5fd7\u63d2\u4ef6\u3002\u81ea\u52a8\u8bb0\u5f55\"\u4e3a\u4ec0\u4e48\"\u548c\"\u8e29\u4e86\u4ec0\u4e48\u5751\"\u3002",
-    "id": "ccr-wer/dsh-devlog-auto",
-    "language": "JavaScript",
-    "name": "ccr-wer/dsh-devlog-auto",
-    "stars": 0,
-    "updated_at": "2026-10-14T14:02:53Z",
-    "url": "https://github.com/ccr-wer/dsh-devlog-auto"
   },
   {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
@@ -85,8 +148,8 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 6194,
-    "updated_at": "2026-10-14T13:52:38Z",
+    "stars": 6195,
+    "updated_at": "2026-10-14T14:25:02Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -122,7 +185,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-10-14T13:52:34Z",
+    "updated_at": "2026-10-14T14:22:23Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -135,15 +198,6 @@
     "url": "https://github.com/gptme/gptme"
   },
   {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-14T14:07:59Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
     "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
@@ -151,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T13:44:54Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
-    "id": "xanstomper/mochi",
-    "language": "TypeScript",
-    "name": "xanstomper/mochi",
-    "stars": 0,
-    "updated_at": "2026-10-14T13:42:57Z",
-    "url": "https://github.com/xanstomper/mochi"
   },
   {
     "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
@@ -189,15 +234,6 @@
     "url": "https://github.com/plurnk/plurnk"
   },
   {
-    "description": "A local-first, standalone personal knowledge base for Windows. Import, organize, and create your own links \u2014 no browser ",
-    "id": "Hrecer/LinkPocket",
-    "language": "C#",
-    "name": "Hrecer/LinkPocket",
-    "stars": 0,
-    "updated_at": "2026-10-14T13:33:02Z",
-    "url": "https://github.com/Hrecer/LinkPocket"
-  },
-  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -223,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-10-14T13:31:31Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "CIRIS: an open-source AI assistant with a conscience you can check. Signed, auditable reasoning on every decision, a hum",
-    "id": "CIRISAI/CIRISAgent",
-    "language": "Python",
-    "name": "CIRISAI/CIRISAgent",
-    "stars": 56,
-    "updated_at": "2026-10-14T13:52:14Z",
-    "url": "https://github.com/CIRISAI/CIRISAgent"
   },
   {
     "description": "Zemax OpticStudio \u8bed\u97f3\u52a9\u6559:\u672c\u5730 FunASR \u8bc6\u522b + \u667a\u8c31 GLM + TTS,22 \u4e2a ZOS-API \u5de5\u5177 + 10 \u8bfe\u5149\u5b66\u8bbe\u8ba1\u8bfe\u4ef6 | Voice tutor for Zemax OpticStudio: loc",
@@ -283,7 +310,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 1173,
+    "stars": 1174,
     "updated_at": "2026-10-14T12:57:15Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -378,15 +405,6 @@
     "url": "https://github.com/zaeem-rafiq/Call-Desk-public"
   },
   {
-    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
-    "id": "wuyhong715/rikkahub-agent-pure",
-    "language": "Kotlin",
-    "name": "wuyhong715/rikkahub-agent-pure",
-    "stars": 42,
-    "updated_at": "2026-10-14T13:51:33Z",
-    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
-  },
-  {
     "description": "An AI companion that decides when to stay silent \u2014 heartbeat-driven proactive dialogue with 16-dim emotion engine and co",
     "id": "olise366oi/kairos-agent",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-14T12:04:22Z",
     "url": "https://github.com/giridhar1103/NYCynapse.Ai"
-  },
-  {
-    "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
-    "id": "yurika0211/lucky-agent",
-    "language": "Go",
-    "name": "yurika0211/lucky-agent",
-    "stars": 15,
-    "updated_at": "2026-10-14T11:54:42Z",
-    "url": "https://github.com/yurika0211/lucky-agent"
-  },
-  {
-    "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
-    "id": "ximing/vital",
-    "language": "TypeScript",
-    "name": "ximing/vital",
-    "stars": 3,
-    "updated_at": "2026-10-14T11:48:39Z",
-    "url": "https://github.com/ximing/vital"
   }
 ]
