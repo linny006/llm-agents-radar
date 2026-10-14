@@ -1,11 +1,38 @@
 [
   {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-10-14T00:57:35Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "Tauri desktop shell for the local-first Bodhi agent: manages Bamboo startup/reuse and health; packaged builds open the B",
+    "id": "bigduu/Bodhi-AI",
+    "language": "JavaScript",
+    "name": "bigduu/Bodhi-AI",
+    "stars": 17,
+    "updated_at": "2026-10-14T00:57:31Z",
+    "url": "https://github.com/bigduu/Bodhi-AI"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 29,
+    "updated_at": "2026-10-14T00:51:35Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
     "id": "wuyhong715/rikkahub-agent-pure",
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 41,
-    "updated_at": "2026-10-14T00:40:27Z",
+    "updated_at": "2026-10-14T00:49:40Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -61,15 +88,6 @@
     "stars": 3,
     "updated_at": "2026-10-14T00:33:54Z",
     "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-10-14T00:40:41Z",
-    "url": "https://github.com/JSL107/personal_agents"
   },
   {
     "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
@@ -149,7 +167,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4448,
-    "updated_at": "2026-10-14T00:44:19Z",
+    "updated_at": "2026-10-14T00:54:41Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-13T23:28:36Z",
     "url": "https://github.com/plurnk/plurnk"
-  },
-  {
-    "description": "\u628a DeepSeek Harness \u6253\u5305\u6210\u72ec\u7acb Android \u5e94\u7528\uff1a\u81ea\u5e26 Node \u8fd0\u884c\u65f6\uff0c\u88c5\u4e2a APK \u5c31\u80fd\u7528\u3002\u4e0d\u9700\u8981 Termux\u3001\u4e0d\u9700\u8981 proot\u3001\u4e0d\u9700\u8981 root\u3001\u4e0d\u9700\u8981\u7535\u8111\u3002\u5185\u542b\u5b8c\u6574\u7684 Android \u5e73\u53f0\u9002\u914d\u8e29\u5751\u8bb0\u5f55\uff08se",
-    "id": "yhm080315-sudo/dsh-android",
-    "language": "Java",
-    "name": "yhm080315-sudo/dsh-android",
-    "stars": 0,
-    "updated_at": "2026-10-13T23:22:47Z",
-    "url": "https://github.com/yhm080315-sudo/dsh-android"
-  },
-  {
-    "description": "The coordination layer for Multiplayer AI",
-    "id": "cohexa-ai/agent-coherence",
-    "language": "Python",
-    "name": "cohexa-ai/agent-coherence",
-    "stars": 11,
-    "updated_at": "2026-10-13T23:21:22Z",
-    "url": "https://github.com/cohexa-ai/agent-coherence"
   }
 ]
