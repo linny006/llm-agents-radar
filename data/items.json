@@ -1,5 +1,86 @@
 [
   {
+    "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
+    "id": "chunleik/self-analyst",
+    "language": "Java",
+    "name": "chunleik/self-analyst",
+    "stars": 0,
+    "updated_at": "2026-10-14T09:58:45Z",
+    "url": "https://github.com/chunleik/self-analyst"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-14T09:56:54Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4448,
+    "updated_at": "2026-10-14T10:00:09Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 1171,
+    "updated_at": "2026-10-14T09:55:33Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 2,
+    "updated_at": "2026-10-14T09:55:09Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
+    "id": "agentpit-io/hunter-community",
+    "language": "Python",
+    "name": "agentpit-io/hunter-community",
+    "stars": 584,
+    "updated_at": "2026-10-14T09:53:33Z",
+    "url": "https://github.com/agentpit-io/hunter-community"
+  },
+  {
+    "description": "[ICLR'25] OpenRCA: Can Large Language Models Locate the Root Cause of Software Failures?",
+    "id": "microsoft/OpenRCA",
+    "language": "Python",
+    "name": "microsoft/OpenRCA",
+    "stars": 433,
+    "updated_at": "2026-10-14T09:59:53Z",
+    "url": "https://github.com/microsoft/OpenRCA"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-10-14T09:53:10Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Evidence-backed security alert triage on LangGraph \u2014 picks the next check by information gain, every verdict ships with ",
+    "id": "lzwhehe/probewise",
+    "language": "Python",
+    "name": "lzwhehe/probewise",
+    "stars": 0,
+    "updated_at": "2026-10-14T09:46:36Z",
+    "url": "https://github.com/lzwhehe/probewise"
+  },
+  {
     "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
     "id": "anchor-inference/daedalus",
     "language": "Python",
@@ -23,7 +104,7 @@
     "language": "Swift",
     "name": "gerardogrisolini/ZenCODE",
     "stars": 6,
-    "updated_at": "2026-10-14T09:42:20Z",
+    "updated_at": "2026-10-14T09:48:28Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
@@ -59,26 +140,8 @@
     "language": "\u2014",
     "name": "atria-asi/Atria-Dawn-Preview",
     "stars": 593,
-    "updated_at": "2026-10-14T09:39:07Z",
+    "updated_at": "2026-10-14T09:49:29Z",
     "url": "https://github.com/atria-asi/Atria-Dawn-Preview"
-  },
-  {
-    "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
-    "id": "chunleik/self-analyst",
-    "language": "Java",
-    "name": "chunleik/self-analyst",
-    "stars": 0,
-    "updated_at": "2026-10-14T09:38:25Z",
-    "url": "https://github.com/chunleik/self-analyst"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-14T09:31:43Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
@@ -86,7 +149,7 @@
     "language": "Java",
     "name": "kangwoo/aimon-core",
     "stars": 0,
-    "updated_at": "2026-10-14T09:26:17Z",
+    "updated_at": "2026-10-14T09:56:11Z",
     "url": "https://github.com/kangwoo/aimon-core"
   },
   {
@@ -97,24 +160,6 @@
     "stars": 221,
     "updated_at": "2026-10-14T09:24:54Z",
     "url": "https://github.com/neopen/story-shot-agent"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-10-14T09:35:31Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "[ICLR'25] OpenRCA: Can Large Language Models Locate the Root Cause of Software Failures?",
-    "id": "microsoft/OpenRCA",
-    "language": "Python",
-    "name": "microsoft/OpenRCA",
-    "stars": 433,
-    "updated_at": "2026-10-14T09:20:45Z",
-    "url": "https://github.com/microsoft/OpenRCA"
   },
   {
     "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
@@ -131,7 +176,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3594,
-    "updated_at": "2026-10-14T09:14:49Z",
+    "updated_at": "2026-10-14T09:56:44Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -140,7 +185,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-14T09:13:18Z",
+    "updated_at": "2026-10-14T09:48:03Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -178,24 +223,6 @@
     "stars": 3,
     "updated_at": "2026-10-14T08:56:51Z",
     "url": "https://github.com/ximing/vital"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4448,
-    "updated_at": "2026-10-14T09:45:15Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
-    "id": "agentpit-io/hunter-community",
-    "language": "Python",
-    "name": "agentpit-io/hunter-community",
-    "stars": 584,
-    "updated_at": "2026-10-14T08:51:36Z",
-    "url": "https://github.com/agentpit-io/hunter-community"
   },
   {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
@@ -284,7 +311,7 @@
     "language": "Python",
     "name": "pzc2004/HSR_Nous",
     "stars": 9,
-    "updated_at": "2026-10-14T08:13:26Z",
+    "updated_at": "2026-10-14T09:54:39Z",
     "url": "https://github.com/pzc2004/HSR_Nous"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-14T07:32:37Z",
     "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
-  },
-  {
-    "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
-    "id": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
-    "language": "Python",
-    "name": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
-    "stars": 5,
-    "updated_at": "2026-10-14T07:31:34Z",
-    "url": "https://github.com/mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo"
-  },
-  {
-    "description": "Evidence-backed security alert triage on LangGraph \u2014 picks the next check by information gain, every verdict ships with ",
-    "id": "lzwhehe/probewise",
-    "language": "Python",
-    "name": "lzwhehe/probewise",
-    "stars": 0,
-    "updated_at": "2026-10-14T07:30:41Z",
-    "url": "https://github.com/lzwhehe/probewise"
-  },
-  {
-    "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
-    "id": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
-    "language": "Python",
-    "name": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
-    "stars": 3,
-    "updated_at": "2026-10-14T07:30:33Z",
-    "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
   }
 ]
