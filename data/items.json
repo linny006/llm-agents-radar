@@ -1,12 +1,21 @@
 [
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "TypeScript",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8808,
+    "updated_at": "2026-10-14T15:30:02Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "A\u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\uff1a\u80a1\u7968\u5206\u6790\u3001\u91cf\u5316\u4ea4\u6613\u5206\u6790\u3001\u76d8\u540e\u590d\u76d8\u684c\u9762\u5de5\u4f5c\u53f0\u2014\u2014easy stock",
+    "id": "jundizhou/easy-stock",
     "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-10-14T15:13:41Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
+    "name": "jundizhou/easy-stock",
+    "stars": 1465,
+    "updated_at": "2026-10-14T15:29:23Z",
+    "url": "https://github.com/jundizhou/easy-stock"
   },
   {
     "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
@@ -14,8 +23,62 @@
     "language": "TypeScript",
     "name": "xanstomper/mochi",
     "stars": 0,
-    "updated_at": "2026-10-14T15:13:23Z",
+    "updated_at": "2026-10-14T15:27:19Z",
     "url": "https://github.com/xanstomper/mochi"
+  },
+  {
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
+    "id": "bigfish1913/pi-rust",
+    "language": "Rust",
+    "name": "bigfish1913/pi-rust",
+    "stars": 104,
+    "updated_at": "2026-10-14T15:26:25Z",
+    "url": "https://github.com/bigfish1913/pi-rust"
+  },
+  {
+    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
+    "id": "haibingzhao/easyai",
+    "language": "Kotlin",
+    "name": "haibingzhao/easyai",
+    "stars": 1,
+    "updated_at": "2026-10-14T15:25:26Z",
+    "url": "https://github.com/haibingzhao/easyai"
+  },
+  {
+    "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
+    "id": "cheeezis/job_finder",
+    "language": "Python",
+    "name": "cheeezis/job_finder",
+    "stars": 0,
+    "updated_at": "2026-10-14T15:25:11Z",
+    "url": "https://github.com/cheeezis/job_finder"
+  },
+  {
+    "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
+    "id": "anchor-inference/daedalus",
+    "language": "Python",
+    "name": "anchor-inference/daedalus",
+    "stars": 2,
+    "updated_at": "2026-10-14T15:25:05Z",
+    "url": "https://github.com/anchor-inference/daedalus"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4448,
+    "updated_at": "2026-10-14T15:22:34Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-10-14T15:29:34Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Zemax OpticStudio \u8bed\u97f3\u52a9\u6559:\u672c\u5730 FunASR \u8bc6\u522b + \u667a\u8c31 GLM + TTS,22 \u4e2a ZOS-API \u5de5\u5177 + 10 \u8bfe\u5149\u5b66\u8bbe\u8ba1\u8bfe\u4ef6 | Voice tutor for Zemax OpticStudio: loc",
@@ -23,7 +86,7 @@
     "language": "Python",
     "name": "lezi1267/zemax-voice-tutor",
     "stars": 0,
-    "updated_at": "2026-10-14T15:11:56Z",
+    "updated_at": "2026-10-14T15:15:27Z",
     "url": "https://github.com/lezi1267/zemax-voice-tutor"
   },
   {
@@ -45,15 +108,6 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4448,
-    "updated_at": "2026-10-14T15:13:31Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
     "description": "\u6b66\u6c49\u5927\u5b66\u5730\u7a7a\u5b66\u9662 2026 \u5927\u521b\uff1a\u591a\u667a\u80fd\u4f53 AI \u91ce\u5916\u53f0\u7ad9\u7ba1\u7406\u7cfb\u7edf \u2014\u2014 \u76d1\u6d4b/\u8d28\u63a7/\u7814\u5224/\u6d3e\u5355/\u5f52\u6863\u95ed\u73af\u3002LangGraph \u8fd0\u884c\u65f6 \u00b7 MCP \u5de5\u5177\u63a5\u53e3 \u00b7 \u89c4\u5219\u88c1\u51b3 + \u5927\u6a21\u578b\u5f52\u56e0\u3002\u516c\u5f00\u8131\u654f\u4ed3\u5e93",
     "id": "yasunosubaru/field-station-agent",
     "language": "Python",
@@ -61,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T15:01:58Z",
     "url": "https://github.com/yasunosubaru/field-station-agent"
-  },
-  {
-    "description": "A\u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\uff1a\u80a1\u7968\u5206\u6790\u3001\u91cf\u5316\u4ea4\u6613\u5206\u6790\u3001\u76d8\u540e\u590d\u76d8\u684c\u9762\u5de5\u4f5c\u53f0\u2014\u2014easy stock",
-    "id": "jundizhou/easy-stock",
-    "language": "Go",
-    "name": "jundizhou/easy-stock",
-    "stars": 1465,
-    "updated_at": "2026-10-14T14:55:23Z",
-    "url": "https://github.com/jundizhou/easy-stock"
   },
   {
     "description": "Multi-Agent Conversation Framework in TypeScript",
@@ -167,7 +212,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 42,
-    "updated_at": "2026-10-14T14:29:52Z",
+    "updated_at": "2026-10-14T15:21:13Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -194,7 +239,7 @@
     "language": "Python",
     "name": "Jongtae/agentos",
     "stars": 0,
-    "updated_at": "2026-10-14T15:09:10Z",
+    "updated_at": "2026-10-14T15:29:02Z",
     "url": "https://github.com/Jongtae/agentos"
   },
   {
@@ -203,7 +248,7 @@
     "language": "Python",
     "name": "CIRISAI/CIRISAgent",
     "stars": 56,
-    "updated_at": "2026-10-14T15:05:40Z",
+    "updated_at": "2026-10-14T15:26:43Z",
     "url": "https://github.com/CIRISAI/CIRISAgent"
   },
   {
@@ -214,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T14:10:13Z",
     "url": "https://github.com/memoways/ava-proto1"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "TypeScript",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8808,
-    "updated_at": "2026-10-14T14:57:08Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "\uc2dc\ubcc0 \uc800\uada4\ub3c4 \uc704\uc131\ub9dd\uc758 \uc138\uc158 \uacbd\ub85c \ucd5c\uc801\ud654: \uadf8\ub798\ud504 \uac15\ud654\ud559\uc2b5(PPO-GCN), \uc218\ub9ac\ucd5c\uc801\ud654(CP-SAT), LLM Optimization Agent",
@@ -268,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T14:52:30Z",
     "url": "https://github.com/uukuguy/capstone"
-  },
-  {
-    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
-    "id": "haibingzhao/easyai",
-    "language": "Kotlin",
-    "name": "haibingzhao/easyai",
-    "stars": 1,
-    "updated_at": "2026-10-14T13:39:29Z",
-    "url": "https://github.com/haibingzhao/easyai"
   },
   {
     "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
@@ -378,15 +405,6 @@
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
-    "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
-    "id": "anchor-inference/daedalus",
-    "language": "Python",
-    "name": "anchor-inference/daedalus",
-    "stars": 2,
-    "updated_at": "2026-10-14T12:50:59Z",
-    "url": "https://github.com/anchor-inference/daedalus"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
@@ -430,23 +448,5 @@
     "stars": 16703,
     "updated_at": "2026-10-14T12:39:54Z",
     "url": "https://github.com/HKUDS/DeepCode"
-  },
-  {
-    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 53,
-    "updated_at": "2026-10-14T12:38:47Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
-    "id": "ljedrz/nachalnik",
-    "language": "Rust",
-    "name": "ljedrz/nachalnik",
-    "stars": 5,
-    "updated_at": "2026-10-14T12:37:59Z",
-    "url": "https://github.com/ljedrz/nachalnik"
   }
 ]
