@@ -1,5 +1,77 @@
 [
   {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-14T14:13:17Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
+    "id": "memoways/ava-proto1",
+    "language": "TypeScript",
+    "name": "memoways/ava-proto1",
+    "stars": 0,
+    "updated_at": "2026-10-14T14:10:13Z",
+    "url": "https://github.com/memoways/ava-proto1"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "TypeScript",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8807,
+    "updated_at": "2026-10-14T14:06:47Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "\uc2dc\ubcc0 \uc800\uada4\ub3c4 \uc704\uc131\ub9dd\uc758 \uc138\uc158 \uacbd\ub85c \ucd5c\uc801\ud654: \uadf8\ub798\ud504 \uac15\ud654\ud559\uc2b5(PPO-GCN), \uc218\ub9ac\ucd5c\uc801\ud654(CP-SAT), LLM Optimization Agent",
+    "id": "junghyun-han/LEO-Routing-Optimization",
+    "language": "Python",
+    "name": "junghyun-han/LEO-Routing-Optimization",
+    "stars": 0,
+    "updated_at": "2026-10-14T14:04:53Z",
+    "url": "https://github.com/junghyun-han/LEO-Routing-Optimization"
+  },
+  {
+    "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
+    "id": "Jongtae/agentos",
+    "language": "Python",
+    "name": "Jongtae/agentos",
+    "stars": 0,
+    "updated_at": "2026-10-14T14:03:39Z",
+    "url": "https://github.com/Jongtae/agentos"
+  },
+  {
+    "description": "\u7ed9 DSH \u7528\u7684\u5f00\u53d1\u65e5\u5fd7\u63d2\u4ef6\u3002\u81ea\u52a8\u8bb0\u5f55\"\u4e3a\u4ec0\u4e48\"\u548c\"\u8e29\u4e86\u4ec0\u4e48\u5751\"\u3002",
+    "id": "ccr-wer/dsh-devlog-auto",
+    "language": "JavaScript",
+    "name": "ccr-wer/dsh-devlog-auto",
+    "stars": 0,
+    "updated_at": "2026-10-14T14:02:53Z",
+    "url": "https://github.com/ccr-wer/dsh-devlog-auto"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-14T14:00:58Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
+    "id": "edjafarov/kiagent-core",
+    "language": "TypeScript",
+    "name": "edjafarov/kiagent-core",
+    "stars": 7,
+    "updated_at": "2026-10-14T14:00:51Z",
+    "url": "https://github.com/edjafarov/kiagent-core"
+  },
+  {
     "description": "\u6b66\u6c49\u5927\u5b66\u5730\u7a7a\u5b66\u9662 2026 \u5927\u521b\uff1a\u591a\u667a\u80fd\u4f53 AI \u91ce\u5916\u53f0\u7ad9\u7ba1\u7406\u7cfb\u7edf \u2014\u2014 \u76d1\u6d4b/\u8d28\u63a7/\u7814\u5224/\u6d3e\u5355/\u5f52\u6863\u95ed\u73af\u3002LangGraph \u8fd0\u884c\u65f6 \u00b7 MCP \u5de5\u5177\u63a5\u53e3 \u00b7 \u89c4\u5219\u88c1\u51b3 + \u5927\u6a21\u578b\u5f52\u56e0\u3002\u516c\u5f00\u8131\u654f\u4ed3\u5e93",
     "id": "yasunosubaru/field-station-agent",
     "language": "Python",
@@ -25,24 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T13:51:55Z",
     "url": "https://github.com/shrek-abaper/sap-nexus-agent"
-  },
-  {
-    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
-    "id": "memoways/ava-proto1",
-    "language": "TypeScript",
-    "name": "memoways/ava-proto1",
-    "stars": 0,
-    "updated_at": "2026-10-14T13:51:53Z",
-    "url": "https://github.com/memoways/ava-proto1"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-14T13:51:15Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
@@ -86,7 +140,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-14T13:45:03Z",
+    "updated_at": "2026-10-14T14:07:59Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -99,15 +153,6 @@
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-14T13:44:46Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
     "id": "xanstomper/mochi",
     "language": "TypeScript",
@@ -115,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T13:42:57Z",
     "url": "https://github.com/xanstomper/mochi"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "TypeScript",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8807,
-    "updated_at": "2026-10-14T13:44:06Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
@@ -214,15 +250,6 @@
     "stars": 2,
     "updated_at": "2026-10-14T13:27:41Z",
     "url": "https://github.com/yy606747/obsidian-vow"
-  },
-  {
-    "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
-    "id": "Jongtae/agentos",
-    "language": "Python",
-    "name": "Jongtae/agentos",
-    "stars": 0,
-    "updated_at": "2026-10-14T13:34:52Z",
-    "url": "https://github.com/Jongtae/agentos"
   },
   {
     "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
@@ -405,15 +432,6 @@
     "url": "https://github.com/giridhar1103/NYCynapse.Ai"
   },
   {
-    "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
-    "id": "edjafarov/kiagent-core",
-    "language": "TypeScript",
-    "name": "edjafarov/kiagent-core",
-    "stars": 7,
-    "updated_at": "2026-10-14T12:07:03Z",
-    "url": "https://github.com/edjafarov/kiagent-core"
-  },
-  {
     "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
     "id": "yurika0211/lucky-agent",
     "language": "Go",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-14T11:48:39Z",
     "url": "https://github.com/ximing/vital"
-  },
-  {
-    "description": "\ub124\uc774\ubc84 \ud56d\uacf5\uad8c\u00b7\uc2a4\uce74\uc774\uc2a4\uce90\ub108\uc5d0\uc11c \uc9c0\uae08 \uc0b4 \uc218 \uc788\ub294 \ud56d\uacf5\uad8c\uc744 \uc870\ud68c\ud558\ub294 LLM \uc5d0\uc774\uc804\ud2b8\uc6a9 CLI \u00b7 Korean flight search CLI for LLM agents (Naver Flights, Skyscanner)",
-    "id": "Rukkakka/baenggipyo",
-    "language": "Python",
-    "name": "Rukkakka/baenggipyo",
-    "stars": 0,
-    "updated_at": "2026-10-14T11:44:50Z",
-    "url": "https://github.com/Rukkakka/baenggipyo"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 29,
-    "updated_at": "2026-10-14T11:43:16Z",
-    "url": "https://github.com/tomcounsell/ai"
   }
 ]
