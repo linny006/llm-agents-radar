@@ -1,5 +1,68 @@
 [
   {
+    "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
+    "id": "Jongtae/agentos",
+    "language": "Python",
+    "name": "Jongtae/agentos",
+    "stars": 0,
+    "updated_at": "2026-10-14T11:57:11Z",
+    "url": "https://github.com/Jongtae/agentos"
+  },
+  {
+    "description": "Lean, extended fork of Nous Research's Hermes Agent \u2014 free model suite, connectors, and ~20 perf fixes. Upstream credite",
+    "id": "Chensihakniroth/anakot-agent-v1",
+    "language": "Python",
+    "name": "Chensihakniroth/anakot-agent-v1",
+    "stars": 0,
+    "updated_at": "2026-10-14T11:57:02Z",
+    "url": "https://github.com/Chensihakniroth/anakot-agent-v1"
+  },
+  {
+    "description": "A guide to New York City you can ask anything: an agent that answers from a live NYC lakehouse first, then city feeds an",
+    "id": "giridhar1103/NYCynapse.Ai",
+    "language": "Python",
+    "name": "giridhar1103/NYCynapse.Ai",
+    "stars": 0,
+    "updated_at": "2026-10-14T11:54:29Z",
+    "url": "https://github.com/giridhar1103/NYCynapse.Ai"
+  },
+  {
+    "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
+    "id": "yurika0211/lucky-agent",
+    "language": "Go",
+    "name": "yurika0211/lucky-agent",
+    "stars": 15,
+    "updated_at": "2026-10-14T11:54:42Z",
+    "url": "https://github.com/yurika0211/lucky-agent"
+  },
+  {
+    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
+    "id": "memoways/ava-proto1",
+    "language": "TypeScript",
+    "name": "memoways/ava-proto1",
+    "stars": 0,
+    "updated_at": "2026-10-14T11:53:59Z",
+    "url": "https://github.com/memoways/ava-proto1"
+  },
+  {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 5,
+    "updated_at": "2026-10-14T11:53:04Z",
+    "url": "https://github.com/ljedrz/nachalnik"
+  },
+  {
+    "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
+    "id": "ximing/vital",
+    "language": "TypeScript",
+    "name": "ximing/vital",
+    "stars": 3,
+    "updated_at": "2026-10-14T11:48:39Z",
+    "url": "https://github.com/ximing/vital"
+  },
+  {
     "description": "\ub124\uc774\ubc84 \ud56d\uacf5\uad8c\u00b7\uc2a4\uce74\uc774\uc2a4\uce90\ub108\uc5d0\uc11c \uc9c0\uae08 \uc0b4 \uc218 \uc788\ub294 \ud56d\uacf5\uad8c\uc744 \uc870\ud68c\ud558\ub294 LLM \uc5d0\uc774\uc804\ud2b8\uc6a9 CLI \u00b7 Korean flight search CLI for LLM agents (Naver Flights, Skyscanner)",
     "id": "Rukkakka/baenggipyo",
     "language": "Python",
@@ -7,6 +70,15 @@
     "stars": 0,
     "updated_at": "2026-10-14T11:44:50Z",
     "url": "https://github.com/Rukkakka/baenggipyo"
+  },
+  {
+    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
+    "id": "uukuguy/capstone",
+    "language": "Python",
+    "name": "uukuguy/capstone",
+    "stars": 0,
+    "updated_at": "2026-10-14T11:44:49Z",
+    "url": "https://github.com/uukuguy/capstone"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -23,7 +95,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4448,
-    "updated_at": "2026-10-14T11:44:55Z",
+    "updated_at": "2026-10-14T11:55:51Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -43,15 +115,6 @@
     "stars": 3,
     "updated_at": "2026-10-14T11:42:28Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
-    "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
-    "id": "ximing/vital",
-    "language": "TypeScript",
-    "name": "ximing/vital",
-    "stars": 3,
-    "updated_at": "2026-10-14T11:41:36Z",
-    "url": "https://github.com/ximing/vital"
   },
   {
     "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
@@ -88,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T11:34:35Z",
     "url": "https://github.com/tzur669-lab/whatsapp-assistant"
-  },
-  {
-    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
-    "id": "ljedrz/nachalnik",
-    "language": "Rust",
-    "name": "ljedrz/nachalnik",
-    "stars": 5,
-    "updated_at": "2026-10-14T11:30:40Z",
-    "url": "https://github.com/ljedrz/nachalnik"
   },
   {
     "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
@@ -160,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T11:08:56Z",
     "url": "https://github.com/xanstomper/mochi"
-  },
-  {
-    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
-    "id": "memoways/ava-proto1",
-    "language": "TypeScript",
-    "name": "memoways/ava-proto1",
-    "stars": 0,
-    "updated_at": "2026-10-14T11:04:59Z",
-    "url": "https://github.com/memoways/ava-proto1"
   },
   {
     "description": "An LLM agent that runs on your Android phone and drives it: 13 ms accessibility-bridge screen reads, unrooted shell priv",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-14T09:03:53Z",
     "url": "https://github.com/aimegabase/ai-megabase-log"
-  },
-  {
-    "description": "Shared AI agents for teams: one agent per channel, with memory, connected apps and approvals. Open source and self-hosta",
-    "id": "janakrathi/Teamski",
-    "language": "TypeScript",
-    "name": "janakrathi/Teamski",
-    "stars": 4,
-    "updated_at": "2026-10-14T09:03:41Z",
-    "url": "https://github.com/janakrathi/Teamski"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-10-14T08:51:05Z",
-    "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
-    "description": "The coordination layer for Multiplayer AI",
-    "id": "cohexa-ai/agent-coherence",
-    "language": "Python",
-    "name": "cohexa-ai/agent-coherence",
-    "stars": 11,
-    "updated_at": "2026-10-14T09:08:07Z",
-    "url": "https://github.com/cohexa-ai/agent-coherence"
-  },
-  {
-    "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
-    "id": "Jongtae/agentos",
-    "language": "Python",
-    "name": "Jongtae/agentos",
-    "stars": 0,
-    "updated_at": "2026-10-14T08:33:42Z",
-    "url": "https://github.com/Jongtae/agentos"
-  },
-  {
-    "description": "Agent \u81ea\u52a8\u6d4b\u8bd5\u7cfb\u7edf\uff1aLangGraph + LLM \u7f16\u6392\u7684 API/Web UI \u81ea\u52a8\u5316\u6d4b\u8bd5\uff0c\u4ece OpenAPI \u5951\u7ea6\u751f\u6210\u7528\u4f8b\u3001\u6267\u884c\u6d4b\u8bd5\u3001\u81ea\u52a8\u91cd\u8bd5\u4e0e\u7f3a\u9677\u5f52\u56e0\uff0c\u4ea7\u51fa\u53ef\u89c6\u5316\u62a5\u544a",
-    "id": "lefan17/agent-test-hub",
-    "language": "Python",
-    "name": "lefan17/agent-test-hub",
-    "stars": 2,
-    "updated_at": "2026-10-14T08:36:59Z",
-    "url": "https://github.com/lefan17/agent-test-hub"
   }
 ]
