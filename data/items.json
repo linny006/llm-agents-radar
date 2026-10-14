@@ -1,12 +1,21 @@
 [
   {
-    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
-    "id": "xanstomper/mochi",
-    "language": "TypeScript",
-    "name": "xanstomper/mochi",
+    "description": "Capability-ontology-driven SAP capability supplier. One call answers one business question; endpoint chains, as-of consi",
+    "id": "shrek-abaper/sap-nexus-agent",
+    "language": "Python",
+    "name": "shrek-abaper/sap-nexus-agent",
     "stars": 0,
-    "updated_at": "2026-10-14T13:14:58Z",
-    "url": "https://github.com/xanstomper/mochi"
+    "updated_at": "2026-10-14T13:30:04Z",
+    "url": "https://github.com/shrek-abaper/sap-nexus-agent"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-14T13:29:37Z",
+    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "Zemax OpticStudio \u8bed\u97f3\u52a9\u6559:\u672c\u5730 FunASR \u8bc6\u522b + \u667a\u8c31 GLM + TTS,22 \u4e2a ZOS-API \u5de5\u5177 + 10 \u8bfe\u5149\u5b66\u8bbe\u8ba1\u8bfe\u4ef6 | Voice tutor for Zemax OpticStudio: loc",
@@ -14,8 +23,62 @@
     "language": "Python",
     "name": "lezi1267/zemax-voice-tutor",
     "stars": 0,
-    "updated_at": "2026-10-14T13:08:25Z",
+    "updated_at": "2026-10-14T13:29:25Z",
     "url": "https://github.com/lezi1267/zemax-voice-tutor"
+  },
+  {
+    "description": "A self-hosted AI companion exploring evolving relationship memory, initiative, and cross-device context.",
+    "id": "yy606747/obsidian-vow",
+    "language": "Python",
+    "name": "yy606747/obsidian-vow",
+    "stars": 2,
+    "updated_at": "2026-10-14T13:27:41Z",
+    "url": "https://github.com/yy606747/obsidian-vow"
+  },
+  {
+    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
+    "id": "xanstomper/mochi",
+    "language": "TypeScript",
+    "name": "xanstomper/mochi",
+    "stars": 0,
+    "updated_at": "2026-10-14T13:26:53Z",
+    "url": "https://github.com/xanstomper/mochi"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-14T13:26:39Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
+    "id": "Jongtae/agentos",
+    "language": "Python",
+    "name": "Jongtae/agentos",
+    "stars": 0,
+    "updated_at": "2026-10-14T13:26:34Z",
+    "url": "https://github.com/Jongtae/agentos"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-10-14T13:25:54Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
+    "id": "xieguigang/sciBASIC",
+    "language": "Visual Basic .NET",
+    "name": "xieguigang/sciBASIC",
+    "stars": 79,
+    "updated_at": "2026-10-14T13:23:01Z",
+    "url": "https://github.com/xieguigang/sciBASIC"
   },
   {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
@@ -23,8 +86,26 @@
     "language": "Python",
     "name": "genaforvena/mishe-tauftauf",
     "stars": 3,
-    "updated_at": "2026-10-14T13:06:38Z",
+    "updated_at": "2026-10-14T13:21:25Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "A Python engine and in-process arena for running, replaying, and analyzing 6 nimmt! games with deterministic bots and LL",
+    "id": "denisakkavim/sixnimmt",
+    "language": "Python",
+    "name": "denisakkavim/sixnimmt",
+    "stars": 0,
+    "updated_at": "2026-10-14T13:18:38Z",
+    "url": "https://github.com/denisakkavim/sixnimmt"
+  },
+  {
+    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
+    "id": "uukuguy/capstone",
+    "language": "Python",
+    "name": "uukuguy/capstone",
+    "stars": 0,
+    "updated_at": "2026-10-14T13:15:52Z",
+    "url": "https://github.com/uukuguy/capstone"
   },
   {
     "description": "A local-first, standalone personal knowledge base for Windows. Import, organize, and create your own links \u2014 no browser ",
@@ -41,7 +122,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 6193,
-    "updated_at": "2026-10-14T13:14:23Z",
+    "updated_at": "2026-10-14T13:29:44Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -54,15 +135,6 @@
     "url": "https://github.com/thehope2k/minimalist-agent"
   },
   {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-14T12:54:35Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "SRE Agent - CNCF Sandbox Project",
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
@@ -72,15 +144,6 @@
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
-    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
-    "id": "xieguigang/sciBASIC",
-    "language": "Visual Basic .NET",
-    "name": "xieguigang/sciBASIC",
-    "stars": 79,
-    "updated_at": "2026-10-14T12:51:02Z",
-    "url": "https://github.com/xieguigang/sciBASIC"
-  },
-  {
     "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
     "id": "anchor-inference/daedalus",
     "language": "Python",
@@ -88,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-10-14T12:50:59Z",
     "url": "https://github.com/anchor-inference/daedalus"
-  },
-  {
-    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
-    "id": "uukuguy/capstone",
-    "language": "Python",
-    "name": "uukuguy/capstone",
-    "stars": 0,
-    "updated_at": "2026-10-14T13:13:48Z",
-    "url": "https://github.com/uukuguy/capstone"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -162,15 +216,6 @@
     "url": "https://github.com/HKUDS/DeepCode"
   },
   {
-    "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
-    "id": "Jongtae/agentos",
-    "language": "Python",
-    "name": "Jongtae/agentos",
-    "stars": 0,
-    "updated_at": "2026-10-14T13:01:40Z",
-    "url": "https://github.com/Jongtae/agentos"
-  },
-  {
     "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
     "id": "xianyu-sheng/Xenon",
     "language": "Python",
@@ -203,7 +248,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 42,
-    "updated_at": "2026-10-14T12:33:19Z",
+    "updated_at": "2026-10-14T13:17:03Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -212,7 +257,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-14T13:04:29Z",
+    "updated_at": "2026-10-14T13:29:29Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -243,21 +288,12 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-14T12:12:28Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4448,
-    "updated_at": "2026-10-14T12:27:06Z",
+    "updated_at": "2026-10-14T13:20:41Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -266,7 +302,7 @@
     "language": "TypeScript",
     "name": "memoways/ava-proto1",
     "stars": 0,
-    "updated_at": "2026-10-14T12:08:38Z",
+    "updated_at": "2026-10-14T13:18:15Z",
     "url": "https://github.com/memoways/ava-proto1"
   },
   {
@@ -277,15 +313,6 @@
     "stars": 4113,
     "updated_at": "2026-10-14T12:08:56Z",
     "url": "https://github.com/langroid/langroid"
-  },
-  {
-    "description": "Capability-ontology-driven SAP capability supplier. One call answers one business question; endpoint chains, as-of consi",
-    "id": "shrek-abaper/sap-nexus-agent",
-    "language": "Python",
-    "name": "shrek-abaper/sap-nexus-agent",
-    "stars": 0,
-    "updated_at": "2026-10-14T12:07:31Z",
-    "url": "https://github.com/shrek-abaper/sap-nexus-agent"
   },
   {
     "description": "A guide to New York City you can ask anything: an agent that answers from a live NYC lakehouse first, then city feeds an",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-14T11:03:49Z",
     "url": "https://github.com/Arnavvs/droidpilot"
-  },
-  {
-    "description": "Coding agent that plans, changes, tests and reviews, and touches your files only when you approve. Windows, macOS, Linux",
-    "id": "huynvic/albertcode-swe-agent",
-    "language": "Shell",
-    "name": "huynvic/albertcode-swe-agent",
-    "stars": 0,
-    "updated_at": "2026-10-14T11:01:50Z",
-    "url": "https://github.com/huynvic/albertcode-swe-agent"
-  },
-  {
-    "description": "\u5de5\u5546\u4e1a\u50a8\u80fd\u5cf0\u8c37\u5957\u5229\u4e0e\u9700\u6c42\u54cd\u5e94\u591a\u667a\u80fd\u4f53\u4f18\u5316\u7cfb\u7edf\uff1a\u628a\u7535\u6c60\u70ed\u635f\u8017\u3001\u6e29\u5347\u7ea6\u675f\u4e0e\u5bff\u547d\u8870\u51cf\u6298\u7b97\u8fdb MILP \u76ee\u6807\u51fd\u6570\uff08FastAPI + PuLP/HiGHS + XGBoost + LangGraph\uff09",
-    "id": "qingfeng092802/TideShift",
-    "language": "Python",
-    "name": "qingfeng092802/TideShift",
-    "stars": 0,
-    "updated_at": "2026-10-14T10:59:13Z",
-    "url": "https://github.com/qingfeng092802/TideShift"
-  },
-  {
-    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 319,
-    "updated_at": "2026-10-14T10:54:03Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
   }
 ]
