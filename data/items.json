@@ -1,12 +1,75 @@
 [
   {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-10-14T09:26:17Z",
+    "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-14T09:25:44Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "\u5267\u672c\u5206\u955c\u667a\u80fd\u4f53\uff08PenShot\uff09\uff1a\u7535\u5f71/\u52a8\u6f2b/\u77ed\u5267/\u5c0f\u8bf4\u2192\u5206\u955c\u7247\u6bb5\u2192\u89c6\u9891\u63d0\u793a\u8bcd\u3002\u57fa\u4e8e LLM \u901a\u8fc7 LangGraph+LlamaIndex\u5b9e\u73b0\u4efb\u610f\u683c\u5f0f\u5267\u672c\u7684\u81ea\u52a8\u89e3\u6790\uff0c\u751f\u6210 Sora/Veo/Runway \u7b49\u6a21\u578b\u53ef\u7528\u7684\u8fde\u8d2ftext-to-v",
+    "id": "neopen/story-shot-agent",
+    "language": "Python",
+    "name": "neopen/story-shot-agent",
+    "stars": 221,
+    "updated_at": "2026-10-14T09:24:54Z",
+    "url": "https://github.com/neopen/story-shot-agent"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 6,
+    "updated_at": "2026-10-14T09:23:16Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "Local-first open-source AI coding agent built with Go \u2014 Desktop, CLI, TUI, WebUI, MCP, Skills, multi-agent workflows, an",
+    "id": "konglong87/go-e2e",
+    "language": "Go",
+    "name": "konglong87/go-e2e",
+    "stars": 0,
+    "updated_at": "2026-10-14T09:23:04Z",
+    "url": "https://github.com/konglong87/go-e2e"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-10-14T09:28:46Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "[ICLR'25] OpenRCA: Can Large Language Models Locate the Root Cause of Software Failures?",
     "id": "microsoft/OpenRCA",
     "language": "Python",
     "name": "microsoft/OpenRCA",
     "stars": 433,
-    "updated_at": "2026-10-14T09:14:33Z",
+    "updated_at": "2026-10-14T09:20:45Z",
     "url": "https://github.com/microsoft/OpenRCA"
+  },
+  {
+    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
+    "id": "memoways/ava-proto1",
+    "language": "TypeScript",
+    "name": "memoways/ava-proto1",
+    "stars": 0,
+    "updated_at": "2026-10-14T09:17:29Z",
+    "url": "https://github.com/memoways/ava-proto1"
   },
   {
     "description": "SRE Agent - CNCF Sandbox Project",
@@ -36,24 +99,6 @@
     "url": "https://github.com/tzur669-lab/whatsapp-assistant"
   },
   {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-14T09:11:03Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
-    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
-    "id": "memoways/ava-proto1",
-    "language": "TypeScript",
-    "name": "memoways/ava-proto1",
-    "stars": 0,
-    "updated_at": "2026-10-14T09:03:53Z",
-    "url": "https://github.com/memoways/ava-proto1"
-  },
-  {
     "description": "Per-episode logs of AI Megabase: Claude Opus 5.5 plays Factorio on its own",
     "id": "aimegabase/ai-megabase-log",
     "language": "\u2014",
@@ -72,15 +117,6 @@
     "url": "https://github.com/janakrathi/Teamski"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-10-14T09:00:23Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
     "id": "ximing/vital",
     "language": "TypeScript",
@@ -95,7 +131,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4448,
-    "updated_at": "2026-10-14T09:13:02Z",
+    "updated_at": "2026-10-14T09:30:05Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -124,15 +160,6 @@
     "stars": 79,
     "updated_at": "2026-10-14T08:50:16Z",
     "url": "https://github.com/xieguigang/sciBASIC"
-  },
-  {
-    "description": "Local-first open-source AI coding agent built with Go \u2014 Desktop, CLI, TUI, WebUI, MCP, Skills, multi-agent workflows, an",
-    "id": "konglong87/go-e2e",
-    "language": "Go",
-    "name": "konglong87/go-e2e",
-    "stars": 0,
-    "updated_at": "2026-10-14T08:46:36Z",
-    "url": "https://github.com/konglong87/go-e2e"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -189,15 +216,6 @@
     "url": "https://github.com/haibingzhao/easyai"
   },
   {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 6,
-    "updated_at": "2026-10-14T08:24:19Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
     "description": "\u901a\u7528 Agent Skill\uff08Agent Skills \u89c4\u8303\uff09\uff1a\u628a\u76ee\u6807\u53d8\u6210\u81ea\u8fd0\u884c\u5faa\u73af\u2014\u2014\u76ee\u6807\u5951\u7ea6 + \u8bfb\u72b6\u6001\u2192\u8ba1\u5212\u2192\u6267\u884c\u2192\u9a8c\u8bc1\u2192\u51b3\u7b56\u7684\u81ea\u68c0\u5faa\u73af\u3002WorkBuddy / Claude Code / OpenCode / Codex \u7b49\u5de5\u5177\u901a\u7528",
     "id": "asdfz2/goal-loop",
     "language": "Python",
@@ -252,15 +270,6 @@
     "url": "https://github.com/samiulhuda360/cloud-architect-agent"
   },
   {
-    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
-    "id": "kangwoo/aimon-core",
-    "language": "Java",
-    "name": "kangwoo/aimon-core",
-    "stars": 0,
-    "updated_at": "2026-10-14T09:08:50Z",
-    "url": "https://github.com/kangwoo/aimon-core"
-  },
-  {
     "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
     "id": "duongnq2798/vestiarion",
     "language": "TypeScript",
@@ -274,7 +283,7 @@
     "id": "410979729/scope-recall-hermes",
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
-    "stars": 317,
+    "stars": 318,
     "updated_at": "2026-10-14T07:59:53Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
@@ -329,7 +338,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5830,
-    "updated_at": "2026-10-14T08:51:15Z",
+    "updated_at": "2026-10-14T09:22:53Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-14T07:24:47Z",
     "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 131,
-    "updated_at": "2026-10-14T07:23:42Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
   }
 ]
