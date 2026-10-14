@@ -1,5 +1,113 @@
 [
   {
+    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
+    "id": "Danisxxx/comfyUI-LongLook",
+    "language": "Python",
+    "name": "Danisxxx/comfyUI-LongLook",
+    "stars": 2,
+    "updated_at": "2026-10-14T01:59:56Z",
+    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
+  },
+  {
+    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
+    "id": "axxafo/awesome-agent-benchmarks",
+    "language": "\u2014",
+    "name": "axxafo/awesome-agent-benchmarks",
+    "stars": 4,
+    "updated_at": "2026-10-14T01:59:07Z",
+    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
+  },
+  {
+    "description": "Google ADK (Go) meeting agent: turns meeting goals into a time-boxed agenda or a transcript into evidence-backed minutes",
+    "id": "GhandyP/meeting-agenda-minutes-agent",
+    "language": "Go",
+    "name": "GhandyP/meeting-agenda-minutes-agent",
+    "stars": 0,
+    "updated_at": "2026-10-14T01:56:20Z",
+    "url": "https://github.com/GhandyP/meeting-agenda-minutes-agent"
+  },
+  {
+    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
+    "id": "xanstomper/mochi",
+    "language": "TypeScript",
+    "name": "xanstomper/mochi",
+    "stars": 0,
+    "updated_at": "2026-10-14T01:56:17Z",
+    "url": "https://github.com/xanstomper/mochi"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4448,
+    "updated_at": "2026-10-14T01:58:27Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-10-14T01:54:14Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-10-14T01:52:22Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "Free MIT AI coding agent \u2014 no API key needed. Built-in free model, or bring Claude, GPT, Gemini, DeepSeek, Ollama +50 mo",
+    "id": "dragonked2/alphacode",
+    "language": "Rust",
+    "name": "dragonked2/alphacode",
+    "stars": 298,
+    "updated_at": "2026-10-14T01:50:57Z",
+    "url": "https://github.com/dragonked2/alphacode"
+  },
+  {
+    "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
+    "id": "Jongtae/agentos",
+    "language": "Python",
+    "name": "Jongtae/agentos",
+    "stars": 0,
+    "updated_at": "2026-10-14T01:50:41Z",
+    "url": "https://github.com/Jongtae/agentos"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-10-14T01:58:56Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-10-14T01:49:18Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "A voice call-center agent with real tools and real limits, plus automatic after-call QA, served on Chalk through the mod",
+    "id": "chalk-ai/call-center-agent",
+    "language": "Python",
+    "name": "chalk-ai/call-center-agent",
+    "stars": 0,
+    "updated_at": "2026-10-14T01:46:35Z",
+    "url": "https://github.com/chalk-ai/call-center-agent"
+  },
+  {
     "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
     "id": "SHUKLAO/call-with-ai-agent",
     "language": "\u2014",
@@ -27,15 +135,6 @@
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
   },
   {
-    "description": "A voice call-center agent with real tools and real limits, plus automatic after-call QA, served on Chalk through the mod",
-    "id": "chalk-ai/call-center-agent",
-    "language": "Python",
-    "name": "chalk-ai/call-center-agent",
-    "stars": 0,
-    "updated_at": "2026-10-14T01:43:48Z",
-    "url": "https://github.com/chalk-ai/call-center-agent"
-  },
-  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -45,33 +144,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
-    "id": "xanstomper/mochi",
-    "language": "TypeScript",
-    "name": "xanstomper/mochi",
-    "stars": 0,
-    "updated_at": "2026-10-14T01:42:47Z",
-    "url": "https://github.com/xanstomper/mochi"
-  },
-  {
-    "description": "Google ADK (Go) meeting agent: turns meeting goals into a time-boxed agenda or a transcript into evidence-backed minutes",
-    "id": "GhandyP/meeting-agenda-minutes-agent",
-    "language": "Go",
-    "name": "GhandyP/meeting-agenda-minutes-agent",
-    "stars": 0,
-    "updated_at": "2026-10-14T01:41:56Z",
-    "url": "https://github.com/GhandyP/meeting-agenda-minutes-agent"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-10-14T01:35:13Z",
-    "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
@@ -79,15 +151,6 @@
     "stars": 777,
     "updated_at": "2026-10-14T01:33:54Z",
     "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4448,
-    "updated_at": "2026-10-14T01:35:05Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -151,15 +214,6 @@
     "stars": 6,
     "updated_at": "2026-10-14T01:21:01Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
-    "id": "Jongtae/agentos",
-    "language": "Python",
-    "name": "Jongtae/agentos",
-    "stars": 0,
-    "updated_at": "2026-10-14T01:20:01Z",
-    "url": "https://github.com/Jongtae/agentos"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-14T00:17:54Z",
     "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-10-14T00:17:41Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Turn any repository URL into a complete, fact-verified GitHub Wiki. An LLM-agent skill: clone, inventory, RUN and probe ",
-    "id": "paulmann/github-wiki-llm-writer",
-    "language": "\u2014",
-    "name": "paulmann/github-wiki-llm-writer",
-    "stars": 0,
-    "updated_at": "2026-10-14T00:16:15Z",
-    "url": "https://github.com/paulmann/github-wiki-llm-writer"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 5,
-    "updated_at": "2026-10-14T00:15:38Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "TypeScript",
-    "name": "dsswift/ion",
-    "stars": 4,
-    "updated_at": "2026-10-14T00:15:34Z",
-    "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 131,
-    "updated_at": "2026-10-14T00:13:54Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-10-14T00:12:16Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
   }
 ]
