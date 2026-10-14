@@ -1,12 +1,21 @@
 [
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
+    "description": "Application Security orchestration platform",
+    "id": "grauwolf32/contractor",
+    "language": "Go",
+    "name": "grauwolf32/contractor",
+    "stars": 2,
+    "updated_at": "2026-10-14T19:45:06Z",
+    "url": "https://github.com/grauwolf32/contractor"
+  },
+  {
+    "description": "Open-source, self-hostable AppSec agent that finds, proves, and helps fix web/API vulnerabilities \u2014 evidence-first (inde",
+    "id": "NitinReddy-A/Rampart",
     "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4448,
-    "updated_at": "2026-10-14T19:28:56Z",
-    "url": "https://github.com/gptme/gptme"
+    "name": "NitinReddy-A/Rampart",
+    "stars": 6,
+    "updated_at": "2026-10-14T19:43:36Z",
+    "url": "https://github.com/NitinReddy-A/Rampart"
   },
   {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
@@ -14,8 +23,26 @@
     "language": "Python",
     "name": "genaforvena/mishe-tauftauf",
     "stars": 3,
-    "updated_at": "2026-10-14T19:27:27Z",
+    "updated_at": "2026-10-14T19:38:05Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4448,
+    "updated_at": "2026-10-14T19:43:06Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-14T19:30:56Z",
+    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "A local-first, standalone personal knowledge base for Windows. Import, organize, and create your own links \u2014 no browser ",
@@ -23,7 +50,7 @@
     "language": "C#",
     "name": "Hrecer/LinkPocket",
     "stars": 0,
-    "updated_at": "2026-10-14T19:27:17Z",
+    "updated_at": "2026-10-14T19:34:38Z",
     "url": "https://github.com/Hrecer/LinkPocket"
   },
   {
@@ -43,15 +70,6 @@
     "stars": 5,
     "updated_at": "2026-10-14T19:26:07Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Application Security orchestration platform",
-    "id": "grauwolf32/contractor",
-    "language": "Go",
-    "name": "grauwolf32/contractor",
-    "stars": 2,
-    "updated_at": "2026-10-14T19:25:15Z",
-    "url": "https://github.com/grauwolf32/contractor"
   },
   {
     "description": "The local AI workspace with built-in tools. Run deep research, scrape websites, interact with local files, and trigger w",
@@ -77,7 +95,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-14T19:20:12Z",
+    "updated_at": "2026-10-14T19:34:16Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -196,15 +214,6 @@
     "stars": 6,
     "updated_at": "2026-10-14T18:18:57Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-14T19:18:19Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
@@ -329,7 +338,7 @@
     "language": "Python",
     "name": "uukuguy/capstone",
     "stars": 0,
-    "updated_at": "2026-10-14T19:28:36Z",
+    "updated_at": "2026-10-14T19:36:30Z",
     "url": "https://github.com/uukuguy/capstone"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-14T15:52:01Z",
     "url": "https://github.com/yasunosubaru/field-station-agent"
-  },
-  {
-    "description": "Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by ",
-    "id": "JasonPolyakov44995/DM-Code-Agent",
-    "language": "Python",
-    "name": "JasonPolyakov44995/DM-Code-Agent",
-    "stars": 0,
-    "updated_at": "2026-10-14T15:49:48Z",
-    "url": "https://github.com/JasonPolyakov44995/DM-Code-Agent"
   }
 ]
