@@ -1,11 +1,29 @@
 [
   {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-14T04:07:50Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delet",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 313,
+    "updated_at": "2026-10-14T04:05:15Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
     "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
     "id": "xhqing/DayTradingAgent",
     "language": "Python",
     "name": "xhqing/DayTradingAgent",
     "stars": 3,
-    "updated_at": "2026-10-14T03:59:14Z",
+    "updated_at": "2026-10-14T04:01:13Z",
     "url": "https://github.com/xhqing/DayTradingAgent"
   },
   {
@@ -14,7 +32,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-14T03:58:27Z",
+    "updated_at": "2026-10-14T04:02:25Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -32,7 +50,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 29,
-    "updated_at": "2026-10-14T03:57:22Z",
+    "updated_at": "2026-10-14T04:01:15Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -79,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-10-14T03:44:06Z",
     "url": "https://github.com/IAmNo1Special/mvgeos"
-  },
-  {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-14T03:58:41Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "\u628a\u957f\u7bc7\u5c0f\u8bf4\u5199\u4f5c\u5f53\u4f5c\u5de5\u7a0b\u7ba1\u7406\u7684\u672c\u5730\u684c\u9762\u667a\u80fd\u4f53\uff1a\u771f\u5b9e\u5b57\u6570\u95e8\u7981\u3001\u65ad\u70b9\u6062\u590d\u3001\u6587\u4ef6\u5373\u9879\u76ee\uff0c\u6570\u636e\u4e0d\u51fa\u7535\u8111\u3002A local-first desktop agent that manages long-form novel writing like an ",
@@ -176,7 +185,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5830,
-    "updated_at": "2026-10-14T02:49:35Z",
+    "updated_at": "2026-10-14T04:02:35Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -193,7 +202,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 33205,
+    "stars": 33206,
     "updated_at": "2026-10-14T02:42:22Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -203,7 +212,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-10-14T02:42:08Z",
+    "updated_at": "2026-10-14T04:10:36Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -301,7 +310,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 1160,
+    "stars": 1161,
     "updated_at": "2026-10-14T02:24:23Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-14T02:06:01Z",
     "url": "https://github.com/lusipad/browser-agent"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-10-14T02:04:28Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
   }
 ]
