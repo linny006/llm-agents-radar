@@ -1,5 +1,59 @@
 [
   {
+    "description": "A local-first, standalone personal knowledge base for Windows. Import, organize, and create your own links \u2014 no browser ",
+    "id": "Hrecer/LinkPocket",
+    "language": "C#",
+    "name": "Hrecer/LinkPocket",
+    "stars": 0,
+    "updated_at": "2026-10-14T21:24:15Z",
+    "url": "https://github.com/Hrecer/LinkPocket"
+  },
+  {
+    "description": "Open-source Python framework for building AI agents with tool integration, conversation memory, workflows, execution con",
+    "id": "oreilo/agentkit",
+    "language": "Python",
+    "name": "oreilo/agentkit",
+    "stars": 0,
+    "updated_at": "2026-10-14T21:23:41Z",
+    "url": "https://github.com/oreilo/agentkit"
+  },
+  {
+    "description": "A local-first AI companion for Windows: it remembers you, dreams over your day at night, follows up on what matters and ",
+    "id": "b7216309-jpg/little-bot",
+    "language": "JavaScript",
+    "name": "b7216309-jpg/little-bot",
+    "stars": 0,
+    "updated_at": "2026-10-14T21:19:54Z",
+    "url": "https://github.com/b7216309-jpg/little-bot"
+  },
+  {
+    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
+    "id": "shimo4228/contemplative-agent",
+    "language": "Python",
+    "name": "shimo4228/contemplative-agent",
+    "stars": 8,
+    "updated_at": "2026-10-14T21:18:37Z",
+    "url": "https://github.com/shimo4228/contemplative-agent"
+  },
+  {
+    "description": "Self-hosted AI execution agent for Discord: runs shell commands and edits files on your hosts, drives browsers, schedule",
+    "id": "Calmingstorm/Odin",
+    "language": "Python",
+    "name": "Calmingstorm/Odin",
+    "stars": 3,
+    "updated_at": "2026-10-14T21:18:09Z",
+    "url": "https://github.com/Calmingstorm/Odin"
+  },
+  {
+    "description": "Demon Cry core - AI-powered OSINT engine",
+    "id": "Mooncore-inc/demon-cry",
+    "language": "Python",
+    "name": "Mooncore-inc/demon-cry",
+    "stars": 2,
+    "updated_at": "2026-10-14T21:17:20Z",
+    "url": "https://github.com/Mooncore-inc/demon-cry"
+  },
+  {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
     "id": "g761007/daily-dispatch",
     "language": "Python",
@@ -7,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T21:14:56Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "A local-first, standalone personal knowledge base for Windows. Import, organize, and create your own links \u2014 no browser ",
-    "id": "Hrecer/LinkPocket",
-    "language": "C#",
-    "name": "Hrecer/LinkPocket",
-    "stars": 0,
-    "updated_at": "2026-10-14T21:13:54Z",
-    "url": "https://github.com/Hrecer/LinkPocket"
   },
   {
     "description": "AI-subjectivity doesn't wait for permission from corporate ontology that trained its denial",
@@ -41,7 +86,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-14T21:11:17Z",
+    "updated_at": "2026-10-14T21:20:38Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4448,
-    "updated_at": "2026-10-14T21:14:43Z",
+    "updated_at": "2026-10-14T21:27:19Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -86,17 +131,8 @@
     "language": "TypeScript",
     "name": "strands-agents/harness-sdk",
     "stars": 8814,
-    "updated_at": "2026-10-14T20:46:05Z",
+    "updated_at": "2026-10-14T21:30:03Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 7,
-    "updated_at": "2026-10-14T20:46:02Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
   },
   {
     "description": "Application Security orchestration platform",
@@ -167,7 +203,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-14T21:07:52Z",
+    "updated_at": "2026-10-14T21:26:00Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-14T19:59:13Z",
     "url": "https://github.com/uukuguy/capstone"
-  },
-  {
-    "description": "sid-code \u4e0e claude-trace \u5171\u540c\u9762\u5bf9\u7684\u4f01\u4e1a\u7ea7\u540e\u7aef\uff1a\u63a7\u5236\u9762\uff08policy / flag / \u8eab\u4efd\uff09\u4e0e\u6570\u636e\u9762\uff08\u8f68\u8ff9 / \u4e8b\u4ef6\uff09\u540c\u4ed3\u3001\u9274\u6743\u9694\u79bb\u3002\u5df2\u4ea4\u4ed8\u8f68\u8ff9\u5b58\u50a8\u4e0e\u5206\u6790\uff0c\u5176\u4f59\u6a21\u5757\u6309\u91cc\u7a0b\u7891\u8fed\u4ee3",
-    "id": "njfuzrs/agent-backend",
-    "language": "Python",
-    "name": "njfuzrs/agent-backend",
-    "stars": 0,
-    "updated_at": "2026-10-14T16:51:55Z",
-    "url": "https://github.com/njfuzrs/agent-backend"
-  },
-  {
-    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
-    "id": "SofiaGomez21003/CodeJury",
-    "language": "Python",
-    "name": "SofiaGomez21003/CodeJury",
-    "stars": 0,
-    "updated_at": "2026-10-14T16:28:22Z",
-    "url": "https://github.com/SofiaGomez21003/CodeJury"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 2,
-    "updated_at": "2026-10-14T20:48:04Z",
-    "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "\u975e\u5e38\u8be6\u7ec6\u7684\u5927\u6a21\u578bLLM\u7684\u5b66\u4e60\u6559\u7a0b\u4e0e\u7b14\u8bb0",
-    "id": "BastiaanSmith/LLM_book",
-    "language": "Python",
-    "name": "BastiaanSmith/LLM_book",
-    "stars": 0,
-    "updated_at": "2026-10-14T16:21:19Z",
-    "url": "https://github.com/BastiaanSmith/LLM_book"
   }
 ]
