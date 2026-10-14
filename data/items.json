@@ -1,12 +1,39 @@
 [
   {
-    "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
-    "id": "roxm337/osint-agent",
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
     "language": "Python",
-    "name": "roxm337/osint-agent",
+    "name": "gptme/gptme",
+    "stars": 4448,
+    "updated_at": "2026-10-14T16:29:51Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "A local-first, standalone personal knowledge base for Windows. Import, organize, and create your own links \u2014 no browser ",
+    "id": "Hrecer/LinkPocket",
+    "language": "C#",
+    "name": "Hrecer/LinkPocket",
     "stars": 0,
-    "updated_at": "2026-10-14T16:14:50Z",
-    "url": "https://github.com/roxm337/osint-agent"
+    "updated_at": "2026-10-14T16:29:22Z",
+    "url": "https://github.com/Hrecer/LinkPocket"
+  },
+  {
+    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
+    "id": "SofiaGomez21003/CodeJury",
+    "language": "Python",
+    "name": "SofiaGomez21003/CodeJury",
+    "stars": 0,
+    "updated_at": "2026-10-14T16:28:22Z",
+    "url": "https://github.com/SofiaGomez21003/CodeJury"
+  },
+  {
+    "description": "Turn any repository URL into a complete, fact-verified GitHub Wiki. An LLM-agent skill: clone, inventory, RUN and probe ",
+    "id": "paulmann/github-wiki-llm-writer",
+    "language": "Python",
+    "name": "paulmann/github-wiki-llm-writer",
+    "stars": 0,
+    "updated_at": "2026-10-14T16:26:58Z",
+    "url": "https://github.com/paulmann/github-wiki-llm-writer"
   },
   {
     "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
@@ -14,8 +41,53 @@
     "language": "TypeScript",
     "name": "xanstomper/mochi",
     "stars": 0,
-    "updated_at": "2026-10-14T16:14:48Z",
+    "updated_at": "2026-10-14T16:26:36Z",
     "url": "https://github.com/xanstomper/mochi"
+  },
+  {
+    "description": "CIRIS: an open-source AI assistant with a conscience you can check. Signed, auditable reasoning on every decision, a hum",
+    "id": "CIRISAI/CIRISAgent",
+    "language": "Python",
+    "name": "CIRISAI/CIRISAgent",
+    "stars": 56,
+    "updated_at": "2026-10-14T16:27:35Z",
+    "url": "https://github.com/CIRISAI/CIRISAgent"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 2,
+    "updated_at": "2026-10-14T16:25:05Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "\u975e\u5e38\u8be6\u7ec6\u7684\u5927\u6a21\u578bLLM\u7684\u5b66\u4e60\u6559\u7a0b\u4e0e\u7b14\u8bb0",
+    "id": "BastiaanSmith/LLM_book",
+    "language": "Python",
+    "name": "BastiaanSmith/LLM_book",
+    "stars": 0,
+    "updated_at": "2026-10-14T16:21:19Z",
+    "url": "https://github.com/BastiaanSmith/LLM_book"
+  },
+  {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 5,
+    "updated_at": "2026-10-14T16:24:46Z",
+    "url": "https://github.com/ljedrz/nachalnik"
+  },
+  {
+    "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
+    "id": "roxm337/osint-agent",
+    "language": "Python",
+    "name": "roxm337/osint-agent",
+    "stars": 0,
+    "updated_at": "2026-10-14T16:14:50Z",
+    "url": "https://github.com/roxm337/osint-agent"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
@@ -49,7 +121,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "TypeScript",
     "name": "strands-agents/harness-sdk",
-    "stars": 8809,
+    "stars": 8810,
     "updated_at": "2026-10-14T16:05:55Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -59,7 +131,7 @@
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 49,
-    "updated_at": "2026-10-14T16:02:32Z",
+    "updated_at": "2026-10-14T16:29:54Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
@@ -88,15 +160,6 @@
     "stars": 5,
     "updated_at": "2026-10-14T16:14:07Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
-    "id": "ljedrz/nachalnik",
-    "language": "Rust",
-    "name": "ljedrz/nachalnik",
-    "stars": 5,
-    "updated_at": "2026-10-14T16:10:55Z",
-    "url": "https://github.com/ljedrz/nachalnik"
   },
   {
     "description": "\u6b66\u6c49\u5927\u5b66\u5730\u7a7a\u5b66\u9662 2026 \u5927\u521b\uff1a\u591a\u667a\u80fd\u4f53 AI \u91ce\u5916\u53f0\u7ad9\u7ba1\u7406\u7cfb\u7edf \u2014\u2014 \u76d1\u6d4b/\u8d28\u63a7/\u7814\u5224/\u6d3e\u5355/\u5f52\u6863\u95ed\u73af\u3002LangGraph \u8fd0\u884c\u65f6 \u00b7 MCP \u5de5\u5177\u63a5\u53e3 \u00b7 \u89c4\u5219\u88c1\u51b3 + \u5927\u6a21\u578b\u5f52\u56e0\u3002\u516c\u5f00\u8131\u654f\u4ed3\u5e93",
@@ -166,7 +229,7 @@
     "id": "wuyhong715/rikkahub-agent-pure",
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
-    "stars": 42,
+    "stars": 43,
     "updated_at": "2026-10-14T15:40:51Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
@@ -234,15 +297,6 @@
     "url": "https://github.com/anchor-inference/daedalus"
   },
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4448,
-    "updated_at": "2026-10-14T16:03:04Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -295,15 +349,6 @@
     "stars": 21,
     "updated_at": "2026-10-14T14:50:34Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "A local-first, standalone personal knowledge base for Windows. Import, organize, and create your own links \u2014 no browser ",
-    "id": "Hrecer/LinkPocket",
-    "language": "C#",
-    "name": "Hrecer/LinkPocket",
-    "stars": 0,
-    "updated_at": "2026-10-14T14:50:27Z",
-    "url": "https://github.com/Hrecer/LinkPocket"
   },
   {
     "description": "\u624b\u5199 mini Coding Agent\uff08Claude Agent SDK\uff09\uff1a\u72ec\u7acb\u8fdb\u7a0b MCP \u5de5\u5177\u670d\u52a1 + \u6743\u9650\u6c99\u7bb1 + \u4e0a\u4e0b\u6587\u7ba1\u7406 + subagent \u5206\u5de5 + \u5168\u94fe\u8def trace\uff1b\u6210\u8d25\u7531\u72ec\u7acb pytest \u9000\u51fa\u7801\u5224\u5b9a\uff0c\u4e0d\u91c7\u4fe1 age",
@@ -374,17 +419,8 @@
     "language": "Python",
     "name": "Jongtae/agentos",
     "stars": 0,
-    "updated_at": "2026-10-14T15:29:02Z",
+    "updated_at": "2026-10-14T16:29:21Z",
     "url": "https://github.com/Jongtae/agentos"
-  },
-  {
-    "description": "CIRIS: an open-source AI assistant with a conscience you can check. Signed, auditable reasoning on every decision, a hum",
-    "id": "CIRISAI/CIRISAgent",
-    "language": "Python",
-    "name": "CIRISAI/CIRISAgent",
-    "stars": 56,
-    "updated_at": "2026-10-14T15:36:49Z",
-    "url": "https://github.com/CIRISAI/CIRISAgent"
   },
   {
     "description": "\uc2dc\ubcc0 \uc800\uada4\ub3c4 \uc704\uc131\ub9dd\uc758 \uc138\uc158 \uacbd\ub85c \ucd5c\uc801\ud654: \uadf8\ub798\ud504 \uac15\ud654\ud559\uc2b5(PPO-GCN), \uc218\ub9ac\ucd5c\uc801\ud654(CP-SAT), LLM Optimization Agent",
@@ -412,41 +448,5 @@
     "stars": 7,
     "updated_at": "2026-10-14T14:00:51Z",
     "url": "https://github.com/edjafarov/kiagent-core"
-  },
-  {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-14T13:49:30Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
-    "id": "uukuguy/capstone",
-    "language": "Python",
-    "name": "uukuguy/capstone",
-    "stars": 0,
-    "updated_at": "2026-10-14T15:34:07Z",
-    "url": "https://github.com/uukuguy/capstone"
-  },
-  {
-    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
-    "id": "plurnk/plurnk",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk",
-    "stars": 5,
-    "updated_at": "2026-10-14T13:36:10Z",
-    "url": "https://github.com/plurnk/plurnk"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 131,
-    "updated_at": "2026-10-14T13:32:43Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
   }
 ]
