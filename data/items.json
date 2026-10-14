@@ -1,5 +1,59 @@
 [
   {
+    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
+    "id": "xanstomper/mochi",
+    "language": "TypeScript",
+    "name": "xanstomper/mochi",
+    "stars": 0,
+    "updated_at": "2026-10-14T13:14:58Z",
+    "url": "https://github.com/xanstomper/mochi"
+  },
+  {
+    "description": "Zemax OpticStudio \u8bed\u97f3\u52a9\u6559:\u672c\u5730 FunASR \u8bc6\u522b + \u667a\u8c31 GLM + TTS,22 \u4e2a ZOS-API \u5de5\u5177 + 10 \u8bfe\u5149\u5b66\u8bbe\u8ba1\u8bfe\u4ef6 | Voice tutor for Zemax OpticStudio: loc",
+    "id": "lezi1267/zemax-voice-tutor",
+    "language": "Python",
+    "name": "lezi1267/zemax-voice-tutor",
+    "stars": 0,
+    "updated_at": "2026-10-14T13:08:25Z",
+    "url": "https://github.com/lezi1267/zemax-voice-tutor"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-14T13:06:38Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "A local-first, standalone personal knowledge base for Windows. Import, organize, and create your own links \u2014 no browser ",
+    "id": "Hrecer/LinkPocket",
+    "language": "C#",
+    "name": "Hrecer/LinkPocket",
+    "stars": 0,
+    "updated_at": "2026-10-14T13:05:38Z",
+    "url": "https://github.com/Hrecer/LinkPocket"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 6193,
+    "updated_at": "2026-10-14T13:14:23Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "An AI Agent for everyday SWE with minimalist style",
+    "id": "thehope2k/minimalist-agent",
+    "language": "TypeScript",
+    "name": "thehope2k/minimalist-agent",
+    "stars": 1,
+    "updated_at": "2026-10-14T13:00:47Z",
+    "url": "https://github.com/thehope2k/minimalist-agent"
+  },
+  {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
     "id": "plurnk/plurnk-service",
     "language": "TypeScript",
@@ -41,7 +95,7 @@
     "language": "Python",
     "name": "uukuguy/capstone",
     "stars": 0,
-    "updated_at": "2026-10-14T12:48:48Z",
+    "updated_at": "2026-10-14T13:13:48Z",
     "url": "https://github.com/uukuguy/capstone"
   },
   {
@@ -50,7 +104,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-14T12:50:52Z",
+    "updated_at": "2026-10-14T13:03:44Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -113,7 +167,7 @@
     "language": "Python",
     "name": "Jongtae/agentos",
     "stars": 0,
-    "updated_at": "2026-10-14T12:39:31Z",
+    "updated_at": "2026-10-14T13:01:40Z",
     "url": "https://github.com/Jongtae/agentos"
   },
   {
@@ -158,7 +212,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-14T12:31:18Z",
+    "updated_at": "2026-10-14T13:04:29Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -169,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-10-14T12:25:28Z",
     "url": "https://github.com/olise366oi/kairos-agent"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-14T12:21:41Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -250,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T12:04:22Z",
     "url": "https://github.com/giridhar1103/NYCynapse.Ai"
-  },
-  {
-    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
-    "id": "xanstomper/mochi",
-    "language": "TypeScript",
-    "name": "xanstomper/mochi",
-    "stars": 0,
-    "updated_at": "2026-10-14T12:02:22Z",
-    "url": "https://github.com/xanstomper/mochi"
   },
   {
     "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
@@ -412,41 +448,5 @@
     "stars": 319,
     "updated_at": "2026-10-14T10:54:03Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "Personal QQ copilot: message archive with roaming backfill, multimodal LLM agent, RAG, WebUI/CLI. Speaks the Milky proto",
-    "id": "char-46/copilot-muze",
-    "language": "Python",
-    "name": "char-46/copilot-muze",
-    "stars": 0,
-    "updated_at": "2026-10-14T10:50:22Z",
-    "url": "https://github.com/char-46/copilot-muze"
-  },
-  {
-    "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
-    "id": "DylPorter/teledesk",
-    "language": "Python",
-    "name": "DylPorter/teledesk",
-    "stars": 1,
-    "updated_at": "2026-10-14T10:46:50Z",
-    "url": "https://github.com/DylPorter/teledesk"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 6192,
-    "updated_at": "2026-10-14T10:39:11Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "\ud83e\udd16 Lightweight, message-first agent runtime",
-    "id": "Cognipeer/agent-sdk",
-    "language": "TypeScript",
-    "name": "Cognipeer/agent-sdk",
-    "stars": 7,
-    "updated_at": "2026-10-14T10:42:35Z",
-    "url": "https://github.com/Cognipeer/agent-sdk"
   }
 ]
