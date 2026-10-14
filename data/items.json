@@ -1,5 +1,59 @@
 [
   {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-10-14T22:11:25Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 131,
+    "updated_at": "2026-10-14T22:10:05Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-10-14T22:09:32Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4448,
+    "updated_at": "2026-10-14T22:11:44Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Make any agent harness token-native.",
+    "id": "Lawhy/tokin",
+    "language": "Python",
+    "name": "Lawhy/tokin",
+    "stars": 5,
+    "updated_at": "2026-10-14T22:07:06Z",
+    "url": "https://github.com/Lawhy/tokin"
+  },
+  {
+    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
+    "id": "shimo4228/contemplative-agent",
+    "language": "Python",
+    "name": "shimo4228/contemplative-agent",
+    "stars": 9,
+    "updated_at": "2026-10-14T22:01:59Z",
+    "url": "https://github.com/shimo4228/contemplative-agent"
+  },
+  {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
     "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
@@ -16,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T21:52:54Z",
     "url": "https://github.com/giridhar1103/NYCynapse.Ai"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4448,
-    "updated_at": "2026-10-14T21:54:02Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -50,7 +95,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 2,
-    "updated_at": "2026-10-14T21:31:55Z",
+    "updated_at": "2026-10-14T22:10:35Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -77,7 +122,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 22,
-    "updated_at": "2026-10-14T21:20:38Z",
+    "updated_at": "2026-10-14T22:06:37Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -90,21 +135,12 @@
     "url": "https://github.com/b7216309-jpg/little-bot"
   },
   {
-    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 9,
-    "updated_at": "2026-10-14T21:18:37Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
     "description": "Self-hosted AI execution agent for Discord: runs shell commands and edits files on your hosts, drives browsers, schedule",
     "id": "Calmingstorm/Odin",
     "language": "Python",
     "name": "Calmingstorm/Odin",
     "stars": 3,
-    "updated_at": "2026-10-14T21:18:09Z",
+    "updated_at": "2026-10-14T22:02:46Z",
     "url": "https://github.com/Calmingstorm/Odin"
   },
   {
@@ -167,7 +203,7 @@
     "language": "Go",
     "name": "grauwolf32/contractor",
     "stars": 2,
-    "updated_at": "2026-10-14T21:32:20Z",
+    "updated_at": "2026-10-14T22:05:25Z",
     "url": "https://github.com/grauwolf32/contractor"
   },
   {
@@ -221,7 +257,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-14T21:56:40Z",
+    "updated_at": "2026-10-14T22:00:20Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -324,24 +360,6 @@
     "url": "https://github.com/damndone/Arboris"
   },
   {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 131,
-    "updated_at": "2026-10-14T18:26:51Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-10-14T18:26:17Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "Estrella Bot \u00b7 QQ \u7fa4 AI \u7fa4\u53cb\u673a\u5668\u4eba\u3002\u628a QQ \u5c0f\u53f7\u63a5\u7ed9\u4efb\u610f OpenAI \u517c\u5bb9\u6a21\u578b\uff08\u672c\u673a / DeepSeek / \u667a\u8c31 / \u901a\u4e49\uff09\uff0c\u8ba9 AI \u50cf\u7fa4\u53cb\u4e00\u6837\u63d2\u8bdd\u3001\u63a5\u6897\u3001\u6f5c\u6c34\u3002OneBot v11 + NapCat\uff0c\u96f6\u6784\u5efa",
     "id": "Canvixel-Eloweny/ai-bot-groupmate",
     "language": "JavaScript",
@@ -387,15 +405,6 @@
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
-    "description": "Make any agent harness token-native.",
-    "id": "Lawhy/tokin",
-    "language": "Python",
-    "name": "Lawhy/tokin",
-    "stars": 5,
-    "updated_at": "2026-10-14T18:02:19Z",
-    "url": "https://github.com/Lawhy/tokin"
-  },
-  {
     "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
     "id": "agentpit-io/hunter-community",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 594,
     "updated_at": "2026-10-14T17:10:12Z",
     "url": "https://github.com/atria-asi/Atria-Dawn"
-  },
-  {
-    "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
-    "id": "edjafarov/kiagent-core",
-    "language": "TypeScript",
-    "name": "edjafarov/kiagent-core",
-    "stars": 7,
-    "updated_at": "2026-10-14T17:09:05Z",
-    "url": "https://github.com/edjafarov/kiagent-core"
   }
 ]
