@@ -1,5 +1,50 @@
 [
   {
+    "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
+    "id": "roxm337/osint-agent",
+    "language": "Python",
+    "name": "roxm337/osint-agent",
+    "stars": 0,
+    "updated_at": "2026-10-14T11:29:19Z",
+    "url": "https://github.com/roxm337/osint-agent"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-14T11:27:15Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-10-14T11:26:35Z",
+    "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
+    "description": "\ub124\uc774\ubc84 \ud56d\uacf5\uad8c\u00b7\uc2a4\uce74\uc774\uc2a4\uce90\ub108\uc5d0\uc11c \uc9c0\uae08 \uc0b4 \uc218 \uc788\ub294 \ud56d\uacf5\uad8c\uc744 \uc870\ud68c\ud558\ub294 LLM \uc5d0\uc774\uc804\ud2b8\uc6a9 CLI \u00b7 Korean flight search CLI for LLM agents (Naver Flights, Skyscanner)",
+    "id": "Rukkakka/baenggipyo",
+    "language": "Python",
+    "name": "Rukkakka/baenggipyo",
+    "stars": 0,
+    "updated_at": "2026-10-14T11:26:18Z",
+    "url": "https://github.com/Rukkakka/baenggipyo"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4448,
+    "updated_at": "2026-10-14T11:25:16Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
     "description": "Community registry of AI agent manifests, capabilities, skills, and workflows for Octomind \u2014 run a fully-configured spec",
     "id": "Muvon/octomind-tap",
     "language": "Python",
@@ -25,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T11:12:09Z",
     "url": "https://github.com/konglong87/go-e2e"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4448,
-    "updated_at": "2026-10-14T11:12:16Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "",
@@ -63,15 +99,6 @@
     "url": "https://github.com/xanstomper/mochi"
   },
   {
-    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
-    "id": "kangwoo/aimon-core",
-    "language": "Java",
-    "name": "kangwoo/aimon-core",
-    "stars": 0,
-    "updated_at": "2026-10-14T11:08:24Z",
-    "url": "https://github.com/kangwoo/aimon-core"
-  },
-  {
     "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
     "id": "memoways/ava-proto1",
     "language": "TypeScript",
@@ -95,7 +122,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 29,
-    "updated_at": "2026-10-14T11:03:41Z",
+    "updated_at": "2026-10-14T11:29:26Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -135,24 +162,6 @@
     "url": "https://github.com/xianyu-sheng/Xenon"
   },
   {
-    "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
-    "id": "roxm337/osint-agent",
-    "language": "Python",
-    "name": "roxm337/osint-agent",
-    "stars": 0,
-    "updated_at": "2026-10-14T10:54:40Z",
-    "url": "https://github.com/roxm337/osint-agent"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-14T10:54:37Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
     "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
     "id": "410979729/scope-recall-hermes",
     "language": "Python",
@@ -176,7 +185,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-14T10:50:05Z",
+    "updated_at": "2026-10-14T11:19:21Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -283,8 +292,8 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 1171,
-    "updated_at": "2026-10-14T09:55:33Z",
+    "stars": 1172,
+    "updated_at": "2026-10-14T11:22:22Z",
     "url": "https://github.com/ongridio/ongrid"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-14T08:24:37Z",
     "url": "https://github.com/haibingzhao/easyai"
-  },
-  {
-    "description": "\u901a\u7528 Agent Skill\uff08Agent Skills \u89c4\u8303\uff09\uff1a\u628a\u76ee\u6807\u53d8\u6210\u81ea\u8fd0\u884c\u5faa\u73af\u2014\u2014\u76ee\u6807\u5951\u7ea6 + \u8bfb\u72b6\u6001\u2192\u8ba1\u5212\u2192\u6267\u884c\u2192\u9a8c\u8bc1\u2192\u51b3\u7b56\u7684\u81ea\u68c0\u5faa\u73af\u3002WorkBuddy / Claude Code / OpenCode / Codex \u7b49\u5de5\u5177\u901a\u7528",
-    "id": "asdfz2/goal-loop",
-    "language": "Python",
-    "name": "asdfz2/goal-loop",
-    "stars": 0,
-    "updated_at": "2026-10-14T08:22:54Z",
-    "url": "https://github.com/asdfz2/goal-loop"
   }
 ]
