@@ -1,5 +1,59 @@
 [
   {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 81,
+    "updated_at": "2026-10-14T01:28:04Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "\u8861\u77e5 \u00b7 \u4e61\u6751\u5b66\u6821\u8bd5\u5377\u51cf\u8d1f\u5de5\u4f5c\u53f0\uff1a\u771f\u5b9e\u8bd5\u5377\u5bfc\u5165 \u2192 \u9010\u9898\u5224\u5377 \u2192 \u9519\u8bef\u7387\u5206\u6790 \u2192 \u540c\u4f34\u4e92\u52a9 \u2192 \u5f31\u9879\u5355\u4e0e\u8bb2\u8bc4\u4ea7\u7269\uff08FastAPI + \u672c\u5730 OCR + \u591a Agent SSE\uff09",
+    "id": "Finn-jiejie/hengzhi",
+    "language": "JavaScript",
+    "name": "Finn-jiejie/hengzhi",
+    "stars": 0,
+    "updated_at": "2026-10-14T01:24:18Z",
+    "url": "https://github.com/Finn-jiejie/hengzhi"
+  },
+  {
+    "description": "Bodhi \u2014 a local-first AI agent workbench in Rust: desktop app, Bamboo runtime, Jiandu shared memory, Nova computer use a",
+    "id": "bigduu/Zenith",
+    "language": "JavaScript",
+    "name": "bigduu/Zenith",
+    "stars": 6,
+    "updated_at": "2026-10-14T01:21:01Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
+    "id": "Jongtae/agentos",
+    "language": "Python",
+    "name": "Jongtae/agentos",
+    "stars": 0,
+    "updated_at": "2026-10-14T01:20:01Z",
+    "url": "https://github.com/Jongtae/agentos"
+  },
+  {
+    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
+    "id": "xanstomper/mochi",
+    "language": "TypeScript",
+    "name": "xanstomper/mochi",
+    "stars": 0,
+    "updated_at": "2026-10-14T01:16:51Z",
+    "url": "https://github.com/xanstomper/mochi"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 6,
+    "updated_at": "2026-10-14T01:15:46Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
     "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
     "id": "ximing/vital",
     "language": "TypeScript",
@@ -25,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-10-14T01:04:01Z",
     "url": "https://github.com/Moxxkidd/foam"
-  },
-  {
-    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
-    "id": "xanstomper/mochi",
-    "language": "TypeScript",
-    "name": "xanstomper/mochi",
-    "stars": 0,
-    "updated_at": "2026-10-14T01:02:34Z",
-    "url": "https://github.com/xanstomper/mochi"
   },
   {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
@@ -160,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T00:28:14Z",
     "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 6,
-    "updated_at": "2026-10-14T00:26:29Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
@@ -412,41 +448,5 @@
     "stars": 357,
     "updated_at": "2026-10-13T23:54:22Z",
     "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
-    "id": "SHUKLAO/call-with-ai-agent",
-    "language": "\u2014",
-    "name": "SHUKLAO/call-with-ai-agent",
-    "stars": 3,
-    "updated_at": "2026-10-13T23:52:12Z",
-    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
-    "id": "WP2-Danikusuma/AgentX",
-    "language": "HTML",
-    "name": "WP2-Danikusuma/AgentX",
-    "stars": 2,
-    "updated_at": "2026-10-13T23:51:38Z",
-    "url": "https://github.com/WP2-Danikusuma/AgentX"
-  },
-  {
-    "description": "An agentic OBD-II scanner that never makes anything up. Bring your own model, read every module on the bus, and click an",
-    "id": "christianOrona/wtfault-scanner",
-    "language": "Rust",
-    "name": "christianOrona/wtfault-scanner",
-    "stars": 2,
-    "updated_at": "2026-10-13T23:39:02Z",
-    "url": "https://github.com/christianOrona/wtfault-scanner"
-  },
-  {
-    "description": "Self-contained pwn/rev CTF solving kit for Claude and Codex \u2014 tools, doctrine, knowledge, and automated analysis workflo",
-    "id": "b0nsu/CTF-Rat",
-    "language": "Python",
-    "name": "b0nsu/CTF-Rat",
-    "stars": 5,
-    "updated_at": "2026-10-13T23:34:11Z",
-    "url": "https://github.com/b0nsu/CTF-Rat"
   }
 ]
