@@ -1,11 +1,110 @@
 [
   {
+    "description": "Community registry of AI agent manifests, capabilities, skills, and workflows for Octomind \u2014 run a fully-configured spec",
+    "id": "Muvon/octomind-tap",
+    "language": "Python",
+    "name": "Muvon/octomind-tap",
+    "stars": 5,
+    "updated_at": "2026-10-14T11:14:43Z",
+    "url": "https://github.com/Muvon/octomind-tap"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 133,
+    "updated_at": "2026-10-14T11:12:13Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Local-first open-source AI coding agent built with Go \u2014 Desktop, CLI, TUI, WebUI, MCP, Skills, multi-agent workflows, an",
+    "id": "konglong87/go-e2e",
+    "language": "Go",
+    "name": "konglong87/go-e2e",
+    "stars": 0,
+    "updated_at": "2026-10-14T11:12:09Z",
+    "url": "https://github.com/konglong87/go-e2e"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4448,
+    "updated_at": "2026-10-14T11:12:16Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "",
+    "id": "atria-asi/Atria-Dawn",
+    "language": "\u2014",
+    "name": "atria-asi/Atria-Dawn",
+    "stars": 593,
+    "updated_at": "2026-10-14T11:10:53Z",
+    "url": "https://github.com/atria-asi/Atria-Dawn"
+  },
+  {
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "id": "lsdefine/GenericAgent",
+    "language": "Python",
+    "name": "lsdefine/GenericAgent",
+    "stars": 14311,
+    "updated_at": "2026-10-14T11:10:41Z",
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
+    "id": "xanstomper/mochi",
+    "language": "TypeScript",
+    "name": "xanstomper/mochi",
+    "stars": 0,
+    "updated_at": "2026-10-14T11:08:56Z",
+    "url": "https://github.com/xanstomper/mochi"
+  },
+  {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-10-14T11:08:24Z",
+    "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
+    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
+    "id": "memoways/ava-proto1",
+    "language": "TypeScript",
+    "name": "memoways/ava-proto1",
+    "stars": 0,
+    "updated_at": "2026-10-14T11:04:59Z",
+    "url": "https://github.com/memoways/ava-proto1"
+  },
+  {
+    "description": "An LLM agent that runs on your Android phone and drives it: 13 ms accessibility-bridge screen reads, unrooted shell priv",
+    "id": "Arnavvs/droidpilot",
+    "language": "Python",
+    "name": "Arnavvs/droidpilot",
+    "stars": 0,
+    "updated_at": "2026-10-14T11:03:49Z",
+    "url": "https://github.com/Arnavvs/droidpilot"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 29,
+    "updated_at": "2026-10-14T11:03:41Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "Coding agent that plans, changes, tests and reviews, and touches your files only when you approve. Windows, macOS, Linux",
     "id": "huynvic/albertcode-swe-agent",
     "language": "Shell",
     "name": "huynvic/albertcode-swe-agent",
     "stars": 0,
-    "updated_at": "2026-10-14T11:00:07Z",
+    "updated_at": "2026-10-14T11:01:50Z",
     "url": "https://github.com/huynvic/albertcode-swe-agent"
   },
   {
@@ -18,22 +117,13 @@
     "url": "https://github.com/tzur669-lab/whatsapp-assistant"
   },
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
     "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4448,
-    "updated_at": "2026-10-14T10:56:35Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
-    "id": "xanstomper/mochi",
-    "language": "TypeScript",
-    "name": "xanstomper/mochi",
-    "stars": 0,
-    "updated_at": "2026-10-14T10:56:19Z",
-    "url": "https://github.com/xanstomper/mochi"
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3595,
+    "updated_at": "2026-10-14T10:55:27Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
@@ -90,15 +180,6 @@
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
-    "description": "Local-first open-source AI coding agent built with Go \u2014 Desktop, CLI, TUI, WebUI, MCP, Skills, multi-agent workflows, an",
-    "id": "konglong87/go-e2e",
-    "language": "Go",
-    "name": "konglong87/go-e2e",
-    "stars": 0,
-    "updated_at": "2026-10-14T10:47:25Z",
-    "url": "https://github.com/konglong87/go-e2e"
-  },
-  {
     "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
     "id": "DylPorter/teledesk",
     "language": "Python",
@@ -108,15 +189,6 @@
     "url": "https://github.com/DylPorter/teledesk"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 29,
-    "updated_at": "2026-10-14T10:48:04Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
     "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
@@ -124,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T10:41:49Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
-    "id": "memoways/ava-proto1",
-    "language": "TypeScript",
-    "name": "memoways/ava-proto1",
-    "stars": 0,
-    "updated_at": "2026-10-14T10:36:14Z",
-    "url": "https://github.com/memoways/ava-proto1"
   },
   {
     "description": "\ud83e\udd16 Lightweight, message-first agent runtime",
@@ -169,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T10:20:21Z",
     "url": "https://github.com/Chengy257/glm-conductor"
-  },
-  {
-    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
-    "id": "kangwoo/aimon-core",
-    "language": "Java",
-    "name": "kangwoo/aimon-core",
-    "stars": 0,
-    "updated_at": "2026-10-14T10:25:45Z",
-    "url": "https://github.com/kangwoo/aimon-core"
   },
   {
     "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
@@ -270,15 +324,6 @@
     "url": "https://github.com/lzwhehe/probewise"
   },
   {
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "id": "lsdefine/GenericAgent",
-    "language": "Python",
-    "name": "lsdefine/GenericAgent",
-    "stars": 14311,
-    "updated_at": "2026-10-14T09:43:48Z",
-    "url": "https://github.com/lsdefine/GenericAgent"
-  },
-  {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
     "id": "gerardogrisolini/ZenCODE",
     "language": "Swift",
@@ -297,15 +342,6 @@
     "url": "https://github.com/cheeezis/job_finder"
   },
   {
-    "description": "",
-    "id": "atria-asi/Atria-Dawn-Preview",
-    "language": "\u2014",
-    "name": "atria-asi/Atria-Dawn-Preview",
-    "stars": 593,
-    "updated_at": "2026-10-14T09:49:29Z",
-    "url": "https://github.com/atria-asi/Atria-Dawn-Preview"
-  },
-  {
     "description": "\u5267\u672c\u5206\u955c\u667a\u80fd\u4f53\uff08PenShot\uff09\uff1a\u7535\u5f71/\u52a8\u6f2b/\u77ed\u5267/\u5c0f\u8bf4\u2192\u5206\u955c\u7247\u6bb5\u2192\u89c6\u9891\u63d0\u793a\u8bcd\u3002\u57fa\u4e8e LLM \u901a\u8fc7 LangGraph+LlamaIndex\u5b9e\u73b0\u4efb\u610f\u683c\u5f0f\u5267\u672c\u7684\u81ea\u52a8\u89e3\u6790\uff0c\u751f\u6210 Sora/Veo/Runway \u7b49\u6a21\u578b\u53ef\u7528\u7684\u8fde\u8d2ftext-to-v",
     "id": "neopen/story-shot-agent",
     "language": "Python",
@@ -313,15 +349,6 @@
     "stars": 221,
     "updated_at": "2026-10-14T09:24:54Z",
     "url": "https://github.com/neopen/story-shot-agent"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3594,
-    "updated_at": "2026-10-14T10:55:27Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Per-episode logs of AI Megabase: Claude Opus 5.5 plays Factorio on its own",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-14T08:22:54Z",
     "url": "https://github.com/asdfz2/goal-loop"
-  },
-  {
-    "description": "Claude Code skills for Japanese job-hunting (shukatsu) ES coaching: distill offer-holder patterns, critique your ES, and",
-    "id": "jiayi-ThE-CREATOR/es-coach-skills",
-    "language": "Python",
-    "name": "jiayi-ThE-CREATOR/es-coach-skills",
-    "stars": 0,
-    "updated_at": "2026-10-14T08:13:40Z",
-    "url": "https://github.com/jiayi-ThE-CREATOR/es-coach-skills"
-  },
-  {
-    "description": "\u300a\u5d29\u574f\uff1a\u661f\u7a79\u94c1\u9053\u300b\u6218\u6597\u95ee\u9898\u7684\u53ef\u590d\u73b0\u6c42\u89e3\u73af\u5883\u2014\u2014\u4ee5\u9ad8\u4fdd\u771f\u786e\u5b9a\u6027\u6a21\u62df\u4e3a\u88c1\u51b3\uff0c\u628a\u6218\u6597\u7814\u7a76\u53d8\u6210\u53ef\u9a8c\u8bc1\u3001\u53ef\u590d\u73b0\u3001\u53ef\u641c\u7d22\u7684\u5b9e\u9a8c\u95ee\u9898\uff1b\u4e0a\u5c42\u4e3a\u8bb0\u5fc6\u9a71\u52a8\u7684 autoresearch agent \u63a2\u7d22\u5faa\u73af\uff08\u5f00\u53d1\u4e2d\uff09\u3002",
-    "id": "pzc2004/HSR_Nous",
-    "language": "Python",
-    "name": "pzc2004/HSR_Nous",
-    "stars": 9,
-    "updated_at": "2026-10-14T10:18:34Z",
-    "url": "https://github.com/pzc2004/HSR_Nous"
-  },
-  {
-    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 7,
-    "updated_at": "2026-10-14T08:09:03Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
   }
 ]
