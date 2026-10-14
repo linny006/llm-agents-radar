@@ -1,5 +1,59 @@
 [
   {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4448,
+    "updated_at": "2026-10-14T19:28:56Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-14T19:27:27Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "A local-first, standalone personal knowledge base for Windows. Import, organize, and create your own links \u2014 no browser ",
+    "id": "Hrecer/LinkPocket",
+    "language": "C#",
+    "name": "Hrecer/LinkPocket",
+    "stars": 0,
+    "updated_at": "2026-10-14T19:27:17Z",
+    "url": "https://github.com/Hrecer/LinkPocket"
+  },
+  {
+    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
+    "id": "xanstomper/mochi",
+    "language": "TypeScript",
+    "name": "xanstomper/mochi",
+    "stars": 0,
+    "updated_at": "2026-10-14T19:26:38Z",
+    "url": "https://github.com/xanstomper/mochi"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 5,
+    "updated_at": "2026-10-14T19:26:07Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Application Security orchestration platform",
+    "id": "grauwolf32/contractor",
+    "language": "Go",
+    "name": "grauwolf32/contractor",
+    "stars": 2,
+    "updated_at": "2026-10-14T19:25:15Z",
+    "url": "https://github.com/grauwolf32/contractor"
+  },
+  {
     "description": "The local AI workspace with built-in tools. Run deep research, scrape websites, interact with local files, and trigger w",
     "id": "moyshik7/marnie",
     "language": "JavaScript",
@@ -27,15 +81,6 @@
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-14T19:17:22Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
     "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
     "id": "puremachinery/carapace",
     "language": "Rust",
@@ -43,15 +88,6 @@
     "stars": 47,
     "updated_at": "2026-10-14T19:13:33Z",
     "url": "https://github.com/puremachinery/carapace"
-  },
-  {
-    "description": "A local-first, standalone personal knowledge base for Windows. Import, organize, and create your own links \u2014 no browser ",
-    "id": "Hrecer/LinkPocket",
-    "language": "C#",
-    "name": "Hrecer/LinkPocket",
-    "stars": 0,
-    "updated_at": "2026-10-14T19:07:57Z",
-    "url": "https://github.com/Hrecer/LinkPocket"
   },
   {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
@@ -77,17 +113,8 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-10-14T19:18:01Z",
+    "updated_at": "2026-10-14T19:24:21Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
-    "id": "xanstomper/mochi",
-    "language": "TypeScript",
-    "name": "xanstomper/mochi",
-    "stars": 0,
-    "updated_at": "2026-10-14T18:59:17Z",
-    "url": "https://github.com/xanstomper/mochi"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -169,15 +196,6 @@
     "stars": 6,
     "updated_at": "2026-10-14T18:18:57Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4448,
-    "updated_at": "2026-10-14T18:52:57Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -311,7 +329,7 @@
     "language": "Python",
     "name": "uukuguy/capstone",
     "stars": 0,
-    "updated_at": "2026-10-14T17:34:23Z",
+    "updated_at": "2026-10-14T19:28:36Z",
     "url": "https://github.com/uukuguy/capstone"
   },
   {
@@ -414,15 +432,6 @@
     "url": "https://github.com/lhh737/AI-Npc-Town"
   },
   {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 5,
-    "updated_at": "2026-10-14T16:50:13Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
     "description": "\u6b66\u6c49\u5927\u5b66\u5730\u7a7a\u5b66\u9662 2026 \u5927\u521b\uff1a\u591a\u667a\u80fd\u4f53 AI \u91ce\u5916\u53f0\u7ad9\u7ba1\u7406\u7cfb\u7edf \u2014\u2014 \u76d1\u6d4b/\u8d28\u63a7/\u7814\u5224/\u6d3e\u5355/\u5f52\u6863\u95ed\u73af\u3002LangGraph \u8fd0\u884c\u65f6 \u00b7 MCP \u5de5\u5177\u63a5\u53e3 \u00b7 \u89c4\u5219\u88c1\u51b3 + \u5927\u6a21\u578b\u5f52\u56e0\u3002\u516c\u5f00\u8131\u654f\u4ed3\u5e93",
     "id": "yasunosubaru/field-station-agent",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-14T15:49:48Z",
     "url": "https://github.com/JasonPolyakov44995/DM-Code-Agent"
-  },
-  {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 242,
-    "updated_at": "2026-10-14T15:49:21Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   }
 ]
