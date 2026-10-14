@@ -1,12 +1,21 @@
 [
   {
-    "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
-    "id": "roxm337/osint-agent",
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
     "language": "Python",
-    "name": "roxm337/osint-agent",
-    "stars": 0,
-    "updated_at": "2026-10-14T10:14:03Z",
-    "url": "https://github.com/roxm337/osint-agent"
+    "name": "gptme/gptme",
+    "stars": 4448,
+    "updated_at": "2026-10-14T10:27:46Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-10-14T10:27:39Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
@@ -14,8 +23,44 @@
     "language": "Python",
     "name": "genaforvena/mishe-tauftauf",
     "stars": 3,
-    "updated_at": "2026-10-14T10:11:55Z",
+    "updated_at": "2026-10-14T10:24:54Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Deterministic orchestration, execution assurance, and quota-aware continuity runtime for GLM coding agents in ZCode",
+    "id": "Chengy257/glm-conductor",
+    "language": "Python",
+    "name": "Chengy257/glm-conductor",
+    "stars": 0,
+    "updated_at": "2026-10-14T10:20:21Z",
+    "url": "https://github.com/Chengy257/glm-conductor"
+  },
+  {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-10-14T10:25:45Z",
+    "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
+    "description": "Single-user Hebrew/English personal assistant: Cloudflare Workers + SQLite Durable Object, Groq tool-calling agent where",
+    "id": "tzur669-lab/whatsapp-assistant",
+    "language": "TypeScript",
+    "name": "tzur669-lab/whatsapp-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-14T10:15:35Z",
+    "url": "https://github.com/tzur669-lab/whatsapp-assistant"
+  },
+  {
+    "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
+    "id": "roxm337/osint-agent",
+    "language": "Python",
+    "name": "roxm337/osint-agent",
+    "stars": 0,
+    "updated_at": "2026-10-14T10:14:03Z",
+    "url": "https://github.com/roxm337/osint-agent"
   },
   {
     "description": "A local-first personal activity analytics tool that collects window titles and file metadata locally, uses a local agent",
@@ -34,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-10-14T10:11:12Z",
     "url": "https://github.com/anchor-inference/daedalus"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4448,
-    "updated_at": "2026-10-14T10:10:58Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -108,15 +144,6 @@
     "url": "https://github.com/microsoft/OpenRCA"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-10-14T09:53:10Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "Evidence-backed security alert triage on LangGraph \u2014 picks the next check by information gain, every verdict ships with ",
     "id": "lzwhehe/probewise",
     "language": "Python",
@@ -180,15 +207,6 @@
     "url": "https://github.com/atria-asi/Atria-Dawn-Preview"
   },
   {
-    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
-    "id": "kangwoo/aimon-core",
-    "language": "Java",
-    "name": "kangwoo/aimon-core",
-    "stars": 0,
-    "updated_at": "2026-10-14T10:02:26Z",
-    "url": "https://github.com/kangwoo/aimon-core"
-  },
-  {
     "description": "\u5267\u672c\u5206\u955c\u667a\u80fd\u4f53\uff08PenShot\uff09\uff1a\u7535\u5f71/\u52a8\u6f2b/\u77ed\u5267/\u5c0f\u8bf4\u2192\u5206\u955c\u7247\u6bb5\u2192\u89c6\u9891\u63d0\u793a\u8bcd\u3002\u57fa\u4e8e LLM \u901a\u8fc7 LangGraph+LlamaIndex\u5b9e\u73b0\u4efb\u610f\u683c\u5f0f\u5267\u672c\u7684\u81ea\u52a8\u89e3\u6790\uff0c\u751f\u6210 Sora/Veo/Runway \u7b49\u6a21\u578b\u53ef\u7528\u7684\u8fde\u8d2ftext-to-v",
     "id": "neopen/story-shot-agent",
     "language": "Python",
@@ -212,7 +230,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3594,
-    "updated_at": "2026-10-14T09:56:44Z",
+    "updated_at": "2026-10-14T10:21:35Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -221,17 +239,8 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-14T09:48:03Z",
+    "updated_at": "2026-10-14T10:24:13Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Single-user Hebrew/English personal assistant: Cloudflare Workers + SQLite Durable Object, Groq tool-calling agent where",
-    "id": "tzur669-lab/whatsapp-assistant",
-    "language": "TypeScript",
-    "name": "tzur669-lab/whatsapp-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-14T09:13:11Z",
-    "url": "https://github.com/tzur669-lab/whatsapp-assistant"
   },
   {
     "description": "Per-episode logs of AI Megabase: Claude Opus 5.5 plays Factorio on its own",
@@ -347,7 +356,7 @@
     "language": "Python",
     "name": "pzc2004/HSR_Nous",
     "stars": 9,
-    "updated_at": "2026-10-14T10:03:09Z",
+    "updated_at": "2026-10-14T10:18:34Z",
     "url": "https://github.com/pzc2004/HSR_Nous"
   },
   {
@@ -391,7 +400,7 @@
     "id": "410979729/scope-recall-hermes",
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
-    "stars": 318,
+    "stars": 319,
     "updated_at": "2026-10-14T07:59:53Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-14T07:35:32Z",
     "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5830,
-    "updated_at": "2026-10-14T09:22:53Z",
-    "url": "https://github.com/areal-project/AReaL"
   }
 ]
