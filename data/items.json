@@ -1,12 +1,39 @@
 [
   {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-14T21:53:03Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "A guide to New York City you can ask anything: an agent that answers from a live NYC lakehouse first, then city feeds an",
+    "id": "giridhar1103/NYCynapse.Ai",
+    "language": "Python",
+    "name": "giridhar1103/NYCynapse.Ai",
+    "stars": 0,
+    "updated_at": "2026-10-14T21:52:54Z",
+    "url": "https://github.com/giridhar1103/NYCynapse.Ai"
+  },
+  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4448,
-    "updated_at": "2026-10-14T21:45:15Z",
+    "updated_at": "2026-10-14T21:54:02Z",
     "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "TypeScript",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8814,
+    "updated_at": "2026-10-14T21:49:15Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
@@ -126,15 +153,6 @@
     "url": "https://github.com/plurnk/plurnk"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-14T20:52:07Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -142,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T20:47:50Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "TypeScript",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8814,
-    "updated_at": "2026-10-14T21:30:03Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Application Security orchestration platform",
@@ -212,7 +221,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-14T21:41:44Z",
+    "updated_at": "2026-10-14T21:56:40Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -221,7 +230,7 @@
     "language": "Java",
     "name": "dongsenlin/android-use",
     "stars": 0,
-    "updated_at": "2026-10-14T19:50:53Z",
+    "updated_at": "2026-10-14T21:51:47Z",
     "url": "https://github.com/dongsenlin/android-use"
   },
   {
@@ -378,6 +387,15 @@
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
+    "description": "Make any agent harness token-native.",
+    "id": "Lawhy/tokin",
+    "language": "Python",
+    "name": "Lawhy/tokin",
+    "stars": 5,
+    "updated_at": "2026-10-14T18:02:19Z",
+    "url": "https://github.com/Lawhy/tokin"
+  },
+  {
     "description": "HunterCode \u00b7 Community Edition \u00b7 \u817e\u8baf WorkBuddy \u91d1\u878d\u7248\u7684\u5f00\u6e90\u672c\u5730\u66ff\u4ee3\u65b9\u6848 \u00b7 open-source, local alternative to Tencent WorkBuddy Finance",
     "id": "agentpit-io/hunter-community",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 7,
     "updated_at": "2026-10-14T17:09:05Z",
     "url": "https://github.com/edjafarov/kiagent-core"
-  },
-  {
-    "description": "A guide to New York City you can ask anything: an agent that answers from a live NYC lakehouse first, then city feeds an",
-    "id": "giridhar1103/NYCynapse.Ai",
-    "language": "Python",
-    "name": "giridhar1103/NYCynapse.Ai",
-    "stars": 0,
-    "updated_at": "2026-10-14T17:02:19Z",
-    "url": "https://github.com/giridhar1103/NYCynapse.Ai"
-  },
-  {
-    "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
-    "id": "OtakuNathan/Pal",
-    "language": "Python",
-    "name": "OtakuNathan/Pal",
-    "stars": 2,
-    "updated_at": "2026-10-14T16:55:46Z",
-    "url": "https://github.com/OtakuNathan/Pal"
   }
 ]
