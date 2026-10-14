@@ -5,8 +5,26 @@
     "language": "TypeScript",
     "name": "kyleslight/shun",
     "stars": 7,
-    "updated_at": "2026-10-14T03:15:01Z",
+    "updated_at": "2026-10-14T03:29:29Z",
     "url": "https://github.com/kyleslight/shun"
+  },
+  {
+    "description": "Google ADK (Go) meeting agent: turns meeting goals into a time-boxed agenda or a transcript into evidence-backed minutes",
+    "id": "GhandyP/meeting-agenda-minutes-agent",
+    "language": "Go",
+    "name": "GhandyP/meeting-agenda-minutes-agent",
+    "stars": 0,
+    "updated_at": "2026-10-14T03:28:22Z",
+    "url": "https://github.com/GhandyP/meeting-agenda-minutes-agent"
+  },
+  {
+    "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
+    "id": "Jongtae/agentos",
+    "language": "Python",
+    "name": "Jongtae/agentos",
+    "stars": 0,
+    "updated_at": "2026-10-14T03:24:56Z",
+    "url": "https://github.com/Jongtae/agentos"
   },
   {
     "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
@@ -14,7 +32,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 2,
-    "updated_at": "2026-10-14T03:13:03Z",
+    "updated_at": "2026-10-14T03:29:23Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -23,7 +41,7 @@
     "language": "Go",
     "name": "agentscope-ai/agentscope-go",
     "stars": 57,
-    "updated_at": "2026-10-14T03:13:07Z",
+    "updated_at": "2026-10-14T03:22:04Z",
     "url": "https://github.com/agentscope-ai/agentscope-go"
   },
   {
@@ -63,15 +81,6 @@
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
-    "description": "Google ADK (Go) meeting agent: turns meeting goals into a time-boxed agenda or a transcript into evidence-backed minutes",
-    "id": "GhandyP/meeting-agenda-minutes-agent",
-    "language": "Go",
-    "name": "GhandyP/meeting-agenda-minutes-agent",
-    "stars": 0,
-    "updated_at": "2026-10-14T03:01:09Z",
-    "url": "https://github.com/GhandyP/meeting-agenda-minutes-agent"
-  },
-  {
     "description": "\u9762\u5411 AI Agent \u7684\u9879\u76ee\u6cbb\u7406 Skill \u96c6\u5408\uff1a\u5c06\u4ed3\u5e93\u7ed3\u6784\u3001\u7814\u53d1\u5168\u751f\u547d\u5468\u671f\u4ea7\u7269\u3001Agent \u6267\u884c\u8fb9\u754c\u548c\u670d\u52a1\u53d1\u5e03/\u8fd0\u884c\u6761\u4ef6\uff0c\u8f6c\u5316\u4e3a\u53ef\u6267\u884c\u7684\u786e\u5b9a\u6027\u95e8\u7981\u4e0e\u68c0\u67e5\u5668",
     "id": "farfarfun-skill/project-manager",
     "language": "Python",
@@ -85,7 +94,7 @@
     "id": "areal-project/AReaL",
     "language": "Python",
     "name": "areal-project/AReaL",
-    "stars": 5829,
+    "stars": 5830,
     "updated_at": "2026-10-14T02:49:35Z",
     "url": "https://github.com/areal-project/AReaL"
   },
@@ -103,7 +112,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 33198,
+    "stars": 33199,
     "updated_at": "2026-10-14T02:42:22Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -133,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T02:38:42Z",
     "url": "https://github.com/KiKDraS/mtg-life-counter-app"
-  },
-  {
-    "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
-    "id": "Jongtae/agentos",
-    "language": "Python",
-    "name": "Jongtae/agentos",
-    "stars": 0,
-    "updated_at": "2026-10-14T02:42:25Z",
-    "url": "https://github.com/Jongtae/agentos"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -176,7 +176,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 41,
-    "updated_at": "2026-10-14T02:30:14Z",
+    "updated_at": "2026-10-14T03:28:24Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -238,7 +238,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 1156,
+    "stars": 1158,
     "updated_at": "2026-10-14T02:24:23Z",
     "url": "https://github.com/ongridio/ongrid"
   },
