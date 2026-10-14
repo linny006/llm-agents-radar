@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-14 20:00 UTC
+> ⏰ Last updated: 2026-10-14 20:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [genaforvena/mishe-tauftauf](https://github.com/genaforvena/mishe-tauftauf) | 3 | Python | 2026-10-14 | A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation. |
-| 2 | [CIRISAI/CIRISAgent](https://github.com/CIRISAI/CIRISAgent) | 56 | Python | 2026-10-14 | CIRIS: an open-source AI assistant with a conscience you can check. Signed, auditable reasoning on every decision, a hum |
-| 3 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-14 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
-| 4 | [dongsenlin/android-use](https://github.com/dongsenlin/android-use) | 0 | Java | 2026-10-14 | 让 Codex、Claude Code 等 AI Agent 通过 Wi‑Fi 操作你的安卓手机：截图、读界面、点击、滑动、输入中文。手机端是无障碍 App，不需要 ADB 和开发者模式。 |
-| 5 | [grauwolf32/contractor](https://github.com/grauwolf32/contractor) | 2 | Go | 2026-10-14 | Application Security orchestration platform |
-| 6 | [NitinReddy-A/Rampart](https://github.com/NitinReddy-A/Rampart) | 6 | Python | 2026-10-14 | Open-source, self-hostable AppSec agent that finds, proves, and helps fix web/API vulnerabilities — evidence-first (inde |
-| 7 | [gptme/gptme](https://github.com/gptme/gptme) | 4448 | Python | 2026-10-14 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
-| 8 | [ljchang/mecha](https://github.com/ljchang/mecha) | 7 | Rust | 2026-10-14 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
-| 9 | [Hrecer/LinkPocket](https://github.com/Hrecer/LinkPocket) | 0 | C# | 2026-10-14 | A local-first, standalone personal knowledge base for Windows. Import, organize, and create your own links — no browser  |
+| 1 | [ljchang/mecha](https://github.com/ljchang/mecha) | 7 | Rust | 2026-10-14 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
+| 2 | [genaforvena/mishe-tauftauf](https://github.com/genaforvena/mishe-tauftauf) | 3 | Python | 2026-10-14 | A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation. |
+| 3 | [Hrecer/LinkPocket](https://github.com/Hrecer/LinkPocket) | 0 | C# | 2026-10-14 | A local-first, standalone personal knowledge base for Windows. Import, organize, and create your own links — no browser  |
+| 4 | [gptme/gptme](https://github.com/gptme/gptme) | 4448 | Python | 2026-10-14 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
+| 5 | [CIRISAI/CIRISAgent](https://github.com/CIRISAI/CIRISAgent) | 57 | Python | 2026-10-14 | CIRIS: an open-source AI assistant with a conscience you can check. Signed, auditable reasoning on every decision, a hum |
+| 6 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-14 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
+| 7 | [dongsenlin/android-use](https://github.com/dongsenlin/android-use) | 0 | Java | 2026-10-14 | 让 Codex、Claude Code 等 AI Agent 通过 Wi‑Fi 操作你的安卓手机：截图、读界面、点击、滑动、输入中文。手机端是无障碍 App，不需要 ADB 和开发者模式。 |
+| 8 | [grauwolf32/contractor](https://github.com/grauwolf32/contractor) | 2 | Go | 2026-10-14 | Application Security orchestration platform |
+| 9 | [NitinReddy-A/Rampart](https://github.com/NitinReddy-A/Rampart) | 6 | Python | 2026-10-14 | Open-source, self-hostable AppSec agent that finds, proves, and helps fix web/API vulnerabilities — evidence-first (inde |
 | 10 | [xanstomper/mochi](https://github.com/xanstomper/mochi) | 0 | TypeScript | 2026-10-14 | Mochi — a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP  |
 | 11 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 5 | TypeScript | 2026-10-14 | AI-powered image generation and chat studio |
 | 12 | [moyshik7/marnie](https://github.com/moyshik7/marnie) | 2 | JavaScript | 2026-10-14 | The local AI workspace with built-in tools. Run deep research, scrape websites, interact with local files, and trigger w |
