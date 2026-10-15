@@ -1,12 +1,12 @@
 [
   {
-    "description": "Harness LLMs with Multi-Agent Programming",
-    "id": "langroid/langroid",
+    "description": "CIRIS: an open-source AI assistant with a conscience you can check. Signed, auditable reasoning on every decision, a hum",
+    "id": "CIRISAI/CIRISAgent",
     "language": "Python",
-    "name": "langroid/langroid",
-    "stars": 4114,
-    "updated_at": "2026-10-15T22:30:09Z",
-    "url": "https://github.com/langroid/langroid"
+    "name": "CIRISAI/CIRISAgent",
+    "stars": 57,
+    "updated_at": "2026-10-15T22:44:37Z",
+    "url": "https://github.com/CIRISAI/CIRISAgent"
   },
   {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "genaforvena/mishe-tauftauf",
     "stars": 3,
-    "updated_at": "2026-10-15T22:27:05Z",
+    "updated_at": "2026-10-15T22:34:50Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Harness LLMs with Multi-Agent Programming",
+    "id": "langroid/langroid",
+    "language": "Python",
+    "name": "langroid/langroid",
+    "stars": 4114,
+    "updated_at": "2026-10-15T22:30:09Z",
+    "url": "https://github.com/langroid/langroid"
   },
   {
     "description": "Is your backtest real? Deflated Sharpe Ratio, backtest-overfitting (PBO) and lookahead checks with measured false-positi",
@@ -41,7 +50,7 @@
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 49,
-    "updated_at": "2026-10-15T22:18:21Z",
+    "updated_at": "2026-10-15T22:43:43Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
@@ -86,7 +95,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4450,
-    "updated_at": "2026-10-15T22:14:48Z",
+    "updated_at": "2026-10-15T22:42:44Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -198,15 +207,6 @@
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
-    "description": "CIRIS: an open-source AI assistant with a conscience you can check. Signed, auditable reasoning on every decision, a hum",
-    "id": "CIRISAI/CIRISAgent",
-    "language": "Python",
-    "name": "CIRISAI/CIRISAgent",
-    "stars": 57,
-    "updated_at": "2026-10-15T21:40:50Z",
-    "url": "https://github.com/CIRISAI/CIRISAgent"
-  },
-  {
     "description": "Lean, extended fork of Nous Research's Hermes Agent \u2014 free model suite, connectors, and ~20 perf fixes. Upstream credite",
     "id": "Chensihakniroth/anakot-agent-v1",
     "language": "Python",
@@ -297,6 +297,15 @@
     "url": "https://github.com/bondwell79/hercules"
   },
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "TypeScript",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8824,
+    "updated_at": "2026-10-15T20:59:05Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "\uc9c1\ubc29\u00b7\ub124\uc774\ubc84 \ubd80\ub3d9\uc0b0\u00b7\ub2f9\uadfc\ubd80\ub3d9\uc0b0 \ub9e4\ubb3c\uacfc \uc2e4\uac70\ub798\uac00\ub97c \uc870\ud68c\ud558\ub294 LLM \uc5d0\uc774\uc804\ud2b8\uc6a9 CLI \u00b7 Korean real estate listings CLI for LLM agents (Zigbang, Naver Real Esta",
     "id": "Rukkakka/jibsa",
     "language": "Python",
@@ -358,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T20:00:41Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "TypeScript",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8823,
-    "updated_at": "2026-10-15T20:59:05Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
