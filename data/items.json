@@ -1,11 +1,29 @@
 [
   {
+    "description": "Scrapling \u98ce\u683c\u9690\u8eab\u722c\u866b\u5e93\uff1a\u81ea\u9002\u5e94\u9009\u62e9\u5668 \u00b7 TLS \u6307\u7eb9 HTTP \u00b7 JS \u6e32\u67d3 \u00b7 \u56de\u8c03\u5f0f Spider \u6846\u67b6\uff08\u91cd\u8bd5/robots/\u53bb\u91cd/\u4e2d\u95f4\u4ef6\u7ba1\u9053\uff09\u00b7 JS \u9006\u5411 Agent \u00b7 \u9a8c\u8bc1\u7801\u8bc6\u522b \u00b7 MCP \u670d\u52a1 \u00b7 \u672c\u5730 We",
+    "id": "xiaomaozjj666/web-crawler",
+    "language": "Python",
+    "name": "xiaomaozjj666/web-crawler",
+    "stars": 4,
+    "updated_at": "2026-10-15T17:43:48Z",
+    "url": "https://github.com/xiaomaozjj666/web-crawler"
+  },
+  {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 5,
+    "updated_at": "2026-10-15T17:37:24Z",
+    "url": "https://github.com/plurnk/plurnk"
+  },
+  {
     "description": "Gestor ag\u00e9ntico de modelos llm",
     "id": "bondwell79/hercules",
     "language": "Python",
     "name": "bondwell79/hercules",
     "stars": 0,
-    "updated_at": "2026-10-15T17:21:02Z",
+    "updated_at": "2026-10-15T17:35:40Z",
     "url": "https://github.com/bondwell79/hercules"
   },
   {
@@ -106,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-10-15T16:50:49Z",
     "url": "https://github.com/Shuffle-1992/dsh-context-pilot"
-  },
-  {
-    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
-    "id": "plurnk/plurnk",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk",
-    "stars": 5,
-    "updated_at": "2026-10-15T16:50:01Z",
-    "url": "https://github.com/plurnk/plurnk"
   },
   {
     "description": "An open Unitree G1 \u00d7 Gemini Argon experiment: English BYOK console, bounded left-arm control, and real hardware video. A",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-15T14:43:46Z",
     "url": "https://github.com/huynvic/albertcode-swe-agent"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 82,
-    "updated_at": "2026-10-15T14:42:32Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   }
 ]
