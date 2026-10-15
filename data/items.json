@@ -1,12 +1,57 @@
 [
   {
-    "description": "\u628a\u5927\u6a21\u578b\u5f53\u53f8\u4ee4\u3001\u811a\u672c\u5f53\u624b\u7684 DSH Agent \u9884\u8bbe\uff1a\u5de5\u5177\u91cc\u96f6\u4e1a\u52a1\u5224\u65ad\uff0c\u8ba9\u6a21\u578b\u5728\u8fd0\u884c\u65f6\u81ea\u9002\u5e94\u52a8\u6001\u7ed3\u6784\u7684\u7f51\u7ad9",
-    "id": "LeuJasYoh/dsh-xuexi",
-    "language": "JavaScript",
-    "name": "LeuJasYoh/dsh-xuexi",
+    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
+    "id": "haibingzhao/easyai",
+    "language": "Kotlin",
+    "name": "haibingzhao/easyai",
+    "stars": 1,
+    "updated_at": "2026-10-15T12:00:10Z",
+    "url": "https://github.com/haibingzhao/easyai"
+  },
+  {
+    "description": "Turn any repository URL into a complete, fact-verified GitHub Wiki. An LLM-agent skill: clone, inventory, RUN and probe ",
+    "id": "paulmann/github-wiki-llm-writer",
+    "language": "Python",
+    "name": "paulmann/github-wiki-llm-writer",
     "stars": 0,
-    "updated_at": "2026-10-15T11:43:45Z",
-    "url": "https://github.com/LeuJasYoh/dsh-xuexi"
+    "updated_at": "2026-10-15T11:58:22Z",
+    "url": "https://github.com/paulmann/github-wiki-llm-writer"
+  },
+  {
+    "description": "A local-first, standalone personal knowledge base for Windows. Import, organize, and create your own links \u2014 no browser ",
+    "id": "Hrecer/LinkPocket",
+    "language": "C#",
+    "name": "Hrecer/LinkPocket",
+    "stars": 0,
+    "updated_at": "2026-10-15T11:58:07Z",
+    "url": "https://github.com/Hrecer/LinkPocket"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-10-15T11:57:53Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Single-user Hebrew/English personal assistant: Cloudflare Workers + SQLite Durable Object, Groq tool-calling agent where",
+    "id": "tzur669-lab/whatsapp-assistant",
+    "language": "TypeScript",
+    "name": "tzur669-lab/whatsapp-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-15T11:56:49Z",
+    "url": "https://github.com/tzur669-lab/whatsapp-assistant"
+  },
+  {
+    "description": "\u7535\u5546\u552e\u540e\u5ba2\u670d Agent\uff1aTool Calling + Policy Guard + \u4eba\u5de5\u5ba1\u6279 + \u5e42\u7b49\u6267\u884c + \u53ef\u9a8c\u8bc1\u8bc4\u6d4b",
+    "id": "sjhesjaj/GroundedAgent",
+    "language": "Python",
+    "name": "sjhesjaj/GroundedAgent",
+    "stars": 0,
+    "updated_at": "2026-10-15T11:53:33Z",
+    "url": "https://github.com/sjhesjaj/GroundedAgent"
   },
   {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
@@ -14,8 +59,62 @@
     "language": "Python",
     "name": "genaforvena/mishe-tauftauf",
     "stars": 3,
-    "updated_at": "2026-10-15T11:43:13Z",
+    "updated_at": "2026-10-15T11:53:18Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-10-15T11:53:15Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 53,
+    "updated_at": "2026-10-15T11:51:59Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
+    "id": "Shuffle-1992/dsh-context-pilot",
+    "language": "JavaScript",
+    "name": "Shuffle-1992/dsh-context-pilot",
+    "stars": 2,
+    "updated_at": "2026-10-15T11:51:07Z",
+    "url": "https://github.com/Shuffle-1992/dsh-context-pilot"
+  },
+  {
+    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
+    "id": "eshanized/M31A",
+    "language": "Rust",
+    "name": "eshanized/M31A",
+    "stars": 10,
+    "updated_at": "2026-10-15T11:47:02Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-15T11:59:46Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "\u628a\u5927\u6a21\u578b\u5f53\u53f8\u4ee4\u3001\u811a\u672c\u5f53\u624b\u7684 DSH Agent \u9884\u8bbe\uff1a\u5de5\u5177\u91cc\u96f6\u4e1a\u52a1\u5224\u65ad\uff0c\u8ba9\u6a21\u578b\u5728\u8fd0\u884c\u65f6\u81ea\u9002\u5e94\u52a8\u6001\u7ed3\u6784\u7684\u7f51\u7ad9",
+    "id": "LeuJasYoh/dsh-xuexi",
+    "language": "JavaScript",
+    "name": "LeuJasYoh/dsh-xuexi",
+    "stars": 0,
+    "updated_at": "2026-10-15T11:43:45Z",
+    "url": "https://github.com/LeuJasYoh/dsh-xuexi"
   },
   {
     "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
@@ -45,15 +144,6 @@
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
-    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
-    "id": "eshanized/M31A",
-    "language": "Rust",
-    "name": "eshanized/M31A",
-    "stars": 10,
-    "updated_at": "2026-10-15T11:26:40Z",
-    "url": "https://github.com/eshanized/M31A"
-  },
-  {
     "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
     "id": "kangwoo/aimon-core",
     "language": "Java",
@@ -61,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T11:26:47Z",
     "url": "https://github.com/kangwoo/aimon-core"
-  },
-  {
-    "description": "\u7535\u5546\u552e\u540e\u5ba2\u670d Agent\uff1aTool Calling + Policy Guard + \u4eba\u5de5\u5ba1\u6279 + \u5e42\u7b49\u6267\u884c + \u53ef\u9a8c\u8bc1\u8bc4\u6d4b",
-    "id": "sjhesjaj/GroundedAgent",
-    "language": "Python",
-    "name": "sjhesjaj/GroundedAgent",
-    "stars": 0,
-    "updated_at": "2026-10-15T11:40:38Z",
-    "url": "https://github.com/sjhesjaj/GroundedAgent"
   },
   {
     "description": "\ub124\uc774\ubc84 \ud56d\uacf5\uad8c\u00b7\uc2a4\uce74\uc774\uc2a4\uce90\ub108\uc5d0\uc11c \uc9c0\uae08 \uc0b4 \uc218 \uc788\ub294 \ud56d\uacf5\uad8c\uc744 \uc870\ud68c\ud558\ub294 LLM \uc5d0\uc774\uc804\ud2b8\uc6a9 CLI \u00b7 Korean flight search CLI for LLM agents (Naver Flights, Skyscanner)",
@@ -106,24 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T11:19:17Z",
     "url": "https://github.com/konglong87/go-e2e"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-15T11:45:14Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
-    "id": "Shuffle-1992/dsh-context-pilot",
-    "language": "JavaScript",
-    "name": "Shuffle-1992/dsh-context-pilot",
-    "stars": 2,
-    "updated_at": "2026-10-15T11:11:52Z",
-    "url": "https://github.com/Shuffle-1992/dsh-context-pilot"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -212,7 +275,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 43,
-    "updated_at": "2026-10-15T11:19:43Z",
+    "updated_at": "2026-10-15T11:47:55Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -232,15 +295,6 @@
     "stars": 5,
     "updated_at": "2026-10-15T11:27:18Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Single-user Hebrew/English personal assistant: Cloudflare Workers + SQLite Durable Object, Groq tool-calling agent where",
-    "id": "tzur669-lab/whatsapp-assistant",
-    "language": "TypeScript",
-    "name": "tzur669-lab/whatsapp-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-15T10:12:05Z",
-    "url": "https://github.com/tzur669-lab/whatsapp-assistant"
   },
   {
     "description": "Hermes Agent on Termux (Android): one-command install from prebuilt, checksum-verified Python wheels. No compiling on yo",
@@ -295,15 +349,6 @@
     "stars": 1,
     "updated_at": "2026-10-15T09:49:04Z",
     "url": "https://github.com/karvidsson/kbots"
-  },
-  {
-    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 53,
-    "updated_at": "2026-10-15T09:46:53Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
   },
   {
     "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
@@ -403,50 +448,5 @@
     "stars": 820,
     "updated_at": "2026-10-15T09:16:28Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "\u5e93\u5b58\u8865\u8d27\u8bca\u65ad Agent\uff1aLangGraph \u72b6\u6001\u673a + \u786e\u5b9a\u6027\u8865\u8d27\u516c\u5f0f + \u4eba\u5de5\u5ba1\u6279 + \u53d7\u63a7\u6267\u884c\u5668\uff1b\u542b\u8f7d\u4f53\u670d\u52a1\u8fb9\u754c\u3001\u5355\u4ef7\u7ed1\u5b9a\u590d\u68c0\u4e0e\u6279\u91cf\u4e8b\u5b9e\u8bc1\u636e",
-    "id": "X-0240/inventory-diagnostic-agent",
-    "language": "Python",
-    "name": "X-0240/inventory-diagnostic-agent",
-    "stars": 0,
-    "updated_at": "2026-10-15T09:15:06Z",
-    "url": "https://github.com/X-0240/inventory-diagnostic-agent"
-  },
-  {
-    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
-    "id": "QQSHI13/fox-agent",
-    "language": "TypeScript",
-    "name": "QQSHI13/fox-agent",
-    "stars": 2,
-    "updated_at": "2026-10-15T09:04:53Z",
-    "url": "https://github.com/QQSHI13/fox-agent"
-  },
-  {
-    "description": "A bot that learns to play games by playing them and by watching you play. First game: Minecraft (Voyager-style skill lib",
-    "id": "fthsrbst/minecraft-agent",
-    "language": "\u2014",
-    "name": "fthsrbst/minecraft-agent",
-    "stars": 0,
-    "updated_at": "2026-10-15T09:10:19Z",
-    "url": "https://github.com/fthsrbst/minecraft-agent"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5835,
-    "updated_at": "2026-10-15T10:57:39Z",
-    "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "\u9762\u5411 AI Agent \u7684\u9879\u76ee\u6cbb\u7406 Skill \u96c6\u5408\uff1a\u5c06\u4ed3\u5e93\u7ed3\u6784\u3001\u7814\u53d1\u5168\u751f\u547d\u5468\u671f\u4ea7\u7269\u3001Agent \u6267\u884c\u8fb9\u754c\u548c\u670d\u52a1\u53d1\u5e03/\u8fd0\u884c\u6761\u4ef6\uff0c\u8f6c\u5316\u4e3a\u53ef\u6267\u884c\u7684\u786e\u5b9a\u6027\u95e8\u7981\u4e0e\u68c0\u67e5\u5668",
-    "id": "farfarfun-skill/project-manager",
-    "language": "Python",
-    "name": "farfarfun-skill/project-manager",
-    "stars": 0,
-    "updated_at": "2026-10-15T08:55:27Z",
-    "url": "https://github.com/farfarfun-skill/project-manager"
   }
 ]
