@@ -1,12 +1,57 @@
 [
   {
+    "description": "Self-hosted AI execution agent for Discord: runs shell commands and edits files on your hosts, drives browsers, schedule",
+    "id": "Calmingstorm/Odin",
+    "language": "Python",
+    "name": "Calmingstorm/Odin",
+    "stars": 3,
+    "updated_at": "2026-10-15T16:28:27Z",
+    "url": "https://github.com/Calmingstorm/Odin"
+  },
+  {
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
+    "id": "bigfish1913/pi-rust",
+    "language": "Rust",
+    "name": "bigfish1913/pi-rust",
+    "stars": 106,
+    "updated_at": "2026-10-15T16:29:26Z",
+    "url": "https://github.com/bigfish1913/pi-rust"
+  },
+  {
+    "description": "sid-code \u4e0e claude-trace \u5171\u540c\u9762\u5bf9\u7684\u4f01\u4e1a\u7ea7\u540e\u7aef\uff1a\u63a7\u5236\u9762\uff08policy / flag / \u8eab\u4efd\uff09\u4e0e\u6570\u636e\u9762\uff08\u8f68\u8ff9 / \u4e8b\u4ef6\uff09\u540c\u4ed3\u3001\u9274\u6743\u9694\u79bb\u3002\u5df2\u4ea4\u4ed8\u8f68\u8ff9\u5b58\u50a8\u4e0e\u5206\u6790\uff0c\u5176\u4f59\u6a21\u5757\u6309\u91cc\u7a0b\u7891\u8fed\u4ee3",
+    "id": "njfuzrs/agent-backend",
+    "language": "Python",
+    "name": "njfuzrs/agent-backend",
+    "stars": 0,
+    "updated_at": "2026-10-15T16:21:48Z",
+    "url": "https://github.com/njfuzrs/agent-backend"
+  },
+  {
     "description": "Official Scrapfly MCP server for Cursor, Claude Desktop, and any MCP-compatible client. Enterprise-grade web scraping, A",
     "id": "scrapfly/scrapfly-mcp",
     "language": "Go",
     "name": "scrapfly/scrapfly-mcp",
     "stars": 14,
-    "updated_at": "2026-10-15T16:14:24Z",
+    "updated_at": "2026-10-15T16:16:37Z",
     "url": "https://github.com/scrapfly/scrapfly-mcp"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "TypeScript",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8823,
+    "updated_at": "2026-10-15T16:16:28Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
+    "id": "DylPorter/teledesk",
+    "language": "Python",
+    "name": "DylPorter/teledesk",
+    "stars": 2,
+    "updated_at": "2026-10-15T16:15:20Z",
+    "url": "https://github.com/DylPorter/teledesk"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "CIRISAI/CIRISAgent",
     "stars": 57,
-    "updated_at": "2026-10-15T15:59:02Z",
+    "updated_at": "2026-10-15T16:20:48Z",
     "url": "https://github.com/CIRISAI/CIRISAgent"
   },
   {
@@ -79,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-10-15T15:54:00Z",
     "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "TypeScript",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8822,
-    "updated_at": "2026-10-15T15:53:33Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "\u7535\u5546\u5e73\u53f0\u5546\u54c1\u5185\u5bb9\u6cbb\u7406\u7684\u590d\u6742\u98ce\u9669\u8c03\u67e5 Agent\uff1aLangGraph \u591a\u6b65\u8c03\u67e5 + \u786e\u5b9a\u6027 Decision Gate\uff0c\u8f93\u51fa PASS / REJECT / HUMAN_REVIEW\uff1b\u5168\u94fe\u8def\u786e\u5b9a\u6027\u53ef\u91cd\u653e\u8bc4\u6d4b",
@@ -162,24 +198,6 @@
     "url": "https://github.com/5dive-ai/openagent"
   },
   {
-    "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
-    "id": "DylPorter/teledesk",
-    "language": "Python",
-    "name": "DylPorter/teledesk",
-    "stars": 2,
-    "updated_at": "2026-10-15T16:10:50Z",
-    "url": "https://github.com/DylPorter/teledesk"
-  },
-  {
-    "description": "sid-code \u4e0e claude-trace \u5171\u540c\u9762\u5bf9\u7684\u4f01\u4e1a\u7ea7\u540e\u7aef\uff1a\u63a7\u5236\u9762\uff08policy / flag / \u8eab\u4efd\uff09\u4e0e\u6570\u636e\u9762\uff08\u8f68\u8ff9 / \u4e8b\u4ef6\uff09\u540c\u4ed3\u3001\u9274\u6743\u9694\u79bb\u3002\u5df2\u4ea4\u4ed8\u8f68\u8ff9\u5b58\u50a8\u4e0e\u5206\u6790\uff0c\u5176\u4f59\u6a21\u5757\u6309\u91cc\u7a0b\u7891\u8fed\u4ee3",
-    "id": "njfuzrs/agent-backend",
-    "language": "Python",
-    "name": "njfuzrs/agent-backend",
-    "stars": 0,
-    "updated_at": "2026-10-15T16:05:50Z",
-    "url": "https://github.com/njfuzrs/agent-backend"
-  },
-  {
     "description": "Non-custodial Hyperliquid execution + tracking CLI for autonomous LLM agents. Signs EIP-712 actions with an agent wallet",
     "id": "erickuhn19/deliverator",
     "language": "Go",
@@ -194,7 +212,7 @@
     "language": "Python",
     "name": "Jongtae/agentos",
     "stars": 0,
-    "updated_at": "2026-10-15T15:33:39Z",
+    "updated_at": "2026-10-15T16:21:45Z",
     "url": "https://github.com/Jongtae/agentos"
   },
   {
@@ -311,7 +329,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4450,
-    "updated_at": "2026-10-15T14:46:32Z",
+    "updated_at": "2026-10-15T16:29:12Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 10,
     "updated_at": "2026-10-15T14:06:46Z",
     "url": "https://github.com/pzc2004/HSR_Nous"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 133,
-    "updated_at": "2026-10-15T13:56:48Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf\uff0c\u57fa\u4e8e ARTEX v0.3.15 \u4e8c\u6b21\u5f00\u53d1\u3002\u4fdd\u7559\u539f\u6709\u4e3b\u4f53\u6846\u67b6\uff0c\u589e\u5f3a\u871c\u7f50\u8bc6\u522b\u3001\u51fa\u53e3\u5ba1\u67e5\u3001\u8303\u56f4\u5f3a\u5236\uff08RoE\uff09\u4e0e\u53cd\u6d4b\u7ed8\u95e8\u63a7\uff0c\u5f15\u5165\u601d\u7ef4\u94fe\u63d0\u793a\u8bcd\u6846\u67b6\u3002AGPL-3.0 \u00b7 \u4ec5\u9650\u6388\u6743\u73af\u5883\u4f7f\u7528",
-    "id": "D4rk-3ch0/artex-c",
-    "language": "Go",
-    "name": "D4rk-3ch0/artex-c",
-    "stars": 0,
-    "updated_at": "2026-10-15T13:52:52Z",
-    "url": "https://github.com/D4rk-3ch0/artex-c"
   }
 ]
