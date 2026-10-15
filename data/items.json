@@ -1,5 +1,59 @@
 [
   {
+    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
+    "id": "wuyhong715/rikkahub-agent-pure",
+    "language": "Kotlin",
+    "name": "wuyhong715/rikkahub-agent-pure",
+    "stars": 43,
+    "updated_at": "2026-10-15T01:28:44Z",
+    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
+  },
+  {
+    "description": "Make any agent harness token-native.",
+    "id": "Lawhy/tokin",
+    "language": "Python",
+    "name": "Lawhy/tokin",
+    "stars": 5,
+    "updated_at": "2026-10-15T01:28:47Z",
+    "url": "https://github.com/Lawhy/tokin"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-15T01:22:23Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 131,
+    "updated_at": "2026-10-15T01:20:50Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-10-15T01:20:11Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
+    "id": "xanstomper/mochi",
+    "language": "TypeScript",
+    "name": "xanstomper/mochi",
+    "stars": 0,
+    "updated_at": "2026-10-15T01:17:10Z",
+    "url": "https://github.com/xanstomper/mochi"
+  },
+  {
     "description": "\u53d7\u7ea6\u675f\u7684 A \u80a1\u6a21\u62df\u4ea4\u6613 Agent Runtime\uff1aLLM \u53ea\u8bfb\u63d0\u6848 \u2192 \u786e\u5b9a\u6027\u98ce\u63a7\u95e8 \u2192 \u4eba\u5de5\u5ba1\u6279 \u2192 \u5e42\u7b49\u6267\u884c \u2192 \u4e8b\u4ef6\u6eaf\u6e90\u5ba1\u8ba1",
     "id": "happiness-cheng/ai-trader",
     "language": "Python",
@@ -34,24 +88,6 @@
     "stars": 1,
     "updated_at": "2026-10-15T01:10:34Z",
     "url": "https://github.com/yuanlin2004/chisel"
-  },
-  {
-    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
-    "id": "wuyhong715/rikkahub-agent-pure",
-    "language": "Kotlin",
-    "name": "wuyhong715/rikkahub-agent-pure",
-    "stars": 43,
-    "updated_at": "2026-10-15T01:07:50Z",
-    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
-  },
-  {
-    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
-    "id": "xanstomper/mochi",
-    "language": "TypeScript",
-    "name": "xanstomper/mochi",
-    "stars": 0,
-    "updated_at": "2026-10-15T01:05:55Z",
-    "url": "https://github.com/xanstomper/mochi"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -95,17 +131,8 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-15T01:06:52Z",
+    "updated_at": "2026-10-15T01:29:39Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Make any agent harness token-native.",
-    "id": "Lawhy/tokin",
-    "language": "Python",
-    "name": "Lawhy/tokin",
-    "stars": 5,
-    "updated_at": "2026-10-15T00:41:48Z",
-    "url": "https://github.com/Lawhy/tokin"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -176,7 +203,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4450,
-    "updated_at": "2026-10-15T01:13:13Z",
+    "updated_at": "2026-10-15T01:24:59Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -194,7 +221,7 @@
     "language": "Python",
     "name": "CIRISAI/CIRISAgent",
     "stars": 57,
-    "updated_at": "2026-10-15T00:52:57Z",
+    "updated_at": "2026-10-15T01:29:52Z",
     "url": "https://github.com/CIRISAI/CIRISAgent"
   },
   {
@@ -266,7 +293,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 22,
-    "updated_at": "2026-10-14T22:32:53Z",
+    "updated_at": "2026-10-15T01:30:00Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -295,24 +322,6 @@
     "stars": 2,
     "updated_at": "2026-10-14T22:23:11Z",
     "url": "https://github.com/SashaEee/auditLens"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 131,
-    "updated_at": "2026-10-14T22:10:05Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-10-14T22:09:32Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-14T18:57:49Z",
     "url": "https://github.com/paulmann/github-wiki-llm-writer"
-  },
-  {
-    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
-    "id": "ljedrz/nachalnik",
-    "language": "Rust",
-    "name": "ljedrz/nachalnik",
-    "stars": 5,
-    "updated_at": "2026-10-14T18:43:54Z",
-    "url": "https://github.com/ljedrz/nachalnik"
   }
 ]
