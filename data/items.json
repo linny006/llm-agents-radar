@@ -1,5 +1,68 @@
 [
   {
+    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
+    "id": "QQSHI13/fox-agent",
+    "language": "TypeScript",
+    "name": "QQSHI13/fox-agent",
+    "stars": 2,
+    "updated_at": "2026-10-15T08:13:41Z",
+    "url": "https://github.com/QQSHI13/fox-agent"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-15T08:13:21Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 4,
+    "updated_at": "2026-10-15T08:08:25Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-15T08:07:26Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-15T08:03:23Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "\u628a\u5927\u6a21\u578b\u5f53\u53f8\u4ee4\u3001\u811a\u672c\u5f53\u624b\u7684 DSH Agent \u9884\u8bbe\uff1a\u5de5\u5177\u91cc\u96f6\u4e1a\u52a1\u5224\u65ad\uff0c\u8ba9\u6a21\u578b\u5728\u8fd0\u884c\u65f6\u81ea\u9002\u5e94\u52a8\u6001\u7ed3\u6784\u7684\u7f51\u7ad9",
+    "id": "LeuJasYoh/dsh-xuexi",
+    "language": "JavaScript",
+    "name": "LeuJasYoh/dsh-xuexi",
+    "stars": 0,
+    "updated_at": "2026-10-15T08:02:24Z",
+    "url": "https://github.com/LeuJasYoh/dsh-xuexi"
+  },
+  {
+    "description": "\u667a\u80fd\u6c42\u804c\u52a9\u624b Agent\uff1aLangGraph \u591a Agent \u7f16\u6392 + RAG\uff08Qwen + ChromaDB\uff09+ FastAPI SSE \u771f\u6d41\u5f0f + Vue 3 \u524d\u7aef",
+    "id": "wdfwdf666/jobpilot-agent",
+    "language": "Python",
+    "name": "wdfwdf666/jobpilot-agent",
+    "stars": 0,
+    "updated_at": "2026-10-15T08:00:59Z",
+    "url": "https://github.com/wdfwdf666/jobpilot-agent"
+  },
+  {
     "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
     "id": "eshanized/M31A",
     "language": "Rust",
@@ -14,17 +77,8 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-15T07:58:47Z",
+    "updated_at": "2026-10-15T08:08:48Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-15T07:58:40Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "Risk-feature mining toolkit for customer-level wide tables: adaptive-binning IV/WOE, segment logistic regression, decisi",
@@ -72,15 +126,6 @@
     "url": "https://github.com/tomcounsell/ai"
   },
   {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-15T07:52:45Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -121,7 +166,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 33291,
+    "stars": 33292,
     "updated_at": "2026-10-15T07:36:05Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -167,7 +212,7 @@
     "language": "TypeScript",
     "name": "strands-agents/harness-sdk",
     "stars": 8821,
-    "updated_at": "2026-10-15T07:54:13Z",
+    "updated_at": "2026-10-15T08:01:32Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -205,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T07:16:54Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 4,
-    "updated_at": "2026-10-15T07:15:45Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -270,15 +306,6 @@
     "url": "https://github.com/mensfeld/pocketrb"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-15T07:02:10Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
     "id": "memoways/ava-proto1",
     "language": "TypeScript",
@@ -304,15 +331,6 @@
     "stars": 1,
     "updated_at": "2026-10-15T06:57:36Z",
     "url": "https://github.com/haibingzhao/easyai"
-  },
-  {
-    "description": "\u667a\u80fd\u6c42\u804c\u52a9\u624b Agent\uff1aLangGraph \u591a Agent \u7f16\u6392 + RAG\uff08Qwen + ChromaDB\uff09+ FastAPI SSE \u771f\u6d41\u5f0f + Vue 3 \u524d\u7aef",
-    "id": "wdfwdf666/jobpilot-agent",
-    "language": "Python",
-    "name": "wdfwdf666/jobpilot-agent",
-    "stars": 0,
-    "updated_at": "2026-10-15T06:54:39Z",
-    "url": "https://github.com/wdfwdf666/jobpilot-agent"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -355,7 +373,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 1179,
+    "stars": 1180,
     "updated_at": "2026-10-15T06:42:31Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -365,7 +383,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3599,
-    "updated_at": "2026-10-15T07:45:32Z",
+    "updated_at": "2026-10-15T08:15:14Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -427,26 +445,8 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 6204,
+    "stars": 6205,
     "updated_at": "2026-10-15T06:21:46Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 49,
-    "updated_at": "2026-10-15T07:03:28Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
-    "id": "agentscope-ai/agentscope-go",
-    "language": "Go",
-    "name": "agentscope-ai/agentscope-go",
-    "stars": 58,
-    "updated_at": "2026-10-15T06:17:41Z",
-    "url": "https://github.com/agentscope-ai/agentscope-go"
   }
 ]
