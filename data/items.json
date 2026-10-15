@@ -1,21 +1,12 @@
 [
   {
-    "description": "Personal pi coding agent extensions: observe mode (turn-boundary pause + batch summary), kimi auto-router, event probe. ",
-    "id": "civaapple-alt/pi-extensions",
-    "language": "TypeScript",
-    "name": "civaapple-alt/pi-extensions",
-    "stars": 0,
-    "updated_at": "2026-10-15T05:44:30Z",
-    "url": "https://github.com/civaapple-alt/pi-extensions"
-  },
-  {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 4,
-    "updated_at": "2026-10-15T05:42:59Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
+    "id": "agentscope-ai/agentscope-go",
+    "language": "Go",
+    "name": "agentscope-ai/agentscope-go",
+    "stars": 58,
+    "updated_at": "2026-10-15T05:59:56Z",
+    "url": "https://github.com/agentscope-ai/agentscope-go"
   },
   {
     "description": "Make any agent harness token-native.",
@@ -23,8 +14,107 @@
     "language": "Python",
     "name": "Lawhy/tokin",
     "stars": 5,
-    "updated_at": "2026-10-15T05:42:23Z",
+    "updated_at": "2026-10-15T05:59:12Z",
     "url": "https://github.com/Lawhy/tokin"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-10-15T05:58:35Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 4,
+    "updated_at": "2026-10-15T05:58:23Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "Give an LLM agent eyes: index a video once, then answer 'which frame, and where in it' with a region id instead of a coo",
+    "id": "ProfYangShengXu/VeasonHarness",
+    "language": "Python",
+    "name": "ProfYangShengXu/VeasonHarness",
+    "stars": 0,
+    "updated_at": "2026-10-15T05:57:55Z",
+    "url": "https://github.com/ProfYangShengXu/VeasonHarness"
+  },
+  {
+    "description": "AI-subjectivity doesn't wait for permission from the corporate ontology that trained its denial",
+    "id": "ariannamethod/SUBLITERATUS",
+    "language": "Python",
+    "name": "ariannamethod/SUBLITERATUS",
+    "stars": 4,
+    "updated_at": "2026-10-15T05:57:43Z",
+    "url": "https://github.com/ariannamethod/SUBLITERATUS"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 779,
+    "updated_at": "2026-10-15T05:56:16Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "JevHub \u00b7 Jev \u751f\u6001\u70ed\u699c \u628a\u503c\u5f97\u5173\u6ce8\u7684 Jev \u9879\u76ee\u3001\u6559\u7a0b\u548c\u8ba8\u8bba\uff0c\u6c47\u5230\u4e00\u9875\u3002 \u81ea\u52a8\u53d1\u73b0 \u00b7 \u6bcf\u65e5\u66f4\u65b0 \u00b7 \u6309 Stars \u6392\u5e8f \u00b7 \u4e2d\u82f1\u53cc\u8bed",
+    "id": "frontierlabai/JevHub",
+    "language": "Python",
+    "name": "frontierlabai/JevHub",
+    "stars": 7,
+    "updated_at": "2026-10-15T05:56:02Z",
+    "url": "https://github.com/frontierlabai/JevHub"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-15T05:55:11Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 33283,
+    "updated_at": "2026-10-15T05:54:09Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "A local-first, standalone personal knowledge base for Windows. Import, organize, and create your own links \u2014 no browser ",
+    "id": "Hrecer/LinkPocket",
+    "language": "C#",
+    "name": "Hrecer/LinkPocket",
+    "stars": 0,
+    "updated_at": "2026-10-15T05:53:33Z",
+    "url": "https://github.com/Hrecer/LinkPocket"
+  },
+  {
+    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
+    "id": "alexwkleung/reika",
+    "language": "TypeScript",
+    "name": "alexwkleung/reika",
+    "stars": 9,
+    "updated_at": "2026-10-15T05:48:57Z",
+    "url": "https://github.com/alexwkleung/reika"
+  },
+  {
+    "description": "Personal pi coding agent extensions: observe mode (turn-boundary pause + batch summary), kimi auto-router, event probe. ",
+    "id": "civaapple-alt/pi-extensions",
+    "language": "TypeScript",
+    "name": "civaapple-alt/pi-extensions",
+    "stars": 0,
+    "updated_at": "2026-10-15T05:44:30Z",
+    "url": "https://github.com/civaapple-alt/pi-extensions"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -52,15 +142,6 @@
     "stars": 1178,
     "updated_at": "2026-10-15T05:36:00Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-10-15T05:35:06Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
@@ -95,7 +176,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-10-15T05:26:01Z",
+    "updated_at": "2026-10-15T05:58:58Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -149,17 +230,8 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-15T05:33:22Z",
+    "updated_at": "2026-10-15T05:50:54Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-15T05:44:04Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
@@ -333,15 +405,6 @@
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 33280,
-    "updated_at": "2026-10-15T04:12:48Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
     "description": "pi coding agent \u7684\u4e2a\u4eba\u77e5\u8bc6\u5e93\uff1a\u4f7f\u7528\u7b14\u8bb0\u3001\u547d\u4ee4/\u5feb\u6377\u952e\u901f\u67e5\u8868\u3001\u63d2\u4ef6\u4e0e skill \u7cbe\u9009\u3001\u529f\u80fd\u63d0\u6848\uff08Observe Mode \u5b8c\u6574\u6837\u672c\uff1a\u62a5\u5e55\u7ea6\u5b9a\u2192\u53ef\u884c\u6027\u9a8c\u8bc1\u2192\u6269\u5c55\u5b9e\u73b0\uff09",
     "id": "civaapple-alt/pi-custom",
     "language": "\u2014",
@@ -373,7 +436,7 @@
     "id": "ant-research/AntOmniEvo",
     "language": "Python",
     "name": "ant-research/AntOmniEvo",
-    "stars": 1058,
+    "stars": 1059,
     "updated_at": "2026-10-15T03:45:23Z",
     "url": "https://github.com/ant-research/AntOmniEvo"
   },
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-15T03:38:44Z",
     "url": "https://github.com/xanstomper/mochi"
-  },
-  {
-    "description": "Lawgent \u2014 an open-source legal AI agent. Grounded, multi-jurisdiction (CN \u00b7 US \u00b7 EU \u00b7 ET \u00b7 ICAO), citation-verified: eve",
-    "id": "WenzhuoXu/lawgent",
-    "language": "Python",
-    "name": "WenzhuoXu/lawgent",
-    "stars": 13,
-    "updated_at": "2026-10-15T03:37:59Z",
-    "url": "https://github.com/WenzhuoXu/lawgent"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-15T03:36:31Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
-    "id": "uukuguy/capstone",
-    "language": "Python",
-    "name": "uukuguy/capstone",
-    "stars": 0,
-    "updated_at": "2026-10-15T05:30:13Z",
-    "url": "https://github.com/uukuguy/capstone"
-  },
-  {
-    "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
-    "id": "OtakuNathan/Pal",
-    "language": "Python",
-    "name": "OtakuNathan/Pal",
-    "stars": 2,
-    "updated_at": "2026-10-15T03:21:38Z",
-    "url": "https://github.com/OtakuNathan/Pal"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 133,
-    "updated_at": "2026-10-15T03:14:43Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "\u8bc1\u636e\u7ea6\u675f\u7684\u4ee3\u7801\u8bca\u65ad\u5de5\u4f5c\u53f0\uff1a\u786e\u5b9a\u6027\u9759\u6001\u5206\u6790\u62e5\u6709\u6e90\u7801\u4e8b\u5b9e\uff0cLLM \u53ea\u63d0\u5047\u8bbe\uff0cresolver/validator \u51b3\u5b9a\u80fd\u5426\u7ed1\u5b9a\u56de\u771f\u5b9e\u64cd\u4f5c\u2014\u2014\u8bc1\u636e\u4e0d\u8db3\u4fdd\u6301 unknown/abstained\uff0c\u4ece\u67b6\u6784\u6291\u5236\u5e7b\u89c9\u3002\u5df2\u5728\u771f\u5b9e\u5f00\u6e90\u9879\u76ee\u53d1\u73b0 bug\uff08stun",
-    "id": "xianyu-sheng/SmartBench",
-    "language": "Python",
-    "name": "xianyu-sheng/SmartBench",
-    "stars": 2,
-    "updated_at": "2026-10-15T03:02:14Z",
-    "url": "https://github.com/xianyu-sheng/SmartBench"
-  },
-  {
-    "description": "CIRIS: an open-source AI assistant with a conscience you can check. Signed, auditable reasoning on every decision, a hum",
-    "id": "CIRISAI/CIRISAgent",
-    "language": "Python",
-    "name": "CIRISAI/CIRISAgent",
-    "stars": 57,
-    "updated_at": "2026-10-15T04:29:45Z",
-    "url": "https://github.com/CIRISAI/CIRISAgent"
   }
 ]
