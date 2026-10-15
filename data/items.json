@@ -1,5 +1,32 @@
 [
   {
+    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
+    "id": "olsson205/CodeJury",
+    "language": "Python",
+    "name": "olsson205/CodeJury",
+    "stars": 0,
+    "updated_at": "2026-10-15T19:24:34Z",
+    "url": "https://github.com/olsson205/CodeJury"
+  },
+  {
+    "description": "Lean, extended fork of Nous Research's Hermes Agent \u2014 free model suite, connectors, and ~20 perf fixes. Upstream credite",
+    "id": "Chensihakniroth/anakot-agent-v1",
+    "language": "Python",
+    "name": "Chensihakniroth/anakot-agent-v1",
+    "stars": 0,
+    "updated_at": "2026-10-15T19:23:26Z",
+    "url": "https://github.com/Chensihakniroth/anakot-agent-v1"
+  },
+  {
+    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-15T19:22:54Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
     "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
@@ -32,7 +59,7 @@
     "language": "Python",
     "name": "CIRISAI/CIRISAgent",
     "stars": 57,
-    "updated_at": "2026-10-15T19:07:33Z",
+    "updated_at": "2026-10-15T19:18:34Z",
     "url": "https://github.com/CIRISAI/CIRISAgent"
   },
   {
@@ -41,7 +68,7 @@
     "language": "TypeScript",
     "name": "strands-agents/harness-sdk",
     "stars": 8824,
-    "updated_at": "2026-10-15T18:57:36Z",
+    "updated_at": "2026-10-15T19:23:53Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -221,7 +248,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-15T18:41:53Z",
+    "updated_at": "2026-10-15T19:25:20Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -286,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T17:35:40Z",
     "url": "https://github.com/bondwell79/hercules"
-  },
-  {
-    "description": "Lean, extended fork of Nous Research's Hermes Agent \u2014 free model suite, connectors, and ~20 perf fixes. Upstream credite",
-    "id": "Chensihakniroth/anakot-agent-v1",
-    "language": "Python",
-    "name": "Chensihakniroth/anakot-agent-v1",
-    "stars": 0,
-    "updated_at": "2026-10-15T17:14:10Z",
-    "url": "https://github.com/Chensihakniroth/anakot-agent-v1"
   },
   {
     "description": "Voice-controlled OS agent: a fine-tuned T5 model turns natural-language requests into validated, safely executed system ",
@@ -383,7 +401,7 @@
     "language": "Python",
     "name": "njfuzrs/agent-backend",
     "stars": 0,
-    "updated_at": "2026-10-15T16:21:48Z",
+    "updated_at": "2026-10-15T19:29:28Z",
     "url": "https://github.com/njfuzrs/agent-backend"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 4114,
     "updated_at": "2026-10-15T18:04:21Z",
     "url": "https://github.com/langroid/langroid"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 6214,
-    "updated_at": "2026-10-15T16:07:07Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "\u7535\u5546\u5e73\u53f0\u5546\u54c1\u5185\u5bb9\u6cbb\u7406\u7684\u590d\u6742\u98ce\u9669\u8c03\u67e5 Agent\uff1aLangGraph \u591a\u6b65\u8c03\u67e5 + \u786e\u5b9a\u6027 Decision Gate\uff0c\u8f93\u51fa PASS / REJECT / HUMAN_REVIEW\uff1b\u5168\u94fe\u8def\u786e\u5b9a\u6027\u53ef\u91cd\u653e\u8bc4\u6d4b",
-    "id": "donglongjun886/product-review-agent",
-    "language": "Python",
-    "name": "donglongjun886/product-review-agent",
-    "stars": 1,
-    "updated_at": "2026-10-15T15:51:02Z",
-    "url": "https://github.com/donglongjun886/product-review-agent"
   }
 ]
