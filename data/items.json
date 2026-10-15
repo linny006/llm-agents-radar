@@ -1,12 +1,30 @@
 [
   {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
+    "description": "\u4fe1\u4f7f\u9e1f \u00b7 \u5bf9\u8bdd\u5f0f\u90ae\u4ef6\u7ba1\u5bb6\uff5c\u7528\u4e2d\u6587\u8bf4\u4e00\u53e5\u8bdd\u5c31\u628a\u90ae\u4ef6\u53d1\u51fa\u53bb\u3002\u628a\u90ae\u4ef6\u80fd\u529b\u5c01\u88c5\u6210 MCP \u6807\u51c6\u5de5\u5177\uff0c\u7531\u672c\u5730 Ollama \u6a21\u578b\u7406\u89e3\u610f\u56fe\u5e76\u8c03\u7528\uff0c\u5e26\u53ef\u7c98\u8d34\u56fe\u7247\u7684\u56fe\u5f62\u754c\u9762\uff1b\u5904\u7406\u9644\u4ef6\u6821\u9a8c\u3001\u5e42\u7b49\u91cd\u53d1\u3001SMTP \u8fde\u63a5\u590d\u7528\u4e0e\u9650\u6d41\u3002",
+    "id": "3029-sky/qqmail-mcp-tool",
+    "language": "Python",
+    "name": "3029-sky/qqmail-mcp-tool",
+    "stars": 1,
+    "updated_at": "2026-10-15T16:58:10Z",
+    "url": "https://github.com/3029-sky/qqmail-mcp-tool"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "TypeScript",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8823,
+    "updated_at": "2026-10-15T16:56:46Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "PRD-to-Rust pipeline: a Claude Code skill + companion binary that ship code only when 7 digest-bound receipts agree",
+    "id": "j0yen/autobuilder",
     "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-15T16:43:19Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
+    "name": "j0yen/autobuilder",
+    "stars": 0,
+    "updated_at": "2026-10-15T16:54:59Z",
+    "url": "https://github.com/j0yen/autobuilder"
   },
   {
     "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
@@ -14,8 +32,44 @@
     "language": "Python",
     "name": "OtakuNathan/Pal",
     "stars": 2,
-    "updated_at": "2026-10-15T16:40:20Z",
+    "updated_at": "2026-10-15T16:51:26Z",
     "url": "https://github.com/OtakuNathan/Pal"
+  },
+  {
+    "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
+    "id": "Shuffle-1992/dsh-context-pilot",
+    "language": "JavaScript",
+    "name": "Shuffle-1992/dsh-context-pilot",
+    "stars": 2,
+    "updated_at": "2026-10-15T16:50:49Z",
+    "url": "https://github.com/Shuffle-1992/dsh-context-pilot"
+  },
+  {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 5,
+    "updated_at": "2026-10-15T16:50:01Z",
+    "url": "https://github.com/plurnk/plurnk"
+  },
+  {
+    "description": "An open Unitree G1 \u00d7 Gemini Argon experiment: English BYOK console, bounded left-arm control, and real hardware video. A",
+    "id": "EmplifAI/g1-argon-pick-place",
+    "language": "Python",
+    "name": "EmplifAI/g1-argon-pick-place",
+    "stars": 0,
+    "updated_at": "2026-10-15T16:49:54Z",
+    "url": "https://github.com/EmplifAI/g1-argon-pick-place"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-15T16:55:07Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
@@ -61,15 +115,6 @@
     "stars": 14,
     "updated_at": "2026-10-15T16:16:37Z",
     "url": "https://github.com/scrapfly/scrapfly-mcp"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "TypeScript",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8823,
-    "updated_at": "2026-10-15T16:16:28Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
@@ -126,6 +171,15 @@
     "url": "https://github.com/langroid/langroid"
   },
   {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 6211,
+    "updated_at": "2026-10-15T16:07:07Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
     "description": "CIRIS: an open-source AI assistant with a conscience you can check. Signed, auditable reasoning on every decision, a hum",
     "id": "CIRISAI/CIRISAgent",
     "language": "Python",
@@ -162,15 +216,6 @@
     "url": "https://github.com/lzmd-arch/BioSNN-Plug"
   },
   {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 6210,
-    "updated_at": "2026-10-15T16:07:07Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -187,15 +232,6 @@
     "stars": 3,
     "updated_at": "2026-10-15T15:47:34Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
-    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
-    "id": "plurnk/plurnk",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk",
-    "stars": 5,
-    "updated_at": "2026-10-15T15:45:15Z",
-    "url": "https://github.com/plurnk/plurnk"
   },
   {
     "description": "An identity file for AI agents: name, job, face, voice and vibe, signed by the agent. Install it into Claude Code, Codex",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-15T14:29:53Z",
     "url": "https://github.com/AandBorC/dsa-lite"
-  },
-  {
-    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
-    "id": "xieguigang/sciBASIC",
-    "language": "Visual Basic .NET",
-    "name": "xieguigang/sciBASIC",
-    "stars": 79,
-    "updated_at": "2026-10-15T14:28:34Z",
-    "url": "https://github.com/xieguigang/sciBASIC"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 820,
-    "updated_at": "2026-10-15T15:34:19Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "LLM-powered TeamSpeak bot | LLM\u9a71\u52a8\u7684TeamSpeak\u673a\u5668\u4eba",
-    "id": "Dr1mH4X/TeamSpeakClaw",
-    "language": "Rust",
-    "name": "Dr1mH4X/TeamSpeakClaw",
-    "stars": 6,
-    "updated_at": "2026-10-15T14:20:08Z",
-    "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 2,
-    "updated_at": "2026-10-15T14:40:58Z",
-    "url": "https://github.com/b-macker/NAAb"
   }
 ]
