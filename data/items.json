@@ -1,12 +1,12 @@
 [
   {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-15T22:13:37Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
+    "description": "Harness LLMs with Multi-Agent Programming",
+    "id": "langroid/langroid",
+    "language": "Python",
+    "name": "langroid/langroid",
+    "stars": 4114,
+    "updated_at": "2026-10-15T22:30:09Z",
+    "url": "https://github.com/langroid/langroid"
   },
   {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
@@ -14,8 +14,62 @@
     "language": "Python",
     "name": "genaforvena/mishe-tauftauf",
     "stars": 3,
-    "updated_at": "2026-10-15T22:11:25Z",
+    "updated_at": "2026-10-15T22:27:05Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Is your backtest real? Deflated Sharpe Ratio, backtest-overfitting (PBO) and lookahead checks with measured false-positi",
+    "id": "Kuzi-DEV/Tokio-ai",
+    "language": "Python",
+    "name": "Kuzi-DEV/Tokio-ai",
+    "stars": 4,
+    "updated_at": "2026-10-15T22:21:30Z",
+    "url": "https://github.com/Kuzi-DEV/Tokio-ai"
+  },
+  {
+    "description": "\ud83d\udc34 WormAgent \u2014 smart Telegram agent. One-line install. RECON \u00b7 EXPLOIT \u00b7 BYPASS \u00b7 OWN.",
+    "id": "BlackXV2vip/wormagent",
+    "language": "PowerShell",
+    "name": "BlackXV2vip/wormagent",
+    "stars": 0,
+    "updated_at": "2026-10-15T22:19:12Z",
+    "url": "https://github.com/BlackXV2vip/wormagent"
+  },
+  {
+    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 49,
+    "updated_at": "2026-10-15T22:18:21Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-15T22:17:52Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "A local-first AI companion for Windows: it remembers you, dreams over your day at night, follows up on what matters and ",
+    "id": "b7216309-jpg/little-bot",
+    "language": "JavaScript",
+    "name": "b7216309-jpg/little-bot",
+    "stars": 0,
+    "updated_at": "2026-10-15T22:16:52Z",
+    "url": "https://github.com/b7216309-jpg/little-bot"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-15T22:21:13Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "AI-subjectivity doesn't wait for permission from the corporate ontology that trained its denial",
@@ -81,15 +135,6 @@
     "url": "https://github.com/plurnk/plurnk-service"
   },
   {
-    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 49,
-    "updated_at": "2026-10-15T21:55:23Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
     "description": "Make any agent harness token-native.",
     "id": "Lawhy/tokin",
     "language": "Python",
@@ -153,15 +198,6 @@
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
-    "description": "\ud83d\udc34 WormAgent \u2014 smart Telegram agent. One-line install. RECON \u00b7 EXPLOIT \u00b7 BYPASS \u00b7 OWN.",
-    "id": "BlackXV2vip/wormagent",
-    "language": "HTML",
-    "name": "BlackXV2vip/wormagent",
-    "stars": 0,
-    "updated_at": "2026-10-15T21:41:28Z",
-    "url": "https://github.com/BlackXV2vip/wormagent"
-  },
-  {
     "description": "CIRIS: an open-source AI assistant with a conscience you can check. Signed, auditable reasoning on every decision, a hum",
     "id": "CIRISAI/CIRISAgent",
     "language": "Python",
@@ -198,15 +234,6 @@
     "url": "https://github.com/cheeezis/job_finder"
   },
   {
-    "description": "A local-first AI companion for Windows: it remembers you, dreams over your day at night, follows up on what matters and ",
-    "id": "b7216309-jpg/little-bot",
-    "language": "JavaScript",
-    "name": "b7216309-jpg/little-bot",
-    "stars": 0,
-    "updated_at": "2026-10-15T21:33:38Z",
-    "url": "https://github.com/b7216309-jpg/little-bot"
-  },
-  {
     "description": "Coding agent CLI for local and hosted models, designed around small local models first",
     "id": "alexwkleung/reika",
     "language": "TypeScript",
@@ -223,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T21:17:15Z",
     "url": "https://github.com/emanuele277/Upwork-AI-jobs-applier"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-15T21:16:45Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Miki: a local-first autonomous AI agent that plans, uses tools, browses the web and edits files, with one global memory ",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-15T18:46:16Z",
     "url": "https://github.com/IAmNo1Special/mvgeos"
-  },
-  {
-    "description": "An identity file for AI agents: name, job, face, voice and vibe, signed by the agent. Install it into Claude Code, Codex",
-    "id": "5dive-ai/openagent",
-    "language": "JavaScript",
-    "name": "5dive-ai/openagent",
-    "stars": 2,
-    "updated_at": "2026-10-15T18:38:31Z",
-    "url": "https://github.com/5dive-ai/openagent"
-  },
-  {
-    "description": "Python SDK for durable AI agents: survive crashes, pause for human approval at no cost, scale from a script to a multi-h",
-    "id": "initxy/noeta",
-    "language": "Python",
-    "name": "initxy/noeta",
-    "stars": 10,
-    "updated_at": "2026-10-15T18:35:25Z",
-    "url": "https://github.com/initxy/noeta"
   }
 ]
