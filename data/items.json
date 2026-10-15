@@ -1,5 +1,50 @@
 [
   {
+    "description": "AI-native statistics workbench that runs locally: SPSS/Stata/Excel data with labels, a deterministic statistics engine, ",
+    "id": "damndone/Arboris",
+    "language": "Python",
+    "name": "damndone/Arboris",
+    "stars": 1,
+    "updated_at": "2026-10-15T01:45:08Z",
+    "url": "https://github.com/damndone/Arboris"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-10-15T01:43:53Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
+    "id": "xanstomper/mochi",
+    "language": "TypeScript",
+    "name": "xanstomper/mochi",
+    "stars": 0,
+    "updated_at": "2026-10-15T01:43:13Z",
+    "url": "https://github.com/xanstomper/mochi"
+  },
+  {
+    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
+    "id": "xieguigang/sciBASIC",
+    "language": "Visual Basic .NET",
+    "name": "xieguigang/sciBASIC",
+    "stars": 79,
+    "updated_at": "2026-10-15T01:37:04Z",
+    "url": "https://github.com/xieguigang/sciBASIC"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 778,
+    "updated_at": "2026-10-15T01:34:59Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
     "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
     "id": "wuyhong715/rikkahub-agent-pure",
     "language": "Kotlin",
@@ -45,15 +90,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
-    "id": "xanstomper/mochi",
-    "language": "TypeScript",
-    "name": "xanstomper/mochi",
-    "stars": 0,
-    "updated_at": "2026-10-15T01:17:10Z",
-    "url": "https://github.com/xanstomper/mochi"
-  },
-  {
     "description": "\u53d7\u7ea6\u675f\u7684 A \u80a1\u6a21\u62df\u4ea4\u6613 Agent Runtime\uff1aLLM \u53ea\u8bfb\u63d0\u6848 \u2192 \u786e\u5b9a\u6027\u98ce\u63a7\u95e8 \u2192 \u4eba\u5de5\u5ba1\u6279 \u2192 \u5e42\u7b49\u6267\u884c \u2192 \u4e8b\u4ef6\u6eaf\u6e90\u5ba1\u8ba1",
     "id": "happiness-cheng/ai-trader",
     "language": "Python",
@@ -77,7 +113,7 @@
     "language": "Python",
     "name": "ariannamethod/SUBLITERATUS",
     "stars": 4,
-    "updated_at": "2026-10-15T01:10:43Z",
+    "updated_at": "2026-10-15T01:36:31Z",
     "url": "https://github.com/ariannamethod/SUBLITERATUS"
   },
   {
@@ -131,7 +167,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-15T01:29:39Z",
+    "updated_at": "2026-10-15T01:43:52Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -189,21 +225,12 @@
     "url": "https://github.com/grauwolf32/contractor"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-10-14T23:29:29Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4450,
-    "updated_at": "2026-10-15T01:24:59Z",
+    "updated_at": "2026-10-15T01:44:01Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -221,7 +248,7 @@
     "language": "Python",
     "name": "CIRISAI/CIRISAgent",
     "stars": 57,
-    "updated_at": "2026-10-15T01:29:52Z",
+    "updated_at": "2026-10-15T01:43:08Z",
     "url": "https://github.com/CIRISAI/CIRISAgent"
   },
   {
@@ -293,7 +320,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 22,
-    "updated_at": "2026-10-15T01:30:00Z",
+    "updated_at": "2026-10-15T01:35:46Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 47,
     "updated_at": "2026-10-14T19:13:33Z",
     "url": "https://github.com/puremachinery/carapace"
-  },
-  {
-    "description": "Vector search that ships as a file. Compile a corpus into one self-contained, hash-verified .pikelet \u2014 search it anywher",
-    "id": "mcn92/pikelet",
-    "language": "JavaScript",
-    "name": "mcn92/pikelet",
-    "stars": 2,
-    "updated_at": "2026-10-14T19:03:09Z",
-    "url": "https://github.com/mcn92/pikelet"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-10-14T20:09:18Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Turn any repository URL into a complete, fact-verified GitHub Wiki. An LLM-agent skill: clone, inventory, RUN and probe ",
-    "id": "paulmann/github-wiki-llm-writer",
-    "language": "Python",
-    "name": "paulmann/github-wiki-llm-writer",
-    "stars": 0,
-    "updated_at": "2026-10-14T18:57:49Z",
-    "url": "https://github.com/paulmann/github-wiki-llm-writer"
   }
 ]
