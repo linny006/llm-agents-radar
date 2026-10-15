@@ -1,12 +1,39 @@
 [
   {
-    "description": "Gestor ag\u00e9ntico de modelos llm",
-    "id": "bondwell79/hercules",
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
     "language": "Python",
-    "name": "bondwell79/hercules",
+    "name": "g761007/daily-dispatch",
     "stars": 0,
-    "updated_at": "2026-10-15T20:59:25Z",
-    "url": "https://github.com/bondwell79/hercules"
+    "updated_at": "2026-10-15T21:12:52Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-15T21:12:02Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
+    "id": "arjun29158/CodeJury",
+    "language": "Python",
+    "name": "arjun29158/CodeJury",
+    "stars": 0,
+    "updated_at": "2026-10-15T21:10:20Z",
+    "url": "https://github.com/arjun29158/CodeJury"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-15T21:13:14Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "CIRIS: an open-source AI assistant with a conscience you can check. Signed, auditable reasoning on every decision, a hum",
@@ -14,8 +41,44 @@
     "language": "Python",
     "name": "CIRISAI/CIRISAgent",
     "stars": 57,
-    "updated_at": "2026-10-15T20:57:00Z",
+    "updated_at": "2026-10-15T21:07:07Z",
     "url": "https://github.com/CIRISAI/CIRISAgent"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-15T21:06:27Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-15T21:12:47Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "AI-powered LAN reconnaissance & red team agent for iPhone. On-device AI agent with code-enforced scope, risk, approval a",
+    "id": "fbettag/flipping-nero",
+    "language": "Swift",
+    "name": "fbettag/flipping-nero",
+    "stars": 0,
+    "updated_at": "2026-10-15T21:00:35Z",
+    "url": "https://github.com/fbettag/flipping-nero"
+  },
+  {
+    "description": "Gestor ag\u00e9ntico de modelos llm",
+    "id": "bondwell79/hercules",
+    "language": "Python",
+    "name": "bondwell79/hercules",
+    "stars": 0,
+    "updated_at": "2026-10-15T20:59:25Z",
+    "url": "https://github.com/bondwell79/hercules"
   },
   {
     "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
@@ -32,7 +95,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4450,
-    "updated_at": "2026-10-15T20:58:39Z",
+    "updated_at": "2026-10-15T21:06:34Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -43,24 +106,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T20:52:41Z",
     "url": "https://github.com/BlackXV2vip/wormagent"
-  },
-  {
-    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
-    "id": "arjun29158/CodeJury",
-    "language": "Python",
-    "name": "arjun29158/CodeJury",
-    "stars": 0,
-    "updated_at": "2026-10-15T20:52:09Z",
-    "url": "https://github.com/arjun29158/CodeJury"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-15T20:59:59Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
@@ -88,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T20:31:07Z",
     "url": "https://github.com/Rukkakka/jibsa"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-15T20:28:11Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "AI-powered image generation and chat studio",
@@ -205,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-10-15T19:45:02Z",
     "url": "https://github.com/DominikSienkiewicz/StockAgent"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-15T20:49:36Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-15T17:57:25Z",
     "url": "https://github.com/xiaomaozjj666/web-crawler"
-  },
-  {
-    "description": "Turn any repository URL into a complete, fact-verified GitHub Wiki. An LLM-agent skill: clone, inventory, RUN and probe ",
-    "id": "paulmann/github-wiki-llm-writer",
-    "language": "Python",
-    "name": "paulmann/github-wiki-llm-writer",
-    "stars": 0,
-    "updated_at": "2026-10-15T17:54:52Z",
-    "url": "https://github.com/paulmann/github-wiki-llm-writer"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 6,
-    "updated_at": "2026-10-15T17:54:42Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "Framework-free PHP demo of a controlled LLM agent connecting OpenAI tool calling with application services.",
-    "id": "msuranek/php-llm-agent-demo",
-    "language": "PHP",
-    "name": "msuranek/php-llm-agent-demo",
-    "stars": 0,
-    "updated_at": "2026-10-15T17:51:31Z",
-    "url": "https://github.com/msuranek/php-llm-agent-demo"
   }
 ]
