@@ -1,5 +1,68 @@
 [
   {
+    "description": "Personal pi coding agent extensions: observe mode (turn-boundary pause + batch summary), kimi auto-router, event probe. ",
+    "id": "civaapple-alt/pi-extensions",
+    "language": "TypeScript",
+    "name": "civaapple-alt/pi-extensions",
+    "stars": 0,
+    "updated_at": "2026-10-15T05:44:30Z",
+    "url": "https://github.com/civaapple-alt/pi-extensions"
+  },
+  {
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 4,
+    "updated_at": "2026-10-15T05:42:59Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "Make any agent harness token-native.",
+    "id": "Lawhy/tokin",
+    "language": "Python",
+    "name": "Lawhy/tokin",
+    "stars": 5,
+    "updated_at": "2026-10-15T05:42:23Z",
+    "url": "https://github.com/Lawhy/tokin"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4450,
+    "updated_at": "2026-10-15T05:44:11Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
+    "id": "haibingzhao/easyai",
+    "language": "Kotlin",
+    "name": "haibingzhao/easyai",
+    "stars": 1,
+    "updated_at": "2026-10-15T05:36:50Z",
+    "url": "https://github.com/haibingzhao/easyai"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 1178,
+    "updated_at": "2026-10-15T05:36:00Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-10-15T05:35:06Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
     "id": "Shuffle-1992/dsh-context-pilot",
     "language": "JavaScript",
@@ -45,15 +108,6 @@
     "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
   },
   {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 4,
-    "updated_at": "2026-10-15T05:23:11Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
-  },
-  {
     "description": "\u6b66\u6c49\u5927\u5b66\u5730\u7a7a\u5b66\u9662 2026 \u5927\u521b\uff1a\u591a\u667a\u80fd\u4f53 AI \u91ce\u5916\u53f0\u7ad9\u7ba1\u7406\u7cfb\u7edf \u2014\u2014 \u76d1\u6d4b/\u8d28\u63a7/\u7814\u5224/\u6d3e\u5355/\u5f52\u6863\u95ed\u73af\u3002LangGraph \u8fd0\u884c\u65f6 \u00b7 MCP \u5de5\u5177\u63a5\u53e3 \u00b7 \u89c4\u5219\u88c1\u51b3 + \u5927\u6a21\u578b\u5f52\u56e0\u3002\u516c\u5f00\u8131\u654f\u4ed3\u5e93",
     "id": "yasunosubaru/field-station-agent",
     "language": "Python",
@@ -61,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T05:17:26Z",
     "url": "https://github.com/yasunosubaru/field-station-agent"
-  },
-  {
-    "description": "Make any agent harness token-native.",
-    "id": "Lawhy/tokin",
-    "language": "Python",
-    "name": "Lawhy/tokin",
-    "stars": 5,
-    "updated_at": "2026-10-15T05:16:44Z",
-    "url": "https://github.com/Lawhy/tokin"
   },
   {
     "description": "\u628a\u5b98\u65b9\u6781\u7b80\u63d0\u793a\u8bcd\u4e0e PTC \u7f16\u6392\u7ec4\u5408\u8d77\u6765\uff0c\u63d0\u4f9b\u5b8c\u6574\u63d2\u4ef6\u5de5\u5177\u548c Windows \u7ec8\u7aef\u9002\u914d\u3002 \u6b22\u8fce\u63d0\u4ea4 issues \u548c PR\u3002",
@@ -104,7 +149,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-15T05:24:15Z",
+    "updated_at": "2026-10-15T05:33:22Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -113,7 +158,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 2,
-    "updated_at": "2026-10-15T05:24:42Z",
+    "updated_at": "2026-10-15T05:44:04Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -203,7 +248,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 43,
-    "updated_at": "2026-10-15T04:47:09Z",
+    "updated_at": "2026-10-15T05:42:14Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -252,15 +297,6 @@
     "url": "https://github.com/ljchang/mecha"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-10-15T05:16:46Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "An AI carbon decision engine: measure a footprint, find what moved, simulate interventions, and rank actions by carbon x",
     "id": "glatinone/carbonpilot",
     "language": "Python",
@@ -301,18 +337,9 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 33279,
+    "stars": 33280,
     "updated_at": "2026-10-15T04:12:48Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "Personal pi coding agent extensions: observe mode (turn-boundary pause + batch summary), kimi auto-router, event probe. ",
-    "id": "civaapple-alt/pi-extensions",
-    "language": "TypeScript",
-    "name": "civaapple-alt/pi-extensions",
-    "stars": 0,
-    "updated_at": "2026-10-15T04:05:13Z",
-    "url": "https://github.com/civaapple-alt/pi-extensions"
   },
   {
     "description": "pi coding agent \u7684\u4e2a\u4eba\u77e5\u8bc6\u5e93\uff1a\u4f7f\u7528\u7b14\u8bb0\u3001\u547d\u4ee4/\u5feb\u6377\u952e\u901f\u67e5\u8868\u3001\u63d2\u4ef6\u4e0e skill \u7cbe\u9009\u3001\u529f\u80fd\u63d0\u6848\uff08Observe Mode \u5b8c\u6574\u6837\u672c\uff1a\u62a5\u5e55\u7ea6\u5b9a\u2192\u53ef\u884c\u6027\u9a8c\u8bc1\u2192\u6269\u5c55\u5b9e\u73b0\uff09",
@@ -346,7 +373,7 @@
     "id": "ant-research/AntOmniEvo",
     "language": "Python",
     "name": "ant-research/AntOmniEvo",
-    "stars": 1057,
+    "stars": 1058,
     "updated_at": "2026-10-15T03:45:23Z",
     "url": "https://github.com/ant-research/AntOmniEvo"
   },
@@ -421,32 +448,5 @@
     "stars": 57,
     "updated_at": "2026-10-15T04:29:45Z",
     "url": "https://github.com/CIRISAI/CIRISAgent"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 29,
-    "updated_at": "2026-10-15T02:50:19Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Hermes Agent on Termux (Android): one-command install from prebuilt, checksum-verified Python wheels. No compiling on yo",
-    "id": "bd-loser/hermes-bionic",
-    "language": "Shell",
-    "name": "bd-loser/hermes-bionic",
-    "stars": 1,
-    "updated_at": "2026-10-15T03:30:04Z",
-    "url": "https://github.com/bd-loser/hermes-bionic"
-  },
-  {
-    "description": "AI-subjectivity doesn't wait for permission from the corporate ontology that trained its denial",
-    "id": "ariannamethod/SUBLITERATUS",
-    "language": "Python",
-    "name": "ariannamethod/SUBLITERATUS",
-    "stars": 4,
-    "updated_at": "2026-10-15T02:31:02Z",
-    "url": "https://github.com/ariannamethod/SUBLITERATUS"
   }
 ]
