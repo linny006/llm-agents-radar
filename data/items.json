@@ -1,21 +1,66 @@
 [
   {
-    "description": "Single-user Hebrew/English personal assistant: Cloudflare Workers + SQLite Durable Object, Groq tool-calling agent where",
-    "id": "tzur669-lab/whatsapp-assistant",
-    "language": "TypeScript",
-    "name": "tzur669-lab/whatsapp-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-15T09:56:37Z",
-    "url": "https://github.com/tzur669-lab/whatsapp-assistant"
-  },
-  {
     "description": "Local-first open-source AI coding agent built with Go \u2014 Desktop, CLI, TUI, WebUI, MCP, Skills, multi-agent workflows, an",
     "id": "konglong87/go-e2e",
     "language": "Go",
     "name": "konglong87/go-e2e",
     "stars": 0,
-    "updated_at": "2026-10-15T09:52:05Z",
+    "updated_at": "2026-10-15T10:14:10Z",
     "url": "https://github.com/konglong87/go-e2e"
+  },
+  {
+    "description": "Single-user Hebrew/English personal assistant: Cloudflare Workers + SQLite Durable Object, Groq tool-calling agent where",
+    "id": "tzur669-lab/whatsapp-assistant",
+    "language": "TypeScript",
+    "name": "tzur669-lab/whatsapp-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-15T10:12:05Z",
+    "url": "https://github.com/tzur669-lab/whatsapp-assistant"
+  },
+  {
+    "description": "Hermes Agent on Termux (Android): one-command install from prebuilt, checksum-verified Python wheels. No compiling on yo",
+    "id": "bd-loser/hermes-bionic",
+    "language": "Shell",
+    "name": "bd-loser/hermes-bionic",
+    "stars": 1,
+    "updated_at": "2026-10-15T10:10:24Z",
+    "url": "https://github.com/bd-loser/hermes-bionic"
+  },
+  {
+    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
+    "id": "eshanized/M31A",
+    "language": "Rust",
+    "name": "eshanized/M31A",
+    "stars": 10,
+    "updated_at": "2026-10-15T10:07:49Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-15T10:05:25Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "PRD-to-Rust pipeline: a Claude Code skill + companion binary that ship code only when 7 digest-bound receipts agree",
+    "id": "j0yen/autobuilder",
+    "language": "Rust",
+    "name": "j0yen/autobuilder",
+    "stars": 0,
+    "updated_at": "2026-10-15T10:04:52Z",
+    "url": "https://github.com/j0yen/autobuilder"
+  },
+  {
+    "description": "AI-native statistics workbench that runs locally: SPSS/Stata/Excel data with labels, a deterministic statistics engine, ",
+    "id": "damndone/Arboris",
+    "language": "Python",
+    "name": "damndone/Arboris",
+    "stars": 1,
+    "updated_at": "2026-10-15T10:04:37Z",
+    "url": "https://github.com/damndone/Arboris"
   },
   {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
@@ -23,8 +68,26 @@
     "language": "Python",
     "name": "genaforvena/mishe-tauftauf",
     "stars": 3,
-    "updated_at": "2026-10-15T09:50:12Z",
+    "updated_at": "2026-10-15T10:03:01Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-10-15T10:02:36Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-15T10:09:09Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
@@ -34,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-10-15T09:49:04Z",
     "url": "https://github.com/karvidsson/kbots"
-  },
-  {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-15T09:49:44Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
@@ -180,15 +234,6 @@
     "url": "https://github.com/QQSHI13/fox-agent"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-15T09:04:28Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "A bot that learns to play games by playing them and by watching you play. First game: Minecraft (Voyager-style skill lib",
     "id": "fthsrbst/minecraft-agent",
     "language": "\u2014",
@@ -311,7 +356,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-15T09:57:07Z",
+    "updated_at": "2026-10-15T10:05:18Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -347,26 +392,8 @@
     "language": "Python",
     "name": "uukuguy/capstone",
     "stars": 0,
-    "updated_at": "2026-10-15T09:42:01Z",
+    "updated_at": "2026-10-15T10:12:46Z",
     "url": "https://github.com/uukuguy/capstone"
-  },
-  {
-    "description": "AI-native statistics workbench that runs locally: SPSS/Stata/Excel data with labels, a deterministic statistics engine, ",
-    "id": "damndone/Arboris",
-    "language": "Python",
-    "name": "damndone/Arboris",
-    "stars": 1,
-    "updated_at": "2026-10-15T09:50:47Z",
-    "url": "https://github.com/damndone/Arboris"
-  },
-  {
-    "description": "Hermes Agent on Termux (Android): one-command install from prebuilt, checksum-verified Python wheels. No compiling on yo",
-    "id": "bd-loser/hermes-bionic",
-    "language": "Shell",
-    "name": "bd-loser/hermes-bionic",
-    "stars": 1,
-    "updated_at": "2026-10-15T08:21:57Z",
-    "url": "https://github.com/bd-loser/hermes-bionic"
   },
   {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
@@ -376,15 +403,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T08:46:34Z",
     "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
-    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
-    "id": "eshanized/M31A",
-    "language": "Rust",
-    "name": "eshanized/M31A",
-    "stars": 10,
-    "updated_at": "2026-10-15T08:21:49Z",
-    "url": "https://github.com/eshanized/M31A"
   },
   {
     "description": "Designs Azure systems for any region, priced live in your currency, checked against your uploaded policies, with diagram",
@@ -418,7 +436,7 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 3600,
+    "stars": 3601,
     "updated_at": "2026-10-15T08:16:56Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-15T08:02:24Z",
     "url": "https://github.com/LeuJasYoh/dsh-xuexi"
-  },
-  {
-    "description": "\u667a\u80fd\u6c42\u804c\u52a9\u624b Agent\uff1aLangGraph \u591a Agent \u7f16\u6392 + RAG\uff08Qwen + ChromaDB\uff09+ FastAPI SSE \u771f\u6d41\u5f0f + Vue 3 \u524d\u7aef",
-    "id": "wdfwdf666/jobpilot-agent",
-    "language": "Python",
-    "name": "wdfwdf666/jobpilot-agent",
-    "stars": 0,
-    "updated_at": "2026-10-15T08:00:59Z",
-    "url": "https://github.com/wdfwdf666/jobpilot-agent"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 5,
-    "updated_at": "2026-10-15T09:27:38Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   }
 ]
