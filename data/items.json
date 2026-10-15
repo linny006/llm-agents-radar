@@ -1,5 +1,86 @@
 [
   {
+    "description": "AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter",
+    "id": "Erkut99/Upwork-AI-jobs-applier",
+    "language": "Python",
+    "name": "Erkut99/Upwork-AI-jobs-applier",
+    "stars": 0,
+    "updated_at": "2026-10-15T18:30:20Z",
+    "url": "https://github.com/Erkut99/Upwork-AI-jobs-applier"
+  },
+  {
+    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
+    "id": "kyleslight/shun",
+    "language": "TypeScript",
+    "name": "kyleslight/shun",
+    "stars": 7,
+    "updated_at": "2026-10-15T18:27:44Z",
+    "url": "https://github.com/kyleslight/shun"
+  },
+  {
+    "description": "Check your MCP servers for tool poisoning and rug pulls, and benchmark MCP security tools under verifiable conditions.",
+    "id": "Manishmaurya89/mcp-guardbench",
+    "language": "Python",
+    "name": "Manishmaurya89/mcp-guardbench",
+    "stars": 1,
+    "updated_at": "2026-10-15T18:25:53Z",
+    "url": "https://github.com/Manishmaurya89/mcp-guardbench"
+  },
+  {
+    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
+    "id": "rainer570/CodeJury",
+    "language": "Python",
+    "name": "rainer570/CodeJury",
+    "stars": 0,
+    "updated_at": "2026-10-15T18:25:31Z",
+    "url": "https://github.com/rainer570/CodeJury"
+  },
+  {
+    "description": "DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy.",
+    "id": "AlexandrosAksoy/taracode",
+    "language": "Go",
+    "name": "AlexandrosAksoy/taracode",
+    "stars": 0,
+    "updated_at": "2026-10-15T18:29:56Z",
+    "url": "https://github.com/AlexandrosAksoy/taracode"
+  },
+  {
+    "description": "AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter",
+    "id": "michael5813/Upwork-AI-jobs-applier",
+    "language": "Python",
+    "name": "michael5813/Upwork-AI-jobs-applier",
+    "stars": 0,
+    "updated_at": "2026-10-15T18:23:10Z",
+    "url": "https://github.com/michael5813/Upwork-AI-jobs-applier"
+  },
+  {
+    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
+    "id": "KaletoAI/anima-verse",
+    "language": "Python",
+    "name": "KaletoAI/anima-verse",
+    "stars": 4,
+    "updated_at": "2026-10-15T18:22:47Z",
+    "url": "https://github.com/KaletoAI/anima-verse"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "TypeScript",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8822,
+    "updated_at": "2026-10-15T18:18:40Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Hermes Agent on Termux (Android): one-command install from prebuilt, checksum-verified Python wheels. No compiling on yo",
+    "id": "bd-loser/hermes-bionic",
+    "language": "Shell",
+    "name": "bd-loser/hermes-bionic",
+    "stars": 1,
+    "updated_at": "2026-10-15T18:17:25Z",
+    "url": "https://github.com/bd-loser/hermes-bionic"
+  },
+  {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
     "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
@@ -108,15 +189,6 @@
     "url": "https://github.com/bondwell79/hercules"
   },
   {
-    "description": "Turn your Claude subscription into an AI employee in Telegram. Open-source kit behind 18 working assistants.",
-    "id": "shakhruz/mila-companion",
-    "language": "Python",
-    "name": "shakhruz/mila-companion",
-    "stars": 1,
-    "updated_at": "2026-10-15T17:19:41Z",
-    "url": "https://github.com/shakhruz/mila-companion"
-  },
-  {
     "description": "Lean, extended fork of Nous Research's Hermes Agent \u2014 free model suite, connectors, and ~20 perf fixes. Upstream credite",
     "id": "Chensihakniroth/anakot-agent-v1",
     "language": "Python",
@@ -151,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-10-15T16:58:10Z",
     "url": "https://github.com/3029-sky/qqmail-mcp-tool"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "TypeScript",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8823,
-    "updated_at": "2026-10-15T17:02:58Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "PRD-to-Rust pipeline: a Claude Code skill + companion binary that ship code only when 7 digest-bound receipts agree",
@@ -292,7 +355,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 6212,
+    "stars": 6213,
     "updated_at": "2026-10-15T16:07:07Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-15T15:20:25Z",
     "url": "https://github.com/haibingzhao/easyai"
-  },
-  {
-    "description": "Six verbs for on-device AI in TypeScript. Edgewise runs language, vision, speech, judging, embedding, image and forecast",
-    "id": "kucukkanat/edgewise",
-    "language": "TypeScript",
-    "name": "kucukkanat/edgewise",
-    "stars": 7,
-    "updated_at": "2026-10-15T15:16:34Z",
-    "url": "https://github.com/kucukkanat/edgewise"
-  },
-  {
-    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-15T15:15:31Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 5,
-    "updated_at": "2026-10-15T18:05:01Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "An AI carbon decision engine: measure a footprint, find what moved, simulate interventions, and rank actions by carbon x",
-    "id": "glatinone/carbonpilot",
-    "language": "Python",
-    "name": "glatinone/carbonpilot",
-    "stars": 0,
-    "updated_at": "2026-10-15T15:01:19Z",
-    "url": "https://github.com/glatinone/carbonpilot"
-  },
-  {
-    "description": "Python SDK for durable AI agents: survive crashes, pause for human approval at no cost, scale from a script to a multi-h",
-    "id": "initxy/noeta",
-    "language": "Python",
-    "name": "initxy/noeta",
-    "stars": 10,
-    "updated_at": "2026-10-15T15:00:04Z",
-    "url": "https://github.com/initxy/noeta"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-10-15T14:54:17Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Minimalist AI chat UI",
-    "id": "breakware/minimal-ai",
-    "language": "HTML",
-    "name": "breakware/minimal-ai",
-    "stars": 1,
-    "updated_at": "2026-10-15T14:50:36Z",
-    "url": "https://github.com/breakware/minimal-ai"
   }
 ]
