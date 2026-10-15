@@ -1,5 +1,59 @@
 [
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "TypeScript",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8823,
+    "updated_at": "2026-10-15T18:57:36Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 1,
+    "updated_at": "2026-10-15T18:54:37Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-10-15T18:51:53Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 5,
+    "updated_at": "2026-10-15T18:54:37Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "CIRIS: an open-source AI assistant with a conscience you can check. Signed, auditable reasoning on every decision, a hum",
+    "id": "CIRISAI/CIRISAgent",
+    "language": "Python",
+    "name": "CIRISAI/CIRISAgent",
+    "stars": 57,
+    "updated_at": "2026-10-15T18:59:28Z",
+    "url": "https://github.com/CIRISAI/CIRISAgent"
+  },
+  {
+    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
+    "id": "IAmNo1Special/mvgeos",
+    "language": "Python",
+    "name": "IAmNo1Special/mvgeos",
+    "stars": 1,
+    "updated_at": "2026-10-15T18:46:16Z",
+    "url": "https://github.com/IAmNo1Special/mvgeos"
+  },
+  {
     "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
     "id": "KaletoAI/anima-verse",
     "language": "Python",
@@ -97,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T18:23:10Z",
     "url": "https://github.com/michael5813/Upwork-AI-jobs-applier"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "TypeScript",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8823,
-    "updated_at": "2026-10-15T18:18:40Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Hermes Agent on Termux (Android): one-command install from prebuilt, checksum-verified Python wheels. No compiling on yo",
@@ -378,15 +423,6 @@
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
-    "description": "CIRIS: an open-source AI assistant with a conscience you can check. Signed, auditable reasoning on every decision, a hum",
-    "id": "CIRISAI/CIRISAgent",
-    "language": "Python",
-    "name": "CIRISAI/CIRISAgent",
-    "stars": 57,
-    "updated_at": "2026-10-15T18:45:12Z",
-    "url": "https://github.com/CIRISAI/CIRISAgent"
-  },
-  {
     "description": "\u7535\u5546\u5e73\u53f0\u5546\u54c1\u5185\u5bb9\u6cbb\u7406\u7684\u590d\u6742\u98ce\u9669\u8c03\u67e5 Agent\uff1aLangGraph \u591a\u6b65\u8c03\u67e5 + \u786e\u5b9a\u6027 Decision Gate\uff0c\u8f93\u51fa PASS / REJECT / HUMAN_REVIEW\uff1b\u5168\u94fe\u8def\u786e\u5b9a\u6027\u53ef\u91cd\u653e\u8bc4\u6d4b",
     "id": "donglongjun886/product-review-agent",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 29,
     "updated_at": "2026-10-15T15:48:38Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-15T15:47:34Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
-    "description": "Non-custodial Hyperliquid execution + tracking CLI for autonomous LLM agents. Signs EIP-712 actions with an agent wallet",
-    "id": "erickuhn19/deliverator",
-    "language": "Go",
-    "name": "erickuhn19/deliverator",
-    "stars": 5,
-    "updated_at": "2026-10-15T15:47:40Z",
-    "url": "https://github.com/erickuhn19/deliverator"
-  },
-  {
-    "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
-    "id": "Jongtae/agentos",
-    "language": "Python",
-    "name": "Jongtae/agentos",
-    "stars": 0,
-    "updated_at": "2026-10-15T16:21:45Z",
-    "url": "https://github.com/Jongtae/agentos"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-10-15T15:26:52Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   }
 ]
