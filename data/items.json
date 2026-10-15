@@ -1,5 +1,68 @@
 [
   {
+    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
+    "id": "QQSHI13/fox-agent",
+    "language": "TypeScript",
+    "name": "QQSHI13/fox-agent",
+    "stars": 2,
+    "updated_at": "2026-10-15T05:08:50Z",
+    "url": "https://github.com/QQSHI13/fox-agent"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-15T05:07:18Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
+    "id": "xieguigang/sciBASIC",
+    "language": "Visual Basic .NET",
+    "name": "xieguigang/sciBASIC",
+    "stars": 79,
+    "updated_at": "2026-10-15T05:05:34Z",
+    "url": "https://github.com/xieguigang/sciBASIC"
+  },
+  {
+    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
+    "id": "eshanized/M31A",
+    "language": "Rust",
+    "name": "eshanized/M31A",
+    "stars": 10,
+    "updated_at": "2026-10-15T05:02:10Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 12,
+    "updated_at": "2026-10-15T05:01:09Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 82,
+    "updated_at": "2026-10-15T05:00:24Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-15T05:00:21Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
     "description": "\u6b66\u6c49\u5927\u5b66\u5730\u7a7a\u5b66\u9662 2026 \u5927\u521b\uff1a\u591a\u667a\u80fd\u4f53 AI \u91ce\u5916\u53f0\u7ad9\u7ba1\u7406\u7cfb\u7edf \u2014\u2014 \u76d1\u6d4b/\u8d28\u63a7/\u7814\u5224/\u6d3e\u5355/\u5f52\u6863\u95ed\u73af\u3002LangGraph \u8fd0\u884c\u65f6 \u00b7 MCP \u5de5\u5177\u63a5\u53e3 \u00b7 \u89c4\u5219\u88c1\u51b3 + \u5927\u6a21\u578b\u5f52\u56e0\u3002\u516c\u5f00\u8131\u654f\u4ed3\u5e93",
     "id": "yasunosubaru/field-station-agent",
     "language": "Python",
@@ -7,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T04:58:19Z",
     "url": "https://github.com/yasunosubaru/field-station-agent"
-  },
-  {
-    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
-    "id": "QQSHI13/fox-agent",
-    "language": "TypeScript",
-    "name": "QQSHI13/fox-agent",
-    "stars": 2,
-    "updated_at": "2026-10-15T04:52:00Z",
-    "url": "https://github.com/QQSHI13/fox-agent"
   },
   {
     "description": "Community DSH host plugin that automatically resumes root-agent sessions after max-token truncation, with bounded retrie",
@@ -59,7 +113,7 @@
     "language": "TypeScript",
     "name": "AmerSarhan/darce-cli",
     "stars": 11,
-    "updated_at": "2026-10-15T04:47:32Z",
+    "updated_at": "2026-10-15T05:04:27Z",
     "url": "https://github.com/AmerSarhan/darce-cli"
   },
   {
@@ -86,7 +140,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-10-15T04:47:31Z",
+    "updated_at": "2026-10-15T05:07:52Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -193,18 +247,9 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 33277,
+    "stars": 33278,
     "updated_at": "2026-10-15T04:12:48Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 82,
-    "updated_at": "2026-10-15T04:55:58Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "Personal pi coding agent extensions: observe mode (turn-boundary pause + batch summary), kimi auto-router, event probe. ",
@@ -214,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T04:05:13Z",
     "url": "https://github.com/civaapple-alt/pi-extensions"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-15T03:59:19Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "pi coding agent \u7684\u4e2a\u4eba\u77e5\u8bc6\u5e93\uff1a\u4f7f\u7528\u7b14\u8bb0\u3001\u547d\u4ee4/\u5feb\u6377\u952e\u901f\u67e5\u8868\u3001\u63d2\u4ef6\u4e0e skill \u7cbe\u9009\u3001\u529f\u80fd\u63d0\u6848\uff08Observe Mode \u5b8c\u6574\u6837\u672c\uff1a\u62a5\u5e55\u7ea6\u5b9a\u2192\u53ef\u884c\u6027\u9a8c\u8bc1\u2192\u6269\u5c55\u5b9e\u73b0\uff09",
@@ -243,15 +279,6 @@
     "url": "https://github.com/solplum/yunkai"
   },
   {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-15T04:55:15Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
     "description": "Self-improving SC2 Protoss bot: rule-based + PPO + Claude advisor, with autonomous code-level self-improvement loop.",
     "id": "aberson/Alpha4Gate",
     "language": "Python",
@@ -265,7 +292,7 @@
     "id": "ant-research/AntOmniEvo",
     "language": "Python",
     "name": "ant-research/AntOmniEvo",
-    "stars": 1055,
+    "stars": 1056,
     "updated_at": "2026-10-15T03:45:23Z",
     "url": "https://github.com/ant-research/AntOmniEvo"
   },
@@ -302,7 +329,7 @@
     "language": "Python",
     "name": "uukuguy/capstone",
     "stars": 0,
-    "updated_at": "2026-10-15T04:49:06Z",
+    "updated_at": "2026-10-15T05:10:32Z",
     "url": "https://github.com/uukuguy/capstone"
   },
   {
@@ -340,15 +367,6 @@
     "stars": 57,
     "updated_at": "2026-10-15T04:29:45Z",
     "url": "https://github.com/CIRISAI/CIRISAgent"
-  },
-  {
-    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
-    "id": "eshanized/M31A",
-    "language": "Rust",
-    "name": "eshanized/M31A",
-    "stars": 10,
-    "updated_at": "2026-10-15T02:50:24Z",
-    "url": "https://github.com/eshanized/M31A"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-15T01:52:16Z",
     "url": "https://github.com/qiuzixu/agent-core"
-  },
-  {
-    "description": "Free MIT AI coding agent \u2014 no API key needed. Built-in free model, or bring Claude, GPT, Gemini, DeepSeek, Ollama +50 mo",
-    "id": "dragonked2/alphacode",
-    "language": "Rust",
-    "name": "dragonked2/alphacode",
-    "stars": 305,
-    "updated_at": "2026-10-15T01:50:23Z",
-    "url": "https://github.com/dragonked2/alphacode"
-  },
-  {
-    "description": "AI-native statistics workbench that runs locally: SPSS/Stata/Excel data with labels, a deterministic statistics engine, ",
-    "id": "damndone/Arboris",
-    "language": "Python",
-    "name": "damndone/Arboris",
-    "stars": 1,
-    "updated_at": "2026-10-15T01:45:32Z",
-    "url": "https://github.com/damndone/Arboris"
   }
 ]
