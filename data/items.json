@@ -1,5 +1,59 @@
 [
   {
+    "description": "Lean, extended fork of Nous Research's Hermes Agent \u2014 free model suite, connectors, and ~20 perf fixes. Upstream credite",
+    "id": "Chensihakniroth/anakot-agent-v1",
+    "language": "Python",
+    "name": "Chensihakniroth/anakot-agent-v1",
+    "stars": 0,
+    "updated_at": "2026-10-15T17:14:10Z",
+    "url": "https://github.com/Chensihakniroth/anakot-agent-v1"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 6,
+    "updated_at": "2026-10-15T17:14:28Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-15T17:12:38Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Two MIT patches for Nous Research Hermes: stop busy-queue messages merging into one jumbled turn, and optionally run sel",
+    "id": "EauDoon/hermes-parallel-followups",
+    "language": "Python",
+    "name": "EauDoon/hermes-parallel-followups",
+    "stars": 0,
+    "updated_at": "2026-10-15T17:10:32Z",
+    "url": "https://github.com/EauDoon/hermes-parallel-followups"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-15T17:10:30Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Voice-controlled OS agent: a fine-tuned T5 model turns natural-language requests into validated, safely executed system ",
+    "id": "benk-007/voice-os-agent",
+    "language": "Python",
+    "name": "benk-007/voice-os-agent",
+    "stars": 0,
+    "updated_at": "2026-10-15T17:08:34Z",
+    "url": "https://github.com/benk-007/voice-os-agent"
+  },
+  {
     "description": "\u4fe1\u4f7f\u9e1f \u00b7 \u5bf9\u8bdd\u5f0f\u90ae\u4ef6\u7ba1\u5bb6\uff5c\u7528\u4e2d\u6587\u8bf4\u4e00\u53e5\u8bdd\u5c31\u628a\u90ae\u4ef6\u53d1\u51fa\u53bb\u3002\u628a\u90ae\u4ef6\u80fd\u529b\u5c01\u88c5\u6210 MCP \u6807\u51c6\u5de5\u5177\uff0c\u7531\u672c\u5730 Ollama \u6a21\u578b\u7406\u89e3\u610f\u56fe\u5e76\u8c03\u7528\uff0c\u5e26\u53ef\u7c98\u8d34\u56fe\u7247\u7684\u56fe\u5f62\u754c\u9762\uff1b\u5904\u7406\u9644\u4ef6\u6821\u9a8c\u3001\u5e42\u7b49\u91cd\u53d1\u3001SMTP \u8fde\u63a5\u590d\u7528\u4e0e\u9650\u6d41\u3002",
     "id": "3029-sky/qqmail-mcp-tool",
     "language": "Python",
@@ -14,7 +68,7 @@
     "language": "TypeScript",
     "name": "strands-agents/harness-sdk",
     "stars": 8823,
-    "updated_at": "2026-10-15T16:56:46Z",
+    "updated_at": "2026-10-15T17:02:58Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -68,7 +122,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-15T16:55:07Z",
+    "updated_at": "2026-10-15T17:09:29Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -126,15 +180,6 @@
     "url": "https://github.com/DylPorter/teledesk"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-15T16:11:36Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
     "id": "SuperdeMan/cockpit-agent",
     "language": "Python",
@@ -158,7 +203,7 @@
     "language": "Python",
     "name": "ariannamethod/SUBLITERATUS",
     "stars": 4,
-    "updated_at": "2026-10-15T16:09:04Z",
+    "updated_at": "2026-10-15T17:12:32Z",
     "url": "https://github.com/ariannamethod/SUBLITERATUS"
   },
   {
@@ -187,15 +232,6 @@
     "stars": 57,
     "updated_at": "2026-10-15T16:33:13Z",
     "url": "https://github.com/CIRISAI/CIRISAgent"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-15T15:54:00Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "\u7535\u5546\u5e73\u53f0\u5546\u54c1\u5185\u5bb9\u6cbb\u7406\u7684\u590d\u6742\u98ce\u9669\u8c03\u67e5 Agent\uff1aLangGraph \u591a\u6b65\u8c03\u67e5 + \u786e\u5b9a\u6027 Decision Gate\uff0c\u8f93\u51fa PASS / REJECT / HUMAN_REVIEW\uff1b\u5168\u94fe\u8def\u786e\u5b9a\u6027\u53ef\u91cd\u653e\u8bc4\u6d4b",
@@ -412,41 +448,5 @@
     "stars": 82,
     "updated_at": "2026-10-15T14:42:32Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Layout-aware VNC/RFB remote control CLI: type, key, click, screenshot, OCR, against any VNC/RFB server.",
-    "id": "bitranox/vnc-remote-control",
-    "language": "Python",
-    "name": "bitranox/vnc-remote-control",
-    "stars": 0,
-    "updated_at": "2026-10-15T14:52:54Z",
-    "url": "https://github.com/bitranox/vnc-remote-control"
-  },
-  {
-    "description": "\ud83e\udd16 Lightweight, message-first agent runtime",
-    "id": "Cognipeer/agent-sdk",
-    "language": "TypeScript",
-    "name": "Cognipeer/agent-sdk",
-    "stars": 7,
-    "updated_at": "2026-10-15T15:03:46Z",
-    "url": "https://github.com/Cognipeer/agent-sdk"
-  },
-  {
-    "description": "Cross platform LLM agent",
-    "id": "yanggujun/open-axle",
-    "language": "TypeScript",
-    "name": "yanggujun/open-axle",
-    "stars": 0,
-    "updated_at": "2026-10-15T14:31:23Z",
-    "url": "https://github.com/yanggujun/open-axle"
-  },
-  {
-    "description": "\u5e26\u7b56\u7565\u9a8c\u8bc1\u7684 A \u80a1 LLM \u5206\u6790\u7cfb\u7edf \u2014\u2014 \u591a\u6e90\u964d\u7ea7 + \u5b9a\u65f6\u4efb\u52a1 + \u591a\u901a\u9053\u63a8\u9001\uff1b\u6838\u5fc3\u589e\u91cf\u662f\u53ef\u8bc1\u4f2a\u7684\u56de\u6d4b\u4e0e\u9a8c\u8bc1\u5c42\uff08\u672a\u6765\u51fd\u6570\u63a2\u6d4b / \u6837\u672c\u5185\u5916\u5207\u5206 / t\u68c0\u9a8c / \u57fa\u51c6\u5bf9\u6bd4\uff09",
-    "id": "AandBorC/dsa-lite",
-    "language": "Python",
-    "name": "AandBorC/dsa-lite",
-    "stars": 0,
-    "updated_at": "2026-10-15T14:29:53Z",
-    "url": "https://github.com/AandBorC/dsa-lite"
   }
 ]
