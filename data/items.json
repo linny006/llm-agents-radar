@@ -1,12 +1,84 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-10-15T06:29:11Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Make any agent harness token-native.",
+    "id": "Lawhy/tokin",
+    "language": "Python",
+    "name": "Lawhy/tokin",
+    "stars": 5,
+    "updated_at": "2026-10-15T06:29:06Z",
+    "url": "https://github.com/Lawhy/tokin"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 1179,
+    "updated_at": "2026-10-15T06:23:51Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
     "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
     "id": "memoways/ava-proto1",
     "language": "TypeScript",
     "name": "memoways/ava-proto1",
     "stars": 0,
-    "updated_at": "2026-10-15T06:15:20Z",
+    "updated_at": "2026-10-15T06:23:24Z",
     "url": "https://github.com/memoways/ava-proto1"
+  },
+  {
+    "description": "An AI carbon decision engine: measure a footprint, find what moved, simulate interventions, and rank actions by carbon x",
+    "id": "glatinone/carbonpilot",
+    "language": "Python",
+    "name": "glatinone/carbonpilot",
+    "stars": 0,
+    "updated_at": "2026-10-15T06:23:04Z",
+    "url": "https://github.com/glatinone/carbonpilot"
+  },
+  {
+    "description": "The LLM Anti-Framework",
+    "id": "Mirascope/mirascope",
+    "language": "Python",
+    "name": "Mirascope/mirascope",
+    "stars": 1532,
+    "updated_at": "2026-10-15T06:22:36Z",
+    "url": "https://github.com/Mirascope/mirascope"
+  },
+  {
+    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 49,
+    "updated_at": "2026-10-15T06:20:43Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "Tool-boundary enforcement for pi: routes codebase exploration onto bounded search and read tools, keeping the prompt-cac",
+    "id": "ZhenHuangLab/pi-better-explore",
+    "language": "TypeScript",
+    "name": "ZhenHuangLab/pi-better-explore",
+    "stars": 0,
+    "updated_at": "2026-10-15T06:19:11Z",
+    "url": "https://github.com/ZhenHuangLab/pi-better-explore"
+  },
+  {
+    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
+    "id": "agentscope-ai/agentscope-go",
+    "language": "Go",
+    "name": "agentscope-ai/agentscope-go",
+    "stars": 58,
+    "updated_at": "2026-10-15T06:17:41Z",
+    "url": "https://github.com/agentscope-ai/agentscope-go"
   },
   {
     "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
@@ -23,7 +95,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 2,
-    "updated_at": "2026-10-15T06:11:41Z",
+    "updated_at": "2026-10-15T06:19:06Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -50,7 +122,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-10-15T06:06:32Z",
+    "updated_at": "2026-10-15T06:26:49Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -81,30 +153,12 @@
     "url": "https://github.com/lzmd-arch/BioSNN-Plug"
   },
   {
-    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
-    "id": "agentscope-ai/agentscope-go",
-    "language": "Go",
-    "name": "agentscope-ai/agentscope-go",
-    "stars": 58,
-    "updated_at": "2026-10-15T06:00:56Z",
-    "url": "https://github.com/agentscope-ai/agentscope-go"
-  },
-  {
-    "description": "Make any agent harness token-native.",
-    "id": "Lawhy/tokin",
-    "language": "Python",
-    "name": "Lawhy/tokin",
-    "stars": 5,
-    "updated_at": "2026-10-15T05:59:12Z",
-    "url": "https://github.com/Lawhy/tokin"
-  },
-  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-10-15T06:05:21Z",
+    "updated_at": "2026-10-15T06:28:51Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -121,7 +175,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 779,
+    "stars": 780,
     "updated_at": "2026-10-15T05:56:16Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -139,7 +193,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 33283,
+    "stars": 33284,
     "updated_at": "2026-10-15T05:54:09Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -151,6 +205,15 @@
     "stars": 0,
     "updated_at": "2026-10-15T05:53:33Z",
     "url": "https://github.com/Hrecer/LinkPocket"
+  },
+  {
+    "description": "\uacf5\uacf5 API \uc2e4\ud328\ub97c \uc8fc\uc785\ud574 \uac70\ub798\ucc98 \uc810\uac80 \uc5d0\uc774\uc804\ud2b8\uc758 \ubcf5\uad6c\uc728\uacfc \uc870\uc6a9\ud55c \uc624\ub2f5 \ube44\uc728\uc744 \uc7ac\ub294 \uc2e4\ud5d8 (LangGraph\u00b7MCP)",
+    "id": "parksungyun0411/vendor-check-agent",
+    "language": "Python",
+    "name": "parksungyun0411/vendor-check-agent",
+    "stars": 0,
+    "updated_at": "2026-10-15T05:52:21Z",
+    "url": "https://github.com/parksungyun0411/vendor-check-agent"
   },
   {
     "description": "Coding agent CLI for local and hosted models, designed around small local models first",
@@ -178,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-10-15T05:36:50Z",
     "url": "https://github.com/haibingzhao/easyai"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 1178,
-    "updated_at": "2026-10-15T05:36:00Z",
-    "url": "https://github.com/ongridio/ongrid"
   },
   {
     "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
@@ -338,7 +392,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5834,
-    "updated_at": "2026-10-15T04:49:01Z",
+    "updated_at": "2026-10-15T06:16:34Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -369,15 +423,6 @@
     "url": "https://github.com/jeinlee1991/chinese-llm-benchmark"
   },
   {
-    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 49,
-    "updated_at": "2026-10-15T04:54:06Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
     "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
     "id": "xianyu-sheng/Xenon",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 7,
     "updated_at": "2026-10-15T04:33:26Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "An AI carbon decision engine: measure a footprint, find what moved, simulate interventions, and rank actions by carbon x",
-    "id": "glatinone/carbonpilot",
-    "language": "Python",
-    "name": "glatinone/carbonpilot",
-    "stars": 0,
-    "updated_at": "2026-10-15T04:25:01Z",
-    "url": "https://github.com/glatinone/carbonpilot"
-  },
-  {
-    "description": "Personal QQ copilot: message archive with roaming backfill, multimodal LLM agent, RAG, WebUI/CLI. Speaks the Milky proto",
-    "id": "char-46/copilot-muze",
-    "language": "Python",
-    "name": "char-46/copilot-muze",
-    "stars": 0,
-    "updated_at": "2026-10-15T04:16:12Z",
-    "url": "https://github.com/char-46/copilot-muze"
-  },
-  {
-    "description": "Tool-boundary enforcement for pi: routes codebase exploration onto bounded search and read tools, keeping the prompt-cac",
-    "id": "ZhenHuangLab/pi-better-explore",
-    "language": "TypeScript",
-    "name": "ZhenHuangLab/pi-better-explore",
-    "stars": 0,
-    "updated_at": "2026-10-15T04:13:26Z",
-    "url": "https://github.com/ZhenHuangLab/pi-better-explore"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-15T04:12:51Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "pi coding agent \u7684\u4e2a\u4eba\u77e5\u8bc6\u5e93\uff1a\u4f7f\u7528\u7b14\u8bb0\u3001\u547d\u4ee4/\u5feb\u6377\u952e\u901f\u67e5\u8868\u3001\u63d2\u4ef6\u4e0e skill \u7cbe\u9009\u3001\u529f\u80fd\u63d0\u6848\uff08Observe Mode \u5b8c\u6574\u6837\u672c\uff1a\u62a5\u5e55\u7ea6\u5b9a\u2192\u53ef\u884c\u6027\u9a8c\u8bc1\u2192\u6269\u5c55\u5b9e\u73b0\uff09",
-    "id": "civaapple-alt/pi-custom",
-    "language": "\u2014",
-    "name": "civaapple-alt/pi-custom",
-    "stars": 0,
-    "updated_at": "2026-10-15T03:57:40Z",
-    "url": "https://github.com/civaapple-alt/pi-custom"
   }
 ]
