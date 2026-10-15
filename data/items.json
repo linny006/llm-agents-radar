@@ -1,12 +1,48 @@
 [
   {
+    "description": "An identity file for AI agents: name, job, face, voice and vibe, signed by the agent. Install it into Claude Code, Codex",
+    "id": "5dive-ai/openagent",
+    "language": "JavaScript",
+    "name": "5dive-ai/openagent",
+    "stars": 2,
+    "updated_at": "2026-10-15T18:38:31Z",
+    "url": "https://github.com/5dive-ai/openagent"
+  },
+  {
+    "description": "Python SDK for durable AI agents: survive crashes, pause for human approval at no cost, scale from a script to a multi-h",
+    "id": "initxy/noeta",
+    "language": "Python",
+    "name": "initxy/noeta",
+    "stars": 10,
+    "updated_at": "2026-10-15T18:35:25Z",
+    "url": "https://github.com/initxy/noeta"
+  },
+  {
     "description": "AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter",
     "id": "Erkut99/Upwork-AI-jobs-applier",
     "language": "Python",
     "name": "Erkut99/Upwork-AI-jobs-applier",
     "stars": 0,
-    "updated_at": "2026-10-15T18:30:20Z",
+    "updated_at": "2026-10-15T18:31:54Z",
     "url": "https://github.com/Erkut99/Upwork-AI-jobs-applier"
+  },
+  {
+    "description": "Two MIT patches for Nous Research Hermes: stop busy-queue messages merging into one jumbled turn, and optionally run sel",
+    "id": "EauDoon/hermes-parallel-followups",
+    "language": "Python",
+    "name": "EauDoon/hermes-parallel-followups",
+    "stars": 0,
+    "updated_at": "2026-10-15T18:31:49Z",
+    "url": "https://github.com/EauDoon/hermes-parallel-followups"
+  },
+  {
+    "description": "DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy.",
+    "id": "AlexandrosAksoy/taracode",
+    "language": "Go",
+    "name": "AlexandrosAksoy/taracode",
+    "stars": 0,
+    "updated_at": "2026-10-15T18:31:02Z",
+    "url": "https://github.com/AlexandrosAksoy/taracode"
   },
   {
     "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
@@ -36,15 +72,6 @@
     "url": "https://github.com/rainer570/CodeJury"
   },
   {
-    "description": "DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy.",
-    "id": "AlexandrosAksoy/taracode",
-    "language": "Go",
-    "name": "AlexandrosAksoy/taracode",
-    "stars": 0,
-    "updated_at": "2026-10-15T18:29:56Z",
-    "url": "https://github.com/AlexandrosAksoy/taracode"
-  },
-  {
     "description": "AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter",
     "id": "michael5813/Upwork-AI-jobs-applier",
     "language": "Python",
@@ -67,7 +94,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "TypeScript",
     "name": "strands-agents/harness-sdk",
-    "stars": 8822,
+    "stars": 8823,
     "updated_at": "2026-10-15T18:18:40Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -77,7 +104,7 @@
     "language": "Shell",
     "name": "bd-loser/hermes-bionic",
     "stars": 1,
-    "updated_at": "2026-10-15T18:17:25Z",
+    "updated_at": "2026-10-15T18:38:29Z",
     "url": "https://github.com/bd-loser/hermes-bionic"
   },
   {
@@ -196,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T17:14:10Z",
     "url": "https://github.com/Chensihakniroth/anakot-agent-v1"
-  },
-  {
-    "description": "Two MIT patches for Nous Research Hermes: stop busy-queue messages merging into one jumbled turn, and optionally run sel",
-    "id": "EauDoon/hermes-parallel-followups",
-    "language": "Python",
-    "name": "EauDoon/hermes-parallel-followups",
-    "stars": 0,
-    "updated_at": "2026-10-15T17:10:32Z",
-    "url": "https://github.com/EauDoon/hermes-parallel-followups"
   },
   {
     "description": "Voice-controlled OS agent: a fine-tuned T5 model turns natural-language requests into validated, safely executed system ",
@@ -355,7 +373,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 6213,
+    "stars": 6214,
     "updated_at": "2026-10-15T16:07:07Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -365,7 +383,7 @@
     "language": "Python",
     "name": "CIRISAI/CIRISAgent",
     "stars": 57,
-    "updated_at": "2026-10-15T17:55:11Z",
+    "updated_at": "2026-10-15T18:35:42Z",
     "url": "https://github.com/CIRISAI/CIRISAgent"
   },
   {
@@ -405,15 +423,6 @@
     "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
-    "description": "An identity file for AI agents: name, job, face, voice and vibe, signed by the agent. Install it into Claude Code, Codex",
-    "id": "5dive-ai/openagent",
-    "language": "JavaScript",
-    "name": "5dive-ai/openagent",
-    "stars": 2,
-    "updated_at": "2026-10-15T16:40:40Z",
-    "url": "https://github.com/5dive-ai/openagent"
-  },
-  {
     "description": "Non-custodial Hyperliquid execution + tracking CLI for autonomous LLM agents. Signs EIP-712 actions with an agent wallet",
     "id": "erickuhn19/deliverator",
     "language": "Go",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-15T15:26:52Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
-    "id": "haibingzhao/easyai",
-    "language": "Kotlin",
-    "name": "haibingzhao/easyai",
-    "stars": 1,
-    "updated_at": "2026-10-15T15:20:25Z",
-    "url": "https://github.com/haibingzhao/easyai"
   }
 ]
