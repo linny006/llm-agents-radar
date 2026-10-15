@@ -1,12 +1,57 @@
 [
   {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-15T17:57:53Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
     "description": "Scrapling \u98ce\u683c\u9690\u8eab\u722c\u866b\u5e93\uff1a\u81ea\u9002\u5e94\u9009\u62e9\u5668 \u00b7 TLS \u6307\u7eb9 HTTP \u00b7 JS \u6e32\u67d3 \u00b7 \u56de\u8c03\u5f0f Spider \u6846\u67b6\uff08\u91cd\u8bd5/robots/\u53bb\u91cd/\u4e2d\u95f4\u4ef6\u7ba1\u9053\uff09\u00b7 JS \u9006\u5411 Agent \u00b7 \u9a8c\u8bc1\u7801\u8bc6\u522b \u00b7 MCP \u670d\u52a1 \u00b7 \u672c\u5730 We",
     "id": "xiaomaozjj666/web-crawler",
     "language": "Python",
     "name": "xiaomaozjj666/web-crawler",
     "stars": 4,
-    "updated_at": "2026-10-15T17:43:48Z",
+    "updated_at": "2026-10-15T17:57:25Z",
     "url": "https://github.com/xiaomaozjj666/web-crawler"
+  },
+  {
+    "description": "Turn any repository URL into a complete, fact-verified GitHub Wiki. An LLM-agent skill: clone, inventory, RUN and probe ",
+    "id": "paulmann/github-wiki-llm-writer",
+    "language": "Python",
+    "name": "paulmann/github-wiki-llm-writer",
+    "stars": 0,
+    "updated_at": "2026-10-15T17:54:52Z",
+    "url": "https://github.com/paulmann/github-wiki-llm-writer"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 6,
+    "updated_at": "2026-10-15T17:54:42Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "Framework-free PHP demo of a controlled LLM agent connecting OpenAI tool calling with application services.",
+    "id": "msuranek/php-llm-agent-demo",
+    "language": "PHP",
+    "name": "msuranek/php-llm-agent-demo",
+    "stars": 0,
+    "updated_at": "2026-10-15T17:51:31Z",
+    "url": "https://github.com/msuranek/php-llm-agent-demo"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-15T17:46:00Z",
+    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
@@ -27,6 +72,15 @@
     "url": "https://github.com/bondwell79/hercules"
   },
   {
+    "description": "Turn your Claude subscription into an AI employee in Telegram. Open-source kit behind 18 working assistants.",
+    "id": "shakhruz/mila-companion",
+    "language": "Python",
+    "name": "shakhruz/mila-companion",
+    "stars": 1,
+    "updated_at": "2026-10-15T17:19:41Z",
+    "url": "https://github.com/shakhruz/mila-companion"
+  },
+  {
     "description": "Lean, extended fork of Nous Research's Hermes Agent \u2014 free model suite, connectors, and ~20 perf fixes. Upstream credite",
     "id": "Chensihakniroth/anakot-agent-v1",
     "language": "Python",
@@ -34,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T17:14:10Z",
     "url": "https://github.com/Chensihakniroth/anakot-agent-v1"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 6,
-    "updated_at": "2026-10-15T17:14:28Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -61,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T17:10:32Z",
     "url": "https://github.com/EauDoon/hermes-parallel-followups"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-15T17:10:30Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "Voice-controlled OS agent: a fine-tuned T5 model turns natural-language requests into validated, safely executed system ",
@@ -133,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T16:49:54Z",
     "url": "https://github.com/EmplifAI/g1-argon-pick-place"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-15T17:29:38Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
@@ -248,7 +275,7 @@
     "language": "Python",
     "name": "CIRISAI/CIRISAgent",
     "stars": 57,
-    "updated_at": "2026-10-15T17:26:35Z",
+    "updated_at": "2026-10-15T17:55:11Z",
     "url": "https://github.com/CIRISAI/CIRISAgent"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 4450,
     "updated_at": "2026-10-15T16:29:12Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "A local-first, standalone personal knowledge base for Windows. Import, organize, and create your own links \u2014 no browser ",
-    "id": "Hrecer/LinkPocket",
-    "language": "C#",
-    "name": "Hrecer/LinkPocket",
-    "stars": 0,
-    "updated_at": "2026-10-15T14:45:56Z",
-    "url": "https://github.com/Hrecer/LinkPocket"
-  },
-  {
-    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
-    "id": "wuyhong715/rikkahub-agent-pure",
-    "language": "Kotlin",
-    "name": "wuyhong715/rikkahub-agent-pure",
-    "stars": 44,
-    "updated_at": "2026-10-15T15:03:02Z",
-    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
-  },
-  {
-    "description": "Coding agent that plans, changes, tests and reviews, and touches your files only when you approve. Windows, macOS, Linux",
-    "id": "huynvic/albertcode-swe-agent",
-    "language": "Shell",
-    "name": "huynvic/albertcode-swe-agent",
-    "stars": 0,
-    "updated_at": "2026-10-15T14:43:46Z",
-    "url": "https://github.com/huynvic/albertcode-swe-agent"
   }
 ]
