@@ -1,5 +1,95 @@
 [
   {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-15T03:59:19Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "\ud83d\udcf1 \u672c\u5730\u7aef\u4fa7\u624b\u673a AI Agent\uff1a\u5c4f\u5e55\u63a7\u4ef6\u611f\u77e5\u3001\u591a\u6b65\u610f\u56fe\u64cd\u4f5c\u3001\u957f\u671f\u8bb0\u5fc6\u6c89\u6dc0\uff0cAndroid + \u9e3f\u8499\u53cc\u7aef\u539f\u751f\u5b9e\u73b0\u3002",
+    "id": "solplum/yunkai",
+    "language": "Kotlin",
+    "name": "solplum/yunkai",
+    "stars": 1,
+    "updated_at": "2026-10-15T03:56:35Z",
+    "url": "https://github.com/solplum/yunkai"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 82,
+    "updated_at": "2026-10-15T03:57:49Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 5,
+    "updated_at": "2026-10-15T03:52:15Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "An AI carbon decision engine: measure a footprint, find what moved, simulate interventions, and rank actions by carbon x",
+    "id": "glatinone/carbonpilot",
+    "language": "Python",
+    "name": "glatinone/carbonpilot",
+    "stars": 0,
+    "updated_at": "2026-10-15T03:51:10Z",
+    "url": "https://github.com/glatinone/carbonpilot"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-15T03:54:12Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "Self-improving SC2 Protoss bot: rule-based + PPO + Claude advisor, with autonomous code-level self-improvement loop.",
+    "id": "aberson/Alpha4Gate",
+    "language": "Python",
+    "name": "aberson/Alpha4Gate",
+    "stars": 4,
+    "updated_at": "2026-10-15T03:48:34Z",
+    "url": "https://github.com/aberson/Alpha4Gate"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-10-15T03:52:18Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Local-first open-source AI coding agent built with Go \u2014 Desktop, CLI, TUI, WebUI, MCP, Skills, multi-agent workflows, an",
+    "id": "konglong87/go-e2e",
+    "language": "Go",
+    "name": "konglong87/go-e2e",
+    "stars": 0,
+    "updated_at": "2026-10-15T03:47:13Z",
+    "url": "https://github.com/konglong87/go-e2e"
+  },
+  {
+    "description": "An auto-evolution framework that optimizes anything \u2014 your 7\u00d724 team of algorithm engineers.",
+    "id": "ant-research/AntOmniEvo",
+    "language": "Python",
+    "name": "ant-research/AntOmniEvo",
+    "stars": 1049,
+    "updated_at": "2026-10-15T03:45:23Z",
+    "url": "https://github.com/ant-research/AntOmniEvo"
+  },
+  {
     "description": "A local-first AI companion for Windows: it remembers you, dreams over your day at night, follows up on what matters and ",
     "id": "b7216309-jpg/little-bot",
     "language": "JavaScript",
@@ -27,15 +117,6 @@
     "url": "https://github.com/WenzhuoXu/lawgent"
   },
   {
-    "description": "An auto-evolution framework that optimizes anything \u2014 your 7\u00d724 team of algorithm engineers.",
-    "id": "ant-research/AntOmniEvo",
-    "language": "Python",
-    "name": "ant-research/AntOmniEvo",
-    "stars": 1047,
-    "updated_at": "2026-10-15T03:37:13Z",
-    "url": "https://github.com/ant-research/AntOmniEvo"
-  },
-  {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
     "id": "plurnk/plurnk-service",
     "language": "TypeScript",
@@ -61,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-10-15T03:21:38Z",
     "url": "https://github.com/OtakuNathan/Pal"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 5,
-    "updated_at": "2026-10-15T03:37:33Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -108,21 +180,12 @@
     "url": "https://github.com/CIRISAI/CIRISAgent"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-15T02:58:12Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
     "id": "JSL107/personal_agents",
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-10-15T02:56:42Z",
+    "updated_at": "2026-10-15T03:57:57Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -167,7 +230,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-15T03:26:32Z",
+    "updated_at": "2026-10-15T04:00:17Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -178,15 +241,6 @@
     "stars": 1178,
     "updated_at": "2026-10-15T02:19:58Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "Local-first open-source AI coding agent built with Go \u2014 Desktop, CLI, TUI, WebUI, MCP, Skills, multi-agent workflows, an",
-    "id": "konglong87/go-e2e",
-    "language": "Go",
-    "name": "konglong87/go-e2e",
-    "stars": 0,
-    "updated_at": "2026-10-15T02:18:33Z",
-    "url": "https://github.com/konglong87/go-e2e"
   },
   {
     "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
@@ -230,7 +284,7 @@
     "language": "Python",
     "name": "franckolv-dev/ELY2",
     "stars": 1,
-    "updated_at": "2026-10-15T01:54:44Z",
+    "updated_at": "2026-10-15T03:59:01Z",
     "url": "https://github.com/franckolv-dev/ELY2"
   },
   {
@@ -315,15 +369,6 @@
     "url": "https://github.com/Lawhy/tokin"
   },
   {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-15T03:39:02Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -387,15 +432,6 @@
     "url": "https://github.com/xufenghe/aimo3-agentic-inference"
   },
   {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 82,
-    "updated_at": "2026-10-15T00:22:51Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
     "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
     "id": "Hello-QM/catgo-LRG",
     "language": "TypeScript",
@@ -412,41 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-15T00:19:11Z",
     "url": "https://github.com/plurnk/plurnk"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-10-15T00:14:44Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Application Security orchestration platform",
-    "id": "grauwolf32/contractor",
-    "language": "Go",
-    "name": "grauwolf32/contractor",
-    "stars": 2,
-    "updated_at": "2026-10-14T23:40:46Z",
-    "url": "https://github.com/grauwolf32/contractor"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4450,
-    "updated_at": "2026-10-15T02:24:07Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "[NeurIPS 2024] Official implementation for \"AgentPoison: Red-teaming LLM Agents via Memory or Knowledge Base Backdoor Po",
-    "id": "AI-secure/AgentPoison",
-    "language": "Python",
-    "name": "AI-secure/AgentPoison",
-    "stars": 247,
-    "updated_at": "2026-10-14T23:22:50Z",
-    "url": "https://github.com/AI-secure/AgentPoison"
   }
 ]
