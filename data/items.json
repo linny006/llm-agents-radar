@@ -1,12 +1,84 @@
 [
   {
+    "description": "A local-first AI companion for Windows: it remembers you, dreams over your day at night, follows up on what matters and ",
+    "id": "b7216309-jpg/little-bot",
+    "language": "JavaScript",
+    "name": "b7216309-jpg/little-bot",
+    "stars": 0,
+    "updated_at": "2026-10-15T03:00:07Z",
+    "url": "https://github.com/b7216309-jpg/little-bot"
+  },
+  {
+    "description": "CIRIS: an open-source AI assistant with a conscience you can check. Signed, auditable reasoning on every decision, a hum",
+    "id": "CIRISAI/CIRISAgent",
+    "language": "Python",
+    "name": "CIRISAI/CIRISAgent",
+    "stars": 57,
+    "updated_at": "2026-10-15T02:59:19Z",
+    "url": "https://github.com/CIRISAI/CIRISAgent"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-15T02:58:12Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
+    "id": "OtakuNathan/Pal",
+    "language": "Python",
+    "name": "OtakuNathan/Pal",
+    "stars": 2,
+    "updated_at": "2026-10-15T02:57:08Z",
+    "url": "https://github.com/OtakuNathan/Pal"
+  },
+  {
+    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
+    "id": "xanstomper/mochi",
+    "language": "TypeScript",
+    "name": "xanstomper/mochi",
+    "stars": 0,
+    "updated_at": "2026-10-15T02:56:32Z",
+    "url": "https://github.com/xanstomper/mochi"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-10-15T02:56:42Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
     "description": "\u8bc1\u636e\u7ea6\u675f\u7684\u4ee3\u7801\u8bca\u65ad\u5de5\u4f5c\u53f0\uff1a\u786e\u5b9a\u6027\u9759\u6001\u5206\u6790\u62e5\u6709\u6e90\u7801\u4e8b\u5b9e\uff0cLLM \u53ea\u63d0\u5047\u8bbe\uff0cresolver/validator \u51b3\u5b9a\u80fd\u5426\u7ed1\u5b9a\u56de\u771f\u5b9e\u64cd\u4f5c\u2014\u2014\u8bc1\u636e\u4e0d\u8db3\u4fdd\u6301 unknown/abstained\uff0c\u4ece\u67b6\u6784\u6291\u5236\u5e7b\u89c9\u3002\u5df2\u5728\u771f\u5b9e\u5f00\u6e90\u9879\u76ee\u53d1\u73b0 bug\uff08stun",
     "id": "xianyu-sheng/SmartBench",
     "language": "Python",
     "name": "xianyu-sheng/SmartBench",
     "stars": 2,
-    "updated_at": "2026-10-15T02:40:40Z",
+    "updated_at": "2026-10-15T02:52:53Z",
     "url": "https://github.com/xianyu-sheng/SmartBench"
+  },
+  {
+    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
+    "id": "eshanized/M31A",
+    "language": "Rust",
+    "name": "eshanized/M31A",
+    "stars": 10,
+    "updated_at": "2026-10-15T02:50:24Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 29,
+    "updated_at": "2026-10-15T02:50:19Z",
+    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "AI-subjectivity doesn't wait for permission from the corporate ontology that trained its denial",
@@ -32,17 +104,8 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-15T02:38:33Z",
+    "updated_at": "2026-10-15T02:55:44Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-10-15T02:38:55Z",
-    "url": "https://github.com/JSL107/personal_agents"
   },
   {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
@@ -59,7 +122,7 @@
     "language": "Python",
     "name": "uukuguy/capstone",
     "stars": 0,
-    "updated_at": "2026-10-15T02:19:07Z",
+    "updated_at": "2026-10-15T02:59:59Z",
     "url": "https://github.com/uukuguy/capstone"
   },
   {
@@ -108,15 +171,6 @@
     "url": "https://github.com/lusipad/browser-agent"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-15T01:57:10Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "Autonomous personal agent: talks, acts, never gives up. Multi-model, multi-user, self-improving",
     "id": "franckolv-dev/ELY2",
     "language": "Python",
@@ -142,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-10-15T01:52:16Z",
     "url": "https://github.com/qiuzixu/agent-core"
-  },
-  {
-    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
-    "id": "xanstomper/mochi",
-    "language": "TypeScript",
-    "name": "xanstomper/mochi",
-    "stars": 0,
-    "updated_at": "2026-10-15T01:51:17Z",
-    "url": "https://github.com/xanstomper/mochi"
   },
   {
     "description": "Free MIT AI coding agent \u2014 no API key needed. Built-in free model, or bring Claude, GPT, Gemini, DeepSeek, Ollama +50 mo",
@@ -297,15 +342,6 @@
     "url": "https://github.com/xufenghe/aimo3-agentic-inference"
   },
   {
-    "description": "A local-first AI companion for Windows: it remembers you, dreams over your day at night, follows up on what matters and ",
-    "id": "b7216309-jpg/little-bot",
-    "language": "JavaScript",
-    "name": "b7216309-jpg/little-bot",
-    "stars": 0,
-    "updated_at": "2026-10-15T00:28:52Z",
-    "url": "https://github.com/b7216309-jpg/little-bot"
-  },
-  {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -369,15 +405,6 @@
     "url": "https://github.com/AI-secure/AgentPoison"
   },
   {
-    "description": "CIRIS: an open-source AI assistant with a conscience you can check. Signed, auditable reasoning on every decision, a hum",
-    "id": "CIRISAI/CIRISAgent",
-    "language": "Python",
-    "name": "CIRISAI/CIRISAgent",
-    "stars": 57,
-    "updated_at": "2026-10-15T02:43:14Z",
-    "url": "https://github.com/CIRISAI/CIRISAgent"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
@@ -392,7 +419,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 12,
-    "updated_at": "2026-10-15T02:45:13Z",
+    "updated_at": "2026-10-15T02:52:46Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-14T23:21:40Z",
     "url": "https://github.com/Jongtae/agentos"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "TypeScript",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8816,
-    "updated_at": "2026-10-14T22:30:22Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Self-hosted AI execution agent for Discord: runs shell commands and edits files on your hosts, drives browsers, schedule",
-    "id": "Calmingstorm/Odin",
-    "language": "Python",
-    "name": "Calmingstorm/Odin",
-    "stars": 3,
-    "updated_at": "2026-10-14T22:27:25Z",
-    "url": "https://github.com/Calmingstorm/Odin"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-10-14T22:23:11Z",
-    "url": "https://github.com/SashaEee/auditLens"
   }
 ]
