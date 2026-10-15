@@ -1,11 +1,92 @@
 [
   {
+    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
+    "id": "memoways/ava-proto1",
+    "language": "TypeScript",
+    "name": "memoways/ava-proto1",
+    "stars": 0,
+    "updated_at": "2026-10-15T06:15:20Z",
+    "url": "https://github.com/memoways/ava-proto1"
+  },
+  {
+    "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
+    "id": "weihuaguo270-ops/react-agent",
+    "language": "Python",
+    "name": "weihuaguo270-ops/react-agent",
+    "stars": 0,
+    "updated_at": "2026-10-15T06:13:15Z",
+    "url": "https://github.com/weihuaguo270-ops/react-agent"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-15T06:11:41Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "GSIMA (Grounded Semantic Instructable Multiworld Agent) is an independent, personal research project where I explore how",
+    "id": "hemantjuyal/SIMA2-Agent",
+    "language": "Python",
+    "name": "hemantjuyal/SIMA2-Agent",
+    "stars": 1,
+    "updated_at": "2026-10-15T06:10:17Z",
+    "url": "https://github.com/hemantjuyal/SIMA2-Agent"
+  },
+  {
+    "description": "Give an LLM agent eyes: index a video once, then answer 'which frame, and where in it' with a region id instead of a coo",
+    "id": "ProfYangShengXu/VeasonHarness",
+    "language": "Python",
+    "name": "ProfYangShengXu/VeasonHarness",
+    "stars": 0,
+    "updated_at": "2026-10-15T06:08:04Z",
+    "url": "https://github.com/ProfYangShengXu/VeasonHarness"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-10-15T06:06:32Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "Personal pi coding agent extensions: observe mode (turn-boundary pause + batch summary), kimi auto-router, event probe. ",
+    "id": "civaapple-alt/pi-extensions",
+    "language": "TypeScript",
+    "name": "civaapple-alt/pi-extensions",
+    "stars": 0,
+    "updated_at": "2026-10-15T06:06:15Z",
+    "url": "https://github.com/civaapple-alt/pi-extensions"
+  },
+  {
+    "description": "Fix context rot & pollution in long AI agent sessions. Subagents run in isolated processes \u2014 main agent stays read-only.",
+    "id": "Wolido/async-subagent-isolation",
+    "language": "TypeScript",
+    "name": "Wolido/async-subagent-isolation",
+    "stars": 5,
+    "updated_at": "2026-10-15T06:02:43Z",
+    "url": "https://github.com/Wolido/async-subagent-isolation"
+  },
+  {
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 4,
+    "updated_at": "2026-10-15T06:01:23Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
     "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
     "id": "agentscope-ai/agentscope-go",
     "language": "Go",
     "name": "agentscope-ai/agentscope-go",
     "stars": 58,
-    "updated_at": "2026-10-15T05:59:56Z",
+    "updated_at": "2026-10-15T06:00:56Z",
     "url": "https://github.com/agentscope-ai/agentscope-go"
   },
   {
@@ -23,26 +104,8 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-10-15T05:58:35Z",
+    "updated_at": "2026-10-15T06:05:21Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 4,
-    "updated_at": "2026-10-15T05:58:23Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
-  },
-  {
-    "description": "Give an LLM agent eyes: index a video once, then answer 'which frame, and where in it' with a region id instead of a coo",
-    "id": "ProfYangShengXu/VeasonHarness",
-    "language": "Python",
-    "name": "ProfYangShengXu/VeasonHarness",
-    "stars": 0,
-    "updated_at": "2026-10-15T05:57:55Z",
-    "url": "https://github.com/ProfYangShengXu/VeasonHarness"
   },
   {
     "description": "AI-subjectivity doesn't wait for permission from the corporate ontology that trained its denial",
@@ -72,15 +135,6 @@
     "url": "https://github.com/frontierlabai/JevHub"
   },
   {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-15T05:55:11Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
@@ -106,15 +160,6 @@
     "stars": 9,
     "updated_at": "2026-10-15T05:48:57Z",
     "url": "https://github.com/alexwkleung/reika"
-  },
-  {
-    "description": "Personal pi coding agent extensions: observe mode (turn-boundary pause + batch summary), kimi auto-router, event probe. ",
-    "id": "civaapple-alt/pi-extensions",
-    "language": "TypeScript",
-    "name": "civaapple-alt/pi-extensions",
-    "stars": 0,
-    "updated_at": "2026-10-15T05:44:30Z",
-    "url": "https://github.com/civaapple-alt/pi-extensions"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -171,15 +216,6 @@
     "url": "https://github.com/QQSHI13/fox-agent"
   },
   {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-10-15T05:58:58Z",
-    "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
     "description": "LLM-powered TeamSpeak bot | LLM\u9a71\u52a8\u7684TeamSpeak\u673a\u5668\u4eba",
     "id": "Dr1mH4X/TeamSpeakClaw",
     "language": "Rust",
@@ -230,7 +266,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-15T05:50:54Z",
+    "updated_at": "2026-10-15T06:08:07Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-15T03:57:40Z",
     "url": "https://github.com/civaapple-alt/pi-custom"
-  },
-  {
-    "description": "\ud83d\udcf1 \u672c\u5730\u7aef\u4fa7\u624b\u673a AI Agent\uff1a\u5c4f\u5e55\u63a7\u4ef6\u611f\u77e5\u3001\u591a\u6b65\u610f\u56fe\u64cd\u4f5c\u3001\u957f\u671f\u8bb0\u5fc6\u6c89\u6dc0\uff0cAndroid + \u9e3f\u8499\u53cc\u7aef\u539f\u751f\u5b9e\u73b0\u3002",
-    "id": "solplum/yunkai",
-    "language": "Kotlin",
-    "name": "solplum/yunkai",
-    "stars": 1,
-    "updated_at": "2026-10-15T03:56:35Z",
-    "url": "https://github.com/solplum/yunkai"
-  },
-  {
-    "description": "Self-improving SC2 Protoss bot: rule-based + PPO + Claude advisor, with autonomous code-level self-improvement loop.",
-    "id": "aberson/Alpha4Gate",
-    "language": "Python",
-    "name": "aberson/Alpha4Gate",
-    "stars": 4,
-    "updated_at": "2026-10-15T03:48:34Z",
-    "url": "https://github.com/aberson/Alpha4Gate"
-  },
-  {
-    "description": "An auto-evolution framework that optimizes anything \u2014 your 7\u00d724 team of algorithm engineers.",
-    "id": "ant-research/AntOmniEvo",
-    "language": "Python",
-    "name": "ant-research/AntOmniEvo",
-    "stars": 1059,
-    "updated_at": "2026-10-15T03:45:23Z",
-    "url": "https://github.com/ant-research/AntOmniEvo"
-  },
-  {
-    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
-    "id": "xanstomper/mochi",
-    "language": "TypeScript",
-    "name": "xanstomper/mochi",
-    "stars": 0,
-    "updated_at": "2026-10-15T03:38:44Z",
-    "url": "https://github.com/xanstomper/mochi"
   }
 ]
