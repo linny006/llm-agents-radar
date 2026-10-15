@@ -1,5 +1,77 @@
 [
   {
+    "description": "Gestor ag\u00e9ntico de modelos llm",
+    "id": "bondwell79/hercules",
+    "language": "Python",
+    "name": "bondwell79/hercules",
+    "stars": 0,
+    "updated_at": "2026-10-15T20:59:25Z",
+    "url": "https://github.com/bondwell79/hercules"
+  },
+  {
+    "description": "CIRIS: an open-source AI assistant with a conscience you can check. Signed, auditable reasoning on every decision, a hum",
+    "id": "CIRISAI/CIRISAgent",
+    "language": "Python",
+    "name": "CIRISAI/CIRISAgent",
+    "stars": 57,
+    "updated_at": "2026-10-15T20:57:00Z",
+    "url": "https://github.com/CIRISAI/CIRISAgent"
+  },
+  {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 5,
+    "updated_at": "2026-10-15T20:55:34Z",
+    "url": "https://github.com/plurnk/plurnk"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4450,
+    "updated_at": "2026-10-15T20:58:39Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "\ud83d\udc34 WormAgent \u2014 smart Telegram agent. One-line install. RECON \u00b7 EXPLOIT \u00b7 BYPASS \u00b7 OWN.",
+    "id": "BlackXV2vip/wormagent",
+    "language": "HTML",
+    "name": "BlackXV2vip/wormagent",
+    "stars": 0,
+    "updated_at": "2026-10-15T20:52:41Z",
+    "url": "https://github.com/BlackXV2vip/wormagent"
+  },
+  {
+    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
+    "id": "arjun29158/CodeJury",
+    "language": "Python",
+    "name": "arjun29158/CodeJury",
+    "stars": 0,
+    "updated_at": "2026-10-15T20:52:09Z",
+    "url": "https://github.com/arjun29158/CodeJury"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-15T20:59:59Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 12,
+    "updated_at": "2026-10-15T20:46:46Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
     "id": "zhixuli0406/DuDuClaw",
     "language": "Rust",
@@ -18,15 +90,6 @@
     "url": "https://github.com/Rukkakka/jibsa"
   },
   {
-    "description": "CIRIS: an open-source AI assistant with a conscience you can check. Signed, auditable reasoning on every decision, a hum",
-    "id": "CIRISAI/CIRISAgent",
-    "language": "Python",
-    "name": "CIRISAI/CIRISAgent",
-    "stars": 57,
-    "updated_at": "2026-10-15T20:30:03Z",
-    "url": "https://github.com/CIRISAI/CIRISAgent"
-  },
-  {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
     "id": "genaforvena/mishe-tauftauf",
     "language": "Python",
@@ -41,7 +104,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-15T20:27:22Z",
+    "updated_at": "2026-10-15T20:46:17Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -52,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T20:24:05Z",
     "url": "https://github.com/njfuzrs/agent-backend"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4450,
-    "updated_at": "2026-10-15T20:25:59Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Check your MCP servers for tool poisoning and rug pulls, and benchmark MCP security tools under verifiable conditions.",
@@ -108,15 +162,6 @@
     "url": "https://github.com/yildirimemirhan/wbc-analyzer"
   },
   {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 12,
-    "updated_at": "2026-10-15T20:37:04Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "Lean, extended fork of Nous Research's Hermes Agent \u2014 free model suite, connectors, and ~20 perf fixes. Upstream credite",
     "id": "Chensihakniroth/anakot-agent-v1",
     "language": "Python",
@@ -140,7 +185,7 @@
     "language": "TypeScript",
     "name": "strands-agents/harness-sdk",
     "stars": 8823,
-    "updated_at": "2026-10-15T20:25:37Z",
+    "updated_at": "2026-10-15T20:59:05Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -167,7 +212,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-15T20:38:01Z",
+    "updated_at": "2026-10-15T20:49:36Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-15T17:51:31Z",
     "url": "https://github.com/msuranek/php-llm-agent-demo"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-15T17:46:00Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
-    "id": "plurnk/plurnk",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk",
-    "stars": 5,
-    "updated_at": "2026-10-15T17:37:24Z",
-    "url": "https://github.com/plurnk/plurnk"
-  },
-  {
-    "description": "Gestor ag\u00e9ntico de modelos llm",
-    "id": "bondwell79/hercules",
-    "language": "Python",
-    "name": "bondwell79/hercules",
-    "stars": 0,
-    "updated_at": "2026-10-15T17:35:40Z",
-    "url": "https://github.com/bondwell79/hercules"
-  },
-  {
-    "description": "Voice-controlled OS agent: a fine-tuned T5 model turns natural-language requests into validated, safely executed system ",
-    "id": "benk-007/voice-os-agent",
-    "language": "Python",
-    "name": "benk-007/voice-os-agent",
-    "stars": 0,
-    "updated_at": "2026-10-15T17:08:34Z",
-    "url": "https://github.com/benk-007/voice-os-agent"
-  },
-  {
-    "description": "\u4fe1\u4f7f\u9e1f \u00b7 \u5bf9\u8bdd\u5f0f\u90ae\u4ef6\u7ba1\u5bb6\uff5c\u7528\u4e2d\u6587\u8bf4\u4e00\u53e5\u8bdd\u5c31\u628a\u90ae\u4ef6\u53d1\u51fa\u53bb\u3002\u628a\u90ae\u4ef6\u80fd\u529b\u5c01\u88c5\u6210 MCP \u6807\u51c6\u5de5\u5177\uff0c\u7531\u672c\u5730 Ollama \u6a21\u578b\u7406\u89e3\u610f\u56fe\u5e76\u8c03\u7528\uff0c\u5e26\u53ef\u7c98\u8d34\u56fe\u7247\u7684\u56fe\u5f62\u754c\u9762\uff1b\u5904\u7406\u9644\u4ef6\u6821\u9a8c\u3001\u5e42\u7b49\u91cd\u53d1\u3001SMTP \u8fde\u63a5\u590d\u7528\u4e0e\u9650\u6d41\u3002",
-    "id": "3029-sky/qqmail-mcp-tool",
-    "language": "Python",
-    "name": "3029-sky/qqmail-mcp-tool",
-    "stars": 1,
-    "updated_at": "2026-10-15T16:58:10Z",
-    "url": "https://github.com/3029-sky/qqmail-mcp-tool"
   }
 ]
