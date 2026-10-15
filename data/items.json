@@ -1,5 +1,59 @@
 [
   {
+    "description": "\u5e26\u7b56\u7565\u9a8c\u8bc1\u7684 A \u80a1 LLM \u5206\u6790\u7cfb\u7edf \u2014\u2014 \u591a\u6e90\u964d\u7ea7 + \u5b9a\u65f6\u4efb\u52a1 + \u591a\u901a\u9053\u63a8\u9001\uff1b\u6838\u5fc3\u589e\u91cf\u662f\u53ef\u8bc1\u4f2a\u7684\u56de\u6d4b\u4e0e\u9a8c\u8bc1\u5c42\uff08\u672a\u6765\u51fd\u6570\u63a2\u6d4b / \u6837\u672c\u5185\u5916\u5207\u5206 / t\u68c0\u9a8c / \u57fa\u51c6\u5bf9\u6bd4\uff09",
+    "id": "AandBorC/dsa-lite",
+    "language": "Python",
+    "name": "AandBorC/dsa-lite",
+    "stars": 0,
+    "updated_at": "2026-10-15T14:29:53Z",
+    "url": "https://github.com/AandBorC/dsa-lite"
+  },
+  {
+    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
+    "id": "xieguigang/sciBASIC",
+    "language": "Visual Basic .NET",
+    "name": "xieguigang/sciBASIC",
+    "stars": 79,
+    "updated_at": "2026-10-15T14:28:34Z",
+    "url": "https://github.com/xieguigang/sciBASIC"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-15T14:28:12Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 820,
+    "updated_at": "2026-10-15T14:26:25Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-15T14:17:39Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "LLM-powered TeamSpeak bot | LLM\u9a71\u52a8\u7684TeamSpeak\u673a\u5668\u4eba",
+    "id": "Dr1mH4X/TeamSpeakClaw",
+    "language": "Rust",
+    "name": "Dr1mH4X/TeamSpeakClaw",
+    "stars": 6,
+    "updated_at": "2026-10-15T14:20:08Z",
+    "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
+  },
+  {
     "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
     "id": "Jongtae/agentos",
     "language": "Python",
@@ -16,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T14:11:38Z",
     "url": "https://github.com/njfuzrs/agent-backend"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-15T14:11:36Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -95,7 +140,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 44,
-    "updated_at": "2026-10-15T14:12:16Z",
+    "updated_at": "2026-10-15T14:23:57Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -104,7 +149,7 @@
     "language": "TypeScript",
     "name": "strands-agents/harness-sdk",
     "stars": 8823,
-    "updated_at": "2026-10-15T13:48:22Z",
+    "updated_at": "2026-10-15T14:22:55Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -135,15 +180,6 @@
     "url": "https://github.com/xhqing/ExecutiveAssistantAgent"
   },
   {
-    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-15T14:12:04Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
     "description": "PRD-to-Rust pipeline: a Claude Code skill + companion binary that ship code only when 7 digest-bound receipts agree",
     "id": "j0yen/autobuilder",
     "language": "Rust",
@@ -153,21 +189,12 @@
     "url": "https://github.com/j0yen/autobuilder"
   },
   {
-    "description": "LLM-powered TeamSpeak bot | LLM\u9a71\u52a8\u7684TeamSpeak\u673a\u5668\u4eba",
-    "id": "Dr1mH4X/TeamSpeakClaw",
-    "language": "Rust",
-    "name": "Dr1mH4X/TeamSpeakClaw",
-    "stars": 6,
-    "updated_at": "2026-10-15T14:03:49Z",
-    "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
-  },
-  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-15T14:06:13Z",
+    "updated_at": "2026-10-15T14:26:39Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -320,7 +347,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 6209,
-    "updated_at": "2026-10-15T12:56:12Z",
+    "updated_at": "2026-10-15T14:15:56Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-15T12:14:45Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-10-15T12:06:36Z",
-    "url": "https://github.com/SashaEee/auditLens"
-  },
-  {
-    "description": "\ub124\uc774\ubc84 \ud56d\uacf5\uad8c\u00b7\uc2a4\uce74\uc774\uc2a4\uce90\ub108\uc5d0\uc11c \uc9c0\uae08 \uc0b4 \uc218 \uc788\ub294 \ud56d\uacf5\uad8c\uc744 \uc870\ud68c\ud558\ub294 LLM \uc5d0\uc774\uc804\ud2b8\uc6a9 CLI \u00b7 Korean flight search CLI for LLM agents (Naver Flights, Skyscanner)",
-    "id": "Rukkakka/baenggipyo",
-    "language": "Python",
-    "name": "Rukkakka/baenggipyo",
-    "stars": 0,
-    "updated_at": "2026-10-15T12:05:52Z",
-    "url": "https://github.com/Rukkakka/baenggipyo"
-  },
-  {
-    "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
-    "id": "weihuaguo270-ops/react-agent",
-    "language": "Python",
-    "name": "weihuaguo270-ops/react-agent",
-    "stars": 0,
-    "updated_at": "2026-10-15T12:03:00Z",
-    "url": "https://github.com/weihuaguo270-ops/react-agent"
   }
 ]
