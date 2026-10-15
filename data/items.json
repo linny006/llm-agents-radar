@@ -1,12 +1,30 @@
 [
   {
-    "description": "AI-native statistics workbench that runs locally: SPSS/Stata/Excel data with labels, a deterministic statistics engine, ",
-    "id": "damndone/Arboris",
-    "language": "Python",
-    "name": "damndone/Arboris",
-    "stars": 1,
-    "updated_at": "2026-10-15T12:41:34Z",
-    "url": "https://github.com/damndone/Arboris"
+    "description": "Coding agent that plans, changes, tests and reviews, and touches your files only when you approve. Windows, macOS, Linux",
+    "id": "huynvic/albertcode-swe-agent",
+    "language": "Shell",
+    "name": "huynvic/albertcode-swe-agent",
+    "stars": 0,
+    "updated_at": "2026-10-15T12:59:46Z",
+    "url": "https://github.com/huynvic/albertcode-swe-agent"
+  },
+  {
+    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
+    "id": "eshanized/M31A",
+    "language": "Rust",
+    "name": "eshanized/M31A",
+    "stars": 10,
+    "updated_at": "2026-10-15T12:55:06Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "Estrella Bot \u00b7 QQ \u7fa4 AI \u7fa4\u53cb\u673a\u5668\u4eba\u3002\u628a QQ \u5c0f\u53f7\u63a5\u7ed9\u4efb\u610f OpenAI \u517c\u5bb9\u6a21\u578b\uff08\u672c\u673a / DeepSeek / \u667a\u8c31 / \u901a\u4e49\uff09\uff0c\u8ba9 AI \u50cf\u7fa4\u53cb\u4e00\u6837\u63d2\u8bdd\u3001\u63a5\u6897\u3001\u6f5c\u6c34\u3002OneBot v11 + NapCat\uff0c\u96f6\u6784\u5efa",
+    "id": "Canvixel-Eloweny/ai-bot-groupmate",
+    "language": "JavaScript",
+    "name": "Canvixel-Eloweny/ai-bot-groupmate",
+    "stars": 57,
+    "updated_at": "2026-10-15T12:50:59Z",
+    "url": "https://github.com/Canvixel-Eloweny/ai-bot-groupmate"
   },
   {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
@@ -14,8 +32,17 @@
     "language": "Python",
     "name": "genaforvena/mishe-tauftauf",
     "stars": 3,
-    "updated_at": "2026-10-15T12:40:29Z",
+    "updated_at": "2026-10-15T12:49:09Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "AI-native statistics workbench that runs locally: SPSS/Stata/Excel data with labels, a deterministic statistics engine, ",
+    "id": "damndone/Arboris",
+    "language": "Python",
+    "name": "damndone/Arboris",
+    "stars": 1,
+    "updated_at": "2026-10-15T12:41:34Z",
+    "url": "https://github.com/damndone/Arboris"
   },
   {
     "description": "Scrapling \u98ce\u683c\u9690\u8eab\u722c\u866b\u5e93\uff1a\u81ea\u9002\u5e94\u9009\u62e9\u5668 \u00b7 TLS \u6307\u7eb9 HTTP \u00b7 JS \u6e32\u67d3 \u00b7 \u56de\u8c03\u5f0f Spider \u6846\u67b6\uff08\u91cd\u8bd5/robots/\u53bb\u91cd/\u4e2d\u95f4\u4ef6\u7ba1\u9053\uff09\u00b7 JS \u9006\u5411 Agent \u00b7 \u9a8c\u8bc1\u7801\u8bc6\u522b \u00b7 MCP \u670d\u52a1 \u00b7 \u672c\u5730 We",
@@ -95,7 +122,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 2,
-    "updated_at": "2026-10-15T12:23:52Z",
+    "updated_at": "2026-10-15T12:47:16Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -140,7 +167,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-15T12:43:36Z",
+    "updated_at": "2026-10-15T12:57:23Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -194,7 +221,7 @@
     "language": "TypeScript",
     "name": "swoelffel/claw-pilot",
     "stars": 10,
-    "updated_at": "2026-10-15T12:44:30Z",
+    "updated_at": "2026-10-15T12:57:24Z",
     "url": "https://github.com/swoelffel/claw-pilot"
   },
   {
@@ -243,21 +270,12 @@
     "url": "https://github.com/tzur669-lab/whatsapp-assistant"
   },
   {
-    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
-    "id": "eshanized/M31A",
-    "language": "Rust",
-    "name": "eshanized/M31A",
-    "stars": 10,
-    "updated_at": "2026-10-15T11:47:02Z",
-    "url": "https://github.com/eshanized/M31A"
-  },
-  {
     "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
     "id": "uukuguy/capstone",
     "language": "Python",
     "name": "uukuguy/capstone",
     "stars": 0,
-    "updated_at": "2026-10-15T11:41:30Z",
+    "updated_at": "2026-10-15T12:47:58Z",
     "url": "https://github.com/uukuguy/capstone"
   },
   {
@@ -329,7 +347,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 6208,
-    "updated_at": "2026-10-15T11:02:55Z",
+    "updated_at": "2026-10-15T12:56:12Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -355,9 +373,18 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 33306,
+    "stars": 33307,
     "updated_at": "2026-10-15T10:49:49Z",
     "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "Metacognitive extension suite for Pi coding agent - presentation: https://kifirkin.github.io/",
+    "id": "kifirkin/pi-braid",
+    "language": "JavaScript",
+    "name": "kifirkin/pi-braid",
+    "stars": 1,
+    "updated_at": "2026-10-15T10:46:07Z",
+    "url": "https://github.com/kifirkin/pi-braid"
   },
   {
     "description": "A Rust coding agent that writes what you already know in bulk, and what you have not written yet one explained step at a",
@@ -365,7 +392,7 @@
     "language": "Rust",
     "name": "sumiredc/molt",
     "stars": 0,
-    "updated_at": "2026-10-15T10:43:32Z",
+    "updated_at": "2026-10-15T12:56:17Z",
     "url": "https://github.com/sumiredc/molt"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-15T10:02:36Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 246,
-    "updated_at": "2026-10-15T09:50:35Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
-    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
-    "id": "karvidsson/kbots",
-    "language": "Python",
-    "name": "karvidsson/kbots",
-    "stars": 1,
-    "updated_at": "2026-10-15T09:49:04Z",
-    "url": "https://github.com/karvidsson/kbots"
-  },
-  {
-    "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
-    "id": "DylPorter/teledesk",
-    "language": "Python",
-    "name": "DylPorter/teledesk",
-    "stars": 2,
-    "updated_at": "2026-10-15T09:46:04Z",
-    "url": "https://github.com/DylPorter/teledesk"
   }
 ]
