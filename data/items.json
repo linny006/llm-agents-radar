@@ -1,5 +1,14 @@
 [
   {
+    "description": "Gestor ag\u00e9ntico de modelos llm",
+    "id": "bondwell79/hercules",
+    "language": "Python",
+    "name": "bondwell79/hercules",
+    "stars": 0,
+    "updated_at": "2026-10-15T17:21:02Z",
+    "url": "https://github.com/bondwell79/hercules"
+  },
+  {
     "description": "Lean, extended fork of Nous Research's Hermes Agent \u2014 free model suite, connectors, and ~20 perf fixes. Upstream credite",
     "id": "Chensihakniroth/anakot-agent-v1",
     "language": "Python",
@@ -122,7 +131,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-15T17:09:29Z",
+    "updated_at": "2026-10-15T17:29:38Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -220,7 +229,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 6211,
+    "stars": 6212,
     "updated_at": "2026-10-15T16:07:07Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -230,7 +239,7 @@
     "language": "Python",
     "name": "CIRISAI/CIRISAgent",
     "stars": 57,
-    "updated_at": "2026-10-15T16:33:13Z",
+    "updated_at": "2026-10-15T17:26:35Z",
     "url": "https://github.com/CIRISAI/CIRISAgent"
   },
   {
@@ -331,15 +340,6 @@
     "stars": 2,
     "updated_at": "2026-10-15T15:15:31Z",
     "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "Gestor ag\u00e9ntico de modelos llm",
-    "id": "bondwell79/hercules",
-    "language": "Python",
-    "name": "bondwell79/hercules",
-    "stars": 0,
-    "updated_at": "2026-10-15T15:15:23Z",
-    "url": "https://github.com/bondwell79/hercules"
   },
   {
     "description": "AI-powered image generation and chat studio",
