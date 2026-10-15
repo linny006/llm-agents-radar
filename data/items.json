@@ -1,12 +1,48 @@
 [
   {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-15T11:26:44Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
+    "id": "eshanized/M31A",
     "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-15T11:14:24Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
+    "name": "eshanized/M31A",
+    "stars": 10,
+    "updated_at": "2026-10-15T11:26:40Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-10-15T11:26:47Z",
+    "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
+    "description": "\u7535\u5546\u552e\u540e\u5ba2\u670d Agent\uff1aTool Calling + Policy Guard + \u4eba\u5de5\u5ba1\u6279 + \u5e42\u7b49\u6267\u884c + \u53ef\u9a8c\u8bc1\u8bc4\u6d4b",
+    "id": "sjhesjaj/GroundedAgent",
+    "language": "Python",
+    "name": "sjhesjaj/GroundedAgent",
+    "stars": 0,
+    "updated_at": "2026-10-15T11:26:21Z",
+    "url": "https://github.com/sjhesjaj/GroundedAgent"
+  },
+  {
+    "description": "\ub124\uc774\ubc84 \ud56d\uacf5\uad8c\u00b7\uc2a4\uce74\uc774\uc2a4\uce90\ub108\uc5d0\uc11c \uc9c0\uae08 \uc0b4 \uc218 \uc788\ub294 \ud56d\uacf5\uad8c\uc744 \uc870\ud68c\ud558\ub294 LLM \uc5d0\uc774\uc804\ud2b8\uc6a9 CLI \u00b7 Korean flight search CLI for LLM agents (Naver Flights, Skyscanner)",
+    "id": "Rukkakka/baenggipyo",
+    "language": "Python",
+    "name": "Rukkakka/baenggipyo",
+    "stars": 0,
+    "updated_at": "2026-10-15T11:25:37Z",
+    "url": "https://github.com/Rukkakka/baenggipyo"
   },
   {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
@@ -14,8 +50,53 @@
     "language": "Python",
     "name": "genaforvena/mishe-tauftauf",
     "stars": 3,
-    "updated_at": "2026-10-15T11:12:48Z",
+    "updated_at": "2026-10-15T11:25:34Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
+    "id": "uukuguy/capstone",
+    "language": "Python",
+    "name": "uukuguy/capstone",
+    "stars": 0,
+    "updated_at": "2026-10-15T11:24:55Z",
+    "url": "https://github.com/uukuguy/capstone"
+  },
+  {
+    "description": "DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy.",
+    "id": "tara-vision/taracode",
+    "language": "Go",
+    "name": "tara-vision/taracode",
+    "stars": 51,
+    "updated_at": "2026-10-15T11:24:52Z",
+    "url": "https://github.com/tara-vision/taracode"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3602,
+    "updated_at": "2026-10-15T11:25:51Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
+    "description": "Local-first open-source AI coding agent built with Go \u2014 Desktop, CLI, TUI, WebUI, MCP, Skills, multi-agent workflows, an",
+    "id": "konglong87/go-e2e",
+    "language": "Go",
+    "name": "konglong87/go-e2e",
+    "stars": 0,
+    "updated_at": "2026-10-15T11:19:17Z",
+    "url": "https://github.com/konglong87/go-e2e"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-15T11:22:26Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
@@ -72,15 +153,6 @@
     "url": "https://github.com/bondwell79/hercules"
   },
   {
-    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
-    "id": "eshanized/M31A",
-    "language": "Rust",
-    "name": "eshanized/M31A",
-    "stars": 10,
-    "updated_at": "2026-10-15T10:57:35Z",
-    "url": "https://github.com/eshanized/M31A"
-  },
-  {
     "description": "Community DSH host plugin that automatically resumes root-agent sessions after max-token truncation, with bounded retrie",
     "id": "Wepoi9/dsh-max-token-auto-continue",
     "language": "TypeScript",
@@ -94,7 +166,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 33304,
+    "stars": 33305,
     "updated_at": "2026-10-15T10:49:49Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -113,7 +185,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-10-15T11:14:51Z",
+    "updated_at": "2026-10-15T11:15:44Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -122,7 +194,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 43,
-    "updated_at": "2026-10-15T10:34:57Z",
+    "updated_at": "2026-10-15T11:19:43Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -135,21 +207,12 @@
     "url": "https://github.com/donglongjun886/product-review-agent"
   },
   {
-    "description": "Local-first open-source AI coding agent built with Go \u2014 Desktop, CLI, TUI, WebUI, MCP, Skills, multi-agent workflows, an",
-    "id": "konglong87/go-e2e",
-    "language": "Go",
-    "name": "konglong87/go-e2e",
-    "stars": 0,
-    "updated_at": "2026-10-15T10:29:02Z",
-    "url": "https://github.com/konglong87/go-e2e"
-  },
-  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-15T10:37:32Z",
+    "updated_at": "2026-10-15T11:27:18Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -196,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T10:02:36Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-15T10:50:52Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
@@ -394,59 +448,5 @@
     "stars": 15,
     "updated_at": "2026-10-15T08:50:48Z",
     "url": "https://github.com/yurika0211/lucky-agent"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 6207,
-    "updated_at": "2026-10-15T11:02:55Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "A self-hosted Telegram AI bot powered by Ollama, with persistent memory, custom personalities, and real-time streaming.",
-    "id": "Ali-Sdg90/Fabrexa-AI-Ollama",
-    "language": "JavaScript",
-    "name": "Ali-Sdg90/Fabrexa-AI-Ollama",
-    "stars": 0,
-    "updated_at": "2026-10-15T08:47:46Z",
-    "url": "https://github.com/Ali-Sdg90/Fabrexa-AI-Ollama"
-  },
-  {
-    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
-    "id": "agentscope-ai/agentscope-go",
-    "language": "Go",
-    "name": "agentscope-ai/agentscope-go",
-    "stars": 58,
-    "updated_at": "2026-10-15T08:47:57Z",
-    "url": "https://github.com/agentscope-ai/agentscope-go"
-  },
-  {
-    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 49,
-    "updated_at": "2026-10-15T08:45:30Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "Give an LLM agent eyes: index a video once, then answer 'which frame, and where in it' with a region id instead of a coo",
-    "id": "ProfYangShengXu/VeasonHarness",
-    "language": "Python",
-    "name": "ProfYangShengXu/VeasonHarness",
-    "stars": 0,
-    "updated_at": "2026-10-15T08:43:47Z",
-    "url": "https://github.com/ProfYangShengXu/VeasonHarness"
-  },
-  {
-    "description": "DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy.",
-    "id": "tara-vision/taracode",
-    "language": "Go",
-    "name": "tara-vision/taracode",
-    "stars": 51,
-    "updated_at": "2026-10-15T08:42:55Z",
-    "url": "https://github.com/tara-vision/taracode"
   }
 ]
