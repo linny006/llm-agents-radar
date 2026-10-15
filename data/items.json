@@ -1,5 +1,59 @@
 [
   {
+    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 53,
+    "updated_at": "2026-10-15T09:28:22Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "\u6b66\u6c49\u5927\u5b66\u5730\u7a7a\u5b66\u9662 2026 \u5927\u521b\uff1a\u591a\u667a\u80fd\u4f53 AI \u91ce\u5916\u53f0\u7ad9\u7ba1\u7406\u7cfb\u7edf \u2014\u2014 \u76d1\u6d4b/\u8d28\u63a7/\u7814\u5224/\u6d3e\u5355/\u5f52\u6863\u95ed\u73af\u3002LangGraph \u8fd0\u884c\u65f6 \u00b7 MCP \u5de5\u5177\u63a5\u53e3 \u00b7 \u89c4\u5219\u88c1\u51b3 + \u5927\u6a21\u578b\u5f52\u56e0\u3002\u516c\u5f00\u8131\u654f\u4ed3\u5e93",
+    "id": "yasunosubaru/field-station-agent",
+    "language": "Python",
+    "name": "yasunosubaru/field-station-agent",
+    "stars": 0,
+    "updated_at": "2026-10-15T09:27:25Z",
+    "url": "https://github.com/yasunosubaru/field-station-agent"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-15T09:27:25Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "\u4eff Codex \u5b9e\u9a8c\u6027\u4e0a\u4e0b\u6587\u7ba1\u7406\u7684 DeepSeek Harness\uff08dsh\uff09\u63d2\u4ef6\uff1a\u6a21\u578b\u81ea\u8bb0\u68c0\u67e5\u70b9\u7b14\u8bb0\u3001\u5207\u6362\u4e0a\u4e0b\u6587\u7a97\u53e3\u3001\u6309\u9700\u68c0\u7d22\u5386\u53f2\uff0c\u4e0d\u505a\u6458\u8981\u538b\u7f29\u3002",
+    "id": "Zhaoyi-Tian/dsh-context-windows",
+    "language": "TypeScript",
+    "name": "Zhaoyi-Tian/dsh-context-windows",
+    "stars": 0,
+    "updated_at": "2026-10-15T09:24:24Z",
+    "url": "https://github.com/Zhaoyi-Tian/dsh-context-windows"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 12,
+    "updated_at": "2026-10-15T09:19:09Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 820,
+    "updated_at": "2026-10-15T09:16:28Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
     "description": "\u5e93\u5b58\u8865\u8d27\u8bca\u65ad Agent\uff1aLangGraph \u72b6\u6001\u673a + \u786e\u5b9a\u6027\u8865\u8d27\u516c\u5f0f + \u4eba\u5de5\u5ba1\u6279 + \u53d7\u63a7\u6267\u884c\u5668\uff1b\u542b\u8f7d\u4f53\u670d\u52a1\u8fb9\u754c\u3001\u5355\u4ef7\u7ed1\u5b9a\u590d\u68c0\u4e0e\u6279\u91cf\u4e8b\u5b9e\u8bc1\u636e",
     "id": "X-0240/inventory-diagnostic-agent",
     "language": "Python",
@@ -59,26 +113,8 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5835,
-    "updated_at": "2026-10-15T09:11:51Z",
+    "updated_at": "2026-10-15T09:25:46Z",
     "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 53,
-    "updated_at": "2026-10-15T09:00:28Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 12,
-    "updated_at": "2026-10-15T09:09:23Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "\u9762\u5411 AI Agent \u7684\u9879\u76ee\u6cbb\u7406 Skill \u96c6\u5408\uff1a\u5c06\u4ed3\u5e93\u7ed3\u6784\u3001\u7814\u53d1\u5168\u751f\u547d\u5468\u671f\u4ea7\u7269\u3001Agent \u6267\u884c\u8fb9\u754c\u548c\u670d\u52a1\u53d1\u5e03/\u8fd0\u884c\u6761\u4ef6\uff0c\u8f6c\u5316\u4e3a\u53ef\u6267\u884c\u7684\u786e\u5b9a\u6027\u95e8\u7981\u4e0e\u68c0\u67e5\u5668",
@@ -126,13 +162,13 @@
     "url": "https://github.com/karvidsson/kbots"
   },
   {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
     "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-15T08:48:36Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
+    "name": "Mai-with-u/MaiBot",
+    "stars": 6207,
+    "updated_at": "2026-10-15T08:48:14Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "LLM-powered TeamSpeak bot | LLM\u9a71\u52a8\u7684TeamSpeak\u673a\u5668\u4eba",
@@ -140,7 +176,7 @@
     "language": "Rust",
     "name": "Dr1mH4X/TeamSpeakClaw",
     "stars": 6,
-    "updated_at": "2026-10-15T08:48:58Z",
+    "updated_at": "2026-10-15T09:20:39Z",
     "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
   },
   {
@@ -239,7 +275,7 @@
     "language": "Python",
     "name": "njfuzrs/agent-backend",
     "stars": 0,
-    "updated_at": "2026-10-15T08:33:46Z",
+    "updated_at": "2026-10-15T09:23:42Z",
     "url": "https://github.com/njfuzrs/agent-backend"
   },
   {
@@ -365,7 +401,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-15T08:49:16Z",
+    "updated_at": "2026-10-15T09:27:38Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 29,
     "updated_at": "2026-10-15T07:48:30Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "A reusable gateway that AI applications can use for model execution, usage logging, budget enforcement, routing, retries",
-    "id": "rmckayjohnson2021/llm-cost-eval-gateway",
-    "language": "Python",
-    "name": "rmckayjohnson2021/llm-cost-eval-gateway",
-    "stars": 1,
-    "updated_at": "2026-10-15T07:41:29Z",
-    "url": "https://github.com/rmckayjohnson2021/llm-cost-eval-gateway"
-  },
-  {
-    "description": "\u57fa\u4e8e LangGraph \u7684 MES \u4e1a\u52a1\u5206\u6790 Agent\uff5c1 \u79d2\u54cd\u5e94 + MES \u5b9e\u65f6\u96c6\u6210 + \u5b8c\u6574\u5de5\u7a0b\u5316",
-    "id": "Wang-qi-git/langgraph-mes-business-agent",
-    "language": "Python",
-    "name": "Wang-qi-git/langgraph-mes-business-agent",
-    "stars": 1,
-    "updated_at": "2026-10-15T07:37:59Z",
-    "url": "https://github.com/Wang-qi-git/langgraph-mes-business-agent"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 33296,
-    "updated_at": "2026-10-15T07:36:05Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "TypeScript",
-    "name": "dsswift/ion",
-    "stars": 4,
-    "updated_at": "2026-10-15T07:34:41Z",
-    "url": "https://github.com/dsswift/ion"
   }
 ]
