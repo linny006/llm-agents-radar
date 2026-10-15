@@ -1,5 +1,59 @@
 [
   {
+    "description": "Local-first open-source AI coding agent built with Go \u2014 Desktop, CLI, TUI, WebUI, MCP, Skills, multi-agent workflows, an",
+    "id": "konglong87/go-e2e",
+    "language": "Go",
+    "name": "konglong87/go-e2e",
+    "stars": 0,
+    "updated_at": "2026-10-15T09:52:05Z",
+    "url": "https://github.com/konglong87/go-e2e"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-15T09:50:12Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
+    "id": "karvidsson/kbots",
+    "language": "Python",
+    "name": "karvidsson/kbots",
+    "stars": 1,
+    "updated_at": "2026-10-15T09:49:04Z",
+    "url": "https://github.com/karvidsson/kbots"
+  },
+  {
+    "description": "An autonomous treasury agent for a small business, settled in USDC on Arc. Screens counterparties, pays invoices under e",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-15T09:49:44Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 53,
+    "updated_at": "2026-10-15T09:46:53Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
+    "id": "DylPorter/teledesk",
+    "language": "Python",
+    "name": "DylPorter/teledesk",
+    "stars": 1,
+    "updated_at": "2026-10-15T09:46:04Z",
+    "url": "https://github.com/DylPorter/teledesk"
+  },
+  {
     "description": "LLM-powered TeamSpeak bot | LLM\u9a71\u52a8\u7684TeamSpeak\u673a\u5668\u4eba",
     "id": "Dr1mH4X/TeamSpeakClaw",
     "language": "Rust",
@@ -7,15 +61,6 @@
     "stars": 6,
     "updated_at": "2026-10-15T09:44:56Z",
     "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
-  },
-  {
-    "description": "Local-first open-source AI coding agent built with Go \u2014 Desktop, CLI, TUI, WebUI, MCP, Skills, multi-agent workflows, an",
-    "id": "konglong87/go-e2e",
-    "language": "Go",
-    "name": "konglong87/go-e2e",
-    "stars": 0,
-    "updated_at": "2026-10-15T09:42:44Z",
-    "url": "https://github.com/konglong87/go-e2e"
   },
   {
     "description": "\ud83e\udd16 Agent Skill \u4f18\u5148\uff1a\u57fa\u4e8e\u539f\u751f\u591a\u6a21\u6001 MiniCPM v4.7 \u4e0e\u53ef\u63d2\u62d4 ASR\uff08faster-whisper / FunASR / \u4e91\u7aef API / MiMo\uff09\uff0c\u4e00\u53e5\u81ea\u7136\u8bed\u8a00\u628a\u89c6\u9891\u53d8\u6210\u5e26\u65f6\u95f4\u6233\u5b57\u5e55\u3001\u77e5\u8bc6\u6587\u6863\u3001\u56fe\u6587\u7b14\u8bb0\u4e0e Ank",
@@ -43,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T09:44:05Z",
     "url": "https://github.com/bitranox/vnc-remote-control"
-  },
-  {
-    "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
-    "id": "DylPorter/teledesk",
-    "language": "Python",
-    "name": "DylPorter/teledesk",
-    "stars": 1,
-    "updated_at": "2026-10-15T09:35:00Z",
-    "url": "https://github.com/DylPorter/teledesk"
   },
   {
     "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
@@ -88,24 +124,6 @@
     "stars": 7,
     "updated_at": "2026-10-15T09:32:09Z",
     "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
-  },
-  {
-    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 53,
-    "updated_at": "2026-10-15T09:31:16Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-15T09:27:25Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "\u4eff Codex \u5b9e\u9a8c\u6027\u4e0a\u4e0b\u6587\u7ba1\u7406\u7684 DeepSeek Harness\uff08dsh\uff09\u63d2\u4ef6\uff1a\u6a21\u578b\u81ea\u8bb0\u68c0\u67e5\u70b9\u7b14\u8bb0\u3001\u5207\u6362\u4e0a\u4e0b\u6587\u7a97\u53e3\u3001\u6309\u9700\u68c0\u7d22\u5386\u53f2\uff0c\u4e0d\u505a\u6458\u8981\u538b\u7f29\u3002",
@@ -185,7 +203,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5835,
-    "updated_at": "2026-10-15T09:25:46Z",
+    "updated_at": "2026-10-15T09:49:58Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -225,15 +243,6 @@
     "url": "https://github.com/yurika0211/lucky-agent"
   },
   {
-    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
-    "id": "karvidsson/kbots",
-    "language": "Python",
-    "name": "karvidsson/kbots",
-    "stars": 1,
-    "updated_at": "2026-10-15T09:44:07Z",
-    "url": "https://github.com/karvidsson/kbots"
-  },
-  {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
@@ -266,7 +275,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 43,
-    "updated_at": "2026-10-15T08:47:27Z",
+    "updated_at": "2026-10-15T09:54:30Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -302,7 +311,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-15T09:43:42Z",
+    "updated_at": "2026-10-15T09:53:46Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -347,7 +356,7 @@
     "language": "Python",
     "name": "damndone/Arboris",
     "stars": 1,
-    "updated_at": "2026-10-15T08:23:34Z",
+    "updated_at": "2026-10-15T09:50:47Z",
     "url": "https://github.com/damndone/Arboris"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-15T07:58:39Z",
     "url": "https://github.com/JialuXu/risk-feature-toolkit"
-  },
-  {
-    "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
-    "id": "Shuffle-1992/dsh-context-pilot",
-    "language": "JavaScript",
-    "name": "Shuffle-1992/dsh-context-pilot",
-    "stars": 2,
-    "updated_at": "2026-10-15T07:52:56Z",
-    "url": "https://github.com/Shuffle-1992/dsh-context-pilot"
   }
 ]
