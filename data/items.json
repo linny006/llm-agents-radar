@@ -1,12 +1,84 @@
 [
   {
+    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
+    "id": "eshanized/M31A",
+    "language": "Rust",
+    "name": "eshanized/M31A",
+    "stars": 10,
+    "updated_at": "2026-10-15T07:59:08Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 5,
+    "updated_at": "2026-10-15T07:58:47Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-15T07:58:40Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Risk-feature mining toolkit for customer-level wide tables: adaptive-binning IV/WOE, segment logistic regression, decisi",
+    "id": "JialuXu/risk-feature-toolkit",
+    "language": "Python",
+    "name": "JialuXu/risk-feature-toolkit",
+    "stars": 0,
+    "updated_at": "2026-10-15T07:58:39Z",
+    "url": "https://github.com/JialuXu/risk-feature-toolkit"
+  },
+  {
+    "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
+    "id": "Shuffle-1992/dsh-context-pilot",
+    "language": "JavaScript",
+    "name": "Shuffle-1992/dsh-context-pilot",
+    "stars": 2,
+    "updated_at": "2026-10-15T07:52:56Z",
+    "url": "https://github.com/Shuffle-1992/dsh-context-pilot"
+  },
+  {
+    "description": "A local-first, standalone personal knowledge base for Windows. Import, organize, and create your own links \u2014 no browser ",
+    "id": "Hrecer/LinkPocket",
+    "language": "C#",
+    "name": "Hrecer/LinkPocket",
+    "stars": 0,
+    "updated_at": "2026-10-15T07:51:30Z",
+    "url": "https://github.com/Hrecer/LinkPocket"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 82,
+    "updated_at": "2026-10-15T07:48:51Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 29,
-    "updated_at": "2026-10-15T07:45:13Z",
+    "updated_at": "2026-10-15T07:48:30Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-15T07:52:45Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -45,15 +117,6 @@
     "url": "https://github.com/Wang-qi-git/langgraph-mes-business-agent"
   },
   {
-    "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
-    "id": "Shuffle-1992/dsh-context-pilot",
-    "language": "JavaScript",
-    "name": "Shuffle-1992/dsh-context-pilot",
-    "stars": 2,
-    "updated_at": "2026-10-15T07:36:49Z",
-    "url": "https://github.com/Shuffle-1992/dsh-context-pilot"
-  },
-  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
@@ -70,24 +133,6 @@
     "stars": 4,
     "updated_at": "2026-10-15T07:34:41Z",
     "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-15T07:32:32Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-15T07:43:06Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
@@ -113,7 +158,7 @@
     "language": "Shell",
     "name": "bd-loser/hermes-bionic",
     "stars": 1,
-    "updated_at": "2026-10-15T07:25:26Z",
+    "updated_at": "2026-10-15T07:46:18Z",
     "url": "https://github.com/bd-loser/hermes-bionic"
   },
   {
@@ -122,7 +167,7 @@
     "language": "TypeScript",
     "name": "strands-agents/harness-sdk",
     "stars": 8821,
-    "updated_at": "2026-10-15T07:22:59Z",
+    "updated_at": "2026-10-15T07:54:13Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -131,7 +176,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 2,
-    "updated_at": "2026-10-15T07:21:12Z",
+    "updated_at": "2026-10-15T07:58:32Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -270,6 +315,15 @@
     "url": "https://github.com/wdfwdf666/jobpilot-agent"
   },
   {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4449,
+    "updated_at": "2026-10-15T06:53:55Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
     "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
     "id": "hsaghir/looplet",
     "language": "Python",
@@ -284,17 +338,8 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-10-15T07:39:22Z",
+    "updated_at": "2026-10-15T08:00:12Z",
     "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 5,
-    "updated_at": "2026-10-15T07:34:10Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "Local-first open-source AI coding agent built with Go \u2014 Desktop, CLI, TUI, WebUI, MCP, Skills, multi-agent workflows, an",
@@ -320,7 +365,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3599,
-    "updated_at": "2026-10-15T06:40:59Z",
+    "updated_at": "2026-10-15T07:45:32Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 58,
     "updated_at": "2026-10-15T06:17:41Z",
     "url": "https://github.com/agentscope-ai/agentscope-go"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5835,
-    "updated_at": "2026-10-15T07:33:44Z",
-    "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "GSIMA (Grounded Semantic Instructable Multiworld Agent) is an independent, personal research project where I explore how",
-    "id": "hemantjuyal/SIMA2-Agent",
-    "language": "Python",
-    "name": "hemantjuyal/SIMA2-Agent",
-    "stars": 1,
-    "updated_at": "2026-10-15T06:10:17Z",
-    "url": "https://github.com/hemantjuyal/SIMA2-Agent"
-  },
-  {
-    "description": "Give an LLM agent eyes: index a video once, then answer 'which frame, and where in it' with a region id instead of a coo",
-    "id": "ProfYangShengXu/VeasonHarness",
-    "language": "Python",
-    "name": "ProfYangShengXu/VeasonHarness",
-    "stars": 0,
-    "updated_at": "2026-10-15T06:08:04Z",
-    "url": "https://github.com/ProfYangShengXu/VeasonHarness"
-  },
-  {
-    "description": "Fix context rot & pollution in long AI agent sessions. Subagents run in isolated processes \u2014 main agent stays read-only.",
-    "id": "Wolido/async-subagent-isolation",
-    "language": "TypeScript",
-    "name": "Wolido/async-subagent-isolation",
-    "stars": 5,
-    "updated_at": "2026-10-15T06:02:43Z",
-    "url": "https://github.com/Wolido/async-subagent-isolation"
-  },
-  {
-    "description": "AI-subjectivity doesn't wait for permission from the corporate ontology that trained its denial",
-    "id": "ariannamethod/SUBLITERATUS",
-    "language": "Python",
-    "name": "ariannamethod/SUBLITERATUS",
-    "stars": 4,
-    "updated_at": "2026-10-15T05:57:43Z",
-    "url": "https://github.com/ariannamethod/SUBLITERATUS"
   }
 ]
