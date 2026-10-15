@@ -1,11 +1,38 @@
 [
   {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 6,
+    "updated_at": "2026-10-15T23:42:53Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "Make any agent harness token-native.",
+    "id": "Lawhy/tokin",
+    "language": "Python",
+    "name": "Lawhy/tokin",
+    "stars": 5,
+    "updated_at": "2026-10-15T23:33:35Z",
+    "url": "https://github.com/Lawhy/tokin"
+  },
+  {
+    "description": "\uac70\uc2dc \u2192 \uc0b0\uc5c5 \uc0ac\uc774\ud074 \u2192 \ud14c\ub9c8 \u2192 \uc885\ubaa9 \u2192 \ud3ec\ud2b8\ud3f4\ub9ac\uc624 \ud558\ud5a5\uc2dd \ub9ac\uc11c\uce58 \ud30c\uc774\ud504\ub77c\uc778. \uc78a\ud600\uc9c4 \uc139\ud130\uc758 \uc0ac\uc774\ud074 \uc800\uc810\uc744 \ucc3e\uace0, \uac00\uce58\ud568\uc815\uacfc \uac00\ub974\uace0, \ube44\uc911\u00b7\ubb3c\ud0c0\uae30 \uc0ac\ub2e4\ub9ac\u00b72\ub2e8 \uc2a4\ud0d1\u00b7TP \uae4c\uc9c0 \uacc4\ud68d\ud55c\ub2e4 \u00b7 US top-down se",
+    "id": "younghwan91/macro-sector-agent",
+    "language": "Python",
+    "name": "younghwan91/macro-sector-agent",
+    "stars": 0,
+    "updated_at": "2026-10-15T23:32:30Z",
+    "url": "https://github.com/younghwan91/macro-sector-agent"
+  },
+  {
     "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
     "id": "yologdev/yoagent",
     "language": "Rust",
     "name": "yologdev/yoagent",
     "stars": 359,
-    "updated_at": "2026-10-15T23:29:57Z",
+    "updated_at": "2026-10-15T23:42:16Z",
     "url": "https://github.com/yologdev/yoagent"
   },
   {
@@ -16,15 +43,6 @@
     "stars": 3,
     "updated_at": "2026-10-15T23:29:15Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
-    "description": "Make any agent harness token-native.",
-    "id": "Lawhy/tokin",
-    "language": "Python",
-    "name": "Lawhy/tokin",
-    "stars": 5,
-    "updated_at": "2026-10-15T23:27:47Z",
-    "url": "https://github.com/Lawhy/tokin"
   },
   {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
@@ -41,7 +59,7 @@
     "language": "Rust",
     "name": "bigfish1913/pi-rust",
     "stars": 106,
-    "updated_at": "2026-10-15T23:21:22Z",
+    "updated_at": "2026-10-15T23:43:35Z",
     "url": "https://github.com/bigfish1913/pi-rust"
   },
   {
@@ -50,7 +68,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-15T23:22:02Z",
+    "updated_at": "2026-10-15T23:38:25Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -68,7 +86,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4450,
-    "updated_at": "2026-10-15T23:15:04Z",
+    "updated_at": "2026-10-15T23:40:50Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 29,
     "updated_at": "2026-10-15T19:45:18Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Python and LangGraph agent that runs once per trading day over a fixed watchlist of US stocks and ETFs, combines price a",
-    "id": "DominikSienkiewicz/StockAgent",
-    "language": "Python",
-    "name": "DominikSienkiewicz/StockAgent",
-    "stars": 1,
-    "updated_at": "2026-10-15T19:45:02Z",
-    "url": "https://github.com/DominikSienkiewicz/StockAgent"
-  },
-  {
-    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
-    "id": "olsson205/CodeJury",
-    "language": "Python",
-    "name": "olsson205/CodeJury",
-    "stars": 0,
-    "updated_at": "2026-10-15T19:24:34Z",
-    "url": "https://github.com/olsson205/CodeJury"
   }
 ]
