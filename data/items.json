@@ -1,12 +1,102 @@
 [
   {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-15T21:43:39Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
+    "id": "KaletoAI/anima-verse",
+    "language": "Python",
+    "name": "KaletoAI/anima-verse",
+    "stars": 4,
+    "updated_at": "2026-10-15T21:41:50Z",
+    "url": "https://github.com/KaletoAI/anima-verse"
+  },
+  {
+    "description": "\ud83d\udc34 WormAgent \u2014 smart Telegram agent. One-line install. RECON \u00b7 EXPLOIT \u00b7 BYPASS \u00b7 OWN.",
+    "id": "BlackXV2vip/wormagent",
+    "language": "HTML",
+    "name": "BlackXV2vip/wormagent",
+    "stars": 0,
+    "updated_at": "2026-10-15T21:41:28Z",
+    "url": "https://github.com/BlackXV2vip/wormagent"
+  },
+  {
     "description": "CIRIS: an open-source AI assistant with a conscience you can check. Signed, auditable reasoning on every decision, a hum",
     "id": "CIRISAI/CIRISAgent",
     "language": "Python",
     "name": "CIRISAI/CIRISAgent",
     "stars": 57,
-    "updated_at": "2026-10-15T21:28:43Z",
+    "updated_at": "2026-10-15T21:40:50Z",
     "url": "https://github.com/CIRISAI/CIRISAgent"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4450,
+    "updated_at": "2026-10-15T21:42:53Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Lean, extended fork of Nous Research's Hermes Agent \u2014 free model suite, connectors, and ~20 perf fixes. Upstream credite",
+    "id": "Chensihakniroth/anakot-agent-v1",
+    "language": "Python",
+    "name": "Chensihakniroth/anakot-agent-v1",
+    "stars": 0,
+    "updated_at": "2026-10-15T21:41:28Z",
+    "url": "https://github.com/Chensihakniroth/anakot-agent-v1"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-15T21:44:08Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "AI-powered pathology assistant for White Blood Cell classification, featuring a custom lightweight DenseNet121 architect",
+    "id": "yildirimemirhan/wbc-analyzer",
+    "language": "Jupyter Notebook",
+    "name": "yildirimemirhan/wbc-analyzer",
+    "stars": 0,
+    "updated_at": "2026-10-15T21:37:46Z",
+    "url": "https://github.com/yildirimemirhan/wbc-analyzer"
+  },
+  {
+    "description": "Make any agent harness token-native.",
+    "id": "Lawhy/tokin",
+    "language": "Python",
+    "name": "Lawhy/tokin",
+    "stars": 5,
+    "updated_at": "2026-10-15T21:35:53Z",
+    "url": "https://github.com/Lawhy/tokin"
+  },
+  {
+    "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
+    "id": "cheeezis/job_finder",
+    "language": "Python",
+    "name": "cheeezis/job_finder",
+    "stars": 0,
+    "updated_at": "2026-10-15T21:33:45Z",
+    "url": "https://github.com/cheeezis/job_finder"
+  },
+  {
+    "description": "A local-first AI companion for Windows: it remembers you, dreams over your day at night, follows up on what matters and ",
+    "id": "b7216309-jpg/little-bot",
+    "language": "JavaScript",
+    "name": "b7216309-jpg/little-bot",
+    "stars": 0,
+    "updated_at": "2026-10-15T21:33:38Z",
+    "url": "https://github.com/b7216309-jpg/little-bot"
   },
   {
     "description": "Coding agent CLI for local and hosted models, designed around small local models first",
@@ -16,15 +106,6 @@
     "stars": 9,
     "updated_at": "2026-10-15T21:25:09Z",
     "url": "https://github.com/alexwkleung/reika"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-15T21:23:39Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter",
@@ -77,7 +158,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-15T21:26:56Z",
+    "updated_at": "2026-10-15T21:40:32Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -88,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-10-15T21:06:27Z",
     "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-15T21:27:49Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "AI-powered LAN reconnaissance & red team agent for iPhone. On-device AI agent with code-enforced scope, risk, approval a",
@@ -126,30 +198,12 @@
     "url": "https://github.com/plurnk/plurnk"
   },
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4450,
-    "updated_at": "2026-10-15T21:30:01Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "\ud83d\udc34 WormAgent \u2014 smart Telegram agent. One-line install. RECON \u00b7 EXPLOIT \u00b7 BYPASS \u00b7 OWN.",
-    "id": "BlackXV2vip/wormagent",
-    "language": "HTML",
-    "name": "BlackXV2vip/wormagent",
-    "stars": 0,
-    "updated_at": "2026-10-15T20:52:41Z",
-    "url": "https://github.com/BlackXV2vip/wormagent"
-  },
-  {
     "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 12,
-    "updated_at": "2026-10-15T20:46:46Z",
+    "updated_at": "2026-10-15T21:39:33Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -158,7 +212,7 @@
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 49,
-    "updated_at": "2026-10-15T21:29:17Z",
+    "updated_at": "2026-10-15T21:42:24Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
@@ -214,24 +268,6 @@
     "stars": 3,
     "updated_at": "2026-10-15T20:17:17Z",
     "url": "https://github.com/xhqing/DayTradingAgent"
-  },
-  {
-    "description": "AI-powered pathology assistant for White Blood Cell classification, featuring a custom lightweight DenseNet121 architect",
-    "id": "yildirimemirhan/wbc-analyzer",
-    "language": "Jupyter Notebook",
-    "name": "yildirimemirhan/wbc-analyzer",
-    "stars": 0,
-    "updated_at": "2026-10-15T20:14:26Z",
-    "url": "https://github.com/yildirimemirhan/wbc-analyzer"
-  },
-  {
-    "description": "Lean, extended fork of Nous Research's Hermes Agent \u2014 free model suite, connectors, and ~20 perf fixes. Upstream credite",
-    "id": "Chensihakniroth/anakot-agent-v1",
-    "language": "Python",
-    "name": "Chensihakniroth/anakot-agent-v1",
-    "stars": 0,
-    "updated_at": "2026-10-15T20:02:36Z",
-    "url": "https://github.com/Chensihakniroth/anakot-agent-v1"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -342,15 +378,6 @@
     "url": "https://github.com/IAmNo1Special/mvgeos"
   },
   {
-    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
-    "id": "KaletoAI/anima-verse",
-    "language": "Python",
-    "name": "KaletoAI/anima-verse",
-    "stars": 4,
-    "updated_at": "2026-10-15T18:45:09Z",
-    "url": "https://github.com/KaletoAI/anima-verse"
-  },
-  {
     "description": "AI-subjectivity doesn't wait for permission from the corporate ontology that trained its denial",
     "id": "ariannamethod/SUBLITERATUS",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-15T18:25:31Z",
     "url": "https://github.com/rainer570/CodeJury"
-  },
-  {
-    "description": "AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter",
-    "id": "michael5813/Upwork-AI-jobs-applier",
-    "language": "Python",
-    "name": "michael5813/Upwork-AI-jobs-applier",
-    "stars": 0,
-    "updated_at": "2026-10-15T18:23:10Z",
-    "url": "https://github.com/michael5813/Upwork-AI-jobs-applier"
-  },
-  {
-    "description": "Hermes Agent on Termux (Android): one-command install from prebuilt, checksum-verified Python wheels. No compiling on yo",
-    "id": "bd-loser/hermes-bionic",
-    "language": "Shell",
-    "name": "bd-loser/hermes-bionic",
-    "stars": 1,
-    "updated_at": "2026-10-15T18:38:29Z",
-    "url": "https://github.com/bd-loser/hermes-bionic"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 131,
-    "updated_at": "2026-10-15T18:09:11Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
   }
 ]
