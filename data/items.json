@@ -1,5 +1,68 @@
 [
   {
+    "description": "\ud83d\udc27 is currently a work in progress... Stay tuned! ",
+    "id": "Maximooch/penguin",
+    "language": "Python",
+    "name": "Maximooch/penguin",
+    "stars": 6,
+    "updated_at": "2026-10-16T18:30:09Z",
+    "url": "https://github.com/Maximooch/penguin"
+  },
+  {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 5,
+    "updated_at": "2026-10-16T18:28:15Z",
+    "url": "https://github.com/plurnk/plurnk"
+  },
+  {
+    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
+    "id": "uukuguy/capstone",
+    "language": "Python",
+    "name": "uukuguy/capstone",
+    "stars": 0,
+    "updated_at": "2026-10-16T18:29:33Z",
+    "url": "https://github.com/uukuguy/capstone"
+  },
+  {
+    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
+    "id": "watchcat/scout",
+    "language": "Rust",
+    "name": "watchcat/scout",
+    "stars": 0,
+    "updated_at": "2026-10-16T18:27:47Z",
+    "url": "https://github.com/watchcat/scout"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-10-16T18:26:25Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-16T18:26:00Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "\u975e\u5e38\u8be6\u7ec6\u7684\u5927\u6a21\u578bLLM\u7684\u5b66\u4e60\u6559\u7a0b\u4e0e\u7b14\u8bb0",
+    "id": "Foster3838/LLM_book",
+    "language": "Python",
+    "name": "Foster3838/LLM_book",
+    "stars": 0,
+    "updated_at": "2026-10-16T18:15:45Z",
+    "url": "https://github.com/Foster3838/LLM_book"
+  },
+  {
     "description": "PortableLM \u2014 Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe",
     "id": "tqqcrutful/PrivatePixelPrompt",
     "language": "HTML",
@@ -23,7 +86,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-16T18:12:08Z",
+    "updated_at": "2026-10-16T18:20:11Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -52,15 +115,6 @@
     "stars": 29,
     "updated_at": "2026-10-16T18:01:48Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
-    "id": "watchcat/scout",
-    "language": "Rust",
-    "name": "watchcat/scout",
-    "stars": 0,
-    "updated_at": "2026-10-16T18:01:39Z",
-    "url": "https://github.com/watchcat/scout"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -95,7 +149,7 @@
     "language": "\u2014",
     "name": "santoshshinde2012/deck-smith-local",
     "stars": 0,
-    "updated_at": "2026-10-16T17:46:21Z",
+    "updated_at": "2026-10-16T18:28:52Z",
     "url": "https://github.com/santoshshinde2012/deck-smith-local"
   },
   {
@@ -122,7 +176,7 @@
     "language": "Python",
     "name": "hsaghir/looplet",
     "stars": 7,
-    "updated_at": "2026-10-16T17:39:55Z",
+    "updated_at": "2026-10-16T18:25:08Z",
     "url": "https://github.com/hsaghir/looplet"
   },
   {
@@ -221,7 +275,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-16T18:15:15Z",
+    "updated_at": "2026-10-16T18:23:02Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -248,17 +302,8 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 46,
-    "updated_at": "2026-10-16T18:01:36Z",
+    "updated_at": "2026-10-16T18:27:55Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
-  },
-  {
-    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
-    "id": "uukuguy/capstone",
-    "language": "Python",
-    "name": "uukuguy/capstone",
-    "stars": 0,
-    "updated_at": "2026-10-16T18:14:33Z",
-    "url": "https://github.com/uukuguy/capstone"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -266,7 +311,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4451,
-    "updated_at": "2026-10-16T16:27:20Z",
+    "updated_at": "2026-10-16T18:15:31Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -351,15 +396,6 @@
     "url": "https://github.com/yasunosubaru/field-station-agent"
   },
   {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-16T15:37:33Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "Skills, subagents, commands, and tech conventions for opencode \u2014 one harness, no fragmentation.",
     "id": "kulapoo/opencode-agent-harness",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-16T14:55:44Z",
     "url": "https://github.com/906491213/writing-turtle-soup"
-  },
-  {
-    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
-    "id": "plurnk/plurnk",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk",
-    "stars": 5,
-    "updated_at": "2026-10-16T14:54:19Z",
-    "url": "https://github.com/plurnk/plurnk"
-  },
-  {
-    "description": "Minimal surface, complete architecture: a small, local-first coding-agent harness that re-derives the invariants of Deep",
-    "id": "earthwalker17/MiniDSH",
-    "language": "TypeScript",
-    "name": "earthwalker17/MiniDSH",
-    "stars": 13,
-    "updated_at": "2026-10-16T14:53:46Z",
-    "url": "https://github.com/earthwalker17/MiniDSH"
-  },
-  {
-    "description": "Trace token use and delivery exceptions in a Go media streaming agent.",
-    "id": "Kaelvyn47/media-agent-delivery-trace",
-    "language": "Go",
-    "name": "Kaelvyn47/media-agent-delivery-trace",
-    "stars": 0,
-    "updated_at": "2026-10-16T14:52:26Z",
-    "url": "https://github.com/Kaelvyn47/media-agent-delivery-trace"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 2,
-    "updated_at": "2026-10-16T14:49:42Z",
-    "url": "https://github.com/b-macker/NAAb"
   }
 ]
