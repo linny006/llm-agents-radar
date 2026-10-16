@@ -1,12 +1,75 @@
 [
   {
+    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
+    "id": "uukuguy/capstone",
+    "language": "Python",
+    "name": "uukuguy/capstone",
+    "stars": 0,
+    "updated_at": "2026-10-16T13:29:57Z",
+    "url": "https://github.com/uukuguy/capstone"
+  },
+  {
     "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
     "id": "brutal-45/Nexus-LLM",
     "language": "Python",
     "name": "brutal-45/Nexus-LLM",
     "stars": 0,
-    "updated_at": "2026-10-16T13:13:14Z",
+    "updated_at": "2026-10-16T13:28:18Z",
     "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "\u4fe1\u606f\u91c7\u96c6\u88c5\u7f6e\u667a\u80fd\u8fd0\u7ef4 Agent \u7cfb\u7edf\uff1a\u7528 OpenSpec \u89c4\u683c\u9a71\u52a8\uff0c\u4ece\u544a\u8b66\u63a5\u5165\u5230\u8bca\u65ad\u62a5\u544a\u7684\u5b8c\u6574\u94fe\u8def\u3002",
+    "id": "hl7321/aiops-agent-reproduction",
+    "language": "Python",
+    "name": "hl7321/aiops-agent-reproduction",
+    "stars": 1,
+    "updated_at": "2026-10-16T13:27:44Z",
+    "url": "https://github.com/hl7321/aiops-agent-reproduction"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-16T13:29:43Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-16T13:23:10Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-10-16T13:21:22Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 361,
+    "updated_at": "2026-10-16T13:20:59Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
+    "description": "Agent \u81ea\u52a8\u6d4b\u8bd5\u7cfb\u7edf\uff1aLangGraph + LLM \u7f16\u6392\u7684 API/Web UI \u81ea\u52a8\u5316\u6d4b\u8bd5\uff0c\u4ece OpenAPI \u5951\u7ea6\u751f\u6210\u7528\u4f8b\u3001\u6267\u884c\u6d4b\u8bd5\u3001\u81ea\u52a8\u91cd\u8bd5\u4e0e\u7f3a\u9677\u5f52\u56e0\uff0c\u4ea7\u51fa\u53ef\u89c6\u5316\u62a5\u544a",
+    "id": "lefan17/agent-test-hub",
+    "language": "Python",
+    "name": "lefan17/agent-test-hub",
+    "stars": 2,
+    "updated_at": "2026-10-16T13:16:16Z",
+    "url": "https://github.com/lefan17/agent-test-hub"
   },
   {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
@@ -49,18 +112,9 @@
     "id": "NitinReddy-A/Rampart",
     "language": "Python",
     "name": "NitinReddy-A/Rampart",
-    "stars": 7,
+    "stars": 8,
     "updated_at": "2026-10-16T13:11:20Z",
     "url": "https://github.com/NitinReddy-A/Rampart"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-16T13:10:06Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
@@ -113,17 +167,8 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-16T13:01:29Z",
+    "updated_at": "2026-10-16T13:16:41Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Agent \u81ea\u52a8\u6d4b\u8bd5\u7cfb\u7edf\uff1aLangGraph + LLM \u7f16\u6392\u7684 API/Web UI \u81ea\u52a8\u5316\u6d4b\u8bd5\uff0c\u4ece OpenAPI \u5951\u7ea6\u751f\u6210\u7528\u4f8b\u3001\u6267\u884c\u6d4b\u8bd5\u3001\u81ea\u52a8\u91cd\u8bd5\u4e0e\u7f3a\u9677\u5f52\u56e0\uff0c\u4ea7\u51fa\u53ef\u89c6\u5316\u62a5\u544a",
-    "id": "lefan17/agent-test-hub",
-    "language": "Python",
-    "name": "lefan17/agent-test-hub",
-    "stars": 2,
-    "updated_at": "2026-10-16T13:00:55Z",
-    "url": "https://github.com/lefan17/agent-test-hub"
   },
   {
     "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
@@ -180,15 +225,6 @@
     "url": "https://github.com/Shuffle-1992/dsh-dispatch"
   },
   {
-    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
-    "id": "uukuguy/capstone",
-    "language": "Python",
-    "name": "uukuguy/capstone",
-    "stars": 0,
-    "updated_at": "2026-10-16T12:44:27Z",
-    "url": "https://github.com/uukuguy/capstone"
-  },
-  {
     "description": "Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by ",
     "id": "Samantha3782/DM-Code-Agent",
     "language": "Python",
@@ -207,15 +243,6 @@
     "url": "https://github.com/beatrizrenard/CodeJury"
   },
   {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-16T13:09:50Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
     "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
@@ -223,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T12:32:17Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 361,
-    "updated_at": "2026-10-16T13:11:17Z",
-    "url": "https://github.com/yologdev/yoagent"
   },
   {
     "description": "ReAct Agent with persistent short-term memory, entity tracking and anaphora resolution - handles follow-ups like \"what a",
@@ -428,25 +446,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 46,
-    "updated_at": "2026-10-16T11:27:21Z",
+    "updated_at": "2026-10-16T13:22:37Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
-  },
-  {
-    "description": "An AI red-team agent for authorized labs and web app pentesting workflows. Turns Claude Code / OpenCode / Codex into a s",
-    "id": "djimenez624/RedteamAgent",
-    "language": "Python",
-    "name": "djimenez624/RedteamAgent",
-    "stars": 0,
-    "updated_at": "2026-10-16T11:22:14Z",
-    "url": "https://github.com/djimenez624/RedteamAgent"
-  },
-  {
-    "description": "LangGraph agent for a credit analyst: scores an applicant and answers from policy documents, with a check that every num",
-    "id": "nomatterwhoisthat/credit-policy-agent",
-    "language": "Python",
-    "name": "nomatterwhoisthat/credit-policy-agent",
-    "stars": 0,
-    "updated_at": "2026-10-16T11:21:53Z",
-    "url": "https://github.com/nomatterwhoisthat/credit-policy-agent"
   }
 ]
