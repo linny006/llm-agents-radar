@@ -1,12 +1,48 @@
 [
   {
+    "description": "Python SDK for durable AI agents: survive crashes, pause for human approval at no cost, scale from a script to a multi-h",
+    "id": "initxy/noeta",
+    "language": "Python",
+    "name": "initxy/noeta",
+    "stars": 10,
+    "updated_at": "2026-10-16T02:44:45Z",
+    "url": "https://github.com/initxy/noeta"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 29,
-    "updated_at": "2026-10-16T02:29:50Z",
+    "updated_at": "2026-10-16T02:39:30Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-10-16T02:34:07Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
+    "id": "wq19901103wq/wechat-mac-rpa",
+    "language": "Python",
+    "name": "wq19901103wq/wechat-mac-rpa",
+    "stars": 122,
+    "updated_at": "2026-10-16T02:32:26Z",
+    "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "TypeScript",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8829,
+    "updated_at": "2026-10-16T02:31:32Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
@@ -25,6 +61,15 @@
     "stars": 3,
     "updated_at": "2026-10-16T02:26:51Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Open spec and CLI (MIT) for AI agent identity and agent-to-agent messaging. Runs with npx.",
+    "id": "5dive-ai/openagent",
+    "language": "JavaScript",
+    "name": "5dive-ai/openagent",
+    "stars": 2,
+    "updated_at": "2026-10-16T02:26:33Z",
+    "url": "https://github.com/5dive-ai/openagent"
   },
   {
     "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
@@ -95,7 +140,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5835,
-    "updated_at": "2026-10-16T02:15:58Z",
+    "updated_at": "2026-10-16T02:36:53Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -104,7 +149,7 @@
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 49,
-    "updated_at": "2026-10-16T02:13:40Z",
+    "updated_at": "2026-10-16T02:43:46Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
@@ -153,15 +198,6 @@
     "url": "https://github.com/zurdonman/dsh-termux-native-o-android-ai-agent-setup"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "TypeScript",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8829,
-    "updated_at": "2026-10-16T01:46:53Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
     "id": "xanstomper/mochi",
     "language": "TypeScript",
@@ -176,7 +212,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 2,
-    "updated_at": "2026-10-16T01:44:13Z",
+    "updated_at": "2026-10-16T02:42:15Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -234,20 +270,11 @@
     "url": "https://github.com/franckolv-dev/ELY2"
   },
   {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-10-16T01:22:16Z",
-    "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
     "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
     "id": "410979729/scope-recall-hermes",
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
-    "stars": 354,
+    "stars": 356,
     "updated_at": "2026-10-16T01:19:49Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
@@ -268,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T01:08:45Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "An identity file for AI agents: name, job, face, voice and vibe, signed by the agent. Install it into Claude Code, Codex",
-    "id": "5dive-ai/openagent",
-    "language": "JavaScript",
-    "name": "5dive-ai/openagent",
-    "stars": 2,
-    "updated_at": "2026-10-16T02:26:33Z",
-    "url": "https://github.com/5dive-ai/openagent"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -338,7 +356,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 2,
-    "updated_at": "2026-10-16T00:41:06Z",
+    "updated_at": "2026-10-16T02:32:58Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 6,
     "updated_at": "2026-10-15T23:42:53Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "Make any agent harness token-native.",
-    "id": "Lawhy/tokin",
-    "language": "Python",
-    "name": "Lawhy/tokin",
-    "stars": 5,
-    "updated_at": "2026-10-15T23:33:35Z",
-    "url": "https://github.com/Lawhy/tokin"
-  },
-  {
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
-    "id": "bigfish1913/pi-rust",
-    "language": "Rust",
-    "name": "bigfish1913/pi-rust",
-    "stars": 106,
-    "updated_at": "2026-10-16T02:14:31Z",
-    "url": "https://github.com/bigfish1913/pi-rust"
   }
 ]
