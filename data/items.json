@@ -1,5 +1,95 @@
 [
   {
+    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
+    "id": "wufufu770/d2d",
+    "language": "JavaScript",
+    "name": "wufufu770/d2d",
+    "stars": 4,
+    "updated_at": "2026-10-16T05:58:29Z",
+    "url": "https://github.com/wufufu770/d2d"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-10-16T05:57:50Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
+    "id": "oldfunk/paper-trading",
+    "language": "Python",
+    "name": "oldfunk/paper-trading",
+    "stars": 1,
+    "updated_at": "2026-10-16T05:55:32Z",
+    "url": "https://github.com/oldfunk/paper-trading"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 13,
+    "updated_at": "2026-10-16T05:57:01Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "JevHub \u00b7 Jev \u751f\u6001\u70ed\u699c \u628a\u503c\u5f97\u5173\u6ce8\u7684 Jev \u9879\u76ee\u3001\u6559\u7a0b\u548c\u8ba8\u8bba\uff0c\u6c47\u5230\u4e00\u9875\u3002 \u81ea\u52a8\u53d1\u73b0 \u00b7 \u6bcf\u65e5\u66f4\u65b0 \u00b7 \u6309 Stars \u6392\u5e8f \u00b7 \u4e2d\u82f1\u53cc\u8bed",
+    "id": "frontierlabai/JevHub",
+    "language": "Python",
+    "name": "frontierlabai/JevHub",
+    "stars": 7,
+    "updated_at": "2026-10-16T05:51:04Z",
+    "url": "https://github.com/frontierlabai/JevHub"
+  },
+  {
+    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
+    "id": "eshanized/M31A",
+    "language": "Rust",
+    "name": "eshanized/M31A",
+    "stars": 10,
+    "updated_at": "2026-10-16T05:48:47Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-10-16T05:48:42Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
+    "id": "xiongweilin/agent-skills",
+    "language": "PowerShell",
+    "name": "xiongweilin/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-16T05:48:25Z",
+    "url": "https://github.com/xiongweilin/agent-skills"
+  },
+  {
+    "description": "Gestor ag\u00e9ntico de modelos llm",
+    "id": "bondwell79/hercules",
+    "language": "Python",
+    "name": "bondwell79/hercules",
+    "stars": 0,
+    "updated_at": "2026-10-16T05:47:23Z",
+    "url": "https://github.com/bondwell79/hercules"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-16T05:45:37Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
     "description": "\ud83d\udc34 WormAgent \u2014 smart Telegram agent. One-line install. RECON \u00b7 EXPLOIT \u00b7 BYPASS \u00b7 OWN.",
     "id": "BlackXV2vip/wormagent",
     "language": "Shell",
@@ -18,15 +108,6 @@
     "url": "https://github.com/hlh-syd/moji-paper-agent"
   },
   {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 13,
-    "updated_at": "2026-10-16T05:44:03Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
     "id": "OtakuNathan/Pal",
     "language": "Python",
@@ -36,21 +117,12 @@
     "url": "https://github.com/OtakuNathan/Pal"
   },
   {
-    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
-    "id": "oldfunk/paper-trading",
-    "language": "Python",
-    "name": "oldfunk/paper-trading",
-    "stars": 1,
-    "updated_at": "2026-10-16T05:39:53Z",
-    "url": "https://github.com/oldfunk/paper-trading"
-  },
-  {
     "description": "Open spec and CLI (MIT) for AI agent identity and agent-to-agent messaging. Runs with npx.",
     "id": "5dive-ai/openagent",
     "language": "JavaScript",
     "name": "5dive-ai/openagent",
     "stars": 2,
-    "updated_at": "2026-10-16T05:39:52Z",
+    "updated_at": "2026-10-16T05:49:48Z",
     "url": "https://github.com/5dive-ai/openagent"
   },
   {
@@ -81,15 +153,6 @@
     "url": "https://github.com/unrealumanga/Nedster"
   },
   {
-    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
-    "id": "wufufu770/d2d",
-    "language": "JavaScript",
-    "name": "wufufu770/d2d",
-    "stars": 4,
-    "updated_at": "2026-10-16T05:32:26Z",
-    "url": "https://github.com/wufufu770/d2d"
-  },
-  {
     "description": "Research agent that turns official calendars and dated sources into cited macro-event risk briefs. Python, FastAPI, SQLi",
     "id": "NickZhuxy/EventLens",
     "language": "Python",
@@ -106,6 +169,15 @@
     "stars": 4,
     "updated_at": "2026-10-16T05:35:25Z",
     "url": "https://github.com/khudayarovich/onflip-agent"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4451,
+    "updated_at": "2026-10-16T05:29:09Z",
+    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -133,15 +205,6 @@
     "stars": 133,
     "updated_at": "2026-10-16T05:26:39Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4450,
-    "updated_at": "2026-10-16T05:29:09Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -221,17 +284,8 @@
     "language": "Python",
     "name": "hsaghir/looplet",
     "stars": 7,
-    "updated_at": "2026-10-16T04:52:38Z",
+    "updated_at": "2026-10-16T05:49:03Z",
     "url": "https://github.com/hsaghir/looplet"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-10-16T04:58:46Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Cross platform LLM agent",
@@ -257,7 +311,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 45,
-    "updated_at": "2026-10-16T04:52:17Z",
+    "updated_at": "2026-10-16T05:50:32Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -274,7 +328,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 1184,
+    "stars": 1185,
     "updated_at": "2026-10-16T04:38:24Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -284,7 +338,7 @@
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 49,
-    "updated_at": "2026-10-16T04:33:53Z",
+    "updated_at": "2026-10-16T05:46:06Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
@@ -311,7 +365,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-10-16T04:29:49Z",
+    "updated_at": "2026-10-16T05:59:35Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -349,15 +403,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T04:15:29Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-16T04:13:35Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "\u7ed9 DSH \u7528\u7684\u5f00\u53d1\u65e5\u5fd7\u63d2\u4ef6\u3002\u81ea\u52a8\u8bb0\u5f55\"\u4e3a\u4ec0\u4e48\"\u548c\"\u8e29\u4e86\u4ec0\u4e48\u5751\"\u3002",
@@ -403,50 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-16T03:47:40Z",
     "url": "https://github.com/plurnk/plurnk"
-  },
-  {
-    "description": "A gaming-community user-insights agent: publicly observable behavioral traces -> five-dim features -> activity/migration",
-    "id": "hccccc01333/game-user-insights-agent",
-    "language": "Python",
-    "name": "hccccc01333/game-user-insights-agent",
-    "stars": 0,
-    "updated_at": "2026-10-16T03:47:01Z",
-    "url": "https://github.com/hccccc01333/game-user-insights-agent"
-  },
-  {
-    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
-    "id": "alexwkleung/reika",
-    "language": "TypeScript",
-    "name": "alexwkleung/reika",
-    "stars": 9,
-    "updated_at": "2026-10-16T03:46:42Z",
-    "url": "https://github.com/alexwkleung/reika"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 2,
-    "updated_at": "2026-10-16T03:42:04Z",
-    "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5835,
-    "updated_at": "2026-10-16T04:00:42Z",
-    "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "",
-    "id": "atria-asi/Atria-Dawn",
-    "language": "\u2014",
-    "name": "atria-asi/Atria-Dawn",
-    "stars": 607,
-    "updated_at": "2026-10-16T03:09:58Z",
-    "url": "https://github.com/atria-asi/Atria-Dawn"
   }
 ]
