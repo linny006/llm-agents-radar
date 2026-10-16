@@ -1,5 +1,50 @@
 [
   {
+    "description": "Hermes Agent on Termux (Android): one-command install from prebuilt, checksum-verified Python wheels. No compiling on yo",
+    "id": "bd-loser/hermes-bionic",
+    "language": "Shell",
+    "name": "bd-loser/hermes-bionic",
+    "stars": 1,
+    "updated_at": "2026-10-16T19:41:15Z",
+    "url": "https://github.com/bd-loser/hermes-bionic"
+  },
+  {
+    "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 219,
+    "updated_at": "2026-10-16T19:40:25Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-16T19:40:20Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
+    "id": "honestDS/MonoLight",
+    "language": "Python",
+    "name": "honestDS/MonoLight",
+    "stars": 9,
+    "updated_at": "2026-10-16T19:40:04Z",
+    "url": "https://github.com/honestDS/MonoLight"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-16T19:38:34Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
@@ -117,21 +162,12 @@
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-16T19:28:47Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-16T19:29:29Z",
+    "updated_at": "2026-10-16T19:36:58Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -187,24 +223,6 @@
     "stars": 1,
     "updated_at": "2026-10-16T19:02:26Z",
     "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
-    "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 219,
-    "updated_at": "2026-10-16T19:19:45Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-16T18:39:28Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "\ud83d\udc27 is currently a work in progress... Stay tuned! ",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-16T16:22:31Z",
     "url": "https://github.com/STARDUSTLC666/dsh-minimal-ptc"
-  },
-  {
-    "description": "A programming framework for agentic AI",
-    "id": "microsoft/autogen",
-    "language": "Python",
-    "name": "microsoft/autogen",
-    "stars": 61443,
-    "updated_at": "2026-10-16T16:14:37Z",
-    "url": "https://github.com/microsoft/autogen"
-  },
-  {
-    "description": "Distill any LLM into a small, fast, calibrated classifier. A teacher LLM (Claude, Gemini, OpenAI or any compatible API) ",
-    "id": "Salto-Angel-Tech/Falco-Swift",
-    "language": "TypeScript",
-    "name": "Salto-Angel-Tech/Falco-Swift",
-    "stars": 3,
-    "updated_at": "2026-10-16T16:09:52Z",
-    "url": "https://github.com/Salto-Angel-Tech/Falco-Swift"
   }
 ]
