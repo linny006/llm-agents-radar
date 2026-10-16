@@ -1,12 +1,21 @@
 [
   {
-    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
-    "id": "wufufu770/d2d",
-    "language": "JavaScript",
-    "name": "wufufu770/d2d",
-    "stars": 4,
-    "updated_at": "2026-10-16T05:58:29Z",
-    "url": "https://github.com/wufufu770/d2d"
+    "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
+    "id": "cheeezis/job_finder",
+    "language": "Python",
+    "name": "cheeezis/job_finder",
+    "stars": 0,
+    "updated_at": "2026-10-16T06:11:34Z",
+    "url": "https://github.com/cheeezis/job_finder"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 5,
+    "updated_at": "2026-10-16T06:10:44Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -14,8 +23,89 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-10-16T05:57:50Z",
+    "updated_at": "2026-10-16T06:09:19Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "\u0410\u0433\u0435\u043d\u0442\u043d\u044b\u0439 \u0430\u043d\u0430\u043b\u0438\u0437 \u0438\u043d\u0446\u0438\u0434\u0435\u043d\u0442\u043e\u0432 \u0434\u043b\u044f \u0431\u044d\u043a\u0435\u043d\u0434-\u0441\u0435\u0440\u0432\u0438\u0441\u043e\u0432: workflow \u043d\u0430 LangGraph, \u0438\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u0438 \u0447\u0435\u0440\u0435\u0437 MCP, \u0432\u044b\u0437\u043e\u0432 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u043e\u0432 \u0438 \u043e\u043f\u0435\u0440\u0430\u0446",
+    "id": "SlavaKlkv/ai_operations_agent",
+    "language": "Python",
+    "name": "SlavaKlkv/ai_operations_agent",
+    "stars": 0,
+    "updated_at": "2026-10-16T06:08:37Z",
+    "url": "https://github.com/SlavaKlkv/ai_operations_agent"
+  },
+  {
+    "description": "Free MIT AI coding agent \u2014 no API key needed. Built-in free model, or bring Claude, GPT, Gemini, DeepSeek, Ollama +50 mo",
+    "id": "dragonked2/alphacode",
+    "language": "Rust",
+    "name": "dragonked2/alphacode",
+    "stars": 312,
+    "updated_at": "2026-10-16T06:07:50Z",
+    "url": "https://github.com/dragonked2/alphacode"
+  },
+  {
+    "description": "\u57fa\u4e8e LangGraph \u7684\u6df1\u5ea6\u7814\u7a76\u667a\u80fd\u4f53\uff0c\u652f\u6301\u591a\u6b65\u89c4\u5212\u3001\u6df7\u5408\u68c0\u7d22\u3001\u53cd\u601d\u5faa\u73af\u4e0e\u5e26\u5f15\u7528\u62a5\u544a\u751f\u6210",
+    "id": "slw-cuddlebear/Deep_Research_Agent",
+    "language": "Python",
+    "name": "slw-cuddlebear/Deep_Research_Agent",
+    "stars": 0,
+    "updated_at": "2026-10-16T06:07:18Z",
+    "url": "https://github.com/slw-cuddlebear/Deep_Research_Agent"
+  },
+  {
+    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-16T06:06:55Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
+    "id": "wufufu770/d2d",
+    "language": "JavaScript",
+    "name": "wufufu770/d2d",
+    "stars": 4,
+    "updated_at": "2026-10-16T06:06:09Z",
+    "url": "https://github.com/wufufu770/d2d"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-10-16T06:05:23Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 29,
+    "updated_at": "2026-10-16T06:03:30Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Open-source computer-use AI agent for macOS: drives Mac apps through the accessibility tree with an indexed action space",
+    "id": "max1874/open-computer-use",
+    "language": "Python",
+    "name": "max1874/open-computer-use",
+    "stars": 0,
+    "updated_at": "2026-10-16T06:02:26Z",
+    "url": "https://github.com/max1874/open-computer-use"
+  },
+  {
+    "description": "AI agent written from scratch in TypeScript, no framework (no LangChain). One file per layer; the model layer calls any ",
+    "id": "max1874/demo-agent",
+    "language": "TypeScript",
+    "name": "max1874/demo-agent",
+    "stars": 0,
+    "updated_at": "2026-10-16T06:02:19Z",
+    "url": "https://github.com/max1874/demo-agent"
   },
   {
     "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
@@ -189,15 +279,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 29,
-    "updated_at": "2026-10-16T05:26:47Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -243,15 +324,6 @@
     "url": "https://github.com/Chensihakniroth/anakot-agent-v1"
   },
   {
-    "description": "\u57fa\u4e8e LangGraph \u7684\u6df1\u5ea6\u7814\u7a76\u667a\u80fd\u4f53\uff0c\u652f\u6301\u591a\u6b65\u89c4\u5212\u3001\u6df7\u5408\u68c0\u7d22\u3001\u53cd\u601d\u5faa\u73af\u4e0e\u5e26\u5f15\u7528\u62a5\u544a\u751f\u6210",
-    "id": "slw-cuddlebear/Deep_Research_Agent",
-    "language": "Python",
-    "name": "slw-cuddlebear/Deep_Research_Agent",
-    "stars": 0,
-    "updated_at": "2026-10-16T05:05:25Z",
-    "url": "https://github.com/slw-cuddlebear/Deep_Research_Agent"
-  },
-  {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
     "id": "SuperdeMan/cockpit-agent",
     "language": "Python",
@@ -284,7 +356,7 @@
     "language": "Python",
     "name": "hsaghir/looplet",
     "stars": 7,
-    "updated_at": "2026-10-16T05:49:03Z",
+    "updated_at": "2026-10-16T06:12:08Z",
     "url": "https://github.com/hsaghir/looplet"
   },
   {
@@ -311,7 +383,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 45,
-    "updated_at": "2026-10-16T05:50:32Z",
+    "updated_at": "2026-10-16T06:13:31Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -328,7 +400,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 1185,
+    "stars": 1186,
     "updated_at": "2026-10-16T04:38:24Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -356,17 +428,8 @@
     "language": "Python",
     "name": "Lawhy/tokin",
     "stars": 5,
-    "updated_at": "2026-10-16T04:31:11Z",
+    "updated_at": "2026-10-16T06:14:22Z",
     "url": "https://github.com/Lawhy/tokin"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-10-16T05:59:35Z",
-    "url": "https://github.com/JSL107/personal_agents"
   },
   {
     "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-16T04:28:19Z",
     "url": "https://github.com/haibingzhao/easyai"
-  },
-  {
-    "description": "Chinese single-agent e-commerce after-sales service system (L4 MVP): React + FastAPI + LangGraph + MCP. Source-available",
-    "id": "leo372239-1024/ecommerce-l4-agent-service",
-    "language": "Python",
-    "name": "leo372239-1024/ecommerce-l4-agent-service",
-    "stars": 0,
-    "updated_at": "2026-10-16T04:17:33Z",
-    "url": "https://github.com/leo372239-1024/ecommerce-l4-agent-service"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-10-16T04:15:29Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "\u7ed9 DSH \u7528\u7684\u5f00\u53d1\u65e5\u5fd7\u63d2\u4ef6\u3002\u81ea\u52a8\u8bb0\u5f55\"\u4e3a\u4ec0\u4e48\"\u548c\"\u8e29\u4e86\u4ec0\u4e48\u5751\"\u3002",
-    "id": "ccr-wer/dsh-devlog-auto",
-    "language": "JavaScript",
-    "name": "ccr-wer/dsh-devlog-auto",
-    "stars": 0,
-    "updated_at": "2026-10-16T04:13:26Z",
-    "url": "https://github.com/ccr-wer/dsh-devlog-auto"
-  },
-  {
-    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-16T05:43:03Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "LLM-powered TeamSpeak bot | LLM\u9a71\u52a8\u7684TeamSpeak\u673a\u5668\u4eba",
-    "id": "Dr1mH4X/TeamSpeakClaw",
-    "language": "Rust",
-    "name": "Dr1mH4X/TeamSpeakClaw",
-    "stars": 6,
-    "updated_at": "2026-10-16T04:06:30Z",
-    "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
-  },
-  {
-    "description": "Self-hosted AI execution agent for Discord: runs shell commands and edits files on your hosts, drives browsers, schedule",
-    "id": "Calmingstorm/Odin",
-    "language": "Python",
-    "name": "Calmingstorm/Odin",
-    "stars": 3,
-    "updated_at": "2026-10-16T04:15:06Z",
-    "url": "https://github.com/Calmingstorm/Odin"
-  },
-  {
-    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
-    "id": "plurnk/plurnk",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk",
-    "stars": 5,
-    "updated_at": "2026-10-16T03:47:40Z",
-    "url": "https://github.com/plurnk/plurnk"
   }
 ]
