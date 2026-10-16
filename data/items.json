@@ -1,12 +1,21 @@
 [
   {
-    "description": "An AI red-team agent for authorized labs and web app pentesting workflows. Turns Claude Code / OpenCode / Codex into a s",
-    "id": "djimenez624/RedteamAgent",
-    "language": "Python",
-    "name": "djimenez624/RedteamAgent",
+    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
+    "id": "wuyhong715/rikkahub-agent-pure",
+    "language": "Kotlin",
+    "name": "wuyhong715/rikkahub-agent-pure",
+    "stars": 45,
+    "updated_at": "2026-10-16T11:27:21Z",
+    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
+  },
+  {
+    "description": "Local-first open-source AI coding agent built with Go \u2014 Desktop, CLI, TUI, WebUI, MCP, Skills, multi-agent workflows, an",
+    "id": "konglong87/go-e2e",
+    "language": "Go",
+    "name": "konglong87/go-e2e",
     "stars": 0,
-    "updated_at": "2026-10-16T11:14:18Z",
-    "url": "https://github.com/djimenez624/RedteamAgent"
+    "updated_at": "2026-10-16T11:26:20Z",
+    "url": "https://github.com/konglong87/go-e2e"
   },
   {
     "description": "A local-first AI companion for Windows: it remembers you, dreams over your day at night, follows up on what matters and ",
@@ -14,8 +23,44 @@
     "language": "JavaScript",
     "name": "b7216309-jpg/little-bot",
     "stars": 0,
-    "updated_at": "2026-10-16T11:12:45Z",
+    "updated_at": "2026-10-16T11:26:01Z",
     "url": "https://github.com/b7216309-jpg/little-bot"
+  },
+  {
+    "description": "An AI red-team agent for authorized labs and web app pentesting workflows. Turns Claude Code / OpenCode / Codex into a s",
+    "id": "djimenez624/RedteamAgent",
+    "language": "Python",
+    "name": "djimenez624/RedteamAgent",
+    "stars": 0,
+    "updated_at": "2026-10-16T11:22:14Z",
+    "url": "https://github.com/djimenez624/RedteamAgent"
+  },
+  {
+    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 53,
+    "updated_at": "2026-10-16T11:19:17Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
+    "id": "hsaghir/looplet",
+    "language": "Python",
+    "name": "hsaghir/looplet",
+    "stars": 7,
+    "updated_at": "2026-10-16T11:18:51Z",
+    "url": "https://github.com/hsaghir/looplet"
+  },
+  {
+    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
+    "id": "oldfunk/paper-trading",
+    "language": "Python",
+    "name": "oldfunk/paper-trading",
+    "stars": 1,
+    "updated_at": "2026-10-16T11:16:32Z",
+    "url": "https://github.com/oldfunk/paper-trading"
   },
   {
     "description": "An AI brain for Unitree robot dogs: one sentence in, guarded motion out.",
@@ -59,7 +104,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 2,
-    "updated_at": "2026-10-16T11:09:20Z",
+    "updated_at": "2026-10-16T11:24:42Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -70,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T11:07:54Z",
     "url": "https://github.com/Omarsaqr/hr-agent-service"
-  },
-  {
-    "description": "Local-first open-source AI coding agent built with Go \u2014 Desktop, CLI, TUI, WebUI, MCP, Skills, multi-agent workflows, an",
-    "id": "konglong87/go-e2e",
-    "language": "Go",
-    "name": "konglong87/go-e2e",
-    "stars": 0,
-    "updated_at": "2026-10-16T11:07:36Z",
-    "url": "https://github.com/konglong87/go-e2e"
   },
   {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
@@ -113,7 +149,7 @@
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 49,
-    "updated_at": "2026-10-16T10:55:30Z",
+    "updated_at": "2026-10-16T11:19:29Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
@@ -122,7 +158,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-16T11:12:09Z",
+    "updated_at": "2026-10-16T11:25:50Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -158,7 +194,7 @@
     "language": "Go",
     "name": "ongridio/ongrid",
     "stars": 1188,
-    "updated_at": "2026-10-16T11:07:30Z",
+    "updated_at": "2026-10-16T11:25:10Z",
     "url": "https://github.com/ongridio/ongrid"
   },
   {
@@ -214,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T10:35:47Z",
     "url": "https://github.com/PabloMirza633/Upwork-AI-jobs-applier"
-  },
-  {
-    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
-    "id": "hsaghir/looplet",
-    "language": "Python",
-    "name": "hsaghir/looplet",
-    "stars": 7,
-    "updated_at": "2026-10-16T11:04:30Z",
-    "url": "https://github.com/hsaghir/looplet"
   },
   {
     "description": "Open-source, self-hostable AppSec agent that finds, proves, and helps fix web/API vulnerabilities \u2014 evidence-first (inde",
@@ -342,15 +369,6 @@
     "url": "https://github.com/lawrenceb684/Upwork-AI-jobs-applier"
   },
   {
-    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 53,
-    "updated_at": "2026-10-16T09:59:37Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
     "description": "DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy.",
     "id": "AkaneGomes343/taracode",
     "language": "Go",
@@ -414,15 +432,6 @@
     "url": "https://github.com/aimegabase/ai-megabase-log"
   },
   {
-    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
-    "id": "wuyhong715/rikkahub-agent-pure",
-    "language": "Kotlin",
-    "name": "wuyhong715/rikkahub-agent-pure",
-    "stars": 45,
-    "updated_at": "2026-10-16T11:03:12Z",
-    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
-  },
-  {
     "description": "Open spec and CLI (MIT) for AI agent identity and agent-to-agent messaging. Runs with npx.",
     "id": "5dive-ai/openagent",
     "language": "JavaScript",
@@ -439,14 +448,5 @@
     "stars": 79,
     "updated_at": "2026-10-16T09:12:11Z",
     "url": "https://github.com/xieguigang/sciBASIC"
-  },
-  {
-    "description": "\u300a\u5d29\u574f\uff1a\u661f\u7a79\u94c1\u9053\u300b\u6218\u6597\u95ee\u9898\u7684\u53ef\u590d\u73b0\u6c42\u89e3\u73af\u5883\u2014\u2014\u4ee5\u9ad8\u4fdd\u771f\u786e\u5b9a\u6027\u6a21\u62df\u4e3a\u88c1\u51b3\uff0c\u628a\u6218\u6597\u7814\u7a76\u53d8\u6210\u53ef\u9a8c\u8bc1\u3001\u53ef\u590d\u73b0\u3001\u53ef\u641c\u7d22\u7684\u5b9e\u9a8c\u95ee\u9898\uff1b\u4e0a\u5c42\u4e3a\u8bb0\u5fc6\u9a71\u52a8\u7684 autoresearch agent \u63a2\u7d22\u5faa\u73af\uff08\u5f00\u53d1\u4e2d\uff09\u3002",
-    "id": "pzc2004/HSR_Nous",
-    "language": "Python",
-    "name": "pzc2004/HSR_Nous",
-    "stars": 11,
-    "updated_at": "2026-10-16T09:08:11Z",
-    "url": "https://github.com/pzc2004/HSR_Nous"
   }
 ]
