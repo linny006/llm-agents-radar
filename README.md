@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-16 21:45 UTC
+> ⏰ Last updated: 2026-10-16 22:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,21 +42,21 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [NatanTechofNY/fieldnote-assistant](https://github.com/NatanTechofNY/fieldnote-assistant) | 5 | TypeScript | 2026-10-16 | A personal assistant with a phone number: SQLite-backed todos, memories, and reflections, searchable through Algolia and |
-| 2 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-16 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
-| 3 | [nurmdrafi/pi-native](https://github.com/nurmdrafi/pi-native) | 0 | JavaScript | 2026-10-16 | Portable pi harness powered by Rust native tools — lean core, progressive disclosure, zero absolute paths. |
-| 4 | [langroid/langroid](https://github.com/langroid/langroid) | 4117 | Python | 2026-10-16 | Harness LLMs with Multi-Agent Programming |
-| 5 | [bd-loser/hermes-bionic](https://github.com/bd-loser/hermes-bionic) | 1 | Shell | 2026-10-16 | Hermes Agent on Termux (Android): one-command install from prebuilt, checksum-verified Python wheels. No compiling on yo |
-| 6 | [yologdev/yoagent](https://github.com/yologdev/yoagent) | 361 | Rust | 2026-10-16 | The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done. |
-| 7 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-10-16 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 8 | [dluckino/aby_sales_agent](https://github.com/dluckino/aby_sales_agent) | 0 | Python | 2026-10-16 | AI sales assistant for a real outdoor-furniture store — agentic RAG (FastAPI + Claude + Chroma + Shopify) with a 32-case |
-| 9 | [chenziliang1/311-analytics-agent](https://github.com/chenziliang1/311-analytics-agent) | 0 | Python | 2026-10-16 | A BI agent that answers questions about 311 service requests from a Snowflake warehouse. Strands Agents, MCP, AWS Bedroc |
-| 10 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 13 | Python | 2026-10-16 | Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT. |
-| 11 | [ljchang/mecha](https://github.com/ljchang/mecha) | 7 | Rust | 2026-10-16 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
-| 12 | [hsaghir/looplet](https://github.com/hsaghir/looplet) | 7 | Python | 2026-10-16 | Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change. |
-| 13 | [genaforvena/mishe-tauftauf](https://github.com/genaforvena/mishe-tauftauf) | 3 | Python | 2026-10-16 | A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation. |
-| 14 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-10-16 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 15 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 21 | Rust | 2026-10-16 | Bamboo — a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule |
+| 1 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 21 | Rust | 2026-10-16 | Bamboo — a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule |
+| 2 | [bd-loser/hermes-bionic](https://github.com/bd-loser/hermes-bionic) | 1 | Shell | 2026-10-16 | Hermes Agent on Termux (Android): one-command install from prebuilt, checksum-verified Python wheels. No compiling on yo |
+| 3 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 13 | Python | 2026-10-16 | Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT. |
+| 4 | [NatanTechofNY/fieldnote-assistant](https://github.com/NatanTechofNY/fieldnote-assistant) | 5 | TypeScript | 2026-10-16 | A personal assistant with a phone number: SQLite-backed todos, memories, and reflections, searchable through Algolia and |
+| 5 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-16 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
+| 6 | [nurmdrafi/pi-native](https://github.com/nurmdrafi/pi-native) | 0 | JavaScript | 2026-10-16 | Portable pi harness powered by Rust native tools — lean core, progressive disclosure, zero absolute paths. |
+| 7 | [langroid/langroid](https://github.com/langroid/langroid) | 4117 | Python | 2026-10-16 | Harness LLMs with Multi-Agent Programming |
+| 8 | [yologdev/yoagent](https://github.com/yologdev/yoagent) | 361 | Rust | 2026-10-16 | The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done. |
+| 9 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-10-16 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 10 | [dluckino/aby_sales_agent](https://github.com/dluckino/aby_sales_agent) | 0 | Python | 2026-10-16 | AI sales assistant for a real outdoor-furniture store — agentic RAG (FastAPI + Claude + Chroma + Shopify) with a 32-case |
+| 11 | [chenziliang1/311-analytics-agent](https://github.com/chenziliang1/311-analytics-agent) | 0 | Python | 2026-10-16 | A BI agent that answers questions about 311 service requests from a Snowflake warehouse. Strands Agents, MCP, AWS Bedroc |
+| 12 | [ljchang/mecha](https://github.com/ljchang/mecha) | 7 | Rust | 2026-10-16 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
+| 13 | [hsaghir/looplet](https://github.com/hsaghir/looplet) | 7 | Python | 2026-10-16 | Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change. |
+| 14 | [genaforvena/mishe-tauftauf](https://github.com/genaforvena/mishe-tauftauf) | 3 | Python | 2026-10-16 | A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation. |
+| 15 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-10-16 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
 | 16 | [Shuffle-1992/dsh-dispatch](https://github.com/Shuffle-1992/dsh-dispatch) | 1 | JavaScript | 2026-10-16 | 把任务派发给本机 ZCode CLI 无头进程的 DeepSeek Harness 插件：面板可监视/终止/续跑/换通道；单写者文件锁 + 用量台账 + 降级链。支持付费套餐与免费额度（Start Plan 活动赠送）两种额度，后者托管官方 |
 | 17 | [xanstomper/mochi](https://github.com/xanstomper/mochi) | 1 | TypeScript | 2026-10-16 | Mochi — a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP  |
 | 18 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 131 | HTML | 2026-10-16 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
@@ -73,7 +73,7 @@ expired items removed — so you can rely on what you see being current.
 | 29 | [Sigmanih/SigmaStudio](https://github.com/Sigmanih/SigmaStudio) | 8 | Python | 2026-10-16 | Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode |
 | 30 | [node9-ai/node9-proxy](https://github.com/node9-ai/node9-proxy) | 219 | TypeScript | 2026-10-16 | Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r |
 | 31 | [honestDS/MonoLight](https://github.com/honestDS/MonoLight) | 9 | Python | 2026-10-16 | MonoLight 是一个专注于安全执行与人机协同的通用自主智能体（General Autonomous Agent）运行时。 |
-| 32 | [gptme/gptme](https://github.com/gptme/gptme) | 4451 | Python | 2026-10-16 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
+| 32 | [gptme/gptme](https://github.com/gptme/gptme) | 4452 | Python | 2026-10-16 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
 | 33 | [KaletoAI/anima-verse](https://github.com/KaletoAI/anima-verse) | 4 | Python | 2026-10-16 | Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system, |
 | 34 | [indigokarasu/chronicle-agent-context-and-memory](https://github.com/indigokarasu/chronicle-agent-context-and-memory) | 11 | Python | 2026-10-16 | Local-first long-term memory and safer context compression for Hermes Agent — SQLite, no required services. |
 | 35 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 133 | HTML | 2026-10-16 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
