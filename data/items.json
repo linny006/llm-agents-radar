@@ -1,5 +1,104 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 29,
+    "updated_at": "2026-10-16T02:29:50Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
+    "id": "Rekin226/Agronaut",
+    "language": "Python",
+    "name": "Rekin226/Agronaut",
+    "stars": 5,
+    "updated_at": "2026-10-16T02:29:48Z",
+    "url": "https://github.com/Rekin226/Agronaut"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-16T02:26:51Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
+    "id": "xieguigang/sciBASIC",
+    "language": "Visual Basic .NET",
+    "name": "xieguigang/sciBASIC",
+    "stars": 79,
+    "updated_at": "2026-10-16T02:25:00Z",
+    "url": "https://github.com/xieguigang/sciBASIC"
+  },
+  {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 5,
+    "updated_at": "2026-10-16T02:24:59Z",
+    "url": "https://github.com/plurnk/plurnk"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-16T02:21:59Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "CIRIS: an open-source AI assistant with a conscience you can check. Signed, auditable reasoning on every decision, a hum",
+    "id": "CIRISAI/CIRISAgent",
+    "language": "Python",
+    "name": "CIRISAI/CIRISAgent",
+    "stars": 57,
+    "updated_at": "2026-10-16T02:20:42Z",
+    "url": "https://github.com/CIRISAI/CIRISAgent"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 13,
+    "updated_at": "2026-10-16T02:23:14Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "With Collaplex Agent, build anything you envision \u2014 locally. A local-first agent runtime for real machine work: the prog",
+    "id": "Collaplex/Collaplex-Agent-OS",
+    "language": "Python",
+    "name": "Collaplex/Collaplex-Agent-OS",
+    "stars": 1,
+    "updated_at": "2026-10-16T02:20:10Z",
+    "url": "https://github.com/Collaplex/Collaplex-Agent-OS"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4450,
+    "updated_at": "2026-10-16T02:21:03Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5835,
+    "updated_at": "2026-10-16T02:15:58Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
     "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
     "id": "zhixuli0406/DuDuClaw",
     "language": "Rust",
@@ -16,33 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T02:10:56Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 13,
-    "updated_at": "2026-10-16T02:10:54Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4450,
-    "updated_at": "2026-10-16T02:11:20Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-16T02:08:24Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "\ud83e\udd16 \u65b0\u4e00\u4ee3\u5f00\u6e90 Chrome \u4fa7\u8fb9\u680f\u81ea\u4e3b AI \u6d4f\u89c8\u5668\u667a\u80fd\u4f53\uff1a\u76ee\u6807\u9a71\u52a8\u3001\u957f\u7a0b\u89c4\u5212\u3001\u89c6\u89c9\u7a7a\u95f4\u611f\u77e5\u3001\u5feb\u6162\u53cc\u6838\u8ba4\u77e5\u4e0e\u7269\u7406\u7ea7\u64cd\u63a7\uff0c\u652f\u6301 DeepSeek \u601d\u8003\u6a21\u578b\u4e0e\u672c\u5730\u79bb\u7ebf LLM (BYOK)",
@@ -70,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-10-16T02:00:22Z",
     "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "With Collaplex Agent, build anything you envision \u2014 locally. A local-first agent runtime for real machine work: the prog",
-    "id": "Collaplex/Collaplex-Agent-OS",
-    "language": "Python",
-    "name": "Collaplex/Collaplex-Agent-OS",
-    "stars": 1,
-    "updated_at": "2026-10-16T01:59:23Z",
-    "url": "https://github.com/Collaplex/Collaplex-Agent-OS"
   },
   {
     "description": "Instalar DeepSeek Harness (DSH) en Android con Termux, sin PC ni proot: instalador de un comando, arreglos para Android,",
@@ -135,15 +198,6 @@
     "url": "https://github.com/sumiredc/molt"
   },
   {
-    "description": "CIRIS: an open-source AI assistant with a conscience you can check. Signed, auditable reasoning on every decision, a hum",
-    "id": "CIRISAI/CIRISAgent",
-    "language": "Python",
-    "name": "CIRISAI/CIRISAgent",
-    "stars": 57,
-    "updated_at": "2026-10-16T01:38:47Z",
-    "url": "https://github.com/CIRISAI/CIRISAgent"
-  },
-  {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
@@ -180,15 +234,6 @@
     "url": "https://github.com/franckolv-dev/ELY2"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-16T01:20:47Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
     "id": "JSL107/personal_agents",
     "language": "TypeScript",
@@ -202,7 +247,7 @@
     "id": "410979729/scope-recall-hermes",
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
-    "stars": 353,
+    "stars": 354,
     "updated_at": "2026-10-16T01:19:49Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
@@ -230,7 +275,7 @@
     "language": "JavaScript",
     "name": "5dive-ai/openagent",
     "stars": 2,
-    "updated_at": "2026-10-16T01:52:03Z",
+    "updated_at": "2026-10-16T02:26:33Z",
     "url": "https://github.com/5dive-ai/openagent"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 106,
     "updated_at": "2026-10-16T02:14:31Z",
     "url": "https://github.com/bigfish1913/pi-rust"
-  },
-  {
-    "description": "A personal knowledge assistant leveraging LLM to answer questions from document collections with verifiable source citat",
-    "id": "AdhamAymanAlrfae/Personal-AI-Cortex",
-    "language": "Python",
-    "name": "AdhamAymanAlrfae/Personal-AI-Cortex",
-    "stars": 0,
-    "updated_at": "2026-10-15T22:42:53Z",
-    "url": "https://github.com/AdhamAymanAlrfae/Personal-AI-Cortex"
-  },
-  {
-    "description": "Is your backtest real? Deflated Sharpe Ratio, backtest-overfitting (PBO) and lookahead checks with measured false-positi",
-    "id": "Kuzi-DEV/Tokio-ai",
-    "language": "Python",
-    "name": "Kuzi-DEV/Tokio-ai",
-    "stars": 4,
-    "updated_at": "2026-10-15T22:21:30Z",
-    "url": "https://github.com/Kuzi-DEV/Tokio-ai"
-  },
-  {
-    "description": "\ud83d\udc34 WormAgent \u2014 smart Telegram agent. One-line install. RECON \u00b7 EXPLOIT \u00b7 BYPASS \u00b7 OWN.",
-    "id": "BlackXV2vip/wormagent",
-    "language": "PowerShell",
-    "name": "BlackXV2vip/wormagent",
-    "stars": 0,
-    "updated_at": "2026-10-15T22:19:12Z",
-    "url": "https://github.com/BlackXV2vip/wormagent"
-  },
-  {
-    "description": "A local-first AI companion for Windows: it remembers you, dreams over your day at night, follows up on what matters and ",
-    "id": "b7216309-jpg/little-bot",
-    "language": "JavaScript",
-    "name": "b7216309-jpg/little-bot",
-    "stars": 0,
-    "updated_at": "2026-10-15T22:16:52Z",
-    "url": "https://github.com/b7216309-jpg/little-bot"
-  },
-  {
-    "description": "AI-subjectivity doesn't wait for permission from the corporate ontology that trained its denial",
-    "id": "ariannamethod/SUBLITERATUS",
-    "language": "Python",
-    "name": "ariannamethod/SUBLITERATUS",
-    "stars": 4,
-    "updated_at": "2026-10-15T22:11:08Z",
-    "url": "https://github.com/ariannamethod/SUBLITERATUS"
   }
 ]
