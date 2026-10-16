@@ -1,12 +1,21 @@
 [
   {
-    "description": "Claude Code skill that generates a tailored autonomous dev loop for any git repository",
-    "id": "Stephenson-Software/create-dev-loop",
+    "description": "Visual inspection with an LLM agent: YOLOv8 + Qwen-VL, RAG standards retrieval via tool calling with grounded citations,",
+    "id": "mino19790622-dot/visual-inspection-report-generator",
     "language": "Python",
-    "name": "Stephenson-Software/create-dev-loop",
-    "stars": 1,
-    "updated_at": "2026-10-16T07:59:35Z",
-    "url": "https://github.com/Stephenson-Software/create-dev-loop"
+    "name": "mino19790622-dot/visual-inspection-report-generator",
+    "stars": 0,
+    "updated_at": "2026-10-16T08:10:38Z",
+    "url": "https://github.com/mino19790622-dot/visual-inspection-report-generator"
+  },
+  {
+    "description": "Lean, extended fork of Nous Research's Hermes Agent \u2014 free model suite, connectors, and ~20 perf fixes. Upstream credite",
+    "id": "Chensihakniroth/anakot-agent-v1",
+    "language": "Python",
+    "name": "Chensihakniroth/anakot-agent-v1",
+    "stars": 0,
+    "updated_at": "2026-10-16T08:12:09Z",
+    "url": "https://github.com/Chensihakniroth/anakot-agent-v1"
   },
   {
     "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
@@ -14,7 +23,7 @@
     "language": "JavaScript",
     "name": "Shuffle-1992/dsh-context-pilot",
     "stars": 2,
-    "updated_at": "2026-10-16T07:59:14Z",
+    "updated_at": "2026-10-16T08:09:21Z",
     "url": "https://github.com/Shuffle-1992/dsh-context-pilot"
   },
   {
@@ -23,8 +32,71 @@
     "language": "Python",
     "name": "uukuguy/capstone",
     "stars": 0,
-    "updated_at": "2026-10-16T07:58:56Z",
+    "updated_at": "2026-10-16T08:09:30Z",
     "url": "https://github.com/uukuguy/capstone"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 29,
+    "updated_at": "2026-10-16T08:06:43Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
+    "id": "hsaghir/looplet",
+    "language": "Python",
+    "name": "hsaghir/looplet",
+    "stars": 7,
+    "updated_at": "2026-10-16T08:10:40Z",
+    "url": "https://github.com/hsaghir/looplet"
+  },
+  {
+    "description": "Open-source local AI Agent desktop app for authorized security assessment \u2014 Electron + Mastra-powered runtime, visual pe",
+    "id": "MingyiSecLab/Atlas",
+    "language": "TypeScript",
+    "name": "MingyiSecLab/Atlas",
+    "stars": 34,
+    "updated_at": "2026-10-16T08:06:21Z",
+    "url": "https://github.com/MingyiSecLab/Atlas"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-10-16T08:12:24Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-16T08:03:19Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
+    "id": "eshanized/M31A",
+    "language": "Rust",
+    "name": "eshanized/M31A",
+    "stars": 10,
+    "updated_at": "2026-10-16T08:02:26Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "Claude Code skill that generates a tailored autonomous dev loop for any git repository",
+    "id": "Stephenson-Software/create-dev-loop",
+    "language": "Python",
+    "name": "Stephenson-Software/create-dev-loop",
+    "stars": 1,
+    "updated_at": "2026-10-16T07:59:35Z",
+    "url": "https://github.com/Stephenson-Software/create-dev-loop"
   },
   {
     "description": "Agent \u81ea\u52a8\u6d4b\u8bd5\u7cfb\u7edf\uff1aLangGraph + LLM \u7f16\u6392\u7684 API/Web UI \u81ea\u52a8\u5316\u6d4b\u8bd5\uff0c\u4ece OpenAPI \u5951\u7ea6\u751f\u6210\u7528\u4f8b\u3001\u6267\u884c\u6d4b\u8bd5\u3001\u81ea\u52a8\u91cd\u8bd5\u4e0e\u7f3a\u9677\u5f52\u56e0\uff0c\u4ea7\u51fa\u53ef\u89c6\u5316\u62a5\u544a",
@@ -43,15 +115,6 @@
     "stars": 25,
     "updated_at": "2026-10-16T07:53:15Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "Lean, extended fork of Nous Research's Hermes Agent \u2014 free model suite, connectors, and ~20 perf fixes. Upstream credite",
-    "id": "Chensihakniroth/anakot-agent-v1",
-    "language": "Python",
-    "name": "Chensihakniroth/anakot-agent-v1",
-    "stars": 0,
-    "updated_at": "2026-10-16T07:50:55Z",
-    "url": "https://github.com/Chensihakniroth/anakot-agent-v1"
   },
   {
     "description": "Auditable, event-sourced local coding-agent runtime \u2014 dual-plane control/execution, durable result-projection delivery g",
@@ -77,7 +140,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-16T07:55:13Z",
+    "updated_at": "2026-10-16T08:03:09Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -86,17 +149,8 @@
     "language": "Go",
     "name": "ongridio/ongrid",
     "stars": 1186,
-    "updated_at": "2026-10-16T07:42:26Z",
+    "updated_at": "2026-10-16T08:12:20Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 29,
-    "updated_at": "2026-10-16T07:41:41Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
@@ -113,7 +167,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 13,
-    "updated_at": "2026-10-16T07:53:47Z",
+    "updated_at": "2026-10-16T08:12:52Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -133,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-10-16T07:31:12Z",
     "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-10-16T07:59:39Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Music Agent VST3 for REAPER: editable MIDI generation, continuation, audio-to-MIDI and stem separation. Native Windows. ",
@@ -211,7 +256,7 @@
     "id": "khudayarovich/onflip-agent",
     "language": "TypeScript",
     "name": "khudayarovich/onflip-agent",
-    "stars": 4,
+    "stars": 5,
     "updated_at": "2026-10-16T07:10:27Z",
     "url": "https://github.com/khudayarovich/onflip-agent"
   },
@@ -223,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T07:07:21Z",
     "url": "https://github.com/dobrinsm/darwin"
-  },
-  {
-    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
-    "id": "hsaghir/looplet",
-    "language": "Python",
-    "name": "hsaghir/looplet",
-    "stars": 7,
-    "updated_at": "2026-10-16T07:54:11Z",
-    "url": "https://github.com/hsaghir/looplet"
   },
   {
     "description": "\u6b66\u6c49\u5927\u5b66\u5730\u7a7a\u5b66\u9662 2026 \u5927\u521b\uff1a\u591a\u667a\u80fd\u4f53 AI \u91ce\u5916\u53f0\u7ad9\u7ba1\u7406\u7cfb\u7edf \u2014\u2014 \u76d1\u6d4b/\u8d28\u63a7/\u7814\u5224/\u6d3e\u5355/\u5f52\u6863\u95ed\u73af\u3002LangGraph \u8fd0\u884c\u65f6 \u00b7 MCP \u5de5\u5177\u63a5\u53e3 \u00b7 \u89c4\u5219\u88c1\u51b3 + \u5927\u6a21\u578b\u5f52\u56e0\u3002\u516c\u5f00\u8131\u654f\u4ed3\u5e93",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-16T06:02:26Z",
     "url": "https://github.com/max1874/open-computer-use"
-  },
-  {
-    "description": "AI agent written from scratch in TypeScript, no framework (no LangChain). One file per layer; the model layer calls any ",
-    "id": "max1874/demo-agent",
-    "language": "TypeScript",
-    "name": "max1874/demo-agent",
-    "stars": 0,
-    "updated_at": "2026-10-16T06:02:19Z",
-    "url": "https://github.com/max1874/demo-agent"
-  },
-  {
-    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
-    "id": "oldfunk/paper-trading",
-    "language": "Python",
-    "name": "oldfunk/paper-trading",
-    "stars": 1,
-    "updated_at": "2026-10-16T05:55:32Z",
-    "url": "https://github.com/oldfunk/paper-trading"
-  },
-  {
-    "description": "JevHub \u00b7 Jev \u751f\u6001\u70ed\u699c \u628a\u503c\u5f97\u5173\u6ce8\u7684 Jev \u9879\u76ee\u3001\u6559\u7a0b\u548c\u8ba8\u8bba\uff0c\u6c47\u5230\u4e00\u9875\u3002 \u81ea\u52a8\u53d1\u73b0 \u00b7 \u6bcf\u65e5\u66f4\u65b0 \u00b7 \u6309 Stars \u6392\u5e8f \u00b7 \u4e2d\u82f1\u53cc\u8bed",
-    "id": "frontierlabai/JevHub",
-    "language": "Python",
-    "name": "frontierlabai/JevHub",
-    "stars": 7,
-    "updated_at": "2026-10-16T05:51:04Z",
-    "url": "https://github.com/frontierlabai/JevHub"
-  },
-  {
-    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
-    "id": "eshanized/M31A",
-    "language": "Rust",
-    "name": "eshanized/M31A",
-    "stars": 10,
-    "updated_at": "2026-10-16T05:48:47Z",
-    "url": "https://github.com/eshanized/M31A"
   }
 ]
