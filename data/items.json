@@ -1,5 +1,59 @@
 [
   {
+    "description": "Harness LLMs with Multi-Agent Programming",
+    "id": "langroid/langroid",
+    "language": "Python",
+    "name": "langroid/langroid",
+    "stars": 4115,
+    "updated_at": "2026-10-16T00:14:02Z",
+    "url": "https://github.com/langroid/langroid"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 133,
+    "updated_at": "2026-10-16T00:06:11Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-16T00:09:39Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-10-16T00:03:53Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "Autonomous plumbing dispatch & field operations platform powered by OpenRouter AI, FastAPI, and React.",
+    "id": "IAMSHIVAM19/Flowfix-Agent",
+    "language": "JavaScript",
+    "name": "IAMSHIVAM19/Flowfix-Agent",
+    "stars": 0,
+    "updated_at": "2026-10-16T00:03:14Z",
+    "url": "https://github.com/IAMSHIVAM19/Flowfix-Agent"
+  },
+  {
+    "description": "With Collaplex Agent, build anything you envision \u2014 locally. A local-first agent runtime for real machine work: the prog",
+    "id": "Collaplex/Collaplex-Agnet-OS",
+    "language": "Python",
+    "name": "Collaplex/Collaplex-Agnet-OS",
+    "stars": 1,
+    "updated_at": "2026-10-15T23:59:44Z",
+    "url": "https://github.com/Collaplex/Collaplex-Agnet-OS"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -68,7 +122,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4450,
-    "updated_at": "2026-10-15T23:51:32Z",
+    "updated_at": "2026-10-16T00:08:52Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -113,17 +167,8 @@
     "language": "Rust",
     "name": "bigfish1913/pi-rust",
     "stars": 106,
-    "updated_at": "2026-10-15T23:47:06Z",
+    "updated_at": "2026-10-16T00:07:38Z",
     "url": "https://github.com/bigfish1913/pi-rust"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-15T23:53:08Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -187,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T22:42:53Z",
     "url": "https://github.com/AdhamAymanAlrfae/Personal-AI-Cortex"
-  },
-  {
-    "description": "Harness LLMs with Multi-Agent Programming",
-    "id": "langroid/langroid",
-    "language": "Python",
-    "name": "langroid/langroid",
-    "stars": 4115,
-    "updated_at": "2026-10-15T22:30:09Z",
-    "url": "https://github.com/langroid/langroid"
   },
   {
     "description": "Is your backtest real? Deflated Sharpe Ratio, backtest-overfitting (PBO) and lookahead checks with measured false-positi",
@@ -268,15 +304,6 @@
     "stars": 7,
     "updated_at": "2026-10-15T21:58:55Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 133,
-    "updated_at": "2026-10-15T21:56:00Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
@@ -356,7 +383,7 @@
     "language": "TypeScript",
     "name": "alexwkleung/reika",
     "stars": 9,
-    "updated_at": "2026-10-15T21:46:15Z",
+    "updated_at": "2026-10-16T00:13:14Z",
     "url": "https://github.com/alexwkleung/reika"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-15T21:16:26Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "sid-code \u4e0e claude-trace \u5171\u540c\u9762\u5bf9\u7684\u670d\u52a1\u7aef\uff1a\u63a7\u5236\u9762\uff08\u8eab\u4efd / flag / policy / \u9884\u7b97 / \u9065\u63a7 / \u63d2\u4ef6\u5e02\u573a\uff09\u4e0e\u6570\u636e\u9762\uff08\u8f68\u8ff9 / \u4e8b\u4ef6 / \u7528\u91cf\uff09\u540c\u4ed3\u90e8\u7f72\u3001\u9274\u6743\u9694\u79bb",
-    "id": "njfuzrs/agent-backend",
-    "language": "Python",
-    "name": "njfuzrs/agent-backend",
-    "stars": 0,
-    "updated_at": "2026-10-15T20:24:05Z",
-    "url": "https://github.com/njfuzrs/agent-backend"
-  },
-  {
-    "description": "Check your MCP servers for tool poisoning and rug pulls, and benchmark MCP security tools under verifiable conditions.",
-    "id": "Manishmaurya89/mcp-guardbench",
-    "language": "Python",
-    "name": "Manishmaurya89/mcp-guardbench",
-    "stars": 1,
-    "updated_at": "2026-10-15T20:19:53Z",
-    "url": "https://github.com/Manishmaurya89/mcp-guardbench"
-  },
-  {
-    "description": "Local-first long-term memory and safer context compression for Hermes Agent \u2014 SQLite, no required services.",
-    "id": "indigokarasu/chronicle-agent-context-and-memory",
-    "language": "Python",
-    "name": "indigokarasu/chronicle-agent-context-and-memory",
-    "stars": 11,
-    "updated_at": "2026-10-15T20:18:29Z",
-    "url": "https://github.com/indigokarasu/chronicle-agent-context-and-memory"
   }
 ]
