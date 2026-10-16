@@ -1,5 +1,131 @@
 [
   {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-16T08:28:10Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Music Agent VST3 for REAPER: editable MIDI generation, continuation, audio-to-MIDI and stem separation. Native Windows. ",
+    "id": "Aolin-MIR/triceratops-music-agent",
+    "language": "Python",
+    "name": "Aolin-MIR/triceratops-music-agent",
+    "stars": 1,
+    "updated_at": "2026-10-16T08:26:21Z",
+    "url": "https://github.com/Aolin-MIR/triceratops-music-agent"
+  },
+  {
+    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
+    "id": "KaitoSheikh649/CodeJury",
+    "language": "Python",
+    "name": "KaitoSheikh649/CodeJury",
+    "stars": 0,
+    "updated_at": "2026-10-16T08:26:16Z",
+    "url": "https://github.com/KaitoSheikh649/CodeJury"
+  },
+  {
+    "description": "An AI Agent for everyday SWE with minimalist style",
+    "id": "thehope2k/minimalist-agent",
+    "language": "TypeScript",
+    "name": "thehope2k/minimalist-agent",
+    "stars": 1,
+    "updated_at": "2026-10-16T08:25:06Z",
+    "url": "https://github.com/thehope2k/minimalist-agent"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 6,
+    "updated_at": "2026-10-16T08:25:02Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 15,
+    "updated_at": "2026-10-16T08:24:46Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "CAE toolchain for IPM traction motors: geometry \u2192 EM field \u2192 structural FEM \u2192 thermal \u2192 drive cycle \u2192 PDF report. Every ",
+    "id": "ThomasSchmiegelt/ema-motor-analysis",
+    "language": "Python",
+    "name": "ThomasSchmiegelt/ema-motor-analysis",
+    "stars": 1,
+    "updated_at": "2026-10-16T08:24:24Z",
+    "url": "https://github.com/ThomasSchmiegelt/ema-motor-analysis"
+  },
+  {
+    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
+    "id": "xieguigang/sciBASIC",
+    "language": "Visual Basic .NET",
+    "name": "xieguigang/sciBASIC",
+    "stars": 79,
+    "updated_at": "2026-10-16T08:22:57Z",
+    "url": "https://github.com/xieguigang/sciBASIC"
+  },
+  {
+    "description": "Open spec and CLI (MIT) for AI agent identity and agent-to-agent messaging. Runs with npx.",
+    "id": "5dive-ai/openagent",
+    "language": "JavaScript",
+    "name": "5dive-ai/openagent",
+    "stars": 2,
+    "updated_at": "2026-10-16T08:22:31Z",
+    "url": "https://github.com/5dive-ai/openagent"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 13,
+    "updated_at": "2026-10-16T08:21:27Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "AI agent written from scratch in TypeScript, no framework (no LangChain). One file per layer; the model layer calls any ",
+    "id": "max1874/demo-agent",
+    "language": "TypeScript",
+    "name": "max1874/demo-agent",
+    "stars": 0,
+    "updated_at": "2026-10-16T08:19:59Z",
+    "url": "https://github.com/max1874/demo-agent"
+  },
+  {
+    "description": "Open-source computer-use AI agent for macOS: drives Mac apps through the accessibility tree with an indexed action space",
+    "id": "max1874/open-computer-use",
+    "language": "Python",
+    "name": "max1874/open-computer-use",
+    "stars": 0,
+    "updated_at": "2026-10-16T08:19:42Z",
+    "url": "https://github.com/max1874/open-computer-use"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 1186,
+    "updated_at": "2026-10-16T08:19:29Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "Application Security orchestration platform",
+    "id": "grauwolf32/contractor",
+    "language": "Go",
+    "name": "grauwolf32/contractor",
+    "stars": 2,
+    "updated_at": "2026-10-16T08:18:08Z",
+    "url": "https://github.com/grauwolf32/contractor"
+  },
+  {
     "description": "Visual inspection with an LLM agent: YOLOv8 + Qwen-VL, RAG standards retrieval via tool calling with grounded citations,",
     "id": "mino19790622-dot/visual-inspection-report-generator",
     "language": "Python",
@@ -63,15 +189,6 @@
     "url": "https://github.com/MingyiSecLab/Atlas"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-10-16T08:12:24Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
     "id": "genaforvena/mishe-tauftauf",
     "language": "Python",
@@ -86,8 +203,17 @@
     "language": "Rust",
     "name": "eshanized/M31A",
     "stars": 10,
-    "updated_at": "2026-10-16T08:02:26Z",
+    "updated_at": "2026-10-16T08:18:57Z",
     "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "TypeScript",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8834,
+    "updated_at": "2026-10-16T08:01:09Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Claude Code skill that generates a tailored autonomous dev loop for any git repository",
@@ -140,17 +266,17 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-16T08:03:09Z",
+    "updated_at": "2026-10-16T08:26:24Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 1186,
-    "updated_at": "2026-10-16T08:12:20Z",
-    "url": "https://github.com/ongridio/ongrid"
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5838,
+    "updated_at": "2026-10-16T08:25:12Z",
+    "url": "https://github.com/areal-project/AReaL"
   },
   {
     "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
@@ -160,15 +286,6 @@
     "stars": 5,
     "updated_at": "2026-10-16T07:39:40Z",
     "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 13,
-    "updated_at": "2026-10-16T08:12:52Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
@@ -187,24 +304,6 @@
     "stars": 1,
     "updated_at": "2026-10-16T07:31:12Z",
     "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "Music Agent VST3 for REAPER: editable MIDI generation, continuation, audio-to-MIDI and stem separation. Native Windows. ",
-    "id": "Aolin-MIR/triceratops-music-agent",
-    "language": "Python",
-    "name": "Aolin-MIR/triceratops-music-agent",
-    "stars": 1,
-    "updated_at": "2026-10-16T07:28:11Z",
-    "url": "https://github.com/Aolin-MIR/triceratops-music-agent"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-16T07:27:08Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
@@ -239,7 +338,7 @@
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 49,
-    "updated_at": "2026-10-16T07:57:35Z",
+    "updated_at": "2026-10-16T08:21:49Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
@@ -324,15 +423,6 @@
     "url": "https://github.com/xianyu-sheng/SmartBench"
   },
   {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5837,
-    "updated_at": "2026-10-16T07:43:55Z",
-    "url": "https://github.com/areal-project/AReaL"
-  },
-  {
     "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
     "id": "bigfish1913/pi-rust",
     "language": "Rust",
@@ -358,95 +448,5 @@
     "stars": 312,
     "updated_at": "2026-10-16T07:27:46Z",
     "url": "https://github.com/dragonked2/alphacode"
-  },
-  {
-    "description": "Open-source AI coding agent for your terminal that you can undo, even its shell commands. 250+ models, /taste for AI-slo",
-    "id": "AmerSarhan/darce-cli",
-    "language": "TypeScript",
-    "name": "AmerSarhan/darce-cli",
-    "stars": 11,
-    "updated_at": "2026-10-16T06:26:42Z",
-    "url": "https://github.com/AmerSarhan/darce-cli"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-10-16T06:53:00Z",
-    "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
-    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
-    "id": "alexwkleung/reika",
-    "language": "TypeScript",
-    "name": "alexwkleung/reika",
-    "stars": 9,
-    "updated_at": "2026-10-16T06:19:55Z",
-    "url": "https://github.com/alexwkleung/reika"
-  },
-  {
-    "description": "Make any agent harness token-native.",
-    "id": "Lawhy/tokin",
-    "language": "Python",
-    "name": "Lawhy/tokin",
-    "stars": 5,
-    "updated_at": "2026-10-16T06:15:57Z",
-    "url": "https://github.com/Lawhy/tokin"
-  },
-  {
-    "description": "Job-search assistant for entry-level IT roles: collects listings from many sources, filters them with transparent rules ",
-    "id": "cheeezis/job_finder",
-    "language": "Python",
-    "name": "cheeezis/job_finder",
-    "stars": 0,
-    "updated_at": "2026-10-16T06:11:34Z",
-    "url": "https://github.com/cheeezis/job_finder"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 5,
-    "updated_at": "2026-10-16T07:28:22Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "\u0410\u0433\u0435\u043d\u0442\u043d\u044b\u0439 \u0430\u043d\u0430\u043b\u0438\u0437 \u0438\u043d\u0446\u0438\u0434\u0435\u043d\u0442\u043e\u0432 \u0434\u043b\u044f \u0431\u044d\u043a\u0435\u043d\u0434-\u0441\u0435\u0440\u0432\u0438\u0441\u043e\u0432: workflow \u043d\u0430 LangGraph, \u0438\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u0438 \u0447\u0435\u0440\u0435\u0437 MCP, \u0432\u044b\u0437\u043e\u0432 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u043e\u0432 \u0438 \u043e\u043f\u0435\u0440\u0430\u0446",
-    "id": "SlavaKlkv/ai_operations_agent",
-    "language": "Python",
-    "name": "SlavaKlkv/ai_operations_agent",
-    "stars": 0,
-    "updated_at": "2026-10-16T06:08:37Z",
-    "url": "https://github.com/SlavaKlkv/ai_operations_agent"
-  },
-  {
-    "description": "\u57fa\u4e8e LangGraph \u7684\u6df1\u5ea6\u7814\u7a76\u667a\u80fd\u4f53\uff0c\u652f\u6301\u591a\u6b65\u89c4\u5212\u3001\u6df7\u5408\u68c0\u7d22\u3001\u53cd\u601d\u5faa\u73af\u4e0e\u5e26\u5f15\u7528\u62a5\u544a\u751f\u6210",
-    "id": "slw-cuddlebear/Deep_Research_Agent",
-    "language": "Python",
-    "name": "slw-cuddlebear/Deep_Research_Agent",
-    "stars": 0,
-    "updated_at": "2026-10-16T06:07:18Z",
-    "url": "https://github.com/slw-cuddlebear/Deep_Research_Agent"
-  },
-  {
-    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-16T06:06:55Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "Open-source computer-use AI agent for macOS: drives Mac apps through the accessibility tree with an indexed action space",
-    "id": "max1874/open-computer-use",
-    "language": "Python",
-    "name": "max1874/open-computer-use",
-    "stars": 0,
-    "updated_at": "2026-10-16T06:02:26Z",
-    "url": "https://github.com/max1874/open-computer-use"
   }
 ]
