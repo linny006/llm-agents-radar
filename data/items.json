@@ -1,5 +1,14 @@
 [
   {
+    "description": "An intelligent AI proxy and model-routing system built with FastAPI, featuring LLM routing, safety guardrails, context m",
+    "id": "vinaysingh-05/polyglot-edge-agent",
+    "language": "Python",
+    "name": "vinaysingh-05/polyglot-edge-agent",
+    "stars": 0,
+    "updated_at": "2026-10-16T17:44:56Z",
+    "url": "https://github.com/vinaysingh-05/polyglot-edge-agent"
+  },
+  {
     "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
     "id": "Marek1365/CodeJury",
     "language": "Python",
@@ -32,7 +41,7 @@
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 219,
-    "updated_at": "2026-10-16T17:39:20Z",
+    "updated_at": "2026-10-16T17:41:30Z",
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
@@ -50,7 +59,7 @@
     "language": "TypeScript",
     "name": "strands-agents/harness-sdk",
     "stars": 8840,
-    "updated_at": "2026-10-16T17:36:22Z",
+    "updated_at": "2026-10-16T17:45:14Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -194,7 +203,7 @@
     "language": "Python",
     "name": "uukuguy/capstone",
     "stars": 0,
-    "updated_at": "2026-10-16T16:30:43Z",
+    "updated_at": "2026-10-16T17:42:31Z",
     "url": "https://github.com/uukuguy/capstone"
   },
   {
@@ -203,7 +212,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 821,
-    "updated_at": "2026-10-16T17:34:56Z",
+    "updated_at": "2026-10-16T17:45:13Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -349,15 +358,6 @@
     "stars": 1189,
     "updated_at": "2026-10-16T15:14:11Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "An intelligent AI proxy and model-routing system built with FastAPI, featuring LLM routing, safety guardrails, context m",
-    "id": "vinaysingh-05/polyglot-edge-agent",
-    "language": "Python",
-    "name": "vinaysingh-05/polyglot-edge-agent",
-    "stars": 0,
-    "updated_at": "2026-10-16T15:08:14Z",
-    "url": "https://github.com/vinaysingh-05/polyglot-edge-agent"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
