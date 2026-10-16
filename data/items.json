@@ -1,5 +1,41 @@
 [
   {
+    "description": "Hermes Agent on Termux (Android): one-command install from prebuilt, checksum-verified Python wheels. No compiling on yo",
+    "id": "bd-loser/hermes-bionic",
+    "language": "Shell",
+    "name": "bd-loser/hermes-bionic",
+    "stars": 1,
+    "updated_at": "2026-10-16T22:29:21Z",
+    "url": "https://github.com/bd-loser/hermes-bionic"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 361,
+    "updated_at": "2026-10-16T22:25:49Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-10-16T22:24:17Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 13,
+    "updated_at": "2026-10-16T22:29:57Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
     "id": "genaforvena/mishe-tauftauf",
     "language": "Python",
@@ -7,15 +43,6 @@
     "stars": 3,
     "updated_at": "2026-10-16T22:11:21Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
-    "description": "Hermes Agent on Termux (Android): one-command install from prebuilt, checksum-verified Python wheels. No compiling on yo",
-    "id": "bd-loser/hermes-bionic",
-    "language": "Shell",
-    "name": "bd-loser/hermes-bionic",
-    "stars": 1,
-    "updated_at": "2026-10-16T22:11:04Z",
-    "url": "https://github.com/bd-loser/hermes-bionic"
   },
   {
     "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
@@ -41,17 +68,8 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-16T22:07:21Z",
+    "updated_at": "2026-10-16T22:28:53Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 13,
-    "updated_at": "2026-10-16T22:05:18Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "A personal assistant with a phone number: SQLite-backed todos, memories, and reflections, searchable through Algolia and",
@@ -88,15 +106,6 @@
     "stars": 4117,
     "updated_at": "2026-10-16T21:39:38Z",
     "url": "https://github.com/langroid/langroid"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 361,
-    "updated_at": "2026-10-16T21:35:13Z",
-    "url": "https://github.com/yologdev/yoagent"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -333,15 +342,6 @@
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-10-16T19:11:58Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -391,7 +391,7 @@
     "id": "dragonked2/alphacode",
     "language": "Rust",
     "name": "dragonked2/alphacode",
-    "stars": 315,
+    "stars": 316,
     "updated_at": "2026-10-16T18:50:56Z",
     "url": "https://github.com/dragonked2/alphacode"
   },
