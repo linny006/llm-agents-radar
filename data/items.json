@@ -1,21 +1,30 @@
 [
   {
+    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
+    "id": "uukuguy/capstone",
+    "language": "Python",
+    "name": "uukuguy/capstone",
+    "stars": 0,
+    "updated_at": "2026-10-16T12:44:27Z",
+    "url": "https://github.com/uukuguy/capstone"
+  },
+  {
+    "description": "Portable pi harness powered by Rust native tools \u2014 lean core, progressive disclosure, zero absolute paths.",
+    "id": "nurmdrafi/pi-native",
+    "language": "TypeScript",
+    "name": "nurmdrafi/pi-native",
+    "stars": 0,
+    "updated_at": "2026-10-16T12:43:49Z",
+    "url": "https://github.com/nurmdrafi/pi-native"
+  },
+  {
     "description": "A lightweight AI chat client for Wear OS round-screen watches - SSE streaming for OpenAI-compatible (Completions/Respons",
     "id": "ImWuMie/wear-agent",
     "language": "Kotlin",
     "name": "ImWuMie/wear-agent",
     "stars": 3,
-    "updated_at": "2026-10-16T12:28:47Z",
+    "updated_at": "2026-10-16T12:43:21Z",
     "url": "https://github.com/ImWuMie/wear-agent"
-  },
-  {
-    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-16T12:28:28Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
@@ -23,8 +32,17 @@
     "language": "Python",
     "name": "brutal-45/Nexus-LLM",
     "stars": 0,
-    "updated_at": "2026-10-16T12:28:03Z",
+    "updated_at": "2026-10-16T12:43:07Z",
     "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
+    "id": "weihuaguo270-ops/react-agent",
+    "language": "Python",
+    "name": "weihuaguo270-ops/react-agent",
+    "stars": 0,
+    "updated_at": "2026-10-16T12:41:47Z",
+    "url": "https://github.com/weihuaguo270-ops/react-agent"
   },
   {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
@@ -32,15 +50,96 @@
     "language": "TypeScript",
     "name": "plurnk/plurnk-service",
     "stars": 1,
-    "updated_at": "2026-10-16T12:26:03Z",
+    "updated_at": "2026-10-16T12:41:46Z",
     "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by ",
+    "id": "Samantha3782/DM-Code-Agent",
+    "language": "Python",
+    "name": "Samantha3782/DM-Code-Agent",
+    "stars": 0,
+    "updated_at": "2026-10-16T12:41:21Z",
+    "url": "https://github.com/Samantha3782/DM-Code-Agent"
+  },
+  {
+    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
+    "id": "beatrizrenard/CodeJury",
+    "language": "Python",
+    "name": "beatrizrenard/CodeJury",
+    "stars": 0,
+    "updated_at": "2026-10-16T12:38:59Z",
+    "url": "https://github.com/beatrizrenard/CodeJury"
+  },
+  {
+    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
+    "id": "wufufu770/d2d",
+    "language": "JavaScript",
+    "name": "wufufu770/d2d",
+    "stars": 5,
+    "updated_at": "2026-10-16T12:38:38Z",
+    "url": "https://github.com/wufufu770/d2d"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-16T12:36:26Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 5,
+    "updated_at": "2026-10-16T12:32:36Z",
+    "url": "https://github.com/plurnk/plurnk"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-16T12:32:17Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "\u628a\u4efb\u52a1\u6d3e\u53d1\u7ed9\u672c\u673a ZCode CLI \u65e0\u5934\u8fdb\u7a0b\u7684 DeepSeek Harness \u63d2\u4ef6\uff1a\u9762\u677f\u53ef\u76d1\u89c6/\u7ec8\u6b62/\u7eed\u8dd1/\u6362\u901a\u9053\uff1b\u5355\u5199\u8005\u6587\u4ef6\u9501 + \u7528\u91cf\u53f0\u8d26 + \u964d\u7ea7\u94fe\u3002\u652f\u6301\u4ed8\u8d39\u5957\u9910\u4e0e\u514d\u8d39\u989d\u5ea6\uff08Start Plan \u6d3b\u52a8\u8d60\u9001\uff09\u4e24\u79cd\u989d\u5ea6\uff0c\u540e\u8005\u6258\u7ba1\u5b98\u65b9",
+    "id": "Shuffle-1992/dsh-dispatch",
+    "language": "JavaScript",
+    "name": "Shuffle-1992/dsh-dispatch",
+    "stars": 1,
+    "updated_at": "2026-10-16T12:31:50Z",
+    "url": "https://github.com/Shuffle-1992/dsh-dispatch"
+  },
+  {
+    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
+    "id": "xanstomper/mochi",
+    "language": "TypeScript",
+    "name": "xanstomper/mochi",
+    "stars": 1,
+    "updated_at": "2026-10-16T12:30:33Z",
+    "url": "https://github.com/xanstomper/mochi"
+  },
+  {
+    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-16T12:44:05Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
     "id": "yologdev/yoagent",
     "language": "Rust",
     "name": "yologdev/yoagent",
-    "stars": 360,
+    "stars": 361,
     "updated_at": "2026-10-16T12:25:39Z",
     "url": "https://github.com/yologdev/yoagent"
   },
@@ -79,33 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T12:19:17Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
-    "id": "uukuguy/capstone",
-    "language": "Python",
-    "name": "uukuguy/capstone",
-    "stars": 0,
-    "updated_at": "2026-10-16T12:18:40Z",
-    "url": "https://github.com/uukuguy/capstone"
-  },
-  {
-    "description": "Portable pi harness powered by Rust native tools \u2014 lean core, progressive disclosure, zero absolute paths.",
-    "id": "nurmdrafi/pi-native",
-    "language": "JavaScript",
-    "name": "nurmdrafi/pi-native",
-    "stars": 0,
-    "updated_at": "2026-10-16T12:18:01Z",
-    "url": "https://github.com/nurmdrafi/pi-native"
-  },
-  {
-    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
-    "id": "plurnk/plurnk",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk",
-    "stars": 5,
-    "updated_at": "2026-10-16T12:17:20Z",
-    "url": "https://github.com/plurnk/plurnk"
   },
   {
     "description": "A local-first AI companion for Windows: it remembers you, dreams over your day at night, follows up on what matters and ",
@@ -149,7 +221,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 6247,
-    "updated_at": "2026-10-16T12:15:50Z",
+    "updated_at": "2026-10-16T12:38:47Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -171,15 +243,6 @@
     "url": "https://github.com/Finn-jiejie/hengzhi"
   },
   {
-    "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
-    "id": "weihuaguo270-ops/react-agent",
-    "language": "Python",
-    "name": "weihuaguo270-ops/react-agent",
-    "stars": 0,
-    "updated_at": "2026-10-16T12:25:30Z",
-    "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
     "description": "\u628a ZCode\uff08Z.ai / BigModel\uff09\u6ce8\u518c\u4e3a DeepSeek Harness\uff08DSH\uff09\u7684 LLM provider\uff1a\u4ed8\u8d39 Coding Plan \u76f4\u8fde\uff0c\u514d\u8d39\u989d\u5ea6\uff08Start Plan \u6d3b\u52a8\u8d60\u9001\uff09\u6258\u7ba1\u5b98\u65b9 agent \u4ee3\u53d1 \u2014\u2014 ",
     "id": "Shuffle-1992/dsh-connect-zcode",
     "language": "JavaScript",
@@ -187,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T12:04:25Z",
     "url": "https://github.com/Shuffle-1992/dsh-connect-zcode"
-  },
-  {
-    "description": "\u628a\u4efb\u52a1\u6d3e\u53d1\u7ed9\u672c\u673a ZCode CLI \u65e0\u5934\u8fdb\u7a0b\u7684 DeepSeek Harness \u63d2\u4ef6\uff1a\u9762\u677f\u53ef\u76d1\u89c6/\u7ec8\u6b62/\u7eed\u8dd1/\u6362\u901a\u9053\uff1b\u5355\u5199\u8005\u6587\u4ef6\u9501 + \u7528\u91cf\u53f0\u8d26 + \u964d\u7ea7\u94fe\u3002\u652f\u6301\u4ed8\u8d39\u5957\u9910\u4e0e\u514d\u8d39\u989d\u5ea6\uff08Start Plan \u6d3b\u52a8\u8d60\u9001\uff09\u4e24\u79cd\u989d\u5ea6\uff0c\u540e\u8005\u6258\u7ba1\u5b98\u65b9",
-    "id": "Shuffle-1992/zcode-dispatch",
-    "language": "JavaScript",
-    "name": "Shuffle-1992/zcode-dispatch",
-    "stars": 1,
-    "updated_at": "2026-10-16T12:04:10Z",
-    "url": "https://github.com/Shuffle-1992/zcode-dispatch"
   },
   {
     "description": "Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by ",
@@ -256,7 +310,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 14320,
+    "stars": 14321,
     "updated_at": "2026-10-16T11:46:07Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -279,15 +333,6 @@
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-16T11:31:10Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
     "id": "genaforvena/mishe-tauftauf",
     "language": "Python",
@@ -301,7 +346,7 @@
     "id": "wuyhong715/rikkahub-agent-pure",
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
-    "stars": 45,
+    "stars": 46,
     "updated_at": "2026-10-16T11:27:21Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
@@ -403,50 +448,5 @@
     "stars": 21,
     "updated_at": "2026-10-16T12:14:58Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 13,
-    "updated_at": "2026-10-16T10:53:11Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
-    "id": "charlotte85759/CodeJury",
-    "language": "Python",
-    "name": "charlotte85759/CodeJury",
-    "stars": 0,
-    "updated_at": "2026-10-16T10:50:40Z",
-    "url": "https://github.com/charlotte85759/CodeJury"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 1188,
-    "updated_at": "2026-10-16T12:17:29Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 133,
-    "updated_at": "2026-10-16T10:43:02Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 15,
-    "updated_at": "2026-10-16T11:06:08Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   }
 ]
