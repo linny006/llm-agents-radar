@@ -1,12 +1,30 @@
 [
   {
+    "description": "Miki: a local-first autonomous AI agent that plans, uses tools, browses the web and edits files, with one global memory ",
+    "id": "glayph/Agent",
+    "language": "TypeScript",
+    "name": "glayph/Agent",
+    "stars": 0,
+    "updated_at": "2026-10-16T20:00:09Z",
+    "url": "https://github.com/glayph/Agent"
+  },
+  {
     "description": "Hermes Agent on Termux (Android): one-command install from prebuilt, checksum-verified Python wheels. No compiling on yo",
     "id": "bd-loser/hermes-bionic",
     "language": "Shell",
     "name": "bd-loser/hermes-bionic",
     "stars": 1,
-    "updated_at": "2026-10-16T19:41:15Z",
+    "updated_at": "2026-10-16T19:58:40Z",
     "url": "https://github.com/bd-loser/hermes-bionic"
+  },
+  {
+    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
+    "id": "Sigmanih/SigmaStudio",
+    "language": "Python",
+    "name": "Sigmanih/SigmaStudio",
+    "stars": 8,
+    "updated_at": "2026-10-16T19:56:07Z",
+    "url": "https://github.com/Sigmanih/SigmaStudio"
   },
   {
     "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
@@ -14,7 +32,7 @@
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 219,
-    "updated_at": "2026-10-16T19:40:25Z",
+    "updated_at": "2026-10-16T19:52:22Z",
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
@@ -41,7 +59,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-16T19:38:34Z",
+    "updated_at": "2026-10-16T19:58:05Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -167,7 +185,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-16T19:36:58Z",
+    "updated_at": "2026-10-16T19:58:12Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-16T16:45:58Z",
     "url": "https://github.com/nurmdrafi/pi-native"
-  },
-  {
-    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
-    "id": "xanstomper/mochi",
-    "language": "TypeScript",
-    "name": "xanstomper/mochi",
-    "stars": 1,
-    "updated_at": "2026-10-16T16:23:08Z",
-    "url": "https://github.com/xanstomper/mochi"
-  },
-  {
-    "description": "\u628a\u5b98\u65b9\u6781\u7b80\u63d0\u793a\u8bcd\u4e0e PTC \u7f16\u6392\u7ec4\u5408\u8d77\u6765\uff0c\u63d0\u4f9b\u5b8c\u6574\u63d2\u4ef6\u5de5\u5177\u548c Windows \u7ec8\u7aef\u9002\u914d\u3002 \u6b22\u8fce\u63d0\u4ea4 issues \u548c PR\u3002",
-    "id": "STARDUSTLC666/dsh-minimal-ptc",
-    "language": "JavaScript",
-    "name": "STARDUSTLC666/dsh-minimal-ptc",
-    "stars": 2,
-    "updated_at": "2026-10-16T16:22:31Z",
-    "url": "https://github.com/STARDUSTLC666/dsh-minimal-ptc"
   }
 ]
