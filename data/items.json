@@ -1,12 +1,12 @@
 [
   {
-    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
-    "id": "uukuguy/capstone",
-    "language": "Python",
-    "name": "uukuguy/capstone",
-    "stars": 0,
-    "updated_at": "2026-10-16T13:29:57Z",
-    "url": "https://github.com/uukuguy/capstone"
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 5,
+    "updated_at": "2026-10-16T13:44:12Z",
+    "url": "https://github.com/plurnk/plurnk"
   },
   {
     "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
@@ -14,8 +14,89 @@
     "language": "Python",
     "name": "brutal-45/Nexus-LLM",
     "stars": 0,
-    "updated_at": "2026-10-16T13:28:18Z",
+    "updated_at": "2026-10-16T13:43:22Z",
     "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "LLM \u6570\u636e\u5206\u6790\u5de5\u4f5c\u53f0\uff1a\u4e0a\u4f20\u6570\u636e\u96c6\u81ea\u52a8\u5b8c\u6210\u6e05\u6d17\u3001\u7edf\u8ba1\u5206\u6790\u3001\u53ef\u89c6\u5316\u4e0e\u62a5\u544a\uff1b\u53d7\u63a7\u5de5\u5177\u96c6 + \u53ea\u8bfb SQL\uff08SQLite / PostgreSQL\uff09\u00b7 MCP \u6570\u636e\u9762 \u00b7 Plotly + ECharts \u53cc\u5f15\u64ce \u00b7 FastAPI + Reac",
+    "id": "xiaomaozjj666/data-analysis-agent",
+    "language": "Python",
+    "name": "xiaomaozjj666/data-analysis-agent",
+    "stars": 1,
+    "updated_at": "2026-10-16T13:43:14Z",
+    "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
+  },
+  {
+    "description": "GitHub Issue \u5206\u6790\u667a\u80fd\u4f53\uff1a\u6709\u754c\u5de5\u5177\u5faa\u73af\u63a2\u7d22\u4ed3\u5e93\u6e90\u7801\uff0c\u751f\u6210\u5e26\u884c\u7ea7\u8bc1\u636e\u7684\u6839\u56e0\u62a5\u544a\u4e0e\u4fee\u590d\u8865\u4e01\uff0c\u9ed8\u8ba4\u53ea\u8bfb\uff0c\u53ef\u663e\u5f0f\u5f00\u542f PR \u63d0\u6848",
+    "id": "xiaomaozjj666/issue-agent",
+    "language": "Python",
+    "name": "xiaomaozjj666/issue-agent",
+    "stars": 1,
+    "updated_at": "2026-10-16T13:42:59Z",
+    "url": "https://github.com/xiaomaozjj666/issue-agent"
+  },
+  {
+    "description": "\u8861\u77e5 \u00b7 \u4e61\u6751\u5b66\u6821\u8bd5\u5377\u51cf\u8d1f\u5de5\u4f5c\u53f0\uff1a\u771f\u5b9e\u8bd5\u5377\u5bfc\u5165 \u2192 \u9010\u9898\u5224\u5377 \u2192 \u9519\u8bef\u7387\u5206\u6790 \u2192 \u540c\u4f34\u4e92\u52a9 \u2192 \u5f31\u9879\u5355\u4e0e\u8bb2\u8bc4\u4ea7\u7269\uff08FastAPI + \u672c\u5730 OCR + \u591a Agent SSE\uff09",
+    "id": "Finn-jiejie/hengzhi",
+    "language": "JavaScript",
+    "name": "Finn-jiejie/hengzhi",
+    "stars": 0,
+    "updated_at": "2026-10-16T13:42:38Z",
+    "url": "https://github.com/Finn-jiejie/hengzhi"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 29,
+    "updated_at": "2026-10-16T13:40:38Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-16T13:39:50Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
+    "id": "uukuguy/capstone",
+    "language": "Python",
+    "name": "uukuguy/capstone",
+    "stars": 0,
+    "updated_at": "2026-10-16T13:37:11Z",
+    "url": "https://github.com/uukuguy/capstone"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "TypeScript",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8838,
+    "updated_at": "2026-10-16T13:34:37Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4451,
+    "updated_at": "2026-10-16T13:39:35Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-16T13:33:14Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "\u4fe1\u606f\u91c7\u96c6\u88c5\u7f6e\u667a\u80fd\u8fd0\u7ef4 Agent \u7cfb\u7edf\uff1a\u7528 OpenSpec \u89c4\u683c\u9a71\u52a8\uff0c\u4ece\u544a\u8b66\u63a5\u5165\u5230\u8bca\u65ad\u62a5\u544a\u7684\u5b8c\u6574\u94fe\u8def\u3002",
@@ -32,7 +113,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-16T13:29:43Z",
+    "updated_at": "2026-10-16T13:45:08Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -59,7 +140,7 @@
     "language": "Rust",
     "name": "yologdev/yoagent",
     "stars": 361,
-    "updated_at": "2026-10-16T13:20:59Z",
+    "updated_at": "2026-10-16T13:43:45Z",
     "url": "https://github.com/yologdev/yoagent"
   },
   {
@@ -70,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-10-16T13:16:16Z",
     "url": "https://github.com/lefan17/agent-test-hub"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-16T13:13:14Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "LLM Agent \u670d\u52a1\uff1aLangChain + FastAPI + Vue3\uff0c\u6df7\u5408\u68c0\u7d22 RAG \u5e26\u5f15\u7528\u6eaf\u6e90\uff0cReAct \u53cc\u67b6\u6784\u5b9e\u6d4b\u62e9\u4f18\uff0898.5% vs 89.7%\uff09\uff0c\u8bed\u4e49\u7f13\u5b58\u96f6\u8bef\u547d\u4e2d\uff0c158 \u6761\u8bc4\u6d4b + CI \u56de\u5f52\u95e8\u7981\uff0cDocker \u516c",
@@ -153,15 +225,6 @@
     "url": "https://github.com/ImWuMie/wear-agent"
   },
   {
-    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
-    "id": "plurnk/plurnk",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk",
-    "stars": 5,
-    "updated_at": "2026-10-16T13:01:31Z",
-    "url": "https://github.com/plurnk/plurnk"
-  },
-  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
@@ -185,7 +248,7 @@
     "language": "Python",
     "name": "weihuaguo270-ops/react-agent",
     "stars": 0,
-    "updated_at": "2026-10-16T13:11:13Z",
+    "updated_at": "2026-10-16T13:37:50Z",
     "url": "https://github.com/weihuaguo270-ops/react-agent"
   },
   {
@@ -241,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T12:38:59Z",
     "url": "https://github.com/beatrizrenard/CodeJury"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-16T12:32:17Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "ReAct Agent with persistent short-term memory, entity tracking and anaphora resolution - handles follow-ups like \"what a",
@@ -351,15 +405,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "\u8861\u77e5 \u00b7 \u4e61\u6751\u5b66\u6821\u8bd5\u5377\u51cf\u8d1f\u5de5\u4f5c\u53f0\uff1a\u771f\u5b9e\u8bd5\u5377\u5bfc\u5165 \u2192 \u9010\u9898\u5224\u5377 \u2192 \u9519\u8bef\u7387\u5206\u6790 \u2192 \u540c\u4f34\u4e92\u52a9 \u2192 \u5f31\u9879\u5355\u4e0e\u8bb2\u8bc4\u4ea7\u7269\uff08FastAPI + \u672c\u5730 OCR + \u591a Agent SSE\uff09",
-    "id": "Finn-jiejie/hengzhi",
-    "language": "JavaScript",
-    "name": "Finn-jiejie/hengzhi",
-    "stars": 0,
-    "updated_at": "2026-10-16T12:11:30Z",
-    "url": "https://github.com/Finn-jiejie/hengzhi"
-  },
-  {
     "description": "\u628a ZCode\uff08Z.ai / BigModel\uff09\u6ce8\u518c\u4e3a DeepSeek Harness\uff08DSH\uff09\u7684 LLM provider\uff1a\u4ed8\u8d39 Coding Plan \u76f4\u8fde\uff0c\u514d\u8d39\u989d\u5ea6\uff08Start Plan \u6d3b\u52a8\u8d60\u9001\uff09\u6258\u7ba1\u5b98\u65b9 agent \u4ee3\u53d1 \u2014\u2014 ",
     "id": "Shuffle-1992/dsh-connect-zcode",
     "language": "JavaScript",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-16T11:57:17Z",
     "url": "https://github.com/no42-org/twiki"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 82,
-    "updated_at": "2026-10-16T11:57:00Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Local-first open-source AI coding agent built with Go \u2014 Desktop, CLI, TUI, WebUI, MCP, Skills, multi-agent workflows, an",
-    "id": "konglong87/go-e2e",
-    "language": "Go",
-    "name": "konglong87/go-e2e",
-    "stars": 0,
-    "updated_at": "2026-10-16T11:53:55Z",
-    "url": "https://github.com/konglong87/go-e2e"
-  },
-  {
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "id": "lsdefine/GenericAgent",
-    "language": "Python",
-    "name": "lsdefine/GenericAgent",
-    "stars": 14321,
-    "updated_at": "2026-10-16T11:46:07Z",
-    "url": "https://github.com/lsdefine/GenericAgent"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 6,
-    "updated_at": "2026-10-16T11:44:44Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
-    "id": "wuyhong715/rikkahub-agent-pure",
-    "language": "Kotlin",
-    "name": "wuyhong715/rikkahub-agent-pure",
-    "stars": 46,
-    "updated_at": "2026-10-16T13:22:37Z",
-    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   }
 ]
