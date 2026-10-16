@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-16 03:43 UTC
+> ⏰ Last updated: 2026-10-16 03:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -76,7 +76,7 @@ expired items removed — so you can rely on what you see being current.
 | 32 | [zurdonman/dsh-termux-native-o-android-ai-agent-setup](https://github.com/zurdonman/dsh-termux-native-o-android-ai-agent-setup) | 0 | Shell | 2026-10-16 | Instalar DeepSeek Harness (DSH) en Android con Termux, sin PC ni proot: instalador de un comando, arreglos para Android, |
 | 33 | [xanstomper/mochi](https://github.com/xanstomper/mochi) | 1 | TypeScript | 2026-10-16 | Mochi — a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP  |
 | 34 | [sumiredc/molt](https://github.com/sumiredc/molt) | 0 | Rust | 2026-10-16 | A Rust coding agent that writes what you already know in bulk, and what you have not written yet one explained step at a |
-| 35 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 790 | JavaScript | 2026-10-16 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
+| 35 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 791 | JavaScript | 2026-10-16 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
 | 36 | [Maximooch/penguin](https://github.com/Maximooch/penguin) | 6 | Python | 2026-10-16 | 🐧 is currently a work in progress... Stay tuned!  |
 | 37 | [franckolv-dev/ELY2](https://github.com/franckolv-dev/ELY2) | 1 | Python | 2026-10-16 | Autonomous personal agent: talks, acts, never gives up. Multi-model, multi-user, self-improving |
 | 38 | [410979729/scope-recall-hermes](https://github.com/410979729/scope-recall-hermes) | 356 | Python | 2026-10-16 | Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall, |
