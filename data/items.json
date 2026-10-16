@@ -1,11 +1,65 @@
 [
   {
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 4,
+    "updated_at": "2026-10-16T01:14:16Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
+    "id": "xanstomper/mochi",
+    "language": "TypeScript",
+    "name": "xanstomper/mochi",
+    "stars": 1,
+    "updated_at": "2026-10-16T01:11:24Z",
+    "url": "https://github.com/xanstomper/mochi"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-10-16T01:08:45Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "An identity file for AI agents: name, job, face, voice and vibe, signed by the agent. Install it into Claude Code, Codex",
+    "id": "5dive-ai/openagent",
+    "language": "JavaScript",
+    "name": "5dive-ai/openagent",
+    "stars": 2,
+    "updated_at": "2026-10-16T01:07:29Z",
+    "url": "https://github.com/5dive-ai/openagent"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 131,
+    "updated_at": "2026-10-16T01:06:44Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-10-16T01:05:49Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
     "id": "JSL107/personal_agents",
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-10-16T00:57:42Z",
+    "updated_at": "2026-10-16T01:14:37Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -16,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T00:56:58Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 4,
-    "updated_at": "2026-10-16T00:53:19Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
   },
   {
     "description": "\uac70\uc2dc \u2192 \uc0b0\uc5c5 \uc0ac\uc774\ud074 \u2192 \ud14c\ub9c8 \u2192 \uc885\ubaa9 \u2192 \ud3ec\ud2b8\ud3f4\ub9ac\uc624 \ud558\ud5a5\uc2dd \ub9ac\uc11c\uce58 \ud30c\uc774\ud504\ub77c\uc778. \uc78a\ud600\uc9c4 \uc139\ud130\uc758 \uc0ac\uc774\ud074 \uc800\uc810\uc744 \ucc3e\uace0, \uac00\uce58\ud568\uc815\uacfc \uac00\ub974\uace0, \ube44\uc911\u00b7\ubb3c\ud0c0\uae30 \uc0ac\ub2e4\ub9ac\u00b72\ub2e8 \uc2a4\ud0d1\u00b7TP \uae4c\uc9c0 \uacc4\ud68d\ud55c\ub2e4 \u00b7 US top-down se",
@@ -88,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T00:31:14Z",
     "url": "https://github.com/xufenghe/aimo3-agentic-inference"
-  },
-  {
-    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
-    "id": "xanstomper/mochi",
-    "language": "TypeScript",
-    "name": "xanstomper/mochi",
-    "stars": 1,
-    "updated_at": "2026-10-16T00:29:08Z",
-    "url": "https://github.com/xanstomper/mochi"
   },
   {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
@@ -175,7 +211,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "TypeScript",
     "name": "strands-agents/harness-sdk",
-    "stars": 8827,
+    "stars": 8828,
     "updated_at": "2026-10-15T23:56:46Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -252,15 +288,6 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-10-15T22:59:28Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "Your personal agent, on your own machine. Connect the AI you already subscribe to (ChatGPT via Codex, Claude via Claude ",
     "id": "Jongtae/agentos",
     "language": "Python",
@@ -275,7 +302,7 @@
     "language": "Python",
     "name": "CIRISAI/CIRISAgent",
     "stars": 57,
-    "updated_at": "2026-10-15T22:44:37Z",
+    "updated_at": "2026-10-16T01:01:03Z",
     "url": "https://github.com/CIRISAI/CIRISAgent"
   },
   {
@@ -324,24 +351,6 @@
     "url": "https://github.com/ariannamethod/SUBLITERATUS"
   },
   {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 131,
-    "updated_at": "2026-10-15T22:04:40Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-10-15T22:03:48Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
@@ -383,7 +392,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 12,
-    "updated_at": "2026-10-16T00:50:49Z",
+    "updated_at": "2026-10-16T01:02:38Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-15T21:15:10Z",
     "url": "https://github.com/glayph/Agent"
-  },
-  {
-    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
-    "id": "arjun29158/CodeJury",
-    "language": "Python",
-    "name": "arjun29158/CodeJury",
-    "stars": 0,
-    "updated_at": "2026-10-15T21:10:20Z",
-    "url": "https://github.com/arjun29158/CodeJury"
   }
 ]
