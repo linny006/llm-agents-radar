@@ -1,5 +1,23 @@
 [
   {
+    "description": "A terminal AI agent written from scratch in Rust (multi-provider, file and shell tools). Learning project.",
+    "id": "samliumay/hanami_agent",
+    "language": "Rust",
+    "name": "samliumay/hanami_agent",
+    "stars": 5,
+    "updated_at": "2026-10-16T20:03:29Z",
+    "url": "https://github.com/samliumay/hanami_agent"
+  },
+  {
+    "description": "A guide to New York City you can ask anything: an agent that answers from a live NYC lakehouse first, then city feeds an",
+    "id": "giridhar1103/NYCynapse.Ai",
+    "language": "Python",
+    "name": "giridhar1103/NYCynapse.Ai",
+    "stars": 0,
+    "updated_at": "2026-10-16T20:01:42Z",
+    "url": "https://github.com/giridhar1103/NYCynapse.Ai"
+  },
+  {
     "description": "Miki: a local-first autonomous AI agent that plans, uses tools, browses the web and edits files, with one global memory ",
     "id": "glayph/Agent",
     "language": "TypeScript",
@@ -167,7 +185,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 13,
-    "updated_at": "2026-10-16T19:07:12Z",
+    "updated_at": "2026-10-16T20:04:21Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -196,15 +214,6 @@
     "stars": 25,
     "updated_at": "2026-10-16T19:00:43Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "A terminal AI agent written from scratch in Rust (multi-provider, file and shell tools). Learning project.",
-    "id": "samliumay/hanami_agent",
-    "language": "Rust",
-    "name": "samliumay/hanami_agent",
-    "stars": 5,
-    "updated_at": "2026-10-16T18:57:54Z",
-    "url": "https://github.com/samliumay/hanami_agent"
   },
   {
     "description": "AI-orchestrated job search pipeline: scrapes 5 UA job boards, uses Claude API to score matches & classify emails, writes",
@@ -439,14 +448,5 @@
     "stars": 1197,
     "updated_at": "2026-10-16T16:59:17Z",
     "url": "https://github.com/Zen4-bit/Proxima"
-  },
-  {
-    "description": "Portable pi harness powered by Rust native tools \u2014 lean core, progressive disclosure, zero absolute paths.",
-    "id": "nurmdrafi/pi-native",
-    "language": "TypeScript",
-    "name": "nurmdrafi/pi-native",
-    "stars": 0,
-    "updated_at": "2026-10-16T16:45:58Z",
-    "url": "https://github.com/nurmdrafi/pi-native"
   }
 ]
