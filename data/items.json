@@ -1,5 +1,41 @@
 [
   {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 13,
+    "updated_at": "2026-10-16T02:58:07Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-16T02:52:06Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 25,
+    "updated_at": "2026-10-16T02:51:51Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "An open-source research agent system for your Zotero library.",
+    "id": "yilewang/llm-for-zotero",
+    "language": "TypeScript",
+    "name": "yilewang/llm-for-zotero",
+    "stars": 3317,
+    "updated_at": "2026-10-16T02:51:15Z",
+    "url": "https://github.com/yilewang/llm-for-zotero"
+  },
+  {
     "description": "Python SDK for durable AI agents: survive crashes, pause for human approval at no cost, scale from a script to a multi-h",
     "id": "initxy/noeta",
     "language": "Python",
@@ -23,7 +59,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-10-16T02:34:07Z",
+    "updated_at": "2026-10-16T02:49:59Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -52,15 +88,6 @@
     "stars": 5,
     "updated_at": "2026-10-16T02:29:48Z",
     "url": "https://github.com/Rekin226/Agronaut"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-16T02:26:51Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "Open spec and CLI (MIT) for AI agent identity and agent-to-agent messaging. Runs with npx.",
@@ -108,15 +135,6 @@
     "url": "https://github.com/CIRISAI/CIRISAgent"
   },
   {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 13,
-    "updated_at": "2026-10-16T02:23:14Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "With Collaplex Agent, build anything you envision \u2014 locally. A local-first agent runtime for real machine work: the prog",
     "id": "Collaplex/Collaplex-Agent-OS",
     "language": "Python",
@@ -131,7 +149,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4450,
-    "updated_at": "2026-10-16T02:21:03Z",
+    "updated_at": "2026-10-16T02:48:11Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -169,15 +187,6 @@
     "stars": 3,
     "updated_at": "2026-10-16T02:06:21Z",
     "url": "https://github.com/lusipad/browser-agent"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 25,
-    "updated_at": "2026-10-16T02:03:36Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
@@ -248,7 +257,7 @@
     "language": "TypeScript",
     "name": "alexwkleung/reika",
     "stars": 9,
-    "updated_at": "2026-10-16T01:30:50Z",
+    "updated_at": "2026-10-16T02:53:06Z",
     "url": "https://github.com/alexwkleung/reika"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 28,
     "updated_at": "2026-10-15T23:48:17Z",
     "url": "https://github.com/open-PASO/openPASO"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 6,
-    "updated_at": "2026-10-15T23:42:53Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   }
 ]
