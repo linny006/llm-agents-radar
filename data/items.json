@@ -1,12 +1,66 @@
 [
   {
+    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
+    "id": "brutal-45/Nexus-LLM",
+    "language": "Python",
+    "name": "brutal-45/Nexus-LLM",
+    "stars": 0,
+    "updated_at": "2026-10-16T16:59:10Z",
+    "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 29,
-    "updated_at": "2026-10-16T16:44:43Z",
+    "updated_at": "2026-10-16T16:58:45Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\u8861\u77e5 \u00b7 \u4e61\u6751\u5b66\u6821\u8bd5\u5377\u51cf\u8d1f\u5de5\u4f5c\u53f0\uff1a\u771f\u5b9e\u8bd5\u5377\u5bfc\u5165 \u2192 \u9010\u9898\u5224\u5377 \u2192 \u9519\u8bef\u7387\u5206\u6790 \u2192 \u540c\u4f34\u4e92\u52a9 \u2192 \u5f31\u9879\u5355\u4e0e\u8bb2\u8bc4\u4ea7\u7269\uff08FastAPI + \u672c\u5730 OCR + \u591a Agent SSE\uff09",
+    "id": "Finn-jiejie/hengzhi",
+    "language": "JavaScript",
+    "name": "Finn-jiejie/hengzhi",
+    "stars": 0,
+    "updated_at": "2026-10-16T16:52:49Z",
+    "url": "https://github.com/Finn-jiejie/hengzhi"
+  },
+  {
+    "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 219,
+    "updated_at": "2026-10-16T16:52:28Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-16T16:51:09Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-16T16:48:08Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Portable pi harness powered by Rust native tools \u2014 lean core, progressive disclosure, zero absolute paths.",
+    "id": "nurmdrafi/pi-native",
+    "language": "TypeScript",
+    "name": "nurmdrafi/pi-native",
+    "stars": 0,
+    "updated_at": "2026-10-16T16:45:58Z",
+    "url": "https://github.com/nurmdrafi/pi-native"
   },
   {
     "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
@@ -16,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-10-16T16:44:34Z",
     "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
-    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
-    "id": "brutal-45/Nexus-LLM",
-    "language": "Python",
-    "name": "brutal-45/Nexus-LLM",
-    "stars": 0,
-    "updated_at": "2026-10-16T16:44:06Z",
-    "url": "https://github.com/brutal-45/Nexus-LLM"
   },
   {
     "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
@@ -50,7 +95,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 46,
-    "updated_at": "2026-10-16T16:33:02Z",
+    "updated_at": "2026-10-16T16:52:24Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -108,20 +153,11 @@
     "url": "https://github.com/STARDUSTLC666/dsh-minimal-ptc"
   },
   {
-    "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 219,
-    "updated_at": "2026-10-16T16:28:54Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
     "description": "A programming framework for agentic AI",
     "id": "microsoft/autogen",
     "language": "Python",
     "name": "microsoft/autogen",
-    "stars": 61442,
+    "stars": 61443,
     "updated_at": "2026-10-16T16:14:37Z",
     "url": "https://github.com/microsoft/autogen"
   },
@@ -171,40 +207,13 @@
     "url": "https://github.com/AdhamAymanAlrfae/Personal-AI-Cortex"
   },
   {
-    "description": "Portable pi harness powered by Rust native tools \u2014 lean core, progressive disclosure, zero absolute paths.",
-    "id": "nurmdrafi/pi-native",
-    "language": "TypeScript",
-    "name": "nurmdrafi/pi-native",
-    "stars": 0,
-    "updated_at": "2026-10-16T15:53:59Z",
-    "url": "https://github.com/nurmdrafi/pi-native"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-16T15:51:49Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-16T16:44:53Z",
+    "updated_at": "2026-10-16T16:52:12Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-16T15:56:13Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "\u6b66\u6c49\u5927\u5b66\u5730\u7a7a\u5b66\u9662 2026 \u5927\u521b\uff1a\u591a\u667a\u80fd\u4f53 AI \u91ce\u5916\u53f0\u7ad9\u7ba1\u7406\u7cfb\u7edf \u2014\u2014 \u76d1\u6d4b/\u8d28\u63a7/\u7814\u5224/\u6d3e\u5355/\u5f52\u6863\u95ed\u73af\u3002LangGraph \u8fd0\u884c\u65f6 \u00b7 MCP \u5de5\u5177\u63a5\u53e3 \u00b7 \u89c4\u5219\u88c1\u51b3 + \u5927\u6a21\u578b\u5f52\u56e0\u3002\u516c\u5f00\u8131\u654f\u4ed3\u5e93",
@@ -400,7 +409,7 @@
     "id": "honestDS/MonoLight",
     "language": "Python",
     "name": "honestDS/MonoLight",
-    "stars": 8,
+    "stars": 9,
     "updated_at": "2026-10-16T14:30:47Z",
     "url": "https://github.com/honestDS/MonoLight"
   },
@@ -439,14 +448,5 @@
     "stars": 25,
     "updated_at": "2026-10-16T14:12:07Z",
     "url": "https://github.com/emqnuele/projectBEA"
-  },
-  {
-    "description": "Tauri desktop shell for the local-first Bodhi agent: manages Bamboo startup/reuse and health; packaged builds open the B",
-    "id": "bigduu/Bodhi-AI",
-    "language": "JavaScript",
-    "name": "bigduu/Bodhi-AI",
-    "stars": 17,
-    "updated_at": "2026-10-16T14:09:28Z",
-    "url": "https://github.com/bigduu/Bodhi-AI"
   }
 ]
