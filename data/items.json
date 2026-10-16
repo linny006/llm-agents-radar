@@ -1,21 +1,57 @@
 [
   {
-    "description": "A programming framework for agentic AI",
-    "id": "microsoft/autogen",
-    "language": "Python",
-    "name": "microsoft/autogen",
-    "stars": 61443,
-    "updated_at": "2026-10-16T16:14:37Z",
-    "url": "https://github.com/microsoft/autogen"
-  },
-  {
     "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
     "id": "brutal-45/Nexus-LLM",
     "language": "Python",
     "name": "brutal-45/Nexus-LLM",
     "stars": 0,
-    "updated_at": "2026-10-16T16:13:59Z",
+    "updated_at": "2026-10-16T16:29:03Z",
     "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 821,
+    "updated_at": "2026-10-16T16:29:00Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
+    "id": "uukuguy/capstone",
+    "language": "Python",
+    "name": "uukuguy/capstone",
+    "stars": 0,
+    "updated_at": "2026-10-16T16:27:41Z",
+    "url": "https://github.com/uukuguy/capstone"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4451,
+    "updated_at": "2026-10-16T16:27:20Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 29,
+    "updated_at": "2026-10-16T16:24:22Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "TypeScript",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8839,
+    "updated_at": "2026-10-16T16:23:49Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
@@ -23,8 +59,35 @@
     "language": "TypeScript",
     "name": "xanstomper/mochi",
     "stars": 1,
-    "updated_at": "2026-10-16T16:11:03Z",
+    "updated_at": "2026-10-16T16:23:08Z",
     "url": "https://github.com/xanstomper/mochi"
+  },
+  {
+    "description": "\u628a\u5b98\u65b9\u6781\u7b80\u63d0\u793a\u8bcd\u4e0e PTC \u7f16\u6392\u7ec4\u5408\u8d77\u6765\uff0c\u63d0\u4f9b\u5b8c\u6574\u63d2\u4ef6\u5de5\u5177\u548c Windows \u7ec8\u7aef\u9002\u914d\u3002 \u6b22\u8fce\u63d0\u4ea4 issues \u548c PR\u3002",
+    "id": "STARDUSTLC666/dsh-minimal-ptc",
+    "language": "JavaScript",
+    "name": "STARDUSTLC666/dsh-minimal-ptc",
+    "stars": 2,
+    "updated_at": "2026-10-16T16:22:31Z",
+    "url": "https://github.com/STARDUSTLC666/dsh-minimal-ptc"
+  },
+  {
+    "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 219,
+    "updated_at": "2026-10-16T16:28:54Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "A programming framework for agentic AI",
+    "id": "microsoft/autogen",
+    "language": "Python",
+    "name": "microsoft/autogen",
+    "stars": 61444,
+    "updated_at": "2026-10-16T16:14:37Z",
+    "url": "https://github.com/microsoft/autogen"
   },
   {
     "description": "Distill any LLM into a small, fast, calibrated classifier. A teacher LLM (Claude, Gemini, OpenAI or any compatible API) ",
@@ -54,24 +117,6 @@
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
-    "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 219,
-    "updated_at": "2026-10-16T16:08:43Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "TypeScript",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8838,
-    "updated_at": "2026-10-16T16:03:13Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "A local-first AI companion for Windows: it remembers you, dreams over your day at night, follows up on what matters and ",
     "id": "b7216309-jpg/little-bot",
     "language": "JavaScript",
@@ -79,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T16:02:34Z",
     "url": "https://github.com/b7216309-jpg/little-bot"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 29,
-    "updated_at": "2026-10-16T15:56:32Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "A personal knowledge assistant leveraging LLM to answer questions from document collections with verifiable source citat",
@@ -113,7 +149,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 2,
-    "updated_at": "2026-10-16T15:52:17Z",
+    "updated_at": "2026-10-16T16:26:34Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -131,7 +167,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-16T16:10:03Z",
+    "updated_at": "2026-10-16T16:29:17Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -279,15 +315,6 @@
     "url": "https://github.com/Kaelvyn47/media-agent-delivery-trace"
   },
   {
-    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
-    "id": "uukuguy/capstone",
-    "language": "Python",
-    "name": "uukuguy/capstone",
-    "stars": 0,
-    "updated_at": "2026-10-16T14:52:44Z",
-    "url": "https://github.com/uukuguy/capstone"
-  },
-  {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
     "id": "b-macker/NAAb",
     "language": "C++",
@@ -421,32 +448,5 @@
     "stars": 17,
     "updated_at": "2026-10-16T14:09:28Z",
     "url": "https://github.com/bigduu/Bodhi-AI"
-  },
-  {
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
-    "id": "bigfish1913/pi-rust",
-    "language": "Rust",
-    "name": "bigfish1913/pi-rust",
-    "stars": 110,
-    "updated_at": "2026-10-16T14:08:01Z",
-    "url": "https://github.com/bigfish1913/pi-rust"
-  },
-  {
-    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-    "id": "BlockRunAI/Franklin",
-    "language": "TypeScript",
-    "name": "BlockRunAI/Franklin",
-    "stars": 559,
-    "updated_at": "2026-10-16T14:06:01Z",
-    "url": "https://github.com/BlockRunAI/Franklin"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 6,
-    "updated_at": "2026-10-16T14:01:50Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   }
 ]
