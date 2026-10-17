@@ -1,12 +1,84 @@
 [
   {
+    "description": "Play Heroes of Might and Magic III (VCMI) with your AI companion: in-game chat, live turn reports, Claude as a hotseat p",
+    "id": "sibylsea-hub/heros3-agent-companion",
+    "language": "Python",
+    "name": "sibylsea-hub/heros3-agent-companion",
+    "stars": 0,
+    "updated_at": "2026-10-17T07:29:37Z",
+    "url": "https://github.com/sibylsea-hub/heros3-agent-companion"
+  },
+  {
     "description": "ObfusAI rewrites the prompt before it leaves your process so a leaked copy is a wall of symbols, while a capable model \u2014",
     "id": "GANGMU-SBOM/ObfusAI",
     "language": "Python",
     "name": "GANGMU-SBOM/ObfusAI",
     "stars": 0,
-    "updated_at": "2026-10-17T07:14:49Z",
+    "updated_at": "2026-10-17T07:29:32Z",
     "url": "https://github.com/GANGMU-SBOM/ObfusAI"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "TypeScript",
+    "name": "dsswift/ion",
+    "stars": 4,
+    "updated_at": "2026-10-17T07:28:22Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
+    "id": "QQSHI13/fox-agent",
+    "language": "TypeScript",
+    "name": "QQSHI13/fox-agent",
+    "stars": 2,
+    "updated_at": "2026-10-17T07:27:08Z",
+    "url": "https://github.com/QQSHI13/fox-agent"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "liumiaoqi/MaiBot",
+    "language": "Python",
+    "name": "liumiaoqi/MaiBot",
+    "stars": 1,
+    "updated_at": "2026-10-17T07:22:49Z",
+    "url": "https://github.com/liumiaoqi/MaiBot"
+  },
+  {
+    "description": "\u589e\u957f\u8425\u9500 Buzz\uff5c\u5f15\u6d41\u5f15\u64ce\u3002Growth Marketer \u2014 the traffic engine that funnels buyers to checkout.",
+    "id": "xhqing/GrowthMarketerAgent",
+    "language": "JavaScript",
+    "name": "xhqing/GrowthMarketerAgent",
+    "stars": 1,
+    "updated_at": "2026-10-17T07:23:49Z",
+    "url": "https://github.com/xhqing/GrowthMarketerAgent"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-17T07:21:55Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Portable pi harness powered by Rust native tools \u2014 lean core, progressive disclosure, zero absolute paths.",
+    "id": "nurmdrafi/pi-native",
+    "language": "JavaScript",
+    "name": "nurmdrafi/pi-native",
+    "stars": 0,
+    "updated_at": "2026-10-17T07:21:41Z",
+    "url": "https://github.com/nurmdrafi/pi-native"
+  },
+  {
+    "description": "\u9009\u54c1\u7b56\u7565\u5e08 Scout\uff5c\u7814\u5224\u5165\u53e3\uff0c\u4ea7\u51fa\u673a\u4f1a\u7814\u5224\u62a5\u544a\u3002Product Strategist \u2014 research & strategy entry of a digital-product pipeline.",
+    "id": "xhqing/ProductStrategistAgent",
+    "language": "\u2014",
+    "name": "xhqing/ProductStrategistAgent",
+    "stars": 0,
+    "updated_at": "2026-10-17T07:20:43Z",
+    "url": "https://github.com/xhqing/ProductStrategistAgent"
   },
   {
     "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
@@ -14,8 +86,89 @@
     "language": "TypeScript",
     "name": "plurnk/plurnk",
     "stars": 5,
-    "updated_at": "2026-10-17T07:14:44Z",
+    "updated_at": "2026-10-17T07:25:39Z",
     "url": "https://github.com/plurnk/plurnk"
+  },
+  {
+    "description": "\u6570\u636e\u5206\u6790\u5e08 Echo\uff5c\u590d\u76d8\u53cd\u9988\u56de\u8def+\u6253\u6cd5\u5e93\u3002Data Analyst \u2014 feedback loop & learning engine.",
+    "id": "xhqing/DataAnalystAgent",
+    "language": "Python",
+    "name": "xhqing/DataAnalystAgent",
+    "stars": 0,
+    "updated_at": "2026-10-17T07:19:28Z",
+    "url": "https://github.com/xhqing/DataAnalystAgent"
+  },
+  {
+    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
+    "id": "xieguigang/sciBASIC",
+    "language": "Visual Basic .NET",
+    "name": "xieguigang/sciBASIC",
+    "stars": 79,
+    "updated_at": "2026-10-17T07:18:15Z",
+    "url": "https://github.com/xieguigang/sciBASIC"
+  },
+  {
+    "description": "Solve Cloudflare Turnstile from a LangChain agent via the Peak API \u2014 a BaseTool, not a browser wrapper.",
+    "id": "CircuitSavage/langchain-turnstile",
+    "language": "Python",
+    "name": "CircuitSavage/langchain-turnstile",
+    "stars": 0,
+    "updated_at": "2026-10-17T07:17:53Z",
+    "url": "https://github.com/CircuitSavage/langchain-turnstile"
+  },
+  {
+    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
+    "id": "uukuguy/capstone",
+    "language": "Python",
+    "name": "uukuguy/capstone",
+    "stars": 0,
+    "updated_at": "2026-10-17T07:17:43Z",
+    "url": "https://github.com/uukuguy/capstone"
+  },
+  {
+    "description": "Executive Assistant Kit | Gig hunting & general coordination. \u603b\u7ecf\u7406\u52a9\u7406\u2014\u2014\u627e\u5355\u63a5\u6d3b\u5165\u53e3\u4e0e\u7efc\u5408\u4e8b\u52a1\u534f\u8c03\u3002",
+    "id": "xhqing/ExecutiveAssistantAgent",
+    "language": "TypeScript",
+    "name": "xhqing/ExecutiveAssistantAgent",
+    "stars": 0,
+    "updated_at": "2026-10-17T07:17:04Z",
+    "url": "https://github.com/xhqing/ExecutiveAssistantAgent"
+  },
+  {
+    "description": "Solve Cloudflare Turnstile from a browser-use agent via the Peak API: one action, reads the sitekey, puts the token back",
+    "id": "CircuitSavage/browser-use-turnstile",
+    "language": "Python",
+    "name": "CircuitSavage/browser-use-turnstile",
+    "stars": 0,
+    "updated_at": "2026-10-17T07:16:49Z",
+    "url": "https://github.com/CircuitSavage/browser-use-turnstile"
+  },
+  {
+    "description": "Production-oriented LLM agent with tool planning, validation, retries, replanning, and Docker-based runtime.",
+    "id": "furkanbati/enterprise-ai-agent",
+    "language": "Python",
+    "name": "furkanbati/enterprise-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-10-17T07:20:40Z",
+    "url": "https://github.com/furkanbati/enterprise-ai-agent"
+  },
+  {
+    "description": "An AI red-team agent for authorized labs and web app pentesting workflows. Turns Claude Code / OpenCode / Codex into a s",
+    "id": "hvieira608/RedteamAgent",
+    "language": "Python",
+    "name": "hvieira608/RedteamAgent",
+    "stars": 0,
+    "updated_at": "2026-10-17T07:15:59Z",
+    "url": "https://github.com/hvieira608/RedteamAgent"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-10-17T07:15:41Z",
+    "url": "https://github.com/g761007/daily-dispatch"
   },
   {
     "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
@@ -63,24 +216,6 @@
     "url": "https://github.com/JoseTiwari1423/taracode"
   },
   {
-    "description": "An AI red-team agent for authorized labs and web app pentesting workflows. Turns Claude Code / OpenCode / Codex into a s",
-    "id": "hvieira608/RedteamAgent",
-    "language": "Python",
-    "name": "hvieira608/RedteamAgent",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:14:46Z",
-    "url": "https://github.com/hvieira608/RedteamAgent"
-  },
-  {
-    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
-    "id": "xieguigang/sciBASIC",
-    "language": "Visual Basic .NET",
-    "name": "xieguigang/sciBASIC",
-    "stars": 79,
-    "updated_at": "2026-10-17T07:08:38Z",
-    "url": "https://github.com/xieguigang/sciBASIC"
-  },
-  {
     "description": "Community registry of AI agent manifests, capabilities, skills, and workflows for Octomind \u2014 run a fully-configured spec",
     "id": "Muvon/octomind-tap",
     "language": "Python",
@@ -88,15 +223,6 @@
     "stars": 5,
     "updated_at": "2026-10-17T07:08:28Z",
     "url": "https://github.com/Muvon/octomind-tap"
-  },
-  {
-    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
-    "id": "QQSHI13/fox-agent",
-    "language": "TypeScript",
-    "name": "QQSHI13/fox-agent",
-    "stars": 2,
-    "updated_at": "2026-10-17T07:07:05Z",
-    "url": "https://github.com/QQSHI13/fox-agent"
   },
   {
     "description": "Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by ",
@@ -122,7 +248,7 @@
     "language": "Kotlin",
     "name": "Ultra-Guru/Android-Guru-Agent",
     "stars": 11,
-    "updated_at": "2026-10-17T07:07:31Z",
+    "updated_at": "2026-10-17T07:30:09Z",
     "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
   },
   {
@@ -135,21 +261,12 @@
     "url": "https://github.com/Alejandro3096/Upwork-AI-jobs-applier"
   },
   {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "liumiaoqi/MaiBot",
-    "language": "Python",
-    "name": "liumiaoqi/MaiBot",
-    "stars": 1,
-    "updated_at": "2026-10-17T07:04:57Z",
-    "url": "https://github.com/liumiaoqi/MaiBot"
-  },
-  {
     "description": "Hermes Agent on Termux (Android): one-command install from prebuilt, checksum-verified Python wheels. No compiling on yo",
     "id": "bd-loser/hermes-bionic",
     "language": "Shell",
     "name": "bd-loser/hermes-bionic",
     "stars": 1,
-    "updated_at": "2026-10-17T07:03:35Z",
+    "updated_at": "2026-10-17T07:16:41Z",
     "url": "https://github.com/bd-loser/hermes-bionic"
   },
   {
@@ -212,26 +329,8 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 14,
-    "updated_at": "2026-10-17T06:46:02Z",
+    "updated_at": "2026-10-17T07:23:43Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-17T07:07:18Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "Portable pi harness powered by Rust native tools \u2014 lean core, progressive disclosure, zero absolute paths.",
-    "id": "nurmdrafi/pi-native",
-    "language": "JavaScript",
-    "name": "nurmdrafi/pi-native",
-    "stars": 0,
-    "updated_at": "2026-10-17T06:40:19Z",
-    "url": "https://github.com/nurmdrafi/pi-native"
   },
   {
     "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
@@ -320,7 +419,7 @@
     "language": "Java",
     "name": "kangwoo/aimon-core",
     "stars": 0,
-    "updated_at": "2026-10-17T06:07:19Z",
+    "updated_at": "2026-10-17T07:20:21Z",
     "url": "https://github.com/kangwoo/aimon-core"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-17T05:50:26Z",
     "url": "https://github.com/Make-Uha-Great-Again/UnrealHybridAgent"
-  },
-  {
-    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
-    "id": "Maryam70995/CodeJury",
-    "language": "Python",
-    "name": "Maryam70995/CodeJury",
-    "stars": 0,
-    "updated_at": "2026-10-17T05:48:29Z",
-    "url": "https://github.com/Maryam70995/CodeJury"
-  },
-  {
-    "description": "\u975e\u5e38\u8be6\u7ec6\u7684\u5927\u6a21\u578bLLM\u7684\u5b66\u4e60\u6559\u7a0b\u4e0e\u7b14\u8bb0",
-    "id": "Tranh300/LLM_book",
-    "language": "Python",
-    "name": "Tranh300/LLM_book",
-    "stars": 0,
-    "updated_at": "2026-10-17T05:47:33Z",
-    "url": "https://github.com/Tranh300/LLM_book"
-  },
-  {
-    "description": "Community DSH host plugin that automatically resumes root-agent sessions after max-token truncation, with bounded retrie",
-    "id": "Wepoi9/dsh-max-token-auto-continue",
-    "language": "TypeScript",
-    "name": "Wepoi9/dsh-max-token-auto-continue",
-    "stars": 0,
-    "updated_at": "2026-10-17T05:38:08Z",
-    "url": "https://github.com/Wepoi9/dsh-max-token-auto-continue"
-  },
-  {
-    "description": "JevHub \u00b7 Jev \u751f\u6001\u70ed\u699c \u628a\u503c\u5f97\u5173\u6ce8\u7684 Jev \u9879\u76ee\u3001\u6559\u7a0b\u548c\u8ba8\u8bba\uff0c\u6c47\u5230\u4e00\u9875\u3002 \u81ea\u52a8\u53d1\u73b0 \u00b7 \u6bcf\u65e5\u66f4\u65b0 \u00b7 \u6309 Stars \u6392\u5e8f \u00b7 \u4e2d\u82f1\u53cc\u8bed",
-    "id": "frontierlabai/JevHub",
-    "language": "Python",
-    "name": "frontierlabai/JevHub",
-    "stars": 8,
-    "updated_at": "2026-10-17T05:36:23Z",
-    "url": "https://github.com/frontierlabai/JevHub"
-  },
-  {
-    "description": "DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy.",
-    "id": "schneider4296/taracode",
-    "language": "Go",
-    "name": "schneider4296/taracode",
-    "stars": 0,
-    "updated_at": "2026-10-17T05:36:10Z",
-    "url": "https://github.com/schneider4296/taracode"
-  },
-  {
-    "description": "Lean, extended fork of Nous Research's Hermes Agent \u2014 free model suite, connectors, and ~20 perf fixes. Upstream credite",
-    "id": "Chensihakniroth/anakot-agent-v1",
-    "language": "Python",
-    "name": "Chensihakniroth/anakot-agent-v1",
-    "stars": 0,
-    "updated_at": "2026-10-17T05:34:58Z",
-    "url": "https://github.com/Chensihakniroth/anakot-agent-v1"
-  },
-  {
-    "description": "An AI red-team agent for authorized labs and web app pentesting workflows. Turns Claude Code / OpenCode / Codex into a s",
-    "id": "sebasanastasiou27/RedteamAgent",
-    "language": "Python",
-    "name": "sebasanastasiou27/RedteamAgent",
-    "stars": 0,
-    "updated_at": "2026-10-17T05:32:16Z",
-    "url": "https://github.com/sebasanastasiou27/RedteamAgent"
-  },
-  {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 5,
-    "updated_at": "2026-10-17T05:31:01Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
-  },
-  {
-    "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
-    "id": "weihuaguo270-ops/react-agent",
-    "language": "Python",
-    "name": "weihuaguo270-ops/react-agent",
-    "stars": 0,
-    "updated_at": "2026-10-17T05:26:16Z",
-    "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
-    "description": "\uc9c1\ubc29\u00b7\ub124\uc774\ubc84 \ubd80\ub3d9\uc0b0\u00b7\ub2f9\uadfc\ubd80\ub3d9\uc0b0 \ub9e4\ubb3c\uacfc \uc2e4\uac70\ub798\uac00\ub97c \uc870\ud68c\ud558\ub294 LLM \uc5d0\uc774\uc804\ud2b8\uc6a9 CLI \u00b7 Korean real estate listings CLI for LLM agents (Zigbang, Naver Real Esta",
-    "id": "Rukkakka/jibsa",
-    "language": "Python",
-    "name": "Rukkakka/jibsa",
-    "stars": 0,
-    "updated_at": "2026-10-17T05:23:13Z",
-    "url": "https://github.com/Rukkakka/jibsa"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-10-17T05:21:29Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   }
 ]
