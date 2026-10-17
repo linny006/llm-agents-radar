@@ -5,8 +5,53 @@
     "language": "TypeScript",
     "name": "QQSHI13/fox-agent",
     "stars": 2,
-    "updated_at": "2026-10-17T09:17:52Z",
+    "updated_at": "2026-10-17T09:29:17Z",
     "url": "https://github.com/QQSHI13/fox-agent"
+  },
+  {
+    "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
+    "id": "xhqing/DayTradingAgent",
+    "language": "Python",
+    "name": "xhqing/DayTradingAgent",
+    "stars": 3,
+    "updated_at": "2026-10-17T09:28:50Z",
+    "url": "https://github.com/xhqing/DayTradingAgent"
+  },
+  {
+    "description": "Deterministic evidence-retrieval entry for the Agent Memory Leaderboard: Add and Search only, no answer generation",
+    "id": "aidless/just-agent",
+    "language": "Python",
+    "name": "aidless/just-agent",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:27:52Z",
+    "url": "https://github.com/aidless/just-agent"
+  },
+  {
+    "description": "Turn your Claude subscription into an AI employee in Telegram. Open-source kit behind 18 working assistants.",
+    "id": "shakhruz/mila-companion",
+    "language": "Python",
+    "name": "shakhruz/mila-companion",
+    "stars": 1,
+    "updated_at": "2026-10-17T09:27:44Z",
+    "url": "https://github.com/shakhruz/mila-companion"
+  },
+  {
+    "description": "PortableLM \u2014 Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe",
+    "id": "FrancoisArslan/PrivatePixelPrompt",
+    "language": "HTML",
+    "name": "FrancoisArslan/PrivatePixelPrompt",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:27:35Z",
+    "url": "https://github.com/FrancoisArslan/PrivatePixelPrompt"
+  },
+  {
+    "description": "Hermes Agent on Termux (Android): one-command install from prebuilt, checksum-verified Python wheels. No compiling on yo",
+    "id": "bd-loser/hermes-bionic",
+    "language": "Shell",
+    "name": "bd-loser/hermes-bionic",
+    "stars": 1,
+    "updated_at": "2026-10-17T09:24:49Z",
+    "url": "https://github.com/bd-loser/hermes-bionic"
   },
   {
     "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
@@ -234,15 +279,6 @@
     "url": "https://github.com/dpark2380/insurance-claims-agent"
   },
   {
-    "description": "Turn your Claude subscription into an AI employee in Telegram. Open-source kit behind 18 working assistants.",
-    "id": "shakhruz/mila-companion",
-    "language": "Python",
-    "name": "shakhruz/mila-companion",
-    "stars": 1,
-    "updated_at": "2026-10-17T08:08:09Z",
-    "url": "https://github.com/shakhruz/mila-companion"
-  },
-  {
     "description": "Cron scheduling for the DeepSeek Harness \u2014 bounded tasks with calendar & interval rules, delivered to live agents",
     "id": "fan56/dsh-cron",
     "language": "TypeScript",
@@ -313,24 +349,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T07:54:27Z",
     "url": "https://github.com/koprjaa/iphone-agent"
-  },
-  {
-    "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
-    "id": "xhqing/DayTradingAgent",
-    "language": "Python",
-    "name": "xhqing/DayTradingAgent",
-    "stars": 3,
-    "updated_at": "2026-10-17T07:54:07Z",
-    "url": "https://github.com/xhqing/DayTradingAgent"
-  },
-  {
-    "description": "Hermes Agent on Termux (Android): one-command install from prebuilt, checksum-verified Python wheels. No compiling on yo",
-    "id": "bd-loser/hermes-bionic",
-    "language": "Shell",
-    "name": "bd-loser/hermes-bionic",
-    "stars": 1,
-    "updated_at": "2026-10-17T07:48:48Z",
-    "url": "https://github.com/bd-loser/hermes-bionic"
   },
   {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T07:17:53Z",
     "url": "https://github.com/CircuitSavage/langchain-turnstile"
-  },
-  {
-    "description": "Executive Assistant Kit | Gig hunting & general coordination. \u603b\u7ecf\u7406\u52a9\u7406\u2014\u2014\u627e\u5355\u63a5\u6d3b\u5165\u53e3\u4e0e\u7efc\u5408\u4e8b\u52a1\u534f\u8c03\u3002",
-    "id": "xhqing/ExecutiveAssistantAgent",
-    "language": "TypeScript",
-    "name": "xhqing/ExecutiveAssistantAgent",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:17:04Z",
-    "url": "https://github.com/xhqing/ExecutiveAssistantAgent"
-  },
-  {
-    "description": "Solve Cloudflare Turnstile from a browser-use agent via the Peak API: one action, reads the sitekey, puts the token back",
-    "id": "CircuitSavage/browser-use-turnstile",
-    "language": "Python",
-    "name": "CircuitSavage/browser-use-turnstile",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:16:49Z",
-    "url": "https://github.com/CircuitSavage/browser-use-turnstile"
   }
 ]
