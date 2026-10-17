@@ -1,5 +1,41 @@
 [
   {
+    "description": "Desktop AI coding agent for Linux/Windows/macOS: an Avalonia .NET app with git-worktree isolation per session, plan revi",
+    "id": "Kvindo/KvindoCode",
+    "language": "C#",
+    "name": "Kvindo/KvindoCode",
+    "stars": 2,
+    "updated_at": "2026-10-17T18:24:53Z",
+    "url": "https://github.com/Kvindo/KvindoCode"
+  },
+  {
+    "description": "Janko Hrasko - slovensky AI asistent: DeepSeek-V4-Pro na 2x8 H200 (SGLang/DeepEP), agent s RAG, webom a nastrojmi, verej",
+    "id": "cervenazelena/jankohrasko",
+    "language": "Python",
+    "name": "cervenazelena/jankohrasko",
+    "stars": 0,
+    "updated_at": "2026-10-17T18:24:35Z",
+    "url": "https://github.com/cervenazelena/jankohrasko"
+  },
+  {
+    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
+    "id": "alexwkleung/reika",
+    "language": "TypeScript",
+    "name": "alexwkleung/reika",
+    "stars": 11,
+    "updated_at": "2026-10-17T18:22:31Z",
+    "url": "https://github.com/alexwkleung/reika"
+  },
+  {
+    "description": "Production-oriented LLM agent with tool planning, validation, retries, replanning, and Docker-based runtime.",
+    "id": "furkanbati/enterprise-ai-agent",
+    "language": "Python",
+    "name": "furkanbati/enterprise-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-10-17T18:22:09Z",
+    "url": "https://github.com/furkanbati/enterprise-ai-agent"
+  },
+  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
@@ -41,7 +77,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 2,
-    "updated_at": "2026-10-17T18:03:32Z",
+    "updated_at": "2026-10-17T18:21:52Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -176,7 +212,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-17T18:14:56Z",
+    "updated_at": "2026-10-17T18:29:58Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -286,15 +322,6 @@
     "stars": 1,
     "updated_at": "2026-10-17T16:37:24Z",
     "url": "https://github.com/catsenior507/dsh-clock"
-  },
-  {
-    "description": "Desktop AI coding agent for Linux/Windows/macOS: an Avalonia .NET app with git-worktree isolation per session, plan revi",
-    "id": "Kvindo/KvindoCode",
-    "language": "C#",
-    "name": "Kvindo/KvindoCode",
-    "stars": 2,
-    "updated_at": "2026-10-17T16:36:35Z",
-    "url": "https://github.com/Kvindo/KvindoCode"
   },
   {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
@@ -414,15 +441,6 @@
     "url": "https://github.com/TatianaT13/websec-triage-agent"
   },
   {
-    "description": "Production-oriented LLM agent with tool planning, validation, retries, replanning, and Docker-based runtime.",
-    "id": "furkanbati/enterprise-ai-agent",
-    "language": "Python",
-    "name": "furkanbati/enterprise-ai-agent",
-    "stars": 0,
-    "updated_at": "2026-10-17T18:15:01Z",
-    "url": "https://github.com/furkanbati/enterprise-ai-agent"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 29,
     "updated_at": "2026-10-17T15:30:25Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Metacognitive extension suite for Pi coding agent",
-    "id": "kifirkin/pi-braid",
-    "language": "JavaScript",
-    "name": "kifirkin/pi-braid",
-    "stars": 1,
-    "updated_at": "2026-10-17T15:21:40Z",
-    "url": "https://github.com/kifirkin/pi-braid"
-  },
-  {
-    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
-    "id": "eshanized/M31A",
-    "language": "Rust",
-    "name": "eshanized/M31A",
-    "stars": 10,
-    "updated_at": "2026-10-17T15:19:07Z",
-    "url": "https://github.com/eshanized/M31A"
   }
 ]
