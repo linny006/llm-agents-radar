@@ -1,12 +1,93 @@
 [
   {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-10-17T11:29:39Z",
+    "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
+    "id": "bigfish1913/pi-rust",
+    "language": "Rust",
+    "name": "bigfish1913/pi-rust",
+    "stars": 111,
+    "updated_at": "2026-10-17T11:28:22Z",
+    "url": "https://github.com/bigfish1913/pi-rust"
+  },
+  {
     "description": "RETECO: A SemEval-2027 Shared Task on Reasoning-Oriented Retrieval",
     "id": "DataScienceUIBK/RETECO",
     "language": "Python",
     "name": "DataScienceUIBK/RETECO",
     "stars": 6,
-    "updated_at": "2026-10-17T11:14:52Z",
+    "updated_at": "2026-10-17T11:26:05Z",
     "url": "https://github.com/DataScienceUIBK/RETECO"
+  },
+  {
+    "description": "Harness LLMs with Multi-Agent Programming",
+    "id": "langroid/langroid",
+    "language": "Python",
+    "name": "langroid/langroid",
+    "stars": 4117,
+    "updated_at": "2026-10-17T11:24:21Z",
+    "url": "https://github.com/langroid/langroid"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 29,
+    "updated_at": "2026-10-17T11:21:55Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 134,
+    "updated_at": "2026-10-17T11:21:38Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 219,
+    "updated_at": "2026-10-17T11:20:56Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
+    "id": "hay-chat/hay-core",
+    "language": "TypeScript",
+    "name": "hay-chat/hay-core",
+    "stars": 5,
+    "updated_at": "2026-10-17T11:20:16Z",
+    "url": "https://github.com/hay-chat/hay-core"
+  },
+  {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 4,
+    "updated_at": "2026-10-17T11:16:51Z",
+    "url": "https://github.com/sydches/yuj"
+  },
+  {
+    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-17T11:15:42Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -14,7 +95,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4454,
-    "updated_at": "2026-10-17T11:14:41Z",
+    "updated_at": "2026-10-17T11:27:35Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -25,24 +106,6 @@
     "stars": 3,
     "updated_at": "2026-10-17T11:13:23Z",
     "url": "https://github.com/Shuffle-1992/dsh-context-pilot"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 29,
-    "updated_at": "2026-10-17T11:07:07Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 4,
-    "updated_at": "2026-10-17T11:03:11Z",
-    "url": "https://github.com/sydches/yuj"
   },
   {
     "description": "\u628a ZCode\uff08Z.ai / BigModel\uff09\u6ce8\u518c\u4e3a DeepSeek Harness\uff08DSH\uff09\u7684 LLM provider\uff1a\u4ed8\u8d39 Coding Plan \u76f4\u8fde\uff0c\u514d\u8d39\u989d\u5ea6\uff08Start Plan \u6d3b\u52a8\u8d60\u9001\uff09\u6258\u7ba1\u5b98\u65b9 agent \u4ee3\u53d1 \u2014\u2014 ",
@@ -99,21 +162,12 @@
     "url": "https://github.com/wufufu770/d2d"
   },
   {
-    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
-    "id": "kangwoo/aimon-core",
-    "language": "Java",
-    "name": "kangwoo/aimon-core",
-    "stars": 0,
-    "updated_at": "2026-10-17T11:11:03Z",
-    "url": "https://github.com/kangwoo/aimon-core"
-  },
-  {
     "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
     "id": "Ultra-Guru/Android-Guru-Agent",
     "language": "Kotlin",
     "name": "Ultra-Guru/Android-Guru-Agent",
     "stars": 11,
-    "updated_at": "2026-10-17T11:11:55Z",
+    "updated_at": "2026-10-17T11:23:10Z",
     "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
   },
   {
@@ -149,7 +203,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 49,
-    "updated_at": "2026-10-17T10:44:41Z",
+    "updated_at": "2026-10-17T11:19:54Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -387,15 +441,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-17T11:05:28Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
     "description": "CAE toolchain for IPM traction motors: geometry \u2192 EM field \u2192 structural FEM \u2192 thermal \u2192 drive cycle \u2192 PDF report. Every ",
     "id": "ThomasSchmiegelt/ema-motor-analysis",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-17T09:50:13Z",
     "url": "https://github.com/ThomasSchmiegelt/ema-motor-analysis"
-  },
-  {
-    "description": "DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy.",
-    "id": "elifzakharov793/taracode",
-    "language": "Go",
-    "name": "elifzakharov793/taracode",
-    "stars": 0,
-    "updated_at": "2026-10-17T09:49:39Z",
-    "url": "https://github.com/elifzakharov793/taracode"
-  },
-  {
-    "description": "AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter",
-    "id": "AlbertoPetrov/Upwork-AI-jobs-applier",
-    "language": "Python",
-    "name": "AlbertoPetrov/Upwork-AI-jobs-applier",
-    "stars": 0,
-    "updated_at": "2026-10-17T09:48:00Z",
-    "url": "https://github.com/AlbertoPetrov/Upwork-AI-jobs-applier"
-  },
-  {
-    "description": "AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter",
-    "id": "piotrsahin9887/Upwork-AI-jobs-applier",
-    "language": "Python",
-    "name": "piotrsahin9887/Upwork-AI-jobs-applier",
-    "stars": 0,
-    "updated_at": "2026-10-17T09:47:32Z",
-    "url": "https://github.com/piotrsahin9887/Upwork-AI-jobs-applier"
-  },
-  {
-    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
-    "id": "hsaghir/looplet",
-    "language": "Python",
-    "name": "hsaghir/looplet",
-    "stars": 7,
-    "updated_at": "2026-10-17T09:46:58Z",
-    "url": "https://github.com/hsaghir/looplet"
-  },
-  {
-    "description": "AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter",
-    "id": "akane798/Upwork-AI-jobs-applier",
-    "language": "Python",
-    "name": "akane798/Upwork-AI-jobs-applier",
-    "stars": 0,
-    "updated_at": "2026-10-17T09:46:27Z",
-    "url": "https://github.com/akane798/Upwork-AI-jobs-applier"
   }
 ]
