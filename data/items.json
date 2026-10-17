@@ -1,12 +1,147 @@
 [
   {
+    "description": "AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter",
+    "id": "piotrsahin9887/Upwork-AI-jobs-applier",
+    "language": "Python",
+    "name": "piotrsahin9887/Upwork-AI-jobs-applier",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:44:50Z",
+    "url": "https://github.com/piotrsahin9887/Upwork-AI-jobs-applier"
+  },
+  {
+    "description": "Portable pi harness powered by Rust native tools \u2014 lean core, progressive disclosure, zero absolute paths.",
+    "id": "nurmdrafi/pi-native",
+    "language": "JavaScript",
+    "name": "nurmdrafi/pi-native",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:44:06Z",
+    "url": "https://github.com/nurmdrafi/pi-native"
+  },
+  {
+    "description": "LLM Agent \u670d\u52a1\uff1aLangChain + FastAPI + Vue3\uff0c\u6df7\u5408\u68c0\u7d22 RAG \u5e26\u5f15\u7528\u6eaf\u6e90\uff0cReAct \u53cc\u67b6\u6784\u5b9e\u6d4b\u62e9\u4f18\uff0898.5% vs 89.7%\uff09\uff0c\u8bed\u4e49\u7f13\u5b58\u96f6\u8bef\u547d\u4e2d\uff0c158 \u6761\u8bc4\u6d4b + CI \u56de\u5f52\u95e8\u7981\uff0cDocker \u516c",
+    "id": "SYM529/myAgent",
+    "language": "Python",
+    "name": "SYM529/myAgent",
+    "stars": 1,
+    "updated_at": "2026-10-17T09:42:42Z",
+    "url": "https://github.com/SYM529/myAgent"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-17T09:40:52Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 269,
+    "updated_at": "2026-10-17T09:40:25Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
     "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
     "id": "QQSHI13/fox-agent",
     "language": "TypeScript",
     "name": "QQSHI13/fox-agent",
     "stars": 2,
-    "updated_at": "2026-10-17T09:29:17Z",
+    "updated_at": "2026-10-17T09:38:11Z",
     "url": "https://github.com/QQSHI13/fox-agent"
+  },
+  {
+    "description": "PortableLM \u2014 Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe",
+    "id": "MichaelHenry259/PrivatePixelPrompt",
+    "language": "CSS",
+    "name": "MichaelHenry259/PrivatePixelPrompt",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:38:09Z",
+    "url": "https://github.com/MichaelHenry259/PrivatePixelPrompt"
+  },
+  {
+    "description": "An AI red-team agent for authorized labs and web app pentesting workflows. Turns Claude Code / OpenCode / Codex into a s",
+    "id": "Sebastien768/RedteamAgent",
+    "language": "Python",
+    "name": "Sebastien768/RedteamAgent",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:37:07Z",
+    "url": "https://github.com/Sebastien768/RedteamAgent"
+  },
+  {
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 6,
+    "updated_at": "2026-10-17T09:36:41Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 5,
+    "updated_at": "2026-10-17T09:35:54Z",
+    "url": "https://github.com/ljedrz/nachalnik"
+  },
+  {
+    "description": "\u975e\u5e38\u8be6\u7ec6\u7684\u5927\u6a21\u578bLLM\u7684\u5b66\u4e60\u6559\u7a0b\u4e0e\u7b14\u8bb0",
+    "id": "kayla0040/LLM_book",
+    "language": "Python",
+    "name": "kayla0040/LLM_book",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:35:07Z",
+    "url": "https://github.com/kayla0040/LLM_book"
+  },
+  {
+    "description": "PortableLM \u2014 Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe",
+    "id": "miyeon233/PrivatePixelPrompt",
+    "language": "JavaScript",
+    "name": "miyeon233/PrivatePixelPrompt",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:34:53Z",
+    "url": "https://github.com/miyeon233/PrivatePixelPrompt"
+  },
+  {
+    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
+    "id": "Ultra-Guru/Android-Guru-Agent",
+    "language": "Kotlin",
+    "name": "Ultra-Guru/Android-Guru-Agent",
+    "stars": 11,
+    "updated_at": "2026-10-17T09:33:20Z",
+    "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
+  },
+  {
+    "description": "DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy.",
+    "id": "zhdanov58/taracode",
+    "language": "Go",
+    "name": "zhdanov58/taracode",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:32:45Z",
+    "url": "https://github.com/zhdanov58/taracode"
+  },
+  {
+    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
+    "id": "zMustafa30817/CodeJury",
+    "language": "Python",
+    "name": "zMustafa30817/CodeJury",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:31:42Z",
+    "url": "https://github.com/zMustafa30817/CodeJury"
+  },
+  {
+    "description": "PortableLM \u2014 Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe",
+    "id": "FrancoisArslan/PrivatePixelPrompt",
+    "language": "HTML",
+    "name": "FrancoisArslan/PrivatePixelPrompt",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:31:14Z",
+    "url": "https://github.com/FrancoisArslan/PrivatePixelPrompt"
   },
   {
     "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
@@ -36,15 +171,6 @@
     "url": "https://github.com/shakhruz/mila-companion"
   },
   {
-    "description": "PortableLM \u2014 Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe",
-    "id": "FrancoisArslan/PrivatePixelPrompt",
-    "language": "HTML",
-    "name": "FrancoisArslan/PrivatePixelPrompt",
-    "stars": 0,
-    "updated_at": "2026-10-17T09:27:35Z",
-    "url": "https://github.com/FrancoisArslan/PrivatePixelPrompt"
-  },
-  {
     "description": "Hermes Agent on Termux (Android): one-command install from prebuilt, checksum-verified Python wheels. No compiling on yo",
     "id": "bd-loser/hermes-bionic",
     "language": "Shell",
@@ -59,7 +185,7 @@
     "language": "Go",
     "name": "yurika0211/lucky-agent",
     "stars": 15,
-    "updated_at": "2026-10-17T09:17:13Z",
+    "updated_at": "2026-10-17T09:38:52Z",
     "url": "https://github.com/yurika0211/lucky-agent"
   },
   {
@@ -68,7 +194,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 2,
-    "updated_at": "2026-10-17T09:16:25Z",
+    "updated_at": "2026-10-17T09:39:15Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -81,15 +207,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "Portable pi harness powered by Rust native tools \u2014 lean core, progressive disclosure, zero absolute paths.",
-    "id": "nurmdrafi/pi-native",
-    "language": "JavaScript",
-    "name": "nurmdrafi/pi-native",
-    "stars": 0,
-    "updated_at": "2026-10-17T09:15:06Z",
-    "url": "https://github.com/nurmdrafi/pi-native"
-  },
-  {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
     "id": "SuperdeMan/cockpit-agent",
     "language": "Python",
@@ -97,24 +214,6 @@
     "stars": 25,
     "updated_at": "2026-10-17T09:11:14Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 6,
-    "updated_at": "2026-10-17T09:04:00Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
-  },
-  {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 269,
-    "updated_at": "2026-10-17T09:01:34Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
   {
     "description": "A local-first AI companion for Windows: it remembers you, dreams over your day at night, follows up on what matters and ",
@@ -131,7 +230,7 @@
     "language": "Python",
     "name": "hsaghir/looplet",
     "stars": 7,
-    "updated_at": "2026-10-17T08:59:22Z",
+    "updated_at": "2026-10-17T09:32:40Z",
     "url": "https://github.com/hsaghir/looplet"
   },
   {
@@ -311,7 +410,7 @@
     "language": "Java",
     "name": "kangwoo/aimon-core",
     "stars": 0,
-    "updated_at": "2026-10-17T09:20:10Z",
+    "updated_at": "2026-10-17T09:45:10Z",
     "url": "https://github.com/kangwoo/aimon-core"
   },
   {
@@ -329,17 +428,8 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 14,
-    "updated_at": "2026-10-17T08:59:14Z",
+    "updated_at": "2026-10-17T09:32:57Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
-    "id": "Ultra-Guru/Android-Guru-Agent",
-    "language": "Kotlin",
-    "name": "Ultra-Guru/Android-Guru-Agent",
-    "stars": 11,
-    "updated_at": "2026-10-17T07:56:09Z",
-    "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
   },
   {
     "description": "Control a real iPhone from a Mac over WebDriverAgent \u2014 live screen, tap/swipe/type, plus a Python client for LLM agents.",
@@ -358,95 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-17T07:44:04Z",
     "url": "https://github.com/liumiaoqi/MaiBot"
-  },
-  {
-    "description": "\u7535\u5546\u8fd0\u8425 Vendy\uff5c\u6210\u4ea4\uff1a\u4e0a\u67b6/\u5b9a\u4ef7/\u5c65\u7ea6/\u552e\u540e/\u5bf9\u8d26\u3002E-commerce Ops \u2014 the conversion & sales agent.",
-    "id": "xhqing/DigiVendAgent",
-    "language": "\u2014",
-    "name": "xhqing/DigiVendAgent",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:37:42Z",
-    "url": "https://github.com/xhqing/DigiVendAgent"
-  },
-  {
-    "description": "\u6570\u5b57\u4ea7\u54c1\u5236\u4f5c\u4eba Wright\uff5c\u628a\u673a\u4f1a\u505a\u6210\u53ef\u552e\u5356\u6210\u54c1\u3002Digital Product Producer \u2014 turns opportunities into finished products.",
-    "id": "xhqing/ProductProducerAgent",
-    "language": "JavaScript",
-    "name": "xhqing/ProductProducerAgent",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:35:39Z",
-    "url": "https://github.com/xhqing/ProductProducerAgent"
-  },
-  {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "TypeScript",
-    "name": "dsswift/ion",
-    "stars": 4,
-    "updated_at": "2026-10-17T07:28:22Z",
-    "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "\u589e\u957f\u8425\u9500 Buzz\uff5c\u5f15\u6d41\u5f15\u64ce\u3002Growth Marketer \u2014 the traffic engine that funnels buyers to checkout.",
-    "id": "xhqing/GrowthMarketerAgent",
-    "language": "JavaScript",
-    "name": "xhqing/GrowthMarketerAgent",
-    "stars": 1,
-    "updated_at": "2026-10-17T07:23:49Z",
-    "url": "https://github.com/xhqing/GrowthMarketerAgent"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-17T07:21:55Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "\u9009\u54c1\u7b56\u7565\u5e08 Scout\uff5c\u7814\u5224\u5165\u53e3\uff0c\u4ea7\u51fa\u673a\u4f1a\u7814\u5224\u62a5\u544a\u3002Product Strategist \u2014 research & strategy entry of a digital-product pipeline.",
-    "id": "xhqing/ProductStrategistAgent",
-    "language": "\u2014",
-    "name": "xhqing/ProductStrategistAgent",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:20:43Z",
-    "url": "https://github.com/xhqing/ProductStrategistAgent"
-  },
-  {
-    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
-    "id": "plurnk/plurnk",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk",
-    "stars": 5,
-    "updated_at": "2026-10-17T07:25:39Z",
-    "url": "https://github.com/plurnk/plurnk"
-  },
-  {
-    "description": "\u6570\u636e\u5206\u6790\u5e08 Echo\uff5c\u590d\u76d8\u53cd\u9988\u56de\u8def+\u6253\u6cd5\u5e93\u3002Data Analyst \u2014 feedback loop & learning engine.",
-    "id": "xhqing/DataAnalystAgent",
-    "language": "Python",
-    "name": "xhqing/DataAnalystAgent",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:19:28Z",
-    "url": "https://github.com/xhqing/DataAnalystAgent"
-  },
-  {
-    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
-    "id": "alexwkleung/reika",
-    "language": "TypeScript",
-    "name": "alexwkleung/reika",
-    "stars": 11,
-    "updated_at": "2026-10-17T07:18:01Z",
-    "url": "https://github.com/alexwkleung/reika"
-  },
-  {
-    "description": "Solve Cloudflare Turnstile from a LangChain agent via the Peak API \u2014 a BaseTool, not a browser wrapper.",
-    "id": "CircuitSavage/langchain-turnstile",
-    "language": "Python",
-    "name": "CircuitSavage/langchain-turnstile",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:17:53Z",
-    "url": "https://github.com/CircuitSavage/langchain-turnstile"
   }
 ]
