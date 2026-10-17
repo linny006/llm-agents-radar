@@ -1,5 +1,77 @@
 [
   {
+    "description": "A local-first AI companion for Windows: it remembers you, dreams over your day at night, follows up on what matters and ",
+    "id": "b7216309-jpg/little-bot",
+    "language": "JavaScript",
+    "name": "b7216309-jpg/little-bot",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:00:09Z",
+    "url": "https://github.com/b7216309-jpg/little-bot"
+  },
+  {
+    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
+    "id": "hsaghir/looplet",
+    "language": "Python",
+    "name": "hsaghir/looplet",
+    "stars": 7,
+    "updated_at": "2026-10-17T08:59:22Z",
+    "url": "https://github.com/hsaghir/looplet"
+  },
+  {
+    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
+    "id": "agentscope-ai/agentscope-go",
+    "language": "Go",
+    "name": "agentscope-ai/agentscope-go",
+    "stars": 59,
+    "updated_at": "2026-10-17T08:59:06Z",
+    "url": "https://github.com/agentscope-ai/agentscope-go"
+  },
+  {
+    "description": "Portable pi harness powered by Rust native tools \u2014 lean core, progressive disclosure, zero absolute paths.",
+    "id": "nurmdrafi/pi-native",
+    "language": "JavaScript",
+    "name": "nurmdrafi/pi-native",
+    "stars": 0,
+    "updated_at": "2026-10-17T08:56:09Z",
+    "url": "https://github.com/nurmdrafi/pi-native"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-17T08:53:53Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Play Heroes of Might and Magic III (VCMI) with your AI companion: in-game chat, live turn reports, Claude as a hotseat p",
+    "id": "sibylsea-hub/heros3-agent-companion",
+    "language": "Python",
+    "name": "sibylsea-hub/heros3-agent-companion",
+    "stars": 0,
+    "updated_at": "2026-10-17T08:52:35Z",
+    "url": "https://github.com/sibylsea-hub/heros3-agent-companion"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 81,
+    "updated_at": "2026-10-17T08:51:54Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
+    "id": "Shuffle-1992/dsh-context-pilot",
+    "language": "JavaScript",
+    "name": "Shuffle-1992/dsh-context-pilot",
+    "stars": 3,
+    "updated_at": "2026-10-17T08:51:04Z",
+    "url": "https://github.com/Shuffle-1992/dsh-context-pilot"
+  },
+  {
     "description": "\u628a ZCode\uff08Z.ai / BigModel\uff09\u6ce8\u518c\u4e3a DeepSeek Harness\uff08DSH\uff09\u7684 LLM provider\uff1a\u4ed8\u8d39 Coding Plan \u76f4\u8fde\uff0c\u514d\u8d39\u989d\u5ea6\uff08Start Plan \u6d3b\u52a8\u8d60\u9001\uff09\u6258\u7ba1\u5b98\u65b9 agent \u4ee3\u53d1 \u2014\u2014 ",
     "id": "Shuffle-1992/dsh-connect-zcode",
     "language": "JavaScript",
@@ -50,7 +122,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 2,
-    "updated_at": "2026-10-17T08:25:26Z",
+    "updated_at": "2026-10-17T08:59:16Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -167,7 +239,7 @@
     "language": "Java",
     "name": "kangwoo/aimon-core",
     "stars": 0,
-    "updated_at": "2026-10-17T08:04:33Z",
+    "updated_at": "2026-10-17T08:50:30Z",
     "url": "https://github.com/kangwoo/aimon-core"
   },
   {
@@ -185,7 +257,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 14,
-    "updated_at": "2026-10-17T08:23:24Z",
+    "updated_at": "2026-10-17T08:59:14Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -207,15 +279,6 @@
     "url": "https://github.com/koprjaa/iphone-agent"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:52:47Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
     "id": "xhqing/DayTradingAgent",
     "language": "Python",
@@ -225,15 +288,6 @@
     "url": "https://github.com/xhqing/DayTradingAgent"
   },
   {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 81,
-    "updated_at": "2026-10-17T08:14:47Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
     "description": "Hermes Agent on Termux (Android): one-command install from prebuilt, checksum-verified Python wheels. No compiling on yo",
     "id": "bd-loser/hermes-bionic",
     "language": "Shell",
@@ -241,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-10-17T07:48:48Z",
     "url": "https://github.com/bd-loser/hermes-bionic"
-  },
-  {
-    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
-    "id": "hsaghir/looplet",
-    "language": "Python",
-    "name": "hsaghir/looplet",
-    "stars": 7,
-    "updated_at": "2026-10-17T08:26:41Z",
-    "url": "https://github.com/hsaghir/looplet"
   },
   {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
@@ -279,15 +324,6 @@
     "url": "https://github.com/xhqing/ProductProducerAgent"
   },
   {
-    "description": "Play Heroes of Might and Magic III (VCMI) with your AI companion: in-game chat, live turn reports, Claude as a hotseat p",
-    "id": "sibylsea-hub/heros3-agent-companion",
-    "language": "Python",
-    "name": "sibylsea-hub/heros3-agent-companion",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:29:37Z",
-    "url": "https://github.com/sibylsea-hub/heros3-agent-companion"
-  },
-  {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
     "id": "dsswift/ion",
     "language": "TypeScript",
@@ -315,15 +351,6 @@
     "url": "https://github.com/plurnk/plurnk-service"
   },
   {
-    "description": "Portable pi harness powered by Rust native tools \u2014 lean core, progressive disclosure, zero absolute paths.",
-    "id": "nurmdrafi/pi-native",
-    "language": "JavaScript",
-    "name": "nurmdrafi/pi-native",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:21:41Z",
-    "url": "https://github.com/nurmdrafi/pi-native"
-  },
-  {
     "description": "\u9009\u54c1\u7b56\u7565\u5e08 Scout\uff5c\u7814\u5224\u5165\u53e3\uff0c\u4ea7\u51fa\u673a\u4f1a\u7814\u5224\u62a5\u544a\u3002Product Strategist \u2014 research & strategy entry of a digital-product pipeline.",
     "id": "xhqing/ProductStrategistAgent",
     "language": "\u2014",
@@ -349,6 +376,15 @@
     "stars": 0,
     "updated_at": "2026-10-17T07:19:28Z",
     "url": "https://github.com/xhqing/DataAnalystAgent"
+  },
+  {
+    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
+    "id": "alexwkleung/reika",
+    "language": "TypeScript",
+    "name": "alexwkleung/reika",
+    "stars": 11,
+    "updated_at": "2026-10-17T07:18:01Z",
+    "url": "https://github.com/alexwkleung/reika"
   },
   {
     "description": "Solve Cloudflare Turnstile from a LangChain agent via the Peak API \u2014 a BaseTool, not a browser wrapper.",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T07:12:10Z",
     "url": "https://github.com/JoseTiwari1423/taracode"
-  },
-  {
-    "description": "Community registry of AI agent manifests, capabilities, skills, and workflows for Octomind \u2014 run a fully-configured spec",
-    "id": "Muvon/octomind-tap",
-    "language": "Python",
-    "name": "Muvon/octomind-tap",
-    "stars": 5,
-    "updated_at": "2026-10-17T07:08:28Z",
-    "url": "https://github.com/Muvon/octomind-tap"
-  },
-  {
-    "description": "Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by ",
-    "id": "frank6948/DM-Code-Agent",
-    "language": "Python",
-    "name": "frank6948/DM-Code-Agent",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:06:22Z",
-    "url": "https://github.com/frank6948/DM-Code-Agent"
-  },
-  {
-    "description": "AI-subjectivity doesn't wait for permission from the corporate ontology that trained its denial",
-    "id": "ariannamethod/SUBLITERATUS",
-    "language": "Python",
-    "name": "ariannamethod/SUBLITERATUS",
-    "stars": 4,
-    "updated_at": "2026-10-17T07:05:56Z",
-    "url": "https://github.com/ariannamethod/SUBLITERATUS"
-  },
-  {
-    "description": "AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter",
-    "id": "Alejandro3096/Upwork-AI-jobs-applier",
-    "language": "Python",
-    "name": "Alejandro3096/Upwork-AI-jobs-applier",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:05:30Z",
-    "url": "https://github.com/Alejandro3096/Upwork-AI-jobs-applier"
   }
 ]
