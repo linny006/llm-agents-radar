@@ -1,12 +1,75 @@
 [
   {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 131,
+    "updated_at": "2026-10-17T08:29:03Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-10-17T08:28:10Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
     "id": "QQSHI13/fox-agent",
     "language": "TypeScript",
     "name": "QQSHI13/fox-agent",
     "stars": 2,
-    "updated_at": "2026-10-17T08:14:56Z",
+    "updated_at": "2026-10-17T08:27:07Z",
     "url": "https://github.com/QQSHI13/fox-agent"
+  },
+  {
+    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-17T08:25:26Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
+    "id": "Pan-Chera/Multi-Agent-CAD",
+    "language": "Python",
+    "name": "Pan-Chera/Multi-Agent-CAD",
+    "stars": 1038,
+    "updated_at": "2026-10-17T08:24:25Z",
+    "url": "https://github.com/Pan-Chera/Multi-Agent-CAD"
+  },
+  {
+    "description": "DeckSmith: an AI agent that builds PowerPoint decks from governed data, runnable end to end on a laptop with a Databrick",
+    "id": "santoshshinde2012/deck-smith-local",
+    "language": "Python",
+    "name": "santoshshinde2012/deck-smith-local",
+    "stars": 0,
+    "updated_at": "2026-10-17T08:23:13Z",
+    "url": "https://github.com/santoshshinde2012/deck-smith-local"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 269,
+    "updated_at": "2026-10-17T08:20:44Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
+    "id": "shimo4228/contemplative-agent",
+    "language": "Python",
+    "name": "shimo4228/contemplative-agent",
+    "stars": 9,
+    "updated_at": "2026-10-17T08:20:34Z",
+    "url": "https://github.com/shimo4228/contemplative-agent"
   },
   {
     "description": "Personal QQ copilot: message archive with roaming backfill, multimodal LLM agent, RAG, WebUI/CLI. Speaks the Milky proto",
@@ -18,21 +81,12 @@
     "url": "https://github.com/char-46/copilot-muze"
   },
   {
-    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 9,
-    "updated_at": "2026-10-17T08:14:25Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
     "description": "A multi-agent research system for the humanities and social sciences.",
     "id": "Luciole-Studio/Misaka-Agent",
     "language": "Python",
     "name": "Luciole-Studio/Misaka-Agent",
     "stars": 220,
-    "updated_at": "2026-10-17T08:13:38Z",
+    "updated_at": "2026-10-17T08:19:34Z",
     "url": "https://github.com/Luciole-Studio/Misaka-Agent"
   },
   {
@@ -43,15 +97,6 @@
     "stars": 5,
     "updated_at": "2026-10-17T08:13:33Z",
     "url": "https://github.com/wufufu770/d2d"
-  },
-  {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 269,
-    "updated_at": "2026-10-17T08:13:22Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
   {
     "description": "Production-oriented LLM agent with tool planning, validation, retries, replanning, and Docker-based runtime.",
@@ -72,13 +117,13 @@
     "url": "https://github.com/dpark2380/insurance-claims-agent"
   },
   {
-    "description": "DeckSmith: an AI agent that builds PowerPoint decks from governed data, runnable end to end on a laptop with a Databrick",
-    "id": "santoshshinde2012/deck-smith-local",
+    "description": "Turn your Claude subscription into an AI employee in Telegram. Open-source kit behind 18 working assistants.",
+    "id": "shakhruz/mila-companion",
     "language": "Python",
-    "name": "santoshshinde2012/deck-smith-local",
-    "stars": 0,
-    "updated_at": "2026-10-17T08:14:43Z",
-    "url": "https://github.com/santoshshinde2012/deck-smith-local"
+    "name": "shakhruz/mila-companion",
+    "stars": 1,
+    "updated_at": "2026-10-17T08:08:09Z",
+    "url": "https://github.com/shakhruz/mila-companion"
   },
   {
     "description": "Cron scheduling for the DeepSeek Harness \u2014 bounded tasks with calendar & interval rules, delivered to live agents",
@@ -131,17 +176,8 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 14,
-    "updated_at": "2026-10-17T07:57:39Z",
+    "updated_at": "2026-10-17T08:23:24Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-17T08:11:04Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
@@ -203,7 +239,7 @@
     "language": "Python",
     "name": "hsaghir/looplet",
     "stars": 7,
-    "updated_at": "2026-10-17T07:44:05Z",
+    "updated_at": "2026-10-17T08:26:41Z",
     "url": "https://github.com/hsaghir/looplet"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 10,
     "updated_at": "2026-10-17T07:00:28Z",
     "url": "https://github.com/eshanized/M31A"
-  },
-  {
-    "description": "Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/",
-    "id": "ZekaiShi/evo-subagent",
-    "language": "JavaScript",
-    "name": "ZekaiShi/evo-subagent",
-    "stars": 7,
-    "updated_at": "2026-10-17T06:58:26Z",
-    "url": "https://github.com/ZekaiShi/evo-subagent"
-  },
-  {
-    "description": "\u975e\u5e38\u8be6\u7ec6\u7684\u5927\u6a21\u578bLLM\u7684\u5b66\u4e60\u6559\u7a0b\u4e0e\u7b14\u8bb0",
-    "id": "rZakharov57587/LLM_book",
-    "language": "Python",
-    "name": "rZakharov57587/LLM_book",
-    "stars": 0,
-    "updated_at": "2026-10-17T06:56:12Z",
-    "url": "https://github.com/rZakharov57587/LLM_book"
-  },
-  {
-    "description": "\u975e\u5e38\u8be6\u7ec6\u7684\u5927\u6a21\u578bLLM\u7684\u5b66\u4e60\u6559\u7a0b\u4e0e\u7b14\u8bb0",
-    "id": "KonstantinBennett059/LLM_book",
-    "language": "Python",
-    "name": "KonstantinBennett059/LLM_book",
-    "stars": 0,
-    "updated_at": "2026-10-17T06:56:09Z",
-    "url": "https://github.com/KonstantinBennett059/LLM_book"
-  },
-  {
-    "description": "DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy.",
-    "id": "ewa592/taracode",
-    "language": "Go",
-    "name": "ewa592/taracode",
-    "stars": 0,
-    "updated_at": "2026-10-17T06:55:46Z",
-    "url": "https://github.com/ewa592/taracode"
   }
 ]
