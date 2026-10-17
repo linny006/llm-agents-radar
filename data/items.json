@@ -1,11 +1,74 @@
 [
   {
+    "description": "DevOps & Cloud SI Assistant that runs locally on taraengine for complete privacy.",
+    "id": "tara-vision/taracode",
+    "language": "Go",
+    "name": "tara-vision/taracode",
+    "stars": 51,
+    "updated_at": "2026-10-17T17:28:22Z",
+    "url": "https://github.com/tara-vision/taracode"
+  },
+  {
+    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 387,
+    "updated_at": "2026-10-17T17:27:22Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
+    "id": "memoways/ava-proto1",
+    "language": "TypeScript",
+    "name": "memoways/ava-proto1",
+    "stars": 0,
+    "updated_at": "2026-10-17T17:26:29Z",
+    "url": "https://github.com/memoways/ava-proto1"
+  },
+  {
+    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-17T17:24:28Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "Grux AI: open source AI agent for macOS (MIT). One Command Panel for your mail, calendar, meetings, files and a shell it",
+    "id": "dotcomjack/grux",
+    "language": "Swift",
+    "name": "dotcomjack/grux",
+    "stars": 30,
+    "updated_at": "2026-10-17T17:22:56Z",
+    "url": "https://github.com/dotcomjack/grux"
+  },
+  {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 4,
+    "updated_at": "2026-10-17T17:16:22Z",
+    "url": "https://github.com/sydches/yuj"
+  },
+  {
+    "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
+    "id": "yurika0211/lucky-agent",
+    "language": "Go",
+    "name": "yurika0211/lucky-agent",
+    "stars": 15,
+    "updated_at": "2026-10-17T17:15:47Z",
+    "url": "https://github.com/yurika0211/lucky-agent"
+  },
+  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-17T17:14:58Z",
+    "updated_at": "2026-10-17T17:28:16Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -14,7 +77,7 @@
     "language": "Rust",
     "name": "citizenhicks/mobius",
     "stars": 1,
-    "updated_at": "2026-10-17T17:12:14Z",
+    "updated_at": "2026-10-17T17:15:21Z",
     "url": "https://github.com/citizenhicks/mobius"
   },
   {
@@ -27,15 +90,6 @@
     "url": "https://github.com/kriss-b/llm-iso27001"
   },
   {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 4,
-    "updated_at": "2026-10-17T17:11:18Z",
-    "url": "https://github.com/sydches/yuj"
-  },
-  {
     "description": "\u300a\u5d29\u574f\uff1a\u661f\u7a79\u94c1\u9053\u300b\u6218\u6597\u95ee\u9898\u7684\u53ef\u590d\u73b0\u6c42\u89e3\u73af\u5883\u2014\u2014\u4ee5\u9ad8\u4fdd\u771f\u786e\u5b9a\u6027\u6a21\u62df\u4e3a\u88c1\u51b3\uff0c\u628a\u6218\u6597\u7814\u7a76\u53d8\u6210\u53ef\u9a8c\u8bc1\u3001\u53ef\u590d\u73b0\u3001\u53ef\u641c\u7d22\u7684\u5b9e\u9a8c\u95ee\u9898\uff1b\u4e0a\u5c42\u4e3a\u8bb0\u5fc6\u9a71\u52a8\u7684 autoresearch agent \u63a2\u7d22\u5faa\u73af\uff08\u5f00\u53d1\u4e2d\uff09\u3002",
     "id": "pzc2004/HSR_Nous",
     "language": "Python",
@@ -43,15 +97,6 @@
     "stars": 11,
     "updated_at": "2026-10-17T17:15:04Z",
     "url": "https://github.com/pzc2004/HSR_Nous"
-  },
-  {
-    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 387,
-    "updated_at": "2026-10-17T17:13:46Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
     "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
@@ -198,15 +243,6 @@
     "url": "https://github.com/openbin-ai/binny"
   },
   {
-    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-17T16:53:33Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
     "description": "Local-first long-term memory and safer context compression for Hermes Agent \u2014 SQLite, no required services.",
     "id": "indigokarasu/chronicle-agent-context-and-memory",
     "language": "Python",
@@ -257,7 +293,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-10-17T17:15:15Z",
+    "updated_at": "2026-10-17T17:17:51Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -279,15 +315,6 @@
     "url": "https://github.com/PlainSightX/upgrade-workbench"
   },
   {
-    "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
-    "id": "yurika0211/lucky-agent",
-    "language": "Go",
-    "name": "yurika0211/lucky-agent",
-    "stars": 15,
-    "updated_at": "2026-10-17T17:11:16Z",
-    "url": "https://github.com/yurika0211/lucky-agent"
-  },
-  {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
     "id": "ongridio/ongrid",
     "language": "Go",
@@ -304,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T15:48:56Z",
     "url": "https://github.com/TatianaT13/websec-triage-agent"
-  },
-  {
-    "description": "DevOps & Cloud SI Assistant that runs locally on taraengine for complete privacy.",
-    "id": "tara-vision/taracode",
-    "language": "Go",
-    "name": "tara-vision/taracode",
-    "stars": 51,
-    "updated_at": "2026-10-17T15:37:12Z",
-    "url": "https://github.com/tara-vision/taracode"
   },
   {
     "description": "Production-oriented LLM agent with tool planning, validation, retries, replanning, and Docker-based runtime.",
@@ -430,23 +448,5 @@
     "stars": 8,
     "updated_at": "2026-10-17T14:51:01Z",
     "url": "https://github.com/Sigmanih/SigmaStudio"
-  },
-  {
-    "description": "\u628a\u5927\u6a21\u578b\u5f53\u53f8\u4ee4\u3001\u811a\u672c\u5f53\u624b\u7684 DSH Agent \u9884\u8bbe\uff1a\u5de5\u5177\u91cc\u96f6\u4e1a\u52a1\u5224\u65ad\uff0c\u8ba9\u6a21\u578b\u5728\u8fd0\u884c\u65f6\u81ea\u9002\u5e94\u52a8\u6001\u7ed3\u6784\u7684\u7f51\u7ad9",
-    "id": "LeuJasYoh/dsh-xuexi",
-    "language": "JavaScript",
-    "name": "LeuJasYoh/dsh-xuexi",
-    "stars": 0,
-    "updated_at": "2026-10-17T14:48:57Z",
-    "url": "https://github.com/LeuJasYoh/dsh-xuexi"
-  },
-  {
-    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 53,
-    "updated_at": "2026-10-17T14:46:25Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
   }
 ]
