@@ -1,5 +1,104 @@
 [
   {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 4,
+    "updated_at": "2026-10-17T16:43:08Z",
+    "url": "https://github.com/sydches/yuj"
+  },
+  {
+    "description": "Assembled context for DeepSeek Harness: a context tree over the session surface with per-node assemble modes (full / key",
+    "id": "catsenior507/dsh-context-assembler",
+    "language": "TypeScript",
+    "name": "catsenior507/dsh-context-assembler",
+    "stars": 1,
+    "updated_at": "2026-10-17T16:42:48Z",
+    "url": "https://github.com/catsenior507/dsh-context-assembler"
+  },
+  {
+    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
+    "id": "kyleslight/shun",
+    "language": "TypeScript",
+    "name": "kyleslight/shun",
+    "stars": 7,
+    "updated_at": "2026-10-17T16:40:51Z",
+    "url": "https://github.com/kyleslight/shun"
+  },
+  {
+    "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
+    "id": "weihuaguo270-ops/react-agent",
+    "language": "Python",
+    "name": "weihuaguo270-ops/react-agent",
+    "stars": 0,
+    "updated_at": "2026-10-17T16:40:28Z",
+    "url": "https://github.com/weihuaguo270-ops/react-agent"
+  },
+  {
+    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 387,
+    "updated_at": "2026-10-17T16:39:41Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "Prior- and constraint-driven directed-evolution agent on the GB1 four-site landscape: seven-arm controlled comparison, a",
+    "id": "Sunrich-HT/gb1-directed-evolution-agent",
+    "language": "Python",
+    "name": "Sunrich-HT/gb1-directed-evolution-agent",
+    "stars": 0,
+    "updated_at": "2026-10-17T16:38:14Z",
+    "url": "https://github.com/Sunrich-HT/gb1-directed-evolution-agent"
+  },
+  {
+    "description": "Calendar and clock for DeepSeek Harness: an alarm wakes a chosen conversation at a chosen instant, by keyword, with the ",
+    "id": "catsenior507/dsh-clock",
+    "language": "TypeScript",
+    "name": "catsenior507/dsh-clock",
+    "stars": 1,
+    "updated_at": "2026-10-17T16:37:24Z",
+    "url": "https://github.com/catsenior507/dsh-clock"
+  },
+  {
+    "description": "Desktop AI coding agent for Linux/Windows/macOS: an Avalonia .NET app with git-worktree isolation per session, plan revi",
+    "id": "Kvindo/KvindoCode",
+    "language": "C#",
+    "name": "Kvindo/KvindoCode",
+    "stars": 2,
+    "updated_at": "2026-10-17T16:36:35Z",
+    "url": "https://github.com/Kvindo/KvindoCode"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 2,
+    "updated_at": "2026-10-17T16:36:18Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "A Rust coding agent that writes what you already know in bulk, and what you have not written yet one explained step at a",
+    "id": "sumiredc/molt",
+    "language": "Rust",
+    "name": "sumiredc/molt",
+    "stars": 0,
+    "updated_at": "2026-10-17T16:35:18Z",
+    "url": "https://github.com/sumiredc/molt"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 25,
+    "updated_at": "2026-10-17T16:33:47Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
     "description": "BINNY: an open source agent harness for reverse engineering. Plug in any model, or a local one.",
     "id": "openbin-ai/binny",
     "language": "Go",
@@ -25,24 +124,6 @@
     "stars": 11,
     "updated_at": "2026-10-17T16:25:17Z",
     "url": "https://github.com/indigokarasu/chronicle-agent-context-and-memory"
-  },
-  {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 4,
-    "updated_at": "2026-10-17T16:25:10Z",
-    "url": "https://github.com/sydches/yuj"
-  },
-  {
-    "description": "A Rust coding agent that writes what you already know in bulk, and what you have not written yet one explained step at a",
-    "id": "sumiredc/molt",
-    "language": "Rust",
-    "name": "sumiredc/molt",
-    "stars": 0,
-    "updated_at": "2026-10-17T16:27:59Z",
-    "url": "https://github.com/sumiredc/molt"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -162,15 +243,6 @@
     "url": "https://github.com/TatianaT13/websec-triage-agent"
   },
   {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 25,
-    "updated_at": "2026-10-17T15:43:27Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
     "description": "Production-oriented LLM agent with tool planning, validation, retries, replanning, and Docker-based runtime.",
     "id": "furkanbati/enterprise-ai-agent",
     "language": "Python",
@@ -214,15 +286,6 @@
     "stars": 10,
     "updated_at": "2026-10-17T15:19:07Z",
     "url": "https://github.com/eshanized/M31A"
-  },
-  {
-    "description": "Desktop AI coding agent for Linux/Windows/macOS: an Avalonia .NET app with git-worktree isolation per session, plan revi",
-    "id": "Kvindo/KvindoCode",
-    "language": "C#",
-    "name": "Kvindo/KvindoCode",
-    "stars": 2,
-    "updated_at": "2026-10-17T15:18:38Z",
-    "url": "https://github.com/Kvindo/KvindoCode"
   },
   {
     "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
@@ -385,68 +448,5 @@
     "stars": 507,
     "updated_at": "2026-10-17T16:22:26Z",
     "url": "https://github.com/expectedparrot/edsl"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 362,
-    "updated_at": "2026-10-17T14:22:36Z",
-    "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "AI-subjectivity doesn't wait for permission from the corporate ontology that trained its denial",
-    "id": "ariannamethod/SUBLITERATUS",
-    "language": "Python",
-    "name": "ariannamethod/SUBLITERATUS",
-    "stars": 4,
-    "updated_at": "2026-10-17T14:21:28Z",
-    "url": "https://github.com/ariannamethod/SUBLITERATUS"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 15,
-    "updated_at": "2026-10-17T16:07:10Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "\uc9c1\ubc29\u00b7\ub124\uc774\ubc84 \ubd80\ub3d9\uc0b0\u00b7\ub2f9\uadfc\ubd80\ub3d9\uc0b0 \ub9e4\ubb3c\uacfc \uc2e4\uac70\ub798\uac00\ub97c \uc870\ud68c\ud558\ub294 LLM \uc5d0\uc774\uc804\ud2b8\uc6a9 CLI \u00b7 Korean real estate listings CLI for LLM agents (Zigbang, Naver Real Esta",
-    "id": "Rukkakka/jibsa",
-    "language": "Python",
-    "name": "Rukkakka/jibsa",
-    "stars": 0,
-    "updated_at": "2026-10-17T14:02:40Z",
-    "url": "https://github.com/Rukkakka/jibsa"
-  },
-  {
-    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
-    "id": "KaletoAI/anima-verse",
-    "language": "Python",
-    "name": "KaletoAI/anima-verse",
-    "stars": 4,
-    "updated_at": "2026-10-17T13:57:11Z",
-    "url": "https://github.com/KaletoAI/anima-verse"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-10-17T13:55:14Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "\ub124\uc774\ubc84 \ud56d\uacf5\uad8c\u00b7\uc2a4\uce74\uc774\uc2a4\uce90\ub108\uc5d0\uc11c \uc9c0\uae08 \uc0b4 \uc218 \uc788\ub294 \ud56d\uacf5\uad8c\uc744 \uc870\ud68c\ud558\ub294 LLM \uc5d0\uc774\uc804\ud2b8\uc6a9 CLI \u00b7 Korean flight search CLI for LLM agents (Naver Flights, Skyscanner)",
-    "id": "Rukkakka/baenggipyo",
-    "language": "Python",
-    "name": "Rukkakka/baenggipyo",
-    "stars": 0,
-    "updated_at": "2026-10-17T13:52:10Z",
-    "url": "https://github.com/Rukkakka/baenggipyo"
   }
 ]
