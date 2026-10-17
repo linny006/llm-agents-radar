@@ -1,5 +1,41 @@
 [
   {
+    "description": "Change Control Beta \u2014 closed-loop change intelligence demo: simulated smart-home changes \u2192 labeled stories (precision-fi",
+    "id": "thereven3947/data-to-decision-ai",
+    "language": "Python",
+    "name": "thereven3947/data-to-decision-ai",
+    "stars": 0,
+    "updated_at": "2026-10-17T21:58:42Z",
+    "url": "https://github.com/thereven3947/data-to-decision-ai"
+  },
+  {
+    "description": "PortableLM \u2014 Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe",
+    "id": "Kanokwan34738/PrivatePixelPrompt",
+    "language": "HTML",
+    "name": "Kanokwan34738/PrivatePixelPrompt",
+    "stars": 0,
+    "updated_at": "2026-10-17T21:58:18Z",
+    "url": "https://github.com/Kanokwan34738/PrivatePixelPrompt"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 362,
+    "updated_at": "2026-10-17T21:57:17Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
+    "description": "Metacognitive extension suite for Pi coding agent",
+    "id": "kifirkin/pi-braid",
+    "language": "JavaScript",
+    "name": "kifirkin/pi-braid",
+    "stars": 1,
+    "updated_at": "2026-10-17T21:47:39Z",
+    "url": "https://github.com/kifirkin/pi-braid"
+  },
+  {
     "description": "\u975e\u5e38\u8be6\u7ec6\u7684\u5927\u6a21\u578bLLM\u7684\u5b66\u4e60\u6559\u7a0b\u4e0e\u7b14\u8bb0",
     "id": "emmabrown16/LLM_book",
     "language": "Python",
@@ -61,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T21:38:13Z",
     "url": "https://github.com/bartoszsanchez/PrivatePixelPrompt"
-  },
-  {
-    "description": "Change Control Beta \u2014 closed-loop change intelligence demo: simulated smart-home changes \u2192 labeled stories (precision-fi",
-    "id": "thereven3947/data-to-decision-ai",
-    "language": "Python",
-    "name": "thereven3947/data-to-decision-ai",
-    "stars": 0,
-    "updated_at": "2026-10-17T21:32:44Z",
-    "url": "https://github.com/thereven3947/data-to-decision-ai"
   },
   {
     "description": "DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy.",
@@ -149,7 +176,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-17T21:29:59Z",
+    "updated_at": "2026-10-17T21:48:11Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -250,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T20:41:09Z",
     "url": "https://github.com/delawer33/pickroll"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 362,
-    "updated_at": "2026-10-17T21:41:44Z",
-    "url": "https://github.com/yologdev/yoagent"
   },
   {
     "description": "Control AI agents anywhere. (github mirror)",
@@ -383,7 +401,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 14,
-    "updated_at": "2026-10-17T18:54:33Z",
+    "updated_at": "2026-10-17T21:50:46Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 11,
     "updated_at": "2026-10-17T20:53:52Z",
     "url": "https://github.com/alexwkleung/reika"
-  },
-  {
-    "description": "Production-oriented LLM agent with tool planning, validation, retries, replanning, and Docker-based runtime.",
-    "id": "furkanbati/enterprise-ai-agent",
-    "language": "Python",
-    "name": "furkanbati/enterprise-ai-agent",
-    "stars": 0,
-    "updated_at": "2026-10-17T18:22:09Z",
-    "url": "https://github.com/furkanbati/enterprise-ai-agent"
-  },
-  {
-    "description": "Assignment 3: Coding LLM Agents \u2013 EN.601.727 Machine Programming",
-    "id": "machine-programming/assignment-3",
-    "language": "Python",
-    "name": "machine-programming/assignment-3",
-    "stars": 0,
-    "updated_at": "2026-10-17T17:59:02Z",
-    "url": "https://github.com/machine-programming/assignment-3"
   }
 ]
