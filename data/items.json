@@ -1,12 +1,93 @@
 [
   {
+    "description": "Python LLM-RAG deep agent using LangChain, LangGraph and LangSmith built on Quart web microframework and served using Hy",
+    "id": "khteh/rag-agent",
+    "language": "Python",
+    "name": "khteh/rag-agent",
+    "stars": 8,
+    "updated_at": "2026-10-17T03:30:03Z",
+    "url": "https://github.com/khteh/rag-agent"
+  },
+  {
+    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
+    "id": "QQSHI13/fox-agent",
+    "language": "TypeScript",
+    "name": "QQSHI13/fox-agent",
+    "stars": 2,
+    "updated_at": "2026-10-17T03:29:42Z",
+    "url": "https://github.com/QQSHI13/fox-agent"
+  },
+  {
     "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
     "id": "lzmd-arch/BioSNN-Plug",
     "language": "Python",
     "name": "lzmd-arch/BioSNN-Plug",
     "stars": 4,
-    "updated_at": "2026-10-17T03:09:13Z",
+    "updated_at": "2026-10-17T03:27:31Z",
     "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 1,
+    "updated_at": "2026-10-17T03:26:27Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-17T03:21:41Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
+    "id": "xanstomper/mochi",
+    "language": "TypeScript",
+    "name": "xanstomper/mochi",
+    "stars": 1,
+    "updated_at": "2026-10-17T03:20:23Z",
+    "url": "https://github.com/xanstomper/mochi"
+  },
+  {
+    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
+    "id": "Ultra-Guru/Android-Guru-Agent",
+    "language": "Kotlin",
+    "name": "Ultra-Guru/Android-Guru-Agent",
+    "stars": 11,
+    "updated_at": "2026-10-17T03:24:13Z",
+    "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-17T03:16:58Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 29,
+    "updated_at": "2026-10-17T03:16:37Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 5,
+    "updated_at": "2026-10-17T03:15:13Z",
+    "url": "https://github.com/plurnk/plurnk"
   },
   {
     "description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
@@ -27,15 +108,6 @@
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-17T03:05:19Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -43,15 +115,6 @@
     "stars": 8843,
     "updated_at": "2026-10-17T03:03:26Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
-    "id": "Ultra-Guru/Android-Guru-Agent",
-    "language": "Kotlin",
-    "name": "Ultra-Guru/Android-Guru-Agent",
-    "stars": 11,
-    "updated_at": "2026-10-17T03:13:58Z",
-    "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
   },
   {
     "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
@@ -63,15 +126,6 @@
     "url": "https://github.com/BlockRunAI/Franklin"
   },
   {
-    "description": "Python LLM-RAG deep agent using LangChain, LangGraph and LangSmith built on Quart web microframework and served using Hy",
-    "id": "khteh/rag-agent",
-    "language": "Python",
-    "name": "khteh/rag-agent",
-    "stars": 8,
-    "updated_at": "2026-10-17T02:52:55Z",
-    "url": "https://github.com/khteh/rag-agent"
-  },
-  {
     "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
     "id": "wufufu770/d2d",
     "language": "JavaScript",
@@ -81,15 +135,6 @@
     "url": "https://github.com/wufufu770/d2d"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 29,
-    "updated_at": "2026-10-17T02:50:09Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
     "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
@@ -97,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T02:47:37Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
-    "id": "plurnk/plurnk",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk",
-    "stars": 5,
-    "updated_at": "2026-10-17T03:15:13Z",
-    "url": "https://github.com/plurnk/plurnk"
   },
   {
     "description": "Security operations AI agent built with LangGraph, deterministic policy enforcement, human approval, auditable tool use,",
@@ -124,15 +160,6 @@
     "stars": 53,
     "updated_at": "2026-10-17T02:35:03Z",
     "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-17T02:42:17Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
@@ -187,15 +214,6 @@
     "stars": 803,
     "updated_at": "2026-10-17T01:37:26Z",
     "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
-    "id": "xanstomper/mochi",
-    "language": "TypeScript",
-    "name": "xanstomper/mochi",
-    "stars": 1,
-    "updated_at": "2026-10-17T01:37:15Z",
-    "url": "https://github.com/xanstomper/mochi"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-16T21:41:00Z",
     "url": "https://github.com/nurmdrafi/pi-native"
-  },
-  {
-    "description": "Harness LLMs with Multi-Agent Programming",
-    "id": "langroid/langroid",
-    "language": "Python",
-    "name": "langroid/langroid",
-    "stars": 4117,
-    "updated_at": "2026-10-16T21:39:38Z",
-    "url": "https://github.com/langroid/langroid"
-  },
-  {
-    "description": "AI sales assistant for a real outdoor-furniture store \u2014 agentic RAG (FastAPI + Claude + Chroma + Shopify) with a 32-case",
-    "id": "dluckino/aby_sales_agent",
-    "language": "Python",
-    "name": "dluckino/aby_sales_agent",
-    "stars": 0,
-    "updated_at": "2026-10-16T21:26:51Z",
-    "url": "https://github.com/dluckino/aby_sales_agent"
   }
 ]
