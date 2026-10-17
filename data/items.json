@@ -1,5 +1,77 @@
 [
   {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-17T17:14:58Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-10-17T17:12:14Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
+    "description": "ISO 27001 (+ 42001 + NIS2 + EN 18286) ISMS framework designed to be operated by LLM Agents",
+    "id": "kriss-b/llm-iso27001",
+    "language": "\u2014",
+    "name": "kriss-b/llm-iso27001",
+    "stars": 55,
+    "updated_at": "2026-10-17T17:11:44Z",
+    "url": "https://github.com/kriss-b/llm-iso27001"
+  },
+  {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 4,
+    "updated_at": "2026-10-17T17:11:18Z",
+    "url": "https://github.com/sydches/yuj"
+  },
+  {
+    "description": "\u300a\u5d29\u574f\uff1a\u661f\u7a79\u94c1\u9053\u300b\u6218\u6597\u95ee\u9898\u7684\u53ef\u590d\u73b0\u6c42\u89e3\u73af\u5883\u2014\u2014\u4ee5\u9ad8\u4fdd\u771f\u786e\u5b9a\u6027\u6a21\u62df\u4e3a\u88c1\u51b3\uff0c\u628a\u6218\u6597\u7814\u7a76\u53d8\u6210\u53ef\u9a8c\u8bc1\u3001\u53ef\u590d\u73b0\u3001\u53ef\u641c\u7d22\u7684\u5b9e\u9a8c\u95ee\u9898\uff1b\u4e0a\u5c42\u4e3a\u8bb0\u5fc6\u9a71\u52a8\u7684 autoresearch agent \u63a2\u7d22\u5faa\u73af\uff08\u5f00\u53d1\u4e2d\uff09\u3002",
+    "id": "pzc2004/HSR_Nous",
+    "language": "Python",
+    "name": "pzc2004/HSR_Nous",
+    "stars": 11,
+    "updated_at": "2026-10-17T17:15:04Z",
+    "url": "https://github.com/pzc2004/HSR_Nous"
+  },
+  {
+    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 387,
+    "updated_at": "2026-10-17T17:13:46Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 6,
+    "updated_at": "2026-10-17T17:04:43Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-17T17:02:03Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
     "description": "A Rust coding agent that writes what you already know in bulk, and what you have not written yet one explained step at a",
     "id": "sumiredc/molt",
     "language": "Rust",
@@ -23,35 +95,8 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4456,
-    "updated_at": "2026-10-17T16:58:16Z",
+    "updated_at": "2026-10-17T17:00:41Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 387,
-    "updated_at": "2026-10-17T16:56:22Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "ISO 27001 (+ 42001 + NIS2 + EN 18286) ISMS framework designed to be operated by LLM Agents",
-    "id": "kriss-b/llm-iso27001",
-    "language": "\u2014",
-    "name": "kriss-b/llm-iso27001",
-    "stars": 55,
-    "updated_at": "2026-10-17T16:50:21Z",
-    "url": "https://github.com/kriss-b/llm-iso27001"
-  },
-  {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 4,
-    "updated_at": "2026-10-17T16:49:11Z",
-    "url": "https://github.com/sydches/yuj"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -189,15 +234,6 @@
     "url": "https://github.com/fan56/dsh-cron"
   },
   {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 6,
-    "updated_at": "2026-10-17T16:16:33Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
-  },
-  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-10-17T16:14:11Z",
+    "updated_at": "2026-10-17T17:15:15Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -248,7 +284,7 @@
     "language": "Go",
     "name": "yurika0211/lucky-agent",
     "stars": 15,
-    "updated_at": "2026-10-17T16:04:44Z",
+    "updated_at": "2026-10-17T17:11:16Z",
     "url": "https://github.com/yurika0211/lucky-agent"
   },
   {
@@ -261,15 +297,6 @@
     "url": "https://github.com/ongridio/ongrid"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-17T16:00:56Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "Agent de triage web-s\u00e9curit\u00e9 (Claude Agent SDK) : heuristiques + classifieur entra\u00een\u00e9 (MLOps) pour la d\u00e9tection de phish",
     "id": "TatianaT13/websec-triage-agent",
     "language": "Python",
@@ -279,6 +306,15 @@
     "url": "https://github.com/TatianaT13/websec-triage-agent"
   },
   {
+    "description": "DevOps & Cloud SI Assistant that runs locally on taraengine for complete privacy.",
+    "id": "tara-vision/taracode",
+    "language": "Go",
+    "name": "tara-vision/taracode",
+    "stars": 51,
+    "updated_at": "2026-10-17T15:37:12Z",
+    "url": "https://github.com/tara-vision/taracode"
+  },
+  {
     "description": "Production-oriented LLM agent with tool planning, validation, retries, replanning, and Docker-based runtime.",
     "id": "furkanbati/enterprise-ai-agent",
     "language": "Python",
@@ -286,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T15:38:25Z",
     "url": "https://github.com/furkanbati/enterprise-ai-agent"
-  },
-  {
-    "description": "DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy.",
-    "id": "tara-vision/taracode",
-    "language": "Go",
-    "name": "tara-vision/taracode",
-    "stars": 51,
-    "updated_at": "2026-10-17T15:37:12Z",
-    "url": "https://github.com/tara-vision/taracode"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -421,32 +448,5 @@
     "stars": 53,
     "updated_at": "2026-10-17T14:46:25Z",
     "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "Hermes Agent on Termux (Android): one-command install from prebuilt, checksum-verified Python wheels. No compiling on yo",
-    "id": "bd-loser/hermes-bionic",
-    "language": "Shell",
-    "name": "bd-loser/hermes-bionic",
-    "stars": 1,
-    "updated_at": "2026-10-17T14:45:11Z",
-    "url": "https://github.com/bd-loser/hermes-bionic"
-  },
-  {
-    "description": "Production-ready template for a self-hosted Agent Protocol server: FastAPI + LangGraph + PostgreSQL (+ optional Redis), ",
-    "id": "TekkenSteve/fastapi_langgraph_template",
-    "language": "Python",
-    "name": "TekkenSteve/fastapi_langgraph_template",
-    "stars": 3,
-    "updated_at": "2026-10-17T14:39:34Z",
-    "url": "https://github.com/TekkenSteve/fastapi_langgraph_template"
-  },
-  {
-    "description": "Control an iPhone from a Mac, by hand or by LLM agent.",
-    "id": "koprjaa/iphone-agent",
-    "language": "Python",
-    "name": "koprjaa/iphone-agent",
-    "stars": 0,
-    "updated_at": "2026-10-17T14:39:06Z",
-    "url": "https://github.com/koprjaa/iphone-agent"
   }
 ]
