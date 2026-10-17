@@ -1,11 +1,38 @@
 [
   {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-17T22:44:10Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Change Control Beta \u2014 closed-loop change intelligence demo: simulated smart-home changes \u2192 labeled stories (precision-fi",
+    "id": "thereven3947/data-to-decision-ai",
+    "language": "Python",
+    "name": "thereven3947/data-to-decision-ai",
+    "stars": 0,
+    "updated_at": "2026-10-17T22:37:41Z",
+    "url": "https://github.com/thereven3947/data-to-decision-ai"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 362,
+    "updated_at": "2026-10-17T22:35:43Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
     "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
     "id": "KaletoAI/anima-verse",
     "language": "Python",
     "name": "KaletoAI/anima-verse",
     "stars": 4,
-    "updated_at": "2026-10-17T22:29:48Z",
+    "updated_at": "2026-10-17T22:31:55Z",
     "url": "https://github.com/KaletoAI/anima-verse"
   },
   {
@@ -16,15 +43,6 @@
     "stars": 56,
     "updated_at": "2026-10-17T22:27:00Z",
     "url": "https://github.com/kriss-b/llm-iso27001"
-  },
-  {
-    "description": "Change Control Beta \u2014 closed-loop change intelligence demo: simulated smart-home changes \u2192 labeled stories (precision-fi",
-    "id": "thereven3947/data-to-decision-ai",
-    "language": "Python",
-    "name": "thereven3947/data-to-decision-ai",
-    "stars": 0,
-    "updated_at": "2026-10-17T22:26:03Z",
-    "url": "https://github.com/thereven3947/data-to-decision-ai"
   },
   {
     "description": "An AI red-team agent for authorized labs and web app pentesting workflows. Turns Claude Code / OpenCode / Codex into a s",
@@ -135,21 +153,12 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-17T22:04:34Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
     "id": "410979729/scope-recall-hermes",
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 389,
-    "updated_at": "2026-10-17T22:03:21Z",
+    "updated_at": "2026-10-17T22:41:27Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
@@ -178,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T21:58:18Z",
     "url": "https://github.com/Kanokwan34738/PrivatePixelPrompt"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 362,
-    "updated_at": "2026-10-17T22:19:30Z",
-    "url": "https://github.com/yologdev/yoagent"
   },
   {
     "description": "\u975e\u5e38\u8be6\u7ec6\u7684\u5927\u6a21\u578bLLM\u7684\u5b66\u4e60\u6559\u7a0b\u4e0e\u7b14\u8bb0",
@@ -320,7 +320,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-17T21:48:11Z",
+    "updated_at": "2026-10-17T22:31:52Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {

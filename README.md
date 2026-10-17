@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-17 22:30 UTC
+> ⏰ Last updated: 2026-10-17 22:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,27 +42,27 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [KaletoAI/anima-verse](https://github.com/KaletoAI/anima-verse) | 4 | Python | 2026-10-17 | Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system, |
-| 2 | [kriss-b/llm-iso27001](https://github.com/kriss-b/llm-iso27001) | 56 | — | 2026-10-17 | ISO 27001 (+ 42001 + NIS2 + EN 18286) ISMS framework designed to be operated by LLM Agents |
-| 3 | [thereven3947/data-to-decision-ai](https://github.com/thereven3947/data-to-decision-ai) | 0 | Python | 2026-10-17 | Change Control Beta — closed-loop change intelligence demo: simulated smart-home changes → labeled stories (precision-fi |
-| 4 | [KonstantinBell/RedteamAgent](https://github.com/KonstantinBell/RedteamAgent) | 0 | Python | 2026-10-17 | An AI red-team agent for authorized labs and web app pentesting workflows. Turns Claude Code / OpenCode / Codex into a s |
-| 5 | [alihosseinabadi/findii](https://github.com/alihosseinabadi/findii) | 0 | Python | 2026-10-17 | 🤖 FindII — autonomous AI lead-gen agent for real estate: Scrapling-powered Avito scraping + Telegram monitoring, LLM lea |
-| 6 | [jean14484/PrivatePixelPrompt](https://github.com/jean14484/PrivatePixelPrompt) | 0 | HTML | 2026-10-17 | PortableLM — Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe |
-| 7 | [expectedparrot/edsl](https://github.com/expectedparrot/edsl) | 507 | Python | 2026-10-17 | Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w |
-| 8 | [Kvindo/KvindoCode](https://github.com/Kvindo/KvindoCode) | 3 | C# | 2026-10-17 | Desktop AI coding agent for Linux/Windows/macOS: an Avalonia .NET app with git-worktree isolation per session, plan revi |
-| 9 | [thwang92/DM-Code-Agent](https://github.com/thwang92/DM-Code-Agent) | 0 | Python | 2026-10-17 | Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by  |
-| 10 | [kifirkin/pi-braid](https://github.com/kifirkin/pi-braid) | 1 | JavaScript | 2026-10-17 | Metacognitive extension suite for Pi coding agent |
-| 11 | [sydches/yuj](https://github.com/sydches/yuj) | 4 | Python | 2026-10-17 | Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L |
-| 12 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 81 | Python | 2026-10-17 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
-| 13 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 131 | HTML | 2026-10-17 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 14 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-17 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
-| 15 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-10-17 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 16 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 1 | TypeScript | 2026-10-17 | Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers. |
-| 17 | [410979729/scope-recall-hermes](https://github.com/410979729/scope-recall-hermes) | 389 | Python | 2026-10-17 | Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall, |
-| 18 | [bartoszgeorgiou188/Upwork-AI-jobs-applier](https://github.com/bartoszgeorgiou188/Upwork-AI-jobs-applier) | 0 | Python | 2026-10-17 | AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter |
-| 19 | [soyeonzimmermann25/RedteamAgent](https://github.com/soyeonzimmermann25/RedteamAgent) | 0 | Python | 2026-10-17 | An AI red-team agent for authorized labs and web app pentesting workflows. Turns Claude Code / OpenCode / Codex into a s |
-| 20 | [Kanokwan34738/PrivatePixelPrompt](https://github.com/Kanokwan34738/PrivatePixelPrompt) | 0 | HTML | 2026-10-17 | PortableLM — Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe |
-| 21 | [yologdev/yoagent](https://github.com/yologdev/yoagent) | 362 | Rust | 2026-10-17 | The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done. |
+| 1 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 1 | TypeScript | 2026-10-17 | Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers. |
+| 2 | [thereven3947/data-to-decision-ai](https://github.com/thereven3947/data-to-decision-ai) | 0 | Python | 2026-10-17 | Change Control Beta — closed-loop change intelligence demo: simulated smart-home changes → labeled stories (precision-fi |
+| 3 | [yologdev/yoagent](https://github.com/yologdev/yoagent) | 362 | Rust | 2026-10-17 | The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done. |
+| 4 | [KaletoAI/anima-verse](https://github.com/KaletoAI/anima-verse) | 4 | Python | 2026-10-17 | Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system, |
+| 5 | [kriss-b/llm-iso27001](https://github.com/kriss-b/llm-iso27001) | 56 | — | 2026-10-17 | ISO 27001 (+ 42001 + NIS2 + EN 18286) ISMS framework designed to be operated by LLM Agents |
+| 6 | [KonstantinBell/RedteamAgent](https://github.com/KonstantinBell/RedteamAgent) | 0 | Python | 2026-10-17 | An AI red-team agent for authorized labs and web app pentesting workflows. Turns Claude Code / OpenCode / Codex into a s |
+| 7 | [alihosseinabadi/findii](https://github.com/alihosseinabadi/findii) | 0 | Python | 2026-10-17 | 🤖 FindII — autonomous AI lead-gen agent for real estate: Scrapling-powered Avito scraping + Telegram monitoring, LLM lea |
+| 8 | [jean14484/PrivatePixelPrompt](https://github.com/jean14484/PrivatePixelPrompt) | 0 | HTML | 2026-10-17 | PortableLM — Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe |
+| 9 | [expectedparrot/edsl](https://github.com/expectedparrot/edsl) | 507 | Python | 2026-10-17 | Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w |
+| 10 | [Kvindo/KvindoCode](https://github.com/Kvindo/KvindoCode) | 3 | C# | 2026-10-17 | Desktop AI coding agent for Linux/Windows/macOS: an Avalonia .NET app with git-worktree isolation per session, plan revi |
+| 11 | [thwang92/DM-Code-Agent](https://github.com/thwang92/DM-Code-Agent) | 0 | Python | 2026-10-17 | Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by  |
+| 12 | [kifirkin/pi-braid](https://github.com/kifirkin/pi-braid) | 1 | JavaScript | 2026-10-17 | Metacognitive extension suite for Pi coding agent |
+| 13 | [sydches/yuj](https://github.com/sydches/yuj) | 4 | Python | 2026-10-17 | Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L |
+| 14 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 81 | Python | 2026-10-17 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
+| 15 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 131 | HTML | 2026-10-17 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 16 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-17 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
+| 17 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-10-17 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 18 | [410979729/scope-recall-hermes](https://github.com/410979729/scope-recall-hermes) | 389 | Python | 2026-10-17 | Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall, |
+| 19 | [bartoszgeorgiou188/Upwork-AI-jobs-applier](https://github.com/bartoszgeorgiou188/Upwork-AI-jobs-applier) | 0 | Python | 2026-10-17 | AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter |
+| 20 | [soyeonzimmermann25/RedteamAgent](https://github.com/soyeonzimmermann25/RedteamAgent) | 0 | Python | 2026-10-17 | An AI red-team agent for authorized labs and web app pentesting workflows. Turns Claude Code / OpenCode / Codex into a s |
+| 21 | [Kanokwan34738/PrivatePixelPrompt](https://github.com/Kanokwan34738/PrivatePixelPrompt) | 0 | HTML | 2026-10-17 | PortableLM — Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe |
 | 22 | [emmabrown16/LLM_book](https://github.com/emmabrown16/LLM_book) | 0 | Python | 2026-10-17 | 非常详细的大模型LLM的学习教程与笔记 |
 | 23 | [hsaghir/looplet](https://github.com/hsaghir/looplet) | 7 | Python | 2026-10-17 | Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change. |
 | 24 | [hasantorres68/LLM_book](https://github.com/hasantorres68/LLM_book) | 0 | Python | 2026-10-17 | 非常详细的大模型LLM的学习教程与笔记 |
