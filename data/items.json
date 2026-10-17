@@ -5,8 +5,116 @@
     "language": "Python",
     "name": "thereven3947/data-to-decision-ai",
     "stars": 0,
-    "updated_at": "2026-10-17T21:58:42Z",
+    "updated_at": "2026-10-17T22:15:03Z",
     "url": "https://github.com/thereven3947/data-to-decision-ai"
+  },
+  {
+    "description": "PortableLM \u2014 Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe",
+    "id": "jean14484/PrivatePixelPrompt",
+    "language": "\u2014",
+    "name": "jean14484/PrivatePixelPrompt",
+    "stars": 0,
+    "updated_at": "2026-10-17T22:15:00Z",
+    "url": "https://github.com/jean14484/PrivatePixelPrompt"
+  },
+  {
+    "description": "Desktop AI coding agent for Linux/Windows/macOS: an Avalonia .NET app with git-worktree isolation per session, plan revi",
+    "id": "Kvindo/KvindoCode",
+    "language": "C#",
+    "name": "Kvindo/KvindoCode",
+    "stars": 3,
+    "updated_at": "2026-10-17T22:10:41Z",
+    "url": "https://github.com/Kvindo/KvindoCode"
+  },
+  {
+    "description": "Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by ",
+    "id": "thwang92/DM-Code-Agent",
+    "language": "Python",
+    "name": "thwang92/DM-Code-Agent",
+    "stars": 0,
+    "updated_at": "2026-10-17T22:10:25Z",
+    "url": "https://github.com/thwang92/DM-Code-Agent"
+  },
+  {
+    "description": "Metacognitive extension suite for Pi coding agent",
+    "id": "kifirkin/pi-braid",
+    "language": "JavaScript",
+    "name": "kifirkin/pi-braid",
+    "stars": 1,
+    "updated_at": "2026-10-17T22:09:33Z",
+    "url": "https://github.com/kifirkin/pi-braid"
+  },
+  {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 4,
+    "updated_at": "2026-10-17T22:09:23Z",
+    "url": "https://github.com/sydches/yuj"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 81,
+    "updated_at": "2026-10-17T22:09:11Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 131,
+    "updated_at": "2026-10-17T22:07:52Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-17T22:07:17Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-10-17T22:06:41Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-17T22:04:34Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter",
+    "id": "bartoszgeorgiou188/Upwork-AI-jobs-applier",
+    "language": "Python",
+    "name": "bartoszgeorgiou188/Upwork-AI-jobs-applier",
+    "stars": 0,
+    "updated_at": "2026-10-17T22:01:46Z",
+    "url": "https://github.com/bartoszgeorgiou188/Upwork-AI-jobs-applier"
+  },
+  {
+    "description": "An AI red-team agent for authorized labs and web app pentesting workflows. Turns Claude Code / OpenCode / Codex into a s",
+    "id": "soyeonzimmermann25/RedteamAgent",
+    "language": "Python",
+    "name": "soyeonzimmermann25/RedteamAgent",
+    "stars": 0,
+    "updated_at": "2026-10-17T22:00:15Z",
+    "url": "https://github.com/soyeonzimmermann25/RedteamAgent"
   },
   {
     "description": "PortableLM \u2014 Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe",
@@ -23,17 +131,8 @@
     "language": "Rust",
     "name": "yologdev/yoagent",
     "stars": 362,
-    "updated_at": "2026-10-17T21:57:17Z",
+    "updated_at": "2026-10-17T22:04:08Z",
     "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "Metacognitive extension suite for Pi coding agent",
-    "id": "kifirkin/pi-braid",
-    "language": "JavaScript",
-    "name": "kifirkin/pi-braid",
-    "stars": 1,
-    "updated_at": "2026-10-17T21:47:39Z",
-    "url": "https://github.com/kifirkin/pi-braid"
   },
   {
     "description": "\u975e\u5e38\u8be6\u7ec6\u7684\u5927\u6a21\u578bLLM\u7684\u5b66\u4e60\u6559\u7a0b\u4e0e\u7b14\u8bb0",
@@ -50,17 +149,8 @@
     "language": "Python",
     "name": "hsaghir/looplet",
     "stars": 7,
-    "updated_at": "2026-10-17T21:44:05Z",
+    "updated_at": "2026-10-17T22:08:38Z",
     "url": "https://github.com/hsaghir/looplet"
-  },
-  {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 4,
-    "updated_at": "2026-10-17T21:43:38Z",
-    "url": "https://github.com/sydches/yuj"
   },
   {
     "description": "\u975e\u5e38\u8be6\u7ec6\u7684\u5927\u6a21\u578bLLM\u7684\u5b66\u4e60\u6559\u7a0b\u4e0e\u7b14\u8bb0",
@@ -198,15 +288,6 @@
     "url": "https://github.com/gptme/gptme"
   },
   {
-    "description": "Desktop AI coding agent for Linux/Windows/macOS: an Avalonia .NET app with git-worktree isolation per session, plan revi",
-    "id": "Kvindo/KvindoCode",
-    "language": "C#",
-    "name": "Kvindo/KvindoCode",
-    "stars": 2,
-    "updated_at": "2026-10-17T21:09:28Z",
-    "url": "https://github.com/Kvindo/KvindoCode"
-  },
-  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
@@ -214,15 +295,6 @@
     "stars": 21,
     "updated_at": "2026-10-17T21:10:12Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-17T21:09:13Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -241,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T21:07:48Z",
     "url": "https://github.com/daiki1325/PrivatePixelPrompt"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-17T21:06:10Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Async, event-driven library of production-deployable agent algorithms over arbitrary data, with a pluggable LLM gateway ",
@@ -329,7 +392,7 @@
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 388,
-    "updated_at": "2026-10-17T20:36:59Z",
+    "updated_at": "2026-10-17T22:03:21Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
@@ -349,24 +412,6 @@
     "stars": 1,
     "updated_at": "2026-10-17T19:12:35Z",
     "url": "https://github.com/Aolin-MIR/triceratops-music-agent"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 131,
-    "updated_at": "2026-10-17T19:10:00Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-10-17T19:09:24Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Calendar and clock for DeepSeek Harness: an alarm wakes a chosen conversation at a chosen instant, by keyword, with the ",
@@ -401,52 +446,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 14,
-    "updated_at": "2026-10-17T21:50:46Z",
+    "updated_at": "2026-10-17T22:05:27Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
-    "id": "SugarMGP/MumuBot",
-    "language": "Go",
-    "name": "SugarMGP/MumuBot",
-    "stars": 25,
-    "updated_at": "2026-10-17T18:52:39Z",
-    "url": "https://github.com/SugarMGP/MumuBot"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 6,
-    "updated_at": "2026-10-17T18:43:47Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "Prior- and constraint-driven directed-evolution agent on the GB1 four-site landscape: seven-arm controlled comparison, a",
-    "id": "Sunrich-HT/gb1-directed-evolution-agent",
-    "language": "Python",
-    "name": "Sunrich-HT/gb1-directed-evolution-agent",
-    "stars": 0,
-    "updated_at": "2026-10-17T18:31:22Z",
-    "url": "https://github.com/Sunrich-HT/gb1-directed-evolution-agent"
-  },
-  {
-    "description": "Janko Hrasko - slovensky AI asistent: DeepSeek-V4-Pro na 2x8 H200 (SGLang/DeepEP), agent s RAG, webom a nastrojmi, verej",
-    "id": "cervenazelena/jankohrasko",
-    "language": "Python",
-    "name": "cervenazelena/jankohrasko",
-    "stars": 0,
-    "updated_at": "2026-10-17T18:24:35Z",
-    "url": "https://github.com/cervenazelena/jankohrasko"
-  },
-  {
-    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
-    "id": "alexwkleung/reika",
-    "language": "TypeScript",
-    "name": "alexwkleung/reika",
-    "stars": 11,
-    "updated_at": "2026-10-17T20:53:52Z",
-    "url": "https://github.com/alexwkleung/reika"
   }
 ]
