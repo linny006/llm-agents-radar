@@ -1,12 +1,66 @@
 [
   {
+    "description": "An AI red-team agent for authorized labs and web app pentesting workflows. Turns Claude Code / OpenCode / Codex into a s",
+    "id": "Raymondk89426/RedteamAgent",
+    "language": "Python",
+    "name": "Raymondk89426/RedteamAgent",
+    "stars": 0,
+    "updated_at": "2026-10-17T21:28:36Z",
+    "url": "https://github.com/Raymondk89426/RedteamAgent"
+  },
+  {
+    "description": "\u975e\u5e38\u8be6\u7ec6\u7684\u5927\u6a21\u578bLLM\u7684\u5b66\u4e60\u6559\u7a0b\u4e0e\u7b14\u8bb0",
+    "id": "thaok5845/LLM_book",
+    "language": "Python",
+    "name": "thaok5845/LLM_book",
+    "stars": 0,
+    "updated_at": "2026-10-17T21:28:12Z",
+    "url": "https://github.com/thaok5845/LLM_book"
+  },
+  {
+    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
+    "id": "sharonsato268/CodeJury",
+    "language": "Python",
+    "name": "sharonsato268/CodeJury",
+    "stars": 0,
+    "updated_at": "2026-10-17T21:25:58Z",
+    "url": "https://github.com/sharonsato268/CodeJury"
+  },
+  {
     "description": "Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by ",
     "id": "deryaleone/DM-Code-Agent",
     "language": "Python",
     "name": "deryaleone/DM-Code-Agent",
     "stars": 0,
-    "updated_at": "2026-10-17T21:13:17Z",
+    "updated_at": "2026-10-17T21:21:33Z",
     "url": "https://github.com/deryaleone/DM-Code-Agent"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-10-17T21:20:27Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Hermes Agent on Termux (Android): one-command install from prebuilt, checksum-verified Python wheels. No compiling on yo",
+    "id": "bd-loser/hermes-bionic",
+    "language": "Shell",
+    "name": "bd-loser/hermes-bionic",
+    "stars": 1,
+    "updated_at": "2026-10-17T21:19:31Z",
+    "url": "https://github.com/bd-loser/hermes-bionic"
+  },
+  {
+    "description": "AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter",
+    "id": "RichardOrtiz8833/Upwork-AI-jobs-applier",
+    "language": "Python",
+    "name": "RichardOrtiz8833/Upwork-AI-jobs-applier",
+    "stars": 0,
+    "updated_at": "2026-10-17T21:18:06Z",
+    "url": "https://github.com/RichardOrtiz8833/Upwork-AI-jobs-applier"
   },
   {
     "description": "AI-powered image generation and chat studio",
@@ -14,7 +68,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-17T21:12:12Z",
+    "updated_at": "2026-10-17T21:29:59Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -104,7 +158,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 2,
-    "updated_at": "2026-10-17T21:01:58Z",
+    "updated_at": "2026-10-17T21:24:36Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -252,15 +306,6 @@
     "url": "https://github.com/earthwalker17/MiniDSH"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-10-17T18:59:01Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Claude Code plugin: universal radial-tree exploration engine. One tree skill + swappable presets (brainstorm / attack / ",
     "id": "skymanbp/cc-tree",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 30,
     "updated_at": "2026-10-17T18:01:05Z",
     "url": "https://github.com/dotcomjack/grux"
-  },
-  {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 4,
-    "updated_at": "2026-10-17T17:16:22Z",
-    "url": "https://github.com/sydches/yuj"
-  },
-  {
-    "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
-    "id": "yurika0211/lucky-agent",
-    "language": "Go",
-    "name": "yurika0211/lucky-agent",
-    "stars": 15,
-    "updated_at": "2026-10-17T17:15:47Z",
-    "url": "https://github.com/yurika0211/lucky-agent"
-  },
-  {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-10-17T17:36:12Z",
-    "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
-    "description": "ISO 27001 (+ 42001 + NIS2 + EN 18286) ISMS framework designed to be operated by LLM Agents",
-    "id": "kriss-b/llm-iso27001",
-    "language": "\u2014",
-    "name": "kriss-b/llm-iso27001",
-    "stars": 55,
-    "updated_at": "2026-10-17T17:11:44Z",
-    "url": "https://github.com/kriss-b/llm-iso27001"
-  },
-  {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 6,
-    "updated_at": "2026-10-17T17:04:43Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
   }
 ]
