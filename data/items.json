@@ -1,11 +1,65 @@
 [
   {
+    "description": "Portable pi harness powered by Rust native tools \u2014 lean core, progressive disclosure, zero absolute paths.",
+    "id": "nurmdrafi/pi-native",
+    "language": "JavaScript",
+    "name": "nurmdrafi/pi-native",
+    "stars": 0,
+    "updated_at": "2026-10-17T04:28:34Z",
+    "url": "https://github.com/nurmdrafi/pi-native"
+  },
+  {
+    "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
+    "id": "ximing/vital",
+    "language": "TypeScript",
+    "name": "ximing/vital",
+    "stars": 3,
+    "updated_at": "2026-10-17T04:28:17Z",
+    "url": "https://github.com/ximing/vital"
+  },
+  {
+    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
+    "id": "eshanized/M31A",
+    "language": "Rust",
+    "name": "eshanized/M31A",
+    "stars": 10,
+    "updated_at": "2026-10-17T04:26:09Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 1189,
+    "updated_at": "2026-10-17T04:25:31Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "liumiaoqi/MaiBot",
+    "language": "Python",
+    "name": "liumiaoqi/MaiBot",
+    "stars": 1,
+    "updated_at": "2026-10-17T04:18:08Z",
+    "url": "https://github.com/liumiaoqi/MaiBot"
+  },
+  {
+    "description": "Self-hosted AI execution agent for Discord: runs shell commands and edits files on your hosts, drives browsers, schedule",
+    "id": "Calmingstorm/Odin",
+    "language": "Python",
+    "name": "Calmingstorm/Odin",
+    "stars": 3,
+    "updated_at": "2026-10-17T04:19:40Z",
+    "url": "https://github.com/Calmingstorm/Odin"
+  },
+  {
     "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
     "id": "Ultra-Guru/Android-Guru-Agent",
     "language": "Kotlin",
     "name": "Ultra-Guru/Android-Guru-Agent",
     "stars": 11,
-    "updated_at": "2026-10-17T04:12:17Z",
+    "updated_at": "2026-10-17T04:20:43Z",
     "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
   },
   {
@@ -52,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-10-17T04:04:48Z",
     "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
-    "id": "ximing/vital",
-    "language": "TypeScript",
-    "name": "ximing/vital",
-    "stars": 3,
-    "updated_at": "2026-10-17T04:04:44Z",
-    "url": "https://github.com/ximing/vital"
   },
   {
     "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
@@ -194,7 +239,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 2,
-    "updated_at": "2026-10-17T04:05:57Z",
+    "updated_at": "2026-10-17T04:17:14Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -387,15 +432,6 @@
     "url": "https://github.com/watchcat/scout"
   },
   {
-    "description": "Self-hosted AI execution agent for Discord: runs shell commands and edits files on your hosts, drives browsers, schedule",
-    "id": "Calmingstorm/Odin",
-    "language": "Python",
-    "name": "Calmingstorm/Odin",
-    "stars": 3,
-    "updated_at": "2026-10-17T03:59:10Z",
-    "url": "https://github.com/Calmingstorm/Odin"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T00:28:14Z",
     "url": "https://github.com/xufenghe/aimo3-agentic-inference"
-  },
-  {
-    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
-    "id": "wuyhong715/rikkahub-agent-pure",
-    "language": "Kotlin",
-    "name": "wuyhong715/rikkahub-agent-pure",
-    "stars": 48,
-    "updated_at": "2026-10-17T00:47:24Z",
-    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
-  },
-  {
-    "description": "ISO 27001 (+ 42001 + NIS2) ISMS framework designed to be operated by LLM Agents",
-    "id": "kriss-b/llm-iso27001",
-    "language": "\u2014",
-    "name": "kriss-b/llm-iso27001",
-    "stars": 54,
-    "updated_at": "2026-10-17T00:04:45Z",
-    "url": "https://github.com/kriss-b/llm-iso27001"
-  },
-  {
-    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
-    "id": "xieguigang/sciBASIC",
-    "language": "Visual Basic .NET",
-    "name": "xieguigang/sciBASIC",
-    "stars": 79,
-    "updated_at": "2026-10-16T23:57:48Z",
-    "url": "https://github.com/xieguigang/sciBASIC"
-  },
-  {
-    "description": "\ub124\uc774\ubc84 \ud56d\uacf5\uad8c\u00b7\uc2a4\uce74\uc774\uc2a4\uce90\ub108\uc5d0\uc11c \uc9c0\uae08 \uc0b4 \uc218 \uc788\ub294 \ud56d\uacf5\uad8c\uc744 \uc870\ud68c\ud558\ub294 LLM \uc5d0\uc774\uc804\ud2b8\uc6a9 CLI \u00b7 Korean flight search CLI for LLM agents (Naver Flights, Skyscanner)",
-    "id": "Rukkakka/baenggipyo",
-    "language": "Python",
-    "name": "Rukkakka/baenggipyo",
-    "stars": 0,
-    "updated_at": "2026-10-17T04:06:16Z",
-    "url": "https://github.com/Rukkakka/baenggipyo"
   }
 ]
