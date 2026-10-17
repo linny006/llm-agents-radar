@@ -1,12 +1,57 @@
 [
   {
+    "description": "\ub124\uc774\ubc84 \ud56d\uacf5\uad8c\u00b7\uc2a4\uce74\uc774\uc2a4\uce90\ub108\uc5d0\uc11c \uc9c0\uae08 \uc0b4 \uc218 \uc788\ub294 \ud56d\uacf5\uad8c\uc744 \uc870\ud68c\ud558\ub294 LLM \uc5d0\uc774\uc804\ud2b8\uc6a9 CLI \u00b7 Korean flight search CLI for LLM agents (Naver Flights, Skyscanner)",
+    "id": "Rukkakka/baenggipyo",
+    "language": "Python",
+    "name": "Rukkakka/baenggipyo",
+    "stars": 0,
+    "updated_at": "2026-10-17T13:42:03Z",
+    "url": "https://github.com/Rukkakka/baenggipyo"
+  },
+  {
     "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
     "id": "IAmNo1Special/mvgeos",
     "language": "Python",
     "name": "IAmNo1Special/mvgeos",
     "stars": 1,
-    "updated_at": "2026-10-17T13:29:56Z",
+    "updated_at": "2026-10-17T13:44:17Z",
     "url": "https://github.com/IAmNo1Special/mvgeos"
+  },
+  {
+    "description": "Local-first long-term memory and safer context compression for Hermes Agent \u2014 SQLite, no required services.",
+    "id": "indigokarasu/chronicle-agent-context-and-memory",
+    "language": "Python",
+    "name": "indigokarasu/chronicle-agent-context-and-memory",
+    "stars": 11,
+    "updated_at": "2026-10-17T13:39:59Z",
+    "url": "https://github.com/indigokarasu/chronicle-agent-context-and-memory"
+  },
+  {
+    "description": "\u628a ZCode\uff08Z.ai / BigModel\uff09\u6ce8\u518c\u4e3a DeepSeek Harness\uff08DSH\uff09\u7684 LLM provider\uff1a\u4ed8\u8d39 Coding Plan \u76f4\u8fde\uff0c\u514d\u8d39\u989d\u5ea6\uff08Start Plan \u6d3b\u52a8\u8d60\u9001\uff09\u6258\u7ba1\u5b98\u65b9 agent \u4ee3\u53d1 \u2014\u2014 ",
+    "id": "Shuffle-1992/dsh-connect-zcode",
+    "language": "JavaScript",
+    "name": "Shuffle-1992/dsh-connect-zcode",
+    "stars": 0,
+    "updated_at": "2026-10-17T13:39:19Z",
+    "url": "https://github.com/Shuffle-1992/dsh-connect-zcode"
+  },
+  {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 5,
+    "updated_at": "2026-10-17T13:38:52Z",
+    "url": "https://github.com/ljedrz/nachalnik"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-10-17T13:34:56Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
@@ -14,7 +59,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 2,
-    "updated_at": "2026-10-17T13:29:41Z",
+    "updated_at": "2026-10-17T13:41:47Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -27,24 +72,6 @@
     "url": "https://github.com/Shuffle-1992/dsh-dispatch"
   },
   {
-    "description": "\u628a ZCode\uff08Z.ai / BigModel\uff09\u6ce8\u518c\u4e3a DeepSeek Harness\uff08DSH\uff09\u7684 LLM provider\uff1a\u4ed8\u8d39 Coding Plan \u76f4\u8fde\uff0c\u514d\u8d39\u989d\u5ea6\uff08Start Plan \u6d3b\u52a8\u8d60\u9001\uff09\u6258\u7ba1\u5b98\u65b9 agent \u4ee3\u53d1 \u2014\u2014 ",
-    "id": "Shuffle-1992/dsh-connect-zcode",
-    "language": "JavaScript",
-    "name": "Shuffle-1992/dsh-connect-zcode",
-    "stars": 0,
-    "updated_at": "2026-10-17T13:26:37Z",
-    "url": "https://github.com/Shuffle-1992/dsh-connect-zcode"
-  },
-  {
-    "description": "\ub124\uc774\ubc84 \ud56d\uacf5\uad8c\u00b7\uc2a4\uce74\uc774\uc2a4\uce90\ub108\uc5d0\uc11c \uc9c0\uae08 \uc0b4 \uc218 \uc788\ub294 \ud56d\uacf5\uad8c\uc744 \uc870\ud68c\ud558\ub294 LLM \uc5d0\uc774\uc804\ud2b8\uc6a9 CLI \u00b7 Korean flight search CLI for LLM agents (Naver Flights, Skyscanner)",
-    "id": "Rukkakka/baenggipyo",
-    "language": "Python",
-    "name": "Rukkakka/baenggipyo",
-    "stars": 0,
-    "updated_at": "2026-10-17T13:25:02Z",
-    "url": "https://github.com/Rukkakka/baenggipyo"
-  },
-  {
     "description": "\u7ed9 DSH \u7528\u7684\u5f00\u53d1\u65e5\u5fd7\u63d2\u4ef6\u3002\u81ea\u52a8\u8bb0\u5f55\"\u4e3a\u4ec0\u4e48\"\u548c\"\u8e29\u4e86\u4ec0\u4e48\u5751\"\u3002",
     "id": "ccr-wer/dsh-devlog-auto",
     "language": "JavaScript",
@@ -52,6 +79,15 @@
     "stars": 0,
     "updated_at": "2026-10-17T13:21:57Z",
     "url": "https://github.com/ccr-wer/dsh-devlog-auto"
+  },
+  {
+    "description": "Give it a repo, a ticket, or a task. Reproduces first, smallest fix, proves it, explains it.",
+    "id": "ANDROIDHASSAN/bhai",
+    "language": "\u2014",
+    "name": "ANDROIDHASSAN/bhai",
+    "stars": 0,
+    "updated_at": "2026-10-17T13:21:45Z",
+    "url": "https://github.com/ANDROIDHASSAN/bhai"
   },
   {
     "description": "An AI Agent for everyday SWE with minimalist style",
@@ -95,7 +131,7 @@
     "language": "Rust",
     "name": "yologdev/yoagent",
     "stars": 362,
-    "updated_at": "2026-10-17T13:13:44Z",
+    "updated_at": "2026-10-17T13:45:13Z",
     "url": "https://github.com/yologdev/yoagent"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T10:59:57Z",
     "url": "https://github.com/sumiredc/molt"
-  },
-  {
-    "description": "Community DSH host plugin that automatically resumes root-agent sessions after max-token truncation, with bounded retrie",
-    "id": "Wepoi9/dsh-max-token-auto-continue",
-    "language": "TypeScript",
-    "name": "Wepoi9/dsh-max-token-auto-continue",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:57:18Z",
-    "url": "https://github.com/Wepoi9/dsh-max-token-auto-continue"
-  },
-  {
-    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
-    "id": "wufufu770/d2d",
-    "language": "JavaScript",
-    "name": "wufufu770/d2d",
-    "stars": 5,
-    "updated_at": "2026-10-17T10:55:45Z",
-    "url": "https://github.com/wufufu770/d2d"
-  },
-  {
-    "description": "ISO 27001 (+ 42001 + NIS2) ISMS framework designed to be operated by LLM Agents",
-    "id": "kriss-b/llm-iso27001",
-    "language": "\u2014",
-    "name": "kriss-b/llm-iso27001",
-    "stars": 55,
-    "updated_at": "2026-10-17T10:53:19Z",
-    "url": "https://github.com/kriss-b/llm-iso27001"
-  },
-  {
-    "description": "\u6570\u5b57\u4ea7\u54c1\u5236\u4f5c\u4eba Wright\uff5c\u628a\u673a\u4f1a\u505a\u6210\u53ef\u552e\u5356\u6210\u54c1\u3002Digital Product Producer \u2014 turns opportunities into finished products.",
-    "id": "xhqing/ProductProducerAgent",
-    "language": "JavaScript",
-    "name": "xhqing/ProductProducerAgent",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:47:18Z",
-    "url": "https://github.com/xhqing/ProductProducerAgent"
   }
 ]
