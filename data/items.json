@@ -1,5 +1,14 @@
 [
   {
+    "description": "Async, event-driven library of production-deployable agent algorithms over arbitrary data, with a pluggable LLM gateway ",
+    "id": "innerkorehq/AutonomousAgentArchitecture",
+    "language": "Python",
+    "name": "innerkorehq/AutonomousAgentArchitecture",
+    "stars": 1,
+    "updated_at": "2026-10-17T20:59:29Z",
+    "url": "https://github.com/innerkorehq/AutonomousAgentArchitecture"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -50,7 +59,7 @@
     "language": "Dart",
     "name": "justacalico/devinorium",
     "stars": 0,
-    "updated_at": "2026-10-17T20:36:54Z",
+    "updated_at": "2026-10-17T21:00:09Z",
     "url": "https://github.com/justacalico/devinorium"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-17T16:42:48Z",
     "url": "https://github.com/catsenior507/dsh-context-assembler"
-  },
-  {
-    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
-    "id": "kyleslight/shun",
-    "language": "TypeScript",
-    "name": "kyleslight/shun",
-    "stars": 7,
-    "updated_at": "2026-10-17T16:40:51Z",
-    "url": "https://github.com/kyleslight/shun"
   }
 ]
