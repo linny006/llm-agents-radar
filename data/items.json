@@ -1,5 +1,50 @@
 [
   {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-17T20:45:13Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "[WIP] Court Vision \u2014 AI-\u0430\u0441\u0441\u0438\u0441\u0442\u0435\u043d\u0442 \u0431\u0430\u0441\u043a\u0435\u0442\u0431\u043e\u043b\u044c\u043d\u043e\u0433\u043e \u0441\u043a\u0430\u0443\u0442\u0430. LLM-\u0430\u0433\u0435\u043d\u0442 \u0441 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u0430\u043c\u0438 \u043f\u043e\u0432\u0435\u0440\u0445 \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0438 NBA + RAG \u043f\u043e Wikipe",
+    "id": "delawer33/pickroll",
+    "language": "Python",
+    "name": "delawer33/pickroll",
+    "stars": 0,
+    "updated_at": "2026-10-17T20:41:09Z",
+    "url": "https://github.com/delawer33/pickroll"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 362,
+    "updated_at": "2026-10-17T20:39:48Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
+    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
+    "id": "hsaghir/looplet",
+    "language": "Python",
+    "name": "hsaghir/looplet",
+    "stars": 7,
+    "updated_at": "2026-10-17T20:38:04Z",
+    "url": "https://github.com/hsaghir/looplet"
+  },
+  {
+    "description": "Control AI agents anywhere. (github mirror)",
+    "id": "justacalico/devinorium",
+    "language": "Dart",
+    "name": "justacalico/devinorium",
+    "stars": 0,
+    "updated_at": "2026-10-17T20:36:54Z",
+    "url": "https://github.com/justacalico/devinorium"
+  },
+  {
     "description": "A job-application app whose backend is a headless LLM agent (Claude Code CLI). Markdown + git as the database.",
     "id": "yashkrush/jobkit",
     "language": "JavaScript",
@@ -16,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T20:22:34Z",
     "url": "https://github.com/giridhar1103/NYCynapse.Ai"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-17T20:11:29Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -59,7 +95,7 @@
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 388,
-    "updated_at": "2026-10-17T19:57:51Z",
+    "updated_at": "2026-10-17T20:36:59Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
@@ -79,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-10-17T19:51:55Z",
     "url": "https://github.com/Kvindo/KvindoCode"
-  },
-  {
-    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
-    "id": "hsaghir/looplet",
-    "language": "Python",
-    "name": "hsaghir/looplet",
-    "stars": 7,
-    "updated_at": "2026-10-17T20:25:43Z",
-    "url": "https://github.com/hsaghir/looplet"
   },
   {
     "description": "DevOps & Cloud SI Assistant that runs locally on taraengine for complete privacy.",
@@ -257,7 +284,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-17T20:19:22Z",
+    "updated_at": "2026-10-17T20:36:19Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 7,
     "updated_at": "2026-10-17T16:40:51Z",
     "url": "https://github.com/kyleslight/shun"
-  },
-  {
-    "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
-    "id": "weihuaguo270-ops/react-agent",
-    "language": "Python",
-    "name": "weihuaguo270-ops/react-agent",
-    "stars": 0,
-    "updated_at": "2026-10-17T16:40:28Z",
-    "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 2,
-    "updated_at": "2026-10-17T16:36:18Z",
-    "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "\u5267\u672c\u5206\u955c\u667a\u80fd\u4f53\uff08PenShot\uff09\uff1a\u7535\u5f71/\u52a8\u6f2b/\u77ed\u5267/\u5c0f\u8bf4\u2192\u5206\u955c\u7247\u6bb5\u2192\u89c6\u9891\u63d0\u793a\u8bcd\u3002\u57fa\u4e8e LLM \u901a\u8fc7 LangGraph+LlamaIndex\u5b9e\u73b0\u4efb\u610f\u683c\u5f0f\u5267\u672c\u7684\u81ea\u52a8\u89e3\u6790\uff0c\u751f\u6210 Sora/Veo/Runway \u7b49\u6a21\u578b\u53ef\u7528\u7684\u8fde\u8d2ftext-to-v",
-    "id": "neopen/story-shot-agent",
-    "language": "Python",
-    "name": "neopen/story-shot-agent",
-    "stars": 226,
-    "updated_at": "2026-10-17T16:34:43Z",
-    "url": "https://github.com/neopen/story-shot-agent"
   }
 ]
