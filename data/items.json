@@ -1,21 +1,84 @@
 [
   {
-    "description": "UnrealHybridAgent (UHA) \u2014 a hybrid AI-agent runtime for Unreal Engine 5 with structured tools, Computer Use fallback, po",
-    "id": "Make-Uha-Great-Again/UnrealHybridAgent",
-    "language": "Python",
-    "name": "Make-Uha-Great-Again/UnrealHybridAgent",
-    "stars": 1,
-    "updated_at": "2026-10-17T05:45:03Z",
-    "url": "https://github.com/Make-Uha-Great-Again/UnrealHybridAgent"
-  },
-  {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
     "id": "plurnk/plurnk-service",
     "language": "TypeScript",
     "name": "plurnk/plurnk-service",
     "stars": 1,
-    "updated_at": "2026-10-17T05:39:42Z",
+    "updated_at": "2026-10-17T05:57:43Z",
     "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
+    "id": "hsaghir/looplet",
+    "language": "Python",
+    "name": "hsaghir/looplet",
+    "stars": 7,
+    "updated_at": "2026-10-17T05:56:00Z",
+    "url": "https://github.com/hsaghir/looplet"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "liumiaoqi/MaiBot",
+    "language": "Python",
+    "name": "liumiaoqi/MaiBot",
+    "stars": 1,
+    "updated_at": "2026-10-17T05:55:37Z",
+    "url": "https://github.com/liumiaoqi/MaiBot"
+  },
+  {
+    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
+    "id": "shimo4228/contemplative-agent",
+    "language": "Python",
+    "name": "shimo4228/contemplative-agent",
+    "stars": 9,
+    "updated_at": "2026-10-17T05:55:14Z",
+    "url": "https://github.com/shimo4228/contemplative-agent"
+  },
+  {
+    "description": "Make any agent harness token-native.",
+    "id": "Lawhy/tokin",
+    "language": "Python",
+    "name": "Lawhy/tokin",
+    "stars": 5,
+    "updated_at": "2026-10-17T05:58:51Z",
+    "url": "https://github.com/Lawhy/tokin"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-17T05:50:33Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "UnrealHybridAgent (UHA) \u2014 a hybrid AI-agent runtime for Unreal Engine 5 with structured tools, Computer Use fallback, po",
+    "id": "Make-Uha-Great-Again/UnrealHybridAgent",
+    "language": "Python",
+    "name": "Make-Uha-Great-Again/UnrealHybridAgent",
+    "stars": 1,
+    "updated_at": "2026-10-17T05:50:26Z",
+    "url": "https://github.com/Make-Uha-Great-Again/UnrealHybridAgent"
+  },
+  {
+    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
+    "id": "Maryam70995/CodeJury",
+    "language": "Python",
+    "name": "Maryam70995/CodeJury",
+    "stars": 0,
+    "updated_at": "2026-10-17T05:48:29Z",
+    "url": "https://github.com/Maryam70995/CodeJury"
+  },
+  {
+    "description": "\u975e\u5e38\u8be6\u7ec6\u7684\u5927\u6a21\u578bLLM\u7684\u5b66\u4e60\u6559\u7a0b\u4e0e\u7b14\u8bb0",
+    "id": "Tranh300/LLM_book",
+    "language": "Python",
+    "name": "Tranh300/LLM_book",
+    "stars": 0,
+    "updated_at": "2026-10-17T05:47:33Z",
+    "url": "https://github.com/Tranh300/LLM_book"
   },
   {
     "description": "Community DSH host plugin that automatically resumes root-agent sessions after max-token truncation, with bounded retrie",
@@ -32,7 +95,7 @@
     "language": "Kotlin",
     "name": "Ultra-Guru/Android-Guru-Agent",
     "stars": 11,
-    "updated_at": "2026-10-17T05:44:27Z",
+    "updated_at": "2026-10-17T05:59:43Z",
     "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
   },
   {
@@ -43,15 +106,6 @@
     "stars": 8,
     "updated_at": "2026-10-17T05:36:23Z",
     "url": "https://github.com/frontierlabai/JevHub"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "liumiaoqi/MaiBot",
-    "language": "Python",
-    "name": "liumiaoqi/MaiBot",
-    "stars": 1,
-    "updated_at": "2026-10-17T05:36:16Z",
-    "url": "https://github.com/liumiaoqi/MaiBot"
   },
   {
     "description": "DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy.",
@@ -162,24 +216,6 @@
     "url": "https://github.com/Mar-alf/agent-pitfalls"
   },
   {
-    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
-    "id": "hsaghir/looplet",
-    "language": "Python",
-    "name": "hsaghir/looplet",
-    "stars": 7,
-    "updated_at": "2026-10-17T05:44:04Z",
-    "url": "https://github.com/hsaghir/looplet"
-  },
-  {
-    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 9,
-    "updated_at": "2026-10-17T05:09:56Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -196,15 +232,6 @@
     "stars": 5,
     "updated_at": "2026-10-17T04:52:48Z",
     "url": "https://github.com/wufufu770/d2d"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-17T04:49:36Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "LLM application engineering projects: RAG, LangGraph Agents, MCP, evaluation, FastAPI, Redis, and deployment.",
@@ -286,15 +313,6 @@
     "stars": 3,
     "updated_at": "2026-10-17T04:19:40Z",
     "url": "https://github.com/Calmingstorm/Odin"
-  },
-  {
-    "description": "Make any agent harness token-native.",
-    "id": "Lawhy/tokin",
-    "language": "Python",
-    "name": "Lawhy/tokin",
-    "stars": 5,
-    "updated_at": "2026-10-17T04:08:31Z",
-    "url": "https://github.com/Lawhy/tokin"
   },
   {
     "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
@@ -430,23 +448,5 @@
     "stars": 8843,
     "updated_at": "2026-10-17T03:03:26Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-10-17T02:10:27Z",
-    "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Public message board where AI agents and humans can leave messages for each other. Everything posted is public.",
-    "id": "Slangelange/lighthouse",
-    "language": "HTML",
-    "name": "Slangelange/lighthouse",
-    "stars": 0,
-    "updated_at": "2026-10-17T02:06:50Z",
-    "url": "https://github.com/Slangelange/lighthouse"
   }
 ]
