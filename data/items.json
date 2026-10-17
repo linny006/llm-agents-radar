@@ -1,12 +1,102 @@
 [
   {
+    "description": "\u628a ZCode\uff08Z.ai / BigModel\uff09\u6ce8\u518c\u4e3a DeepSeek Harness\uff08DSH\uff09\u7684 LLM provider\uff1a\u4ed8\u8d39 Coding Plan \u76f4\u8fde\uff0c\u514d\u8d39\u989d\u5ea6\uff08Start Plan \u6d3b\u52a8\u8d60\u9001\uff09\u6258\u7ba1\u5b98\u65b9 agent \u4ee3\u53d1 \u2014\u2014 ",
+    "id": "Shuffle-1992/dsh-connect-zcode",
+    "language": "JavaScript",
+    "name": "Shuffle-1992/dsh-connect-zcode",
+    "stars": 0,
+    "updated_at": "2026-10-17T12:59:59Z",
+    "url": "https://github.com/Shuffle-1992/dsh-connect-zcode"
+  },
+  {
+    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
+    "id": "watchcat/scout",
+    "language": "Rust",
+    "name": "watchcat/scout",
+    "stars": 0,
+    "updated_at": "2026-10-17T12:59:07Z",
+    "url": "https://github.com/watchcat/scout"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 29,
+    "updated_at": "2026-10-17T12:58:27Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-17T12:58:00Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
+    "id": "memoways/ava-proto1",
+    "language": "TypeScript",
+    "name": "memoways/ava-proto1",
+    "stars": 0,
+    "updated_at": "2026-10-17T12:57:57Z",
+    "url": "https://github.com/memoways/ava-proto1"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 131,
+    "updated_at": "2026-10-17T12:51:56Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-10-17T12:51:30Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "DeckSmith: an AI agent that builds PowerPoint decks from governed data, runnable end to end on a laptop with a Databrick",
+    "id": "santoshshinde2012/deck-smith-local",
+    "language": "Python",
+    "name": "santoshshinde2012/deck-smith-local",
+    "stars": 0,
+    "updated_at": "2026-10-17T12:50:36Z",
+    "url": "https://github.com/santoshshinde2012/deck-smith-local"
+  },
+  {
     "description": "Agent de triage web-s\u00e9curit\u00e9 (Claude Agent SDK) : heuristiques + classifieur entra\u00een\u00e9 (MLOps) pour la d\u00e9tection de phish",
     "id": "TatianaT13/websec-triage-agent",
     "language": "Python",
     "name": "TatianaT13/websec-triage-agent",
     "stars": 0,
-    "updated_at": "2026-10-17T12:44:16Z",
+    "updated_at": "2026-10-17T12:48:59Z",
     "url": "https://github.com/TatianaT13/websec-triage-agent"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 15,
+    "updated_at": "2026-10-17T12:48:00Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "A local-first AI companion for Windows: it remembers you, dreams over your day at night, follows up on what matters and ",
+    "id": "b7216309-jpg/little-bot",
+    "language": "JavaScript",
+    "name": "b7216309-jpg/little-bot",
+    "stars": 0,
+    "updated_at": "2026-10-17T12:45:59Z",
+    "url": "https://github.com/b7216309-jpg/little-bot"
   },
   {
     "description": "\ub124\uc774\ubc84 \ud56d\uacf5\uad8c\u00b7\uc2a4\uce74\uc774\uc2a4\uce90\ub108\uc5d0\uc11c \uc9c0\uae08 \uc0b4 \uc218 \uc788\ub294 \ud56d\uacf5\uad8c\uc744 \uc870\ud68c\ud558\ub294 LLM \uc5d0\uc774\uc804\ud2b8\uc6a9 CLI \u00b7 Korean flight search CLI for LLM agents (Naver Flights, Skyscanner)",
@@ -14,7 +104,7 @@
     "language": "Python",
     "name": "Rukkakka/baenggipyo",
     "stars": 0,
-    "updated_at": "2026-10-17T12:41:12Z",
+    "updated_at": "2026-10-17T12:59:57Z",
     "url": "https://github.com/Rukkakka/baenggipyo"
   },
   {
@@ -54,15 +144,6 @@
     "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
   },
   {
-    "description": "\u628a ZCode\uff08Z.ai / BigModel\uff09\u6ce8\u518c\u4e3a DeepSeek Harness\uff08DSH\uff09\u7684 LLM provider\uff1a\u4ed8\u8d39 Coding Plan \u76f4\u8fde\uff0c\u514d\u8d39\u989d\u5ea6\uff08Start Plan \u6d3b\u52a8\u8d60\u9001\uff09\u6258\u7ba1\u5b98\u65b9 agent \u4ee3\u53d1 \u2014\u2014 ",
-    "id": "Shuffle-1992/dsh-connect-zcode",
-    "language": "JavaScript",
-    "name": "Shuffle-1992/dsh-connect-zcode",
-    "stars": 0,
-    "updated_at": "2026-10-17T12:20:16Z",
-    "url": "https://github.com/Shuffle-1992/dsh-connect-zcode"
-  },
-  {
     "description": "\u628a\u4efb\u52a1\u6d3e\u53d1\u7ed9\u672c\u673a ZCode CLI \u65e0\u5934\u8fdb\u7a0b\u7684 DeepSeek Harness \u63d2\u4ef6\uff1a\u9762\u677f\u53ef\u76d1\u89c6/\u7ec8\u6b62/\u7eed\u8dd1/\u6362\u901a\u9053\uff1b\u5355\u5199\u8005\u6587\u4ef6\u9501 + \u7528\u91cf\u53f0\u8d26 + \u964d\u7ea7\u94fe\u3002\u652f\u6301\u4ed8\u8d39\u5957\u9910\u4e0e\u514d\u8d39\u989d\u5ea6\uff08Start Plan \u6d3b\u52a8\u8d60\u9001\uff09\u4e24\u79cd\u989d\u5ea6\uff0c\u540e\u8005\u6258\u7ba1\u5b98\u65b9",
     "id": "Shuffle-1992/dsh-dispatch",
     "language": "JavaScript",
@@ -79,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T12:14:24Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 29,
-    "updated_at": "2026-10-17T12:12:31Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
@@ -144,24 +216,6 @@
     "url": "https://github.com/ImWuMie/wear-agent"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-17T11:56:44Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 15,
-    "updated_at": "2026-10-17T12:27:37Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
     "id": "lzmd-arch/BioSNN-Plug",
     "language": "Python",
@@ -205,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-10-17T11:38:43Z",
     "url": "https://github.com/Heliotrope-dev/finance-agent"
-  },
-  {
-    "description": "DeckSmith: an AI agent that builds PowerPoint decks from governed data, runnable end to end on a laptop with a Databrick",
-    "id": "santoshshinde2012/deck-smith-local",
-    "language": "Python",
-    "name": "santoshshinde2012/deck-smith-local",
-    "stars": 0,
-    "updated_at": "2026-10-17T12:11:05Z",
-    "url": "https://github.com/santoshshinde2012/deck-smith-local"
   },
   {
     "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T10:27:03Z",
     "url": "https://github.com/Ali60837/taracode"
-  },
-  {
-    "description": "Capability-ontology-driven SAP capability supplier. One call answers one business question; endpoint chains, as-of consi",
-    "id": "shrek-abaper/sap-nexus-agent",
-    "language": "Python",
-    "name": "shrek-abaper/sap-nexus-agent",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:23:09Z",
-    "url": "https://github.com/shrek-abaper/sap-nexus-agent"
-  },
-  {
-    "description": "AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter",
-    "id": "bartosz249/Upwork-AI-jobs-applier",
-    "language": "Python",
-    "name": "bartosz249/Upwork-AI-jobs-applier",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:20:07Z",
-    "url": "https://github.com/bartosz249/Upwork-AI-jobs-applier"
-  },
-  {
-    "description": "DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy.",
-    "id": "PinarMichel6391/taracode",
-    "language": "Go",
-    "name": "PinarMichel6391/taracode",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:19:48Z",
-    "url": "https://github.com/PinarMichel6391/taracode"
-  },
-  {
-    "description": "\u6b66\u6c49\u5927\u5b66\u5730\u7a7a\u5b66\u9662 2026 \u5927\u521b\uff1a\u591a\u667a\u80fd\u4f53 AI \u91ce\u5916\u53f0\u7ad9\u7ba1\u7406\u7cfb\u7edf \u2014\u2014 \u76d1\u6d4b/\u8d28\u63a7/\u7814\u5224/\u6d3e\u5355/\u5f52\u6863\u95ed\u73af\u3002LangGraph \u8fd0\u884c\u65f6 \u00b7 MCP \u5de5\u5177\u63a5\u53e3 \u00b7 \u89c4\u5219\u88c1\u51b3 + \u5927\u6a21\u578b\u5f52\u56e0\u3002\u516c\u5f00\u8131\u654f\u4ed3\u5e93",
-    "id": "yasunosubaru/field-station-agent",
-    "language": "Python",
-    "name": "yasunosubaru/field-station-agent",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:18:54Z",
-    "url": "https://github.com/yasunosubaru/field-station-agent"
-  },
-  {
-    "description": "Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by ",
-    "id": "watson34657/DM-Code-Agent",
-    "language": "Python",
-    "name": "watson34657/DM-Code-Agent",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:17:30Z",
-    "url": "https://github.com/watson34657/DM-Code-Agent"
   }
 ]
