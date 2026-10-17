@@ -1,11 +1,110 @@
 [
   {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 14,
+    "updated_at": "2026-10-17T06:43:08Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-17T06:40:57Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Portable pi harness powered by Rust native tools \u2014 lean core, progressive disclosure, zero absolute paths.",
+    "id": "nurmdrafi/pi-native",
+    "language": "JavaScript",
+    "name": "nurmdrafi/pi-native",
+    "stars": 0,
+    "updated_at": "2026-10-17T06:40:19Z",
+    "url": "https://github.com/nurmdrafi/pi-native"
+  },
+  {
+    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
+    "id": "hsaghir/looplet",
+    "language": "Python",
+    "name": "hsaghir/looplet",
+    "stars": 7,
+    "updated_at": "2026-10-17T06:38:03Z",
+    "url": "https://github.com/hsaghir/looplet"
+  },
+  {
+    "description": "A lightweight AI chat client for Wear OS round-screen watches - SSE streaming for OpenAI-compatible (Completions/Respons",
+    "id": "ImWuMie/wear-agent",
+    "language": "Kotlin",
+    "name": "ImWuMie/wear-agent",
+    "stars": 3,
+    "updated_at": "2026-10-17T06:37:03Z",
+    "url": "https://github.com/ImWuMie/wear-agent"
+  },
+  {
+    "description": "DeckSmith: an AI agent that builds PowerPoint decks from governed data, runnable end to end on a laptop with a Databrick",
+    "id": "santoshshinde2012/deck-smith-local",
+    "language": "Python",
+    "name": "santoshshinde2012/deck-smith-local",
+    "stars": 0,
+    "updated_at": "2026-10-17T06:36:14Z",
+    "url": "https://github.com/santoshshinde2012/deck-smith-local"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 134,
+    "updated_at": "2026-10-17T06:33:29Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
+    "id": "Ultra-Guru/Android-Guru-Agent",
+    "language": "Kotlin",
+    "name": "Ultra-Guru/Android-Guru-Agent",
+    "stars": 11,
+    "updated_at": "2026-10-17T06:43:19Z",
+    "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
+  },
+  {
+    "description": "Capability-ontology-driven SAP capability supplier. One call answers one business question; endpoint chains, as-of consi",
+    "id": "shrek-abaper/sap-nexus-agent",
+    "language": "Python",
+    "name": "shrek-abaper/sap-nexus-agent",
+    "stars": 0,
+    "updated_at": "2026-10-17T06:31:45Z",
+    "url": "https://github.com/shrek-abaper/sap-nexus-agent"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "liumiaoqi/MaiBot",
+    "language": "Python",
+    "name": "liumiaoqi/MaiBot",
+    "stars": 1,
+    "updated_at": "2026-10-17T06:31:40Z",
+    "url": "https://github.com/liumiaoqi/MaiBot"
+  },
+  {
+    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
+    "id": "QQSHI13/fox-agent",
+    "language": "TypeScript",
+    "name": "QQSHI13/fox-agent",
+    "stars": 2,
+    "updated_at": "2026-10-17T06:30:59Z",
+    "url": "https://github.com/QQSHI13/fox-agent"
+  },
+  {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
     "stars": 1189,
-    "updated_at": "2026-10-17T06:28:26Z",
+    "updated_at": "2026-10-17T06:35:56Z",
     "url": "https://github.com/ongridio/ongrid"
   },
   {
@@ -14,17 +113,8 @@
     "language": "JavaScript",
     "name": "wufufu770/d2d",
     "stars": 5,
-    "updated_at": "2026-10-17T06:25:30Z",
+    "updated_at": "2026-10-17T06:40:01Z",
     "url": "https://github.com/wufufu770/d2d"
-  },
-  {
-    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
-    "id": "Ultra-Guru/Android-Guru-Agent",
-    "language": "Kotlin",
-    "name": "Ultra-Guru/Android-Guru-Agent",
-    "stars": 11,
-    "updated_at": "2026-10-17T06:29:06Z",
-    "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
   },
   {
     "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
@@ -32,26 +122,8 @@
     "language": "Python",
     "name": "shimo4228/contemplative-agent",
     "stars": 9,
-    "updated_at": "2026-10-17T06:17:56Z",
+    "updated_at": "2026-10-17T06:36:53Z",
     "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-17T06:17:12Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "Capability-ontology-driven SAP capability supplier. One call answers one business question; endpoint chains, as-of consi",
-    "id": "shrek-abaper/sap-nexus-agent",
-    "language": "Python",
-    "name": "shrek-abaper/sap-nexus-agent",
-    "stars": 0,
-    "updated_at": "2026-10-17T06:12:04Z",
-    "url": "https://github.com/shrek-abaper/sap-nexus-agent"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -81,15 +153,6 @@
     "url": "https://github.com/kangwoo/aimon-core"
   },
   {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "liumiaoqi/MaiBot",
-    "language": "Python",
-    "name": "liumiaoqi/MaiBot",
-    "stars": 1,
-    "updated_at": "2026-10-17T06:05:20Z",
-    "url": "https://github.com/liumiaoqi/MaiBot"
-  },
-  {
     "description": "Make any agent harness token-native.",
     "id": "Lawhy/tokin",
     "language": "Python",
@@ -115,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-10-17T06:02:56Z",
     "url": "https://github.com/bd-loser/hermes-bionic"
-  },
-  {
-    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
-    "id": "hsaghir/looplet",
-    "language": "Python",
-    "name": "hsaghir/looplet",
-    "stars": 7,
-    "updated_at": "2026-10-17T06:26:15Z",
-    "url": "https://github.com/hsaghir/looplet"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -248,7 +302,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 2,
-    "updated_at": "2026-10-17T05:23:00Z",
+    "updated_at": "2026-10-17T06:40:36Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -265,7 +319,7 @@
     "id": "openbin-ai/binny",
     "language": "Go",
     "name": "openbin-ai/binny",
-    "stars": 138,
+    "stars": 139,
     "updated_at": "2026-10-17T05:20:52Z",
     "url": "https://github.com/openbin-ai/binny"
   },
@@ -333,15 +387,6 @@
     "url": "https://github.com/Rukkakka/baenggipyo"
   },
   {
-    "description": "Portable pi harness powered by Rust native tools \u2014 lean core, progressive disclosure, zero absolute paths.",
-    "id": "nurmdrafi/pi-native",
-    "language": "JavaScript",
-    "name": "nurmdrafi/pi-native",
-    "stars": 0,
-    "updated_at": "2026-10-17T04:28:34Z",
-    "url": "https://github.com/nurmdrafi/pi-native"
-  },
-  {
     "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
     "id": "ximing/vital",
     "language": "TypeScript",
@@ -367,15 +412,6 @@
     "stars": 3,
     "updated_at": "2026-10-17T04:19:40Z",
     "url": "https://github.com/Calmingstorm/Odin"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 14,
-    "updated_at": "2026-10-17T06:20:05Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
@@ -405,15 +441,6 @@
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
   },
   {
-    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
-    "id": "QQSHI13/fox-agent",
-    "language": "TypeScript",
-    "name": "QQSHI13/fox-agent",
-    "stars": 2,
-    "updated_at": "2026-10-17T03:57:07Z",
-    "url": "https://github.com/QQSHI13/fox-agent"
-  },
-  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-17T03:56:28Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Security operations AI agent built with LangGraph, deterministic policy enforcement, human approval, auditable tool use,",
-    "id": "luozhonglzw/cybersec-agent",
-    "language": "Python",
-    "name": "luozhonglzw/cybersec-agent",
-    "stars": 0,
-    "updated_at": "2026-10-17T03:57:23Z",
-    "url": "https://github.com/luozhonglzw/cybersec-agent"
-  },
-  {
-    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 53,
-    "updated_at": "2026-10-17T03:48:31Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 29,
-    "updated_at": "2026-10-17T03:46:43Z",
-    "url": "https://github.com/tomcounsell/ai"
   }
 ]
