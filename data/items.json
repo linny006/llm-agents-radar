@@ -1,5 +1,68 @@
 [
   {
+    "description": "Capability-ontology-driven SAP capability supplier. One call answers one business question; endpoint chains, as-of consi",
+    "id": "shrek-abaper/sap-nexus-agent",
+    "language": "Python",
+    "name": "shrek-abaper/sap-nexus-agent",
+    "stars": 0,
+    "updated_at": "2026-10-17T00:54:52Z",
+    "url": "https://github.com/shrek-abaper/sap-nexus-agent"
+  },
+  {
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 4,
+    "updated_at": "2026-10-17T00:51:55Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
+    "id": "Ultra-Guru/Android-Guru-Agent",
+    "language": "Kotlin",
+    "name": "Ultra-Guru/Android-Guru-Agent",
+    "stars": 11,
+    "updated_at": "2026-10-17T00:53:29Z",
+    "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
+  },
+  {
+    "description": "Open-source local AI Agent desktop app for authorized security assessment \u2014 Electron + Mastra-powered runtime, visual pe",
+    "id": "MingyiSecLab/Atlas",
+    "language": "TypeScript",
+    "name": "MingyiSecLab/Atlas",
+    "stars": 34,
+    "updated_at": "2026-10-17T00:49:13Z",
+    "url": "https://github.com/MingyiSecLab/Atlas"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-10-17T00:49:12Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Hermes Agent on Termux (Android): one-command install from prebuilt, checksum-verified Python wheels. No compiling on yo",
+    "id": "bd-loser/hermes-bionic",
+    "language": "Shell",
+    "name": "bd-loser/hermes-bionic",
+    "stars": 1,
+    "updated_at": "2026-10-17T00:48:30Z",
+    "url": "https://github.com/bd-loser/hermes-bionic"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-17T00:45:34Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
     "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
     "id": "watchcat/scout",
     "language": "Rust",
@@ -18,15 +81,6 @@
     "url": "https://github.com/Calmingstorm/Odin"
   },
   {
-    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
-    "id": "Ultra-Guru/Android-Guru-Agent",
-    "language": "Kotlin",
-    "name": "Ultra-Guru/Android-Guru-Agent",
-    "stars": 11,
-    "updated_at": "2026-10-17T00:37:58Z",
-    "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
@@ -36,21 +90,12 @@
     "url": "https://github.com/ljchang/mecha"
   },
   {
-    "description": "Hermes Agent on Termux (Android): one-command install from prebuilt, checksum-verified Python wheels. No compiling on yo",
-    "id": "bd-loser/hermes-bionic",
-    "language": "Shell",
-    "name": "bd-loser/hermes-bionic",
-    "stars": 1,
-    "updated_at": "2026-10-17T00:33:36Z",
-    "url": "https://github.com/bd-loser/hermes-bionic"
-  },
-  {
     "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
     "id": "hsaghir/looplet",
     "language": "Python",
     "name": "hsaghir/looplet",
     "stars": 7,
-    "updated_at": "2026-10-17T00:32:45Z",
+    "updated_at": "2026-10-17T00:52:30Z",
     "url": "https://github.com/hsaghir/looplet"
   },
   {
@@ -95,7 +140,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 48,
-    "updated_at": "2026-10-17T00:23:10Z",
+    "updated_at": "2026-10-17T00:47:24Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -180,15 +225,6 @@
     "url": "https://github.com/Rukkakka/baenggipyo"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-16T23:44:32Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -225,15 +261,6 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-10-16T22:48:15Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
     "id": "yologdev/yoagent",
     "language": "Rust",
@@ -259,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T22:24:17Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 4,
-    "updated_at": "2026-10-16T22:10:07Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
   },
   {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-16T19:23:10Z",
     "url": "https://github.com/KaletoAI/anima-verse"
-  },
-  {
-    "description": "Local-first long-term memory and safer context compression for Hermes Agent \u2014 SQLite, no required services.",
-    "id": "indigokarasu/chronicle-agent-context-and-memory",
-    "language": "Python",
-    "name": "indigokarasu/chronicle-agent-context-and-memory",
-    "stars": 11,
-    "updated_at": "2026-10-16T19:22:47Z",
-    "url": "https://github.com/indigokarasu/chronicle-agent-context-and-memory"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 29,
-    "updated_at": "2026-10-16T19:07:49Z",
-    "url": "https://github.com/tomcounsell/ai"
   }
 ]
