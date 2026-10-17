@@ -1,5 +1,50 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 29,
+    "updated_at": "2026-10-17T15:26:51Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Metacognitive extension suite for Pi coding agent",
+    "id": "kifirkin/pi-braid",
+    "language": "JavaScript",
+    "name": "kifirkin/pi-braid",
+    "stars": 1,
+    "updated_at": "2026-10-17T15:21:40Z",
+    "url": "https://github.com/kifirkin/pi-braid"
+  },
+  {
+    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
+    "id": "eshanized/M31A",
+    "language": "Rust",
+    "name": "eshanized/M31A",
+    "stars": 10,
+    "updated_at": "2026-10-17T15:19:07Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "Desktop AI coding agent for Linux/Windows/macOS: an Avalonia .NET app with git-worktree isolation per session, plan revi",
+    "id": "Kvindo/KvindoCode",
+    "language": "C#",
+    "name": "Kvindo/KvindoCode",
+    "stars": 2,
+    "updated_at": "2026-10-17T15:18:38Z",
+    "url": "https://github.com/Kvindo/KvindoCode"
+  },
+  {
+    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
+    "id": "wuyhong715/rikkahub-agent-pure",
+    "language": "Kotlin",
+    "name": "wuyhong715/rikkahub-agent-pure",
+    "stars": 49,
+    "updated_at": "2026-10-17T15:16:56Z",
+    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
+  },
+  {
     "description": "CIRIS: an open-source AI assistant with a conscience you can check. Signed, auditable reasoning on every decision, a hum",
     "id": "CIRISAI/CIRISAgent",
     "language": "Python",
@@ -16,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T15:15:05Z",
     "url": "https://github.com/santoshshinde2012/deck-smith-local"
-  },
-  {
-    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
-    "id": "wuyhong715/rikkahub-agent-pure",
-    "language": "Kotlin",
-    "name": "wuyhong715/rikkahub-agent-pure",
-    "stars": 49,
-    "updated_at": "2026-10-17T15:13:52Z",
-    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
     "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
@@ -49,7 +85,7 @@
     "id": "Soodok/Deepseek-Harness-Local-Android",
     "language": "Kotlin",
     "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 272,
+    "stars": 273,
     "updated_at": "2026-10-17T15:09:34Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
@@ -59,7 +95,7 @@
     "language": "TypeScript",
     "name": "Wepoi9/dsh-max-token-auto-continue",
     "stars": 0,
-    "updated_at": "2026-10-17T15:06:13Z",
+    "updated_at": "2026-10-17T15:22:33Z",
     "url": "https://github.com/Wepoi9/dsh-max-token-auto-continue"
   },
   {
@@ -97,15 +133,6 @@
     "stars": 134,
     "updated_at": "2026-10-17T14:57:54Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Desktop AI coding agent for Linux/Windows/macOS: an Avalonia .NET app with git-worktree isolation per session, plan revi",
-    "id": "Kvindo/KvindoCode",
-    "language": "C#",
-    "name": "Kvindo/KvindoCode",
-    "stars": 2,
-    "updated_at": "2026-10-17T14:53:09Z",
-    "url": "https://github.com/Kvindo/KvindoCode"
   },
   {
     "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
@@ -261,21 +288,12 @@
     "url": "https://github.com/KaletoAI/anima-verse"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 29,
-    "updated_at": "2026-10-17T13:55:35Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
     "id": "duongnq2798/vestiarion",
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 2,
-    "updated_at": "2026-10-17T13:55:24Z",
+    "updated_at": "2026-10-17T15:29:53Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -320,7 +338,7 @@
     "language": "Python",
     "name": "indigokarasu/chronicle-agent-context-and-memory",
     "stars": 11,
-    "updated_at": "2026-10-17T13:39:59Z",
+    "updated_at": "2026-10-17T15:17:48Z",
     "url": "https://github.com/indigokarasu/chronicle-agent-context-and-memory"
   },
   {
@@ -382,7 +400,7 @@
     "id": "sibylsea-hub/heros3-agent-companion",
     "language": "Python",
     "name": "sibylsea-hub/heros3-agent-companion",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-10-17T13:17:09Z",
     "url": "https://github.com/sibylsea-hub/heros3-agent-companion"
   },
@@ -414,15 +432,6 @@
     "url": "https://github.com/watchcat/scout"
   },
   {
-    "description": "Metacognitive extension suite for Pi coding agent",
-    "id": "kifirkin/pi-braid",
-    "language": "JavaScript",
-    "name": "kifirkin/pi-braid",
-    "stars": 1,
-    "updated_at": "2026-10-17T13:04:42Z",
-    "url": "https://github.com/kifirkin/pi-braid"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T13:01:01Z",
     "url": "https://github.com/b7216309-jpg/little-bot"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 131,
-    "updated_at": "2026-10-17T12:51:56Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
   }
 ]
