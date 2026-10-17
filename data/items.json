@@ -1,5 +1,23 @@
 [
   {
+    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
+    "id": "hsaghir/looplet",
+    "language": "Python",
+    "name": "hsaghir/looplet",
+    "stars": 7,
+    "updated_at": "2026-10-17T19:39:23Z",
+    "url": "https://github.com/hsaghir/looplet"
+  },
+  {
+    "description": "DevOps & Cloud SI Assistant that runs locally on taraengine for complete privacy.",
+    "id": "tara-vision/taracode",
+    "language": "Go",
+    "name": "tara-vision/taracode",
+    "stars": 51,
+    "updated_at": "2026-10-17T19:34:56Z",
+    "url": "https://github.com/tara-vision/taracode"
+  },
+  {
     "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
     "id": "duongnq2798/vestiarion",
     "language": "TypeScript",
@@ -41,7 +59,7 @@
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 388,
-    "updated_at": "2026-10-17T19:10:48Z",
+    "updated_at": "2026-10-17T19:38:10Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
@@ -270,15 +288,6 @@
     "url": "https://github.com/ljedrz/nachalnik"
   },
   {
-    "description": "DevOps & Cloud SI Assistant that runs locally on taraengine for complete privacy.",
-    "id": "tara-vision/taracode",
-    "language": "Go",
-    "name": "tara-vision/taracode",
-    "stars": 51,
-    "updated_at": "2026-10-17T17:28:22Z",
-    "url": "https://github.com/tara-vision/taracode"
-  },
-  {
     "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
     "id": "memoways/ava-proto1",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 11,
     "updated_at": "2026-10-17T16:25:17Z",
     "url": "https://github.com/indigokarasu/chronicle-agent-context-and-memory"
-  },
-  {
-    "description": "Cron scheduling for the DeepSeek Harness \u2014 bounded tasks with calendar & interval rules, delivered to live agents",
-    "id": "fan56/dsh-cron",
-    "language": "TypeScript",
-    "name": "fan56/dsh-cron",
-    "stars": 0,
-    "updated_at": "2026-10-17T16:17:19Z",
-    "url": "https://github.com/fan56/dsh-cron"
   }
 ]
