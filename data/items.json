@@ -1,12 +1,48 @@
 [
   {
-    "description": "UEPLANE \u00b7 \u53c2\u8003\u56fe\u9a71\u52a8\u7684 UE \u5e73\u9762\u573a\u666f\u642d\u5efa\u7f16\u6392\u5c42\uff08MCP server\uff09\uff1a\u516b\u9636\u6bb5\u6d41\u7a0b + \u786c\u95f8\u95e8 + \u53ef\u56de\u9000\u53f0\u8d26",
-    "id": "ZHUPO233/UE-Planar-SceneBuilder-MCP",
+    "description": "RETECO: A SemEval-2027 Shared Task on Reasoning-Oriented Retrieval",
+    "id": "DataScienceUIBK/RETECO",
     "language": "Python",
-    "name": "ZHUPO233/UE-Planar-SceneBuilder-MCP",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:59:05Z",
-    "url": "https://github.com/ZHUPO233/UE-Planar-SceneBuilder-MCP"
+    "name": "DataScienceUIBK/RETECO",
+    "stars": 6,
+    "updated_at": "2026-10-17T11:14:52Z",
+    "url": "https://github.com/DataScienceUIBK/RETECO"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4454,
+    "updated_at": "2026-10-17T11:14:41Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
+    "id": "Shuffle-1992/dsh-context-pilot",
+    "language": "JavaScript",
+    "name": "Shuffle-1992/dsh-context-pilot",
+    "stars": 3,
+    "updated_at": "2026-10-17T11:13:23Z",
+    "url": "https://github.com/Shuffle-1992/dsh-context-pilot"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 29,
+    "updated_at": "2026-10-17T11:07:07Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 4,
+    "updated_at": "2026-10-17T11:03:11Z",
+    "url": "https://github.com/sydches/yuj"
   },
   {
     "description": "\u628a ZCode\uff08Z.ai / BigModel\uff09\u6ce8\u518c\u4e3a DeepSeek Harness\uff08DSH\uff09\u7684 LLM provider\uff1a\u4ed8\u8d39 Coding Plan \u76f4\u8fde\uff0c\u514d\u8d39\u989d\u5ea6\uff08Start Plan \u6d3b\u52a8\u8d60\u9001\uff09\u6258\u7ba1\u5b98\u65b9 agent \u4ee3\u53d1 \u2014\u2014 ",
@@ -14,8 +50,17 @@
     "language": "JavaScript",
     "name": "Shuffle-1992/dsh-connect-zcode",
     "stars": 0,
-    "updated_at": "2026-10-17T10:58:14Z",
+    "updated_at": "2026-10-17T11:02:37Z",
     "url": "https://github.com/Shuffle-1992/dsh-connect-zcode"
+  },
+  {
+    "description": "UEPLANE \u00b7 \u53c2\u8003\u56fe\u9a71\u52a8\u7684 UE \u5e73\u9762\u573a\u666f\u642d\u5efa\u7f16\u6392\u5c42\uff08MCP server\uff09\uff1a\u516b\u9636\u6bb5\u6d41\u7a0b + \u786c\u95f8\u95e8 + \u53ef\u56de\u9000\u53f0\u8d26",
+    "id": "ZHUPO233/UE-Planar-SceneBuilder-MCP",
+    "language": "Python",
+    "name": "ZHUPO233/UE-Planar-SceneBuilder-MCP",
+    "stars": 0,
+    "updated_at": "2026-10-17T10:59:05Z",
+    "url": "https://github.com/ZHUPO233/UE-Planar-SceneBuilder-MCP"
   },
   {
     "description": "A Rust coding agent that writes what you already know in bulk, and what you have not written yet one explained step at a",
@@ -34,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T10:57:18Z",
     "url": "https://github.com/Wepoi9/dsh-max-token-auto-continue"
-  },
-  {
-    "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
-    "id": "Shuffle-1992/dsh-context-pilot",
-    "language": "JavaScript",
-    "name": "Shuffle-1992/dsh-context-pilot",
-    "stars": 3,
-    "updated_at": "2026-10-17T10:56:22Z",
-    "url": "https://github.com/Shuffle-1992/dsh-context-pilot"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -68,7 +104,7 @@
     "language": "Java",
     "name": "kangwoo/aimon-core",
     "stars": 0,
-    "updated_at": "2026-10-17T10:54:36Z",
+    "updated_at": "2026-10-17T11:11:03Z",
     "url": "https://github.com/kangwoo/aimon-core"
   },
   {
@@ -77,7 +113,7 @@
     "language": "Kotlin",
     "name": "Ultra-Guru/Android-Guru-Agent",
     "stars": 11,
-    "updated_at": "2026-10-17T10:54:32Z",
+    "updated_at": "2026-10-17T11:11:55Z",
     "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
   },
   {
@@ -90,15 +126,6 @@
     "url": "https://github.com/kriss-b/llm-iso27001"
   },
   {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 4,
-    "updated_at": "2026-10-17T10:50:29Z",
-    "url": "https://github.com/sydches/yuj"
-  },
-  {
     "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
     "id": "Sigmanih/SigmaStudio",
     "language": "Python",
@@ -106,15 +133,6 @@
     "stars": 8,
     "updated_at": "2026-10-17T10:48:27Z",
     "url": "https://github.com/Sigmanih/SigmaStudio"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 29,
-    "updated_at": "2026-10-17T10:47:21Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "\u6570\u5b57\u4ea7\u54c1\u5236\u4f5c\u4eba Wright\uff5c\u628a\u673a\u4f1a\u505a\u6210\u53ef\u552e\u5356\u6210\u54c1\u3002Digital Product Producer \u2014 turns opportunities into finished products.",
@@ -194,7 +212,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-17T10:43:21Z",
+    "updated_at": "2026-10-17T11:11:48Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -374,7 +392,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 2,
-    "updated_at": "2026-10-17T10:37:00Z",
+    "updated_at": "2026-10-17T11:05:28Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T09:46:27Z",
     "url": "https://github.com/akane798/Upwork-AI-jobs-applier"
-  },
-  {
-    "description": "Deterministic evidence-retrieval entry for the Agent Memory Leaderboard: Add and Search only, no answer generation",
-    "id": "aidless/just-agent",
-    "language": "Python",
-    "name": "aidless/just-agent",
-    "stars": 0,
-    "updated_at": "2026-10-17T09:45:19Z",
-    "url": "https://github.com/aidless/just-agent"
-  },
-  {
-    "description": "LLM Agent \u670d\u52a1\uff1aLangChain + FastAPI + Vue3\uff0c\u6df7\u5408\u68c0\u7d22 RAG \u5e26\u5f15\u7528\u6eaf\u6e90\uff0cReAct \u53cc\u67b6\u6784\u5b9e\u6d4b\u62e9\u4f18\uff0898.5% vs 89.7%\uff09\uff0c\u8bed\u4e49\u7f13\u5b58\u96f6\u8bef\u547d\u4e2d\uff0c158 \u6761\u8bc4\u6d4b + CI \u56de\u5f52\u95e8\u7981\uff0cDocker \u516c",
-    "id": "SYM529/myAgent",
-    "language": "Python",
-    "name": "SYM529/myAgent",
-    "stars": 1,
-    "updated_at": "2026-10-17T09:42:42Z",
-    "url": "https://github.com/SYM529/myAgent"
   }
 ]
