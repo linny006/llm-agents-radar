@@ -1,10 +1,100 @@
 [
   {
+    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 404,
+    "updated_at": "2026-10-18T18:00:08Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 131,
+    "updated_at": "2026-10-18T17:57:33Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-18T17:56:37Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-10-18T17:56:31Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-18T17:54:51Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-18T17:53:17Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Portable pi harness powered by Rust native tools \u2014 lean core, progressive disclosure, zero absolute paths.",
+    "id": "nurmdrafi/pi-native",
+    "language": "JavaScript",
+    "name": "nurmdrafi/pi-native",
+    "stars": 0,
+    "updated_at": "2026-10-18T17:53:06Z",
+    "url": "https://github.com/nurmdrafi/pi-native"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 15,
+    "updated_at": "2026-10-18T17:57:41Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 134,
+    "updated_at": "2026-10-18T17:49:36Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "AI-orchestrated job search pipeline: scrapes 5 UA job boards, uses Claude API to score matches & classify emails, writes",
+    "id": "VoroshylovV/job-search-automation-pipeline",
+    "language": "Python",
+    "name": "VoroshylovV/job-search-automation-pipeline",
+    "stars": 2,
+    "updated_at": "2026-10-18T17:45:47Z",
+    "url": "https://github.com/VoroshylovV/job-search-automation-pipeline"
+  },
+  {
     "description": "ARTEX \u00b7 AI autonomous penetration testing system (multi-agent LLM, Go + Next.js) \u00b7 AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf \u00b7 \u767e\u5ea6 agent+ \u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b",
     "id": "trhhubsd/ARTEX",
     "language": "Go",
     "name": "trhhubsd/ARTEX",
-    "stars": 1243,
+    "stars": 1244,
     "updated_at": "2026-10-18T17:44:30Z",
     "url": "https://github.com/trhhubsd/ARTEX"
   },
@@ -27,33 +117,6 @@
     "url": "https://github.com/honestDS/MonoLight"
   },
   {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-18T17:41:26Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
-    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-18T17:41:05Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "AI-orchestrated job search pipeline: scrapes 5 UA job boards, uses Claude API to score matches & classify emails, writes",
-    "id": "VoroshylovV/job-search-automation-pipeline",
-    "language": "Python",
-    "name": "VoroshylovV/job-search-automation-pipeline",
-    "stars": 2,
-    "updated_at": "2026-10-18T17:40:54Z",
-    "url": "https://github.com/VoroshylovV/job-search-automation-pipeline"
-  },
-  {
     "description": "Terminal-native AI coding agent with extensible TypeScript and Rust SDKs for building and orchestrating coding workflows",
     "id": "codex-mohan/spectra",
     "language": "TypeScript",
@@ -61,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-10-18T17:38:22Z",
     "url": "https://github.com/codex-mohan/spectra"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-18T17:33:25Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "Production-grade Multimodal AI Airline Agent featuring deterministic Tool Calling (SQLite), Dual Engine (Gemini & Llama ",
@@ -94,7 +148,7 @@
     "id": "muneebkhan08/Cuse",
     "language": "Swift",
     "name": "muneebkhan08/Cuse",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-10-18T17:28:32Z",
     "url": "https://github.com/muneebkhan08/Cuse"
   },
@@ -113,7 +167,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4456,
-    "updated_at": "2026-10-18T17:29:16Z",
+    "updated_at": "2026-10-18T17:54:39Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -131,7 +185,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-18T17:23:22Z",
+    "updated_at": "2026-10-18T17:57:01Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -158,17 +212,8 @@
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 49,
-    "updated_at": "2026-10-18T17:17:12Z",
+    "updated_at": "2026-10-18T17:48:56Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 403,
-    "updated_at": "2026-10-18T17:43:03Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
     "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T15:49:46Z",
     "url": "https://github.com/thereven3947/data-to-decision-ai"
-  },
-  {
-    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
-    "id": "deepalebedev6900/CodeJury",
-    "language": "Python",
-    "name": "deepalebedev6900/CodeJury",
-    "stars": 0,
-    "updated_at": "2026-10-18T15:46:10Z",
-    "url": "https://github.com/deepalebedev6900/CodeJury"
-  },
-  {
-    "description": "AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter",
-    "id": "narong8547/Upwork-AI-jobs-applier",
-    "language": "Python",
-    "name": "narong8547/Upwork-AI-jobs-applier",
-    "stars": 0,
-    "updated_at": "2026-10-18T15:44:55Z",
-    "url": "https://github.com/narong8547/Upwork-AI-jobs-applier"
-  },
-  {
-    "description": "DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy.",
-    "id": "SompongLewis/taracode",
-    "language": "Go",
-    "name": "SompongLewis/taracode",
-    "stars": 0,
-    "updated_at": "2026-10-18T15:44:28Z",
-    "url": "https://github.com/SompongLewis/taracode"
-  },
-  {
-    "description": "AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter",
-    "id": "Burke59747/Upwork-AI-jobs-applier",
-    "language": "Python",
-    "name": "Burke59747/Upwork-AI-jobs-applier",
-    "stars": 0,
-    "updated_at": "2026-10-18T15:43:39Z",
-    "url": "https://github.com/Burke59747/Upwork-AI-jobs-applier"
-  },
-  {
-    "description": "\u7535\u5546\u5e73\u53f0\u5546\u54c1\u5185\u5bb9\u6cbb\u7406\u7684\u590d\u6742\u98ce\u9669\u8c03\u67e5 Agent\uff1aLangGraph \u591a\u6b65\u8c03\u67e5 + \u786e\u5b9a\u6027 Decision Gate\uff0c\u8f93\u51fa PASS / REJECT / HUMAN_REVIEW\uff1b\u5168\u94fe\u8def\u786e\u5b9a\u6027\u53ef\u91cd\u653e\u8bc4\u6d4b",
-    "id": "donglongjun886/product-review-agent",
-    "language": "Python",
-    "name": "donglongjun886/product-review-agent",
-    "stars": 1,
-    "updated_at": "2026-10-18T15:43:24Z",
-    "url": "https://github.com/donglongjun886/product-review-agent"
   }
 ]
