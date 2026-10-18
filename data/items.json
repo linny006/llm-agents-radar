@@ -1,11 +1,29 @@
 [
   {
+    "description": "\u628a\u5927\u6a21\u578b\u5f53\u53f8\u4ee4\u3001\u811a\u672c\u5f53\u624b\u7684 DSH Agent \u9884\u8bbe\uff1a\u5de5\u5177\u91cc\u96f6\u4e1a\u52a1\u5224\u65ad\uff0c\u8ba9\u6a21\u578b\u5728\u8fd0\u884c\u65f6\u81ea\u9002\u5e94\u52a8\u6001\u7ed3\u6784\u7684\u7f51\u7ad9",
+    "id": "LeuJasYoh/dsh-xuexi",
+    "language": "JavaScript",
+    "name": "LeuJasYoh/dsh-xuexi",
+    "stars": 0,
+    "updated_at": "2026-10-18T07:59:35Z",
+    "url": "https://github.com/LeuJasYoh/dsh-xuexi"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 278,
+    "updated_at": "2026-10-18T07:59:00Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
     "description": "The Self-Improving Coding Agent",
     "id": "kanishka-namdeo/Unown",
     "language": "TypeScript",
     "name": "kanishka-namdeo/Unown",
     "stars": 0,
-    "updated_at": "2026-10-18T07:43:46Z",
+    "updated_at": "2026-10-18T07:53:56Z",
     "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
@@ -14,8 +32,26 @@
     "language": "Python",
     "name": "lzmd-arch/BioSNN-Plug",
     "stars": 6,
-    "updated_at": "2026-10-18T07:43:18Z",
+    "updated_at": "2026-10-18T07:53:34Z",
     "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
+    "id": "hsaghir/looplet",
+    "language": "Python",
+    "name": "hsaghir/looplet",
+    "stars": 7,
+    "updated_at": "2026-10-18T07:48:30Z",
+    "url": "https://github.com/hsaghir/looplet"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-18T07:47:00Z",
+    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -45,31 +81,13 @@
     "url": "https://github.com/nurmdrafi/pi-native"
   },
   {
-    "description": "\u628a\u5927\u6a21\u578b\u5f53\u53f8\u4ee4\u3001\u811a\u672c\u5f53\u624b\u7684 DSH Agent \u9884\u8bbe\uff1a\u5de5\u5177\u91cc\u96f6\u4e1a\u52a1\u5224\u65ad\uff0c\u8ba9\u6a21\u578b\u5728\u8fd0\u884c\u65f6\u81ea\u9002\u5e94\u52a8\u6001\u7ed3\u6784\u7684\u7f51\u7ad9",
-    "id": "LeuJasYoh/dsh-xuexi",
-    "language": "JavaScript",
-    "name": "LeuJasYoh/dsh-xuexi",
-    "stars": 0,
-    "updated_at": "2026-10-18T07:38:59Z",
-    "url": "https://github.com/LeuJasYoh/dsh-xuexi"
-  },
-  {
     "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
     "id": "duongnq2798/vestiarion",
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 2,
-    "updated_at": "2026-10-18T07:31:17Z",
+    "updated_at": "2026-10-18T07:46:13Z",
     "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-18T07:31:12Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
@@ -77,7 +95,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-18T07:34:04Z",
+    "updated_at": "2026-10-18T07:59:41Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -189,15 +207,6 @@
     "url": "https://github.com/SugarMGP/MumuBot"
   },
   {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 278,
-    "updated_at": "2026-10-18T07:08:30Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
     "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
     "id": "IAmNo1Special/mvgeos",
     "language": "Python",
@@ -212,7 +221,7 @@
     "language": "Python",
     "name": "Wenyan0315/facta",
     "stars": 1,
-    "updated_at": "2026-10-18T07:07:53Z",
+    "updated_at": "2026-10-18T07:58:29Z",
     "url": "https://github.com/Wenyan0315/facta"
   },
   {
@@ -220,7 +229,7 @@
     "id": "410979729/scope-recall-hermes",
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
-    "stars": 393,
+    "stars": 394,
     "updated_at": "2026-10-18T07:05:55Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
@@ -293,7 +302,7 @@
     "language": "Java",
     "name": "kangwoo/aimon-core",
     "stars": 0,
-    "updated_at": "2026-10-18T07:42:39Z",
+    "updated_at": "2026-10-18T07:57:17Z",
     "url": "https://github.com/kangwoo/aimon-core"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-18T06:27:13Z",
     "url": "https://github.com/OtakuNathan/Pal"
-  },
-  {
-    "description": "Hermes Agent on Termux (Android): one-command install from prebuilt, checksum-verified Python wheels. No compiling on yo",
-    "id": "bd-loser/hermes-bionic",
-    "language": "C++",
-    "name": "bd-loser/hermes-bionic",
-    "stars": 1,
-    "updated_at": "2026-10-18T07:34:51Z",
-    "url": "https://github.com/bd-loser/hermes-bionic"
   }
 ]
