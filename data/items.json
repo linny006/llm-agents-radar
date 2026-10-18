@@ -1,12 +1,48 @@
 [
   {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 363,
+    "updated_at": "2026-10-18T22:14:25Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
+    "description": "Async, event-driven library of production-deployable agent algorithms over arbitrary data, with a pluggable LLM gateway ",
+    "id": "innerkorehq/AutonomousAgentArchitecture",
     "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 14,
-    "updated_at": "2026-10-18T21:59:08Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
+    "name": "innerkorehq/AutonomousAgentArchitecture",
+    "stars": 1,
+    "updated_at": "2026-10-18T22:13:58Z",
+    "url": "https://github.com/innerkorehq/AutonomousAgentArchitecture"
+  },
+  {
+    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 49,
+    "updated_at": "2026-10-18T22:11:08Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-10-18T22:10:06Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-18T22:02:23Z",
+    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "The Self-Improving Coding Agent",
@@ -18,6 +54,15 @@
     "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 14,
+    "updated_at": "2026-10-18T21:59:08Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "A local-first AI companion for Windows: it remembers you, dreams over your day at night, follows up on what matters and ",
     "id": "b7216309-jpg/little-bot",
     "language": "JavaScript",
@@ -25,24 +70,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T21:54:34Z",
     "url": "https://github.com/b7216309-jpg/little-bot"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 363,
-    "updated_at": "2026-10-18T21:50:05Z",
-    "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-18T21:49:15Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
@@ -61,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T21:43:24Z",
     "url": "https://github.com/ugnmura/rcagent"
-  },
-  {
-    "description": "Async, event-driven library of production-deployable agent algorithms over arbitrary data, with a pluggable LLM gateway ",
-    "id": "innerkorehq/AutonomousAgentArchitecture",
-    "language": "Python",
-    "name": "innerkorehq/AutonomousAgentArchitecture",
-    "stars": 1,
-    "updated_at": "2026-10-18T21:38:56Z",
-    "url": "https://github.com/innerkorehq/AutonomousAgentArchitecture"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -133,15 +151,6 @@
     "stars": 4119,
     "updated_at": "2026-10-18T21:04:54Z",
     "url": "https://github.com/langroid/langroid"
-  },
-  {
-    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 49,
-    "updated_at": "2026-10-18T21:09:48Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
     "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
@@ -230,7 +239,7 @@
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 405,
-    "updated_at": "2026-10-18T21:34:10Z",
+    "updated_at": "2026-10-18T22:12:33Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
@@ -383,7 +392,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-18T21:43:10Z",
+    "updated_at": "2026-10-18T22:01:58Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T19:35:59Z",
     "url": "https://github.com/delawer33/pickroll"
-  },
-  {
-    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
-    "id": "kavyakimura116/CodeJury",
-    "language": "Python",
-    "name": "kavyakimura116/CodeJury",
-    "stars": 0,
-    "updated_at": "2026-10-18T19:33:22Z",
-    "url": "https://github.com/kavyakimura116/CodeJury"
   }
 ]
