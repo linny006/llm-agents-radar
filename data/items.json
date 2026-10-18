@@ -1,5 +1,113 @@
 [
   {
+    "description": "Portable pi harness powered by Rust native tools \u2014 lean core, progressive disclosure, zero absolute paths.",
+    "id": "nurmdrafi/pi-native",
+    "language": "JavaScript",
+    "name": "nurmdrafi/pi-native",
+    "stars": 0,
+    "updated_at": "2026-10-18T12:29:01Z",
+    "url": "https://github.com/nurmdrafi/pi-native"
+  },
+  {
+    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
+    "id": "QQSHI13/fox-agent",
+    "language": "TypeScript",
+    "name": "QQSHI13/fox-agent",
+    "stars": 3,
+    "updated_at": "2026-10-18T12:28:32Z",
+    "url": "https://github.com/QQSHI13/fox-agent"
+  },
+  {
+    "description": "Qwen3-8B \u533b\u5b66\u7814\u7a76\u667a\u80fd\u4f53\uff1a\u771f\u5b9e\u5de5\u5177\u68c0\u7d22\u3001QLoRA SFT\u3001\u5206\u9636\u6bb5\u7a20\u5bc6\u5956\u52b1\u4e0e GRPO \u98ce\u683c LoRA \u540e\u8bad\u7ec3\uff0c\u9762\u5411\u672c\u5730\u90e8\u7f72\u3002",
+    "id": "MaSunKing/medical-research-agent-grpo",
+    "language": "Python",
+    "name": "MaSunKing/medical-research-agent-grpo",
+    "stars": 1,
+    "updated_at": "2026-10-18T12:28:27Z",
+    "url": "https://github.com/MaSunKing/medical-research-agent-grpo"
+  },
+  {
+    "description": "PDF invoice in, valid German XRechnung or ZUGFeRD out. NVIDIA Nemotron on Nebius Token Factory proposes every value with",
+    "id": "OnePieceMonkey/Verdict",
+    "language": "TypeScript",
+    "name": "OnePieceMonkey/Verdict",
+    "stars": 0,
+    "updated_at": "2026-10-18T12:27:30Z",
+    "url": "https://github.com/OnePieceMonkey/Verdict"
+  },
+  {
+    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-18T12:26:20Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 638,
+    "updated_at": "2026-10-18T12:25:35Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
+  },
+  {
+    "description": "Async, event-driven library of production-deployable agent algorithms over arbitrary data, with a pluggable LLM gateway ",
+    "id": "innerkorehq/AutonomousAgentArchitecture",
+    "language": "Python",
+    "name": "innerkorehq/AutonomousAgentArchitecture",
+    "stars": 1,
+    "updated_at": "2026-10-18T12:30:12Z",
+    "url": "https://github.com/innerkorehq/AutonomousAgentArchitecture"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-10-18T12:22:58Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "\u628a\u5927\u6a21\u578b\u5f53\u53f8\u4ee4\u3001\u811a\u672c\u5f53\u624b\u7684 DSH Agent \u9884\u8bbe\uff1a\u5de5\u5177\u91cc\u96f6\u4e1a\u52a1\u5224\u65ad\uff0c\u8ba9\u6a21\u578b\u5728\u8fd0\u884c\u65f6\u81ea\u9002\u5e94\u52a8\u6001\u7ed3\u6784\u7684\u7f51\u7ad9",
+    "id": "LeuJasYoh/dsh-xuexi",
+    "language": "JavaScript",
+    "name": "LeuJasYoh/dsh-xuexi",
+    "stars": 0,
+    "updated_at": "2026-10-18T12:22:13Z",
+    "url": "https://github.com/LeuJasYoh/dsh-xuexi"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-18T12:21:42Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-18T12:21:38Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Desktop AI coding agent for Linux/Windows/macOS: an Avalonia .NET app with git-worktree isolation per session, plan revi",
+    "id": "Kvindo/KvindoCode",
+    "language": "C#",
+    "name": "Kvindo/KvindoCode",
+    "stars": 3,
+    "updated_at": "2026-10-18T12:20:41Z",
+    "url": "https://github.com/Kvindo/KvindoCode"
+  },
+  {
     "description": "Open-Source Intelligent Command Layer",
     "id": "AVADSA25/codec",
     "language": "Python",
@@ -16,15 +124,6 @@
     "stars": 53,
     "updated_at": "2026-10-18T12:11:44Z",
     "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
-    "id": "QQSHI13/fox-agent",
-    "language": "TypeScript",
-    "name": "QQSHI13/fox-agent",
-    "stars": 3,
-    "updated_at": "2026-10-18T12:10:22Z",
-    "url": "https://github.com/QQSHI13/fox-agent"
   },
   {
     "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
@@ -104,7 +203,7 @@
     "language": "Python",
     "name": "lzmd-arch/BioSNN-Plug",
     "stars": 6,
-    "updated_at": "2026-10-18T11:50:48Z",
+    "updated_at": "2026-10-18T12:18:57Z",
     "url": "https://github.com/lzmd-arch/BioSNN-Plug"
   },
   {
@@ -113,7 +212,7 @@
     "language": "Python",
     "name": "santoshshinde2012/deck-smith-local",
     "stars": 0,
-    "updated_at": "2026-10-18T11:45:08Z",
+    "updated_at": "2026-10-18T12:27:15Z",
     "url": "https://github.com/santoshshinde2012/deck-smith-local"
   },
   {
@@ -124,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T11:35:12Z",
     "url": "https://github.com/bondwell79/hercules"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-18T11:33:30Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "\u5357\u4eac OSM + PostGIS \u7a7a\u95f4\u95ee\u7b54 Agent\uff1apgRouting \u6b65\u884c\u7b49\u65f6\u5708\u3001pgvector \u89c4\u5212\u6807\u51c6\u68c0\u7d22\u3001\u9884\u6ce8\u518c\u8bc4\u6d4b",
@@ -162,15 +252,6 @@
     "url": "https://github.com/dobrinsm/darwin"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-18T11:20:30Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "\ud83e\udd16 Lightweight, message-first agent runtime",
     "id": "Cognipeer/agent-sdk",
     "language": "TypeScript",
@@ -193,7 +274,7 @@
     "id": "410979729/scope-recall-hermes",
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
-    "stars": 394,
+    "stars": 395,
     "updated_at": "2026-10-18T11:08:45Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
@@ -212,7 +293,7 @@
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 219,
-    "updated_at": "2026-10-18T11:32:46Z",
+    "updated_at": "2026-10-18T12:23:02Z",
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
@@ -223,24 +304,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T11:06:24Z",
     "url": "https://github.com/jiangylin5-hue/meta-ads-agent"
-  },
-  {
-    "description": "Desktop AI coding agent for Linux/Windows/macOS: an Avalonia .NET app with git-worktree isolation per session, plan revi",
-    "id": "Kvindo/KvindoCode",
-    "language": "C#",
-    "name": "Kvindo/KvindoCode",
-    "stars": 3,
-    "updated_at": "2026-10-18T11:03:59Z",
-    "url": "https://github.com/Kvindo/KvindoCode"
-  },
-  {
-    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-18T12:13:28Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -268,15 +331,6 @@
     "stars": 9,
     "updated_at": "2026-10-18T10:43:43Z",
     "url": "https://github.com/honestDS/MonoLight"
-  },
-  {
-    "description": "\u628a\u5927\u6a21\u578b\u5f53\u53f8\u4ee4\u3001\u811a\u672c\u5f53\u624b\u7684 DSH Agent \u9884\u8bbe\uff1a\u5de5\u5177\u91cc\u96f6\u4e1a\u52a1\u5224\u65ad\uff0c\u8ba9\u6a21\u578b\u5728\u8fd0\u884c\u65f6\u81ea\u9002\u5e94\u52a8\u6001\u7ed3\u6784\u7684\u7f51\u7ad9",
-    "id": "LeuJasYoh/dsh-xuexi",
-    "language": "JavaScript",
-    "name": "LeuJasYoh/dsh-xuexi",
-    "stars": 0,
-    "updated_at": "2026-10-18T10:42:05Z",
-    "url": "https://github.com/LeuJasYoh/dsh-xuexi"
   },
   {
     "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
@@ -338,7 +392,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-18T12:14:08Z",
+    "updated_at": "2026-10-18T12:15:26Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T09:48:34Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy.",
-    "id": "ishii82272/taracode",
-    "language": "Go",
-    "name": "ishii82272/taracode",
-    "stars": 0,
-    "updated_at": "2026-10-18T09:45:20Z",
-    "url": "https://github.com/ishii82272/taracode"
-  },
-  {
-    "description": "Per-episode logs of AI Megabase: Claude Opus 5.5 plays Factorio on its own",
-    "id": "aimegabase/ai-megabase-log",
-    "language": "\u2014",
-    "name": "aimegabase/ai-megabase-log",
-    "stars": 0,
-    "updated_at": "2026-10-18T09:44:19Z",
-    "url": "https://github.com/aimegabase/ai-megabase-log"
-  },
-  {
-    "description": "DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy.",
-    "id": "FrankOlsson18/taracode",
-    "language": "Go",
-    "name": "FrankOlsson18/taracode",
-    "stars": 0,
-    "updated_at": "2026-10-18T09:43:32Z",
-    "url": "https://github.com/FrankOlsson18/taracode"
-  },
-  {
-    "description": "AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter",
-    "id": "chiara53777/Upwork-AI-jobs-applier",
-    "language": "Python",
-    "name": "chiara53777/Upwork-AI-jobs-applier",
-    "stars": 0,
-    "updated_at": "2026-10-18T09:40:36Z",
-    "url": "https://github.com/chiara53777/Upwork-AI-jobs-applier"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 25,
-    "updated_at": "2026-10-18T09:38:38Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "Keeps the rules and skills in a Claude Code setup from piling up and going stale: a Claude Code plugin of audit and upke",
-    "id": "shimo4228/akc-cycle",
-    "language": "Python",
-    "name": "shimo4228/akc-cycle",
-    "stars": 2,
-    "updated_at": "2026-10-18T09:38:35Z",
-    "url": "https://github.com/shimo4228/akc-cycle"
   }
 ]
