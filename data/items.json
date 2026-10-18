@@ -1,5 +1,14 @@
 [
   {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4456,
+    "updated_at": "2026-10-18T16:59:52Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
     "description": "AI-orchestrated job search pipeline: scrapes 5 UA job boards, uses Claude API to score matches & classify emails, writes",
     "id": "VoroshylovV/job-search-automation-pipeline",
     "language": "Python",
@@ -142,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T16:25:49Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4456,
-    "updated_at": "2026-10-18T16:41:43Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -437,7 +437,7 @@
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 49,
-    "updated_at": "2026-10-18T16:34:01Z",
+    "updated_at": "2026-10-18T16:58:54Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {

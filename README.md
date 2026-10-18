@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-18 16:53 UTC
+> ⏰ Last updated: 2026-10-18 17:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,23 +42,23 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [VoroshylovV/job-search-automation-pipeline](https://github.com/VoroshylovV/job-search-automation-pipeline) | 2 | Python | 2026-10-18 | AI-orchestrated job search pipeline: scrapes 5 UA job boards, uses Claude API to score matches & classify emails, writes |
-| 2 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-10-18 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 3 | [jphall663/GWU_LLM](https://github.com/jphall663/GWU_LLM) | 0 | Jupyter Notebook | 2026-10-18 | A 1.5 credit graduate class about the nuts and bolts of LLMs. |
-| 4 | [Kvindo/KvindoCode](https://github.com/Kvindo/KvindoCode) | 3 | C# | 2026-10-18 | Desktop AI coding agent for Linux/Windows/macOS: an Avalonia .NET app with git-worktree isolation per session, plan revi |
-| 5 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-10-18 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 6 | [codex-mohan/spectra](https://github.com/codex-mohan/spectra) | 1 | TypeScript | 2026-10-18 | Terminal-native AI coding agent with extensible TypeScript and Rust SDKs for building and orchestrating coding workflows |
-| 7 | [plurnk/plurnk](https://github.com/plurnk/plurnk) | 5 | TypeScript | 2026-10-18 | Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models. |
-| 8 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 6 | Shell | 2026-10-18 | Bodhi — a local-first AI agent workbench in Rust: desktop app, Bamboo runtime, Jiandu shared memory, Nova computer use a |
-| 9 | [410979729/scope-recall-hermes](https://github.com/410979729/scope-recall-hermes) | 403 | Python | 2026-10-18 | Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall, |
-| 10 | [AskTheWay/dsh-auto-memory](https://github.com/AskTheWay/dsh-auto-memory) | 108 | TypeScript | 2026-10-18 | Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into |
-| 11 | [bigduu/Bodhi-AI](https://github.com/bigduu/Bodhi-AI) | 17 | JavaScript | 2026-10-18 | Tauri desktop shell for the local-first Bodhi agent: manages Bamboo startup/reuse and health; packaged builds open the B |
-| 12 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 1 | TypeScript | 2026-10-18 | Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers. |
-| 13 | [younghwan91/macro-sector-agent](https://github.com/younghwan91/macro-sector-agent) | 0 | Python | 2026-10-18 | 거시 → 산업 사이클 → 테마 → 종목 → 포트폴리오 하향식 리서치 파이프라인. 잊혀진 섹터의 사이클 저점을 찾고, 가치함정과 가르고, 비중·물타기 사다리·2단 스탑·TP 까지 계획한다 · US top-down se |
-| 14 | [kanishka-namdeo/Unown](https://github.com/kanishka-namdeo/Unown) | 0 | TypeScript | 2026-10-18 | The Self-Improving Coding Agent |
-| 15 | [sydches/yuj](https://github.com/sydches/yuj) | 4 | Python | 2026-10-18 | Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L |
-| 16 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-18 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
-| 17 | [gptme/gptme](https://github.com/gptme/gptme) | 4456 | Python | 2026-10-18 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
+| 1 | [gptme/gptme](https://github.com/gptme/gptme) | 4456 | Python | 2026-10-18 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
+| 2 | [VoroshylovV/job-search-automation-pipeline](https://github.com/VoroshylovV/job-search-automation-pipeline) | 2 | Python | 2026-10-18 | AI-orchestrated job search pipeline: scrapes 5 UA job boards, uses Claude API to score matches & classify emails, writes |
+| 3 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-10-18 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 4 | [jphall663/GWU_LLM](https://github.com/jphall663/GWU_LLM) | 0 | Jupyter Notebook | 2026-10-18 | A 1.5 credit graduate class about the nuts and bolts of LLMs. |
+| 5 | [Kvindo/KvindoCode](https://github.com/Kvindo/KvindoCode) | 3 | C# | 2026-10-18 | Desktop AI coding agent for Linux/Windows/macOS: an Avalonia .NET app with git-worktree isolation per session, plan revi |
+| 6 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-10-18 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 7 | [codex-mohan/spectra](https://github.com/codex-mohan/spectra) | 1 | TypeScript | 2026-10-18 | Terminal-native AI coding agent with extensible TypeScript and Rust SDKs for building and orchestrating coding workflows |
+| 8 | [plurnk/plurnk](https://github.com/plurnk/plurnk) | 5 | TypeScript | 2026-10-18 | Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models. |
+| 9 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 6 | Shell | 2026-10-18 | Bodhi — a local-first AI agent workbench in Rust: desktop app, Bamboo runtime, Jiandu shared memory, Nova computer use a |
+| 10 | [410979729/scope-recall-hermes](https://github.com/410979729/scope-recall-hermes) | 403 | Python | 2026-10-18 | Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall, |
+| 11 | [AskTheWay/dsh-auto-memory](https://github.com/AskTheWay/dsh-auto-memory) | 108 | TypeScript | 2026-10-18 | Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into |
+| 12 | [bigduu/Bodhi-AI](https://github.com/bigduu/Bodhi-AI) | 17 | JavaScript | 2026-10-18 | Tauri desktop shell for the local-first Bodhi agent: manages Bamboo startup/reuse and health; packaged builds open the B |
+| 13 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 1 | TypeScript | 2026-10-18 | Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers. |
+| 14 | [younghwan91/macro-sector-agent](https://github.com/younghwan91/macro-sector-agent) | 0 | Python | 2026-10-18 | 거시 → 산업 사이클 → 테마 → 종목 → 포트폴리오 하향식 리서치 파이프라인. 잊혀진 섹터의 사이클 저점을 찾고, 가치함정과 가르고, 비중·물타기 사다리·2단 스탑·TP 까지 계획한다 · US top-down se |
+| 15 | [kanishka-namdeo/Unown](https://github.com/kanishka-namdeo/Unown) | 0 | TypeScript | 2026-10-18 | The Self-Improving Coding Agent |
+| 16 | [sydches/yuj](https://github.com/sydches/yuj) | 4 | Python | 2026-10-18 | Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L |
+| 17 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-18 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
 | 18 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-10-18 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
 | 19 | [duongnq2798/vestiarion](https://github.com/duongnq2798/vestiarion) | 2 | TypeScript | 2026-10-18 | Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc  |
 | 20 | [shakhruz/mila-companion](https://github.com/shakhruz/mila-companion) | 1 | Python | 2026-10-18 | Turn your Claude subscription into an AI employee in Telegram. Open-source kit behind 18 working assistants. |
