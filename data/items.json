@@ -1,5 +1,32 @@
 [
   {
+    "description": "Change Control Beta \u2014 closed-loop change intelligence demo: simulated smart-home changes \u2192 labeled stories (precision-fi",
+    "id": "thereven3947/data-to-decision-ai",
+    "language": "Python",
+    "name": "thereven3947/data-to-decision-ai",
+    "stars": 0,
+    "updated_at": "2026-10-18T00:13:16Z",
+    "url": "https://github.com/thereven3947/data-to-decision-ai"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-18T00:09:10Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 4,
+    "updated_at": "2026-10-18T00:02:00Z",
+    "url": "https://github.com/sydches/yuj"
+  },
+  {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
     "id": "ongridio/ongrid",
     "language": "Go",
@@ -18,15 +45,6 @@
     "url": "https://github.com/bd-loser/hermes-bionic"
   },
   {
-    "description": "Change Control Beta \u2014 closed-loop change intelligence demo: simulated smart-home changes \u2192 labeled stories (precision-fi",
-    "id": "thereven3947/data-to-decision-ai",
-    "language": "Python",
-    "name": "thereven3947/data-to-decision-ai",
-    "stars": 0,
-    "updated_at": "2026-10-17T23:42:20Z",
-    "url": "https://github.com/thereven3947/data-to-decision-ai"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -41,7 +59,7 @@
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 390,
-    "updated_at": "2026-10-17T23:41:39Z",
+    "updated_at": "2026-10-18T00:06:09Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
@@ -124,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T23:09:44Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-17T23:08:19Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -250,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T22:10:25Z",
     "url": "https://github.com/thwang92/DM-Code-Agent"
-  },
-  {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 4,
-    "updated_at": "2026-10-17T22:09:23Z",
-    "url": "https://github.com/sydches/yuj"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
