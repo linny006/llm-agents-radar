@@ -1,11 +1,56 @@
 [
   {
+    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
+    "id": "Rekin226/Agronaut",
+    "language": "Python",
+    "name": "Rekin226/Agronaut",
+    "stars": 5,
+    "updated_at": "2026-10-18T03:30:08Z",
+    "url": "https://github.com/Rekin226/Agronaut"
+  },
+  {
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
+    "id": "bigfish1913/pi-rust",
+    "language": "Rust",
+    "name": "bigfish1913/pi-rust",
+    "stars": 112,
+    "updated_at": "2026-10-18T03:28:12Z",
+    "url": "https://github.com/bigfish1913/pi-rust"
+  },
+  {
+    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 53,
+    "updated_at": "2026-10-18T03:26:38Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
+    "id": "kyleslight/shun",
+    "language": "TypeScript",
+    "name": "kyleslight/shun",
+    "stars": 7,
+    "updated_at": "2026-10-18T03:25:50Z",
+    "url": "https://github.com/kyleslight/shun"
+  },
+  {
+    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-18T03:19:10Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
     "description": "Music Agent VST3 for REAPER: editable MIDI generation, continuation, audio-to-MIDI and stem separation. Native Windows. ",
     "id": "Aolin-MIR/triceratops-music-agent",
     "language": "Python",
     "name": "Aolin-MIR/triceratops-music-agent",
     "stars": 1,
-    "updated_at": "2026-10-18T03:13:12Z",
+    "updated_at": "2026-10-18T03:18:42Z",
     "url": "https://github.com/Aolin-MIR/triceratops-music-agent"
   },
   {
@@ -16,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T03:12:26Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
-    "id": "kyleslight/shun",
-    "language": "TypeScript",
-    "name": "kyleslight/shun",
-    "stars": 7,
-    "updated_at": "2026-10-18T03:11:43Z",
-    "url": "https://github.com/kyleslight/shun"
   },
   {
     "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
@@ -50,7 +86,7 @@
     "language": "Kotlin",
     "name": "Ultra-Guru/Android-Guru-Agent",
     "stars": 11,
-    "updated_at": "2026-10-18T03:07:22Z",
+    "updated_at": "2026-10-18T03:30:10Z",
     "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
   },
   {
@@ -79,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-10-18T02:40:56Z",
     "url": "https://github.com/hl7321/aiops-agent-reproduction"
-  },
-  {
-    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 53,
-    "updated_at": "2026-10-18T02:37:18Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -140,7 +167,7 @@
     "language": "Python",
     "name": "hsaghir/looplet",
     "stars": 7,
-    "updated_at": "2026-10-18T03:06:12Z",
+    "updated_at": "2026-10-18T03:25:50Z",
     "url": "https://github.com/hsaghir/looplet"
   },
   {
@@ -203,7 +230,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-18T02:27:43Z",
+    "updated_at": "2026-10-18T03:22:29Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -239,17 +266,8 @@
     "language": "JavaScript",
     "name": "wufufu770/d2d",
     "stars": 5,
-    "updated_at": "2026-10-18T01:01:22Z",
+    "updated_at": "2026-10-18T03:30:14Z",
     "url": "https://github.com/wufufu770/d2d"
-  },
-  {
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
-    "id": "bigfish1913/pi-rust",
-    "language": "Rust",
-    "name": "bigfish1913/pi-rust",
-    "stars": 112,
-    "updated_at": "2026-10-18T03:03:18Z",
-    "url": "https://github.com/bigfish1913/pi-rust"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -430,23 +448,5 @@
     "stars": 56,
     "updated_at": "2026-10-17T22:27:00Z",
     "url": "https://github.com/kriss-b/llm-iso27001"
-  },
-  {
-    "description": "An AI red-team agent for authorized labs and web app pentesting workflows. Turns Claude Code / OpenCode / Codex into a s",
-    "id": "KonstantinBell/RedteamAgent",
-    "language": "Python",
-    "name": "KonstantinBell/RedteamAgent",
-    "stars": 0,
-    "updated_at": "2026-10-17T22:25:59Z",
-    "url": "https://github.com/KonstantinBell/RedteamAgent"
-  },
-  {
-    "description": "\ud83e\udd16 FindII \u2014 autonomous AI lead-gen agent for real estate: Scrapling-powered Avito scraping + Telegram monitoring, LLM lea",
-    "id": "alihosseinabadi/findii",
-    "language": "Python",
-    "name": "alihosseinabadi/findii",
-    "stars": 0,
-    "updated_at": "2026-10-17T22:18:45Z",
-    "url": "https://github.com/alihosseinabadi/findii"
   }
 ]
