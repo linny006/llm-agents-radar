@@ -1,11 +1,65 @@
 [
   {
+    "description": "Educational proof of concept, not investment advice: Python and LangGraph agent analysing a fixed watchlist of US stocks",
+    "id": "DominikSienkiewicz/StockAgent",
+    "language": "Python",
+    "name": "DominikSienkiewicz/StockAgent",
+    "stars": 1,
+    "updated_at": "2026-10-18T18:11:43Z",
+    "url": "https://github.com/DominikSienkiewicz/StockAgent"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-18T18:11:40Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Harness LLMs with Multi-Agent Programming",
+    "id": "langroid/langroid",
+    "language": "Python",
+    "name": "langroid/langroid",
+    "stars": 4119,
+    "updated_at": "2026-10-18T18:07:49Z",
+    "url": "https://github.com/langroid/langroid"
+  },
+  {
+    "description": "Async, event-driven library of production-deployable agent algorithms over arbitrary data, with a pluggable LLM gateway ",
+    "id": "innerkorehq/AutonomousAgentArchitecture",
+    "language": "Python",
+    "name": "innerkorehq/AutonomousAgentArchitecture",
+    "stars": 1,
+    "updated_at": "2026-10-18T18:12:42Z",
+    "url": "https://github.com/innerkorehq/AutonomousAgentArchitecture"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 14,
+    "updated_at": "2026-10-18T18:04:34Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 4,
+    "updated_at": "2026-10-18T18:02:58Z",
+    "url": "https://github.com/sydches/yuj"
+  },
+  {
     "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
     "id": "410979729/scope-recall-hermes",
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 404,
-    "updated_at": "2026-10-18T18:00:08Z",
+    "updated_at": "2026-10-18T18:04:41Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
@@ -34,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-10-18T17:56:31Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-18T17:54:51Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "The Self-Improving Coding Agent",
@@ -99,15 +144,6 @@
     "url": "https://github.com/trhhubsd/ARTEX"
   },
   {
-    "description": "Async, event-driven library of production-deployable agent algorithms over arbitrary data, with a pluggable LLM gateway ",
-    "id": "innerkorehq/AutonomousAgentArchitecture",
-    "language": "Python",
-    "name": "innerkorehq/AutonomousAgentArchitecture",
-    "stars": 1,
-    "updated_at": "2026-10-18T17:43:55Z",
-    "url": "https://github.com/innerkorehq/AutonomousAgentArchitecture"
-  },
-  {
     "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
     "id": "honestDS/MonoLight",
     "language": "Python",
@@ -133,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T17:33:09Z",
     "url": "https://github.com/imehranasgari/FlightAI_Multimodal_Agent"
-  },
-  {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 4,
-    "updated_at": "2026-10-18T17:30:06Z",
-    "url": "https://github.com/sydches/yuj"
   },
   {
     "description": "Cuse \u2014 open-source AI cursor agent for macOS. Type or speak a task and an AI cursor clicks, types and navigates any Mac ",
@@ -185,7 +212,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-18T17:57:01Z",
+    "updated_at": "2026-10-18T18:12:53Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -212,7 +239,7 @@
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 49,
-    "updated_at": "2026-10-18T17:48:56Z",
+    "updated_at": "2026-10-18T18:01:48Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-18T15:53:19Z",
     "url": "https://github.com/franckolv-dev/ELY2"
-  },
-  {
-    "description": "\u975e\u5e38\u8be6\u7ec6\u7684\u5927\u6a21\u578bLLM\u7684\u5b66\u4e60\u6559\u7a0b\u4e0e\u7b14\u8bb0",
-    "id": "OlivierRiccardi18/LLM_book",
-    "language": "Python",
-    "name": "OlivierRiccardi18/LLM_book",
-    "stars": 0,
-    "updated_at": "2026-10-18T15:51:36Z",
-    "url": "https://github.com/OlivierRiccardi18/LLM_book"
-  },
-  {
-    "description": "\u628a\u4efb\u52a1\u6d3e\u53d1\u7ed9\u672c\u673a ZCode CLI \u65e0\u5934\u8fdb\u7a0b\u7684 DeepSeek Harness \u63d2\u4ef6\uff1a\u9762\u677f\u53ef\u76d1\u89c6/\u7ec8\u6b62/\u7eed\u8dd1/\u6362\u901a\u9053\uff1b\u5355\u5199\u8005\u6587\u4ef6\u9501 + \u7528\u91cf\u53f0\u8d26 + \u964d\u7ea7\u94fe\u3002\u652f\u6301\u4ed8\u8d39\u5957\u9910\u4e0e\u514d\u8d39\u989d\u5ea6\uff08Start Plan \u6d3b\u52a8\u8d60\u9001\uff09\u4e24\u79cd\u989d\u5ea6\uff0c\u540e\u8005\u6258\u7ba1\u5b98\u65b9",
-    "id": "Shuffle-1992/dsh-dispatch",
-    "language": "JavaScript",
-    "name": "Shuffle-1992/dsh-dispatch",
-    "stars": 2,
-    "updated_at": "2026-10-18T15:50:51Z",
-    "url": "https://github.com/Shuffle-1992/dsh-dispatch"
-  },
-  {
-    "description": "Change Control Beta \u2014 closed-loop change intelligence demo: simulated smart-home changes \u2192 labeled stories (precision-fi",
-    "id": "thereven3947/data-to-decision-ai",
-    "language": "Python",
-    "name": "thereven3947/data-to-decision-ai",
-    "stars": 0,
-    "updated_at": "2026-10-18T15:49:46Z",
-    "url": "https://github.com/thereven3947/data-to-decision-ai"
   }
 ]
