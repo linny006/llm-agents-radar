@@ -1,5 +1,59 @@
 [
   {
+    "description": "DeckSmith: an AI agent that builds PowerPoint decks from governed data, runnable end to end on a laptop with a Databrick",
+    "id": "santoshshinde2012/deck-smith-local",
+    "language": "Python",
+    "name": "santoshshinde2012/deck-smith-local",
+    "stars": 0,
+    "updated_at": "2026-10-18T05:00:02Z",
+    "url": "https://github.com/santoshshinde2012/deck-smith-local"
+  },
+  {
+    "description": "Python LLM-RAG deep agent using LangChain, LangGraph and LangSmith built on Quart web microframework and served using Hy",
+    "id": "khteh/rag-agent",
+    "language": "Python",
+    "name": "khteh/rag-agent",
+    "stars": 8,
+    "updated_at": "2026-10-18T04:59:24Z",
+    "url": "https://github.com/khteh/rag-agent"
+  },
+  {
+    "description": "Lean, extended fork of Nous Research's Hermes Agent \u2014 free model suite, connectors, and ~20 perf fixes. Upstream credite",
+    "id": "Chensihakniroth/anakot-agent-v1",
+    "language": "Python",
+    "name": "Chensihakniroth/anakot-agent-v1",
+    "stars": 0,
+    "updated_at": "2026-10-18T04:58:22Z",
+    "url": "https://github.com/Chensihakniroth/anakot-agent-v1"
+  },
+  {
+    "description": "DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy.",
+    "id": "GiuliaFedorov/taracode",
+    "language": "Go",
+    "name": "GiuliaFedorov/taracode",
+    "stars": 0,
+    "updated_at": "2026-10-18T04:55:47Z",
+    "url": "https://github.com/GiuliaFedorov/taracode"
+  },
+  {
+    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
+    "id": "IAmNo1Special/mvgeos",
+    "language": "Python",
+    "name": "IAmNo1Special/mvgeos",
+    "stars": 1,
+    "updated_at": "2026-10-18T04:52:56Z",
+    "url": "https://github.com/IAmNo1Special/mvgeos"
+  },
+  {
+    "description": "Music Agent VST3 for REAPER: editable MIDI generation, continuation, audio-to-MIDI and stem separation. Native Windows. ",
+    "id": "Aolin-MIR/triceratops-music-agent",
+    "language": "Python",
+    "name": "Aolin-MIR/triceratops-music-agent",
+    "stars": 1,
+    "updated_at": "2026-10-18T04:46:23Z",
+    "url": "https://github.com/Aolin-MIR/triceratops-music-agent"
+  },
+  {
     "description": "Hermes Agent on Termux (Android): one-command install from prebuilt, checksum-verified Python wheels. No compiling on yo",
     "id": "bd-loser/hermes-bionic",
     "language": "C++",
@@ -27,15 +81,6 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "Python LLM-RAG deep agent using LangChain, LangGraph and LangSmith built on Quart web microframework and served using Hy",
-    "id": "khteh/rag-agent",
-    "language": "Python",
-    "name": "khteh/rag-agent",
-    "stars": 8,
-    "updated_at": "2026-10-18T04:40:20Z",
-    "url": "https://github.com/khteh/rag-agent"
-  },
-  {
     "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
     "id": "sydches/yuj",
     "language": "Python",
@@ -54,21 +99,12 @@
     "url": "https://github.com/yurika0211/lucky-agent"
   },
   {
-    "description": "Music Agent VST3 for REAPER: editable MIDI generation, continuation, audio-to-MIDI and stem separation. Native Windows. ",
-    "id": "Aolin-MIR/triceratops-music-agent",
-    "language": "Python",
-    "name": "Aolin-MIR/triceratops-music-agent",
-    "stars": 1,
-    "updated_at": "2026-10-18T04:28:06Z",
-    "url": "https://github.com/Aolin-MIR/triceratops-music-agent"
-  },
-  {
     "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
     "id": "Ultra-Guru/Android-Guru-Agent",
     "language": "Kotlin",
     "name": "Ultra-Guru/Android-Guru-Agent",
     "stars": 11,
-    "updated_at": "2026-10-18T04:27:37Z",
+    "updated_at": "2026-10-18T04:58:35Z",
     "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
   },
   {
@@ -203,17 +239,8 @@
     "language": "Python",
     "name": "hsaghir/looplet",
     "stars": 7,
-    "updated_at": "2026-10-18T03:48:27Z",
+    "updated_at": "2026-10-18T04:53:02Z",
     "url": "https://github.com/hsaghir/looplet"
-  },
-  {
-    "description": "Lean, extended fork of Nous Research's Hermes Agent \u2014 free model suite, connectors, and ~20 perf fixes. Upstream credite",
-    "id": "Chensihakniroth/anakot-agent-v1",
-    "language": "Python",
-    "name": "Chensihakniroth/anakot-agent-v1",
-    "stars": 0,
-    "updated_at": "2026-10-18T03:30:41Z",
-    "url": "https://github.com/Chensihakniroth/anakot-agent-v1"
   },
   {
     "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
@@ -421,32 +448,5 @@
     "stars": 1189,
     "updated_at": "2026-10-17T23:58:42Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "Keeps the rules and skills in a Claude Code setup from piling up and going stale: a Claude Code plugin of audit and upke",
-    "id": "shimo4228/akc-cycle",
-    "language": "Python",
-    "name": "shimo4228/akc-cycle",
-    "stars": 2,
-    "updated_at": "2026-10-17T23:35:33Z",
-    "url": "https://github.com/shimo4228/akc-cycle"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 14,
-    "updated_at": "2026-10-17T23:14:27Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Free MIT AI coding agent \u2014 no API key needed. Built-in free model, or bring Claude, GPT, Gemini, DeepSeek, Ollama +50 mo",
-    "id": "dragonked2/alphacode",
-    "language": "Rust",
-    "name": "dragonked2/alphacode",
-    "stars": 333,
-    "updated_at": "2026-10-17T23:13:43Z",
-    "url": "https://github.com/dragonked2/alphacode"
   }
 ]
