@@ -1,11 +1,38 @@
 [
   {
+    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 405,
+    "updated_at": "2026-10-18T23:28:54Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-10-18T23:26:54Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-18T23:17:13Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
     "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
     "id": "bigfish1913/pi-rust",
     "language": "Rust",
     "name": "bigfish1913/pi-rust",
     "stars": 116,
-    "updated_at": "2026-10-18T23:12:20Z",
+    "updated_at": "2026-10-18T23:20:25Z",
     "url": "https://github.com/bigfish1913/pi-rust"
   },
   {
@@ -32,7 +59,7 @@
     "language": "TypeScript",
     "name": "BlockRunAI/Franklin",
     "stars": 561,
-    "updated_at": "2026-10-18T23:06:15Z",
+    "updated_at": "2026-10-18T23:22:42Z",
     "url": "https://github.com/BlockRunAI/Franklin"
   },
   {
@@ -70,15 +97,6 @@
     "stars": 139,
     "updated_at": "2026-10-18T22:51:45Z",
     "url": "https://github.com/NygenAnalytics/CyteType"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-18T22:48:08Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -124,15 +142,6 @@
     "stars": 25185,
     "updated_at": "2026-10-18T22:28:04Z",
     "url": "https://github.com/letta-ai/letta"
-  },
-  {
-    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 405,
-    "updated_at": "2026-10-18T22:31:31Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
     "description": "Harness LLMs with Multi-Agent Programming",
@@ -220,7 +229,7 @@
     "id": "ugnmura/rcagent",
     "language": "Python",
     "name": "ugnmura/rcagent",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-10-18T21:43:24Z",
     "url": "https://github.com/ugnmura/rcagent"
   },
@@ -232,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T21:25:32Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-10-18T21:25:15Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "An open-source research agent system for your Zotero library.",
@@ -266,7 +266,7 @@
     "language": "Python",
     "name": "cohexa-ai/agent-coherence",
     "stars": 11,
-    "updated_at": "2026-10-18T22:45:11Z",
+    "updated_at": "2026-10-18T23:26:18Z",
     "url": "https://github.com/cohexa-ai/agent-coherence"
   },
   {
