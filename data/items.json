@@ -1,5 +1,86 @@
 [
   {
+    "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 219,
+    "updated_at": "2026-10-18T10:58:57Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "DARWIN \u2014 evolutionary strategy foundry: an LLM proposes crypto trading strategies, a leakage-proof gauntlet kills 90% of",
+    "id": "dobrinsm/darwin",
+    "language": "HTML",
+    "name": "dobrinsm/darwin",
+    "stars": 0,
+    "updated_at": "2026-10-18T10:56:18Z",
+    "url": "https://github.com/dobrinsm/darwin"
+  },
+  {
+    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-18T10:55:53Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "\ud83e\udd16 Lightweight, message-first agent runtime",
+    "id": "Cognipeer/agent-sdk",
+    "language": "TypeScript",
+    "name": "Cognipeer/agent-sdk",
+    "stars": 7,
+    "updated_at": "2026-10-18T10:52:39Z",
+    "url": "https://github.com/Cognipeer/agent-sdk"
+  },
+  {
+    "description": "\u5357\u4eac OSM + PostGIS \u7a7a\u95f4\u95ee\u7b54 Agent\uff1apgRouting \u6b65\u884c\u7b49\u65f6\u5708\u3001pgvector \u89c4\u5212\u6807\u51c6\u68c0\u7d22\u3001\u9884\u6ce8\u518c\u8bc4\u6d4b",
+    "id": "PlainSightX/geo-agent",
+    "language": "Python",
+    "name": "PlainSightX/geo-agent",
+    "stars": 0,
+    "updated_at": "2026-10-18T10:50:30Z",
+    "url": "https://github.com/PlainSightX/geo-agent"
+  },
+  {
+    "description": "Hermes Agent on Termux (Android): one-command install from prebuilt, checksum-verified Python wheels. No compiling on yo",
+    "id": "bd-loser/hermes-bionic",
+    "language": "C++",
+    "name": "bd-loser/hermes-bionic",
+    "stars": 1,
+    "updated_at": "2026-10-18T10:48:10Z",
+    "url": "https://github.com/bd-loser/hermes-bionic"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 131,
+    "updated_at": "2026-10-18T10:47:10Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
+    "id": "hsaghir/looplet",
+    "language": "Python",
+    "name": "hsaghir/looplet",
+    "stars": 7,
+    "updated_at": "2026-10-18T10:46:19Z",
+    "url": "https://github.com/hsaghir/looplet"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-10-18T10:46:05Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "The Self-Improving Coding Agent",
     "id": "kanishka-namdeo/Unown",
     "language": "TypeScript",
@@ -25,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T10:42:05Z",
     "url": "https://github.com/LeuJasYoh/dsh-xuexi"
-  },
-  {
-    "description": "DARWIN \u2014 evolutionary strategy foundry: an LLM proposes crypto trading strategies, a leakage-proof gauntlet kills 90% of",
-    "id": "dobrinsm/darwin",
-    "language": "HTML",
-    "name": "dobrinsm/darwin",
-    "stars": 0,
-    "updated_at": "2026-10-18T10:37:32Z",
-    "url": "https://github.com/dobrinsm/darwin"
   },
   {
     "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
@@ -113,7 +185,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-18T10:23:08Z",
+    "updated_at": "2026-10-18T10:55:02Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -149,7 +221,7 @@
     "language": "Python",
     "name": "cohexa-ai/agent-coherence",
     "stars": 11,
-    "updated_at": "2026-10-18T10:00:38Z",
+    "updated_at": "2026-10-18T10:59:05Z",
     "url": "https://github.com/cohexa-ai/agent-coherence"
   },
   {
@@ -284,7 +356,7 @@
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 394,
-    "updated_at": "2026-10-18T10:42:55Z",
+    "updated_at": "2026-10-18T10:54:29Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
@@ -311,7 +383,7 @@
     "language": "Rust",
     "name": "yologdev/yoagent",
     "stars": 363,
-    "updated_at": "2026-10-18T10:17:26Z",
+    "updated_at": "2026-10-18T10:53:27Z",
     "url": "https://github.com/yologdev/yoagent"
   },
   {
@@ -322,15 +394,6 @@
     "stars": 203,
     "updated_at": "2026-10-18T09:19:25Z",
     "url": "https://github.com/zqc3117/Spotter"
-  },
-  {
-    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-18T10:39:13Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "DevOps & Cloud SI Assistant that runs locally on taraengine for complete privacy.",
@@ -383,70 +446,7 @@
     "language": "Java",
     "name": "kangwoo/aimon-core",
     "stars": 0,
-    "updated_at": "2026-10-18T08:56:31Z",
+    "updated_at": "2026-10-18T10:56:56Z",
     "url": "https://github.com/kangwoo/aimon-core"
-  },
-  {
-    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
-    "id": "ljedrz/nachalnik",
-    "language": "Rust",
-    "name": "ljedrz/nachalnik",
-    "stars": 5,
-    "updated_at": "2026-10-18T08:53:08Z",
-    "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
-    "description": "The bioinformatics agent desktop for clinicians and wet-lab scientists \u2014 built on DeepSeek Harness. One-click installers",
-    "id": "sagirimo/BioDSH",
-    "language": "Python",
-    "name": "sagirimo/BioDSH",
-    "stars": 60,
-    "updated_at": "2026-10-18T08:42:14Z",
-    "url": "https://github.com/sagirimo/BioDSH"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-18T08:39:26Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "Lean, extended fork of Nous Research's Hermes Agent \u2014 free model suite, connectors, and ~20 perf fixes. Upstream credite",
-    "id": "Chensihakniroth/anakot-agent-v1",
-    "language": "Python",
-    "name": "Chensihakniroth/anakot-agent-v1",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:32:56Z",
-    "url": "https://github.com/Chensihakniroth/anakot-agent-v1"
-  },
-  {
-    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
-    "id": "hsaghir/looplet",
-    "language": "Python",
-    "name": "hsaghir/looplet",
-    "stars": 7,
-    "updated_at": "2026-10-18T10:31:48Z",
-    "url": "https://github.com/hsaghir/looplet"
-  },
-  {
-    "description": "FastAPI backend for chat-driven accounting: companies, categories, payees and transactions, with an OpenAI assistant cal",
-    "id": "newmachinesph/accounting-fastapi",
-    "language": "Python",
-    "name": "newmachinesph/accounting-fastapi",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:31:45Z",
-    "url": "https://github.com/newmachinesph/accounting-fastapi"
-  },
-  {
-    "description": "\u72ec\u7acb\u81ea\u6301\u7684 A \u80a1\u8d22\u62a5\u5206\u6790\u667a\u80fd\u4f53\uff1a\u4e09\u8868\u52a0\u5de5\u3001\u52fe\u7a3d\u6821\u9a8c\u3001\u4f1a\u8ba1\u53e3\u5f84\u4e0e\u5229\u6da6-\u73b0\u91d1\u6d41\u80cc\u79bb\u8bc6\u522b\u3001\u675c\u90a6\u6df1\u6790\u3001DCF \u4f30\u503c\u3001\u7814\u62a5\u7ea0\u9519\u3001\u591a\u56e0\u5b50\u9009\u80a1\u3001\u65e0\u672a\u6765\u51fd\u6570\u56de\u6d4b\u3002 | A self-contained A-share financial-report a",
-    "id": "William-Trader/ashare-financial-report-agent",
-    "language": "Python",
-    "name": "William-Trader/ashare-financial-report-agent",
-    "stars": 1,
-    "updated_at": "2026-10-18T08:27:27Z",
-    "url": "https://github.com/William-Trader/ashare-financial-report-agent"
   }
 ]
