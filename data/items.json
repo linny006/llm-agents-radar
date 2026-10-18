@@ -1,12 +1,93 @@
 [
   {
+    "description": "A 1.5 credit graduate class about the nuts and bolts of LLMs.",
+    "id": "jphall663/GWU_LLM",
+    "language": "Jupyter Notebook",
+    "name": "jphall663/GWU_LLM",
+    "stars": 0,
+    "updated_at": "2026-10-18T16:26:44Z",
+    "url": "https://github.com/jphall663/GWU_LLM"
+  },
+  {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 5,
+    "updated_at": "2026-10-18T16:26:30Z",
+    "url": "https://github.com/plurnk/plurnk"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-18T16:25:49Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-18T16:23:37Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4456,
+    "updated_at": "2026-10-18T16:26:19Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
     "id": "plurnk/plurnk-service",
     "language": "TypeScript",
     "name": "plurnk/plurnk-service",
     "stars": 1,
-    "updated_at": "2026-10-18T16:14:59Z",
+    "updated_at": "2026-10-18T16:21:02Z",
     "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-10-18T16:18:41Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "\uac70\uc2dc \u2192 \uc0b0\uc5c5 \uc0ac\uc774\ud074 \u2192 \ud14c\ub9c8 \u2192 \uc885\ubaa9 \u2192 \ud3ec\ud2b8\ud3f4\ub9ac\uc624 \ud558\ud5a5\uc2dd \ub9ac\uc11c\uce58 \ud30c\uc774\ud504\ub77c\uc778. \uc78a\ud600\uc9c4 \uc139\ud130\uc758 \uc0ac\uc774\ud074 \uc800\uc810\uc744 \ucc3e\uace0, \uac00\uce58\ud568\uc815\uacfc \uac00\ub974\uace0, \ube44\uc911\u00b7\ubb3c\ud0c0\uae30 \uc0ac\ub2e4\ub9ac\u00b72\ub2e8 \uc2a4\ud0d1\u00b7TP \uae4c\uc9c0 \uacc4\ud68d\ud55c\ub2e4 \u00b7 US top-down se",
+    "id": "younghwan91/macro-sector-agent",
+    "language": "Python",
+    "name": "younghwan91/macro-sector-agent",
+    "stars": 0,
+    "updated_at": "2026-10-18T16:17:20Z",
+    "url": "https://github.com/younghwan91/macro-sector-agent"
+  },
+  {
+    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-18T16:17:09Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "Turn your Claude subscription into an AI employee in Telegram. Open-source kit behind 18 working assistants.",
+    "id": "shakhruz/mila-companion",
+    "language": "Python",
+    "name": "shakhruz/mila-companion",
+    "stars": 1,
+    "updated_at": "2026-10-18T16:16:41Z",
+    "url": "https://github.com/shakhruz/mila-companion"
   },
   {
     "description": "Bounded Meta Ads copilot with MCP tools, progressive Skills, context, Memory and safe Draft workflows",
@@ -41,7 +122,7 @@
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 402,
-    "updated_at": "2026-10-18T16:08:26Z",
+    "updated_at": "2026-10-18T16:30:04Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
@@ -158,17 +239,8 @@
     "language": "JavaScript",
     "name": "bigduu/Zenith",
     "stars": 6,
-    "updated_at": "2026-10-18T16:12:57Z",
+    "updated_at": "2026-10-18T16:21:43Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-18T15:50:06Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "Change Control Beta \u2014 closed-loop change intelligence demo: simulated smart-home changes \u2192 labeled stories (precision-fi",
@@ -178,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T15:49:46Z",
     "url": "https://github.com/thereven3947/data-to-decision-ai"
-  },
-  {
-    "description": "\uac70\uc2dc \u2192 \uc0b0\uc5c5 \uc0ac\uc774\ud074 \u2192 \ud14c\ub9c8 \u2192 \uc885\ubaa9 \u2192 \ud3ec\ud2b8\ud3f4\ub9ac\uc624 \ud558\ud5a5\uc2dd \ub9ac\uc11c\uce58 \ud30c\uc774\ud504\ub77c\uc778. \uc78a\ud600\uc9c4 \uc139\ud130\uc758 \uc0ac\uc774\ud074 \uc800\uc810\uc744 \ucc3e\uace0, \uac00\uce58\ud568\uc815\uacfc \uac00\ub974\uace0, \ube44\uc911\u00b7\ubb3c\ud0c0\uae30 \uc0ac\ub2e4\ub9ac\u00b72\ub2e8 \uc2a4\ud0d1\u00b7TP \uae4c\uc9c0 \uacc4\ud68d\ud55c\ub2e4 \u00b7 US top-down se",
-    "id": "younghwan91/macro-sector-agent",
-    "language": "Python",
-    "name": "younghwan91/macro-sector-agent",
-    "stars": 0,
-    "updated_at": "2026-10-18T15:46:29Z",
-    "url": "https://github.com/younghwan91/macro-sector-agent"
   },
   {
     "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
@@ -239,7 +302,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 15,
-    "updated_at": "2026-10-18T15:43:04Z",
+    "updated_at": "2026-10-18T16:18:28Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -293,7 +356,7 @@
     "language": "JavaScript",
     "name": "bigduu/Bodhi-AI",
     "stars": 17,
-    "updated_at": "2026-10-18T15:40:58Z",
+    "updated_at": "2026-10-18T16:26:46Z",
     "url": "https://github.com/bigduu/Bodhi-AI"
   },
   {
@@ -331,24 +394,6 @@
     "stars": 49,
     "updated_at": "2026-10-18T15:39:57Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-18T16:08:39Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-18T15:24:43Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -403,50 +448,5 @@
     "stars": 49,
     "updated_at": "2026-10-18T15:45:05Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
-  },
-  {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 283,
-    "updated_at": "2026-10-18T15:08:05Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4456,
-    "updated_at": "2026-10-18T15:05:43Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Qwen3-8B \u533b\u5b66\u7814\u7a76\u667a\u80fd\u4f53\uff1a\u771f\u5b9e\u5de5\u5177\u68c0\u7d22\u3001QLoRA SFT\u3001\u5206\u9636\u6bb5\u7a20\u5bc6\u5956\u52b1\u4e0e GRPO \u98ce\u683c LoRA \u540e\u8bad\u7ec3\uff0c\u9762\u5411\u672c\u5730\u90e8\u7f72\u3002",
-    "id": "MaSunKing/medical-research-agent-grpo",
-    "language": "Python",
-    "name": "MaSunKing/medical-research-agent-grpo",
-    "stars": 1,
-    "updated_at": "2026-10-18T15:02:16Z",
-    "url": "https://github.com/MaSunKing/medical-research-agent-grpo"
-  },
-  {
-    "description": "\u6821\u56ed\u4e8c\u624b\u4ea4\u6613\u5e73\u53f0\uff08Java/Spring Boot\uff09+ \u53d7\u7ea6\u675f\u7684 AI Agent\uff08LangGraph\uff09\u3002\u81ea\u5efa 30 \u4efb\u52a1 \u00d7 3 \u7ec4\u5bf9\u7167\u8bc4\u6d4b\uff0c\u636e\u6b64\u51b3\u5b9a\u54ea\u4e9b\u80fd\u529b\u8be5\u4ea4\u7ed9 agent\u3002",
-    "id": "Maple127/campus-secondhand-agent",
-    "language": "Python",
-    "name": "Maple127/campus-secondhand-agent",
-    "stars": 0,
-    "updated_at": "2026-10-18T14:54:02Z",
-    "url": "https://github.com/Maple127/campus-secondhand-agent"
-  },
-  {
-    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
-    "id": "Sigmanih/SigmaStudio",
-    "language": "Python",
-    "name": "Sigmanih/SigmaStudio",
-    "stars": 8,
-    "updated_at": "2026-10-18T14:48:06Z",
-    "url": "https://github.com/Sigmanih/SigmaStudio"
   }
 ]
