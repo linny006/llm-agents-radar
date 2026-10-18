@@ -1,5 +1,14 @@
 [
   {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-10-18T23:31:08Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
     "id": "410979729/scope-recall-hermes",
     "language": "Python",
@@ -212,7 +221,7 @@
     "language": "JavaScript",
     "name": "b7216309-jpg/little-bot",
     "stars": 0,
-    "updated_at": "2026-10-18T21:54:34Z",
+    "updated_at": "2026-10-18T23:31:53Z",
     "url": "https://github.com/b7216309-jpg/little-bot"
   },
   {
@@ -232,15 +241,6 @@
     "stars": 2,
     "updated_at": "2026-10-18T21:43:24Z",
     "url": "https://github.com/ugnmura/rcagent"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-10-18T21:25:32Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "An open-source research agent system for your Zotero library.",
