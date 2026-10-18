@@ -1,5 +1,104 @@
 [
   {
+    "description": "Minimal surface, complete architecture: a small, local-first coding-agent harness that re-derives the invariants of Deep",
+    "id": "earthwalker17/MiniDSH",
+    "language": "TypeScript",
+    "name": "earthwalker17/MiniDSH",
+    "stars": 15,
+    "updated_at": "2026-10-18T19:44:31Z",
+    "url": "https://github.com/earthwalker17/MiniDSH"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-18T19:43:58Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by ",
+    "id": "Sorav8827/DM-Code-Agent",
+    "language": "Python",
+    "name": "Sorav8827/DM-Code-Agent",
+    "stars": 0,
+    "updated_at": "2026-10-18T19:43:37Z",
+    "url": "https://github.com/Sorav8827/DM-Code-Agent"
+  },
+  {
+    "description": "An advanced AI agent that is as good, or better, then Agent-0 from AI-2027",
+    "id": "OpenBrain-LLC/Agent-0",
+    "language": "Python",
+    "name": "OpenBrain-LLC/Agent-0",
+    "stars": 0,
+    "updated_at": "2026-10-18T19:42:38Z",
+    "url": "https://github.com/OpenBrain-LLC/Agent-0"
+  },
+  {
+    "description": "PortableLM \u2014 Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe",
+    "id": "MadisonCastillo52/PrivatePixelPrompt",
+    "language": "JavaScript",
+    "name": "MadisonCastillo52/PrivatePixelPrompt",
+    "stars": 0,
+    "updated_at": "2026-10-18T19:42:09Z",
+    "url": "https://github.com/MadisonCastillo52/PrivatePixelPrompt"
+  },
+  {
+    "description": "\u975e\u5e38\u8be6\u7ec6\u7684\u5927\u6a21\u578bLLM\u7684\u5b66\u4e60\u6559\u7a0b\u4e0e\u7b14\u8bb0",
+    "id": "christos89630/LLM_book",
+    "language": "Python",
+    "name": "christos89630/LLM_book",
+    "stars": 0,
+    "updated_at": "2026-10-18T19:41:52Z",
+    "url": "https://github.com/christos89630/LLM_book"
+  },
+  {
+    "description": "Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by ",
+    "id": "teresafontaine95950/DM-Code-Agent",
+    "language": "Python",
+    "name": "teresafontaine95950/DM-Code-Agent",
+    "stars": 0,
+    "updated_at": "2026-10-18T19:38:55Z",
+    "url": "https://github.com/teresafontaine95950/DM-Code-Agent"
+  },
+  {
+    "description": "Change Control Beta \u2014 closed-loop change intelligence demo: simulated smart-home changes \u2192 labeled stories (precision-fi",
+    "id": "thereven3947/data-to-decision-ai",
+    "language": "Python",
+    "name": "thereven3947/data-to-decision-ai",
+    "stars": 0,
+    "updated_at": "2026-10-18T19:36:43Z",
+    "url": "https://github.com/thereven3947/data-to-decision-ai"
+  },
+  {
+    "description": "Court Vision \u2014 AI-\u0430\u0441\u0441\u0438\u0441\u0442\u0435\u043d\u0442 \u0431\u0430\u0441\u043a\u0435\u0442\u0431\u043e\u043b\u044c\u043d\u043e\u0433\u043e \u0441\u043a\u0430\u0443\u0442\u0430. LLM-\u0430\u0433\u0435\u043d\u0442 \u0441 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u0430\u043c\u0438 \u043f\u043e\u0432\u0435\u0440\u0445 \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0438 NBA + RAG \u043f\u043e Wikipedia \u0438 ",
+    "id": "delawer33/pickroll",
+    "language": "Python",
+    "name": "delawer33/pickroll",
+    "stars": 0,
+    "updated_at": "2026-10-18T19:35:59Z",
+    "url": "https://github.com/delawer33/pickroll"
+  },
+  {
+    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
+    "id": "kavyakimura116/CodeJury",
+    "language": "Python",
+    "name": "kavyakimura116/CodeJury",
+    "stars": 0,
+    "updated_at": "2026-10-18T19:33:22Z",
+    "url": "https://github.com/kavyakimura116/CodeJury"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-18T19:30:31Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
     "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
@@ -9,13 +108,13 @@
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
+    "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
+    "id": "sindredg/ai-security-platform",
+    "language": "HCL",
+    "name": "sindredg/ai-security-platform",
     "stars": 0,
-    "updated_at": "2026-10-18T19:28:34Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
+    "updated_at": "2026-10-18T19:36:04Z",
+    "url": "https://github.com/sindredg/ai-security-platform"
   },
   {
     "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
@@ -68,17 +167,8 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-18T19:21:39Z",
+    "updated_at": "2026-10-18T19:33:50Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-18T19:17:37Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
@@ -144,15 +234,6 @@
     "url": "https://github.com/kashyaprajharsh/medha-agent"
   },
   {
-    "description": "Court Vision \u2014 AI-\u0430\u0441\u0441\u0438\u0441\u0442\u0435\u043d\u0442 \u0431\u0430\u0441\u043a\u0435\u0442\u0431\u043e\u043b\u044c\u043d\u043e\u0433\u043e \u0441\u043a\u0430\u0443\u0442\u0430. LLM-\u0430\u0433\u0435\u043d\u0442 \u0441 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u0430\u043c\u0438 \u043f\u043e\u0432\u0435\u0440\u0445 \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0438 NBA + RAG \u043f\u043e Wikipedia \u0438 ",
-    "id": "delawer33/pickroll",
-    "language": "Python",
-    "name": "delawer33/pickroll",
-    "stars": 0,
-    "updated_at": "2026-10-18T19:07:38Z",
-    "url": "https://github.com/delawer33/pickroll"
-  },
-  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -178,15 +259,6 @@
     "stars": 3,
     "updated_at": "2026-10-18T18:54:43Z",
     "url": "https://github.com/flashfrogluo/second-take"
-  },
-  {
-    "description": "Minimal surface, complete architecture: a small, local-first coding-agent harness that re-derives the invariants of Deep",
-    "id": "earthwalker17/MiniDSH",
-    "language": "TypeScript",
-    "name": "earthwalker17/MiniDSH",
-    "stars": 15,
-    "updated_at": "2026-10-18T19:17:38Z",
-    "url": "https://github.com/earthwalker17/MiniDSH"
   },
   {
     "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
@@ -232,6 +304,15 @@
     "stars": 3,
     "updated_at": "2026-10-18T18:46:56Z",
     "url": "https://github.com/Kvindo/KvindoCode"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 6278,
+    "updated_at": "2026-10-18T18:43:30Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-18T17:28:32Z",
     "url": "https://github.com/muneebkhan08/Cuse"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4456,
-    "updated_at": "2026-10-18T17:54:39Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "\u5357\u4eac OSM + PostGIS \u7a7a\u95f4\u95ee\u7b54 Agent\uff1apgRouting \u6b65\u884c\u7b49\u65f6\u5708\u3001pgvector \u89c4\u5212\u6807\u51c6\u68c0\u7d22\u3001\u9884\u6ce8\u518c\u8bc4\u6d4b",
-    "id": "PlainSightX/geo-agent",
-    "language": "Python",
-    "name": "PlainSightX/geo-agent",
-    "stars": 0,
-    "updated_at": "2026-10-18T17:19:33Z",
-    "url": "https://github.com/PlainSightX/geo-agent"
-  },
-  {
-    "description": "DevOps & Cloud SI Assistant that runs locally on taraengine for complete privacy.",
-    "id": "tara-vision/taracode",
-    "language": "Go",
-    "name": "tara-vision/taracode",
-    "stars": 51,
-    "updated_at": "2026-10-18T17:12:45Z",
-    "url": "https://github.com/tara-vision/taracode"
-  },
-  {
-    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 49,
-    "updated_at": "2026-10-18T19:06:54Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
-    "id": "eshanized/M31A",
-    "language": "Rust",
-    "name": "eshanized/M31A",
-    "stars": 10,
-    "updated_at": "2026-10-18T17:03:16Z",
-    "url": "https://github.com/eshanized/M31A"
-  },
-  {
-    "description": "A 1.5 credit graduate class about the nuts and bolts of LLMs.",
-    "id": "jphall663/GWU_LLM",
-    "language": "Jupyter Notebook",
-    "name": "jphall663/GWU_LLM",
-    "stars": 0,
-    "updated_at": "2026-10-18T16:51:50Z",
-    "url": "https://github.com/jphall663/GWU_LLM"
-  },
-  {
-    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
-    "id": "plurnk/plurnk",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk",
-    "stars": 5,
-    "updated_at": "2026-10-18T16:48:00Z",
-    "url": "https://github.com/plurnk/plurnk"
-  },
-  {
-    "description": "Bodhi \u2014 a local-first AI agent workbench in Rust: desktop app, Bamboo runtime, Jiandu shared memory, Nova computer use a",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 6,
-    "updated_at": "2026-10-18T16:47:33Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Tauri desktop shell for the local-first Bodhi agent: manages Bamboo startup/reuse and health; packaged builds open the B",
-    "id": "bigduu/Bodhi-AI",
-    "language": "JavaScript",
-    "name": "bigduu/Bodhi-AI",
-    "stars": 17,
-    "updated_at": "2026-10-18T16:38:33Z",
-    "url": "https://github.com/bigduu/Bodhi-AI"
   }
 ]
