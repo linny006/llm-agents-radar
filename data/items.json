@@ -1,5 +1,77 @@
 [
   {
+    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 402,
+    "updated_at": "2026-10-18T16:43:15Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into",
+    "id": "AskTheWay/dsh-auto-memory",
+    "language": "TypeScript",
+    "name": "AskTheWay/dsh-auto-memory",
+    "stars": 108,
+    "updated_at": "2026-10-18T16:42:39Z",
+    "url": "https://github.com/AskTheWay/dsh-auto-memory"
+  },
+  {
+    "description": "Bodhi \u2014 a local-first AI agent workbench in Rust: desktop app, Bamboo runtime, Jiandu shared memory, Nova computer use a",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 6,
+    "updated_at": "2026-10-18T16:40:24Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "Tauri desktop shell for the local-first Bodhi agent: manages Bamboo startup/reuse and health; packaged builds open the B",
+    "id": "bigduu/Bodhi-AI",
+    "language": "JavaScript",
+    "name": "bigduu/Bodhi-AI",
+    "stars": 17,
+    "updated_at": "2026-10-18T16:38:33Z",
+    "url": "https://github.com/bigduu/Bodhi-AI"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-18T16:34:58Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "\uac70\uc2dc \u2192 \uc0b0\uc5c5 \uc0ac\uc774\ud074 \u2192 \ud14c\ub9c8 \u2192 \uc885\ubaa9 \u2192 \ud3ec\ud2b8\ud3f4\ub9ac\uc624 \ud558\ud5a5\uc2dd \ub9ac\uc11c\uce58 \ud30c\uc774\ud504\ub77c\uc778. \uc78a\ud600\uc9c4 \uc139\ud130\uc758 \uc0ac\uc774\ud074 \uc800\uc810\uc744 \ucc3e\uace0, \uac00\uce58\ud568\uc815\uacfc \uac00\ub974\uace0, \ube44\uc911\u00b7\ubb3c\ud0c0\uae30 \uc0ac\ub2e4\ub9ac\u00b72\ub2e8 \uc2a4\ud0d1\u00b7TP \uae4c\uc9c0 \uacc4\ud68d\ud55c\ub2e4 \u00b7 US top-down se",
+    "id": "younghwan91/macro-sector-agent",
+    "language": "Python",
+    "name": "younghwan91/macro-sector-agent",
+    "stars": 0,
+    "updated_at": "2026-10-18T16:34:03Z",
+    "url": "https://github.com/younghwan91/macro-sector-agent"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-18T16:33:57Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 4,
+    "updated_at": "2026-10-18T16:30:21Z",
+    "url": "https://github.com/sydches/yuj"
+  },
+  {
     "description": "A 1.5 credit graduate class about the nuts and bolts of LLMs.",
     "id": "jphall663/GWU_LLM",
     "language": "Jupyter Notebook",
@@ -27,31 +99,13 @@
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-18T16:23:37Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4456,
-    "updated_at": "2026-10-18T16:26:19Z",
+    "updated_at": "2026-10-18T16:41:43Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-18T16:21:02Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -61,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T16:18:41Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "\uac70\uc2dc \u2192 \uc0b0\uc5c5 \uc0ac\uc774\ud074 \u2192 \ud14c\ub9c8 \u2192 \uc885\ubaa9 \u2192 \ud3ec\ud2b8\ud3f4\ub9ac\uc624 \ud558\ud5a5\uc2dd \ub9ac\uc11c\uce58 \ud30c\uc774\ud504\ub77c\uc778. \uc78a\ud600\uc9c4 \uc139\ud130\uc758 \uc0ac\uc774\ud074 \uc800\uc810\uc744 \ucc3e\uace0, \uac00\uce58\ud568\uc815\uacfc \uac00\ub974\uace0, \ube44\uc911\u00b7\ubb3c\ud0c0\uae30 \uc0ac\ub2e4\ub9ac\u00b72\ub2e8 \uc2a4\ud0d1\u00b7TP \uae4c\uc9c0 \uacc4\ud68d\ud55c\ub2e4 \u00b7 US top-down se",
-    "id": "younghwan91/macro-sector-agent",
-    "language": "Python",
-    "name": "younghwan91/macro-sector-agent",
-    "stars": 0,
-    "updated_at": "2026-10-18T16:17:20Z",
-    "url": "https://github.com/younghwan91/macro-sector-agent"
   },
   {
     "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
@@ -117,15 +162,6 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 402,
-    "updated_at": "2026-10-18T16:30:04Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
     "description": "\u9762\u5411 A \u80a1\u7684\u65e5\u9891\u91cf\u5316\u7814\u7a76\u4e0e\u56de\u6d4b\u5f15\u64ce\uff0c\u652f\u6301\u4f20\u7edf\u56e0\u5b50 + ML\u63a8\u7406 + Python\u51fd\u6570\u6df7\u5408\u7b56\u7565",
     "id": "netube99/ddup",
     "language": "Python",
@@ -142,15 +178,6 @@
     "stars": 3,
     "updated_at": "2026-10-18T16:08:05Z",
     "url": "https://github.com/flashfrogluo/second-take"
-  },
-  {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 4,
-    "updated_at": "2026-10-18T16:04:04Z",
-    "url": "https://github.com/sydches/yuj"
   },
   {
     "description": "Claude Code skill that generates a tailored autonomous dev loop for any git repository",
@@ -232,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-10-18T15:50:51Z",
     "url": "https://github.com/Shuffle-1992/dsh-dispatch"
-  },
-  {
-    "description": "Bodhi \u2014 a local-first AI agent workbench in Rust: desktop app, Bamboo runtime, Jiandu shared memory, Nova computer use a",
-    "id": "bigduu/Zenith",
-    "language": "JavaScript",
-    "name": "bigduu/Zenith",
-    "stars": 6,
-    "updated_at": "2026-10-18T16:21:43Z",
-    "url": "https://github.com/bigduu/Zenith"
   },
   {
     "description": "Change Control Beta \u2014 closed-loop change intelligence demo: simulated smart-home changes \u2192 labeled stories (precision-fi",
@@ -351,15 +369,6 @@
     "url": "https://github.com/helmutthompson1156/RedteamAgent"
   },
   {
-    "description": "Tauri desktop shell for the local-first Bodhi agent: manages Bamboo startup/reuse and health; packaged builds open the B",
-    "id": "bigduu/Bodhi-AI",
-    "language": "JavaScript",
-    "name": "bigduu/Bodhi-AI",
-    "stars": 17,
-    "updated_at": "2026-10-18T16:26:46Z",
-    "url": "https://github.com/bigduu/Bodhi-AI"
-  },
-  {
     "description": "PortableLM \u2014 Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe",
     "id": "carlosdixon2438/PrivatePixelPrompt",
     "language": "JavaScript",
@@ -392,7 +401,7 @@
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 49,
-    "updated_at": "2026-10-18T15:39:57Z",
+    "updated_at": "2026-10-18T16:34:01Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 29,
     "updated_at": "2026-10-18T15:08:57Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
-    "id": "wuyhong715/rikkahub-agent-pure",
-    "language": "Kotlin",
-    "name": "wuyhong715/rikkahub-agent-pure",
-    "stars": 49,
-    "updated_at": "2026-10-18T15:45:05Z",
-    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   }
 ]
