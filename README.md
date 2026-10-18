@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-18 17:30 UTC
+> ⏰ Last updated: 2026-10-18 17:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [sydches/yuj](https://github.com/sydches/yuj) | 4 | Python | 2026-10-18 | Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L |
-| 2 | [muneebkhan08/Cuse](https://github.com/muneebkhan08/Cuse) | 0 | Swift | 2026-10-18 | Cuse — open-source AI cursor agent for macOS. Type or speak a task and an AI cursor clicks, types and navigates any Mac  |
-| 3 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-18 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
-| 4 | [gptme/gptme](https://github.com/gptme/gptme) | 4456 | Python | 2026-10-18 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
-| 5 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 1 | TypeScript | 2026-10-18 | Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers. |
-| 6 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 25 | Python | 2026-10-18 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、HMI和Android双端；LLM 只负责理解与规划，VAL 负责确定性安全执行 |
-| 7 | [ljchang/mecha](https://github.com/ljchang/mecha) | 7 | Rust | 2026-10-18 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
-| 8 | [PlainSightX/geo-agent](https://github.com/PlainSightX/geo-agent) | 0 | Python | 2026-10-18 | 南京 OSM + PostGIS 空间问答 Agent：pgRouting 步行等时圈、pgvector 规划标准检索、预注册评测 |
-| 9 | [tara-vision/taracode](https://github.com/tara-vision/taracode) | 51 | Go | 2026-10-18 | DevOps & Cloud SI Assistant that runs locally on taraengine for complete privacy. |
-| 10 | [zhixuli0406/DuDuClaw](https://github.com/zhixuli0406/DuDuClaw) | 49 | Rust | 2026-10-18 | Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha |
-| 11 | [410979729/scope-recall-hermes](https://github.com/410979729/scope-recall-hermes) | 403 | Python | 2026-10-18 | Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall, |
-| 12 | [eshanized/M31A](https://github.com/eshanized/M31A) | 10 | Rust | 2026-10-18 | M31 Autonomous — Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe |
-| 13 | [trhhubsd/ARTEX](https://github.com/trhhubsd/ARTEX) | 1243 | Go | 2026-10-18 | ARTEX · AI autonomous penetration testing system (multi-agent LLM, Go + Next.js) · AI 自主渗透测试系统 · 百度 agent+ 攻防挑战赛冠军 |
-| 14 | [VoroshylovV/job-search-automation-pipeline](https://github.com/VoroshylovV/job-search-automation-pipeline) | 2 | Python | 2026-10-18 | AI-orchestrated job search pipeline: scrapes 5 UA job boards, uses Claude API to score matches & classify emails, writes |
-| 15 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-10-18 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 16 | [jphall663/GWU_LLM](https://github.com/jphall663/GWU_LLM) | 0 | Jupyter Notebook | 2026-10-18 | A 1.5 credit graduate class about the nuts and bolts of LLMs. |
-| 17 | [Kvindo/KvindoCode](https://github.com/Kvindo/KvindoCode) | 3 | C# | 2026-10-18 | Desktop AI coding agent for Linux/Windows/macOS: an Avalonia .NET app with git-worktree isolation per session, plan revi |
-| 18 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-10-18 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 19 | [codex-mohan/spectra](https://github.com/codex-mohan/spectra) | 1 | TypeScript | 2026-10-18 | Terminal-native AI coding agent with extensible TypeScript and Rust SDKs for building and orchestrating coding workflows |
-| 20 | [plurnk/plurnk](https://github.com/plurnk/plurnk) | 5 | TypeScript | 2026-10-18 | Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models. |
-| 21 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 6 | Shell | 2026-10-18 | Bodhi — a local-first AI agent workbench in Rust: desktop app, Bamboo runtime, Jiandu shared memory, Nova computer use a |
-| 22 | [AskTheWay/dsh-auto-memory](https://github.com/AskTheWay/dsh-auto-memory) | 108 | TypeScript | 2026-10-18 | Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into |
-| 23 | [bigduu/Bodhi-AI](https://github.com/bigduu/Bodhi-AI) | 17 | JavaScript | 2026-10-18 | Tauri desktop shell for the local-first Bodhi agent: manages Bamboo startup/reuse and health; packaged builds open the B |
-| 24 | [younghwan91/macro-sector-agent](https://github.com/younghwan91/macro-sector-agent) | 0 | Python | 2026-10-18 | 거시 → 산업 사이클 → 테마 → 종목 → 포트폴리오 하향식 리서치 파이프라인. 잊혀진 섹터의 사이클 저점을 찾고, 가치함정과 가르고, 비중·물타기 사다리·2단 스탑·TP 까지 계획한다 · US top-down se |
-| 25 | [kanishka-namdeo/Unown](https://github.com/kanishka-namdeo/Unown) | 0 | TypeScript | 2026-10-18 | The Self-Improving Coding Agent |
-| 26 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 6277 | Python | 2026-10-18 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
-| 27 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-10-18 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 28 | [duongnq2798/vestiarion](https://github.com/duongnq2798/vestiarion) | 2 | TypeScript | 2026-10-18 | Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc  |
-| 29 | [shakhruz/mila-companion](https://github.com/shakhruz/mila-companion) | 1 | Python | 2026-10-18 | Turn your Claude subscription into an AI employee in Telegram. Open-source kit behind 18 working assistants. |
-| 30 | [jiangylin5-hue/meta-ads-agent](https://github.com/jiangylin5-hue/meta-ads-agent) | 0 | Python | 2026-10-18 | Bounded Meta Ads copilot with MCP tools, progressive Skills, context, Memory and safe Draft workflows |
-| 31 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-10-18 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 32 | [netube99/ddup](https://github.com/netube99/ddup) | 3 | Python | 2026-10-18 | 面向 A 股的日频量化研究与回测引擎，支持传统因子 + ML推理 + Python函数混合策略 |
-| 33 | [flashfrogluo/second-take](https://github.com/flashfrogluo/second-take) | 3 | Shell | 2026-10-18 | AI reasoning QA + retake note: when an AI answer disappoints, diagnose where its chain-of-thought went wrong and produce |
-| 34 | [Stephenson-Software/create-dev-loop](https://github.com/Stephenson-Software/create-dev-loop) | 1 | Python | 2026-10-18 | Claude Code skill that generates a tailored autonomous dev loop for any git repository |
-| 35 | [node9-ai/node9-proxy](https://github.com/node9-ai/node9-proxy) | 219 | TypeScript | 2026-10-18 | Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r |
-| 36 | [kyleslight/shun](https://github.com/kyleslight/shun) | 7 | TypeScript | 2026-10-18 | The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier. |
-| 37 | [cherylozturk7551/LLM_book](https://github.com/cherylozturk7551/LLM_book) | 0 | Python | 2026-10-18 | 非常详细的大模型LLM的学习教程与笔记 |
-| 38 | [EceGuo/Upwork-AI-jobs-applier](https://github.com/EceGuo/Upwork-AI-jobs-applier) | 0 | Python | 2026-10-18 | AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter |
-| 39 | [franckolv-dev/ELY2](https://github.com/franckolv-dev/ELY2) | 1 | Python | 2026-10-18 | Autonomous personal agent: talks, acts, never gives up. Multi-model, multi-user, self-improving |
-| 40 | [OlivierRiccardi18/LLM_book](https://github.com/OlivierRiccardi18/LLM_book) | 0 | Python | 2026-10-18 | 非常详细的大模型LLM的学习教程与笔记 |
-| 41 | [Shuffle-1992/dsh-dispatch](https://github.com/Shuffle-1992/dsh-dispatch) | 2 | JavaScript | 2026-10-18 | 把任务派发给本机 ZCode CLI 无头进程的 DeepSeek Harness 插件：面板可监视/终止/续跑/换通道；单写者文件锁 + 用量台账 + 降级链。支持付费套餐与免费额度（Start Plan 活动赠送）两种额度，后者托管官方 |
-| 42 | [thereven3947/data-to-decision-ai](https://github.com/thereven3947/data-to-decision-ai) | 0 | Python | 2026-10-18 | Change Control Beta — closed-loop change intelligence demo: simulated smart-home changes → labeled stories (precision-fi |
-| 43 | [deepalebedev6900/CodeJury](https://github.com/deepalebedev6900/CodeJury) | 0 | Python | 2026-10-18 | Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te |
-| 44 | [narong8547/Upwork-AI-jobs-applier](https://github.com/narong8547/Upwork-AI-jobs-applier) | 0 | Python | 2026-10-18 | AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter |
-| 45 | [SompongLewis/taracode](https://github.com/SompongLewis/taracode) | 0 | Go | 2026-10-18 | DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy. |
-| 46 | [Burke59747/Upwork-AI-jobs-applier](https://github.com/Burke59747/Upwork-AI-jobs-applier) | 0 | Python | 2026-10-18 | AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter |
-| 47 | [donglongjun886/product-review-agent](https://github.com/donglongjun886/product-review-agent) | 1 | Python | 2026-10-18 | 电商平台商品内容治理的复杂风险调查 Agent：LangGraph 多步调查 + 确定性 Decision Gate，输出 PASS / REJECT / HUMAN_REVIEW；全链路确定性可重放评测 |
-| 48 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 15 | Go | 2026-10-18 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
-| 49 | [Beverlyl589/CodeJury](https://github.com/Beverlyl589/CodeJury) | 0 | Python | 2026-10-18 | Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te |
-| 50 | [barnes0783/taracode](https://github.com/barnes0783/taracode) | 0 | Go | 2026-10-18 | DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy. |
+| 1 | [trhhubsd/ARTEX](https://github.com/trhhubsd/ARTEX) | 1243 | Go | 2026-10-18 | ARTEX · AI autonomous penetration testing system (multi-agent LLM, Go + Next.js) · AI 自主渗透测试系统 · 百度 agent+ 攻防挑战赛冠军 |
+| 2 | [innerkorehq/AutonomousAgentArchitecture](https://github.com/innerkorehq/AutonomousAgentArchitecture) | 1 | Python | 2026-10-18 | Async, event-driven library of production-deployable agent algorithms over arbitrary data, with a pluggable LLM gateway  |
+| 3 | [honestDS/MonoLight](https://github.com/honestDS/MonoLight) | 9 | Python | 2026-10-18 | MonoLight 是一个专注于安全执行与人机协同的通用自主智能体（General Autonomous Agent）运行时。 |
+| 4 | [kanishka-namdeo/Unown](https://github.com/kanishka-namdeo/Unown) | 0 | TypeScript | 2026-10-18 | The Self-Improving Coding Agent |
+| 5 | [duongnq2798/vestiarion](https://github.com/duongnq2798/vestiarion) | 2 | TypeScript | 2026-10-18 | Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc  |
+| 6 | [VoroshylovV/job-search-automation-pipeline](https://github.com/VoroshylovV/job-search-automation-pipeline) | 2 | Python | 2026-10-18 | AI-orchestrated job search pipeline: scrapes 5 UA job boards, uses Claude API to score matches & classify emails, writes |
+| 7 | [codex-mohan/spectra](https://github.com/codex-mohan/spectra) | 1 | TypeScript | 2026-10-18 | Terminal-native AI coding agent with extensible TypeScript and Rust SDKs for building and orchestrating coding workflows |
+| 8 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 1 | TypeScript | 2026-10-18 | Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers. |
+| 9 | [imehranasgari/FlightAI_Multimodal_Agent](https://github.com/imehranasgari/FlightAI_Multimodal_Agent) | 0 | Python | 2026-10-18 | Production-grade Multimodal AI Airline Agent featuring deterministic Tool Calling (SQLite), Dual Engine (Gemini & Llama  |
+| 10 | [sydches/yuj](https://github.com/sydches/yuj) | 4 | Python | 2026-10-18 | Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L |
+| 11 | [muneebkhan08/Cuse](https://github.com/muneebkhan08/Cuse) | 0 | Swift | 2026-10-18 | Cuse — open-source AI cursor agent for macOS. Type or speak a task and an AI cursor clicks, types and navigates any Mac  |
+| 12 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-18 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
+| 13 | [gptme/gptme](https://github.com/gptme/gptme) | 4456 | Python | 2026-10-18 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
+| 14 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 25 | Python | 2026-10-18 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、HMI和Android双端；LLM 只负责理解与规划，VAL 负责确定性安全执行 |
+| 15 | [ljchang/mecha](https://github.com/ljchang/mecha) | 7 | Rust | 2026-10-18 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
+| 16 | [PlainSightX/geo-agent](https://github.com/PlainSightX/geo-agent) | 0 | Python | 2026-10-18 | 南京 OSM + PostGIS 空间问答 Agent：pgRouting 步行等时圈、pgvector 规划标准检索、预注册评测 |
+| 17 | [tara-vision/taracode](https://github.com/tara-vision/taracode) | 51 | Go | 2026-10-18 | DevOps & Cloud SI Assistant that runs locally on taraengine for complete privacy. |
+| 18 | [zhixuli0406/DuDuClaw](https://github.com/zhixuli0406/DuDuClaw) | 49 | Rust | 2026-10-18 | Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha |
+| 19 | [410979729/scope-recall-hermes](https://github.com/410979729/scope-recall-hermes) | 403 | Python | 2026-10-18 | Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall, |
+| 20 | [eshanized/M31A](https://github.com/eshanized/M31A) | 10 | Rust | 2026-10-18 | M31 Autonomous — Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe |
+| 21 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-10-18 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 22 | [jphall663/GWU_LLM](https://github.com/jphall663/GWU_LLM) | 0 | Jupyter Notebook | 2026-10-18 | A 1.5 credit graduate class about the nuts and bolts of LLMs. |
+| 23 | [Kvindo/KvindoCode](https://github.com/Kvindo/KvindoCode) | 3 | C# | 2026-10-18 | Desktop AI coding agent for Linux/Windows/macOS: an Avalonia .NET app with git-worktree isolation per session, plan revi |
+| 24 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-10-18 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 25 | [plurnk/plurnk](https://github.com/plurnk/plurnk) | 5 | TypeScript | 2026-10-18 | Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models. |
+| 26 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 6 | Shell | 2026-10-18 | Bodhi — a local-first AI agent workbench in Rust: desktop app, Bamboo runtime, Jiandu shared memory, Nova computer use a |
+| 27 | [AskTheWay/dsh-auto-memory](https://github.com/AskTheWay/dsh-auto-memory) | 108 | TypeScript | 2026-10-18 | Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into |
+| 28 | [bigduu/Bodhi-AI](https://github.com/bigduu/Bodhi-AI) | 17 | JavaScript | 2026-10-18 | Tauri desktop shell for the local-first Bodhi agent: manages Bamboo startup/reuse and health; packaged builds open the B |
+| 29 | [younghwan91/macro-sector-agent](https://github.com/younghwan91/macro-sector-agent) | 0 | Python | 2026-10-18 | 거시 → 산업 사이클 → 테마 → 종목 → 포트폴리오 하향식 리서치 파이프라인. 잊혀진 섹터의 사이클 저점을 찾고, 가치함정과 가르고, 비중·물타기 사다리·2단 스탑·TP 까지 계획한다 · US top-down se |
+| 30 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 6277 | Python | 2026-10-18 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
+| 31 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-10-18 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 32 | [shakhruz/mila-companion](https://github.com/shakhruz/mila-companion) | 1 | Python | 2026-10-18 | Turn your Claude subscription into an AI employee in Telegram. Open-source kit behind 18 working assistants. |
+| 33 | [jiangylin5-hue/meta-ads-agent](https://github.com/jiangylin5-hue/meta-ads-agent) | 0 | Python | 2026-10-18 | Bounded Meta Ads copilot with MCP tools, progressive Skills, context, Memory and safe Draft workflows |
+| 34 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-10-18 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
+| 35 | [netube99/ddup](https://github.com/netube99/ddup) | 3 | Python | 2026-10-18 | 面向 A 股的日频量化研究与回测引擎，支持传统因子 + ML推理 + Python函数混合策略 |
+| 36 | [flashfrogluo/second-take](https://github.com/flashfrogluo/second-take) | 3 | Shell | 2026-10-18 | AI reasoning QA + retake note: when an AI answer disappoints, diagnose where its chain-of-thought went wrong and produce |
+| 37 | [Stephenson-Software/create-dev-loop](https://github.com/Stephenson-Software/create-dev-loop) | 1 | Python | 2026-10-18 | Claude Code skill that generates a tailored autonomous dev loop for any git repository |
+| 38 | [node9-ai/node9-proxy](https://github.com/node9-ai/node9-proxy) | 219 | TypeScript | 2026-10-18 | Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r |
+| 39 | [kyleslight/shun](https://github.com/kyleslight/shun) | 7 | TypeScript | 2026-10-18 | The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier. |
+| 40 | [cherylozturk7551/LLM_book](https://github.com/cherylozturk7551/LLM_book) | 0 | Python | 2026-10-18 | 非常详细的大模型LLM的学习教程与笔记 |
+| 41 | [EceGuo/Upwork-AI-jobs-applier](https://github.com/EceGuo/Upwork-AI-jobs-applier) | 0 | Python | 2026-10-18 | AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter |
+| 42 | [franckolv-dev/ELY2](https://github.com/franckolv-dev/ELY2) | 1 | Python | 2026-10-18 | Autonomous personal agent: talks, acts, never gives up. Multi-model, multi-user, self-improving |
+| 43 | [OlivierRiccardi18/LLM_book](https://github.com/OlivierRiccardi18/LLM_book) | 0 | Python | 2026-10-18 | 非常详细的大模型LLM的学习教程与笔记 |
+| 44 | [Shuffle-1992/dsh-dispatch](https://github.com/Shuffle-1992/dsh-dispatch) | 2 | JavaScript | 2026-10-18 | 把任务派发给本机 ZCode CLI 无头进程的 DeepSeek Harness 插件：面板可监视/终止/续跑/换通道；单写者文件锁 + 用量台账 + 降级链。支持付费套餐与免费额度（Start Plan 活动赠送）两种额度，后者托管官方 |
+| 45 | [thereven3947/data-to-decision-ai](https://github.com/thereven3947/data-to-decision-ai) | 0 | Python | 2026-10-18 | Change Control Beta — closed-loop change intelligence demo: simulated smart-home changes → labeled stories (precision-fi |
+| 46 | [deepalebedev6900/CodeJury](https://github.com/deepalebedev6900/CodeJury) | 0 | Python | 2026-10-18 | Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te |
+| 47 | [narong8547/Upwork-AI-jobs-applier](https://github.com/narong8547/Upwork-AI-jobs-applier) | 0 | Python | 2026-10-18 | AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter |
+| 48 | [SompongLewis/taracode](https://github.com/SompongLewis/taracode) | 0 | Go | 2026-10-18 | DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy. |
+| 49 | [Burke59747/Upwork-AI-jobs-applier](https://github.com/Burke59747/Upwork-AI-jobs-applier) | 0 | Python | 2026-10-18 | AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter |
+| 50 | [donglongjun886/product-review-agent](https://github.com/donglongjun886/product-review-agent) | 1 | Python | 2026-10-18 | 电商平台商品内容治理的复杂风险调查 Agent：LangGraph 多步调查 + 确定性 Decision Gate，输出 PASS / REJECT / HUMAN_REVIEW；全链路确定性可重放评测 |
 <!-- TRACKER_TABLE_END -->
 
 ---
