@@ -1,5 +1,104 @@
 [
   {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 14,
+    "updated_at": "2026-10-18T20:44:46Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:44:12Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "\u975e\u5e38\u8be6\u7ec6\u7684\u5927\u6a21\u578bLLM\u7684\u5b66\u4e60\u6559\u7a0b\u4e0e\u7b14\u8bb0",
+    "id": "hassankonig30015/LLM_book",
+    "language": "Python",
+    "name": "hassankonig30015/LLM_book",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:44:03Z",
+    "url": "https://github.com/hassankonig30015/LLM_book"
+  },
+  {
+    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
+    "id": "KaletoAI/anima-verse",
+    "language": "Python",
+    "name": "KaletoAI/anima-verse",
+    "stars": 4,
+    "updated_at": "2026-10-18T20:41:17Z",
+    "url": "https://github.com/KaletoAI/anima-verse"
+  },
+  {
+    "description": "\u975e\u5e38\u8be6\u7ec6\u7684\u5927\u6a21\u578bLLM\u7684\u5b66\u4e60\u6559\u7a0b\u4e0e\u7b14\u8bb0",
+    "id": "kostashughes43/LLM_book",
+    "language": "Python",
+    "name": "kostashughes43/LLM_book",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:39:37Z",
+    "url": "https://github.com/kostashughes43/LLM_book"
+  },
+  {
+    "description": "AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter",
+    "id": "Sompongw636/Upwork-AI-jobs-applier",
+    "language": "Python",
+    "name": "Sompongw636/Upwork-AI-jobs-applier",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:37:37Z",
+    "url": "https://github.com/Sompongw636/Upwork-AI-jobs-applier"
+  },
+  {
+    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
+    "id": "GiuliaPersson/CodeJury",
+    "language": "Python",
+    "name": "GiuliaPersson/CodeJury",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:37:15Z",
+    "url": "https://github.com/GiuliaPersson/CodeJury"
+  },
+  {
+    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
+    "id": "hsaghir/looplet",
+    "language": "Python",
+    "name": "hsaghir/looplet",
+    "stars": 7,
+    "updated_at": "2026-10-18T20:35:28Z",
+    "url": "https://github.com/hsaghir/looplet"
+  },
+  {
+    "description": "PortableLM \u2014 Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe",
+    "id": "ronald8306/PrivatePixelPrompt",
+    "language": "HTML",
+    "name": "ronald8306/PrivatePixelPrompt",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:34:49Z",
+    "url": "https://github.com/ronald8306/PrivatePixelPrompt"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 131,
+    "updated_at": "2026-10-18T20:30:46Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 405,
+    "updated_at": "2026-10-18T20:30:31Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
     "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
@@ -36,15 +135,6 @@
     "url": "https://github.com/tara-vision/taracode"
   },
   {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 14,
-    "updated_at": "2026-10-18T20:30:06Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "\u975e\u5e38\u8be6\u7ec6\u7684\u5927\u6a21\u578bLLM\u7684\u5b66\u4e60\u6559\u7a0b\u4e0e\u7b14\u8bb0",
     "id": "burak8351/LLM_book",
     "language": "Python",
@@ -61,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T20:25:32Z",
     "url": "https://github.com/ngoctrinh03837/DM-Code-Agent"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-18T20:20:50Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "Educational proof of concept, not investment advice: Python and LangGraph agent analysing a fixed watchlist of US stocks",
@@ -306,15 +387,6 @@
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
-    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 405,
-    "updated_at": "2026-10-18T20:11:11Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
     "description": "Portable pi harness powered by Rust native tools \u2014 lean core, progressive disclosure, zero absolute paths.",
     "id": "nurmdrafi/pi-native",
     "language": "JavaScript",
@@ -356,7 +428,7 @@
     "language": "Python",
     "name": "cohexa-ai/agent-coherence",
     "stars": 11,
-    "updated_at": "2026-10-18T19:09:49Z",
+    "updated_at": "2026-10-18T20:43:50Z",
     "url": "https://github.com/cohexa-ai/agent-coherence"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T19:02:25Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-10-18T19:01:55Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "AI reasoning QA + retake note: when an AI answer disappoints, diagnose where its chain-of-thought went wrong and produce",
-    "id": "flashfrogluo/second-take",
-    "language": "Shell",
-    "name": "flashfrogluo/second-take",
-    "stars": 3,
-    "updated_at": "2026-10-18T18:54:43Z",
-    "url": "https://github.com/flashfrogluo/second-take"
-  },
-  {
-    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
-    "id": "hsaghir/looplet",
-    "language": "Python",
-    "name": "hsaghir/looplet",
-    "stars": 7,
-    "updated_at": "2026-10-18T20:14:03Z",
-    "url": "https://github.com/hsaghir/looplet"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 15,
-    "updated_at": "2026-10-18T19:56:51Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into",
-    "id": "AskTheWay/dsh-auto-memory",
-    "language": "TypeScript",
-    "name": "AskTheWay/dsh-auto-memory",
-    "stars": 108,
-    "updated_at": "2026-10-18T18:50:31Z",
-    "url": "https://github.com/AskTheWay/dsh-auto-memory"
-  },
-  {
-    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-18T18:46:32Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "Desktop AI coding agent for Linux/Windows/macOS: an Avalonia .NET app with git-worktree isolation per session, plan revi",
-    "id": "Kvindo/KvindoCode",
-    "language": "C#",
-    "name": "Kvindo/KvindoCode",
-    "stars": 3,
-    "updated_at": "2026-10-18T18:46:56Z",
-    "url": "https://github.com/Kvindo/KvindoCode"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 6278,
-    "updated_at": "2026-10-18T18:43:30Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
   }
 ]
