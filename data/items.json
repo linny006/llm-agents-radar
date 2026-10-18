@@ -1,12 +1,93 @@
 [
   {
+    "description": "Minimal surface, complete architecture: a small, local-first coding-agent harness that re-derives the invariants of Deep",
+    "id": "earthwalker17/MiniDSH",
+    "language": "TypeScript",
+    "name": "earthwalker17/MiniDSH",
+    "stars": 15,
+    "updated_at": "2026-10-18T20:14:30Z",
+    "url": "https://github.com/earthwalker17/MiniDSH"
+  },
+  {
+    "description": "AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter",
+    "id": "gonzalez7707/Upwork-AI-jobs-applier",
+    "language": "Python",
+    "name": "gonzalez7707/Upwork-AI-jobs-applier",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:12:35Z",
+    "url": "https://github.com/gonzalez7707/Upwork-AI-jobs-applier"
+  },
+  {
     "description": "The Self-Improving Coding Agent",
     "id": "kanishka-namdeo/Unown",
     "language": "TypeScript",
     "name": "kanishka-namdeo/Unown",
     "stars": 0,
-    "updated_at": "2026-10-18T19:54:44Z",
+    "updated_at": "2026-10-18T20:08:06Z",
     "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "\u975e\u5e38\u8be6\u7ec6\u7684\u5927\u6a21\u578bLLM\u7684\u5b66\u4e60\u6559\u7a0b\u4e0e\u7b14\u8bb0",
+    "id": "mancini268/LLM_book",
+    "language": "Python",
+    "name": "mancini268/LLM_book",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:07:50Z",
+    "url": "https://github.com/mancini268/LLM_book"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 134,
+    "updated_at": "2026-10-18T20:06:46Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
+    "id": "alexwkleung/reika",
+    "language": "TypeScript",
+    "name": "alexwkleung/reika",
+    "stars": 11,
+    "updated_at": "2026-10-18T20:06:01Z",
+    "url": "https://github.com/alexwkleung/reika"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-18T20:04:47Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "An AI red-team agent for authorized labs and web app pentesting workflows. Turns Claude Code / OpenCode / Codex into a s",
+    "id": "mnovaes323/RedteamAgent",
+    "language": "Python",
+    "name": "mnovaes323/RedteamAgent",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:03:26Z",
+    "url": "https://github.com/mnovaes323/RedteamAgent"
+  },
+  {
+    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
+    "id": "RalfHermsen/x4-agent",
+    "language": "Python",
+    "name": "RalfHermsen/x4-agent",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:03:17Z",
+    "url": "https://github.com/RalfHermsen/x4-agent"
+  },
+  {
+    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
+    "id": "Mikhailf820/CodeJury",
+    "language": "Python",
+    "name": "Mikhailf820/CodeJury",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:01:12Z",
+    "url": "https://github.com/Mikhailf820/CodeJury"
   },
   {
     "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
@@ -16,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T19:54:09Z",
     "url": "https://github.com/WaelHansson/CodeJury"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-18T19:52:32Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "PortableLM \u2014 Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe",
@@ -43,15 +115,6 @@
     "stars": 7,
     "updated_at": "2026-10-18T19:59:58Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Minimal surface, complete architecture: a small, local-first coding-agent harness that re-derives the invariants of Deep",
-    "id": "earthwalker17/MiniDSH",
-    "language": "TypeScript",
-    "name": "earthwalker17/MiniDSH",
-    "stars": 15,
-    "updated_at": "2026-10-18T19:44:31Z",
-    "url": "https://github.com/earthwalker17/MiniDSH"
   },
   {
     "description": "Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by ",
@@ -140,7 +203,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 14,
-    "updated_at": "2026-10-18T19:52:13Z",
+    "updated_at": "2026-10-18T20:12:59Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -185,7 +248,7 @@
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 405,
-    "updated_at": "2026-10-18T19:17:26Z",
+    "updated_at": "2026-10-18T20:11:11Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
@@ -275,7 +338,7 @@
     "language": "Python",
     "name": "hsaghir/looplet",
     "stars": 7,
-    "updated_at": "2026-10-18T18:54:12Z",
+    "updated_at": "2026-10-18T20:14:03Z",
     "url": "https://github.com/hsaghir/looplet"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-18T18:12:42Z",
     "url": "https://github.com/innerkorehq/AutonomousAgentArchitecture"
-  },
-  {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 4,
-    "updated_at": "2026-10-18T18:02:58Z",
-    "url": "https://github.com/sydches/yuj"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 131,
-    "updated_at": "2026-10-18T17:57:33Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-10-18T17:56:31Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 134,
-    "updated_at": "2026-10-18T17:49:36Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "ARTEX \u00b7 AI autonomous penetration testing system (multi-agent LLM, Go + Next.js) \u00b7 AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf \u00b7 \u767e\u5ea6 agent+ \u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b",
-    "id": "trhhubsd/ARTEX",
-    "language": "Go",
-    "name": "trhhubsd/ARTEX",
-    "stars": 1246,
-    "updated_at": "2026-10-18T17:44:30Z",
-    "url": "https://github.com/trhhubsd/ARTEX"
-  },
-  {
-    "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
-    "id": "honestDS/MonoLight",
-    "language": "Python",
-    "name": "honestDS/MonoLight",
-    "stars": 9,
-    "updated_at": "2026-10-18T17:41:26Z",
-    "url": "https://github.com/honestDS/MonoLight"
-  },
-  {
-    "description": "Terminal-native AI coding agent with extensible TypeScript and Rust SDKs for building and orchestrating coding workflows",
-    "id": "codex-mohan/spectra",
-    "language": "TypeScript",
-    "name": "codex-mohan/spectra",
-    "stars": 1,
-    "updated_at": "2026-10-18T17:38:22Z",
-    "url": "https://github.com/codex-mohan/spectra"
   }
 ]
