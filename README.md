@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-18 21:45 UTC
+> ⏰ Last updated: 2026-10-18 22:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,28 +43,28 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 14 | Python | 2026-10-18 | Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT. |
-| 2 | [ugnmura/rcagent](https://github.com/ugnmura/rcagent) | 0 | Python | 2026-10-18 | MCP server that lets Claude investigate millions of log lines, metrics and traces in SereneDB. Every number in the answe |
-| 3 | [innerkorehq/AutonomousAgentArchitecture](https://github.com/innerkorehq/AutonomousAgentArchitecture) | 1 | Python | 2026-10-18 | Async, event-driven library of production-deployable agent algorithms over arbitrary data, with a pluggable LLM gateway  |
-| 4 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 1 | TypeScript | 2026-10-18 | Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers. |
-| 5 | [kanishka-namdeo/Unown](https://github.com/kanishka-namdeo/Unown) | 0 | TypeScript | 2026-10-18 | The Self-Improving Coding Agent |
-| 6 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-18 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
-| 7 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-10-18 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 8 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-10-18 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 9 | [b7216309-jpg/little-bot](https://github.com/b7216309-jpg/little-bot) | 0 | JavaScript | 2026-10-18 | A local-first AI companion for Windows: it remembers you, dreams over your day at night, follows up on what matters and  |
-| 10 | [yilewang/llm-for-zotero](https://github.com/yilewang/llm-for-zotero) | 3338 | TypeScript | 2026-10-18 | An open-source research agent system for your Zotero library. |
-| 11 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-10-18 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 12 | [yologdev/yoagent](https://github.com/yologdev/yoagent) | 363 | Rust | 2026-10-18 | The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done. |
-| 13 | [RalfHermsen/x4-agent](https://github.com/RalfHermsen/x4-agent) | 0 | Python | 2026-10-18 | A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com |
-| 14 | [langroid/langroid](https://github.com/langroid/langroid) | 4119 | Python | 2026-10-18 | Harness LLMs with Multi-Agent Programming |
-| 15 | [zhixuli0406/DuDuClaw](https://github.com/zhixuli0406/DuDuClaw) | 49 | Rust | 2026-10-18 | Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha |
-| 16 | [KaletoAI/anima-verse](https://github.com/KaletoAI/anima-verse) | 4 | Python | 2026-10-18 | Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system, |
-| 17 | [cohexa-ai/agent-coherence](https://github.com/cohexa-ai/agent-coherence) | 11 | Python | 2026-10-18 | The coordination layer for Multiplayer AI |
-| 18 | [SeanMason71501/Upwork-AI-jobs-applier](https://github.com/SeanMason71501/Upwork-AI-jobs-applier) | 0 | Python | 2026-10-18 | AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter |
-| 19 | [hassankonig30015/LLM_book](https://github.com/hassankonig30015/LLM_book) | 0 | Python | 2026-10-18 | 非常详细的大模型LLM的学习教程与笔记 |
-| 20 | [kostashughes43/LLM_book](https://github.com/kostashughes43/LLM_book) | 0 | Python | 2026-10-18 | 非常详细的大模型LLM的学习教程与笔记 |
-| 21 | [Sompongw636/Upwork-AI-jobs-applier](https://github.com/Sompongw636/Upwork-AI-jobs-applier) | 0 | Python | 2026-10-18 | AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter |
-| 22 | [GiuliaPersson/CodeJury](https://github.com/GiuliaPersson/CodeJury) | 0 | Python | 2026-10-18 | Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te |
-| 23 | [hsaghir/looplet](https://github.com/hsaghir/looplet) | 7 | Python | 2026-10-18 | Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change. |
+| 2 | [kanishka-namdeo/Unown](https://github.com/kanishka-namdeo/Unown) | 0 | TypeScript | 2026-10-18 | The Self-Improving Coding Agent |
+| 3 | [b7216309-jpg/little-bot](https://github.com/b7216309-jpg/little-bot) | 0 | JavaScript | 2026-10-18 | A local-first AI companion for Windows: it remembers you, dreams over your day at night, follows up on what matters and  |
+| 4 | [yologdev/yoagent](https://github.com/yologdev/yoagent) | 363 | Rust | 2026-10-18 | The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done. |
+| 5 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 1 | TypeScript | 2026-10-18 | Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers. |
+| 6 | [hsaghir/looplet](https://github.com/hsaghir/looplet) | 7 | Python | 2026-10-18 | Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change. |
+| 7 | [ugnmura/rcagent](https://github.com/ugnmura/rcagent) | 0 | Python | 2026-10-18 | MCP server that lets Claude investigate millions of log lines, metrics and traces in SereneDB. Every number in the answe |
+| 8 | [innerkorehq/AutonomousAgentArchitecture](https://github.com/innerkorehq/AutonomousAgentArchitecture) | 1 | Python | 2026-10-18 | Async, event-driven library of production-deployable agent algorithms over arbitrary data, with a pluggable LLM gateway  |
+| 9 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-18 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
+| 10 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-10-18 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 11 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-10-18 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 12 | [yilewang/llm-for-zotero](https://github.com/yilewang/llm-for-zotero) | 3338 | TypeScript | 2026-10-18 | An open-source research agent system for your Zotero library. |
+| 13 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-10-18 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
+| 14 | [RalfHermsen/x4-agent](https://github.com/RalfHermsen/x4-agent) | 0 | Python | 2026-10-18 | A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com |
+| 15 | [langroid/langroid](https://github.com/langroid/langroid) | 4119 | Python | 2026-10-18 | Harness LLMs with Multi-Agent Programming |
+| 16 | [zhixuli0406/DuDuClaw](https://github.com/zhixuli0406/DuDuClaw) | 49 | Rust | 2026-10-18 | Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha |
+| 17 | [KaletoAI/anima-verse](https://github.com/KaletoAI/anima-verse) | 4 | Python | 2026-10-18 | Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system, |
+| 18 | [cohexa-ai/agent-coherence](https://github.com/cohexa-ai/agent-coherence) | 11 | Python | 2026-10-18 | The coordination layer for Multiplayer AI |
+| 19 | [SeanMason71501/Upwork-AI-jobs-applier](https://github.com/SeanMason71501/Upwork-AI-jobs-applier) | 0 | Python | 2026-10-18 | AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter |
+| 20 | [hassankonig30015/LLM_book](https://github.com/hassankonig30015/LLM_book) | 0 | Python | 2026-10-18 | 非常详细的大模型LLM的学习教程与笔记 |
+| 21 | [kostashughes43/LLM_book](https://github.com/kostashughes43/LLM_book) | 0 | Python | 2026-10-18 | 非常详细的大模型LLM的学习教程与笔记 |
+| 22 | [Sompongw636/Upwork-AI-jobs-applier](https://github.com/Sompongw636/Upwork-AI-jobs-applier) | 0 | Python | 2026-10-18 | AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter |
+| 23 | [GiuliaPersson/CodeJury](https://github.com/GiuliaPersson/CodeJury) | 0 | Python | 2026-10-18 | Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te |
 | 24 | [ronald8306/PrivatePixelPrompt](https://github.com/ronald8306/PrivatePixelPrompt) | 0 | HTML | 2026-10-18 | PortableLM — Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe |
 | 25 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 131 | HTML | 2026-10-18 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
 | 26 | [410979729/scope-recall-hermes](https://github.com/410979729/scope-recall-hermes) | 405 | Python | 2026-10-18 | Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall, |
