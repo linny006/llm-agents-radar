@@ -1,5 +1,50 @@
 [
   {
+    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
+    "id": "hsaghir/looplet",
+    "language": "Python",
+    "name": "hsaghir/looplet",
+    "stars": 7,
+    "updated_at": "2026-10-18T23:40:39Z",
+    "url": "https://github.com/hsaghir/looplet"
+  },
+  {
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
+    "id": "bigfish1913/pi-rust",
+    "language": "Rust",
+    "name": "bigfish1913/pi-rust",
+    "stars": 116,
+    "updated_at": "2026-10-18T23:40:03Z",
+    "url": "https://github.com/bigfish1913/pi-rust"
+  },
+  {
+    "description": "A local-first AI companion for Windows: it remembers you, dreams over your day at night, follows up on what matters and ",
+    "id": "b7216309-jpg/little-bot",
+    "language": "JavaScript",
+    "name": "b7216309-jpg/little-bot",
+    "stars": 0,
+    "updated_at": "2026-10-18T23:33:25Z",
+    "url": "https://github.com/b7216309-jpg/little-bot"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-18T23:32:57Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+    "id": "BlockRunAI/Franklin",
+    "language": "TypeScript",
+    "name": "BlockRunAI/Franklin",
+    "stars": 561,
+    "updated_at": "2026-10-18T23:32:56Z",
+    "url": "https://github.com/BlockRunAI/Franklin"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -36,15 +81,6 @@
     "url": "https://github.com/plurnk/plurnk-service"
   },
   {
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
-    "id": "bigfish1913/pi-rust",
-    "language": "Rust",
-    "name": "bigfish1913/pi-rust",
-    "stars": 116,
-    "updated_at": "2026-10-18T23:20:25Z",
-    "url": "https://github.com/bigfish1913/pi-rust"
-  },
-  {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
     "id": "g761007/daily-dispatch",
     "language": "Python",
@@ -61,15 +97,6 @@
     "stars": 14,
     "updated_at": "2026-10-18T23:08:19Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-    "id": "BlockRunAI/Franklin",
-    "language": "TypeScript",
-    "name": "BlockRunAI/Franklin",
-    "stars": 561,
-    "updated_at": "2026-10-18T23:22:42Z",
-    "url": "https://github.com/BlockRunAI/Franklin"
   },
   {
     "description": "Desktop AI coding agent for Linux/Windows/macOS: an Avalonia .NET app with git-worktree isolation per session, plan revi",
@@ -113,7 +140,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-18T23:14:24Z",
+    "updated_at": "2026-10-18T23:42:30Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -133,15 +160,6 @@
     "stars": 4,
     "updated_at": "2026-10-18T22:36:57Z",
     "url": "https://github.com/KaletoAI/anima-verse"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-18T22:31:55Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.",
@@ -214,24 +232,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T22:00:16Z",
     "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
-    "description": "A local-first AI companion for Windows: it remembers you, dreams over your day at night, follows up on what matters and ",
-    "id": "b7216309-jpg/little-bot",
-    "language": "JavaScript",
-    "name": "b7216309-jpg/little-bot",
-    "stars": 0,
-    "updated_at": "2026-10-18T23:31:53Z",
-    "url": "https://github.com/b7216309-jpg/little-bot"
-  },
-  {
-    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
-    "id": "hsaghir/looplet",
-    "language": "Python",
-    "name": "hsaghir/looplet",
-    "stars": 7,
-    "updated_at": "2026-10-18T23:14:01Z",
-    "url": "https://github.com/hsaghir/looplet"
   },
   {
     "description": "MCP server that lets Claude investigate millions of log lines, metrics and traces in SereneDB. Every number in the answe",
