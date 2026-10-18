@@ -1,5 +1,50 @@
 [
   {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-18T00:26:22Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Open-source AIMO3 math reasoning agent for vLLM and OpenAI-compatible models, with Python verification and consensus vot",
+    "id": "xufenghe/aimo3-agentic-inference",
+    "language": "Python",
+    "name": "xufenghe/aimo3-agentic-inference",
+    "stars": 0,
+    "updated_at": "2026-10-18T00:26:11Z",
+    "url": "https://github.com/xufenghe/aimo3-agentic-inference"
+  },
+  {
+    "description": "CIRIS: an open-source AI assistant with a conscience you can check. Signed, auditable reasoning on every decision, a hum",
+    "id": "CIRISAI/CIRISAgent",
+    "language": "Python",
+    "name": "CIRISAI/CIRISAgent",
+    "stars": 57,
+    "updated_at": "2026-10-18T00:20:51Z",
+    "url": "https://github.com/CIRISAI/CIRISAgent"
+  },
+  {
+    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 390,
+    "updated_at": "2026-10-18T00:27:17Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 5,
+    "updated_at": "2026-10-18T00:15:44Z",
+    "url": "https://github.com/plurnk/plurnk"
+  },
+  {
     "description": "Change Control Beta \u2014 closed-loop change intelligence demo: simulated smart-home changes \u2192 labeled stories (precision-fi",
     "id": "thereven3947/data-to-decision-ai",
     "language": "Python",
@@ -54,15 +99,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 390,
-    "updated_at": "2026-10-18T00:06:09Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
     "description": "Metacognitive extension suite for Pi coding agent",
     "id": "kifirkin/pi-braid",
     "language": "JavaScript",
@@ -88,15 +124,6 @@
     "stars": 3,
     "updated_at": "2026-10-17T23:35:00Z",
     "url": "https://github.com/Kvindo/KvindoCode"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-17T23:20:36Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "Lean, extended fork of Nous Research's Hermes Agent \u2014 free model suite, connectors, and ~20 perf fixes. Upstream credite",
@@ -421,32 +448,5 @@
     "stars": 4456,
     "updated_at": "2026-10-17T21:14:08Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-17T23:57:44Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "PortableLM \u2014 Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe",
-    "id": "daiki1325/PrivatePixelPrompt",
-    "language": "HTML",
-    "name": "daiki1325/PrivatePixelPrompt",
-    "stars": 0,
-    "updated_at": "2026-10-17T21:07:48Z",
-    "url": "https://github.com/daiki1325/PrivatePixelPrompt"
-  },
-  {
-    "description": "Async, event-driven library of production-deployable agent algorithms over arbitrary data, with a pluggable LLM gateway ",
-    "id": "innerkorehq/AutonomousAgentArchitecture",
-    "language": "Python",
-    "name": "innerkorehq/AutonomousAgentArchitecture",
-    "stars": 1,
-    "updated_at": "2026-10-17T21:07:32Z",
-    "url": "https://github.com/innerkorehq/AutonomousAgentArchitecture"
   }
 ]
