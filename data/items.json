@@ -1,5 +1,86 @@
 [
   {
+    "description": "Music Agent VST3 for REAPER: editable MIDI generation, continuation, audio-to-MIDI and stem separation. Native Windows. ",
+    "id": "Aolin-MIR/triceratops-music-agent",
+    "language": "Python",
+    "name": "Aolin-MIR/triceratops-music-agent",
+    "stars": 1,
+    "updated_at": "2026-10-18T05:44:52Z",
+    "url": "https://github.com/Aolin-MIR/triceratops-music-agent"
+  },
+  {
+    "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
+    "id": "yurika0211/lucky-agent",
+    "language": "Go",
+    "name": "yurika0211/lucky-agent",
+    "stars": 15,
+    "updated_at": "2026-10-18T05:43:50Z",
+    "url": "https://github.com/yurika0211/lucky-agent"
+  },
+  {
+    "description": "Local-first long-term memory and safer context compression for Hermes Agent \u2014 SQLite, no required services.",
+    "id": "indigokarasu/chronicle-agent-context-and-memory",
+    "language": "Python",
+    "name": "indigokarasu/chronicle-agent-context-and-memory",
+    "stars": 11,
+    "updated_at": "2026-10-18T05:43:21Z",
+    "url": "https://github.com/indigokarasu/chronicle-agent-context-and-memory"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 131,
+    "updated_at": "2026-10-18T05:38:45Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-10-18T05:38:04Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Personal QQ copilot: message archive with roaming backfill, multimodal LLM agent, RAG, WebUI/CLI. Speaks the Milky proto",
+    "id": "char-46/copilot-muze",
+    "language": "Python",
+    "name": "char-46/copilot-muze",
+    "stars": 0,
+    "updated_at": "2026-10-18T05:36:16Z",
+    "url": "https://github.com/char-46/copilot-muze"
+  },
+  {
+    "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
+    "id": "weihuaguo270-ops/react-agent",
+    "language": "Python",
+    "name": "weihuaguo270-ops/react-agent",
+    "stars": 0,
+    "updated_at": "2026-10-18T05:33:38Z",
+    "url": "https://github.com/weihuaguo270-ops/react-agent"
+  },
+  {
+    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
+    "id": "Ultra-Guru/Android-Guru-Agent",
+    "language": "Kotlin",
+    "name": "Ultra-Guru/Android-Guru-Agent",
+    "stars": 11,
+    "updated_at": "2026-10-18T05:32:59Z",
+    "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
+  },
+  {
+    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
+    "id": "IAmNo1Special/mvgeos",
+    "language": "Python",
+    "name": "IAmNo1Special/mvgeos",
+    "stars": 1,
+    "updated_at": "2026-10-18T05:30:31Z",
+    "url": "https://github.com/IAmNo1Special/mvgeos"
+  },
+  {
     "description": "Python LLM-RAG deep agent using LangChain, LangGraph and LangSmith built on Quart web microframework and served using Hy",
     "id": "khteh/rag-agent",
     "language": "Python",
@@ -16,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T05:28:50Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
-    "id": "IAmNo1Special/mvgeos",
-    "language": "Python",
-    "name": "IAmNo1Special/mvgeos",
-    "stars": 1,
-    "updated_at": "2026-10-18T05:27:18Z",
-    "url": "https://github.com/IAmNo1Special/mvgeos"
   },
   {
     "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
@@ -54,15 +126,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
-    "id": "Ultra-Guru/Android-Guru-Agent",
-    "language": "Kotlin",
-    "name": "Ultra-Guru/Android-Guru-Agent",
-    "stars": 11,
-    "updated_at": "2026-10-18T05:29:25Z",
-    "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
-  },
-  {
     "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
     "id": "410979729/scope-recall-hermes",
     "language": "Python",
@@ -90,15 +153,6 @@
     "url": "https://github.com/kangwoo/aimon-core"
   },
   {
-    "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
-    "id": "yurika0211/lucky-agent",
-    "language": "Go",
-    "name": "yurika0211/lucky-agent",
-    "stars": 15,
-    "updated_at": "2026-10-18T05:28:06Z",
-    "url": "https://github.com/yurika0211/lucky-agent"
-  },
-  {
     "description": "Open-source AI coding agent for your terminal that you can undo, even its shell commands. 250+ models, /taste for AI-slo",
     "id": "AmerSarhan/darce-cli",
     "language": "TypeScript",
@@ -122,7 +176,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-18T05:21:52Z",
+    "updated_at": "2026-10-18T05:31:27Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -171,15 +225,6 @@
     "url": "https://github.com/Wenyan0315/facta"
   },
   {
-    "description": "Personal QQ copilot: message archive with roaming backfill, multimodal LLM agent, RAG, WebUI/CLI. Speaks the Milky proto",
-    "id": "char-46/copilot-muze",
-    "language": "Python",
-    "name": "char-46/copilot-muze",
-    "stars": 0,
-    "updated_at": "2026-10-18T05:02:18Z",
-    "url": "https://github.com/char-46/copilot-muze"
-  },
-  {
     "description": "DeckSmith: an AI agent that builds PowerPoint decks from governed data, runnable end to end on a laptop with a Databrick",
     "id": "santoshshinde2012/deck-smith-local",
     "language": "Python",
@@ -205,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T04:55:47Z",
     "url": "https://github.com/GiuliaFedorov/taracode"
-  },
-  {
-    "description": "Music Agent VST3 for REAPER: editable MIDI generation, continuation, audio-to-MIDI and stem separation. Native Windows. ",
-    "id": "Aolin-MIR/triceratops-music-agent",
-    "language": "Python",
-    "name": "Aolin-MIR/triceratops-music-agent",
-    "stars": 1,
-    "updated_at": "2026-10-18T04:46:23Z",
-    "url": "https://github.com/Aolin-MIR/triceratops-music-agent"
   },
   {
     "description": "Hermes Agent on Termux (Android): one-command install from prebuilt, checksum-verified Python wheels. No compiling on yo",
@@ -356,7 +392,7 @@
     "language": "Python",
     "name": "hsaghir/looplet",
     "stars": 7,
-    "updated_at": "2026-10-18T04:53:02Z",
+    "updated_at": "2026-10-18T05:40:52Z",
     "url": "https://github.com/hsaghir/looplet"
   },
   {
@@ -400,7 +436,7 @@
     "id": "lusipad/browser-agent",
     "language": "TypeScript",
     "name": "lusipad/browser-agent",
-    "stars": 3,
+    "stars": 4,
     "updated_at": "2026-10-18T02:06:05Z",
     "url": "https://github.com/lusipad/browser-agent"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T01:59:04Z",
     "url": "https://github.com/giridhar1103/NYCynapse.Ai"
-  },
-  {
-    "description": "Change Control Beta \u2014 closed-loop change intelligence demo: simulated smart-home changes \u2192 labeled stories (precision-fi",
-    "id": "thereven3947/data-to-decision-ai",
-    "language": "Python",
-    "name": "thereven3947/data-to-decision-ai",
-    "stars": 0,
-    "updated_at": "2026-10-18T01:51:03Z",
-    "url": "https://github.com/thereven3947/data-to-decision-ai"
-  },
-  {
-    "description": "Luann (fka TypeAgent) allows you to create many LLM based agent(Various types of agent,scale up)",
-    "id": "PirateforFreedom/luann",
-    "language": "Python",
-    "name": "PirateforFreedom/luann",
-    "stars": 24,
-    "updated_at": "2026-10-18T01:40:17Z",
-    "url": "https://github.com/PirateforFreedom/luann"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 803,
-    "updated_at": "2026-10-18T01:35:07Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
-    "id": "xiongweilin/agent-skills",
-    "language": "PowerShell",
-    "name": "xiongweilin/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-18T01:22:16Z",
-    "url": "https://github.com/xiongweilin/agent-skills"
   }
 ]
