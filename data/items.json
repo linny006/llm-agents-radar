@@ -1,21 +1,57 @@
 [
   {
-    "description": "DeckSmith: an AI agent that builds PowerPoint decks from governed data, runnable end to end on a laptop with a Databrick",
-    "id": "santoshshinde2012/deck-smith-local",
-    "language": "Python",
-    "name": "santoshshinde2012/deck-smith-local",
-    "stars": 0,
-    "updated_at": "2026-10-18T05:00:02Z",
-    "url": "https://github.com/santoshshinde2012/deck-smith-local"
-  },
-  {
     "description": "Python LLM-RAG deep agent using LangChain, LangGraph and LangSmith built on Quart web microframework and served using Hy",
     "id": "khteh/rag-agent",
     "language": "Python",
     "name": "khteh/rag-agent",
     "stars": 8,
-    "updated_at": "2026-10-18T04:59:24Z",
+    "updated_at": "2026-10-18T05:05:47Z",
     "url": "https://github.com/khteh/rag-agent"
+  },
+  {
+    "description": "Personal AI agent built from scratch \u2014 LLM layer, RAG knowledge base, tool calling loop. No frameworks, learn by buildin",
+    "id": "Wenyan0315/facta",
+    "language": "Python",
+    "name": "Wenyan0315/facta",
+    "stars": 1,
+    "updated_at": "2026-10-18T05:06:19Z",
+    "url": "https://github.com/Wenyan0315/facta"
+  },
+  {
+    "description": "PortableLM \u2014 Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe",
+    "id": "Giuseppe243/PrivatePixelPrompt",
+    "language": "CSS",
+    "name": "Giuseppe243/PrivatePixelPrompt",
+    "stars": 0,
+    "updated_at": "2026-10-18T05:06:34Z",
+    "url": "https://github.com/Giuseppe243/PrivatePixelPrompt"
+  },
+  {
+    "description": "Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by ",
+    "id": "panagiotismorozov/DM-Code-Agent",
+    "language": "Python",
+    "name": "panagiotismorozov/DM-Code-Agent",
+    "stars": 0,
+    "updated_at": "2026-10-18T05:06:33Z",
+    "url": "https://github.com/panagiotismorozov/DM-Code-Agent"
+  },
+  {
+    "description": "Personal QQ copilot: message archive with roaming backfill, multimodal LLM agent, RAG, WebUI/CLI. Speaks the Milky proto",
+    "id": "char-46/copilot-muze",
+    "language": "Python",
+    "name": "char-46/copilot-muze",
+    "stars": 0,
+    "updated_at": "2026-10-18T05:02:18Z",
+    "url": "https://github.com/char-46/copilot-muze"
+  },
+  {
+    "description": "DeckSmith: an AI agent that builds PowerPoint decks from governed data, runnable end to end on a laptop with a Databrick",
+    "id": "santoshshinde2012/deck-smith-local",
+    "language": "Python",
+    "name": "santoshshinde2012/deck-smith-local",
+    "stars": 0,
+    "updated_at": "2026-10-18T05:00:18Z",
+    "url": "https://github.com/santoshshinde2012/deck-smith-local"
   },
   {
     "description": "Lean, extended fork of Nous Research's Hermes Agent \u2014 free model suite, connectors, and ~20 perf fixes. Upstream credite",
@@ -41,7 +77,7 @@
     "language": "Python",
     "name": "IAmNo1Special/mvgeos",
     "stars": 1,
-    "updated_at": "2026-10-18T04:52:56Z",
+    "updated_at": "2026-10-18T05:04:54Z",
     "url": "https://github.com/IAmNo1Special/mvgeos"
   },
   {
@@ -104,7 +140,7 @@
     "language": "Kotlin",
     "name": "Ultra-Guru/Android-Guru-Agent",
     "stars": 11,
-    "updated_at": "2026-10-18T04:58:35Z",
+    "updated_at": "2026-10-18T05:03:58Z",
     "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 134,
     "updated_at": "2026-10-18T00:38:37Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "The LLM Anti-Framework",
-    "id": "Mirascope/mirascope",
-    "language": "Python",
-    "name": "Mirascope/mirascope",
-    "stars": 1533,
-    "updated_at": "2026-10-18T00:36:56Z",
-    "url": "https://github.com/Mirascope/mirascope"
-  },
-  {
-    "description": "Open-source AIMO3 math reasoning agent for vLLM and OpenAI-compatible models, with Python verification and consensus vot",
-    "id": "xufenghe/aimo3-agentic-inference",
-    "language": "Python",
-    "name": "xufenghe/aimo3-agentic-inference",
-    "stars": 0,
-    "updated_at": "2026-10-18T00:26:11Z",
-    "url": "https://github.com/xufenghe/aimo3-agentic-inference"
-  },
-  {
-    "description": "CIRIS: an open-source AI assistant with a conscience you can check. Signed, auditable reasoning on every decision, a hum",
-    "id": "CIRISAI/CIRISAgent",
-    "language": "Python",
-    "name": "CIRISAI/CIRISAgent",
-    "stars": 57,
-    "updated_at": "2026-10-18T01:22:35Z",
-    "url": "https://github.com/CIRISAI/CIRISAgent"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 1189,
-    "updated_at": "2026-10-17T23:58:42Z",
-    "url": "https://github.com/ongridio/ongrid"
   }
 ]
