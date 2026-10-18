@@ -1,5 +1,32 @@
 [
   {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-18T22:38:48Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
+    "id": "KaletoAI/anima-verse",
+    "language": "Python",
+    "name": "KaletoAI/anima-verse",
+    "stars": 4,
+    "updated_at": "2026-10-18T22:36:57Z",
+    "url": "https://github.com/KaletoAI/anima-verse"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-18T22:31:55Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
     "description": "Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.",
     "id": "letta-ai/letta",
     "language": "\u2014",
@@ -9,21 +36,12 @@
     "url": "https://github.com/letta-ai/letta"
   },
   {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-18T22:27:45Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
     "id": "410979729/scope-recall-hermes",
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 405,
-    "updated_at": "2026-10-18T22:26:45Z",
+    "updated_at": "2026-10-18T22:31:31Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
@@ -68,7 +86,7 @@
     "language": "Python",
     "name": "innerkorehq/AutonomousAgentArchitecture",
     "stars": 1,
-    "updated_at": "2026-10-18T22:13:58Z",
+    "updated_at": "2026-10-18T22:31:03Z",
     "url": "https://github.com/innerkorehq/AutonomousAgentArchitecture"
   },
   {
@@ -126,15 +144,6 @@
     "url": "https://github.com/ugnmura/rcagent"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-18T21:30:53Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -180,21 +189,12 @@
     "url": "https://github.com/RalfHermsen/x4-agent"
   },
   {
-    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
-    "id": "KaletoAI/anima-verse",
-    "language": "Python",
-    "name": "KaletoAI/anima-verse",
-    "stars": 4,
-    "updated_at": "2026-10-18T20:51:22Z",
-    "url": "https://github.com/KaletoAI/anima-verse"
-  },
-  {
     "description": "The coordination layer for Multiplayer AI",
     "id": "cohexa-ai/agent-coherence",
     "language": "Python",
     "name": "cohexa-ai/agent-coherence",
     "stars": 11,
-    "updated_at": "2026-10-18T20:51:22Z",
+    "updated_at": "2026-10-18T22:45:11Z",
     "url": "https://github.com/cohexa-ai/agent-coherence"
   },
   {
