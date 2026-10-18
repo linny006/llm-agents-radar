@@ -1,5 +1,59 @@
 [
   {
+    "description": "Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.",
+    "id": "letta-ai/letta",
+    "language": "\u2014",
+    "name": "letta-ai/letta",
+    "stars": 25184,
+    "updated_at": "2026-10-18T22:28:04Z",
+    "url": "https://github.com/letta-ai/letta"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-18T22:27:45Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 405,
+    "updated_at": "2026-10-18T22:26:45Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 14,
+    "updated_at": "2026-10-18T22:26:40Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Harness LLMs with Multi-Agent Programming",
+    "id": "langroid/langroid",
+    "language": "Python",
+    "name": "langroid/langroid",
+    "stars": 4119,
+    "updated_at": "2026-10-18T22:22:46Z",
+    "url": "https://github.com/langroid/langroid"
+  },
+  {
+    "description": "Turn any repository URL into a complete, fact-verified GitHub Wiki. An LLM-agent skill: clone, inventory, RUN and probe ",
+    "id": "paulmann/github-wiki-llm-writer",
+    "language": "Python",
+    "name": "paulmann/github-wiki-llm-writer",
+    "stars": 0,
+    "updated_at": "2026-10-18T22:20:13Z",
+    "url": "https://github.com/paulmann/github-wiki-llm-writer"
+  },
+  {
     "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
     "id": "yologdev/yoagent",
     "language": "Rust",
@@ -36,15 +90,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-18T22:02:23Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "The Self-Improving Coding Agent",
     "id": "kanishka-namdeo/Unown",
     "language": "TypeScript",
@@ -52,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T22:00:16Z",
     "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 14,
-    "updated_at": "2026-10-18T21:59:08Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "A local-first AI companion for Windows: it remembers you, dreams over your day at night, follows up on what matters and ",
@@ -85,7 +121,7 @@
     "id": "ugnmura/rcagent",
     "language": "Python",
     "name": "ugnmura/rcagent",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-10-18T21:43:24Z",
     "url": "https://github.com/ugnmura/rcagent"
   },
@@ -142,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T21:07:11Z",
     "url": "https://github.com/RalfHermsen/x4-agent"
-  },
-  {
-    "description": "Harness LLMs with Multi-Agent Programming",
-    "id": "langroid/langroid",
-    "language": "Python",
-    "name": "langroid/langroid",
-    "stars": 4119,
-    "updated_at": "2026-10-18T21:04:54Z",
-    "url": "https://github.com/langroid/langroid"
   },
   {
     "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
@@ -232,15 +259,6 @@
     "stars": 131,
     "updated_at": "2026-10-18T20:30:46Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 405,
-    "updated_at": "2026-10-18T22:12:33Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -392,7 +410,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-18T22:01:58Z",
+    "updated_at": "2026-10-18T22:22:00Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T19:38:55Z",
     "url": "https://github.com/teresafontaine95950/DM-Code-Agent"
-  },
-  {
-    "description": "Change Control Beta \u2014 closed-loop change intelligence demo: simulated smart-home changes \u2192 labeled stories (precision-fi",
-    "id": "thereven3947/data-to-decision-ai",
-    "language": "Python",
-    "name": "thereven3947/data-to-decision-ai",
-    "stars": 0,
-    "updated_at": "2026-10-18T19:36:43Z",
-    "url": "https://github.com/thereven3947/data-to-decision-ai"
-  },
-  {
-    "description": "Court Vision \u2014 AI-\u0430\u0441\u0441\u0438\u0441\u0442\u0435\u043d\u0442 \u0431\u0430\u0441\u043a\u0435\u0442\u0431\u043e\u043b\u044c\u043d\u043e\u0433\u043e \u0441\u043a\u0430\u0443\u0442\u0430. LLM-\u0430\u0433\u0435\u043d\u0442 \u0441 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u0430\u043c\u0438 \u043f\u043e\u0432\u0435\u0440\u0445 \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0438 NBA + RAG \u043f\u043e Wikipedia \u0438 ",
-    "id": "delawer33/pickroll",
-    "language": "Python",
-    "name": "delawer33/pickroll",
-    "stars": 0,
-    "updated_at": "2026-10-18T19:35:59Z",
-    "url": "https://github.com/delawer33/pickroll"
   }
 ]
