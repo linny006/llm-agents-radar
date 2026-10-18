@@ -1,5 +1,23 @@
 [
   {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 1189,
+    "updated_at": "2026-10-17T23:58:42Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "Hermes Agent on Termux (Android): one-command install from prebuilt, checksum-verified Python wheels. No compiling on yo",
+    "id": "bd-loser/hermes-bionic",
+    "language": "C++",
+    "name": "bd-loser/hermes-bionic",
+    "stars": 1,
+    "updated_at": "2026-10-17T23:55:50Z",
+    "url": "https://github.com/bd-loser/hermes-bionic"
+  },
+  {
     "description": "Change Control Beta \u2014 closed-loop change intelligence demo: simulated smart-home changes \u2192 labeled stories (precision-fi",
     "id": "thereven3947/data-to-decision-ai",
     "language": "Python",
@@ -95,7 +113,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-17T23:31:36Z",
+    "updated_at": "2026-10-17T23:57:16Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -387,15 +405,6 @@
     "url": "https://github.com/deryaleone/DM-Code-Agent"
   },
   {
-    "description": "Hermes Agent on Termux (Android): one-command install from prebuilt, checksum-verified Python wheels. No compiling on yo",
-    "id": "bd-loser/hermes-bionic",
-    "language": "Shell",
-    "name": "bd-loser/hermes-bionic",
-    "stars": 1,
-    "updated_at": "2026-10-17T21:19:31Z",
-    "url": "https://github.com/bd-loser/hermes-bionic"
-  },
-  {
     "description": "AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter",
     "id": "RichardOrtiz8833/Upwork-AI-jobs-applier",
     "language": "Python",
@@ -419,7 +428,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-17T21:10:12Z",
+    "updated_at": "2026-10-17T23:57:44Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-17T21:07:32Z",
     "url": "https://github.com/innerkorehq/AutonomousAgentArchitecture"
-  },
-  {
-    "description": "[WIP] Court Vision \u2014 AI-\u0430\u0441\u0441\u0438\u0441\u0442\u0435\u043d\u0442 \u0431\u0430\u0441\u043a\u0435\u0442\u0431\u043e\u043b\u044c\u043d\u043e\u0433\u043e \u0441\u043a\u0430\u0443\u0442\u0430. LLM-\u0430\u0433\u0435\u043d\u0442 \u0441 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u0430\u043c\u0438 \u043f\u043e\u0432\u0435\u0440\u0445 \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0438 NBA + RAG \u043f\u043e Wikipe",
-    "id": "delawer33/pickroll",
-    "language": "Python",
-    "name": "delawer33/pickroll",
-    "stars": 0,
-    "updated_at": "2026-10-17T20:41:09Z",
-    "url": "https://github.com/delawer33/pickroll"
   }
 ]
