@@ -1,5 +1,68 @@
 [
   {
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
+    "id": "bigfish1913/pi-rust",
+    "language": "Rust",
+    "name": "bigfish1913/pi-rust",
+    "stars": 112,
+    "updated_at": "2026-10-18T00:58:44Z",
+    "url": "https://github.com/bigfish1913/pi-rust"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-10-18T00:56:53Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Metacognitive extension suite for Pi coding agent",
+    "id": "kifirkin/pi-braid",
+    "language": "JavaScript",
+    "name": "kifirkin/pi-braid",
+    "stars": 1,
+    "updated_at": "2026-10-18T00:56:05Z",
+    "url": "https://github.com/kifirkin/pi-braid"
+  },
+  {
+    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
+    "id": "alexwkleung/reika",
+    "language": "TypeScript",
+    "name": "alexwkleung/reika",
+    "stars": 11,
+    "updated_at": "2026-10-18T00:56:04Z",
+    "url": "https://github.com/alexwkleung/reika"
+  },
+  {
+    "description": "A guide to New York City you can ask anything: an agent that answers from a live NYC lakehouse first, then city feeds an",
+    "id": "giridhar1103/NYCynapse.Ai",
+    "language": "Python",
+    "name": "giridhar1103/NYCynapse.Ai",
+    "stars": 0,
+    "updated_at": "2026-10-18T00:48:14Z",
+    "url": "https://github.com/giridhar1103/NYCynapse.Ai"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 131,
+    "updated_at": "2026-10-18T00:47:22Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-10-18T00:46:47Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "\u9002\u7528\u4e8e Claude Code \u548c Codex \u7684\u6c42\u804c Skill\uff1a\u67e5\u627e\u5c97\u4f4d\u3001\u5224\u65ad\u662f\u5426\u503c\u5f97\u6295\u9012\u3001\u5236\u4f5c\u7b80\u5386\u4e0e\u7533\u8bf7\u6750\u6599\u3001\u68c0\u9a8c\u7533\u8bf7\u6750\u6599\u5e76\u6a21\u62df\u9762\u8bd5\u3002\u4e0d\u7f16\u9020\u6280\u80fd\u6216\u4e1a\u7ee9\u6570\u5b57\uff0c\u4e0d\u9884\u6d4b\u5f55\u7528\u6982\u7387\uff1b\u68c0\u67e5\u7b80\u5386\u662f\u5426\u4fbf\u4e8e\u62db\u8058\u7ba1\u7406\u7cfb\u7edf\uff08ATS\uff09\u8bfb\u53d6\uff0c\u5e76\u4ece\u62db\u8058\u4eba\u5458\u548c\u7528\u4eba",
     "id": "addsumtech/job-hunt",
     "language": "Python",
@@ -50,7 +113,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-18T00:31:45Z",
+    "updated_at": "2026-10-18T00:48:17Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -95,7 +158,7 @@
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 390,
-    "updated_at": "2026-10-18T00:27:17Z",
+    "updated_at": "2026-10-18T00:51:44Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
@@ -142,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T23:42:03Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Metacognitive extension suite for Pi coding agent",
-    "id": "kifirkin/pi-braid",
-    "language": "JavaScript",
-    "name": "kifirkin/pi-braid",
-    "stars": 1,
-    "updated_at": "2026-10-17T23:38:45Z",
-    "url": "https://github.com/kifirkin/pi-braid"
   },
   {
     "description": "Keeps the rules and skills in a Claude Code setup from piling up and going stale: a Claude Code plugin of audit and upke",
@@ -205,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T23:09:44Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-10-17T23:05:44Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
@@ -306,24 +351,6 @@
     "url": "https://github.com/thwang92/DM-Code-Agent"
   },
   {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 131,
-    "updated_at": "2026-10-17T22:07:52Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-10-17T22:06:41Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter",
     "id": "bartoszgeorgiou188/Upwork-AI-jobs-applier",
     "language": "Python",
@@ -365,7 +392,7 @@
     "language": "Python",
     "name": "hsaghir/looplet",
     "stars": 7,
-    "updated_at": "2026-10-17T22:08:38Z",
+    "updated_at": "2026-10-18T00:50:26Z",
     "url": "https://github.com/hsaghir/looplet"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T21:28:36Z",
     "url": "https://github.com/Raymondk89426/RedteamAgent"
-  },
-  {
-    "description": "\u975e\u5e38\u8be6\u7ec6\u7684\u5927\u6a21\u578bLLM\u7684\u5b66\u4e60\u6559\u7a0b\u4e0e\u7b14\u8bb0",
-    "id": "thaok5845/LLM_book",
-    "language": "Python",
-    "name": "thaok5845/LLM_book",
-    "stars": 0,
-    "updated_at": "2026-10-17T21:28:12Z",
-    "url": "https://github.com/thaok5845/LLM_book"
-  },
-  {
-    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
-    "id": "sharonsato268/CodeJury",
-    "language": "Python",
-    "name": "sharonsato268/CodeJury",
-    "stars": 0,
-    "updated_at": "2026-10-17T21:25:58Z",
-    "url": "https://github.com/sharonsato268/CodeJury"
-  },
-  {
-    "description": "Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by ",
-    "id": "deryaleone/DM-Code-Agent",
-    "language": "Python",
-    "name": "deryaleone/DM-Code-Agent",
-    "stars": 0,
-    "updated_at": "2026-10-17T21:21:33Z",
-    "url": "https://github.com/deryaleone/DM-Code-Agent"
   }
 ]
