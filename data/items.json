@@ -1,11 +1,74 @@
 [
   {
+    "description": "PortableLM \u2014 Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe",
+    "id": "LauraShukla62429/PrivatePixelPrompt",
+    "language": "\u2014",
+    "name": "LauraShukla62429/PrivatePixelPrompt",
+    "stars": 0,
+    "updated_at": "2026-10-18T06:44:57Z",
+    "url": "https://github.com/LauraShukla62429/PrivatePixelPrompt"
+  },
+  {
+    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-18T06:44:47Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-18T06:44:29Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 6,
+    "updated_at": "2026-10-18T06:41:22Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
+    "id": "Ultra-Guru/Android-Guru-Agent",
+    "language": "Kotlin",
+    "name": "Ultra-Guru/Android-Guru-Agent",
+    "stars": 11,
+    "updated_at": "2026-10-18T06:41:13Z",
+    "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 5,
+    "updated_at": "2026-10-18T06:36:00Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Metacognitive extension suite for Pi coding agent",
+    "id": "kifirkin/pi-braid",
+    "language": "JavaScript",
+    "name": "kifirkin/pi-braid",
+    "stars": 1,
+    "updated_at": "2026-10-18T06:32:13Z",
+    "url": "https://github.com/kifirkin/pi-braid"
+  },
+  {
     "description": "Music Agent VST3 for REAPER: editable MIDI generation, continuation, audio-to-MIDI and stem separation. Native Windows. ",
     "id": "Aolin-MIR/triceratops-music-agent",
     "language": "Python",
     "name": "Aolin-MIR/triceratops-music-agent",
     "stars": 1,
-    "updated_at": "2026-10-18T06:28:54Z",
+    "updated_at": "2026-10-18T06:32:58Z",
     "url": "https://github.com/Aolin-MIR/triceratops-music-agent"
   },
   {
@@ -45,15 +108,6 @@
     "url": "https://github.com/bd-loser/hermes-bionic"
   },
   {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-18T06:17:20Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
     "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
@@ -77,7 +131,7 @@
     "language": "Rust",
     "name": "eshanized/M31A",
     "stars": 10,
-    "updated_at": "2026-10-18T06:25:51Z",
+    "updated_at": "2026-10-18T06:45:08Z",
     "url": "https://github.com/eshanized/M31A"
   },
   {
@@ -90,21 +144,12 @@
     "url": "https://github.com/ximing/vital"
   },
   {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 6,
-    "updated_at": "2026-10-18T06:08:37Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 15,
-    "updated_at": "2026-10-18T06:03:20Z",
+    "updated_at": "2026-10-18T06:39:29Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -151,15 +196,6 @@
     "stars": 392,
     "updated_at": "2026-10-18T05:52:26Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
-    "id": "Ultra-Guru/Android-Guru-Agent",
-    "language": "Kotlin",
-    "name": "Ultra-Guru/Android-Guru-Agent",
-    "stars": 11,
-    "updated_at": "2026-10-18T06:29:05Z",
-    "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
   },
   {
     "description": "A game-agnostic LLM agent runtime for autonomous NPCs, with Stardew Valley as the first real-world adapter.",
@@ -248,7 +284,7 @@
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 219,
-    "updated_at": "2026-10-18T06:11:37Z",
+    "updated_at": "2026-10-18T06:30:25Z",
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
@@ -275,7 +311,7 @@
     "language": "Java",
     "name": "kangwoo/aimon-core",
     "stars": 0,
-    "updated_at": "2026-10-18T05:23:00Z",
+    "updated_at": "2026-10-18T06:37:33Z",
     "url": "https://github.com/kangwoo/aimon-core"
   },
   {
@@ -286,15 +322,6 @@
     "stars": 11,
     "updated_at": "2026-10-18T05:29:15Z",
     "url": "https://github.com/AmerSarhan/darce-cli"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 5,
-    "updated_at": "2026-10-18T05:50:00Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
@@ -378,6 +405,15 @@
     "url": "https://github.com/sydches/yuj"
   },
   {
+    "description": "A multi-agent research system for the humanities and social sciences.",
+    "id": "Luciole-Studio/Misaka-Agent",
+    "language": "Python",
+    "name": "Luciole-Studio/Misaka-Agent",
+    "stars": 222,
+    "updated_at": "2026-10-18T04:31:36Z",
+    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
+  },
+  {
     "description": "Self-hosted AI execution agent for Discord: runs shell commands and edits files on your hosts, drives browsers, schedule",
     "id": "Calmingstorm/Odin",
     "language": "Python",
@@ -391,7 +427,7 @@
     "id": "Soodok/Deepseek-Harness-Local-Android",
     "language": "Kotlin",
     "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 277,
+    "stars": 278,
     "updated_at": "2026-10-18T04:20:27Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
@@ -412,41 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-18T04:13:03Z",
     "url": "https://github.com/plurnk/plurnk"
-  },
-  {
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
-    "id": "bigfish1913/pi-rust",
-    "language": "Rust",
-    "name": "bigfish1913/pi-rust",
-    "stars": 113,
-    "updated_at": "2026-10-18T04:06:08Z",
-    "url": "https://github.com/bigfish1913/pi-rust"
-  },
-  {
-    "description": "\u4fe1\u606f\u91c7\u96c6\u88c5\u7f6e\u667a\u80fd\u8fd0\u7ef4 Agent \u7cfb\u7edf\uff1a\u7528 OpenSpec \u89c4\u683c\u9a71\u52a8\uff0c\u4ece\u544a\u8b66\u63a5\u5165\u5230\u8bca\u65ad\u62a5\u544a\u7684\u5b8c\u6574\u94fe\u8def\u3002",
-    "id": "hl7321/aiops-agent-reproduction",
-    "language": "Python",
-    "name": "hl7321/aiops-agent-reproduction",
-    "stars": 1,
-    "updated_at": "2026-10-18T04:01:05Z",
-    "url": "https://github.com/hl7321/aiops-agent-reproduction"
-  },
-  {
-    "description": "Metacognitive extension suite for Pi coding agent",
-    "id": "kifirkin/pi-braid",
-    "language": "JavaScript",
-    "name": "kifirkin/pi-braid",
-    "stars": 1,
-    "updated_at": "2026-10-18T04:00:38Z",
-    "url": "https://github.com/kifirkin/pi-braid"
-  },
-  {
-    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-18T03:50:01Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
   }
 ]
