@@ -1,5 +1,95 @@
 [
   {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:29:52Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-10-18T20:29:13Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "PortableLM \u2014 Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe",
+    "id": "DouglasChavez/PrivatePixelPrompt",
+    "language": "HTML",
+    "name": "DouglasChavez/PrivatePixelPrompt",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:29:08Z",
+    "url": "https://github.com/DouglasChavez/PrivatePixelPrompt"
+  },
+  {
+    "description": "DevOps & Cloud SI Assistant that runs locally on taraengine for complete privacy.",
+    "id": "tara-vision/taracode",
+    "language": "Go",
+    "name": "tara-vision/taracode",
+    "stars": 51,
+    "updated_at": "2026-10-18T20:28:31Z",
+    "url": "https://github.com/tara-vision/taracode"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 14,
+    "updated_at": "2026-10-18T20:30:06Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "\u975e\u5e38\u8be6\u7ec6\u7684\u5927\u6a21\u578bLLM\u7684\u5b66\u4e60\u6559\u7a0b\u4e0e\u7b14\u8bb0",
+    "id": "burak8351/LLM_book",
+    "language": "Python",
+    "name": "burak8351/LLM_book",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:26:09Z",
+    "url": "https://github.com/burak8351/LLM_book"
+  },
+  {
+    "description": "Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by ",
+    "id": "ngoctrinh03837/DM-Code-Agent",
+    "language": "Python",
+    "name": "ngoctrinh03837/DM-Code-Agent",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:25:32Z",
+    "url": "https://github.com/ngoctrinh03837/DM-Code-Agent"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:20:50Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Educational proof of concept, not investment advice: Python and LangGraph agent analysing a fixed watchlist of US stocks",
+    "id": "DominikSienkiewicz/StockAgent",
+    "language": "Python",
+    "name": "DominikSienkiewicz/StockAgent",
+    "stars": 1,
+    "updated_at": "2026-10-18T20:20:42Z",
+    "url": "https://github.com/DominikSienkiewicz/StockAgent"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-18T20:20:19Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
     "description": "Minimal surface, complete architecture: a small, local-first coding-agent harness that re-derives the invariants of Deep",
     "id": "earthwalker17/MiniDSH",
     "language": "TypeScript",
@@ -16,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T20:12:35Z",
     "url": "https://github.com/gonzalez7707/Upwork-AI-jobs-applier"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-18T20:08:06Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "\u975e\u5e38\u8be6\u7ec6\u7684\u5927\u6a21\u578bLLM\u7684\u5b66\u4e60\u6559\u7a0b\u4e0e\u7b14\u8bb0",
@@ -113,7 +194,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-18T19:59:58Z",
+    "updated_at": "2026-10-18T20:15:20Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -180,15 +261,6 @@
     "url": "https://github.com/kavyakimura116/CodeJury"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-18T19:28:45Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
     "id": "sindredg/ai-security-platform",
     "language": "HCL",
@@ -196,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T19:36:04Z",
     "url": "https://github.com/sindredg/ai-security-platform"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 14,
-    "updated_at": "2026-10-18T20:12:59Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "\u975e\u5e38\u8be6\u7ec6\u7684\u5927\u6a21\u578bLLM\u7684\u5b66\u4e60\u6559\u7a0b\u4e0e\u7b14\u8bb0",
@@ -385,68 +448,5 @@
     "stars": 6278,
     "updated_at": "2026-10-18T18:43:30Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-18T20:00:10Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "\u300a\u5d29\u574f\uff1a\u661f\u7a79\u94c1\u9053\u300b\u6218\u6597\u95ee\u9898\u7684\u53ef\u590d\u73b0\u6c42\u89e3\u73af\u5883\u2014\u2014\u4ee5\u9ad8\u4fdd\u771f\u786e\u5b9a\u6027\u6a21\u62df\u4e3a\u88c1\u51b3\uff0c\u628a\u6218\u6597\u7814\u7a76\u53d8\u6210\u53ef\u9a8c\u8bc1\u3001\u53ef\u590d\u73b0\u3001\u53ef\u641c\u7d22\u7684\u5b9e\u9a8c\u95ee\u9898\uff1b\u4e0a\u5c42\u4e3a\u8bb0\u5fc6\u9a71\u52a8\u7684 autoresearch agent \u63a2\u7d22\u5faa\u73af\uff08\u5f00\u53d1\u4e2d\uff09\u3002",
-    "id": "pzc2004/HSR_Nous",
-    "language": "Python",
-    "name": "pzc2004/HSR_Nous",
-    "stars": 11,
-    "updated_at": "2026-10-18T18:29:24Z",
-    "url": "https://github.com/pzc2004/HSR_Nous"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 804,
-    "updated_at": "2026-10-18T19:23:00Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "AI-orchestrated job search pipeline: scrapes 5 UA job boards, uses Claude API to score matches & classify emails, writes",
-    "id": "VoroshylovV/job-search-automation-pipeline",
-    "language": "Python",
-    "name": "VoroshylovV/job-search-automation-pipeline",
-    "stars": 2,
-    "updated_at": "2026-10-18T18:16:14Z",
-    "url": "https://github.com/VoroshylovV/job-search-automation-pipeline"
-  },
-  {
-    "description": "Educational proof of concept, not investment advice: Python and LangGraph agent analysing a fixed watchlist of US stocks",
-    "id": "DominikSienkiewicz/StockAgent",
-    "language": "Python",
-    "name": "DominikSienkiewicz/StockAgent",
-    "stars": 1,
-    "updated_at": "2026-10-18T18:11:43Z",
-    "url": "https://github.com/DominikSienkiewicz/StockAgent"
-  },
-  {
-    "description": "Harness LLMs with Multi-Agent Programming",
-    "id": "langroid/langroid",
-    "language": "Python",
-    "name": "langroid/langroid",
-    "stars": 4119,
-    "updated_at": "2026-10-18T18:07:49Z",
-    "url": "https://github.com/langroid/langroid"
-  },
-  {
-    "description": "Async, event-driven library of production-deployable agent algorithms over arbitrary data, with a pluggable LLM gateway ",
-    "id": "innerkorehq/AutonomousAgentArchitecture",
-    "language": "Python",
-    "name": "innerkorehq/AutonomousAgentArchitecture",
-    "stars": 1,
-    "updated_at": "2026-10-18T18:12:42Z",
-    "url": "https://github.com/innerkorehq/AutonomousAgentArchitecture"
   }
 ]
