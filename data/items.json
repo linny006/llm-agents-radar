@@ -1,5 +1,50 @@
 [
   {
+    "description": "DevOps & Cloud SI Assistant that runs locally on taraengine for complete privacy.",
+    "id": "tara-vision/taracode",
+    "language": "Go",
+    "name": "tara-vision/taracode",
+    "stars": 51,
+    "updated_at": "2026-10-18T17:12:45Z",
+    "url": "https://github.com/tara-vision/taracode"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-18T17:11:48Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 49,
+    "updated_at": "2026-10-18T17:06:23Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 403,
+    "updated_at": "2026-10-18T17:03:32Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
+    "id": "eshanized/M31A",
+    "language": "Rust",
+    "name": "eshanized/M31A",
+    "stars": 10,
+    "updated_at": "2026-10-18T17:03:16Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
@@ -81,15 +126,6 @@
     "url": "https://github.com/bigduu/Zenith"
   },
   {
-    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 403,
-    "updated_at": "2026-10-18T16:50:53Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
     "description": "Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into",
     "id": "AskTheWay/dsh-auto-memory",
     "language": "TypeScript",
@@ -106,15 +142,6 @@
     "stars": 17,
     "updated_at": "2026-10-18T16:38:33Z",
     "url": "https://github.com/bigduu/Bodhi-AI"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-18T16:34:58Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "\uac70\uc2dc \u2192 \uc0b0\uc5c5 \uc0ac\uc774\ud074 \u2192 \ud14c\ub9c8 \u2192 \uc885\ubaa9 \u2192 \ud3ec\ud2b8\ud3f4\ub9ac\uc624 \ud558\ud5a5\uc2dd \ub9ac\uc11c\uce58 \ud30c\uc774\ud504\ub77c\uc778. \uc78a\ud600\uc9c4 \uc139\ud130\uc758 \uc0ac\uc774\ud074 \uc800\uc810\uc744 \ucc3e\uace0, \uac00\uce58\ud568\uc815\uacfc \uac00\ub974\uace0, \ube44\uc911\u00b7\ubb3c\ud0c0\uae30 \uc0ac\ub2e4\ub9ac\u00b72\ub2e8 \uc2a4\ud0d1\u00b7TP \uae4c\uc9c0 \uacc4\ud68d\ud55c\ub2e4 \u00b7 US top-down se",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T15:33:34Z",
     "url": "https://github.com/QuynhReeves610/Upwork-AI-jobs-applier"
-  },
-  {
-    "description": "Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by ",
-    "id": "mNaik729/DM-Code-Agent",
-    "language": "Python",
-    "name": "mNaik729/DM-Code-Agent",
-    "stars": 0,
-    "updated_at": "2026-10-18T15:33:19Z",
-    "url": "https://github.com/mNaik729/DM-Code-Agent"
-  },
-  {
-    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 49,
-    "updated_at": "2026-10-18T16:58:54Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 6,
-    "updated_at": "2026-10-18T15:24:09Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   }
 ]
