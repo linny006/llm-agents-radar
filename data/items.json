@@ -1,5 +1,50 @@
 [
   {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-18T19:54:44Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
+    "id": "WaelHansson/CodeJury",
+    "language": "Python",
+    "name": "WaelHansson/CodeJury",
+    "stars": 0,
+    "updated_at": "2026-10-18T19:54:09Z",
+    "url": "https://github.com/WaelHansson/CodeJury"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-18T19:52:32Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "PortableLM \u2014 Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe",
+    "id": "MadisonCastillo52/PrivatePixelPrompt",
+    "language": "JavaScript",
+    "name": "MadisonCastillo52/PrivatePixelPrompt",
+    "stars": 0,
+    "updated_at": "2026-10-18T19:50:42Z",
+    "url": "https://github.com/MadisonCastillo52/PrivatePixelPrompt"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-18T19:59:58Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
     "description": "Minimal surface, complete architecture: a small, local-first coding-agent harness that re-derives the invariants of Deep",
     "id": "earthwalker17/MiniDSH",
     "language": "TypeScript",
@@ -7,15 +52,6 @@
     "stars": 15,
     "updated_at": "2026-10-18T19:44:31Z",
     "url": "https://github.com/earthwalker17/MiniDSH"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-18T19:43:58Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by ",
@@ -34,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T19:42:38Z",
     "url": "https://github.com/OpenBrain-LLC/Agent-0"
-  },
-  {
-    "description": "PortableLM \u2014 Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe",
-    "id": "MadisonCastillo52/PrivatePixelPrompt",
-    "language": "JavaScript",
-    "name": "MadisonCastillo52/PrivatePixelPrompt",
-    "stars": 0,
-    "updated_at": "2026-10-18T19:42:09Z",
-    "url": "https://github.com/MadisonCastillo52/PrivatePixelPrompt"
   },
   {
     "description": "\u975e\u5e38\u8be6\u7ec6\u7684\u5927\u6a21\u578bLLM\u7684\u5b66\u4e60\u6559\u7a0b\u4e0e\u7b14\u8bb0",
@@ -90,15 +117,6 @@
     "url": "https://github.com/kavyakimura116/CodeJury"
   },
   {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-18T19:30:31Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
     "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
@@ -122,7 +140,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 14,
-    "updated_at": "2026-10-18T19:26:17Z",
+    "updated_at": "2026-10-18T19:52:13Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -160,15 +178,6 @@
     "stars": 25,
     "updated_at": "2026-10-18T19:21:55Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-18T19:33:50Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
@@ -275,7 +284,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 15,
-    "updated_at": "2026-10-18T19:20:58Z",
+    "updated_at": "2026-10-18T19:56:51Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -320,7 +329,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-18T19:18:50Z",
+    "updated_at": "2026-10-18T20:00:10Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-18T17:38:22Z",
     "url": "https://github.com/codex-mohan/spectra"
-  },
-  {
-    "description": "Cuse \u2014 open-source AI cursor agent for macOS. Type or speak a task and an AI cursor clicks, types and navigates any Mac ",
-    "id": "muneebkhan08/Cuse",
-    "language": "Swift",
-    "name": "muneebkhan08/Cuse",
-    "stars": 1,
-    "updated_at": "2026-10-18T17:28:32Z",
-    "url": "https://github.com/muneebkhan08/Cuse"
   }
 ]
