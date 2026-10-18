@@ -1,5 +1,59 @@
 [
   {
+    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 390,
+    "updated_at": "2026-10-18T01:44:52Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
+    "id": "kyleslight/shun",
+    "language": "TypeScript",
+    "name": "kyleslight/shun",
+    "stars": 7,
+    "updated_at": "2026-10-18T01:43:59Z",
+    "url": "https://github.com/kyleslight/shun"
+  },
+  {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 5,
+    "updated_at": "2026-10-18T01:43:20Z",
+    "url": "https://github.com/plurnk/plurnk"
+  },
+  {
+    "description": "Luann (fka TypeAgent) allows you to create many LLM based agent(Various types of agent,scale up)",
+    "id": "PirateforFreedom/luann",
+    "language": "Python",
+    "name": "PirateforFreedom/luann",
+    "stars": 24,
+    "updated_at": "2026-10-18T01:40:17Z",
+    "url": "https://github.com/PirateforFreedom/luann"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 25,
+    "updated_at": "2026-10-18T01:36:26Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 803,
+    "updated_at": "2026-10-18T01:35:07Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
     "id": "plurnk/plurnk-service",
     "language": "TypeScript",
@@ -14,7 +68,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-18T01:29:49Z",
+    "updated_at": "2026-10-18T01:33:53Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -32,7 +86,7 @@
     "language": "Kotlin",
     "name": "Ultra-Guru/Android-Guru-Agent",
     "stars": 11,
-    "updated_at": "2026-10-18T01:29:30Z",
+    "updated_at": "2026-10-18T01:39:48Z",
     "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
   },
   {
@@ -225,24 +279,6 @@
     "url": "https://github.com/CIRISAI/CIRISAgent"
   },
   {
-    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 390,
-    "updated_at": "2026-10-18T01:04:39Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
-    "id": "plurnk/plurnk",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk",
-    "stars": 5,
-    "updated_at": "2026-10-18T00:15:44Z",
-    "url": "https://github.com/plurnk/plurnk"
-  },
-  {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
     "id": "ongridio/ongrid",
     "language": "Go",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T21:58:18Z",
     "url": "https://github.com/Kanokwan34738/PrivatePixelPrompt"
-  },
-  {
-    "description": "\u975e\u5e38\u8be6\u7ec6\u7684\u5927\u6a21\u578bLLM\u7684\u5b66\u4e60\u6559\u7a0b\u4e0e\u7b14\u8bb0",
-    "id": "emmabrown16/LLM_book",
-    "language": "Python",
-    "name": "emmabrown16/LLM_book",
-    "stars": 0,
-    "updated_at": "2026-10-17T21:44:16Z",
-    "url": "https://github.com/emmabrown16/LLM_book"
-  },
-  {
-    "description": "\u975e\u5e38\u8be6\u7ec6\u7684\u5927\u6a21\u578bLLM\u7684\u5b66\u4e60\u6559\u7a0b\u4e0e\u7b14\u8bb0",
-    "id": "hasantorres68/LLM_book",
-    "language": "Python",
-    "name": "hasantorres68/LLM_book",
-    "stars": 0,
-    "updated_at": "2026-10-17T21:41:52Z",
-    "url": "https://github.com/hasantorres68/LLM_book"
-  },
-  {
-    "description": "\u975e\u5e38\u8be6\u7ec6\u7684\u5927\u6a21\u578bLLM\u7684\u5b66\u4e60\u6559\u7a0b\u4e0e\u7b14\u8bb0",
-    "id": "nascimento68/LLM_book",
-    "language": "Python",
-    "name": "nascimento68/LLM_book",
-    "stars": 0,
-    "updated_at": "2026-10-17T21:40:05Z",
-    "url": "https://github.com/nascimento68/LLM_book"
-  },
-  {
-    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-17T21:38:42Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
   }
 ]
