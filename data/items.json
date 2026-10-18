@@ -1,12 +1,84 @@
 [
   {
+    "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 219,
+    "updated_at": "2026-10-18T05:15:01Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-18T05:14:29Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 5,
+    "updated_at": "2026-10-18T05:14:20Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
+    "id": "Ultra-Guru/Android-Guru-Agent",
+    "language": "Kotlin",
+    "name": "Ultra-Guru/Android-Guru-Agent",
+    "stars": 11,
+    "updated_at": "2026-10-18T05:13:15Z",
+    "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
+  },
+  {
     "description": "Python LLM-RAG deep agent using LangChain, LangGraph and LangSmith built on Quart web microframework and served using Hy",
     "id": "khteh/rag-agent",
     "language": "Python",
     "name": "khteh/rag-agent",
     "stars": 8,
-    "updated_at": "2026-10-18T05:05:47Z",
+    "updated_at": "2026-10-18T05:12:22Z",
     "url": "https://github.com/khteh/rag-agent"
+  },
+  {
+    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
+    "id": "Nikolai377/CodeJury",
+    "language": "Python",
+    "name": "Nikolai377/CodeJury",
+    "stars": 0,
+    "updated_at": "2026-10-18T05:10:00Z",
+    "url": "https://github.com/Nikolai377/CodeJury"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-10-18T05:09:59Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by ",
+    "id": "panagiotismorozov/DM-Code-Agent",
+    "language": "Python",
+    "name": "panagiotismorozov/DM-Code-Agent",
+    "stars": 0,
+    "updated_at": "2026-10-18T05:07:48Z",
+    "url": "https://github.com/panagiotismorozov/DM-Code-Agent"
+  },
+  {
+    "description": "PortableLM \u2014 Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe",
+    "id": "Giuseppe243/PrivatePixelPrompt",
+    "language": "CSS",
+    "name": "Giuseppe243/PrivatePixelPrompt",
+    "stars": 0,
+    "updated_at": "2026-10-18T05:07:39Z",
+    "url": "https://github.com/Giuseppe243/PrivatePixelPrompt"
   },
   {
     "description": "Personal AI agent built from scratch \u2014 LLM layer, RAG knowledge base, tool calling loop. No frameworks, learn by buildin",
@@ -16,24 +88,6 @@
     "stars": 1,
     "updated_at": "2026-10-18T05:06:19Z",
     "url": "https://github.com/Wenyan0315/facta"
-  },
-  {
-    "description": "PortableLM \u2014 Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe",
-    "id": "Giuseppe243/PrivatePixelPrompt",
-    "language": "CSS",
-    "name": "Giuseppe243/PrivatePixelPrompt",
-    "stars": 0,
-    "updated_at": "2026-10-18T05:06:34Z",
-    "url": "https://github.com/Giuseppe243/PrivatePixelPrompt"
-  },
-  {
-    "description": "Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by ",
-    "id": "panagiotismorozov/DM-Code-Agent",
-    "language": "Python",
-    "name": "panagiotismorozov/DM-Code-Agent",
-    "stars": 0,
-    "updated_at": "2026-10-18T05:06:33Z",
-    "url": "https://github.com/panagiotismorozov/DM-Code-Agent"
   },
   {
     "description": "Personal QQ copilot: message archive with roaming backfill, multimodal LLM agent, RAG, WebUI/CLI. Speaks the Milky proto",
@@ -77,7 +131,7 @@
     "language": "Python",
     "name": "IAmNo1Special/mvgeos",
     "stars": 1,
-    "updated_at": "2026-10-18T05:04:54Z",
+    "updated_at": "2026-10-18T05:08:20Z",
     "url": "https://github.com/IAmNo1Special/mvgeos"
   },
   {
@@ -131,17 +185,8 @@
     "language": "Go",
     "name": "yurika0211/lucky-agent",
     "stars": 15,
-    "updated_at": "2026-10-18T04:35:37Z",
+    "updated_at": "2026-10-18T05:10:18Z",
     "url": "https://github.com/yurika0211/lucky-agent"
-  },
-  {
-    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
-    "id": "Ultra-Guru/Android-Guru-Agent",
-    "language": "Kotlin",
-    "name": "Ultra-Guru/Android-Guru-Agent",
-    "stars": 11,
-    "updated_at": "2026-10-18T05:03:58Z",
-    "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
   },
   {
     "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
@@ -178,15 +223,6 @@
     "stars": 53,
     "updated_at": "2026-10-18T04:15:30Z",
     "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-18T04:13:28Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
@@ -232,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-10-18T04:00:38Z",
     "url": "https://github.com/kifirkin/pi-braid"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 5,
-    "updated_at": "2026-10-18T04:10:26Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-18T00:46:47Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "\u9002\u7528\u4e8e Claude Code \u548c Codex \u7684\u6c42\u804c Skill\uff1a\u67e5\u627e\u5c97\u4f4d\u3001\u5224\u65ad\u662f\u5426\u503c\u5f97\u6295\u9012\u3001\u5236\u4f5c\u7b80\u5386\u4e0e\u7533\u8bf7\u6750\u6599\u3001\u68c0\u9a8c\u7533\u8bf7\u6750\u6599\u5e76\u6a21\u62df\u9762\u8bd5\u3002\u4e0d\u7f16\u9020\u6280\u80fd\u6216\u4e1a\u7ee9\u6570\u5b57\uff0c\u4e0d\u9884\u6d4b\u5f55\u7528\u6982\u7387\uff1b\u68c0\u67e5\u7b80\u5386\u662f\u5426\u4fbf\u4e8e\u62db\u8058\u7ba1\u7406\u7cfb\u7edf\uff08ATS\uff09\u8bfb\u53d6\uff0c\u5e76\u4ece\u62db\u8058\u4eba\u5458\u548c\u7528\u4eba",
-    "id": "addsumtech/job-hunt",
-    "language": "Python",
-    "name": "addsumtech/job-hunt",
-    "stars": 5,
-    "updated_at": "2026-10-18T00:44:37Z",
-    "url": "https://github.com/addsumtech/job-hunt"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-10-18T00:40:24Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 134,
-    "updated_at": "2026-10-18T00:38:37Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   }
 ]
