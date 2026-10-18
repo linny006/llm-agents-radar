@@ -1,12 +1,57 @@
 [
   {
-    "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
-    "id": "node9-ai/node9-proxy",
+    "description": "\ud83e\udd16 Lightweight, message-first agent runtime",
+    "id": "Cognipeer/agent-sdk",
     "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 219,
-    "updated_at": "2026-10-18T10:58:57Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
+    "name": "Cognipeer/agent-sdk",
+    "stars": 7,
+    "updated_at": "2026-10-18T11:14:44Z",
+    "url": "https://github.com/Cognipeer/agent-sdk"
+  },
+  {
+    "description": "FastAPI backend for chat-driven accounting: companies, categories, payees and transactions, with an OpenAI assistant cal",
+    "id": "newmachinesph/accounting-fastapi",
+    "language": "Python",
+    "name": "newmachinesph/accounting-fastapi",
+    "stars": 0,
+    "updated_at": "2026-10-18T11:10:45Z",
+    "url": "https://github.com/newmachinesph/accounting-fastapi"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-18T11:10:09Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 363,
+    "updated_at": "2026-10-18T11:10:36Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
+    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 394,
+    "updated_at": "2026-10-18T11:08:45Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "Hermes Agent on Termux (Android): one-command install from prebuilt, checksum-verified Python wheels. No compiling on yo",
+    "id": "bd-loser/hermes-bionic",
+    "language": "C++",
+    "name": "bd-loser/hermes-bionic",
+    "stars": 1,
+    "updated_at": "2026-10-18T11:08:32Z",
+    "url": "https://github.com/bd-loser/hermes-bionic"
   },
   {
     "description": "DARWIN \u2014 evolutionary strategy foundry: an LLM proposes crypto trading strategies, a leakage-proof gauntlet kills 90% of",
@@ -14,8 +59,44 @@
     "language": "HTML",
     "name": "dobrinsm/darwin",
     "stars": 0,
-    "updated_at": "2026-10-18T10:56:18Z",
+    "updated_at": "2026-10-18T11:07:02Z",
     "url": "https://github.com/dobrinsm/darwin"
+  },
+  {
+    "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 219,
+    "updated_at": "2026-10-18T11:10:04Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "Bounded Meta Ads copilot with MCP tools, progressive Skills, context, Memory and safe Draft workflows",
+    "id": "jiangylin5-hue/meta-ads-agent",
+    "language": "Python",
+    "name": "jiangylin5-hue/meta-ads-agent",
+    "stars": 0,
+    "updated_at": "2026-10-18T11:06:24Z",
+    "url": "https://github.com/jiangylin5-hue/meta-ads-agent"
+  },
+  {
+    "description": "Desktop AI coding agent for Linux/Windows/macOS: an Avalonia .NET app with git-worktree isolation per session, plan revi",
+    "id": "Kvindo/KvindoCode",
+    "language": "C#",
+    "name": "Kvindo/KvindoCode",
+    "stars": 3,
+    "updated_at": "2026-10-18T11:03:59Z",
+    "url": "https://github.com/Kvindo/KvindoCode"
+  },
+  {
+    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 53,
+    "updated_at": "2026-10-18T11:00:23Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
   },
   {
     "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
@@ -27,15 +108,6 @@
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
-    "description": "\ud83e\udd16 Lightweight, message-first agent runtime",
-    "id": "Cognipeer/agent-sdk",
-    "language": "TypeScript",
-    "name": "Cognipeer/agent-sdk",
-    "stars": 7,
-    "updated_at": "2026-10-18T10:52:39Z",
-    "url": "https://github.com/Cognipeer/agent-sdk"
-  },
-  {
     "description": "\u5357\u4eac OSM + PostGIS \u7a7a\u95f4\u95ee\u7b54 Agent\uff1apgRouting \u6b65\u884c\u7b49\u65f6\u5708\u3001pgvector \u89c4\u5212\u6807\u51c6\u68c0\u7d22\u3001\u9884\u6ce8\u518c\u8bc4\u6d4b",
     "id": "PlainSightX/geo-agent",
     "language": "Python",
@@ -43,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T10:50:30Z",
     "url": "https://github.com/PlainSightX/geo-agent"
-  },
-  {
-    "description": "Hermes Agent on Termux (Android): one-command install from prebuilt, checksum-verified Python wheels. No compiling on yo",
-    "id": "bd-loser/hermes-bionic",
-    "language": "C++",
-    "name": "bd-loser/hermes-bionic",
-    "stars": 1,
-    "updated_at": "2026-10-18T10:48:10Z",
-    "url": "https://github.com/bd-loser/hermes-bionic"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -81,15 +144,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-18T10:45:10Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
     "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
     "id": "honestDS/MonoLight",
     "language": "Python",
@@ -106,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T10:42:05Z",
     "url": "https://github.com/LeuJasYoh/dsh-xuexi"
-  },
-  {
-    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 53,
-    "updated_at": "2026-10-18T10:33:59Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
   },
   {
     "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
@@ -185,7 +230,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-18T10:55:02Z",
+    "updated_at": "2026-10-18T11:04:53Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -338,26 +383,8 @@
     "language": "Python",
     "name": "santoshshinde2012/deck-smith-local",
     "stars": 0,
-    "updated_at": "2026-10-18T09:32:44Z",
+    "updated_at": "2026-10-18T11:11:55Z",
     "url": "https://github.com/santoshshinde2012/deck-smith-local"
-  },
-  {
-    "description": "Desktop AI coding agent for Linux/Windows/macOS: an Avalonia .NET app with git-worktree isolation per session, plan revi",
-    "id": "Kvindo/KvindoCode",
-    "language": "C#",
-    "name": "Kvindo/KvindoCode",
-    "stars": 3,
-    "updated_at": "2026-10-18T09:25:58Z",
-    "url": "https://github.com/Kvindo/KvindoCode"
-  },
-  {
-    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 394,
-    "updated_at": "2026-10-18T10:54:29Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
     "description": "PortableLM \u2014 Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe",
@@ -376,15 +403,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T09:22:02Z",
     "url": "https://github.com/jungwoo72/LLM_book"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 363,
-    "updated_at": "2026-10-18T10:53:27Z",
-    "url": "https://github.com/yologdev/yoagent"
   },
   {
     "description": "Official codebase for Spotter: Let the Embodied Model Lead, and the VLM Reflect for It",
@@ -430,23 +448,5 @@
     "stars": 7,
     "updated_at": "2026-10-18T09:03:45Z",
     "url": "https://github.com/kyleslight/shun"
-  },
-  {
-    "description": "Hybrid Multimodal Document RAG",
-    "id": "ruychevvy-a11y/agentic-multimodal-doc-rag",
-    "language": "Python",
-    "name": "ruychevvy-a11y/agentic-multimodal-doc-rag",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:58:37Z",
-    "url": "https://github.com/ruychevvy-a11y/agentic-multimodal-doc-rag"
-  },
-  {
-    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
-    "id": "kangwoo/aimon-core",
-    "language": "Java",
-    "name": "kangwoo/aimon-core",
-    "stars": 0,
-    "updated_at": "2026-10-18T10:56:56Z",
-    "url": "https://github.com/kangwoo/aimon-core"
   }
 ]
