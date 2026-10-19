@@ -1,11 +1,65 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-10-19T18:09:47Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 5,
+    "updated_at": "2026-10-19T18:07:42Z",
+    "url": "https://github.com/plurnk/plurnk"
+  },
+  {
+    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
+    "id": "alexwkleung/reika",
+    "language": "TypeScript",
+    "name": "alexwkleung/reika",
+    "stars": 11,
+    "updated_at": "2026-10-19T18:06:51Z",
+    "url": "https://github.com/alexwkleung/reika"
+  },
+  {
+    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
+    "id": "zeng6125-rgb/suixing",
+    "language": "Kotlin",
+    "name": "zeng6125-rgb/suixing",
+    "stars": 0,
+    "updated_at": "2026-10-19T18:06:33Z",
+    "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
+    "id": "RalfHermsen/x4-agent",
+    "language": "Python",
+    "name": "RalfHermsen/x4-agent",
+    "stars": 0,
+    "updated_at": "2026-10-19T18:03:39Z",
+    "url": "https://github.com/RalfHermsen/x4-agent"
+  },
+  {
+    "description": "Desktop AI coding agent for Linux/Windows/macOS: an Avalonia .NET app with git-worktree isolation per session, plan revi",
+    "id": "Kvindo/KvindoCode",
+    "language": "C#",
+    "name": "Kvindo/KvindoCode",
+    "stars": 3,
+    "updated_at": "2026-10-19T18:06:44Z",
+    "url": "https://github.com/Kvindo/KvindoCode"
+  },
+  {
     "description": "The coordination layer for Multiplayer AI",
     "id": "cohexa-ai/agent-coherence",
     "language": "Python",
     "name": "cohexa-ai/agent-coherence",
     "stars": 11,
-    "updated_at": "2026-10-19T18:00:04Z",
+    "updated_at": "2026-10-19T18:01:02Z",
     "url": "https://github.com/cohexa-ai/agent-coherence"
   },
   {
@@ -45,15 +99,6 @@
     "url": "https://github.com/jeinlee1991/chinese-llm-benchmark"
   },
   {
-    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
-    "id": "zeng6125-rgb/suixing",
-    "language": "Kotlin",
-    "name": "zeng6125-rgb/suixing",
-    "stars": 0,
-    "updated_at": "2026-10-19T17:50:46Z",
-    "url": "https://github.com/zeng6125-rgb/suixing"
-  },
-  {
     "description": "The Self-Improving Coding Agent",
     "id": "kanishka-namdeo/Unown",
     "language": "TypeScript",
@@ -81,15 +126,6 @@
     "url": "https://github.com/Kiru-Sama/Kiru-Astrbot-Addons"
   },
   {
-    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
-    "id": "RalfHermsen/x4-agent",
-    "language": "Python",
-    "name": "RalfHermsen/x4-agent",
-    "stars": 0,
-    "updated_at": "2026-10-19T17:37:27Z",
-    "url": "https://github.com/RalfHermsen/x4-agent"
-  },
-  {
     "description": "LLM agent for post-silicon hardware diagnostics \u2014 GPU XID / PCIe error triage",
     "id": "Ezra-Zhao/AI-Node-Sentinel",
     "language": "Python",
@@ -115,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-10-19T17:35:45Z",
     "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
-    "id": "plurnk/plurnk",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk",
-    "stars": 5,
-    "updated_at": "2026-10-19T17:27:24Z",
-    "url": "https://github.com/plurnk/plurnk"
   },
   {
     "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
@@ -185,7 +212,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 2,
-    "updated_at": "2026-10-19T17:06:36Z",
+    "updated_at": "2026-10-19T18:06:14Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 3637,
     "updated_at": "2026-10-19T17:50:05Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Scene-Designer: Learning Design Intelligence for Agentic 3D Scene Generation",
-    "id": "ZJU-OmniAI/Scene-Designer",
-    "language": "Python",
-    "name": "ZJU-OmniAI/Scene-Designer",
-    "stars": 18,
-    "updated_at": "2026-10-19T15:12:06Z",
-    "url": "https://github.com/ZJU-OmniAI/Scene-Designer"
-  },
-  {
-    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
-    "id": "AliPellegrini/CodeJury",
-    "language": "Python",
-    "name": "AliPellegrini/CodeJury",
-    "stars": 0,
-    "updated_at": "2026-10-19T15:09:55Z",
-    "url": "https://github.com/AliPellegrini/CodeJury"
-  },
-  {
-    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
-    "id": "trivedi04396/CodeJury",
-    "language": "Python",
-    "name": "trivedi04396/CodeJury",
-    "stars": 0,
-    "updated_at": "2026-10-19T15:03:49Z",
-    "url": "https://github.com/trivedi04396/CodeJury"
   }
 ]
