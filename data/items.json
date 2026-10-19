@@ -1,5 +1,23 @@
 [
   {
+    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
+    "id": "zeng6125-rgb/suixing",
+    "language": "Kotlin",
+    "name": "zeng6125-rgb/suixing",
+    "stars": 0,
+    "updated_at": "2026-10-19T19:14:36Z",
+    "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 640,
+    "updated_at": "2026-10-19T19:06:08Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
+  },
+  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -7,15 +25,6 @@
     "stars": 134,
     "updated_at": "2026-10-19T19:00:05Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
-    "id": "zeng6125-rgb/suixing",
-    "language": "Kotlin",
-    "name": "zeng6125-rgb/suixing",
-    "stars": 0,
-    "updated_at": "2026-10-19T18:57:02Z",
-    "url": "https://github.com/zeng6125-rgb/suixing"
   },
   {
     "description": "Self-hosted AI execution agent for Discord: runs shell commands and edits files on your hosts, drives browsers, schedule",
@@ -54,15 +63,6 @@
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
-    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
-    "id": "mnemon-dev/mnemon",
-    "language": "Go",
-    "name": "mnemon-dev/mnemon",
-    "stars": 640,
-    "updated_at": "2026-10-19T18:49:29Z",
-    "url": "https://github.com/mnemon-dev/mnemon"
-  },
-  {
     "description": "A guide to New York City you can ask anything: an agent that answers from a live NYC lakehouse first, then city feeds an",
     "id": "giridhar1103/NYCynapse.Ai",
     "language": "Python",
@@ -77,7 +77,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4455,
-    "updated_at": "2026-10-19T18:41:05Z",
+    "updated_at": "2026-10-19T19:15:09Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -140,7 +140,7 @@
     "language": "Python",
     "name": "Mirascope/mirascope",
     "stars": 1533,
-    "updated_at": "2026-10-19T18:59:41Z",
+    "updated_at": "2026-10-19T19:12:44Z",
     "url": "https://github.com/Mirascope/mirascope"
   },
   {
@@ -185,7 +185,7 @@
     "language": "Python",
     "name": "cohexa-ai/agent-coherence",
     "stars": 11,
-    "updated_at": "2026-10-19T18:01:02Z",
+    "updated_at": "2026-10-19T19:13:15Z",
     "url": "https://github.com/cohexa-ai/agent-coherence"
   },
   {
