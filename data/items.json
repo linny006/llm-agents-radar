@@ -1,11 +1,29 @@
 [
   {
+    "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
+    "id": "kashyaprajharsh/medha-agent",
+    "language": "Rust",
+    "name": "kashyaprajharsh/medha-agent",
+    "stars": 0,
+    "updated_at": "2026-10-19T08:14:47Z",
+    "url": "https://github.com/kashyaprajharsh/medha-agent"
+  },
+  {
+    "description": "\ud83c\udf5f \u9ea6\u9ea6\u7701\u94b1\u52a9\u624b \u2014\u2014 \u57fa\u4e8e\u9ea6\u5f53\u52b3\u4e2d\u56fd\u5b98\u65b9 MCP \u7684\u7701\u94b1\u70b9\u9910 Agent Skill\uff1a\u7701\u94b1\u56db\u6b65\u68c0\u67e5 + \u4e00\u952e\u9886\u5238 + \u5238\u7ec4\u5408\u4f18\u5316\uff08\u9884\u7b97/\u70ed\u91cf\u7ea6\u675f\uff09+ \u6c89\u9ed8\u6210\u672c\u4f53\u68c0 + \u5168\u6e20\u9053\u6bd4\u4ef7\u3002\u793e\u533a\u5f00\u6e90\uff0c\u514d\u767b\u5f55\u5728\u7ebf\u8bd5\u7b97 \ud83d\udc47",
+    "id": "yuxinlaile/McD-saver",
+    "language": "Python",
+    "name": "yuxinlaile/McD-saver",
+    "stars": 11,
+    "updated_at": "2026-10-19T08:14:30Z",
+    "url": "https://github.com/yuxinlaile/McD-saver"
+  },
+  {
     "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
     "id": "Shuffle-1992/dsh-context-pilot",
     "language": "JavaScript",
     "name": "Shuffle-1992/dsh-context-pilot",
     "stars": 3,
-    "updated_at": "2026-10-19T08:00:13Z",
+    "updated_at": "2026-10-19T08:13:48Z",
     "url": "https://github.com/Shuffle-1992/dsh-context-pilot"
   },
   {
@@ -14,8 +32,80 @@
     "language": "Python",
     "name": "oldfunk/paper-trading",
     "stars": 1,
-    "updated_at": "2026-10-19T07:59:52Z",
+    "updated_at": "2026-10-19T08:13:11Z",
     "url": "https://github.com/oldfunk/paper-trading"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-19T08:12:12Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Open spec and CLI (MIT) for AI agent identity and agent-to-agent messaging. Runs with npx.",
+    "id": "5dive-ai/openagent",
+    "language": "JavaScript",
+    "name": "5dive-ai/openagent",
+    "stars": 2,
+    "updated_at": "2026-10-19T08:07:23Z",
+    "url": "https://github.com/5dive-ai/openagent"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3629,
+    "updated_at": "2026-10-19T08:08:12Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 33490,
+    "updated_at": "2026-10-19T08:06:21Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
+    "id": "xiongweilin/agent-skills",
+    "language": "PowerShell",
+    "name": "xiongweilin/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-19T08:02:52Z",
+    "url": "https://github.com/xiongweilin/agent-skills"
+  },
+  {
+    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 407,
+    "updated_at": "2026-10-19T08:12:51Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4456,
+    "updated_at": "2026-10-19T08:04:21Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Metacognitive extension suite for Pi coding agent",
+    "id": "kifirkin/pi-braid",
+    "language": "JavaScript",
+    "name": "kifirkin/pi-braid",
+    "stars": 1,
+    "updated_at": "2026-10-19T08:00:55Z",
+    "url": "https://github.com/kifirkin/pi-braid"
   },
   {
     "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
@@ -27,15 +117,6 @@
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
-    "description": "Metacognitive extension suite for Pi coding agent",
-    "id": "kifirkin/pi-braid",
-    "language": "JavaScript",
-    "name": "kifirkin/pi-braid",
-    "stars": 1,
-    "updated_at": "2026-10-19T07:56:47Z",
-    "url": "https://github.com/kifirkin/pi-braid"
-  },
-  {
     "description": "Single-user Hebrew/English personal assistant: Cloudflare Workers + SQLite Durable Object, Groq tool-calling agent where",
     "id": "tzur669-lab/whatsapp-assistant",
     "language": "TypeScript",
@@ -43,33 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T07:55:02Z",
     "url": "https://github.com/tzur669-lab/whatsapp-assistant"
-  },
-  {
-    "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
-    "id": "kashyaprajharsh/medha-agent",
-    "language": "Rust",
-    "name": "kashyaprajharsh/medha-agent",
-    "stars": 0,
-    "updated_at": "2026-10-19T07:51:40Z",
-    "url": "https://github.com/kashyaprajharsh/medha-agent"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-19T07:50:00Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 407,
-    "updated_at": "2026-10-19T07:49:41Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
     "description": "Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/",
@@ -207,15 +261,6 @@
     "url": "https://github.com/lucasvidela94/tinyagent"
   },
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4456,
-    "updated_at": "2026-10-19T07:18:05Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
     "description": "Solve Cloudflare Turnstile in CrewAI tools via Peak \u2014 a BaseTool that returns a valid cf-turnstile-response token.",
     "id": "CircuitSavage/crewai-turnstile",
     "language": "Python",
@@ -250,15 +295,6 @@
     "stars": 219,
     "updated_at": "2026-10-19T07:13:38Z",
     "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 33488,
-    "updated_at": "2026-10-19T07:09:39Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
     "description": "Ouroboros is an Agent Harness, CLI and Desktop App with Self-Improvement layer",
@@ -319,7 +355,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 6285,
+    "stars": 6286,
     "updated_at": "2026-10-19T06:51:17Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -329,7 +365,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 50,
-    "updated_at": "2026-10-19T07:58:16Z",
+    "updated_at": "2026-10-19T08:12:37Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 15,
     "updated_at": "2026-10-19T07:21:29Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "ARTEX \u00b7 AI autonomous penetration testing system (multi-agent LLM, Go + Next.js) \u00b7 AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf \u00b7 \u767e\u5ea6 agent+ \u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b",
-    "id": "trhhubsd/ARTEX",
-    "language": "Go",
-    "name": "trhhubsd/ARTEX",
-    "stars": 1280,
-    "updated_at": "2026-10-19T06:31:07Z",
-    "url": "https://github.com/trhhubsd/ARTEX"
-  },
-  {
-    "description": "\u300a\u5d29\u574f\uff1a\u661f\u7a79\u94c1\u9053\u300b\u6218\u6597\u95ee\u9898\u7684\u53ef\u590d\u73b0\u6c42\u89e3\u73af\u5883\u2014\u2014\u4ee5\u9ad8\u4fdd\u771f\u786e\u5b9a\u6027\u6a21\u62df\u4e3a\u88c1\u51b3\uff0c\u628a\u6218\u6597\u7814\u7a76\u53d8\u6210\u53ef\u9a8c\u8bc1\u3001\u53ef\u590d\u73b0\u3001\u53ef\u641c\u7d22\u7684\u5b9e\u9a8c\u95ee\u9898\uff1b\u4e0a\u5c42\u4e3a\u8bb0\u5fc6\u9a71\u52a8\u7684 autoresearch agent \u63a2\u7d22\u5faa\u73af\uff08\u5f00\u53d1\u4e2d\uff09\u3002",
-    "id": "pzc2004/HSR_Nous",
-    "language": "Python",
-    "name": "pzc2004/HSR_Nous",
-    "stars": 12,
-    "updated_at": "2026-10-19T07:22:19Z",
-    "url": "https://github.com/pzc2004/HSR_Nous"
-  },
-  {
-    "description": "PortableLM \u2014 Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe",
-    "id": "kanokwan449/PrivatePixelPrompt",
-    "language": "JavaScript",
-    "name": "kanokwan449/PrivatePixelPrompt",
-    "stars": 0,
-    "updated_at": "2026-10-19T06:24:59Z",
-    "url": "https://github.com/kanokwan449/PrivatePixelPrompt"
-  },
-  {
-    "description": "PortableLM \u2014 Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe",
-    "id": "robertokimura7409/PrivatePixelPrompt",
-    "language": "CSS",
-    "name": "robertokimura7409/PrivatePixelPrompt",
-    "stars": 0,
-    "updated_at": "2026-10-19T06:24:53Z",
-    "url": "https://github.com/robertokimura7409/PrivatePixelPrompt"
   }
 ]
