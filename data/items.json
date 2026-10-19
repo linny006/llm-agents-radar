@@ -1,11 +1,38 @@
 [
   {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-18T23:55:52Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 284,
+    "updated_at": "2026-10-18T23:55:47Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
+    "id": "RalfHermsen/x4-agent",
+    "language": "Python",
+    "name": "RalfHermsen/x4-agent",
+    "stars": 0,
+    "updated_at": "2026-10-18T23:47:34Z",
+    "url": "https://github.com/RalfHermsen/x4-agent"
+  },
+  {
     "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
     "id": "hsaghir/looplet",
     "language": "Python",
     "name": "hsaghir/looplet",
     "stars": 7,
-    "updated_at": "2026-10-18T23:40:39Z",
+    "updated_at": "2026-10-18T23:55:12Z",
     "url": "https://github.com/hsaghir/looplet"
   },
   {
@@ -135,15 +162,6 @@
     "url": "https://github.com/NygenAnalytics/CyteType"
   },
   {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-18T23:42:30Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -252,21 +270,12 @@
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
   {
-    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
-    "id": "RalfHermsen/x4-agent",
-    "language": "Python",
-    "name": "RalfHermsen/x4-agent",
-    "stars": 0,
-    "updated_at": "2026-10-18T21:07:11Z",
-    "url": "https://github.com/RalfHermsen/x4-agent"
-  },
-  {
     "description": "The coordination layer for Multiplayer AI",
     "id": "cohexa-ai/agent-coherence",
     "language": "Python",
     "name": "cohexa-ai/agent-coherence",
     "stars": 11,
-    "updated_at": "2026-10-18T23:26:18Z",
+    "updated_at": "2026-10-18T23:51:55Z",
     "url": "https://github.com/cohexa-ai/agent-coherence"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T19:54:09Z",
     "url": "https://github.com/WaelHansson/CodeJury"
-  },
-  {
-    "description": "PortableLM \u2014 Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe",
-    "id": "MadisonCastillo52/PrivatePixelPrompt",
-    "language": "JavaScript",
-    "name": "MadisonCastillo52/PrivatePixelPrompt",
-    "stars": 0,
-    "updated_at": "2026-10-18T19:50:42Z",
-    "url": "https://github.com/MadisonCastillo52/PrivatePixelPrompt"
   }
 ]
