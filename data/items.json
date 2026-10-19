@@ -1,12 +1,93 @@
 [
   {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 131,
+    "updated_at": "2026-10-19T15:27:26Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "Gestor ag\u00e9ntico de modelos llm",
+    "id": "bondwell79/hercules",
+    "language": "Python",
+    "name": "bondwell79/hercules",
+    "stars": 0,
+    "updated_at": "2026-10-19T15:26:38Z",
+    "url": "https://github.com/bondwell79/hercules"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-10-19T15:26:24Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Personal AI agent built from scratch \u2014 LLM layer, RAG knowledge base, tool calling loop. No frameworks, learn by buildin",
+    "id": "Wenyan0315/facta",
+    "language": "Python",
+    "name": "Wenyan0315/facta",
+    "stars": 1,
+    "updated_at": "2026-10-19T15:25:30Z",
+    "url": "https://github.com/Wenyan0315/facta"
+  },
+  {
+    "description": "Verify what smolagents actually does, not what its README says. 31 side-effect-based cases, no API key needed.",
+    "id": "linmoxi33/smolagents-audit",
+    "language": "Python",
+    "name": "linmoxi33/smolagents-audit",
+    "stars": 0,
+    "updated_at": "2026-10-19T15:23:17Z",
+    "url": "https://github.com/linmoxi33/smolagents-audit"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-19T15:20:05Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Estrella Bot \u00b7 QQ \u7fa4 AI \u7fa4\u53cb\u673a\u5668\u4eba\u3002\u628a QQ \u5c0f\u53f7\u63a5\u7ed9\u4efb\u610f OpenAI \u517c\u5bb9\u6a21\u578b\uff08\u672c\u673a / DeepSeek / \u667a\u8c31 / \u901a\u4e49\uff09\uff0c\u8ba9 AI \u50cf\u7fa4\u53cb\u4e00\u6837\u63d2\u8bdd\u3001\u63a5\u6897\u3001\u6f5c\u6c34\u3002OneBot v11 + NapCat\uff0c\u96f6\u6784\u5efa",
+    "id": "Canvixel-Eloweny/ai-bot-groupmate",
+    "language": "JavaScript",
+    "name": "Canvixel-Eloweny/ai-bot-groupmate",
+    "stars": 87,
+    "updated_at": "2026-10-19T15:23:05Z",
+    "url": "https://github.com/Canvixel-Eloweny/ai-bot-groupmate"
+  },
+  {
     "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
     "id": "robolong/zhengming",
     "language": "TypeScript",
     "name": "robolong/zhengming",
     "stars": 0,
-    "updated_at": "2026-10-19T15:14:06Z",
+    "updated_at": "2026-10-19T15:18:26Z",
     "url": "https://github.com/robolong/zhengming"
+  },
+  {
+    "description": "Automatically Update LLM-Agent Papers Daily using Github Actions (Update Every 12th hours)",
+    "id": "Lyz103/LLM-Agent-Paper-daily",
+    "language": "Python",
+    "name": "Lyz103/LLM-Agent-Paper-daily",
+    "stars": 20,
+    "updated_at": "2026-10-19T15:17:07Z",
+    "url": "https://github.com/Lyz103/LLM-Agent-Paper-daily"
+  },
+  {
+    "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
+    "id": "kashyaprajharsh/medha-agent",
+    "language": "Rust",
+    "name": "kashyaprajharsh/medha-agent",
+    "stars": 0,
+    "updated_at": "2026-10-19T15:15:39Z",
+    "url": "https://github.com/kashyaprajharsh/medha-agent"
   },
   {
     "description": "Scene-Designer: Learning Design Intelligence for Agentic 3D Scene Generation",
@@ -16,15 +97,6 @@
     "stars": 18,
     "updated_at": "2026-10-19T15:12:06Z",
     "url": "https://github.com/ZJU-OmniAI/Scene-Designer"
-  },
-  {
-    "description": "Verify what smolagents actually does, not what its README says. 31 side-effect-based cases, no API key needed.",
-    "id": "linmoxi33/smolagents-audit",
-    "language": "Python",
-    "name": "linmoxi33/smolagents-audit",
-    "stars": 0,
-    "updated_at": "2026-10-19T15:12:12Z",
-    "url": "https://github.com/linmoxi33/smolagents-audit"
   },
   {
     "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
@@ -81,15 +153,6 @@
     "url": "https://github.com/sBaig4908/Upwork-AI-jobs-applier"
   },
   {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-19T14:58:16Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
     "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
     "id": "haibingzhao/easyai",
     "language": "Kotlin",
@@ -104,7 +167,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 808,
-    "updated_at": "2026-10-19T14:54:19Z",
+    "updated_at": "2026-10-19T15:16:23Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -149,7 +212,7 @@
     "language": "Python",
     "name": "ant-research/AntOmniEvo",
     "stars": 1222,
-    "updated_at": "2026-10-19T14:47:04Z",
+    "updated_at": "2026-10-19T15:22:52Z",
     "url": "https://github.com/ant-research/AntOmniEvo"
   },
   {
@@ -270,15 +333,6 @@
     "url": "https://github.com/ArthurReboulSalze/Sherka-Compagnon"
   },
   {
-    "description": "Personal AI agent built from scratch \u2014 LLM layer, RAG knowledge base, tool calling loop. No frameworks, learn by buildin",
-    "id": "Wenyan0315/facta",
-    "language": "Python",
-    "name": "Wenyan0315/facta",
-    "stars": 1,
-    "updated_at": "2026-10-19T14:59:22Z",
-    "url": "https://github.com/Wenyan0315/facta"
-  },
-  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
@@ -342,15 +396,6 @@
     "url": "https://github.com/zeng6125-rgb/suixing"
   },
   {
-    "description": "Gestor ag\u00e9ntico de modelos llm",
-    "id": "bondwell79/hercules",
-    "language": "Python",
-    "name": "bondwell79/hercules",
-    "stars": 0,
-    "updated_at": "2026-10-19T13:48:37Z",
-    "url": "https://github.com/bondwell79/hercules"
-  },
-  {
     "description": "Autonomous personal agent: talks, acts, never gives up. Multi-model, multi-user, self-improving",
     "id": "franckolv-dev/ELY2",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-19T13:32:58Z",
     "url": "https://github.com/Rxyxs/chile-mining-ops-agent"
-  },
-  {
-    "description": "\u300a\u5d29\u574f\uff1a\u661f\u7a79\u94c1\u9053\u300b\u6218\u6597\u95ee\u9898\u7684\u53ef\u590d\u73b0\u6c42\u89e3\u73af\u5883\u2014\u2014\u4ee5\u9ad8\u4fdd\u771f\u786e\u5b9a\u6027\u6a21\u62df\u4e3a\u88c1\u51b3\uff0c\u628a\u6218\u6597\u7814\u7a76\u53d8\u6210\u53ef\u9a8c\u8bc1\u3001\u53ef\u590d\u73b0\u3001\u53ef\u641c\u7d22\u7684\u5b9e\u9a8c\u95ee\u9898\uff1b\u4e0a\u5c42\u4e3a\u8bb0\u5fc6\u9a71\u52a8\u7684 autoresearch agent \u63a2\u7d22\u5faa\u73af\uff08\u5f00\u53d1\u4e2d\uff09\u3002",
-    "id": "pzc2004/HSR_Nous",
-    "language": "Python",
-    "name": "pzc2004/HSR_Nous",
-    "stars": 12,
-    "updated_at": "2026-10-19T13:26:59Z",
-    "url": "https://github.com/pzc2004/HSR_Nous"
-  },
-  {
-    "description": "\u8bc1\u636e\u7ea6\u675f\u7684\u4ee3\u7801\u8bca\u65ad\u5de5\u4f5c\u53f0\uff1a\u786e\u5b9a\u6027\u9759\u6001\u5206\u6790\u62e5\u6709\u6e90\u7801\u4e8b\u5b9e\uff0cLLM \u53ea\u63d0\u5047\u8bbe\uff0cresolver/validator \u51b3\u5b9a\u80fd\u5426\u7ed1\u5b9a\u56de\u771f\u5b9e\u64cd\u4f5c\u2014\u2014\u8bc1\u636e\u4e0d\u8db3\u4fdd\u6301 unknown/abstained\uff0c\u4ece\u67b6\u6784\u6291\u5236\u5e7b\u89c9\u3002\u5df2\u5728\u771f\u5b9e\u5f00\u6e90\u9879\u76ee\u53d1\u73b0 bug\uff08stun",
-    "id": "xianyu-sheng/SmartBench",
-    "language": "Python",
-    "name": "xianyu-sheng/SmartBench",
-    "stars": 2,
-    "updated_at": "2026-10-19T13:17:34Z",
-    "url": "https://github.com/xianyu-sheng/SmartBench"
-  },
-  {
-    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
-    "id": "QQSHI13/fox-agent",
-    "language": "TypeScript",
-    "name": "QQSHI13/fox-agent",
-    "stars": 3,
-    "updated_at": "2026-10-19T13:13:33Z",
-    "url": "https://github.com/QQSHI13/fox-agent"
-  },
-  {
-    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
-    "id": "hsaghir/looplet",
-    "language": "Python",
-    "name": "hsaghir/looplet",
-    "stars": 7,
-    "updated_at": "2026-10-19T13:04:32Z",
-    "url": "https://github.com/hsaghir/looplet"
-  },
-  {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 109,
-    "updated_at": "2026-10-19T13:07:56Z",
-    "url": "https://github.com/AVADSA25/codec"
   }
 ]
