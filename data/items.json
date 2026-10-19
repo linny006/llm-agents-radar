@@ -1,5 +1,113 @@
 [
   {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 808,
+    "updated_at": "2026-10-19T20:59:38Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter",
+    "id": "ldeluca372/Upwork-AI-jobs-applier",
+    "language": "Python",
+    "name": "ldeluca372/Upwork-AI-jobs-applier",
+    "stars": 0,
+    "updated_at": "2026-10-19T20:59:38Z",
+    "url": "https://github.com/ldeluca372/Upwork-AI-jobs-applier"
+  },
+  {
+    "description": "\u975e\u5e38\u8be6\u7ec6\u7684\u5927\u6a21\u578bLLM\u7684\u5b66\u4e60\u6559\u7a0b\u4e0e\u7b14\u8bb0",
+    "id": "frankg9557/LLM_book",
+    "language": "Python",
+    "name": "frankg9557/LLM_book",
+    "stars": 0,
+    "updated_at": "2026-10-19T20:57:18Z",
+    "url": "https://github.com/frankg9557/LLM_book"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 132,
+    "updated_at": "2026-10-19T20:57:16Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-10-19T20:56:52Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 5,
+    "updated_at": "2026-10-19T20:55:33Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter",
+    "id": "ClaraBozkurt53400/Upwork-AI-jobs-applier",
+    "language": "Python",
+    "name": "ClaraBozkurt53400/Upwork-AI-jobs-applier",
+    "stars": 0,
+    "updated_at": "2026-10-19T20:54:32Z",
+    "url": "https://github.com/ClaraBozkurt53400/Upwork-AI-jobs-applier"
+  },
+  {
+    "description": "AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter",
+    "id": "AliMonti47/Upwork-AI-jobs-applier",
+    "language": "Python",
+    "name": "AliMonti47/Upwork-AI-jobs-applier",
+    "stars": 0,
+    "updated_at": "2026-10-19T20:54:28Z",
+    "url": "https://github.com/AliMonti47/Upwork-AI-jobs-applier"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-19T20:53:40Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 81,
+    "updated_at": "2026-10-19T20:53:27Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-10-19T20:53:32Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
+    "description": "AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter",
+    "id": "GiovanniJimenez34810/Upwork-AI-jobs-applier",
+    "language": "Python",
+    "name": "GiovanniJimenez34810/Upwork-AI-jobs-applier",
+    "stars": 0,
+    "updated_at": "2026-10-19T20:50:22Z",
+    "url": "https://github.com/GiovanniJimenez34810/Upwork-AI-jobs-applier"
+  },
+  {
     "description": "[EMNLP 2026] \ud83e\udd80 The first autonomous hackathon agent stop assisting and start competing (\ud83c\udfc6 Hackathon Champion Project).",
     "id": "0xclaw-ai/0xClaw",
     "language": "Python",
@@ -32,7 +140,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-19T20:41:40Z",
+    "updated_at": "2026-10-19T20:54:02Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -113,7 +221,7 @@
     "language": "Rust",
     "name": "ArthurReboulSalze/Sherka-Compagnon",
     "stars": 1,
-    "updated_at": "2026-10-19T20:29:41Z",
+    "updated_at": "2026-10-19T20:51:39Z",
     "url": "https://github.com/ArthurReboulSalze/Sherka-Compagnon"
   },
   {
@@ -180,15 +288,6 @@
     "url": "https://github.com/plurnk/plurnk"
   },
   {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 5,
-    "updated_at": "2026-10-19T20:37:16Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
     "description": "Anu: voice-first, on-device agentic AI for iOS. Gemma 4 E4B via LiteRT, NLEmbedding task router, ReAct tools, MCP connec",
     "id": "sandeepvijayarao09/Anu-iOS",
     "language": "Swift",
@@ -205,15 +304,6 @@
     "stars": 640,
     "updated_at": "2026-10-19T19:57:08Z",
     "url": "https://github.com/mnemon-dev/mnemon"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-19T19:52:38Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "An open source AI roleplay agent harness. One click builds an autonomous character agent that creates with you. Websites",
@@ -351,15 +441,6 @@
     "url": "https://github.com/giridhar1103/NYCynapse.Ai"
   },
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 808,
-    "updated_at": "2026-10-19T18:30:30Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
     "description": "Cuse \u2014 open-source AI cursor agent for macOS. Type or speak a task and an AI cursor clicks, types and navigates any Mac ",
     "id": "muneebkhan08/Cuse",
     "language": "Swift",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-19T18:23:35Z",
     "url": "https://github.com/muneebkhan08/Cuse"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 6300,
-    "updated_at": "2026-10-19T18:20:55Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
-    "id": "yurika0211/lucky-agent",
-    "language": "Go",
-    "name": "yurika0211/lucky-agent",
-    "stars": 15,
-    "updated_at": "2026-10-19T18:17:33Z",
-    "url": "https://github.com/yurika0211/lucky-agent"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-10-19T18:09:47Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
-    "id": "alexwkleung/reika",
-    "language": "TypeScript",
-    "name": "alexwkleung/reika",
-    "stars": 11,
-    "updated_at": "2026-10-19T18:06:51Z",
-    "url": "https://github.com/alexwkleung/reika"
-  },
-  {
-    "description": "Desktop AI coding agent for Linux/Windows/macOS: an Avalonia .NET app with git-worktree isolation per session, plan revi",
-    "id": "Kvindo/KvindoCode",
-    "language": "C#",
-    "name": "Kvindo/KvindoCode",
-    "stars": 2,
-    "updated_at": "2026-10-19T18:06:44Z",
-    "url": "https://github.com/Kvindo/KvindoCode"
-  },
-  {
-    "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
-    "id": "honestDS/MonoLight",
-    "language": "Python",
-    "name": "honestDS/MonoLight",
-    "stars": 9,
-    "updated_at": "2026-10-19T17:51:59Z",
-    "url": "https://github.com/honestDS/MonoLight"
-  },
-  {
-    "description": "\u975e\u7ebf\u667a\u80fd NoneLinear - ReLE\u8bc4\u6d4b\uff1a\u4e2d\u6587AI\u5927\u6a21\u578b\u80fd\u529b\u8bc4\u6d4b\uff08\u6301\u7eed\u66f4\u65b0\uff09\uff1a\u76ee\u524d\u5df2\u56ca\u62ec374\u4e2a\u5927\u6a21\u578b\uff0c\u8986\u76d6chatgpt\u3001gpt-5.4\u3001\u8c37\u6b4cgemini-3.1-pro\u3001Claude-4.6\u3001\u6587\u5fc3ERNIE-X1.1\u3001ERNIE",
-    "id": "jeinlee1991/chinese-llm-benchmark",
-    "language": "\u2014",
-    "name": "jeinlee1991/chinese-llm-benchmark",
-    "stars": 6481,
-    "updated_at": "2026-10-19T17:50:12Z",
-    "url": "https://github.com/jeinlee1991/chinese-llm-benchmark"
-  },
-  {
-    "description": "AstrBot \u7684\u63d2\u4ef6\u4e0e\u8865\u4e01\u5408\u96c6\uff1a\u81ea\u5efa\u7f51\u9875\u68c0\u7d22\uff08\u8d70\u672c\u673a Edge\uff0c\u4e0d\u4f9d\u8d56\u641c\u7d22 API\uff09\u3001\u628a QQ \u6536\u85cf\u8868\u60c5\u53d1\u8fdb\u4f1a\u8bdd\u3001\u8131\u79bb ComfyUI \u7684 SDXL \u751f\u56fe\u540e\u7aef\uff08\u591a\u5e95\u6a21/\u591a\u753b\u98ce/\u4e24\u6863\u91c7\u6837\u5668/\u753b\u5e45\u4e0a\u9650\u5168\u90e8\u53ef\u914d\uff09\u3001\u770b\u5934\u50cf\u4e0e\u5386\u53f2\u56de\u6eaf",
-    "id": "Kiru-Sama/Kiru-Astrbot-Addons",
-    "language": "Python",
-    "name": "Kiru-Sama/Kiru-Astrbot-Addons",
-    "stars": 0,
-    "updated_at": "2026-10-19T17:44:53Z",
-    "url": "https://github.com/Kiru-Sama/Kiru-Astrbot-Addons"
-  },
-  {
-    "description": "LLM agent for post-silicon hardware diagnostics \u2014 GPU XID / PCIe error triage",
-    "id": "Ezra-Zhao/AI-Node-Sentinel",
-    "language": "Python",
-    "name": "Ezra-Zhao/AI-Node-Sentinel",
-    "stars": 0,
-    "updated_at": "2026-10-19T17:36:59Z",
-    "url": "https://github.com/Ezra-Zhao/AI-Node-Sentinel"
   }
 ]
