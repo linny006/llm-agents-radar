@@ -1,5 +1,77 @@
 [
   {
+    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
+    "id": "hsaghir/looplet",
+    "language": "Python",
+    "name": "hsaghir/looplet",
+    "stars": 7,
+    "updated_at": "2026-10-19T04:42:37Z",
+    "url": "https://github.com/hsaghir/looplet"
+  },
+  {
+    "description": "\u7ed9 DSH \u7528\u7684\u5f00\u53d1\u65e5\u5fd7\u63d2\u4ef6\u3002\u81ea\u52a8\u8bb0\u5f55\"\u4e3a\u4ec0\u4e48\"\u548c\"\u8e29\u4e86\u4ec0\u4e48\u5751\"\u3002",
+    "id": "ccr-wer/dsh-devlog-auto",
+    "language": "JavaScript",
+    "name": "ccr-wer/dsh-devlog-auto",
+    "stars": 0,
+    "updated_at": "2026-10-19T04:39:30Z",
+    "url": "https://github.com/ccr-wer/dsh-devlog-auto"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-19T04:37:56Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "\u6b66\u6c49\u5927\u5b66\u5730\u7a7a\u5b66\u9662 2026 \u5927\u521b\uff1a\u591a\u667a\u80fd\u4f53 AI \u91ce\u5916\u53f0\u7ad9\u7ba1\u7406\u7cfb\u7edf \u2014\u2014 \u76d1\u6d4b/\u8d28\u63a7/\u7814\u5224/\u6d3e\u5355/\u5f52\u6863\u95ed\u73af\u3002LangGraph \u8fd0\u884c\u65f6 \u00b7 MCP \u5de5\u5177\u63a5\u53e3 \u00b7 \u89c4\u5219\u88c1\u51b3 + \u5927\u6a21\u578b\u5f52\u56e0\u3002\u516c\u5f00\u8131\u654f\u4ed3\u5e93",
+    "id": "yasunosubaru/field-station-agent",
+    "language": "Python",
+    "name": "yasunosubaru/field-station-agent",
+    "stars": 0,
+    "updated_at": "2026-10-19T04:40:57Z",
+    "url": "https://github.com/yasunosubaru/field-station-agent"
+  },
+  {
+    "description": "A decision gate for DSH \u2014 ask five questions before every shell command, then allow, ask, or deny.",
+    "id": "SeasonTemple/dsh-decision-gate",
+    "language": "Python",
+    "name": "SeasonTemple/dsh-decision-gate",
+    "stars": 1,
+    "updated_at": "2026-10-19T04:36:24Z",
+    "url": "https://github.com/SeasonTemple/dsh-decision-gate"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-19T04:35:48Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Local-first open-source AI coding agent built with Go \u2014 Desktop, CLI, TUI, WebUI, MCP, Skills, multi-agent workflows, an",
+    "id": "konglong87/go-e2e",
+    "language": "Go",
+    "name": "konglong87/go-e2e",
+    "stars": 0,
+    "updated_at": "2026-10-19T04:34:25Z",
+    "url": "https://github.com/konglong87/go-e2e"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 5,
+    "updated_at": "2026-10-19T04:30:17Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
     "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
     "id": "xianyu-sheng/Xenon",
     "language": "Python",
@@ -14,17 +86,8 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 14,
-    "updated_at": "2026-10-19T04:29:45Z",
+    "updated_at": "2026-10-19T04:45:02Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-19T04:18:09Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001HMI\u548cAndroid\u53cc\u7aef\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
@@ -41,7 +104,7 @@
     "language": "Java",
     "name": "kangwoo/aimon-core",
     "stars": 0,
-    "updated_at": "2026-10-19T04:13:28Z",
+    "updated_at": "2026-10-19T04:33:19Z",
     "url": "https://github.com/kangwoo/aimon-core"
   },
   {
@@ -50,7 +113,7 @@
     "language": "Dart",
     "name": "justacalico/devinorium",
     "stars": 0,
-    "updated_at": "2026-10-19T04:12:18Z",
+    "updated_at": "2026-10-19T04:34:28Z",
     "url": "https://github.com/justacalico/devinorium"
   },
   {
@@ -61,15 +124,6 @@
     "stars": 33482,
     "updated_at": "2026-10-19T04:10:27Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "A decision gate for DSH \u2014 ask five questions before every shell command, then allow, ask, or deny.",
-    "id": "SeasonTemple/dsh-decision-gate",
-    "language": "Python",
-    "name": "SeasonTemple/dsh-decision-gate",
-    "stars": 1,
-    "updated_at": "2026-10-19T04:09:55Z",
-    "url": "https://github.com/SeasonTemple/dsh-decision-gate"
   },
   {
     "description": "\u501f\u52a9\u5fae\u4fe1\u8bfb\u4e66\uff0c\u5c06\u4f60\u5173\u6ce8\u7684\u5fae\u4fe1\u516c\u4f17\u53f7\u81ea\u52a8\u6293\u53d6/\u603b\u7ed3\u63d0\u70bc\uff01\u624b\u52a8\u5c06\u5f85\u63d0\u70bc\u7684\u516c\u4f17\u53f7\u5bfc\u5165\u5fae\u4fe1\u8bfb\u4e66\u4e66\u67b6\u540e\uff0c\u4e00\u6b21\u626b\u7801\uff0c\u6bcf\u5929\u65e9\u4e0a\u5c31\u53ef\u4ee5\u5e2e\u4f60\u628a\u5173\u6ce8\u7684\u516c\u4f17\u53f7\u6700\u65b0\u6587\u7ae0\u8bfb\u6210\u4e00\u9875\u7eb8\uff0cAgent\u81ea\u52a8\u53d6\u5168\u6587 \u2192 \u53cc\u952e\u53bb\u91cd\u5f52\u6863 Markdown \u2192 agent \u751f\u6210\u6bcf\u65e5\u7b80",
@@ -135,24 +189,6 @@
     "url": "https://github.com/kyleslight/shun"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-19T03:37:04Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "Local-first open-source AI coding agent built with Go \u2014 Desktop, CLI, TUI, WebUI, MCP, Skills, multi-agent workflows, an",
-    "id": "konglong87/go-e2e",
-    "language": "Go",
-    "name": "konglong87/go-e2e",
-    "stars": 0,
-    "updated_at": "2026-10-19T03:35:57Z",
-    "url": "https://github.com/konglong87/go-e2e"
-  },
-  {
     "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
     "id": "Shuffle-1992/dsh-context-pilot",
     "language": "JavaScript",
@@ -212,7 +248,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 2,
-    "updated_at": "2026-10-19T04:20:14Z",
+    "updated_at": "2026-10-19T04:39:27Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-19T02:11:54Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "\ud83e\udd16 \u65b0\u4e00\u4ee3\u5f00\u6e90 Chrome \u4fa7\u8fb9\u680f\u81ea\u4e3b AI \u6d4f\u89c8\u5668\u667a\u80fd\u4f53\uff1a\u76ee\u6807\u9a71\u52a8\u3001\u957f\u7a0b\u89c4\u5212\u3001\u89c6\u89c9\u7a7a\u95f4\u611f\u77e5\u3001\u5feb\u6162\u53cc\u6838\u8ba4\u77e5\u4e0e\u7269\u7406\u7ea7\u64cd\u63a7\uff0c\u652f\u6301 DeepSeek \u601d\u8003\u6a21\u578b\u4e0e\u672c\u5730\u79bb\u7ebf LLM (BYOK)",
-    "id": "lusipad/browser-agent",
-    "language": "TypeScript",
-    "name": "lusipad/browser-agent",
-    "stars": 3,
-    "updated_at": "2026-10-19T02:09:17Z",
-    "url": "https://github.com/lusipad/browser-agent"
-  },
-  {
-    "description": "The coordination layer for Multiplayer AI",
-    "id": "cohexa-ai/agent-coherence",
-    "language": "Python",
-    "name": "cohexa-ai/agent-coherence",
-    "stars": 11,
-    "updated_at": "2026-10-19T01:54:03Z",
-    "url": "https://github.com/cohexa-ai/agent-coherence"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-10-19T01:35:44Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 806,
-    "updated_at": "2026-10-19T01:35:37Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   }
 ]
