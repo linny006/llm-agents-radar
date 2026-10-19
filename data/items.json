@@ -1,5 +1,41 @@
 [
   {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 363,
+    "updated_at": "2026-10-19T21:44:55Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-19T21:44:09Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 14,
+    "updated_at": "2026-10-19T21:41:40Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 5,
+    "updated_at": "2026-10-19T21:31:34Z",
+    "url": "https://github.com/ljedrz/nachalnik"
+  },
+  {
     "description": "A BI agent that answers questions about 311 service requests from a Snowflake warehouse. Strands Agents, MCP, AWS Bedroc",
     "id": "chenziliang1/311-analytics-agent",
     "language": "Python",
@@ -25,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T21:21:29Z",
     "url": "https://github.com/Romequinco/10k-financial-agent"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 363,
-    "updated_at": "2026-10-19T21:24:51Z",
-    "url": "https://github.com/yologdev/yoagent"
   },
   {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
@@ -95,7 +122,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-19T21:20:41Z",
+    "updated_at": "2026-10-19T21:33:36Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -176,7 +203,7 @@
     "language": "Python",
     "name": "rekursiv-ai/sagent",
     "stars": 81,
-    "updated_at": "2026-10-19T20:53:27Z",
+    "updated_at": "2026-10-19T21:43:25Z",
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
@@ -279,15 +306,6 @@
     "url": "https://github.com/adam86440/DM-Code-Agent"
   },
   {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 14,
-    "updated_at": "2026-10-19T20:32:28Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "A voice AI companion for Windows and Linux. Personalities, voices, memories and ComfyUI scenes, with local models, cloud",
     "id": "ArthurReboulSalze/Sherka-Compagnon",
     "language": "Rust",
@@ -313,15 +331,6 @@
     "stars": 2,
     "updated_at": "2026-10-19T20:15:59Z",
     "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-19T20:14:52Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
@@ -392,7 +401,7 @@
     "language": "HCL",
     "name": "sindredg/ai-security-platform",
     "stars": 0,
-    "updated_at": "2026-10-19T21:14:06Z",
+    "updated_at": "2026-10-19T21:40:33Z",
     "url": "https://github.com/sindredg/ai-security-platform"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-19T19:32:30Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "The LLM Anti-Framework",
-    "id": "Mirascope/mirascope",
-    "language": "Python",
-    "name": "Mirascope/mirascope",
-    "stars": 1533,
-    "updated_at": "2026-10-19T19:19:04Z",
-    "url": "https://github.com/Mirascope/mirascope"
   }
 ]
