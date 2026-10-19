@@ -1,21 +1,66 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-10-19T13:58:58Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 81,
+    "updated_at": "2026-10-19T13:50:16Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
+    "id": "zeng6125-rgb/suixing",
+    "language": "Kotlin",
+    "name": "zeng6125-rgb/suixing",
+    "stars": 0,
+    "updated_at": "2026-10-19T13:49:00Z",
+    "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "Gestor ag\u00e9ntico de modelos llm",
+    "id": "bondwell79/hercules",
+    "language": "Python",
+    "name": "bondwell79/hercules",
+    "stars": 0,
+    "updated_at": "2026-10-19T13:48:37Z",
+    "url": "https://github.com/bondwell79/hercules"
+  },
+  {
+    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 53,
+    "updated_at": "2026-10-19T13:48:03Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-19T13:46:22Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
     "description": "Autonomous personal agent: talks, acts, never gives up. Multi-model, multi-user, self-improving",
     "id": "franckolv-dev/ELY2",
     "language": "Python",
     "name": "franckolv-dev/ELY2",
     "stars": 1,
-    "updated_at": "2026-10-19T13:44:59Z",
+    "updated_at": "2026-10-19T13:45:54Z",
     "url": "https://github.com/franckolv-dev/ELY2"
-  },
-  {
-    "description": "AIOps for telecom: synthetic network KPIs with labeled fault injection, Isolation Forest vs LSTM autoencoder, and an LLM",
-    "id": "KnissMootez/Anomaly-Detection",
-    "language": "Jupyter Notebook",
-    "name": "KnissMootez/Anomaly-Detection",
-    "stars": 0,
-    "updated_at": "2026-10-19T13:44:26Z",
-    "url": "https://github.com/KnissMootez/Anomaly-Detection"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -27,21 +72,12 @@
     "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
-    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 53,
-    "updated_at": "2026-10-19T13:41:52Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
     "description": "Desktop AI coding agent for Linux/Windows/macOS: an Avalonia .NET app with git-worktree isolation per session, plan revi",
     "id": "Kvindo/KvindoCode",
     "language": "C#",
     "name": "Kvindo/KvindoCode",
     "stars": 3,
-    "updated_at": "2026-10-19T13:39:34Z",
+    "updated_at": "2026-10-19T13:53:29Z",
     "url": "https://github.com/Kvindo/KvindoCode"
   },
   {
@@ -50,7 +86,7 @@
     "language": "TypeScript",
     "name": "strands-agents/harness-sdk",
     "stars": 8865,
-    "updated_at": "2026-10-19T13:34:33Z",
+    "updated_at": "2026-10-19T13:54:59Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -131,7 +167,7 @@
     "language": "TypeScript",
     "name": "robolong/zhengming",
     "stars": 0,
-    "updated_at": "2026-10-19T13:44:58Z",
+    "updated_at": "2026-10-19T13:56:57Z",
     "url": "https://github.com/robolong/zhengming"
   },
   {
@@ -198,15 +234,6 @@
     "url": "https://github.com/zlci7/world-is-agent"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-19T12:45:16Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "Official codebase for Spotter: Let the Embodied Model Lead, and the VLM Reflect for It",
     "id": "zqc3117/Spotter",
     "language": "Python",
@@ -266,7 +293,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4455,
-    "updated_at": "2026-10-19T13:03:35Z",
+    "updated_at": "2026-10-19T13:55:12Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -365,7 +392,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-19T11:57:04Z",
+    "updated_at": "2026-10-19T13:54:15Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -414,15 +441,6 @@
     "url": "https://github.com/VoroshylovV/job-search-automation-pipeline"
   },
   {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 81,
-    "updated_at": "2026-10-19T11:19:38Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
     "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
     "id": "metric-space-ai/greppy",
     "language": "Rust",
@@ -430,23 +448,5 @@
     "stars": 11,
     "updated_at": "2026-10-19T11:52:12Z",
     "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
-    "description": "Read-only AWS inventory with a graph model and an LLM agent that answers security questions with validated citations. Po",
-    "id": "TomKoren1/Sightline",
-    "language": "TypeScript",
-    "name": "TomKoren1/Sightline",
-    "stars": 0,
-    "updated_at": "2026-10-19T11:10:27Z",
-    "url": "https://github.com/TomKoren1/Sightline"
-  },
-  {
-    "description": "Open-source, self-hostable AppSec agent that finds, proves, and helps fix web/API vulnerabilities \u2014 evidence-first (inde",
-    "id": "NitinReddy-A/Rampart",
-    "language": "Python",
-    "name": "NitinReddy-A/Rampart",
-    "stars": 8,
-    "updated_at": "2026-10-19T11:05:56Z",
-    "url": "https://github.com/NitinReddy-A/Rampart"
   }
 ]
