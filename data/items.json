@@ -1,5 +1,59 @@
 [
   {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 807,
+    "updated_at": "2026-10-19T12:59:44Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "A unified .NET abstraction layer for multiple Large Language Model (LLM) providers. Nexus-LLM simplifies integration wit",
+    "id": "brutal-45/Nexus-LLM",
+    "language": "Python",
+    "name": "brutal-45/Nexus-LLM",
+    "stars": 0,
+    "updated_at": "2026-10-19T12:59:24Z",
+    "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "My collection of Claude Code Agents & Skills for web and iOS Development",
+    "id": "mintuz/skills",
+    "language": "Python",
+    "name": "mintuz/skills",
+    "stars": 29,
+    "updated_at": "2026-10-19T12:57:42Z",
+    "url": "https://github.com/mintuz/skills"
+  },
+  {
+    "description": "A game-agnostic LLM agent runtime for autonomous NPCs, with Stardew Valley as the first real-world adapter.",
+    "id": "zlci7/world-is-agent",
+    "language": "Go",
+    "name": "zlci7/world-is-agent",
+    "stars": 0,
+    "updated_at": "2026-10-19T12:56:46Z",
+    "url": "https://github.com/zlci7/world-is-agent"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 6,
+    "updated_at": "2026-10-19T12:54:48Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-19T12:45:16Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
     "id": "plurnk/plurnk-service",
     "language": "TypeScript",
@@ -25,15 +79,6 @@
     "stars": 203,
     "updated_at": "2026-10-19T12:43:25Z",
     "url": "https://github.com/zqc3117/Spotter"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 807,
-    "updated_at": "2026-10-19T12:40:11Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "\u53d6\u540d\u5de5\u4f5c\u53f0\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 A local-first Chinese baby-naming desktop app",
@@ -86,7 +131,7 @@
     "language": "TypeScript",
     "name": "Cognipeer/agent-sdk",
     "stars": 7,
-    "updated_at": "2026-10-19T12:27:47Z",
+    "updated_at": "2026-10-19T12:52:35Z",
     "url": "https://github.com/Cognipeer/agent-sdk"
   },
   {
@@ -94,7 +139,7 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 3635,
+    "stars": 3636,
     "updated_at": "2026-10-19T12:27:07Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
@@ -104,7 +149,7 @@
     "language": "Python",
     "name": "AVADSA25/codec",
     "stars": 109,
-    "updated_at": "2026-10-19T12:44:57Z",
+    "updated_at": "2026-10-19T12:57:02Z",
     "url": "https://github.com/AVADSA25/codec"
   },
   {
@@ -113,7 +158,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 14,
-    "updated_at": "2026-10-19T12:25:01Z",
+    "updated_at": "2026-10-19T12:58:42Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -207,15 +252,6 @@
     "url": "https://github.com/memoways/ava-proto1"
   },
   {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 6,
-    "updated_at": "2026-10-19T12:04:42Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
     "description": "Visual inspection with an LLM agent: YOLOv8 + Qwen-VL, RAG standards retrieval via tool calling with grounded citations,",
     "id": "mino19790622-dot/visual-inspection-report-generator",
     "language": "Python",
@@ -243,6 +279,15 @@
     "url": "https://github.com/ljchang/mecha"
   },
   {
+    "description": "A Rust library for talking to LLM backends.",
+    "id": "nassor/cuca",
+    "language": "Rust",
+    "name": "nassor/cuca",
+    "stars": 0,
+    "updated_at": "2026-10-19T11:51:34Z",
+    "url": "https://github.com/nassor/cuca"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -250,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T11:50:05Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-19T12:45:16Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Scene-Designer: Learning Design Intelligence for Agentic 3D Scene Generation",
@@ -373,7 +409,7 @@
     "id": "410979729/scope-recall-hermes",
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
-    "stars": 411,
+    "stars": 412,
     "updated_at": "2026-10-19T10:32:20Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
@@ -412,41 +448,5 @@
     "stars": 7,
     "updated_at": "2026-10-19T10:28:19Z",
     "url": "https://github.com/edjafarov/kiagent-core"
-  },
-  {
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
-    "id": "bigfish1913/pi-rust",
-    "language": "Rust",
-    "name": "bigfish1913/pi-rust",
-    "stars": 117,
-    "updated_at": "2026-10-19T10:27:44Z",
-    "url": "https://github.com/bigfish1913/pi-rust"
-  },
-  {
-    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
-    "id": "wufufu770/d2d",
-    "language": "JavaScript",
-    "name": "wufufu770/d2d",
-    "stars": 5,
-    "updated_at": "2026-10-19T10:25:03Z",
-    "url": "https://github.com/wufufu770/d2d"
-  },
-  {
-    "description": "Lean, extended fork of Nous Research's Hermes Agent \u2014 free model suite, connectors, and ~20 perf fixes. Upstream credite",
-    "id": "Chensihakniroth/anakot-agent-v1",
-    "language": "Python",
-    "name": "Chensihakniroth/anakot-agent-v1",
-    "stars": 0,
-    "updated_at": "2026-10-19T10:24:39Z",
-    "url": "https://github.com/Chensihakniroth/anakot-agent-v1"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 363,
-    "updated_at": "2026-10-19T10:20:36Z",
-    "url": "https://github.com/yologdev/yoagent"
   }
 ]
