@@ -1,12 +1,120 @@
 [
   {
+    "description": "[EMNLP 2026] \ud83e\udd80 The first autonomous hackathon agent stop assisting and start competing (\ud83c\udfc6 Hackathon Champion Project).",
+    "id": "0xclaw-ai/0xClaw",
+    "language": "Python",
+    "name": "0xclaw-ai/0xClaw",
+    "stars": 14,
+    "updated_at": "2026-10-19T19:45:11Z",
+    "url": "https://github.com/0xclaw-ai/0xClaw"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-10-19T19:44:31Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "\ud83e\udd16 Lightweight, message-first agent runtime",
+    "id": "Cognipeer/agent-sdk",
+    "language": "TypeScript",
+    "name": "Cognipeer/agent-sdk",
+    "stars": 7,
+    "updated_at": "2026-10-19T19:44:31Z",
+    "url": "https://github.com/Cognipeer/agent-sdk"
+  },
+  {
+    "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
+    "id": "sindredg/ai-security-platform",
+    "language": "HCL",
+    "name": "sindredg/ai-security-platform",
+    "stars": 0,
+    "updated_at": "2026-10-19T19:44:25Z",
+    "url": "https://github.com/sindredg/ai-security-platform"
+  },
+  {
+    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
+    "id": "KaletoAI/anima-verse",
+    "language": "Python",
+    "name": "KaletoAI/anima-verse",
+    "stars": 4,
+    "updated_at": "2026-10-19T19:42:22Z",
+    "url": "https://github.com/KaletoAI/anima-verse"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-19T19:41:54Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-19T19:41:39Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 14,
+    "updated_at": "2026-10-19T19:41:57Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-19T19:39:35Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 6,
+    "updated_at": "2026-10-19T19:37:37Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
     "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
     "id": "RalfHermsen/x4-agent",
     "language": "Python",
     "name": "RalfHermsen/x4-agent",
     "stars": 0,
-    "updated_at": "2026-10-19T19:25:34Z",
+    "updated_at": "2026-10-19T19:37:34Z",
     "url": "https://github.com/RalfHermsen/x4-agent"
+  },
+  {
+    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 415,
+    "updated_at": "2026-10-19T19:35:02Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 2,
+    "updated_at": "2026-10-19T19:32:30Z",
+    "url": "https://github.com/b-macker/NAAb"
   },
   {
     "description": "The LLM Anti-Framework",
@@ -50,7 +158,7 @@
     "language": "Go",
     "name": "mnemon-dev/mnemon",
     "stars": 640,
-    "updated_at": "2026-10-19T19:29:21Z",
+    "updated_at": "2026-10-19T19:43:24Z",
     "url": "https://github.com/mnemon-dev/mnemon"
   },
   {
@@ -79,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T18:54:11Z",
     "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
-    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
-    "id": "KaletoAI/anima-verse",
-    "language": "Python",
-    "name": "KaletoAI/anima-verse",
-    "stars": 4,
-    "updated_at": "2026-10-19T18:53:40Z",
-    "url": "https://github.com/KaletoAI/anima-verse"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -151,15 +250,6 @@
     "stars": 15,
     "updated_at": "2026-10-19T18:17:33Z",
     "url": "https://github.com/yurika0211/lucky-agent"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 6,
-    "updated_at": "2026-10-19T18:17:31Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -234,24 +324,6 @@
     "url": "https://github.com/Ezra-Zhao/AI-Node-Sentinel"
   },
   {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-19T17:36:43Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-19T19:16:52Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
     "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
     "id": "roxm337/osint-agent",
     "language": "Python",
@@ -286,15 +358,6 @@
     "stars": 10,
     "updated_at": "2026-10-19T17:08:46Z",
     "url": "https://github.com/eshanized/M31A"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 2,
-    "updated_at": "2026-10-19T18:06:14Z",
-    "url": "https://github.com/b-macker/NAAb"
   },
   {
     "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-19T16:25:13Z",
     "url": "https://github.com/rpkpdl/local-ai-assistant"
-  },
-  {
-    "description": "\u591a\u667a\u80fd\u4f53\u957f\u671f\u8bb0\u5fc6\u57fa\u7840\u8bbe\u65bd \u00b7 18 \u4e2a MCP \u5de5\u5177 \u00b7 OAuth 2.1 \u8d26\u6237\u6c99\u7bb1 \u00b7 Chat/Working/Coding \u4e09\u5c42\u8ba4\u77e5\u8bb0\u5fc6\uff08Rust + PostgreSQL/pgvector\uff09",
-    "id": "orderye/memory-hub",
-    "language": "Rust",
-    "name": "orderye/memory-hub",
-    "stars": 0,
-    "updated_at": "2026-10-19T16:23:09Z",
-    "url": "https://github.com/orderye/memory-hub"
-  },
-  {
-    "description": "Turn your Claude subscription into an AI employee in Telegram. Open-source kit behind 18 working assistants.",
-    "id": "shakhruz/mila-companion",
-    "language": "Python",
-    "name": "shakhruz/mila-companion",
-    "stars": 1,
-    "updated_at": "2026-10-19T16:20:58Z",
-    "url": "https://github.com/shakhruz/mila-companion"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 363,
-    "updated_at": "2026-10-19T16:46:11Z",
-    "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-10-19T16:12:13Z",
-    "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 1191,
-    "updated_at": "2026-10-19T15:38:14Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 822,
-    "updated_at": "2026-10-19T15:41:33Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Verify what smolagents actually does, not what its README says. 31 side-effect-based cases, no API key needed.",
-    "id": "linmoxi33/smolagents-audit",
-    "language": "Python",
-    "name": "linmoxi33/smolagents-audit",
-    "stars": 0,
-    "updated_at": "2026-10-19T15:35:23Z",
-    "url": "https://github.com/linmoxi33/smolagents-audit"
   }
 ]
