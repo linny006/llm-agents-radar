@@ -1,11 +1,47 @@
 [
   {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 14,
+    "updated_at": "2026-10-19T22:44:59Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-10-19T22:44:43Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 81,
+    "updated_at": "2026-10-19T22:40:26Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "",
+    "id": "andrewalhaj/custom-hermesagent",
+    "language": "Python",
+    "name": "andrewalhaj/custom-hermesagent",
+    "stars": 0,
+    "updated_at": "2026-10-19T22:34:56Z",
+    "url": "https://github.com/andrewalhaj/custom-hermesagent"
+  },
+  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4456,
-    "updated_at": "2026-10-19T22:28:15Z",
+    "updated_at": "2026-10-19T22:44:56Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -36,15 +72,6 @@
     "url": "https://github.com/michaelli28/accessibility-agent"
   },
   {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 14,
-    "updated_at": "2026-10-19T22:29:43Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "Educational proof of concept, not investment advice: Python and LangGraph agent analysing a fixed watchlist of US stocks",
     "id": "DominikSienkiewicz/StockAgent",
     "language": "Python",
@@ -52,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-10-19T22:08:18Z",
     "url": "https://github.com/DominikSienkiewicz/StockAgent"
-  },
-  {
-    "description": "",
-    "id": "andrewalhaj/custom-hermesagent",
-    "language": "Python",
-    "name": "andrewalhaj/custom-hermesagent",
-    "stars": 0,
-    "updated_at": "2026-10-19T22:07:31Z",
-    "url": "https://github.com/andrewalhaj/custom-hermesagent"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -81,20 +99,11 @@
     "url": "https://github.com/KaletoAI/anima-verse"
   },
   {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 81,
-    "updated_at": "2026-10-19T21:49:44Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 812,
+    "stars": 813,
     "updated_at": "2026-10-19T21:45:57Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-19T21:40:33Z",
     "url": "https://github.com/sindredg/ai-security-platform"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-10-19T19:44:31Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   }
 ]
