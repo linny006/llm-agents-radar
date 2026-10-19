@@ -1,5 +1,77 @@
 [
   {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 808,
+    "updated_at": "2026-10-19T17:14:47Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "Hesperus: a camera that almost never looks. Describe what you want to know in plain English; an LLM plans when to take a",
+    "id": "WhitehatD/hesperus",
+    "language": "C",
+    "name": "WhitehatD/hesperus",
+    "stars": 5,
+    "updated_at": "2026-10-19T17:10:23Z",
+    "url": "https://github.com/WhitehatD/hesperus"
+  },
+  {
+    "description": "The LLM Anti-Framework",
+    "id": "Mirascope/mirascope",
+    "language": "Python",
+    "name": "Mirascope/mirascope",
+    "stars": 1533,
+    "updated_at": "2026-10-19T17:09:40Z",
+    "url": "https://github.com/Mirascope/mirascope"
+  },
+  {
+    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
+    "id": "eshanized/M31A",
+    "language": "Rust",
+    "name": "eshanized/M31A",
+    "stars": 10,
+    "updated_at": "2026-10-19T17:08:46Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-19T17:07:07Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 2,
+    "updated_at": "2026-10-19T17:06:36Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4455,
+    "updated_at": "2026-10-19T17:12:03Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
+    "id": "RalfHermsen/x4-agent",
+    "language": "Python",
+    "name": "RalfHermsen/x4-agent",
+    "stars": 0,
+    "updated_at": "2026-10-19T17:00:25Z",
+    "url": "https://github.com/RalfHermsen/x4-agent"
+  },
+  {
     "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
     "id": "ljedrz/nachalnik",
     "language": "Rust",
@@ -22,27 +94,9 @@
     "id": "NitinReddy-A/Rampart",
     "language": "Python",
     "name": "NitinReddy-A/Rampart",
-    "stars": 12,
+    "stars": 13,
     "updated_at": "2026-10-19T16:57:29Z",
     "url": "https://github.com/NitinReddy-A/Rampart"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-19T16:51:30Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 808,
-    "updated_at": "2026-10-19T16:51:34Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -77,7 +131,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 2,
-    "updated_at": "2026-10-19T16:47:39Z",
+    "updated_at": "2026-10-19T17:12:09Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -225,15 +279,6 @@
     "url": "https://github.com/linmoxi33/smolagents-audit"
   },
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4455,
-    "updated_at": "2026-10-19T16:40:49Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
     "description": "An auto-evolution framework that optimizes anything \u2014 your 7\u00d724 team of algorithm engineers.",
     "id": "ant-research/AntOmniEvo",
     "language": "Python",
@@ -302,7 +347,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3637,
-    "updated_at": "2026-10-19T15:14:25Z",
+    "updated_at": "2026-10-19T17:04:23Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -329,7 +374,7 @@
     "language": "TypeScript",
     "name": "strands-agents/harness-sdk",
     "stars": 8866,
-    "updated_at": "2026-10-19T15:07:41Z",
+    "updated_at": "2026-10-19T17:04:00Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-19T14:44:30Z",
     "url": "https://github.com/wufufu770/d2d"
-  },
-  {
-    "description": "DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy.",
-    "id": "fernandosuzuki247/taracode",
-    "language": "Go",
-    "name": "fernandosuzuki247/taracode",
-    "stars": 0,
-    "updated_at": "2026-10-19T14:51:00Z",
-    "url": "https://github.com/fernandosuzuki247/taracode"
-  },
-  {
-    "description": "\u975e\u5e38\u8be6\u7ec6\u7684\u5927\u6a21\u578bLLM\u7684\u5b66\u4e60\u6559\u7a0b\u4e0e\u7b14\u8bb0",
-    "id": "snovikov98344/LLM_book",
-    "language": "Python",
-    "name": "snovikov98344/LLM_book",
-    "stars": 0,
-    "updated_at": "2026-10-19T14:43:44Z",
-    "url": "https://github.com/snovikov98344/LLM_book"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 14,
-    "updated_at": "2026-10-19T14:43:47Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "My collection of Claude Code Agents & Skills for web and iOS Development",
-    "id": "mintuz/skills",
-    "language": "Python",
-    "name": "mintuz/skills",
-    "stars": 29,
-    "updated_at": "2026-10-19T14:43:04Z",
-    "url": "https://github.com/mintuz/skills"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-19T14:42:17Z",
-    "url": "https://github.com/ljchang/mecha"
   }
 ]
