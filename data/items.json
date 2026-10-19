@@ -1,5 +1,95 @@
 [
   {
+    "description": "\u5357\u4eac OSM + PostGIS \u7a7a\u95f4\u95ee\u7b54 Agent\uff1apgRouting \u6b65\u884c\u7b49\u65f6\u5708\u3001pgvector \u89c4\u5212\u6807\u51c6\u68c0\u7d22\u3001\u9884\u6ce8\u518c\u8bc4\u6d4b",
+    "id": "PlainSightX/geo-agent",
+    "language": "Python",
+    "name": "PlainSightX/geo-agent",
+    "stars": 0,
+    "updated_at": "2026-10-19T07:44:38Z",
+    "url": "https://github.com/PlainSightX/geo-agent"
+  },
+  {
+    "description": "pi coding agent \u7684\u4e2a\u4eba\u77e5\u8bc6\u5e93\uff1a\u4f7f\u7528\u7b14\u8bb0\u3001\u547d\u4ee4/\u5feb\u6377\u952e\u901f\u67e5\u8868\u3001\u63d2\u4ef6\u4e0e skill \u7cbe\u9009\u3001\u529f\u80fd\u63d0\u6848\uff08Observe Mode \u5b8c\u6574\u6837\u672c\uff1a\u62a5\u5e55\u7ea6\u5b9a\u2192\u53ef\u884c\u6027\u9a8c\u8bc1\u2192\u6269\u5c55\u5b9e\u73b0\uff09",
+    "id": "civaapple-alt/pi-custom",
+    "language": "TypeScript",
+    "name": "civaapple-alt/pi-custom",
+    "stars": 0,
+    "updated_at": "2026-10-19T07:43:31Z",
+    "url": "https://github.com/civaapple-alt/pi-custom"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 81,
+    "updated_at": "2026-10-19T07:40:21Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-19T07:40:17Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 131,
+    "updated_at": "2026-10-19T07:35:15Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "Scene-Designer: Learning Design Intelligence for Agentic 3D Scene Generation",
+    "id": "ZJU-OmniAI/Scene-Designer",
+    "language": "Python",
+    "name": "ZJU-OmniAI/Scene-Designer",
+    "stars": 10,
+    "updated_at": "2026-10-19T07:35:08Z",
+    "url": "https://github.com/ZJU-OmniAI/Scene-Designer"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-10-19T07:34:04Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 29,
+    "updated_at": "2026-10-19T07:32:49Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
+    "id": "kashyaprajharsh/medha-agent",
+    "language": "Rust",
+    "name": "kashyaprajharsh/medha-agent",
+    "stars": 0,
+    "updated_at": "2026-10-19T07:32:46Z",
+    "url": "https://github.com/kashyaprajharsh/medha-agent"
+  },
+  {
+    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
+    "id": "zeng6125-rgb/suixing",
+    "language": "Kotlin",
+    "name": "zeng6125-rgb/suixing",
+    "stars": 0,
+    "updated_at": "2026-10-19T07:31:57Z",
+    "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
     "description": "Make any agent harness token-native.",
     "id": "Lawhy/tokin",
     "language": "Python",
@@ -103,7 +193,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 33486,
+    "stars": 33487,
     "updated_at": "2026-10-19T07:09:39Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -203,7 +293,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 50,
-    "updated_at": "2026-10-19T06:50:44Z",
+    "updated_at": "2026-10-19T07:39:24Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -247,7 +337,7 @@
     "id": "ant-research/AntOmniEvo",
     "language": "Python",
     "name": "ant-research/AntOmniEvo",
-    "stars": 1220,
+    "stars": 1221,
     "updated_at": "2026-10-19T06:42:36Z",
     "url": "https://github.com/ant-research/AntOmniEvo"
   },
@@ -259,24 +349,6 @@
     "stars": 10,
     "updated_at": "2026-10-19T06:39:34Z",
     "url": "https://github.com/eshanized/M31A"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-19T06:39:04Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
-    "id": "zeng6125-rgb/suixing",
-    "language": "Kotlin",
-    "name": "zeng6125-rgb/suixing",
-    "stars": 0,
-    "updated_at": "2026-10-19T06:35:43Z",
-    "url": "https://github.com/zeng6125-rgb/suixing"
   },
   {
     "description": "Python \u4f9d\u8d56\u8fc1\u79fb Agent\uff1a\u4ee3\u7801\u8c03\u67e5\u3001\u7248\u672c\u6587\u6863\u68c0\u7d22\u3001Docker \u884c\u4e3a\u9a8c\u6536\u4e0e\u65ad\u70b9\u7eed\u8dd1",
@@ -310,7 +382,7 @@
     "id": "trhhubsd/ARTEX",
     "language": "Go",
     "name": "trhhubsd/ARTEX",
-    "stars": 1278,
+    "stars": 1280,
     "updated_at": "2026-10-19T06:31:07Z",
     "url": "https://github.com/trhhubsd/ARTEX"
   },
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-19T06:18:48Z",
     "url": "https://github.com/Sergeih0832/DM-Code-Agent"
-  },
-  {
-    "description": "An AI red-team agent for authorized labs and web app pentesting workflows. Turns Claude Code / OpenCode / Codex into a s",
-    "id": "MariaHussein8149/RedteamAgent",
-    "language": "Python",
-    "name": "MariaHussein8149/RedteamAgent",
-    "stars": 0,
-    "updated_at": "2026-10-19T06:16:33Z",
-    "url": "https://github.com/MariaHussein8149/RedteamAgent"
-  },
-  {
-    "description": "Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by ",
-    "id": "FrancoisVerhoeven14935/DM-Code-Agent",
-    "language": "Python",
-    "name": "FrancoisVerhoeven14935/DM-Code-Agent",
-    "stars": 0,
-    "updated_at": "2026-10-19T06:14:49Z",
-    "url": "https://github.com/FrancoisVerhoeven14935/DM-Code-Agent"
-  },
-  {
-    "description": "JevHub \u00b7 Jev \u751f\u6001\u70ed\u699c \u628a\u503c\u5f97\u5173\u6ce8\u7684 Jev \u9879\u76ee\u3001\u6559\u7a0b\u548c\u8ba8\u8bba\uff0c\u6c47\u5230\u4e00\u9875\u3002 \u81ea\u52a8\u53d1\u73b0 \u00b7 \u6bcf\u65e5\u66f4\u65b0 \u00b7 \u6309 Stars \u6392\u5e8f \u00b7 \u4e2d\u82f1\u53cc\u8bed",
-    "id": "frontierlabai/JevHub",
-    "language": "Python",
-    "name": "frontierlabai/JevHub",
-    "stars": 8,
-    "updated_at": "2026-10-19T06:12:01Z",
-    "url": "https://github.com/frontierlabai/JevHub"
-  },
-  {
-    "description": "DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy.",
-    "id": "CherylNomura7977/taracode",
-    "language": "Go",
-    "name": "CherylNomura7977/taracode",
-    "stars": 0,
-    "updated_at": "2026-10-19T06:11:35Z",
-    "url": "https://github.com/CherylNomura7977/taracode"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 6,
-    "updated_at": "2026-10-19T06:09:07Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
-    "id": "weihuaguo270-ops/react-agent",
-    "language": "Python",
-    "name": "weihuaguo270-ops/react-agent",
-    "stars": 0,
-    "updated_at": "2026-10-19T06:08:47Z",
-    "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "id": "lsdefine/GenericAgent",
-    "language": "Python",
-    "name": "lsdefine/GenericAgent",
-    "stars": 14327,
-    "updated_at": "2026-10-19T06:08:07Z",
-    "url": "https://github.com/lsdefine/GenericAgent"
-  },
-  {
-    "description": "PortableLM \u2014 Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe",
-    "id": "volkandiaz42525/PrivatePixelPrompt",
-    "language": "HTML",
-    "name": "volkandiaz42525/PrivatePixelPrompt",
-    "stars": 0,
-    "updated_at": "2026-10-19T06:06:16Z",
-    "url": "https://github.com/volkandiaz42525/PrivatePixelPrompt"
   }
 ]
