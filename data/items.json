@@ -1,12 +1,48 @@
 [
   {
+    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
+    "id": "zeng6125-rgb/suixing",
+    "language": "Kotlin",
+    "name": "zeng6125-rgb/suixing",
+    "stars": 0,
+    "updated_at": "2026-10-19T17:28:39Z",
+    "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 5,
+    "updated_at": "2026-10-19T17:27:24Z",
+    "url": "https://github.com/plurnk/plurnk"
+  },
+  {
+    "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
+    "id": "roxm337/osint-agent",
+    "language": "Python",
+    "name": "roxm337/osint-agent",
+    "stars": 0,
+    "updated_at": "2026-10-19T17:26:43Z",
+    "url": "https://github.com/roxm337/osint-agent"
+  },
+  {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 808,
-    "updated_at": "2026-10-19T17:14:47Z",
+    "updated_at": "2026-10-19T17:23:07Z",
     "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "The LLM Anti-Framework",
+    "id": "Mirascope/mirascope",
+    "language": "Python",
+    "name": "Mirascope/mirascope",
+    "stars": 1533,
+    "updated_at": "2026-10-19T17:15:33Z",
+    "url": "https://github.com/Mirascope/mirascope"
   },
   {
     "description": "Hesperus: a camera that almost never looks. Describe what you want to know in plain English; an LLM plans when to take a",
@@ -16,15 +52,6 @@
     "stars": 5,
     "updated_at": "2026-10-19T17:10:23Z",
     "url": "https://github.com/WhitehatD/hesperus"
-  },
-  {
-    "description": "The LLM Anti-Framework",
-    "id": "Mirascope/mirascope",
-    "language": "Python",
-    "name": "Mirascope/mirascope",
-    "stars": 1533,
-    "updated_at": "2026-10-19T17:09:40Z",
-    "url": "https://github.com/Mirascope/mirascope"
   },
   {
     "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
@@ -117,15 +144,6 @@
     "url": "https://github.com/Lucky-1608/Jarvis"
   },
   {
-    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
-    "id": "zeng6125-rgb/suixing",
-    "language": "Kotlin",
-    "name": "zeng6125-rgb/suixing",
-    "stars": 0,
-    "updated_at": "2026-10-19T16:48:38Z",
-    "url": "https://github.com/zeng6125-rgb/suixing"
-  },
-  {
     "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
     "id": "duongnq2798/vestiarion",
     "language": "TypeScript",
@@ -160,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T16:35:32Z",
     "url": "https://github.com/kashyaprajharsh/medha-agent"
-  },
-  {
-    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
-    "id": "plurnk/plurnk",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk",
-    "stars": 5,
-    "updated_at": "2026-10-19T16:34:53Z",
-    "url": "https://github.com/plurnk/plurnk"
   },
   {
     "description": "AI reasoning QA + retake note: when an AI answer disappoints, diagnose where its chain-of-thought went wrong and produce",
@@ -250,15 +259,6 @@
     "stars": 1191,
     "updated_at": "2026-10-19T15:38:14Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
-    "id": "roxm337/osint-agent",
-    "language": "Python",
-    "name": "roxm337/osint-agent",
-    "stars": 0,
-    "updated_at": "2026-10-19T15:37:05Z",
-    "url": "https://github.com/roxm337/osint-agent"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -347,7 +347,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3637,
-    "updated_at": "2026-10-19T17:04:23Z",
+    "updated_at": "2026-10-19T17:17:38Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -374,7 +374,7 @@
     "language": "TypeScript",
     "name": "strands-agents/harness-sdk",
     "stars": 8866,
-    "updated_at": "2026-10-19T17:04:00Z",
+    "updated_at": "2026-10-19T17:17:55Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
