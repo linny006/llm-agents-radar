@@ -1,5 +1,77 @@
 [
   {
+    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
+    "id": "zeng6125-rgb/suixing",
+    "language": "Kotlin",
+    "name": "zeng6125-rgb/suixing",
+    "stars": 0,
+    "updated_at": "2026-10-19T16:44:49Z",
+    "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 808,
+    "updated_at": "2026-10-19T16:43:44Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "\u5e26\u7b56\u7565\u9a8c\u8bc1\u7684 A \u80a1 LLM \u5206\u6790\u7cfb\u7edf \u2014\u2014 \u591a\u6e90\u964d\u7ea7 + \u5b9a\u65f6\u4efb\u52a1 + \u591a\u901a\u9053\u63a8\u9001\uff1b\u6838\u5fc3\u589e\u91cf\u662f\u53ef\u8bc1\u4f2a\u7684\u56de\u6d4b\u4e0e\u9a8c\u8bc1\u5c42\uff08\u672a\u6765\u51fd\u6570\u63a2\u6d4b / \u6837\u672c\u5185\u5916\u5207\u5206 / t\u68c0\u9a8c / \u57fa\u51c6\u5bf9\u6bd4\uff09",
+    "id": "AandBorC/dsa-lite",
+    "language": "Python",
+    "name": "AandBorC/dsa-lite",
+    "stars": 0,
+    "updated_at": "2026-10-19T16:40:04Z",
+    "url": "https://github.com/AandBorC/dsa-lite"
+  },
+  {
+    "description": "Personal AI agent built from scratch \u2014 LLM layer, RAG knowledge base, tool calling loop. No frameworks, learn by buildin",
+    "id": "Wenyan0315/facta",
+    "language": "Python",
+    "name": "Wenyan0315/facta",
+    "stars": 1,
+    "updated_at": "2026-10-19T16:36:17Z",
+    "url": "https://github.com/Wenyan0315/facta"
+  },
+  {
+    "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
+    "id": "kashyaprajharsh/medha-agent",
+    "language": "Rust",
+    "name": "kashyaprajharsh/medha-agent",
+    "stars": 0,
+    "updated_at": "2026-10-19T16:35:32Z",
+    "url": "https://github.com/kashyaprajharsh/medha-agent"
+  },
+  {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 5,
+    "updated_at": "2026-10-19T16:34:53Z",
+    "url": "https://github.com/plurnk/plurnk"
+  },
+  {
+    "description": "Not a chatbot\u2014a tireless digital secretary. Jarvis is a persistent, self-hosted AI operating system that manages communi",
+    "id": "Lucky-1608/Jarvis",
+    "language": "Python",
+    "name": "Lucky-1608/Jarvis",
+    "stars": 0,
+    "updated_at": "2026-10-19T16:30:34Z",
+    "url": "https://github.com/Lucky-1608/Jarvis"
+  },
+  {
+    "description": "AI reasoning QA + retake note: when an AI answer disappoints, diagnose where its chain-of-thought went wrong and produce",
+    "id": "flashfrogluo/second-take",
+    "language": "Shell",
+    "name": "flashfrogluo/second-take",
+    "stars": 3,
+    "updated_at": "2026-10-19T16:30:22Z",
+    "url": "https://github.com/flashfrogluo/second-take"
+  },
+  {
     "description": "AI-orchestrated job search pipeline: scrapes 5 UA job boards, uses Claude API to score matches & classify emails, writes",
     "id": "VoroshylovV/job-search-automation-pipeline",
     "language": "Python",
@@ -27,15 +99,6 @@
     "url": "https://github.com/rpkpdl/local-ai-assistant"
   },
   {
-    "description": "AI reasoning QA + retake note: when an AI answer disappoints, diagnose where its chain-of-thought went wrong and produce",
-    "id": "flashfrogluo/second-take",
-    "language": "Shell",
-    "name": "flashfrogluo/second-take",
-    "stars": 3,
-    "updated_at": "2026-10-19T16:30:15Z",
-    "url": "https://github.com/flashfrogluo/second-take"
-  },
-  {
     "description": "\u591a\u667a\u80fd\u4f53\u957f\u671f\u8bb0\u5fc6\u57fa\u7840\u8bbe\u65bd \u00b7 18 \u4e2a MCP \u5de5\u5177 \u00b7 OAuth 2.1 \u8d26\u6237\u6c99\u7bb1 \u00b7 Chat/Working/Coding \u4e09\u5c42\u8ba4\u77e5\u8bb0\u5fc6\uff08Rust + PostgreSQL/pgvector\uff09",
     "id": "orderye/memory-hub",
     "language": "Rust",
@@ -58,18 +121,9 @@
     "id": "NitinReddy-A/Rampart",
     "language": "Python",
     "name": "NitinReddy-A/Rampart",
-    "stars": 9,
+    "stars": 11,
     "updated_at": "2026-10-19T16:20:13Z",
     "url": "https://github.com/NitinReddy-A/Rampart"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 808,
-    "updated_at": "2026-10-19T16:25:04Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker.",
@@ -77,7 +131,7 @@
     "language": "Rust",
     "name": "yologdev/yoagent",
     "stars": 363,
-    "updated_at": "2026-10-19T16:15:19Z",
+    "updated_at": "2026-10-19T16:37:37Z",
     "url": "https://github.com/yologdev/yoagent"
   },
   {
@@ -97,24 +151,6 @@
     "stars": 1,
     "updated_at": "2026-10-19T16:08:16Z",
     "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
-    "id": "plurnk/plurnk",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk",
-    "stars": 5,
-    "updated_at": "2026-10-19T15:59:01Z",
-    "url": "https://github.com/plurnk/plurnk"
-  },
-  {
-    "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
-    "id": "kashyaprajharsh/medha-agent",
-    "language": "Rust",
-    "name": "kashyaprajharsh/medha-agent",
-    "stars": 0,
-    "updated_at": "2026-10-19T15:52:43Z",
-    "url": "https://github.com/kashyaprajharsh/medha-agent"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -167,7 +203,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4455,
-    "updated_at": "2026-10-19T16:17:34Z",
+    "updated_at": "2026-10-19T16:40:49Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -184,7 +220,7 @@
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
     "name": "grandgaming9321-prog/reality-engine",
-    "stars": 131,
+    "stars": 132,
     "updated_at": "2026-10-19T15:27:26Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
   },
@@ -205,15 +241,6 @@
     "stars": 2,
     "updated_at": "2026-10-19T15:26:24Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Personal AI agent built from scratch \u2014 LLM layer, RAG knowledge base, tool calling loop. No frameworks, learn by buildin",
-    "id": "Wenyan0315/facta",
-    "language": "Python",
-    "name": "Wenyan0315/facta",
-    "stars": 1,
-    "updated_at": "2026-10-19T15:52:33Z",
-    "url": "https://github.com/Wenyan0315/facta"
   },
   {
     "description": "Estrella Bot \u00b7 QQ \u7fa4 AI \u7fa4\u53cb\u673a\u5668\u4eba\u3002\u628a QQ \u5c0f\u53f7\u63a5\u7ed9\u4efb\u610f OpenAI \u517c\u5bb9\u6a21\u578b\uff08\u672c\u673a / DeepSeek / \u667a\u8c31 / \u901a\u4e49\uff09\uff0c\u8ba9 AI \u50cf\u7fa4\u53cb\u4e00\u6837\u63d2\u8bdd\u3001\u63a5\u6897\u3001\u6f5c\u6c34\u3002OneBot v11 + NapCat\uff0c\u96f6\u6784\u5efa",
@@ -275,7 +302,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 2,
-    "updated_at": "2026-10-19T16:27:37Z",
+    "updated_at": "2026-10-19T16:42:29Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 51,
     "updated_at": "2026-10-19T15:33:24Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
-  },
-  {
-    "description": "DeepSeek Harness \u5b89\u5353\u7248\uff1a\u81ea\u7814 Kotlin \u58f3 + \u5185\u5d4c ARM64 \u8fd0\u884c\u65f6 + WebView UI\uff0c\u542b PTY \u7ec8\u7aef\u4e0e Shizuku/\u65e0\u969c\u788d\u8bbe\u5907\u63a7\u5236\uff08\u65e0\u9700 root\uff09",
-    "id": "qsnddayst/dsh-android",
-    "language": "PowerShell",
-    "name": "qsnddayst/dsh-android",
-    "stars": 0,
-    "updated_at": "2026-10-19T14:38:34Z",
-    "url": "https://github.com/qsnddayst/dsh-android"
-  },
-  {
-    "description": "A voice AI companion for Windows and Linux. Personalities, voices, memories and ComfyUI scenes, with local models, cloud",
-    "id": "ArthurReboulSalze/Sherka-Compagnon",
-    "language": "Rust",
-    "name": "ArthurReboulSalze/Sherka-Compagnon",
-    "stars": 1,
-    "updated_at": "2026-10-19T14:53:43Z",
-    "url": "https://github.com/ArthurReboulSalze/Sherka-Compagnon"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-19T14:22:52Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   }
 ]
