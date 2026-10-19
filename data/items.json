@@ -1,12 +1,93 @@
 [
   {
+    "description": "\u8f7b\u91cf\u7684agent\u6846\u67b6",
+    "id": "qiuzixu/agent-core",
+    "language": "Python",
+    "name": "qiuzixu/agent-core",
+    "stars": 1,
+    "updated_at": "2026-10-19T02:44:29Z",
+    "url": "https://github.com/qiuzixu/agent-core"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4456,
+    "updated_at": "2026-10-19T02:44:21Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "End-to-end tabular classification app (Streamlit): EDA, leak-free scikit-learn pipeline, model selection with stratified",
+    "id": "sophiawang85/classification-studio",
+    "language": "Python",
+    "name": "sophiawang85/classification-studio",
+    "stars": 0,
+    "updated_at": "2026-10-19T02:43:45Z",
+    "url": "https://github.com/sophiawang85/classification-studio"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 33477,
+    "updated_at": "2026-10-19T02:43:31Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
     "description": "LLM Agent \u670d\u52a1\uff1aLangChain + FastAPI + Vue3\uff0c\u6df7\u5408\u68c0\u7d22 RAG \u5e26\u5f15\u7528\u6eaf\u6e90\uff0cReAct \u53cc\u67b6\u6784\u5b9e\u6d4b\u62e9\u4f18\uff0898.5% vs 89.7%\uff09\uff0c\u8bed\u4e49\u7f13\u5b58\u96f6\u8bef\u547d\u4e2d\uff0c158 \u6761\u8bc4\u6d4b + CI \u56de\u5f52\u95e8\u7981\uff0cDocker \u516c",
     "id": "SYM529/myAgent",
     "language": "Python",
     "name": "SYM529/myAgent",
     "stars": 2,
-    "updated_at": "2026-10-19T02:30:04Z",
+    "updated_at": "2026-10-19T02:41:42Z",
     "url": "https://github.com/SYM529/myAgent"
+  },
+  {
+    "description": "Harness LLMs with Multi-Agent Programming",
+    "id": "langroid/langroid",
+    "language": "Python",
+    "name": "langroid/langroid",
+    "stars": 4121,
+    "updated_at": "2026-10-19T02:40:14Z",
+    "url": "https://github.com/langroid/langroid"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-19T02:36:07Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "LLM-powered TeamSpeak bot | LLM\u9a71\u52a8\u7684TeamSpeak\u673a\u5668\u4eba",
+    "id": "Dr1mH4X/TeamSpeakClaw",
+    "language": "Rust",
+    "name": "Dr1mH4X/TeamSpeakClaw",
+    "stars": 6,
+    "updated_at": "2026-10-19T02:35:11Z",
+    "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
+  },
+  {
+    "description": "CineAgent\uff1a\u57fa\u4e8e FunRec \u589e\u91cf\u5f00\u53d1\u7684\u5bf9\u8bdd\u5f0f\u7535\u5f71\u63a8\u8350\u7cfb\u7edf\uff0c\u542b\u63a8\u8350\u8def\u7ebf\u5bf9\u7167\u3001\u504f\u597d\u8bb0\u5fc6\u3001\u5de5\u5177\u8c03\u7528\u53ca\u6545\u969c\u964d\u7ea7\u8bc4\u6d4b\u3002",
+    "id": "miaomiao0227/cineagent",
+    "language": "Python",
+    "name": "miaomiao0227/cineagent",
+    "stars": 1,
+    "updated_at": "2026-10-19T02:33:49Z",
+    "url": "https://github.com/miaomiao0227/cineagent"
+  },
+  {
+    "description": "Control AI agents anywhere. (github mirror)",
+    "id": "justacalico/devinorium",
+    "language": "Dart",
+    "name": "justacalico/devinorium",
+    "stars": 0,
+    "updated_at": "2026-10-19T02:32:59Z",
+    "url": "https://github.com/justacalico/devinorium"
   },
   {
     "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
@@ -23,7 +104,7 @@
     "language": "Python",
     "name": "rekursiv-ai/sagent",
     "stars": 81,
-    "updated_at": "2026-10-19T02:29:06Z",
+    "updated_at": "2026-10-19T02:42:05Z",
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
@@ -43,33 +124,6 @@
     "stars": 79,
     "updated_at": "2026-10-19T02:28:33Z",
     "url": "https://github.com/xieguigang/sciBASIC"
-  },
-  {
-    "description": "CineAgent\uff1a\u57fa\u4e8e FunRec \u589e\u91cf\u5f00\u53d1\u7684\u5bf9\u8bdd\u5f0f\u7535\u5f71\u63a8\u8350\u7cfb\u7edf\uff0c\u542b\u63a8\u8350\u8def\u7ebf\u5bf9\u7167\u3001\u504f\u597d\u8bb0\u5fc6\u3001\u5de5\u5177\u8c03\u7528\u53ca\u6545\u969c\u964d\u7ea7\u8bc4\u6d4b\u3002",
-    "id": "miaomiao0227/cineagent",
-    "language": "Python",
-    "name": "miaomiao0227/cineagent",
-    "stars": 1,
-    "updated_at": "2026-10-19T02:26:22Z",
-    "url": "https://github.com/miaomiao0227/cineagent"
-  },
-  {
-    "description": "LLM-powered TeamSpeak bot | LLM\u9a71\u52a8\u7684TeamSpeak\u673a\u5668\u4eba",
-    "id": "Dr1mH4X/TeamSpeakClaw",
-    "language": "Rust",
-    "name": "Dr1mH4X/TeamSpeakClaw",
-    "stars": 6,
-    "updated_at": "2026-10-19T02:23:42Z",
-    "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4456,
-    "updated_at": "2026-10-19T02:24:20Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
@@ -97,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T02:11:37Z",
     "url": "https://github.com/honlam6/talk2stock"
-  },
-  {
-    "description": "Control AI agents anywhere. (github mirror)",
-    "id": "justacalico/devinorium",
-    "language": "Dart",
-    "name": "justacalico/devinorium",
-    "stars": 0,
-    "updated_at": "2026-10-19T02:29:12Z",
-    "url": "https://github.com/justacalico/devinorium"
   },
   {
     "description": "\ud83e\udd16 \u65b0\u4e00\u4ee3\u5f00\u6e90 Chrome \u4fa7\u8fb9\u680f\u81ea\u4e3b AI \u6d4f\u89c8\u5668\u667a\u80fd\u4f53\uff1a\u76ee\u6807\u9a71\u52a8\u3001\u957f\u7a0b\u89c4\u5212\u3001\u89c6\u89c9\u7a7a\u95f4\u611f\u77e5\u3001\u5feb\u6162\u53cc\u6838\u8ba4\u77e5\u4e0e\u7269\u7406\u7ea7\u64cd\u63a7\uff0c\u652f\u6301 DeepSeek \u601d\u8003\u6a21\u578b\u4e0e\u672c\u5730\u79bb\u7ebf LLM (BYOK)",
@@ -166,18 +211,9 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 804,
+    "stars": 805,
     "updated_at": "2026-10-19T01:35:37Z",
     "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-19T01:34:56Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
@@ -338,7 +374,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-19T02:13:17Z",
+    "updated_at": "2026-10-19T02:34:32Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 25185,
     "updated_at": "2026-10-18T22:28:04Z",
     "url": "https://github.com/letta-ai/letta"
-  },
-  {
-    "description": "Harness LLMs with Multi-Agent Programming",
-    "id": "langroid/langroid",
-    "language": "Python",
-    "name": "langroid/langroid",
-    "stars": 4121,
-    "updated_at": "2026-10-18T22:22:46Z",
-    "url": "https://github.com/langroid/langroid"
-  },
-  {
-    "description": "Turn any repository URL into a complete, fact-verified GitHub Wiki. An LLM-agent skill: clone, inventory, RUN and probe ",
-    "id": "paulmann/github-wiki-llm-writer",
-    "language": "Python",
-    "name": "paulmann/github-wiki-llm-writer",
-    "stars": 0,
-    "updated_at": "2026-10-18T22:20:13Z",
-    "url": "https://github.com/paulmann/github-wiki-llm-writer"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 363,
-    "updated_at": "2026-10-18T22:14:25Z",
-    "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "Async, event-driven library of production-deployable agent algorithms over arbitrary data, with a pluggable LLM gateway ",
-    "id": "innerkorehq/AutonomousAgentArchitecture",
-    "language": "Python",
-    "name": "innerkorehq/AutonomousAgentArchitecture",
-    "stars": 1,
-    "updated_at": "2026-10-18T23:04:34Z",
-    "url": "https://github.com/innerkorehq/AutonomousAgentArchitecture"
   }
 ]
