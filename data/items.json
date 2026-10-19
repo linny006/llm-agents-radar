@@ -1,5 +1,50 @@
 [
   {
+    "description": "A BI agent that answers questions about 311 service requests from a Snowflake warehouse. Strands Agents, MCP, AWS Bedroc",
+    "id": "chenziliang1/311-analytics-agent",
+    "language": "Python",
+    "name": "chenziliang1/311-analytics-agent",
+    "stars": 0,
+    "updated_at": "2026-10-19T21:27:05Z",
+    "url": "https://github.com/chenziliang1/311-analytics-agent"
+  },
+  {
+    "description": "AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter",
+    "id": "Nguyen82521/Upwork-AI-jobs-applier",
+    "language": "Python",
+    "name": "Nguyen82521/Upwork-AI-jobs-applier",
+    "stars": 0,
+    "updated_at": "2026-10-19T21:22:19Z",
+    "url": "https://github.com/Nguyen82521/Upwork-AI-jobs-applier"
+  },
+  {
+    "description": "LLM agent that answers questions on SEC 10-K filings, cites the exact source and checks every figure against XBRL. 8/10 ",
+    "id": "Romequinco/10k-financial-agent",
+    "language": "\u2014",
+    "name": "Romequinco/10k-financial-agent",
+    "stars": 0,
+    "updated_at": "2026-10-19T21:21:29Z",
+    "url": "https://github.com/Romequinco/10k-financial-agent"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 363,
+    "updated_at": "2026-10-19T21:24:51Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 810,
+    "updated_at": "2026-10-19T21:26:09Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
     "id": "genaforvena/mishe-tauftauf",
     "language": "Python",
@@ -50,17 +95,8 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-19T21:07:38Z",
+    "updated_at": "2026-10-19T21:20:41Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 808,
-    "updated_at": "2026-10-19T21:14:32Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter",
@@ -270,15 +306,6 @@
     "url": "https://github.com/Lawhy/tokin"
   },
   {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 363,
-    "updated_at": "2026-10-19T21:10:41Z",
-    "url": "https://github.com/yologdev/yoagent"
-  },
-  {
     "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
     "id": "duongnq2798/vestiarion",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 1533,
     "updated_at": "2026-10-19T19:19:04Z",
     "url": "https://github.com/Mirascope/mirascope"
-  },
-  {
-    "description": "The coordination layer for Multiplayer AI",
-    "id": "cohexa-ai/agent-coherence",
-    "language": "Python",
-    "name": "cohexa-ai/agent-coherence",
-    "stars": 11,
-    "updated_at": "2026-10-19T19:23:54Z",
-    "url": "https://github.com/cohexa-ai/agent-coherence"
-  },
-  {
-    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
-    "id": "zeng6125-rgb/suixing",
-    "language": "Kotlin",
-    "name": "zeng6125-rgb/suixing",
-    "stars": 0,
-    "updated_at": "2026-10-19T19:14:36Z",
-    "url": "https://github.com/zeng6125-rgb/suixing"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3638,
-    "updated_at": "2026-10-19T19:06:31Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   }
 ]
