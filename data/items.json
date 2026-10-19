@@ -1,5 +1,68 @@
 [
   {
+    "description": "AI reasoning QA + retake note: when an AI answer disappoints, diagnose where its chain-of-thought went wrong and produce",
+    "id": "flashfrogluo/second-take",
+    "language": "Shell",
+    "name": "flashfrogluo/second-take",
+    "stars": 3,
+    "updated_at": "2026-10-19T15:40:48Z",
+    "url": "https://github.com/flashfrogluo/second-take"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 1191,
+    "updated_at": "2026-10-19T15:38:14Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
+    "id": "roxm337/osint-agent",
+    "language": "Python",
+    "name": "roxm337/osint-agent",
+    "stars": 0,
+    "updated_at": "2026-10-19T15:37:05Z",
+    "url": "https://github.com/roxm337/osint-agent"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 822,
+    "updated_at": "2026-10-19T15:41:33Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Verify what smolagents actually does, not what its README says. 31 side-effect-based cases, no API key needed.",
+    "id": "linmoxi33/smolagents-audit",
+    "language": "Python",
+    "name": "linmoxi33/smolagents-audit",
+    "stars": 0,
+    "updated_at": "2026-10-19T15:35:23Z",
+    "url": "https://github.com/linmoxi33/smolagents-audit"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4455,
+    "updated_at": "2026-10-19T15:40:47Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "An auto-evolution framework that optimizes anything \u2014 your 7\u00d724 team of algorithm engineers.",
+    "id": "ant-research/AntOmniEvo",
+    "language": "Python",
+    "name": "ant-research/AntOmniEvo",
+    "stars": 1222,
+    "updated_at": "2026-10-19T15:33:15Z",
+    "url": "https://github.com/ant-research/AntOmniEvo"
+  },
+  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -36,15 +99,6 @@
     "url": "https://github.com/Wenyan0315/facta"
   },
   {
-    "description": "Verify what smolagents actually does, not what its README says. 31 side-effect-based cases, no API key needed.",
-    "id": "linmoxi33/smolagents-audit",
-    "language": "Python",
-    "name": "linmoxi33/smolagents-audit",
-    "stars": 0,
-    "updated_at": "2026-10-19T15:23:17Z",
-    "url": "https://github.com/linmoxi33/smolagents-audit"
-  },
-  {
     "description": "The Self-Improving Coding Agent",
     "id": "kanishka-namdeo/Unown",
     "language": "TypeScript",
@@ -68,7 +122,7 @@
     "language": "TypeScript",
     "name": "robolong/zhengming",
     "stars": 0,
-    "updated_at": "2026-10-19T15:18:26Z",
+    "updated_at": "2026-10-19T15:32:46Z",
     "url": "https://github.com/robolong/zhengming"
   },
   {
@@ -88,6 +142,15 @@
     "stars": 0,
     "updated_at": "2026-10-19T15:15:39Z",
     "url": "https://github.com/kashyaprajharsh/medha-agent"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3637,
+    "updated_at": "2026-10-19T15:14:25Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Scene-Designer: Learning Design Intelligence for Agentic 3D Scene Generation",
@@ -115,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-10-19T15:07:56Z",
     "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "AI reasoning QA + retake note: when an AI answer disappoints, diagnose where its chain-of-thought went wrong and produce",
-    "id": "flashfrogluo/second-take",
-    "language": "Shell",
-    "name": "flashfrogluo/second-take",
-    "stars": 3,
-    "updated_at": "2026-10-19T15:06:43Z",
-    "url": "https://github.com/flashfrogluo/second-take"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -167,7 +221,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 808,
-    "updated_at": "2026-10-19T15:16:23Z",
+    "updated_at": "2026-10-19T15:44:38Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -205,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T14:47:29Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "An auto-evolution framework that optimizes anything \u2014 your 7\u00d724 team of algorithm engineers.",
-    "id": "ant-research/AntOmniEvo",
-    "language": "Python",
-    "name": "ant-research/AntOmniEvo",
-    "stars": 1222,
-    "updated_at": "2026-10-19T15:22:52Z",
-    "url": "https://github.com/ant-research/AntOmniEvo"
   },
   {
     "description": "The coordination layer for Multiplayer AI",
@@ -311,7 +356,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 51,
-    "updated_at": "2026-10-19T15:01:53Z",
+    "updated_at": "2026-10-19T15:33:24Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-19T13:45:54Z",
     "url": "https://github.com/franckolv-dev/ELY2"
-  },
-  {
-    "description": "Desktop AI coding agent for Linux/Windows/macOS: an Avalonia .NET app with git-worktree isolation per session, plan revi",
-    "id": "Kvindo/KvindoCode",
-    "language": "C#",
-    "name": "Kvindo/KvindoCode",
-    "stars": 3,
-    "updated_at": "2026-10-19T14:39:03Z",
-    "url": "https://github.com/Kvindo/KvindoCode"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 6298,
-    "updated_at": "2026-10-19T13:37:51Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "A unified .NET abstraction layer for multiple Large Language Model (LLM) providers. Nexus-LLM simplifies integration wit",
-    "id": "brutal-45/Nexus-LLM",
-    "language": "Python",
-    "name": "brutal-45/Nexus-LLM",
-    "stars": 0,
-    "updated_at": "2026-10-19T13:34:32Z",
-    "url": "https://github.com/brutal-45/Nexus-LLM"
-  },
-  {
-    "description": "Local open-weight LLM agent that turns text or images into validated, editable CadQuery parts (STEP/STL), with a sandbox",
-    "id": "benisalla/cadquery-agent",
-    "language": "Python",
-    "name": "benisalla/cadquery-agent",
-    "stars": 0,
-    "updated_at": "2026-10-19T13:34:27Z",
-    "url": "https://github.com/benisalla/cadquery-agent"
-  },
-  {
-    "description": "Agente con tool-calling real (API de OpenAI) sobre operaciones mineras: consultas SQL a DuckDB, scoring de riesgo credit",
-    "id": "Rxyxs/chile-mining-ops-agent",
-    "language": "Python",
-    "name": "Rxyxs/chile-mining-ops-agent",
-    "stars": 0,
-    "updated_at": "2026-10-19T13:32:58Z",
-    "url": "https://github.com/Rxyxs/chile-mining-ops-agent"
   }
 ]
