@@ -1,5 +1,95 @@
 [
   {
+    "description": "\u8f7b\u91cf\u7684agent\u6846\u67b6",
+    "id": "qiuzixu/agent-core",
+    "language": "Python",
+    "name": "qiuzixu/agent-core",
+    "stars": 1,
+    "updated_at": "2026-10-19T09:28:41Z",
+    "url": "https://github.com/qiuzixu/agent-core"
+  },
+  {
+    "description": "\u591a\u667a\u80fd\u4f53\u957f\u671f\u8bb0\u5fc6\u57fa\u7840\u8bbe\u65bd \u00b7 18 \u4e2a MCP \u5de5\u5177 \u00b7 OAuth 2.1 \u8d26\u6237\u6c99\u7bb1 \u00b7 Chat/Working/Coding \u4e09\u5c42\u8ba4\u77e5\u8bb0\u5fc6\uff08Rust + PostgreSQL/pgvector\uff09",
+    "id": "orderye/memory-hub",
+    "language": "Rust",
+    "name": "orderye/memory-hub",
+    "stars": 0,
+    "updated_at": "2026-10-19T09:27:33Z",
+    "url": "https://github.com/orderye/memory-hub"
+  },
+  {
+    "description": "Agentic Theorem Prover for Rocq for Program Verification",
+    "id": "NUS-Program-Verification/AutoRocq",
+    "language": "Python",
+    "name": "NUS-Program-Verification/AutoRocq",
+    "stars": 34,
+    "updated_at": "2026-10-19T09:26:09Z",
+    "url": "https://github.com/NUS-Program-Verification/AutoRocq"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 363,
+    "updated_at": "2026-10-19T09:28:56Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
+    "description": "Desktop AI coding agent for Linux/Windows/macOS: an Avalonia .NET app with git-worktree isolation per session, plan revi",
+    "id": "Kvindo/KvindoCode",
+    "language": "C#",
+    "name": "Kvindo/KvindoCode",
+    "stars": 3,
+    "updated_at": "2026-10-19T09:24:39Z",
+    "url": "https://github.com/Kvindo/KvindoCode"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-19T09:24:21Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Talk2Stock \u00b7 \u5bf9\u8bdd\u5f0f\u8fdb\u9500\u5b58\u667a\u80fd\u4f53\uff08Conversational ERP Agent\uff09\uff1a\u4e00\u53e5\u8bdd \u2192 \u5355\u636e\u8349\u7a3f \u2192 \u5b57\u6bb5\u6765\u5386\u6807\u6ce8 \u2192 \u4eba\u5de5\u786e\u8ba4 \u2192 \u5199\u5165\u771f\u5b9e ERP\uff0c\u670d\u52a1\u7aef\u5199\u5165\u95f8\u95e8 + \u5ba1\u8ba1\u7559\u75d5 + \u51bb\u7ed3\u8bed\u6599\u8bc4\u6d4b",
+    "id": "honlam6/talk2stock",
+    "language": "Java",
+    "name": "honlam6/talk2stock",
+    "stars": 0,
+    "updated_at": "2026-10-19T09:23:07Z",
+    "url": "https://github.com/honlam6/talk2stock"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 14,
+    "updated_at": "2026-10-19T09:23:02Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "An AI Agent for everyday SWE with minimalist style",
+    "id": "thehope2k/minimalist-agent",
+    "language": "TypeScript",
+    "name": "thehope2k/minimalist-agent",
+    "stars": 1,
+    "updated_at": "2026-10-19T09:19:06Z",
+    "url": "https://github.com/thehope2k/minimalist-agent"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 6290,
+    "updated_at": "2026-10-19T09:17:45Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
     "description": "Executive Assistant Kit | Gig hunting & general coordination. \u603b\u7ecf\u7406\u52a9\u7406\u2014\u2014\u627e\u5355\u63a5\u6d3b\u5165\u53e3\u4e0e\u7efc\u5408\u4e8b\u52a1\u534f\u8c03\u3002",
     "id": "xhqing/ExecutiveAssistantAgent",
     "language": "TypeScript",
@@ -50,7 +140,7 @@
     "language": "Python",
     "name": "weihuaguo270-ops/react-agent",
     "stars": 0,
-    "updated_at": "2026-10-19T09:07:07Z",
+    "updated_at": "2026-10-19T09:21:18Z",
     "url": "https://github.com/weihuaguo270-ops/react-agent"
   },
   {
@@ -63,21 +153,12 @@
     "url": "https://github.com/oldfunk/paper-trading"
   },
   {
-    "description": "\u591a\u667a\u80fd\u4f53\u957f\u671f\u8bb0\u5fc6\u57fa\u7840\u8bbe\u65bd \u00b7 18 \u4e2a MCP \u5de5\u5177 \u00b7 OAuth 2.1 \u8d26\u6237\u6c99\u7bb1 \u00b7 Chat/Working/Coding \u4e09\u5c42\u8ba4\u77e5\u8bb0\u5fc6\uff08Rust + PostgreSQL/pgvector\uff09",
-    "id": "orderye/memory-hub",
-    "language": "Rust",
-    "name": "orderye/memory-hub",
-    "stars": 0,
-    "updated_at": "2026-10-19T09:03:12Z",
-    "url": "https://github.com/orderye/memory-hub"
-  },
-  {
     "description": "SRE Agent - CNCF Sandbox Project",
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3633,
-    "updated_at": "2026-10-19T09:01:43Z",
+    "updated_at": "2026-10-19T09:19:05Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -106,24 +187,6 @@
     "stars": 49,
     "updated_at": "2026-10-19T08:56:18Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 6288,
-    "updated_at": "2026-10-19T09:14:11Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 363,
-    "updated_at": "2026-10-19T09:02:28Z",
-    "url": "https://github.com/yologdev/yoagent"
   },
   {
     "description": "Unattended Xiaohongshu publishing agent: CDP-driven browser automation for a site with no API. 28 real runs, 20 document",
@@ -279,6 +342,15 @@
     "url": "https://github.com/kashyaprajharsh/medha-agent"
   },
   {
+    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 408,
+    "updated_at": "2026-10-19T08:12:51Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
     "description": "Open spec and CLI (MIT) for AI agent identity and agent-to-agent messaging. Runs with npx.",
     "id": "5dive-ai/openagent",
     "language": "JavaScript",
@@ -292,8 +364,8 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 33495,
-    "updated_at": "2026-10-19T08:06:21Z",
+    "stars": 33496,
+    "updated_at": "2026-10-19T09:29:53Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
@@ -306,21 +378,12 @@
     "url": "https://github.com/xiongweilin/agent-skills"
   },
   {
-    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 407,
-    "updated_at": "2026-10-19T08:12:51Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4456,
-    "updated_at": "2026-10-19T08:39:36Z",
+    "updated_at": "2026-10-19T09:27:52Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -331,15 +394,6 @@
     "stars": 1,
     "updated_at": "2026-10-19T08:00:55Z",
     "url": "https://github.com/kifirkin/pi-braid"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 14,
-    "updated_at": "2026-10-19T09:08:37Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/",
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-19T07:34:04Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 29,
-    "updated_at": "2026-10-19T07:32:49Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Make any agent harness token-native.",
-    "id": "Lawhy/tokin",
-    "language": "Python",
-    "name": "Lawhy/tokin",
-    "stars": 5,
-    "updated_at": "2026-10-19T07:28:43Z",
-    "url": "https://github.com/Lawhy/tokin"
-  },
-  {
-    "description": "Court Vision \u2014 AI-\u0430\u0441\u0441\u0438\u0441\u0442\u0435\u043d\u0442 \u0431\u0430\u0441\u043a\u0435\u0442\u0431\u043e\u043b\u044c\u043d\u043e\u0433\u043e \u0441\u043a\u0430\u0443\u0442\u0430. LLM-\u0430\u0433\u0435\u043d\u0442 \u0441 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u0430\u043c\u0438 \u043f\u043e\u0432\u0435\u0440\u0445 \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0438 NBA + RAG \u043f\u043e Wikipedia \u0438 ",
-    "id": "delawer33/pickroll",
-    "language": "Python",
-    "name": "delawer33/pickroll",
-    "stars": 0,
-    "updated_at": "2026-10-19T07:26:32Z",
-    "url": "https://github.com/delawer33/pickroll"
-  },
-  {
-    "description": "Terminal assistant for low-resource Windows PCs: a single ~70 KB 32-bit exe, every command approved by you",
-    "id": "lucasvidela94/tinyagent",
-    "language": "C",
-    "name": "lucasvidela94/tinyagent",
-    "stars": 0,
-    "updated_at": "2026-10-19T07:14:43Z",
-    "url": "https://github.com/lucasvidela94/tinyagent"
-  },
-  {
-    "description": "Solve Cloudflare Turnstile in CrewAI tools via Peak \u2014 a BaseTool that returns a valid cf-turnstile-response token.",
-    "id": "CircuitSavage/crewai-turnstile",
-    "language": "Python",
-    "name": "CircuitSavage/crewai-turnstile",
-    "stars": 0,
-    "updated_at": "2026-10-19T07:14:01Z",
-    "url": "https://github.com/CircuitSavage/crewai-turnstile"
-  },
-  {
-    "description": "Solve Cloudflare Turnstile from a LangChain agent via the Peak API \u2014 a BaseTool, not a browser wrapper.",
-    "id": "CircuitSavage/langchain-turnstile",
-    "language": "Python",
-    "name": "CircuitSavage/langchain-turnstile",
-    "stars": 0,
-    "updated_at": "2026-10-19T07:13:59Z",
-    "url": "https://github.com/CircuitSavage/langchain-turnstile"
   }
 ]
