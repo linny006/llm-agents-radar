@@ -1,5 +1,32 @@
 [
   {
+    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
+    "id": "RalfHermsen/x4-agent",
+    "language": "Python",
+    "name": "RalfHermsen/x4-agent",
+    "stars": 0,
+    "updated_at": "2026-10-19T19:25:34Z",
+    "url": "https://github.com/RalfHermsen/x4-agent"
+  },
+  {
+    "description": "The LLM Anti-Framework",
+    "id": "Mirascope/mirascope",
+    "language": "Python",
+    "name": "Mirascope/mirascope",
+    "stars": 1533,
+    "updated_at": "2026-10-19T19:19:04Z",
+    "url": "https://github.com/Mirascope/mirascope"
+  },
+  {
+    "description": "The coordination layer for Multiplayer AI",
+    "id": "cohexa-ai/agent-coherence",
+    "language": "Python",
+    "name": "cohexa-ai/agent-coherence",
+    "stars": 11,
+    "updated_at": "2026-10-19T19:23:54Z",
+    "url": "https://github.com/cohexa-ai/agent-coherence"
+  },
+  {
     "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
     "id": "zeng6125-rgb/suixing",
     "language": "Kotlin",
@@ -9,12 +36,21 @@
     "url": "https://github.com/zeng6125-rgb/suixing"
   },
   {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3638,
+    "updated_at": "2026-10-19T19:06:31Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
     "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
     "id": "mnemon-dev/mnemon",
     "language": "Go",
     "name": "mnemon-dev/mnemon",
     "stars": 640,
-    "updated_at": "2026-10-19T19:06:08Z",
+    "updated_at": "2026-10-19T19:29:21Z",
     "url": "https://github.com/mnemon-dev/mnemon"
   },
   {
@@ -77,7 +113,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4455,
-    "updated_at": "2026-10-19T19:15:09Z",
+    "updated_at": "2026-10-19T19:19:27Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -108,15 +144,6 @@
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
-    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
-    "id": "RalfHermsen/x4-agent",
-    "language": "Python",
-    "name": "RalfHermsen/x4-agent",
-    "stars": 0,
-    "updated_at": "2026-10-19T18:17:40Z",
-    "url": "https://github.com/RalfHermsen/x4-agent"
-  },
-  {
     "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
     "id": "yurika0211/lucky-agent",
     "language": "Go",
@@ -133,15 +160,6 @@
     "stars": 6,
     "updated_at": "2026-10-19T18:17:31Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "The LLM Anti-Framework",
-    "id": "Mirascope/mirascope",
-    "language": "Python",
-    "name": "Mirascope/mirascope",
-    "stars": 1533,
-    "updated_at": "2026-10-19T19:12:44Z",
-    "url": "https://github.com/Mirascope/mirascope"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -178,15 +196,6 @@
     "stars": 2,
     "updated_at": "2026-10-19T18:06:44Z",
     "url": "https://github.com/Kvindo/KvindoCode"
-  },
-  {
-    "description": "The coordination layer for Multiplayer AI",
-    "id": "cohexa-ai/agent-coherence",
-    "language": "Python",
-    "name": "cohexa-ai/agent-coherence",
-    "stars": 11,
-    "updated_at": "2026-10-19T19:13:15Z",
-    "url": "https://github.com/cohexa-ai/agent-coherence"
   },
   {
     "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
@@ -239,7 +248,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 2,
-    "updated_at": "2026-10-19T18:44:21Z",
+    "updated_at": "2026-10-19T19:16:52Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -256,7 +265,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "TypeScript",
     "name": "strands-agents/harness-sdk",
-    "stars": 8866,
+    "stars": 8867,
     "updated_at": "2026-10-19T17:17:55Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-19T15:35:23Z",
     "url": "https://github.com/linmoxi33/smolagents-audit"
-  },
-  {
-    "description": "An auto-evolution framework that optimizes anything \u2014 your 7\u00d724 team of algorithm engineers.",
-    "id": "ant-research/AntOmniEvo",
-    "language": "Python",
-    "name": "ant-research/AntOmniEvo",
-    "stars": 1219,
-    "updated_at": "2026-10-19T15:33:15Z",
-    "url": "https://github.com/ant-research/AntOmniEvo"
   }
 ]
