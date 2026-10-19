@@ -1,12 +1,66 @@
 [
   {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
     "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-19T12:29:45Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 807,
+    "updated_at": "2026-10-19T12:29:06Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "\u53d6\u540d\u5de5\u4f5c\u53f0\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 A local-first Chinese baby-naming desktop app",
+    "id": "robolong/naming-workbench",
+    "language": "TypeScript",
+    "name": "robolong/naming-workbench",
     "stars": 0,
-    "updated_at": "2026-10-19T12:12:51Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
+    "updated_at": "2026-10-19T12:29:40Z",
+    "url": "https://github.com/robolong/naming-workbench"
+  },
+  {
+    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-19T12:28:26Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "\ud83e\udd16 Lightweight, message-first agent runtime",
+    "id": "Cognipeer/agent-sdk",
+    "language": "TypeScript",
+    "name": "Cognipeer/agent-sdk",
+    "stars": 7,
+    "updated_at": "2026-10-19T12:27:47Z",
+    "url": "https://github.com/Cognipeer/agent-sdk"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3635,
+    "updated_at": "2026-10-19T12:27:07Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
+    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
+    "id": "oldfunk/paper-trading",
+    "language": "Python",
+    "name": "oldfunk/paper-trading",
+    "stars": 1,
+    "updated_at": "2026-10-19T12:26:42Z",
+    "url": "https://github.com/oldfunk/paper-trading"
   },
   {
     "description": "Open-Source Intelligent Command Layer",
@@ -14,8 +68,71 @@
     "language": "Python",
     "name": "AVADSA25/codec",
     "stars": 109,
-    "updated_at": "2026-10-19T12:12:48Z",
+    "updated_at": "2026-10-19T12:26:06Z",
     "url": "https://github.com/AVADSA25/codec"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 14,
+    "updated_at": "2026-10-19T12:25:01Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
+    "id": "QQSHI13/fox-agent",
+    "language": "TypeScript",
+    "name": "QQSHI13/fox-agent",
+    "stars": 3,
+    "updated_at": "2026-10-19T12:22:59Z",
+    "url": "https://github.com/QQSHI13/fox-agent"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4455,
+    "updated_at": "2026-10-19T12:26:34Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-19T12:21:23Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Portable pi harness powered by Rust native tools \u2014 lean core, progressive disclosure, zero absolute paths.",
+    "id": "nurmdrafi/pi-native",
+    "language": "JavaScript",
+    "name": "nurmdrafi/pi-native",
+    "stars": 0,
+    "updated_at": "2026-10-19T12:18:25Z",
+    "url": "https://github.com/nurmdrafi/pi-native"
+  },
+  {
+    "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
+    "id": "roxm337/osint-agent",
+    "language": "Python",
+    "name": "roxm337/osint-agent",
+    "stars": 0,
+    "updated_at": "2026-10-19T12:17:24Z",
+    "url": "https://github.com/roxm337/osint-agent"
+  },
+  {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-10-19T12:15:19Z",
+    "url": "https://github.com/kangwoo/aimon-core"
   },
   {
     "description": "Agent de triage web-s\u00e9curit\u00e9 (Claude Agent SDK) : heuristiques + classifieur entra\u00een\u00e9 (MLOps) pour la d\u00e9tection de phish",
@@ -36,15 +153,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 14,
-    "updated_at": "2026-10-19T12:08:09Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
     "id": "g761007/daily-dispatch",
     "language": "Python",
@@ -52,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T12:08:02Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
-    "id": "roxm337/osint-agent",
-    "language": "Python",
-    "name": "roxm337/osint-agent",
-    "stars": 0,
-    "updated_at": "2026-10-19T12:07:53Z",
-    "url": "https://github.com/roxm337/osint-agent"
   },
   {
     "description": "Local pre-write containment & structural scoring for AI coding agents: deterministic policy, Mamba-3 SSM coherence, and ",
@@ -108,24 +207,6 @@
     "url": "https://github.com/mino19790622-dot/visual-inspection-report-generator"
   },
   {
-    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
-    "id": "kangwoo/aimon-core",
-    "language": "Java",
-    "name": "kangwoo/aimon-core",
-    "stars": 0,
-    "updated_at": "2026-10-19T12:15:16Z",
-    "url": "https://github.com/kangwoo/aimon-core"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-19T11:58:51Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
@@ -133,15 +214,6 @@
     "stars": 21,
     "updated_at": "2026-10-19T11:57:04Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 807,
-    "updated_at": "2026-10-19T11:53:44Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -171,15 +243,6 @@
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
-    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
-    "id": "QQSHI13/fox-agent",
-    "language": "TypeScript",
-    "name": "QQSHI13/fox-agent",
-    "stars": 3,
-    "updated_at": "2026-10-19T11:35:47Z",
-    "url": "https://github.com/QQSHI13/fox-agent"
-  },
-  {
     "description": "Scene-Designer: Learning Design Intelligence for Agentic 3D Scene Generation",
     "id": "ZJU-OmniAI/Scene-Designer",
     "language": "Python",
@@ -189,15 +252,6 @@
     "url": "https://github.com/ZJU-OmniAI/Scene-Designer"
   },
   {
-    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-19T12:12:06Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
     "description": "AI-orchestrated job search pipeline: scrapes 5 UA job boards, uses Claude API to score matches & classify emails, writes",
     "id": "VoroshylovV/job-search-automation-pipeline",
     "language": "Python",
@@ -205,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-10-19T11:32:51Z",
     "url": "https://github.com/VoroshylovV/job-search-automation-pipeline"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4455,
-    "updated_at": "2026-10-19T11:38:12Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -392,7 +437,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5843,
-    "updated_at": "2026-10-19T10:20:33Z",
+    "updated_at": "2026-10-19T12:21:14Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-19T10:19:28Z",
     "url": "https://github.com/Rukkakka/baenggipyo"
-  },
-  {
-    "description": "\uc9c1\ubc29\u00b7\ub124\uc774\ubc84 \ubd80\ub3d9\uc0b0\u00b7\ub2f9\uadfc\ubd80\ub3d9\uc0b0 \ub9e4\ubb3c\uacfc \uc2e4\uac70\ub798\uac00\ub97c \uc870\ud68c\ud558\ub294 LLM \uc5d0\uc774\uc804\ud2b8\uc6a9 CLI \u00b7 Korean real estate listings CLI for LLM agents (Zigbang, Naver Real Esta",
-    "id": "Rukkakka/jibsa",
-    "language": "Python",
-    "name": "Rukkakka/jibsa",
-    "stars": 0,
-    "updated_at": "2026-10-19T10:14:02Z",
-    "url": "https://github.com/Rukkakka/jibsa"
-  },
-  {
-    "description": "Give AI a design sense. 28 open-source Agent Skills for interface art direction: 1 master skill that picks the right vis",
-    "id": "izynu/ochrelle",
-    "language": "TypeScript",
-    "name": "izynu/ochrelle",
-    "stars": 2,
-    "updated_at": "2026-10-19T10:12:25Z",
-    "url": "https://github.com/izynu/ochrelle"
-  },
-  {
-    "description": "Not a chatbot\u2014a tireless digital secretary. Jarvis is a persistent, self-hosted AI operating system that manages communi",
-    "id": "Lucky-1608/Jarvis",
-    "language": "Python",
-    "name": "Lucky-1608/Jarvis",
-    "stars": 0,
-    "updated_at": "2026-10-19T10:11:45Z",
-    "url": "https://github.com/Lucky-1608/Jarvis"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3634,
-    "updated_at": "2026-10-19T11:34:15Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Official codebase for Spotter: Let the Embodied Model Lead, and the VLM Reflect for It",
-    "id": "zqc3117/Spotter",
-    "language": "Python",
-    "name": "zqc3117/Spotter",
-    "stars": 203,
-    "updated_at": "2026-10-19T10:07:09Z",
-    "url": "https://github.com/zqc3117/Spotter"
   }
 ]
