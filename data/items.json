@@ -1,5 +1,122 @@
 [
   {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 1190,
+    "updated_at": "2026-10-19T03:27:29Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 53,
+    "updated_at": "2026-10-19T03:26:52Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-19T03:26:18Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "\u5357\u4eac OSM + PostGIS \u7a7a\u95f4\u95ee\u7b54 Agent\uff1apgRouting \u6b65\u884c\u7b49\u65f6\u5708\u3001pgvector \u89c4\u5212\u6807\u51c6\u68c0\u7d22\u3001\u9884\u6ce8\u518c\u8bc4\u6d4b",
+    "id": "PlainSightX/geo-agent",
+    "language": "Python",
+    "name": "PlainSightX/geo-agent",
+    "stars": 0,
+    "updated_at": "2026-10-19T03:26:07Z",
+    "url": "https://github.com/PlainSightX/geo-agent"
+  },
+  {
+    "description": "A decision gate for DSH \u2014 ask five questions before every shell command, then allow, ask, or deny.",
+    "id": "SeasonTemple/dsh-decision-gate",
+    "language": "Python",
+    "name": "SeasonTemple/dsh-decision-gate",
+    "stars": 1,
+    "updated_at": "2026-10-19T03:24:30Z",
+    "url": "https://github.com/SeasonTemple/dsh-decision-gate"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 81,
+    "updated_at": "2026-10-19T03:23:42Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "A Go delivery loop that keeps creator asset decisions, token usage, and captured processing exceptions together.",
+    "id": "DaxHarrington7619/creator-delivery-loop-observer",
+    "language": "Go",
+    "name": "DaxHarrington7619/creator-delivery-loop-observer",
+    "stars": 0,
+    "updated_at": "2026-10-19T03:22:14Z",
+    "url": "https://github.com/DaxHarrington7619/creator-delivery-loop-observer"
+  },
+  {
+    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
+    "id": "wuyhong715/rikkahub-agent-pure",
+    "language": "Kotlin",
+    "name": "wuyhong715/rikkahub-agent-pure",
+    "stars": 49,
+    "updated_at": "2026-10-19T03:21:50Z",
+    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 14,
+    "updated_at": "2026-10-19T03:21:25Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 2,
+    "updated_at": "2026-10-19T03:19:43Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
+    "id": "kyleslight/shun",
+    "language": "TypeScript",
+    "name": "kyleslight/shun",
+    "stars": 7,
+    "updated_at": "2026-10-19T03:17:32Z",
+    "url": "https://github.com/kyleslight/shun"
+  },
+  {
+    "description": "Talk2Stock \u00b7 \u5bf9\u8bdd\u5f0f\u8fdb\u9500\u5b58\u667a\u80fd\u4f53\uff08Conversational ERP Agent\uff09\uff1a\u4e00\u53e5\u8bdd \u2192 \u5355\u636e\u8349\u7a3f \u2192 \u5b57\u6bb5\u6765\u5386\u6807\u6ce8 \u2192 \u4eba\u5de5\u786e\u8ba4 \u2192 \u5199\u5165\u771f\u5b9e ERP\uff0c\u670d\u52a1\u7aef\u5199\u5165\u95f8\u95e8 + \u5ba1\u8ba1\u7559\u75d5 + \u51bb\u7ed3\u8bed\u6599\u8bc4\u6d4b",
+    "id": "honlam6/talk2stock",
+    "language": "Java",
+    "name": "honlam6/talk2stock",
+    "stars": 0,
+    "updated_at": "2026-10-19T03:16:44Z",
+    "url": "https://github.com/honlam6/talk2stock"
+  },
+  {
+    "description": "Deterministic orchestration, execution assurance, and quota-aware continuity runtime for GLM coding agents in ZCode",
+    "id": "Chengy257/glm-conductor",
+    "language": "Python",
+    "name": "Chengy257/glm-conductor",
+    "stars": 0,
+    "updated_at": "2026-10-19T03:16:30Z",
+    "url": "https://github.com/Chengy257/glm-conductor"
+  },
+  {
     "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
     "id": "duongnq2798/vestiarion",
     "language": "TypeScript",
@@ -18,15 +135,6 @@
     "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
   },
   {
-    "description": "A decision gate for DSH \u2014 ask five questions before every shell command, then allow, ask, or deny.",
-    "id": "SeasonTemple/dsh-decision-gate",
-    "language": "Python",
-    "name": "SeasonTemple/dsh-decision-gate",
-    "stars": 1,
-    "updated_at": "2026-10-19T03:13:11Z",
-    "url": "https://github.com/SeasonTemple/dsh-decision-gate"
-  },
-  {
     "description": "Local-first open-source AI coding agent built with Go \u2014 Desktop, CLI, TUI, WebUI, MCP, Skills, multi-agent workflows, an",
     "id": "konglong87/go-e2e",
     "language": "Go",
@@ -34,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T03:10:55Z",
     "url": "https://github.com/konglong87/go-e2e"
-  },
-  {
-    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
-    "id": "wuyhong715/rikkahub-agent-pure",
-    "language": "Kotlin",
-    "name": "wuyhong715/rikkahub-agent-pure",
-    "stars": 49,
-    "updated_at": "2026-10-19T03:12:28Z",
-    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
@@ -72,15 +171,6 @@
     "url": "https://github.com/evangoh122/quant_platform_1"
   },
   {
-    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 53,
-    "updated_at": "2026-10-19T03:07:10Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
     "description": "Python LLM-RAG deep agent using LangChain, LangGraph and LangSmith built on Quart web microframework and served using Hy",
     "id": "khteh/rag-agent",
     "language": "Python",
@@ -95,17 +185,8 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-19T03:11:05Z",
+    "updated_at": "2026-10-19T03:25:56Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Talk2Stock \u00b7 \u5bf9\u8bdd\u5f0f\u8fdb\u9500\u5b58\u667a\u80fd\u4f53\uff08Conversational ERP Agent\uff09\uff1a\u4e00\u53e5\u8bdd \u2192 \u5355\u636e\u8349\u7a3f \u2192 \u5b57\u6bb5\u6765\u5386\u6807\u6ce8 \u2192 \u4eba\u5de5\u786e\u8ba4 \u2192 \u5199\u5165\u771f\u5b9e ERP\uff0c\u670d\u52a1\u7aef\u5199\u5165\u95f8\u95e8 + \u5ba1\u8ba1\u7559\u75d5 + \u51bb\u7ed3\u8bed\u6599\u8bc4\u6d4b",
-    "id": "honlam6/talk2stock",
-    "language": "Java",
-    "name": "honlam6/talk2stock",
-    "stars": 0,
-    "updated_at": "2026-10-19T03:02:28Z",
-    "url": "https://github.com/honlam6/talk2stock"
   },
   {
     "description": "LLM Agent \u670d\u52a1\uff1aLangChain + FastAPI + Vue3\uff0c\u6df7\u5408\u68c0\u7d22 RAG \u5e26\u5f15\u7528\u6eaf\u6e90\uff0cReAct \u53cc\u67b6\u6784\u5b9e\u6d4b\u62e9\u4f18\uff0898.5% vs 89.7%\uff09\uff0c\u8bed\u4e49\u7f13\u5b58\u96f6\u8bef\u547d\u4e2d\uff0c158 \u6761\u8bc4\u6d4b + CI \u56de\u5f52\u95e8\u7981\uff0cDocker \u516c",
@@ -144,24 +225,6 @@
     "url": "https://github.com/tomcounsell/ai"
   },
   {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 14,
-    "updated_at": "2026-10-19T03:03:58Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 81,
-    "updated_at": "2026-10-19T02:48:33Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
     "description": "A\u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\uff1a\u80a1\u7968\u5206\u6790\u3001\u91cf\u5316\u4ea4\u6613\u5206\u6790\u3001\u76d8\u540e\u590d\u76d8\u684c\u9762\u5de5\u4f5c\u53f0\u2014\u2014easy stock",
     "id": "jundizhou/easy-stock",
     "language": "Go",
@@ -169,15 +232,6 @@
     "stars": 1534,
     "updated_at": "2026-10-19T02:48:29Z",
     "url": "https://github.com/jundizhou/easy-stock"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-19T02:47:20Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "\u8f7b\u91cf\u7684agent\u6846\u67b6",
@@ -211,7 +265,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 33478,
+    "stars": 33479,
     "updated_at": "2026-10-19T02:43:31Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -295,15 +349,6 @@
     "stars": 3,
     "updated_at": "2026-10-19T02:09:17Z",
     "url": "https://github.com/lusipad/browser-agent"
-  },
-  {
-    "description": "\u5357\u4eac OSM + PostGIS \u7a7a\u95f4\u95ee\u7b54 Agent\uff1apgRouting \u6b65\u884c\u7b49\u65f6\u5708\u3001pgvector \u89c4\u5212\u6807\u51c6\u68c0\u7d22\u3001\u9884\u6ce8\u518c\u8bc4\u6d4b",
-    "id": "PlainSightX/geo-agent",
-    "language": "Python",
-    "name": "PlainSightX/geo-agent",
-    "stars": 0,
-    "updated_at": "2026-10-19T02:05:09Z",
-    "url": "https://github.com/PlainSightX/geo-agent"
   },
   {
     "description": "The coordination layer for Multiplayer AI",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-19T01:01:26Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Aplicaci\u00f3n modular en Streamlit con un agente de IA local (Ollama) para analizar el registro p\u00fablico Incident Response L",
-    "id": "Alexis-VsCode/ProyectoFinal-Incidentes-Ollama-C2026P1",
-    "language": "Python",
-    "name": "Alexis-VsCode/ProyectoFinal-Incidentes-Ollama-C2026P1",
-    "stars": 0,
-    "updated_at": "2026-10-19T00:51:18Z",
-    "url": "https://github.com/Alexis-VsCode/ProyectoFinal-Incidentes-Ollama-C2026P1"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 134,
-    "updated_at": "2026-10-19T00:48:16Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 406,
-    "updated_at": "2026-10-19T00:42:32Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-10-19T00:41:42Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
-    "id": "kangwoo/aimon-core",
-    "language": "Java",
-    "name": "kangwoo/aimon-core",
-    "stars": 0,
-    "updated_at": "2026-10-19T03:11:03Z",
-    "url": "https://github.com/kangwoo/aimon-core"
   }
 ]
