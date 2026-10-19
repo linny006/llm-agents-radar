@@ -1,11 +1,20 @@
 [
   {
+    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 53,
+    "updated_at": "2026-10-19T14:12:53Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
     "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
     "id": "robolong/zhengming",
     "language": "TypeScript",
     "name": "robolong/zhengming",
     "stars": 0,
-    "updated_at": "2026-10-19T14:12:00Z",
+    "updated_at": "2026-10-19T14:12:27Z",
     "url": "https://github.com/robolong/zhengming"
   },
   {
@@ -23,7 +32,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 808,
-    "updated_at": "2026-10-19T14:09:27Z",
+    "updated_at": "2026-10-19T14:12:38Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -88,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T13:48:37Z",
     "url": "https://github.com/bondwell79/hercules"
-  },
-  {
-    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 53,
-    "updated_at": "2026-10-19T13:48:03Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -320,7 +320,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4455,
-    "updated_at": "2026-10-19T14:09:11Z",
+    "updated_at": "2026-10-19T14:13:03Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
