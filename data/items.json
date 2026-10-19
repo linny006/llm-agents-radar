@@ -1,5 +1,77 @@
 [
   {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-10-19T04:13:28Z",
+    "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
+    "description": "Control AI agents anywhere. (github mirror)",
+    "id": "justacalico/devinorium",
+    "language": "Dart",
+    "name": "justacalico/devinorium",
+    "stars": 0,
+    "updated_at": "2026-10-19T04:12:18Z",
+    "url": "https://github.com/justacalico/devinorium"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 33482,
+    "updated_at": "2026-10-19T04:10:27Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "A decision gate for DSH \u2014 ask five questions before every shell command, then allow, ask, or deny.",
+    "id": "SeasonTemple/dsh-decision-gate",
+    "language": "Python",
+    "name": "SeasonTemple/dsh-decision-gate",
+    "stars": 1,
+    "updated_at": "2026-10-19T04:09:55Z",
+    "url": "https://github.com/SeasonTemple/dsh-decision-gate"
+  },
+  {
+    "description": "\u501f\u52a9\u5fae\u4fe1\u8bfb\u4e66\uff0c\u5c06\u4f60\u5173\u6ce8\u7684\u5fae\u4fe1\u516c\u4f17\u53f7\u81ea\u52a8\u6293\u53d6/\u603b\u7ed3\u63d0\u70bc\uff01\u624b\u52a8\u5c06\u5f85\u63d0\u70bc\u7684\u516c\u4f17\u53f7\u5bfc\u5165\u5fae\u4fe1\u8bfb\u4e66\u4e66\u67b6\u540e\uff0c\u4e00\u6b21\u626b\u7801\uff0c\u6bcf\u5929\u65e9\u4e0a\u5c31\u53ef\u4ee5\u5e2e\u4f60\u628a\u5173\u6ce8\u7684\u516c\u4f17\u53f7\u6700\u65b0\u6587\u7ae0\u8bfb\u6210\u4e00\u9875\u7eb8\uff0cAgent\u81ea\u52a8\u53d6\u5168\u6587 \u2192 \u53cc\u952e\u53bb\u91cd\u5f52\u6863 Markdown \u2192 agent \u751f\u6210\u6bcf\u65e5\u7b80",
+    "id": "mockxing/weread2brief",
+    "language": "Python",
+    "name": "mockxing/weread2brief",
+    "stars": 0,
+    "updated_at": "2026-10-19T04:06:55Z",
+    "url": "https://github.com/mockxing/weread2brief"
+  },
+  {
+    "description": "An auto-evolution framework that optimizes anything \u2014 your 7\u00d724 team of algorithm engineers.",
+    "id": "ant-research/AntOmniEvo",
+    "language": "Python",
+    "name": "ant-research/AntOmniEvo",
+    "stars": 1218,
+    "updated_at": "2026-10-19T04:06:04Z",
+    "url": "https://github.com/ant-research/AntOmniEvo"
+  },
+  {
+    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
+    "id": "alexwkleung/reika",
+    "language": "TypeScript",
+    "name": "alexwkleung/reika",
+    "stars": 11,
+    "updated_at": "2026-10-19T04:05:07Z",
+    "url": "https://github.com/alexwkleung/reika"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-19T04:01:09Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
     "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
     "id": "xianyu-sheng/Xenon",
     "language": "Python",
@@ -16,42 +88,6 @@
     "stars": 1535,
     "updated_at": "2026-10-19T03:58:36Z",
     "url": "https://github.com/jundizhou/easy-stock"
-  },
-  {
-    "description": "Control AI agents anywhere. (github mirror)",
-    "id": "justacalico/devinorium",
-    "language": "Dart",
-    "name": "justacalico/devinorium",
-    "stars": 0,
-    "updated_at": "2026-10-19T03:50:51Z",
-    "url": "https://github.com/justacalico/devinorium"
-  },
-  {
-    "description": "\u501f\u52a9\u5fae\u4fe1\u8bfb\u4e66\uff0c\u5c06\u4f60\u5173\u6ce8\u7684\u5fae\u4fe1\u516c\u4f17\u53f7\u81ea\u52a8\u6293\u53d6/\u603b\u7ed3\u63d0\u70bc\uff01\u624b\u52a8\u5c06\u5f85\u63d0\u70bc\u7684\u516c\u4f17\u53f7\u5bfc\u5165\u5fae\u4fe1\u8bfb\u4e66\u4e66\u67b6\u540e\uff0c\u4e00\u6b21\u626b\u7801\uff0c\u6bcf\u5929\u65e9\u4e0a\u5c31\u53ef\u4ee5\u4f60\u5173\u6ce8\u7684\u516c\u4f17\u53f7\u6700\u65b0\u6587\u7ae0\u8bfb\u6210\u4e00\u9875\u7eb8\uff0cAgent\u81ea\u52a8\u53d6\u5168\u6587 \u2192 \u53cc\u952e\u53bb\u91cd\u5f52\u6863 Markdown \u2192 agent \u751f\u6210\u6bcf\u65e5\u7b80\u62a5\u3002",
-    "id": "mockxing/weread2brief",
-    "language": "Python",
-    "name": "mockxing/weread2brief",
-    "stars": 0,
-    "updated_at": "2026-10-19T03:48:14Z",
-    "url": "https://github.com/mockxing/weread2brief"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 33482,
-    "updated_at": "2026-10-19T03:47:57Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-19T03:43:10Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
@@ -124,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T03:26:07Z",
     "url": "https://github.com/PlainSightX/geo-agent"
-  },
-  {
-    "description": "A decision gate for DSH \u2014 ask five questions before every shell command, then allow, ask, or deny.",
-    "id": "SeasonTemple/dsh-decision-gate",
-    "language": "Python",
-    "name": "SeasonTemple/dsh-decision-gate",
-    "stars": 1,
-    "updated_at": "2026-10-19T03:24:30Z",
-    "url": "https://github.com/SeasonTemple/dsh-decision-gate"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -248,7 +275,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-19T03:50:54Z",
+    "updated_at": "2026-10-19T04:01:38Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-19T01:33:59Z",
     "url": "https://github.com/wufufu770/d2d"
-  },
-  {
-    "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
-    "id": "Ven0m0/gemini-web-wrapper",
-    "language": "TypeScript",
-    "name": "Ven0m0/gemini-web-wrapper",
-    "stars": 5,
-    "updated_at": "2026-10-19T01:33:28Z",
-    "url": "https://github.com/Ven0m0/gemini-web-wrapper"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-10-19T01:31:02Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5842,
-    "updated_at": "2026-10-19T01:18:39Z",
-    "url": "https://github.com/areal-project/AReaL"
   }
 ]
