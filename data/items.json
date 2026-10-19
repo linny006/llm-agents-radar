@@ -1,5 +1,86 @@
 [
   {
+    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
+    "id": "robolong/zhengming",
+    "language": "TypeScript",
+    "name": "robolong/zhengming",
+    "stars": 0,
+    "updated_at": "2026-10-19T15:14:06Z",
+    "url": "https://github.com/robolong/zhengming"
+  },
+  {
+    "description": "Scene-Designer: Learning Design Intelligence for Agentic 3D Scene Generation",
+    "id": "ZJU-OmniAI/Scene-Designer",
+    "language": "Python",
+    "name": "ZJU-OmniAI/Scene-Designer",
+    "stars": 18,
+    "updated_at": "2026-10-19T15:12:06Z",
+    "url": "https://github.com/ZJU-OmniAI/Scene-Designer"
+  },
+  {
+    "description": "Verify what smolagents actually does, not what its README says. 31 side-effect-based cases, no API key needed.",
+    "id": "linmoxi33/smolagents-audit",
+    "language": "Python",
+    "name": "linmoxi33/smolagents-audit",
+    "stars": 0,
+    "updated_at": "2026-10-19T15:12:12Z",
+    "url": "https://github.com/linmoxi33/smolagents-audit"
+  },
+  {
+    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
+    "id": "AliPellegrini/CodeJury",
+    "language": "Python",
+    "name": "AliPellegrini/CodeJury",
+    "stars": 0,
+    "updated_at": "2026-10-19T15:09:55Z",
+    "url": "https://github.com/AliPellegrini/CodeJury"
+  },
+  {
+    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-19T15:07:56Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "AI reasoning QA + retake note: when an AI answer disappoints, diagnose where its chain-of-thought went wrong and produce",
+    "id": "flashfrogluo/second-take",
+    "language": "Shell",
+    "name": "flashfrogluo/second-take",
+    "stars": 3,
+    "updated_at": "2026-10-19T15:06:43Z",
+    "url": "https://github.com/flashfrogluo/second-take"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "TypeScript",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8864,
+    "updated_at": "2026-10-19T15:07:41Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
+    "id": "trivedi04396/CodeJury",
+    "language": "Python",
+    "name": "trivedi04396/CodeJury",
+    "stars": 0,
+    "updated_at": "2026-10-19T15:03:49Z",
+    "url": "https://github.com/trivedi04396/CodeJury"
+  },
+  {
+    "description": "AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter",
+    "id": "sBaig4908/Upwork-AI-jobs-applier",
+    "language": "Python",
+    "name": "sBaig4908/Upwork-AI-jobs-applier",
+    "stars": 0,
+    "updated_at": "2026-10-19T15:03:07Z",
+    "url": "https://github.com/sBaig4908/Upwork-AI-jobs-applier"
+  },
+  {
     "description": "The Self-Improving Coding Agent",
     "id": "kanishka-namdeo/Unown",
     "language": "TypeScript",
@@ -16,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-10-19T14:57:15Z",
     "url": "https://github.com/haibingzhao/easyai"
-  },
-  {
-    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
-    "id": "robolong/zhengming",
-    "language": "TypeScript",
-    "name": "robolong/zhengming",
-    "stars": 0,
-    "updated_at": "2026-10-19T14:55:03Z",
-    "url": "https://github.com/robolong/zhengming"
   },
   {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
@@ -61,15 +133,6 @@
     "stars": 14,
     "updated_at": "2026-10-19T14:49:43Z",
     "url": "https://github.com/Crystalhihihi/rusted-warfare-llm-pilot"
-  },
-  {
-    "description": "AI reasoning QA + retake note: when an AI answer disappoints, diagnose where its chain-of-thought went wrong and produce",
-    "id": "flashfrogluo/second-take",
-    "language": "Shell",
-    "name": "flashfrogluo/second-take",
-    "stars": 3,
-    "updated_at": "2026-10-19T14:48:50Z",
-    "url": "https://github.com/flashfrogluo/second-take"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -185,7 +248,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 51,
-    "updated_at": "2026-10-19T14:38:35Z",
+    "updated_at": "2026-10-19T15:01:53Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -232,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-10-19T14:21:02Z",
     "url": "https://github.com/jiangylin5-hue/meta-ads-agent"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "TypeScript",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8864,
-    "updated_at": "2026-10-19T14:18:26Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
@@ -394,59 +448,5 @@
     "stars": 109,
     "updated_at": "2026-10-19T13:07:56Z",
     "url": "https://github.com/AVADSA25/codec"
-  },
-  {
-    "description": "A game-agnostic LLM agent runtime for autonomous NPCs, with Stardew Valley as the first real-world adapter.",
-    "id": "zlci7/world-is-agent",
-    "language": "Go",
-    "name": "zlci7/world-is-agent",
-    "stars": 0,
-    "updated_at": "2026-10-19T12:56:46Z",
-    "url": "https://github.com/zlci7/world-is-agent"
-  },
-  {
-    "description": "Official codebase for Spotter: Let the Embodied Model Lead, and the VLM Reflect for It",
-    "id": "zqc3117/Spotter",
-    "language": "Python",
-    "name": "zqc3117/Spotter",
-    "stars": 202,
-    "updated_at": "2026-10-19T12:43:25Z",
-    "url": "https://github.com/zqc3117/Spotter"
-  },
-  {
-    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
-    "id": "oldfunk/paper-trading",
-    "language": "Python",
-    "name": "oldfunk/paper-trading",
-    "stars": 1,
-    "updated_at": "2026-10-19T12:37:14Z",
-    "url": "https://github.com/oldfunk/paper-trading"
-  },
-  {
-    "description": "\u628a\u5927\u6a21\u578b\u5f53\u53f8\u4ee4\u3001\u811a\u672c\u5f53\u624b\u7684 DSH Agent \u9884\u8bbe\uff1a\u5de5\u5177\u91cc\u96f6\u4e1a\u52a1\u5224\u65ad\uff0c\u8ba9\u6a21\u578b\u5728\u8fd0\u884c\u65f6\u81ea\u9002\u5e94\u52a8\u6001\u7ed3\u6784\u7684\u7f51\u7ad9",
-    "id": "LeuJasYoh/dsh-xuexi",
-    "language": "JavaScript",
-    "name": "LeuJasYoh/dsh-xuexi",
-    "stars": 0,
-    "updated_at": "2026-10-19T12:30:29Z",
-    "url": "https://github.com/LeuJasYoh/dsh-xuexi"
-  },
-  {
-    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-19T14:51:53Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "\ud83e\udd16 Lightweight, message-first agent runtime",
-    "id": "Cognipeer/agent-sdk",
-    "language": "TypeScript",
-    "name": "Cognipeer/agent-sdk",
-    "stars": 7,
-    "updated_at": "2026-10-19T12:52:35Z",
-    "url": "https://github.com/Cognipeer/agent-sdk"
   }
 ]
