@@ -1,5 +1,50 @@
 [
   {
+    "description": "Make any agent harness token-native.",
+    "id": "Lawhy/tokin",
+    "language": "Python",
+    "name": "Lawhy/tokin",
+    "stars": 5,
+    "updated_at": "2026-10-19T07:28:43Z",
+    "url": "https://github.com/Lawhy/tokin"
+  },
+  {
+    "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
+    "id": "Shuffle-1992/dsh-context-pilot",
+    "language": "JavaScript",
+    "name": "Shuffle-1992/dsh-context-pilot",
+    "stars": 3,
+    "updated_at": "2026-10-19T07:27:43Z",
+    "url": "https://github.com/Shuffle-1992/dsh-context-pilot"
+  },
+  {
+    "description": "Court Vision \u2014 AI-\u0430\u0441\u0441\u0438\u0441\u0442\u0435\u043d\u0442 \u0431\u0430\u0441\u043a\u0435\u0442\u0431\u043e\u043b\u044c\u043d\u043e\u0433\u043e \u0441\u043a\u0430\u0443\u0442\u0430. LLM-\u0430\u0433\u0435\u043d\u0442 \u0441 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u0430\u043c\u0438 \u043f\u043e\u0432\u0435\u0440\u0445 \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0438 NBA + RAG \u043f\u043e Wikipedia \u0438 ",
+    "id": "delawer33/pickroll",
+    "language": "Python",
+    "name": "delawer33/pickroll",
+    "stars": 0,
+    "updated_at": "2026-10-19T07:26:32Z",
+    "url": "https://github.com/delawer33/pickroll"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-19T07:25:25Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
+    "id": "wufufu770/d2d",
+    "language": "JavaScript",
+    "name": "wufufu770/d2d",
+    "stars": 5,
+    "updated_at": "2026-10-19T07:16:41Z",
+    "url": "https://github.com/wufufu770/d2d"
+  },
+  {
     "description": "Terminal assistant for low-resource Windows PCs: a single ~70 KB 32-bit exe, every command approved by you",
     "id": "lucasvidela94/tinyagent",
     "language": "C",
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4456,
-    "updated_at": "2026-10-19T07:14:37Z",
+    "updated_at": "2026-10-19T07:18:05Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -68,7 +113,7 @@
     "language": "TypeScript",
     "name": "secondorderai/ouroboros",
     "stars": 3,
-    "updated_at": "2026-10-19T07:09:10Z",
+    "updated_at": "2026-10-19T07:23:39Z",
     "url": "https://github.com/secondorderai/ouroboros"
   },
   {
@@ -79,24 +124,6 @@
     "stars": 11,
     "updated_at": "2026-10-19T07:11:20Z",
     "url": "https://github.com/cohexa-ai/agent-coherence"
-  },
-  {
-    "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
-    "id": "Shuffle-1992/dsh-context-pilot",
-    "language": "JavaScript",
-    "name": "Shuffle-1992/dsh-context-pilot",
-    "stars": 3,
-    "updated_at": "2026-10-19T07:08:49Z",
-    "url": "https://github.com/Shuffle-1992/dsh-context-pilot"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-19T07:08:24Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
@@ -144,15 +171,6 @@
     "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
-    "description": "Make any agent harness token-native.",
-    "id": "Lawhy/tokin",
-    "language": "Python",
-    "name": "Lawhy/tokin",
-    "stars": 5,
-    "updated_at": "2026-10-19T06:54:53Z",
-    "url": "https://github.com/Lawhy/tokin"
-  },
-  {
     "description": "Single-user Hebrew/English personal assistant: Cloudflare Workers + SQLite Durable Object, Groq tool-calling agent where",
     "id": "tzur669-lab/whatsapp-assistant",
     "language": "TypeScript",
@@ -175,9 +193,18 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 6284,
+    "stars": 6285,
     "updated_at": "2026-10-19T06:51:17Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
+    "id": "wuyhong715/rikkahub-agent-pure",
+    "language": "Kotlin",
+    "name": "wuyhong715/rikkahub-agent-pure",
+    "stars": 50,
+    "updated_at": "2026-10-19T06:50:44Z",
+    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
     "description": "\u628a ZCode\uff08Z.ai / BigModel\uff09\u6ce8\u518c\u4e3a DeepSeek Harness\uff08DSH\uff09\u7684 LLM provider\uff1a\u4ed8\u8d39 Coding Plan \u76f4\u8fde\uff0c\u514d\u8d39\u989d\u5ea6\uff08Start Plan \u6d3b\u52a8\u8d60\u9001\uff09\u6258\u7ba1\u5b98\u65b9 agent \u4ee3\u53d1 \u2014\u2014 ",
@@ -275,7 +302,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 15,
-    "updated_at": "2026-10-19T07:00:57Z",
+    "updated_at": "2026-10-19T07:21:29Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -283,7 +310,7 @@
     "id": "trhhubsd/ARTEX",
     "language": "Go",
     "name": "trhhubsd/ARTEX",
-    "stars": 1277,
+    "stars": 1278,
     "updated_at": "2026-10-19T06:31:07Z",
     "url": "https://github.com/trhhubsd/ARTEX"
   },
@@ -302,7 +329,7 @@
     "language": "Python",
     "name": "pzc2004/HSR_Nous",
     "stars": 12,
-    "updated_at": "2026-10-19T06:26:26Z",
+    "updated_at": "2026-10-19T07:22:19Z",
     "url": "https://github.com/pzc2004/HSR_Nous"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-19T06:06:16Z",
     "url": "https://github.com/volkandiaz42525/PrivatePixelPrompt"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3627,
-    "updated_at": "2026-10-19T06:02:22Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
-    "id": "bigfish1913/pi-rust",
-    "language": "Rust",
-    "name": "bigfish1913/pi-rust",
-    "stars": 116,
-    "updated_at": "2026-10-19T06:06:12Z",
-    "url": "https://github.com/bigfish1913/pi-rust"
-  },
-  {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 109,
-    "updated_at": "2026-10-19T05:55:46Z",
-    "url": "https://github.com/AVADSA25/codec"
   }
 ]
