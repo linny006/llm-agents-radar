@@ -1,5 +1,32 @@
 [
   {
+    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 49,
+    "updated_at": "2026-10-19T00:06:04Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "Self-hosted AI execution agent for Discord: runs shell commands and edits files on your hosts, drives browsers, schedule",
+    "id": "Calmingstorm/Odin",
+    "language": "Python",
+    "name": "Calmingstorm/Odin",
+    "stars": 3,
+    "updated_at": "2026-10-19T00:04:37Z",
+    "url": "https://github.com/Calmingstorm/Odin"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 285,
+    "updated_at": "2026-10-19T00:03:25Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
@@ -7,15 +34,6 @@
     "stars": 7,
     "updated_at": "2026-10-18T23:55:52Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 284,
-    "updated_at": "2026-10-18T23:55:47Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
   {
     "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
@@ -86,7 +104,7 @@
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 405,
-    "updated_at": "2026-10-18T23:28:54Z",
+    "updated_at": "2026-10-19T00:12:37Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
@@ -122,7 +140,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 14,
-    "updated_at": "2026-10-18T23:08:19Z",
+    "updated_at": "2026-10-19T00:01:57Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -223,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-10-18T23:04:34Z",
     "url": "https://github.com/innerkorehq/AutonomousAgentArchitecture"
-  },
-  {
-    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 49,
-    "updated_at": "2026-10-18T22:50:01Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T20:01:12Z",
     "url": "https://github.com/Mikhailf820/CodeJury"
-  },
-  {
-    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
-    "id": "WaelHansson/CodeJury",
-    "language": "Python",
-    "name": "WaelHansson/CodeJury",
-    "stars": 0,
-    "updated_at": "2026-10-18T19:54:09Z",
-    "url": "https://github.com/WaelHansson/CodeJury"
   }
 ]
