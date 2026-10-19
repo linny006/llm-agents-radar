@@ -1,11 +1,92 @@
 [
   {
+    "description": "Executive Assistant Kit | Gig hunting & general coordination. \u603b\u7ecf\u7406\u52a9\u7406\u2014\u2014\u627e\u5355\u63a5\u6d3b\u5165\u53e3\u4e0e\u7efc\u5408\u4e8b\u52a1\u534f\u8c03\u3002",
+    "id": "xhqing/ExecutiveAssistantAgent",
+    "language": "TypeScript",
+    "name": "xhqing/ExecutiveAssistantAgent",
+    "stars": 0,
+    "updated_at": "2026-10-19T09:15:09Z",
+    "url": "https://github.com/xhqing/ExecutiveAssistantAgent"
+  },
+  {
+    "description": "Single-user Hebrew/English personal assistant: Cloudflare Workers + SQLite Durable Object, Groq tool-calling agent where",
+    "id": "tzur669-lab/whatsapp-assistant",
+    "language": "TypeScript",
+    "name": "tzur669-lab/whatsapp-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-19T09:13:28Z",
+    "url": "https://github.com/tzur669-lab/whatsapp-assistant"
+  },
+  {
+    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
+    "id": "zeng6125-rgb/suixing",
+    "language": "Kotlin",
+    "name": "zeng6125-rgb/suixing",
+    "stars": 0,
+    "updated_at": "2026-10-19T09:10:34Z",
+    "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
+    "id": "EvoMap/awesome-agent-evolution",
+    "language": "JavaScript",
+    "name": "EvoMap/awesome-agent-evolution",
+    "stars": 235,
+    "updated_at": "2026-10-19T09:09:24Z",
+    "url": "https://github.com/EvoMap/awesome-agent-evolution"
+  },
+  {
+    "description": "AI coding agent engine with multi-provider routing, prompt compression, and intelligent model selection across 9+ LLM pr",
+    "id": "dirtysouthalpha/sentinel-code",
+    "language": "TypeScript",
+    "name": "dirtysouthalpha/sentinel-code",
+    "stars": 0,
+    "updated_at": "2026-10-19T09:08:58Z",
+    "url": "https://github.com/dirtysouthalpha/sentinel-code"
+  },
+  {
+    "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
+    "id": "weihuaguo270-ops/react-agent",
+    "language": "Python",
+    "name": "weihuaguo270-ops/react-agent",
+    "stars": 0,
+    "updated_at": "2026-10-19T09:07:07Z",
+    "url": "https://github.com/weihuaguo270-ops/react-agent"
+  },
+  {
+    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
+    "id": "oldfunk/paper-trading",
+    "language": "Python",
+    "name": "oldfunk/paper-trading",
+    "stars": 1,
+    "updated_at": "2026-10-19T09:04:43Z",
+    "url": "https://github.com/oldfunk/paper-trading"
+  },
+  {
+    "description": "\u591a\u667a\u80fd\u4f53\u957f\u671f\u8bb0\u5fc6\u57fa\u7840\u8bbe\u65bd \u00b7 18 \u4e2a MCP \u5de5\u5177 \u00b7 OAuth 2.1 \u8d26\u6237\u6c99\u7bb1 \u00b7 Chat/Working/Coding \u4e09\u5c42\u8ba4\u77e5\u8bb0\u5fc6\uff08Rust + PostgreSQL/pgvector\uff09",
+    "id": "orderye/memory-hub",
+    "language": "Rust",
+    "name": "orderye/memory-hub",
+    "stars": 0,
+    "updated_at": "2026-10-19T09:03:12Z",
+    "url": "https://github.com/orderye/memory-hub"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3633,
+    "updated_at": "2026-10-19T09:01:43Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
     "description": "\u300a\u5d29\u574f\uff1a\u661f\u7a79\u94c1\u9053\u300b\u6218\u6597\u95ee\u9898\u7684\u53ef\u590d\u73b0\u6c42\u89e3\u73af\u5883\u2014\u2014\u4ee5\u9ad8\u4fdd\u771f\u786e\u5b9a\u6027\u6a21\u62df\u4e3a\u88c1\u51b3\uff0c\u628a\u6218\u6597\u7814\u7a76\u53d8\u6210\u53ef\u9a8c\u8bc1\u3001\u53ef\u590d\u73b0\u3001\u53ef\u641c\u7d22\u7684\u5b9e\u9a8c\u95ee\u9898\uff1b\u4e0a\u5c42\u4e3a\u8bb0\u5fc6\u9a71\u52a8\u7684 autoresearch agent \u63a2\u7d22\u5faa\u73af\uff08\u5f00\u53d1\u4e2d\uff09\u3002",
     "id": "pzc2004/HSR_Nous",
     "language": "Python",
     "name": "pzc2004/HSR_Nous",
     "stars": 12,
-    "updated_at": "2026-10-19T08:58:27Z",
+    "updated_at": "2026-10-19T09:00:23Z",
     "url": "https://github.com/pzc2004/HSR_Nous"
   },
   {
@@ -27,13 +108,13 @@
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
-    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
-    "id": "oldfunk/paper-trading",
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
     "language": "Python",
-    "name": "oldfunk/paper-trading",
-    "stars": 1,
-    "updated_at": "2026-10-19T08:55:20Z",
-    "url": "https://github.com/oldfunk/paper-trading"
+    "name": "Mai-with-u/MaiBot",
+    "stars": 6288,
+    "updated_at": "2026-10-19T09:14:11Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
@@ -41,17 +122,8 @@
     "language": "Rust",
     "name": "yologdev/yoagent",
     "stars": 363,
-    "updated_at": "2026-10-19T08:53:57Z",
+    "updated_at": "2026-10-19T09:02:28Z",
     "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3631,
-    "updated_at": "2026-10-19T08:53:46Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Unattended Xiaohongshu publishing agent: CDP-driven browser automation for a site with no API. 28 real runs, 20 document",
@@ -88,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T08:45:55Z",
     "url": "https://github.com/kangwoo/aimon-core"
-  },
-  {
-    "description": "Single-user Hebrew/English personal assistant: Cloudflare Workers + SQLite Durable Object, Groq tool-calling agent where",
-    "id": "tzur669-lab/whatsapp-assistant",
-    "language": "TypeScript",
-    "name": "tzur669-lab/whatsapp-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-19T08:44:39Z",
-    "url": "https://github.com/tzur669-lab/whatsapp-assistant"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -193,7 +256,7 @@
     "id": "ZJU-OmniAI/Scene-Designer",
     "language": "Python",
     "name": "ZJU-OmniAI/Scene-Designer",
-    "stars": 11,
+    "stars": 12,
     "updated_at": "2026-10-19T08:16:52Z",
     "url": "https://github.com/ZJU-OmniAI/Scene-Designer"
   },
@@ -229,7 +292,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 33494,
+    "stars": 33495,
     "updated_at": "2026-10-19T08:06:21Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -275,7 +338,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 14,
-    "updated_at": "2026-10-19T07:59:09Z",
+    "updated_at": "2026-10-19T09:08:37Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -342,15 +405,6 @@
     "url": "https://github.com/tomcounsell/ai"
   },
   {
-    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
-    "id": "zeng6125-rgb/suixing",
-    "language": "Kotlin",
-    "name": "zeng6125-rgb/suixing",
-    "stars": 0,
-    "updated_at": "2026-10-19T07:31:57Z",
-    "url": "https://github.com/zeng6125-rgb/suixing"
-  },
-  {
     "description": "Make any agent harness token-native.",
     "id": "Lawhy/tokin",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-19T07:13:59Z",
     "url": "https://github.com/CircuitSavage/langchain-turnstile"
-  },
-  {
-    "description": "\u4e13\u4e3a\u300a\u539f\u795e\u300b\u6253\u9020\u2014\u2014\u5229\u7528\u89c6\u89c9 AI \u4ee3\u7406\u8fdb\u884c\u4e91\u6e38\u620f\uff0c\u8ba9\u60a8\u65e0\u9700\u4eb2\u81ea\u64cd\u4f5c",
-    "id": "caterpi11ar/giclaw",
-    "language": "TypeScript",
-    "name": "caterpi11ar/giclaw",
-    "stars": 8,
-    "updated_at": "2026-10-19T07:12:03Z",
-    "url": "https://github.com/caterpi11ar/giclaw"
-  },
-  {
-    "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 219,
-    "updated_at": "2026-10-19T07:13:38Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
-    "description": "Ouroboros is an Agent Harness, CLI and Desktop App with Self-Improvement layer",
-    "id": "secondorderai/ouroboros",
-    "language": "TypeScript",
-    "name": "secondorderai/ouroboros",
-    "stars": 3,
-    "updated_at": "2026-10-19T07:23:39Z",
-    "url": "https://github.com/secondorderai/ouroboros"
-  },
-  {
-    "description": "The coordination layer for Multiplayer AI",
-    "id": "cohexa-ai/agent-coherence",
-    "language": "Python",
-    "name": "cohexa-ai/agent-coherence",
-    "stars": 11,
-    "updated_at": "2026-10-19T07:11:20Z",
-    "url": "https://github.com/cohexa-ai/agent-coherence"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-10-19T07:05:45Z",
-    "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
-    "id": "alexwkleung/reika",
-    "language": "TypeScript",
-    "name": "alexwkleung/reika",
-    "stars": 11,
-    "updated_at": "2026-10-19T07:05:01Z",
-    "url": "https://github.com/alexwkleung/reika"
   }
 ]
