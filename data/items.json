@@ -1,5 +1,41 @@
 [
   {
+    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
+    "id": "zeng6125-rgb/suixing",
+    "language": "Kotlin",
+    "name": "zeng6125-rgb/suixing",
+    "stars": 0,
+    "updated_at": "2026-10-19T18:42:23Z",
+    "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-19T18:40:35Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4455,
+    "updated_at": "2026-10-19T18:41:05Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 808,
+    "updated_at": "2026-10-19T18:30:30Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
     "description": "Cuse \u2014 open-source AI cursor agent for macOS. Type or speak a task and an AI cursor clicks, types and navigates any Mac ",
     "id": "muneebkhan08/Cuse",
     "language": "Swift",
@@ -7,6 +43,15 @@
     "stars": 1,
     "updated_at": "2026-10-19T18:23:35Z",
     "url": "https://github.com/muneebkhan08/Cuse"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 6300,
+    "updated_at": "2026-10-19T18:20:55Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
@@ -81,15 +126,6 @@
     "url": "https://github.com/Kvindo/KvindoCode"
   },
   {
-    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
-    "id": "zeng6125-rgb/suixing",
-    "language": "Kotlin",
-    "name": "zeng6125-rgb/suixing",
-    "stars": 0,
-    "updated_at": "2026-10-19T18:06:33Z",
-    "url": "https://github.com/zeng6125-rgb/suixing"
-  },
-  {
     "description": "The coordination layer for Multiplayer AI",
     "id": "cohexa-ai/agent-coherence",
     "language": "Python",
@@ -135,24 +171,6 @@
     "url": "https://github.com/jeinlee1991/chinese-llm-benchmark"
   },
   {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-19T17:49:44Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 6301,
-    "updated_at": "2026-10-19T18:20:55Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
     "description": "AstrBot \u7684\u63d2\u4ef6\u4e0e\u8865\u4e01\u5408\u96c6\uff1a\u81ea\u5efa\u7f51\u9875\u68c0\u7d22\uff08\u8d70\u672c\u673a Edge\uff0c\u4e0d\u4f9d\u8d56\u641c\u7d22 API\uff09\u3001\u628a QQ \u6536\u85cf\u8868\u60c5\u53d1\u8fdb\u4f1a\u8bdd\u3001\u8131\u79bb ComfyUI \u7684 SDXL \u751f\u56fe\u540e\u7aef\uff08\u591a\u5e95\u6a21/\u591a\u753b\u98ce/\u4e24\u6863\u91c7\u6837\u5668/\u753b\u5e45\u4e0a\u9650\u5168\u90e8\u53ef\u914d\uff09\u3001\u770b\u5934\u50cf\u4e0e\u5386\u53f2\u56de\u6eaf",
     "id": "Kiru-Sama/Kiru-Astrbot-Addons",
     "language": "Python",
@@ -185,7 +203,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 2,
-    "updated_at": "2026-10-19T17:35:45Z",
+    "updated_at": "2026-10-19T18:44:21Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -196,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T17:26:43Z",
     "url": "https://github.com/roxm337/osint-agent"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 808,
-    "updated_at": "2026-10-19T18:23:05Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -241,15 +250,6 @@
     "stars": 2,
     "updated_at": "2026-10-19T18:06:14Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4455,
-    "updated_at": "2026-10-19T18:23:03Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",

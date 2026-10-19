@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-19 18:30 UTC
+> ⏰ Last updated: 2026-10-19 18:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,34 +42,34 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [muneebkhan08/Cuse](https://github.com/muneebkhan08/Cuse) | 1 | Swift | 2026-10-19 | Cuse — open-source AI cursor agent for macOS. Type or speak a task and an AI cursor clicks, types and navigates any Mac  |
-| 2 | [RalfHermsen/x4-agent](https://github.com/RalfHermsen/x4-agent) | 0 | Python | 2026-10-19 | A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com |
-| 3 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 6 | Swift | 2026-10-19 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
-| 4 | [yurika0211/lucky-agent](https://github.com/yurika0211/lucky-agent) | 15 | Go | 2026-10-19 | LuckyAgent — 注重长任务规划和系统记忆性的Agent框架 |
-| 5 | [Mirascope/mirascope](https://github.com/Mirascope/mirascope) | 1533 | Python | 2026-10-19 | The LLM Anti-Framework |
-| 6 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-10-19 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 7 | [plurnk/plurnk](https://github.com/plurnk/plurnk) | 5 | TypeScript | 2026-10-19 | Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models. |
-| 8 | [alexwkleung/reika](https://github.com/alexwkleung/reika) | 11 | TypeScript | 2026-10-19 | Coding agent CLI for local and hosted models, designed around small local models first |
-| 9 | [Kvindo/KvindoCode](https://github.com/Kvindo/KvindoCode) | 2 | C# | 2026-10-19 | Desktop AI coding agent for Linux/Windows/macOS: an Avalonia .NET app with git-worktree isolation per session, plan revi |
-| 10 | [zeng6125-rgb/suixing](https://github.com/zeng6125-rgb/suixing) | 0 | Kotlin | 2026-10-19 | 随行 Suixing —— 手机端 AI Agent（Android · Kotlin + Compose）：读屏、点按、改文件、跑命令，纯本地、无云同步 |
-| 11 | [cohexa-ai/agent-coherence](https://github.com/cohexa-ai/agent-coherence) | 11 | Python | 2026-10-19 | The coordination layer for Multiplayer AI |
-| 12 | [KaletoAI/anima-verse](https://github.com/KaletoAI/anima-verse) | 4 | Python | 2026-10-19 | Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system, |
-| 13 | [honestDS/MonoLight](https://github.com/honestDS/MonoLight) | 9 | Python | 2026-10-19 | MonoLight 是一个专注于安全执行与人机协同的通用自主智能体（General Autonomous Agent）运行时。 |
-| 14 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-19 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
-| 15 | [jeinlee1991/chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) | 6481 | — | 2026-10-19 | 非线智能 NoneLinear - ReLE评测：中文AI大模型能力评测（持续更新）：目前已囊括374个大模型，覆盖chatgpt、gpt-5.4、谷歌gemini-3.1-pro、Claude-4.6、文心ERNIE-X1.1、ERNIE |
-| 16 | [kanishka-namdeo/Unown](https://github.com/kanishka-namdeo/Unown) | 0 | TypeScript | 2026-10-19 | The Self-Improving Coding Agent |
-| 17 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 6301 | Python | 2026-10-19 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
-| 18 | [Kiru-Sama/Kiru-Astrbot-Addons](https://github.com/Kiru-Sama/Kiru-Astrbot-Addons) | 0 | Python | 2026-10-19 | AstrBot 的插件与补丁合集：自建网页检索（走本机 Edge，不依赖搜索 API）、把 QQ 收藏表情发进会话、脱离 ComfyUI 的 SDXL 生图后端（多底模/多画风/两档采样器/画幅上限全部可配）、看头像与历史回溯 |
-| 19 | [Ezra-Zhao/AI-Node-Sentinel](https://github.com/Ezra-Zhao/AI-Node-Sentinel) | 0 | Python | 2026-10-19 | LLM agent for post-silicon hardware diagnostics — GPU XID / PCIe error triage |
-| 20 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 1 | TypeScript | 2026-10-19 | Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers. |
-| 21 | [duongnq2798/vestiarion](https://github.com/duongnq2798/vestiarion) | 2 | TypeScript | 2026-10-19 | Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc  |
-| 22 | [roxm337/osint-agent](https://github.com/roxm337/osint-agent) | 0 | Python | 2026-10-19 | Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b |
-| 23 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 808 | JavaScript | 2026-10-19 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
-| 24 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 8865 | TypeScript | 2026-10-19 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
-| 25 | [WhitehatD/hesperus](https://github.com/WhitehatD/hesperus) | 5 | C | 2026-10-19 | Hesperus: a camera that almost never looks. Describe what you want to know in plain English; an LLM plans when to take a |
-| 26 | [eshanized/M31A](https://github.com/eshanized/M31A) | 10 | Rust | 2026-10-19 | M31 Autonomous — Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe |
-| 27 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 2 | C++ | 2026-10-19 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
-| 28 | [gptme/gptme](https://github.com/gptme/gptme) | 4455 | Python | 2026-10-19 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
+| 1 | [zeng6125-rgb/suixing](https://github.com/zeng6125-rgb/suixing) | 0 | Kotlin | 2026-10-19 | 随行 Suixing —— 手机端 AI Agent（Android · Kotlin + Compose）：读屏、点按、改文件、跑命令，纯本地、无云同步 |
+| 2 | [kanishka-namdeo/Unown](https://github.com/kanishka-namdeo/Unown) | 0 | TypeScript | 2026-10-19 | The Self-Improving Coding Agent |
+| 3 | [gptme/gptme](https://github.com/gptme/gptme) | 4455 | Python | 2026-10-19 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
+| 4 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 808 | JavaScript | 2026-10-19 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
+| 5 | [muneebkhan08/Cuse](https://github.com/muneebkhan08/Cuse) | 1 | Swift | 2026-10-19 | Cuse — open-source AI cursor agent for macOS. Type or speak a task and an AI cursor clicks, types and navigates any Mac  |
+| 6 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 6300 | Python | 2026-10-19 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
+| 7 | [RalfHermsen/x4-agent](https://github.com/RalfHermsen/x4-agent) | 0 | Python | 2026-10-19 | A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com |
+| 8 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 6 | Swift | 2026-10-19 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
+| 9 | [yurika0211/lucky-agent](https://github.com/yurika0211/lucky-agent) | 15 | Go | 2026-10-19 | LuckyAgent — 注重长任务规划和系统记忆性的Agent框架 |
+| 10 | [Mirascope/mirascope](https://github.com/Mirascope/mirascope) | 1533 | Python | 2026-10-19 | The LLM Anti-Framework |
+| 11 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-10-19 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 12 | [plurnk/plurnk](https://github.com/plurnk/plurnk) | 5 | TypeScript | 2026-10-19 | Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models. |
+| 13 | [alexwkleung/reika](https://github.com/alexwkleung/reika) | 11 | TypeScript | 2026-10-19 | Coding agent CLI for local and hosted models, designed around small local models first |
+| 14 | [Kvindo/KvindoCode](https://github.com/Kvindo/KvindoCode) | 2 | C# | 2026-10-19 | Desktop AI coding agent for Linux/Windows/macOS: an Avalonia .NET app with git-worktree isolation per session, plan revi |
+| 15 | [cohexa-ai/agent-coherence](https://github.com/cohexa-ai/agent-coherence) | 11 | Python | 2026-10-19 | The coordination layer for Multiplayer AI |
+| 16 | [KaletoAI/anima-verse](https://github.com/KaletoAI/anima-verse) | 4 | Python | 2026-10-19 | Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system, |
+| 17 | [honestDS/MonoLight](https://github.com/honestDS/MonoLight) | 9 | Python | 2026-10-19 | MonoLight 是一个专注于安全执行与人机协同的通用自主智能体（General Autonomous Agent）运行时。 |
+| 18 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-19 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
+| 19 | [jeinlee1991/chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) | 6481 | — | 2026-10-19 | 非线智能 NoneLinear - ReLE评测：中文AI大模型能力评测（持续更新）：目前已囊括374个大模型，覆盖chatgpt、gpt-5.4、谷歌gemini-3.1-pro、Claude-4.6、文心ERNIE-X1.1、ERNIE |
+| 20 | [Kiru-Sama/Kiru-Astrbot-Addons](https://github.com/Kiru-Sama/Kiru-Astrbot-Addons) | 0 | Python | 2026-10-19 | AstrBot 的插件与补丁合集：自建网页检索（走本机 Edge，不依赖搜索 API）、把 QQ 收藏表情发进会话、脱离 ComfyUI 的 SDXL 生图后端（多底模/多画风/两档采样器/画幅上限全部可配）、看头像与历史回溯 |
+| 21 | [Ezra-Zhao/AI-Node-Sentinel](https://github.com/Ezra-Zhao/AI-Node-Sentinel) | 0 | Python | 2026-10-19 | LLM agent for post-silicon hardware diagnostics — GPU XID / PCIe error triage |
+| 22 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 1 | TypeScript | 2026-10-19 | Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers. |
+| 23 | [duongnq2798/vestiarion](https://github.com/duongnq2798/vestiarion) | 2 | TypeScript | 2026-10-19 | Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc  |
+| 24 | [roxm337/osint-agent](https://github.com/roxm337/osint-agent) | 0 | Python | 2026-10-19 | Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b |
+| 25 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 8865 | TypeScript | 2026-10-19 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 26 | [WhitehatD/hesperus](https://github.com/WhitehatD/hesperus) | 5 | C | 2026-10-19 | Hesperus: a camera that almost never looks. Describe what you want to know in plain English; an LLM plans when to take a |
+| 27 | [eshanized/M31A](https://github.com/eshanized/M31A) | 10 | Rust | 2026-10-19 | M31 Autonomous — Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe |
+| 28 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 2 | C++ | 2026-10-19 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
 | 29 | [ljedrz/nachalnik](https://github.com/ljedrz/nachalnik) | 5 | Rust | 2026-10-19 | A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and  |
 | 30 | [uranrog-01/models-fit-studio](https://github.com/uranrog-01/models-fit-studio) | 0 | C# | 2026-10-19 | Check if an AI model fits your PC, then download it, measure it and use it with your AI agents. Free Windows app by zer0 |
 | 31 | [NitinReddy-A/Rampart](https://github.com/NitinReddy-A/Rampart) | 13 | Python | 2026-10-19 | Open-source, self-hostable AppSec agent that finds, proves, and helps fix web/API vulnerabilities — evidence-first (inde |
