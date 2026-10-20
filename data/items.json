@@ -1,12 +1,57 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-10-20T07:00:08Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "\uc790\uc5f0\uc5b4\ub85c \ubb3b\ub294 read-only Kubernetes \uc7a5\uc560 \uc9c4\ub2e8 \uc5d0\uc774\uc804\ud2b8",
+    "id": "dlwldP/KubeLens",
+    "language": "Python",
+    "name": "dlwldP/KubeLens",
+    "stars": 0,
+    "updated_at": "2026-10-20T07:00:11Z",
+    "url": "https://github.com/dlwldP/KubeLens"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-20T06:59:30Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 15,
-    "updated_at": "2026-10-20T06:55:11Z",
+    "updated_at": "2026-10-20T06:59:56Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Community registry of AI agent manifests, capabilities, skills, and workflows for Octomind \u2014 run a fully-configured spec",
+    "id": "Muvon/octomind-tap",
+    "language": "Python",
+    "name": "Muvon/octomind-tap",
+    "stars": 5,
+    "updated_at": "2026-10-20T06:57:31Z",
+    "url": "https://github.com/Muvon/octomind-tap"
+  },
+  {
+    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
+    "id": "xieguigang/sciBASIC",
+    "language": "Visual Basic .NET",
+    "name": "xieguigang/sciBASIC",
+    "stars": 79,
+    "updated_at": "2026-10-20T06:56:29Z",
+    "url": "https://github.com/xieguigang/sciBASIC"
   },
   {
     "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
@@ -61,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T06:36:18Z",
     "url": "https://github.com/tzur669-lab/whatsapp-assistant"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-20T06:35:11Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
@@ -160,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T06:03:24Z",
     "url": "https://github.com/Chensihakniroth/anakot-agent-v1"
-  },
-  {
-    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
-    "id": "xieguigang/sciBASIC",
-    "language": "Visual Basic .NET",
-    "name": "xieguigang/sciBASIC",
-    "stars": 79,
-    "updated_at": "2026-10-20T06:00:02Z",
-    "url": "https://github.com/xieguigang/sciBASIC"
   },
   {
     "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-20T05:07:18Z",
     "url": "https://github.com/yannismirza/Upwork-AI-jobs-applier"
-  },
-  {
-    "description": "DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy.",
-    "id": "michalkruger0145/taracode",
-    "language": "Go",
-    "name": "michalkruger0145/taracode",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:06:52Z",
-    "url": "https://github.com/michalkruger0145/taracode"
-  },
-  {
-    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-    "id": "BlockRunAI/Franklin",
-    "language": "TypeScript",
-    "name": "BlockRunAI/Franklin",
-    "stars": 561,
-    "updated_at": "2026-10-20T05:03:36Z",
-    "url": "https://github.com/BlockRunAI/Franklin"
-  },
-  {
-    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
-    "id": "Vandenberg623/CodeJury",
-    "language": "Python",
-    "name": "Vandenberg623/CodeJury",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:02:46Z",
-    "url": "https://github.com/Vandenberg623/CodeJury"
   }
 ]
