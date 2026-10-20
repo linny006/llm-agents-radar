@@ -1,12 +1,57 @@
 [
   {
-    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
-    "id": "robolong/zhengming",
-    "language": "TypeScript",
-    "name": "robolong/zhengming",
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
     "stars": 0,
-    "updated_at": "2026-10-20T17:54:45Z",
-    "url": "https://github.com/robolong/zhengming"
+    "updated_at": "2026-10-20T18:13:59Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "MCP server for spatial transcriptomics analysis through natural language interfaces.",
+    "id": "cafferychen777/ChatSpatial",
+    "language": "Python",
+    "name": "cafferychen777/ChatSpatial",
+    "stars": 45,
+    "updated_at": "2026-10-20T18:13:07Z",
+    "url": "https://github.com/cafferychen777/ChatSpatial"
+  },
+  {
+    "description": "The coordination layer for Multiplayer AI",
+    "id": "cohexa-ai/agent-coherence",
+    "language": "Python",
+    "name": "cohexa-ai/agent-coherence",
+    "stars": 11,
+    "updated_at": "2026-10-20T18:08:29Z",
+    "url": "https://github.com/cohexa-ai/agent-coherence"
+  },
+  {
+    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-20T18:07:36Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 874,
+    "updated_at": "2026-10-20T18:06:46Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "The LLM Anti-Framework",
+    "id": "Mirascope/mirascope",
+    "language": "Python",
+    "name": "Mirascope/mirascope",
+    "stars": 1533,
+    "updated_at": "2026-10-20T18:03:37Z",
+    "url": "https://github.com/Mirascope/mirascope"
   },
   {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
@@ -14,8 +59,17 @@
     "language": "TypeScript",
     "name": "dsswift/ion",
     "stars": 4,
-    "updated_at": "2026-10-20T17:50:53Z",
+    "updated_at": "2026-10-20T18:02:15Z",
     "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
+    "id": "robolong/zhengming",
+    "language": "TypeScript",
+    "name": "robolong/zhengming",
+    "stars": 0,
+    "updated_at": "2026-10-20T18:01:59Z",
+    "url": "https://github.com/robolong/zhengming"
   },
   {
     "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
@@ -77,7 +131,7 @@
     "language": "Python",
     "name": "kudratsingh/incident-commander",
     "stars": 0,
-    "updated_at": "2026-10-20T17:40:29Z",
+    "updated_at": "2026-10-20T18:14:44Z",
     "url": "https://github.com/kudratsingh/incident-commander"
   },
   {
@@ -86,7 +140,7 @@
     "language": "TypeScript",
     "name": "strands-agents/harness-sdk",
     "stars": 8878,
-    "updated_at": "2026-10-20T17:57:48Z",
+    "updated_at": "2026-10-20T18:14:33Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -124,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T17:31:28Z",
     "url": "https://github.com/jphall663/GWU_LLM"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 874,
-    "updated_at": "2026-10-20T17:59:35Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "Scrapling \u98ce\u683c\u9690\u8eab\u722c\u866b\u5e93\uff1a\u81ea\u9002\u5e94\u9009\u62e9\u5668 \u00b7 TLS \u6307\u7eb9 HTTP \u00b7 JS \u6e32\u67d3 \u00b7 \u56de\u8c03\u5f0f Spider \u6846\u67b6\uff08\u91cd\u8bd5/robots/\u53bb\u91cd/\u4e2d\u95f4\u4ef6\u7ba1\u9053\uff09\u00b7 JS \u9006\u5411 Agent \u00b7 \u9a8c\u8bc1\u7801\u8bc6\u522b \u00b7 MCP \u670d\u52a1 \u00b7 \u672c\u5730 We",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-20T15:42:20Z",
     "url": "https://github.com/xanstomper/mochi"
-  },
-  {
-    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
-    "id": "wuyhong715/rikkahub-agent-pure",
-    "language": "Kotlin",
-    "name": "wuyhong715/rikkahub-agent-pure",
-    "stars": 53,
-    "updated_at": "2026-10-20T15:36:32Z",
-    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
-  },
-  {
-    "description": "\u6b66\u6c49\u5927\u5b66\u5730\u7a7a\u5b66\u9662 2026 \u5927\u521b\uff1a\u591a\u667a\u80fd\u4f53 AI \u91ce\u5916\u53f0\u7ad9\u7ba1\u7406\u7cfb\u7edf \u2014\u2014 \u76d1\u6d4b/\u8d28\u63a7/\u7814\u5224/\u6d3e\u5355/\u5f52\u6863\u95ed\u73af\u3002LangGraph \u8fd0\u884c\u65f6 \u00b7 MCP \u5de5\u5177\u63a5\u53e3 \u00b7 \u89c4\u5219\u88c1\u51b3 + \u5927\u6a21\u578b\u5f52\u56e0\u3002\u516c\u5f00\u8131\u654f\u4ed3\u5e93",
-    "id": "yasunosubaru/field-station-agent",
-    "language": "Python",
-    "name": "yasunosubaru/field-station-agent",
-    "stars": 0,
-    "updated_at": "2026-10-20T15:37:35Z",
-    "url": "https://github.com/yasunosubaru/field-station-agent"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 6,
-    "updated_at": "2026-10-20T15:35:03Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
-    "id": "ximing/vital",
-    "language": "TypeScript",
-    "name": "ximing/vital",
-    "stars": 3,
-    "updated_at": "2026-10-20T15:26:54Z",
-    "url": "https://github.com/ximing/vital"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 822,
-    "updated_at": "2026-10-20T17:44:23Z",
-    "url": "https://github.com/helixml/helix"
   }
 ]
