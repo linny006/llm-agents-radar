@@ -1,5 +1,32 @@
 [
   {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-20T01:58:44Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "\u8f7b\u91cf\u7684agent\u6846\u67b6",
+    "id": "qiuzixu/agent-core",
+    "language": "Python",
+    "name": "qiuzixu/agent-core",
+    "stars": 1,
+    "updated_at": "2026-10-20T01:55:44Z",
+    "url": "https://github.com/qiuzixu/agent-core"
+  },
+  {
+    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
+    "id": "xiongweilin/agent-skills",
+    "language": "PowerShell",
+    "name": "xiongweilin/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-20T01:55:28Z",
+    "url": "https://github.com/xiongweilin/agent-skills"
+  },
+  {
     "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
     "id": "Soodok/Deepseek-Harness-Local-Android",
     "language": "Kotlin",
@@ -63,15 +90,6 @@
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
-    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
-    "id": "xiongweilin/agent-skills",
-    "language": "PowerShell",
-    "name": "xiongweilin/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-20T01:27:56Z",
-    "url": "https://github.com/xiongweilin/agent-skills"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -104,7 +122,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 14,
-    "updated_at": "2026-10-20T01:43:47Z",
+    "updated_at": "2026-10-20T01:56:35Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -133,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T01:00:13Z",
     "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-20T00:57:32Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Coding agent CLI for local and hosted models, designed around small local models first",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-19T21:10:56Z",
     "url": "https://github.com/Chaudhry80/DM-Code-Agent"
-  },
-  {
-    "description": "DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy.",
-    "id": "rnascimento72551/taracode",
-    "language": "Go",
-    "name": "rnascimento72551/taracode",
-    "stars": 0,
-    "updated_at": "2026-10-19T21:09:45Z",
-    "url": "https://github.com/rnascimento72551/taracode"
   }
 ]
