@@ -1,12 +1,93 @@
 [
   {
-    "description": "A cognitive runtime that gives LLM agents persistent state, identity, and learning across turns. Memory, beliefs, drives",
-    "id": "balfiky/nur",
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-20T08:00:12Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Single-user Hebrew/English personal assistant: Cloudflare Workers + SQLite Durable Object, Groq tool-calling agent where",
+    "id": "tzur669-lab/whatsapp-assistant",
+    "language": "TypeScript",
+    "name": "tzur669-lab/whatsapp-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-20T07:58:31Z",
+    "url": "https://github.com/tzur669-lab/whatsapp-assistant"
+  },
+  {
+    "description": "Local-first long-term memory and safer context compression for Hermes Agent \u2014 SQLite, no required services.",
+    "id": "indigokarasu/chronicle-agent-context-and-memory",
     "language": "Python",
-    "name": "balfiky/nur",
+    "name": "indigokarasu/chronicle-agent-context-and-memory",
+    "stars": 11,
+    "updated_at": "2026-10-20T07:54:41Z",
+    "url": "https://github.com/indigokarasu/chronicle-agent-context-and-memory"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 15,
+    "updated_at": "2026-10-20T07:53:58Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
+    "id": "Rekin226/Agronaut",
+    "language": "Python",
+    "name": "Rekin226/Agronaut",
+    "stars": 5,
+    "updated_at": "2026-10-20T07:52:06Z",
+    "url": "https://github.com/Rekin226/Agronaut"
+  },
+  {
+    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
+    "id": "zeng6125-rgb/suixing",
+    "language": "Kotlin",
+    "name": "zeng6125-rgb/suixing",
+    "stars": 0,
+    "updated_at": "2026-10-20T07:49:20Z",
+    "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
+    "id": "oldfunk/paper-trading",
+    "language": "Python",
+    "name": "oldfunk/paper-trading",
+    "stars": 1,
+    "updated_at": "2026-10-20T07:48:50Z",
+    "url": "https://github.com/oldfunk/paper-trading"
+  },
+  {
+    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
+    "id": "robolong/zhengming",
+    "language": "TypeScript",
+    "name": "robolong/zhengming",
+    "stars": 0,
+    "updated_at": "2026-10-20T07:48:13Z",
+    "url": "https://github.com/robolong/zhengming"
+  },
+  {
+    "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
+    "id": "edjafarov/kiagent-core",
+    "language": "TypeScript",
+    "name": "edjafarov/kiagent-core",
+    "stars": 7,
+    "updated_at": "2026-10-20T07:45:27Z",
+    "url": "https://github.com/edjafarov/kiagent-core"
+  },
+  {
+    "description": "A cognitive runtime that gives LLM agents persistent state, identity, and learning across turns. Memory, beliefs, drives",
+    "id": "balfiky/openrook",
+    "language": "Python",
+    "name": "balfiky/openrook",
     "stars": 3,
     "updated_at": "2026-10-20T07:44:00Z",
-    "url": "https://github.com/balfiky/nur"
+    "url": "https://github.com/balfiky/openrook"
   },
   {
     "description": "Open-source AI coding agent for your terminal that you can undo, even its shell commands. 250+ models, /taste for AI-slo",
@@ -16,15 +97,6 @@
     "stars": 11,
     "updated_at": "2026-10-20T07:42:03Z",
     "url": "https://github.com/AmerSarhan/darce-cli"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-20T07:39:55Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into",
@@ -61,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T07:38:43Z",
     "url": "https://github.com/qiuzixu/agent-core"
-  },
-  {
-    "description": "Local-first long-term memory and safer context compression for Hermes Agent \u2014 SQLite, no required services.",
-    "id": "indigokarasu/chronicle-agent-context-and-memory",
-    "language": "Python",
-    "name": "indigokarasu/chronicle-agent-context-and-memory",
-    "stars": 11,
-    "updated_at": "2026-10-20T07:38:30Z",
-    "url": "https://github.com/indigokarasu/chronicle-agent-context-and-memory"
   },
   {
     "description": "\u628a\u4efb\u52a1\u6d3e\u53d1\u7ed9\u672c\u673a ZCode CLI \u65e0\u5934\u8fdb\u7a0b\u7684 DeepSeek Harness \u63d2\u4ef6\uff1a\u9762\u677f\u53ef\u76d1\u89c6/\u7ec8\u6b62/\u7eed\u8dd1/\u6362\u901a\u9053\uff1b\u5355\u5199\u8005\u6587\u4ef6\u9501 + \u7528\u91cf\u53f0\u8d26 + \u964d\u7ea7\u94fe\u3002\u652f\u6301\u4ed8\u8d39\u5957\u9910\u4e0e\u514d\u8d39\u989d\u5ea6\uff08Start Plan \u6d3b\u52a8\u8d60\u9001\uff09\u4e24\u79cd\u989d\u5ea6\uff0c\u540e\u8005\u6258\u7ba1\u5b98\u65b9",
@@ -117,20 +180,11 @@
     "url": "https://github.com/gonicolas12/My_OS"
   },
   {
-    "description": "Single-user Hebrew/English personal assistant: Cloudflare Workers + SQLite Durable Object, Groq tool-calling agent where",
-    "id": "tzur669-lab/whatsapp-assistant",
-    "language": "TypeScript",
-    "name": "tzur669-lab/whatsapp-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-20T07:22:32Z",
-    "url": "https://github.com/tzur669-lab/whatsapp-assistant"
-  },
-  {
     "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
     "id": "Soodok/Deepseek-Harness-Local-Android",
     "language": "Kotlin",
     "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 298,
+    "stars": 297,
     "updated_at": "2026-10-20T07:22:09Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
@@ -160,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T07:13:50Z",
     "url": "https://github.com/PlainSightX/wind-workbench"
-  },
-  {
-    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
-    "id": "robolong/zhengming",
-    "language": "TypeScript",
-    "name": "robolong/zhengming",
-    "stars": 0,
-    "updated_at": "2026-10-20T07:42:41Z",
-    "url": "https://github.com/robolong/zhengming"
   },
   {
     "description": "\u57fa\u4e8eMCP\u7684Android\u8bbe\u5907\u64cd\u4f5cAgent: \u624b\u5199ReAct\u5faa\u73af+MCP\u5de5\u5177\u5c42+\u4e09\u8f6e\u8bc4\u6d4b\u8fed\u4ee3",
@@ -211,7 +256,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 33524,
+    "stars": 33525,
     "updated_at": "2026-10-20T07:03:16Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -232,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T07:00:08Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 15,
-    "updated_at": "2026-10-20T07:30:32Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Community registry of AI agent manifests, capabilities, skills, and workflows for Octomind \u2014 run a fully-configured spec",
@@ -320,7 +356,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 53,
-    "updated_at": "2026-10-20T07:33:14Z",
+    "updated_at": "2026-10-20T07:50:53Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -356,7 +392,7 @@
     "language": "Python",
     "name": "altairos/fieldwork-agent",
     "stars": 0,
-    "updated_at": "2026-10-20T06:01:55Z",
+    "updated_at": "2026-10-20T07:52:37Z",
     "url": "https://github.com/altairos/fieldwork-agent"
   },
   {
@@ -383,7 +419,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5852,
-    "updated_at": "2026-10-20T05:58:30Z",
+    "updated_at": "2026-10-20T07:59:07Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -394,15 +430,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T05:53:29Z",
     "url": "https://github.com/virginiam0411/DM-Code-Agent"
-  },
-  {
-    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
-    "id": "zeng6125-rgb/suixing",
-    "language": "Kotlin",
-    "name": "zeng6125-rgb/suixing",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:53:10Z",
-    "url": "https://github.com/zeng6125-rgb/suixing"
   },
   {
     "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
@@ -421,32 +448,5 @@
     "stars": 29,
     "updated_at": "2026-10-20T06:19:36Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 132,
-    "updated_at": "2026-10-20T05:49:04Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-10-20T05:48:18Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by ",
-    "id": "christinefreitas/DM-Code-Agent",
-    "language": "Python",
-    "name": "christinefreitas/DM-Code-Agent",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:47:46Z",
-    "url": "https://github.com/christinefreitas/DM-Code-Agent"
   }
 ]
