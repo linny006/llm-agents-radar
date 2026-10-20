@@ -1,12 +1,147 @@
 [
   {
+    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
+    "id": "esanders47/CodeJury",
+    "language": "\u2014",
+    "name": "esanders47/CodeJury",
+    "stars": 0,
+    "updated_at": "2026-10-20T09:15:06Z",
+    "url": "https://github.com/esanders47/CodeJury"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-20T09:13:16Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-20T09:11:33Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy.",
+    "id": "KennethMartin984/taracode",
+    "language": "Go",
+    "name": "KennethMartin984/taracode",
+    "stars": 0,
+    "updated_at": "2026-10-20T09:11:26Z",
+    "url": "https://github.com/KennethMartin984/taracode"
+  },
+  {
+    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
+    "id": "RalfHermsen/x4-agent",
+    "language": "Python",
+    "name": "RalfHermsen/x4-agent",
+    "stars": 0,
+    "updated_at": "2026-10-20T09:11:16Z",
+    "url": "https://github.com/RalfHermsen/x4-agent"
+  },
+  {
+    "description": "Single-user Hebrew/English personal assistant: Cloudflare Workers + SQLite Durable Object, Groq tool-calling agent where",
+    "id": "tzur669-lab/whatsapp-assistant",
+    "language": "TypeScript",
+    "name": "tzur669-lab/whatsapp-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-20T09:10:52Z",
+    "url": "https://github.com/tzur669-lab/whatsapp-assistant"
+  },
+  {
+    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
+    "id": "robolong/zhengming",
+    "language": "TypeScript",
+    "name": "robolong/zhengming",
+    "stars": 0,
+    "updated_at": "2026-10-20T09:10:49Z",
+    "url": "https://github.com/robolong/zhengming"
+  },
+  {
     "description": "An AI red-team agent for authorized labs and web app pentesting workflows. Turns Claude Code / OpenCode / Codex into a s",
     "id": "cynthiadaniels/RedteamAgent",
-    "language": "\u2014",
+    "language": "Python",
     "name": "cynthiadaniels/RedteamAgent",
     "stars": 0,
-    "updated_at": "2026-10-20T09:00:12Z",
+    "updated_at": "2026-10-20T09:08:03Z",
     "url": "https://github.com/cynthiadaniels/RedteamAgent"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 33529,
+    "updated_at": "2026-10-20T09:07:31Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-20T09:07:18Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-20T09:06:02Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy.",
+    "id": "PamelaPatel14580/taracode",
+    "language": "Go",
+    "name": "PamelaPatel14580/taracode",
+    "stars": 0,
+    "updated_at": "2026-10-20T09:05:51Z",
+    "url": "https://github.com/PamelaPatel14580/taracode"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 364,
+    "updated_at": "2026-10-20T09:03:45Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
+    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
+    "id": "sky-valley/pi",
+    "language": "Go",
+    "name": "sky-valley/pi",
+    "stars": 78,
+    "updated_at": "2026-10-20T09:03:04Z",
+    "url": "https://github.com/sky-valley/pi"
+  },
+  {
+    "description": "\u975e\u5e38\u8be6\u7ec6\u7684\u5927\u6a21\u578bLLM\u7684\u5b66\u4e60\u6559\u7a0b\u4e0e\u7b14\u8bb0",
+    "id": "sanjaypopov2021/LLM_book",
+    "language": "Python",
+    "name": "sanjaypopov2021/LLM_book",
+    "stars": 0,
+    "updated_at": "2026-10-20T09:02:56Z",
+    "url": "https://github.com/sanjaypopov2021/LLM_book"
+  },
+  {
+    "description": "DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy.",
+    "id": "Yuki0242/taracode",
+    "language": "Go",
+    "name": "Yuki0242/taracode",
+    "stars": 0,
+    "updated_at": "2026-10-20T09:01:00Z",
+    "url": "https://github.com/Yuki0242/taracode"
   },
   {
     "description": "DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy.",
@@ -14,7 +149,7 @@
     "language": "Go",
     "name": "Davide7893/taracode",
     "stars": 0,
-    "updated_at": "2026-10-20T09:00:03Z",
+    "updated_at": "2026-10-20T09:00:50Z",
     "url": "https://github.com/Davide7893/taracode"
   },
   {
@@ -31,7 +166,7 @@
     "id": "yuxinlaile/McD-saver",
     "language": "Python",
     "name": "yuxinlaile/McD-saver",
-    "stars": 15,
+    "stars": 18,
     "updated_at": "2026-10-20T08:57:35Z",
     "url": "https://github.com/yuxinlaile/McD-saver"
   },
@@ -81,15 +216,6 @@
     "url": "https://github.com/yenvasiliou768/RedteamAgent"
   },
   {
-    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
-    "id": "RalfHermsen/x4-agent",
-    "language": "Python",
-    "name": "RalfHermsen/x4-agent",
-    "stars": 0,
-    "updated_at": "2026-10-20T08:53:28Z",
-    "url": "https://github.com/RalfHermsen/x4-agent"
-  },
-  {
     "description": "Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by ",
     "id": "duongsasaki36152/DM-Code-Agent",
     "language": "Python",
@@ -97,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T08:51:18Z",
     "url": "https://github.com/duongsasaki36152/DM-Code-Agent"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-20T08:50:54Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -140,26 +257,8 @@
     "language": "Rust",
     "name": "ArthurReboulSalze/Sherka-Compagnon",
     "stars": 1,
-    "updated_at": "2026-10-20T08:48:55Z",
+    "updated_at": "2026-10-20T09:09:21Z",
     "url": "https://github.com/ArthurReboulSalze/Sherka-Compagnon"
-  },
-  {
-    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
-    "id": "robolong/zhengming",
-    "language": "TypeScript",
-    "name": "robolong/zhengming",
-    "stars": 0,
-    "updated_at": "2026-10-20T08:54:08Z",
-    "url": "https://github.com/robolong/zhengming"
-  },
-  {
-    "description": "Single-user Hebrew/English personal assistant: Cloudflare Workers + SQLite Durable Object, Groq tool-calling agent where",
-    "id": "tzur669-lab/whatsapp-assistant",
-    "language": "TypeScript",
-    "name": "tzur669-lab/whatsapp-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-20T08:40:58Z",
-    "url": "https://github.com/tzur669-lab/whatsapp-assistant"
   },
   {
     "description": "Agent \u81ea\u52a8\u6d4b\u8bd5\u7cfb\u7edf\uff1aLangGraph + LLM \u7f16\u6392\u7684 API/Web UI \u81ea\u52a8\u5316\u6d4b\u8bd5\uff0c\u4ece OpenAPI \u5951\u7ea6\u751f\u6210\u7528\u4f8b\u3001\u6267\u884c\u6d4b\u8bd5\u3001\u81ea\u52a8\u91cd\u8bd5\u4e0e\u7f3a\u9677\u5f52\u56e0\uff0c\u4ea7\u51fa\u53ef\u89c6\u5316\u62a5\u544a",
@@ -171,6 +270,15 @@
     "url": "https://github.com/lefan17/agent-test-hub"
   },
   {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 841,
+    "updated_at": "2026-10-20T08:38:29Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
     "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
     "id": "EduardoMendes06285/CodeJury",
     "language": "Python",
@@ -178,24 +286,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T08:38:20Z",
     "url": "https://github.com/EduardoMendes06285/CodeJury"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 840,
-    "updated_at": "2026-10-20T08:38:29Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-20T08:59:10Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "Open-source AI coding agent for your terminal that you can undo, even its shell commands. 250+ models, /taste for AI-slo",
@@ -221,7 +311,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-20T08:30:38Z",
+    "updated_at": "2026-10-20T09:04:36Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -279,15 +369,6 @@
     "url": "https://github.com/sindredg/ai-security-platform"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-20T08:04:51Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "AI code review with DeepSeek: headless PR review automation that verifies PR descriptions claim-by-claim against real co",
     "id": "nexpeakcore/deepseek-harness-pr-review",
     "language": "Python",
@@ -301,7 +382,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "TypeScript",
     "name": "strands-agents/harness-sdk",
-    "stars": 8872,
+    "stars": 8873,
     "updated_at": "2026-10-20T08:00:27Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-20T07:38:46Z",
     "url": "https://github.com/Alwayshere-su/pi-agent"
-  },
-  {
-    "description": "Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/",
-    "id": "ZekaiShi/evo-subagent",
-    "language": "JavaScript",
-    "name": "ZekaiShi/evo-subagent",
-    "stars": 7,
-    "updated_at": "2026-10-20T07:36:25Z",
-    "url": "https://github.com/ZekaiShi/evo-subagent"
-  },
-  {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "TypeScript",
-    "name": "dsswift/ion",
-    "stars": 4,
-    "updated_at": "2026-10-20T07:35:35Z",
-    "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "\u4efb\u52a1\u578b\u591a\u8f6e\u5ba2\u670d Agent\uff1aYAML \u6d41\u7a0b DSL + \u5bf9\u8bdd\u72b6\u6001\u673a\uff08\u4e2d\u65ad/\u6302\u8d77/\u6062\u590d/\u53d6\u6d88\uff09+ \u9632\u5e7b\u89c9\u6821\u9a8c + \u4e09\u8f68\u9053\u5206\u6d41\uff0c\u542b\u6a21\u62df\u7535\u5546\u4e2d\u53f0\u4e0e 30 \u6bb5\u4f1a\u8bdd\u7ea7\u8bc4\u6d4b",
-    "id": "winc-0/zhifu",
-    "language": "Python",
-    "name": "winc-0/zhifu",
-    "stars": 0,
-    "updated_at": "2026-10-20T07:28:41Z",
-    "url": "https://github.com/winc-0/zhifu"
-  },
-  {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 297,
-    "updated_at": "2026-10-20T07:22:09Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
-    "description": "Autonomous, zero-config portable HTML testing and Multi-LLM self-healing agent powered by Playwright",
-    "id": "Keithsys730/html-tester",
-    "language": "Python",
-    "name": "Keithsys730/html-tester",
-    "stars": 0,
-    "updated_at": "2026-10-20T07:16:02Z",
-    "url": "https://github.com/Keithsys730/html-tester"
-  },
-  {
-    "description": "\u6295\u8d44\u7814\u7a76\u7528\u7684\u672c\u5730 Agent CLI\uff1a\u8d44\u6599 \u2192 Wiki \u2192 \u62a5\u544a \u2192 Spec \u2192 \u79bb\u7ebf HTML \u6295\u8d44\u6c47\u62a5 Slides\uff0c\u6309\u5c0f\u7ae0\u8282\u5ba1\u6279\u4e0e\u589e\u91cf\u6784\u5efa",
-    "id": "JoeLiaoo/my-slides",
-    "language": "Python",
-    "name": "JoeLiaoo/my-slides",
-    "stars": 0,
-    "updated_at": "2026-10-20T07:17:29Z",
-    "url": "https://github.com/JoeLiaoo/my-slides"
-  },
-  {
-    "description": "\u98ce\u7535\u529f\u7387\u9884\u6d4b\u4e0e\u5b9e\u9a8c\u4ea4\u4ed8\u5e73\u53f0\uff1a\u53ef\u590d\u73b0\u5b9e\u9a8c\u3001\u53ef\u9760\u5f02\u6b65\u4efb\u52a1\u3001\u6a21\u578b\u56de\u653e\u4e0e LLM \u7ed3\u679c\u95ee\u7b54\uff08LoRA \u5fae\u8c03 Qwen3-8B\uff09",
-    "id": "PlainSightX/wind-workbench",
-    "language": "Python",
-    "name": "PlainSightX/wind-workbench",
-    "stars": 0,
-    "updated_at": "2026-10-20T07:13:50Z",
-    "url": "https://github.com/PlainSightX/wind-workbench"
-  },
-  {
-    "description": "\u57fa\u4e8eMCP\u7684Android\u8bbe\u5907\u64cd\u4f5cAgent: \u624b\u5199ReAct\u5faa\u73af+MCP\u5de5\u5177\u5c42+\u4e09\u8f6e\u8bc4\u6d4b\u8fed\u4ee3",
-    "id": "youlaiyouqv/Android_agent",
-    "language": "Python",
-    "name": "youlaiyouqv/Android_agent",
-    "stars": 0,
-    "updated_at": "2026-10-20T07:11:21Z",
-    "url": "https://github.com/youlaiyouqv/Android_agent"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 134,
-    "updated_at": "2026-10-20T07:10:20Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   }
 ]
