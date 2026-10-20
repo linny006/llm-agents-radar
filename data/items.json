@@ -1,12 +1,30 @@
 [
   {
+    "description": "DSH preset for contract-first ML planning, with 94 discipline rules and an evidence-led research workflow.",
+    "id": "Jxbbbbbyan/dsh-ml-planner",
+    "language": "JavaScript",
+    "name": "Jxbbbbbyan/dsh-ml-planner",
+    "stars": 0,
+    "updated_at": "2026-10-20T19:29:52Z",
+    "url": "https://github.com/Jxbbbbbyan/dsh-ml-planner"
+  },
+  {
     "description": "The Self-Improving Coding Agent",
     "id": "kanishka-namdeo/Unown",
     "language": "TypeScript",
     "name": "kanishka-namdeo/Unown",
     "stars": 0,
-    "updated_at": "2026-10-20T19:11:45Z",
+    "updated_at": "2026-10-20T19:27:05Z",
     "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
+    "id": "sindredg/ai-security-platform",
+    "language": "Python",
+    "name": "sindredg/ai-security-platform",
+    "stars": 0,
+    "updated_at": "2026-10-20T19:26:00Z",
+    "url": "https://github.com/sindredg/ai-security-platform"
   },
   {
     "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
@@ -14,8 +32,17 @@
     "language": "TypeScript",
     "name": "BlockRunAI/Franklin",
     "stars": 561,
-    "updated_at": "2026-10-20T19:08:45Z",
+    "updated_at": "2026-10-20T19:24:51Z",
     "url": "https://github.com/BlockRunAI/Franklin"
+  },
+  {
+    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
+    "id": "robolong/zhengming",
+    "language": "TypeScript",
+    "name": "robolong/zhengming",
+    "stars": 0,
+    "updated_at": "2026-10-20T19:23:53Z",
+    "url": "https://github.com/robolong/zhengming"
   },
   {
     "description": "The LLM Anti-Framework",
@@ -50,7 +77,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 15,
-    "updated_at": "2026-10-20T19:15:06Z",
+    "updated_at": "2026-10-20T19:29:21Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -68,7 +95,7 @@
     "language": "TypeScript",
     "name": "plurnk/plurnk-service",
     "stars": 1,
-    "updated_at": "2026-10-20T18:55:52Z",
+    "updated_at": "2026-10-20T19:30:15Z",
     "url": "https://github.com/plurnk/plurnk-service"
   },
   {
@@ -131,7 +158,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-20T18:55:55Z",
+    "updated_at": "2026-10-20T19:20:18Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -149,17 +176,8 @@
     "language": "Python",
     "name": "kudratsingh/incident-commander",
     "stars": 0,
-    "updated_at": "2026-10-20T18:29:37Z",
+    "updated_at": "2026-10-20T19:29:03Z",
     "url": "https://github.com/kudratsingh/incident-commander"
-  },
-  {
-    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
-    "id": "robolong/zhengming",
-    "language": "TypeScript",
-    "name": "robolong/zhengming",
-    "stars": 0,
-    "updated_at": "2026-10-20T19:06:46Z",
-    "url": "https://github.com/robolong/zhengming"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -430,23 +448,5 @@
     "stars": 9,
     "updated_at": "2026-10-20T16:43:17Z",
     "url": "https://github.com/honestDS/MonoLight"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 132,
-    "updated_at": "2026-10-20T16:42:32Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-10-20T16:41:14Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   }
 ]
