@@ -1,5 +1,32 @@
 [
   {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-19T23:56:41Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
+    "id": "bigfish1913/pi-rust",
+    "language": "Rust",
+    "name": "bigfish1913/pi-rust",
+    "stars": 119,
+    "updated_at": "2026-10-19T23:51:44Z",
+    "url": "https://github.com/bigfish1913/pi-rust"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 6,
+    "updated_at": "2026-10-19T23:47:03Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
     "id": "genaforvena/mishe-tauftauf",
     "language": "Python",
@@ -16,15 +43,6 @@
     "stars": 363,
     "updated_at": "2026-10-19T23:42:16Z",
     "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
-    "id": "bigfish1913/pi-rust",
-    "language": "Rust",
-    "name": "bigfish1913/pi-rust",
-    "stars": 119,
-    "updated_at": "2026-10-19T23:44:35Z",
-    "url": "https://github.com/bigfish1913/pi-rust"
   },
   {
     "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
@@ -68,7 +86,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4456,
-    "updated_at": "2026-10-19T23:36:56Z",
+    "updated_at": "2026-10-19T23:48:55Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -151,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T23:06:36Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-19T22:55:38Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -247,7 +256,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 819,
+    "stars": 821,
     "updated_at": "2026-10-19T21:45:57Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-19T20:38:06Z",
     "url": "https://github.com/uweg06576/PrivatePixelPrompt"
-  },
-  {
-    "description": "DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy.",
-    "id": "grace99919/taracode",
-    "language": "Go",
-    "name": "grace99919/taracode",
-    "stars": 0,
-    "updated_at": "2026-10-19T20:37:20Z",
-    "url": "https://github.com/grace99919/taracode"
   }
 ]

@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-19 23:45 UTC
+> ⏰ Last updated: 2026-10-20 00:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [genaforvena/mishe-tauftauf](https://github.com/genaforvena/mishe-tauftauf) | 3 | Python | 2026-10-19 | A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation. |
-| 2 | [yologdev/yoagent](https://github.com/yologdev/yoagent) | 363 | Rust | 2026-10-19 | The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker. |
-| 3 | [bigfish1913/pi-rust](https://github.com/bigfish1913/pi-rust) | 119 | Rust | 2026-10-19 | Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s |
-| 4 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 14 | Python | 2026-10-19 | Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT. |
-| 5 | [dragonked2/alphacode](https://github.com/dragonked2/alphacode) | 346 | Rust | 2026-10-19 | Free MIT AI coding agent — no API key needed. Built-in free model, or bring Claude, GPT, Gemini, DeepSeek, Ollama +50 mo |
-| 6 | [kangwoo/aimon-core](https://github.com/kangwoo/aimon-core) | 0 | Java | 2026-10-19 | A ReAct agent framework for Java — build autonomous LLM-powered agents, embeddable in any Java application |
-| 7 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 1 | TypeScript | 2026-10-19 | Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers. |
-| 8 | [gptme/gptme](https://github.com/gptme/gptme) | 4456 | Python | 2026-10-19 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
-| 9 | [kashyaprajharsh/medha-agent](https://github.com/kashyaprajharsh/medha-agent) | 0 | Rust | 2026-10-19 | A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident  |
-| 10 | [zhixuli0406/DuDuClaw](https://github.com/zhixuli0406/DuDuClaw) | 49 | Rust | 2026-10-19 | Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha |
-| 11 | [mcn92/pikelet](https://github.com/mcn92/pikelet) | 2 | JavaScript | 2026-10-19 | Vector search that ships as a file. Compile a corpus into one self-contained, hash-verified .pikelet — search it anywher |
-| 12 | [kanishka-namdeo/Unown](https://github.com/kanishka-namdeo/Unown) | 0 | TypeScript | 2026-10-19 | The Self-Improving Coding Agent |
-| 13 | [scrapfly/scrapfly-mcp](https://github.com/scrapfly/scrapfly-mcp) | 14 | Go | 2026-10-19 | Official Scrapfly MCP server for Cursor, Claude Desktop, and any MCP-compatible client. Enterprise-grade web scraping, A |
-| 14 | [scrapfly/scrapfly-cli](https://github.com/scrapfly/scrapfly-cli) | 5 | Go | 2026-10-19 | Agentic CLI for the Scrapfly platform: scrape, extract, crawl, and drive a cloud browser over CDP. Built-in LLM agent wi |
-| 15 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-10-19 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 16 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-10-19 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 17 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-10-19 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 18 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-19 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
-| 19 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 134 | HTML | 2026-10-19 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 20 | [andrewalhaj/custom-hermesagent](https://github.com/andrewalhaj/custom-hermesagent) | 0 | Python | 2026-10-19 |  |
-| 21 | [KaletoAI/anima-verse](https://github.com/KaletoAI/anima-verse) | 4 | Python | 2026-10-19 | Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system, |
-| 22 | [ArthurReboulSalze/Sherka-Compagnon](https://github.com/ArthurReboulSalze/Sherka-Compagnon) | 1 | Rust | 2026-10-19 | A voice AI companion for Windows and Linux. Personalities, voices, memories and ComfyUI scenes, with local models, cloud |
-| 23 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-10-19 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 24 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 81 | Python | 2026-10-19 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
-| 25 | [RalfHermsen/x4-agent](https://github.com/RalfHermsen/x4-agent) | 0 | Python | 2026-10-19 | A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com |
-| 26 | [michaelli28/accessibility-agent](https://github.com/michaelli28/accessibility-agent) | 0 | TypeScript | 2026-10-19 | CLI that checks web pages for accessibility issues with axe-core, DOM vs. accessibility-tree gap detection, a Tab-key wa |
-| 27 | [DominikSienkiewicz/StockAgent](https://github.com/DominikSienkiewicz/StockAgent) | 1 | Python | 2026-10-19 | Educational proof of concept, not investment advice: Python and LangGraph agent analysing a fixed watchlist of US stocks |
-| 28 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 819 | JavaScript | 2026-10-19 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
-| 29 | [ljedrz/nachalnik](https://github.com/ljedrz/nachalnik) | 5 | Rust | 2026-10-19 | A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and  |
-| 30 | [chenziliang1/311-analytics-agent](https://github.com/chenziliang1/311-analytics-agent) | 0 | Python | 2026-10-19 | A BI agent that answers questions about 311 service requests from a Snowflake warehouse. Strands Agents, MCP, AWS Bedroc |
-| 31 | [Nguyen82521/Upwork-AI-jobs-applier](https://github.com/Nguyen82521/Upwork-AI-jobs-applier) | 0 | Python | 2026-10-19 | AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter |
-| 32 | [Romequinco/10k-financial-agent](https://github.com/Romequinco/10k-financial-agent) | 0 | — | 2026-10-19 | LLM agent that answers questions on SEC 10-K filings, cites the exact source and checks every figure against XBRL. 8/10  |
-| 33 | [Chaudhry80/DM-Code-Agent](https://github.com/Chaudhry80/DM-Code-Agent) | 0 | Python | 2026-10-19 | Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by  |
-| 34 | [rnascimento72551/taracode](https://github.com/rnascimento72551/taracode) | 0 | Go | 2026-10-19 | DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy. |
-| 35 | [ljchang/mecha](https://github.com/ljchang/mecha) | 7 | Rust | 2026-10-19 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
-| 36 | [ldeluca372/Upwork-AI-jobs-applier](https://github.com/ldeluca372/Upwork-AI-jobs-applier) | 0 | Python | 2026-10-19 | AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter |
-| 37 | [frankg9557/LLM_book](https://github.com/frankg9557/LLM_book) | 0 | Python | 2026-10-19 | 非常详细的大模型LLM的学习教程与笔记 |
-| 38 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 132 | HTML | 2026-10-19 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 39 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-10-19 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 40 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 5 | TypeScript | 2026-10-19 | AI-powered image generation and chat studio |
-| 41 | [ClaraBozkurt53400/Upwork-AI-jobs-applier](https://github.com/ClaraBozkurt53400/Upwork-AI-jobs-applier) | 0 | Python | 2026-10-19 | AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter |
-| 42 | [AliMonti47/Upwork-AI-jobs-applier](https://github.com/AliMonti47/Upwork-AI-jobs-applier) | 0 | Python | 2026-10-19 | AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter |
-| 43 | [citizenhicks/mobius](https://github.com/citizenhicks/mobius) | 1 | Rust | 2026-10-19 | möbius is a small, frontend-neutral Rust framework for coding agents.  |
-| 44 | [GiovanniJimenez34810/Upwork-AI-jobs-applier](https://github.com/GiovanniJimenez34810/Upwork-AI-jobs-applier) | 0 | Python | 2026-10-19 | AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter |
-| 45 | [0xclaw-ai/0xClaw](https://github.com/0xclaw-ai/0xClaw) | 14 | Python | 2026-10-19 | [EMNLP 2026] 🦀 The first autonomous hackathon agent stop assisting and start competing (🏆 Hackathon Champion Project). |
-| 46 | [zeynep47502/PrivatePixelPrompt](https://github.com/zeynep47502/PrivatePixelPrompt) | 0 | JavaScript | 2026-10-19 | PortableLM — Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe |
-| 47 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 8868 | TypeScript | 2026-10-19 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
-| 48 | [410979729/scope-recall-hermes](https://github.com/410979729/scope-recall-hermes) | 416 | Python | 2026-10-19 | Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall, |
-| 49 | [uweg06576/PrivatePixelPrompt](https://github.com/uweg06576/PrivatePixelPrompt) | 0 | CSS | 2026-10-19 | PortableLM — Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe |
-| 50 | [grace99919/taracode](https://github.com/grace99919/taracode) | 0 | Go | 2026-10-19 | DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy. |
+| 1 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-19 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
+| 2 | [bigfish1913/pi-rust](https://github.com/bigfish1913/pi-rust) | 119 | Rust | 2026-10-19 | Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s |
+| 3 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 6 | Swift | 2026-10-19 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
+| 4 | [genaforvena/mishe-tauftauf](https://github.com/genaforvena/mishe-tauftauf) | 3 | Python | 2026-10-19 | A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation. |
+| 5 | [yologdev/yoagent](https://github.com/yologdev/yoagent) | 363 | Rust | 2026-10-19 | The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker. |
+| 6 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 14 | Python | 2026-10-19 | Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT. |
+| 7 | [dragonked2/alphacode](https://github.com/dragonked2/alphacode) | 346 | Rust | 2026-10-19 | Free MIT AI coding agent — no API key needed. Built-in free model, or bring Claude, GPT, Gemini, DeepSeek, Ollama +50 mo |
+| 8 | [kangwoo/aimon-core](https://github.com/kangwoo/aimon-core) | 0 | Java | 2026-10-19 | A ReAct agent framework for Java — build autonomous LLM-powered agents, embeddable in any Java application |
+| 9 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 1 | TypeScript | 2026-10-19 | Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers. |
+| 10 | [gptme/gptme](https://github.com/gptme/gptme) | 4456 | Python | 2026-10-19 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
+| 11 | [kashyaprajharsh/medha-agent](https://github.com/kashyaprajharsh/medha-agent) | 0 | Rust | 2026-10-19 | A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident  |
+| 12 | [zhixuli0406/DuDuClaw](https://github.com/zhixuli0406/DuDuClaw) | 49 | Rust | 2026-10-19 | Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha |
+| 13 | [mcn92/pikelet](https://github.com/mcn92/pikelet) | 2 | JavaScript | 2026-10-19 | Vector search that ships as a file. Compile a corpus into one self-contained, hash-verified .pikelet — search it anywher |
+| 14 | [kanishka-namdeo/Unown](https://github.com/kanishka-namdeo/Unown) | 0 | TypeScript | 2026-10-19 | The Self-Improving Coding Agent |
+| 15 | [scrapfly/scrapfly-mcp](https://github.com/scrapfly/scrapfly-mcp) | 14 | Go | 2026-10-19 | Official Scrapfly MCP server for Cursor, Claude Desktop, and any MCP-compatible client. Enterprise-grade web scraping, A |
+| 16 | [scrapfly/scrapfly-cli](https://github.com/scrapfly/scrapfly-cli) | 5 | Go | 2026-10-19 | Agentic CLI for the Scrapfly platform: scrape, extract, crawl, and drive a cloud browser over CDP. Built-in LLM agent wi |
+| 17 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-10-19 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
+| 18 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-10-19 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 19 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-10-19 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 20 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 134 | HTML | 2026-10-19 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 21 | [andrewalhaj/custom-hermesagent](https://github.com/andrewalhaj/custom-hermesagent) | 0 | Python | 2026-10-19 |  |
+| 22 | [KaletoAI/anima-verse](https://github.com/KaletoAI/anima-verse) | 4 | Python | 2026-10-19 | Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system, |
+| 23 | [ArthurReboulSalze/Sherka-Compagnon](https://github.com/ArthurReboulSalze/Sherka-Compagnon) | 1 | Rust | 2026-10-19 | A voice AI companion for Windows and Linux. Personalities, voices, memories and ComfyUI scenes, with local models, cloud |
+| 24 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-10-19 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 25 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 81 | Python | 2026-10-19 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
+| 26 | [RalfHermsen/x4-agent](https://github.com/RalfHermsen/x4-agent) | 0 | Python | 2026-10-19 | A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com |
+| 27 | [michaelli28/accessibility-agent](https://github.com/michaelli28/accessibility-agent) | 0 | TypeScript | 2026-10-19 | CLI that checks web pages for accessibility issues with axe-core, DOM vs. accessibility-tree gap detection, a Tab-key wa |
+| 28 | [DominikSienkiewicz/StockAgent](https://github.com/DominikSienkiewicz/StockAgent) | 1 | Python | 2026-10-19 | Educational proof of concept, not investment advice: Python and LangGraph agent analysing a fixed watchlist of US stocks |
+| 29 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 821 | JavaScript | 2026-10-19 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
+| 30 | [ljedrz/nachalnik](https://github.com/ljedrz/nachalnik) | 5 | Rust | 2026-10-19 | A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and  |
+| 31 | [chenziliang1/311-analytics-agent](https://github.com/chenziliang1/311-analytics-agent) | 0 | Python | 2026-10-19 | A BI agent that answers questions about 311 service requests from a Snowflake warehouse. Strands Agents, MCP, AWS Bedroc |
+| 32 | [Nguyen82521/Upwork-AI-jobs-applier](https://github.com/Nguyen82521/Upwork-AI-jobs-applier) | 0 | Python | 2026-10-19 | AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter |
+| 33 | [Romequinco/10k-financial-agent](https://github.com/Romequinco/10k-financial-agent) | 0 | — | 2026-10-19 | LLM agent that answers questions on SEC 10-K filings, cites the exact source and checks every figure against XBRL. 8/10  |
+| 34 | [Chaudhry80/DM-Code-Agent](https://github.com/Chaudhry80/DM-Code-Agent) | 0 | Python | 2026-10-19 | Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by  |
+| 35 | [rnascimento72551/taracode](https://github.com/rnascimento72551/taracode) | 0 | Go | 2026-10-19 | DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy. |
+| 36 | [ljchang/mecha](https://github.com/ljchang/mecha) | 7 | Rust | 2026-10-19 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
+| 37 | [ldeluca372/Upwork-AI-jobs-applier](https://github.com/ldeluca372/Upwork-AI-jobs-applier) | 0 | Python | 2026-10-19 | AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter |
+| 38 | [frankg9557/LLM_book](https://github.com/frankg9557/LLM_book) | 0 | Python | 2026-10-19 | 非常详细的大模型LLM的学习教程与笔记 |
+| 39 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 132 | HTML | 2026-10-19 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 40 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-10-19 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 41 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 5 | TypeScript | 2026-10-19 | AI-powered image generation and chat studio |
+| 42 | [ClaraBozkurt53400/Upwork-AI-jobs-applier](https://github.com/ClaraBozkurt53400/Upwork-AI-jobs-applier) | 0 | Python | 2026-10-19 | AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter |
+| 43 | [AliMonti47/Upwork-AI-jobs-applier](https://github.com/AliMonti47/Upwork-AI-jobs-applier) | 0 | Python | 2026-10-19 | AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter |
+| 44 | [citizenhicks/mobius](https://github.com/citizenhicks/mobius) | 1 | Rust | 2026-10-19 | möbius is a small, frontend-neutral Rust framework for coding agents.  |
+| 45 | [GiovanniJimenez34810/Upwork-AI-jobs-applier](https://github.com/GiovanniJimenez34810/Upwork-AI-jobs-applier) | 0 | Python | 2026-10-19 | AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter |
+| 46 | [0xclaw-ai/0xClaw](https://github.com/0xclaw-ai/0xClaw) | 14 | Python | 2026-10-19 | [EMNLP 2026] 🦀 The first autonomous hackathon agent stop assisting and start competing (🏆 Hackathon Champion Project). |
+| 47 | [zeynep47502/PrivatePixelPrompt](https://github.com/zeynep47502/PrivatePixelPrompt) | 0 | JavaScript | 2026-10-19 | PortableLM — Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe |
+| 48 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 8868 | TypeScript | 2026-10-19 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 49 | [410979729/scope-recall-hermes](https://github.com/410979729/scope-recall-hermes) | 416 | Python | 2026-10-19 | Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall, |
+| 50 | [uweg06576/PrivatePixelPrompt](https://github.com/uweg06576/PrivatePixelPrompt) | 0 | CSS | 2026-10-19 | PortableLM — Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe |
 <!-- TRACKER_TABLE_END -->
 
 ---
