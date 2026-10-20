@@ -1,5 +1,32 @@
 [
   {
+    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
+    "id": "xieguigang/sciBASIC",
+    "language": "Visual Basic .NET",
+    "name": "xieguigang/sciBASIC",
+    "stars": 79,
+    "updated_at": "2026-10-20T16:26:08Z",
+    "url": "https://github.com/xieguigang/sciBASIC"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-20T16:20:16Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
+    "id": "robolong/zhengming",
+    "language": "TypeScript",
+    "name": "robolong/zhengming",
+    "stars": 0,
+    "updated_at": "2026-10-20T16:30:06Z",
+    "url": "https://github.com/robolong/zhengming"
+  },
+  {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
     "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
@@ -23,7 +50,7 @@
     "language": "Rust",
     "name": "bigfish1913/pi-rust",
     "stars": 125,
-    "updated_at": "2026-10-20T16:11:16Z",
+    "updated_at": "2026-10-20T16:15:53Z",
     "url": "https://github.com/bigfish1913/pi-rust"
   },
   {
@@ -63,20 +90,11 @@
     "url": "https://github.com/duanjing082420-arch/ticket-agent"
   },
   {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-20T16:03:40Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
     "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
     "id": "Soodok/Deepseek-Harness-Local-Android",
     "language": "Kotlin",
     "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 301,
+    "stars": 302,
     "updated_at": "2026-10-20T16:00:32Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
@@ -126,15 +144,6 @@
     "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
-    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
-    "id": "robolong/zhengming",
-    "language": "TypeScript",
-    "name": "robolong/zhengming",
-    "stars": 0,
-    "updated_at": "2026-10-20T16:04:36Z",
-    "url": "https://github.com/robolong/zhengming"
-  },
-  {
     "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
     "id": "ximing/vital",
     "language": "TypeScript",
@@ -149,7 +158,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 822,
-    "updated_at": "2026-10-20T15:26:43Z",
+    "updated_at": "2026-10-20T16:17:07Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -355,7 +364,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 869,
+    "stars": 871,
     "updated_at": "2026-10-20T14:03:55Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -428,7 +437,7 @@
     "language": "Python",
     "name": "ariannamethod/SUBLITERATUS",
     "stars": 5,
-    "updated_at": "2026-10-20T16:15:07Z",
+    "updated_at": "2026-10-20T16:30:03Z",
     "url": "https://github.com/ariannamethod/SUBLITERATUS"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-20T13:20:34Z",
     "url": "https://github.com/PlainSightX/geo-agent"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 134,
-    "updated_at": "2026-10-20T13:20:23Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   }
 ]
