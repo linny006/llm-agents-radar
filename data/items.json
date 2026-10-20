@@ -5,8 +5,44 @@
     "language": "PowerShell",
     "name": "xiongweilin/agent-skills",
     "stars": 0,
-    "updated_at": "2026-10-20T03:59:58Z",
+    "updated_at": "2026-10-20T04:13:48Z",
     "url": "https://github.com/xiongweilin/agent-skills"
+  },
+  {
+    "description": "Grammarlix for Windows: on-demand local grammar checking. Downloads and signed updates only.",
+    "id": "FarzadAziziZade/Grammarlix",
+    "language": "\u2014",
+    "name": "FarzadAziziZade/Grammarlix",
+    "stars": 1,
+    "updated_at": "2026-10-20T04:11:11Z",
+    "url": "https://github.com/FarzadAziziZade/Grammarlix"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-20T04:03:25Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-10-20T04:01:31Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-20T04:00:53Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
@@ -117,15 +153,6 @@
     "url": "https://github.com/mmporong/rl-triage-agent"
   },
   {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-20T03:12:14Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
@@ -160,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T03:03:21Z",
     "url": "https://github.com/woojune511/patchloop-agent"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-20T02:59:46Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
@@ -293,7 +311,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-20T03:58:23Z",
+    "updated_at": "2026-10-20T04:01:32Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -387,15 +405,6 @@
     "url": "https://github.com/gptme/gptme"
   },
   {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-10-20T03:47:49Z",
-    "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
     "description": "Coding agent CLI for local and hosted models, designed around small local models first",
     "id": "alexwkleung/reika",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-20T00:33:09Z",
     "url": "https://github.com/xufenghe/aimo3-agentic-inference"
-  },
-  {
-    "description": "A coding agent with guardrails \u2014 an Ink TUI for your terminal and an Electron app for the desktop: streaming tools, appr",
-    "id": "binhdzs1tg/halis-code",
-    "language": "TypeScript",
-    "name": "binhdzs1tg/halis-code",
-    "stars": 0,
-    "updated_at": "2026-10-20T00:21:13Z",
-    "url": "https://github.com/binhdzs1tg/halis-code"
   }
 ]
