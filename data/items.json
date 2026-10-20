@@ -1,5 +1,32 @@
 [
   {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 301,
+    "updated_at": "2026-10-20T15:59:50Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "TypeScript",
+    "name": "dsswift/ion",
+    "stars": 4,
+    "updated_at": "2026-10-20T15:57:25Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "TypeScript",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8878,
+    "updated_at": "2026-10-20T15:49:04Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "The Self-Improving Coding Agent",
     "id": "kanishka-namdeo/Unown",
     "language": "TypeScript",
@@ -50,17 +77,8 @@
     "language": "TypeScript",
     "name": "robolong/zhengming",
     "stars": 0,
-    "updated_at": "2026-10-20T15:29:53Z",
+    "updated_at": "2026-10-20T16:00:00Z",
     "url": "https://github.com/robolong/zhengming"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "TypeScript",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8878,
-    "updated_at": "2026-10-20T15:44:06Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
@@ -88,15 +106,6 @@
     "stars": 1194,
     "updated_at": "2026-10-20T15:25:20Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "TypeScript",
-    "name": "dsswift/ion",
-    "stars": 4,
-    "updated_at": "2026-10-20T15:31:42Z",
-    "url": "https://github.com/dsswift/ion"
   },
   {
     "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
@@ -149,7 +158,7 @@
     "language": "Go",
     "name": "yurika0211/lucky-agent",
     "stars": 15,
-    "updated_at": "2026-10-20T15:06:12Z",
+    "updated_at": "2026-10-20T16:00:15Z",
     "url": "https://github.com/yurika0211/lucky-agent"
   },
   {
@@ -324,15 +333,6 @@
     "url": "https://github.com/altairos/fieldwork-agent"
   },
   {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 300,
-    "updated_at": "2026-10-20T15:34:37Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
     "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
     "id": "DylPorter/teledesk",
     "language": "Python",
@@ -383,7 +383,7 @@
     "language": "Python",
     "name": "ariannamethod/SUBLITERATUS",
     "stars": 5,
-    "updated_at": "2026-10-20T15:45:12Z",
+    "updated_at": "2026-10-20T16:00:08Z",
     "url": "https://github.com/ariannamethod/SUBLITERATUS"
   },
   {
