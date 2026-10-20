@@ -1,5 +1,23 @@
 [
   {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 134,
+    "updated_at": "2026-10-20T01:34:51Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 825,
+    "updated_at": "2026-10-20T01:33:56Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
     "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
     "id": "xiongweilin/agent-skills",
     "language": "PowerShell",
@@ -41,7 +59,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4457,
-    "updated_at": "2026-10-20T01:13:46Z",
+    "updated_at": "2026-10-20T01:31:17Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -50,7 +68,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 14,
-    "updated_at": "2026-10-20T01:10:16Z",
+    "updated_at": "2026-10-20T01:43:47Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -203,7 +221,7 @@
     "language": "Java",
     "name": "kangwoo/aimon-core",
     "stars": 0,
-    "updated_at": "2026-10-20T01:15:41Z",
+    "updated_at": "2026-10-20T01:38:00Z",
     "url": "https://github.com/kangwoo/aimon-core"
   },
   {
@@ -257,7 +275,7 @@
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 50,
-    "updated_at": "2026-10-19T23:24:38Z",
+    "updated_at": "2026-10-20T01:43:26Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
@@ -304,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T23:06:36Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 134,
-    "updated_at": "2026-10-19T22:52:34Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
@@ -367,15 +376,6 @@
     "stars": 1,
     "updated_at": "2026-10-19T22:08:18Z",
     "url": "https://github.com/DominikSienkiewicz/StockAgent"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 824,
-    "updated_at": "2026-10-19T21:45:57Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
@@ -437,7 +437,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-20T01:27:43Z",
+    "updated_at": "2026-10-20T01:43:26Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
