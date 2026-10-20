@@ -1,12 +1,84 @@
 [
   {
-    "description": "LLM \u6570\u636e\u5206\u6790\u5de5\u4f5c\u53f0\uff1a\u4e0a\u4f20\u6570\u636e\u96c6\u81ea\u52a8\u5b8c\u6210\u6e05\u6d17\u3001\u7edf\u8ba1\u5206\u6790\u3001\u53ef\u89c6\u5316\u4e0e\u62a5\u544a\uff1b\u53d7\u63a7\u5de5\u5177\u96c6 + \u53ea\u8bfb SQL\uff08SQLite / PostgreSQL\uff09\u00b7 MCP \u6570\u636e\u9762 \u00b7 Plotly + ECharts \u53cc\u5f15\u64ce \u00b7 FastAPI + Reac",
-    "id": "xiaomaozjj666/data-analysis-agent",
+    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
+    "id": "xieguigang/sciBASIC",
+    "language": "Visual Basic .NET",
+    "name": "xieguigang/sciBASIC",
+    "stars": 79,
+    "updated_at": "2026-10-20T16:59:49Z",
+    "url": "https://github.com/xieguigang/sciBASIC"
+  },
+  {
+    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+    "id": "BlockRunAI/Franklin",
+    "language": "TypeScript",
+    "name": "BlockRunAI/Franklin",
+    "stars": 561,
+    "updated_at": "2026-10-20T16:59:22Z",
+    "url": "https://github.com/BlockRunAI/Franklin"
+  },
+  {
+    "description": "Scrapling \u98ce\u683c\u9690\u8eab\u722c\u866b\u5e93\uff1a\u81ea\u9002\u5e94\u9009\u62e9\u5668 \u00b7 TLS \u6307\u7eb9 HTTP \u00b7 JS \u6e32\u67d3 \u00b7 \u56de\u8c03\u5f0f Spider \u6846\u67b6\uff08\u91cd\u8bd5/robots/\u53bb\u91cd/\u4e2d\u95f4\u4ef6\u7ba1\u9053\uff09\u00b7 JS \u9006\u5411 Agent \u00b7 \u9a8c\u8bc1\u7801\u8bc6\u522b \u00b7 MCP \u670d\u52a1 \u00b7 \u672c\u5730 We",
+    "id": "xiaomaozjj666/web-crawler",
     "language": "Python",
-    "name": "xiaomaozjj666/data-analysis-agent",
-    "stars": 1,
-    "updated_at": "2026-10-20T16:45:09Z",
-    "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
+    "name": "xiaomaozjj666/web-crawler",
+    "stars": 5,
+    "updated_at": "2026-10-20T16:58:29Z",
+    "url": "https://github.com/xiaomaozjj666/web-crawler"
+  },
+  {
+    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
+    "id": "robolong/zhengming",
+    "language": "TypeScript",
+    "name": "robolong/zhengming",
+    "stars": 0,
+    "updated_at": "2026-10-20T16:58:04Z",
+    "url": "https://github.com/robolong/zhengming"
+  },
+  {
+    "description": "Agent-friendly Slack CLI on browser tokens (xoxc/xoxd): URL-first, key=value/JSON output, Block Kit tables, mermaid\u2192PNG,",
+    "id": "AnatoliBu/slack-tools",
+    "language": "Python",
+    "name": "AnatoliBu/slack-tools",
+    "stars": 0,
+    "updated_at": "2026-10-20T16:57:27Z",
+    "url": "https://github.com/AnatoliBu/slack-tools"
+  },
+  {
+    "description": "\u7535\u5546\u552e\u540e\u5ba2\u670d Agent\u3002\u6709\u754c\u81ea\u4e3b\u5faa\u73af \u00b7 \u4eba\u5de5\u786e\u8ba4\u4e0e\u5e42\u7b49 \u00b7 trace \u5168\u94fe\u8def\u89c2\u6d4b \u00b7 24 \u6761\u786e\u5b9a\u6027\u8bc4\u6d4b\uff0870.83% \u2192 100%\uff09\u3002\u91cd\u70b9\u4e0d\u5728\u8c03 API\uff0c\u800c\u5728\u8ba9 Agent \u53ef\u63a7\u3001\u53ef\u89c2\u6d4b\u3001\u53ef\u9a8c\u8bc1\u3002",
+    "id": "duanjing082420-arch/ticket-agent",
+    "language": "Python",
+    "name": "duanjing082420-arch/ticket-agent",
+    "stars": 0,
+    "updated_at": "2026-10-20T16:52:08Z",
+    "url": "https://github.com/duanjing082420-arch/ticket-agent"
+  },
+  {
+    "description": "Open-source runtime for LLM agents with persistent memory, relationship history, modeled mood, and evolving identity. Ca",
+    "id": "balfiky/openrook",
+    "language": "Python",
+    "name": "balfiky/openrook",
+    "stars": 3,
+    "updated_at": "2026-10-20T16:51:17Z",
+    "url": "https://github.com/balfiky/openrook"
+  },
+  {
+    "description": "Open Source Desktop AI Agent Runtime - LLM, MCP, Voice Runtime, and local/cloud models wired into one PyQt6 desktop agen",
+    "id": "kwakminoo/Project-IRIS-Light",
+    "language": "Python",
+    "name": "kwakminoo/Project-IRIS-Light",
+    "stars": 3,
+    "updated_at": "2026-10-20T16:47:14Z",
+    "url": "https://github.com/kwakminoo/Project-IRIS-Light"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-20T16:47:04Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "GitHub Issue \u5206\u6790\u667a\u80fd\u4f53\uff1a\u6709\u754c\u5de5\u5177\u5faa\u73af\u63a2\u7d22\u4ed3\u5e93\u6e90\u7801\uff0c\u751f\u6210\u5e26\u884c\u7ea7\u8bc1\u636e\u7684\u6839\u56e0\u62a5\u544a\u4e0e\u4fee\u590d\u8865\u4e01\uff0c\u9ed8\u8ba4\u53ea\u8bfb\uff0c\u53ef\u663e\u5f0f\u5f00\u542f PR \u63d0\u6848",
@@ -14,8 +86,17 @@
     "language": "Python",
     "name": "xiaomaozjj666/issue-agent",
     "stars": 1,
-    "updated_at": "2026-10-20T16:43:24Z",
+    "updated_at": "2026-10-20T16:46:27Z",
     "url": "https://github.com/xiaomaozjj666/issue-agent"
+  },
+  {
+    "description": "LLM \u6570\u636e\u5206\u6790\u5de5\u4f5c\u53f0\uff1a\u4e0a\u4f20\u6570\u636e\u96c6\u81ea\u52a8\u5b8c\u6210\u6e05\u6d17\u3001\u7edf\u8ba1\u5206\u6790\u3001\u53ef\u89c6\u5316\u4e0e\u62a5\u544a\uff1b\u53d7\u63a7\u5de5\u5177\u96c6 + \u53ea\u8bfb SQL\uff08SQLite / PostgreSQL\uff09\u00b7 MCP \u6570\u636e\u9762 \u00b7 Plotly + ECharts \u53cc\u5f15\u64ce \u00b7 FastAPI + Reac",
+    "id": "xiaomaozjj666/data-analysis-agent",
+    "language": "Python",
+    "name": "xiaomaozjj666/data-analysis-agent",
+    "stars": 1,
+    "updated_at": "2026-10-20T16:46:21Z",
+    "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
   },
   {
     "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
@@ -63,15 +144,6 @@
     "url": "https://github.com/sindredg/ai-security-platform"
   },
   {
-    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
-    "id": "robolong/zhengming",
-    "language": "TypeScript",
-    "name": "robolong/zhengming",
-    "stars": 0,
-    "updated_at": "2026-10-20T16:38:46Z",
-    "url": "https://github.com/robolong/zhengming"
-  },
-  {
     "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
     "id": "zeng6125-rgb/suixing",
     "language": "Kotlin",
@@ -79,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T16:35:37Z",
     "url": "https://github.com/zeng6125-rgb/suixing"
-  },
-  {
-    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
-    "id": "xieguigang/sciBASIC",
-    "language": "Visual Basic .NET",
-    "name": "xieguigang/sciBASIC",
-    "stars": 79,
-    "updated_at": "2026-10-20T16:26:08Z",
-    "url": "https://github.com/xieguigang/sciBASIC"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -130,8 +193,8 @@
     "id": "strands-agents/harness-sdk",
     "language": "TypeScript",
     "name": "strands-agents/harness-sdk",
-    "stars": 8878,
-    "updated_at": "2026-10-20T16:08:36Z",
+    "stars": 8877,
+    "updated_at": "2026-10-20T16:53:12Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -142,15 +205,6 @@
     "stars": 14331,
     "updated_at": "2026-10-20T16:06:46Z",
     "url": "https://github.com/lsdefine/GenericAgent"
-  },
-  {
-    "description": "\u7535\u5546\u552e\u540e\u5ba2\u670d Agent\u3002\u6709\u754c\u81ea\u4e3b\u5faa\u73af \u00b7 \u4eba\u5de5\u786e\u8ba4\u4e0e\u5e42\u7b49 \u00b7 trace \u5168\u94fe\u8def\u89c2\u6d4b \u00b7 24 \u6761\u786e\u5b9a\u6027\u8bc4\u6d4b\uff0870.83% \u2192 100%\uff09\u3002\u91cd\u70b9\u4e0d\u5728\u8c03 API\uff0c\u800c\u5728\u8ba9 Agent \u53ef\u63a7\u3001\u53ef\u89c2\u6d4b\u3001\u53ef\u9a8c\u8bc1\u3002",
-    "id": "duanjing082420-arch/ticket-agent",
-    "language": "Python",
-    "name": "duanjing082420-arch/ticket-agent",
-    "stars": 0,
-    "updated_at": "2026-10-20T16:05:20Z",
-    "url": "https://github.com/duanjing082420-arch/ticket-agent"
   },
   {
     "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
@@ -315,15 +369,6 @@
     "url": "https://github.com/kifirkin/pi-braid"
   },
   {
-    "description": "Open-source runtime for LLM agents with persistent memory, relationship history, modeled mood, and evolving identity. Ca",
-    "id": "balfiky/openrook",
-    "language": "Python",
-    "name": "balfiky/openrook",
-    "stars": 3,
-    "updated_at": "2026-10-20T14:40:24Z",
-    "url": "https://github.com/balfiky/openrook"
-  },
-  {
     "description": "\u5e26\u7b56\u7565\u9a8c\u8bc1\u7684 A \u80a1 LLM \u5206\u6790\u7cfb\u7edf \u2014\u2014 \u591a\u6e90\u964d\u7ea7 + \u5b9a\u65f6\u4efb\u52a1 + \u591a\u901a\u9053\u63a8\u9001\uff1b\u6838\u5fc3\u589e\u91cf\u662f\u53ef\u8bc1\u4f2a\u7684\u56de\u6d4b\u4e0e\u9a8c\u8bc1\u5c42\uff08\u672a\u6765\u51fd\u6570\u63a2\u6d4b / \u6837\u672c\u5185\u5916\u5207\u5206 / t\u68c0\u9a8c / \u57fa\u51c6\u5bf9\u6bd4\uff09",
     "id": "AandBorC/dsa-lite",
     "language": "Python",
@@ -383,7 +428,7 @@
     "language": "Python",
     "name": "hellices/korvid",
     "stars": 3,
-    "updated_at": "2026-10-20T15:40:49Z",
+    "updated_at": "2026-10-20T16:58:16Z",
     "url": "https://github.com/hellices/korvid"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 872,
     "updated_at": "2026-10-20T14:03:55Z",
     "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "Run Hermes Agent and OpenClaw on the same WeChat account",
-    "id": "AaronWong1999/hermesclaw",
-    "language": "Python",
-    "name": "AaronWong1999/hermesclaw",
-    "stars": 750,
-    "updated_at": "2026-10-20T14:01:19Z",
-    "url": "https://github.com/AaronWong1999/hermesclaw"
-  },
-  {
-    "description": "AI fieldwork planning assistant for anthropologists & social scientists \u2014 guided interviews turn a research idea into a ",
-    "id": "altairos/fieldwork-agent",
-    "language": "Python",
-    "name": "altairos/fieldwork-agent",
-    "stars": 0,
-    "updated_at": "2026-10-20T13:59:32Z",
-    "url": "https://github.com/altairos/fieldwork-agent"
-  },
-  {
-    "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
-    "id": "DylPorter/teledesk",
-    "language": "Python",
-    "name": "DylPorter/teledesk",
-    "stars": 2,
-    "updated_at": "2026-10-20T13:53:34Z",
-    "url": "https://github.com/DylPorter/teledesk"
-  },
-  {
-    "description": "\u884c\u8bb0\uff1a\u53ef\u63d2\u62d4\u57ce\u5e02\u7684\u5927\u6a21\u578b\u65c5\u884c\u89c4\u5212 Agent\uff08Web \u7aef + MCP \u670d\u52a1\uff09\u3002\u4e00\u6761\u547d\u4ee4\u63a5\u5165\u65b0\u57ce\u5e02\uff0c\u5df2\u63a5\u676d\u5dde\u3001\u5357\u4eac\u3001\u82cf\u5dde\uff1bLangGraph + OR-Tools \u6392\u7a0b\u4e0e\u89c4\u5219\u6821\u9a8c\u3002",
-    "id": "lij768423-svg/pluggable-city-travel-agent",
-    "language": "Python",
-    "name": "lij768423-svg/pluggable-city-travel-agent",
-    "stars": 1,
-    "updated_at": "2026-10-20T13:35:07Z",
-    "url": "https://github.com/lij768423-svg/pluggable-city-travel-agent"
-  },
-  {
-    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
-    "id": "QQSHI13/fox-agent",
-    "language": "TypeScript",
-    "name": "QQSHI13/fox-agent",
-    "stars": 3,
-    "updated_at": "2026-10-20T13:34:24Z",
-    "url": "https://github.com/QQSHI13/fox-agent"
   }
 ]
