@@ -1,12 +1,39 @@
 [
   {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
     "language": "Python",
-    "name": "g761007/daily-dispatch",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-20T21:24:29Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
     "stars": 0,
-    "updated_at": "2026-10-20T21:10:04Z",
-    "url": "https://github.com/g761007/daily-dispatch"
+    "updated_at": "2026-10-20T21:23:55Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-20T21:18:19Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
+    "id": "xieguigang/sciBASIC",
+    "language": "Visual Basic .NET",
+    "name": "xieguigang/sciBASIC",
+    "stars": 79,
+    "updated_at": "2026-10-20T21:17:37Z",
+    "url": "https://github.com/xieguigang/sciBASIC"
   },
   {
     "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
@@ -14,8 +41,17 @@
     "language": "TypeScript",
     "name": "robolong/zhengming",
     "stars": 0,
-    "updated_at": "2026-10-20T21:08:41Z",
+    "updated_at": "2026-10-20T21:16:25Z",
     "url": "https://github.com/robolong/zhengming"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-10-20T21:10:04Z",
+    "url": "https://github.com/g761007/daily-dispatch"
   },
   {
     "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
@@ -43,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T21:05:10Z",
     "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-20T21:02:03Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker.",
@@ -88,15 +115,6 @@
     "stars": 822,
     "updated_at": "2026-10-20T20:49:24Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-20T20:46:06Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -160,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-10-20T20:18:45Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-20T20:17:12Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Cost-aware multi-agent orchestrator kit for OpenCode CLI \u2014 one routing agent, 14 specialized subagents, zero application",
@@ -243,15 +252,6 @@
     "url": "https://github.com/kudratsingh/incident-commander"
   },
   {
-    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
-    "id": "xieguigang/sciBASIC",
-    "language": "Visual Basic .NET",
-    "name": "xieguigang/sciBASIC",
-    "stars": 79,
-    "updated_at": "2026-10-20T19:40:58Z",
-    "url": "https://github.com/xieguigang/sciBASIC"
-  },
-  {
     "description": "Visual inspection with an LLM agent: YOLOv8 + Qwen-VL, RAG standards retrieval via tool calling with grounded citations,",
     "id": "mino19790622-dot/visual-inspection-report-generator",
     "language": "Python",
@@ -302,7 +302,7 @@
     "language": "Python",
     "name": "HaikeiLabs/agentware",
     "stars": 0,
-    "updated_at": "2026-10-20T20:13:58Z",
+    "updated_at": "2026-10-20T21:18:08Z",
     "url": "https://github.com/HaikeiLabs/agentware"
   },
   {
@@ -374,7 +374,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-20T19:20:18Z",
+    "updated_at": "2026-10-20T21:23:12Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {

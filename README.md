@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-20 21:15 UTC
+> ⏰ Last updated: 2026-10-20 21:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,34 +42,34 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-10-20 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 2 | [robolong/zhengming](https://github.com/robolong/zhengming) | 0 | TypeScript | 2026-10-20 | 正名：本地运行的中文取名桌面应用，规则检查 + 典籍出处 + DeepSeek agent · Zhengming, a local-first Chinese baby-naming desktop app |
-| 3 | [gabrielmaialva33/winx-code-agent](https://github.com/gabrielmaialva33/winx-code-agent) | 37 | Rust | 2026-10-20 | 🦀 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic |
-| 4 | [Lawhy/tokin](https://github.com/Lawhy/tokin) | 5 | Python | 2026-10-20 | Make any agent harness token-native. |
-| 5 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 1 | TypeScript | 2026-10-20 | Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers. |
-| 6 | [kanishka-namdeo/Unown](https://github.com/kanishka-namdeo/Unown) | 0 | TypeScript | 2026-10-20 | The Self-Improving Coding Agent |
-| 7 | [yologdev/yoagent](https://github.com/yologdev/yoagent) | 364 | Rust | 2026-10-20 | The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker. |
-| 8 | [glayph/Agent](https://github.com/glayph/Agent) | 0 | TypeScript | 2026-10-20 | Miki: a local-first autonomous AI agent that plans, uses tools, browses the web and edits files, with one global memory  |
-| 9 | [KaletoAI/anima-verse](https://github.com/KaletoAI/anima-verse) | 4 | Python | 2026-10-20 | Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system, |
-| 10 | [helixml/helix](https://github.com/helixml/helix) | 822 | Go | 2026-10-20 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
-| 11 | [genaforvena/mishe-tauftauf](https://github.com/genaforvena/mishe-tauftauf) | 3 | Python | 2026-10-20 | A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation. |
-| 12 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-10-20 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 13 | [pronzzz/sudoai](https://github.com/pronzzz/sudoai) | 0 | Python | 2026-10-20 | SudoAI is a local, intelligent system management agent that functions as a "Chat with your OS." It combines real-time mo |
-| 14 | [xhqing/DayTradingAgent](https://github.com/xhqing/DayTradingAgent) | 3 | Python | 2026-10-20 | AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s |
-| 15 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-10-20 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 16 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 132 | HTML | 2026-10-20 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 17 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-10-20 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 18 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 2 | C++ | 2026-10-20 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
-| 19 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-20 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
-| 20 | [NicoGenti/opencode-orchestrator-kit](https://github.com/NicoGenti/opencode-orchestrator-kit) | 7 | TypeScript | 2026-10-20 | Cost-aware multi-agent orchestrator kit for OpenCode CLI — one routing agent, 14 specialized subagents, zero application |
-| 21 | [sindredg/ai-security-platform](https://github.com/sindredg/ai-security-platform) | 0 | Python | 2026-10-20 | Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo |
-| 22 | [zurdonman/dsh-termux-native-o-android-ai-agent-setup](https://github.com/zurdonman/dsh-termux-native-o-android-ai-agent-setup) | 0 | Shell | 2026-10-20 | Instalar DeepSeek Harness (DSH) en Android con Termux, sin PC ni proot: instalador de un comando, arreglos para Android, |
-| 23 | [giridhar1103/NYCynapse.Ai](https://github.com/giridhar1103/NYCynapse.Ai) | 0 | Python | 2026-10-20 | A guide to New York City you can ask anything: an agent that answers from a live NYC lakehouse first, then city feeds an |
-| 24 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 8880 | TypeScript | 2026-10-20 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
-| 25 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 6337 | Python | 2026-10-20 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
-| 26 | [DominikSienkiewicz/StockAgent](https://github.com/DominikSienkiewicz/StockAgent) | 1 | Python | 2026-10-20 | Educational proof of concept, not investment advice: Python and LangGraph agent analysing a fixed watchlist of US stocks |
-| 27 | [kudratsingh/incident-commander](https://github.com/kudratsingh/incident-commander) | 0 | Python | 2026-10-20 | An autonomous on-call agent that investigates and remediates incidents on the Incident Platform through its MCP tool sur |
-| 28 | [xieguigang/sciBASIC](https://github.com/xieguigang/sciBASIC) | 79 | Visual Basic .NET | 2026-10-20 | A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler |
+| 1 | [genaforvena/mishe-tauftauf](https://github.com/genaforvena/mishe-tauftauf) | 3 | Python | 2026-10-20 | A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation. |
+| 2 | [kanishka-namdeo/Unown](https://github.com/kanishka-namdeo/Unown) | 0 | TypeScript | 2026-10-20 | The Self-Improving Coding Agent |
+| 3 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-20 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
+| 4 | [xieguigang/sciBASIC](https://github.com/xieguigang/sciBASIC) | 79 | Visual Basic .NET | 2026-10-20 | A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler |
+| 5 | [robolong/zhengming](https://github.com/robolong/zhengming) | 0 | TypeScript | 2026-10-20 | 正名：本地运行的中文取名桌面应用，规则检查 + 典籍出处 + DeepSeek agent · Zhengming, a local-first Chinese baby-naming desktop app |
+| 6 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-10-20 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
+| 7 | [gabrielmaialva33/winx-code-agent](https://github.com/gabrielmaialva33/winx-code-agent) | 37 | Rust | 2026-10-20 | 🦀 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic |
+| 8 | [Lawhy/tokin](https://github.com/Lawhy/tokin) | 5 | Python | 2026-10-20 | Make any agent harness token-native. |
+| 9 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 1 | TypeScript | 2026-10-20 | Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers. |
+| 10 | [yologdev/yoagent](https://github.com/yologdev/yoagent) | 364 | Rust | 2026-10-20 | The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker. |
+| 11 | [glayph/Agent](https://github.com/glayph/Agent) | 0 | TypeScript | 2026-10-20 | Miki: a local-first autonomous AI agent that plans, uses tools, browses the web and edits files, with one global memory  |
+| 12 | [KaletoAI/anima-verse](https://github.com/KaletoAI/anima-verse) | 4 | Python | 2026-10-20 | Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system, |
+| 13 | [helixml/helix](https://github.com/helixml/helix) | 822 | Go | 2026-10-20 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
+| 14 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-10-20 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 15 | [pronzzz/sudoai](https://github.com/pronzzz/sudoai) | 0 | Python | 2026-10-20 | SudoAI is a local, intelligent system management agent that functions as a "Chat with your OS." It combines real-time mo |
+| 16 | [xhqing/DayTradingAgent](https://github.com/xhqing/DayTradingAgent) | 3 | Python | 2026-10-20 | AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s |
+| 17 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-10-20 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 18 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 132 | HTML | 2026-10-20 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 19 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-10-20 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 20 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 2 | C++ | 2026-10-20 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
+| 21 | [NicoGenti/opencode-orchestrator-kit](https://github.com/NicoGenti/opencode-orchestrator-kit) | 7 | TypeScript | 2026-10-20 | Cost-aware multi-agent orchestrator kit for OpenCode CLI — one routing agent, 14 specialized subagents, zero application |
+| 22 | [sindredg/ai-security-platform](https://github.com/sindredg/ai-security-platform) | 0 | Python | 2026-10-20 | Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo |
+| 23 | [zurdonman/dsh-termux-native-o-android-ai-agent-setup](https://github.com/zurdonman/dsh-termux-native-o-android-ai-agent-setup) | 0 | Shell | 2026-10-20 | Instalar DeepSeek Harness (DSH) en Android con Termux, sin PC ni proot: instalador de un comando, arreglos para Android, |
+| 24 | [giridhar1103/NYCynapse.Ai](https://github.com/giridhar1103/NYCynapse.Ai) | 0 | Python | 2026-10-20 | A guide to New York City you can ask anything: an agent that answers from a live NYC lakehouse first, then city feeds an |
+| 25 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 8880 | TypeScript | 2026-10-20 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 26 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 6337 | Python | 2026-10-20 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
+| 27 | [DominikSienkiewicz/StockAgent](https://github.com/DominikSienkiewicz/StockAgent) | 1 | Python | 2026-10-20 | Educational proof of concept, not investment advice: Python and LangGraph agent analysing a fixed watchlist of US stocks |
+| 28 | [kudratsingh/incident-commander](https://github.com/kudratsingh/incident-commander) | 0 | Python | 2026-10-20 | An autonomous on-call agent that investigates and remediates incidents on the Incident Platform through its MCP tool sur |
 | 29 | [mino19790622-dot/visual-inspection-report-generator](https://github.com/mino19790622-dot/visual-inspection-report-generator) | 0 | Python | 2026-10-20 | Visual inspection with an LLM agent: YOLOv8 + Qwen-VL, RAG standards retrieval via tool calling with grounded citations, |
 | 30 | [Jxbbbbbyan/dsh-ml-planner](https://github.com/Jxbbbbbyan/dsh-ml-planner) | 0 | JavaScript | 2026-10-20 | DSH preset for contract-first ML planning, with 94 discipline rules and an evidence-led research workflow. |
 | 31 | [richochetclementine1315/Pisces](https://github.com/richochetclementine1315/Pisces) | 1 | Python | 2026-10-20 | Pisces is an AI assisted, self-healing security patcher, A CLI tool for Python codebases. It supports HITL. It doesn't j |
