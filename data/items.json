@@ -1,12 +1,93 @@
 [
   {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-10-20T06:43:47Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 219,
+    "updated_at": "2026-10-20T06:44:21Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-10-20T06:40:44Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
+    "id": "QQSHI13/fox-agent",
+    "language": "TypeScript",
+    "name": "QQSHI13/fox-agent",
+    "stars": 3,
+    "updated_at": "2026-10-20T06:37:18Z",
+    "url": "https://github.com/QQSHI13/fox-agent"
+  },
+  {
+    "description": "Give AI a design sense. 28 open-source Agent Skills for interface art direction: 1 master skill that picks the right vis",
+    "id": "izynu/ochrelle",
+    "language": "TypeScript",
+    "name": "izynu/ochrelle",
+    "stars": 3,
+    "updated_at": "2026-10-20T06:37:00Z",
+    "url": "https://github.com/izynu/ochrelle"
+  },
+  {
+    "description": "Single-user Hebrew/English personal assistant: Cloudflare Workers + SQLite Durable Object, Groq tool-calling agent where",
+    "id": "tzur669-lab/whatsapp-assistant",
+    "language": "TypeScript",
+    "name": "tzur669-lab/whatsapp-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-20T06:36:18Z",
+    "url": "https://github.com/tzur669-lab/whatsapp-assistant"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-20T06:35:11Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-10-20T06:34:41Z",
+    "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
     "description": "A cognitive runtime that gives LLM agents persistent state, identity, and learning across turns. Memory, beliefs, drives",
     "id": "balfiky/nur",
     "language": "Python",
     "name": "balfiky/nur",
     "stars": 3,
-    "updated_at": "2026-10-20T06:28:06Z",
+    "updated_at": "2026-10-20T06:34:30Z",
     "url": "https://github.com/balfiky/nur"
+  },
+  {
+    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
+    "id": "wuyhong715/rikkahub-agent-pure",
+    "language": "Kotlin",
+    "name": "wuyhong715/rikkahub-agent-pure",
+    "stars": 53,
+    "updated_at": "2026-10-20T06:31:51Z",
+    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
     "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
@@ -23,17 +104,8 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 15,
-    "updated_at": "2026-10-20T06:26:49Z",
+    "updated_at": "2026-10-20T06:41:38Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
-    "id": "QQSHI13/fox-agent",
-    "language": "TypeScript",
-    "name": "QQSHI13/fox-agent",
-    "stars": 3,
-    "updated_at": "2026-10-20T06:26:42Z",
-    "url": "https://github.com/QQSHI13/fox-agent"
   },
   {
     "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
@@ -103,27 +175,9 @@
     "id": "areal-project/AReaL",
     "language": "Python",
     "name": "areal-project/AReaL",
-    "stars": 5845,
+    "stars": 5846,
     "updated_at": "2026-10-20T05:58:30Z",
     "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "Single-user Hebrew/English personal assistant: Cloudflare Workers + SQLite Durable Object, Groq tool-calling agent where",
-    "id": "tzur669-lab/whatsapp-assistant",
-    "language": "TypeScript",
-    "name": "tzur669-lab/whatsapp-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:57:09Z",
-    "url": "https://github.com/tzur669-lab/whatsapp-assistant"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:56:33Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by ",
@@ -225,15 +279,6 @@
     "url": "https://github.com/rtruong6182/taracode"
   },
   {
-    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
-    "id": "wuyhong715/rikkahub-agent-pure",
-    "language": "Kotlin",
-    "name": "wuyhong715/rikkahub-agent-pure",
-    "stars": 53,
-    "updated_at": "2026-10-20T06:16:21Z",
-    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
-  },
-  {
     "description": "DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy.",
     "id": "hward817/taracode",
     "language": "Go",
@@ -275,7 +320,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-20T05:35:52Z",
+    "updated_at": "2026-10-20T06:35:12Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-20T05:02:46Z",
     "url": "https://github.com/Vandenberg623/CodeJury"
-  },
-  {
-    "description": "Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by ",
-    "id": "NayeonJones/DM-Code-Agent",
-    "language": "Python",
-    "name": "NayeonJones/DM-Code-Agent",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:02:28Z",
-    "url": "https://github.com/NayeonJones/DM-Code-Agent"
-  },
-  {
-    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-20T05:01:56Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "A curated list of training & evaluation environments for LLM/VLM agents (SWE-Gym, GEM, RAGEN, AgentGym, WebArena, OSWorl",
-    "id": "V01dMur10c/awesome-agent-rl-environments",
-    "language": "\u2014",
-    "name": "V01dMur10c/awesome-agent-rl-environments",
-    "stars": 10,
-    "updated_at": "2026-10-20T05:03:39Z",
-    "url": "https://github.com/V01dMur10c/awesome-agent-rl-environments"
-  },
-  {
-    "description": "DeepSeek Harness na Androidzie w jednym APK, bez Termuxa i roota, z polskim interfejsem i kompletem narz\u0119dzi programisty",
-    "id": "gangg111/DeepSeek-Harness-Mobile",
-    "language": "JavaScript",
-    "name": "gangg111/DeepSeek-Harness-Mobile",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:00:46Z",
-    "url": "https://github.com/gangg111/DeepSeek-Harness-Mobile"
-  },
-  {
-    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
-    "id": "oldfunk/paper-trading",
-    "language": "Python",
-    "name": "oldfunk/paper-trading",
-    "stars": 1,
-    "updated_at": "2026-10-20T04:58:43Z",
-    "url": "https://github.com/oldfunk/paper-trading"
   }
 ]
