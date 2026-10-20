@@ -1,5 +1,23 @@
 [
   {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-20T04:25:27Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 5,
+    "updated_at": "2026-10-20T04:16:04Z",
+    "url": "https://github.com/plurnk/plurnk"
+  },
+  {
     "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
     "id": "xiongweilin/agent-skills",
     "language": "PowerShell",
@@ -16,15 +34,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T04:11:11Z",
     "url": "https://github.com/FarzadAziziZade/Grammarlix"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-20T04:03:25Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
@@ -52,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T03:54:03Z",
     "url": "https://github.com/haibingzhao/easyai"
-  },
-  {
-    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
-    "id": "plurnk/plurnk",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk",
-    "stars": 5,
-    "updated_at": "2026-10-20T03:52:24Z",
-    "url": "https://github.com/plurnk/plurnk"
   },
   {
     "description": "\u591a\u667a\u80fd\u4f53\u957f\u671f\u8bb0\u5fc6\u57fa\u7840\u8bbe\u65bd \u00b7 18 \u4e2a MCP \u5de5\u5177 \u00b7 OAuth 2.1 \u8d26\u6237\u6c99\u7bb1 \u00b7 Chat/Working/Coding \u4e09\u5c42\u8ba4\u77e5\u8bb0\u5fc6\uff08Rust + PostgreSQL/pgvector\uff09",
@@ -157,7 +157,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 33518,
+    "stars": 33519,
     "updated_at": "2026-10-20T03:06:39Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -167,7 +167,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 53,
-    "updated_at": "2026-10-20T03:04:46Z",
+    "updated_at": "2026-10-20T04:27:27Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -311,7 +311,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-20T04:01:32Z",
+    "updated_at": "2026-10-20T04:17:26Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -401,7 +401,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4457,
-    "updated_at": "2026-10-20T01:31:17Z",
+    "updated_at": "2026-10-20T04:17:18Z",
     "url": "https://github.com/gptme/gptme"
   },
   {

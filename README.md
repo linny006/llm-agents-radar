@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-20 04:15 UTC
+> ⏰ Last updated: 2026-10-20 04:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [xiongweilin/agent-skills](https://github.com/xiongweilin/agent-skills) | 0 | PowerShell | 2026-10-20 | Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent |
-| 2 | [FarzadAziziZade/Grammarlix](https://github.com/FarzadAziziZade/Grammarlix) | 1 | — | 2026-10-20 | Grammarlix for Windows: on-demand local grammar checking. Downloads and signed updates only. |
-| 3 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 1 | TypeScript | 2026-10-20 | Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers. |
-| 4 | [JSL107/personal_agents](https://github.com/JSL107/personal_agents) | 0 | TypeScript | 2026-10-20 | Slack 에서 PM · 백엔드 · 코드리뷰어 · CTO 역할을 나눠 맡는 멀티 에이전트 업무 자동화 봇 |
-| 5 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-20 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
-| 6 | [haibingzhao/easyai](https://github.com/haibingzhao/easyai) | 1 | Kotlin | 2026-10-20 | Use AI to Create AI — Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie |
-| 7 | [plurnk/plurnk](https://github.com/plurnk/plurnk) | 5 | TypeScript | 2026-10-20 | Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models. |
+| 1 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 1 | TypeScript | 2026-10-20 | Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers. |
+| 2 | [plurnk/plurnk](https://github.com/plurnk/plurnk) | 5 | TypeScript | 2026-10-20 | Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models. |
+| 3 | [xiongweilin/agent-skills](https://github.com/xiongweilin/agent-skills) | 0 | PowerShell | 2026-10-20 | Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent |
+| 4 | [FarzadAziziZade/Grammarlix](https://github.com/FarzadAziziZade/Grammarlix) | 1 | — | 2026-10-20 | Grammarlix for Windows: on-demand local grammar checking. Downloads and signed updates only. |
+| 5 | [JSL107/personal_agents](https://github.com/JSL107/personal_agents) | 0 | TypeScript | 2026-10-20 | Slack 에서 PM · 백엔드 · 코드리뷰어 · CTO 역할을 나눠 맡는 멀티 에이전트 업무 자동화 봇 |
+| 6 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-20 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
+| 7 | [haibingzhao/easyai](https://github.com/haibingzhao/easyai) | 1 | Kotlin | 2026-10-20 | Use AI to Create AI — Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie |
 | 8 | [orderye/memory-hub](https://github.com/orderye/memory-hub) | 0 | Rust | 2026-10-20 | 多智能体长期记忆基础设施 · 18 个 MCP 工具 · OAuth 2.1 账户沙箱 · Chat/Working/Coding 三层认知记忆（Rust + PostgreSQL/pgvector） |
 | 9 | [wdfwdf666/jobpilot-agent](https://github.com/wdfwdf666/jobpilot-agent) | 0 | Python | 2026-10-20 | 智能求职助手 Agent：LangGraph 多 Agent 编排 + RAG（Qwen + ChromaDB）+ FastAPI SSE 真流式 + Vue 3 前端 |
 | 10 | [CIRISAI/CIRISAgent](https://github.com/CIRISAI/CIRISAgent) | 57 | Python | 2026-10-20 | CIRIS: an open-source AI assistant with a conscience you can check. Signed, auditable reasoning on every decision, a hum |
@@ -59,7 +59,7 @@ expired items removed — so you can rely on what you see being current.
 | 15 | [Wolido/async-subagent-isolation](https://github.com/Wolido/async-subagent-isolation) | 5 | TypeScript | 2026-10-20 | Fix context rot & pollution in long AI agent sessions. Subagents run in isolated processes — main agent stays read-only. |
 | 16 | [sultanfariz/gonostic](https://github.com/sultanfariz/gonostic) | 0 | Go | 2026-10-20 | A lightweight LLM agents framework built with Go. Bring Your Own (BYO) LLM providers.  |
 | 17 | [mmporong/rl-triage-agent](https://github.com/mmporong/rl-triage-agent) | 1 | Python | 2026-10-20 | Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe |
-| 18 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 33518 | Python | 2026-10-20 | Build and run agents you can see, understand and trust. |
+| 18 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 33519 | Python | 2026-10-20 | Build and run agents you can see, understand and trust. |
 | 19 | [wuyhong715/rikkahub-agent-pure](https://github.com/wuyhong715/rikkahub-agent-pure) | 53 | Kotlin | 2026-10-20 | RikkaHub Agent · Pure — an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic |
 | 20 | [Soodok/Deepseek-Harness-Local-Android](https://github.com/Soodok/Deepseek-Harness-Local-Android) | 297 | Kotlin | 2026-10-20 | Run the DeepSeek Harness AI agent natively on Android — no root, no Termux, extension center included \| 手机本地运行 DeepSeek  |
 | 21 | [woojune511/patchloop-agent](https://github.com/woojune511/patchloop-agent) | 0 | Python | 2026-10-20 | Recoverable single coding agent for bounded repository repair |
