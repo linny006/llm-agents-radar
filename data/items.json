@@ -5,8 +5,71 @@
     "language": "TypeScript",
     "name": "tzur669-lab/whatsapp-assistant",
     "stars": 0,
-    "updated_at": "2026-10-20T09:25:46Z",
+    "updated_at": "2026-10-20T09:43:36Z",
     "url": "https://github.com/tzur669-lab/whatsapp-assistant"
+  },
+  {
+    "description": "Natural-language e-commerce data querying agent with metadata retrieval, safe SQL generation, MySQL warehouse queries, a",
+    "id": "qiqiqi-max/smart-data-querying-agent",
+    "language": "Python",
+    "name": "qiqiqi-max/smart-data-querying-agent",
+    "stars": 0,
+    "updated_at": "2026-10-20T09:43:09Z",
+    "url": "https://github.com/qiqiqi-max/smart-data-querying-agent"
+  },
+  {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 1,
+    "updated_at": "2026-10-20T09:42:04Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 29,
+    "updated_at": "2026-10-20T09:41:07Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-20T09:40:16Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "AI coding agent for terminal, desktop and browser. Visible execution records, LAN mesh collaboration across machines, ph",
+    "id": "holylong/luban",
+    "language": "Python",
+    "name": "holylong/luban",
+    "stars": 0,
+    "updated_at": "2026-10-20T09:34:33Z",
+    "url": "https://github.com/holylong/luban"
+  },
+  {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-10-20T09:34:32Z",
+    "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
+    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
+    "id": "robolong/zhengming",
+    "language": "TypeScript",
+    "name": "robolong/zhengming",
+    "stars": 0,
+    "updated_at": "2026-10-20T09:34:18Z",
+    "url": "https://github.com/robolong/zhengming"
   },
   {
     "description": "DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy.",
@@ -61,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T09:22:15Z",
     "url": "https://github.com/haechan3259/RedteamAgent"
-  },
-  {
-    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
-    "id": "robolong/zhengming",
-    "language": "TypeScript",
-    "name": "robolong/zhengming",
-    "stars": 0,
-    "updated_at": "2026-10-20T09:28:25Z",
-    "url": "https://github.com/robolong/zhengming"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-20T09:21:08Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "Open-source runtime for LLM agents with persistent memory, relationship history, modeled mood, and evolving identity. Ca",
@@ -157,7 +202,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 33529,
+    "stars": 33533,
     "updated_at": "2026-10-20T09:07:31Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -247,18 +292,9 @@
     "id": "yuxinlaile/McD-saver",
     "language": "Python",
     "name": "yuxinlaile/McD-saver",
-    "stars": 20,
+    "stars": 23,
     "updated_at": "2026-10-20T08:57:35Z",
     "url": "https://github.com/yuxinlaile/McD-saver"
-  },
-  {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 1,
-    "updated_at": "2026-10-20T08:57:31Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
   },
   {
     "description": "Make any agent harness token-native.",
@@ -295,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T08:51:18Z",
     "url": "https://github.com/duongsasaki36152/DM-Code-Agent"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 29,
-    "updated_at": "2026-10-20T08:50:51Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
@@ -374,7 +401,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3644,
-    "updated_at": "2026-10-20T09:30:04Z",
+    "updated_at": "2026-10-20T09:39:26Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-20T08:05:26Z",
     "url": "https://github.com/sindredg/ai-security-platform"
-  },
-  {
-    "description": "AI code review with DeepSeek: headless PR review automation that verifies PR descriptions claim-by-claim against real co",
-    "id": "nexpeakcore/deepseek-harness-pr-review",
-    "language": "Python",
-    "name": "nexpeakcore/deepseek-harness-pr-review",
-    "stars": 41,
-    "updated_at": "2026-10-20T08:00:41Z",
-    "url": "https://github.com/nexpeakcore/deepseek-harness-pr-review"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "TypeScript",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8873,
-    "updated_at": "2026-10-20T08:00:27Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5853,
-    "updated_at": "2026-10-20T09:29:47Z",
-    "url": "https://github.com/areal-project/AReaL"
   }
 ]
