@@ -1,12 +1,57 @@
 [
   {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-20T19:11:45Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+    "id": "BlockRunAI/Franklin",
+    "language": "TypeScript",
+    "name": "BlockRunAI/Franklin",
+    "stars": 561,
+    "updated_at": "2026-10-20T19:08:45Z",
+    "url": "https://github.com/BlockRunAI/Franklin"
+  },
+  {
     "description": "The LLM Anti-Framework",
     "id": "Mirascope/mirascope",
     "language": "Python",
     "name": "Mirascope/mirascope",
     "stars": 1533,
-    "updated_at": "2026-10-20T18:59:34Z",
+    "updated_at": "2026-10-20T19:06:02Z",
     "url": "https://github.com/Mirascope/mirascope"
+  },
+  {
+    "description": "tools for building better agents. From tool calls to Governance and anything in between get your custom agents to work r",
+    "id": "HaikeiLabs/agentware",
+    "language": "Python",
+    "name": "HaikeiLabs/agentware",
+    "stars": 0,
+    "updated_at": "2026-10-20T19:09:52Z",
+    "url": "https://github.com/HaikeiLabs/agentware"
+  },
+  {
+    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
+    "id": "wuyhong715/rikkahub-agent-pure",
+    "language": "Kotlin",
+    "name": "wuyhong715/rikkahub-agent-pure",
+    "stars": 54,
+    "updated_at": "2026-10-20T19:02:02Z",
+    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 15,
+    "updated_at": "2026-10-20T19:15:06Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Turn a repository URL into a fact-verified GitHub Wiki: clone, inventory, run and probe the subject, scaffold QA-clean p",
@@ -16,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T18:58:35Z",
     "url": "https://github.com/paulmann/github-wiki-llm-writer"
-  },
-  {
-    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-    "id": "BlockRunAI/Franklin",
-    "language": "TypeScript",
-    "name": "BlockRunAI/Franklin",
-    "stars": 561,
-    "updated_at": "2026-10-20T18:56:26Z",
-    "url": "https://github.com/BlockRunAI/Franklin"
   },
   {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
@@ -45,15 +81,6 @@
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-20T18:57:32Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
     "id": "genaforvena/mishe-tauftauf",
     "language": "Python",
@@ -68,7 +95,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-20T18:47:53Z",
+    "updated_at": "2026-10-20T19:07:54Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -81,21 +108,12 @@
     "url": "https://github.com/flashfrogluo/second-take"
   },
   {
-    "description": "tools for building better agents. From tool calls to Governance and anything in between get your custom agents to work r",
-    "id": "HaikeiLabs/agentware",
-    "language": "Python",
-    "name": "HaikeiLabs/agentware",
-    "stars": 0,
-    "updated_at": "2026-10-20T18:53:11Z",
-    "url": "https://github.com/HaikeiLabs/agentware"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "TypeScript",
     "name": "strands-agents/harness-sdk",
     "stars": 8880,
-    "updated_at": "2026-10-20T18:48:02Z",
+    "updated_at": "2026-10-20T19:06:42Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -140,7 +158,7 @@
     "language": "TypeScript",
     "name": "robolong/zhengming",
     "stars": 0,
-    "updated_at": "2026-10-20T18:29:06Z",
+    "updated_at": "2026-10-20T19:06:46Z",
     "url": "https://github.com/robolong/zhengming"
   },
   {
@@ -223,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T17:49:17Z",
     "url": "https://github.com/zeng6125-rgb/suixing"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 15,
-    "updated_at": "2026-10-20T18:55:39Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-20T16:41:14Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
-    "id": "sindredg/ai-security-platform",
-    "language": "Python",
-    "name": "sindredg/ai-security-platform",
-    "stars": 0,
-    "updated_at": "2026-10-20T16:39:31Z",
-    "url": "https://github.com/sindredg/ai-security-platform"
   }
 ]
