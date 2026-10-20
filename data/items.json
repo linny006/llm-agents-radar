@@ -1,12 +1,84 @@
 [
   {
+    "description": "AI fieldwork planning assistant for anthropologists & social scientists \u2014 guided interviews turn a research idea into a ",
+    "id": "altairos/fieldwork-agent",
+    "language": "Python",
+    "name": "altairos/fieldwork-agent",
+    "stars": 0,
+    "updated_at": "2026-10-20T13:59:32Z",
+    "url": "https://github.com/altairos/fieldwork-agent"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 300,
+    "updated_at": "2026-10-20T13:58:49Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 15,
+    "updated_at": "2026-10-20T13:58:37Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
+    "id": "zeng6125-rgb/suixing",
+    "language": "Kotlin",
+    "name": "zeng6125-rgb/suixing",
+    "stars": 0,
+    "updated_at": "2026-10-20T13:58:23Z",
+    "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
+    "id": "EvoMap/awesome-agent-evolution",
+    "language": "JavaScript",
+    "name": "EvoMap/awesome-agent-evolution",
+    "stars": 235,
+    "updated_at": "2026-10-20T13:57:16Z",
+    "url": "https://github.com/EvoMap/awesome-agent-evolution"
+  },
+  {
     "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
     "id": "robolong/zhengming",
     "language": "TypeScript",
     "name": "robolong/zhengming",
     "stars": 0,
-    "updated_at": "2026-10-20T13:43:59Z",
+    "updated_at": "2026-10-20T13:53:46Z",
     "url": "https://github.com/robolong/zhengming"
+  },
+  {
+    "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
+    "id": "DylPorter/teledesk",
+    "language": "Python",
+    "name": "DylPorter/teledesk",
+    "stars": 2,
+    "updated_at": "2026-10-20T13:53:34Z",
+    "url": "https://github.com/DylPorter/teledesk"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 858,
+    "updated_at": "2026-10-20T13:52:41Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "TypeScript",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8877,
+    "updated_at": "2026-10-20T13:47:15Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "\u884c\u8bb0\uff1a\u53ef\u63d2\u62d4\u57ce\u5e02\u7684\u5927\u6a21\u578b\u65c5\u884c\u89c4\u5212 Agent\uff08Web \u7aef + MCP \u670d\u52a1\uff09\u3002\u4e00\u6761\u547d\u4ee4\u63a5\u5165\u65b0\u57ce\u5e02\uff0c\u5df2\u63a5\u676d\u5dde\u3001\u5357\u4eac\u3001\u82cf\u5dde\uff1bLangGraph + OR-Tools \u6392\u7a0b\u4e0e\u89c4\u5219\u6821\u9a8c\u3002",
@@ -86,17 +158,8 @@
     "language": "Python",
     "name": "balfiky/openrook",
     "stars": 3,
-    "updated_at": "2026-10-20T13:18:44Z",
+    "updated_at": "2026-10-20T14:00:18Z",
     "url": "https://github.com/balfiky/openrook"
-  },
-  {
-    "description": "AI fieldwork planning assistant for anthropologists & social scientists \u2014 guided interviews turn a research idea into a ",
-    "id": "altairos/fieldwork-agent",
-    "language": "Python",
-    "name": "altairos/fieldwork-agent",
-    "stars": 0,
-    "updated_at": "2026-10-20T13:18:33Z",
-    "url": "https://github.com/altairos/fieldwork-agent"
   },
   {
     "description": "cluesh is an AI agent that turns a natural-language demand into one copy-paste-ready bash command, explained flag by fla",
@@ -106,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T13:20:57Z",
     "url": "https://github.com/dbedla/cluesh"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "TypeScript",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8877,
-    "updated_at": "2026-10-20T13:15:39Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -153,15 +207,6 @@
     "url": "https://github.com/zuowen7/scholar-assistant-agent"
   },
   {
-    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
-    "id": "zeng6125-rgb/suixing",
-    "language": "Kotlin",
-    "name": "zeng6125-rgb/suixing",
-    "stars": 0,
-    "updated_at": "2026-10-20T13:07:02Z",
-    "url": "https://github.com/zeng6125-rgb/suixing"
-  },
-  {
     "description": "Personal AI agent built from scratch \u2014 LLM layer, RAG knowledge base, tool calling loop. No frameworks, learn by buildin",
     "id": "Wenyan0315/facta",
     "language": "Python",
@@ -196,6 +241,15 @@
     "stars": 2,
     "updated_at": "2026-10-20T13:04:16Z",
     "url": "https://github.com/Shuffle-1992/dsh-dispatch"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3646,
+    "updated_at": "2026-10-20T13:53:01Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "\u628a\u5927\u6a21\u578b\u5f53\u53f8\u4ee4\u3001\u811a\u672c\u5f53\u624b\u7684 DSH Agent \u9884\u8bbe\uff1a\u5de5\u5177\u91cc\u96f6\u4e1a\u52a1\u5224\u65ad\uff0c\u8ba9\u6a21\u578b\u5728\u8fd0\u884c\u65f6\u81ea\u9002\u5e94\u52a8\u6001\u7ed3\u6784\u7684\u7f51\u7ad9",
@@ -241,15 +295,6 @@
     "stars": 21,
     "updated_at": "2026-10-20T13:08:33Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3645,
-    "updated_at": "2026-10-20T13:02:14Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-20T11:46:48Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 14,
-    "updated_at": "2026-10-20T11:34:48Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Cost-aware multi-agent orchestrator kit for OpenCode CLI \u2014 one routing agent, 14 specialized subagents, zero application",
-    "id": "NicoGenti/opencode-orchestrator-kit",
-    "language": "TypeScript",
-    "name": "NicoGenti/opencode-orchestrator-kit",
-    "stars": 7,
-    "updated_at": "2026-10-20T11:39:39Z",
-    "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
-  },
-  {
-    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
-    "id": "eshanized/M31A",
-    "language": "Rust",
-    "name": "eshanized/M31A",
-    "stars": 10,
-    "updated_at": "2026-10-20T11:18:52Z",
-    "url": "https://github.com/eshanized/M31A"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 132,
-    "updated_at": "2026-10-20T11:17:54Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 15,
-    "updated_at": "2026-10-20T11:51:57Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   }
 ]
