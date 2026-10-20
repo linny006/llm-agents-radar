@@ -1,5 +1,113 @@
 [
   {
+    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
+    "id": "oldfunk/paper-trading",
+    "language": "Python",
+    "name": "oldfunk/paper-trading",
+    "stars": 1,
+    "updated_at": "2026-10-20T04:58:43Z",
+    "url": "https://github.com/oldfunk/paper-trading"
+  },
+  {
+    "description": "AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter",
+    "id": "janr7204/Upwork-AI-jobs-applier",
+    "language": "Python",
+    "name": "janr7204/Upwork-AI-jobs-applier",
+    "stars": 0,
+    "updated_at": "2026-10-20T04:55:55Z",
+    "url": "https://github.com/janr7204/Upwork-AI-jobs-applier"
+  },
+  {
+    "description": "\u975e\u5e38\u8be6\u7ec6\u7684\u5927\u6a21\u578bLLM\u7684\u5b66\u4e60\u6559\u7a0b\u4e0e\u7b14\u8bb0",
+    "id": "utku83300/LLM_book",
+    "language": "Python",
+    "name": "utku83300/LLM_book",
+    "stars": 0,
+    "updated_at": "2026-10-20T04:55:53Z",
+    "url": "https://github.com/utku83300/LLM_book"
+  },
+  {
+    "description": "AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter",
+    "id": "jaeminsundberg/Upwork-AI-jobs-applier",
+    "language": "Python",
+    "name": "jaeminsundberg/Upwork-AI-jobs-applier",
+    "stars": 0,
+    "updated_at": "2026-10-20T04:54:23Z",
+    "url": "https://github.com/jaeminsundberg/Upwork-AI-jobs-applier"
+  },
+  {
+    "description": "Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by ",
+    "id": "NayeonJones/DM-Code-Agent",
+    "language": "Python",
+    "name": "NayeonJones/DM-Code-Agent",
+    "stars": 0,
+    "updated_at": "2026-10-20T04:54:13Z",
+    "url": "https://github.com/NayeonJones/DM-Code-Agent"
+  },
+  {
+    "description": "AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter",
+    "id": "ritac6326/Upwork-AI-jobs-applier",
+    "language": "Python",
+    "name": "ritac6326/Upwork-AI-jobs-applier",
+    "stars": 0,
+    "updated_at": "2026-10-20T04:51:51Z",
+    "url": "https://github.com/ritac6326/Upwork-AI-jobs-applier"
+  },
+  {
+    "description": "A coding agent with guardrails \u2014 an Ink TUI for your terminal and an Electron app for the desktop: streaming tools, appr",
+    "id": "binhdzs1tg/halis-code",
+    "language": "TypeScript",
+    "name": "binhdzs1tg/halis-code",
+    "stars": 0,
+    "updated_at": "2026-10-20T04:51:07Z",
+    "url": "https://github.com/binhdzs1tg/halis-code"
+  },
+  {
+    "description": "An AI red-team agent for authorized labs and web app pentesting workflows. Turns Claude Code / OpenCode / Codex into a s",
+    "id": "Prawit05072/RedteamAgent",
+    "language": "Python",
+    "name": "Prawit05072/RedteamAgent",
+    "stars": 0,
+    "updated_at": "2026-10-20T04:50:21Z",
+    "url": "https://github.com/Prawit05072/RedteamAgent"
+  },
+  {
+    "description": "DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy.",
+    "id": "Hau47087/taracode",
+    "language": "Go",
+    "name": "Hau47087/taracode",
+    "stars": 0,
+    "updated_at": "2026-10-20T04:48:27Z",
+    "url": "https://github.com/Hau47087/taracode"
+  },
+  {
+    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
+    "id": "zeng6125-rgb/suixing",
+    "language": "Kotlin",
+    "name": "zeng6125-rgb/suixing",
+    "stars": 0,
+    "updated_at": "2026-10-20T04:46:48Z",
+    "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy.",
+    "id": "Utku7312/taracode",
+    "language": "Go",
+    "name": "Utku7312/taracode",
+    "stars": 0,
+    "updated_at": "2026-10-20T04:46:06Z",
+    "url": "https://github.com/Utku7312/taracode"
+  },
+  {
+    "description": "\u975e\u5e38\u8be6\u7ec6\u7684\u5927\u6a21\u578bLLM\u7684\u5b66\u4e60\u6559\u7a0b\u4e0e\u7b14\u8bb0",
+    "id": "Nam7697/LLM_book",
+    "language": "Python",
+    "name": "Nam7697/LLM_book",
+    "stars": 0,
+    "updated_at": "2026-10-20T04:45:42Z",
+    "url": "https://github.com/Nam7697/LLM_book"
+  },
+  {
     "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
     "id": "xieguigang/sciBASIC",
     "language": "Visual Basic .NET",
@@ -9,21 +117,12 @@
     "url": "https://github.com/xieguigang/sciBASIC"
   },
   {
-    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
-    "id": "oldfunk/paper-trading",
-    "language": "Python",
-    "name": "oldfunk/paper-trading",
-    "stars": 1,
-    "updated_at": "2026-10-20T04:39:27Z",
-    "url": "https://github.com/oldfunk/paper-trading"
-  },
-  {
     "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
     "id": "BlockRunAI/Franklin",
     "language": "TypeScript",
     "name": "BlockRunAI/Franklin",
     "stars": 561,
-    "updated_at": "2026-10-20T04:30:11Z",
+    "updated_at": "2026-10-20T04:58:52Z",
     "url": "https://github.com/BlockRunAI/Franklin"
   },
   {
@@ -184,7 +283,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 33519,
+    "stars": 33520,
     "updated_at": "2026-10-20T03:06:39Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -194,7 +293,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 53,
-    "updated_at": "2026-10-20T04:27:27Z",
+    "updated_at": "2026-10-20T04:58:18Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-20T02:06:09Z",
     "url": "https://github.com/lusipad/browser-agent"
-  },
-  {
-    "description": "\u8f7b\u91cf\u7684agent\u6846\u67b6",
-    "id": "qiuzixu/agent-core",
-    "language": "Python",
-    "name": "qiuzixu/agent-core",
-    "stars": 1,
-    "updated_at": "2026-10-20T01:55:44Z",
-    "url": "https://github.com/qiuzixu/agent-core"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-10-20T01:49:17Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "\u57fa\u4e8e CloudWeGo eino \u7684\u81ea\u52a8\u5316\u6d4b\u8bd5\u7f16\u6392\u6267\u884c\u5668\uff1a\u8bed\u4e49\u53ec\u56de\u5de5\u5177\u94fe + \u7ea6\u675f\u56de\u6eaf\u6c42\u89e3\u524d\u7f6e\u4f9d\u8d56 + \u7edf\u4e00\u6267\u884c\u63cf\u8ff0\u7b26\uff08\u540e\u7aef\u7c7b\u578b/\u51ed\u636e/\u8d85\u65f6\u91cd\u8bd5\uff09+ SQLite \u65ad\u70b9\u7eed\u8dd1 + Allure \u8bc1\u636e\u4ea7\u51fa",
-    "id": "shenlinyou222-ux/graph-slim",
-    "language": "Go",
-    "name": "shenlinyou222-ux/graph-slim",
-    "stars": 0,
-    "updated_at": "2026-10-20T01:46:17Z",
-    "url": "https://github.com/shenlinyou222-ux/graph-slim"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-10-20T01:45:25Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 134,
-    "updated_at": "2026-10-20T01:34:51Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "An auto-evolution framework that optimizes anything \u2014 your 7\u00d724 team of algorithm engineers.",
-    "id": "ant-research/AntOmniEvo",
-    "language": "Python",
-    "name": "ant-research/AntOmniEvo",
-    "stars": 1223,
-    "updated_at": "2026-10-20T01:34:44Z",
-    "url": "https://github.com/ant-research/AntOmniEvo"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 830,
-    "updated_at": "2026-10-20T01:33:56Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-10-20T01:26:49Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4457,
-    "updated_at": "2026-10-20T04:17:18Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
-    "id": "alexwkleung/reika",
-    "language": "TypeScript",
-    "name": "alexwkleung/reika",
-    "stars": 11,
-    "updated_at": "2026-10-20T00:56:08Z",
-    "url": "https://github.com/alexwkleung/reika"
-  },
-  {
-    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
-    "id": "robolong/zhengming",
-    "language": "TypeScript",
-    "name": "robolong/zhengming",
-    "stars": 0,
-    "updated_at": "2026-10-20T00:59:34Z",
-    "url": "https://github.com/robolong/zhengming"
   }
 ]
