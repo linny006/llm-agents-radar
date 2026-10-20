@@ -1,21 +1,21 @@
 [
   {
-    "description": "\u4efb\u52a1\u578b\u591a\u8f6e\u5ba2\u670d Agent\uff1aYAML \u6d41\u7a0b DSL + \u5bf9\u8bdd\u72b6\u6001\u673a\uff08\u4e2d\u65ad/\u6302\u8d77/\u6062\u590d/\u53d6\u6d88\uff09+ \u9632\u5e7b\u89c9\u6821\u9a8c + \u4e09\u8f68\u9053\u5206\u6d41\uff0c\u542b\u6a21\u62df\u7535\u5546\u4e2d\u53f0\u4e0e 30 \u6bb5\u4f1a\u8bdd\u7ea7\u8bc4\u6d4b",
-    "id": "winc-0/zhifu",
+    "description": "A cognitive runtime that gives LLM agents persistent state, identity, and learning across turns. Memory, beliefs, drives",
+    "id": "balfiky/nur",
     "language": "Python",
-    "name": "winc-0/zhifu",
-    "stars": 0,
-    "updated_at": "2026-10-20T07:28:41Z",
-    "url": "https://github.com/winc-0/zhifu"
+    "name": "balfiky/nur",
+    "stars": 3,
+    "updated_at": "2026-10-20T07:44:00Z",
+    "url": "https://github.com/balfiky/nur"
   },
   {
-    "description": "Local-first long-term memory and safer context compression for Hermes Agent \u2014 SQLite, no required services.",
-    "id": "indigokarasu/chronicle-agent-context-and-memory",
-    "language": "Python",
-    "name": "indigokarasu/chronicle-agent-context-and-memory",
+    "description": "Open-source AI coding agent for your terminal that you can undo, even its shell commands. 250+ models, /taste for AI-slo",
+    "id": "AmerSarhan/darce-cli",
+    "language": "TypeScript",
+    "name": "AmerSarhan/darce-cli",
     "stars": 11,
-    "updated_at": "2026-10-20T07:24:24Z",
-    "url": "https://github.com/indigokarasu/chronicle-agent-context-and-memory"
+    "updated_at": "2026-10-20T07:42:03Z",
+    "url": "https://github.com/AmerSarhan/darce-cli"
   },
   {
     "description": "The Self-Improving Coding Agent",
@@ -23,8 +23,89 @@
     "language": "TypeScript",
     "name": "kanishka-namdeo/Unown",
     "stars": 0,
-    "updated_at": "2026-10-20T07:23:20Z",
+    "updated_at": "2026-10-20T07:39:55Z",
     "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into",
+    "id": "AskTheWay/dsh-auto-memory",
+    "language": "TypeScript",
+    "name": "AskTheWay/dsh-auto-memory",
+    "stars": 109,
+    "updated_at": "2026-10-20T07:39:19Z",
+    "url": "https://github.com/AskTheWay/dsh-auto-memory"
+  },
+  {
+    "description": "A voice AI companion for Windows and Linux. Personalities, voices, memories and ComfyUI scenes, with local models, cloud",
+    "id": "ArthurReboulSalze/Sherka-Compagnon",
+    "language": "Rust",
+    "name": "ArthurReboulSalze/Sherka-Compagnon",
+    "stars": 1,
+    "updated_at": "2026-10-20T07:38:50Z",
+    "url": "https://github.com/ArthurReboulSalze/Sherka-Compagnon"
+  },
+  {
+    "description": "LLM agent for literature-driven materials discovery \u2014 23 tools, auditable evidence chain, MOF CO\u2082 case study",
+    "id": "Alwayshere-su/pi-agent",
+    "language": "Python",
+    "name": "Alwayshere-su/pi-agent",
+    "stars": 0,
+    "updated_at": "2026-10-20T07:38:46Z",
+    "url": "https://github.com/Alwayshere-su/pi-agent"
+  },
+  {
+    "description": "\u8f7b\u91cf\u7684agent\u6846\u67b6",
+    "id": "qiuzixu/agent-core",
+    "language": "Python",
+    "name": "qiuzixu/agent-core",
+    "stars": 1,
+    "updated_at": "2026-10-20T07:38:43Z",
+    "url": "https://github.com/qiuzixu/agent-core"
+  },
+  {
+    "description": "Local-first long-term memory and safer context compression for Hermes Agent \u2014 SQLite, no required services.",
+    "id": "indigokarasu/chronicle-agent-context-and-memory",
+    "language": "Python",
+    "name": "indigokarasu/chronicle-agent-context-and-memory",
+    "stars": 11,
+    "updated_at": "2026-10-20T07:38:30Z",
+    "url": "https://github.com/indigokarasu/chronicle-agent-context-and-memory"
+  },
+  {
+    "description": "\u628a\u4efb\u52a1\u6d3e\u53d1\u7ed9\u672c\u673a ZCode CLI \u65e0\u5934\u8fdb\u7a0b\u7684 DeepSeek Harness \u63d2\u4ef6\uff1a\u9762\u677f\u53ef\u76d1\u89c6/\u7ec8\u6b62/\u7eed\u8dd1/\u6362\u901a\u9053\uff1b\u5355\u5199\u8005\u6587\u4ef6\u9501 + \u7528\u91cf\u53f0\u8d26 + \u964d\u7ea7\u94fe\u3002\u652f\u6301\u4ed8\u8d39\u5957\u9910\u4e0e\u514d\u8d39\u989d\u5ea6\uff08Start Plan \u6d3b\u52a8\u8d60\u9001\uff09\u4e24\u79cd\u989d\u5ea6\uff0c\u540e\u8005\u6258\u7ba1\u5b98\u65b9",
+    "id": "Shuffle-1992/dsh-dispatch",
+    "language": "JavaScript",
+    "name": "Shuffle-1992/dsh-dispatch",
+    "stars": 2,
+    "updated_at": "2026-10-20T07:37:08Z",
+    "url": "https://github.com/Shuffle-1992/dsh-dispatch"
+  },
+  {
+    "description": "Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/",
+    "id": "ZekaiShi/evo-subagent",
+    "language": "JavaScript",
+    "name": "ZekaiShi/evo-subagent",
+    "stars": 7,
+    "updated_at": "2026-10-20T07:36:25Z",
+    "url": "https://github.com/ZekaiShi/evo-subagent"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "TypeScript",
+    "name": "dsswift/ion",
+    "stars": 4,
+    "updated_at": "2026-10-20T07:35:35Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "\u4efb\u52a1\u578b\u591a\u8f6e\u5ba2\u670d Agent\uff1aYAML \u6d41\u7a0b DSL + \u5bf9\u8bdd\u72b6\u6001\u673a\uff08\u4e2d\u65ad/\u6302\u8d77/\u6062\u590d/\u53d6\u6d88\uff09+ \u9632\u5e7b\u89c9\u6821\u9a8c + \u4e09\u8f68\u9053\u5206\u6d41\uff0c\u542b\u6a21\u62df\u7535\u5546\u4e2d\u53f0\u4e0e 30 \u6bb5\u4f1a\u8bdd\u7ea7\u8bc4\u6d4b",
+    "id": "winc-0/zhifu",
+    "language": "Python",
+    "name": "winc-0/zhifu",
+    "stars": 0,
+    "updated_at": "2026-10-20T07:28:41Z",
+    "url": "https://github.com/winc-0/zhifu"
   },
   {
     "description": "Linux distribution with a built-in, local-first AI assistant. A global hotkey opens an assistant that manages files, ins",
@@ -86,17 +167,8 @@
     "language": "TypeScript",
     "name": "robolong/zhengming",
     "stars": 0,
-    "updated_at": "2026-10-20T07:12:58Z",
+    "updated_at": "2026-10-20T07:42:41Z",
     "url": "https://github.com/robolong/zhengming"
-  },
-  {
-    "description": "A voice AI companion for Windows and Linux. Personalities, voices, memories and ComfyUI scenes, with local models, cloud",
-    "id": "ArthurReboulSalze/Sherka-Compagnon",
-    "language": "Rust",
-    "name": "ArthurReboulSalze/Sherka-Compagnon",
-    "stars": 1,
-    "updated_at": "2026-10-20T07:13:18Z",
-    "url": "https://github.com/ArthurReboulSalze/Sherka-Compagnon"
   },
   {
     "description": "\u57fa\u4e8eMCP\u7684Android\u8bbe\u5907\u64cd\u4f5cAgent: \u624b\u5199ReAct\u5faa\u73af+MCP\u5de5\u5177\u5c42+\u4e09\u8f6e\u8bc4\u6d4b\u8fed\u4ee3",
@@ -139,7 +211,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 33523,
+    "stars": 33524,
     "updated_at": "2026-10-20T07:03:16Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -167,7 +239,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 15,
-    "updated_at": "2026-10-20T07:29:01Z",
+    "updated_at": "2026-10-20T07:30:32Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -243,21 +315,12 @@
     "url": "https://github.com/kangwoo/aimon-core"
   },
   {
-    "description": "A cognitive runtime that gives LLM agents persistent state, identity, and learning across turns. Memory, beliefs, drives",
-    "id": "balfiky/nur",
-    "language": "Python",
-    "name": "balfiky/nur",
-    "stars": 3,
-    "updated_at": "2026-10-20T06:34:30Z",
-    "url": "https://github.com/balfiky/nur"
-  },
-  {
     "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
     "id": "wuyhong715/rikkahub-agent-pure",
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 53,
-    "updated_at": "2026-10-20T07:27:18Z",
+    "updated_at": "2026-10-20T07:33:14Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -319,7 +382,7 @@
     "id": "areal-project/AReaL",
     "language": "Python",
     "name": "areal-project/AReaL",
-    "stars": 5851,
+    "stars": 5852,
     "updated_at": "2026-10-20T05:58:30Z",
     "url": "https://github.com/areal-project/AReaL"
   },
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-20T05:47:46Z",
     "url": "https://github.com/christinefreitas/DM-Code-Agent"
-  },
-  {
-    "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
-    "id": "weihuaguo270-ops/react-agent",
-    "language": "Python",
-    "name": "weihuaguo270-ops/react-agent",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:47:27Z",
-    "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
-    "description": "PortableLM \u2014 Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe",
-    "id": "stephanie36882/PrivatePixelPrompt",
-    "language": "HTML",
-    "name": "stephanie36882/PrivatePixelPrompt",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:47:24Z",
-    "url": "https://github.com/stephanie36882/PrivatePixelPrompt"
-  },
-  {
-    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
-    "id": "alexwkleung/reika",
-    "language": "TypeScript",
-    "name": "alexwkleung/reika",
-    "stars": 11,
-    "updated_at": "2026-10-20T07:28:23Z",
-    "url": "https://github.com/alexwkleung/reika"
-  },
-  {
-    "description": "DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy.",
-    "id": "rtruong6182/taracode",
-    "language": "Go",
-    "name": "rtruong6182/taracode",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:46:21Z",
-    "url": "https://github.com/rtruong6182/taracode"
-  },
-  {
-    "description": "DevOps & Cloud SI Assistant that runs locally with Ollama for complete privacy.",
-    "id": "hward817/taracode",
-    "language": "Go",
-    "name": "hward817/taracode",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:36:34Z",
-    "url": "https://github.com/hward817/taracode"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 81,
-    "updated_at": "2026-10-20T05:36:09Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "LLM \u6570\u636e\u5206\u6790\u5de5\u4f5c\u53f0\uff1a\u4e0a\u4f20\u6570\u636e\u96c6\u81ea\u52a8\u5b8c\u6210\u6e05\u6d17\u3001\u7edf\u8ba1\u5206\u6790\u3001\u53ef\u89c6\u5316\u4e0e\u62a5\u544a\uff1b\u53d7\u63a7\u5de5\u5177\u96c6 + \u53ea\u8bfb SQL\uff08SQLite / PostgreSQL\uff09\u00b7 MCP \u6570\u636e\u9762 \u00b7 Plotly + ECharts \u53cc\u5f15\u64ce \u00b7 FastAPI + Reac",
-    "id": "xiaomaozjj666/data-analysis-agent",
-    "language": "Python",
-    "name": "xiaomaozjj666/data-analysis-agent",
-    "stars": 1,
-    "updated_at": "2026-10-20T05:39:01Z",
-    "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
   }
 ]
