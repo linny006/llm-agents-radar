@@ -1,5 +1,41 @@
 [
   {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4457,
+    "updated_at": "2026-10-20T01:13:46Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 14,
+    "updated_at": "2026-10-20T01:10:16Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "",
+    "id": "andrewalhaj/custom-hermesagent",
+    "language": "Python",
+    "name": "andrewalhaj/custom-hermesagent",
+    "stars": 0,
+    "updated_at": "2026-10-20T01:07:06Z",
+    "url": "https://github.com/andrewalhaj/custom-hermesagent"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-20T01:02:36Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
     "id": "JSL107/personal_agents",
     "language": "TypeScript",
@@ -16,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T00:57:32Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 14,
-    "updated_at": "2026-10-20T00:58:59Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Coding agent CLI for local and hosted models, designed around small local models first",
@@ -79,33 +106,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T00:33:09Z",
     "url": "https://github.com/xufenghe/aimo3-agentic-inference"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4456,
-    "updated_at": "2026-10-20T00:35:47Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-20T00:30:53Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "",
-    "id": "andrewalhaj/custom-hermesagent",
-    "language": "Python",
-    "name": "andrewalhaj/custom-hermesagent",
-    "stars": 0,
-    "updated_at": "2026-10-20T00:30:23Z",
-    "url": "https://github.com/andrewalhaj/custom-hermesagent"
   },
   {
     "description": "A coding agent with guardrails \u2014 an Ink TUI for your terminal and an Electron app for the desktop: streaming tools, appr",
@@ -220,7 +220,7 @@
     "id": "zhixuli0406/DuDuClaw",
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
-    "stars": 49,
+    "stars": 50,
     "updated_at": "2026-10-19T23:24:38Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
@@ -410,7 +410,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-20T00:57:12Z",
+    "updated_at": "2026-10-20T01:14:01Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
