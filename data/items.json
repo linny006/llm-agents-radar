@@ -1,5 +1,68 @@
 [
   {
+    "description": "AI fieldwork planning assistant for anthropologists & social scientists \u2014 guided interviews turn a research idea into a ",
+    "id": "altairos/fieldwork-agent",
+    "language": "Python",
+    "name": "altairos/fieldwork-agent",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:30:14Z",
+    "url": "https://github.com/altairos/fieldwork-agent"
+  },
+  {
+    "description": "\u975e\u5e38\u8be6\u7ec6\u7684\u5927\u6a21\u578bLLM\u7684\u5b66\u4e60\u6559\u7a0b\u4e0e\u7b14\u8bb0",
+    "id": "Carvalho63102/LLM_book",
+    "language": "Python",
+    "name": "Carvalho63102/LLM_book",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:29:47Z",
+    "url": "https://github.com/Carvalho63102/LLM_book"
+  },
+  {
+    "description": "PortableLM \u2014 Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe",
+    "id": "Jaworski92126/PrivatePixelPrompt",
+    "language": "CSS",
+    "name": "Jaworski92126/PrivatePixelPrompt",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:27:19Z",
+    "url": "https://github.com/Jaworski92126/PrivatePixelPrompt"
+  },
+  {
+    "description": "An AI red-team agent for authorized labs and web app pentesting workflows. Turns Claude Code / OpenCode / Codex into a s",
+    "id": "CedricNair/RedteamAgent",
+    "language": "Python",
+    "name": "CedricNair/RedteamAgent",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:25:05Z",
+    "url": "https://github.com/CedricNair/RedteamAgent"
+  },
+  {
+    "description": "AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter",
+    "id": "kimberlyfisher6088/Upwork-AI-jobs-applier",
+    "language": "Python",
+    "name": "kimberlyfisher6088/Upwork-AI-jobs-applier",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:23:21Z",
+    "url": "https://github.com/kimberlyfisher6088/Upwork-AI-jobs-applier"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 29,
+    "updated_at": "2026-10-20T05:20:51Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\u6b66\u6c49\u5927\u5b66\u5730\u7a7a\u5b66\u9662 2026 \u5927\u521b\uff1a\u591a\u667a\u80fd\u4f53 AI \u91ce\u5916\u53f0\u7ad9\u7ba1\u7406\u7cfb\u7edf \u2014\u2014 \u76d1\u6d4b/\u8d28\u63a7/\u7814\u5224/\u6d3e\u5355/\u5f52\u6863\u95ed\u73af\u3002LangGraph \u8fd0\u884c\u65f6 \u00b7 MCP \u5de5\u5177\u63a5\u53e3 \u00b7 \u89c4\u5219\u88c1\u51b3 + \u5927\u6a21\u578b\u5f52\u56e0\u3002\u516c\u5f00\u8131\u654f\u4ed3\u5e93",
+    "id": "yasunosubaru/field-station-agent",
+    "language": "Python",
+    "name": "yasunosubaru/field-station-agent",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:18:24Z",
+    "url": "https://github.com/yasunosubaru/field-station-agent"
+  },
+  {
     "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
     "id": "zhixuli0406/DuDuClaw",
     "language": "Rust",
@@ -16,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T05:14:42Z",
     "url": "https://github.com/MohammedLeroy63/Upwork-AI-jobs-applier"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 29,
-    "updated_at": "2026-10-20T05:14:20Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "An AI red-team agent for authorized labs and web app pentesting workflows. Turns Claude Code / OpenCode / Codex into a s",
@@ -59,7 +113,7 @@
     "language": "Rust",
     "name": "yologdev/yoagent",
     "stars": 363,
-    "updated_at": "2026-10-20T05:08:26Z",
+    "updated_at": "2026-10-20T05:20:18Z",
     "url": "https://github.com/yologdev/yoagent"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-20T03:13:14Z",
     "url": "https://github.com/mmporong/rl-triage-agent"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 33520,
-    "updated_at": "2026-10-20T03:06:39Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
-    "id": "wuyhong715/rikkahub-agent-pure",
-    "language": "Kotlin",
-    "name": "wuyhong715/rikkahub-agent-pure",
-    "stars": 53,
-    "updated_at": "2026-10-20T05:09:08Z",
-    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
-  },
-  {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 297,
-    "updated_at": "2026-10-20T03:03:23Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
-    "description": "Recoverable single coding agent for bounded repository repair",
-    "id": "woojune511/patchloop-agent",
-    "language": "Python",
-    "name": "woojune511/patchloop-agent",
-    "stars": 0,
-    "updated_at": "2026-10-20T03:03:21Z",
-    "url": "https://github.com/woojune511/patchloop-agent"
-  },
-  {
-    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 53,
-    "updated_at": "2026-10-20T02:57:41Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
-    "id": "kangwoo/aimon-core",
-    "language": "Java",
-    "name": "kangwoo/aimon-core",
-    "stars": 0,
-    "updated_at": "2026-10-20T02:57:10Z",
-    "url": "https://github.com/kangwoo/aimon-core"
   }
 ]
