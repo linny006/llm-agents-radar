@@ -1,5 +1,23 @@
 [
   {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-20T22:54:07Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 81,
+    "updated_at": "2026-10-20T22:53:25Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
     "description": "The Self-Improving Coding Agent",
     "id": "kanishka-namdeo/Unown",
     "language": "TypeScript",
@@ -27,15 +45,6 @@
     "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-20T22:34:53Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
     "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
     "id": "RalfHermsen/x4-agent",
     "language": "Python",
@@ -59,8 +68,17 @@
     "language": "Rust",
     "name": "ArthurReboulSalze/Sherka-Compagnon",
     "stars": 1,
-    "updated_at": "2026-10-20T22:28:11Z",
+    "updated_at": "2026-10-20T22:47:40Z",
     "url": "https://github.com/ArthurReboulSalze/Sherka-Compagnon"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "TypeScript",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8883,
+    "updated_at": "2026-10-20T22:27:34Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Hermes Agent on Termux (Android): one-command install from prebuilt, checksum-verified Python wheels. No compiling on yo",
@@ -95,7 +113,7 @@
     "language": "Python",
     "name": "HaikeiLabs/agentware",
     "stars": 0,
-    "updated_at": "2026-10-20T22:42:43Z",
+    "updated_at": "2026-10-20T22:51:32Z",
     "url": "https://github.com/HaikeiLabs/agentware"
   },
   {
@@ -122,7 +140,7 @@
     "language": "TypeScript",
     "name": "robolong/zhengming",
     "stars": 0,
-    "updated_at": "2026-10-20T22:29:04Z",
+    "updated_at": "2026-10-20T22:50:23Z",
     "url": "https://github.com/robolong/zhengming"
   },
   {
@@ -151,15 +169,6 @@
     "stars": 313,
     "updated_at": "2026-10-20T21:59:07Z",
     "url": "https://github.com/m92vyas/llm-reader"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "TypeScript",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8882,
-    "updated_at": "2026-10-20T22:27:34Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -437,16 +446,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 15,
-    "updated_at": "2026-10-20T22:43:56Z",
+    "updated_at": "2026-10-20T22:47:38Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Turn a repository URL into a fact-verified GitHub Wiki: clone, inventory, run and probe the subject, scaffold QA-clean p",
-    "id": "paulmann/github-wiki-llm-writer",
-    "language": "Python",
-    "name": "paulmann/github-wiki-llm-writer",
-    "stars": 0,
-    "updated_at": "2026-10-20T18:58:35Z",
-    "url": "https://github.com/paulmann/github-wiki-llm-writer"
   }
 ]
