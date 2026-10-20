@@ -1,5 +1,77 @@
 [
   {
+    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
+    "id": "xieguigang/sciBASIC",
+    "language": "Visual Basic .NET",
+    "name": "xieguigang/sciBASIC",
+    "stars": 79,
+    "updated_at": "2026-10-20T17:24:32Z",
+    "url": "https://github.com/xieguigang/sciBASIC"
+  },
+  {
+    "description": "Scrapling \u98ce\u683c\u9690\u8eab\u722c\u866b\u5e93\uff1a\u81ea\u9002\u5e94\u9009\u62e9\u5668 \u00b7 TLS \u6307\u7eb9 HTTP \u00b7 JS \u6e32\u67d3 \u00b7 \u56de\u8c03\u5f0f Spider \u6846\u67b6\uff08\u91cd\u8bd5/robots/\u53bb\u91cd/\u4e2d\u95f4\u4ef6\u7ba1\u9053\uff09\u00b7 JS \u9006\u5411 Agent \u00b7 \u9a8c\u8bc1\u7801\u8bc6\u522b \u00b7 MCP \u670d\u52a1 \u00b7 \u672c\u5730 We",
+    "id": "xiaomaozjj666/web-crawler",
+    "language": "Python",
+    "name": "xiaomaozjj666/web-crawler",
+    "stars": 5,
+    "updated_at": "2026-10-20T17:24:24Z",
+    "url": "https://github.com/xiaomaozjj666/web-crawler"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-20T17:23:46Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Pie \u2013 free, open-source AI browser agent for Chrome. Reads pages & PDFs, fills forms, extracts data, automates tabs, han",
+    "id": "wiseria-ai-labs/pie-ai-agent",
+    "language": "TypeScript",
+    "name": "wiseria-ai-labs/pie-ai-agent",
+    "stars": 88,
+    "updated_at": "2026-10-20T17:22:12Z",
+    "url": "https://github.com/wiseria-ai-labs/pie-ai-agent"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-20T17:22:10Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "A 1.5 credit graduate class about the nuts and bolts of LLMs.",
+    "id": "jphall663/GWU_LLM",
+    "language": "Jupyter Notebook",
+    "name": "jphall663/GWU_LLM",
+    "stars": 0,
+    "updated_at": "2026-10-20T17:20:32Z",
+    "url": "https://github.com/jphall663/GWU_LLM"
+  },
+  {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 5,
+    "updated_at": "2026-10-20T17:19:43Z",
+    "url": "https://github.com/ljedrz/nachalnik"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-10-20T17:19:21Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
     "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
@@ -32,7 +104,7 @@
     "language": "Rust",
     "name": "yologdev/yoagent",
     "stars": 364,
-    "updated_at": "2026-10-20T17:08:54Z",
+    "updated_at": "2026-10-20T17:22:41Z",
     "url": "https://github.com/yologdev/yoagent"
   },
   {
@@ -54,15 +126,6 @@
     "url": "https://github.com/expectedparrot/edsl"
   },
   {
-    "description": "Scrapling \u98ce\u683c\u9690\u8eab\u722c\u866b\u5e93\uff1a\u81ea\u9002\u5e94\u9009\u62e9\u5668 \u00b7 TLS \u6307\u7eb9 HTTP \u00b7 JS \u6e32\u67d3 \u00b7 \u56de\u8c03\u5f0f Spider \u6846\u67b6\uff08\u91cd\u8bd5/robots/\u53bb\u91cd/\u4e2d\u95f4\u4ef6\u7ba1\u9053\uff09\u00b7 JS \u9006\u5411 Agent \u00b7 \u9a8c\u8bc1\u7801\u8bc6\u522b \u00b7 MCP \u670d\u52a1 \u00b7 \u672c\u5730 We",
-    "id": "xiaomaozjj666/web-crawler",
-    "language": "Python",
-    "name": "xiaomaozjj666/web-crawler",
-    "stars": 5,
-    "updated_at": "2026-10-20T17:14:27Z",
-    "url": "https://github.com/xiaomaozjj666/web-crawler"
-  },
-  {
     "description": "My collection of Claude Code Agents & Skills for web and iOS Development",
     "id": "mintuz/skills",
     "language": "Python",
@@ -70,15 +133,6 @@
     "stars": 29,
     "updated_at": "2026-10-20T17:04:47Z",
     "url": "https://github.com/mintuz/skills"
-  },
-  {
-    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
-    "id": "xieguigang/sciBASIC",
-    "language": "Visual Basic .NET",
-    "name": "xieguigang/sciBASIC",
-    "stars": 79,
-    "updated_at": "2026-10-20T16:59:49Z",
-    "url": "https://github.com/xieguigang/sciBASIC"
   },
   {
     "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
@@ -108,6 +162,15 @@
     "url": "https://github.com/AnatoliBu/slack-tools"
   },
   {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5858,
+    "updated_at": "2026-10-20T16:55:45Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
     "description": "\u7535\u5546\u552e\u540e\u5ba2\u670d Agent\u3002\u6709\u754c\u81ea\u4e3b\u5faa\u73af \u00b7 \u4eba\u5de5\u786e\u8ba4\u4e0e\u5e42\u7b49 \u00b7 trace \u5168\u94fe\u8def\u89c2\u6d4b \u00b7 24 \u6761\u786e\u5b9a\u6027\u8bc4\u6d4b\uff0870.83% \u2192 100%\uff09\u3002\u91cd\u70b9\u4e0d\u5728\u8c03 API\uff0c\u800c\u5728\u8ba9 Agent \u53ef\u63a7\u3001\u53ef\u89c2\u6d4b\u3001\u53ef\u9a8c\u8bc1\u3002",
     "id": "duanjing082420-arch/ticket-agent",
     "language": "Python",
@@ -133,15 +196,6 @@
     "stars": 3,
     "updated_at": "2026-10-20T16:47:14Z",
     "url": "https://github.com/kwakminoo/Project-IRIS-Light"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-20T16:47:04Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "GitHub Issue \u5206\u6790\u667a\u80fd\u4f53\uff1a\u6709\u754c\u5de5\u5177\u5faa\u73af\u63a2\u7d22\u4ed3\u5e93\u6e90\u7801\uff0c\u751f\u6210\u5e26\u884c\u7ea7\u8bc1\u636e\u7684\u6839\u56e0\u62a5\u544a\u4e0e\u4fee\u590d\u8865\u4e01\uff0c\u9ed8\u8ba4\u53ea\u8bfb\uff0c\u53ef\u663e\u5f0f\u5f00\u542f PR \u63d0\u6848",
@@ -187,15 +241,6 @@
     "stars": 2,
     "updated_at": "2026-10-20T16:41:14Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-20T16:40:12Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
@@ -248,7 +293,7 @@
     "language": "TypeScript",
     "name": "strands-agents/harness-sdk",
     "stars": 8877,
-    "updated_at": "2026-10-20T16:53:12Z",
+    "updated_at": "2026-10-20T17:22:58Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -351,21 +396,12 @@
     "url": "https://github.com/EvoMap/awesome-agent-evolution"
   },
   {
-    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
-    "id": "ljedrz/nachalnik",
-    "language": "Rust",
-    "name": "ljedrz/nachalnik",
-    "stars": 5,
-    "updated_at": "2026-10-20T17:07:21Z",
-    "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-20T17:11:13Z",
+    "updated_at": "2026-10-20T17:21:13Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-20T14:40:59Z",
     "url": "https://github.com/kifirkin/pi-braid"
-  },
-  {
-    "description": "\u5e26\u7b56\u7565\u9a8c\u8bc1\u7684 A \u80a1 LLM \u5206\u6790\u7cfb\u7edf \u2014\u2014 \u591a\u6e90\u964d\u7ea7 + \u5b9a\u65f6\u4efb\u52a1 + \u591a\u901a\u9053\u63a8\u9001\uff1b\u6838\u5fc3\u589e\u91cf\u662f\u53ef\u8bc1\u4f2a\u7684\u56de\u6d4b\u4e0e\u9a8c\u8bc1\u5c42\uff08\u672a\u6765\u51fd\u6570\u63a2\u6d4b / \u6837\u672c\u5185\u5916\u5207\u5206 / t\u68c0\u9a8c / \u57fa\u51c6\u5bf9\u6bd4\uff09",
-    "id": "AandBorC/dsa-lite",
-    "language": "Python",
-    "name": "AandBorC/dsa-lite",
-    "stars": 0,
-    "updated_at": "2026-10-20T14:33:22Z",
-    "url": "https://github.com/AandBorC/dsa-lite"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-10-20T14:31:01Z",
-    "url": "https://github.com/SashaEee/auditLens"
-  },
-  {
-    "description": "A personal knowledge assistant leveraging LLM to answer questions from document collections with verifiable source citat",
-    "id": "AdhamAymanAlrfae/Personal-AI-Cortex",
-    "language": "Python",
-    "name": "AdhamAymanAlrfae/Personal-AI-Cortex",
-    "stars": 0,
-    "updated_at": "2026-10-20T14:26:13Z",
-    "url": "https://github.com/AdhamAymanAlrfae/Personal-AI-Cortex"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-20T14:23:15Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   }
 ]
