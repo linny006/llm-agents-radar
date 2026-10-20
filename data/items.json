@@ -1,5 +1,68 @@
 [
   {
+    "description": "\ud83e\udd16 MioChat \u2014 \u5f00\u6e90\u7684 Agent \u64cd\u4f5c\u7cfb\u7edf\u3002Agent / Session / SubAgent \u4e09\u7ea7\u4e0a\u4e0b\u6587\u6a21\u578b\u3001V3 Hook \u5207\u9762\u3001MCP + Skills \u53cc\u6807\u51c6\u5de5\u5177\u751f\u6001\u3001\u591a\u6e20\u9053\u63a5\u5165\u4e0e\u5b9a\u65f6\u81ea\u6cbb\u3002\u6a21\u578b\u65e0\u5173\u3001\u81ea\u6258\u7ba1\u3002",
+    "id": "Pretend-to/mio-chat-backend",
+    "language": "JavaScript",
+    "name": "Pretend-to/mio-chat-backend",
+    "stars": 38,
+    "updated_at": "2026-10-20T12:26:09Z",
+    "url": "https://github.com/Pretend-to/mio-chat-backend"
+  },
+  {
+    "description": "Open-source runtime for LLM agents with persistent memory, relationship history, modeled mood, and evolving identity. Ca",
+    "id": "balfiky/openrook",
+    "language": "Python",
+    "name": "balfiky/openrook",
+    "stars": 3,
+    "updated_at": "2026-10-20T12:21:31Z",
+    "url": "https://github.com/balfiky/openrook"
+  },
+  {
+    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
+    "id": "xieguigang/sciBASIC",
+    "language": "Visual Basic .NET",
+    "name": "xieguigang/sciBASIC",
+    "stars": 79,
+    "updated_at": "2026-10-20T12:21:05Z",
+    "url": "https://github.com/xieguigang/sciBASIC"
+  },
+  {
+    "description": "AI fieldwork planning assistant for anthropologists & social scientists \u2014 guided interviews turn a research idea into a ",
+    "id": "altairos/fieldwork-agent",
+    "language": "Python",
+    "name": "altairos/fieldwork-agent",
+    "stars": 0,
+    "updated_at": "2026-10-20T12:19:28Z",
+    "url": "https://github.com/altairos/fieldwork-agent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-10-20T12:16:54Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Agentic 3D Modeling with Procedural Control \u2014 turns a text prompt into an editable parametric program, with optional per",
+    "id": "SpatiaOS/Procedura",
+    "language": "TypeScript",
+    "name": "SpatiaOS/Procedura",
+    "stars": 408,
+    "updated_at": "2026-10-20T12:16:17Z",
+    "url": "https://github.com/SpatiaOS/Procedura"
+  },
+  {
+    "description": "Local-first open-source AI coding agent built with Go \u2014 Desktop, CLI, TUI, WebUI, MCP, Skills, multi-agent workflows, an",
+    "id": "konglong87/go-e2e",
+    "language": "Go",
+    "name": "konglong87/go-e2e",
+    "stars": 0,
+    "updated_at": "2026-10-20T12:16:08Z",
+    "url": "https://github.com/konglong87/go-e2e"
+  },
+  {
     "description": "\u6b66\u6c49\u5927\u5b66\u5730\u7a7a\u5b66\u9662 2026 \u5927\u521b\uff1a\u591a\u667a\u80fd\u4f53 AI \u91ce\u5916\u53f0\u7ad9\u7ba1\u7406\u7cfb\u7edf \u2014\u2014 \u76d1\u6d4b/\u8d28\u63a7/\u7814\u5224/\u6d3e\u5355/\u5f52\u6863\u95ed\u73af\u3002LangGraph \u8fd0\u884c\u65f6 \u00b7 MCP \u5de5\u5177\u63a5\u53e3 \u00b7 \u89c4\u5219\u88c1\u51b3 + \u5927\u6a21\u578b\u5f52\u56e0\u3002\u516c\u5f00\u8131\u654f\u4ed3\u5e93",
     "id": "yasunosubaru/field-station-agent",
     "language": "Python",
@@ -36,15 +99,6 @@
     "url": "https://github.com/gonicolas12/My_OS"
   },
   {
-    "description": "Agentic 3D Modeling with Procedural Control \u2014 turns a text prompt into an editable parametric program, with optional per",
-    "id": "SpatiaOS/Procedura",
-    "language": "TypeScript",
-    "name": "SpatiaOS/Procedura",
-    "stars": 408,
-    "updated_at": "2026-10-20T12:09:37Z",
-    "url": "https://github.com/SpatiaOS/Procedura"
-  },
-  {
     "description": "Offline Linux command assistant: 1.5B model on your machine, 1.1 GB disk, 1.3 GB RAM, no GPU, ~2 s per answer, checked a",
     "id": "arxhr007/lxask",
     "language": "Python",
@@ -72,21 +126,12 @@
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
-    "description": "Local-first open-source AI coding agent built with Go \u2014 Desktop, CLI, TUI, WebUI, MCP, Skills, multi-agent workflows, an",
-    "id": "konglong87/go-e2e",
-    "language": "Go",
-    "name": "konglong87/go-e2e",
-    "stars": 0,
-    "updated_at": "2026-10-20T12:08:13Z",
-    "url": "https://github.com/konglong87/go-e2e"
-  },
-  {
     "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
     "id": "robolong/zhengming",
     "language": "TypeScript",
     "name": "robolong/zhengming",
     "stars": 0,
-    "updated_at": "2026-10-20T12:06:50Z",
+    "updated_at": "2026-10-20T12:21:25Z",
     "url": "https://github.com/robolong/zhengming"
   },
   {
@@ -135,15 +180,6 @@
     "url": "https://github.com/kimddong23/skala-15w-ai-agent-capstone-miniproject"
   },
   {
-    "description": "Open-source runtime for LLM agents with persistent memory, relationship history, modeled mood, and evolving identity. Ca",
-    "id": "balfiky/openrook",
-    "language": "Python",
-    "name": "balfiky/openrook",
-    "stars": 3,
-    "updated_at": "2026-10-20T11:52:45Z",
-    "url": "https://github.com/balfiky/openrook"
-  },
-  {
     "description": "Universal cyber assistant: ~80 audited Kali tools + an expert skills library, driven by any model over MCP or direct run",
     "id": "rhaist/marq",
     "language": "Go",
@@ -157,7 +193,7 @@
     "id": "binhdzs1tg/halis-code",
     "language": "TypeScript",
     "name": "binhdzs1tg/halis-code",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-10-20T11:51:21Z",
     "url": "https://github.com/binhdzs1tg/halis-code"
   },
@@ -221,7 +257,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-20T11:44:15Z",
+    "updated_at": "2026-10-20T12:18:24Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -292,7 +328,7 @@
     "id": "SupOps/SupOps",
     "language": "TypeScript",
     "name": "SupOps/SupOps",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-10-20T11:07:52Z",
     "url": "https://github.com/SupOps/SupOps"
   },
@@ -346,7 +382,7 @@
     "id": "yuxinlaile/McD-saver",
     "language": "Python",
     "name": "yuxinlaile/McD-saver",
-    "stars": 45,
+    "stars": 49,
     "updated_at": "2026-10-20T10:46:09Z",
     "url": "https://github.com/yuxinlaile/McD-saver"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-20T10:29:30Z",
     "url": "https://github.com/xiayang544/Daily-News-Assistant"
-  },
-  {
-    "description": "\u7535\u5546\u552e\u540e\u5ba2\u670d Agent\uff1aTool Calling + Policy Guard + \u4eba\u5de5\u5ba1\u6279 + \u5e42\u7b49\u6267\u884c + \u53ef\u9a8c\u8bc1\u8bc4\u6d4b",
-    "id": "sjhesjaj/GroundedAgent",
-    "language": "Python",
-    "name": "sjhesjaj/GroundedAgent",
-    "stars": 0,
-    "updated_at": "2026-10-20T10:24:15Z",
-    "url": "https://github.com/sjhesjaj/GroundedAgent"
-  },
-  {
-    "description": "\u65e0\u9650\u753b\u5e03 AIGC \u521b\u4f5c\u5e73\u53f0\uff1a\u539f\u751f JavaScript \u81ea\u7814\u753b\u5e03\u5f15\u64ce + Python \u96f6\u4f9d\u8d56\u540e\u7aef\uff08\u81ea\u7814\u963f\u91cc\u4e91 OSS \u5ba2\u6237\u7aef\uff09\uff0c\u63a5\u5165 gpt-image-2.5 / minimax-h3 \u751f\u56fe\u751f\u89c6\u9891\uff0c\u53ef\u90e8\u7f72\u5230\u963f\u91cc\u4e91\u51fd\u6570\u8ba1\u7b97",
-    "id": "Patato-1/-AIGC",
-    "language": "JavaScript",
-    "name": "Patato-1/-AIGC",
-    "stars": 1,
-    "updated_at": "2026-10-20T10:22:41Z",
-    "url": "https://github.com/Patato-1/-AIGC"
-  },
-  {
-    "description": "tmux for coding agents. Run AI coding agents side by side in tabs.",
-    "id": "mmoehabb/maestro",
-    "language": "Go",
-    "name": "mmoehabb/maestro",
-    "stars": 0,
-    "updated_at": "2026-10-20T10:17:46Z",
-    "url": "https://github.com/mmoehabb/maestro"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 29,
-    "updated_at": "2026-10-20T10:09:54Z",
-    "url": "https://github.com/tomcounsell/ai"
   }
 ]
