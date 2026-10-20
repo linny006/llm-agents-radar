@@ -1,21 +1,66 @@
 [
   {
-    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
-    "id": "robolong/zhengming",
-    "language": "TypeScript",
-    "name": "robolong/zhengming",
-    "stars": 0,
-    "updated_at": "2026-10-20T20:45:22Z",
-    "url": "https://github.com/robolong/zhengming"
-  },
-  {
     "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker.",
     "id": "yologdev/yoagent",
     "language": "Rust",
     "name": "yologdev/yoagent",
     "stars": 364,
-    "updated_at": "2026-10-20T20:44:42Z",
+    "updated_at": "2026-10-20T20:59:35Z",
     "url": "https://github.com/yologdev/yoagent"
+  },
+  {
+    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
+    "id": "gabrielmaialva33/winx-code-agent",
+    "language": "Rust",
+    "name": "gabrielmaialva33/winx-code-agent",
+    "stars": 37,
+    "updated_at": "2026-10-20T20:57:22Z",
+    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
+  },
+  {
+    "description": "Miki: a local-first autonomous AI agent that plans, uses tools, browses the web and edits files, with one global memory ",
+    "id": "glayph/Agent",
+    "language": "TypeScript",
+    "name": "glayph/Agent",
+    "stars": 0,
+    "updated_at": "2026-10-20T20:57:08Z",
+    "url": "https://github.com/glayph/Agent"
+  },
+  {
+    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
+    "id": "KaletoAI/anima-verse",
+    "language": "Python",
+    "name": "KaletoAI/anima-verse",
+    "stars": 4,
+    "updated_at": "2026-10-20T20:55:23Z",
+    "url": "https://github.com/KaletoAI/anima-verse"
+  },
+  {
+    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
+    "id": "robolong/zhengming",
+    "language": "TypeScript",
+    "name": "robolong/zhengming",
+    "stars": 0,
+    "updated_at": "2026-10-20T20:53:09Z",
+    "url": "https://github.com/robolong/zhengming"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 822,
+    "updated_at": "2026-10-20T20:49:24Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-20T20:46:06Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -36,15 +81,6 @@
     "url": "https://github.com/pronzzz/sudoai"
   },
   {
-    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
-    "id": "gabrielmaialva33/winx-code-agent",
-    "language": "Rust",
-    "name": "gabrielmaialva33/winx-code-agent",
-    "stars": 37,
-    "updated_at": "2026-10-20T20:40:18Z",
-    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
-  },
-  {
     "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
     "id": "xhqing/DayTradingAgent",
     "language": "Python",
@@ -52,15 +88,6 @@
     "stars": 3,
     "updated_at": "2026-10-20T20:39:32Z",
     "url": "https://github.com/xhqing/DayTradingAgent"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-20T20:35:13Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -97,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-10-20T20:22:30Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
-    "id": "KaletoAI/anima-verse",
-    "language": "Python",
-    "name": "KaletoAI/anima-verse",
-    "stars": 4,
-    "updated_at": "2026-10-20T20:18:12Z",
-    "url": "https://github.com/KaletoAI/anima-verse"
   },
   {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
@@ -176,7 +194,7 @@
     "language": "TypeScript",
     "name": "strands-agents/harness-sdk",
     "stars": 8880,
-    "updated_at": "2026-10-20T20:07:49Z",
+    "updated_at": "2026-10-20T21:00:07Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-20T17:43:36Z",
     "url": "https://github.com/AndriiLavrekha/awesome-progress-tracker"
-  },
-  {
-    "description": "A 1.5 credit graduate class about the nuts and bolts of LLMs.",
-    "id": "jphall663/GWU_LLM",
-    "language": "Jupyter Notebook",
-    "name": "jphall663/GWU_LLM",
-    "stars": 0,
-    "updated_at": "2026-10-20T17:31:28Z",
-    "url": "https://github.com/jphall663/GWU_LLM"
-  },
-  {
-    "description": "Scrapling \u98ce\u683c\u9690\u8eab\u722c\u866b\u5e93\uff1a\u81ea\u9002\u5e94\u9009\u62e9\u5668 \u00b7 TLS \u6307\u7eb9 HTTP \u00b7 JS \u6e32\u67d3 \u00b7 \u56de\u8c03\u5f0f Spider \u6846\u67b6\uff08\u91cd\u8bd5/robots/\u53bb\u91cd/\u4e2d\u95f4\u4ef6\u7ba1\u9053\uff09\u00b7 JS \u9006\u5411 Agent \u00b7 \u9a8c\u8bc1\u7801\u8bc6\u522b \u00b7 MCP \u670d\u52a1 \u00b7 \u672c\u5730 We",
-    "id": "xiaomaozjj666/web-crawler",
-    "language": "Python",
-    "name": "xiaomaozjj666/web-crawler",
-    "stars": 5,
-    "updated_at": "2026-10-20T17:24:24Z",
-    "url": "https://github.com/xiaomaozjj666/web-crawler"
   }
 ]
