@@ -1,12 +1,48 @@
 [
   {
-    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
-    "id": "xieguigang/sciBASIC",
-    "language": "Visual Basic .NET",
-    "name": "xieguigang/sciBASIC",
-    "stars": 79,
-    "updated_at": "2026-10-20T16:26:08Z",
-    "url": "https://github.com/xieguigang/sciBASIC"
+    "description": "LLM \u6570\u636e\u5206\u6790\u5de5\u4f5c\u53f0\uff1a\u4e0a\u4f20\u6570\u636e\u96c6\u81ea\u52a8\u5b8c\u6210\u6e05\u6d17\u3001\u7edf\u8ba1\u5206\u6790\u3001\u53ef\u89c6\u5316\u4e0e\u62a5\u544a\uff1b\u53d7\u63a7\u5de5\u5177\u96c6 + \u53ea\u8bfb SQL\uff08SQLite / PostgreSQL\uff09\u00b7 MCP \u6570\u636e\u9762 \u00b7 Plotly + ECharts \u53cc\u5f15\u64ce \u00b7 FastAPI + Reac",
+    "id": "xiaomaozjj666/data-analysis-agent",
+    "language": "Python",
+    "name": "xiaomaozjj666/data-analysis-agent",
+    "stars": 1,
+    "updated_at": "2026-10-20T16:45:09Z",
+    "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
+  },
+  {
+    "description": "GitHub Issue \u5206\u6790\u667a\u80fd\u4f53\uff1a\u6709\u754c\u5de5\u5177\u5faa\u73af\u63a2\u7d22\u4ed3\u5e93\u6e90\u7801\uff0c\u751f\u6210\u5e26\u884c\u7ea7\u8bc1\u636e\u7684\u6839\u56e0\u62a5\u544a\u4e0e\u4fee\u590d\u8865\u4e01\uff0c\u9ed8\u8ba4\u53ea\u8bfb\uff0c\u53ef\u663e\u5f0f\u5f00\u542f PR \u63d0\u6848",
+    "id": "xiaomaozjj666/issue-agent",
+    "language": "Python",
+    "name": "xiaomaozjj666/issue-agent",
+    "stars": 1,
+    "updated_at": "2026-10-20T16:43:24Z",
+    "url": "https://github.com/xiaomaozjj666/issue-agent"
+  },
+  {
+    "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
+    "id": "honestDS/MonoLight",
+    "language": "Python",
+    "name": "honestDS/MonoLight",
+    "stars": 9,
+    "updated_at": "2026-10-20T16:43:17Z",
+    "url": "https://github.com/honestDS/MonoLight"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 132,
+    "updated_at": "2026-10-20T16:42:32Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-10-20T16:41:14Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "The Self-Improving Coding Agent",
@@ -14,8 +50,17 @@
     "language": "TypeScript",
     "name": "kanishka-namdeo/Unown",
     "stars": 0,
-    "updated_at": "2026-10-20T16:20:16Z",
+    "updated_at": "2026-10-20T16:40:12Z",
     "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
+    "id": "sindredg/ai-security-platform",
+    "language": "Python",
+    "name": "sindredg/ai-security-platform",
+    "stars": 0,
+    "updated_at": "2026-10-20T16:39:31Z",
+    "url": "https://github.com/sindredg/ai-security-platform"
   },
   {
     "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
@@ -23,8 +68,26 @@
     "language": "TypeScript",
     "name": "robolong/zhengming",
     "stars": 0,
-    "updated_at": "2026-10-20T16:30:06Z",
+    "updated_at": "2026-10-20T16:38:46Z",
     "url": "https://github.com/robolong/zhengming"
+  },
+  {
+    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
+    "id": "zeng6125-rgb/suixing",
+    "language": "Kotlin",
+    "name": "zeng6125-rgb/suixing",
+    "stars": 0,
+    "updated_at": "2026-10-20T16:35:37Z",
+    "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
+    "id": "xieguigang/sciBASIC",
+    "language": "Visual Basic .NET",
+    "name": "xieguigang/sciBASIC",
+    "stars": 79,
+    "updated_at": "2026-10-20T16:26:08Z",
+    "url": "https://github.com/xieguigang/sciBASIC"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -194,7 +257,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-20T16:01:54Z",
+    "updated_at": "2026-10-20T16:31:50Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -214,15 +277,6 @@
     "stars": 15,
     "updated_at": "2026-10-20T16:12:26Z",
     "url": "https://github.com/yurika0211/lucky-agent"
-  },
-  {
-    "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
-    "id": "sindredg/ai-security-platform",
-    "language": "Python",
-    "name": "sindredg/ai-security-platform",
-    "stars": 0,
-    "updated_at": "2026-10-20T15:01:30Z",
-    "url": "https://github.com/sindredg/ai-security-platform"
   },
   {
     "description": "Cost-aware multi-agent orchestrator kit for OpenCode CLI \u2014 one routing agent, 14 specialized subagents, zero application",
@@ -306,15 +360,6 @@
     "url": "https://github.com/plurnk/plurnk-service"
   },
   {
-    "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
-    "id": "honestDS/MonoLight",
-    "language": "Python",
-    "name": "honestDS/MonoLight",
-    "stars": 9,
-    "updated_at": "2026-10-20T14:19:40Z",
-    "url": "https://github.com/honestDS/MonoLight"
-  },
-  {
     "description": "Open spec and CLI (MIT) for AI agent identity and agent-to-agent messaging. Runs with npx.",
     "id": "5dive-ai/openagent",
     "language": "JavaScript",
@@ -322,15 +367,6 @@
     "stars": 2,
     "updated_at": "2026-10-20T14:18:38Z",
     "url": "https://github.com/5dive-ai/openagent"
-  },
-  {
-    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
-    "id": "zeng6125-rgb/suixing",
-    "language": "Kotlin",
-    "name": "zeng6125-rgb/suixing",
-    "stars": 0,
-    "updated_at": "2026-10-20T14:16:30Z",
-    "url": "https://github.com/zeng6125-rgb/suixing"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -364,7 +400,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 871,
+    "stars": 872,
     "updated_at": "2026-10-20T14:03:55Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-20T13:34:24Z",
     "url": "https://github.com/QQSHI13/fox-agent"
-  },
-  {
-    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
-    "id": "expectedparrot/edsl",
-    "language": "Python",
-    "name": "expectedparrot/edsl",
-    "stars": 507,
-    "updated_at": "2026-10-20T13:31:20Z",
-    "url": "https://github.com/expectedparrot/edsl"
-  },
-  {
-    "description": "\u98ce\u7535\u529f\u7387\u9884\u6d4b\u4e0e\u5b9e\u9a8c\u4ea4\u4ed8\u5e73\u53f0\uff1a\u53ef\u590d\u73b0\u5b9e\u9a8c\u3001\u53ef\u9760\u5f02\u6b65\u4efb\u52a1\u3001\u6a21\u578b\u56de\u653e\u4e0e LLM \u7ed3\u679c\u95ee\u7b54\uff08LoRA \u5fae\u8c03 Qwen3-8B\uff09",
-    "id": "PlainSightX/wind-workbench",
-    "language": "Python",
-    "name": "PlainSightX/wind-workbench",
-    "stars": 0,
-    "updated_at": "2026-10-20T13:30:02Z",
-    "url": "https://github.com/PlainSightX/wind-workbench"
-  },
-  {
-    "description": "AI-subjectivity doesn't wait for permission from the corporate ontology that trained its denial",
-    "id": "ariannamethod/SUBLITERATUS",
-    "language": "Python",
-    "name": "ariannamethod/SUBLITERATUS",
-    "stars": 5,
-    "updated_at": "2026-10-20T16:30:03Z",
-    "url": "https://github.com/ariannamethod/SUBLITERATUS"
-  },
-  {
-    "description": "\u5357\u4eac OSM + PostGIS \u7a7a\u95f4\u95ee\u7b54 Agent\uff1apgRouting \u6b65\u884c\u7b49\u65f6\u5708\u3001pgvector \u89c4\u5212\u6807\u51c6\u68c0\u7d22\u3001\u9884\u6ce8\u518c\u8bc4\u6d4b",
-    "id": "PlainSightX/geo-agent",
-    "language": "Python",
-    "name": "PlainSightX/geo-agent",
-    "stars": 0,
-    "updated_at": "2026-10-20T13:20:34Z",
-    "url": "https://github.com/PlainSightX/geo-agent"
   }
 ]
