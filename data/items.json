@@ -1,5 +1,50 @@
 [
   {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-20T15:42:25Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
+    "id": "xanstomper/mochi",
+    "language": "TypeScript",
+    "name": "xanstomper/mochi",
+    "stars": 1,
+    "updated_at": "2026-10-20T15:42:20Z",
+    "url": "https://github.com/xanstomper/mochi"
+  },
+  {
+    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
+    "id": "wuyhong715/rikkahub-agent-pure",
+    "language": "Kotlin",
+    "name": "wuyhong715/rikkahub-agent-pure",
+    "stars": 53,
+    "updated_at": "2026-10-20T15:36:32Z",
+    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
+  },
+  {
+    "description": "\u6b66\u6c49\u5927\u5b66\u5730\u7a7a\u5b66\u9662 2026 \u5927\u521b\uff1a\u591a\u667a\u80fd\u4f53 AI \u91ce\u5916\u53f0\u7ad9\u7ba1\u7406\u7cfb\u7edf \u2014\u2014 \u76d1\u6d4b/\u8d28\u63a7/\u7814\u5224/\u6d3e\u5355/\u5f52\u6863\u95ed\u73af\u3002LangGraph \u8fd0\u884c\u65f6 \u00b7 MCP \u5de5\u5177\u63a5\u53e3 \u00b7 \u89c4\u5219\u88c1\u51b3 + \u5927\u6a21\u578b\u5f52\u56e0\u3002\u516c\u5f00\u8131\u654f\u4ed3\u5e93",
+    "id": "yasunosubaru/field-station-agent",
+    "language": "Python",
+    "name": "yasunosubaru/field-station-agent",
+    "stars": 0,
+    "updated_at": "2026-10-20T15:37:35Z",
+    "url": "https://github.com/yasunosubaru/field-station-agent"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 6,
+    "updated_at": "2026-10-20T15:35:03Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
     "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
     "id": "robolong/zhengming",
     "language": "TypeScript",
@@ -14,7 +59,7 @@
     "language": "TypeScript",
     "name": "strands-agents/harness-sdk",
     "stars": 8878,
-    "updated_at": "2026-10-20T15:28:35Z",
+    "updated_at": "2026-10-20T15:44:06Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -45,31 +90,13 @@
     "url": "https://github.com/ongridio/ongrid"
   },
   {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-20T15:25:08Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
     "id": "dsswift/ion",
     "language": "TypeScript",
     "name": "dsswift/ion",
     "stars": 4,
-    "updated_at": "2026-10-20T15:30:04Z",
+    "updated_at": "2026-10-20T15:31:42Z",
     "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "\u6b66\u6c49\u5927\u5b66\u5730\u7a7a\u5b66\u9662 2026 \u5927\u521b\uff1a\u591a\u667a\u80fd\u4f53 AI \u91ce\u5916\u53f0\u7ad9\u7ba1\u7406\u7cfb\u7edf \u2014\u2014 \u76d1\u6d4b/\u8d28\u63a7/\u7814\u5224/\u6d3e\u5355/\u5f52\u6863\u95ed\u73af\u3002LangGraph \u8fd0\u884c\u65f6 \u00b7 MCP \u5de5\u5177\u63a5\u53e3 \u00b7 \u89c4\u5219\u88c1\u51b3 + \u5927\u6a21\u578b\u5f52\u56e0\u3002\u516c\u5f00\u8131\u654f\u4ed3\u5e93",
-    "id": "yasunosubaru/field-station-agent",
-    "language": "Python",
-    "name": "yasunosubaru/field-station-agent",
-    "stars": 0,
-    "updated_at": "2026-10-20T15:22:11Z",
-    "url": "https://github.com/yasunosubaru/field-station-agent"
   },
   {
     "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
@@ -95,7 +122,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-20T15:13:34Z",
+    "updated_at": "2026-10-20T15:30:39Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -106,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T15:12:08Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 6,
-    "updated_at": "2026-10-20T15:07:50Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "Claude Code skill that generates a tailored autonomous dev loop for any git repository",
@@ -266,7 +284,7 @@
     "language": "Python",
     "name": "hellices/korvid",
     "stars": 3,
-    "updated_at": "2026-10-20T14:43:10Z",
+    "updated_at": "2026-10-20T15:40:49Z",
     "url": "https://github.com/hellices/korvid"
   },
   {
@@ -283,7 +301,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 867,
+    "stars": 869,
     "updated_at": "2026-10-20T14:03:55Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -311,7 +329,7 @@
     "language": "Kotlin",
     "name": "Soodok/Deepseek-Harness-Local-Android",
     "stars": 300,
-    "updated_at": "2026-10-20T15:27:13Z",
+    "updated_at": "2026-10-20T15:34:37Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
   {
@@ -365,7 +383,7 @@
     "language": "Python",
     "name": "ariannamethod/SUBLITERATUS",
     "stars": 5,
-    "updated_at": "2026-10-20T15:19:35Z",
+    "updated_at": "2026-10-20T15:45:12Z",
     "url": "https://github.com/ariannamethod/SUBLITERATUS"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 408,
     "updated_at": "2026-10-20T13:05:31Z",
     "url": "https://github.com/SpatiaOS/Procedura"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 29,
-    "updated_at": "2026-10-20T13:05:09Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "\u628a\u4efb\u52a1\u6d3e\u53d1\u7ed9\u672c\u673a ZCode CLI \u65e0\u5934\u8fdb\u7a0b\u7684 DeepSeek Harness \u63d2\u4ef6\uff1a\u9762\u677f\u53ef\u76d1\u89c6/\u7ec8\u6b62/\u7eed\u8dd1/\u6362\u901a\u9053\uff1b\u5355\u5199\u8005\u6587\u4ef6\u9501 + \u7528\u91cf\u53f0\u8d26 + \u964d\u7ea7\u94fe\u3002\u652f\u6301\u4ed8\u8d39\u5957\u9910\u4e0e\u514d\u8d39\u989d\u5ea6\uff08Start Plan \u6d3b\u52a8\u8d60\u9001\uff09\u4e24\u79cd\u989d\u5ea6\uff0c\u540e\u8005\u6258\u7ba1\u5b98\u65b9",
-    "id": "Shuffle-1992/dsh-dispatch",
-    "language": "JavaScript",
-    "name": "Shuffle-1992/dsh-dispatch",
-    "stars": 2,
-    "updated_at": "2026-10-20T13:04:16Z",
-    "url": "https://github.com/Shuffle-1992/dsh-dispatch"
   }
 ]
