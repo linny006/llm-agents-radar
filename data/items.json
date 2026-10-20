@@ -1,11 +1,74 @@
 [
   {
+    "description": "\u4efb\u52a1\u578b\u591a\u8f6e\u5ba2\u670d Agent\uff1aYAML \u6d41\u7a0b DSL + \u5bf9\u8bdd\u72b6\u6001\u673a\uff08\u4e2d\u65ad/\u6302\u8d77/\u6062\u590d/\u53d6\u6d88\uff09+ \u9632\u5e7b\u89c9\u6821\u9a8c + \u4e09\u8f68\u9053\u5206\u6d41\uff0c\u542b\u6a21\u62df\u7535\u5546\u4e2d\u53f0\u4e0e 30 \u6bb5\u4f1a\u8bdd\u7ea7\u8bc4\u6d4b",
+    "id": "winc-0/zhifu",
+    "language": "Python",
+    "name": "winc-0/zhifu",
+    "stars": 0,
+    "updated_at": "2026-10-20T07:28:41Z",
+    "url": "https://github.com/winc-0/zhifu"
+  },
+  {
+    "description": "Local-first long-term memory and safer context compression for Hermes Agent \u2014 SQLite, no required services.",
+    "id": "indigokarasu/chronicle-agent-context-and-memory",
+    "language": "Python",
+    "name": "indigokarasu/chronicle-agent-context-and-memory",
+    "stars": 11,
+    "updated_at": "2026-10-20T07:24:24Z",
+    "url": "https://github.com/indigokarasu/chronicle-agent-context-and-memory"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-20T07:23:20Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Linux distribution with a built-in, local-first AI assistant. A global hotkey opens an assistant that manages files, ins",
+    "id": "gonicolas12/My_OS",
+    "language": "Python",
+    "name": "gonicolas12/My_OS",
+    "stars": 2,
+    "updated_at": "2026-10-20T07:22:38Z",
+    "url": "https://github.com/gonicolas12/My_OS"
+  },
+  {
+    "description": "Single-user Hebrew/English personal assistant: Cloudflare Workers + SQLite Durable Object, Groq tool-calling agent where",
+    "id": "tzur669-lab/whatsapp-assistant",
+    "language": "TypeScript",
+    "name": "tzur669-lab/whatsapp-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-20T07:22:32Z",
+    "url": "https://github.com/tzur669-lab/whatsapp-assistant"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 298,
+    "updated_at": "2026-10-20T07:22:09Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "Autonomous, zero-config portable HTML testing and Multi-LLM self-healing agent powered by Playwright",
+    "id": "Keithsys730/html-tester",
+    "language": "Python",
+    "name": "Keithsys730/html-tester",
+    "stars": 0,
+    "updated_at": "2026-10-20T07:16:02Z",
+    "url": "https://github.com/Keithsys730/html-tester"
+  },
+  {
     "description": "\u6295\u8d44\u7814\u7a76\u7528\u7684\u672c\u5730 Agent CLI\uff1a\u8d44\u6599 \u2192 Wiki \u2192 \u62a5\u544a \u2192 Spec \u2192 \u79bb\u7ebf HTML \u6295\u8d44\u6c47\u62a5 Slides\uff0c\u6309\u5c0f\u7ae0\u8282\u5ba1\u6279\u4e0e\u589e\u91cf\u6784\u5efa",
     "id": "JoeLiaoo/my-slides",
     "language": "Python",
     "name": "JoeLiaoo/my-slides",
     "stars": 0,
-    "updated_at": "2026-10-20T07:14:31Z",
+    "updated_at": "2026-10-20T07:17:29Z",
     "url": "https://github.com/JoeLiaoo/my-slides"
   },
   {
@@ -76,18 +139,9 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 33520,
+    "stars": 33523,
     "updated_at": "2026-10-20T07:03:16Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-20T07:01:12Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "\uc790\uc5f0\uc5b4\ub85c \ubb3b\ub294 read-only Kubernetes \uc7a5\uc560 \uc9c4\ub2e8 \uc5d0\uc774\uc804\ud2b8",
@@ -113,7 +167,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 15,
-    "updated_at": "2026-10-20T06:59:56Z",
+    "updated_at": "2026-10-20T07:29:01Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -180,15 +234,6 @@
     "url": "https://github.com/izynu/ochrelle"
   },
   {
-    "description": "Single-user Hebrew/English personal assistant: Cloudflare Workers + SQLite Durable Object, Groq tool-calling agent where",
-    "id": "tzur669-lab/whatsapp-assistant",
-    "language": "TypeScript",
-    "name": "tzur669-lab/whatsapp-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-20T06:36:18Z",
-    "url": "https://github.com/tzur669-lab/whatsapp-assistant"
-  },
-  {
     "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
     "id": "kangwoo/aimon-core",
     "language": "Java",
@@ -212,8 +257,17 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 53,
-    "updated_at": "2026-10-20T06:54:07Z",
+    "updated_at": "2026-10-20T07:27:18Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 364,
+    "updated_at": "2026-10-20T06:21:44Z",
+    "url": "https://github.com/yologdev/yoagent"
   },
   {
     "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
@@ -356,7 +410,7 @@
     "language": "TypeScript",
     "name": "alexwkleung/reika",
     "stars": 11,
-    "updated_at": "2026-10-20T06:28:43Z",
+    "updated_at": "2026-10-20T07:28:23Z",
     "url": "https://github.com/alexwkleung/reika"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-20T05:39:01Z",
     "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
-  },
-  {
-    "description": "\u975e\u5e38\u8be6\u7ec6\u7684\u5927\u6a21\u578bLLM\u7684\u5b66\u4e60\u6559\u7a0b\u4e0e\u7b14\u8bb0",
-    "id": "jaemindiaz/LLM_book",
-    "language": "Python",
-    "name": "jaemindiaz/LLM_book",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:32:34Z",
-    "url": "https://github.com/jaemindiaz/LLM_book"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-20T06:35:12Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "\u975e\u5e38\u8be6\u7ec6\u7684\u5927\u6a21\u578bLLM\u7684\u5b66\u4e60\u6559\u7a0b\u4e0e\u7b14\u8bb0",
-    "id": "Carvalho63102/LLM_book",
-    "language": "Python",
-    "name": "Carvalho63102/LLM_book",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:29:47Z",
-    "url": "https://github.com/Carvalho63102/LLM_book"
-  },
-  {
-    "description": "PortableLM \u2014 Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe",
-    "id": "Jaworski92126/PrivatePixelPrompt",
-    "language": "CSS",
-    "name": "Jaworski92126/PrivatePixelPrompt",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:27:19Z",
-    "url": "https://github.com/Jaworski92126/PrivatePixelPrompt"
-  },
-  {
-    "description": "An AI red-team agent for authorized labs and web app pentesting workflows. Turns Claude Code / OpenCode / Codex into a s",
-    "id": "CedricNair/RedteamAgent",
-    "language": "Python",
-    "name": "CedricNair/RedteamAgent",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:25:05Z",
-    "url": "https://github.com/CedricNair/RedteamAgent"
-  },
-  {
-    "description": "AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter",
-    "id": "kimberlyfisher6088/Upwork-AI-jobs-applier",
-    "language": "Python",
-    "name": "kimberlyfisher6088/Upwork-AI-jobs-applier",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:23:21Z",
-    "url": "https://github.com/kimberlyfisher6088/Upwork-AI-jobs-applier"
   }
 ]
