@@ -1,11 +1,20 @@
 [
   {
+    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
+    "id": "robolong/zhengming",
+    "language": "TypeScript",
+    "name": "robolong/zhengming",
+    "stars": 0,
+    "updated_at": "2026-10-20T17:28:41Z",
+    "url": "https://github.com/robolong/zhengming"
+  },
+  {
     "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
     "id": "xieguigang/sciBASIC",
     "language": "Visual Basic .NET",
     "name": "xieguigang/sciBASIC",
     "stars": 79,
-    "updated_at": "2026-10-20T17:24:32Z",
+    "updated_at": "2026-10-20T17:27:27Z",
     "url": "https://github.com/xieguigang/sciBASIC"
   },
   {
@@ -113,7 +122,7 @@
     "language": "Python",
     "name": "Rekin226/Agronaut",
     "stars": 5,
-    "updated_at": "2026-10-20T17:09:23Z",
+    "updated_at": "2026-10-20T17:27:09Z",
     "url": "https://github.com/Rekin226/Agronaut"
   },
   {
@@ -142,15 +151,6 @@
     "stars": 561,
     "updated_at": "2026-10-20T17:14:13Z",
     "url": "https://github.com/BlockRunAI/Franklin"
-  },
-  {
-    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
-    "id": "robolong/zhengming",
-    "language": "TypeScript",
-    "name": "robolong/zhengming",
-    "stars": 0,
-    "updated_at": "2026-10-20T16:58:04Z",
-    "url": "https://github.com/robolong/zhengming"
   },
   {
     "description": "Agent-friendly Slack CLI on browser tokens (xoxc/xoxd): URL-first, key=value/JSON output, Block Kit tables, mermaid\u2192PNG,",
@@ -293,7 +293,7 @@
     "language": "TypeScript",
     "name": "strands-agents/harness-sdk",
     "stars": 8877,
-    "updated_at": "2026-10-20T17:22:58Z",
+    "updated_at": "2026-10-20T17:26:23Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {

@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-20 17:25 UTC
+> ⏰ Last updated: 2026-10-20 17:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,23 +42,23 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [xieguigang/sciBASIC](https://github.com/xieguigang/sciBASIC) | 79 | Visual Basic .NET | 2026-10-20 | A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler |
-| 2 | [xiaomaozjj666/web-crawler](https://github.com/xiaomaozjj666/web-crawler) | 5 | Python | 2026-10-20 | Scrapling 风格隐身爬虫库：自适应选择器 · TLS 指纹 HTTP · JS 渲染 · 回调式 Spider 框架（重试/robots/去重/中间件管道）· JS 逆向 Agent · 验证码识别 · MCP 服务 · 本地 We |
-| 3 | [genaforvena/mishe-tauftauf](https://github.com/genaforvena/mishe-tauftauf) | 3 | Python | 2026-10-20 | A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation. |
-| 4 | [wiseria-ai-labs/pie-ai-agent](https://github.com/wiseria-ai-labs/pie-ai-agent) | 88 | TypeScript | 2026-10-20 | Pie – free, open-source AI browser agent for Chrome. Reads pages & PDFs, fills forms, extracts data, automates tabs, han |
-| 5 | [kanishka-namdeo/Unown](https://github.com/kanishka-namdeo/Unown) | 0 | TypeScript | 2026-10-20 | The Self-Improving Coding Agent |
-| 6 | [jphall663/GWU_LLM](https://github.com/jphall663/GWU_LLM) | 0 | Jupyter Notebook | 2026-10-20 | A 1.5 credit graduate class about the nuts and bolts of LLMs. |
-| 7 | [ljedrz/nachalnik](https://github.com/ljedrz/nachalnik) | 5 | Rust | 2026-10-20 | A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and  |
-| 8 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-10-20 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 9 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-20 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
-| 10 | [shakhruz/mila-companion](https://github.com/shakhruz/mila-companion) | 1 | Python | 2026-10-20 | Turn your Claude subscription into an AI employee in Telegram. Open-source kit behind 18 working assistants. |
-| 11 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-10-20 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 12 | [yologdev/yoagent](https://github.com/yologdev/yoagent) | 364 | Rust | 2026-10-20 | The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker. |
-| 13 | [Rekin226/Agronaut](https://github.com/Rekin226/Agronaut) | 5 | Python | 2026-10-20 | An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp,  |
-| 14 | [expectedparrot/edsl](https://github.com/expectedparrot/edsl) | 507 | Python | 2026-10-20 | Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w |
-| 15 | [mintuz/skills](https://github.com/mintuz/skills) | 29 | Python | 2026-10-20 | My collection of Claude Code Agents & Skills for web and iOS Development |
-| 16 | [BlockRunAI/Franklin](https://github.com/BlockRunAI/Franklin) | 561 | TypeScript | 2026-10-20 | The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript. |
-| 17 | [robolong/zhengming](https://github.com/robolong/zhengming) | 0 | TypeScript | 2026-10-20 | 正名：本地运行的中文取名桌面应用，规则检查 + 典籍出处 + DeepSeek agent · Zhengming, a local-first Chinese baby-naming desktop app |
+| 1 | [robolong/zhengming](https://github.com/robolong/zhengming) | 0 | TypeScript | 2026-10-20 | 正名：本地运行的中文取名桌面应用，规则检查 + 典籍出处 + DeepSeek agent · Zhengming, a local-first Chinese baby-naming desktop app |
+| 2 | [xieguigang/sciBASIC](https://github.com/xieguigang/sciBASIC) | 79 | Visual Basic .NET | 2026-10-20 | A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler |
+| 3 | [xiaomaozjj666/web-crawler](https://github.com/xiaomaozjj666/web-crawler) | 5 | Python | 2026-10-20 | Scrapling 风格隐身爬虫库：自适应选择器 · TLS 指纹 HTTP · JS 渲染 · 回调式 Spider 框架（重试/robots/去重/中间件管道）· JS 逆向 Agent · 验证码识别 · MCP 服务 · 本地 We |
+| 4 | [genaforvena/mishe-tauftauf](https://github.com/genaforvena/mishe-tauftauf) | 3 | Python | 2026-10-20 | A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation. |
+| 5 | [wiseria-ai-labs/pie-ai-agent](https://github.com/wiseria-ai-labs/pie-ai-agent) | 88 | TypeScript | 2026-10-20 | Pie – free, open-source AI browser agent for Chrome. Reads pages & PDFs, fills forms, extracts data, automates tabs, han |
+| 6 | [kanishka-namdeo/Unown](https://github.com/kanishka-namdeo/Unown) | 0 | TypeScript | 2026-10-20 | The Self-Improving Coding Agent |
+| 7 | [jphall663/GWU_LLM](https://github.com/jphall663/GWU_LLM) | 0 | Jupyter Notebook | 2026-10-20 | A 1.5 credit graduate class about the nuts and bolts of LLMs. |
+| 8 | [ljedrz/nachalnik](https://github.com/ljedrz/nachalnik) | 5 | Rust | 2026-10-20 | A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and  |
+| 9 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-10-20 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 10 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-20 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
+| 11 | [shakhruz/mila-companion](https://github.com/shakhruz/mila-companion) | 1 | Python | 2026-10-20 | Turn your Claude subscription into an AI employee in Telegram. Open-source kit behind 18 working assistants. |
+| 12 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-10-20 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 13 | [yologdev/yoagent](https://github.com/yologdev/yoagent) | 364 | Rust | 2026-10-20 | The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker. |
+| 14 | [Rekin226/Agronaut](https://github.com/Rekin226/Agronaut) | 5 | Python | 2026-10-20 | An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp,  |
+| 15 | [expectedparrot/edsl](https://github.com/expectedparrot/edsl) | 507 | Python | 2026-10-20 | Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w |
+| 16 | [mintuz/skills](https://github.com/mintuz/skills) | 29 | Python | 2026-10-20 | My collection of Claude Code Agents & Skills for web and iOS Development |
+| 17 | [BlockRunAI/Franklin](https://github.com/BlockRunAI/Franklin) | 561 | TypeScript | 2026-10-20 | The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript. |
 | 18 | [AnatoliBu/slack-tools](https://github.com/AnatoliBu/slack-tools) | 0 | Python | 2026-10-20 | Agent-friendly Slack CLI on browser tokens (xoxc/xoxd): URL-first, key=value/JSON output, Block Kit tables, mermaid→PNG, |
 | 19 | [areal-project/AReaL](https://github.com/areal-project/AReaL) | 5858 | Python | 2026-10-20 | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. |
 | 20 | [duanjing082420-arch/ticket-agent](https://github.com/duanjing082420-arch/ticket-agent) | 0 | Python | 2026-10-20 | 电商售后客服 Agent。有界自主循环 · 人工确认与幂等 · trace 全链路观测 · 24 条确定性评测（70.83% → 100%）。重点不在调 API，而在让 Agent 可控、可观测、可验证。 |
