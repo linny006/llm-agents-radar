@@ -1,12 +1,93 @@
 [
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "description": "\u6295\u8d44\u7814\u7a76\u7528\u7684\u672c\u5730 Agent CLI\uff1a\u8d44\u6599 \u2192 Wiki \u2192 \u62a5\u544a \u2192 Spec \u2192 \u79bb\u7ebf HTML \u6295\u8d44\u6c47\u62a5 Slides\uff0c\u6309\u5c0f\u7ae0\u8282\u5ba1\u6279\u4e0e\u589e\u91cf\u6784\u5efa",
+    "id": "JoeLiaoo/my-slides",
+    "language": "Python",
+    "name": "JoeLiaoo/my-slides",
     "stars": 0,
-    "updated_at": "2026-10-20T07:00:08Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+    "updated_at": "2026-10-20T07:14:31Z",
+    "url": "https://github.com/JoeLiaoo/my-slides"
+  },
+  {
+    "description": "\u98ce\u7535\u529f\u7387\u9884\u6d4b\u4e0e\u5b9e\u9a8c\u4ea4\u4ed8\u5e73\u53f0\uff1a\u53ef\u590d\u73b0\u5b9e\u9a8c\u3001\u53ef\u9760\u5f02\u6b65\u4efb\u52a1\u3001\u6a21\u578b\u56de\u653e\u4e0e LLM \u7ed3\u679c\u95ee\u7b54\uff08LoRA \u5fae\u8c03 Qwen3-8B\uff09",
+    "id": "PlainSightX/wind-workbench",
+    "language": "Python",
+    "name": "PlainSightX/wind-workbench",
+    "stars": 0,
+    "updated_at": "2026-10-20T07:13:50Z",
+    "url": "https://github.com/PlainSightX/wind-workbench"
+  },
+  {
+    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
+    "id": "robolong/zhengming",
+    "language": "TypeScript",
+    "name": "robolong/zhengming",
+    "stars": 0,
+    "updated_at": "2026-10-20T07:12:58Z",
+    "url": "https://github.com/robolong/zhengming"
+  },
+  {
+    "description": "A voice AI companion for Windows and Linux. Personalities, voices, memories and ComfyUI scenes, with local models, cloud",
+    "id": "ArthurReboulSalze/Sherka-Compagnon",
+    "language": "Rust",
+    "name": "ArthurReboulSalze/Sherka-Compagnon",
+    "stars": 1,
+    "updated_at": "2026-10-20T07:13:18Z",
+    "url": "https://github.com/ArthurReboulSalze/Sherka-Compagnon"
+  },
+  {
+    "description": "\u57fa\u4e8eMCP\u7684Android\u8bbe\u5907\u64cd\u4f5cAgent: \u624b\u5199ReAct\u5faa\u73af+MCP\u5de5\u5177\u5c42+\u4e09\u8f6e\u8bc4\u6d4b\u8fed\u4ee3",
+    "id": "youlaiyouqv/Android_agent",
+    "language": "Python",
+    "name": "youlaiyouqv/Android_agent",
+    "stars": 0,
+    "updated_at": "2026-10-20T07:11:21Z",
+    "url": "https://github.com/youlaiyouqv/Android_agent"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 134,
+    "updated_at": "2026-10-20T07:10:20Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-20T07:03:53Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-10-20T07:03:52Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 33520,
+    "updated_at": "2026-10-20T07:03:16Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-20T07:01:12Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "\uc790\uc5f0\uc5b4\ub85c \ubb3b\ub294 read-only Kubernetes \uc7a5\uc560 \uc9c4\ub2e8 \uc5d0\uc774\uc804\ud2b8",
@@ -18,13 +99,13 @@
     "url": "https://github.com/dlwldP/KubeLens"
   },
   {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
     "stars": 0,
-    "updated_at": "2026-10-20T06:59:30Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
+    "updated_at": "2026-10-20T07:00:08Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -135,15 +216,6 @@
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
-    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
-    "id": "robolong/zhengming",
-    "language": "TypeScript",
-    "name": "robolong/zhengming",
-    "stars": 0,
-    "updated_at": "2026-10-20T06:27:55Z",
-    "url": "https://github.com/robolong/zhengming"
-  },
-  {
     "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
     "id": "eshanized/M31A",
     "language": "Rust",
@@ -160,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T06:02:51Z",
     "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-20T06:02:51Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "AI fieldwork planning assistant for anthropologists & social scientists \u2014 guided interviews turn a research idea into a ",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-20T05:23:21Z",
     "url": "https://github.com/kimberlyfisher6088/Upwork-AI-jobs-applier"
-  },
-  {
-    "description": "\u6b66\u6c49\u5927\u5b66\u5730\u7a7a\u5b66\u9662 2026 \u5927\u521b\uff1a\u591a\u667a\u80fd\u4f53 AI \u91ce\u5916\u53f0\u7ad9\u7ba1\u7406\u7cfb\u7edf \u2014\u2014 \u76d1\u6d4b/\u8d28\u63a7/\u7814\u5224/\u6d3e\u5355/\u5f52\u6863\u95ed\u73af\u3002LangGraph \u8fd0\u884c\u65f6 \u00b7 MCP \u5de5\u5177\u63a5\u53e3 \u00b7 \u89c4\u5219\u88c1\u51b3 + \u5927\u6a21\u578b\u5f52\u56e0\u3002\u516c\u5f00\u8131\u654f\u4ed3\u5e93",
-    "id": "yasunosubaru/field-station-agent",
-    "language": "Python",
-    "name": "yasunosubaru/field-station-agent",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:18:24Z",
-    "url": "https://github.com/yasunosubaru/field-station-agent"
-  },
-  {
-    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 50,
-    "updated_at": "2026-10-20T05:48:28Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter",
-    "id": "MohammedLeroy63/Upwork-AI-jobs-applier",
-    "language": "Python",
-    "name": "MohammedLeroy63/Upwork-AI-jobs-applier",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:14:42Z",
-    "url": "https://github.com/MohammedLeroy63/Upwork-AI-jobs-applier"
-  },
-  {
-    "description": "An AI red-team agent for authorized labs and web app pentesting workflows. Turns Claude Code / OpenCode / Codex into a s",
-    "id": "aCarvalho9460/RedteamAgent",
-    "language": "Python",
-    "name": "aCarvalho9460/RedteamAgent",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:13:55Z",
-    "url": "https://github.com/aCarvalho9460/RedteamAgent"
-  },
-  {
-    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
-    "id": "Tuyen469/CodeJury",
-    "language": "Python",
-    "name": "Tuyen469/CodeJury",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:13:06Z",
-    "url": "https://github.com/Tuyen469/CodeJury"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 363,
-    "updated_at": "2026-10-20T06:21:44Z",
-    "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "AI tool for automating Upwork job applications using AI agents to find and qualify jobs, write personalized cover letter",
-    "id": "yannismirza/Upwork-AI-jobs-applier",
-    "language": "Python",
-    "name": "yannismirza/Upwork-AI-jobs-applier",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:07:18Z",
-    "url": "https://github.com/yannismirza/Upwork-AI-jobs-applier"
   }
 ]
