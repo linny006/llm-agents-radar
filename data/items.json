@@ -1,12 +1,30 @@
 [
   {
-    "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
-    "id": "Shuffle-1992/dsh-context-pilot",
-    "language": "JavaScript",
-    "name": "Shuffle-1992/dsh-context-pilot",
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 15,
+    "updated_at": "2026-10-21T09:00:05Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Restaurante real en producci\u00f3n: web, carta por QR y un agente de Telegram/WhatsApp que cambia precios. El modelo emite a",
+    "id": "AngelReml/donpepe",
+    "language": "HTML",
+    "name": "AngelReml/donpepe",
+    "stars": 0,
+    "updated_at": "2026-10-21T08:59:31Z",
+    "url": "https://github.com/AngelReml/donpepe"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
     "stars": 3,
-    "updated_at": "2026-10-21T08:45:03Z",
-    "url": "https://github.com/Shuffle-1992/dsh-context-pilot"
+    "updated_at": "2026-10-21T08:57:05Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
@@ -14,8 +32,44 @@
     "language": "TypeScript",
     "name": "robolong/zhengming",
     "stars": 0,
-    "updated_at": "2026-10-21T08:44:49Z",
+    "updated_at": "2026-10-21T08:57:55Z",
     "url": "https://github.com/robolong/zhengming"
+  },
+  {
+    "description": "AI fieldwork planning assistant for anthropologists & social scientists \u2014 guided interviews turn a research idea into a ",
+    "id": "altairos/fieldwork-agent",
+    "language": "Python",
+    "name": "altairos/fieldwork-agent",
+    "stars": 0,
+    "updated_at": "2026-10-21T08:56:02Z",
+    "url": "https://github.com/altairos/fieldwork-agent"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-21T08:52:29Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-21T08:50:46Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
+    "id": "Shuffle-1992/dsh-context-pilot",
+    "language": "JavaScript",
+    "name": "Shuffle-1992/dsh-context-pilot",
+    "stars": 3,
+    "updated_at": "2026-10-21T08:45:24Z",
+    "url": "https://github.com/Shuffle-1992/dsh-context-pilot"
   },
   {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
@@ -34,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T08:36:22Z",
     "url": "https://github.com/yasunosubaru/field-station-agent"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 15,
-    "updated_at": "2026-10-21T08:36:20Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
@@ -108,15 +153,6 @@
     "url": "https://github.com/Wolido/async-subagent-isolation"
   },
   {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-21T08:24:29Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
     "description": "Open-source Claude Code for academic papers \u2014 translate, write, review, and export research papers locally",
     "id": "zuowen7/scholar-assistant-agent",
     "language": "Python",
@@ -131,7 +167,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-21T08:27:30Z",
+    "updated_at": "2026-10-21T08:50:06Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -162,15 +198,6 @@
     "url": "https://github.com/sky-valley/pi"
   },
   {
-    "description": "AI fieldwork planning assistant for anthropologists & social scientists \u2014 guided interviews turn a research idea into a ",
-    "id": "altairos/fieldwork-agent",
-    "language": "Python",
-    "name": "altairos/fieldwork-agent",
-    "stars": 0,
-    "updated_at": "2026-10-21T08:12:04Z",
-    "url": "https://github.com/altairos/fieldwork-agent"
-  },
-  {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
     "id": "b-macker/NAAb",
     "language": "C++",
@@ -185,7 +212,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-21T08:16:52Z",
+    "updated_at": "2026-10-21T08:47:46Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -221,7 +248,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5863,
-    "updated_at": "2026-10-21T08:16:38Z",
+    "updated_at": "2026-10-21T08:52:09Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -229,18 +256,9 @@
     "id": "strands-agents/harness-sdk",
     "language": "TypeScript",
     "name": "strands-agents/harness-sdk",
-    "stars": 8888,
+    "stars": 8889,
     "updated_at": "2026-10-21T08:01:29Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Restaurante real en producci\u00f3n: web, carta por QR y un agente de Telegram/WhatsApp que cambia precios. El modelo emite a",
-    "id": "AngelReml/donpepe",
-    "language": "HTML",
-    "name": "AngelReml/donpepe",
-    "stars": 0,
-    "updated_at": "2026-10-21T08:01:06Z",
-    "url": "https://github.com/AngelReml/donpepe"
   },
   {
     "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
@@ -268,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-10-21T07:44:03Z",
     "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-21T08:38:33Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
@@ -358,15 +367,6 @@
     "stars": 7,
     "updated_at": "2026-10-21T07:31:52Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-21T07:31:46Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "SRE Agent - CNCF Sandbox Project",
