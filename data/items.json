@@ -1,5 +1,95 @@
 [
   {
+    "description": "Keyboard-first Kubernetes TUI with an AI agent that works on the same screen, plus an MCP bridge for your editor's assis",
+    "id": "hellices/korvid",
+    "language": "Python",
+    "name": "hellices/korvid",
+    "stars": 3,
+    "updated_at": "2026-10-21T11:58:50Z",
+    "url": "https://github.com/hellices/korvid"
+  },
+  {
+    "description": "Claude Code In Motion \ud83e\udd17 Built with love and passion by an Anthropic enthusiast \ud83e\udef6",
+    "id": "AnwarDebes/Claude-Code-In-Motion",
+    "language": "JavaScript",
+    "name": "AnwarDebes/Claude-Code-In-Motion",
+    "stars": 0,
+    "updated_at": "2026-10-21T11:58:11Z",
+    "url": "https://github.com/AnwarDebes/Claude-Code-In-Motion"
+  },
+  {
+    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
+    "id": "shimo4228/contemplative-agent",
+    "language": "Python",
+    "name": "shimo4228/contemplative-agent",
+    "stars": 9,
+    "updated_at": "2026-10-21T11:55:45Z",
+    "url": "https://github.com/shimo4228/contemplative-agent"
+  },
+  {
+    "description": "Grocery agent for Dutch supermarkets: Claude tool use, meal planning and cheapest-basket pricing across 10 stores, with ",
+    "id": "MLeona020839/boodschappen-agent",
+    "language": "Python",
+    "name": "MLeona020839/boodschappen-agent",
+    "stars": 0,
+    "updated_at": "2026-10-21T11:53:13Z",
+    "url": "https://github.com/MLeona020839/boodschappen-agent"
+  },
+  {
+    "description": "\u628a\u4efb\u52a1\u6d3e\u53d1\u7ed9\u672c\u673a ZCode CLI \u65e0\u5934\u8fdb\u7a0b\u7684 DeepSeek Harness \u63d2\u4ef6\uff1a\u9762\u677f\u53ef\u76d1\u89c6/\u7ec8\u6b62/\u7eed\u8dd1/\u6362\u901a\u9053\uff1b\u5355\u5199\u8005\u6587\u4ef6\u9501 + \u7528\u91cf\u53f0\u8d26 + \u964d\u7ea7\u94fe\u3002\u652f\u6301\u4ed8\u8d39\u5957\u9910\u4e0e\u514d\u8d39\u989d\u5ea6\uff08Start Plan \u6d3b\u52a8\u8d60\u9001\uff09\u4e24\u79cd\u989d\u5ea6\uff0c\u540e\u8005\u6258\u7ba1\u5b98\u65b9",
+    "id": "Shuffle-1992/dsh-dispatch",
+    "language": "JavaScript",
+    "name": "Shuffle-1992/dsh-dispatch",
+    "stars": 2,
+    "updated_at": "2026-10-21T11:52:24Z",
+    "url": "https://github.com/Shuffle-1992/dsh-dispatch"
+  },
+  {
+    "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
+    "id": "roxm337/osint-agent",
+    "language": "Python",
+    "name": "roxm337/osint-agent",
+    "stars": 0,
+    "updated_at": "2026-10-21T11:52:17Z",
+    "url": "https://github.com/roxm337/osint-agent"
+  },
+  {
+    "description": "\u6cf0\u62c9\u745e\u4e9a tModLoader Mod \u5f00\u53d1\u53c2\u8003 skill\uff1a193 \u7bc7\u4e2d\u6587\u6559\u7a0b + 446 \u4e2a\u5b98\u65b9 ExampleMod \u8303\u4f8b\uff0c\u81ea\u5305\u542b\u672c\u5730\u77e5\u8bc6\u5e93\uff0c\u7ed9 AI \u7f16\u7a0b\u52a9\u624b\u7528",
+    "id": "chiyu-star499/terraria-modding-skill",
+    "language": "C#",
+    "name": "chiyu-star499/terraria-modding-skill",
+    "stars": 0,
+    "updated_at": "2026-10-21T11:53:33Z",
+    "url": "https://github.com/chiyu-star499/terraria-modding-skill"
+  },
+  {
+    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
+    "id": "robolong/zhengming",
+    "language": "TypeScript",
+    "name": "robolong/zhengming",
+    "stars": 0,
+    "updated_at": "2026-10-21T11:54:41Z",
+    "url": "https://github.com/robolong/zhengming"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-21T11:54:48Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-10-21T11:49:52Z",
+    "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
     "description": "Local-first Python vulnerability remediation with a 4B model on a 4 GB laptop GPU: fixes proven in a network-less Docker",
     "id": "mdsvr/AeroPatch",
     "language": "Python",
@@ -54,15 +144,6 @@
     "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
-    "description": "Claude Code In Motion \ud83e\udd17 Built with love and passion by an Anthropic enthusiast \ud83e\udef6",
-    "id": "AnwarDebes/Claude-Code-In-Motion",
-    "language": "JavaScript",
-    "name": "AnwarDebes/Claude-Code-In-Motion",
-    "stars": 0,
-    "updated_at": "2026-10-21T11:35:51Z",
-    "url": "https://github.com/AnwarDebes/Claude-Code-In-Motion"
-  },
-  {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
     "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
@@ -79,15 +160,6 @@
     "stars": 6,
     "updated_at": "2026-10-21T11:25:42Z",
     "url": "https://github.com/jakubkrzysztofsikora/reasoning-core"
-  },
-  {
-    "description": "\u628a\u4efb\u52a1\u6d3e\u53d1\u7ed9\u672c\u673a ZCode CLI \u65e0\u5934\u8fdb\u7a0b\u7684 DeepSeek Harness \u63d2\u4ef6\uff1a\u9762\u677f\u53ef\u76d1\u89c6/\u7ec8\u6b62/\u7eed\u8dd1/\u6362\u901a\u9053\uff1b\u5355\u5199\u8005\u6587\u4ef6\u9501 + \u7528\u91cf\u53f0\u8d26 + \u964d\u7ea7\u94fe\u3002\u652f\u6301\u4ed8\u8d39\u5957\u9910\u4e0e\u514d\u8d39\u989d\u5ea6\uff08Start Plan \u6d3b\u52a8\u8d60\u9001\uff09\u4e24\u79cd\u989d\u5ea6\uff0c\u540e\u8005\u6258\u7ba1\u5b98\u65b9",
-    "id": "Shuffle-1992/dsh-dispatch",
-    "language": "JavaScript",
-    "name": "Shuffle-1992/dsh-dispatch",
-    "stars": 2,
-    "updated_at": "2026-10-21T11:21:53Z",
-    "url": "https://github.com/Shuffle-1992/dsh-dispatch"
   },
   {
     "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
@@ -117,15 +189,6 @@
     "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
-    "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
-    "id": "roxm337/osint-agent",
-    "language": "Python",
-    "name": "roxm337/osint-agent",
-    "stars": 0,
-    "updated_at": "2026-10-21T11:17:56Z",
-    "url": "https://github.com/roxm337/osint-agent"
-  },
-  {
     "description": "Breadcrumbs \u2014 a Codex and Claude Code plugin by AndriiLavrekha for persistent project memory, session handoffs, and Mark",
     "id": "AndriiLavrekha/breadcrumbs",
     "language": "TypeScript",
@@ -153,15 +216,6 @@
     "url": "https://github.com/kyleslight/shun"
   },
   {
-    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
-    "id": "robolong/zhengming",
-    "language": "TypeScript",
-    "name": "robolong/zhengming",
-    "stars": 0,
-    "updated_at": "2026-10-21T11:36:32Z",
-    "url": "https://github.com/robolong/zhengming"
-  },
-  {
     "description": "\u8bc1\u636e\u7ea6\u675f\u7684\u4ee3\u7801\u8bca\u65ad\u5de5\u4f5c\u53f0\uff1a\u786e\u5b9a\u6027\u9759\u6001\u5206\u6790\u62e5\u6709\u6e90\u7801\u4e8b\u5b9e\uff0cLLM \u53ea\u63d0\u5047\u8bbe\uff0cresolver/validator \u51b3\u5b9a\u80fd\u5426\u7ed1\u5b9a\u56de\u771f\u5b9e\u64cd\u4f5c\u2014\u2014\u8bc1\u636e\u4e0d\u8db3\u4fdd\u6301 unknown/abstained\uff0c\u4ece\u67b6\u6784\u6291\u5236\u5e7b\u89c9\u3002\u5df2\u5728\u771f\u5b9e\u5f00\u6e90\u9879\u76ee\u53d1\u73b0 bug\uff08stun",
     "id": "xianyu-sheng/SmartBench",
     "language": "Python",
@@ -178,24 +232,6 @@
     "stars": 5,
     "updated_at": "2026-10-21T11:06:06Z",
     "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
-    "description": "Grocery agent for Dutch supermarkets: Claude tool use, meal planning and cheapest-basket pricing across 10 stores, with ",
-    "id": "MLeona020839/boodschappen-agent",
-    "language": "Python",
-    "name": "MLeona020839/boodschappen-agent",
-    "stars": 0,
-    "updated_at": "2026-10-21T11:05:15Z",
-    "url": "https://github.com/MLeona020839/boodschappen-agent"
-  },
-  {
-    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 9,
-    "updated_at": "2026-10-21T11:03:58Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -275,7 +311,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 15,
-    "updated_at": "2026-10-21T11:44:50Z",
+    "updated_at": "2026-10-21T11:56:49Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -373,7 +409,7 @@
     "id": "HKUDS/DeepCode",
     "language": "Python",
     "name": "HKUDS/DeepCode",
-    "stars": 16740,
+    "stars": 16739,
     "updated_at": "2026-10-21T10:11:38Z",
     "url": "https://github.com/HKUDS/DeepCode"
   },
@@ -385,24 +421,6 @@
     "stars": 203,
     "updated_at": "2026-10-21T10:08:57Z",
     "url": "https://github.com/EvannZhongg/Nosis"
-  },
-  {
-    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
-    "id": "kangwoo/aimon-core",
-    "language": "Java",
-    "name": "kangwoo/aimon-core",
-    "stars": 0,
-    "updated_at": "2026-10-21T11:34:42Z",
-    "url": "https://github.com/kangwoo/aimon-core"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-21T11:30:00Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -430,23 +448,5 @@
     "stars": 79,
     "updated_at": "2026-10-21T09:51:52Z",
     "url": "https://github.com/sky-valley/pi"
-  },
-  {
-    "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
-    "id": "edjafarov/kiagent-core",
-    "language": "TypeScript",
-    "name": "edjafarov/kiagent-core",
-    "stars": 7,
-    "updated_at": "2026-10-21T09:51:11Z",
-    "url": "https://github.com/edjafarov/kiagent-core"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3652,
-    "updated_at": "2026-10-21T09:48:10Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   }
 ]
