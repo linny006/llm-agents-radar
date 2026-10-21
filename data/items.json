@@ -1,5 +1,104 @@
 [
   {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-21T08:29:34Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Nosis is a lightweight personal agent runtime: per-session execution boundaries with OS-level sandboxing, computer use, ",
+    "id": "EvannZhongg/Nosis",
+    "language": "Python",
+    "name": "EvannZhongg/Nosis",
+    "stars": 176,
+    "updated_at": "2026-10-21T08:29:14Z",
+    "url": "https://github.com/EvannZhongg/Nosis"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 29,
+    "updated_at": "2026-10-21T08:28:55Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Fix context rot & pollution in long AI agent sessions. Subagents run in isolated processes \u2014 main agent stays read-only.",
+    "id": "Wolido/async-subagent-isolation",
+    "language": "TypeScript",
+    "name": "Wolido/async-subagent-isolation",
+    "stars": 5,
+    "updated_at": "2026-10-21T08:28:34Z",
+    "url": "https://github.com/Wolido/async-subagent-isolation"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-21T08:24:29Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Open-source Claude Code for academic papers \u2014 translate, write, review, and export research papers locally",
+    "id": "zuowen7/scholar-assistant-agent",
+    "language": "Python",
+    "name": "zuowen7/scholar-assistant-agent",
+    "stars": 3,
+    "updated_at": "2026-10-21T08:22:52Z",
+    "url": "https://github.com/zuowen7/scholar-assistant-agent"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-21T08:27:30Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
+    "id": "zeng6125-rgb/suixing",
+    "language": "Kotlin",
+    "name": "zeng6125-rgb/suixing",
+    "stars": 1,
+    "updated_at": "2026-10-21T08:20:15Z",
+    "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
+    "id": "robolong/zhengming",
+    "language": "TypeScript",
+    "name": "robolong/zhengming",
+    "stars": 0,
+    "updated_at": "2026-10-21T08:26:00Z",
+    "url": "https://github.com/robolong/zhengming"
+  },
+  {
+    "description": "Scrapling \u98ce\u683c\u9690\u8eab\u722c\u866b\u5e93\uff1a\u81ea\u9002\u5e94\u9009\u62e9\u5668 \u00b7 TLS \u6307\u7eb9 HTTP \u00b7 JS \u6e32\u67d3 \u00b7 \u56de\u8c03\u5f0f Spider \u6846\u67b6\uff08\u91cd\u8bd5/robots/\u53bb\u91cd/\u4e2d\u95f4\u4ef6\u7ba1\u9053\uff09\u00b7 JS \u9006\u5411 Agent \u00b7 \u9a8c\u8bc1\u7801\u8bc6\u522b \u00b7 MCP \u670d\u52a1 \u00b7 \u672c\u5730 We",
+    "id": "xiaomaozjj666/web-crawler",
+    "language": "Python",
+    "name": "xiaomaozjj666/web-crawler",
+    "stars": 5,
+    "updated_at": "2026-10-21T08:17:14Z",
+    "url": "https://github.com/xiaomaozjj666/web-crawler"
+  },
+  {
+    "description": "\u660e\u6708\u00b7\u4e07\u8c61 Mingyue Wanxiang \u2014 \u65b0\u80fd\u6e90\u51fa\u529b\u9884\u6d4b Agent\uff1a\u4ece\u5efa\u6a21\u5230\u957f\u671f\u8fd0\u884c | Renewable energy forecasting agent, from model selection to long-term ",
+    "id": "SLAI-wanxiang-automl/Wanxiang",
+    "language": "Python",
+    "name": "SLAI-wanxiang-automl/Wanxiang",
+    "stars": 0,
+    "updated_at": "2026-10-21T08:15:58Z",
+    "url": "https://github.com/SLAI-wanxiang-automl/Wanxiang"
+  },
+  {
     "description": "\u591a\u667a\u80fd\u4f53\u957f\u671f\u8bb0\u5fc6\u57fa\u7840\u8bbe\u65bd \u00b7 18 \u4e2a MCP \u5de5\u5177 \u00b7 OAuth 2.1 \u8d26\u6237\u6c99\u7bb1 \u00b7 Chat/Working/Coding \u4e09\u5c42\u8ba4\u77e5\u8bb0\u5fc6\uff08Rust + PostgreSQL/pgvector\uff09",
     "id": "orderye/memory-hub",
     "language": "Rust",
@@ -41,17 +140,8 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-21T08:15:05Z",
+    "updated_at": "2026-10-21T08:16:52Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
-    "id": "zeng6125-rgb/suixing",
-    "language": "Kotlin",
-    "name": "zeng6125-rgb/suixing",
-    "stars": 1,
-    "updated_at": "2026-10-21T08:08:59Z",
-    "url": "https://github.com/zeng6125-rgb/suixing"
   },
   {
     "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
@@ -63,40 +153,13 @@
     "url": "https://github.com/shimo4228/contemplative-agent"
   },
   {
-    "description": "Scrapling \u98ce\u683c\u9690\u8eab\u722c\u866b\u5e93\uff1a\u81ea\u9002\u5e94\u9009\u62e9\u5668 \u00b7 TLS \u6307\u7eb9 HTTP \u00b7 JS \u6e32\u67d3 \u00b7 \u56de\u8c03\u5f0f Spider \u6846\u67b6\uff08\u91cd\u8bd5/robots/\u53bb\u91cd/\u4e2d\u95f4\u4ef6\u7ba1\u9053\uff09\u00b7 JS \u9006\u5411 Agent \u00b7 \u9a8c\u8bc1\u7801\u8bc6\u522b \u00b7 MCP \u670d\u52a1 \u00b7 \u672c\u5730 We",
-    "id": "xiaomaozjj666/web-crawler",
-    "language": "Python",
-    "name": "xiaomaozjj666/web-crawler",
-    "stars": 5,
-    "updated_at": "2026-10-21T08:08:01Z",
-    "url": "https://github.com/xiaomaozjj666/web-crawler"
-  },
-  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 33580,
+    "stars": 33581,
     "updated_at": "2026-10-21T08:05:40Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "\u660e\u6708\u00b7\u4e07\u8c61 Mingyue Wanxiang \u2014 \u65b0\u80fd\u6e90\u51fa\u529b\u9884\u6d4b Agent\uff1a\u4ece\u5efa\u6a21\u5230\u957f\u671f\u8fd0\u884c | Renewable energy forecasting agent, from model selection to long-term ",
-    "id": "SLAI-wanxiang-automl/Wanxiang",
-    "language": "Python",
-    "name": "SLAI-wanxiang-automl/Wanxiang",
-    "stars": 0,
-    "updated_at": "2026-10-21T08:04:06Z",
-    "url": "https://github.com/SLAI-wanxiang-automl/Wanxiang"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 29,
-    "updated_at": "2026-10-21T08:15:11Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "\u660e\u6708\u00b7\u4e07\u8c61 \u00b7 \u8fd0\u884c\u7cfb\u7edf\uff08L2\uff09\uff1a\u65b0\u80fd\u6e90\u51fa\u529b\u9884\u6d4b\u7684\u4efb\u52a1\u8f68\u9053\u3001\u53d1\u5e03\u95e8\u7981\u4e0e\u5ba1\u8ba1\u6cbb\u7406 | Runtime layer of Mingyue Wanxiang",
@@ -122,8 +185,17 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5863,
-    "updated_at": "2026-10-21T08:01:29Z",
+    "updated_at": "2026-10-21T08:16:38Z",
     "url": "https://github.com/areal-project/AReaL"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "TypeScript",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8888,
+    "updated_at": "2026-10-21T08:01:29Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Restaurante real en producci\u00f3n: web, carta por QR y un agente de Telegram/WhatsApp que cambia precios. El modelo emite a",
@@ -142,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-10-21T07:54:04Z",
     "url": "https://github.com/oldfunk/paper-trading"
-  },
-  {
-    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
-    "id": "robolong/zhengming",
-    "language": "TypeScript",
-    "name": "robolong/zhengming",
-    "stars": 0,
-    "updated_at": "2026-10-21T08:12:52Z",
-    "url": "https://github.com/robolong/zhengming"
   },
   {
     "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
@@ -257,7 +320,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-10-21T08:12:33Z",
+    "updated_at": "2026-10-21T08:27:13Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -295,15 +358,6 @@
     "stars": 364,
     "updated_at": "2026-10-21T07:29:07Z",
     "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-21T07:28:37Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
@@ -351,15 +405,6 @@
     "url": "https://github.com/Stephenson-Software/create-dev-loop"
   },
   {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-21T08:04:27Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-21T07:01:07Z",
     "url": "https://github.com/RalfHermsen/x4-agent"
-  },
-  {
-    "description": "Turns a vague client complaint into a test that fails for the reason described \u2014 and only accepts a patch when that test",
-    "id": "phuchd210406/BuckyAgent",
-    "language": "Python",
-    "name": "phuchd210406/BuckyAgent",
-    "stars": 0,
-    "updated_at": "2026-10-21T06:56:46Z",
-    "url": "https://github.com/phuchd210406/BuckyAgent"
-  },
-  {
-    "description": "Linux distribution with a built-in, local-first AI assistant. A global hotkey opens an assistant that manages files, ins",
-    "id": "gonicolas12/My_OS",
-    "language": "Python",
-    "name": "gonicolas12/My_OS",
-    "stars": 2,
-    "updated_at": "2026-10-21T07:03:07Z",
-    "url": "https://github.com/gonicolas12/My_OS"
-  },
-  {
-    "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
-    "id": "ximing/vital",
-    "language": "TypeScript",
-    "name": "ximing/vital",
-    "stars": 3,
-    "updated_at": "2026-10-21T06:46:58Z",
-    "url": "https://github.com/ximing/vital"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-10-21T06:46:26Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Dialog fence for DSH / DSH Desktop: per-conversation behavioral rule fence injected into runtime context without breakin",
-    "id": "ILoveHAKU/dsh-dialog-fence",
-    "language": "JavaScript",
-    "name": "ILoveHAKU/dsh-dialog-fence",
-    "stars": 0,
-    "updated_at": "2026-10-21T06:45:35Z",
-    "url": "https://github.com/ILoveHAKU/dsh-dialog-fence"
   }
 ]
