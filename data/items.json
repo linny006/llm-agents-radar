@@ -1,12 +1,75 @@
 [
   {
+    "description": "Deterministic evidence-retrieval entry for the Agent Memory Leaderboard: Add and Search only, no answer generation",
+    "id": "aidless/just-agent",
+    "language": "Python",
+    "name": "aidless/just-agent",
+    "stars": 0,
+    "updated_at": "2026-10-21T13:57:25Z",
+    "url": "https://github.com/aidless/just-agent"
+  },
+  {
+    "description": "DevOps & Cloud SI Assistant that runs locally on taraengine for complete privacy.",
+    "id": "tara-vision/taracode",
+    "language": "Go",
+    "name": "tara-vision/taracode",
+    "stars": 51,
+    "updated_at": "2026-10-21T13:54:45Z",
+    "url": "https://github.com/tara-vision/taracode"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 15,
+    "updated_at": "2026-10-21T13:50:41Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
     "id": "zeng6125-rgb/suixing",
     "language": "Kotlin",
     "name": "zeng6125-rgb/suixing",
     "stars": 2,
-    "updated_at": "2026-10-21T13:41:16Z",
+    "updated_at": "2026-10-21T13:49:59Z",
     "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-21T13:49:35Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 822,
+    "updated_at": "2026-10-21T13:58:35Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "\u591a\u667a\u80fd\u4f53\u957f\u671f\u8bb0\u5fc6\u57fa\u7840\u8bbe\u65bd \u00b7 18 \u4e2a MCP \u5de5\u5177 \u00b7 OAuth 2.1 \u8d26\u6237\u6c99\u7bb1 \u00b7 Chat/Working/Coding \u4e09\u5c42\u8ba4\u77e5\u8bb0\u5fc6\uff08Rust + PostgreSQL/pgvector\uff09",
+    "id": "orderye/memory-hub",
+    "language": "Rust",
+    "name": "orderye/memory-hub",
+    "stars": 0,
+    "updated_at": "2026-10-21T13:47:27Z",
+    "url": "https://github.com/orderye/memory-hub"
+  },
+  {
+    "description": "\u77e5\u8bc6\u5bfb\u56deBOT \u2014\u2014 \u628a\u8bfe\u4ef6/\u8bfe\u672c/\u771f\u9898\u53d8\u6210\u4f1a\u8bb2\u8bfe\u3001\u4f1a\u51fa\u9898\u3001\u4f1a\u6279\u6539\u7684\u8bfe\u7a0b\u52a9\u6559\uff08LangGraph + RAG \u6df7\u5408\u68c0\u7d22 + SSE \u6d41\u5f0f\uff09",
+    "id": "catcatsquid/ai-agent-api",
+    "language": "Python",
+    "name": "catcatsquid/ai-agent-api",
+    "stars": 1,
+    "updated_at": "2026-10-21T13:46:01Z",
+    "url": "https://github.com/catcatsquid/ai-agent-api"
   },
   {
     "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
@@ -14,8 +77,17 @@
     "language": "TypeScript",
     "name": "robolong/zhengming",
     "stars": 0,
-    "updated_at": "2026-10-21T13:40:30Z",
+    "updated_at": "2026-10-21T13:53:24Z",
     "url": "https://github.com/robolong/zhengming"
+  },
+  {
+    "description": "Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Pyt",
+    "id": "feder-cr/invisible_playwright_mcp",
+    "language": "Python",
+    "name": "feder-cr/invisible_playwright_mcp",
+    "stars": 872,
+    "updated_at": "2026-10-21T13:39:17Z",
+    "url": "https://github.com/feder-cr/invisible_playwright_mcp"
   },
   {
     "description": "Grocery agent for Dutch supermarkets: Claude tool use, meal planning and cheapest-basket pricing across 10 stores, with ",
@@ -25,24 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T13:38:44Z",
     "url": "https://github.com/MLeona020839/boodschappen-agent"
-  },
-  {
-    "description": "DevOps & Cloud SI Assistant that runs locally on taraengine for complete privacy.",
-    "id": "tara-vision/taracode",
-    "language": "Go",
-    "name": "tara-vision/taracode",
-    "stars": 51,
-    "updated_at": "2026-10-21T13:41:09Z",
-    "url": "https://github.com/tara-vision/taracode"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-21T13:36:52Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "",
@@ -94,18 +148,9 @@
     "id": "strands-agents/harness-sdk",
     "language": "TypeScript",
     "name": "strands-agents/harness-sdk",
-    "stars": 8894,
+    "stars": 8895,
     "updated_at": "2026-10-21T13:26:27Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "\u77e5\u8bc6\u5bfb\u56deBOT \u2014\u2014 \u628a\u8bfe\u4ef6/\u8bfe\u672c/\u771f\u9898\u53d8\u6210\u4f1a\u8bb2\u8bfe\u3001\u4f1a\u51fa\u9898\u3001\u4f1a\u6279\u6539\u7684\u8bfe\u7a0b\u52a9\u6559\uff08LangGraph + RAG \u6df7\u5408\u68c0\u7d22 + SSE \u6d41\u5f0f\uff09",
-    "id": "catcatsquid/ai-agent-api",
-    "language": "Python",
-    "name": "catcatsquid/ai-agent-api",
-    "stars": 1,
-    "updated_at": "2026-10-21T13:45:13Z",
-    "url": "https://github.com/catcatsquid/ai-agent-api"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -175,7 +220,7 @@
     "id": "EvannZhongg/Nosis",
     "language": "Python",
     "name": "EvannZhongg/Nosis",
-    "stars": 243,
+    "stars": 246,
     "updated_at": "2026-10-21T13:05:30Z",
     "url": "https://github.com/EvannZhongg/Nosis"
   },
@@ -214,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T12:57:21Z",
     "url": "https://github.com/emiliaismailova3/aml-kyc-rag-assistant"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 822,
-    "updated_at": "2026-10-21T13:45:11Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "velog(velog.io) \uae00\uc744 \uc870\ud68c\ud558\uace0 \ub85c\uadf8\uc778\ud55c \ub0b4 \uacc4\uc815\uc758 \uae00\u00b7\ubc18\uc751\uc744 \ub2e4\ub8e8\ub294 LLM \uc5d0\uc774\uc804\ud2b8\uc6a9 \ube44\uacf5\uc2dd CLI \u00b7 Unofficial velog CLI for LLM agents",
@@ -284,7 +320,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5864,
-    "updated_at": "2026-10-21T12:34:08Z",
+    "updated_at": "2026-10-21T13:56:19Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -410,43 +446,7 @@
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 50,
-    "updated_at": "2026-10-21T13:44:05Z",
+    "updated_at": "2026-10-21T13:50:23Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "Keyboard-first Kubernetes TUI with an AI agent that works on the same screen, plus an MCP bridge for your editor's assis",
-    "id": "hellices/korvid",
-    "language": "Python",
-    "name": "hellices/korvid",
-    "stars": 3,
-    "updated_at": "2026-10-21T11:58:50Z",
-    "url": "https://github.com/hellices/korvid"
-  },
-  {
-    "description": "Claude Code In Motion \ud83e\udd17 Built with love and passion by an Anthropic enthusiast \ud83e\udef6",
-    "id": "AnwarDebes/Claude-Code-In-Motion",
-    "language": "JavaScript",
-    "name": "AnwarDebes/Claude-Code-In-Motion",
-    "stars": 0,
-    "updated_at": "2026-10-21T11:58:11Z",
-    "url": "https://github.com/AnwarDebes/Claude-Code-In-Motion"
-  },
-  {
-    "description": "\u6cf0\u62c9\u745e\u4e9a tModLoader Mod \u5f00\u53d1\u53c2\u8003 skill\uff1a193 \u7bc7\u4e2d\u6587\u6559\u7a0b + 446 \u4e2a\u5b98\u65b9 ExampleMod \u8303\u4f8b\uff0c\u81ea\u5305\u542b\u672c\u5730\u77e5\u8bc6\u5e93\uff0c\u7ed9 AI \u7f16\u7a0b\u52a9\u624b\u7528",
-    "id": "chiyu-star499/terraria-modding-skill",
-    "language": "C#",
-    "name": "chiyu-star499/terraria-modding-skill",
-    "stars": 0,
-    "updated_at": "2026-10-21T11:53:33Z",
-    "url": "https://github.com/chiyu-star499/terraria-modding-skill"
-  },
-  {
-    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
-    "id": "kangwoo/aimon-core",
-    "language": "Java",
-    "name": "kangwoo/aimon-core",
-    "stars": 0,
-    "updated_at": "2026-10-21T12:44:25Z",
-    "url": "https://github.com/kangwoo/aimon-core"
   }
 ]
