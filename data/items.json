@@ -1,12 +1,21 @@
 [
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "TypeScript",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8896,
-    "updated_at": "2026-10-21T18:30:08Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-10-21T18:43:10Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
+    "description": "CIRIS: an open-source AI assistant with a conscience you can check. Signed, auditable reasoning on every decision, a hum",
+    "id": "CIRISAI/CIRISAgent",
+    "language": "Python",
+    "name": "CIRISAI/CIRISAgent",
+    "stars": 58,
+    "updated_at": "2026-10-21T18:42:03Z",
+    "url": "https://github.com/CIRISAI/CIRISAgent"
   },
   {
     "description": "Coding agent CLI for local and hosted models, designed around small local models first",
@@ -14,8 +23,71 @@
     "language": "TypeScript",
     "name": "alexwkleung/reika",
     "stars": 11,
-    "updated_at": "2026-10-21T18:29:49Z",
+    "updated_at": "2026-10-21T18:41:24Z",
     "url": "https://github.com/alexwkleung/reika"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-21T18:40:02Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Hermes Agent on Termux (Android): one-command install from prebuilt, checksum-verified Python wheels. No compiling on yo",
+    "id": "bd-loser/hermes-bionic",
+    "language": "C++",
+    "name": "bd-loser/hermes-bionic",
+    "stars": 1,
+    "updated_at": "2026-10-21T18:37:44Z",
+    "url": "https://github.com/bd-loser/hermes-bionic"
+  },
+  {
+    "description": "The coordination layer for Multiplayer AI",
+    "id": "cohexa-ai/agent-coherence",
+    "language": "Python",
+    "name": "cohexa-ai/agent-coherence",
+    "stars": 11,
+    "updated_at": "2026-10-21T18:35:19Z",
+    "url": "https://github.com/cohexa-ai/agent-coherence"
+  },
+  {
+    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
+    "id": "hay-chat/hay-core",
+    "language": "TypeScript",
+    "name": "hay-chat/hay-core",
+    "stars": 5,
+    "updated_at": "2026-10-21T18:34:43Z",
+    "url": "https://github.com/hay-chat/hay-core"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 6370,
+    "updated_at": "2026-10-21T18:35:20Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 50,
+    "updated_at": "2026-10-21T18:31:20Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "TypeScript",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8896,
+    "updated_at": "2026-10-21T18:38:37Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Check your MCP servers for tool poisoning and rug pulls, and benchmark MCP security tools under verifiable conditions.",
@@ -25,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-10-21T18:27:25Z",
     "url": "https://github.com/Manishmaurya89/mcp-guardbench"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 6370,
-    "updated_at": "2026-10-21T18:27:22Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "\u628a\u4efb\u52a1\u6d3e\u53d1\u7ed9\u672c\u673a ZCode CLI \u65e0\u5934\u8fdb\u7a0b\u7684 DeepSeek Harness \u63d2\u4ef6\uff1a\u9762\u677f\u53ef\u76d1\u89c6/\u7ec8\u6b62/\u7eed\u8dd1/\u6362\u901a\u9053\uff1b\u5355\u5199\u8005\u6587\u4ef6\u9501 + \u7528\u91cf\u53f0\u8d26 + \u964d\u7ea7\u94fe\u3002\u652f\u6301\u4ed8\u8d39\u5957\u9910\u4e0e\u514d\u8d39\u989d\u5ea6\uff08Start Plan \u6d3b\u52a8\u8d60\u9001\uff09\u4e24\u79cd\u989d\u5ea6\uff0c\u540e\u8005\u6258\u7ba1\u5b98\u65b9",
@@ -72,15 +135,6 @@
     "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
-    "description": "The coordination layer for Multiplayer AI",
-    "id": "cohexa-ai/agent-coherence",
-    "language": "Python",
-    "name": "cohexa-ai/agent-coherence",
-    "stars": 11,
-    "updated_at": "2026-10-21T18:29:59Z",
-    "url": "https://github.com/cohexa-ai/agent-coherence"
-  },
-  {
     "description": "The Self-Improving Coding Agent",
     "id": "kanishka-namdeo/Unown",
     "language": "TypeScript",
@@ -113,7 +167,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3653,
-    "updated_at": "2026-10-21T18:09:00Z",
+    "updated_at": "2026-10-21T18:31:55Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -124,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-10-21T18:06:52Z",
     "url": "https://github.com/zeng6125-rgb/suixing"
-  },
-  {
-    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
-    "id": "hay-chat/hay-core",
-    "language": "TypeScript",
-    "name": "hay-chat/hay-core",
-    "stars": 5,
-    "updated_at": "2026-10-21T18:06:13Z",
-    "url": "https://github.com/hay-chat/hay-core"
   },
   {
     "description": "The LLM Anti-Framework",
@@ -160,15 +205,6 @@
     "stars": 81,
     "updated_at": "2026-10-21T17:49:32Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-21T17:39:00Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -279,15 +315,6 @@
     "url": "https://github.com/shakhruz/mila"
   },
   {
-    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 50,
-    "updated_at": "2026-10-21T18:03:19Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
     "description": "A tool-calling LLM agent that classifies documents and cannot mark its own work done - verbatim-evidence validation, bou",
     "id": "mithundas79/filing-agent",
     "language": "TypeScript",
@@ -356,7 +383,7 @@
     "language": "Python",
     "name": "evangoh122/quant_platform_1",
     "stars": 1,
-    "updated_at": "2026-10-21T18:28:22Z",
+    "updated_at": "2026-10-21T18:40:27Z",
     "url": "https://github.com/evangoh122/quant_platform_1"
   },
   {
@@ -405,15 +432,6 @@
     "url": "https://github.com/Canvixel-Eloweny/ai-bot-groupmate"
   },
   {
-    "description": "CIRIS: an open-source AI assistant with a conscience you can check. Signed, auditable reasoning on every decision, a hum",
-    "id": "CIRISAI/CIRISAgent",
-    "language": "Python",
-    "name": "CIRISAI/CIRISAgent",
-    "stars": 58,
-    "updated_at": "2026-10-21T16:13:01Z",
-    "url": "https://github.com/CIRISAI/CIRISAgent"
-  },
-  {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
     "id": "g761007/daily-dispatch",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 7,
     "updated_at": "2026-10-21T16:12:32Z",
     "url": "https://github.com/edjafarov/kiagent-core"
-  },
-  {
-    "description": "Nosis is a lightweight personal agent runtime: per-session execution boundaries with OS-level sandboxing, computer use, ",
-    "id": "EvannZhongg/Nosis",
-    "language": "Python",
-    "name": "EvannZhongg/Nosis",
-    "stars": 247,
-    "updated_at": "2026-10-21T16:09:20Z",
-    "url": "https://github.com/EvannZhongg/Nosis"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 132,
-    "updated_at": "2026-10-21T16:03:05Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
   }
 ]
