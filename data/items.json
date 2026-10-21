@@ -1,12 +1,21 @@
 [
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
+    "description": "Buyer agent that pays on Solana via Gecko (MCP): pins the request, checks every field, signs only if all match, otherwis",
+    "id": "Mialy333/my-gecko-buyer",
     "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
+    "name": "Mialy333/my-gecko-buyer",
     "stars": 0,
-    "updated_at": "2026-10-21T21:43:15Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+    "updated_at": "2026-10-21T21:59:51Z",
+    "url": "https://github.com/Mialy333/my-gecko-buyer"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 81,
+    "updated_at": "2026-10-21T21:59:13Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -14,8 +23,26 @@
     "language": "Swift",
     "name": "gerardogrisolini/ZenCODE",
     "stars": 6,
-    "updated_at": "2026-10-21T21:43:07Z",
+    "updated_at": "2026-10-21T21:48:00Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "Turn a repository URL into a fact-verified GitHub Wiki: clone, inventory, run and probe the subject, scaffold QA-clean p",
+    "id": "paulmann/github-wiki-llm-writer",
+    "language": "Python",
+    "name": "paulmann/github-wiki-llm-writer",
+    "stars": 0,
+    "updated_at": "2026-10-21T21:47:29Z",
+    "url": "https://github.com/paulmann/github-wiki-llm-writer"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-21T21:43:15Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Hermes Agent acting on your behalf in your personal Telegram account (not a bot): Telethon backend + Hermes platform plu",
@@ -32,7 +59,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-21T21:37:18Z",
+    "updated_at": "2026-10-21T22:00:17Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -52,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T21:11:19Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 81,
-    "updated_at": "2026-10-21T21:08:15Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "The Self-Improving Coding Agent",
@@ -430,23 +448,5 @@
     "stars": 6370,
     "updated_at": "2026-10-21T18:35:20Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 50,
-    "updated_at": "2026-10-21T19:20:43Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "Check your MCP servers for tool poisoning and rug pulls, and benchmark MCP security tools under verifiable conditions.",
-    "id": "Manishmaurya89/mcp-guardbench",
-    "language": "Python",
-    "name": "Manishmaurya89/mcp-guardbench",
-    "stars": 1,
-    "updated_at": "2026-10-21T18:27:25Z",
-    "url": "https://github.com/Manishmaurya89/mcp-guardbench"
   }
 ]
