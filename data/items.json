@@ -1,12 +1,66 @@
 [
   {
+    "description": "Local-first long-term memory and safer context compression for Hermes Agent \u2014 SQLite, no required services.",
+    "id": "indigokarasu/chronicle-agent-context-and-memory",
+    "language": "Python",
+    "name": "indigokarasu/chronicle-agent-context-and-memory",
+    "stars": 11,
+    "updated_at": "2026-10-21T19:27:34Z",
+    "url": "https://github.com/indigokarasu/chronicle-agent-context-and-memory"
+  },
+  {
+    "description": "The coordination layer for Multiplayer AI",
+    "id": "cohexa-ai/agent-coherence",
+    "language": "Python",
+    "name": "cohexa-ai/agent-coherence",
+    "stars": 11,
+    "updated_at": "2026-10-21T19:27:58Z",
+    "url": "https://github.com/cohexa-ai/agent-coherence"
+  },
+  {
+    "description": "\u628a\u4efb\u52a1\u6d3e\u53d1\u7ed9\u672c\u673a ZCode CLI \u65e0\u5934\u8fdb\u7a0b\u7684 DeepSeek Harness \u63d2\u4ef6\uff1a\u9762\u677f\u53ef\u76d1\u89c6/\u7ec8\u6b62/\u7eed\u8dd1/\u6362\u901a\u9053\uff1b\u5355\u5199\u8005\u6587\u4ef6\u9501 + \u7528\u91cf\u53f0\u8d26 + \u964d\u7ea7\u94fe\u3002\u652f\u6301\u4ed8\u8d39\u5957\u9910\u4e0e\u514d\u8d39\u989d\u5ea6\uff08Start Plan \u6d3b\u52a8\u8d60\u9001\uff09\u4e24\u79cd\u989d\u5ea6\uff0c\u540e\u8005\u6258\u7ba1\u5b98\u65b9",
+    "id": "Shuffle-1992/dsh-dispatch",
+    "language": "JavaScript",
+    "name": "Shuffle-1992/dsh-dispatch",
+    "stars": 2,
+    "updated_at": "2026-10-21T19:27:13Z",
+    "url": "https://github.com/Shuffle-1992/dsh-dispatch"
+  },
+  {
+    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
+    "id": "eshanized/M31A",
+    "language": "Rust",
+    "name": "eshanized/M31A",
+    "stars": 10,
+    "updated_at": "2026-10-21T19:25:13Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-21T19:24:02Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
     "description": "Hardens and patches PHP sites you did not build \u2014 SAPI-aware mitigation, cache-aware verification, and honest CVE patch ",
     "id": "imsarah/php2shell-hardening-for-agents",
     "language": "\u2014",
     "name": "imsarah/php2shell-hardening-for-agents",
     "stars": 0,
-    "updated_at": "2026-10-21T19:14:46Z",
+    "updated_at": "2026-10-21T19:20:26Z",
     "url": "https://github.com/imsarah/php2shell-hardening-for-agents"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 15,
+    "updated_at": "2026-10-21T19:19:40Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Persian AI agent for Liara: from 'here is my project' to a live app, then diagnose HTTP 500s, slowdowns and memory leaks",
@@ -45,15 +99,6 @@
     "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
-    "description": "\u628a\u4efb\u52a1\u6d3e\u53d1\u7ed9\u672c\u673a ZCode CLI \u65e0\u5934\u8fdb\u7a0b\u7684 DeepSeek Harness \u63d2\u4ef6\uff1a\u9762\u677f\u53ef\u76d1\u89c6/\u7ec8\u6b62/\u7eed\u8dd1/\u6362\u901a\u9053\uff1b\u5355\u5199\u8005\u6587\u4ef6\u9501 + \u7528\u91cf\u53f0\u8d26 + \u964d\u7ea7\u94fe\u3002\u652f\u6301\u4ed8\u8d39\u5957\u9910\u4e0e\u514d\u8d39\u989d\u5ea6\uff08Start Plan \u6d3b\u52a8\u8d60\u9001\uff09\u4e24\u79cd\u989d\u5ea6\uff0c\u540e\u8005\u6258\u7ba1\u5b98\u65b9",
-    "id": "Shuffle-1992/dsh-dispatch",
-    "language": "JavaScript",
-    "name": "Shuffle-1992/dsh-dispatch",
-    "stars": 2,
-    "updated_at": "2026-10-21T19:05:16Z",
-    "url": "https://github.com/Shuffle-1992/dsh-dispatch"
-  },
-  {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -81,24 +126,6 @@
     "url": "https://github.com/hay-chat/hay-core"
   },
   {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-21T18:54:08Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 15,
-    "updated_at": "2026-10-21T18:53:33Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "CIRIS: an open-source AI assistant with a conscience you can check. Signed, auditable reasoning on every decision, a hum",
     "id": "CIRISAI/CIRISAgent",
     "language": "Python",
@@ -108,12 +135,21 @@
     "url": "https://github.com/CIRISAI/CIRISAgent"
   },
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "TypeScript",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8897,
+    "updated_at": "2026-10-21T18:47:16Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
     "id": "citizenhicks/mobius",
     "language": "Rust",
     "name": "citizenhicks/mobius",
     "stars": 1,
-    "updated_at": "2026-10-21T18:43:10Z",
+    "updated_at": "2026-10-21T19:23:26Z",
     "url": "https://github.com/citizenhicks/mobius"
   },
   {
@@ -144,15 +180,6 @@
     "url": "https://github.com/bd-loser/hermes-bionic"
   },
   {
-    "description": "The coordination layer for Multiplayer AI",
-    "id": "cohexa-ai/agent-coherence",
-    "language": "Python",
-    "name": "cohexa-ai/agent-coherence",
-    "stars": 11,
-    "updated_at": "2026-10-21T19:03:40Z",
-    "url": "https://github.com/cohexa-ai/agent-coherence"
-  },
-  {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
@@ -167,17 +194,8 @@
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 50,
-    "updated_at": "2026-10-21T19:08:48Z",
+    "updated_at": "2026-10-21T19:20:43Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "TypeScript",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8896,
-    "updated_at": "2026-10-21T18:47:16Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Check your MCP servers for tool poisoning and rug pulls, and benchmark MCP security tools under verifiable conditions.",
@@ -338,7 +356,7 @@
     "language": "Python",
     "name": "sindredg/ai-security-platform",
     "stars": 0,
-    "updated_at": "2026-10-21T17:03:59Z",
+    "updated_at": "2026-10-21T19:17:27Z",
     "url": "https://github.com/sindredg/ai-security-platform"
   },
   {
@@ -365,7 +383,7 @@
     "language": "TypeScript",
     "name": "xanstomper/mochi",
     "stars": 1,
-    "updated_at": "2026-10-21T18:49:02Z",
+    "updated_at": "2026-10-21T19:27:43Z",
     "url": "https://github.com/xanstomper/mochi"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1204,
     "updated_at": "2026-10-21T16:21:11Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "id": "lsdefine/GenericAgent",
-    "language": "Python",
-    "name": "lsdefine/GenericAgent",
-    "stars": 14336,
-    "updated_at": "2026-10-21T16:19:29Z",
-    "url": "https://github.com/lsdefine/GenericAgent"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 29,
-    "updated_at": "2026-10-21T16:19:05Z",
-    "url": "https://github.com/tomcounsell/ai"
   }
 ]
