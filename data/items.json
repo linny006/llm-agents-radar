@@ -1,5 +1,95 @@
 [
   {
+    "description": "AI coding agent for terminal, desktop and browser. Visible execution records, LAN mesh collaboration across machines, ph",
+    "id": "holylong/luban",
+    "language": "TypeScript",
+    "name": "holylong/luban",
+    "stars": 0,
+    "updated_at": "2026-10-21T02:45:08Z",
+    "url": "https://github.com/holylong/luban"
+  },
+  {
+    "description": "\ud83c\udf5f \u9ea6\u9ea6\u7701\u94b1\u52a9\u624b \u2014\u2014 \u57fa\u4e8e\u9ea6\u5f53\u52b3\u4e2d\u56fd\u5b98\u65b9 MCP \u7684\u7701\u94b1\u70b9\u9910 Agent Skill\uff1a\u5b98\u65b9 calculate-price \u5b9e\u65f6\u6838\u4ef7 + \u5238\u7ec4\u5408\u4f18\u5316\uff08\u9884\u7b97/\u70ed\u91cf\u7ea6\u675f\uff09+ \u6c89\u9ed8\u6210\u672c\u4f53\u68c0 + \u5b98\u65b9\u5238/\u56e2\u8d2d\u5238/\u79ef\u5206\u56db\u6e20\u9053\u540c\u53e3\u5f84\u7b97\u7ec8\u5c40\u3002\u793e\u533a\u5f00\u6e90\uff0c",
+    "id": "yuxinlaile/McD-saver",
+    "language": "Python",
+    "name": "yuxinlaile/McD-saver",
+    "stars": 110,
+    "updated_at": "2026-10-21T02:45:07Z",
+    "url": "https://github.com/yuxinlaile/McD-saver"
+  },
+  {
+    "description": "Self-hosted AI execution agent for Discord: runs shell commands and edits files on your hosts, drives browsers, schedule",
+    "id": "Calmingstorm/Odin",
+    "language": "Python",
+    "name": "Calmingstorm/Odin",
+    "stars": 3,
+    "updated_at": "2026-10-21T02:44:21Z",
+    "url": "https://github.com/Calmingstorm/Odin"
+  },
+  {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 6,
+    "updated_at": "2026-10-21T02:43:38Z",
+    "url": "https://github.com/plurnk/plurnk"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-10-21T02:39:35Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 33559,
+    "updated_at": "2026-10-21T02:37:52Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "TypeScript",
+    "name": "dsswift/ion",
+    "stars": 4,
+    "updated_at": "2026-10-21T02:33:13Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "\u8f7b\u91cf\u7684agent\u6846\u67b6",
+    "id": "qiuzixu/agent-core",
+    "language": "Python",
+    "name": "qiuzixu/agent-core",
+    "stars": 1,
+    "updated_at": "2026-10-21T02:31:21Z",
+    "url": "https://github.com/qiuzixu/agent-core"
+  },
+  {
+    "description": "Scrapling \u98ce\u683c\u9690\u8eab\u722c\u866b\u5e93\uff1a\u81ea\u9002\u5e94\u9009\u62e9\u5668 \u00b7 TLS \u6307\u7eb9 HTTP \u00b7 JS \u6e32\u67d3 \u00b7 \u56de\u8c03\u5f0f Spider \u6846\u67b6\uff08\u91cd\u8bd5/robots/\u53bb\u91cd/\u4e2d\u95f4\u4ef6\u7ba1\u9053\uff09\u00b7 JS \u9006\u5411 Agent \u00b7 \u9a8c\u8bc1\u7801\u8bc6\u522b \u00b7 MCP \u670d\u52a1 \u00b7 \u672c\u5730 We",
+    "id": "xiaomaozjj666/web-crawler",
+    "language": "Python",
+    "name": "xiaomaozjj666/web-crawler",
+    "stars": 5,
+    "updated_at": "2026-10-21T02:31:15Z",
+    "url": "https://github.com/xiaomaozjj666/web-crawler"
+  },
+  {
+    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
+    "id": "robolong/zhengming",
+    "language": "TypeScript",
+    "name": "robolong/zhengming",
+    "stars": 0,
+    "updated_at": "2026-10-21T02:43:42Z",
+    "url": "https://github.com/robolong/zhengming"
+  },
+  {
     "description": "Offline Linux command assistant: 1.5B model on your machine, 1.1 GB disk, 1.3 GB RAM, no GPU, ~2 s per answer, checked a",
     "id": "arxhr007/lxask",
     "language": "Python",
@@ -14,7 +104,7 @@
     "language": "Go",
     "name": "yurika0211/lucky-agent",
     "stars": 15,
-    "updated_at": "2026-10-21T02:24:44Z",
+    "updated_at": "2026-10-21T02:41:41Z",
     "url": "https://github.com/yurika0211/lucky-agent"
   },
   {
@@ -34,24 +124,6 @@
     "stars": 7,
     "updated_at": "2026-10-21T02:20:19Z",
     "url": "https://github.com/kyleslight/shun"
-  },
-  {
-    "description": "\ud83c\udf5f \u9ea6\u9ea6\u7701\u94b1\u52a9\u624b \u2014\u2014 \u57fa\u4e8e\u9ea6\u5f53\u52b3\u4e2d\u56fd\u5b98\u65b9 MCP \u7684\u7701\u94b1\u70b9\u9910 Agent Skill\uff1a\u5b98\u65b9 calculate-price \u5b9e\u65f6\u6838\u4ef7 + \u5238\u7ec4\u5408\u4f18\u5316\uff08\u9884\u7b97/\u70ed\u91cf\u7ea6\u675f\uff09+ \u6c89\u9ed8\u6210\u672c\u4f53\u68c0 + \u5b98\u65b9\u5238/\u56e2\u8d2d\u5238/\u79ef\u5206\u56db\u6e20\u9053\u540c\u53e3\u5f84\u7b97\u7ec8\u5c40\u3002\u793e\u533a\u5f00\u6e90\uff0c",
-    "id": "yuxinlaile/McD-saver",
-    "language": "Python",
-    "name": "yuxinlaile/McD-saver",
-    "stars": 109,
-    "updated_at": "2026-10-21T02:19:44Z",
-    "url": "https://github.com/yuxinlaile/McD-saver"
-  },
-  {
-    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
-    "id": "robolong/zhengming",
-    "language": "TypeScript",
-    "name": "robolong/zhengming",
-    "stars": 0,
-    "updated_at": "2026-10-21T02:21:51Z",
-    "url": "https://github.com/robolong/zhengming"
   },
   {
     "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
@@ -99,15 +171,6 @@
     "url": "https://github.com/yasunosubaru/field-station-agent"
   },
   {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-10-21T02:21:31Z",
-    "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
     "description": "Agente con tool-calling real (API de OpenAI) sobre operaciones mineras: consultas SQL a DuckDB, scoring de riesgo credit",
     "id": "Rxyxs/chile-mining-ops-agent",
     "language": "Python",
@@ -140,7 +203,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-21T01:54:00Z",
+    "updated_at": "2026-10-21T02:37:39Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -212,7 +275,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 2,
-    "updated_at": "2026-10-21T01:34:43Z",
+    "updated_at": "2026-10-21T02:37:56Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -277,15 +340,6 @@
     "stars": 3,
     "updated_at": "2026-10-21T00:58:46Z",
     "url": "https://github.com/balfiky/openrook"
-  },
-  {
-    "description": "Scrapling \u98ce\u683c\u9690\u8eab\u722c\u866b\u5e93\uff1a\u81ea\u9002\u5e94\u9009\u62e9\u5668 \u00b7 TLS \u6307\u7eb9 HTTP \u00b7 JS \u6e32\u67d3 \u00b7 \u56de\u8c03\u5f0f Spider \u6846\u67b6\uff08\u91cd\u8bd5/robots/\u53bb\u91cd/\u4e2d\u95f4\u4ef6\u7ba1\u9053\uff09\u00b7 JS \u9006\u5411 Agent \u00b7 \u9a8c\u8bc1\u7801\u8bc6\u522b \u00b7 MCP \u670d\u52a1 \u00b7 \u672c\u5730 We",
-    "id": "xiaomaozjj666/web-crawler",
-    "language": "Python",
-    "name": "xiaomaozjj666/web-crawler",
-    "stars": 5,
-    "updated_at": "2026-10-21T00:51:50Z",
-    "url": "https://github.com/xiaomaozjj666/web-crawler"
   },
   {
     "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
@@ -378,15 +432,6 @@
     "url": "https://github.com/char-46/copilot-muze"
   },
   {
-    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
-    "id": "plurnk/plurnk",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk",
-    "stars": 6,
-    "updated_at": "2026-10-21T00:10:10Z",
-    "url": "https://github.com/plurnk/plurnk"
-  },
-  {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
     "id": "genaforvena/mishe-tauftauf",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-20T23:44:08Z",
     "url": "https://github.com/kangwoo/aimon-core"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 132,
-    "updated_at": "2026-10-20T23:43:47Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-10-20T23:43:08Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "CNC lathe troubleshooting agent on open-source DeerFlow: fault triage, alarm codes, PM, LOTO, work orders, with a multi-",
-    "id": "chen1255/machine-problems",
-    "language": "\u2014",
-    "name": "chen1255/machine-problems",
-    "stars": 0,
-    "updated_at": "2026-10-20T23:37:13Z",
-    "url": "https://github.com/chen1255/machine-problems"
-  },
-  {
-    "description": "tools for building better agents. From tool calls to Governance and anything in between get your custom agents to work r",
-    "id": "HaikeiLabs/agentware",
-    "language": "Python",
-    "name": "HaikeiLabs/agentware",
-    "stars": 0,
-    "updated_at": "2026-10-20T23:37:02Z",
-    "url": "https://github.com/HaikeiLabs/agentware"
-  },
-  {
-    "description": "Cognitive OS v3.0 \u2014 Universal AI agent operating system specification. 16-section cognitive architecture for Claude Code",
-    "id": "aegntic/cognitive-os",
-    "language": "HTML",
-    "name": "aegntic/cognitive-os",
-    "stars": 7,
-    "updated_at": "2026-10-20T23:20:59Z",
-    "url": "https://github.com/aegntic/cognitive-os"
   }
 ]
