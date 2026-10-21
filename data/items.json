@@ -1,5 +1,86 @@
 [
   {
+    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
+    "id": "memoways/ava-proto1",
+    "language": "TypeScript",
+    "name": "memoways/ava-proto1",
+    "stars": 0,
+    "updated_at": "2026-10-21T13:11:33Z",
+    "url": "https://github.com/memoways/ava-proto1"
+  },
+  {
+    "description": "Grocery agent for Dutch supermarkets: Claude tool use, meal planning and cheapest-basket pricing across 10 stores, with ",
+    "id": "MLeona020839/boodschappen-agent",
+    "language": "Python",
+    "name": "MLeona020839/boodschappen-agent",
+    "stars": 0,
+    "updated_at": "2026-10-21T13:08:25Z",
+    "url": "https://github.com/MLeona020839/boodschappen-agent"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-21T13:07:10Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "LLM-driven UAV agent runtime: criteria-contract planning, PX4 MAVLink / AirSim backends, and a web ground-control statio",
+    "id": "Yookio-Z/Airsim-Agent",
+    "language": "Python",
+    "name": "Yookio-Z/Airsim-Agent",
+    "stars": 0,
+    "updated_at": "2026-10-21T13:06:12Z",
+    "url": "https://github.com/Yookio-Z/Airsim-Agent"
+  },
+  {
+    "description": "Nosis is a lightweight personal agent runtime: per-session execution boundaries with OS-level sandboxing, computer use, ",
+    "id": "EvannZhongg/Nosis",
+    "language": "Python",
+    "name": "EvannZhongg/Nosis",
+    "stars": 241,
+    "updated_at": "2026-10-21T13:05:30Z",
+    "url": "https://github.com/EvannZhongg/Nosis"
+  },
+  {
+    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
+    "id": "RalfHermsen/x4-agent",
+    "language": "Python",
+    "name": "RalfHermsen/x4-agent",
+    "stars": 0,
+    "updated_at": "2026-10-21T13:05:21Z",
+    "url": "https://github.com/RalfHermsen/x4-agent"
+  },
+  {
+    "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
+    "id": "weihuaguo270-ops/react-agent",
+    "language": "Python",
+    "name": "weihuaguo270-ops/react-agent",
+    "stars": 0,
+    "updated_at": "2026-10-21T13:05:03Z",
+    "url": "https://github.com/weihuaguo270-ops/react-agent"
+  },
+  {
+    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
+    "id": "robolong/zhengming",
+    "language": "TypeScript",
+    "name": "robolong/zhengming",
+    "stars": 0,
+    "updated_at": "2026-10-21T13:04:30Z",
+    "url": "https://github.com/robolong/zhengming"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4458,
+    "updated_at": "2026-10-21T12:59:48Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
     "description": "\uc9c1\ubc29\u00b7\ub124\uc774\ubc84 \ubd80\ub3d9\uc0b0\u00b7\ub2f9\uadfc\ubd80\ub3d9\uc0b0 \ub9e4\ubb3c\uacfc \uc2e4\uac70\ub798\uac00\ub97c \uc870\ud68c\ud558\ub294 LLM \uc5d0\uc774\uc804\ud2b8\uc6a9 CLI \u00b7 Korean real estate listings CLI for LLM agents (Zigbang, Naver Real Esta",
     "id": "Rukkakka/jibsa",
     "language": "Python",
@@ -25,15 +106,6 @@
     "stars": 822,
     "updated_at": "2026-10-21T12:55:46Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
-    "id": "weihuaguo270-ops/react-agent",
-    "language": "Python",
-    "name": "weihuaguo270-ops/react-agent",
-    "stars": 0,
-    "updated_at": "2026-10-21T12:59:19Z",
-    "url": "https://github.com/weihuaguo270-ops/react-agent"
   },
   {
     "description": "velog(velog.io) \uae00\uc744 \uc870\ud68c\ud558\uace0 \ub85c\uadf8\uc778\ud55c \ub0b4 \uacc4\uc815\uc758 \uae00\u00b7\ubc18\uc751\uc744 \ub2e4\ub8e8\ub294 LLM \uc5d0\uc774\uc804\ud2b8\uc6a9 \ube44\uacf5\uc2dd CLI \u00b7 Unofficial velog CLI for LLM agents",
@@ -63,15 +135,6 @@
     "url": "https://github.com/kimddong23/skala-15w-ai-agent-capstone-miniproject"
   },
   {
-    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
-    "id": "memoways/ava-proto1",
-    "language": "TypeScript",
-    "name": "memoways/ava-proto1",
-    "stars": 0,
-    "updated_at": "2026-10-21T12:55:14Z",
-    "url": "https://github.com/memoways/ava-proto1"
-  },
-  {
     "description": "A voice AI companion for Windows and Linux. Create characters with ComfyUI, give them voices, emotions and memories. Loc",
     "id": "ArthurReboulSalze/Sherka-Compagnon",
     "language": "Rust",
@@ -90,15 +153,6 @@
     "url": "https://github.com/xieguigang/sciBASIC"
   },
   {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-21T12:51:51Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
     "id": "gerardogrisolini/ZenCODE",
     "language": "Swift",
@@ -115,24 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T12:46:30Z",
     "url": "https://github.com/Rukkakka/baenggipyo"
-  },
-  {
-    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
-    "id": "robolong/zhengming",
-    "language": "TypeScript",
-    "name": "robolong/zhengming",
-    "stars": 0,
-    "updated_at": "2026-10-21T12:52:53Z",
-    "url": "https://github.com/robolong/zhengming"
-  },
-  {
-    "description": "Nosis is a lightweight personal agent runtime: per-session execution boundaries with OS-level sandboxing, computer use, ",
-    "id": "EvannZhongg/Nosis",
-    "language": "Python",
-    "name": "EvannZhongg/Nosis",
-    "stars": 239,
-    "updated_at": "2026-10-21T12:40:43Z",
-    "url": "https://github.com/EvannZhongg/Nosis"
   },
   {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
@@ -169,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T12:33:46Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
-    "id": "RalfHermsen/x4-agent",
-    "language": "Python",
-    "name": "RalfHermsen/x4-agent",
-    "stars": 0,
-    "updated_at": "2026-10-21T12:31:50Z",
-    "url": "https://github.com/RalfHermsen/x4-agent"
   },
   {
     "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
@@ -261,15 +288,6 @@
     "url": "https://github.com/roxm337/osint-agent"
   },
   {
-    "description": "LLM-driven UAV agent runtime: criteria-contract planning, PX4 MAVLink / AirSim backends, and a web ground-control statio",
-    "id": "Yookio-Z/Airsim-Agent",
-    "language": "Python",
-    "name": "Yookio-Z/Airsim-Agent",
-    "stars": 0,
-    "updated_at": "2026-10-21T12:14:29Z",
-    "url": "https://github.com/Yookio-Z/Airsim-Agent"
-  },
-  {
     "description": "The coordination layer for Multiplayer AI",
     "id": "cohexa-ai/agent-coherence",
     "language": "Python",
@@ -340,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T11:58:11Z",
     "url": "https://github.com/AnwarDebes/Claude-Code-In-Motion"
-  },
-  {
-    "description": "Grocery agent for Dutch supermarkets: Claude tool use, meal planning and cheapest-basket pricing across 10 stores, with ",
-    "id": "MLeona020839/boodschappen-agent",
-    "language": "Python",
-    "name": "MLeona020839/boodschappen-agent",
-    "stars": 0,
-    "updated_at": "2026-10-21T11:53:13Z",
-    "url": "https://github.com/MLeona020839/boodschappen-agent"
   },
   {
     "description": "\u6cf0\u62c9\u745e\u4e9a tModLoader Mod \u5f00\u53d1\u53c2\u8003 skill\uff1a193 \u7bc7\u4e2d\u6587\u6559\u7a0b + 446 \u4e2a\u5b98\u65b9 ExampleMod \u8303\u4f8b\uff0c\u81ea\u5305\u542b\u672c\u5730\u77e5\u8bc6\u5e93\uff0c\u7ed9 AI \u7f16\u7a0b\u52a9\u624b\u7528",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-21T11:22:40Z",
     "url": "https://github.com/yasunosubaru/field-station-agent"
-  },
-  {
-    "description": "Breadcrumbs \u2014 a Codex and Claude Code plugin by AndriiLavrekha for persistent project memory, session handoffs, and Mark",
-    "id": "AndriiLavrekha/breadcrumbs",
-    "language": "TypeScript",
-    "name": "AndriiLavrekha/breadcrumbs",
-    "stars": 0,
-    "updated_at": "2026-10-21T11:17:16Z",
-    "url": "https://github.com/AndriiLavrekha/breadcrumbs"
   }
 ]
