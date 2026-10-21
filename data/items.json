@@ -1,12 +1,39 @@
 [
   {
+    "description": "Hardens and patches PHP sites you did not build \u2014 SAPI-aware mitigation, cache-aware verification, and honest CVE patch ",
+    "id": "imsarah/php2shell-hardening-for-agents",
+    "language": "\u2014",
+    "name": "imsarah/php2shell-hardening-for-agents",
+    "stars": 0,
+    "updated_at": "2026-10-21T19:14:46Z",
+    "url": "https://github.com/imsarah/php2shell-hardening-for-agents"
+  },
+  {
     "description": "Persian AI agent for Liara: from 'here is my project' to a live app, then diagnose HTTP 500s, slowdowns and memory leaks",
     "id": "ssepehrnoush/liara-copilot",
     "language": "JavaScript",
     "name": "ssepehrnoush/liara-copilot",
     "stars": 0,
-    "updated_at": "2026-10-21T18:57:04Z",
+    "updated_at": "2026-10-21T19:10:04Z",
     "url": "https://github.com/ssepehrnoush/liara-copilot"
+  },
+  {
+    "description": "Browser based Interface for Generative AI. Chat/Agent/Taskmanager Hybrid.",
+    "id": "Xyntopia/taskyon",
+    "language": "TypeScript",
+    "name": "Xyntopia/taskyon",
+    "stars": 56,
+    "updated_at": "2026-10-21T19:07:55Z",
+    "url": "https://github.com/Xyntopia/taskyon"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-21T19:06:56Z",
+    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "The Self-Improving Coding Agent",
@@ -14,8 +41,44 @@
     "language": "TypeScript",
     "name": "kanishka-namdeo/Unown",
     "stars": 0,
-    "updated_at": "2026-10-21T18:56:25Z",
+    "updated_at": "2026-10-21T19:06:04Z",
     "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "\u628a\u4efb\u52a1\u6d3e\u53d1\u7ed9\u672c\u673a ZCode CLI \u65e0\u5934\u8fdb\u7a0b\u7684 DeepSeek Harness \u63d2\u4ef6\uff1a\u9762\u677f\u53ef\u76d1\u89c6/\u7ec8\u6b62/\u7eed\u8dd1/\u6362\u901a\u9053\uff1b\u5355\u5199\u8005\u6587\u4ef6\u9501 + \u7528\u91cf\u53f0\u8d26 + \u964d\u7ea7\u94fe\u3002\u652f\u6301\u4ed8\u8d39\u5957\u9910\u4e0e\u514d\u8d39\u989d\u5ea6\uff08Start Plan \u6d3b\u52a8\u8d60\u9001\uff09\u4e24\u79cd\u989d\u5ea6\uff0c\u540e\u8005\u6258\u7ba1\u5b98\u65b9",
+    "id": "Shuffle-1992/dsh-dispatch",
+    "language": "JavaScript",
+    "name": "Shuffle-1992/dsh-dispatch",
+    "stars": 2,
+    "updated_at": "2026-10-21T19:05:16Z",
+    "url": "https://github.com/Shuffle-1992/dsh-dispatch"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 81,
+    "updated_at": "2026-10-21T19:01:48Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
+    "id": "Torvian-eu/chatbot",
+    "language": "Kotlin",
+    "name": "Torvian-eu/chatbot",
+    "stars": 4,
+    "updated_at": "2026-10-21T19:00:40Z",
+    "url": "https://github.com/Torvian-eu/chatbot"
+  },
+  {
+    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
+    "id": "hay-chat/hay-core",
+    "language": "TypeScript",
+    "name": "hay-chat/hay-core",
+    "stars": 5,
+    "updated_at": "2026-10-21T19:00:27Z",
+    "url": "https://github.com/hay-chat/hay-core"
   },
   {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
@@ -36,40 +99,13 @@
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
-    "description": "\u628a\u4efb\u52a1\u6d3e\u53d1\u7ed9\u672c\u673a ZCode CLI \u65e0\u5934\u8fdb\u7a0b\u7684 DeepSeek Harness \u63d2\u4ef6\uff1a\u9762\u677f\u53ef\u76d1\u89c6/\u7ec8\u6b62/\u7eed\u8dd1/\u6362\u901a\u9053\uff1b\u5355\u5199\u8005\u6587\u4ef6\u9501 + \u7528\u91cf\u53f0\u8d26 + \u964d\u7ea7\u94fe\u3002\u652f\u6301\u4ed8\u8d39\u5957\u9910\u4e0e\u514d\u8d39\u989d\u5ea6\uff08Start Plan \u6d3b\u52a8\u8d60\u9001\uff09\u4e24\u79cd\u989d\u5ea6\uff0c\u540e\u8005\u6258\u7ba1\u5b98\u65b9",
-    "id": "Shuffle-1992/dsh-dispatch",
-    "language": "JavaScript",
-    "name": "Shuffle-1992/dsh-dispatch",
-    "stars": 2,
-    "updated_at": "2026-10-21T18:51:43Z",
-    "url": "https://github.com/Shuffle-1992/dsh-dispatch"
-  },
-  {
-    "description": "Response playbook for php2shell (CVE-2026-109618 / CVE-2026-109619) and general PHP hardening \u2014 written for AI agents: m",
-    "id": "imsarah/php2shell-response-playbook",
-    "language": "\u2014",
-    "name": "imsarah/php2shell-response-playbook",
-    "stars": 0,
-    "updated_at": "2026-10-21T18:50:30Z",
-    "url": "https://github.com/imsarah/php2shell-response-playbook"
-  },
-  {
     "description": "CIRIS: an open-source AI assistant with a conscience you can check. Signed, auditable reasoning on every decision, a hum",
     "id": "CIRISAI/CIRISAgent",
     "language": "Python",
     "name": "CIRISAI/CIRISAgent",
     "stars": 58,
-    "updated_at": "2026-10-21T18:49:47Z",
+    "updated_at": "2026-10-21T19:12:48Z",
     "url": "https://github.com/CIRISAI/CIRISAgent"
-  },
-  {
-    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
-    "id": "hay-chat/hay-core",
-    "language": "TypeScript",
-    "name": "hay-chat/hay-core",
-    "stars": 5,
-    "updated_at": "2026-10-21T18:45:56Z",
-    "url": "https://github.com/hay-chat/hay-core"
   },
   {
     "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "cohexa-ai/agent-coherence",
     "stars": 11,
-    "updated_at": "2026-10-21T18:35:19Z",
+    "updated_at": "2026-10-21T19:03:40Z",
     "url": "https://github.com/cohexa-ai/agent-coherence"
   },
   {
@@ -131,7 +167,7 @@
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 50,
-    "updated_at": "2026-10-21T18:31:20Z",
+    "updated_at": "2026-10-21T19:08:48Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
@@ -216,15 +252,6 @@
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 81,
-    "updated_at": "2026-10-21T18:58:23Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -259,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T17:14:30Z",
     "url": "https://github.com/didiwannasleep0117/policy-agent-demo"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-21T17:13:26Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "Nym: a local-first personal digital companion (virtual pet in the spirit of Digimon and MegaMan Battle Network)",
@@ -409,7 +427,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 1203,
+    "stars": 1204,
     "updated_at": "2026-10-21T16:21:11Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -430,23 +448,5 @@
     "stars": 29,
     "updated_at": "2026-10-21T16:19:05Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 5,
-    "updated_at": "2026-10-21T16:15:06Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "Estrella Bot \u00b7 QQ \u7fa4 AI \u7fa4\u53cb\u673a\u5668\u4eba\u3002\u628a QQ \u5c0f\u53f7\u63a5\u7ed9\u4efb\u610f OpenAI \u517c\u5bb9\u6a21\u578b\uff08\u672c\u673a / DeepSeek / \u667a\u8c31 / \u901a\u4e49\uff09\uff0c\u8ba9 AI \u50cf\u7fa4\u53cb\u4e00\u6837\u63d2\u8bdd\u3001\u63a5\u6897\u3001\u6f5c\u6c34\u3002OneBot v11 + NapCat\uff0c\u96f6\u6784\u5efa",
-    "id": "Canvixel-Eloweny/ai-bot-groupmate",
-    "language": "JavaScript",
-    "name": "Canvixel-Eloweny/ai-bot-groupmate",
-    "stars": 91,
-    "updated_at": "2026-10-21T16:23:11Z",
-    "url": "https://github.com/Canvixel-Eloweny/ai-bot-groupmate"
   }
 ]
