@@ -1,5 +1,59 @@
 [
   {
+    "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
+    "id": "kashyaprajharsh/medha-agent",
+    "language": "Rust",
+    "name": "kashyaprajharsh/medha-agent",
+    "stars": 3,
+    "updated_at": "2026-10-21T20:59:24Z",
+    "url": "https://github.com/kashyaprajharsh/medha-agent"
+  },
+  {
+    "description": "A guide to New York City you can ask anything: an agent that answers from a live NYC lakehouse first, then city feeds an",
+    "id": "giridhar1103/NYCynapse.Ai",
+    "language": "Python",
+    "name": "giridhar1103/NYCynapse.Ai",
+    "stars": 0,
+    "updated_at": "2026-10-21T20:56:23Z",
+    "url": "https://github.com/giridhar1103/NYCynapse.Ai"
+  },
+  {
+    "description": "Hardens and patches PHP sites you did not build \u2014 SAPI-aware mitigation, cache-aware verification, and honest CVE patch ",
+    "id": "imsarah/php2shell-hardening-for-agents",
+    "language": "Python",
+    "name": "imsarah/php2shell-hardening-for-agents",
+    "stars": 0,
+    "updated_at": "2026-10-21T20:56:19Z",
+    "url": "https://github.com/imsarah/php2shell-hardening-for-agents"
+  },
+  {
+    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
+    "id": "eshanized/M31A",
+    "language": "Rust",
+    "name": "eshanized/M31A",
+    "stars": 10,
+    "updated_at": "2026-10-21T20:55:49Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "Hermes Agent on Termux (Android): one-command install from prebuilt, checksum-verified Python wheels. No compiling on yo",
+    "id": "bd-loser/hermes-bionic",
+    "language": "Shell",
+    "name": "bd-loser/hermes-bionic",
+    "stars": 1,
+    "updated_at": "2026-10-21T20:53:26Z",
+    "url": "https://github.com/bd-loser/hermes-bionic"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-10-21T20:52:25Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
     "id": "genaforvena/mishe-tauftauf",
     "language": "Python",
@@ -41,7 +95,7 @@
     "language": "TypeScript",
     "name": "xanstomper/mochi",
     "stars": 1,
-    "updated_at": "2026-10-21T20:39:45Z",
+    "updated_at": "2026-10-21T20:53:23Z",
     "url": "https://github.com/xanstomper/mochi"
   },
   {
@@ -50,7 +104,7 @@
     "language": "TypeScript",
     "name": "strands-agents/harness-sdk",
     "stars": 8899,
-    "updated_at": "2026-10-21T20:39:29Z",
+    "updated_at": "2026-10-21T20:48:35Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -70,15 +124,6 @@
     "stars": 873,
     "updated_at": "2026-10-21T20:36:34Z",
     "url": "https://github.com/feder-cr/invisible_playwright_mcp"
-  },
-  {
-    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
-    "id": "eshanized/M31A",
-    "language": "Rust",
-    "name": "eshanized/M31A",
-    "stars": 10,
-    "updated_at": "2026-10-21T20:33:45Z",
-    "url": "https://github.com/eshanized/M31A"
   },
   {
     "description": "A 1.5 credit graduate class about the nuts and bolts of LLMs.",
@@ -140,7 +185,7 @@
     "language": "Python",
     "name": "CIRISAI/CIRISAgent",
     "stars": 58,
-    "updated_at": "2026-10-21T20:31:00Z",
+    "updated_at": "2026-10-21T20:49:51Z",
     "url": "https://github.com/CIRISAI/CIRISAgent"
   },
   {
@@ -185,7 +230,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 2,
-    "updated_at": "2026-10-21T20:17:47Z",
+    "updated_at": "2026-10-21T20:51:37Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -205,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T19:52:21Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Hardens and patches PHP sites you did not build \u2014 SAPI-aware mitigation, cache-aware verification, and honest CVE patch ",
-    "id": "imsarah/php2shell-hardening-for-agents",
-    "language": "Python",
-    "name": "imsarah/php2shell-hardening-for-agents",
-    "stars": 0,
-    "updated_at": "2026-10-21T19:52:37Z",
-    "url": "https://github.com/imsarah/php2shell-hardening-for-agents"
   },
   {
     "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
@@ -315,6 +351,15 @@
     "url": "https://github.com/hay-chat/hay-core"
   },
   {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 886,
+    "updated_at": "2026-10-21T18:57:08Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
     "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
     "id": "citizenhicks/mobius",
     "language": "Rust",
@@ -331,15 +376,6 @@
     "stars": 11,
     "updated_at": "2026-10-21T18:41:24Z",
     "url": "https://github.com/alexwkleung/reika"
-  },
-  {
-    "description": "Hermes Agent on Termux (Android): one-command install from prebuilt, checksum-verified Python wheels. No compiling on yo",
-    "id": "bd-loser/hermes-bionic",
-    "language": "C++",
-    "name": "bd-loser/hermes-bionic",
-    "stars": 1,
-    "updated_at": "2026-10-21T18:59:57Z",
-    "url": "https://github.com/bd-loser/hermes-bionic"
   },
   {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-21T18:06:52Z",
     "url": "https://github.com/zeng6125-rgb/suixing"
-  },
-  {
-    "description": "The LLM Anti-Framework",
-    "id": "Mirascope/mirascope",
-    "language": "Python",
-    "name": "Mirascope/mirascope",
-    "stars": 1535,
-    "updated_at": "2026-10-21T18:02:45Z",
-    "url": "https://github.com/Mirascope/mirascope"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 884,
-    "updated_at": "2026-10-21T18:57:08Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-10-21T17:35:15Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4458,
-    "updated_at": "2026-10-21T20:29:37Z",
-    "url": "https://github.com/gptme/gptme"
   }
 ]
