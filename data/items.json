@@ -5,8 +5,44 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 15,
-    "updated_at": "2026-10-21T04:59:45Z",
+    "updated_at": "2026-10-21T05:12:15Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-21T05:12:11Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Auxo \u2014 \ub098\ub97c \uae30\uc5b5\ud558\ub294 \uc124\uce58\ud615 AI \uc5d0\uc774\uc804\ud2b8",
+    "id": "getauxo/auxo-app",
+    "language": "JavaScript",
+    "name": "getauxo/auxo-app",
+    "stars": 0,
+    "updated_at": "2026-10-21T05:05:09Z",
+    "url": "https://github.com/getauxo/auxo-app"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-21T05:03:40Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
+    "id": "bigfish1913/pi-rust",
+    "language": "Rust",
+    "name": "bigfish1913/pi-rust",
+    "stars": 127,
+    "updated_at": "2026-10-21T05:07:47Z",
+    "url": "https://github.com/bigfish1913/pi-rust"
   },
   {
     "description": "Agent-driven harness for Pi Coding Agent: TypeScript extensions, shared helpers, tooling and docs",
@@ -14,7 +50,7 @@
     "language": "TypeScript",
     "name": "x0retnop/pi-extensions",
     "stars": 0,
-    "updated_at": "2026-10-21T04:58:53Z",
+    "updated_at": "2026-10-21T05:00:20Z",
     "url": "https://github.com/x0retnop/pi-extensions"
   },
   {
@@ -25,15 +61,6 @@
     "stars": 3,
     "updated_at": "2026-10-21T04:56:24Z",
     "url": "https://github.com/QQSHI13/fox-agent"
-  },
-  {
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
-    "id": "bigfish1913/pi-rust",
-    "language": "Rust",
-    "name": "bigfish1913/pi-rust",
-    "stars": 127,
-    "updated_at": "2026-10-21T04:59:22Z",
-    "url": "https://github.com/bigfish1913/pi-rust"
   },
   {
     "description": "Mila \u2014 open-source digital employee in Telegram, built on Claude Code. Bring your own Claude account or API key; she rem",
@@ -238,7 +265,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 33564,
+    "stars": 33566,
     "updated_at": "2026-10-21T03:32:29Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -250,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-10-21T03:28:55Z",
     "url": "https://github.com/xiaomaozjj666/issue-agent"
-  },
-  {
-    "description": "Dialog fence for DSH / DSH Desktop: per-conversation behavioral rule fence injected into runtime context without breakin",
-    "id": "ILoveHAKU/dsh-dialog-fence",
-    "language": "JavaScript",
-    "name": "ILoveHAKU/dsh-dialog-fence",
-    "stars": 0,
-    "updated_at": "2026-10-21T03:28:28Z",
-    "url": "https://github.com/ILoveHAKU/dsh-dialog-fence"
   },
   {
     "description": "Vital Sentinel: \uc6e8\uc5b4\ub7ec\ube14 \uc2ec\ubc15 \uc774\uc0c1 \uc9d5\ud6c4 \uac10\uc9c0 AI \uc5d0\uc774\uc804\ud2b8 (LangGraph \u00b7 MCP \u00b7 RAG)",
@@ -297,15 +315,6 @@
     "url": "https://github.com/b0nsu/CTF-Rat"
   },
   {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-21T04:48:16Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "Tauri desktop shell for the local-first Bodhi agent: manages Bamboo startup/reuse and health; packaged builds open the B",
     "id": "bigduu/Bodhi-AI",
     "language": "JavaScript",
@@ -313,15 +322,6 @@
     "stars": 17,
     "updated_at": "2026-10-21T03:23:22Z",
     "url": "https://github.com/bigduu/Bodhi-AI"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-21T02:59:34Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
