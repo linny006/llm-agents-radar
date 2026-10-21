@@ -1,12 +1,66 @@
 [
   {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-21T22:27:14Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
+    "id": "alexwkleung/reika",
+    "language": "TypeScript",
+    "name": "alexwkleung/reika",
+    "stars": 11,
+    "updated_at": "2026-10-21T22:27:13Z",
+    "url": "https://github.com/alexwkleung/reika"
+  },
+  {
+    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
+    "id": "KaletoAI/anima-verse",
+    "language": "Python",
+    "name": "KaletoAI/anima-verse",
+    "stars": 4,
+    "updated_at": "2026-10-21T22:27:06Z",
+    "url": "https://github.com/KaletoAI/anima-verse"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-21T22:24:05Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
     "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 14,
-    "updated_at": "2026-10-21T22:14:16Z",
+    "updated_at": "2026-10-21T22:29:03Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 6,
+    "updated_at": "2026-10-21T22:18:54Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "Local RAG agent that answers only from its documents, cites sources, and refuses otherwise. 15/15 on a private grader wi",
+    "id": "Mialy333/grounded-research-agent",
+    "language": "Python",
+    "name": "Mialy333/grounded-research-agent",
+    "stars": 0,
+    "updated_at": "2026-10-21T22:17:44Z",
+    "url": "https://github.com/Mialy333/grounded-research-agent"
   },
   {
     "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker.",
@@ -14,7 +68,7 @@
     "language": "Rust",
     "name": "yologdev/yoagent",
     "stars": 365,
-    "updated_at": "2026-10-21T22:11:59Z",
+    "updated_at": "2026-10-21T22:30:06Z",
     "url": "https://github.com/yologdev/yoagent"
   },
   {
@@ -22,7 +76,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "TypeScript",
     "name": "strands-agents/harness-sdk",
-    "stars": 8899,
+    "stars": 8900,
     "updated_at": "2026-10-21T22:11:14Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -63,15 +117,6 @@
     "url": "https://github.com/Mialy333/my-gecko-buyer"
   },
   {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-21T22:02:59Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
     "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
     "id": "Soodok/Deepseek-Harness-Local-Android",
     "language": "Kotlin",
@@ -88,15 +133,6 @@
     "stars": 81,
     "updated_at": "2026-10-21T21:59:13Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 6,
-    "updated_at": "2026-10-21T21:48:00Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "Turn a repository URL into a fact-verified GitHub Wiki: clone, inventory, run and probe the subject, scaffold QA-clean p",
@@ -160,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T21:03:11Z",
     "url": "https://github.com/imsarah/php2shell-hardening-for-agents"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-21T21:03:03Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
@@ -338,7 +365,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 2,
-    "updated_at": "2026-10-21T21:45:10Z",
+    "updated_at": "2026-10-21T22:26:44Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-21T19:10:04Z",
     "url": "https://github.com/ssepehrnoush/liara-copilot"
-  },
-  {
-    "description": "Browser based Interface for Generative AI. Chat/Agent/Taskmanager Hybrid.",
-    "id": "Xyntopia/taskyon",
-    "language": "TypeScript",
-    "name": "Xyntopia/taskyon",
-    "stars": 56,
-    "updated_at": "2026-10-21T19:07:55Z",
-    "url": "https://github.com/Xyntopia/taskyon"
-  },
-  {
-    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
-    "id": "Torvian-eu/chatbot",
-    "language": "Kotlin",
-    "name": "Torvian-eu/chatbot",
-    "stars": 4,
-    "updated_at": "2026-10-21T19:00:40Z",
-    "url": "https://github.com/Torvian-eu/chatbot"
-  },
-  {
-    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
-    "id": "hay-chat/hay-core",
-    "language": "TypeScript",
-    "name": "hay-chat/hay-core",
-    "stars": 5,
-    "updated_at": "2026-10-21T19:00:27Z",
-    "url": "https://github.com/hay-chat/hay-core"
   }
 ]
