@@ -1,5 +1,77 @@
 [
   {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-21T20:14:03Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "Go",
+    "name": "dsswift/ion",
+    "stars": 4,
+    "updated_at": "2026-10-21T20:13:52Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-21T20:12:16Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-21T20:06:10Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
+    "id": "memoways/ava-proto1",
+    "language": "TypeScript",
+    "name": "memoways/ava-proto1",
+    "stars": 0,
+    "updated_at": "2026-10-21T20:08:04Z",
+    "url": "https://github.com/memoways/ava-proto1"
+  },
+  {
+    "description": "CIRIS: an open-source AI assistant with a conscience you can check. Signed, auditable reasoning on every decision, a hum",
+    "id": "CIRISAI/CIRISAgent",
+    "language": "Python",
+    "name": "CIRISAI/CIRISAgent",
+    "stars": 58,
+    "updated_at": "2026-10-21T20:12:10Z",
+    "url": "https://github.com/CIRISAI/CIRISAgent"
+  },
+  {
+    "description": "Local-first JARVIS-style desktop AI assistant for Windows. PySide6 HUD interface, Ollama LLM, always-on voice control, w",
+    "id": "daniallim/NOVA_AI_Assistant_New",
+    "language": "Python",
+    "name": "daniallim/NOVA_AI_Assistant_New",
+    "stars": 0,
+    "updated_at": "2026-10-21T20:02:27Z",
+    "url": "https://github.com/daniallim/NOVA_AI_Assistant_New"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 132,
+    "updated_at": "2026-10-21T20:00:14Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -54,15 +126,6 @@
     "url": "https://github.com/imsarah/php2shell-hardening-for-agents"
   },
   {
-    "description": "Local-first JARVIS-style desktop AI assistant for Windows. PySide6 HUD interface, Ollama LLM, always-on voice control, w",
-    "id": "daniallim/NOVA_AI_Assistant_New",
-    "language": "Python",
-    "name": "daniallim/NOVA_AI_Assistant_New",
-    "stars": 0,
-    "updated_at": "2026-10-21T19:46:10Z",
-    "url": "https://github.com/daniallim/NOVA_AI_Assistant_New"
-  },
-  {
     "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
     "id": "plurnk/plurnk",
     "language": "TypeScript",
@@ -70,15 +133,6 @@
     "stars": 6,
     "updated_at": "2026-10-21T19:46:07Z",
     "url": "https://github.com/plurnk/plurnk"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-21T19:44:10Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -153,15 +207,6 @@
     "url": "https://github.com/eshanized/M31A"
   },
   {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-21T19:24:02Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
     "description": "Persian AI agent for Liara: from 'here is my project' to a live app, then diagnose HTTP 500s, slowdowns and memory leaks",
     "id": "ssepehrnoush/liara-copilot",
     "language": "JavaScript",
@@ -178,15 +223,6 @@
     "stars": 56,
     "updated_at": "2026-10-21T19:07:55Z",
     "url": "https://github.com/Xyntopia/taskyon"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-21T19:06:04Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -214,15 +250,6 @@
     "stars": 5,
     "updated_at": "2026-10-21T19:00:27Z",
     "url": "https://github.com/hay-chat/hay-core"
-  },
-  {
-    "description": "CIRIS: an open-source AI assistant with a conscience you can check. Signed, auditable reasoning on every decision, a hum",
-    "id": "CIRISAI/CIRISAgent",
-    "language": "Python",
-    "name": "CIRISAI/CIRISAgent",
-    "stars": 58,
-    "updated_at": "2026-10-21T19:42:46Z",
-    "url": "https://github.com/CIRISAI/CIRISAgent"
   },
   {
     "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-21T17:01:02Z",
     "url": "https://github.com/shakhruz/mila"
-  },
-  {
-    "description": "A tool-calling LLM agent that classifies documents and cannot mark its own work done - verbatim-evidence validation, bou",
-    "id": "mithundas79/filing-agent",
-    "language": "TypeScript",
-    "name": "mithundas79/filing-agent",
-    "stars": 0,
-    "updated_at": "2026-10-21T16:58:34Z",
-    "url": "https://github.com/mithundas79/filing-agent"
-  },
-  {
-    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
-    "id": "xanstomper/mochi",
-    "language": "TypeScript",
-    "name": "xanstomper/mochi",
-    "stars": 1,
-    "updated_at": "2026-10-21T19:53:19Z",
-    "url": "https://github.com/xanstomper/mochi"
-  },
-  {
-    "description": "Deterministic evidence-retrieval entry for the Agent Memory Leaderboard: Add and Search only, no answer generation",
-    "id": "aidless/flowgrid-aml-retriever",
-    "language": "Python",
-    "name": "aidless/flowgrid-aml-retriever",
-    "stars": 0,
-    "updated_at": "2026-10-21T16:39:54Z",
-    "url": "https://github.com/aidless/flowgrid-aml-retriever"
   }
 ]
