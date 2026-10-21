@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-21 21:15 UTC
+> ⏰ Last updated: 2026-10-21 21:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [giridhar1103/NYCynapse.Ai](https://github.com/giridhar1103/NYCynapse.Ai) | 0 | Python | 2026-10-21 | A guide to New York City you can ask anything: an agent that answers from a live NYC lakehouse first, then city feeds an |
-| 2 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-10-21 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 3 | [OstaninKI/Hermes_tg_bridge](https://github.com/OstaninKI/Hermes_tg_bridge) | 0 | Python | 2026-10-21 | Hermes Agent on your personal Telegram account (userbot, not a bot): Telethon backend + Hermes platform plugin |
+| 1 | [OstaninKI/Hermes_tg_bridge](https://github.com/OstaninKI/Hermes_tg_bridge) | 0 | Python | 2026-10-21 | Hermes Agent on your personal Telegram account (userbot, not a bot): Telethon backend + Hermes platform plugin |
+| 2 | [giridhar1103/NYCynapse.Ai](https://github.com/giridhar1103/NYCynapse.Ai) | 0 | Python | 2026-10-21 | A guide to New York City you can ask anything: an agent that answers from a live NYC lakehouse first, then city feeds an |
+| 3 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-10-21 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
 | 4 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 81 | Python | 2026-10-21 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
 | 5 | [kanishka-namdeo/Unown](https://github.com/kanishka-namdeo/Unown) | 0 | TypeScript | 2026-10-21 | The Self-Improving Coding Agent |
 | 6 | [eshanized/M31A](https://github.com/eshanized/M31A) | 10 | Rust | 2026-10-21 | M31 Autonomous — Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe |

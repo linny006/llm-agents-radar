@@ -1,5 +1,14 @@
 [
   {
+    "description": "Hermes Agent on your personal Telegram account (userbot, not a bot): Telethon backend + Hermes platform plugin",
+    "id": "OstaninKI/Hermes_tg_bridge",
+    "language": "Python",
+    "name": "OstaninKI/Hermes_tg_bridge",
+    "stars": 0,
+    "updated_at": "2026-10-21T21:30:13Z",
+    "url": "https://github.com/OstaninKI/Hermes_tg_bridge"
+  },
+  {
     "description": "A guide to New York City you can ask anything: an agent that answers from a live NYC lakehouse first, then city feeds an",
     "id": "giridhar1103/NYCynapse.Ai",
     "language": "Python",
@@ -16,15 +25,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T21:11:19Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Hermes Agent on your personal Telegram account (userbot, not a bot): Telethon backend + Hermes platform plugin",
-    "id": "OstaninKI/Hermes_tg_bridge",
-    "language": "Python",
-    "name": "OstaninKI/Hermes_tg_bridge",
-    "stars": 0,
-    "updated_at": "2026-10-21T21:09:54Z",
-    "url": "https://github.com/OstaninKI/Hermes_tg_bridge"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
