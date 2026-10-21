@@ -1,5 +1,77 @@
 [
   {
+    "description": "Local-first Python vulnerability remediation with a 4B model on a 4 GB laptop GPU: fixes proven in a network-less Docker",
+    "id": "mdsvr/AeroPatch",
+    "language": "Python",
+    "name": "mdsvr/AeroPatch",
+    "stars": 0,
+    "updated_at": "2026-10-21T11:43:05Z",
+    "url": "https://github.com/mdsvr/AeroPatch"
+  },
+  {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 7,
+    "updated_at": "2026-10-21T11:42:34Z",
+    "url": "https://github.com/alex8224/synapse-agent"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 880,
+    "updated_at": "2026-10-21T11:39:36Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 822,
+    "updated_at": "2026-10-21T11:39:18Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
+    "id": "zeng6125-rgb/suixing",
+    "language": "Kotlin",
+    "name": "zeng6125-rgb/suixing",
+    "stars": 2,
+    "updated_at": "2026-10-21T11:37:38Z",
+    "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-21T11:36:18Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Claude Code In Motion \ud83e\udd17 Built with love and passion by an Anthropic enthusiast \ud83e\udef6",
+    "id": "AnwarDebes/Claude-Code-In-Motion",
+    "language": "JavaScript",
+    "name": "AnwarDebes/Claude-Code-In-Motion",
+    "stars": 0,
+    "updated_at": "2026-10-21T11:35:51Z",
+    "url": "https://github.com/AnwarDebes/Claude-Code-In-Motion"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-21T11:32:49Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
     "description": "Local pre-write containment & structural scoring for AI coding agents: deterministic policy, Mamba-3 SSM coherence, and ",
     "id": "jakubkrzysztofsikora/reasoning-core",
     "language": "Python",
@@ -54,15 +126,6 @@
     "url": "https://github.com/roxm337/osint-agent"
   },
   {
-    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
-    "id": "zeng6125-rgb/suixing",
-    "language": "Kotlin",
-    "name": "zeng6125-rgb/suixing",
-    "stars": 2,
-    "updated_at": "2026-10-21T11:17:22Z",
-    "url": "https://github.com/zeng6125-rgb/suixing"
-  },
-  {
     "description": "Breadcrumbs \u2014 a Codex and Claude Code plugin by AndriiLavrekha for persistent project memory, session handoffs, and Mark",
     "id": "AndriiLavrekha/breadcrumbs",
     "language": "TypeScript",
@@ -81,15 +144,6 @@
     "url": "https://github.com/wufufu770/d2d"
   },
   {
-    "description": "Local-first Python vulnerability remediation with a 4B model on a 4 GB laptop GPU: fixes proven in a network-less Docker",
-    "id": "mdsvr/AeroPatch",
-    "language": "Python",
-    "name": "mdsvr/AeroPatch",
-    "stars": 0,
-    "updated_at": "2026-10-21T11:30:07Z",
-    "url": "https://github.com/mdsvr/AeroPatch"
-  },
-  {
     "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
     "id": "kyleslight/shun",
     "language": "TypeScript",
@@ -104,7 +158,7 @@
     "language": "TypeScript",
     "name": "robolong/zhengming",
     "stars": 0,
-    "updated_at": "2026-10-21T11:09:58Z",
+    "updated_at": "2026-10-21T11:36:32Z",
     "url": "https://github.com/robolong/zhengming"
   },
   {
@@ -221,7 +275,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 15,
-    "updated_at": "2026-10-21T11:22:43Z",
+    "updated_at": "2026-10-21T11:44:50Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -261,29 +315,11 @@
     "url": "https://github.com/honestDS/MonoLight"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 822,
-    "updated_at": "2026-10-21T10:33:05Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-21T10:31:37Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 33587,
+    "stars": 33589,
     "updated_at": "2026-10-21T10:30:05Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -302,7 +338,7 @@
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 50,
-    "updated_at": "2026-10-21T10:46:13Z",
+    "updated_at": "2026-10-21T11:30:55Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
@@ -351,21 +387,12 @@
     "url": "https://github.com/EvannZhongg/Nosis"
   },
   {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-21T10:06:37Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
     "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
     "id": "kangwoo/aimon-core",
     "language": "Java",
     "name": "kangwoo/aimon-core",
     "stars": 0,
-    "updated_at": "2026-10-21T11:22:26Z",
+    "updated_at": "2026-10-21T11:34:42Z",
     "url": "https://github.com/kangwoo/aimon-core"
   },
   {
@@ -418,35 +445,8 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 3651,
+    "stars": 3652,
     "updated_at": "2026-10-21T09:48:10Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Per-episode logs of AI Megabase: Claude Opus 5.5 plays Factorio on its own",
-    "id": "aimegabase/ai-megabase-log",
-    "language": "\u2014",
-    "name": "aimegabase/ai-megabase-log",
-    "stars": 0,
-    "updated_at": "2026-10-21T09:45:26Z",
-    "url": "https://github.com/aimegabase/ai-megabase-log"
-  },
-  {
-    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
-    "id": "memoways/ava-proto1",
-    "language": "TypeScript",
-    "name": "memoways/ava-proto1",
-    "stars": 0,
-    "updated_at": "2026-10-21T09:44:03Z",
-    "url": "https://github.com/memoways/ava-proto1"
-  },
-  {
-    "description": "A voice AI companion for Windows and Linux. Create characters with ComfyUI, give them voices, emotions and memories. Loc",
-    "id": "ArthurReboulSalze/Sherka-Compagnon",
-    "language": "Rust",
-    "name": "ArthurReboulSalze/Sherka-Compagnon",
-    "stars": 1,
-    "updated_at": "2026-10-21T09:39:04Z",
-    "url": "https://github.com/ArthurReboulSalze/Sherka-Compagnon"
   }
 ]
