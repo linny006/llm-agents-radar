@@ -1,5 +1,86 @@
 [
   {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-10-21T04:14:50Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
+    "id": "sindredg/ai-security-platform",
+    "language": "Python",
+    "name": "sindredg/ai-security-platform",
+    "stars": 0,
+    "updated_at": "2026-10-21T04:13:49Z",
+    "url": "https://github.com/sindredg/ai-security-platform"
+  },
+  {
+    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
+    "id": "robolong/zhengming",
+    "language": "TypeScript",
+    "name": "robolong/zhengming",
+    "stars": 0,
+    "updated_at": "2026-10-21T04:13:44Z",
+    "url": "https://github.com/robolong/zhengming"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 81,
+    "updated_at": "2026-10-21T04:07:32Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-10-21T04:07:03Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "Local-first pentest agent: Go daemon + React dashboard + Codex/Claude Code/Pi runtimes, scoped projects, Blackboard, san",
+    "id": "n1majne3/CyberPenda",
+    "language": "Go",
+    "name": "n1majne3/CyberPenda",
+    "stars": 26,
+    "updated_at": "2026-10-21T04:06:39Z",
+    "url": "https://github.com/n1majne3/CyberPenda"
+  },
+  {
+    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
+    "id": "wufufu770/d2d",
+    "language": "JavaScript",
+    "name": "wufufu770/d2d",
+    "stars": 6,
+    "updated_at": "2026-10-21T04:03:48Z",
+    "url": "https://github.com/wufufu770/d2d"
+  },
+  {
+    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-21T04:03:29Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 305,
+    "updated_at": "2026-10-21T04:02:04Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
     "id": "gerardogrisolini/ZenCODE",
     "language": "Swift",
@@ -16,15 +97,6 @@
     "stars": 3,
     "updated_at": "2026-10-21T03:57:21Z",
     "url": "https://github.com/QQSHI13/fox-agent"
-  },
-  {
-    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
-    "id": "robolong/zhengming",
-    "language": "TypeScript",
-    "name": "robolong/zhengming",
-    "stars": 0,
-    "updated_at": "2026-10-21T03:56:11Z",
-    "url": "https://github.com/robolong/zhengming"
   },
   {
     "description": "\ud83c\udf5f \u9ea6\u9ea6\u7701\u94b1\u52a9\u624b \u2014\u2014 \u57fa\u4e8e\u9ea6\u5f53\u52b3\u4e2d\u56fd\u5b98\u65b9 MCP \u7684\u7701\u94b1\u70b9\u9910 Agent Skill\uff1a\u5b98\u65b9 calculate-price \u5b9e\u65f6\u6838\u4ef7 + \u5238\u7ec4\u5408\u4f18\u5316\uff08\u9884\u7b97/\u70ed\u91cf\u7ea6\u675f\uff09+ \u6c89\u9ed8\u6210\u672c\u4f53\u68c0 + \u5b98\u65b9\u5238/\u56e2\u8d2d\u5238/\u79ef\u5206\u56db\u6e20\u9053\u540c\u53e3\u5f84\u7b97\u7ec8\u5c40\u3002\u793e\u533a\u5f00\u6e90\uff0c",
@@ -63,15 +135,6 @@
     "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
-    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-21T03:34:20Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
     "description": "GitHub Issue \u5206\u6790\u667a\u80fd\u4f53\uff1a\u6709\u754c\u5de5\u5177\u5faa\u73af\u63a2\u7d22\u4ed3\u5e93\u6e90\u7801\uff0c\u751f\u6210\u5e26\u884c\u7ea7\u8bc1\u636e\u7684\u6839\u56e0\u62a5\u544a\u4e0e\u4fee\u590d\u8865\u4e01\uff0c\u9ed8\u8ba4\u53ea\u8bfb\uff0c\u53ef\u663e\u5f0f\u5f00\u542f PR \u63d0\u6848",
     "id": "xiaomaozjj666/issue-agent",
     "language": "Python",
@@ -108,15 +171,6 @@
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 81,
-    "updated_at": "2026-10-21T03:37:12Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
     "description": "Scrapling \u98ce\u683c\u9690\u8eab\u722c\u866b\u5e93\uff1a\u81ea\u9002\u5e94\u9009\u62e9\u5668 \u00b7 TLS \u6307\u7eb9 HTTP \u00b7 JS \u6e32\u67d3 \u00b7 \u56de\u8c03\u5f0f Spider \u6846\u67b6\uff08\u91cd\u8bd5/robots/\u53bb\u91cd/\u4e2d\u95f4\u4ef6\u7ba1\u9053\uff09\u00b7 JS \u9006\u5411 Agent \u00b7 \u9a8c\u8bc1\u7801\u8bc6\u522b \u00b7 MCP \u670d\u52a1 \u00b7 \u672c\u5730 We",
     "id": "xiaomaozjj666/web-crawler",
     "language": "Python",
@@ -149,7 +203,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-21T03:31:18Z",
+    "updated_at": "2026-10-21T04:07:22Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -160,15 +214,6 @@
     "stars": 17,
     "updated_at": "2026-10-21T03:23:22Z",
     "url": "https://github.com/bigduu/Bodhi-AI"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-10-21T03:05:25Z",
-    "url": "https://github.com/JSL107/personal_agents"
   },
   {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
@@ -324,15 +369,6 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "Local-first pentest agent: Go daemon + React dashboard + Codex/Claude Code/Pi runtimes, scoped projects, Blackboard, san",
-    "id": "n1majne3/CyberPenda",
-    "language": "Go",
-    "name": "n1majne3/CyberPenda",
-    "stars": 26,
-    "updated_at": "2026-10-21T03:12:17Z",
-    "url": "https://github.com/n1majne3/CyberPenda"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -412,41 +448,5 @@
     "stars": 55,
     "updated_at": "2026-10-21T01:31:56Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
-  },
-  {
-    "description": "DSH preset for contract-first ML planning, with 94 discipline rules and an evidence-led research workflow.",
-    "id": "Jxbbbbbyan/dsh-ml-planner",
-    "language": "JavaScript",
-    "name": "Jxbbbbbyan/dsh-ml-planner",
-    "stars": 0,
-    "updated_at": "2026-10-21T01:07:26Z",
-    "url": "https://github.com/Jxbbbbbyan/dsh-ml-planner"
-  },
-  {
-    "description": "Make any agent harness token-native.",
-    "id": "Lawhy/tokin",
-    "language": "Python",
-    "name": "Lawhy/tokin",
-    "stars": 5,
-    "updated_at": "2026-10-21T01:09:05Z",
-    "url": "https://github.com/Lawhy/tokin"
-  },
-  {
-    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
-    "id": "RalfHermsen/x4-agent",
-    "language": "Python",
-    "name": "RalfHermsen/x4-agent",
-    "stars": 0,
-    "updated_at": "2026-10-21T01:02:00Z",
-    "url": "https://github.com/RalfHermsen/x4-agent"
-  },
-  {
-    "description": "Open-source runtime for LLM agents with persistent memory, relationship history, modeled mood, and evolving identity. Ca",
-    "id": "balfiky/openrook",
-    "language": "Python",
-    "name": "balfiky/openrook",
-    "stars": 3,
-    "updated_at": "2026-10-21T00:58:46Z",
-    "url": "https://github.com/balfiky/openrook"
   }
 ]
