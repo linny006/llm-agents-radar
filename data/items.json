@@ -1,5 +1,95 @@
 [
   {
+    "description": "A voice AI companion for Windows and Linux. Create characters with ComfyUI, give them voices, emotions and memories. Loc",
+    "id": "ArthurReboulSalze/Sherka-Compagnon",
+    "language": "Rust",
+    "name": "ArthurReboulSalze/Sherka-Compagnon",
+    "stars": 1,
+    "updated_at": "2026-10-21T16:28:20Z",
+    "url": "https://github.com/ArthurReboulSalze/Sherka-Compagnon"
+  },
+  {
+    "description": "\u8f7b\u91cf\u7684agent\u6846\u67b6",
+    "id": "qiuzixu/agent-core",
+    "language": "Python",
+    "name": "qiuzixu/agent-core",
+    "stars": 1,
+    "updated_at": "2026-10-21T16:25:35Z",
+    "url": "https://github.com/qiuzixu/agent-core"
+  },
+  {
+    "description": "Databricks-native equity research platform: a PySpark Delta medallion lakehouse over market, options, SEC, COT and macro",
+    "id": "evangoh122/quant_platform_1",
+    "language": "Python",
+    "name": "evangoh122/quant_platform_1",
+    "stars": 1,
+    "updated_at": "2026-10-21T16:25:34Z",
+    "url": "https://github.com/evangoh122/quant_platform_1"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 1203,
+    "updated_at": "2026-10-21T16:21:11Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
+    "id": "hay-chat/hay-core",
+    "language": "TypeScript",
+    "name": "hay-chat/hay-core",
+    "stars": 5,
+    "updated_at": "2026-10-21T16:23:14Z",
+    "url": "https://github.com/hay-chat/hay-core"
+  },
+  {
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "id": "lsdefine/GenericAgent",
+    "language": "Python",
+    "name": "lsdefine/GenericAgent",
+    "stars": 14336,
+    "updated_at": "2026-10-21T16:19:29Z",
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 29,
+    "updated_at": "2026-10-21T16:19:05Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "TypeScript",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8896,
+    "updated_at": "2026-10-21T16:18:37Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Mila \u2014 open-source digital employee in Telegram, built on Claude Code. Bring your own Claude account or API key; she rem",
+    "id": "shakhruz/mila",
+    "language": "Python",
+    "name": "shakhruz/mila",
+    "stars": 1,
+    "updated_at": "2026-10-21T16:15:46Z",
+    "url": "https://github.com/shakhruz/mila"
+  },
+  {
+    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
+    "id": "zeng6125-rgb/suixing",
+    "language": "Kotlin",
+    "name": "zeng6125-rgb/suixing",
+    "stars": 2,
+    "updated_at": "2026-10-21T16:15:33Z",
+    "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
     "id": "kangkukjin/indiebizOS",
     "language": "Python",
@@ -14,7 +104,7 @@
     "language": "JavaScript",
     "name": "Canvixel-Eloweny/ai-bot-groupmate",
     "stars": 91,
-    "updated_at": "2026-10-21T16:14:25Z",
+    "updated_at": "2026-10-21T16:23:11Z",
     "url": "https://github.com/Canvixel-Eloweny/ai-bot-groupmate"
   },
   {
@@ -23,7 +113,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4458,
-    "updated_at": "2026-10-21T16:14:58Z",
+    "updated_at": "2026-10-21T16:27:24Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -70,15 +160,6 @@
     "stars": 247,
     "updated_at": "2026-10-21T16:09:20Z",
     "url": "https://github.com/EvannZhongg/Nosis"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 29,
-    "updated_at": "2026-10-21T16:08:09Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "The Self-Improving Coding Agent",
@@ -131,7 +212,7 @@
     "language": "Python",
     "name": "sindredg/ai-security-platform",
     "stars": 0,
-    "updated_at": "2026-10-21T16:13:01Z",
+    "updated_at": "2026-10-21T16:21:00Z",
     "url": "https://github.com/sindredg/ai-security-platform"
   },
   {
@@ -151,15 +232,6 @@
     "stars": 9,
     "updated_at": "2026-10-21T15:56:12Z",
     "url": "https://github.com/honestDS/MonoLight"
-  },
-  {
-    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
-    "id": "zeng6125-rgb/suixing",
-    "language": "Kotlin",
-    "name": "zeng6125-rgb/suixing",
-    "stars": 2,
-    "updated_at": "2026-10-21T15:56:00Z",
-    "url": "https://github.com/zeng6125-rgb/suixing"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -187,15 +259,6 @@
     "stars": 3,
     "updated_at": "2026-10-21T15:52:50Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "TypeScript",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8896,
-    "updated_at": "2026-10-21T16:15:07Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Persian AI agent for Liara: from 'here is my project' to a live app, then diagnose HTTP 500s, slowdowns and memory leaks",
@@ -257,7 +320,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 15,
-    "updated_at": "2026-10-21T15:40:20Z",
+    "updated_at": "2026-10-21T16:17:10Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-21T14:43:41Z",
     "url": "https://github.com/AandBorC/dsa-lite"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 81,
-    "updated_at": "2026-10-21T14:44:04Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Pyt",
-    "id": "feder-cr/invisible_playwright_mcp",
-    "language": "Python",
-    "name": "feder-cr/invisible_playwright_mcp",
-    "stars": 873,
-    "updated_at": "2026-10-21T14:37:57Z",
-    "url": "https://github.com/feder-cr/invisible_playwright_mcp"
-  },
-  {
-    "description": "\u4efb\u52a1\u578b\u591a\u8f6e\u5ba2\u670d Agent\uff1aYAML \u6d41\u7a0b DSL + \u5bf9\u8bdd\u72b6\u6001\u673a\uff08\u4e2d\u65ad/\u6302\u8d77/\u6062\u590d/\u53d6\u6d88\uff09+ \u9632\u5e7b\u89c9\u6821\u9a8c + \u4e09\u8f68\u9053\u5206\u6d41\uff0c\u542b\u6a21\u62df\u7535\u5546\u4e2d\u53f0\u4e0e 30 \u6bb5\u4f1a\u8bdd\u7ea7\u8bc4\u6d4b",
-    "id": "winc-0/zhifu",
-    "language": "Python",
-    "name": "winc-0/zhifu",
-    "stars": 0,
-    "updated_at": "2026-10-21T14:31:09Z",
-    "url": "https://github.com/winc-0/zhifu"
-  },
-  {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 308,
-    "updated_at": "2026-10-21T14:24:44Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3653,
-    "updated_at": "2026-10-21T16:07:08Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "\u4fe1\u606f\u91c7\u96c6\u88c5\u7f6e\u667a\u80fd\u8fd0\u7ef4 Agent \u7cfb\u7edf\uff1a\u7528 OpenSpec \u89c4\u683c\u9a71\u52a8\uff0c\u4ece\u544a\u8b66\u63a5\u5165\u5230\u8bca\u65ad\u62a5\u544a\u7684\u5b8c\u6574\u94fe\u8def\u3002",
-    "id": "hl7321/aiops-agent-reproduction",
-    "language": "Python",
-    "name": "hl7321/aiops-agent-reproduction",
-    "stars": 1,
-    "updated_at": "2026-10-21T14:21:26Z",
-    "url": "https://github.com/hl7321/aiops-agent-reproduction"
-  },
-  {
-    "description": "Check your MCP servers for tool poisoning and rug pulls, and benchmark MCP security tools under verifiable conditions.",
-    "id": "Manishmaurya89/mcp-guardbench",
-    "language": "Python",
-    "name": "Manishmaurya89/mcp-guardbench",
-    "stars": 1,
-    "updated_at": "2026-10-21T14:20:02Z",
-    "url": "https://github.com/Manishmaurya89/mcp-guardbench"
   }
 ]
