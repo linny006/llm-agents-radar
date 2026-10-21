@@ -1,5 +1,95 @@
 [
   {
+    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
+    "id": "robolong/zhengming",
+    "language": "TypeScript",
+    "name": "robolong/zhengming",
+    "stars": 0,
+    "updated_at": "2026-10-21T01:57:53Z",
+    "url": "https://github.com/robolong/zhengming"
+  },
+  {
+    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
+    "id": "kyleslight/shun",
+    "language": "TypeScript",
+    "name": "kyleslight/shun",
+    "stars": 7,
+    "updated_at": "2026-10-21T01:55:27Z",
+    "url": "https://github.com/kyleslight/shun"
+  },
+  {
+    "description": "Agente con tool-calling real (API de OpenAI) sobre operaciones mineras: consultas SQL a DuckDB, scoring de riesgo credit",
+    "id": "Rxyxs/chile-mining-ops-agent",
+    "language": "Python",
+    "name": "Rxyxs/chile-mining-ops-agent",
+    "stars": 0,
+    "updated_at": "2026-10-21T01:55:20Z",
+    "url": "https://github.com/Rxyxs/chile-mining-ops-agent"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "TypeScript",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8884,
+    "updated_at": "2026-10-21T01:54:19Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-10-21T01:58:02Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "Local-first pentest agent: Go daemon + React dashboard + Codex/Claude Code/Pi runtimes, scoped projects, Blackboard, san",
+    "id": "n1majne3/CyberPenda",
+    "language": "Go",
+    "name": "n1majne3/CyberPenda",
+    "stars": 26,
+    "updated_at": "2026-10-21T01:52:34Z",
+    "url": "https://github.com/n1majne3/CyberPenda"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-21T01:54:00Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-10-21T01:51:37Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "\ud83c\udf5f \u9ea6\u9ea6\u7701\u94b1\u52a9\u624b \u2014\u2014 \u57fa\u4e8e\u9ea6\u5f53\u52b3\u4e2d\u56fd\u5b98\u65b9 MCP \u7684\u7701\u94b1\u70b9\u9910 Agent Skill\uff1a\u5b98\u65b9 calculate-price \u5b9e\u65f6\u6838\u4ef7 + \u5238\u7ec4\u5408\u4f18\u5316\uff08\u9884\u7b97/\u70ed\u91cf\u7ea6\u675f\uff09+ \u6c89\u9ed8\u6210\u672c\u4f53\u68c0 + \u5b98\u65b9\u5238/\u56e2\u8d2d\u5238/\u79ef\u5206\u56db\u6e20\u9053\u540c\u53e3\u5f84\u7b97\u7ec8\u5c40\u3002\u793e\u533a\u5f00\u6e90\uff0c",
+    "id": "yuxinlaile/McD-saver",
+    "language": "Python",
+    "name": "yuxinlaile/McD-saver",
+    "stars": 109,
+    "updated_at": "2026-10-21T01:50:43Z",
+    "url": "https://github.com/yuxinlaile/McD-saver"
+  },
+  {
+    "description": "Cron scheduling for the DeepSeek Harness \u2014 bounded tasks with calendar & interval rules, delivered to live agents",
+    "id": "fan56/dsh-cron",
+    "language": "TypeScript",
+    "name": "fan56/dsh-cron",
+    "stars": 0,
+    "updated_at": "2026-10-21T01:47:05Z",
+    "url": "https://github.com/fan56/dsh-cron"
+  },
+  {
     "description": "LLM-powered TeamSpeak bot | LLM\u9a71\u52a8\u7684TeamSpeak\u673a\u5668\u4eba",
     "id": "Dr1mH4X/TeamSpeakClaw",
     "language": "Rust",
@@ -16,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T01:43:07Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
-    "id": "robolong/zhengming",
-    "language": "TypeScript",
-    "name": "robolong/zhengming",
-    "stars": 0,
-    "updated_at": "2026-10-21T01:36:13Z",
-    "url": "https://github.com/robolong/zhengming"
   },
   {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
@@ -61,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-10-21T01:34:43Z",
     "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-21T01:44:38Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -153,6 +225,15 @@
     "url": "https://github.com/xiaomaozjj666/web-crawler"
   },
   {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 304,
+    "updated_at": "2026-10-21T00:49:51Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
     "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
     "id": "xanstomper/mochi",
     "language": "TypeScript",
@@ -160,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-10-21T00:49:33Z",
     "url": "https://github.com/xanstomper/mochi"
-  },
-  {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 303,
-    "updated_at": "2026-10-21T00:49:51Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
   {
     "description": "\u603b\u7ed3Prompt&LLM\u8bba\u6587\uff0c\u5f00\u6e90\u6570\u636e&\u6a21\u578b\uff0cAIGC\u5e94\u7528",
@@ -252,15 +324,6 @@
     "url": "https://github.com/char-46/copilot-muze"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "TypeScript",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8884,
-    "updated_at": "2026-10-21T00:18:11Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
     "id": "plurnk/plurnk",
     "language": "TypeScript",
@@ -324,15 +387,6 @@
     "url": "https://github.com/HaikeiLabs/agentware"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-10-20T23:26:14Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Cognitive OS v3.0 \u2014 Universal AI agent operating system specification. 16-section cognitive architecture for Claude Code",
     "id": "aegntic/cognitive-os",
     "language": "HTML",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-20T22:47:40Z",
     "url": "https://github.com/ArthurReboulSalze/Sherka-Compagnon"
-  },
-  {
-    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
-    "id": "alexwkleung/reika",
-    "language": "TypeScript",
-    "name": "alexwkleung/reika",
-    "stars": 11,
-    "updated_at": "2026-10-20T22:17:21Z",
-    "url": "https://github.com/alexwkleung/reika"
-  },
-  {
-    "description": "Turn Webpage to LLM friendly input text. Similar to Firecrawl and Jina Reader API. Makes RAG, AI web scraping, image & w",
-    "id": "m92vyas/llm-reader",
-    "language": "Python",
-    "name": "m92vyas/llm-reader",
-    "stars": 313,
-    "updated_at": "2026-10-20T21:59:07Z",
-    "url": "https://github.com/m92vyas/llm-reader"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 822,
-    "updated_at": "2026-10-20T21:43:53Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
-    "id": "xieguigang/sciBASIC",
-    "language": "Visual Basic .NET",
-    "name": "xieguigang/sciBASIC",
-    "stars": 79,
-    "updated_at": "2026-10-20T21:17:37Z",
-    "url": "https://github.com/xieguigang/sciBASIC"
-  },
-  {
-    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
-    "id": "gabrielmaialva33/winx-code-agent",
-    "language": "Rust",
-    "name": "gabrielmaialva33/winx-code-agent",
-    "stars": 37,
-    "updated_at": "2026-10-20T21:08:39Z",
-    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 364,
-    "updated_at": "2026-10-20T20:59:35Z",
-    "url": "https://github.com/yologdev/yoagent"
   }
 ]
