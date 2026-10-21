@@ -1,12 +1,12 @@
 [
   {
-    "description": "Bounded cron & interval scheduling for the DeepSeek Harness (dsh) \u2014 every task bound to exactly one session (creator or ",
-    "id": "fan56/dsh-cron",
+    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
+    "id": "duongnq2798/vestiarion",
     "language": "TypeScript",
-    "name": "fan56/dsh-cron",
-    "stars": 0,
-    "updated_at": "2026-10-21T03:15:01Z",
-    "url": "https://github.com/fan56/dsh-cron"
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-21T03:30:06Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "GitHub Issue \u5206\u6790\u667a\u80fd\u4f53\uff1a\u6709\u754c\u5de5\u5177\u5faa\u73af\u63a2\u7d22\u4ed3\u5e93\u6e90\u7801\uff0c\u751f\u6210\u5e26\u884c\u7ea7\u8bc1\u636e\u7684\u6839\u56e0\u62a5\u544a\u4e0e\u4fee\u590d\u8865\u4e01\uff0c\u9ed8\u8ba4\u53ea\u8bfb\uff0c\u53ef\u663e\u5f0f\u5f00\u542f PR \u63d0\u6848",
@@ -14,8 +14,107 @@
     "language": "Python",
     "name": "xiaomaozjj666/issue-agent",
     "stars": 1,
-    "updated_at": "2026-10-21T03:12:27Z",
+    "updated_at": "2026-10-21T03:28:55Z",
     "url": "https://github.com/xiaomaozjj666/issue-agent"
+  },
+  {
+    "description": "Dialog fence for DSH / DSH Desktop: per-conversation behavioral rule fence injected into runtime context without breakin",
+    "id": "ILoveHAKU/dsh-dialog-fence",
+    "language": "JavaScript",
+    "name": "ILoveHAKU/dsh-dialog-fence",
+    "stars": 0,
+    "updated_at": "2026-10-21T03:28:28Z",
+    "url": "https://github.com/ILoveHAKU/dsh-dialog-fence"
+  },
+  {
+    "description": "Vital Sentinel: \uc6e8\uc5b4\ub7ec\ube14 \uc2ec\ubc15 \uc774\uc0c1 \uc9d5\ud6c4 \uac10\uc9c0 AI \uc5d0\uc774\uc804\ud2b8 (LangGraph \u00b7 MCP \u00b7 RAG)",
+    "id": "kimddong23/skala-15w-ai-agent-capstone-miniproject",
+    "language": "Python",
+    "name": "kimddong23/skala-15w-ai-agent-capstone-miniproject",
+    "stars": 0,
+    "updated_at": "2026-10-21T03:28:24Z",
+    "url": "https://github.com/kimddong23/skala-15w-ai-agent-capstone-miniproject"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 6,
+    "updated_at": "2026-10-21T03:28:22Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
+    "id": "robolong/zhengming",
+    "language": "TypeScript",
+    "name": "robolong/zhengming",
+    "stars": 0,
+    "updated_at": "2026-10-21T03:27:48Z",
+    "url": "https://github.com/robolong/zhengming"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-21T03:24:24Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-21T03:24:02Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 81,
+    "updated_at": "2026-10-21T03:21:31Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Scrapling \u98ce\u683c\u9690\u8eab\u722c\u866b\u5e93\uff1a\u81ea\u9002\u5e94\u9009\u62e9\u5668 \u00b7 TLS \u6307\u7eb9 HTTP \u00b7 JS \u6e32\u67d3 \u00b7 \u56de\u8c03\u5f0f Spider \u6846\u67b6\uff08\u91cd\u8bd5/robots/\u53bb\u91cd/\u4e2d\u95f4\u4ef6\u7ba1\u9053\uff09\u00b7 JS \u9006\u5411 Agent \u00b7 \u9a8c\u8bc1\u7801\u8bc6\u522b \u00b7 MCP \u670d\u52a1 \u00b7 \u672c\u5730 We",
+    "id": "xiaomaozjj666/web-crawler",
+    "language": "Python",
+    "name": "xiaomaozjj666/web-crawler",
+    "stars": 5,
+    "updated_at": "2026-10-21T03:21:21Z",
+    "url": "https://github.com/xiaomaozjj666/web-crawler"
+  },
+  {
+    "description": "Bounded cron & interval scheduling for the DeepSeek Harness (dsh) \u2014 every task bound to exactly one session (creator or ",
+    "id": "fan56/dsh-cron",
+    "language": "TypeScript",
+    "name": "fan56/dsh-cron",
+    "stars": 0,
+    "updated_at": "2026-10-21T03:20:30Z",
+    "url": "https://github.com/fan56/dsh-cron"
+  },
+  {
+    "description": "Self-contained pwn/rev CTF solving kit for Claude and Codex \u2014 tools, doctrine, knowledge, and automated analysis workflo",
+    "id": "b0nsu/CTF-Rat",
+    "language": "Python",
+    "name": "b0nsu/CTF-Rat",
+    "stars": 5,
+    "updated_at": "2026-10-21T03:20:15Z",
+    "url": "https://github.com/b0nsu/CTF-Rat"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-21T03:22:30Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
@@ -32,35 +131,17 @@
     "language": "JavaScript",
     "name": "bigduu/Bodhi-AI",
     "stars": 17,
-    "updated_at": "2026-10-21T03:11:33Z",
+    "updated_at": "2026-10-21T03:23:22Z",
     "url": "https://github.com/bigduu/Bodhi-AI"
-  },
-  {
-    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-21T03:12:59Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 33561,
+    "stars": 33562,
     "updated_at": "2026-10-21T03:07:28Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
-    "id": "robolong/zhengming",
-    "language": "TypeScript",
-    "name": "robolong/zhengming",
-    "stars": 0,
-    "updated_at": "2026-10-21T03:07:38Z",
-    "url": "https://github.com/robolong/zhengming"
   },
   {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
@@ -85,7 +166,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 1196,
+    "stars": 1197,
     "updated_at": "2026-10-21T03:00:24Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -115,24 +196,6 @@
     "stars": 6484,
     "updated_at": "2026-10-21T02:57:06Z",
     "url": "https://github.com/jeinlee1991/chinese-llm-benchmark"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-21T02:53:55Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
-    "description": "Vital Sentinel: \uc6e8\uc5b4\ub7ec\ube14 \uc2ec\ubc15 \uc774\uc0c1 \uc9d5\ud6c4 \uac10\uc9c0 AI \uc5d0\uc774\uc804\ud2b8 (LangGraph \u00b7 MCP \u00b7 RAG)",
-    "id": "kimddong23/skala-15w-ai-agent-capstone-miniproject",
-    "language": "Python",
-    "name": "kimddong23/skala-15w-ai-agent-capstone-miniproject",
-    "stars": 0,
-    "updated_at": "2026-10-21T02:51:21Z",
-    "url": "https://github.com/kimddong23/skala-15w-ai-agent-capstone-miniproject"
   },
   {
     "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
@@ -180,15 +243,6 @@
     "url": "https://github.com/qiuzixu/agent-core"
   },
   {
-    "description": "Scrapling \u98ce\u683c\u9690\u8eab\u722c\u866b\u5e93\uff1a\u81ea\u9002\u5e94\u9009\u62e9\u5668 \u00b7 TLS \u6307\u7eb9 HTTP \u00b7 JS \u6e32\u67d3 \u00b7 \u56de\u8c03\u5f0f Spider \u6846\u67b6\uff08\u91cd\u8bd5/robots/\u53bb\u91cd/\u4e2d\u95f4\u4ef6\u7ba1\u9053\uff09\u00b7 JS \u9006\u5411 Agent \u00b7 \u9a8c\u8bc1\u7801\u8bc6\u522b \u00b7 MCP \u670d\u52a1 \u00b7 \u672c\u5730 We",
-    "id": "xiaomaozjj666/web-crawler",
-    "language": "Python",
-    "name": "xiaomaozjj666/web-crawler",
-    "stars": 5,
-    "updated_at": "2026-10-21T02:31:15Z",
-    "url": "https://github.com/xiaomaozjj666/web-crawler"
-  },
-  {
     "description": "Offline Linux command assistant: 1.5B model on your machine, 1.1 GB disk, 1.3 GB RAM, no GPU, ~2 s per answer, checked a",
     "id": "arxhr007/lxask",
     "language": "Python",
@@ -207,15 +261,6 @@
     "url": "https://github.com/yurika0211/lucky-agent"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-21T02:23:28Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
     "id": "kyleslight/shun",
     "language": "TypeScript",
@@ -232,15 +277,6 @@
     "stars": 342,
     "updated_at": "2026-10-21T02:14:47Z",
     "url": "https://github.com/monocle2ai/monocle"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 81,
-    "updated_at": "2026-10-21T02:14:21Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
@@ -297,15 +333,6 @@
     "url": "https://github.com/n1majne3/CyberPenda"
   },
   {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-21T02:52:12Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -337,7 +364,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 879,
+    "stars": 880,
     "updated_at": "2026-10-21T01:35:01Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-21T00:58:46Z",
     "url": "https://github.com/balfiky/openrook"
-  },
-  {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 305,
-    "updated_at": "2026-10-21T00:49:51Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
-    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
-    "id": "xanstomper/mochi",
-    "language": "TypeScript",
-    "name": "xanstomper/mochi",
-    "stars": 1,
-    "updated_at": "2026-10-21T00:49:33Z",
-    "url": "https://github.com/xanstomper/mochi"
-  },
-  {
-    "description": "\u603b\u7ed3Prompt&LLM\u8bba\u6587\uff0c\u5f00\u6e90\u6570\u636e&\u6a21\u578b\uff0cAIGC\u5e94\u7528",
-    "id": "DSXiangLi/DecryptPrompt",
-    "language": "\u2014",
-    "name": "DSXiangLi/DecryptPrompt",
-    "stars": 3451,
-    "updated_at": "2026-10-21T00:47:20Z",
-    "url": "https://github.com/DSXiangLi/DecryptPrompt"
   }
 ]
