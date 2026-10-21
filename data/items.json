@@ -1,5 +1,140 @@
 [
   {
+    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
+    "id": "shimo4228/contemplative-agent",
+    "language": "Python",
+    "name": "shimo4228/contemplative-agent",
+    "stars": 9,
+    "updated_at": "2026-10-21T12:30:10Z",
+    "url": "https://github.com/shimo4228/contemplative-agent"
+  },
+  {
+    "description": "Linux distribution with a built-in, local-first AI assistant. A global hotkey opens an assistant that manages files, ins",
+    "id": "gonicolas12/My_OS",
+    "language": "Python",
+    "name": "gonicolas12/My_OS",
+    "stars": 2,
+    "updated_at": "2026-10-21T12:30:01Z",
+    "url": "https://github.com/gonicolas12/My_OS"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "TypeScript",
+    "name": "dsswift/ion",
+    "stars": 4,
+    "updated_at": "2026-10-21T12:29:42Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "\uc9c1\ubc29\u00b7\ub124\uc774\ubc84 \ubd80\ub3d9\uc0b0\u00b7\ub2f9\uadfc\ubd80\ub3d9\uc0b0 \ub9e4\ubb3c\uacfc \uc2e4\uac70\ub798\uac00\ub97c \uc870\ud68c\ud558\ub294 LLM \uc5d0\uc774\uc804\ud2b8\uc6a9 CLI \u00b7 Korean real estate listings CLI for LLM agents (Zigbang, Naver Real Esta",
+    "id": "Rukkakka/jibsa",
+    "language": "Python",
+    "name": "Rukkakka/jibsa",
+    "stars": 0,
+    "updated_at": "2026-10-21T12:29:32Z",
+    "url": "https://github.com/Rukkakka/jibsa"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-10-21T12:28:28Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "My collection of Claude Code Agents & Skills for web and iOS Development",
+    "id": "mintuz/skills",
+    "language": "Python",
+    "name": "mintuz/skills",
+    "stars": 29,
+    "updated_at": "2026-10-21T12:27:51Z",
+    "url": "https://github.com/mintuz/skills"
+  },
+  {
+    "description": "velog(velog.io) \uae00\uc744 \uc870\ud68c\ud558\uace0 \ub85c\uadf8\uc778\ud55c \ub0b4 \uacc4\uc815\uc758 \uae00\u00b7\ubc18\uc751\uc744 \ub2e4\ub8e8\ub294 LLM \uc5d0\uc774\uc804\ud2b8\uc6a9 \ube44\uacf5\uc2dd CLI \u00b7 Unofficial velog CLI for LLM agents",
+    "id": "Rukkakka/velogger",
+    "language": "Python",
+    "name": "Rukkakka/velogger",
+    "stars": 0,
+    "updated_at": "2026-10-21T12:27:28Z",
+    "url": "https://github.com/Rukkakka/velogger"
+  },
+  {
+    "description": "\u628a\u4efb\u52a1\u6d3e\u53d1\u7ed9\u672c\u673a ZCode CLI \u65e0\u5934\u8fdb\u7a0b\u7684 DeepSeek Harness \u63d2\u4ef6\uff1a\u9762\u677f\u53ef\u76d1\u89c6/\u7ec8\u6b62/\u7eed\u8dd1/\u6362\u901a\u9053\uff1b\u5355\u5199\u8005\u6587\u4ef6\u9501 + \u7528\u91cf\u53f0\u8d26 + \u964d\u7ea7\u94fe\u3002\u652f\u6301\u4ed8\u8d39\u5957\u9910\u4e0e\u514d\u8d39\u989d\u5ea6\uff08Start Plan \u6d3b\u52a8\u8d60\u9001\uff09\u4e24\u79cd\u989d\u5ea6\uff0c\u540e\u8005\u6258\u7ba1\u5b98\u65b9",
+    "id": "Shuffle-1992/dsh-dispatch",
+    "language": "JavaScript",
+    "name": "Shuffle-1992/dsh-dispatch",
+    "stars": 2,
+    "updated_at": "2026-10-21T12:24:54Z",
+    "url": "https://github.com/Shuffle-1992/dsh-dispatch"
+  },
+  {
+    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
+    "id": "ljedrz/nachalnik",
+    "language": "Rust",
+    "name": "ljedrz/nachalnik",
+    "stars": 5,
+    "updated_at": "2026-10-21T12:22:10Z",
+    "url": "https://github.com/ljedrz/nachalnik"
+  },
+  {
+    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
+    "id": "robolong/zhengming",
+    "language": "TypeScript",
+    "name": "robolong/zhengming",
+    "stars": 0,
+    "updated_at": "2026-10-21T12:29:14Z",
+    "url": "https://github.com/robolong/zhengming"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-10-21T12:19:55Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "The LLM Anti-Framework",
+    "id": "Mirascope/mirascope",
+    "language": "Python",
+    "name": "Mirascope/mirascope",
+    "stars": 1535,
+    "updated_at": "2026-10-21T12:19:03Z",
+    "url": "https://github.com/Mirascope/mirascope"
+  },
+  {
+    "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
+    "id": "roxm337/osint-agent",
+    "language": "Python",
+    "name": "roxm337/osint-agent",
+    "stars": 0,
+    "updated_at": "2026-10-21T12:18:44Z",
+    "url": "https://github.com/roxm337/osint-agent"
+  },
+  {
+    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
+    "id": "RalfHermsen/x4-agent",
+    "language": "Python",
+    "name": "RalfHermsen/x4-agent",
+    "stars": 0,
+    "updated_at": "2026-10-21T12:27:57Z",
+    "url": "https://github.com/RalfHermsen/x4-agent"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 6,
+    "updated_at": "2026-10-21T12:16:31Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
     "description": "LLM-driven UAV agent runtime: criteria-contract planning, PX4 MAVLink / AirSim backends, and a web ground-control statio",
     "id": "Yookio-Z/Airsim-Agent",
     "language": "Python",
@@ -14,17 +149,8 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 822,
-    "updated_at": "2026-10-21T12:08:25Z",
+    "updated_at": "2026-10-21T12:21:17Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
-    "id": "roxm337/osint-agent",
-    "language": "Python",
-    "name": "roxm337/osint-agent",
-    "stars": 0,
-    "updated_at": "2026-10-21T12:08:18Z",
-    "url": "https://github.com/roxm337/osint-agent"
   },
   {
     "description": "The coordination layer for Multiplayer AI",
@@ -45,15 +171,6 @@
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
-    "description": "\u628a\u4efb\u52a1\u6d3e\u53d1\u7ed9\u672c\u673a ZCode CLI \u65e0\u5934\u8fdb\u7a0b\u7684 DeepSeek Harness \u63d2\u4ef6\uff1a\u9762\u677f\u53ef\u76d1\u89c6/\u7ec8\u6b62/\u7eed\u8dd1/\u6362\u901a\u9053\uff1b\u5355\u5199\u8005\u6587\u4ef6\u9501 + \u7528\u91cf\u53f0\u8d26 + \u964d\u7ea7\u94fe\u3002\u652f\u6301\u4ed8\u8d39\u5957\u9910\u4e0e\u514d\u8d39\u989d\u5ea6\uff08Start Plan \u6d3b\u52a8\u8d60\u9001\uff09\u4e24\u79cd\u989d\u5ea6\uff0c\u540e\u8005\u6258\u7ba1\u5b98\u65b9",
-    "id": "Shuffle-1992/dsh-dispatch",
-    "language": "JavaScript",
-    "name": "Shuffle-1992/dsh-dispatch",
-    "stars": 2,
-    "updated_at": "2026-10-21T12:06:50Z",
-    "url": "https://github.com/Shuffle-1992/dsh-dispatch"
-  },
-  {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
     "id": "g761007/daily-dispatch",
     "language": "Python",
@@ -72,21 +189,12 @@
     "url": "https://github.com/xianyu-sheng/SmartBench"
   },
   {
-    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
-    "id": "robolong/zhengming",
-    "language": "TypeScript",
-    "name": "robolong/zhengming",
-    "stars": 0,
-    "updated_at": "2026-10-21T12:09:36Z",
-    "url": "https://github.com/robolong/zhengming"
-  },
-  {
     "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
     "id": "memoways/ava-proto1",
     "language": "TypeScript",
     "name": "memoways/ava-proto1",
     "stars": 0,
-    "updated_at": "2026-10-21T12:11:58Z",
+    "updated_at": "2026-10-21T12:30:09Z",
     "url": "https://github.com/memoways/ava-proto1"
   },
   {
@@ -104,7 +212,7 @@
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 50,
-    "updated_at": "2026-10-21T12:12:18Z",
+    "updated_at": "2026-10-21T12:23:18Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
@@ -135,15 +243,6 @@
     "url": "https://github.com/AnwarDebes/Claude-Code-In-Motion"
   },
   {
-    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 9,
-    "updated_at": "2026-10-21T11:55:45Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
     "description": "Grocery agent for Dutch supermarkets: Claude tool use, meal planning and cheapest-basket pricing across 10 stores, with ",
     "id": "MLeona020839/boodschappen-agent",
     "language": "Python",
@@ -169,6 +268,15 @@
     "stars": 0,
     "updated_at": "2026-10-21T11:49:52Z",
     "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "TypeScript",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8892,
+    "updated_at": "2026-10-21T11:43:04Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Local-first Python vulnerability remediation with a 4B model on a 4 GB laptop GPU: fixes proven in a network-less Docker",
@@ -279,15 +387,6 @@
     "url": "https://github.com/kyleslight/shun"
   },
   {
-    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
-    "id": "ljedrz/nachalnik",
-    "language": "Rust",
-    "name": "ljedrz/nachalnik",
-    "stars": 5,
-    "updated_at": "2026-10-21T12:03:31Z",
-    "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -324,15 +423,6 @@
     "url": "https://github.com/qiuzixu/agent-core"
   },
   {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "TypeScript",
-    "name": "dsswift/ion",
-    "stars": 4,
-    "updated_at": "2026-10-21T10:54:45Z",
-    "url": "https://github.com/dsswift/ion"
-  },
-  {
     "description": "AI fieldwork planning assistant for anthropologists & social scientists \u2014 guided interviews turn a research idea into a ",
     "id": "altairos/fieldwork-agent",
     "language": "Python",
@@ -351,15 +441,6 @@
     "url": "https://github.com/bondwell79/hercules"
   },
   {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 6,
-    "updated_at": "2026-10-21T10:49:56Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -367,86 +448,5 @@
     "stars": 15,
     "updated_at": "2026-10-21T12:05:50Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Cost-aware multi-agent orchestrator kit for OpenCode CLI \u2014 one routing agent, 14 specialized subagents, zero application",
-    "id": "NicoGenti/opencode-orchestrator-kit",
-    "language": "TypeScript",
-    "name": "NicoGenti/opencode-orchestrator-kit",
-    "stars": 7,
-    "updated_at": "2026-10-21T10:46:36Z",
-    "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
-  },
-  {
-    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 54,
-    "updated_at": "2026-10-21T10:45:08Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 29,
-    "updated_at": "2026-10-21T10:43:12Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
-    "id": "honestDS/MonoLight",
-    "language": "Python",
-    "name": "honestDS/MonoLight",
-    "stars": 9,
-    "updated_at": "2026-10-21T10:39:44Z",
-    "url": "https://github.com/honestDS/MonoLight"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 33590,
-    "updated_at": "2026-10-21T10:30:05Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "DevOps & Cloud SI Assistant that runs locally on taraengine for complete privacy.",
-    "id": "tara-vision/taracode",
-    "language": "Go",
-    "name": "tara-vision/taracode",
-    "stars": 51,
-    "updated_at": "2026-10-21T10:35:30Z",
-    "url": "https://github.com/tara-vision/taracode"
-  },
-  {
-    "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
-    "id": "OtakuNathan/Pal",
-    "language": "Python",
-    "name": "OtakuNathan/Pal",
-    "stars": 3,
-    "updated_at": "2026-10-21T10:12:34Z",
-    "url": "https://github.com/OtakuNathan/Pal"
-  },
-  {
-    "description": "\ud83c\udf5f \u9ea6\u9ea6\u7701\u94b1\u52a9\u624b \u2014\u2014 \u57fa\u4e8e\u9ea6\u5f53\u52b3\u4e2d\u56fd\u5b98\u65b9 MCP \u7684\u7701\u94b1\u70b9\u9910 Agent Skill\uff1a\u5b98\u65b9 calculate-price \u5b9e\u65f6\u6838\u4ef7 + \u5238\u7ec4\u5408\u4f18\u5316\uff08\u9884\u7b97/\u70ed\u91cf\u7ea6\u675f\uff09+ \u6c89\u9ed8\u6210\u672c\u4f53\u68c0 + \u5b98\u65b9\u5238/\u56e2\u8d2d\u5238/\u79ef\u5206\u56db\u6e20\u9053\u540c\u53e3\u5f84\u7b97\u7ec8\u5c40\u3002\u793e\u533a\u5f00\u6e90\uff0c",
-    "id": "yuxinlaile/McD-saver",
-    "language": "Python",
-    "name": "yuxinlaile/McD-saver",
-    "stars": 115,
-    "updated_at": "2026-10-21T10:11:56Z",
-    "url": "https://github.com/yuxinlaile/McD-saver"
-  },
-  {
-    "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
-    "id": "HKUDS/DeepCode",
-    "language": "Python",
-    "name": "HKUDS/DeepCode",
-    "stars": 16739,
-    "updated_at": "2026-10-21T10:11:38Z",
-    "url": "https://github.com/HKUDS/DeepCode"
   }
 ]
