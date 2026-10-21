@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-21 18:00 UTC
+> ⏰ Last updated: 2026-10-21 18:02 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [IAmNo1Special/mvgeos](https://github.com/IAmNo1Special/mvgeos) | 1 | Python | 2026-10-21 | An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to |
-| 2 | [ssepehrnoush/liara-copilot](https://github.com/ssepehrnoush/liara-copilot) | 0 | JavaScript | 2026-10-21 | Persian AI agent for Liara: from 'here is my project' to a live app, then diagnose HTTP 500s, slowdowns and memory leaks |
-| 3 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 8896 | TypeScript | 2026-10-21 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
-| 4 | [genaforvena/mishe-tauftauf](https://github.com/genaforvena/mishe-tauftauf) | 3 | Python | 2026-10-21 | A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation. |
-| 5 | [zeng6125-rgb/suixing](https://github.com/zeng6125-rgb/suixing) | 2 | Kotlin | 2026-10-21 | 随行 Suixing —— 手机端 AI Agent（Android · Kotlin + Compose）：读屏、点按、改文件、跑命令，纯本地、无云同步 |
-| 6 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 81 | Python | 2026-10-21 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
-| 7 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-21 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
-| 8 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-10-21 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 9 | [cohexa-ai/agent-coherence](https://github.com/cohexa-ai/agent-coherence) | 11 | Python | 2026-10-21 | The coordination layer for Multiplayer AI |
-| 10 | [gptme/gptme](https://github.com/gptme/gptme) | 4458 | Python | 2026-10-21 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
-| 11 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-10-21 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 12 | [Shuffle-1992/dsh-dispatch](https://github.com/Shuffle-1992/dsh-dispatch) | 2 | JavaScript | 2026-10-21 | 把任务派发给本机 ZCode CLI 无头进程的 DeepSeek Harness 插件：面板可监视/终止/续跑/换通道；单写者文件锁 + 用量台账 + 降级链。支持付费套餐与免费额度（Start Plan 活动赠送）两种额度，后者托管官方 |
-| 13 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 883 | JavaScript | 2026-10-21 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
+| 1 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 8896 | TypeScript | 2026-10-21 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 2 | [genaforvena/mishe-tauftauf](https://github.com/genaforvena/mishe-tauftauf) | 3 | Python | 2026-10-21 | A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation. |
+| 3 | [IAmNo1Special/mvgeos](https://github.com/IAmNo1Special/mvgeos) | 1 | Python | 2026-10-21 | An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to |
+| 4 | [ssepehrnoush/liara-copilot](https://github.com/ssepehrnoush/liara-copilot) | 0 | JavaScript | 2026-10-21 | Persian AI agent for Liara: from 'here is my project' to a live app, then diagnose HTTP 500s, slowdowns and memory leaks |
+| 5 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 884 | JavaScript | 2026-10-21 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
+| 6 | [zeng6125-rgb/suixing](https://github.com/zeng6125-rgb/suixing) | 2 | Kotlin | 2026-10-21 | 随行 Suixing —— 手机端 AI Agent（Android · Kotlin + Compose）：读屏、点按、改文件、跑命令，纯本地、无云同步 |
+| 7 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 81 | Python | 2026-10-21 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
+| 8 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-21 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
+| 9 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-10-21 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 10 | [cohexa-ai/agent-coherence](https://github.com/cohexa-ai/agent-coherence) | 11 | Python | 2026-10-21 | The coordination layer for Multiplayer AI |
+| 11 | [gptme/gptme](https://github.com/gptme/gptme) | 4458 | Python | 2026-10-21 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
+| 12 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-10-21 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 13 | [Shuffle-1992/dsh-dispatch](https://github.com/Shuffle-1992/dsh-dispatch) | 2 | JavaScript | 2026-10-21 | 把任务派发给本机 ZCode CLI 无头进程的 DeepSeek Harness 插件：面板可监视/终止/续跑/换通道；单写者文件锁 + 用量台账 + 降级链。支持付费套餐与免费额度（Start Plan 活动赠送）两种额度，后者托管官方 |
 | 14 | [hay-chat/hay-core](https://github.com/hay-chat/hay-core) | 5 | TypeScript | 2026-10-21 | AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b |
 | 15 | [didiwannasleep0117/policy-agent-demo](https://github.com/didiwannasleep0117/policy-agent-demo) | 0 | Python | 2026-10-21 | RAG policy Q&A agent demo (fake data): MCP server + n8n + Qwen3-8B, with an eval-driven improvement loop |
 | 16 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 1 | TypeScript | 2026-10-21 | Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers. |

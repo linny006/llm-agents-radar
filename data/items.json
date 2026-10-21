@@ -1,5 +1,23 @@
 [
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "TypeScript",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8896,
+    "updated_at": "2026-10-21T18:01:29Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-21T18:01:03Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
     "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
     "id": "IAmNo1Special/mvgeos",
     "language": "Python",
@@ -18,22 +36,13 @@
     "url": "https://github.com/ssepehrnoush/liara-copilot"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "TypeScript",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8896,
-    "updated_at": "2026-10-21T17:57:17Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-21T17:50:29Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 884,
+    "updated_at": "2026-10-21T17:55:29Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
@@ -108,21 +117,12 @@
     "url": "https://github.com/Shuffle-1992/dsh-dispatch"
   },
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 883,
-    "updated_at": "2026-10-21T17:55:29Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
     "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
     "id": "hay-chat/hay-core",
     "language": "TypeScript",
     "name": "hay-chat/hay-core",
     "stars": 5,
-    "updated_at": "2026-10-21T17:18:52Z",
+    "updated_at": "2026-10-21T18:01:03Z",
     "url": "https://github.com/hay-chat/hay-core"
   },
   {
