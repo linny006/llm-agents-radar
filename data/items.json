@@ -1,5 +1,104 @@
 [
   {
+    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
+    "id": "robolong/zhengming",
+    "language": "TypeScript",
+    "name": "robolong/zhengming",
+    "stars": 0,
+    "updated_at": "2026-10-21T13:30:13Z",
+    "url": "https://github.com/robolong/zhengming"
+  },
+  {
+    "description": "\u63bc\u86cb Agent\uff1aOpenGuanDan + LangGraph + DeepSeek\uff0c\u6709\u9650\u9884\u7b97\u51b3\u7b56\u3001\u6761\u4ef6\u590d\u6838\u3001\u89c4\u5219\u515c\u5e95\u4e0e\u53ef\u6838\u9a8c\u8bb0\u5f55\u3002",
+    "id": "TOoSad-deep/guandan-agent",
+    "language": "Python",
+    "name": "TOoSad-deep/guandan-agent",
+    "stars": 0,
+    "updated_at": "2026-10-21T13:28:14Z",
+    "url": "https://github.com/TOoSad-deep/guandan-agent"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "TypeScript",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8894,
+    "updated_at": "2026-10-21T13:26:27Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 135,
+    "updated_at": "2026-10-21T13:25:51Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-21T13:24:20Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "\u628a\u4efb\u52a1\u6d3e\u53d1\u7ed9\u672c\u673a ZCode CLI \u65e0\u5934\u8fdb\u7a0b\u7684 DeepSeek Harness \u63d2\u4ef6\uff1a\u9762\u677f\u53ef\u76d1\u89c6/\u7ec8\u6b62/\u7eed\u8dd1/\u6362\u901a\u9053\uff1b\u5355\u5199\u8005\u6587\u4ef6\u9501 + \u7528\u91cf\u53f0\u8d26 + \u964d\u7ea7\u94fe\u3002\u652f\u6301\u4ed8\u8d39\u5957\u9910\u4e0e\u514d\u8d39\u989d\u5ea6\uff08Start Plan \u6d3b\u52a8\u8d60\u9001\uff09\u4e24\u79cd\u989d\u5ea6\uff0c\u540e\u8005\u6258\u7ba1\u5b98\u65b9",
+    "id": "Shuffle-1992/dsh-dispatch",
+    "language": "JavaScript",
+    "name": "Shuffle-1992/dsh-dispatch",
+    "stars": 2,
+    "updated_at": "2026-10-21T13:22:53Z",
+    "url": "https://github.com/Shuffle-1992/dsh-dispatch"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "Go",
+    "name": "dsswift/ion",
+    "stars": 4,
+    "updated_at": "2026-10-21T13:20:50Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "\u4fe1\u606f\u91c7\u96c6\u88c5\u7f6e\u667a\u80fd\u8fd0\u7ef4 Agent \u7cfb\u7edf\uff1a\u7528 OpenSpec \u89c4\u683c\u9a71\u52a8\uff0c\u4ece\u544a\u8b66\u63a5\u5165\u5230\u8bca\u65ad\u62a5\u544a\u7684\u5b8c\u6574\u94fe\u8def\u3002",
+    "id": "hl7321/aiops-agent-reproduction",
+    "language": "Python",
+    "name": "hl7321/aiops-agent-reproduction",
+    "stars": 1,
+    "updated_at": "2026-10-21T13:17:58Z",
+    "url": "https://github.com/hl7321/aiops-agent-reproduction"
+  },
+  {
+    "description": "LLM-driven UAV agent runtime: criteria-contract planning, PX4 MAVLink / AirSim backends, and a web ground-control statio",
+    "id": "Yookio-Z/Airsim-Agent",
+    "language": "Python",
+    "name": "Yookio-Z/Airsim-Agent",
+    "stars": 0,
+    "updated_at": "2026-10-21T13:17:54Z",
+    "url": "https://github.com/Yookio-Z/Airsim-Agent"
+  },
+  {
+    "description": "\uc9c1\ubc29\u00b7\ub124\uc774\ubc84 \ubd80\ub3d9\uc0b0\u00b7\ub2f9\uadfc\ubd80\ub3d9\uc0b0 \ub9e4\ubb3c\uacfc \uc2e4\uac70\ub798\uac00\ub97c \uc870\ud68c\ud558\ub294 LLM \uc5d0\uc774\uc804\ud2b8\uc6a9 CLI \u00b7 Korean real estate listings CLI for LLM agents (Zigbang, Naver Real Esta",
+    "id": "Rukkakka/jibsa",
+    "language": "Python",
+    "name": "Rukkakka/jibsa",
+    "stars": 0,
+    "updated_at": "2026-10-21T13:17:01Z",
+    "url": "https://github.com/Rukkakka/jibsa"
+  },
+  {
+    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
+    "id": "xieguigang/sciBASIC",
+    "language": "Visual Basic .NET",
+    "name": "xieguigang/sciBASIC",
+    "stars": 79,
+    "updated_at": "2026-10-21T13:16:57Z",
+    "url": "https://github.com/xieguigang/sciBASIC"
+  },
+  {
     "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
     "id": "zeng6125-rgb/suixing",
     "language": "Kotlin",
@@ -27,29 +126,11 @@
     "url": "https://github.com/MLeona020839/boodschappen-agent"
   },
   {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-21T13:07:10Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
-    "description": "LLM-driven UAV agent runtime: criteria-contract planning, PX4 MAVLink / AirSim backends, and a web ground-control statio",
-    "id": "Yookio-Z/Airsim-Agent",
-    "language": "Python",
-    "name": "Yookio-Z/Airsim-Agent",
-    "stars": 0,
-    "updated_at": "2026-10-21T13:06:12Z",
-    "url": "https://github.com/Yookio-Z/Airsim-Agent"
-  },
-  {
     "description": "Nosis is a lightweight personal agent runtime: per-session execution boundaries with OS-level sandboxing, computer use, ",
     "id": "EvannZhongg/Nosis",
     "language": "Python",
     "name": "EvannZhongg/Nosis",
-    "stars": 241,
+    "stars": 242,
     "updated_at": "2026-10-21T13:05:30Z",
     "url": "https://github.com/EvannZhongg/Nosis"
   },
@@ -72,15 +153,6 @@
     "url": "https://github.com/weihuaguo270-ops/react-agent"
   },
   {
-    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
-    "id": "robolong/zhengming",
-    "language": "TypeScript",
-    "name": "robolong/zhengming",
-    "stars": 0,
-    "updated_at": "2026-10-21T13:04:30Z",
-    "url": "https://github.com/robolong/zhengming"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
@@ -88,15 +160,6 @@
     "stars": 4458,
     "updated_at": "2026-10-21T12:59:48Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "\uc9c1\ubc29\u00b7\ub124\uc774\ubc84 \ubd80\ub3d9\uc0b0\u00b7\ub2f9\uadfc\ubd80\ub3d9\uc0b0 \ub9e4\ubb3c\uacfc \uc2e4\uac70\ub798\uac00\ub97c \uc870\ud68c\ud558\ub294 LLM \uc5d0\uc774\uc804\ud2b8\uc6a9 CLI \u00b7 Korean real estate listings CLI for LLM agents (Zigbang, Naver Real Esta",
-    "id": "Rukkakka/jibsa",
-    "language": "Python",
-    "name": "Rukkakka/jibsa",
-    "stars": 0,
-    "updated_at": "2026-10-21T13:14:17Z",
-    "url": "https://github.com/Rukkakka/jibsa"
   },
   {
     "description": "RAG assistant for AML/KYC compliance (FATF, Wolfsberg, CBAR) with citation-linked answers, a tool-calling agent and RAGA",
@@ -126,15 +189,6 @@
     "url": "https://github.com/Rukkakka/velogger"
   },
   {
-    "description": "\u628a\u4efb\u52a1\u6d3e\u53d1\u7ed9\u672c\u673a ZCode CLI \u65e0\u5934\u8fdb\u7a0b\u7684 DeepSeek Harness \u63d2\u4ef6\uff1a\u9762\u677f\u53ef\u76d1\u89c6/\u7ec8\u6b62/\u7eed\u8dd1/\u6362\u901a\u9053\uff1b\u5355\u5199\u8005\u6587\u4ef6\u9501 + \u7528\u91cf\u53f0\u8d26 + \u964d\u7ea7\u94fe\u3002\u652f\u6301\u4ed8\u8d39\u5957\u9910\u4e0e\u514d\u8d39\u989d\u5ea6\uff08Start Plan \u6d3b\u52a8\u8d60\u9001\uff09\u4e24\u79cd\u989d\u5ea6\uff0c\u540e\u8005\u6258\u7ba1\u5b98\u65b9",
-    "id": "Shuffle-1992/dsh-dispatch",
-    "language": "JavaScript",
-    "name": "Shuffle-1992/dsh-dispatch",
-    "stars": 2,
-    "updated_at": "2026-10-21T12:54:40Z",
-    "url": "https://github.com/Shuffle-1992/dsh-dispatch"
-  },
-  {
     "description": "Vital Sentinel: \uc6e8\uc5b4\ub7ec\ube14 \uc2ec\ubc15 \uc774\uc0c1 \uc9d5\ud6c4 \uac10\uc9c0 AI \uc5d0\uc774\uc804\ud2b8 (LangGraph \u00b7 MCP \u00b7 RAG)",
     "id": "kimddong23/skala-15w-ai-agent-capstone-miniproject",
     "language": "Python",
@@ -151,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-10-21T12:53:04Z",
     "url": "https://github.com/ArthurReboulSalze/Sherka-Compagnon"
-  },
-  {
-    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
-    "id": "xieguigang/sciBASIC",
-    "language": "Visual Basic .NET",
-    "name": "xieguigang/sciBASIC",
-    "stars": 79,
-    "updated_at": "2026-10-21T12:52:35Z",
-    "url": "https://github.com/xieguigang/sciBASIC"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -232,15 +277,6 @@
     "stars": 2,
     "updated_at": "2026-10-21T12:30:01Z",
     "url": "https://github.com/gonicolas12/My_OS"
-  },
-  {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "TypeScript",
-    "name": "dsswift/ion",
-    "stars": 4,
-    "updated_at": "2026-10-21T12:33:12Z",
-    "url": "https://github.com/dsswift/ion"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -338,7 +374,7 @@
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 50,
-    "updated_at": "2026-10-21T12:23:18Z",
+    "updated_at": "2026-10-21T13:29:52Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
@@ -378,15 +414,6 @@
     "url": "https://github.com/kangwoo/aimon-core"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "TypeScript",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8893,
-    "updated_at": "2026-10-21T11:43:04Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "Local-first Python vulnerability remediation with a 4B model on a 4 GB laptop GPU: fixes proven in a network-less Docker",
     "id": "mdsvr/AeroPatch",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-21T11:36:18Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
-    "description": "Local pre-write containment & structural scoring for AI coding agents: deterministic policy, Mamba-3 SSM coherence, and ",
-    "id": "jakubkrzysztofsikora/reasoning-core",
-    "language": "Python",
-    "name": "jakubkrzysztofsikora/reasoning-core",
-    "stars": 6,
-    "updated_at": "2026-10-21T11:25:42Z",
-    "url": "https://github.com/jakubkrzysztofsikora/reasoning-core"
-  },
-  {
-    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-21T11:21:05Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "\u6b66\u6c49\u5927\u5b66\u5730\u7a7a\u5b66\u9662 2026 \u5927\u521b\uff1a\u591a\u667a\u80fd\u4f53 AI \u91ce\u5916\u53f0\u7ad9\u7ba1\u7406\u7cfb\u7edf \u2014\u2014 \u76d1\u6d4b/\u8d28\u63a7/\u7814\u5224/\u6d3e\u5355/\u5f52\u6863\u95ed\u73af\u3002LangGraph \u8fd0\u884c\u65f6 \u00b7 MCP \u5de5\u5177\u63a5\u53e3 \u00b7 \u89c4\u5219\u88c1\u51b3 + \u5927\u6a21\u578b\u5f52\u56e0\u3002\u516c\u5f00\u8131\u654f\u4ed3\u5e93",
-    "id": "yasunosubaru/field-station-agent",
-    "language": "Python",
-    "name": "yasunosubaru/field-station-agent",
-    "stars": 0,
-    "updated_at": "2026-10-21T11:22:40Z",
-    "url": "https://github.com/yasunosubaru/field-station-agent"
   }
 ]
