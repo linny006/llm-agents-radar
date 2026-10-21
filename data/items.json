@@ -1,12 +1,30 @@
 [
   {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-21T21:43:15Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
     "id": "gerardogrisolini/ZenCODE",
     "language": "Swift",
     "name": "gerardogrisolini/ZenCODE",
     "stars": 6,
-    "updated_at": "2026-10-21T21:37:40Z",
+    "updated_at": "2026-10-21T21:43:07Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "Hermes Agent acting on your behalf in your personal Telegram account (not a bot): Telethon backend + Hermes platform plu",
+    "id": "OstaninKI/Hermes_tg_bridge",
+    "language": "Python",
+    "name": "OstaninKI/Hermes_tg_bridge",
+    "stars": 0,
+    "updated_at": "2026-10-21T21:40:22Z",
+    "url": "https://github.com/OstaninKI/Hermes_tg_bridge"
   },
   {
     "description": "AI-powered image generation and chat studio",
@@ -16,15 +34,6 @@
     "stars": 5,
     "updated_at": "2026-10-21T21:37:18Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Hermes Agent acting on your behalf in your personal Telegram account (not a bot): Telethon backend + Hermes platform plu",
-    "id": "OstaninKI/Hermes_tg_bridge",
-    "language": "Python",
-    "name": "OstaninKI/Hermes_tg_bridge",
-    "stars": 0,
-    "updated_at": "2026-10-21T21:34:37Z",
-    "url": "https://github.com/OstaninKI/Hermes_tg_bridge"
   },
   {
     "description": "A guide to New York City you can ask anything: an agent that answers from a live NYC lakehouse first, then city feeds an",
@@ -135,15 +144,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-21T20:42:00Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
     "id": "memoways/ava-proto1",
     "language": "TypeScript",
@@ -167,7 +167,7 @@
     "language": "TypeScript",
     "name": "strands-agents/harness-sdk",
     "stars": 8899,
-    "updated_at": "2026-10-21T20:48:35Z",
+    "updated_at": "2026-10-21T21:38:07Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -284,7 +284,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 2,
-    "updated_at": "2026-10-21T20:51:37Z",
+    "updated_at": "2026-10-21T21:45:10Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
