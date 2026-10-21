@@ -1,12 +1,75 @@
 [
   {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-10-21T20:00:00Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
+    "id": "honestDS/MonoLight",
+    "language": "Python",
+    "name": "honestDS/MonoLight",
+    "stars": 9,
+    "updated_at": "2026-10-21T19:55:38Z",
+    "url": "https://github.com/honestDS/MonoLight"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 2,
+    "updated_at": "2026-10-21T19:54:36Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "Application Security orchestration platform",
+    "id": "grauwolf32/contractor",
+    "language": "Go",
+    "name": "grauwolf32/contractor",
+    "stars": 2,
+    "updated_at": "2026-10-21T19:52:59Z",
+    "url": "https://github.com/grauwolf32/contractor"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-10-21T19:52:21Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "Hardens and patches PHP sites you did not build \u2014 SAPI-aware mitigation, cache-aware verification, and honest CVE patch ",
     "id": "imsarah/php2shell-hardening-for-agents",
-    "language": "\u2014",
+    "language": "Python",
     "name": "imsarah/php2shell-hardening-for-agents",
     "stars": 0,
-    "updated_at": "2026-10-21T19:44:22Z",
+    "updated_at": "2026-10-21T19:52:37Z",
     "url": "https://github.com/imsarah/php2shell-hardening-for-agents"
+  },
+  {
+    "description": "Local-first JARVIS-style desktop AI assistant for Windows. PySide6 HUD interface, Ollama LLM, always-on voice control, w",
+    "id": "daniallim/NOVA_AI_Assistant_New",
+    "language": "Python",
+    "name": "daniallim/NOVA_AI_Assistant_New",
+    "stars": 0,
+    "updated_at": "2026-10-21T19:46:10Z",
+    "url": "https://github.com/daniallim/NOVA_AI_Assistant_New"
+  },
+  {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 6,
+    "updated_at": "2026-10-21T19:46:07Z",
+    "url": "https://github.com/plurnk/plurnk"
   },
   {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
@@ -16,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-10-21T19:44:10Z",
     "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "Local-first JARVIS-style desktop AI assistant for Windows. PySide6 HUD interface, Ollama LLM, always-on voice control, w",
-    "id": "daniallim/NOVA_AI_Assistant_New",
-    "language": "Python",
-    "name": "daniallim/NOVA_AI_Assistant_New",
-    "stars": 0,
-    "updated_at": "2026-10-21T19:44:03Z",
-    "url": "https://github.com/daniallim/NOVA_AI_Assistant_New"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -59,7 +113,7 @@
     "language": "TypeScript",
     "name": "strands-agents/harness-sdk",
     "stars": 8897,
-    "updated_at": "2026-10-21T19:30:53Z",
+    "updated_at": "2026-10-21T19:50:30Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -342,15 +396,6 @@
     "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
-    "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
-    "id": "honestDS/MonoLight",
-    "language": "Python",
-    "name": "honestDS/MonoLight",
-    "stars": 9,
-    "updated_at": "2026-10-21T17:04:10Z",
-    "url": "https://github.com/honestDS/MonoLight"
-  },
-  {
     "description": "\u81ea\u8fdb\u5316\u91cf\u5316\u9009\u80a1\u7cfb\u7edf \u2014 Kronos K\u7ebf\u9884\u6d4b\u6a21\u578b + Hermes Agent \u81ea\u8fdb\u5316\u95ed\u73af + A\u80a1\u4e09\u6c60\u6f0f\u6597\u9009\u80a1",
     "id": "Shadowell/Alpha",
     "language": "Python",
@@ -392,7 +437,7 @@
     "language": "TypeScript",
     "name": "xanstomper/mochi",
     "stars": 1,
-    "updated_at": "2026-10-21T19:41:54Z",
+    "updated_at": "2026-10-21T19:53:19Z",
     "url": "https://github.com/xanstomper/mochi"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-21T16:39:54Z",
     "url": "https://github.com/aidless/flowgrid-aml-retriever"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 822,
-    "updated_at": "2026-10-21T18:18:13Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-    "id": "xiaobright/dsh-anchored-standard",
-    "language": "JavaScript",
-    "name": "xiaobright/dsh-anchored-standard",
-    "stars": 3742,
-    "updated_at": "2026-10-21T16:32:08Z",
-    "url": "https://github.com/xiaobright/dsh-anchored-standard"
-  },
-  {
-    "description": "A voice AI companion for Windows and Linux. Create characters with ComfyUI, give them voices, emotions and memories. Loc",
-    "id": "ArthurReboulSalze/Sherka-Compagnon",
-    "language": "Rust",
-    "name": "ArthurReboulSalze/Sherka-Compagnon",
-    "stars": 1,
-    "updated_at": "2026-10-21T16:28:20Z",
-    "url": "https://github.com/ArthurReboulSalze/Sherka-Compagnon"
-  },
-  {
-    "description": "\u8f7b\u91cf\u7684agent\u6846\u67b6",
-    "id": "qiuzixu/agent-core",
-    "language": "Python",
-    "name": "qiuzixu/agent-core",
-    "stars": 1,
-    "updated_at": "2026-10-21T16:25:35Z",
-    "url": "https://github.com/qiuzixu/agent-core"
-  },
-  {
-    "description": "Databricks-native equity research platform: a PySpark Delta medallion lakehouse over market, options, SEC, COT and macro",
-    "id": "evangoh122/quant_platform_1",
-    "language": "Python",
-    "name": "evangoh122/quant_platform_1",
-    "stars": 1,
-    "updated_at": "2026-10-21T19:32:51Z",
-    "url": "https://github.com/evangoh122/quant_platform_1"
   }
 ]
