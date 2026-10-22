@@ -1,5 +1,86 @@
 [
   {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-22T02:44:58Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
+    "id": "wq19901103wq/wechat-mac-rpa",
+    "language": "Python",
+    "name": "wq19901103wq/wechat-mac-rpa",
+    "stars": 123,
+    "updated_at": "2026-10-22T02:43:36Z",
+    "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
+  },
+  {
+    "description": "\u81ea\u8fdb\u5316\u91cf\u5316\u9009\u80a1\u7cfb\u7edf \u2014 Kronos K\u7ebf\u9884\u6d4b\u6a21\u578b + Hermes Agent \u81ea\u8fdb\u5316\u95ed\u73af + A\u80a1\u4e09\u6c60\u6f0f\u6597\u9009\u80a1",
+    "id": "Shadowell/Alpha",
+    "language": "Python",
+    "name": "Shadowell/Alpha",
+    "stars": 32,
+    "updated_at": "2026-10-22T02:43:33Z",
+    "url": "https://github.com/Shadowell/Alpha"
+  },
+  {
+    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
+    "id": "alexwkleung/reika",
+    "language": "TypeScript",
+    "name": "alexwkleung/reika",
+    "stars": 11,
+    "updated_at": "2026-10-22T02:42:29Z",
+    "url": "https://github.com/alexwkleung/reika"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-22T02:42:04Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 33607,
+    "updated_at": "2026-10-22T02:40:07Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "\ud83c\udf5f \u9ea6\u9ea6\u7701\u94b1\u52a9\u624b \u2014\u2014 \u57fa\u4e8e\u9ea6\u5f53\u52b3\u4e2d\u56fd\u5b98\u65b9 MCP \u7684\u7701\u94b1\u70b9\u9910 Agent Skill\uff1a\u5b98\u65b9 calculate-price \u5b9e\u65f6\u6838\u4ef7 + \u5238\u7ec4\u5408\u4f18\u5316\uff08\u9884\u7b97/\u70ed\u91cf\u7ea6\u675f\uff09+ \u6c89\u9ed8\u6210\u672c\u4f53\u68c0 + \u5b98\u65b9\u5238/\u56e2\u8d2d\u5238/\u79ef\u5206\u56db\u6e20\u9053\u540c\u53e3\u5f84\u7b97\u7ec8\u5c40\u3002\u793e\u533a\u5f00\u6e90\uff0c",
+    "id": "yuxinlaile/McD-saver",
+    "language": "Python",
+    "name": "yuxinlaile/McD-saver",
+    "stars": 115,
+    "updated_at": "2026-10-22T02:37:42Z",
+    "url": "https://github.com/yuxinlaile/McD-saver"
+  },
+  {
+    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
+    "id": "RalfHermsen/x4-agent",
+    "language": "Python",
+    "name": "RalfHermsen/x4-agent",
+    "stars": 0,
+    "updated_at": "2026-10-22T02:33:07Z",
+    "url": "https://github.com/RalfHermsen/x4-agent"
+  },
+  {
+    "description": "\u8bc1\u636e\u7ea6\u675f\u7684\u4ee3\u7801\u8bca\u65ad\u5de5\u4f5c\u53f0\uff1a\u786e\u5b9a\u6027\u9759\u6001\u5206\u6790\u62e5\u6709\u6e90\u7801\u4e8b\u5b9e\uff0cLLM \u53ea\u63d0\u5047\u8bbe\uff0cresolver/validator \u51b3\u5b9a\u80fd\u5426\u7ed1\u5b9a\u56de\u771f\u5b9e\u64cd\u4f5c\u2014\u2014\u8bc1\u636e\u4e0d\u8db3\u4fdd\u6301 unknown/abstained\uff0c\u4ece\u67b6\u6784\u6291\u5236\u5e7b\u89c9\u3002\u5df2\u5728\u771f\u5b9e\u5f00\u6e90\u9879\u76ee\u53d1\u73b0 bug\uff08stun",
+    "id": "xianyu-sheng/SmartBench",
+    "language": "Python",
+    "name": "xianyu-sheng/SmartBench",
+    "stars": 2,
+    "updated_at": "2026-10-22T02:30:59Z",
+    "url": "https://github.com/xianyu-sheng/SmartBench"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -32,7 +113,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-10-22T02:27:05Z",
+    "updated_at": "2026-10-22T02:39:13Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -72,15 +153,6 @@
     "url": "https://github.com/OtakuNathan/Pal"
   },
   {
-    "description": "\u81ea\u8fdb\u5316\u91cf\u5316\u9009\u80a1\u7cfb\u7edf \u2014 Kronos K\u7ebf\u9884\u6d4b\u6a21\u578b + Hermes Agent \u81ea\u8fdb\u5316\u95ed\u73af + A\u80a1\u4e09\u6c60\u6f0f\u6597\u9009\u80a1",
-    "id": "Shadowell/Alpha",
-    "language": "Python",
-    "name": "Shadowell/Alpha",
-    "stars": 32,
-    "updated_at": "2026-10-22T02:20:47Z",
-    "url": "https://github.com/Shadowell/Alpha"
-  },
-  {
     "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
     "id": "oldfunk/paper-trading",
     "language": "Python",
@@ -104,7 +176,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-22T02:23:15Z",
+    "updated_at": "2026-10-22T02:34:25Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -133,6 +205,15 @@
     "stars": 3,
     "updated_at": "2026-10-22T02:07:37Z",
     "url": "https://github.com/lusipad/browser-agent"
+  },
+  {
+    "description": "A multi-agent research system for the humanities and social sciences.",
+    "id": "Luciole-Studio/Misaka-Agent",
+    "language": "Python",
+    "name": "Luciole-Studio/Misaka-Agent",
+    "stars": 229,
+    "updated_at": "2026-10-22T02:42:20Z",
+    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
   },
   {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
@@ -194,7 +275,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-10-22T02:19:05Z",
+    "updated_at": "2026-10-22T02:41:10Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -288,15 +369,6 @@
     "url": "https://github.com/evangoh122/quant_platform_1"
   },
   {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-22T01:33:24Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -360,15 +432,6 @@
     "url": "https://github.com/LeoLin990405/oral-interview-transcription-skill"
   },
   {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-22T00:33:42Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
     "description": "Open-source AIMO3 math reasoning agent for vLLM and OpenAI-compatible models, with Python verification and consensus vot",
     "id": "xufenghe/aimo3-agentic-inference",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 26,
     "updated_at": "2026-10-22T00:59:29Z",
     "url": "https://github.com/n1majne3/CyberPenda"
-  },
-  {
-    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-22T00:19:44Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "CIRIS: an open-source AI assistant with a conscience you can check. Signed, auditable reasoning on every decision, a hum",
-    "id": "CIRISAI/CIRISAgent",
-    "language": "Python",
-    "name": "CIRISAI/CIRISAgent",
-    "stars": 58,
-    "updated_at": "2026-10-22T02:21:19Z",
-    "url": "https://github.com/CIRISAI/CIRISAgent"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 14,
-    "updated_at": "2026-10-22T00:26:02Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 133,
-    "updated_at": "2026-10-21T23:56:35Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3654,
-    "updated_at": "2026-10-21T23:55:10Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
-    "id": "haibingzhao/easyai",
-    "language": "Kotlin",
-    "name": "haibingzhao/easyai",
-    "stars": 1,
-    "updated_at": "2026-10-21T23:53:34Z",
-    "url": "https://github.com/haibingzhao/easyai"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "TypeScript",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8900,
-    "updated_at": "2026-10-21T23:36:24Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   }
 ]
