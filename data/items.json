@@ -1,12 +1,30 @@
 [
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 919,
-    "updated_at": "2026-10-22T15:43:57Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 822,
+    "updated_at": "2026-10-22T15:58:42Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
+    "id": "xieguigang/sciBASIC",
+    "language": "Visual Basic .NET",
+    "name": "xieguigang/sciBASIC",
+    "stars": 79,
+    "updated_at": "2026-10-22T15:57:07Z",
+    "url": "https://github.com/xieguigang/sciBASIC"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "TypeScript",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8916,
+    "updated_at": "2026-10-22T15:56:09Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Hermes Agent acting on your behalf in your personal Telegram account (not a bot): Telethon backend + Hermes platform plu",
@@ -14,8 +32,53 @@
     "language": "Python",
     "name": "OstaninKI/Hermes_tg_bridge",
     "stars": 0,
-    "updated_at": "2026-10-22T15:43:02Z",
+    "updated_at": "2026-10-22T15:52:44Z",
     "url": "https://github.com/OstaninKI/Hermes_tg_bridge"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 29,
+    "updated_at": "2026-10-22T15:52:17Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\u7528\u81ea\u7136\u8bed\u8a00\u6307\u6325\u89c6\u9891\u526a\u8f91\u7684\u5168\u94fe\u8def\u672c\u5730\u667a\u80fd\u4f53\uff1a\u7d20\u6750\u7406\u89e3 \u2192 \u64cd\u4f5c\u89c4\u5212 \u2192 \u4e8b\u5b9e\u6821\u9a8c \u2192 \u771f\u5b9e\u51fa\u7247\uff0c\u914d\u5957 163 \u4e2a\u5355\u5143\u6d4b\u8bd5\u4e0e 22 \u4e2a\u53ef\u590d\u8dd1\u9a8c\u6536\u811a\u672c\u3002",
+    "id": "ryhirz/ai-video-agent",
+    "language": "Python",
+    "name": "ryhirz/ai-video-agent",
+    "stars": 0,
+    "updated_at": "2026-10-22T15:50:39Z",
+    "url": "https://github.com/ryhirz/ai-video-agent"
+  },
+  {
+    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
+    "id": "hsaghir/looplet",
+    "language": "Python",
+    "name": "hsaghir/looplet",
+    "stars": 7,
+    "updated_at": "2026-10-22T16:00:01Z",
+    "url": "https://github.com/hsaghir/looplet"
+  },
+  {
+    "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
+    "id": "anchor-inference/daedalus",
+    "language": "Python",
+    "name": "anchor-inference/daedalus",
+    "stars": 2,
+    "updated_at": "2026-10-22T15:47:42Z",
+    "url": "https://github.com/anchor-inference/daedalus"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 919,
+    "updated_at": "2026-10-22T15:43:57Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
@@ -27,15 +90,6 @@
     "url": "https://github.com/bigfish1913/pi-rust"
   },
   {
-    "description": "\u7528\u81ea\u7136\u8bed\u8a00\u6307\u6325\u89c6\u9891\u526a\u8f91\u7684\u5168\u94fe\u8def\u672c\u5730\u667a\u80fd\u4f53\uff1a\u7d20\u6750\u7406\u89e3 \u2192 \u64cd\u4f5c\u89c4\u5212 \u2192 \u4e8b\u5b9e\u6821\u9a8c \u2192 \u771f\u5b9e\u51fa\u7247\uff0c\u914d\u5957 163 \u4e2a\u5355\u5143\u6d4b\u8bd5\u4e0e 22 \u4e2a\u53ef\u590d\u8dd1\u9a8c\u6536\u811a\u672c\u3002",
-    "id": "ryhirz/ai-video-agent",
-    "language": "Python",
-    "name": "ryhirz/ai-video-agent",
-    "stars": 0,
-    "updated_at": "2026-10-22T15:36:58Z",
-    "url": "https://github.com/ryhirz/ai-video-agent"
-  },
-  {
     "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
     "id": "xianyu-sheng/Xenon",
     "language": "Python",
@@ -43,15 +97,6 @@
     "stars": 54,
     "updated_at": "2026-10-22T15:36:28Z",
     "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
-    "id": "xieguigang/sciBASIC",
-    "language": "Visual Basic .NET",
-    "name": "xieguigang/sciBASIC",
-    "stars": 79,
-    "updated_at": "2026-10-22T15:36:16Z",
-    "url": "https://github.com/xieguigang/sciBASIC"
   },
   {
     "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
@@ -70,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-22T15:32:51Z",
     "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 29,
-    "updated_at": "2026-10-22T15:25:07Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Local RAG agent that answers only from its documents, cites sources, and refuses otherwise. 15/15 on a private grader wi",
@@ -160,15 +196,6 @@
     "stars": 2,
     "updated_at": "2026-10-22T15:03:10Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "TypeScript",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8915,
-    "updated_at": "2026-10-22T15:03:02Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
@@ -396,15 +423,6 @@
     "url": "https://github.com/kangwoo/aimon-core"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 822,
-    "updated_at": "2026-10-22T14:04:40Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
     "description": "Started as Human AI Interaction (WS25) Project for a S2S (Speech to Speech) Gaming Assistant",
     "id": "lufeld/game-assistant",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-22T13:26:38Z",
     "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 15,
-    "updated_at": "2026-10-22T15:03:46Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Free MIT AI coding agent \u2014 no API key needed. Built-in free model, or bring Claude, GPT, Gemini, DeepSeek, Ollama +50 mo",
-    "id": "dragonked2/alphacode",
-    "language": "Rust",
-    "name": "dragonked2/alphacode",
-    "stars": 410,
-    "updated_at": "2026-10-22T13:22:48Z",
-    "url": "https://github.com/dragonked2/alphacode"
   }
 ]
