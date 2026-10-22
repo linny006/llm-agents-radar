@@ -1,5 +1,77 @@
 [
   {
+    "description": "Persian AI agent for Liara: from 'here is my project' to a live app, then diagnose HTTP 500s, slowdowns and memory leaks",
+    "id": "ssepehrnoush/liara-copilot",
+    "language": "JavaScript",
+    "name": "ssepehrnoush/liara-copilot",
+    "stars": 0,
+    "updated_at": "2026-10-22T10:44:37Z",
+    "url": "https://github.com/ssepehrnoush/liara-copilot"
+  },
+  {
+    "description": "A voice AI companion for Windows and Linux. Create characters with ComfyUI, give them voices, emotions and memories. Loc",
+    "id": "ArthurReboulSalze/Sherka-Compagnon",
+    "language": "Rust",
+    "name": "ArthurReboulSalze/Sherka-Compagnon",
+    "stars": 1,
+    "updated_at": "2026-10-22T10:44:05Z",
+    "url": "https://github.com/ArthurReboulSalze/Sherka-Compagnon"
+  },
+  {
+    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
+    "id": "QQSHI13/fox-agent",
+    "language": "TypeScript",
+    "name": "QQSHI13/fox-agent",
+    "stars": 3,
+    "updated_at": "2026-10-22T10:40:41Z",
+    "url": "https://github.com/QQSHI13/fox-agent"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 5,
+    "updated_at": "2026-10-22T10:40:30Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
+    "id": "zeng6125-rgb/suixing",
+    "language": "Kotlin",
+    "name": "zeng6125-rgb/suixing",
+    "stars": 2,
+    "updated_at": "2026-10-22T10:41:53Z",
+    "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "[ICLR'25] OpenRCA: Can Large Language Models Locate the Root Cause of Software Failures?",
+    "id": "microsoft/OpenRCA",
+    "language": "Python",
+    "name": "microsoft/OpenRCA",
+    "stars": 444,
+    "updated_at": "2026-10-22T10:33:14Z",
+    "url": "https://github.com/microsoft/OpenRCA"
+  },
+  {
+    "description": "Local-first open-source AI coding agent built with Go \u2014 Desktop, CLI, TUI, WebUI, MCP, Skills, multi-agent workflows, an",
+    "id": "konglong87/go-e2e",
+    "language": "Go",
+    "name": "konglong87/go-e2e",
+    "stars": 0,
+    "updated_at": "2026-10-22T10:32:47Z",
+    "url": "https://github.com/konglong87/go-e2e"
+  },
+  {
+    "description": "Open-source runtime for LLM agents with persistent memory, relationship history, modeled mood, and evolving identity. Ca",
+    "id": "balfiky/openrook",
+    "language": "Python",
+    "name": "balfiky/openrook",
+    "stars": 3,
+    "updated_at": "2026-10-22T10:32:37Z",
+    "url": "https://github.com/balfiky/openrook"
+  },
+  {
     "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
     "id": "kangwoo/aimon-core",
     "language": "Java",
@@ -9,15 +81,6 @@
     "url": "https://github.com/kangwoo/aimon-core"
   },
   {
-    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
-    "id": "zeng6125-rgb/suixing",
-    "language": "Kotlin",
-    "name": "zeng6125-rgb/suixing",
-    "stars": 2,
-    "updated_at": "2026-10-22T10:28:33Z",
-    "url": "https://github.com/zeng6125-rgb/suixing"
-  },
-  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -25,15 +88,6 @@
     "stars": 15,
     "updated_at": "2026-10-22T10:27:03Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Local-first open-source AI coding agent built with Go \u2014 Desktop, CLI, TUI, WebUI, MCP, Skills, multi-agent workflows, an",
-    "id": "konglong87/go-e2e",
-    "language": "Go",
-    "name": "konglong87/go-e2e",
-    "stars": 0,
-    "updated_at": "2026-10-22T10:19:46Z",
-    "url": "https://github.com/konglong87/go-e2e"
   },
   {
     "description": "Hermes Agent acting on your behalf in your personal Telegram account (not a bot): Telethon backend + Hermes platform plu",
@@ -81,15 +135,6 @@
     "url": "https://github.com/xiaomaozjj666/web-crawler"
   },
   {
-    "description": "A voice AI companion for Windows and Linux. Create characters with ComfyUI, give them voices, emotions and memories. Loc",
-    "id": "ArthurReboulSalze/Sherka-Compagnon",
-    "language": "Rust",
-    "name": "ArthurReboulSalze/Sherka-Compagnon",
-    "stars": 1,
-    "updated_at": "2026-10-22T10:11:55Z",
-    "url": "https://github.com/ArthurReboulSalze/Sherka-Compagnon"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -122,7 +167,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-22T10:27:04Z",
+    "updated_at": "2026-10-22T10:44:02Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -279,15 +324,6 @@
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
-    "description": "Persian AI agent for Liara: from 'here is my project' to a live app, then diagnose HTTP 500s, slowdowns and memory leaks",
-    "id": "ssepehrnoush/liara-copilot",
-    "language": "JavaScript",
-    "name": "ssepehrnoush/liara-copilot",
-    "stars": 0,
-    "updated_at": "2026-10-22T09:36:34Z",
-    "url": "https://github.com/ssepehrnoush/liara-copilot"
-  },
-  {
     "description": "Linux distribution with a built-in, local-first AI assistant. A global hotkey opens an assistant that manages files, ins",
     "id": "gonicolas12/My_OS",
     "language": "Python",
@@ -382,7 +418,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 33632,
+    "stars": 33633,
     "updated_at": "2026-10-22T08:55:16Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -406,47 +442,11 @@
   },
   {
     "description": "AI agent that operates a two-VM lab (Kali Linux + Windows) over SSH: shell & scripts, file transfer, screenshots, GUI au",
-    "id": "VAHPEM/dual-vm-ai-agent",
+    "id": "VAHPEM/ctf-brain",
     "language": "Python",
-    "name": "VAHPEM/dual-vm-ai-agent",
+    "name": "VAHPEM/ctf-brain",
     "stars": 0,
     "updated_at": "2026-10-22T08:48:23Z",
-    "url": "https://github.com/VAHPEM/dual-vm-ai-agent"
-  },
-  {
-    "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
-    "id": "HKUDS/DeepCode",
-    "language": "Python",
-    "name": "HKUDS/DeepCode",
-    "stars": 16741,
-    "updated_at": "2026-10-22T08:47:07Z",
-    "url": "https://github.com/HKUDS/DeepCode"
-  },
-  {
-    "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
-    "id": "ximing/vital",
-    "language": "TypeScript",
-    "name": "ximing/vital",
-    "stars": 4,
-    "updated_at": "2026-10-22T08:45:11Z",
-    "url": "https://github.com/ximing/vital"
-  },
-  {
-    "description": "Multi-tenant console for supplier bill exceptions. Workers check bills and raise exceptions, an LLM agent drafts a bound",
-    "id": "nish1013/bill-exception-ai-agent",
-    "language": "Python",
-    "name": "nish1013/bill-exception-ai-agent",
-    "stars": 1,
-    "updated_at": "2026-10-22T08:40:59Z",
-    "url": "https://github.com/nish1013/bill-exception-ai-agent"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-22T08:37:53Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
+    "url": "https://github.com/VAHPEM/ctf-brain"
   }
 ]
