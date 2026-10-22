@@ -1,21 +1,39 @@
 [
   {
-    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
-    "id": "QQSHI13/fox-agent",
+    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
+    "id": "xanstomper/mochi",
     "language": "TypeScript",
-    "name": "QQSHI13/fox-agent",
-    "stars": 3,
-    "updated_at": "2026-10-22T11:28:41Z",
-    "url": "https://github.com/QQSHI13/fox-agent"
+    "name": "xanstomper/mochi",
+    "stars": 1,
+    "updated_at": "2026-10-22T11:44:58Z",
+    "url": "https://github.com/xanstomper/mochi"
   },
   {
-    "description": "LLM agent for literature-driven materials discovery \u2014 23 tools, auditable evidence chain, MOF CO\u2082 case study",
-    "id": "Alwayshere-su/pi-agent",
+    "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
+    "id": "honestDS/MonoLight",
     "language": "Python",
-    "name": "Alwayshere-su/pi-agent",
+    "name": "honestDS/MonoLight",
+    "stars": 9,
+    "updated_at": "2026-10-22T11:43:13Z",
+    "url": "https://github.com/honestDS/MonoLight"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 903,
+    "updated_at": "2026-10-22T11:39:23Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "AI agent that operates a two-VM lab (Kali Linux + Windows) over SSH: shell & scripts, file transfer, screenshots, GUI au",
+    "id": "VAHPEM/ctf-brain",
+    "language": "Python",
+    "name": "VAHPEM/ctf-brain",
     "stars": 0,
-    "updated_at": "2026-10-22T11:28:38Z",
-    "url": "https://github.com/Alwayshere-su/pi-agent"
+    "updated_at": "2026-10-22T11:38:28Z",
+    "url": "https://github.com/VAHPEM/ctf-brain"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -23,17 +41,53 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 15,
-    "updated_at": "2026-10-22T11:28:30Z",
+    "updated_at": "2026-10-22T11:37:52Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
-    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
-    "id": "xanstomper/mochi",
+    "description": "LLM agent for literature-driven materials discovery \u2014 23 tools, auditable evidence chain, MOF CO\u2082 case study",
+    "id": "Alwayshere-su/pi-agent",
+    "language": "Python",
+    "name": "Alwayshere-su/pi-agent",
+    "stars": 0,
+    "updated_at": "2026-10-22T11:37:11Z",
+    "url": "https://github.com/Alwayshere-su/pi-agent"
+  },
+  {
+    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
+    "id": "QQSHI13/fox-agent",
     "language": "TypeScript",
-    "name": "xanstomper/mochi",
-    "stars": 1,
-    "updated_at": "2026-10-22T11:27:14Z",
-    "url": "https://github.com/xanstomper/mochi"
+    "name": "QQSHI13/fox-agent",
+    "stars": 3,
+    "updated_at": "2026-10-22T11:35:07Z",
+    "url": "https://github.com/QQSHI13/fox-agent"
+  },
+  {
+    "description": "AI coding agent for terminal, desktop and browser. Visible execution records, LAN mesh collaboration across machines, ph",
+    "id": "holylong/luban",
+    "language": "TypeScript",
+    "name": "holylong/luban",
+    "stars": 0,
+    "updated_at": "2026-10-22T11:33:10Z",
+    "url": "https://github.com/holylong/luban"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "Go",
+    "name": "dsswift/ion",
+    "stars": 4,
+    "updated_at": "2026-10-22T11:31:21Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "Keyboard-first Kubernetes TUI with an AI agent that works on the same screen, plus an MCP bridge for your editor's assis",
+    "id": "hellices/korvid",
+    "language": "Python",
+    "name": "hellices/korvid",
+    "stars": 3,
+    "updated_at": "2026-10-22T11:30:55Z",
+    "url": "https://github.com/hellices/korvid"
   },
   {
     "description": "The Self-Improving Coding Agent",
@@ -72,21 +126,12 @@
     "url": "https://github.com/evangoh122/quant_platform_1"
   },
   {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "Go",
-    "name": "dsswift/ion",
-    "stars": 4,
-    "updated_at": "2026-10-22T11:16:49Z",
-    "url": "https://github.com/dsswift/ion"
-  },
-  {
     "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
     "id": "zhixuli0406/DuDuClaw",
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 50,
-    "updated_at": "2026-10-22T11:10:06Z",
+    "updated_at": "2026-10-22T11:39:44Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
@@ -293,7 +338,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-22T11:29:14Z",
+    "updated_at": "2026-10-22T11:41:04Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -342,15 +387,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "AI coding agent for terminal, desktop and browser. Visible execution records, LAN mesh collaboration across machines, ph",
-    "id": "holylong/luban",
-    "language": "TypeScript",
-    "name": "holylong/luban",
-    "stars": 0,
-    "updated_at": "2026-10-22T09:55:31Z",
-    "url": "https://github.com/holylong/luban"
-  },
-  {
     "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
     "id": "roxm337/osint-agent",
     "language": "Python",
@@ -367,15 +403,6 @@
     "stars": 0,
     "updated_at": "2026-10-22T09:51:21Z",
     "url": "https://github.com/bitranox/vnc-remote-control"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 903,
-    "updated_at": "2026-10-22T11:24:55Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "\u628a\u957f\u5bf9\u8bdd\u7684\u91cd\u590d\u8ba1\u8d39\u780d\u6389\u4e00\u534a\uff0c\u5e76\u7ed9\u6a21\u578b\u914d\u4e00\u540d\u53ea\u8bfb\u8c03\u67e5\u5458\uff1a\u5148\u6838\u5b9e\uff0c\u540e\u52a8\u624b\u3002\u9762\u5411 DeepSeek Harness \u7684\u4e0a\u4e0b\u6587\u538b\u7f29\u4e0e\u5916\u7f6e\u63a8\u7406\u63d2\u4ef6\uff08MIT\uff09\u3002",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-22T09:55:22Z",
     "url": "https://github.com/gonicolas12/My_OS"
-  },
-  {
-    "description": "Self-diagnosis and troubleshooting for Hermes Agent.",
-    "id": "iap/hermes-guide",
-    "language": "Python",
-    "name": "iap/hermes-guide",
-    "stars": 3,
-    "updated_at": "2026-10-22T09:31:02Z",
-    "url": "https://github.com/iap/hermes-guide"
-  },
-  {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 1,
-    "updated_at": "2026-10-22T09:24:58Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
-  },
-  {
-    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
-    "id": "RalfHermsen/x4-agent",
-    "language": "Python",
-    "name": "RalfHermsen/x4-agent",
-    "stars": 0,
-    "updated_at": "2026-10-22T09:23:47Z",
-    "url": "https://github.com/RalfHermsen/x4-agent"
   }
 ]
