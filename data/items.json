@@ -1,5 +1,68 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 29,
+    "updated_at": "2026-10-22T06:44:04Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
+    "id": "shimo4228/contemplative-agent",
+    "language": "Python",
+    "name": "shimo4228/contemplative-agent",
+    "stars": 9,
+    "updated_at": "2026-10-22T06:44:00Z",
+    "url": "https://github.com/shimo4228/contemplative-agent"
+  },
+  {
+    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
+    "id": "xieguigang/sciBASIC",
+    "language": "Visual Basic .NET",
+    "name": "xieguigang/sciBASIC",
+    "stars": 79,
+    "updated_at": "2026-10-22T06:43:01Z",
+    "url": "https://github.com/xieguigang/sciBASIC"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-22T06:42:38Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
+    "id": "memoways/ava-proto1",
+    "language": "TypeScript",
+    "name": "memoways/ava-proto1",
+    "stars": 0,
+    "updated_at": "2026-10-22T06:37:52Z",
+    "url": "https://github.com/memoways/ava-proto1"
+  },
+  {
+    "description": "dsh-sieve: context engineering & token optimization plugin for DeepSeek Harness (DSH) \u2014 tool output filtering, context p",
+    "id": "Sev7eEn7/dsh-sieve",
+    "language": "TypeScript",
+    "name": "Sev7eEn7/dsh-sieve",
+    "stars": 103,
+    "updated_at": "2026-10-22T06:37:00Z",
+    "url": "https://github.com/Sev7eEn7/dsh-sieve"
+  },
+  {
+    "description": "Build AI agents that actually do things. Synapse is an open-source platform for creating, connecting, and orchestrating ",
+    "id": "synapseorch-ai/synapse-ai",
+    "language": "Python",
+    "name": "synapseorch-ai/synapse-ai",
+    "stars": 331,
+    "updated_at": "2026-10-22T06:35:25Z",
+    "url": "https://github.com/synapseorch-ai/synapse-ai"
+  },
+  {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
     "id": "plurnk/plurnk-service",
     "language": "TypeScript",
@@ -32,7 +95,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-22T06:27:01Z",
+    "updated_at": "2026-10-22T06:36:11Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -41,7 +104,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 14,
-    "updated_at": "2026-10-22T06:26:52Z",
+    "updated_at": "2026-10-22T06:40:23Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -50,17 +113,8 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 15,
-    "updated_at": "2026-10-22T06:26:37Z",
+    "updated_at": "2026-10-22T06:44:45Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 29,
-    "updated_at": "2026-10-22T06:23:04Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "CIRIS: an open-source AI assistant with a conscience you can check. Signed, auditable reasoning on every decision, a hum",
@@ -86,7 +140,7 @@
     "language": "Python",
     "name": "yuxinlaile/McD-saver",
     "stars": 115,
-    "updated_at": "2026-10-22T06:03:07Z",
+    "updated_at": "2026-10-22T06:42:21Z",
     "url": "https://github.com/yuxinlaile/McD-saver"
   },
   {
@@ -97,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-22T06:01:28Z",
     "url": "https://github.com/ssepehrnoush/liara-copilot"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-22T05:56:32Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
@@ -302,7 +347,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-10-22T04:35:43Z",
+    "updated_at": "2026-10-22T06:34:26Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-22T03:56:19Z",
     "url": "https://github.com/Shuffle-1992/dsh-dispatch"
-  },
-  {
-    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
-    "id": "hsaghir/looplet",
-    "language": "Python",
-    "name": "hsaghir/looplet",
-    "stars": 7,
-    "updated_at": "2026-10-22T03:48:32Z",
-    "url": "https://github.com/hsaghir/looplet"
-  },
-  {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 7,
-    "updated_at": "2026-10-22T03:47:29Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
-  },
-  {
-    "description": "AI coding agent for terminal, desktop and browser. Visible execution records, LAN mesh collaboration across machines, ph",
-    "id": "holylong/luban",
-    "language": "TypeScript",
-    "name": "holylong/luban",
-    "stars": 0,
-    "updated_at": "2026-10-22T03:42:29Z",
-    "url": "https://github.com/holylong/luban"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 2,
-    "updated_at": "2026-10-22T06:06:52Z",
-    "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Geoscience agent API (Hermes-Geo): answers questions about sedimentary basins with cited data from a read-only GeoDB, bu",
-    "id": "ArthurFachel/Lightsail-Petrobras",
-    "language": "Python",
-    "name": "ArthurFachel/Lightsail-Petrobras",
-    "stars": 0,
-    "updated_at": "2026-10-22T03:35:13Z",
-    "url": "https://github.com/ArthurFachel/Lightsail-Petrobras"
   }
 ]
