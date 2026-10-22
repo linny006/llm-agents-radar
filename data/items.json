@@ -1,12 +1,30 @@
 [
   {
-    "description": "Self-diagnosis and troubleshooting for Hermes Agent.",
-    "id": "iap/hermes-guide",
+    "description": "Persian AI agent for Liara: from 'here is my project' to a live app, then diagnose HTTP 500s, slowdowns and memory leaks",
+    "id": "ssepehrnoush/liara-copilot",
+    "language": "JavaScript",
+    "name": "ssepehrnoush/liara-copilot",
+    "stars": 0,
+    "updated_at": "2026-10-22T09:36:34Z",
+    "url": "https://github.com/ssepehrnoush/liara-copilot"
+  },
+  {
+    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
+    "id": "oldfunk/paper-trading",
     "language": "Python",
-    "name": "iap/hermes-guide",
-    "stars": 3,
-    "updated_at": "2026-10-22T09:28:36Z",
-    "url": "https://github.com/iap/hermes-guide"
+    "name": "oldfunk/paper-trading",
+    "stars": 1,
+    "updated_at": "2026-10-22T09:36:22Z",
+    "url": "https://github.com/oldfunk/paper-trading"
+  },
+  {
+    "description": "Linux distribution with a built-in, local-first AI assistant. A global hotkey opens an assistant that manages files, ins",
+    "id": "gonicolas12/My_OS",
+    "language": "Python",
+    "name": "gonicolas12/My_OS",
+    "stars": 2,
+    "updated_at": "2026-10-22T09:35:37Z",
+    "url": "https://github.com/gonicolas12/My_OS"
   },
   {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
@@ -14,8 +32,35 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 900,
-    "updated_at": "2026-10-22T09:26:53Z",
+    "updated_at": "2026-10-22T09:32:34Z",
     "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "\u628a\u6d77\u91cf\u5546\u54c1\u8bc4\u8bba\u6574\u7406\u6210\u53ef\u56de\u67e5\u3001\u53ef\u590d\u6838\u7684\u8fd0\u8425\u8bc1\u636e:\u53d7\u7ea6\u675f Agent + \u672c\u5730\u8bc1\u636e\u5f15\u64ce + \u9010\u5b57\u6bb5\u6821\u9a8c\u3002\u4ed3\u5e93\u81ea\u5e26 3 \u5546\u54c1\u6f14\u793a\u5b50\u96c6,\u514b\u9686\u5373\u53ef\u8fd0\u884c;AI \u6b65\u9aa4\u652f\u6301\u8bbf\u95ee\u8005\u81ea\u5e26 DeepSeek key\u3002",
+    "id": "TheSKY-3/ecom-review-intelligence",
+    "language": "Python",
+    "name": "TheSKY-3/ecom-review-intelligence",
+    "stars": 0,
+    "updated_at": "2026-10-22T09:32:01Z",
+    "url": "https://github.com/TheSKY-3/ecom-review-intelligence"
+  },
+  {
+    "description": "Local-first open-source AI coding agent built with Go \u2014 Desktop, CLI, TUI, WebUI, MCP, Skills, multi-agent workflows, an",
+    "id": "konglong87/go-e2e",
+    "language": "Go",
+    "name": "konglong87/go-e2e",
+    "stars": 0,
+    "updated_at": "2026-10-22T09:31:59Z",
+    "url": "https://github.com/konglong87/go-e2e"
+  },
+  {
+    "description": "Self-diagnosis and troubleshooting for Hermes Agent.",
+    "id": "iap/hermes-guide",
+    "language": "Python",
+    "name": "iap/hermes-guide",
+    "stars": 3,
+    "updated_at": "2026-10-22T09:31:02Z",
+    "url": "https://github.com/iap/hermes-guide"
   },
   {
     "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
@@ -61,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-10-22T09:19:57Z",
     "url": "https://github.com/zeng6125-rgb/suixing"
-  },
-  {
-    "description": "\u628a\u6d77\u91cf\u5546\u54c1\u8bc4\u8bba\u6574\u7406\u6210\u53ef\u56de\u67e5\u3001\u53ef\u590d\u6838\u7684\u8fd0\u8425\u8bc1\u636e:\u53d7\u7ea6\u675f Agent + \u672c\u5730\u8bc1\u636e\u5f15\u64ce + \u9010\u5b57\u6bb5\u6821\u9a8c\u3002\u4ed3\u5e93\u81ea\u5e26 3 \u5546\u54c1\u6f14\u793a\u5b50\u96c6,\u514b\u9686\u5373\u53ef\u8fd0\u884c;AI \u6b65\u9aa4\u652f\u6301\u8bbf\u95ee\u8005\u81ea\u5e26 DeepSeek key\u3002",
-    "id": "TheSKY-3/ecom-review-intelligence",
-    "language": "Python",
-    "name": "TheSKY-3/ecom-review-intelligence",
-    "stars": 0,
-    "updated_at": "2026-10-22T09:15:46Z",
-    "url": "https://github.com/TheSKY-3/ecom-review-intelligence"
   },
   {
     "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
@@ -121,7 +157,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 33627,
+    "stars": 33628,
     "updated_at": "2026-10-22T08:55:16Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -133,15 +169,6 @@
     "stars": 822,
     "updated_at": "2026-10-22T08:54:40Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Linux distribution with a built-in, local-first AI assistant. A global hotkey opens an assistant that manages files, ins",
-    "id": "gonicolas12/My_OS",
-    "language": "Python",
-    "name": "gonicolas12/My_OS",
-    "stars": 2,
-    "updated_at": "2026-10-22T09:13:09Z",
-    "url": "https://github.com/gonicolas12/My_OS"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -158,7 +185,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 2,
-    "updated_at": "2026-10-22T09:30:13Z",
+    "updated_at": "2026-10-22T09:37:30Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -169,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-22T08:50:55Z",
     "url": "https://github.com/Lougle360/course-factory-agent"
-  },
-  {
-    "description": "Local-first open-source AI coding agent built with Go \u2014 Desktop, CLI, TUI, WebUI, MCP, Skills, multi-agent workflows, an",
-    "id": "konglong87/go-e2e",
-    "language": "Go",
-    "name": "konglong87/go-e2e",
-    "stars": 0,
-    "updated_at": "2026-10-22T08:50:31Z",
-    "url": "https://github.com/konglong87/go-e2e"
   },
   {
     "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
@@ -205,15 +223,6 @@
     "stars": 16741,
     "updated_at": "2026-10-22T08:47:07Z",
     "url": "https://github.com/HKUDS/DeepCode"
-  },
-  {
-    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
-    "id": "oldfunk/paper-trading",
-    "language": "Python",
-    "name": "oldfunk/paper-trading",
-    "stars": 1,
-    "updated_at": "2026-10-22T08:46:31Z",
-    "url": "https://github.com/oldfunk/paper-trading"
   },
   {
     "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-10-22T07:32:17Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "Per-episode logs of AI Megabase: Claude Opus 5.5 plays Factorio on its own",
-    "id": "aimegabase/ai-megabase-log",
-    "language": "\u2014",
-    "name": "aimegabase/ai-megabase-log",
-    "stars": 0,
-    "updated_at": "2026-10-22T07:28:45Z",
-    "url": "https://github.com/aimegabase/ai-megabase-log"
   }
 ]
