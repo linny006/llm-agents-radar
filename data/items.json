@@ -1,5 +1,41 @@
 [
   {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3660,
+    "updated_at": "2026-10-22T09:43:52Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 900,
+    "updated_at": "2026-10-22T09:41:54Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "A voice AI companion for Windows and Linux. Create characters with ComfyUI, give them voices, emotions and memories. Loc",
+    "id": "ArthurReboulSalze/Sherka-Compagnon",
+    "language": "Rust",
+    "name": "ArthurReboulSalze/Sherka-Compagnon",
+    "stars": 1,
+    "updated_at": "2026-10-22T09:41:25Z",
+    "url": "https://github.com/ArthurReboulSalze/Sherka-Compagnon"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 15,
+    "updated_at": "2026-10-22T09:40:19Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "Persian AI agent for Liara: from 'here is my project' to a live app, then diagnose HTTP 500s, slowdowns and memory leaks",
     "id": "ssepehrnoush/liara-copilot",
     "language": "JavaScript",
@@ -25,15 +61,6 @@
     "stars": 2,
     "updated_at": "2026-10-22T09:35:37Z",
     "url": "https://github.com/gonicolas12/My_OS"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 900,
-    "updated_at": "2026-10-22T09:32:34Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "\u628a\u6d77\u91cf\u5546\u54c1\u8bc4\u8bba\u6574\u7406\u6210\u53ef\u56de\u67e5\u3001\u53ef\u590d\u6838\u7684\u8fd0\u8425\u8bc1\u636e:\u53d7\u7ea6\u675f Agent + \u672c\u5730\u8bc1\u636e\u5f15\u64ce + \u9010\u5b57\u6bb5\u6821\u9a8c\u3002\u4ed3\u5e93\u81ea\u5e26 3 \u5546\u54c1\u6f14\u793a\u5b50\u96c6,\u514b\u9686\u5373\u53ef\u8fd0\u884c;AI \u6b65\u9aa4\u652f\u6301\u8bbf\u95ee\u8005\u81ea\u5e26 DeepSeek key\u3002",
@@ -157,7 +184,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 33628,
+    "stars": 33629,
     "updated_at": "2026-10-22T08:55:16Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -185,7 +212,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 2,
-    "updated_at": "2026-10-22T09:37:30Z",
+    "updated_at": "2026-10-22T09:44:35Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -286,15 +313,6 @@
     "stars": 51,
     "updated_at": "2026-10-22T08:22:44Z",
     "url": "https://github.com/tara-vision/taracode"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 15,
-    "updated_at": "2026-10-22T09:11:49Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker.",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-22T07:54:56Z",
     "url": "https://github.com/bd-loser/hermes-bionic"
-  },
-  {
-    "description": "CIRIS: an open-source AI assistant with a conscience you can check. Signed, auditable reasoning on every decision, a hum",
-    "id": "CIRISAI/CIRISAgent",
-    "language": "Python",
-    "name": "CIRISAI/CIRISAgent",
-    "stars": 58,
-    "updated_at": "2026-10-22T07:32:20Z",
-    "url": "https://github.com/CIRISAI/CIRISAgent"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 6,
-    "updated_at": "2026-10-22T07:32:17Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   }
 ]
