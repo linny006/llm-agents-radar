@@ -1,12 +1,12 @@
 [
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 29,
-    "updated_at": "2026-10-22T07:58:08Z",
-    "url": "https://github.com/tomcounsell/ai"
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 365,
+    "updated_at": "2026-10-22T08:12:08Z",
+    "url": "https://github.com/yologdev/yoagent"
   },
   {
     "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
@@ -14,7 +14,7 @@
     "language": "Python",
     "name": "oldfunk/paper-trading",
     "stars": 1,
-    "updated_at": "2026-10-22T07:55:19Z",
+    "updated_at": "2026-10-22T08:08:45Z",
     "url": "https://github.com/oldfunk/paper-trading"
   },
   {
@@ -23,8 +23,44 @@
     "language": "Go",
     "name": "agentscope-ai/agentscope-go",
     "stars": 64,
-    "updated_at": "2026-10-22T07:54:13Z",
+    "updated_at": "2026-10-22T08:07:45Z",
     "url": "https://github.com/agentscope-ai/agentscope-go"
+  },
+  {
+    "description": "\u628a\u6d77\u91cf\u5546\u54c1\u8bc4\u8bba\u6574\u7406\u6210\u53ef\u56de\u67e5\u3001\u53ef\u590d\u6838\u7684\u8fd0\u8425\u8bc1\u636e:\u53d7\u7ea6\u675f Agent + \u672c\u5730\u8bc1\u636e\u5f15\u64ce + \u9010\u5b57\u6bb5\u6821\u9a8c\u3002\u4ed3\u5e93\u81ea\u5e26 3 \u5546\u54c1\u6f14\u793a\u5b50\u96c6,\u514b\u9686\u5373\u53ef\u8fd0\u884c;AI \u6b65\u9aa4\u652f\u6301\u8bbf\u95ee\u8005\u81ea\u5e26 DeepSeek key\u3002",
+    "id": "TheSKY-3/ecom-review-intelligence",
+    "language": "Python",
+    "name": "TheSKY-3/ecom-review-intelligence",
+    "stars": 0,
+    "updated_at": "2026-10-22T08:06:47Z",
+    "url": "https://github.com/TheSKY-3/ecom-review-intelligence"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 1213,
+    "updated_at": "2026-10-22T08:06:24Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
+    "id": "xieguigang/sciBASIC",
+    "language": "Visual Basic .NET",
+    "name": "xieguigang/sciBASIC",
+    "stars": 79,
+    "updated_at": "2026-10-22T08:05:18Z",
+    "url": "https://github.com/xieguigang/sciBASIC"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 29,
+    "updated_at": "2026-10-22T07:58:08Z",
+    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -54,15 +90,6 @@
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
-    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
-    "id": "xieguigang/sciBASIC",
-    "language": "Visual Basic .NET",
-    "name": "xieguigang/sciBASIC",
-    "stars": 79,
-    "updated_at": "2026-10-22T07:52:58Z",
-    "url": "https://github.com/xieguigang/sciBASIC"
-  },
-  {
     "description": "Local-first long-term memory and safer context compression for Hermes Agent \u2014 SQLite, no required services.",
     "id": "indigokarasu/chronicle-agent-context-and-memory",
     "language": "Python",
@@ -79,15 +106,6 @@
     "stars": 54,
     "updated_at": "2026-10-22T07:52:06Z",
     "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "\u628a\u6d77\u91cf\u5546\u54c1\u8bc4\u8bba\u6574\u7406\u6210\u53ef\u56de\u67e5\u3001\u53ef\u590d\u6838\u7684\u8fd0\u8425\u8bc1\u636e:\u53d7\u7ea6\u675f Agent + \u672c\u5730\u8bc1\u636e\u5f15\u64ce + \u9010\u5b57\u6bb5\u6821\u9a8c\u3002\u4ed3\u5e93\u81ea\u5e26 3 \u5546\u54c1\u6f14\u793a\u5b50\u96c6,\u514b\u9686\u5373\u53ef\u8fd0\u884c;AI \u6b65\u9aa4\u652f\u6301\u8bbf\u95ee\u8005\u81ea\u5e26 DeepSeek key\u3002",
-    "id": "TheSKY-3/ecom-review-intelligence",
-    "language": "Python",
-    "name": "TheSKY-3/ecom-review-intelligence",
-    "stars": 0,
-    "updated_at": "2026-10-22T07:51:35Z",
-    "url": "https://github.com/TheSKY-3/ecom-review-intelligence"
   },
   {
     "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
@@ -113,7 +131,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-22T07:45:59Z",
+    "updated_at": "2026-10-22T08:09:56Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -122,7 +140,7 @@
     "language": "Python",
     "name": "evangoh122/quant_platform_1",
     "stars": 1,
-    "updated_at": "2026-10-22T07:45:00Z",
+    "updated_at": "2026-10-22T08:12:37Z",
     "url": "https://github.com/evangoh122/quant_platform_1"
   },
   {
@@ -261,15 +279,6 @@
     "url": "https://github.com/ssepehrnoush/liara-copilot"
   },
   {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 1213,
-    "updated_at": "2026-10-22T07:51:53Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
     "description": "Local-first pentest agent: Go daemon + React dashboard + Codex/Claude Code/Pi runtimes, scoped projects, Blackboard, san",
     "id": "n1majne3/CyberPenda",
     "language": "Go",
@@ -311,7 +320,7 @@
     "language": "Rust",
     "name": "ljedrz/nachalnik",
     "stars": 5,
-    "updated_at": "2026-10-22T07:06:18Z",
+    "updated_at": "2026-10-22T08:14:56Z",
     "url": "https://github.com/ljedrz/nachalnik"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 32,
     "updated_at": "2026-10-22T06:58:20Z",
     "url": "https://github.com/Shadowell/Alpha"
-  },
-  {
-    "description": "A small terminal coding agent for DeepSeek models: it reads your repository, runs commands after asking, proposes edits ",
-    "id": "appleweiping/WEIPING_WHALE",
-    "language": "TypeScript",
-    "name": "appleweiping/WEIPING_WHALE",
-    "stars": 131,
-    "updated_at": "2026-10-22T06:27:07Z",
-    "url": "https://github.com/appleweiping/WEIPING_WHALE"
   }
 ]
