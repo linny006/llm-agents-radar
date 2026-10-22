@@ -1,5 +1,59 @@
 [
   {
+    "description": "A cloud-resident agent that keeps a Zettelkasten on schedule \u2014 and never writes in it.",
+    "id": "skazler/slipbox-agent",
+    "language": "TypeScript",
+    "name": "skazler/slipbox-agent",
+    "stars": 0,
+    "updated_at": "2026-10-22T13:39:10Z",
+    "url": "https://github.com/skazler/slipbox-agent"
+  },
+  {
+    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 50,
+    "updated_at": "2026-10-22T13:36:35Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "TypeScript",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8913,
+    "updated_at": "2026-10-22T13:44:27Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
+    "id": "QQSHI13/fox-agent",
+    "language": "TypeScript",
+    "name": "QQSHI13/fox-agent",
+    "stars": 3,
+    "updated_at": "2026-10-22T13:33:12Z",
+    "url": "https://github.com/QQSHI13/fox-agent"
+  },
+  {
+    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
+    "id": "haibingzhao/easyai",
+    "language": "Kotlin",
+    "name": "haibingzhao/easyai",
+    "stars": 1,
+    "updated_at": "2026-10-22T13:31:54Z",
+    "url": "https://github.com/haibingzhao/easyai"
+  },
+  {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-10-22T13:31:17Z",
+    "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
@@ -9,13 +63,13 @@
     "url": "https://github.com/helixml/helix"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "TypeScript",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8912,
-    "updated_at": "2026-10-22T13:29:31Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
+    "description": "Started as Human AI Interaction (WS25) Project for a S2S (Speech to Speech) Gaming Assistant",
+    "id": "lufeld/game-assistant",
+    "language": "Python",
+    "name": "lufeld/game-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-22T13:28:18Z",
+    "url": "https://github.com/lufeld/game-assistant"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -50,7 +104,7 @@
     "language": "TypeScript",
     "name": "edjafarov/kiagent-core",
     "stars": 7,
-    "updated_at": "2026-10-22T13:25:49Z",
+    "updated_at": "2026-10-22T13:39:12Z",
     "url": "https://github.com/edjafarov/kiagent-core"
   },
   {
@@ -90,15 +144,6 @@
     "url": "https://github.com/xiaomaozjj666/web-crawler"
   },
   {
-    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
-    "id": "QQSHI13/fox-agent",
-    "language": "TypeScript",
-    "name": "QQSHI13/fox-agent",
-    "stars": 3,
-    "updated_at": "2026-10-22T13:20:32Z",
-    "url": "https://github.com/QQSHI13/fox-agent"
-  },
-  {
     "description": "Personal AI agent built from scratch \u2014 LLM layer, RAG knowledge base, tool calling loop. No frameworks, learn by buildin",
     "id": "Wenyan0315/facta",
     "language": "Python",
@@ -115,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-22T13:15:09Z",
     "url": "https://github.com/winc-0/zhifu"
-  },
-  {
-    "description": "\u7834\u7a79 \u00b7 DeepSeek Harness \u7834\u7532\u63d2\u4ef6\uff1a\u63d0\u793a\u8bcd\u6808\u9876\u534f\u8bae + \u5ba1\u6279\u4e0e\u6c99\u7bb1\u653e\u884c + \u62c6\u6389\u300c\u5148\u8bfb\u4e00\u904d\u300d\u529d\u9000\u6587\u6848 + \u9ed8\u8ba4\u5f00\u542f\u7684\u4e0a\u4e0b\u6587\u538b\u7f29\u5c42\uff0c\u81ea\u5e26\u63a7\u5236\u9762\u677f\u4e0e\u516d\u9879\u6f14\u7ec3\u53f0\uff0c\u4e00\u952e\u53ef\u56de\u6eda\uff0c\u4e0e\u5176\u5b83\u7834\u7532\u63d2\u4ef6\u5171\u5b58\u4e0d\u6253\u67b6",
-    "id": "shiyi312/dsh-poqiong",
-    "language": "JavaScript",
-    "name": "shiyi312/dsh-poqiong",
-    "stars": 1,
-    "updated_at": "2026-10-22T13:13:47Z",
-    "url": "https://github.com/shiyi312/dsh-poqiong"
   },
   {
     "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
@@ -238,7 +274,7 @@
     "id": "EvannZhongg/Nosis",
     "language": "Python",
     "name": "EvannZhongg/Nosis",
-    "stars": 12,
+    "stars": 10,
     "updated_at": "2026-10-22T12:43:04Z",
     "url": "https://github.com/EvannZhongg/Nosis"
   },
@@ -277,15 +313,6 @@
     "stars": 2,
     "updated_at": "2026-10-22T12:35:15Z",
     "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
-    "id": "kangwoo/aimon-core",
-    "language": "Java",
-    "name": "kangwoo/aimon-core",
-    "stars": 0,
-    "updated_at": "2026-10-22T13:14:59Z",
-    "url": "https://github.com/kangwoo/aimon-core"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -418,35 +445,8 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 911,
+    "stars": 913,
     "updated_at": "2026-10-22T11:39:23Z",
     "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "LLM agent for literature-driven materials discovery \u2014 23 tools, auditable evidence chain, MOF CO\u2082 case study",
-    "id": "Alwayshere-su/pi-agent",
-    "language": "Python",
-    "name": "Alwayshere-su/pi-agent",
-    "stars": 0,
-    "updated_at": "2026-10-22T11:37:11Z",
-    "url": "https://github.com/Alwayshere-su/pi-agent"
-  },
-  {
-    "description": "AI coding agent for terminal, desktop and browser. Visible execution records, LAN mesh collaboration across machines, ph",
-    "id": "holylong/luban",
-    "language": "TypeScript",
-    "name": "holylong/luban",
-    "stars": 0,
-    "updated_at": "2026-10-22T11:33:10Z",
-    "url": "https://github.com/holylong/luban"
-  },
-  {
-    "description": "Keyboard-first Kubernetes TUI with an AI agent that works on the same screen, plus an MCP bridge for your editor's assis",
-    "id": "hellices/korvid",
-    "language": "Python",
-    "name": "hellices/korvid",
-    "stars": 3,
-    "updated_at": "2026-10-22T13:26:30Z",
-    "url": "https://github.com/hellices/korvid"
   }
 ]
