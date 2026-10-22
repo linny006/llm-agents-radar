@@ -1,5 +1,59 @@
 [
   {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-22T11:13:51Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 50,
+    "updated_at": "2026-10-22T11:10:06Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "A small terminal coding agent for DeepSeek models: it reads your repository, runs commands after asking, proposes edits ",
+    "id": "appleweiping/WEIPING_WHALE",
+    "language": "TypeScript",
+    "name": "appleweiping/WEIPING_WHALE",
+    "stars": 131,
+    "updated_at": "2026-10-22T11:05:51Z",
+    "url": "https://github.com/appleweiping/WEIPING_WHALE"
+  },
+  {
+    "description": "\u628a\u6d77\u91cf\u5546\u54c1\u8bc4\u8bba\u6574\u7406\u6210\u53ef\u56de\u67e5\u3001\u53ef\u590d\u6838\u7684\u8fd0\u8425\u8bc1\u636e:\u53d7\u7ea6\u675f Agent + \u672c\u5730\u8bc1\u636e\u5f15\u64ce + \u9010\u5b57\u6bb5\u6821\u9a8c\u3002\u4ed3\u5e93\u81ea\u5e26 3 \u5546\u54c1\u6f14\u793a\u5b50\u96c6,\u514b\u9686\u5373\u53ef\u8fd0\u884c;AI \u6b65\u9aa4\u652f\u6301\u8bbf\u95ee\u8005\u81ea\u5e26 DeepSeek key\u3002",
+    "id": "TheSKY-3/ecom-review-intelligence",
+    "language": "Python",
+    "name": "TheSKY-3/ecom-review-intelligence",
+    "stars": 0,
+    "updated_at": "2026-10-22T11:04:44Z",
+    "url": "https://github.com/TheSKY-3/ecom-review-intelligence"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 15,
+    "updated_at": "2026-10-22T11:05:39Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
+    "id": "QQSHI13/fox-agent",
+    "language": "TypeScript",
+    "name": "QQSHI13/fox-agent",
+    "stars": 3,
+    "updated_at": "2026-10-22T11:02:09Z",
+    "url": "https://github.com/QQSHI13/fox-agent"
+  },
+  {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
     "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
@@ -63,15 +117,6 @@
     "url": "https://github.com/ArthurReboulSalze/Sherka-Compagnon"
   },
   {
-    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
-    "id": "QQSHI13/fox-agent",
-    "language": "TypeScript",
-    "name": "QQSHI13/fox-agent",
-    "stars": 3,
-    "updated_at": "2026-10-22T10:40:41Z",
-    "url": "https://github.com/QQSHI13/fox-agent"
-  },
-  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
@@ -124,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-22T10:29:21Z",
     "url": "https://github.com/kangwoo/aimon-core"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 15,
-    "updated_at": "2026-10-22T10:52:29Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Hermes Agent acting on your behalf in your personal Telegram account (not a bot): Telethon backend + Hermes platform plu",
@@ -203,17 +239,8 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-22T10:57:17Z",
+    "updated_at": "2026-10-22T11:13:30Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "\u628a\u6d77\u91cf\u5546\u54c1\u8bc4\u8bba\u6574\u7406\u6210\u53ef\u56de\u67e5\u3001\u53ef\u590d\u6838\u7684\u8fd0\u8425\u8bc1\u636e:\u53d7\u7ea6\u675f Agent + \u672c\u5730\u8bc1\u636e\u5f15\u64ce + \u9010\u5b57\u6bb5\u6821\u9a8c\u3002\u4ed3\u5e93\u81ea\u5e26 3 \u5546\u54c1\u6f14\u793a\u5b50\u96c6,\u514b\u9686\u5373\u53ef\u8fd0\u884c;AI \u6b65\u9aa4\u652f\u6301\u8bbf\u95ee\u8005\u81ea\u5e26 DeepSeek key\u3002",
-    "id": "TheSKY-3/ecom-review-intelligence",
-    "language": "Python",
-    "name": "TheSKY-3/ecom-review-intelligence",
-    "stars": 0,
-    "updated_at": "2026-10-22T10:06:22Z",
-    "url": "https://github.com/TheSKY-3/ecom-review-intelligence"
   },
   {
     "description": "Security operations AI agent built with LangGraph, deterministic policy enforcement, human approval, auditable tool use,",
@@ -250,15 +277,6 @@
     "stars": 133,
     "updated_at": "2026-10-22T09:57:56Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-22T10:08:39Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -396,15 +414,6 @@
     "url": "https://github.com/lucien-lab/industrial-agent-audit"
   },
   {
-    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 50,
-    "updated_at": "2026-10-22T09:15:42Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
     "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
     "id": "metric-space-ai/greppy",
     "language": "Rust",
@@ -419,7 +428,7 @@
     "language": "Python",
     "name": "evangoh122/quant_platform_1",
     "stars": 1,
-    "updated_at": "2026-10-22T09:11:17Z",
+    "updated_at": "2026-10-22T11:11:15Z",
     "url": "https://github.com/evangoh122/quant_platform_1"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 169,
     "updated_at": "2026-10-22T08:59:54Z",
     "url": "https://github.com/pattern-ai-labs/agentcall"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 33634,
-    "updated_at": "2026-10-22T08:55:16Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
   }
 ]
