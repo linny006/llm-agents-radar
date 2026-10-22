@@ -1,12 +1,57 @@
 [
   {
-    "description": "Databricks-native equity research platform: a PySpark Delta medallion lakehouse over market, options, SEC, COT and macro",
-    "id": "evangoh122/quant_platform_1",
+    "description": "AI coding agent for terminal, desktop and browser. Visible execution records, LAN mesh collaboration across machines, ph",
+    "id": "holylong/luban",
+    "language": "TypeScript",
+    "name": "holylong/luban",
+    "stars": 0,
+    "updated_at": "2026-10-22T03:42:29Z",
+    "url": "https://github.com/holylong/luban"
+  },
+  {
+    "description": "Hardens and patches PHP sites you did not build \u2014 SAPI-aware mitigation, cache-aware verification, and honest CVE patch ",
+    "id": "imsarah/php2shell-hardening-for-agents",
     "language": "Python",
-    "name": "evangoh122/quant_platform_1",
-    "stars": 1,
-    "updated_at": "2026-10-22T03:29:59Z",
-    "url": "https://github.com/evangoh122/quant_platform_1"
+    "name": "imsarah/php2shell-hardening-for-agents",
+    "stars": 0,
+    "updated_at": "2026-10-22T03:41:01Z",
+    "url": "https://github.com/imsarah/php2shell-hardening-for-agents"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-10-22T03:42:35Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
+    "id": "alexwkleung/reika",
+    "language": "TypeScript",
+    "name": "alexwkleung/reika",
+    "stars": 11,
+    "updated_at": "2026-10-22T03:39:15Z",
+    "url": "https://github.com/alexwkleung/reika"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 2,
+    "updated_at": "2026-10-22T03:41:27Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-22T03:38:05Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "\ud83c\udf5f \u9ea6\u9ea6\u7701\u94b1\u52a9\u624b \u2014\u2014 \u57fa\u4e8e\u9ea6\u5f53\u52b3\u4e2d\u56fd\u5b98\u65b9 MCP \u7684\u7701\u94b1\u70b9\u9910 Agent Skill\uff1a\u5b98\u65b9 calculate-price \u5b9e\u65f6\u6838\u4ef7 + \u5238\u7ec4\u5408\u4f18\u5316\uff08\u9884\u7b97/\u70ed\u91cf\u7ea6\u675f\uff09+ \u6c89\u9ed8\u6210\u672c\u4f53\u68c0 + \u5b98\u65b9\u5238/\u56e2\u8d2d\u5238/\u79ef\u5206\u56db\u6e20\u9053\u540c\u53e3\u5f84\u7b97\u7ec8\u5c40\u3002\u793e\u533a\u5f00\u6e90\uff0c",
@@ -14,8 +59,80 @@
     "language": "Python",
     "name": "yuxinlaile/McD-saver",
     "stars": 115,
-    "updated_at": "2026-10-22T03:29:35Z",
+    "updated_at": "2026-10-22T03:39:27Z",
     "url": "https://github.com/yuxinlaile/McD-saver"
+  },
+  {
+    "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
+    "id": "yurika0211/lucky-agent",
+    "language": "Go",
+    "name": "yurika0211/lucky-agent",
+    "stars": 15,
+    "updated_at": "2026-10-22T03:36:55Z",
+    "url": "https://github.com/yurika0211/lucky-agent"
+  },
+  {
+    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-22T03:35:29Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "A\u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\uff1a\u80a1\u7968\u5206\u6790\u3001\u91cf\u5316\u4ea4\u6613\u5206\u6790\u3001\u76d8\u540e\u590d\u76d8\u684c\u9762\u5de5\u4f5c\u53f0\u2014\u2014easy stock",
+    "id": "jundizhou/easy-stock",
+    "language": "Go",
+    "name": "jundizhou/easy-stock",
+    "stars": 1576,
+    "updated_at": "2026-10-22T03:35:15Z",
+    "url": "https://github.com/jundizhou/easy-stock"
+  },
+  {
+    "description": "Geoscience agent API (Hermes-Geo): answers questions about sedimentary basins with cited data from a read-only GeoDB, bu",
+    "id": "ArthurFachel/Lightsail-Petrobras",
+    "language": "Python",
+    "name": "ArthurFachel/Lightsail-Petrobras",
+    "stars": 0,
+    "updated_at": "2026-10-22T03:35:13Z",
+    "url": "https://github.com/ArthurFachel/Lightsail-Petrobras"
+  },
+  {
+    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
+    "id": "eshanized/M31A",
+    "language": "Rust",
+    "name": "eshanized/M31A",
+    "stars": 10,
+    "updated_at": "2026-10-22T03:34:15Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
+    "id": "oldfunk/paper-trading",
+    "language": "Python",
+    "name": "oldfunk/paper-trading",
+    "stars": 1,
+    "updated_at": "2026-10-22T03:33:20Z",
+    "url": "https://github.com/oldfunk/paper-trading"
+  },
+  {
+    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 54,
+    "updated_at": "2026-10-22T03:31:32Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "Databricks-native equity research platform: a PySpark Delta medallion lakehouse over market, options, SEC, COT and macro",
+    "id": "evangoh122/quant_platform_1",
+    "language": "Python",
+    "name": "evangoh122/quant_platform_1",
+    "stars": 1,
+    "updated_at": "2026-10-22T03:29:59Z",
+    "url": "https://github.com/evangoh122/quant_platform_1"
   },
   {
     "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
@@ -34,24 +151,6 @@
     "stars": 2,
     "updated_at": "2026-10-22T03:26:57Z",
     "url": "https://github.com/xianyu-sheng/SmartBench"
-  },
-  {
-    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-22T03:24:52Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "RAG policy Q&A agent demo (fake data): MCP server + n8n + Qwen3-8B, with an eval-driven improvement loop",
-    "id": "didiwannasleep0117/policy-agent-demo",
-    "language": "Python",
-    "name": "didiwannasleep0117/policy-agent-demo",
-    "stars": 0,
-    "updated_at": "2026-10-22T03:23:56Z",
-    "url": "https://github.com/didiwannasleep0117/policy-agent-demo"
   },
   {
     "description": "Mila \u2014 open-source digital employee in Telegram, built on Claude Code. Bring your own Claude account or API key; she rem",
@@ -81,24 +180,6 @@
     "url": "https://github.com/iBlinkQ/project-cairn"
   },
   {
-    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 54,
-    "updated_at": "2026-10-22T03:14:52Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
-    "id": "oldfunk/paper-trading",
-    "language": "Python",
-    "name": "oldfunk/paper-trading",
-    "stars": 1,
-    "updated_at": "2026-10-22T03:11:07Z",
-    "url": "https://github.com/oldfunk/paper-trading"
-  },
-  {
     "description": "Self-diagnosis and troubleshooting for Hermes Agent.",
     "id": "iap/hermes-guide",
     "language": "Python",
@@ -112,18 +193,9 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 33611,
+    "stars": 33612,
     "updated_at": "2026-10-22T03:06:31Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-22T03:05:32Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "\u81ea\u8fdb\u5316\u91cf\u5316\u9009\u80a1\u7cfb\u7edf \u2014 Kronos K\u7ebf\u9884\u6d4b\u6a21\u578b + Hermes Agent \u81ea\u8fdb\u5316\u95ed\u73af + A\u80a1\u4e09\u6c60\u6f0f\u6597\u9009\u80a1",
@@ -131,26 +203,8 @@
     "language": "Python",
     "name": "Shadowell/Alpha",
     "stars": 32,
-    "updated_at": "2026-10-22T03:27:34Z",
+    "updated_at": "2026-10-22T03:44:09Z",
     "url": "https://github.com/Shadowell/Alpha"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-10-22T03:29:08Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "Hardens and patches PHP sites you did not build \u2014 SAPI-aware mitigation, cache-aware verification, and honest CVE patch ",
-    "id": "imsarah/php2shell-hardening-for-agents",
-    "language": "Python",
-    "name": "imsarah/php2shell-hardening-for-agents",
-    "stars": 0,
-    "updated_at": "2026-10-22T02:57:02Z",
-    "url": "https://github.com/imsarah/php2shell-hardening-for-agents"
   },
   {
     "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
@@ -171,15 +225,6 @@
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
-    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
-    "id": "eshanized/M31A",
-    "language": "Rust",
-    "name": "eshanized/M31A",
-    "stars": 10,
-    "updated_at": "2026-10-22T02:47:50Z",
-    "url": "https://github.com/eshanized/M31A"
-  },
-  {
     "description": "\u57fa\u4e8eLangGraph\u7684\u5c0f\u533a\u6247\u533a\u81ea\u4e3b\u4f11\u7720\u8282\u80fd\u8c03\u5ea6Agent\uff08Pre6G\u8bd5\u9a8c\u7f51\u7533\u62a5\uff09",
     "id": "zhouhengchang/network-energy-agent",
     "language": "Python",
@@ -194,7 +239,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-22T02:47:44Z",
+    "updated_at": "2026-10-22T03:44:36Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -205,15 +250,6 @@
     "stars": 123,
     "updated_at": "2026-10-22T02:43:36Z",
     "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
-  },
-  {
-    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
-    "id": "alexwkleung/reika",
-    "language": "TypeScript",
-    "name": "alexwkleung/reika",
-    "stars": 11,
-    "updated_at": "2026-10-22T02:42:29Z",
-    "url": "https://github.com/alexwkleung/reika"
   },
   {
     "description": "A multi-agent research system for the humanities and social sciences.",
@@ -293,7 +329,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-22T02:56:07Z",
+    "updated_at": "2026-10-22T03:32:10Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -360,15 +396,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "Geoscience agent API (Hermes-Geo): answers questions about sedimentary basins with cited data from a read-only GeoDB, bu",
-    "id": "ArthurFachel/Lightsail-Petrobras",
-    "language": "Python",
-    "name": "ArthurFachel/Lightsail-Petrobras",
-    "stars": 0,
-    "updated_at": "2026-10-22T01:43:58Z",
-    "url": "https://github.com/ArthurFachel/Lightsail-Petrobras"
-  },
-  {
     "description": "Self-hosted AI execution agent for Discord: runs shell commands and edits files on your hosts, drives browsers, schedule",
     "id": "Calmingstorm/Odin",
     "language": "Python",
@@ -400,7 +427,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 894,
+    "stars": 895,
     "updated_at": "2026-10-22T01:31:28Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -419,34 +446,7 @@
     "language": "Rust",
     "name": "bigfish1913/pi-rust",
     "stars": 130,
-    "updated_at": "2026-10-22T02:55:46Z",
+    "updated_at": "2026-10-22T03:42:08Z",
     "url": "https://github.com/bigfish1913/pi-rust"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-10-22T01:19:52Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "\u57fa\u4e8e\u672c\u5730 Ollama \u5927\u6a21\u578b\u7684\u5168\u79bb\u7ebf CTF \u81ea\u52a8\u89e3\u9898 Agent\uff1a\u5355\u6587\u4ef6\u3001\u7eaf Python\u3001\u56db\u91cd\u5b89\u5168\u95f8\u95e8",
-    "id": "Sec-RUM/Local-Pentest-Agent",
-    "language": "Python",
-    "name": "Sec-RUM/Local-Pentest-Agent",
-    "stars": 2,
-    "updated_at": "2026-10-22T01:13:05Z",
-    "url": "https://github.com/Sec-RUM/Local-Pentest-Agent"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 135,
-    "updated_at": "2026-10-22T01:12:50Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   }
 ]
