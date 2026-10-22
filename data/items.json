@@ -1,11 +1,56 @@
 [
   {
+    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 50,
+    "updated_at": "2026-10-22T09:14:52Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 12,
+    "updated_at": "2026-10-22T09:13:25Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "\u628a\u6d77\u91cf\u5546\u54c1\u8bc4\u8bba\u6574\u7406\u6210\u53ef\u56de\u67e5\u3001\u53ef\u590d\u6838\u7684\u8fd0\u8425\u8bc1\u636e:\u53d7\u7ea6\u675f Agent + \u672c\u5730\u8bc1\u636e\u5f15\u64ce + \u9010\u5b57\u6bb5\u6821\u9a8c\u3002\u4ed3\u5e93\u81ea\u5e26 3 \u5546\u54c1\u6f14\u793a\u5b50\u96c6,\u514b\u9686\u5373\u53ef\u8fd0\u884c;AI \u6b65\u9aa4\u652f\u6301\u8bbf\u95ee\u8005\u81ea\u5e26 DeepSeek key\u3002",
+    "id": "TheSKY-3/ecom-review-intelligence",
+    "language": "Python",
+    "name": "TheSKY-3/ecom-review-intelligence",
+    "stars": 0,
+    "updated_at": "2026-10-22T09:12:42Z",
+    "url": "https://github.com/TheSKY-3/ecom-review-intelligence"
+  },
+  {
+    "description": "Databricks-native equity research platform: a PySpark Delta medallion lakehouse over market, options, SEC, COT and macro",
+    "id": "evangoh122/quant_platform_1",
+    "language": "Python",
+    "name": "evangoh122/quant_platform_1",
+    "stars": 1,
+    "updated_at": "2026-10-22T09:11:17Z",
+    "url": "https://github.com/evangoh122/quant_platform_1"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-22T09:00:46Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
     "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
     "id": "xieguigang/sciBASIC",
     "language": "Visual Basic .NET",
     "name": "xieguigang/sciBASIC",
     "stars": 79,
-    "updated_at": "2026-10-22T08:59:52Z",
+    "updated_at": "2026-10-22T09:08:38Z",
     "url": "https://github.com/xieguigang/sciBASIC"
   },
   {
@@ -22,7 +67,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 33625,
+    "stars": 33626,
     "updated_at": "2026-10-22T08:55:16Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -41,7 +86,7 @@
     "language": "Python",
     "name": "gonicolas12/My_OS",
     "stars": 2,
-    "updated_at": "2026-10-22T08:54:31Z",
+    "updated_at": "2026-10-22T09:13:09Z",
     "url": "https://github.com/gonicolas12/My_OS"
   },
   {
@@ -171,15 +216,6 @@
     "url": "https://github.com/Archiloss/dsh-lite"
   },
   {
-    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 50,
-    "updated_at": "2026-10-22T08:43:14Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
     "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
     "id": "RalfHermsen/x4-agent",
     "language": "Python",
@@ -203,7 +239,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 15,
-    "updated_at": "2026-10-22T08:19:17Z",
+    "updated_at": "2026-10-22T09:11:49Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -212,7 +248,7 @@
     "language": "Python",
     "name": "iap/hermes-guide",
     "stars": 3,
-    "updated_at": "2026-10-22T08:57:14Z",
+    "updated_at": "2026-10-22T09:06:49Z",
     "url": "https://github.com/iap/hermes-guide"
   },
   {
@@ -234,20 +270,11 @@
     "url": "https://github.com/agentscope-ai/agentscope-go"
   },
   {
-    "description": "\u628a\u6d77\u91cf\u5546\u54c1\u8bc4\u8bba\u6574\u7406\u6210\u53ef\u56de\u67e5\u3001\u53ef\u590d\u6838\u7684\u8fd0\u8425\u8bc1\u636e:\u53d7\u7ea6\u675f Agent + \u672c\u5730\u8bc1\u636e\u5f15\u64ce + \u9010\u5b57\u6bb5\u6821\u9a8c\u3002\u4ed3\u5e93\u81ea\u5e26 3 \u5546\u54c1\u6f14\u793a\u5b50\u96c6,\u514b\u9686\u5373\u53ef\u8fd0\u884c;AI \u6b65\u9aa4\u652f\u6301\u8bbf\u95ee\u8005\u81ea\u5e26 DeepSeek key\u3002",
-    "id": "TheSKY-3/ecom-review-intelligence",
-    "language": "Python",
-    "name": "TheSKY-3/ecom-review-intelligence",
-    "stars": 0,
-    "updated_at": "2026-10-22T08:06:47Z",
-    "url": "https://github.com/TheSKY-3/ecom-review-intelligence"
-  },
-  {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 1213,
+    "stars": 1214,
     "updated_at": "2026-10-22T08:06:24Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -306,15 +333,6 @@
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
-    "description": "Databricks-native equity research platform: a PySpark Delta medallion lakehouse over market, options, SEC, COT and macro",
-    "id": "evangoh122/quant_platform_1",
-    "language": "Python",
-    "name": "evangoh122/quant_platform_1",
-    "stars": 1,
-    "updated_at": "2026-10-22T08:53:37Z",
-    "url": "https://github.com/evangoh122/quant_platform_1"
-  },
-  {
     "description": "\u8bc1\u636e\u7ea6\u675f\u7684\u4ee3\u7801\u8bca\u65ad\u5de5\u4f5c\u53f0\uff1a\u786e\u5b9a\u6027\u9759\u6001\u5206\u6790\u62e5\u6709\u6e90\u7801\u4e8b\u5b9e\uff0cLLM \u53ea\u63d0\u5047\u8bbe\uff0cresolver/validator \u51b3\u5b9a\u80fd\u5426\u7ed1\u5b9a\u56de\u771f\u5b9e\u64cd\u4f5c\u2014\u2014\u8bc1\u636e\u4e0d\u8db3\u4fdd\u6301 unknown/abstained\uff0c\u4ece\u67b6\u6784\u6291\u5236\u5e7b\u89c9\u3002\u5df2\u5728\u771f\u5b9e\u5f00\u6e90\u9879\u76ee\u53d1\u73b0 bug\uff08stun",
     "id": "xianyu-sheng/SmartBench",
     "language": "Python",
@@ -331,15 +349,6 @@
     "stars": 10,
     "updated_at": "2026-10-22T07:42:47Z",
     "url": "https://github.com/eshanized/M31A"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-22T07:42:21Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "Claude Code skill that generates a tailored autonomous dev loop for any git repository",
@@ -410,7 +419,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-22T08:39:10Z",
+    "updated_at": "2026-10-22T09:15:03Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 26,
     "updated_at": "2026-10-22T07:22:55Z",
     "url": "https://github.com/n1majne3/CyberPenda"
-  },
-  {
-    "description": "Community registry of AI agent manifests, capabilities, skills, and workflows for Octomind \u2014 run a fully-configured spec",
-    "id": "Muvon/octomind-tap",
-    "language": "Python",
-    "name": "Muvon/octomind-tap",
-    "stars": 5,
-    "updated_at": "2026-10-22T07:17:32Z",
-    "url": "https://github.com/Muvon/octomind-tap"
   }
 ]
