@@ -1,5 +1,14 @@
 [
   {
+    "description": "Self-diagnosis and troubleshooting for Hermes Agent.",
+    "id": "iap/hermes-guide",
+    "language": "Python",
+    "name": "iap/hermes-guide",
+    "stars": 3,
+    "updated_at": "2026-10-22T04:43:33Z",
+    "url": "https://github.com/iap/hermes-guide"
+  },
+  {
     "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
     "id": "eshanized/M31A",
     "language": "Rust",
@@ -106,15 +115,6 @@
     "stars": 5,
     "updated_at": "2026-10-22T04:19:40Z",
     "url": "https://github.com/xiaomaozjj666/web-crawler"
-  },
-  {
-    "description": "Self-diagnosis and troubleshooting for Hermes Agent.",
-    "id": "iap/hermes-guide",
-    "language": "Python",
-    "name": "iap/hermes-guide",
-    "stars": 3,
-    "updated_at": "2026-10-22T04:43:31Z",
-    "url": "https://github.com/iap/hermes-guide"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
