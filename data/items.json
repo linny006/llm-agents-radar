@@ -1,12 +1,102 @@
 [
   {
+    "description": "\u4efb\u52a1\u578b\u591a\u8f6e\u5ba2\u670d Agent\uff1aYAML \u6d41\u7a0b DSL + \u5bf9\u8bdd\u72b6\u6001\u673a\uff08\u4e2d\u65ad/\u6302\u8d77/\u6062\u590d/\u53d6\u6d88\uff09+ \u9632\u5e7b\u89c9\u6821\u9a8c + \u4e09\u8f68\u9053\u5206\u6d41\uff0c\u542b\u6a21\u62df\u7535\u5546\u4e2d\u53f0\u4e0e 30 \u6bb5\u4f1a\u8bdd\u7ea7\u8bc4\u6d4b",
+    "id": "winc-0/zhifu",
+    "language": "Python",
+    "name": "winc-0/zhifu",
+    "stars": 0,
+    "updated_at": "2026-10-22T13:15:09Z",
+    "url": "https://github.com/winc-0/zhifu"
+  },
+  {
     "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
     "id": "QQSHI13/fox-agent",
     "language": "TypeScript",
     "name": "QQSHI13/fox-agent",
     "stars": 3,
-    "updated_at": "2026-10-22T13:00:10Z",
+    "updated_at": "2026-10-22T13:14:40Z",
     "url": "https://github.com/QQSHI13/fox-agent"
+  },
+  {
+    "description": "\u7834\u7a79 \u00b7 DeepSeek Harness \u7834\u7532\u63d2\u4ef6\uff1a\u63d0\u793a\u8bcd\u6808\u9876\u534f\u8bae + \u5ba1\u6279\u4e0e\u6c99\u7bb1\u653e\u884c + \u62c6\u6389\u300c\u5148\u8bfb\u4e00\u904d\u300d\u529d\u9000\u6587\u6848 + \u9ed8\u8ba4\u5f00\u542f\u7684\u4e0a\u4e0b\u6587\u538b\u7f29\u5c42\uff0c\u81ea\u5e26\u63a7\u5236\u9762\u677f\u4e0e\u516d\u9879\u6f14\u7ec3\u53f0\uff0c\u4e00\u952e\u53ef\u56de\u6eda\uff0c\u4e0e\u5176\u5b83\u7834\u7532\u63d2\u4ef6\u5171\u5b58\u4e0d\u6253\u67b6",
+    "id": "shiyi312/dsh-poqiong",
+    "language": "JavaScript",
+    "name": "shiyi312/dsh-poqiong",
+    "stars": 1,
+    "updated_at": "2026-10-22T13:13:47Z",
+    "url": "https://github.com/shiyi312/dsh-poqiong"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "TypeScript",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8911,
+    "updated_at": "2026-10-22T13:11:13Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
+    "id": "zeng6125-rgb/suixing",
+    "language": "Kotlin",
+    "name": "zeng6125-rgb/suixing",
+    "stars": 2,
+    "updated_at": "2026-10-22T13:08:29Z",
+    "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 822,
+    "updated_at": "2026-10-22T13:07:14Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-10-22T13:06:27Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 29,
+    "updated_at": "2026-10-22T13:04:40Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\u7528\u81ea\u7136\u8bed\u8a00\u6307\u6325\u89c6\u9891\u526a\u8f91\u7684\u5168\u94fe\u8def\u672c\u5730\u667a\u80fd\u4f53\uff1a\u7d20\u6750\u7406\u89e3 \u2192 \u64cd\u4f5c\u89c4\u5212 \u2192 \u4e8b\u5b9e\u6821\u9a8c \u2192 \u771f\u5b9e\u51fa\u7247\uff0c\u914d\u5957 163 \u4e2a\u5355\u5143\u6d4b\u8bd5\u4e0e 22 \u4e2a\u53ef\u590d\u8dd1\u9a8c\u6536\u811a\u672c\u3002",
+    "id": "ryhirz/ai-video-agent",
+    "language": "Python",
+    "name": "ryhirz/ai-video-agent",
+    "stars": 0,
+    "updated_at": "2026-10-22T13:03:49Z",
+    "url": "https://github.com/ryhirz/ai-video-agent"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 2,
+    "updated_at": "2026-10-22T13:06:17Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "velog(velog.io) \uae00\uc744 \uc870\ud68c\ud558\uace0 \ub85c\uadf8\uc778\ud55c \ub0b4 \uacc4\uc815\uc758 \uae00\u00b7\ubc18\uc751\uc744 \ub2e4\ub8e8\ub294 LLM \uc5d0\uc774\uc804\ud2b8\uc6a9 \ube44\uacf5\uc2dd CLI \u00b7 Unofficial velog CLI for LLM agents",
+    "id": "Rukkakka/velogger",
+    "language": "Python",
+    "name": "Rukkakka/velogger",
+    "stars": 0,
+    "updated_at": "2026-10-22T13:00:30Z",
+    "url": "https://github.com/Rukkakka/velogger"
   },
   {
     "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
@@ -16,15 +106,6 @@
     "stars": 5,
     "updated_at": "2026-10-22T12:59:04Z",
     "url": "https://github.com/Rekin226/Agronaut"
-  },
-  {
-    "description": "velog(velog.io) \uae00\uc744 \uc870\ud68c\ud558\uace0 \ub85c\uadf8\uc778\ud55c \ub0b4 \uacc4\uc815\uc758 \uae00\u00b7\ubc18\uc751\uc744 \ub2e4\ub8e8\ub294 LLM \uc5d0\uc774\uc804\ud2b8\uc6a9 \ube44\uacf5\uc2dd CLI \u00b7 Unofficial velog CLI for LLM agents",
-    "id": "Rukkakka/velogger",
-    "language": "Python",
-    "name": "Rukkakka/velogger",
-    "stars": 0,
-    "updated_at": "2026-10-22T12:59:02Z",
-    "url": "https://github.com/Rukkakka/velogger"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -43,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-22T12:59:42Z",
     "url": "https://github.com/VAHPEM/ctf-brain"
-  },
-  {
-    "description": "\u7834\u7a79 \u00b7 DeepSeek Harness \u7834\u7532\u63d2\u4ef6\uff1a\u63d0\u793a\u8bcd\u6808\u9876\u534f\u8bae + \u5ba1\u6279\u4e0e\u6c99\u7bb1\u653e\u884c + \u62c6\u6389\u300c\u5148\u8bfb\u4e00\u904d\u300d\u529d\u9000\u6587\u6848 + \u9ed8\u8ba4\u5f00\u542f\u7684\u4e0a\u4e0b\u6587\u538b\u7f29\u5c42\uff0c\u81ea\u5e26\u63a7\u5236\u9762\u677f\u4e0e\u516d\u9879\u6f14\u7ec3\u53f0\uff0c\u4e00\u952e\u53ef\u56de\u6eda\uff0c\u4e0e\u5176\u5b83\u7834\u7532\u63d2\u4ef6\u5171\u5b58\u4e0d\u6253\u67b6",
-    "id": "shiyi312/dsh-poqiong",
-    "language": "JavaScript",
-    "name": "shiyi312/dsh-poqiong",
-    "stars": 1,
-    "updated_at": "2026-10-22T12:54:58Z",
-    "url": "https://github.com/shiyi312/dsh-poqiong"
   },
   {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
@@ -85,7 +157,7 @@
     "id": "EvannZhongg/Nosis",
     "language": "Python",
     "name": "EvannZhongg/Nosis",
-    "stars": 14,
+    "stars": 13,
     "updated_at": "2026-10-22T12:43:04Z",
     "url": "https://github.com/EvannZhongg/Nosis"
   },
@@ -117,15 +189,6 @@
     "url": "https://github.com/oldfunk/paper-trading"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 822,
-    "updated_at": "2026-10-22T12:41:37Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
     "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
     "id": "duongnq2798/vestiarion",
     "language": "TypeScript",
@@ -140,7 +203,7 @@
     "language": "Java",
     "name": "kangwoo/aimon-core",
     "stars": 0,
-    "updated_at": "2026-10-22T12:34:55Z",
+    "updated_at": "2026-10-22T13:14:59Z",
     "url": "https://github.com/kangwoo/aimon-core"
   },
   {
@@ -196,6 +259,15 @@
     "stars": 0,
     "updated_at": "2026-10-22T12:21:07Z",
     "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5864,
+    "updated_at": "2026-10-22T12:17:03Z",
+    "url": "https://github.com/areal-project/AReaL"
   },
   {
     "description": "Copilot-for-Word-style LLM assistant for LyX: ACP agent, LyXServer pipe write path, read-only .lyx parser.",
@@ -270,15 +342,6 @@
     "url": "https://github.com/kashyaprajharsh/medha-agent"
   },
   {
-    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
-    "id": "zeng6125-rgb/suixing",
-    "language": "Kotlin",
-    "name": "zeng6125-rgb/suixing",
-    "stars": 2,
-    "updated_at": "2026-10-22T11:46:42Z",
-    "url": "https://github.com/zeng6125-rgb/suixing"
-  },
-  {
     "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
     "id": "honestDS/MonoLight",
     "language": "Python",
@@ -292,7 +355,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 909,
+    "stars": 910,
     "updated_at": "2026-10-22T11:39:23Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -320,8 +383,17 @@
     "language": "Python",
     "name": "hellices/korvid",
     "stars": 3,
-    "updated_at": "2026-10-22T12:34:07Z",
+    "updated_at": "2026-10-22T13:09:44Z",
     "url": "https://github.com/hellices/korvid"
+  },
+  {
+    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 446,
+    "updated_at": "2026-10-22T11:27:28Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
     "description": "Databricks-native equity research platform: a PySpark Delta medallion lakehouse over market, options, SEC, COT and macro",
@@ -338,7 +410,7 @@
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 50,
-    "updated_at": "2026-10-22T12:51:56Z",
+    "updated_at": "2026-10-22T13:06:25Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-22T10:51:23Z",
     "url": "https://github.com/grauwolf32/contractor"
-  },
-  {
-    "description": "Scrapling \u98ce\u683c\u9690\u8eab\u722c\u866b\u5e93\uff1a\u81ea\u9002\u5e94\u9009\u62e9\u5668 \u00b7 TLS \u6307\u7eb9 HTTP \u00b7 JS \u6e32\u67d3 \u00b7 \u56de\u8c03\u5f0f Spider \u6846\u67b6\uff08\u91cd\u8bd5/robots/\u53bb\u91cd/\u4e2d\u95f4\u4ef6\u7ba1\u9053\uff09\u00b7 JS \u9006\u5411 Agent \u00b7 \u9a8c\u8bc1\u7801\u8bc6\u522b \u00b7 MCP \u670d\u52a1 \u00b7 \u672c\u5730 We",
-    "id": "xiaomaozjj666/web-crawler",
-    "language": "Python",
-    "name": "xiaomaozjj666/web-crawler",
-    "stars": 5,
-    "updated_at": "2026-10-22T10:46:02Z",
-    "url": "https://github.com/xiaomaozjj666/web-crawler"
-  },
-  {
-    "description": "Persian AI agent for Liara: from 'here is my project' to a live app, then diagnose HTTP 500s, slowdowns and memory leaks",
-    "id": "ssepehrnoush/liara-copilot",
-    "language": "JavaScript",
-    "name": "ssepehrnoush/liara-copilot",
-    "stars": 0,
-    "updated_at": "2026-10-22T10:44:37Z",
-    "url": "https://github.com/ssepehrnoush/liara-copilot"
-  },
-  {
-    "description": "A voice AI companion for Windows and Linux. Create characters with ComfyUI, give them voices, emotions and memories. Loc",
-    "id": "ArthurReboulSalze/Sherka-Compagnon",
-    "language": "Rust",
-    "name": "ArthurReboulSalze/Sherka-Compagnon",
-    "stars": 0,
-    "updated_at": "2026-10-22T10:44:05Z",
-    "url": "https://github.com/ArthurReboulSalze/Sherka-Compagnon"
-  },
-  {
-    "description": "[ICLR'25] OpenRCA: Can Large Language Models Locate the Root Cause of Software Failures?",
-    "id": "microsoft/OpenRCA",
-    "language": "Python",
-    "name": "microsoft/OpenRCA",
-    "stars": 444,
-    "updated_at": "2026-10-22T10:33:14Z",
-    "url": "https://github.com/microsoft/OpenRCA"
-  },
-  {
-    "description": "Claude Code skills for Japanese job-hunting (shukatsu) ES coaching: distill offer-holder patterns, critique your ES, and",
-    "id": "jiayi-ThE-CREATOR/es-coach-skills",
-    "language": "Python",
-    "name": "jiayi-ThE-CREATOR/es-coach-skills",
-    "stars": 0,
-    "updated_at": "2026-10-22T10:18:53Z",
-    "url": "https://github.com/jiayi-ThE-CREATOR/es-coach-skills"
-  },
-  {
-    "description": "AstrBot \u7684\u63d2\u4ef6\u4e0e\u8865\u4e01\u5408\u96c6\uff1a\u81ea\u5efa\u7f51\u9875\u68c0\u7d22\uff08\u8d70\u672c\u673a Edge\uff0c\u4e0d\u4f9d\u8d56\u641c\u7d22 API\uff09\u3001\u628a QQ \u6536\u85cf\u8868\u60c5\u53d1\u8fdb\u4f1a\u8bdd\u3001\u8131\u79bb ComfyUI \u7684 SDXL \u751f\u56fe\u540e\u7aef\uff08\u591a\u5e95\u6a21/\u591a\u753b\u98ce/\u4e24\u6863\u91c7\u6837\u5668/\u753b\u5e45\u4e0a\u9650\u5168\u90e8\u53ef\u914d\uff09\u3001\u770b\u5934\u50cf\u4e0e\u5386\u53f2\u56de\u6eaf",
-    "id": "Kiru-Sama/Kiru-Astrbot-Addons",
-    "language": "Python",
-    "name": "Kiru-Sama/Kiru-Astrbot-Addons",
-    "stars": 0,
-    "updated_at": "2026-10-22T10:17:38Z",
-    "url": "https://github.com/Kiru-Sama/Kiru-Astrbot-Addons"
-  },
-  {
-    "description": "\u8f7b\u91cf\u7684agent\u6846\u67b6",
-    "id": "qiuzixu/agent-core",
-    "language": "Python",
-    "name": "qiuzixu/agent-core",
-    "stars": 1,
-    "updated_at": "2026-10-22T10:12:49Z",
-    "url": "https://github.com/qiuzixu/agent-core"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 29,
-    "updated_at": "2026-10-22T10:11:05Z",
-    "url": "https://github.com/tomcounsell/ai"
   }
 ]
