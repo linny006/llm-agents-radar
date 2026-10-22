@@ -1,12 +1,21 @@
 [
   {
-    "description": "An open-source research agent system for your Zotero library.",
-    "id": "yilewang/llm-for-zotero",
-    "language": "TypeScript",
-    "name": "yilewang/llm-for-zotero",
-    "stars": 3382,
-    "updated_at": "2026-10-22T21:43:52Z",
-    "url": "https://github.com/yilewang/llm-for-zotero"
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 14,
+    "updated_at": "2026-10-22T21:56:39Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Offline Linux command assistant: 1.5B model on your machine, 1.1 GB disk, 1.3 GB RAM, no GPU, ~2 s per answer, checked a",
+    "id": "arxhr007/lxask",
+    "language": "Python",
+    "name": "arxhr007/lxask",
+    "stars": 2,
+    "updated_at": "2026-10-22T21:55:26Z",
+    "url": "https://github.com/arxhr007/lxask"
   },
   {
     "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
@@ -14,8 +23,35 @@
     "language": "Kotlin",
     "name": "zeng6125-rgb/suixing",
     "stars": 2,
-    "updated_at": "2026-10-22T21:42:32Z",
+    "updated_at": "2026-10-22T21:53:03Z",
     "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 6,
+    "updated_at": "2026-10-22T21:52:37Z",
+    "url": "https://github.com/plurnk/plurnk"
+  },
+  {
+    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
+    "id": "KaletoAI/anima-verse",
+    "language": "Python",
+    "name": "KaletoAI/anima-verse",
+    "stars": 4,
+    "updated_at": "2026-10-22T21:47:01Z",
+    "url": "https://github.com/KaletoAI/anima-verse"
+  },
+  {
+    "description": "An open-source research agent system for your Zotero library.",
+    "id": "yilewang/llm-for-zotero",
+    "language": "TypeScript",
+    "name": "yilewang/llm-for-zotero",
+    "stars": 3382,
+    "updated_at": "2026-10-22T21:43:52Z",
+    "url": "https://github.com/yilewang/llm-for-zotero"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -27,21 +63,12 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
-    "id": "plurnk/plurnk",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk",
-    "stars": 6,
-    "updated_at": "2026-10-22T21:38:06Z",
-    "url": "https://github.com/plurnk/plurnk"
-  },
-  {
     "description": "Cost-aware multi-agent orchestrator kit for OpenCode CLI \u2014 one routing agent, 14 specialized subagents, zero application",
     "id": "NicoGenti/opencode-orchestrator-kit",
     "language": "TypeScript",
     "name": "NicoGenti/opencode-orchestrator-kit",
     "stars": 7,
-    "updated_at": "2026-10-22T21:35:39Z",
+    "updated_at": "2026-10-22T21:58:41Z",
     "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
   },
   {
@@ -52,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-10-22T21:32:17Z",
     "url": "https://github.com/jack-h-park/stock-trading-skills"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 14,
-    "updated_at": "2026-10-22T21:43:11Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Coding agent CLI for local and hosted models, designed around small local models first",
@@ -328,7 +346,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 923,
+    "stars": 924,
     "updated_at": "2026-10-22T20:35:19Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -383,7 +401,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 15,
-    "updated_at": "2026-10-22T21:43:53Z",
+    "updated_at": "2026-10-22T21:58:46Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-22T19:49:02Z",
     "url": "https://github.com/RalfHermsen/x4-agent"
-  },
-  {
-    "description": "Self-hosted AI execution agent for Discord: runs shell commands and edits files on your hosts, drives browsers, schedule",
-    "id": "Calmingstorm/Odin",
-    "language": "Python",
-    "name": "Calmingstorm/Odin",
-    "stars": 3,
-    "updated_at": "2026-10-22T19:49:35Z",
-    "url": "https://github.com/Calmingstorm/Odin"
-  },
-  {
-    "description": "LLM analyst agent on the Claude API: tenant-scoped SQL tools, human-approved writes, Postgres job queue, evals",
-    "id": "msalimcengiz/ads-insights-agent",
-    "language": "TypeScript",
-    "name": "msalimcengiz/ads-insights-agent",
-    "stars": 0,
-    "updated_at": "2026-10-22T19:40:05Z",
-    "url": "https://github.com/msalimcengiz/ads-insights-agent"
   }
 ]
