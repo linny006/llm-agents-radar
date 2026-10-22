@@ -1,5 +1,95 @@
 [
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "TypeScript",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8916,
+    "updated_at": "2026-10-22T17:13:14Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Scrapling \u98ce\u683c\u9690\u8eab\u722c\u866b\u5e93\uff1a\u81ea\u9002\u5e94\u9009\u62e9\u5668 \u00b7 TLS \u6307\u7eb9 HTTP \u00b7 JS \u6e32\u67d3 \u00b7 \u56de\u8c03\u5f0f Spider \u6846\u67b6\uff08\u91cd\u8bd5/robots/\u53bb\u91cd/\u4e2d\u95f4\u4ef6\u7ba1\u9053\uff09\u00b7 JS \u9006\u5411 Agent \u00b7 \u9a8c\u8bc1\u7801\u8bc6\u522b \u00b7 MCP \u670d\u52a1 \u00b7 \u672c\u5730 We",
+    "id": "xiaomaozjj666/web-crawler",
+    "language": "Python",
+    "name": "xiaomaozjj666/web-crawler",
+    "stars": 5,
+    "updated_at": "2026-10-22T17:12:07Z",
+    "url": "https://github.com/xiaomaozjj666/web-crawler"
+  },
+  {
+    "description": "Cited research agent over Ontario Energy Board rate-case filings: Temporal ingestion, Postgres/pgvector hybrid search, I",
+    "id": "AarnavNoble/oeb-rate-case-agent",
+    "language": "Python",
+    "name": "AarnavNoble/oeb-rate-case-agent",
+    "stars": 0,
+    "updated_at": "2026-10-22T17:12:01Z",
+    "url": "https://github.com/AarnavNoble/oeb-rate-case-agent"
+  },
+  {
+    "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
+    "id": "ximing/vital",
+    "language": "TypeScript",
+    "name": "ximing/vital",
+    "stars": 4,
+    "updated_at": "2026-10-22T17:11:53Z",
+    "url": "https://github.com/ximing/vital"
+  },
+  {
+    "description": "The bioinformatics agent desktop for clinicians and wet-lab scientists \u2014 built on DeepSeek Harness. One-click installers",
+    "id": "sagirimo/BioDSH",
+    "language": "Python",
+    "name": "sagirimo/BioDSH",
+    "stars": 63,
+    "updated_at": "2026-10-22T17:10:10Z",
+    "url": "https://github.com/sagirimo/BioDSH"
+  },
+  {
+    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
+    "id": "zeng6125-rgb/suixing",
+    "language": "Kotlin",
+    "name": "zeng6125-rgb/suixing",
+    "stars": 2,
+    "updated_at": "2026-10-22T17:04:48Z",
+    "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
+    "id": "sindredg/ai-security-platform",
+    "language": "Python",
+    "name": "sindredg/ai-security-platform",
+    "stars": 0,
+    "updated_at": "2026-10-22T17:04:37Z",
+    "url": "https://github.com/sindredg/ai-security-platform"
+  },
+  {
+    "description": "\u7535\u5546\u552e\u540e\u5ba2\u670d Agent\u3002\u6709\u754c\u81ea\u4e3b\u5faa\u73af \u00b7 \u4eba\u5de5\u786e\u8ba4\u4e0e\u5e42\u7b49 \u00b7 trace \u5168\u94fe\u8def\u89c2\u6d4b \u00b7 24 \u6761\u786e\u5b9a\u6027\u8bc4\u6d4b\uff0870.83% \u2192 100%\uff09\u3002\u91cd\u70b9\u4e0d\u5728\u8c03 API\uff0c\u800c\u5728\u8ba9 Agent \u53ef\u63a7\u3001\u53ef\u89c2\u6d4b\u3001\u53ef\u9a8c\u8bc1\u3002",
+    "id": "duanjing082420-arch/ticket-agent",
+    "language": "Python",
+    "name": "duanjing082420-arch/ticket-agent",
+    "stars": 0,
+    "updated_at": "2026-10-22T17:04:19Z",
+    "url": "https://github.com/duanjing082420-arch/ticket-agent"
+  },
+  {
+    "description": "\u7528\u81ea\u7136\u8bed\u8a00\u6307\u6325\u89c6\u9891\u526a\u8f91\u7684\u5168\u94fe\u8def\u672c\u5730\u667a\u80fd\u4f53\uff1a\u7d20\u6750\u7406\u89e3 \u2192 \u64cd\u4f5c\u89c4\u5212 \u2192 \u4e8b\u5b9e\u6821\u9a8c \u2192 \u771f\u5b9e\u51fa\u7247\uff0c\u914d\u5957 163 \u4e2a\u5355\u5143\u6d4b\u8bd5\u4e0e 22 \u4e2a\u53ef\u590d\u8dd1\u9a8c\u6536\u811a\u672c\u3002",
+    "id": "ryhirz/ai-video-agent",
+    "language": "Python",
+    "name": "ryhirz/ai-video-agent",
+    "stars": 0,
+    "updated_at": "2026-10-22T17:03:41Z",
+    "url": "https://github.com/ryhirz/ai-video-agent"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-22T17:02:32Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
@@ -16,24 +106,6 @@
     "stars": 3,
     "updated_at": "2026-10-22T16:58:15Z",
     "url": "https://github.com/kwakminoo/Project-IRIS-Light"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "TypeScript",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8916,
-    "updated_at": "2026-10-22T16:53:52Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "\u7528\u81ea\u7136\u8bed\u8a00\u6307\u6325\u89c6\u9891\u526a\u8f91\u7684\u5168\u94fe\u8def\u672c\u5730\u667a\u80fd\u4f53\uff1a\u7d20\u6750\u7406\u89e3 \u2192 \u64cd\u4f5c\u89c4\u5212 \u2192 \u4e8b\u5b9e\u6821\u9a8c \u2192 \u771f\u5b9e\u51fa\u7247\uff0c\u914d\u5957 163 \u4e2a\u5355\u5143\u6d4b\u8bd5\u4e0e 22 \u4e2a\u53ef\u590d\u8dd1\u9a8c\u6536\u811a\u672c\u3002",
-    "id": "ryhirz/ai-video-agent",
-    "language": "Python",
-    "name": "ryhirz/ai-video-agent",
-    "stars": 0,
-    "updated_at": "2026-10-22T16:50:22Z",
-    "url": "https://github.com/ryhirz/ai-video-agent"
   },
   {
     "description": "Ripple \u2014 Bayesian what-if simulator + launch tracker that learns from real data + market-aware AI agent",
@@ -54,15 +126,6 @@
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
-    "description": "Scrapling \u98ce\u683c\u9690\u8eab\u722c\u866b\u5e93\uff1a\u81ea\u9002\u5e94\u9009\u62e9\u5668 \u00b7 TLS \u6307\u7eb9 HTTP \u00b7 JS \u6e32\u67d3 \u00b7 \u56de\u8c03\u5f0f Spider \u6846\u67b6\uff08\u91cd\u8bd5/robots/\u53bb\u91cd/\u4e2d\u95f4\u4ef6\u7ba1\u9053\uff09\u00b7 JS \u9006\u5411 Agent \u00b7 \u9a8c\u8bc1\u7801\u8bc6\u522b \u00b7 MCP \u670d\u52a1 \u00b7 \u672c\u5730 We",
-    "id": "xiaomaozjj666/web-crawler",
-    "language": "Python",
-    "name": "xiaomaozjj666/web-crawler",
-    "stars": 5,
-    "updated_at": "2026-10-22T16:46:05Z",
-    "url": "https://github.com/xiaomaozjj666/web-crawler"
-  },
-  {
     "description": "Persian AI agent for Liara: from 'here is my project' to a live app, then diagnose HTTP 500s, slowdowns and memory leaks",
     "id": "ssepehrnoush/liara-copilot",
     "language": "JavaScript",
@@ -72,15 +135,6 @@
     "url": "https://github.com/ssepehrnoush/liara-copilot"
   },
   {
-    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
-    "id": "zeng6125-rgb/suixing",
-    "language": "Kotlin",
-    "name": "zeng6125-rgb/suixing",
-    "stars": 2,
-    "updated_at": "2026-10-22T16:39:51Z",
-    "url": "https://github.com/zeng6125-rgb/suixing"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -88,15 +142,6 @@
     "stars": 29,
     "updated_at": "2026-10-22T16:36:16Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "The bioinformatics agent desktop for clinicians and wet-lab scientists \u2014 built on DeepSeek Harness. One-click installers",
-    "id": "sagirimo/BioDSH",
-    "language": "Python",
-    "name": "sagirimo/BioDSH",
-    "stars": 63,
-    "updated_at": "2026-10-22T16:35:29Z",
-    "url": "https://github.com/sagirimo/BioDSH"
   },
   {
     "description": "The Self-Improving Coding Agent",
@@ -142,15 +187,6 @@
     "stars": 79,
     "updated_at": "2026-10-22T16:26:35Z",
     "url": "https://github.com/xieguigang/sciBASIC"
-  },
-  {
-    "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
-    "id": "sindredg/ai-security-platform",
-    "language": "Python",
-    "name": "sindredg/ai-security-platform",
-    "stars": 0,
-    "updated_at": "2026-10-22T16:59:20Z",
-    "url": "https://github.com/sindredg/ai-security-platform"
   },
   {
     "description": "Hermes Agent acting on your behalf in your personal Telegram account (not a bot): Telethon backend + Hermes platform plu",
@@ -234,15 +270,6 @@
     "url": "https://github.com/agentscope-ai/agentscope-go"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-22T16:01:30Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
     "id": "hsaghir/looplet",
     "language": "Python",
@@ -259,6 +286,15 @@
     "stars": 919,
     "updated_at": "2026-10-22T15:43:57Z",
     "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3664,
+    "updated_at": "2026-10-22T15:42:45Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
@@ -351,15 +387,6 @@
     "url": "https://github.com/haibingzhao/easyai"
   },
   {
-    "description": "\u7535\u5546\u552e\u540e\u5ba2\u670d Agent\u3002\u6709\u754c\u81ea\u4e3b\u5faa\u73af \u00b7 \u4eba\u5de5\u786e\u8ba4\u4e0e\u5e42\u7b49 \u00b7 trace \u5168\u94fe\u8def\u89c2\u6d4b \u00b7 24 \u6761\u786e\u5b9a\u6027\u8bc4\u6d4b\uff0870.83% \u2192 100%\uff09\u3002\u91cd\u70b9\u4e0d\u5728\u8c03 API\uff0c\u800c\u5728\u8ba9 Agent \u53ef\u63a7\u3001\u53ef\u89c2\u6d4b\u3001\u53ef\u9a8c\u8bc1\u3002",
-    "id": "duanjing082420-arch/ticket-agent",
-    "language": "Python",
-    "name": "duanjing082420-arch/ticket-agent",
-    "stars": 0,
-    "updated_at": "2026-10-22T14:55:49Z",
-    "url": "https://github.com/duanjing082420-arch/ticket-agent"
-  },
-  {
     "description": "Cost-aware multi-agent orchestrator kit for OpenCode CLI \u2014 one routing agent, 14 specialized subagents, zero application",
     "id": "NicoGenti/opencode-orchestrator-kit",
     "language": "TypeScript",
@@ -378,15 +405,6 @@
     "url": "https://github.com/AandBorC/dsa-lite"
   },
   {
-    "description": "Cited research agent over Ontario Energy Board rate-case filings: Temporal ingestion, Postgres/pgvector hybrid search, I",
-    "id": "AarnavNoble/oeb-rate-case-agent",
-    "language": "Python",
-    "name": "AarnavNoble/oeb-rate-case-agent",
-    "stars": 0,
-    "updated_at": "2026-10-22T14:41:43Z",
-    "url": "https://github.com/AarnavNoble/oeb-rate-case-agent"
-  },
-  {
     "description": "My collection of Claude Code Agents & Skills for web and iOS Development",
     "id": "mintuz/skills",
     "language": "Python",
@@ -400,7 +418,7 @@
     "id": "Soodok/Deepseek-Harness-Local-Android",
     "language": "Kotlin",
     "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 304,
+    "stars": 305,
     "updated_at": "2026-10-22T14:28:14Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
@@ -430,23 +448,5 @@
     "stars": 21,
     "updated_at": "2026-10-22T16:39:48Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
-    "id": "RalfHermsen/x4-agent",
-    "language": "Python",
-    "name": "RalfHermsen/x4-agent",
-    "stars": 0,
-    "updated_at": "2026-10-22T14:03:01Z",
-    "url": "https://github.com/RalfHermsen/x4-agent"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3663,
-    "updated_at": "2026-10-22T15:42:45Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   }
 ]
