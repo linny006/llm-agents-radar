@@ -1,5 +1,23 @@
 [
   {
+    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-22T05:22:25Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 50,
+    "updated_at": "2026-10-22T05:17:17Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
     "description": "Copilot-for-Word-style LLM assistant for LyX: ACP agent, LyXServer pipe write path, read-only .lyx parser.",
     "id": "guzmandrade-dev/lyx-acp-assist",
     "language": "TypeScript",
@@ -50,7 +68,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 14,
-    "updated_at": "2026-10-22T05:14:30Z",
+    "updated_at": "2026-10-22T05:22:38Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -86,7 +104,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-22T05:04:32Z",
+    "updated_at": "2026-10-22T05:23:12Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -131,7 +149,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-22T04:54:38Z",
+    "updated_at": "2026-10-22T05:28:57Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -151,15 +169,6 @@
     "stars": 15,
     "updated_at": "2026-10-22T04:57:06Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-22T05:07:13Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -207,15 +216,6 @@
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
-    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 50,
-    "updated_at": "2026-10-22T04:55:10Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
     "description": "Coding agent CLI for local and hosted models, designed around small local models first",
     "id": "alexwkleung/reika",
     "language": "TypeScript",
@@ -241,6 +241,15 @@
     "stars": 0,
     "updated_at": "2026-10-22T04:30:59Z",
     "url": "https://github.com/zhouhengchang/network-energy-agent"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 896,
+    "updated_at": "2026-10-22T04:29:29Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -329,7 +338,7 @@
     "language": "Go",
     "name": "yurika0211/lucky-agent",
     "stars": 15,
-    "updated_at": "2026-10-22T04:16:27Z",
+    "updated_at": "2026-10-22T05:16:36Z",
     "url": "https://github.com/yurika0211/lucky-agent"
   },
   {
@@ -436,17 +445,8 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 33614,
+    "stars": 33615,
     "updated_at": "2026-10-22T03:06:31Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4459,
-    "updated_at": "2026-10-22T03:06:11Z",
-    "url": "https://github.com/gptme/gptme"
   }
 ]
