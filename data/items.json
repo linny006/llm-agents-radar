@@ -5,8 +5,35 @@
     "language": "Kotlin",
     "name": "zeng6125-rgb/suixing",
     "stars": 2,
-    "updated_at": "2026-10-23T02:27:52Z",
+    "updated_at": "2026-10-23T02:41:26Z",
     "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "Biblioteca de documenta\u00e7\u00e3o para que uma LLM consiga criar componentes e edite arquivos do software Hades Simulation Fram",
+    "id": "luanfrombrazil/llmresources_hades",
+    "language": "Python",
+    "name": "luanfrombrazil/llmresources_hades",
+    "stars": 4,
+    "updated_at": "2026-10-23T02:35:57Z",
+    "url": "https://github.com/luanfrombrazil/llmresources_hades"
+  },
+  {
+    "description": "\u7ed9\u5b83\u4e00\u672c\u4e66\u6216\u4e00\u4e2a\u77e5\u8bc6\u5e93\uff0c\u4ea7\u51fa\u80fd\u4e0a\u7684\u4e00\u95e8\u8bfe\uff1a\u8403\u53d6 \u2192 \u7ed3\u6784\u8fd8\u539f \u2192 \u7ec4\u4ef6\u63d0\u53d6 \u2192 \u6a21\u5757\u7f16\u6392 \u2192 \u6559\u5b66\u6d41\u6c34\u7ebf\uff0c\u56db\u5c42 Skill \u4e32\u8054\uff0c\u6bcf\u9636\u6bb5\u51fa\u53e3\u6709\u771f\u95f8\u95e8",
+    "id": "Lougle360/course-factory-agent",
+    "language": "Python",
+    "name": "Lougle360/course-factory-agent",
+    "stars": 0,
+    "updated_at": "2026-10-23T02:33:50Z",
+    "url": "https://github.com/Lougle360/course-factory-agent"
+  },
+  {
+    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 50,
+    "updated_at": "2026-10-23T02:33:59Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
     "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
@@ -14,15 +41,33 @@
     "language": "Python",
     "name": "xianyu-sheng/Xenon",
     "stars": 54,
-    "updated_at": "2026-10-23T02:27:41Z",
+    "updated_at": "2026-10-23T02:31:20Z",
     "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "Official Scrapfly MCP server for Cursor, Claude Desktop, and any MCP-compatible client. Enterprise-grade web scraping, A",
+    "id": "scrapfly/scrapfly-mcp",
+    "language": "Go",
+    "name": "scrapfly/scrapfly-mcp",
+    "stars": 14,
+    "updated_at": "2026-10-23T02:31:17Z",
+    "url": "https://github.com/scrapfly/scrapfly-mcp"
+  },
+  {
+    "description": "Agentic CLI for the Scrapfly platform: scrape, extract, crawl, and drive a cloud browser over CDP. Built-in LLM agent wi",
+    "id": "scrapfly/scrapfly-cli",
+    "language": "Go",
+    "name": "scrapfly/scrapfly-cli",
+    "stars": 5,
+    "updated_at": "2026-10-23T02:31:13Z",
+    "url": "https://github.com/scrapfly/scrapfly-cli"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 8926,
+    "stars": 8927,
     "updated_at": "2026-10-23T02:20:49Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -41,7 +86,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-10-23T02:29:53Z",
+    "updated_at": "2026-10-23T02:43:36Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -70,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T02:15:54Z",
     "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
-    "description": "Biblioteca de documenta\u00e7\u00e3o para que uma LLM consiga criar componentes e edite arquivos do software Hades Simulation Fram",
-    "id": "luanfrombrazil/llmresources_hades",
-    "language": "Python",
-    "name": "luanfrombrazil/llmresources_hades",
-    "stars": 4,
-    "updated_at": "2026-10-23T02:13:38Z",
-    "url": "https://github.com/luanfrombrazil/llmresources_hades"
   },
   {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
@@ -185,7 +221,7 @@
     "language": "Rust",
     "name": "bigfish1913/pi-rust",
     "stars": 142,
-    "updated_at": "2026-10-23T01:57:16Z",
+    "updated_at": "2026-10-23T02:39:43Z",
     "url": "https://github.com/bigfish1913/pi-rust"
   },
   {
@@ -333,15 +369,6 @@
     "url": "https://github.com/wufufu770/d2d"
   },
   {
-    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 50,
-    "updated_at": "2026-10-23T02:26:10Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
     "description": "Copilot-for-Word-style LLM assistant for LyX: ACP agent, LyXServer pipe write path, read-only .lyx parser.",
     "id": "guzmandrade-dev/lyx-acp-assist",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-23T00:20:44Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Tauri desktop shell for the local-first Bodhi agent: manages Bamboo startup/reuse and health; packaged builds open the B",
-    "id": "bigduu/Bodhi-AI",
-    "language": "JavaScript",
-    "name": "bigduu/Bodhi-AI",
-    "stars": 17,
-    "updated_at": "2026-10-23T00:20:30Z",
-    "url": "https://github.com/bigduu/Bodhi-AI"
-  },
-  {
-    "description": "Command-line coding agent for local models (Ollama), subscription CLIs or API keys, with failover between them, a replay",
-    "id": "HarperZ9/relay",
-    "language": "Python",
-    "name": "HarperZ9/relay",
-    "stars": 1,
-    "updated_at": "2026-10-23T00:07:54Z",
-    "url": "https://github.com/HarperZ9/relay"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-10-23T00:02:37Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   }
 ]
