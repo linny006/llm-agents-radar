@@ -1,12 +1,39 @@
 [
   {
-    "description": "Open-source runtime for LLM agents with persistent memory, relationship history, modeled mood, and evolving identity. Ca",
-    "id": "balfiky/openrook",
+    "description": "LLM agent for dental appointment booking, measured: held-out 0.80 vs 0.60 baseline, 0 wrong bookings. LangGraph, own MCP",
+    "id": "Ragebeat/dental-agent",
     "language": "Python",
-    "name": "balfiky/openrook",
-    "stars": 3,
-    "updated_at": "2026-10-23T07:23:08Z",
-    "url": "https://github.com/balfiky/openrook"
+    "name": "Ragebeat/dental-agent",
+    "stars": 0,
+    "updated_at": "2026-10-23T07:44:07Z",
+    "url": "https://github.com/Ragebeat/dental-agent"
+  },
+  {
+    "description": "A local-only ReAct agent running on Ollama, with no agent framework. Hand-rolled loop, typed tools, a real filesystem sa",
+    "id": "mntoyg/OmniAgent",
+    "language": "Python",
+    "name": "mntoyg/OmniAgent",
+    "stars": 0,
+    "updated_at": "2026-10-23T07:41:19Z",
+    "url": "https://github.com/mntoyg/OmniAgent"
+  },
+  {
+    "description": "Claude Code skill that generates a tailored autonomous dev loop for any git repository",
+    "id": "Stephenson-Software/create-dev-loop",
+    "language": "Python",
+    "name": "Stephenson-Software/create-dev-loop",
+    "stars": 1,
+    "updated_at": "2026-10-23T07:39:22Z",
+    "url": "https://github.com/Stephenson-Software/create-dev-loop"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-23T07:39:20Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "\u7528\u81ea\u7136\u8bed\u8a00\u6307\u6325\u89c6\u9891\u526a\u8f91\u7684\u5168\u94fe\u8def\u672c\u5730\u667a\u80fd\u4f53\uff1a\u7d20\u6750\u7406\u89e3 \u2192 \u64cd\u4f5c\u89c4\u5212 \u2192 \u4e8b\u5b9e\u6821\u9a8c \u2192 \u771f\u5b9e\u51fa\u7247\uff0c\u914d\u5957 163 \u4e2a\u5355\u5143\u6d4b\u8bd5\u4e0e 22 \u4e2a\u53ef\u590d\u8dd1\u9a8c\u6536\u811a\u672c\u3002",
@@ -14,8 +41,44 @@
     "language": "Python",
     "name": "ryhirz/ai-video-agent",
     "stars": 0,
-    "updated_at": "2026-10-23T07:21:05Z",
+    "updated_at": "2026-10-23T07:39:03Z",
     "url": "https://github.com/ryhirz/ai-video-agent"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-23T07:35:11Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/",
+    "id": "ZekaiShi/evo-subagent",
+    "language": "JavaScript",
+    "name": "ZekaiShi/evo-subagent",
+    "stars": 7,
+    "updated_at": "2026-10-23T07:33:54Z",
+    "url": "https://github.com/ZekaiShi/evo-subagent"
+  },
+  {
+    "description": "\u53ef\u6269\u5c55\u7684\u672c\u5730 AI Agent\uff1a\u6a21\u5757\u94fe\u5185\u6838 + \u63d2\u4ef6\u7cfb\u7edf + \u4e0a\u4e0b\u6587\u7ba1\u7406 + \u5de5\u5177\u6267\u884c + Web \u754c\u9762\u3002",
+    "id": "diky87688973/ai-agent",
+    "language": "Python",
+    "name": "diky87688973/ai-agent",
+    "stars": 3,
+    "updated_at": "2026-10-23T07:23:14Z",
+    "url": "https://github.com/diky87688973/ai-agent"
+  },
+  {
+    "description": "Open-source runtime for LLM agents with persistent memory, relationship history, modeled mood, and evolving identity. Ca",
+    "id": "balfiky/openrook",
+    "language": "Python",
+    "name": "balfiky/openrook",
+    "stars": 3,
+    "updated_at": "2026-10-23T07:23:08Z",
+    "url": "https://github.com/balfiky/openrook"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -193,7 +256,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 33711,
+    "stars": 33713,
     "updated_at": "2026-10-23T06:47:42Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -241,24 +304,6 @@
     "stars": 143,
     "updated_at": "2026-10-23T06:33:53Z",
     "url": "https://github.com/bigfish1913/pi-rust"
-  },
-  {
-    "description": "LLM agent for dental appointment booking, measured: held-out 0.80 vs 0.60 baseline, 0 wrong bookings. LangGraph, own MCP",
-    "id": "Ragebeat/dental-agent",
-    "language": "Python",
-    "name": "Ragebeat/dental-agent",
-    "stars": 0,
-    "updated_at": "2026-10-23T06:23:40Z",
-    "url": "https://github.com/Ragebeat/dental-agent"
-  },
-  {
-    "description": "A local-only ReAct agent running on Ollama, with no agent framework. Hand-rolled loop, typed tools, a real filesystem sa",
-    "id": "mntoyg/OmniAgent",
-    "language": "Python",
-    "name": "mntoyg/OmniAgent",
-    "stars": 0,
-    "updated_at": "2026-10-23T06:17:12Z",
-    "url": "https://github.com/mntoyg/OmniAgent"
   },
   {
     "description": "\u4ece B\u7ad9\u6d77\u91cf\u89c6\u9891\u91cc\u4e3a\u4e00\u4e2a\u8bae\u9898\u53d6\u6570\uff1a\u53cc\u8f74\u4fe1\u6e90\u8bc4\u7ea7\uff08A\u2013F \u00d7 1\u20134\uff09\u3001\u51b2\u7a81\u5355\u5217\u3001\u4e09\u7c7b\u7f3a\u53e3\u58f0\u660e\u3001\u68c0\u7d22\u534f\u8bae\u53ef\u590d\u73b0\u3002MCP server + \u65b9\u6cd5\u8bba skill\u3002",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-23T05:18:07Z",
     "url": "https://github.com/tianye1999/dsb"
-  },
-  {
-    "description": "A local-first AI companion for Windows: it remembers you, dreams over your day at night, follows up on what matters and ",
-    "id": "b7216309-jpg/little-bot",
-    "language": "JavaScript",
-    "name": "b7216309-jpg/little-bot",
-    "stars": 0,
-    "updated_at": "2026-10-23T05:20:54Z",
-    "url": "https://github.com/b7216309-jpg/little-bot"
-  },
-  {
-    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
-    "id": "robolong/zhengming",
-    "language": "TypeScript",
-    "name": "robolong/zhengming",
-    "stars": 0,
-    "updated_at": "2026-10-23T05:08:51Z",
-    "url": "https://github.com/robolong/zhengming"
-  },
-  {
-    "description": "Open-source, self-hostable AppSec agent that finds, proves, and helps fix web/API vulnerabilities \u2014 evidence-first (inde",
-    "id": "NitinReddy-A/Rampart",
-    "language": "Python",
-    "name": "NitinReddy-A/Rampart",
-    "stars": 15,
-    "updated_at": "2026-10-23T05:07:36Z",
-    "url": "https://github.com/NitinReddy-A/Rampart"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 6427,
-    "updated_at": "2026-10-23T04:56:34Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 453,
-    "updated_at": "2026-10-23T04:52:47Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
   }
 ]
