@@ -1,5 +1,41 @@
 [
   {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-23T21:57:19Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Terminal-native AI coding agent with extensible TypeScript and Rust SDKs for building and orchestrating coding workflows",
+    "id": "codex-mohan/spectra",
+    "language": "TypeScript",
+    "name": "codex-mohan/spectra",
+    "stars": 1,
+    "updated_at": "2026-10-23T21:53:46Z",
+    "url": "https://github.com/codex-mohan/spectra"
+  },
+  {
+    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
+    "id": "RalfHermsen/x4-agent",
+    "language": "Python",
+    "name": "RalfHermsen/x4-agent",
+    "stars": 0,
+    "updated_at": "2026-10-23T21:52:52Z",
+    "url": "https://github.com/RalfHermsen/x4-agent"
+  },
+  {
+    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-23T21:54:00Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
     "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
     "id": "KaletoAI/anima-verse",
     "language": "Python",
@@ -18,15 +54,6 @@
     "url": "https://github.com/kifirkin/pi-braid"
   },
   {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-23T21:39:30Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -34,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T21:38:30Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-23T21:44:45Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
@@ -77,7 +95,7 @@
     "language": "Python",
     "name": "davud-d/Kvist",
     "stars": 0,
-    "updated_at": "2026-10-23T21:35:05Z",
+    "updated_at": "2026-10-23T21:58:28Z",
     "url": "https://github.com/davud-d/Kvist"
   },
   {
@@ -117,21 +135,12 @@
     "url": "https://github.com/plurnk/plurnk-service"
   },
   {
-    "description": "Terminal-native AI coding agent with extensible TypeScript and Rust SDKs for building and orchestrating coding workflows",
-    "id": "codex-mohan/spectra",
-    "language": "TypeScript",
-    "name": "codex-mohan/spectra",
-    "stars": 1,
-    "updated_at": "2026-10-23T21:26:20Z",
-    "url": "https://github.com/codex-mohan/spectra"
-  },
-  {
     "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker.",
     "id": "yologdev/yoagent",
     "language": "Rust",
     "name": "yologdev/yoagent",
     "stars": 365,
-    "updated_at": "2026-10-23T21:39:18Z",
+    "updated_at": "2026-10-23T21:53:26Z",
     "url": "https://github.com/yologdev/yoagent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-23T19:00:09Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "An AI on-call engineer that shows its evidence, waits for your approval, and verifies the fix. Evidence-grounded, safe b",
-    "id": "Aritraghoshdastidar/Incident_Zero-AI_OnCallEngineer",
-    "language": "Python",
-    "name": "Aritraghoshdastidar/Incident_Zero-AI_OnCallEngineer",
-    "stars": 0,
-    "updated_at": "2026-10-23T18:37:36Z",
-    "url": "https://github.com/Aritraghoshdastidar/Incident_Zero-AI_OnCallEngineer"
   }
 ]
