@@ -1,11 +1,38 @@
 [
   {
+    "description": "Terminal-native AI coding agent with extensible TypeScript and Rust SDKs for building and orchestrating coding workflows",
+    "id": "codex-mohan/spectra",
+    "language": "TypeScript",
+    "name": "codex-mohan/spectra",
+    "stars": 1,
+    "updated_at": "2026-10-23T18:14:51Z",
+    "url": "https://github.com/codex-mohan/spectra"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-23T18:12:08Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "An AI on-call engineer that shows its evidence, waits for your approval, and verifies the fix. Evidence-grounded, safe b",
+    "id": "Aritraghoshdastidar/Incident_Zero-AI_OnCallEngineer",
+    "language": "Python",
+    "name": "Aritraghoshdastidar/Incident_Zero-AI_OnCallEngineer",
+    "stars": 0,
+    "updated_at": "2026-10-23T18:10:33Z",
+    "url": "https://github.com/Aritraghoshdastidar/Incident_Zero-AI_OnCallEngineer"
+  },
+  {
     "description": "Application Security orchestration platform",
     "id": "grauwolf32/contractor",
     "language": "Go",
     "name": "grauwolf32/contractor",
     "stars": 2,
-    "updated_at": "2026-10-23T17:59:51Z",
+    "updated_at": "2026-10-23T18:02:30Z",
     "url": "https://github.com/grauwolf32/contractor"
   },
   {
@@ -36,15 +63,6 @@
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-23T17:54:01Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
     "description": "Nosis is a lightweight personal agent runtime: per-session execution boundaries with OS-level sandboxing, computer use, ",
     "id": "EvannZhongg/Nosis",
     "language": "Python",
@@ -61,15 +79,6 @@
     "stars": 6454,
     "updated_at": "2026-10-23T17:49:34Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "Terminal-native AI coding agent with extensible TypeScript and Rust SDKs for building and orchestrating coding workflows",
-    "id": "codex-mohan/spectra",
-    "language": "TypeScript",
-    "name": "codex-mohan/spectra",
-    "stars": 1,
-    "updated_at": "2026-10-23T17:48:08Z",
-    "url": "https://github.com/codex-mohan/spectra"
   },
   {
     "description": "Self-hosted AI execution agent for Discord: runs shell commands and edits files on your hosts, drives browsers, schedule",
@@ -131,7 +140,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 972,
-    "updated_at": "2026-10-23T17:57:22Z",
+    "updated_at": "2026-10-23T18:11:22Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 54,
     "updated_at": "2026-10-23T15:41:42Z",
     "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "The coordination layer for Multiplayer AI",
-    "id": "cohexa-ai/agent-coherence",
-    "language": "Python",
-    "name": "cohexa-ai/agent-coherence",
-    "stars": 11,
-    "updated_at": "2026-10-23T15:41:29Z",
-    "url": "https://github.com/cohexa-ai/agent-coherence"
   }
 ]
