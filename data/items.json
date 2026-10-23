@@ -1,5 +1,14 @@
 [
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8933,
+    "updated_at": "2026-10-23T15:15:16Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "\ud83e\udd16\u26cf\ufe0f Autonomous AI players for Minecraft that act like real teammates. They chat, pick a leader, split up big builds, fig",
     "id": "thegauravgiri/minecraft-agents",
     "language": "JavaScript",
@@ -34,15 +43,6 @@
     "stars": 3,
     "updated_at": "2026-10-23T15:10:55Z",
     "url": "https://github.com/hellices/korvid"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8933,
-    "updated_at": "2026-10-23T15:15:16Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "A voice AI companion for Windows and Linux. Create characters with ComfyUI, give them voices, emotions and memories. Loc",
@@ -275,7 +275,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 15,
-    "updated_at": "2026-10-23T14:44:12Z",
+    "updated_at": "2026-10-23T15:16:09Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {

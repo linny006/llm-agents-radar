@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-23 15:15 UTC
+> ⏰ Last updated: 2026-10-23 15:16 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [thegauravgiri/minecraft-agents](https://github.com/thegauravgiri/minecraft-agents) | 0 | JavaScript | 2026-10-23 | 🤖⛏️ Autonomous AI players for Minecraft that act like real teammates. They chat, pick a leader, split up big builds, fig |
-| 2 | [RalfHermsen/x4-agent](https://github.com/RalfHermsen/x4-agent) | 0 | Python | 2026-10-23 | A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com |
-| 3 | [kanishka-namdeo/Unown](https://github.com/kanishka-namdeo/Unown) | 0 | TypeScript | 2026-10-23 | The Self-Improving Coding Agent |
-| 4 | [hellices/korvid](https://github.com/hellices/korvid) | 3 | Python | 2026-10-23 | Keyboard-first Kubernetes TUI with an AI agent that works on the same screen, plus an MCP bridge for your editor's assis |
-| 5 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 8933 | Python | 2026-10-23 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 1 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 8933 | Python | 2026-10-23 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 2 | [thegauravgiri/minecraft-agents](https://github.com/thegauravgiri/minecraft-agents) | 0 | JavaScript | 2026-10-23 | 🤖⛏️ Autonomous AI players for Minecraft that act like real teammates. They chat, pick a leader, split up big builds, fig |
+| 3 | [RalfHermsen/x4-agent](https://github.com/RalfHermsen/x4-agent) | 0 | Python | 2026-10-23 | A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com |
+| 4 | [kanishka-namdeo/Unown](https://github.com/kanishka-namdeo/Unown) | 0 | TypeScript | 2026-10-23 | The Self-Improving Coding Agent |
+| 5 | [hellices/korvid](https://github.com/hellices/korvid) | 3 | Python | 2026-10-23 | Keyboard-first Kubernetes TUI with an AI agent that works on the same screen, plus an MCP bridge for your editor's assis |
 | 6 | [ArthurReboulSalze/Sherka-Compagnon](https://github.com/ArthurReboulSalze/Sherka-Compagnon) | 0 | Rust | 2026-10-23 | A voice AI companion for Windows and Linux. Create characters with ComfyUI, give them voices, emotions and memories. Loc |
 | 7 | [Zxy876/voyager-vlml-mve](https://github.com/Zxy876/voyager-vlml-mve) | 2 | Python | 2026-10-23 | Voyager × VLML × 猫娘伴学：把「学习者」换成 agent 的最小可执行原型（面板已上腾讯云） |
 | 8 | [Maaz5711/customs-copilot](https://github.com/Maaz5711/customs-copilot) | 0 | Python | 2026-10-23 | AI agent that finds the Pakistan Customs Tariff (PCT) code for a product and calculates the full duty bill, with a citat |
