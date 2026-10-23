@@ -1,5 +1,68 @@
 [
   {
+    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
+    "id": "memoways/ava-proto1",
+    "language": "TypeScript",
+    "name": "memoways/ava-proto1",
+    "stars": 0,
+    "updated_at": "2026-10-23T09:29:27Z",
+    "url": "https://github.com/memoways/ava-proto1"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u7684\u4ee3\u7801\u7406\u89e3\u4e0e\u5ba1\u67e5 Agent\uff1a\u786e\u5b9a\u6027 AST \u5206\u6790 + LLM \u8bed\u4e49\u88c1\u51b3 + \u53d1\u5e03\u95e8\u7981\u3002\u5df2\u5b9e\u73b0\u7d22\u5f15\u5c42\uff08\u7b26\u53f7\u56fe / PageRank / \u5165\u53e3\u70b9 / \u589e\u91cf\u7f13\u5b58\uff09\u4e0e\u63a8\u8350\u9605\u8bfb\u987a\u5e8f\u3002",
+    "id": "3533008548/codeSentry",
+    "language": "Python",
+    "name": "3533008548/codeSentry",
+    "stars": 0,
+    "updated_at": "2026-10-23T09:29:21Z",
+    "url": "https://github.com/3533008548/codeSentry"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-23T09:28:36Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "LLM \u6570\u636e\u5206\u6790\u5de5\u4f5c\u53f0\uff1a\u4e0a\u4f20\u6570\u636e\u96c6\u81ea\u52a8\u5b8c\u6210\u6e05\u6d17\u3001\u7edf\u8ba1\u5206\u6790\u3001\u53ef\u89c6\u5316\u4e0e\u62a5\u544a\uff1b\u53d7\u63a7\u5de5\u5177\u96c6 + \u53ea\u8bfb SQL\uff08SQLite / PostgreSQL\uff09\u00b7 MCP \u6570\u636e\u9762 \u00b7 Plotly + ECharts \u53cc\u5f15\u64ce \u00b7 FastAPI + Reac",
+    "id": "xiaomaozjj666/data-analysis-agent",
+    "language": "Python",
+    "name": "xiaomaozjj666/data-analysis-agent",
+    "stars": 1,
+    "updated_at": "2026-10-23T09:25:04Z",
+    "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 308,
+    "updated_at": "2026-10-23T09:25:13Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "\u7528\u81ea\u7136\u8bed\u8a00\u6307\u6325\u89c6\u9891\u526a\u8f91\u7684\u5168\u94fe\u8def\u672c\u5730\u667a\u80fd\u4f53\uff1a\u7d20\u6750\u7406\u89e3 \u2192 \u64cd\u4f5c\u89c4\u5212 \u2192 \u4e8b\u5b9e\u6821\u9a8c \u2192 \u771f\u5b9e\u51fa\u7247\uff0c\u914d\u5957 163 \u4e2a\u5355\u5143\u6d4b\u8bd5\u4e0e 22 \u4e2a\u53ef\u590d\u8dd1\u9a8c\u6536\u811a\u672c\u3002",
+    "id": "ryhirz/ai-video-agent",
+    "language": "Python",
+    "name": "ryhirz/ai-video-agent",
+    "stars": 0,
+    "updated_at": "2026-10-23T09:22:21Z",
+    "url": "https://github.com/ryhirz/ai-video-agent"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-23T09:19:11Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
     "description": "Scrapling \u98ce\u683c\u9690\u8eab\u722c\u866b\u5e93\uff1a\u81ea\u9002\u5e94\u9009\u62e9\u5668 \u00b7 TLS \u6307\u7eb9 HTTP \u00b7 JS \u6e32\u67d3 \u00b7 \u56de\u8c03\u5f0f Spider \u6846\u67b6\uff08\u91cd\u8bd5/robots/\u53bb\u91cd/\u4e2d\u95f4\u4ef6\u7ba1\u9053\uff09\u00b7 JS \u9006\u5411 Agent \u00b7 \u9a8c\u8bc1\u7801\u8bc6\u522b \u00b7 MCP \u670d\u52a1 \u00b7 \u672c\u5730 We",
     "id": "xiaomaozjj666/web-crawler",
     "language": "Python",
@@ -23,7 +86,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-23T09:13:02Z",
+    "updated_at": "2026-10-23T09:16:19Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -32,7 +95,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 15,
-    "updated_at": "2026-10-23T09:14:54Z",
+    "updated_at": "2026-10-23T09:17:02Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -43,15 +106,6 @@
     "stars": 7,
     "updated_at": "2026-10-23T09:11:37Z",
     "url": "https://github.com/hsaghir/looplet"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-23T09:10:55Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "GitHub Issue \u5206\u6790\u667a\u80fd\u4f53\uff1a\u6709\u754c\u5de5\u5177\u5faa\u73af\u63a2\u7d22\u4ed3\u5e93\u6e90\u7801\uff0c\u751f\u6210\u5e26\u884c\u7ea7\u8bc1\u636e\u7684\u6839\u56e0\u62a5\u544a\u4e0e\u4fee\u590d\u8865\u4e01\uff0c\u9ed8\u8ba4\u53ea\u8bfb\uff0c\u53ef\u663e\u5f0f\u5f00\u542f PR \u63d0\u6848",
@@ -153,21 +207,12 @@
     "url": "https://github.com/emiliaismailova3/aml-kyc-rag-assistant"
   },
   {
-    "description": "\u7528\u81ea\u7136\u8bed\u8a00\u6307\u6325\u89c6\u9891\u526a\u8f91\u7684\u5168\u94fe\u8def\u672c\u5730\u667a\u80fd\u4f53\uff1a\u7d20\u6750\u7406\u89e3 \u2192 \u64cd\u4f5c\u89c4\u5212 \u2192 \u4e8b\u5b9e\u6821\u9a8c \u2192 \u771f\u5b9e\u51fa\u7247\uff0c\u914d\u5957 163 \u4e2a\u5355\u5143\u6d4b\u8bd5\u4e0e 22 \u4e2a\u53ef\u590d\u8dd1\u9a8c\u6536\u811a\u672c\u3002",
-    "id": "ryhirz/ai-video-agent",
-    "language": "Python",
-    "name": "ryhirz/ai-video-agent",
-    "stars": 0,
-    "updated_at": "2026-10-23T08:49:06Z",
-    "url": "https://github.com/ryhirz/ai-video-agent"
-  },
-  {
     "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 14,
-    "updated_at": "2026-10-23T09:02:56Z",
+    "updated_at": "2026-10-23T09:21:34Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -176,7 +221,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-23T09:07:47Z",
+    "updated_at": "2026-10-23T09:20:23Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -207,15 +252,6 @@
     "url": "https://github.com/ccr-wer/dsh-copilot-vision"
   },
   {
-    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
-    "id": "memoways/ava-proto1",
-    "language": "TypeScript",
-    "name": "memoways/ava-proto1",
-    "stars": 0,
-    "updated_at": "2026-10-23T09:10:10Z",
-    "url": "https://github.com/memoways/ava-proto1"
-  },
-  {
     "description": "Databricks-native equity research platform: a PySpark Delta medallion lakehouse over market, options, SEC, COT and macro",
     "id": "evangoh122/quant_platform_1",
     "language": "Python",
@@ -232,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T08:30:04Z",
     "url": "https://github.com/bondwell79/hercules"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-23T08:18:09Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "AI \u6295\u7814 Copilot \u2014 \u5927\u6a21\u578b\u5382\u5546\u7ade\u54c1\u7814\u7a76 Deep Research Agent\uff1a\u62c6\u89e3\u2192\u68c0\u7d22\u2192\u81ea\u68c0\u2192\u8865\u68c0\u2192\u6c47\u603b\uff0c52 \u683c\u7814\u5224\u7ed3\u8bba 100% \u53ef\u6eaf\u6e90\uff08\u7eaf Python \u6807\u51c6\u5e93\uff0c\u96f6\u4f9d\u8d56\uff09",
@@ -283,7 +310,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 33724,
+    "stars": 33727,
     "updated_at": "2026-10-23T08:07:34Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -338,7 +365,7 @@
     "language": "Python",
     "name": "hellices/korvid",
     "stars": 3,
-    "updated_at": "2026-10-23T09:10:19Z",
+    "updated_at": "2026-10-23T09:21:23Z",
     "url": "https://github.com/hellices/korvid"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-23T07:23:14Z",
     "url": "https://github.com/diky87688973/ai-agent"
-  },
-  {
-    "description": "Open-source runtime for LLM agents with persistent memory, relationship history, modeled mood, and evolving identity. Ca",
-    "id": "balfiky/openrook",
-    "language": "Python",
-    "name": "balfiky/openrook",
-    "stars": 3,
-    "updated_at": "2026-10-23T07:23:08Z",
-    "url": "https://github.com/balfiky/openrook"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 954,
-    "updated_at": "2026-10-23T07:16:35Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "Local-first open-source AI coding agent built with Go \u2014 Desktop, CLI, TUI, WebUI, MCP, Skills, multi-agent workflows, an",
-    "id": "konglong87/go-e2e",
-    "language": "Go",
-    "name": "konglong87/go-e2e",
-    "stars": 0,
-    "updated_at": "2026-10-23T07:13:33Z",
-    "url": "https://github.com/konglong87/go-e2e"
   }
 ]
