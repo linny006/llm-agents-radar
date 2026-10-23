@@ -1,12 +1,75 @@
 [
   {
+    "description": "Application Security orchestration platform",
+    "id": "grauwolf32/contractor",
+    "language": "Go",
+    "name": "grauwolf32/contractor",
+    "stars": 2,
+    "updated_at": "2026-10-23T17:59:51Z",
+    "url": "https://github.com/grauwolf32/contractor"
+  },
+  {
+    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
+    "id": "hsaghir/looplet",
+    "language": "Python",
+    "name": "hsaghir/looplet",
+    "stars": 7,
+    "updated_at": "2026-10-23T17:58:59Z",
+    "url": "https://github.com/hsaghir/looplet"
+  },
+  {
     "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
     "id": "zeng6125-rgb/suixing",
     "language": "Kotlin",
     "name": "zeng6125-rgb/suixing",
     "stars": 2,
-    "updated_at": "2026-10-23T17:44:57Z",
+    "updated_at": "2026-10-23T17:58:26Z",
     "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 456,
+    "updated_at": "2026-10-23T17:54:32Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-23T17:54:01Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Nosis is a lightweight personal agent runtime: per-session execution boundaries with OS-level sandboxing, computer use, ",
+    "id": "EvannZhongg/Nosis",
+    "language": "Python",
+    "name": "EvannZhongg/Nosis",
+    "stars": 10,
+    "updated_at": "2026-10-23T17:52:05Z",
+    "url": "https://github.com/EvannZhongg/Nosis"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 6454,
+    "updated_at": "2026-10-23T17:49:34Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "Terminal-native AI coding agent with extensible TypeScript and Rust SDKs for building and orchestrating coding workflows",
+    "id": "codex-mohan/spectra",
+    "language": "TypeScript",
+    "name": "codex-mohan/spectra",
+    "stars": 1,
+    "updated_at": "2026-10-23T17:48:08Z",
+    "url": "https://github.com/codex-mohan/spectra"
   },
   {
     "description": "Self-hosted AI execution agent for Discord: runs shell commands and edits files on your hosts, drives browsers, schedule",
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "Calmingstorm/Odin",
     "stars": 3,
-    "updated_at": "2026-10-23T17:44:30Z",
+    "updated_at": "2026-10-23T17:57:45Z",
     "url": "https://github.com/Calmingstorm/Odin"
   },
   {
@@ -23,7 +86,7 @@
     "language": "Go",
     "name": "dsswift/ion",
     "stars": 4,
-    "updated_at": "2026-10-23T17:43:53Z",
+    "updated_at": "2026-10-23T17:46:15Z",
     "url": "https://github.com/dsswift/ion"
   },
   {
@@ -43,15 +106,6 @@
     "stars": 9,
     "updated_at": "2026-10-23T17:42:09Z",
     "url": "https://github.com/honestDS/MonoLight"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-23T17:41:36Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "Personal QQ copilot: message archive with roaming backfill, multimodal LLM agent, RAG, WebUI/CLI. Speaks the Milky proto",
@@ -77,7 +131,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 972,
-    "updated_at": "2026-10-23T17:24:35Z",
+    "updated_at": "2026-10-23T17:57:22Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -171,15 +225,6 @@
     "url": "https://github.com/b-macker/NAAb"
   },
   {
-    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 456,
-    "updated_at": "2026-10-23T17:21:18Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
     "description": "Metacognitive extension suite for Pi coding agent",
     "id": "kifirkin/pi-braid",
     "language": "JavaScript",
@@ -250,15 +295,6 @@
     "stars": 310,
     "updated_at": "2026-10-23T16:32:23Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
-    "description": "Terminal-native AI coding agent with extensible TypeScript and Rust SDKs for building and orchestrating coding workflows",
-    "id": "codex-mohan/spectra",
-    "language": "TypeScript",
-    "name": "codex-mohan/spectra",
-    "stars": 1,
-    "updated_at": "2026-10-23T16:29:41Z",
-    "url": "https://github.com/codex-mohan/spectra"
   },
   {
     "description": "Track anything in streaming with Grounding DINO, SAM 2, and LLM",
@@ -412,41 +448,5 @@
     "stars": 11,
     "updated_at": "2026-10-23T15:41:29Z",
     "url": "https://github.com/cohexa-ai/agent-coherence"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 83,
-    "updated_at": "2026-10-23T15:39:03Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
-    "id": "sindredg/ai-security-platform",
-    "language": "Python",
-    "name": "sindredg/ai-security-platform",
-    "stars": 0,
-    "updated_at": "2026-10-23T16:39:41Z",
-    "url": "https://github.com/sindredg/ai-security-platform"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-10-23T15:35:46Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-23T15:29:48Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
   }
 ]
