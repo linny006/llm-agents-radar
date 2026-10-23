@@ -1,5 +1,50 @@
 [
   {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 5,
+    "updated_at": "2026-10-23T00:59:13Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 50,
+    "updated_at": "2026-10-23T01:00:07Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-23T00:55:26Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
+    "id": "zeng6125-rgb/suixing",
+    "language": "Kotlin",
+    "name": "zeng6125-rgb/suixing",
+    "stars": 2,
+    "updated_at": "2026-10-23T00:47:11Z",
+    "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "Copilot-for-Word-style LLM assistant for LyX: ACP agent, LyXServer pipe write path, read-only .lyx parser.",
+    "id": "guzmandrade-dev/lyx-acp-assist",
+    "language": "TypeScript",
+    "name": "guzmandrade-dev/lyx-acp-assist",
+    "stars": 1,
+    "updated_at": "2026-10-23T00:45:21Z",
+    "url": "https://github.com/guzmandrade-dev/lyx-acp-assist"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -9,31 +54,13 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
-    "id": "zeng6125-rgb/suixing",
-    "language": "Kotlin",
-    "name": "zeng6125-rgb/suixing",
-    "stars": 2,
-    "updated_at": "2026-10-23T00:43:18Z",
-    "url": "https://github.com/zeng6125-rgb/suixing"
-  },
-  {
     "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
     "id": "bigfish1913/pi-rust",
     "language": "Rust",
     "name": "bigfish1913/pi-rust",
-    "stars": 137,
-    "updated_at": "2026-10-23T00:42:42Z",
+    "stars": 138,
+    "updated_at": "2026-10-23T00:47:24Z",
     "url": "https://github.com/bigfish1913/pi-rust"
-  },
-  {
-    "description": "Copilot-for-Word-style LLM assistant for LyX: ACP agent, LyXServer pipe write path, read-only .lyx parser.",
-    "id": "guzmandrade-dev/lyx-acp-assist",
-    "language": "TypeScript",
-    "name": "guzmandrade-dev/lyx-acp-assist",
-    "stars": 1,
-    "updated_at": "2026-10-23T00:42:28Z",
-    "url": "https://github.com/guzmandrade-dev/lyx-acp-assist"
   },
   {
     "description": "Self-diagnosis and troubleshooting for Hermes Agent.",
@@ -108,15 +135,6 @@
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-23T00:22:58Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
@@ -169,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T00:05:08Z",
     "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 5,
-    "updated_at": "2026-10-23T00:44:20Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-22T21:23:40Z",
     "url": "https://github.com/RDunbar01/Nexus-Web-LLM"
-  },
-  {
-    "description": "A local-first AI companion for Windows: it remembers you, dreams over your day at night, follows up on what matters and ",
-    "id": "b7216309-jpg/little-bot",
-    "language": "JavaScript",
-    "name": "b7216309-jpg/little-bot",
-    "stars": 0,
-    "updated_at": "2026-10-22T21:21:01Z",
-    "url": "https://github.com/b7216309-jpg/little-bot"
   }
 ]
