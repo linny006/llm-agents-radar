@@ -1,12 +1,39 @@
 [
   {
-    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
-    "id": "metric-space-ai/greppy",
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-23T04:13:56Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
+    "id": "QQSHI13/fox-agent",
+    "language": "TypeScript",
+    "name": "QQSHI13/fox-agent",
+    "stars": 3,
+    "updated_at": "2026-10-23T04:11:18Z",
+    "url": "https://github.com/QQSHI13/fox-agent"
+  },
+  {
+    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
+    "id": "zhixuli0406/DuDuClaw",
     "language": "Rust",
-    "name": "metric-space-ai/greppy",
-    "stars": 12,
-    "updated_at": "2026-10-23T03:59:55Z",
-    "url": "https://github.com/metric-space-ai/greppy"
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 50,
+    "updated_at": "2026-10-23T04:10:02Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 54,
+    "updated_at": "2026-10-23T04:07:47Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
   },
   {
     "description": "Free MIT AI coding agent \u2014 no API key needed. Built-in free model, or bring Claude, GPT, Gemini, DeepSeek, Ollama +50 mo",
@@ -14,8 +41,44 @@
     "language": "Rust",
     "name": "dragonked2/alphacode",
     "stars": 415,
-    "updated_at": "2026-10-23T03:59:33Z",
+    "updated_at": "2026-10-23T04:07:07Z",
     "url": "https://github.com/dragonked2/alphacode"
+  },
+  {
+    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
+    "id": "RalfHermsen/x4-agent",
+    "language": "Python",
+    "name": "RalfHermsen/x4-agent",
+    "stars": 0,
+    "updated_at": "2026-10-23T04:06:44Z",
+    "url": "https://github.com/RalfHermsen/x4-agent"
+  },
+  {
+    "description": "Databricks-native equity research platform: a PySpark Delta medallion lakehouse over market, options, SEC, COT and macro",
+    "id": "evangoh122/quant_platform_1",
+    "language": "Python",
+    "name": "evangoh122/quant_platform_1",
+    "stars": 1,
+    "updated_at": "2026-10-23T04:03:50Z",
+    "url": "https://github.com/evangoh122/quant_platform_1"
+  },
+  {
+    "description": "DSB (\u9017\u6c99\u5305): an open-source, trust-first Android AI agent. Delegate app chores on a background virtual display, with execu",
+    "id": "tianye1999/dsb",
+    "language": "Python",
+    "name": "tianye1999/dsb",
+    "stars": 1,
+    "updated_at": "2026-10-23T04:02:50Z",
+    "url": "https://github.com/tianye1999/dsb"
+  },
+  {
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 12,
+    "updated_at": "2026-10-23T03:59:55Z",
+    "url": "https://github.com/metric-space-ai/greppy"
   },
   {
     "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
@@ -27,24 +90,6 @@
     "url": "https://github.com/zeng6125-rgb/suixing"
   },
   {
-    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 50,
-    "updated_at": "2026-10-23T03:54:35Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
-    "id": "QQSHI13/fox-agent",
-    "language": "TypeScript",
-    "name": "QQSHI13/fox-agent",
-    "stars": 3,
-    "updated_at": "2026-10-23T03:54:19Z",
-    "url": "https://github.com/QQSHI13/fox-agent"
-  },
-  {
     "description": "\u7ed9\u5b83\u4e00\u672c\u4e66\u6216\u4e00\u4e2a\u77e5\u8bc6\u5e93\uff0c\u4ea7\u51fa\u80fd\u4e0a\u7684\u4e00\u95e8\u8bfe\uff1a\u8403\u53d6 \u2192 \u7ed3\u6784\u8fd8\u539f \u2192 \u7ec4\u4ef6\u63d0\u53d6 \u2192 \u6a21\u5757\u7f16\u6392 \u2192 \u6559\u5b66\u6d41\u6c34\u7ebf\uff0c\u56db\u5c42 Skill \u4e32\u8054\uff0c\u6bcf\u9636\u6bb5\u51fa\u53e3\u6709\u771f\u95f8\u95e8",
     "id": "Lougle360/course-factory-agent",
     "language": "Python",
@@ -54,39 +99,12 @@
     "url": "https://github.com/Lougle360/course-factory-agent"
   },
   {
-    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 54,
-    "updated_at": "2026-10-23T03:46:07Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "Databricks-native equity research platform: a PySpark Delta medallion lakehouse over market, options, SEC, COT and macro",
-    "id": "evangoh122/quant_platform_1",
-    "language": "Python",
-    "name": "evangoh122/quant_platform_1",
-    "stars": 1,
-    "updated_at": "2026-10-23T03:55:50Z",
-    "url": "https://github.com/evangoh122/quant_platform_1"
-  },
-  {
-    "description": "DSB (\u9017\u6c99\u5305): an open-source, trust-first Android AI agent. Delegate app chores on a background virtual display, with execu",
-    "id": "tianye1999/dsb",
-    "language": "Python",
-    "name": "tianye1999/dsb",
-    "stars": 1,
-    "updated_at": "2026-10-23T03:43:10Z",
-    "url": "https://github.com/tianye1999/dsb"
-  },
-  {
     "description": "shared memory for agents. Markdown is the truth; agents just share a directory",
     "id": "neilzhao-piee/shmem",
     "language": "Python",
     "name": "neilzhao-piee/shmem",
     "stars": 0,
-    "updated_at": "2026-10-23T03:42:57Z",
+    "updated_at": "2026-10-23T04:11:34Z",
     "url": "https://github.com/neilzhao-piee/shmem"
   },
   {
@@ -113,17 +131,8 @@
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 450,
-    "updated_at": "2026-10-23T03:13:51Z",
+    "updated_at": "2026-10-23T04:08:11Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-23T03:12:50Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
@@ -140,7 +149,7 @@
     "language": "Rust",
     "name": "bigfish1913/pi-rust",
     "stars": 143,
-    "updated_at": "2026-10-23T03:39:25Z",
+    "updated_at": "2026-10-23T04:11:52Z",
     "url": "https://github.com/bigfish1913/pi-rust"
   },
   {
@@ -148,7 +157,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 33685,
+    "stars": 33687,
     "updated_at": "2026-10-23T03:03:28Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-23T01:20:05Z",
     "url": "https://github.com/RDunbar01/Nexus-Web-LLM"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 2,
-    "updated_at": "2026-10-23T01:15:49Z",
-    "url": "https://github.com/b-macker/NAAb"
   }
 ]
