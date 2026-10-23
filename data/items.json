@@ -1,11 +1,20 @@
 [
   {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-10-23T19:00:09Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "A voice AI companion for Windows and Linux. Create characters with ComfyUI, give them voices, emotions and memories. Loc",
     "id": "ArthurReboulSalze/Sherka-Compagnon",
     "language": "Rust",
     "name": "ArthurReboulSalze/Sherka-Compagnon",
     "stars": 0,
-    "updated_at": "2026-10-23T18:40:54Z",
+    "updated_at": "2026-10-23T18:58:27Z",
     "url": "https://github.com/ArthurReboulSalze/Sherka-Compagnon"
   },
   {
@@ -22,7 +31,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 972,
+    "stars": 973,
     "updated_at": "2026-10-23T18:37:27Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -86,7 +95,7 @@
     "language": "Python",
     "name": "hsaghir/looplet",
     "stars": 7,
-    "updated_at": "2026-10-23T17:58:59Z",
+    "updated_at": "2026-10-23T18:55:32Z",
     "url": "https://github.com/hsaghir/looplet"
   },
   {
@@ -230,7 +239,7 @@
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 50,
-    "updated_at": "2026-10-23T17:18:20Z",
+    "updated_at": "2026-10-23T18:48:58Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
@@ -319,7 +328,7 @@
     "id": "Soodok/Deepseek-Harness-Local-Android",
     "language": "Kotlin",
     "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 310,
+    "stars": 311,
     "updated_at": "2026-10-23T16:32:23Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-23T15:50:46Z",
     "url": "https://github.com/Kiru-Sama/Kiru-Astrbot-Addons"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-23T15:49:56Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   }
 ]
