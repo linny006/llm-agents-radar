@@ -1,5 +1,50 @@
 [
   {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-23T19:29:29Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Command-line coding agent for local models (Ollama), subscription CLIs or API keys, with failover between them, a replay",
+    "id": "HarperZ9/relay",
+    "language": "Python",
+    "name": "HarperZ9/relay",
+    "stars": 1,
+    "updated_at": "2026-10-23T19:28:25Z",
+    "url": "https://github.com/HarperZ9/relay"
+  },
+  {
+    "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
+    "id": "sindredg/ai-security-platform",
+    "language": "Python",
+    "name": "sindredg/ai-security-platform",
+    "stars": 0,
+    "updated_at": "2026-10-23T19:27:34Z",
+    "url": "https://github.com/sindredg/ai-security-platform"
+  },
+  {
+    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
+    "id": "alexwkleung/reika",
+    "language": "TypeScript",
+    "name": "alexwkleung/reika",
+    "stars": 12,
+    "updated_at": "2026-10-23T19:24:55Z",
+    "url": "https://github.com/alexwkleung/reika"
+  },
+  {
+    "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 219,
+    "updated_at": "2026-10-23T19:27:05Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
     "description": "Nosis is a lightweight personal agent runtime: per-session execution boundaries with OS-level sandboxing, computer use, ",
     "id": "EvannZhongg/Nosis",
     "language": "Python",
@@ -45,15 +90,6 @@
     "url": "https://github.com/DominikSienkiewicz/StockAgent"
   },
   {
-    "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 219,
-    "updated_at": "2026-10-23T19:15:09Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
     "id": "plurnk/plurnk-service",
     "language": "TypeScript",
@@ -68,7 +104,7 @@
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 456,
-    "updated_at": "2026-10-23T19:02:56Z",
+    "updated_at": "2026-10-23T19:23:46Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
@@ -142,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-10-23T18:32:52Z",
     "url": "https://github.com/kifirkin/pi-braid"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-23T18:28:17Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "The Self-Improving Coding Agent",
@@ -421,32 +448,5 @@
     "stars": 144,
     "updated_at": "2026-10-23T16:12:40Z",
     "url": "https://github.com/bigfish1913/pi-rust"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-10-23T16:11:42Z",
-    "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "",
-    "id": "FarzadAziziZade/Grammarlix",
-    "language": "\u2014",
-    "name": "FarzadAziziZade/Grammarlix",
-    "stars": 1,
-    "updated_at": "2026-10-23T16:23:31Z",
-    "url": "https://github.com/FarzadAziziZade/Grammarlix"
-  },
-  {
-    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
-    "id": "plurnk/plurnk",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk",
-    "stars": 6,
-    "updated_at": "2026-10-23T16:10:24Z",
-    "url": "https://github.com/plurnk/plurnk"
   }
 ]
