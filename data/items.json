@@ -1,12 +1,111 @@
 [
   {
+    "description": "AI \u6295\u7814 Copilot \u2014 \u5927\u6a21\u578b\u5382\u5546\u7ade\u54c1\u7814\u7a76 Deep Research Agent\uff1a\u62c6\u89e3\u2192\u68c0\u7d22\u2192\u81ea\u68c0\u2192\u8865\u68c0\u2192\u6c47\u603b\uff0c52 \u683c\u7814\u5224\u7ed3\u8bba 100% \u53ef\u6eaf\u6e90\uff08\u7eaf Python \u6807\u51c6\u5e93\uff0c\u96f6\u4f9d\u8d56\uff09",
+    "id": "shineyyxd/ai-research-copilot",
+    "language": "Python",
+    "name": "shineyyxd/ai-research-copilot",
+    "stars": 0,
+    "updated_at": "2026-10-23T08:08:12Z",
+    "url": "https://github.com/shineyyxd/ai-research-copilot"
+  },
+  {
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 109,
+    "updated_at": "2026-10-23T08:08:17Z",
+    "url": "https://github.com/AVADSA25/codec"
+  },
+  {
+    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
+    "id": "xieguigang/sciBASIC",
+    "language": "Visual Basic .NET",
+    "name": "xieguigang/sciBASIC",
+    "stars": 79,
+    "updated_at": "2026-10-23T08:07:58Z",
+    "url": "https://github.com/xieguigang/sciBASIC"
+  },
+  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 15,
-    "updated_at": "2026-10-23T07:59:59Z",
+    "updated_at": "2026-10-23T08:13:16Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-10-23T08:07:51Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 33718,
+    "updated_at": "2026-10-23T08:07:34Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-23T08:05:53Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 50,
+    "updated_at": "2026-10-23T08:14:25Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "AI coding agent for terminal, desktop and browser. Visible execution records, LAN mesh collaboration across machines, ph",
+    "id": "holylong/luban",
+    "language": "TypeScript",
+    "name": "holylong/luban",
+    "stars": 0,
+    "updated_at": "2026-10-23T08:05:02Z",
+    "url": "https://github.com/holylong/luban"
+  },
+  {
+    "description": "Self-diagnosis and troubleshooting for Hermes Agent.",
+    "id": "iap/hermes-guide",
+    "language": "Python",
+    "name": "iap/hermes-guide",
+    "stars": 3,
+    "updated_at": "2026-10-23T08:01:13Z",
+    "url": "https://github.com/iap/hermes-guide"
+  },
+  {
+    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
+    "id": "oldfunk/paper-trading",
+    "language": "Python",
+    "name": "oldfunk/paper-trading",
+    "stars": 1,
+    "updated_at": "2026-10-23T08:01:09Z",
+    "url": "https://github.com/oldfunk/paper-trading"
+  },
+  {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 6,
+    "updated_at": "2026-10-23T08:00:45Z",
+    "url": "https://github.com/plurnk/plurnk"
   },
   {
     "description": "",
@@ -72,15 +171,6 @@
     "url": "https://github.com/xiaomaozjj666/web-crawler"
   },
   {
-    "description": "AI \u6295\u7814 Copilot \u2014 \u5927\u6a21\u578b\u5382\u5546\u7ade\u54c1\u7814\u7a76 Deep Research Agent\uff1a\u62c6\u89e3\u2192\u68c0\u7d22\u2192\u81ea\u68c0\u2192\u8865\u68c0\u2192\u6c47\u603b\uff0c52 \u683c\u7814\u5224\u7ed3\u8bba 100% \u53ef\u6eaf\u6e90\uff08\u7eaf Python \u6807\u51c6\u5e93\uff0c\u96f6\u4f9d\u8d56\uff09",
-    "id": "shineyyxd/ai-research-copilot",
-    "language": "Python",
-    "name": "shineyyxd/ai-research-copilot",
-    "stars": 0,
-    "updated_at": "2026-10-23T07:54:02Z",
-    "url": "https://github.com/shineyyxd/ai-research-copilot"
-  },
-  {
     "description": "\u7ed9\u5b83\u4e00\u672c\u4e66\u6216\u4e00\u4e2a\u77e5\u8bc6\u5e93\uff0c\u4ea7\u51fa\u80fd\u4e0a\u7684\u4e00\u95e8\u8bfe\uff1a\u8403\u53d6 \u2192 \u7ed3\u6784\u8fd8\u539f \u2192 \u7ec4\u4ef6\u63d0\u53d6 \u2192 \u6a21\u5757\u7f16\u6392 \u2192 \u6559\u5b66\u6d41\u6c34\u7ebf\uff0c\u56db\u5c42 Skill \u4e32\u8054\uff0c\u6bcf\u9636\u6bb5\u51fa\u53e3\u6709\u771f\u95f8\u95e8",
     "id": "Lougle360/course-factory-agent",
     "language": "Python",
@@ -106,15 +196,6 @@
     "stars": 6,
     "updated_at": "2026-10-23T07:50:00Z",
     "url": "https://github.com/Maximooch/penguin"
-  },
-  {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 109,
-    "updated_at": "2026-10-23T07:49:56Z",
-    "url": "https://github.com/AVADSA25/codec"
   },
   {
     "description": "A complete CRM admin built entirely with Lume \u2014 one C11 single binary plus one .lume script for the database, REST API, ",
@@ -167,7 +248,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-23T07:53:10Z",
+    "updated_at": "2026-10-23T08:08:28Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -220,7 +301,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 948,
+    "stars": 949,
     "updated_at": "2026-10-23T07:16:35Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -248,17 +329,8 @@
     "language": "TypeScript",
     "name": "NicoGenti/opencode-orchestrator-kit",
     "stars": 8,
-    "updated_at": "2026-10-23T07:12:07Z",
+    "updated_at": "2026-10-23T08:01:06Z",
     "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
-  },
-  {
-    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
-    "id": "oldfunk/paper-trading",
-    "language": "Python",
-    "name": "oldfunk/paper-trading",
-    "stars": 1,
-    "updated_at": "2026-10-23T07:10:21Z",
-    "url": "https://github.com/oldfunk/paper-trading"
   },
   {
     "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
@@ -342,15 +414,6 @@
     "url": "https://github.com/Cognipeer/agent-sdk"
   },
   {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 33716,
-    "updated_at": "2026-10-23T06:47:42Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
     "description": "shared memory for agents. Markdown is the truth; agents just share a directory",
     "id": "neilzhao-piee/shmem",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-23T06:16:51Z",
     "url": "https://github.com/DavidLearning1023/bilibili-info-gathering"
-  },
-  {
-    "description": "JevHub \u00b7 Jev \u751f\u6001\u70ed\u699c \u628a\u503c\u5f97\u5173\u6ce8\u7684 Jev \u9879\u76ee\u3001\u6559\u7a0b\u548c\u8ba8\u8bba\uff0c\u6c47\u5230\u4e00\u9875\u3002 \u81ea\u52a8\u53d1\u73b0 \u00b7 \u6bcf\u65e5\u66f4\u65b0 \u00b7 \u6309 Stars \u6392\u5e8f \u00b7 \u4e2d\u82f1\u53cc\u8bed",
-    "id": "frontierlabai/JevHub",
-    "language": "Python",
-    "name": "frontierlabai/JevHub",
-    "stars": 8,
-    "updated_at": "2026-10-23T06:02:36Z",
-    "url": "https://github.com/frontierlabai/JevHub"
-  },
-  {
-    "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
-    "id": "edjafarov/kiagent-core",
-    "language": "TypeScript",
-    "name": "edjafarov/kiagent-core",
-    "stars": 7,
-    "updated_at": "2026-10-23T06:01:10Z",
-    "url": "https://github.com/edjafarov/kiagent-core"
-  },
-  {
-    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 50,
-    "updated_at": "2026-10-23T05:55:46Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
-    "id": "weihuaguo270-ops/react-agent",
-    "language": "Python",
-    "name": "weihuaguo270-ops/react-agent",
-    "stars": 0,
-    "updated_at": "2026-10-23T05:53:45Z",
-    "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
-    "description": "AI coding agent for terminal, desktop and browser. Visible execution records, LAN mesh collaboration across machines, ph",
-    "id": "holylong/luban",
-    "language": "TypeScript",
-    "name": "holylong/luban",
-    "stars": 0,
-    "updated_at": "2026-10-23T05:49:31Z",
-    "url": "https://github.com/holylong/luban"
-  },
-  {
-    "description": "The bioinformatics agent desktop for clinicians and wet-lab scientists \u2014 built on DeepSeek Harness. One-click installers",
-    "id": "sagirimo/BioDSH",
-    "language": "Python",
-    "name": "sagirimo/BioDSH",
-    "stars": 63,
-    "updated_at": "2026-10-23T05:46:22Z",
-    "url": "https://github.com/sagirimo/BioDSH"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-23T05:43:46Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   }
 ]
