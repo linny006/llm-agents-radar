@@ -1,5 +1,68 @@
 [
   {
+    "description": "\u628a\u6d77\u91cf\u5546\u54c1\u8bc4\u8bba\u6574\u7406\u6210\u53ef\u56de\u67e5\u3001\u53ef\u590d\u6838\u7684\u8fd0\u8425\u8bc1\u636e:\u53d7\u7ea6\u675f Agent + \u672c\u5730\u8bc1\u636e\u5f15\u64ce + \u9010\u5b57\u6bb5\u6821\u9a8c\u3002\u4ed3\u5e93\u81ea\u5e26 3 \u5546\u54c1\u6f14\u793a\u5b50\u96c6,\u514b\u9686\u5373\u53ef\u8fd0\u884c;AI \u6b65\u9aa4\u652f\u6301\u8bbf\u95ee\u8005\u81ea\u5e26 DeepSeek key\u3002",
+    "id": "TheSKY-3/ecom-review-intelligence",
+    "language": "Python",
+    "name": "TheSKY-3/ecom-review-intelligence",
+    "stars": 0,
+    "updated_at": "2026-10-23T04:44:24Z",
+    "url": "https://github.com/TheSKY-3/ecom-review-intelligence"
+  },
+  {
+    "description": "Keyboard-first Kubernetes TUI with an AI agent that works on the same screen, plus an MCP bridge for your editor's assis",
+    "id": "hellices/korvid",
+    "language": "Python",
+    "name": "hellices/korvid",
+    "stars": 3,
+    "updated_at": "2026-10-23T04:43:14Z",
+    "url": "https://github.com/hellices/korvid"
+  },
+  {
+    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 54,
+    "updated_at": "2026-10-23T04:40:02Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "Agent framework for smart-cockpit apps \u00b7 \u9762\u5411\u667a\u80fd\u5ea7\u8231\u4e1a\u52a1\u7684 Agent \u6846\u67b6:\u96f6\u540e\u7aef\u3001\u6743\u9650\u5206\u7ea7\u3001\u786e\u8ba4\u6d41\u3001\u5361\u7247\u7f16\u6392\u3001\u5feb\u6162\u53cc\u5c42\u3001\u771f\u5b9e\u4e09\u65b9\u96c6\u6210,\u52a0\u80fd\u529b=\u52a0\u6570\u636e\u4e0d\u52a0\u4ee3\u7801",
+    "id": "yancent-dao/cockpit-agent-sim",
+    "language": "TypeScript",
+    "name": "yancent-dao/cockpit-agent-sim",
+    "stars": 95,
+    "updated_at": "2026-10-23T04:38:20Z",
+    "url": "https://github.com/yancent-dao/cockpit-agent-sim"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-10-23T04:37:46Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "DeepSeek Harness \u63d2\u4ef6\uff1a\u628a\u4efb\u52a1\u6d3e\u53d1\u7ed9\u672c\u673a ZCode / OpenCode / Qoder / WorkBuddy \u56db\u4e2a AI \u7f16\u7a0b CLI\u3002\u9762\u677f\u53ef\u76d1\u89c6/\u7ec8\u6b62/\u7eed\u8dd1\uff0c\u5355\u5199\u8005\u6587\u4ef6\u9501 + \u7528\u91cf\u53f0\u8d26 + \u6309\u989d\u5ea6\u81ea\u52a8\u964d\u7ea7\uff1b\u8d70\u5b98\u65b9 C",
+    "id": "Shuffle-1992/dsh-dispatch",
+    "language": "JavaScript",
+    "name": "Shuffle-1992/dsh-dispatch",
+    "stars": 3,
+    "updated_at": "2026-10-23T04:35:21Z",
+    "url": "https://github.com/Shuffle-1992/dsh-dispatch"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 15,
+    "updated_at": "2026-10-23T04:37:19Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
     "id": "xieguigang/sciBASIC",
     "language": "Visual Basic .NET",
@@ -25,24 +88,6 @@
     "stars": 83,
     "updated_at": "2026-10-23T04:28:03Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 15,
-    "updated_at": "2026-10-23T04:30:14Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "\u628a\u6d77\u91cf\u5546\u54c1\u8bc4\u8bba\u6574\u7406\u6210\u53ef\u56de\u67e5\u3001\u53ef\u590d\u6838\u7684\u8fd0\u8425\u8bc1\u636e:\u53d7\u7ea6\u675f Agent + \u672c\u5730\u8bc1\u636e\u5f15\u64ce + \u9010\u5b57\u6bb5\u6821\u9a8c\u3002\u4ed3\u5e93\u81ea\u5e26 3 \u5546\u54c1\u6f14\u793a\u5b50\u96c6,\u514b\u9686\u5373\u53ef\u8fd0\u884c;AI \u6b65\u9aa4\u652f\u6301\u8bbf\u95ee\u8005\u81ea\u5e26 DeepSeek key\u3002",
-    "id": "TheSKY-3/ecom-review-intelligence",
-    "language": "Python",
-    "name": "TheSKY-3/ecom-review-intelligence",
-    "stars": 0,
-    "updated_at": "2026-10-23T04:22:23Z",
-    "url": "https://github.com/TheSKY-3/ecom-review-intelligence"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -135,15 +180,6 @@
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
-    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 54,
-    "updated_at": "2026-10-23T04:07:47Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
     "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
     "id": "RalfHermsen/x4-agent",
     "language": "Python",
@@ -229,7 +265,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 33688,
+    "stars": 33690,
     "updated_at": "2026-10-23T03:03:28Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-23T01:59:12Z",
     "url": "https://github.com/Rukkakka/velogger"
-  },
-  {
-    "description": "\ub124\uc774\ubc84 \ud56d\uacf5\uad8c\u00b7\uc2a4\uce74\uc774\uc2a4\uce90\ub108\uc5d0\uc11c \uc9c0\uae08 \uc0b4 \uc218 \uc788\ub294 \ud56d\uacf5\uad8c\uc744 \uc870\ud68c\ud558\ub294 LLM \uc5d0\uc774\uc804\ud2b8\uc6a9 CLI \u00b7 Korean flight search CLI for LLM agents (Naver Flights, Skyscanner)",
-    "id": "Rukkakka/baenggipyo",
-    "language": "Python",
-    "name": "Rukkakka/baenggipyo",
-    "stars": 0,
-    "updated_at": "2026-10-23T01:59:04Z",
-    "url": "https://github.com/Rukkakka/baenggipyo"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-10-23T01:56:48Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "A cloud-resident agent that keeps a Zettelkasten on schedule \u2014 and never writes in it.",
-    "id": "skazler/slipbox-agent",
-    "language": "TypeScript",
-    "name": "skazler/slipbox-agent",
-    "stars": 0,
-    "updated_at": "2026-10-23T01:54:00Z",
-    "url": "https://github.com/skazler/slipbox-agent"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 936,
-    "updated_at": "2026-10-23T01:44:14Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   }
 ]
