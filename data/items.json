@@ -1,5 +1,23 @@
 [
   {
+    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
+    "id": "alexwkleung/reika",
+    "language": "TypeScript",
+    "name": "alexwkleung/reika",
+    "stars": 12,
+    "updated_at": "2026-10-23T22:19:43Z",
+    "url": "https://github.com/alexwkleung/reika"
+  },
+  {
+    "description": "Local OpenAI/Anthropic-compatible proxy using structured conversation state to reduce repeated context. Savings and comp",
+    "id": "NosytLabs/skillstate-proxy",
+    "language": "TypeScript",
+    "name": "NosytLabs/skillstate-proxy",
+    "stars": 4,
+    "updated_at": "2026-10-23T22:15:21Z",
+    "url": "https://github.com/NosytLabs/skillstate-proxy"
+  },
+  {
     "description": "The Self-Improving Coding Agent",
     "id": "kanishka-namdeo/Unown",
     "language": "TypeScript",
@@ -212,7 +230,7 @@
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 50,
-    "updated_at": "2026-10-23T21:42:13Z",
+    "updated_at": "2026-10-23T22:24:48Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
@@ -405,15 +423,6 @@
     "url": "https://github.com/HarperZ9/relay"
   },
   {
-    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
-    "id": "alexwkleung/reika",
-    "language": "TypeScript",
-    "name": "alexwkleung/reika",
-    "stars": 12,
-    "updated_at": "2026-10-23T22:12:40Z",
-    "url": "https://github.com/alexwkleung/reika"
-  },
-  {
     "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
     "id": "node9-ai/node9-proxy",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-23T19:16:02Z",
     "url": "https://github.com/DominikSienkiewicz/StockAgent"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 133,
-    "updated_at": "2026-10-23T19:00:56Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
   }
 ]
