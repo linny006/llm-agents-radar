@@ -1,12 +1,66 @@
 [
   {
+    "description": "\ud83e\udd16\u26cf\ufe0f Autonomous AI players for Minecraft that act like real teammates. They chat, pick a leader, split up big builds, fig",
+    "id": "thegauravgiri/minecraft-agents",
+    "language": "JavaScript",
+    "name": "thegauravgiri/minecraft-agents",
+    "stars": 0,
+    "updated_at": "2026-10-23T15:12:34Z",
+    "url": "https://github.com/thegauravgiri/minecraft-agents"
+  },
+  {
+    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
+    "id": "RalfHermsen/x4-agent",
+    "language": "Python",
+    "name": "RalfHermsen/x4-agent",
+    "stars": 0,
+    "updated_at": "2026-10-23T15:12:18Z",
+    "url": "https://github.com/RalfHermsen/x4-agent"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-23T15:12:17Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Keyboard-first Kubernetes TUI with an AI agent that works on the same screen, plus an MCP bridge for your editor's assis",
+    "id": "hellices/korvid",
+    "language": "Python",
+    "name": "hellices/korvid",
+    "stars": 3,
+    "updated_at": "2026-10-23T15:10:55Z",
+    "url": "https://github.com/hellices/korvid"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 8933,
-    "updated_at": "2026-10-23T14:58:24Z",
+    "updated_at": "2026-10-23T15:15:16Z",
     "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "A voice AI companion for Windows and Linux. Create characters with ComfyUI, give them voices, emotions and memories. Loc",
+    "id": "ArthurReboulSalze/Sherka-Compagnon",
+    "language": "Rust",
+    "name": "ArthurReboulSalze/Sherka-Compagnon",
+    "stars": 0,
+    "updated_at": "2026-10-23T15:07:32Z",
+    "url": "https://github.com/ArthurReboulSalze/Sherka-Compagnon"
+  },
+  {
+    "description": "Voyager \u00d7 VLML \u00d7 \u732b\u5a18\u4f34\u5b66\uff1a\u628a\u300c\u5b66\u4e60\u8005\u300d\u6362\u6210 agent \u7684\u6700\u5c0f\u53ef\u6267\u884c\u539f\u578b\uff08\u9762\u677f\u5df2\u4e0a\u817e\u8baf\u4e91\uff09",
+    "id": "Zxy876/voyager-vlml-mve",
+    "language": "Python",
+    "name": "Zxy876/voyager-vlml-mve",
+    "stars": 2,
+    "updated_at": "2026-10-23T15:05:44Z",
+    "url": "https://github.com/Zxy876/voyager-vlml-mve"
   },
   {
     "description": "AI agent that finds the Pakistan Customs Tariff (PCT) code for a product and calculates the full duty bill, with a citat",
@@ -14,8 +68,17 @@
     "language": "Python",
     "name": "Maaz5711/customs-copilot",
     "stars": 0,
-    "updated_at": "2026-10-23T14:56:46Z",
+    "updated_at": "2026-10-23T15:04:47Z",
     "url": "https://github.com/Maaz5711/customs-copilot"
+  },
+  {
+    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
+    "id": "robolong/zhengming",
+    "language": "TypeScript",
+    "name": "robolong/zhengming",
+    "stars": 0,
+    "updated_at": "2026-10-23T15:01:38Z",
+    "url": "https://github.com/robolong/zhengming"
   },
   {
     "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
@@ -36,13 +99,13 @@
     "url": "https://github.com/sindredg/ai-security-platform"
   },
   {
-    "description": "\ud83e\udd16\u26cf\ufe0f Autonomous AI players for Minecraft that act like real teammates. They chat, pick a leader, split up big builds, fig",
-    "id": "thegauravgiri/minecraft-agents",
-    "language": "JavaScript",
-    "name": "thegauravgiri/minecraft-agents",
-    "stars": 0,
-    "updated_at": "2026-10-23T14:50:58Z",
-    "url": "https://github.com/thegauravgiri/minecraft-agents"
+    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 456,
+    "updated_at": "2026-10-23T14:51:02Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -63,15 +126,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-23T14:47:46Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
     "description": "Auditable, event-sourced local coding-agent runtime \u2014 dual-plane control/execution, durable result-projection delivery g",
     "id": "Koawa265Richard31/Koawa.codingAgentV2",
     "language": "Python",
@@ -88,15 +142,6 @@
     "stars": 3,
     "updated_at": "2026-10-23T14:35:35Z",
     "url": "https://github.com/balfiky/openrook"
-  },
-  {
-    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
-    "id": "robolong/zhengming",
-    "language": "TypeScript",
-    "name": "robolong/zhengming",
-    "stars": 0,
-    "updated_at": "2026-10-23T14:31:58Z",
-    "url": "https://github.com/robolong/zhengming"
   },
   {
     "description": "\u5e26\u7b56\u7565\u9a8c\u8bc1\u7684 A \u80a1 LLM \u5206\u6790\u7cfb\u7edf \u2014\u2014 \u591a\u6e90\u964d\u7ea7 + \u5b9a\u65f6\u4efb\u52a1 + \u591a\u901a\u9053\u63a8\u9001\uff1b\u6838\u5fc3\u589e\u91cf\u662f\u53ef\u8bc1\u4f2a\u7684\u56de\u6d4b\u4e0e\u9a8c\u8bc1\u5c42\uff08\u672a\u6765\u51fd\u6570\u63a2\u6d4b / \u6837\u672c\u5185\u5916\u5207\u5206 / t\u68c0\u9a8c / \u57fa\u51c6\u5bf9\u6bd4\uff09",
@@ -122,7 +167,7 @@
     "language": "Python",
     "name": "CIRISAI/CIRISAgent",
     "stars": 58,
-    "updated_at": "2026-10-23T14:28:13Z",
+    "updated_at": "2026-10-23T15:07:11Z",
     "url": "https://github.com/CIRISAI/CIRISAgent"
   },
   {
@@ -205,15 +250,6 @@
     "stars": 5,
     "updated_at": "2026-10-23T14:49:31Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Voyager \u00d7 VLML \u00d7 \u732b\u5a18\u4f34\u5b66\uff1a\u628a\u300c\u5b66\u4e60\u8005\u300d\u6362\u6210 agent \u7684\u6700\u5c0f\u53ef\u6267\u884c\u539f\u578b\uff08\u9762\u677f\u5df2\u4e0a\u817e\u8baf\u4e91\uff09",
-    "id": "Zxy876/voyager-vlml-mve",
-    "language": "Python",
-    "name": "Zxy876/voyager-vlml-mve",
-    "stars": 2,
-    "updated_at": "2026-10-23T14:13:54Z",
-    "url": "https://github.com/Zxy876/voyager-vlml-mve"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -412,41 +448,5 @@
     "stars": 133,
     "updated_at": "2026-10-23T12:21:40Z",
     "url": "https://github.com/GeminiLight/gen-mentor"
-  },
-  {
-    "description": "\u8bc1\u636e\u9a71\u52a8\u7684\u81ea\u4e3b\u8bba\u6587\u7814\u7a76 Agent\uff08\u57fa\u4e8e GPT Researcher\uff09\u00b7 Evidence-grounded autonomous research agent",
-    "id": "lijy-forge/PaperGuide-Agent",
-    "language": "Python",
-    "name": "lijy-forge/PaperGuide-Agent",
-    "stars": 1,
-    "updated_at": "2026-10-23T12:21:08Z",
-    "url": "https://github.com/lijy-forge/PaperGuide-Agent"
-  },
-  {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 109,
-    "updated_at": "2026-10-23T12:20:25Z",
-    "url": "https://github.com/AVADSA25/codec"
-  },
-  {
-    "description": "The LLM Anti-Framework",
-    "id": "Mirascope/mirascope",
-    "language": "Python",
-    "name": "Mirascope/mirascope",
-    "stars": 1537,
-    "updated_at": "2026-10-23T12:17:31Z",
-    "url": "https://github.com/Mirascope/mirascope"
-  },
-  {
-    "description": "Keyboard-first Kubernetes TUI with an AI agent that works on the same screen, plus an MCP bridge for your editor's assis",
-    "id": "hellices/korvid",
-    "language": "Python",
-    "name": "hellices/korvid",
-    "stars": 3,
-    "updated_at": "2026-10-23T14:14:22Z",
-    "url": "https://github.com/hellices/korvid"
   }
 ]
