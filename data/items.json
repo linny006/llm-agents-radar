@@ -1,5 +1,77 @@
 [
   {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-23T05:43:46Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-10-23T05:39:39Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
+    "id": "oldfunk/paper-trading",
+    "language": "Python",
+    "name": "oldfunk/paper-trading",
+    "stars": 1,
+    "updated_at": "2026-10-23T05:38:22Z",
+    "url": "https://github.com/oldfunk/paper-trading"
+  },
+  {
+    "description": "DeepSeek Harness \u63d2\u4ef6\uff1a\u628a\u4efb\u52a1\u6d3e\u53d1\u7ed9\u672c\u673a ZCode / OpenCode / Qoder / WorkBuddy \u56db\u4e2a AI \u7f16\u7a0b CLI\u3002\u9762\u677f\u53ef\u76d1\u89c6/\u7ec8\u6b62/\u7eed\u8dd1\uff0c\u5355\u5199\u8005\u6587\u4ef6\u9501 + \u7528\u91cf\u53f0\u8d26 + \u6309\u989d\u5ea6\u81ea\u52a8\u964d\u7ea7\uff1b\u8d70\u5b98\u65b9 C",
+    "id": "Shuffle-1992/dsh-dispatch",
+    "language": "JavaScript",
+    "name": "Shuffle-1992/dsh-dispatch",
+    "stars": 3,
+    "updated_at": "2026-10-23T05:38:00Z",
+    "url": "https://github.com/Shuffle-1992/dsh-dispatch"
+  },
+  {
+    "description": "shared memory for agents. Markdown is the truth; agents just share a directory",
+    "id": "neilzhao-piee/shmem",
+    "language": "Python",
+    "name": "neilzhao-piee/shmem",
+    "stars": 0,
+    "updated_at": "2026-10-23T05:36:53Z",
+    "url": "https://github.com/neilzhao-piee/shmem"
+  },
+  {
+    "description": "A local-only ReAct agent running on Ollama, with no agent framework. Hand-rolled loop, typed tools, a real filesystem sa",
+    "id": "mntoyg/OmniAgent",
+    "language": "Python",
+    "name": "mntoyg/OmniAgent",
+    "stars": 0,
+    "updated_at": "2026-10-23T05:35:31Z",
+    "url": "https://github.com/mntoyg/OmniAgent"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 15,
+    "updated_at": "2026-10-23T05:36:20Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 939,
+    "updated_at": "2026-10-23T05:31:20Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
     "description": "\u5b89\u5168\u4f18\u5148\u7684\u4e2d\u533b\u77e5\u8bc6\u56fe\u8c31 + Agentic GraphRAG \u95ee\u7b54\u7cfb\u7edf | Safety-first TCM knowledge graph with evidence-backed GraphRAG Q&A. Neo4j \u00b7 LangGr",
     "id": "TR2335/ZY-TCM-Knowledge-Graph",
     "language": "Python",
@@ -9,15 +81,6 @@
     "url": "https://github.com/TR2335/ZY-TCM-Knowledge-Graph"
   },
   {
-    "description": "shared memory for agents. Markdown is the truth; agents just share a directory",
-    "id": "neilzhao-piee/shmem",
-    "language": "Python",
-    "name": "neilzhao-piee/shmem",
-    "stars": 0,
-    "updated_at": "2026-10-23T05:28:34Z",
-    "url": "https://github.com/neilzhao-piee/shmem"
-  },
-  {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -25,15 +88,6 @@
     "stars": 83,
     "updated_at": "2026-10-23T05:28:16Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "A local-only ReAct agent running on Ollama, with no agent framework. Hand-rolled loop, typed tools, a real filesystem sa",
-    "id": "mntoyg/OmniAgent",
-    "language": "Python",
-    "name": "mntoyg/OmniAgent",
-    "stars": 0,
-    "updated_at": "2026-10-23T05:27:53Z",
-    "url": "https://github.com/mntoyg/OmniAgent"
   },
   {
     "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
@@ -72,15 +126,6 @@
     "url": "https://github.com/b7216309-jpg/little-bot"
   },
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 938,
-    "updated_at": "2026-10-23T05:12:07Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
     "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
     "id": "robolong/zhengming",
     "language": "TypeScript",
@@ -97,15 +142,6 @@
     "stars": 15,
     "updated_at": "2026-10-23T05:07:36Z",
     "url": "https://github.com/NitinReddy-A/Rampart"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 15,
-    "updated_at": "2026-10-23T05:27:47Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
@@ -169,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T04:37:46Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "DeepSeek Harness \u63d2\u4ef6\uff1a\u628a\u4efb\u52a1\u6d3e\u53d1\u7ed9\u672c\u673a ZCode / OpenCode / Qoder / WorkBuddy \u56db\u4e2a AI \u7f16\u7a0b CLI\u3002\u9762\u677f\u53ef\u76d1\u89c6/\u7ec8\u6b62/\u7eed\u8dd1\uff0c\u5355\u5199\u8005\u6587\u4ef6\u9501 + \u7528\u91cf\u53f0\u8d26 + \u6309\u989d\u5ea6\u81ea\u52a8\u964d\u7ea7\uff1b\u8d70\u5b98\u65b9 C",
-    "id": "Shuffle-1992/dsh-dispatch",
-    "language": "JavaScript",
-    "name": "Shuffle-1992/dsh-dispatch",
-    "stars": 3,
-    "updated_at": "2026-10-23T04:35:21Z",
-    "url": "https://github.com/Shuffle-1992/dsh-dispatch"
   },
   {
     "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
@@ -266,7 +293,7 @@
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 50,
-    "updated_at": "2026-10-23T05:28:50Z",
+    "updated_at": "2026-10-23T05:32:51Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
@@ -322,15 +349,6 @@
     "stars": 5,
     "updated_at": "2026-10-23T03:38:14Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-23T03:11:22Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "Build and run agents you can see, understand and trust.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-23T02:18:15Z",
     "url": "https://github.com/holylong/luban"
-  },
-  {
-    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-23T02:17:10Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
-    "id": "weihuaguo270-ops/react-agent",
-    "language": "Python",
-    "name": "weihuaguo270-ops/react-agent",
-    "stars": 0,
-    "updated_at": "2026-10-23T02:15:54Z",
-    "url": "https://github.com/weihuaguo270-ops/react-agent"
   }
 ]
