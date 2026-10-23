@@ -1,5 +1,86 @@
 [
   {
+    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
+    "id": "oldfunk/paper-trading",
+    "language": "Python",
+    "name": "oldfunk/paper-trading",
+    "stars": 1,
+    "updated_at": "2026-10-23T08:44:20Z",
+    "url": "https://github.com/oldfunk/paper-trading"
+  },
+  {
+    "description": "\u8f7b\u91cf\u7684agent\u6846\u67b6",
+    "id": "qiuzixu/agent-core",
+    "language": "Python",
+    "name": "qiuzixu/agent-core",
+    "stars": 1,
+    "updated_at": "2026-10-23T08:41:24Z",
+    "url": "https://github.com/qiuzixu/agent-core"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-23T08:39:37Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 14,
+    "updated_at": "2026-10-23T08:40:05Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
+    "id": "memoways/ava-proto1",
+    "language": "TypeScript",
+    "name": "memoways/ava-proto1",
+    "stars": 0,
+    "updated_at": "2026-10-23T08:38:00Z",
+    "url": "https://github.com/memoways/ava-proto1"
+  },
+  {
+    "description": "A local-only ReAct agent running on Ollama, with no agent framework. Hand-rolled loop, typed tools, a real filesystem sa",
+    "id": "mntoyg/OmniAgent",
+    "language": "Python",
+    "name": "mntoyg/OmniAgent",
+    "stars": 0,
+    "updated_at": "2026-10-23T08:37:27Z",
+    "url": "https://github.com/mntoyg/OmniAgent"
+  },
+  {
+    "description": "Databricks-native equity research platform: a PySpark Delta medallion lakehouse over market, options, SEC, COT and macro",
+    "id": "evangoh122/quant_platform_1",
+    "language": "Python",
+    "name": "evangoh122/quant_platform_1",
+    "stars": 1,
+    "updated_at": "2026-10-23T08:33:53Z",
+    "url": "https://github.com/evangoh122/quant_platform_1"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 15,
+    "updated_at": "2026-10-23T08:33:17Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Scrapling \u98ce\u683c\u9690\u8eab\u722c\u866b\u5e93\uff1a\u81ea\u9002\u5e94\u9009\u62e9\u5668 \u00b7 TLS \u6307\u7eb9 HTTP \u00b7 JS \u6e32\u67d3 \u00b7 \u56de\u8c03\u5f0f Spider \u6846\u67b6\uff08\u91cd\u8bd5/robots/\u53bb\u91cd/\u4e2d\u95f4\u4ef6\u7ba1\u9053\uff09\u00b7 JS \u9006\u5411 Agent \u00b7 \u9a8c\u8bc1\u7801\u8bc6\u522b \u00b7 MCP \u670d\u52a1 \u00b7 \u672c\u5730 We",
+    "id": "xiaomaozjj666/web-crawler",
+    "language": "Python",
+    "name": "xiaomaozjj666/web-crawler",
+    "stars": 5,
+    "updated_at": "2026-10-23T08:32:23Z",
+    "url": "https://github.com/xiaomaozjj666/web-crawler"
+  },
+  {
     "description": "Gestor ag\u00e9ntico de modelos llm",
     "id": "bondwell79/hercules",
     "language": "Python",
@@ -72,15 +153,6 @@
     "url": "https://github.com/xieguigang/sciBASIC"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 15,
-    "updated_at": "2026-10-23T08:27:58Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
     "id": "JSL107/personal_agents",
     "language": "TypeScript",
@@ -131,17 +203,8 @@
     "language": "Python",
     "name": "iap/hermes-guide",
     "stars": 3,
-    "updated_at": "2026-10-23T08:27:28Z",
+    "updated_at": "2026-10-23T08:39:48Z",
     "url": "https://github.com/iap/hermes-guide"
-  },
-  {
-    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
-    "id": "oldfunk/paper-trading",
-    "language": "Python",
-    "name": "oldfunk/paper-trading",
-    "stars": 1,
-    "updated_at": "2026-10-23T08:01:09Z",
-    "url": "https://github.com/oldfunk/paper-trading"
   },
   {
     "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
@@ -176,7 +239,7 @@
     "language": "Python",
     "name": "hellices/korvid",
     "stars": 3,
-    "updated_at": "2026-10-23T08:30:16Z",
+    "updated_at": "2026-10-23T08:40:06Z",
     "url": "https://github.com/hellices/korvid"
   },
   {
@@ -196,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T07:54:53Z",
     "url": "https://github.com/chlniubi23/ecommerce-ai-customer-service-agent"
-  },
-  {
-    "description": "Scrapling \u98ce\u683c\u9690\u8eab\u722c\u866b\u5e93\uff1a\u81ea\u9002\u5e94\u9009\u62e9\u5668 \u00b7 TLS \u6307\u7eb9 HTTP \u00b7 JS \u6e32\u67d3 \u00b7 \u56de\u8c03\u5f0f Spider \u6846\u67b6\uff08\u91cd\u8bd5/robots/\u53bb\u91cd/\u4e2d\u95f4\u4ef6\u7ba1\u9053\uff09\u00b7 JS \u9006\u5411 Agent \u00b7 \u9a8c\u8bc1\u7801\u8bc6\u522b \u00b7 MCP \u670d\u52a1 \u00b7 \u672c\u5730 We",
-    "id": "xiaomaozjj666/web-crawler",
-    "language": "Python",
-    "name": "xiaomaozjj666/web-crawler",
-    "stars": 5,
-    "updated_at": "2026-10-23T07:55:07Z",
-    "url": "https://github.com/xiaomaozjj666/web-crawler"
   },
   {
     "description": "\u7ed9\u5b83\u4e00\u672c\u4e66\u6216\u4e00\u4e2a\u77e5\u8bc6\u5e93\uff0c\u4ea7\u51fa\u80fd\u4e0a\u7684\u4e00\u95e8\u8bfe\uff1a\u8403\u53d6 \u2192 \u7ed3\u6784\u8fd8\u539f \u2192 \u7ec4\u4ef6\u63d0\u53d6 \u2192 \u6a21\u5757\u7f16\u6392 \u2192 \u6559\u5b66\u6d41\u6c34\u7ebf\uff0c\u56db\u5c42 Skill \u4e32\u8054\uff0c\u6bcf\u9636\u6bb5\u51fa\u53e3\u6709\u771f\u95f8\u95e8",
@@ -252,15 +306,6 @@
     "url": "https://github.com/Ragebeat/dental-agent"
   },
   {
-    "description": "A local-only ReAct agent running on Ollama, with no agent framework. Hand-rolled loop, typed tools, a real filesystem sa",
-    "id": "mntoyg/OmniAgent",
-    "language": "Python",
-    "name": "mntoyg/OmniAgent",
-    "stars": 0,
-    "updated_at": "2026-10-23T07:41:19Z",
-    "url": "https://github.com/mntoyg/OmniAgent"
-  },
-  {
     "description": "Claude Code skill that generates a tailored autonomous dev loop for any git repository",
     "id": "Stephenson-Software/create-dev-loop",
     "language": "Python",
@@ -277,15 +322,6 @@
     "stars": 21,
     "updated_at": "2026-10-23T08:08:28Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-23T07:35:11Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/",
@@ -319,7 +355,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 950,
+    "stars": 951,
     "updated_at": "2026-10-23T07:16:35Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -349,24 +385,6 @@
     "stars": 8,
     "updated_at": "2026-10-23T08:01:06Z",
     "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
-  },
-  {
-    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
-    "id": "memoways/ava-proto1",
-    "language": "TypeScript",
-    "name": "memoways/ava-proto1",
-    "stars": 0,
-    "updated_at": "2026-10-23T08:18:36Z",
-    "url": "https://github.com/memoways/ava-proto1"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 14,
-    "updated_at": "2026-10-23T08:27:12Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Medicines chatbot that answers with real 3D molecular structures: RAG over FDA drug labels, agent tools over a local che",
@@ -430,23 +448,5 @@
     "stars": 7,
     "updated_at": "2026-10-23T06:56:07Z",
     "url": "https://github.com/Cognipeer/agent-sdk"
-  },
-  {
-    "description": "shared memory for agents. Markdown is the truth; agents just share a directory",
-    "id": "neilzhao-piee/shmem",
-    "language": "Python",
-    "name": "neilzhao-piee/shmem",
-    "stars": 0,
-    "updated_at": "2026-10-23T06:50:57Z",
-    "url": "https://github.com/neilzhao-piee/shmem"
-  },
-  {
-    "description": "LLM application engineering projects: RAG, LangGraph Agents, MCP, evaluation, FastAPI, Redis, and deployment.",
-    "id": "justin-zhong/ai-deployment-project",
-    "language": "Python",
-    "name": "justin-zhong/ai-deployment-project",
-    "stars": 0,
-    "updated_at": "2026-10-23T06:29:38Z",
-    "url": "https://github.com/justin-zhong/ai-deployment-project"
   }
 ]
