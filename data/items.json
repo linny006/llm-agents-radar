@@ -1,5 +1,50 @@
 [
   {
+    "description": "A voice AI companion for Windows and Linux. Create characters with ComfyUI, give them voices, emotions and memories. Loc",
+    "id": "ArthurReboulSalze/Sherka-Compagnon",
+    "language": "Rust",
+    "name": "ArthurReboulSalze/Sherka-Compagnon",
+    "stars": 0,
+    "updated_at": "2026-10-23T18:40:54Z",
+    "url": "https://github.com/ArthurReboulSalze/Sherka-Compagnon"
+  },
+  {
+    "description": "An AI on-call engineer that shows its evidence, waits for your approval, and verifies the fix. Evidence-grounded, safe b",
+    "id": "Aritraghoshdastidar/Incident_Zero-AI_OnCallEngineer",
+    "language": "Python",
+    "name": "Aritraghoshdastidar/Incident_Zero-AI_OnCallEngineer",
+    "stars": 0,
+    "updated_at": "2026-10-23T18:37:36Z",
+    "url": "https://github.com/Aritraghoshdastidar/Incident_Zero-AI_OnCallEngineer"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 972,
+    "updated_at": "2026-10-23T18:37:27Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-10-23T18:35:21Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Metacognitive extension suite for Pi coding agent",
+    "id": "kifirkin/pi-braid",
+    "language": "JavaScript",
+    "name": "kifirkin/pi-braid",
+    "stars": 1,
+    "updated_at": "2026-10-23T18:32:52Z",
+    "url": "https://github.com/kifirkin/pi-braid"
+  },
+  {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
     "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
@@ -25,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T18:12:08Z",
     "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
-    "description": "An AI on-call engineer that shows its evidence, waits for your approval, and verifies the fix. Evidence-grounded, safe b",
-    "id": "Aritraghoshdastidar/Incident_Zero-AI_OnCallEngineer",
-    "language": "Python",
-    "name": "Aritraghoshdastidar/Incident_Zero-AI_OnCallEngineer",
-    "stars": 0,
-    "updated_at": "2026-10-23T18:10:33Z",
-    "url": "https://github.com/Aritraghoshdastidar/Incident_Zero-AI_OnCallEngineer"
   },
   {
     "description": "Application Security orchestration platform",
@@ -68,7 +104,7 @@
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 456,
-    "updated_at": "2026-10-23T18:26:19Z",
+    "updated_at": "2026-10-23T18:39:30Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
@@ -133,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T17:30:24Z",
     "url": "https://github.com/char-46/copilot-muze"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 972,
-    "updated_at": "2026-10-23T18:29:25Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -232,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-10-23T16:59:27Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Metacognitive extension suite for Pi coding agent",
-    "id": "kifirkin/pi-braid",
-    "language": "JavaScript",
-    "name": "kifirkin/pi-braid",
-    "stars": 1,
-    "updated_at": "2026-10-23T16:50:30Z",
-    "url": "https://github.com/kifirkin/pi-braid"
   },
   {
     "description": "GitHub Issue \u5206\u6790\u667a\u80fd\u4f53\uff1a\u6709\u754c\u5de5\u5177\u5faa\u73af\u63a2\u7d22\u4ed3\u5e93\u6e90\u7801\uff0c\u751f\u6210\u5e26\u884c\u7ea7\u8bc1\u636e\u7684\u6839\u56e0\u62a5\u544a\u4e0e\u4fee\u590d\u8865\u4e01\uff0c\u9ed8\u8ba4\u53ea\u8bfb\uff0c\u53ef\u663e\u5f0f\u5f00\u542f PR \u63d0\u6848",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-23T15:49:56Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
-    "description": "Keyboard-first Kubernetes TUI with an AI agent that works on the same screen, plus an MCP bridge for your editor's assis",
-    "id": "hellices/korvid",
-    "language": "Python",
-    "name": "hellices/korvid",
-    "stars": 3,
-    "updated_at": "2026-10-23T17:24:27Z",
-    "url": "https://github.com/hellices/korvid"
-  },
-  {
-    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 54,
-    "updated_at": "2026-10-23T15:41:42Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
   }
 ]
