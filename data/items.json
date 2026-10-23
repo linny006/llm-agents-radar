@@ -1,5 +1,95 @@
 [
   {
+    "description": "DSAI4901 capstone: reference-free usability measure for paper-to-slide generation",
+    "id": "Mizuki0215/capstone-ppt-agent",
+    "language": "Python",
+    "name": "Mizuki0215/capstone-ppt-agent",
+    "stars": 0,
+    "updated_at": "2026-10-23T09:42:43Z",
+    "url": "https://github.com/Mizuki0215/capstone-ppt-agent"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 15,
+    "updated_at": "2026-10-23T09:41:08Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 5,
+    "updated_at": "2026-10-23T09:40:54Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "\u9632 AI \u5220\u5e93\uff08anti-ai-rm-rf\uff09\uff1a\u5728\u5220\u9664\u547d\u4ee4\u524d\u9762\u653e\u4e00\u9053\u7eca\u7ebf \u2014\u2014 \u649e\u4e0a\u5c31\u6574\u6279\u505c\u4e0b\uff08Windows / PowerShell\uff09",
+    "id": "Elysia-laoda/command-guard",
+    "language": "PowerShell",
+    "name": "Elysia-laoda/command-guard",
+    "stars": 1,
+    "updated_at": "2026-10-23T09:40:44Z",
+    "url": "https://github.com/Elysia-laoda/command-guard"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 14,
+    "updated_at": "2026-10-23T09:40:29Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "\u7528\u81ea\u7136\u8bed\u8a00\u6307\u6325\u89c6\u9891\u526a\u8f91\u7684\u5168\u94fe\u8def\u672c\u5730\u667a\u80fd\u4f53\uff1a\u7d20\u6750\u7406\u89e3 \u2192 \u64cd\u4f5c\u89c4\u5212 \u2192 \u4e8b\u5b9e\u6821\u9a8c \u2192 \u771f\u5b9e\u51fa\u7247\uff0c\u914d\u5957 163 \u4e2a\u5355\u5143\u6d4b\u8bd5\u4e0e 22 \u4e2a\u53ef\u590d\u8dd1\u9a8c\u6536\u811a\u672c\u3002",
+    "id": "ryhirz/ai-video-agent",
+    "language": "Python",
+    "name": "ryhirz/ai-video-agent",
+    "stars": 0,
+    "updated_at": "2026-10-23T09:36:46Z",
+    "url": "https://github.com/ryhirz/ai-video-agent"
+  },
+  {
+    "description": "Pisces is an AI assisted, self-healing security patcher, A CLI tool for Python codebases. It supports HITL. It doesn't j",
+    "id": "richochetclementine1315/Pisces",
+    "language": "Python",
+    "name": "richochetclementine1315/Pisces",
+    "stars": 1,
+    "updated_at": "2026-10-23T09:35:20Z",
+    "url": "https://github.com/richochetclementine1315/Pisces"
+  },
+  {
+    "description": "A\u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\uff1a\u80a1\u7968\u5206\u6790\u3001\u91cf\u5316\u4ea4\u6613\u5206\u6790\u3001\u76d8\u540e\u590d\u76d8\u684c\u9762\u5de5\u4f5c\u53f0\u2014\u2014easy stock",
+    "id": "jundizhou/easy-stock",
+    "language": "Go",
+    "name": "jundizhou/easy-stock",
+    "stars": 1597,
+    "updated_at": "2026-10-23T09:34:39Z",
+    "url": "https://github.com/jundizhou/easy-stock"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-10-23T09:33:52Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "\u8f7b\u91cf\u7684agent\u6846\u67b6",
+    "id": "qiuzixu/agent-core",
+    "language": "Python",
+    "name": "qiuzixu/agent-core",
+    "stars": 1,
+    "updated_at": "2026-10-23T09:32:44Z",
+    "url": "https://github.com/qiuzixu/agent-core"
+  },
+  {
     "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
     "id": "memoways/ava-proto1",
     "language": "TypeScript",
@@ -45,15 +135,6 @@
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
   {
-    "description": "\u7528\u81ea\u7136\u8bed\u8a00\u6307\u6325\u89c6\u9891\u526a\u8f91\u7684\u5168\u94fe\u8def\u672c\u5730\u667a\u80fd\u4f53\uff1a\u7d20\u6750\u7406\u89e3 \u2192 \u64cd\u4f5c\u89c4\u5212 \u2192 \u4e8b\u5b9e\u6821\u9a8c \u2192 \u771f\u5b9e\u51fa\u7247\uff0c\u914d\u5957 163 \u4e2a\u5355\u5143\u6d4b\u8bd5\u4e0e 22 \u4e2a\u53ef\u590d\u8dd1\u9a8c\u6536\u811a\u672c\u3002",
-    "id": "ryhirz/ai-video-agent",
-    "language": "Python",
-    "name": "ryhirz/ai-video-agent",
-    "stars": 0,
-    "updated_at": "2026-10-23T09:22:21Z",
-    "url": "https://github.com/ryhirz/ai-video-agent"
-  },
-  {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
     "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
@@ -79,24 +160,6 @@
     "stars": 1,
     "updated_at": "2026-10-23T09:13:18Z",
     "url": "https://github.com/FarzadAziziZade/Grammarlix"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 5,
-    "updated_at": "2026-10-23T09:16:19Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 15,
-    "updated_at": "2026-10-23T09:17:02Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
@@ -131,7 +194,7 @@
     "language": "Python",
     "name": "iap/hermes-guide",
     "stars": 3,
-    "updated_at": "2026-10-23T09:08:03Z",
+    "updated_at": "2026-10-23T09:38:59Z",
     "url": "https://github.com/iap/hermes-guide"
   },
   {
@@ -171,15 +234,6 @@
     "url": "https://github.com/kangwoo/aimon-core"
   },
   {
-    "description": "DSAI4901 capstone: reference-free usability measure for paper-to-slide generation",
-    "id": "Mizuki0215/capstone-ppt-agent",
-    "language": "Python",
-    "name": "Mizuki0215/capstone-ppt-agent",
-    "stars": 0,
-    "updated_at": "2026-10-23T08:59:23Z",
-    "url": "https://github.com/Mizuki0215/capstone-ppt-agent"
-  },
-  {
     "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
     "id": "RalfHermsen/x4-agent",
     "language": "Python",
@@ -189,31 +243,13 @@
     "url": "https://github.com/RalfHermsen/x4-agent"
   },
   {
-    "description": "A\u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\uff1a\u80a1\u7968\u5206\u6790\u3001\u91cf\u5316\u4ea4\u6613\u5206\u6790\u3001\u76d8\u540e\u590d\u76d8\u684c\u9762\u5de5\u4f5c\u53f0\u2014\u2014easy stock",
-    "id": "jundizhou/easy-stock",
-    "language": "Go",
-    "name": "jundizhou/easy-stock",
-    "stars": 1597,
-    "updated_at": "2026-10-23T08:55:33Z",
-    "url": "https://github.com/jundizhou/easy-stock"
-  },
-  {
     "description": "RAG assistant for AML/KYC compliance (FATF, Wolfsberg, CBAR) with citation-linked answers, a tool-calling agent and RAGA",
     "id": "emiliaismailova3/aml-kyc-rag-assistant",
     "language": "Python",
     "name": "emiliaismailova3/aml-kyc-rag-assistant",
     "stars": 0,
-    "updated_at": "2026-10-23T08:53:48Z",
+    "updated_at": "2026-10-23T09:33:39Z",
     "url": "https://github.com/emiliaismailova3/aml-kyc-rag-assistant"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 14,
-    "updated_at": "2026-10-23T09:21:34Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
@@ -232,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-10-23T08:45:53Z",
     "url": "https://github.com/oldfunk/paper-trading"
-  },
-  {
-    "description": "\u8f7b\u91cf\u7684agent\u6846\u67b6",
-    "id": "qiuzixu/agent-core",
-    "language": "Python",
-    "name": "qiuzixu/agent-core",
-    "stars": 1,
-    "updated_at": "2026-10-23T08:41:24Z",
-    "url": "https://github.com/qiuzixu/agent-core"
   },
   {
     "description": "Computer Use enhancement plugin for DeepSeek Harness (DSH). \u7eaf JS \u89c6\u89c9\u5dee\u5206\u3001\u7f51\u683c\u4f4d\u7f6e\u7f16\u7801\u3001\u957f\u7a0b\u4efb\u52a1\u95ed\u73af\u4e0e\u4eba\u673a\u5171\u9a7e\u6388\u6743\u3002",
@@ -310,7 +337,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 33727,
+    "stars": 33728,
     "updated_at": "2026-10-23T08:07:34Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -329,7 +356,7 @@
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 50,
-    "updated_at": "2026-10-23T08:59:01Z",
+    "updated_at": "2026-10-23T09:39:25Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
@@ -365,7 +392,7 @@
     "language": "Python",
     "name": "hellices/korvid",
     "stars": 3,
-    "updated_at": "2026-10-23T09:21:23Z",
+    "updated_at": "2026-10-23T09:40:46Z",
     "url": "https://github.com/hellices/korvid"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-23T07:44:07Z",
     "url": "https://github.com/Ragebeat/dental-agent"
-  },
-  {
-    "description": "Claude Code skill that generates a tailored autonomous dev loop for any git repository",
-    "id": "Stephenson-Software/create-dev-loop",
-    "language": "Python",
-    "name": "Stephenson-Software/create-dev-loop",
-    "stars": 1,
-    "updated_at": "2026-10-23T07:39:22Z",
-    "url": "https://github.com/Stephenson-Software/create-dev-loop"
-  },
-  {
-    "description": "Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/",
-    "id": "ZekaiShi/evo-subagent",
-    "language": "JavaScript",
-    "name": "ZekaiShi/evo-subagent",
-    "stars": 7,
-    "updated_at": "2026-10-23T07:33:54Z",
-    "url": "https://github.com/ZekaiShi/evo-subagent"
-  },
-  {
-    "description": "\u53ef\u6269\u5c55\u7684\u672c\u5730 AI Agent\uff1a\u6a21\u5757\u94fe\u5185\u6838 + \u63d2\u4ef6\u7cfb\u7edf + \u4e0a\u4e0b\u6587\u7ba1\u7406 + \u5de5\u5177\u6267\u884c + Web \u754c\u9762\u3002",
-    "id": "diky87688973/ai-agent",
-    "language": "Python",
-    "name": "diky87688973/ai-agent",
-    "stars": 3,
-    "updated_at": "2026-10-23T07:23:14Z",
-    "url": "https://github.com/diky87688973/ai-agent"
   }
 ]
