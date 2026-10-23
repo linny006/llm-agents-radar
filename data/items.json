@@ -1,11 +1,119 @@
 [
   {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 2,
+    "updated_at": "2026-10-23T01:15:08Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-23T01:12:35Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
+    "id": "alexwkleung/reika",
+    "language": "TypeScript",
+    "name": "alexwkleung/reika",
+    "stars": 11,
+    "updated_at": "2026-10-23T01:12:20Z",
+    "url": "https://github.com/alexwkleung/reika"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 135,
+    "updated_at": "2026-10-23T01:12:15Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "\uc9c1\ubc29\u00b7\ub124\uc774\ubc84 \ubd80\ub3d9\uc0b0\u00b7\ub2f9\uadfc\ubd80\ub3d9\uc0b0 \ub9e4\ubb3c\uacfc \uc2e4\uac70\ub798\uac00\ub97c \uc870\ud68c\ud558\ub294 LLM \uc5d0\uc774\uc804\ud2b8\uc6a9 CLI \u00b7 Korean real estate listings CLI for LLM agents (Zigbang, Naver Real Esta",
+    "id": "Rukkakka/jibsa",
+    "language": "Python",
+    "name": "Rukkakka/jibsa",
+    "stars": 0,
+    "updated_at": "2026-10-23T01:11:21Z",
+    "url": "https://github.com/Rukkakka/jibsa"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-23T01:10:51Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-23T01:10:17Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
+    "id": "bigfish1913/pi-rust",
+    "language": "Rust",
+    "name": "bigfish1913/pi-rust",
+    "stars": 140,
+    "updated_at": "2026-10-23T01:11:57Z",
+    "url": "https://github.com/bigfish1913/pi-rust"
+  },
+  {
+    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
+    "id": "zeng6125-rgb/suixing",
+    "language": "Kotlin",
+    "name": "zeng6125-rgb/suixing",
+    "stars": 2,
+    "updated_at": "2026-10-23T01:07:19Z",
+    "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "Pisces is an AI assisted, self-healing security patcher, A CLI tool for Python codebases. It supports HITL. It doesn't j",
+    "id": "richochetclementine1315/Pisces",
+    "language": "Python",
+    "name": "richochetclementine1315/Pisces",
+    "stars": 1,
+    "updated_at": "2026-10-23T01:09:17Z",
+    "url": "https://github.com/richochetclementine1315/Pisces"
+  },
+  {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 6,
+    "updated_at": "2026-10-23T01:04:43Z",
+    "url": "https://github.com/plurnk/plurnk"
+  },
+  {
+    "description": "\u4e09\u73af\u5e76\u884c\u6e17\u900f\u6d4b\u8bd5 dsh \u63d2\u4ef6 \u2014 discovery/deep/creative \u4e09\u73af + \u72ec\u7acb verify \u95ed\u73af\uff0cKuzu \u56fe\u9ed1\u677f\u5171\u4eab\u72b6\u6001\uff0c\u591a agent \u81ea\u8c03\u5ea6\u3001\u6309\u89d2\u8272\u6a21\u578b\u7b56\u7565\u3001\u81ea\u5b66\u4e60\u77e5\u8bc6\u8111\u3002\u4ec5\u7528\u4e8e\u6388\u6743\u5b89\u5168\u6d4b\u8bd5\uff08SRC/\u9776\u573a/\u81ea\u6709\u8d44",
+    "id": "wufufu770/d2d",
+    "language": "JavaScript",
+    "name": "wufufu770/d2d",
+    "stars": 6,
+    "updated_at": "2026-10-23T01:03:53Z",
+    "url": "https://github.com/wufufu770/d2d"
+  },
+  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-23T00:59:13Z",
+    "updated_at": "2026-10-23T01:04:54Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -14,26 +122,8 @@
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 50,
-    "updated_at": "2026-10-23T01:00:07Z",
+    "updated_at": "2026-10-23T01:12:44Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-23T00:55:26Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
-    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
-    "id": "zeng6125-rgb/suixing",
-    "language": "Kotlin",
-    "name": "zeng6125-rgb/suixing",
-    "stars": 2,
-    "updated_at": "2026-10-23T00:47:11Z",
-    "url": "https://github.com/zeng6125-rgb/suixing"
   },
   {
     "description": "Copilot-for-Word-style LLM assistant for LyX: ACP agent, LyXServer pipe write path, read-only .lyx parser.",
@@ -54,15 +144,6 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
-    "id": "bigfish1913/pi-rust",
-    "language": "Rust",
-    "name": "bigfish1913/pi-rust",
-    "stars": 138,
-    "updated_at": "2026-10-23T00:47:24Z",
-    "url": "https://github.com/bigfish1913/pi-rust"
-  },
-  {
     "description": "Self-diagnosis and troubleshooting for Hermes Agent.",
     "id": "iap/hermes-guide",
     "language": "Python",
@@ -79,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T00:39:13Z",
     "url": "https://github.com/kangwoo/aimon-core"
-  },
-  {
-    "description": "Pisces is an AI assisted, self-healing security patcher, A CLI tool for Python codebases. It supports HITL. It doesn't j",
-    "id": "richochetclementine1315/Pisces",
-    "language": "Python",
-    "name": "richochetclementine1315/Pisces",
-    "stars": 1,
-    "updated_at": "2026-10-23T00:38:51Z",
-    "url": "https://github.com/richochetclementine1315/Pisces"
   },
   {
     "description": "",
@@ -160,15 +232,6 @@
     "stars": 17,
     "updated_at": "2026-10-23T00:20:30Z",
     "url": "https://github.com/bigduu/Bodhi-AI"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-23T00:09:44Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Command-line coding agent for local models (Ollama), subscription CLIs or API keys, with failover between them, a replay",
@@ -306,15 +369,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 2,
-    "updated_at": "2026-10-23T00:13:01Z",
-    "url": "https://github.com/b-macker/NAAb"
-  },
-  {
     "description": "LLM agent for post-silicon hardware diagnostics \u2014 GPU XID / PCIe error triage",
     "id": "Ezra-Zhao/AI-Node-Sentinel",
     "language": "Python",
@@ -347,7 +401,7 @@
     "language": "Python",
     "name": "CIRISAI/CIRISAgent",
     "stars": 58,
-    "updated_at": "2026-10-23T00:35:07Z",
+    "updated_at": "2026-10-23T01:12:08Z",
     "url": "https://github.com/CIRISAI/CIRISAgent"
   },
   {
@@ -358,24 +412,6 @@
     "stars": 0,
     "updated_at": "2026-10-22T22:24:32Z",
     "url": "https://github.com/RalfHermsen/x4-agent"
-  },
-  {
-    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
-    "id": "plurnk/plurnk",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk",
-    "stars": 6,
-    "updated_at": "2026-10-22T22:07:01Z",
-    "url": "https://github.com/plurnk/plurnk"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 135,
-    "updated_at": "2026-10-22T22:05:28Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "Offline Linux command assistant: 1.5B model on your machine, 1.1 GB disk, 1.3 GB RAM, no GPU, ~2 s per answer, checked a",
@@ -412,41 +448,5 @@
     "stars": 83,
     "updated_at": "2026-10-22T21:39:33Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Cost-aware multi-agent orchestrator kit for OpenCode CLI \u2014 one routing agent, 14 specialized subagents, zero application",
-    "id": "NicoGenti/opencode-orchestrator-kit",
-    "language": "TypeScript",
-    "name": "NicoGenti/opencode-orchestrator-kit",
-    "stars": 7,
-    "updated_at": "2026-10-22T21:58:41Z",
-    "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
-  },
-  {
-    "description": "Skill-first operating layer for agentic brokerage trading \u2014 strategy, guardrails, and provider adapters an LLM agent fol",
-    "id": "jack-h-park/stock-trading-skills",
-    "language": "Python",
-    "name": "jack-h-park/stock-trading-skills",
-    "stars": 0,
-    "updated_at": "2026-10-23T00:00:51Z",
-    "url": "https://github.com/jack-h-park/stock-trading-skills"
-  },
-  {
-    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
-    "id": "alexwkleung/reika",
-    "language": "TypeScript",
-    "name": "alexwkleung/reika",
-    "stars": 11,
-    "updated_at": "2026-10-22T21:42:46Z",
-    "url": "https://github.com/alexwkleung/reika"
-  },
-  {
-    "description": "NEXUS Web LLM is a browser-based local inference app for compatible GGUF and LittleBit models, featuring custom WebGPU a",
-    "id": "RDunbar01/Nexus-Web-LLM",
-    "language": "HTML",
-    "name": "RDunbar01/Nexus-Web-LLM",
-    "stars": 1,
-    "updated_at": "2026-10-22T21:23:40Z",
-    "url": "https://github.com/RDunbar01/Nexus-Web-LLM"
   }
 ]
