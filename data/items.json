@@ -1,5 +1,14 @@
 [
   {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-23T18:28:17Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
     "description": "Terminal-native AI coding agent with extensible TypeScript and Rust SDKs for building and orchestrating coding workflows",
     "id": "codex-mohan/spectra",
     "language": "TypeScript",
@@ -32,7 +41,7 @@
     "language": "Go",
     "name": "grauwolf32/contractor",
     "stars": 2,
-    "updated_at": "2026-10-23T18:02:30Z",
+    "updated_at": "2026-10-23T18:23:29Z",
     "url": "https://github.com/grauwolf32/contractor"
   },
   {
@@ -59,7 +68,7 @@
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 456,
-    "updated_at": "2026-10-23T17:54:32Z",
+    "updated_at": "2026-10-23T18:26:19Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
@@ -126,21 +135,12 @@
     "url": "https://github.com/char-46/copilot-muze"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-23T17:27:25Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 972,
-    "updated_at": "2026-10-23T18:11:22Z",
+    "updated_at": "2026-10-23T18:29:25Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -220,7 +220,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 8934,
+    "stars": 8935,
     "updated_at": "2026-10-23T16:58:55Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
