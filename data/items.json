@@ -1,12 +1,84 @@
 [
   {
+    "description": "\u4ece B\u7ad9\u6d77\u91cf\u89c6\u9891\u91cc\u4e3a\u4e00\u4e2a\u8bae\u9898\u53d6\u6570\uff1a\u53cc\u8f74\u4fe1\u6e90\u8bc4\u7ea7\uff08A\u2013F \u00d7 1\u20134\uff09\u3001\u51b2\u7a81\u5355\u5217\u3001\u4e09\u7c7b\u7f3a\u53e3\u58f0\u660e\u3001\u68c0\u7d22\u534f\u8bae\u53ef\u590d\u73b0\u3002MCP server + \u65b9\u6cd5\u8bba skill\u3002",
+    "id": "DavidLearning1023/bilibili-info-gathering",
+    "language": "Python",
+    "name": "DavidLearning1023/bilibili-info-gathering",
+    "stars": 1,
+    "updated_at": "2026-10-23T02:00:07Z",
+    "url": "https://github.com/DavidLearning1023/bilibili-info-gathering"
+  },
+  {
+    "description": "velog(velog.io) \uae00\uc744 \uc870\ud68c\ud558\uace0 \ub85c\uadf8\uc778\ud55c \ub0b4 \uacc4\uc815\uc758 \uae00\u00b7\ubc18\uc751\uc744 \ub2e4\ub8e8\ub294 LLM \uc5d0\uc774\uc804\ud2b8\uc6a9 \ube44\uacf5\uc2dd CLI \u00b7 Unofficial velog CLI for LLM agents",
+    "id": "Rukkakka/velogger",
+    "language": "Python",
+    "name": "Rukkakka/velogger",
+    "stars": 0,
+    "updated_at": "2026-10-23T01:59:12Z",
+    "url": "https://github.com/Rukkakka/velogger"
+  },
+  {
+    "description": "\ub124\uc774\ubc84 \ud56d\uacf5\uad8c\u00b7\uc2a4\uce74\uc774\uc2a4\uce90\ub108\uc5d0\uc11c \uc9c0\uae08 \uc0b4 \uc218 \uc788\ub294 \ud56d\uacf5\uad8c\uc744 \uc870\ud68c\ud558\ub294 LLM \uc5d0\uc774\uc804\ud2b8\uc6a9 CLI \u00b7 Korean flight search CLI for LLM agents (Naver Flights, Skyscanner)",
+    "id": "Rukkakka/baenggipyo",
+    "language": "Python",
+    "name": "Rukkakka/baenggipyo",
+    "stars": 0,
+    "updated_at": "2026-10-23T01:59:04Z",
+    "url": "https://github.com/Rukkakka/baenggipyo"
+  },
+  {
     "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
     "id": "zeng6125-rgb/suixing",
     "language": "Kotlin",
     "name": "zeng6125-rgb/suixing",
     "stars": 2,
-    "updated_at": "2026-10-23T01:44:49Z",
+    "updated_at": "2026-10-23T01:57:55Z",
     "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
+    "id": "bigfish1913/pi-rust",
+    "language": "Rust",
+    "name": "bigfish1913/pi-rust",
+    "stars": 142,
+    "updated_at": "2026-10-23T01:57:16Z",
+    "url": "https://github.com/bigfish1913/pi-rust"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-10-23T01:56:48Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "A cloud-resident agent that keeps a Zettelkasten on schedule \u2014 and never writes in it.",
+    "id": "skazler/slipbox-agent",
+    "language": "TypeScript",
+    "name": "skazler/slipbox-agent",
+    "stars": 0,
+    "updated_at": "2026-10-23T01:54:00Z",
+    "url": "https://github.com/skazler/slipbox-agent"
+  },
+  {
+    "description": "A light coding harness with agent-controlled context. Full machine control, zero permission prompts. 200+ LLM providers,",
+    "id": "QQSHI13/fox-agent",
+    "language": "TypeScript",
+    "name": "QQSHI13/fox-agent",
+    "stars": 3,
+    "updated_at": "2026-10-23T01:50:16Z",
+    "url": "https://github.com/QQSHI13/fox-agent"
+  },
+  {
+    "description": "\u7528\u81ea\u7136\u8bed\u8a00\u6307\u6325\u89c6\u9891\u526a\u8f91\u7684\u5168\u94fe\u8def\u672c\u5730\u667a\u80fd\u4f53\uff1a\u7d20\u6750\u7406\u89e3 \u2192 \u64cd\u4f5c\u89c4\u5212 \u2192 \u4e8b\u5b9e\u6821\u9a8c \u2192 \u771f\u5b9e\u51fa\u7247\uff0c\u914d\u5957 163 \u4e2a\u5355\u5143\u6d4b\u8bd5\u4e0e 22 \u4e2a\u53ef\u590d\u8dd1\u9a8c\u6536\u811a\u672c\u3002",
+    "id": "ryhirz/ai-video-agent",
+    "language": "Python",
+    "name": "ryhirz/ai-video-agent",
+    "stars": 0,
+    "updated_at": "2026-10-23T01:46:10Z",
+    "url": "https://github.com/ryhirz/ai-video-agent"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -77,7 +149,7 @@
     "language": "Python",
     "name": "Rukkakka/jibsa",
     "stars": 0,
-    "updated_at": "2026-10-23T01:21:37Z",
+    "updated_at": "2026-10-23T01:58:30Z",
     "url": "https://github.com/Rukkakka/jibsa"
   },
   {
@@ -115,15 +187,6 @@
     "stars": 135,
     "updated_at": "2026-10-23T01:12:15Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
-    "id": "bigfish1913/pi-rust",
-    "language": "Rust",
-    "name": "bigfish1913/pi-rust",
-    "stars": 141,
-    "updated_at": "2026-10-23T01:42:57Z",
-    "url": "https://github.com/bigfish1913/pi-rust"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -176,7 +239,7 @@
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 50,
-    "updated_at": "2026-10-23T01:25:31Z",
+    "updated_at": "2026-10-23T01:57:19Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
@@ -193,7 +256,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 8923,
+    "stars": 8926,
     "updated_at": "2026-10-23T00:44:05Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -257,7 +320,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 2,
-    "updated_at": "2026-10-23T00:27:27Z",
+    "updated_at": "2026-10-23T01:51:15Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -351,15 +414,6 @@
     "url": "https://github.com/cascodigital/rolo"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-10-22T23:38:38Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
     "id": "haibingzhao/easyai",
     "language": "Kotlin",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-22T23:09:52Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 133,
-    "updated_at": "2026-10-22T23:09:32Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-10-22T23:08:21Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "LLM agent for post-silicon hardware diagnostics \u2014 GPU XID / PCIe error triage",
-    "id": "Ezra-Zhao/AI-Node-Sentinel",
-    "language": "Python",
-    "name": "Ezra-Zhao/AI-Node-Sentinel",
-    "stars": 0,
-    "updated_at": "2026-10-22T23:00:57Z",
-    "url": "https://github.com/Ezra-Zhao/AI-Node-Sentinel"
-  },
-  {
-    "description": "Medicines chatbot that answers with real 3D molecular structures: RAG over FDA drug labels, agent tools over a local che",
-    "id": "DannyKuk/molecula",
-    "language": "Python",
-    "name": "DannyKuk/molecula",
-    "stars": 1,
-    "updated_at": "2026-10-22T22:55:48Z",
-    "url": "https://github.com/DannyKuk/molecula"
-  },
-  {
-    "description": "CIRIS: an open-source AI assistant with a conscience you can check. Signed, auditable reasoning on every decision, a hum",
-    "id": "CIRISAI/CIRISAgent",
-    "language": "Python",
-    "name": "CIRISAI/CIRISAgent",
-    "stars": 58,
-    "updated_at": "2026-10-23T01:38:27Z",
-    "url": "https://github.com/CIRISAI/CIRISAgent"
-  },
-  {
-    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
-    "id": "RalfHermsen/x4-agent",
-    "language": "Python",
-    "name": "RalfHermsen/x4-agent",
-    "stars": 0,
-    "updated_at": "2026-10-22T22:24:32Z",
-    "url": "https://github.com/RalfHermsen/x4-agent"
   }
 ]
