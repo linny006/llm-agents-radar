@@ -1,5 +1,77 @@
 [
   {
+    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
+    "id": "oldfunk/paper-trading",
+    "language": "Python",
+    "name": "oldfunk/paper-trading",
+    "stars": 1,
+    "updated_at": "2026-10-23T10:59:14Z",
+    "url": "https://github.com/oldfunk/paper-trading"
+  },
+  {
+    "description": "\u4e2d\u6587 agent \u5de5\u5177\u8c03\u7528\u57fa\u51c6\uff1aA \u529e\u516c\u6570\u636e / B \u77e5\u8bc6\u68c0\u7d22 / C \u591a\u5de5\u5177\u7f16\u6392\uff0c\u4e09\u573a\u666f\u4e00\u5957\u5ba2\u89c2\u5224\u5206\u53e3\u5f84\uff0cclone \u5373\u8dd1\u3002",
+    "id": "qlheric/zh-agent-bench",
+    "language": "Python",
+    "name": "qlheric/zh-agent-bench",
+    "stars": 0,
+    "updated_at": "2026-10-23T10:57:02Z",
+    "url": "https://github.com/qlheric/zh-agent-bench"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 15,
+    "updated_at": "2026-10-23T10:56:21Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "LLM-driven UAV agent runtime: criteria-contract planning, PX4 MAVLink / AirSim backends, and a web ground-control statio",
+    "id": "Yookio-Z/Airsim-Agent",
+    "language": "Python",
+    "name": "Yookio-Z/Airsim-Agent",
+    "stars": 0,
+    "updated_at": "2026-10-23T10:56:13Z",
+    "url": "https://github.com/Yookio-Z/Airsim-Agent"
+  },
+  {
+    "description": "A local-first AI companion for Windows: it remembers you, dreams over your day at night, follows up on what matters and ",
+    "id": "b7216309-jpg/little-bot",
+    "language": "JavaScript",
+    "name": "b7216309-jpg/little-bot",
+    "stars": 0,
+    "updated_at": "2026-10-23T10:55:37Z",
+    "url": "https://github.com/b7216309-jpg/little-bot"
+  },
+  {
+    "description": "AgentCall lets AI Agents join meetings with voice, video & screen-share to build together. Supports Google Meet, Teams, ",
+    "id": "pattern-ai-labs/agentcall",
+    "language": "Python",
+    "name": "pattern-ai-labs/agentcall",
+    "stars": 169,
+    "updated_at": "2026-10-23T10:55:07Z",
+    "url": "https://github.com/pattern-ai-labs/agentcall"
+  },
+  {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-10-23T10:53:25Z",
+    "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-10-23T10:52:05Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "Not a chatbot\u2014a tireless digital secretary. Jarvis is a persistent, self-hosted AI operating system that manages communi",
     "id": "Lucky-1608/Jarvis",
     "language": "Python",
@@ -7,6 +79,15 @@
     "stars": 0,
     "updated_at": "2026-10-23T10:44:22Z",
     "url": "https://github.com/Lucky-1608/Jarvis"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4461,
+    "updated_at": "2026-10-23T10:43:50Z",
+    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "The Self-Improving Coding Agent",
@@ -23,7 +104,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 822,
-    "updated_at": "2026-10-23T10:41:57Z",
+    "updated_at": "2026-10-23T10:58:02Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -54,15 +135,6 @@
     "url": "https://github.com/mmporong/rl-triage-agent"
   },
   {
-    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
-    "id": "kangwoo/aimon-core",
-    "language": "Java",
-    "name": "kangwoo/aimon-core",
-    "stars": 0,
-    "updated_at": "2026-10-23T10:40:03Z",
-    "url": "https://github.com/kangwoo/aimon-core"
-  },
-  {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
     "id": "plurnk/plurnk-service",
     "language": "TypeScript",
@@ -88,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-10-23T10:40:38Z",
     "url": "https://github.com/Rinneway/alfa-news-insights"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 15,
-    "updated_at": "2026-10-23T10:30:43Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -140,7 +203,7 @@
     "language": "Python",
     "name": "hsaghir/looplet",
     "stars": 7,
-    "updated_at": "2026-10-23T10:09:29Z",
+    "updated_at": "2026-10-23T10:51:23Z",
     "url": "https://github.com/hsaghir/looplet"
   },
   {
@@ -176,7 +239,7 @@
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 50,
-    "updated_at": "2026-10-23T10:43:56Z",
+    "updated_at": "2026-10-23T10:54:11Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
@@ -266,7 +329,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-23T10:38:32Z",
+    "updated_at": "2026-10-23T11:00:09Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -374,7 +437,7 @@
     "language": "TypeScript",
     "name": "NicoGenti/opencode-orchestrator-kit",
     "stars": 8,
-    "updated_at": "2026-10-23T09:03:36Z",
+    "updated_at": "2026-10-23T10:51:19Z",
     "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 249,
     "updated_at": "2026-10-23T09:01:30Z",
     "url": "https://github.com/AI-secure/AgentPoison"
-  },
-  {
-    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
-    "id": "RalfHermsen/x4-agent",
-    "language": "Python",
-    "name": "RalfHermsen/x4-agent",
-    "stars": 0,
-    "updated_at": "2026-10-23T08:59:19Z",
-    "url": "https://github.com/RalfHermsen/x4-agent"
-  },
-  {
-    "description": "RAG assistant for AML/KYC compliance (FATF, Wolfsberg, CBAR) with citation-linked answers, a tool-calling agent and RAGA",
-    "id": "emiliaismailova3/aml-kyc-rag-assistant",
-    "language": "Python",
-    "name": "emiliaismailova3/aml-kyc-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-23T09:33:39Z",
-    "url": "https://github.com/emiliaismailova3/aml-kyc-rag-assistant"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-23T10:01:23Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
-    "id": "oldfunk/paper-trading",
-    "language": "Python",
-    "name": "oldfunk/paper-trading",
-    "stars": 1,
-    "updated_at": "2026-10-23T08:45:53Z",
-    "url": "https://github.com/oldfunk/paper-trading"
-  },
-  {
-    "description": "Computer Use enhancement plugin for DeepSeek Harness (DSH). \u7eaf JS \u89c6\u89c9\u5dee\u5206\u3001\u7f51\u683c\u4f4d\u7f6e\u7f16\u7801\u3001\u957f\u7a0b\u4efb\u52a1\u95ed\u73af\u4e0e\u4eba\u673a\u5171\u9a7e\u6388\u6743\u3002",
-    "id": "ccr-wer/dsh-copilot-vision",
-    "language": "JavaScript",
-    "name": "ccr-wer/dsh-copilot-vision",
-    "stars": 0,
-    "updated_at": "2026-10-23T08:39:19Z",
-    "url": "https://github.com/ccr-wer/dsh-copilot-vision"
-  },
-  {
-    "description": "Databricks-native equity research platform: a PySpark Delta medallion lakehouse over market, options, SEC, COT and macro",
-    "id": "evangoh122/quant_platform_1",
-    "language": "Python",
-    "name": "evangoh122/quant_platform_1",
-    "stars": 1,
-    "updated_at": "2026-10-23T09:53:09Z",
-    "url": "https://github.com/evangoh122/quant_platform_1"
-  },
-  {
-    "description": "Gestor ag\u00e9ntico de modelos llm",
-    "id": "bondwell79/hercules",
-    "language": "Python",
-    "name": "bondwell79/hercules",
-    "stars": 0,
-    "updated_at": "2026-10-23T08:30:04Z",
-    "url": "https://github.com/bondwell79/hercules"
   }
 ]
