@@ -1,21 +1,30 @@
 [
   {
-    "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
-    "id": "xhqing/DayTradingAgent",
-    "language": "Python",
-    "name": "xhqing/DayTradingAgent",
-    "stars": 4,
-    "updated_at": "2026-10-23T10:14:53Z",
-    "url": "https://github.com/xhqing/DayTradingAgent"
-  },
-  {
     "description": "The Self-Improving Coding Agent",
     "id": "kanishka-namdeo/Unown",
     "language": "TypeScript",
     "name": "kanishka-namdeo/Unown",
     "stars": 0,
-    "updated_at": "2026-10-23T10:14:03Z",
+    "updated_at": "2026-10-23T10:18:05Z",
     "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 29,
+    "updated_at": "2026-10-23T10:17:27Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
+    "id": "xhqing/DayTradingAgent",
+    "language": "Python",
+    "name": "xhqing/DayTradingAgent",
+    "stars": 4,
+    "updated_at": "2026-10-23T10:15:48Z",
+    "url": "https://github.com/xhqing/DayTradingAgent"
   },
   {
     "description": "DSAI4901 capstone: reference-free usability measure for paper-to-slide generation",
@@ -439,14 +448,5 @@
     "stars": 79,
     "updated_at": "2026-10-23T08:07:58Z",
     "url": "https://github.com/xieguigang/sciBASIC"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-10-23T08:07:51Z",
-    "url": "https://github.com/JSL107/personal_agents"
   }
 ]
