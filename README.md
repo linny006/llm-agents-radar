@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-23 22:26 UTC
+> ⏰ Last updated: 2026-10-23 22:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [alexwkleung/reika](https://github.com/alexwkleung/reika) | 12 | TypeScript | 2026-10-23 | Coding agent CLI for local and hosted models, designed around small local models first |
-| 2 | [NosytLabs/skillstate-proxy](https://github.com/NosytLabs/skillstate-proxy) | 4 | TypeScript | 2026-10-23 | Local OpenAI/Anthropic-compatible proxy using structured conversation state to reduce repeated context. Savings and comp |
-| 3 | [kanishka-namdeo/Unown](https://github.com/kanishka-namdeo/Unown) | 0 | TypeScript | 2026-10-23 | The Self-Improving Coding Agent |
+| 1 | [kanishka-namdeo/Unown](https://github.com/kanishka-namdeo/Unown) | 0 | TypeScript | 2026-10-23 | The Self-Improving Coding Agent |
+| 2 | [alexwkleung/reika](https://github.com/alexwkleung/reika) | 12 | TypeScript | 2026-10-23 | Coding agent CLI for local and hosted models, designed around small local models first |
+| 3 | [NosytLabs/skillstate-proxy](https://github.com/NosytLabs/skillstate-proxy) | 4 | TypeScript | 2026-10-23 | Local OpenAI/Anthropic-compatible proxy using structured conversation state to reduce repeated context. Savings and comp |
 | 4 | [410979729/scope-recall-hermes](https://github.com/410979729/scope-recall-hermes) | 456 | Python | 2026-10-23 | Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall, |
 | 5 | [tianye1999/dsb](https://github.com/tianye1999/dsb) | 1 | Python | 2026-10-23 | DSB (逗沙包): an open-source, trust-first Android AI agent. Delegate app chores on a background virtual display, with execu |
 | 6 | [yologdev/yoagent](https://github.com/yologdev/yoagent) | 365 | Rust | 2026-10-23 | The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker. |

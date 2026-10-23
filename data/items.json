@@ -1,5 +1,14 @@
 [
   {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-23T22:29:22Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
     "description": "Coding agent CLI for local and hosted models, designed around small local models first",
     "id": "alexwkleung/reika",
     "language": "TypeScript",
@@ -16,15 +25,6 @@
     "stars": 4,
     "updated_at": "2026-10-23T22:15:21Z",
     "url": "https://github.com/NosytLabs/skillstate-proxy"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-23T22:13:53Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
