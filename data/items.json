@@ -1,12 +1,66 @@
 [
   {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 133,
+    "updated_at": "2026-10-23T22:59:28Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-10-23T22:58:51Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
+    "id": "xanstomper/mochi",
+    "language": "TypeScript",
+    "name": "xanstomper/mochi",
+    "stars": 1,
+    "updated_at": "2026-10-23T22:58:37Z",
+    "url": "https://github.com/xanstomper/mochi"
+  },
+  {
+    "description": "\u9762\u5411 A \u80a1\u7684\u65e5\u9891\u91cf\u5316\u7814\u7a76\u4e0e\u56de\u6d4b\u5f15\u64ce\uff0c\u652f\u6301\u4f20\u7edf\u56e0\u5b50 + ML\u63a8\u7406 + Python\u51fd\u6570\u6df7\u5408\u7b56\u7565",
+    "id": "netube99/ddup",
+    "language": "Python",
+    "name": "netube99/ddup",
+    "stars": 3,
+    "updated_at": "2026-10-23T22:58:15Z",
+    "url": "https://github.com/netube99/ddup"
+  },
+  {
+    "description": "Grux AI: open source AI agent for macOS (MIT). One Command Panel for your mail, calendar, meetings, files and a shell it",
+    "id": "dotcomjack/grux",
+    "language": "Swift",
+    "name": "dotcomjack/grux",
+    "stars": 30,
+    "updated_at": "2026-10-23T22:57:44Z",
+    "url": "https://github.com/dotcomjack/grux"
+  },
+  {
     "description": "\ud83e\udd16 \u65b0\u4e00\u4ee3\u5f00\u6e90 Chrome \u4fa7\u8fb9\u680f\u81ea\u4e3b AI \u6d4f\u89c8\u5668\u667a\u80fd\u4f53\uff1a\u76ee\u6807\u9a71\u52a8\u3001\u957f\u7a0b\u89c4\u5212\u3001\u89c6\u89c9\u7a7a\u95f4\u611f\u77e5\u3001\u5feb\u6162\u53cc\u6838\u8ba4\u77e5\u4e0e\u7269\u7406\u7ea7\u64cd\u63a7\uff0c\u652f\u6301 DeepSeek \u601d\u8003\u6a21\u578b\u4e0e\u672c\u5730\u79bb\u7ebf LLM (BYOK)",
     "id": "lusipad/browser-agent",
     "language": "TypeScript",
     "name": "lusipad/browser-agent",
     "stars": 3,
-    "updated_at": "2026-10-23T22:39:22Z",
+    "updated_at": "2026-10-23T22:51:08Z",
     "url": "https://github.com/lusipad/browser-agent"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-10-23T22:49:47Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "A personal Claude agent that runs in your terminal. Files, web search, gated shell, and vector memory across sessions. B",
@@ -167,26 +221,8 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 14,
-    "updated_at": "2026-10-23T21:36:15Z",
+    "updated_at": "2026-10-23T22:59:26Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Grux AI: open source AI agent for macOS (MIT). One Command Panel for your mail, calendar, meetings, files and a shell it",
-    "id": "dotcomjack/grux",
-    "language": "Swift",
-    "name": "dotcomjack/grux",
-    "stars": 30,
-    "updated_at": "2026-10-23T21:36:06Z",
-    "url": "https://github.com/dotcomjack/grux"
-  },
-  {
-    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
-    "id": "xanstomper/mochi",
-    "language": "TypeScript",
-    "name": "xanstomper/mochi",
-    "stars": 1,
-    "updated_at": "2026-10-23T21:37:15Z",
-    "url": "https://github.com/xanstomper/mochi"
   },
   {
     "description": "LLM data analyst agent on LangGraph with per-call tracing, cost and latency, versioned prompts and a record/replay evalu",
@@ -205,6 +241,15 @@
     "stars": 1,
     "updated_at": "2026-10-23T21:30:05Z",
     "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4461,
+    "updated_at": "2026-10-23T21:22:41Z",
+    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "A deterministic cognitive scaffolding framework and LLM architecture for academic rubric decomposition, backwards-mapped",
@@ -378,15 +423,6 @@
     "url": "https://github.com/mengysun/DataParasite"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-10-23T19:42:59Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
     "id": "genaforvena/mishe-tauftauf",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 9,
     "updated_at": "2026-10-23T19:38:04Z",
     "url": "https://github.com/honestDS/MonoLight"
-  },
-  {
-    "description": "A voice AI companion for Windows and Linux. Create characters with ComfyUI, give them voices, emotions and memories. Loc",
-    "id": "ArthurReboulSalze/Sherka-Compagnon",
-    "language": "Rust",
-    "name": "ArthurReboulSalze/Sherka-Compagnon",
-    "stars": 0,
-    "updated_at": "2026-10-23T19:36:42Z",
-    "url": "https://github.com/ArthurReboulSalze/Sherka-Compagnon"
-  },
-  {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-10-23T19:42:15Z",
-    "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
-    "description": "Command-line coding agent for local models (Ollama), subscription CLIs or API keys, with failover between them, a replay",
-    "id": "HarperZ9/relay",
-    "language": "Python",
-    "name": "HarperZ9/relay",
-    "stars": 1,
-    "updated_at": "2026-10-23T19:28:25Z",
-    "url": "https://github.com/HarperZ9/relay"
-  },
-  {
-    "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 219,
-    "updated_at": "2026-10-23T22:32:11Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
   }
 ]
