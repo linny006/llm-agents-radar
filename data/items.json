@@ -1,12 +1,75 @@
 [
   {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-23T00:09:44Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Command-line coding agent for local models (Ollama), subscription CLIs or API keys, with failover between them, a replay",
+    "id": "HarperZ9/relay",
+    "language": "Python",
+    "name": "HarperZ9/relay",
+    "stars": 1,
+    "updated_at": "2026-10-23T00:07:54Z",
+    "url": "https://github.com/HarperZ9/relay"
+  },
+  {
     "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
     "id": "zeng6125-rgb/suixing",
     "language": "Kotlin",
     "name": "zeng6125-rgb/suixing",
     "stars": 2,
-    "updated_at": "2026-10-22T23:58:44Z",
+    "updated_at": "2026-10-23T00:07:53Z",
     "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-23T00:05:08Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-23T00:09:44Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 5,
+    "updated_at": "2026-10-23T00:04:48Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-10-23T00:02:37Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Databricks-native equity research platform: a PySpark Delta medallion lakehouse over market, options, SEC, COT and macro",
+    "id": "evangoh122/quant_platform_1",
+    "language": "Python",
+    "name": "evangoh122/quant_platform_1",
+    "stars": 1,
+    "updated_at": "2026-10-23T00:01:20Z",
+    "url": "https://github.com/evangoh122/quant_platform_1"
   },
   {
     "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
@@ -23,7 +86,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-22T23:57:03Z",
+    "updated_at": "2026-10-23T00:09:56Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -144,15 +207,6 @@
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-22T23:08:42Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -167,7 +221,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 2,
-    "updated_at": "2026-10-22T23:03:55Z",
+    "updated_at": "2026-10-23T00:13:01Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -221,7 +275,7 @@
     "language": "Python",
     "name": "CIRISAI/CIRISAgent",
     "stars": 58,
-    "updated_at": "2026-10-22T22:28:21Z",
+    "updated_at": "2026-10-23T00:13:12Z",
     "url": "https://github.com/CIRISAI/CIRISAgent"
   },
   {
@@ -302,7 +356,7 @@
     "language": "Python",
     "name": "jack-h-park/stock-trading-skills",
     "stars": 0,
-    "updated_at": "2026-10-22T21:32:17Z",
+    "updated_at": "2026-10-23T00:00:51Z",
     "url": "https://github.com/jack-h-park/stock-trading-skills"
   },
   {
@@ -322,15 +376,6 @@
     "stars": 1,
     "updated_at": "2026-10-22T21:23:40Z",
     "url": "https://github.com/RDunbar01/Nexus-Web-LLM"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-10-22T21:22:14Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "A local-first AI companion for Windows: it remembers you, dreams over your day at night, follows up on what matters and ",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-22T21:11:45Z",
     "url": "https://github.com/ssepehrnoush/liara-copilot"
-  },
-  {
-    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
-    "id": "eshanized/M31A",
-    "language": "Rust",
-    "name": "eshanized/M31A",
-    "stars": 10,
-    "updated_at": "2026-10-22T21:10:52Z",
-    "url": "https://github.com/eshanized/M31A"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-10-22T21:05:47Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "An experiment in developing subjective AI",
-    "id": "artemyvo/ProjectAva",
-    "language": "Python",
-    "name": "artemyvo/ProjectAva",
-    "stars": 1,
-    "updated_at": "2026-10-22T21:05:06Z",
-    "url": "https://github.com/artemyvo/ProjectAva"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-22T21:02:28Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
-    "description": "Hermes Agent acting on your behalf in your personal Telegram account (not a bot): Telethon backend + Hermes platform plu",
-    "id": "OstaninKI/Hermes_tg_bridge",
-    "language": "Python",
-    "name": "OstaninKI/Hermes_tg_bridge",
-    "stars": 0,
-    "updated_at": "2026-10-22T21:00:26Z",
-    "url": "https://github.com/OstaninKI/Hermes_tg_bridge"
   }
 ]
