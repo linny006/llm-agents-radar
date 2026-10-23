@@ -1,12 +1,75 @@
 [
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8922,
+    "updated_at": "2026-10-23T00:44:05Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
+    "id": "zeng6125-rgb/suixing",
+    "language": "Kotlin",
+    "name": "zeng6125-rgb/suixing",
+    "stars": 2,
+    "updated_at": "2026-10-23T00:43:18Z",
+    "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
+    "id": "bigfish1913/pi-rust",
+    "language": "Rust",
+    "name": "bigfish1913/pi-rust",
+    "stars": 137,
+    "updated_at": "2026-10-23T00:42:42Z",
+    "url": "https://github.com/bigfish1913/pi-rust"
+  },
+  {
+    "description": "Copilot-for-Word-style LLM assistant for LyX: ACP agent, LyXServer pipe write path, read-only .lyx parser.",
+    "id": "guzmandrade-dev/lyx-acp-assist",
+    "language": "TypeScript",
+    "name": "guzmandrade-dev/lyx-acp-assist",
+    "stars": 1,
+    "updated_at": "2026-10-23T00:42:28Z",
+    "url": "https://github.com/guzmandrade-dev/lyx-acp-assist"
+  },
+  {
+    "description": "Self-diagnosis and troubleshooting for Hermes Agent.",
+    "id": "iap/hermes-guide",
+    "language": "Python",
+    "name": "iap/hermes-guide",
+    "stars": 3,
+    "updated_at": "2026-10-23T00:39:22Z",
+    "url": "https://github.com/iap/hermes-guide"
+  },
+  {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-10-23T00:39:13Z",
+    "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
     "description": "Pisces is an AI assisted, self-healing security patcher, A CLI tool for Python codebases. It supports HITL. It doesn't j",
     "id": "richochetclementine1315/Pisces",
     "language": "Python",
     "name": "richochetclementine1315/Pisces",
     "stars": 1,
-    "updated_at": "2026-10-23T00:36:26Z",
+    "updated_at": "2026-10-23T00:38:51Z",
     "url": "https://github.com/richochetclementine1315/Pisces"
+  },
+  {
+    "description": "",
+    "id": "andrewalhaj/custom-hermesagent",
+    "language": "Python",
+    "name": "andrewalhaj/custom-hermesagent",
+    "stars": 0,
+    "updated_at": "2026-10-23T00:37:54Z",
+    "url": "https://github.com/andrewalhaj/custom-hermesagent"
   },
   {
     "description": "The LLM Anti-Framework",
@@ -27,15 +90,6 @@
     "url": "https://github.com/LacerdaTraderCode/observable-analytics-agent"
   },
   {
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
-    "id": "bigfish1913/pi-rust",
-    "language": "Rust",
-    "name": "bigfish1913/pi-rust",
-    "stars": 137,
-    "updated_at": "2026-10-23T00:31:59Z",
-    "url": "https://github.com/bigfish1913/pi-rust"
-  },
-  {
     "description": "Open-source AIMO3 math reasoning agent for vLLM and OpenAI-compatible models, with Python verification and consensus vot",
     "id": "xufenghe/aimo3-agentic-inference",
     "language": "Python",
@@ -43,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T00:29:52Z",
     "url": "https://github.com/xufenghe/aimo3-agentic-inference"
-  },
-  {
-    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
-    "id": "zeng6125-rgb/suixing",
-    "language": "Kotlin",
-    "name": "zeng6125-rgb/suixing",
-    "stars": 2,
-    "updated_at": "2026-10-23T00:27:33Z",
-    "url": "https://github.com/zeng6125-rgb/suixing"
   },
   {
     "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
@@ -99,15 +144,6 @@
     "url": "https://github.com/bigduu/Bodhi-AI"
   },
   {
-    "description": "Self-diagnosis and troubleshooting for Hermes Agent.",
-    "id": "iap/hermes-guide",
-    "language": "Python",
-    "name": "iap/hermes-guide",
-    "stars": 3,
-    "updated_at": "2026-10-23T00:33:51Z",
-    "url": "https://github.com/iap/hermes-guide"
-  },
-  {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
     "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
@@ -140,7 +176,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-23T00:27:05Z",
+    "updated_at": "2026-10-23T00:44:20Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -196,24 +232,6 @@
     "stars": 0,
     "updated_at": "2026-10-22T23:55:27Z",
     "url": "https://github.com/cascodigital/rolo"
-  },
-  {
-    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
-    "id": "kangwoo/aimon-core",
-    "language": "Java",
-    "name": "kangwoo/aimon-core",
-    "stars": 0,
-    "updated_at": "2026-10-23T00:24:29Z",
-    "url": "https://github.com/kangwoo/aimon-core"
-  },
-  {
-    "description": "Copilot-for-Word-style LLM assistant for LyX: ACP agent, LyXServer pipe write path, read-only .lyx parser.",
-    "id": "guzmandrade-dev/lyx-acp-assist",
-    "language": "TypeScript",
-    "name": "guzmandrade-dev/lyx-acp-assist",
-    "stars": 1,
-    "updated_at": "2026-10-22T23:43:41Z",
-    "url": "https://github.com/guzmandrade-dev/lyx-acp-assist"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-22T21:21:01Z",
     "url": "https://github.com/b7216309-jpg/little-bot"
-  },
-  {
-    "description": "Research framework for adaptive, purposeful agents under uncertainty",
-    "id": "v2-io/agentic-systems",
-    "language": "Python",
-    "name": "v2-io/agentic-systems",
-    "stars": 2,
-    "updated_at": "2026-10-22T21:20:39Z",
-    "url": "https://github.com/v2-io/agentic-systems"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-22T21:17:26Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   }
 ]
