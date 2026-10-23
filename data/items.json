@@ -1,12 +1,12 @@
 [
   {
-    "description": "Auditable, event-sourced local coding-agent runtime \u2014 dual-plane control/execution, durable result-projection delivery g",
-    "id": "Koawa265Richard31/Koawa.codingAgentV2",
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
     "language": "Python",
-    "name": "Koawa265Richard31/Koawa.codingAgentV2",
-    "stars": 1,
-    "updated_at": "2026-10-23T14:40:51Z",
-    "url": "https://github.com/Koawa265Richard31/Koawa.codingAgentV2"
+    "name": "strands-agents/harness-sdk",
+    "stars": 8933,
+    "updated_at": "2026-10-23T14:58:24Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "AI agent that finds the Pakistan Customs Tariff (PCT) code for a product and calculates the full duty bill, with a citat",
@@ -14,8 +14,71 @@
     "language": "Python",
     "name": "Maaz5711/customs-copilot",
     "stars": 0,
-    "updated_at": "2026-10-23T14:36:48Z",
+    "updated_at": "2026-10-23T14:56:46Z",
     "url": "https://github.com/Maaz5711/customs-copilot"
+  },
+  {
+    "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
+    "id": "roxm337/osint-agent",
+    "language": "Python",
+    "name": "roxm337/osint-agent",
+    "stars": 0,
+    "updated_at": "2026-10-23T14:56:14Z",
+    "url": "https://github.com/roxm337/osint-agent"
+  },
+  {
+    "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
+    "id": "sindredg/ai-security-platform",
+    "language": "Python",
+    "name": "sindredg/ai-security-platform",
+    "stars": 0,
+    "updated_at": "2026-10-23T14:56:37Z",
+    "url": "https://github.com/sindredg/ai-security-platform"
+  },
+  {
+    "description": "\ud83e\udd16\u26cf\ufe0f Autonomous AI players for Minecraft that act like real teammates. They chat, pick a leader, split up big builds, fig",
+    "id": "thegauravgiri/minecraft-agents",
+    "language": "JavaScript",
+    "name": "thegauravgiri/minecraft-agents",
+    "stars": 0,
+    "updated_at": "2026-10-23T14:50:58Z",
+    "url": "https://github.com/thegauravgiri/minecraft-agents"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 133,
+    "updated_at": "2026-10-23T14:50:34Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-10-23T14:49:51Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-23T14:47:46Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Auditable, event-sourced local coding-agent runtime \u2014 dual-plane control/execution, durable result-projection delivery g",
+    "id": "Koawa265Richard31/Koawa.codingAgentV2",
+    "language": "Python",
+    "name": "Koawa265Richard31/Koawa.codingAgentV2",
+    "stars": 1,
+    "updated_at": "2026-10-23T14:40:51Z",
+    "url": "https://github.com/Koawa265Richard31/Koawa.codingAgentV2"
   },
   {
     "description": "Open-source runtime for LLM agents with persistent memory, relationship history, modeled mood, and evolving identity. Ca",
@@ -81,15 +144,6 @@
     "url": "https://github.com/haibingzhao/easyai"
   },
   {
-    "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
-    "id": "sindredg/ai-security-platform",
-    "language": "Python",
-    "name": "sindredg/ai-security-platform",
-    "stars": 0,
-    "updated_at": "2026-10-23T14:37:06Z",
-    "url": "https://github.com/sindredg/ai-security-platform"
-  },
-  {
     "description": "A multi-tool LLM agent (LangGraph + AWS Bedrock) that pairs Ecuador's official INEC price statistics with its consumer-p",
     "id": "karisaylema/consumer-price-guardian",
     "language": "Python",
@@ -97,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T14:27:06Z",
     "url": "https://github.com/karisaylema/consumer-price-guardian"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-23T14:26:41Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
@@ -158,7 +203,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-23T14:41:51Z",
+    "updated_at": "2026-10-23T14:49:31Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -205,15 +250,6 @@
     "stars": 6,
     "updated_at": "2026-10-23T13:57:27Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "\ud83e\udd16\u26cf\ufe0f Autonomous AI players for Minecraft that act like real teammates. They chat, pick a leader, split up big builds, fig",
-    "id": "thegauravgiri/minecraft-agents",
-    "language": "JavaScript",
-    "name": "thegauravgiri/minecraft-agents",
-    "stars": 0,
-    "updated_at": "2026-10-23T13:53:43Z",
-    "url": "https://github.com/thegauravgiri/minecraft-agents"
   },
   {
     "description": "\u7528\u81ea\u7136\u8bed\u8a00\u6307\u6325\u89c6\u9891\u526a\u8f91\u7684\u5168\u94fe\u8def\u672c\u5730\u667a\u80fd\u4f53\uff1a\u7d20\u6750\u7406\u89e3 \u2192 \u64cd\u4f5c\u89c4\u5212 \u2192 \u4e8b\u5b9e\u6821\u9a8c \u2192 \u771f\u5b9e\u51fa\u7247\uff0c\u914d\u5957 163 \u4e2a\u5355\u5143\u6d4b\u8bd5\u4e0e 22 \u4e2a\u53ef\u590d\u8dd1\u9a8c\u6536\u811a\u672c\u3002",
@@ -277,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T13:12:31Z",
     "url": "https://github.com/Rukkakka/velogger"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8933,
-    "updated_at": "2026-10-23T13:05:59Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "\u9762\u5411\u5236\u9020\u8d28\u91cf\u4e0e\u4f9b\u5e94\u94fe\u8fd0\u8425\u7684\u8bc1\u636e\u9a71\u52a8\u667a\u80fd\u4f53\u5e73\u53f0 \u00b7 Evidence-grounded agent platform for manufacturing quality & supply chain",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-23T14:14:22Z",
     "url": "https://github.com/hellices/korvid"
-  },
-  {
-    "description": "The coordination layer for Multiplayer AI",
-    "id": "cohexa-ai/agent-coherence",
-    "language": "Python",
-    "name": "cohexa-ai/agent-coherence",
-    "stars": 11,
-    "updated_at": "2026-10-23T14:40:17Z",
-    "url": "https://github.com/cohexa-ai/agent-coherence"
-  },
-  {
-    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 50,
-    "updated_at": "2026-10-23T14:43:52Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
-    "id": "weihuaguo270-ops/react-agent",
-    "language": "Python",
-    "name": "weihuaguo270-ops/react-agent",
-    "stars": 0,
-    "updated_at": "2026-10-23T12:10:31Z",
-    "url": "https://github.com/weihuaguo270-ops/react-agent"
   }
 ]
