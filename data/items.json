@@ -5,8 +5,62 @@
     "language": "TypeScript",
     "name": "kanishka-namdeo/Unown",
     "stars": 0,
-    "updated_at": "2026-10-23T21:57:19Z",
+    "updated_at": "2026-10-23T22:13:53Z",
     "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 456,
+    "updated_at": "2026-10-23T22:10:51Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "DSB (\u9017\u6c99\u5305): an open-source, trust-first Android AI agent. Delegate app chores on a background virtual display, with execu",
+    "id": "tianye1999/dsb",
+    "language": "Python",
+    "name": "tianye1999/dsb",
+    "stars": 1,
+    "updated_at": "2026-10-23T22:10:48Z",
+    "url": "https://github.com/tianye1999/dsb"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 365,
+    "updated_at": "2026-10-23T22:08:53Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 2,
+    "updated_at": "2026-10-23T22:07:52Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "\ud83c\udf3f Describe it. Kvist builds it. Your code, your machine, your rules: a sandboxed coding agent that plans, edits, tests a",
+    "id": "davud-d/Kvist",
+    "language": "Python",
+    "name": "davud-d/Kvist",
+    "stars": 0,
+    "updated_at": "2026-10-23T22:06:31Z",
+    "url": "https://github.com/davud-d/Kvist"
+  },
+  {
+    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-23T22:03:38Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "Terminal-native AI coding agent with extensible TypeScript and Rust SDKs for building and orchestrating coding workflows",
@@ -25,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T21:52:52Z",
     "url": "https://github.com/RalfHermsen/x4-agent"
-  },
-  {
-    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-23T21:54:00Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
@@ -90,15 +135,6 @@
     "url": "https://github.com/dotcomjack/grux"
   },
   {
-    "description": "\ud83c\udf3f Describe it. Kvist builds it. Your code, your machine, your rules: a sandboxed coding agent that plans, edits, tests a",
-    "id": "davud-d/Kvist",
-    "language": "Python",
-    "name": "davud-d/Kvist",
-    "stars": 0,
-    "updated_at": "2026-10-23T21:58:28Z",
-    "url": "https://github.com/davud-d/Kvist"
-  },
-  {
     "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
     "id": "xanstomper/mochi",
     "language": "TypeScript",
@@ -133,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-10-23T21:30:05Z",
     "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 365,
-    "updated_at": "2026-10-23T21:53:26Z",
-    "url": "https://github.com/yologdev/yoagent"
   },
   {
     "description": "A deterministic cognitive scaffolding framework and LLM architecture for academic rubric decomposition, backwards-mapped",
@@ -207,15 +234,6 @@
     "url": "https://github.com/Koawa265Richard31/Koawa.codingAgentV2"
   },
   {
-    "description": "DSB (\u9017\u6c99\u5305): an open-source, trust-first Android AI agent. Delegate app chores on a background virtual display, with execu",
-    "id": "tianye1999/dsb",
-    "language": "Python",
-    "name": "tianye1999/dsb",
-    "stars": 1,
-    "updated_at": "2026-10-23T20:52:57Z",
-    "url": "https://github.com/tianye1999/dsb"
-  },
-  {
     "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
     "id": "zeng6125-rgb/suixing",
     "language": "Kotlin",
@@ -241,6 +259,15 @@
     "stars": 7,
     "updated_at": "2026-10-23T20:41:12Z",
     "url": "https://github.com/hsaghir/looplet"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8936,
+    "updated_at": "2026-10-23T20:35:19Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -304,15 +331,6 @@
     "stars": 3,
     "updated_at": "2026-10-23T20:03:07Z",
     "url": "https://github.com/balfiky/openrook"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8935,
-    "updated_at": "2026-10-23T20:35:19Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "A simple yet versatile context engineered for scalable online data collection",
@@ -392,7 +410,7 @@
     "language": "TypeScript",
     "name": "alexwkleung/reika",
     "stars": 12,
-    "updated_at": "2026-10-23T19:50:59Z",
+    "updated_at": "2026-10-23T22:12:40Z",
     "url": "https://github.com/alexwkleung/reika"
   },
   {
@@ -423,15 +441,6 @@
     "url": "https://github.com/DominikSienkiewicz/StockAgent"
   },
   {
-    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 456,
-    "updated_at": "2026-10-23T20:15:58Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -439,14 +448,5 @@
     "stars": 133,
     "updated_at": "2026-10-23T19:00:56Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-10-23T19:00:09Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   }
 ]
