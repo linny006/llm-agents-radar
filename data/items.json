@@ -1,5 +1,77 @@
 [
   {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 15,
+    "updated_at": "2026-10-23T12:58:26Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "\u9762\u5411\u5236\u9020\u8d28\u91cf\u4e0e\u4f9b\u5e94\u94fe\u8fd0\u8425\u7684\u8bc1\u636e\u9a71\u52a8\u667a\u80fd\u4f53\u5e73\u53f0 \u00b7 Evidence-grounded agent platform for manufacturing quality & supply chain",
+    "id": "lijy-forge/SupplyGuard-Ai",
+    "language": "Python",
+    "name": "lijy-forge/SupplyGuard-Ai",
+    "stars": 0,
+    "updated_at": "2026-10-23T12:55:10Z",
+    "url": "https://github.com/lijy-forge/SupplyGuard-Ai"
+  },
+  {
+    "description": "\u6d46\u6599\u5c48\u670d\u5e94\u529b\u9884\u6d4b\u7684\u591a Agent AutoML \u7cfb\u7edf\uff08\u57fa\u4e8e AutoML-Agent\uff09\u00b7 Multi-agent AutoML with deterministic guardrails",
+    "id": "lijy-forge/Automl-Agent-Yield",
+    "language": "Python",
+    "name": "lijy-forge/Automl-Agent-Yield",
+    "stars": 1,
+    "updated_at": "2026-10-23T12:55:00Z",
+    "url": "https://github.com/lijy-forge/Automl-Agent-Yield"
+  },
+  {
+    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
+    "id": "zeng6125-rgb/suixing",
+    "language": "Kotlin",
+    "name": "zeng6125-rgb/suixing",
+    "stars": 2,
+    "updated_at": "2026-10-23T12:54:04Z",
+    "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-23T12:52:29Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
+    "id": "yurika0211/lucky-agent",
+    "language": "Go",
+    "name": "yurika0211/lucky-agent",
+    "stars": 15,
+    "updated_at": "2026-10-23T12:51:10Z",
+    "url": "https://github.com/yurika0211/lucky-agent"
+  },
+  {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-10-23T12:47:21Z",
+    "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 83,
+    "updated_at": "2026-10-23T12:47:12Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
     "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
     "id": "eshanized/M31A",
     "language": "Rust",
@@ -18,15 +90,6 @@
     "url": "https://github.com/ryhirz/ai-video-agent"
   },
   {
-    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
-    "id": "zeng6125-rgb/suixing",
-    "language": "Kotlin",
-    "name": "zeng6125-rgb/suixing",
-    "stars": 2,
-    "updated_at": "2026-10-23T12:42:06Z",
-    "url": "https://github.com/zeng6125-rgb/suixing"
-  },
-  {
     "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
     "id": "mmporong/rl-triage-agent",
     "language": "Python",
@@ -43,15 +106,6 @@
     "stars": 11,
     "updated_at": "2026-10-23T12:39:15Z",
     "url": "https://github.com/Mein-Augenstern/MUYI"
-  },
-  {
-    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
-    "id": "kangwoo/aimon-core",
-    "language": "Java",
-    "name": "kangwoo/aimon-core",
-    "stars": 0,
-    "updated_at": "2026-10-23T12:35:42Z",
-    "url": "https://github.com/kangwoo/aimon-core"
   },
   {
     "description": "\u9762\u5411\u7535\u5546\u552e\u540e\u573a\u666f\uff0c\u57fa\u4e8e LangGraph \u56fa\u5b9a\u62d3\u6251\u7684\u53d7\u63a7\u5355 Agent\uff0c\u4e32\u8054\u610f\u56fe\u8bc6\u522b\u3001\u6df7\u5408\u68c0\u7d22\u3001\u5206\u5c42\u8bb0\u5fc6\u3001\u4ea4\u6613\u8d26\u672c\u4e0e\u8f6c\u4eba\u5de5\u5de5\u5355\u7684\u5b8c\u6574\u95ed\u73af\uff1b\u7528\u5de5\u5177\u767d\u540d\u5355\u548c\u5faa\u73af\u4e0a\u9650\u6362\u53d6\u8d44\u635f\u573a\u666f\u7684\u53ef\u9884\u6d4b\u6027\uff0c\u914d\u5957 7 \u7ec4\u53ef\u590d\u73b0\u7684\u79bb\u7ebf\u8bc4\u6d4b\uff0c\u89e3\u51b3\u590d\u6742\u610f\u56fe\u5224\u4e0d\u51c6\u3001\u653f\u7b56",
@@ -79,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T12:33:56Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-23T12:31:47Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -126,6 +171,15 @@
     "url": "https://github.com/GeminiLight/gen-mentor"
   },
   {
+    "description": "\u8bc1\u636e\u9a71\u52a8\u7684\u81ea\u4e3b\u8bba\u6587\u7814\u7a76 Agent\uff08\u57fa\u4e8e GPT Researcher\uff09\u00b7 Evidence-grounded autonomous research agent",
+    "id": "lijy-forge/PaperGuide-Agent",
+    "language": "Python",
+    "name": "lijy-forge/PaperGuide-Agent",
+    "stars": 1,
+    "updated_at": "2026-10-23T12:21:08Z",
+    "url": "https://github.com/lijy-forge/PaperGuide-Agent"
+  },
+  {
     "description": "Open-Source Intelligent Command Layer",
     "id": "AVADSA25/codec",
     "language": "Python",
@@ -142,15 +196,6 @@
     "stars": 1537,
     "updated_at": "2026-10-23T12:17:31Z",
     "url": "https://github.com/Mirascope/mirascope"
-  },
-  {
-    "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
-    "id": "yurika0211/lucky-agent",
-    "language": "Go",
-    "name": "yurika0211/lucky-agent",
-    "stars": 15,
-    "updated_at": "2026-10-23T12:40:56Z",
-    "url": "https://github.com/yurika0211/lucky-agent"
   },
   {
     "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
@@ -194,7 +239,7 @@
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 50,
-    "updated_at": "2026-10-23T12:41:33Z",
+    "updated_at": "2026-10-23T12:58:35Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
@@ -257,7 +302,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 822,
-    "updated_at": "2026-10-23T11:53:05Z",
+    "updated_at": "2026-10-23T12:57:26Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -277,15 +322,6 @@
     "stars": 8,
     "updated_at": "2026-10-23T11:44:51Z",
     "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 15,
-    "updated_at": "2026-10-23T12:38:35Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Open-source runtime for LLM agents with persistent memory, relationship history, modeled mood, and evolving identity. Ca",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-23T10:32:30Z",
     "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "\u041f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u043d\u043e\u0432\u043e\u0441\u0442\u043d\u0430\u044f \u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a\u0430 \u0434\u043b\u044f \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u0435\u0439 \u043a\u0440\u0443\u043f\u043d\u043e\u0433\u043e \u0431\u0438\u0437\u043d\u0435\u0441\u0430 \u0432 \u00ab\u0410\u043b\u044c\u0444\u0430-\u0411\u0438\u0437\u043d\u0435\u0441\u0435\u00bb: \u043e\u0442\u0431\u043e\u0440 \u0437\u043d\u0430\u0447\u0438\u043c\u044b\u0445 \u0434\u043b\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0438",
-    "id": "Rinneway/alfa-news-insights",
-    "language": "Python",
-    "name": "Rinneway/alfa-news-insights",
-    "stars": 1,
-    "updated_at": "2026-10-23T11:25:40Z",
-    "url": "https://github.com/Rinneway/alfa-news-insights"
-  },
-  {
-    "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
-    "id": "xhqing/DayTradingAgent",
-    "language": "Python",
-    "name": "xhqing/DayTradingAgent",
-    "stars": 4,
-    "updated_at": "2026-10-23T10:15:48Z",
-    "url": "https://github.com/xhqing/DayTradingAgent"
-  },
-  {
-    "description": "An agentic system built on a \"One Root, Five Wings\" architecture, dedicated to combating the entropy production of infom",
-    "id": "ThreeFish-AI/negentropy",
-    "language": "HTML",
-    "name": "ThreeFish-AI/negentropy",
-    "stars": 10,
-    "updated_at": "2026-10-23T10:08:06Z",
-    "url": "https://github.com/ThreeFish-AI/negentropy"
-  },
-  {
-    "description": "Self-diagnosis and troubleshooting for Hermes Agent.",
-    "id": "iap/hermes-guide",
-    "language": "Python",
-    "name": "iap/hermes-guide",
-    "stars": 3,
-    "updated_at": "2026-10-23T10:08:58Z",
-    "url": "https://github.com/iap/hermes-guide"
   }
 ]
