@@ -1,5 +1,95 @@
 [
   {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-23T19:43:38Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-10-23T19:42:59Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-23T19:42:50Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-23T19:42:30Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 7,
+    "updated_at": "2026-10-23T19:39:22Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 15,
+    "updated_at": "2026-10-23T19:39:14Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
+    "id": "honestDS/MonoLight",
+    "language": "Python",
+    "name": "honestDS/MonoLight",
+    "stars": 9,
+    "updated_at": "2026-10-23T19:38:04Z",
+    "url": "https://github.com/honestDS/MonoLight"
+  },
+  {
+    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
+    "id": "zeng6125-rgb/suixing",
+    "language": "Kotlin",
+    "name": "zeng6125-rgb/suixing",
+    "stars": 2,
+    "updated_at": "2026-10-23T19:37:07Z",
+    "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "A voice AI companion for Windows and Linux. Create characters with ComfyUI, give them voices, emotions and memories. Loc",
+    "id": "ArthurReboulSalze/Sherka-Compagnon",
+    "language": "Rust",
+    "name": "ArthurReboulSalze/Sherka-Compagnon",
+    "stars": 0,
+    "updated_at": "2026-10-23T19:36:42Z",
+    "url": "https://github.com/ArthurReboulSalze/Sherka-Compagnon"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-10-23T19:42:15Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
     "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
@@ -23,7 +113,7 @@
     "language": "Python",
     "name": "sindredg/ai-security-platform",
     "stars": 0,
-    "updated_at": "2026-10-23T19:27:34Z",
+    "updated_at": "2026-10-23T19:37:17Z",
     "url": "https://github.com/sindredg/ai-security-platform"
   },
   {
@@ -54,24 +144,6 @@
     "url": "https://github.com/EvannZhongg/Nosis"
   },
   {
-    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
-    "id": "zeng6125-rgb/suixing",
-    "language": "Kotlin",
-    "name": "zeng6125-rgb/suixing",
-    "stars": 2,
-    "updated_at": "2026-10-23T19:19:15Z",
-    "url": "https://github.com/zeng6125-rgb/suixing"
-  },
-  {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 7,
-    "updated_at": "2026-10-23T19:19:06Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
-  },
-  {
     "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
     "id": "hsaghir/looplet",
     "language": "Python",
@@ -88,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-10-23T19:16:02Z",
     "url": "https://github.com/DominikSienkiewicz/StockAgent"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-23T19:05:52Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
@@ -135,15 +198,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "A voice AI companion for Windows and Linux. Create characters with ComfyUI, give them voices, emotions and memories. Loc",
-    "id": "ArthurReboulSalze/Sherka-Compagnon",
-    "language": "Rust",
-    "name": "ArthurReboulSalze/Sherka-Compagnon",
-    "stars": 0,
-    "updated_at": "2026-10-23T18:58:27Z",
-    "url": "https://github.com/ArthurReboulSalze/Sherka-Compagnon"
-  },
-  {
     "description": "An AI on-call engineer that shows its evidence, waits for your approval, and verifies the fix. Evidence-grounded, safe b",
     "id": "Aritraghoshdastidar/Incident_Zero-AI_OnCallEngineer",
     "language": "Python",
@@ -178,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-10-23T18:32:52Z",
     "url": "https://github.com/kifirkin/pi-braid"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-23T18:12:08Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "Application Security orchestration platform",
@@ -232,15 +277,6 @@
     "stars": 135,
     "updated_at": "2026-10-23T17:42:10Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
-    "id": "honestDS/MonoLight",
-    "language": "Python",
-    "name": "honestDS/MonoLight",
-    "stars": 9,
-    "updated_at": "2026-10-23T17:42:09Z",
-    "url": "https://github.com/honestDS/MonoLight"
   },
   {
     "description": "Personal QQ copilot: message archive with roaming backfill, multimodal LLM agent, RAG, WebUI/CLI. Speaks the Milky proto",
@@ -311,7 +347,7 @@
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 50,
-    "updated_at": "2026-10-23T19:09:59Z",
+    "updated_at": "2026-10-23T19:40:17Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
@@ -329,7 +365,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 8935,
-    "updated_at": "2026-10-23T16:58:55Z",
+    "updated_at": "2026-10-23T19:31:01Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-23T16:27:30Z",
     "url": "https://github.com/Jshulgach/Grounded-SAM-2-Stream"
-  },
-  {
-    "description": "\u6b63\u540d\uff1a\u672c\u5730\u8fd0\u884c\u7684\u4e2d\u6587\u53d6\u540d\u684c\u9762\u5e94\u7528\uff0c\u89c4\u5219\u68c0\u67e5 + \u5178\u7c4d\u51fa\u5904 + DeepSeek agent \u00b7 Zhengming, a local-first Chinese baby-naming desktop app",
-    "id": "robolong/zhengming",
-    "language": "TypeScript",
-    "name": "robolong/zhengming",
-    "stars": 0,
-    "updated_at": "2026-10-23T16:38:55Z",
-    "url": "https://github.com/robolong/zhengming"
-  },
-  {
-    "description": "Auditable, event-sourced local coding-agent runtime \u2014 dual-plane control/execution, durable result-projection delivery g",
-    "id": "Koawa265Richard31/Koawa.codingAgentV2",
-    "language": "Python",
-    "name": "Koawa265Richard31/Koawa.codingAgentV2",
-    "stars": 1,
-    "updated_at": "2026-10-23T16:19:09Z",
-    "url": "https://github.com/Koawa265Richard31/Koawa.codingAgentV2"
-  },
-  {
-    "description": "\u30c7\u30d9\u30ed\u30c3\u30d1\u30fc\u30b5\u30a4\u30c8\u306e\u57f7\u7b46\u3067\u4f5c\u6210\u3057\u305f\u30b5\u30f3\u30d7\u30eb\u30b3\u30fc\u30c9",
-    "id": "ubata-mamezou/developer-site-article-examples",
-    "language": "TypeScript",
-    "name": "ubata-mamezou/developer-site-article-examples",
-    "stars": 0,
-    "updated_at": "2026-10-23T16:15:45Z",
-    "url": "https://github.com/ubata-mamezou/developer-site-article-examples"
-  },
-  {
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
-    "id": "bigfish1913/pi-rust",
-    "language": "Rust",
-    "name": "bigfish1913/pi-rust",
-    "stars": 144,
-    "updated_at": "2026-10-23T16:12:40Z",
-    "url": "https://github.com/bigfish1913/pi-rust"
   }
 ]
