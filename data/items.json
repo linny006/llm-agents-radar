@@ -1,11 +1,65 @@
 [
   {
+    "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
+    "id": "kashyaprajharsh/medha-agent",
+    "language": "Rust",
+    "name": "kashyaprajharsh/medha-agent",
+    "stars": 4,
+    "updated_at": "2026-10-24T22:59:22Z",
+    "url": "https://github.com/kashyaprajharsh/medha-agent"
+  },
+  {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-24T22:58:24Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "Doomsday Network (DOOM) \u2014 Sovereign Layer-1 Proof-of-Work GPU Blockchain (SHA-256d CUDA), Zero-Fee PPLNS Pool, Remote MC",
+    "id": "doomsday-network/doomsday",
+    "language": "Python",
+    "name": "doomsday-network/doomsday",
+    "stars": 16,
+    "updated_at": "2026-10-24T22:56:57Z",
+    "url": "https://github.com/doomsday-network/doomsday"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 136,
+    "updated_at": "2026-10-24T22:53:15Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-24T22:52:46Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 219,
+    "updated_at": "2026-10-24T22:45:56Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 1004,
-    "updated_at": "2026-10-24T22:42:58Z",
+    "updated_at": "2026-10-24T22:58:34Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -25,24 +79,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T22:40:45Z",
     "url": "https://github.com/arxhr007/lxask"
-  },
-  {
-    "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 219,
-    "updated_at": "2026-10-24T22:37:09Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
-    "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
-    "id": "kashyaprajharsh/medha-agent",
-    "language": "Rust",
-    "name": "kashyaprajharsh/medha-agent",
-    "stars": 4,
-    "updated_at": "2026-10-24T22:36:33Z",
-    "url": "https://github.com/kashyaprajharsh/medha-agent"
   },
   {
     "description": "\u26a1 Drop-in SKILL.md, .cursorrules, CLAUDE.md, AGENTS.md & Remote MCP (.mcp.json) pack for Claude Code, Cursor, Windsurf, ",
@@ -70,15 +106,6 @@
     "stars": 15,
     "updated_at": "2026-10-24T22:35:46Z",
     "url": "https://github.com/doomsday-network/bounty-guard"
-  },
-  {
-    "description": "Doomsday Network (DOOM) \u2014 Sovereign Layer-1 Proof-of-Work GPU Blockchain (SHA-256d CUDA), Zero-Fee PPLNS Pool, Remote MC",
-    "id": "doomsday-network/doomsday",
-    "language": "Python",
-    "name": "doomsday-network/doomsday",
-    "stars": 16,
-    "updated_at": "2026-10-24T22:35:41Z",
-    "url": "https://github.com/doomsday-network/doomsday"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -187,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T21:58:09Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-24T21:53:26Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "LLM data analyst agent on LangGraph with per-call tracing, cost and latency, versioned prompts and a record/replay evalu",
@@ -315,15 +333,6 @@
     "url": "https://github.com/chenziliang1/311-analytics-agent"
   },
   {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 136,
-    "updated_at": "2026-10-24T20:13:52Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
     "description": "Coding agent CLI for local and hosted models, designed around small local models first",
     "id": "alexwkleung/reika",
     "language": "TypeScript",
@@ -365,7 +374,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4460,
-    "updated_at": "2026-10-24T22:39:07Z",
+    "updated_at": "2026-10-24T22:58:41Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 18,
     "updated_at": "2026-10-24T17:48:53Z",
     "url": "https://github.com/AISmithLab/HumanStudy-Bench"
-  },
-  {
-    "description": "\u628a\u957f\u5bf9\u8bdd\u7684\u91cd\u590d\u8ba1\u8d39\u780d\u6389\u4e00\u534a\uff0c\u5e76\u7ed9\u6a21\u578b\u914d\u4e00\u540d\u53ea\u8bfb\u8c03\u67e5\u5458\uff1a\u5148\u6838\u5b9e\uff0c\u540e\u52a8\u624b\u3002\u9762\u5411 DeepSeek Harness \u7684\u4e0a\u4e0b\u6587\u538b\u7f29\u4e0e\u5916\u7f6e\u63a8\u7406\u63d2\u4ef6\uff08MIT\uff09\u3002",
-    "id": "ScreamingMaggot/rcs-context",
-    "language": "JavaScript",
-    "name": "ScreamingMaggot/rcs-context",
-    "stars": 1,
-    "updated_at": "2026-10-24T17:46:12Z",
-    "url": "https://github.com/ScreamingMaggot/rcs-context"
   }
 ]
