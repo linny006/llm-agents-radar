@@ -1,5 +1,59 @@
 [
   {
+    "description": "\u8bc1\u636e\u7ea6\u675f\u7684\u4ee3\u7801\u8bca\u65ad\u5de5\u4f5c\u53f0\uff1a\u786e\u5b9a\u6027\u9759\u6001\u5206\u6790\u62e5\u6709\u6e90\u7801\u4e8b\u5b9e\uff0cLLM \u53ea\u63d0\u5047\u8bbe\uff0cresolver/validator \u51b3\u5b9a\u80fd\u5426\u7ed1\u5b9a\u56de\u771f\u5b9e\u64cd\u4f5c\u2014\u2014\u8bc1\u636e\u4e0d\u8db3\u4fdd\u6301 unknown/abstained\uff0c\u4ece\u67b6\u6784\u6291\u5236\u5e7b\u89c9\u3002\u5df2\u5728\u771f\u5b9e\u5f00\u6e90\u9879\u76ee\u53d1\u73b0 bug\uff08stun",
+    "id": "xianyu-sheng/SmartBench",
+    "language": "Python",
+    "name": "xianyu-sheng/SmartBench",
+    "stars": 2,
+    "updated_at": "2026-10-24T10:11:56Z",
+    "url": "https://github.com/xianyu-sheng/SmartBench"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-24T10:15:15Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "\u26a1 3B \u51b3\u7b56\u6a21\u578b\u9a71\u52a8\u771f\u5b9e\u6d4f\u89c8\u5668 \u00b7 LiquidAI d1-3B + llama.cpp \u7eaf CPU \u63a8\u7406 \u00b7 \u5355\u6b21\u524d\u5411\u6253\u5206 \u00b7 Claude-Code \u5f0f TUI \u00b7 d1 \u81ea\u4e3b\u51b3\u5b9a\u4f55\u65f6\u54a8\u8be2\u4e91\u7aef LLM | Fast browser a",
+    "id": "CyanXLab/fast-browser-use-d1",
+    "language": "Python",
+    "name": "CyanXLab/fast-browser-use-d1",
+    "stars": 0,
+    "updated_at": "2026-10-24T10:10:25Z",
+    "url": "https://github.com/CyanXLab/fast-browser-use-d1"
+  },
+  {
+    "description": "\u0420\u0435\u043f\u0440\u0430\u0439\u0441\u0435\u0440 \u0434\u043b\u044f Ozon, Wildberries \u0438 \u042f\u043d\u0434\u0435\u043a\u0441.\u041c\u0430\u0440\u043a\u0435\u0442\u0430: \u0437\u0430\u0449\u0438\u0442\u0430 \u043c\u0430\u0440\u0436\u0438 \u043f\u043e \u0440\u0435\u0430\u043b\u044c\u043d\u044b\u043c \u0442\u0430\u0440\u0438\u0444\u0430\u043c \u043f\u043b\u043e\u0449\u0430\u0434\u043e\u043a, \u0430\u0432\u0442\u043e\u0432\u044b\u0432\u043e\u0434 \u0438\u0437 \u0430\u043a\u0446\u0438\u0439, \u0431\u0430\u0439\u0435\u0441\u043e\u0432",
+    "id": "DeviceIngineering/ozon-wildberries-repricer",
+    "language": "JavaScript",
+    "name": "DeviceIngineering/ozon-wildberries-repricer",
+    "stars": 2,
+    "updated_at": "2026-10-24T10:09:59Z",
+    "url": "https://github.com/DeviceIngineering/ozon-wildberries-repricer"
+  },
+  {
+    "description": "A guide to New York City you can ask anything: an agent that answers from a live NYC lakehouse first, then city feeds an",
+    "id": "giridhar1103/NYCynapse.Ai",
+    "language": "Python",
+    "name": "giridhar1103/NYCynapse.Ai",
+    "stars": 0,
+    "updated_at": "2026-10-24T10:09:06Z",
+    "url": "https://github.com/giridhar1103/NYCynapse.Ai"
+  },
+  {
+    "description": "One poisoned document hijacks Google's Gemini 3.1 Pro agent: it scans your Drive, harvests secret-shaped keys, plants pe",
+    "id": "alaremawi07-jpg/agentic-rce-gemini",
+    "language": "\u2014",
+    "name": "alaremawi07-jpg/agentic-rce-gemini",
+    "stars": 0,
+    "updated_at": "2026-10-24T10:05:28Z",
+    "url": "https://github.com/alaremawi07-jpg/agentic-rce-gemini"
+  },
+  {
     "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
     "id": "xiongweilin/agent-skills",
     "language": "PowerShell",
@@ -18,15 +72,6 @@
     "url": "https://github.com/Shuffle-1992/dsh-dispatch"
   },
   {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-24T09:57:00Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
     "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
     "id": "zeng6125-rgb/suixing",
     "language": "Kotlin",
@@ -41,7 +86,7 @@
     "language": "Kotlin",
     "name": "Ultra-Guru/Android-Guru-Agent",
     "stars": 11,
-    "updated_at": "2026-10-24T09:51:23Z",
+    "updated_at": "2026-10-24T10:10:40Z",
     "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
   },
   {
@@ -59,7 +104,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 986,
-    "updated_at": "2026-10-24T09:45:38Z",
+    "updated_at": "2026-10-24T10:09:24Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -117,15 +162,6 @@
     "url": "https://github.com/memoways/ava-proto1"
   },
   {
-    "description": "\u26a1 3B \u51b3\u7b56\u6a21\u578b\u9a71\u52a8\u771f\u5b9e\u6d4f\u89c8\u5668 \u00b7 LiquidAI d1-3B + llama.cpp \u7eaf CPU \u63a8\u7406 \u00b7 \u5355\u6b21\u524d\u5411\u6253\u5206 \u00b7 Claude-Code \u5f0f TUI \u00b7 d1 \u81ea\u4e3b\u51b3\u5b9a\u4f55\u65f6\u54a8\u8be2\u4e91\u7aef LLM | Fast browser a",
-    "id": "CyanXLab/fast-browser-use-d1",
-    "language": "Python",
-    "name": "CyanXLab/fast-browser-use-d1",
-    "stars": 0,
-    "updated_at": "2026-10-24T09:26:14Z",
-    "url": "https://github.com/CyanXLab/fast-browser-use-d1"
-  },
-  {
     "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
     "id": "xianyu-sheng/Xenon",
     "language": "Python",
@@ -169,15 +205,6 @@
     "stars": 7,
     "updated_at": "2026-10-24T08:57:50Z",
     "url": "https://github.com/hsaghir/looplet"
-  },
-  {
-    "description": "Agentic hijacking & secret exfiltration in Google's Gemini agent \u2014 the complete evidence-verified disclosure record (Aug",
-    "id": "alaremawi07-jpg/agentic-rce-gemini",
-    "language": "\u2014",
-    "name": "alaremawi07-jpg/agentic-rce-gemini",
-    "stars": 0,
-    "updated_at": "2026-10-24T08:54:40Z",
-    "url": "https://github.com/alaremawi07-jpg/agentic-rce-gemini"
   },
   {
     "description": "Metacognitive extension suite for Pi coding agent",
@@ -383,7 +410,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4461,
-    "updated_at": "2026-10-24T09:29:31Z",
+    "updated_at": "2026-10-24T10:13:20Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -419,34 +446,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 64,
-    "updated_at": "2026-10-24T09:40:09Z",
+    "updated_at": "2026-10-24T10:01:43Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
-  },
-  {
-    "description": "Make any agent harness token-native.",
-    "id": "Lawhy/tokin",
-    "language": "Python",
-    "name": "Lawhy/tokin",
-    "stars": 7,
-    "updated_at": "2026-10-24T07:49:06Z",
-    "url": "https://github.com/Lawhy/tokin"
-  },
-  {
-    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 50,
-    "updated_at": "2026-10-24T09:30:28Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "Computer Use enhancement plugin for DeepSeek Harness (DSH). \u7eaf JS \u89c6\u89c9\u5dee\u5206\u3001\u7f51\u683c\u4f4d\u7f6e\u7f16\u7801\u3001\u957f\u7a0b\u4efb\u52a1\u95ed\u73af\u4e0e\u4eba\u673a\u5171\u9a7e\u6388\u6743\u3002",
-    "id": "ccr-wer/dsh-copilot-vision",
-    "language": "JavaScript",
-    "name": "ccr-wer/dsh-copilot-vision",
-    "stars": 0,
-    "updated_at": "2026-10-24T07:35:07Z",
-    "url": "https://github.com/ccr-wer/dsh-copilot-vision"
   }
 ]
