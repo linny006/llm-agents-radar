@@ -1,11 +1,74 @@
 [
   {
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 7,
+    "updated_at": "2026-10-24T09:13:21Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 983,
+    "updated_at": "2026-10-24T09:08:48Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "Official codebase for Spotter: Let the Embodied Model Lead, and the VLM Reflect for It",
+    "id": "zqc3117/Spotter",
+    "language": "Python",
+    "name": "zqc3117/Spotter",
+    "stars": 159,
+    "updated_at": "2026-10-24T09:05:18Z",
+    "url": "https://github.com/zqc3117/Spotter"
+  },
+  {
+    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
+    "id": "memoways/ava-proto1",
+    "language": "TypeScript",
+    "name": "memoways/ava-proto1",
+    "stars": 0,
+    "updated_at": "2026-10-24T09:05:05Z",
+    "url": "https://github.com/memoways/ava-proto1"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-24T09:03:24Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
+    "id": "zeng6125-rgb/suixing",
+    "language": "Kotlin",
+    "name": "zeng6125-rgb/suixing",
+    "stars": 2,
+    "updated_at": "2026-10-24T09:01:42Z",
+    "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-10-24T09:00:36Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
     "id": "dkblinux98/nyxGPT",
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-10-24T09:00:02Z",
+    "updated_at": "2026-10-24T09:08:06Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -14,7 +77,7 @@
     "language": "Kotlin",
     "name": "Ultra-Guru/Android-Guru-Agent",
     "stars": 11,
-    "updated_at": "2026-10-24T08:59:51Z",
+    "updated_at": "2026-10-24T09:15:03Z",
     "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
   },
   {
@@ -36,22 +99,13 @@
     "url": "https://github.com/hsaghir/looplet"
   },
   {
-    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
-    "id": "zeng6125-rgb/suixing",
-    "language": "Kotlin",
-    "name": "zeng6125-rgb/suixing",
-    "stars": 2,
-    "updated_at": "2026-10-24T08:55:11Z",
-    "url": "https://github.com/zeng6125-rgb/suixing"
-  },
-  {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 7,
-    "updated_at": "2026-10-24T08:54:57Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+    "description": "Agentic hijacking & secret exfiltration in Google's Gemini agent \u2014 the complete evidence-verified disclosure record (Aug",
+    "id": "alaremawi07-jpg/agentic-rce-gemini",
+    "language": "\u2014",
+    "name": "alaremawi07-jpg/agentic-rce-gemini",
+    "stars": 0,
+    "updated_at": "2026-10-24T08:54:40Z",
+    "url": "https://github.com/alaremawi07-jpg/agentic-rce-gemini"
   },
   {
     "description": "\u26a1 3B \u51b3\u7b56\u6a21\u578b\u9a71\u52a8\u771f\u5b9e\u6d4f\u89c8\u5668 \u00b7 LiquidAI d1-3B + llama.cpp \u7eaf CPU \u63a8\u7406 \u00b7 \u5355\u6b21\u524d\u5411\u6253\u5206 \u00b7 Claude-Code \u5f0f TUI \u00b7 d1 \u81ea\u4e3b\u51b3\u5b9a\u4f55\u65f6\u54a8\u8be2\u4e91\u7aef LLM | Fast browser a",
@@ -79,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T08:48:30Z",
     "url": "https://github.com/sindredg/ai-security-platform"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-24T08:46:01Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -151,15 +196,6 @@
     "stars": 135,
     "updated_at": "2026-10-24T08:38:54Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
-    "id": "memoways/ava-proto1",
-    "language": "TypeScript",
-    "name": "memoways/ava-proto1",
-    "stars": 0,
-    "updated_at": "2026-10-24T08:36:38Z",
-    "url": "https://github.com/memoways/ava-proto1"
   },
   {
     "description": "Community registry of AI agent manifests, capabilities, skills, and workflows for Octomind \u2014 run a fully-configured spec",
@@ -230,7 +266,7 @@
     "language": "PowerShell",
     "name": "xiongweilin/agent-skills",
     "stars": 0,
-    "updated_at": "2026-10-24T09:00:07Z",
+    "updated_at": "2026-10-24T09:13:28Z",
     "url": "https://github.com/xiongweilin/agent-skills"
   },
   {
@@ -320,7 +356,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4461,
-    "updated_at": "2026-10-24T07:59:23Z",
+    "updated_at": "2026-10-24T09:09:14Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -383,7 +419,7 @@
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 50,
-    "updated_at": "2026-10-24T08:55:16Z",
+    "updated_at": "2026-10-24T09:13:20Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-24T07:26:04Z",
     "url": "https://github.com/addsumtech/job-hunt"
-  },
-  {
-    "description": "\ud83d\udcda \u6301\u7eed\u751f\u957f\u7684\u540e\u7aef\u00d7AI \u751f\u4ea7\u7ea7\u77e5\u8bc6\u4f53\u7cfb\uff5c\u6bcf\u7bc7\u4ece\u4e0a\u7ebf\u4ee3\u7801\u56de\u5199\uff0c\u771f\u5b9e\u7c7b\u540d\u53ef\u70b9\u51fb\u9a8c\u8bc1 \u00b7 \u8ffd\u95ee\u94fe\u5f0f\u6df1\u5ea6\u6807\u5c3a\uff1a\u7b54\u6848\u7ecf\u5f97\u8d77\u9762\u8bd5\u5b98\u8fde\u73af\u8ffd\u95ee \u00b7 \u6574\u5e93\u5de5\u7a0b\u5316\u6cbb\u7406\uff1akb-upkeep \u811a\u672c\u4f53\u68c0\u96f6\u7a7a\u58f3\u96f6\u6b7b\u94fe + \u914d\u56fe\u5168\u672c\u5730\u5316 + VitePress \u7535\u5b50\u4e66",
-    "id": "Mein-Augenstern/MUYI",
-    "language": "JavaScript",
-    "name": "Mein-Augenstern/MUYI",
-    "stars": 11,
-    "updated_at": "2026-10-24T07:24:50Z",
-    "url": "https://github.com/Mein-Augenstern/MUYI"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 133,
-    "updated_at": "2026-10-24T07:06:01Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-10-24T07:05:22Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-10-24T07:05:07Z",
-    "url": "https://github.com/g761007/daily-dispatch"
   }
 ]
