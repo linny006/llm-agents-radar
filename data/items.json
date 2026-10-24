@@ -1,12 +1,21 @@
 [
   {
-    "description": "Read-only AWS inventory with a graph model and an LLM agent that answers security questions with validated citations. Po",
-    "id": "TomKoren1/Sightline",
-    "language": "TypeScript",
-    "name": "TomKoren1/Sightline",
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
     "stars": 0,
-    "updated_at": "2026-10-24T20:44:46Z",
-    "url": "https://github.com/TomKoren1/Sightline"
+    "updated_at": "2026-10-24T20:59:09Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Deterministic orchestration, execution assurance, and quota-aware continuity runtime for GLM coding agents in ZCode",
+    "id": "Chengy257/glm-conductor",
+    "language": "Python",
+    "name": "Chengy257/glm-conductor",
+    "stars": 0,
+    "updated_at": "2026-10-24T20:58:49Z",
+    "url": "https://github.com/Chengy257/glm-conductor"
   },
   {
     "description": "A unified .NET abstraction layer for multiple Large Language Model (LLM) providers. Nexus-LLM simplifies integration wit",
@@ -14,8 +23,44 @@
     "language": "Python",
     "name": "brutal-45/Nexus-LLM",
     "stars": 0,
-    "updated_at": "2026-10-24T20:41:38Z",
+    "updated_at": "2026-10-24T20:56:41Z",
     "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "Copilot-for-Word-style LLM assistant for LyX: ACP agent, LyXServer pipe write path, read-only .lyx parser.",
+    "id": "guzmandrade-dev/lyx-acp-assist",
+    "language": "TypeScript",
+    "name": "guzmandrade-dev/lyx-acp-assist",
+    "stars": 1,
+    "updated_at": "2026-10-24T20:56:33Z",
+    "url": "https://github.com/guzmandrade-dev/lyx-acp-assist"
+  },
+  {
+    "description": "Control AI agents anywhere. (github mirror)",
+    "id": "justacalico/devinorium",
+    "language": "Dart",
+    "name": "justacalico/devinorium",
+    "stars": 0,
+    "updated_at": "2026-10-24T20:49:41Z",
+    "url": "https://github.com/justacalico/devinorium"
+  },
+  {
+    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
+    "id": "RalfHermsen/x4-agent",
+    "language": "Python",
+    "name": "RalfHermsen/x4-agent",
+    "stars": 0,
+    "updated_at": "2026-10-24T20:48:56Z",
+    "url": "https://github.com/RalfHermsen/x4-agent"
+  },
+  {
+    "description": "Read-only AWS inventory with a graph model and an LLM agent that answers security questions with validated citations. Po",
+    "id": "TomKoren1/Sightline",
+    "language": "TypeScript",
+    "name": "TomKoren1/Sightline",
+    "stars": 0,
+    "updated_at": "2026-10-24T20:58:32Z",
+    "url": "https://github.com/TomKoren1/Sightline"
   },
   {
     "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
@@ -23,7 +68,7 @@
     "language": "Python",
     "name": "sindredg/ai-security-platform",
     "stars": 0,
-    "updated_at": "2026-10-24T20:34:17Z",
+    "updated_at": "2026-10-24T20:48:58Z",
     "url": "https://github.com/sindredg/ai-security-platform"
   },
   {
@@ -63,15 +108,6 @@
     "url": "https://github.com/kashyaprajharsh/medha-agent"
   },
   {
-    "description": "Copilot-for-Word-style LLM assistant for LyX: ACP agent, LyXServer pipe write path, read-only .lyx parser.",
-    "id": "guzmandrade-dev/lyx-acp-assist",
-    "language": "TypeScript",
-    "name": "guzmandrade-dev/lyx-acp-assist",
-    "stars": 1,
-    "updated_at": "2026-10-24T20:29:16Z",
-    "url": "https://github.com/guzmandrade-dev/lyx-acp-assist"
-  },
-  {
     "description": "Educational proof of concept, not investment advice: Python and LangGraph agent analysing a fixed watchlist of US stocks",
     "id": "DominikSienkiewicz/StockAgent",
     "language": "Python",
@@ -88,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-10-24T20:26:56Z",
     "url": "https://github.com/zeng6125-rgb/suixing"
-  },
-  {
-    "description": "Deterministic orchestration, execution assurance, and quota-aware continuity runtime for GLM coding agents in ZCode",
-    "id": "Chengy257/glm-conductor",
-    "language": "Python",
-    "name": "Chengy257/glm-conductor",
-    "stars": 0,
-    "updated_at": "2026-10-24T20:19:22Z",
-    "url": "https://github.com/Chengy257/glm-conductor"
   },
   {
     "description": "A BI agent that answers questions about 311 service requests from a Snowflake warehouse. Strands Agents, MCP, AWS Bedroc",
@@ -126,15 +153,6 @@
     "url": "https://github.com/alexwkleung/reika"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-24T19:58:07Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -142,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T19:46:57Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
-    "id": "RalfHermsen/x4-agent",
-    "language": "Python",
-    "name": "RalfHermsen/x4-agent",
-    "stars": 0,
-    "updated_at": "2026-10-24T19:46:37Z",
-    "url": "https://github.com/RalfHermsen/x4-agent"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -293,7 +302,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 1003,
-    "updated_at": "2026-10-24T18:11:38Z",
+    "updated_at": "2026-10-24T20:56:36Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-24T17:06:36Z",
     "url": "https://github.com/doomsday-network/web3-agent-skills"
-  },
-  {
-    "description": "CE \u6267\u884c\u5916\u9aa8\u9abc\uff1a\u8ba9\u5c0f\u6a21\u578b\u5728 8K \u4e0a\u4e0b\u6587\u91cc\u5e72\u5b8c 32K \u7684\u6d3b\u3002\u5355\u6587\u4ef6\u3001\u7eaf\u6807\u51c6\u5e93\u3001\u96f6\u4f9d\u8d56\uff1b\u9632\u5e7b\u89c9\u5b88\u536b\u3001\u5206\u6bb5\u5582\u517b\u3001\u65ad\u70b9\u56de\u6eda\u3001\u9884\u7b97\u7194\u65ad\u3002AGPL-3.0\u3002\u5df2\u5728 qwen3-9B / 8192 \u4e0a\u4e0b\u6587 / RTX 2070S \u4e0a\u9a8c\u8bc1\u3002",
-    "id": "zhugeweimu/CE-NeuroFusion",
-    "language": "Python",
-    "name": "zhugeweimu/CE-NeuroFusion",
-    "stars": 0,
-    "updated_at": "2026-10-24T17:04:45Z",
-    "url": "https://github.com/zhugeweimu/CE-NeuroFusion"
   }
 ]
