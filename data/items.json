@@ -5,8 +5,17 @@
     "language": "TypeScript",
     "name": "plurnk/plurnk-service",
     "stars": 1,
-    "updated_at": "2026-10-24T05:44:10Z",
+    "updated_at": "2026-10-24T05:59:32Z",
     "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Security operations AI agent built with LangGraph, deterministic policy enforcement, human approval, auditable tool use,",
+    "id": "luozhonglzw/cybersec-agent",
+    "language": "Python",
+    "name": "luozhonglzw/cybersec-agent",
+    "stars": 0,
+    "updated_at": "2026-10-24T05:55:49Z",
+    "url": "https://github.com/luozhonglzw/cybersec-agent"
   },
   {
     "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
@@ -14,8 +23,44 @@
     "language": "Kotlin",
     "name": "Ultra-Guru/Android-Guru-Agent",
     "stars": 11,
-    "updated_at": "2026-10-24T05:44:06Z",
+    "updated_at": "2026-10-24T05:54:20Z",
     "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-24T05:55:23Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "JevHub \u00b7 Jev \u751f\u6001\u70ed\u699c \u628a\u503c\u5f97\u5173\u6ce8\u7684 Jev \u9879\u76ee\u3001\u6559\u7a0b\u548c\u8ba8\u8bba\uff0c\u6c47\u5230\u4e00\u9875\u3002 \u81ea\u52a8\u53d1\u73b0 \u00b7 \u6bcf\u65e5\u66f4\u65b0 \u00b7 \u6309 Stars \u6392\u5e8f \u00b7 \u4e2d\u82f1\u53cc\u8bed",
+    "id": "frontierlabai/JevHub",
+    "language": "Python",
+    "name": "frontierlabai/JevHub",
+    "stars": 8,
+    "updated_at": "2026-10-24T05:50:33Z",
+    "url": "https://github.com/frontierlabai/JevHub"
+  },
+  {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-24T05:47:54Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "DeepSeek Harness \u89d2\u8272\u8def\u7531\u4e0e\u8fdb\u5316\u63d2\u4ef6\uff1a\u652f\u6301\u4efb\u610f\u5df2\u6ce8\u518c\u6a21\u578b\uff08\u53ef\u914d\u5408\u5176\u4ed6\u63d2\u4ef6\u63a5\u5165 Codex / Claude Code\uff09\u3001\u5de5\u4f5c\u533a\u7ecf\u9a8c\u3001\u966a\u4f34\u4eba\u683c\u548c\u7528\u6237\u4e60\u60ef\uff1b\u6863\u6848\u53ef\u5168\u5c40\u5171\u4eab\u6216\u6309\u5de5\u4f5c\u533a\u3001\u5bf9\u8bdd\u72ec\u7acb\u7ef4\u62a4\u3002",
+    "id": "ZekaiShi/evo-subagent",
+    "language": "JavaScript",
+    "name": "ZekaiShi/evo-subagent",
+    "stars": 7,
+    "updated_at": "2026-10-24T05:47:52Z",
+    "url": "https://github.com/ZekaiShi/evo-subagent"
   },
   {
     "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
@@ -43,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T05:39:37Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-24T05:35:56Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
   },
   {
     "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
@@ -113,7 +149,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 15,
-    "updated_at": "2026-10-24T05:29:46Z",
+    "updated_at": "2026-10-24T05:59:01Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -187,15 +223,6 @@
     "stars": 9,
     "updated_at": "2026-10-24T05:10:22Z",
     "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
-    "description": "DeepSeek Harness \u89d2\u8272\u8def\u7531\u4e0e\u8fdb\u5316\u63d2\u4ef6\uff1a\u652f\u6301\u4efb\u610f\u5df2\u6ce8\u518c\u6a21\u578b\uff08\u53ef\u914d\u5408\u5176\u4ed6\u63d2\u4ef6\u63a5\u5165 Codex / Claude Code\uff09\u3001\u5de5\u4f5c\u533a\u7ecf\u9a8c\u3001\u966a\u4f34\u4eba\u683c\u548c\u7528\u6237\u4e60\u60ef\uff1b\u6863\u6848\u53ef\u5168\u5c40\u5171\u4eab\u6216\u6309\u5de5\u4f5c\u533a\u3001\u5bf9\u8bdd\u72ec\u7acb\u7ef4\u62a4\u3002",
-    "id": "ZekaiShi/evo-subagent",
-    "language": "JavaScript",
-    "name": "ZekaiShi/evo-subagent",
-    "stars": 7,
-    "updated_at": "2026-10-24T05:10:03Z",
-    "url": "https://github.com/ZekaiShi/evo-subagent"
   },
   {
     "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
@@ -364,7 +391,7 @@
     "id": "dragonked2/alphacode",
     "language": "Rust",
     "name": "dragonked2/alphacode",
-    "stars": 428,
+    "stars": 429,
     "updated_at": "2026-10-24T03:28:40Z",
     "url": "https://github.com/dragonked2/alphacode"
   },
@@ -405,15 +432,6 @@
     "url": "https://github.com/LacerdaTraderCode/observable-analytics-agent"
   },
   {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-24T05:31:23Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "Browser based Interface for Generative AI. Chat/Agent/Taskmanager Hybrid.",
     "id": "Xyntopia/taskyon",
     "language": "TypeScript",
@@ -430,23 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-24T03:05:44Z",
     "url": "https://github.com/addsumtech/job-hunt"
-  },
-  {
-    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
-    "id": "plurnk/plurnk",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk",
-    "stars": 6,
-    "updated_at": "2026-10-24T02:59:53Z",
-    "url": "https://github.com/plurnk/plurnk"
-  },
-  {
-    "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
-    "id": "wq19901103wq/wechat-mac-rpa",
-    "language": "Python",
-    "name": "wq19901103wq/wechat-mac-rpa",
-    "stars": 125,
-    "updated_at": "2026-10-24T02:45:52Z",
-    "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
   }
 ]
