@@ -1,12 +1,39 @@
 [
   {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-24T09:38:05Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
     "description": "Official codebase for Spotter: Let the Embodied Model Lead, and the VLM Reflect for It",
     "id": "zqc3117/Spotter",
     "language": "Python",
     "name": "zqc3117/Spotter",
     "stars": 159,
-    "updated_at": "2026-10-24T09:29:56Z",
+    "updated_at": "2026-10-24T09:37:00Z",
     "url": "https://github.com/zqc3117/Spotter"
+  },
+  {
+    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
+    "id": "Ultra-Guru/Android-Guru-Agent",
+    "language": "Kotlin",
+    "name": "Ultra-Guru/Android-Guru-Agent",
+    "stars": 11,
+    "updated_at": "2026-10-24T09:39:43Z",
+    "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
+  },
+  {
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 7,
+    "updated_at": "2026-10-24T09:35:23Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
   },
   {
     "description": "A local-first AI companion for Windows: it remembers you, dreams over your day at night, follows up on what matters and ",
@@ -36,15 +63,6 @@
     "url": "https://github.com/memoways/ava-proto1"
   },
   {
-    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
-    "id": "Ultra-Guru/Android-Guru-Agent",
-    "language": "Kotlin",
-    "name": "Ultra-Guru/Android-Guru-Agent",
-    "stars": 11,
-    "updated_at": "2026-10-24T09:26:50Z",
-    "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
-  },
-  {
     "description": "\u26a1 3B \u51b3\u7b56\u6a21\u578b\u9a71\u52a8\u771f\u5b9e\u6d4f\u89c8\u5668 \u00b7 LiquidAI d1-3B + llama.cpp \u7eaf CPU \u63a8\u7406 \u00b7 \u5355\u6b21\u524d\u5411\u6253\u5206 \u00b7 Claude-Code \u5f0f TUI \u00b7 d1 \u81ea\u4e3b\u51b3\u5b9a\u4f55\u65f6\u54a8\u8be2\u4e91\u7aef LLM | Fast browser a",
     "id": "CyanXLab/fast-browser-use-d1",
     "language": "Python",
@@ -54,15 +72,6 @@
     "url": "https://github.com/CyanXLab/fast-browser-use-d1"
   },
   {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 7,
-    "updated_at": "2026-10-24T09:25:29Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
-  },
-  {
     "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
     "id": "xianyu-sheng/Xenon",
     "language": "Python",
@@ -70,15 +79,6 @@
     "stars": 54,
     "updated_at": "2026-10-24T09:23:53Z",
     "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-24T09:22:26Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
@@ -419,7 +419,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 64,
-    "updated_at": "2026-10-24T08:59:03Z",
+    "updated_at": "2026-10-24T09:40:09Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -437,7 +437,7 @@
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 50,
-    "updated_at": "2026-10-24T09:13:20Z",
+    "updated_at": "2026-10-24T09:30:28Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {

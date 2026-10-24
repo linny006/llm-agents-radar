@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-24 09:30 UTC
+> ⏰ Last updated: 2026-10-24 09:40 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [zqc3117/Spotter](https://github.com/zqc3117/Spotter) | 159 | Python | 2026-10-24 | Official codebase for Spotter: Let the Embodied Model Lead, and the VLM Reflect for It |
-| 2 | [b7216309-jpg/little-bot](https://github.com/b7216309-jpg/little-bot) | 0 | JavaScript | 2026-10-24 | A local-first AI companion for Windows: it remembers you, dreams over your day at night, follows up on what matters and  |
-| 3 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 986 | JavaScript | 2026-10-24 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
-| 4 | [memoways/ava-proto1](https://github.com/memoways/ava-proto1) | 0 | TypeScript | 2026-10-24 | Le prototype de l'expérience conversationnelle à partir d'un univers d'un film de fiction |
-| 5 | [Ultra-Guru/Android-Guru-Agent](https://github.com/Ultra-Guru/Android-Guru-Agent) | 11 | Kotlin | 2026-10-24 | 🤖 An autonomous AI agent that lives entirely on your Android device — 109 tools · PRoot Ubuntu terminal · bionic memory  |
-| 6 | [CyanXLab/fast-browser-use-d1](https://github.com/CyanXLab/fast-browser-use-d1) | 0 | Python | 2026-10-24 | ⚡ 3B 决策模型驱动真实浏览器 · LiquidAI d1-3B + llama.cpp 纯 CPU 推理 · 单次前向打分 · Claude-Code 式 TUI · d1 自主决定何时咨询云端 LLM \| Fast browser a |
-| 7 | [lzmd-arch/BioSNN-Plug](https://github.com/lzmd-arch/BioSNN-Plug) | 7 | Python | 2026-10-24 | 脉冲神经网络认知原型：纯局部学习规则（无代理梯度）+ SNN 自主调度 LLM。Spiking neural network cognitive prototype — purely local learning rules (no sur |
-| 8 | [xianyu-sheng/Xenon](https://github.com/xianyu-sheng/Xenon) | 54 | Python | 2026-10-24 | Verifiable AI coding agent harness / 可验证的 AI 编码代理：evidence hash-chain · hollow-answer gate · manual verification checkli |
-| 9 | [kanishka-namdeo/Unown](https://github.com/kanishka-namdeo/Unown) | 0 | TypeScript | 2026-10-24 | The Self-Improving Coding Agent |
+| 1 | [kanishka-namdeo/Unown](https://github.com/kanishka-namdeo/Unown) | 0 | TypeScript | 2026-10-24 | The Self-Improving Coding Agent |
+| 2 | [zqc3117/Spotter](https://github.com/zqc3117/Spotter) | 159 | Python | 2026-10-24 | Official codebase for Spotter: Let the Embodied Model Lead, and the VLM Reflect for It |
+| 3 | [Ultra-Guru/Android-Guru-Agent](https://github.com/Ultra-Guru/Android-Guru-Agent) | 11 | Kotlin | 2026-10-24 | 🤖 An autonomous AI agent that lives entirely on your Android device — 109 tools · PRoot Ubuntu terminal · bionic memory  |
+| 4 | [lzmd-arch/BioSNN-Plug](https://github.com/lzmd-arch/BioSNN-Plug) | 7 | Python | 2026-10-24 | 脉冲神经网络认知原型：纯局部学习规则（无代理梯度）+ SNN 自主调度 LLM。Spiking neural network cognitive prototype — purely local learning rules (no sur |
+| 5 | [b7216309-jpg/little-bot](https://github.com/b7216309-jpg/little-bot) | 0 | JavaScript | 2026-10-24 | A local-first AI companion for Windows: it remembers you, dreams over your day at night, follows up on what matters and  |
+| 6 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 986 | JavaScript | 2026-10-24 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
+| 7 | [memoways/ava-proto1](https://github.com/memoways/ava-proto1) | 0 | TypeScript | 2026-10-24 | Le prototype de l'expérience conversationnelle à partir d'un univers d'un film de fiction |
+| 8 | [CyanXLab/fast-browser-use-d1](https://github.com/CyanXLab/fast-browser-use-d1) | 0 | Python | 2026-10-24 | ⚡ 3B 决策模型驱动真实浏览器 · LiquidAI d1-3B + llama.cpp 纯 CPU 推理 · 单次前向打分 · Claude-Code 式 TUI · d1 自主决定何时咨询云端 LLM \| Fast browser a |
+| 9 | [xianyu-sheng/Xenon](https://github.com/xianyu-sheng/Xenon) | 54 | Python | 2026-10-24 | Verifiable AI coding agent harness / 可验证的 AI 编码代理：evidence hash-chain · hollow-answer gate · manual verification checkli |
 | 10 | [xiongweilin/agent-skills](https://github.com/xiongweilin/agent-skills) | 0 | PowerShell | 2026-10-24 | Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent |
 | 11 | [eshanized/M31A](https://github.com/eshanized/M31A) | 10 | Rust | 2026-10-24 | M31 Autonomous — Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe |
 | 12 | [zeng6125-rgb/suixing](https://github.com/zeng6125-rgb/suixing) | 2 | Kotlin | 2026-10-24 | 随行 Suixing —— 手机端 AI Agent（Android · Kotlin + Compose）：读屏、点按、改文件、跑命令，纯本地、无云同步 |
