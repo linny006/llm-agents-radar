@@ -1,5 +1,140 @@
 [
   {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 15,
+    "updated_at": "2026-10-24T08:29:37Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "\u57fa\u4e8e LangGraph \u7684\u8de8\u5883\u7535\u5546\u591a Agent \u534f\u4f5c\u7cfb\u7edf\uff1a\u5546\u54c1\u5206\u6790 \u2192 AI \u6587\u6848/\u56fe\u7247/\u89c6\u9891\u751f\u6210 \u2192 \u5408\u89c4\u68c0\u67e5 \u2192 Amazon/eBay/Shopify \u520a\u767b\uff0cDevTools \u98ce\u683c\u53ef\u89c2\u6d4b\u5de5\u4f5c\u53f0\u5b9e\u65f6\u5c55\u793a Agent \u534f\u4f5c\u8fc7\u7a0b | L",
+    "id": "JianFeiGan/agent_part",
+    "language": "Python",
+    "name": "JianFeiGan/agent_part",
+    "stars": 17,
+    "updated_at": "2026-10-24T08:28:32Z",
+    "url": "https://github.com/JianFeiGan/agent_part"
+  },
+  {
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 7,
+    "updated_at": "2026-10-24T08:27:29Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
+    "id": "hsaghir/looplet",
+    "language": "Python",
+    "name": "hsaghir/looplet",
+    "stars": 7,
+    "updated_at": "2026-10-24T08:28:14Z",
+    "url": "https://github.com/hsaghir/looplet"
+  },
+  {
+    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
+    "id": "Ultra-Guru/Android-Guru-Agent",
+    "language": "Kotlin",
+    "name": "Ultra-Guru/Android-Guru-Agent",
+    "stars": 11,
+    "updated_at": "2026-10-24T08:24:27Z",
+    "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
+  },
+  {
+    "description": "DeepSeek Harness \u63d2\u4ef6\uff1a\u628a\u4efb\u52a1\u6d3e\u53d1\u7ed9\u672c\u673a ZCode / OpenCode / Qoder / WorkBuddy \u56db\u4e2a AI \u7f16\u7a0b CLI\u3002\u9762\u677f\u53ef\u76d1\u89c6/\u7ec8\u6b62/\u7eed\u8dd1\uff0c\u5355\u5199\u8005\u6587\u4ef6\u9501 + \u7528\u91cf\u53f0\u8d26 + \u6309\u989d\u5ea6\u81ea\u52a8\u964d\u7ea7\uff1b\u8d70\u5b98\u65b9 C",
+    "id": "Shuffle-1992/dsh-dispatch",
+    "language": "JavaScript",
+    "name": "Shuffle-1992/dsh-dispatch",
+    "stars": 5,
+    "updated_at": "2026-10-24T08:23:42Z",
+    "url": "https://github.com/Shuffle-1992/dsh-dispatch"
+  },
+  {
+    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
+    "id": "zeng6125-rgb/suixing",
+    "language": "Kotlin",
+    "name": "zeng6125-rgb/suixing",
+    "stars": 2,
+    "updated_at": "2026-10-24T08:23:31Z",
+    "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-24T08:22:29Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "\u628a\u56e2\u961f\u6587\u6863\u53d8\u6210 Agent \u7684 SOP\uff0c\u53ea\u7528\u4f60\u6279\u51c6\u8fc7\u7684\u53ea\u8bfb\u5de5\u5177\u67e5\u771f\u5b9e\u6570\u636e \u00b7 Turn team docs into agent SOPs, executed with admin-approved read-only tools",
+    "id": "wangyd1988/doc2sop",
+    "language": "Python",
+    "name": "wangyd1988/doc2sop",
+    "stars": 2,
+    "updated_at": "2026-10-24T08:22:19Z",
+    "url": "https://github.com/wangyd1988/doc2sop"
+  },
+  {
+    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
+    "id": "xiongweilin/agent-skills",
+    "language": "PowerShell",
+    "name": "xiongweilin/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-24T08:22:09Z",
+    "url": "https://github.com/xiongweilin/agent-skills"
+  },
+  {
+    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
+    "id": "memoways/ava-proto1",
+    "language": "TypeScript",
+    "name": "memoways/ava-proto1",
+    "stars": 0,
+    "updated_at": "2026-10-24T08:19:02Z",
+    "url": "https://github.com/memoways/ava-proto1"
+  },
+  {
+    "description": "CE \u6267\u884c\u5916\u9aa8\u9abc\uff1a\u8ba9\u5c0f\u6a21\u578b\u5728 8K \u4e0a\u4e0b\u6587\u91cc\u5e72\u5b8c 32K \u7684\u6d3b\u3002\u5355\u6587\u4ef6\u3001\u7eaf\u6807\u51c6\u5e93\u3001\u96f6\u4f9d\u8d56\uff1b\u9632\u5e7b\u89c9\u5b88\u536b\u3001\u5206\u6bb5\u5582\u517b\u3001\u65ad\u70b9\u56de\u6eda\u3001\u9884\u7b97\u7194\u65ad\u3002AGPL-3.0\u3002\u5df2\u5728 qwen3-9B / 8192 \u4e0a\u4e0b\u6587 / RTX 2070S \u4e0a\u9a8c\u8bc1\u3002",
+    "id": "zhugeweimu/CE-NeuroFusion",
+    "language": "Python",
+    "name": "zhugeweimu/CE-NeuroFusion",
+    "stars": 0,
+    "updated_at": "2026-10-24T08:18:49Z",
+    "url": "https://github.com/zhugeweimu/CE-NeuroFusion"
+  },
+  {
+    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
+    "id": "kyleslight/shun",
+    "language": "TypeScript",
+    "name": "kyleslight/shun",
+    "stars": 7,
+    "updated_at": "2026-10-24T08:18:16Z",
+    "url": "https://github.com/kyleslight/shun"
+  },
+  {
+    "description": "\u9762\u5411 A \u80a1\u7684\u65e5\u9891\u91cf\u5316\u7814\u7a76\u4e0e\u56de\u6d4b\u5f15\u64ce\uff0c\u652f\u6301\u4f20\u7edf\u56e0\u5b50 + ML\u63a8\u7406 + Python\u51fd\u6570\u6df7\u5408\u7b56\u7565",
+    "id": "netube99/ddup",
+    "language": "Python",
+    "name": "netube99/ddup",
+    "stars": 3,
+    "updated_at": "2026-10-24T08:16:56Z",
+    "url": "https://github.com/netube99/ddup"
+  },
+  {
+    "description": "Community registry of AI agent manifests, capabilities, skills, and workflows for Octomind \u2014 run a fully-configured spec",
+    "id": "Muvon/octomind-tap",
+    "language": "Python",
+    "name": "Muvon/octomind-tap",
+    "stars": 5,
+    "updated_at": "2026-10-24T08:16:03Z",
+    "url": "https://github.com/Muvon/octomind-tap"
+  },
+  {
     "description": "\u5b8c\u7f8e\u590d\u523b\u84b8\u998f\u6280\u80fd\uff1a\u53cc\u5f15\u64ce\u84b8\u998f\u4f5c\u8005\u6587\u98ce\uff08\u601d\u7ef4\u5f15\u64ce+\u5199\u4f5c\u5f15\u64ce\uff09\uff0c\u751f\u6210\u53ef\u5b89\u88c5\u7684\u5199\u4f5c\u5206\u8eab\uff0c\u53cc\u91cd\u590d\u68c0\u4fdd\u5230\u9aa8\u5b50\u91cc\u7684\u50cf\u3002WorkBuddy \u6280\u80fd\u3002",
     "id": "mcm369568095-hash/perfectly-replicate-writing-skills",
     "language": "\u2014",
@@ -32,44 +167,8 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-10-24T08:12:49Z",
+    "updated_at": "2026-10-24T08:29:16Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
-    "id": "memoways/ava-proto1",
-    "language": "TypeScript",
-    "name": "memoways/ava-proto1",
-    "stars": 0,
-    "updated_at": "2026-10-24T08:12:22Z",
-    "url": "https://github.com/memoways/ava-proto1"
-  },
-  {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 7,
-    "updated_at": "2026-10-24T08:11:58Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
-  },
-  {
-    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
-    "id": "hsaghir/looplet",
-    "language": "Python",
-    "name": "hsaghir/looplet",
-    "stars": 7,
-    "updated_at": "2026-10-24T08:13:19Z",
-    "url": "https://github.com/hsaghir/looplet"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 15,
-    "updated_at": "2026-10-24T08:12:42Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "\u26a1 3B \u51b3\u7b56\u6a21\u578b\u9a71\u52a8\u771f\u5b9e\u6d4f\u89c8\u5668 \u00b7 LiquidAI d1-3B + llama.cpp \u7eaf CPU \u63a8\u7406 \u00b7 \u5355\u6b21\u524d\u5411\u6253\u5206 \u00b7 Claude-Code \u5f0f TUI \u00b7 d1 \u81ea\u4e3b\u51b3\u5b9a\u4f55\u65f6\u54a8\u8be2\u4e91\u7aef LLM | Fast browser a",
@@ -81,15 +180,6 @@
     "url": "https://github.com/CyanXLab/fast-browser-use-d1"
   },
   {
-    "description": "CE \u6267\u884c\u5916\u9aa8\u9abc\uff1a\u8ba9\u5c0f\u6a21\u578b\u5728 8K \u4e0a\u4e0b\u6587\u91cc\u5e72\u5b8c 32K \u7684\u6d3b\u3002\u5355\u6587\u4ef6\u3001\u7eaf\u6807\u51c6\u5e93\u3001\u96f6\u4f9d\u8d56\uff1b\u9632\u5e7b\u89c9\u5b88\u536b\u3001\u5206\u6bb5\u5582\u517b\u3001\u65ad\u70b9\u56de\u6eda\u3001\u9884\u7b97\u7194\u65ad\u3002AGPL-3.0\u3002\u5df2\u5728 qwen3-9B / 8192 \u4e0a\u4e0b\u6587 / RTX 2070S \u4e0a\u9a8c\u8bc1\u3002",
-    "id": "zhugeweimu/CE-NeuroFusion",
-    "language": "Python",
-    "name": "zhugeweimu/CE-NeuroFusion",
-    "stars": 0,
-    "updated_at": "2026-10-24T08:09:05Z",
-    "url": "https://github.com/zhugeweimu/CE-NeuroFusion"
-  },
-  {
     "description": "Self-hosted AI agent living inside Zalo (personal account). Multi-account, 15 tools + external MCP servers, web dashboar",
     "id": "vuhai2002/zalo-agent",
     "language": "TypeScript",
@@ -97,15 +187,6 @@
     "stars": 10,
     "updated_at": "2026-10-24T08:02:49Z",
     "url": "https://github.com/vuhai2002/zalo-agent"
-  },
-  {
-    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
-    "id": "zeng6125-rgb/suixing",
-    "language": "Kotlin",
-    "name": "zeng6125-rgb/suixing",
-    "stars": 2,
-    "updated_at": "2026-10-24T08:02:16Z",
-    "url": "https://github.com/zeng6125-rgb/suixing"
   },
   {
     "description": "\u591c\u79e3PPT\u5de5\u574a\uff1a\u7ed9\u4e00\u4e2a\u6807\u9898\uff0c\u51fa\u54c1\u53ef\u7f16\u8f91 PPTX\uff0817\u79cd\u8bbe\u8ba1\u98ce\u683c\u00b720\u79cd\u7248\u5f0f\u00b7\u914d\u56fe\u5168\u5305\uff09\u3002\u652f\u4ed8\u5b9d\u6309\u6b21 9.90 \u5143/\u518c\u3002\u670d\u52a1\u7aef\u5728\u4e2d\u56fd\u5927\u9646\uff0c\u6d77\u5916\u7f51\u7edc\u4e0d\u53ef\u7528\u3002WorkBuddy/OpenClaw \u6280\u80fd\u3002",
@@ -124,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T08:01:54Z",
     "url": "https://github.com/mcm369568095-hash/yemo-ip"
-  },
-  {
-    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
-    "id": "kyleslight/shun",
-    "language": "TypeScript",
-    "name": "kyleslight/shun",
-    "stars": 7,
-    "updated_at": "2026-10-24T07:59:25Z",
-    "url": "https://github.com/kyleslight/shun"
   },
   {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
@@ -171,6 +243,15 @@
     "url": "https://github.com/DominikSienkiewicz/StockAgent"
   },
   {
+    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
+    "id": "wuyhong715/rikkahub-agent-pure",
+    "language": "Kotlin",
+    "name": "wuyhong715/rikkahub-agent-pure",
+    "stars": 64,
+    "updated_at": "2026-10-24T08:24:59Z",
+    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
+  },
+  {
     "description": "Make any agent harness token-native.",
     "id": "Lawhy/tokin",
     "language": "Python",
@@ -178,15 +259,6 @@
     "stars": 7,
     "updated_at": "2026-10-24T07:49:06Z",
     "url": "https://github.com/Lawhy/tokin"
-  },
-  {
-    "description": "DeepSeek Harness \u63d2\u4ef6\uff1a\u628a\u4efb\u52a1\u6d3e\u53d1\u7ed9\u672c\u673a ZCode / OpenCode / Qoder / WorkBuddy \u56db\u4e2a AI \u7f16\u7a0b CLI\u3002\u9762\u677f\u53ef\u76d1\u89c6/\u7ec8\u6b62/\u7eed\u8dd1\uff0c\u5355\u5199\u8005\u6587\u4ef6\u9501 + \u7528\u91cf\u53f0\u8d26 + \u6309\u989d\u5ea6\u81ea\u52a8\u964d\u7ea7\uff1b\u8d70\u5b98\u65b9 C",
-    "id": "Shuffle-1992/dsh-dispatch",
-    "language": "JavaScript",
-    "name": "Shuffle-1992/dsh-dispatch",
-    "stars": 5,
-    "updated_at": "2026-10-24T07:49:02Z",
-    "url": "https://github.com/Shuffle-1992/dsh-dispatch"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -198,15 +270,6 @@
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
-    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
-    "id": "xiongweilin/agent-skills",
-    "language": "PowerShell",
-    "name": "xiongweilin/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-24T08:10:03Z",
-    "url": "https://github.com/xiongweilin/agent-skills"
-  },
-  {
     "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
     "id": "zhixuli0406/DuDuClaw",
     "language": "Rust",
@@ -214,15 +277,6 @@
     "stars": 50,
     "updated_at": "2026-10-24T08:03:44Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "Community registry of AI agent manifests, capabilities, skills, and workflows for Octomind \u2014 run a fully-configured spec",
-    "id": "Muvon/octomind-tap",
-    "language": "Python",
-    "name": "Muvon/octomind-tap",
-    "stars": 5,
-    "updated_at": "2026-10-24T07:36:05Z",
-    "url": "https://github.com/Muvon/octomind-tap"
   },
   {
     "description": "Computer Use enhancement plugin for DeepSeek Harness (DSH). \u7eaf JS \u89c6\u89c9\u5dee\u5206\u3001\u7f51\u683c\u4f4d\u7f6e\u7f16\u7801\u3001\u957f\u7a0b\u4efb\u52a1\u95ed\u73af\u4e0e\u4eba\u673a\u5171\u9a7e\u6388\u6743\u3002",
@@ -243,15 +297,6 @@
     "url": "https://github.com/mcm369568095-hash/yemo-diy-pc-builder"
   },
   {
-    "description": "\u628a\u56e2\u961f\u6587\u6863\u53d8\u6210 Agent \u7684 SOP\uff0c\u53ea\u7528\u4f60\u6279\u51c6\u8fc7\u7684\u53ea\u8bfb\u5de5\u5177\u67e5\u771f\u5b9e\u6570\u636e \u00b7 Turn team docs into agent SOPs, executed with admin-approved read-only tools",
-    "id": "wangyd1988/doc2sop",
-    "language": "Python",
-    "name": "wangyd1988/doc2sop",
-    "stars": 2,
-    "updated_at": "2026-10-24T08:13:25Z",
-    "url": "https://github.com/wangyd1988/doc2sop"
-  },
-  {
     "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
     "id": "sindredg/ai-security-platform",
     "language": "Python",
@@ -268,15 +313,6 @@
     "stars": 5,
     "updated_at": "2026-10-24T07:26:04Z",
     "url": "https://github.com/addsumtech/job-hunt"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-24T07:21:23Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "\u8de8\u5de5\u4f5c\u533a\u98ce\u683c\u9002\u5e94\u4e0e\u72ec\u7acb\u4eba\u683c\u5206\u914d\uff1a\u4e3a\u5de5\u4f5c\u533a\u3001\u5bf9\u8bdd\u914d\u7f6e\u5404\u81ea\u98ce\u683c\uff0c\u72ec\u7acb\u5b66\u4e60\u4e0d\u56de\u5199\u5168\u5c40\u4eba\u683c\uff0c\u8bbe\u7f6e\u4fdd\u5b58\u540e\u5373\u65f6\u751f\u6548\u3002\u652f\u6301\u4efb\u610f\u5df2\u6ce8\u518c\u6a21\u578b\u8def\u7531\uff08\u542b\u901a\u8fc7\u5176\u4ed6\u63d2\u4ef6\u63a5\u5165 Codex\u3001Claude Code\uff09\uff0c\u53ef\u9009\u5173\u8054\u5237 B \u7ad9\u5185\u5bb9\u8bb0\u5fc6\u3002",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T06:13:12Z",
     "url": "https://github.com/giridhar1103/NYCynapse.Ai"
-  },
-  {
-    "description": "LLM application engineering projects: RAG, LangGraph Agents, MCP, evaluation, FastAPI, Redis, and deployment.",
-    "id": "justin-zhong/ai-deployment-project",
-    "language": "Python",
-    "name": "justin-zhong/ai-deployment-project",
-    "stars": 0,
-    "updated_at": "2026-10-24T06:12:30Z",
-    "url": "https://github.com/justin-zhong/ai-deployment-project"
-  },
-  {
-    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 9,
-    "updated_at": "2026-10-24T06:01:03Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
-    "description": "Security operations AI agent built with LangGraph, deterministic policy enforcement, human approval, auditable tool use,",
-    "id": "luozhonglzw/cybersec-agent",
-    "language": "Python",
-    "name": "luozhonglzw/cybersec-agent",
-    "stars": 0,
-    "updated_at": "2026-10-24T06:15:36Z",
-    "url": "https://github.com/luozhonglzw/cybersec-agent"
-  },
-  {
-    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
-    "id": "Ultra-Guru/Android-Guru-Agent",
-    "language": "Kotlin",
-    "name": "Ultra-Guru/Android-Guru-Agent",
-    "stars": 11,
-    "updated_at": "2026-10-24T08:04:16Z",
-    "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
   }
 ]
