@@ -1,12 +1,84 @@
 [
   {
+    "description": "HumanStudy-Bench: Towards AI Agent Design for Participant Simulation",
+    "id": "AISmithLab/HumanStudy-Bench",
+    "language": "Python",
+    "name": "AISmithLab/HumanStudy-Bench",
+    "stars": 18,
+    "updated_at": "2026-10-24T17:44:57Z",
+    "url": "https://github.com/AISmithLab/HumanStudy-Bench"
+  },
+  {
     "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
     "id": "zeng6125-rgb/suixing",
     "language": "Kotlin",
     "name": "zeng6125-rgb/suixing",
     "stars": 2,
-    "updated_at": "2026-10-24T17:30:01Z",
+    "updated_at": "2026-10-24T17:42:19Z",
     "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "A unified .NET abstraction layer for multiple Large Language Model (LLM) providers. Nexus-LLM simplifies integration wit",
+    "id": "brutal-45/Nexus-LLM",
+    "language": "Python",
+    "name": "brutal-45/Nexus-LLM",
+    "stars": 0,
+    "updated_at": "2026-10-24T17:41:00Z",
+    "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 7,
+    "updated_at": "2026-10-24T17:40:48Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-10-24T17:38:46Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Security operations AI agent built with LangGraph, deterministic policy enforcement, human approval, auditable tool use,",
+    "id": "luozhonglzw/cybersec-agent",
+    "language": "Python",
+    "name": "luozhonglzw/cybersec-agent",
+    "stars": 0,
+    "updated_at": "2026-10-24T17:38:25Z",
+    "url": "https://github.com/luozhonglzw/cybersec-agent"
+  },
+  {
+    "description": "Zero-dependency Python CLI, GitHub Action, and MCP server scanning untrusted GitHub issues and repositories for prompt i",
+    "id": "doomsday-network/bounty-guard",
+    "language": "Python",
+    "name": "doomsday-network/bounty-guard",
+    "stars": 12,
+    "updated_at": "2026-10-24T17:41:04Z",
+    "url": "https://github.com/doomsday-network/bounty-guard"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-24T17:36:16Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
+    "id": "shimo4228/contemplative-agent",
+    "language": "Python",
+    "name": "shimo4228/contemplative-agent",
+    "stars": 9,
+    "updated_at": "2026-10-24T17:35:29Z",
+    "url": "https://github.com/shimo4228/contemplative-agent"
   },
   {
     "description": "Metacognitive extension suite for Pi coding agent",
@@ -27,15 +99,6 @@
     "url": "https://github.com/bitranox/vnc-remote-control"
   },
   {
-    "description": "A unified .NET abstraction layer for multiple Large Language Model (LLM) providers. Nexus-LLM simplifies integration wit",
-    "id": "brutal-45/Nexus-LLM",
-    "language": "Python",
-    "name": "brutal-45/Nexus-LLM",
-    "stars": 0,
-    "updated_at": "2026-10-24T17:25:57Z",
-    "url": "https://github.com/brutal-45/Nexus-LLM"
-  },
-  {
     "description": "Talk2Stock \u00b7 \u5bf9\u8bdd\u5f0f\u8fdb\u9500\u5b58\u667a\u80fd\u4f53\uff08Conversational ERP Agent\uff09\uff1a\u4e00\u53e5\u8bdd \u2192 \u5355\u636e\u8349\u7a3f \u2192 \u5b57\u6bb5\u6765\u5386\u6807\u6ce8 \u2192 \u4eba\u5de5\u786e\u8ba4 \u2192 \u5199\u5165\u771f\u5b9e ERP\uff0c\u670d\u52a1\u7aef\u5199\u5165\u95f8\u95e8 + \u5ba1\u8ba1\u7559\u75d5 + \u51bb\u7ed3\u8bed\u6599\u8bc4\u6d4b",
     "id": "honlam6/talk2stock",
     "language": "Java",
@@ -43,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T17:25:54Z",
     "url": "https://github.com/honlam6/talk2stock"
-  },
-  {
-    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 9,
-    "updated_at": "2026-10-24T17:28:05Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
   },
   {
     "description": "DeepSeek Harness \u63d2\u4ef6\uff1a\u628a\u4efb\u52a1\u6d3e\u53d1\u7ed9\u672c\u673a ZCode / OpenCode / Qoder / WorkBuddy \u56db\u4e2a AI \u7f16\u7a0b CLI\u3002\u9762\u677f\u53ef\u76d1\u89c6/\u7ec8\u6b62/\u7eed\u8dd1\uff0c\u5355\u5199\u8005\u6587\u4ef6\u9501 + \u7528\u91cf\u53f0\u8d26 + \u6309\u989d\u5ea6\u81ea\u52a8\u964d\u7ea7\uff1b\u8d70\u5b98\u65b9 C",
@@ -108,29 +162,11 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "Zero-dependency Python CLI, GitHub Action, and MCP server scanning untrusted GitHub issues and repositories for prompt i",
-    "id": "doomsday-network/bounty-guard",
-    "language": "Python",
-    "name": "doomsday-network/bounty-guard",
-    "stars": 11,
-    "updated_at": "2026-10-24T17:12:10Z",
-    "url": "https://github.com/doomsday-network/bounty-guard"
-  },
-  {
-    "description": "Security operations AI agent built with LangGraph, deterministic policy enforcement, human approval, auditable tool use,",
-    "id": "luozhonglzw/cybersec-agent",
-    "language": "Python",
-    "name": "luozhonglzw/cybersec-agent",
-    "stars": 0,
-    "updated_at": "2026-10-24T17:10:51Z",
-    "url": "https://github.com/luozhonglzw/cybersec-agent"
-  },
-  {
     "description": "\u26a1 Drop-in SKILL.md, .cursorrules, CLAUDE.md, AGENTS.md & Remote MCP (.mcp.json) pack for Claude Code, Cursor, Windsurf, ",
     "id": "doomsday-network/web3-agent-skills",
     "language": "Python",
     "name": "doomsday-network/web3-agent-skills",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-10-24T17:06:36Z",
     "url": "https://github.com/doomsday-network/web3-agent-skills"
   },
@@ -162,15 +198,6 @@
     "url": "https://github.com/bigfish1913/pi-rust"
   },
   {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 7,
-    "updated_at": "2026-10-24T16:58:23Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
-  },
-  {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
     "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
@@ -193,7 +220,7 @@
     "id": "doomsday-network/github-bounty-scanner",
     "language": "Python",
     "name": "doomsday-network/github-bounty-scanner",
-    "stars": 4,
+    "stars": 5,
     "updated_at": "2026-10-24T16:49:44Z",
     "url": "https://github.com/doomsday-network/github-bounty-scanner"
   },
@@ -211,7 +238,7 @@
     "id": "doomsday-network/doomsday",
     "language": "Python",
     "name": "doomsday-network/doomsday",
-    "stars": 12,
+    "stars": 13,
     "updated_at": "2026-10-24T16:44:32Z",
     "url": "https://github.com/doomsday-network/doomsday"
   },
@@ -239,7 +266,7 @@
     "language": "Python",
     "name": "davud-d/Kvist",
     "stars": 2,
-    "updated_at": "2026-10-24T16:35:19Z",
+    "updated_at": "2026-10-24T17:40:35Z",
     "url": "https://github.com/davud-d/Kvist"
   },
   {
@@ -315,15 +342,6 @@
     "url": "https://github.com/dotcomjack/grux"
   },
   {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-24T16:51:36Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "\u53ef\u6269\u5c55\u7684\u672c\u5730 AI Agent\uff1a\u6a21\u5757\u94fe\u5185\u6838 + \u63d2\u4ef6\u7cfb\u7edf + \u4e0a\u4e0b\u6587\u7ba1\u7406 + \u5de5\u5177\u6267\u884c + Web \u754c\u9762\u3002",
     "id": "diky87688973/ai-agent",
     "language": "Python",
@@ -347,7 +365,7 @@
     "language": "TypeScript",
     "name": "TomKoren1/Sightline",
     "stars": 0,
-    "updated_at": "2026-10-24T17:27:04Z",
+    "updated_at": "2026-10-24T17:39:28Z",
     "url": "https://github.com/TomKoren1/Sightline"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 50,
     "updated_at": "2026-10-24T15:37:49Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "\u628a\u957f\u5bf9\u8bdd\u7684\u91cd\u590d\u8ba1\u8d39\u780d\u6389\u4e00\u534a\uff0c\u5e76\u7ed9\u6a21\u578b\u914d\u4e00\u540d\u53ea\u8bfb\u8c03\u67e5\u5458\uff1a\u5148\u6838\u5b9e\uff0c\u540e\u52a8\u624b\u3002\u9762\u5411 DeepSeek Harness \u7684\u4e0a\u4e0b\u6587\u538b\u7f29\u4e0e\u5916\u7f6e\u63a8\u7406\u63d2\u4ef6\uff08MIT\uff09\u3002",
-    "id": "ScreamingMaggot/rcs-context",
-    "language": "JavaScript",
-    "name": "ScreamingMaggot/rcs-context",
-    "stars": 1,
-    "updated_at": "2026-10-24T15:25:50Z",
-    "url": "https://github.com/ScreamingMaggot/rcs-context"
-  },
-  {
-    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
-    "id": "Ultra-Guru/Android-Guru-Agent",
-    "language": "Kotlin",
-    "name": "Ultra-Guru/Android-Guru-Agent",
-    "stars": 11,
-    "updated_at": "2026-10-24T15:25:21Z",
-    "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
   }
 ]
