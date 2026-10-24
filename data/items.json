@@ -1,5 +1,50 @@
 [
   {
+    "description": "Agent \u81ea\u52a8\u6d4b\u8bd5\u7cfb\u7edf\uff1aLangGraph + LLM \u7f16\u6392\u7684 API/Web UI \u81ea\u52a8\u5316\u6d4b\u8bd5\uff0c\u4ece OpenAPI \u5951\u7ea6\u751f\u6210\u7528\u4f8b\u3001\u6267\u884c\u6d4b\u8bd5\u3001\u81ea\u52a8\u91cd\u8bd5\u4e0e\u7f3a\u9677\u5f52\u56e0\uff0c\u4ea7\u51fa\u53ef\u89c6\u5316\u62a5\u544a",
+    "id": "lefan17/agent-test-hub",
+    "language": "Python",
+    "name": "lefan17/agent-test-hub",
+    "stars": 2,
+    "updated_at": "2026-10-24T13:33:54Z",
+    "url": "https://github.com/lefan17/agent-test-hub"
+  },
+  {
+    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
+    "id": "shimo4228/contemplative-agent",
+    "language": "Python",
+    "name": "shimo4228/contemplative-agent",
+    "stars": 9,
+    "updated_at": "2026-10-24T13:33:37Z",
+    "url": "https://github.com/shimo4228/contemplative-agent"
+  },
+  {
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 7,
+    "updated_at": "2026-10-24T13:31:59Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
+    "id": "yurika0211/lucky-agent",
+    "language": "Go",
+    "name": "yurika0211/lucky-agent",
+    "stars": 15,
+    "updated_at": "2026-10-24T13:32:30Z",
+    "url": "https://github.com/yurika0211/lucky-agent"
+  },
+  {
+    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 54,
+    "updated_at": "2026-10-24T13:30:40Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
     "description": "Personal AI agent built from scratch \u2014 LLM layer, RAG knowledge base, tool calling loop. No frameworks, learn by buildin",
     "id": "Wenyan0315/facta",
     "language": "Python",
@@ -22,18 +67,9 @@
     "id": "langroid/langroid",
     "language": "Python",
     "name": "langroid/langroid",
-    "stars": 4121,
+    "stars": 4120,
     "updated_at": "2026-10-24T13:28:52Z",
     "url": "https://github.com/langroid/langroid"
-  },
-  {
-    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 9,
-    "updated_at": "2026-10-24T13:28:50Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
   },
   {
     "description": "\u771f\u00b7DeepSeek \u8054\u7f51\u641c\u7d22\u4e0e\u6293\u53d6 \u2014\u2014 AstrBot \u63d2\u4ef6\uff1a\u76f4\u8fde DeepSeek \u5b98\u65b9 Search / Fetch \u63a5\u53e3\uff0c\u5185\u7f6e\u4f9d\u8d56\u3001\u53ef\u9010\u884c\u5ba1\u8ba1",
@@ -61,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T13:26:21Z",
     "url": "https://github.com/zhugeweimu/CE-NeuroFusion"
-  },
-  {
-    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 54,
-    "updated_at": "2026-10-24T13:24:45Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
   },
   {
     "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
@@ -212,7 +239,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 993,
-    "updated_at": "2026-10-24T13:27:54Z",
+    "updated_at": "2026-10-24T13:32:03Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -223,15 +250,6 @@
     "stars": 2,
     "updated_at": "2026-10-24T13:03:09Z",
     "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 7,
-    "updated_at": "2026-10-24T13:02:20Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
   },
   {
     "description": "From thought to skill. From signal to structure.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T11:12:20Z",
     "url": "https://github.com/Alwayshere-su/pi-agent"
-  },
-  {
-    "description": "Agent \u81ea\u52a8\u6d4b\u8bd5\u7cfb\u7edf\uff1aLangGraph + LLM \u7f16\u6392\u7684 API/Web UI \u81ea\u52a8\u5316\u6d4b\u8bd5\uff0c\u4ece OpenAPI \u5951\u7ea6\u751f\u6210\u7528\u4f8b\u3001\u6267\u884c\u6d4b\u8bd5\u3001\u81ea\u52a8\u91cd\u8bd5\u4e0e\u7f3a\u9677\u5f52\u56e0\uff0c\u4ea7\u51fa\u53ef\u89c6\u5316\u62a5\u544a",
-    "id": "lefan17/agent-test-hub",
-    "language": "Python",
-    "name": "lefan17/agent-test-hub",
-    "stars": 2,
-    "updated_at": "2026-10-24T11:07:07Z",
-    "url": "https://github.com/lefan17/agent-test-hub"
-  },
-  {
-    "description": "\u628a DeepSeek Harness \u6253\u5305\u6210\u72ec\u7acb Android \u5e94\u7528\uff1a\u81ea\u5e26 Node \u8fd0\u884c\u65f6\uff0c\u88c5\u4e2a APK \u5c31\u80fd\u7528\u3002\u4e0d\u9700\u8981 Termux\u3001\u4e0d\u9700\u8981 proot\u3001\u4e0d\u9700\u8981 root\u3001\u4e0d\u9700\u8981\u7535\u8111\u3002\u5185\u542b\u5b8c\u6574\u7684 Android \u5e73\u53f0\u9002\u914d\u8e29\u5751\u8bb0\u5f55\uff08se",
-    "id": "yhm080315-sudo/dsh-android",
-    "language": "Java",
-    "name": "yhm080315-sudo/dsh-android",
-    "stars": 18,
-    "updated_at": "2026-10-24T11:03:57Z",
-    "url": "https://github.com/yhm080315-sudo/dsh-android"
   }
 ]
