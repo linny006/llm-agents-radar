@@ -1,12 +1,111 @@
 [
   {
+    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 54,
+    "updated_at": "2026-10-24T12:58:19Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "CE \u6267\u884c\u5916\u9aa8\u9abc\uff1a\u8ba9\u5c0f\u6a21\u578b\u5728 8K \u4e0a\u4e0b\u6587\u91cc\u5e72\u5b8c 32K \u7684\u6d3b\u3002\u5355\u6587\u4ef6\u3001\u7eaf\u6807\u51c6\u5e93\u3001\u96f6\u4f9d\u8d56\uff1b\u9632\u5e7b\u89c9\u5b88\u536b\u3001\u5206\u6bb5\u5582\u517b\u3001\u65ad\u70b9\u56de\u6eda\u3001\u9884\u7b97\u7194\u65ad\u3002AGPL-3.0\u3002\u5df2\u5728 qwen3-9B / 8192 \u4e0a\u4e0b\u6587 / RTX 2070S \u4e0a\u9a8c\u8bc1\u3002",
+    "id": "zhugeweimu/CE-NeuroFusion",
+    "language": "Python",
+    "name": "zhugeweimu/CE-NeuroFusion",
+    "stars": 0,
+    "updated_at": "2026-10-24T12:57:56Z",
+    "url": "https://github.com/zhugeweimu/CE-NeuroFusion"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 991,
+    "updated_at": "2026-10-24T12:59:50Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
     "description": "The Self-Improving Coding Agent",
     "id": "kanishka-namdeo/Unown",
     "language": "TypeScript",
     "name": "kanishka-namdeo/Unown",
     "stars": 0,
-    "updated_at": "2026-10-24T12:42:54Z",
+    "updated_at": "2026-10-24T12:53:54Z",
     "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
+    "id": "shimo4228/contemplative-agent",
+    "language": "Python",
+    "name": "shimo4228/contemplative-agent",
+    "stars": 9,
+    "updated_at": "2026-10-24T12:53:08Z",
+    "url": "https://github.com/shimo4228/contemplative-agent"
+  },
+  {
+    "description": "\u9762\u5411 A \u80a1\u7684\u65e5\u9891\u91cf\u5316\u7814\u7a76\u4e0e\u56de\u6d4b\u5f15\u64ce\uff0c\u652f\u6301\u4f20\u7edf\u56e0\u5b50 + ML\u63a8\u7406 + Python\u51fd\u6570\u6df7\u5408\u7b56\u7565",
+    "id": "netube99/ddup",
+    "language": "Python",
+    "name": "netube99/ddup",
+    "stars": 3,
+    "updated_at": "2026-10-24T12:52:01Z",
+    "url": "https://github.com/netube99/ddup"
+  },
+  {
+    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
+    "id": "memoways/ava-proto1",
+    "language": "TypeScript",
+    "name": "memoways/ava-proto1",
+    "stars": 0,
+    "updated_at": "2026-10-24T12:49:25Z",
+    "url": "https://github.com/memoways/ava-proto1"
+  },
+  {
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 7,
+    "updated_at": "2026-10-24T12:48:43Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8938,
+    "updated_at": "2026-10-24T12:47:14Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-24T12:46:59Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
+    "id": "Ultra-Guru/Android-Guru-Agent",
+    "language": "Kotlin",
+    "name": "Ultra-Guru/Android-Guru-Agent",
+    "stars": 11,
+    "updated_at": "2026-10-24T12:52:48Z",
+    "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
+  },
+  {
+    "description": "\ud83d\udcda \u6301\u7eed\u751f\u957f\u7684\u540e\u7aef\u00d7AI \u751f\u4ea7\u7ea7\u77e5\u8bc6\u4f53\u7cfb\uff5c\u6bcf\u7bc7\u4ece\u4e0a\u7ebf\u4ee3\u7801\u56de\u5199\uff0c\u771f\u5b9e\u7c7b\u540d\u53ef\u70b9\u51fb\u9a8c\u8bc1 \u00b7 \u8ffd\u95ee\u94fe\u5f0f\u6df1\u5ea6\u6807\u5c3a\uff1a\u7b54\u6848\u7ecf\u5f97\u8d77\u9762\u8bd5\u5b98\u8fde\u73af\u8ffd\u95ee \u00b7 \u6574\u5e93\u5de5\u7a0b\u5316\u6cbb\u7406\uff1akb-upkeep \u811a\u672c\u4f53\u68c0\u96f6\u7a7a\u58f3\u96f6\u6b7b\u94fe + \u914d\u56fe\u5168\u672c\u5730\u5316 + VitePress \u7535\u5b50\u4e66",
+    "id": "Mein-Augenstern/MUYI",
+    "language": "JavaScript",
+    "name": "Mein-Augenstern/MUYI",
+    "stars": 11,
+    "updated_at": "2026-10-24T12:46:02Z",
+    "url": "https://github.com/Mein-Augenstern/MUYI"
   },
   {
     "description": "\u53ef\u6269\u5c55\u7684\u672c\u5730 AI Agent\uff1a\u6a21\u5757\u94fe\u5185\u6838 + \u63d2\u4ef6\u7cfb\u7edf + \u4e0a\u4e0b\u6587\u7ba1\u7406 + \u5de5\u5177\u6267\u884c + Web \u754c\u9762\u3002",
@@ -25,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T12:40:06Z",
     "url": "https://github.com/sindredg/ai-security-platform"
-  },
-  {
-    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 9,
-    "updated_at": "2026-10-24T12:40:21Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -81,15 +171,6 @@
     "url": "https://github.com/Shuffle-1992/dsh-dispatch"
   },
   {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 7,
-    "updated_at": "2026-10-24T12:26:53Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
-  },
-  {
     "description": "[NeurIPS 2024 D&B] GTA: A Benchmark for General Tool Agents & [arXiv 2026] GTA-2",
     "id": "open-compass/GTA",
     "language": "Python",
@@ -104,7 +185,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-24T12:25:26Z",
+    "updated_at": "2026-10-24T12:59:16Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -124,15 +205,6 @@
     "stars": 6,
     "updated_at": "2026-10-24T12:12:00Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
-    "id": "Ultra-Guru/Android-Guru-Agent",
-    "language": "Kotlin",
-    "name": "Ultra-Guru/Android-Guru-Agent",
-    "stars": 11,
-    "updated_at": "2026-10-24T12:42:29Z",
-    "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
@@ -171,15 +243,6 @@
     "url": "https://github.com/kifirkin/pi-braid"
   },
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 988,
-    "updated_at": "2026-10-24T12:40:06Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
     "description": "Harness LLMs with Multi-Agent Programming",
     "id": "langroid/langroid",
     "language": "Python",
@@ -196,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T11:47:23Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-24T11:45:48Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "A complete QQ chatbot framework: social simulation, layered memory, persona engineering and cross-conversation context. ",
@@ -238,18 +292,9 @@
     "id": "410979729/scope-recall-hermes",
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
-    "stars": 460,
+    "stars": 461,
     "updated_at": "2026-10-24T11:29:29Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "CE \u6267\u884c\u5916\u9aa8\u9abc\uff1a\u8ba9\u5c0f\u6a21\u578b\u5728 8K \u4e0a\u4e0b\u6587\u91cc\u5e72\u5b8c 32K \u7684\u6d3b\u3002\u5355\u6587\u4ef6\u3001\u7eaf\u6807\u51c6\u5e93\u3001\u96f6\u4f9d\u8d56\uff1b\u9632\u5e7b\u89c9\u5b88\u536b\u3001\u5206\u6bb5\u5582\u517b\u3001\u65ad\u70b9\u56de\u6eda\u3001\u9884\u7b97\u7194\u65ad\u3002AGPL-3.0\u3002\u5df2\u5728 qwen3-9B / 8192 \u4e0a\u4e0b\u6587 / RTX 2070S \u4e0a\u9a8c\u8bc1\u3002",
-    "id": "zhugeweimu/CE-NeuroFusion",
-    "language": "Python",
-    "name": "zhugeweimu/CE-NeuroFusion",
-    "stars": 0,
-    "updated_at": "2026-10-24T11:27:03Z",
-    "url": "https://github.com/zhugeweimu/CE-NeuroFusion"
   },
   {
     "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
@@ -329,7 +374,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 15,
-    "updated_at": "2026-10-24T11:57:03Z",
+    "updated_at": "2026-10-24T12:57:21Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T10:09:06Z",
     "url": "https://github.com/giridhar1103/NYCynapse.Ai"
-  },
-  {
-    "description": "One poisoned document hijacks Google's Gemini 3.1 Pro agent: it scans your Drive, harvests secret-shaped keys, plants pe",
-    "id": "alaremawi07-jpg/agentic-rce-gemini",
-    "language": "\u2014",
-    "name": "alaremawi07-jpg/agentic-rce-gemini",
-    "stars": 0,
-    "updated_at": "2026-10-24T10:05:28Z",
-    "url": "https://github.com/alaremawi07-jpg/agentic-rce-gemini"
-  },
-  {
-    "description": "Official codebase for Spotter: Let the Embodied Model Lead, and the VLM Reflect for It",
-    "id": "zqc3117/Spotter",
-    "language": "Python",
-    "name": "zqc3117/Spotter",
-    "stars": 159,
-    "updated_at": "2026-10-24T09:37:00Z",
-    "url": "https://github.com/zqc3117/Spotter"
-  },
-  {
-    "description": "A local-first AI companion for Windows: it remembers you, dreams over your day at night, follows up on what matters and ",
-    "id": "b7216309-jpg/little-bot",
-    "language": "JavaScript",
-    "name": "b7216309-jpg/little-bot",
-    "stars": 0,
-    "updated_at": "2026-10-24T09:28:38Z",
-    "url": "https://github.com/b7216309-jpg/little-bot"
-  },
-  {
-    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
-    "id": "memoways/ava-proto1",
-    "language": "TypeScript",
-    "name": "memoways/ava-proto1",
-    "stars": 0,
-    "updated_at": "2026-10-24T09:27:07Z",
-    "url": "https://github.com/memoways/ava-proto1"
-  },
-  {
-    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 54,
-    "updated_at": "2026-10-24T09:23:53Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
   }
 ]
