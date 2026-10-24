@@ -1,5 +1,50 @@
 [
   {
+    "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
+    "id": "Shuffle-1992/dsh-context-pilot",
+    "language": "JavaScript",
+    "name": "Shuffle-1992/dsh-context-pilot",
+    "stars": 3,
+    "updated_at": "2026-10-24T04:12:30Z",
+    "url": "https://github.com/Shuffle-1992/dsh-context-pilot"
+  },
+  {
+    "description": "Enterprise Data Agent: NL \u2192 contract-bound DSL \u2192 deterministic SQL \u2192 DuckDB. StateGraph orchestration, sandboxed analysi",
+    "id": "Cwentor/DataAgent",
+    "language": "Python",
+    "name": "Cwentor/DataAgent",
+    "stars": 2,
+    "updated_at": "2026-10-24T04:10:47Z",
+    "url": "https://github.com/Cwentor/DataAgent"
+  },
+  {
+    "description": "A Lisp, a page and an agent sharing one running program. Clojure-dialect Lisp compiled to WebAssembly in the browser, wi",
+    "id": "tobiasosborne/lively",
+    "language": "JavaScript",
+    "name": "tobiasosborne/lively",
+    "stars": 0,
+    "updated_at": "2026-10-24T04:02:35Z",
+    "url": "https://github.com/tobiasosborne/lively"
+  },
+  {
+    "description": "Voyager \u00d7 VLML \u00d7 \u732b\u5a18\u4f34\u5b66\uff1a\u628a\u300c\u5b66\u4e60\u8005\u300d\u6362\u6210 agent \u7684\u6700\u5c0f\u53ef\u6267\u884c\u539f\u578b\uff08\u9762\u677f\u5df2\u4e0a\u817e\u8baf\u4e91\uff09",
+    "id": "Zxy876/voyager-vlml-mve",
+    "language": "Python",
+    "name": "Zxy876/voyager-vlml-mve",
+    "stars": 2,
+    "updated_at": "2026-10-24T04:02:11Z",
+    "url": "https://github.com/Zxy876/voyager-vlml-mve"
+  },
+  {
+    "description": "A Python agent framework (~3,400 lines of logic) which not only can be operated by human but also AI themselves.",
+    "id": "IntelligenismCommercialDevelopment-LLC/intelligenism-agent-framework",
+    "language": "Python",
+    "name": "IntelligenismCommercialDevelopment-LLC/intelligenism-agent-framework",
+    "stars": 1,
+    "updated_at": "2026-10-24T04:00:50Z",
+    "url": "https://github.com/IntelligenismCommercialDevelopment-LLC/intelligenism-agent-framework"
+  },
+  {
     "description": "A local-only ReAct agent running on Ollama, with no agent framework. Hand-rolled loop, typed tools, a real filesystem sa",
     "id": "mntoyg/OmniAgent",
     "language": "Python",
@@ -16,15 +61,6 @@
     "stars": 12,
     "updated_at": "2026-10-24T03:57:25Z",
     "url": "https://github.com/alexwkleung/reika"
-  },
-  {
-    "description": "Voyager \u00d7 VLML \u00d7 \u732b\u5a18\u4f34\u5b66\uff1a\u628a\u300c\u5b66\u4e60\u8005\u300d\u6362\u6210 agent \u7684\u6700\u5c0f\u53ef\u6267\u884c\u539f\u578b\uff08\u9762\u677f\u5df2\u4e0a\u817e\u8baf\u4e91\uff09",
-    "id": "Zxy876/voyager-vlml-mve",
-    "language": "Python",
-    "name": "Zxy876/voyager-vlml-mve",
-    "stars": 2,
-    "updated_at": "2026-10-24T03:56:16Z",
-    "url": "https://github.com/Zxy876/voyager-vlml-mve"
   },
   {
     "description": "Zero-touch policy enforcement for MCP servers: an in-process guard that needs no server code changes, plus secret stand-",
@@ -59,7 +95,7 @@
     "language": "PowerShell",
     "name": "xiongweilin/agent-skills",
     "stars": 0,
-    "updated_at": "2026-10-24T03:50:54Z",
+    "updated_at": "2026-10-24T04:06:49Z",
     "url": "https://github.com/xiongweilin/agent-skills"
   },
   {
@@ -68,7 +104,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-24T03:46:43Z",
+    "updated_at": "2026-10-24T04:04:12Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -176,7 +212,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-24T03:10:10Z",
+    "updated_at": "2026-10-24T04:07:01Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -248,7 +284,7 @@
     "language": "Kotlin",
     "name": "Ultra-Guru/Android-Guru-Agent",
     "stars": 11,
-    "updated_at": "2026-10-24T03:45:26Z",
+    "updated_at": "2026-10-24T04:14:16Z",
     "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
   },
   {
@@ -266,7 +302,7 @@
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 457,
-    "updated_at": "2026-10-24T03:43:22Z",
+    "updated_at": "2026-10-24T04:12:43Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T00:38:22Z",
     "url": "https://github.com/shineyyxd/ai-research-copilot"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 14,
-    "updated_at": "2026-10-24T03:56:16Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "The LLM Anti-Framework",
-    "id": "Mirascope/mirascope",
-    "language": "Python",
-    "name": "Mirascope/mirascope",
-    "stars": 1535,
-    "updated_at": "2026-10-24T00:32:41Z",
-    "url": "https://github.com/Mirascope/mirascope"
-  },
-  {
-    "description": "Open-source AIMO3 math reasoning agent for vLLM and OpenAI-compatible models, with Python verification and consensus vot",
-    "id": "xufenghe/aimo3-agentic-inference",
-    "language": "Python",
-    "name": "xufenghe/aimo3-agentic-inference",
-    "stars": 0,
-    "updated_at": "2026-10-24T00:30:39Z",
-    "url": "https://github.com/xufenghe/aimo3-agentic-inference"
-  },
-  {
-    "description": "DSB (\u9017\u6c99\u5305): an open-source, trust-first Android AI agent. Delegate app chores on a background virtual display, with execu",
-    "id": "tianye1999/dsb",
-    "language": "Python",
-    "name": "tianye1999/dsb",
-    "stars": 1,
-    "updated_at": "2026-10-24T00:27:26Z",
-    "url": "https://github.com/tianye1999/dsb"
   }
 ]
