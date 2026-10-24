@@ -1,12 +1,75 @@
 [
   {
+    "description": "\ud83c\udf3f Describe it. Kvist builds it. Your code, your machine, your rules: a sandboxed coding agent that plans, edits, tests a",
+    "id": "davud-d/Kvist",
+    "language": "Python",
+    "name": "davud-d/Kvist",
+    "stars": 1,
+    "updated_at": "2026-10-24T12:29:39Z",
+    "url": "https://github.com/davud-d/Kvist"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-24T12:29:25Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
     "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
     "id": "shimo4228/contemplative-agent",
     "language": "Python",
     "name": "shimo4228/contemplative-agent",
     "stars": 9,
-    "updated_at": "2026-10-24T12:14:52Z",
+    "updated_at": "2026-10-24T12:29:36Z",
     "url": "https://github.com/shimo4228/contemplative-agent"
+  },
+  {
+    "description": "DeepSeek Harness \u63d2\u4ef6\uff1a\u628a\u4efb\u52a1\u6d3e\u53d1\u7ed9\u672c\u673a ZCode / OpenCode / Qoder / WorkBuddy \u56db\u4e2a AI \u7f16\u7a0b CLI\u3002\u9762\u677f\u53ef\u76d1\u89c6/\u7ec8\u6b62/\u7eed\u8dd1\uff0c\u5355\u5199\u8005\u6587\u4ef6\u9501 + \u7528\u91cf\u53f0\u8d26 + \u6309\u989d\u5ea6\u81ea\u52a8\u964d\u7ea7\uff1b\u8d70\u5b98\u65b9 C",
+    "id": "Shuffle-1992/dsh-dispatch",
+    "language": "JavaScript",
+    "name": "Shuffle-1992/dsh-dispatch",
+    "stars": 5,
+    "updated_at": "2026-10-24T12:27:17Z",
+    "url": "https://github.com/Shuffle-1992/dsh-dispatch"
+  },
+  {
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 7,
+    "updated_at": "2026-10-24T12:26:53Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "[NeurIPS 2024 D&B] GTA: A Benchmark for General Tool Agents & [arXiv 2026] GTA-2",
+    "id": "open-compass/GTA",
+    "language": "Python",
+    "name": "open-compass/GTA",
+    "stars": 153,
+    "updated_at": "2026-10-24T12:24:37Z",
+    "url": "https://github.com/open-compass/GTA"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-24T12:25:26Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "DevOps & Cloud SI Assistant that runs locally on taraengine for complete privacy.",
+    "id": "tara-vision/taracode",
+    "language": "Go",
+    "name": "tara-vision/taracode",
+    "stars": 51,
+    "updated_at": "2026-10-24T12:29:08Z",
+    "url": "https://github.com/tara-vision/taracode"
   },
   {
     "description": "\u53ef\u6269\u5c55\u7684\u672c\u5730 AI Agent\uff1a\u6a21\u5757\u94fe\u5185\u6838 + \u63d2\u4ef6\u7cfb\u7edf + \u4e0a\u4e0b\u6587\u7ba1\u7406 + \u5de5\u5177\u6267\u884c + Web \u754c\u9762\u3002",
@@ -32,7 +95,7 @@
     "language": "Kotlin",
     "name": "Ultra-Guru/Android-Guru-Agent",
     "stars": 11,
-    "updated_at": "2026-10-24T12:13:07Z",
+    "updated_at": "2026-10-24T12:28:02Z",
     "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
   },
   {
@@ -77,7 +140,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 988,
-    "updated_at": "2026-10-24T12:11:43Z",
+    "updated_at": "2026-10-24T12:28:40Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -117,15 +180,6 @@
     "url": "https://github.com/ProfYangShengXu/chatfish"
   },
   {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-24T12:05:40Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
     "id": "dkblinux98/nyxGPT",
     "language": "Python",
@@ -133,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T11:35:17Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "DeepSeek Harness \u63d2\u4ef6\uff1a\u628a\u4efb\u52a1\u6d3e\u53d1\u7ed9\u672c\u673a ZCode / OpenCode / Qoder / WorkBuddy \u56db\u4e2a AI \u7f16\u7a0b CLI\u3002\u9762\u677f\u53ef\u76d1\u89c6/\u7ec8\u6b62/\u7eed\u8dd1\uff0c\u5355\u5199\u8005\u6587\u4ef6\u9501 + \u7528\u91cf\u53f0\u8d26 + \u6309\u989d\u5ea6\u81ea\u52a8\u964d\u7ea7\uff1b\u8d70\u5b98\u65b9 C",
-    "id": "Shuffle-1992/dsh-dispatch",
-    "language": "JavaScript",
-    "name": "Shuffle-1992/dsh-dispatch",
-    "stars": 5,
-    "updated_at": "2026-10-24T11:31:18Z",
-    "url": "https://github.com/Shuffle-1992/dsh-dispatch"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -205,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T11:12:20Z",
     "url": "https://github.com/Alwayshere-su/pi-agent"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-24T11:10:53Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "Agent \u81ea\u52a8\u6d4b\u8bd5\u7cfb\u7edf\uff1aLangGraph + LLM \u7f16\u6392\u7684 API/Web UI \u81ea\u52a8\u5316\u6d4b\u8bd5\uff0c\u4ece OpenAPI \u5951\u7ea6\u751f\u6210\u7528\u4f8b\u3001\u6267\u884c\u6d4b\u8bd5\u3001\u81ea\u52a8\u91cd\u8bd5\u4e0e\u7f3a\u9677\u5f52\u56e0\uff0c\u4ea7\u51fa\u53ef\u89c6\u5316\u62a5\u544a",
@@ -347,17 +383,8 @@
     "language": "PowerShell",
     "name": "xiongweilin/agent-skills",
     "stars": 0,
-    "updated_at": "2026-10-24T09:58:31Z",
+    "updated_at": "2026-10-24T12:29:17Z",
     "url": "https://github.com/xiongweilin/agent-skills"
-  },
-  {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 7,
-    "updated_at": "2026-10-24T09:44:16Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
   },
   {
     "description": "Official codebase for Spotter: Let the Embodied Model Lead, and the VLM Reflect for It",
@@ -421,32 +448,5 @@
     "stars": 7,
     "updated_at": "2026-10-24T08:57:50Z",
     "url": "https://github.com/hsaghir/looplet"
-  },
-  {
-    "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
-    "id": "sindredg/ai-security-platform",
-    "language": "Python",
-    "name": "sindredg/ai-security-platform",
-    "stars": 0,
-    "updated_at": "2026-10-24T08:48:30Z",
-    "url": "https://github.com/sindredg/ai-security-platform"
-  },
-  {
-    "description": "\ub124\uc774\ubc84 \ud56d\uacf5\uad8c\u00b7\uc2a4\uce74\uc774\uc2a4\uce90\ub108\uc5d0\uc11c \uc9c0\uae08 \uc0b4 \uc218 \uc788\ub294 \ud56d\uacf5\uad8c\uc744 \uc870\ud68c\ud558\ub294 LLM \uc5d0\uc774\uc804\ud2b8\uc6a9 CLI \u00b7 Korean flight search CLI for LLM agents (Naver Flights, Skyscanner)",
-    "id": "Rukkakka/baenggipyo",
-    "language": "Python",
-    "name": "Rukkakka/baenggipyo",
-    "stars": 0,
-    "updated_at": "2026-10-24T08:45:21Z",
-    "url": "https://github.com/Rukkakka/baenggipyo"
-  },
-  {
-    "description": "\u77e5\u8bc6\u5bfb\u56deBOT \u2014\u2014 \u628a\u8bfe\u4ef6/\u8bfe\u672c/\u771f\u9898\u53d8\u6210\u4f1a\u8bb2\u8bfe\u3001\u4f1a\u51fa\u9898\u3001\u4f1a\u6279\u6539\u7684\u8bfe\u7a0b\u52a9\u6559\uff08LangGraph + RAG \u6df7\u5408\u68c0\u7d22 + SSE \u6d41\u5f0f\uff09",
-    "id": "catcatsquid/ai-agent-api",
-    "language": "Python",
-    "name": "catcatsquid/ai-agent-api",
-    "stars": 1,
-    "updated_at": "2026-10-24T08:42:45Z",
-    "url": "https://github.com/catcatsquid/ai-agent-api"
   }
 ]
