@@ -1,5 +1,50 @@
 [
   {
+    "description": "Read-only AWS inventory with a graph model and an LLM agent that answers security questions with validated citations. Po",
+    "id": "TomKoren1/Sightline",
+    "language": "TypeScript",
+    "name": "TomKoren1/Sightline",
+    "stars": 0,
+    "updated_at": "2026-10-24T20:44:46Z",
+    "url": "https://github.com/TomKoren1/Sightline"
+  },
+  {
+    "description": "A unified .NET abstraction layer for multiple Large Language Model (LLM) providers. Nexus-LLM simplifies integration wit",
+    "id": "brutal-45/Nexus-LLM",
+    "language": "Python",
+    "name": "brutal-45/Nexus-LLM",
+    "stars": 0,
+    "updated_at": "2026-10-24T20:41:38Z",
+    "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
+    "id": "sindredg/ai-security-platform",
+    "language": "Python",
+    "name": "sindredg/ai-security-platform",
+    "stars": 0,
+    "updated_at": "2026-10-24T20:34:17Z",
+    "url": "https://github.com/sindredg/ai-security-platform"
+  },
+  {
+    "description": "Doomsday Network (DOOM) \u2014 Sovereign Layer-1 Proof-of-Work GPU Blockchain (SHA-256d CUDA), Zero-Fee PPLNS Pool, Remote MC",
+    "id": "doomsday-network/doomsday",
+    "language": "Python",
+    "name": "doomsday-network/doomsday",
+    "stars": 15,
+    "updated_at": "2026-10-24T20:33:47Z",
+    "url": "https://github.com/doomsday-network/doomsday"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 14,
+    "updated_at": "2026-10-24T20:33:22Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -32,17 +77,8 @@
     "language": "Python",
     "name": "DominikSienkiewicz/StockAgent",
     "stars": 1,
-    "updated_at": "2026-10-24T20:29:12Z",
+    "updated_at": "2026-10-24T20:35:09Z",
     "url": "https://github.com/DominikSienkiewicz/StockAgent"
-  },
-  {
-    "description": "Read-only AWS inventory with a graph model and an LLM agent that answers security questions with validated citations. Po",
-    "id": "TomKoren1/Sightline",
-    "language": "TypeScript",
-    "name": "TomKoren1/Sightline",
-    "stars": 0,
-    "updated_at": "2026-10-24T20:29:05Z",
-    "url": "https://github.com/TomKoren1/Sightline"
   },
   {
     "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
@@ -54,24 +90,6 @@
     "url": "https://github.com/zeng6125-rgb/suixing"
   },
   {
-    "description": "A unified .NET abstraction layer for multiple Large Language Model (LLM) providers. Nexus-LLM simplifies integration wit",
-    "id": "brutal-45/Nexus-LLM",
-    "language": "Python",
-    "name": "brutal-45/Nexus-LLM",
-    "stars": 0,
-    "updated_at": "2026-10-24T20:26:35Z",
-    "url": "https://github.com/brutal-45/Nexus-LLM"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 14,
-    "updated_at": "2026-10-24T20:22:57Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "Deterministic orchestration, execution assurance, and quota-aware continuity runtime for GLM coding agents in ZCode",
     "id": "Chengy257/glm-conductor",
     "language": "Python",
@@ -79,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T20:19:22Z",
     "url": "https://github.com/Chengy257/glm-conductor"
-  },
-  {
-    "description": "Doomsday Network (DOOM) \u2014 Sovereign Layer-1 Proof-of-Work GPU Blockchain (SHA-256d CUDA), Zero-Fee PPLNS Pool, Remote MC",
-    "id": "doomsday-network/doomsday",
-    "language": "Python",
-    "name": "doomsday-network/doomsday",
-    "stars": 15,
-    "updated_at": "2026-10-24T20:17:48Z",
-    "url": "https://github.com/doomsday-network/doomsday"
   },
   {
     "description": "A BI agent that answers questions about 311 service requests from a Snowflake warehouse. Strands Agents, MCP, AWS Bedroc",
@@ -259,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T18:31:33Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
-    "id": "sindredg/ai-security-platform",
-    "language": "Python",
-    "name": "sindredg/ai-security-platform",
-    "stars": 0,
-    "updated_at": "2026-10-24T18:27:54Z",
-    "url": "https://github.com/sindredg/ai-security-platform"
   },
   {
     "description": "Metacognitive extension suite for Pi coding agent",
