@@ -1,21 +1,30 @@
 [
   {
-    "description": "\ud83c\udf3f Describe it. Kvist builds it. Your code, your machine, your rules: a sandboxed coding agent that plans, edits, tests a",
-    "id": "davud-d/Kvist",
-    "language": "Python",
-    "name": "davud-d/Kvist",
-    "stars": 1,
-    "updated_at": "2026-10-24T12:29:39Z",
-    "url": "https://github.com/davud-d/Kvist"
-  },
-  {
     "description": "The Self-Improving Coding Agent",
     "id": "kanishka-namdeo/Unown",
     "language": "TypeScript",
     "name": "kanishka-namdeo/Unown",
     "stars": 0,
-    "updated_at": "2026-10-24T12:29:25Z",
+    "updated_at": "2026-10-24T12:42:54Z",
     "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "\u53ef\u6269\u5c55\u7684\u672c\u5730 AI Agent\uff1a\u6a21\u5757\u94fe\u5185\u6838 + \u63d2\u4ef6\u7cfb\u7edf + \u4e0a\u4e0b\u6587\u7ba1\u7406 + \u5de5\u5177\u6267\u884c + Web \u754c\u9762\u3002",
+    "id": "diky87688973/ai-agent",
+    "language": "Python",
+    "name": "diky87688973/ai-agent",
+    "stars": 3,
+    "updated_at": "2026-10-24T12:41:29Z",
+    "url": "https://github.com/diky87688973/ai-agent"
+  },
+  {
+    "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
+    "id": "sindredg/ai-security-platform",
+    "language": "Python",
+    "name": "sindredg/ai-security-platform",
+    "stars": 0,
+    "updated_at": "2026-10-24T12:40:06Z",
+    "url": "https://github.com/sindredg/ai-security-platform"
   },
   {
     "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
@@ -23,8 +32,44 @@
     "language": "Python",
     "name": "shimo4228/contemplative-agent",
     "stars": 9,
-    "updated_at": "2026-10-24T12:29:36Z",
+    "updated_at": "2026-10-24T12:40:21Z",
     "url": "https://github.com/shimo4228/contemplative-agent"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 133,
+    "updated_at": "2026-10-24T12:34:22Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-10-24T12:33:48Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
+    "id": "xiongweilin/agent-skills",
+    "language": "PowerShell",
+    "name": "xiongweilin/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-24T12:32:18Z",
+    "url": "https://github.com/xiongweilin/agent-skills"
+  },
+  {
+    "description": "\ud83c\udf3f Describe it. Kvist builds it. Your code, your machine, your rules: a sandboxed coding agent that plans, edits, tests a",
+    "id": "davud-d/Kvist",
+    "language": "Python",
+    "name": "davud-d/Kvist",
+    "stars": 1,
+    "updated_at": "2026-10-24T12:29:39Z",
+    "url": "https://github.com/davud-d/Kvist"
   },
   {
     "description": "DeepSeek Harness \u63d2\u4ef6\uff1a\u628a\u4efb\u52a1\u6d3e\u53d1\u7ed9\u672c\u673a ZCode / OpenCode / Qoder / WorkBuddy \u56db\u4e2a AI \u7f16\u7a0b CLI\u3002\u9762\u677f\u53ef\u76d1\u89c6/\u7ec8\u6b62/\u7eed\u8dd1\uff0c\u5355\u5199\u8005\u6587\u4ef6\u9501 + \u7528\u91cf\u53f0\u8d26 + \u6309\u989d\u5ea6\u81ea\u52a8\u964d\u7ea7\uff1b\u8d70\u5b98\u65b9 C",
@@ -72,15 +117,6 @@
     "url": "https://github.com/tara-vision/taracode"
   },
   {
-    "description": "\u53ef\u6269\u5c55\u7684\u672c\u5730 AI Agent\uff1a\u6a21\u5757\u94fe\u5185\u6838 + \u63d2\u4ef6\u7cfb\u7edf + \u4e0a\u4e0b\u6587\u7ba1\u7406 + \u5de5\u5177\u6267\u884c + Web \u754c\u9762\u3002",
-    "id": "diky87688973/ai-agent",
-    "language": "Python",
-    "name": "diky87688973/ai-agent",
-    "stars": 3,
-    "updated_at": "2026-10-24T12:14:00Z",
-    "url": "https://github.com/diky87688973/ai-agent"
-  },
-  {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
     "id": "gerardogrisolini/ZenCODE",
     "language": "Swift",
@@ -95,7 +131,7 @@
     "language": "Kotlin",
     "name": "Ultra-Guru/Android-Guru-Agent",
     "stars": 11,
-    "updated_at": "2026-10-24T12:28:02Z",
+    "updated_at": "2026-10-24T12:42:29Z",
     "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
   },
   {
@@ -140,7 +176,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 988,
-    "updated_at": "2026-10-24T12:28:40Z",
+    "updated_at": "2026-10-24T12:40:06Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -378,15 +414,6 @@
     "url": "https://github.com/alaremawi07-jpg/agentic-rce-gemini"
   },
   {
-    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
-    "id": "xiongweilin/agent-skills",
-    "language": "PowerShell",
-    "name": "xiongweilin/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-24T12:29:17Z",
-    "url": "https://github.com/xiongweilin/agent-skills"
-  },
-  {
     "description": "Official codebase for Spotter: Let the Embodied Model Lead, and the VLM Reflect for It",
     "id": "zqc3117/Spotter",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 54,
     "updated_at": "2026-10-24T09:23:53Z",
     "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-10-24T09:00:36Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "\u8de8\u5de5\u4f5c\u533a\u72ec\u7acb\u4eba\u683c\u3001\u81ea\u9002\u5e94\u98ce\u683c\u4e0e\u966a\u4f34\u9884\u8bbe\uff1a\u4e3a\u9879\u76ee\u548c\u5bf9\u8bdd\u5206\u522b\u7ef4\u62a4\u4eba\u683c\u4e0e\u786e\u8ba4\u540e\u7684\u901a\u7528\u504f\u597d\uff0c\u652f\u6301\u4efb\u610f DSH \u5df2\u6ce8\u518c\u6a21\u578b\u7684\u5b50\u4ee3\u7406\u8def\u7531\uff08\u542b\u901a\u8fc7\u5176\u4ed6\u63d2\u4ef6\u63a5\u5165\u7684 Codex\u3001Claude Code\uff09\u3002",
-    "id": "ZekaiShi/dsh-evo-subagent",
-    "language": "JavaScript",
-    "name": "ZekaiShi/dsh-evo-subagent",
-    "stars": 7,
-    "updated_at": "2026-10-24T08:58:19Z",
-    "url": "https://github.com/ZekaiShi/dsh-evo-subagent"
-  },
-  {
-    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
-    "id": "hsaghir/looplet",
-    "language": "Python",
-    "name": "hsaghir/looplet",
-    "stars": 7,
-    "updated_at": "2026-10-24T08:57:50Z",
-    "url": "https://github.com/hsaghir/looplet"
   }
 ]
