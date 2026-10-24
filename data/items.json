@@ -1,5 +1,95 @@
 [
   {
+    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
+    "id": "RalfHermsen/x4-agent",
+    "language": "Python",
+    "name": "RalfHermsen/x4-agent",
+    "stars": 0,
+    "updated_at": "2026-10-24T06:14:32Z",
+    "url": "https://github.com/RalfHermsen/x4-agent"
+  },
+  {
+    "description": "A guide to New York City you can ask anything: an agent that answers from a live NYC lakehouse first, then city feeds an",
+    "id": "giridhar1103/NYCynapse.Ai",
+    "language": "Python",
+    "name": "giridhar1103/NYCynapse.Ai",
+    "stars": 0,
+    "updated_at": "2026-10-24T06:13:12Z",
+    "url": "https://github.com/giridhar1103/NYCynapse.Ai"
+  },
+  {
+    "description": "LLM application engineering projects: RAG, LangGraph Agents, MCP, evaluation, FastAPI, Redis, and deployment.",
+    "id": "justin-zhong/ai-deployment-project",
+    "language": "Python",
+    "name": "justin-zhong/ai-deployment-project",
+    "stars": 0,
+    "updated_at": "2026-10-24T06:12:30Z",
+    "url": "https://github.com/justin-zhong/ai-deployment-project"
+  },
+  {
+    "description": "One AI Security Platform: Protect, Operate, Respond",
+    "id": "EayonLee/SecPlexus",
+    "language": "\u2014",
+    "name": "EayonLee/SecPlexus",
+    "stars": 3,
+    "updated_at": "2026-10-24T06:12:15Z",
+    "url": "https://github.com/EayonLee/SecPlexus"
+  },
+  {
+    "description": "\u8ba9\u4f60\u7684 DeepSeek \u8d8a\u804a\u8d8a\u5408\u62cd\u3002\u81ea\u9002\u5e94\u98ce\u683c\u3001\u966a\u4f34\u4eba\u683c\u4e0e\u57fa\u4e8e\u5bf9\u8bdd\u53cd\u9988\u7684\u81ea\u4e3b\u98ce\u683c\u5b66\u4e60\uff1b\u652f\u6301\u5168\u5c40\uff0f\u5de5\u4f5c\u533a\uff0f\u5bf9\u8bdd\u72ec\u7acb\u6863\u6848\u3001\u591a\u89d2\u8272\u534f\u4f5c\uff0c\u4ee5\u53ca\u4efb\u610f\u5df2\u6ce8\u518c\u6a21\u578b\u8def\u7531\uff08\u53ef\u914d\u5408\u5176\u4ed6\u63d2\u4ef6\u63a5\u5165 Codex\u3001Claude Code\uff09\u3002",
+    "id": "ZekaiShi/evo-subagent",
+    "language": "JavaScript",
+    "name": "ZekaiShi/evo-subagent",
+    "stars": 7,
+    "updated_at": "2026-10-24T06:10:42Z",
+    "url": "https://github.com/ZekaiShi/evo-subagent"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u7684\u79d1\u7814\u6570\u636e\u4e0e\u7ed8\u56fe\u5de5\u4f5c\u53f0 \u00b7 \u8ba9\u5b9e\u9a8c\u6570\u636e\uff0c\u81ea\u7136\u6210\u4e3a\u8bba\u6587\u56fe",
+    "id": "chen0206a/figtide",
+    "language": "TypeScript",
+    "name": "chen0206a/figtide",
+    "stars": 0,
+    "updated_at": "2026-10-24T06:10:32Z",
+    "url": "https://github.com/chen0206a/figtide"
+  },
+  {
+    "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
+    "id": "Shuffle-1992/dsh-context-pilot",
+    "language": "JavaScript",
+    "name": "Shuffle-1992/dsh-context-pilot",
+    "stars": 3,
+    "updated_at": "2026-10-24T06:09:00Z",
+    "url": "https://github.com/Shuffle-1992/dsh-context-pilot"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 15,
+    "updated_at": "2026-10-24T06:12:24Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
+    "id": "shimo4228/contemplative-agent",
+    "language": "Python",
+    "name": "shimo4228/contemplative-agent",
+    "stars": 9,
+    "updated_at": "2026-10-24T06:01:03Z",
+    "url": "https://github.com/shimo4228/contemplative-agent"
+  },
+  {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-24T06:00:56Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
     "id": "plurnk/plurnk-service",
     "language": "TypeScript",
@@ -32,7 +122,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-24T05:55:23Z",
+    "updated_at": "2026-10-24T06:04:23Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -43,24 +133,6 @@
     "stars": 8,
     "updated_at": "2026-10-24T05:50:33Z",
     "url": "https://github.com/frontierlabai/JevHub"
-  },
-  {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-24T05:47:54Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
-  },
-  {
-    "description": "DeepSeek Harness \u89d2\u8272\u8def\u7531\u4e0e\u8fdb\u5316\u63d2\u4ef6\uff1a\u652f\u6301\u4efb\u610f\u5df2\u6ce8\u518c\u6a21\u578b\uff08\u53ef\u914d\u5408\u5176\u4ed6\u63d2\u4ef6\u63a5\u5165 Codex / Claude Code\uff09\u3001\u5de5\u4f5c\u533a\u7ecf\u9a8c\u3001\u966a\u4f34\u4eba\u683c\u548c\u7528\u6237\u4e60\u60ef\uff1b\u6863\u6848\u53ef\u5168\u5c40\u5171\u4eab\u6216\u6309\u5de5\u4f5c\u533a\u3001\u5bf9\u8bdd\u72ec\u7acb\u7ef4\u62a4\u3002",
-    "id": "ZekaiShi/evo-subagent",
-    "language": "JavaScript",
-    "name": "ZekaiShi/evo-subagent",
-    "stars": 7,
-    "updated_at": "2026-10-24T05:47:52Z",
-    "url": "https://github.com/ZekaiShi/evo-subagent"
   },
   {
     "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
@@ -126,15 +198,6 @@
     "url": "https://github.com/tianye1999/dsb"
   },
   {
-    "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
-    "id": "Shuffle-1992/dsh-context-pilot",
-    "language": "JavaScript",
-    "name": "Shuffle-1992/dsh-context-pilot",
-    "stars": 3,
-    "updated_at": "2026-10-24T05:30:05Z",
-    "url": "https://github.com/Shuffle-1992/dsh-context-pilot"
-  },
-  {
     "description": "Skill-first operating layer for agentic brokerage trading \u2014 strategy, guardrails, and provider adapters an LLM agent fol",
     "id": "jack-h-park/stock-trading-skills",
     "language": "Python",
@@ -142,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T05:29:54Z",
     "url": "https://github.com/jack-h-park/stock-trading-skills"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 15,
-    "updated_at": "2026-10-24T05:59:01Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Nosis is a lightweight personal agent runtime: per-session execution boundaries with OS-level sandboxing, computer use, ",
@@ -214,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T05:13:29Z",
     "url": "https://github.com/mntoyg/OmniAgent"
-  },
-  {
-    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 9,
-    "updated_at": "2026-10-24T05:10:22Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
   },
   {
     "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
@@ -347,7 +392,7 @@
     "language": "Python",
     "name": "iap/hermes-guide",
     "stars": 3,
-    "updated_at": "2026-10-24T03:55:14Z",
+    "updated_at": "2026-10-24T06:14:13Z",
     "url": "https://github.com/iap/hermes-guide"
   },
   {
@@ -365,7 +410,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-24T04:41:00Z",
+    "updated_at": "2026-10-24T06:00:36Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -378,20 +423,11 @@
     "url": "https://github.com/eshanized/M31A"
   },
   {
-    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
-    "id": "RalfHermsen/x4-agent",
-    "language": "Python",
-    "name": "RalfHermsen/x4-agent",
-    "stars": 0,
-    "updated_at": "2026-10-24T03:28:43Z",
-    "url": "https://github.com/RalfHermsen/x4-agent"
-  },
-  {
     "description": "Free MIT AI coding agent \u2014 no API key needed. Built-in free model, or bring Claude, GPT, Gemini, DeepSeek, Ollama +50 mo",
     "id": "dragonked2/alphacode",
     "language": "Rust",
     "name": "dragonked2/alphacode",
-    "stars": 429,
+    "stars": 430,
     "updated_at": "2026-10-24T03:28:40Z",
     "url": "https://github.com/dragonked2/alphacode"
   },
@@ -412,41 +448,5 @@
     "stars": 315,
     "updated_at": "2026-10-24T03:19:16Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
-    "description": "\u9762\u5411\u7535\u5546\u552e\u540e\u573a\u666f\uff0c\u57fa\u4e8e LangGraph \u56fa\u5b9a\u62d3\u6251\u7684\u53d7\u63a7\u5355 Agent\uff0c\u4e32\u8054\u610f\u56fe\u8bc6\u522b\u3001\u6df7\u5408\u68c0\u7d22\u3001\u5206\u5c42\u8bb0\u5fc6\u3001\u4ea4\u6613\u8d26\u672c\u4e0e\u8f6c\u4eba\u5de5\u5de5\u5355\u7684\u5b8c\u6574\u95ed\u73af\uff1b\u7528\u5de5\u5177\u767d\u540d\u5355\u548c\u5faa\u73af\u4e0a\u9650\u6362\u53d6\u8d44\u635f\u573a\u666f\u7684\u53ef\u9884\u6d4b\u6027\uff0c\u914d\u5957 7 \u7ec4\u53ef\u590d\u73b0\u7684\u79bb\u7ebf\u8bc4\u6d4b\uff0c\u89e3\u51b3\u590d\u6742\u610f\u56fe\u5224\u4e0d\u51c6\u3001\u653f\u7b56",
-    "id": "wygxxdm/Mooki",
-    "language": "Python",
-    "name": "wygxxdm/Mooki",
-    "stars": 0,
-    "updated_at": "2026-10-24T03:14:55Z",
-    "url": "https://github.com/wygxxdm/Mooki"
-  },
-  {
-    "description": "LLM data analyst agent on LangGraph with per-call tracing, cost and latency, versioned prompts and a record/replay evalu",
-    "id": "LacerdaTraderCode/observable-analytics-agent",
-    "language": "Python",
-    "name": "LacerdaTraderCode/observable-analytics-agent",
-    "stars": 0,
-    "updated_at": "2026-10-24T03:16:41Z",
-    "url": "https://github.com/LacerdaTraderCode/observable-analytics-agent"
-  },
-  {
-    "description": "Browser based Interface for Generative AI. Chat/Agent/Taskmanager Hybrid.",
-    "id": "Xyntopia/taskyon",
-    "language": "TypeScript",
-    "name": "Xyntopia/taskyon",
-    "stars": 56,
-    "updated_at": "2026-10-24T03:42:25Z",
-    "url": "https://github.com/Xyntopia/taskyon"
-  },
-  {
-    "description": "\u9002\u7528\u4e8e Claude Code \u548c Codex \u7684\u6c42\u804c Skill\uff1a\u67e5\u627e\u5c97\u4f4d\u3001\u5224\u65ad\u662f\u5426\u503c\u5f97\u6295\u9012\u3001\u5236\u4f5c\u7b80\u5386\u4e0e\u7533\u8bf7\u6750\u6599\u3001\u68c0\u9a8c\u7533\u8bf7\u6750\u6599\u5e76\u6a21\u62df\u9762\u8bd5\u3002\u4e0d\u7f16\u9020\u6280\u80fd\u6216\u4e1a\u7ee9\u6570\u5b57\uff0c\u4e0d\u9884\u6d4b\u5f55\u7528\u6982\u7387\uff1b\u68c0\u67e5\u7b80\u5386\u662f\u5426\u4fbf\u4e8e\u62db\u8058\u7ba1\u7406\u7cfb\u7edf\uff08ATS\uff09\u8bfb\u53d6\uff0c\u5e76\u4ece\u62db\u8058\u4eba\u5458\u548c\u7528\u4eba",
-    "id": "addsumtech/job-hunt",
-    "language": "Python",
-    "name": "addsumtech/job-hunt",
-    "stars": 5,
-    "updated_at": "2026-10-24T03:05:44Z",
-    "url": "https://github.com/addsumtech/job-hunt"
   }
 ]
