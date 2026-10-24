@@ -1,5 +1,104 @@
 [
   {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 1004,
+    "updated_at": "2026-10-24T22:42:58Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "\u53ef\u6269\u5c55\u7684\u672c\u5730 AI Agent\uff1a\u6a21\u5757\u94fe\u5185\u6838 + \u63d2\u4ef6\u7cfb\u7edf + \u4e0a\u4e0b\u6587\u7ba1\u7406 + \u5de5\u5177\u6267\u884c + Web \u754c\u9762\u3002",
+    "id": "diky87688973/ai-agent",
+    "language": "Python",
+    "name": "diky87688973/ai-agent",
+    "stars": 3,
+    "updated_at": "2026-10-24T22:41:25Z",
+    "url": "https://github.com/diky87688973/ai-agent"
+  },
+  {
+    "description": "Offline Linux command assistant: a 1.5B model on your machine (1.1 GB disk, 1.3 GB RAM, no GPU, ~2 s per answer) that ch",
+    "id": "arxhr007/lxask",
+    "language": "Python",
+    "name": "arxhr007/lxask",
+    "stars": 0,
+    "updated_at": "2026-10-24T22:40:45Z",
+    "url": "https://github.com/arxhr007/lxask"
+  },
+  {
+    "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 219,
+    "updated_at": "2026-10-24T22:37:09Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
+    "id": "kashyaprajharsh/medha-agent",
+    "language": "Rust",
+    "name": "kashyaprajharsh/medha-agent",
+    "stars": 4,
+    "updated_at": "2026-10-24T22:36:33Z",
+    "url": "https://github.com/kashyaprajharsh/medha-agent"
+  },
+  {
+    "description": "\u26a1 Drop-in SKILL.md, .cursorrules, CLAUDE.md, AGENTS.md & Remote MCP (.mcp.json) pack for Claude Code, Cursor, Windsurf, ",
+    "id": "doomsday-network/web3-agent-skills",
+    "language": "Python",
+    "name": "doomsday-network/web3-agent-skills",
+    "stars": 6,
+    "updated_at": "2026-10-24T22:35:51Z",
+    "url": "https://github.com/doomsday-network/web3-agent-skills"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Autonomous GitHub Bounty Scanner & On-Chain Escrow Verifier \u2014 Find Real Crypto/USDC/wDOOM Bounties & Filter Fake Scra",
+    "id": "doomsday-network/github-bounty-scanner",
+    "language": "Python",
+    "name": "doomsday-network/github-bounty-scanner",
+    "stars": 8,
+    "updated_at": "2026-10-24T22:35:48Z",
+    "url": "https://github.com/doomsday-network/github-bounty-scanner"
+  },
+  {
+    "description": "Zero-dependency Python CLI, GitHub Action, and MCP server scanning untrusted GitHub issues and repositories for prompt i",
+    "id": "doomsday-network/bounty-guard",
+    "language": "Python",
+    "name": "doomsday-network/bounty-guard",
+    "stars": 15,
+    "updated_at": "2026-10-24T22:35:46Z",
+    "url": "https://github.com/doomsday-network/bounty-guard"
+  },
+  {
+    "description": "Doomsday Network (DOOM) \u2014 Sovereign Layer-1 Proof-of-Work GPU Blockchain (SHA-256d CUDA), Zero-Fee PPLNS Pool, Remote MC",
+    "id": "doomsday-network/doomsday",
+    "language": "Python",
+    "name": "doomsday-network/doomsday",
+    "stars": 16,
+    "updated_at": "2026-10-24T22:35:41Z",
+    "url": "https://github.com/doomsday-network/doomsday"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 83,
+    "updated_at": "2026-10-24T22:35:34Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
+    "id": "Torvian-eu/chatbot",
+    "language": "Kotlin",
+    "name": "Torvian-eu/chatbot",
+    "stars": 4,
+    "updated_at": "2026-10-24T22:31:56Z",
+    "url": "https://github.com/Torvian-eu/chatbot"
+  },
+  {
     "description": "Read-only AWS inventory with a graph model and an LLM agent that answers security questions with validated citations. Po",
     "id": "TomKoren1/Sightline",
     "language": "TypeScript",
@@ -54,15 +153,6 @@
     "url": "https://github.com/cunhaax/ai-workflow"
   },
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 1004,
-    "updated_at": "2026-10-24T22:24:08Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
     "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
     "id": "shimo4228/contemplative-agent",
     "language": "Python",
@@ -70,15 +160,6 @@
     "stars": 9,
     "updated_at": "2026-10-24T22:13:18Z",
     "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
-    "description": "\u53ef\u6269\u5c55\u7684\u672c\u5730 AI Agent\uff1a\u6a21\u5757\u94fe\u5185\u6838 + \u63d2\u4ef6\u7cfb\u7edf + \u4e0a\u4e0b\u6587\u7ba1\u7406 + \u5de5\u5177\u6267\u884c + Web \u754c\u9762\u3002",
-    "id": "diky87688973/ai-agent",
-    "language": "Python",
-    "name": "diky87688973/ai-agent",
-    "stars": 3,
-    "updated_at": "2026-10-24T22:07:02Z",
-    "url": "https://github.com/diky87688973/ai-agent"
   },
   {
     "description": "Layout-aware VNC/RFB remote control CLI: type, key, click, screenshot, OCR, against any VNC/RFB server.",
@@ -135,15 +216,6 @@
     "url": "https://github.com/RalfHermsen/x4-agent"
   },
   {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 83,
-    "updated_at": "2026-10-24T21:36:12Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -151,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T21:32:20Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
-    "id": "kashyaprajharsh/medha-agent",
-    "language": "Rust",
-    "name": "kashyaprajharsh/medha-agent",
-    "stars": 4,
-    "updated_at": "2026-10-24T21:25:22Z",
-    "url": "https://github.com/kashyaprajharsh/medha-agent"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -214,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T20:48:58Z",
     "url": "https://github.com/sindredg/ai-security-platform"
-  },
-  {
-    "description": "Doomsday Network (DOOM) \u2014 Sovereign Layer-1 Proof-of-Work GPU Blockchain (SHA-256d CUDA), Zero-Fee PPLNS Pool, Remote MC",
-    "id": "doomsday-network/doomsday",
-    "language": "Python",
-    "name": "doomsday-network/doomsday",
-    "stars": 16,
-    "updated_at": "2026-10-24T20:33:47Z",
-    "url": "https://github.com/doomsday-network/doomsday"
   },
   {
     "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
@@ -311,7 +365,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4460,
-    "updated_at": "2026-10-24T22:23:08Z",
+    "updated_at": "2026-10-24T22:39:07Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -322,15 +376,6 @@
     "stars": 94,
     "updated_at": "2026-10-24T19:19:01Z",
     "url": "https://github.com/Canvixel-Eloweny/ai-bot-groupmate"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Autonomous GitHub Bounty Scanner & On-Chain Escrow Verifier \u2014 Find Real Crypto/USDC/wDOOM Bounties & Filter Fake Scra",
-    "id": "doomsday-network/github-bounty-scanner",
-    "language": "Python",
-    "name": "doomsday-network/github-bounty-scanner",
-    "stars": 8,
-    "updated_at": "2026-10-24T19:09:40Z",
-    "url": "https://github.com/doomsday-network/github-bounty-scanner"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-24T17:46:12Z",
     "url": "https://github.com/ScreamingMaggot/rcs-context"
-  },
-  {
-    "description": "Hands-on LangChain course with Jupyter notebooks: models, prompts, chains, embeddings, RAG, memory and agents across Ope",
-    "id": "ahmadhassan-aiops/langchain",
-    "language": "Jupyter Notebook",
-    "name": "ahmadhassan-aiops/langchain",
-    "stars": 0,
-    "updated_at": "2026-10-24T17:44:26Z",
-    "url": "https://github.com/ahmadhassan-aiops/langchain"
-  },
-  {
-    "description": "Zero-dependency Python CLI, GitHub Action, and MCP server scanning untrusted GitHub issues and repositories for prompt i",
-    "id": "doomsday-network/bounty-guard",
-    "language": "Python",
-    "name": "doomsday-network/bounty-guard",
-    "stars": 15,
-    "updated_at": "2026-10-24T17:41:04Z",
-    "url": "https://github.com/doomsday-network/bounty-guard"
-  },
-  {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 7,
-    "updated_at": "2026-10-24T17:40:48Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-24T17:36:16Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Talk2Stock \u00b7 \u5bf9\u8bdd\u5f0f\u8fdb\u9500\u5b58\u667a\u80fd\u4f53\uff08Conversational ERP Agent\uff09\uff1a\u4e00\u53e5\u8bdd \u2192 \u5355\u636e\u8349\u7a3f \u2192 \u5b57\u6bb5\u6765\u5386\u6807\u6ce8 \u2192 \u4eba\u5de5\u786e\u8ba4 \u2192 \u5199\u5165\u771f\u5b9e ERP\uff0c\u670d\u52a1\u7aef\u5199\u5165\u95f8\u95e8 + \u5ba1\u8ba1\u7559\u75d5 + \u51bb\u7ed3\u8bed\u6599\u8bc4\u6d4b",
-    "id": "honlam6/talk2stock",
-    "language": "Java",
-    "name": "honlam6/talk2stock",
-    "stars": 0,
-    "updated_at": "2026-10-24T17:25:54Z",
-    "url": "https://github.com/honlam6/talk2stock"
   }
 ]
