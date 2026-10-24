@@ -1,5 +1,23 @@
 [
   {
+    "description": "A guide to New York City you can ask anything: an agent that answers from a live NYC lakehouse first, then city feeds an",
+    "id": "giridhar1103/NYCynapse.Ai",
+    "language": "Python",
+    "name": "giridhar1103/NYCynapse.Ai",
+    "stars": 0,
+    "updated_at": "2026-10-24T01:12:26Z",
+    "url": "https://github.com/giridhar1103/NYCynapse.Ai"
+  },
+  {
+    "description": "Voyager \u00d7 VLML \u00d7 \u732b\u5a18\u4f34\u5b66\uff1a\u628a\u300c\u5b66\u4e60\u8005\u300d\u6362\u6210 agent \u7684\u6700\u5c0f\u53ef\u6267\u884c\u539f\u578b\uff08\u9762\u677f\u5df2\u4e0a\u817e\u8baf\u4e91\uff09",
+    "id": "Zxy876/voyager-vlml-mve",
+    "language": "Python",
+    "name": "Zxy876/voyager-vlml-mve",
+    "stars": 2,
+    "updated_at": "2026-10-24T01:11:32Z",
+    "url": "https://github.com/Zxy876/voyager-vlml-mve"
+  },
+  {
     "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
     "id": "xiongweilin/agent-skills",
     "language": "PowerShell",
@@ -9,15 +27,6 @@
     "url": "https://github.com/xiongweilin/agent-skills"
   },
   {
-    "description": "A guide to New York City you can ask anything: an agent that answers from a live NYC lakehouse first, then city feeds an",
-    "id": "giridhar1103/NYCynapse.Ai",
-    "language": "Python",
-    "name": "giridhar1103/NYCynapse.Ai",
-    "stars": 0,
-    "updated_at": "2026-10-24T00:56:41Z",
-    "url": "https://github.com/giridhar1103/NYCynapse.Ai"
-  },
-  {
     "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
     "id": "lzmd-arch/BioSNN-Plug",
     "language": "Python",
@@ -25,15 +34,6 @@
     "stars": 7,
     "updated_at": "2026-10-24T00:56:05Z",
     "url": "https://github.com/lzmd-arch/BioSNN-Plug"
-  },
-  {
-    "description": "Voyager \u00d7 VLML \u00d7 \u732b\u5a18\u4f34\u5b66\uff1a\u628a\u300c\u5b66\u4e60\u8005\u300d\u6362\u6210 agent \u7684\u6700\u5c0f\u53ef\u6267\u884c\u539f\u578b\uff08\u9762\u677f\u5df2\u4e0a\u817e\u8baf\u4e91\uff09",
-    "id": "Zxy876/voyager-vlml-mve",
-    "language": "Python",
-    "name": "Zxy876/voyager-vlml-mve",
-    "stars": 2,
-    "updated_at": "2026-10-24T00:55:15Z",
-    "url": "https://github.com/Zxy876/voyager-vlml-mve"
   },
   {
     "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
@@ -59,7 +59,7 @@
     "language": "Python",
     "name": "Calmingstorm/Odin",
     "stars": 3,
-    "updated_at": "2026-10-24T00:57:17Z",
+    "updated_at": "2026-10-24T01:14:00Z",
     "url": "https://github.com/Calmingstorm/Odin"
   },
   {
@@ -95,7 +95,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 14,
-    "updated_at": "2026-10-24T00:33:24Z",
+    "updated_at": "2026-10-24T01:14:55Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -140,7 +140,7 @@
     "language": "Kotlin",
     "name": "haibingzhao/easyai",
     "stars": 1,
-    "updated_at": "2026-10-24T00:19:15Z",
+    "updated_at": "2026-10-24T01:13:14Z",
     "url": "https://github.com/haibingzhao/easyai"
   },
   {
@@ -185,7 +185,7 @@
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 50,
-    "updated_at": "2026-10-24T00:35:02Z",
+    "updated_at": "2026-10-24T01:10:23Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
@@ -193,7 +193,7 @@
     "id": "Soodok/Deepseek-Harness-Local-Android",
     "language": "Kotlin",
     "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 312,
+    "stars": 314,
     "updated_at": "2026-10-23T23:57:41Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
@@ -257,7 +257,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-24T00:50:58Z",
+    "updated_at": "2026-10-24T01:02:19Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -293,7 +293,7 @@
     "language": "TypeScript",
     "name": "TomKoren1/Sightline",
     "stars": 0,
-    "updated_at": "2026-10-24T00:55:31Z",
+    "updated_at": "2026-10-24T01:09:19Z",
     "url": "https://github.com/TomKoren1/Sightline"
   },
   {
