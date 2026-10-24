@@ -1,12 +1,57 @@
 [
   {
-    "description": "BSL-1 whitelist, ProtocolLinter and PlanApproval: deny-by-default safety rails for a human-in-the-loop lab agent",
-    "id": "bioforge-lab/bioforge-agent",
+    "description": "A unified .NET abstraction layer for multiple Large Language Model (LLM) providers. Nexus-LLM simplifies integration wit",
+    "id": "brutal-45/Nexus-LLM",
     "language": "Python",
-    "name": "bioforge-lab/bioforge-agent",
+    "name": "brutal-45/Nexus-LLM",
     "stars": 0,
-    "updated_at": "2026-10-24T18:58:33Z",
-    "url": "https://github.com/bioforge-lab/bioforge-agent"
+    "updated_at": "2026-10-24T19:11:20Z",
+    "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
+    "id": "kashyaprajharsh/medha-agent",
+    "language": "Rust",
+    "name": "kashyaprajharsh/medha-agent",
+    "stars": 4,
+    "updated_at": "2026-10-24T19:09:41Z",
+    "url": "https://github.com/kashyaprajharsh/medha-agent"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Autonomous GitHub Bounty Scanner & On-Chain Escrow Verifier \u2014 Find Real Crypto/USDC/wDOOM Bounties & Filter Fake Scra",
+    "id": "doomsday-network/github-bounty-scanner",
+    "language": "Python",
+    "name": "doomsday-network/github-bounty-scanner",
+    "stars": 6,
+    "updated_at": "2026-10-24T19:09:40Z",
+    "url": "https://github.com/doomsday-network/github-bounty-scanner"
+  },
+  {
+    "description": "Layout-aware VNC/RFB remote control CLI: type, key, click, screenshot, OCR, against any VNC/RFB server.",
+    "id": "bitranox/vnc-remote-control",
+    "language": "Python",
+    "name": "bitranox/vnc-remote-control",
+    "stars": 0,
+    "updated_at": "2026-10-24T19:06:31Z",
+    "url": "https://github.com/bitranox/vnc-remote-control"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-24T19:04:49Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-10-24T19:02:07Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Estrella Bot \u00b7 QQ \u7fa4 AI \u7fa4\u53cb\u673a\u5668\u4eba\u3002\u628a QQ \u5c0f\u53f7\u63a5\u7ed9\u4efb\u610f OpenAI \u517c\u5bb9\u6a21\u578b\uff08\u672c\u673a / DeepSeek / \u667a\u8c31 / \u901a\u4e49\uff09\uff0c\u8ba9 AI \u50cf\u7fa4\u53cb\u4e00\u6837\u63d2\u8bdd\u3001\u63a5\u6897\u3001\u6f5c\u6c34\u3002OneBot v11 + NapCat\uff0c\u96f6\u6784\u5efa",
@@ -36,21 +81,12 @@
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
-    "description": "A unified .NET abstraction layer for multiple Large Language Model (LLM) providers. Nexus-LLM simplifies integration wit",
-    "id": "brutal-45/Nexus-LLM",
-    "language": "Python",
-    "name": "brutal-45/Nexus-LLM",
-    "stars": 0,
-    "updated_at": "2026-10-24T18:56:17Z",
-    "url": "https://github.com/brutal-45/Nexus-LLM"
-  },
-  {
     "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
     "id": "uukuguy/capstone",
     "language": "Python",
     "name": "uukuguy/capstone",
     "stars": 0,
-    "updated_at": "2026-10-24T18:55:21Z",
+    "updated_at": "2026-10-24T19:05:50Z",
     "url": "https://github.com/uukuguy/capstone"
   },
   {
@@ -61,15 +97,6 @@
     "stars": 79,
     "updated_at": "2026-10-24T18:40:43Z",
     "url": "https://github.com/xieguigang/sciBASIC"
-  },
-  {
-    "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
-    "id": "kashyaprajharsh/medha-agent",
-    "language": "Rust",
-    "name": "kashyaprajharsh/medha-agent",
-    "stars": 4,
-    "updated_at": "2026-10-24T18:38:34Z",
-    "url": "https://github.com/kashyaprajharsh/medha-agent"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -139,7 +166,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 1000,
+    "stars": 1001,
     "updated_at": "2026-10-24T18:11:38Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -261,15 +288,6 @@
     "url": "https://github.com/shimo4228/contemplative-agent"
   },
   {
-    "description": "Layout-aware VNC/RFB remote control CLI: type, key, click, screenshot, OCR, against any VNC/RFB server.",
-    "id": "bitranox/vnc-remote-control",
-    "language": "Python",
-    "name": "bitranox/vnc-remote-control",
-    "stars": 0,
-    "updated_at": "2026-10-24T17:29:00Z",
-    "url": "https://github.com/bitranox/vnc-remote-control"
-  },
-  {
     "description": "Talk2Stock \u00b7 \u5bf9\u8bdd\u5f0f\u8fdb\u9500\u5b58\u667a\u80fd\u4f53\uff08Conversational ERP Agent\uff09\uff1a\u4e00\u53e5\u8bdd \u2192 \u5355\u636e\u8349\u7a3f \u2192 \u5b57\u6bb5\u6765\u5386\u6807\u6ce8 \u2192 \u4eba\u5de5\u786e\u8ba4 \u2192 \u5199\u5165\u771f\u5b9e ERP\uff0c\u670d\u52a1\u7aef\u5199\u5165\u95f8\u95e8 + \u5ba1\u8ba1\u7559\u75d5 + \u51bb\u7ed3\u8bed\u6599\u8bc4\u6d4b",
     "id": "honlam6/talk2stock",
     "language": "Java",
@@ -358,24 +376,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T16:50:51Z",
     "url": "https://github.com/RalfHermsen/x4-agent"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Autonomous GitHub Bounty Scanner & On-Chain Escrow Verifier \u2014 Find Real Crypto/USDC/wDOOM Bounties & Filter Fake Scra",
-    "id": "doomsday-network/github-bounty-scanner",
-    "language": "Python",
-    "name": "doomsday-network/github-bounty-scanner",
-    "stars": 6,
-    "updated_at": "2026-10-24T16:49:44Z",
-    "url": "https://github.com/doomsday-network/github-bounty-scanner"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-10-24T16:41:09Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "A guide to New York City you can ask anything: an agent that answers from a live NYC lakehouse first, then city feeds an",
