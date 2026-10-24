@@ -1,5 +1,77 @@
 [
   {
+    "description": "\ud83e\udd16 \u65b0\u4e00\u4ee3\u5f00\u6e90 Chrome \u4fa7\u8fb9\u680f\u81ea\u4e3b AI \u6d4f\u89c8\u5668\u667a\u80fd\u4f53\uff1a\u76ee\u6807\u9a71\u52a8\u3001\u957f\u7a0b\u89c4\u5212\u3001\u89c6\u89c9\u7a7a\u95f4\u611f\u77e5\u3001\u5feb\u6162\u53cc\u6838\u8ba4\u77e5\u4e0e\u7269\u7406\u7ea7\u64cd\u63a7\uff0c\u652f\u6301 DeepSeek \u601d\u8003\u6a21\u578b\u4e0e\u672c\u5730\u79bb\u7ebf LLM (BYOK)",
+    "id": "lusipad/browser-agent",
+    "language": "TypeScript",
+    "name": "lusipad/browser-agent",
+    "stars": 3,
+    "updated_at": "2026-10-24T01:43:49Z",
+    "url": "https://github.com/lusipad/browser-agent"
+  },
+  {
+    "description": "Voyager \u00d7 VLML \u00d7 \u732b\u5a18\u4f34\u5b66\uff1a\u628a\u300c\u5b66\u4e60\u8005\u300d\u6362\u6210 agent \u7684\u6700\u5c0f\u53ef\u6267\u884c\u539f\u578b\uff08\u9762\u677f\u5df2\u4e0a\u817e\u8baf\u4e91\uff09",
+    "id": "Zxy876/voyager-vlml-mve",
+    "language": "Python",
+    "name": "Zxy876/voyager-vlml-mve",
+    "stars": 2,
+    "updated_at": "2026-10-24T01:43:14Z",
+    "url": "https://github.com/Zxy876/voyager-vlml-mve"
+  },
+  {
+    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 456,
+    "updated_at": "2026-10-24T01:43:10Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 7,
+    "updated_at": "2026-10-24T01:38:52Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-24T01:35:35Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 50,
+    "updated_at": "2026-10-24T01:37:59Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "Metacognitive extension suite for Pi coding agent",
+    "id": "kifirkin/pi-braid",
+    "language": "JavaScript",
+    "name": "kifirkin/pi-braid",
+    "stars": 1,
+    "updated_at": "2026-10-24T01:33:09Z",
+    "url": "https://github.com/kifirkin/pi-braid"
+  },
+  {
+    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
+    "id": "Ultra-Guru/Android-Guru-Agent",
+    "language": "Kotlin",
+    "name": "Ultra-Guru/Android-Guru-Agent",
+    "stars": 11,
+    "updated_at": "2026-10-24T01:32:32Z",
+    "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
+  },
+  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -27,33 +99,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "Metacognitive extension suite for Pi coding agent",
-    "id": "kifirkin/pi-braid",
-    "language": "JavaScript",
-    "name": "kifirkin/pi-braid",
-    "stars": 1,
-    "updated_at": "2026-10-24T01:23:55Z",
-    "url": "https://github.com/kifirkin/pi-braid"
-  },
-  {
-    "description": "Voyager \u00d7 VLML \u00d7 \u732b\u5a18\u4f34\u5b66\uff1a\u628a\u300c\u5b66\u4e60\u8005\u300d\u6362\u6210 agent \u7684\u6700\u5c0f\u53ef\u6267\u884c\u539f\u578b\uff08\u9762\u677f\u5df2\u4e0a\u817e\u8baf\u4e91\uff09",
-    "id": "Zxy876/voyager-vlml-mve",
-    "language": "Python",
-    "name": "Zxy876/voyager-vlml-mve",
-    "stars": 2,
-    "updated_at": "2026-10-24T01:23:21Z",
-    "url": "https://github.com/Zxy876/voyager-vlml-mve"
-  },
-  {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 7,
-    "updated_at": "2026-10-24T01:30:15Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
-  },
-  {
     "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
     "id": "haibingzhao/easyai",
     "language": "Kotlin",
@@ -72,15 +117,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
-    "id": "Ultra-Guru/Android-Guru-Agent",
-    "language": "Kotlin",
-    "name": "Ultra-Guru/Android-Guru-Agent",
-    "stars": 11,
-    "updated_at": "2026-10-24T01:22:04Z",
-    "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
-  },
-  {
     "description": "A guide to New York City you can ask anything: an agent that answers from a live NYC lakehouse first, then city feeds an",
     "id": "giridhar1103/NYCynapse.Ai",
     "language": "Python",
@@ -95,7 +131,7 @@
     "language": "PowerShell",
     "name": "xiongweilin/agent-skills",
     "stars": 0,
-    "updated_at": "2026-10-24T00:59:37Z",
+    "updated_at": "2026-10-24T01:34:32Z",
     "url": "https://github.com/xiongweilin/agent-skills"
   },
   {
@@ -122,7 +158,7 @@
     "language": "Python",
     "name": "Calmingstorm/Odin",
     "stars": 3,
-    "updated_at": "2026-10-24T01:14:00Z",
+    "updated_at": "2026-10-24T01:32:35Z",
     "url": "https://github.com/Calmingstorm/Odin"
   },
   {
@@ -144,21 +180,12 @@
     "url": "https://github.com/shineyyxd/ai-research-copilot"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-24T00:34:32Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 14,
-    "updated_at": "2026-10-24T01:20:44Z",
+    "updated_at": "2026-10-24T01:36:54Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -223,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T00:01:14Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 50,
-    "updated_at": "2026-10-24T01:24:29Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
     "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
@@ -302,7 +320,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-24T01:02:19Z",
+    "updated_at": "2026-10-24T01:33:59Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -338,7 +356,7 @@
     "language": "TypeScript",
     "name": "TomKoren1/Sightline",
     "stars": 0,
-    "updated_at": "2026-10-24T01:09:19Z",
+    "updated_at": "2026-10-24T01:32:23Z",
     "url": "https://github.com/TomKoren1/Sightline"
   },
   {
@@ -358,15 +376,6 @@
     "stars": 30,
     "updated_at": "2026-10-23T22:57:44Z",
     "url": "https://github.com/dotcomjack/grux"
-  },
-  {
-    "description": "\ud83e\udd16 \u65b0\u4e00\u4ee3\u5f00\u6e90 Chrome \u4fa7\u8fb9\u680f\u81ea\u4e3b AI \u6d4f\u89c8\u5668\u667a\u80fd\u4f53\uff1a\u76ee\u6807\u9a71\u52a8\u3001\u957f\u7a0b\u89c4\u5212\u3001\u89c6\u89c9\u7a7a\u95f4\u611f\u77e5\u3001\u5feb\u6162\u53cc\u6838\u8ba4\u77e5\u4e0e\u7269\u7406\u7ea7\u64cd\u63a7\uff0c\u652f\u6301 DeepSeek \u601d\u8003\u6a21\u578b\u4e0e\u672c\u5730\u79bb\u7ebf LLM (BYOK)",
-    "id": "lusipad/browser-agent",
-    "language": "TypeScript",
-    "name": "lusipad/browser-agent",
-    "stars": 3,
-    "updated_at": "2026-10-23T22:51:08Z",
-    "url": "https://github.com/lusipad/browser-agent"
   },
   {
     "description": "A personal Claude agent that runs in your terminal. Files, web search, gated shell, and vector memory across sessions. B",
@@ -394,15 +403,6 @@
     "stars": 4,
     "updated_at": "2026-10-23T22:15:21Z",
     "url": "https://github.com/NosytLabs/skillstate-proxy"
-  },
-  {
-    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 456,
-    "updated_at": "2026-10-24T01:16:52Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
     "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker.",
