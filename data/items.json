@@ -1,11 +1,20 @@
 [
   {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 6,
+    "updated_at": "2026-10-24T19:45:03Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
     "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
     "id": "zeng6125-rgb/suixing",
     "language": "Kotlin",
     "name": "zeng6125-rgb/suixing",
     "stars": 2,
-    "updated_at": "2026-10-24T19:27:08Z",
+    "updated_at": "2026-10-24T19:43:40Z",
     "url": "https://github.com/zeng6125-rgb/suixing"
   },
   {
@@ -14,8 +23,26 @@
     "language": "Python",
     "name": "brutal-45/Nexus-LLM",
     "stars": 0,
-    "updated_at": "2026-10-24T19:26:23Z",
+    "updated_at": "2026-10-24T19:41:26Z",
     "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into",
+    "id": "AskTheWay/dsh-auto-memory",
+    "language": "TypeScript",
+    "name": "AskTheWay/dsh-auto-memory",
+    "stars": 105,
+    "updated_at": "2026-10-24T19:33:29Z",
+    "url": "https://github.com/AskTheWay/dsh-auto-memory"
+  },
+  {
+    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
+    "id": "RalfHermsen/x4-agent",
+    "language": "Python",
+    "name": "RalfHermsen/x4-agent",
+    "stars": 0,
+    "updated_at": "2026-10-24T19:31:09Z",
+    "url": "https://github.com/RalfHermsen/x4-agent"
   },
   {
     "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
@@ -32,7 +59,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4460,
-    "updated_at": "2026-10-24T19:28:09Z",
+    "updated_at": "2026-10-24T19:43:10Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -61,15 +88,6 @@
     "stars": 94,
     "updated_at": "2026-10-24T19:19:01Z",
     "url": "https://github.com/Canvixel-Eloweny/ai-bot-groupmate"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 6,
-    "updated_at": "2026-10-24T19:16:28Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
@@ -122,7 +140,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 14,
-    "updated_at": "2026-10-24T19:15:35Z",
+    "updated_at": "2026-10-24T19:35:14Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -387,15 +405,6 @@
     "url": "https://github.com/bigfish1913/pi-rust"
   },
   {
-    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
-    "id": "RalfHermsen/x4-agent",
-    "language": "Python",
-    "name": "RalfHermsen/x4-agent",
-    "stars": 0,
-    "updated_at": "2026-10-24T16:50:51Z",
-    "url": "https://github.com/RalfHermsen/x4-agent"
-  },
-  {
     "description": "A guide to New York City you can ask anything: an agent that answers from a live NYC lakehouse first, then city feeds an",
     "id": "giridhar1103/NYCynapse.Ai",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-24T16:18:40Z",
     "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "Grux AI: open source AI agent for macOS (MIT). One Command Panel for your mail, calendar, meetings, files and a shell it",
-    "id": "dotcomjack/grux",
-    "language": "Swift",
-    "name": "dotcomjack/grux",
-    "stars": 30,
-    "updated_at": "2026-10-24T16:17:19Z",
-    "url": "https://github.com/dotcomjack/grux"
   }
 ]
