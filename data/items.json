@@ -1,30 +1,30 @@
 [
   {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
+    "description": "Official codebase for Spotter: Let the Embodied Model Lead, and the VLM Reflect for It",
+    "id": "zqc3117/Spotter",
     "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 7,
-    "updated_at": "2026-10-24T09:13:21Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+    "name": "zqc3117/Spotter",
+    "stars": 159,
+    "updated_at": "2026-10-24T09:29:56Z",
+    "url": "https://github.com/zqc3117/Spotter"
+  },
+  {
+    "description": "A local-first AI companion for Windows: it remembers you, dreams over your day at night, follows up on what matters and ",
+    "id": "b7216309-jpg/little-bot",
+    "language": "JavaScript",
+    "name": "b7216309-jpg/little-bot",
+    "stars": 0,
+    "updated_at": "2026-10-24T09:28:38Z",
+    "url": "https://github.com/b7216309-jpg/little-bot"
   },
   {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 983,
-    "updated_at": "2026-10-24T09:08:48Z",
+    "stars": 986,
+    "updated_at": "2026-10-24T09:28:24Z",
     "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "Official codebase for Spotter: Let the Embodied Model Lead, and the VLM Reflect for It",
-    "id": "zqc3117/Spotter",
-    "language": "Python",
-    "name": "zqc3117/Spotter",
-    "stars": 159,
-    "updated_at": "2026-10-24T09:05:18Z",
-    "url": "https://github.com/zqc3117/Spotter"
   },
   {
     "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
@@ -32,8 +32,44 @@
     "language": "TypeScript",
     "name": "memoways/ava-proto1",
     "stars": 0,
-    "updated_at": "2026-10-24T09:05:05Z",
+    "updated_at": "2026-10-24T09:27:07Z",
     "url": "https://github.com/memoways/ava-proto1"
+  },
+  {
+    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
+    "id": "Ultra-Guru/Android-Guru-Agent",
+    "language": "Kotlin",
+    "name": "Ultra-Guru/Android-Guru-Agent",
+    "stars": 11,
+    "updated_at": "2026-10-24T09:26:50Z",
+    "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
+  },
+  {
+    "description": "\u26a1 3B \u51b3\u7b56\u6a21\u578b\u9a71\u52a8\u771f\u5b9e\u6d4f\u89c8\u5668 \u00b7 LiquidAI d1-3B + llama.cpp \u7eaf CPU \u63a8\u7406 \u00b7 \u5355\u6b21\u524d\u5411\u6253\u5206 \u00b7 Claude-Code \u5f0f TUI \u00b7 d1 \u81ea\u4e3b\u51b3\u5b9a\u4f55\u65f6\u54a8\u8be2\u4e91\u7aef LLM | Fast browser a",
+    "id": "CyanXLab/fast-browser-use-d1",
+    "language": "Python",
+    "name": "CyanXLab/fast-browser-use-d1",
+    "stars": 0,
+    "updated_at": "2026-10-24T09:26:14Z",
+    "url": "https://github.com/CyanXLab/fast-browser-use-d1"
+  },
+  {
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 7,
+    "updated_at": "2026-10-24T09:25:29Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 54,
+    "updated_at": "2026-10-24T09:23:53Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
   },
   {
     "description": "The Self-Improving Coding Agent",
@@ -41,8 +77,26 @@
     "language": "TypeScript",
     "name": "kanishka-namdeo/Unown",
     "stars": 0,
-    "updated_at": "2026-10-24T09:03:24Z",
+    "updated_at": "2026-10-24T09:22:26Z",
     "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
+    "id": "xiongweilin/agent-skills",
+    "language": "PowerShell",
+    "name": "xiongweilin/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-24T09:21:32Z",
+    "url": "https://github.com/xiongweilin/agent-skills"
+  },
+  {
+    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
+    "id": "eshanized/M31A",
+    "language": "Rust",
+    "name": "eshanized/M31A",
+    "stars": 10,
+    "updated_at": "2026-10-24T09:17:39Z",
+    "url": "https://github.com/eshanized/M31A"
   },
   {
     "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
@@ -72,15 +126,6 @@
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
-    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
-    "id": "Ultra-Guru/Android-Guru-Agent",
-    "language": "Kotlin",
-    "name": "Ultra-Guru/Android-Guru-Agent",
-    "stars": 11,
-    "updated_at": "2026-10-24T09:15:03Z",
-    "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
-  },
-  {
     "description": "\u8de8\u5de5\u4f5c\u533a\u72ec\u7acb\u4eba\u683c\u3001\u81ea\u9002\u5e94\u98ce\u683c\u4e0e\u966a\u4f34\u9884\u8bbe\uff1a\u4e3a\u9879\u76ee\u548c\u5bf9\u8bdd\u5206\u522b\u7ef4\u62a4\u4eba\u683c\u4e0e\u786e\u8ba4\u540e\u7684\u901a\u7528\u504f\u597d\uff0c\u652f\u6301\u4efb\u610f DSH \u5df2\u6ce8\u518c\u6a21\u578b\u7684\u5b50\u4ee3\u7406\u8def\u7531\uff08\u542b\u901a\u8fc7\u5176\u4ed6\u63d2\u4ef6\u63a5\u5165\u7684 Codex\u3001Claude Code\uff09\u3002",
     "id": "ZekaiShi/dsh-evo-subagent",
     "language": "JavaScript",
@@ -108,15 +153,6 @@
     "url": "https://github.com/alaremawi07-jpg/agentic-rce-gemini"
   },
   {
-    "description": "\u26a1 3B \u51b3\u7b56\u6a21\u578b\u9a71\u52a8\u771f\u5b9e\u6d4f\u89c8\u5668 \u00b7 LiquidAI d1-3B + llama.cpp \u7eaf CPU \u63a8\u7406 \u00b7 \u5355\u6b21\u524d\u5411\u6253\u5206 \u00b7 Claude-Code \u5f0f TUI \u00b7 d1 \u81ea\u4e3b\u51b3\u5b9a\u4f55\u65f6\u54a8\u8be2\u4e91\u7aef LLM | Fast browser a",
-    "id": "CyanXLab/fast-browser-use-d1",
-    "language": "Python",
-    "name": "CyanXLab/fast-browser-use-d1",
-    "stars": 0,
-    "updated_at": "2026-10-24T08:54:22Z",
-    "url": "https://github.com/CyanXLab/fast-browser-use-d1"
-  },
-  {
     "description": "Metacognitive extension suite for Pi coding agent",
     "id": "kifirkin/pi-braid",
     "language": "JavaScript",
@@ -140,7 +176,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 15,
-    "updated_at": "2026-10-24T08:45:27Z",
+    "updated_at": "2026-10-24T09:27:41Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -261,15 +297,6 @@
     "url": "https://github.com/wangyd1988/doc2sop"
   },
   {
-    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
-    "id": "xiongweilin/agent-skills",
-    "language": "PowerShell",
-    "name": "xiongweilin/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-24T09:13:28Z",
-    "url": "https://github.com/xiongweilin/agent-skills"
-  },
-  {
     "description": "AI\uac00 AWS \uc7a5\uc560\ub97c \uc9c4\ub2e8\ud558\uace0, \ubcc0\uacbd\uc740 \uc0ac\ub78c\uc774 \uc2b9\uc778\ud574\uc57c \uc2e4\ud589\ub418\ub294 \uc11c\ubc84\ub9ac\uc2a4 \uc6b4\uc601 \uc5d0\uc774\uc804\ud2b8",
     "id": "newbiehwang/Vigie",
     "language": "Python",
@@ -356,7 +383,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4461,
-    "updated_at": "2026-10-24T09:09:14Z",
+    "updated_at": "2026-10-24T09:29:31Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -376,15 +403,6 @@
     "stars": 21,
     "updated_at": "2026-10-24T08:51:32Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 54,
-    "updated_at": "2026-10-24T07:54:29Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
   },
   {
     "description": "Educational proof of concept, not investment advice: Python and LangGraph agent analysing a fixed watchlist of US stocks",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T07:35:07Z",
     "url": "https://github.com/ccr-wer/dsh-copilot-vision"
-  },
-  {
-    "description": "\u591c\u79e3\u4e07\u80fdDIY\u88c5\u673a\u987e\u95ee\uff1a\u7ed9\u9884\u7b97\u51fa\u80fd\u76f4\u63a5\u4e0b\u5355\u7684\u914d\u7f6e\u5355\uff08\u5168\u65b0/\u4e8c\u624b\u53cc\u4f53\u7cfb\u00b7\u53cc\u65b9\u6848\u00b73\u00d73\u5206\u8fa8\u7387\u77e9\u9635\u00b7\u63d2\u69fd\u517c\u5bb9\u6027\u786c\u6821\u9a8c\uff09\u3002\u652f\u4ed8\u5b9d 4.90 \u5143/\u6b21\u3002\u670d\u52a1\u7aef\u5728\u4e2d\u56fd\u5927\u9646\uff0c\u6d77\u5916\u4e0d\u53ef\u7528\u3002",
-    "id": "mcm369568095-hash/yemo-diy-pc-builder",
-    "language": "Python",
-    "name": "mcm369568095-hash/yemo-diy-pc-builder",
-    "stars": 0,
-    "updated_at": "2026-10-24T07:32:52Z",
-    "url": "https://github.com/mcm369568095-hash/yemo-diy-pc-builder"
-  },
-  {
-    "description": "\u9002\u7528\u4e8e Claude Code \u548c Codex \u7684\u6c42\u804c Skill\uff1a\u67e5\u627e\u5c97\u4f4d\u3001\u5224\u65ad\u662f\u5426\u503c\u5f97\u6295\u9012\u3001\u5236\u4f5c\u7b80\u5386\u4e0e\u7533\u8bf7\u6750\u6599\u3001\u68c0\u9a8c\u7533\u8bf7\u6750\u6599\u5e76\u6a21\u62df\u9762\u8bd5\u3002\u4e0d\u7f16\u9020\u6280\u80fd\u6216\u4e1a\u7ee9\u6570\u5b57\uff0c\u4e0d\u9884\u6d4b\u5f55\u7528\u6982\u7387\uff1b\u68c0\u67e5\u7b80\u5386\u662f\u5426\u4fbf\u4e8e\u62db\u8058\u7ba1\u7406\u7cfb\u7edf\uff08ATS\uff09\u8bfb\u53d6\uff0c\u5e76\u4ece\u62db\u8058\u4eba\u5458\u548c\u7528\u4eba",
-    "id": "addsumtech/job-hunt",
-    "language": "Python",
-    "name": "addsumtech/job-hunt",
-    "stars": 5,
-    "updated_at": "2026-10-24T07:26:04Z",
-    "url": "https://github.com/addsumtech/job-hunt"
   }
 ]
