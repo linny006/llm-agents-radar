@@ -1,5 +1,32 @@
 [
   {
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 7,
+    "updated_at": "2026-10-24T09:44:16Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-24T09:43:49Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 6,
+    "updated_at": "2026-10-24T09:40:58Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
     "description": "The Self-Improving Coding Agent",
     "id": "kanishka-namdeo/Unown",
     "language": "TypeScript",
@@ -25,15 +52,6 @@
     "stars": 11,
     "updated_at": "2026-10-24T09:39:43Z",
     "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
-  },
-  {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 7,
-    "updated_at": "2026-10-24T09:35:23Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
   },
   {
     "description": "A local-first AI companion for Windows: it remembers you, dreams over your day at night, follows up on what matters and ",
@@ -198,15 +216,6 @@
     "url": "https://github.com/Rukkakka/jibsa"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-24T08:42:47Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "\u77e5\u8bc6\u5bfb\u56deBOT \u2014\u2014 \u628a\u8bfe\u4ef6/\u8bfe\u672c/\u771f\u9898\u53d8\u6210\u4f1a\u8bb2\u8bfe\u3001\u4f1a\u51fa\u9898\u3001\u4f1a\u6279\u6539\u7684\u8bfe\u7a0b\u52a9\u6559\uff08LangGraph + RAG \u6df7\u5408\u68c0\u7d22 + SSE \u6d41\u5f0f\uff09",
     "id": "catcatsquid/ai-agent-api",
     "language": "Python",
@@ -250,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T08:31:51Z",
     "url": "https://github.com/mcm369568095-hash/yemo-ppt"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 6,
-    "updated_at": "2026-10-24T08:31:06Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "Not a chatbot\u2014a tireless digital secretary. Jarvis is a persistent, self-hosted AI operating system that manages communi",
